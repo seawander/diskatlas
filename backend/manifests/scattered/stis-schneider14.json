@@ -1,0 +1,134 @@
+{
+ "survey": "stis-schneider14",
+ "survey_name": "STIS-Schneider14",
+ "source_image": "images/_sources/_views/stis_s14_composite.png",
+ "panels": [
+  {
+   "id": "hd-15115",
+   "image_id": "hd-15115_stis-schneider14",
+   "bbox_frac": [
+    0.5024,
+    0.03612,
+    0.88,
+    0.04934
+   ]
+  },
+  {
+   "id": "hd-15745",
+   "image_id": "hd-15745_stis-schneider14",
+   "bbox_frac": [
+    0.3741,
+    0.10223,
+    0.6294,
+    0.12025
+   ]
+  },
+  {
+   "id": "hd-32297",
+   "image_id": "hd-32297_stis-schneider14",
+   "bbox_frac": [
+    0.1188,
+    0.19893,
+    0.5,
+    0.22273
+   ]
+  },
+  {
+   "id": "hd-53143",
+   "image_id": "hd-53143_stis-schneider14",
+   "bbox_frac": [
+    0.3741,
+    0.29645,
+    0.6306,
+    0.3138
+   ]
+  },
+  {
+   "id": "hd-61005",
+   "image_id": "hd-61005_stis-schneider14",
+   "bbox_frac": [
+    0.1188,
+    0.38992,
+    0.8741,
+    0.41586
+   ]
+  },
+  {
+   "id": "hd-92945",
+   "image_id": "hd-92945_stis-schneider14",
+   "bbox_frac": [
+    0.1188,
+    0.46984,
+    0.88,
+    0.49677
+   ]
+  },
+  {
+   "id": "hd-107146",
+   "image_id": "hd-107146_stis-schneider14",
+   "bbox_frac": [
+    0.1188,
+    0.55604,
+    0.4953,
+    0.5843
+   ]
+  },
+  {
+   "id": "hd-139664",
+   "image_id": "hd-139664_stis-schneider14",
+   "bbox_frac": [
+    0.1188,
+    0.67578,
+    0.88,
+    0.68826
+   ]
+  },
+  {
+   "id": "hd-181327",
+   "image_id": "hd-181327_stis-schneider14",
+   "bbox_frac": [
+    0.1188,
+    0.74695,
+    0.6271,
+    0.78265
+   ]
+  },
+  {
+   "id": "au-mic",
+   "image_id": "au-mic_stis-schneider14",
+   "bbox_frac": [
+    0.1188,
+    0.86223,
+    0.88,
+    0.87273
+   ]
+  },
+  {
+   "id": "pds-66",
+   "image_id": "pds-66_stis-schneider14",
+   "bbox_frac": [
+    0.1188,
+    0.93645,
+    0.4988,
+    0.96289
+   ]
+  }
+ ],
+ "image_defaults": {
+  "type": "disk_scattered",
+  "facility": "HST",
+  "instrument": "STIS",
+  "wavelength_um": 0.58,
+  "wavelength_label": "0.2-1.0 um broadband (optical)",
+  "technique": "coronagraphy"
+ },
+ "credit": "Schneider et al. 2014 (crop; per-target STIS PSFTSC figures)",
+ "paper": {
+  "first_author": "Schneider",
+  "year": 2014,
+  "title": "Probing for Exoplanets Hiding in Dusty Debris Disks: Disk Imaging, Characterization, and Exploration with HST/STIS Multi-Roll Coronagraphy",
+  "journal": "AJ 148, 59",
+  "arxiv": "1406.7303",
+  "bibcode": "2014AJ....148...59S"
+ }
+}

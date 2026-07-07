@@ -1,0 +1,6 @@
+images/_sources/extracted/
+data/staging/*.merged
+__pycache__/
+images/_sources/
+data/paper_finder/cache/
+paper_Overleaf/

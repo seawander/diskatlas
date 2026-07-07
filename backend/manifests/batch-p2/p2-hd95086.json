@@ -1,0 +1,34 @@
+{
+ "survey": "p2-hd95086",
+ "survey_name": null,
+ "source_image": "images/_sources/extracted/1801.05850/fig14.pdf",
+ "panels": [
+  {
+   "id": "hd-95086",
+   "image_id": "hd-95086_sphere2018",
+   "bbox_frac": [
+    0.0,
+    0.503,
+    0.502,
+    1.0
+   ]
+  }
+ ],
+ "image_defaults": {
+  "type": "disk_scattered",
+  "facility": "VLT-SPHERE",
+  "instrument": "IRDIS DPI",
+  "technique": "PDI",
+  "wavelength_um": 1.26,
+  "wavelength_label": "J band 1.26 um Q_phi (faint pol. detection, azimuthally averaged)"
+ },
+ "credit": "Chauvin et al. 2018, Fig. 14 (crop)",
+ "paper": {
+  "first_author": "Chauvin",
+  "year": 2018,
+  "title": "Investigating the young Solar System analog HD 95086: A combined HARPS and SPHERE exploration",
+  "journal": "A&A 617, A76",
+  "arxiv": "1801.05850",
+  "bibcode": "2018A&A...617A..76C"
+ }
+}

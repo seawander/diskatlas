@@ -1,0 +1,35 @@
+{
+ "survey": "mine-fomalhaut-f2300c",
+ "survey_name": null,
+ "source_image": "images/_sources/extracted/2305.03789/Fig2.png",
+ "panels": [
+  {
+   "id": "fomalhaut",
+   "image_id": "fomalhaut_jwst2023-f2300c",
+   "bbox_frac": [
+    0.3399,
+    0.0297,
+    0.661,
+    0.4902
+   ]
+  }
+ ],
+ "image_defaults": {
+  "type": "disk_mm",
+  "facility": "JWST",
+  "instrument": "MIRI F2300C",
+  "wavelength_um": 23.0,
+  "wavelength_label": "23 um thermal (intermediate belt + halo)",
+  "technique": "coronagraphy"
+ },
+ "credit": "Gáspár et al. 2023, Fig. 2 (crop)",
+ "paper": {
+  "first_author": "Gaspar",
+  "year": 2023,
+  "title": "Spatially resolved imaging of the inner Fomalhaut disk using JWST/MIRI",
+  "journal": "Nature Astronomy 7, 790",
+  "arxiv": "2305.03789",
+  "bibcode": null
+ },
+ "_comment": "Fig2.png top-middle panel = F2300C coronagraphic sky view"
+}

@@ -1,0 +1,39 @@
+{
+ "id": "v960-mon",
+ "name": "V960 Mon",
+ "alt_names": [],
+ "simbad": "V960 Mon",
+ "ra_deg": 104.8816210047,
+ "dec_deg": -4.0910460110,
+ "dist_pc": 2189.0,
+ "plx_mas": 0.4569,
+ "mags": {"V": 14.94, "G": 11.616493, "J": 11.05, "H": 10.12, "K": 9.452},
+ "sptype": null,
+ "region": null,
+ "categories": ["protoplanetary"],
+ "planets": [],
+ "images": [
+  {
+   "image_id": "v960-mon_zurlo2024",
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS",
+   "wavelength_um": 1.65,
+   "wavelength_label": "H band 1.65 um (polarized intensity, PI)",
+   "technique": "PDI",
+   "survey": null,
+   "file": "images/v960-mon/v960-mon_zurlo2024.png",
+   "credit": "Zurlo et al. 2024, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Zurlo",
+    "year": 2024,
+    "title": "The environment around young eruptive stars. SPHERE/IRDIS polarimetric imaging of 7 protostars",
+    "journal": "A&A 686, A76",
+    "arxiv": "2403.12124",
+    "bibcode": "2024A&A...686A..76Z"
+   }
+  }
+ ],
+ "notes": "FUor object in outburst since 2014, with a close (0.2 arcsec) stellar companion; SPHERE polarized-light imaging reveals huge spiral arms extending thousands of au (Zurlo et al. 2024). Detailed treatment, including evidence for planetary-mass clumps, presented in Weber et al. 2023b.",
+ "last_updated": "2026-07-06"
+}

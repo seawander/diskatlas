@@ -1,0 +1,59 @@
+{
+ "id": "cd-35-2722",
+ "name": "CD-35 2722",
+ "alt_names": [],
+ "simbad": "CD-35 2722",
+ "ra_deg": 92.3300338228,
+ "dec_deg": -35.8252960485,
+ "dist_pc": 22.36,
+ "plx_mas": 44.7203,
+ "mags": {
+  "V": 11.083,
+  "G": 10.2172,
+  "J": 7.92,
+  "H": 7.28,
+  "K": 7.046
+ },
+ "sptype": "M1Ve",
+ "region": "AB Doradus Moving Group",
+ "categories": [],
+ "planets": [
+  {
+   "name": "B",
+   "status": "confirmed",
+   "note": "L dwarf companion, ~31 Mjup, member of the AB Doradus moving group.",
+   "method": "imaging",
+   "paper": {
+    "first_author": "Wahhaj",
+    "year": 2011,
+    "arxiv": "1101.2893",
+    "bibcode": null
+   }
+  }
+ ],
+ "images": [
+  {
+   "image_id": "cd-35-2722_nici2011",
+   "type": "planet",
+   "facility": "Gemini-NICI",
+   "instrument": "NICI",
+   "wavelength_um": 1.6,
+   "wavelength_label": "H-band methane (CH4 4% short/long filters)",
+   "technique": "ADI",
+   "survey": "Gemini NICI Planet-Finding Campaign",
+   "file": "images/cd-35-2722/cd-35-2722_nici2011.png",
+   "credit": "Wahhaj et al. 2011, Fig. 1 (crop)",
+   "hires_url": null,
+   "paper": {
+    "first_author": "Wahhaj",
+    "year": 2011,
+    "title": "The Gemini NICI Planet-Finding Campaign: Discovery of a Substellar L Dwarf Companion to the Nearby Young M Dwarf CD-35 2722",
+    "journal": "ApJ 729, 139",
+    "arxiv": "1101.2893",
+    "bibcode": null
+   }
+  }
+ ],
+ "notes": null,
+ "last_updated": "2026-07-07"
+}

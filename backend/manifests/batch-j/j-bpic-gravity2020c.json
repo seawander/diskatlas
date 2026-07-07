@@ -1,0 +1,21 @@
+{
+ "survey": "j-bpic-gravity2020c",
+ "survey_name": null,
+ "source_image": "images/_sources/extracted/2010.04442/figures/chi2Map_2020-03-08.pdf",
+ "pdf_page": null,
+ "panels": [
+  {
+   "id": "beta-pic",
+   "image_id": "beta-pic_gravity2020c",
+   "bbox_frac": [
+    0.145,
+    0.1,
+    0.76,
+    0.92
+   ]
+  }
+ ],
+ "image_defaults": {},
+ "credit": "Nowak et al. 2020, Fig. 1 (crop: 2020-03-08 periodogram power map, beta Pic c)",
+ "paper": null
+}

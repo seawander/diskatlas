@@ -1,0 +1,35 @@
+{
+ "survey": "pl-51eri",
+ "survey_name": null,
+ "source_image": "images/_sources/extracted/1508.03084/1508.03084.pdf",
+ "pdf_page": 14,
+ "panels": [
+  {
+   "id": "51-eri",
+   "image_id": "51-eri_gpi2015",
+   "bbox_frac": [
+    0.144,
+    0.087,
+    0.384,
+    0.276
+   ]
+  }
+ ],
+ "image_defaults": {
+  "type": "planet",
+  "facility": "Gemini-GPI",
+  "instrument": "IFS",
+  "wavelength_um": 1.65,
+  "wavelength_label": "H band; T-dwarf planet discovery",
+  "technique": "ADI"
+ },
+ "credit": "Macintosh et al. 2015, Fig. 1 (crop)",
+ "paper": {
+  "first_author": "Macintosh",
+  "year": 2015,
+  "title": "Discovery and spectroscopy of the young jovian planet 51 Eri b with the Gemini Planet Imager",
+  "journal": "Science 350, 64",
+  "arxiv": "1508.03084",
+  "bibcode": "2015Sci...350...64M"
+ }
+}

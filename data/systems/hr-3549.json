@@ -1,0 +1,59 @@
+{
+ "id": "hr-3549",
+ "name": "HR 3549",
+ "alt_names": [],
+ "simbad": "HR 3549",
+ "ra_deg": 133.2657458385,
+ "dec_deg": -56.6494854266,
+ "dist_pc": 94.78,
+ "plx_mas": 10.5509,
+ "mags": {
+  "V": 5.998,
+  "G": 6.0126,
+  "J": 6.04,
+  "H": 6.047,
+  "K": 6.044
+ },
+ "sptype": "A0V",
+ "region": "Isolated",
+ "categories": [],
+ "planets": [
+  {
+   "name": "B",
+   "status": "confirmed",
+   "note": "Brown dwarf/low-mass companion, 15-80 Mjup, ~80 AU, orbiting an A0V debris-disk host.",
+   "method": "imaging",
+   "paper": {
+    "first_author": "Mawet",
+    "year": 2015,
+    "arxiv": "1509.05689",
+    "bibcode": null
+   }
+  }
+ ],
+ "images": [
+  {
+   "image_id": "hr-3549_naco2015",
+   "type": "planet",
+   "facility": "VLT-NACO",
+   "instrument": "NAOS-CONICA",
+   "wavelength_um": 3.8,
+   "wavelength_label": "L' band",
+   "technique": "ADI",
+   "survey": null,
+   "file": "images/hr-3549/hr-3549_naco2015.png",
+   "credit": "Mawet et al. 2015, Fig. 1 (crop)",
+   "hires_url": null,
+   "paper": {
+    "first_author": "Mawet",
+    "year": 2015,
+    "title": "Discovery of a low-mass companion around HR3549",
+    "journal": "ApJ 811, 103",
+    "arxiv": "1509.05689",
+    "bibcode": null
+   }
+  }
+ ],
+ "notes": null,
+ "last_updated": "2026-07-07"
+}

@@ -1,0 +1,33 @@
+{
+ "survey": "t-bahcall-quasars-1994",
+ "survey_name": "Bahcall-quasars-1994",
+ "source_image": "images/_sources/extracted/astro-ph_9409028/b94.pdf",
+ "pdf_page": 12,
+ "panels": [
+  {"id": "pg-0953-414", "image_id": "pg-0953-414_bahcall1994",
+   "bbox_frac": [0.214404, 0.307811, 0.521165, 0.524291]},
+  {"id": "pg-1116-215", "image_id": "pg-1116-215_bahcall1994",
+   "bbox_frac": [0.525014, 0.307811, 0.831776, 0.524291]},
+  {"id": "pg-1202-281", "image_id": "pg-1202-281_bahcall1994",
+   "bbox_frac": [0.214404, 0.527011, 0.521165, 0.743490]},
+  {"id": "pg-1307-085", "image_id": "pg-1307-085_bahcall1994",
+   "bbox_frac": [0.525014, 0.527011, 0.831776, 0.743490]}
+ ],
+ "image_defaults": {
+  "type": "quasar",
+  "facility": "HST",
+  "instrument": "WFPC2 (WFC)",
+  "wavelength_um": 0.6,
+  "wavelength_label": "F606W; PSF-subtracted quasar image (host-galaxy upper limit, the 'naked quasar' result)",
+  "technique": "other"
+ },
+ "credit": "Bahcall et al. 1994, Fig. 1 (crop)",
+ "paper": {
+  "first_author": "Bahcall",
+  "year": 1994,
+  "title": "HST Images of Nearby Luminous Quasars",
+  "journal": "ApJL 435, L11",
+  "arxiv": "astro-ph/9409028",
+  "bibcode": "1994ApJ...435L..11B"
+ }
+}

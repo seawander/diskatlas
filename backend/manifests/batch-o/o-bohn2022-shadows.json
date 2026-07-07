@@ -1,0 +1,56 @@
+{
+ "survey": "o-bohn2022-shadows",
+ "survey_name": null,
+ "source_image": "images/_sources/extracted/2112.00123/data/shadow_predictions_a.pdf",
+ "pdf_page": 1,
+ "dpi": 250,
+ "credit": "Bohn et al. 2022, Fig. 7 (crop: middle+right panels - SPHERE scattered-light image with shadow positions predicted from the VLTI/GRAVITY inner-disk geometry, misalignment solutions Dtheta_1 in blue and Dtheta_2 in orange)",
+ "paper": {
+  "first_author": "Bohn",
+  "year": 2022,
+  "title": "Probing inner and outer disk misalignments in transition disks: constraints from VLTI/GRAVITY and ALMA observations",
+  "journal": "A&A 658, A183",
+  "arxiv": "2112.00123",
+  "bibcode": "2022A&A...658A.183B"
+ },
+ "panels": [
+  {
+   "id": "hd-100453",
+   "image_id": "hd-100453_gravity2022-shadow",
+   "bbox_frac": [
+    0.3404,
+    0.0,
+    0.9923,
+    0.1655
+   ]
+  },
+  {
+   "id": "hd-142527",
+   "image_id": "hd-142527_gravity2022-shadow",
+   "bbox_frac": [
+    0.3404,
+    0.167,
+    0.9923,
+    0.3325
+   ]
+  },
+  {
+   "id": "cq-tau",
+   "image_id": "cq-tau_gravity2022-shadow",
+   "bbox_frac": [
+    0.3404,
+    0.334,
+    0.9923,
+    0.499
+   ]
+  }
+ ],
+ "image_defaults": {
+  "type": "disk_scattered",
+  "facility": "VLTI-GRAVITY + VLT-SPHERE",
+  "instrument": "GRAVITY K + scattered light",
+  "wavelength_um": 2.2,
+  "wavelength_label": "inner-disk misalignment: predicted vs observed shadows",
+  "technique": "interferometry"
+ }
+}

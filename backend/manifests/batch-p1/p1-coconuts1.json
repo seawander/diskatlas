@@ -1,0 +1,36 @@
+{
+ "survey": "p1-coconuts1",
+ "source_image": "images/_sources/extracted/2002.05723/WD_T_finderchart.pdf",
+ "pdf_page": 1,
+ "dpi": 220,
+ "panels": [
+  {
+   "id": "coconuts-1",
+   "image_id": "coconuts-1_discovery2020",
+   "bbox_frac": [
+    0.1286,
+    0.0019,
+    0.8721,
+    0.9972
+   ]
+  }
+ ],
+ "image_defaults": {
+  "type": "planet",
+  "facility": "Pan-STARRS1",
+  "instrument": "GPC1, y band",
+  "wavelength_um": 0.96,
+  "wavelength_label": "PS1 y-band image: T4 companion 40.6\" (1280 au) from the white dwarf",
+  "technique": "other"
+ },
+ "survey_name": null,
+ "credit": "Zhang et al. 2020, Fig. 1",
+ "paper": {
+  "first_author": "Zhang",
+  "year": 2020,
+  "title": "COol Companions ON Ultrawide orbiTS (COCONUTS). I. A High-Gravity T4 Benchmark around an Old White Dwarf and A Re-Examination of the Surface-Gravity Dependence of the L/T Transition",
+  "journal": "ApJ 891, 171",
+  "arxiv": "2002.05723",
+  "bibcode": "2020ApJ...891..171Z"
+ }
+}

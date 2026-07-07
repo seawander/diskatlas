@@ -1,0 +1,44 @@
+{
+ "id": "b335",
+ "name": "B335",
+ "alt_names": [
+  "IRAS 19345+0727"
+ ],
+ "simbad": "IRAS 19345+0727",
+ "ra_deg": 294.2529166666667,
+ "dec_deg": 7.568888888888889,
+ "dist_pc": 165,
+ "plx_mas": null,
+ "mags": null,
+ "sptype": null,
+ "region": "Isolated (Bok globule)",
+ "categories": [
+  "protoplanetary"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "image_id": "b335_edisk",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 6",
+   "wavelength_um": 1300,
+   "wavelength_label": "1.3 mm continuum",
+   "technique": "interferometry",
+   "survey": "eDisk",
+   "file": "images/b335/b335_edisk.png",
+   "credit": "Ohashi et al. 2023, Fig. 2 (crop)",
+   "hires_url": null,
+   "paper": {
+    "first_author": "Ohashi",
+    "year": 2023,
+    "title": "Early Planet Formation in Embedded Disks (eDisk). I. Overview and First Results",
+    "journal": "ApJ 951, 8",
+    "arxiv": "2306.15406",
+    "bibcode": "2023ApJ...951....8O"
+   }
+  }
+ ],
+ "notes": "Class 0 embedded protostar (eDisk)",
+ "last_updated": "2026-07-06"
+}

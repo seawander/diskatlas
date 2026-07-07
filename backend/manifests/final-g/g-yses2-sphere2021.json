@@ -1,0 +1,34 @@
+{
+ "survey": "g-yses2-sphere2021",
+ "survey_name": null,
+ "source_image": "images/_sources/extracted/2104.08285/tyc8984_companion.pdf",
+ "panels": [
+  {
+   "id": "yses-2",
+   "image_id": "yses-2_sphere2021",
+   "bbox_frac": [
+    0.067,
+    0.047,
+    0.482,
+    0.902
+   ]
+  }
+ ],
+ "image_defaults": {
+  "type": "planet",
+  "facility": "VLT-SPHERE",
+  "instrument": "IRDIS",
+  "wavelength_um": 1.65,
+  "wavelength_label": "H band discovery",
+  "technique": "ADI"
+ },
+ "credit": "Bohn et al. 2021, Fig. 2 (crop)",
+ "paper": {
+  "first_author": "Bohn",
+  "year": 2021,
+  "title": "Discovery of a directly imaged planet to the young solar analog YSES 2",
+  "journal": "A&A 648, A73",
+  "arxiv": "2104.08285",
+  "bibcode": "2021A&A...648A..73B"
+ }
+}

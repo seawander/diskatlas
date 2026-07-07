@@ -1,0 +1,51 @@
+{
+ "id": "lkha-345",
+ "name": "LkHa 345",
+ "alt_names": [
+  "EM* LkHa 345"
+ ],
+ "simbad": "EM* LkHa 345",
+ "ra_deg": 257.70018717247,
+ "dec_deg": -27.68095808812,
+ "dist_pc": 160.1,
+ "plx_mas": 6.2454,
+ "mags": {
+  "V": 13.04,
+  "B": 14.47,
+  "G": 12.151357,
+  "J": 9.601,
+  "H": 8.692,
+  "K": 8.35
+ },
+ "sptype": null,
+ "region": "Ophiuchus",
+ "categories": [
+  "protoplanetary"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "image_id": "lkha-345_nircensus",
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS",
+   "wavelength_um": 1.65,
+   "wavelength_label": "H band polarized light",
+   "technique": "PDI",
+   "survey": "SPHERE-NIR-census",
+   "file": "images/lkha-345/lkha-345_nircensus.png",
+   "credit": "Garufi et al. 2026, Fig. A.1 (crop)",
+   "hires_url": null,
+   "paper": {
+    "first_author": "Garufi",
+    "year": 2026,
+    "title": "Planet-forming disks and their environment across regions and time from the full NIR census",
+    "journal": "A&A, in press",
+    "arxiv": "2603.01703",
+    "bibcode": null
+   }
+  }
+ ],
+ "notes": "SPHERE/IRDIS H-band polarimetric image (program 0111.C-0369, PI Vioque). Faint polarimetric signal detected only out to 0.2 arcsec, slightly more extended to SW than NE, suggesting a disk P.A. of ~160 deg with the near side to NE (Garufi et al. 2026).",
+ "last_updated": "2026-07-06"
+}

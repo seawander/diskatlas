@@ -1,0 +1,35 @@
+{
+ "survey": "pl-gj504",
+ "survey_name": null,
+ "source_image": "images/_sources/_views/batchD_gj504_f3.png",
+ "pdf_page": null,
+ "panels": [
+  {
+   "id": "gj-504",
+   "image_id": "gj-504_seeds2013",
+   "bbox_frac": [
+    0.502,
+    0.0,
+    1.0,
+    1.0
+   ]
+  }
+ ],
+ "image_defaults": {
+  "type": "planet",
+  "facility": "Subaru-HiCIAO",
+  "instrument": "HiCIAO",
+  "wavelength_um": 1.65,
+  "wavelength_label": "J/H composite; SEEDS discovery",
+  "technique": "ADI"
+ },
+ "credit": "Kuzuhara et al. 2013, Fig. 5 (crop)",
+ "paper": {
+  "first_author": "Kuzuhara",
+  "year": 2013,
+  "title": "Direct Imaging of a Cold Jovian Exoplanet in Orbit around the Sun-like Star GJ 504",
+  "journal": "ApJ 774, 11",
+  "arxiv": "1307.2886",
+  "bibcode": "2013ApJ...774...11K"
+ }
+}

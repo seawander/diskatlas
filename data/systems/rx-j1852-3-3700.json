@@ -1,0 +1,92 @@
+{
+ "id": "rx-j1852-3-3700",
+ "name": "RX J1852.3-3700",
+ "alt_names": [
+  "J1852"
+ ],
+ "simbad": "RX J1852.3-3700",
+ "ra_deg": 283.07208894021,
+ "dec_deg": -37.0033191447,
+ "dist_pc": 147.1,
+ "sptype": "K7V",
+ "region": "CrA",
+ "categories": [
+  "protoplanetary"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "technique": "interferometry",
+   "instrument": "Band 7",
+   "wavelength_um": 900,
+   "wavelength_label": "0.9 mm continuum",
+   "image_id": "rx-j1852-3-3700_exoalma",
+   "survey": "exoALMA",
+   "file": "images/rx-j1852-3-3700/rx-j1852-3-3700_exoalma.png",
+   "credit": "Curone et al. 2025, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Curone",
+    "year": 2025,
+    "title": "exoALMA IV: Substructures, Asymmetries, and the Faint Outer Disk in Continuum Emission",
+    "journal": "ApJL (exoALMA special issue)",
+    "arxiv": "2504.18725",
+    "bibcode": null
+   }
+  },
+  {
+   "image_id": "rx-j1852-3-3700_alice-f110w",
+   "type": "disk_scattered",
+   "facility": "HST",
+   "instrument": "NICMOS",
+   "wavelength_um": 1.1,
+   "wavelength_label": "F110W 1.1 um (ALICE archival reprocessing, combined coadd)",
+   "technique": "RDI",
+   "survey": "ALICE",
+   "file": "images/rx-j1852-3-3700/rx-j1852-3-3700_alice-f110w.png",
+   "credit": "ALICE HLSP v1 combined coadd (HST program 10849, STScI) — hi-res: ALICE archive (STScI)",
+   "paper": {
+    "first_author": "Hagan",
+    "year": 2018,
+    "title": "ALICE Data Release: A revaluation of HST-NICMOS coronagraphic images",
+    "journal": "AJ 155, 179",
+    "arxiv": "1802.07754",
+    "bibcode": null
+   },
+   "hires_url": "https://archive.stsci.edu/prepds/alice/"
+  },
+  {
+   "image_id": "rx-j1852-3-3700_sphere2019",
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "SPHERE/IRDIS (DPI, H-band)",
+   "wavelength_um": 1.65,
+   "wavelength_label": "H-band polarimetric",
+   "technique": "PDI",
+   "survey": null,
+   "credit": "Villenave et al. 2019, Fig. 2 (crop)",
+   "paper": {
+    "first_author": "Villenave",
+    "year": 2019,
+    "title": "Spatial segregation of dust grains in transition disks. SPHERE observations of 2MASS J16083070-3828268 and RXJ1852.3-3700",
+    "journal": "A&A 624, A7 (2019)",
+    "arxiv": "1902.04612",
+    "bibcode": null
+   },
+   "file": "images/rx-j1852-3-3700/rx-j1852-3-3700_sphere2019.png"
+  }
+ ],
+ "notes": null,
+ "last_updated": "2026-07-07",
+ "plx_mas": 6.7986,
+ "mags": {
+  "B": 12.7,
+  "V": 12.194,
+  "G": 11.715565,
+  "I": 10.842,
+  "J": 9.772,
+  "H": 9.141,
+  "K": 9.007
+ }
+}

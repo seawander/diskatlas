@@ -1,0 +1,133 @@
+{
+ "id": "hd-206893",
+ "name": "HD 206893",
+ "alt_names": [],
+ "simbad": "HD 206893",
+ "ra_deg": 326.34127188872,
+ "dec_deg": -12.78335022351,
+ "dist_pc": 40.8,
+ "sptype": "F5V",
+ "region": null,
+ "categories": [
+  "debris"
+ ],
+ "planets": [
+  {
+   "name": "c",
+   "status": "confirmed",
+   "note": "GRAVITY interferometric detection; ~13 MJup",
+   "paper": {
+    "first_author": "Hinkley",
+    "year": 2023,
+    "arxiv": "2208.04867",
+    "bibcode": null,
+    "_verify": true
+   },
+   "method": "interferometry"
+  },
+  {
+   "name": "B",
+   "status": "confirmed",
+   "note": "~25-30 MJup brown dwarf companion (imaged 2017)",
+   "paper": {
+    "first_author": "Milli",
+    "year": 2017,
+    "arxiv": "1612.00333",
+    "bibcode": "2017A&A...597L...2M"
+   }
+  }
+ ],
+ "images": [
+  {
+   "type": "disk_mm",
+   "facility": "ALMA/SMA",
+   "technique": "interferometry",
+   "instrument": "Band 6/7",
+   "wavelength_um": 1300,
+   "wavelength_label": "~0.9-1.3 mm continuum",
+   "image_id": "hd-206893_reasons",
+   "survey": "REASONS",
+   "file": "images/hd-206893/hd-206893_reasons.png",
+   "credit": "Matrà et al. 2025, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Matra",
+    "year": 2025,
+    "title": "REsolved ALMA and SMA Observations of Nearby Stars (REASONS): A population of 74 resolved planetesimal belts at millimetre wavelengths",
+    "journal": "A&A 693, A151",
+    "arxiv": "2501.09058",
+    "bibcode": "2025A&A...693A.151M"
+   }
+  },
+  {
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 7/6",
+   "wavelength_um": 880,
+   "wavelength_label": "~0.88-1.3 mm continuum",
+   "technique": "interferometry",
+   "image_id": "hd-206893_arks",
+   "file": "images/hd-206893/hd-206893_arks.png",
+   "survey": "ARKS",
+   "credit": "Marino et al. 2026, Fig. 3 (crop)",
+   "paper": {
+    "first_author": "Marino",
+    "year": 2026,
+    "title": "The ALMA survey to Resolve exoKuiper belt Substructures (ARKS) I: Motivation, sample, data reduction, and results overview",
+    "journal": "A&A",
+    "arxiv": "2601.11708",
+    "bibcode": null
+   }
+  },
+  {
+   "image_id": "hd-206893_alma2020",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 6",
+   "wavelength_um": 1300,
+   "wavelength_label": "1.3 mm continuum",
+   "technique": "interferometry",
+   "survey": null,
+   "file": "images/hd-206893/hd-206893_alma2020.png",
+   "credit": "Marino et al. 2020, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Marino",
+    "year": 2020,
+    "title": "Insights into the planetary dynamics of HD 206893 with ALMA",
+    "journal": "MNRAS 498, 1319",
+    "arxiv": "2010.12582",
+    "bibcode": "2020MNRAS.498.1319M"
+   }
+  },
+  {
+   "image_id": "hd-206893_sphere2017",
+   "type": "planet",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS (ADI + PCA coronagraphy)",
+   "wavelength_um": 1.6,
+   "wavelength_label": "H band 1.6 um",
+   "technique": "ADI",
+   "survey": null,
+   "credit": "Milli et al. 2017, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Milli",
+    "year": 2017,
+    "title": "Discovery of a low-mass companion inside the debris ring surrounding the F5V star HD206893",
+    "journal": "A&A 597, L2 (2017)",
+    "arxiv": "1612.00333",
+    "bibcode": null
+   },
+   "file": "images/hd-206893/hd-206893_sphere2017.png"
+  }
+ ],
+ "notes": null,
+ "last_updated": "2026-07-07",
+ "plx_mas": 24.5275,
+ "mags": {
+  "B": 7.11,
+  "V": 6.67,
+  "G": 6.585952,
+  "J": 5.869,
+  "H": 5.687,
+  "K": 5.593
+ }
+}

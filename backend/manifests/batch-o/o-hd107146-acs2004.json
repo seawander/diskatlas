@@ -1,0 +1,43 @@
+{
+ "survey": "o-hd107146-acs2004",
+ "survey_name": null,
+ "source_image": "images/_sources/_views/batch-o/src_ardila_f1.png",
+ "pdf_page": null,
+ "credit": "Ardila et al. 2004, Fig. 1 (crop: top row; PSF-subtracted ACS coronagraphic images, left=F606W, right=F814W)",
+ "paper": {
+  "first_author": "Ardila",
+  "year": 2004,
+  "title": "A Resolved Debris Disk around the G2V Star HD 107146",
+  "journal": "ApJL 617, L147",
+  "arxiv": "astro-ph/0411422",
+  "bibcode": "2004ApJ...617L.147A"
+ },
+ "panels": [
+  {
+   "id": "hd-107146",
+   "image_id": "hd-107146_acs2004-f606w",
+   "bbox_frac": [
+    0.0,
+    0.0,
+    0.5,
+    0.5
+   ]
+  },
+  {
+   "id": "hd-107146",
+   "image_id": "hd-107146_acs2004-f814w",
+   "bbox_frac": [
+    0.5,
+    0.0,
+    1.0,
+    0.5
+   ]
+  }
+ ],
+ "image_defaults": {
+  "type": "disk_scattered",
+  "facility": "HST",
+  "instrument": "ACS",
+  "technique": "coronagraphy"
+ }
+}

@@ -1,0 +1,24 @@
+{
+  "survey": "discs",
+  "survey_name": "DISCS",
+  "source_image": "images/_sources/extracted/2505.02976/Qr_image_all_v3.pdf",
+  "pdf_page": 1,
+  "dpi": 200,
+  "panels": [
+    { "id": "hd-98363",  "image_id": "hd-98363_discs",  "bbox_frac": [0.0700, 0.0100, 0.2790, 0.4280] },
+    { "id": "hd-109832", "image_id": "hd-109832_discs", "bbox_frac": [0.5410, 0.0100, 0.7500, 0.4280] },
+    { "id": "hd-112810", "image_id": "hd-112810_discs", "bbox_frac": [0.7770, 0.0100, 0.9860, 0.4280] },
+    { "id": "hd-146181", "image_id": "hd-146181_discs", "bbox_frac": [0.5410, 0.4540, 0.7500, 0.8720] }
+  ],
+  "image_defaults": {
+    "type": "disk_scattered", "facility": "Gemini-GPI", "instrument": "IFS pol",
+    "wavelength_um": 1.65, "wavelength_label": "H band 1.6 um (Qr pol. intensity)",
+    "technique": "PDI"
+  },
+  "credit": "Hom et al. 2025, Fig. 1 (crop)",
+  "paper": {
+    "first_author": "Hom", "year": 2025,
+    "title": "The Disks In Scorpius-Centaurus Survey (DISCS) I: Four Newly-Resolved Debris Disks in Polarized Intensity Light",
+    "journal": "AJ, in press", "arxiv": "2505.02976", "bibcode": null
+  }
+}

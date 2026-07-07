@@ -1,0 +1,48 @@
+{
+ "id": "v935-sco",
+ "name": "V935 Sco",
+ "alt_names": [],
+ "simbad": "V935 Sco",
+ "ra_deg": 245.57722151008,
+ "dec_deg": -23.36337394292,
+ "dist_pc": 136.9,
+ "plx_mas": 7.3072,
+ "mags": {
+  "V": 12.67,
+  "G": 12.260818,
+  "J": 9.515,
+  "H": 8.59,
+  "K": 8.109
+ },
+ "sptype": "K4",
+ "region": "Ophiuchus",
+ "categories": [
+  "protoplanetary"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "image_id": "v935-sco_destinys",
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS",
+   "wavelength_um": 1.65,
+   "wavelength_label": "H band polarized light",
+   "technique": "PDI",
+   "survey": "SPHERE-NIR-census",
+   "file": "images/v935-sco/v935-sco_destinys.png",
+   "credit": "Garufi et al. 2026, Fig. A.1 (crop)",
+   "hires_url": null,
+   "paper": {
+    "first_author": "Garufi",
+    "year": 2026,
+    "title": "Planet-forming disks and their environment across regions and time from the full NIR census",
+    "journal": "A&A, in press",
+    "arxiv": "2603.01703",
+    "bibcode": null
+   }
+  }
+ ],
+ "notes": "First-published SPHERE/IRDIS H-band polarimetric image (DESTINYS). Both disk and ambient contribution are detected: an inclined disk (P.A. 80 deg, extent ~50 au) with visible back side, plus asymmetric diffuse ambient scattered light out to 150 au. Disk features: back side; ambient features: ambient interaction (Garufi et al. 2026, Table A.5/Fig. A.1).",
+ "last_updated": "2026-07-06"
+}

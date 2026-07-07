@@ -1,0 +1,45 @@
+{
+ "survey": "mine-dartts-j",
+ "survey_name": "DARTTS-S",
+ "source_image": "images/_sources/_views/mine_dartts_fig2_r300.png",
+ "panels": [
+  {
+   "id": "im-lup",
+   "image_id": "im-lup_dartts-s-j",
+   "bbox_frac": [
+    0.3568,
+    0.0258,
+    0.5113,
+    0.1446
+   ]
+  },
+  {
+   "id": "ru-lup",
+   "image_id": "ru-lup_dartts-s-j",
+   "bbox_frac": [
+    0.5176,
+    0.2699,
+    0.6721,
+    0.3887
+   ]
+  }
+ ],
+ "image_defaults": {
+  "type": "disk_scattered",
+  "facility": "VLT-SPHERE",
+  "instrument": "IRDIS DPI",
+  "wavelength_um": 1.25,
+  "wavelength_label": "J band 1.25 um (pol. intensity)",
+  "technique": "PDI"
+ },
+ "credit": "Avenhaus et al. 2018, appendix gallery (crop)",
+ "paper": {
+  "first_author": "Avenhaus",
+  "year": 2018,
+  "title": "Disks around T Tauri Stars with SPHERE (DARTTS-S). I. SPHERE/IRDIS Polarimetric Imaging of Eight Prominent T Tauri Disks",
+  "journal": "ApJ 863, 44",
+  "arxiv": "1803.10882",
+  "bibcode": "2018ApJ...863...44A"
+ },
+ "_comment": "r300 gs render of Figure2_new2.eps; IM Lup = col3 (Qphi J r^2) row1; RU Lup = col4 (Qphi J log) row3 (r^2 panel too noisy); siblings <id>_dartts-s are H-band Fig.1 crops"
+}

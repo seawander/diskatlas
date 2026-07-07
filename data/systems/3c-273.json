@@ -1,0 +1,112 @@
+{
+ "id": "3c-273",
+ "name": "3C 273",
+ "alt_names": [
+  "PGC 41121"
+ ],
+ "simbad": "3C 273",
+ "ra_deg": 187.27791594049,
+ "dec_deg": 2.05238823055,
+ "dist_pc": 92592.6,
+ "plx_mas": 0.0108,
+ "mags": {
+  "B": 13.05,
+  "V": 14.83,
+  "G": 12.84409,
+  "R": 14.11,
+  "J": 11.692,
+  "H": 10.953,
+  "K": 9.937
+ },
+ "sptype": "QSO (z=0.158)",
+ "region": "extragalactic (Virgo)",
+ "categories": [
+  "quasar"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "image_id": "3c-273_stis2024",
+   "type": "quasar",
+   "facility": "HST",
+   "instrument": "STIS",
+   "wavelength_um": 0.58,
+   "wavelength_label": "optical coronagraphy of the host galaxy (0.2-60 arcsec) + jet",
+   "technique": "RDI",
+   "survey": null,
+   "file": "images/3c-273/3c-273_stis2024.png",
+   "credit": "Ren et al. 2024, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Ren",
+    "year": 2024,
+    "title": "3C 273 host galaxy with Hubble Space Telescope coronagraphy",
+    "journal": "A&A 683, L5",
+    "arxiv": "2402.09505",
+    "bibcode": "2024A&A...683L...5R"
+   }
+  },
+  {
+   "image_id": "3c-273_acs2003",
+   "type": "quasar",
+   "facility": "HST",
+   "instrument": "ACS/HRC coronagraph",
+   "wavelength_um": 0.6,
+   "wavelength_label": "optical coronagraphy; host galaxy revealed outside ~1.5 arcsec + jet",
+   "technique": "coronagraphy",
+   "survey": null,
+   "file": "images/3c-273/3c-273_acs2003.png",
+   "credit": "Martel et al. 2003, Fig. 6 (crop)",
+   "paper": {
+    "first_author": "Martel",
+    "year": 2003,
+    "title": "Coronagraphic Imaging of 3C 273 with the Advanced Camera for Surveys",
+    "journal": "AJ 125, 2964",
+    "arxiv": null,
+    "bibcode": "2003AJ....125.2964M"
+   }
+  },
+  {
+   "type": "quasar",
+   "facility": "HST",
+   "instrument": "WFPC2",
+   "wavelength_um": 0.6,
+   "wavelength_label": "F606W long-exposure, PSF-subtracted; host galaxy + jet",
+   "technique": "other",
+   "image_id": "3c-273_bahcall1995",
+   "file": "images/3c-273/3c-273_bahcall1995.png",
+   "survey": "Bahcall-quasars-1995",
+   "credit": "Bahcall et al. 1995, Fig. 4 bottom-right panel (3C 273, PSF-subtracted; ADS scan crop)",
+   "paper": {
+    "first_author": "Bahcall",
+    "year": 1995,
+    "title": "Hubble Space Telescope Images of Nearby Luminous Quasars. II. Results for Eight Quasars and Tests of the Detection Sensitivity",
+    "journal": "ApJ 450, 486",
+    "arxiv": "astro-ph/9501018",
+    "bibcode": "1995ApJ...450..486B"
+   }
+  },
+  {
+   "image_id": "3c-273_alma-dfg2022",
+   "type": "quasar",
+   "facility": "ALMA",
+   "instrument": "Band 3/6/7 continuum",
+   "wavelength_um": 1300,
+   "wavelength_label": "93, 233, 343 GHz continuum",
+   "technique": "interferometry",
+   "survey": null,
+   "credit": "Komugi et al. 2022, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Komugi",
+    "year": 2022,
+    "title": "Detection of extended millimeter emission in the host galaxy of 3C273 and its implications for QSO feedback via high dynamic range ALMA imaging",
+    "journal": "PASJ",
+    "arxiv": "2203.15218",
+    "bibcode": null
+   },
+   "file": "images/3c-273/3c-273_alma-dfg2022.png"
+  }
+ ],
+ "notes": "First entry of the quasar-host coronagraphy category. The brightest quasar; host imaged to 0.2 arcsec with STIS RDI.",
+ "last_updated": "2026-07-06",
+ "redshift": 0.158
+}

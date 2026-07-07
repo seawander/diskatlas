@@ -1,0 +1,49 @@
+{
+ "id": "hd-50138",
+ "name": "HD 50138",
+ "alt_names": [],
+ "simbad": "HD 50138",
+ "ra_deg": 102.8891624266,
+ "dec_deg": -6.96651410357,
+ "dist_pc": 351.0,
+ "sptype": "A1Ib/II",
+ "region": null,
+ "categories": [
+  "protoplanetary"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "type": "disk_scattered",
+   "facility": "Gemini-GPI",
+   "instrument": "IFS pol",
+   "wavelength_um": 1.24,
+   "wavelength_label": "J band 1.24 um (pol. intensity)",
+   "technique": "PDI",
+   "image_id": "hd-50138_gemini-lights",
+   "survey": "Gemini-LIGHTS",
+   "file": "images/hd-50138/hd-50138_gemini-lights.png",
+   "credit": "Rich et al. 2022, continuous gallery (crop)",
+   "paper": {
+    "first_author": "Rich",
+    "year": 2022,
+    "title": "Gemini-LIGHTS: Herbig Ae/Be and Massive T Tauri Protoplanetary Disks Imaged with Gemini Planet Imager",
+    "journal": "AJ 164, 109",
+    "arxiv": "2206.05815",
+    "bibcode": "2022AJ....164..109R"
+   }
+  }
+ ],
+ "notes": null,
+ "last_updated": "2026-07-06",
+ "plx_mas": 2.8487,
+ "mags": {
+  "U": 6.28,
+  "B": 6.68,
+  "V": 6.67,
+  "G": 6.550996,
+  "J": 5.856,
+  "H": 5.093,
+  "K": 4.147
+ }
+}

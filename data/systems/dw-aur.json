@@ -1,0 +1,47 @@
+{
+ "id": "dw-aur",
+ "name": "DW Aur",
+ "alt_names": [],
+ "simbad": "DW Aur",
+ "ra_deg": 78.60765719061,
+ "dec_deg": 30.01727587944,
+ "dist_pc": 155.0,
+ "plx_mas": 6.4503,
+ "mags": {
+  "G": 12.846578,
+  "J": 10.142,
+  "H": 9.441,
+  "K": 9.231
+ },
+ "sptype": null,
+ "region": "Taurus",
+ "categories": [
+  "protoplanetary"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "image_id": "dw-aur_destinys",
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS",
+   "wavelength_um": 1.65,
+   "wavelength_label": "H band polarized light",
+   "technique": "PDI",
+   "survey": "SPHERE-NIR-census",
+   "file": "images/dw-aur/dw-aur_destinys.png",
+   "credit": "Garufi et al. 2026, Fig. A.1 (crop)",
+   "hires_url": null,
+   "paper": {
+    "first_author": "Garufi",
+    "year": 2026,
+    "title": "Planet-forming disks and their environment across regions and time from the full NIR census",
+    "journal": "A&A, in press",
+    "arxiv": "2603.01703",
+    "bibcode": null
+   }
+  }
+ ],
+ "notes": "First-published SPHERE/IRDIS H-band polarimetric image (DESTINYS). A clearly inclined disk with approximate P.A. 120 deg is visible; a tentative detection of the disk back side is seen to the SW. Disk features: back side (Garufi et al. 2026, Table A.5/Fig. A.1).",
+ "last_updated": "2026-07-06"
+}

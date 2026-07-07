@@ -1,0 +1,29 @@
+{
+ "survey": "c2-hd15115-hst2007",
+ "survey_name": null,
+ "source_image": "images/_sources/_views/c2_hd15115_f1.png",
+ "panels": [
+  {
+   "id": "hd-15115",
+   "image_id": "hd-15115_hst2007",
+   "bbox_frac": [0.0, 0.0, 0.501, 1.0]
+  }
+ ],
+ "image_defaults": {
+  "type": "disk_scattered",
+  "facility": "HST",
+  "instrument": "ACS",
+  "wavelength_um": 0.6,
+  "wavelength_label": "optical (F606W); 'blue needle' asymmetric disk",
+  "technique": "coronagraphy"
+ },
+ "credit": "Kalas et al. 2007, Fig. 1 left (crop)",
+ "paper": {
+  "first_author": "Kalas",
+  "year": 2007,
+  "title": "Discovery of Extreme Asymmetry in the Debris Disk Surrounding HD 15115",
+  "journal": "ApJL 661, L85",
+  "arxiv": "0704.0645",
+  "bibcode": "2007ApJ...661L..85K"
+ }
+}

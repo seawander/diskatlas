@@ -1,0 +1,90 @@
+{
+ "id": "mwc-297",
+ "name": "MWC 297",
+ "alt_names": [],
+ "simbad": "MWC 297",
+ "ra_deg": 276.9146939584,
+ "dec_deg": -3.83114806966,
+ "dist_pc": 417.9,
+ "sptype": "B1.5Ve",
+ "region": null,
+ "categories": [
+  "protoplanetary"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "type": "disk_scattered",
+   "facility": "Gemini-GPI",
+   "instrument": "IFS pol",
+   "wavelength_um": 1.65,
+   "wavelength_label": "H band 1.6 um (pol. intensity)",
+   "technique": "PDI",
+   "image_id": "mwc-297_gemini-lights",
+   "survey": "Gemini-LIGHTS",
+   "file": "images/mwc-297/mwc-297_gemini-lights.png",
+   "credit": "Rich et al. 2022, continuous gallery (crop)",
+   "paper": {
+    "first_author": "Rich",
+    "year": 2022,
+    "title": "Gemini-LIGHTS: Herbig Ae/Be and Massive T Tauri Protoplanetary Disks Imaged with Gemini Planet Imager",
+    "journal": "AJ 164, 109",
+    "arxiv": "2206.05815",
+    "bibcode": "2022AJ....164..109R"
+   }
+  },
+  {
+   "image_id": "mwc-297_lbti2020",
+   "type": "disk_scattered",
+   "facility": "LBTI",
+   "instrument": "non-redundant aperture masking (23-m effective baseline)",
+   "wavelength_um": 3.7,
+   "wavelength_label": "L band 3.7 um",
+   "technique": "other",
+   "survey": null,
+   "credit": "Sallum et al. 2020, Fig. 3 (crop)",
+   "paper": {
+    "first_author": "Sallum",
+    "year": 2020,
+    "title": "ELT Imaging of MWC 297 from the 23-m LBTI: Complex Disk Structure and a Companion Candidate",
+    "journal": "AJ 161, 28 (2021)",
+    "arxiv": "2011.07082",
+    "bibcode": null
+   },
+   "file": "images/mwc-297/mwc-297_lbti2020.png"
+  },
+  {
+   "image_id": "mwc-297_sphere2020",
+   "type": "planet",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS (high-contrast NIR imaging)",
+   "wavelength_um": 1.65,
+   "wavelength_label": "near-IR (multi-epoch high-contrast imaging)",
+   "technique": "ADI",
+   "survey": null,
+   "credit": "Ubeira-Gabellini et al. 2020, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Ubeira-Gabellini",
+    "year": 2020,
+    "title": "Discovery of a low-mass companion embedded in the disk of the young massive star MWC 297 with VLT/SPHERE",
+    "journal": "ApJL 890, L8",
+    "arxiv": "2002.01946",
+    "bibcode": null
+   },
+   "file": "images/mwc-297/mwc-297_sphere2020.png"
+  }
+ ],
+ "notes": null,
+ "last_updated": "2026-07-06",
+ "plx_mas": 2.3932,
+ "mags": {
+  "U": 15.57,
+  "B": 14.34,
+  "V": 12.31,
+  "G": 10.262384,
+  "R": 11.34,
+  "J": 6.127,
+  "H": 4.39,
+  "K": 3.04
+ }
+}

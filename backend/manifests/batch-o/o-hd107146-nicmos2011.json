@@ -1,0 +1,36 @@
+{
+ "survey": "o-hd107146-nicmos2011",
+ "survey_name": null,
+ "source_image": "images/_sources/extracted/1107.1057/imaSca.pdf",
+ "pdf_page": 1,
+ "dpi": 250,
+ "credit": "Ertel et al. 2011, Fig. 1 (crop: right panel, HST/NICMOS 1.1 um scattered light; the SW blob is a background galaxy)",
+ "paper": {
+  "first_author": "Ertel",
+  "year": 2011,
+  "title": "Multi-wavelength modeling of the spatially resolved debris disk of HD 107146",
+  "journal": "A&A 533, A132",
+  "arxiv": "1107.1057",
+  "bibcode": "2011A&A...533A.132E"
+ },
+ "panels": [
+  {
+   "id": "hd-107146",
+   "image_id": "hd-107146_nicmos2011",
+   "bbox_frac": [
+    0.655,
+    0.0,
+    1.0,
+    1.0
+   ]
+  }
+ ],
+ "image_defaults": {
+  "type": "disk_scattered",
+  "facility": "HST",
+  "instrument": "NICMOS",
+  "wavelength_um": 1.1,
+  "wavelength_label": "1.1 um scattered light",
+  "technique": "coronagraphy"
+ }
+}

@@ -1,0 +1,74 @@
+{
+ "id": "hd-216956c",
+ "name": "Fomalhaut C",
+ "alt_names": [
+  "Fomalhaut C",
+  "LP 876-10",
+  "HD 216956C"
+ ],
+ "simbad": "Fomalhaut C",
+ "ra_deg": 342.0187202090403,
+ "dec_deg": -24.3688104981597,
+ "dist_pc": 7.7,
+ "sptype": "M4.0Ve",
+ "region": null,
+ "categories": [
+  "debris"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "type": "disk_mm",
+   "facility": "ALMA/SMA",
+   "instrument": "Band 6/7",
+   "wavelength_um": 1300,
+   "wavelength_label": "~0.9-1.3 mm continuum",
+   "technique": "interferometry",
+   "image_id": "hd-216956c_reasons",
+   "file": "images/hd-216956c/hd-216956c_reasons.png",
+   "survey": "REASONS",
+   "credit": "Matrà et al. 2025, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Matra",
+    "year": 2025,
+    "title": "REsolved ALMA and SMA Observations of Nearby Stars (REASONS): A population of 74 resolved planetesimal belts at millimetre wavelengths",
+    "journal": "A&A 693, A151",
+    "arxiv": "2501.09058",
+    "bibcode": "2025A&A...693A.151M"
+   }
+  },
+  {
+   "image_id": "hd-216956c_jwst2024",
+   "type": "disk_scattered",
+   "facility": "JWST",
+   "instrument": "NIRCam",
+   "wavelength_um": 3.56,
+   "wavelength_label": "F356W (3.6 um); first scattered-light detection of this late-type M-dwarf debris ring",
+   "technique": "coronagraphy",
+   "survey": null,
+   "file": "images/hd-216956c/hd-216956c_jwst2024.png",
+   "credit": "Lawson et al. 2024, Fig. 1 (crop: left panel, NIRCam F356W MCRDI image of the Fomalhaut C debris ring)",
+   "paper": {
+    "first_author": "Lawson",
+    "year": 2024,
+    "title": "JWST/NIRCam Detection of the Fomalhaut C Debris Disk in Scattered Light",
+    "journal": "ApJL (2024)",
+    "arxiv": "2405.00573",
+    "bibcode": null
+   }
+  }
+ ],
+ "notes": "AUTO-CREATED from staging - fill metadata & coords",
+ "last_updated": "2026-07-06",
+ "plx_mas": 130.2707,
+ "mags": {
+  "B": 14.301,
+  "V": 12.624,
+  "G": 11.129232,
+  "R": 12.216,
+  "I": 9.674,
+  "J": 8.075,
+  "H": 7.527,
+  "K": 7.206
+ }
+}

@@ -1,0 +1,51 @@
+{
+ "id": "sz-72",
+ "name": "Sz 72",
+ "alt_names": [
+  "V* HM Lup"
+ ],
+ "simbad": "Sz 72",
+ "ra_deg": 236.9609534883,
+ "dec_deg": -35.47650113223,
+ "dist_pc": 156.7,
+ "plx_mas": 6.3811,
+ "mags": {
+  "V": 14.748,
+  "B": 15.941,
+  "G": 13.497578,
+  "J": 10.574,
+  "H": 9.766,
+  "K": 9.325
+ },
+ "sptype": "M3e",
+ "region": "Lupus",
+ "categories": [
+  "protoplanetary"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "image_id": "sz-72_nircensus",
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS",
+   "wavelength_um": 1.65,
+   "wavelength_label": "H band polarized light",
+   "technique": "PDI",
+   "survey": "SPHERE-NIR-census",
+   "file": "images/sz-72/sz-72_nircensus.png",
+   "credit": "Garufi et al. 2026, Fig. A.1 (crop)",
+   "hires_url": null,
+   "paper": {
+    "first_author": "Garufi",
+    "year": 2026,
+    "title": "Planet-forming disks and their environment across regions and time from the full NIR census",
+    "journal": "A&A, in press",
+    "arxiv": "2603.01703",
+    "bibcode": null
+   }
+  }
+ ],
+ "notes": "SPHERE/IRDIS H-band polarimetric image (DESTINYS survey). Positive polarized signal detected to North and South of the star, with some negative signal from the divergence induced by a very inclined disk geometry (Garufi et al. 2026).",
+ "last_updated": "2026-07-06"
+}

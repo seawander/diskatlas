@@ -1,0 +1,30 @@
+{
+ "survey": "r-aumic-sphere2015",
+ "survey_name": null,
+ "source_image": "images/_sources/extra/boccaletti2015_aumic.pdf",
+ "pdf_page": 2,
+ "panels": [
+  {
+   "id": "au-mic",
+   "image_id": "au-mic_sphere2015",
+   "bbox_frac": [0.0786, 0.2873, 0.4843, 0.3626]
+  }
+ ],
+ "image_defaults": {
+  "type": "disk_scattered",
+  "facility": "VLT-SPHERE",
+  "instrument": "IRDIS",
+  "wavelength_um": 1.25,
+  "wavelength_label": "J band; fast-moving features A-E",
+  "technique": "ADI"
+ },
+ "credit": "Boccaletti et al. 2015, Fig. 1e (crop)",
+ "paper": {
+  "first_author": "Boccaletti",
+  "year": 2015,
+  "title": "Fast-moving features in the debris disk around AU Microscopii",
+  "journal": "Nature 526, 230",
+  "arxiv": null,
+  "bibcode": "2015Natur.526..230B"
+ }
+}

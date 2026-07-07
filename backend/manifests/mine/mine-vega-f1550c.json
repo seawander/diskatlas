@@ -1,0 +1,37 @@
+{
+ "survey": "mine-vega-f1550c",
+ "survey_name": null,
+ "source_image": "images/_sources/extracted/2410.23636/figures/fig1_rot_ver2.pdf",
+ "pdf_page": 1,
+ "dpi": 300,
+ "panels": [
+  {
+   "id": "vega",
+   "image_id": "vega_jwst2024-f1550c",
+   "bbox_frac": [
+    0.011,
+    0.7405,
+    0.33,
+    0.9897
+   ]
+  }
+ ],
+ "image_defaults": {
+  "type": "disk_mm",
+  "facility": "JWST",
+  "instrument": "MIRI F1550C",
+  "wavelength_um": 15.5,
+  "wavelength_label": "15.5 um thermal (inner disk)",
+  "technique": "coronagraphy"
+ },
+ "credit": "Su et al. 2024, Fig. 1 (crop)",
+ "paper": {
+  "first_author": "Su",
+  "year": 2024,
+  "title": "Imaging of the Vega Debris System using JWST/MIRI",
+  "journal": "ApJ 979, 43",
+  "arxiv": "2410.23636",
+  "bibcode": null
+ },
+ "_comment": "bottom-left panel of fig1_rot_ver2 = F1550C; sibling vega_jwst2024 is the enlarged F2550W top panel"
+}

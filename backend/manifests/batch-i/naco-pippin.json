@@ -1,0 +1,38 @@
+{
+ "survey": "naco-pippin",
+ "survey_name": "NACO-PIPPIN",
+ "source_image": "images/_sources/_views/bi_naco_gallery-1.png",
+ "panels": [
+  { "id": "hd-135344b", "image_id": "hd-135344b_naco-pippin", "bbox_frac": [0.0196, 0.0115, 0.1739, 0.1427] },
+  { "id": "hd-169142",  "image_id": "hd-169142_naco-pippin",  "bbox_frac": [0.1807, 0.0115, 0.3354, 0.1427] },
+  { "id": "hd-163296",  "image_id": "hd-163296_naco-pippin",  "bbox_frac": [0.3421, 0.0115, 0.4964, 0.1427] },
+  { "id": "hd-97048",   "image_id": "hd-97048_naco-pippin",   "bbox_frac": [0.5036, 0.0115, 0.6579, 0.1427] },
+  { "id": "hr-4796a",   "image_id": "hr-4796a_naco-pippin",   "bbox_frac": [0.6646, 0.0115, 0.8193, 0.1427] },
+  { "id": "tw-hya",     "image_id": "tw-hya_naco-pippin",     "bbox_frac": [0.8261, 0.0115, 0.9804, 0.1427] },
+  { "id": "hd-100546",  "image_id": "hd-100546_naco-pippin",  "bbox_frac": [0.0196, 0.1527, 0.1739, 0.2836] },
+  { "id": "hd-142527",  "image_id": "hd-142527_naco-pippin",  "bbox_frac": [0.1807, 0.1527, 0.3354, 0.2836] },
+  { "id": "sz-91",      "image_id": "sz-91_naco-pippin",      "bbox_frac": [0.3421, 0.1527, 0.4964, 0.2836] },
+  { "id": "cr-cha",     "image_id": "cr-cha_naco-pippin",     "bbox_frac": [0.5036, 0.1527, 0.6579, 0.2836] },
+  { "id": "pds-66",     "image_id": "pds-66_naco-pippin",     "bbox_frac": [0.6646, 0.1527, 0.8193, 0.2836] },
+  { "id": "ak-sco",     "image_id": "ak-sco_naco-pippin",     "bbox_frac": [0.8261, 0.1527, 0.9804, 0.2836] },
+  { "id": "elias-25",   "image_id": "elias-25_naco-pippin",   "bbox_frac": [0.0196, 0.2918, 0.1739, 0.4261] },
+  { "id": "su-aur",     "image_id": "su-aur_naco-pippin",     "bbox_frac": [0.1807, 0.2918, 0.4964, 0.4261] }
+ ],
+ "image_defaults": {
+  "type": "disk_scattered",
+  "facility": "VLT-NACO",
+  "instrument": "NACO pol",
+  "wavelength_um": 2.18,
+  "wavelength_label": "Ks band (PIPPIN PDI reprocessing)",
+  "technique": "PDI"
+ },
+ "credit": "de Regt et al. 2024, Fig. 6 (crop)",
+ "paper": {
+  "first_author": "de Regt",
+  "year": 2024,
+  "title": "Polarimetric differential imaging with VLT/NACO. A comprehensive PDI pipeline for NACO data (PIPPIN)",
+  "journal": "A&A 684, A73",
+  "arxiv": "2404.02222",
+  "bibcode": "2024A&A...684A..73D"
+ }
+}

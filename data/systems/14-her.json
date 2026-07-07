@@ -1,0 +1,58 @@
+{
+ "id": "14-her",
+ "name": "14 Her",
+ "alt_names": [],
+ "simbad": "14 Her",
+ "ra_deg": 242.6013153162529,
+ "dec_deg": 43.8176409463358,
+ "dist_pc": 17.9,
+ "sptype": "K0V",
+ "region": null,
+ "categories": [],
+ "planets": [
+  {
+   "name": "c",
+   "status": "confirmed",
+   "note": "Coldest imaged exoplanet (~26 K? VERIFY) via JWST/NIRCam",
+   "paper": {
+    "first_author": "Bardalez Gagliuffi",
+    "year": 2025,
+    "arxiv": "2506.09201",
+    "bibcode": null
+   }
+  }
+ ],
+ "images": [
+  {
+   "type": "planet",
+   "facility": "JWST",
+   "instrument": "NIRCam",
+   "wavelength_um": 4.4,
+   "wavelength_label": "4.4 um (F444W); misaligned cold giant, c marked",
+   "technique": "coronagraphy",
+   "survey": null,
+   "credit": "Bardalez Gagliuffi et al. 2025, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Bardalez Gagliuffi",
+    "year": 2025,
+    "title": "JWST Coronagraphic Images of 14 Her c: a Cold Giant Planet in a Dynamically Hot, Multi-planet System",
+    "journal": "ApJL (2025)",
+    "arxiv": "2506.09201",
+    "bibcode": null
+   },
+   "image_id": "14-her_jwst2025",
+   "file": "images/14-her/14-her_jwst2025.png"
+  }
+ ],
+ "notes": null,
+ "last_updated": "2026-07-07",
+ "plx_mas": 55.8657,
+ "mags": {
+  "B": 7.57,
+  "G": 6.39524,
+  "R": 6.1,
+  "J": 5.158,
+  "H": 4.803,
+  "K": 4.714
+ }
+}

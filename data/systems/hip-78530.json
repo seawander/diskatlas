@@ -1,0 +1,59 @@
+{
+ "id": "hip-78530",
+ "name": "HIP 78530",
+ "alt_names": [],
+ "simbad": "HIP 78530",
+ "ra_deg": 240.4810613732,
+ "dec_deg": -21.9803885836,
+ "dist_pc": 134.7,
+ "plx_mas": 7.4238,
+ "mags": {
+  "V": 7.19,
+  "G": 7.1624,
+  "J": 6.928,
+  "H": 6.946,
+  "K": 6.903
+ },
+ "sptype": "B9Van",
+ "region": "Upper Scorpius",
+ "categories": [],
+ "planets": [
+  {
+   "name": "B",
+   "status": "confirmed",
+   "note": "Brown dwarf, ~23 Mjup (19-26 Mjup range), M8 companion at ~710 AU, Upper Scorpius association.",
+   "method": "imaging",
+   "paper": {
+    "first_author": "Lafreniere",
+    "year": 2011,
+    "arxiv": "1101.4666",
+    "bibcode": null
+   }
+  }
+ ],
+ "images": [
+  {
+   "image_id": "hip-78530_niri2011",
+   "type": "planet",
+   "facility": "Gemini-NIRI",
+   "instrument": "NIRI",
+   "wavelength_um": 1.65,
+   "wavelength_label": "JHK color composite (NIRI + ALTAIR AO); companion lower left",
+   "technique": "other",
+   "survey": null,
+   "file": "images/hip-78530/hip-78530_niri2011.png",
+   "credit": "Lafreniere et al. 2011, Fig. 1 (crop)",
+   "hires_url": null,
+   "paper": {
+    "first_author": "Lafreniere",
+    "year": 2011,
+    "title": "Discovery of a ~23 M_Jup Brown Dwarf Orbiting ~700 AU from the Massive Star HIP 78530 in Upper Scorpius",
+    "journal": "ApJ 730, 42",
+    "arxiv": "1101.4666",
+    "bibcode": null
+   }
+  }
+ ],
+ "notes": null,
+ "last_updated": "2026-07-07"
+}

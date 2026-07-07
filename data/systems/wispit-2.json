@@ -1,0 +1,173 @@
+{
+ "id": "wispit-2",
+ "name": "WISPIT 2",
+ "alt_names": [],
+ "simbad": "WISPIT 2",
+ "ra_deg": 290.82097176549,
+ "dec_deg": -7.68196547084,
+ "dist_pc": 134.0,
+ "plx_mas": 7.4649,
+ "mags": {
+  "B": 12.333,
+  "V": 11.197,
+  "G": 11.186381,
+  "R": 11.104,
+  "J": 9.31,
+  "H": 8.591,
+  "K": 8.577
+ },
+ "sptype": null,
+ "region": "~130-240 pc young solar analog",
+ "categories": [
+  "protoplanetary"
+ ],
+ "planets": [
+  {
+   "name": "b",
+   "status": "confirmed",
+   "note": "~5 MJup H-alpha protoplanet inside the 60-au gap of the multi-ringed disk (2025); PDS 70 analogue",
+   "paper": {
+    "first_author": "Close",
+    "year": 2025,
+    "arxiv": "2508.19046",
+    "bibcode": "2025ApJ...990L...9C"
+   }
+  },
+  {
+   "name": "c",
+   "status": "confirmed",
+   "note": "Inner ~8-12 MJup planet confirmed spectroscopically with VLTI/GRAVITY (2026); orbital motion marginal - follow-up ongoing",
+   "paper": {
+    "first_author": "Lawlor",
+    "year": 2026,
+    "arxiv": "2603.22085",
+    "bibcode": null
+   },
+   "method": "interferometry"
+  }
+ ],
+ "images": [
+  {
+   "type": "planet",
+   "facility": "Magellan-MagAO-X",
+   "instrument": "MagAO-X",
+   "wavelength_um": 0.656,
+   "wavelength_label": "H-alpha; accreting gap protoplanet b (SNR 12.5), dashed ellipse traces ring 2",
+   "technique": "other",
+   "survey": null,
+   "credit": "Close et al. 2025, Fig. 1 (crop: 2025 Apr 16 H-alpha image; b in the annular gap, dashed line traces ring 2)",
+   "paper": {
+    "first_author": "Close",
+    "year": 2025,
+    "title": "Wide Separation Planets In Time (WISPIT): Discovery of a Gap H-alpha Protoplanet WISPIT 2b with MagAO-X",
+    "journal": "ApJL 990, L9",
+    "arxiv": "2508.19046",
+    "bibcode": "2025ApJ...990L...9C"
+   },
+   "image_id": "wispit-2_magaox2025",
+   "file": "images/wispit-2/wispit-2_magaox2025.png"
+  },
+  {
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS",
+   "wavelength_um": 1.65,
+   "wavelength_label": "H band Q_phi; multi-ringed disk (rings 0-3), planet b sits in the gap between rings 2 and 3",
+   "technique": "PDI",
+   "survey": null,
+   "credit": "van Capelleveen et al. 2025, Fig. 5 (crop: H-band Q_phi image with annotated rings/gaps)",
+   "paper": {
+    "first_author": "van Capelleveen",
+    "year": 2025,
+    "title": "WIde Separation Planets In Time (WISPIT): A gap-clearing planet in a multi-ringed disk around the young solar-type star WISPIT 2",
+    "journal": "ApJL (2025)",
+    "arxiv": "2508.19053",
+    "bibcode": null
+   },
+   "image_id": "wispit-2_sphere2025",
+   "file": "images/wispit-2/wispit-2_sphere2025.png"
+  },
+  {
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 7",
+   "wavelength_um": 880,
+   "wavelength_label": "0.88 mm continuum at 2 au resolution; dust rings with the position of gap planet b marked",
+   "technique": "interferometry",
+   "survey": null,
+   "credit": "Facchini et al. 2026, Fig. 1 (crop: 0.88 mm continuum, rings and WISPIT 2b location marked)",
+   "paper": {
+    "first_author": "Facchini",
+    "year": 2026,
+    "title": "A 2 au resolution view by ALMA of the planet-hosting WISPIT 2 disk",
+    "journal": "arXiv (2026)",
+    "arxiv": "2601.15948",
+    "bibcode": null
+   },
+   "image_id": "wispit-2_alma2026",
+   "file": "images/wispit-2/wispit-2_alma2026.png"
+  },
+  {
+   "type": "planet",
+   "facility": "VLTI-GRAVITY",
+   "instrument": "GRAVITY",
+   "wavelength_um": 2.2,
+   "wavelength_label": "K band; GRAVITY chi-squared detection map of inner planet c (dotted circle)",
+   "technique": "interferometry",
+   "survey": null,
+   "credit": "Lawlor et al. 2026, Fig. 1 (crop: VLTI/GRAVITY K-band chi-squared detection map of c, 2025-10-04)",
+   "paper": {
+    "first_author": "Lawlor",
+    "year": 2026,
+    "title": "Direct spectroscopic confirmation of the young embedded proto-planet WISPIT 2c",
+    "journal": "arXiv (2026)",
+    "arxiv": "2603.22085",
+    "bibcode": null
+   },
+   "image_id": "wispit-2_gravity2026",
+   "file": "images/wispit-2/wispit-2_gravity2026.png"
+  },
+  {
+   "image_id": "wispit-2_lband2025",
+   "type": "planet",
+   "facility": "LBT",
+   "instrument": "LBTI/LMIRCam",
+   "wavelength_um": 3.7,
+   "wavelength_label": "L' band (3702 nm), 2025 June 5, KLIP-reduced",
+   "technique": "ADI",
+   "survey": null,
+   "credit": "Close et al. 2025, Fig. 2 (crop: KLIP-reduced L' image, WISPIT 2b + rings #2/#3)",
+   "paper": {
+    "first_author": "Close",
+    "year": 2025,
+    "title": "Wide Separation Planets In Time (WISPIT): Discovery of a Gap Hα Protoplanet WISPIT 2b with MagAO-X",
+    "journal": "ApJL",
+    "arxiv": "2508.19046",
+    "bibcode": null
+   },
+   "file": "images/wispit-2/wispit-2_lband2025.png"
+  },
+  {
+   "image_id": "wispit-2_planetc2026",
+   "type": "planet",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS",
+   "wavelength_um": 1.65,
+   "wavelength_label": "H band (BB_H), two epochs 2025-03-21 and 2025-09-24, RDI total-intensity reduction",
+   "technique": "RDI",
+   "survey": null,
+   "credit": "Lawlor et al. 2026, Fig. 8 (crop: both SPHERE H-band epochs recovering WISPIT 2c)",
+   "paper": {
+    "first_author": "Lawlor",
+    "year": 2026,
+    "title": "Direct spectroscopic confirmation of the young embedded proto-planet WISPIT 2c",
+    "journal": null,
+    "arxiv": "2603.22085",
+    "bibcode": null
+   },
+   "file": "images/wispit-2/wispit-2_planetc2026.png"
+  }
+ ],
+ "notes": "Second known multi-planet system caught in formation inside its natal disk (PDS 70 analogue).",
+ "last_updated": "2026-07-06"
+}

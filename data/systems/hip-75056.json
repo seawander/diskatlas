@@ -1,0 +1,60 @@
+{
+ "id": "hip-75056",
+ "name": "HIP 75056",
+ "alt_names": [],
+ "simbad": "HIP 75056",
+ "ra_deg": 230.0558043619999,
+ "dec_deg": -34.9254372658500,
+ "dist_pc": 126.0,
+ "plx_mas": 8.2028,
+ "mags": {
+  "V": 7.76,
+  "G": 7.752094,
+  "J": 7.378,
+  "H": 7.349,
+  "K": 7.302
+ },
+ "sptype": "A2V",
+ "region": "Scorpius-Centaurus (Upper Centaurus-Lupus)",
+ "categories": [],
+ "planets": [
+  {
+   "name": "Ab",
+   "status": "confirmed",
+   "method": "imaging",
+   "note": "Young brown dwarf companion (~20-30 Mjup) at 0.125-0.155 arcsec (~15-45 au semi-major axis); HIP 75056 is a hierarchical triple, with a lower-mass stellar companion HIP 75056B at ~5.2 arcsec (~650 au)",
+   "paper": {
+    "first_author": "Wagner",
+    "year": 2020,
+    "title": "Direct Imaging Discovery of a Young Brown Dwarf Companion to an A2V Star",
+    "journal": null,
+    "arxiv": "2009.08537",
+    "bibcode": null
+   }
+  }
+ ],
+ "images": [
+  {
+   "image_id": "hip-75056_sphere2020",
+   "type": "planet",
+   "facility": "VLT-SPHERE",
+   "instrument": "IFS",
+   "wavelength_um": 1.25,
+   "wavelength_label": "J band 1.25 um (IFS, KLIP-processed, 2015 epoch)",
+   "technique": "ADI",
+   "survey": null,
+   "file": "images/hip-75056/hip-75056_sphere2020.png",
+   "credit": "Wagner et al. 2020, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Wagner",
+    "year": 2020,
+    "title": "Direct Imaging Discovery of a Young Brown Dwarf Companion to an A2V Star",
+    "journal": null,
+    "arxiv": "2009.08537",
+    "bibcode": null
+   }
+  }
+ ],
+ "notes": "HIP 75056Ab discovered with VLT/SPHERE (IRDIS K1K2 + IFS YJH) as part of the Scorpion Planet Survey; ~12 Myr old A2V primary in Upper Centaurus-Lupus (Sco-Cen). Mass ~20-30 Mjup, consistent with low-mass end of disk-instability formation. Hierarchical triple with wide (~650 au) low-mass stellar companion HIP 75056B.",
+ "last_updated": "2026-07-06"
+}

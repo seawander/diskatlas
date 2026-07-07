@@ -1,0 +1,21 @@
+{
+  "survey": "q-twhya2013",
+  "survey_name": null,
+  "source_image": "images/_sources/extracted/1306.2969/f2_r200.png",
+  "panels": [
+    { "id": "tw-hya", "image_id": "tw-hya_stis2013",
+      "bbox_frac": [0.0, 0.487, 0.368, 0.745] }
+  ],
+  "image_defaults": {
+    "type": "disk_scattered", "facility": "HST", "instrument": "STIS",
+    "wavelength_um": 0.58,
+    "wavelength_label": "optical coronagraphy; partially filled gap at 80 au (arrow)",
+    "technique": "coronagraphy"
+  },
+  "credit": "Debes et al. 2013, Fig. 2 (STIS panel crop)",
+  "paper": {
+    "first_author": "Debes", "year": 2013,
+    "title": "The 0.5-2.22 micron Scattered Light Spectrum of the Disk around TW Hya: Detection of a Partially Filled Disk Gap at 80 AU",
+    "journal": "ApJ 771, 45", "arxiv": "1306.2969", "bibcode": "2013ApJ...771...45D"
+  }
+}

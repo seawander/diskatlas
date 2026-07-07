@@ -1,0 +1,52 @@
+{
+ "id": "kk-oph",
+ "name": "KK Oph",
+ "alt_names": [
+  "V* KK Oph",
+  "CD-27 11501",
+  "EM* AS 220"
+ ],
+ "simbad": "V* KK Oph",
+ "ra_deg": 257.533792,
+ "dec_deg": -27.255281,
+ "dist_pc": 166.0,
+ "plx_mas": null,
+ "mags": {
+  "V": 12.225,
+  "B": 12.787,
+  "J": 9.072,
+  "H": 7.233,
+  "K": 5.795
+ },
+ "sptype": "A6Ve+G5Ve",
+ "region": "Ophiuchus",
+ "categories": [
+  "protoplanetary"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "image_id": "kk-oph_nircensus",
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS",
+   "wavelength_um": 1.65,
+   "wavelength_label": "H band polarized light",
+   "technique": "PDI",
+   "survey": "SPHERE-NIR-census",
+   "file": "images/kk-oph/kk-oph_nircensus.png",
+   "credit": "Garufi et al. 2026, Fig. A.1 (crop)",
+   "hires_url": null,
+   "paper": {
+    "first_author": "Garufi",
+    "year": 2026,
+    "title": "Planet-forming disks and their environment across regions and time from the full NIR census",
+    "journal": "A&A, in press",
+    "arxiv": "2603.01703",
+    "bibcode": null
+   }
+  }
+ ],
+ "notes": "SPHERE/IRDIS H-band polarimetric image (program 0111.C-0369, PI Vioque). A very inclined disk with a P.A. of 70 deg is visible; a bright companion is detected 1.6 arcsec SW of the star from the intensity image (Garufi et al. 2026). No SIMBAD parallax; dist_pc from the paper's 0.5-arcsec scale bar (83 au).",
+ "last_updated": "2026-07-06"
+}

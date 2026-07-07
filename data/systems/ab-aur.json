@@ -1,0 +1,287 @@
+{
+ "id": "ab-aur",
+ "name": "AB Aur",
+ "alt_names": [
+  "HD 31293"
+ ],
+ "simbad": "AB Aur",
+ "ra_deg": 73.94102455509,
+ "dec_deg": 30.55119224362,
+ "dist_pc": 155.9,
+ "sptype": "A0Ve",
+ "region": "Taurus-Auriga",
+ "categories": [
+  "protoplanetary"
+ ],
+ "planets": [
+  {
+   "name": "b",
+   "status": "candidate",
+   "note": "Currie+2022 NIR/UV point source; disputed (scattered light?)",
+   "paper": {
+    "first_author": "Currie",
+    "year": 2022,
+    "arxiv": "2204.00633",
+    "bibcode": "2022NatAs...6..751C"
+   }
+  }
+ ],
+ "images": [
+  {
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 6",
+   "wavelength_um": 1300,
+   "wavelength_label": "1.3 mm continuum + 12CO spirals",
+   "technique": "interferometry",
+   "survey": null,
+   "credit": "Tang et al. 2017, Fig. 1b (crop)",
+   "paper": {
+    "first_author": "Tang",
+    "year": 2017,
+    "title": "Planet Formation in AB Aurigae: Imaging of the Inner Gaseous Spirals Observed inside the Dust Cavity",
+    "journal": "ApJ 840, 32",
+    "arxiv": "1704.02699",
+    "bibcode": null
+   },
+   "image_id": "ab-aur_alma2017",
+   "file": "images/ab-aur/ab-aur_alma2017.png"
+  },
+  {
+   "type": "disk_scattered",
+   "facility": "Subaru-HiCIAO",
+   "instrument": "HiCIAO",
+   "wavelength_um": 1.65,
+   "wavelength_label": "H band 1.6 um (pol. intensity)",
+   "technique": "PDI",
+   "survey": "SEEDS",
+   "credit": "Hashimoto et al. 2011, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Hashimoto",
+    "year": 2011,
+    "title": "Direct Imaging of Fine Structures in Giant Planet Forming Regions of the Protoplanetary Disk around AB Aurigae",
+    "journal": "ApJL 729, L17",
+    "arxiv": "1102.4408",
+    "bibcode": null
+   },
+   "image_id": "ab-aur_seeds2011",
+   "file": "images/ab-aur/ab-aur_seeds2011.png"
+  },
+  {
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS",
+   "wavelength_um": 1.65,
+   "wavelength_label": "H band 1.6 um (pol. intensity)",
+   "technique": "PDI",
+   "survey": null,
+   "credit": "Boccaletti et al. 2020, Fig. 1a (crop)",
+   "paper": {
+    "first_author": "Boccaletti",
+    "year": 2020,
+    "title": "Possible evidence of ongoing planet formation in AB Aurigae",
+    "journal": "A&A 637, L5",
+    "arxiv": "2005.09064",
+    "bibcode": null
+   },
+   "image_id": "ab-aur_sphere2020",
+   "file": "images/ab-aur/ab-aur_sphere2020.png"
+  },
+  {
+   "type": "planet",
+   "facility": "Subaru-SCExAO",
+   "instrument": "CHARIS",
+   "wavelength_um": 1.65,
+   "wavelength_label": "NIR; embedded protoplanet candidate",
+   "technique": "RDI",
+   "survey": null,
+   "credit": "Currie et al. 2022, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Currie",
+    "year": 2022,
+    "title": "Images of embedded Jovian planet formation at a wide separation around AB Aurigae",
+    "journal": "Nature Astronomy 6, 751",
+    "arxiv": "2204.00633",
+    "bibcode": "2022NatAs...6..751C"
+   },
+   "image_id": "ab-aur_scexao2022",
+   "file": "images/ab-aur/ab-aur_scexao2022.png"
+  },
+  {
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS DPI",
+   "wavelength_um": 1.65,
+   "wavelength_label": "H band 1.6 um (pol. intensity)",
+   "technique": "PDI",
+   "image_id": "ab-aur_sphere-taurus",
+   "survey": "SPHERE-Taurus",
+   "file": "images/ab-aur/ab-aur_sphere-taurus.png",
+   "credit": "Garufi et al. 2024, Fig. 2 (crop)",
+   "paper": {
+    "first_author": "Garufi",
+    "year": 2024,
+    "title": "The SPHERE view of the Taurus star-forming region: The full census of planet-forming disks with GTO and DESTINYS programs",
+    "journal": "A&A 685, A53",
+    "arxiv": "2403.02158",
+    "bibcode": "2024A&A...685A..53G"
+   }
+  },
+  {
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS",
+   "wavelength_um": 1.65,
+   "wavelength_label": "H band 1.6 um Qphi (inner 2\" spirals S1+S2)",
+   "technique": "PDI",
+   "image_id": "ab-aur_sphere2020-inner",
+   "file": "images/ab-aur/ab-aur_sphere2020-inner.png",
+   "survey": null,
+   "credit": "Boccaletti et al. 2020, Fig. 1b (crop)",
+   "paper": {
+    "first_author": "Boccaletti",
+    "year": 2020,
+    "title": "Possible evidence of ongoing planet formation in AB Aurigae",
+    "journal": "A&A 637, L5",
+    "arxiv": "2005.09064",
+    "bibcode": null
+   }
+  },
+  {
+   "type": "disk_scattered",
+   "facility": "HST",
+   "instrument": "STIS",
+   "wavelength_um": 0.58,
+   "wavelength_label": "optical coronagraphy; first HST image of the AB Aur nebulosity",
+   "technique": "coronagraphy",
+   "survey": null,
+   "credit": "Grady et al. 1999, Fig. 3 (crop)",
+   "paper": {
+    "first_author": "Grady",
+    "year": 1999,
+    "title": "Hubble Space Telescope Space Telescope Imaging Spectrograph Coronagraphic Imaging of the Herbig Ae Star AB Aurigae",
+    "journal": "ApJL 523, L151",
+    "arxiv": null,
+    "bibcode": "1999ApJ...523L.151G"
+   },
+   "image_id": "ab-aur_stis1999",
+   "file": "images/ab-aur/ab-aur_stis1999.png"
+  },
+  {
+   "image_id": "ab-aur_alice-f110w",
+   "type": "disk_scattered",
+   "facility": "HST",
+   "instrument": "NICMOS",
+   "wavelength_um": 1.1,
+   "wavelength_label": "F110W 1.1 um (ALICE archival reprocessing, combined coadd)",
+   "technique": "RDI",
+   "survey": "ALICE",
+   "file": "images/ab-aur/ab-aur_alice-f110w.png",
+   "credit": "ALICE HLSP v1 combined coadd (HST program 11155, STScI) — hi-res: ALICE archive (STScI)",
+   "paper": {
+    "first_author": "Hagan",
+    "year": 2018,
+    "title": "ALICE Data Release: A revaluation of HST-NICMOS coronagraphic images",
+    "journal": "AJ 155, 179",
+    "arxiv": "1802.07754",
+    "bibcode": null
+   },
+   "hires_url": "https://archive.stsci.edu/prepds/alice/"
+  },
+  {
+   "image_id": "ab-aur_lbti2022",
+   "type": "disk_scattered",
+   "facility": "LBT",
+   "instrument": "LBTI/LMIRCam",
+   "wavelength_um": 3.7,
+   "wavelength_label": "L' (3.7 um) and Ks (2.16 um)",
+   "technique": "ADI and RDI (reference differential imaging)",
+   "survey": null,
+   "file": "images/ab-aur/ab-aur_lbti2022.png",
+   "credit": "Jorquera et al. 2022, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Jorquera",
+    "year": 2022,
+    "title": "Large Binocular Telescope Search for Companions and Substructures in the (Pre)transitional Disk of AB Aurigae",
+    "journal": "ApJ",
+    "arxiv": "2201.08867",
+    "bibcode": "2022ApJ...926...71J"
+   }
+  },
+  {
+   "image_id": "ab-aur_seeds2011-closeup",
+   "type": "disk_scattered",
+   "facility": "Subaru-HiCIAO",
+   "instrument": "HiCIAO",
+   "wavelength_um": 1.65,
+   "wavelength_label": "H band 1.6 um (pol. intensity, inner close-up)",
+   "technique": "PDI",
+   "survey": "SEEDS",
+   "credit": "Tamura 2016 (PJA Ser. B 92, 45), Fig. 3 (crop); original: Hashimoto et al. 2011",
+   "paper": {
+    "first_author": "Hashimoto",
+    "year": 2011,
+    "title": "Direct Imaging of Fine Structures in Giant Planet Forming Regions of the Protoplanetary Disk around AB Aurigae",
+    "journal": "ApJL 729, L17",
+    "arxiv": "1102.4408",
+    "bibcode": null
+   },
+   "file": "images/ab-aur/ab-aur_seeds2011-closeup.png"
+  },
+  {
+   "image_id": "ab-aur_alma2024",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 6 (13CO)",
+   "wavelength_um": 1360,
+   "wavelength_label": "13CO 2-1 filtered moment-1 (velocity residual) map",
+   "technique": "interferometry",
+   "survey": null,
+   "credit": "Speedie et al. 2024, Fig. 1b (crop)",
+   "paper": {
+    "first_author": "Speedie",
+    "year": 2024,
+    "title": "Gravitational instability in a planet-forming disk",
+    "journal": "Nature (2024)",
+    "arxiv": "2409.02196",
+    "bibcode": null
+   },
+   "file": "images/ab-aur/ab-aur_alma2024.png"
+  },
+  {
+   "image_id": "ab-aur_scexao2024-jhk",
+   "type": "disk_scattered",
+   "facility": "Subaru-SCExAO",
+   "instrument": "CHARIS",
+   "wavelength_um": 1.6,
+   "wavelength_label": "JHK wavelength-collapsed Qphi composite (04 Jan 2020 epoch)",
+   "technique": "PDI",
+   "survey": null,
+   "credit": "Dykes et al. 2024, Fig. 2 (crop)",
+   "paper": {
+    "first_author": "Dykes",
+    "year": 2024,
+    "title": "SCExAO/CHARIS Near-Infrared Scattered-Light Imaging and Integral Field Spectropolarimetry of the AB Aurigae Protoplanetary System",
+    "journal": "ApJ",
+    "arxiv": "2410.11939",
+    "bibcode": null
+   },
+   "file": "images/ab-aur/ab-aur_scexao2024-jhk.png",
+   "note": "AB Aur b is NOT visible in this Qphi (polarized-light) dataset -- paper reports it is detectable only in complementary total-intensity data and is a non-detection in polarized light at wavelengths >1.3um, so no planet-panel crop or planets[] update was added from this paper."
+  }
+ ],
+ "notes": null,
+ "last_updated": "2026-07-07",
+ "plx_mas": 6.4127,
+ "mags": {
+  "U": 7.2,
+  "B": 7.16,
+  "V": 7.05,
+  "G": 7.111234,
+  "R": 6.96,
+  "I": 6.7,
+  "J": 5.936,
+  "H": 5.062,
+  "K": 4.23
+ }
+}

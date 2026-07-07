@@ -1,0 +1,102 @@
+{
+ "id": "gq-lup",
+ "name": "GQ Lup",
+ "alt_names": [],
+ "simbad": "GQ Lup",
+ "ra_deg": 237.3004390857699,
+ "dec_deg": -35.65140503883,
+ "dist_pc": 154.1,
+ "sptype": "K7Ve",
+ "region": "Lupus",
+ "categories": [
+  "protoplanetary"
+ ],
+ "planets": [
+  {
+   "name": "b",
+   "status": "confirmed",
+   "note": "~10-30 MJup; CPD detected around b",
+   "paper": {
+    "first_author": "Neuhauser",
+    "year": 2005,
+    "arxiv": "astro-ph/0503691",
+    "bibcode": "2005A&A...435L..13N"
+   }
+  }
+ ],
+ "images": [
+  {
+   "type": "planet",
+   "facility": "VLT-NACO",
+   "instrument": "NACO",
+   "wavelength_um": 2.2,
+   "wavelength_label": "Ks band; companion discovery",
+   "technique": "other",
+   "survey": null,
+   "credit": "Neuhauser et al. 2005, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Neuhauser",
+    "year": 2005,
+    "title": "Evidence for a co-moving sub-stellar companion of GQ Lup",
+    "journal": "A&A 435, L13",
+    "arxiv": "astro-ph/0503691",
+    "bibcode": "2005A&A...435L..13N"
+   },
+   "image_id": "gq-lup_naco2005",
+   "file": "images/gq-lup/gq-lup_naco2005.png"
+  },
+  {
+   "image_id": "gq-lup_sphere2021",
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS DPI",
+   "wavelength_um": 1.6,
+   "wavelength_label": "H band",
+   "technique": "polarimetric differential imaging (DPI)",
+   "survey": null,
+   "file": "images/gq-lup/gq-lup_sphere2021.png",
+   "credit": "van Holstein et al. 2021, Fig. (circumstellar disks, GQ Lup panel) (crop)",
+   "paper": {
+    "first_author": "van Holstein",
+    "year": 2021,
+    "title": "A survey of the linear polarization of directly imaged exoplanets and brown dwarf companions with SPHERE-IRDIS. First polarimetric detections revealing disks around DH Tau B and GSC 6214-210 B",
+    "journal": "A&A",
+    "arxiv": "2101.04033",
+    "bibcode": "2021A&A...647A..21V"
+   }
+  },
+  {
+   "image_id": "gq-lup_miri-mrs2024",
+   "type": "planet",
+   "facility": "JWST",
+   "instrument": "MIRI MRS",
+   "wavelength_um": 6.1,
+   "wavelength_label": "5.66-7.65 micron (MRS bands 1B/1C)",
+   "technique": "RDI",
+   "survey": null,
+   "credit": "Cugno et al. 2024, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Cugno",
+    "year": 2024,
+    "title": "Mid-Infrared Spectrum of the Disk around the Forming Companion GQ Lup B Revealed by JWST/MIRI",
+    "journal": "ApJL",
+    "arxiv": "2404.07086",
+    "bibcode": null
+   },
+   "file": "images/gq-lup/gq-lup_miri-mrs2024.png"
+  }
+ ],
+ "notes": null,
+ "last_updated": "2026-07-07",
+ "plx_mas": 6.4893,
+ "mags": {
+  "U": 12.19,
+  "B": 12.76,
+  "V": 11.66,
+  "G": 11.242994,
+  "R": 11.15,
+  "J": 8.605,
+  "H": 7.702,
+  "K": 7.096
+ }
+}

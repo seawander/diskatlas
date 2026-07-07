@@ -1,0 +1,25 @@
+{
+ "survey": "e-alice-f110w",
+ "survey_name": "ALICE",
+ "source_image": "images/_sources/extracted/1512.02220/fig2_r200.png",
+ "panels": [
+  {"id": "hd-377", "image_id": "hd-377_alice", "bbox_frac": [0.0054, 0.8132, 0.2374, 0.9947]}
+ ],
+ "image_defaults": {
+  "type": "disk_scattered",
+  "facility": "HST",
+  "instrument": "NICMOS",
+  "wavelength_um": 1.1,
+  "wavelength_label": "F110W 1.1 um (ALICE reprocessing)",
+  "technique": "RDI"
+ },
+ "credit": "Choquet et al. 2016, Fig. 2 (crop)",
+ "paper": {
+  "first_author": "Choquet",
+  "year": 2016,
+  "title": "First images of debris disks around TWA 7, TWA 25, HD 35650, and HD 377",
+  "journal": "ApJL 817, L2",
+  "arxiv": "1512.02220",
+  "bibcode": "2016ApJ...817L...2C"
+ }
+}

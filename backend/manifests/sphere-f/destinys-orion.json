@@ -1,0 +1,30 @@
+{
+  "survey": "destinys-orion",
+  "survey_name": "DESTINYS-Orion",
+  "source_image": "images/_sources/extracted/2403.02156/detected-disks-orion.pdf",
+  "pdf_page": 1,
+  "dpi": 200,
+  "panels": [
+    { "id": "hd-294260", "image_id": "hd-294260_destinys-orion", "bbox_frac": [0.0809, 0.0291, 0.2366, 0.4369] },
+    { "id": "hd-294268", "image_id": "hd-294268_destinys-orion", "bbox_frac": [0.2648, 0.0291, 0.4206, 0.4369] },
+    { "id": "pds-110",   "image_id": "pds-110_destinys-orion",   "bbox_frac": [0.4481, 0.0291, 0.6039, 0.4369] },
+    { "id": "pds-113",   "image_id": "pds-113_destinys-orion",   "bbox_frac": [0.6313, 0.0291, 0.7871, 0.4369] },
+    { "id": "rv-ori",    "image_id": "rv-ori_destinys-orion",    "bbox_frac": [0.8153, 0.0291, 0.9703, 0.4369] },
+    { "id": "v1012-ori", "image_id": "v1012-ori_destinys-orion", "bbox_frac": [0.0809, 0.4738, 0.2366, 0.8835] },
+    { "id": "v1650-ori", "image_id": "v1650-ori_destinys-orion", "bbox_frac": [0.2648, 0.4738, 0.4206, 0.8835] },
+    { "id": "pds-201",   "image_id": "pds-201_destinys-orion",   "bbox_frac": [0.4481, 0.4738, 0.6039, 0.8835] },
+    { "id": "v599-ori",  "image_id": "v599-ori_destinys-orion",  "bbox_frac": [0.6313, 0.4738, 0.7871, 0.8835] },
+    { "id": "v606-ori",  "image_id": "v606-ori_destinys-orion",  "bbox_frac": [0.8153, 0.4738, 0.9703, 0.8835] }
+  ],
+  "image_defaults": {
+    "type": "disk_scattered", "facility": "VLT-SPHERE", "instrument": "IRDIS DPI",
+    "wavelength_um": 1.65, "wavelength_label": "H band 1.6 um (Qphi pol. intensity)",
+    "technique": "PDI"
+  },
+  "credit": "Valegard et al. 2024, Fig. 2 (crop)",
+  "paper": {
+    "first_author": "Valegard", "year": 2024,
+    "title": "Disk Evolution Study Through Imaging of Nearby Young Stars (DESTINYS): The SPHERE view of the Orion star-forming region",
+    "journal": "A&A 685, A54", "arxiv": "2403.02156", "bibcode": "2024A&A...685A..54V"
+  }
+}

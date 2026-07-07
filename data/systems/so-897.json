@@ -1,0 +1,39 @@
+{
+ "id": "so-897",
+ "name": "SO 897",
+ "alt_names": ["2MASS J05390760-0232391"],
+ "simbad": "2MASS J05390760-0232391",
+ "ra_deg": 84.7816872607700,
+ "dec_deg": -2.5442202645400,
+ "dist_pc": 375.5,
+ "plx_mas": 2.6239,
+ "mags": {"V": 13.99, "G": 13.629037, "J": 11.298, "H": 10.573, "K": 10.260},
+ "sptype": "K6.5",
+ "region": "sigma Orionis",
+ "categories": ["protoplanetary"],
+ "planets": [],
+ "images": [
+  {
+   "image_id": "so-897_alma2024",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 6",
+   "wavelength_um": 1300,
+   "wavelength_label": "1.3 mm continuum",
+   "technique": "interferometry",
+   "survey": null,
+   "credit": "Huang et al. 2024, Fig. 3 (crop)",
+   "paper": {
+    "first_author": "Huang",
+    "year": 2024,
+    "title": "High Resolution ALMA Observations of Richly Structured Protoplanetary Disks in sigma Orionis",
+    "journal": "ApJ",
+    "arxiv": "2410.03823",
+    "bibcode": null
+   },
+   "file": "images/so-897/so-897_alma2024.png"
+  }
+ ],
+ "notes": "Resolved inner cavity with a strongly asymmetric ring (previously flagged as a transition disk candidate by Hernandez et al. 2007); Huang et al. 2024 ALMA image shows a lopsided double-peaked emission structure across the major axis.",
+ "last_updated": "2026-07-06"
+}

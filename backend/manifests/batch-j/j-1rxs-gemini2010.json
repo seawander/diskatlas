@@ -1,0 +1,25 @@
+{
+ "survey": "j-1rxs-gemini2010",
+ "survey_name": null,
+ "source_image": "images/_sources/_views/j-1rxs-f5.png",
+ "pdf_page": null,
+ "panels": [
+  {
+   "id": "1rxs-j1609",
+   "image_id": "1rxs-j1609_gemini2010",
+   "bbox_frac": [
+    0.4143,
+    0.745,
+    0.7216,
+    0.988
+   ]
+  }
+ ],
+ "image_defaults": {
+  "wavelength_um": 3.8,
+  "wavelength_label": "L' band (NIRI+ALTAIR); common proper motion confirmed",
+  "technique": "other"
+ },
+ "credit": "Lafreniere et al. 2010, Fig. 5 (crop: NIRI L' image, companion circled)",
+ "paper": null
+}

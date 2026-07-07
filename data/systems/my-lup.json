@@ -1,0 +1,69 @@
+{
+ "id": "my-lup",
+ "name": "MY Lup",
+ "alt_names": [],
+ "simbad": "MY Lup",
+ "ra_deg": 240.18550094465,
+ "dec_deg": -41.92525975743,
+ "dist_pc": 157.2,
+ "sptype": "K0",
+ "region": "Lupus",
+ "categories": [
+  "protoplanetary"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "technique": "interferometry",
+   "instrument": "Band 6",
+   "wavelength_um": 1250,
+   "wavelength_label": "1.25 mm continuum",
+   "image_id": "my-lup_dsharp",
+   "survey": "DSHARP",
+   "file": "images/my-lup/my-lup_dsharp.png",
+   "credit": "Andrews et al. 2018, Fig. 3 (crop)",
+   "paper": {
+    "first_author": "Andrews",
+    "year": 2018,
+    "title": "The Disk Substructures at High Angular Resolution Project (DSHARP). I. Motivation, Sample, Calibration, and Overview",
+    "journal": "ApJL 869, L41",
+    "arxiv": "1812.04040",
+    "bibcode": "2018ApJ...869L..41A"
+   }
+  },
+  {
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS DPI",
+   "wavelength_um": 1.65,
+   "wavelength_label": "H band 1.6 um (pol. intensity)",
+   "technique": "PDI",
+   "image_id": "my-lup_dartts-s",
+   "survey": "DARTTS-S",
+   "file": "images/my-lup/my-lup_dartts-s.png",
+   "credit": "Avenhaus et al. 2018, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Avenhaus",
+    "year": 2018,
+    "title": "Disks around T Tauri Stars with SPHERE (DARTTS-S). I. SPHERE/IRDIS Polarimetric Imaging of Eight Prominent T Tauri Disks",
+    "journal": "ApJ 863, 44",
+    "arxiv": "1803.10882",
+    "bibcode": "2018ApJ...863...44A"
+   }
+  }
+ ],
+ "notes": null,
+ "last_updated": "2026-07-07",
+ "plx_mas": 6.363,
+ "mags": {
+  "B": 12.64,
+  "V": 12.17,
+  "G": 11.112859,
+  "R": 11.06,
+  "J": 9.457,
+  "H": 8.69,
+  "K": 8.348
+ }
+}

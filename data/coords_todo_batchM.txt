@@ -1,0 +1,14 @@
+# Batch M follow-up coordinates (SIMBAD-resolvable names, one per line)
+# --- Garufi+2024 SPHERE-Taurus census (2403.02158), region Taurus, protoplanetary ---
+XZ Tau         # sysid xz-tau; ambient/outflow-dominated (close binary, PI image)
+V807 Tau       # sysid v807-tau; faint/no significant pol. signal, close binary
+V1025 Tau      # sysid v1025-tau; faint/non-detection, evolved disk candidate
+# --- Valegard+2024 DESTINYS-Orion (2403.02156) Fig. 1 companion panels, region Orion ---
+# (young stars w/ IR excess; NO disk detected in polarized light; stellar companion imaged)
+TX Ori         # sysid tx-ori
+V1788 Ori      # sysid v1788-ori; triple system
+V2149 Ori      # sysid v2149-ori; near equal binary
+V1787 Ori      # sysid v1787-ori
+Kiso A-0904 60 # sysid kiso-a-0904-60; wide near-equal binary
+Brun 252       # sysid brun-252
+RY Ori         # sysid ry-ori; companion at stellar/substellar boundary (~80 MJup)

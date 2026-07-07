@@ -1,0 +1,48 @@
+{
+ "id": "as-218",
+ "name": "AS 218",
+ "alt_names": [],
+ "simbad": "EM* AS 218",
+ "ra_deg": 256.80098225264,
+ "dec_deg": -27.22708466455,
+ "dist_pc": 157.4,
+ "plx_mas": 6.3534,
+ "mags": {
+  "V": 12.166,
+  "G": 11.544237,
+  "J": 9.719,
+  "H": 8.908,
+  "K": 8.564
+ },
+ "sptype": "K4Ve",
+ "region": "Ophiuchus",
+ "categories": [
+  "protoplanetary"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "image_id": "as-218_destinys",
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS",
+   "wavelength_um": 1.65,
+   "wavelength_label": "H band polarized light",
+   "technique": "PDI",
+   "survey": "SPHERE-NIR-census",
+   "file": "images/as-218/as-218_destinys.png",
+   "credit": "Garufi et al. 2026, Fig. A.1 (crop)",
+   "hires_url": null,
+   "paper": {
+    "first_author": "Garufi",
+    "year": 2026,
+    "title": "Planet-forming disks and their environment across regions and time from the full NIR census",
+    "journal": "A&A, in press",
+    "arxiv": "2603.01703",
+    "bibcode": null
+   }
+  }
+ ],
+ "notes": "First-published SPHERE/IRDIS H-band polarimetric image (DESTINYS). Disk clearly detected out to 80 au; a large gap separates the inner disk (near the coronagraph) from a moderately inclined outer component. Disk features: ring (Garufi et al. 2026, Table A.5/Fig. A.1).",
+ "last_updated": "2026-07-06"
+}

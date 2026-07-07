@@ -1,0 +1,128 @@
+{
+ "id": "v1247-ori",
+ "name": "V1247 Ori",
+ "alt_names": [],
+ "simbad": "V1247 Ori",
+ "ra_deg": 84.5218831112,
+ "dec_deg": -1.25602746013,
+ "dist_pc": 401.3,
+ "sptype": "F0V",
+ "region": "Orion",
+ "categories": [
+  "protoplanetary"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 7",
+   "wavelength_um": 870,
+   "wavelength_label": "870 um continuum (crescent)",
+   "technique": "interferometry",
+   "survey": null,
+   "credit": "Kraus et al. 2017, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Kraus",
+    "year": 2017,
+    "title": "Dust-trapping vortices and a potentially planet-triggered spiral wake in the pre-transitional disk of V1247 Orionis",
+    "journal": "ApJL 848, L11",
+    "arxiv": "1710.05028",
+    "bibcode": "2017ApJ...848L..11K"
+   },
+   "image_id": "v1247-ori_alma2017",
+   "file": "images/v1247-ori/v1247-ori_alma2017.png"
+  },
+  {
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS Ks",
+   "wavelength_um": 2.18,
+   "wavelength_label": "Ks 2.2 um (total intensity, RDI)",
+   "technique": "RDI",
+   "image_id": "v1247-ori_sphere-ks-rdi",
+   "survey": "SPHERE-Ks-RDI",
+   "file": "images/v1247-ori/v1247-ori_sphere-ks-rdi.png",
+   "credit": "Ren et al. 2023, Ks total-intensity gallery (crop)",
+   "paper": {
+    "first_author": "Ren",
+    "year": 2023,
+    "title": "Protoplanetary disks in Ks-band total intensity and polarized light",
+    "journal": "A&A 680, A114",
+    "arxiv": "2310.08589",
+    "bibcode": "2023A&A...680A.114R"
+   }
+  },
+  {
+   "image_id": "v1247-ori_hiciao2016",
+   "type": "disk_scattered",
+   "facility": "Subaru",
+   "instrument": "Subaru-HiCIAO/HiCIAO",
+   "wavelength_um": 1.6,
+   "wavelength_label": "H band (1.6 um)",
+   "technique": "polarimetric differential imaging (PDI) + ADI",
+   "survey": null,
+   "file": "images/v1247-ori/v1247-ori_hiciao2016.png",
+   "credit": "Ohta et al. 2016, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Ohta",
+    "year": 2016,
+    "title": "Extreme asymmetry in the polarized disk of V1247 Orionis",
+    "journal": "Publications of the Astronomical Society of Japan (PASJ)",
+    "arxiv": "1605.01453",
+    "bibcode": "2016PASJ...68...53O"
+   }
+  },
+  {
+   "image_id": "v1247-ori_sma2019",
+   "type": "disk_mm",
+   "facility": "SMA",
+   "instrument": "SMA",
+   "wavelength_um": 867,
+   "wavelength_label": "12CO(3-2) moment map (submm)",
+   "technique": "interferometry",
+   "survey": null,
+   "credit": "Willson et al. 2019, Fig. 9 (crop)",
+   "paper": {
+    "first_author": "Willson",
+    "year": 2019,
+    "title": "Imaging the disc rim and a moving close-in companion candidate in the pre-transitional disc of V1247 Orionis",
+    "journal": "A&A 621, A7",
+    "arxiv": "1811.06880",
+    "bibcode": null
+   },
+   "file": "images/v1247-ori/v1247-ori_sma2019.png"
+  },
+  {
+   "image_id": "v1247-ori_sphere-ks-qphi",
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS",
+   "wavelength_um": 2.18,
+   "wavelength_label": "Ks band 2.2 um (pol. intensity, Qphi)",
+   "technique": "PDI",
+   "survey": "SPHERE-Ks-RDI",
+   "credit": "Ren et al. 2023, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Ren",
+    "year": 2023,
+    "title": "Protoplanetary disks in $K_s$-band total intensity and polarized light",
+    "journal": "A&A 680, A114",
+    "arxiv": "2310.08589",
+    "bibcode": "2023A&A...680A.114R"
+   },
+   "file": "images/v1247-ori/v1247-ori_sphere-ks-qphi.png"
+  }
+ ],
+ "notes": null,
+ "last_updated": "2026-07-07",
+ "plx_mas": 2.4919,
+ "mags": {
+  "B": 10.18,
+  "V": 9.82,
+  "G": 9.769571,
+  "J": 8.88,
+  "H": 8.2,
+  "K": 7.408
+ }
+}

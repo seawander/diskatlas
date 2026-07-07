@@ -1,0 +1,35 @@
+{
+ "survey": "single-hr4796a-stis2018",
+ "survey_name": null,
+ "source_image": "images/_sources/extracted/1712.08599/1712.08599.pdf",
+ "panels": [
+  {
+   "id": "hr-4796a",
+   "image_id": "hr-4796a_stis2018",
+   "bbox_frac": [
+    0.1187,
+    0.1248,
+    0.4984,
+    0.562
+   ]
+  }
+ ],
+ "image_defaults": {
+  "type": "disk_scattered",
+  "facility": "HST",
+  "instrument": "STIS",
+  "wavelength_um": 0.58,
+  "wavelength_label": "0.2-1.0 um broadband (optical)",
+  "technique": "coronagraphy"
+ },
+ "credit": "Schneider et al. 2018, Fig. 8 (crop)",
+ "paper": {
+  "first_author": "Schneider",
+  "year": 2018,
+  "title": "The HR 4796A Debris System: Discovery of Extensive Exo-Ring Dust Material",
+  "journal": "AJ 155, 77",
+  "arxiv": "1712.08599",
+  "bibcode": "2018AJ....155...77S"
+ },
+ "pdf_page": 14
+}

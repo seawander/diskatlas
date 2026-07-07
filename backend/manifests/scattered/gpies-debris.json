@@ -1,0 +1,28 @@
+{
+  "survey": "gpies-debris",
+  "survey_name": "GPIES-debris",
+  "source_image": "images/_sources/extracted/2004.13722/gallery_det_Qr_11-26-2019_debris_mJy_arcsec-2.pdf",
+  "pdf_page": 1,
+  "grid": {
+    "rows": 5, "cols": 5,
+    "image_id_pattern": "{id}_gpies-debris",
+    "order": [
+      "au-mic", "beta-pic", "twa-7", "hd-30447", "hd-32297",
+      "hd-35841", "hd-61005", "hd-106906", "hd-110058", "hd-111161",
+      "hd-111520", "hd-114082", "hd-115600", "hd-117214", "hd-129590",
+      "hd-131835", "hd-143675", "hd-145560", "hd-146897", "hd-156623",
+      "hd-157587", "hd-191089", "hr-4796a", "hr-7012", null
+    ]
+  },
+  "image_defaults": {
+    "type": "disk_scattered", "facility": "Gemini-GPI", "instrument": "IFS pol",
+    "wavelength_um": 1.65, "wavelength_label": "H band 1.6 um (pol. intensity)",
+    "technique": "PDI"
+  },
+  "credit": "Esposito et al. 2020, Fig. 5 (crop)",
+  "paper": {
+    "first_author": "Esposito", "year": 2020,
+    "title": "Debris Disk Results from the Gemini Planet Imager Exoplanet Survey's Polarimetric Imaging Campaign",
+    "journal": "AJ 160, 24", "arxiv": "2004.13722", "bibcode": "2020AJ....160...24E"
+  }
+}

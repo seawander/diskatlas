@@ -1,0 +1,4 @@
+# Batch G follow-up coordinates
+# No new systems discovered in this batch — all 10 crops belong to systems
+# already present in data/systems/ (twa-7, 14-her, yses-2, hd-135344-a,
+# hd-110058, eta-crv, hd-95086, v1247-ori). Nothing to resolve.

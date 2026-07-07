@@ -1,0 +1,29 @@
+{
+ "survey": "c2-hr4796a-gpi2015",
+ "survey_name": null,
+ "source_image": "images/_sources/extracted/1407.2495/f8.jpg",
+ "panels": [
+  {
+   "id": "hr-4796a",
+   "image_id": "hr-4796a_gpi2015",
+   "bbox_frac": [0.5537, 0.3945, 0.7745, 0.6455]
+  }
+ ],
+ "image_defaults": {
+  "type": "disk_scattered",
+  "facility": "Gemini-GPI",
+  "instrument": "IFS pol",
+  "wavelength_um": 2.05,
+  "wavelength_label": "K1 band 2.05 um pol. (GPI first light)",
+  "technique": "PDI"
+ },
+ "credit": "Perrin et al. 2015 (crop; K1 polarized intensity, Dec 2013)",
+ "paper": {
+  "first_author": "Perrin",
+  "year": 2015,
+  "title": "Polarimetry with the Gemini Planet Imager: Methods, Performance at First Light, and the Circumstellar Ring around HR 4796A",
+  "journal": "ApJ 799, 182",
+  "arxiv": "1407.2495",
+  "bibcode": "2015ApJ...799..182P"
+ }
+}

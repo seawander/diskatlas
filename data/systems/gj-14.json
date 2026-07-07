@@ -1,0 +1,48 @@
+{
+ "id": "gj-14",
+ "name": "gj 14",
+ "alt_names": [],
+ "simbad": "GJ 14",
+ "ra_deg": 4.2765587430654,
+ "dec_deg": 40.9482974509383,
+ "dist_pc": 14.7,
+ "sptype": "K7V",
+ "region": null,
+ "categories": [
+  "debris"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "type": "disk_mm",
+   "facility": "ALMA/SMA",
+   "instrument": "Band 6/7",
+   "wavelength_um": 1300,
+   "wavelength_label": "~0.9-1.3 mm continuum",
+   "technique": "interferometry",
+   "image_id": "gj-14_reasons",
+   "file": "images/gj-14/gj-14_reasons.png",
+   "survey": "REASONS",
+   "credit": "Matrà et al. 2025, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Matra",
+    "year": 2025,
+    "title": "REsolved ALMA and SMA Observations of Nearby Stars (REASONS): A population of 74 resolved planetesimal belts at millimetre wavelengths",
+    "journal": "A&A 693, A151",
+    "arxiv": "2501.09058",
+    "bibcode": "2025A&A...693A.151M"
+   }
+  }
+ ],
+ "notes": "AUTO-CREATED from staging - fill metadata & coords | coverage: no resolved scattered-light image as of 2026-07 (swept)",
+ "last_updated": "2026-07-06",
+ "plx_mas": 68.0846,
+ "mags": {
+  "B": 10.36,
+  "G": 8.371856,
+  "R": 8.2,
+  "J": 6.385,
+  "H": 5.748,
+  "K": 5.577
+ }
+}

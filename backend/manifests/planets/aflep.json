@@ -1,0 +1,35 @@
+{
+ "survey": "pl-aflep",
+ "survey_name": null,
+ "source_image": "images/_sources/extracted/2302.05420/figures/masspred_nirc2_new.pdf",
+ "pdf_page": null,
+ "panels": [
+  {
+   "id": "af-lep",
+   "image_id": "af-lep_sphere2023",
+   "bbox_frac": [
+    0.74,
+    0.228,
+    0.958,
+    0.762
+   ]
+  }
+ ],
+ "image_defaults": {
+  "type": "planet",
+  "facility": "Keck",
+  "instrument": "NIRC2",
+  "wavelength_um": 3.8,
+  "wavelength_label": "L' band; discovery via astrometric acceleration + imaging",
+  "technique": "ADI"
+ },
+ "credit": "Franson et al. 2023, Fig. 1 (crop)",
+ "paper": {
+  "first_author": "Franson",
+  "year": 2023,
+  "title": "Astrometric Accelerations as Dynamical Beacons: A Giant Planet Imaged Inside the Debris Disk of the Young Star AF Lep",
+  "journal": "ApJL 950, L19",
+  "arxiv": "2302.05420",
+  "bibcode": "2023ApJ...950L..19F"
+ }
+}

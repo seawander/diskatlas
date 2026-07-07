@@ -1,0 +1,48 @@
+{
+ "id": "eso-halpha-574",
+ "name": "eso halpha 574",
+ "alt_names": [],
+ "simbad": "ESO-HA 574",
+ "ra_deg": 169.01167,
+ "dec_deg": -76.41478,
+ "dist_pc": 144.6,
+ "sptype": "K8",
+ "region": "Chamaeleon I",
+ "categories": [
+  "protoplanetary"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "technique": "interferometry",
+   "instrument": "Band 7",
+   "wavelength_um": 890,
+   "wavelength_label": "0.89 mm continuum (edge-on)",
+   "image_id": "eso-halpha-574_edgeon-alma2020",
+   "file": "images/eso-halpha-574/eso-halpha-574_edgeon-alma2020.png",
+   "survey": "EdgeOn-ALMA-2020",
+   "credit": "Villenave et al. 2020, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Villenave",
+    "year": 2020,
+    "title": "Observations of edge-on protoplanetary disks with ALMA. I. Results from continuum data",
+    "journal": "A&A 642, A164",
+    "arxiv": "2008.06518",
+    "bibcode": "2020A&A...642A.164V"
+   }
+  }
+ ],
+ "notes": "AUTO-CREATED from staging - fill metadata & coords",
+ "last_updated": "2026-07-07",
+ "plx_mas": 6.9172,
+ "mags": {
+  "V": 19.6,
+  "G": 19.501186,
+  "I": 17.25,
+  "J": 15.804,
+  "H": 14.973,
+  "K": 14.606
+ }
+}

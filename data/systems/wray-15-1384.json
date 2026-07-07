@@ -1,0 +1,48 @@
+{
+ "id": "wray-15-1384",
+ "name": "Wray 15-1384",
+ "alt_names": [],
+ "simbad": "Wray 15-1384",
+ "ra_deg": 239.00874760767,
+ "dec_deg": -36.92452069615,
+ "dist_pc": 158.0,
+ "plx_mas": 6.3309,
+ "mags": {
+  "V": 13.47,
+  "G": 12.849703,
+  "J": 10.396,
+  "H": 9.595,
+  "K": 9.303
+ },
+ "sptype": "M1",
+ "region": "Lupus",
+ "categories": [
+  "protoplanetary"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "image_id": "wray-15-1384_destinys",
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS",
+   "wavelength_um": 1.65,
+   "wavelength_label": "H band polarized light",
+   "technique": "PDI",
+   "survey": "SPHERE-NIR-census",
+   "file": "images/wray-15-1384/wray-15-1384_destinys.png",
+   "credit": "Garufi et al. 2026, Fig. A.1 (crop)",
+   "hires_url": null,
+   "paper": {
+    "first_author": "Garufi",
+    "year": 2026,
+    "title": "Planet-forming disks and their environment across regions and time from the full NIR census",
+    "journal": "A&A, in press",
+    "arxiv": "2603.01703",
+    "bibcode": null
+   }
+  }
+ ],
+ "notes": "First-published SPHERE/IRDIS H-band polarimetric image (DESTINYS). A clear, moderately inclined disk is detected out to 80 au, with a hint of the disk back side visible to the NW. Disk features: back side (Garufi et al. 2026, Table A.5/Fig. A.1).",
+ "last_updated": "2026-07-06"
+}

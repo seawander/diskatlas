@@ -1,0 +1,245 @@
+{
+ "id": "fomalhaut",
+ "name": "Fomalhaut",
+ "alt_names": [
+  "alpha PsA",
+  "HD 216956"
+ ],
+ "simbad": "Fomalhaut",
+ "ra_deg": 344.41269272,
+ "dec_deg": -29.62223703,
+ "dist_pc": 7.7,
+ "sptype": "A4V",
+ "region": null,
+ "categories": [
+  "debris"
+ ],
+ "planets": [
+  {
+   "name": "b",
+   "status": "dust-cloud",
+   "note": "Kalas+2008 imaged source; now interpreted as expanding dust cloud",
+   "paper": {
+    "first_author": "Kalas",
+    "year": 2008,
+    "arxiv": "0811.1994",
+    "bibcode": "2008Sci...322.1345K"
+   }
+  }
+ ],
+ "images": [
+  {
+   "type": "disk_mm",
+   "facility": "ALMA/SMA",
+   "technique": "interferometry",
+   "instrument": "Band 6/7",
+   "wavelength_um": 1300,
+   "wavelength_label": "~0.9-1.3 mm continuum",
+   "image_id": "fomalhaut_reasons",
+   "survey": "REASONS",
+   "file": "images/fomalhaut/fomalhaut_reasons.png",
+   "credit": "Matrà et al. 2025, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Matra",
+    "year": 2025,
+    "title": "REsolved ALMA and SMA Observations of Nearby Stars (REASONS): A population of 74 resolved planetesimal belts at millimetre wavelengths",
+    "journal": "A&A 693, A151",
+    "arxiv": "2501.09058",
+    "bibcode": "2025A&A...693A.151M"
+   }
+  },
+  {
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 6",
+   "wavelength_um": 1300,
+   "wavelength_label": "1.3 mm continuum (full ring)",
+   "technique": "interferometry",
+   "survey": null,
+   "credit": "MacGregor et al. 2017, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "MacGregor",
+    "year": 2017,
+    "title": "A Complete ALMA Map of the Fomalhaut Debris Disk",
+    "journal": "ApJ 842, 8",
+    "arxiv": "1705.05867",
+    "bibcode": null
+   },
+   "image_id": "fomalhaut_alma2017",
+   "file": "images/fomalhaut/fomalhaut_alma2017.png"
+  },
+  {
+   "type": "disk_mm",
+   "facility": "JWST",
+   "instrument": "MIRI F2550W",
+   "wavelength_um": 25.5,
+   "wavelength_label": "25.5 um thermal (inner disk + outer ring)",
+   "technique": "other",
+   "survey": null,
+   "credit": "Gáspár et al. 2023, Fig. 2 (crop)",
+   "paper": {
+    "first_author": "Gaspar",
+    "year": 2023,
+    "title": "Spatially resolved imaging of the inner Fomalhaut disk using JWST/MIRI",
+    "journal": "Nature Astronomy 7, 790",
+    "arxiv": "2305.03789",
+    "bibcode": null
+   },
+   "image_id": "fomalhaut_jwst2023",
+   "file": "images/fomalhaut/fomalhaut_jwst2023.png"
+  },
+  {
+   "type": "disk_scattered",
+   "facility": "HST",
+   "instrument": "ACS",
+   "wavelength_um": 0.7,
+   "wavelength_label": "optical (F606W+F814W); eccentric ring",
+   "technique": "coronagraphy",
+   "survey": null,
+   "credit": "Kalas et al. 2005, Fig. 1a (crop)",
+   "paper": {
+    "first_author": "Kalas",
+    "year": 2005,
+    "title": "A planetary system as the origin of structure in Fomalhaut's dust belt",
+    "journal": "Nature 435, 1067",
+    "arxiv": "astro-ph/0506574",
+    "bibcode": "2005Natur.435.1067K"
+   },
+   "image_id": "fomalhaut_acs2005",
+   "file": "images/fomalhaut/fomalhaut_acs2005.png"
+  },
+  {
+   "type": "planet",
+   "facility": "HST",
+   "instrument": "ACS",
+   "wavelength_um": 0.6,
+   "wavelength_label": "optical; Fomalhaut b source",
+   "technique": "coronagraphy",
+   "survey": null,
+   "credit": "Kalas et al. 2008, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Kalas",
+    "year": 2008,
+    "title": "Optical Images of an Exosolar Planet 25 Light-Years from Earth",
+    "journal": "Science 322, 1345",
+    "arxiv": "0811.1994",
+    "bibcode": "2008Sci...322.1345K"
+   },
+   "image_id": "fomalhaut_acs2008",
+   "file": "images/fomalhaut/fomalhaut_acs2008.png"
+  },
+  {
+   "type": "disk_mm",
+   "facility": "JWST",
+   "instrument": "MIRI F1550C",
+   "wavelength_um": 15.5,
+   "wavelength_label": "15.5 um thermal (warm inner disk)",
+   "technique": "coronagraphy",
+   "image_id": "fomalhaut_jwst2023-f1550c",
+   "file": "images/fomalhaut/fomalhaut_jwst2023-f1550c.png",
+   "survey": null,
+   "credit": "Gáspár et al. 2023, Fig. 2 (crop)",
+   "paper": {
+    "first_author": "Gaspar",
+    "year": 2023,
+    "title": "Spatially resolved imaging of the inner Fomalhaut disk using JWST/MIRI",
+    "journal": "Nature Astronomy 7, 790",
+    "arxiv": "2305.03789",
+    "bibcode": null
+   }
+  },
+  {
+   "type": "disk_mm",
+   "facility": "JWST",
+   "instrument": "MIRI F2300C",
+   "wavelength_um": 23.0,
+   "wavelength_label": "23 um thermal (intermediate belt + halo)",
+   "technique": "coronagraphy",
+   "image_id": "fomalhaut_jwst2023-f2300c",
+   "file": "images/fomalhaut/fomalhaut_jwst2023-f2300c.png",
+   "survey": null,
+   "credit": "Gáspár et al. 2023, Fig. 2 (crop)",
+   "paper": {
+    "first_author": "Gaspar",
+    "year": 2023,
+    "title": "Spatially resolved imaging of the inner Fomalhaut disk using JWST/MIRI",
+    "journal": "Nature Astronomy 7, 790",
+    "arxiv": "2305.03789",
+    "bibcode": null
+   }
+  },
+  {
+   "image_id": "fomalhaut_stis2013",
+   "type": "disk_scattered",
+   "facility": "HST",
+   "instrument": "STIS",
+   "wavelength_um": 0.6,
+   "wavelength_label": "optical (STIS 50CORON)",
+   "technique": "coronagraphy scattered light",
+   "survey": null,
+   "file": "images/fomalhaut/fomalhaut_stis2013.png",
+   "credit": "Kalas et al. 2013, Fig. 8 (crop)",
+   "paper": {
+    "first_author": "Kalas",
+    "year": 2013,
+    "title": "STIS Coronagraphic Imaging of Fomalhaut: Main Belt Structure and the Orbit of Fomalhaut b",
+    "journal": "ApJ",
+    "arxiv": "1305.2222",
+    "bibcode": "2013ApJ...775...56K"
+   }
+  },
+  {
+   "image_id": "fomalhaut_herschel2012",
+   "type": "disk_mm",
+   "facility": "Herschel",
+   "instrument": "PACS",
+   "wavelength_um": 70,
+   "wavelength_label": "70 um",
+   "technique": "other",
+   "survey": null,
+   "credit": "Acke et al. 2012, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Acke",
+    "year": 2012,
+    "title": "Herschel images of Fomalhaut. An extrasolar Kuiper Belt at the height of its dynamical activity",
+    "journal": null,
+    "arxiv": "1204.5037",
+    "bibcode": null
+   },
+   "file": "images/fomalhaut/fomalhaut_herschel2012.png"
+  },
+  {
+   "image_id": "fomalhaut_sharcii2005",
+   "type": "disk_mm",
+   "facility": "CSO",
+   "instrument": "SHARC-II",
+   "wavelength_um": 350,
+   "wavelength_label": "350 um",
+   "technique": "other",
+   "survey": null,
+   "credit": "Marsh et al. 2005, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Marsh",
+    "year": 2005,
+    "title": "Image of Fomalhaut Dust Ring at 350 Microns: Relative Column Density Map Shows Pericenter-Apocenter Asymmetry",
+    "journal": null,
+    "arxiv": "astro-ph/0501140",
+    "bibcode": null
+   },
+   "file": "images/fomalhaut/fomalhaut_sharcii2005.png"
+  }
+ ],
+ "notes": null,
+ "last_updated": "2026-07-07",
+ "plx_mas": 129.81,
+ "mags": {
+  "U": 1.31,
+  "B": 1.25,
+  "V": 1.16,
+  "R": 1.11,
+  "I": 1.09,
+  "J": 1.06,
+  "H": 1.05,
+  "K": 1.05
+ }
+}

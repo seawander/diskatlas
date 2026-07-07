@@ -1,0 +1,80 @@
+{
+ "id": "1rxs-j1609",
+ "name": "1RXS J1609",
+ "alt_names": [],
+ "simbad": "1RXS J160929.1-210524",
+ "ra_deg": 242.3762813711299,
+ "dec_deg": -21.08303994472,
+ "dist_pc": 138.0,
+ "sptype": "M0.0e",
+ "region": "Upper Sco",
+ "categories": [],
+ "planets": [
+  {
+   "name": "b",
+   "status": "confirmed",
+   "note": "~8 MJup at 330 au",
+   "paper": {
+    "first_author": "Lafreniere",
+    "year": 2008,
+    "arxiv": "0809.1424",
+    "bibcode": null
+   }
+  }
+ ],
+ "images": [
+  {
+   "type": "planet",
+   "facility": "Gemini",
+   "instrument": "NIRI+ALTAIR",
+   "wavelength_um": 3.8,
+   "wavelength_label": "L' band (NIRI+ALTAIR); common proper motion confirmed",
+   "technique": "other",
+   "survey": null,
+   "credit": "Lafreniere et al. 2010, Fig. 5 (crop: NIRI L' image, companion circled)",
+   "paper": {
+    "first_author": "Lafreniere",
+    "year": 2010,
+    "title": "The Directly Imaged Planet around the Young Solar Analog 1RXS J160929.1-210524: Confirmation of Common Proper Motion, Temperature, and Mass",
+    "journal": "ApJ 719, 497",
+    "arxiv": "1006.3070",
+    "bibcode": "2010ApJ...719..497L"
+   },
+   "image_id": "1rxs-j1609_gemini2010",
+   "file": "images/1rxs-j1609/1rxs-j1609_gemini2010.png"
+  },
+  {
+   "image_id": "1rxs-j1609_magao2015",
+   "type": "planet",
+   "facility": "MagAO",
+   "instrument": "MagAO (VisAO)",
+   "wavelength_um": 0.91,
+   "wavelength_label": "z' band (0.91 micron)",
+   "technique": "other",
+   "survey": null,
+   "credit": "Wu et al. 2015, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Wu",
+    "year": 2015,
+    "title": "New Extinction and Mass Estimates of the Low-mass Companion 1RXS 1609 B with the Magellan AO System: Evidence of an Inclined Dust Disk",
+    "journal": "ApJL 807, L13",
+    "arxiv": "1506.05816",
+    "bibcode": null
+   },
+   "file": "images/1rxs-j1609/1rxs-j1609_magao2015.png"
+  }
+ ],
+ "notes": "Discovery paper (Lafreniere+2008, 0809.1424) cited on the planet entry; its figure set has no clean planet image - 2010 confirmation image shown instead.",
+ "last_updated": "2026-07-07",
+ "plx_mas": 7.2444,
+ "mags": {
+  "B": 14.21,
+  "V": 12.77,
+  "G": 12.037596,
+  "R": 12.25,
+  "I": 10.99,
+  "J": 9.82,
+  "H": 9.121,
+  "K": 8.916
+ }
+}

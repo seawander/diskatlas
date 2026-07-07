@@ -1,0 +1,91 @@
+{
+ "id": "ds-tau",
+ "name": "DS Tau",
+ "alt_names": [],
+ "simbad": "DS Tau",
+ "ra_deg": 71.95248112125,
+ "dec_deg": 29.41977545042,
+ "dist_pc": 158.4,
+ "sptype": "K4Ve",
+ "region": "Taurus",
+ "categories": [
+  "protoplanetary"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "technique": "interferometry",
+   "instrument": "Band 6",
+   "wavelength_um": 1330,
+   "wavelength_label": "1.33 mm continuum",
+   "image_id": "ds-tau_taurus-long2018",
+   "survey": "Taurus-Long2018",
+   "file": "images/ds-tau/ds-tau_taurus-long2018.png",
+   "credit": "Long et al. 2018, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Long",
+    "year": 2018,
+    "title": "Gaps and Rings in an ALMA Survey of Disks in the Taurus Star-forming Region",
+    "journal": "ApJ 869, 17",
+    "arxiv": "1810.06044",
+    "bibcode": "2018ApJ...869...17L"
+   }
+  },
+  {
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS DPI",
+   "wavelength_um": 1.65,
+   "wavelength_label": "H band 1.6 um (pol. intensity)",
+   "technique": "PDI",
+   "image_id": "ds-tau_sphere-taurus",
+   "file": "images/ds-tau/ds-tau_sphere-taurus.png",
+   "survey": "SPHERE-Taurus",
+   "credit": "Garufi et al. 2024, Fig. 2 (crop)",
+   "paper": {
+    "first_author": "Garufi",
+    "year": 2024,
+    "title": "The SPHERE view of the Taurus star-forming region: The full census of planet-forming disks with GTO and DESTINYS programs",
+    "journal": "A&A 685, A53",
+    "arxiv": "2403.02158",
+    "bibcode": "2024A&A...685A..53G"
+   }
+  },
+  {
+   "image_id": "ds-tau_sphere-ks-qphi",
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS",
+   "wavelength_um": 2.18,
+   "wavelength_label": "Ks band 2.2 um (pol. intensity, Qphi)",
+   "technique": "PDI",
+   "survey": "SPHERE-Ks-RDI",
+   "credit": "Ren et al. 2023, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Ren",
+    "year": 2023,
+    "title": "Protoplanetary disks in $K_s$-band total intensity and polarized light",
+    "journal": "A&A 680, A114",
+    "arxiv": "2310.08589",
+    "bibcode": "2023A&A...680A.114R"
+   },
+   "file": "images/ds-tau/ds-tau_sphere-ks-qphi.png"
+  }
+ ],
+ "notes": null,
+ "last_updated": "2026-07-07",
+ "plx_mas": 6.315,
+ "mags": {
+  "U": 13.11,
+  "B": 13.16,
+  "V": 12.3,
+  "G": 12.051329,
+  "R": 12.37,
+  "I": 10.8,
+  "J": 9.465,
+  "H": 8.6,
+  "K": 8.036
+ }
+}

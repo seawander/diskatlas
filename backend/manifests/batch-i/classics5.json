@@ -1,0 +1,22 @@
+{
+  "survey": "k-schneider2003",
+  "survey_name": null,
+  "source_image": "images/_sources/extra/schneider2003_gmaur.pdf",
+  "pdf_page": 4,
+  "dpi": 200,
+  "panels": [
+    { "id": "gm-aur", "image_id": "gm-aur_nicmos2003",
+      "bbox_frac": [0.316, 0.538, 0.506, 0.712] }
+  ],
+  "image_defaults": {
+    "type": "disk_scattered", "facility": "HST", "instrument": "NICMOS",
+    "wavelength_um": 1.1, "wavelength_label": "F110W coronagraphy of the flared disk",
+    "technique": "coronagraphy"
+  },
+  "credit": "Schneider et al. 2003, Fig. 1 (crop, panels B-C)",
+  "paper": {
+    "first_author": "Schneider", "year": 2003,
+    "title": "NICMOS Coronagraphic Observations of the GM Aurigae Circumstellar Disk",
+    "journal": "AJ 125, 1467", "arxiv": null, "bibcode": "2003AJ....125.1467S"
+  }
+}

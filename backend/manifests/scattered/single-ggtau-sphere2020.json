@@ -1,0 +1,35 @@
+{
+ "survey": "single-ggtau-sphere2020",
+ "survey_name": null,
+ "source_image": "images/_sources/extracted/2005.09037/figs/no_features_log.pdf",
+ "panels": [
+  {
+   "id": "gg-tau",
+   "image_id": "gg-tau_sphere2020",
+   "bbox_frac": [
+    0.104,
+    0.096,
+    0.8533,
+    0.8373
+   ]
+  }
+ ],
+ "image_defaults": {
+  "type": "disk_scattered",
+  "facility": "VLT-SPHERE",
+  "instrument": "IRDIS",
+  "wavelength_um": 1.65,
+  "wavelength_label": "H band 1.6 um (pol. intensity)",
+  "technique": "PDI"
+ },
+ "credit": "Keppler et al. 2020, Fig. 1 (crop)",
+ "paper": {
+  "first_author": "Keppler",
+  "year": 2020,
+  "title": "Gap, shadows, spirals, and streamers: SPHERE observations of binary-disk interactions in GG Tau A",
+  "journal": "A&A 639, A62",
+  "arxiv": "2005.09037",
+  "bibcode": null
+ },
+ "pdf_page": 1
+}

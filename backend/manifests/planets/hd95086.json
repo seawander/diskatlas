@@ -1,0 +1,35 @@
+{
+ "survey": "pl-hd95086",
+ "survey_name": null,
+ "source_image": "images/_sources/_views/batchD_hd95086_fig1a.png",
+ "pdf_page": null,
+ "panels": [
+  {
+   "id": "hd-95086",
+   "image_id": "hd-95086_naco2013",
+   "bbox_frac": [
+    0.086,
+    0.142,
+    0.682,
+    0.578
+   ]
+  }
+ ],
+ "image_defaults": {
+  "type": "planet",
+  "facility": "VLT-NACO",
+  "instrument": "NACO",
+  "wavelength_um": 3.8,
+  "wavelength_label": "L' band; planet discovery",
+  "technique": "ADI"
+ },
+ "credit": "Rameau et al. 2013, Fig. 1 (crop)",
+ "paper": {
+  "first_author": "Rameau",
+  "year": 2013,
+  "title": "Discovery of a probable 4-5 Jupiter-mass exoplanet to HD 95086 by direct-imaging",
+  "journal": "ApJL 772, L15",
+  "arxiv": "1305.7428",
+  "bibcode": "2013ApJ...772L..15R"
+ }
+}

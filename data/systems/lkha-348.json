@@ -1,0 +1,52 @@
+{
+ "id": "lkha-348",
+ "name": "LkHa 348",
+ "alt_names": [
+  "EM* LkHa 348",
+  "IRAS 18316-0028"
+ ],
+ "simbad": "EM* LkHa 348",
+ "ra_deg": 278.55272044796,
+ "dec_deg": -0.439387555,
+ "dist_pc": 2023.9,
+ "plx_mas": 0.4941,
+ "mags": {
+  "V": 14.323,
+  "B": 15.978,
+  "G": 13.003731,
+  "J": 9.962,
+  "H": 8.78,
+  "K": 7.121
+ },
+ "sptype": "Be",
+ "region": "Serpens",
+ "categories": [
+  "protoplanetary"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "image_id": "lkha-348_nircensus",
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS",
+   "wavelength_um": 1.65,
+   "wavelength_label": "H band polarized light",
+   "technique": "PDI",
+   "survey": "SPHERE-NIR-census",
+   "file": "images/lkha-348/lkha-348_nircensus.png",
+   "credit": "Garufi et al. 2026, Fig. A.1 (crop)",
+   "hires_url": null,
+   "paper": {
+    "first_author": "Garufi",
+    "year": 2026,
+    "title": "Planet-forming disks and their environment across regions and time from the full NIR census",
+    "journal": "A&A, in press",
+    "arxiv": "2603.01703",
+    "bibcode": null
+   }
+  }
+ ],
+ "notes": "First-published SPHERE/IRDIS H-band polarimetric image (SPHERE GTO). Polarized signal detected to the SW of the star only; given the large distance (>2 kpc) this traces separations of several hundred au, consistent with a large disk given the high observed millimeter flux (88 mJy) (Garufi et al. 2026).",
+ "last_updated": "2026-07-06"
+}

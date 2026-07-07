@@ -1,0 +1,62 @@
+{
+ "id": "hip-39017",
+ "name": "HIP 39017",
+ "alt_names": [
+  "HD 65526",
+  "V769 Mon"
+ ],
+ "simbad": "HIP 39017",
+ "ra_deg": 119.7664451557,
+ "dec_deg": -4.3324174427,
+ "dist_pc": 65.9,
+ "plx_mas": 15.1783,
+ "mags": {
+  "V": 6.97,
+  "G": 6.918734,
+  "J": 6.361,
+  "H": 6.263,
+  "K": 6.227
+ },
+ "sptype": "A9/F0IV",
+ "region": "Isolated",
+ "categories": [],
+ "planets": [
+  {
+   "name": "b",
+   "status": "confirmed",
+   "method": "imaging",
+   "note": "Substellar companion (massive planet or low-mass brown dwarf, L/T transition spectral type) at ~0.4\" (~22-24 au) projected separation; dynamical mass ~30 M_Jup (weighted estimate ~23.6 M_Jup), luminosity-based mass ~13.8 M_Jup. Detected via HGCA astrometric acceleration of the host.",
+   "paper": {
+    "first_author": "Tobin",
+    "year": 2024,
+    "arxiv": "2403.04000",
+    "bibcode": null
+   }
+  }
+ ],
+ "images": [
+  {
+   "image_id": "hip-39017_charis2024",
+   "type": "planet",
+   "facility": "Subaru-SCExAO",
+   "instrument": "CHARIS IFS (ADI)",
+   "wavelength_um": 1.75,
+   "wavelength_label": "JHK broadband (1.1-2.4 um)",
+   "technique": "ADI",
+   "survey": null,
+   "credit": "Tobin et al. 2024, Fig. 2 (crop)",
+   "hires_url": null,
+   "paper": {
+    "first_author": "Tobin",
+    "year": 2024,
+    "title": "Direct-imaging Discovery of a Substellar Companion Orbiting the Accelerating Variable Star, HIP 39017",
+    "journal": "AJ",
+    "arxiv": "2403.04000",
+    "bibcode": null
+   },
+   "file": "images/hip-39017/hip-39017_charis2024.png"
+  }
+ ],
+ "notes": "HIP 39017 is a young (≲115 Myr), gamma Doradus-type pulsating variable star showing HGCA astrometric acceleration, which motivated the imaging search that found companion b. The paper describes b as a 'massive planet or low-mass brown dwarf' with an L/T transition spectrum; tagged here with method imaging per atlas convention.",
+ "last_updated": "2026-07-06"
+}

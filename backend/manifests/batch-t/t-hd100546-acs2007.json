@@ -1,0 +1,27 @@
+{
+ "survey": "t-hd100546-acs2007",
+ "survey_name": null,
+ "source_image": "images/_sources/extra/ardila2007_hd100546.pdf",
+ "pdf_page": 5,
+ "panels": [
+  {"id": "hd-100546", "image_id": "hd-100546_acs2007",
+   "bbox_frac": [0.3562, 0.0828, 0.6358, 0.3010]}
+ ],
+ "image_defaults": {
+  "type": "disk_scattered",
+  "facility": "HST",
+  "instrument": "ACS/HRC",
+  "wavelength_um": 0.6,
+  "wavelength_label": "F606W log-stretch coronagraphy; disk + envelope with spiral arms",
+  "technique": "coronagraphy"
+ },
+ "credit": "Ardila et al. 2007, Fig. 1 (crop)",
+ "paper": {
+  "first_author": "Ardila",
+  "year": 2007,
+  "title": "Hubble Space Telescope Advanced Camera for Surveys Coronagraphic Observations of the Dust Surrounding HD 100546",
+  "journal": "ApJ 665, 512",
+  "arxiv": null,
+  "bibcode": "2007ApJ...665..512A"
+ }
+}

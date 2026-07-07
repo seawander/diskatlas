@@ -1,0 +1,23 @@
+{
+ "survey": "j-mwc758-seeds",
+ "survey_name": null,
+ "source_image": "images/_sources/_views/j-mwc758.png",
+ "pdf_page": null,
+ "panels": [
+  {
+   "id": "mwc-758",
+   "image_id": "mwc-758_seeds",
+   "bbox_frac": [
+    0.153,
+    0,
+    0.694,
+    0.67
+   ]
+  }
+ ],
+ "image_defaults": {
+  "wavelength_label": "H band (pol. intensity; H PI + K' composite)"
+ },
+ "credit": "Grady et al. 2013, Fig. 2f (crop: H PI + K' composite)",
+ "paper": null
+}

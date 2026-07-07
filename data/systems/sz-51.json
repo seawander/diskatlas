@@ -1,0 +1,50 @@
+{
+ "id": "sz-51",
+ "name": "Sz 51",
+ "alt_names": [
+  "V* BC Cha"
+ ],
+ "simbad": "Sz 51",
+ "ra_deg": 195.4954130399,
+ "dec_deg": -77.85606910195,
+ "dist_pc": 197.4,
+ "plx_mas": 5.0666,
+ "mags": {
+  "B": 15.38,
+  "G": 13.167142,
+  "J": 10.616,
+  "H": 9.849,
+  "K": 9.354
+ },
+ "sptype": "K8.5",
+ "region": "Chamaeleon",
+ "categories": [
+  "protoplanetary"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "image_id": "sz-51_nircensus",
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS",
+   "wavelength_um": 1.65,
+   "wavelength_label": "H band polarized light",
+   "technique": "PDI",
+   "survey": "SPHERE-NIR-census",
+   "file": "images/sz-51/sz-51_nircensus.png",
+   "credit": "Garufi et al. 2026, Fig. A.1 (crop)",
+   "hires_url": null,
+   "paper": {
+    "first_author": "Garufi",
+    "year": 2026,
+    "title": "Planet-forming disks and their environment across regions and time from the full NIR census",
+    "journal": "A&A, in press",
+    "arxiv": "2603.01703",
+    "bibcode": null
+   }
+  }
+ ],
+ "notes": "SPHERE/IRDIS H-band polarimetric image (DESTINYS survey). Tenuous signal detected around the coronagraph extending to North and South, too tenuous to characterize the disk geometry (Garufi et al. 2026). Note: this Schwartz-catalog 'Sz 51' is the Chamaeleon PMS star V* BC Cha, not a Lupus source.",
+ "last_updated": "2026-07-06"
+}

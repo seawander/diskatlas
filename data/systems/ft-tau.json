@@ -1,0 +1,49 @@
+{
+ "id": "ft-tau",
+ "name": "FT Tau",
+ "alt_names": [],
+ "simbad": "FT Tau",
+ "ra_deg": 65.91328699513,
+ "dec_deg": 24.93729189415,
+ "dist_pc": 130.2,
+ "sptype": "M2.8",
+ "region": "Taurus",
+ "categories": [
+  "protoplanetary"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "technique": "interferometry",
+   "instrument": "Band 6",
+   "wavelength_um": 1330,
+   "wavelength_label": "1.33 mm continuum",
+   "image_id": "ft-tau_taurus-long2018",
+   "survey": "Taurus-Long2018",
+   "file": "images/ft-tau/ft-tau_taurus-long2018.png",
+   "credit": "Long et al. 2018, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Long",
+    "year": 2018,
+    "title": "Gaps and Rings in an ALMA Survey of Disks in the Taurus Star-forming Region",
+    "journal": "ApJ 869, 17",
+    "arxiv": "1810.06044",
+    "bibcode": "2018ApJ...869...17L"
+   }
+  }
+ ],
+ "notes": null,
+ "last_updated": "2026-07-07",
+ "plx_mas": 7.6812,
+ "mags": {
+  "B": 16.15,
+  "V": 14.93,
+  "G": 13.604074,
+  "R": 14.7,
+  "J": 10.192,
+  "H": 9.123,
+  "K": 8.596
+ }
+}

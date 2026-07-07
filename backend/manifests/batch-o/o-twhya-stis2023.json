@@ -1,0 +1,36 @@
+{
+ "survey": "o-twhya-stis2023",
+ "survey_name": null,
+ "source_image": "images/_sources/extracted/2305.03611/fig-r2.pdf",
+ "pdf_page": 1,
+ "dpi": 300,
+ "credit": "Debes et al. 2023, Fig. 2 (crop: 2021 epoch, R^2-scaled; the single 2016 shadow has split into shadows B and C)",
+ "paper": {
+  "first_author": "Debes",
+  "year": 2023,
+  "title": "The Surprising Evolution of the Shadow on the TW Hya Disk",
+  "journal": "ApJ (2023)",
+  "arxiv": "2305.03611",
+  "bibcode": null
+ },
+ "panels": [
+  {
+   "id": "tw-hya",
+   "image_id": "tw-hya_stis2023-shadows",
+   "bbox_frac": [
+    0.4,
+    0.1,
+    0.8,
+    0.9
+   ]
+  }
+ ],
+ "image_defaults": {
+  "type": "disk_scattered",
+  "facility": "HST",
+  "instrument": "STIS",
+  "wavelength_um": 0.58,
+  "wavelength_label": "optical; 2021 epoch: the shadow has split into two (misaligned inner rings)",
+  "technique": "coronagraphy"
+ }
+}

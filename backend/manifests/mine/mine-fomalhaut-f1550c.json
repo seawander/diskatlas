@@ -1,0 +1,35 @@
+{
+ "survey": "mine-fomalhaut-f1550c",
+ "survey_name": null,
+ "source_image": "images/_sources/extracted/2305.03789/Fig2.png",
+ "panels": [
+  {
+   "id": "fomalhaut",
+   "image_id": "fomalhaut_jwst2023-f1550c",
+   "bbox_frac": [
+    0.0099,
+    0.0297,
+    0.3305,
+    0.4902
+   ]
+  }
+ ],
+ "image_defaults": {
+  "type": "disk_mm",
+  "facility": "JWST",
+  "instrument": "MIRI F1550C",
+  "wavelength_um": 15.5,
+  "wavelength_label": "15.5 um thermal (warm inner disk)",
+  "technique": "coronagraphy"
+ },
+ "credit": "Gáspár et al. 2023, Fig. 2 (crop)",
+ "paper": {
+  "first_author": "Gaspar",
+  "year": 2023,
+  "title": "Spatially resolved imaging of the inner Fomalhaut disk using JWST/MIRI",
+  "journal": "Nature Astronomy 7, 790",
+  "arxiv": "2305.03789",
+  "bibcode": null
+ },
+ "_comment": "Fig2.png top-left panel = F1550C sky view; sibling fomalhaut_jwst2023 is the F2550W top-right panel of the same figure"
+}

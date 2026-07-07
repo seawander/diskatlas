@@ -1,0 +1,59 @@
+{
+ "id": "hip-71618",
+ "name": "HIP 71618",
+ "alt_names": [],
+ "simbad": "HIP 71618",
+ "ra_deg": 219.7092720862,
+ "dec_deg": 44.40450224947,
+ "dist_pc": 58.19,
+ "plx_mas": 17.1844,
+ "mags": {
+  "V": 5.387,
+  "G": 5.383827,
+  "J": 5.196,
+  "H": 5.277,
+  "K": 5.260
+ },
+ "sptype": "A1V",
+ "region": "Isolated",
+ "categories": [],
+ "planets": [
+  {
+   "name": "B",
+   "status": "confirmed",
+   "method": "imaging",
+   "note": "Substellar companion (M6-M8, ~2700 K, ~30-100 Mjup depending on prior) on a nearly edge-on, high-eccentricity ~11 au orbit; discovered via joint Gaia/Hipparcos astrometric acceleration and SCExAO/CHARIS + Keck/NIRC2 direct imaging as part of the OASIS survey. Candidate Roman Space Telescope Coronagraph technology-demonstration target.",
+   "paper": {
+    "first_author": "El Morsy",
+    "year": 2025,
+    "arxiv": "2512.02126",
+    "bibcode": null
+   }
+  }
+ ],
+ "images": [
+  {
+   "image_id": "hip-71618_oasis",
+   "type": "planet",
+   "facility": "Subaru-SCExAO",
+   "instrument": "CHARIS JHK",
+   "wavelength_um": 1.76,
+   "wavelength_label": "1.15-2.37 um (broadband JHK)",
+   "technique": "ADI",
+   "survey": "OASIS",
+   "file": "images/hip-71618/hip-71618_oasis.png",
+   "credit": "El Morsy et al. 2025, Fig. 2 (crop)",
+   "hires_url": null,
+   "paper": {
+    "first_author": "El Morsy",
+    "year": 2025,
+    "title": "OASIS Survey Direct Imaging and Astrometric Discovery of HIP 71618 B: A Substellar Companion Suitable for the Roman Coronagraph Technology Demonstration",
+    "journal": "ApJL (in press)",
+    "arxiv": "2512.02126",
+    "bibcode": null
+   }
+  }
+ ],
+ "notes": "HIP 71618 B discovered by the OASIS survey combining Hipparcos-Gaia astrometric acceleration with SCExAO/CHARIS (JHK, 2024-2025) and Keck/NIRC2 (Lp) direct imaging; separation ~0.3 arcsec (~11 au). Dynamical mass 60-65 Mjup (prior-dependent); atmospheric fits favor M6-M8, Teff ~2600-2800 K.",
+ "last_updated": "2026-07-06"
+}

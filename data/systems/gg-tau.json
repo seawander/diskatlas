@@ -1,0 +1,170 @@
+{
+ "id": "gg-tau",
+ "name": "GG Tau",
+ "alt_names": [],
+ "simbad": "GG Tau",
+ "ra_deg": 68.12646121898,
+ "dec_deg": 17.52791501754,
+ "dist_pc": 116.4,
+ "sptype": "M0e+M2.0e",
+ "region": "Taurus",
+ "categories": [
+  "protoplanetary"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS",
+   "wavelength_um": 1.65,
+   "wavelength_label": "H band 1.6 um (pol. intensity)",
+   "technique": "PDI",
+   "survey": null,
+   "credit": "Keppler et al. 2020, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Keppler",
+    "year": 2020,
+    "title": "Gap, shadows, spirals, and streamers: SPHERE observations of binary-disk interactions in GG Tau A",
+    "journal": "A&A 639, A62",
+    "arxiv": "2005.09037",
+    "bibcode": null
+   },
+   "image_id": "gg-tau_sphere2020",
+   "file": "images/gg-tau/gg-tau_sphere2020.png"
+  },
+  {
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS DPI",
+   "wavelength_um": 1.65,
+   "wavelength_label": "H band 1.6 um (pol. intensity)",
+   "technique": "PDI",
+   "image_id": "gg-tau_sphere-taurus",
+   "survey": "SPHERE-Taurus",
+   "file": "images/gg-tau/gg-tau_sphere-taurus.png",
+   "credit": "Garufi et al. 2024, Fig. 2 (crop)",
+   "paper": {
+    "first_author": "Garufi",
+    "year": 2024,
+    "title": "The SPHERE view of the Taurus star-forming region: The full census of planet-forming disks with GTO and DESTINYS programs",
+    "journal": "A&A 685, A53",
+    "arxiv": "2403.02158",
+    "bibcode": "2024A&A...685A..53G"
+   }
+  },
+  {
+   "type": "disk_scattered",
+   "facility": "CFHT",
+   "instrument": "UH adaptive optics",
+   "wavelength_um": 1.25,
+   "wavelength_label": "J band 1.25 um (AO; matched-PSF deconvolution)",
+   "technique": "other",
+   "survey": null,
+   "credit": "Roddier et al. 1996, Fig. 1b (crop)",
+   "paper": {
+    "first_author": "Roddier",
+    "year": 1996,
+    "title": "Adaptive Optics Imaging of GG Tauri: Optical Detection of the Circumbinary Ring",
+    "journal": "ApJ 463, 326",
+    "arxiv": null,
+    "bibcode": "1996ApJ...463..326R"
+   },
+   "image_id": "gg-tau_cfht1996",
+   "file": "images/gg-tau/gg-tau_cfht1996.png"
+  },
+  {
+   "image_id": "gg-tau_alma2020",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 6/7",
+   "wavelength_um": 1300,
+   "wavelength_label": "1.3 & 0.8 mm (Band 6/7)",
+   "technique": "mm interferometry continuum",
+   "survey": null,
+   "file": "images/gg-tau/gg-tau_alma2020.png",
+   "credit": "Phuong et al. 2020, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Phuong",
+    "year": 2020,
+    "title": "GG Tau A: gas properties and dynamics from the cavity to the outer disk",
+    "journal": "A&A",
+    "arxiv": "2001.08147",
+    "bibcode": "2020A&A...635A..12P"
+   }
+  },
+  {
+   "image_id": "gg-tau_wfpc2002",
+   "type": "disk_scattered",
+   "facility": "HST",
+   "instrument": "WFPC2",
+   "wavelength_um": 0.814,
+   "wavelength_label": "optical V, I band (scattered light)",
+   "technique": "coronagraphy",
+   "survey": null,
+   "credit": "Krist et al. 2002, Fig. 2 (crop)",
+   "paper": {
+    "first_author": "Krist",
+    "year": 2002,
+    "title": "HST/WFPC2 Images of the GG Tauri Circumbinary Disk",
+    "journal": "AJ 123, 2751",
+    "arxiv": "astro-ph/0201415",
+    "bibcode": null
+   },
+   "file": "images/gg-tau/gg-tau_wfpc2002.png"
+  },
+  {
+   "image_id": "gg-tau_nicmos2002",
+   "type": "disk_scattered",
+   "facility": "HST",
+   "instrument": "NICMOS",
+   "wavelength_um": 1.1,
+   "wavelength_label": "near-IR (scattered light, F110W/F160W/F205W)",
+   "technique": "ADI",
+   "survey": null,
+   "credit": "McCabe et al. 2002, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "McCabe",
+    "year": 2002,
+    "title": "NICMOS Images of the GG Tau Circumbinary Disk",
+    "journal": "ApJ 575, 974",
+    "arxiv": "astro-ph/0204465",
+    "bibcode": null
+   },
+   "file": "images/gg-tau/gg-tau_nicmos2002.png"
+  },
+  {
+   "image_id": "gg-tau_acs2005",
+   "type": "disk_scattered",
+   "facility": "HST",
+   "instrument": "ACS/HRC coronagraph",
+   "wavelength_um": 0.606,
+   "wavelength_label": "F555W/F814W (V/I) coronagraphic imaging",
+   "technique": "coronagraphy",
+   "survey": null,
+   "credit": "Krist et al. 2005, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Krist",
+    "year": 2005,
+    "title": "HST/ACS Images of the GG Tauri Circumbinary Disk",
+    "journal": "AJ 130, 2778",
+    "arxiv": "astro-ph/0508222",
+    "bibcode": null
+   },
+   "file": "images/gg-tau/gg-tau_acs2005.png"
+  }
+ ],
+ "notes": null,
+ "last_updated": "2026-07-07",
+ "plx_mas": 8.5914,
+ "mags": {
+  "U": 14.84,
+  "B": 14.78,
+  "V": 13.4,
+  "G": 11.454188,
+  "R": 11.54,
+  "J": 8.674,
+  "H": 7.815,
+  "K": 7.364
+ }
+}

@@ -1,0 +1,51 @@
+{
+ "id": "pg-1202-281",
+ "name": "PG 1202+281",
+ "alt_names": [
+  "GQ Com"
+ ],
+ "simbad": "PG 1202+281",
+ "ra_deg": 181.1754571733299,
+ "dec_deg": 27.90329704174,
+ "dist_pc": 44444.4,
+ "plx_mas": 0.0225,
+ "mags": {
+  "B": 15.64,
+  "V": 15.6,
+  "G": 16.445852,
+  "J": 14.754,
+  "H": 14.03,
+  "K": 12.878
+ },
+ "sptype": "QSO (z=0.165)",
+ "region": "extragalactic",
+ "categories": [
+  "quasar"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "type": "quasar",
+   "facility": "HST",
+   "instrument": "WFPC2 (WFC)",
+   "wavelength_um": 0.6,
+   "wavelength_label": "F606W; PSF-subtracted quasar image (host-galaxy upper limit, the 'naked quasar' result)",
+   "technique": "other",
+   "image_id": "pg-1202-281_bahcall1994",
+   "file": "images/pg-1202-281/pg-1202-281_bahcall1994.png",
+   "survey": "Bahcall-quasars-1994",
+   "credit": "Bahcall et al. 1994, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Bahcall",
+    "year": 1994,
+    "title": "HST Images of Nearby Luminous Quasars",
+    "journal": "ApJL 435, L11",
+    "arxiv": "astro-ph/9409028",
+    "bibcode": "1994ApJ...435L..11B"
+   }
+  }
+ ],
+ "notes": "GQ Comae; luminous radio-quiet PG quasar (V=15.6) from the Bahcall, Kirhakos & Schneider 1994 HST/WFPC2 study: no host detected to strong limits ('naked quasar' result); bright companion galaxy visible NW in the WFPC2 frame. Added by batch T; redshift from Paper I Table 1. Coordinates pending SIMBAD via coords_todo_batchT.",
+ "last_updated": "2026-07-06",
+ "redshift": 0.165
+}

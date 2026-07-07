@@ -1,0 +1,30 @@
+{
+ "survey": "c2-fomalhaut-acs2005",
+ "survey_name": null,
+ "source_image": "images/_sources/extracted/astro-ph_0506574/astro-ph_0506574.pdf",
+ "pdf_page": 1,
+ "panels": [
+  {
+   "id": "fomalhaut",
+   "image_id": "fomalhaut_acs2005",
+   "bbox_frac": [0.537, 0.275, 0.876, 0.4915]
+  }
+ ],
+ "image_defaults": {
+  "type": "disk_scattered",
+  "facility": "HST",
+  "instrument": "ACS",
+  "wavelength_um": 0.7,
+  "wavelength_label": "optical (F606W+F814W); eccentric ring",
+  "technique": "coronagraphy"
+ },
+ "credit": "Kalas et al. 2005, Fig. 1a (crop)",
+ "paper": {
+  "first_author": "Kalas",
+  "year": 2005,
+  "title": "A planetary system as the origin of structure in Fomalhaut's dust belt",
+  "journal": "Nature 435, 1067",
+  "arxiv": "astro-ph/0506574",
+  "bibcode": "2005Natur.435.1067K"
+ }
+}

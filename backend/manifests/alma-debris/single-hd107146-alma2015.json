@@ -1,0 +1,34 @@
+{
+ "survey": "single-hd107146-alma2015",
+ "survey_name": null,
+ "source_image": "images/_sources/_views/eps_data_natural.png",
+ "panels": [
+  {
+   "id": "hd-107146",
+   "image_id": "hd-107146_alma2015",
+   "bbox_frac": [
+    0.2095,
+    0.0613,
+    0.7834,
+    0.8044
+   ]
+  }
+ ],
+ "image_defaults": {
+  "type": "disk_mm",
+  "facility": "ALMA",
+  "instrument": "Band 6",
+  "wavelength_um": 1250,
+  "wavelength_label": "1.25 mm continuum (broad belt + gap)",
+  "technique": "interferometry"
+ },
+ "credit": "Ricci et al. 2015, Fig. 1 (crop)",
+ "paper": {
+  "first_author": "Ricci",
+  "year": 2015,
+  "title": "ALMA Observations of the Debris Disk around the Young Solar Analog HD 107146",
+  "journal": "ApJ 798, 124",
+  "arxiv": "1410.8265",
+  "bibcode": null
+ }
+}

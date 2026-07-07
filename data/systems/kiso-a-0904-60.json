@@ -1,0 +1,37 @@
+{
+ "id": "kiso-a-0904-60",
+ "name": "kiso a 0904 60",
+ "alt_names": [],
+ "simbad": "Kiso A-0904 60",
+ "ra_deg": 84.375125,
+ "dec_deg": -0.8144444,
+ "dist_pc": null,
+ "sptype": null,
+ "region": null,
+ "categories": [],
+ "planets": [],
+ "images": [
+  {
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS",
+   "wavelength_um": 1.65,
+   "wavelength_label": "H band 1.6 um (total intensity)",
+   "technique": "total intensity",
+   "image_id": "kiso-a-0904-60_destinys-orion",
+   "file": "images/kiso-a-0904-60/kiso-a-0904-60_destinys-orion.png",
+   "survey": "DESTINYS-Orion",
+   "credit": "Valegard et al. 2024, Fig. 1 thumbnail (crop); companion detected, no disk in polarized light",
+   "paper": {
+    "first_author": "Valegard",
+    "year": 2024,
+    "title": "Disk Evolution Study Through Imaging of Nearby Young Stars (DESTINYS): The SPHERE view of the Orion star-forming region",
+    "journal": "A&A 685, A54",
+    "arxiv": "2403.02156",
+    "bibcode": "2024A&A...685A..54V"
+   }
+  }
+ ],
+ "notes": "AUTO-CREATED from staging - fill metadata & coords",
+ "last_updated": "2026-07-06"
+}

@@ -1,0 +1,35 @@
+{
+ "survey": "stis-ren",
+ "survey_name": "STIS-Ren",
+ "source_image": "images/_sources/extracted/2302.04273/fig-STIS.pdf",
+ "pdf_page": 1,
+ "dpi": 400,
+ "grid": {
+  "rows": 5, "cols": 5,
+  "order": [
+   "49-cet", "au-mic", "beta-pic", "hd-377", "hd-15115",
+   "hd-15745", "hd-30447", "hd-32297", "hd-35650", "hd-35841",
+   "hd-61005", "hd-104860", "hd-110058", "hd-131835", "hd-141569",
+   "hd-141943", "hd-181327", "hd-191089", "hd-192758", "hd-202917",
+   "hr-4796a", "twa-7", "twa-25", null, null
+  ],
+  "image_id_pattern": "{id}_stis-ren"
+ },
+ "image_defaults": {
+  "type": "disk_scattered",
+  "facility": "HST",
+  "instrument": "STIS",
+  "wavelength_um": 0.58,
+  "wavelength_label": "0.2-1.0 um broadband (optical)",
+  "technique": "coronagraphy"
+ },
+ "credit": "Ren et al. 2023, Fig. 2 (crop)",
+ "paper": {
+  "first_author": "Ren",
+  "year": 2023,
+  "title": "Debris Disk Color with the Hubble Space Telescope",
+  "journal": "A&A 672, A114",
+  "arxiv": "2302.04273",
+  "bibcode": "2023A&A...672A.114R"
+ }
+}

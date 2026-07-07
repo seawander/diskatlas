@@ -1,0 +1,21 @@
+{
+ "survey": "j-hip79977-seeds",
+ "survey_name": null,
+ "source_image": "images/_sources/_views/j-hip79977.png",
+ "pdf_page": null,
+ "panels": [
+  {
+   "id": "hip-79977",
+   "image_id": "hip-79977_seeds",
+   "bbox_frac": [
+    0,
+    0,
+    0.4977,
+    0.3333
+   ]
+  }
+ ],
+ "image_defaults": {},
+ "credit": "Thalmann et al. 2013, Fig. 1a (crop)",
+ "paper": null
+}

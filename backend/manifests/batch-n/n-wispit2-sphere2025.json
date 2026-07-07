@@ -1,0 +1,27 @@
+{
+ "survey": "n-wispit2-sphere2025",
+ "survey_name": null,
+ "source_image": "images/_sources/extracted/2508.19053/disk_H_annotated.pdf",
+ "pdf_page": 1,
+ "dpi": 200,
+ "credit": "van Capelleveen et al. 2025, Fig. 5 (crop: H-band Q_phi image with annotated rings/gaps)",
+ "paper": {
+  "first_author": "van Capelleveen",
+  "year": 2025,
+  "title": "WIde Separation Planets In Time (WISPIT): A gap-clearing planet in a multi-ringed disk around the young solar-type star WISPIT 2",
+  "journal": "ApJL (2025)",
+  "arxiv": "2508.19053",
+  "bibcode": null
+ },
+ "panels": [
+  { "id": "wispit-2", "image_id": "wispit-2_sphere2025", "bbox_frac": [0.0, 0.0, 1.0, 1.0] }
+ ],
+ "image_defaults": {
+  "type": "disk_scattered",
+  "facility": "VLT-SPHERE",
+  "instrument": "IRDIS",
+  "wavelength_um": 1.65,
+  "wavelength_label": "H band Q_phi; multi-ringed disk (rings 0-3), planet b sits in the gap between rings 2 and 3",
+  "technique": "PDI"
+ }
+}

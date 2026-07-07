@@ -1,0 +1,35 @@
+{
+ "survey": "single-suaur-sphere2021",
+ "survey_name": null,
+ "source_image": "images/_sources/extracted/2102.08781/main_figure_sphere_naco_v2.pdf",
+ "panels": [
+  {
+   "id": "su-aur",
+   "image_id": "su-aur_sphere2021",
+   "bbox_frac": [
+    0.1238,
+    0.0202,
+    0.9482,
+    0.3137
+   ]
+  }
+ ],
+ "image_defaults": {
+  "type": "disk_scattered",
+  "facility": "VLT-SPHERE",
+  "instrument": "IRDIS",
+  "wavelength_um": 1.65,
+  "wavelength_label": "H band 1.6 um (pol. intensity)",
+  "technique": "PDI"
+ },
+ "credit": "Ginski et al. 2021, Fig. 1 (crop, SPHERE Qphi)",
+ "paper": {
+  "first_author": "Ginski",
+  "year": 2021,
+  "title": "Disk Evolution Study Through Imaging of Nearby Young Stars (DESTINYS): Late Infall Causing Disk Misalignment and Dynamic Structures in SU Aur",
+  "journal": "ApJL 908, L25",
+  "arxiv": "2102.08781",
+  "bibcode": null
+ },
+ "pdf_page": 1
+}

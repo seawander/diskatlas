@@ -1,0 +1,48 @@
+{
+ "id": "dg-cra",
+ "name": "DG CrA",
+ "alt_names": [],
+ "simbad": "DG CrA",
+ "ra_deg": 285.48018467903,
+ "dec_deg": -37.39467978068,
+ "dist_pc": 151.2,
+ "plx_mas": 6.6159,
+ "mags": {
+  "V": 13.4,
+  "G": 12.601298,
+  "J": 9.779,
+  "H": 8.709,
+  "K": 7.952
+ },
+ "sptype": "K5.0",
+ "region": "Corona Australis",
+ "categories": [
+  "protoplanetary"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "image_id": "dg-cra_destinys",
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS",
+   "wavelength_um": 1.65,
+   "wavelength_label": "H band polarized light",
+   "technique": "PDI",
+   "survey": "SPHERE-NIR-census",
+   "file": "images/dg-cra/dg-cra_destinys.png",
+   "credit": "Garufi et al. 2026, Fig. A.1 (crop)",
+   "hires_url": null,
+   "paper": {
+    "first_author": "Garufi",
+    "year": 2026,
+    "title": "Planet-forming disks and their environment across regions and time from the full NIR census",
+    "journal": "A&A, in press",
+    "arxiv": "2603.01703",
+    "bibcode": null
+   }
+  }
+ ],
+ "notes": "First-published SPHERE/IRDIS H-band polarimetric image (DESTINYS). One of the most prominent DESTINYS detections: a stellar companion is seen 0.22\" S of the primary in the intensity image, and a highly sub-structured disk is detected out to 1\" with several spiral arms extending to 2.5\" in polarized light, including one prominent NE arm connecting to the surrounding environment. Disk features: narrow shadow(s); ambient features: binary interaction + ambient interaction (Garufi et al. 2026, Table A.5/Fig. A.1).",
+ "last_updated": "2026-07-06"
+}

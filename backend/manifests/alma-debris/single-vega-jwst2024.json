@@ -1,0 +1,36 @@
+{
+ "survey": "single-vega-jwst2024",
+ "survey_name": null,
+ "source_image": "images/_sources/extracted/2410.23636/figures/fig1_rot_ver2.pdf",
+ "panels": [
+  {
+   "id": "vega",
+   "image_id": "vega_jwst2024",
+   "bbox_frac": [
+    0.01,
+    0.0093,
+    0.9911,
+    0.7371
+   ]
+  }
+ ],
+ "image_defaults": {
+  "type": "disk_mm",
+  "facility": "JWST",
+  "instrument": "MIRI F2550W",
+  "wavelength_um": 25.5,
+  "wavelength_label": "25.5 um thermal (smooth face-on disk)",
+  "technique": "other"
+ },
+ "credit": "Su et al. 2024, Fig. 1 (crop)",
+ "paper": {
+  "first_author": "Su",
+  "year": 2024,
+  "title": "Imaging of the Vega Debris System using JWST/MIRI",
+  "journal": "ApJ 979, 43",
+  "arxiv": "2410.23636",
+  "bibcode": null
+ },
+ "pdf_page": 1,
+ "dpi": 150
+}

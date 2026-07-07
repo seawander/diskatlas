@@ -1,0 +1,83 @@
+{
+ "id": "hk-tau-b",
+ "name": "HK Tau B",
+ "alt_names": [
+  "V* HK Tau B"
+ ],
+ "simbad": "V* HK Tau B",
+ "ra_deg": 67.9608343671717,
+ "dec_deg": 24.4043062663525,
+ "dist_pc": 128.5,
+ "plx_mas": 7.7803,
+ "mags": null,
+ "sptype": null,
+ "region": "Taurus",
+ "categories": [
+  "protoplanetary"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "technique": "interferometry",
+   "instrument": "Band 4",
+   "wavelength_um": 2060,
+   "wavelength_label": "2.1 mm continuum (edge-on)",
+   "image_id": "hk-tau-b_edgeon-alma2020-b4",
+   "file": "images/hk-tau-b/hk-tau-b_edgeon-alma2020-b4.png",
+   "survey": "EdgeOn-ALMA-2020",
+   "credit": "Villenave et al. 2020, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Villenave",
+    "year": 2020,
+    "title": "Observations of edge-on protoplanetary disks with ALMA. I. Results from continuum data",
+    "journal": "A&A 642, A164",
+    "arxiv": "2008.06518",
+    "bibcode": "2020A&A...642A.164V"
+   }
+  },
+  {
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "technique": "interferometry",
+   "instrument": "Band 7",
+   "wavelength_um": 890,
+   "wavelength_label": "0.89 mm continuum (HK Tau B edge-on disk)",
+   "image_id": "hk-tau-b_edgeon-alma2020",
+   "file": "images/hk-tau-b/hk-tau-b_edgeon-alma2020.png",
+   "survey": "EdgeOn-ALMA-2020",
+   "credit": "Villenave et al. 2020, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Villenave",
+    "year": 2020,
+    "title": "Observations of edge-on protoplanetary disks with ALMA. I. Results from continuum data",
+    "journal": "A&A 642, A164",
+    "arxiv": "2008.06518",
+    "bibcode": "2020A&A...642A.164V"
+   }
+  },
+  {
+   "image_id": "hk-tau-b_keck-lws2003",
+   "type": "disk_scattered",
+   "facility": "Keck",
+   "instrument": "Keck/LWS (mid-IR imager)",
+   "wavelength_um": 11.8,
+   "wavelength_label": "11.8 micron scattered light, with HST contours overlaid",
+   "technique": "other",
+   "survey": null,
+   "credit": "McCabe et al. 2003, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "McCabe",
+    "year": 2003,
+    "title": "The First Detection of Spatially Resolved Mid-Infrared Scattered Light from a Protoplanetary Disk",
+    "journal": "ApJ (Letters)",
+    "arxiv": "astro-ph/0304083",
+    "bibcode": null
+   },
+   "file": "images/hk-tau-b/hk-tau-b_keck-lws2003.png"
+  }
+ ],
+ "notes": "Edge-on circumstellar disk of the secondary in the HK Tau binary (2.3\" from A); the classic optically-thick edge-on disk (Stapelfeldt et al. 1998). Split from hk-tau on 2026-07-07.",
+ "last_updated": "2026-07-07"
+}

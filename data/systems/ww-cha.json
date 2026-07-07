@@ -1,0 +1,69 @@
+{
+ "id": "ww-cha",
+ "name": "ww cha",
+ "alt_names": [],
+ "simbad": "ww cha",
+ "ra_deg": 167.50033447465,
+ "dec_deg": -76.58276773706,
+ "dist_pc": 188.8,
+ "sptype": null,
+ "region": "Chamaeleon I",
+ "categories": [
+  "protoplanetary"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS DPI",
+   "wavelength_um": 1.65,
+   "wavelength_label": "H band 1.6 um (Qphi pol. intensity)",
+   "technique": "PDI",
+   "image_id": "ww-cha_sphere-chami",
+   "file": "images/ww-cha/ww-cha_sphere-chami.png",
+   "survey": "SPHERE-ChamI",
+   "credit": "Ginski et al. 2024, Fig. 2 (crop)",
+   "paper": {
+    "first_author": "Ginski",
+    "year": 2024,
+    "title": "The SPHERE view of the Chamaeleon I star-forming region: The full census of planet-forming disks with GTO and DESTINYS programs",
+    "journal": "A&A 685, A52",
+    "arxiv": "2403.02149",
+    "bibcode": "2024A&A...685A..52G"
+   }
+  },
+  {
+   "image_id": "ww-cha_gravity2021",
+   "type": "planet",
+   "facility": "VLTI",
+   "instrument": "GRAVITY",
+   "wavelength_um": 2.2,
+   "wavelength_label": "K band (near-infrared interferometry)",
+   "technique": "interferometry",
+   "survey": null,
+   "credit": "GRAVITY Collaboration (Eupen et al.) 2021, Fig. 4 (crop)",
+   "paper": {
+    "first_author": "GRAVITY Collaboration",
+    "year": 2021,
+    "title": "The GRAVITY young stellar object survey V. The orbit of the T Tauri binary star WW Cha",
+    "journal": "A&A 648, A37 (2021)",
+    "arxiv": "2102.00122",
+    "bibcode": null
+   },
+   "file": "images/ww-cha/ww-cha_gravity2021.png"
+  }
+ ],
+ "notes": "AUTO-CREATED from staging - fill metadata & coords",
+ "last_updated": "2026-07-06",
+ "plx_mas": 5.2965,
+ "mags": {
+  "B": 14.74,
+  "V": 14.1,
+  "G": 12.234048,
+  "I": 10.95,
+  "J": 8.714,
+  "H": 7.21,
+  "K": 6.08
+ }
+}

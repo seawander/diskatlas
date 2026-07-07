@@ -1,0 +1,126 @@
+{
+ "survey": "p1-edgeon-alma2020-b7",
+ "source_image": "images/_sources/extracted/2008.06518/Figures/Images_vertical.pdf",
+ "pdf_page": 1,
+ "dpi": 300,
+ "panels": [
+  {
+   "id": "iras-04302-2247",
+   "image_id": "iras-04302-2247_edgeon-alma2020",
+   "bbox_frac": [
+    0.0131,
+    0.0347,
+    0.1866,
+    0.1879
+   ]
+  },
+  {
+   "id": "hv-tau-c",
+   "image_id": "hv-tau-c_edgeon-alma2020",
+   "bbox_frac": [
+    0.0131,
+    0.354,
+    0.1866,
+    0.5072
+   ]
+  },
+  {
+   "id": "iras-04200-2759",
+   "image_id": "iras-04200-2759_edgeon-alma2020",
+   "bbox_frac": [
+    0.0131,
+    0.513,
+    0.1866,
+    0.6676
+   ]
+  },
+  {
+   "id": "haro-6-5b",
+   "image_id": "haro-6-5b_edgeon-alma2020",
+   "bbox_frac": [
+    0.0131,
+    0.6734,
+    0.1866,
+    0.8266
+   ]
+  },
+  {
+   "id": "iras-04158-2805",
+   "image_id": "iras-04158-2805_edgeon-alma2020",
+   "bbox_frac": [
+    0.0131,
+    0.8324,
+    0.1866,
+    0.9855
+   ]
+  },
+  {
+   "id": "tau-042021",
+   "image_id": "tau-042021_edgeon-alma2020",
+   "bbox_frac": [
+    0.4484,
+    0.0347,
+    0.6219,
+    0.1879
+   ]
+  },
+  {
+   "id": "hh-30",
+   "image_id": "hh-30_edgeon-alma2020",
+   "bbox_frac": [
+    0.4484,
+    0.1936,
+    0.6219,
+    0.3483
+   ]
+  },
+  {
+   "id": "eso-halpha-569",
+   "image_id": "eso-halpha-569_edgeon-alma2020",
+   "bbox_frac": [
+    0.4484,
+    0.513,
+    0.6219,
+    0.6676
+   ]
+  },
+  {
+   "id": "eso-halpha-574",
+   "image_id": "eso-halpha-574_edgeon-alma2020",
+   "bbox_frac": [
+    0.4484,
+    0.6734,
+    0.6219,
+    0.8266
+   ]
+  },
+  {
+   "id": "hh-48-ne",
+   "image_id": "hh-48-ne_edgeon-alma2020",
+   "bbox_frac": [
+    0.4484,
+    0.8324,
+    0.6219,
+    0.9855
+   ]
+  }
+ ],
+ "image_defaults": {
+  "type": "disk_mm",
+  "facility": "ALMA",
+  "technique": "interferometry",
+  "instrument": "Band 7",
+  "wavelength_um": 890,
+  "wavelength_label": "0.89 mm continuum (edge-on)"
+ },
+ "survey_name": "EdgeOn-ALMA-2020",
+ "credit": "Villenave et al. 2020, Fig. 1 (crop)",
+ "paper": {
+  "first_author": "Villenave",
+  "year": 2020,
+  "title": "Observations of edge-on protoplanetary disks with ALMA. I. Results from continuum data",
+  "journal": "A&A 642, A164",
+  "arxiv": "2008.06518",
+  "bibcode": "2020A&A...642A.164V"
+ }
+}

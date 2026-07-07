@@ -1,0 +1,47 @@
+{
+ "survey": "mine-gpies-toti2",
+ "survey_name": "GPIES-debris",
+ "source_image": "images/_sources/extracted/2004.13722/gallery_det_totI_11-21-2019_debris_mJy_arcsec-2.pdf",
+ "pdf_page": 1,
+ "dpi": 220,
+ "panels": [
+  {
+   "id": "au-mic",
+   "image_id": "au-mic_gpies-debris-toti",
+   "bbox_frac": [
+    0.0012,
+    0.0356,
+    0.1988,
+    0.2482
+   ]
+  },
+  {
+   "id": "beta-pic",
+   "image_id": "beta-pic_gpies-debris-toti",
+   "bbox_frac": [
+    0.2018,
+    0.045,
+    0.3988,
+    0.2482
+   ]
+  }
+ ],
+ "image_defaults": {
+  "type": "disk_scattered",
+  "facility": "Gemini-GPI",
+  "instrument": "IFS",
+  "wavelength_um": 1.65,
+  "wavelength_label": "H band 1.6 um (total intensity)",
+  "technique": "ADI"
+ },
+ "credit": "Esposito et al. 2020, Fig. 6 (crop)",
+ "paper": {
+  "first_author": "Esposito",
+  "year": 2020,
+  "title": "Debris Disk Results from the Gemini Planet Imager Exoplanet Survey's Polarimetric Imaging Campaign",
+  "journal": "AJ 160, 24",
+  "arxiv": "2004.13722",
+  "bibcode": "2020AJ....160...24E"
+ },
+ "_comment": "totI gallery row1 cols1-2; y0 cut to drop the 'Total Intensity' figure title; siblings <id>_gpies-debris are the Qphi Fig.5 crops"
+}

@@ -1,0 +1,58 @@
+{
+ "id": "hd-143811",
+ "name": "HD 143811",
+ "alt_names": [],
+ "simbad": "HD 143811",
+ "ra_deg": 240.8892710592800,
+ "dec_deg": -30.1370498863300,
+ "dist_pc": 136.9,
+ "plx_mas": 7.3065,
+ "mags": {
+  "B": 9.37,
+  "V": 8.91,
+  "G": 8.797881,
+  "J": 7.973,
+  "H": 7.784,
+  "K": 7.702
+ },
+ "sptype": "F5V",
+ "region": "Sco-Cen",
+ "categories": [],
+ "planets": [
+  {
+   "name": "b",
+   "status": "confirmed",
+   "note": "AB b: directly imaged planet orbiting the spectroscopic binary HD 143811 AB",
+   "paper": {
+    "first_author": "Jones",
+    "year": 2025,
+    "arxiv": "2509.06729",
+    "bibcode": null
+   }
+  }
+ ],
+ "images": [
+  {
+   "image_id": "hd-143811_gpi2025",
+   "type": "planet",
+   "facility": "Gemini-GPI",
+   "instrument": "GPI IFS",
+   "wavelength_um": 1.65,
+   "wavelength_label": "H band (2016-04-30 epoch, SNR 7.7 detection)",
+   "technique": "ADI",
+   "survey": null,
+   "credit": "Jones et al. 2025, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Jones",
+    "year": 2025,
+    "title": "HD 143811 AB b: A Directly Imaged Planet Orbiting a Spectroscopic Binary in Sco-Cen",
+    "journal": "ApJL 995, L41",
+    "arxiv": "2509.06729",
+    "bibcode": null
+   },
+   "file": "images/hd-143811/hd-143811_gpi2025.png"
+  }
+ ],
+ "notes": "HD 143811 AB is a spectroscopic binary; b is the first directly imaged planet on a non-ultra-wide orbit around a binary host.",
+ "last_updated": "2026-07-06"
+}

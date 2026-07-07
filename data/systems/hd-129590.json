@@ -1,0 +1,148 @@
+{
+ "id": "hd-129590",
+ "name": "HD 129590",
+ "alt_names": [],
+ "simbad": "HD 129590",
+ "ra_deg": 221.12901078983,
+ "dec_deg": -39.9890634018,
+ "dist_pc": 136.3,
+ "sptype": "G3V",
+ "region": null,
+ "categories": [
+  "debris"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "type": "disk_scattered",
+   "facility": "Gemini-GPI",
+   "instrument": "IFS pol",
+   "wavelength_um": 1.65,
+   "wavelength_label": "H band 1.6 um (pol. intensity)",
+   "technique": "PDI",
+   "image_id": "hd-129590_gpies-debris",
+   "survey": "GPIES-debris",
+   "file": "images/hd-129590/hd-129590_gpies-debris.png",
+   "credit": "Esposito et al. 2020, Fig. 5 (crop)",
+   "paper": {
+    "first_author": "Esposito",
+    "year": 2020,
+    "title": "Debris Disk Results from the Gemini Planet Imager Exoplanet Survey's Polarimetric Imaging Campaign",
+    "journal": "AJ 160, 24",
+    "arxiv": "2004.13722",
+    "bibcode": "2020AJ....160...24E"
+   }
+  },
+  {
+   "type": "disk_mm",
+   "facility": "ALMA/SMA",
+   "instrument": "Band 6/7",
+   "wavelength_um": 1300,
+   "wavelength_label": "~0.9-1.3 mm continuum",
+   "technique": "interferometry",
+   "image_id": "hd-129590_reasons",
+   "file": "images/hd-129590/hd-129590_reasons.png",
+   "survey": "REASONS",
+   "credit": "Matrà et al. 2025, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Matra",
+    "year": 2025,
+    "title": "REsolved ALMA and SMA Observations of Nearby Stars (REASONS): A population of 74 resolved planetesimal belts at millimetre wavelengths",
+    "journal": "A&A 693, A151",
+    "arxiv": "2501.09058",
+    "bibcode": "2025A&A...693A.151M"
+   }
+  },
+  {
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS DPI",
+   "wavelength_um": 1.65,
+   "wavelength_label": "H band 1.6 um (pol. intensity)",
+   "technique": "PDI",
+   "image_id": "hd-129590_sphere-debris-2025",
+   "file": "images/hd-129590/hd-129590_sphere-debris-2025.png",
+   "survey": "SPHERE-debris-2025",
+   "credit": "Engler et al. 2025, Fig. 5a (crop)",
+   "paper": {
+    "first_author": "Engler",
+    "year": 2025,
+    "title": "Characterization of debris disks observed with SPHERE",
+    "journal": "A&A 704, A21",
+    "arxiv": "2512.03128",
+    "bibcode": null
+   }
+  },
+  {
+   "image_id": "hd-129590_alma2020",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 6",
+   "wavelength_um": 1300,
+   "wavelength_label": "1.3 mm continuum",
+   "technique": "interferometry",
+   "survey": null,
+   "file": "images/hd-129590/hd-129590_alma2020.png",
+   "credit": "Kral et al. 2020, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Kral",
+    "year": 2020,
+    "title": "Survey of planetesimal belts with ALMA: gas detected around the Sun-like star HD 129590",
+    "journal": "MNRAS 497, 2811",
+    "arxiv": "2005.05841",
+    "bibcode": "2020MNRAS.497.2811K"
+   }
+  },
+  {
+   "image_id": "hd-129590_gpi-crotts24",
+   "type": "disk_scattered",
+   "facility": "Gemini-GPI",
+   "instrument": "IFS pol",
+   "wavelength_um": 1.65,
+   "wavelength_label": "H band 1.6 um (pol. intensity, Qphi)",
+   "technique": "PDI",
+   "survey": "GPI-Crotts2024",
+   "file": "images/hd-129590/hd-129590_gpi-crotts24.png",
+   "credit": "Crotts et al. 2024, Fig. 2 (crop)",
+   "paper": {
+    "first_author": "Crotts",
+    "year": 2024,
+    "title": "A Uniform Analysis of Debris Disks with the Gemini Planet Imager I: An Empirical Search for Perturbations from Planetary Companions in Polarized Light Images",
+    "journal": "ApJ 961, 245",
+    "arxiv": "2311.14599",
+    "bibcode": "2024ApJ...961..245C"
+   }
+  },
+  {
+   "image_id": "hd-129590_sphere-rdi-xie22",
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS",
+   "wavelength_um": 1.65,
+   "wavelength_label": "total intensity (H23, RDI)",
+   "technique": "RDI",
+   "survey": null,
+   "credit": "Xie et al. 2022, Fig. 9 (crop)",
+   "paper": {
+    "first_author": "Xie",
+    "year": 2022,
+    "title": "Reference-star differential imaging on SPHERE/IRDIS",
+    "journal": "A&A 666, A32",
+    "arxiv": "2208.07915",
+    "bibcode": null
+   },
+   "file": "images/hd-129590/hd-129590_sphere-rdi-xie22.png"
+  }
+ ],
+ "notes": null,
+ "last_updated": "2026-07-07",
+ "plx_mas": 7.3356,
+ "mags": {
+  "B": 9.96,
+  "V": 9.33,
+  "G": 9.172299,
+  "J": 8.186,
+  "H": 7.928,
+  "K": 7.801
+ }
+}

@@ -1,0 +1,21 @@
+{
+ "survey": "j-aumic-keck2004",
+ "survey_name": null,
+ "source_image": "images/_sources/_views/j-src-aumic-keck-rot2.png",
+ "pdf_page": null,
+ "panels": [
+  {
+   "id": "au-mic",
+   "image_id": "au-mic_keck2004",
+   "bbox_frac": [
+    0.2,
+    0.43,
+    0.91,
+    0.84
+   ]
+  }
+ ],
+ "image_defaults": {},
+ "credit": "Liu et al. 2004, Fig. 1 (crop; rotated to disk-horizontal)",
+ "paper": null
+}

@@ -1,0 +1,108 @@
+{
+ "id": "hd-120326",
+ "name": "HD 120326",
+ "alt_names": [],
+ "simbad": "HD 120326",
+ "ra_deg": 207.4770967843099,
+ "dec_deg": -50.23996583093,
+ "dist_pc": 113.3,
+ "sptype": "F0V",
+ "region": null,
+ "categories": [
+  "debris"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS DPI",
+   "wavelength_um": 1.65,
+   "wavelength_label": "H band 1.6 um (pol. intensity)",
+   "technique": "PDI",
+   "image_id": "hd-120326_sphere-debris-2025",
+   "file": "images/hd-120326/hd-120326_sphere-debris-2025.png",
+   "survey": "SPHERE-debris-2025",
+   "credit": "Engler et al. 2025, Fig. 5a (crop)",
+   "paper": {
+    "first_author": "Engler",
+    "year": 2025,
+    "title": "Characterization of debris disks observed with SPHERE",
+    "journal": "A&A 704, A21",
+    "arxiv": "2512.03128",
+    "bibcode": null
+   }
+  },
+  {
+   "image_id": "hd-120326_stis-desgrange",
+   "type": "disk_scattered",
+   "facility": "HST",
+   "instrument": "STIS",
+   "wavelength_um": 0.59,
+   "wavelength_label": "HST/STIS optical 0.59 um coronagraphy",
+   "technique": "coronagraphy",
+   "survey": null,
+   "file": "images/hd-120326/hd-120326_stis-desgrange.png",
+   "credit": "Desgrange et al. 2025, Fig. 4 (HST/STIS; crop)",
+   "paper": {
+    "first_author": "Desgrange",
+    "year": 2025,
+    "title": "Dust populations from 30 to 1000 au in the debris disk of HD 120326: Panchromatic view with VLT/SPHERE, ALMA, and HST/STIS",
+    "journal": "A&A (2025)",
+    "arxiv": "2504.15352",
+    "bibcode": null
+   }
+  },
+  {
+   "image_id": "hd-120326_sphere-adi",
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS",
+   "wavelength_um": 1.625,
+   "wavelength_label": "H band 1.6 um total intensity (ADI)",
+   "technique": "ADI",
+   "survey": null,
+   "file": "images/hd-120326/hd-120326_sphere-adi.png",
+   "credit": "Desgrange et al. 2025, Fig. 2 (SPHERE ADI; crop)",
+   "paper": {
+    "first_author": "Desgrange",
+    "year": 2025,
+    "title": "Dust populations from 30 to 1000 au in the debris disk of HD 120326: Panchromatic view with VLT/SPHERE, ALMA, and HST/STIS",
+    "journal": "A&A (2025)",
+    "arxiv": "2504.15352",
+    "bibcode": null
+   }
+  },
+  {
+   "image_id": "hd-120326_sphere-rdi-xie22",
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS",
+   "wavelength_um": 1.65,
+   "wavelength_label": "total intensity (H23, RDI)",
+   "technique": "RDI",
+   "survey": null,
+   "credit": "Xie et al. 2022, Fig. 9 (crop)",
+   "paper": {
+    "first_author": "Xie",
+    "year": 2022,
+    "title": "Reference-star differential imaging on SPHERE/IRDIS",
+    "journal": "A&A 666, A32",
+    "arxiv": "2208.07915",
+    "bibcode": null
+   },
+   "file": "images/hd-120326/hd-120326_sphere-rdi-xie22.png"
+  }
+ ],
+ "notes": "AUTO-CREATED from staging - fill metadata & coords",
+ "last_updated": "2026-07-06",
+ "plx_mas": 8.8287,
+ "mags": {
+  "B": 8.75,
+  "V": 8.39,
+  "G": 8.320433,
+  "J": 7.708,
+  "H": 7.568,
+  "K": 7.516
+ }
+}

@@ -1,0 +1,58 @@
+{
+ "id": "hip-64892",
+ "name": "HIP 64892",
+ "alt_names": [],
+ "simbad": "HIP 64892",
+ "ra_deg": 199.5212677531,
+ "dec_deg": -44.0553833384,
+ "dist_pc": 125.0,
+ "plx_mas": 8.3595,
+ "sptype": "B9.5V",
+ "region": "Lower Centaurus Crux (Sco-Cen)",
+ "categories": [],
+ "planets": [
+  {
+   "name": "B",
+   "status": "confirmed",
+   "method": "imaging",
+   "note": "Brown dwarf companion (M9γ±1, ~29-37 MJup) at 1.2705±0.0023\" (159±12 AU projected); Teff ~2600 K; extreme mass ratio q~0.01. No resolved disk detected; mid/far-IR photometry used only to bound the mass of any undetected debris disk.",
+   "paper": {
+    "first_author": "Cheetham",
+    "year": 2018,
+    "arxiv": "1803.02725",
+    "bibcode": "2018A&A...615A.160C"
+   }
+  }
+ ],
+ "images": [
+  {
+   "image_id": "hip-64892_sphere2018",
+   "type": "planet",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS",
+   "wavelength_um": 2.11,
+   "wavelength_label": "K1 band (2.11 um), ADI",
+   "technique": "ADI",
+   "survey": "SHINE",
+   "credit": "Cheetham et al. 2018, Fig. 2 (crop)",
+   "paper": {
+    "first_author": "Cheetham",
+    "year": 2018,
+    "title": "Discovery of a brown dwarf companion to the star HIP 64892",
+    "journal": "A&A 615, A160",
+    "arxiv": "1803.02725",
+    "bibcode": "2018A&A...615A.160C"
+   },
+   "file": "images/hip-64892/hip-64892_sphere2018.png"
+  }
+ ],
+ "notes": "B9.5V member of the Lower Centaurus Crux subgroup of Sco-Cen, age ~16 Myr. Companion HIP 64892 B discovered with VLT/SPHERE during the SHINE survey; also recovered in archival 2011 VLT/NACO L' sparse-aperture-masking data. No resolved circumstellar disk is detected; the paper models upper limits on an undetected debris disk (Appendix A) and explores in-situ disk-instability formation for the companion (Appendix B), but categorizes this as a planet/brown-dwarf-only system.",
+ "last_updated": "2026-07-06",
+ "mags": {
+  "V": 6.79,
+  "G": 6.798872,
+  "J": 6.809,
+  "H": 6.879,
+  "K": 6.832
+ }
+}

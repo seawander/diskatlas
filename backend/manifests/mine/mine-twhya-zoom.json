@@ -1,0 +1,37 @@
+{
+ "survey": "mine-twhya-zoom",
+ "survey_name": null,
+ "source_image": "images/_sources/extracted/1603.09352/f1.pdf",
+ "pdf_page": 1,
+ "dpi": 500,
+ "panels": [
+  {
+   "id": "tw-hya",
+   "image_id": "tw-hya_alma2016-zoom",
+   "bbox_frac": [
+    0.6768,
+    0.005,
+    0.8955,
+    0.262
+   ]
+  }
+ ],
+ "image_defaults": {
+  "type": "disk_mm",
+  "facility": "ALMA",
+  "instrument": "Band 7",
+  "wavelength_um": 870,
+  "wavelength_label": "870 um continuum, inner 10 au zoom (1 au gap)",
+  "technique": "interferometry"
+ },
+ "credit": "Andrews et al. 2016, Fig. 1 inset (crop)",
+ "paper": {
+  "first_author": "Andrews",
+  "year": 2016,
+  "title": "Ringed Substructure and a Gap at 1 au in the Nearest Protoplanetary Disk",
+  "journal": "ApJL 820, L40",
+  "arxiv": "1603.09352",
+  "bibcode": "2016ApJ...820L..40A"
+ },
+ "_comment": "Fig.1 top-right inset = 0.2\" (10.8 au) zoom of the inner disk with the 1 au dark annulus"
+}

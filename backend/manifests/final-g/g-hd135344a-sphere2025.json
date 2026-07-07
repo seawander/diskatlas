@@ -1,0 +1,34 @@
+{
+ "survey": "g-hd135344a-sphere2025",
+ "survey_name": null,
+ "source_image": "images/_sources/extracted/2507.06206/fig_sphere.pdf",
+ "panels": [
+  {
+   "id": "hd-135344-a",
+   "image_id": "hd-135344-a_sphere2025",
+   "bbox_frac": [
+    0.172,
+    0.369,
+    0.56,
+    0.641
+   ]
+  }
+ ],
+ "image_defaults": {
+  "type": "planet",
+  "facility": "VLT-SPHERE",
+  "instrument": "IRDIS H2",
+  "wavelength_um": 1.59,
+  "wavelength_label": "H2 band; discovery of HD 135344 Ab (2021 epoch)",
+  "technique": "ADI"
+ },
+ "credit": "Stolker et al. 2025, Fig. 1 (crop; IRDIS H2, 2021-07-16)",
+ "paper": {
+  "first_author": "Stolker",
+  "year": 2025,
+  "title": "Direct imaging discovery of a young giant planet orbiting on Solar System scales",
+  "journal": "A&A (2025)",
+  "arxiv": "2507.06206",
+  "bibcode": null
+ }
+}

@@ -1,0 +1,61 @@
+{
+ "id": "hip-17453",
+ "name": "HIP 17453",
+ "alt_names": [
+  "HD 23387"
+ ],
+ "simbad": "HIP 17453",
+ "ra_deg": 56.1175158194,
+ "dec_deg": 20.92873572803,
+ "dist_pc": 80.5,
+ "plx_mas": 12.3772,
+ "mags": {
+  "V": 6.074,
+  "G": 6.081681,
+  "J": 5.995,
+  "H": 6.053,
+  "K": 6.031
+ },
+ "sptype": "A0Vp_lB",
+ "region": "Isolated",
+ "categories": [],
+ "planets": [
+  {
+   "name": "B",
+   "status": "confirmed",
+   "method": "imaging",
+   "note": "Young brown dwarf companion, ~53 Mjup, L2+-1, separation ~3 arcsec (~240 AU); system age ~280+-125 Myr.",
+   "paper": {
+    "first_author": "Brinjikji",
+    "year": 2026,
+    "arxiv": "2606.30733",
+    "bibcode": null
+   }
+  }
+ ],
+ "images": [
+  {
+   "image_id": "hip-17453_cbass",
+   "type": "planet",
+   "facility": "Keck-NIRC2",
+   "instrument": "NIRC2 Ks",
+   "wavelength_um": 2.15,
+   "wavelength_label": "Ks-band (2.15 um)",
+   "technique": "ADI",
+   "survey": "C-BASS",
+   "file": "images/hip-17453/hip-17453_cbass.png",
+   "credit": "Brinjikji et al. 2026, Fig. 1 (crop)",
+   "hires_url": null,
+   "paper": {
+    "first_author": "Brinjikji",
+    "year": 2026,
+    "title": "The Companions to B and A Stars Snapshot (C-BASS) Survey: I. Discovery of a Young Brown Dwarf Companion to HIP 17453",
+    "journal": null,
+    "arxiv": "2606.30733",
+    "bibcode": null
+   }
+  }
+ ],
+ "notes": "HIP 17453 A is a chemically peculiar A0V star at 80.5 pc (Gaia). HIP 17453 B is a co-moving brown-dwarf companion (~53 Mjup, L2+-1) discovered with Keck/NIRC2 over a ~10-year astrometric baseline as part of the C-BASS survey.",
+ "last_updated": "2026-07-06"
+}

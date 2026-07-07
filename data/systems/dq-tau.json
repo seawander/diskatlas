@@ -1,0 +1,91 @@
+{
+ "id": "dq-tau",
+ "name": "DQ Tau",
+ "alt_names": [],
+ "simbad": "DQ Tau",
+ "ra_deg": 71.72107301084,
+ "dec_deg": 17.00003781314,
+ "dist_pc": 195.4,
+ "sptype": "M1Ve",
+ "region": "Taurus",
+ "categories": [
+  "protoplanetary"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "technique": "interferometry",
+   "instrument": "Band 6",
+   "wavelength_um": 1330,
+   "wavelength_label": "1.33 mm continuum",
+   "image_id": "dq-tau_taurus-long2019",
+   "survey": "Taurus-Long2019",
+   "file": "images/dq-tau/dq-tau_taurus-long2019.png",
+   "credit": "Long et al. 2019, Fig. 3 (crop)",
+   "paper": {
+    "first_author": "Long",
+    "year": 2019,
+    "title": "Compact Disks in a High-resolution ALMA Survey of Dust Structures in the Taurus Molecular Cloud",
+    "journal": "ApJ 882, 49",
+    "arxiv": "1906.10809",
+    "bibcode": "2019ApJ...882...49L"
+   }
+  },
+  {
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS DPI",
+   "wavelength_um": 1.65,
+   "wavelength_label": "H band 1.6 um (pol. intensity)",
+   "technique": "PDI",
+   "image_id": "dq-tau_sphere-taurus",
+   "survey": "SPHERE-Taurus",
+   "file": "images/dq-tau/dq-tau_sphere-taurus.png",
+   "credit": "Garufi et al. 2024, Fig. 2 (crop)",
+   "paper": {
+    "first_author": "Garufi",
+    "year": 2024,
+    "title": "The SPHERE view of the Taurus star-forming region: The full census of planet-forming disks with GTO and DESTINYS programs",
+    "journal": "A&A 685, A53",
+    "arxiv": "2403.02158",
+    "bibcode": "2024A&A...685A..53G"
+   }
+  },
+  {
+   "image_id": "dq-tau_alice-f110w",
+   "type": "disk_scattered",
+   "facility": "HST",
+   "instrument": "NICMOS",
+   "wavelength_um": 1.1,
+   "wavelength_label": "F110W 1.1 um (ALICE archival reprocessing, combined coadd)",
+   "technique": "RDI",
+   "survey": "ALICE",
+   "file": "images/dq-tau/dq-tau_alice-f110w.png",
+   "credit": "ALICE HLSP v1 combined coadd (HST program 10177, STScI) — hi-res: ALICE archive (STScI)",
+   "paper": {
+    "first_author": "Hagan",
+    "year": 2018,
+    "title": "ALICE Data Release: A revaluation of HST-NICMOS coronagraphic images",
+    "journal": "AJ 155, 179",
+    "arxiv": "1802.07754",
+    "bibcode": null
+   },
+   "hires_url": "https://archive.stsci.edu/prepds/alice/"
+  }
+ ],
+ "notes": null,
+ "last_updated": "2026-07-07",
+ "plx_mas": 5.1182,
+ "mags": {
+  "U": 14.56,
+  "B": 13.67,
+  "V": 12.0,
+  "G": 12.456193,
+  "R": 13.21,
+  "J": 9.511,
+  "H": 8.544,
+  "K": 7.981
+ }
+}

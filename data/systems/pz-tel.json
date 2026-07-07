@@ -1,0 +1,59 @@
+{
+ "id": "pz-tel",
+ "name": "PZ Tel",
+ "alt_names": [],
+ "simbad": "PZ Tel",
+ "ra_deg": 283.2744729404,
+ "dec_deg": -50.1805270659,
+ "dist_pc": 47.25,
+ "plx_mas": 21.1621,
+ "mags": {
+  "V": 8.342,
+  "G": 8.1017,
+  "J": 6.856,
+  "H": 6.486,
+  "K": 6.366
+ },
+ "sptype": "G9IV",
+ "region": "Beta Pictoris Moving Group",
+ "categories": [],
+ "planets": [
+  {
+   "name": "B",
+   "status": "confirmed",
+   "note": "M7 substellar companion, ~36 Mjup, in the Beta Pictoris Moving Group; discovered as a close companion in NICI J/H/Ks imaging.",
+   "method": "imaging",
+   "paper": {
+    "first_author": "Biller",
+    "year": 2010,
+    "arxiv": "1007.4808",
+    "bibcode": null
+   }
+  }
+ ],
+ "images": [
+  {
+   "image_id": "pz-tel_nici2010",
+   "type": "planet",
+   "facility": "Gemini-NICI",
+   "instrument": "NICI",
+   "wavelength_um": 2.2,
+   "wavelength_label": "Ks band coronagraphic imaging (also J, H; + 2.12 um ADI panel)",
+   "technique": "coronagraphy",
+   "survey": "Gemini NICI Planet-Finding Campaign",
+   "file": "images/pz-tel/pz-tel_nici2010.png",
+   "credit": "Biller et al. 2010, Fig. 1 (crop)",
+   "hires_url": null,
+   "paper": {
+    "first_author": "Biller",
+    "year": 2010,
+    "title": "The Gemini NICI Planet-Finding Campaign: Discovery of a Close Substellar Companion to the Young Debris Disk Star PZ Tel",
+    "journal": "ApJL 720, L82",
+    "arxiv": "1007.4808",
+    "bibcode": null
+   }
+  }
+ ],
+ "notes": null,
+ "last_updated": "2026-07-07"
+}

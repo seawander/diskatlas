@@ -1,0 +1,304 @@
+{
+ "id": "mwc-758",
+ "name": "MWC 758",
+ "alt_names": [
+  "HD 36112"
+ ],
+ "simbad": "MWC 758",
+ "ra_deg": 82.61470234585,
+ "dec_deg": 25.33252119132,
+ "dist_pc": 155.9,
+ "sptype": "A8Ve",
+ "region": "Taurus-Auriga",
+ "categories": [
+  "protoplanetary"
+ ],
+ "planets": [
+  {
+   "name": "c",
+   "status": "candidate",
+   "note": "Wagner+2023 JWST/LBT candidate at ~100 au",
+   "paper": {
+    "first_author": "Wagner",
+    "year": 2023,
+    "arxiv": "2307.04021",
+    "bibcode": null,
+    "_verify": true
+   }
+  }
+ ],
+ "images": [
+  {
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "technique": "interferometry",
+   "instrument": "Band 7",
+   "wavelength_um": 900,
+   "wavelength_label": "0.9 mm continuum",
+   "image_id": "mwc-758_exoalma",
+   "survey": "exoALMA",
+   "file": "images/mwc-758/mwc-758_exoalma.png",
+   "credit": "Curone et al. 2025, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Curone",
+    "year": 2025,
+    "title": "exoALMA IV: Substructures, Asymmetries, and the Faint Outer Disk in Continuum Emission",
+    "journal": "ApJL (exoALMA special issue)",
+    "arxiv": "2504.18725",
+    "bibcode": null
+   }
+  },
+  {
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 7",
+   "wavelength_um": 870,
+   "wavelength_label": "870 um continuum (clumps + cavity)",
+   "technique": "interferometry",
+   "survey": null,
+   "credit": "Dong et al. 2018, Fig. 1a (crop)",
+   "paper": {
+    "first_author": "Dong",
+    "year": 2018,
+    "title": "The Eccentric Cavity, Triple Rings, Two-Armed Spirals, and Double Clumps of the MWC 758 Disk",
+    "journal": "ApJ 860, 124",
+    "arxiv": "1805.12141",
+    "bibcode": null
+   },
+   "image_id": "mwc-758_alma2018",
+   "file": "images/mwc-758/mwc-758_alma2018.png"
+  },
+  {
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS",
+   "wavelength_um": 1.04,
+   "wavelength_label": "Y band 1.04 um (pol. intensity)",
+   "technique": "PDI",
+   "survey": null,
+   "credit": "Benisty et al. 2015, Fig. 1 (crop, Mar. 2015)",
+   "paper": {
+    "first_author": "Benisty",
+    "year": 2015,
+    "title": "Asymmetric features in the protoplanetary disk MWC 758",
+    "journal": "A&A 578, L6",
+    "arxiv": "1505.05325",
+    "bibcode": null
+   },
+   "image_id": "mwc-758_sphere2015",
+   "file": "images/mwc-758/mwc-758_sphere2015.png"
+  },
+  {
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS DPI",
+   "wavelength_um": 2.18,
+   "wavelength_label": "K band 2.2 um (pol. intensity)",
+   "technique": "PDI",
+   "image_id": "mwc-758_sphere-taurus",
+   "survey": "SPHERE-Taurus",
+   "file": "images/mwc-758/mwc-758_sphere-taurus.png",
+   "credit": "Garufi et al. 2024, Fig. 2 (crop)",
+   "paper": {
+    "first_author": "Garufi",
+    "year": 2024,
+    "title": "The SPHERE view of the Taurus star-forming region: The full census of planet-forming disks with GTO and DESTINYS programs",
+    "journal": "A&A 685, A53",
+    "arxiv": "2403.02158",
+    "bibcode": "2024A&A...685A..53G"
+   }
+  },
+  {
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS Ks",
+   "wavelength_um": 2.18,
+   "wavelength_label": "Ks 2.2 um (total intensity, RDI)",
+   "technique": "RDI",
+   "image_id": "mwc-758_sphere-ks-rdi",
+   "survey": "SPHERE-Ks-RDI",
+   "file": "images/mwc-758/mwc-758_sphere-ks-rdi.png",
+   "credit": "Ren et al. 2023, Ks total-intensity gallery (crop)",
+   "paper": {
+    "first_author": "Ren",
+    "year": 2023,
+    "title": "Protoplanetary disks in Ks-band total intensity and polarized light",
+    "journal": "A&A 680, A114",
+    "arxiv": "2310.08589",
+    "bibcode": "2023A&A...680A.114R"
+   }
+  },
+  {
+   "image_id": "mwc-758_seeds",
+   "type": "disk_scattered",
+   "facility": "Subaru-HiCIAO",
+   "instrument": "HiCIAO",
+   "wavelength_um": 1.65,
+   "wavelength_label": "H band (pol. intensity; H PI + K' composite)",
+   "technique": "PDI",
+   "survey": "SEEDS",
+   "file": "images/mwc-758/mwc-758_seeds.png",
+   "credit": "Grady et al. 2013, Fig. 2f (crop: H PI + K' composite)",
+   "paper": {
+    "first_author": "Grady",
+    "year": 2013,
+    "title": "Spiral Arms in the Asymmetrically Illuminated Disk of MWC 758 and Constraints on Giant Planets",
+    "journal": "ApJ 762, 48",
+    "arxiv": "1212.1466",
+    "bibcode": "2013ApJ...762...48G"
+   }
+  },
+  {
+   "image_id": "mwc-758_alice-f110w",
+   "type": "disk_scattered",
+   "facility": "HST",
+   "instrument": "NICMOS",
+   "wavelength_um": 1.1,
+   "wavelength_label": "F110W 1.1 um (ALICE archival reprocessing, combined coadd)",
+   "technique": "RDI",
+   "survey": "ALICE",
+   "file": "images/mwc-758/mwc-758_alice-f110w.png",
+   "credit": "ALICE HLSP v1 combined coadd (HST program 10177, STScI) — hi-res: ALICE archive (STScI)",
+   "paper": {
+    "first_author": "Hagan",
+    "year": 2018,
+    "title": "ALICE Data Release: A revaluation of HST-NICMOS coronagraphic images",
+    "journal": "AJ 155, 179",
+    "arxiv": "1802.07754",
+    "bibcode": null
+   },
+   "hires_url": "https://archive.stsci.edu/prepds/alice/"
+  },
+  {
+   "type": "disk_scattered",
+   "facility": "Keck",
+   "instrument": "NIRC2 vortex",
+   "wavelength_um": 3.8,
+   "wavelength_label": "L' 3.8 um scattered light (ALMA contours overlaid)",
+   "technique": "RDI",
+   "image_id": "mwc-758_keck-vortex-2024",
+   "file": "images/mwc-758/mwc-758_keck-vortex-2024.png",
+   "survey": "Keck-vortex-2024",
+   "credit": "Wallack et al. 2024, Fig. 4 (crop)",
+   "paper": {
+    "first_author": "Wallack",
+    "year": 2024,
+    "title": "A Survey of Protoplanetary Disks Using the Keck/NIRC2 Vortex Coronagraph",
+    "journal": "AJ 168, 78",
+    "arxiv": "2408.04048",
+    "bibcode": "2024AJ....168...78W"
+   }
+  },
+  {
+   "image_id": "mwc-758_jwst2024",
+   "type": "disk_scattered",
+   "facility": "JWST",
+   "instrument": "NIRCam",
+   "wavelength_um": 4,
+   "wavelength_label": "NIRCam (near-IR coronagraphy)",
+   "technique": "coronagraphic direct imaging / high-contrast",
+   "survey": null,
+   "file": "images/mwc-758/mwc-758_jwst2024.png",
+   "credit": "Wagner et al. 2024, Fig. (crop)",
+   "paper": {
+    "first_author": "Wagner",
+    "year": 2024,
+    "title": "JWST/NIRCam Imaging of Young Stellar Objects. I. Constraints on Planets Exterior to The Spiral Disk Around MWC 758",
+    "journal": "The Astronomical Journal",
+    "arxiv": "2401.02830",
+    "bibcode": ""
+   }
+  },
+  {
+   "image_id": "mwc-758_lbti2019",
+   "type": "disk_scattered",
+   "facility": "LBT",
+   "instrument": "LBTI/LMIRCam",
+   "wavelength_um": 3.8,
+   "wavelength_label": "L' (3.8 um) and M' (4.8 um)",
+   "technique": "ADI (KLIP PSF subtraction)",
+   "survey": null,
+   "file": "images/mwc-758/mwc-758_lbti2019.png",
+   "credit": "Wagner et al. 2019, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Wagner",
+    "year": 2019,
+    "title": "Thermal Infrared Imaging of MWC 758 with the Large Binocular Telescope: Planetary Driven Spiral Arms?",
+    "journal": "ApJ",
+    "arxiv": "1907.06655",
+    "bibcode": "2019ApJ...882...20W"
+   }
+  },
+  {
+   "image_id": "mwc-758_lbti2023",
+   "type": "planet",
+   "facility": "LBT",
+   "instrument": "LBTI/LMIRCam",
+   "wavelength_um": 3.7,
+   "wavelength_label": "L' (3.7 um) imaging; plus LBTI/ALES 3-4 um IFS spectrum",
+   "technique": "Thermal-IR high-contrast direct imaging / ADI, plus ALES IFS",
+   "survey": null,
+   "file": "images/mwc-758/mwc-758_lbti2023.png",
+   "credit": "Wagner et al. 2023, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Wagner",
+    "year": 2023,
+    "title": "Direct images and spectroscopy of a giant protoplanet driving spiral arms in MWC 758",
+    "journal": "Nature Astronomy",
+    "arxiv": "2307.04021",
+    "bibcode": "2023NatAs...7.1208W"
+   }
+  },
+  {
+   "image_id": "mwc-758_sphere-ks-qphi",
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS",
+   "wavelength_um": 2.18,
+   "wavelength_label": "Ks band 2.2 um (pol. intensity, Qphi)",
+   "technique": "PDI",
+   "survey": "SPHERE-Ks-RDI",
+   "credit": "Ren et al. 2023, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Ren",
+    "year": 2023,
+    "title": "Protoplanetary disks in $K_s$-band total intensity and polarized light",
+    "journal": "A&A 680, A114",
+    "arxiv": "2310.08589",
+    "bibcode": "2023A&A...680A.114R"
+   },
+   "file": "images/mwc-758/mwc-758_sphere-ks-qphi.png"
+  },
+  {
+   "image_id": "mwc-758_sphere-rdi-xie22",
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS",
+   "wavelength_um": 1.65,
+   "wavelength_label": "total intensity (H23, RDI)",
+   "technique": "RDI",
+   "survey": null,
+   "credit": "Xie et al. 2022, Fig. 9 (crop)",
+   "paper": {
+    "first_author": "Xie",
+    "year": 2022,
+    "title": "Reference-star differential imaging on SPHERE/IRDIS",
+    "journal": "A&A 666, A32",
+    "arxiv": "2208.07915",
+    "bibcode": null
+   },
+   "file": "images/mwc-758/mwc-758_sphere-rdi-xie22.png"
+  }
+ ],
+ "notes": null,
+ "last_updated": "2026-07-07",
+ "plx_mas": 6.4157,
+ "mags": {
+  "B": 8.57,
+  "V": 8.27,
+  "G": 8.220417,
+  "J": 7.221,
+  "H": 6.56,
+  "K": 5.804
+ }
+}

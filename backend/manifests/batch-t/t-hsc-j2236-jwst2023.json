@@ -1,0 +1,27 @@
+{
+ "survey": "t-hsc-j2236-jwst2023",
+ "survey_name": null,
+ "source_image": "images/_sources/extracted/2211.14329/figures/fig2a.pdf",
+ "pdf_page": 1,
+ "panels": [
+  {"id": "hsc-j2236-0032", "image_id": "hsc-j2236-0032_jwst2023",
+   "bbox_frac": [0.5145, 0.1160, 0.6652, 0.7570]}
+ ],
+ "image_defaults": {
+  "type": "quasar",
+  "facility": "JWST",
+  "instrument": "NIRCam F356W",
+  "wavelength_um": 3.56,
+  "wavelength_label": "F356W rest-frame optical; host-galaxy starlight after quasar point-source subtraction (z=6.40)",
+  "technique": "other"
+ },
+ "credit": "Ding et al. 2023, Fig. 2 (host-only panel)",
+ "paper": {
+  "first_author": "Ding",
+  "year": 2023,
+  "title": "Detection of stellar light from quasar host galaxies at redshifts above 6",
+  "journal": "Nature 621, 51",
+  "arxiv": "2211.14329",
+  "bibcode": "2023Natur.621...51D"
+ }
+}

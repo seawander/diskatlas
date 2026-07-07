@@ -1,0 +1,50 @@
+{
+ "id": "hen-3-365",
+ "name": "Hen 3-365",
+ "alt_names": [],
+ "simbad": "Hen 3-365",
+ "ra_deg": 151.12618312721,
+ "dec_deg": -58.66446978468,
+ "dist_pc": 1589.1,
+ "sptype": "B3I[e]",
+ "region": null,
+ "categories": [
+  "protoplanetary"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "type": "disk_scattered",
+   "facility": "Gemini-GPI",
+   "instrument": "IFS pol",
+   "wavelength_um": 1.24,
+   "wavelength_label": "J band 1.24 um (pol. intensity)",
+   "technique": "PDI",
+   "image_id": "hen-3-365_gemini-lights",
+   "survey": "Gemini-LIGHTS",
+   "file": "images/hen-3-365/hen-3-365_gemini-lights.png",
+   "credit": "Rich et al. 2022, irregulars gallery (crop)",
+   "paper": {
+    "first_author": "Rich",
+    "year": 2022,
+    "title": "Gemini-LIGHTS: Herbig Ae/Be and Massive T Tauri Protoplanetary Disks Imaged with Gemini Planet Imager",
+    "journal": "AJ 164, 109",
+    "arxiv": "2206.05815",
+    "bibcode": "2022AJ....164..109R"
+   }
+  }
+ ],
+ "notes": null,
+ "last_updated": "2026-07-06",
+ "plx_mas": 0.6293,
+ "mags": {
+  "U": 8.92,
+  "B": 10.38,
+  "V": 9.5,
+  "G": 8.709893,
+  "R": 9.68,
+  "J": 6.217,
+  "H": 4.76,
+  "K": 3.65
+ }
+}

@@ -1,0 +1,68 @@
+{
+ "id": "wispit-1",
+ "name": "WISPIT 1",
+ "alt_names": [],
+ "simbad": "WISPIT 1",
+ "ra_deg": 117.79868822468,
+ "dec_deg": -50.13774555033,
+ "dist_pc": 229.1,
+ "plx_mas": 4.3652,
+ "mags": {
+  "B": 14.171,
+  "V": 13.146,
+  "G": 12.722928,
+  "R": 12.861,
+  "J": 10.859,
+  "H": 10.301,
+  "K": 10.121
+ },
+ "sptype": null,
+ "region": "Sco-Cen / field (229 pc)",
+ "categories": [],
+ "planets": [
+  {
+   "name": "b",
+   "status": "confirmed",
+   "paper": {
+    "first_author": "van Capelleveen",
+    "year": 2025,
+    "arxiv": "2508.18456",
+    "bibcode": null
+   }
+  },
+  {
+   "name": "c",
+   "status": "confirmed",
+   "paper": {
+    "first_author": "van Capelleveen",
+    "year": 2025,
+    "arxiv": "2508.18456",
+    "bibcode": null
+   }
+  }
+ ],
+ "images": [
+  {
+   "type": "planet",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS",
+   "wavelength_um": 1.65,
+   "wavelength_label": "H band; both wide-orbit planets around the binary, with zoomed insets on b and c",
+   "technique": "ADI",
+   "survey": null,
+   "credit": "van Capelleveen et al. 2025, Fig. 1 (crop: IRDIS H band, unsharp-masked, with zooms on b and c)",
+   "paper": {
+    "first_author": "van Capelleveen",
+    "year": 2025,
+    "title": "WIde Separation Planets In Time (WISPIT): Two directly imaged exoplanets around the Sun-like stellar binary WISPIT 1",
+    "journal": "A&A (2025)",
+    "arxiv": "2508.18456",
+    "bibcode": null
+   },
+   "image_id": "wispit-1_sphere2025",
+   "file": "images/wispit-1/wispit-1_sphere2025.png"
+  }
+ ],
+ "notes": "K4+M5.5 binary, ~16 Myr; two wide-orbit planetary-mass companions.",
+ "last_updated": "2026-07-06"
+}

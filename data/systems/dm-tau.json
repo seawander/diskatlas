@@ -1,0 +1,130 @@
+{
+ "id": "dm-tau",
+ "name": "DM Tau",
+ "alt_names": [],
+ "simbad": "DM Tau",
+ "ra_deg": 68.45305698489,
+ "dec_deg": 18.1694370723,
+ "dist_pc": 144.0,
+ "sptype": "M2Ve",
+ "region": "Taurus",
+ "categories": [
+  "protoplanetary"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "technique": "interferometry",
+   "instrument": "Band 7",
+   "wavelength_um": 900,
+   "wavelength_label": "0.9 mm continuum",
+   "image_id": "dm-tau_exoalma",
+   "survey": "exoALMA",
+   "file": "images/dm-tau/dm-tau_exoalma.png",
+   "credit": "Curone et al. 2025, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Curone",
+    "year": 2025,
+    "title": "exoALMA IV: Substructures, Asymmetries, and the Faint Outer Disk in Continuum Emission",
+    "journal": "ApJL (exoALMA special issue)",
+    "arxiv": "2504.18725",
+    "bibcode": null
+   }
+  },
+  {
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS DPI",
+   "wavelength_um": 1.65,
+   "wavelength_label": "H band 1.6 um (pol. intensity)",
+   "technique": "PDI",
+   "image_id": "dm-tau_sphere-taurus",
+   "survey": "SPHERE-Taurus",
+   "file": "images/dm-tau/dm-tau_sphere-taurus.png",
+   "credit": "Garufi et al. 2024, Fig. 2 (crop)",
+   "paper": {
+    "first_author": "Garufi",
+    "year": 2024,
+    "title": "The SPHERE view of the Taurus star-forming region: The full census of planet-forming disks with GTO and DESTINYS programs",
+    "journal": "A&A 685, A53",
+    "arxiv": "2403.02158",
+    "bibcode": "2024A&A...685A..53G"
+   }
+  },
+  {
+   "image_id": "dm-tau_alice-f160w",
+   "type": "disk_scattered",
+   "facility": "HST",
+   "instrument": "NICMOS",
+   "wavelength_um": 1.6,
+   "wavelength_label": "F160W 1.6 um (ALICE archival reprocessing, combined coadd)",
+   "technique": "RDI",
+   "survey": "ALICE",
+   "file": "images/dm-tau/dm-tau_alice-f160w.png",
+   "credit": "ALICE HLSP v1 combined coadd (HST program 10177, STScI) — hi-res: ALICE archive (STScI)",
+   "paper": {
+    "first_author": "Hagan",
+    "year": 2018,
+    "title": "ALICE Data Release: A revaluation of HST-NICMOS coronagraphic images",
+    "journal": "AJ 155, 179",
+    "arxiv": "1802.07754",
+    "bibcode": null
+   },
+   "hires_url": "https://archive.stsci.edu/prepds/alice/"
+  },
+  {
+   "image_id": "dm-tau_nirc2-sam2016",
+   "type": "planet",
+   "facility": "Keck",
+   "instrument": "Keck/NIRC2 (Sparse Aperture Masking interferometry)",
+   "wavelength_um": 2.2,
+   "wavelength_label": "K band",
+   "technique": "interferometry",
+   "survey": null,
+   "credit": "Willson et al. 2016, Fig. 9 (crop)",
+   "paper": {
+    "first_author": "Willson",
+    "year": 2016,
+    "title": "Search for substellar-mass companions and asymmetries in their parent discs",
+    "journal": "A&A 595, A9",
+    "arxiv": "1608.03629",
+    "bibcode": null
+   },
+   "file": "images/dm-tau/dm-tau_nirc2-sam2016.png"
+  },
+  {
+   "image_id": "dm-tau_sphere-ks-qphi",
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS",
+   "wavelength_um": 2.18,
+   "wavelength_label": "Ks band 2.2 um (pol. intensity, Qphi)",
+   "technique": "PDI",
+   "survey": "SPHERE-Ks-RDI",
+   "credit": "Ren et al. 2023, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Ren",
+    "year": 2023,
+    "title": "Protoplanetary disks in $K_s$-band total intensity and polarized light",
+    "journal": "A&A 680, A114",
+    "arxiv": "2310.08589",
+    "bibcode": "2023A&A...680A.114R"
+   },
+   "file": "images/dm-tau/dm-tau_sphere-ks-qphi.png"
+  }
+ ],
+ "notes": null,
+ "last_updated": "2026-07-07",
+ "plx_mas": 6.9421,
+ "mags": {
+  "U": 14.3,
+  "B": 14.82,
+  "V": 14.0,
+  "G": 13.095755,
+  "J": 10.442,
+  "H": 9.757,
+  "K": 9.522
+ }
+}

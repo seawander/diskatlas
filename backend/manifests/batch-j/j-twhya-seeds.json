@@ -1,0 +1,21 @@
+{
+ "survey": "j-twhya-seeds",
+ "survey_name": null,
+ "source_image": "images/_sources/_views/j-twhya-seeds.png",
+ "pdf_page": null,
+ "panels": [
+  {
+   "id": "tw-hya",
+   "image_id": "tw-hya_seeds",
+   "bbox_frac": [
+    0,
+    0,
+    1,
+    0.805
+   ]
+  }
+ ],
+ "image_defaults": {},
+ "credit": "Akiyama et al. 2015, Fig. 1 (crop)",
+ "paper": null
+}

@@ -1,0 +1,81 @@
+{
+ "id": "cvso-30",
+ "name": "CVSO 30",
+ "alt_names": [
+  "PTFO 8-8695",
+  "2MASS J05250755+0134243"
+ ],
+ "simbad": "CVSO 30",
+ "ra_deg": 81.2814867886546,
+ "dec_deg": 1.5734325117792,
+ "dist_pc": 339.0,
+ "plx_mas": 2.9503,
+ "mags": {
+  "V": 15.100901,
+  "G": 15.100901,
+  "J": 12.232,
+  "H": 11.559,
+  "K": 11.357
+ },
+ "sptype": "M3",
+ "region": "25 Ori / Orion OB 1a",
+ "categories": [],
+ "planets": [
+  {
+   "name": "b",
+   "status": "disputed",
+   "note": "Short-period (0.4484 d) transiting/RV candidate (PTFO 8-8695 b); by ~2020-2021 the fading-event phase had drifted far from precession-model predictions and TESS photometry was better explained by starspot modulation than by transits, casting strong doubt on the planetary interpretation.",
+   "paper": {
+    "first_author": "van Eyken",
+    "year": 2012,
+    "arxiv": "1206.1510",
+    "bibcode": null
+   }
+  },
+  {
+   "name": "c",
+   "status": "refuted",
+   "note": "Wide-separation (1.85\"/662 au) direct-imaging candidate reported by Schmidt et al. 2016; Lee & Chiang (2017) showed its optical/IR colors and brightness are inconsistent with a substellar object and are instead consistent with a background K-type giant or M subdwarf contaminant.",
+   "paper": {
+    "first_author": "Schmidt",
+    "year": 2016,
+    "arxiv": "1605.05315",
+    "bibcode": "2016A&A...593A..75S"
+   },
+   "extra_papers": [
+    {
+     "first_author": "Lee",
+     "year": 2017,
+     "title": "Evidence that the Planetary Candidate CVSO30c is a Background Star from Optical, Seeing-limited Data",
+     "journal": "ApJL 850, L30",
+     "arxiv": "1712.08727",
+     "bibcode": null
+    }
+   ]
+  }
+ ],
+ "images": [
+  {
+   "image_id": "cvso-30_naco2016",
+   "type": "planet",
+   "facility": "VLT-NACO",
+   "instrument": "NACO",
+   "wavelength_um": 1.85,
+   "wavelength_label": "JHK band (Dec 2012 epoch); candidate c at 1.85\" separation",
+   "technique": "ADI",
+   "survey": null,
+   "credit": "Schmidt et al. 2016, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Schmidt",
+    "year": 2016,
+    "title": "Direct Imaging discovery of a second planet candidate around the possibly transiting planet host CVSO 30",
+    "journal": "A&A 593, A75",
+    "arxiv": "1605.05315",
+    "bibcode": "2016A&A...593A..75S"
+   },
+   "file": "images/cvso-30/cvso-30_naco2016.png"
+  }
+ ],
+ "notes": "Both reported companions are now considered dubious/refuted: c is most likely a background star (Lee & Chiang 2017), and b's transit signal is likely stellar starspot activity rather than a planet (Koen 2020, MNRAS 494, 4349; Koen 2021, A&A 647, L1 -- no arXiv preprints available for these two).",
+ "last_updated": "2026-07-06"
+}

@@ -1,0 +1,354 @@
+{
+ "id": "hd-100546",
+ "name": "HD 100546",
+ "alt_names": [],
+ "simbad": "HD 100546",
+ "ra_deg": 173.35600369679,
+ "dec_deg": -70.19478924943,
+ "dist_pc": 108.1,
+ "sptype": "A0VaekB8_lB",
+ "region": "Sco-Cen outskirts",
+ "categories": [
+  "protoplanetary"
+ ],
+ "planets": [
+  {
+   "name": "b",
+   "status": "disputed",
+   "note": "Quanz+2013 candidate; nature debated",
+   "paper": {
+    "first_author": "Quanz",
+    "year": 2013,
+    "arxiv": "1302.7122",
+    "bibcode": "2013ApJ...766L...1Q"
+   }
+  },
+  {
+   "name": "c",
+   "status": "disputed",
+   "note": "inner candidate; unconfirmed",
+   "paper": {
+    "first_author": "Currie",
+    "year": 2015,
+    "arxiv": "1511.02526",
+    "bibcode": "2015ApJ...814L..27C"
+   }
+  }
+ ],
+ "images": [
+  {
+   "type": "disk_scattered",
+   "facility": "Gemini-GPI",
+   "instrument": "IFS pol",
+   "wavelength_um": 1.24,
+   "wavelength_label": "J band 1.24 um (pol. intensity)",
+   "technique": "PDI",
+   "image_id": "hd-100546_gemini-lights",
+   "survey": "Gemini-LIGHTS",
+   "file": "images/hd-100546/hd-100546_gemini-lights.png",
+   "credit": "Rich et al. 2022, continuous gallery (crop)",
+   "paper": {
+    "first_author": "Rich",
+    "year": 2022,
+    "title": "Gemini-LIGHTS: Herbig Ae/Be and Massive T Tauri Protoplanetary Disks Imaged with Gemini Planet Imager",
+    "journal": "AJ 164, 109",
+    "arxiv": "2206.05815",
+    "bibcode": "2022AJ....164..109R"
+   }
+  },
+  {
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 7",
+   "wavelength_um": 870,
+   "wavelength_label": "870 um continuum (black contours) over the CO J=3-2 velocity map",
+   "technique": "interferometry",
+   "survey": null,
+   "credit": "Walsh et al. 2014, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Walsh",
+    "year": 2014,
+    "title": "ALMA Hints at the Presence of Two Companions in the Disk around HD 100546",
+    "journal": "ApJL 791, L6",
+    "arxiv": "1405.6542",
+    "bibcode": "2014ApJ...791L...6W"
+   },
+   "image_id": "hd-100546_alma2014",
+   "file": "images/hd-100546/hd-100546_alma2014.png"
+  },
+  {
+   "type": "disk_scattered",
+   "facility": "HST",
+   "instrument": "ACS/HRC",
+   "wavelength_um": 0.6,
+   "wavelength_label": "F606W log-stretch coronagraphy; disk + envelope with spiral arms",
+   "technique": "coronagraphy",
+   "survey": null,
+   "credit": "Ardila et al. 2007, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Ardila",
+    "year": 2007,
+    "title": "Hubble Space Telescope Advanced Camera for Surveys Coronagraphic Observations of the Dust Surrounding HD 100546",
+    "journal": "ApJ 665, 512",
+    "arxiv": null,
+    "bibcode": "2007ApJ...665..512A"
+   },
+   "image_id": "hd-100546_acs2007",
+   "file": "images/hd-100546/hd-100546_acs2007.png"
+  },
+  {
+   "type": "disk_scattered",
+   "facility": "Gemini-GPI",
+   "instrument": "IFS pol",
+   "wavelength_um": 1.65,
+   "wavelength_label": "H band 1.6 um (pol. intensity)",
+   "technique": "PDI",
+   "image_id": "hd-100546_gpies",
+   "survey": "GPIES",
+   "file": "images/hd-100546/hd-100546_gpies.png",
+   "credit": "Esposito et al. 2020, Fig. 9 (crop)",
+   "paper": {
+    "first_author": "Esposito",
+    "year": 2020,
+    "title": "Debris Disk Results from the Gemini Planet Imager Exoplanet Survey's Polarimetric Imaging Campaign",
+    "journal": "AJ 160, 24",
+    "arxiv": "2004.13722",
+    "bibcode": "2020AJ....160...24E"
+   }
+  },
+  {
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS Ks",
+   "wavelength_um": 2.18,
+   "wavelength_label": "Ks 2.2 um (total intensity, RDI)",
+   "technique": "RDI",
+   "image_id": "hd-100546_sphere-ks-rdi",
+   "survey": "SPHERE-Ks-RDI",
+   "file": "images/hd-100546/hd-100546_sphere-ks-rdi.png",
+   "credit": "Ren et al. 2023, Ks total-intensity gallery (crop)",
+   "paper": {
+    "first_author": "Ren",
+    "year": 2023,
+    "title": "Protoplanetary disks in Ks-band total intensity and polarized light",
+    "journal": "A&A 680, A114",
+    "arxiv": "2310.08589",
+    "bibcode": "2023A&A...680A.114R"
+   }
+  },
+  {
+   "type": "disk_scattered",
+   "facility": "HST",
+   "instrument": "NICMOS2",
+   "wavelength_um": 1.6,
+   "wavelength_label": "1.6 um coronagraphy; disk from ~50 to ~380 au",
+   "technique": "coronagraphy",
+   "survey": null,
+   "credit": "Augereau et al. 2001, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Augereau",
+    "year": 2001,
+    "title": "HST/NICMOS2 coronagraphic observations of the circumstellar environment of three old PMS stars: HD 100546, SAO 206462 and MWC 480",
+    "journal": "A&A 365, 78",
+    "arxiv": "astro-ph/0009496",
+    "bibcode": "2001A&A...365...78A"
+   },
+   "image_id": "hd-100546_nicmos2001",
+   "file": "images/hd-100546/hd-100546_nicmos2001.png"
+  },
+  {
+   "type": "disk_scattered",
+   "facility": "VLT-NACO",
+   "instrument": "NACO pol",
+   "wavelength_um": 2.18,
+   "wavelength_label": "Ks band (PIPPIN PDI reprocessing)",
+   "technique": "PDI",
+   "image_id": "hd-100546_naco-pippin",
+   "file": "images/hd-100546/hd-100546_naco-pippin.png",
+   "survey": "NACO-PIPPIN",
+   "credit": "de Regt et al. 2024, Fig. 6 (crop)",
+   "paper": {
+    "first_author": "de Regt",
+    "year": 2024,
+    "title": "Polarimetric differential imaging with VLT/NACO. A comprehensive PDI pipeline for NACO data (PIPPIN)",
+    "journal": "A&A 684, A73",
+    "arxiv": "2404.02222",
+    "bibcode": "2024A&A...684A..73D"
+   }
+  },
+  {
+   "image_id": "hd-100546_alice-f110w",
+   "type": "disk_scattered",
+   "facility": "HST",
+   "instrument": "NICMOS",
+   "wavelength_um": 1.1,
+   "wavelength_label": "F110W 1.1 um (ALICE archival reprocessing, combined coadd)",
+   "technique": "RDI",
+   "survey": "ALICE",
+   "file": "images/hd-100546/hd-100546_alice-f110w.png",
+   "credit": "ALICE HLSP v1 combined coadd (HST program 11155, STScI) — hi-res: ALICE archive (STScI)",
+   "paper": {
+    "first_author": "Hagan",
+    "year": 2018,
+    "title": "ALICE Data Release: A revaluation of HST-NICMOS coronagraphic images",
+    "journal": "AJ 155, 179",
+    "arxiv": "1802.07754",
+    "bibcode": null
+   },
+   "hires_url": "https://archive.stsci.edu/prepds/alice/"
+  },
+  {
+   "image_id": "hd-100546_alma2020",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 6",
+   "wavelength_um": 1300,
+   "wavelength_label": "1.3 mm (Band 6)",
+   "technique": "ALMA long-baseline interferometric continuum",
+   "survey": null,
+   "file": "images/hd-100546/hd-100546_alma2020.png",
+   "credit": "Perez et al. 2020, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Perez",
+    "year": 2020,
+    "title": "Long Baseline Observations of the HD100546 Protoplanetary Disk with ALMA",
+    "journal": "ApJL 889, L24",
+    "arxiv": "1906.06305",
+    "bibcode": "2020ApJ...889L..24P"
+   }
+  },
+  {
+   "image_id": "hd-100546_sphere-ks-qphi",
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS",
+   "wavelength_um": 2.18,
+   "wavelength_label": "Ks band 2.2 um (pol. intensity, Qphi)",
+   "technique": "PDI",
+   "survey": "SPHERE-Ks-RDI",
+   "credit": "Ren et al. 2023, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Ren",
+    "year": 2023,
+    "title": "Protoplanetary disks in $K_s$-band total intensity and polarized light",
+    "journal": "A&A 680, A114",
+    "arxiv": "2310.08589",
+    "bibcode": "2023A&A...680A.114R"
+   },
+   "file": "images/hd-100546/hd-100546_sphere-ks-qphi.png"
+  },
+  {
+   "image_id": "hd-100546_sphere-rdi-xie22",
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS",
+   "wavelength_um": 1.65,
+   "wavelength_label": "total intensity (H23, RDI)",
+   "technique": "RDI",
+   "survey": null,
+   "credit": "Xie et al. 2022, Fig. 9 (crop)",
+   "paper": {
+    "first_author": "Xie",
+    "year": 2022,
+    "title": "Reference-star differential imaging on SPHERE/IRDIS",
+    "journal": "A&A 666, A32",
+    "arxiv": "2208.07915",
+    "bibcode": null
+   },
+   "file": "images/hd-100546/hd-100546_sphere-rdi-xie22.png"
+  },
+  {
+   "image_id": "hd-100546_mirac2003",
+   "type": "disk_mm",
+   "facility": "Magellan I (Baade) 6.5m",
+   "instrument": "MIRAC/BLINC direct mid-IR imaging + nulling",
+   "wavelength_um": 24.5,
+   "wavelength_label": "10-25 micron thermal IR",
+   "technique": "other",
+   "survey": null,
+   "credit": "Liu et al. 2003, Fig. 2 (crop)",
+   "paper": {
+    "first_author": "Liu, W. M.",
+    "year": 2003,
+    "title": "A Resolved Circumstellar Disk around the Herbig Ae Star HD 100546 in the Thermal Infrared",
+    "journal": "The Astrophysical Journal Letters",
+    "arxiv": "astro-ph/0310564",
+    "bibcode": null
+   },
+   "file": "images/hd-100546/hd-100546_mirac2003.png"
+  },
+  {
+   "image_id": "hd-100546_atca2015",
+   "type": "disk_mm",
+   "facility": "ATCA",
+   "instrument": "43/45 GHz",
+   "wavelength_um": 7000,
+   "wavelength_label": "7 mm continuum (44 GHz reconstructed image)",
+   "technique": "interferometry",
+   "survey": null,
+   "credit": "Wright et al. 2015, Fig. 4 (crop)",
+   "paper": {
+    "first_author": "Wright",
+    "year": 2015,
+    "title": "Resolving structure of the disk around HD100546 at 7 mm with ATCA",
+    "journal": "MNRAS 453, 414",
+    "arxiv": "1506.01147",
+    "bibcode": "2015MNRAS.453..414W"
+   },
+   "file": "images/hd-100546/hd-100546_atca2015.png"
+  },
+  {
+   "image_id": "hd-100546_visir2021",
+   "type": "disk_mm",
+   "facility": "VLT",
+   "instrument": "VISIR",
+   "wavelength_um": 8.7,
+   "wavelength_label": "J8.9 filter, lambda0=8.70 um mid-IR (VISIR, more extended than NEAR due to PSF elongation)",
+   "technique": "other",
+   "survey": null,
+   "credit": "Petit dit de la Roche et al. 2021, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Petit dit de la Roche",
+    "year": 2021,
+    "title": "New mid-infrared imaging constraints on companions and protoplanetary disks around six young stars",
+    "journal": "A&A",
+    "arxiv": "2102.12506",
+    "bibcode": null
+   },
+   "file": "images/hd-100546/hd-100546_visir2021.png",
+   "note": "HD 100546 is 'clearly resolved in all bands' per the paper -- the most robustly resolved disk of the six targets."
+  },
+  {
+   "image_id": "hd-100546_eris2025",
+   "type": "disk_scattered",
+   "facility": "VLT",
+   "instrument": "ERIS/vAPP",
+   "wavelength_um": 4.0,
+   "wavelength_label": "4 um (M-band, mid-IR scattered light, RDI)",
+   "technique": "RDI",
+   "survey": null,
+   "credit": "Maio et al. 2025, Fig. 4 (crop)",
+   "paper": {
+    "first_author": "Maio",
+    "year": 2025,
+    "title": "Protoplanetary disk insights from the first ERIS/APP survey at 4 μm",
+    "journal": "Astronomy & Astrophysics",
+    "arxiv": "2504.19810",
+    "bibcode": null
+   },
+   "file": "images/hd-100546/hd-100546_eris2025.png"
+  }
+ ],
+ "notes": null,
+ "last_updated": "2026-07-07",
+ "plx_mas": 9.2494,
+ "mags": {
+  "B": 6.71,
+  "V": 6.3,
+  "G": 6.685849,
+  "I": 6.64,
+  "J": 6.425,
+  "H": 5.96,
+  "K": 5.418
+ }
+}

@@ -1,0 +1,34 @@
+{
+ "survey": "p2-hd129590",
+ "survey_name": null,
+ "source_image": "images/_sources/extracted/2005.05841/continuumlast.pdf",
+ "panels": [
+  {
+   "id": "hd-129590",
+   "image_id": "hd-129590_alma2020",
+   "bbox_frac": [
+    0.0586,
+    0.4008,
+    0.3927,
+    0.5777
+   ]
+  }
+ ],
+ "image_defaults": {
+  "type": "disk_mm",
+  "facility": "ALMA",
+  "technique": "interferometry",
+  "instrument": "Band 6",
+  "wavelength_um": 1300,
+  "wavelength_label": "1.3 mm continuum"
+ },
+ "credit": "Kral et al. 2020, Fig. 1 (crop)",
+ "paper": {
+  "first_author": "Kral",
+  "year": 2020,
+  "title": "Survey of planetesimal belts with ALMA: gas detected around the Sun-like star HD 129590",
+  "journal": "MNRAS 497, 2811",
+  "arxiv": "2005.05841",
+  "bibcode": "2020MNRAS.497.2811K"
+ }
+}

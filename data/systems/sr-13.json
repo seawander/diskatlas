@@ -1,0 +1,50 @@
+{
+ "id": "sr-13",
+ "name": "SR 13",
+ "alt_names": [
+  "EM* SR 13"
+ ],
+ "simbad": "EM* SR 13",
+ "ra_deg": 247.18865340347,
+ "dec_deg": -24.47191821642,
+ "dist_pc": 115.5,
+ "plx_mas": 8.6603,
+ "mags": {
+  "V": 13.6,
+  "G": 12.200583,
+  "J": 9.21,
+  "H": 8.412,
+  "K": 7.997
+ },
+ "sptype": "M2e",
+ "region": "Ophiuchus",
+ "categories": [
+  "protoplanetary"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "image_id": "sr-13_nircensus",
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS",
+   "wavelength_um": 1.65,
+   "wavelength_label": "H band polarized light",
+   "technique": "PDI",
+   "survey": "SPHERE-NIR-census",
+   "file": "images/sr-13/sr-13_nircensus.png",
+   "credit": "Garufi et al. 2026, Fig. A.1 (crop)",
+   "hires_url": null,
+   "paper": {
+    "first_author": "Garufi",
+    "year": 2026,
+    "title": "Planet-forming disks and their environment across regions and time from the full NIR census",
+    "journal": "A&A, in press",
+    "arxiv": "2603.01703",
+    "bibcode": null
+   }
+  }
+ ],
+ "notes": "First-published SPHERE/IRDIS H-band polarimetric image (SPHERE GTO, program 1100.C-0481, PI Beuzit). Reveals a stellar companion at 0.24 arcsec (28 au) and a faint, compact polarimetric emission centered on the primary star, plus an extended feature beyond the companion's projected separation (Garufi et al. 2026).",
+ "last_updated": "2026-07-06"
+}

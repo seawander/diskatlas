@@ -1,0 +1,44 @@
+{
+ "id": "hsc-j2255-0251",
+ "name": "HSC J2255+0251",
+ "alt_names": [
+  "SHELLQs J225538.04+025126.6"
+ ],
+ "simbad": "[MOK2016b] HSC J225538.04+025126.6",
+ "ra_deg": 343.9085,
+ "dec_deg": 2.857389,
+ "dist_pc": null,
+ "plx_mas": null,
+ "mags": null,
+ "sptype": "QSO (z=6.34)",
+ "region": "extragalactic",
+ "categories": [
+  "quasar"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "image_id": "hsc-j2255-0251_jwst2023",
+   "type": "quasar",
+   "facility": "JWST",
+   "instrument": "NIRCam F356W",
+   "wavelength_um": 3.56,
+   "wavelength_label": "F356W rest-frame optical; host-galaxy starlight after quasar point-source subtraction (z=6.34)",
+   "technique": "other",
+   "survey": null,
+   "file": "images/hsc-j2255-0251/hsc-j2255-0251_jwst2023.png",
+   "credit": "Ding et al. 2023, Fig. 2 (host-only panel)",
+   "paper": {
+    "first_author": "Ding",
+    "year": 2023,
+    "title": "Detection of stellar light from quasar host galaxies at redshifts above 6",
+    "journal": "Nature 621, 51",
+    "arxiv": "2211.14329",
+    "bibcode": "2023Natur.621...51D"
+   }
+  }
+ ],
+ "notes": "SHELLQs quasar; one of the first two z>6 quasar hosts with detected starlight (JWST/NIRCam 2D decomposition; host stellar mass ~3.4e10 Msun). Added by batch S (quasar expansion from Ren et al. 2024 intro citations). Coordinates derived from the HSC IAU designation J225538.04+025126.6; SIMBAD refinement pending via coords_todo_batchS. Batch T verified against Ding+2023 Extended Data Table 1: RA 22:55:38.04 Dec +02:51:26.60 and z=6.34 match exactly (NIRSpec [OIII] systemic z=6.333+-0.001); host detected in F356W only (F150W upper limit m_F150W>26.3).",
+ "last_updated": "2026-07-07",
+ "redshift": 6.34
+}

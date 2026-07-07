@@ -1,0 +1,91 @@
+{
+ "id": "2mass-j16120668-3010270",
+ "name": "2MASS J16120668-3010270",
+ "alt_names": [
+  "UCAC4 300-090317"
+ ],
+ "simbad": "2MASS J16120668-3010270",
+ "ra_deg": 243.02783298988,
+ "dec_deg": -30.17418831242,
+ "dist_pc": 131.9,
+ "plx_mas": 7.5682,
+ "mags": {
+  "B": 14.676,
+  "V": 13.309,
+  "G": 12.563,
+  "J": 10.35,
+  "H": 9.599,
+  "K": 9.317
+ },
+ "sptype": "M0.5e",
+ "region": "Upper Sco",
+ "categories": [
+  "protoplanetary"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "image_id": "2mass-j16120668-3010270_agepro",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 6",
+   "wavelength_um": 1300,
+   "wavelength_label": "1.3 mm continuum",
+   "technique": "interferometry",
+   "survey": "AGE-PRO",
+   "file": "images/2mass-j16120668-3010270/2mass-j16120668-3010270_agepro.png",
+   "credit": "Zhang et al. 2025, Fig. 3 (crop)",
+   "paper": {
+    "first_author": "Zhang",
+    "year": 2025,
+    "title": "The ALMA Survey of Gas Evolution of PROtoplanetary Disks (AGE-PRO): I. Program Overview and Summary of First Results",
+    "journal": "ApJ (2025)",
+    "arxiv": "2506.10719",
+    "bibcode": null
+   }
+  },
+  {
+   "image_id": "2mass-j16120668-3010270_destinys",
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS",
+   "wavelength_um": 1.65,
+   "wavelength_label": "H band 1.6 um (Q-phi pol. intensity)",
+   "technique": "PDI",
+   "survey": "DESTINYS",
+   "file": "images/2mass-j16120668-3010270/2mass-j16120668-3010270_destinys.png",
+   "credit": "Ginski et al. 2025, Fig. 2 (crop)",
+   "paper": {
+    "first_author": "Ginski",
+    "year": 2025,
+    "title": "Disk Evolution Study Through Imaging of Nearby Young Stars (DESTINYS): Evidence of planet-disk interaction in the 2MASSJ16120668-3010270 system",
+    "journal": "A&A (2025)",
+    "arxiv": "2506.05892",
+    "bibcode": null
+   }
+  },
+  {
+   "image_id": "2mass-j16120668-3010270_magaox2025",
+   "type": "planet",
+   "facility": "Magellan-MagAO-X",
+   "instrument": "MagAO-X (Halpha, SDI/ASDI)",
+   "wavelength_um": 0.656,
+   "wavelength_label": "H-alpha (0.656 um); protoplanet candidate detection",
+   "technique": "ADI",
+   "survey": null,
+   "credit": "Li et al. 2025, Fig. 1 (Apr 16 2025 Halpha panel, crop)",
+   "paper": {
+    "first_author": "Li",
+    "year": 2025,
+    "title": "Discovery of H-alpha Emission from a Protoplanet Candidate Around the Young Star 2MASS J16120668-3010270 with MagAO-X",
+    "journal": "AJ (submitted)",
+    "arxiv": "2508.11155",
+    "bibcode": null
+   },
+   "file": "images/2mass-j16120668-3010270/2mass-j16120668-3010270_magaox2025.png",
+   "note": "Candidate status: Halpha protoplanet CANDIDATE at ~0.14 arcsec (SNR 5.3 on Apr 13, 3.7 on Apr 16), coincident in position angle/separation with the ALMA circumplanetary-disk-like feature reported by Sierra et al. 2024. Not yet confirmed. Recorded as type 'planet'; no planets[] entry added to the system JSON by this crop agent (per brief, crop agents do not edit system files) -- recommend the merge step add a 'candidate' planets[] entry citing this paper if desired."
+  }
+ ],
+ "notes": "AGE-PRO Upper Scorpius 1. Transition disk with large inner dust cavity and ring at 78 au; ALMA residuals show a spiral arm and a tentative protoplanet candidate inside the cavity (Sierra et al. 2024; Vioque et al. 2025). SPHERE H-band imaging shows spirals, gap, and outer ring interpreted as evidence of planet-disk interaction (Ginski et al. 2025).",
+ "last_updated": "2026-07-06"
+}

@@ -1,0 +1,62 @@
+{
+ "id": "hip-109427",
+ "name": "HIP 109427",
+ "alt_names": [
+  "Theta Pegasi",
+  "theta Peg"
+ ],
+ "simbad": "HIP 109427",
+ "ra_deg": 332.5499525505,
+ "dec_deg": 6.1979215882,
+ "dist_pc": 28.3,
+ "plx_mas": 36.7678,
+ "mags": {
+  "V": 3.55,
+  "G": 3.516526,
+  "J": 3.38,
+  "H": 3.38,
+  "K": 3.33
+ },
+ "sptype": "A1Va",
+ "region": "Isolated",
+ "categories": [],
+ "planets": [
+  {
+   "name": "B",
+   "status": "confirmed",
+   "method": "imaging",
+   "note": "Low-mass stellar companion (M4-M5.5, Teff ~3000-3200 K) at ~0.2\" (~6 au) projected separation; semimajor axis 6.55(+3.0/-0.48) au, dynamical mass 0.280(+0.18/-0.059) Msun. Discovered via Stochastic Speckle Discrimination with SCExAO/MEC and confirmed with CHARIS spectroscopy and Keck/NIRC2 Lp photometry.",
+   "paper": {
+    "first_author": "Steiger",
+    "year": 2021,
+    "arxiv": "2103.06898",
+    "bibcode": null
+   }
+  }
+ ],
+ "images": [
+  {
+   "image_id": "hip-109427_scexao2021",
+   "type": "planet",
+   "facility": "Subaru-SCExAO",
+   "instrument": "CHARIS IFS (RDI/KLIP)",
+   "wavelength_um": 1.75,
+   "wavelength_label": "JHK broadband (1.1-2.4 um)",
+   "technique": "RDI",
+   "survey": null,
+   "credit": "Steiger et al. 2021, Fig. 2 (crop)",
+   "hires_url": null,
+   "paper": {
+    "first_author": "Steiger",
+    "year": 2021,
+    "title": "SCExAO/MEC and CHARIS Discovery of a Low Mass, 6 AU-Separation Companion to HIP 109427 using Stochastic Speckle Discrimination and High-Contrast Spectroscopy",
+    "journal": "AJ",
+    "arxiv": "2103.06898",
+    "bibcode": null
+   },
+   "file": "images/hip-109427/hip-109427_scexao2021.png"
+  }
+ ],
+ "notes": "HIP 109427 (theta Peg) is a nearby A1V lambda Boo star. Companion B was first detected with SCExAO/MEC using Stochastic Speckle Discrimination (SSD; Fig. 1 of the paper) and subsequently confirmed/characterized with SCExAO/CHARIS spectroscopy and Keck/NIRC2 Lp photometry (Fig. 2, used here). Tagged with method imaging per atlas convention; companion is low-mass stellar (M dwarf), not planetary, per the paper's own mass estimate.",
+ "last_updated": "2026-07-06"
+}

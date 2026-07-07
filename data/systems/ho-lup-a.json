@@ -1,0 +1,46 @@
+{
+ "id": "ho-lup-a",
+ "name": "HO Lup A",
+ "alt_names": [
+  "V* HO Lup A"
+ ],
+ "simbad": "V* HO Lup A",
+ "ra_deg": 241.75249917545,
+ "dec_deg": -39.03875422207,
+ "dist_pc": 157.6,
+ "plx_mas": 6.3435,
+ "mags": {
+  "G": 12.556219
+ },
+ "sptype": "M0",
+ "region": "Lupus",
+ "categories": [
+  "protoplanetary"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "image_id": "ho-lup-a_nircensus",
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS",
+   "wavelength_um": 1.65,
+   "wavelength_label": "H band polarized light",
+   "technique": "PDI",
+   "survey": "SPHERE-NIR-census",
+   "file": "images/ho-lup-a/ho-lup-a_nircensus.png",
+   "credit": "Garufi et al. 2026, Fig. A.1 (crop)",
+   "hires_url": null,
+   "paper": {
+    "first_author": "Garufi",
+    "year": 2026,
+    "title": "Planet-forming disks and their environment across regions and time from the full NIR census",
+    "journal": "A&A, in press",
+    "arxiv": "2603.01703",
+    "bibcode": null
+   }
+  }
+ ],
+ "notes": "SPHERE/IRDIS H-band polarimetric image (DESTINYS survey). Only a marginal polarimetric detection at P.A. of 45 deg (classified as a 'faint disk' in the paper's Table A.4, not 'ambient'); a bright companion is visible at 1.54 arcsec outside the field of view shown (Garufi et al. 2026).",
+ "last_updated": "2026-07-06"
+}

@@ -1,0 +1,33 @@
+{
+  "survey": "sphere-chami",
+  "survey_name": "SPHERE-ChamI",
+  "source_image": "images/_sources/extracted/2403.02149/figures/ChaI-gallery.pdf",
+  "pdf_page": 1,
+  "dpi": 200,
+  "panels": [
+    { "id": "sz-45",    "image_id": "sz-45_sphere-chami",    "bbox_frac": [0.1344, 0.0042, 0.2390, 0.1498] },
+    { "id": "cv-cha",   "image_id": "cv-cha_sphere-chami",   "bbox_frac": [0.2442, 0.0042, 0.3488, 0.1509] },
+    { "id": "vz-cha",   "image_id": "vz-cha_sphere-chami",   "bbox_frac": [0.3562, 0.0042, 0.4600, 0.1509] },
+    { "id": "ct-cha",   "image_id": "ct-cha_sphere-chami",   "bbox_frac": [0.4675, 0.0042, 0.5721, 0.1509] },
+    { "id": "cr-cha",   "image_id": "cr-cha_sphere-chami",   "bbox_frac": [0.5803, 0.0042, 0.6848, 0.1509] },
+    { "id": "sy-cha",   "image_id": "sy-cha_sphere-chami",   "bbox_frac": [0.6908, 0.0042, 0.7954, 0.1498] },
+    { "id": "chx-22",   "image_id": "chx-22_sphere-chami",   "bbox_frac": [0.0067, 0.1561, 0.2405, 0.4964] },
+    { "id": "ww-cha",   "image_id": "ww-cha_sphere-chami",   "bbox_frac": [0.6901, 0.1561, 0.9933, 0.4974] },
+    { "id": "hd-97048", "image_id": "hd-97048_sphere-chami", "bbox_frac": [0.0060, 0.5026, 0.2397, 0.8439] },
+    { "id": "hp-cha",   "image_id": "hp-cha_sphere-chami",   "bbox_frac": [0.6901, 0.5026, 0.9925, 0.8429] },
+    { "id": "cs-cha",   "image_id": "cs-cha_sphere-chami",   "bbox_frac": [0.2442, 0.8481, 0.4548, 0.9938] },
+    { "id": "tw-cha",   "image_id": "tw-cha_sphere-chami",   "bbox_frac": [0.4600, 0.8481, 0.5646, 0.9938] },
+    { "id": "sz-cha",   "image_id": "sz-cha_sphere-chami",   "bbox_frac": [0.5713, 0.8481, 0.6871, 0.9938] }
+  ],
+  "image_defaults": {
+    "type": "disk_scattered", "facility": "VLT-SPHERE", "instrument": "IRDIS DPI",
+    "wavelength_um": 1.65, "wavelength_label": "H band 1.6 um (Qphi pol. intensity)",
+    "technique": "PDI"
+  },
+  "credit": "Ginski et al. 2024, Fig. 2 (crop)",
+  "paper": {
+    "first_author": "Ginski", "year": 2024,
+    "title": "The SPHERE view of the Chamaeleon I star-forming region: The full census of planet-forming disks with GTO and DESTINYS programs",
+    "journal": "A&A 685, A52", "arxiv": "2403.02149", "bibcode": "2024A&A...685A..52G"
+  }
+}

@@ -1,0 +1,169 @@
+{
+ "id": "hd-142527",
+ "name": "HD 142527",
+ "alt_names": [],
+ "simbad": "HD 142527",
+ "ra_deg": 239.17453443246,
+ "dec_deg": -42.32312452273,
+ "dist_pc": 159.3,
+ "sptype": "F6III",
+ "region": "Sco-Cen",
+ "categories": [
+  "protoplanetary"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "type": "disk_scattered",
+   "facility": "Gemini-GPI",
+   "instrument": "IFS pol",
+   "wavelength_um": 1.65,
+   "wavelength_label": "H band 1.6 um (pol. intensity)",
+   "technique": "PDI",
+   "image_id": "hd-142527_gemini-lights",
+   "survey": "Gemini-LIGHTS",
+   "file": "images/hd-142527/hd-142527_gemini-lights.png",
+   "credit": "Rich et al. 2022, spirals gallery (crop)",
+   "paper": {
+    "first_author": "Rich",
+    "year": 2022,
+    "title": "Gemini-LIGHTS: Herbig Ae/Be and Massive T Tauri Protoplanetary Disks Imaged with Gemini Planet Imager",
+    "journal": "AJ 164, 109",
+    "arxiv": "2206.05815",
+    "bibcode": "2022AJ....164..109R"
+   }
+  },
+  {
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 7",
+   "wavelength_um": 870,
+   "wavelength_label": "870 um continuum (horseshoe)",
+   "technique": "interferometry",
+   "survey": null,
+   "credit": "Casassus et al. 2013, Fig. 1a (crop)",
+   "paper": {
+    "first_author": "Casassus",
+    "year": 2013,
+    "title": "Flows of gas through a protoplanetary gap",
+    "journal": "Nature 493, 191",
+    "arxiv": "1305.6062",
+    "bibcode": "2013Natur.493..191C"
+   },
+   "image_id": "hd-142527_alma2013",
+   "file": "images/hd-142527/hd-142527_alma2013.png"
+  },
+  {
+   "type": "disk_scattered",
+   "facility": "VLT-NACO",
+   "instrument": "NACO pol",
+   "wavelength_um": 2.18,
+   "wavelength_label": "Ks band (PIPPIN PDI reprocessing)",
+   "technique": "PDI",
+   "image_id": "hd-142527_naco-pippin",
+   "file": "images/hd-142527/hd-142527_naco-pippin.png",
+   "survey": "NACO-PIPPIN",
+   "credit": "de Regt et al. 2024, Fig. 6 (crop)",
+   "paper": {
+    "first_author": "de Regt",
+    "year": 2024,
+    "title": "Polarimetric differential imaging with VLT/NACO. A comprehensive PDI pipeline for NACO data (PIPPIN)",
+    "journal": "A&A 684, A73",
+    "arxiv": "2404.02222",
+    "bibcode": "2024A&A...684A..73D"
+   }
+  },
+  {
+   "image_id": "hd-142527_seeds",
+   "type": "disk_scattered",
+   "facility": "Subaru-HiCIAO",
+   "instrument": "HiCIAO",
+   "wavelength_um": 1.65,
+   "wavelength_label": "H band (pol. intensity)",
+   "technique": "PDI",
+   "survey": "SEEDS",
+   "file": "images/hd-142527/hd-142527_seeds.png",
+   "credit": "Tamura 2016, Fig. 3 (crop); original: Fukagawa et al. (in prep.)",
+   "paper": {
+    "first_author": "Tamura",
+    "year": 2016,
+    "title": "SEEDS - Strategic Explorations of Exoplanets and Disks with the Subaru Telescope",
+    "journal": "Proc. Japan Acad. Ser. B 92, 45",
+    "arxiv": null,
+    "bibcode": "2016PJAB...92...45T"
+   }
+  },
+  {
+   "type": "disk_scattered",
+   "survey": null,
+   "file": "images/hd-142527/hd-142527_gravity2022-shadow.png",
+   "credit": "Bohn et al. 2022, Fig. 7 (crop: middle+right panels - SPHERE scattered-light image with shadow positions predicted from the VLTI/GRAVITY inner-disk geometry, misalignment solutions Dtheta_1 in blue and Dtheta_2 in orange)",
+   "image_id": "hd-142527_gravity2022-shadow",
+   "facility": "VLTI-GRAVITY + VLT-SPHERE",
+   "instrument": "GRAVITY K + scattered light",
+   "wavelength_um": 2.2,
+   "wavelength_label": "inner-disk misalignment: predicted vs observed shadows",
+   "technique": "interferometry",
+   "paper": {
+    "first_author": "Bohn",
+    "year": 2022,
+    "title": "Probing inner and outer disk misalignments in transition disks: constraints from VLTI/GRAVITY and ALMA observations",
+    "journal": "A&A 658, A183",
+    "arxiv": "2112.00123",
+    "bibcode": "2022A&A...658A.183B"
+   }
+  },
+  {
+   "image_id": "hd-142527_alice-f110w",
+   "type": "disk_scattered",
+   "facility": "HST",
+   "instrument": "NICMOS",
+   "wavelength_um": 1.1,
+   "wavelength_label": "F110W 1.1 um (ALICE archival reprocessing, combined coadd)",
+   "technique": "RDI",
+   "survey": "ALICE",
+   "file": "images/hd-142527/hd-142527_alice-f110w.png",
+   "credit": "ALICE HLSP v1 combined coadd (HST program 11155, STScI) — hi-res: ALICE archive (STScI)",
+   "paper": {
+    "first_author": "Hagan",
+    "year": 2018,
+    "title": "ALICE Data Release: A revaluation of HST-NICMOS coronagraphic images",
+    "journal": "AJ 155, 179",
+    "arxiv": "1802.07754",
+    "bibcode": null
+   },
+   "hires_url": "https://archive.stsci.edu/prepds/alice/"
+  },
+  {
+   "image_id": "hd-142527_gpi-visao2022",
+   "type": "planet",
+   "facility": "Gemini-GPI + Magellan-MagAO",
+   "instrument": "GPI (pol. H) + VisAO (Halpha)",
+   "wavelength_um": 1.65,
+   "wavelength_label": "outer: Gemini/GPI H-band polarized-intensity disk image; inner: Magellan/MagAO-VisAO post-KLIP 2015-05-15 Halpha detection of companion B, with 250 posterior orbit tracks overlaid",
+   "technique": "other",
+   "survey": null,
+   "credit": "Balmer et al. 2022, Fig. 5 (crop: composite GPI disk + VisAO companion-B detection + orbit fits)",
+   "paper": {
+    "first_author": "Balmer",
+    "year": 2022,
+    "title": "Improved Orbital Constraints and Hα Photometric Monitoring of the Directly Imaged Protoplanet Analog HD 142527 B",
+    "journal": "AJ",
+    "arxiv": "2206.00687",
+    "bibcode": null
+   },
+   "file": "images/hd-142527/hd-142527_gpi-visao2022.png"
+  }
+ ],
+ "notes": "Extreme azimuthal dust asymmetry; M-dwarf companion inside cavity.",
+ "last_updated": "2026-07-07",
+ "plx_mas": 6.2791,
+ "mags": {
+  "B": 9.04,
+  "V": 8.34,
+  "G": 8.114528,
+  "J": 6.503,
+  "H": 5.715,
+  "K": 4.98
+ }
+}

@@ -1,0 +1,129 @@
+{
+ "id": "hd-170773",
+ "name": "HD 170773",
+ "alt_names": [],
+ "simbad": "HD 170773",
+ "ra_deg": 278.25381970894,
+ "dec_deg": -39.89202086749,
+ "dist_pc": 36.9,
+ "sptype": "F5V",
+ "region": null,
+ "categories": [
+  "debris"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "type": "disk_mm",
+   "facility": "ALMA/SMA",
+   "technique": "interferometry",
+   "instrument": "Band 6/7",
+   "wavelength_um": 1300,
+   "wavelength_label": "~0.9-1.3 mm continuum",
+   "image_id": "hd-170773_reasons",
+   "survey": "REASONS",
+   "file": "images/hd-170773/hd-170773_reasons.png",
+   "credit": "Matrà et al. 2025, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Matra",
+    "year": 2025,
+    "title": "REsolved ALMA and SMA Observations of Nearby Stars (REASONS): A population of 74 resolved planetesimal belts at millimetre wavelengths",
+    "journal": "A&A 693, A151",
+    "arxiv": "2501.09058",
+    "bibcode": "2025A&A...693A.151M"
+   }
+  },
+  {
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 7/6",
+   "wavelength_um": 880,
+   "wavelength_label": "~0.88-1.3 mm continuum",
+   "technique": "interferometry",
+   "image_id": "hd-170773_arks",
+   "file": "images/hd-170773/hd-170773_arks.png",
+   "survey": "ARKS",
+   "credit": "Marino et al. 2026, Fig. 3 (crop)",
+   "paper": {
+    "first_author": "Marino",
+    "year": 2026,
+    "title": "The ALMA survey to Resolve exoKuiper belt Substructures (ARKS) I: Motivation, sample, data reduction, and results overview",
+    "journal": "A&A",
+    "arxiv": "2601.11708",
+    "bibcode": null
+   }
+  },
+  {
+   "image_id": "hd-170773_alice-f110w",
+   "type": "disk_scattered",
+   "facility": "HST",
+   "instrument": "NICMOS",
+   "wavelength_um": 1.1,
+   "wavelength_label": "F110W 1.1 um (ALICE archival reprocessing, combined coadd)",
+   "technique": "RDI",
+   "survey": "ALICE",
+   "file": "images/hd-170773/hd-170773_alice-f110w.png",
+   "credit": "ALICE HLSP v1 combined coadd (HST program 10540, STScI) — hi-res: ALICE archive (STScI)",
+   "paper": {
+    "first_author": "Hagan",
+    "year": 2018,
+    "title": "ALICE Data Release: A revaluation of HST-NICMOS coronagraphic images",
+    "journal": "AJ 155, 179",
+    "arxiv": "1802.07754",
+    "bibcode": null
+   },
+   "hires_url": "https://archive.stsci.edu/prepds/alice/"
+  },
+  {
+   "image_id": "hd-170773_herschel2015",
+   "type": "disk_mm",
+   "facility": "Herschel",
+   "instrument": "PACS",
+   "wavelength_um": 70,
+   "wavelength_label": "70 um",
+   "technique": "other",
+   "survey": null,
+   "credit": "Moor et al. 2015, Fig. 2 (crop)",
+   "paper": {
+    "first_author": "Moor",
+    "year": 2015,
+    "title": "Stirring in massive, young debris discs from spatially resolved Herschel images",
+    "journal": null,
+    "arxiv": "1411.5829",
+    "bibcode": null
+   },
+   "file": "images/hd-170773/hd-170773_herschel2015.png"
+  },
+  {
+   "image_id": "hd-170773_scuba2016",
+   "type": "disk_mm",
+   "facility": "JCMT",
+   "instrument": "SCUBA-2",
+   "wavelength_um": 850,
+   "wavelength_label": "850 um",
+   "technique": "other",
+   "survey": "SONS",
+   "credit": "Holland et al. 2017, Fig. A11 (crop)",
+   "paper": {
+    "first_author": "Holland",
+    "year": 2017,
+    "title": "SONS: The JCMT legacy survey of debris discs in the submillimetre",
+    "journal": null,
+    "arxiv": "1706.01218",
+    "bibcode": null
+   },
+   "file": "images/hd-170773/hd-170773_scuba2016.png"
+  }
+ ],
+ "notes": "coverage: no resolved scattered-light image as of 2026-07 (swept)",
+ "last_updated": "2026-07-07",
+ "plx_mas": 27.0749,
+ "mags": {
+  "B": 6.63,
+  "V": 6.217,
+  "G": 6.119172,
+  "J": 5.42,
+  "H": 5.282,
+  "K": 5.195
+ }
+}

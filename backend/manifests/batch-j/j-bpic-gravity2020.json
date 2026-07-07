@@ -1,0 +1,21 @@
+{
+ "survey": "j-bpic-gravity2020",
+ "survey_name": null,
+ "source_image": "images/_sources/extracted/1912.04651/figures/gravity_orbit_skyproj.pdf",
+ "pdf_page": null,
+ "panels": [
+  {
+   "id": "beta-pic",
+   "image_id": "beta-pic_gravity2020",
+   "bbox_frac": [
+    0,
+    0,
+    1,
+    1
+   ]
+  }
+ ],
+ "image_defaults": {},
+ "credit": "GRAVITY Collaboration 2020, orbit figure (crop: sky-projected orbit with GRAVITY astrometry inset)",
+ "paper": null
+}

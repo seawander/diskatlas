@@ -1,0 +1,23 @@
+{
+  "survey": "u-bahcall95b",
+  "survey_name": "Bahcall-quasars-1995",
+  "source_image": "images/_sources/extra/bahcall1995_quasars.pdf",
+  "pdf_page": 18,
+  "dpi": 200,
+  "panels": [
+    { "id": "pks-1302-102", "image_id": "pks-1302-102_bahcall1995",
+      "bbox_frac": [0.132, 0.163, 0.845, 0.712] }
+  ],
+  "image_defaults": {
+    "type": "quasar", "facility": "HST", "instrument": "WFPC2",
+    "wavelength_um": 0.6,
+    "wavelength_label": "F606W; two close companion galaxies (3 & 6 kpc projected)",
+    "technique": "other"
+  },
+  "credit": "Bahcall et al. 1995, Fig. 8 / Plate 20 (crop; ADS scan)",
+  "paper": {
+    "first_author": "Bahcall", "year": 1995,
+    "title": "Hubble Space Telescope Images of Nearby Luminous Quasars. II. Results for Eight Quasars and Tests of the Detection Sensitivity",
+    "journal": "ApJ 450, 486", "arxiv": "astro-ph/9501018", "bibcode": "1995ApJ...450..486B"
+  }
+}

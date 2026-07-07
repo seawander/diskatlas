@@ -1,0 +1,35 @@
+{
+ "survey": "e-nicmos-ren2023-f160w",
+ "survey_name": "NICMOS-Ren2023",
+ "source_image": "images/_sources/extracted/2302.04273/fig-NICMOS-F160W.pdf",
+ "pdf_page": 1,
+ "dpi": 400,
+ "grid": {
+  "rows": 5, "cols": 5,
+  "order": [
+   null, null, null, null, null,
+   null, null, null, "hd-35650", null,
+   null, null, null, null, null,
+   null, null, null, null, null,
+   null, "twa-7", "twa-25", null, null
+  ],
+  "image_id_pattern": "{id}_nicmos-ren2023"
+ },
+ "image_defaults": {
+  "type": "disk_scattered",
+  "facility": "HST",
+  "instrument": "NICMOS",
+  "wavelength_um": 1.6,
+  "wavelength_label": "F160W 1.60 um (NMF reprocessing)",
+  "technique": "RDI"
+ },
+ "credit": "Ren et al. 2023, Fig. 4 (crop)",
+ "paper": {
+  "first_author": "Ren",
+  "year": 2023,
+  "title": "Debris Disk Color with the Hubble Space Telescope",
+  "journal": "A&A 672, A114",
+  "arxiv": "2302.04273",
+  "bibcode": "2023A&A...672A.114R"
+ }
+}

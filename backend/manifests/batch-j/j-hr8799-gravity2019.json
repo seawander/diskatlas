@@ -1,0 +1,21 @@
+{
+ "survey": "j-hr8799-gravity2019",
+ "survey_name": null,
+ "source_image": "images/_sources/extracted/1903.11903/gravity_kep_orbit.pdf",
+ "pdf_page": null,
+ "panels": [
+  {
+   "id": "hr-8799",
+   "image_id": "hr-8799_gravity2019",
+   "bbox_frac": [
+    0,
+    0,
+    1,
+    1
+   ]
+  }
+ ],
+ "image_defaults": {},
+ "credit": "GRAVITY Collaboration 2019, Fig. 2 (crop: Keplerian orbit + GRAVITY astrometry of e)",
+ "paper": null
+}

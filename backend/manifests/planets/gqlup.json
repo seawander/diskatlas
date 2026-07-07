@@ -1,0 +1,35 @@
+{
+ "survey": "pl2-gq-lup",
+ "survey_name": null,
+ "source_image": "images/_sources/_views/batchD2_gq-lup_f1.png",
+ "pdf_page": null,
+ "panels": [
+  {
+   "id": "gq-lup",
+   "image_id": "gq-lup_naco2005",
+   "bbox_frac": [
+    0.1186,
+    0.1047,
+    0.8766,
+    0.6404
+   ]
+  }
+ ],
+ "image_defaults": {
+  "type": "planet",
+  "facility": "VLT-NACO",
+  "instrument": "NACO",
+  "wavelength_um": 2.2,
+  "wavelength_label": "Ks band; companion discovery",
+  "technique": "other"
+ },
+ "credit": "Neuhauser et al. 2005, Fig. 1 (crop)",
+ "paper": {
+  "first_author": "Neuhauser",
+  "year": 2005,
+  "title": "Evidence for a co-moving sub-stellar companion of GQ Lup",
+  "journal": "A&A 435, L13",
+  "arxiv": "astro-ph/0503691",
+  "bibcode": "2005A&A...435L..13N"
+ }
+}

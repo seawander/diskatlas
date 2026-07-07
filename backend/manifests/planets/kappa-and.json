@@ -1,0 +1,35 @@
+{
+ "survey": "pl-kappa-and",
+ "survey_name": null,
+ "source_image": "images/_sources/_views/batchD_kappa-and_fig1.png",
+ "pdf_page": null,
+ "panels": [
+  {
+   "id": "kappa-and",
+   "image_id": "kappa-and_seeds2013",
+   "bbox_frac": [
+    0.336,
+    0.0,
+    0.667,
+    1.0
+   ]
+  }
+ ],
+ "image_defaults": {
+  "type": "planet",
+  "facility": "Subaru-HiCIAO",
+  "instrument": "HiCIAO",
+  "wavelength_um": 1.65,
+  "wavelength_label": "JHK composite; SEEDS discovery",
+  "technique": "ADI"
+ },
+ "credit": "Carson et al. 2013, Fig. 1 (crop)",
+ "paper": {
+  "first_author": "Carson",
+  "year": 2013,
+  "title": "Direct Imaging Discovery of a 'Super-Jupiter' Around the Late B-Type Star kappa And",
+  "journal": "ApJL 763, L32",
+  "arxiv": "1211.3744",
+  "bibcode": "2013ApJ...763L..32C"
+ }
+}

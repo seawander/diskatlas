@@ -1,0 +1,54 @@
+{
+ "survey": "gemini-lights-irregulars-j",
+ "survey_name": "Gemini-LIGHTS",
+ "source_image": "images/_sources/extracted/2206.05815/figures/Irregulars.png",
+ "panels": [
+  {
+   "id": "fu-ori",
+   "image_id": "fu-ori_gemini-lights",
+   "bbox_frac": [
+    0.255,
+    0.0233,
+    0.4933,
+    0.98
+   ]
+  },
+  {
+   "id": "gw-ori",
+   "image_id": "gw-ori_gemini-lights",
+   "bbox_frac": [
+    0.5042,
+    0.0233,
+    0.7425,
+    0.98
+   ]
+  },
+  {
+   "id": "hen-3-365",
+   "image_id": "hen-3-365_gemini-lights",
+   "bbox_frac": [
+    0.7542,
+    0.0233,
+    0.9925,
+    0.98
+   ]
+  }
+ ],
+ "image_defaults": {
+  "type": "disk_scattered",
+  "facility": "Gemini-GPI",
+  "instrument": "IFS pol",
+  "wavelength_um": 1.24,
+  "wavelength_label": "J band 1.24 um (pol. intensity)",
+  "technique": "PDI"
+ },
+ "credit": "Rich et al. 2022, irregulars gallery (crop)",
+ "paper": {
+  "first_author": "Rich",
+  "year": 2022,
+  "title": "Gemini-LIGHTS: Herbig Ae/Be and Massive T Tauri Protoplanetary Disks Imaged with Gemini Planet Imager",
+  "journal": "AJ 164, 109",
+  "arxiv": "2206.05815",
+  "bibcode": "2022AJ....164..109R"
+ }
+}

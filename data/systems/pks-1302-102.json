@@ -1,0 +1,50 @@
+{
+ "id": "pks-1302-102",
+ "name": "PKS 1302-102",
+ "alt_names": [],
+ "simbad": "PKS 1302-102",
+ "ra_deg": 196.3875627232,
+ "dec_deg": -10.5553973288,
+ "dist_pc": null,
+ "plx_mas": null,
+ "mags": {
+  "B": 15.18,
+  "V": 15.23,
+  "G": 15.151885,
+  "R": 14.46,
+  "J": 14.23,
+  "H": 13.669,
+  "K": 12.853
+ },
+ "sptype": "QSO (z=0.286)",
+ "region": "extragalactic",
+ "categories": [
+  "quasar"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "image_id": "pks-1302-102_bahcall1995",
+   "type": "quasar",
+   "facility": "HST",
+   "instrument": "WFPC2",
+   "wavelength_um": 0.6,
+   "wavelength_label": "F606W; two close companion galaxies (3 & 6 kpc projected)",
+   "technique": "other",
+   "survey": "Bahcall-quasars-1995",
+   "file": "images/pks-1302-102/pks-1302-102_bahcall1995.png",
+   "credit": "Bahcall et al. 1995, Fig. 8 / Plate 20 (crop; ADS scan)",
+   "paper": {
+    "first_author": "Bahcall",
+    "year": 1995,
+    "title": "Hubble Space Telescope Images of Nearby Luminous Quasars. II. Results for Eight Quasars and Tests of the Detection Sensitivity",
+    "journal": "ApJ 450, 486",
+    "arxiv": "astro-ph/9501018",
+    "bibcode": "1995ApJ...450..486B"
+   }
+  }
+ ],
+ "notes": "Radio-loud luminous quasar from Bahcall, Kirhakos & Schneider 1995 (HST/WFPC2 Paper II, one of the four quasars new in that paper): host-galaxy fits inconclusive (companion galaxies within a few arcsec; earlier ground-based bright-host claim not confirmed). Image pending: arXiv source has no figures; crop from the ADS published PDF (see backend/fetch_extra.txt). Added by batch T; redshift from Paper II Table 1. Coordinates pending SIMBAD via coords_todo_batchT.",
+ "last_updated": "2026-07-06",
+ "redshift": 0.286
+}

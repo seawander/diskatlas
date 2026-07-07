@@ -1,0 +1,21 @@
+{
+ "survey": "j-lkca15-seeds",
+ "survey_name": null,
+ "source_image": "images/_sources/_views/j-lkca15.png",
+ "pdf_page": null,
+ "panels": [
+  {
+   "id": "lkca-15",
+   "image_id": "lkca-15_seeds",
+   "bbox_frac": [
+    0,
+    0,
+    1,
+    0.496
+   ]
+  }
+ ],
+ "image_defaults": {},
+ "credit": "Thalmann et al. 2010, Fig. 1a (crop)",
+ "paper": null
+}

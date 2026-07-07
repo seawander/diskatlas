@@ -1,0 +1,36 @@
+{
+ "survey": "single-hd142527",
+ "survey_name": null,
+ "source_image": "images/_sources/extracted/1305.6062/summary_cycle0_main_v1.pdf",
+ "pdf_page": 1,
+ "panels": [
+  {
+   "id": "hd-142527",
+   "image_id": "hd-142527_alma2013",
+   "bbox_frac": [
+    0.040312,
+    0.096695,
+    0.50065,
+    0.586291
+   ]
+  }
+ ],
+ "image_defaults": {
+  "type": "disk_mm",
+  "facility": "ALMA",
+  "instrument": "Band 7",
+  "wavelength_um": 870,
+  "wavelength_label": "870 um continuum (horseshoe)",
+  "technique": "interferometry"
+ },
+ "credit": "Casassus et al. 2013, Fig. 1a (crop)",
+ "paper": {
+  "first_author": "Casassus",
+  "year": 2013,
+  "title": "Flows of gas through a protoplanetary gap",
+  "journal": "Nature 493, 191",
+  "arxiv": "1305.6062",
+  "bibcode": "2013Natur.493..191C"
+ },
+ "_comment": "bbox at r150; includes gap-crossing-filament zoom inset (protrudes below panel a)"
+}

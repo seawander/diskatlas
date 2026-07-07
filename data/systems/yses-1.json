@@ -1,0 +1,124 @@
+{
+ "id": "yses-1",
+ "name": "YSES-1",
+ "alt_names": [
+  "TYC 8998-760-1"
+ ],
+ "simbad": "TYC 8998-760-1",
+ "ra_deg": 201.30052621045,
+ "dec_deg": -64.93908027213,
+ "dist_pc": 94.2,
+ "sptype": "K3IV",
+ "region": "Lower Cen-Crux",
+ "categories": [],
+ "planets": [
+  {
+   "name": "b",
+   "status": "confirmed",
+   "paper": {
+    "first_author": "Bohn",
+    "year": 2019,
+    "title": "The Young Suns Exoplanet Survey: Detection of a wide-orbit planetary-mass companion to a solar-type Sco-Cen member",
+    "journal": "MNRAS 492, 431",
+    "arxiv": "1912.04284",
+    "bibcode": null
+   }
+  },
+  {
+   "name": "c",
+   "status": "confirmed",
+   "paper": {
+    "first_author": "Bohn",
+    "year": 2020,
+    "title": "Two Directly Imaged, Wide-orbit Giant Planets around the Young, Solar Analog TYC 8998-760-1",
+    "journal": "ApJL 898, L16",
+    "arxiv": "2007.10991",
+    "bibcode": null
+   },
+   "extra_papers": [
+    {
+     "label": "JWST characterization",
+     "first_author": "Hoch",
+     "year": 2025,
+     "title": "Silicate clouds and a circumplanetary disk in the YSES-1 exoplanet system",
+     "journal": "Nature",
+     "arxiv": "2507.18861",
+     "bibcode": null
+    }
+   ]
+  }
+ ],
+ "images": [
+  {
+   "type": "planet",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS",
+   "wavelength_um": 2.1,
+   "wavelength_label": "K1 band; first multi-planet system imaged around a Sun-like star",
+   "technique": "coronagraphy",
+   "survey": null,
+   "credit": "Bohn et al. 2020, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Bohn",
+    "year": 2020,
+    "title": "Two Directly Imaged, Wide-orbit Giant Planets around the Young, Solar Analog TYC 8998-760-1",
+    "journal": "ApJL 898, L16",
+    "arxiv": "2007.10991",
+    "bibcode": "2020ApJ...898L..16B"
+   },
+   "image_id": "yses-1_sphere2020",
+   "file": "images/yses-1/yses-1_sphere2020.png"
+  },
+  {
+   "type": "planet",
+   "facility": "JWST",
+   "instrument": "NIRSpec IFU",
+   "wavelength_um": 4.0,
+   "wavelength_label": "NIRSpec IFU prism 4.0 um slice showing b and c; silicate clouds in c, CPD around b",
+   "technique": "other",
+   "survey": null,
+   "credit": "Hoch et al. 2025, Fig. 1 (crop: JWST/NIRSpec IFU 4.0 um datacube slice with b and c)",
+   "paper": {
+    "first_author": "Hoch",
+    "year": 2025,
+    "title": "Silicate clouds and a circumplanetary disk in the YSES-1 exoplanet system",
+    "journal": "Nature (2025)",
+    "arxiv": "2507.18861",
+    "bibcode": null
+   },
+   "image_id": "yses-1_jwst2025",
+   "file": "images/yses-1/yses-1_jwst2025.png"
+  },
+  {
+   "image_id": "yses-1_sphere-naco2019",
+   "type": "planet",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS + NACO",
+   "wavelength_um": 1.65,
+   "wavelength_label": "H/Ks (SPHERE) and L'/M' (NACO) discovery epochs of planet b",
+   "technique": "ADI",
+   "survey": null,
+   "credit": "Bohn et al. 2019, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Bohn",
+    "year": 2019,
+    "title": "The Young Suns Exoplanet Survey: Detection of a wide orbit planetary mass companion to a solar-type Sco-Cen member",
+    "journal": "MNRAS 492, 431",
+    "arxiv": "1912.04284",
+    "bibcode": "2020MNRAS.492..431B"
+   },
+   "file": "images/yses-1/yses-1_sphere-naco2019.png"
+  }
+ ],
+ "notes": null,
+ "last_updated": "2026-07-07",
+ "plx_mas": 10.6124,
+ "mags": {
+  "B": 11.96,
+  "V": 11.12,
+  "G": 10.638189,
+  "J": 9.072,
+  "H": 8.562,
+  "K": 8.392
+ }
+}

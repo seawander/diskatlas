@@ -1,0 +1,32 @@
+{
+  "survey": "taurus-long2018",
+  "survey_name": "Taurus-Long2018",
+  "source_image": "images/_sources/extracted/1810.06044/rings_image_colorbar_inferno.pdf",
+  "pdf_page": 1,
+  "_comment": "Fig. 1 of Long+2018: 2x6 grid, decreasing mm flux. Panel pixel bounds measured at r=200 (3847x1318): xs=[181,781,1382,1982,2582,3183], xe=[760,1360,1960,2561,3161,3761], ys=[19,619], ye=[597,1197].",
+  "panels": [
+    { "id": "mwc-480",  "image_id": "mwc-480_taurus-long2018",  "bbox_frac": [0.047049, 0.014416, 0.197557, 0.452959] },
+    { "id": "ry-tau",   "image_id": "ry-tau_taurus-long2018",   "bbox_frac": [0.203015, 0.014416, 0.353522, 0.452959] },
+    { "id": "dl-tau",   "image_id": "dl-tau_taurus-long2018",   "bbox_frac": [0.359241, 0.014416, 0.509488, 0.452959] },
+    { "id": "ci-tau",   "image_id": "ci-tau_taurus-long2018",   "bbox_frac": [0.515207, 0.014416, 0.665714, 0.452959] },
+    { "id": "uz-tau-e", "image_id": "uz-tau-e_taurus-long2018", "bbox_frac": [0.671172, 0.014416, 0.821679, 0.452959] },
+    { "id": "ft-tau",   "image_id": "ft-tau_taurus-long2018",   "bbox_frac": [0.827398, 0.014416, 0.977645, 0.452959] },
+    { "id": "dn-tau",   "image_id": "dn-tau_taurus-long2018",   "bbox_frac": [0.047049, 0.469651, 0.197557, 0.908194] },
+    { "id": "iq-tau",   "image_id": "iq-tau_taurus-long2018",   "bbox_frac": [0.203015, 0.469651, 0.353522, 0.908194] },
+    { "id": "go-tau",   "image_id": "go-tau_taurus-long2018",   "bbox_frac": [0.359241, 0.469651, 0.509488, 0.908194] },
+    { "id": "cida-9",   "image_id": "cida-9_taurus-long2018",   "bbox_frac": [0.515207, 0.469651, 0.665714, 0.908194] },
+    { "id": "ds-tau",   "image_id": "ds-tau_taurus-long2018",   "bbox_frac": [0.671172, 0.469651, 0.821679, 0.908194] },
+    { "id": "ip-tau",   "image_id": "ip-tau_taurus-long2018",   "bbox_frac": [0.827398, 0.469651, 0.977645, 0.908194] }
+  ],
+  "image_defaults": {
+    "type": "disk_mm", "facility": "ALMA", "instrument": "Band 6",
+    "wavelength_um": 1330, "wavelength_label": "1.33 mm continuum",
+    "technique": "interferometry"
+  },
+  "credit": "Long et al. 2018, Fig. 1 (crop)",
+  "paper": {
+    "first_author": "Long", "year": 2018,
+    "title": "Gaps and Rings in an ALMA Survey of Disks in the Taurus Star-forming Region",
+    "journal": "ApJ 869, 17", "arxiv": "1810.06044", "bibcode": "2018ApJ...869...17L"
+  }
+}

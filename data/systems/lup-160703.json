@@ -1,0 +1,48 @@
+{
+ "id": "lup-160703",
+ "name": "Lup 160703",
+ "alt_names": [],
+ "simbad": "2MASS J16070384-3911113",
+ "ra_deg": 241.766014,
+ "dec_deg": -39.186478,
+ "dist_pc": null,
+ "plx_mas": null,
+ "mags": {
+  "G": 19.497408,
+  "R": 18.79,
+  "I": 16.8,
+  "J": 14.681,
+  "H": 13.767,
+  "K": 13.113
+ },
+ "sptype": "M4.5",
+ "region": "Lupus",
+ "categories": [
+  "protoplanetary"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "image_id": "lup-160703_alma-martinien",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 7",
+   "wavelength_um": 880,
+   "wavelength_label": "0.88 mm continuum (highly-inclined disk)",
+   "technique": "interferometry",
+   "survey": "Martinien2026",
+   "file": "images/lup-160703/lup-160703_alma-martinien.png",
+   "credit": "Martinien et al. 2026, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Martinien",
+    "year": 2026,
+    "title": "Observations of highly inclined disks with ALMA. Results from 12CO gas and continuum observations",
+    "journal": "A&A (2026)",
+    "arxiv": "2604.11247",
+    "bibcode": null
+   }
+  }
+ ],
+ "notes": "Added 2026-07-06 (Martinien+2026 ALMA highly-inclined disk). Coords pending SIMBAD.",
+ "last_updated": "2026-07-06"
+}

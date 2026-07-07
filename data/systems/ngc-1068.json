@@ -1,0 +1,124 @@
+{
+ "id": "ngc-1068",
+ "name": "NGC 1068",
+ "alt_names": [
+  "M 77"
+ ],
+ "simbad": "NGC 1068",
+ "ra_deg": 40.669625,
+ "dec_deg": -0.013278,
+ "dist_pc": null,
+ "plx_mas": null,
+ "mags": null,
+ "sptype": "Sy2 (z=0.0038)",
+ "region": "extragalactic (Cetus)",
+ "categories": [
+  "quasar"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "image_id": "ngc-1068_sphere2015",
+   "type": "quasar",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS (DPI)",
+   "wavelength_um": 2.2,
+   "wavelength_label": "H+Ks polarimetric imaging of the AGN; direct evidence of the extended nuclear torus",
+   "technique": "PDI",
+   "survey": null,
+   "file": "images/ngc-1068/ngc-1068_sphere2015.png",
+   "credit": "Gratadour et al. 2015, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Gratadour",
+    "year": 2015,
+    "title": "Polarimetric imaging of NGC 1068 at high angular resolution in the near infrared. Direct evidence of an extended nuclear torus",
+    "journal": "A&A 581, L8",
+    "arxiv": null,
+    "bibcode": "2015A&A...581L...8G"
+   }
+  },
+  {
+   "image_id": "ngc-1068_sphere2019",
+   "type": "quasar",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS",
+   "wavelength_um": 1.6,
+   "wavelength_label": "H/Ks + narrow-band AO imaging of the central 100 pc: stellar cusp + warm dust at the torus wall",
+   "technique": "other",
+   "survey": null,
+   "file": "images/ngc-1068/ngc-1068_sphere2019.png",
+   "credit": "Rouan et al. 2019, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Rouan",
+    "year": 2019,
+    "title": "Stellar cusp and warm dust at the heart of NGC 1068",
+    "journal": "A&A 625, A100",
+    "arxiv": "1809.10254",
+    "bibcode": "2019A&A...625A.100R"
+   }
+  },
+  {
+   "image_id": "ngc-1068_sphere2021",
+   "type": "quasar",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS (DPI), Cnt K1",
+   "wavelength_um": 2.09,
+   "wavelength_label": "K-band polarimetric imaging of the nucleus: torus envelope, ionisation cone, polarising mechanisms",
+   "technique": "PDI",
+   "survey": null,
+   "file": "images/ngc-1068/ngc-1068_sphere2021.png",
+   "credit": "Grosset et al. 2021, Fig. 3 (Cnt K1 polarised-intensity + vectors panel; crop)",
+   "paper": {
+    "first_author": "Grosset",
+    "year": 2021,
+    "title": "High angular resolution polarimetric imaging of the nucleus of NGC 1068. Disentangling the polarising mechanisms",
+    "journal": "A&A 648, A42",
+    "arxiv": "2102.06339",
+    "bibcode": "2021A&A...648A..42G"
+   }
+  },
+  {
+   "image_id": "ngc-1068_gravity2020",
+   "type": "quasar",
+   "facility": "VLTI",
+   "instrument": "GRAVITY",
+   "wavelength_um": 2.2,
+   "wavelength_label": "K band (2.2 um)",
+   "technique": "near-IR interferometric image reconstruction (VLTI-GRAVITY)",
+   "survey": null,
+   "file": "images/ngc-1068/ngc-1068_gravity2020.png",
+   "credit": "GRAVITY Collaboration et al. 2020, Fig. 4 (crop)",
+   "paper": {
+    "first_author": "GRAVITY Collaboration",
+    "year": 2020,
+    "title": "An image of the dust sublimation region in the nucleus of NGC 1068",
+    "journal": "Astronomy & Astrophysics",
+    "arxiv": "1912.01361",
+    "bibcode": "2020A&A...634A...1G"
+   }
+  },
+  {
+   "image_id": "ngc-1068_alma2016",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 8",
+   "wavelength_um": 432,
+   "wavelength_label": "432 um continuum, ~4 pc resolution",
+   "technique": "interferometry",
+   "survey": null,
+   "credit": "Garcia-Burillo et al. 2016, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Garcia-Burillo",
+    "year": 2016,
+    "title": "ALMA resolves the torus of NGC 1068: continuum and molecular line emission",
+    "journal": "ApJL 823, L12",
+    "arxiv": "1604.00205",
+    "bibcode": null
+   },
+   "file": "images/ngc-1068/ngc-1068_alma2016.png"
+  }
+ ],
+ "notes": "Archetypal Seyfert 2 (M77, D ~ 14 Mpc). Added by batch S as quasar/AGN-host expansion: prior high-contrast AGN imaging cited in the first paragraph of Ren et al. 2024 (2402.09505). Grosset+2021 SPHERE-IRDIS Cnt K1 polarimetry cropped from arXiv 2102.06339. Rouan+2019 DOES have an arXiv posting (1809.10254; corrected 2026-07-06) - source to be host-fetched. Gratadour+2015 has no arXiv (bibcode only); aanda open-access PDF aa26554-15 to be host-fetched. Coordinates are the well-known NGC 1068 position; SIMBAD refinement pending via coords_todo_batchS.",
+ "last_updated": "2026-07-06",
+ "redshift": 0.0038
+}

@@ -1,0 +1,110 @@
+{
+ "id": "hd-10647",
+ "name": "HD 10647",
+ "alt_names": [
+  "q1 Eri"
+ ],
+ "simbad": "HD 10647",
+ "ra_deg": 25.62214382373,
+ "dec_deg": -53.74083095924,
+ "dist_pc": 17.3,
+ "sptype": "F9V",
+ "region": null,
+ "categories": [
+  "debris"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "type": "disk_mm",
+   "facility": "ALMA/SMA",
+   "technique": "interferometry",
+   "instrument": "Band 6/7",
+   "wavelength_um": 1300,
+   "wavelength_label": "~0.9-1.3 mm continuum",
+   "image_id": "hd-10647_reasons",
+   "survey": "REASONS",
+   "file": "images/hd-10647/hd-10647_reasons.png",
+   "credit": "Matrà et al. 2025, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Matra",
+    "year": 2025,
+    "title": "REsolved ALMA and SMA Observations of Nearby Stars (REASONS): A population of 74 resolved planetesimal belts at millimetre wavelengths",
+    "journal": "A&A 693, A151",
+    "arxiv": "2501.09058",
+    "bibcode": "2025A&A...693A.151M"
+   }
+  },
+  {
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 7/6",
+   "wavelength_um": 880,
+   "wavelength_label": "~0.88-1.3 mm continuum",
+   "technique": "interferometry",
+   "image_id": "hd-10647_arks",
+   "file": "images/hd-10647/hd-10647_arks.png",
+   "survey": "ARKS",
+   "credit": "Marino et al. 2026, Fig. 3 (crop)",
+   "paper": {
+    "first_author": "Marino",
+    "year": 2026,
+    "title": "The ALMA survey to Resolve exoKuiper belt Substructures (ARKS) I: Motivation, sample, data reduction, and results overview",
+    "journal": "A&A",
+    "arxiv": "2601.11708",
+    "bibcode": null
+   }
+  },
+  {
+   "image_id": "hd-10647_alma2021",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 7",
+   "wavelength_um": 860,
+   "wavelength_label": "0.86 mm continuum (tapered)",
+   "technique": "interferometry",
+   "survey": null,
+   "file": "images/hd-10647/hd-10647_alma2021.png",
+   "credit": "Lovell et al. 2021, Fig. 4 (crop)",
+   "paper": {
+    "first_author": "Lovell",
+    "year": 2021,
+    "title": "High resolution ALMA and HST images of q1 Eri: an asymmetric debris disc with an eccentric Jupiter",
+    "journal": "MNRAS 506, 1978",
+    "arxiv": "2106.05975",
+    "bibcode": "2021MNRAS.506.1978L"
+   }
+  },
+  {
+   "image_id": "hd-10647_hst2021",
+   "type": "disk_scattered",
+   "facility": "HST",
+   "instrument": "ACS/HRC coronagraph",
+   "wavelength_um": 0.606,
+   "wavelength_label": "F606W (optical, scattered light)",
+   "technique": "coronagraphy",
+   "survey": null,
+   "credit": "Lovell et al. 2021, Fig. 2 (crop)",
+   "paper": {
+    "first_author": "Lovell",
+    "year": 2021,
+    "title": "High resolution ALMA and HST images of q$^1$ Eri: an asymmetric debris disc with an eccentric Jupiter",
+    "journal": "MNRAS (10.1093/mnras/stab1678)",
+    "arxiv": "2106.05975",
+    "bibcode": null
+   },
+   "file": "images/hd-10647/hd-10647_hst2021.png"
+  }
+ ],
+ "notes": null,
+ "last_updated": "2026-07-07",
+ "plx_mas": 57.6409,
+ "mags": {
+  "B": 6.05,
+  "V": 5.52,
+  "G": 5.383109,
+  "J": 4.79,
+  "H": 4.4,
+  "K": 4.34
+ }
+}

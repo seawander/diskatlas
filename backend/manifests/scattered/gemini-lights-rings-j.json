@@ -1,0 +1,64 @@
+{
+ "survey": "gemini-lights-rings-j",
+ "survey_name": "Gemini-LIGHTS",
+ "source_image": "images/_sources/extracted/2206.05815/figures/Rings.png",
+ "panels": [
+  {
+   "id": "hd-169142",
+   "image_id": "hd-169142_gemini-lights",
+   "bbox_frac": [
+    0.0033,
+    0.0067,
+    0.2433,
+    0.4891
+   ]
+  },
+  {
+   "id": "hd-141569",
+   "image_id": "hd-141569_gemini-lights",
+   "bbox_frac": [
+    0.2542,
+    0.0067,
+    0.4942,
+    0.4891
+   ]
+  },
+  {
+   "id": "hd-163296",
+   "image_id": "hd-163296_gemini-lights",
+   "bbox_frac": [
+    0.5042,
+    0.0067,
+    0.7442,
+    0.4891
+   ]
+  },
+  {
+   "id": "pds-66",
+   "image_id": "pds-66_gemini-lights",
+   "bbox_frac": [
+    0.6283,
+    0.5092,
+    0.8683,
+    0.9916
+   ]
+  }
+ ],
+ "image_defaults": {
+  "type": "disk_scattered",
+  "facility": "Gemini-GPI",
+  "instrument": "IFS pol",
+  "wavelength_um": 1.24,
+  "wavelength_label": "J band 1.24 um (pol. intensity)",
+  "technique": "PDI"
+ },
+ "credit": "Rich et al. 2022, rings gallery (crop)",
+ "paper": {
+  "first_author": "Rich",
+  "year": 2022,
+  "title": "Gemini-LIGHTS: Herbig Ae/Be and Massive T Tauri Protoplanetary Disks Imaged with Gemini Planet Imager",
+  "journal": "AJ 164, 109",
+  "arxiv": "2206.05815",
+  "bibcode": "2022AJ....164..109R"
+ }
+}

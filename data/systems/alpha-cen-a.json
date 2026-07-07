@@ -1,0 +1,84 @@
+{
+ "id": "alpha-cen-a",
+ "name": "alpha Cen A",
+ "alt_names": [
+  "Rigil Kentaurus",
+  "HD 128620"
+ ],
+ "simbad": "alf Cen A",
+ "ra_deg": 219.90205833,
+ "dec_deg": -60.83399269,
+ "dist_pc": 1.35,
+ "plx_mas": 742.12,
+ "mags": {
+  "U": 0.96,
+  "B": 0.72,
+  "V": 0.01,
+  "J": -1.454,
+  "H": -1.886,
+  "K": -2.008
+ },
+ "sptype": "G2V",
+ "region": "Solar neighborhood (1.34 pc)",
+ "categories": [],
+ "planets": [
+  {
+   "name": "C1",
+   "status": "candidate",
+   "method": "imaging",
+   "note": "Habitable-zone mid-IR source (VLT/NEAR); possible warm sub-Neptune, exozodiacal disk, or instrumental artifact - unconfirmed",
+   "paper": {
+    "first_author": "Wagner",
+    "year": 2021,
+    "title": "Imaging low-mass planets within the habitable zone of alpha Centauri",
+    "journal": "Nature Communications 12, 922",
+    "arxiv": "2102.05159",
+    "bibcode": "2021NatCo..12..922W"
+   }
+  }
+ ],
+ "images": [
+  {
+   "image_id": "alpha-cen-a_near2021",
+   "type": "planet",
+   "facility": "VLT",
+   "instrument": "NEAR/VISIR",
+   "wavelength_um": 11.0,
+   "wavelength_label": "N-band (~10-12.5 um) mid-IR coronagraphy; habitable-zone candidate 'C1'",
+   "technique": "coronagraphy",
+   "survey": "NEAR",
+   "file": "images/alpha-cen-a/alpha-cen-a_near2021.png",
+   "credit": "Wagner et al. 2021, Fig. 3a (NEAR campaign image, candidate C1; crop)",
+   "paper": {
+    "first_author": "Wagner",
+    "year": 2021,
+    "title": "Imaging low-mass planets within the habitable zone of alpha Centauri",
+    "journal": "Nature Communications 12, 922",
+    "arxiv": "2102.05159",
+    "bibcode": "2021NatCo..12..922W"
+   }
+  },
+  {
+   "image_id": "alpha-cen-a_miri2025",
+   "type": "planet",
+   "facility": "JWST",
+   "instrument": "MIRI (F1550C coronagraph)",
+   "wavelength_um": 15.5,
+   "wavelength_label": "15.5 micron",
+   "technique": "coronagraphy",
+   "survey": null,
+   "credit": "Beichman et al. 2025, Fig. 2 (crop)",
+   "paper": {
+    "first_author": "Beichman",
+    "year": 2025,
+    "title": "Worlds Next Door: A Candidate Giant Planet Imaged in the Habitable Zone of $\\alpha$ Cen A. I. Observations, Orbital and Physical Properties, and Exozodi Upper Limits",
+    "journal": "ApJL",
+    "arxiv": "2508.03814",
+    "bibcode": null
+   },
+   "file": "images/alpha-cen-a/alpha-cen-a_miri2025.png"
+  }
+ ],
+ "notes": "Added 2026-07-06. Nearest Sun-like star; NEAR/VISIR mid-IR habitable-zone imaging. Candidate 'C1' is unconfirmed (possible exozodi/artifact). Coords pending SIMBAD.",
+ "last_updated": "2026-07-06"
+}

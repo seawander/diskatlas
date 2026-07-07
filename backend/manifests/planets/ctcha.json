@@ -1,0 +1,35 @@
+{
+ "survey": "pl-ctcha",
+ "survey_name": null,
+ "source_image": "images/_sources/_views/batchD_ct-cha_fig1.png",
+ "pdf_page": null,
+ "panels": [
+  {
+   "id": "ct-cha",
+   "image_id": "ct-cha_naco2008",
+   "bbox_frac": [
+    0.0,
+    0.0,
+    1.0,
+    1.0
+   ]
+  }
+ ],
+ "image_defaults": {
+  "type": "planet",
+  "facility": "VLT-NACO",
+  "instrument": "NACO",
+  "wavelength_um": 2.2,
+  "wavelength_label": "Ks band; companion discovery",
+  "technique": "other"
+ },
+ "credit": "Schmidt et al. 2008, Fig. 1 (crop)",
+ "paper": {
+  "first_author": "Schmidt",
+  "year": 2008,
+  "title": "Direct evidence of a sub-stellar companion around CT Cha",
+  "journal": "A&A 491, 311",
+  "arxiv": "0809.2812",
+  "bibcode": "2008A&A...491..311S"
+ }
+}

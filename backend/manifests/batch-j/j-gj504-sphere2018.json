@@ -1,0 +1,21 @@
+{
+ "survey": "j-gj504-sphere2018",
+ "survey_name": null,
+ "source_image": "images/_sources/extracted/1807.00657/Vignette.pdf",
+ "pdf_page": null,
+ "panels": [
+  {
+   "id": "gj-504",
+   "image_id": "gj-504_sphere2018",
+   "bbox_frac": [
+    0.5027,
+    0.0,
+    0.748,
+    0.487
+   ]
+  }
+ ],
+ "image_defaults": {},
+ "credit": "Bonnefoy et al. 2018, Fig. 1 (crop: IRDIS H2 panel)",
+ "paper": null
+}

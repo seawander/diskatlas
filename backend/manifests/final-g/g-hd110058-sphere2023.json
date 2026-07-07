@@ -1,0 +1,34 @@
+{
+ "survey": "g-hd110058-sphere2023",
+ "survey_name": null,
+ "source_image": "images/_sources/extracted/2308.05613/2015-04-12_ird_H23_RDI_temp-mean_pc_125.pdf",
+ "panels": [
+  {
+   "id": "hd-110058",
+   "image_id": "hd-110058_sphere2023",
+   "bbox_frac": [
+    0.653,
+    0.023,
+    0.905,
+    0.976
+   ]
+  }
+ ],
+ "image_defaults": {
+  "type": "disk_scattered",
+  "facility": "VLT-SPHERE",
+  "instrument": "IRDIS",
+  "wavelength_um": 1.65,
+  "wavelength_label": "H band (H23); warped edge-on disk (RDI-PCA)",
+  "technique": "RDI"
+ },
+ "credit": "Stasevic et al. 2023, Fig. 2 (crop; H23 panel)",
+ "paper": {
+  "first_author": "Stasevic",
+  "year": 2023,
+  "title": "An inner warp discovered in the disk around HD 110058 using VLT/SPHERE and HST/STIS",
+  "journal": "A&A 678, A8",
+  "arxiv": "2308.05613",
+  "bibcode": "2023A&A...678A...8S"
+ }
+}

@@ -1,0 +1,36 @@
+{
+ "survey": "o-hd135344b-sphere2016",
+ "survey_name": null,
+ "source_image": "images/_sources/extracted/1603.00481/figures/images_irdis.pdf",
+ "pdf_page": 1,
+ "dpi": 250,
+ "credit": "Stolker et al. 2016, Fig. 2 (crop: IRDIS J-band r^2-scaled Q_phi image; spiral arms + shadow lanes cast by the inner disk)",
+ "paper": {
+  "first_author": "Stolker",
+  "year": 2016,
+  "title": "Shadows cast on the transition disk of HD 135344B: Multiwavelength VLT/SPHERE polarimetric differential imaging",
+  "journal": "A&A 595, A113",
+  "arxiv": "1603.00481",
+  "bibcode": "2016A&A...595A.113S"
+ },
+ "panels": [
+  {
+   "id": "hd-135344b",
+   "image_id": "hd-135344b_sphere2016",
+   "bbox_frac": [
+    0.341,
+    0.5,
+    0.647,
+    0.748
+   ]
+  }
+ ],
+ "image_defaults": {
+  "type": "disk_scattered",
+  "facility": "VLT-SPHERE",
+  "instrument": "IRDIS",
+  "wavelength_um": 1.245,
+  "wavelength_label": "J band Q_phi (r^2-scaled); spirals + shadows cast by the inner disk",
+  "technique": "PDI"
+ }
+}

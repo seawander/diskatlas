@@ -1,0 +1,49 @@
+{
+ "id": "pg-1116-215",
+ "name": "PG 1116+215",
+ "alt_names": [],
+ "simbad": "PG 1116+215",
+ "ra_deg": 169.7861609251,
+ "dec_deg": 21.32166307943,
+ "dist_pc": null,
+ "plx_mas": null,
+ "mags": {
+  "B": 14.91,
+  "V": 14.8,
+  "G": 14.691206,
+  "J": 13.592,
+  "H": 12.684,
+  "K": 11.54
+ },
+ "sptype": "QSO (z=0.177)",
+ "region": "extragalactic",
+ "categories": [
+  "quasar"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "type": "quasar",
+   "facility": "HST",
+   "instrument": "WFPC2 (WFC)",
+   "wavelength_um": 0.6,
+   "wavelength_label": "F606W; PSF-subtracted quasar image (host-galaxy upper limit, the 'naked quasar' result)",
+   "technique": "other",
+   "image_id": "pg-1116-215_bahcall1994",
+   "file": "images/pg-1116-215/pg-1116-215_bahcall1994.png",
+   "survey": "Bahcall-quasars-1994",
+   "credit": "Bahcall et al. 1994, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Bahcall",
+    "year": 1994,
+    "title": "HST Images of Nearby Luminous Quasars",
+    "journal": "ApJL 435, L11",
+    "arxiv": "astro-ph/9409028",
+    "bibcode": "1994ApJ...435L..11B"
+   }
+  }
+ ],
+ "notes": "Luminous radio-quiet PG quasar (V=15.0) from the Bahcall, Kirhakos & Schneider 1994 HST/WFPC2 study (host upper limit in Paper I); one of the three candidate host-galaxy detections of Bahcall et al. 1995 (Paper II, with 3C 273 and PG 1444+407). Added by batch T; redshift from Paper I Table 1. Coordinates pending SIMBAD via coords_todo_batchT.",
+ "last_updated": "2026-07-06",
+ "redshift": 0.177
+}

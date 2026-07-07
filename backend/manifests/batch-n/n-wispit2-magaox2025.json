@@ -1,0 +1,27 @@
+{
+ "survey": "n-wispit2-magaox2025",
+ "survey_name": null,
+ "source_image": "images/_sources/extracted/2508.19046/2508.19046.pdf",
+ "pdf_page": 8,
+ "dpi": 220,
+ "credit": "Close et al. 2025, Fig. 1 (crop: 2025 Apr 16 H-alpha image; b in the annular gap, dashed line traces ring 2)",
+ "paper": {
+  "first_author": "Close",
+  "year": 2025,
+  "title": "Wide Separation Planets In Time (WISPIT): Discovery of a Gap H-alpha Protoplanet WISPIT 2b with MagAO-X",
+  "journal": "ApJL 990, L9",
+  "arxiv": "2508.19046",
+  "bibcode": "2025ApJ...990L...9C"
+ },
+ "panels": [
+  { "id": "wispit-2", "image_id": "wispit-2_magaox2025", "bbox_frac": [0.4075, 0.4705, 0.6465, 0.6405] }
+ ],
+ "image_defaults": {
+  "type": "planet",
+  "facility": "Magellan-MagAO-X",
+  "instrument": "MagAO-X",
+  "wavelength_um": 0.656,
+  "wavelength_label": "H-alpha; accreting gap protoplanet b (SNR 12.5), dashed ellipse traces ring 2",
+  "technique": "other"
+ }
+}

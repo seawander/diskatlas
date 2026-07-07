@@ -1,0 +1,35 @@
+{
+ "survey": "pl-hr8799-2010",
+ "survey_name": null,
+ "source_image": "images/_sources/extracted/1011.4918/1011.4918.pdf",
+ "pdf_page": 15,
+ "panels": [
+  {
+   "id": "hr-8799",
+   "image_id": "hr-8799_keck2010",
+   "bbox_frac": [
+    0.088,
+    0.32,
+    0.68,
+    0.546
+   ]
+  }
+ ],
+ "image_defaults": {
+  "type": "planet",
+  "facility": "Keck",
+  "instrument": "NIRC2",
+  "wavelength_um": 3.8,
+  "wavelength_label": "L' band; planet e discovery",
+  "technique": "ADI"
+ },
+ "credit": "Marois et al. 2010, Fig. 1 (crop)",
+ "paper": {
+  "first_author": "Marois",
+  "year": 2010,
+  "title": "Images of a fourth planet orbiting HR 8799",
+  "journal": "Nature 468, 1080",
+  "arxiv": "1011.4918",
+  "bibcode": "2010Natur.468.1080M"
+ }
+}

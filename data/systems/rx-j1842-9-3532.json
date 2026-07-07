@@ -1,0 +1,71 @@
+{
+ "id": "rx-j1842-9-3532",
+ "name": "RX J1842.9-3532",
+ "alt_names": [
+  "J1842"
+ ],
+ "simbad": "RX J1842.9-3532",
+ "ra_deg": 280.7415890118799,
+ "dec_deg": -35.54522965576,
+ "dist_pc": 151.0,
+ "sptype": "K2",
+ "region": "CrA",
+ "categories": [
+  "protoplanetary"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "technique": "interferometry",
+   "instrument": "Band 7",
+   "wavelength_um": 900,
+   "wavelength_label": "0.9 mm continuum",
+   "image_id": "rx-j1842-9-3532_exoalma",
+   "survey": "exoALMA",
+   "file": "images/rx-j1842-9-3532/rx-j1842-9-3532_exoalma.png",
+   "credit": "Curone et al. 2025, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Curone",
+    "year": 2025,
+    "title": "exoALMA IV: Substructures, Asymmetries, and the Faint Outer Disk in Continuum Emission",
+    "journal": "ApJL (exoALMA special issue)",
+    "arxiv": "2504.18725",
+    "bibcode": null
+   }
+  },
+  {
+   "image_id": "rx-j1842-9-3532_alice-f110w",
+   "type": "disk_scattered",
+   "facility": "HST",
+   "instrument": "NICMOS",
+   "wavelength_um": 1.1,
+   "wavelength_label": "F110W 1.1 um (ALICE archival reprocessing, combined coadd)",
+   "technique": "RDI",
+   "survey": "ALICE",
+   "file": "images/rx-j1842-9-3532/rx-j1842-9-3532_alice-f110w.png",
+   "credit": "ALICE HLSP v1 combined coadd (HST program 10849, STScI) — hi-res: ALICE archive (STScI)",
+   "paper": {
+    "first_author": "Hagan",
+    "year": 2018,
+    "title": "ALICE Data Release: A revaluation of HST-NICMOS coronagraphic images",
+    "journal": "AJ 155, 179",
+    "arxiv": "1802.07754",
+    "bibcode": null
+   },
+   "hires_url": "https://archive.stsci.edu/prepds/alice/"
+  }
+ ],
+ "notes": null,
+ "last_updated": "2026-07-07",
+ "plx_mas": 6.6212,
+ "mags": {
+  "B": 12.91,
+  "V": 11.77,
+  "G": 11.720253,
+  "J": 9.499,
+  "H": 8.709,
+  "K": 8.17
+ }
+}

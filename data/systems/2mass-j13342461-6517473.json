@@ -1,0 +1,48 @@
+{
+ "id": "2mass-j13342461-6517473",
+ "name": "2MASS J13342461-6517473",
+ "alt_names": [],
+ "simbad": "2MASS J13342461-6517473",
+ "ra_deg": 203.60255705771,
+ "dec_deg": -65.29647066064,
+ "dist_pc": 110.9,
+ "plx_mas": 9.014,
+ "mags": {
+  "V": 13.46,
+  "G": 12.571923,
+  "J": 10.205,
+  "H": 9.526,
+  "K": 9.276
+ },
+ "sptype": "K9IVe",
+ "region": "Chamaeleon II",
+ "categories": [
+  "protoplanetary"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "image_id": "2mass-j13342461-6517473_destinys",
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS",
+   "wavelength_um": 1.65,
+   "wavelength_label": "H band polarized light",
+   "technique": "PDI",
+   "survey": "SPHERE-NIR-census",
+   "file": "images/2mass-j13342461-6517473/2mass-j13342461-6517473_destinys.png",
+   "credit": "Garufi et al. 2026, Fig. A.1 (crop)",
+   "hires_url": null,
+   "paper": {
+    "first_author": "Garufi",
+    "year": 2026,
+    "title": "Planet-forming disks and their environment across regions and time from the full NIR census",
+    "journal": "A&A, in press",
+    "arxiv": "2603.01703",
+    "bibcode": null
+   }
+  }
+ ],
+ "notes": "First-published SPHERE/IRDIS H-band polarimetric image (DESTINYS). A disk with P.A. 100 deg is clearly detected around the coronagraph; a tenuous ring at 0.4\" suggests an inclined geometry. Disk features: ring (Garufi et al. 2026, Table A.5/Fig. A.1).",
+ "last_updated": "2026-07-06"
+}

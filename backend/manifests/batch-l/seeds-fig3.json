@@ -1,0 +1,37 @@
+{
+  "survey": "seeds-fig3",
+  "survey_name": "SEEDS",
+  "source_image": "images/_sources/extra/seeds_tamura2016.pdf",
+  "pdf_page": 8,
+  "dpi": 350,
+  "grid": {
+    "rows": 4,
+    "cols": 5,
+    "image_id_pattern": "{id}_seeds",
+    "trim_frac": [0.1861, 0.1282, 0.1861, 0.4782],
+    "order": [
+      null, null, null, "lkha-330", null,
+      null, null, null, null, null,
+      null, "hd-142527", null, null, "gm-aur",
+      null, null, null, null, null
+    ]
+  },
+  "_layout_note": "Tamura 2016 (PJAB 92, 45) Fig. 3, PDF page 8: 4x5 gallery. Row 1: AB Aur, SAO 206462, MWC 758, LkHa 330, TW Hya. Row 2: PDS 70, Sz 91, WLY 2-48, LkCa 15, HR 4796A. Row 3: AB Aur close-up, HD 142527, HD 169142, RX J1604.3-2130A, GM Aur. Row 4: RY Tau, SR 21, MWC 480, UX Tau A, HIP 79977. Only the three panels whose originals are 'in prep.' in the caption are cropped; the other 13 atlas records already carry crops from the original publications, and AB Aur/SAO 206462/RX J1604.3-2130A already have the same SEEDS data as _seeds2011/_seeds2012 images.",
+  "image_defaults": {
+    "type": "disk_scattered",
+    "facility": "Subaru-HiCIAO",
+    "instrument": "HiCIAO",
+    "wavelength_um": 1.65,
+    "wavelength_label": "H band (pol. intensity)",
+    "technique": "PDI"
+  },
+  "credit": null,
+  "paper": {
+    "first_author": "Tamura",
+    "year": 2016,
+    "title": "SEEDS - Strategic Explorations of Exoplanets and Disks with the Subaru Telescope",
+    "journal": "Proc. Japan Acad. Ser. B 92, 45",
+    "arxiv": null,
+    "bibcode": "2016PJAB...92...45T"
+  }
+}

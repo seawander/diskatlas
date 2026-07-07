@@ -1,0 +1,309 @@
+{
+ "id": "hd-32297",
+ "name": "HD 32297",
+ "alt_names": [],
+ "simbad": "HD 32297",
+ "ra_deg": 75.61431614758,
+ "dec_deg": 7.46102182035,
+ "dist_pc": 129.7,
+ "sptype": "A0V",
+ "region": null,
+ "categories": [
+  "debris"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "type": "disk_mm",
+   "facility": "ALMA/SMA",
+   "technique": "interferometry",
+   "instrument": "Band 6/7",
+   "wavelength_um": 1300,
+   "wavelength_label": "~0.9-1.3 mm continuum",
+   "image_id": "hd-32297_reasons",
+   "survey": "REASONS",
+   "file": "images/hd-32297/hd-32297_reasons.png",
+   "credit": "Matrà et al. 2025, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Matra",
+    "year": 2025,
+    "title": "REsolved ALMA and SMA Observations of Nearby Stars (REASONS): A population of 74 resolved planetesimal belts at millimetre wavelengths",
+    "journal": "A&A 693, A151",
+    "arxiv": "2501.09058",
+    "bibcode": "2025A&A...693A.151M"
+   }
+  },
+  {
+   "type": "disk_scattered",
+   "facility": "Gemini-GPI",
+   "instrument": "IFS pol",
+   "wavelength_um": 1.65,
+   "wavelength_label": "H band 1.6 um (pol. intensity)",
+   "technique": "PDI",
+   "image_id": "hd-32297_gpies-debris",
+   "survey": "GPIES-debris",
+   "file": "images/hd-32297/hd-32297_gpies-debris.png",
+   "credit": "Esposito et al. 2020, Fig. 5 (crop)",
+   "paper": {
+    "first_author": "Esposito",
+    "year": 2020,
+    "title": "Debris Disk Results from the Gemini Planet Imager Exoplanet Survey's Polarimetric Imaging Campaign",
+    "journal": "AJ 160, 24",
+    "arxiv": "2004.13722",
+    "bibcode": "2020AJ....160...24E"
+   }
+  },
+  {
+   "type": "disk_scattered",
+   "facility": "HST",
+   "instrument": "NICMOS",
+   "wavelength_um": 1.1,
+   "wavelength_label": "F110W 1.1 um; discovery of the edge-on disk (NICMOS)",
+   "technique": "coronagraphy",
+   "survey": null,
+   "credit": "Schneider et al. 2005, Fig. 1b (crop)",
+   "paper": {
+    "first_author": "Schneider",
+    "year": 2005,
+    "title": "Discovery of a Nearly Edge-on Disk around HD 32297",
+    "journal": "ApJL 629, L117",
+    "arxiv": "astro-ph/0507355",
+    "bibcode": "2005ApJ...629L.117S"
+   },
+   "image_id": "hd-32297_stis2005",
+   "file": "images/hd-32297/hd-32297_stis2005.png"
+  },
+  {
+   "type": "disk_scattered",
+   "facility": "HST",
+   "instrument": "STIS",
+   "wavelength_um": 0.58,
+   "wavelength_label": "0.2-1.0 um broadband (optical)",
+   "technique": "coronagraphy",
+   "image_id": "hd-32297_stis-schneider14",
+   "survey": "STIS-Schneider14",
+   "file": "images/hd-32297/hd-32297_stis-schneider14.png",
+   "credit": "Schneider et al. 2014 (crop; per-target STIS PSFTSC figures)",
+   "paper": {
+    "first_author": "Schneider",
+    "year": 2014,
+    "title": "Probing for Exoplanets Hiding in Dusty Debris Disks: Disk Imaging, Characterization, and Exploration with HST/STIS Multi-Roll Coronagraphy",
+    "journal": "AJ 148, 59",
+    "arxiv": "1406.7303",
+    "bibcode": "2014AJ....148...59S"
+   }
+  },
+  {
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 7/6",
+   "wavelength_um": 880,
+   "wavelength_label": "~0.88-1.3 mm continuum",
+   "technique": "interferometry",
+   "image_id": "hd-32297_arks",
+   "file": "images/hd-32297/hd-32297_arks.png",
+   "survey": "ARKS",
+   "credit": "Marino et al. 2026, Fig. 3 (crop)",
+   "paper": {
+    "first_author": "Marino",
+    "year": 2026,
+    "title": "The ALMA survey to Resolve exoKuiper belt Substructures (ARKS) I: Motivation, sample, data reduction, and results overview",
+    "journal": "A&A",
+    "arxiv": "2601.11708",
+    "bibcode": null
+   }
+  },
+  {
+   "type": "disk_scattered",
+   "facility": "HST",
+   "instrument": "NICMOS",
+   "wavelength_um": 1.12,
+   "wavelength_label": "F110W 1.12 um (NMF reprocessing)",
+   "technique": "RDI",
+   "image_id": "hd-32297_nicmos-ren2023",
+   "file": "images/hd-32297/hd-32297_nicmos-ren2023.png",
+   "survey": "NICMOS-Ren2023",
+   "credit": "Ren et al. 2023, Fig. 3 (crop)",
+   "paper": {
+    "first_author": "Ren",
+    "year": 2023,
+    "title": "Debris Disk Color with the Hubble Space Telescope",
+    "journal": "A&A 672, A114",
+    "arxiv": "2302.04273",
+    "bibcode": "2023A&A...672A.114R"
+   }
+  },
+  {
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS DPI",
+   "wavelength_um": 1.65,
+   "wavelength_label": "H band 1.6 um (pol. intensity)",
+   "technique": "PDI",
+   "image_id": "hd-32297_sphere-debris-2025",
+   "file": "images/hd-32297/hd-32297_sphere-debris-2025.png",
+   "survey": "SPHERE-debris-2025",
+   "credit": "Engler et al. 2025, Fig. 5a (crop)",
+   "paper": {
+    "first_author": "Engler",
+    "year": 2025,
+    "title": "Characterization of debris disks observed with SPHERE",
+    "journal": "A&A 704, A21",
+    "arxiv": "2512.03128",
+    "bibcode": null
+   }
+  },
+  {
+   "type": "disk_scattered",
+   "facility": "HST",
+   "instrument": "STIS",
+   "wavelength_um": 0.58,
+   "wavelength_label": "0.2-1.0 um broadband (optical)",
+   "technique": "coronagraphy",
+   "image_id": "hd-32297_stis-ren",
+   "file": "images/hd-32297/hd-32297_stis-ren.png",
+   "survey": "STIS-Ren",
+   "credit": "Ren et al. 2023, Fig. 2 (crop)",
+   "paper": {
+    "first_author": "Ren",
+    "year": 2023,
+    "title": "Debris Disk Color with the Hubble Space Telescope",
+    "journal": "A&A 672, A114",
+    "arxiv": "2302.04273",
+    "bibcode": "2023A&A...672A.114R"
+   }
+  },
+  {
+   "image_id": "hd-32297_alma2018",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 6",
+   "wavelength_um": 1300,
+   "wavelength_label": "1.3 mm continuum (CO 2-1 contours)",
+   "technique": "interferometry",
+   "survey": null,
+   "file": "images/hd-32297/hd-32297_alma2018.png",
+   "credit": "MacGregor et al. 2018, Fig. 5 (crop)",
+   "paper": {
+    "first_author": "MacGregor",
+    "year": 2018,
+    "title": "ALMA Detection of Extended Millimeter Halos in the HD 32297 and HD 61005 Debris Disks",
+    "journal": "ApJ 869, 75",
+    "arxiv": "1812.05610",
+    "bibcode": "2018ApJ...869...75M"
+   }
+  },
+  {
+   "image_id": "hd-32297_alice-f110w",
+   "type": "disk_scattered",
+   "facility": "HST",
+   "instrument": "NICMOS",
+   "wavelength_um": 1.1,
+   "wavelength_label": "F110W 1.1 um (ALICE archival reprocessing, combined coadd)",
+   "technique": "RDI",
+   "survey": "ALICE",
+   "file": "images/hd-32297/hd-32297_alice-f110w.png",
+   "credit": "ALICE HLSP v1 combined coadd (HST program 10177, STScI) — hi-res: ALICE archive (STScI)",
+   "paper": {
+    "first_author": "Hagan",
+    "year": 2018,
+    "title": "ALICE Data Release: A revaluation of HST-NICMOS coronagraphic images",
+    "journal": "AJ 155, 179",
+    "arxiv": "1802.07754",
+    "bibcode": null
+   },
+   "hires_url": "https://archive.stsci.edu/prepds/alice/"
+  },
+  {
+   "image_id": "hd-32297_gpi-crotts24",
+   "type": "disk_scattered",
+   "facility": "Gemini-GPI",
+   "instrument": "IFS pol",
+   "wavelength_um": 1.65,
+   "wavelength_label": "H band 1.6 um (pol. intensity, Qphi)",
+   "technique": "PDI",
+   "survey": "GPI-Crotts2024",
+   "file": "images/hd-32297/hd-32297_gpi-crotts24.png",
+   "credit": "Crotts et al. 2024, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Crotts",
+    "year": 2024,
+    "title": "A Uniform Analysis of Debris Disks with the Gemini Planet Imager I: An Empirical Search for Perturbations from Planetary Companions in Polarized Light Images",
+    "journal": "ApJ 961, 245",
+    "arxiv": "2311.14599",
+    "bibcode": "2024ApJ...961..245C"
+   }
+  },
+  {
+   "image_id": "hd-32297_lbti2014",
+   "type": "disk_scattered",
+   "facility": "LBT",
+   "instrument": "LBTI/LMIRCam",
+   "wavelength_um": 3.8,
+   "wavelength_label": "L' (3.8 um)",
+   "technique": "ADI adaptive-optics imaging (LBT)",
+   "survey": null,
+   "file": "images/hd-32297/hd-32297_lbti2014.png",
+   "credit": "Rodigas et al. 2014, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Rodigas",
+    "year": 2014,
+    "title": "Does the Debris Disk around HD 32297 Contain Cometary Grains?",
+    "journal": "ApJ 783, 21",
+    "arxiv": "1401.3343",
+    "bibcode": "2014ApJ...783...21R"
+   }
+  },
+  {
+   "image_id": "hd-32297_gpi-hom24",
+   "type": "disk_scattered",
+   "facility": "Gemini-GPI",
+   "instrument": "IFS",
+   "wavelength_um": 1.65,
+   "wavelength_label": "H band 1.6 um (total intensity, KLIP)",
+   "technique": "ADI/KLIP",
+   "survey": "GPI-Hom2024",
+   "credit": "Hom et al. 2024, Fig. 3 (top) (crop: KLIP reduced data)",
+   "paper": {
+    "first_author": "Hom",
+    "year": 2024,
+    "title": "A Uniform Analysis of Debris Disks with the Gemini Planet Imager II: Constraints on Dust Density Distribution Using Empirically-Informed Scattering Phase Functions",
+    "journal": "MNRAS",
+    "arxiv": "2402.00214",
+    "bibcode": null
+   },
+   "file": "images/hd-32297/hd-32297_gpi-hom24.png"
+  },
+  {
+   "image_id": "hd-32297_alma-co2019",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "7m array, Band 6 (12CO 2-1 zeroth moment)",
+   "wavelength_um": 1300,
+   "wavelength_label": "12CO (2-1) zeroth moment map",
+   "technique": "interferometry",
+   "survey": null,
+   "credit": "Moor et al. 2019, Fig. 1f (crop)",
+   "paper": {
+    "first_author": "Moor",
+    "year": 2019,
+    "title": "New Millimeter CO Observations of the Gas-rich Debris Disks 49 Cet and HD 32297",
+    "journal": "ApJ 884, 108",
+    "arxiv": "1908.09685",
+    "bibcode": "2019ApJ...884..108M"
+   },
+   "file": "images/hd-32297/hd-32297_alma-co2019.png"
+  }
+ ],
+ "notes": null,
+ "last_updated": "2026-07-07",
+ "plx_mas": 7.7081,
+ "mags": {
+  "B": 8.32,
+  "V": 8.14,
+  "G": 8.098379,
+  "J": 7.687,
+  "H": 7.624,
+  "K": 7.594
+ }
+}

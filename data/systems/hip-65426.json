@@ -1,0 +1,98 @@
+{
+ "id": "hip-65426",
+ "name": "HIP 65426",
+ "alt_names": [],
+ "simbad": "HIP 65426",
+ "ra_deg": 201.15040723346,
+ "dec_deg": -51.5044568644,
+ "dist_pc": 107.5,
+ "sptype": "A2V",
+ "region": "Sco-Cen",
+ "categories": [],
+ "planets": [
+  {
+   "name": "b",
+   "status": "confirmed",
+   "paper": {
+    "first_author": "Chauvin",
+    "year": 2017,
+    "arxiv": "1707.01413",
+    "bibcode": "2017A&A...605L...9C"
+   }
+  }
+ ],
+ "images": [
+  {
+   "type": "planet",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS+IFS",
+   "wavelength_um": 1.65,
+   "wavelength_label": "H2H3 band; SHINE discovery",
+   "technique": "ADI",
+   "survey": null,
+   "credit": "Chauvin et al. 2017, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Chauvin",
+    "year": 2017,
+    "title": "Discovery of a warm, dusty giant planet around HIP 65426",
+    "journal": "A&A 605, L9",
+    "arxiv": "1707.01413",
+    "bibcode": "2017A&A...605L...9C"
+   },
+   "image_id": "hip-65426_sphere2017",
+   "file": "images/hip-65426/hip-65426_sphere2017.png"
+  },
+  {
+   "type": "planet",
+   "facility": "JWST",
+   "instrument": "NIRCam+MIRI",
+   "wavelength_um": 11.4,
+   "wavelength_label": "2-16 um; first JWST exoplanet imaging",
+   "technique": "coronagraphy",
+   "survey": null,
+   "credit": "Carter et al. 2023, Fig. 8 (crop)",
+   "paper": {
+    "first_author": "Carter",
+    "year": 2023,
+    "title": "The JWST Early Release Science Program for Direct Observations of Exoplanetary Systems I: High-Contrast Imaging of the Exoplanet HIP 65426 b from 2-16 um",
+    "journal": "ApJL 951, L20",
+    "arxiv": "2208.14990",
+    "bibcode": "2023ApJ...951L..20C"
+   },
+   "image_id": "hip-65426_jwst2023",
+   "file": "images/hip-65426/hip-65426_jwst2023.png"
+  },
+  {
+   "type": "planet",
+   "facility": "JWST",
+   "instrument": "MIRI F1140C",
+   "wavelength_um": 11.4,
+   "wavelength_label": "11.4 um coronagraphy (ADI+RDI); planet b",
+   "technique": "coronagraphy",
+   "image_id": "hip-65426_jwst2023-f1140c",
+   "file": "images/hip-65426/hip-65426_jwst2023-f1140c.png",
+   "survey": null,
+   "credit": "Carter et al. 2023, Fig. 13 (crop)",
+   "paper": {
+    "first_author": "Carter",
+    "year": 2023,
+    "title": "The JWST Early Release Science Program for Direct Observations of Exoplanetary Systems I: High-Contrast Imaging of the Exoplanet HIP 65426 b from 2-16 um",
+    "journal": "ApJL 951, L20",
+    "arxiv": "2208.14990",
+    "bibcode": "2023ApJ...951L..20C"
+   }
+  }
+ ],
+ "notes": null,
+ "last_updated": "2026-07-07",
+ "plx_mas": 9.3031,
+ "mags": {
+  "B": 7.08,
+  "V": 6.98,
+  "G": 6.998614,
+  "I": 6.87,
+  "J": 6.826,
+  "H": 6.853,
+  "K": 6.771
+ }
+}

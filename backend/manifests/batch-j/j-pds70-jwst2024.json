@@ -1,0 +1,21 @@
+{
+ "survey": "j-pds70-jwst2024",
+ "survey_name": null,
+ "source_image": "images/_sources/extracted/2403.04855/Fig1_v10.pdf",
+ "pdf_page": null,
+ "panels": [
+  {
+   "id": "pds-70",
+   "image_id": "pds-70_jwst2024",
+   "bbox_frac": [
+    0.36,
+    0.492,
+    0.622,
+    1.0
+   ]
+  }
+ ],
+ "image_defaults": {},
+ "credit": "Christiaens et al. 2024, Fig. 1e (crop: F480M disk-subtracted, b & c circled)",
+ "paper": null
+}

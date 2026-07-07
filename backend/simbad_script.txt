@@ -1,0 +1,545 @@
+format object form1 "%IDLIST(1)|%COO(d;A D)|%PLX(V)|%SP(S)|%FLUXLIST(U,B,V,G,R,I,J,H,K;N=F,)"
+echodata ###HT Lup
+query id HT Lup
+echodata ###GW Lup
+query id GW Lup
+echodata ###IM Lup
+query id IM Lup
+echodata ###RU Lup
+query id RU Lup
+echodata ###Sz 114
+query id Sz 114
+echodata ###Sz 129
+query id Sz 129
+echodata ###MY Lup
+query id MY Lup
+echodata ###HD 142666
+query id HD 142666
+echodata ###HD 143006
+query id HD 143006
+echodata ###AS 205
+query id AS 205
+echodata ###EM* SR 4
+query id EM* SR 4
+echodata ###Elia 2-20
+query id Elia 2-20
+echodata ###DoAr 25
+query id DoAr 25
+echodata ###Elia 2-24
+query id Elia 2-24
+echodata ###Elia 2-27
+query id Elia 2-27
+echodata ###DoAr 33
+query id DoAr 33
+echodata ###WSB 52
+query id WSB 52
+echodata ###V2508 Oph
+query id V2508 Oph
+echodata ###AS 209
+query id AS 209
+echodata ###HD 163296
+query id HD 163296
+echodata ###CI Tau
+query id CI Tau
+echodata ###CIDA 9
+query id CIDA 9
+echodata ###DL Tau
+query id DL Tau
+echodata ###DN Tau
+query id DN Tau
+echodata ###DS Tau
+query id DS Tau
+echodata ###FT Tau
+query id FT Tau
+echodata ###GO Tau
+query id GO Tau
+echodata ###IP Tau
+query id IP Tau
+echodata ###IQ Tau
+query id IQ Tau
+echodata ###MWC 480
+query id MWC 480
+echodata ###RY Tau
+query id RY Tau
+echodata ###UZ Tau
+query id UZ Tau
+echodata ###BP Tau
+query id BP Tau
+echodata ###V409 Tau
+query id V409 Tau
+echodata ###DR Tau
+query id DR Tau
+echodata ###HO Tau
+query id HO Tau
+echodata ###Haro 6-13
+query id Haro 6-13
+echodata ###DO Tau
+query id DO Tau
+echodata ###DQ Tau
+query id DQ Tau
+echodata ###GI Tau
+query id GI Tau
+echodata ###V836 Tau
+query id V836 Tau
+echodata ###HQ Tau
+query id HQ Tau
+echodata ###HP Tau
+query id HP Tau
+echodata ###GK Tau
+query id GK Tau
+echodata ###V710 Tau
+query id V710 Tau
+echodata ###HK Tau
+query id HK Tau
+echodata ###DH Tau
+query id DH Tau
+echodata ###T Tau
+query id T Tau
+echodata ###HN Tau
+query id HN Tau
+echodata ###RW Aur
+query id RW Aur
+echodata ###DK Tau
+query id DK Tau
+echodata ###UY Aur
+query id UY Aur
+echodata ###AA Tau
+query id AA Tau
+echodata ###CQ Tau
+query id CQ Tau
+echodata ###DM Tau
+query id DM Tau
+echodata ###HD 34282
+query id HD 34282
+echodata ###HD 135344B
+query id HD 135344B
+echodata ###2MASS J16042165-2130284
+query id 2MASS J16042165-2130284
+echodata ###RX J1615.3-3255
+query id RX J1615.3-3255
+echodata ###RX J1842.9-3532
+query id RX J1842.9-3532
+echodata ###RX J1852.3-3700
+query id RX J1852.3-3700
+echodata ###LkCa 15
+query id LkCa 15
+echodata ###MWC 758
+query id MWC 758
+echodata ###PDS 66
+query id PDS 66
+echodata ###SY Cha
+query id SY Cha
+echodata ###V4046 Sgr
+query id V4046 Sgr
+echodata ###ISO-Oph 54
+query id ISO-Oph 54
+echodata ###WLY 2-63
+query id WLY 2-63
+echodata ###ISO-Oph 37
+query id ISO-Oph 37
+echodata ###ISO-Oph 17
+query id ISO-Oph 17
+echodata ###DoAr 44
+query id DoAr 44
+echodata ###WSB 82
+query id WSB 82
+echodata ###ISO-Oph 2
+query id ISO-Oph 2
+echodata ###ISO-Oph 196
+query id ISO-Oph 196
+echodata ###EM* SR 24S
+query id EM* SR 24S
+echodata ###RX J1633.9-2442
+query id RX J1633.9-2442
+echodata ###HD 105
+query id HD 105
+echodata ###GJ 14
+query id GJ 14
+echodata ###49 Cet
+query id 49 Cet
+echodata ###HD 10638
+query id HD 10638
+echodata ###HD 10647
+query id HD 10647
+echodata ###HD 14055
+query id HD 14055
+echodata ###HD 15115
+query id HD 15115
+echodata ###HD 15257
+query id HD 15257
+echodata ###HD 15745
+query id HD 15745
+echodata ###HD 16743
+query id HD 16743
+echodata ###HD 21997
+query id HD 21997
+echodata ###HD 22049
+query id HD 22049
+echodata ###HD 32297
+query id HD 32297
+echodata ###HD 35841
+query id HD 35841
+echodata ###HD 36546
+query id HD 36546
+echodata ###HD 38206
+query id HD 38206
+echodata ###HD 38858
+query id HD 38858
+echodata ###beta Pic
+query id beta Pic
+echodata ###HD 48682
+query id HD 48682
+echodata ###HD 50571
+query id HD 50571
+echodata ###HD 53143
+query id HD 53143
+echodata ###HD 54341
+query id HD 54341
+echodata ###HD 61005
+query id HD 61005
+echodata ###HD 76582
+query id HD 76582
+echodata ###HD 84870
+query id HD 84870
+echodata ###TWA 7
+query id TWA 7
+echodata ###HD 92945
+query id HD 92945
+echodata ###HD 95086
+query id HD 95086
+echodata ###HD 104860
+query id HD 104860
+echodata ###HD 105211
+query id HD 105211
+echodata ###HD 106906
+query id HD 106906
+echodata ###HD 107146
+query id HD 107146
+echodata ###eta Crv
+query id eta Crv
+echodata ###HR 4796A
+query id HR 4796A
+echodata ###HD 110058
+query id HD 110058
+echodata ###HD 111520
+query id HD 111520
+echodata ###HD 112810
+query id HD 112810
+echodata ###HD 113556
+query id HD 113556
+echodata ###HD 113766
+query id HD 113766
+echodata ###HD 114082
+query id HD 114082
+echodata ###HD 115600
+query id HD 115600
+echodata ###HD 117214
+query id HD 117214
+echodata ###HD 121191
+query id HD 121191
+echodata ###HD 121617
+query id HD 121617
+echodata ###HD 127821
+query id HD 127821
+echodata ###HD 129590
+query id HD 129590
+echodata ###HD 131488
+query id HD 131488
+echodata ###HD 131835
+query id HD 131835
+echodata ###HD 138813
+query id HD 138813
+echodata ###HD 139664
+query id HD 139664
+echodata ###HD 142315
+query id HD 142315
+echodata ###HD 142446
+query id HD 142446
+echodata ###HD 145560
+query id HD 145560
+echodata ###HD 146181
+query id HD 146181
+echodata ###HD 146897
+query id HD 146897
+echodata ###HD 147137
+query id HD 147137
+echodata ###HD 158352
+query id HD 158352
+echodata ###HD 161868
+query id HD 161868
+echodata ###HD 164249
+query id HD 164249
+echodata ###GSC 07396-00759
+query id GSC 07396-00759
+echodata ###HD 170773
+query id HD 170773
+echodata ###Vega
+query id Vega
+echodata ###HD 181327
+query id HD 181327
+echodata ###HD 182681
+query id HD 182681
+echodata ###HD 191089
+query id HD 191089
+echodata ###AU Mic
+query id AU Mic
+echodata ###HD 202628
+query id HD 202628
+echodata ###HD 205674
+query id HD 205674
+echodata ###HD 206893
+query id HD 206893
+echodata ###HD 207129
+query id HD 207129
+echodata ###TYC 9340-437-1
+query id TYC 9340-437-1
+echodata ###Fomalhaut
+query id Fomalhaut
+echodata ###Fomalhaut C
+query id Fomalhaut C
+echodata ###HR 8799
+query id HR 8799
+echodata ###HR 4796
+query id HR 4796
+echodata ###HD 30447
+query id HD 30447
+echodata ###HD 111161
+query id HD 111161
+echodata ###HD 143675
+query id HD 143675
+echodata ###HD 156623
+query id HD 156623
+echodata ###HD 157587
+query id HD 157587
+echodata ###HR 7012
+query id HR 7012
+echodata ###NZ Lup
+query id NZ Lup
+echodata ###AK Sco
+query id AK Sco
+echodata ###HD 100546
+query id HD 100546
+echodata ###HD 141569
+query id HD 141569
+echodata ###HD 100453
+query id HD 100453
+echodata ###HD 139614
+query id HD 139614
+echodata ###HD 34700
+query id HD 34700
+echodata ###HD 142527
+query id HD 142527
+echodata ###HD 169142
+query id HD 169142
+echodata ###HD 97048
+query id HD 97048
+echodata ###HD 45677
+query id HD 45677
+echodata ###HD 50138
+query id HD 50138
+echodata ###HD 145718
+query id HD 145718
+echodata ###MWC 297
+query id MWC 297
+echodata ###MWC 614
+query id MWC 614
+echodata ###MWC 789
+query id MWC 789
+echodata ###FU Ori
+query id FU Ori
+echodata ###GW Ori
+query id GW Ori
+echodata ###Hen 3-365
+query id Hen 3-365
+echodata ###GM Aur
+query id GM Aur
+echodata ###GG Tau
+query id GG Tau
+echodata ###AB Aur
+query id AB Aur
+echodata ###DG Tau
+query id DG Tau
+echodata ###UX Tau
+query id UX Tau
+echodata ###SU Aur
+query id SU Aur
+echodata ###CY Tau
+query id CY Tau
+echodata ###CX Tau
+query id CX Tau
+echodata ###DE Tau
+query id DE Tau
+echodata ###CW Tau
+query id CW Tau
+echodata ###HD 377
+query id HD 377
+echodata ###HD 35650
+query id HD 35650
+echodata ###HD 141943
+query id HD 141943
+echodata ###HD 192758
+query id HD 192758
+echodata ###HD 202917
+query id HD 202917
+echodata ###TWA 25
+query id TWA 25
+echodata ###LkHa 330
+query id LkHa 330
+echodata ###PDS 201
+query id PDS 201
+echodata ###SZ Cha
+query id SZ Cha
+echodata ###V1247 Ori
+query id V1247 Ori
+echodata ###TW Hya
+query id TW Hya
+echodata ###Sz 91
+query id Sz 91
+echodata ###CR Cha
+query id CR Cha
+echodata ###Elia 2-25
+query id Elia 2-25
+echodata ###PDS 70
+query id PDS 70
+echodata ###Oph IRS 48
+query id Oph IRS 48
+echodata ###RX J1604.3-2130
+query id RX J1604.3-2130
+echodata ###SR 21
+query id SR 21
+echodata ###HIP 79977
+query id HIP 79977
+echodata ###HD 36968
+query id HD 36968
+echodata ###HD 38397
+query id HD 38397
+echodata ###HD 98800
+query id HD 98800
+echodata ###HD 120326
+query id HD 120326
+echodata ###HD 160305
+query id HD 160305
+echodata ###BD-20 951
+query id BD-20 951
+echodata ###HD 141011
+query id HD 141011
+echodata ###Sz 45
+query id Sz 45
+echodata ###CV Cha
+query id CV Cha
+echodata ###VZ Cha
+query id VZ Cha
+echodata ###CT Cha
+query id CT Cha
+echodata ###CHX 22
+query id CHX 22
+echodata ###WW Cha
+query id WW Cha
+echodata ###HP Cha
+query id HP Cha
+echodata ###CS Cha
+query id CS Cha
+echodata ###TW Cha
+query id TW Cha
+echodata ###HD 294260
+query id HD 294260
+echodata ###HD 294268
+query id HD 294268
+echodata ###PDS 110
+query id PDS 110
+echodata ###PDS 113
+query id PDS 113
+echodata ###RV Ori
+query id RV Ori
+echodata ###V1012 Ori
+query id V1012 Ori
+echodata ###V1650 Ori
+query id V1650 Ori
+echodata ###V599 Ori
+query id V599 Ori
+echodata ###V606 Ori
+query id V606 Ori
+echodata ###HD 98363
+query id HD 98363
+echodata ###HD 109832
+query id HD 109832
+echodata ###IRAS 04302+2247
+query id IRAS 04302+2247
+echodata ###HV Tau C
+query id HV Tau C
+echodata ###IRAS 04200+2759
+query id IRAS 04200+2759
+echodata ###Haro 6-5B
+query id Haro 6-5B
+echodata ###IRAS 04158+2805
+query id IRAS 04158+2805
+echodata ###2MASS J04202144+2813491
+query id 2MASS J04202144+2813491
+echodata ###HH 30
+query id HH 30
+echodata ###SSTc2d J163131.2-242627
+query id SSTc2d J163131.2-242627
+echodata ###ESO-HA 569
+query id ESO-HA 569
+echodata ###ESO-HA 574
+query id ESO-HA 574
+echodata ###2MASS J11042275-7718080
+query id 2MASS J11042275-7718080
+echodata ###PG 0953+414
+query id PG 0953+414
+echodata ###PG 1116+215
+query id PG 1116+215
+echodata ###PG 1202+281
+query id PG 1202+281
+echodata ###PG 1307+085
+query id PG 1307+085
+echodata ###3C 273
+query id 3C 273
+echodata ###PKS 1302-102
+query id PKS 1302-102
+echodata ###PG 1444+407
+query id PG 1444+407
+echodata ###3C 323.1
+query id 3C 323.1
+echodata ###HL Tau
+query id HL Tau
+echodata ###WLY 2-48
+query id WLY 2-48
+echodata ###PSO J058.9855+45.4184
+query id PSO J058.9855+45.4184
+echodata ###2MASSWJ 1207334-393254
+query id 2MASSWJ 1207334-393254
+echodata ###51 Eri
+query id 51 Eri
+echodata ###HIP 65426
+query id HIP 65426
+echodata ###GJ 504
+query id GJ 504
+echodata ###kappa And
+query id kappa And
+echodata ###AF Lep
+query id AF Lep
+echodata ###HIP 99770
+query id HIP 99770
+echodata ###TYC 8998-760-1
+query id TYC 8998-760-1
+echodata ###YSES-2
+query id YSES-2
+echodata ###GQ Lup
+query id GQ Lup
+echodata ###1RXS J160929.1-210524
+query id 1RXS J160929.1-210524
+echodata ###HD 135344
+query id HD 135344
+echodata ###WISEPA J075108.79-763449.6
+query id WISEPA J075108.79-763449.6
+echodata ###GU Psc
+query id GU Psc
+echodata ###WISPIT 1
+query id WISPIT 1
+echodata ###WISPIT 2
+query id WISPIT 2
+echodata ###YSES-1
+query id YSES-1
+echodata ###alf Cen A
+query id alf Cen A

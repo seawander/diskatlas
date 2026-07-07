@@ -1,0 +1,149 @@
+{
+ "id": "rx-j1604-3-2130",
+ "name": "RX J1604.3-2130",
+ "alt_names": [
+  "J1604"
+ ],
+ "simbad": "2MASS J16042165-2130284",
+ "ra_deg": 241.0902283116,
+ "dec_deg": -21.50793057314,
+ "dist_pc": 145.3,
+ "sptype": "K2",
+ "region": "Upper Sco",
+ "categories": [
+  "protoplanetary"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "technique": "interferometry",
+   "instrument": "Band 7",
+   "wavelength_um": 900,
+   "wavelength_label": "0.9 mm continuum",
+   "image_id": "rx-j1604-3-2130_exoalma",
+   "survey": "exoALMA",
+   "file": "images/rx-j1604-3-2130/rx-j1604-3-2130_exoalma.png",
+   "credit": "Curone et al. 2025, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Curone",
+    "year": 2025,
+    "title": "exoALMA IV: Substructures, Asymmetries, and the Faint Outer Disk in Continuum Emission",
+    "journal": "ApJL (exoALMA special issue)",
+    "arxiv": "2504.18725",
+    "bibcode": null
+   }
+  },
+  {
+   "type": "disk_scattered",
+   "facility": "Subaru-HiCIAO",
+   "instrument": "HiCIAO",
+   "wavelength_um": 1.65,
+   "wavelength_label": "H band PDI; cavity + dips (SEEDS)",
+   "technique": "PDI",
+   "survey": "SEEDS",
+   "credit": "Mayama et al. 2012, Fig. 1a (crop)",
+   "paper": {
+    "first_author": "Mayama",
+    "year": 2012,
+    "title": "Subaru Imaging of Asymmetric Features in a Transitional Disk in Upper Scorpius",
+    "journal": "ApJL 760, L26",
+    "arxiv": "1211.3284",
+    "bibcode": "2012ApJ...760L..26M"
+   },
+   "image_id": "rx-j1604-3-2130_seeds2012",
+   "file": "images/rx-j1604-3-2130/rx-j1604-3-2130_seeds2012.png"
+  },
+  {
+   "type": "disk_mm",
+   "survey": null,
+   "file": "images/rx-j1604-3-2130/rx-j1604-3-2130_alma2023.png",
+   "credit": "Stadler et al. 2023, Fig. 1 (a: 231 GHz continuum, b: 12CO(2-1) peak brightness temperature, c: peak-intensity residuals)",
+   "image_id": "rx-j1604-3-2130_alma2023",
+   "facility": "ALMA",
+   "instrument": "Band 6",
+   "wavelength_um": 1300,
+   "wavelength_label": "1.3 mm continuum + 12CO peak Tb + residuals (kinematic planet candidate)",
+   "technique": "interferometry",
+   "paper": {
+    "first_author": "Stadler",
+    "year": 2023,
+    "title": "A kinematically detected planet candidate in a transition disk",
+    "journal": "A&A 670, L1",
+    "arxiv": "2301.01684",
+    "bibcode": "2023A&A...670L...1S"
+   }
+  },
+  {
+   "type": "disk_scattered",
+   "facility": "Keck",
+   "instrument": "NIRC2 vortex",
+   "wavelength_um": 3.8,
+   "wavelength_label": "L' 3.8 um scattered light (ALMA contours overlaid)",
+   "technique": "RDI",
+   "image_id": "rx-j1604-3-2130_keck-vortex-2024",
+   "file": "images/rx-j1604-3-2130/rx-j1604-3-2130_keck-vortex-2024.png",
+   "survey": "Keck-vortex-2024",
+   "credit": "Wallack et al. 2024, Fig. 4 (crop)",
+   "paper": {
+    "first_author": "Wallack",
+    "year": 2024,
+    "title": "A Survey of Protoplanetary Disks Using the Keck/NIRC2 Vortex Coronagraph",
+    "journal": "AJ 168, 78",
+    "arxiv": "2408.04048",
+    "bibcode": "2024AJ....168...78W"
+   }
+  },
+  {
+   "image_id": "rx-j1604-3-2130_zimpol2015",
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "SPHERE/ZIMPOL",
+   "wavelength_um": 0.626,
+   "wavelength_label": "R' band (0.626 micron, visible)",
+   "technique": "PDI",
+   "survey": null,
+   "credit": "Pinilla et al. 2015, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Pinilla",
+    "year": 2015,
+    "title": "Variability and dust filtration in the transition disk J160421.7-213028 observed in optical scattered light",
+    "journal": "A&A Letters",
+    "arxiv": "1510.00412",
+    "bibcode": null
+   },
+   "file": "images/rx-j1604-3-2130/rx-j1604-3-2130_zimpol2015.png"
+  },
+  {
+   "image_id": "rx-j1604-3-2130_sphere-rdi-xie22",
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS",
+   "wavelength_um": 1.65,
+   "wavelength_label": "total intensity (H23, RDI)",
+   "technique": "RDI",
+   "survey": null,
+   "credit": "Xie et al. 2022, Fig. 9 (crop)",
+   "paper": {
+    "first_author": "Xie",
+    "year": 2022,
+    "title": "Reference-star differential imaging on SPHERE/IRDIS",
+    "journal": "A&A 666, A32",
+    "arxiv": "2208.07915",
+    "bibcode": null
+   },
+   "file": "images/rx-j1604-3-2130/rx-j1604-3-2130_sphere-rdi-xie22.png"
+  }
+ ],
+ "notes": null,
+ "last_updated": "2026-07-07",
+ "plx_mas": 6.8819,
+ "mags": {
+  "B": 13.3,
+  "G": 11.711969,
+  "J": 9.948,
+  "H": 9.103,
+  "K": 8.506
+ }
+}

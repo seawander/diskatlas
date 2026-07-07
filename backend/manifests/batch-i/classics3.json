@@ -1,0 +1,22 @@
+{
+  "survey": "k-grady1999",
+  "survey_name": null,
+  "source_image": "images/_sources/extra/grady1999_abaur.pdf",
+  "pdf_page": 3,
+  "dpi": 200,
+  "panels": [
+    { "id": "ab-aur", "image_id": "ab-aur_stis1999",
+      "bbox_frac": [0.055, 0.578, 0.475, 0.900] }
+  ],
+  "image_defaults": {
+    "type": "disk_scattered", "facility": "HST", "instrument": "STIS",
+    "wavelength_um": 0.58, "wavelength_label": "optical coronagraphy; first HST image of the AB Aur nebulosity",
+    "technique": "coronagraphy"
+  },
+  "credit": "Grady et al. 1999, Fig. 3 (crop)",
+  "paper": {
+    "first_author": "Grady", "year": 1999,
+    "title": "Hubble Space Telescope Space Telescope Imaging Spectrograph Coronagraphic Imaging of the Herbig Ae Star AB Aurigae",
+    "journal": "ApJL 523, L151", "arxiv": null, "bibcode": "1999ApJ...523L.151G"
+  }
+}

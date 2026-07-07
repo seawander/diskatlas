@@ -1,0 +1,21 @@
+{
+ "survey": "j-sr21-seeds",
+ "survey_name": null,
+ "source_image": "images/_sources/extracted/1302.5705/PImed_v2.pdf",
+ "pdf_page": null,
+ "panels": [
+  {
+   "id": "sr-21",
+   "image_id": "sr-21_seeds",
+   "bbox_frac": [
+    0.045,
+    0.13,
+    0.69,
+    0.975
+   ]
+  }
+ ],
+ "image_defaults": {},
+ "credit": "Follette et al. 2013, Fig. 1 (crop)",
+ "paper": null
+}

@@ -1,0 +1,25 @@
+{
+ "survey": "m-aumic-tessc",
+ "survey_name": null,
+ "source_image": "images/_sources/extracted/2012.13238/aumic_c_alltransits_mcmcfit.png",
+ "credit": "Martioli et al. 2021, Fig. 6 (crop): phase-folded TESS transits of AU Mic c",
+ "paper": {
+  "first_author": "Martioli",
+  "year": 2021,
+  "title": "New constraints on the planetary system around the young active star AU Mic: Two transiting warm Neptunes near mean-motion resonance",
+  "journal": "A&A 649, A177",
+  "arxiv": "2012.13238",
+  "bibcode": "2021A&A...649A.177M"
+ },
+ "panels": [
+  { "id": "au-mic", "image_id": "au-mic_tess-c", "bbox_frac": [0.513, 0.52, 1.0, 1.0] }
+ ],
+ "image_defaults": {
+  "type": "planet",
+  "facility": "TESS",
+  "instrument": "photometer",
+  "wavelength_um": 0.8,
+  "wavelength_label": "TESS transit light curve of AU Mic c",
+  "technique": "transit photometry"
+ }
+}

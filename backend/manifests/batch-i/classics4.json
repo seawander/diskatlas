@@ -1,0 +1,22 @@
+{
+  "survey": "k-grady2000",
+  "survey_name": null,
+  "source_image": "images/_sources/extra/grady2000_hd163296.pdf",
+  "pdf_page": 3,
+  "dpi": 200,
+  "panels": [
+    { "id": "hd-163296", "image_id": "hd-163296_stis2000",
+      "bbox_frac": [0.085, 0.108, 0.535, 0.420] }
+  ],
+  "image_defaults": {
+    "type": "disk_scattered", "facility": "HST", "instrument": "STIS",
+    "wavelength_um": 0.58, "wavelength_label": "optical coronagraphy; disk + HH 409 jet knots",
+    "technique": "coronagraphy"
+  },
+  "credit": "Grady et al. 2000, Fig. 2a (crop)",
+  "paper": {
+    "first_author": "Grady", "year": 2000,
+    "title": "STIS Coronagraphic Imaging of the Herbig Ae Star: HD 163296",
+    "journal": "ApJ 544, 895", "arxiv": null, "bibcode": "2000ApJ...544..895G"
+  }
+}

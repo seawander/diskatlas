@@ -1,0 +1,70 @@
+{
+ "id": "cs-cha",
+ "name": "cs cha",
+ "alt_names": [],
+ "simbad": "cs cha",
+ "ra_deg": 165.60365151217,
+ "dec_deg": -77.55990753661,
+ "dist_pc": 168.8,
+ "sptype": "K2Ve",
+ "region": "Chamaeleon I",
+ "categories": [
+  "protoplanetary"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS DPI",
+   "wavelength_um": 1.25,
+   "wavelength_label": "J band 1.25 um (Qphi pol. intensity)",
+   "technique": "PDI",
+   "image_id": "cs-cha_sphere-chami",
+   "file": "images/cs-cha/cs-cha_sphere-chami.png",
+   "survey": "SPHERE-ChamI",
+   "credit": "Ginski et al. 2024, Fig. 2 (crop)",
+   "paper": {
+    "first_author": "Ginski",
+    "year": 2024,
+    "title": "The SPHERE view of the Chamaeleon I star-forming region: The full census of planet-forming disks with GTO and DESTINYS programs",
+    "journal": "A&A 685, A52",
+    "arxiv": "2403.02149",
+    "bibcode": "2024A&A...685A..52G"
+   }
+  },
+  {
+   "image_id": "cs-cha_magao2022",
+   "type": "planet",
+   "facility": "Magellan-MagAO",
+   "instrument": "VisAO",
+   "wavelength_um": 0.656,
+   "wavelength_label": "Halpha differential imaging (2015 May 15 epoch)",
+   "technique": "ADI",
+   "survey": "GAPlanetS",
+   "credit": "Follette et al. 2023, Fig. 13 (crop)",
+   "paper": {
+    "first_author": "Follette",
+    "year": 2023,
+    "title": "The Giant Accreting Protoplanet Survey (GAPlanetS) - Results from a Six Year Campaign to Image Accreting Protoplanets",
+    "journal": "AJ",
+    "arxiv": "2211.02109",
+    "bibcode": null
+   },
+   "file": "images/cs-cha/cs-cha_magao2022.png",
+   "note": "New candidate CS Cha 'c' point source, SNR=6.6 (classical) at 68mas/PA76, clearly apparent in Halpha and SDI imagery per the paper -- a genuinely new candidate detection, not a marginal one. Distinct from the known wide CS Cha B companion, which was NOT recovered in this dataset (non-detection, correctly not added)."
+  }
+ ],
+ "notes": "AUTO-CREATED from staging - fill metadata & coords",
+ "last_updated": "2026-07-06",
+ "plx_mas": 5.9251,
+ "mags": {
+  "B": 12.88,
+  "V": 11.69,
+  "G": 11.075324,
+  "I": 10.123,
+  "J": 9.11,
+  "H": 8.45,
+  "K": 8.199
+ }
+}

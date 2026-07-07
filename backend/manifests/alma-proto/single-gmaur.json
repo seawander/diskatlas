@@ -1,0 +1,35 @@
+{
+ "survey": "single-gmaur",
+ "survey_name": null,
+ "source_image": "images/_sources/extracted/2001.11040/continuumoverview.pdf",
+ "pdf_page": 1,
+ "panels": [
+  {
+   "id": "gm-aur",
+   "image_id": "gm-aur_alma2020",
+   "bbox_frac": [
+    0.099259,
+    0.08625,
+    0.488148,
+    0.42375
+   ]
+  }
+ ],
+ "image_defaults": {
+  "type": "disk_mm",
+  "facility": "ALMA",
+  "instrument": "Band 6",
+  "wavelength_um": 1100,
+  "wavelength_label": "1.1 mm continuum",
+  "technique": "interferometry"
+ },
+ "credit": "Huang et al. 2020, Fig. 1 (crop)",
+ "paper": {
+  "first_author": "Huang",
+  "year": 2020,
+  "title": "A Multifrequency ALMA Characterization of Substructures in the GM Aur Protoplanetary Disk",
+  "journal": "ApJ 891, 48",
+  "arxiv": "2001.11040",
+  "bibcode": "2020ApJ...891...48H"
+ }
+}

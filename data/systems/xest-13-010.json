@@ -1,0 +1,59 @@
+{
+ "id": "xest-13-010",
+ "name": "XEST 13-010",
+ "alt_names": [],
+ "simbad": "XEST 13-010",
+ "ra_deg": 67.40026987264,
+ "dec_deg": 24.59877479842,
+ "dist_pc": 131.1,
+ "plx_mas": 7.63,
+ "mags": {
+  "G": 14.780668,
+  "J": 10.78,
+  "H": 9.392,
+  "K": 8.659
+ },
+ "sptype": "M3",
+ "region": "Taurus",
+ "categories": [],
+ "planets": [
+  {
+   "name": "b",
+   "status": "confirmed",
+   "method": "imaging",
+   "note": "KOINTREAU-2b: bound companion at projected separation 561+-3 au, spectral type M4.5+-1; a young star occulted by an edge-on disk (~4 mag underluminous for its spectral type), showing strong He I 1.083 um emission without accompanying H emission",
+   "paper": {
+    "first_author": "Walker",
+    "year": 2025,
+    "title": "Keck Observations in the INfrared of Taurus and ρ Oph Exoplanets And Ultracool dwarfs (KOINTREAU) I: A Planetary-Mass Companion and a Disk-Obscured Stellar Companion Discovered in Taurus",
+    "journal": null,
+    "arxiv": "2512.05191",
+    "bibcode": null
+   }
+  }
+ ],
+ "images": [
+  {
+   "image_id": "xest-13-010_nirc2-kointreau",
+   "type": "planet",
+   "facility": "Keck",
+   "instrument": "NIRC2",
+   "wavelength_um": 2.2,
+   "wavelength_label": "K band (MKO) 2.2 um AO signal-to-noise map",
+   "technique": "other",
+   "survey": null,
+   "file": "images/xest-13-010/xest-13-010_nirc2-kointreau.png",
+   "credit": "Walker et al. 2025, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Walker",
+    "year": 2025,
+    "title": "Keck Observations in the INfrared of Taurus and ρ Oph Exoplanets And Ultracool dwarfs (KOINTREAU) I: A Planetary-Mass Companion and a Disk-Obscured Stellar Companion Discovered in Taurus",
+    "journal": null,
+    "arxiv": "2512.05191",
+    "bibcode": null
+   }
+  }
+ ],
+ "notes": "Host is an M3 Taurus member (~3.4 Myr, XEST/XMM-Newton survey source) with a known circumstellar disk (SMA-detected, Akeson et al. 2019). KOINTREAU-2b confirmed bound via common proper motion with Gaia astrometry (log Bayes factor ~25.1); interpreted as a young star obscured by its own edge-on disk rather than a substellar object.",
+ "last_updated": "2026-07-06"
+}

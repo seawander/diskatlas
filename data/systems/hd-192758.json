@@ -1,0 +1,108 @@
+{
+ "id": "hd-192758",
+ "name": "HD 192758",
+ "alt_names": [],
+ "simbad": "HD 192758",
+ "ra_deg": 304.56578369215,
+ "dec_deg": -42.86008265689,
+ "dist_pc": 66.5,
+ "sptype": "F0V",
+ "region": null,
+ "categories": [
+  "debris"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "type": "disk_scattered",
+   "facility": "HST",
+   "instrument": "NICMOS",
+   "wavelength_um": 1.12,
+   "wavelength_label": "F110W 1.12 um (NMF reprocessing)",
+   "technique": "RDI",
+   "image_id": "hd-192758_nicmos-ren2023",
+   "file": "images/hd-192758/hd-192758_nicmos-ren2023.png",
+   "survey": "NICMOS-Ren2023",
+   "credit": "Ren et al. 2023, Fig. 3 (crop)",
+   "paper": {
+    "first_author": "Ren",
+    "year": 2023,
+    "title": "Debris Disk Color with the Hubble Space Telescope",
+    "journal": "A&A 672, A114",
+    "arxiv": "2302.04273",
+    "bibcode": "2023A&A...672A.114R"
+   }
+  },
+  {
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS DPI",
+   "wavelength_um": 1.65,
+   "wavelength_label": "H band 1.6 um (pol. intensity)",
+   "technique": "PDI",
+   "image_id": "hd-192758_sphere-debris-2025",
+   "file": "images/hd-192758/hd-192758_sphere-debris-2025.png",
+   "survey": "SPHERE-debris-2025",
+   "credit": "Engler et al. 2025, Fig. 5b (crop)",
+   "paper": {
+    "first_author": "Engler",
+    "year": 2025,
+    "title": "Characterization of debris disks observed with SPHERE",
+    "journal": "A&A 704, A21",
+    "arxiv": "2512.03128",
+    "bibcode": null
+   }
+  },
+  {
+   "type": "disk_scattered",
+   "facility": "HST",
+   "instrument": "STIS",
+   "wavelength_um": 0.58,
+   "wavelength_label": "0.2-1.0 um broadband (optical)",
+   "technique": "coronagraphy",
+   "image_id": "hd-192758_stis-ren",
+   "file": "images/hd-192758/hd-192758_stis-ren.png",
+   "survey": "STIS-Ren",
+   "credit": "Ren et al. 2023, Fig. 2 (crop)",
+   "paper": {
+    "first_author": "Ren",
+    "year": 2023,
+    "title": "Debris Disk Color with the Hubble Space Telescope",
+    "journal": "A&A 672, A114",
+    "arxiv": "2302.04273",
+    "bibcode": "2023A&A...672A.114R"
+   }
+  },
+  {
+   "image_id": "hd-192758_nicmos-choquet18",
+   "type": "disk_scattered",
+   "facility": "HST",
+   "instrument": "NICMOS",
+   "wavelength_um": 1.1,
+   "wavelength_label": "F110W + F160W 1.1/1.6 um scattered light (ALICE archival)",
+   "technique": "RDI",
+   "survey": null,
+   "file": "images/hd-192758/hd-192758_nicmos-choquet18.png",
+   "credit": "Choquet et al. 2018, Fig. 2 (crop)",
+   "paper": {
+    "first_author": "Choquet",
+    "year": 2018,
+    "title": "HD 104860 and HD 192758: Two Debris Disks Newly Imaged in Scattered Light with the Hubble Space Telescope",
+    "journal": "ApJ 854, 53",
+    "arxiv": "1801.05424",
+    "bibcode": "2018ApJ...854...53C"
+   }
+  }
+ ],
+ "notes": "AUTO-CREATED from staging - fill metadata & coords",
+ "last_updated": "2026-07-06",
+ "plx_mas": 15.0368,
+ "mags": {
+  "B": 7.34,
+  "V": 7.03,
+  "G": 6.95219,
+  "J": 6.387,
+  "H": 6.298,
+  "K": 6.209
+ }
+}

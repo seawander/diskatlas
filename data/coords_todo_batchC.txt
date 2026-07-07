@@ -1,0 +1,36 @@
+# Batch C (scattered light) — new systems needing SIMBAD coordinates
+# GPIES (Esposito+2020, 2004.13722)
+HD 111161      # debris; LCC (Sco-Cen)
+HR 7012        # debris; beta Pic MG; = HD 172555
+NZ Lup         # debris; field (GPIES table: no MG); totI-only GPIES detection
+AK Sco         # protoplanetary (circumbinary); UCL (Sco-Cen)
+# DARTTS-S (Avenhaus+2018, 1803.10882)
+DoAr 44        # protoplanetary; Ophiuchus
+# SPHERE-Taurus census (Garufi+2024, 2403.02158) — all protoplanetary, Taurus
+RW Aur
+DG Tau
+UX Tau
+V409 Tau
+V710 Tau
+CY Tau
+CX Tau
+GI Tau
+DE Tau
+V836 Tau
+CW Tau
+# STIS (Schneider+2014, 1406.7303)
+HD 15745       # debris; ~100 Myr F2V at 63.5 pc
+# Gemini-LIGHTS (Rich+2022, 2206.05815) — all protoplanetary (Herbig Ae/Be / massive TTS)
+HD 45677       # FS CMa-type B[e]; isolated
+HD 50138       # B[e]; isolated
+HD 145718      # Upper Sco
+MWC 297        # massive Herbig Be; Aquila rift
+MWC 614        # isolated Herbig
+MWC 789        # isolated Herbig
+FU Ori         # FUor prototype; Orion
+GW Ori         # hierarchical triple + circumtriple disk; Orion (lambda Ori)
+Hen 3-365      # B[e]/Herbig; far southern
+# SPHERE-Ks-RDI (Ren+2023, 2310.08589) — protoplanetary
+LkHa 330       # Perseus
+PDS 201        # = V351 Ori; Orion
+SZ Cha         # Chamaeleon I

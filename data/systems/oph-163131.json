@@ -1,0 +1,147 @@
+{
+ "id": "oph-163131",
+ "name": "oph 163131",
+ "alt_names": [
+  "2MASS J16313124-2426281"
+ ],
+ "simbad": "2MASS J16313124-2426281",
+ "ra_deg": 247.88042,
+ "dec_deg": -24.44125,
+ "dist_pc": null,
+ "sptype": "K4-K5",
+ "region": "Ophiuchus",
+ "categories": [
+  "protoplanetary"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "technique": "interferometry",
+   "instrument": "Band 6",
+   "wavelength_um": 1300,
+   "wavelength_label": "1.3 mm continuum (edge-on)",
+   "image_id": "oph-163131_edgeon-alma2020",
+   "file": "images/oph-163131/oph-163131_edgeon-alma2020.png",
+   "survey": "EdgeOn-ALMA-2020",
+   "credit": "Villenave et al. 2020, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Villenave",
+    "year": 2020,
+    "title": "Observations of edge-on protoplanetary disks with ALMA. I. Results from continuum data",
+    "journal": "A&A 642, A164",
+    "arxiv": "2008.06518",
+    "bibcode": "2020A&A...642A.164V"
+   }
+  },
+  {
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "technique": "interferometry",
+   "instrument": "Band 6",
+   "wavelength_um": 1300,
+   "wavelength_label": "1.3 mm continuum at 0.02\" (3 au) resolution",
+   "image_id": "oph-163131_alma2022",
+   "file": "images/oph-163131/oph-163131_alma2022.png",
+   "survey": null,
+   "credit": "Villenave et al. 2022, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Villenave",
+    "year": 2022,
+    "title": "A highly settled disk around Oph 163131",
+    "journal": "ApJ 930, 11",
+    "arxiv": "2204.00640",
+    "bibcode": "2022ApJ...930...11V"
+   }
+  },
+  {
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "technique": "interferometry",
+   "instrument": "Band 6",
+   "wavelength_um": 1300,
+   "wavelength_label": "1.3 mm continuum, zoomed (rings and gap labeled)",
+   "image_id": "oph-163131_alma2022-zoom",
+   "file": "images/oph-163131/oph-163131_alma2022-zoom.png",
+   "survey": null,
+   "credit": "Villenave et al. 2022, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Villenave",
+    "year": 2022,
+    "title": "A highly settled disk around Oph 163131",
+    "journal": "ApJ 930, 11",
+    "arxiv": "2204.00640",
+    "bibcode": "2022ApJ...930...11V"
+   }
+  },
+  {
+   "image_id": "oph-163131_jwst2024",
+   "type": "disk_scattered",
+   "facility": "JWST",
+   "instrument": "NIRCam+MIRI",
+   "wavelength_um": 2,
+   "wavelength_label": "2.0-21 um (NIRCam F200W/F444W + MIRI)",
+   "technique": "JWST NIRCam + MIRI broadband imaging",
+   "survey": null,
+   "file": "images/oph-163131/oph-163131_jwst2024.png",
+   "credit": "Villenave et al. 2024, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Villenave",
+    "year": 2024,
+    "title": "JWST Imaging of Edge-on Protoplanetary Disks. III. Drastic Morphological Transformation Across the Mid-infrared in Oph163131",
+    "journal": "Astrophysical Journal",
+    "arxiv": "2410.00156",
+    "bibcode": "2024ApJ...976...86V"
+   }
+  },
+  {
+   "image_id": "oph-163131_hst2021",
+   "type": "disk_scattered",
+   "facility": "HST",
+   "instrument": "ACS",
+   "wavelength_um": 0.814,
+   "wavelength_label": "F814W (0.814 um) scattered light",
+   "technique": "other",
+   "survey": null,
+   "credit": "Wolff et al. 2021, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Wolff",
+    "year": 2021,
+    "title": "The Anatomy of an Unusual Edge-on Protoplanetary Disk I. Dust Settling in a Cold Disk",
+    "journal": "The Astronomical Journal, 161, 238",
+    "arxiv": "2103.02665",
+    "bibcode": null
+   },
+   "file": "images/oph-163131/oph-163131_hst2021.png"
+  },
+  {
+   "image_id": "oph-163131_keck2021",
+   "type": "disk_scattered",
+   "facility": "Keck",
+   "instrument": "NIRC2",
+   "wavelength_um": 2.2,
+   "wavelength_label": "K' band (2.2 um) scattered light",
+   "technique": "other",
+   "survey": null,
+   "credit": "Wolff et al. 2021, Fig. 3 (crop)",
+   "paper": {
+    "first_author": "Wolff",
+    "year": 2021,
+    "title": "The Anatomy of an Unusual Edge-on Protoplanetary Disk I. Dust Settling in a Cold Disk",
+    "journal": "The Astronomical Journal, 161, 238",
+    "arxiv": "2103.02665",
+    "bibcode": null
+   },
+   "file": "images/oph-163131/oph-163131_keck2021.png"
+  }
+ ],
+ "notes": "AUTO-CREATED from staging - fill metadata & coords",
+ "last_updated": "2026-07-07",
+ "mags": {
+  "G": 18.386808,
+  "J": 13.759,
+  "H": 12.919,
+  "K": 12.626
+ }
+}

@@ -1,0 +1,46 @@
+{
+ "id": "oph-162305",
+ "name": "Oph 162305",
+ "alt_names": [],
+ "simbad": "2MASS J16230544-2302566",
+ "ra_deg": 245.77259133257,
+ "dec_deg": -23.04929278006,
+ "dist_pc": null,
+ "plx_mas": null,
+ "mags": {
+  "G": 18.534403,
+  "J": 14.83,
+  "H": 13.859,
+  "K": 13.299
+ },
+ "sptype": null,
+ "region": "Ophiuchus",
+ "categories": [
+  "protoplanetary"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "image_id": "oph-162305_alma-martinien",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 7",
+   "wavelength_um": 880,
+   "wavelength_label": "0.88 mm continuum (highly-inclined disk)",
+   "technique": "interferometry",
+   "survey": "Martinien2026",
+   "file": "images/oph-162305/oph-162305_alma-martinien.png",
+   "credit": "Martinien et al. 2026, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Martinien",
+    "year": 2026,
+    "title": "Observations of highly inclined disks with ALMA. Results from 12CO gas and continuum observations",
+    "journal": "A&A (2026)",
+    "arxiv": "2604.11247",
+    "bibcode": null
+   }
+  }
+ ],
+ "notes": "Added 2026-07-06 (Martinien+2026 ALMA highly-inclined disk). Coords pending SIMBAD.",
+ "last_updated": "2026-07-06"
+}

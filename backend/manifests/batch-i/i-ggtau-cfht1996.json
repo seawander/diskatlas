@@ -1,0 +1,26 @@
+{
+ "survey": "i-ggtau-cfht1996",
+ "survey_name": null,
+ "source_image": "images/_sources/_views/bi_rod_p3-03.png",
+ "panels": [
+  { "id": "gg-tau", "image_id": "gg-tau_cfht1996",
+    "bbox_frac": [0.1860, 0.4938, 0.7650, 0.8205] }
+ ],
+ "image_defaults": {
+  "type": "disk_scattered",
+  "facility": "CFHT",
+  "instrument": "UH adaptive optics",
+  "wavelength_um": 1.25,
+  "wavelength_label": "J band 1.25 um (AO; matched-PSF deconvolution)",
+  "technique": "other"
+ },
+ "credit": "Roddier et al. 1996, Fig. 1b (crop)",
+ "paper": {
+  "first_author": "Roddier",
+  "year": 1996,
+  "title": "Adaptive Optics Imaging of GG Tauri: Optical Detection of the Circumbinary Ring",
+  "journal": "ApJ 463, 326",
+  "arxiv": null,
+  "bibcode": "1996ApJ...463..326R"
+ }
+}

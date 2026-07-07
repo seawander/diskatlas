@@ -1,0 +1,32 @@
+{
+ "survey": "m-taurus-faint",
+ "survey_name": "SPHERE-Taurus",
+ "source_image": "images/_sources/extracted/2403.02158/Figures/Imagery.pdf",
+ "pdf_page": 1,
+ "dpi": 260,
+ "credit": "Garufi et al. 2024, Fig. 2 (crop)",
+ "paper": {
+  "first_author": "Garufi",
+  "year": 2024,
+  "title": "The SPHERE view of the Taurus star-forming region: The full census of planet-forming disks with GTO and DESTINYS programs",
+  "journal": "A&A 685, A53",
+  "arxiv": "2403.02158",
+  "bibcode": "2024A&A...685A..53G"
+ },
+ "panels": [
+  { "id": "hn-tau",    "image_id": "hn-tau_sphere-taurus",    "bbox_frac": [0.5357, 0.3010, 0.7299, 0.4469] },
+  { "id": "ds-tau",    "image_id": "ds-tau_sphere-taurus",    "bbox_frac": [0.4001, 0.9247, 0.4967, 0.9975] },
+  { "id": "gk-tau",    "image_id": "gk-tau_sphere-taurus",    "bbox_frac": [0.5995, 0.9247, 0.6961, 0.9975] },
+  { "id": "dk-tau",    "image_id": "dk-tau_sphere-taurus",    "bbox_frac": [0.8001, 0.9247, 0.8967, 0.9975] },
+  { "id": "v807-tau",  "image_id": "v807-tau_sphere-taurus",  "bbox_frac": [0.8989, 0.9247, 0.9955, 0.9975] },
+  { "id": "v1025-tau", "image_id": "v1025-tau_sphere-taurus", "bbox_frac": [0.8989, 0.8506, 0.9955, 0.9230] }
+ ],
+ "image_defaults": {
+  "type": "disk_scattered",
+  "facility": "VLT-SPHERE",
+  "instrument": "IRDIS DPI",
+  "wavelength_um": 1.65,
+  "wavelength_label": "H band 1.6 um (pol. intensity)",
+  "technique": "PDI"
+ }
+}

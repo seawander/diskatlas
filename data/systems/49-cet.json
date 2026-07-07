@@ -1,0 +1,232 @@
+{
+ "id": "49-cet",
+ "name": "49 Cet",
+ "alt_names": [
+  "HD 9672"
+ ],
+ "simbad": "49 Cet",
+ "ra_deg": 23.65741115869,
+ "dec_deg": -15.6763607425,
+ "dist_pc": 57.2,
+ "sptype": "A1V",
+ "region": null,
+ "categories": [
+  "debris"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "type": "disk_mm",
+   "facility": "ALMA/SMA",
+   "technique": "interferometry",
+   "instrument": "Band 6/7",
+   "wavelength_um": 1300,
+   "wavelength_label": "~0.9-1.3 mm continuum",
+   "image_id": "49-cet_reasons",
+   "survey": "REASONS",
+   "file": "images/49-cet/49-cet_reasons.png",
+   "credit": "Matrà et al. 2025, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Matra",
+    "year": 2025,
+    "title": "REsolved ALMA and SMA Observations of Nearby Stars (REASONS): A population of 74 resolved planetesimal belts at millimetre wavelengths",
+    "journal": "A&A 693, A151",
+    "arxiv": "2501.09058",
+    "bibcode": "2025A&A...693A.151M"
+   }
+  },
+  {
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 7/6",
+   "wavelength_um": 880,
+   "wavelength_label": "~0.88-1.3 mm continuum",
+   "technique": "interferometry",
+   "image_id": "49-cet_arks",
+   "file": "images/49-cet/49-cet_arks.png",
+   "survey": "ARKS",
+   "credit": "Marino et al. 2026, Fig. 3 (crop)",
+   "paper": {
+    "first_author": "Marino",
+    "year": 2026,
+    "title": "The ALMA survey to Resolve exoKuiper belt Substructures (ARKS) I: Motivation, sample, data reduction, and results overview",
+    "journal": "A&A",
+    "arxiv": "2601.11708",
+    "bibcode": null
+   }
+  },
+  {
+   "type": "disk_scattered",
+   "facility": "HST",
+   "instrument": "NICMOS",
+   "wavelength_um": 1.12,
+   "wavelength_label": "F110W 1.12 um (NMF reprocessing)",
+   "technique": "RDI",
+   "image_id": "49-cet_nicmos-ren2023",
+   "file": "images/49-cet/49-cet_nicmos-ren2023.png",
+   "survey": "NICMOS-Ren2023",
+   "credit": "Ren et al. 2023, Fig. 3 (crop)",
+   "paper": {
+    "first_author": "Ren",
+    "year": 2023,
+    "title": "Debris Disk Color with the Hubble Space Telescope",
+    "journal": "A&A 672, A114",
+    "arxiv": "2302.04273",
+    "bibcode": "2023A&A...672A.114R"
+   }
+  },
+  {
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS DPI",
+   "wavelength_um": 1.65,
+   "wavelength_label": "H band 1.6 um (pol. intensity)",
+   "technique": "PDI",
+   "image_id": "49-cet_sphere-debris-2025",
+   "file": "images/49-cet/49-cet_sphere-debris-2025.png",
+   "survey": "SPHERE-debris-2025",
+   "credit": "Engler et al. 2025, Fig. 5a (crop)",
+   "paper": {
+    "first_author": "Engler",
+    "year": 2025,
+    "title": "Characterization of debris disks observed with SPHERE",
+    "journal": "A&A 704, A21",
+    "arxiv": "2512.03128",
+    "bibcode": null
+   }
+  },
+  {
+   "type": "disk_scattered",
+   "facility": "HST",
+   "instrument": "STIS",
+   "wavelength_um": 0.58,
+   "wavelength_label": "0.2-1.0 um broadband (optical)",
+   "technique": "coronagraphy",
+   "image_id": "49-cet_stis-ren",
+   "file": "images/49-cet/49-cet_stis-ren.png",
+   "survey": "STIS-Ren",
+   "credit": "Ren et al. 2023, Fig. 2 (crop)",
+   "paper": {
+    "first_author": "Ren",
+    "year": 2023,
+    "title": "Debris Disk Color with the Hubble Space Telescope",
+    "journal": "A&A 672, A114",
+    "arxiv": "2302.04273",
+    "bibcode": "2023A&A...672A.114R"
+   }
+  },
+  {
+   "image_id": "49-cet_alma2017",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 7",
+   "wavelength_um": 850,
+   "wavelength_label": "0.85 mm continuum (tapered)",
+   "technique": "interferometry",
+   "survey": null,
+   "file": "images/49-cet/49-cet_alma2017.png",
+   "credit": "Hughes et al. 2017, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Hughes",
+    "year": 2017,
+    "title": "Radial Surface Density Profiles of Gas and Dust in the Debris Disk around 49 Ceti",
+    "journal": "ApJ 839, 86",
+    "arxiv": "1704.01972",
+    "bibcode": "2017ApJ...839...86H"
+   }
+  },
+  {
+   "image_id": "49-cet_alice-f110w",
+   "type": "disk_scattered",
+   "facility": "HST",
+   "instrument": "NICMOS",
+   "wavelength_um": 1.1,
+   "wavelength_label": "F110W 1.1 um (ALICE archival reprocessing, combined coadd)",
+   "technique": "RDI",
+   "survey": "ALICE",
+   "file": "images/49-cet/49-cet_alice-f110w.png",
+   "credit": "ALICE HLSP v1 combined coadd (HST program 7233, STScI) — hi-res: ALICE archive (STScI)",
+   "paper": {
+    "first_author": "Hagan",
+    "year": 2018,
+    "title": "ALICE Data Release: A revaluation of HST-NICMOS coronagraphic images",
+    "journal": "AJ 155, 179",
+    "arxiv": "1802.07754",
+    "bibcode": null
+   },
+   "hires_url": "https://archive.stsci.edu/prepds/alice/"
+  },
+  {
+   "image_id": "49-cet_nicmos-choquet2017",
+   "type": "disk_scattered",
+   "facility": "HST",
+   "instrument": "NICMOS",
+   "wavelength_um": 1.1,
+   "wavelength_label": "F110W 1.1 um (ALICE archival re-reduction)",
+   "technique": "RDI",
+   "survey": "ALICE",
+   "credit": "Choquet et al. 2017, Fig. 1a (crop)",
+   "paper": {
+    "first_author": "Choquet",
+    "year": 2017,
+    "title": "First scattered-light images of the gas-rich debris disk around 49 Ceti",
+    "journal": "ApJL 834, L12",
+    "arxiv": "1612.07320",
+    "bibcode": null
+   },
+   "file": "images/49-cet/49-cet_nicmos-choquet2017.png"
+  },
+  {
+   "image_id": "49-cet_sphere-choquet2017",
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS",
+   "wavelength_um": 1.65,
+   "wavelength_label": "H band total intensity (SHARDDS program)",
+   "technique": "ADI",
+   "survey": "SHARDDS",
+   "credit": "Choquet et al. 2017, Fig. 1a (crop)",
+   "paper": {
+    "first_author": "Choquet",
+    "year": 2017,
+    "title": "First scattered-light images of the gas-rich debris disk around 49 Ceti",
+    "journal": "ApJL 834, L12",
+    "arxiv": "1612.07320",
+    "bibcode": null
+   },
+   "file": "images/49-cet/49-cet_sphere-choquet2017.png"
+  },
+  {
+   "image_id": "49-cet_alma-co2019",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "7m array, Band 6 (12CO 2-1 zeroth moment)",
+   "wavelength_um": 1300,
+   "wavelength_label": "12CO (2-1) zeroth moment map",
+   "technique": "interferometry",
+   "survey": null,
+   "credit": "Moor et al. 2019, Fig. 1b (crop)",
+   "paper": {
+    "first_author": "Moor",
+    "year": 2019,
+    "title": "New Millimeter CO Observations of the Gas-rich Debris Disks 49 Cet and HD 32297",
+    "journal": "ApJ 884, 108",
+    "arxiv": "1908.09685",
+    "bibcode": "2019ApJ...884..108M"
+   },
+   "file": "images/49-cet/49-cet_alma-co2019.png"
+  }
+ ],
+ "notes": null,
+ "last_updated": "2026-07-07",
+ "plx_mas": 17.4725,
+ "mags": {
+  "B": 5.667,
+  "V": 5.607,
+  "G": 5.611201,
+  "I": 5.54,
+  "J": 5.487,
+  "H": 5.528,
+  "K": 5.458
+ }
+}

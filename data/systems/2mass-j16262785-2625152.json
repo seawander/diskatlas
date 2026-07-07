@@ -1,0 +1,60 @@
+{
+ "id": "2mass-j16262785-2625152",
+ "name": "2MASS J16262785-2625152",
+ "alt_names": [],
+ "simbad": "2MASS J16262785-2625152",
+ "ra_deg": 246.61608102723,
+ "dec_deg": -26.42088274743,
+ "dist_pc": 141.89,
+ "plx_mas": 7.0475,
+ "mags": {
+  "G": 14.057186,
+  "R": 15.2,
+  "J": 10.841,
+  "H": 10.177,
+  "K": 9.845
+ },
+ "sptype": "M4.5",
+ "region": "Ophiuchus",
+ "categories": [],
+ "planets": [
+  {
+   "name": "b",
+   "status": "confirmed",
+   "method": "imaging",
+   "note": "KOINTREAU-4b: bound companion at 1.25 arcsec / ~180 au",
+   "paper": {
+    "first_author": "Walker",
+    "year": 2026,
+    "title": "Keck Observations in the INfrared of Taurus and rho Oph Exoplanets And Ultracool dwarfs (KOINTREAU) II: Two Young Bound Companions to Ophiuchus Stars",
+    "journal": "AJ (2026)",
+    "arxiv": "2602.10198",
+    "bibcode": null
+   }
+  }
+ ],
+ "images": [
+  {
+   "image_id": "2mass-j16262785-2625152_nirc2-kointreau",
+   "type": "planet",
+   "facility": "Keck",
+   "instrument": "NIRC2",
+   "wavelength_um": 2.12,
+   "wavelength_label": "Ks band 2.1 um AO image",
+   "technique": "ADI",
+   "survey": null,
+   "file": "images/2mass-j16262785-2625152/2mass-j16262785-2625152_nirc2-kointreau.png",
+   "credit": "Walker et al. 2026, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Walker",
+    "year": 2026,
+    "title": "Keck Observations in the INfrared of Taurus and rho Oph Exoplanets And Ultracool dwarfs (KOINTREAU) II: Two Young Bound Companions to Ophiuchus Stars",
+    "journal": "AJ (2026)",
+    "arxiv": "2602.10198",
+    "bibcode": null
+   }
+  }
+ ],
+ "notes": "Added 2026-07-06. Directly-imaged companion host; coords pending SIMBAD.",
+ "last_updated": "2026-07-06"
+}

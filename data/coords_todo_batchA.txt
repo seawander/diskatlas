@@ -1,0 +1,34 @@
+# Batch A (ALMA protoplanetary) — new systems needing SIMBAD coordinates.
+# One SIMBAD-resolvable name per line.
+
+# --- Taurus-Long2019 compact disks (Long et al. 2019, Fig. 3 labels) ---
+HO Tau
+Haro 6-13
+HP Tau
+GK Tau
+HK Tau
+T Tau
+HN Tau
+DK Tau
+UY Aur
+
+# --- ODISEA long-baseline sample (Cieza et al. 2021, Table 1 / Fig. 3) ---
+ISO-Oph 54
+WLY 2-63
+ISO-Oph 37
+ISO-Oph 17
+WSB 82
+ISO-Oph 2
+ISO-Oph 196
+EM* SR 24S
+RX J1633.9-2442
+# Fallbacks if the two names above do not resolve:
+#   EM* SR 24S -> try "SR 24S" or use EM* SR 24 (system) coords
+#   RX J1633.9-2442 -> try "2MASS J16335560-2442049"
+# Gaia coords from Cieza+2021 Table 1 (deg), usable as manual fallback:
+#   DoAr 44 246.8894038 -24.4604259 (already in DB), WSB 82 249.9393177 -24.0345083,
+#   ISO-Oph 2 246.4088384 -24.3768303, ISO-Oph 196 247.0687710 -24.616238,
+#   EM* SR 24S 246.7437779 -24.7603309, RX J1633.9-2442 248.4817058 -24.7014913.
+# Embedded sources without Gaia (approx from SSTc2d designation, J2000):
+#   ISO-Oph 54  16:26:40.5 -24:27:14 ; WLY 2-63 16:31:35.6 -24:01:29
+#   ISO-Oph 37  16:26:23.6 -24:24:39 ; ISO-Oph 17 16:26:10.3 -24:20:54

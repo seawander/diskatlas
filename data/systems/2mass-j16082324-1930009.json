@@ -1,0 +1,69 @@
+{
+ "id": "2mass-j16082324-1930009",
+ "name": "2MASS J16082324-1930009",
+ "alt_names": [
+  "[T64] 3",
+  "[PBB2002] USco J160823.2-193001"
+ ],
+ "simbad": "2MASS J16082324-1930009",
+ "ra_deg": 242.09686170732,
+ "dec_deg": -19.50027139753,
+ "dist_pc": 137.0,
+ "plx_mas": 7.256,
+ "mags": {
+  "G": 13.13,
+  "J": 10.574,
+  "H": 9.737,
+  "K": 9.469
+ },
+ "sptype": "K9e",
+ "region": "Upper Sco",
+ "categories": [
+  "protoplanetary"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "image_id": "2mass-j16082324-1930009_agepro",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 6",
+   "wavelength_um": 1300,
+   "wavelength_label": "1.3 mm continuum",
+   "technique": "interferometry",
+   "survey": "AGE-PRO",
+   "file": "images/2mass-j16082324-1930009/2mass-j16082324-1930009_agepro.png",
+   "credit": "Zhang et al. 2025, Fig. 3 (crop)",
+   "paper": {
+    "first_author": "Zhang",
+    "year": 2025,
+    "title": "The ALMA Survey of Gas Evolution of PROtoplanetary Disks (AGE-PRO): I. Program Overview and Summary of First Results",
+    "journal": "ApJ (2025)",
+    "arxiv": "2506.10719",
+    "bibcode": null
+   }
+  },
+  {
+   "image_id": "2mass-j16082324-1930009_nircensus",
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS",
+   "wavelength_um": 1.65,
+   "wavelength_label": "H band 1.6 um (Q-phi pol. intensity)",
+   "technique": "PDI",
+   "survey": "SPHERE-NIR-census",
+   "file": "images/2mass-j16082324-1930009/2mass-j16082324-1930009_nircensus.png",
+   "credit": "Garufi et al. 2026, Fig. A.1 (crop)",
+   "paper": {
+    "first_author": "Garufi",
+    "year": 2026,
+    "title": "Planet-forming disks and their environment across regions and time from the full NIR census",
+    "journal": null,
+    "arxiv": "2603.01703",
+    "bibcode": null
+   }
+  }
+ ],
+ "notes": "AGE-PRO Upper Scorpius 9. Substructured disk with shoulder at 20-40 au and inner gas cavity to 10 au suggesting an unresolved dust cavity (Vioque et al. 2025). Highly inclined extended disk (~80 au) detected in SPHERE H-band scattered light (Garufi et al. 2026).",
+ "last_updated": "2026-07-06"
+}

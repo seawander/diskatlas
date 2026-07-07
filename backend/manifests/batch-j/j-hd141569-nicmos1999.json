@@ -1,0 +1,21 @@
+{
+ "survey": "j-hd141569-nicmos1999",
+ "survey_name": null,
+ "source_image": "images/_sources/_views/j-hd141569.png",
+ "pdf_page": null,
+ "panels": [
+  {
+   "id": "hd-141569",
+   "image_id": "hd-141569_nicmos1999",
+   "bbox_frac": [
+    0.1164,
+    0.4013,
+    0.4814,
+    0.6632
+   ]
+  }
+ ],
+ "image_defaults": {},
+ "credit": "Weinberger et al. 1999, Fig. 1 (crop: left panel)",
+ "paper": null
+}

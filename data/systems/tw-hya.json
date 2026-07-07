@@ -1,0 +1,311 @@
+{
+ "id": "tw-hya",
+ "name": "TW Hya",
+ "alt_names": [],
+ "simbad": "TW Hya",
+ "ra_deg": 165.46627220211,
+ "dec_deg": -34.70473144955,
+ "dist_pc": 60.1,
+ "sptype": "K6Ve",
+ "region": "TW Hya association",
+ "categories": [
+  "protoplanetary"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 7",
+   "wavelength_um": 870,
+   "wavelength_label": "870 um continuum",
+   "technique": "interferometry",
+   "survey": null,
+   "credit": "Andrews et al. 2016, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Andrews",
+    "year": 2016,
+    "title": "Ringed Substructure and a Gap at 1 au in the Nearest Protoplanetary Disk",
+    "journal": "ApJL 820, L40",
+    "arxiv": "1603.09352",
+    "bibcode": "2016ApJ...820L..40A"
+   },
+   "image_id": "tw-hya_alma2016",
+   "file": "images/tw-hya/tw-hya_alma2016.png"
+  },
+  {
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS",
+   "wavelength_um": 1.62,
+   "wavelength_label": "H band 1.6 um (Qphi pol. intensity)",
+   "technique": "PDI",
+   "survey": null,
+   "credit": "van Boekel et al. 2017, Fig. 2 (crop, H band Qphi)",
+   "paper": {
+    "first_author": "van Boekel",
+    "year": 2017,
+    "title": "Three radial gaps in the disk of TW Hydrae imaged with SPHERE",
+    "journal": "ApJ 837, 132",
+    "arxiv": "1610.08939",
+    "bibcode": null
+   },
+   "image_id": "tw-hya_sphere2017",
+   "file": "images/tw-hya/tw-hya_sphere2017.png"
+  },
+  {
+   "type": "disk_scattered",
+   "facility": "HST",
+   "instrument": "STIS",
+   "wavelength_um": 0.58,
+   "wavelength_label": "optical coronagraphy; partially filled gap at 80 au (arrow)",
+   "technique": "coronagraphy",
+   "survey": null,
+   "credit": "Debes et al. 2013, Fig. 2 (STIS panel crop)",
+   "paper": {
+    "first_author": "Debes",
+    "year": 2013,
+    "title": "The 0.5-2.22 micron Scattered Light Spectrum of the Disk around TW Hya: Detection of a Partially Filled Disk Gap at 80 AU",
+    "journal": "ApJ 771, 45",
+    "arxiv": "1306.2969",
+    "bibcode": "2013ApJ...771...45D"
+   },
+   "image_id": "tw-hya_stis2013",
+   "file": "images/tw-hya/tw-hya_stis2013.png"
+  },
+  {
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 7",
+   "wavelength_um": 870,
+   "wavelength_label": "870 um continuum, inner 10 au zoom (1 au gap)",
+   "technique": "interferometry",
+   "image_id": "tw-hya_alma2016-zoom",
+   "file": "images/tw-hya/tw-hya_alma2016-zoom.png",
+   "survey": null,
+   "credit": "Andrews et al. 2016, Fig. 1 inset (crop)",
+   "paper": {
+    "first_author": "Andrews",
+    "year": 2016,
+    "title": "Ringed Substructure and a Gap at 1 au in the Nearest Protoplanetary Disk",
+    "journal": "ApJL 820, L40",
+    "arxiv": "1603.09352",
+    "bibcode": "2016ApJ...820L..40A"
+   }
+  },
+  {
+   "type": "disk_scattered",
+   "facility": "HST",
+   "instrument": "WFPC2",
+   "wavelength_um": 0.6,
+   "wavelength_label": "R/I PSF-subtracted imaging; face-on disk halo to ~200 au",
+   "technique": "other",
+   "survey": null,
+   "credit": "Krist et al. 2000, Fig. 7 (crop: PSF-subtracted F606W image; PDF p. 6)",
+   "paper": {
+    "first_author": "Krist",
+    "year": 2000,
+    "title": "WFPC2 Images of a Face-on Disk Surrounding TW Hydrae",
+    "journal": "ApJ 538, 793",
+    "arxiv": null,
+    "bibcode": "2000ApJ...538..793K"
+   },
+   "image_id": "tw-hya_wfpc2-2000",
+   "file": "images/tw-hya/tw-hya_wfpc2-2000.png"
+  },
+  {
+   "type": "disk_scattered",
+   "facility": "VLT-NACO",
+   "instrument": "NACO pol",
+   "wavelength_um": 2.18,
+   "wavelength_label": "Ks band (PIPPIN PDI reprocessing)",
+   "technique": "PDI",
+   "image_id": "tw-hya_naco-pippin",
+   "file": "images/tw-hya/tw-hya_naco-pippin.png",
+   "survey": "NACO-PIPPIN",
+   "credit": "de Regt et al. 2024, Fig. 6 (crop)",
+   "paper": {
+    "first_author": "de Regt",
+    "year": 2024,
+    "title": "Polarimetric differential imaging with VLT/NACO. A comprehensive PDI pipeline for NACO data (PIPPIN)",
+    "journal": "A&A 684, A73",
+    "arxiv": "2404.02222",
+    "bibcode": "2024A&A...684A..73D"
+   }
+  },
+  {
+   "image_id": "tw-hya_seeds",
+   "type": "disk_scattered",
+   "facility": "Subaru-HiCIAO",
+   "instrument": "HiCIAO",
+   "wavelength_um": 1.65,
+   "wavelength_label": "H band (pol. intensity; 20 au gap)",
+   "technique": "PDI",
+   "survey": "SEEDS",
+   "file": "images/tw-hya/tw-hya_seeds.png",
+   "credit": "Akiyama et al. 2015, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Akiyama",
+    "year": 2015,
+    "title": "Discovery of a Disk Gap Candidate at 20 AU in TW Hydrae",
+    "journal": "ApJL 802, L17",
+    "arxiv": "1503.01856",
+    "bibcode": "2015ApJ...802L..17A"
+   }
+  },
+  {
+   "type": "disk_scattered",
+   "survey": null,
+   "file": "images/tw-hya/tw-hya_stis2017-shadow.png",
+   "credit": "Debes et al. 2017, Fig. 2 (crop: 2016 epoch, R^2-scaled STIS coronagraphic image showing the azimuthal shadow asymmetry)",
+   "image_id": "tw-hya_stis2017-shadow",
+   "facility": "HST",
+   "instrument": "STIS BAR5",
+   "wavelength_um": 0.58,
+   "wavelength_label": "optical; rotating shadow on the outer disk (2016 epoch, R^2-scaled, IWA 0.2 arcsec)",
+   "technique": "coronagraphy",
+   "paper": {
+    "first_author": "Debes",
+    "year": 2017,
+    "title": "Chasing Shadows: Rotation of the Azimuthal Asymmetry in the TW Hya Disk",
+    "journal": "ApJ 835, 205",
+    "arxiv": "1701.03152",
+    "bibcode": "2017ApJ...835..205D"
+   }
+  },
+  {
+   "type": "disk_scattered",
+   "survey": null,
+   "file": "images/tw-hya/tw-hya_stis2023-shadows.png",
+   "credit": "Debes et al. 2023, Fig. 2 (crop: 2021 epoch, R^2-scaled; the single 2016 shadow has split into shadows B and C)",
+   "image_id": "tw-hya_stis2023-shadows",
+   "facility": "HST",
+   "instrument": "STIS",
+   "wavelength_um": 0.58,
+   "wavelength_label": "optical; 2021 epoch: the shadow has split into two (misaligned inner rings)",
+   "technique": "coronagraphy",
+   "paper": {
+    "first_author": "Debes",
+    "year": 2023,
+    "title": "The Surprising Evolution of the Shadow on the TW Hya Disk",
+    "journal": "ApJ (2023)",
+    "arxiv": "2305.03611",
+    "bibcode": null
+   }
+  },
+  {
+   "image_id": "tw-hya_alice-f110w",
+   "type": "disk_scattered",
+   "facility": "HST",
+   "instrument": "NICMOS",
+   "wavelength_um": 1.1,
+   "wavelength_label": "F110W 1.1 um (ALICE archival reprocessing, combined coadd)",
+   "technique": "RDI",
+   "survey": "ALICE",
+   "file": "images/tw-hya/tw-hya_alice-f110w.png",
+   "credit": "ALICE HLSP v1 combined coadd (HST program 7226, STScI) — hi-res: ALICE archive (STScI)",
+   "paper": {
+    "first_author": "Hagan",
+    "year": 2018,
+    "title": "ALICE Data Release: A revaluation of HST-NICMOS coronagraphic images",
+    "journal": "AJ 155, 179",
+    "arxiv": "1802.07754",
+    "bibcode": null
+   },
+   "hires_url": "https://archive.stsci.edu/prepds/alice/"
+  },
+  {
+   "image_id": "tw-hya_gpi2015",
+   "type": "disk_scattered",
+   "facility": "Gemini-GPI",
+   "instrument": "GPI (pol)",
+   "wavelength_um": 1.25,
+   "wavelength_label": "J band polarized intensity (Qr)",
+   "technique": "PDI",
+   "survey": null,
+   "credit": "Rapson et al. 2015, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Rapson",
+    "year": 2015,
+    "title": "Peering into the Giant Planet Forming Region of the TW Hydrae Disk with the Gemini Planet Imager",
+    "journal": "ApJL",
+    "arxiv": "1512.01865",
+    "bibcode": null
+   },
+   "file": "images/tw-hya/tw-hya_gpi2015.png"
+  },
+  {
+   "image_id": "tw-hya_sma2012",
+   "type": "disk_mm",
+   "facility": "SMA",
+   "instrument": "SMA",
+   "wavelength_um": 870,
+   "wavelength_label": "870 micron continuum",
+   "technique": "interferometry",
+   "survey": null,
+   "credit": "Andrews et al. 2012, Fig. 1a (crop)",
+   "paper": {
+    "first_author": "Andrews",
+    "year": 2012,
+    "title": "The TW Hya Disk at 870 microns: Comparison of CO and Dust Radial Structures",
+    "journal": "ApJ, 744, 162",
+    "arxiv": "1111.5037",
+    "bibcode": null
+   },
+   "file": "images/tw-hya/tw-hya_sma2012.png"
+  },
+  {
+   "image_id": "tw-hya_sphere-rdi-xie22",
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS",
+   "wavelength_um": 1.65,
+   "wavelength_label": "total intensity (H23, RDI)",
+   "technique": "RDI",
+   "survey": null,
+   "credit": "Xie et al. 2022, Fig. 9 (crop)",
+   "paper": {
+    "first_author": "Xie",
+    "year": 2022,
+    "title": "Reference-star differential imaging on SPHERE/IRDIS",
+    "journal": "A&A 666, A32",
+    "arxiv": "2208.07915",
+    "bibcode": null
+   },
+   "file": "images/tw-hya/tw-hya_sphere-rdi-xie22.png"
+  },
+  {
+   "image_id": "tw-hya_eris2025",
+   "type": "disk_scattered",
+   "facility": "VLT",
+   "instrument": "ERIS/vAPP",
+   "wavelength_um": 4.0,
+   "wavelength_label": "4 um (M-band, mid-IR scattered light, RDI)",
+   "technique": "RDI",
+   "survey": null,
+   "credit": "Maio et al. 2025, Fig. 4 (crop)",
+   "paper": {
+    "first_author": "Maio",
+    "year": 2025,
+    "title": "Protoplanetary disk insights from the first ERIS/APP survey at 4 μm",
+    "journal": "Astronomy & Astrophysics",
+    "arxiv": "2504.19810",
+    "bibcode": null
+   },
+   "file": "images/tw-hya/tw-hya_eris2025.png"
+  }
+ ],
+ "notes": null,
+ "last_updated": "2026-07-07",
+ "plx_mas": 16.6289,
+ "mags": {
+  "B": 11.94,
+  "V": 10.5,
+  "G": 10.450887,
+  "R": 10.626,
+  "I": 9.18,
+  "J": 8.217,
+  "H": 7.558,
+  "K": 7.297
+ }
+}

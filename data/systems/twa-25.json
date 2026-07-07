@@ -1,0 +1,131 @@
+{
+ "id": "twa-25",
+ "name": "TWA 25",
+ "alt_names": [],
+ "simbad": "TWA 25",
+ "ra_deg": 183.87800133377,
+ "dec_deg": -39.81183519004,
+ "dist_pc": 53.6,
+ "plx_mas": 18.6555,
+ "mags": {
+  "B": 13.09,
+  "V": 11.16,
+  "G": 10.496087,
+  "R": 10.919,
+  "I": 9.5,
+  "J": 8.166,
+  "H": 7.504,
+  "K": 7.306
+ },
+ "sptype": "M0.5",
+ "region": null,
+ "categories": [
+  "debris"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "type": "disk_scattered",
+   "facility": "HST",
+   "instrument": "NICMOS",
+   "wavelength_um": 1.6,
+   "wavelength_label": "F160W 1.6 um (ALICE reprocessing)",
+   "technique": "RDI",
+   "image_id": "twa-25_alice",
+   "survey": "ALICE",
+   "file": "images/twa-25/twa-25_alice.png",
+   "credit": "Choquet et al. 2016, Fig. 2 (crop)",
+   "paper": {
+    "first_author": "Choquet",
+    "year": 2016,
+    "title": "First images of debris disks around TWA 7, TWA 25, HD 35650, and HD 377",
+    "journal": "ApJL 817, L2",
+    "arxiv": "1512.02220",
+    "bibcode": "2016ApJ...817L...2C"
+   }
+  },
+  {
+   "type": "disk_scattered",
+   "facility": "HST",
+   "instrument": "NICMOS",
+   "wavelength_um": 1.6,
+   "wavelength_label": "F160W 1.60 um (NMF reprocessing)",
+   "technique": "RDI",
+   "image_id": "twa-25_nicmos-ren2023",
+   "file": "images/twa-25/twa-25_nicmos-ren2023.png",
+   "survey": "NICMOS-Ren2023",
+   "credit": "Ren et al. 2023, Fig. 4 (crop)",
+   "paper": {
+    "first_author": "Ren",
+    "year": 2023,
+    "title": "Debris Disk Color with the Hubble Space Telescope",
+    "journal": "A&A 672, A114",
+    "arxiv": "2302.04273",
+    "bibcode": "2023A&A...672A.114R"
+   }
+  },
+  {
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS/IFS",
+   "wavelength_um": 1.65,
+   "wavelength_label": "H band 1.6 um (total intensity)",
+   "technique": "ADI",
+   "image_id": "twa-25_sphere-debris-2025",
+   "file": "images/twa-25/twa-25_sphere-debris-2025.png",
+   "survey": "SPHERE-debris-2025",
+   "credit": "Engler et al. 2025, Fig. 2b (crop)",
+   "paper": {
+    "first_author": "Engler",
+    "year": 2025,
+    "title": "Characterization of debris disks observed with SPHERE",
+    "journal": "A&A 704, A21",
+    "arxiv": "2512.03128",
+    "bibcode": null
+   }
+  },
+  {
+   "type": "disk_scattered",
+   "facility": "HST",
+   "instrument": "STIS",
+   "wavelength_um": 0.58,
+   "wavelength_label": "0.2-1.0 um broadband (optical)",
+   "technique": "coronagraphy",
+   "image_id": "twa-25_stis-ren",
+   "file": "images/twa-25/twa-25_stis-ren.png",
+   "survey": "STIS-Ren",
+   "credit": "Ren et al. 2023, Fig. 2 (crop)",
+   "paper": {
+    "first_author": "Ren",
+    "year": 2023,
+    "title": "Debris Disk Color with the Hubble Space Telescope",
+    "journal": "A&A 672, A114",
+    "arxiv": "2302.04273",
+    "bibcode": "2023A&A...672A.114R"
+   }
+  },
+  {
+   "image_id": "twa-25_alice-f160w",
+   "type": "disk_scattered",
+   "facility": "HST",
+   "instrument": "NICMOS",
+   "wavelength_um": 1.6,
+   "wavelength_label": "F160W 1.6 um (ALICE archival reprocessing, combined coadd)",
+   "technique": "RDI",
+   "survey": "ALICE",
+   "file": "images/twa-25/twa-25_alice-f160w.png",
+   "credit": "ALICE HLSP v1 combined coadd (HST program 10176, STScI) — hi-res: ALICE archive (STScI)",
+   "paper": {
+    "first_author": "Hagan",
+    "year": 2018,
+    "title": "ALICE Data Release: A revaluation of HST-NICMOS coronagraphic images",
+    "journal": "AJ 155, 179",
+    "arxiv": "1802.07754",
+    "bibcode": null
+   },
+   "hires_url": "https://archive.stsci.edu/prepds/alice/"
+  }
+ ],
+ "notes": null,
+ "last_updated": "2026-07-06"
+}

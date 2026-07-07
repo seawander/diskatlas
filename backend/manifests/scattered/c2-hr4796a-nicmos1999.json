@@ -1,0 +1,29 @@
+{
+ "survey": "c2-hr4796a-nicmos1999",
+ "survey_name": null,
+ "source_image": "images/_sources/_views/c2_hr4796_nicmos_f1.png",
+ "panels": [
+  {
+   "id": "hr-4796a",
+   "image_id": "hr-4796a_nicmos1999",
+   "bbox_frac": [0.5114, 0.083, 0.8753, 0.2588]
+  }
+ ],
+ "image_defaults": {
+  "type": "disk_scattered",
+  "facility": "HST",
+  "instrument": "NICMOS",
+  "wavelength_um": 1.1,
+  "wavelength_label": "1.1 um (discovery of scattered-light ring)",
+  "technique": "coronagraphy"
+ },
+ "credit": "Schneider et al. 1999, Fig. 1b (F110W, crop)",
+ "paper": {
+  "first_author": "Schneider",
+  "year": 1999,
+  "title": "NICMOS Imaging of the HR 4796A Circumstellar Disk",
+  "journal": "ApJL 513, L127",
+  "arxiv": "astro-ph/9901218",
+  "bibcode": "1999ApJ...513L.127S"
+ }
+}

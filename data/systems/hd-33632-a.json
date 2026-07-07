@@ -1,0 +1,62 @@
+{
+ "id": "hd-33632-a",
+ "name": "HD 33632 A",
+ "alt_names": [],
+ "simbad": "HD 33632",
+ "ra_deg": 78.3226990387,
+ "dec_deg": 37.33731132555,
+ "dist_pc": 26.56,
+ "plx_mas": 37.8953,
+ "mags": {
+  "B": 6.99,
+  "V": 6.47,
+  "G": 6.3506,
+  "R": 6.2,
+  "J": 5.43,
+  "H": 5.193,
+  "K": 5.166
+ },
+ "sptype": "F8V",
+ "region": null,
+ "categories": [],
+ "planets": [
+  {
+   "name": "Ab",
+   "status": "confirmed",
+   "method": "imaging",
+   "note": "Brown dwarf companion at ~20 au projected separation; dynamical mass 46.4(+8.1/-7.6) M_Jup, mass ratio ~4.0%, detected via 10.5-sigma Hipparcos-Gaia astrometric acceleration of the host (HD 33632 A is itself a close binary, Aa+Ab now resolved as the imaged companion).",
+   "paper": {
+    "first_author": "Currie",
+    "year": 2020,
+    "title": "SCExAO/CHARIS Direct Imaging Discovery of a 20 au Separation, Low-Mass Ratio Brown Dwarf Companion to an Accelerating Sun-like Star",
+    "journal": null,
+    "arxiv": "2011.08855",
+    "bibcode": null
+   }
+  }
+ ],
+ "images": [
+  {
+   "image_id": "hd-33632-a_scexao2020",
+   "type": "planet",
+   "facility": "Subaru-SCExAO",
+   "instrument": "CHARIS",
+   "wavelength_um": 1.65,
+   "wavelength_label": "JHK broadband (1.16-2.37 um); accelerating-star discovery",
+   "technique": "ADI",
+   "survey": null,
+   "credit": "Currie et al. 2020, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Currie",
+    "year": 2020,
+    "title": "SCExAO/CHARIS Direct Imaging Discovery of a 20 au Separation, Low-Mass Ratio Brown Dwarf Companion to an Accelerating Sun-like Star",
+    "journal": null,
+    "arxiv": "2011.08855",
+    "bibcode": null
+   },
+   "file": "images/hd-33632-a/hd-33632-a_scexao2020.png"
+  }
+ ],
+ "notes": "HD 33632 A is a close binary (Aa+Ab designations for the two stellar components); the imaged substellar companion is HD 33632 Ab (orbiting the primary Aa), sometimes referred to loosely as HD 33632 B in follow-up literature.",
+ "last_updated": "2026-07-06"
+}

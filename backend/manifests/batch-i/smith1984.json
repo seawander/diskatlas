@@ -1,0 +1,23 @@
+{
+  "survey": "i2-smith1984",
+  "survey_name": null,
+  "source_image": "images/_sources/extra/smith1984_betapic.pdf",
+  "pdf_page": 2,
+  "dpi": 200,
+  "panels": [
+    { "id": "beta-pic", "image_id": "beta-pic_smith1984",
+      "bbox_frac": [0.058, 0.200, 0.648, 0.522] }
+  ],
+  "image_defaults": {
+    "type": "disk_scattered", "facility": "Las Campanas 2.5m du Pont",
+    "instrument": "CCD coronagraph", "wavelength_um": 0.89,
+    "wavelength_label": "890 nm; the first circumstellar disk image (1984)",
+    "technique": "coronagraphy"
+  },
+  "credit": "Smith & Terrile 1984, Fig. 1 (crop; user-provided PDF)",
+  "paper": {
+    "first_author": "Smith", "year": 1984,
+    "title": "A Circumstellar Disk around beta Pictoris",
+    "journal": "Science 226, 1421", "arxiv": null, "bibcode": "1984Sci...226.1421S"
+  }
+}

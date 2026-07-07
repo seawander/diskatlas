@@ -1,0 +1,35 @@
+{
+ "survey": "pl-fomalhaut",
+ "survey_name": null,
+ "source_image": "images/_sources/_views/batchD_fomalhaut_fig1.png",
+ "pdf_page": null,
+ "panels": [
+  {
+   "id": "fomalhaut",
+   "image_id": "fomalhaut_acs2008",
+   "bbox_frac": [
+    0.0,
+    0.0,
+    1.0,
+    1.0
+   ]
+  }
+ ],
+ "image_defaults": {
+  "type": "planet",
+  "facility": "HST",
+  "instrument": "ACS",
+  "wavelength_um": 0.6,
+  "wavelength_label": "optical; Fomalhaut b source",
+  "technique": "coronagraphy"
+ },
+ "credit": "Kalas et al. 2008, Fig. 1 (crop)",
+ "paper": {
+  "first_author": "Kalas",
+  "year": 2008,
+  "title": "Optical Images of an Exosolar Planet 25 Light-Years from Earth",
+  "journal": "Science 322, 1345",
+  "arxiv": "0811.1994",
+  "bibcode": "2008Sci...322.1345K"
+ }
+}

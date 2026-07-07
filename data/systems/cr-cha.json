@@ -1,0 +1,69 @@
+{
+ "id": "cr-cha",
+ "name": "cr cha",
+ "alt_names": [],
+ "simbad": "cr cha",
+ "ra_deg": 164.77904816375,
+ "dec_deg": -77.0278636759,
+ "dist_pc": 185.2,
+ "sptype": "K4Ve",
+ "region": "Chamaeleon I",
+ "categories": [
+  "protoplanetary"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS DPI",
+   "wavelength_um": 1.65,
+   "wavelength_label": "H band 1.6 um (Qphi pol. intensity)",
+   "technique": "PDI",
+   "image_id": "cr-cha_sphere-chami",
+   "file": "images/cr-cha/cr-cha_sphere-chami.png",
+   "survey": "SPHERE-ChamI",
+   "credit": "Ginski et al. 2024, Fig. 2 (crop)",
+   "paper": {
+    "first_author": "Ginski",
+    "year": 2024,
+    "title": "The SPHERE view of the Chamaeleon I star-forming region: The full census of planet-forming disks with GTO and DESTINYS programs",
+    "journal": "A&A 685, A52",
+    "arxiv": "2403.02149",
+    "bibcode": "2024A&A...685A..52G"
+   }
+  },
+  {
+   "type": "disk_scattered",
+   "facility": "VLT-NACO",
+   "instrument": "NACO pol",
+   "wavelength_um": 2.18,
+   "wavelength_label": "Ks band (PIPPIN PDI reprocessing)",
+   "technique": "PDI",
+   "image_id": "cr-cha_naco-pippin",
+   "file": "images/cr-cha/cr-cha_naco-pippin.png",
+   "survey": "NACO-PIPPIN",
+   "credit": "de Regt et al. 2024, Fig. 6 (crop)",
+   "paper": {
+    "first_author": "de Regt",
+    "year": 2024,
+    "title": "Polarimetric differential imaging with VLT/NACO. A comprehensive PDI pipeline for NACO data (PIPPIN)",
+    "journal": "A&A 684, A73",
+    "arxiv": "2404.02222",
+    "bibcode": "2024A&A...684A..73D"
+   }
+  }
+ ],
+ "notes": "AUTO-CREATED from staging - fill metadata & coords",
+ "last_updated": "2026-07-06",
+ "plx_mas": 5.3997,
+ "mags": {
+  "B": 12.91,
+  "V": 11.136,
+  "G": 10.514599,
+  "I": 9.596,
+  "J": 8.46,
+  "H": 7.82,
+  "K": 7.31
+ }
+}

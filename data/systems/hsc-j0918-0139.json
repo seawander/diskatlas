@@ -1,0 +1,42 @@
+{
+ "id": "hsc-j0918-0139",
+ "name": "HSC J0918+0139",
+ "alt_names": [],
+ "simbad": "HSCS J091833+013923",
+ "ra_deg": 139.638208,
+ "dec_deg": 1.6565,
+ "dist_pc": null,
+ "plx_mas": null,
+ "mags": null,
+ "sptype": null,
+ "region": "extragalactic (z>6 SHELLQs)",
+ "categories": [
+  "quasar"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "image_id": "hsc-j0918-0139_jwst-ding25",
+   "type": "quasar",
+   "facility": "JWST",
+   "instrument": "NIRCam",
+   "wavelength_um": 3.56,
+   "wavelength_label": "F356W rest-frame optical; host galaxy after quasar PSF subtraction (z=6.19)",
+   "technique": "other",
+   "survey": null,
+   "file": "images/hsc-j0918-0139/hsc-j0918-0139_jwst-ding25.png",
+   "credit": "Ding et al. 2025, Fig. 2 (crop)",
+   "paper": {
+    "first_author": "Ding",
+    "year": 2025,
+    "title": "SHELLQs-JWST Unveils the Host Galaxies of 12 Quasars at z>6",
+    "journal": "A&A (2025)",
+    "arxiv": "2505.03876",
+    "bibcode": null
+   }
+  }
+ ],
+ "notes": "Added 2026-07-06. z=6.19 HSC/SHELLQs quasar; JWST NIRCam host-galaxy decomposition (Ding+2025). Coords from designation.",
+ "last_updated": "2026-07-07",
+ "redshift": 6.19
+}

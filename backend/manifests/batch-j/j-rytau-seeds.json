@@ -1,0 +1,21 @@
+{
+ "survey": "j-rytau-seeds",
+ "survey_name": null,
+ "source_image": "images/_sources/extracted/1306.1887/f1.pdf",
+ "pdf_page": null,
+ "panels": [
+  {
+   "id": "ry-tau",
+   "image_id": "ry-tau_seeds",
+   "bbox_frac": [
+    0.055,
+    0.02,
+    0.5,
+    0.315
+   ]
+  }
+ ],
+ "image_defaults": {},
+ "credit": "Takami et al. 2013, Fig. 1 (crop)",
+ "paper": null
+}

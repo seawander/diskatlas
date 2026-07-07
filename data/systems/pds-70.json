@@ -1,0 +1,271 @@
+{
+ "id": "pds-70",
+ "name": "PDS 70",
+ "alt_names": [],
+ "simbad": "PDS 70",
+ "ra_deg": 212.04231062531,
+ "dec_deg": -41.3979370253,
+ "dist_pc": 112.4,
+ "sptype": "K7IVe",
+ "region": "Upper Cen-Lup",
+ "categories": [
+  "protoplanetary"
+ ],
+ "planets": [
+  {
+   "name": "b",
+   "status": "confirmed",
+   "paper": {
+    "first_author": "Haffert",
+    "year": 2019,
+    "arxiv": "1906.01486",
+    "bibcode": "2019NatAs...3..749H"
+   }
+  },
+  {
+   "name": "c",
+   "status": "confirmed",
+   "paper": {
+    "first_author": "Haffert",
+    "year": 2019,
+    "arxiv": "1906.01486",
+    "bibcode": "2019NatAs...3..749H"
+   }
+  }
+ ],
+ "images": [
+  {
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 7",
+   "wavelength_um": 855,
+   "wavelength_label": "855 um continuum (ring + CPD around c)",
+   "technique": "interferometry",
+   "survey": null,
+   "credit": "Benisty et al. 2021, Fig. 1 (right, annotated) (crop)",
+   "paper": {
+    "first_author": "Benisty",
+    "year": 2021,
+    "title": "A Circumplanetary Disk around PDS 70 c",
+    "journal": "ApJL 916, L2",
+    "arxiv": "2108.07123",
+    "bibcode": "2021ApJ...916L...2B"
+   },
+   "image_id": "pds-70_alma2021",
+   "file": "images/pds-70/pds-70_alma2021.png"
+  },
+  {
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS",
+   "wavelength_um": 1.65,
+   "wavelength_label": "H2H3 band; planet b within the disk gap",
+   "technique": "ADI",
+   "survey": null,
+   "credit": "Keppler et al. 2018, Fig. 9 (crop)",
+   "paper": {
+    "first_author": "Keppler",
+    "year": 2018,
+    "title": "Discovery of a planetary-mass companion within the gap of the transition disk around PDS 70",
+    "journal": "A&A 617, A44",
+    "arxiv": "1806.11568",
+    "bibcode": "2018A&A...617A..44K"
+   },
+   "image_id": "pds-70_sphere2018",
+   "file": "images/pds-70/pds-70_sphere2018.png"
+  },
+  {
+   "type": "planet",
+   "facility": "VLT-MUSE",
+   "instrument": "MUSE NFM",
+   "wavelength_um": 0.656,
+   "wavelength_label": "H-alpha; accreting planets b & c",
+   "technique": "other",
+   "survey": null,
+   "credit": "Haffert et al. 2019, Fig. 2 (crop)",
+   "paper": {
+    "first_author": "Haffert",
+    "year": 2019,
+    "title": "Two accreting protoplanets around the young star PDS 70",
+    "journal": "Nature Astronomy 3, 749",
+    "arxiv": "1906.01486",
+    "bibcode": "2019NatAs...3..749H"
+   },
+   "image_id": "pds-70_muse2019",
+   "file": "images/pds-70/pds-70_muse2019.png"
+  },
+  {
+   "type": "planet",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS K1",
+   "wavelength_um": 2.11,
+   "wavelength_label": "K1 2.1 um ADI; planets b & c",
+   "technique": "ADI",
+   "image_id": "pds-70_sphere2016-k1",
+   "file": "images/pds-70/pds-70_sphere2016-k1.png",
+   "survey": null,
+   "credit": "Haffert et al. 2019, Fig. 2b (crop)",
+   "paper": {
+    "first_author": "Haffert",
+    "year": 2019,
+    "title": "Two accreting protoplanets around the young star PDS 70",
+    "journal": "Nature Astronomy 3, 749",
+    "arxiv": "1906.01486",
+    "bibcode": "2019NatAs...3..749H"
+   }
+  },
+  {
+   "type": "planet",
+   "facility": "JWST",
+   "instrument": "NIRCam",
+   "wavelength_um": 4.83,
+   "wavelength_label": "1.87 + 4.83 um; b & c re-detected, spiral stream + candidate d",
+   "technique": "other",
+   "survey": null,
+   "credit": "Christiaens et al. 2024, Fig. 1e (crop: F480M disk-subtracted, b & c circled)",
+   "paper": {
+    "first_author": "Christiaens",
+    "year": 2024,
+    "title": "MINDS: JWST/NIRCam imaging of the protoplanetary disk PDS 70. A spiral accretion stream and a potential third protoplanet",
+    "journal": "A&A 685, L1",
+    "arxiv": "2403.04855",
+    "bibcode": null
+   },
+   "image_id": "pds-70_jwst2024",
+   "file": "images/pds-70/pds-70_jwst2024.png"
+  },
+  {
+   "image_id": "pds-70_seeds",
+   "type": "disk_scattered",
+   "facility": "Subaru-HiCIAO",
+   "instrument": "HiCIAO",
+   "wavelength_um": 1.65,
+   "wavelength_label": "H band (pol. intensity; giant cavity)",
+   "technique": "PDI",
+   "survey": "SEEDS",
+   "file": "images/pds-70/pds-70_seeds.png",
+   "credit": "Hashimoto et al. 2012, Fig. 2a (crop)",
+   "paper": {
+    "first_author": "Hashimoto",
+    "year": 2012,
+    "title": "Polarimetric Imaging of Large Cavity Structures in the Pre-transitional Protoplanetary Disk around PDS 70: Observations of the Disk",
+    "journal": "ApJL 758, L19",
+    "arxiv": "1208.2075",
+    "bibcode": "2012ApJ...758L..19H"
+   }
+  },
+  {
+   "image_id": "pds-70_keck2020",
+   "type": "planet",
+   "facility": "Keck",
+   "instrument": "NIRC2 vortex",
+   "wavelength_um": 3.8,
+   "wavelength_label": "L' band; planets b & c (Fig. 1 left+middle panels)",
+   "technique": "ADI",
+   "survey": null,
+   "file": "images/pds-70/pds-70_keck2020.png",
+   "credit": "Wang et al. 2020, Fig. 1 (left + middle panels, crop)",
+   "paper": {
+    "first_author": "Wang",
+    "year": 2020,
+    "title": "Keck/NIRC2 L'-Band Imaging of Jovian-Mass Accreting Protoplanets around PDS 70",
+    "journal": "AJ 159, 263",
+    "arxiv": "2004.09597",
+    "bibcode": "2020AJ....159..263W"
+   }
+  },
+  {
+   "type": "disk_scattered",
+   "facility": "Keck",
+   "instrument": "NIRC2 vortex",
+   "wavelength_um": 3.8,
+   "wavelength_label": "L' 3.8 um scattered light (ALMA contours overlaid)",
+   "technique": "RDI",
+   "image_id": "pds-70_keck-vortex-2024",
+   "file": "images/pds-70/pds-70_keck-vortex-2024.png",
+   "survey": "Keck-vortex-2024",
+   "credit": "Wallack et al. 2024, Fig. 4 (crop)",
+   "paper": {
+    "first_author": "Wallack",
+    "year": 2024,
+    "title": "A Survey of Protoplanetary Disks Using the Keck/NIRC2 Vortex Coronagraph",
+    "journal": "AJ 168, 78",
+    "arxiv": "2408.04048",
+    "bibcode": "2024AJ....168...78W"
+   }
+  },
+  {
+   "image_id": "pds-70_sphere-rdi-xie22",
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS",
+   "wavelength_um": 1.65,
+   "wavelength_label": "total intensity (H23, RDI)",
+   "technique": "RDI",
+   "survey": null,
+   "credit": "Xie et al. 2022, Fig. 9 (crop)",
+   "paper": {
+    "first_author": "Xie",
+    "year": 2022,
+    "title": "Reference-star differential imaging on SPHERE/IRDIS",
+    "journal": "A&A 666, A32",
+    "arxiv": "2208.07915",
+    "bibcode": null
+   },
+   "file": "images/pds-70/pds-70_sphere-rdi-xie22.png"
+  },
+  {
+   "image_id": "pds-70_muse2020",
+   "type": "planet",
+   "facility": "VLT-MUSE",
+   "instrument": "MUSE",
+   "wavelength_um": 0.656,
+   "wavelength_label": "H-alpha MUSE detection map; PDS 70 b & c",
+   "technique": "other",
+   "survey": null,
+   "credit": "Xie et al. 2020, Fig. 12 (crop)",
+   "paper": {
+    "first_author": "Xie",
+    "year": 2020,
+    "title": "Searching for proto-planets with MUSE",
+    "journal": "A&A 644, A149",
+    "arxiv": "2011.08043",
+    "bibcode": null
+   },
+   "file": "images/pds-70/pds-70_muse2020.png"
+  },
+  {
+   "image_id": "pds-70_eris2025",
+   "type": "disk_scattered",
+   "facility": "VLT",
+   "instrument": "ERIS/vAPP",
+   "wavelength_um": 4.0,
+   "wavelength_label": "4 um (M-band, mid-IR scattered light, RDI)",
+   "technique": "RDI",
+   "survey": null,
+   "credit": "Maio et al. 2025, Fig. 4 (crop)",
+   "paper": {
+    "first_author": "Maio",
+    "year": 2025,
+    "title": "Protoplanetary disk insights from the first ERIS/APP survey at 4 μm",
+    "journal": "Astronomy & Astrophysics",
+    "arxiv": "2504.19810",
+    "bibcode": null
+   },
+   "file": "images/pds-70/pds-70_eris2025.png"
+  }
+ ],
+ "notes": "Only system with two confirmed planets caught in formation inside the disk cavity.",
+ "last_updated": "2026-07-07",
+ "plx_mas": 8.8975,
+ "mags": {
+  "B": 13.42,
+  "V": 12.18,
+  "G": 11.606008,
+  "R": 11.71,
+  "I": 10.506,
+  "J": 9.553,
+  "H": 8.823,
+  "K": 8.542
+ }
+}

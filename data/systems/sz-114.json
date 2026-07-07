@@ -1,0 +1,50 @@
+{
+ "id": "sz-114",
+ "name": "Sz 114",
+ "alt_names": [],
+ "simbad": "Sz 114",
+ "ra_deg": 242.25770272701,
+ "dec_deg": -39.0867818659,
+ "dist_pc": 156.8,
+ "sptype": "M5.5",
+ "region": "Lupus",
+ "categories": [
+  "protoplanetary"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "technique": "interferometry",
+   "instrument": "Band 6",
+   "wavelength_um": 1250,
+   "wavelength_label": "1.25 mm continuum",
+   "image_id": "sz-114_dsharp",
+   "survey": "DSHARP",
+   "file": "images/sz-114/sz-114_dsharp.png",
+   "credit": "Andrews et al. 2018, Fig. 3 (crop)",
+   "paper": {
+    "first_author": "Andrews",
+    "year": 2018,
+    "title": "The Disk Substructures at High Angular Resolution Project (DSHARP). I. Motivation, Sample, Calibration, and Overview",
+    "journal": "ApJL 869, L41",
+    "arxiv": "1812.04040",
+    "bibcode": "2018ApJ...869L..41A"
+   }
+  }
+ ],
+ "notes": null,
+ "last_updated": "2026-07-07",
+ "plx_mas": 6.3792,
+ "mags": {
+  "B": 15.33,
+  "V": 14.12,
+  "G": 13.64162,
+  "R": 14.35,
+  "I": 12.54,
+  "J": 10.414,
+  "H": 9.697,
+  "K": 9.319
+ }
+}

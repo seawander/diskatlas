@@ -1,0 +1,160 @@
+{
+ "id": "sr-21",
+ "name": "sr 21",
+ "alt_names": [],
+ "simbad": "EM* SR 21",
+ "ra_deg": 246.7927917,
+ "dec_deg": -24.3201944,
+ "dist_pc": null,
+ "sptype": null,
+ "region": "Ophiuchus",
+ "categories": [
+  "protoplanetary"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "image_id": "sr-21_seeds",
+   "type": "disk_scattered",
+   "facility": "Subaru-HiCIAO",
+   "instrument": "HiCIAO",
+   "wavelength_um": 1.65,
+   "wavelength_label": "H band (pol. intensity)",
+   "technique": "PDI",
+   "survey": "SEEDS",
+   "file": "images/sr-21/sr-21_seeds.png",
+   "credit": "Follette et al. 2013, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Follette",
+    "year": 2013,
+    "title": "Mapping H-band Scattered Light Emission in the Mysterious SR21 Transitional Disk",
+    "journal": "ApJ 767, 10",
+    "arxiv": "1302.5705",
+    "bibcode": "2013ApJ...767...10F"
+   }
+  },
+  {
+   "image_id": "sr-21_sphere2020",
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS",
+   "wavelength_um": 1.65,
+   "wavelength_label": "H band pol. with ALMA contours (spirals in the mm cavity)",
+   "technique": "PDI",
+   "survey": null,
+   "file": "images/sr-21/sr-21_sphere2020.png",
+   "credit": "Muro-Arena et al. 2020, ALMA+SPHERE figure (crop)",
+   "paper": {
+    "first_author": "Muro-Arena",
+    "year": 2020,
+    "title": "Spirals inside the millimeter cavity of transition disk SR 21",
+    "journal": "A&A 636, L4",
+    "arxiv": "2003.08189",
+    "bibcode": "2020A&A...636L...4M"
+   }
+  },
+  {
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 3",
+   "wavelength_um": 2750,
+   "wavelength_label": "Band 3 ~2.8 mm continuum ring (asymmetric)",
+   "technique": "interferometry",
+   "image_id": "sr-21_alma2020",
+   "file": "images/sr-21/sr-21_alma2020.png",
+   "survey": null,
+   "credit": "Muro-Arena et al. 2020, ALMA+SPHERE figure (crop)",
+   "paper": {
+    "first_author": "Muro-Arena",
+    "year": 2020,
+    "title": "Spirals inside the millimeter cavity of transition disk SR 21",
+    "journal": "A&A 636, L4",
+    "arxiv": "2003.08189",
+    "bibcode": "2020A&A...636L...4M"
+   }
+  },
+  {
+   "image_id": "sr-21_nirc22020",
+   "type": "disk_scattered",
+   "facility": "Keck",
+   "instrument": "NIRC2 (PWFS)",
+   "wavelength_um": 3.8,
+   "wavelength_label": "L' (3.8 um) total intensity; first L' detection of the SR 21 spiral",
+   "technique": "ADI",
+   "survey": null,
+   "file": "images/sr-21/sr-21_nirc22020.png",
+   "credit": "Uyama et al. 2020, Fig. (NIRC2 KLIP KL=3/5) (crop)",
+   "paper": {
+    "first_author": "Uyama",
+    "year": 2020,
+    "title": "Early High-contrast Imaging Results with Keck/NIRC2-PWFS: The SR 21 Disk",
+    "journal": "AJ (2020)",
+    "arxiv": "2011.00044",
+    "bibcode": null
+   }
+  },
+  {
+   "image_id": "sr-21_alma2015",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "ALMA Band 9",
+   "wavelength_um": 434,
+   "wavelength_label": "690 GHz continuum",
+   "technique": "interferometry",
+   "survey": null,
+   "credit": "van der Marel et al. 2015, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "van der Marel",
+    "year": 2015,
+    "title": "Gas density drops inside dust cavities of transitional disks around young stars observed with ALMA",
+    "journal": "A&A 579, A106 (2015)",
+    "arxiv": "1504.03927",
+    "bibcode": null
+   },
+   "file": "images/sr-21/sr-21_alma2015.png"
+  },
+  {
+   "image_id": "sr-21_alma2023",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 6",
+   "wavelength_um": 1300,
+   "wavelength_label": "1.3 mm continuum (two rings, asymmetric arcs)",
+   "technique": "interferometry",
+   "survey": null,
+   "credit": "Yang et al. 2023, Fig. 1a (crop)",
+   "paper": {
+    "first_author": "Yang",
+    "year": 2023,
+    "title": "Multiple Rings and Asymmetric Structures in the Disk of SR 21",
+    "journal": "ApJ 948, 71 (2023)",
+    "arxiv": "2303.05064",
+    "bibcode": null
+   },
+   "file": "images/sr-21/sr-21_alma2023.png"
+  },
+  {
+   "image_id": "sr-21_magao2019",
+   "type": "disk_scattered",
+   "facility": "Magellan-MagAO",
+   "instrument": "VisAO/Clio2 NRM + Keck/NIRC2 NRM (image reconstruction)",
+   "wavelength_um": 3.78,
+   "wavelength_label": "L' (and Ks) non-redundant-masking image reconstruction",
+   "technique": "other",
+   "survey": null,
+   "credit": "Sallum et al. 2019, Fig. 10 (June 2017 L' panel, crop)",
+   "paper": {
+    "first_author": "Sallum",
+    "year": 2019,
+    "title": "New Spatially Resolved Imaging of the SR 21 Transition Disk and Constraints on the Small-Grain Disk Geometry",
+    "journal": "AJ",
+    "arxiv": "1908.07427",
+    "bibcode": null
+   },
+   "file": "images/sr-21/sr-21_magao2019.png",
+   "note": "Magellan/MagAO (VisAO+Clio2 non-redundant masking) is a new facility for sr-21.json (existing record was Keck/NIRC2 PWFS from Uyama et al. 2020, a different instrument/epoch). Cropped the cleanest single-epoch NRM image reconstruction (Fig. 10, June 2017 L') showing the ring/warp; Fig. 1 (raw MagAO Halpha+continuum KLIP frames) was checked first but is a non-detection/SNR-map figure, not a resolved image, so it was not used."
+  }
+ ],
+ "notes": "AUTO-CREATED from staging - fill metadata & coords",
+ "last_updated": "2026-07-06"
+}

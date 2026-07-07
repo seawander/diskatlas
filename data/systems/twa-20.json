@@ -1,0 +1,49 @@
+{
+ "id": "twa-20",
+ "name": "TWA 20",
+ "alt_names": [],
+ "simbad": "TWA 20",
+ "ra_deg": 187.9086214902499,
+ "dec_deg": -45.98318275658,
+ "dist_pc": 80.21,
+ "plx_mas": 12.4678,
+ "mags": {
+  "B": 14.1,
+  "V": 13.24,
+  "G": 12.059723,
+  "I": 10.682,
+  "J": 9.331,
+  "H": 8.693,
+  "K": 8.412
+ },
+ "sptype": "M3IVe",
+ "region": "TW Hya association",
+ "categories": [
+  "debris"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "image_id": "twa-20_jwst-palatnick",
+   "type": "disk_scattered",
+   "facility": "JWST",
+   "instrument": "NIRCam",
+   "wavelength_um": 2.0,
+   "wavelength_label": "JWST/NIRCam F200W 2.0 um scattered light",
+   "technique": "coronagraphy",
+   "survey": null,
+   "file": "images/twa-20/twa-20_jwst-palatnick.png",
+   "credit": "Palatnick et al. 2025, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Palatnick",
+    "year": 2025,
+    "title": "Discovery of a Debris Disk Around TWA 20",
+    "journal": "arXiv:2510.20216",
+    "arxiv": "2510.20216",
+    "bibcode": null
+   }
+  }
+ ],
+ "notes": "Added 2026-07-06 (known_missing triage). Coordinates pending next host SIMBAD run.",
+ "last_updated": "2026-07-06"
+}

@@ -1,0 +1,46 @@
+{
+ "id": "elias-20",
+ "name": "Elias 20",
+ "alt_names": [],
+ "simbad": "Elia 2-20",
+ "ra_deg": 246.57865659084,
+ "dec_deg": -24.47213750974,
+ "dist_pc": 137.5,
+ "sptype": null,
+ "region": "Ophiuchus",
+ "categories": [
+  "protoplanetary"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "technique": "interferometry",
+   "instrument": "Band 6",
+   "wavelength_um": 1250,
+   "wavelength_label": "1.25 mm continuum",
+   "image_id": "elias-20_dsharp",
+   "survey": "DSHARP",
+   "file": "images/elias-20/elias-20_dsharp.png",
+   "credit": "Andrews et al. 2018, Fig. 3 (crop)",
+   "paper": {
+    "first_author": "Andrews",
+    "year": 2018,
+    "title": "The Disk Substructures at High Angular Resolution Project (DSHARP). I. Motivation, Sample, Calibration, and Overview",
+    "journal": "ApJL 869, L41",
+    "arxiv": "1812.04040",
+    "bibcode": "2018ApJ...869L..41A"
+   }
+  }
+ ],
+ "notes": null,
+ "last_updated": "2026-07-07",
+ "plx_mas": 7.2713,
+ "mags": {
+  "G": 18.045555,
+  "J": 12.579,
+  "H": 9.933,
+  "K": 8.072
+ }
+}

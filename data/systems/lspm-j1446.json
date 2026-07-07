@@ -1,0 +1,61 @@
+{
+ "id": "lspm-j1446",
+ "name": "LSPM J1446+4633",
+ "alt_names": [],
+ "simbad": "LSPM J1446+4633",
+ "ra_deg": 221.5028993259833,
+ "dec_deg": 46.5568789571706,
+ "dist_pc": 17.06,
+ "plx_mas": 58.6329,
+ "mags": {
+  "B": 15.7,
+  "G": 13.230633,
+  "R": 14.4,
+  "J": 10.138,
+  "H": 9.592,
+  "K": 9.308
+ },
+ "sptype": "dM4.5",
+ "region": "field (M dwarf)",
+ "categories": [],
+ "planets": [
+  {
+   "name": "B",
+   "status": "confirmed",
+   "method": "imaging",
+   "note": "~60 MJup brown-dwarf companion at ~4.3 au; Keck/NIRC2 + Subaru/IRD RV",
+   "paper": {
+    "first_author": "Uyama",
+    "year": 2025,
+    "title": "Direct Imaging Explorations for Companions from the Subaru/IRD Strategic Program II: Discovery of a Brown-dwarf Companion around a Nearby mid-M dwarf LSPM J1446+4633",
+    "journal": "AJ (2025)",
+    "arxiv": "2509.13587",
+    "bibcode": null
+   }
+  }
+ ],
+ "images": [
+  {
+   "image_id": "lspm-j1446_nirc2-uyama25",
+   "type": "planet",
+   "facility": "Keck",
+   "instrument": "NIRC2",
+   "wavelength_um": 3.78,
+   "wavelength_label": "L' band 3.8 um direct image",
+   "technique": "ADI",
+   "survey": null,
+   "file": "images/lspm-j1446/lspm-j1446_nirc2-uyama25.png",
+   "credit": "Uyama et al. 2025, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Uyama",
+    "year": 2025,
+    "title": "Direct Imaging Explorations for Companions from the Subaru/IRD Strategic Program II: Discovery of a Brown-dwarf Companion around a Nearby mid-M dwarf LSPM J1446+4633",
+    "journal": "AJ (2025)",
+    "arxiv": "2509.13587",
+    "bibcode": null
+   }
+  }
+ ],
+ "notes": "Added 2026-07-06. Directly-imaged companion host; coords pending SIMBAD.",
+ "last_updated": "2026-07-06"
+}

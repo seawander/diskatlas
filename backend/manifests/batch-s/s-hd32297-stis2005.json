@@ -1,0 +1,28 @@
+{
+ "survey": "s-hd32297-stis2005",
+ "survey_name": null,
+ "source_image": "images/_sources/extra/schneider2005_hd32297.pdf",
+ "pdf_page": 11,
+ "dpi": 300,
+ "panels": [
+  {"id": "hd-32297", "image_id": "hd-32297_stis2005",
+   "bbox_frac": [0.37882, 0.33091, 0.62118, 0.51727]}
+ ],
+ "image_defaults": {
+  "type": "disk_scattered",
+  "facility": "HST",
+  "instrument": "NICMOS",
+  "wavelength_um": 1.1,
+  "wavelength_label": "F110W 1.1 um; discovery of the edge-on disk (NICMOS)",
+  "technique": "coronagraphy"
+ },
+ "credit": "Schneider et al. 2005, Fig. 1b (crop)",
+ "paper": {
+  "first_author": "Schneider",
+  "year": 2005,
+  "title": "Discovery of a Nearly Edge-on Disk around HD 32297",
+  "journal": "ApJL 629, L117",
+  "arxiv": "astro-ph/0507355",
+  "bibcode": "2005ApJ...629L.117S"
+ }
+}

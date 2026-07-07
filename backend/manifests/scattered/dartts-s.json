@@ -1,0 +1,26 @@
+{
+  "survey": "dartts-s",
+  "survey_name": "DARTTS-S",
+  "source_image": "images/_sources/_views/dartts_fig1_r300.png",
+  "panels": [
+    { "id": "im-lup",          "image_id": "im-lup_dartts-s",          "bbox_frac": [0.0016, 0.0036, 0.4976, 0.7467] },
+    { "id": "rx-j1615-3-3255", "image_id": "rx-j1615-3-3255_dartts-s", "bbox_frac": [0.5024, 0.0036, 0.9984, 0.7467] },
+    { "id": "ru-lup",          "image_id": "ru-lup_dartts-s",          "bbox_frac": [0.0016, 0.7539, 0.1635, 0.9964] },
+    { "id": "my-lup",          "image_id": "my-lup_dartts-s",          "bbox_frac": [0.1683, 0.7539, 0.3301, 0.9964] },
+    { "id": "pds-66",          "image_id": "pds-66_dartts-s",          "bbox_frac": [0.3357, 0.7539, 0.4976, 0.9964] },
+    { "id": "v4046-sgr",       "image_id": "v4046-sgr_dartts-s",       "bbox_frac": [0.5024, 0.7539, 0.6643, 0.9964] },
+    { "id": "doar-44",         "image_id": "doar-44_dartts-s",         "bbox_frac": [0.6691, 0.7539, 0.8309, 0.9964] },
+    { "id": "as-209",          "image_id": "as-209_dartts-s",          "bbox_frac": [0.8365, 0.7539, 0.9984, 0.9964] }
+  ],
+  "image_defaults": {
+    "type": "disk_scattered", "facility": "VLT-SPHERE", "instrument": "IRDIS DPI",
+    "wavelength_um": 1.65, "wavelength_label": "H band 1.6 um (pol. intensity)",
+    "technique": "PDI"
+  },
+  "credit": "Avenhaus et al. 2018, Fig. 1 (crop)",
+  "paper": {
+    "first_author": "Avenhaus", "year": 2018,
+    "title": "Disks around T Tauri Stars with SPHERE (DARTTS-S). I. SPHERE/IRDIS Polarimetric Imaging of Eight Prominent T Tauri Disks",
+    "journal": "ApJ 863, 44", "arxiv": "1803.10882", "bibcode": "2018ApJ...863...44A"
+  }
+}

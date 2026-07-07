@@ -1,0 +1,47 @@
+{
+ "id": "ry-lup",
+ "name": "RY Lup",
+ "alt_names": [],
+ "simbad": "RY Lup",
+ "ra_deg": 239.8682769627899,
+ "dec_deg": -40.3642359711600,
+ "dist_pc": 151.0,
+ "plx_mas": 6.5153,
+ "mags": {
+  "V": 9.90,
+  "G": 10.993309,
+  "J": 8.546,
+  "H": 7.690,
+  "K": 6.976
+ },
+ "sptype": "G8/K1IV-V",
+ "region": "Lupus",
+ "categories": [
+  "protoplanetary"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "image_id": "ry-lup_sphere2018",
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS DPI",
+   "wavelength_um": 1.625,
+   "wavelength_label": "H2/H3 polarized intensity (near-IR)",
+   "technique": "PDI",
+   "survey": null,
+   "credit": "Langlois et al. 2018, Fig. 3 (top, crop)",
+   "paper": {
+    "first_author": "Langlois",
+    "year": 2018,
+    "title": "First scattered light detection of a nearly edge-on transition disk around the T Tauri star RY Lup",
+    "journal": "A&A 614, A88",
+    "arxiv": "1802.03995",
+    "bibcode": "2018A&A...614A..88L"
+   },
+   "file": "images/ry-lup/ry-lup_sphere2018.png"
+  }
+ ],
+ "notes": "First scattered-light detection of the RY Lup transition disk (VLT/SPHERE IRDIS+IFS). The disk appears as a dominating double-arch structure extending to 0.53 arcsec (80 au) in radius, seen at high inclination (PA ~107 deg), with faint spiral-like features in the SE possibly due to planet-disk interaction (Langlois et al. 2018).",
+ "last_updated": "2026-07-06"
+}

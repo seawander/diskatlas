@@ -1,0 +1,211 @@
+{
+ "id": "cq-tau",
+ "name": "CQ Tau",
+ "alt_names": [],
+ "simbad": "CQ Tau",
+ "ra_deg": 83.99361094339,
+ "dec_deg": 24.74835873627,
+ "dist_pc": 149.4,
+ "sptype": "F5IVe",
+ "region": "Taurus-Auriga",
+ "categories": [
+  "protoplanetary"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "technique": "interferometry",
+   "instrument": "Band 7",
+   "wavelength_um": 900,
+   "wavelength_label": "0.9 mm continuum",
+   "image_id": "cq-tau_exoalma",
+   "survey": "exoALMA",
+   "file": "images/cq-tau/cq-tau_exoalma.png",
+   "credit": "Curone et al. 2025, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Curone",
+    "year": 2025,
+    "title": "exoALMA IV: Substructures, Asymmetries, and the Faint Outer Disk in Continuum Emission",
+    "journal": "ApJL (exoALMA special issue)",
+    "arxiv": "2504.18725",
+    "bibcode": null
+   }
+  },
+  {
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS DPI",
+   "wavelength_um": 1.25,
+   "wavelength_label": "J band 1.25 um (pol. intensity)",
+   "technique": "PDI",
+   "image_id": "cq-tau_sphere-taurus",
+   "survey": "SPHERE-Taurus",
+   "file": "images/cq-tau/cq-tau_sphere-taurus.png",
+   "credit": "Garufi et al. 2024, Fig. 2 (crop)",
+   "paper": {
+    "first_author": "Garufi",
+    "year": 2024,
+    "title": "The SPHERE view of the Taurus star-forming region: The full census of planet-forming disks with GTO and DESTINYS programs",
+    "journal": "A&A 685, A53",
+    "arxiv": "2403.02158",
+    "bibcode": "2024A&A...685A..53G"
+   }
+  },
+  {
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS Ks",
+   "wavelength_um": 2.18,
+   "wavelength_label": "Ks 2.2 um (total intensity, RDI)",
+   "technique": "RDI",
+   "image_id": "cq-tau_sphere-ks-rdi",
+   "survey": "SPHERE-Ks-RDI",
+   "file": "images/cq-tau/cq-tau_sphere-ks-rdi.png",
+   "credit": "Ren et al. 2023, Ks total-intensity gallery (crop)",
+   "paper": {
+    "first_author": "Ren",
+    "year": 2023,
+    "title": "Protoplanetary disks in Ks-band total intensity and polarized light",
+    "journal": "A&A 680, A114",
+    "arxiv": "2310.08589",
+    "bibcode": "2023A&A...680A.114R"
+   }
+  },
+  {
+   "type": "disk_scattered",
+   "survey": null,
+   "file": "images/cq-tau/cq-tau_gravity2022-shadow.png",
+   "credit": "Bohn et al. 2022, Fig. 7 (crop: middle+right panels - SPHERE scattered-light image with shadow positions predicted from the VLTI/GRAVITY inner-disk geometry, misalignment solutions Dtheta_1 in blue and Dtheta_2 in orange)",
+   "image_id": "cq-tau_gravity2022-shadow",
+   "facility": "VLTI-GRAVITY + VLT-SPHERE",
+   "instrument": "GRAVITY K + scattered light",
+   "wavelength_um": 2.2,
+   "wavelength_label": "inner-disk misalignment: predicted vs observed shadows",
+   "technique": "interferometry",
+   "paper": {
+    "first_author": "Bohn",
+    "year": 2022,
+    "title": "Probing inner and outer disk misalignments in transition disks: constraints from VLTI/GRAVITY and ALMA observations",
+    "journal": "A&A 658, A183",
+    "arxiv": "2112.00123",
+    "bibcode": "2022A&A...658A.183B"
+   }
+  },
+  {
+   "image_id": "cq-tau_alice-f110w",
+   "type": "disk_scattered",
+   "facility": "HST",
+   "instrument": "NICMOS",
+   "wavelength_um": 1.1,
+   "wavelength_label": "F110W 1.1 um (ALICE archival reprocessing, combined coadd)",
+   "technique": "RDI",
+   "survey": "ALICE",
+   "file": "images/cq-tau/cq-tau_alice-f110w.png",
+   "credit": "ALICE HLSP v1 combined coadd (HST program 10177, STScI) — hi-res: ALICE archive (STScI)",
+   "paper": {
+    "first_author": "Hagan",
+    "year": 2018,
+    "title": "ALICE Data Release: A revaluation of HST-NICMOS coronagraphic images",
+    "journal": "AJ 155, 179",
+    "arxiv": "1802.07754",
+    "bibcode": null
+   },
+   "hires_url": "https://archive.stsci.edu/prepds/alice/"
+  },
+  {
+   "type": "disk_scattered",
+   "facility": "Keck",
+   "instrument": "NIRC2 vortex",
+   "wavelength_um": 3.8,
+   "wavelength_label": "L' 3.8 um scattered light (ALMA contours overlaid)",
+   "technique": "ADI",
+   "image_id": "cq-tau_keck-vortex-2024",
+   "file": "images/cq-tau/cq-tau_keck-vortex-2024.png",
+   "survey": "Keck-vortex-2024",
+   "credit": "Wallack et al. 2024, Fig. 4 (crop; ADI reduction)",
+   "paper": {
+    "first_author": "Wallack",
+    "year": 2024,
+    "title": "A Survey of Protoplanetary Disks Using the Keck/NIRC2 Vortex Coronagraph",
+    "journal": "AJ 168, 78",
+    "arxiv": "2408.04048",
+    "bibcode": "2024AJ....168...78W"
+   }
+  },
+  {
+   "image_id": "cq-tau_hiciao2020",
+   "type": "disk_scattered",
+   "facility": "Subaru-HiCIAO",
+   "instrument": "AO188+HiCIAO (PDI)",
+   "wavelength_um": 1.65,
+   "wavelength_label": "H band polarized intensity (spiral feature; ALMA contours overlaid)",
+   "technique": "PDI",
+   "survey": null,
+   "credit": "Uyama et al. 2020, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Uyama",
+    "year": 2020,
+    "title": "Near-Infrared Imaging of a Spiral in the CQ Tau Disk",
+    "journal": "The Astronomical Journal",
+    "arxiv": "1910.07605",
+    "bibcode": null
+   },
+   "file": "images/cq-tau/cq-tau_hiciao2020.png"
+  },
+  {
+   "image_id": "cq-tau_sma-pdbi-vla2011",
+   "type": "disk_mm",
+   "facility": "SMA/PdBI/VLA",
+   "instrument": "SMA 850um + IRAM-PdBI mm + VLA cm",
+   "wavelength_um": 870,
+   "wavelength_label": "0.87 mm - 3.6 cm (6-panel comparison)",
+   "technique": "interferometry",
+   "survey": null,
+   "credit": "Banzatti et al. 2011, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Banzatti",
+    "year": 2011,
+    "title": "New constraints on dust grain size and distribution in CQ Tau",
+    "journal": "Astronomy & Astrophysics",
+    "arxiv": "1009.2697",
+    "bibcode": null
+   },
+   "file": "images/cq-tau/cq-tau_sma-pdbi-vla2011.png"
+  },
+  {
+   "image_id": "cq-tau_sphere-ks-qphi",
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS",
+   "wavelength_um": 2.18,
+   "wavelength_label": "Ks band 2.2 um (pol. intensity, Qphi)",
+   "technique": "PDI",
+   "survey": "SPHERE-Ks-RDI",
+   "credit": "Ren et al. 2023, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Ren",
+    "year": 2023,
+    "title": "Protoplanetary disks in $K_s$-band total intensity and polarized light",
+    "journal": "A&A 680, A114",
+    "arxiv": "2310.08589",
+    "bibcode": "2023A&A...680A.114R"
+   },
+   "file": "images/cq-tau/cq-tau_sphere-ks-qphi.png"
+  }
+ ],
+ "notes": null,
+ "last_updated": "2026-07-07",
+ "plx_mas": 6.6946,
+ "mags": {
+  "U": 11.29,
+  "B": 10.78,
+  "V": 10.0,
+  "G": 10.228766,
+  "I": 8.33,
+  "J": 7.926,
+  "H": 7.06,
+  "K": 6.173
+ }
+}

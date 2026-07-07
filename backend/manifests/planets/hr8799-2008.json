@@ -1,0 +1,35 @@
+{
+ "survey": "pl-hr8799-2008",
+ "survey_name": null,
+ "source_image": "images/_sources/_views/batchD_hr8799-2008_fig1.png",
+ "pdf_page": null,
+ "panels": [
+  {
+   "id": "hr-8799",
+   "image_id": "hr-8799_keck2008",
+   "bbox_frac": [
+    0.0,
+    0.502,
+    1.0,
+    1.0
+   ]
+  }
+ ],
+ "image_defaults": {
+  "type": "planet",
+  "facility": "Keck",
+  "instrument": "NIRC2",
+  "wavelength_um": 2.1,
+  "wavelength_label": "JHK composite; b, c, d discovery",
+  "technique": "ADI"
+ },
+ "credit": "Marois et al. 2008, Fig. 1 (crop)",
+ "paper": {
+  "first_author": "Marois",
+  "year": 2008,
+  "title": "Direct Imaging of Multiple Planets Orbiting the Star HR 8799",
+  "journal": "Science 322, 1348",
+  "arxiv": "0811.2606",
+  "bibcode": "2008Sci...322.1348M"
+ }
+}

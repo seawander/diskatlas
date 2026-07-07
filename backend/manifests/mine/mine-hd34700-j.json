@@ -1,0 +1,35 @@
+{
+ "survey": "mine-hd34700-j",
+ "survey_name": "Gemini-LIGHTS",
+ "source_image": "images/_sources/extracted/2206.05815/figures/Final_images_1.png",
+ "panels": [
+  {
+   "id": "hd-34700",
+   "image_id": "hd-34700_gemini-lights-j",
+   "bbox_frac": [
+    0.3821,
+    0.3937,
+    0.5945,
+    0.577
+   ]
+  }
+ ],
+ "image_defaults": {
+  "type": "disk_scattered",
+  "facility": "Gemini-GPI",
+  "instrument": "IFS pol",
+  "wavelength_um": 1.24,
+  "wavelength_label": "J band 1.2 um (pol. intensity)",
+  "technique": "PDI"
+ },
+ "credit": "Rich et al. 2022, final-images gallery (crop)",
+ "paper": {
+  "first_author": "Rich",
+  "year": 2022,
+  "title": "Gemini-LIGHTS: Herbig Ae/Be and Massive T Tauri Protoplanetary Disks Imaged with Gemini Planet Imager",
+  "journal": "AJ 164, 109",
+  "arxiv": "2206.05815",
+  "bibcode": "2022AJ....164..109R"
+ },
+ "_comment": "Final_images_1 row 3 (HD 34700 A 20180103 J) Qphi column; sibling hd-34700_gemini-lights is the H-band spirals-gallery crop"
+}

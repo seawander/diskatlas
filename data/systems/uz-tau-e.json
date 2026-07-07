@@ -1,0 +1,120 @@
+{
+ "id": "uz-tau-e",
+ "name": "UZ Tau E",
+ "alt_names": [],
+ "simbad": "UZ Tau",
+ "ra_deg": 68.17925717,
+ "dec_deg": 25.87525106,
+ "dist_pc": null,
+ "sptype": "M4Ve+M1/3Ve",
+ "region": "Taurus",
+ "categories": [
+  "protoplanetary"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "technique": "interferometry",
+   "instrument": "Band 6",
+   "wavelength_um": 1330,
+   "wavelength_label": "1.33 mm continuum",
+   "image_id": "uz-tau-e_taurus-long2018",
+   "survey": "Taurus-Long2018",
+   "file": "images/uz-tau-e/uz-tau-e_taurus-long2018.png",
+   "credit": "Long et al. 2018, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Long",
+    "year": 2018,
+    "title": "Gaps and Rings in an ALMA Survey of Disks in the Taurus Star-forming Region",
+    "journal": "ApJ 869, 17",
+    "arxiv": "1810.06044",
+    "bibcode": "2018ApJ...869...17L"
+   }
+  },
+  {
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS DPI",
+   "wavelength_um": 1.65,
+   "wavelength_label": "H band 1.6 um (pol. intensity)",
+   "technique": "PDI",
+   "image_id": "uz-tau-e_sphere-taurus",
+   "survey": "SPHERE-Taurus",
+   "file": "images/uz-tau-e/uz-tau-e_sphere-taurus.png",
+   "credit": "Garufi et al. 2024, Fig. 2 (crop)",
+   "paper": {
+    "first_author": "Garufi",
+    "year": 2024,
+    "title": "The SPHERE view of the Taurus star-forming region: The full census of planet-forming disks with GTO and DESTINYS programs",
+    "journal": "A&A 685, A53",
+    "arxiv": "2403.02158",
+    "bibcode": "2024A&A...685A..53G"
+   }
+  },
+  {
+   "image_id": "uz-tau-e_alice-f110w",
+   "type": "disk_scattered",
+   "facility": "HST",
+   "instrument": "NICMOS",
+   "wavelength_um": 1.1,
+   "wavelength_label": "F110W 1.1 um (ALICE archival reprocessing, combined coadd)",
+   "technique": "RDI",
+   "survey": "ALICE",
+   "file": "images/uz-tau-e/uz-tau-e_alice-f110w.png",
+   "credit": "ALICE HLSP v1 combined coadd (HST program 10177, STScI) — hi-res: ALICE archive (STScI)",
+   "paper": {
+    "first_author": "Hagan",
+    "year": 2018,
+    "title": "ALICE Data Release: A revaluation of HST-NICMOS coronagraphic images",
+    "journal": "AJ 155, 179",
+    "arxiv": "1802.07754",
+    "bibcode": null
+   },
+   "hires_url": "https://archive.stsci.edu/prepds/alice/"
+  },
+  {
+   "image_id": "uz-tau-e_alma2018",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "ALMA/Band 7",
+   "wavelength_um": 870,
+   "wavelength_label": "0.87 mm (340 GHz, ALMA Band 7)",
+   "technique": "interferometric continuum imaging",
+   "survey": null,
+   "file": "images/uz-tau-e/uz-tau-e_alma2018.png",
+   "credit": "Tripathi et al. 2018, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Tripathi",
+    "year": 2018,
+    "title": "The Millimeter Continuum Size-Frequency Relationship in the UZ Tau E Disk",
+    "journal": "The Astrophysical Journal",
+    "arxiv": "1805.06457",
+    "bibcode": "2018ApJ...861...64T"
+   }
+  },
+  {
+   "image_id": "uz-tau-e_zurlo2024",
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS",
+   "wavelength_um": 1.65,
+   "wavelength_label": "H band 1.65 um (Q_phi, polarized intensity)",
+   "technique": "PDI",
+   "survey": null,
+   "credit": "Zurlo et al. 2024, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Zurlo",
+    "year": 2024,
+    "title": "The environment around young eruptive stars. SPHERE/IRDIS polarimetric imaging of 7 protostars",
+    "journal": "A&A 686, A76",
+    "arxiv": "2403.12124",
+    "bibcode": "2024A&A...686A..76Z"
+   },
+   "file": "images/uz-tau-e/uz-tau-e_zurlo2024.png"
+  }
+ ],
+ "notes": null,
+ "last_updated": "2026-07-07"
+}

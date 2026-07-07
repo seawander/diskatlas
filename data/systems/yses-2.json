@@ -1,0 +1,48 @@
+{
+ "id": "yses-2",
+ "name": "YSES-2",
+ "alt_names": [],
+ "simbad": "2MASS J11275535-6626046",
+ "ra_deg": 171.98063,
+ "dec_deg": -66.43461,
+ "dist_pc": null,
+ "sptype": null,
+ "region": null,
+ "categories": [],
+ "planets": [
+  {
+   "name": "b",
+   "status": "refuted",
+   "paper": {
+    "first_author": "Bohn",
+    "year": 2021,
+    "arxiv": "2104.08285",
+    "bibcode": "2021A&A...648A..73B"
+   }
+  }
+ ],
+ "images": [
+  {
+   "type": "planet",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS",
+   "wavelength_um": 1.65,
+   "wavelength_label": "H band discovery",
+   "technique": "ADI",
+   "survey": null,
+   "credit": "Bohn et al. 2021, Fig. 2 (crop); companion later refuted as background star (Kenworthy+2025)",
+   "paper": {
+    "first_author": "Bohn",
+    "year": 2021,
+    "title": "Discovery of a directly imaged planet to the young solar analog YSES 2",
+    "journal": "A&A 648, A73",
+    "arxiv": "2104.08285",
+    "bibcode": "2021A&A...648A..73B"
+   },
+   "image_id": "yses-2_sphere2021",
+   "file": "images/yses-2/yses-2_sphere2021.png"
+  }
+ ],
+ "notes": "Coords decoded from 2MASS id (Bohn+2021). YSES 2b was shown to be a BACKGROUND STAR by differential astrometry (Kenworthy et al. 2025, arXiv 2509.09504); planet status refuted. Discovery image kept for the historical record.",
+ "last_updated": "2026-07-07"
+}

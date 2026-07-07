@@ -1,0 +1,60 @@
+{
+ "id": "hip-99770",
+ "name": "HIP 99770",
+ "alt_names": [],
+ "simbad": "HIP 99770",
+ "ra_deg": 303.6334681420099,
+ "dec_deg": 36.80630580809,
+ "dist_pc": 40.7,
+ "sptype": "A2V",
+ "region": null,
+ "categories": [],
+ "planets": [
+  {
+   "name": "b",
+   "status": "confirmed",
+   "paper": {
+    "first_author": "Currie",
+    "year": 2023,
+    "arxiv": "2212.00034",
+    "bibcode": "2023Sci...380..198C"
+   }
+  }
+ ],
+ "images": [
+  {
+   "type": "planet",
+   "facility": "Subaru-SCExAO",
+   "instrument": "CHARIS",
+   "wavelength_um": 1.65,
+   "wavelength_label": "JHK; accelerating-star discovery",
+   "technique": "ADI",
+   "survey": null,
+   "credit": "Currie et al. 2023, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Currie",
+    "year": 2023,
+    "title": "Direct Imaging and Astrometric Detection of a Gas Giant Planet Orbiting an Accelerating Star",
+    "journal": "Science 380, 198",
+    "arxiv": "2212.00034",
+    "bibcode": "2023Sci...380..198C"
+   },
+   "image_id": "hip-99770_scexao2023",
+   "file": "images/hip-99770/hip-99770_scexao2023.png"
+  }
+ ],
+ "notes": null,
+ "last_updated": "2026-07-07",
+ "plx_mas": 24.5456,
+ "mags": {
+  "U": 5.1,
+  "B": 5.11,
+  "V": 4.99,
+  "G": 4.889878,
+  "R": 4.79,
+  "I": 4.72,
+  "J": 4.58,
+  "H": 4.46,
+  "K": 4.422
+ }
+}

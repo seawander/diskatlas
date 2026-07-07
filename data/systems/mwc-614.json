@@ -1,0 +1,71 @@
+{
+ "id": "mwc-614",
+ "name": "MWC 614",
+ "alt_names": [],
+ "simbad": "MWC 614",
+ "ra_deg": 287.7968912164399,
+ "dec_deg": 15.78767666902,
+ "dist_pc": 260.1,
+ "sptype": "A0Ve",
+ "region": null,
+ "categories": [
+  "protoplanetary"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "type": "disk_scattered",
+   "facility": "Gemini-GPI",
+   "instrument": "IFS pol",
+   "wavelength_um": 1.24,
+   "wavelength_label": "J band 1.24 um (pol. intensity)",
+   "technique": "PDI",
+   "image_id": "mwc-614_gemini-lights",
+   "survey": "Gemini-LIGHTS",
+   "file": "images/mwc-614/mwc-614_gemini-lights.png",
+   "credit": "Rich et al. 2022, continuous gallery (crop)",
+   "paper": {
+    "first_author": "Rich",
+    "year": 2022,
+    "title": "Gemini-LIGHTS: Herbig Ae/Be and Massive T Tauri Protoplanetary Disks Imaged with Gemini Planet Imager",
+    "journal": "AJ 164, 109",
+    "arxiv": "2206.05815",
+    "bibcode": "2022AJ....164..109R"
+   }
+  },
+  {
+   "image_id": "mwc-614_zimpol2018",
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "ZIMPOL",
+   "wavelength_um": 0.6459,
+   "wavelength_label": "visible (R band, 645.9 nm, coronagraphic + polarimetric)",
+   "technique": "PDI",
+   "survey": null,
+   "credit": "Kluska et al. 2018, Fig. 2 (crop)",
+   "paper": {
+    "first_author": "Kluska",
+    "year": 2018,
+    "title": "A Multi-instrument and Multi-wavelength High Angular Resolution Study of MWC 614: Quantum Heated Particles Inside the Disk Cavity",
+    "journal": "ApJ 855, 44",
+    "arxiv": "1803.02419",
+    "bibcode": null
+   },
+   "file": "images/mwc-614/mwc-614_zimpol2018.png"
+  }
+ ],
+ "notes": null,
+ "last_updated": "2026-07-06",
+ "plx_mas": 3.8448,
+ "mags": {
+  "U": 7.55,
+  "B": 7.476,
+  "V": 7.39,
+  "G": 7.372153,
+  "R": 7.25,
+  "I": 7.21,
+  "J": 6.994,
+  "H": 6.645,
+  "K": 5.995
+ }
+}

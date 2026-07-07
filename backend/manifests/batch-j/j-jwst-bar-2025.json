@@ -1,0 +1,31 @@
+{
+ "survey": "j-jwst-bar-2025",
+ "survey_name": null,
+ "source_image": "images/_sources/extracted/2503.13608/figures/imaging_summary/NIRCam_Bar_NARROW_F410M_summary_altcolor.pdf",
+ "pdf_page": null,
+ "panels": [
+  {
+   "id": "hr-8799",
+   "image_id": "hr-8799_jwst2025",
+   "bbox_frac": [
+    0.018,
+    0.0,
+    0.603,
+    1.0
+   ]
+  },
+  {
+   "id": "51-eri",
+   "image_id": "51-eri_jwst2025",
+   "bbox_frac": [
+    0.66,
+    0.0,
+    0.9349,
+    1.0
+   ]
+  }
+ ],
+ "image_defaults": {},
+ "credit": "Balmer et al. 2025, Fig. 4 (crop)",
+ "paper": null
+}

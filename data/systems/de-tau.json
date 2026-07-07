@@ -1,0 +1,49 @@
+{
+ "id": "de-tau",
+ "name": "DE Tau",
+ "alt_names": [],
+ "simbad": "DE Tau",
+ "ra_deg": 65.48181160451,
+ "dec_deg": 27.91838444901,
+ "dist_pc": 128.0,
+ "sptype": "M3Ve",
+ "region": "Taurus",
+ "categories": [
+  "protoplanetary"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS DPI",
+   "wavelength_um": 1.65,
+   "wavelength_label": "H band 1.6 um (pol. intensity)",
+   "technique": "PDI",
+   "image_id": "de-tau_sphere-taurus",
+   "survey": "SPHERE-Taurus",
+   "file": "images/de-tau/de-tau_sphere-taurus.png",
+   "credit": "Garufi et al. 2024, Fig. 2 (crop)",
+   "paper": {
+    "first_author": "Garufi",
+    "year": 2024,
+    "title": "The SPHERE view of the Taurus star-forming region: The full census of planet-forming disks with GTO and DESTINYS programs",
+    "journal": "A&A 685, A53",
+    "arxiv": "2403.02158",
+    "bibcode": "2024A&A...685A..53G"
+   }
+  }
+ ],
+ "notes": null,
+ "last_updated": "2026-07-06",
+ "plx_mas": 7.8112,
+ "mags": {
+  "U": 15.18,
+  "B": 15.13,
+  "V": 13.8,
+  "G": 11.905457,
+  "J": 9.18,
+  "H": 8.273,
+  "K": 7.799
+ }
+}

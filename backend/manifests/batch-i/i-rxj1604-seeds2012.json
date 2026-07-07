@@ -1,0 +1,26 @@
+{
+ "survey": "i-rxj1604-seeds2012",
+ "survey_name": "SEEDS",
+ "source_image": "images/_sources/_views/bi_mayama_f1.png",
+ "panels": [
+  { "id": "rx-j1604-3-2130", "image_id": "rx-j1604-3-2130_seeds2012",
+    "bbox_frac": [0.075, 0.008, 0.535, 0.497] }
+ ],
+ "image_defaults": {
+  "type": "disk_scattered",
+  "facility": "Subaru-HiCIAO",
+  "instrument": "HiCIAO",
+  "wavelength_um": 1.65,
+  "wavelength_label": "H band PDI; cavity + dips (SEEDS)",
+  "technique": "PDI"
+ },
+ "credit": "Mayama et al. 2012, Fig. 1a (crop)",
+ "paper": {
+  "first_author": "Mayama",
+  "year": 2012,
+  "title": "Subaru Imaging of Asymmetric Features in a Transitional Disk in Upper Scorpius",
+  "journal": "ApJL 760, L26",
+  "arxiv": "1211.3284",
+  "bibcode": "2012ApJ...760L..26M"
+ }
+}

@@ -1,0 +1,69 @@
+{
+ "id": "waoph-6",
+ "name": "WaOph 6",
+ "alt_names": [],
+ "simbad": "V2508 Oph",
+ "ra_deg": 252.19013586276,
+ "dec_deg": -14.27662495246,
+ "dist_pc": 122.5,
+ "sptype": "K6",
+ "region": "Ophiuchus",
+ "categories": [
+  "protoplanetary"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "technique": "interferometry",
+   "instrument": "Band 6",
+   "wavelength_um": 1250,
+   "wavelength_label": "1.25 mm continuum",
+   "image_id": "waoph-6_dsharp",
+   "survey": "DSHARP",
+   "file": "images/waoph-6/waoph-6_dsharp.png",
+   "credit": "Andrews et al. 2018, Fig. 3 (crop)",
+   "paper": {
+    "first_author": "Andrews",
+    "year": 2018,
+    "title": "The Disk Substructures at High Angular Resolution Project (DSHARP). I. Motivation, Sample, Calibration, and Overview",
+    "journal": "ApJL 869, L41",
+    "arxiv": "1812.04040",
+    "bibcode": "2018ApJ...869L..41A"
+   }
+  },
+  {
+   "image_id": "waoph-6_sphere2021",
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS DPI",
+   "wavelength_um": 1.6,
+   "wavelength_label": "H band (1.6 um)",
+   "technique": "polarimetric differential imaging (DPI)",
+   "survey": null,
+   "file": "images/waoph-6/waoph-6_sphere2021.png",
+   "credit": "Brown-Sevilla et al. 2021, Fig. 2 (crop)",
+   "paper": {
+    "first_author": "Brown-Sevilla",
+    "year": 2021,
+    "title": "A multiwavelength analysis of the spiral arms in the protoplanetary disk around WaOph 6",
+    "journal": "A&A 654, A35",
+    "arxiv": "2107.13560",
+    "bibcode": "2021A&A...654A..35B"
+   }
+  }
+ ],
+ "notes": null,
+ "last_updated": "2026-07-07",
+ "plx_mas": 8.1615,
+ "mags": {
+  "B": 14.94,
+  "V": 13.34,
+  "G": 12.136793,
+  "R": 12.84,
+  "J": 8.719,
+  "H": 7.574,
+  "K": 6.861
+ }
+}

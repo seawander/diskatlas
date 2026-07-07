@@ -1,0 +1,71 @@
+{
+ "id": "hd-1160",
+ "name": "HD 1160",
+ "alt_names": [],
+ "simbad": "HD 1160",
+ "ra_deg": 3.9887581457,
+ "dec_deg": 4.2511138732,
+ "dist_pc": 120.89,
+ "plx_mas": 8.2721,
+ "mags": {
+  "V": 7.119,
+  "G": 7.1074,
+  "J": 6.983,
+  "H": 7.013,
+  "K": 7.04
+ },
+ "sptype": "A0V",
+ "region": "Isolated",
+ "categories": [],
+ "planets": [
+  {
+   "name": "B",
+   "status": "disputed",
+   "note": "Originally classified as a brown dwarf (~33 Mjup) at discovery (Nielsen et al. 2012); later work (e.g. Maire et al. 2016) revised the mass estimate upward, placing it near the stellar/substellar boundary rather than firmly substellar.",
+   "method": "imaging",
+   "paper": {
+    "first_author": "Nielsen",
+    "year": 2012,
+    "arxiv": "1202.2854",
+    "bibcode": null
+   }
+  },
+  {
+   "name": "C",
+   "status": "confirmed",
+   "note": "M3.5 low-mass star (~0.22 Msun), wide companion at ~533 AU; stellar rather than substellar, but included per the discovery paper's own multiplicity finding.",
+   "method": "imaging",
+   "paper": {
+    "first_author": "Nielsen",
+    "year": 2012,
+    "arxiv": "1202.2854",
+    "bibcode": null
+   }
+  }
+ ],
+ "images": [
+  {
+   "image_id": "hd-1160_nici2012",
+   "type": "planet",
+   "facility": "Gemini-NICI",
+   "instrument": "NICI",
+   "wavelength_um": 1.6,
+   "wavelength_label": "H band (NICI), discovery epoch 2010.8; B and C labeled",
+   "technique": "ADI",
+   "survey": "Gemini NICI Planet-Finding Campaign",
+   "file": "images/hd-1160/hd-1160_nici2012.png",
+   "credit": "Nielsen et al. 2012, Fig. 1 (crop)",
+   "hires_url": null,
+   "paper": {
+    "first_author": "Nielsen",
+    "year": 2012,
+    "title": "The Gemini NICI Planet-Finding Campaign: Discovery of a Multiple System Orbiting the Young A Star HD 1160",
+    "journal": "ApJ 750, 53",
+    "arxiv": "1202.2854",
+    "bibcode": null
+   }
+  }
+ ],
+ "notes": "HD 1160 B's classification is disputed (brown dwarf vs. low-mass star near the stellar boundary); HD 1160 C is a confirmed stellar (M3.5) wide companion.",
+ "last_updated": "2026-07-07"
+}

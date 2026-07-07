@@ -1,0 +1,35 @@
+{
+ "survey": "pl-gsc6214",
+ "survey_name": null,
+ "source_image": "images/_sources/_views/batchD_gsc6214_f1.png",
+ "pdf_page": null,
+ "panels": [
+  {
+   "id": "gsc-6214-210",
+   "image_id": "gsc-6214-210_keck2011",
+   "bbox_frac": [
+    0.0,
+    0.0,
+    1.0,
+    1.0
+   ]
+  }
+ ],
+ "image_defaults": {
+  "type": "planet",
+  "facility": "Keck",
+  "instrument": "NIRC2",
+  "wavelength_um": 2.1,
+  "wavelength_label": "Kp band; accreting wide companion",
+  "technique": "other"
+ },
+ "credit": "Ireland et al. 2011, Fig. 1 (crop)",
+ "paper": {
+  "first_author": "Ireland",
+  "year": 2011,
+  "title": "Two Wide Planetary-Mass Companions to Solar-Type Stars in Upper Scorpius",
+  "journal": "ApJ 726, 113",
+  "arxiv": "1011.2201",
+  "bibcode": "2011ApJ...726..113I"
+ }
+}

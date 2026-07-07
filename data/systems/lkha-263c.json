@@ -1,0 +1,45 @@
+{
+ "id": "lkha-263c",
+ "name": "LkHa 263C",
+ "alt_names": [
+  "Lk Ha 263C",
+  "LkH-alpha 263C"
+ ],
+ "simbad": "LkHa 263",
+ "ra_deg": 44.036125,
+ "dec_deg": 20.061277777778,
+ "dist_pc": 275.0,
+ "plx_mas": null,
+ "mags": null,
+ "sptype": "M0",
+ "region": "L1457",
+ "categories": [
+  "protoplanetary"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "image_id": "lkha-263c_jedice",
+   "type": "disk_scattered",
+   "facility": "JWST",
+   "instrument": "NIRSpec IFU (G395H)",
+   "wavelength_um": 3.7,
+   "wavelength_label": "near-IR continuum (median, G395H cube)",
+   "technique": "other",
+   "survey": "JEDIce",
+   "file": "images/lkha-263c/lkha-263c_jedice.png",
+   "credit": "Bergner et al. 2026, Fig. 1 (crop)",
+   "hires_url": null,
+   "paper": {
+    "first_author": "Bergner",
+    "year": 2026,
+    "title": "JWST Edge-on Disk Ice (JEDIce): Program overview and ice survey results",
+    "journal": null,
+    "arxiv": "2603.18163",
+    "bibcode": null
+   }
+  }
+ ],
+ "notes": "Wide (~275 pc) companion C to the LkHa 263 AB pair (EM* LkHA 263 / V* BV Ari in SIMBAD); coordinates and distance taken from the JEDIce paper's Table 1 since component C is not separately resolved in SIMBAD. Classic edge-on disk in MBM 12 / L1457, discovered by Jayawardhana et al. 2002.",
+ "last_updated": "2026-07-06"
+}

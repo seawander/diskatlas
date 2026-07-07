@@ -1,0 +1,35 @@
+{
+ "survey": "mine-hip65426-f1140c",
+ "survey_name": null,
+ "source_image": "images/_sources/extracted/2208.14990/miri_images_v2.png",
+ "panels": [
+  {
+   "id": "hip-65426",
+   "image_id": "hip-65426_jwst2023-f1140c",
+   "bbox_frac": [
+    0.672,
+    0.028,
+    0.894,
+    0.481
+   ]
+  }
+ ],
+ "image_defaults": {
+  "type": "planet",
+  "facility": "JWST",
+  "instrument": "MIRI F1140C",
+  "wavelength_um": 11.4,
+  "wavelength_label": "11.4 um coronagraphy (ADI+RDI); planet b",
+  "technique": "coronagraphy"
+ },
+ "credit": "Carter et al. 2023, Fig. 13 (crop)",
+ "paper": {
+  "first_author": "Carter",
+  "year": 2023,
+  "title": "The JWST Early Release Science Program for Direct Observations of Exoplanetary Systems I: High-Contrast Imaging of the Exoplanet HIP 65426 b from 2-16 um",
+  "journal": "ApJL 951, L20",
+  "arxiv": "2208.14990",
+  "bibcode": "2023ApJ...951L..20C"
+ },
+ "_comment": "miri_images_v2 row1 (F1140C) col4 (ADI+RDI) clean single-filter panel; sibling hip-65426_jwst2023 is the Fig.8 multi-filter mosaic"
+}

@@ -1,0 +1,59 @@
+{
+ "id": "xest-17-036",
+ "name": "XEST 17-036",
+ "alt_names": [],
+ "simbad": "XEST 17-036",
+ "ra_deg": 68.35924647693,
+ "dec_deg": 22.75812719861,
+ "dist_pc": 159.0,
+ "plx_mas": 6.3,
+ "mags": {
+  "G": 16.521063,
+  "J": 11.801,
+  "H": 10.5,
+  "K": 9.924
+ },
+ "sptype": "M4",
+ "region": "Taurus",
+ "categories": [],
+ "planets": [
+  {
+   "name": "b",
+   "status": "confirmed",
+   "method": "imaging",
+   "note": "KOINTREAU-1b: bound planetary-mass companion at projected separation 690+-10 au, spectral type M9+-2 (vl-g), mass ~10.6 (+2.5/-2.3) Mjup; fifth planetary-mass companion found in Taurus",
+   "paper": {
+    "first_author": "Walker",
+    "year": 2025,
+    "title": "Keck Observations in the INfrared of Taurus and ρ Oph Exoplanets And Ultracool dwarfs (KOINTREAU) I: A Planetary-Mass Companion and a Disk-Obscured Stellar Companion Discovered in Taurus",
+    "journal": null,
+    "arxiv": "2512.05191",
+    "bibcode": null
+   }
+  }
+ ],
+ "images": [
+  {
+   "image_id": "xest-17-036_nirc2-kointreau",
+   "type": "planet",
+   "facility": "Keck",
+   "instrument": "NIRC2",
+   "wavelength_um": 2.2,
+   "wavelength_label": "K band (MKO) 2.2 um AO signal-to-noise map",
+   "technique": "other",
+   "survey": null,
+   "file": "images/xest-17-036/xest-17-036_nirc2-kointreau.png",
+   "credit": "Walker et al. 2025, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Walker",
+    "year": 2025,
+    "title": "Keck Observations in the INfrared of Taurus and ρ Oph Exoplanets And Ultracool dwarfs (KOINTREAU) I: A Planetary-Mass Companion and a Disk-Obscured Stellar Companion Discovered in Taurus",
+    "journal": null,
+    "arxiv": "2512.05191",
+    "bibcode": null
+   }
+  }
+ ],
+ "notes": "Host is an M4 Taurus member (~3.3 Myr, XEST/XMM-Newton survey source). KOINTREAU-1b confirmed bound via common proper motion with Gaia astrometry (log Bayes factor ~25.7). Companion spectral type varies between epochs (M7 SpeX vs L1 GNIRS), possibly indicating clouds or a circumcompanion disk.",
+ "last_updated": "2026-07-06"
+}

@@ -1,0 +1,47 @@
+{
+ "id": "haro-1-1",
+ "name": "Haro 1-1",
+ "alt_names": [],
+ "simbad": "Haro 1-1",
+ "ra_deg": 245.39460246805,
+ "dec_deg": -26.20747583835,
+ "dist_pc": 151.1,
+ "plx_mas": 6.6196,
+ "mags": {
+  "G": 12.579425,
+  "J": 10.096,
+  "H": 9.269,
+  "K": 8.864
+ },
+ "sptype": "K5e",
+ "region": "Ophiuchus",
+ "categories": [
+  "protoplanetary"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "image_id": "haro-1-1_destinys",
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS",
+   "wavelength_um": 1.65,
+   "wavelength_label": "H band polarized light",
+   "technique": "PDI",
+   "survey": "SPHERE-NIR-census",
+   "file": "images/haro-1-1/haro-1-1_destinys.png",
+   "credit": "Garufi et al. 2026, Fig. A.1 (crop)",
+   "hires_url": null,
+   "paper": {
+    "first_author": "Garufi",
+    "year": 2026,
+    "title": "Planet-forming disks and their environment across regions and time from the full NIR census",
+    "journal": "A&A, in press",
+    "arxiv": "2603.01703",
+    "bibcode": null
+   }
+  }
+ ],
+ "notes": "First-published SPHERE/IRDIS H-band polarimetric image (DESTINYS). A moderately inclined disk is detected out to 70 au, with a rather abrupt decline of disk flux outward of 25 au. Disk features: ring + back side (Garufi et al. 2026, Table A.5/Fig. A.1).",
+ "last_updated": "2026-07-06"
+}

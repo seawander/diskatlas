@@ -1,0 +1,71 @@
+{
+ "id": "ht-lup",
+ "name": "HT Lup",
+ "alt_names": [],
+ "simbad": "HT Lup",
+ "ra_deg": 236.30361584893,
+ "dec_deg": -34.29184566751,
+ "dist_pc": 153.5,
+ "sptype": "K3Ve",
+ "region": "Lupus",
+ "categories": [
+  "protoplanetary"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "technique": "interferometry",
+   "instrument": "Band 6",
+   "wavelength_um": 1250,
+   "wavelength_label": "1.25 mm continuum",
+   "image_id": "ht-lup_dsharp",
+   "survey": "DSHARP",
+   "file": "images/ht-lup/ht-lup_dsharp.png",
+   "credit": "Andrews et al. 2018, Fig. 3 (crop)",
+   "paper": {
+    "first_author": "Andrews",
+    "year": 2018,
+    "title": "The Disk Substructures at High Angular Resolution Project (DSHARP). I. Motivation, Sample, Calibration, and Overview",
+    "journal": "ApJL 869, L41",
+    "arxiv": "1812.04040",
+    "bibcode": "2018ApJ...869L..41A"
+   }
+  },
+  {
+   "type": "disk_scattered",
+   "facility": "Gemini-GPI",
+   "instrument": "IFS pol",
+   "wavelength_um": 1.65,
+   "wavelength_label": "H band 1.6 um (pol. intensity)",
+   "technique": "PDI",
+   "image_id": "ht-lup_gemini-lights",
+   "survey": "Gemini-LIGHTS",
+   "file": "images/ht-lup/ht-lup_gemini-lights.png",
+   "credit": "Rich et al. 2022, continuous gallery (crop)",
+   "paper": {
+    "first_author": "Rich",
+    "year": 2022,
+    "title": "Gemini-LIGHTS: Herbig Ae/Be and Massive T Tauri Protoplanetary Disks Imaged with Gemini Planet Imager",
+    "journal": "AJ 164, 109",
+    "arxiv": "2206.05815",
+    "bibcode": "2022AJ....164..109R"
+   }
+  }
+ ],
+ "notes": null,
+ "last_updated": "2026-07-07",
+ "plx_mas": 6.5157,
+ "mags": {
+  "U": 12.47,
+  "B": 11.56,
+  "V": 10.224,
+  "G": 9.766766,
+  "R": 9.6,
+  "I": 8.685,
+  "J": 7.573,
+  "H": 6.866,
+  "K": 6.48
+ }
+}

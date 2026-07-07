@@ -1,0 +1,199 @@
+{
+ "id": "af-lep",
+ "name": "AF Lep",
+ "alt_names": [],
+ "simbad": "AF Lep",
+ "ra_deg": 81.76984720067,
+ "dec_deg": -11.9009627784,
+ "dist_pc": 26.8,
+ "sptype": "F8V(n)k:",
+ "region": null,
+ "categories": [],
+ "planets": [
+  {
+   "name": "b",
+   "status": "confirmed",
+   "note": "First planet jointly found via astrometric acceleration + imaging (2023, three groups)",
+   "paper": {
+    "first_author": "Franson",
+    "year": 2023,
+    "arxiv": "2302.05420",
+    "bibcode": "2023ApJ...950L..19F"
+   },
+   "extra_papers": [
+    {
+     "label": "independent discovery",
+     "first_author": "Mesa",
+     "year": 2023,
+     "title": "AF Lep b: the lowest mass planet detected coupling astrometric and direct imaging data",
+     "journal": "A&A 672, A93",
+     "arxiv": "2302.06213",
+     "bibcode": null
+    },
+    {
+     "label": "independent discovery",
+     "first_author": "De Rosa",
+     "year": 2023,
+     "title": "Direct imaging discovery of a super-Jovian around the young Sun-like star AF Leporis",
+     "journal": "A&A 672, A94",
+     "arxiv": "2302.06332",
+     "bibcode": null
+    }
+   ]
+  }
+ ],
+ "images": [
+  {
+   "type": "planet",
+   "facility": "Keck",
+   "instrument": "NIRC2",
+   "wavelength_um": 3.8,
+   "wavelength_label": "L' band; discovery via astrometric acceleration + imaging",
+   "technique": "ADI",
+   "survey": null,
+   "credit": "Franson et al. 2023, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Franson",
+    "year": 2023,
+    "title": "Astrometric Accelerations as Dynamical Beacons: A Giant Planet Imaged Inside the Debris Disk of the Young Star AF Lep",
+    "journal": "ApJL 950, L19",
+    "arxiv": "2302.05420",
+    "bibcode": "2023ApJ...950L..19F"
+   },
+   "image_id": "af-lep_sphere2023",
+   "file": "images/af-lep/af-lep_sphere2023.png"
+  },
+  {
+   "type": "planet",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS+IFS",
+   "wavelength_um": 1.65,
+   "wavelength_label": "near-IR; independent SPHERE discovery",
+   "technique": "ADI",
+   "survey": null,
+   "credit": "Mesa et al. 2023, Fig. 1 (crop: IFS S/N map, 2022-12-20)",
+   "paper": {
+    "first_author": "Mesa",
+    "year": 2023,
+    "title": "AF Lep b: The lowest-mass planet detected by coupling astrometric and direct imaging data",
+    "journal": "A&A 672, A93",
+    "arxiv": "2302.06213",
+    "bibcode": "2023A&A...672A..93M"
+   },
+   "image_id": "af-lep_sphere2023-mesa",
+   "file": "images/af-lep/af-lep_sphere2023-mesa.png"
+  },
+  {
+   "type": "planet",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS",
+   "wavelength_um": 2.2,
+   "wavelength_label": "K band; independent discovery via star-hopping RDI",
+   "technique": "RDI",
+   "survey": null,
+   "credit": "De Rosa et al. 2023, Fig. 4 (crop: IRDIS K1 KLIP residual map)",
+   "paper": {
+    "first_author": "De Rosa",
+    "year": 2023,
+    "title": "Direct imaging discovery of a super-Jovian around the young Sun-like star AF Leporis",
+    "journal": "A&A 672, A94",
+    "arxiv": "2302.06332",
+    "bibcode": "2023A&A...672A..94D"
+   },
+   "image_id": "af-lep_sphere2023-derosa",
+   "file": "images/af-lep/af-lep_sphere2023-derosa.png"
+  },
+  {
+   "type": "planet",
+   "facility": "VLTI-GRAVITY",
+   "instrument": "GRAVITY",
+   "wavelength_um": 2.2,
+   "wavelength_label": "K band interferometric detection (GRAVITY)",
+   "technique": "interferometry",
+   "survey": null,
+   "credit": "Balmer et al. 2024, Fig. 1 (crop: 2023-11-24 GRAVITY chi2 detection map)",
+   "paper": {
+    "first_author": "Balmer",
+    "year": 2024,
+    "title": "VLTI/GRAVITY Observations of AF Lep b: Preference for Circular Orbits, Cloudy Atmospheres, and a Moderately Enhanced Metallicity",
+    "journal": "AJ (2025)",
+    "arxiv": "2411.05917",
+    "bibcode": null
+   },
+   "image_id": "af-lep_gravity2024",
+   "file": "images/af-lep/af-lep_gravity2024.png"
+  },
+  {
+   "type": "planet",
+   "facility": "JWST",
+   "instrument": "NIRCam",
+   "wavelength_um": 4.4,
+   "wavelength_label": "4.4 um (F444W) coronagraphic detection",
+   "technique": "coronagraphy",
+   "survey": null,
+   "credit": "Franson et al. 2024, Fig. 1 (crop: F444W Oct 2023)",
+   "paper": {
+    "first_author": "Franson",
+    "year": 2024,
+    "title": "JWST/NIRCam 4-5 um Imaging of the Giant Planet AF Lep b",
+    "journal": "ApJL 974, L11",
+    "arxiv": "2406.09528",
+    "bibcode": "2024ApJ...974L..11F"
+   },
+   "image_id": "af-lep_jwst2024",
+   "file": "images/af-lep/af-lep_jwst2024.png"
+  },
+  {
+   "type": "planet",
+   "facility": "VLT-NACO",
+   "instrument": "NACO",
+   "wavelength_um": 3.8,
+   "wavelength_label": "L' band; 2011 archival data, planet recovered with 4S ML post-processing (pre-discovery epoch)",
+   "technique": "ADI",
+   "survey": null,
+   "credit": "Bonse et al. 2024, Fig. 10 (crop: right panel, 4S residual of the 2011 NACO L' data; b recovered at S/N=6.8, circles mark the 2021/2023 Keck positions)",
+   "paper": {
+    "first_author": "Bonse",
+    "year": 2024,
+    "title": "Use the 4S (Signal-Safe Speckle Subtraction): Explainable Machine Learning reveals the Giant Exoplanet AF Lep b in High-Contrast Imaging Data from 2011",
+    "journal": "AJ (2024)",
+    "arxiv": "2406.01809",
+    "bibcode": null
+   },
+   "image_id": "af-lep_naco2011-4s",
+   "file": "images/af-lep/af-lep_naco2011-4s.png"
+  },
+  {
+   "image_id": "af-lep_alice-f160w",
+   "type": "disk_scattered",
+   "facility": "HST",
+   "instrument": "NICMOS",
+   "wavelength_um": 1.6,
+   "wavelength_label": "F160W 1.6 um (ALICE archival reprocessing, combined coadd)",
+   "technique": "RDI",
+   "survey": "ALICE",
+   "file": "images/af-lep/af-lep_alice-f160w.png",
+   "credit": "ALICE HLSP v1 combined coadd (HST program 7226, STScI) — hi-res: ALICE archive (STScI)",
+   "paper": {
+    "first_author": "Hagan",
+    "year": 2018,
+    "title": "ALICE Data Release: A revaluation of HST-NICMOS coronagraphic images",
+    "journal": "AJ 155, 179",
+    "arxiv": "1802.07754",
+    "bibcode": null
+   },
+   "hires_url": "https://archive.stsci.edu/prepds/alice/"
+  }
+ ],
+ "notes": "Independent discoveries: Mesa+2023 (A&A) and De Rosa+2023.",
+ "last_updated": "2026-07-07",
+ "plx_mas": 37.2539,
+ "mags": {
+  "B": 6.832,
+  "V": 6.295,
+  "G": 6.209527,
+  "J": 5.268,
+  "H": 5.087,
+  "K": 4.926
+ }
+}

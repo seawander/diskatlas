@@ -1,0 +1,37 @@
+{
+ "survey": "mine-pds70-k1",
+ "survey_name": null,
+ "source_image": "images/_sources/extracted/1906.01486/1906.01486.pdf",
+ "pdf_page": 9,
+ "dpi": 300,
+ "panels": [
+  {
+   "id": "pds-70",
+   "image_id": "pds-70_sphere2016-k1",
+   "bbox_frac": [
+    0.413,
+    0.119,
+    0.592,
+    0.259
+   ]
+  }
+ ],
+ "image_defaults": {
+  "type": "planet",
+  "facility": "VLT-SPHERE",
+  "instrument": "IRDIS K1",
+  "wavelength_um": 2.11,
+  "wavelength_label": "K1 2.1 um ADI; planets b & c",
+  "technique": "ADI"
+ },
+ "credit": "Haffert et al. 2019, Fig. 2b (crop)",
+ "paper": {
+  "first_author": "Haffert",
+  "year": 2019,
+  "title": "Two accreting protoplanets around the young star PDS 70",
+  "journal": "Nature Astronomy 3, 749",
+  "arxiv": "1906.01486",
+  "bibcode": "2019NatAs...3..749H"
+ },
+ "_comment": "Fig 2 panel b = SPHERE/IRDIS K1 2016-05-31 ADI image, both planets circled; sibling pds-70_muse2019 = panel a Halpha"
+}

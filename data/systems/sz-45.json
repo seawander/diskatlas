@@ -1,0 +1,49 @@
+{
+ "id": "sz-45",
+ "name": "sz 45",
+ "alt_names": [],
+ "simbad": "sz 45",
+ "ra_deg": 169.4040653346,
+ "dec_deg": -77.07725652902,
+ "dist_pc": 188.9,
+ "sptype": "M0.5e",
+ "region": "Chamaeleon I",
+ "categories": [
+  "protoplanetary"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS DPI",
+   "wavelength_um": 1.65,
+   "wavelength_label": "H band 1.6 um (Qphi pol. intensity)",
+   "technique": "PDI",
+   "image_id": "sz-45_sphere-chami",
+   "file": "images/sz-45/sz-45_sphere-chami.png",
+   "survey": "SPHERE-ChamI",
+   "credit": "Ginski et al. 2024, Fig. 2 (crop)",
+   "paper": {
+    "first_author": "Ginski",
+    "year": 2024,
+    "title": "The SPHERE view of the Chamaeleon I star-forming region: The full census of planet-forming disks with GTO and DESTINYS programs",
+    "journal": "A&A 685, A52",
+    "arxiv": "2403.02149",
+    "bibcode": "2024A&A...685A..52G"
+   }
+  }
+ ],
+ "notes": "AUTO-CREATED from staging - fill metadata & coords",
+ "last_updated": "2026-07-06",
+ "plx_mas": 5.2945,
+ "mags": {
+  "B": 13.1,
+  "V": 13.5,
+  "G": 13.042476,
+  "I": 11.78,
+  "J": 10.303,
+  "H": 9.575,
+  "K": 9.227
+ }
+}

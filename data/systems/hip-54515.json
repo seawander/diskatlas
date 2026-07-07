@@ -1,0 +1,61 @@
+{
+ "id": "hip-54515",
+ "name": "HIP 54515",
+ "alt_names": [],
+ "simbad": "HIP 54515",
+ "ra_deg": 167.30691143957,
+ "dec_deg": -1.33326001331,
+ "dist_pc": 83.07,
+ "plx_mas": 12.0377,
+ "mags": {
+  "B": 6.97,
+  "V": 6.8,
+  "G": 6.78579,
+  "J": 6.51,
+  "H": 6.464,
+  "K": 6.422
+ },
+ "sptype": "A5II/III",
+ "region": "field (accelerating star)",
+ "categories": [],
+ "planets": [
+  {
+   "name": "b",
+   "status": "confirmed",
+   "method": "imaging",
+   "note": "Superjovian ~17.7 MJup at ~25 au; SCExAO/CHARIS + HGCA astrometry",
+   "paper": {
+    "first_author": "Currie",
+    "year": 2026,
+    "title": "SCExAO/CHARIS and Gaia Direct Imaging and Astrometric Discovery of a Superjovian Planet 3-4 lambda/D from the Accelerating Star HIP 54515",
+    "journal": "AJ (2026)",
+    "arxiv": "2512.02159",
+    "bibcode": "2026AJ....171....5C"
+   }
+  }
+ ],
+ "images": [
+  {
+   "image_id": "hip-54515_scexao-currie26",
+   "type": "planet",
+   "facility": "Subaru",
+   "instrument": "SCExAO/CHARIS",
+   "wavelength_um": 1.65,
+   "wavelength_label": "H band 1.65 um direct image (5 epochs)",
+   "technique": "coronagraphy",
+   "survey": null,
+   "file": "images/hip-54515/hip-54515_scexao-currie26.png",
+   "credit": "Currie et al. 2026, Fig. 2 (crop)",
+   "paper": {
+    "first_author": "Currie",
+    "year": 2026,
+    "title": "SCExAO/CHARIS and Gaia Direct Imaging and Astrometric Discovery of a Superjovian Planet 3-4 lambda/D from the Accelerating Star HIP 54515",
+    "journal": "AJ (2026)",
+    "arxiv": "2512.02159",
+    "bibcode": "2026AJ....171....5C"
+   }
+  }
+ ],
+ "notes": "Added 2026-07-06. Directly-imaged companion host; coords pending SIMBAD.",
+ "last_updated": "2026-07-06"
+}

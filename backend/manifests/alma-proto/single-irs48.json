@@ -1,0 +1,35 @@
+{
+ "survey": "single-irs48",
+ "survey_name": null,
+ "source_image": "images/_sources/extracted/1306.1768/1306.1768.pdf",
+ "pdf_page": 7,
+ "panels": [
+  {
+   "id": "oph-irs-48",
+   "image_id": "oph-irs-48_alma2013",
+   "bbox_frac": [
+    0.196471,
+    0.184545,
+    0.421176,
+    0.357727
+   ]
+  }
+ ],
+ "image_defaults": {
+  "type": "disk_mm",
+  "facility": "ALMA",
+  "instrument": "Band 9",
+  "wavelength_um": 440,
+  "wavelength_label": "0.44 mm continuum (dust trap)",
+  "technique": "interferometry"
+ },
+ "credit": "van der Marel et al. 2013, Fig. 1A (crop)",
+ "paper": {
+  "first_author": "van der Marel",
+  "year": 2013,
+  "title": "A major asymmetric dust trap in a transition disk",
+  "journal": "Science 340, 1199",
+  "arxiv": "1306.1768",
+  "bibcode": "2013Sci...340.1199V"
+ }
+}

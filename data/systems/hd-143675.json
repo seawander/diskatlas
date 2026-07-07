@@ -1,0 +1,48 @@
+{
+ "id": "hd-143675",
+ "name": "HD 143675",
+ "alt_names": [],
+ "simbad": "HD 143675",
+ "ra_deg": 240.8064160254299,
+ "dec_deg": -35.28748133827,
+ "dist_pc": 135.7,
+ "sptype": "A5IV/V",
+ "region": null,
+ "categories": [
+  "debris"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "type": "disk_scattered",
+   "facility": "Gemini-GPI",
+   "instrument": "IFS pol",
+   "wavelength_um": 1.65,
+   "wavelength_label": "H band 1.6 um (pol. intensity)",
+   "technique": "PDI",
+   "image_id": "hd-143675_gpies-debris",
+   "survey": "GPIES-debris",
+   "file": "images/hd-143675/hd-143675_gpies-debris.png",
+   "credit": "Esposito et al. 2020, Fig. 5 (crop)",
+   "paper": {
+    "first_author": "Esposito",
+    "year": 2020,
+    "title": "Debris Disk Results from the Gemini Planet Imager Exoplanet Survey's Polarimetric Imaging Campaign",
+    "journal": "AJ 160, 24",
+    "arxiv": "2004.13722",
+    "bibcode": "2020AJ....160...24E"
+   }
+  }
+ ],
+ "notes": null,
+ "last_updated": "2026-07-07",
+ "plx_mas": 7.3692,
+ "mags": {
+  "B": 8.25,
+  "V": 8.04,
+  "G": 8.037333,
+  "J": 7.69,
+  "H": 7.653,
+  "K": 7.619
+ }
+}

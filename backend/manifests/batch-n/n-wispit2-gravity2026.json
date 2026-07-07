@@ -1,0 +1,27 @@
+{
+ "survey": "n-wispit2-gravity2026",
+ "survey_name": null,
+ "source_image": "images/_sources/extracted/2603.22085/three_panel_plot_WISPIT_2c_detections.pdf",
+ "pdf_page": 1,
+ "dpi": 220,
+ "credit": "Lawlor et al. 2026, Fig. 1 (crop: VLTI/GRAVITY K-band chi-squared detection map of c, 2025-10-04)",
+ "paper": {
+  "first_author": "Lawlor",
+  "year": 2026,
+  "title": "Direct spectroscopic confirmation of the young embedded proto-planet WISPIT 2c",
+  "journal": "arXiv (2026)",
+  "arxiv": "2603.22085",
+  "bibcode": null
+ },
+ "panels": [
+  { "id": "wispit-2", "image_id": "wispit-2_gravity2026", "bbox_frac": [0.645, 0.0, 1.0, 1.0] }
+ ],
+ "image_defaults": {
+  "type": "planet",
+  "facility": "VLTI-GRAVITY",
+  "instrument": "GRAVITY",
+  "wavelength_um": 2.2,
+  "wavelength_label": "K band; GRAVITY chi-squared detection map of inner planet c (dotted circle)",
+  "technique": "interferometry"
+ }
+}

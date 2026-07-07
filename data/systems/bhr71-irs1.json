@@ -1,0 +1,44 @@
+{
+ "id": "bhr71-irs1",
+ "name": "BHR71 IRS1",
+ "alt_names": [
+  "IRAS 11590-6452"
+ ],
+ "simbad": "IRAS 11590-6452",
+ "ra_deg": 180.403375,
+ "dec_deg": -65.147006,
+ "dist_pc": 176,
+ "plx_mas": null,
+ "mags": null,
+ "sptype": null,
+ "region": "Musca (BHR 71)",
+ "categories": [
+  "protoplanetary"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "image_id": "bhr71-irs1_edisk",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 6",
+   "wavelength_um": 1300,
+   "wavelength_label": "1.3 mm continuum",
+   "technique": "interferometry",
+   "survey": "eDisk",
+   "file": "images/bhr71-irs1/bhr71-irs1_edisk.png",
+   "credit": "Ohashi et al. 2023, Fig. 2 (crop)",
+   "hires_url": null,
+   "paper": {
+    "first_author": "Ohashi",
+    "year": 2023,
+    "title": "Early Planet Formation in Embedded Disks (eDisk). I. Overview and First Results",
+    "journal": "ApJ 951, 8",
+    "arxiv": "2306.15406",
+    "bibcode": "2023ApJ...951....8O"
+   }
+  }
+ ],
+ "notes": "Class 0 embedded protostar (eDisk)",
+ "last_updated": "2026-07-06"
+}

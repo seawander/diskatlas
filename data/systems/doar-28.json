@@ -1,0 +1,50 @@
+{
+ "id": "doar-28",
+ "name": "DoAr 28",
+ "alt_names": [
+  "Haro 1-8"
+ ],
+ "simbad": "DoAr 28",
+ "ra_deg": 246.69761932991,
+ "dec_deg": -23.24783798024,
+ "dist_pc": 135.6,
+ "plx_mas": 7.3749,
+ "mags": {
+  "B": 14.1,
+  "G": 12.890029,
+  "J": 9.893,
+  "H": 8.986,
+  "K": 8.619
+ },
+ "sptype": null,
+ "region": "Ophiuchus",
+ "categories": [
+  "protoplanetary"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "image_id": "doar-28_nircensus",
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS",
+   "wavelength_um": 1.65,
+   "wavelength_label": "H band polarized light",
+   "technique": "PDI",
+   "survey": "SPHERE-NIR-census",
+   "file": "images/doar-28/doar-28_nircensus.png",
+   "credit": "Garufi et al. 2026, Fig. A.1 (crop)",
+   "hires_url": null,
+   "paper": {
+    "first_author": "Garufi",
+    "year": 2026,
+    "title": "Planet-forming disks and their environment across regions and time from the full NIR census",
+    "journal": "A&A, in press",
+    "arxiv": "2603.01703",
+    "bibcode": null
+   }
+  }
+ ],
+ "notes": "SPHERE/IRDIS H-band polarimetric image, from program 0103.C-0470 (PI Benisty). Reveals the same inclined disk previously reported in scattered light by Rich et al. (2015) with HiCIAO, but the SPHERE image shows no obvious evidence of extended emission exterior to it (Garufi et al. 2026).",
+ "last_updated": "2026-07-06"
+}

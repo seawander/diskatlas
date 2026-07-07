@@ -1,0 +1,21 @@
+{
+ "survey": "j-mwc480-seeds",
+ "survey_name": null,
+ "source_image": "images/_sources/_views/j-mwc480.png",
+ "pdf_page": null,
+ "panels": [
+  {
+   "id": "mwc-480",
+   "image_id": "mwc-480_seeds",
+   "bbox_frac": [
+    0,
+    0,
+    1,
+    0.905
+   ]
+  }
+ ],
+ "image_defaults": {},
+ "credit": "Kusakabe et al. 2012, Fig. 1 (crop)",
+ "paper": null
+}

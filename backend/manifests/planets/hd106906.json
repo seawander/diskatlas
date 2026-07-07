@@ -1,0 +1,35 @@
+{
+ "survey": "pl-hd106906",
+ "survey_name": null,
+ "source_image": "images/_sources/extracted/1312.1265/fig1.pdf",
+ "pdf_page": null,
+ "panels": [
+  {
+   "id": "hd-106906",
+   "image_id": "hd-106906_mago2014",
+   "bbox_frac": [
+    0.643,
+    0.03,
+    0.937,
+    0.278
+   ]
+  }
+ ],
+ "image_defaults": {
+  "type": "planet",
+  "facility": "Magellan-MagAO",
+  "instrument": "Clio2",
+  "wavelength_um": 3.8,
+  "wavelength_label": "L'; wide companion discovery",
+  "technique": "ADI"
+ },
+ "credit": "Bailey et al. 2014, Fig. 1 (crop)",
+ "paper": {
+  "first_author": "Bailey",
+  "year": 2014,
+  "title": "HD 106906 b: A planetary-mass companion outside a massive debris disk",
+  "journal": "ApJL 780, L4",
+  "arxiv": "1312.1265",
+  "bibcode": "2014ApJ...780L...4B"
+ }
+}

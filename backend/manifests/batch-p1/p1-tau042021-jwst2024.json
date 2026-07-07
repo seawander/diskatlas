@@ -1,0 +1,36 @@
+{
+ "survey": "p1-tau042021-jwst2024",
+ "source_image": "images/_sources/extracted/2309.07040/gduchene_f1.pdf",
+ "pdf_page": 1,
+ "dpi": 150,
+ "panels": [
+  {
+   "id": "tau-042021",
+   "image_id": "tau-042021_jwst2024",
+   "bbox_frac": [
+    0.0,
+    0.0,
+    1.0,
+    1.0
+   ]
+  }
+ ],
+ "image_defaults": {
+  "type": "disk_scattered",
+  "facility": "JWST",
+  "instrument": "NIRCam/MIRI (+HST ACS)",
+  "wavelength_um": 2.0,
+  "wavelength_label": "0.8/2.0/7.7 \u00b5m color composite (HST+JWST)",
+  "technique": "other"
+ },
+ "survey_name": null,
+ "credit": "Duch\u00eane et al. 2024, Fig. 1",
+ "paper": {
+  "first_author": "Duch\u00eane",
+  "year": 2024,
+  "title": "JWST imaging of edge-on protoplanetary disks. I. Fully vertically mixed 10 \u03bcm grains in the outer regions of a 1000 au disk",
+  "journal": "AJ 167, 77",
+  "arxiv": "2309.07040",
+  "bibcode": "2024AJ....167...77D"
+ }
+}

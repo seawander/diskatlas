@@ -1,0 +1,27 @@
+{
+ "survey": "n-aflep-naco2011",
+ "survey_name": null,
+ "source_image": "images/_sources/extracted/2406.01809/figures/06_AF_Lep.pdf",
+ "pdf_page": 1,
+ "dpi": 250,
+ "credit": "Bonse et al. 2024, Fig. 10 (crop: right panel, 4S residual of the 2011 NACO L' data; b recovered at S/N=6.8, circles mark the 2021/2023 Keck positions)",
+ "paper": {
+  "first_author": "Bonse",
+  "year": 2024,
+  "title": "Use the 4S (Signal-Safe Speckle Subtraction): Explainable Machine Learning reveals the Giant Exoplanet AF Lep b in High-Contrast Imaging Data from 2011",
+  "journal": "AJ (2024)",
+  "arxiv": "2406.01809",
+  "bibcode": null
+ },
+ "panels": [
+  { "id": "af-lep", "image_id": "af-lep_naco2011-4s", "bbox_frac": [0.664, 0.07, 1.0, 1.0] }
+ ],
+ "image_defaults": {
+  "type": "planet",
+  "facility": "VLT-NACO",
+  "instrument": "NACO",
+  "wavelength_um": 3.8,
+  "wavelength_label": "L' band; 2011 archival data, planet recovered with 4S ML post-processing (pre-discovery epoch)",
+  "technique": "ADI"
+ }
+}

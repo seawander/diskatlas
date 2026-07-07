@@ -1,0 +1,118 @@
+{
+ "id": "gj-504",
+ "name": "GJ 504",
+ "alt_names": [],
+ "simbad": "GJ 504",
+ "ra_deg": 199.19381191438,
+ "dec_deg": 9.4241555943461,
+ "dist_pc": 17.6,
+ "sptype": "G0IV",
+ "region": null,
+ "categories": [],
+ "planets": [
+  {
+   "name": "b",
+   "status": "confirmed",
+   "note": "Mass debated (4-30 MJup depending on system age)",
+   "paper": {
+    "first_author": "Kuzuhara",
+    "year": 2013,
+    "arxiv": "1307.2886",
+    "bibcode": "2013ApJ...774...11K"
+   }
+  }
+ ],
+ "images": [
+  {
+   "type": "planet",
+   "facility": "Subaru-HiCIAO",
+   "instrument": "HiCIAO",
+   "wavelength_um": 1.65,
+   "wavelength_label": "J/H composite; SEEDS discovery",
+   "technique": "ADI",
+   "survey": null,
+   "credit": "Kuzuhara et al. 2013, Fig. 5 (crop)",
+   "paper": {
+    "first_author": "Kuzuhara",
+    "year": 2013,
+    "title": "Direct Imaging of a Cold Jovian Exoplanet in Orbit around the Sun-like Star GJ 504",
+    "journal": "ApJ 774, 11",
+    "arxiv": "1307.2886",
+    "bibcode": "2013ApJ...774...11K"
+   },
+   "image_id": "gj-504_seeds2013",
+   "file": "images/gj-504/gj-504_seeds2013.png"
+  },
+  {
+   "type": "planet",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS dual-band",
+   "wavelength_um": 1.6,
+   "wavelength_label": "Y2/Y3/J3/H2/K1 re-detections; system re-analysis",
+   "technique": "ADI",
+   "survey": null,
+   "credit": "Bonnefoy et al. 2018, Fig. 1 (crop: IRDIS H2 panel)",
+   "paper": {
+    "first_author": "Bonnefoy",
+    "year": 2018,
+    "title": "The GJ 504 system revisited. Combining interferometric, radial velocity, and high contrast imaging data",
+    "journal": "A&A 618, A63",
+    "arxiv": "1807.00657",
+    "bibcode": "2018A&A...618A..63B"
+   },
+   "image_id": "gj-504_sphere2018",
+   "file": "images/gj-504/gj-504_sphere2018.png"
+  },
+  {
+   "image_id": "gj-504_lbti2016",
+   "type": "planet",
+   "facility": "LBT",
+   "instrument": "LBTI/LMIRCam",
+   "wavelength_um": 3.88,
+   "wavelength_label": "narrow L-band LNB6/LNB7/LNB8 (3.71, 3.88, 4.00 um)",
+   "technique": "ADI + PCA (LOCI/KLIP-style) PSF subtraction, LMIRcam MPIA pipeline",
+   "survey": null,
+   "file": "images/gj-504/gj-504_lbti2016.png",
+   "credit": "Skemer et al. 2016, Fig. 2 (crop)",
+   "paper": {
+    "first_author": "Skemer",
+    "year": 2016,
+    "title": "The LEECH Exoplanet Imaging Survey: Characterization of the Coldest Directly Imaged Exoplanet, GJ 504 b, and Evidence for Super-Stellar Metallicity",
+    "journal": "The Astrophysical Journal",
+    "arxiv": "1511.09183",
+    "bibcode": "2016ApJ...817..166S"
+   }
+  },
+  {
+   "image_id": "gj-504_mirico2025",
+   "type": "planet",
+   "facility": "JWST",
+   "instrument": "MIRI coronagraph (4QPM)",
+   "wavelength_um": 10.65,
+   "wavelength_label": "~10-15.5 micron (mid-IR), F1065C shown",
+   "technique": "coronagraphy",
+   "survey": null,
+   "credit": "Mâlin et al. 2025, Fig. 2 (crop)",
+   "paper": {
+    "first_author": "Mâlin",
+    "year": 2025,
+    "title": "First unambiguous detection of ammonia in the atmosphere of a planetary mass companion with JWST/MIRI coronagraphs",
+    "journal": "A&A",
+    "arxiv": "2501.00104",
+    "bibcode": null
+   },
+   "file": "images/gj-504/gj-504_mirico2025.png"
+  }
+ ],
+ "notes": null,
+ "last_updated": "2026-07-07",
+ "plx_mas": 56.8577,
+ "mags": {
+  "B": 5.81,
+  "G": 5.03984,
+  "R": 4.8,
+  "J": 4.39,
+  "H": 4.107,
+  "K": 4.033
+ }
+}

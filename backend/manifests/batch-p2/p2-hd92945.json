@@ -1,0 +1,34 @@
+{
+ "survey": "p2-hd92945",
+ "survey_name": null,
+ "source_image": "images/_sources/extracted/1901.01406/Figure_continuum_tapernatural_inferno_pbcor.pdf",
+ "panels": [
+  {
+   "id": "hd-92945",
+   "image_id": "hd-92945_alma2019",
+   "bbox_frac": [
+    0.1717,
+    0.0261,
+    0.9667,
+    0.7199
+   ]
+  }
+ ],
+ "image_defaults": {
+  "type": "disk_mm",
+  "facility": "ALMA",
+  "technique": "interferometry",
+  "instrument": "Band 7",
+  "wavelength_um": 860,
+  "wavelength_label": "0.86 mm continuum"
+ },
+ "credit": "Marino et al. 2019, Fig. 1 (crop)",
+ "paper": {
+  "first_author": "Marino",
+  "year": 2019,
+  "title": "A gap in HD 92945's broad planetesimal disc revealed by ALMA",
+  "journal": "MNRAS 484, 1257",
+  "arxiv": "1901.01406",
+  "bibcode": "2019MNRAS.484.1257M"
+ }
+}

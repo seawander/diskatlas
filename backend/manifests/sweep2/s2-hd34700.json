@@ -1,0 +1,29 @@
+{
+  "survey": "s2-hd34700",
+  "survey_name": "DESTINYS",
+  "source_image": "images/_sources/extracted/2310.16873/Figures/irdisQphi_log_coll.png",
+  "panels": [
+    {
+      "id": "hd-34700",
+      "image_id": "hd-34700_scexao2023",
+      "bbox_frac": [0.0232, 0.1202, 0.8397, 0.8918]
+    }
+  ],
+  "image_defaults": {
+    "type": "disk_scattered",
+    "facility": "VLT-SPHERE",
+    "instrument": "IRDIS DPI",
+    "wavelength_um": 1.625,
+    "wavelength_label": "H band 1.6 um (Qphi pol. intensity, log stretch)",
+    "technique": "PDI"
+  },
+  "credit": "Columba et al. 2024, Fig. 2 (IRDIS H-band Qphi crop)",
+  "paper": {
+    "first_author": "Columba",
+    "year": 2024,
+    "title": "Disk Evolution Study Through Imaging of Nearby Young Stars (DESTINYS): HD 34700 A unveils an inner ring",
+    "journal": "A&A 681, A19",
+    "arxiv": "2310.16873",
+    "bibcode": "2024A&A...681A..19C"
+  }
+}

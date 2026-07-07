@@ -1,0 +1,306 @@
+{
+ "survey": "sphere-taurus",
+ "survey_name": "SPHERE-Taurus",
+ "source_image": "images/_sources/extracted/2403.02158/Figures/Imagery.pdf",
+ "pdf_page": 1,
+ "dpi": 260,
+ "credit": "Garufi et al. 2024, Fig. 2 (crop)",
+ "paper": {
+  "first_author": "Garufi",
+  "year": 2024,
+  "title": "The SPHERE view of the Taurus star-forming region: The full census of planet-forming disks with GTO and DESTINYS programs",
+  "journal": "A&A 685, A53",
+  "arxiv": "2403.02158",
+  "bibcode": "2024A&A...685A..53G"
+ },
+ "panels": [
+  {
+   "id": "gm-aur",
+   "image_id": "gm-aur_sphere-taurus",
+   "bbox_frac": [
+    0.0036,
+    0.00324,
+    0.19755,
+    0.14873
+   ]
+  },
+  {
+   "id": "gg-tau",
+   "image_id": "gg-tau_sphere-taurus",
+   "bbox_frac": [
+    0.20332,
+    0.00324,
+    0.39798,
+    0.14927
+   ]
+  },
+  {
+   "id": "ab-aur",
+   "image_id": "ab-aur_sphere-taurus",
+   "bbox_frac": [
+    0.60634,
+    0.00324,
+    0.99567,
+    0.29746
+   ]
+  },
+  {
+   "id": "rw-aur",
+   "image_id": "rw-aur_sphere-taurus",
+   "bbox_frac": [
+    0.00288,
+    0.15143,
+    0.19755,
+    0.29746
+   ]
+  },
+  {
+   "id": "dg-tau",
+   "image_id": "dg-tau_sphere-taurus",
+   "bbox_frac": [
+    0.20332,
+    0.15143,
+    0.39798,
+    0.29746
+   ]
+  },
+  {
+   "id": "ux-tau",
+   "image_id": "ux-tau_sphere-taurus",
+   "bbox_frac": [
+    0.53569,
+    0.45051,
+    0.72963,
+    0.64251
+   ]
+  },
+  {
+   "id": "v409-tau",
+   "image_id": "v409-tau_sphere-taurus",
+   "bbox_frac": [
+    0.00288,
+    0.49811,
+    0.13266,
+    0.59546
+   ]
+  },
+  {
+   "id": "iq-tau",
+   "image_id": "iq-tau_sphere-taurus",
+   "bbox_frac": [
+    0.00288,
+    0.59816,
+    0.13266,
+    0.69497
+   ]
+  },
+  {
+   "id": "dl-tau",
+   "image_id": "dl-tau_sphere-taurus",
+   "bbox_frac": [
+    0.13482,
+    0.59816,
+    0.26388,
+    0.69497
+   ]
+  },
+  {
+   "id": "mwc-480",
+   "image_id": "mwc-480_sphere-taurus",
+   "bbox_frac": [
+    0.2682,
+    0.59816,
+    0.39798,
+    0.69497
+   ]
+  },
+  {
+   "id": "dr-tau",
+   "image_id": "dr-tau_sphere-taurus",
+   "bbox_frac": [
+    0.40014,
+    0.59816,
+    0.52848,
+    0.69497
+   ]
+  },
+  {
+   "id": "su-aur",
+   "image_id": "su-aur_sphere-taurus",
+   "bbox_frac": [
+    0.53569,
+    0.64521,
+    0.99567,
+    0.77447
+   ]
+  },
+  {
+   "id": "v710-tau",
+   "image_id": "v710-tau_sphere-taurus",
+   "bbox_frac": [
+    0.00288,
+    0.69876,
+    0.13266,
+    0.89346
+   ]
+  },
+  {
+   "id": "do-tau",
+   "image_id": "do-tau_sphere-taurus",
+   "bbox_frac": [
+    0.13627,
+    0.69876,
+    0.3987,
+    0.89346
+   ]
+  },
+  {
+   "id": "dm-tau",
+   "image_id": "dm-tau_sphere-taurus",
+   "bbox_frac": [
+    0.40014,
+    0.69876,
+    0.52848,
+    0.77393
+   ]
+  },
+  {
+   "id": "uz-tau-e",
+   "image_id": "uz-tau-e_sphere-taurus",
+   "bbox_frac": [
+    0.40014,
+    0.77664,
+    0.69575,
+    0.84911
+   ]
+  },
+  {
+   "id": "dq-tau",
+   "image_id": "dq-tau_sphere-taurus",
+   "bbox_frac": [
+    0.69935,
+    0.77664,
+    0.79668,
+    0.84911
+   ]
+  },
+  {
+   "id": "bp-tau",
+   "image_id": "bp-tau_sphere-taurus",
+   "bbox_frac": [
+    0.89834,
+    0.77664,
+    0.99567,
+    0.84911
+   ]
+  },
+  {
+   "id": "dh-tau",
+   "image_id": "dh-tau_sphere-taurus",
+   "bbox_frac": [
+    0.40014,
+    0.85073,
+    0.49676,
+    0.92374
+   ]
+  },
+  {
+   "id": "cx-tau",
+   "image_id": "cx-tau_sphere-taurus",
+   "bbox_frac": [
+    0.49892,
+    0.85073,
+    0.59625,
+    0.92374
+   ]
+  },
+  {
+   "id": "gi-tau",
+   "image_id": "gi-tau_sphere-taurus",
+   "bbox_frac": [
+    0.59913,
+    0.85073,
+    0.69575,
+    0.92374
+   ]
+  },
+  {
+   "id": "hq-tau",
+   "image_id": "hq-tau_sphere-taurus",
+   "bbox_frac": [
+    0.69935,
+    0.85073,
+    0.79668,
+    0.92374
+   ]
+  },
+  {
+   "id": "de-tau",
+   "image_id": "de-tau_sphere-taurus",
+   "bbox_frac": [
+    0.79957,
+    0.85073,
+    0.8969,
+    0.92374
+   ]
+  },
+  {
+   "id": "cw-tau",
+   "image_id": "cw-tau_sphere-taurus",
+   "bbox_frac": [
+    0.00288,
+    0.89562,
+    0.13266,
+    0.99784
+   ]
+  },
+  {
+   "id": "ci-tau",
+   "image_id": "ci-tau_sphere-taurus",
+   "bbox_frac": [
+    0.13554,
+    0.89562,
+    0.26532,
+    0.99784
+   ]
+  },
+  {
+   "id": "ip-tau",
+   "image_id": "ip-tau_sphere-taurus",
+   "bbox_frac": [
+    0.2682,
+    0.89562,
+    0.39798,
+    0.99784
+   ]
+  },
+  {
+   "id": "v836-tau",
+   "image_id": "v836-tau_sphere-taurus",
+   "bbox_frac": [
+    0.49892,
+    0.92482,
+    0.59625,
+    0.99784
+   ]
+  },
+  {
+   "id": "dn-tau",
+   "image_id": "dn-tau_sphere-taurus",
+   "bbox_frac": [
+    0.69935,
+    0.92482,
+    0.79668,
+    0.99784
+   ]
+  }
+ ],
+ "image_defaults": {
+  "type": "disk_scattered",
+  "facility": "VLT-SPHERE",
+  "instrument": "IRDIS DPI",
+  "wavelength_um": 1.65,
+  "wavelength_label": "H band 1.6 um (pol. intensity)",
+  "technique": "PDI"
+ }
+}

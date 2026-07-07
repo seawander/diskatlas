@@ -1,0 +1,49 @@
+{
+ "id": "vz-cha",
+ "name": "vz cha",
+ "alt_names": [],
+ "simbad": "vz cha",
+ "ra_deg": 167.34905792022,
+ "dec_deg": -76.38912707801,
+ "dist_pc": 191.1,
+ "sptype": "K7e",
+ "region": "Chamaeleon I",
+ "categories": [
+  "protoplanetary"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS DPI",
+   "wavelength_um": 1.65,
+   "wavelength_label": "H band 1.6 um (Qphi pol. intensity)",
+   "technique": "PDI",
+   "image_id": "vz-cha_sphere-chami",
+   "file": "images/vz-cha/vz-cha_sphere-chami.png",
+   "survey": "SPHERE-ChamI",
+   "credit": "Ginski et al. 2024, Fig. 2 (crop)",
+   "paper": {
+    "first_author": "Ginski",
+    "year": 2024,
+    "title": "The SPHERE view of the Chamaeleon I star-forming region: The full census of planet-forming disks with GTO and DESTINYS programs",
+    "journal": "A&A 685, A52",
+    "arxiv": "2403.02149",
+    "bibcode": "2024A&A...685A..52G"
+   }
+  }
+ ],
+ "notes": "AUTO-CREATED from staging - fill metadata & coords",
+ "last_updated": "2026-07-06",
+ "plx_mas": 5.2322,
+ "mags": {
+  "B": 13.82,
+  "V": 12.94,
+  "G": 12.611542,
+  "I": 12.14,
+  "J": 10.44,
+  "H": 9.214,
+  "K": 8.242
+ }
+}

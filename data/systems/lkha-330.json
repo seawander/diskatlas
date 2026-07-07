@@ -1,0 +1,148 @@
+{
+ "id": "lkha-330",
+ "name": "LkHa 330",
+ "alt_names": [],
+ "simbad": "LkHa 330",
+ "ra_deg": 56.45116880086,
+ "dec_deg": 32.40329193841,
+ "dist_pc": 318.2,
+ "sptype": "F7",
+ "region": null,
+ "categories": [
+  "protoplanetary"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS Ks",
+   "wavelength_um": 2.18,
+   "wavelength_label": "Ks 2.2 um (total intensity, RDI)",
+   "technique": "RDI",
+   "image_id": "lkha-330_sphere-ks-rdi",
+   "survey": "SPHERE-Ks-RDI",
+   "file": "images/lkha-330/lkha-330_sphere-ks-rdi.png",
+   "credit": "Ren et al. 2023, Ks total-intensity gallery (crop)",
+   "paper": {
+    "first_author": "Ren",
+    "year": 2023,
+    "title": "Protoplanetary disks in Ks-band total intensity and polarized light",
+    "journal": "A&A 680, A114",
+    "arxiv": "2310.08589",
+    "bibcode": "2023A&A...680A.114R"
+   }
+  },
+  {
+   "image_id": "lkha-330_seeds",
+   "type": "disk_scattered",
+   "facility": "Subaru-HiCIAO",
+   "instrument": "HiCIAO",
+   "wavelength_um": 1.65,
+   "wavelength_label": "H band (pol. intensity)",
+   "technique": "PDI",
+   "survey": "SEEDS",
+   "file": "images/lkha-330/lkha-330_seeds.png",
+   "credit": "Tamura 2016, Fig. 3 (crop); original: Bonnefoy et al. (in prep.)",
+   "paper": {
+    "first_author": "Tamura",
+    "year": 2016,
+    "title": "SEEDS - Strategic Explorations of Exoplanets and Disks with the Subaru Telescope",
+    "journal": "Proc. Japan Acad. Ser. B 92, 45",
+    "arxiv": null,
+    "bibcode": "2016PJAB...92...45T"
+   }
+  },
+  {
+   "type": "disk_scattered",
+   "facility": "Keck",
+   "instrument": "NIRC2 vortex",
+   "wavelength_um": 3.8,
+   "wavelength_label": "L' 3.8 um scattered light (ALMA contours overlaid)",
+   "technique": "RDI",
+   "image_id": "lkha-330_keck-vortex-2024",
+   "file": "images/lkha-330/lkha-330_keck-vortex-2024.png",
+   "survey": "Keck-vortex-2024",
+   "credit": "Wallack et al. 2024, Fig. 4 (crop)",
+   "paper": {
+    "first_author": "Wallack",
+    "year": 2024,
+    "title": "A Survey of Protoplanetary Disks Using the Keck/NIRC2 Vortex Coronagraph",
+    "journal": "AJ 168, 78",
+    "arxiv": "2408.04048",
+    "bibcode": "2024AJ....168...78W"
+   }
+  },
+  {
+   "image_id": "lkha-330_alma2022",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 6",
+   "wavelength_um": 1300,
+   "wavelength_label": "1.3 mm (Band 6) continuum ring",
+   "technique": "millimeter dust continuum interferometry",
+   "survey": null,
+   "file": "images/lkha-330/lkha-330_alma2022.png",
+   "credit": "Pinilla et al. 2022 (ALMA Band 6 continuum; crop)",
+   "paper": {
+    "first_author": "Pinilla",
+    "year": 2022,
+    "title": "Distributions of gas and small and large grains in the LkHα 330 disk trace a young planetary system",
+    "journal": "Astronomy & Astrophysics (A&A 665, A128)",
+    "arxiv": "2206.09975",
+    "bibcode": "2022A&A...665A.128P"
+   }
+  },
+  {
+   "image_id": "lkha-330_sphere-pinilla22",
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS (DPI)",
+   "wavelength_um": 1.6,
+   "wavelength_label": "H-band Q_phi polarized scattered light (spiral/ring)",
+   "technique": "PDI",
+   "survey": null,
+   "file": "images/lkha-330/lkha-330_sphere-pinilla22.png",
+   "credit": "Pinilla et al. 2022, Fig. (LkHa330_all_SPHERE, H-band Q_phi panels) (crop)",
+   "paper": {
+    "first_author": "Pinilla",
+    "year": 2022,
+    "title": "The Circumstellar Disk of LkHa 330 (multiwavelength SPHERE + ALMA)",
+    "journal": "A&A (2022)",
+    "arxiv": "2206.09975",
+    "bibcode": null
+   }
+  },
+  {
+   "image_id": "lkha-330_sphere-ks-qphi",
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS",
+   "wavelength_um": 2.18,
+   "wavelength_label": "Ks band 2.2 um (pol. intensity, Qphi)",
+   "technique": "PDI",
+   "survey": "SPHERE-Ks-RDI",
+   "credit": "Ren et al. 2023, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Ren",
+    "year": 2023,
+    "title": "Protoplanetary disks in $K_s$-band total intensity and polarized light",
+    "journal": "A&A 680, A114",
+    "arxiv": "2310.08589",
+    "bibcode": "2023A&A...680A.114R"
+   },
+   "file": "images/lkha-330/lkha-330_sphere-ks-qphi.png"
+  }
+ ],
+ "notes": null,
+ "last_updated": "2026-07-06",
+ "plx_mas": 3.1425,
+ "mags": {
+  "B": 12.3,
+  "V": 10.97,
+  "G": 11.411906,
+  "J": 8.83,
+  "H": 7.92,
+  "K": 7.03
+ }
+}

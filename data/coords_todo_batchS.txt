@@ -1,0 +1,15 @@
+# Batch S — SIMBAD-resolvable names for the host SIMBAD pass.
+# Job 2 (Keck-vortex-2024, Wallack+2024 Fig. 4): all 8 panel targets already
+# exist in data/systems/ (rx-j1604-3-2130, lkha-330, lkca-15, mwc-758, pds-70,
+# ry-tau, hd-34282, cq-tau) — nothing new to resolve.
+# Job 4 (quasar expansion, new systems below): RA/Dec are already filled in the
+# system files (NGC 1068 = literature position; HSC quasars derived from their
+# IAU designations). This pass is for plx/mags/refined positions only.
+NGC 1068
+# = M 77, Seyfert 2, z=0.0038 -> data/systems/ngc-1068.json
+HSC J223644.58+003256.9
+# = HSC J2236+0032, SHELLQs QSO z=6.40 -> data/systems/hsc-j2236-0032.json
+# (if the HSC prefix fails, try: SHELLQs J223644.58+003256.9)
+HSC J225538.04+025126.6
+# = HSC J2255+0251, SHELLQs QSO z=6.34 -> data/systems/hsc-j2255-0251.json
+# (if the HSC prefix fails, try: SHELLQs J225538.04+025126.6)

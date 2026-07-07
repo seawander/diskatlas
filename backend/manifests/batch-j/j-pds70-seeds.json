@@ -1,0 +1,21 @@
+{
+ "survey": "j-pds70-seeds",
+ "survey_name": null,
+ "source_image": "images/_sources/_views/j-pds70s-2.png",
+ "pdf_page": null,
+ "panels": [
+  {
+   "id": "pds-70",
+   "image_id": "pds-70_seeds",
+   "bbox_frac": [
+    0,
+    0,
+    0.332,
+    0.4534
+   ]
+  }
+ ],
+ "image_defaults": {},
+ "credit": "Hashimoto et al. 2012, Fig. 2a (crop)",
+ "paper": null
+}

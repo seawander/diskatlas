@@ -1,0 +1,495 @@
+{
+ "id": "beta-pic",
+ "name": "beta Pic",
+ "alt_names": [
+  "HD 39060"
+ ],
+ "simbad": "beta Pic",
+ "ra_deg": 86.8211987087,
+ "dec_deg": -51.0665114264,
+ "dist_pc": 19.6,
+ "sptype": "A6V",
+ "region": "beta Pic moving group",
+ "categories": [
+  "debris"
+ ],
+ "planets": [
+  {
+   "name": "b",
+   "status": "confirmed",
+   "paper": {
+    "first_author": "Lagrange",
+    "year": 2010,
+    "arxiv": "1006.3314",
+    "bibcode": "2010Sci...329...57L"
+   }
+  },
+  {
+   "name": "c",
+   "status": "confirmed",
+   "note": "RV discovery: Lagrange et al. 2019 (Nat. Astron.); first interferometric image (GRAVITY) Nowak+2020",
+   "paper": {
+    "first_author": "Nowak",
+    "year": 2020,
+    "title": "Direct confirmation of the radial-velocity planet β Pic c",
+    "journal": "A&A 642, L2",
+    "arxiv": "2010.04442",
+    "bibcode": null
+   },
+   "method": "interferometry",
+   "extra_papers": [
+    {
+     "label": "dynamical mass",
+     "first_author": "Lacour",
+     "year": 2021,
+     "title": "The mass of Beta Pictoris c from Beta Pictoris b orbital motion",
+     "journal": "A&A 654, L2",
+     "arxiv": "2109.10671",
+     "bibcode": null
+    }
+   ]
+  },
+  {
+   "name": "d",
+   "status": "confirmed",
+   "method": "imaging",
+   "note": "Third planet, announced 2026 by two independent groups",
+   "paper": {
+    "first_author": "Sutlieff",
+    "year": 2026,
+    "title": "Direct Imaging Discovery of Giant Exoplanet β Pictoris d: A Decade-Long Game of Hide-and-Seek",
+    "journal": null,
+    "arxiv": "2606.23801",
+    "bibcode": null
+   },
+   "extra_papers": [
+    {
+     "label": "independent discovery (JWST/NIRSpec)",
+     "first_author": "Gibbs",
+     "year": 2026,
+     "title": "Discovery of an Exterior Third Planet Orbiting β Pictoris",
+     "journal": null,
+     "arxiv": "2606.23789",
+     "bibcode": null
+    }
+   ]
+  }
+ ],
+ "images": [
+  {
+   "type": "disk_mm",
+   "facility": "ALMA/SMA",
+   "technique": "interferometry",
+   "instrument": "Band 6/7",
+   "wavelength_um": 1300,
+   "wavelength_label": "~0.9-1.3 mm continuum",
+   "image_id": "beta-pic_reasons",
+   "survey": "REASONS",
+   "file": "images/beta-pic/beta-pic_reasons.png",
+   "credit": "Matrà et al. 2025, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Matra",
+    "year": 2025,
+    "title": "REsolved ALMA and SMA Observations of Nearby Stars (REASONS): A population of 74 resolved planetesimal belts at millimetre wavelengths",
+    "journal": "A&A 693, A151",
+    "arxiv": "2501.09058",
+    "bibcode": "2025A&A...693A.151M"
+   }
+  },
+  {
+   "type": "disk_scattered",
+   "facility": "Gemini-GPI",
+   "instrument": "IFS pol",
+   "wavelength_um": 1.65,
+   "wavelength_label": "H band 1.6 um (pol. intensity)",
+   "technique": "PDI",
+   "image_id": "beta-pic_gpies-debris",
+   "survey": "GPIES-debris",
+   "file": "images/beta-pic/beta-pic_gpies-debris.png",
+   "credit": "Esposito et al. 2020, Fig. 5 (crop)",
+   "paper": {
+    "first_author": "Esposito",
+    "year": 2020,
+    "title": "Debris Disk Results from the Gemini Planet Imager Exoplanet Survey's Polarimetric Imaging Campaign",
+    "journal": "AJ 160, 24",
+    "arxiv": "2004.13722",
+    "bibcode": "2020AJ....160...24E"
+   }
+  },
+  {
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 7",
+   "wavelength_um": 870,
+   "wavelength_label": "870 um continuum + CO clump",
+   "technique": "interferometry",
+   "survey": null,
+   "credit": "Dent et al. 2014, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Dent",
+    "year": 2014,
+    "title": "Molecular Gas Clumps from the Destruction of Icy Bodies in the beta Pictoris Debris Disk",
+    "journal": "Science 343, 1490",
+    "arxiv": "1404.1380",
+    "bibcode": "2014Sci...343.1490D"
+   },
+   "image_id": "beta-pic_alma2014",
+   "file": "images/beta-pic/beta-pic_alma2014.png"
+  },
+  {
+   "type": "disk_scattered",
+   "facility": "Gemini-GPI",
+   "instrument": "IFS pol",
+   "wavelength_um": 1.65,
+   "wavelength_label": "H band pol.; edge-on inner disk",
+   "technique": "PDI",
+   "survey": null,
+   "credit": "Millar-Blanchaer et al. 2015, Fig. 1 left (Qr, crop)",
+   "paper": {
+    "first_author": "Millar-Blanchaer",
+    "year": 2015,
+    "title": "Beta Pictoris' Inner Disk in Polarized Light and New Orbital Parameters for beta Pictoris b",
+    "journal": "ApJ 811, 18",
+    "arxiv": "1508.04787",
+    "bibcode": "2015ApJ...811...18M"
+   },
+   "image_id": "beta-pic_gpi2015",
+   "file": "images/beta-pic/beta-pic_gpi2015.png"
+  },
+  {
+   "type": "planet",
+   "facility": "VLT-NACO",
+   "instrument": "NACO",
+   "wavelength_um": 3.8,
+   "wavelength_label": "L' band; planet b confirmed bound",
+   "technique": "ADI",
+   "survey": null,
+   "credit": "Lagrange et al. 2010, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Lagrange",
+    "year": 2010,
+    "title": "A Giant Planet Imaged in the Disk of the Young Star beta Pictoris",
+    "journal": "Science 329, 57",
+    "arxiv": "1006.3314",
+    "bibcode": "2010Sci...329...57L"
+   },
+   "image_id": "beta-pic_naco2010",
+   "file": "images/beta-pic/beta-pic_naco2010.png"
+  },
+  {
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 7/6",
+   "wavelength_um": 880,
+   "wavelength_label": "~0.88-1.3 mm continuum",
+   "technique": "interferometry",
+   "image_id": "beta-pic_arks",
+   "file": "images/beta-pic/beta-pic_arks.png",
+   "survey": "ARKS",
+   "credit": "Marino et al. 2026, Fig. 3 (crop)",
+   "paper": {
+    "first_author": "Marino",
+    "year": 2026,
+    "title": "The ALMA survey to Resolve exoKuiper belt Substructures (ARKS) I: Motivation, sample, data reduction, and results overview",
+    "journal": "A&A",
+    "arxiv": "2601.11708",
+    "bibcode": null
+   }
+  },
+  {
+   "type": "disk_scattered",
+   "facility": "Gemini-GPI",
+   "instrument": "IFS",
+   "wavelength_um": 1.65,
+   "wavelength_label": "H band 1.6 um (total intensity)",
+   "technique": "ADI",
+   "image_id": "beta-pic_gpies-debris-toti",
+   "file": "images/beta-pic/beta-pic_gpies-debris-toti.png",
+   "survey": "GPIES-debris",
+   "credit": "Esposito et al. 2020, Fig. 6 (crop)",
+   "paper": {
+    "first_author": "Esposito",
+    "year": 2020,
+    "title": "Debris Disk Results from the Gemini Planet Imager Exoplanet Survey's Polarimetric Imaging Campaign",
+    "journal": "AJ 160, 24",
+    "arxiv": "2004.13722",
+    "bibcode": "2020AJ....160...24E"
+   }
+  },
+  {
+   "type": "disk_scattered",
+   "facility": "HST",
+   "instrument": "NICMOS",
+   "wavelength_um": 1.12,
+   "wavelength_label": "F110W 1.12 um (NMF reprocessing)",
+   "technique": "RDI",
+   "image_id": "beta-pic_nicmos-ren2023",
+   "file": "images/beta-pic/beta-pic_nicmos-ren2023.png",
+   "survey": "NICMOS-Ren2023",
+   "credit": "Ren et al. 2023, Fig. 3 (crop)",
+   "paper": {
+    "first_author": "Ren",
+    "year": 2023,
+    "title": "Debris Disk Color with the Hubble Space Telescope",
+    "journal": "A&A 672, A114",
+    "arxiv": "2302.04273",
+    "bibcode": "2023A&A...672A.114R"
+   }
+  },
+  {
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS DPI",
+   "wavelength_um": 1.65,
+   "wavelength_label": "H band 1.6 um (pol. intensity)",
+   "technique": "PDI",
+   "image_id": "beta-pic_sphere-debris-2025",
+   "file": "images/beta-pic/beta-pic_sphere-debris-2025.png",
+   "survey": "SPHERE-debris-2025",
+   "credit": "Engler et al. 2025, Fig. 5a (crop)",
+   "paper": {
+    "first_author": "Engler",
+    "year": 2025,
+    "title": "Characterization of debris disks observed with SPHERE",
+    "journal": "A&A 704, A21",
+    "arxiv": "2512.03128",
+    "bibcode": null
+   }
+  },
+  {
+   "type": "disk_scattered",
+   "facility": "HST",
+   "instrument": "STIS",
+   "wavelength_um": 0.58,
+   "wavelength_label": "0.2-1.0 um broadband (optical)",
+   "technique": "coronagraphy",
+   "image_id": "beta-pic_stis-ren",
+   "file": "images/beta-pic/beta-pic_stis-ren.png",
+   "survey": "STIS-Ren",
+   "credit": "Ren et al. 2023, Fig. 2 (crop)",
+   "paper": {
+    "first_author": "Ren",
+    "year": 2023,
+    "title": "Debris Disk Color with the Hubble Space Telescope",
+    "journal": "A&A 672, A114",
+    "arxiv": "2302.04273",
+    "bibcode": "2023A&A...672A.114R"
+   }
+  },
+  {
+   "type": "disk_scattered",
+   "facility": "Las Campanas 2.5m du Pont",
+   "instrument": "CCD coronagraph",
+   "wavelength_um": 0.89,
+   "wavelength_label": "890 nm; the first circumstellar disk image (1984)",
+   "technique": "coronagraphy",
+   "survey": null,
+   "credit": "Smith & Terrile 1984, Fig. 1 (crop; user-provided PDF)",
+   "paper": {
+    "first_author": "Smith",
+    "year": 1984,
+    "title": "A Circumstellar Disk around beta Pictoris",
+    "journal": "Science 226, 1421",
+    "arxiv": null,
+    "bibcode": "1984Sci...226.1421S"
+   },
+   "image_id": "beta-pic_smith1984",
+   "file": "images/beta-pic/beta-pic_smith1984.png"
+  },
+  {
+   "type": "disk_scattered",
+   "facility": "UH 2.2m",
+   "instrument": "coronagraph camera",
+   "wavelength_um": 0.65,
+   "wavelength_label": "R band coronagraphy (classic large-scale disk)",
+   "technique": "coronagraphy",
+   "survey": null,
+   "credit": "Kalas & Jewitt 1995, Fig. 1 / Plate 33 (crop)",
+   "paper": {
+    "first_author": "Kalas",
+    "year": 1995,
+    "title": "Asymmetries in the beta Pictoris dust disk",
+    "journal": "AJ 110, 794",
+    "arxiv": null,
+    "bibcode": "1995AJ....110..794K"
+   },
+   "image_id": "beta-pic_kalas1995",
+   "file": "images/beta-pic/beta-pic_kalas1995.png"
+  },
+  {
+   "type": "planet",
+   "facility": "VLTI-GRAVITY",
+   "instrument": "GRAVITY (K band)",
+   "wavelength_um": 2.2,
+   "wavelength_label": "K band interferometry; b spectrum + 10s-of-uas astrometry",
+   "technique": "interferometry",
+   "survey": null,
+   "credit": "GRAVITY Collaboration 2020, orbit figure (crop: sky-projected orbit with GRAVITY astrometry inset)",
+   "paper": {
+    "first_author": "GRAVITY Collaboration",
+    "year": 2020,
+    "title": "Peering into the formation history of beta Pictoris b with VLTI/GRAVITY long-baseline interferometry",
+    "journal": "A&A 633, A110",
+    "arxiv": "1912.04651",
+    "bibcode": null
+   },
+   "image_id": "beta-pic_gravity2020",
+   "file": "images/beta-pic/beta-pic_gravity2020.png"
+  },
+  {
+   "type": "planet",
+   "facility": "VLTI-GRAVITY",
+   "instrument": "GRAVITY (K band)",
+   "wavelength_um": 2.2,
+   "wavelength_label": "K band interferometry; first direct confirmation of RV planet c",
+   "technique": "interferometry",
+   "survey": null,
+   "credit": "Nowak et al. 2020, Fig. 1 (crop: 2020-03-08 periodogram power map, beta Pic c)",
+   "paper": {
+    "first_author": "Nowak",
+    "year": 2020,
+    "title": "Direct confirmation of the radial-velocity planet beta Pictoris c",
+    "journal": "A&A 642, L2",
+    "arxiv": "2010.04442",
+    "bibcode": null
+   },
+   "image_id": "beta-pic_gravity2020c",
+   "file": "images/beta-pic/beta-pic_gravity2020c.png"
+  },
+  {
+   "image_id": "beta-pic_alice-f160w",
+   "type": "disk_scattered",
+   "facility": "HST",
+   "instrument": "NICMOS",
+   "wavelength_um": 1.6,
+   "wavelength_label": "F160W 1.6 um (ALICE archival reprocessing, combined coadd)",
+   "technique": "RDI",
+   "survey": "ALICE",
+   "file": "images/beta-pic/beta-pic_alice-f160w.png",
+   "credit": "ALICE HLSP v1 combined coadd (HST program 7248, STScI) — hi-res: ALICE archive (STScI)",
+   "paper": {
+    "first_author": "Hagan",
+    "year": 2018,
+    "title": "ALICE Data Release: A revaluation of HST-NICMOS coronagraphic images",
+    "journal": "AJ 155, 179",
+    "arxiv": "1802.07754",
+    "bibcode": null
+   },
+   "hires_url": "https://archive.stsci.edu/prepds/alice/"
+  },
+  {
+   "image_id": "beta-pic_jwst-nircam",
+   "type": "disk_scattered",
+   "facility": "JWST",
+   "instrument": "NIRCam",
+   "wavelength_um": 2.1,
+   "wavelength_label": "JWST/NIRCam 1.8-4.4 um scattered light (coronagraphy)",
+   "technique": "coronagraphy",
+   "survey": null,
+   "file": "images/beta-pic/beta-pic_jwst-nircam.png",
+   "credit": "Rebollido et al. 2024, Fig. 1 (NIRCam; crop)",
+   "paper": {
+    "first_author": "Rebollido",
+    "year": 2024,
+    "title": "JWST-TST High Contrast: Asymmetries, dust populations and hints of a collision in the beta Pictoris disk with NIRCam and MIRI",
+    "journal": "AJ 167, 69",
+    "arxiv": "2401.05271",
+    "bibcode": "2024AJ....167...69R"
+   }
+  },
+  {
+   "image_id": "beta-pic_jwst-miri",
+   "type": "disk_mm",
+   "facility": "JWST",
+   "instrument": "MIRI",
+   "wavelength_um": 15.5,
+   "wavelength_label": "JWST/MIRI 15.5+22.75 um thermal ('cat's tail')",
+   "technique": "coronagraphy",
+   "survey": null,
+   "file": "images/beta-pic/beta-pic_jwst-miri.png",
+   "credit": "Rebollido et al. 2024, Fig. 1 (MIRI; crop)",
+   "paper": {
+    "first_author": "Rebollido",
+    "year": 2024,
+    "title": "JWST-TST High Contrast: Asymmetries, dust populations and hints of a collision in the beta Pictoris disk with NIRCam and MIRI",
+    "journal": "AJ 167, 69",
+    "arxiv": "2401.05271",
+    "bibcode": "2024AJ....167...69R"
+   }
+  },
+  {
+   "image_id": "beta-pic_acs2006",
+   "type": "disk_scattered",
+   "facility": "HST",
+   "instrument": "ACS/HRC coronagraph",
+   "wavelength_um": 0.606,
+   "wavelength_label": "F435W/F606W/F814W (B/V/I) coronagraphic imaging",
+   "technique": "coronagraphy",
+   "survey": null,
+   "credit": "Golimowski et al. 2006, Fig. 2 (crop)",
+   "paper": {
+    "first_author": "Golimowski",
+    "year": 2006,
+    "title": "HST/ACS Multiband Coronagraphic Imaging of the Debris Disk around Beta Pictoris",
+    "journal": "AJ 131, 3109",
+    "arxiv": "astro-ph/0602292",
+    "bibcode": null
+   },
+   "file": "images/beta-pic/beta-pic_acs2006.png"
+  },
+  {
+   "image_id": "beta-pic_planetd2026",
+   "type": "planet",
+   "facility": "VLT-ERIS/JWST-NIRCam/VLT-SPHERE",
+   "instrument": "ERIS + NIRCam + IRDIS (6-epoch gallery)",
+   "wavelength_um": 3.8,
+   "wavelength_label": "multi-facility, multi-epoch gallery: VLT/ERIS L' (3.8um, 2025-12-03), JWST/NIRCam F410M+F444W (2025-03-22, 2023-03-18), VLT/SPHERE H23+K12 (2020-02-08, 2019-03-11, 2014-12-08)",
+   "technique": "ADI",
+   "survey": null,
+   "credit": "Sutlieff et al. 2026, Fig. 1 (crop: 6-panel gallery, all epochs/facilities)",
+   "paper": {
+    "first_author": "Sutlieff",
+    "year": 2026,
+    "title": "Direct Imaging Discovery of Giant Exoplanet β Pictoris d: A Decade-Long Game of Hide-and-Seek",
+    "journal": null,
+    "arxiv": "2606.23801",
+    "bibcode": null
+   },
+   "file": "images/beta-pic/beta-pic_planetd2026.png"
+  },
+  {
+   "image_id": "beta-pic_planetd-jwst2026",
+   "type": "planet",
+   "facility": "JWST",
+   "instrument": "NIRSpec IFU + MIRI MRS",
+   "wavelength_um": 4.6,
+   "wavelength_label": "S/N maps: NIRSpec G395H NRS1 (2.86-4.10um), NRS2 (4.08-5.28um), MIRI MRS ch1B (5.66-6.63um); independent confirmation of planet d",
+   "technique": "other",
+   "survey": null,
+   "credit": "Gibbs et al. 2026, Fig. 1 (crop: 3-panel S/N map, NIRSpec NRS1/NRS2 + MIRI MRS 1B)",
+   "paper": {
+    "first_author": "Gibbs",
+    "year": 2026,
+    "title": "Discovery of an Exterior Third Planet Orbiting β Pictoris",
+    "journal": null,
+    "arxiv": "2606.23789",
+    "bibcode": null
+   },
+   "file": "images/beta-pic/beta-pic_planetd-jwst2026.png"
+  }
+ ],
+ "notes": "Original 1984 discovery image (Smith & Terrile, Las Campanas coronagraph) predates arXiv; add if desired.",
+ "last_updated": "2026-07-07",
+ "plx_mas": 50.9307,
+ "mags": {
+  "U": 4.13,
+  "B": 4.03,
+  "V": 3.86,
+  "G": 3.823242,
+  "R": 3.74,
+  "I": 3.58,
+  "J": 3.57,
+  "H": 3.51,
+  "K": 3.48
+ }
+}

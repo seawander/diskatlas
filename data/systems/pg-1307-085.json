@@ -1,0 +1,69 @@
+{
+ "id": "pg-1307-085",
+ "name": "PG 1307+085",
+ "alt_names": [],
+ "simbad": "PG 1307+085",
+ "ra_deg": 197.44584650792,
+ "dec_deg": 8.33005898959,
+ "dist_pc": null,
+ "plx_mas": null,
+ "mags": {
+  "B": 16.04,
+  "V": 15.89,
+  "G": 15.67417,
+  "J": 15.377,
+  "H": 15.214,
+  "K": 14.647
+ },
+ "sptype": "QSO (z=0.155)",
+ "region": "extragalactic",
+ "categories": [
+  "quasar"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "type": "quasar",
+   "facility": "HST",
+   "instrument": "WFPC2 (WFC)",
+   "wavelength_um": 0.6,
+   "wavelength_label": "F606W; PSF-subtracted quasar image (host-galaxy upper limit, the 'naked quasar' result)",
+   "technique": "other",
+   "image_id": "pg-1307-085_bahcall1994",
+   "file": "images/pg-1307-085/pg-1307-085_bahcall1994.png",
+   "survey": "Bahcall-quasars-1994",
+   "credit": "Bahcall et al. 1994, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Bahcall",
+    "year": 1994,
+    "title": "HST Images of Nearby Luminous Quasars",
+    "journal": "ApJL 435, L11",
+    "arxiv": "astro-ph/9409028",
+    "bibcode": "1994ApJ...435L..11B"
+   }
+  },
+  {
+   "image_id": "pg-1307-085_muse2015",
+   "type": "quasar",
+   "facility": "VLT",
+   "instrument": "MUSE",
+   "wavelength_um": 0.6,
+   "wavelength_label": "optical IFU (4750-9350 A), reconstructed RGB image",
+   "technique": "other",
+   "survey": null,
+   "credit": "Husemann et al. 2015, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Husemann",
+    "year": 2015,
+    "title": "The MUSE view of QSO PG1307+085: An elliptical galaxy on the $M_{BH}-\\sigma_*$ relation interacting with its group environment",
+    "journal": "MNRAS 455, 1905",
+    "arxiv": "1510.03864",
+    "bibcode": null
+   },
+   "file": "images/pg-1307-085/pg-1307-085_muse2015.png"
+  }
+ ],
+ "notes": "Luminous radio-quiet PG quasar (V=15.3) from the Bahcall, Kirhakos & Schneider 1994 HST/WFPC2 study: no host detected to strong limits (the 'naked quasar' result); re-analyzed in Bahcall et al. 1995 (Paper II). Added by batch T; redshift from Paper I Table 1. Coordinates pending SIMBAD via coords_todo_batchT.",
+ "last_updated": "2026-07-06",
+ "redshift": 0.155
+}

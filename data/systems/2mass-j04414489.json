@@ -1,0 +1,58 @@
+{
+ "id": "2mass-j04414489",
+ "name": "2MASS J04414489+2301513",
+ "alt_names": [],
+ "simbad": "2MASS J04414489+2301513",
+ "ra_deg": 70.4370711053,
+ "dec_deg": 23.0309410599,
+ "dist_pc": 140,
+ "plx_mas": 8.1822,
+ "mags": {
+  "G": 18.9156,
+  "J": 14.419,
+  "H": 13.726,
+  "K": 13.161
+ },
+ "sptype": "M8.7",
+ "region": "Taurus",
+ "categories": [],
+ "planets": [
+  {
+   "name": "b",
+   "status": "confirmed",
+   "note": "Planetary-mass companion (5-10 Mjup) to a brown dwarf host, ~15 AU separation, Taurus star-forming region. Discovery imaging with HST WFPC2; confirmed with Gemini NIRI+Altair AO follow-up.",
+   "method": "imaging",
+   "paper": {
+    "first_author": "Todorov",
+    "year": 2010,
+    "arxiv": "1004.0539",
+    "bibcode": null
+   }
+  }
+ ],
+ "images": [
+  {
+   "image_id": "2mass-j04414489_hst2010",
+   "type": "planet",
+   "facility": "HST",
+   "instrument": "WFPC2",
+   "wavelength_um": 0.85,
+   "wavelength_label": "F850LP (discovery); confirmed with Gemini NIRI+Altair",
+   "technique": "other",
+   "survey": null,
+   "file": "images/2mass-j04414489/2mass-j04414489_hst2010.png",
+   "credit": "Todorov et al. 2010, Fig. 1 (crop)",
+   "hires_url": null,
+   "paper": {
+    "first_author": "Todorov",
+    "year": 2010,
+    "title": "Discovery of a Planetary-mass Companion to a Brown Dwarf in Taurus",
+    "journal": "ApJL 714, L84",
+    "arxiv": "1004.0539",
+    "bibcode": null
+   }
+  }
+ ],
+ "notes": null,
+ "last_updated": "2026-07-07"
+}

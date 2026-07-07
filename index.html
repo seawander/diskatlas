@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Resolved Disks & Imaged Planets — Sky Atlas</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="frontend/style.css">
+</head>
+<body>
+<header id="topbar">
+  <div id="title">
+    <span class="t1" data-i18n="title">Resolved Disks &amp; Imaged Planets</span>
+    <span class="t2" id="statsline">loading…</span>
+  </div>
+  <div id="viewtabs"></div>
+  <input id="search" type="search" data-i18n-ph="search_ph" placeholder="Search star… (e.g. HL Tau)" autocomplete="off">
+  <select id="lang" title="language / 语言 / langue / idioma"></select>
+  <div id="filters"></div>
+  <div id="facets"></div>
+</header>
+
+<main>
+  <canvas id="sky"></canvas>
+  <div id="matrix" hidden></div>
+  <div id="tonight" hidden></div>
+  <div id="legend"></div>
+</main>
+<div id="tooltip" hidden></div>
+<div id="searchlist" hidden></div>
+
+<aside id="detail" hidden>
+  <button id="closebtn" title="close (Esc)">×</button>
+  <h2 id="d_name"></h2>
+  <div id="d_sub"></div>
+  <div id="d_imgwrap">
+    <button class="nav" id="d_prev" title="previous (←)">‹</button>
+    <div id="d_imgbox"></div>
+    <button class="nav" id="d_next" title="next (→)">›</button>
+  </div>
+  <div id="d_slider"></div>
+  <div id="d_caption"></div>
+  <div id="d_planets"></div>
+  <div id="d_notes"></div>
+</aside>
+
+<script src="frontend/data.js"></script>
+<script src="frontend/constellations.js"></script>
+<script src="frontend/i18n.js"></script>
+<script src="frontend/app.js"></script>
+</body>
+</html>

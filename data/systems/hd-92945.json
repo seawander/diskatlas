@@ -1,0 +1,194 @@
+{
+ "id": "hd-92945",
+ "name": "HD 92945",
+ "alt_names": [
+  "V419 Hya"
+ ],
+ "simbad": "HD 92945",
+ "ra_deg": 160.8677981909642,
+ "dec_deg": -29.0642868557647,
+ "dist_pc": 21.5,
+ "sptype": "K1V",
+ "region": null,
+ "categories": [
+  "debris"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "type": "disk_mm",
+   "facility": "ALMA/SMA",
+   "technique": "interferometry",
+   "instrument": "Band 6/7",
+   "wavelength_um": 1300,
+   "wavelength_label": "~0.9-1.3 mm continuum",
+   "image_id": "hd-92945_reasons",
+   "survey": "REASONS",
+   "file": "images/hd-92945/hd-92945_reasons.png",
+   "credit": "Matrà et al. 2025, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Matra",
+    "year": 2025,
+    "title": "REsolved ALMA and SMA Observations of Nearby Stars (REASONS): A population of 74 resolved planetesimal belts at millimetre wavelengths",
+    "journal": "A&A 693, A151",
+    "arxiv": "2501.09058",
+    "bibcode": "2025A&A...693A.151M"
+   }
+  },
+  {
+   "type": "disk_scattered",
+   "facility": "HST",
+   "instrument": "STIS",
+   "wavelength_um": 0.58,
+   "wavelength_label": "0.2-1.0 um broadband (optical)",
+   "technique": "coronagraphy",
+   "image_id": "hd-92945_stis-schneider14",
+   "survey": "STIS-Schneider14",
+   "file": "images/hd-92945/hd-92945_stis-schneider14.png",
+   "credit": "Schneider et al. 2014 (crop; per-target STIS PSFTSC figures)",
+   "paper": {
+    "first_author": "Schneider",
+    "year": 2014,
+    "title": "Probing for Exoplanets Hiding in Dusty Debris Disks: Disk Imaging, Characterization, and Exploration with HST/STIS Multi-Roll Coronagraphy",
+    "journal": "AJ 148, 59",
+    "arxiv": "1406.7303",
+    "bibcode": "2014AJ....148...59S"
+   }
+  },
+  {
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 7/6",
+   "wavelength_um": 880,
+   "wavelength_label": "~0.88-1.3 mm continuum",
+   "technique": "interferometry",
+   "image_id": "hd-92945_arks",
+   "file": "images/hd-92945/hd-92945_arks.png",
+   "survey": "ARKS",
+   "credit": "Marino et al. 2026, Fig. 3 (crop)",
+   "paper": {
+    "first_author": "Marino",
+    "year": 2026,
+    "title": "The ALMA survey to Resolve exoKuiper belt Substructures (ARKS) I: Motivation, sample, data reduction, and results overview",
+    "journal": "A&A",
+    "arxiv": "2601.11708",
+    "bibcode": null
+   }
+  },
+  {
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS/IFS",
+   "wavelength_um": 1.65,
+   "wavelength_label": "H band 1.6 um (total intensity)",
+   "technique": "ADI",
+   "image_id": "hd-92945_sphere-debris-2025",
+   "file": "images/hd-92945/hd-92945_sphere-debris-2025.png",
+   "survey": "SPHERE-debris-2025",
+   "credit": "Engler et al. 2025, Fig. 2a (crop)",
+   "paper": {
+    "first_author": "Engler",
+    "year": 2025,
+    "title": "Characterization of debris disks observed with SPHERE",
+    "journal": "A&A 704, A21",
+    "arxiv": "2512.03128",
+    "bibcode": null
+   }
+  },
+  {
+   "image_id": "hd-92945_alma2019",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 7",
+   "wavelength_um": 860,
+   "wavelength_label": "0.86 mm continuum",
+   "technique": "interferometry",
+   "survey": null,
+   "file": "images/hd-92945/hd-92945_alma2019.png",
+   "credit": "Marino et al. 2019, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Marino",
+    "year": 2019,
+    "title": "A gap in HD 92945's broad planetesimal disc revealed by ALMA",
+    "journal": "MNRAS 484, 1257",
+    "arxiv": "1901.01406",
+    "bibcode": "2019MNRAS.484.1257M"
+   }
+  },
+  {
+   "image_id": "hd-92945_alice-f110w",
+   "type": "disk_scattered",
+   "facility": "HST",
+   "instrument": "NICMOS",
+   "wavelength_um": 1.1,
+   "wavelength_label": "F110W 1.1 um (ALICE archival reprocessing, combined coadd)",
+   "technique": "RDI",
+   "survey": "ALICE",
+   "file": "images/hd-92945/hd-92945_alice-f110w.png",
+   "credit": "ALICE HLSP v1 combined coadd (HST program 10177, STScI) — hi-res: ALICE archive (STScI)",
+   "paper": {
+    "first_author": "Hagan",
+    "year": 2018,
+    "title": "ALICE Data Release: A revaluation of HST-NICMOS coronagraphic images",
+    "journal": "AJ 155, 179",
+    "arxiv": "1802.07754",
+    "bibcode": null
+   },
+   "hires_url": "https://archive.stsci.edu/prepds/alice/"
+  },
+  {
+   "image_id": "hd-92945_acs-golimowski11",
+   "type": "disk_scattered",
+   "facility": "HST",
+   "instrument": "ACS/HRC coronagraph",
+   "wavelength_um": 0.6,
+   "wavelength_label": "F606W+F814W optical coronagraphy (inner ring + outer disk)",
+   "technique": "coronagraphy",
+   "survey": null,
+   "file": "images/hd-92945/hd-92945_acs-golimowski11.png",
+   "credit": "Golimowski et al. 2011, Fig. 3 (crop)",
+   "paper": {
+    "first_author": "Golimowski",
+    "year": 2011,
+    "title": "Hubble and Spitzer Space Telescope Observations of the Debris Disk around the Nearby K Dwarf HD 92945",
+    "journal": "AJ 142, 30",
+    "arxiv": "1105.0888",
+    "bibcode": "2011AJ....142...30G"
+   }
+  },
+  {
+   "image_id": "hd-92945_jwst-nircam",
+   "type": "disk_scattered",
+   "facility": "JWST",
+   "instrument": "NIRCam",
+   "wavelength_um": 2.0,
+   "wavelength_label": "JWST/NIRCam F200W+F444W coronagraphy; asymmetric disk with ~80 au gap",
+   "technique": "coronagraphy",
+   "survey": null,
+   "file": "images/hd-92945/hd-92945_jwst-nircam.png",
+   "credit": "Lazzoni et al. 2025, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Lazzoni",
+    "year": 2025,
+    "title": "JWST/NIRCam observations of HD 92945 debris disk: An asymmetric disk with a gap",
+    "journal": "A&A (2025, accepted)",
+    "arxiv": "2511.07561",
+    "bibcode": null
+   }
+  }
+ ],
+ "notes": null,
+ "last_updated": "2026-07-07",
+ "plx_mas": 46.4931,
+ "mags": {
+  "U": 9.144,
+  "B": 8.596,
+  "V": 7.719,
+  "G": 7.485661,
+  "R": 7.232,
+  "I": 6.806,
+  "J": 6.176,
+  "H": 5.77,
+  "K": 5.66
+ }
+}

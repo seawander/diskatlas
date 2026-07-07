@@ -1,0 +1,27 @@
+{
+ "survey": "s-3c273-stis2024",
+ "survey_name": null,
+ "source_image": "images/_sources/extracted/2402.09505/fig-3C273.pdf",
+ "pdf_page": 1,
+ "panels": [
+  {"id": "3c-273", "image_id": "3c-273_stis2024",
+   "bbox_frac": [0.0666, 0.0121, 0.8633, 0.9300]}
+ ],
+ "image_defaults": {
+  "type": "quasar",
+  "facility": "HST",
+  "instrument": "STIS",
+  "wavelength_um": 0.58,
+  "wavelength_label": "optical coronagraphy of the host galaxy (0.2-60 arcsec) + jet",
+  "technique": "RDI"
+ },
+ "credit": "Ren et al. 2024, Fig. 1 (crop)",
+ "paper": {
+  "first_author": "Ren",
+  "year": 2024,
+  "title": "3C 273 host galaxy with Hubble Space Telescope coronagraphy",
+  "journal": "A&A 683, L5",
+  "arxiv": "2402.09505",
+  "bibcode": "2024A&A...683L...5R"
+ }
+}

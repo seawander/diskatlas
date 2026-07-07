@@ -1,0 +1,49 @@
+{
+ "id": "mwc-789",
+ "name": "MWC 789",
+ "alt_names": [],
+ "simbad": "MWC 789",
+ "ra_deg": 90.49995502311,
+ "dec_deg": 16.51575765274,
+ "dist_pc": 760.3,
+ "sptype": "B9e",
+ "region": null,
+ "categories": [
+  "protoplanetary"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "type": "disk_scattered",
+   "facility": "Gemini-GPI",
+   "instrument": "IFS pol",
+   "wavelength_um": 1.65,
+   "wavelength_label": "H band 1.6 um (pol. intensity)",
+   "technique": "PDI",
+   "image_id": "mwc-789_gemini-lights",
+   "survey": "Gemini-LIGHTS",
+   "file": "images/mwc-789/mwc-789_gemini-lights.png",
+   "credit": "Rich et al. 2022, irregulars gallery (crop)",
+   "paper": {
+    "first_author": "Rich",
+    "year": 2022,
+    "title": "Gemini-LIGHTS: Herbig Ae/Be and Massive T Tauri Protoplanetary Disks Imaged with Gemini Planet Imager",
+    "journal": "AJ 164, 109",
+    "arxiv": "2206.05815",
+    "bibcode": "2022AJ....164..109R"
+   }
+  }
+ ],
+ "notes": null,
+ "last_updated": "2026-07-06",
+ "plx_mas": 1.3153,
+ "mags": {
+  "B": 9.6,
+  "V": 9.593,
+  "G": 9.506199,
+  "R": 9.64,
+  "J": 8.475,
+  "H": 7.528,
+  "K": 6.635
+ }
+}

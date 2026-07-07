@@ -1,0 +1,119 @@
+# Non-arXiv sources fetched by fetch_sources.sh (URL <TAB> destination relative to repo root)
+# Lines to the SAME destination act as fallbacks (script skips once the file exists).
+#
+# SEEDS review (Tamura 2016, PJAB 92, 45) - Fig. 3 gallery of 20 SEEDS disk images.
+# If curl fails (PMC blocks non-browser agents), download in a browser to the same path.
+https://www.jstage.jst.go.jp/article/pjab/92/2/92_45/_pdf	images/_sources/extra/seeds_tamura2016.pdf
+https://pmc.ncbi.nlm.nih.gov/articles/PMC4906811/pdf/pjab-92-045.pdf	images/_sources/extra/seeds_tamura2016.pdf
+#
+# --- ADS full-text PDFs for pre-arXiv classic disk papers ---
+# via ADS link gateway (ADS scan first, publisher PDF as fallback; AAS journals are open-access).
+https://ui.adsabs.harvard.edu/link_gateway/1984Sci...226.1421S/ADS_PDF	images/_sources/extra/smith1984_betapic.pdf
+https://ui.adsabs.harvard.edu/link_gateway/1995AJ....110..794K/ADS_PDF	images/_sources/extra/kalas1995_betapic.pdf
+https://ui.adsabs.harvard.edu/link_gateway/1995AJ....110..794K/PUB_PDF	images/_sources/extra/kalas1995_betapic.pdf
+https://ui.adsabs.harvard.edu/link_gateway/2000ApJ...538..793K/PUB_PDF	images/_sources/extra/krist2000_twhya.pdf
+https://ui.adsabs.harvard.edu/link_gateway/2000ApJ...538..793K/ADS_PDF	images/_sources/extra/krist2000_twhya.pdf
+https://ui.adsabs.harvard.edu/link_gateway/1999ApJ...523L.151G/PUB_PDF	images/_sources/extra/grady1999_abaur.pdf
+https://ui.adsabs.harvard.edu/link_gateway/1996ApJ...463..326R/ADS_PDF	images/_sources/extra/roddier1996_ggtau.pdf
+https://ui.adsabs.harvard.edu/link_gateway/1996ApJ...463..326R/PUB_PDF	images/_sources/extra/roddier1996_ggtau.pdf
+https://ui.adsabs.harvard.edu/link_gateway/2003AJ....125.1467S/PUB_PDF	images/_sources/extra/schneider2003_gmaur.pdf
+https://ui.adsabs.harvard.edu/link_gateway/2000ApJ...544..895G/PUB_PDF	images/_sources/extra/grady2000_hd163296.pdf
+
+# --- ALICE HLSP combined coadds (auto: backend/alice_ingest.py) ---
+https://archive.stsci.edu/missions/hlsp/alice/10177/aa-tau/f160w/preview/hlsp_alice_hst_nicmos_10177-aa-tau_f160w_v1_combined.png	images/_sources/alice/aa-tau_f160w.png
+https://archive.stsci.edu/missions/hlsp/alice/7233/49-cet/f110w/preview/hlsp_alice_hst_nicmos_7233-49-cet_f110w_v1_combined.png	images/_sources/alice/49-cet_f110w.png
+https://archive.stsci.edu/missions/hlsp/alice/7248/beta-pic-disk/f160w/preview/hlsp_alice_hst_nicmos_7248-beta-pic-disk_f160w_v1_combined.png	images/_sources/alice/beta-pic_f160w.png
+https://archive.stsci.edu/missions/hlsp/alice/10177/bp-tau/f110w/preview/hlsp_alice_hst_nicmos_10177-bp-tau_f110w_v1_combined.png	images/_sources/alice/bp-tau_f110w.png
+https://archive.stsci.edu/missions/hlsp/alice/10177/ci-tau/f110w/preview/hlsp_alice_hst_nicmos_10177-ci-tau_f110w_v1_combined.png	images/_sources/alice/ci-tau_f110w.png
+https://archive.stsci.edu/missions/hlsp/alice/10177/cq-tau/f110w/preview/hlsp_alice_hst_nicmos_10177-cq-tau_f110w_v1_combined.png	images/_sources/alice/cq-tau_f110w.png
+https://archive.stsci.edu/missions/hlsp/alice/10177/cy-tau/f110w/preview/hlsp_alice_hst_nicmos_10177-cy-tau_f110w_v1_combined.png	images/_sources/alice/cy-tau_f110w.png
+https://archive.stsci.edu/missions/hlsp/alice/10177/dl-tau/f160w/preview/hlsp_alice_hst_nicmos_10177-dl-tau_f160w_v1_combined.png	images/_sources/alice/dl-tau_f160w.png
+https://archive.stsci.edu/missions/hlsp/alice/10177/dm-tau/f160w/preview/hlsp_alice_hst_nicmos_10177-dm-tau_f160w_v1_combined.png	images/_sources/alice/dm-tau_f160w.png
+https://archive.stsci.edu/missions/hlsp/alice/7418/do-tau/f160w/preview/hlsp_alice_hst_nicmos_7418-do-tau_f160w_v1_combined.png	images/_sources/alice/do-tau_f160w.png
+https://archive.stsci.edu/missions/hlsp/alice/10177/doar-25/f160w/preview/hlsp_alice_hst_nicmos_10177-doar-25_f160w_v1_combined.png	images/_sources/alice/doar-25_f160w.png
+https://archive.stsci.edu/missions/hlsp/alice/10177/dq-tau/f110w/preview/hlsp_alice_hst_nicmos_10177-dq-tau_f110w_v1_combined.png	images/_sources/alice/dq-tau_f110w.png
+https://archive.stsci.edu/missions/hlsp/alice/7829/dr-tau/f212n/preview/hlsp_alice_hst_nicmos_7829-dr-tau_f212n_v1_combined.png	images/_sources/alice/dr-tau_f212n.png
+https://archive.stsci.edu/missions/hlsp/alice/10228/gj803/f160w/preview/hlsp_alice_hst_nicmos_10228-gj803_f160w_v1_combined.png	images/_sources/alice/au-mic_f160w.png
+https://archive.stsci.edu/missions/hlsp/alice/10852/gm-aur/f110w/preview/hlsp_alice_hst_nicmos_10852-gm-aur_f110w_v1_combined.png	images/_sources/alice/gm-aur_f110w.png
+https://archive.stsci.edu/missions/hlsp/alice/10177/go-tau/f160w/preview/hlsp_alice_hst_nicmos_10177-go-tau_f160w_v1_combined.png	images/_sources/alice/go-tau_f160w.png
+https://archive.stsci.edu/missions/hlsp/alice/7226/hd105/f160w/preview/hlsp_alice_hst_nicmos_7226-hd105_f160w_v1_combined.png	images/_sources/alice/hd-105_f160w.png
+# (not in archive) hd-104860 ALICE preview	images/_sources/alice/hd-104860_f110w.png
+https://archive.stsci.edu/missions/hlsp/alice/10177/hd107146/f110w/preview/hlsp_alice_hst_nicmos_10177-hd107146_f110w_v1_combined.png	images/_sources/alice/hd-107146_f110w.png
+https://archive.stsci.edu/missions/hlsp/alice/10177/hd135344/f110w/preview/hlsp_alice_hst_nicmos_10177-hd135344_f110w_v1_combined.png	images/_sources/alice/hd-135344b_f110w.png
+https://archive.stsci.edu/missions/hlsp/alice/7226/hd141569/f110w/preview/hlsp_alice_hst_nicmos_7226-hd141569_f110w_v1_combined.png	images/_sources/alice/hd-141569_f110w.png
+https://archive.stsci.edu/missions/hlsp/alice/11155/hd142527/f110w/preview/hlsp_alice_hst_nicmos_11155-hd142527_f110w_v1_combined.png	images/_sources/alice/hd-142527_f110w.png
+https://archive.stsci.edu/missions/hlsp/alice/10177/hd142666/f110w/preview/hlsp_alice_hst_nicmos_10177-hd142666_f110w_v1_combined.png	images/_sources/alice/hd-142666_f110w.png
+https://archive.stsci.edu/missions/hlsp/alice/10849/hd-143006/f110w/preview/hlsp_alice_hst_nicmos_10849-hd-143006_f110w_v1_combined.png	images/_sources/alice/hd-143006_f110w.png
+https://archive.stsci.edu/missions/hlsp/alice/10540/hd15115/f110w/preview/hlsp_alice_hst_nicmos_10540-hd15115_f110w_v1_combined.png	images/_sources/alice/hd-15115_f110w.png
+https://archive.stsci.edu/missions/hlsp/alice/10177/hd15745/f110w/preview/hlsp_alice_hst_nicmos_10177-hd15745_f110w_v1_combined.png	images/_sources/alice/hd-15745_f110w.png
+https://archive.stsci.edu/missions/hlsp/alice/10177/hd163296/f110w/preview/hlsp_alice_hst_nicmos_10177-hd163296_f110w_v1_combined.png	images/_sources/alice/hd-163296_f110w.png
+https://archive.stsci.edu/missions/hlsp/alice/10177/hd164249/f110w/preview/hlsp_alice_hst_nicmos_10177-hd164249_f110w_v1_combined.png	images/_sources/alice/hd-164249_f110w.png
+https://archive.stsci.edu/missions/hlsp/alice/10177/hd169142/f110w/preview/hlsp_alice_hst_nicmos_10177-hd169142_f110w_v1_combined.png	images/_sources/alice/hd-169142_f110w.png
+https://archive.stsci.edu/missions/hlsp/alice/10540/hd170773/f110w/preview/hlsp_alice_hst_nicmos_10540-hd170773_f110w_v1_combined.png	images/_sources/alice/hd-170773_f110w.png
+https://archive.stsci.edu/missions/hlsp/alice/10177/hd181327/f110w/preview/hlsp_alice_hst_nicmos_10177-hd181327_f110w_v1_combined.png	images/_sources/alice/hd-181327_f110w.png
+https://archive.stsci.edu/missions/hlsp/alice/10527/hd-191089/f110w/preview/hlsp_alice_hst_nicmos_10527-hd-191089_f110w_v1_combined.png	images/_sources/alice/hd-191089_f110w.png
+https://archive.stsci.edu/missions/hlsp/alice/10849/hd-202917/f110w/preview/hlsp_alice_hst_nicmos_10849-hd-202917_f110w_v1_combined.png	images/_sources/alice/hd-202917_f110w.png
+https://archive.stsci.edu/missions/hlsp/alice/10177/hd30447/f110w/preview/hlsp_alice_hst_nicmos_10177-hd30447_f110w_v1_combined.png	images/_sources/alice/hd-30447_f110w.png
+https://archive.stsci.edu/missions/hlsp/alice/10177/hd32297/f110w/preview/hlsp_alice_hst_nicmos_10177-hd32297_f110w_v1_combined.png	images/_sources/alice/hd-32297_f110w.png
+https://archive.stsci.edu/missions/hlsp/alice/10177/hd35841/f110w/preview/hlsp_alice_hst_nicmos_10177-hd35841_f110w_v1_combined.png	images/_sources/alice/hd-35841_f110w.png
+https://archive.stsci.edu/missions/hlsp/alice/10177/hd36112/f110w/preview/hlsp_alice_hst_nicmos_10177-hd36112_f110w_v1_combined.png	images/_sources/alice/mwc-758_f110w.png
+https://archive.stsci.edu/missions/hlsp/alice/10527/hd-377/f110w/preview/hlsp_alice_hst_nicmos_10527-hd-377_f110w_v1_combined.png	images/_sources/alice/hd-377_f110w.png
+https://archive.stsci.edu/missions/hlsp/alice/10599/hd-53143/f110w/preview/hlsp_alice_hst_nicmos_10599-hd-53143_f110w_v1_combined.png	images/_sources/alice/hd-53143_f110w.png
+https://archive.stsci.edu/missions/hlsp/alice/10599/hd-139664/f110w/preview/hlsp_alice_hst_nicmos_10599-hd-139664_f110w_v1_combined.png	images/_sources/alice/hd-139664_f110w.png
+https://archive.stsci.edu/missions/hlsp/alice/10527/hd-61005/f110w/preview/hlsp_alice_hst_nicmos_10527-hd-61005_f110w_v1_combined.png	images/_sources/alice/hd-61005_f110w.png
+https://archive.stsci.edu/missions/hlsp/alice/10177/hd92945/f110w/preview/hlsp_alice_hst_nicmos_10177-hd92945_f110w_v1_combined.png	images/_sources/alice/hd-92945_f110w.png
+https://archive.stsci.edu/missions/hlsp/alice/11155/hd97048/f110w/preview/hlsp_alice_hst_nicmos_11155-hd97048_f110w_v1_combined.png	images/_sources/alice/hd-97048_f110w.png
+https://archive.stsci.edu/missions/hlsp/alice/11155/hd100546/f110w/preview/hlsp_alice_hst_nicmos_11155-hd100546_f110w_v1_combined.png	images/_sources/alice/hd-100546_f110w.png
+https://archive.stsci.edu/missions/hlsp/alice/10244/hd109085/f160w/preview/hlsp_alice_hst_nicmos_10244-hd109085_f160w_v1_combined.png	images/_sources/alice/eta-crv_f160w.png
+https://archive.stsci.edu/missions/hlsp/alice/10527/hd-141943/f110w/preview/hlsp_alice_hst_nicmos_10527-hd-141943_f110w_v1_combined.png	images/_sources/alice/hd-141943_f110w.png
+https://archive.stsci.edu/missions/hlsp/alice/11155/hd31293/f110w/preview/hlsp_alice_hst_nicmos_11155-hd31293_f110w_v1_combined.png	images/_sources/alice/ab-aur_f110w.png
+https://archive.stsci.edu/missions/hlsp/alice/10167/hr4796a/f171m/preview/hlsp_alice_hst_nicmos_10167-hr4796a_f171m_v1_combined.png	images/_sources/alice/hr-4796a_f171m.png
+https://archive.stsci.edu/missions/hlsp/alice/7226/hr8799/f160w/preview/hlsp_alice_hst_nicmos_7226-hr8799_f160w_v1_combined.png	images/_sources/alice/hr-8799_f160w.png
+https://archive.stsci.edu/missions/hlsp/alice/10177/lkca-15/f110w/preview/hlsp_alice_hst_nicmos_10177-lkca-15_f110w_v1_combined.png	images/_sources/alice/lkca-15_f110w.png
+https://archive.stsci.edu/missions/hlsp/alice/10527/pds-66/f110w/preview/hlsp_alice_hst_nicmos_10527-pds-66_f110w_v1_combined.png	images/_sources/alice/pds-66_f110w.png
+https://archive.stsci.edu/missions/hlsp/alice/10177/ry-tau/f110w/preview/hlsp_alice_hst_nicmos_10177-ry-tau_f110w_v1_combined.png	images/_sources/alice/ry-tau_f110w.png
+https://archive.stsci.edu/missions/hlsp/alice/10849/rx-j1842.9-3532/f110w/preview/hlsp_alice_hst_nicmos_10849-rx-j1842.9-3532_f110w_v1_combined.png	images/_sources/alice/rx-j1842-9-3532_f110w.png
+https://archive.stsci.edu/missions/hlsp/alice/10849/rx-j1852.3-3700/f110w/preview/hlsp_alice_hst_nicmos_10849-rx-j1852.3-3700_f110w_v1_combined.png	images/_sources/alice/rx-j1852-3-3700_f110w.png
+https://archive.stsci.edu/missions/hlsp/alice/10177/sz-82/f160w/preview/hlsp_alice_hst_nicmos_10177-sz-82_f160w_v1_combined.png	images/_sources/alice/im-lup_f160w.png
+https://archive.stsci.edu/missions/hlsp/alice/7226/tw-hydrae/f110w/preview/hlsp_alice_hst_nicmos_7226-tw-hydrae_f110w_v1_combined.png	images/_sources/alice/tw-hya_f110w.png
+https://archive.stsci.edu/missions/hlsp/alice/7226/twa7/f165m/preview/hlsp_alice_hst_nicmos_7226-twa7_f165m_v1_combined.png	images/_sources/alice/twa-7_f165m.png
+https://archive.stsci.edu/missions/hlsp/alice/10176/twa25/f160w/preview/hlsp_alice_hst_nicmos_10176-twa25_f160w_v1_combined.png	images/_sources/alice/twa-25_f160w.png
+https://archive.stsci.edu/missions/hlsp/alice/10177/uz-tau-e/f110w/preview/hlsp_alice_hst_nicmos_10177-uz-tau-e_f110w_v1_combined.png	images/_sources/alice/uz-tau-e_f110w.png
+https://archive.stsci.edu/missions/hlsp/alice/10177/v1121-oph/f110w/preview/hlsp_alice_hst_nicmos_10177-v1121-oph_f110w_v1_combined.png	images/_sources/alice/as-205_f110w.png
+https://archive.stsci.edu/missions/hlsp/alice/7226/hd35850/f160w/preview/hlsp_alice_hst_nicmos_7226-hd35850_f160w_v1_combined.png	images/_sources/alice/af-lep_f160w.png
+https://archive.stsci.edu/missions/hlsp/alice/10176/tyc9340-0437/f160w/preview/hlsp_alice_hst_nicmos_10176-tyc9340-0437_f160w_v1_combined.png	images/_sources/alice/tyc-9340-437-1_f160w.png
+# --- pending-record PDFs via ADS gateway (AAS journals are open access) ---
+https://ui.adsabs.harvard.edu/link_gateway/2013ApJ...762...40C/PUB_PDF	images/_sources/extra/cox2013_aatau.pdf
+https://ui.adsabs.harvard.edu/link_gateway/2005AJ....129.1008K/PUB_PDF	images/_sources/extra/krist2005_aumic.pdf
+# (captcha) https://ui.adsabs.harvard.edu/link_gateway/2005ApJ...629L.117S/PUB_PDF	images/_sources/extra/schneider2005_hd32297.pdf
+https://ui.adsabs.harvard.edu/link_gateway/2003AJ....126..385C/PUB_PDF	images/_sources/extra/clampin2003_hd141569.pdf
+# (captcha) https://ui.adsabs.harvard.edu/link_gateway/2014ApJ...791L...6W/PUB_PDF	images/_sources/extra/walsh2014_hd100546.pdf
+# (captcha) https://ui.adsabs.harvard.edu/link_gateway/2007ApJ...665..512A/PUB_PDF	images/_sources/extra/ardila2007_hd100546.pdf
+# Paywalled (drop PDFs manually with these exact names if you have access):
+#   images/_sources/extra/dent2014_betapic.pdf        (Science 343, 1490 - beta Pic ALMA CO)
+#   images/_sources/extra/boccaletti2015_aumic.pdf    (Nature 526, 230 - AU Mic SPHERE features)
+#   images/_sources/extra/matthews2024_epsind.pdf     (Nature 633, 789 - eps Ind Ab JWST)
+# --- EPRINT_PDF gateway (redirects to arXiv PDF; bypasses IOP anti-bot) ---
+https://ui.adsabs.harvard.edu/link_gateway/2005ApJ...629L.117S/EPRINT_PDF	images/_sources/extra/schneider2005_hd32297.pdf
+https://ui.adsabs.harvard.edu/link_gateway/2014ApJ...791L...6W/EPRINT_PDF	images/_sources/extra/walsh2014_hd100546.pdf
+https://ui.adsabs.harvard.edu/link_gateway/2007ApJ...665..512A/EPRINT_PDF	images/_sources/extra/ardila2007_hd100546.pdf
+https://ui.adsabs.harvard.edu/link_gateway/2015Natur.526..230B/EPRINT_PDF	images/_sources/extra/boccaletti2015_aumic.pdf
+# --- batch T: Bahcall quasar-host classics (ADS article scans; arXiv sources lack figures for Paper II) ---
+https://ui.adsabs.harvard.edu/link_gateway/1994ApJ...435L..11B/ADS_PDF	images/_sources/extra/bahcall1994_quasars.pdf
+https://ui.adsabs.harvard.edu/link_gateway/1995ApJ...450..486B/ADS_PDF	images/_sources/extra/bahcall1995_quasars.pdf
+# --- pending continuation 2026-07-06: NGC 1068 SPHERE + 3C 273 ACS ---
+# Gratadour+2015 A&A 581 L8 (no arXiv) - aanda open-access PDF; Fig. 1 = torus polarimetry
+https://www.aanda.org/articles/aa/pdf/2015/09/aa26554-15.pdf	images/_sources/extra/gratadour2015_ngc1068.pdf
+https://ui.adsabs.harvard.edu/link_gateway/2015A%26A...581L...8G/PUB_PDF	images/_sources/extra/gratadour2015_ngc1068.pdf
+# Martel+2003 AJ 125 2964 - 3C 273 ACS/HRC coronagraphy (no arXiv found; AJ pre-IOP). Try ADS scan then publisher.
+https://ui.adsabs.harvard.edu/link_gateway/2003AJ....125.2964M/ADS_PDF	images/_sources/extra/martel2003_3c273.pdf
+https://ui.adsabs.harvard.edu/link_gateway/2003AJ....125.2964M/PUB_PDF	images/_sources/extra/martel2003_3c273.pdf
+# (fallback) if both curl attempts fail, browser-download the Martel 2003 PDF from the ADS abstract page
+#   to images/_sources/extra/martel2003_3c273.pdf
+# Note: Rouan+2019 (A&A 625 A100) is fetched automatically via arXiv 1809.10254 (aanda PDF aa34502-18 is the backup).
+# --- 2026-07-06 triage: non-arXiv records ---
+# HD 61005 'The Moth' Hines+2007 ApJL 671 L165 (no arXiv). Try ADS scan; -f fails cleanly if absent.
+https://ui.adsabs.harvard.edu/link_gateway/2007ApJ...671L.165H/ADS_PDF	images/_sources/extra/hines2007_hd61005.pdf
+# (browser fallback) if the above 404s, download the Hines 2007 PDF to images/_sources/extra/hines2007_hd61005.pdf
+# HD 141569A JWST/NIRCam Millar-Blanchaer+2025 (ERS VI) ApJ DOI 10.3847/1538-4357/ae0615 - NO arXiv, IOP captcha.
+#   BROWSER-DOWNLOAD ONLY to images/_sources/extra/millarblanchaer2025_hd141569.pdf (no auto-curl -> avoids captcha garbage).

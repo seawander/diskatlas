@@ -1,0 +1,438 @@
+{
+ "id": "au-mic",
+ "name": "AU Mic",
+ "alt_names": [
+  "HD 197481"
+ ],
+ "simbad": "AU Mic",
+ "ra_deg": 311.2897187392163,
+ "dec_deg": -31.3408994138447,
+ "dist_pc": 9.7,
+ "sptype": "M1VeBa1",
+ "region": "beta Pic moving group",
+ "categories": [
+  "debris"
+ ],
+ "planets": [
+  {
+   "name": "b",
+   "status": "confirmed",
+   "note": "TRANSITING (not imaged): 8.5-day Neptune found by TESS+Spitzer inside the debris disk (Plavchan+2020)",
+   "paper": {
+    "first_author": "Plavchan",
+    "year": 2020,
+    "arxiv": "2006.13248",
+    "bibcode": "2020Natur.582..497P"
+   },
+   "method": "transit"
+  },
+  {
+   "name": "c",
+   "status": "confirmed",
+   "note": "TRANSITING (not imaged): 18.9-day companion (Martioli+2021); TTVs hint at a possible planet d (Wittrock+2023)",
+   "paper": {
+    "first_author": "Plavchan",
+    "year": 2020,
+    "arxiv": "2006.13248",
+    "bibcode": "2020Natur.582..497P"
+   },
+   "method": "transit"
+  }
+ ],
+ "images": [
+  {
+   "type": "disk_mm",
+   "facility": "ALMA/SMA",
+   "technique": "interferometry",
+   "instrument": "Band 6/7",
+   "wavelength_um": 1300,
+   "wavelength_label": "~0.9-1.3 mm continuum",
+   "image_id": "au-mic_reasons",
+   "survey": "REASONS",
+   "file": "images/au-mic/au-mic_reasons.png",
+   "credit": "Matrà et al. 2025, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Matra",
+    "year": 2025,
+    "title": "REsolved ALMA and SMA Observations of Nearby Stars (REASONS): A population of 74 resolved planetesimal belts at millimetre wavelengths",
+    "journal": "A&A 693, A151",
+    "arxiv": "2501.09058",
+    "bibcode": "2025A&A...693A.151M"
+   }
+  },
+  {
+   "type": "disk_scattered",
+   "facility": "Gemini-GPI",
+   "instrument": "IFS pol",
+   "wavelength_um": 1.65,
+   "wavelength_label": "H band 1.6 um (pol. intensity)",
+   "technique": "PDI",
+   "image_id": "au-mic_gpies-debris",
+   "survey": "GPIES-debris",
+   "file": "images/au-mic/au-mic_gpies-debris.png",
+   "credit": "Esposito et al. 2020, Fig. 5 (crop)",
+   "paper": {
+    "first_author": "Esposito",
+    "year": 2020,
+    "title": "Debris Disk Results from the Gemini Planet Imager Exoplanet Survey's Polarimetric Imaging Campaign",
+    "journal": "AJ 160, 24",
+    "arxiv": "2004.13722",
+    "bibcode": "2020AJ....160...24E"
+   }
+  },
+  {
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 6",
+   "wavelength_um": 1300,
+   "wavelength_label": "1.3 mm continuum (edge-on belt)",
+   "technique": "interferometry",
+   "survey": null,
+   "credit": "MacGregor et al. 2013, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "MacGregor",
+    "year": 2013,
+    "title": "Millimeter Emission Structure in the First ALMA Image of the AU Mic Debris Disk",
+    "journal": "ApJL 762, L21",
+    "arxiv": "1211.5148",
+    "bibcode": "2013ApJ...762L..21M"
+   },
+   "image_id": "au-mic_alma2013",
+   "file": "images/au-mic/au-mic_alma2013.png"
+  },
+  {
+   "type": "disk_scattered",
+   "facility": "HST",
+   "instrument": "ACS",
+   "wavelength_um": 0.6,
+   "wavelength_label": "optical edge-on disk",
+   "technique": "coronagraphy",
+   "survey": null,
+   "credit": "Krist et al. 2005, Fig. 1c (crop)",
+   "paper": {
+    "first_author": "Krist",
+    "year": 2005,
+    "title": "HST/ACS Coronagraphic Imaging of the AU Microscopii Debris Disk",
+    "journal": "AJ 129, 1008",
+    "arxiv": "astro-ph/0410466",
+    "bibcode": "2005AJ....129.1008K"
+   },
+   "image_id": "au-mic_acs2005",
+   "file": "images/au-mic/au-mic_acs2005.png"
+  },
+  {
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS",
+   "wavelength_um": 1.25,
+   "wavelength_label": "J band; fast-moving features A-E",
+   "technique": "ADI",
+   "survey": null,
+   "credit": "Boccaletti et al. 2015, Fig. 1e (crop)",
+   "paper": {
+    "first_author": "Boccaletti",
+    "year": 2015,
+    "title": "Fast-moving features in the debris disk around AU Microscopii",
+    "journal": "Nature 526, 230",
+    "arxiv": null,
+    "bibcode": "2015Natur.526..230B"
+   },
+   "image_id": "au-mic_sphere2015",
+   "file": "images/au-mic/au-mic_sphere2015.png"
+  },
+  {
+   "type": "disk_scattered",
+   "facility": "HST",
+   "instrument": "STIS",
+   "wavelength_um": 0.58,
+   "wavelength_label": "0.2-1.0 um broadband (optical)",
+   "technique": "coronagraphy",
+   "image_id": "au-mic_stis-schneider14",
+   "survey": "STIS-Schneider14",
+   "file": "images/au-mic/au-mic_stis-schneider14.png",
+   "credit": "Schneider et al. 2014 (crop; per-target STIS PSFTSC figures)",
+   "paper": {
+    "first_author": "Schneider",
+    "year": 2014,
+    "title": "Probing for Exoplanets Hiding in Dusty Debris Disks: Disk Imaging, Characterization, and Exploration with HST/STIS Multi-Roll Coronagraphy",
+    "journal": "AJ 148, 59",
+    "arxiv": "1406.7303",
+    "bibcode": "2014AJ....148...59S"
+   }
+  },
+  {
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 7/6",
+   "wavelength_um": 880,
+   "wavelength_label": "~0.88-1.3 mm continuum",
+   "technique": "interferometry",
+   "image_id": "au-mic_arks",
+   "file": "images/au-mic/au-mic_arks.png",
+   "survey": "ARKS",
+   "credit": "Marino et al. 2026, Fig. 3 (crop)",
+   "paper": {
+    "first_author": "Marino",
+    "year": 2026,
+    "title": "The ALMA survey to Resolve exoKuiper belt Substructures (ARKS) I: Motivation, sample, data reduction, and results overview",
+    "journal": "A&A",
+    "arxiv": "2601.11708",
+    "bibcode": null
+   }
+  },
+  {
+   "type": "disk_scattered",
+   "facility": "Gemini-GPI",
+   "instrument": "IFS",
+   "wavelength_um": 1.65,
+   "wavelength_label": "H band 1.6 um (total intensity)",
+   "technique": "ADI",
+   "image_id": "au-mic_gpies-debris-toti",
+   "file": "images/au-mic/au-mic_gpies-debris-toti.png",
+   "survey": "GPIES-debris",
+   "credit": "Esposito et al. 2020, Fig. 6 (crop)",
+   "paper": {
+    "first_author": "Esposito",
+    "year": 2020,
+    "title": "Debris Disk Results from the Gemini Planet Imager Exoplanet Survey's Polarimetric Imaging Campaign",
+    "journal": "AJ 160, 24",
+    "arxiv": "2004.13722",
+    "bibcode": "2020AJ....160...24E"
+   }
+  },
+  {
+   "type": "disk_scattered",
+   "facility": "HST",
+   "instrument": "NICMOS",
+   "wavelength_um": 1.12,
+   "wavelength_label": "F110W 1.12 um (NMF reprocessing)",
+   "technique": "RDI",
+   "image_id": "au-mic_nicmos-ren2023",
+   "file": "images/au-mic/au-mic_nicmos-ren2023.png",
+   "survey": "NICMOS-Ren2023",
+   "credit": "Ren et al. 2023, Fig. 3 (crop)",
+   "paper": {
+    "first_author": "Ren",
+    "year": 2023,
+    "title": "Debris Disk Color with the Hubble Space Telescope",
+    "journal": "A&A 672, A114",
+    "arxiv": "2302.04273",
+    "bibcode": "2023A&A...672A.114R"
+   }
+  },
+  {
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS DPI",
+   "wavelength_um": 1.65,
+   "wavelength_label": "H band 1.6 um (pol. intensity)",
+   "technique": "PDI",
+   "image_id": "au-mic_sphere-debris-2025",
+   "file": "images/au-mic/au-mic_sphere-debris-2025.png",
+   "survey": "SPHERE-debris-2025",
+   "credit": "Engler et al. 2025, Fig. 5b (crop)",
+   "paper": {
+    "first_author": "Engler",
+    "year": 2025,
+    "title": "Characterization of debris disks observed with SPHERE",
+    "journal": "A&A 704, A21",
+    "arxiv": "2512.03128",
+    "bibcode": null
+   }
+  },
+  {
+   "type": "disk_scattered",
+   "facility": "HST",
+   "instrument": "STIS",
+   "wavelength_um": 0.58,
+   "wavelength_label": "0.2-1.0 um broadband (optical)",
+   "technique": "coronagraphy",
+   "image_id": "au-mic_stis-ren",
+   "file": "images/au-mic/au-mic_stis-ren.png",
+   "survey": "STIS-Ren",
+   "credit": "Ren et al. 2023, Fig. 2 (crop)",
+   "paper": {
+    "first_author": "Ren",
+    "year": 2023,
+    "title": "Debris Disk Color with the Hubble Space Telescope",
+    "journal": "A&A 672, A114",
+    "arxiv": "2302.04273",
+    "bibcode": "2023A&A...672A.114R"
+   }
+  },
+  {
+   "type": "disk_scattered",
+   "facility": "UH 2.2m",
+   "instrument": "coronagraph camera",
+   "wavelength_um": 0.65,
+   "wavelength_label": "R band coronagraphy; edge-on disk discovery (50-210 au)",
+   "technique": "coronagraphy",
+   "survey": null,
+   "credit": "Kalas et al. 2004, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Kalas",
+    "year": 2004,
+    "title": "Discovery of a Large Dust Disk around the Nearby Star AU Microscopii",
+    "journal": "Science 303, 1990",
+    "arxiv": "astro-ph/0403132",
+    "bibcode": "2004Sci...303.1990K"
+   },
+   "image_id": "au-mic_kalas2004",
+   "file": "images/au-mic/au-mic_kalas2004.png"
+  },
+  {
+   "type": "disk_scattered",
+   "facility": "Keck",
+   "instrument": "AO NIR imager",
+   "wavelength_um": 1.63,
+   "wavelength_label": "H band AO; inner-disk substructure at 15-80 au",
+   "technique": "other",
+   "survey": null,
+   "credit": "Liu et al. 2004, Fig. 1 (crop; rotated to disk-horizontal)",
+   "paper": {
+    "first_author": "Liu",
+    "year": 2004,
+    "title": "Substructure in the Circumstellar Disk around the Young Star AU Microscopii",
+    "journal": "Science 305, 1442",
+    "arxiv": "astro-ph/0408164",
+    "bibcode": "2004Sci...305.1442L"
+   },
+   "image_id": "au-mic_keck2004",
+   "file": "images/au-mic/au-mic_keck2004.png"
+  },
+  {
+   "type": "planet",
+   "facility": "TESS+Spitzer",
+   "instrument": "photometer",
+   "wavelength_um": 0.8,
+   "wavelength_label": "Transit light curves of AU Mic b (TESS visible + Spitzer 4.5 um)",
+   "technique": "transit photometry",
+   "survey": null,
+   "credit": "Plavchan et al. 2020, Fig. 2a (crop)",
+   "paper": {
+    "first_author": "Plavchan",
+    "year": 2020,
+    "title": "A planet within the debris disk around the pre-main-sequence star AU Microscopii",
+    "journal": "Nature 582, 497",
+    "arxiv": "2006.13248",
+    "bibcode": "2020Natur.582..497P"
+   },
+   "image_id": "au-mic_tess-b",
+   "file": "images/au-mic/au-mic_tess-b.png"
+  },
+  {
+   "type": "planet",
+   "facility": "TESS",
+   "instrument": "photometer",
+   "wavelength_um": 0.8,
+   "wavelength_label": "TESS transit light curve of AU Mic c",
+   "technique": "transit photometry",
+   "survey": null,
+   "credit": "Martioli et al. 2021, Fig. 6 (crop): phase-folded TESS transits of AU Mic c",
+   "paper": {
+    "first_author": "Martioli",
+    "year": 2021,
+    "title": "New constraints on the planetary system around the young active star AU Mic: Two transiting warm Neptunes near mean-motion resonance",
+    "journal": "A&A 649, A177",
+    "arxiv": "2012.13238",
+    "bibcode": "2021A&A...649A.177M"
+   },
+   "image_id": "au-mic_tess-c",
+   "file": "images/au-mic/au-mic_tess-c.png"
+  },
+  {
+   "image_id": "au-mic_alice-f160w",
+   "type": "disk_scattered",
+   "facility": "HST",
+   "instrument": "NICMOS",
+   "wavelength_um": 1.6,
+   "wavelength_label": "F160W 1.6 um (ALICE archival reprocessing, combined coadd)",
+   "technique": "RDI",
+   "survey": "ALICE",
+   "file": "images/au-mic/au-mic_alice-f160w.png",
+   "credit": "ALICE HLSP v1 combined coadd (HST program 10228, STScI) — hi-res: ALICE archive (STScI)",
+   "paper": {
+    "first_author": "Hagan",
+    "year": 2018,
+    "title": "ALICE Data Release: A revaluation of HST-NICMOS coronagraphic images",
+    "journal": "AJ 155, 179",
+    "arxiv": "1802.07754",
+    "bibcode": null
+   },
+   "hires_url": "https://archive.stsci.edu/prepds/alice/"
+  },
+  {
+   "image_id": "au-mic_jwst-nircam",
+   "type": "disk_scattered",
+   "facility": "JWST",
+   "instrument": "NIRCam",
+   "wavelength_um": 4.44,
+   "wavelength_label": "JWST/NIRCam 3.35+4.44 um (F335M/F444W)",
+   "technique": "coronagraphy",
+   "survey": null,
+   "file": "images/au-mic/au-mic_jwst-nircam.png",
+   "credit": "Lawson et al. 2023, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Lawson",
+    "year": 2023,
+    "title": "JWST/NIRCam Coronagraphy of the Young Planet-hosting Debris Disk AU Microscopii",
+    "journal": "AJ 166, 150",
+    "arxiv": "2308.02486",
+    "bibcode": "2023AJ....166..150L"
+   }
+  },
+  {
+   "image_id": "au-mic_herschel2016",
+   "type": "disk_mm",
+   "facility": "Herschel",
+   "instrument": "PACS",
+   "wavelength_um": 70,
+   "wavelength_label": "70 um",
+   "technique": "other",
+   "survey": null,
+   "credit": "Matthews et al. 2016, Fig. 2 (crop)",
+   "paper": {
+    "first_author": "Matthews",
+    "year": 2016,
+    "title": "The AU Mic Debris Disk: far-infrared and submillimeter resolved imaging",
+    "journal": null,
+    "arxiv": "1509.06415",
+    "bibcode": null
+   },
+   "file": "images/au-mic/au-mic_herschel2016.png"
+  },
+  {
+   "image_id": "au-mic_sphere-rdi-xie22",
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS",
+   "wavelength_um": 1.65,
+   "wavelength_label": "total intensity (H23, RDI)",
+   "technique": "RDI",
+   "survey": null,
+   "credit": "Xie et al. 2022, Fig. 9 (crop)",
+   "paper": {
+    "first_author": "Xie",
+    "year": 2022,
+    "title": "Reference-star differential imaging on SPHERE/IRDIS",
+    "journal": "A&A 666, A32",
+    "arxiv": "2208.07915",
+    "bibcode": null
+   },
+   "file": "images/au-mic/au-mic_sphere-rdi-xie22.png"
+  }
+ ],
+ "notes": null,
+ "last_updated": "2026-07-07",
+ "plx_mas": 102.9432,
+ "mags": {
+  "B": 10.05,
+  "V": 8.627,
+  "G": 7.84344,
+  "R": 9.078,
+  "I": 6.593,
+  "J": 5.436,
+  "H": 4.831,
+  "K": 4.529
+ }
+}

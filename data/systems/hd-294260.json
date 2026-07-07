@@ -1,0 +1,39 @@
+{
+ "id": "hd-294260",
+ "name": "HD 294260",
+ "alt_names": [],
+ "simbad": "HD 294260",
+ "ra_deg": 84.213625,
+ "dec_deg": -4.427769,
+ "dist_pc": null,
+ "sptype": "G1IV",
+ "region": "Orion",
+ "categories": [
+  "protoplanetary"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS DPI",
+   "wavelength_um": 1.65,
+   "wavelength_label": "H band 1.6 um (Qphi pol. intensity)",
+   "technique": "PDI",
+   "image_id": "hd-294260_destinys-orion",
+   "file": "images/hd-294260/hd-294260_destinys-orion.png",
+   "survey": "DESTINYS-Orion",
+   "credit": "Valegard et al. 2024, Fig. 2 (crop)",
+   "paper": {
+    "first_author": "Valegard",
+    "year": 2024,
+    "title": "Disk Evolution Study Through Imaging of Nearby Young Stars (DESTINYS): The SPHERE view of the Orion star-forming region",
+    "journal": "A&A 685, A54",
+    "arxiv": "2403.02156",
+    "bibcode": "2024A&A...685A..54V"
+   }
+  }
+ ],
+ "notes": "AUTO-CREATED from staging - fill metadata & coords",
+ "last_updated": "2026-07-06"
+}

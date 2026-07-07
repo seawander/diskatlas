@@ -1,0 +1,49 @@
+{
+ "id": "elias-25",
+ "name": "elias 25",
+ "alt_names": [],
+ "simbad": "Elia 2-25",
+ "ra_deg": 246.64240071661,
+ "dec_deg": -24.39118985385,
+ "dist_pc": 146.5,
+ "sptype": "B3",
+ "region": "Ophiuchus",
+ "categories": [
+  "protoplanetary"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "type": "disk_scattered",
+   "facility": "VLT-NACO",
+   "instrument": "NACO pol",
+   "wavelength_um": 2.18,
+   "wavelength_label": "Ks band (PIPPIN PDI reprocessing)",
+   "technique": "PDI",
+   "image_id": "elias-25_naco-pippin",
+   "file": "images/elias-25/elias-25_naco-pippin.png",
+   "survey": "NACO-PIPPIN",
+   "credit": "de Regt et al. 2024, Fig. 6 (crop)",
+   "paper": {
+    "first_author": "de Regt",
+    "year": 2024,
+    "title": "Polarimetric differential imaging with VLT/NACO. A comprehensive PDI pipeline for NACO data (PIPPIN)",
+    "journal": "A&A 684, A73",
+    "arxiv": "2404.02222",
+    "bibcode": "2024A&A...684A..73D"
+   }
+  }
+ ],
+ "notes": "AUTO-CREATED from staging - fill metadata & coords",
+ "last_updated": "2026-07-06",
+ "plx_mas": 6.8239,
+ "mags": {
+  "V": 16.53,
+  "G": 14.111627,
+  "R": 14.75,
+  "I": 12.51,
+  "J": 8.859,
+  "H": 7.261,
+  "K": 6.317
+ }
+}

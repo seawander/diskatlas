@@ -1,0 +1,39 @@
+{
+ "id": "ex-lup",
+ "name": "EX Lup",
+ "alt_names": [],
+ "simbad": "EX Lup",
+ "ra_deg": 240.7728812858,
+ "dec_deg": -40.3070629799,
+ "dist_pc": 154.7,
+ "plx_mas": 6.4634,
+ "mags": {"V": 8.50, "G": 12.250865, "J": 9.728, "H": 8.958, "K": 8.496},
+ "sptype": "M0",
+ "region": "Lupus",
+ "categories": ["protoplanetary"],
+ "planets": [],
+ "images": [
+  {
+   "image_id": "ex-lup_zurlo2024",
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS",
+   "wavelength_um": 1.65,
+   "wavelength_label": "H band 1.65 um (Q_phi, polarized intensity)",
+   "technique": "PDI",
+   "survey": null,
+   "file": "images/ex-lup/ex-lup_zurlo2024.png",
+   "credit": "Zurlo et al. 2024, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Zurlo",
+    "year": 2024,
+    "title": "The environment around young eruptive stars. SPHERE/IRDIS polarimetric imaging of 7 protostars",
+    "journal": "A&A 686, A76",
+    "arxiv": "2403.12124",
+    "bibcode": "2024A&A...686A..76Z"
+   }
+  }
+ ],
+ "notes": "Prototype EXor object. SPHERE/IRDIS polarimetric detection of the close circumstellar environment presented in Zurlo et al. 2024 (Q_phi image; single, faint central light source), following the more detailed treatment in Rigliaco et al. 2020.",
+ "last_updated": "2026-07-06"
+}

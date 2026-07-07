@@ -1,0 +1,108 @@
+{
+ "id": "hd-207129",
+ "name": "HD 207129",
+ "alt_names": [],
+ "simbad": "HD 207129",
+ "ra_deg": 327.0656298475778,
+ "dec_deg": -47.3036160814856,
+ "dist_pc": 15.6,
+ "sptype": "G2V",
+ "region": null,
+ "categories": [
+  "debris"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "type": "disk_mm",
+   "facility": "ALMA/SMA",
+   "instrument": "Band 6/7",
+   "wavelength_um": 1300,
+   "wavelength_label": "~0.9-1.3 mm continuum",
+   "technique": "interferometry",
+   "image_id": "hd-207129_reasons",
+   "file": "images/hd-207129/hd-207129_reasons.png",
+   "survey": "REASONS",
+   "credit": "Matrà et al. 2025, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Matra",
+    "year": 2025,
+    "title": "REsolved ALMA and SMA Observations of Nearby Stars (REASONS): A population of 74 resolved planetesimal belts at millimetre wavelengths",
+    "journal": "A&A 693, A151",
+    "arxiv": "2501.09058",
+    "bibcode": "2025A&A...693A.151M"
+   }
+  },
+  {
+   "image_id": "hd-207129_acs2010",
+   "type": "disk_scattered",
+   "facility": "HST",
+   "instrument": "ACS coronagraph",
+   "wavelength_um": 0.6,
+   "wavelength_label": "0.6 um optical scattered light (faint debris ring)",
+   "technique": "coronagraphy",
+   "survey": null,
+   "file": "images/hd-207129/hd-207129_acs2010.png",
+   "credit": "Krist et al. 2010, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Krist",
+    "year": 2010,
+    "title": "HST and Spitzer Observations of the HD 207129 Debris Ring",
+    "journal": "AJ 140, 1051",
+    "arxiv": "1008.2793",
+    "bibcode": "2010AJ....140.1051K"
+   }
+  },
+  {
+   "image_id": "hd-207129_stis2016",
+   "type": "disk_scattered",
+   "facility": "HST",
+   "instrument": "STIS",
+   "wavelength_um": 0.58,
+   "wavelength_label": "0.2-1.0 um broadband; deep STIS coronagraphy of the debris ring",
+   "technique": "coronagraphy",
+   "survey": null,
+   "file": "images/hd-207129/hd-207129_stis2016.png",
+   "credit": "Schneider et al. 2016, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Schneider",
+    "year": 2016,
+    "title": "Deep HST/STIS Visible-Light Imaging of Debris Systems around Solar Analog Hosts",
+    "journal": "AJ 152, 64",
+    "arxiv": "1606.00039",
+    "bibcode": "2016AJ....152...64S"
+   }
+  },
+  {
+   "image_id": "hd-207129_herschel2011",
+   "type": "disk_mm",
+   "facility": "Herschel",
+   "instrument": "PACS",
+   "wavelength_um": 70,
+   "wavelength_label": "70 um",
+   "technique": "other",
+   "survey": null,
+   "credit": "Marshall et al. 2011, Fig. 3 (crop)",
+   "paper": {
+    "first_author": "Marshall",
+    "year": 2011,
+    "title": "A Herschel resolved far-infrared dust ring around HD 207129",
+    "journal": null,
+    "arxiv": "1104.3560",
+    "bibcode": null
+   },
+   "file": "images/hd-207129/hd-207129_herschel2011.png"
+  }
+ ],
+ "notes": "AUTO-CREATED from staging - fill metadata & coords",
+ "last_updated": "2026-07-06",
+ "plx_mas": 64.2717,
+ "mags": {
+  "B": 6.18,
+  "V": 5.58,
+  "G": 5.419392,
+  "J": 4.72,
+  "H": 4.306,
+  "K": 4.236
+ }
+}

@@ -1,0 +1,23 @@
+{
+  "survey": "k-aumic-b",
+  "survey_name": null,
+  "source_image": "images/_sources/extracted/2006.13248/2006.13248.pdf",
+  "pdf_page": 2,
+  "dpi": 200,
+  "panels": [
+    { "id": "au-mic", "image_id": "au-mic_tess-b",
+      "bbox_frac": [0.062, 0.058, 0.520, 0.272] }
+  ],
+  "image_defaults": {
+    "type": "planet", "facility": "TESS+Spitzer", "instrument": "photometer",
+    "wavelength_um": 0.8,
+    "wavelength_label": "Transit light curves of AU Mic b (TESS visible + Spitzer 4.5 um)",
+    "technique": "transit photometry"
+  },
+  "credit": "Plavchan et al. 2020, Fig. 2a (crop)",
+  "paper": {
+    "first_author": "Plavchan", "year": 2020,
+    "title": "A planet within the debris disk around the pre-main-sequence star AU Microscopii",
+    "journal": "Nature 582, 497", "arxiv": "2006.13248", "bibcode": "2020Natur.582..497P"
+  }
+}

@@ -1,0 +1,39 @@
+{
+ "id": "so-844",
+ "name": "SO 844",
+ "alt_names": ["2MASS J05390136-0218274"],
+ "simbad": "2MASS J05390136-0218274",
+ "ra_deg": 84.7557127025300,
+ "dec_deg": -2.3076268431600,
+ "dist_pc": 408.4,
+ "plx_mas": 2.4067,
+ "mags": {"V": 15.01, "G": 14.290803, "J": 11.733, "H": 10.842, "K": 10.335},
+ "sptype": "M0.5",
+ "region": "sigma Orionis",
+ "categories": ["protoplanetary"],
+ "planets": [],
+ "images": [
+  {
+   "image_id": "so-844_alma2024",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 6",
+   "wavelength_um": 1300,
+   "wavelength_label": "1.3 mm continuum",
+   "technique": "interferometry",
+   "survey": null,
+   "credit": "Huang et al. 2024, Fig. 3 (crop)",
+   "paper": {
+    "first_author": "Huang",
+    "year": 2024,
+    "title": "High Resolution ALMA Observations of Richly Structured Protoplanetary Disks in sigma Orionis",
+    "journal": "ApJ",
+    "arxiv": "2410.03823",
+    "bibcode": null
+   },
+   "file": "images/so-844/so-844_alma2024.png"
+  }
+ ],
+ "notes": "Multiple concentric gaps and rings (D10/B20/D29/B37) directly resolved in the Huang et al. 2024 sigma Orionis ALMA survey.",
+ "last_updated": "2026-07-06"
+}

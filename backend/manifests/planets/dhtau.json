@@ -1,0 +1,35 @@
+{
+ "survey": "pl2-dh-tau",
+ "survey_name": null,
+ "source_image": "images/_sources/_views/batchD2_dh-tau_f1.png",
+ "pdf_page": null,
+ "panels": [
+  {
+   "id": "dh-tau",
+   "image_id": "dh-tau_subaru2005",
+   "bbox_frac": [
+    0.0236,
+    0.4959,
+    0.902,
+    0.9833
+   ]
+  }
+ ],
+ "image_defaults": {
+  "type": "planet",
+  "facility": "Subaru",
+  "instrument": "CIAO",
+  "wavelength_um": 2.2,
+  "wavelength_label": "K band; companion discovery",
+  "technique": "coronagraphy"
+ },
+ "credit": "Itoh et al. 2005, Fig. 1 (crop)",
+ "paper": {
+  "first_author": "Itoh",
+  "year": 2005,
+  "title": "A Young Brown Dwarf Companion to DH Tauri",
+  "journal": "ApJ 620, 984",
+  "arxiv": "astro-ph/0411177",
+  "bibcode": "2005ApJ...620..984I"
+ }
+}

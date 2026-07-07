@@ -1,0 +1,69 @@
+{
+ "id": "hp-tau",
+ "name": "hp tau",
+ "alt_names": [],
+ "simbad": "HP Tau",
+ "ra_deg": 68.96992461608,
+ "dec_deg": 22.90643248542,
+ "dist_pc": 171.2,
+ "sptype": "K2-5e",
+ "region": "Taurus",
+ "categories": [
+  "protoplanetary"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 6",
+   "wavelength_um": 1330,
+   "wavelength_label": "1.33 mm continuum",
+   "technique": "interferometry",
+   "image_id": "hp-tau_taurus-long2019",
+   "file": "images/hp-tau/hp-tau_taurus-long2019.png",
+   "survey": "Taurus-Long2019",
+   "credit": "Long et al. 2019, Fig. 3 (crop)",
+   "paper": {
+    "first_author": "Long",
+    "year": 2019,
+    "title": "Compact Disks in a High-resolution ALMA Survey of Dust Structures in the Taurus Molecular Cloud",
+    "journal": "ApJ 882, 49",
+    "arxiv": "1906.10809",
+    "bibcode": "2019ApJ...882...49L"
+   }
+  },
+  {
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS DPI",
+   "wavelength_um": 1.65,
+   "wavelength_label": "H band 1.6 um (pol. intensity)",
+   "technique": "PDI",
+   "image_id": "hp-tau_sphere-taurus",
+   "file": "images/hp-tau/hp-tau_sphere-taurus.png",
+   "survey": "SPHERE-Taurus",
+   "credit": "Garufi et al. 2024, Fig. 2 (crop; ambient/outflow-dominated per Garufi+2024)",
+   "paper": {
+    "first_author": "Garufi",
+    "year": 2024,
+    "title": "The SPHERE view of the Taurus star-forming region: The full census of planet-forming disks with GTO and DESTINYS programs",
+    "journal": "A&A 685, A53",
+    "arxiv": "2403.02158",
+    "bibcode": "2024A&A...685A..53G"
+   }
+  }
+ ],
+ "notes": "AUTO-CREATED from staging - fill metadata & coords",
+ "last_updated": "2026-07-06",
+ "plx_mas": 5.8395,
+ "mags": {
+  "U": 17.39,
+  "B": 14.9,
+  "V": 14.9,
+  "G": 13.033619,
+  "J": 9.549,
+  "H": 8.469,
+  "K": 7.625
+ }
+}

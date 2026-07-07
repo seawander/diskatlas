@@ -1,0 +1,25 @@
+{
+  "survey": "u-bahcall95a",
+  "survey_name": "Bahcall-quasars-1995",
+  "source_image": "images/_sources/extra/bahcall1995_quasars.pdf",
+  "pdf_page": 10,
+  "dpi": 200,
+  "panels": [
+    { "id": "pg-1444-407", "image_id": "pg-1444-407_bahcall1995",
+      "bbox_frac": [0.135, 0.462, 0.507, 0.753] },
+    { "id": "3c-323-1", "image_id": "3c-323-1_bahcall1995",
+      "bbox_frac": [0.507, 0.462, 0.878, 0.753] }
+  ],
+  "image_defaults": {
+    "type": "quasar", "facility": "HST", "instrument": "WFPC2",
+    "wavelength_um": 0.6,
+    "wavelength_label": "F606W; PSF-subtracted residual (host galaxy candidate)",
+    "technique": "other"
+  },
+  "credit": "Bahcall et al. 1995, Fig. 4 / Plate 17 (crop; ADS scan)",
+  "paper": {
+    "first_author": "Bahcall", "year": 1995,
+    "title": "Hubble Space Telescope Images of Nearby Luminous Quasars. II. Results for Eight Quasars and Tests of the Detection Sensitivity",
+    "journal": "ApJ 450, 486", "arxiv": "astro-ph/9501018", "bibcode": "1995ApJ...450..486B"
+  }
+}

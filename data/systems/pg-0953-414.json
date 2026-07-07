@@ -1,0 +1,52 @@
+{
+ "id": "pg-0953-414",
+ "name": "PG 0953+414",
+ "alt_names": [],
+ "simbad": "PG 0953+414",
+ "ra_deg": 149.21830481458,
+ "dec_deg": 41.25616979101,
+ "dist_pc": null,
+ "plx_mas": null,
+ "mags": {
+  "U": 14.71,
+  "B": 15.611,
+  "V": 15.546,
+  "G": 14.761961,
+  "R": 15.294,
+  "I": 14.72,
+  "J": 14.196,
+  "H": 13.483,
+  "K": 12.532
+ },
+ "sptype": "QSO (z=0.239)",
+ "region": "extragalactic",
+ "categories": [
+  "quasar"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "type": "quasar",
+   "facility": "HST",
+   "instrument": "WFPC2 (WFC)",
+   "wavelength_um": 0.6,
+   "wavelength_label": "F606W; PSF-subtracted quasar image (host-galaxy upper limit, the 'naked quasar' result)",
+   "technique": "other",
+   "image_id": "pg-0953-414_bahcall1994",
+   "file": "images/pg-0953-414/pg-0953-414_bahcall1994.png",
+   "survey": "Bahcall-quasars-1994",
+   "credit": "Bahcall et al. 1994, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Bahcall",
+    "year": 1994,
+    "title": "HST Images of Nearby Luminous Quasars",
+    "journal": "ApJL 435, L11",
+    "arxiv": "astro-ph/9409028",
+    "bibcode": "1994ApJ...435L..11B"
+   }
+  }
+ ],
+ "notes": "Luminous radio-quiet PG quasar (V=15.3), part of the classic HST/WFPC2 host-galaxy study of Bahcall, Kirhakos & Schneider 1994 (Paper I): no host detected to strong limits (the 'naked quasar' result); re-analyzed in Bahcall et al. 1995 (Paper II). Added by batch T; redshift from Paper I Table 1. Coordinates pending SIMBAD via coords_todo_batchT.",
+ "last_updated": "2026-07-06",
+ "redshift": 0.239
+}

@@ -1,0 +1,34 @@
+{
+ "survey": "g-14her-jwst2025",
+ "survey_name": null,
+ "source_image": "images/_sources/extracted/2506.09201/14her_imaging_detection_ensemble_annotated.pdf",
+ "panels": [
+  {
+   "id": "14-her",
+   "image_id": "14-her_jwst2025",
+   "bbox_frac": [
+    0.401,
+    0.088,
+    0.658,
+    0.675
+   ]
+  }
+ ],
+ "image_defaults": {
+  "type": "planet",
+  "facility": "JWST",
+  "instrument": "NIRCam",
+  "wavelength_um": 4.4,
+  "wavelength_label": "4.4 um (F444W); misaligned cold giant, c marked",
+  "technique": "coronagraphy"
+ },
+ "credit": "Bardalez Gagliuffi et al. 2025, Fig. 1 (crop)",
+ "paper": {
+  "first_author": "Bardalez Gagliuffi",
+  "year": 2025,
+  "title": "JWST Coronagraphic Images of 14 Her c: a Cold Giant Planet in a Dynamically Hot, Multi-planet System",
+  "journal": "ApJL (2025)",
+  "arxiv": "2506.09201",
+  "bibcode": null
+ }
+}

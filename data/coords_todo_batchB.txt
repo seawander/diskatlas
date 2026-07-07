@@ -1,0 +1,43 @@
+# Batch B (ALMA/mm debris) — new systems needing SIMBAD coordinates.
+# All 36 are NEW members of the REASONS 74-belt sample (Matra+2025, 2501.09058),
+# category "debris". One SIMBAD-resolvable name per line.
+HD 105
+GJ 14
+HD 10638
+HD 14055
+HD 15257
+HD 16743
+HD 22049
+HD 36546
+HD 38206
+HD 38858
+HD 48682
+HD 50571
+HD 54341
+HD 76582
+HD 84870
+HD 104860
+HD 105211
+HD 112810
+HD 113556
+HD 113766
+HD 121191
+HD 127821
+HD 131488
+HD 138813
+HD 142315
+HD 142446
+HD 146181
+HD 147137
+HD 158352
+HD 161868
+HD 164249
+HD 182681
+HD 205674
+HD 207129
+TYC 9340-437-1
+Fomalhaut C
+# note: HD 22049 = eps Eri (system id hd-22049, per panel label)
+# note: HD 161868 = gamma Oph; HD 14055 = gamma Tri
+# note: "Fomalhaut C" -> system id hd-216956c (panel label HD216956C; = LP 876-10)
+# note: "TYC 9340-437-1" -> system id tyc-9340-437-1 (panel label TYC93404371)

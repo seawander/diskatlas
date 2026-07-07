@@ -1,0 +1,35 @@
+{
+ "survey": "single-hd34700-gpi2019",
+ "survey_name": null,
+ "source_image": "images/_sources/extracted/1901.02467/fig2.pdf",
+ "panels": [
+  {
+   "id": "hd-34700",
+   "image_id": "hd-34700_gpi2019",
+   "bbox_frac": [
+    0.5049,
+    0.2661,
+    0.8699,
+    0.7439
+   ]
+  }
+ ],
+ "image_defaults": {
+  "type": "disk_scattered",
+  "facility": "Gemini-GPI",
+  "instrument": "IFS pol",
+  "wavelength_um": 1.65,
+  "wavelength_label": "H band 1.6 um (pol. intensity)",
+  "technique": "PDI"
+ },
+ "credit": "Monnier et al. 2019, Fig. 2 (crop, H band)",
+ "paper": {
+  "first_author": "Monnier",
+  "year": 2019,
+  "title": "Multiple spiral arms in the disk around intermediate-mass binary HD 34700A",
+  "journal": "ApJ 872, 122",
+  "arxiv": "1901.02467",
+  "bibcode": null
+ },
+ "pdf_page": 1
+}

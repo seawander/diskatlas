@@ -1,0 +1,48 @@
+{
+ "id": "v721-cra",
+ "name": "V721 CrA",
+ "alt_names": [],
+ "simbad": "V721 CrA",
+ "ra_deg": 287.44133205526,
+ "dec_deg": -37.07393886727,
+ "dist_pc": 156.85,
+ "plx_mas": 6.3756,
+ "mags": {
+  "B": 14.92,
+  "V": 13.3,
+  "G": 12.248378,
+  "J": 9.509,
+  "H": 8.609,
+  "K": 8.311
+ },
+ "sptype": "K6IVe",
+ "region": "Corona Australis (on-cloud)",
+ "categories": [
+  "protoplanetary"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "image_id": "v721-cra_destinys-cra",
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS",
+   "wavelength_um": 1.625,
+   "wavelength_label": "H band polarimetric (Qphi) scattered light",
+   "technique": "PDI",
+   "survey": "DESTINYS",
+   "file": "images/v721-cra/v721-cra_destinys-cra.png",
+   "credit": "Columba et al. 2026, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Columba",
+    "year": 2026,
+    "title": "Disk Evolution Study Through Imaging of Nearby Young Stars (DESTINYS): V721 CrA and BN CrA have wide and structured disks in polarised IR",
+    "journal": "A&A 706, A16",
+    "arxiv": "2511.01717",
+    "bibcode": null
+   }
+  }
+ ],
+ "notes": "Added 2026-07-06 (known_missing triage). Coordinates pending next host SIMBAD run.",
+ "last_updated": "2026-07-06"
+}

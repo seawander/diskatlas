@@ -1,0 +1,432 @@
+{
+ "id": "hr-8799",
+ "name": "HR 8799",
+ "alt_names": [
+  "HD 218396"
+ ],
+ "simbad": "HR 8799",
+ "ra_deg": 346.86964883731,
+ "dec_deg": 21.13425299097,
+ "dist_pc": 40.9,
+ "sptype": "F0+VkA5mA5",
+ "region": null,
+ "categories": [
+  "debris"
+ ],
+ "planets": [
+  {
+   "name": "b",
+   "status": "confirmed",
+   "paper": {
+    "first_author": "Marois",
+    "year": 2008,
+    "arxiv": "0811.2606",
+    "bibcode": "2008Sci...322.1348M"
+   }
+  },
+  {
+   "name": "c",
+   "status": "confirmed",
+   "paper": {
+    "first_author": "Marois",
+    "year": 2008,
+    "arxiv": "0811.2606",
+    "bibcode": "2008Sci...322.1348M"
+   }
+  },
+  {
+   "name": "d",
+   "status": "confirmed",
+   "paper": {
+    "first_author": "Marois",
+    "year": 2008,
+    "arxiv": "0811.2606",
+    "bibcode": "2008Sci...322.1348M"
+   }
+  },
+  {
+   "name": "e",
+   "status": "confirmed",
+   "paper": {
+    "first_author": "Marois",
+    "year": 2010,
+    "arxiv": "1011.4918",
+    "bibcode": "2010Natur.468.1080M"
+   }
+  }
+ ],
+ "images": [
+  {
+   "type": "disk_mm",
+   "facility": "ALMA/SMA",
+   "technique": "interferometry",
+   "instrument": "Band 6/7",
+   "wavelength_um": 1300,
+   "wavelength_label": "~0.9-1.3 mm continuum",
+   "image_id": "hr-8799_reasons",
+   "survey": "REASONS",
+   "file": "images/hr-8799/hr-8799_reasons.png",
+   "credit": "Matrà et al. 2025, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Matra",
+    "year": 2025,
+    "title": "REsolved ALMA and SMA Observations of Nearby Stars (REASONS): A population of 74 resolved planetesimal belts at millimetre wavelengths",
+    "journal": "A&A 693, A151",
+    "arxiv": "2501.09058",
+    "bibcode": "2025A&A...693A.151M"
+   }
+  },
+  {
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 6",
+   "wavelength_um": 1340,
+   "wavelength_label": "1.34 mm continuum (outer belt; planets inset)",
+   "technique": "interferometry",
+   "survey": null,
+   "credit": "Booth et al. 2016, Fig. 3 (crop)",
+   "paper": {
+    "first_author": "Booth",
+    "year": 2016,
+    "title": "Resolving the Planetesimal Belt of HR 8799 with ALMA",
+    "journal": "MNRAS 460, L10",
+    "arxiv": "1603.04853",
+    "bibcode": null
+   },
+   "image_id": "hr-8799_alma2016",
+   "file": "images/hr-8799/hr-8799_alma2016.png"
+  },
+  {
+   "type": "planet",
+   "facility": "Keck",
+   "instrument": "NIRC2",
+   "wavelength_um": 2.1,
+   "wavelength_label": "JHK composite; b, c, d discovery",
+   "technique": "ADI",
+   "survey": null,
+   "credit": "Marois et al. 2008, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Marois",
+    "year": 2008,
+    "title": "Direct Imaging of Multiple Planets Orbiting the Star HR 8799",
+    "journal": "Science 322, 1348",
+    "arxiv": "0811.2606",
+    "bibcode": "2008Sci...322.1348M"
+   },
+   "image_id": "hr-8799_keck2008",
+   "file": "images/hr-8799/hr-8799_keck2008.png"
+  },
+  {
+   "type": "planet",
+   "facility": "Keck",
+   "instrument": "NIRC2",
+   "wavelength_um": 3.8,
+   "wavelength_label": "L' band; planet e discovery",
+   "technique": "ADI",
+   "survey": null,
+   "credit": "Marois et al. 2010, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Marois",
+    "year": 2010,
+    "title": "Images of a fourth planet orbiting HR 8799",
+    "journal": "Nature 468, 1080",
+    "arxiv": "1011.4918",
+    "bibcode": "2010Natur.468.1080M"
+   },
+   "image_id": "hr-8799_keck2010",
+   "file": "images/hr-8799/hr-8799_keck2010.png"
+  },
+  {
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 7/6",
+   "wavelength_um": 880,
+   "wavelength_label": "~0.88-1.3 mm continuum",
+   "technique": "interferometry",
+   "image_id": "hr-8799_arks",
+   "file": "images/hr-8799/hr-8799_arks.png",
+   "survey": "ARKS",
+   "credit": "Marino et al. 2026, Fig. 3 (crop)",
+   "paper": {
+    "first_author": "Marino",
+    "year": 2026,
+    "title": "The ALMA survey to Resolve exoKuiper belt Substructures (ARKS) I: Motivation, sample, data reduction, and results overview",
+    "journal": "A&A",
+    "arxiv": "2601.11708",
+    "bibcode": null
+   }
+  },
+  {
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS DPI",
+   "wavelength_um": 1.65,
+   "wavelength_label": "H band 1.6 um (pol. intensity)",
+   "technique": "PDI",
+   "image_id": "hr-8799_sphere-debris-2025",
+   "file": "images/hr-8799/hr-8799_sphere-debris-2025.png",
+   "survey": "SPHERE-debris-2025",
+   "credit": "Engler et al. 2025, Fig. 5b (crop)",
+   "paper": {
+    "first_author": "Engler",
+    "year": 2025,
+    "title": "Characterization of debris disks observed with SPHERE",
+    "journal": "A&A 704, A21",
+    "arxiv": "2512.03128",
+    "bibcode": null
+   }
+  },
+  {
+   "type": "planet",
+   "facility": "VLTI-GRAVITY",
+   "instrument": "GRAVITY (K band)",
+   "wavelength_um": 2.2,
+   "wavelength_label": "K band; first exoplanet detection by optical interferometry (e)",
+   "technique": "interferometry",
+   "survey": null,
+   "credit": "GRAVITY Collaboration 2019, Fig. 2 (crop: Keplerian orbit + GRAVITY astrometry of e)",
+   "paper": {
+    "first_author": "GRAVITY Collaboration",
+    "year": 2019,
+    "title": "First direct detection of an exoplanet by optical interferometry. Astrometry and K-band spectroscopy of HR 8799 e",
+    "journal": "A&A 623, L11",
+    "arxiv": "1903.11903",
+    "bibcode": "2019A&A...623L..11G"
+   },
+   "image_id": "hr-8799_gravity2019",
+   "file": "images/hr-8799/hr-8799_gravity2019.png"
+  },
+  {
+   "type": "planet",
+   "facility": "JWST",
+   "instrument": "NIRCam LW bar",
+   "wavelength_um": 4.1,
+   "wavelength_label": "2.5-4.6 um bar coronagraphy; all four planets, e first seen at 4.6 um",
+   "technique": "coronagraphy",
+   "survey": null,
+   "credit": "Balmer et al. 2025, Fig. 4 (crop)",
+   "paper": {
+    "first_author": "Balmer",
+    "year": 2025,
+    "title": "JWST-TST High Contrast: Living on the Wedge, or, NIRCam Bar Coronagraphy Reveals CO2 in the HR 8799 and 51 Eri Exoplanets' Atmospheres",
+    "journal": "AJ 169, 209",
+    "arxiv": "2503.13608",
+    "bibcode": "2025AJ....169..209B"
+   },
+   "image_id": "hr-8799_jwst2025",
+   "file": "images/hr-8799/hr-8799_jwst2025.png"
+  },
+  {
+   "type": "planet",
+   "survey": null,
+   "file": "images/hr-8799/hr-8799_miri2024.png",
+   "credit": "Boccaletti et al. 2024, Fig. 1 (crop: bottom row, reference-subtracted images in F1065C/F1140C/F1550C/F2100W; planets b, c, d, e labeled in F1065C, inner-disk signature marked in F1550C/F2100W)",
+   "image_id": "hr-8799_miri2024",
+   "facility": "JWST",
+   "instrument": "MIRI",
+   "wavelength_um": 11.4,
+   "wavelength_label": "10.7-21 um MIRI coronagraphy; the four planets + inner dust belt",
+   "technique": "coronagraphy",
+   "paper": {
+    "first_author": "Boccaletti",
+    "year": 2024,
+    "title": "Imaging detection of the inner dust belt and the four exoplanets in the HR 8799 system with JWST's MIRI coronagraph",
+    "journal": "A&A (2024)",
+    "arxiv": "2310.13414",
+    "bibcode": null
+   }
+  },
+  {
+   "image_id": "hr-8799_alice-f160w",
+   "type": "disk_scattered",
+   "facility": "HST",
+   "instrument": "NICMOS",
+   "wavelength_um": 1.6,
+   "wavelength_label": "F160W 1.6 um (ALICE archival reprocessing, combined coadd)",
+   "technique": "RDI",
+   "survey": "ALICE",
+   "file": "images/hr-8799/hr-8799_alice-f160w.png",
+   "credit": "ALICE HLSP v1 combined coadd (HST program 7226, STScI) — hi-res: ALICE archive (STScI)",
+   "paper": {
+    "first_author": "Hagan",
+    "year": 2018,
+    "title": "ALICE Data Release: A revaluation of HST-NICMOS coronagraphic images",
+    "journal": "AJ 155, 179",
+    "arxiv": "1802.07754",
+    "bibcode": null
+   },
+   "hires_url": "https://archive.stsci.edu/prepds/alice/"
+  },
+  {
+   "image_id": "hr-8799_lbti2015",
+   "type": "planet",
+   "facility": "LBT",
+   "instrument": "LBTI/LMIRCam",
+   "wavelength_um": 3.8,
+   "wavelength_label": "L' (3.8 um)",
+   "technique": "ADI + PCA PSF subtraction",
+   "survey": null,
+   "file": "images/hr-8799/hr-8799_lbti2015.png",
+   "credit": "Maire et al. 2015, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Maire",
+    "year": 2015,
+    "title": "The LEECH Exoplanet Imaging Survey. Further constraints on the planet architecture of the HR 8799 system",
+    "journal": "Astronomy & Astrophysics",
+    "arxiv": "1412.6989",
+    "bibcode": "2015A&A...576A.133M"
+   }
+  },
+  {
+   "image_id": "hr-8799_charis2022",
+   "type": "planet",
+   "facility": "Subaru Telescope",
+   "instrument": "SCExAO/CHARIS",
+   "wavelength_um": 1.55,
+   "wavelength_label": "1.1-2.4 micron (JHK IFS)",
+   "technique": "ADI",
+   "survey": null,
+   "credit": "Wang et al. 2022, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Wang",
+    "year": 2022,
+    "title": "Atmospheric Monitoring and Precise Spectroscopy of the HR 8799 Planets with SCExAO/CHARIS",
+    "journal": "AJ 164, 143 (2022)",
+    "arxiv": "2208.05594",
+    "bibcode": null
+   },
+   "file": "images/hr-8799/hr-8799_charis2022.png"
+  },
+  {
+   "image_id": "hr-8799_p1640-2012",
+   "type": "planet",
+   "facility": "Palomar 5-m Hale Telescope",
+   "instrument": "Project 1640 (PALM-3000 AO + IFS coronagraph)",
+   "wavelength_um": 1.65,
+   "wavelength_label": "995-1769 nm (Y-J-H near-IR)",
+   "technique": "coronagraphy",
+   "survey": null,
+   "credit": "Oppenheimer et al. 2013, Fig. 2 (crop)",
+   "paper": {
+    "first_author": "Oppenheimer",
+    "year": 2013,
+    "title": "Reconnaissance of the HR 8799 Exosolar System I: Near IR Spectroscopy",
+    "journal": "ApJ 768, 24 (2013)",
+    "arxiv": "1303.2627",
+    "bibcode": null
+   },
+   "file": "images/hr-8799/hr-8799_p1640-2012.png"
+  },
+  {
+   "image_id": "hr-8799_niri2008",
+   "type": "planet",
+   "facility": "Gemini-NIRI",
+   "instrument": "NIRI + Altair AO",
+   "wavelength_um": 2.2,
+   "wavelength_label": "K band (CH4S, near-IR)",
+   "technique": "ADI",
+   "survey": null,
+   "credit": "Marois et al. 2008, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Marois",
+    "year": 2008,
+    "title": "Direct Imaging of Multiple Planets Orbiting the Star HR 8799",
+    "journal": "Science 322, 1348 (2008)",
+    "arxiv": "0811.2606",
+    "bibcode": null
+   },
+   "file": "images/hr-8799/hr-8799_niri2008.png"
+  },
+  {
+   "image_id": "hr-8799_herschel2014",
+   "type": "disk_mm",
+   "facility": "Herschel",
+   "instrument": "PACS",
+   "wavelength_um": 70,
+   "wavelength_label": "70 um",
+   "technique": "other",
+   "survey": null,
+   "credit": "Matthews et al. 2014, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Matthews",
+    "year": 2014,
+    "title": "Resolved Imaging of the HR 8799 Debris Disk with Herschel",
+    "journal": null,
+    "arxiv": "1311.2977",
+    "bibcode": null
+   },
+   "file": "images/hr-8799/hr-8799_herschel2014.png"
+  },
+  {
+   "image_id": "hr-8799_nicmos1998",
+   "type": "planet",
+   "facility": "HST",
+   "instrument": "NICMOS",
+   "wavelength_um": 1.6,
+   "wavelength_label": "F160W 1.6 um archival re-reduction (1998 epoch)",
+   "technique": "RDI",
+   "survey": null,
+   "credit": "Lafrenière et al. 2009, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Lafreniere",
+    "year": 2009,
+    "title": "HST/NICMOS detection of HR 8799 b in 1998",
+    "journal": "ApJL 694, L148",
+    "arxiv": "0902.3247",
+    "bibcode": null
+   },
+   "file": "images/hr-8799/hr-8799_nicmos1998.png"
+  },
+  {
+   "image_id": "hr-8799_nicmos1998-soummer",
+   "type": "planet",
+   "facility": "HST",
+   "instrument": "NICMOS",
+   "wavelength_um": 1.6,
+   "wavelength_label": "1.1-1.6 um archival KLIP reduction, planets b/c/d (1998 epoch)",
+   "technique": "RDI",
+   "survey": null,
+   "credit": "Soummer et al. 2011, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Soummer",
+    "year": 2011,
+    "title": "Orbital Motion of HR 8799 b,c, d using Hubble Space Telescope data from 1998: Constraints on Inclination, Eccentricity and Stability",
+    "journal": "ApJ 741, 55",
+    "arxiv": "1110.1382",
+    "bibcode": null
+   },
+   "file": "images/hr-8799/hr-8799_nicmos1998-soummer.png"
+  },
+  {
+   "image_id": "hr-8799_p1640-2015",
+   "type": "planet",
+   "facility": "Palomar",
+   "instrument": "P1640",
+   "wavelength_um": 1.65,
+   "wavelength_label": "Integrated H band IFS KLIP image, planets b/c/d/e",
+   "technique": "RDI",
+   "survey": null,
+   "credit": "Pueyo et al. 2015, Fig. 4 (crop)",
+   "paper": {
+    "first_author": "Pueyo",
+    "year": 2015,
+    "title": "Reconnaissance of the HR 8799 Exosolar System II: Astrometry and Orbital Motion",
+    "journal": "ApJ 803, 31",
+    "arxiv": "1409.6388",
+    "bibcode": null
+   },
+   "file": "images/hr-8799/hr-8799_p1640-2015.png"
+  }
+ ],
+ "notes": null,
+ "last_updated": "2026-07-07",
+ "plx_mas": 24.462,
+ "mags": {
+  "B": 6.21,
+  "V": 5.953,
+  "G": 5.910741,
+  "J": 5.383,
+  "H": 5.28,
+  "K": 5.24
+ }
+}

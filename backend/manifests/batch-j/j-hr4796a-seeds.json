@@ -1,0 +1,21 @@
+{
+ "survey": "j-hr4796a-seeds",
+ "survey_name": null,
+ "source_image": "images/_sources/_views/j-hr4796-seeds.png",
+ "pdf_page": null,
+ "panels": [
+  {
+   "id": "hr-4796a",
+   "image_id": "hr-4796a_seeds",
+   "bbox_frac": [
+    0.2015,
+    0.0,
+    0.4001,
+    1.0
+   ]
+  }
+ ],
+ "image_defaults": {},
+ "credit": "Thalmann et al. 2011, Fig. 1b (crop: LOCI conservative; streamers arrowed)",
+ "paper": null
+}

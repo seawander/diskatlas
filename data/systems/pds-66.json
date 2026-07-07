@@ -1,0 +1,213 @@
+{
+ "id": "pds-66",
+ "name": "PDS 66",
+ "alt_names": [
+  "MP Mus"
+ ],
+ "simbad": "PDS 66",
+ "ra_deg": 200.53142581026,
+ "dec_deg": -69.63672760881,
+ "dist_pc": 97.9,
+ "sptype": "K1Ve",
+ "region": "Lower Cen-Crux",
+ "categories": [
+  "protoplanetary"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "technique": "interferometry",
+   "instrument": "Band 7",
+   "wavelength_um": 900,
+   "wavelength_label": "0.9 mm continuum",
+   "image_id": "pds-66_exoalma",
+   "survey": "exoALMA",
+   "file": "images/pds-66/pds-66_exoalma.png",
+   "credit": "Curone et al. 2025, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Curone",
+    "year": 2025,
+    "title": "exoALMA IV: Substructures, Asymmetries, and the Faint Outer Disk in Continuum Emission",
+    "journal": "ApJL (exoALMA special issue)",
+    "arxiv": "2504.18725",
+    "bibcode": null
+   }
+  },
+  {
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS DPI",
+   "wavelength_um": 1.65,
+   "wavelength_label": "H band 1.6 um (pol. intensity)",
+   "technique": "PDI",
+   "image_id": "pds-66_dartts-s",
+   "survey": "DARTTS-S",
+   "file": "images/pds-66/pds-66_dartts-s.png",
+   "credit": "Avenhaus et al. 2018, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Avenhaus",
+    "year": 2018,
+    "title": "Disks around T Tauri Stars with SPHERE (DARTTS-S). I. SPHERE/IRDIS Polarimetric Imaging of Eight Prominent T Tauri Disks",
+    "journal": "ApJ 863, 44",
+    "arxiv": "1803.10882",
+    "bibcode": "2018ApJ...863...44A"
+   }
+  },
+  {
+   "type": "disk_scattered",
+   "facility": "Gemini-GPI",
+   "instrument": "IFS pol",
+   "wavelength_um": 1.24,
+   "wavelength_label": "J band 1.24 um (pol. intensity)",
+   "technique": "PDI",
+   "image_id": "pds-66_gemini-lights",
+   "survey": "Gemini-LIGHTS",
+   "file": "images/pds-66/pds-66_gemini-lights.png",
+   "credit": "Rich et al. 2022, rings gallery (crop)",
+   "paper": {
+    "first_author": "Rich",
+    "year": 2022,
+    "title": "Gemini-LIGHTS: Herbig Ae/Be and Massive T Tauri Protoplanetary Disks Imaged with Gemini Planet Imager",
+    "journal": "AJ 164, 109",
+    "arxiv": "2206.05815",
+    "bibcode": "2022AJ....164..109R"
+   }
+  },
+  {
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS Ks",
+   "wavelength_um": 2.18,
+   "wavelength_label": "Ks 2.2 um (total intensity, RDI)",
+   "technique": "RDI",
+   "image_id": "pds-66_sphere-ks-rdi",
+   "survey": "SPHERE-Ks-RDI",
+   "file": "images/pds-66/pds-66_sphere-ks-rdi.png",
+   "credit": "Ren et al. 2023, Ks total-intensity gallery (crop)",
+   "paper": {
+    "first_author": "Ren",
+    "year": 2023,
+    "title": "Protoplanetary disks in Ks-band total intensity and polarized light",
+    "journal": "A&A 680, A114",
+    "arxiv": "2310.08589",
+    "bibcode": "2023A&A...680A.114R"
+   }
+  },
+  {
+   "type": "disk_scattered",
+   "facility": "HST",
+   "instrument": "STIS",
+   "wavelength_um": 0.58,
+   "wavelength_label": "0.2-1.0 um broadband (optical)",
+   "technique": "coronagraphy",
+   "image_id": "pds-66_stis-schneider14",
+   "file": "images/pds-66/pds-66_stis-schneider14.png",
+   "survey": "STIS-Schneider14",
+   "credit": "Schneider et al. 2014 (crop; per-target STIS PSFTSC figures)",
+   "paper": {
+    "first_author": "Schneider",
+    "year": 2014,
+    "title": "Probing for Exoplanets Hiding in Dusty Debris Disks: Disk Imaging, Characterization, and Exploration with HST/STIS Multi-Roll Coronagraphy",
+    "journal": "AJ 148, 59",
+    "arxiv": "1406.7303",
+    "bibcode": "2014AJ....148...59S"
+   }
+  },
+  {
+   "type": "disk_scattered",
+   "facility": "VLT-NACO",
+   "instrument": "NACO pol",
+   "wavelength_um": 2.06,
+   "wavelength_label": "IB_2.06 2.06 um (PIPPIN PDI reprocessing; panel label MP Mus)",
+   "technique": "PDI",
+   "image_id": "pds-66_naco-pippin",
+   "file": "images/pds-66/pds-66_naco-pippin.png",
+   "survey": "NACO-PIPPIN",
+   "credit": "de Regt et al. 2024, Fig. 6 (crop)",
+   "paper": {
+    "first_author": "de Regt",
+    "year": 2024,
+    "title": "Polarimetric differential imaging with VLT/NACO. A comprehensive PDI pipeline for NACO data (PIPPIN)",
+    "journal": "A&A 684, A73",
+    "arxiv": "2404.02222",
+    "bibcode": "2024A&A...684A..73D"
+   }
+  },
+  {
+   "image_id": "pds-66_alice-f110w",
+   "type": "disk_scattered",
+   "facility": "HST",
+   "instrument": "NICMOS",
+   "wavelength_um": 1.1,
+   "wavelength_label": "F110W 1.1 um (ALICE archival reprocessing, combined coadd)",
+   "technique": "RDI",
+   "survey": "ALICE",
+   "file": "images/pds-66/pds-66_alice-f110w.png",
+   "credit": "ALICE HLSP v1 combined coadd (HST program 10527, STScI) — hi-res: ALICE archive (STScI)",
+   "paper": {
+    "first_author": "Hagan",
+    "year": 2018,
+    "title": "ALICE Data Release: A revaluation of HST-NICMOS coronagraphic images",
+    "journal": "AJ 155, 179",
+    "arxiv": "1802.07754",
+    "bibcode": null
+   },
+   "hires_url": "https://archive.stsci.edu/prepds/alice/"
+  },
+  {
+   "image_id": "pds-66_sphere-ks-qphi",
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS",
+   "wavelength_um": 2.18,
+   "wavelength_label": "Ks band 2.2 um (pol. intensity, Qphi)",
+   "technique": "PDI",
+   "survey": "SPHERE-Ks-RDI",
+   "credit": "Ren et al. 2023, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Ren",
+    "year": 2023,
+    "title": "Protoplanetary disks in $K_s$-band total intensity and polarized light",
+    "journal": "A&A 680, A114",
+    "arxiv": "2310.08589",
+    "bibcode": "2023A&A...680A.114R"
+   },
+   "file": "images/pds-66/pds-66_sphere-ks-qphi.png"
+  },
+  {
+   "image_id": "pds-66_alma3mm2025",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 3",
+   "wavelength_um": 3000,
+   "wavelength_label": "3 mm continuum",
+   "technique": "interferometry",
+   "survey": null,
+   "credit": "Ribas et al. 2025, Fig. 2 (crop)",
+   "paper": {
+    "first_author": "Ribas",
+    "year": 2025,
+    "title": "A young gas giant and hidden substructures in a protoplanetary disk",
+    "journal": null,
+    "arxiv": "2507.11612",
+    "bibcode": null
+   },
+   "file": "images/pds-66/pds-66_alma3mm2025.png",
+   "note": "New ALMA Band 3 (3mm) observation of MP Mus (PDS 66), a different band/config from the existing exoALMA Band 7 (0.9mm) record. The 3mm data reveal a ring at 10.5au and gaps at 7.5/15au that are undetected at 0.9/1.3mm, plus hints of an inner cavity (<3au). The paper infers a hidden gas-giant companion (1-3 au) from the disk structure plus a Gaia astrometric proper-motion anomaly and hydrodynamic simulations -- the planet is NOT directly imaged, so per instructions it was NOT added to planets[] with method imaging; recommend adding a system-notes line instead, e.g.: 'Gaia astrometry + ALMA 3mm ring/cavity structure (Ribas et al. 2025) indicate an unseen ~1-3 au gas-giant companion; not directly imaged.'"
+  }
+ ],
+ "notes": "ALMA 3mm reveals a ring + 2 gaps invisible at shorter wavelengths; a young gas giant is inferred (not imaged) from Gaia astrometry + disk structure (Ribas et al. 2025, arXiv 2507.11612).",
+ "last_updated": "2026-07-07",
+ "plx_mas": 10.2152,
+ "mags": {
+  "B": 11.38,
+  "V": 10.393,
+  "G": 9.972893,
+  "I": 9.117,
+  "J": 8.277,
+  "H": 7.641,
+  "K": 7.293
+ }
+}

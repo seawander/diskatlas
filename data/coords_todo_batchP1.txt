@@ -1,0 +1,35 @@
+# Batch P1 (edge-on protoplanetary disks + COCONUTS-1) — SIMBAD-resolvable names
+# for the host SIMBAD pass (plx / mags / proper SpT enrichment).
+# NOTE: RA/Dec (+SpT) for ALL of these are ALREADY in data/coords_cache.json,
+# taken from the papers themselves (keys = the names below, marked with a
+# "source" field), so make_systems will place them on the sky map immediately.
+#
+# --- NEW systems from Villenave+2020 (arXiv 2008.06518) Table 1; all
+#     categories: ["protoplanetary"] ---
+# Taurus (region "Taurus"):
+2MASS J04202144+2813491
+# ^ = Tau 042021 -> system id tau-042021 (also JWST Duchene+2024 target)
+HH 30
+IRAS 04302+2247
+# ^ system id iras-04302-2247, alt name "Butterfly Star" (also VLA Villenave+2023 target)
+HV Tau C
+IRAS 04200+2759
+Haro 6-5B
+# ^ = FS Tau B -> system id haro-6-5b
+IRAS 04158+2805
+# Ophiuchus (region "Ophiuchus"):
+SSTc2d J163131.2-242627
+# ^ = Oph 163131 -> system id oph-163131 (also ALMA Villenave+2022 target)
+# Chamaeleon I (region "Chamaeleon I"):
+ESO-HA 569
+ESO-HA 574
+2MASS J11042275-7718080
+# ^ = HH 48 NE -> system id hh-48-ne
+#
+# --- NEW system from Zhang+2020 COCONUTS I (arXiv 2002.05723); field white
+#     dwarf at 31.5 pc; categories: [] ; planets: [B] (T4 companion) ---
+PSO J058.9855+45.4184
+# ^ = COCONUTS-1 (A component, DA white dwarf) -> system id coconuts-1
+#
+# NOT new (no action): HK Tau — Villenave+2020 "HK Tau B" panel was ingested
+# into the existing hk-tau system (images hk-tau_edgeon-alma2020[-b4]).

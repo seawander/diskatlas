@@ -1,0 +1,26 @@
+{
+ "survey": "i-betapic-kalas1995",
+ "survey_name": null,
+ "source_image": "images/_sources/_views/bi_kalas_p12-12.png",
+ "panels": [
+  { "id": "beta-pic", "image_id": "beta-pic_kalas1995",
+    "bbox_frac": [0.118, 0.058, 0.890, 0.802] }
+ ],
+ "image_defaults": {
+  "type": "disk_scattered",
+  "facility": "UH 2.2m",
+  "instrument": "coronagraph camera",
+  "wavelength_um": 0.65,
+  "wavelength_label": "R band coronagraphy (classic large-scale disk)",
+  "technique": "coronagraphy"
+ },
+ "credit": "Kalas & Jewitt 1995, Fig. 1 / Plate 33 (crop)",
+ "paper": {
+  "first_author": "Kalas",
+  "year": 1995,
+  "title": "Asymmetries in the beta Pictoris dust disk",
+  "journal": "AJ 110, 794",
+  "arxiv": null,
+  "bibcode": "1995AJ....110..794K"
+ }
+}

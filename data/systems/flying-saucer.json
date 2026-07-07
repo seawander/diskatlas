@@ -1,0 +1,86 @@
+{
+ "id": "flying-saucer",
+ "name": "Flying Saucer",
+ "alt_names": [],
+ "simbad": "2MASS J16281370-2431391",
+ "ra_deg": 247.0570719634199,
+ "dec_deg": -24.52773490099,
+ "dist_pc": null,
+ "plx_mas": null,
+ "mags": {
+  "G": 21.018826,
+  "J": 15.624,
+  "H": 14.474,
+  "K": 13.824
+ },
+ "sptype": null,
+ "region": "Ophiuchus (rho Oph)",
+ "categories": [
+  "protoplanetary"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "image_id": "flying-saucer_alma-martinien",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 7",
+   "wavelength_um": 880,
+   "wavelength_label": "0.88 mm continuum (highly-inclined disk)",
+   "technique": "interferometry",
+   "survey": "Martinien2026",
+   "file": "images/flying-saucer/flying-saucer_alma-martinien.png",
+   "credit": "Martinien et al. 2026, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Martinien",
+    "year": 2026,
+    "title": "Observations of highly inclined disks with ALMA. Results from 12CO gas and continuum observations",
+    "journal": "A&A (2026)",
+    "arxiv": "2604.11247",
+    "bibcode": null
+   }
+  },
+  {
+   "image_id": "flying-saucer_jwst-nirspec",
+   "type": "disk_scattered",
+   "facility": "JWST",
+   "instrument": "NIRSpec IFU",
+   "wavelength_um": 3.29,
+   "wavelength_label": "near-IR silhouette/emission (2.99-5.1 um NIRSpec) + MIRI F770W/MRS + ALMA; edge-on disc",
+   "technique": "other",
+   "survey": "JEDIce",
+   "file": "images/flying-saucer/flying-saucer_jwst-nirspec.png",
+   "credit": "Dartois et al. 2025, Fig. 2 (bottom row: observations; crop)",
+   "paper": {
+    "first_author": "Dartois",
+    "year": 2025,
+    "title": "The Flying Saucer edge-on disc's Near Infrared silhouette revealed by the JWST JEDIce program",
+    "journal": "A&A 705, L14",
+    "arxiv": "2512.13503",
+    "bibcode": null
+   }
+  },
+  {
+   "image_id": "flying-saucer_isaac2003",
+   "type": "disk_scattered",
+   "facility": "VLT-ISAAC",
+   "instrument": "ISAAC",
+   "wavelength_um": 2.16,
+   "wavelength_label": "near-IR J/H/Ks color composite (discovery image)",
+   "technique": "other",
+   "survey": null,
+   "credit": "Grosso et al. 2003, Fig. 2b (crop)",
+   "paper": {
+    "first_author": "Grosso",
+    "year": 2003,
+    "title": "Spatial study with the VLT of a new resolved edge-on circumstellar dust disk discovered at the periphery of the rho Ophiuchi dark cloud",
+    "journal": "ApJ 586, 296",
+    "arxiv": "astro-ph/0211570",
+    "bibcode": null
+   },
+   "file": "images/flying-saucer/flying-saucer_isaac2003.png"
+  }
+ ],
+ "notes": "Added 2026-07-06 (Martinien+2026 ALMA highly-inclined disk). Coords pending SIMBAD.",
+ "last_updated": "2026-07-06"
+}

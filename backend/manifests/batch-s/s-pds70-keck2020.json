@@ -1,0 +1,27 @@
+{
+ "survey": "s-pds70-keck2020",
+ "survey_name": null,
+ "source_image": "images/_sources/extracted/2004.09597/lp_pds70_image.pdf",
+ "pdf_page": 1,
+ "panels": [
+  {"id": "pds-70", "image_id": "pds-70_keck2020",
+   "bbox_frac": [0.0947, 0.0576, 0.5927, 0.8049]}
+ ],
+ "image_defaults": {
+  "type": "planet",
+  "facility": "Keck",
+  "instrument": "NIRC2 vortex",
+  "wavelength_um": 3.8,
+  "wavelength_label": "L' band; planets b & c (Fig. 1 left+middle panels)",
+  "technique": "ADI"
+ },
+ "credit": "Wang et al. 2020, Fig. 1 (left + middle panels, crop)",
+ "paper": {
+  "first_author": "Wang",
+  "year": 2020,
+  "title": "Keck/NIRC2 L'-Band Imaging of Jovian-Mass Accreting Protoplanets around PDS 70",
+  "journal": "AJ 159, 263",
+  "arxiv": "2004.09597",
+  "bibcode": "2020AJ....159..263W"
+ }
+}

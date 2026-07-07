@@ -1,0 +1,70 @@
+{
+ "id": "gi-tau",
+ "name": "GI Tau",
+ "alt_names": [],
+ "simbad": "GI Tau",
+ "ra_deg": 68.39192070715,
+ "dec_deg": 24.35474138607,
+ "dist_pc": 129.4,
+ "sptype": "K5Ve",
+ "region": "Taurus",
+ "categories": [
+  "protoplanetary"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS DPI",
+   "wavelength_um": 1.65,
+   "wavelength_label": "H band 1.6 um (pol. intensity)",
+   "technique": "PDI",
+   "image_id": "gi-tau_sphere-taurus",
+   "survey": "SPHERE-Taurus",
+   "file": "images/gi-tau/gi-tau_sphere-taurus.png",
+   "credit": "Garufi et al. 2024, Fig. 2 (crop)",
+   "paper": {
+    "first_author": "Garufi",
+    "year": 2024,
+    "title": "The SPHERE view of the Taurus star-forming region: The full census of planet-forming disks with GTO and DESTINYS programs",
+    "journal": "A&A 685, A53",
+    "arxiv": "2403.02158",
+    "bibcode": "2024A&A...685A..53G"
+   }
+  },
+  {
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 6",
+   "wavelength_um": 1330,
+   "wavelength_label": "1.33 mm continuum",
+   "technique": "interferometry",
+   "image_id": "gi-tau_taurus-long2019",
+   "file": "images/gi-tau/gi-tau_taurus-long2019.png",
+   "survey": "Taurus-Long2019",
+   "credit": "Long et al. 2019, Fig. 3 (crop)",
+   "paper": {
+    "first_author": "Long",
+    "year": 2019,
+    "title": "Compact Disks in a High-resolution ALMA Survey of Dust Structures in the Taurus Molecular Cloud",
+    "journal": "ApJ 882, 49",
+    "arxiv": "1906.10809",
+    "bibcode": "2019ApJ...882...49L"
+   }
+  }
+ ],
+ "notes": null,
+ "last_updated": "2026-07-06",
+ "plx_mas": 7.7258,
+ "mags": {
+  "U": 14.34,
+  "V": 13.7,
+  "G": 12.607882,
+  "R": 12.15,
+  "I": 11.06,
+  "J": 9.341,
+  "H": 8.418,
+  "K": 7.888
+ }
+}

@@ -1,0 +1,14 @@
+# Batch T — SIMBAD-resolvable names for the host SIMBAD pass.
+# Bahcall HST/WFPC2 quasar-host systems (new, quasar category, region
+# extragalactic). ra_deg/dec_deg are null in their data/systems files: the
+# arXiv sources give no coordinates ("accurate coordinates in Kirhakos et al.
+# 1994") and PG/PKS/3C names only encode truncated B1950 positions — too
+# coarse for the sky map, so nothing was decoded. All seven names below
+# resolve in SIMBAD as written.
+PG 0953+414
+PG 1116+215
+PG 1202+281
+PG 1307+085
+PKS 1302-102
+PG 1444+407
+3C 323.1

@@ -1,0 +1,88 @@
+{
+ "id": "hd-112810",
+ "name": "HD 112810",
+ "alt_names": [],
+ "simbad": "HD 112810",
+ "ra_deg": 194.99950829732,
+ "dec_deg": -50.38957988452,
+ "dist_pc": 133.7,
+ "sptype": "F3/5IV/V",
+ "region": "Sco-Cen",
+ "categories": [
+  "debris"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "type": "disk_mm",
+   "facility": "ALMA/SMA",
+   "instrument": "Band 6/7",
+   "wavelength_um": 1300,
+   "wavelength_label": "~0.9-1.3 mm continuum",
+   "technique": "interferometry",
+   "image_id": "hd-112810_reasons",
+   "file": "images/hd-112810/hd-112810_reasons.png",
+   "survey": "REASONS",
+   "credit": "Matrà et al. 2025, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Matra",
+    "year": 2025,
+    "title": "REsolved ALMA and SMA Observations of Nearby Stars (REASONS): A population of 74 resolved planetesimal belts at millimetre wavelengths",
+    "journal": "A&A 693, A151",
+    "arxiv": "2501.09058",
+    "bibcode": "2025A&A...693A.151M"
+   }
+  },
+  {
+   "type": "disk_scattered",
+   "facility": "Gemini-GPI",
+   "instrument": "IFS pol",
+   "wavelength_um": 1.65,
+   "wavelength_label": "H band 1.6 um (Qr pol. intensity)",
+   "technique": "PDI",
+   "image_id": "hd-112810_discs",
+   "file": "images/hd-112810/hd-112810_discs.png",
+   "survey": "DISCS",
+   "credit": "Hom et al. 2025, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Hom",
+    "year": 2025,
+    "title": "The Disks In Scorpius-Centaurus Survey (DISCS) I: Four Newly-Resolved Debris Disks in Polarized Intensity Light",
+    "journal": "AJ, in press",
+    "arxiv": "2505.02976",
+    "bibcode": null
+   }
+  },
+  {
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS/IFS",
+   "wavelength_um": 1.65,
+   "wavelength_label": "H band 1.6 um (total intensity)",
+   "technique": "ADI",
+   "image_id": "hd-112810_sphere-debris-2025",
+   "file": "images/hd-112810/hd-112810_sphere-debris-2025.png",
+   "survey": "SPHERE-debris-2025",
+   "credit": "Engler et al. 2025, Fig. 2a (crop)",
+   "paper": {
+    "first_author": "Engler",
+    "year": 2025,
+    "title": "Characterization of debris disks observed with SPHERE",
+    "journal": "A&A 704, A21",
+    "arxiv": "2512.03128",
+    "bibcode": null
+   }
+  }
+ ],
+ "notes": "AUTO-CREATED from staging - fill metadata & coords",
+ "last_updated": "2026-07-06",
+ "plx_mas": 7.4816,
+ "mags": {
+  "B": 9.53,
+  "V": 9.14,
+  "G": 9.029216,
+  "J": 8.278,
+  "H": 8.145,
+  "K": 8.039
+ }
+}

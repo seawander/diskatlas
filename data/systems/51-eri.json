@@ -1,0 +1,97 @@
+{
+ "id": "51-eri",
+ "name": "51 Eri",
+ "alt_names": [],
+ "simbad": "51 Eri",
+ "ra_deg": 69.40055253787,
+ "dec_deg": -2.47354881285,
+ "dist_pc": 29.9,
+ "sptype": "F0IV",
+ "region": null,
+ "categories": [],
+ "planets": [
+  {
+   "name": "b",
+   "status": "confirmed",
+   "paper": {
+    "first_author": "Macintosh",
+    "year": 2015,
+    "arxiv": "1508.03084",
+    "bibcode": "2015Sci...350...64M"
+   }
+  }
+ ],
+ "images": [
+  {
+   "type": "planet",
+   "facility": "Gemini-GPI",
+   "instrument": "IFS",
+   "wavelength_um": 1.65,
+   "wavelength_label": "H band; T-dwarf planet discovery",
+   "technique": "ADI",
+   "survey": null,
+   "credit": "Macintosh et al. 2015, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Macintosh",
+    "year": 2015,
+    "title": "Discovery and spectroscopy of the young jovian planet 51 Eri b with the Gemini Planet Imager",
+    "journal": "Science 350, 64",
+    "arxiv": "1508.03084",
+    "bibcode": "2015Sci...350...64M"
+   },
+   "image_id": "51-eri_gpi2015",
+   "file": "images/51-eri/51-eri_gpi2015.png"
+  },
+  {
+   "type": "planet",
+   "facility": "JWST",
+   "instrument": "NIRCam LW bar",
+   "wavelength_um": 4.1,
+   "wavelength_label": "4.1 um bar coronagraphy re-detection of b",
+   "technique": "coronagraphy",
+   "survey": null,
+   "credit": "Balmer et al. 2025, Fig. 4 (crop)",
+   "paper": {
+    "first_author": "Balmer",
+    "year": 2025,
+    "title": "JWST-TST High Contrast: Living on the Wedge, or, NIRCam Bar Coronagraphy Reveals CO2 in the HR 8799 and 51 Eri Exoplanets' Atmospheres",
+    "journal": "AJ 169, 209",
+    "arxiv": "2503.13608",
+    "bibcode": "2025AJ....169..209B"
+   },
+   "image_id": "51-eri_jwst2025",
+   "file": "images/51-eri/51-eri_jwst2025.png"
+  },
+  {
+   "image_id": "51-eri_sphere2017",
+   "type": "planet",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS+IFS",
+   "wavelength_um": 1.6,
+   "wavelength_label": "YJH + K12 (Y-H band IFS, K1/K2 IRDIS)",
+   "technique": "extreme-AO coronagraphic angular differential imaging (IRDIS dual-band + IFS)",
+   "survey": null,
+   "file": "images/51-eri/51-eri_sphere2017.png",
+   "credit": "Samland et al. 2017, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Samland",
+    "year": 2017,
+    "title": "Spectral and atmospheric characterization of 51 Eridani b using VLT/SPHERE",
+    "journal": "A&A",
+    "arxiv": "1704.02987",
+    "bibcode": "2017A&A...603A..57S"
+   }
+  }
+ ],
+ "notes": null,
+ "last_updated": "2026-07-07",
+ "plx_mas": 33.439,
+ "mags": {
+  "B": 5.486,
+  "V": 5.209,
+  "G": 5.141171,
+  "J": 4.744,
+  "H": 4.77,
+  "K": 4.537
+ }
+}

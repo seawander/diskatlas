@@ -1,0 +1,61 @@
+{
+ "id": "pds-144-n",
+ "name": "PDS 144 N",
+ "alt_names": [],
+ "simbad": "PDS 144N",
+ "ra_deg": 237.31383,
+ "dec_deg": -26.01417,
+ "dist_pc": null,
+ "plx_mas": null,
+ "mags": null,
+ "sptype": null,
+ "region": "Upper Sco / field (Herbig)",
+ "categories": [
+  "protoplanetary"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "image_id": "pds-144-n_alma-martinien",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 7",
+   "wavelength_um": 880,
+   "wavelength_label": "0.88 mm continuum (highly-inclined disk)",
+   "technique": "interferometry",
+   "survey": "Martinien2026",
+   "file": "images/pds-144-n/pds-144-n_alma-martinien.png",
+   "credit": "Martinien et al. 2026, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Martinien",
+    "year": 2026,
+    "title": "Observations of highly inclined disks with ALMA. Results from 12CO gas and continuum observations",
+    "journal": "A&A (2026)",
+    "arxiv": "2604.11247",
+    "bibcode": null
+   }
+  },
+  {
+   "image_id": "pds-144-n_nirc22006",
+   "type": "disk_scattered",
+   "facility": "Keck",
+   "instrument": "Keck/NIRC2",
+   "wavelength_um": 2,
+   "wavelength_label": "near-IR (J/H/K, 1.2-2.2 um)",
+   "technique": "Keck adaptive-optics NIR imaging (edge-on scattered light)",
+   "survey": null,
+   "file": "images/pds-144-n/pds-144-n_nirc22006.png",
+   "credit": "Perrin et al. 2006, Fig. 3 (crop)",
+   "paper": {
+    "first_author": "Perrin",
+    "year": 2006,
+    "title": "Discovery of an Optically Thick, Edge-on Disk around the Herbig Ae Star PDS 144N",
+    "journal": "ApJ",
+    "arxiv": "astro-ph/0603667",
+    "bibcode": "2006ApJ...645.1272P"
+   }
+  }
+ ],
+ "notes": "Added 2026-07-06 (Martinien+2026 ALMA highly-inclined disk). Coords pending SIMBAD. Coords set from literature (PDS 144 N Herbig Ae); SIMBAD 'PDS 144 N' did not resolve.",
+ "last_updated": "2026-07-07"
+}

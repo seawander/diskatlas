@@ -1,0 +1,44 @@
+{
+ "id": "r-cra-iras-32",
+ "name": "R CrA IRAS 32",
+ "alt_names": [
+  "IRAS 18595-3712"
+ ],
+ "simbad": "IRAS 18595-3712",
+ "ra_deg": 285.7446083333333,
+ "dec_deg": -37.12629722222222,
+ "dist_pc": 150,
+ "plx_mas": null,
+ "mags": null,
+ "sptype": null,
+ "region": "Corona Australis",
+ "categories": [
+  "protoplanetary"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "image_id": "r-cra-iras-32_edisk",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 6",
+   "wavelength_um": 1300,
+   "wavelength_label": "1.3 mm continuum",
+   "technique": "interferometry",
+   "survey": "eDisk",
+   "file": "images/r-cra-iras-32/r-cra-iras-32_edisk.png",
+   "credit": "Ohashi et al. 2023, Fig. 2 (crop)",
+   "hires_url": null,
+   "paper": {
+    "first_author": "Ohashi",
+    "year": 2023,
+    "title": "Early Planet Formation in Embedded Disks (eDisk). I. Overview and First Results",
+    "journal": "ApJ 951, 8",
+    "arxiv": "2306.15406",
+    "bibcode": "2023ApJ...951....8O"
+   }
+  }
+ ],
+ "notes": "Class 0 embedded protostar (eDisk)",
+ "last_updated": "2026-07-06"
+}

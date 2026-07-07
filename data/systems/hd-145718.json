@@ -1,0 +1,68 @@
+{
+ "id": "hd-145718",
+ "name": "HD 145718",
+ "alt_names": [],
+ "simbad": "HD 145718",
+ "ra_deg": 243.29829934833,
+ "dec_deg": -22.48517277431,
+ "dist_pc": 154.7,
+ "sptype": "A5Ve",
+ "region": null,
+ "categories": [
+  "protoplanetary"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "type": "disk_scattered",
+   "facility": "Gemini-GPI",
+   "instrument": "IFS pol",
+   "wavelength_um": 1.65,
+   "wavelength_label": "H band 1.6 um (pol. intensity)",
+   "technique": "PDI",
+   "image_id": "hd-145718_gemini-lights",
+   "survey": "Gemini-LIGHTS",
+   "file": "images/hd-145718/hd-145718_gemini-lights.png",
+   "credit": "Rich et al. 2022, continuous gallery (crop)",
+   "paper": {
+    "first_author": "Rich",
+    "year": 2022,
+    "title": "Gemini-LIGHTS: Herbig Ae/Be and Massive T Tauri Protoplanetary Disks Imaged with Gemini Planet Imager",
+    "journal": "AJ 164, 109",
+    "arxiv": "2206.05815",
+    "bibcode": "2022AJ....164..109R"
+   }
+  },
+  {
+   "image_id": "hd-145718_pionier2020",
+   "type": "disk_scattered",
+   "facility": "VLTI",
+   "instrument": "PIONIER",
+   "wavelength_um": 1.65,
+   "wavelength_label": "H band (1.65 micron), aperture-synthesis reconstructed image",
+   "technique": "interferometry",
+   "survey": null,
+   "credit": "Kluska et al. 2020, Fig. 2 (crop)",
+   "paper": {
+    "first_author": "Kluska",
+    "year": 2020,
+    "title": "A family portrait of disk inner rims around Herbig Ae/Be stars: Hunting for warps, rings, self shadowing, and misalignments in the inner astronomical units",
+    "journal": "Astronomy & Astrophysics",
+    "arxiv": "2004.01594",
+    "bibcode": null
+   },
+   "file": "images/hd-145718/hd-145718_pionier2020.png"
+  }
+ ],
+ "notes": null,
+ "last_updated": "2026-07-06",
+ "plx_mas": 6.4628,
+ "mags": {
+  "B": 9.29,
+  "V": 8.86,
+  "G": 8.758203,
+  "J": 7.69,
+  "H": 7.263,
+  "K": 6.693
+ }
+}

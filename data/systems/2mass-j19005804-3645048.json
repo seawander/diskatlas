@@ -1,0 +1,47 @@
+{
+ "id": "2mass-j19005804-3645048",
+ "name": "2MASS J19005804-3645048",
+ "alt_names": [],
+ "simbad": "2MASS J19005804-3645048",
+ "ra_deg": 285.24184882528,
+ "dec_deg": -36.7513569494,
+ "dist_pc": 156.4,
+ "plx_mas": 6.3957,
+ "mags": {
+  "G": 13.273423,
+  "J": 10.383,
+  "H": 9.512,
+  "K": 9.196
+ },
+ "sptype": "M0.75",
+ "region": "Corona Australis",
+ "categories": [
+  "protoplanetary"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "image_id": "2mass-j19005804-3645048_nircensus",
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS",
+   "wavelength_um": 1.65,
+   "wavelength_label": "H band polarized light",
+   "technique": "PDI",
+   "survey": "SPHERE-NIR-census",
+   "file": "images/2mass-j19005804-3645048/2mass-j19005804-3645048_nircensus.png",
+   "credit": "Garufi et al. 2026, Fig. A.1 (crop)",
+   "hires_url": null,
+   "paper": {
+    "first_author": "Garufi",
+    "year": 2026,
+    "title": "Planet-forming disks and their environment across regions and time from the full NIR census",
+    "journal": "A&A, in press",
+    "arxiv": "2603.01703",
+    "bibcode": null
+   }
+  }
+ ],
+ "notes": "SPHERE/IRDIS H-band polarimetric image (DESTINYS survey; shown as 'J1900-3645' in the paper's Corona Australis sky map). A tiny disk (0.2 arcsec) is detected with a P.A. of 90 deg, signal only along the E-W axis indicating a very inclined disk (Garufi et al. 2026).",
+ "last_updated": "2026-07-06"
+}

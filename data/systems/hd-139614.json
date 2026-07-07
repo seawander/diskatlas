@@ -1,0 +1,68 @@
+{
+ "id": "hd-139614",
+ "name": "HD 139614",
+ "alt_names": [],
+ "simbad": "HD 139614",
+ "ra_deg": 235.19325844809,
+ "dec_deg": -42.49820521162,
+ "dist_pc": 133.6,
+ "sptype": "A9VekA5mA5(_lB)",
+ "region": null,
+ "categories": [
+  "protoplanetary"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "type": "disk_scattered",
+   "facility": "Gemini-GPI",
+   "instrument": "IFS pol",
+   "wavelength_um": 1.24,
+   "wavelength_label": "J band 1.24 um (pol. intensity)",
+   "technique": "PDI",
+   "image_id": "hd-139614_gemini-lights",
+   "survey": "Gemini-LIGHTS",
+   "file": "images/hd-139614/hd-139614_gemini-lights.png",
+   "credit": "Rich et al. 2022, spirals gallery (crop)",
+   "paper": {
+    "first_author": "Rich",
+    "year": 2022,
+    "title": "Gemini-LIGHTS: Herbig Ae/Be and Massive T Tauri Protoplanetary Disks Imaged with Gemini Planet Imager",
+    "journal": "AJ 164, 109",
+    "arxiv": "2206.05815",
+    "bibcode": "2022AJ....164..109R"
+   }
+  },
+  {
+   "image_id": "hd-139614_sphere2020",
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS DPI",
+   "wavelength_um": 1.25,
+   "wavelength_label": "J/H band (1.25/1.65 um)",
+   "technique": "polarimetric differential imaging (DPI)",
+   "survey": null,
+   "file": "images/hd-139614/hd-139614_sphere2020.png",
+   "credit": "Muro-Arena et al. 2020, Fig. (data_annotated) (crop)",
+   "paper": {
+    "first_author": "Muro-Arena",
+    "year": 2020,
+    "title": "Shadowing and multiple rings in the protoplanetary disk of HD 139614",
+    "journal": "A&A 635, A121",
+    "arxiv": "1911.09612",
+    "bibcode": "2020A&A...635A.121M"
+   }
+  }
+ ],
+ "notes": null,
+ "last_updated": "2026-07-07",
+ "plx_mas": 7.484,
+ "mags": {
+  "B": 8.47,
+  "V": 8.24,
+  "G": 8.218988,
+  "J": 7.669,
+  "H": 7.333,
+  "K": 6.748
+ }
+}

@@ -1,0 +1,90 @@
+{
+ "id": "sz-91",
+ "name": "sz 91",
+ "alt_names": [],
+ "simbad": "sz 91",
+ "ra_deg": 241.79828060391,
+ "dec_deg": -39.06319225815,
+ "dist_pc": 159.4,
+ "sptype": "M0.5",
+ "region": "Lupus",
+ "categories": [
+  "protoplanetary"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "type": "disk_scattered",
+   "facility": "VLT-NACO",
+   "instrument": "NACO pol",
+   "wavelength_um": 2.18,
+   "wavelength_label": "Ks band (PIPPIN PDI reprocessing)",
+   "technique": "PDI",
+   "image_id": "sz-91_naco-pippin",
+   "file": "images/sz-91/sz-91_naco-pippin.png",
+   "survey": "NACO-PIPPIN",
+   "credit": "de Regt et al. 2024, Fig. 6 (crop)",
+   "paper": {
+    "first_author": "de Regt",
+    "year": 2024,
+    "title": "Polarimetric differential imaging with VLT/NACO. A comprehensive PDI pipeline for NACO data (PIPPIN)",
+    "journal": "A&A 684, A73",
+    "arxiv": "2404.02222",
+    "bibcode": "2024A&A...684A..73D"
+   }
+  },
+  {
+   "image_id": "sz-91_seeds",
+   "type": "disk_scattered",
+   "facility": "Subaru-HiCIAO",
+   "instrument": "HiCIAO",
+   "wavelength_um": 2.15,
+   "wavelength_label": "Ks band (pol. intensity)",
+   "technique": "PDI",
+   "survey": "SEEDS",
+   "file": "images/sz-91/sz-91_seeds.png",
+   "credit": "Tsukagoshi et al. 2014, Fig. 4a (crop: Ks PI + 345 GHz contours)",
+   "paper": {
+    "first_author": "Tsukagoshi",
+    "year": 2014,
+    "title": "High-resolution Submillimeter and Near-infrared Studies of the Transition Disk around Sz 91",
+    "journal": "ApJ 783, 90",
+    "arxiv": "1402.1538",
+    "bibcode": "2014ApJ...783...90T"
+   }
+  },
+  {
+   "image_id": "sz-91_alma2021",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 4",
+   "wavelength_um": 2100,
+   "wavelength_label": "2.1 mm (Band 4)",
+   "technique": "interferometric dust continuum imaging",
+   "survey": null,
+   "file": "images/sz-91/sz-91_alma2021.png",
+   "credit": "Mauco et al. 2021 (ALMA continuum; crop)",
+   "paper": {
+    "first_author": "Mauco",
+    "year": 2021,
+    "title": "Characterization of the dust content in the ring around Sz 91: indications for planetesimal formation?",
+    "journal": "ApJ",
+    "arxiv": "2108.12548",
+    "bibcode": "2021ApJ...923..128M"
+   }
+  }
+ ],
+ "notes": "AUTO-CREATED from staging - fill metadata & coords",
+ "last_updated": "2026-07-06",
+ "plx_mas": 6.2738,
+ "mags": {
+  "B": 16.25,
+  "V": 14.58,
+  "G": 14.377242,
+  "R": 14.11,
+  "I": 12.92,
+  "J": 11.055,
+  "H": 10.124,
+  "K": 9.848
+ }
+}

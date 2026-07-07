@@ -1,0 +1,88 @@
+{
+ "id": "doar-44",
+ "name": "DoAr 44",
+ "alt_names": [],
+ "simbad": "DoAr 44",
+ "ra_deg": 247.8894312488899,
+ "dec_deg": -24.46032186891,
+ "dist_pc": 146.3,
+ "sptype": "K3e",
+ "region": "Ophiuchus",
+ "categories": [
+  "protoplanetary"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS DPI",
+   "wavelength_um": 1.65,
+   "wavelength_label": "H band 1.6 um (pol. intensity)",
+   "technique": "PDI",
+   "image_id": "doar-44_dartts-s",
+   "survey": "DARTTS-S",
+   "file": "images/doar-44/doar-44_dartts-s.png",
+   "credit": "Avenhaus et al. 2018, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Avenhaus",
+    "year": 2018,
+    "title": "Disks around T Tauri Stars with SPHERE (DARTTS-S). I. SPHERE/IRDIS Polarimetric Imaging of Eight Prominent T Tauri Disks",
+    "journal": "ApJ 863, 44",
+    "arxiv": "1803.10882",
+    "bibcode": "2018ApJ...863...44A"
+   }
+  },
+  {
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 6",
+   "wavelength_um": 1300,
+   "wavelength_label": "1.3 mm continuum",
+   "technique": "interferometry",
+   "image_id": "doar-44_odisea",
+   "file": "images/doar-44/doar-44_odisea.png",
+   "survey": "ODISEA",
+   "credit": "Cieza et al. 2021, Fig. 3 (crop)",
+   "paper": {
+    "first_author": "Cieza",
+    "year": 2021,
+    "title": "The Ophiuchus DIsc Survey Employing ALMA (ODISEA) - III: the evolution of substructures in massive discs at 3-5 au resolution",
+    "journal": "MNRAS 501, 2934",
+    "arxiv": "2012.00189",
+    "bibcode": "2021MNRAS.501.2934C"
+   }
+  },
+  {
+   "image_id": "doar-44_casassus2018",
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE + ALMA",
+   "instrument": "IRDIS Qφ + Band 7 (336 GHz)",
+   "wavelength_um": 1.6,
+   "wavelength_label": "H-band Q_φ scattered light + 336 GHz continuum (shadowed ring / inner warp)",
+   "technique": "PDI",
+   "survey": null,
+   "file": "images/doar-44/doar-44_casassus2018.png",
+   "credit": "Casassus et al. 2018, Fig. 1 (panels a,b; crop)",
+   "paper": {
+    "first_author": "Casassus",
+    "year": 2018,
+    "title": "An inner warp in the DoAr 44 T Tauri transition disk",
+    "journal": "MNRAS 477, 5104",
+    "arxiv": "1804.02360",
+    "bibcode": "2018MNRAS.477.5104C"
+   }
+  }
+ ],
+ "notes": null,
+ "last_updated": "2026-07-06",
+ "plx_mas": 6.8343,
+ "mags": {
+  "B": 14.02,
+  "V": 12.8,
+  "G": 11.861982,
+  "J": 9.233,
+  "H": 8.246,
+  "K": 7.61
+ }
+}

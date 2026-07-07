@@ -1,0 +1,21 @@
+{
+ "survey": "j-kapand-scexao2018",
+ "survey_name": null,
+ "source_image": "images/_sources/_views/j-kapand-cons.png",
+ "pdf_page": null,
+ "panels": [
+  {
+   "id": "kappa-and",
+   "image_id": "kappa-and_scexao2018",
+   "bbox_frac": [
+    0,
+    0,
+    1,
+    1
+   ]
+  }
+ ],
+ "image_defaults": {},
+ "credit": "Currie et al. 2018, Fig. 2 (crop: CHARIS ADI, conservative)",
+ "paper": null
+}

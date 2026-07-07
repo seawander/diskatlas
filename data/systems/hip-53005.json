@@ -1,0 +1,81 @@
+{
+ "id": "hip-53005",
+ "name": "HIP 53005",
+ "alt_names": [],
+ "simbad": "HIP 53005",
+ "ra_deg": 162.65235438199,
+ "dec_deg": 23.40628647751,
+ "dist_pc": 73.64,
+ "plx_mas": 13.5791,
+ "mags": {
+  "B": 6.9,
+  "V": 6.58,
+  "G": 6.531703,
+  "J": 5.973,
+  "H": 5.857,
+  "K": 5.834
+ },
+ "sptype": "kA6hF0mF3(III)Sr",
+ "region": "field (accelerating star)",
+ "categories": [],
+ "planets": [
+  {
+   "name": "C",
+   "status": "candidate",
+   "method": "imaging",
+   "note": "Low-mass companion; mass ambiguous ~80 MJup (photometry) vs ~185 MJup (dynamics)",
+   "paper": {
+    "first_author": "Uyama",
+    "year": 2026,
+    "title": "Discovery of a Low-Mass Companion to the Accelerating Star HIP 53005 with Strongly Conflicting Mass Estimates",
+    "journal": "AJ (2026)",
+    "arxiv": "2604.03767",
+    "bibcode": null
+   }
+  }
+ ],
+ "images": [
+  {
+   "image_id": "hip-53005_scexao-uyama26",
+   "type": "planet",
+   "facility": "Subaru",
+   "instrument": "SCExAO/CHARIS",
+   "wavelength_um": 1.65,
+   "wavelength_label": "H band 1.65 um direct image (+ Keck/NIRC2)",
+   "technique": "coronagraphy",
+   "survey": null,
+   "file": "images/hip-53005/hip-53005_scexao-uyama26.png",
+   "credit": "Uyama et al. 2026, Fig. 4 (crop)",
+   "paper": {
+    "first_author": "Uyama",
+    "year": 2026,
+    "title": "Discovery of a Low-Mass Companion to the Accelerating Star HIP 53005 with Strongly Conflicting Mass Estimates",
+    "journal": "AJ (2026)",
+    "arxiv": "2604.03767",
+    "bibcode": null
+   }
+  },
+  {
+   "image_id": "hip-53005_nirc2-2024",
+   "type": "planet",
+   "facility": "Keck",
+   "instrument": "NIRC2",
+   "wavelength_um": 3.8,
+   "wavelength_label": "L' band",
+   "technique": "ADI",
+   "survey": null,
+   "credit": "Uyama et al. 2026, Fig. 4 (crop)",
+   "paper": {
+    "first_author": "Uyama",
+    "year": 2026,
+    "title": "Discovery of a Low-Mass Companion to the Accelerating Star HIP 53005 with Strongly Conflicting Mass Estimates",
+    "journal": "AJ",
+    "arxiv": "2604.03767",
+    "bibcode": null
+   },
+   "file": "images/hip-53005/hip-53005_nirc2-2024.png"
+  }
+ ],
+ "notes": "Added 2026-07-06. Directly-imaged companion host; coords verified via SIMBAD (2026-07-07 audit).",
+ "last_updated": "2026-07-07"
+}

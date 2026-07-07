@@ -1,0 +1,36 @@
+{
+ "survey": "o-hr8799-miri2024",
+ "survey_name": null,
+ "source_image": "images/_sources/extracted/2310.13414/images_raw_and_sub.pdf",
+ "pdf_page": 1,
+ "dpi": 220,
+ "credit": "Boccaletti et al. 2024, Fig. 1 (crop: bottom row, reference-subtracted images in F1065C/F1140C/F1550C/F2100W; planets b, c, d, e labeled in F1065C, inner-disk signature marked in F1550C/F2100W)",
+ "paper": {
+  "first_author": "Boccaletti",
+  "year": 2024,
+  "title": "Imaging detection of the inner dust belt and the four exoplanets in the HR 8799 system with JWST's MIRI coronagraph",
+  "journal": "A&A (2024)",
+  "arxiv": "2310.13414",
+  "bibcode": null
+ },
+ "panels": [
+  {
+   "id": "hr-8799",
+   "image_id": "hr-8799_miri2024",
+   "bbox_frac": [
+    0.0,
+    0.485,
+    1.0,
+    1.0
+   ]
+  }
+ ],
+ "image_defaults": {
+  "type": "planet",
+  "facility": "JWST",
+  "instrument": "MIRI",
+  "wavelength_um": 11.4,
+  "wavelength_label": "10.7-21 um MIRI coronagraphy; the four planets + inner dust belt",
+  "technique": "coronagraphy"
+ }
+}

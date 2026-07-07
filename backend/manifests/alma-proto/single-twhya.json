@@ -1,0 +1,36 @@
+{
+ "survey": "single-twhya",
+ "survey_name": null,
+ "source_image": "images/_sources/extracted/1603.09352/f1.pdf",
+ "pdf_page": 1,
+ "panels": [
+  {
+   "id": "tw-hya",
+   "image_id": "tw-hya_alma2016",
+   "bbox_frac": [
+    0.118056,
+    0.003226,
+    0.847222,
+    0.890323
+   ]
+  }
+ ],
+ "image_defaults": {
+  "type": "disk_mm",
+  "facility": "ALMA",
+  "instrument": "Band 7",
+  "wavelength_um": 870,
+  "wavelength_label": "870 um continuum",
+  "technique": "interferometry"
+ },
+ "credit": "Andrews et al. 2016, Fig. 1 (crop)",
+ "paper": {
+  "first_author": "Andrews",
+  "year": 2016,
+  "title": "Ringed Substructure and a Gap at 1 au in the Nearest Protoplanetary Disk",
+  "journal": "ApJL 820, L40",
+  "arxiv": "1603.09352",
+  "bibcode": "2016ApJ...820L..40A"
+ },
+ "_comment": "bbox at r200; includes 1-AU-gap zoom inset (top right)"
+}

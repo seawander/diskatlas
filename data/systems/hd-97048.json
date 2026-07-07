@@ -1,0 +1,231 @@
+{
+ "id": "hd-97048",
+ "name": "HD 97048",
+ "alt_names": [],
+ "simbad": "HD 97048",
+ "ra_deg": 167.01379572155,
+ "dec_deg": -77.65485854929,
+ "dist_pc": 184.4,
+ "sptype": "A0Vep",
+ "region": "Chamaeleon I",
+ "categories": [
+  "protoplanetary"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "type": "disk_scattered",
+   "facility": "Gemini-GPI",
+   "instrument": "IFS pol",
+   "wavelength_um": 1.65,
+   "wavelength_label": "H band 1.6 um (pol. intensity)",
+   "technique": "PDI",
+   "image_id": "hd-97048_gemini-lights",
+   "survey": "Gemini-LIGHTS",
+   "file": "images/hd-97048/hd-97048_gemini-lights.png",
+   "credit": "Rich et al. 2022, rings gallery (crop)",
+   "paper": {
+    "first_author": "Rich",
+    "year": 2022,
+    "title": "Gemini-LIGHTS: Herbig Ae/Be and Massive T Tauri Protoplanetary Disks Imaged with Gemini Planet Imager",
+    "journal": "AJ 164, 109",
+    "arxiv": "2206.05815",
+    "bibcode": "2022AJ....164..109R"
+   }
+  },
+  {
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS DPI",
+   "wavelength_um": 1.25,
+   "wavelength_label": "J band 1.25 um Qphi (r2-scaled); multiple rings",
+   "technique": "PDI",
+   "survey": null,
+   "credit": "Ginski et al. 2016, Fig. 2 (crop)",
+   "paper": {
+    "first_author": "Ginski",
+    "year": 2016,
+    "title": "Direct detection of scattered light gaps in the transitional disk around HD 97048 with VLT/SPHERE",
+    "journal": "A&A 595, A112",
+    "arxiv": "1609.04027",
+    "bibcode": "2016A&A...595A.112G"
+   },
+   "image_id": "hd-97048_sphere2016",
+   "file": "images/hd-97048/hd-97048_sphere2016.png"
+  },
+  {
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS Ks",
+   "wavelength_um": 2.18,
+   "wavelength_label": "Ks 2.2 um (total intensity, RDI)",
+   "technique": "RDI",
+   "image_id": "hd-97048_sphere-ks-rdi",
+   "survey": "SPHERE-Ks-RDI",
+   "file": "images/hd-97048/hd-97048_sphere-ks-rdi.png",
+   "credit": "Ren et al. 2023, Ks total-intensity gallery (crop)",
+   "paper": {
+    "first_author": "Ren",
+    "year": 2023,
+    "title": "Protoplanetary disks in Ks-band total intensity and polarized light",
+    "journal": "A&A 680, A114",
+    "arxiv": "2310.08589",
+    "bibcode": "2023A&A...680A.114R"
+   }
+  },
+  {
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS DPI",
+   "wavelength_um": 2.18,
+   "wavelength_label": "K band 2.2 um (Qphi pol. intensity)",
+   "technique": "PDI",
+   "image_id": "hd-97048_sphere-chami",
+   "file": "images/hd-97048/hd-97048_sphere-chami.png",
+   "survey": "SPHERE-ChamI",
+   "credit": "Ginski et al. 2024, Fig. 2 (crop)",
+   "paper": {
+    "first_author": "Ginski",
+    "year": 2024,
+    "title": "The SPHERE view of the Chamaeleon I star-forming region: The full census of planet-forming disks with GTO and DESTINYS programs",
+    "journal": "A&A 685, A52",
+    "arxiv": "2403.02149",
+    "bibcode": "2024A&A...685A..52G"
+   }
+  },
+  {
+   "type": "disk_scattered",
+   "facility": "VLT-NACO",
+   "instrument": "NACO pol",
+   "wavelength_um": 2.18,
+   "wavelength_label": "Ks band (PIPPIN PDI reprocessing)",
+   "technique": "PDI",
+   "image_id": "hd-97048_naco-pippin",
+   "file": "images/hd-97048/hd-97048_naco-pippin.png",
+   "survey": "NACO-PIPPIN",
+   "credit": "de Regt et al. 2024, Fig. 6 (crop)",
+   "paper": {
+    "first_author": "de Regt",
+    "year": 2024,
+    "title": "Polarimetric differential imaging with VLT/NACO. A comprehensive PDI pipeline for NACO data (PIPPIN)",
+    "journal": "A&A 684, A73",
+    "arxiv": "2404.02222",
+    "bibcode": "2024A&A...684A..73D"
+   }
+  },
+  {
+   "image_id": "hd-97048_alice-f110w",
+   "type": "disk_scattered",
+   "facility": "HST",
+   "instrument": "NICMOS",
+   "wavelength_um": 1.1,
+   "wavelength_label": "F110W 1.1 um (ALICE archival reprocessing, combined coadd)",
+   "technique": "RDI",
+   "survey": "ALICE",
+   "file": "images/hd-97048/hd-97048_alice-f110w.png",
+   "credit": "ALICE HLSP v1 combined coadd (HST program 11155, STScI) — hi-res: ALICE archive (STScI)",
+   "paper": {
+    "first_author": "Hagan",
+    "year": 2018,
+    "title": "ALICE Data Release: A revaluation of HST-NICMOS coronagraphic images",
+    "journal": "AJ 155, 179",
+    "arxiv": "1802.07754",
+    "bibcode": null
+   },
+   "hires_url": "https://archive.stsci.edu/prepds/alice/"
+  },
+  {
+   "image_id": "hd-97048_visir2007",
+   "type": "disk_scattered",
+   "facility": "VLT",
+   "instrument": "VISIR",
+   "wavelength_um": 11.3,
+   "wavelength_label": "11.3 micron (PAH2, mid-IR)",
+   "technique": "other",
+   "survey": null,
+   "credit": "Doucet et al. 2007, Fig. 2 (crop)",
+   "paper": {
+    "first_author": "Doucet",
+    "year": 2007,
+    "title": "HD97048: a closer look to the disk",
+    "journal": "Astronomy & Astrophysics",
+    "arxiv": "0704.3678",
+    "bibcode": null
+   },
+   "file": "images/hd-97048/hd-97048_visir2007.png"
+  },
+  {
+   "image_id": "hd-97048_acs2007",
+   "type": "disk_scattered",
+   "facility": "HST",
+   "instrument": "ACS/HRC coronagraph",
+   "wavelength_um": 0.606,
+   "wavelength_label": "F606W (broad V) coronagraphic imaging",
+   "technique": "coronagraphy",
+   "survey": null,
+   "credit": "Doering et al. 2007, Fig. 2 (crop)",
+   "paper": {
+    "first_author": "Doering",
+    "year": 2007,
+    "title": "HD 97048's Circumstellar Environment as Revealed by a HST/ACS Coronagraphic Study of Disk Candidate Stars",
+    "journal": "AJ 133, 2122",
+    "arxiv": "astro-ph/0701576",
+    "bibcode": null
+   },
+   "file": "images/hd-97048/hd-97048_acs2007.png"
+  },
+  {
+   "image_id": "hd-97048_sphere-ks-qphi",
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS",
+   "wavelength_um": 2.18,
+   "wavelength_label": "Ks band 2.2 um (pol. intensity, Qphi)",
+   "technique": "PDI",
+   "survey": "SPHERE-Ks-RDI",
+   "credit": "Ren et al. 2023, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Ren",
+    "year": 2023,
+    "title": "Protoplanetary disks in $K_s$-band total intensity and polarized light",
+    "journal": "A&A 680, A114",
+    "arxiv": "2310.08589",
+    "bibcode": "2023A&A...680A.114R"
+   },
+   "file": "images/hd-97048/hd-97048_sphere-ks-qphi.png"
+  },
+  {
+   "image_id": "hd-97048_sphere-rdi-xie22",
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS",
+   "wavelength_um": 1.65,
+   "wavelength_label": "total intensity (H23, RDI)",
+   "technique": "RDI",
+   "survey": null,
+   "credit": "Xie et al. 2022, Fig. 9 (crop)",
+   "paper": {
+    "first_author": "Xie",
+    "year": 2022,
+    "title": "Reference-star differential imaging on SPHERE/IRDIS",
+    "journal": "A&A 666, A32",
+    "arxiv": "2208.07915",
+    "bibcode": null
+   },
+   "file": "images/hd-97048/hd-97048_sphere-rdi-xie22.png"
+  }
+ ],
+ "notes": null,
+ "last_updated": "2026-07-07",
+ "plx_mas": 5.4228,
+ "mags": {
+  "U": 9.03,
+  "B": 8.76,
+  "V": 9.0,
+  "G": 8.352166,
+  "I": 8.64,
+  "J": 7.267,
+  "H": 6.665,
+  "K": 5.941
+ }
+}

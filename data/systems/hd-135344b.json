@@ -1,0 +1,192 @@
+{
+ "id": "hd-135344b",
+ "name": "HD 135344 B",
+ "alt_names": [
+  "SAO 206462",
+  "HD 135344B"
+ ],
+ "simbad": "HD 135344B",
+ "ra_deg": 228.9518583605,
+ "dec_deg": -37.15445121384,
+ "dist_pc": 135.0,
+ "sptype": "F8V",
+ "region": "Sco-Cen",
+ "categories": [
+  "protoplanetary"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "technique": "interferometry",
+   "instrument": "Band 7",
+   "wavelength_um": 900,
+   "wavelength_label": "0.9 mm continuum",
+   "image_id": "hd-135344b_exoalma",
+   "survey": "exoALMA",
+   "file": "images/hd-135344b/hd-135344b_exoalma.png",
+   "credit": "Curone et al. 2025, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Curone",
+    "year": 2025,
+    "title": "exoALMA IV: Substructures, Asymmetries, and the Faint Outer Disk in Continuum Emission",
+    "journal": "ApJL (exoALMA special issue)",
+    "arxiv": "2504.18725",
+    "bibcode": null
+   }
+  },
+  {
+   "type": "disk_scattered",
+   "facility": "Subaru-HiCIAO",
+   "instrument": "HiCIAO",
+   "wavelength_um": 1.65,
+   "wavelength_label": "H band 1.6 um (pol. intensity)",
+   "technique": "PDI",
+   "survey": "SEEDS",
+   "credit": "Muto et al. 2012, Fig. 2 (crop)",
+   "paper": {
+    "first_author": "Muto",
+    "year": 2012,
+    "title": "Discovery of Small-Scale Spiral Structures in the Disk of SAO 206462 (HD 135344B): Implications for the Physical State of the Disk from Spiral Density Wave Theory",
+    "journal": "ApJL 748, L22",
+    "arxiv": "1202.6139",
+    "bibcode": null
+   },
+   "image_id": "hd-135344b_seeds2012",
+   "file": "images/hd-135344b/hd-135344b_seeds2012.png"
+  },
+  {
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS Ks",
+   "wavelength_um": 2.18,
+   "wavelength_label": "Ks 2.2 um (total intensity, RDI)",
+   "technique": "RDI",
+   "image_id": "hd-135344b_sphere-ks-rdi",
+   "survey": "SPHERE-Ks-RDI",
+   "file": "images/hd-135344b/hd-135344b_sphere-ks-rdi.png",
+   "credit": "Ren et al. 2023, Ks total-intensity gallery (crop)",
+   "paper": {
+    "first_author": "Ren",
+    "year": 2023,
+    "title": "Protoplanetary disks in Ks-band total intensity and polarized light",
+    "journal": "A&A 680, A114",
+    "arxiv": "2310.08589",
+    "bibcode": "2023A&A...680A.114R"
+   }
+  },
+  {
+   "type": "disk_scattered",
+   "facility": "VLT-NACO",
+   "instrument": "NACO pol",
+   "wavelength_um": 2.18,
+   "wavelength_label": "Ks band (PIPPIN PDI reprocessing)",
+   "technique": "PDI",
+   "image_id": "hd-135344b_naco-pippin",
+   "file": "images/hd-135344b/hd-135344b_naco-pippin.png",
+   "survey": "NACO-PIPPIN",
+   "credit": "de Regt et al. 2024, Fig. 6 (crop)",
+   "paper": {
+    "first_author": "de Regt",
+    "year": 2024,
+    "title": "Polarimetric differential imaging with VLT/NACO. A comprehensive PDI pipeline for NACO data (PIPPIN)",
+    "journal": "A&A 684, A73",
+    "arxiv": "2404.02222",
+    "bibcode": "2024A&A...684A..73D"
+   }
+  },
+  {
+   "image_id": "hd-135344b_sphere2016",
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS",
+   "wavelength_um": 1.245,
+   "wavelength_label": "J band Q_phi (r^2-scaled); spirals + shadows cast by the inner disk",
+   "technique": "PDI",
+   "survey": null,
+   "file": "images/hd-135344b/hd-135344b_sphere2016.png",
+   "credit": "Stolker et al. 2016, Fig. 2 (crop: IRDIS J-band r^2-scaled Q_phi image; spiral arms + shadow lanes cast by the inner disk)",
+   "paper": {
+    "first_author": "Stolker",
+    "year": 2016,
+    "title": "Shadows cast on the transition disk of HD 135344B: Multiwavelength VLT/SPHERE polarimetric differential imaging",
+    "journal": "A&A 595, A113",
+    "arxiv": "1603.00481",
+    "bibcode": "2016A&A...595A.113S"
+   }
+  },
+  {
+   "image_id": "hd-135344b_alice-f110w",
+   "type": "disk_scattered",
+   "facility": "HST",
+   "instrument": "NICMOS",
+   "wavelength_um": 1.1,
+   "wavelength_label": "F110W 1.1 um (ALICE archival reprocessing, combined coadd)",
+   "technique": "RDI",
+   "survey": "ALICE",
+   "file": "images/hd-135344b/hd-135344b_alice-f110w.png",
+   "credit": "ALICE HLSP v1 combined coadd (HST program 10177, STScI) — hi-res: ALICE archive (STScI)",
+   "paper": {
+    "first_author": "Hagan",
+    "year": 2018,
+    "title": "ALICE Data Release: A revaluation of HST-NICMOS coronagraphic images",
+    "journal": "AJ 155, 179",
+    "arxiv": "1802.07754",
+    "bibcode": null
+   },
+   "hires_url": "https://archive.stsci.edu/prepds/alice/"
+  },
+  {
+   "image_id": "hd-135344b_nircam2026",
+   "type": "disk_scattered",
+   "facility": "JWST",
+   "instrument": "NIRCam",
+   "wavelength_um": 4.1,
+   "wavelength_label": "F410M (4.1 micron)",
+   "technique": "ADI",
+   "survey": null,
+   "credit": "Latour et al. 2026, Fig. A.1 (crop)",
+   "paper": {
+    "first_author": "Latour",
+    "year": 2026,
+    "title": "Multi-epoch scattered-light analysis of HD 135344B: new evidence for a spiral-driving protoplanet",
+    "journal": "Astronomy & Astrophysics (submitted/in press)",
+    "arxiv": "2606.10624",
+    "bibcode": null
+   },
+   "file": "images/hd-135344b/hd-135344b_nircam2026.png"
+  },
+  {
+   "image_id": "hd-135344b_sphere-ks-qphi",
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS",
+   "wavelength_um": 2.18,
+   "wavelength_label": "Ks band 2.2 um (pol. intensity, Qphi)",
+   "technique": "PDI",
+   "survey": "SPHERE-Ks-RDI",
+   "credit": "Ren et al. 2023, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Ren",
+    "year": 2023,
+    "title": "Protoplanetary disks in $K_s$-band total intensity and polarized light",
+    "journal": "A&A 680, A114",
+    "arxiv": "2310.08589",
+    "bibcode": "2023A&A...680A.114R"
+   },
+   "file": "images/hd-135344b/hd-135344b_sphere-ks-qphi.png"
+  }
+ ],
+ "notes": null,
+ "last_updated": "2026-07-07",
+ "plx_mas": 7.4074,
+ "mags": {
+  "B": 9.21,
+  "V": 8.708,
+  "G": 8.514243,
+  "J": 7.279,
+  "H": 6.587,
+  "K": 5.843
+ }
+}

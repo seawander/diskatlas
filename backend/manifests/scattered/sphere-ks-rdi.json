@@ -1,0 +1,49 @@
+{
+ "survey": "sphere-ks-rdi",
+ "survey_name": "SPHERE-Ks-RDI",
+ "source_image": "images/_sources/extracted/2310.08589/fig-K_Total-good.pdf",
+ "pdf_page": 1,
+ "dpi": 240,
+ "grid": {
+  "rows": 3,
+  "cols": 6,
+  "image_id_pattern": "{id}_sphere-ks-rdi",
+  "order": [
+   "cq-tau",
+   "hd-34282",
+   "hd-97048",
+   "hd-100453",
+   "hd-100546",
+   "hd-143006",
+   "hd-169142",
+   "lkca-15",
+   "lkha-330",
+   null,
+   null,
+   "mwc-758",
+   "pds-66",
+   "pds-201",
+   "hd-135344b",
+   null,
+   "sz-cha",
+   "v1247-ori"
+  ]
+ },
+ "image_defaults": {
+  "type": "disk_scattered",
+  "facility": "VLT-SPHERE",
+  "instrument": "IRDIS Ks",
+  "wavelength_um": 2.18,
+  "wavelength_label": "Ks 2.2 um (total intensity, RDI)",
+  "technique": "RDI"
+ },
+ "credit": "Ren et al. 2023, Ks total-intensity gallery (crop)",
+ "paper": {
+  "first_author": "Ren",
+  "year": 2023,
+  "title": "Protoplanetary disks in Ks-band total intensity and polarized light",
+  "journal": "A&A 680, A114",
+  "arxiv": "2310.08589",
+  "bibcode": "2023A&A...680A.114R"
+ }
+}

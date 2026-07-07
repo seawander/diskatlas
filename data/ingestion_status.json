@@ -1,0 +1,243 @@
+{
+ "_doc": "Per-survey ingestion state. entries/coords/images: done|partial|todo. Update on every ingest.",
+ "updated": "2026-07-07 FINAL for this session: 401 systems / 1181 image records (all local) / 65 imaged-companion hosts / 0 errors / SIMBAD 399/399 resolvable idents coordinate-verified (2 explicit-null quasars use coordinate links). 400+ systems / 1160+ records / 0 errors. Done: SEEDS Tamura Fig.3 completed (+AB Aur close-up); instrument-level sweep v2 over ALL systems (44 agents, ~140 verified new-instrument crops incl. far-IR scope extension); Hom+2024 GPI totI; Ren+2023 Ks Qphi completion; Xie+2022 RDI gallery; MAPS CO maps; pre-ALMA mm classics; user-batch figures (beta Pic d, WISPIT 2, HD 142527 B, AB Aur moment-1, 49 Cet, TWA 7, HR 8799 archival, MUSE maps, ACS gaps); survey batches eDisk(17)/AGE-PRO(16)/SPHERE-NIR-census(25)/sigma Ori(pending)/eruptive stars(4+Z CMa); paper-finder Skill run 1 (25+ new companion hosts & disks: PZ Tel B, VHS J1256 b, HD 33632 Ab, HIP 21152 B, RY Lup, SR 12 c, Wray 15-788, CVSO 30, HD 143811...); catalog cross-checks (Wikipedia 20 missing verified; circumstellardisks.org 323 mined, proplyd+Herschel-debris waves launched). Data fixes: hip-79977 merged into hd-146897 (duplicate); 5 HSC quasar name signs; YSES 2b refuted; wrong ids fixed (HD 169142 planet 2303.03652->2302.11302; beta Pic c; YSES-1 b/c swap; FW Tau 1303.4525->1311.7664). Frontend: Instrument facet; Facility facet = AAS keywords (facility_map.py, VLT>=VLTI rule); light/dark theme; airmass.org chart links; SciX citation linkifier + extra_papers; SIMBAD audit (25 idents repaired, coord-verified) + coordinate-link fallback; panel-only crop trim (450 files). Still in flight at time of writing: sweep chunks 01/08/11, Kurtovic ALMA-summary batch, proplyds x3, Herschel-debris x2, PF2. See _ledgers for bookkeeping split.",
+ "surveys": {
+  "DSHARP": {
+   "entries": "done",
+   "coords": "done",
+   "images": "done",
+   "notes": "20/20"
+  },
+  "Taurus-Long2018": {
+   "entries": "done",
+   "coords": "done",
+   "images": "done",
+   "notes": "12/12"
+  },
+  "Taurus-Long2019": {
+   "entries": "done",
+   "coords": "done",
+   "images": "done",
+   "notes": "32/32 incl. 20 compact; CIDA 9 coords decoded from 2MASS id"
+  },
+  "exoALMA": {
+   "entries": "done",
+   "coords": "done",
+   "images": "done",
+   "notes": "15/15 continuum (exoALMA IV); exoALMA I source tarball unavailable on arXiv -> journal ref still _verify"
+  },
+  "ODISEA": {
+   "entries": "done",
+   "coords": "done",
+   "images": "done",
+   "notes": "10/10 (Cieza+2021 Fig. 3)"
+  },
+  "REASONS": {
+   "entries": "done",
+   "coords": "done",
+   "images": "done",
+   "notes": "74/74 belts; confused-source appendix excluded"
+  },
+  "ARKS": {
+   "entries": "done",
+   "coords": "done",
+   "images": "done",
+   "notes": "24/24"
+  },
+  "GPIES-debris": {
+   "entries": "done",
+   "coords": "done",
+   "images": "done",
+   "notes": "26 debris (24 Qphi + 2 totI-only) + beta Pic/AU Mic totI extras"
+  },
+  "GPIES-ppd": {
+   "entries": "done",
+   "coords": "done",
+   "images": "done",
+   "notes": "AK Sco, HD 100546, HD 141569 (Fig. 9)"
+  },
+  "Gemini-LIGHTS": {
+   "entries": "done",
+   "coords": "done",
+   "images": "done",
+   "notes": "22 resolved detections; HD 135344B & MWC 758 NOT in sample; HD 150193 undetermined (excluded)"
+  },
+  "DARTTS-S": {
+   "entries": "done",
+   "coords": "done",
+   "images": "done",
+   "notes": "8/8 + J-band extras for IM/RU Lup"
+  },
+  "SPHERE-Taurus": {
+   "entries": "done",
+   "coords": "done",
+   "images": "done",
+   "notes": "32 detections (Garufi+2024); 11 non/ambient excluded"
+  },
+  "SPHERE-ChamI": {
+   "entries": "done",
+   "coords": "done",
+   "images": "done",
+   "notes": "13 detections (Ginski+2024) incl. CHX 22 caveat"
+  },
+  "DESTINYS-Orion": {
+   "entries": "done",
+   "coords": "done",
+   "images": "done",
+   "notes": "10 detections (Valegard+2024); V351 Ori = pds-201"
+  },
+  "STIS-Schneider14": {
+   "entries": "done",
+   "coords": "done",
+   "images": "done",
+   "notes": "11 targets (10 debris + MP Mus)"
+  },
+  "STIS-Ren (Ren+2023 color)": {
+   "entries": "done",
+   "coords": "done",
+   "images": "done",
+   "notes": "23 STIS + 23 NICMOS crops (arXiv 2302.04273); the separate AAS240 Sco-Cen STIS program remains unpublished - records removed"
+  },
+  "SPHERE-Ks-RDI": {
+   "entries": "done",
+   "coords": "done",
+   "images": "done",
+   "notes": "15 disks (Ren+2023, 2310.08589)"
+  },
+  "SPHERE-debris-2025": {
+   "entries": "done",
+   "coords": "done",
+   "images": "done",
+   "notes": "50 systems cropped (Engler+2025); bd-20-951 coords resolved"
+  },
+  "DISCS": {
+   "entries": "done",
+   "coords": "done",
+   "images": "done",
+   "notes": "4 disks; first author Hom (2505.02976)"
+  },
+  "ALICE": {
+   "entries": "done",
+   "coords": "done",
+   "images": "done",
+   "notes": "FULL: 61 official HLSP combined-coadd previews attached for all atlas systems in the ALICE archive (backend/alice_ingest.py, cross-match table inside) + 4 first-image disks from Choquet+2016 crops; hd-104860 preview URL 404 (pending); non-atlas ALICE targets (mostly non-detections) intentionally excluded"
+  },
+  "NACO-PIPPIN": {
+   "entries": "done",
+   "coords": "done",
+   "images": "done",
+   "notes": "14 disk detections cropped; 8 envelope/outflow sources excluded; all coords resolved"
+  },
+  "SEEDS": {
+   "entries": "done",
+   "coords": "done",
+   "images": "done",
+   "notes": "COMPLETE 2026-07-06: all 20 panels of Tamura 2016 (PJA Ser. B 92, 45) Fig. 3 verified in atlas - 19 via original-paper crops (VIEW-checked against the gallery) + ab-aur_seeds2011-closeup added from Fig. 3 itself. Source PDF fetched via Europe PMC -> images/_sources/extra/tamura2016-seeds.pdf. gm-aur/hd-142527/lkha-330 panels credit Tamura 2016 Fig. 3 (originals are 'in prep.' per caption: Oh, Fukagawa, Bonnefoy)."
+  },
+  "planets-discovery": {
+   "entries": "done",
+   "coords": "done",
+   "images": "done",
+   "notes": "28 discovery images incl. 2M1207, GQ Lup, DH Tau, HD 135344 Ab, TWA 7 b, 14 Her c, YSES-1/2"
+  },
+  "planets-epochs": {
+   "entries": "done",
+   "coords": "done",
+   "images": "done",
+   "notes": "GRAVITY (beta Pic b&c, HR 8799 e, AF Lep b, HD 135344 Ab), JWST (HR 8799, 51 Eri, PDS 70, AF Lep, HIP 65426, eps Ind-pending, TWA 7 b), AF Lep all 4 discovery/confirmation channels"
+  },
+  "transiting-in-disk": {
+   "entries": "done",
+   "coords": "done",
+   "images": "done",
+   "notes": "AU Mic b (Plavchan+2020 Fig.2a) + c (Martioli+2021=2012.13238 Fig.6) light curves cropped"
+  },
+  "classics-pre2005": {
+   "entries": "done",
+   "coords": "done",
+   "images": "done",
+   "notes": "All done incl. Smith&Terrile 1984 (user PDF), Grady 1999/2000, Schneider 2003 (browser PDFs). aa-tau_hst2013 (Cox+2013) panel present (no arXiv source; ADS-linked)."
+  },
+  "individual-classics": {
+   "entries": "done",
+   "coords": "done",
+   "images": "done",
+   "notes": "all formerly-pending no-source records now have local panels (eps-ind-a_jwst2024, beta-pic_alma2014, au-mic_acs2005/sphere2015, hd-32297_stis2005, hd-141569_acs2003, hd-100546_acs2007+alma2014, 1rxs-j1609_gemini2008)"
+  },
+  "misc-new-targets-2026-07": {
+   "entries": "partial",
+   "coords": "done",
+   "images": "done",
+   "notes": "New systems: lkha-263c (JEDIce JWST/NIRSpec near-IR continuum, Bergner+2026 arXiv:2603.18163 Fig.1), hip-17453 (brown-dwarf companion B, Keck/NIRC2 Ks, C-BASS survey, Brinjikji+2026 arXiv:2606.30733 Fig.1), iras-23077-6707 'Dracula's Chivito' (HST/WFC3 scattered-light composite, Monsch+2025 arXiv:2510.11819 Fig.1; + SMA 1.3mm/12CO, Monsch+2024 arXiv:2402.01941 Fig.1), hip-71618 (substellar companion B, Subaru-SCExAO/CHARIS, OASIS survey, El Morsy+2025 arXiv:2512.02126 Fig.2). Skipped: OphE MM3 (JEDIce NIRSpec obs never obtained - failed guide-star acquisition, no image data in program-overview paper)."
+  },
+  "EdgeOn-ALMA-2020": {
+   "entries": "done",
+   "coords": "done",
+   "images": "done",
+   "notes": "Villenave+2020 Fig.1: all 12 edge-on disks + band-4/6 extras (22 crops)"
+  },
+  "edge-on singles": {
+   "entries": "done",
+   "coords": "done",
+   "images": "done",
+   "notes": "Oph 163131 (Villenave+2022), Tau 042021 JWST (Duchene+2024), IRAS 04302 VLA (Villenave+2023)"
+  },
+  "COCONUTS": {
+   "entries": "done",
+   "coords": "done",
+   "images": "done",
+   "notes": "COCONUTS-1 Fig.1 + COCONUTS-2 b discovery panel"
+  },
+  "sweep-additions": {
+   "entries": "done",
+   "coords": "done",
+   "images": "done",
+   "notes": "12 dedicated ALMA debris maps (HD 32297...49 Cet) + Vega STIS halo + HD 95086 SPHERE + HD 34700 DESTINYS(=Columba+2024)"
+  },
+  "quasar-hosts": {
+   "entries": "done",
+   "coords": "done",
+   "images": "done",
+   "notes": "12 quasar hosts, coords+mags 12/12, ALL images cropped. 3C 273 (Ren+2024 STIS + Bahcall+1995 Plate 19 + Martel+2003 ACS/HRC Fig.6 host galaxy), Bahcall 1994 four, Bahcall 1995 trio, HSC J2236/J2255 JWST, NGC 1068 all 3 SPHERE (Gratadour+2015 Fig.1 pol.intensity, Rouan+2019 Fig.1 H/Ks nucleus [arXiv 1809.10254 - corrected from prior 'no arXiv'], Grosset+2021 Cnt K1)."
+  },
+  "eDisk": {
+   "entries": "done",
+   "coords": "done",
+   "images": "done",
+   "notes": "17/19 new systems created (Ohashi et al. 2023, Fig. 2 gallery crops, 1.3mm ALMA Band 6); iras-04302-2247 and wly-2-63 (=Oph IRS63) already existed in atlas, skipped per brief. Coords: SIMBAD where resolvable, else paper Table 1 (BHR71 IRS1/IRS2, GSS30 IRS3, R CrA IRS5N/IRS7B)."
+  },
+  "SPHERE-NIR-census": {
+   "entries": "partial",
+   "coords": "partial",
+   "images": "partial",
+   "notes": "Garufi et al. 2026 (2603.01703) full NIR disk census, Fig. A.1 gallery (arXiv PDF page 21). Multi-agent sweep in progress across the ~268-target sample; 26 systems ingested so far (part 1 + part 2 batches), incl. 12 from part 2 (LkHa 345, KK Oph, 2MASS J19005804-3645048 [=J1900-3645 on the CrA map], HO Lup A, Sz 72, Sz 51 [=V* BC Cha, Chamaeleon not Lupus], Sz 134, 2MASS J16064794-1841437 [=J1606-1841], DoAr 28, Sz 111, SR 13, LkHa 348 [=IRAS 18316-0028, Serpens, dist ~2 kpc]). AX Cha SKIPPED: paper's Table A.3 classifies it 'Ambient' (not a disk detection; polarized signal from ~2500 au, likely unrelated envelope/background). Many more targets remain (non-detections excluded by design; several 'Ambient'/marginal sources intentionally skipped per brief)."
+  },
+  "paper-finder-3A": {
+   "entries": "done",
+   "coords": "done",
+   "images": "done",
+   "notes": "9 classic directly-imaged companion discoveries: PZ Tel B, CD-35 2722 B, HD 1160 B+C, HIP 78530 B, HR 3549 B, FW Tau C (refuted, arXiv id corrected 1303.4525->1311.7664), 2M J04414489 b, J0219-3925 B (BANYAN VI), VHS J1256-1257 b. All with SIMBAD coords + verified discovery-figure crops."
+  },
+  "user-cancelled-2026-07-07": {
+   "entries": "todo",
+   "coords": "todo",
+   "images": "todo",
+   "notes": "User stopped these agent batches mid-flight on 2026-07-07 (do not relaunch unless asked): instrument-sweep crop chunks 01/08/11 (~35 verified findings from ingest-plan.json remain uncropped, incl. AK Sco SPHERE, alpha Cen A?, ci-tau VLA, hd-98800 ALMA+VLA, mwc-297/mwc-614, WW Cha GRAVITY, PG quasar hosts, kappa And MIRI, hd-92945...: cross-check data/paper_finder-era ingest-plan.json vs data/systems before redoing); Kurtovic+2026 ALMA archival summary (2605.30023 Fig. 25 gallery); Orion proplyds x3 batches (37 targets from circumstellardisks.org/Wikipedia); Herschel-debris hosts x2 batches (20 targets: 61 Vir, tau Cet, kappa CrB, 99 Her, Denebola, beta UMa, alpha CrB, lambda Boo, zeta Lep/T-ReCS, HD 200775...). Also still queued: ~340 paper-finder candidates (data/paper_finder/triage-queue.json), embedded-YSO catalog batch (L1551 IRS 5, V892 Tau, WL 16, Gomez's Hamburger, CoKu Tau 1, FN Tau, CB 26...), stragglers (T Cha, SR 20, V1094 Sco, J1850-3147), csdorg instrument-gap recheck."
+  }
+ },
+ "known_missing": [
+  "DONE 2026-07-06 (fetched + cropped + built this session, this env has live network so ran the full pipeline directly): Choquet+2018 (1801.05424) HD 104860 + HD 192758 NICMOS; Crotts+2024 (2311.14599, GPI Qphi Paper I - NOT Hom) 12 gallery disks cropped (hd-32297/35841/61005/106906/110058/111520 Fig.1; hd-114082/115600/129590/146897/157587/191089 Fig.2); eps Ind Ab 2nd JWST epoch Matthews+2026 (2603.08780, F1140C); DESTINYS CrA Columba+2026 (2511.01717) V721 CrA + BN CrA [new systems, coords set]; beta Pic JWST Rebollido+2024 (2401.05271) NIRCam + MIRI; AU Mic JWST Lawson+2023 (2308.02486); HD 181327 JWST NIRSpec Xie+2025 (2505.08863); HD 120326 Desgrange+2025 (2504.15352) HST/STIS + SPHERE-ADI; TWA 20 Palatnick+2025 (2510.20216) [new system, coords set].",
+  "DONE 2026-07-06 (user browser-downloaded the 2 captcha-blocked PDFs): hd-61005_nicmos-hines07 (Hines+2007 'The Moth', Fig.3 NICMOS F110W) and hd-141569_jwst-nircam (Millar-Blanchaer+2025 Fig.3 NIRCam F300M/F360M; bibcode resolved to 2025ApJ...994..199M). ALL 782 image records now have local panels (0 pending).",
+  "EXCLUDED after viewing source / scope check: TWA 7 Lagrange+2025 MIRI (2502.15081) Fig.1 is the PLANET image (already = twa-7_jwst2025), disk NOT resolved there; HD 120326 ALMA 1.3mm unresolved point source; 11 Crotts+2024 sample members NOT in the two data galleries (au-mic, beta-pic, twa-7, hr-4796a, hd-30447/117214/131835/145560/156623/111161, hr-7012) - all already have GPIES records, so the empty Crotts records were dropped; ARKS II/III/IV (2601.13670/2601.12128/2601.11712) modeling+CO only; ARKS V/Milli+2026 (2601.12586) re-uses ARKS I images (HR 4796 redundant, TYC 9340-437-1 marginal); HD 15115 Kalas+2007 (0704.0645, ACS) & HD 32297 Schneider+2005 (astro-ph/0507355) already in atlas.",
+  "STILL OPEN for future sessions: Hom+2024 GPI total-intensity Paper II (2402.00214); MAPS line-emission maps; PdBI/SMA pre-ALMA mm classics.",
+  "DONE 2026-07-06 batch 2 (user-supplied + recent-arXiv scan, instrument-level comprehensiveness): HD 92945 HST/ACS Golimowski+2011 (1105.0888 - resolved disk is Fig.3, NOT Fig.5 which is a profile plot) + JWST/NIRCam Lazzoni+2025 (2511.07561); HD 106906 JWST/MIRI Rouan+2025 (2504.13679); Subaru/SCExAO Mullin+2026 (2602.20346) for MWC 480, HD 163296, HD 143006 (new instrument); Martinien+2026 (2604.11247) 5 NEW ALMA highly-inclined disks (Flying Saucer, PDS 144 N, Oph 162305, Lup 160703, Lup 160708).",
+  "QUEUED from 2026-07-06 recent-arXiv scan (verified, NOT yet ingested - each needs a new system with coords + companion/redshift metadata): PLANETS - HIP 54515 b (Currie+2026, 2512.02159, SCExAO/CHARIS superjovian), LSPM J1446+4633 B (Uyama+2025, 2509.13587, Keck/NIRC2 BD), KOINTREAU-3b=ISO-Oph 96 & KOINTREAU-4b=2MASS J16262785-2625152 (Walker+2026, 2602.10198, Keck/NIRC2), HIP 53005 C (Uyama+2026, 2604.03767, ambiguous mass 80-185 MJup). QUASAR HOSTS - Ding+2025 SHELLQs (2505.03876) JWST/NIRCam F356W host-galaxy decomposition of 10 NEW z>6 HSC quasars (J0844-0132, J0911+0152, J0918+0139, J1425-0015, J1512+4422, J1525+4303, J1146+0124, J0217-0208, J0844-0052, +1; J1146-0005 host non-detection excluded). Also new-epoch (existing systems, optional): Latour+2026 HD 135344B (2606.10624), Rigliaco+2026 WRAY 15-1880 (2606.10816).",
+  "DONE 2026-07-06 batch 3 - INSTRUMENT-LEVEL SWEEP (per user directive): a 49-agent workflow inventoried each system's existing (facility/instrument) set and searched for resolved images from instruments NOT yet represented. Found 47 high-confidence new-instrument images for existing systems; 46 cropped + verified (incl. a final manual pass for lkha-330 [ALMA Band 6 ring; band corrected from the sweep's Band 7], sz-91, ux-tau), 1 dropped (hd-141569_alma2018 = White+2018 is uv-plane modeling, no image-plane map). ZERO pending records - all 842 image records have local panels. Examples: 2M1207/NICMOS, 51 Eri/SPHERE, Fomalhaut/STIS, HD 163296/SPHERE, MWC 758/JWST, HR 4796A/MagAO-X, HH 30/JWST, NGC 1068/VLTI-GRAVITY, AS 209/SMA. NB: the sweep agents' WebFetch to arxiv.org was environment-blocked, so ids were re-validated by the host fetch (all 47 valid, 0 failed) and content by the crop VIEW step.",
+  "DONE 2026-07-06 batch 3 - QUEUED planets + quasars ingested: 5 companion hosts (HIP 54515 b Currie+2026, LSPM J1446 B Uyama+2025, KOINTREAU-3b/4b Walker+2026, HIP 53005 C Uyama+2026) + 9 SHELLQs z>6 JWST/NIRCam quasar hosts (Ding+2025, coords parsed from HSC designations; J1146-0005 excluded as host non-detection). 14 new systems, all cropped.",
+  "DONE 2026-07-06 batch 3 - ALICE hi-res links: 61 Hagan-cited ALICE HLSP NICMOS records now carry hires_url=https://archive.stsci.edu/prepds/alice/ ; frontend shows a 'hi-res data' link to the STScI archive instead of the Hagan PDF (schema field documented in data/README.md).",
+  "Remaining coverage: data/coverage_todo.md coarse mm/nir/planet gaps (mostly genuinely unobserved); the 3 citation-only sweep records could be re-cropped in a future pass.",
+  "FRONTEND upgraded 2026-07-06: (1) view switcher Sky / Coverage matrix / Tonight-observability-planner; (2) faceted filters band/missing-modality/facility; (3) multi-language UI en/zh/fr/es (frontend/i18n.js, persisted in localStorage); (4) citation links now go to SciX (scixplorer.org) not NASA ADS; (5) distinct SHAPES per category (circle/triangle/diamond/square) for colorblind + B/W-print friendliness; (6) removed decorative random background dots; (7) search dropdown moved out of #main so it layers above the header. All offline (file://). See frontend/app.js + frontend/i18n.js.",
+  "NOTE for future sessions: this environment (DGX, /home/brinen2spark/Developments/diskatlas) HAS live internet from bash (arxiv/aanda/SIMBAD reachable), unlike the network-isolated sandbox described in HANDOFF.md - so fetch_sources.sh can be run directly here instead of handing off to the host."
+ ],
+ "_ledgers": "BOOKKEEPING SPLIT (2026-07-07): this file = per-survey/batch session log. Per-PAPER dispositions (excluded/ingested + reasons) live in data/paper_finder_state.json (the diskatlas-paper-finder Skill's dedupe ledger; update via find_papers.py --mark). Ground truth of what's in the atlas = data/systems/*.json. Do not duplicate per-paper decisions in prose here."
+}

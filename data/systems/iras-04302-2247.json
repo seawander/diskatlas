@@ -1,0 +1,126 @@
+{
+ "id": "iras-04302-2247",
+ "name": "iras 04302 2247",
+ "alt_names": [
+  "Butterfly Star"
+ ],
+ "simbad": "IRAS 04302+2247",
+ "ra_deg": 68.31875,
+ "dec_deg": 22.889,
+ "dist_pc": null,
+ "sptype": "K6-M3.5",
+ "region": "Taurus",
+ "categories": [
+  "protoplanetary"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "technique": "interferometry",
+   "instrument": "Band 4",
+   "wavelength_um": 2060,
+   "wavelength_label": "2.1 mm continuum (edge-on)",
+   "image_id": "iras-04302-2247_edgeon-alma2020-b4",
+   "file": "images/iras-04302-2247/iras-04302-2247_edgeon-alma2020-b4.png",
+   "survey": "EdgeOn-ALMA-2020",
+   "credit": "Villenave et al. 2020, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Villenave",
+    "year": 2020,
+    "title": "Observations of edge-on protoplanetary disks with ALMA. I. Results from continuum data",
+    "journal": "A&A 642, A164",
+    "arxiv": "2008.06518",
+    "bibcode": "2020A&A...642A.164V"
+   }
+  },
+  {
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "technique": "interferometry",
+   "instrument": "Band 7",
+   "wavelength_um": 890,
+   "wavelength_label": "0.89 mm continuum (edge-on)",
+   "image_id": "iras-04302-2247_edgeon-alma2020",
+   "file": "images/iras-04302-2247/iras-04302-2247_edgeon-alma2020.png",
+   "survey": "EdgeOn-ALMA-2020",
+   "credit": "Villenave et al. 2020, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Villenave",
+    "year": 2020,
+    "title": "Observations of edge-on protoplanetary disks with ALMA. I. Results from continuum data",
+    "journal": "A&A 642, A164",
+    "arxiv": "2008.06518",
+    "bibcode": "2020A&A...642A.164V"
+   }
+  },
+  {
+   "type": "disk_mm",
+   "facility": "VLA",
+   "technique": "interferometry",
+   "instrument": "Ka band",
+   "wavelength_um": 9200,
+   "wavelength_label": "9.2 mm continuum (free-free corrected)",
+   "image_id": "iras-04302-2247_vla2023",
+   "file": "images/iras-04302-2247/iras-04302-2247_vla2023.png",
+   "survey": null,
+   "credit": "Villenave et al. 2023, Fig. 2 (crop)",
+   "paper": {
+    "first_author": "Villenave",
+    "year": 2023,
+    "title": "Modest dust settling in the IRAS04302+2247 Class I protoplanetary disk",
+    "journal": "ApJ 946, 70",
+    "arxiv": "2302.01949",
+    "bibcode": "2023ApJ...946...70V"
+   }
+  },
+  {
+   "image_id": "iras-04302-2247_nicmos2003",
+   "type": "disk_scattered",
+   "facility": "HST",
+   "instrument": "NICMOS",
+   "wavelength_um": 1.6,
+   "wavelength_label": "near-IR (H/F160W)",
+   "technique": "coronagraphic/direct near-IR scattered-light imaging",
+   "survey": null,
+   "file": "images/iras-04302-2247/iras-04302-2247_nicmos2003.png",
+   "credit": "Wolf et al. 2003, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Wolf",
+    "year": 2003,
+    "title": "The Circumstellar Disk of the Butterfly Star in Taurus",
+    "journal": "ApJ, 588, 373",
+    "arxiv": "astro-ph/0301335",
+    "bibcode": "2003ApJ...588..373W"
+   }
+  },
+  {
+   "image_id": "iras-04302-2247_jwst2024",
+   "type": "disk_scattered",
+   "facility": "JWST",
+   "instrument": "NIRCam+MIRI",
+   "wavelength_um": 2.0,
+   "wavelength_label": "2.0, 4.44, 7.7, 12.8, 21.0 micron imaging gallery",
+   "technique": "other",
+   "survey": null,
+   "credit": "Villenave et al. 2024, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Villenave",
+    "year": 2024,
+    "title": "JWST imaging of edge-on protoplanetary disks II. Appearance of edge-on disks with a tilted inner region: case study of IRAS04302+2247",
+    "journal": "ApJ, 961, 95",
+    "arxiv": "2311.07668",
+    "bibcode": null
+   },
+   "file": "images/iras-04302-2247/iras-04302-2247_jwst2024.png"
+  }
+ ],
+ "notes": "AUTO-CREATED from staging - fill metadata & coords",
+ "last_updated": "2026-07-07",
+ "mags": {
+  "J": 14.682,
+  "H": 12.9,
+  "K": 11.718
+ }
+}

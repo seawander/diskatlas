@@ -1,0 +1,89 @@
+{
+ "id": "hd-16743",
+ "name": "HD 16743",
+ "alt_names": [],
+ "simbad": "HD 16743",
+ "ra_deg": 39.78151103642,
+ "dec_deg": -52.93480670072,
+ "dist_pc": 57.8,
+ "sptype": "F0/2III/IV",
+ "region": null,
+ "categories": [
+  "debris"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "type": "disk_mm",
+   "facility": "ALMA/SMA",
+   "instrument": "Band 6/7",
+   "wavelength_um": 1300,
+   "wavelength_label": "~0.9-1.3 mm continuum",
+   "technique": "interferometry",
+   "image_id": "hd-16743_reasons",
+   "file": "images/hd-16743/hd-16743_reasons.png",
+   "survey": "REASONS",
+   "credit": "Matrà et al. 2025, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Matra",
+    "year": 2025,
+    "title": "REsolved ALMA and SMA Observations of Nearby Stars (REASONS): A population of 74 resolved planetesimal belts at millimetre wavelengths",
+    "journal": "A&A 693, A151",
+    "arxiv": "2501.09058",
+    "bibcode": "2025A&A...693A.151M"
+   }
+  },
+  {
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS/IFS",
+   "wavelength_um": 1.65,
+   "wavelength_label": "H band 1.6 um (total intensity)",
+   "technique": "ADI",
+   "image_id": "hd-16743_sphere-debris-2025",
+   "file": "images/hd-16743/hd-16743_sphere-debris-2025.png",
+   "survey": "SPHERE-debris-2025",
+   "credit": "Engler et al. 2025, Fig. 2a (crop)",
+   "paper": {
+    "first_author": "Engler",
+    "year": 2025,
+    "title": "Characterization of debris disks observed with SPHERE",
+    "journal": "A&A 704, A21",
+    "arxiv": "2512.03128",
+    "bibcode": null
+   }
+  },
+  {
+   "image_id": "hd-16743_nicmos2023",
+   "type": "disk_scattered",
+   "facility": "HST",
+   "instrument": "NICMOS (NIC2 coronagraph)",
+   "wavelength_um": 1.1,
+   "wavelength_label": "F110W (1.1 um) coronagraphic scattered light",
+   "technique": "coronagraphy",
+   "survey": null,
+   "credit": "Marshall et al. 2023, Fig. 5 (crop)",
+   "paper": {
+    "first_author": "Marshall",
+    "year": 2023,
+    "title": "Stirred but not shaken: a multi-wavelength view of HD 16743's debris disc",
+    "journal": "MNRAS 521, 5940-5951",
+    "arxiv": "2303.17128",
+    "bibcode": null
+   },
+   "file": "images/hd-16743/hd-16743_nicmos2023.png"
+  }
+ ],
+ "notes": "AUTO-CREATED from staging - fill metadata & coords",
+ "last_updated": "2026-07-06",
+ "plx_mas": 17.2992,
+ "mags": {
+  "B": 7.13,
+  "V": 6.77,
+  "G": 6.705995,
+  "I": 6.33,
+  "J": 6.114,
+  "H": 5.971,
+  "K": 5.915
+ }
+}

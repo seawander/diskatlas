@@ -1,0 +1,28 @@
+{
+ "survey": "j-hd169142-seeds",
+ "survey_name": null,
+ "source_image": "images/_sources/_views/j-hd169142.png",
+ "pdf_page": null,
+ "panels": [
+  {
+   "id": "hd-169142",
+   "image_id": "hd-169142_seeds",
+   "bbox_frac": [
+    0.015,
+    0.0225,
+    0.4775,
+    0.4538
+   ]
+  }
+ ],
+ "image_defaults": {},
+ "credit": "Momose et al. 2015, Fig. 1a (crop)",
+ "paper": {
+  "first_author": "Momose",
+  "year": 2015,
+  "title": "Detailed structure of the outer disk around HD 169142 with polarized light in H-band",
+  "journal": "PASJ 67, 83",
+  "arxiv": "1505.04937",
+  "bibcode": "2015PASJ...67...83M"
+ }
+}

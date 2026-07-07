@@ -1,0 +1,35 @@
+{
+ "survey": "single-twhya-sphere2017",
+ "survey_name": null,
+ "source_image": "images/_sources/extracted/1610.08939/RvB_TWHya_SPHERE_fig2.pdf",
+ "panels": [
+  {
+   "id": "tw-hya",
+   "image_id": "tw-hya_sphere2017",
+   "bbox_frac": [
+    0.7356,
+    0.0581,
+    0.9569,
+    0.4835
+   ]
+  }
+ ],
+ "image_defaults": {
+  "type": "disk_scattered",
+  "facility": "VLT-SPHERE",
+  "instrument": "IRDIS",
+  "wavelength_um": 1.62,
+  "wavelength_label": "H band 1.6 um (Qphi pol. intensity)",
+  "technique": "PDI"
+ },
+ "credit": "van Boekel et al. 2017, Fig. 2 (crop, H band Qphi)",
+ "paper": {
+  "first_author": "van Boekel",
+  "year": 2017,
+  "title": "Three radial gaps in the disk of TW Hydrae imaged with SPHERE",
+  "journal": "ApJ 837, 132",
+  "arxiv": "1610.08939",
+  "bibcode": null
+ },
+ "pdf_page": 1
+}

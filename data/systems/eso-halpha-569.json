@@ -1,0 +1,67 @@
+{
+ "id": "eso-halpha-569",
+ "name": "eso halpha 569",
+ "alt_names": [],
+ "simbad": "ESO-HA 569",
+ "ra_deg": 167.795,
+ "dec_deg": -76.69928,
+ "dist_pc": null,
+ "sptype": "M2.5",
+ "region": "Chamaeleon I",
+ "categories": [
+  "protoplanetary"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "technique": "interferometry",
+   "instrument": "Band 7",
+   "wavelength_um": 890,
+   "wavelength_label": "0.89 mm continuum (edge-on)",
+   "image_id": "eso-halpha-569_edgeon-alma2020",
+   "file": "images/eso-halpha-569/eso-halpha-569_edgeon-alma2020.png",
+   "survey": "EdgeOn-ALMA-2020",
+   "credit": "Villenave et al. 2020, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Villenave",
+    "year": 2020,
+    "title": "Observations of edge-on protoplanetary disks with ALMA. I. Results from continuum data",
+    "journal": "A&A 642, A164",
+    "arxiv": "2008.06518",
+    "bibcode": "2020A&A...642A.164V"
+   }
+  },
+  {
+   "image_id": "eso-halpha-569_acs2012",
+   "type": "disk_scattered",
+   "facility": "HST",
+   "instrument": "ACS/WFC",
+   "wavelength_um": 0.814,
+   "wavelength_label": "F814W (optical)",
+   "technique": "coronagraphy",
+   "survey": null,
+   "credit": "Wolff et al. 2017, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Wolff",
+    "year": 2017,
+    "title": "HST Scattered Light Imaging and Modeling of the Edge-on Protoplanetary Disk ESO-H$\\alpha$ 569",
+    "journal": "The Astrophysical Journal",
+    "arxiv": "1711.03322",
+    "bibcode": null
+   },
+   "file": "images/eso-halpha-569/eso-halpha-569_acs2012.png"
+  }
+ ],
+ "notes": "AUTO-CREATED from staging - fill metadata & coords",
+ "last_updated": "2026-07-07",
+ "mags": {
+  "V": 20.28,
+  "G": 20.926947,
+  "I": 17.34,
+  "J": 15.954,
+  "H": 15.059,
+  "K": 14.579
+ }
+}

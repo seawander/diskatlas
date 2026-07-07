@@ -1,0 +1,54 @@
+{
+ "id": "coconuts-1",
+ "name": "coconuts 1",
+ "alt_names": [],
+ "simbad": "PSO J058.9855+45.4184",
+ "ra_deg": 58.9855,
+ "dec_deg": 45.4184,
+ "dist_pc": 31.5,
+ "sptype": "DA (white dwarf)",
+ "region": null,
+ "categories": [],
+ "planets": [
+  {
+   "name": "B",
+   "status": "confirmed",
+   "note": "T4 brown-dwarf benchmark companion, 40.6\" = 1280 au from the DA white dwarf primary",
+   "paper": {
+    "first_author": "Zhang",
+    "year": 2020,
+    "arxiv": "2002.05723",
+    "bibcode": "2020ApJ...891..171Z"
+   },
+   "method": "imaging"
+  }
+ ],
+ "images": [
+  {
+   "type": "planet",
+   "facility": "Pan-STARRS1",
+   "instrument": "GPC1, y band",
+   "wavelength_um": 0.96,
+   "wavelength_label": "PS1 y-band image: T4 companion 40.6\" (1280 au) from the white dwarf",
+   "technique": "other",
+   "image_id": "coconuts-1_discovery2020",
+   "file": "images/coconuts-1/coconuts-1_discovery2020.png",
+   "survey": null,
+   "credit": "Zhang et al. 2020, Fig. 1",
+   "paper": {
+    "first_author": "Zhang",
+    "year": 2020,
+    "title": "COol Companions ON Ultrawide orbiTS (COCONUTS). I. A High-Gravity T4 Benchmark around an Old White Dwarf and A Re-Examination of the Surface-Gravity Dependence of the L/T Transition",
+    "journal": "ApJ 891, 171",
+    "arxiv": "2002.05723",
+    "bibcode": "2020ApJ...891..171Z"
+   }
+  }
+ ],
+ "notes": "AUTO-CREATED from staging - fill metadata & coords | Coords from the PSO designation (Zhang+2020); apparent G derived from the paper's absolute G=14.681 at 31.51 pc. Companion COCONUTS-1B is a T4 benchmark (mass above the planet threshold; kept as survey benchmark).",
+ "last_updated": "2026-07-06",
+ "plx_mas": 31.736,
+ "mags": {
+  "G": 17.18
+ }
+}

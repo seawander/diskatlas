@@ -1,0 +1,111 @@
+{
+ "id": "dr-tau",
+ "name": "DR Tau",
+ "alt_names": [],
+ "simbad": "DR Tau",
+ "ra_deg": 71.77589648386,
+ "dec_deg": 16.97855940905,
+ "dist_pc": 193.0,
+ "sptype": "K5Ve",
+ "region": "Taurus",
+ "categories": [
+  "protoplanetary"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "technique": "interferometry",
+   "instrument": "Band 6",
+   "wavelength_um": 1330,
+   "wavelength_label": "1.33 mm continuum",
+   "image_id": "dr-tau_taurus-long2019",
+   "survey": "Taurus-Long2019",
+   "file": "images/dr-tau/dr-tau_taurus-long2019.png",
+   "credit": "Long et al. 2019, Fig. 3 (crop)",
+   "paper": {
+    "first_author": "Long",
+    "year": 2019,
+    "title": "Compact Disks in a High-resolution ALMA Survey of Dust Structures in the Taurus Molecular Cloud",
+    "journal": "ApJ 882, 49",
+    "arxiv": "1906.10809",
+    "bibcode": "2019ApJ...882...49L"
+   }
+  },
+  {
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS DPI",
+   "wavelength_um": 1.65,
+   "wavelength_label": "H band 1.6 um (pol. intensity)",
+   "technique": "PDI",
+   "image_id": "dr-tau_sphere-taurus",
+   "survey": "SPHERE-Taurus",
+   "file": "images/dr-tau/dr-tau_sphere-taurus.png",
+   "credit": "Garufi et al. 2024, Fig. 2 (crop)",
+   "paper": {
+    "first_author": "Garufi",
+    "year": 2024,
+    "title": "The SPHERE view of the Taurus star-forming region: The full census of planet-forming disks with GTO and DESTINYS programs",
+    "journal": "A&A 685, A53",
+    "arxiv": "2403.02158",
+    "bibcode": "2024A&A...685A..53G"
+   }
+  },
+  {
+   "image_id": "dr-tau_alice-f212n",
+   "type": "disk_scattered",
+   "facility": "HST",
+   "instrument": "NICMOS",
+   "wavelength_um": 2.12,
+   "wavelength_label": "F212N 2.12 um (ALICE archival reprocessing, combined coadd)",
+   "technique": "RDI",
+   "survey": "ALICE",
+   "file": "images/dr-tau/dr-tau_alice-f212n.png",
+   "credit": "ALICE HLSP v1 combined coadd (HST program 7829, STScI) — hi-res: ALICE archive (STScI)",
+   "paper": {
+    "first_author": "Hagan",
+    "year": 2018,
+    "title": "ALICE Data Release: A revaluation of HST-NICMOS coronagraphic images",
+    "journal": "AJ 155, 179",
+    "arxiv": "1802.07754",
+    "bibcode": null
+   },
+   "hires_url": "https://archive.stsci.edu/prepds/alice/"
+  },
+  {
+   "image_id": "dr-tau_noema2023",
+   "type": "disk_mm",
+   "facility": "NOEMA",
+   "instrument": "NOEMA",
+   "wavelength_um": 1300,
+   "wavelength_label": "mm (12CO/13CO/C18O 2-1 integrated intensity)",
+   "technique": "interferometry",
+   "survey": null,
+   "credit": "Huang et al. 2023, Fig. 2 (crop)",
+   "paper": {
+    "first_author": "Huang",
+    "year": 2023,
+    "title": "Molecular Mapping of DR Tau's Protoplanetary Disk, Envelope, Outflow, and Large-Scale Spiral Arm",
+    "journal": "ApJ 943, 107",
+    "arxiv": "2301.02674",
+    "bibcode": null
+   },
+   "file": "images/dr-tau/dr-tau_noema2023.png"
+  }
+ ],
+ "notes": null,
+ "last_updated": "2026-07-07",
+ "plx_mas": 5.1823,
+ "mags": {
+  "U": 12.03,
+  "B": 11.86,
+  "V": 10.5,
+  "G": 11.651405,
+  "R": 12.19,
+  "J": 8.845,
+  "H": 7.8,
+  "K": 6.874
+ }
+}

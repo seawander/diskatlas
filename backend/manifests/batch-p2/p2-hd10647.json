@@ -1,0 +1,34 @@
+{
+ "survey": "p2-hd10647",
+ "survey_name": null,
+ "source_image": "images/_sources/extracted/2106.05975/Figures/B7_Image_newBeamNewAxes_301020_USE.png",
+ "panels": [
+  {
+   "id": "hd-10647",
+   "image_id": "hd-10647_alma2021",
+   "bbox_frac": [
+    0.111,
+    0.0172,
+    0.7629,
+    0.874
+   ]
+  }
+ ],
+ "image_defaults": {
+  "type": "disk_mm",
+  "facility": "ALMA",
+  "technique": "interferometry",
+  "instrument": "Band 7",
+  "wavelength_um": 860,
+  "wavelength_label": "0.86 mm continuum (tapered)"
+ },
+ "credit": "Lovell et al. 2021, Fig. 4 (crop)",
+ "paper": {
+  "first_author": "Lovell",
+  "year": 2021,
+  "title": "High resolution ALMA and HST images of q1 Eri: an asymmetric debris disc with an eccentric Jupiter",
+  "journal": "MNRAS 506, 1978",
+  "arxiv": "2106.05975",
+  "bibcode": "2021MNRAS.506.1978L"
+ }
+}

@@ -1,0 +1,35 @@
+{
+ "survey": "mine-abaur-inner",
+ "survey_name": null,
+ "source_image": "images/_sources/extracted/2005.09064/ABAur_3panelsA-eps-converted-to.pdf",
+ "panels": [
+  {
+   "id": "ab-aur",
+   "image_id": "ab-aur_sphere2020-inner",
+   "bbox_frac": [
+    0.3332,
+    0.0,
+    0.6668,
+    1.0
+   ]
+  }
+ ],
+ "image_defaults": {
+  "type": "disk_scattered",
+  "facility": "VLT-SPHERE",
+  "instrument": "IRDIS",
+  "wavelength_um": 1.65,
+  "wavelength_label": "H band 1.6 um Qphi (inner 2\" spirals S1+S2)",
+  "technique": "PDI"
+ },
+ "credit": "Boccaletti et al. 2020, Fig. 1b (crop)",
+ "paper": {
+  "first_author": "Boccaletti",
+  "year": 2020,
+  "title": "Possible evidence of ongoing planet formation in AB Aurigae",
+  "journal": "A&A 637, L5",
+  "arxiv": "2005.09064",
+  "bibcode": null
+ },
+ "_comment": "panel b = 2\" FOV Qphi inner spirals (twist); sibling ab-aur_sphere2020 = panel a large 10\" Qphi*r^2 view"
+}

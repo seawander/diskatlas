@@ -1,0 +1,67 @@
+{
+ "id": "hh-48-ne",
+ "name": "hh 48 ne",
+ "alt_names": [],
+ "simbad": "HH 48",
+ "ra_deg": 166.095,
+ "dec_deg": -77.30222,
+ "dist_pc": 185.2,
+ "sptype": "K7",
+ "region": "Chamaeleon I",
+ "categories": [
+  "protoplanetary"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "technique": "interferometry",
+   "instrument": "Band 7",
+   "wavelength_um": 890,
+   "wavelength_label": "0.89 mm continuum (edge-on)",
+   "image_id": "hh-48-ne_edgeon-alma2020",
+   "file": "images/hh-48-ne/hh-48-ne_edgeon-alma2020.png",
+   "survey": "EdgeOn-ALMA-2020",
+   "credit": "Villenave et al. 2020, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Villenave",
+    "year": 2020,
+    "title": "Observations of edge-on protoplanetary disks with ALMA. I. Results from continuum data",
+    "journal": "A&A 642, A164",
+    "arxiv": "2008.06518",
+    "bibcode": "2020A&A...642A.164V"
+   }
+  },
+  {
+   "image_id": "hh-48-ne_acs2023",
+   "type": "disk_scattered",
+   "facility": "HST",
+   "instrument": "ACS/WFC",
+   "wavelength_um": 0.8,
+   "wavelength_label": "F814W scattered-light imaging (archival, single orbit)",
+   "technique": "other",
+   "survey": null,
+   "credit": "Sturm et al. 2023, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Sturm",
+    "year": 2023,
+    "title": "The edge-on protoplanetary disk HH 48 NE I. Modeling the geometry and stellar parameters",
+    "journal": "A&A 677, A18",
+    "arxiv": "2305.02338",
+    "bibcode": null
+   },
+   "file": "images/hh-48-ne/hh-48-ne_acs2023.png"
+  }
+ ],
+ "notes": "AUTO-CREATED from staging - fill metadata & coords",
+ "last_updated": "2026-07-07",
+ "plx_mas": 5.3986,
+ "mags": {
+  "V": 17.89,
+  "G": 16.925652,
+  "J": 14.34,
+  "H": 13.223,
+  "K": 12.282
+ }
+}

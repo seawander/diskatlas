@@ -1,0 +1,88 @@
+{
+ "id": "hd-202628",
+ "name": "HD 202628",
+ "alt_names": [],
+ "simbad": "HD 202628",
+ "ra_deg": 319.6136234362499,
+ "dec_deg": -43.33465085068,
+ "dist_pc": 23.8,
+ "sptype": "G5V",
+ "region": null,
+ "categories": [
+  "debris"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "type": "disk_mm",
+   "facility": "ALMA/SMA",
+   "technique": "interferometry",
+   "instrument": "Band 6/7",
+   "wavelength_um": 1300,
+   "wavelength_label": "~0.9-1.3 mm continuum",
+   "image_id": "hd-202628_reasons",
+   "survey": "REASONS",
+   "file": "images/hd-202628/hd-202628_reasons.png",
+   "credit": "Matrà et al. 2025, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Matra",
+    "year": 2025,
+    "title": "REsolved ALMA and SMA Observations of Nearby Stars (REASONS): A population of 74 resolved planetesimal belts at millimetre wavelengths",
+    "journal": "A&A 693, A151",
+    "arxiv": "2501.09058",
+    "bibcode": "2025A&A...693A.151M"
+   }
+  },
+  {
+   "type": "disk_scattered",
+   "facility": "HST",
+   "instrument": "STIS",
+   "wavelength_um": 0.58,
+   "wavelength_label": "0.2-1.0 um broadband (optical)",
+   "technique": "coronagraphy",
+   "survey": null,
+   "credit": "Krist et al. 2012, Fig. 3 (crop)",
+   "paper": {
+    "first_author": "Krist",
+    "year": 2012,
+    "title": "Hubble Space Telescope Observations of the HD 202628 Debris Disk",
+    "journal": "AJ 144, 45",
+    "arxiv": "1206.2078",
+    "bibcode": null
+   },
+   "image_id": "hd-202628_stis2012",
+   "file": "images/hd-202628/hd-202628_stis2012.png"
+  },
+  {
+   "image_id": "hd-202628_herschel2019",
+   "type": "disk_mm",
+   "facility": "Herschel",
+   "instrument": "PACS",
+   "wavelength_um": 70,
+   "wavelength_label": "70 um",
+   "technique": "other",
+   "survey": null,
+   "credit": "Faramaz et al. 2019, Fig. 4 (crop)",
+   "paper": {
+    "first_author": "Faramaz",
+    "year": 2019,
+    "title": "From scattered-light to millimeter emission: A comprehensive view of the Gyr-old system of HD 202628 and its eccentric debris ring",
+    "journal": null,
+    "arxiv": "1909.04162",
+    "bibcode": null
+   },
+   "file": "images/hd-202628/hd-202628_herschel2019.png"
+  }
+ ],
+ "notes": "coverage: no resolved near-IR scattered-light image as of 2026-07 (swept; disk is resolved in optical STIS and mm only)",
+ "last_updated": "2026-07-07",
+ "plx_mas": 42.0274,
+ "mags": {
+  "B": 7.39,
+  "V": 6.742,
+  "G": 6.59806,
+  "J": 5.627,
+  "H": 5.325,
+  "K": 5.26
+ }
+}

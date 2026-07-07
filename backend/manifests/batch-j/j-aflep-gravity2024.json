@@ -1,0 +1,21 @@
+{
+ "survey": "j-aflep-gravity2024",
+ "survey_name": null,
+ "source_image": "images/_sources/extracted/2411.05917/figures/aflepb_detection_maps.pdf",
+ "pdf_page": null,
+ "panels": [
+  {
+   "id": "af-lep",
+   "image_id": "af-lep_gravity2024",
+   "bbox_frac": [
+    0.33,
+    0.01,
+    0.594,
+    0.99
+   ]
+  }
+ ],
+ "image_defaults": {},
+ "credit": "Balmer et al. 2024, Fig. 1 (crop: 2023-11-24 GRAVITY chi2 detection map)",
+ "paper": null
+}

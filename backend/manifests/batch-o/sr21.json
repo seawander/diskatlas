@@ -1,0 +1,24 @@
+{
+  "survey": "o2-sr21",
+  "survey_name": null,
+  "source_image": "images/_sources/extracted/2003.08189/ALMA_SPHERE_final.pdf",
+  "pdf_page": 1,
+  "dpi": 220,
+  "panels": [
+    { "id": "sr-21", "image_id": "sr-21_sphere2020",
+      "bbox_frac": [0.705, 0.195, 0.925, 0.835] },
+    { "id": "sr-21", "image_id": "sr-21_alma2020",
+      "bbox_frac": [0.502, 0.195, 0.712, 0.835] }
+  ],
+  "image_defaults": {
+    "type": "disk_scattered", "facility": "VLT-SPHERE", "instrument": "IRDIS",
+    "wavelength_um": 1.65, "wavelength_label": "H band pol. with ALMA contours (spirals in the mm cavity)",
+    "technique": "PDI"
+  },
+  "credit": "Muro-Arena et al. 2020, ALMA+SPHERE figure (crop)",
+  "paper": {
+    "first_author": "Muro-Arena", "year": 2020,
+    "title": "Spirals inside the millimeter cavity of transition disk SR 21",
+    "journal": "A&A 636, L4", "arxiv": "2003.08189", "bibcode": "2020A&A...636L...4M"
+  }
+}

@@ -1,0 +1,80 @@
+{
+ "id": "eps-ind-a",
+ "name": "Eps Ind A",
+ "alt_names": [
+  "Epsilon Indi"
+ ],
+ "simbad": "eps Ind",
+ "ra_deg": 330.8402234423433,
+ "dec_deg": -56.785978554365,
+ "dist_pc": 3.6,
+ "sptype": "K5V",
+ "region": null,
+ "categories": [],
+ "planets": [
+  {
+   "name": "Ab",
+   "status": "confirmed",
+   "note": "Coldest imaged mature giant (~6.5 MJup)",
+   "paper": {
+    "first_author": "Matthews",
+    "year": 2024,
+    "arxiv": null,
+    "bibcode": "2024Natur.633..789M"
+   }
+  }
+ ],
+ "images": [
+  {
+   "type": "planet",
+   "facility": "JWST",
+   "instrument": "MIRI",
+   "wavelength_um": 10.65,
+   "wavelength_label": "10.65/15.5 um coronagraphy",
+   "technique": "coronagraphy",
+   "survey": null,
+   "credit": "Matthews et al. 2024, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Matthews",
+    "year": 2024,
+    "title": "A temperate super-Jupiter imaged with JWST in the mid-infrared",
+    "journal": "Nature 633, 789",
+    "arxiv": "2503.01599",
+    "bibcode": "2024Natur.633..789M"
+   },
+   "image_id": "eps-ind-a_jwst2024",
+   "file": "images/eps-ind-a/eps-ind-a_jwst2024.png"
+  },
+  {
+   "image_id": "eps-ind-a_jwst2026",
+   "type": "planet",
+   "facility": "JWST",
+   "instrument": "MIRI (4QPM, F1140C)",
+   "wavelength_um": 11.3,
+   "wavelength_label": "11.3 um (F1140C) second-epoch direct image",
+   "technique": "coronagraphy",
+   "survey": null,
+   "file": "images/eps-ind-a/eps-ind-a_jwst2026.png",
+   "credit": "Matthews et al. 2026, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Matthews",
+    "year": 2026,
+    "title": "A second visit to Eps Ind Ab with JWST: new photometry confirms ammonia and suggests thick clouds in the exoplanet atmosphere of the closest super-Jupiter",
+    "journal": "ApJL (accepted)",
+    "arxiv": "2603.08780",
+    "bibcode": null
+   }
+  }
+ ],
+ "notes": null,
+ "last_updated": "2026-07-07",
+ "plx_mas": 274.8431,
+ "mags": {
+  "B": 5.75,
+  "V": 4.69,
+  "G": 4.322904,
+  "J": 2.89,
+  "H": 2.349,
+  "K": 2.237
+ }
+}

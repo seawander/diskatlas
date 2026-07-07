@@ -1,0 +1,36 @@
+# Batch F (SPHERE/GPI scattered-light surveys) — new systems needing SIMBAD coordinates.
+# One SIMBAD-resolvable name per line. Region/category noted in _report_batchF.md.
+# --- Engler+2025 SPHERE debris (2512.03128), category "debris" ---
+HD 36968
+BD-20 951
+HD 38397
+HD 98800
+HD 120326
+HD 141011
+HD 141943
+HD 160305
+HD 192758
+HD 202917
+# --- DESTINYS Cham I (Ginski+2024, 2403.02149), region Chamaeleon I, "protoplanetary" ---
+Sz 45
+CV Cha
+VZ Cha
+CR Cha
+CHX 22
+WW Cha
+HP Cha
+CS Cha
+TW Cha
+# --- DESTINYS Orion (Valegard+2024, 2403.02156), region Orion, "protoplanetary" ---
+HD 294260
+HD 294268
+PDS 110
+PDS 113
+RV Ori
+V1012 Ori
+V1650 Ori
+V599 Ori
+V606 Ori
+# --- DISCS I (Hom+2025, 2505.02976), region Sco-Cen, "debris" ---
+HD 98363
+HD 109832

@@ -1,0 +1,33 @@
+{
+ "survey": "c2-kalas06-acs2006",
+ "survey_name": null,
+ "source_image": "images/_sources/_views/c2_kalas06_f1.png",
+ "panels": [
+  {
+   "id": "hd-53143",
+   "image_id": "hd-53143_acs2006",
+   "bbox_frac": [0.0, 0.0, 0.499, 1.0]
+  },
+  {
+   "id": "hd-139664",
+   "image_id": "hd-139664_acs2006",
+   "bbox_frac": [0.505, 0.0, 1.0, 1.0]
+  }
+ ],
+ "image_defaults": {
+  "type": "disk_scattered",
+  "facility": "HST",
+  "instrument": "ACS",
+  "wavelength_um": 0.6,
+  "technique": "coronagraphy"
+ },
+ "credit": "Kalas et al. 2006, Fig. 1 (crop)",
+ "paper": {
+  "first_author": "Kalas",
+  "year": 2006,
+  "title": "First Scattered Light Images of Debris Disks around HD 53143 and HD 139664",
+  "journal": "ApJL 637, L57",
+  "arxiv": "astro-ph/0601488",
+  "bibcode": "2006ApJ...637L..57K"
+ }
+}

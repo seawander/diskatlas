@@ -1,0 +1,27 @@
+{
+ "survey": "n-wispit2-alma2026",
+ "survey_name": null,
+ "source_image": "images/_sources/extracted/2601.15948/figures/WISPIT_fig1_combined.pdf",
+ "pdf_page": 1,
+ "dpi": 200,
+ "credit": "Facchini et al. 2026, Fig. 1 (crop: 0.88 mm continuum, rings and WISPIT 2b location marked)",
+ "paper": {
+  "first_author": "Facchini",
+  "year": 2026,
+  "title": "A 2 au resolution view by ALMA of the planet-hosting WISPIT 2 disk",
+  "journal": "arXiv (2026)",
+  "arxiv": "2601.15948",
+  "bibcode": null
+ },
+ "panels": [
+  { "id": "wispit-2", "image_id": "wispit-2_alma2026", "bbox_frac": [0.527, 0.17, 0.968, 0.815] }
+ ],
+ "image_defaults": {
+  "type": "disk_mm",
+  "facility": "ALMA",
+  "instrument": "Band 7",
+  "wavelength_um": 880,
+  "wavelength_label": "0.88 mm continuum at 2 au resolution; dust rings with the position of gap planet b marked",
+  "technique": "interferometry"
+ }
+}

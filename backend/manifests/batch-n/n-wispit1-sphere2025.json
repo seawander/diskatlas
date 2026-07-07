@@ -1,0 +1,27 @@
+{
+ "survey": "n-wispit1-sphere2025",
+ "survey_name": null,
+ "source_image": "images/_sources/extracted/2508.18456/figures/WISPIT1_image_combined_zoom.pdf",
+ "pdf_page": 1,
+ "dpi": 200,
+ "credit": "van Capelleveen et al. 2025, Fig. 1 (crop: IRDIS H band, unsharp-masked, with zooms on b and c)",
+ "paper": {
+  "first_author": "van Capelleveen",
+  "year": 2025,
+  "title": "WIde Separation Planets In Time (WISPIT): Two directly imaged exoplanets around the Sun-like stellar binary WISPIT 1",
+  "journal": "A&A (2025)",
+  "arxiv": "2508.18456",
+  "bibcode": null
+ },
+ "panels": [
+  { "id": "wispit-1", "image_id": "wispit-1_sphere2025", "bbox_frac": [0.0, 0.0, 1.0, 1.0] }
+ ],
+ "image_defaults": {
+  "type": "planet",
+  "facility": "VLT-SPHERE",
+  "instrument": "IRDIS",
+  "wavelength_um": 1.65,
+  "wavelength_label": "H band; both wide-orbit planets around the binary, with zoomed insets on b and c",
+  "technique": "ADI"
+ }
+}

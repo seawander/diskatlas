@@ -1,0 +1,21 @@
+{
+ "survey": "j-hd95086-naco2013b",
+ "survey_name": null,
+ "source_image": "images/_sources/_views/j-hd95086-a.png",
+ "pdf_page": null,
+ "panels": [
+  {
+   "id": "hd-95086",
+   "image_id": "hd-95086_naco2013b",
+   "bbox_frac": [
+    0.089,
+    0.1436,
+    0.68,
+    0.5747
+   ]
+  }
+ ],
+ "image_defaults": {},
+ "credit": "Rameau et al. 2013b, Fig. 1a (crop: 26 Jun 2013 cADI L' residual map)",
+ "paper": null
+}

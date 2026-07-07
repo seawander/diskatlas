@@ -1,0 +1,36 @@
+{
+ "survey": "p1-coconuts2",
+ "source_image": "images/_sources/extracted/2107.02805/assist_common_astrometry.pdf",
+ "pdf_page": 1,
+ "dpi": 220,
+ "panels": [
+  {
+   "id": "coconuts-2",
+   "image_id": "coconuts-2_discovery2021",
+   "bbox_frac": [
+    0.1785,
+    0.0131,
+    0.4898,
+    0.4302
+   ]
+  }
+ ],
+ "image_defaults": {
+  "type": "planet",
+  "facility": "WISE",
+  "instrument": "AllWISE W1+W2",
+  "wavelength_um": 4.6,
+  "wavelength_label": "AllWISE bi-color image: COCONUTS-2 b 594\" (6471 au) from the M dwarf",
+  "technique": "other"
+ },
+ "survey_name": null,
+ "credit": "Zhang et al. 2021, Fig. 1 (crop)",
+ "paper": {
+  "first_author": "Zhang",
+  "year": 2021,
+  "title": "The Second Discovery from the COCONUTS Program: A Cold Wide-Orbit Exoplanet around a Young Field M Dwarf at 10.9 pc",
+  "journal": "ApJL 916, L11",
+  "arxiv": "2107.02805",
+  "bibcode": "2021ApJ...916L..11Z"
+ }
+}

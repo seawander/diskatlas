@@ -1,0 +1,29 @@
+{
+ "survey": "c2-betapic-gpi2015",
+ "survey_name": null,
+ "source_image": "images/_sources/extracted/1508.04787/figure1.png",
+ "panels": [
+  {
+   "id": "beta-pic",
+   "image_id": "beta-pic_gpi2015",
+   "bbox_frac": [0.0566, 0.0235, 0.3215, 0.878]
+  }
+ ],
+ "image_defaults": {
+  "type": "disk_scattered",
+  "facility": "Gemini-GPI",
+  "instrument": "IFS pol",
+  "wavelength_um": 1.65,
+  "wavelength_label": "H band pol.; edge-on inner disk",
+  "technique": "PDI"
+ },
+ "credit": "Millar-Blanchaer et al. 2015, Fig. 1 left (Qr, crop)",
+ "paper": {
+  "first_author": "Millar-Blanchaer",
+  "year": 2015,
+  "title": "Beta Pictoris' Inner Disk in Polarized Light and New Orbital Parameters for beta Pictoris b",
+  "journal": "ApJ 811, 18",
+  "arxiv": "1508.04787",
+  "bibcode": "2015ApJ...811...18M"
+ }
+}

@@ -1,0 +1,21 @@
+{
+ "survey": "j-twa7-jwst2025",
+ "survey_name": null,
+ "source_image": "images/_sources/extracted/2502.15081/2502.15081.pdf",
+ "pdf_page": 3,
+ "panels": [
+  {
+   "id": "twa-7",
+   "image_id": "twa-7_jwst2025",
+   "bbox_frac": [
+    0.121,
+    0.0805,
+    0.7454,
+    0.5257
+   ]
+  }
+ ],
+ "image_defaults": {},
+ "credit": "Lagrange et al. 2025, Fig. 1 (crop: MIRI F1140C, CC#1; PDF p. 3)",
+ "paper": null
+}

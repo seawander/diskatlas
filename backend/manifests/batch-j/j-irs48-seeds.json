@@ -1,0 +1,21 @@
+{
+ "survey": "j-irs48-seeds",
+ "survey_name": null,
+ "source_image": "images/_sources/extracted/1411.0671/OPH_IRS48_PInew_flux.pdf",
+ "pdf_page": null,
+ "panels": [
+  {
+   "id": "oph-irs-48",
+   "image_id": "oph-irs-48_seeds",
+   "bbox_frac": [
+    0.0,
+    0.02,
+    0.815,
+    1.0
+   ]
+  }
+ ],
+ "image_defaults": {},
+ "credit": "Follette et al. 2015, Fig. 1 (crop: H band after halo subtraction)",
+ "paper": null
+}

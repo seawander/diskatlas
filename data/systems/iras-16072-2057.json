@@ -1,0 +1,48 @@
+{
+ "id": "iras-16072-2057",
+ "name": "IRAS 16072-2057",
+ "alt_names": [],
+ "simbad": "IRAS 16072-2057",
+ "ra_deg": 242.5526792101,
+ "dec_deg": -21.07903583776,
+ "dist_pc": 154.6,
+ "plx_mas": 6.4671,
+ "mags": {
+  "V": 11.57,
+  "G": 11.320388,
+  "J": 9.335,
+  "H": 8.722,
+  "K": 8.546
+ },
+ "sptype": "K3IV",
+ "region": "Ophiuchus",
+ "categories": [
+  "protoplanetary"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "image_id": "iras-16072-2057_destinys",
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS",
+   "wavelength_um": 1.65,
+   "wavelength_label": "H band polarized light",
+   "technique": "PDI",
+   "survey": "SPHERE-NIR-census",
+   "file": "images/iras-16072-2057/iras-16072-2057_destinys.png",
+   "credit": "Garufi et al. 2026, Fig. A.1 (crop)",
+   "hires_url": null,
+   "paper": {
+    "first_author": "Garufi",
+    "year": 2026,
+    "title": "Planet-forming disks and their environment across regions and time from the full NIR census",
+    "journal": "A&A, in press",
+    "arxiv": "2603.01703",
+    "bibcode": null
+   }
+  }
+ ],
+ "notes": "First-published SPHERE/IRDIS H-band polarimetric image (DESTINYS). Extremely clean detection of a moderately inclined disk with a 25 au inner cavity and clearly resolved back side; the fifth brightest disk of the entire NIR census, visible even in the intensity image on top of the stellar PSF. Disk features: cavity + back side (Garufi et al. 2026, Table A.5/Fig. A.1).",
+ "last_updated": "2026-07-06"
+}

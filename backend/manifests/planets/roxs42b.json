@@ -1,0 +1,35 @@
+{
+ "survey": "pl-roxs42b",
+ "survey_name": null,
+ "source_image": "images/_sources/_views/batchD_roxs42b_nirc22011.png",
+ "pdf_page": null,
+ "panels": [
+  {
+   "id": "roxs-42b",
+   "image_id": "roxs-42b_keck2014",
+   "bbox_frac": [
+    0.0,
+    0.0,
+    1.0,
+    1.0
+   ]
+  }
+ ],
+ "image_defaults": {
+  "type": "planet",
+  "facility": "Keck",
+  "instrument": "NIRC2",
+  "wavelength_um": 1.65,
+  "wavelength_label": "H band; companion confirmation image",
+  "technique": "ADI"
+ },
+ "credit": "Currie et al. 2014, Fig. 1 (crop)",
+ "paper": {
+  "first_author": "Currie",
+  "year": 2014,
+  "title": "Direct Imaging and Spectroscopy of a Candidate Companion Below/Near the Deuterium-Burning Limit in the Young Binary Star System, ROXs 42B",
+  "journal": "ApJL 780, L30",
+  "arxiv": "1310.4825",
+  "bibcode": "2014ApJ...780L..30C"
+ }
+}

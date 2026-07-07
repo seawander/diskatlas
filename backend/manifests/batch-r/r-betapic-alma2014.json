@@ -1,0 +1,30 @@
+{
+ "survey": "r-betapic-alma2014",
+ "survey_name": null,
+ "source_image": "images/_sources/extracted/1404.1380/1404.1380.pdf",
+ "pdf_page": 8,
+ "panels": [
+  {
+   "id": "beta-pic",
+   "image_id": "beta-pic_alma2014",
+   "bbox_frac": [0.182, 0.145, 0.775, 0.642]
+  }
+ ],
+ "image_defaults": {
+  "type": "disk_mm",
+  "facility": "ALMA",
+  "instrument": "Band 7",
+  "wavelength_um": 870,
+  "wavelength_label": "870 um continuum + CO clump",
+  "technique": "interferometry"
+ },
+ "credit": "Dent et al. 2014, Fig. 1 (crop)",
+ "paper": {
+  "first_author": "Dent",
+  "year": 2014,
+  "title": "Molecular Gas Clumps from the Destruction of Icy Bodies in the beta Pictoris Debris Disk",
+  "journal": "Science 343, 1490",
+  "arxiv": "1404.1380",
+  "bibcode": "2014Sci...343.1490D"
+ }
+}

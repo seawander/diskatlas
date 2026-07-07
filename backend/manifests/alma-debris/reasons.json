@@ -1,0 +1,766 @@
+{
+ "survey": "reasons",
+ "survey_name": "REASONS",
+ "source_image": "images/_sources/extracted/2501.09058/REASONS_comboplot_merged.pdf",
+ "pdf_page": 1,
+ "dpi": 200,
+ "panels": [
+  {
+   "id": "hd-105",
+   "image_id": "hd-105_reasons",
+   "bbox_frac": [
+    0.1616,
+    0.007,
+    0.22685,
+    0.12267
+   ]
+  },
+  {
+   "id": "gj-14",
+   "image_id": "gj-14_reasons",
+   "bbox_frac": [
+    0.23247,
+    0.007,
+    0.29771,
+    0.12267
+   ]
+  },
+  {
+   "id": "49-cet",
+   "image_id": "49-cet_reasons",
+   "bbox_frac": [
+    0.30352,
+    0.007,
+    0.36877,
+    0.12267
+   ]
+  },
+  {
+   "id": "hd-10638",
+   "image_id": "hd-10638_reasons",
+   "bbox_frac": [
+    0.37439,
+    0.007,
+    0.43963,
+    0.12267
+   ]
+  },
+  {
+   "id": "hd-10647",
+   "image_id": "hd-10647_reasons",
+   "bbox_frac": [
+    0.44526,
+    0.007,
+    0.5105,
+    0.12267
+   ]
+  },
+  {
+   "id": "hd-14055",
+   "image_id": "hd-14055_reasons",
+   "bbox_frac": [
+    0.51612,
+    0.007,
+    0.58136,
+    0.12267
+   ]
+  },
+  {
+   "id": "hd-15115",
+   "image_id": "hd-15115_reasons",
+   "bbox_frac": [
+    0.58699,
+    0.007,
+    0.65223,
+    0.12267
+   ]
+  },
+  {
+   "id": "hd-15257",
+   "image_id": "hd-15257_reasons",
+   "bbox_frac": [
+    0.65786,
+    0.007,
+    0.7231,
+    0.12267
+   ]
+  },
+  {
+   "id": "hd-15745",
+   "image_id": "hd-15745_reasons",
+   "bbox_frac": [
+    0.72872,
+    0.007,
+    0.79396,
+    0.12267
+   ]
+  },
+  {
+   "id": "hd-16743",
+   "image_id": "hd-16743_reasons",
+   "bbox_frac": [
+    0.79959,
+    0.007,
+    0.86483,
+    0.12267
+   ]
+  },
+  {
+   "id": "hd-21997",
+   "image_id": "hd-21997_reasons",
+   "bbox_frac": [
+    0.1616,
+    0.13133,
+    0.22685,
+    0.247
+   ]
+  },
+  {
+   "id": "hd-22049",
+   "image_id": "hd-22049_reasons",
+   "bbox_frac": [
+    0.23247,
+    0.13133,
+    0.29771,
+    0.247
+   ]
+  },
+  {
+   "id": "hd-32297",
+   "image_id": "hd-32297_reasons",
+   "bbox_frac": [
+    0.30352,
+    0.13133,
+    0.36877,
+    0.247
+   ]
+  },
+  {
+   "id": "hd-35841",
+   "image_id": "hd-35841_reasons",
+   "bbox_frac": [
+    0.37439,
+    0.13133,
+    0.43963,
+    0.247
+   ]
+  },
+  {
+   "id": "hd-36546",
+   "image_id": "hd-36546_reasons",
+   "bbox_frac": [
+    0.44526,
+    0.13133,
+    0.5105,
+    0.247
+   ]
+  },
+  {
+   "id": "hd-38206",
+   "image_id": "hd-38206_reasons",
+   "bbox_frac": [
+    0.51612,
+    0.13133,
+    0.58136,
+    0.247
+   ]
+  },
+  {
+   "id": "hd-38858",
+   "image_id": "hd-38858_reasons",
+   "bbox_frac": [
+    0.58699,
+    0.13133,
+    0.65223,
+    0.247
+   ]
+  },
+  {
+   "id": "beta-pic",
+   "image_id": "beta-pic_reasons",
+   "bbox_frac": [
+    0.65786,
+    0.13133,
+    0.7231,
+    0.247
+   ]
+  },
+  {
+   "id": "hd-48682",
+   "image_id": "hd-48682_reasons",
+   "bbox_frac": [
+    0.72872,
+    0.13133,
+    0.79396,
+    0.247
+   ]
+  },
+  {
+   "id": "hd-50571",
+   "image_id": "hd-50571_reasons",
+   "bbox_frac": [
+    0.79959,
+    0.13133,
+    0.86483,
+    0.247
+   ]
+  },
+  {
+   "id": "hd-53143",
+   "image_id": "hd-53143_reasons",
+   "bbox_frac": [
+    0.1616,
+    0.25567,
+    0.22685,
+    0.37133
+   ]
+  },
+  {
+   "id": "hd-54341",
+   "image_id": "hd-54341_reasons",
+   "bbox_frac": [
+    0.23247,
+    0.25567,
+    0.29771,
+    0.37133
+   ]
+  },
+  {
+   "id": "hd-61005",
+   "image_id": "hd-61005_reasons",
+   "bbox_frac": [
+    0.30352,
+    0.25567,
+    0.36877,
+    0.37133
+   ]
+  },
+  {
+   "id": "hd-76582",
+   "image_id": "hd-76582_reasons",
+   "bbox_frac": [
+    0.37439,
+    0.25567,
+    0.43963,
+    0.37133
+   ]
+  },
+  {
+   "id": "hd-84870",
+   "image_id": "hd-84870_reasons",
+   "bbox_frac": [
+    0.44526,
+    0.25567,
+    0.5105,
+    0.37133
+   ]
+  },
+  {
+   "id": "twa-7",
+   "image_id": "twa-7_reasons",
+   "bbox_frac": [
+    0.51612,
+    0.25567,
+    0.58136,
+    0.37133
+   ]
+  },
+  {
+   "id": "hd-92945",
+   "image_id": "hd-92945_reasons",
+   "bbox_frac": [
+    0.58699,
+    0.25567,
+    0.65223,
+    0.37133
+   ]
+  },
+  {
+   "id": "hd-95086",
+   "image_id": "hd-95086_reasons",
+   "bbox_frac": [
+    0.65786,
+    0.25567,
+    0.7231,
+    0.37133
+   ]
+  },
+  {
+   "id": "hd-104860",
+   "image_id": "hd-104860_reasons",
+   "bbox_frac": [
+    0.72872,
+    0.25567,
+    0.79396,
+    0.37133
+   ]
+  },
+  {
+   "id": "hd-105211",
+   "image_id": "hd-105211_reasons",
+   "bbox_frac": [
+    0.79959,
+    0.25567,
+    0.86483,
+    0.37133
+   ]
+  },
+  {
+   "id": "hd-106906",
+   "image_id": "hd-106906_reasons",
+   "bbox_frac": [
+    0.1616,
+    0.38033,
+    0.22685,
+    0.496
+   ]
+  },
+  {
+   "id": "hd-107146",
+   "image_id": "hd-107146_reasons",
+   "bbox_frac": [
+    0.23247,
+    0.38033,
+    0.29771,
+    0.496
+   ]
+  },
+  {
+   "id": "eta-crv",
+   "image_id": "eta-crv_reasons",
+   "bbox_frac": [
+    0.30352,
+    0.38033,
+    0.36877,
+    0.496
+   ]
+  },
+  {
+   "id": "hr-4796a",
+   "image_id": "hr-4796a_reasons",
+   "bbox_frac": [
+    0.37439,
+    0.38033,
+    0.43963,
+    0.496
+   ]
+  },
+  {
+   "id": "hd-110058",
+   "image_id": "hd-110058_reasons",
+   "bbox_frac": [
+    0.44526,
+    0.38033,
+    0.5105,
+    0.496
+   ]
+  },
+  {
+   "id": "hd-111520",
+   "image_id": "hd-111520_reasons",
+   "bbox_frac": [
+    0.51612,
+    0.38033,
+    0.58136,
+    0.496
+   ]
+  },
+  {
+   "id": "hd-112810",
+   "image_id": "hd-112810_reasons",
+   "bbox_frac": [
+    0.58699,
+    0.38033,
+    0.65223,
+    0.496
+   ]
+  },
+  {
+   "id": "hd-113556",
+   "image_id": "hd-113556_reasons",
+   "bbox_frac": [
+    0.65786,
+    0.38033,
+    0.7231,
+    0.496
+   ]
+  },
+  {
+   "id": "hd-113766",
+   "image_id": "hd-113766_reasons",
+   "bbox_frac": [
+    0.72872,
+    0.38033,
+    0.79396,
+    0.496
+   ]
+  },
+  {
+   "id": "hd-114082",
+   "image_id": "hd-114082_reasons",
+   "bbox_frac": [
+    0.79959,
+    0.38033,
+    0.86483,
+    0.496
+   ]
+  },
+  {
+   "id": "hd-115600",
+   "image_id": "hd-115600_reasons",
+   "bbox_frac": [
+    0.1616,
+    0.506,
+    0.22685,
+    0.62167
+   ]
+  },
+  {
+   "id": "hd-117214",
+   "image_id": "hd-117214_reasons",
+   "bbox_frac": [
+    0.23247,
+    0.506,
+    0.29771,
+    0.62167
+   ]
+  },
+  {
+   "id": "hd-121191",
+   "image_id": "hd-121191_reasons",
+   "bbox_frac": [
+    0.30352,
+    0.506,
+    0.36877,
+    0.62167
+   ]
+  },
+  {
+   "id": "hd-121617",
+   "image_id": "hd-121617_reasons",
+   "bbox_frac": [
+    0.37439,
+    0.506,
+    0.43963,
+    0.62167
+   ]
+  },
+  {
+   "id": "hd-127821",
+   "image_id": "hd-127821_reasons",
+   "bbox_frac": [
+    0.44526,
+    0.506,
+    0.5105,
+    0.62167
+   ]
+  },
+  {
+   "id": "hd-129590",
+   "image_id": "hd-129590_reasons",
+   "bbox_frac": [
+    0.51612,
+    0.506,
+    0.58136,
+    0.62167
+   ]
+  },
+  {
+   "id": "hd-131488",
+   "image_id": "hd-131488_reasons",
+   "bbox_frac": [
+    0.58699,
+    0.506,
+    0.65223,
+    0.62167
+   ]
+  },
+  {
+   "id": "hd-131835",
+   "image_id": "hd-131835_reasons",
+   "bbox_frac": [
+    0.65786,
+    0.506,
+    0.7231,
+    0.62167
+   ]
+  },
+  {
+   "id": "hd-138813",
+   "image_id": "hd-138813_reasons",
+   "bbox_frac": [
+    0.72872,
+    0.506,
+    0.79396,
+    0.62167
+   ]
+  },
+  {
+   "id": "hd-139664",
+   "image_id": "hd-139664_reasons",
+   "bbox_frac": [
+    0.79959,
+    0.506,
+    0.86483,
+    0.62167
+   ]
+  },
+  {
+   "id": "hd-142315",
+   "image_id": "hd-142315_reasons",
+   "bbox_frac": [
+    0.1616,
+    0.63067,
+    0.22685,
+    0.74633
+   ]
+  },
+  {
+   "id": "hd-142446",
+   "image_id": "hd-142446_reasons",
+   "bbox_frac": [
+    0.23247,
+    0.63067,
+    0.29771,
+    0.74633
+   ]
+  },
+  {
+   "id": "hd-145560",
+   "image_id": "hd-145560_reasons",
+   "bbox_frac": [
+    0.30352,
+    0.63067,
+    0.36877,
+    0.74633
+   ]
+  },
+  {
+   "id": "hd-146181",
+   "image_id": "hd-146181_reasons",
+   "bbox_frac": [
+    0.37439,
+    0.63067,
+    0.43963,
+    0.74633
+   ]
+  },
+  {
+   "id": "hd-146897",
+   "image_id": "hd-146897_reasons",
+   "bbox_frac": [
+    0.44526,
+    0.63067,
+    0.5105,
+    0.74633
+   ]
+  },
+  {
+   "id": "hd-147137",
+   "image_id": "hd-147137_reasons",
+   "bbox_frac": [
+    0.51612,
+    0.63067,
+    0.58136,
+    0.74633
+   ]
+  },
+  {
+   "id": "hd-158352",
+   "image_id": "hd-158352_reasons",
+   "bbox_frac": [
+    0.58699,
+    0.63067,
+    0.65223,
+    0.74633
+   ]
+  },
+  {
+   "id": "hd-161868",
+   "image_id": "hd-161868_reasons",
+   "bbox_frac": [
+    0.65786,
+    0.63067,
+    0.7231,
+    0.74633
+   ]
+  },
+  {
+   "id": "hd-164249",
+   "image_id": "hd-164249_reasons",
+   "bbox_frac": [
+    0.72872,
+    0.63067,
+    0.79396,
+    0.74633
+   ]
+  },
+  {
+   "id": "gsc-07396-00759",
+   "image_id": "gsc-07396-00759_reasons",
+   "bbox_frac": [
+    0.79959,
+    0.63067,
+    0.86483,
+    0.74633
+   ]
+  },
+  {
+   "id": "hd-170773",
+   "image_id": "hd-170773_reasons",
+   "bbox_frac": [
+    0.1616,
+    0.755,
+    0.22685,
+    0.87067
+   ]
+  },
+  {
+   "id": "vega",
+   "image_id": "vega_reasons",
+   "bbox_frac": [
+    0.23247,
+    0.755,
+    0.29771,
+    0.87067
+   ]
+  },
+  {
+   "id": "hd-181327",
+   "image_id": "hd-181327_reasons",
+   "bbox_frac": [
+    0.30352,
+    0.755,
+    0.36877,
+    0.87067
+   ]
+  },
+  {
+   "id": "hd-182681",
+   "image_id": "hd-182681_reasons",
+   "bbox_frac": [
+    0.37439,
+    0.755,
+    0.43963,
+    0.87067
+   ]
+  },
+  {
+   "id": "hd-191089",
+   "image_id": "hd-191089_reasons",
+   "bbox_frac": [
+    0.44526,
+    0.755,
+    0.5105,
+    0.87067
+   ]
+  },
+  {
+   "id": "au-mic",
+   "image_id": "au-mic_reasons",
+   "bbox_frac": [
+    0.51612,
+    0.755,
+    0.58136,
+    0.87067
+   ]
+  },
+  {
+   "id": "hd-202628",
+   "image_id": "hd-202628_reasons",
+   "bbox_frac": [
+    0.58699,
+    0.755,
+    0.65223,
+    0.87067
+   ]
+  },
+  {
+   "id": "hd-205674",
+   "image_id": "hd-205674_reasons",
+   "bbox_frac": [
+    0.65786,
+    0.755,
+    0.7231,
+    0.87067
+   ]
+  },
+  {
+   "id": "hd-206893",
+   "image_id": "hd-206893_reasons",
+   "bbox_frac": [
+    0.72872,
+    0.755,
+    0.79396,
+    0.87067
+   ]
+  },
+  {
+   "id": "hd-207129",
+   "image_id": "hd-207129_reasons",
+   "bbox_frac": [
+    0.79959,
+    0.755,
+    0.86483,
+    0.87067
+   ]
+  },
+  {
+   "id": "tyc-9340-437-1",
+   "image_id": "tyc-9340-437-1_reasons",
+   "bbox_frac": [
+    0.1616,
+    0.87933,
+    0.22685,
+    0.995
+   ]
+  },
+  {
+   "id": "fomalhaut",
+   "image_id": "fomalhaut_reasons",
+   "bbox_frac": [
+    0.23247,
+    0.87933,
+    0.29771,
+    0.995
+   ]
+  },
+  {
+   "id": "hd-216956c",
+   "image_id": "hd-216956c_reasons",
+   "bbox_frac": [
+    0.30352,
+    0.87933,
+    0.36877,
+    0.995
+   ]
+  },
+  {
+   "id": "hr-8799",
+   "image_id": "hr-8799_reasons",
+   "bbox_frac": [
+    0.37439,
+    0.87933,
+    0.43963,
+    0.995
+   ]
+  }
+ ],
+ "image_defaults": {
+  "type": "disk_mm",
+  "facility": "ALMA/SMA",
+  "instrument": "Band 6/7",
+  "wavelength_um": 1300,
+  "wavelength_label": "~0.9-1.3 mm continuum",
+  "technique": "interferometry"
+ },
+ "credit": "Matrà et al. 2025, Fig. 1 (crop)",
+ "paper": {
+  "first_author": "Matra",
+  "year": 2025,
+  "title": "REsolved ALMA and SMA Observations of Nearby Stars (REASONS): A population of 74 resolved planetesimal belts at millimetre wavelengths",
+  "journal": "A&A 693, A151",
+  "arxiv": "2501.09058",
+  "bibcode": "2025A&A...693A.151M"
+ }
+}

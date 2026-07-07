@@ -1,0 +1,61 @@
+{
+ "id": "vhs-j1256-1257",
+ "name": "VHS J125601.92-125723.9",
+ "alt_names": [
+  "VHS 1256-1257"
+ ],
+ "simbad": "VHS J125601.92-125723.9",
+ "ra_deg": 194.0088904361,
+ "dec_deg": -12.9560900853,
+ "dist_pc": 21.15,
+ "plx_mas": 47.2733,
+ "mags": {
+  "V": 17.759,
+  "G": 15.1114,
+  "J": 11.018,
+  "H": 10.473,
+  "K": 10.044
+ },
+ "sptype": "M7.0",
+ "region": "Isolated",
+ "categories": [],
+ "planets": [
+  {
+   "name": "b",
+   "status": "confirmed",
+   "note": "L7 companion, ~11.2 Mjup, 150-300 Myr, at ~12.7 pc; discovered as a common-proper-motion companion at 8.06 arcsec via VISTA (VHS) survey imaging combined with 2MASS. Also the JWST ERS spectral benchmark (VHS 1256 b JWST NIRSpec/MIRI, Miles et al. 2023).",
+   "method": "imaging",
+   "paper": {
+    "first_author": "Gauza",
+    "year": 2015,
+    "arxiv": "1505.00806",
+    "bibcode": null
+   }
+  }
+ ],
+ "images": [
+  {
+   "image_id": "vhs-j1256-1257_vista2015",
+   "type": "planet",
+   "facility": "VISTA",
+   "instrument": "VIRCAM (VHS survey)",
+   "wavelength_um": 2.15,
+   "wavelength_label": "Ks band (discovery also in Y, J, H)",
+   "technique": "other",
+   "survey": "VISTA Hemisphere Survey",
+   "file": "images/vhs-j1256-1257/vhs-j1256-1257_vista2015.png",
+   "credit": "Gauza et al. 2015, Fig. 1 (crop)",
+   "hires_url": null,
+   "paper": {
+    "first_author": "Gauza",
+    "year": 2015,
+    "title": "Discovery of a Young Planetary Mass Companion to the Nearby M Dwarf VHS J125601.92-125723.9",
+    "journal": "ApJ 804, 96",
+    "arxiv": "1505.00806",
+    "bibcode": null
+   }
+  }
+ ],
+ "notes": null,
+ "last_updated": "2026-07-07"
+}

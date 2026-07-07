@@ -1,0 +1,312 @@
+{
+ "id": "hd-163296",
+ "name": "HD 163296",
+ "alt_names": [],
+ "simbad": "HD 163296",
+ "ra_deg": 269.08870077132,
+ "dec_deg": -21.95607550528,
+ "dist_pc": 101.0,
+ "sptype": "A3VaekA1mA1",
+ "region": "isolated Herbig Ae",
+ "categories": [
+  "protoplanetary"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "technique": "interferometry",
+   "instrument": "Band 6",
+   "wavelength_um": 1250,
+   "wavelength_label": "1.25 mm continuum",
+   "image_id": "hd-163296_dsharp",
+   "survey": "DSHARP",
+   "file": "images/hd-163296/hd-163296_dsharp.png",
+   "credit": "Andrews et al. 2018, Fig. 3 (crop)",
+   "paper": {
+    "first_author": "Andrews",
+    "year": 2018,
+    "title": "The Disk Substructures at High Angular Resolution Project (DSHARP). I. Motivation, Sample, Calibration, and Overview",
+    "journal": "ApJL 869, L41",
+    "arxiv": "1812.04040",
+    "bibcode": "2018ApJ...869L..41A"
+   }
+  },
+  {
+   "type": "disk_scattered",
+   "facility": "Gemini-GPI",
+   "instrument": "IFS pol",
+   "wavelength_um": 1.24,
+   "wavelength_label": "J band 1.24 um (pol. intensity)",
+   "technique": "PDI",
+   "image_id": "hd-163296_gemini-lights",
+   "survey": "Gemini-LIGHTS",
+   "file": "images/hd-163296/hd-163296_gemini-lights.png",
+   "credit": "Rich et al. 2022, rings gallery (crop)",
+   "paper": {
+    "first_author": "Rich",
+    "year": 2022,
+    "title": "Gemini-LIGHTS: Herbig Ae/Be and Massive T Tauri Protoplanetary Disks Imaged with Gemini Planet Imager",
+    "journal": "AJ 164, 109",
+    "arxiv": "2206.05815",
+    "bibcode": "2022AJ....164..109R"
+   }
+  },
+  {
+   "type": "disk_scattered",
+   "facility": "HST",
+   "instrument": "STIS",
+   "wavelength_um": 0.58,
+   "wavelength_label": "optical coronagraphy; disk + HH 409 jet knots",
+   "technique": "coronagraphy",
+   "survey": null,
+   "credit": "Grady et al. 2000, Fig. 2a (crop)",
+   "paper": {
+    "first_author": "Grady",
+    "year": 2000,
+    "title": "STIS Coronagraphic Imaging of the Herbig Ae Star: HD 163296",
+    "journal": "ApJ 544, 895",
+    "arxiv": null,
+    "bibcode": "2000ApJ...544..895G"
+   },
+   "image_id": "hd-163296_stis2000",
+   "file": "images/hd-163296/hd-163296_stis2000.png"
+  },
+  {
+   "type": "disk_scattered",
+   "facility": "VLT-NACO",
+   "instrument": "NACO pol",
+   "wavelength_um": 2.18,
+   "wavelength_label": "Ks band (PIPPIN PDI reprocessing)",
+   "technique": "PDI",
+   "image_id": "hd-163296_naco-pippin",
+   "file": "images/hd-163296/hd-163296_naco-pippin.png",
+   "survey": "NACO-PIPPIN",
+   "credit": "de Regt et al. 2024, Fig. 6 (crop)",
+   "paper": {
+    "first_author": "de Regt",
+    "year": 2024,
+    "title": "Polarimetric differential imaging with VLT/NACO. A comprehensive PDI pipeline for NACO data (PIPPIN)",
+    "journal": "A&A 684, A73",
+    "arxiv": "2404.02222",
+    "bibcode": "2024A&A...684A..73D"
+   }
+  },
+  {
+   "image_id": "hd-163296_alice-f110w",
+   "type": "disk_scattered",
+   "facility": "HST",
+   "instrument": "NICMOS",
+   "wavelength_um": 1.1,
+   "wavelength_label": "F110W 1.1 um (ALICE archival reprocessing, combined coadd)",
+   "technique": "RDI",
+   "survey": "ALICE",
+   "file": "images/hd-163296/hd-163296_alice-f110w.png",
+   "credit": "ALICE HLSP v1 combined coadd (HST program 10177, STScI) — hi-res: ALICE archive (STScI)",
+   "paper": {
+    "first_author": "Hagan",
+    "year": 2018,
+    "title": "ALICE Data Release: A revaluation of HST-NICMOS coronagraphic images",
+    "journal": "AJ 155, 179",
+    "arxiv": "1802.07754",
+    "bibcode": null
+   },
+   "hires_url": "https://archive.stsci.edu/prepds/alice/"
+  },
+  {
+   "image_id": "hd-163296_scexao-mullin",
+   "type": "disk_scattered",
+   "facility": "Subaru",
+   "instrument": "SCExAO/CHARIS",
+   "wavelength_um": 2.2,
+   "wavelength_label": "K-band polarimetric (PDI) scattered light",
+   "technique": "PDI",
+   "survey": "SCExAO-Mullin2026",
+   "file": "images/hd-163296/hd-163296_scexao-mullin.png",
+   "credit": "Mullin et al. 2026, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Mullin",
+    "year": 2026,
+    "title": "Time-variable Scattered Light in Herbig Disks Observed with Subaru/SCExAO",
+    "journal": "AJ (2026)",
+    "arxiv": "2602.20346",
+    "bibcode": null
+   }
+  },
+  {
+   "image_id": "hd-163296_sphere2018",
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS (DPI)",
+   "wavelength_um": 1.6,
+   "wavelength_label": "H band (1.6 um)",
+   "technique": "polarimetric differential imaging (DPI)",
+   "survey": null,
+   "file": "images/hd-163296/hd-163296_sphere2018.png",
+   "credit": "Muro-Arena et al. 2018, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Muro-Arena",
+    "year": 2018,
+    "title": "Dust modeling of the combined ALMA and SPHERE datasets of HD 163296. Is HD 163296 really a Meeus group II disk?",
+    "journal": "Astronomy & Astrophysics",
+    "arxiv": "1802.03328",
+    "bibcode": "2018A&A...614A..24M"
+   }
+  },
+  {
+   "image_id": "hd-163296_alma-maps2021",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 6 (CO line)",
+   "wavelength_um": 1360,
+   "wavelength_label": "13CO 2-1 zeroth moment",
+   "technique": "interferometry",
+   "survey": "MAPS",
+   "credit": "Oberg et al. 2021, Fig. 6 (crop)",
+   "paper": {
+    "first_author": "Oberg",
+    "year": 2021,
+    "title": "Molecules with ALMA at Planet-forming Scales (MAPS) I: Program Overview and Highlights",
+    "journal": "ApJS, 257, 1",
+    "arxiv": "2109.06268",
+    "bibcode": null
+   },
+   "file": "images/hd-163296/hd-163296_alma-maps2021.png"
+  },
+  {
+   "image_id": "hd-163296_nircam2025",
+   "type": "planet",
+   "facility": "JWST",
+   "instrument": "NIRCam (coronagraphy)",
+   "wavelength_um": 4.1,
+   "wavelength_label": "F410M (4.1 um) coronagraphic image, point-like source candidate",
+   "technique": "coronagraphy",
+   "survey": null,
+   "credit": "Uyama et al. 2025, Fig. 2 (crop)",
+   "paper": {
+    "first_author": "Uyama",
+    "year": 2025,
+    "title": "JWST/NIRCam Coronagraphic Search for Hidden Planets in the HD~163296 Protoplanetary Disk",
+    "journal": "AJ 169, 287",
+    "arxiv": "2503.20132",
+    "bibcode": null
+   },
+   "file": "images/hd-163296/hd-163296_nircam2025.png"
+  },
+  {
+   "image_id": "hd-163296_sma-pdbi2007",
+   "type": "disk_mm",
+   "facility": "SMA",
+   "instrument": "SMA (0.87mm) / IRAM PdBI (1.3mm, 2.8mm)",
+   "wavelength_um": 1300,
+   "wavelength_label": "0.87 mm, 1.3 mm, 2.8 mm continuum",
+   "technique": "interferometry",
+   "survey": null,
+   "credit": "Isella et al. 2007, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Isella",
+    "year": 2007,
+    "title": "Millimeter imaging of HD 163296: probing the disk structure and kinematics",
+    "journal": "A&A, 469, 213",
+    "arxiv": "0704.0616",
+    "bibcode": null
+   },
+   "file": "images/hd-163296/hd-163296_sma-pdbi2007.png"
+  },
+  {
+   "image_id": "hd-163296_sphere-ks-qphi",
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS",
+   "wavelength_um": 2.18,
+   "wavelength_label": "Ks band 2.2 um (pol. intensity, Qphi)",
+   "technique": "PDI",
+   "survey": "SPHERE-Ks-RDI",
+   "credit": "Ren et al. 2023, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Ren",
+    "year": 2023,
+    "title": "Protoplanetary disks in $K_s$-band total intensity and polarized light",
+    "journal": "A&A 680, A114",
+    "arxiv": "2310.08589",
+    "bibcode": "2023A&A...680A.114R"
+   },
+   "file": "images/hd-163296/hd-163296_sphere-ks-qphi.png"
+  },
+  {
+   "image_id": "hd-163296_muse2020",
+   "type": "disk_scattered",
+   "facility": "VLT-MUSE",
+   "instrument": "MUSE",
+   "wavelength_um": 0.656,
+   "wavelength_label": "H-alpha MUSE jet map (composite with ALMA 1.2mm disk)",
+   "technique": "other",
+   "survey": null,
+   "credit": "Xie et al. 2020, Fig. 14 (crop)",
+   "paper": {
+    "first_author": "Xie",
+    "year": 2020,
+    "title": "Searching for proto-planets with MUSE",
+    "journal": "A&A 644, A149",
+    "arxiv": "2011.08043",
+    "bibcode": null
+   },
+   "file": "images/hd-163296/hd-163296_muse2020.png"
+  },
+  {
+   "image_id": "hd-163296_nirc2vortex2018",
+   "type": "disk_scattered",
+   "facility": "Keck",
+   "instrument": "NIRC2 (vortex coronagraph)",
+   "wavelength_um": 3.8,
+   "wavelength_label": "L' band (3.8 um)",
+   "technique": "ADI",
+   "survey": null,
+   "credit": "Guidi et al. 2018, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Guidi",
+    "year": 2018,
+    "title": "High-contrast imaging of HD 163296 with the Keck/NIRC2 L'-band vortex coronograph",
+    "journal": "MNRAS 479, 1505-1513",
+    "arxiv": "1806.08263",
+    "bibcode": null
+   },
+   "file": "images/hd-163296/hd-163296_nirc2vortex2018.png"
+  },
+  {
+   "image_id": "hd-163296_eris2025",
+   "type": "disk_scattered",
+   "facility": "VLT",
+   "instrument": "ERIS/vAPP",
+   "wavelength_um": 4.0,
+   "wavelength_label": "4 um (M-band, mid-IR scattered light, RDI)",
+   "technique": "RDI",
+   "survey": null,
+   "credit": "Maio et al. 2025, Fig. 4 (crop)",
+   "paper": {
+    "first_author": "Maio",
+    "year": 2025,
+    "title": "Protoplanetary disk insights from the first ERIS/APP survey at 4 μm",
+    "journal": "Astronomy & Astrophysics",
+    "arxiv": "2504.19810",
+    "bibcode": null
+   },
+   "file": "images/hd-163296/hd-163296_eris2025.png"
+  }
+ ],
+ "notes": null,
+ "last_updated": "2026-07-07",
+ "plx_mas": 9.9043,
+ "mags": {
+  "U": 7.0,
+  "B": 6.93,
+  "V": 6.85,
+  "G": 6.844196,
+  "R": 6.86,
+  "I": 6.67,
+  "J": 6.195,
+  "H": 5.531,
+  "K": 4.779
+ }
+}

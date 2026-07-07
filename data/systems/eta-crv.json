@@ -1,0 +1,111 @@
+{
+ "id": "eta-crv",
+ "name": "eta Crv",
+ "alt_names": [
+  "HD 109085"
+ ],
+ "simbad": "eta Crv",
+ "ra_deg": 188.0176100077008,
+ "dec_deg": -16.1960051709386,
+ "dist_pc": 18.2,
+ "sptype": "F2V",
+ "region": null,
+ "categories": [
+  "debris"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "type": "disk_mm",
+   "facility": "ALMA/SMA",
+   "technique": "interferometry",
+   "instrument": "Band 6/7",
+   "wavelength_um": 1300,
+   "wavelength_label": "~0.9-1.3 mm continuum",
+   "image_id": "eta-crv_reasons",
+   "survey": "REASONS",
+   "file": "images/eta-crv/eta-crv_reasons.png",
+   "credit": "Matrà et al. 2025, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Matra",
+    "year": 2025,
+    "title": "REsolved ALMA and SMA Observations of Nearby Stars (REASONS): A population of 74 resolved planetesimal belts at millimetre wavelengths",
+    "journal": "A&A 693, A151",
+    "arxiv": "2501.09058",
+    "bibcode": "2025A&A...693A.151M"
+   }
+  },
+  {
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 7",
+   "wavelength_um": 880,
+   "wavelength_label": "0.88 mm continuum ring",
+   "technique": "interferometry",
+   "survey": null,
+   "credit": "Marino et al. 2017, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Marino",
+    "year": 2017,
+    "title": "ALMA observations of the eta Corvi debris disc: inward scattering of CO-rich exocomets by a chain of 3-30 M_Earth planets?",
+    "journal": "MNRAS 465, 2595",
+    "arxiv": "1611.01168",
+    "bibcode": "2017MNRAS.465.2595M"
+   },
+   "image_id": "eta-crv_alma2017",
+   "file": "images/eta-crv/eta-crv_alma2017.png"
+  },
+  {
+   "image_id": "eta-crv_alice-f160w",
+   "type": "disk_scattered",
+   "facility": "HST",
+   "instrument": "NICMOS",
+   "wavelength_um": 1.6,
+   "wavelength_label": "F160W 1.6 um (ALICE archival reprocessing, combined coadd)",
+   "technique": "RDI",
+   "survey": "ALICE",
+   "file": "images/eta-crv/eta-crv_alice-f160w.png",
+   "credit": "ALICE HLSP v1 combined coadd (HST program 10244, STScI) — hi-res: ALICE archive (STScI)",
+   "paper": {
+    "first_author": "Hagan",
+    "year": 2018,
+    "title": "ALICE Data Release: A revaluation of HST-NICMOS coronagraphic images",
+    "journal": "AJ 155, 179",
+    "arxiv": "1802.07754",
+    "bibcode": null
+   },
+   "hires_url": "https://archive.stsci.edu/prepds/alice/"
+  },
+  {
+   "image_id": "eta-crv_herschel2014",
+   "type": "disk_mm",
+   "facility": "Herschel",
+   "instrument": "PACS",
+   "wavelength_um": 70,
+   "wavelength_label": "70 um",
+   "technique": "other",
+   "survey": null,
+   "credit": "Duchene et al. 2014, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Duchene",
+    "year": 2014,
+    "title": "Spatially resolved imaging of the two-component eta Crv debris disk with Herschel",
+    "journal": null,
+    "arxiv": "1402.1184",
+    "bibcode": null
+   },
+   "file": "images/eta-crv/eta-crv_herschel2014.png"
+  }
+ ],
+ "notes": "coverage: no resolved scattered-light image as of 2026-07 (swept; HST ACS/NICMOS GO-10244 did not detect the disk)",
+ "last_updated": "2026-07-07",
+ "plx_mas": 54.8135,
+ "mags": {
+  "B": 4.658,
+  "V": 4.294,
+  "G": 4.209557,
+  "J": 3.609,
+  "H": 3.372,
+  "K": 3.372
+ }
+}

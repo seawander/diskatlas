@@ -1,0 +1,35 @@
+{
+ "survey": "single-pds70",
+ "survey_name": null,
+ "source_image": "images/_sources/extracted/2108.07123/FIG/LB1_SB1_final_wJvM_v090421_annotations.pdf",
+ "pdf_page": 1,
+ "panels": [
+  {
+   "id": "pds-70",
+   "image_id": "pds-70_alma2021",
+   "bbox_frac": [
+    0.69433,
+    0.198165,
+    0.984388,
+    0.849541
+   ]
+  }
+ ],
+ "image_defaults": {
+  "type": "disk_mm",
+  "facility": "ALMA",
+  "instrument": "Band 7",
+  "wavelength_um": 855,
+  "wavelength_label": "855 um continuum (ring + CPD around c)",
+  "technique": "interferometry"
+ },
+ "credit": "Benisty et al. 2021, Fig. 1 (right, annotated) (crop)",
+ "paper": {
+  "first_author": "Benisty",
+  "year": 2021,
+  "title": "A Circumplanetary Disk around PDS 70 c",
+  "journal": "ApJL 916, L2",
+  "arxiv": "2108.07123",
+  "bibcode": "2021ApJ...916L...2B"
+ }
+}

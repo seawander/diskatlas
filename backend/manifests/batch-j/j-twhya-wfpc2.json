@@ -1,0 +1,21 @@
+{
+ "survey": "j-twhya-wfpc2",
+ "survey_name": null,
+ "source_image": "images/_sources/extra/krist2000_twhya.pdf",
+ "pdf_page": 6,
+ "panels": [
+  {
+   "id": "tw-hya",
+   "image_id": "tw-hya_wfpc2-2000",
+   "bbox_frac": [
+    0.196,
+    0.63,
+    0.486,
+    0.884
+   ]
+  }
+ ],
+ "image_defaults": {},
+ "credit": "Krist et al. 2000, Fig. 7 (crop: PSF-subtracted F606W image; PDF p. 6)",
+ "paper": null
+}

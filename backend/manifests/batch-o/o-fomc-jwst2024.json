@@ -1,0 +1,36 @@
+{
+ "survey": "o-fomc-jwst2024",
+ "survey_name": null,
+ "source_image": "images/_sources/extracted/2405.00573/figures/fomc_alma_overlay_and_astrometry.pdf",
+ "pdf_page": 1,
+ "dpi": 250,
+ "credit": "Lawson et al. 2024, Fig. 1 (crop: left panel, NIRCam F356W MCRDI image of the Fomalhaut C debris ring)",
+ "paper": {
+  "first_author": "Lawson",
+  "year": 2024,
+  "title": "JWST/NIRCam Detection of the Fomalhaut C Debris Disk in Scattered Light",
+  "journal": "ApJL (2024)",
+  "arxiv": "2405.00573",
+  "bibcode": null
+ },
+ "panels": [
+  {
+   "id": "hd-216956c",
+   "image_id": "hd-216956c_jwst2024",
+   "bbox_frac": [
+    0.01,
+    0.043,
+    0.425,
+    0.944
+   ]
+  }
+ ],
+ "image_defaults": {
+  "type": "disk_scattered",
+  "facility": "JWST",
+  "instrument": "NIRCam",
+  "wavelength_um": 3.56,
+  "wavelength_label": "F356W (3.6 um); first scattered-light detection of this late-type M-dwarf debris ring",
+  "technique": "coronagraphy"
+ }
+}

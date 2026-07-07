@@ -1,0 +1,35 @@
+{
+ "survey": "pl-hip65426-sphere",
+ "survey_name": null,
+ "source_image": "images/_sources/extracted/1707.01413/fig1.pdf",
+ "pdf_page": null,
+ "panels": [
+  {
+   "id": "hip-65426",
+   "image_id": "hip-65426_sphere2017",
+   "bbox_frac": [
+    0.512,
+    0.0,
+    1.0,
+    1.0
+   ]
+  }
+ ],
+ "image_defaults": {
+  "type": "planet",
+  "facility": "VLT-SPHERE",
+  "instrument": "IRDIS+IFS",
+  "wavelength_um": 1.65,
+  "wavelength_label": "H2H3 band; SHINE discovery",
+  "technique": "ADI"
+ },
+ "credit": "Chauvin et al. 2017, Fig. 1 (crop)",
+ "paper": {
+  "first_author": "Chauvin",
+  "year": 2017,
+  "title": "Discovery of a warm, dusty giant planet around HIP 65426",
+  "journal": "A&A 605, L9",
+  "arxiv": "1707.01413",
+  "bibcode": "2017A&A...605L...9C"
+ }
+}

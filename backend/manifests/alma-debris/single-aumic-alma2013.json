@@ -1,0 +1,34 @@
+{
+ "survey": "single-aumic-alma2013",
+ "survey_name": null,
+ "source_image": "images/_sources/_views/aumic_f1_r200.png",
+ "panels": [
+  {
+   "id": "au-mic",
+   "image_id": "au-mic_alma2013",
+   "bbox_frac": [
+    0.1467,
+    0.033,
+    0.848,
+    0.898
+   ]
+  }
+ ],
+ "image_defaults": {
+  "type": "disk_mm",
+  "facility": "ALMA",
+  "instrument": "Band 6",
+  "wavelength_um": 1300,
+  "wavelength_label": "1.3 mm continuum (edge-on belt)",
+  "technique": "interferometry"
+ },
+ "credit": "MacGregor et al. 2013, Fig. 1 (crop)",
+ "paper": {
+  "first_author": "MacGregor",
+  "year": 2013,
+  "title": "Millimeter Emission Structure in the First ALMA Image of the AU Mic Debris Disk",
+  "journal": "ApJL 762, L21",
+  "arxiv": "1211.5148",
+  "bibcode": "2013ApJ...762L..21M"
+ }
+}

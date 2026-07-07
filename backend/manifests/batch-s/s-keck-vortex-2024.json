@@ -1,0 +1,31 @@
+{
+ "survey": "s-keck-vortex-2024",
+ "survey_name": "Keck-vortex-2024",
+ "source_image": "images/_sources/extracted/2408.04048/disks.pdf",
+ "pdf_page": 1,
+ "grid": {
+  "rows": 2,
+  "cols": 4,
+  "image_id_pattern": "{id}_keck-vortex-2024",
+  "trim_frac": [0.05894, 0.01760, 0.05926, 0.12696],
+  "order": ["rx-j1604-3-2130", "lkha-330", "lkca-15", "mwc-758",
+            "pds-70", "ry-tau", "hd-34282", "cq-tau"]
+ },
+ "image_defaults": {
+  "type": "disk_scattered",
+  "facility": "Keck",
+  "instrument": "NIRC2 vortex",
+  "wavelength_um": 3.8,
+  "wavelength_label": "L' 3.8 um scattered light (ALMA contours overlaid)",
+  "technique": "RDI"
+ },
+ "credit": "Wallack et al. 2024, Fig. 4 (crop)",
+ "paper": {
+  "first_author": "Wallack",
+  "year": 2024,
+  "title": "A Survey of Protoplanetary Disks Using the Keck/NIRC2 Vortex Coronagraph",
+  "journal": "AJ 168, 78",
+  "arxiv": "2408.04048",
+  "bibcode": "2024AJ....168...78W"
+ }
+}

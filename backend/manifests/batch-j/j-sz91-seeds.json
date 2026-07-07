@@ -1,0 +1,21 @@
+{
+ "survey": "j-sz91-seeds",
+ "survey_name": null,
+ "source_image": "images/_sources/_views/j-sz91.png",
+ "pdf_page": null,
+ "panels": [
+  {
+   "id": "sz-91",
+   "image_id": "sz-91_seeds",
+   "bbox_frac": [
+    0,
+    0,
+    1,
+    1
+   ]
+  }
+ ],
+ "image_defaults": {},
+ "credit": "Tsukagoshi et al. 2014, Fig. 4a (crop: Ks PI + 345 GHz contours)",
+ "paper": null
+}

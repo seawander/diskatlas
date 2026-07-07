@@ -1,0 +1,25 @@
+{
+  "survey": "exoalma",
+  "survey_name": "exoALMA",
+  "source_image": "images/_sources/extracted/2504.18725/Figures/continnum_global_robust-0.5_Asinh_horizontal.pdf",
+  "pdf_page": 1,
+  "grid": {
+    "rows": 3, "cols": 5,
+    "image_id_pattern": "{id}_exoalma",
+    "trim_frac": [0.05658, 0.00728, 0.004657, 0.066642],
+    "order": ["aa-tau", "cq-tau", "dm-tau", "hd-135344b", "hd-143006",
+              "hd-34282", "rx-j1604-3-2130", "rx-j1615-3-3255", "rx-j1842-9-3532", "rx-j1852-3-3700",
+              "lkca-15", "mwc-758", "pds-66", "sy-cha", "v4046-sgr"]
+  },
+  "image_defaults": {
+    "type": "disk_mm", "facility": "ALMA", "instrument": "Band 7",
+    "wavelength_um": 900, "wavelength_label": "0.9 mm continuum",
+    "technique": "interferometry"
+  },
+  "credit": "Curone et al. 2025, Fig. 1 (crop)",
+  "paper": {
+    "first_author": "Curone", "year": 2025,
+    "title": "exoALMA IV: Substructures, Asymmetries, and the Faint Outer Disk in Continuum Emission",
+    "journal": "ApJL (exoALMA special issue)", "arxiv": "2504.18725", "bibcode": null
+  }
+}

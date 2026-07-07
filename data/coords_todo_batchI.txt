@@ -1,0 +1,10 @@
+# Batch I follow-up coordinates (SIMBAD-resolvable names, one per line)
+# -- from NACO-PIPPIN Fig. 6 (de Regt+2024) and SEEDS Fig. 3 (Tamura 2016) --
+# Sz 91: Lupus III T Tauri transition disk (NACO-PIPPIN Ks crop + SEEDS member)
+Sz 91
+# SR 21 (= Elias 2-30): Ophiuchus transition disk, SEEDS/Follette+2013 (system id sr-21)
+SR 21
+# HIP 79977: Upper Sco debris disk, SEEDS/Thalmann+2013 (system id hip-79977; category debris)
+HIP 79977
+# Elia 2-25: rho Oph YSO, NACO-PIPPIN panel "Elia 2-25" (system id elias-25, display "Elias 25")
+Elia 2-25

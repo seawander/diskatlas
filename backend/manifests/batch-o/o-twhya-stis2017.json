@@ -1,0 +1,35 @@
+{
+ "survey": "o-twhya-stis2017",
+ "survey_name": null,
+ "source_image": "images/_sources/_views/batch-o/src_debes17_imagesrsq.png",
+ "pdf_page": null,
+ "credit": "Debes et al. 2017, Fig. 2 (crop: 2016 epoch, R^2-scaled STIS coronagraphic image showing the azimuthal shadow asymmetry)",
+ "paper": {
+  "first_author": "Debes",
+  "year": 2017,
+  "title": "Chasing Shadows: Rotation of the Azimuthal Asymmetry in the TW Hya Disk",
+  "journal": "ApJ 835, 205",
+  "arxiv": "1701.03152",
+  "bibcode": "2017ApJ...835..205D"
+ },
+ "panels": [
+  {
+   "id": "tw-hya",
+   "image_id": "tw-hya_stis2017-shadow",
+   "bbox_frac": [
+    0.5,
+    0.5,
+    1.0,
+    1.0
+   ]
+  }
+ ],
+ "image_defaults": {
+  "type": "disk_scattered",
+  "facility": "HST",
+  "instrument": "STIS BAR5",
+  "wavelength_um": 0.58,
+  "wavelength_label": "optical; rotating shadow on the outer disk (2016 epoch, R^2-scaled, IWA 0.2 arcsec)",
+  "technique": "coronagraphy"
+ }
+}

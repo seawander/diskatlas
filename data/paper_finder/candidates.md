@@ -1,0 +1,5092 @@
+# paper-finder candidates (2026-07-06) — 384/384 seeds fetched (0 failed), 5084 candidates
+
+- **43× cited-seeds** | arXiv 1806.05183 | 2018 | Spiral Arms in Disks: Planets or Gravitational Instability?
+- **39× cited-seeds** | arXiv — | 2017 | Protoplanetary disks and exoplanets in scattered light
+- **39× cited-seeds** | arXiv — | 2017 | Protoplanetary disks and exoplanets in scattered light
+- **38× cited-seeds** | arXiv — | 2017 | UvA-DARE ( Digital Academic Repository ) Protoplanetary disks and exoplanets in scattered light
+- **36× cited-seeds** | arXiv — | 2023 | Observations of circumstellar disks in scattered light with SPHERE at the VLT
+- **36× cited-seeds** | arXiv — | 2023 | Transition disks: the observational revolution from SEDs to imaging
+- **36× cited-seeds** | arXiv 1605.02731 | 2016 | Imaging Extrasolar Giant Planets
+- **35× cited-seeds** | arXiv 2404.05797 | 2024 | Direct imaging of exoplanets
+- **35× cited-seeds** | arXiv 2210.05539 | 2022 | Transition disks: the observational revolution from SEDs to imaging
+- **31× cited-seeds** | arXiv 2002.01807 | 2020 | ISPY-NACO Imaging Survey for Planets around Young stars
+- **30× cited-seeds** | arXiv 2601.11766 | 2026 | The ALMA survey to Resolve exoKuiper belt Substructures (ARKS)
+- **30× cited-seeds** | arXiv 1604.04697 | 2016 | The SEEDS High-Contrast Imaging Survey of Exoplanets Around Young Stellar Objects
+- **29× cited-seeds** | arXiv 1507.04758 | 2015 | Observations of Solids in Protoplanetary Disks
+- **28× cited-seeds** | arXiv — | 2024 | High-Contrast Imaging: Hide and Seek with Exoplanets
+- **27× cited-seeds** | arXiv 2103.04366 | 2021 | The SPHERE infrared survey for exoplanets (SHINE)
+- **26× cited-seeds** | arXiv 2601.12586 | 2026 | The ALMA survey to Resolve exoKuiper belt Substructures (ARKS)
+- **26× cited-seeds** | arXiv 2010.10568 | 2020 | On the Diversity of Asymmetries in Gapped Protoplanetary Disks
+- **25× cited-seeds** | arXiv 2509.10614 | 2025 | An Introduction to Dust Evolution and Vertical Transport in Protoplanetary Disks
+- **25× cited-seeds** | arXiv — | 2017 | Statistical modelling of resolved debris discs
+- **25× cited-seeds** | arXiv — | 2016 | SEEDS — Strategic explorations of exoplanets and disks with the Subaru Telescope —
+- **24× cited-seeds** | arXiv 2601.13670 | 2026 | The ALMA survey to Resolve exoKuiper belt Substructures (ARKS)
+- **24× cited-seeds** | arXiv 2310.09077 | 2023 | Dust evolution in protoplanetary disks
+- **23× cited-seeds** | arXiv 2506.16481 | 2025 | SO Emission in the Dynamically Perturbed Protoplanetary Disks around CQ Tau and MWC 758
+- **23× cited-seeds** | arXiv 2301.01165 | 2023 | Herbig Stars
+- **23× cited-seeds** | arXiv 1904.06438 | 2019 | On the Mass Function, Multiplicity, and Origins of Wide-orbit Giant Planets
+- **22× cited-seeds** | arXiv — | 2020 | Characterising the gas and dust in protoplanetary discs around Herbig stars
+- **22× cited-seeds** | arXiv — | 2017 | Observational Signatures of Planet Formation in Recent Resolved Observations of Protoplanetary Disks
+- **21× cited-seeds** | arXiv 2509.15323 | 2025 | Dynamical Analysis of the HD 169142 Planet-forming Disk: Twelve Years of High-contrast Polarimetry
+- **21× cited-seeds** | arXiv 1506.01147 | 2015 | Resolving structure of the disc around HD100546 at 7 mm with ATCA
+- **20× cited-seeds** | arXiv 2512.01731 | 2025 | The Chemical Diversity of Giant-planet Nurseries as Revealed by ALMA
+- **20× cited-seeds** | arXiv 2511.11358 | 2025 | Shadow-induced Warps in Protoplanetary Disks
+- **20× cited-seeds** | arXiv — | 2022 | Direct imaging and spectroscopy of exoplanetary systems with the JWST early release science program
+- **20× cited-seeds** | arXiv 1911.10569 | 2019 | Population-level Eccentricity Distributions of Imaged Exoplanets and Brown Dwarf Companions: Dynamical Evidence for Distinct Formation Channels
+- **20× cited-seeds** | arXiv 1804.01094 | 2018 | An Empirical Planetesimal Belt Radius–Stellar Luminosity Relation
+- **20× cited-seeds** | arXiv 1810.04564 | 2018 | Evolution of protoplanetary disks from their taxonomy in scattered light: spirals, rings, cavities, and shadows
+- **20× cited-seeds** | arXiv 1710.03019 | 2017 | Dynamical models to explain observations with SPHERE in planetary systems with double debris belts
+- **20× cited-seeds** | arXiv 1306.0581 | 2013 | THE SEEDS DIRECT IMAGING SURVEY FOR PLANETS AND SCATTERED DUST EMISSION IN DEBRIS DISK SYSTEMS
+- **20× cited-seeds** | arXiv — | 2011 | The Exoplanet Handbook
+- **19× cited-seeds** | arXiv 2601.05976 | 2026 | Distinct Rotational Evolution of Giant Planets and Brown Dwarf Companions
+- **19× cited-seeds** | arXiv 2501.19249 | 2025 | Circumstellar and Circumbinary Discs in Multiple Stellar Systems
+- **19× cited-seeds** | arXiv 2509.26617 | 2025 | Direct Measurement of Extinction in a Planet-hosting Gap
+- **19× cited-seeds** | arXiv 2404.10522 | 2023 | Direct imaging of exoplanets: Legacy and prospects
+- **19× cited-seeds** | arXiv 2205.12972 | 2022 | The JWST Early Release Science Program for the Direct Imaging and Spectroscopy of Exoplanetary Systems
+- **19× cited-seeds** | arXiv 2103.05377 | 2021 | Perturbers: SPHERE detection limits to planetary-mass companions in protoplanetary disks
+- **18× cited-seeds** | arXiv 2509.06729 | 2025 | HD 143811 AB b: A Directly Imaged Planet Orbiting a Spectroscopic Binary in Sco-Cen
+- **18× cited-seeds** | arXiv 2512.16091 | 2025 | Axisymmetric Modeling of DSHARP Dusty Disks: Asymmetric Structures and Inner-disk Dispersal
+- **18× cited-seeds** | arXiv 2102.05353 | 2021 | Limits on the presence of planets in systems with debris discs: HD 92945 and HD 107146
+- **18× cited-seeds** | arXiv 2106.11527 | 2021 | Four new planetesimals around typical and pre-main-sequence  stars (PLATYPUS) debris discs at 8.8 mm
+- **18× cited-seeds** | arXiv 1908.09685 | 2019 | New Millimeter CO Observations of the Gas-rich Debris Disks 49 Cet and HD 32297
+- **18× cited-seeds** | arXiv 1909.12312 | 2019 | Extrasolar Kuiper belts
+- **18× cited-seeds** | arXiv 1908.00006 | 2019 | An Exo–Kuiper Belt with an Extended Halo around HD 191089 in Scattered Light
+- **18× cited-seeds** | arXiv 1805.01915 | 2018 | A gap in the planetesimal disc around HD 107146 and asymmetric warm dust emission revealed by ALMA
+- **18× cited-seeds** | arXiv 1605.05315 | 2016 | Direct Imaging discovery of a second planet candidate around the possibly transiting planet host CVSO 30
+- **18× cited-seeds** | arXiv 1612.04821 | 2016 | What is the Mass of a Gap-opening Planet?
+- **18× cited-seeds** | arXiv 1305.7264 | 2013 | THE MOVING GROUP TARGETS OF THE SEEDS HIGH-CONTRAST IMAGING SURVEY OF EXOPLANETS AND DISKS: RESULTS AND OBSERVATIONS FROM THE FIRST THREE YEARS
+- **17× cited-seeds** | arXiv 2604.09526 | 2026 | High-Contrast Imaging of Forming Protoplanets: VLTs, JWST, and the Promise of ELT
+- **17× cited-seeds** | arXiv 2104.14212 | 2021 | What happened before?
+- **17× cited-seeds** | arXiv 2003.00079 | 2020 | Dust-depleted Inner Disks in a Large Sample of Transition Disks through Long-baseline ALMA Observations
+- **17× cited-seeds** | arXiv 1906.08797 | 2019 | The REASONS Survey: Resolved Millimeter Observations of a Large Debris Disk around the Nearby F Star HD 170773
+- **17× cited-seeds** | arXiv 1904.05358 | 2019 | The Gemini Planet Imager Exoplanet Survey: Giant Planet and Brown Dwarf Demographics from 10 to 100 au
+- **17× cited-seeds** | arXiv 1703.08560 | 2017 | Circumstellar discs: What will be next?
+- **17× cited-seeds** | arXiv 1611.01798 | 2016 | A ‘Rosetta Stone’ for Protoplanetary Disks: The Synergy of Multi-Wavelength Observations
+- **17× cited-seeds** | arXiv — | 2015 | Imaging of protoplanetary and debris disks
+- **17× cited-seeds** | arXiv 1410.7753 | 2014 | ON THE MORPHOLOGY AND CHEMICAL COMPOSITION OF THE HR 4796A DEBRIS DISK
+- **16× cited-seeds** | arXiv 2504.20023 | 2025 | exoALMA. XVII. Characterizing the Gas Dynamics around Dust Asymmetries
+- **16× cited-seeds** | arXiv — | 2025 | Hα Variability of AB Aur b with the Hubble Space Telescope: Probing the Nature of a Protoplanet Candidate with Accretion Light Echoes
+- **16× cited-seeds** | arXiv 2301.04692 | 2023 | Rotation Periods, Inclinations, and Obliquities of Cool Stars Hosting Directly Imaged Substellar Companions: Spin–Orbit Misalignments Are Common
+- **16× cited-seeds** | arXiv 2103.03976 | 2021 | The SPHERE infrared survey for exoplanets (SHINE)
+- **16× cited-seeds** | arXiv 2101.08268 | 2021 | A search for a fifth planet around HR 8799 using the star-hopping RDI technique at VLT/SPHERE
+- **16× cited-seeds** | arXiv 1912.04284 | 2019 | The Young Suns Exoplanet Survey: Detection of a wide-orbit planetary-mass companion to a solar-type Sco-Cen member
+- **16× cited-seeds** | arXiv 1811.04074 | 2018 | Ring structure in the MWC 480 disk revealed by ALMA
+- **16× cited-seeds** | arXiv 1606.01134 | 2016 | A COMPREHENSIVE CENSUS OF NEARBY INFRARED EXCESS STARS
+- **16× cited-seeds** | arXiv 1605.02074 | 2016 | Stability and Occurrence Rate Constraints on the Planetary Sculpting Hypothesis for "Transitional" Disks
+- **16× cited-seeds** | arXiv 1608.05123 | 2016 | Signatures of Young Planets in the Continuum Emission from Protostellar Disks
+- **16× cited-seeds** | arXiv 1504.04880 | 2015 | High-contrast imaging constraints on gas giant planet formation—The Herbig Ae/Be star opportunity
+- **16× cited-seeds** | arXiv — | 2014 | Circumstellar disk and planet imaging with AO
+- **16× cited-seeds** | arXiv 1411.6063 | 2014 | Observational Signatures of Planets in Protoplanetary Disks I: Gaps Opened by Single and Multiple Young Planets in Disks
+- **15× cited-seeds** | arXiv 2401.02834 | 2024 | JWST/NIRCam Imaging of Young Stellar Objects. II. Deep Constraints on Giant Planets and a Planet Candidate Outside of the Spiral Disk Around SAO 206462
+- **15× cited-seeds** | arXiv 2410.03823 | 2024 | High-resolution ALMA Observations of Richly Structured Protoplanetary Disks in σ Orionis
+- **15× cited-seeds** | arXiv 2211.02109 | 2022 | The Giant Accreting Protoplanet Survey (GAPlanetS)—Results from a 6 yr Campaign to Image Accreting Protoplanets
+- **15× cited-seeds** | arXiv 2102.12506 | 2021 | New mid-infrared imaging constraints on companions and protoplanetary disks around six young stars
+- **15× cited-seeds** | arXiv 2101.04187 | 2021 | Constraining the Nature of the PDS 70 Protoplanets with VLTI/GRAVITY
+- **15× cited-seeds** | arXiv 1804.07301 | 2018 | Homogeneous Analysis of the Dust Morphology of Transition Disks Observed with ALMA: Investigating Dust Trapping and the Origin of the Cavities
+- **15× cited-seeds** | arXiv 1812.04193 | 2018 | The Disk Substructures at High Angular Resolution Project (DSHARP). III. Spiral Structures in the Millimeter Continuum of the Elias 27, IM Lup, and WaOph 6 Disks
+- **15× cited-seeds** | arXiv 1812.04041 | 2018 | The Disk Substructures at High Angular Resolution Project (DSHARP). II. Characteristics of Annular Substructures
+- **15× cited-seeds** | arXiv 1706.09427 | 2017 | Polarized scattered light from self-luminous exoplanets
+- **15× cited-seeds** | arXiv 1612.09454 | 2016 | Polycyclic Aromatic Hydrocarbons in Protoplanetary Disks around Herbig Ae/Be and T Tauri Stars
+- **15× cited-seeds** | arXiv 1401.7668 | 2014 | SPECTROSCOPIC CONFIRMATION OF YOUNG PLANETARY-MASS COMPANIONS ON WIDE ORBITS
+- **14× cited-seeds** | arXiv 2512.06083 | 2025 | A Test of Substellar Evolutionary Models with High-precision Ages from Asteroseismology and Gyrochronology for the Benchmark System HR 7672AB
+- **14× cited-seeds** | arXiv 2509.10292 | 2025 | Is cosmic dust porous?
+- **14× cited-seeds** | arXiv — | 2024 | JWST/NIRCam 4–5 μm Imaging of the Giant Planet AF Lep b
+- **14× cited-seeds** | arXiv 2412.14402 | 2024 | Disk Evolution Study Through Imaging of Nearby Young Stars (DESTINYS): Dynamical Evidence of a Spiral-Arm-Driving and Gap-Opening Protoplanet from SAO 206462 Spiral Motion
+- **14× cited-seeds** | arXiv 2407.12659 | 2024 | Dynamical Consequence of Shadows Cast to the Outer Protoplanetary Disks. I. Two-dimensional Simulations
+- **14× cited-seeds** | arXiv 2301.04617 | 2023 | Observed Polarized Scattered Light Phase Functions of Planet-forming Disks
+- **14× cited-seeds** | arXiv 2205.01776 | 2022 | CO Line Emission Surfaces and Vertical Structure in Midinclination Protoplanetary Disks
+- **14× cited-seeds** | arXiv 2104.02088 | 2021 | A Detailed Characterization of HR 8799's Debris Disk with ALMA in Band 7
+- **14× cited-seeds** | arXiv 2012.10464 | 2020 | A Search for Companions via Direct Imaging in the DSHARP Planet-forming Disks
+- **14× cited-seeds** | arXiv 2009.02321 | 2020 | A tale of planet formation: from dust to planets
+- **14× cited-seeds** | arXiv 2005.00861 | 2020 | The Big Sibling of AU Mic: A Cold Dust-rich Debris Disk around CP−72 2713 in the β Pic Moving Group
+- **14× cited-seeds** | arXiv 2001.00563 | 2020 | Using Data Imputation for Signal Separation in High-contrast Imaging
+- **14× cited-seeds** | arXiv 1909.10522 | 2019 | Performance and early science with the Subaru Coronagraphic Extreme Adaptive Optics project
+- **14× cited-seeds** | arXiv 1808.02454 | 2018 | Two decades of exoplanetary science with adaptive optics
+- **14× cited-seeds** | arXiv 1710.04185 | 2017 | A Direct Imaging Survey of Spitzer-detected Debris Disks: Occurrence of Giant Planets in Dusty Systems
+- **14× cited-seeds** | arXiv 1612.06582 | 2016 | The hybrid disks: a search and study to better understand evolution of disks
+- **14× cited-seeds** | arXiv 1612.02426 | 2016 | THE HAWAII INFRARED PARALLAX PROGRAM. II. YOUNG ULTRACOOL FIELD DWARFS
+- **14× cited-seeds** | arXiv — | 2016 | Direct Imaging of Faint Companions
+- **14× cited-seeds** | arXiv 1412.5598 | 2014 | Five steps in the evolution from protoplanetary to debris disk
+- **14× cited-seeds** | arXiv 1807.08687 | 2013 | SPOTS: The Search for Planets Orbiting Two Stars
+- **13× cited-seeds** | arXiv 2603.11994 | 2026 | The Cold Debris Disk Surveys. I. Host Star Properties
+- **13× cited-seeds** | arXiv 2410.11939 | 2024 | SCExAO/CHARIS Near-infrared Scattered-light Imaging and Integral Field Spectropolarimetry of the AB Aurigae Protoplanetary System
+- **13× cited-seeds** | arXiv 2306.04080 | 2023 | The Orbital Eccentricities of Directly Imaged Companions Using Observable-based Priors: Implications for Population-level Distributions
+- **13× cited-seeds** | arXiv 2306.09715 | 2023 | Deprojecting and constraining the vertical thickness of exoKuiper belts
+- **13× cited-seeds** | arXiv 2305.12093 | 2023 | Primordial or Secondary? Testing Models of Debris Disk Gas with ALMA
+- **13× cited-seeds** | arXiv 2309.06076 | 2023 | Grain Growth and Dust Segregation Revealed by Multiwavelength Analysis of the Class I Protostellar Disk WL 17
+- **13× cited-seeds** | arXiv 2312.17218 | 2023 | Spectroastrometric Survey of Protoplanetary Disks with Inner Dust Cavities
+- **13× cited-seeds** | arXiv 2306.13710 | 2023 | SO and SiS Emission Tracing an Embedded Planet and Compact 12CO and 13CO Counterparts in the HD 169142 Disk
+- **13× cited-seeds** | arXiv 2111.12090 | 2021 | Dynamical Mass of the Exoplanet Host Star HR 8799
+- **13× cited-seeds** | arXiv 2103.14945 | 2021 | AB Aurigae: possible evidence of planet formation through the gravitational instability
+- **13× cited-seeds** | arXiv 1902.04080 | 2019 | SPHERE: the exoplanet imager for the Very Large Telescope
+- **13× cited-seeds** | arXiv 1905.00909 | 2019 | A dust and gas cavity in the disc around CQ Tau revealed by ALMA
+- **13× cited-seeds** | arXiv 1909.00706 | 2019 | The Observability of Vortex-driven Spiral Arms in Protoplanetary Disks: Basic Spiral Properties
+- **13× cited-seeds** | arXiv 1812.04047 | 2018 | The Disk Substructures at High Angular Resolution Project (DSHARP). IX. A High-definition Study of the HD 163296 Planet-forming Disk
+- **13× cited-seeds** | arXiv 1810.00894 | 2018 | Atmospheric Characterization of Directly Imaged Exoplanets with JWST/MIRI
+- **13× cited-seeds** | arXiv 1604.01411 | 2016 | SPECTROSCOPIC CHARACTERIZATION OF HD 95086 b WITH THE GEMINI PLANET IMAGER
+- **13× cited-seeds** | arXiv 1606.07819 | 2016 | Long-term stability of the HR 8799 planetary system without resonant lock
+- **13× cited-seeds** | arXiv 1604.08157 | 2016 | ASTROMETRIC MONITORING OF THE HR 8799 PLANETS: ORBIT CONSTRAINTS FROM SELF-CONSISTENT MEASUREMENTS
+- **13× cited-seeds** | arXiv 1604.02952 | 2016 | Dust Evolution and the Formation of Planetesimals
+- **13× cited-seeds** | arXiv 1405.1560 | 2014 | The VLT/NaCo large program to probe the occurrence of exoplanets and brown dwarfs at wide orbits. II. Survey description, results, and performances
+- **13× cited-seeds** | arXiv 1402.1354 | 2014 | Dust Evolution in Protoplanetary Disks
+- **12× cited-seeds** | arXiv 2507.11612 | 2025 | A young gas giant and hidden substructures in a protoplanetary disk
+- **12× cited-seeds** | arXiv — | 2025 | The JWST Early Release Science Program for Direct Observations of Exoplanetary Systems. VI. Evidence for Radially Evolving Icy Grains in the HD 141569A Disk via NIRCam Coronagraphic Imaging
+- **12× cited-seeds** | arXiv 2408.14268 | 2024 | Efficiently Searching for Close-in Companions Around Young M Dwarfs Using a Multiyear PSF Library
+- **12× cited-seeds** | arXiv 2405.08451 | 2024 | Planet Formation Regulated by Galactic-scale Interstellar Turbulence
+- **12× cited-seeds** | arXiv 2312.05310 | 2023 | HIP 65426 is a High-frequency Delta Scuti Pulsator in Plausible Spin–Orbit Alignment with its Directly Imaged Exoplanet
+- **12× cited-seeds** | arXiv 2310.11007 | 2023 | Dual-band Observations of the Asymmetric Ring around CIDA 9A: Dead or Alive?
+- **12× cited-seeds** | arXiv 2304.14450 | 2023 | Observations of planet forming disks in multiple stellar systems
+- **12× cited-seeds** | arXiv 2306.09279 | 2023 | Dynamical detection of a companion driving a spiral arm in a protoplanetary disk
+- **12× cited-seeds** | arXiv 2106.03615 | 2021 | Molecular mapping of the PDS70 system
+- **12× cited-seeds** | arXiv 2104.13396 | 2021 | ALMA imaging of the M-dwarf Fomalhaut C’s debris disc
+- **12× cited-seeds** | arXiv 2105.02243 | 2021 | The post-main-sequence fate of the HR 8799 planetary system
+- **12× cited-seeds** | arXiv 2102.03899 | 2021 | Observational Signature of Tightly Wound Spirals Driven by Buoyancy Resonances in Protoplanetary Disks
+- **12× cited-seeds** | arXiv 2007.02974 | 2020 | Large-scale CO Spiral Arms and Complex Kinematics Associated with the T Tauri Star RU Lup
+- **12× cited-seeds** | arXiv 2012.05241 | 2020 | On-sky performance and recent results from the Subaru coronagraphic extreme adaptive optics system
+- **12× cited-seeds** | arXiv 2005.14200 | 2020 | The unexpected narrowness of eccentric debris rings: a sign of eccentricity during the protoplanetary disc phase
+- **12× cited-seeds** | arXiv 2003.11980 | 2020 | The Planetary Luminosity Problem: “Missing Planets” and the Observational Consequences of Episodic Accretion
+- **12× cited-seeds** | arXiv 2009.04483 | 2020 | MIRACLES: atmospheric characterization of directly imaged planets and substellar companions at 4–5 μm
+- **12× cited-seeds** | arXiv 2008.07919 | 2020 | Relating grain size distributions in circumstellar discs to the spectral index at millimetre wavelengths
+- **12× cited-seeds** | arXiv 1912.13316 | 2019 | MIRACLES: atmospheric characterization of directly imaged planets and substellar companions at 4–5 μm
+- **12× cited-seeds** | arXiv 1911.10941 | 2019 | Subaru Near-infrared Imaging Polarimetry of Misaligned Disks around the SR 24 Hierarchical Triple System
+- **12× cited-seeds** | arXiv — | 2019 | Pushing the limits of the coronagraphic occulters on Hubble Space Telescope/Space Telescope Imaging Spectrograph
+- **12× cited-seeds** | arXiv 1907.06427 | 2019 | A multiwavelength study of the debris disc around 49 Cet
+- **12× cited-seeds** | arXiv 1910.06822 | 2019 | Flybys in protoplanetary discs – II. Observational signatures
+- **12× cited-seeds** | arXiv 1803.00054 | 2018 | Resolved Millimeter Observations of the HR 8799 Debris Disk
+- **12× cited-seeds** | arXiv 1812.06993 | 2018 | A search for accreting young companions embedded in circumstellar disks
+- **12× cited-seeds** | arXiv 1805.01926 | 2018 | Space-based Coronagraphic Imaging Polarimetry of the TW Hydrae Disk: Shedding New Light on Self-shadowing Effects
+- **12× cited-seeds** | arXiv — | 2017 | Exoplanet Meteorology: Characterizing the Atmospheres of Directly Imaged Sub-Stellar Objects
+- **12× cited-seeds** | arXiv — | 2017 | Advanced data processing for high-contrast imaging - Pushing exoplanet direct detection limits with machine learning
+- **12× cited-seeds** | arXiv 1705.03477 | 2017 | New constraints on the disk characteristics and companion candidates around T Chamaeleontis with VLT/SPHERE
+- **12× cited-seeds** | arXiv — | 2017 | Particle Trapping in Protoplanetary Disks: Models vs. Observations
+- **12× cited-seeds** | arXiv 1605.06118 | 2016 | A PRIMER ON UNIFYING DEBRIS DISK MORPHOLOGIES
+- **12× cited-seeds** | arXiv 1611.05866 | 2016 | The SHARDDS survey: First resolved image of the HD 114082 debris disk in the Lower Centaurus Crux with SPHERE
+- **12× cited-seeds** | arXiv 1601.04983 | 2016 | The SPHERE view of the planet-forming disk around HD 100546
+- **12× cited-seeds** | arXiv — | 2015 | HERSCHEL-RESOLVED OUTER BELTS OF TWO-BELT DEBRIS DISKS—EVIDENCE OF ICY GRAINS
+- **12× cited-seeds** | arXiv 1511.02894 | 2015 | MAGELLAN ADAPTIVE OPTICS FIRST-LIGHT OBSERVATIONS OF THE EXOPLANET β PIC b. II. 3–5 μm DIRECT IMAGING WITH MagAO+Clio, AND THE EMPIRICAL BOLOMETRIC LUMINOSITY OF A SELF-LUMINOUS GIANT PLANET
+- **12× cited-seeds** | arXiv 1409.0710 | 2014 | Is the HD 15115 inner disk really asymmetrical
+- **12× cited-seeds** | arXiv 1402.1584 | 2014 | New constraints on the formation and settling of dust in the atmospheres of young M and L dwarfs
+- **12× cited-seeds** | arXiv 1412.0167 | 2014 | DEBRIS DISTRIBUTION IN HD 95086—A YOUNG ANALOG OF HR 8799
+- **12× cited-seeds** | arXiv 1409.1390 | 2014 | SURFACE GEOMETRY OF PROTOPLANETARY DISKS INFERRED FROM NEAR-INFRARED IMAGING POLARIMETRY
+- **12× cited-seeds** | arXiv 1310.4172 | 2013 | THE GEMINI NICI PLANET-FINDING CAMPAIGN: THE COMPANION DETECTION PIPELINE
+- **11× cited-seeds** | arXiv 2604.09785 | 2026 | Direct Images of CO2 Absorption in the Atmosphere of a Super-Jupiter: Enhanced Metallicity Suggestive of Formation in a Disk
+- **11× cited-seeds** | arXiv 2603.06992 | 2026 | Multiwavelength ALMA Imaging of HD 34282: Dust-trapping Signatures of a Vortex Candidate
+- **11× cited-seeds** | arXiv 2603.05599 | 2026 | Vertical structure of protoplanetary disks in scattered light: A large-sample analysis
+- **11× cited-seeds** | arXiv 2507.00122 | 2025 | SMA and NOEMA Reveal Asymmetric Substructure in the Protoplanetary Disk of IRAS 23077+6707
+- **11× cited-seeds** | arXiv 2506.10746 | 2025 | The ALMA Survey of Gas Evolution of PROtoplanetary Disks (AGE-PRO). X. Dust Substructures, Disk Geometries, and Dust-disk Radii
+- **11× cited-seeds** | arXiv 2504.18688 | 2025 | exoALMA. I. Science Goals, Project Design, and Data Products
+- **11× cited-seeds** | arXiv 2410.03932 | 2024 | The Search for Disk Perturbing Planets Around the Asymmetrical Debris Disk System HD 111520 Using REBOUND
+- **11× cited-seeds** | arXiv 2404.15555 | 2024 | Planet Formation—Observational Constraints, Physical Processes, and Compositional Patterns
+- **11× cited-seeds** | arXiv 2403.04000 | 2024 | Direct-imaging Discovery of a Substellar Companion Orbiting the Accelerating Variable Star HIP 39017
+- **11× cited-seeds** | arXiv 2409.02019 | 2024 | ESCAPE project: investigating active observing strategies and post-processing methods for exoplanet high-contrast imaging with future space missions
+- **11× cited-seeds** | arXiv 2409.08373 | 2024 | 3D Radiation-hydrodynamical Simulations of Shadows on Transition Disks
+- **11× cited-seeds** | arXiv 2401.02004 | 2024 | Shadowing in the Protoplanetary Disk of ZZ Tau IRS with HST
+- **11× cited-seeds** | arXiv — | 2024 | MIRI MRS Observations of β Pictoris. I. The Inner Dust, the Planet, and the Gas
+- **11× cited-seeds** | arXiv — | 2023 | Workshop Summary: Exoplanet Orbits and Dynamics
+- **11× cited-seeds** | arXiv 2203.10735 | 2022 | Modeling the arc and ring structures in the HD 143006 disk
+- **11× cited-seeds** | arXiv 2208.01606 | 2022 | Constrained Reference Star Differential Imaging: Enabling High-fidelity Imagery of Highly Structured Circumstellar Disks
+- **11× cited-seeds** | arXiv 2207.09752 | 2022 | Close encounters: How stellar flybys shape planet-forming discs
+- **11× cited-seeds** | arXiv 2109.06433 | 2021 | Molecules with ALMA at Planet-forming Scales (MAPS). XIV. Revealing Disk Substructures in Multiwavelength Continuum Emission
+- **11× cited-seeds** | arXiv 2106.14890 | 2021 | High-contrast observations of brown dwarf companion HR 2562 B with the vector Apodizing Phase Plate coronagraph
+- **11× cited-seeds** | arXiv 2104.02072 | 2021 | Constraining planetesimal stirring: how sharp are debris disc edges?
+- **11× cited-seeds** | arXiv — | 2021 | Global optimization-based reference star differential imaging for high-contrast exoplanet imaging survey
+- **11× cited-seeds** | arXiv 2102.10288 | 2021 | A faint companion around CrA-9: protoplanet or obscured binary?
+- **11× cited-seeds** | arXiv 2107.14378 | 2021 | Imaging low-mass planets within the habitable zones of nearby stars with ground-based mid-infrared imaging
+- **11× cited-seeds** | arXiv 2105.04973 | 2021 | Spectral unmixing for exoplanet direct detection in hyperspectral data
+- **11× cited-seeds** | arXiv 2104.06447 | 2021 | An HST/STIS view of protoplanetary discs in Upper Scorpius: observations of three young M stars
+- **11× cited-seeds** | arXiv — | 2020 | SCExAO/CHARIS Near-infrared Integral Field Spectroscopy of the HD 15115 Debris Disk
+- **11× cited-seeds** | arXiv 2010.10546 | 2020 | Gemini Planet Imager Spectroscopy of the Dusty Substellar Companion HD 206893 B
+- **11× cited-seeds** | arXiv 2006.16131 | 2020 | Multiband GPI Imaging of the HR 4796A Debris Disk
+- **11× cited-seeds** | arXiv 2010.03650 | 2020 | A Tale of Two Transition Disks: ALMA Long-baseline Observations of ISO-Oph 2 Reveal Two Closely Packed Nonaxisymmetric Rings and a ∼2 au Cavity
+- **11× cited-seeds** | arXiv 1905.03252 | 2019 | New Constraints From Dust Lines on the Surface Densities of Protoplanetary Disks
+- **11× cited-seeds** | arXiv 1905.00019 | 2019 | The time evolution of dusty protoplanetary disc radii: observed and physical radii differ
+- **11× cited-seeds** | arXiv 1909.06255 | 2019 | Constraints on the Occurrence and Distribution of 1–20 MJup Companions to Stars at Separations of 5–5000 au from a Compilation of Direct Imaging Surveys
+- **11× cited-seeds** | arXiv 1906.02787 | 2019 | The B-Star Exoplanet Abundance Study: a co-moving 16–25 MJup companion to the young binary system HIP 79098
+- **11× cited-seeds** | arXiv 1911.09758 | 2019 | Atmospheric Characterization and Further Orbital Modeling of κ Andromeda b
+- **11× cited-seeds** | arXiv 1904.12781 | 2019 | A Tight Relation between Spiral Arm Pitch Angle and Protoplanetary Disk Mass
+- **11× cited-seeds** | arXiv 1806.02904 | 2018 | Direct Imaging of the HD 35841 Debris Disk: A Polarized Dust Ring from Gemini Planet Imager and an Outer Halo from HST/STIS
+- **11× cited-seeds** | arXiv 1807.05136 | 2018 | Exoplanet Atmosphere Measurements from Direct Imaging
+- **11× cited-seeds** | arXiv 1811.10365 | 2018 | High-resolution ALMA Observations of HD 100546: Asymmetric Circumstellar Ring and Circumplanetary Disk Upper Limits
+- **11× cited-seeds** | arXiv 1806.05431 | 2018 | Self-stirring of debris discs by planetesimals formed by pebble concentration
+- **11× cited-seeds** | arXiv 1804.05934 | 2018 | Subaru/HiCIAO HKs Imaging of LKHa 330: Multi-band Detection of the Gap and Spiral-like Structures
+- **11× cited-seeds** | arXiv 1808.10220 | 2018 | Structure Formation in a Young Protoplanetary Disk by a Magnetic Disk Wind
+- **11× cited-seeds** | arXiv 1708.07151 | 2017 | What Sets the Radial Locations of Warm Debris Disks?
+- **11× cited-seeds** | arXiv 1712.05828 | 2017 | New spectro-photometric characterization of the substellar object HR 2562 B using SPHERE
+- **11× cited-seeds** | arXiv 1707.06238 | 2017 | Orbiting a binary SPHERE characterisation of the HD 284149 system
+- **11× cited-seeds** | arXiv 1703.09227 | 2017 | A Multi-wavelength Analysis of Dust and Gas in the SR 24S Transition Disk
+- **11× cited-seeds** | arXiv 1705.04687 | 2017 | Multiple Disk Gaps and Rings Generated by a Single Super-Earth
+- **11× cited-seeds** | arXiv 1710.06485 | 2017 | The Circumstellar Disk HD 169142: Gas, Dust, and Planets Acting in Concert?
+- **11× cited-seeds** | arXiv 1604.06847 | 2016 | MAGELLAN AO SYSTEM z′, YS, AND L′ OBSERVATIONS OF THE VERY WIDE 650 AU HD 106906 PLANETARY SYSTEM
+- **11× cited-seeds** | arXiv 1605.03984 | 2016 | Polarimetry and flux distribution in the debris disk around HD 32297
+- **11× cited-seeds** | arXiv 1605.06161 | 2016 | BRINGING “THE MOTH” TO LIGHT: A PLANET-SCULPTING SCENARIO FOR THE HD 61005 DEBRIS DISK
+- **11× cited-seeds** | arXiv 1607.06892 | 2016 | MASSIVE: A Bayesian analysis of giant planet populations around low-mass stars
+- **11× cited-seeds** | arXiv 1603.08008 | 2016 | MAKING PLANET NINE: PEBBLE ACCRETION AT 250–750 AU IN A GRAVITATIONALLY UNSTABLE RING
+- **11× cited-seeds** | arXiv 1612.02854 | 2016 | GAPS IN PROTOPLANETARY DISKS AS SIGNATURES OF PLANETS. III. POLARIZATION
+- **11× cited-seeds** | arXiv 1511.04072 | 2015 | First light of the VLT planet finder SPHERE II. The physical properties and the architecture of the young systems PZ Telescopii and HD 1160 revisited
+- **11× cited-seeds** | arXiv — | 2015 | High Resolution Imaging and the Formation of Stars and Planets
+- **11× cited-seeds** | arXiv 1509.06382 | 2015 | Physical Processes in Protoplanetary Disks
+- **11× cited-seeds** | arXiv 1512.06873 | 2015 | The Origin and Evolution of Transition Discs: Successes, Problems, and Open Questions
+- **11× cited-seeds** | arXiv 1507.03014 | 2015 | NEAR-IR POLARIZED SCATTERED LIGHT IMAGERY OF THE DoAr 28 TRANSITIONAL DISK
+- **11× cited-seeds** | arXiv 1409.5134 | 2014 | DEEP THERMAL INFRARED IMAGING OF HR 8799 bcde: NEW ATMOSPHERIC CONSTRAINTS AND LIMITS ON A FIFTH PLANET
+- **11× cited-seeds** | arXiv 1412.2751 | 2014 | APODIZED PUPIL LYOT CORONAGRAPHS FOR ARBITRARY APERTURES. IV. REDUCED INNER WORKING ANGLE AND INCREASED ROBUSTNESS TO LOW-ORDER ABERRATIONS
+- **11× cited-seeds** | arXiv 1310.7026 | 2013 | MODELING SELF-SUBTRACTION IN ANGULAR DIFFERENTIAL IMAGING: APPLICATION TO THE HD 32297 DEBRIS DISK
+- **11× cited-seeds** | arXiv — | 2012 | Direct Imaging of Extra-Solar Planets – Homogeneous Comparison of Detected Planets and Candidates
+- **11× cited-seeds** | arXiv 1207.1987 | 2012 | An insight in the surroundings of HR 4796
+- **10× cited-seeds** | arXiv 2603.07376 | 2026 | Forecasting Catastrophe: Constraints on the Fomalhaut Main-belt Planetesimal Population from Observed Collisional Remnants
+- **10× cited-seeds** | arXiv 2603.13157 | 2026 | exoALMA. XX. Tomographic Detection of Embedded Planets in Protoplanetary Disks
+- **10× cited-seeds** | arXiv 2509.19761 | 2025 | Winding motion of spirals in a gravitationally unstable protoplanetary disk
+- **10× cited-seeds** | arXiv 2504.14318 | 2025 | The Ophiuchus DIsk Survey Employing ALMA (ODISEA): A Unified Evolutionary Sequence of Planet-driven Substructures Explaining the Diversity of Disk Morphologies
+- **10× cited-seeds** | arXiv 2510.17774 | 2025 | A High-resolution Spectroscopic Survey of Directly Imaged Companion Hosts. II. Diversity in C/O Ratios among Host Stars
+- **10× cited-seeds** | arXiv 2602.06126 | 2025 | Satellites and Small Bodies With ALMA: Insights Into Solar System Formation and Evolution
+- **10× cited-seeds** | arXiv 2502.14024 | 2025 | Evidence for Variable Accretion onto PDS 70 c and Implications for Protoplanet Detections
+- **10× cited-seeds** | arXiv — | 2025 | The James Webb Interferometer: Space-based Interferometric Detections of PDS 70 b and c at 4.8 μm
+- **10× cited-seeds** | arXiv 2408.09038 | 2024 | Multiband polarimetric imaging of HD 34700 with SCExAO/CHARIS
+- **10× cited-seeds** | arXiv 2403.09210 | 2024 | MINDS: The JWST MIRI Mid-INfrared Disk Survey
+- **10× cited-seeds** | arXiv 2402.18720 | 2024 | Small and Large Dust Cavities in Disks around Mid-M Stars in Taurus
+- **10× cited-seeds** | arXiv 2407.16651 | 2024 | Hints of Planet Formation Signatures in a Large-cavity Disk Studied in the AGE-PRO ALMA Large Program
+- **10× cited-seeds** | arXiv 2404.13570 | 2024 | ALMA 2D super-resolution imaging of Taurus–Auriga protoplanetary disks: Probing statistical properties of disk substructures
+- **10× cited-seeds** | arXiv — | 2024 | Thermal Structure and Millimeter Emission from a Protoplanetary Disk with Embedded Protoplanets from Radiative Transfer Modeling
+- **10× cited-seeds** | arXiv 2312.09106 | 2023 | Vertical Structure of Gas and Dust in Four Debris Disks
+- **10× cited-seeds** | arXiv 2310.11190 | 2023 | Jupiter-like planets might be common in a low-density environment
+- **10× cited-seeds** | arXiv 2308.02333 | 2023 | Long-term Evolution of Warps in Debris Disks—Application to the Gyr-old System HD 202628
+- **10× cited-seeds** | arXiv 2306.15408 | 2023 | Early Planet Formation in Embedded Disks (eDisk). IV. The Ringed and Warped Structure of the Disk around the Class I Protostar L1489 IRS
+- **10× cited-seeds** | arXiv 2306.15423 | 2023 | Early Planet Formation in Embedded Disks (eDisk). II. Limited Dust Settling and Prominent Snow Surfaces in the Edge-on Class I Disk IRAS 04302+2247
+- **10× cited-seeds** | arXiv — | 2022 | Images of embedded Jovian planet formation at a wide separation around AB Aurigae
+- **10× cited-seeds** | arXiv 2210.11488 | 2022 | Gap-opening Planets Make Dust Rings Wider
+- **10× cited-seeds** | arXiv 2211.01718 | 2022 | The SPHERE view of multiple star formation
+- **10× cited-seeds** | arXiv 2211.05757 | 2022 | Testing Velocity Kinks as a Planet Detection Method: Do Velocity Kinks in Surface Gas Emission Trace Planetary Spiral Wakes in the Midplane Continuum?
+- **10× cited-seeds** | arXiv 2112.02168 | 2021 | The Scorpion Planet Survey: Wide-orbit Giant Planets Around Young A-type Stars
+- **10× cited-seeds** | arXiv 2109.09745 | 2021 | A new type of exoplanet direct imaging search: a SCExAO/CHARIS survey of accelerating stars
+- **10× cited-seeds** | arXiv 2101.08514 | 2021 | A high-contrast search for variability in HR 8799bc with VLT-SPHERE
+- **10× cited-seeds** | arXiv 2101.02043 | 2021 | BEAST begins: sample characteristics and survey performance of the B-star Exoplanet Abundance Study
+- **10× cited-seeds** | arXiv 2103.03881 | 2021 | Near-IR Observations of the Young Star [BHB2007]-1: A Substellar Companion Opening the Gap in the Disk
+- **10× cited-seeds** | arXiv 2111.06406 | 2021 | From Pebbles and Planetesimals to Planets and Dust: The Protoplanetary Disk–Debris Disk Connection
+- **10× cited-seeds** | arXiv 2110.04307 | 2021 | Characterizing the Protolunar Disk of the Accreting Companion GQ Lupi B
+- **10× cited-seeds** | arXiv 2109.06210 | 2021 | Molecules with ALMA at Planet-forming Scales (MAPS). III. Characteristics of Radial Chemical Substructures
+- **10× cited-seeds** | arXiv 2009.08537 | 2020 | Direct Imaging Discovery of a Young Brown Dwarf Companion to an A2V Star
+- **10× cited-seeds** | arXiv 2002.08036 | 2020 | Architecture of Three-planet Systems Predicted from the Observed Protoplanetary Disk of HL Tau
+- **10× cited-seeds** | arXiv 2012.04680 | 2020 | A highly non-Keplerian protoplanetary disc
+- **10× cited-seeds** | arXiv 2005.04244 | 2020 | Is the gap in the DS Tau disc hiding a planet?
+- **10× cited-seeds** | arXiv 2001.11042 | 2020 | Pebble drift and planetesimal formation in protoplanetary discs with embedded planets
+- **10× cited-seeds** | arXiv 2006.13614 | 2020 | Multi-wavelength, spatially resolved modelling of HD 48682’s debris disc
+- **10× cited-seeds** | arXiv 2005.02712 | 2020 | Annular substructures in the transition disks around LkCa 15 and J1610
+- **10× cited-seeds** | arXiv 2004.06027 | 2020 | The Gemini Planet Imager View of the HD 32297 Debris Disk
+- **10× cited-seeds** | arXiv 1910.12868 | 2019 | Radial Variations in Grain Sizes and Dust Scale Heights in the Protoplanetary Disk around HD 163296 Revealed by ALMA Polarization Observations
+- **10× cited-seeds** | arXiv 1901.03680 | 2019 | Protoplanetary Disk Rings and Gaps across Ages and Luminosities
+- **10× cited-seeds** | arXiv 1912.01925 | 2019 | NaCo polarimetric observations of Sz 91 transitional disc: a remarkable case of dust filtering
+- **10× cited-seeds** | arXiv 1908.11065 | 2019 | Properties of Density and Velocity Gaps Induced by a Planet in a Protoplanetary Disk
+- **10× cited-seeds** | arXiv — | 2019 | UNIVERSIDAD DE CHILE FACULTAD DE CIENCIAS FÍSICAS Y MATEMÁTICAS DEPARTAMENTO DE ASTRONOMÍA CHARACTERIZING SUBSTRUCTURES AND INTERACTIONS IN THE DISKS AROUND MULTIPLE STELLAR SYSTEMS TESIS PARA OPTAR AL GRADO DE MAGÍSTER EN CIENCIAS, MENCIÓN ASTRONOMÍA NICOLÁS GUSTAVO TRONCOSO KURTOVIC PROFESO
+- **10× cited-seeds** | arXiv 1905.06838 | 2019 | Pushing the Limits of the Coronagraphic Occulters on HST/STIS.
+- **10× cited-seeds** | arXiv 1911.00518 | 2019 | Spiral arms in the protoplanetary disc HD100453 detected with ALMA: evidence for binary–disc interaction and a vertical temperature gradient
+- **10× cited-seeds** | arXiv 1811.07785 | 2018 | Multi-epoch Direct Imaging and Time-variable Scattered Light Morphology of the HD 163296 Protoplanetary Disk
+- **10× cited-seeds** | arXiv — | 2018 | HR8799: Imaging a System of Exoplanets
+- **10× cited-seeds** | arXiv 1807.05235 | 2018 | The Hawaii Infrared Parallax Program. III. 2MASS J0249–0557 c: A Wide Planetary-mass Companion to a Low-mass Binary in the β Pic Moving Group
+- **10× cited-seeds** | arXiv 1804.00583 | 2018 | The diverse lives of massive protoplanets in self-gravitating discs
+- **10× cited-seeds** | arXiv 1801.06154 | 2018 | New Insights into the Nature of Transition Disks from a Complete Disk Survey of the Lupus Star-forming Region
+- **10× cited-seeds** | arXiv 1804.08636 | 2018 | Debris Disks: Probing Planet Formation
+- **10× cited-seeds** | arXiv 1811.08858 | 2018 | VLT/SPHERE Multiwavelength High-contrast Imaging of the HD 115600 Debris Disk: New Constraints on the Dust Geometry and the Presence of Young Giant Planets
+- **10× cited-seeds** | arXiv 1801.03948 | 2018 | CO and Dust Properties in the TW Hya Disk from High-resolution ALMA Observations
+- **10× cited-seeds** | arXiv 1812.04124 | 2018 | The Planet Formation Potential around a 45 Myr Old Accreting M Dwarf
+- **10× cited-seeds** | arXiv 1812.04049 | 2018 | The Disk Substructures at High Angular Resolution Project (DSHARP). X. Multiple Rings, a Misaligned Inner Disk, and a Bright Arc in the Disk around the T Tauri star HD 143006
+- **10× cited-seeds** | arXiv 1703.02994 | 2017 | Polynomial Apodizers for Centrally Obscured Vortex Coronagraphs
+- **10× cited-seeds** | arXiv 1703.00011 | 2017 | 1–2.4 μm Near-IR Spectrum of the Giant Planet β Pictoris b Obtained with the Gemini Planet Imager
+- **10× cited-seeds** | arXiv 1708.00868 | 2017 | Characterization of exoplanets from their formation III: The statistics of planetary luminosities
+- **10× cited-seeds** | arXiv 1712.10317 | 2017 | Non-negative Matrix Factorization: Robust Extraction of Extended Structures
+- **10× cited-seeds** | arXiv 1704.06260 | 2017 | Complex Spiral Structure in the HD 100546 Transitional Disk as Revealed by GPI and MagAO
+- **10× cited-seeds** | arXiv 1603.08005 | 2016 | CIRCUMSTELLAR DEBRIS DISKS: DIAGNOSING THE UNSEEN PERTURBER
+- **10× cited-seeds** | arXiv 1610.05786 | 2016 | SCExAO AND GPI Y JH BAND PHOTOMETRY AND INTEGRAL FIELD SPECTROSCOPY OF THE YOUNG BROWN DWARF COMPANION TO HD 1160
+- **10× cited-seeds** | arXiv 1610.04014 | 2016 | VLT/SPHERE robust astrometry of the HR8799 planets at milliarcsecond-level accuracy - Orbital architecture analysis with PyAstrOFit
+- **10× cited-seeds** | arXiv — | 2016 | Detection and characterization of exoplanets in high contrast images by the inverse problem approach
+- **10× cited-seeds** | arXiv 1602.01219 | 2016 | THE MATRYOSHKA DISK: KECK/NIRC2 DISCOVERY OF A SOLAR-SYSTEM-SCALE, RADIALLY SEGREGATED RESIDUAL PROTOPLANETARY DISK AROUND HD 141569A
+- **10× cited-seeds** | arXiv 1606.07068 | 2016 | DEBRIS DISKS IN THE SCORPIUS–CENTAURUS OB ASSOCIATION RESOLVED BY ALMA
+- **10× cited-seeds** | arXiv 1604.05139 | 2016 | CONSTRAINTS ON THE ARCHITECTURE OF THE HD 95086 PLANETARY SYSTEM WITH THE GEMINI PLANET IMAGER
+- **10× cited-seeds** | arXiv 1612.00446 | 2016 | HOW BRIGHT ARE PLANET-INDUCED SPIRAL ARMS IN SCATTERED LIGHT?
+- **10× cited-seeds** | arXiv 1610.04038 | 2016 | Multiple rings in the transition disk and companion candidates around RX J1615.3-3255. High contrast imaging with VLT/SPHERE
+- **10× cited-seeds** | arXiv 1511.06277 | 2015 | WFIRST-AFTA Coronagraphic Operations: Lessons Learned from the Hubble Space Telescope and the James Webb Space Telescope
+- **10× cited-seeds** | arXiv 1405.1559 | 2014 | The VLT/NaCo large program to probe the occurrence of exoplanets and brown dwarfs in wide orbits - I. Sample definition and characterization
+- **10× cited-seeds** | arXiv 1412.2175 | 2014 | AN ALMA DISK MASS FOR THE CANDIDATE PROTOPLANETARY COMPANION TO FW TAU
+- **10× cited-seeds** | arXiv 1412.4816 | 2014 | High-contrast imaging with Spitzer: deep observations of Vega, Fomalhaut, and ϵ Eridani
+- **10× cited-seeds** | arXiv 1411.3722 | 2014 | PLANETS AROUND LOW-MASS STARS (PALMS). IV. THE OUTER ARCHITECTURE OF M DWARF PLANETARY SYSTEMS
+- **10× cited-seeds** | arXiv 1404.3502 | 2014 | Search for cool giant exoplanets around young and nearby stars - VLT/NaCo near-infrared phase-coronagraphic and differential imaging
+- **10× cited-seeds** | arXiv 1411.0315 | 2014 | RECOVERY OF THE CANDIDATE PROTOPLANET HD 100546 b WITH GEMINI/NICI AND DETECTION OF ADDITIONAL (PLANET-INDUCED?) DISK STRUCTURE AT SMALL SEPARATIONS
+- **10× cited-seeds** | arXiv 1404.5652 | 2014 | RESOLVED MULTIFREQUENCY RADIO OBSERVATIONS OF GG Tau
+- **10× cited-seeds** | arXiv 1411.2587 | 2014 | THE STRUCTURE OF PRE-TRANSITIONAL PROTOPLANETARY DISKS. II. AZIMUTHAL ASYMMETRIES, DIFFERENT RADIAL DISTRIBUTIONS OF LARGE AND SMALL DUST GRAINS IN PDS 70,
+- **10× cited-seeds** | arXiv 1311.7664 | 2013 | THREE WIDE PLANETARY-MASS COMPANIONS TO FW TAU, ROXs 12, AND ROXs 42B
+- **10× cited-seeds** | arXiv 1309.1462 | 2013 | THE GEMINI/NICI PLANET-FINDING CAMPAIGN: THE FREQUENCY OF PLANETS AROUND YOUNG MOVING GROUP STARS
+- **10× cited-seeds** | arXiv 1302.0582 | 2013 | A THERMAL INFRARED IMAGING STUDY OF VERY LOW MASS, WIDE-SEPARATION BROWN DWARF COMPANIONS TO UPPER SCORPIUS STARS: CONSTRAINING CIRCUMSTELLAR ENVIRONMENTS
+- **10× cited-seeds** | arXiv 1311.1207 | 2013 | PREDICTIONS FOR SHEPHERDING PLANETS IN SCATTERED LIGHT IMAGES OF DEBRIS DISKS
+- **10× cited-seeds** | arXiv 1206.4688 | 2012 | KECK/NIRC2 IMAGING OF THE WARPED, ASYMMETRIC DEBRIS DISK AROUND HD 32297
+- **10× cited-seeds** | arXiv 1201.3537 | 2012 | Direct Imaging of Extra-solar Planets - Homogeneous Comparison of Detected Planets and Candidates
+- **10× cited-seeds** | arXiv 1206.3154 | 2012 | Observing planet-disk interaction in debris disks
+- **10× cited-seeds** | arXiv 1111.5618 | 2011 | BINARIES AMONG DEBRIS DISK STARS
+- **9× cited-seeds** | arXiv 2502.18559 | 2025 | ELemental Abundances of Planets and Brown Dwarfs Imaged around Stars (ELPIS). II. The Jupiter-like Inhomogeneous Atmosphere of the First Directly Imaged Planetary-mass Companion 2MASS 1207 b
+- **9× cited-seeds** | arXiv 2511.20091 | 2025 | Exomoon search with VLTI/GRAVITY around the substellar companion HD 206893 B
+- **9× cited-seeds** | arXiv 2509.06747 | 2025 | Direct Detection of Known Exoplanets in Reflected Light: Predicting Sky Position with Literature Orbit Solutions
+- **9× cited-seeds** | arXiv 2506.03511 | 2025 | POLARIS: A High-contrast Polarimetric Imaging Benchmark Dataset for Exoplanetary Disk Representation Learning
+- **9× cited-seeds** | arXiv 2508.18351 | 2025 | VLT/MUSE Detection of the AB Aurigae b Protoplanet with Hα Spectroscopy
+- **9× cited-seeds** | arXiv 2509.13122 | 2025 | Puffed-up Inner Rings and Razor-thin Outer Rings in Structured Protoplanetary Disks
+- **9× cited-seeds** | arXiv 2511.09628 | 2025 | A Submillimeter Survey of CS Excitation in Protoplanetary Disks: Evidence of X-Ray-driven Sulfur Chemistry
+- **9× cited-seeds** | arXiv 2402.06540 | 2024 | Polarization of Circumstellar Debris Disk Light Echoes
+- **9× cited-seeds** | arXiv 2410.10939 | 2024 | Disequilibrium Chemistry, Diabatic Thermal Structure, and Clouds in the Atmosphere of COCONUTS-2b
+- **9× cited-seeds** | arXiv — | 2024 | Extinction Values toward Embedded Planets in Protoplanetary Disks Estimated from Hydrodynamic Simulations
+- **9× cited-seeds** | arXiv 2401.03018 | 2024 | Mapping the Vertical Gas Structure of the Planet-hosting PDS 70 Disk
+- **9× cited-seeds** | arXiv 2306.07909 | 2023 | Observational signatures of circumbinary discs – I. Kinematics
+- **9× cited-seeds** | arXiv 2303.14586 | 2023 | A Large Double-ring Disk Around the Taurus M Dwarf J04124068+2438157
+- **9× cited-seeds** | arXiv 2302.04891 | 2023 | Demographics of Protoplanetary Disks: A Simulated Population of Edge-on Systems
+- **9× cited-seeds** | arXiv 2309.07732 | 2023 | Finding Substructures in Protostellar Disks in Ophiuchus
+- **9× cited-seeds** | arXiv 2307.08952 | 2023 | Early Planet Formation in Embedded Disks (eDisk). V. Possible Annular Substructure in a Circumstellar Disk in the Ced110 IRS4 System
+- **9× cited-seeds** | arXiv 2112.10777 | 2021 | Efficiently Imaging Accreting Protoplanets from Space: Reference Star Differential Imaging of the PDS 70 Planetary System Using the HST/WFC3 Archival PSF Library
+- **9× cited-seeds** | arXiv — | 2021 | Adaptive optics for high-resolution imaging
+- **9× cited-seeds** | arXiv 2101.08849 | 2021 | Resolving Structure in the Debris Disk around HD 206893 with ALMA
+- **9× cited-seeds** | arXiv 2101.04416 | 2021 | Chemical analysis of early-type stars with planets
+- **9× cited-seeds** | arXiv 2106.10754 | 2021 | A SOPHIE RV search for giant planets around young nearby stars (YNS)
+- **9× cited-seeds** | arXiv 2108.08749 | 2021 | High-contrast integral field spectropolarimetry of planet-forming disks with SCExAO/CHARIS
+- **9× cited-seeds** | arXiv — | 2021 | Ice lines as the origin for the gap/ring structure in protoplanetary disks: the issue of the assumed temperature profile
+- **9× cited-seeds** | arXiv 2104.06838 | 2021 | A Stellar Mass Dependence of Structured Disks: A Possible Link with Exoplanet Demographics
+- **9× cited-seeds** | arXiv 2102.04648 | 2021 | Characterizing the dust content of disk substructures in TW Hydrae
+- **9× cited-seeds** | arXiv 2105.05995 | 2021 | A Deep Polarimetric Study of the Asymmetrical Debris Disk HD 106906
+- **9× cited-seeds** | arXiv 2101.10550 | 2021 | ALMA Observation of the Protoplanetary Disk around WW Cha: Faint Double-peaked Ring and Asymmetric Structure
+- **9× cited-seeds** | arXiv 2105.08821 | 2021 | Limits on Millimeter Continuum Emission from Circumplanetary Material in the DSHARP Disks
+- **9× cited-seeds** | arXiv 2104.09672 | 2021 | REXPACO: An algorithm for high contrast reconstruction of the circumstellar environment by angular differential imaging
+- **9× cited-seeds** | arXiv 2109.06224 | 2021 | Molecules with ALMA at Planet-forming Scales (MAPS). XIX. Spiral Arms, a Tail, and Diffuse Structures Traced by CO around the GM Aur Disk
+- **9× cited-seeds** | arXiv 2010.14521 | 2020 | Resolving the outer ring of HD 38206 using ALMA and constraining limits on planets in the system
+- **9× cited-seeds** | arXiv 2009.07006 | 2020 | An Exact, Generalized Laplace Resonance in the HR 8799 Planetary System
+- **9× cited-seeds** | arXiv 2007.02810 | 2020 | On the Chemical Abundance of HR 8799 and the Planet c
+- **9× cited-seeds** | arXiv 2101.07098 | 2020 | The ExoGRAVITY project: using single mode interferometry to characterize exoplanets
+- **9× cited-seeds** | arXiv 2012.10143 | 2020 | Debris discs in binaries: morphology and photometric signatures
+- **9× cited-seeds** | arXiv — | 2020 | Planet-induced spirals in the circumbinary disk of GG Tauri A
+- **9× cited-seeds** | arXiv 2009.11893 | 2020 | Planet migration, resonant locking, and accretion streams in PDS 70: comparing models and data
+- **9× cited-seeds** | arXiv 2010.06566 | 2020 | Gravitoviscous protoplanetary discs with a dust component – IV. Disc outer edges, spectral indices, and opacity gaps
+- **9× cited-seeds** | arXiv 2006.16257 | 2020 | Dust Populations in the Iconic Vega Planetary System Resolved by ALMA
+- **9× cited-seeds** | arXiv 1912.11883 | 2019 | Mass constraints for 15 protoplanetary discs from HD 1–0
+- **9× cited-seeds** | arXiv 1908.05335 | 2019 | First resolved observations of a highly asymmetric debris disc around HD 160305 with VLT/SPHERE
+- **9× cited-seeds** | arXiv 1911.10585 | 2019 | Prospects for Directly Imaging Young Giant Planets at Optical Wavelengths
+- **9× cited-seeds** | arXiv 1905.04322 | 2019 | No Clear, Direct Evidence for Multiple Protoplanets Orbiting LkCa 15: LkCa 15 bcd are Likely Inner Disk Signals
+- **9× cited-seeds** | arXiv 1901.04090 | 2019 | Reference Star Differential Imaging of Close-in Companions and Circumstellar Disks with the NIRC2 Vortex Coronagraph at the W. M. Keck Observatory
+- **9× cited-seeds** | arXiv 1905.01860 | 2019 | Separating extended disc features from the protoplanet in PDS 70 using VLT/SINFONI
+- **9× cited-seeds** | arXiv 1908.07427 | 2019 | New Spatially Resolved Imaging of the SR 21 Transition Disk and Constraints on the Small-grain Disk Geometry
+- **9× cited-seeds** | arXiv 1908.10378 | 2019 | Dust production in the debris disk around HR 4796 A
+- **9× cited-seeds** | arXiv 1902.07723 | 2019 | Discovery of a directly imaged disk in scattered light around the Sco-Cen member Wray 15-788
+- **9× cited-seeds** | arXiv 1911.09667 | 2019 | First Resolved Scattered-light Images of Four Debris Disks in Scorpius-Centaurus with the Gemini Planet Imager
+- **9× cited-seeds** | arXiv 1908.08511 | 2019 | Spatially resolved spectroscopy of the debris disk HD 32297
+- **9× cited-seeds** | arXiv 1806.08263 | 2018 | High-contrast imaging of HD 163296 with the Keck/NIRC2 L′-band vortex coronograph
+- **9× cited-seeds** | arXiv 1812.02750 | 2018 | Investigating the presence of two belts in the HD 15115 system
+- **9× cited-seeds** | arXiv 1805.02261 | 2018 | First direct detection of a polarized companion outside a resolved circumbinary disk around CS Chamaeleonis
+- **9× cited-seeds** | arXiv 1812.07198 | 2018 | Spectral and orbital characterisation of the directly imaged giant planet HIP 65426 b
+- **9× cited-seeds** | arXiv 1809.04107 | 2018 | Dynamical Constraints on the HR 8799 Planets with GPI
+- **9× cited-seeds** | arXiv 1807.05898 | 2018 | The Orbital Architecture and Debris Disks of the HR 8799 Planetary System
+- **9× cited-seeds** | arXiv 1802.10132 | 2018 | Occurrence Rates from Direct Imaging Surveys.
+- **9× cited-seeds** | arXiv 1801.09760 | 2018 | Laboratory and On-sky Validation of the Shaped Pupil Coronagraph’s Sensitivity to Low-order Aberrations With Active Wavefront Control
+- **9× cited-seeds** | arXiv 1801.06513 | 2018 | Shaping HR8799’s outer dust belt with an unseen planet
+- **9× cited-seeds** | arXiv 1809.01001 | 2018 | High-contrast study of the candidate planets and protoplanetary disk around HD 100546
+- **9× cited-seeds** | arXiv 1802.03995 | 2018 | First scattered light detection of a nearly edge-on transition disk around the T Tauri star RY Lupi
+- **9× cited-seeds** | arXiv 1812.04045 | 2018 | The Disk Substructures at High Angular Resolution Project (DSHARP). VII. The Planet–Disk Interactions Interpretation
+- **9× cited-seeds** | arXiv 1810.06941 | 2018 | ALMA Reveals a Misaligned Inner Gas Disk inside the Large Cavity of a Transitional Disk
+- **9× cited-seeds** | arXiv 1809.04160 | 2018 | Evidence for a massive dust-trapping vortex connected to spirals
+- **9× cited-seeds** | arXiv 1801.05812 | 2018 | Rings and gaps in the disc around Elias 24 revealed by ALMA
+- **9× cited-seeds** | arXiv 1801.07951 | 2018 | The co-existence of hot and cold gas in debris discs (Corrigendum)
+- **9× cited-seeds** | arXiv 1709.08414 | 2017 | Molecular Gas in Debris Disks around Young A-type Stars
+- **9× cited-seeds** | arXiv 1712.09297 | 2017 | Erratum: Accretion signatures in the X-shooter spectrum of the substellar companion to SR12
+- **9× cited-seeds** | arXiv 1705.06851 | 2017 | Evidence That the Directly Imaged Planet HD 131399 Ab Is a Background Star
+- **9× cited-seeds** | arXiv 1710.01524 | 2017 | On the cavity of a debris disc carved by a giant planet
+- **9× cited-seeds** | arXiv 1709.00349 | 2017 | In-depth study of moderately young but extremely red, very dusty substellar companion HD206893B
+- **9× cited-seeds** | arXiv 1705.03887 | 2017 | Characterizing 51 Eri b from 1 to 5 μm: A Partly Cloudy Exoplanet
+- **9× cited-seeds** | arXiv 1709.10125 | 2017 | Post-processing of the HST STIS coronagraphic observations
+- **9× cited-seeds** | arXiv 1706.07489 | 2017 | Deep Imaging Search for Planets Forming in the TW Hya Protoplanetary Disk with the Keck/NIRC2 Vortex Coronagraph
+- **9× cited-seeds** | arXiv 1701.05189 | 2017 | The Sizes and Depletions of the Dust and Gas Cavities in the Transitional Disk J160421.7-213028
+- **9× cited-seeds** | arXiv 1609.00382 | 2016 | IMAGING AN 80 au RADIUS DUST RING AROUND THE F5V STAR HD 157587
+- **9× cited-seeds** | arXiv 1609.09126 | 2016 | THE EVOLUTION OF GAS GIANT ENTROPY DURING FORMATION BY RUNAWAY ACCRETION
+- **9× cited-seeds** | arXiv 1606.06744 | 2016 | SEARCHING FOR SCATTERERS: HIGH-CONTRAST IMAGING OF YOUNG STARS HOSTING WIDE-SEPARATION PLANETARY-MASS COMPANIONS
+- **9× cited-seeds** | arXiv 1605.07927 | 2016 | POPULATION PROPERTIES OF BROWN DWARF ANALOGS TO EXOPLANETS
+- **9× cited-seeds** | arXiv 1601.00505 | 2016 | A SYMMETRIC INNER CAVITY IN THE HD 141569A CIRCUMSTELLAR DISK
+- **9× cited-seeds** | arXiv 1605.01731 | 2016 | A COMPREHENSIVE DUST MODEL APPLIED TO THE RESOLVED BETA PICTORIS DEBRIS DISK FROM OPTICAL TO RADIO WAVELENGTHS
+- **9× cited-seeds** | arXiv 1602.06523 | 2016 | Resolved Observations of Transition Disks
+- **9× cited-seeds** | arXiv 1602.04814 | 2016 | How Spirals and Gaps Driven by Companions in Protoplanetary Disks Appear in Scattered Light at Arbitrary Viewing Angles
+- **9× cited-seeds** | arXiv 1609.06708 | 2016 | A gas density drop in the inner 6 AU of the transition disk around the Herbig Ae star HD 139614: Further evidence for a giant planet inside the disk?
+- **9× cited-seeds** | arXiv 1609.02011 | 2016 | ALMA REVEALS THE ANATOMY OF THE mm-SIZED DUST AND MOLECULAR GAS IN THE HD 97048 DISK
+- **9× cited-seeds** | arXiv 1609.02488 | 2016 | Cavity and other radial substructures in the disk around HD 97048
+- **9× cited-seeds** | arXiv 1511.04083 | 2015 | First light of the VLT planet finder SPHERE - III. New spectrophotometry and astrometry of the HR 8799 exoplanetary system
+- **9× cited-seeds** | arXiv 1508.02395 | 2015 | CHARACTERIZING THE ATMOSPHERES OF THE HR8799 PLANETS WITH HST/WFC3
+- **9× cited-seeds** | arXiv 1505.06734 | 2015 | DIRECT IMAGING AND SPECTROSCOPY OF A YOUNG EXTRASOLAR KUIPER BELT IN THE NEAREST OB ASSOCIATION
+- **9× cited-seeds** | arXiv 1510.03513 | 2015 | AN ATCA SURVEY OF DEBRIS DISKS AT 7 MILLIMETERS
+- **9× cited-seeds** | arXiv 1510.03618 | 2015 | Debris Disks in Nearby Young Moving Groups in the ALMA Era
+- **9× cited-seeds** | arXiv 1407.4469 | 2014 | THE FIRST H-BAND SPECTRUM OF THE GIANT PLANET β PICTORIS b
+- **9× cited-seeds** | arXiv 1407.0617 | 2014 | Archival legacy investigations of circumstellar environments: overview and first results
+- **9× cited-seeds** | arXiv 1404.5335 | 2014 | A STATISTICAL ANALYSIS OF SEEDS AND OTHER HIGH-CONTRAST EXOPLANET SURVEYS: MASSIVE PLANETS OR LOW-MASS BROWN DWARFS?
+- **9× cited-seeds** | arXiv 1403.0560 | 2014 | MAGELLAN ADAPTIVE OPTICS FIRST-LIGHT OBSERVATIONS OF THE EXOPLANET β PIC b. I. DIRECT IMAGING IN THE FAR-RED OPTICAL WITH MagAO+VisAO AND IN THE NEAR-IR WITH NICI,
+- **9× cited-seeds** | arXiv 1404.5627 | 2014 | SEARCHING FOR CIRCUMPLANETARY DISKS AROUND LkCa 15
+- **9× cited-seeds** | arXiv 1306.0610 | 2013 | A COMBINED VERY LARGE TELESCOPE AND GEMINI STUDY OF THE ATMOSPHERE OF THE DIRECTLY IMAGED PLANET, β PICTORIS b
+- **9× cited-seeds** | arXiv 1306.3709 | 2013 | A library of near-infrared integral field spectra of young M–L dwarfs
+- **9× cited-seeds** | arXiv 1307.5848 | 2013 | AN AZIMUTHAL ASYMMETRY IN THE LkHα 330 DISK
+- **9× cited-seeds** | arXiv 1202.2655 | 2012 | Orbital characterization of the β Pictoris b giant planet
+- **9× cited-seeds** | arXiv 1107.0316 | 2011 | Multiwavelength modelling of the β Leo debris disc: one, two or three planetesimal populations?
+- **9× cited-seeds** | arXiv 1106.1101 | 2011 | VERY LARGE TELESCOPE/NACO POLARIMETRIC DIFFERENTIAL IMAGING OF HD100546—DISK STRUCTURE AND DUST GRAIN PROPERTIES BETWEEN 10 AND 140 AU
+- **9× cited-seeds** | arXiv 1008.4582 | 2010 | NEAR-INFRARED SPECTROSCOPY OF THE EXTRASOLAR PLANET HR 8799 b
+- **8× cited-seeds** | arXiv — | 2026 | Deep Limits on Planets Exterior to HR 8799’s Known Planetary System with the James Webb Space Telescope
+- **8× cited-seeds** | arXiv 2601.11711 | 2026 | The ALMA survey to Resolve exoKuiper belt Substructures (ARKS)
+- **8× cited-seeds** | arXiv 2601.02344 | 2026 | Protoplanetary Disk Cavities with JWST-MIRI: A Dichotomy in Molecular Emission
+- **8× cited-seeds** | arXiv 2603.13149 | 2026 | exoALMA. XXIII. Estimating Disk and Planet Properties from Dust Morphologies with DBNets 2.0
+- **8× cited-seeds** | arXiv 2601.12128 | 2026 | The ALMA survey to Resolve exoKuiper belt Substructures (ARKS)
+- **8× cited-seeds** | arXiv 2602.12522 | 2026 | A Protoplanet Candidate in the PDS 66 Disk Indicated by Silicon Sulfide Isotopologues
+- **8× cited-seeds** | arXiv 2602.19941 | 2026 | Probing Dust in the MWC 480 Disk from Millimeter to Centimeter Wavelengths
+- **8× cited-seeds** | arXiv 2509.02884 | 2025 | ALMA Reveals an Eccentricity Gradient in the Fomalhaut Debris Disk
+- **8× cited-seeds** | arXiv 2509.21452 | 2025 | Possible Dynamical Pathways to the Misalignment of the VHS 1256–1257 System
+- **8× cited-seeds** | arXiv 2506.21755 | 2025 | Apache Point Observatory Follow-up of ACcelerating Candidate ExopLanet Host Stars (APO ACCELS): Ages for 166 Accelerating Stars in the Northern Hemisphere
+- **8× cited-seeds** | arXiv 2505.01496 | 2025 | Seismic Oscillations Excited by Giant Impacts in Directly Imaged Giant Planets
+- **8× cited-seeds** | arXiv 2509.14321 | 2025 | New Orbital Constraints for YSES 1 b and HR 2562 B from High-Precision Astrometry and Planetary Radial Velocities
+- **8× cited-seeds** | arXiv 2508.06488 | 2025 | One-third of Sun-like stars are born with misaligned planet-forming disks
+- **8× cited-seeds** | arXiv 2508.14367 | 2025 | Peculiar Disk Substructures Associated with the Young Eruptive Star EX Lupi
+- **8× cited-seeds** | arXiv 2502.17114 | 2025 | Accretion Bursts in Young Intermediate-mass Stars Make Planet Formation Challenging
+- **8× cited-seeds** | arXiv — | 2025 | exoALMA. XI. ALMA Observations and Hydrodynamic Models of LkCa 15: Implications for Planetary Mass Companions in the Dust Continuum Cavity
+- **8× cited-seeds** | arXiv 2511.09668 | 2025 | glitterin: Toward Replacing the Role of Lorenz–Mie Theory in Astronomy Using Neural Networks Trained on Light Scattering of Irregularly Shaped Grains
+- **8× cited-seeds** | arXiv 2509.01937 | 2025 | Radiative Transfer Modeling of a Shadowed Protoplanetary Disk Assisted by a Neural Network
+- **8× cited-seeds** | arXiv — | 2025 | Characterizing the Multiple Protostellar System VLA 1623-2417 with JWST, ALMA, and VLA: Outflow Origins, Dust Growth, and an Unsettled Disk
+- **8× cited-seeds** | arXiv 2502.14342 | 2025 | The 4–400 GHz Survey for the 32 Class II Disks in the Taurus Molecular Cloud
+- **8× cited-seeds** | arXiv 2402.04001 | 2024 | An ALMA Molecular Inventory of Warm Herbig Ae Disks. I. Molecular Rings, Asymmetries, and Complexity in the HD 100546 Disk
+- **8× cited-seeds** | arXiv — | 2024 | A Census of the β Pic Moving Group and Other Nearby Associations with Gaia
+- **8× cited-seeds** | arXiv — | 2024 | The LBTI: pioneering the ELT era
+- **8× cited-seeds** | arXiv 2408.15407 | 2024 | Constraints on the Physical Origin of Large Cavities in Transition Disks from Multiwavelength Dust Continuum Emission
+- **8× cited-seeds** | arXiv 2412.11064 | 2024 | Planet formation theory: an overview
+- **8× cited-seeds** | arXiv 2407.20322 | 2024 | Dynamical and Atmospheric Characterization of the Substellar Companion HD 33632 Ab from Direct Imaging, Astrometry, and Radial-velocity Data
+- **8× cited-seeds** | arXiv — | 2024 | VLTI/GRAVITY Provides Evidence the Young, Substellar Companion HD 136164 Ab Formed Like a “Failed Star”
+- **8× cited-seeds** | arXiv 2404.02809 | 2024 | The ALMA Legacy Survey of Class 0/I Disks in Corona australis, Aquila, chaMaeleon, oPhiuchus north, Ophiuchus, Serpens (CAMPOS). I. Evolution of Protostellar Disk Radii
+- **8× cited-seeds** | arXiv 2405.19867 | 2024 | SMA 200–400 GHz Survey for Dust Properties in the Icy Class II Disks in the Taurus Molecular Cloud
+- **8× cited-seeds** | arXiv 2407.01679 | 2024 | Constraints on the Gas-phase C/O Ratio of DR Tau's Outer Disk from CS, SO, and C2H Observations
+- **8× cited-seeds** | arXiv 2303.02167 | 2023 | An SMA Survey of Chemistry in Disks Around Herbig AeBe Stars
+- **8× cited-seeds** | arXiv 2308.01354 | 2023 | An Introduction to High Contrast Differential Imaging of Exoplanets and Disks
+- **8× cited-seeds** | arXiv 2302.10833 | 2023 | Imaging exoplanets with coronagraphic instruments
+- **8× cited-seeds** | arXiv — | 2023 | Astrometry of directly imaged exoplanets with optical interferometry
+- **8× cited-seeds** | arXiv 2302.01433 | 2023 | Empirical constraints on turbulence in proto-planetary discs
+- **8× cited-seeds** | arXiv 2308.16223 | 2023 | UV-optical Emission of AB Aur b Is Consistent with Scattered Stellar Light
+- **8× cited-seeds** | arXiv 2309.02488 | 2023 | ELemental abundances of Planets and brown dwarfs Imaged around Stars (ELPIS). I. Potential Metal Enrichment of the Exoplanet AF Lep b and a Novel Retrieval Approach for Cloudy Self-luminous Atmospheres
+- **8× cited-seeds** | arXiv 2308.11714 | 2023 | MagAO-X and HST High-contrast Imaging of the AS209 Disk at Hα
+- **8× cited-seeds** | arXiv 2312.07135 | 2023 | MINDS. JWST/MIRI Reveals a Dynamic Gas-rich Inner Disk inside the Cavity of SY Cha
+- **8× cited-seeds** | arXiv 2304.03665 | 2023 | Molecules with ALMA at Planet-forming Scales (MAPS): Complex Kinematics in the AS 209 Disk Induced by a Forming Planet and Disk Winds
+- **8× cited-seeds** | arXiv 2212.06993 | 2022 | The Direct Mid-infrared Detectability of Habitable-zone Exoplanets around Nearby Stars
+- **8× cited-seeds** | arXiv — | 2022 | Imaged-based adaptive optics wavefront sensor referencing for high contrast imaging
+- **8× cited-seeds** | arXiv 2207.02865 | 2022 | COol Companions ON Ultrawide orbiTS (COCONUTS). III. A Very Red L6 Benchmark Brown Dwarf around a Young M5 Dwarf
+- **8× cited-seeds** | arXiv 2206.00687 | 2022 | Improved Orbital Constraints and Hα Photometric Monitoring of the Directly Imaged Protoplanet Analog HD 142527 B
+- **8× cited-seeds** | arXiv 2203.11953 | 2022 | The Appearance of Vortices in Protoplanetary Disks in Near-infrared Scattered Light
+- **8× cited-seeds** | arXiv 2201.07453 | 2022 | Planetary Accretion Shocks with a Realistic Equation of State
+- **8× cited-seeds** | arXiv 2209.02092 | 2022 | Upgrading the high contrast imaging facility SPHERE: science drivers and instrument choices
+- **8× cited-seeds** | arXiv 2210.12275 | 2022 | ALMA Observations of the HD 110058 Debris Disk
+- **8× cited-seeds** | arXiv 2212.08667 | 2022 | Mapping Protoplanetary Disk Vertical Structure with CO Isotopologue Line Emission
+- **8× cited-seeds** | arXiv 2207.06525 | 2022 | HST/WFC3 Hα Direct-imaging Detection of a Pointlike Source in the Disk Cavity of AB Aur
+- **8× cited-seeds** | arXiv 2101.12049 | 2021 | A ∼75 per cent occurrence rate of debris discs around F stars in the β Pic moving group
+- **8× cited-seeds** | arXiv — | 2021 | LIStEN: L′ band Imaging Survey for Exoplanets in the North
+- **8× cited-seeds** | arXiv 2108.04833 | 2021 | Full characterization of the instrumental polarization effects of the spectropolarimetric mode of SCExAO/CHARIS
+- **8× cited-seeds** | arXiv 2102.02316 | 2021 | Dust traps and the formation of cavities in transition discs: a millimetre to sub-millimetre comparison survey
+- **8× cited-seeds** | arXiv 2111.06891 | 2021 | UV spectropolarimetry with Polstar: protoplanetary disks
+- **8× cited-seeds** | arXiv 2108.11869 | 2021 | Exploring the link between star and planet formation with Ariel
+- **8× cited-seeds** | arXiv 2109.06233 | 2021 | Molecules with ALMA at Planet-forming Scales (MAPS). V. CO Gas Distributions
+- **8× cited-seeds** | arXiv 2105.02918 | 2021 | The Architecture of the V892 Tau System: The Binary and Its Circumbinary Disk
+- **8× cited-seeds** | arXiv 2109.13353 | 2021 | SCExAO: a testbed for developing high-contrast imaging technologies for ELTs
+- **8× cited-seeds** | arXiv 2001.06986 | 2020 | Meso-scale Instability Triggered by Dust Feedback in Dusty Rings: Origin and Observational Implications
+- **8× cited-seeds** | arXiv — | 2020 | Gap, shadows, spirals, and streamers: SPHERE observations of binary-disk interactions in GG Tauri A
+- **8× cited-seeds** | arXiv 2012.02798 | 2020 | Medium-resolution spectrum of the exoplanet HIP 65426 b
+- **8× cited-seeds** | arXiv 2005.08850 | 2020 | VLT/SPHERE survey for exoplanets around young early-type stars, including systems with multi-belt architectures
+- **8× cited-seeds** | arXiv 2004.12878 | 2020 | K-Stacker: an algorithm to hack the orbital parameters of planets hidden in high-contrast imaging
+- **8× cited-seeds** | arXiv 2009.00562 | 2020 | Observing protoplanetary discs with the Square Kilometre Array – I. Characterizing pebble substructure caused by forming planets
+- **8× cited-seeds** | arXiv 2008.06065 | 2020 | High-resolution survey for planetary companions to young stars in the Taurus molecular cloud
+- **8× cited-seeds** | arXiv 2007.14413 | 2020 | Laboratory Demonstration of Spatial Linear Dark Field Control For Imaging Extrasolar Planets in Reflected Light
+- **8× cited-seeds** | arXiv — | 2020 | PACO ASDI: an algorithm for exoplanet detection and characterization in direct imaging with integral field spectrographs
+- **8× cited-seeds** | arXiv 2005.10312 | 2020 | Orbital and spectral characterization of the benchmark T-type brown dwarf HD 19467B
+- **8× cited-seeds** | arXiv 2010.15617 | 2020 | Formation of Gaps in Self-gravitating Debris Disks by Secular Resonance in a Single-planet System. I. A Simplified Model
+- **8× cited-seeds** | arXiv 2007.10097 | 2020 | The search for disks or planetary objects around directly imaged companions: a candidate around DH Tauri B
+- **8× cited-seeds** | arXiv 2012.00475 | 2020 | Calibration of the instrumental polarization effects of SCExAO-CHARIS’ spectropolarimetric mode
+- **8× cited-seeds** | arXiv 2010.12202 | 2020 | Possible single-armed spiral in the protoplanetary disk around HD 34282
+- **8× cited-seeds** | arXiv 2007.15014 | 2020 | Solving Grain Size Inconsistency between ALMA Polarization and VLA Continuum in the Ophiuchus IRS 48 Protoplanetary Disk
+- **8× cited-seeds** | arXiv 2004.11394 | 2020 | The efficiency of dust trapping in ringed protoplanetary discs
+- **8× cited-seeds** | arXiv 2002.11036 | 2020 | Planet gap opening across stellar masses
+- **8× cited-seeds** | arXiv 2004.02496 | 2020 | Formation of secondary atmospheres on terrestrial planets by late disk accretion
+- **8× cited-seeds** | arXiv 2009.10505 | 2020 | Spirals, shadows & precession in HD 100453 – II. The hidden companion
+- **8× cited-seeds** | arXiv 1906.03269 | 2019 | The Degree of Alignment between Circumbinary Disks and Their Binary Hosts
+- **8× cited-seeds** | arXiv 1912.04355 | 2019 | Debris Disks in Multiplanet Systems: Are Our Inferences Compromised by Unseen Planets?
+- **8× cited-seeds** | arXiv 1909.07571 | 2019 | Radial Velocity Measurements of HR 8799 b and c with Medium Resolution Spectroscopy
+- **8× cited-seeds** | arXiv 1908.09925 | 2019 | Radial Velocity Discovery of an Eccentric Jovian World Orbiting at 18 au
+- **8× cited-seeds** | arXiv 1907.08060 | 2019 | First detections of H13CO+ and HC15N in the disk around HD 97048
+- **8× cited-seeds** | arXiv 1906.11774 | 2019 | Upper limits on protolunar disc masses using ALMA observations of directly imaged exoplanets
+- **8× cited-seeds** | arXiv 1903.07620 | 2019 | Hint of curvature in the orbital motion of the exoplanet 51 Eridani b using 3 yr of VLT/SPHERE monitoring
+- **8× cited-seeds** | arXiv 1911.11814 | 2019 | Imaging the 44 au Kuiper Belt Analog Debris Ring around HD 141569A with GPI Polarimetry
+- **8× cited-seeds** | arXiv 1909.13107 | 2019 | Polarimetric imaging mode of VLT/SPHERE/IRDIS
+- **8× cited-seeds** | arXiv 1912.02741 | 2019 | A HARPS RV search for planets around young nearby stars
+- **8× cited-seeds** | arXiv 1902.07639 | 2019 | Highly structured disk around the planet host PDS 70 revealed by high-angular resolution observations with ALMA
+- **8× cited-seeds** | arXiv 1904.00027 | 2019 | The Mass of Stirring Bodies in the AU Mic Debris Disk Inferred from Resolved Vertical Structure
+- **8× cited-seeds** | arXiv 1902.00036 | 2019 | Scattered light shadows in warped protoplanetary discs
+- **8× cited-seeds** | arXiv 1806.02391 | 2018 | Impact of planetesimal eccentricities and material strength on the appearance of eccentric debris disks
+- **8× cited-seeds** | arXiv 1803.02725 | 2018 | Discovery of a brown dwarf companion to the star HIP 64892
+- **8× cited-seeds** | arXiv 1804.07774 | 2018 | GPI Spectra of HR 8799 c, d, and e from 1.5 to 2.4 μm with KLIP Forward Modeling
+- **8× cited-seeds** | arXiv 1804.04584 | 2018 | VLT/SPHERE astrometric confirmation and orbital analysis of the brown dwarf companion HR 2562 B
+- **8× cited-seeds** | arXiv 1812.04043 | 2018 | The Disk Substructures at High Angular Resolution Project (DSHARP). V. Interpreting ALMA Maps of Protoplanetary Disks in Terms of a Dust Model
+- **8× cited-seeds** | arXiv 1810.05172 | 2018 | Variable Outer Disk Shadowing around the Dipper Star RXJ1604.3–2130
+- **8× cited-seeds** | arXiv 1808.05008 | 2018 | SPHERE/ZIMPOL high resolution polarimetric imager
+- **8× cited-seeds** | arXiv 1812.04044 | 2018 | The Disk Substructures at High Angular Resolution Project (DSHARP). VI. Dust Trapping in Thin-ringed Protoplanetary Disks
+- **8× cited-seeds** | arXiv 1702.06549 | 2017 | Mid-infrared characterization of the planetary-mass companion ROXs 42B b
+- **8× cited-seeds** | arXiv — | 2017 | Imaging Planet Formation Inside the Diffraction Limit
+- **8× cited-seeds** | arXiv 1711.11483 | 2017 | A Self-consistent Cloud Model for Brown Dwarfs and Young Giant Exoplanets: Comparison with Photometric and Spectroscopic Observations
+- **8× cited-seeds** | arXiv 1707.06337 | 2017 | Constraining Accretion Signatures of Exoplanets in the TW Hya Transitional Disk
+- **8× cited-seeds** | arXiv 1712.08845 | 2017 | The Complex Morphology of the Young Disk MWC 758: Spirals and Dust Clumps around a Large Cavity
+- **8× cited-seeds** | arXiv 1704.06317 | 2017 | An Optical/Near-infrared Investigation of HD 100546 b with the Gemini Planet Imager and MagAO
+- **8× cited-seeds** | arXiv 1711.03974 | 2017 | Protoplanetary Disks in ρ Ophiuchus as Seen from ALMA
+- **8× cited-seeds** | arXiv — | 2016 | Suppressing a Sea of Starlight : enabling technology for the direct imaging of exoplanets
+- **8× cited-seeds** | arXiv 1605.07917 | 2016 | A CANDIDATE YOUNG MASSIVE PLANET IN ORBIT AROUND THE CLASSICAL T TAURI STAR CI TAU
+- **8× cited-seeds** | arXiv — | 2016 | Accurate high-contrast imaging polarimetry of exoplanets with SPHERE/IRDIS
+- **8× cited-seeds** | arXiv 1610.00714 | 2016 | How to design a planetary system for different scattering outcomes: giant impact sweet spot, maximising exocomets, scattered disks
+- **8× cited-seeds** | arXiv 1602.02856 | 2016 | HIGH-CADENCE, HIGH-CONTRAST IMAGING FOR EXOPLANET MAPPING: OBSERVATIONS OF THE HR 8799 PLANETS WITH VLT/SPHERE SATELLITE-SPOT-CORRECTED RELATIVE PHOTOMETRY
+- **8× cited-seeds** | arXiv 1602.00691 | 2016 | THE MEASUREMENT, TREATMENT, AND IMPACT OF SPECTRAL COVARIANCE AND BAYESIAN PRIORS IN INTEGRAL-FIELD SPECTROSCOPY OF EXOPLANETS
+- **8× cited-seeds** | arXiv 1603.07255 | 2016 | The (w)hole survey: An unbiased sample study of transition disk candidates based on Spitzer catalogs
+- **8× cited-seeds** | arXiv 1606.07087 | 2016 | Constraining the mass of the planet(s) sculpting a disk cavity
+- **8× cited-seeds** | arXiv 1604.05450 | 2016 | AN ORIGIN OF MULTIPLE RING STRUCTURE AND HIDDEN PLANETS IN HL TAU: A UNIFIED PICTURE BY SECULAR GRAVITATIONAL INSTABILITY
+- **8× cited-seeds** | arXiv 1603.06645 | 2016 | Insights into Planet Formation from Debris Disks: I. The Solar System as an Archetype for Planetesimal Evolution
+- **8× cited-seeds** | arXiv 1506.01007 | 2015 | THE TRANSITIONAL DISK AROUND IRAS 04125+2902
+- **8× cited-seeds** | arXiv 1508.00261 | 2015 | SATURN’S G AND D RINGS PROVIDE NEARLY COMPLETE MEASURED SCATTERING PHASE FUNCTIONS OF NEARBY DEBRIS DISKS
+- **8× cited-seeds** | arXiv 1503.07586 | 2015 | CHARACTERIZATION OF LOW-MASS, WIDE-SEPARATION SUBSTELLAR COMPANIONS TO STARS IN UPPER SCORPIUS: NEAR-INFRARED PHOTOMETRY AND SPECTROSCOPY
+- **8× cited-seeds** | arXiv 1501.03154 | 2015 | THE AGES OF EARLY-TYPE STARS: STRÖMGREN PHOTOMETRIC METHODS CALIBRATED, VALIDATED, TESTED, AND APPLIED TO HOSTS AND PROSPECTIVE HOSTS OF DIRECTLY IMAGED EXOPLANETS
+- **8× cited-seeds** | arXiv 1501.05659 | 2015 | FORMATION OF SUPER-EARTH MASS PLANETS AT 125–250 AU FROM A SOLAR-TYPE STAR
+- **8× cited-seeds** | arXiv 1510.00396 | 2015 | SPIRAL ARMS IN GRAVITATIONALLY UNSTABLE PROTOPLANETARY DISKS AS IMAGED IN SCATTERED LIGHT
+- **8× cited-seeds** | arXiv 1512.05553 | 2015 | Steepening of the 820 micron continuum surface-brightness profile signals dust evolution in TW Hya's disk
+- **8× cited-seeds** | arXiv 1406.6974 | 2014 | COMPARISON OF THE DUST AND GAS RADIAL STRUCTURE IN THE TRANSITION DISK [PZ99] J160421.7-213028
+- **8× cited-seeds** | arXiv 1402.5778 | 2014 | Millimetre spectral indices of transition disks and their relation to the cavity radius
+- **8× cited-seeds** | arXiv 1412.4145 | 2014 | Near-Infrared Image of the Debris Disk around HD 15115
+- **8× cited-seeds** | arXiv 1405.7055 | 2014 | REVEALING ASYMMETRIES IN THE HD 181327 DEBRIS DISK: A RECENT MASSIVE COLLISION OR INTERSTELLAR MEDIUM WARPING
+- **8× cited-seeds** | arXiv 1404.0131 | 2014 | A FIRST-LOOK ATMOSPHERIC MODELING STUDY OF THE YOUNG DIRECTLY IMAGED PLANET-MASS COMPANION, ROXS 42Bb
+- **8× cited-seeds** | arXiv 1410.7784 | 2014 | GAP CLEARING BY PLANETS IN A COLLISIONAL DEBRIS DISK
+- **8× cited-seeds** | arXiv 1403.7520 | 2014 | First light of the Gemini Planet Imager
+- **8× cited-seeds** | arXiv — | 2014 | THE SPITZER INFRARED SPECTROGRAPH DEBRIS DISK CATALOG. II. SILICATE FEATURE ANALYSIS OF UNRESOLVED TARGETS
+- **8× cited-seeds** | arXiv 1407.2539 | 2014 | New constraints on the dust surrounding HR 4796A
+- **8× cited-seeds** | arXiv 1402.6597 | 2014 | On the structure of the transition disk around TW Hydrae
+- **8× cited-seeds** | arXiv 1404.6525 | 2014 | The Gemini NICI planet-finding campaign: The offset ring of HR 4796 A ,
+- **8× cited-seeds** | arXiv 1307.2237 | 2013 | PLANETS AROUND LOW-MASS STARS. III. A YOUNG DUSTY L DWARF COMPANION AT THE DEUTERIUM-BURNING LIMIT,
+- **8× cited-seeds** | arXiv — | 2013 | Detecting and Characterizing Exoplanets with Direct Imaging: Past, Present, and Future
+- **8× cited-seeds** | arXiv 1302.1517 | 2013 | Constraining the initial entropy of directly detected exoplanets
+- **8× cited-seeds** | arXiv 1311.7088 | 2013 | STRUCTURES IN THE PROTOPLANETARY DISK OF HD142527 SEEN IN POLARIZED SCATTERED LIGHT
+- **8× cited-seeds** | arXiv 1209.2121 | 2012 | NEW BROWN DWARF COMPANIONS TO YOUNG STARS IN SCORPIUS–CENTAURUS
+- **8× cited-seeds** | arXiv 1210.6620 | 2012 | DIRECT IMAGING CONFIRMATION AND CHARACTERIZATION OF A DUST-ENSHROUDED CANDIDATE EXOPLANET ORBITING FOMALHAUT
+- **8× cited-seeds** | arXiv 1207.4197 | 2012 | DETECTION AND CHARACTERIZATION OF EXOPLANETS AND DISKS USING PROJECTIONS ON KARHUNEN–LOÈVE EIGENIMAGES
+- **8× cited-seeds** | arXiv 1206.6334 | 2012 | Morphology of the very inclined debris disk around HD 32297
+- **8× cited-seeds** | arXiv 1110.4551 | 2011 | Density waves in debris discs and galactic nuclei
+- **8× cited-seeds** | arXiv 1109.5693 | 2011 | A DISK AROUND THE PLANETARY-MASS COMPANION GSC 06214-00210 b: CLUES ABOUT THE FORMATION OF GAS GIANTS ON WIDE ORBITS
+- **8× cited-seeds** | arXiv — | 2011 | THE WIDEST-SEPARATION SUBSTELLAR COMPANION CANDIDATE TO A BINARY T TAURI STAR
+- **8× cited-seeds** | arXiv 1102.5089 | 2011 | MODEL ATMOSPHERES FOR MASSIVE GAS GIANTS WITH THICK CLOUDS: APPLICATION TO THE HR 8799 PLANETS AND PREDICTIONS FOR FUTURE DETECTIONS
+- **8× cited-seeds** | arXiv — | 2010 | Direct imaging of massive extrasolar planets
+- **7× cited-seeds** | arXiv 2602.09422 | 2026 | The Compositions of the HR 8799 Planets Reflect Accretion of Both Solids and Metal-enriched Gas
+- **7× cited-seeds** | arXiv 2602.00225 | 2026 | A Roman Coronagraph Spectroscopic Mode Demonstration
+- **7× cited-seeds** | arXiv 2602.22180 | 2026 | Exocometary Physics: Material Release and Tails
+- **7× cited-seeds** | arXiv 2601.11712 | 2026 | The ALMA survey to Resolve exoKuiper belt Substructures (ARKS)
+- **7× cited-seeds** | arXiv 2603.08314 | 2026 | A reaction-diffusion model for describing the ring/gap structure in disks surrounding individual young stars
+- **7× cited-seeds** | arXiv 2606.19228 | 2026 | JWST-TST High Contrast: First Direct Spectroscopy of GJ 504 b Reveals Clouds and Possible Metal Enrichment
+- **7× cited-seeds** | arXiv 2602.23423 | 2026 | Worlds Next Door. III. Indirect Evidence for Enhanced Atmospheric Metallicity and/or the Presence of Water Clouds in the Nearest Jupiter-analog ϵ Eri b
+- **7× cited-seeds** | arXiv 2603.13543 | 2026 | The JWST Early Release Science Program for Direct Observations of Exoplanetary Systems. VII. Molecular Mapping Performance with JWST/MIRI MRS: VHS 1256 b as a Case Study
+- **7× cited-seeds** | arXiv 2512.15861 | 2025 | A second planetesimal collision in the Fomalhaut system.
+- **7× cited-seeds** | arXiv 2509.02825 | 2025 | High Resolution ALMA Data of the Fomalhaut Debris Disk Confirms Apsidal Width Variation
+- **7× cited-seeds** | arXiv 2509.02681 | 2025 | A Striking First Impression: CGI Commissioning Observations of the AB Aurigae Protoplanetary System
+- **7× cited-seeds** | arXiv 2503.11597 | 2025 | Microlensing Constraints on the Stellar and Planetary Mass Functions
+- **7× cited-seeds** | arXiv 2511.08862 | 2025 | CoronaGraph Instrument Reference Stars for Exoplanets (CorGI-REx). I. Preliminary Vetting and Implications for the Roman Coronagraph and Habitable Worlds Observatory
+- **7× cited-seeds** | arXiv 2507.16127 | 2025 | A Comprehensive Analysis of Rovibrational CO in the Era of JWST
+- **7× cited-seeds** | arXiv 2503.01957 | 2025 | Mapping the Merging Zone of Late Infall in the AB Aur Planet-forming System
+- **7× cited-seeds** | arXiv 2507.18185 | 2025 | Multi-scale radiative-transfer model of the protoplanetary disc DoAr 44
+- **7× cited-seeds** | arXiv 2601.02486 | 2025 | Models and observational predictions of dust traps in protoplanetary discs
+- **7× cited-seeds** | arXiv — | 2025 | JWST-MIRI Observations of the Irradiated Chemistry in the Inner Disk Cavity of GM Aur
+- **7× cited-seeds** | arXiv 2501.05913 | 2025 | Dust processing in the terrestrial planet-forming region of the PDS 70 disk
+- **7× cited-seeds** | arXiv 2510.00138 | 2025 | Semianalytical Accretion-tracer Emission: Forming Planets Are Intrinsically Faint
+- **7× cited-seeds** | arXiv 2504.11659 | 2025 | Probing the Outskirts of M Dwarf Planetary Systems with a Cycle 1 JWST NIRCam Coronagraphy Survey
+- **7× cited-seeds** | arXiv 2402.12601 | 2024 | Deep Paβ Imaging of the Candidate Accreting Protoplanet AB Aur b
+- **7× cited-seeds** | arXiv 2408.12351 | 2024 | A Search for Collisions and Planet–Disk Interactions in the Beta Pictoris Disk with 26 Years of High-precision HST/STIS Imaging
+- **7× cited-seeds** | arXiv 2409.14239 | 2024 | A High-resolution Spectroscopic Survey of Directly Imaged Companion Hosts. I. Determination of Diagnostic Stellar Abundances for Planet Formation and Composition
+- **7× cited-seeds** | arXiv 2504.07190 | 2024 | The effects of binary reference stars on JWST NIRCam coronagraphy
+- **7× cited-seeds** | arXiv 2407.04661 | 2024 | MIRI MRS Observations of Beta Pictoris. II. The Spectroscopic Case for a Recent Giant Collision
+- **7× cited-seeds** | arXiv 2408.09216 | 2024 | Asymmetric Dust Accumulation of the PDS 70 Disk Revealed by ALMA Band 3 Observations
+- **7× cited-seeds** | arXiv 2403.00917 | 2024 | Atacama Large Aperture Submillimeter Telescope (AtLAST) science: Our Galaxy
+- **7× cited-seeds** | arXiv 2412.03923 | 2024 | Predictions of Dust Continuum Emission from a Potential Circumplanetary Disk: A Case Study of the Planet Candidate AB Aurigae b
+- **7× cited-seeds** | arXiv 2408.01491 | 2024 | Occurrence Rates of Accreting Companions from a New Method for Computing Emission-line Survey Sensitivity: Application to the Hα Giant Accreting Protoplanet Survey
+- **7× cited-seeds** | arXiv — | 2024 | RV Measurements of Directly Imaged Brown Dwarf GQ Lup B to Search for Exosatellites
+- **7× cited-seeds** | arXiv 2404.05608 | 2024 | Thermal Structure Determines Kinematics: Vertical Shear Instability in Stellar Irradiated Protoplanetary Disks
+- **7× cited-seeds** | arXiv 2406.12819 | 2024 | A Dust-trapping Ring in the Planet-hosting Disk of Elias 2-24
+- **7× cited-seeds** | arXiv 2405.18422 | 2024 | JWST-TST High Contrast: JWST/NIRCam Observations of the Young Giant Planet β Pic b
+- **7× cited-seeds** | arXiv 2304.08518 | 2023 | Mapping the Skies of Ultracool Worlds: Detecting Storms and Spots with Extremely Large Telescopes
+- **7× cited-seeds** | arXiv 2302.01119 | 2023 | Fractal Aggregates of Submicron-sized Grains in the Young Planet-forming Disk around IM Lup
+- **7× cited-seeds** | arXiv 2310.07332 | 2023 | Dust Coagulation Reconciles Protoplanetary Disk Observations with the Vertical Shear Instability. I. Dust Coagulation and the VSI Dead Zone
+- **7× cited-seeds** | arXiv 2208.00334 | 2022 | SCExAO and Keck Direct Imaging Discovery of a Low-mass Companion Around the Accelerating F5 Star HIP 5319
+- **7× cited-seeds** | arXiv 2201.04711 | 2022 | Let the Great World Spin: Revealing the Stormy, Turbulent Nature of Young Giant Exoplanet Analogs with the Spitzer Space Telescope
+- **7× cited-seeds** | arXiv 2201.11690 | 2022 | Cascade adaptive optics: contrast performance analysis of a two-stage controller by numerical simulations
+- **7× cited-seeds** | arXiv 2212.14529 | 2022 | The physical and chemical processes in protoplanetary disks: constraints on the composition of comets
+- **7× cited-seeds** | arXiv 2206.13548 | 2022 | A VLA View of the Flared, Asymmetric Disk around the Class 0 Protostar L1527 IRS
+- **7× cited-seeds** | arXiv 2212.00853 | 2022 | Dust Rings and Cavities in the Protoplanetary Disks around HD 163296 and DoAr 44
+- **7× cited-seeds** | arXiv 2103.04977 | 2021 | Fomalhaut b could be massive and sculpting the narrow, eccentric debris disc, if in mean-motion resonance with it
+- **7× cited-seeds** | arXiv 2103.06898 | 2021 | SCExAO/MEC and CHARIS Discovery of a Low-mass, 6 au Separation Companion to HIP 109427 Using Stochastic Speckle Discrimination and High-contrast Spectroscopy
+- **7× cited-seeds** | arXiv 2110.04319 | 2021 | Debris Disks
+- **7× cited-seeds** | arXiv 2103.08462 | 2021 | HD 142527: quantitative disk polarimetry with SPHERE
+- **7× cited-seeds** | arXiv 2107.13566 | 2021 | Circumbinary and circumstellar discs around the eccentric binary IRAS 04158+2805 — a testbed for binary–disc interaction
+- **7× cited-seeds** | arXiv 2103.05654 | 2021 | CO isotopolog line fluxes of viscously evolving disks
+- **7× cited-seeds** | arXiv 2104.08379 | 2021 | A dusty filament and turbulent CO spirals in HD 135344B - SAO 206462
+- **7× cited-seeds** | arXiv 2101.01888 | 2021 | Particle Dynamics in 3D Self-gravitating Disks. I. Spirals
+- **7× cited-seeds** | arXiv 2106.10167 | 2021 | Global three-dimensional simulations of outer protoplanetary discs with ambipolar diffusion
+- **7× cited-seeds** | arXiv 2103.09254 | 2021 | Puffed-up Edges of Planet-opened Gaps in Protoplanetary Disks. I. Hydrodynamic Simulations
+- **7× cited-seeds** | arXiv 2103.00016 | 2021 | The theory of kinks – I. A semi-analytic model of velocity perturbations due to planet–disc interaction
+- **7× cited-seeds** | arXiv 2103.15844 | 2021 | Calibration of residual aberrations in exoplanet imagers with large numbers of degrees of freedom
+- **7× cited-seeds** | arXiv — | 2021 | The structures of protoplanetary disks
+- **7× cited-seeds** | arXiv 2101.01179 | 2021 | Giant planet migration during the disc dispersal phase
+- **7× cited-seeds** | arXiv 2110.00974 | 2021 | ALMA Super-resolution Imaging of T Tau: r = 12 au Gap in the Compact Dust Disk around T Tau N
+- **7× cited-seeds** | arXiv 2108.10296 | 2021 | Close Stellar Flybys Common in Low-mass Clusters
+- **7× cited-seeds** | arXiv 2007.09623 | 2020 | Detecting Exoplanets Using Eclipsing Binaries as Natural Starshades
+- **7× cited-seeds** | arXiv 2011.08855 | 2020 | SCExAO/CHARIS Direct Imaging Discovery of a 20 au Separation, Low-mass Ratio Brown Dwarf Companion to an Accelerating Sun-like Star
+- **7× cited-seeds** | arXiv 2010.02961 | 2020 | Mutual inclinations between giant planets and their debris discs in HD 113337 and HD 38529
+- **7× cited-seeds** | arXiv 2009.01841 | 2020 | Direct characterization of young giant exoplanets at high spectral resolution by coupling SPHERE and CRIRES+
+- **7× cited-seeds** | arXiv 2008.04014 | 2020 | Searching for wide-orbit gravitational instability protoplanets with ALMA in the dust continuum
+- **7× cited-seeds** | arXiv 2001.08304 | 2020 | Cloud Atlas: High-precision HST/WFC3/IR Time-resolved Observations of Directly Imaged Exoplanet HD 106906b
+- **7× cited-seeds** | arXiv 2006.06818 | 2020 | Multiband Polarimetric Imaging of HR 4796A with the Gemini Planet Imager
+- **7× cited-seeds** | arXiv 2009.03323 | 2020 | Modeling protoplanetary disk SEDs with artificial neural networks: Revisiting the viscous disk model and updated disk masses
+- **7× cited-seeds** | arXiv — | 2020 | The circumstellar environment of EX Lupi: SPHERE and SINFONI views
+- **7× cited-seeds** | arXiv 2004.04952 | 2020 | Polarization measurements of the polluted white dwarf G29-38
+- **7× cited-seeds** | arXiv 2009.00153 | 2020 | The Separation and Hα Contrasts of Massive Accreting Planets in the Gaps of Transitional Disks: Predicted Hα Protoplanet Yields for Adaptive Optics Surveys
+- **7× cited-seeds** | arXiv 2011.05324 | 2020 | Global Spiral Density Wave Modes in Protoplanetary Disks: Morphology of Spiral Arms
+- **7× cited-seeds** | arXiv 2002.08217 | 2020 | Model of a Gap Formed by a Planet with Fast Inward Migration
+- **7× cited-seeds** | arXiv 2010.05488 | 2020 | Spiral-arm Substructures in the Asymmetrical Dust Rings of the Circumstellar Disk MWC 758
+- **7× cited-seeds** | arXiv — | 2020 | An ALMA/NOEMA study of gas dissipation and dust evolution in the 5 Myr-old HD 141569A hybrid disc
+- **7× cited-seeds** | arXiv 2004.07257 | 2020 | Constraining the radial drift of millimeter-sized grains in the protoplanetary disks in Lupus
+- **7× cited-seeds** | arXiv 2001.03565 | 2020 | Detectability of embedded protoplanets from hydrodynamical simulations
+- **7× cited-seeds** | arXiv 2007.04980 | 2020 | Dynamical Evidence of a Spiral Arm–driving Planet in the MWC 758 Protoplanetary Disk
+- **7× cited-seeds** | arXiv 2006.03120 | 2020 | Dual-wavelength ALMA Observations of Dust Rings in Protoplanetary Disks
+- **7× cited-seeds** | arXiv — | 2020 | The Eroding Disk of AU Mic
+- **7× cited-seeds** | arXiv 2012.03980 | 2020 | Three New Late-type Stellar Companions to Very Dusty WISE Debris Disks Identified with SPHERE Imaging
+- **7× cited-seeds** | arXiv 2002.10195 | 2020 | ALMA chemical survey of disk-outflow sources in Taurus (ALMA-DOT)
+- **7× cited-seeds** | arXiv 2007.06573 | 2020 | The SPHERE infrared survey for exoplanets (SHINE)
+- **7× cited-seeds** | arXiv 2005.07709 | 2020 | frankenstein: protoplanetary disc brightness profile reconstruction at sub-beam resolution with a rapid Gaussian process
+- **7× cited-seeds** | arXiv 1906.05663 | 2019 | Determining mass limits around HD 163296 through SPHERE direct imaging data
+- **7× cited-seeds** | arXiv 1903.06190 | 2019 | Gas versus dust sizes of protoplanetary discs: effects of dust evolution
+- **7× cited-seeds** | arXiv 1904.11517 | 2019 | An Inner Disk in the Large Gap of the Transition Disk SR 24S
+- **7× cited-seeds** | arXiv 1907.10113 | 2019 | High-fidelity Imaging of the Inner AU Mic Debris Disk: Evidence of Differential Wind Sculpting?
+- **7× cited-seeds** | arXiv 1912.03351 | 2019 | Constraining the masses of planets in protoplanetary discs from the presence or absence of vortices – comparison with ALMA observations
+- **7× cited-seeds** | arXiv 1910.01532 | 2019 | Spiral Structure in the Gas Disk of TW Hya
+- **7× cited-seeds** | arXiv 1911.04214 | 2019 | Irregular Dust Features around Intermediate-mass Young Stars with GPI: Signs of Youth or Misaligned Disks?
+- **7× cited-seeds** | arXiv 1912.04911 | 2019 | The widest Hα survey of accreting protoplanets around nearby transition disks
+- **7× cited-seeds** | arXiv 1907.07277 | 2019 | Characterization of Ring Substructures in the Protoplanetary Disk of HD 169142 from Multiwavelength Atacama Large Millimeter/submillimeter Array Observations
+- **7× cited-seeds** | arXiv 1809.08261 | 2018 | A Bayesian Framework for Exoplanet Direct Detection and Non-detection
+- **7× cited-seeds** | arXiv 1806.08050 | 2018 | Portable adaptive optics for exoplanet imaging
+- **7× cited-seeds** | arXiv 1811.09470 | 2018 | The scattered disc of HR 8799
+- **7× cited-seeds** | arXiv 1811.03336 | 2018 | PynPoint: a modular pipeline architecture for processing and analysis of high-contrast imaging data
+- **7× cited-seeds** | arXiv 1807.01326 | 2018 | Constraining the presence of giant planets in two-belt debris disc systems with VLT/SPHERE direct imaging and dynamical arguments
+- **7× cited-seeds** | arXiv 1806.10553 | 2018 | A Subarcsecond ALMA Molecular Line Imaging Survey of the Circumbinary, Protoplanetary Disk Orbiting V4046 Sgr
+- **7× cited-seeds** | arXiv 1803.06776 | 2018 | A Decade of MWC 758 Disk Images: Where Are the Spiral-arm-driving Planets?
+- **7× cited-seeds** | arXiv 1811.09629 | 2018 | Observational Signatures of Planets in Protoplanetary Disks: Planet-induced Line Broadening in Gaps
+- **7× cited-seeds** | arXiv 1801.03900 | 2018 | The Orbit of the Companion to HD 100453A: Binary-driven Spiral Arms in a Protoplanetary Disk
+- **7× cited-seeds** | arXiv 1803.05354 | 2018 | Observations of fast-moving features in the debris disk of AU Mic on a three-year timescale: Confirmation and new discoveries
+- **7× cited-seeds** | arXiv 1802.09280 | 2018 | Probing midplane CO abundance and gas temperature with DCO+
+in the protoplanetary disk around HD 169142
+- **7× cited-seeds** | arXiv 1808.06613 | 2018 | Multiple Disk Gaps and Rings Generated by a Single Super-Earth. II. Spacings, Depths, and Number of Gaps, with Application to Real Systems
+- **7× cited-seeds** | arXiv 1704.08085 | 2017 | Collisions and drag in debris discs with eccentric parent belts
+- **7× cited-seeds** | arXiv 1710.01715 | 2017 | PSYM-WIDE: A Survey for Large-separation Planetary-mass Companions to Late Spectral Type Members of Young Moving Groups
+- **7× cited-seeds** | arXiv 1705.08470 | 2017 | An Upper Limit on the Mass of the Circumplanetary Disk for DH Tau b
+- **7× cited-seeds** | arXiv 1708.07611 | 2017 | The Young Substellar Companion ROXs 12 B: Near-infrared Spectrum, System Architecture, and Spin–Orbit Misalignment
+- **7× cited-seeds** | arXiv 1709.07982 | 2017 | The Interplay between Radiation Pressure and the Photoelectric Instability in Optically Thin Disks of Gas and Dust
+- **7× cited-seeds** | arXiv 1705.05868 | 2017 | Detection of Exocometary CO within the 440 Myr Old Fomalhaut Belt: A Similar CO+CO2 Ice Abundance in Exocomets and Solar System Comets
+- **7× cited-seeds** | arXiv 1701.04892 | 2017 | The Effect of Protoplanetary Disk Cooling Times on the Formation of Gas Giant Planets by Gravitational Instability
+- **7× cited-seeds** | arXiv 1701.02314 | 2017 | Subaru/SCExAO First-light Direct Imaging of a Young Debris Disk around HD 36546
+- **7× cited-seeds** | arXiv 1803.04833 | 2017 | SPH simulations of structures in protoplanetary disks
+- **7× cited-seeds** | arXiv 1702.02147 | 2017 | A Surface Density Perturbation in the TW Hydrae Disk at 95 au Traced by Molecular Emission
+- **7× cited-seeds** | arXiv 1711.08161 | 2017 | Planet-driven Spiral Arms in Protoplanetary Disks. I. Formation Mechanism
+- **7× cited-seeds** | arXiv 1706.03066 | 2017 | On the Formation of Multiple Concentric Rings and Gaps in Protoplanetary Disks
+- **7× cited-seeds** | arXiv 1707.02321 | 2017 | Dust Density Distribution and Imaging Analysis of Different Ice Lines in Protoplanetary Disks
+- **7× cited-seeds** | arXiv 1610.00715 | 2016 | THE COUPLED PHYSICAL STRUCTURE OF GAS AND DUST IN THE IM Lup PROTOPLANETARY DISK
+- **7× cited-seeds** | arXiv 1606.08498 | 2016 | Sparse aperture masking at the VLT - II. Detection limits for the eight debris disks stars β Pic, AU Mic, 49 Cet, η Tel, Fomalhaut, g Lup, HD 181327 and HR 8799
+- **7× cited-seeds** | arXiv 1608.08703 | 2016 | SEEDS DIRECT IMAGING OF THE RV-DETECTED COMPANION TO V450 ANDROMEDAE, AND CHARACTERIZATION OF THE SYSTEM
+- **7× cited-seeds** | arXiv 1608.00670 | 2016 | Modelling the inner debris disc of HR 8799
+- **7× cited-seeds** | arXiv 1606.06654 | 2016 | Characterizing HR 3549 B using SPHERE
+- **7× cited-seeds** | arXiv 1604.02076 | 2016 | SEARCHING FOR THE HR 8799 DEBRIS DISK WITH HST/STIS
+- **7× cited-seeds** | arXiv 1603.01618 | 2016 | SIGNATURES OF GRAVITATIONAL INSTABILITY IN RESOLVED IMAGES OF PROTOSTELLAR DISKS
+- **7× cited-seeds** | arXiv 1601.00742 | 2016 | Near-infrared imaging polarimetry of LkCa 15: A possible warped inner disk.
+- **7× cited-seeds** | arXiv 1602.04068 | 2016 | Circumstellar disks of the most vigorously accreting young stars
+- **7× cited-seeds** | arXiv 1610.02044 | 2016 | Can dead zones create structures like a transition disk
+- **7× cited-seeds** | arXiv — | 2015 | Protoplanetary and Debris Disks
+- **7× cited-seeds** | arXiv 1505.01483 | 2015 | AN ALMA CONSTRAINT ON THE GSC 6214-210 B CIRCUM-SUBSTELLAR ACCRETION DISK MASS
+- **7× cited-seeds** | arXiv 1503.03757 | 2015 | Wide-Field InfrarRed Survey Telescope-Astrophysics Focused Telescope Assets WFIRST-AFTA 2015 Report
+- **7× cited-seeds** | arXiv 1501.05685 | 2015 | Exoplanetary Geophysics: An Emerging Discipline
+- **7× cited-seeds** | arXiv 1511.04082 | 2015 | First light of the VLT planet finder SPHERE IV : Physical and chemical properties of the planets around HR8799
+- **7× cited-seeds** | arXiv 1511.02526 | 2015 | RESOLVING THE HD 100546 PROTOPLANETARY SYSTEM WITH THE GEMINI PLANET IMAGER: EVIDENCE FOR MULTIPLE FORMING, ACCRETING PLANETS
+- **7× cited-seeds** | arXiv 1510.02210 | 2015 | DISCOVERY OF AN EDGE-ON DEBRIS DISK WITH A DUST RING AND AN OUTER DISK WING-TILT ASYMMETRY
+- **7× cited-seeds** | arXiv 1501.02508 | 2015 | PURSUING THE PLANET–DEBRIS DISK CONNECTION: ANALYSIS OF UPPER LIMITS FROM THE ANGLO-AUSTRALIAN PLANET SEARCH
+- **7× cited-seeds** | arXiv 1507.04367 | 2015 | Double-ringed debris discs could be the work of eccentric planets: explaining the strange morphology of HD 107146
+- **7× cited-seeds** | arXiv 1511.06767 | 2015 | FIRST SCATTERED-LIGHT IMAGE OF THE DEBRIS DISK AROUND HD 131835 WITH THE GEMINI PLANET IMAGER
+- **7× cited-seeds** | arXiv 1504.02735 | 2015 | Very Large Telescope observations of Gomez's Hamburger: Insights into a young protoplanet candidate
+- **7× cited-seeds** | arXiv 1509.04032 | 2015 | The dust grain size–stellar luminosity trend in debris discs
+- **7× cited-seeds** | arXiv 1505.04482 | 2015 | MASS ESTIMATES OF A GIANT PLANET IN A PROTOPLANETARY DISK FROM THE GAP STRUCTURES
+- **7× cited-seeds** | arXiv 1506.02383 | 2015 | Sequential planet formation in the HD 100546 protoplanetary disk
+- **7× cited-seeds** | arXiv 1512.05440 | 2015 | ALMA OBSERVATIONS OF A GAP AND A RING IN THE PROTOPLANETARY DISK AROUND TW HYA
+- **7× cited-seeds** | arXiv 1508.04765 | 2015 | GEMINI PLANET IMAGER OBSERVATIONS OF THE AU MICROSCOPII DEBRIS DISK: ASYMMETRIES WITHIN ONE ARCSECOND
+- **7× cited-seeds** | arXiv 1407.2938 | 2014 | WIDE COOL AND ULTRACOOL COMPANIONS TO NEARBY STARS FROM Pan-STARRS 1
+- **7× cited-seeds** | arXiv 1410.6244 | 2014 | L'-band AGPM vector vortex coronagraph's first light on LBTI/LMIRCam
+- **7× cited-seeds** | arXiv 1404.0831 | 2014 | Direct detection of exoplanets in the 3–10 μm range with E-ELT/METIS
+- **7× cited-seeds** | arXiv 1403.6186 | 2014 | Correlations between the stellar, planetary, and debris components of exoplanet systems observed byHerschel
+- **7× cited-seeds** | arXiv — | 2014 | Title First light of the Gemini Planet Imager Permalink
+- **7× cited-seeds** | arXiv — | 2014 | The Gemini Planet Imager: First Light
+- **7× cited-seeds** | arXiv — | 2014 | The Gemini Planet Imager: First Light
+- **7× cited-seeds** | arXiv 1412.5173 | 2014 | CONFIRMATION AND CHARACTERIZATION OF THE PROTOPLANET HD 100546 b—DIRECT EVIDENCE FOR GAS GIANT PLANET FORMATION AT 50 AU
+- **7× cited-seeds** | arXiv 1407.7033 | 2014 | The science case for the Planet Formation Imager (PFI)
+- **7× cited-seeds** | arXiv — | 2013 | Radio Interferometry Observations of the Hallmarks of Planet Formation
+- **7× cited-seeds** | arXiv 1310.8577 | 2013 | OPTIMIZED PRINCIPAL COMPONENT ANALYSIS ON CORONAGRAPHIC IMAGES OF THE FOMALHAUT SYSTEM
+- **7× cited-seeds** | arXiv 1309.3372 | 2013 | THE κ ANDROMEDAE SYSTEM: NEW CONSTRAINTS ON THE COMPANION MASS, SYSTEM AGE, AND FURTHER MULTIPLICITY
+- **7× cited-seeds** | arXiv 1302.1160 | 2013 | The near-infrared spectral energy distribution of β Pictoris b
+- **7× cited-seeds** | arXiv 1309.0813 | 2013 | A DEEP KECK/NIRC2 SEARCH FOR THERMAL EMISSION FROM PLANETARY COMPANIONS ORBITING FOMALHAUT
+- **7× cited-seeds** | arXiv 1306.1233 | 2013 | THE GEMINI NICI PLANET-FINDING CAMPAIGN: THE FREQUENCY OF GIANT PLANETS AROUND YOUNG B AND A STARS
+- **7× cited-seeds** | arXiv — | 2013 | A survey of young, nearby, and dusty stars conducted to understand the formation of wide-orbit giant planets - VLT/NaCo adaptive optics thermal and angular differential imaging
+- **7× cited-seeds** | arXiv 1310.7427 | 2013 | Imaged substellar companions: not as eccentric as they appear? The effect of an unseen inner mass on derived orbits
+- **7× cited-seeds** | arXiv 1309.7400 | 2013 | Local Enhancement of the Surface Density in the Protoplanetary Ring Surrounding HD 142527
+- **7× cited-seeds** | arXiv 1306.6379 | 2013 | Near-infrared imaging polarimetry of HD142527 ?;??
+- **7× cited-seeds** | arXiv 1305.3138 | 2013 | Identifying gaps in flaring Herbig Ae/Be disks using spatially resolved mid-infrared imaging - Are all group I disks transitional?
+- **7× cited-seeds** | arXiv 1311.4195 | 2013 | Small vs. large dust grains in transitional disks: do different cavity sizes indicate a planet? - SAO 206462 (HD 135344B) in polarized light with VLT/NACO
+- **7× cited-seeds** | arXiv 1302.3029 | 2013 | GAPS IN THE HD 169142 PROTOPLANETARY DISK REVEALED BY POLARIMETRIC IMAGING: SIGNS OF ONGOING PLANET FORMATION?
+- **7× cited-seeds** | arXiv 1208.4557 | 2012 | High Contrast Imaging of the Close Environment of HD 142527
+- **7× cited-seeds** | arXiv 1206.3307 | 2012 | PLANETS AROUND LOW-MASS STARS (PALMS). II. A LOW-MASS COMPANION TO THE YOUNG M DWARF GJ 3629 SEPARATED BY 0.″2
+- **7× cited-seeds** | arXiv — | 2012 | Coronagraphic imaging of debris disks from a high altitude balloon platform
+- **7× cited-seeds** | arXiv 1203.0318 | 2012 | CONFIRMING THE PRIMARILY SMOOTH STRUCTURE OF THE VEGA DEBRIS DISK AT MILLIMETER WAVELENGTHS
+- **7× cited-seeds** | arXiv 1201.4388 | 2012 | INFRARED NON-DETECTION OF FOMALHAUT b: IMPLICATIONS FOR THE PLANET INTERPRETATION
+- **7× cited-seeds** | arXiv 1208.5436 | 2012 | Planet gaps in the dust layer of 3D protoplanetary disks - II. Observability with ALMA
+- **7× cited-seeds** | arXiv 1203.1612 | 2012 | THE MISSING CAVITIES IN THE SEEDS POLARIZED SCATTERED LIGHT IMAGES OF TRANSITIONAL PROTOPLANETARY DISKS: A GENERIC DISK MODEL
+- **7× cited-seeds** | arXiv 1102.5330 | 2011 | VLT/NACO astrometry of the HR 8799 planetary system - L′-band observations of the three outer planets
+- **7× cited-seeds** | arXiv 1101.4666 | 2011 | DISCOVERY OF AN ∼23 MJup BROWN DWARF ORBITING ∼700 AU FROM THE MASSIVE STAR HIP 78530 IN UPPER SCORPIUS
+- **7× cited-seeds** | arXiv 1101.2893 | 2011 | THE GEMINI NICI PLANET-FINDING CAMPAIGN: DISCOVERY OF A SUBSTELLAR L DWARF COMPANION TO THE NEARBY YOUNG M DWARF CD−35 2722
+- **7× cited-seeds** | arXiv 1103.3544 | 2011 | THE ULTRA COOL BROWN DWARF COMPANION OF WD 0806–661B: AGE, MASS, AND FORMATION MECHANISM
+- **7× cited-seeds** | arXiv 1011.2496 | 2010 | Dissecting the Moth: discovery of an off-centered ring in the HD 61005 debris disk with high-resolution imaging
+- **7× cited-seeds** | arXiv 1003.5229 | 2010 | Debris disks: seeing dust, thinking of planetesimals and planets
+- **7× cited-seeds** | arXiv 1008.1983 | 2010 | HIGH-CONTRAST 3.8 μm IMAGING OF THE BROWN DWARF/PLANET-MASS COMPANION TO GJ 758
+- **7× cited-seeds** | arXiv 1007.4808 | 2010 | THE GEMINI NICI PLANET-FINDING CAMPAIGN: DISCOVERY OF A CLOSE SUBSTELLAR COMPANION TO THE YOUNG DEBRIS DISK STAR PZ Tel
+- **6× cited-seeds** | arXiv 2603.04719 | 2026 | Early Planet Formation in Embedded Disks (eDisk). XVIII. Indication of a possible spiral structure in the dust-continuum emission of the protostellar disk around IRAS 16544−1604 in CB 68
+- **6× cited-seeds** | arXiv 2603.18338 | 2026 | Photometric and Astrometric Information for Sources around HD 163296 Revealed by JWST/NIRCam Coronagraphy
+- **6× cited-seeds** | arXiv 2511.10882 | 2025 | Unveiling the Chemical Complexity and C/O Ratio of the HD 163296 Protoplanetary Disk: Constraints from Multiline ALMA Observations of Organics, Nitriles, and Sulfur-bearing and Deuterated Molecules
+- **6× cited-seeds** | arXiv 2512.05191 | 2025 | Keck Observations in the INfrared of Taurus and ρ Oph Exoplanets And Ultracool Dwarfs (KOINTREAU) I: A Planetary-mass Companion and a Disk-obscured Stellar Companion Discovered in Taurus
+- **6× cited-seeds** | arXiv 2509.02665 | 2025 | Multi-band Spectral and Astrometric Characterization of the HIP 99770 b Planet with SCExAO/CHARIS and Gaia
+- **6× cited-seeds** | arXiv 2501.13917 | 2025 | HD 206893 B at High Spectral Resolution with the Keck Planet Imager and Characterizer
+- **6× cited-seeds** | arXiv 2506.10731 | 2025 | The ALMA Survey of Gas Evolution of PROtoplanetary Disks (AGE-PRO). II. Dust and Gas Disk Properties in the Ophiuchus Star-forming Region
+- **6× cited-seeds** | arXiv — | 2025 | Ground-breaking exoplanet science with the ANDES spectrograph at the ELT
+- **6× cited-seeds** | arXiv — | 2025 | The JWST Early Release Science Program for Direct Observations of Exoplanetary Systems. III. Aperture Masking Interferometric Observations of the Star HIP 65426 at 3.8 μm
+- **6× cited-seeds** | arXiv 2511.18758 | 2025 | A Smooth Transition from Giant Planets to Brown Dwarfs from the Radial Occurrence Distribution
+- **6× cited-seeds** | arXiv 2506.10738 | 2025 | The ALMA Survey of Gas Evolution of PROtoplanetary Disks (AGE-PRO). V. Protoplanetary Gas Disk Masses
+- **6× cited-seeds** | arXiv 2510.11021 | 2025 | On the Orbital Evolution of Multiple Wide Super-Jupiters: How Disk Migration and Dispersal Shape the Stability of the PDS 70 System
+- **6× cited-seeds** | arXiv 2505.08107 | 2025 | Hints of Disk Substructure in the First Brown Dwarf with a Dynamical Mass Constraint
+- **6× cited-seeds** | arXiv 2508.11155 | 2025 | Discovery of Hα Emission from a Protoplanet Candidate around the Young Star 2MASS J16120668–3010270 with MagAO-X
+- **6× cited-seeds** | arXiv 2509.22541 | 2025 | The Origins & Reservoirs of Exocomets
+- **6× cited-seeds** | arXiv 2504.19902 | 2025 | exoALMA. V. Gaseous Emission Surfaces and Temperature Structures
+- **6× cited-seeds** | arXiv 2512.14398 | 2025 | The Role of Self-gravity in Debris-disk Warp Formation: The Case of HD 110058
+- **6× cited-seeds** | arXiv 2506.21768 | 2025 | Astrometric Accelerations of Provisional Targets for the Habitable Worlds Observatory
+- **6× cited-seeds** | arXiv 2505.15995 | 2025 | NIRCam Yells at Cloud: JWST MIRI Imaging Can Directly Detect Exoplanets of the Same Temperature, Mass, Age, and Orbital Separation as Saturn and Jupiter
+- **6× cited-seeds** | arXiv 2505.20520 | 2025 | Highlights from Exoplanet Observations by the James Webb Space Telescope
+- **6× cited-seeds** | arXiv — | 2024 | Pushing the limits of kernel phase interferometry for protoplanet discovery
+- **6× cited-seeds** | arXiv 2407.15986 | 2024 | Gemini Planet Imager Observations of a Resolved Low-inclination Debris Disk around HD 156623
+- **6× cited-seeds** | arXiv — | 2024 | Shadows Wreak Havoc in Transition Disks
+- **6× cited-seeds** | arXiv 2406.10901 | 2024 | Magnetohydrodynamical modeling of star-disk formation: from isolated spherical collapse towards incorporation of external dynamics
+- **6× cited-seeds** | arXiv 2406.12037 | 2024 | C/O Ratios and the Formation of Wide-separation Exoplanets
+- **6× cited-seeds** | arXiv 2405.21038 | 2024 | A Multiwavelength, Multiepoch Monitoring Campaign of Accretion Variability in T Tauri Stars from the ODYSSEUS Survey. I. HST Far-UV and Near-UV Spectra
+- **6× cited-seeds** | arXiv 2405.04521 | 2024 | SCExAO/CHARIS Multiwavelength High-contrast Imaging of the BD+45°598 Debris Disk
+- **6× cited-seeds** | arXiv 2402.01063 | 2024 | Dracula’s Chivito: Discovery of a Large Edge-on Protoplanetary Disk with Pan-STARRS
+- **6× cited-seeds** | arXiv 2310.15028 | 2023 | Searching for Planets Orbiting Fomalhaut with JWST/NIRCam
+- **6× cited-seeds** | arXiv 2306.15069 | 2023 | Systematic Multiepoch Monitoring of LkCa 15: Dynamic Dust Structures on Solar System Scales
+- **6× cited-seeds** | arXiv 2303.10189 | 2023 | Giant Impacts and Debris Disk Morphology
+- **6× cited-seeds** | arXiv 2305.00951 | 2023 | Formation of Gaps in Self-gravitating Debris Disks by Secular Resonance in a Single-planet System. II. Toward a Self-consistent Model
+- **6× cited-seeds** | arXiv 2304.07370 | 2023 | The Apparent Absence of Forward Scattering in the HD 53143 Debris Disk
+- **6× cited-seeds** | arXiv 2310.00148 | 2023 | First VLTI/GRAVITY Observations of HIP 65426 b: Evidence for a Low or Moderate Orbital Eccentricity
+- **6× cited-seeds** | arXiv 2204.06013 | 2022 | ALMA Discovery of a Disk around the Planetary-mass Companion SR 12 c
+- **6× cited-seeds** | arXiv 2212.07399 | 2022 | Patchy Forsterite Clouds in the Atmospheres of Two Highly Variable Exoplanet Analogs
+- **6× cited-seeds** | arXiv 2210.14213 | 2022 | Deep Orbital Search for Additional Planets in the HR 8799 System
+- **6× cited-seeds** | arXiv 2204.08826 | 2022 | Architecture of Planetary Systems Predicted from Protoplanetary Disks Observed with ALMA. II. Evolution Outcomes and Dynamical Stability
+- **6× cited-seeds** | arXiv 2211.09840 | 2022 | Astrometric Accelerations as Dynamical Beacons: Discovery and Characterization of HIP 21152 B, the First T-dwarf Companion in the Hyades
+- **6× cited-seeds** | arXiv 2209.11813 | 2022 | Regularized Maximum Likelihood Image Synthesis and Validation for ALMA Continuum Observations of Protoplanetary Disks
+- **6× cited-seeds** | arXiv 2212.07711 | 2022 | Dust dynamics in planet-forming discs in binary systems
+- **6× cited-seeds** | arXiv 2202.00922 | 2022 | Search for Stellar Flybys in the Sco-Cen OB Association with the Gaia DR2
+- **6× cited-seeds** | arXiv 2209.06781 | 2022 | A Millimeter-multiwavelength Continuum Study of VLA 1623 West
+- **6× cited-seeds** | arXiv 2210.03725 | 2022 | Stellar Flyby Analysis for Spiral Arm Hosts with Gaia DR3
+- **6× cited-seeds** | arXiv 2105.10025 | 2021 | Variability of Disk Emission in Pre-main Sequence and Related Stars. V. Occultation Events from the Innermost Disk Region of the Herbig Ae Star HD 163296
+- **6× cited-seeds** | arXiv 2101.11307 | 2021 | Measuring the ratio of the gas and dust emission radii of protoplanetary disks in the Lupus star-forming region
+- **6× cited-seeds** | arXiv 2110.14650 | 2021 | First Doppler Limits on Binary Planets and Exomoons in the HR 8799 System
+- **6× cited-seeds** | arXiv 2109.07614 | 2021 | Deep Exploration of the Planets HR 8799 b, c, and d with Moderate-resolution Spectroscopy
+- **6× cited-seeds** | arXiv 2105.14102 | 2021 | Seeking Echoes of Circumstellar Disks in Kepler Light Curves
+- **6× cited-seeds** | arXiv 2104.13032 | 2021 | High-contrast imaging at ten microns: A search for exoplanets around Eps Indi A, Eps Eri, Tau Ceti, Sirius A, and Sirius B
+- **6× cited-seeds** | arXiv 2102.01715 | 2021 | The Demographics of Wide-Separation Planets
+- **6× cited-seeds** | arXiv 2111.01803 | 2021 | Dynamical Mass of the Young Substellar Companion HD 984 B
+- **6× cited-seeds** | arXiv 2106.05278 | 2021 | Spectral and angular differential imaging with SPHERE/IFS
+- **6× cited-seeds** | arXiv 2101.06281 | 2021 | The far reaches of the β
+Pictoris debris disk
+- **6× cited-seeds** | arXiv 2107.10284 | 2021 | UV Fluorescence Traces Gas and Lyα Evolution in Protoplanetary Disks
+- **6× cited-seeds** | arXiv 2112.04833 | 2021 | A wide-orbit giant planet in the high-mass b Centauri binary system
+- **6× cited-seeds** | arXiv 2102.05905 | 2021 | ALMA Observations of the Asymmetric Dust Disk around DM Tau
+- **6× cited-seeds** | arXiv 2105.02907 | 2021 | An upper limit for the growth of inner planets?
+- **6× cited-seeds** | arXiv 2109.13256 | 2021 | Dust traffic jams in inclined circumbinary protoplanetary discs – I. Morphology and formation theory
+- **6× cited-seeds** | arXiv 2106.02660 | 2021 | Chemical signatures of a warped protoplanetary disc
+- **6× cited-seeds** | arXiv — | 2021 | First 3D grid-based gas-dust simulations of circumstellar discs with an embedded planet
+- **6× cited-seeds** | arXiv 2106.07757 | 2021 | ALMA 870 μm continuum observations of HD 100546
+- **6× cited-seeds** | arXiv 2104.09596 | 2021 | The Disc Miner
+- **6× cited-seeds** | arXiv 2107.09086 | 2021 | DPNNet-2.0. I. Finding Hidden Planets from Simulated Images of Protoplanetary Disk Gaps
+- **6× cited-seeds** | arXiv 2103.14048 | 2021 | Spiral Arms and a Massive Dust Disk with Non-Keplerian Kinematics: Possible Evidence for Gravitational Instability in the Disk of Elias 2–27
+- **6× cited-seeds** | arXiv 2111.02726 | 2021 | Apparent Motion of the Circumstellar Envelope of CQ Tau in Scattered Light
+- **6× cited-seeds** | arXiv 2109.09579 | 2021 | Dust Rings as a Footprint of Planet Formation in a Protoplanetary Disk
+- **6× cited-seeds** | arXiv 2111.12708 | 2021 | Improving Planet Detection with Disk Modeling: Keck/NIRC2 Imaging of the HD 34282 Single-armed Protoplanetary Disk
+- **6× cited-seeds** | arXiv 2109.06694 | 2021 | Molecules with ALMA at Planet-forming Scales (MAPS). XI. CN and HCN as Tracers of Photochemistry in Disks
+- **6× cited-seeds** | arXiv 2109.06221 | 2021 | Molecules with ALMA at Planet-forming Scales (MAPS). VII. Substellar O/H and C/H and Superstellar C/O in Planet-feeding Gas
+- **6× cited-seeds** | arXiv 2109.06391 | 2021 | Molecules with ALMA at Planet-forming Scales (MAPS). VI. Distribution of the Small Organics HCN, C2H, and H2CO
+- **6× cited-seeds** | arXiv 2107.09914 | 2021 | On the secular evolution of the ratio between gas and dust radii in protoplanetary discs
+- **6× cited-seeds** | arXiv 2003.08658 | 2020 | ALMA 0.88 mm Survey of Disks around Planetary-mass Companions
+- **6× cited-seeds** | arXiv 2011.03562 | 2020 | Search for giant planets around seven white dwarfs in the Hyades cluster with the Hubble Space Telescope
+- **6× cited-seeds** | arXiv 2010.12620 | 2020 | The MKID Exoplanet Camera for Subaru SCExAO
+- **6× cited-seeds** | arXiv 2003.05794 | 2020 | The wind-driven halo in high-contrast images I: analysis from the focal plane images of SPHERE
+- **6× cited-seeds** | arXiv — | 2020 | Unveiling the β Pictoris system, coupling high contrast imaging, interferometric, and radial velocity data
+- **6× cited-seeds** | arXiv 2003.02145 | 2020 | Original use of MUSE's laser tomography adaptive optics to directly image young accreting exoplanets
+- **6× cited-seeds** | arXiv 2008.11606 | 2020 | Disk Illumination and Jet Variability of the Herbig Ae Star HD 163296 Using Multi-epoch HST/STIS Optical, Near-IR, and Radio Imagery and Spectroscopy
+- **6× cited-seeds** | arXiv 2004.08839 | 2020 | New Growth Mechanism of Dust Grains in Protoplanetary Disks with Magnetically Driven Disk Winds
+- **6× cited-seeds** | arXiv 2005.01652 | 2020 | Tidal Interaction between the UX Tauri A/C Disk System Revealed by ALMA
+- **6× cited-seeds** | arXiv 2008.05170 | 2020 | MAYONNAISE: a morphological components analysis pipeline for circumstellar discs and exoplanets imaging in the near-infrared
+- **6× cited-seeds** | arXiv 2007.01297 | 2020 | The solar abundance problem and eMSTOs in clusters
+- **6× cited-seeds** | arXiv 2009.09912 | 2020 | ALMA Observations of the Inner Cavity in the Protoplanetary Disk around Sz 84
+- **6× cited-seeds** | arXiv 2011.03489 | 2020 | A Dust Trap in the Young Multiple System HD 34700
+- **6× cited-seeds** | arXiv 2007.13779 | 2020 | A Machine Learning Model to Infer Planet Masses from Gaps Observed in Protoplanetary Disks
+- **6× cited-seeds** | arXiv 2004.02916 | 2020 | The Evolution of the Inner Regions of Protoplanetary Disks
+- **6× cited-seeds** | arXiv 2009.13525 | 2020 | Hints for Icy Pebble Migration Feeding an Oxygen-rich Chemistry in the Inner Planet-forming Region of Disks
+- **6× cited-seeds** | arXiv 2007.15686 | 2020 | Predicting the Kinematic Evidence of Gravitational Instability
+- **6× cited-seeds** | arXiv 1910.00347 | 2019 | A new take on the low-mass brown dwarf companions on wide orbits in Upper-Scorpius
+- **6× cited-seeds** | arXiv 1902.04096 | 2019 | Observing the gas component of circumplanetary disks around wide-orbit planet-mass companions in the (sub)mm regime
+- **6× cited-seeds** | arXiv 1911.02022 | 2019 | The Feasibility of Directly Imaging Nearby Cold Jovian Planets with MIRI/JWST
+- **6× cited-seeds** | arXiv 1904.07193 | 2019 | ACRONYM. III. Radial Velocities for 336 Candidate Young Low-mass Stars in the Solar Neighborhood, Including 77 Newly Confirmed Young Moving Group Members
+- **6× cited-seeds** | arXiv 1902.04092 | 2019 | ISPY – NaCo Imaging Survey for Planets around Young stars
+- **6× cited-seeds** | arXiv 1907.00571 | 2019 | New Constraints on the Dust and Gas Distribution in the LkCa 15 Disk from ALMA
+- **6× cited-seeds** | arXiv 1911.11273 | 2019 | The Gemini Planet Imager Exoplanet Survey: Dynamical Mass of the Exoplanet β Pictoris b from Combined Direct Imaging and Astrometry
+- **6× cited-seeds** | arXiv 1904.09866 | 2019 | Constraints on a Putative Planet Sculpting the V4046 Sagittarii Circumbinary Disk
+- **6× cited-seeds** | arXiv 1908.05784 | 2019 | Dusty clumps in circumbinary discs
+- **6× cited-seeds** | arXiv 1901.02407 | 2019 | The Temporal Requirements of Directly Observing Self-gravitating Spiral Waves in Protoplanetary Disks with ALMA
+- **6× cited-seeds** | arXiv 1908.03267 | 2019 | Systematic Variations of CO Gas Abundance with Radius in Gas-rich Protoplanetary Disks
+- **6× cited-seeds** | arXiv 1907.10647 | 2019 | Probing CO and N2 Snow Surfaces in Protoplanetary Disks with N2H+ Emission
+- **6× cited-seeds** | arXiv — | 2019 | Dust in debris disk: Observations and laboratory experiments
+- **6× cited-seeds** | arXiv 1909.06450 | 2019 | Magnetospheric Accretion as a Source of Hα Emission from Protoplanets around PDS 70
+- **6× cited-seeds** | arXiv 1905.07891 | 2019 | Discovery of An au-scale Excess in Millimeter Emission from the Protoplanetary Disk around TW Hya
+- **6× cited-seeds** | arXiv 1909.13108 | 2019 | Polarimetric imaging mode of VLT/SPHERE/IRDIS
+- **6× cited-seeds** | arXiv — | 2019 | Morphological signatures induced by dust back reaction in discs with an embedded planet
+- **6× cited-seeds** | arXiv 1904.07064 | 2019 | Cooling in the shade of warped transition discs
+- **6× cited-seeds** | arXiv 1909.02031 | 2019 | Probing planet formation and disk substructures in the inner disk of Herbig Ae stars with CO rovibrational emission
+- **6× cited-seeds** | arXiv 1907.02538 | 2019 | Kinematic detection of a planet carving a gap in a protoplanetary disk
+- **6× cited-seeds** | arXiv 1905.03844 | 2019 | Modeling the Spatial Distribution and Origin of CO Gas in Debris Disks
+- **6× cited-seeds** | arXiv 2105.11150 | 2019 | Observable scattered light features from inclined and non-inclined planets embedded in protoplanetary discs
+- **6× cited-seeds** | arXiv 1911.08580 | 2019 | Long-lived Dust Rings around HD 169142
+- **6× cited-seeds** | arXiv 1902.05143 | 2019 | Dust Unveils the Formation of a Mini-Neptune Planet in a Protoplanetary Ring
+- **6× cited-seeds** | arXiv 1912.01610 | 2019 | Are inner disc misalignments common? ALMA reveals an isotropic outer disc inclination distribution for young dipper stars
+- **6× cited-seeds** | arXiv 1911.00611 | 2019 | The GRAVITY Young Stellar Object survey. I. Probing the disks of Herbig Ae/Be stars in terrestrial orbits
+- **6× cited-seeds** | arXiv 1803.05923 | 2018 | ALMA Survey of Lupus Protoplanetary Disks. II. Gas Disk Radii
+- **6× cited-seeds** | arXiv 1809.06941 | 2018 | A Deep Search for Planets in the Inner 15 au around Vega
+- **6× cited-seeds** | arXiv 1806.08802 | 2018 | Empty gaps? Depleting annular regions in debris discs by secular resonance with a two-planet system
+- **6× cited-seeds** | arXiv 1806.05491 | 2018 | Dynamical masses of M-dwarf binaries in young moving groups
+- **6× cited-seeds** | arXiv 1806.10148 | 2018 | Gas and multispecies dust dynamics in viscous protoplanetary discs: the importance of the dust back-reaction
+- **6× cited-seeds** | arXiv 1812.02741 | 2018 | Consistent Dust and Gas Models for Protoplanetary Disks. III. Models for Selected Objects from the FP7 DIANA Project
+- **6× cited-seeds** | arXiv 1810.06895 | 2018 | STIM map: detection map for exoplanets imaging beyond asymptotic Gaussian residual speckle noise
+- **6× cited-seeds** | arXiv 1805.04854 | 2018 | Astrometric and photometric accuracies in high contrast imaging: The SPHERE speckle calibration tool (SpeCal)
+- **6× cited-seeds** | arXiv 1809.08844 | 2018 | The Ophiuchus DIsc Survey Employing ALMA (ODISEA) – I: project description and continuum images at 28 au resolution
+- **6× cited-seeds** | arXiv — | 2018 | Formation and Evolution of Protoplanetary Disks: Observations and Modeling of Jets, Disks, and Disk Substructures
+- **6× cited-seeds** | arXiv 1807.09631 | 2018 | The Determination of Protoplanetary Disk Masses
+- **6× cited-seeds** | arXiv 1811.12036 | 2018 | The Flared Gas Structure of the Transitional Disk around Sz 91
+- **6× cited-seeds** | arXiv 1810.13148 | 2018 | A Spatially Resolved au-scale Inner Disk around DM Tau
+- **6× cited-seeds** | arXiv 1810.05614 | 2018 | Rings and Gaps in Protoplanetary Disks: Planets or Snowlines?
+- **6× cited-seeds** | arXiv 1810.05635 | 2018 | Impacts of Dust Feedback on a Dust Ring Induced by a Planet in a Protoplanetary Disk
+- **6× cited-seeds** | arXiv 1805.02476 | 2018 | Unlocking the secrets of the midplane gas and dust distribution in the young hybrid disc HD 141569
+- **6× cited-seeds** | arXiv 1706.03320 | 2017 | An ALMA Survey of CO Isotopologue Emission from Protoplanetary Disks in Chamaeleon I
+- **6× cited-seeds** | arXiv 1703.01512 | 2017 | Evolution of protoplanetary disks from their taxonomy in scattered light: Group I vs. Group II
+- **6× cited-seeds** | arXiv 1701.01735 | 2017 | An ALMA Survey of DCN/H13CN and DCO+/H13CO+ in Protoplanetary Disks
+- **6× cited-seeds** | arXiv 1703.01023 | 2017 | Project 1640 Observations of Brown Dwarf GJ 758 B: Near-infrared Spectrum and Atmospheric Modeling
+- **6× cited-seeds** | arXiv 1705.01336 | 2017 | Optical and Near-infrared Spectra of σ Orionis Isolated Planetary-mass Objects
+- **6× cited-seeds** | arXiv 1710.02532 | 2017 | Variable Dynamics in the Inner Disk of HD 135344B Revealed with Multi-epoch Scattered Light Imaging
+- **6× cited-seeds** | arXiv 1708.02834 | 2017 | Infrared Spectroscopy of HR 4796A's Bright Outer Cometary Ring + Tenuous Inner Hot Dust Cloud
+- **6× cited-seeds** | arXiv 1703.09348 | 2017 | A Herschel resolved debris disc around HD 105211
+- **6× cited-seeds** | arXiv 1703.09388 | 2017 | New constraints on the millimetre emission of six debris discs
+- **6× cited-seeds** | arXiv 1706.08977 | 2017 | A millimeter Continuum Size–Luminosity Relationship for Protoplanetary Disks
+- **6× cited-seeds** | arXiv 1704.04693 | 2017 | Using Ice and Dust Lines to Constrain the Surface Densities of Protoplanetary Disks
+- **6× cited-seeds** | arXiv 1709.09978 | 2017 | Detection and Characterization of Extrasolar Planets through Mean-motion Resonances. II. The Effect of the Planet’s Orbital Eccentricity on Debris Disk Structures
+- **6× cited-seeds** | arXiv 1705.09680 | 2017 | Exploring Dust around HD 142527 down to 0.″025 (4 au) Using SPHERE/ZIMPOL
+- **6× cited-seeds** | arXiv 1704.02006 | 2017 | A Multi-ringed, Modestly Inclined Protoplanetary Disk around AA Tau
+- **6× cited-seeds** | arXiv 1703.00582 | 2017 | Observing Exoplanets with High Dispersion Coronagraphy. I. The Scientific Potential of Current and Next-generation Large Ground and Space Telescopes
+- **6× cited-seeds** | arXiv 1707.01688 | 2017 | An 80 au cavity in the disk around HD 34282
+- **6× cited-seeds** | arXiv 1702.04780 | 2017 | Polarized Disk Emission from Herbig Ae/Be Stars Observed Using Gemini Planet Imager: HD 144432, HD 150193, HD 163296, and HD 169142
+- **6× cited-seeds** | arXiv 1705.09291 | 2017 | Optical Coronagraphic Spectroscopy of AU Mic: Evidence of Time Variable Colors?
+- **6× cited-seeds** | arXiv 1703.10653 | 2017 | Orbits for the Impatient: A Bayesian Rejection-sampling Method for Quickly Fitting the Orbits of Long-period Exoplanets
+- **6× cited-seeds** | arXiv 1709.00428 | 2017 | Millimeter Spectral Indices and Dust Trapping By Planets in Brown Dwarf Disks
+- **6× cited-seeds** | arXiv 1610.01173 | 2016 | HERSCHEL OBSERVATIONS AND UPDATED SPECTRAL ENERGY DISTRIBUTIONS OF FIVE SUNLIKE STARS WITH DEBRIS DISKS
+- **6× cited-seeds** | arXiv 1605.02771 | 2016 | THE PECULIAR DEBRIS DISK OF HD 111520 AS RESOLVED BY THE GEMINI PLANET IMAGER
+- **6× cited-seeds** | arXiv 1606.02701 | 2016 | Hα VARIABILITY IN PTFO 8-8695 AND THE POSSIBLE DIRECT DETECTION OF EMISSION FROM A 2 MILLION YEAR OLD EVAPORATING HOT JUPITER
+- **6× cited-seeds** | arXiv 1604.04773 | 2016 | DETECTING EXOMOONS AROUND SELF-LUMINOUS GIANT EXOPLANETS THROUGH POLARIZATION
+- **6× cited-seeds** | arXiv 1607.04708 | 2016 | SPIRAL STRUCTURE AND DIFFERENTIAL DUST SIZE DISTRIBUTION IN THE LkHα 330 DISK
+- **6× cited-seeds** | arXiv 1609.05894 | 2016 | HCO+ DETECTION OF DUST-DEPLETED GAS IN THE INNER HOLE OF THE LkCa 15 PRE-TRANSITIONAL DISK
+- **6× cited-seeds** | arXiv 1608.08642 | 2016 | RESOLVING THE PLANET-HOSTING INNER REGIONS OF THE LkCa 15 DISK
+- **6× cited-seeds** | arXiv 1601.06801 | 2016 | A ring-like concentration of mm-sized particles in Sz 91
+- **6× cited-seeds** | arXiv 1607.03520 | 2016 | PANCHROMATIC IMAGING OF A TRANSITIONAL DISK: THE DISK OF GM AUR IN OPTICAL AND FUV SCATTERED LIGHT
+- **6× cited-seeds** | arXiv 1605.05093 | 2016 | Volatile carbon locking and release in protoplanetary disks. A study of TW Hya and HD 100546
+- **6× cited-seeds** | arXiv 1605.00289 | 2016 | A GAP WITH A DEFICIT OF LARGE GRAINS IN THE PROTOPLANETARY DISK AROUND TW Hya
+- **6× cited-seeds** | arXiv 1602.02090 | 2016 | THE INNER STRUCTURE OF THE TW HYA DISK AS REVEALED IN SCATTERED LIGHT
+- **6× cited-seeds** | arXiv 1606.05828 | 2016 | CANDIDATE WATER VAPOR LINES TO LOCATE THE H2O SNOWLINE THROUGH HIGH-DISPERSION SPECTROSCOPIC OBSERVATIONS. I. THE CASE OF A T TAURI STAR
+- **6× cited-seeds** | arXiv 1601.07248 | 2016 | THE PDS 66 CIRCUMSTELLAR DISK AS SEEN IN POLARIZED LIGHT WITH THE GEMINI PLANET IMAGER
+- **6× cited-seeds** | arXiv — | 2016 | Gemini Planet Imager observational calibrations XI: pipeline improvements and enhanced calibrations after two years on sky
+- **6× cited-seeds** | arXiv 1509.03635 | 2015 | Triggered fragmentation in self-gravitating discs: forming fragments at small radii
+- **6× cited-seeds** | arXiv — | 2015 | Direct Imaging of Exoplanets Living an Exciting Life
+- **6× cited-seeds** | arXiv 1509.05689 | 2015 | DISCOVERY OF A LOW-MASS COMPANION AROUND HR 3549
+- **6× cited-seeds** | arXiv 1807.08799 | 2015 | WEIRD: Wide-orbit Exoplanet Search with InfraRed Direct Imaging
+- **6× cited-seeds** | arXiv 1508.00565 | 2015 | Searching for gas giant planets on Solar system scales – a NACO/APP L′-band survey of A- and F-type main-sequence stars
+- **6× cited-seeds** | arXiv 1507.01254 | 2015 | Constraints on the substellar companions in wide orbits around the Barnard's Star from CanariCam mid-infrared imaging
+- **6× cited-seeds** | arXiv 1506.03274 | 2015 | The structure of disks around intermediate-mass young stars from mid-infrared interferometry. Evidence for a population of group II disks with gaps
+- **6× cited-seeds** | arXiv 1505.01494 | 2015 | PLANETS AROUND LOW-MASS STARS (PALMS). V. AGE-DATING LOW-MASS COMPANIONS TO MEMBERS AND INTERLOPERS OF YOUNG MOVING GROUPS
+- **6× cited-seeds** | arXiv 1504.04876 | 2015 | Interpreting the photometry and spectroscopy of directly imaged planets: a new atmospheric model applied to β Pictoris b and SPHERE observations
+- **6× cited-seeds** | arXiv 1507.03596 | 2015 | OBSERVATIONAL SIGNATURES OF PLANETS IN PROTOPLANETARY DISKS: SPIRAL ARMS OBSERVED IN SCATTERED LIGHT IMAGING CAN BE INDUCED BY PLANETS
+- **6× cited-seeds** | arXiv 1512.05679 | 2015 | Multiwavelength analysis for interferometric (sub-)mm observations of protoplanetary disks - Radial constraints on the dust properties and the disk structure
+- **6× cited-seeds** | arXiv 1511.04822 | 2015 | PLANETARY SYSTEM FORMATION IN THE PROTOPLANETARY DISK AROUND HL TAURI
+- **6× cited-seeds** | arXiv 1501.03181 | 2015 | THE INNER DISK STRUCTURE, DISK–PLANET INTERACTIONS, AND TEMPORAL EVOLUTION IN THE β PICTORIS SYSTEM: A TWO-EPOCH HST/STIS CORONAGRAPHIC STUDY
+- **6× cited-seeds** | arXiv — | 2015 | Dust in protoplanetary disks: observations
+- **6× cited-seeds** | arXiv 1511.07149 | 2015 | Resolved gas cavities in transitional disks inferred from CO isotopologs with ALMA
+- **6× cited-seeds** | arXiv 1508.07483 | 2015 | DETECTION OF WATER VAPOR IN THE TERRESTRIAL PLANET FORMING REGION OF A TRANSITION DISK
+- **6× cited-seeds** | arXiv 1508.04443 | 2015 | Scattered light images of spiral arms in marginally gravitationally unstable discs with an embedded planet
+- **6× cited-seeds** | arXiv 1507.07925 | 2015 | The Effects of Self-Shadowing by a Puffed up Inner Rim in Scattered Light Images of Protoplanetary Disks
+- **6× cited-seeds** | arXiv 1409.1850 | 2014 | Astrometric follow-up observations of directly imaged sub-stellar companions to young stars and brown dwarfs
+- **6× cited-seeds** | arXiv 1407.2555 | 2014 | GPI PSF subtraction with TLOCI: the next evolution in exoplanet/disk high-contrast imaging
+- **6× cited-seeds** | arXiv 1410.5635 | 2014 | The VORTEX project: first results and perspectives
+- **6× cited-seeds** | arXiv 1407.2306 | 2014 | Gemini planet imager observational calibrations VI: photometric and spectroscopic calibration for the integral field spectrograph
+- **6× cited-seeds** | arXiv 1412.0384 | 2014 | Development of a subwavelength grating vortex coronagraph of topological charge 4 (SGVC4)
+- **6× cited-seeds** | arXiv 1412.5179 | 2014 | SEARCHING FOR PLANETS IN HOLEY DEBRIS DISKS WITH THE APODIZING PHASE PLATE
+- **6× cited-seeds** | arXiv 1410.1754 | 2014 | Performance of the VLT Planet Finder SPHERE I. Photometry and astrometry precision with IRDIS and IFS in laboratory
+- **6× cited-seeds** | arXiv 1409.7021 | 2014 | The Mass Budget of Planet Forming Discs: Isolating the Epoch of Planetesimal Formation
+- **6× cited-seeds** | arXiv 1408.4116 | 2014 | Do two-temperature debris discs have multiple belts?
+- **6× cited-seeds** | arXiv 1406.2708 | 2014 | Probing the presence of planets in transition discs' cavities via warps: the case of TW Hya
+- **6× cited-seeds** | arXiv 1405.2536 | 2014 | Very deep images of the innermost regions of the β Pictoris debris disc at L
+- **6× cited-seeds** | arXiv 1407.5493 | 2014 | SPIRAL PATTERNS IN PLANETESIMAL CIRCUMBINARY DISKS
+- **6× cited-seeds** | arXiv 1409.7415 | 2014 | CHARIS science: performance simulations for the Subaru Telescope's third-generation of exoplanet imaging instrumentation
+- **6× cited-seeds** | arXiv 1412.3560 | 2014 | SHALLOW CAVITIES IN MULTIPLE-PLANET SYSTEMS
+- **6× cited-seeds** | arXiv 1410.5963 | 2014 | Gas and dust structures in protoplanetary disks hosting multiple planets
+- **6× cited-seeds** | arXiv 1407.4579 | 2014 | DISK RADII AND GRAIN SIZES IN HERSCHEL-RESOLVED DEBRIS DISKS
+- **6× cited-seeds** | arXiv 1312.1650 | 2013 | DIRECT MEASUREMENT OF INTERSTELLAR EXTINCTION TOWARD YOUNG STARS USING ATOMIC HYDROGEN Lyα ABSORPTION
+- **6× cited-seeds** | arXiv 1309.2289 | 2013 | SMACK: A NEW ALGORITHM FOR MODELING COLLISIONS AND DYNAMICS OF PLANETESIMALS IN DEBRIS DISKS
+- **6× cited-seeds** | arXiv 1305.7230 | 2013 | MODELING THE HD 32297 DEBRIS DISK WITH FAR-INFRARED HERSCHEL DATA
+- **6× cited-seeds** | arXiv 1310.5048 | 2013 | EXTREME ORBITAL EVOLUTION FROM HIERARCHICAL SECULAR COUPLING OF TWO GIANT PLANETS
+- **6× cited-seeds** | arXiv 1303.4525 | 2013 | Direct-imaging discovery of a 12–14 Jupiter-mass object orbiting a young binary system of very low-mass stars
+- **6× cited-seeds** | arXiv 1312.5146 | 2013 | Can eccentric debris disks be long-lived?. A first numerical investigation and application to ζ 2 Reticuli
+- **6× cited-seeds** | arXiv — | 2013 | HERSCHEL-RESOLVED OUTER BELTS OF TWO-BELT DEBRIS DISKS AROUND A-TYPE STARS: HD 70313, HD 71722, HD 159492, AND F-TYPE: HD 104860
+- **6× cited-seeds** | arXiv 1310.4183 | 2013 | DIRECT IMAGING DETECTION OF METHANE IN THE ATMOSPHERE OF GJ 504 b
+- **6× cited-seeds** | arXiv 1308.6462 | 2013 | Multiple mean motion resonances in the HR 8799 planetary system
+- **6× cited-seeds** | arXiv 1306.3100 | 2013 | Direct Imaging Search for Extrasolar Planets in the Pleiades
+- **6× cited-seeds** | arXiv — | 2013 | HST Imaging of New Edge-on Circumstellar Disks in Nearby Star-forming Regions
+- **6× cited-seeds** | arXiv 1305.5262 | 2013 | THE MASS DEPENDENCE BETWEEN PROTOPLANETARY DISKS AND THEIR STELLAR HOSTS
+- **6× cited-seeds** | arXiv 1305.6313 | 2013 | GAPS IN PROTOPLANETARY DISKS AS SIGNATURES OF PLANETS. II. INCLINED DISKS
+- **6× cited-seeds** | arXiv 1312.6870 | 2013 | TWO-COMPONENT SECULAR GRAVITATIONAL INSTABILITY IN A PROTOPLANETARY DISK: A POSSIBLE MECHANISM FOR CREATING RING-LIKE STRUCTURES
+- **6× cited-seeds** | arXiv 1206.4048 | 2012 | The International Deep Planet Survey - I. The frequency of wide-orbit massive planets around A-stars
+- **6× cited-seeds** | arXiv 1202.2854 | 2012 | THE GEMINI NICI PLANET-FINDING CAMPAIGN: DISCOVERY OF A MULTIPLE SYSTEM ORBITING THE YOUNG A STAR HD 1160
+- **6× cited-seeds** | arXiv 1201.3921 | 2012 | Spectroscopy across the brown dwarf/planetary mass boundary I. Near-infrared JHK spectra ,
+- **6× cited-seeds** | arXiv — | 2012 | Preserving the photometric integrity of companions in high-contrast imaging observations using locally optimized combination of images
+- **6× cited-seeds** | arXiv 1208.0830 | 2012 | Scientific design of a high contrast integral field spectrograph for the Subaru Telescope
+- **6× cited-seeds** | arXiv 1203.0005 | 2012 | Dusty Planetary Systems
+- **6× cited-seeds** | arXiv 1202.0300 | 2012 | PRECISE INFRARED RADIAL VELOCITIES FROM KECK/NIRSPEC AND THE SEARCH FOR YOUNG PLANETS
+- **6× cited-seeds** | arXiv 1208.0679 | 2012 | LIKELY MEMBERS OF THE β PICTORIS AND AB DORADUS MOVING GROUPS IN THE NORTH
+- **6× cited-seeds** | arXiv 1203.1896 | 2012 | A RESOLVED MILLIMETER EMISSION BELT IN THE AU Mic DEBRIS DISK
+- **6× cited-seeds** | arXiv 1106.4528 | 2011 | SEARCHING FOR GAS GIANT PLANETS ON SOLAR SYSTEM SCALES: VLT NACO/APP OBSERVATIONS OF THE DEBRIS DISK HOST STARS HD172555 AND HD115892
+- **6× cited-seeds** | arXiv 1107.1239 | 2011 | The great escape: how exoplanets and smaller bodies desert dying stars
+- **6× cited-seeds** | arXiv 1111.4456 | 2011 | ORBITAL MOTION OF HR 8799 b, c, d USING HUBBLE SPACE TELESCOPE DATA FROM 1998: CONSTRAINTS ON INCLINATION, ECCENTRICITY, AND STABILITY
+- **6× cited-seeds** | arXiv 1106.0492 | 2011 | Probing the physical properties of directly imaged gas giant exoplanets through polarization
+- **6× cited-seeds** | arXiv 1009.5722 | 2010 | CLOUDS IN THE COLDEST BROWN DWARFS: FIRE SPECTROSCOPY OF ROSS 458C
+- **6× cited-seeds** | arXiv 1009.1872 | 2010 | THE SEARCH FOR PLANETARY MASS COMPANIONS TO FIELD BROWN DWARFS WITH HST/NICMOS
+- **6× cited-seeds** | arXiv 1004.0539 | 2010 | DISCOVERY OF A PLANETARY-MASS COMPANION TO A BROWN DWARF IN TAURUS
+- **6× cited-seeds** | arXiv 1006.3409 | 2010 | THE LYOT PROJECT DIRECT IMAGING SURVEY OF SUBSTELLAR COMPANIONS: STATISTICAL ANALYSIS AND INFORMATION FROM NONDETECTIONS
+- **6× cited-seeds** | arXiv 1107.1426 | 2010 | Sparse Aperture Masking at the VLT
+- **5× cited-seeds** | arXiv 2603.12861 | 2026 | exoALMA. XXI. The Morphology and Dynamics of Vertical Flows
+- **5× cited-seeds** | arXiv — | 2026 | The Orbital Architecture and Origins of the Young, Planetary-mass Companion Host System, ROXs 42B
+- **5× cited-seeds** | arXiv 2603.13081 | 2026 | exoALMA. XXIV. Formaldehyde Emission in Protoplanetary Disks of exoALMA Compared with Their Properties and Dynamical State
+- **5× cited-seeds** | arXiv — | 2026 | A Robust Launching Mechanism for Free- floating Planets from Host Stars with Close-in Planets
+- **5× cited-seeds** | arXiv 2605.27627 | 2026 | Reading between the Rings: Observed Dust Ring Properties as Probes of Planet Masses
+- **5× cited-seeds** | arXiv 2601.10631 | 2026 | Circumplanetary Disk Candidate in the Disk of HD 163296 Traced by Localized Emission from Simple Organics
+- **5× cited-seeds** | arXiv 2605.01012 | 2026 | Chemistry and Isotope Ratios of Substellar Atmospheres in the β Pictoris Young Moving Group and Vicinity
+- **5× cited-seeds** | arXiv 2602.01620 | 2026 | exoALMA. XIX. Confirmation of Non-thermal Line Broadening in the DM Tau Protoplanetary Disk
+- **5× cited-seeds** | arXiv 2605.11127 | 2026 | An Outer Giant Planet or Brown Dwarf in the 51 Pegasi System?
+- **5× cited-seeds** | arXiv 2503.17117 | 2025 | A New Statistical Model of Star Speckles for Learning to Detect and Characterize Exoplanets in Direct Imaging Observations
+- **5× cited-seeds** | arXiv 2512.11972 | 2025 | JWST/NIRSpec Detects Warm CO Emission in the Terrestrial-planet Zone of HD 131488
+- **5× cited-seeds** | arXiv 2505.24093 | 2025 | Very-wide-orbit planets from dynamical instabilities during the stellar birth cluster phase
+- **5× cited-seeds** | arXiv — | 2025 | Fluorescently excited CO emission in the 49 Ceti debris disk spatially resolved by JWST/NIRSpec
+- **5× cited-seeds** | arXiv 2512.09613 | 2025 | First Resolution of a Main-sequence G star’s Astrosphere Using Chandra
+- **5× cited-seeds** | arXiv 2507.11669 | 2025 | exoALMA. XVIII. Interpreting Large-scale Kinematic Structures as Moderate Warping
+- **5× cited-seeds** | arXiv 2504.18717 | 2025 | exoALMA. X. Channel Maps Reveal Complex 12CO Abundance Distributions and a Variety of Kinematic Structures with Evidence for Embedded Planets
+- **5× cited-seeds** | arXiv — | 2025 | NIRC2 Interferometric Imaging of the HD 34282 Transition Disk’s Small Grain Structure
+- **5× cited-seeds** | arXiv 2509.14539 | 2025 | Infall and Disk Processes – the Message from Meteorites
+- **5× cited-seeds** | arXiv 2506.10740 | 2025 | The ALMA Survey of Gas Evolution of PROtoplanetary Disks (AGE-PRO). VI. Comparison of Dust Evolution Models to AGE-PRO Observations
+- **5× cited-seeds** | arXiv 2505.07562 | 2025 | The JDISC Survey: Linking the Physics and Chemistry of Inner and Outer Protoplanetary Disk Zones
+- **5× cited-seeds** | arXiv 2509.13544 | 2025 | Characterizing the Time Variability of 2M1207 A + b with JWST NIRSpec/PRISM
+- **5× cited-seeds** | arXiv 2508.10402 | 2025 | Cosmic Cascades: How Disk Substructure Regulates the Flow of Water to Inner Planetary Systems
+- **5× cited-seeds** | arXiv — | 2025 | exoALMA. II. Data Calibration and Imaging Pipeline
+- **5× cited-seeds** | arXiv 2504.19434 | 2025 | exoALMA. XIV. Gas Surface Densities in the RX J1604.3−2130 A Disk from Pressure-broadened CO Line Wings
+- **5× cited-seeds** | arXiv — | 2025 | The Roman Microlensing Survey: Confirmation or Refutation of Gas Giant Exoplanet Formation Theories
+- **5× cited-seeds** | arXiv 2511.11818 | 2025 | The Transition from Giant Planets to Brown Dwarfs Beyond 1 au from the Stellar Metallicity Distribution
+- **5× cited-seeds** | arXiv 2504.20036 | 2025 | exoALMA. VI. Rotating under Pressure: Rotation Curves, Azimuthal Velocity Substructures, and Gas Pressure Variations
+- **5× cited-seeds** | arXiv 2405.08312 | 2024 | Rotation and Abundances of the Benchmark Brown Dwarf HD 33632 Ab from Keck/KPIC High-resolution Spectroscopy
+- **5× cited-seeds** | arXiv 2401.04763 | 2024 | Revisiting the Helium and Hydrogen Accretion Indicators at TWA 27B: Weak Mass Flow at Near-freefall Velocity
+- **5× cited-seeds** | arXiv 2402.12662 | 2024 | Turbulent Vortex with Moderate Dust Settling Probed by Scattering-induced Polarization in the IRS 48 System
+- **5× cited-seeds** | arXiv 2506.23795 | 2024 | Simulation of Images of Protoplanetary Disks after Collision with Free-Floating Planets
+- **5× cited-seeds** | arXiv 2405.04461 | 2024 | SPIRou spectropolarimetry of the T Tauri star TW Hydrae: magnetic fields, accretion, and planets
+- **5× cited-seeds** | arXiv 2410.12199 | 2024 | Visible-light High-contrast Imaging and Polarimetry with SCExAO/VAMPIRES
+- **5× cited-seeds** | arXiv 2411.18683 | 2024 | A giant planet transiting a 3-Myr protostar with a misaligned disk
+- **5× cited-seeds** | arXiv 2411.13044 | 2024 | Grain Size in the Class I Protostellar System TMC-1A Constrained with ALMA and Very Large Array Observations
+- **5× cited-seeds** | arXiv 2409.17228 | 2024 | Disk2Planet: A Robust and Automated Machine Learning Tool for Parameter Inference in Disk–Planet Systems
+- **5× cited-seeds** | arXiv 2407.17249 | 2024 | Early Planet Formation in Embedded Disks. XI. A High-resolution View Toward the BHR 71 Class 0 Protostellar Wide Binary
+- **5× cited-seeds** | arXiv 2405.13128 | 2024 | Are These Planets or Brown Dwarfs? Broadly Solar Compositions from High-resolution Atmospheric Retrievals of ∼10–30 M Jup Companions
+- **5× cited-seeds** | arXiv 2401.08722 | 2024 | Early Planet Formation in Embedded Disks (eDisk). XIV. Flared Dust Distribution and Viscous Accretion Heating of the Disk around R CrA IRS 7B-a
+- **5× cited-seeds** | arXiv 2407.13756 | 2024 | Challenge of direct imaging of exoplanets within structures: disentangling real signal from point source from background light
+- **5× cited-seeds** | arXiv — | 2024 | JWST-TST High Contrast: Achieving Direct Spectroscopy of Faint Substellar Companions Next to Bright Stars with the NIRSpec Integral Field Unit
+- **5× cited-seeds** | arXiv 2311.18117 | 2023 | Detecting Biosignatures in Nearby Rocky Exoplanets Using High-contrast Imaging and Medium-resolution Spectroscopy with the Extremely Large Telescope
+- **5× cited-seeds** | arXiv 2301.02486 | 2023 | Long-term Stability of Planetary Systems Formed from a Transitional Disk
+- **5× cited-seeds** | arXiv 2302.10085 | 2023 | Hiding Dust around ϵ Eridani
+- **5× cited-seeds** | arXiv 2308.16574 | 2023 | Constraints on the Dust Size Distributions in the HD 163296 Disk from the Difference of the Apparent Dust Ring Widths between Two ALMA Bands
+- **5× cited-seeds** | arXiv 2311.02195 | 2023 | A Primordial Origin for the Gas-rich Debris Disks around Intermediate-mass Stars
+- **5× cited-seeds** | arXiv 2309.04623 | 2023 | NMF-based GPU accelerated coronagraphy pipeline
+- **5× cited-seeds** | arXiv 2310.07134 | 2023 | The slicer combined with array of lenslets for exoplanet spectroscopy (SCALES): driving science cases and expected outcomes
+- **5× cited-seeds** | arXiv 2309.00443 | 2023 | Early Planet Formation in Embedded Disks (eDisk). IX. High-resolution ALMA Observations of the Class 0 Protostar R CrA IRS5N and Its Surroundings
+- **5× cited-seeds** | arXiv 2310.14617 | 2023 | Early Planet Formation in Embedded Disks (eDisk). XII. Accretion Streamers, Protoplanetary Disk, and Outflow in the Class I Source Oph IRS 63
+- **5× cited-seeds** | arXiv 2203.16735 | 2022 | Gas Disk Sizes from CO Line Observations: A Test of Angular Momentum Evolution
+- **5× cited-seeds** | arXiv 2209.06312 | 2022 | Probing Photon Statistics in Adaptive Optics Images with SCExAO/MEC
+- **5× cited-seeds** | arXiv — | 2022 | Exoplanet detection in angular differential imaging: combining a statistics-based learning with a deep-based learning for improved detections
+- **5× cited-seeds** | arXiv 2205.02729 | 2022 | Direct-imaging Discovery and Dynamical Mass of a Substellar Companion Orbiting an Accelerating Hyades Sun-like Star with SCExAO/CHARIS
+- **5× cited-seeds** | arXiv 2208.10721 | 2022 | Design of SCALES: a 2-5 micron coronagraphic integral field spectrograph for Keck Observatory
+- **5× cited-seeds** | arXiv 2211.07305 | 2022 | Resonant Excitation of Planetary Eccentricity due to a Dispersing Eccentric Protoplanetary Disk: A New Mechanism of Generating Large Planetary Eccentricities
+- **5× cited-seeds** | arXiv — | 2022 | GPI 2.0: upgrade status of the Gemini Planet Imager
+- **5× cited-seeds** | arXiv 2202.03438 | 2022 | Scanning Disk Rings and Winds in CO at 0.01–10 au: A High-resolution M-band Spectroscopy Survey with IRTF-iSHELL
+- **5× cited-seeds** | arXiv 2203.00692 | 2022 | Observing Planet-driven Dust Spirals with ALMA
+- **5× cited-seeds** | arXiv 2212.03207 | 2022 | Resolved near-UV hydrogen emission lines at 40-Myr super-Jovian protoplanet Delorme 1 (AB)b
+- **5× cited-seeds** | arXiv 2204.09074 | 2022 | Substructures in Protoplanetary Disks Imprinted by Compact Planetary Systems
+- **5× cited-seeds** | arXiv 2106.08249 | 2021 | GRAVITY K-band spectroscopy of HD 206893 B
+- **5× cited-seeds** | arXiv 2405.01993 | 2021 | Evolution of Planetary Chaotic Zones in Planetesimal Disks
+- **5× cited-seeds** | arXiv 2107.06949 | 2021 | Detection and Bulk Properties of the HR 8799 Planets with High-resolution Spectroscopy
+- **5× cited-seeds** | arXiv 2102.09577 | 2021 | The TW Hya Rosetta Stone Project IV: A Hydrocarbon-rich Disk Atmosphere
+- **5× cited-seeds** | arXiv 2101.08801 | 2021 | A Decade of Radial-velocity Monitoring of Vega and New Limits on the Presence of Planets
+- **5× cited-seeds** | arXiv 2106.10724 | 2021 | GIARPS High-resolution Observations of T Tauri stars (GHOsT)
+- **5× cited-seeds** | arXiv 2105.09773 | 2021 | Constraints on the nearby exoplanet ϵ Indi Ab from deep near- and mid-infrared imaging limits
+- **5× cited-seeds** | arXiv — | 2021 | The β
+Pictoris b Hill sphere transit campaign
+- **5× cited-seeds** | arXiv 2102.06338 | 2021 | Exploring HNC and HCN line emission as probes of the protoplanetary disk temperature
+- **5× cited-seeds** | arXiv 2101.11130 | 2021 | Constraints on planets in nearby young moving groups detectable by high-contrast imaging and Gaia astrometry
+- **5× cited-seeds** | arXiv 2102.02225 | 2021 | Water in star-forming regions: physics and chemistry from clouds to disks as probed by Herschel spectroscopy
+- **5× cited-seeds** | arXiv 2112.12804 | 2021 | Sensitivity of the Roman Coronagraph Instrument to Exozodiacal Dust
+- **5× cited-seeds** | arXiv — | 2021 | Observability of forming planets and their circumplanetary discs – III. Polarized scattered light in near-infrared
+- **5× cited-seeds** | arXiv 2106.13782 | 2021 | The formation of planetary systems with SPICA
+- **5× cited-seeds** | arXiv 2102.06209 | 2021 | Estimate on Dust Scale Height from the ALMA Dust Continuum Image of the HD 163296 Protoplanetary Disk
+- **5× cited-seeds** | arXiv 2102.05045 | 2021 | The Hawaii Infrared Parallax Program. V. New T-dwarf Members and Candidate Members of Nearby Young Moving Groups
+- **5× cited-seeds** | arXiv 2109.06930 | 2021 | Keck/OSIRIS Paβ High-contrast Imaging and Updated Constraints on PDS 70b
+- **5× cited-seeds** | arXiv 2107.07435 | 2021 | A Deep Search for Five Molecules in the 49 Ceti Debris Disk
+- **5× cited-seeds** | arXiv 2102.02874 | 2021 | Radiative Scale Height and Shadows in Protoplanetary Disks
+- **5× cited-seeds** | arXiv 2101.01728 | 2021 | How dust fragmentation may be beneficial to planetary growth by pebble accretion
+- **5× cited-seeds** | arXiv 2109.08889 | 2021 | Non-linear resonant torus oscillations as a model of Keplerian disc warp dynamics
+- **5× cited-seeds** | arXiv 2102.03007 | 2021 | Constraining protoplanetary disc accretion and young planets using ALMA kinematic observations
+- **5× cited-seeds** | arXiv 2102.11875 | 2021 | A Coplanar Circumbinary Protoplanetary Disk in the TWA 3 Triple M Dwarf System
+- **5× cited-seeds** | arXiv 2112.13859 | 2021 | No Significant Correlation between Line-emission and Continuum Substructures in the Molecules with ALMA at Planet-forming Scales Program
+- **5× cited-seeds** | arXiv 2109.06218 | 2021 | Molecules with ALMA at Planet-forming Scales (MAPS). XVIII. Kinematic Substructures in the Disks of HD 163296 and MWC 480
+- **5× cited-seeds** | arXiv 2103.16731 | 2021 | An Asymmetric Dust Ring around a Very Low Mass Star ZZ Tau IRS
+- **5× cited-seeds** | arXiv 2109.06217 | 2021 | Molecules with ALMA at Planet-forming Scales (MAPS). IV. Emission Surfaces and Vertical Distribution of Molecules
+- **5× cited-seeds** | arXiv 2109.06586 | 2021 | Molecules with ALMA at Planet-forming Scales (MAPS). XVI. Characterizing the Impact of the Molecular Wind on the Evolution of the HD 163296 System
+- **5× cited-seeds** | arXiv 2110.00858 | 2021 | Self-consistent Ring Model in Protoplanetary Disks: Temperature Dips and Substructure Formation
+- **5× cited-seeds** | arXiv 2109.02687 | 2021 | Linking Outer Disk Pebble Dynamics and Gaps to Inner Disk Water Enrichment
+- **5× cited-seeds** | arXiv 2104.13934 | 2021 | Hubble Space Telescope UV and Hα Measurements of the Accretion Excess Emission from the Young Giant Planet PDS 70 b
+- **5× cited-seeds** | arXiv 2007.07831 | 2020 | CS Cha B: A disc-obscured M-type star mimicking a polarised planetary companion
+- **5× cited-seeds** | arXiv 2006.11304 | 2020 | One of Everything: The Breakthrough Listen Exotica Catalog
+- **5× cited-seeds** | arXiv 2006.09394 | 2020 | Retrieving scattering clouds and disequilibrium chemistry in the atmosphere of HR 8799e
+- **5× cited-seeds** | arXiv 2005.13562 | 2020 | Enrichment of the HR 8799 planets by minor bodies and dust
+- **5× cited-seeds** | arXiv — | 2020 | Wind-driven halo in high-contrast images
+- **5× cited-seeds** | arXiv 2002.02203 | 2020 | On the vortex evolution in non-isothermal protoplanetary discs
+- **5× cited-seeds** | arXiv — | 2020 | Planet formation with all flavors of adaptive optics: VLT/MUSE’s laser tomography adaptive optics to directly image young accreting exoplanets
+- **5× cited-seeds** | arXiv 2009.03090 | 2020 | Migration jumps of planets in transition discs
+- **5× cited-seeds** | arXiv 2001.06376 | 2020 | The paradox of youth for ALMA planet candidates
+- **5× cited-seeds** | arXiv 2008.00751 | 2020 | AB Aur, a Rosetta stone for studies of planet formation
+- **5× cited-seeds** | arXiv 2005.10722 | 2020 | Binary-induced spiral arms inside the disc cavity of AB Aurigae
+- **5× cited-seeds** | arXiv 2012.05242 | 2020 | Spiral Arm Pattern Motion in the SAO 206462 Protoplanetary Disk
+- **5× cited-seeds** | arXiv 2011.12319 | 2020 | Chemically tracing the water snowline in protoplanetary disks with HCO+
+- **5× cited-seeds** | arXiv — | 2020 | A search for trends in spatially resolved debris discs at far-infrared wavelengths
+- **5× cited-seeds** | arXiv 2010.02248 | 2020 | The first ALMA survey of protoplanetary discs at 3 mm: demographics of grain growth in the Lupus region
+- **5× cited-seeds** | arXiv 2007.15967 | 2020 | Magnetohydrodynamics of protoplanetary discs
+- **5× cited-seeds** | arXiv 2001.02692 | 2020 | Channels for streaming instability in dusty discs
+- **5× cited-seeds** | arXiv 2010.03529 | 2020 | Astrochemistry and compositions of planetary systems
+- **5× cited-seeds** | arXiv 2004.12597 | 2020 | Herschel Observations of Disks around Late-type Stars
+- **5× cited-seeds** | arXiv 2012.04712 | 2020 | First Detection of Orbital Motion for HD 106906 b: A Wide-separation Exoplanet on a Planet Nine–like Orbit
+- **5× cited-seeds** | arXiv 2010.12657 | 2020 | ALMA survey of Lupus class III stars: Early planetesimal belt formation and rapid disc dispersal
+- **5× cited-seeds** | arXiv 2009.06438 | 2020 | Photoevaporation of Grain-depleted Protoplanetary Disks around Intermediate-mass Stars: Investigating the Possibility of Gas-rich Debris Disks as Protoplanetary Remnants
+- **5× cited-seeds** | arXiv 2008.07406 | 2020 | Solution to the debris disc mass problem: planetesimals are born small?
+- **5× cited-seeds** | arXiv — | 2020 | GPI 2.0: upgrading the Gemini Planet Imager
+- **5× cited-seeds** | arXiv 2011.13168 | 2020 | Polarimetric and radiative transfer modelling of HD 172555
+- **5× cited-seeds** | arXiv 2006.08595 | 2020 | The challenge of measuring the phase function of debris discs
+- **5× cited-seeds** | arXiv 2012.10444 | 2020 | The automated data extraction, processing, and tracking system for CHARIS
+- **5× cited-seeds** | arXiv — | 2020 | ALMA Observation of the Protoplanetary Disk Around HD 163296
+- **5× cited-seeds** | arXiv 2010.00606 | 2020 | The VLA/ALMA Nascent Disk and Multiplicity (VANDAM) Survey of Orion Protostars. III. Substructures in Protostellar Disks
+- **5× cited-seeds** | arXiv 2006.03077 | 2020 | Planet migration in self-gravitating discs: survival of planets
+- **5× cited-seeds** | arXiv 2002.05764 | 2020 | The origin of tail-like structures around protoplanetary disks
+- **5× cited-seeds** | arXiv 2001.07720 | 2020 | Nine Localized Deviations from Keplerian Rotation in the DSHARP Circumstellar Disks: Kinematic Evidence for Protoplanets Carving the Gaps
+- **5× cited-seeds** | arXiv 2012.02225 | 2020 | Size and structures of disks around very low mass stars in the Taurus star-forming region
+- **5× cited-seeds** | arXiv 2008.02564 | 2020 | Secular Gravitational Instability of Drifting Dust in Protoplanetary Disks: Formation of Dusty Rings without Significant Gas Substructures
+- **5× cited-seeds** | arXiv 2009.07575 | 2020 | Dust dynamics in planet-driven spirals
+- **5× cited-seeds** | arXiv 2012.05697 | 2020 | The asymmetric inner disk of the Herbig Ae star HD 163296 in the eyes of VLTI/MATISSE: evidence for a vortex?
+- **5× cited-seeds** | arXiv 2009.09962 | 2020 | Using HCO+ isotopologues as tracers of gas depletion in protoplanetary disk gaps
+- **5× cited-seeds** | arXiv 2012.14315 | 2020 | Tracing the Formation History of Giant Planets in Protoplanetary Disks with Carbon, Oxygen, Nitrogen, and Sulfur
+- **5× cited-seeds** | arXiv 1906.02860 | 2019 | CO Detected in CI Tau b: Hot Start Implied by Planet Mass and MK
+- **5× cited-seeds** | arXiv 1910.09377 | 2019 | Direct imaging of irregular satellite discs in scattered light
+- **5× cited-seeds** | arXiv 1911.12759 | 2019 | RefPlanets: Search for reflected light from extrasolar planets with SPHERE/ZIMPOL
+- **5× cited-seeds** | arXiv 1910.11169 | 2019 | VLT/SPHERE exploration of the young multiplanetary system PDS70
+- **5× cited-seeds** | arXiv — | 2019 | Detecting life outside our solar system with a large high-contrast-imaging mission
+- **5× cited-seeds** | arXiv 1906.03354 | 2019 | Stochastic Speckle Discrimination with Time-tagged Photon Lists: Digging below the Speckle Noise Floor
+- **5× cited-seeds** | arXiv 1906.01391 | 2019 | ISPY – NaCo Imaging Survey for Planets around Young stars
+- **5× cited-seeds** | arXiv 1903.06303 | 2019 | The Elusive Majority of Young Moving Groups. I. Young Binaries and Lithium-rich Stars in the Solar Neighborhood
+- **5× cited-seeds** | arXiv 1903.03114 | 2019 | Revealing signatures of planets migrating in protoplanetary discs with ALMA multiwavelength observations
+- **5× cited-seeds** | arXiv 1902.00085 | 2019 | Cloud Atlas: High-contrast Time-resolved Observations of Planetary-mass Companions
+- **5× cited-seeds** | arXiv 1904.05990 | 2019 | Tiny grains shining bright in the gaps of Herbig Ae transitional discs
+- **5× cited-seeds** | arXiv 1912.02565 | 2019 | A dusty benchmark brown dwarf near the ice line of HD 72946
+- **5× cited-seeds** | arXiv 1906.06953 | 2019 | Dust spreading in debris discs: do small grains cling on to their birth environment?
+- **5× cited-seeds** | arXiv 1902.04081 | 2019 | Kuiper Belt–like Hot and Cold Populations of Planetesimal Inclinations in the β Pictoris Belt Revealed by ALMA
+- **5× cited-seeds** | arXiv 1911.08991 | 2019 | Astrochemistry as a Tool To Follow Protostellar Evolution: The Class I Stage
+- **5× cited-seeds** | arXiv 2008.08008 | 2019 | On the cavity size in circumbinary discs
+- **5× cited-seeds** | arXiv 1908.02326 | 2019 | Pileups and Migration Rates for Planets in Low-mass Disks
+- **5× cited-seeds** | arXiv 1906.04816 | 2019 | Disentangling Planets from Photoelectric Instability in Gas-rich Optically Thin Dusty Disks
+- **5× cited-seeds** | arXiv 1909.09476 | 2019 | An Ideal Testbed for Planet–Disk Interaction: Two Giant Protoplanets in Resonance Shaping the PDS 70 Protoplanetary Disk
+- **5× cited-seeds** | arXiv 1907.10229 | 2019 | An Observational Study for Grain Dynamics in the AS 209 Disk with Submillimeter Polarization
+- **5× cited-seeds** | arXiv 1910.13142 | 2019 | Observability of dusty debris discs around M-stars
+- **5× cited-seeds** | arXiv 2004.10989 | 2019 | Super-resolution Imaging of the Protoplanetary Disk HD 142527 Using Sparse Modeling
+- **5× cited-seeds** | arXiv 1910.09809 | 2019 | Investigating the nature of the extended structure around the Herbig star RCrA using integral field and high-resolution spectroscopy
+- **5× cited-seeds** | arXiv 1904.07215 | 2019 | The Surprisingly Low Carbon Mass in the Debris Disk around HD 32297
+- **5× cited-seeds** | arXiv 1906.11491 | 2019 | Are the observed gaps in protoplanetary discs caused by growing planets?
+- **5× cited-seeds** | arXiv 1911.06005 | 2019 | Demographics of disks around young very low-mass stars and brown dwarfs in Lupus (Corrigendum)
+- **5× cited-seeds** | arXiv 1910.03130 | 2019 | On the Dust Signatures Induced by Eccentric Super-Earths in Protoplanetary Disks
+- **5× cited-seeds** | arXiv — | 2019 | Gas Density Perturbations Induced by One or More Forming Planets in the AS 209 Protoplanetary Disk as Seen with ALMA
+- **5× cited-seeds** | arXiv 1911.07120 | 2019 | Twisted debris: how differential secular perturbations shape debris disks
+- **5× cited-seeds** | arXiv 1808.05297 | 2018 | Characterizing the Performance of the NIRC2 Vortex Coronagraph at W. M. Keck Observatory
+- **5× cited-seeds** | arXiv 1808.10790 | 2018 | Molecule mapping of HR8799b using OSIRIS on Keck
+- **5× cited-seeds** | arXiv 1808.10510 | 2018 | Scaling Relations Associated with Millimeter Continuum Sizes in Protoplanetary Disks
+- **5× cited-seeds** | arXiv 1803.09264 | 2018 | Searching for Hα emitting sources around MWC 758 - SPHERE/ZIMPOL high-contrast imaging,
+- **5× cited-seeds** | arXiv 1803.02484 | 2018 | Circumbinary, not transitional: on the spiral arms, cavity, shadows, fast radial flows, streamers, and horseshoe in the HD 142527 disc
+- **5× cited-seeds** | arXiv 1806.10532 | 2018 | Feasibility of the debris ring transit method for the solar-like star HD 107146 by an occulted galaxy
+- **5× cited-seeds** | arXiv 1812.07814 | 2018 | SPHERE dynamical and spectroscopic characterization of HD 142527B
+- **5× cited-seeds** | arXiv 1811.03636 | 2018 | Super-Earths in the TW Hya disc
+- **5× cited-seeds** | arXiv 1803.10526 | 2018 | A Brief Overview of Planet Formation
+- **5× cited-seeds** | arXiv 1811.08441 | 2018 | Dusty spirals triggered by shadows in transition discs
+- **5× cited-seeds** | arXiv 1802.09451 | 2018 | Is the spiral morphology of the Elias 2-27 circumstellar disc due to gravitational instability?
+- **5× cited-seeds** | arXiv 1812.04536 | 2018 | The Disk Substructures at High Angular Resolution Project (DSHARP). IV. Characterizing Substructures and Interactions in Disks around Multiple Star Systems
+- **5× cited-seeds** | arXiv — | 2018 | Löcher, Ringe und Spiralen
+- **5× cited-seeds** | arXiv 1811.10621 | 2018 | Mapping of shadows cast on a protoplanetary disk by a close binary system
+- **5× cited-seeds** | arXiv 1806.01289 | 2018 | Scattering of exocomets by a planet chain: exozodi levels and the delivery of cometary material to inner planets
+- **5× cited-seeds** | arXiv 1807.07145 | 2018 | Upgrading the Gemini planet imager: GPI 2.0
+- **5× cited-seeds** | arXiv 1805.00960 | 2018 | Resolved millimeter-dust continuum cavity around the very low mass young star CIDA 1
+- **5× cited-seeds** | arXiv 1808.05693 | 2018 | Warping a protoplanetary disc with a planet on an inclined orbit
+- **5× cited-seeds** | arXiv 1808.01768 | 2018 | Temperature, Mass, and Turbulence: A Spatially Resolved Multiband Non-LTE Analysis of CS in TW Hya
+- **5× cited-seeds** | arXiv 1812.01262 | 2018 | Inclined massive planets in a protoplanetary disc: gap opening, disc breaking, and observational signatures
+- **5× cited-seeds** | arXiv 1705.06235 | 2017 | Different dust and gas radial extents in protoplanetary disks: consistent models of grain growth and CO emission
+- **5× cited-seeds** | arXiv 1709.07519 | 2017 | Combining angular differential imaging and accurate polarimetry with SPHERE/IRDIS to characterize young giant exoplanets
+- **5× cited-seeds** | arXiv 1701.07541 | 2017 | An ALMA and MagAO Study of the Substellar Companion GQ Lup B
+- **5× cited-seeds** | arXiv 1709.07006 | 2017 | Simulations of the Fomalhaut system within its local galactic environment
+- **5× cited-seeds** | arXiv 1705.07098 | 2017 | Exoplanet Biosignatures: Observational Prospects
+- **5× cited-seeds** | arXiv 1710.02201 | 2017 | Active Correction of Aperture Discontinuities-Optimized Stroke Minimization. II. Optimization for Future Missions
+- **5× cited-seeds** | arXiv 1709.02406 | 2017 | Active Correction of Aperture Discontinuities-Optimized Stroke Minimization. I. A New Adaptive Interaction Matrix Algorithm
+- **5× cited-seeds** | arXiv 1708.08223 | 2017 | PeX 1. Multispectral expansion of residual speckles for planet detection
+- **5× cited-seeds** | arXiv 1709.08334 | 2017 | Vortex stretching in self-gravitating protoplanetary discs
+- **5× cited-seeds** | arXiv 1707.01499 | 2017 | Physical properties of dusty protoplanetary disks in Lupus: evidence for viscous evolution?
+- **5× cited-seeds** | arXiv 1711.05185 | 2017 | ALMA continuum observations of the protoplanetary disk AS 209. Evidence of multiple gaps opened by a single planet
+- **5× cited-seeds** | arXiv 1711.03548 | 2017 | Interpreting Brightness Asymmetries in Transition Disks: Vortex at Dead Zone or Planet-carved Gap Edges?
+- **5× cited-seeds** | arXiv 1710.08426 | 2017 | Far-infrared to Millimeter Data of Protoplanetary Disks: Dust Growth in the Taurus, Ophiuchus, and Chamaeleon I Star-forming Regions
+- **5× cited-seeds** | arXiv 1704.00214 | 2017 | The dispersal of planet-forming discs: theory confronts observations
+- **5× cited-seeds** | arXiv 1703.03748 | 2017 | On the methanol emission detection in the TW Hya disc: the role of grain surface chemistry and non-LTE excitation
+- **5× cited-seeds** | arXiv 1703.02957 | 2017 | Imaging a Central Ionized Component, a Narrow Ring, and the CO Snowline in the Multigapped Disk of HD 169142
+- **5× cited-seeds** | arXiv 1706.02608 | 2017 | The Flying Saucer: Tomography of the thermal and density gas structure of an edge-on protoplanetary disk
+- **5× cited-seeds** | arXiv 1711.09933 | 2017 | A likely planet-induced gap in the disk around T Cha
+- **5× cited-seeds** | arXiv 1710.01304 | 2017 | Disk Accretion Driven by Spiral Shocks
+- **5× cited-seeds** | arXiv 1712.02378 | 2017 | Disk Masses for Embedded Class I Protostars in the Taurus Molecular Cloud
+- **5× cited-seeds** | arXiv 1711.06905 | 2017 | ALMA Observations of Elias 2–24: A Protoplanetary Disk with Multiple Gaps in the Ophiuchus Molecular Cloud
+- **5× cited-seeds** | arXiv — | 2017 | Characterizing the Evolution of Circumstellar Systems with the Hubble Space Telescope and the Gemini Planet Imager
+- **5× cited-seeds** | arXiv 1708.02384 | 2017 | 1000 au exterior arcs connected to the protoplanetary disk around HL Tauri
+- **5× cited-seeds** | arXiv 1710.06007 | 2017 | Radiation Hydrodynamical Turbulence in Protoplanetary Disks: Numerical Models and Observational Constraints
+- **5× cited-seeds** | arXiv 1704.06664 | 2017 | An opening criterion for dust gaps in protoplanetary discs
+- **5× cited-seeds** | arXiv 1709.00246 | 2017 | Dust-driven viscous ring-instability in protoplanetary disks
+- **5× cited-seeds** | arXiv 1609.06337 | 2016 | HYDROCARBON EMISSION RINGS IN PROTOPLANETARY DISKS INDUCED BY DUST EVOLUTION
+- **5× cited-seeds** | arXiv 1601.07542 | 2016 | Dust properties across the CO snowline in the HD 163296 disk from ALMA and VLA observations
+- **5× cited-seeds** | arXiv 1611.06229 | 2016 | ALMA MEASUREMENTS OF CIRCUMSTELLAR MATERIAL IN THE GQ LUP SYSTEM
+- **5× cited-seeds** | arXiv 1612.02443 | 2016 | Binaries among low-mass stars in nearby young moving groups
+- **5× cited-seeds** | arXiv 1604.07403 | 2016 | THE CORRELATION BETWEEN METALLICITY AND DEBRIS DISK MASS
+- **5× cited-seeds** | arXiv 1609.05638 | 2016 | Belt(s) of debris resolved around the Sco-Cen star HIP 67497
+- **5× cited-seeds** | arXiv 1608.08643 | 2016 | ON THE COMPOSITION OF YOUNG, DIRECTLY IMAGED GIANT PLANETS
+- **5× cited-seeds** | arXiv 1608.02597 | 2016 | L-BAND SPECTROSCOPY WITH MAGELLAN-AO/Clio2: FIRST RESULTS ON YOUNGLOW-MASS COMPANIONS
+- **5× cited-seeds** | arXiv 1607.06496 | 2016 | High contrast imaging of exoplanets on ELTs using a super-Nyquist wavefront control scheme
+- **5× cited-seeds** | arXiv 1601.01353 | 2016 | POINT SOURCE POLARIMETRY WITH THE GEMINI PLANET IMAGER: SENSITIVITY CHARACTERIZATION WITH T5.5 DWARF COMPANION HD 19467 B
+- **5× cited-seeds** | arXiv 1603.08930 | 2016 | PROBING PLANET FORMING ZONES WITH RARE CO ISOTOPOLOGUES
+- **5× cited-seeds** | arXiv 1612.07621 | 2016 | SPHERE/SHINE reveals concentric rings in the debris disk of HIP 73145
+- **5× cited-seeds** | arXiv 1604.08306 | 2016 | Far-infrared and sub-millimetre imaging of HD 76582's circumstellar disc
+- **5× cited-seeds** | arXiv 1603.03123 | 2016 | Light Scattering and Thermal Emission by Primitive Dust Particles in Planetary Systems
+- **5× cited-seeds** | arXiv 1610.03913 | 2016 | A RESOLVED NEAR-INFRARED IMAGE OF THE INNER CAVITY IN THE GM Aur TRANSITIONAL DISK
+- **5× cited-seeds** | arXiv 1609.08159 | 2016 | On the origin of horseshoes in transitional discs
+- **5× cited-seeds** | arXiv 1605.07780 | 2016 | Determining protoplanetary disk gas masses from CO isotopologues line observations
+- **5× cited-seeds** | arXiv 1604.05719 | 2016 | ALMA SURVEY OF LUPUS PROTOPLANETARY DISKS. I. DUST AND GAS MASSES
+- **5× cited-seeds** | arXiv 1607.06798 | 2016 | APOCENTER GLOW IN ECCENTRIC DEBRIS DISKS: IMPLICATIONS FOR FOMALHAUT AND ϵ ERIDANI
+- **5× cited-seeds** | arXiv 1610.07859 | 2016 | EXCESS C/O AND C/H IN OUTER PROTOPLANETARY DISK GAS
+- **5× cited-seeds** | arXiv 1609.09505 | 2016 | Scattered light mapping of protoplanetary disks
+- **5× cited-seeds** | arXiv 1510.02511 | 2015 | A narrow, edge-on disk resolved around HD 106906 with SPHERE
+- **5× cited-seeds** | arXiv 1501.05962 | 2015 | RESOLVED MILLIMETER EMISSION FROM THE HD 15115 DEBRIS DISK
+- **5× cited-seeds** | arXiv 1508.01593 | 2015 | The dynamical fate of planetary systems in young star clusters
+- **5× cited-seeds** | arXiv 1504.05644 | 2015 | ON THE NATURE OF THE TERTIARY COMPANION TO FW TAU: ALMA CO OBSERVATIONS AND SED MODELING
+- **5× cited-seeds** | arXiv 1512.03596 | 2015 | Orbital fitting of imaged planetary companions with high eccentricities and unbound orbits. Their application to Fomalhaut b and PZ Telecopii B
+- **5× cited-seeds** | arXiv 1505.01747 | 2015 | BANYAN. VI. DISCOVERY OF A COMPANION AT THE BROWN DWARF/PLANET-MASS LIMIT TO A TUCANA–HOROLOGIUM M DWARF
+- **5× cited-seeds** | arXiv 1511.07456 | 2015 | Accreting protoplanets in the LkCa 15 transition disk
+- **5× cited-seeds** | arXiv 1509.02741 | 2015 | Fingerprints of giant planets in the photospheres of Herbig stars
+- **5× cited-seeds** | arXiv 1508.01196 | 2015 | THE MIGRATION OF GAS GIANT PLANETS IN GRAVITATIONALLY UNSTABLE DISKS
+- **5× cited-seeds** | arXiv 1505.07832 | 2015 | THE DIRECT DETECTABILITY OF GIANT EXOPLANETS IN THE OPTICAL
+- **5× cited-seeds** | arXiv 1505.00806 | 2015 | DISCOVERY OF A YOUNG PLANETARY MASS COMPANION TO THE NEARBY M DWARF VHS J125601.92-125723.9
+- **5× cited-seeds** | arXiv 1503.05209 | 2015 | The properties of discs around planets and brown dwarfs as evidence for disc fragmentation
+- **5× cited-seeds** | arXiv 1501.01631 | 2015 | Capture and evolution of dust in planetary mean-motion resonances: a fast, semi-analytic method for generating resonantly trapped disc images
+- **5× cited-seeds** | arXiv 1509.07520 | 2015 | GRAIN GROWTH IN THE CIRCUMSTELLAR DISKS OF THE YOUNG STARS CY Tau AND DoAr 25
+- **5× cited-seeds** | arXiv 1604.01037 | 2015 | ORBITAL STABILITY OF MULTI-PLANET SYSTEMS: BEHAVIOR AT HIGH MASSES
+- **5× cited-seeds** | arXiv 1506.07187 | 2015 | A SMACK MODEL OF COLLIDING PLANETESIMALS IN THE β PICTORIS DEBRIS DISK
+- **5× cited-seeds** | arXiv 1506.05428 | 2015 | SPITZER IRS SPECTRA OF DEBRIS DISKS IN THE SCORPIUS–CENTAURUS OB ASSOCIATION
+- **5× cited-seeds** | arXiv 1505.03858 | 2015 | DISCOVERY OF SEVEN COMPANIONS TO INTERMEDIATE-MASS STARS WITH EXTREME MASS RATIOS IN THE SCORPIUS–CENTAURUS ASSOCIATION
+- **5× cited-seeds** | arXiv 1509.02172 | 2015 | THE EVOLUTION OF INNER DISK GAS IN TRANSITION DISKS
+- **5× cited-seeds** | arXiv 1502.02662 | 2015 | One-armed spirals in locally isothermal, radially structured self-gravitating discs
+- **5× cited-seeds** | arXiv 1509.03040 | 2015 | Testing particle trapping in transition disks with ALMA
+- **5× cited-seeds** | arXiv 1503.04821 | 2015 | GAS INSIDE THE 97 AU CAVITY AROUND THE TRANSITION DISK Sz 91
+- **5× cited-seeds** | arXiv 1508.01003 | 2015 | A CONCENTRATION OF CENTIMETER-SIZED GRAINS IN THE OPHIUCHUS IRS 48 DUST TRAP
+- **5× cited-seeds** | arXiv 1506.04564 | 2015 | Collisional modelling of the AU Microscopii debris disc
+- **5× cited-seeds** | arXiv 1510.03766 | 2015 | DISCOVERY OF MOLECULAR GAS AROUND HD 131835 IN AN APEX MOLECULAR LINE SURVEY OF BRIGHT DEBRIS DISKS
+- **5× cited-seeds** | arXiv 1406.7387 | 2014 | Shadows and cavities in protoplanetary disks: HD 163296, HD 141569A, and HD 150193A in polarized light
+- **5× cited-seeds** | arXiv 1406.7298 | 2014 | A NEW SUB-STELLAR COMPANION AROUND THE YOUNG STAR HD 284149
+- **5× cited-seeds** | arXiv 1404.7853 | 2014 | Doppler Imaging of Exoplanets and Brown Dwarfs
+- **5× cited-seeds** | arXiv 1410.2816 | 2014 | THE FATE OF SCATTERED PLANETS
+- **5× cited-seeds** | arXiv — | 2014 | High-contrast planet imager for Kyoto 4m segmented telescope
+- **5× cited-seeds** | arXiv — | 2014 | Direct imaging of exoplanets
+- **5× cited-seeds** | arXiv — | 2014 | THE SPITZER INFRARED SPECTROGRAPH DEBRIS DISK CATALOG. I. CONTINUUM ANALYSIS OF UNRESOLVED TARGETS
+- **5× cited-seeds** | arXiv — | 2014 | Occulter-based high-contrast exoplanet imaging: Design, scaling, and performance verification
+- **5× cited-seeds** | arXiv 1407.2849 | 2014 | Search for free-floating planetary-mass objects in the Pleiades
+- **5× cited-seeds** | arXiv 1405.3284 | 2014 | PynPoint code for exoplanet imaging
+- **5× cited-seeds** | arXiv 1401.6545 | 2014 | ACCRETION ONTO PLANETARY MASS COMPANIONS OF LOW-MASS YOUNG STARS
+- **5× cited-seeds** | arXiv 1407.7547 | 2014 | PROBING THE TERRESTRIAL REGIONS OF PLANETARY SYSTEMS: WARM DEBRIS DISKS WITH EMISSION FEATURES
+- **5× cited-seeds** | arXiv 1412.3412 | 2014 | Spiral arms in scattered light images of protoplanetary discs: are they the signposts of planets?
+- **5× cited-seeds** | arXiv 1410.2093 | 2014 | Protoplanetary disk masses from CO isotopologue line emission
+- **5× cited-seeds** | arXiv 1407.4959 | 2014 | GW Orionis: Inner disk readjustments in a triple system
+- **5× cited-seeds** | arXiv 1405.7379 | 2014 | LONG-TERM EVOLUTION OF PLANET-INDUCED VORTICES IN PROTOPLANETARY DISKS
+- **5× cited-seeds** | arXiv 1406.7294 | 2014 | Dynamical evolution of an eccentric planet and a less massive debris disc
+- **5× cited-seeds** | arXiv — | 2013 | An Observational Study of the Temperature and Surface Density Structures of a Typical Full Disk around MWC480
+- **5× cited-seeds** | arXiv 1307.2243 | 2013 | A MULTIPLICITY CENSUS OF INTERMEDIATE-MASS STARS IN SCORPIUS–CENTAURUS
+- **5× cited-seeds** | arXiv 1411.7031 | 2013 | SUB-STELLAR COMPANIONS AND STELLAR MULTIPLICITY IN THE TAURUS STAR-FORMING REGION
+- **5× cited-seeds** | arXiv 1307.0506 | 2013 | A PAN-STARRS + UKIDSS SEARCH FOR YOUNG, WIDE PLANETARY-MASS COMPANIONS IN UPPER SCORPIUS
+- **5× cited-seeds** | arXiv 1311.7141 | 2013 | The VAST Survey - III. The multiplicity of A-type stars within 75 pc
+- **5× cited-seeds** | arXiv 1309.1466 | 2013 | Star–planet–debris disc alignment in the HD 82943 system: is planetary system coplanarity actually the norm?
+- **5× cited-seeds** | arXiv 1307.5849 | 2013 | THE TRENDS HIGH-CONTRAST IMAGING SURVEY. IV. THE OCCURRENCE RATE OF GIANT PLANETS AROUND M DWARFS
+- **5× cited-seeds** | arXiv 1307.3560 | 2013 | RESOLVING THE MOTH AT MILLIMETER WAVELENGTHS
+- **5× cited-seeds** | arXiv 1304.5505 | 2013 | Planets around stars in young nearby associations - Radial velocity searches: a feasibility study and first results
+- **5× cited-seeds** | arXiv 1311.2085 | 2013 | DIRECTLY IMAGED L-T TRANSITION EXOPLANETS IN THE MID-INFRARED,
+- **5× cited-seeds** | arXiv — | 2013 | The Story of Planets: Anchoring Numerics in Reality
+- **5× cited-seeds** | arXiv 1211.4776 | 2012 | A sensitive survey for 13CO, CN, H2CO, and SO in the disks of T Tauri and Herbig Ae stars
+- **5× cited-seeds** | arXiv 1207.6637 | 2012 | PYNPOINT: An image processing package for finding exoplanets
+- **5× cited-seeds** | arXiv — | 2012 | Discarded candidate companions to low-mass members of Chamaeleon I
+- **5× cited-seeds** | arXiv 1210.6745 | 2012 | FOMALHAUT b: INDEPENDENT ANALYSIS OF THE HUBBLE SPACE TELESCOPE PUBLIC ARCHIVE DATA
+- **5× cited-seeds** | arXiv 1210.2471 | 2012 | Exoplanet Detection Methods
+- **5× cited-seeds** | arXiv — | 2012 | Test results for the Gemini Planet Imager data reduction pipeline
+- **5× cited-seeds** | arXiv 1203.2826 | 2012 | Atmospheric characterization of cold exoplanets using a 1.5-m coronagraphic space telescope
+- **5× cited-seeds** | arXiv 1203.0507 | 2012 | SPICES: spectro-polarimetric imaging and characterization of exoplanetary systems
+- **5× cited-seeds** | arXiv — | 2012 | SPICES: spectro-polarimetric imaging and characterization of exoplanetary systems
+- **5× cited-seeds** | arXiv 1202.2578 | 2012 | The position of β Pictoris b position relative to the debris disk
+- **5× cited-seeds** | arXiv 1202.2579 | 2012 | Constraints on planets around β Pic with Harps radial velocity data
+- **5× cited-seeds** | arXiv — | 2012 | Modelling the huge, Herschel-resolved debris ring around HD 207129
+- **5× cited-seeds** | arXiv 1210.0556 | 2012 | THE CHARA ARRAY ANGULAR DIAMETER OF HR 8799 FAVORS PLANETARY MASSES FOR ITS IMAGED COMPANIONS
+- **5× cited-seeds** | arXiv 1206.0483 | 2012 | DIRECT DETECTION AND ORBITAL ANALYSIS OF THE EXOPLANETS HR 8799 bcd FROM ARCHIVAL 2005 KECK/NIRC2 DATA
+- **5× cited-seeds** | arXiv 1205.6488 | 2012 | MASSES, RADII, AND CLOUD PROPERTIES OF THE HR 8799 PLANETS
+- **5× cited-seeds** | arXiv 1207.2056 | 2012 | THE DYNAMICALLY DISRUPTED GAP IN HD 142527
+- **5× cited-seeds** | arXiv 1208.1285 | 2012 | KINEMATICS OF THE CO GAS IN THE INNER REGIONS OF THE TW Hya DISK
+- **5× cited-seeds** | arXiv 1111.5617 | 2011 | HOW DO MOST PLANETS FORM?—CONSTRAINTS ON DISK INSTABILITY FROM DIRECT IMAGING
+- **5× cited-seeds** | arXiv 1105.2577 | 2011 | HIGH-CONTRAST IMAGING SEARCH FOR PLANETS AND BROWN DWARFS AROUND THE MOST MASSIVE STARS IN THE SOLAR NEIGHBORHOOD
+- **5× cited-seeds** | arXiv 1112.3008 | 2011 | High-resolution imaging of young M-type stars of the solar neighbourhood: probing for companions down to the mass of Jupiter
+- **5× cited-seeds** | arXiv 1109.6007 | 2011 | The effects of dynamical interactions on planets in young substructured star clusters
+- **5× cited-seeds** | arXiv 1112.1765 | 2011 | Adaptive Optics Observations of Exoplanets, Brown Dwarfs, and Binary Stars
+- **5× cited-seeds** | arXiv 1106.4824 | 2011 | TRANSITIONAL DISKS AS SIGNPOSTS OF YOUNG, MULTIPLANET SYSTEMS
+- **5× cited-seeds** | arXiv 1106.4817 | 2011 | Spatially resolved submillimeter imaging of the HR 8799 debris disk
+- **5× cited-seeds** | arXiv 1106.0487 | 2011 | Rapid inward migration of planets formed by gravitational instability
+- **5× cited-seeds** | arXiv 1105.4607 | 2011 | A 5 μm IMAGE OF β PICTORIS b AT A SUB-JUPITER PROJECTED SEPARATION: EVIDENCE FOR A MISALIGNMENT BETWEEN THE PLANET AND THE INNER, WARPED DISK
+- **5× cited-seeds** | arXiv 1103.4910 | 2011 | ESTIMATES OF THE PLANET YIELD FROM GROUND-BASED HIGH-CONTRAST IMAGING OBSERVATIONS AS A FUNCTION OF STELLAR MASS
+- **5× cited-seeds** | arXiv 1107.3153 | 2011 | RESOLVED SUBMILLIMETER OBSERVATIONS OF THE HR 8799 AND HD 107146 DEBRIS DISKS
+- **5× cited-seeds** | arXiv 1011.3747 | 2010 | A SUBMILLIMETER MAPPING SURVEY OF HERBIG AeBe STARS
+- **5× cited-seeds** | arXiv 1010.4734 | 2010 | Near-infrared imaging survey of faint companions around young dwarfs in the Pleiades cluster
+- **5× cited-seeds** | arXiv — | 2010 | Direct imaging and spectroscopy of planets and brown dwarfs in wide orbits†
+- **5× cited-seeds** | arXiv 1009.0538 | 2010 | FIRST RESULTS FROM VERY LARGE TELESCOPE NACO APODIZING PHASE PLATE: 4 μm IMAGES OF THE EXOPLANET β PICTORIS b
+- **5× cited-seeds** | arXiv 1008.3900 | 2010 | The Gemini NICI Planet-Finding Campaign
+- **5× cited-seeds** | arXiv 1004.4825 | 2010 | Photometric characterization of exoplanets using angular and spectral differential imaging
+- **5× cited-seeds** | arXiv 1007.2169 | 2010 | Detectability of giant planets in protoplanetary disks by CO emission lines
+- **5× cited-seeds** | arXiv 1011.1437 | 2010 | Asymmetric heating of the HR 4796A dust ring due to pericenter glow
+- **5× cited-seeds** | arXiv 1002.1074 | 2010 | DISCOVERY AND CHARACTERIZATION OF A FAINT STELLAR COMPANION TO THE A3V STAR ζ VIRGINIS
+- **4× cited-seeds** | arXiv 2601.06342 | 2026 | Incorporating wavefront error, wavefront sensing and control, and sensitivities into exposure time calculations for future space missions with the error budget software
+- **4× cited-seeds** | arXiv 2601.11732 | 2026 | The ALMA survey to Resolve exoKuiper belt Substructures (ARKS)
+- **4× cited-seeds** | arXiv — | 2026 | The ALMA survey to Resolve exoKuiper belt Substructures (ARKS)
+- **4× cited-seeds** | arXiv 2603.00250 | 2026 | 12CO Rovibrational Spectroscopy of AB Aurigae—A Potential Point Source Is Present
+- **4× cited-seeds** | arXiv 2604.17779 | 2026 | Exploring Polarized Millimeter Emission from Protoplanetary Disks with Irregular Dust Grains
+- **4× cited-seeds** | arXiv 2605.26512 | 2026 | An SMA Molecular Inventory of the Edge-on Protoplanetary Disk Gomez’s Hamburger
+- **4× cited-seeds** | arXiv 2604.07703 | 2026 | A Search for Wide-orbit Planets around M Dwarfs Using Deep MIRI 15 μm Images
+- **4× cited-seeds** | arXiv — | 2025 | Bioverse: Giant Magellan Telescope and Extremely Large Telescope Direct Imaging and High-resolution Spectroscopy Assessment—Surveying Exo-Earth O2 and Testing the Habitable Zone Oxygen Hypothesis
+- **4× cited-seeds** | arXiv 2512.00160 | 2025 | First Astrometric Limits on Binary Planets and Exomoons Orbiting β Pictoris b
+- **4× cited-seeds** | arXiv 2512.03159 | 2025 | A Catalogue of Interstellar Material Delivery from Nearby Debris Disks
+- **4× cited-seeds** | arXiv 2504.05095 | 2025 | Dust Growth in ALMA Rings. II. Dusty Rossby Wave Instability
+- **4× cited-seeds** | arXiv 2503.16605 | 2025 | A Multiline Analysis of the Distribution and Excitation of CS and H2CS in the HD 163296 Disk
+- **4× cited-seeds** | arXiv — | 2025 | The discovery of exoplanets: towards understanding planet formation
+- **4× cited-seeds** | arXiv — | 2025 | Laplace conjecture about the formation of the solar system
+- **4× cited-seeds** | arXiv — | 2025 | exoALMA. XIII. Gas Masses from N2H+ and C18O: A Comparison of Measurement Techniques for Protoplanetary Gas Disk Masses
+- **4× cited-seeds** | arXiv 2503.13811 | 2025 | Gravitational Instability in Protoplanetary Disk with Cooling: 2D Global Analysis
+- **4× cited-seeds** | arXiv 2505.06044 | 2025 | Shadow-based Framework for Estimating Transition Disk Geometries
+- **4× cited-seeds** | arXiv 2509.24976 | 2025 | JWST/MIRI Imaging of the Warm Dust Component of the ϵ Eridani Debris Disk
+- **4× cited-seeds** | arXiv 2504.05439 | 2025 | A Multiwavelength Study of the Dynamic Environment Surrounding the FUor V960 Mon
+- **4× cited-seeds** | arXiv 2503.13818 | 2025 | Multiwavelength Constraints on Dust Dynamics and Size Evolution in Protoplanetary Disk Rings. I. Method
+- **4× cited-seeds** | arXiv — | 2025 | Edge-On Disk Study (EODS)
+- **4× cited-seeds** | arXiv 2510.07428 | 2025 | Enhanced Pebble Drift across Planet-opened Gaps in Windy Protoplanetary Disks
+- **4× cited-seeds** | arXiv 2509.15487 | 2025 | DiskMINT: Self-consistent Thermochemical Disk Models with Radially Varying Gas and Dust—Application to the Massive, CO-Rich Disk of IM Lup
+- **4× cited-seeds** | arXiv 2506.16569 | 2025 | Early Planet Formation in Embedded Disks (eDisk). XVII. A Compact but Structured Keplerian Disk and Large-scale Streamers Revealed in the Class I Protostellar System IRAS 04169+2702
+- **4× cited-seeds** | arXiv 2512.08610 | 2025 | The two-dimensional structure of circumplanetary disks and their radiative signatures
+- **4× cited-seeds** | arXiv 2509.20621 | 2025 | Constraints on the Orbit of the Young Substellar Companion GQ Lup B from High-resolution Spectroscopy and VLTI/GRAVITY Astrometry
+- **4× cited-seeds** | arXiv 2510.19915 | 2025 | Radiation Hydrodynamics of Self-gravitating Protoplanetary Disks. I. Direct Formation of Gas Giants via Disk Fragmentation
+- **4× cited-seeds** | arXiv 2509.13513 | 2025 | Astrometric Methods for Detecting Exomoons Orbiting Imaged Exoplanets: Prospects for Detecting Moons Orbiting a Giant Planet in α Centauri A’s Habitable Zone
+- **4× cited-seeds** | arXiv 2504.13130 | 2025 | General Analytic Solutions for Circumplanetary Disks during the Late Stages of Giant Planet Formation
+- **4× cited-seeds** | arXiv — | 2024 | Direct Exoplanet Detection using Convolutional Image Reconstruction (ConStruct): A New Algorithm for Post-processing High-contrast Images
+- **4× cited-seeds** | arXiv — | 2024 | Exoplanet detection techniques for direct imaging dark zone maintenance datasets
+- **4× cited-seeds** | arXiv — | 2024 | Dual-band, Multi-aperture Polarization Measurements of β Pictoris
+- **4× cited-seeds** | arXiv 2409.10679 | 2024 | SPORES-HWO. II. Companion Mass Limits and Updated Planet Properties for 120 Future Exoplanet Imaging Targets from 35 yr of Precise Doppler Monitoring
+- **4× cited-seeds** | arXiv 2412.11507 | 2024 | Vortex-induced Rings and Gaps within Protoplanetary Disks
+- **4× cited-seeds** | arXiv — | 2024 | The Impact of Ambipolar Diffusion on the Rossby Wave Instability in a Protoplanetary Disk
+- **4× cited-seeds** | arXiv 2403.14143 | 2024 | Early Planet Formation in Embedded Disks (eDisk). XIII. Aligned Disks with Nonsettled Dust around the Newly Resolved Class 0 Protobinary R CrA IRAS 32
+- **4× cited-seeds** | arXiv 2411.17114 | 2024 | Secret of Longevity: Protoplanetary Disks as a Source of Gas in Debris Disks
+- **4× cited-seeds** | arXiv — | 2024 | Probing Disk Ice Content and Polycyclic Aromatic Hydrocarbon Emission through Multiband MagAO+Clio Images of HD 141569
+- **4× cited-seeds** | arXiv — | 2024 | Initial Entropy and Potential Delayed Formation of the Directly Imaged Exoplanet AF Lep b
+- **4× cited-seeds** | arXiv 2402.09533 | 2024 | Atmospheric Retrievals of the Young Giant Planet ROXs 42B b from Low- and High-resolution Spectroscopy
+- **4× cited-seeds** | arXiv 2412.05099 | 2024 | C/O ratios in self-gravitating protoplanetary discs with dust evolution
+- **4× cited-seeds** | arXiv 2406.07427 | 2024 | Support for fragile porous dust in a gravitationally self-regulated disk around IM Lup
+- **4× cited-seeds** | arXiv — | 2024 | Observability of Substructures in the Planet-forming Disk in the (Sub)centimeter Wavelength with SKA and ngVLA
+- **4× cited-seeds** | arXiv 2403.13045 | 2024 | Sites of Planet Formation in Binary Systems. I. Evidence for Disk−Orbit Alignment in the Close Binary FO Tau
+- **4× cited-seeds** | arXiv 2405.19574 | 2024 | On Kinematic Measurements of Self-gravity in Protoplanetary Disks
+- **4× cited-seeds** | arXiv — | 2024 | MODELIROVANIE IZOBRAZhENIY PROTOPLANETNYKh DISKOV POSLE STOLKNOVENIYa SO SVOBODNYMI PLANETAMI
+- **4× cited-seeds** | arXiv 2502.14038 | 2024 | Three Years of High-contrast Imaging of the PDS 70 b and c Exoplanets at Hα with MagAO-X: Evidence of Strong Protoplanet Hα Variability and Circumplanetary Dust
+- **4× cited-seeds** | arXiv 2412.04681 | 2024 | Water Enrichment from Pebble Drift in Disks with Gap-forming Planets
+- **4× cited-seeds** | arXiv 2411.15117 | 2024 | PDS 70b Shows Stellar-like Carbon-to-oxygen Ratio
+- **4× cited-seeds** | arXiv 2407.08832 | 2024 | Searching for Protoplanets around MWC 758 and MWC 480 in Br-γ Using Kernel Phase and SCExAO/CHARIS
+- **4× cited-seeds** | arXiv 2406.19843 | 2024 | First JVLA Radio Observation on PDS 70
+- **4× cited-seeds** | arXiv 2406.19438 | 2024 | Shoulder of Dust Rings Formed by Planet–Disk Interactions
+- **4× cited-seeds** | arXiv 2404.02247 | 2024 | A Recipe for Eccentricity and Inclination Damping for Partial-gap Opening Planets in 3D Disks
+- **4× cited-seeds** | arXiv 2402.01432 | 2024 | The 3D structure of disc-instability protoplanets
+- **4× cited-seeds** | arXiv 2412.12715 | 2024 | MINDS. JWST-MIRI reveals a peculiar CO2-rich chemistry in the drift-dominated disk CX Tau
+- **4× cited-seeds** | arXiv 2409.03831 | 2024 | Retrieval of Thermally Resolved Water Vapor Distributions in Disks Observed with JWST-MIRI
+- **4× cited-seeds** | arXiv — | 2024 | DECaPS and SMA Discovery of a Highly Inclined Class I Young Stellar Object with an Outflow: IRAS 08235–4316
+- **4× cited-seeds** | arXiv 2408.15976 | 2024 | VLT/MUSE Detection of Accretion/Ejection Associated with the Close Stellar Companion in the HT Lup System
+- **4× cited-seeds** | arXiv 2402.00860 | 2024 | JWST-MIRI Spectroscopy of Warm Molecular Emission and Variability in the AS 209 Disk
+- **4× cited-seeds** | arXiv 2407.15922 | 2024 | Analyzing JWST/NIRSpec Hydrogen Line Detections at TWA 27B: Constraining Accretion Properties and Geometry
+- **4× cited-seeds** | arXiv 2410.14896 | 2024 | Circumplanetary Disks are Rare Around Planets at Large Orbital Radii: A Parameter Survey of Flow Morphology Around Giant Planets
+- **4× cited-seeds** | arXiv 2303.08927 | 2023 | Azimuthal C/O variations in a planet-forming disk
+- **4× cited-seeds** | arXiv 2304.05692 | 2023 | A 7 Day Multiwavelength Flare Campaign on AU Mic. I. High-time-resolution Light Curves and the Thermal Empirical Neupert Effect
+- **4× cited-seeds** | arXiv 2309.02044 | 2023 | FALCO simulations of high-contrast polarimetry with the Nancy Grace Roman Space Telescope coronagraph instrument
+- **4× cited-seeds** | arXiv 2310.00088 | 2023 | Early Accretion of Large Amounts of Solids for Directly Imaged Exoplanets
+- **4× cited-seeds** | arXiv 2305.18603 | 2023 | JWST/NIRSpec Observations of the Planetary Mass Companion TWA 27B
+- **4× cited-seeds** | arXiv 2310.00089 | 2023 | Spectral Retrieval with JWST Photometric data: a Case Study for HIP 65426 b
+- **4× cited-seeds** | arXiv 2309.08665 | 2023 | Prospects from TESS and Gaia to Constrain the Flatness of Planetary Systems
+- **4× cited-seeds** | arXiv — | 2023 | A Magnetically Driven Disk Wind in the Inner Disk of PDS 70
+- **4× cited-seeds** | arXiv 2305.02408 | 2023 | Three-dimensional Orbit of AC Her Determined: Binary-induced Truncation Cannot Explain the Large Cavity in This Post-AGB Transition Disk
+- **4× cited-seeds** | arXiv 2309.04403 | 2023 | VLTI/GRAVITY Observations and Characterization of the Brown Dwarf Companion HD 72946 B
+- **4× cited-seeds** | arXiv 2309.06514 | 2023 | Vortex fiber nulling for exoplanet observations: implementation and first light
+- **4× cited-seeds** | arXiv 2205.09133 | 2022 | Disks in Nearby Young Stellar Associations Found Via Virtual Reality
+- **4× cited-seeds** | arXiv 2209.11346 | 2022 | An Early Catalog of Planet-hosting Multiple-star Systems of Order Three and Higher
+- **4× cited-seeds** | arXiv 2212.04557 | 2022 | Assessing the C/O Ratio Formation Diagnostic: A Potential Trend with Companion Mass
+- **4× cited-seeds** | arXiv 2210.02464 | 2022 | Roaring Storms in the Planetary-mass Companion VHS 1256-1257 b: Hubble Space Telescope Multiepoch Monitoring Reveals Vigorous Evolution in an Ultracool Atmosphere
+- **4× cited-seeds** | arXiv 2209.05664 | 2022 | Simulating the performance of aperture mask designs for SCALES
+- **4× cited-seeds** | arXiv — | 2022 | Multi-star System Observations Based on the Direct-imaging Method
+- **4× cited-seeds** | arXiv 2205.01103 | 2022 | The Directly Imaged Exoplanet Host Star 51 Eridani is a Gamma Doradus Pulsator
+- **4× cited-seeds** | arXiv 2205.09138 | 2022 | Trends in Silicates in the β Pictoris Disk
+- **4× cited-seeds** | arXiv 2201.08868 | 2022 | Detection of Near-infrared Water Ice at the Surface of the (Pre)Transitional Disk of AB Aur: Informing Icy Grain Abundance, Composition, and Size
+- **4× cited-seeds** | arXiv 2207.05277 | 2022 | Multiwavelength Vertical Structure in the AU Mic Debris Disk: Characterizing the Collisional Cascade
+- **4× cited-seeds** | arXiv 2207.05106 | 2022 | No Self-shadowing Instability in 2D Radiation Hydrodynamical Models of Irradiated Protoplanetary Disks
+- **4× cited-seeds** | arXiv 2202.00376 | 2022 | ALMA High-resolution Multiband Analysis for the Protoplanetary Disk around TW Hya
+- **4× cited-seeds** | arXiv — | 2022 | Scattered Radiation of Protoplanetary Disks
+- **4× cited-seeds** | arXiv 2206.14685 | 2022 | Chemical Diversity in Protoplanetary Disks and Its Impact on the Formation History of Giant Planets
+- **4× cited-seeds** | arXiv 2208.01657 | 2022 | A Clear View of a Cloudy Brown Dwarf Companion from High-resolution Spectroscopy
+- **4× cited-seeds** | arXiv 2208.09230 | 2022 | Millimeter gap contrast as a probe for turbulence level in protoplanetary disks
+- **4× cited-seeds** | arXiv 2212.03608 | 2022 | A recipe for orbital eccentricity damping in the type-I regime for low-viscosity 2D discs
+- **4× cited-seeds** | arXiv 2209.05535 | 2022 | ALMA Detection of Dust Trapping around Lagrangian Points in the LkCa 15 Disk
+- **4× cited-seeds** | arXiv 2202.08348 | 2022 | Investigating the Future Potential of an Upgraded ALMA to Image Planet-forming Disks at Sub-astronomical-unit Scales
+- **4× cited-seeds** | arXiv 2201.08974 | 2022 | Magnetic Spirals in Accretion Flows Originated from Misaligned Magnetic Fields
+- **4× cited-seeds** | arXiv — | 2022 | Status of the Automated Data Extraction, Processing, and Tracking System (ADEPTS) for CHARIS/SCExAO
+- **4× cited-seeds** | arXiv 2206.00202 | 2022 | A massive Keplerian protostellar disk with flyby-induced spirals in the Central Molecular Zone
+- **4× cited-seeds** | arXiv 2208.04959 | 2022 | High spectral-resolution interferometry down to one micron with Asgard/BIFROST at VLTI: science drivers and project overview
+- **4× cited-seeds** | arXiv 2205.09606 | 2022 | AU Microscopii in the Far-UV: Observations in Quiescence, during Flares, and Implications for AU Mic b and c
+- **4× cited-seeds** | arXiv 2109.06202 | 2021 | Molecules with ALMA at Planet-forming Scales (MAPS). XVII. Determining the 2D Thermal Structure of the HD 163296 Disk
+- **4× cited-seeds** | arXiv 2111.03087 | 2021 | A Mid-infrared Study of Directly Imaged Planetary-mass Companions Using Archival Spitzer/IRAC Images
+- **4× cited-seeds** | arXiv 2112.04678 | 2021 | A Wide Planetary Mass Companion Discovered through the Citizen Science Project Backyard Worlds: Planet 9
+- **4× cited-seeds** | arXiv 2105.12820 | 2021 | The First Dynamical Mass Measurement in the HR 8799 System
+- **4× cited-seeds** | arXiv 2102.03480 | 2021 | Aerosols in Exoplanet Atmospheres
+- **4× cited-seeds** | arXiv 2105.10610 | 2021 | Subaru Telescope —History, active/adaptive optics, instruments, and scientific achievements—
+- **4× cited-seeds** | arXiv 2107.07850 | 2021 | Investigating point sources in MWC 758 with SPHERE
+- **4× cited-seeds** | arXiv 2101.08369 | 2021 | The Chemical Inventory of the Planet-hosting Disk PDS 70
+- **4× cited-seeds** | arXiv 2108.06345 | 2021 | Cooling-induced Vortex Decay in Keplerian Disks
+- **4× cited-seeds** | arXiv 2108.00907 | 2021 | The Substructures in Disks Undergoing Vertical Shear Instability. II. Observational Predictions for the Dust Continuum
+- **4× cited-seeds** | arXiv 2104.02782 | 2021 | Which planets trigger longer lived vortices: low-mass or high-mass?
+- **4× cited-seeds** | arXiv 2103.13474 | 2021 | Vortex-like kinematic signal, spirals, and beam smearing effect in the HD 142527 disk
+- **4× cited-seeds** | arXiv 2102.02216 | 2021 | Ring Formation in Protoplanetary Disks Driven by an Eccentric Instability
+- **4× cited-seeds** | arXiv 2105.00976 | 2021 | High Spatial Resolution Observations of Molecular Lines toward the Protoplanetary Disk around TW Hya with ALMA
+- **4× cited-seeds** | arXiv — | 2021 | Protoplanetary Disk
+- **4× cited-seeds** | arXiv 2104.03769 | 2021 | Observational signatures of eccentric Jupiters inside gas cavities in protoplanetary discs
+- **4× cited-seeds** | arXiv 2109.03924 | 2021 | Flares, Rotation, and Planets of the AU Mic System from TESS Observations
+- **4× cited-seeds** | arXiv 2105.06042 | 2021 | Thresholds for Particle Clumping by the Streaming Instability
+- **4× cited-seeds** | arXiv 2104.07821 | 2021 | Investigating the Relative Gas and Small Dust Grain Surface Heights in Protoplanetary Disks
+- **4× cited-seeds** | arXiv 2110.06227 | 2021 | Warping Away Gravitational Instabilities in Protoplanetary Discs
+- **4× cited-seeds** | arXiv 2107.11188 | 2021 | Probing Protoplanetary Disk Winds with C ii Absorption
+- **4× cited-seeds** | arXiv 2103.02666 | 2021 | The Anatomy of an Unusual Edge-on Protoplanetary Disk. II. Gas Temperature and a Warm Outer Region
+- **4× cited-seeds** | arXiv 2111.12099 | 2021 | Accreting protoplanets: Spectral signatures and magnitude of gas and dust extinction at H α
+- **4× cited-seeds** | arXiv 2111.06367 | 2021 | A New Planet Candidate Detected in a Dust Gap of the Disk around HD 163296 through Localized Kinematic Signatures: An Observational Validation of the discminer
+- **4× cited-seeds** | arXiv 2109.09776 | 2021 | GW Ori: circumtriple rings and planets
+- **4× cited-seeds** | arXiv 2109.06419 | 2021 | Molecules with ALMA at Planet-forming Scales (MAPS). XIII. HCO+ and Disk Ionization Structure
+- **4× cited-seeds** | arXiv 2109.06462 | 2021 | Molecules with ALMA at Planet-forming Scales (MAPS). X. Studying Deuteration at High Angular Resolution toward Protoplanetary Disks
+- **4× cited-seeds** | arXiv 2109.06223 | 2021 | Molecules with ALMA at Planet-forming Scales (MAPS). XV. Tracing Protoplanetary Disk Structure within 20 au
+- **4× cited-seeds** | arXiv 2004.12176 | 2020 | Measuring Turbulent Motion in Planet-forming Disks with ALMA: A Detection around DM Tau and Nondetections around MWC 480 and V4046 Sgr
+- **4× cited-seeds** | arXiv 2001.11015 | 2020 | Increasing the census of ultracool dwarfs in wide binary and multiple systems using Dark Energy Survey DR1 and Gaia DR2 data
+- **4× cited-seeds** | arXiv 2004.08736 | 2020 | New HST data and modeling reveal a massive planetesimal collision around Fomalhaut
+- **4× cited-seeds** | arXiv 2008.07920 | 2020 | Kernel nullers for an arbitrary number of apertures
+- **4× cited-seeds** | arXiv 2004.07250 | 2020 | 2MASS J04435686+3723033 B: A Young Companion at the Substellar Boundary with Potential Membership in the β Pictoris Moving Group
+- **4× cited-seeds** | arXiv 2004.05168 | 2020 | Spectral Variability of VHS J1256–1257b from 1 to 5 μm
+- **4× cited-seeds** | arXiv 2002.05756 | 2020 | Planet Formation: Key Mechanisms and Global Models
+- **4× cited-seeds** | arXiv — | 2020 | Protoplanetary Disk Structure
+- **4× cited-seeds** | arXiv — | 2020 | Protoplanetary Disk Evolution
+- **4× cited-seeds** | arXiv 2011.12311 | 2020 | TRAP: a temporal systematics model for improved direct detection of exoplanets at small angular separations
+- **4× cited-seeds** | arXiv 2006.05965 | 2020 | Variability of the Great Disk Shadow in Serpens
+- **4× cited-seeds** | arXiv 2005.06932 | 2020 | The Inner Disk of RY Tau: Evidence of Stellar Occultation by the Disk Atmosphere at the Sublimation Rim from K-band Continuum Interferometry
+- **4× cited-seeds** | arXiv 2012.06790 | 2020 | DiskFM: A forward modeling tool for disk analysis with coronagraphic instruments
+- **4× cited-seeds** | arXiv 2010.07315 | 2020 | As the Worlds Turn: Constraining Spin Evolution in the Planetary-mass Regime
+- **4× cited-seeds** | arXiv 2008.02392 | 2020 | The discovery of lambda Bootis stars - the Southern Survey II
+- **4× cited-seeds** | arXiv 2001.01759 | 2020 | A Rotation Rate for the Planetary-mass Companion DH Tau b
+- **4× cited-seeds** | arXiv — | 2020 | Images of Exoplanets
+- **4× cited-seeds** | arXiv 2010.15135 | 2020 | A Case of Simultaneous Star and Planet Formation
+- **4× cited-seeds** | arXiv 2009.10738 | 2020 | The evolution of large cavities and disc eccentricity in circumbinary discs
+- **4× cited-seeds** | arXiv 2012.09098 | 2020 | Update on the preliminary design of SCALES: the Santa Cruz Array of Lenslets for Exoplanet Spectroscopy
+- **4× cited-seeds** | arXiv 2007.08215 | 2020 | Dynamical signatures of Rossby vortices in cavity-hosting disks
+- **4× cited-seeds** | arXiv 2003.02298 | 2020 | Importance of radiative effects in gap opening by planets in protoplanetary disks
+- **4× cited-seeds** | arXiv 2010.02928 | 2020 | High-contrast Thermal Infrared Spectroscopy with ALES: The 3–4 μm Spectrum of κ Andromedae b
+- **4× cited-seeds** | arXiv 2009.08959 | 2020 | Moderate-resolution K-band Spectroscopy of Substellar Companion κ Andromedae b
+- **4× cited-seeds** | arXiv 2011.13357 | 2020 | Investigating the young AU Mic system with SPIRou: large-scale stellar magnetic field and close-in planet mass
+- **4× cited-seeds** | arXiv 2001.09776 | 2020 | ALMA reveals a large structured disk and nested rotating outflows in DG Tauri B
+- **4× cited-seeds** | arXiv 2011.13229 | 2020 | Rapid CO gas dispersal from NO Lup’s class III circumstellar disc
+- **4× cited-seeds** | arXiv 2006.10784 | 2020 | Spin–Orbit Alignment of the β Pictoris Planetary System
+- **4× cited-seeds** | arXiv 2003.02061 | 2020 | A three-dimensional view of Gomez’s hamburger
+- **4× cited-seeds** | arXiv 2003.01781 | 2020 | Formation of the polar debris disc around 99 Herculis
+- **4× cited-seeds** | arXiv 2011.04683 | 2020 | Hiding Signatures of Gravitational Instability in Protoplanetary Disks with Planets
+- **4× cited-seeds** | arXiv 2011.02305 | 2020 | ALMA chemical survey of disk-outflow sources in Taurus (ALMA-DOT)
+- **4× cited-seeds** | arXiv 2011.01081 | 2020 | ALMA chemical survey of disk-outflow sources in Taurus (ALMA-DOT)
+- **4× cited-seeds** | arXiv 2009.07636 | 2020 | Influences of protoplanet-induced three-dimensional gas flow on pebble accretion
+- **4× cited-seeds** | arXiv 2007.06659 | 2020 | Formation of planetary populations – III. Core composition and atmospheric evaporation
+- **4× cited-seeds** | arXiv 2006.12584 | 2020 | An Evolutionary Study of Volatile Chemistry in Protoplanetary Disks
+- **4× cited-seeds** | arXiv 2005.02179 | 2020 | Increasing the raw contrast of VLT/SPHERE with the dark hole technique
+- **4× cited-seeds** | arXiv 2009.09444 | 2020 | The composition of hot Jupiter atmospheres assembled within chemically evolved protoplanetary discs
+- **4× cited-seeds** | arXiv 2007.09155 | 2020 | Exocomets from a Solar System Perspective
+- **4× cited-seeds** | arXiv 2008.01977 | 2020 | GIARPS High-resolution Observations of T Tauri stars (GHOsT)
+- **4× cited-seeds** | arXiv 2009.10504 | 2020 | Spirals, shadows, and precession in HD 100453 – I. The orbit of the binary
+- **4× cited-seeds** | arXiv 2007.06155 | 2020 | Are the spiral arms in the MWC 758 protoplanetary disc driven by a companion inside the cavity?
+- **4× cited-seeds** | arXiv 2002.02280 | 2020 | Intermittent planet migration and the formation of multiple dust rings and gaps in protoplanetary discs
+- **4× cited-seeds** | arXiv — | 2020 | A triple-star system with a misaligned and warped circumstellar disk shaped by disk tearing
+- **4× cited-seeds** | arXiv 2008.08627 | 2020 | Inferring (sub)millimetre dust opacities and temperature structure in edge-on protostellar discs from resolved multiwavelength continuum observations: the case of the HH 212 disc
+- **4× cited-seeds** | arXiv 2001.11045 | 2020 | Hints on the origins of particle traps in protoplanetary disks given by the Mdust – M⋆ relation
+- **4× cited-seeds** | arXiv 2005.09730 | 2020 | Hints of a Population of Solar System Analog Planets from ALMA
+- **4× cited-seeds** | arXiv 1909.04730 | 2019 | A Search for Spatially Resolved Infrared Rovibrational Molecular Hydrogen Emission from the Disks of Young Stars
+- **4× cited-seeds** | arXiv 1912.04150 | 2019 | USco1621 B and USco1556 B: Two wide companions at the deuterium-burning mass limit in Upper Scorpius
+- **4× cited-seeds** | arXiv 1904.06155 | 2019 | Pushing the Limits of Exoplanet Discovery via Direct Imaging with Deep Learning
+- **4× cited-seeds** | arXiv 1911.04814 | 2019 | New constraints on the HR 8799 planetary system from mid-infrared direct imaging
+- **4× cited-seeds** | arXiv 1909.05878 | 2019 | The likelihood of detecting young giant planets with high-contrast imaging and interferometry
+- **4× cited-seeds** | arXiv — | 2019 | Evidence for an additional planet in the β Pictoris system
+- **4× cited-seeds** | arXiv 1907.10640 | 2019 | Sculpting Eccentric Debris Disks with Eccentric Gas Rings
+- **4× cited-seeds** | arXiv 1903.08283 | 2019 | Protoplanetary Disk Masses from Radiative Transfer Modeling: A Case Study in Taurus
+- **4× cited-seeds** | arXiv 1909.05015 | 2019 | From grains to pebbles: the influence of size distribution and chemical composition on dust emission properties
+- **4× cited-seeds** | arXiv — | 2019 | The Radial Distribution of Dust Particles in the HL Tau Disk from ALMA and VLA Observations
+- **4× cited-seeds** | arXiv 1911.04600 | 2019 | WISE 2150-7520AB: A Very Low-mass, Wide Comoving Brown Dwarf System Discovered through the Citizen Science Project Backyard Worlds: Planet 9
+- **4× cited-seeds** | arXiv 1907.04800 | 2019 | A statistically significant lack of debris discs in medium separation binary systems
+- **4× cited-seeds** | arXiv 1908.10647 | 2019 | HST spectra reveal accretion in MY Lupi
+- **4× cited-seeds** | arXiv 1903.06537 | 2019 | Dust traps in the protoplanetary disc MWC 758: two vortices produced by two giant planets?
+- **4× cited-seeds** | arXiv 1902.10183 | 2019 | The Effect of Dust Composition and Shape on Radiation-pressure Forces and Blowout Sizes of Particles in Debris Disks
+- **4× cited-seeds** | arXiv 1906.06308 | 2019 | Detection of Continuum Submillimeter Emission Associated with Candidate Protoplanets
+- **4× cited-seeds** | arXiv 1904.02127 | 2019 | One Solution to the Mass Budget Problem for Planet Formation: Optically Thick Disks with Dust Scattering
+- **4× cited-seeds** | arXiv 1910.00161 | 2019 | Signatures of an eccentric disc cavity: Dust and gas in IRS 48
+- **4× cited-seeds** | arXiv 1909.06745 | 2019 | Investigating the gas-to-dust ratio in the protoplanetary disk of HD 142527
+- **4× cited-seeds** | arXiv 1905.11907 | 2019 | Dusty disk winds at the sublimation rim of the highly inclined, low mass young stellar object SU Aurigae
+- **4× cited-seeds** | arXiv 1901.04342 | 2019 | The potential of combining MATISSE and ALMA observations: constraining the structure of the innermost region in protoplanetary discs
+- **4× cited-seeds** | arXiv 1905.11156 | 2019 | Constraints on HD 113337 fundamental parameters and planetary system
+- **4× cited-seeds** | arXiv 1902.01869 | 2019 | Exploring the formation by core accretion and the luminosity evolution of directly imaged planets
+- **4× cited-seeds** | arXiv 1908.07032 | 2019 | First Subarcsecond Submillimeter-wave [C i] Image of 49 Ceti with ALMA
+- **4× cited-seeds** | arXiv 1903.04393 | 2019 | A multi-scale exploration of a massive young stellar object
+- **4× cited-seeds** | arXiv 1911.01428 | 2019 | Planet–Disk Interaction in Disks with Cooling: Basic Theory
+- **4× cited-seeds** | arXiv 1912.12328 | 2019 | Catastrophic Events in Protoplanetary Disks and Their Observational Manifestations
+- **4× cited-seeds** | arXiv 1901.07332 | 2019 | Carbonaceous nano-dust emission in proto-planetary discs: the aliphatic-aromatic components
+- **4× cited-seeds** | arXiv 1905.12899 | 2019 | Revised Description of Dust Diffusion and a New Instability Creating Multiple Rings in Protoplanetary Disks
+- **4× cited-seeds** | arXiv 1907.11241 | 2019 | Calibration of quasi-static aberrations in exoplanet direct-imaging instruments with a Zernike phase-mask sensor
+- **4× cited-seeds** | arXiv 1906.06548 | 2019 | Substructures in the Keplerian disc around the O-type (proto-)star G17.64+0.16 (Corrigendum)
+- **4× cited-seeds** | arXiv 1906.06338 | 2019 | Termination of Inward Migration for a Gap-opening Planet through Dust Feedback
+- **4× cited-seeds** | arXiv 1801.03478 | 2018 | Empirical Temperature Measurement in Protoplanetary Disks
+- **4× cited-seeds** | arXiv 1805.02939 | 2018 | VLTI/MIDI atlas of disks around low- and intermediate-mass young stellar objects
+- **4× cited-seeds** | arXiv 1811.04889 | 2018 | Polarization of stars with debris discs: comparing observations with models
+- **4× cited-seeds** | arXiv 1809.09674 | 2018 | The Habitable Exoplanet Observatory (HabEx) Mission Concept Study Interim Report
+- **4× cited-seeds** | arXiv 1809.05490 | 2018 | Improving Orbit Estimates for Incomplete Orbits with a New Approach to Priors: with Applications from Black Holes to Planets
+- **4× cited-seeds** | arXiv — | 2018 | Making good use of JWST's coronagraphs: tools and strategies from a user's perspective
+- **4× cited-seeds** | arXiv — | 2018 | Exoplanet detection in angular and spectral differential imaging: local learning of background correlations for improved detections
+- **4× cited-seeds** | arXiv 1806.10618 | 2018 | Bringing high-spectral resolution to VLT/SPHERE with a fiber coupling to VLT/CRIRES+
+- **4× cited-seeds** | arXiv 1806.04792 | 2018 | Characterization of low-mass companion HD 142527 B
+- **4× cited-seeds** | arXiv 1808.09472 | 2018 | Diverse Protoplanetary Disk Morphology Produced by a Jupiter-mass Planet
+- **4× cited-seeds** | arXiv 1809.09746 | 2018 | A Transitional Disk around an Intermediate-mass Star in the Sparse Population of the Orion OB1 Association
+- **4× cited-seeds** | arXiv 1808.01920 | 2018 | Multiple Rings in the Transitional Disk of GM Aurigae Revealed by VLA and ALMA
+- **4× cited-seeds** | arXiv 1806.09649 | 2018 | Evidence for the start of planet formation in a young circumstellar disk
+- **4× cited-seeds** | arXiv 1805.03221 | 2018 | V1094 Scorpii: A rare giant multi-ringed disk around a T Tauri star
+- **4× cited-seeds** | arXiv 1901.07390 | 2018 | Simulations of the Dynamics of the Debris Disks in the Systems Kepler-16, Kepler-34, and Kepler-35
+- **4× cited-seeds** | arXiv 1902.00168 | 2018 | The Synthetic ALMA Multiband Analysis of the Dust Properties of the TW Hya Protoplanetary Disk
+- **4× cited-seeds** | arXiv 1803.03842 | 2018 | Turbulence in the TW Hya Disk
+- **4× cited-seeds** | arXiv 1812.00961 | 2018 | Flybys in protoplanetary discs: I. Gas and dust dynamics
+- **4× cited-seeds** | arXiv 1806.11567 | 2018 | Orbital and atmospheric characterization of the planet within the gap of the PDS 70 transition disk
+- **4× cited-seeds** | arXiv 1804.00529 | 2018 | Differences in the Gas and Dust Distribution in the Transitional Disk of a Sun-like Young Star, PDS 70
+- **4× cited-seeds** | arXiv 1812.04046 | 2018 | The Disk Substructures at High Angular Resolution Program (DSHARP). VIII. The Rich Ringed Substructures in the AS 209 Disk
+- **4× cited-seeds** | arXiv 1804.06269 | 2018 | ALMA Observations of Polarization from Dust Scattering in the IM Lup Protoplanetary Disk
+- **4× cited-seeds** | arXiv 1811.10684 | 2018 | Isochronal age-mass discrepancy of young stars: SCExAO/CHARIS integral field spectroscopy of the HIP 79124 triple system
+- **4× cited-seeds** | arXiv 1806.09746 | 2018 | Dust Production Rates in the Fomalhaut Debris Disk from SOFIA/FORCAST Mid-infrared Imaging
+- **4× cited-seeds** | arXiv 1805.05825 | 2018 | Vortex survival in 3D self-gravitating accretion discs
+- **4× cited-seeds** | arXiv 1805.03023 | 2018 | Cm-wavelength observations of MWC 758: resolved dust trapping in a vortex
+- **4× cited-seeds** | arXiv 1810.06573 | 2018 | Is the ring inside or outside the planet?: the effect of planet migration on dust rings
+- **4× cited-seeds** | arXiv 1805.00940 | 2018 | Dusty disc–planet interaction with dust-free simulations
+- **4× cited-seeds** | arXiv 1803.08830 | 2018 | Formation of Terrestrial Planets
+- **4× cited-seeds** | arXiv 1808.04373 | 2018 | Detection of scattered light from the hot dust in HD 172555
+- **4× cited-seeds** | arXiv 1810.10560 | 2018 | The LEECH Exoplanet Imaging Survey: Limits on Planet Occurrence Rates under Conservative Assumptions
+- **4× cited-seeds** | arXiv 1809.08147 | 2018 | High-resolution Millimeter Imaging of the CI Tau Protoplanetary Disk: A Massive Ensemble of Protoplanets from 0.1 to 100 au
+- **4× cited-seeds** | arXiv 1808.10682 | 2018 | Constraining Gas-phase Carbon, Oxygen, and Nitrogen in the IM Lup Protoplanetary Disk
+- **4× cited-seeds** | arXiv 1708.08026 | 2017 | Mid-infrared polarization of Herbig Ae/Be discs
+- **4× cited-seeds** | arXiv 1709.07382 | 2017 | Clearing residual planetesimals by sweeping secular resonances in transitional disks: a lone-planet scenario for the wide gaps in debris disks around Vega and Fomalhaut
+- **4× cited-seeds** | arXiv 1709.03530 | 2017 | Pebble Accretion in Turbulent Protoplanetary Disks
+- **4× cited-seeds** | arXiv 1709.09670 | 2017 | Zodiacal Exoplanets in Time (ZEIT). V. A Uniform Search for Transiting Planets in Young Clusters Observed by K2
+- **4× cited-seeds** | arXiv 1706.10069 | 2017 | A PCA-based approach for subtracting thermal background emission in high-contrast imaging data
+- **4× cited-seeds** | arXiv 1705.06184 | 2017 | VIP: Vortex Image Processing Package for High-contrast Direct Imaging
+- **4× cited-seeds** | arXiv — | 2017 | The time domain for brown dwarfs and directly imaged giant exoplanets: the power of variability monitoring
+- **4× cited-seeds** | arXiv 1706.09940 | 2017 | The 1600 Å Emission Bump in Protoplanetary Disks: A Spectral Signature of H2O Dissociation
+- **4× cited-seeds** | arXiv 1702.05108 | 2017 | Testing giant planet formation in the transitional disk of SAO 206462 using deep VLT/SPHERE imaging
+- **4× cited-seeds** | arXiv 1709.01463 | 2017 | CN rings in full protoplanetary disks around young stars as probes of disk structure
+- **4× cited-seeds** | arXiv 1708.03394 | 2017 | Order out of Randomness: Self-Organization Processes in Astrophysics
+- **4× cited-seeds** | arXiv 1704.00787 | 2017 | A Close-up View of the Young Circumbinary Disk HD 142527
+- **4× cited-seeds** | arXiv 1703.06860 | 2017 | XMM-Newton X-Ray Observations of LkCa 15: A T Tauri Star with a Formative Planetary System
+- **4× cited-seeds** | arXiv 1703.02522 | 2017 | Identification of Young Stellar Variables with KELT for K2. I. Taurus Dippers and Rotators
+- **4× cited-seeds** | arXiv 1710.04418 | 2017 | Inferring giant planets from ALMA millimeter continuum and line observations in (transition) disks
+- **4× cited-seeds** | arXiv 1704.05133 | 2017 | H2CO Distribution and Formation in the TW HYA Disk
+- **4× cited-seeds** | arXiv 1702.06578 | 2017 | HD 106906: A Case Study for External Perturbations of a Debris Disk
+- **4× cited-seeds** | arXiv 1704.01970 | 2017 | ALMA Observations of Asymmetric Molecular Gas Emission from a Protoplanetary Disk in the Orion Nebula
+- **4× cited-seeds** | arXiv 1703.05338 | 2017 | On the Origin of the Spiral Morphology in the Elias 2–27 Circumstellar Disk
+- **4× cited-seeds** | arXiv — | 2017 | High contrast observations of circumstellar disks with the Gemini Planet Imager's polarimetry mode
+- **4× cited-seeds** | arXiv — | 2016 | Development of speckle nulling technique for the Savart-plate lateral-shearing interferometric nuller for exoplanets (SPLINE)
+- **4× cited-seeds** | arXiv 1607.05272 | 2016 | THE ORBIT AND TRANSIT PROSPECTS FOR β PICTORIS b CONSTRAINED WITH ONE MILLIARCSECOND ASTROMETRY
+- **4× cited-seeds** | arXiv 1607.03038 | 2016 | 94 Ceti: a triple star with a planet and dust disc
+- **4× cited-seeds** | arXiv 1612.03093 | 2016 | THE W. M. KECK OBSERVATORY INFRARED VORTEX CORONAGRAPH AND A FIRST IMAGE OF HIP 79124 B
+- **4× cited-seeds** | arXiv 1611.00364 | 2016 | PLANETS AROUND LOW-MASS STARS (PALMS). VI. DISCOVERY OF A REMARKABLY RED PLANETARY-MASS COMPANION TO THE AB DOR MOVING GROUP CANDIDATE 2MASS J22362452+4751425
+- **4× cited-seeds** | arXiv 1609.02917 | 2016 | The origin of the eccentricity of the hot Jupiter in CI Tau
+- **4× cited-seeds** | arXiv 1607.08239 | 2016 | The International Deep Planet Survey: II. The frequency of directly imaged giant exoplanets with stellar mass
+- **4× cited-seeds** | arXiv 1607.03754 | 2016 | HERSCHEL OBSERVATIONS OF DUSTY DEBRIS DISKS
+- **4× cited-seeds** | arXiv 1604.00398 | 2016 | THE TRENDS HIGH-CONTRAST IMAGING SURVEY. VI. DISCOVERY OF A MASS, AGE, AND METALLICITY BENCHMARK BROWN DWARF
+- **4× cited-seeds** | arXiv 1603.01402 | 2016 | A revised condition for self-gravitational fragmentation of protoplanetary discs
+- **4× cited-seeds** | arXiv 1608.06660 | 2016 | DISCOVERY OF A SUBSTELLAR COMPANION TO THE NEARBY DEBRIS DISK HOST HR 2562
+- **4× cited-seeds** | arXiv 1604.06097 | 2016 | DETECTION AND CHARACTERIZATION OF EXOPLANETS USING PROJECTIONS ON KARHUNEN–LOEVE EIGENIMAGES: FORWARD MODELING
+- **4× cited-seeds** | arXiv 1608.08496 | 2016 | 3.3 CM JVLA OBSERVATIONS OF TRANSITIONAL DISKS: SEARCHING FOR CENTIMETER PEBBLES
+- **4× cited-seeds** | arXiv 1608.01315 | 2016 | Grand Challenges in Protoplanetary Disc Modelling
+- **4× cited-seeds** | arXiv 1607.05775 | 2016 | VORTICES AND SPIRALS IN THE HD 135344B TRANSITION DISK
+- **4× cited-seeds** | arXiv 1607.05734 | 2016 | Close-in planetesimal formation by pile-up of drifting pebbles
+- **4× cited-seeds** | arXiv 1603.09357 | 2016 | Constraining turbulence mixing strength in transitional discs with planets using SPHERE and ALMA
+- **4× cited-seeds** | arXiv 1601.05182 | 2016 | ON THE COMMONALITY OF 10–30 AU SIZED AXISYMMETRIC DUST STRUCTURES IN PROTOPLANETARY DISKS
+- **4× cited-seeds** | arXiv 1601.01449 | 2016 | Observations and modelling of CO and [C i] in protoplanetary disks - First detections of [C i] and constraints on the carbon abundance
+- **4× cited-seeds** | arXiv 1609.02706 | 2016 | Modelling of deep gaps created by giant planets in protoplanetary disks
+- **4× cited-seeds** | arXiv 1606.00442 | 2016 | ALMA OBSERVATIONS OF HD 141569’s CIRCUMSTELLAR DISK
+- **4× cited-seeds** | arXiv 1701.00836 | 2016 | Adaptive Optics in High-Contrast Imaging
+- **4× cited-seeds** | arXiv 1601.06560 | 2016 | DISCOVERY OF AN INNER DISK COMPONENT AROUND HD 141569 A
+- **4× cited-seeds** | arXiv 1601.02642 | 2016 | RESOLVED CO GAS INTERIOR TO THE DUST RINGS OF THE HD 141569 DISK
+- **4× cited-seeds** | arXiv — | 2016 | Gemini planet imager observational calibration XII: photometric calibration in the polarimetry mode
+- **4× cited-seeds** | arXiv 1605.00468 | 2016 | Discovery of concentric broken rings at sub-arcsec separations in the HD 141569A gas-rich, debris disk with VLT/SPHERE
+- **4× cited-seeds** | arXiv 1510.01375 | 2015 | WEAK TURBULENCE IN THE HD 163296 PROTOPLANETARY DISK REVEALED BY ALMA CO OBSERVATIONS
+- **4× cited-seeds** | arXiv 1508.00798 | 2015 | AMBER/VLTI high spectral resolution observations of the Brγ emitting region in HD 98922 - A compact disc wind launched from the inner disc region
+- **4× cited-seeds** | arXiv 1512.00502 | 2015 | IS THE PALE BLUE DOT UNIQUE? OPTIMIZED PHOTOMETRIC BANDS FOR IDENTIFYING EARTH-LIKE EXOPLANETS
+- **4× cited-seeds** | arXiv 1510.07625 | 2015 | VARIABILITY IN A YOUNG, L/T TRANSITION PLANETARY-MASS OBJECT
+- **4× cited-seeds** | arXiv 1509.00007 | 2015 | DIRECT EXOPLANET DETECTION WITH BINARY DIFFERENTIAL IMAGING
+- **4× cited-seeds** | arXiv 1503.03539 | 2015 | SIMULTANEOUS DETECTION OF WATER, METHANE, AND CARBON MONOXIDE IN THE ATMOSPHERE OF EXOPLANET HR 8799 b
+- **4× cited-seeds** | arXiv 1511.06762 | 2015 | DIRECT IMAGING OF THE WATER SNOW LINE AT THE TIME OF PLANET FORMATION USING TWO ALMA CONTINUUM BANDS
+- **4× cited-seeds** | arXiv — | 2015 | Fast-moving features in the debris disk around AU Microscopii
+- **4× cited-seeds** | arXiv 1507.02661 | 2015 | DETECTION AND CHARACTERIZATION OF EXTRASOLAR PLANETS THROUGH MEAN-MOTION RESONANCES. I. SIMULATIONS OF HYPOTHETICAL DEBRIS DISKS
+- **4× cited-seeds** | arXiv 1511.08356 | 2015 | The far-infrared behaviour of Herbig Ae/Be discs: Herschel PACS photometry
+- **4× cited-seeds** | arXiv 1512.05836 | 2015 | MULTIPLE CARBON MONOXIDE SNOW LINES IN DISKS SCULPTED BY RADIAL DRIFT
+- **4× cited-seeds** | arXiv 1511.04105 | 2015 | A tunnel and a traffic jam: How transition disks maintain a detectable warm dust component despite the presence of a large planet-carved gap
+- **4× cited-seeds** | arXiv 1511.03498 | 2015 | Gas and dust hydrodynamical simulations of massive lopsided transition discs – II. Dust concentration
+- **4× cited-seeds** | arXiv 1504.05224 | 2015 | The Gemini NICI Planet-Finding Campaign: Asymmetries in the HD 141569 disc
+- **4× cited-seeds** | arXiv 1510.05660 | 2015 | DUST EVOLUTION CAN PRODUCE SCATTERED LIGHT GAPS IN PROTOPLANETARY DISKS
+- **4× cited-seeds** | arXiv 1509.00691 | 2015 | ALMA images of discs: are all gaps carved by planets?
+- **4× cited-seeds** | arXiv — | 2015 | Mid-IR characterization of substellar companions with CanariCam
+- **4× cited-seeds** | arXiv 1512.04996 | 2015 | Planetesimals in debris disks
+- **4× cited-seeds** | arXiv 1509.07514 | 2015 | ASTROMETRIC CONFIRMATION AND PRELIMINARY ORBITAL PARAMETERS OF THE YOUNG EXOPLANET 51 ERIDANI b WITH THE GEMINI PLANET IMAGER
+- **4× cited-seeds** | arXiv 1412.2757 | 2014 | CO mass upper limits in the Fomalhaut ring - the importance of NLTE excitation in debris discs and future prospects with ALMA
+- **4× cited-seeds** | arXiv 1412.1129 | 2014 | FOMALHAUT b AS A DUST CLOUD: FREQUENT COLLISIONS WITHIN THE FOMALHAUT DISK
+- **4× cited-seeds** | arXiv 1404.4196 | 2014 | WILL NEW HORIZONS SEE DUST CLUMPS IN THE EDGEWORTH–KUIPER BELT?
+- **4× cited-seeds** | arXiv 1403.5268 | 2014 | FOMALHAUT b AS A CLOUD OF DUST: TESTING ASPECTS OF PLANET FORMATION THEORY
+- **4× cited-seeds** | arXiv 1412.1856 | 2014 | WISEP J004701.06+680352.1: AN INTERMEDIATE SURFACE GRAVITY, DUSTY BROWN DWARF IN THE AB DOR MOVING GROUP
+- **4× cited-seeds** | arXiv 1408.2791 | 2014 | The debris disc of solar analogue   Ceti: Herschel observations and dynamical simulations of the proposed multiplanet system
+- **4× cited-seeds** | arXiv — | 2014 | ERIS: the exoplanet high-resolution image simulator for CHARIS
+- **4× cited-seeds** | arXiv 1407.3044 | 2014 | Colour-magnitude diagrams of transiting Exoplanets - II. A larger sample from photometric distances
+- **4× cited-seeds** | arXiv 1411.1378 | 2014 | PLANETARY CHAOTIC ZONE CLEARING: DESTINATIONS AND TIMESCALES
+- **4× cited-seeds** | arXiv 1407.2876 | 2014 | High contrast imaging at the LBT: the LEECH exoplanet imaging survey
+- **4× cited-seeds** | arXiv 1411.2736 | 2014 | Gaps, Rings, and Non-Axisymmetric Structures in Protoplanetary Disks - From Simulations to ALMA Observations
+- **4× cited-seeds** | arXiv 1404.6144 | 2014 | Collisional modelling of the debris disc around HIP 17439
+- **4× cited-seeds** | arXiv 1407.6549 | 2014 | IMAGING THE INNER AND OUTER GAPS OF THE PRE-TRANSITIONAL DISK OF HD 169142 AT 7 mm
+- **4× cited-seeds** | arXiv 1405.5773 | 2014 | RESOLVED IMAGES OF THE PROTOPLANETARY DISK AROUND HD 100546 WITH ALMA
+- **4× cited-seeds** | arXiv 1405.2790 | 2014 | DUST TRAPPING BY VORTICES IN TRANSITIONAL DISKS: EVIDENCE FOR NON-IDEAL MAGNETOHYDRODYNAMIC EFFECTS IN PROTOPLANETARY DISKS
+- **4× cited-seeds** | arXiv 1402.0832 | 2014 | LARGE-SCALE ASYMMETRIES IN THE TRANSITIONAL DISKS OF SAO 206462 AND SR 21
+- **4× cited-seeds** | arXiv 1402.0073 | 2014 | FLUCTUATIONS AND FLARES IN THE ULTRAVIOLET LINE EMISSION OF COOL STARS: IMPLICATIONS FOR EXOPLANET TRANSIT OBSERVATIONS
+- **4× cited-seeds** | arXiv 1409.2243 | 2014 | How to detect the signatures of self-gravitating circumstellar discs with the Atacama Large Millimeter/sub-millimeter Array
+- **4× cited-seeds** | arXiv 1405.6120 | 2014 | HD100546 MULTI-EPOCH SCATTERED LIGHT OBSERVATIONS
+- **4× cited-seeds** | arXiv 1306.5746 | 2013 | Luminosity of young Jupiters revisited Massive cores make hot planets
+- **4× cited-seeds** | arXiv 1303.4151 | 2013 | HST SPECTRAL MAPPING OF L/T TRANSITION BROWN DWARFS REVEALS CLOUD THICKNESS VARIATIONS
+- **4× cited-seeds** | arXiv 1312.6385 | 2013 | Potential multi-component structure of the debris disk around HIP 17439 revealed by Herschel/DUNES ⋆
+- **4× cited-seeds** | arXiv — | 2013 | Towards the Habitable Zone: Direct Imaging of Extrasolar Planets with the Magellan AO System
+- **4× cited-seeds** | arXiv 1310.1108 | 2013 | Early evolution of clumps formed via gravitational instability in protoplanetary disks; precursors of Hot Jupiters?
+- **4× cited-seeds** | arXiv 1304.5853 | 2013 | DIRECT IMAGING IN THE HABITABLE ZONE AND THE PROBLEM OF ORBITAL MOTION
+- **4× cited-seeds** | arXiv 1302.7000 | 2013 | Spatially resolved images of dust belt(s) around the planet-hosting subgiant κ CrB
+- **4× cited-seeds** | arXiv 1302.0010 | 2013 | COMPLETENESS OF IMAGING SURVEYS FOR ECCENTRIC EXOPLANETS
+- **4× cited-seeds** | arXiv 1301.1331 | 2013 | ASTEROID BELTS IN DEBRIS DISK TWINS: VEGA AND FOMALHAUT
+- **4× cited-seeds** | arXiv — | 2013 | Planet formation in radiatively inefficient protoplanetary discs
+- **4× cited-seeds** | arXiv 1309.3586 | 2013 | The optical design of CHARIS: an exoplanet IFS for the Subaru telescope
+- **4× cited-seeds** | arXiv 1307.1404 | 2013 | ATMOSPHERIC RETRIEVAL ANALYSIS OF THE DIRECTLY IMAGED EXOPLANET HR 8799b
+- **4× cited-seeds** | arXiv 1306.4264 | 2013 | Planet or brown dwarf? Inferring the companion mass in HD 100546 from the wall shape using mid-infrared interferometry
+- **4× cited-seeds** | arXiv 1308.6019 | 2013 | HERSCHEL/PACS SURVEY OF PROTOPLANETARY DISKS IN TAURUS/AURIGA—OBSERVATIONS OF [O i] AND [C ii], AND FAR-INFRARED CONTINUUM
+- **4× cited-seeds** | arXiv 1304.1581 | 2013 | KECK ADAPTIVE OPTICS OBSERVATIONS OF THE PROTOSTELLAR DISK AROUND RADIO SOURCE I IN THE ORION KLEINMANN–LOW NEBULA
+- **4× cited-seeds** | arXiv 1312.4531 | 2013 | Evolution from protoplanetary to debris discs: the transition disc around HD 166191
+- **4× cited-seeds** | arXiv 1307.0561 | 2013 | THREE-DIMENSIONAL RADIATION TRANSFER IN YOUNG STELLAR OBJECTS
+- **4× cited-seeds** | arXiv 1312.2756 | 2013 | Gas structure inside dust cavities of transition disks: Ophiuchus IRS 48 observed by ALMA
+- **4× cited-seeds** | arXiv 1312.0151 | 2013 | A PARAMETRIC MODELING APPROACH TO MEASURING THE GAS MASSES OF CIRCUMSTELLAR DISKS
+- **4× cited-seeds** | arXiv 1307.3770 | 2013 | STEADY STATE DUST DISTRIBUTIONS IN DISK VORTICES: OBSERVATIONAL PREDICTIONS AND APPLICATIONS TO TRANSITIONAL DISKS
+- **4× cited-seeds** | arXiv 1312.3817 | 2013 | FAST RADIAL FLOWS IN TRANSITION DISK HOLES
+- **4× cited-seeds** | arXiv 1204.5722 | 2012 | SUBMILLIMETER ARRAY OBSERVATIONS OF THE RX J1633.9-2442 TRANSITION DISK: EVIDENCE FOR MULTIPLE PLANETS IN THE MAKING
+- **4× cited-seeds** | arXiv 1201.1001 | 2012 | ON THE NATURE OF THE TRANSITION DISK AROUND LkCa 15
+- **4× cited-seeds** | arXiv 1212.1459 | 2012 | CORONAGRAPHIC OBSERVATIONS OF FOMALHAUT AT SOLAR SYSTEM SCALES
+- **4× cited-seeds** | arXiv 1212.1450 | 2012 | THE DEBRIS DISK AROUND γ DORADUS RESOLVED WITH HERSCHEL
+- **4× cited-seeds** | arXiv 1205.3030 | 2012 | Rapid growth of gas-giant cores by pebble accretion
+- **4× cited-seeds** | arXiv — | 2012 | Detecting Exoplanets with a Liquid-Crystal-Based Vortex Coronagraph
+- **4× cited-seeds** | arXiv 1202.4964 | 2012 | VERY LOW MASS STELLAR AND SUBSTELLAR COMPANIONS TO SOLAR-LIKE STARS FROM MARVELS. I. A LOW-MASS RATIO STELLAR COMPANION TO TYC 4110-01037-1 IN A 79 DAY ORBIT
+- **4× cited-seeds** | arXiv 1201.3383 | 2012 | Fomalhaut debris disk emission at 7 millimeters: constraints on the collisional models of planetesimals
+- **4× cited-seeds** | arXiv 1210.6915 | 2012 | MAPPING DIRECTLY IMAGED GIANT EXOPLANETS
+- **4× cited-seeds** | arXiv — | 2012 | Project 1640: the world's first ExAO coronagraphic hyperspectral imager for comparative planetary science
+- **4× cited-seeds** | arXiv 1208.3190 | 2012 | Conceptual design of the Coronagraphic High Angular Resolution Imaging Spectrograph (CHARIS) for the Subaru telescope
+- **4× cited-seeds** | arXiv — | 2012 | IMAGING THE DISK AND JET OF THE CLASSICAL T TAURI STAR AA TAU
+- **4× cited-seeds** | arXiv 1206.5802 | 2012 | Can grain growth explain transition disks
+- **4× cited-seeds** | arXiv 1201.1518 | 2012 | ON THE TRANSITIONAL DISK CLASS: LINKING OBSERVATIONS OF T TAURI STARS AND PHYSICAL DISK MODELS
+- **4× cited-seeds** | arXiv 1208.1759 | 2012 | Coplanar circumbinary debris discs
+- **4× cited-seeds** | arXiv 1209.3969 | 2012 | Planet signatures in collisionally active debris discs: scattered light images
+- **4× cited-seeds** | arXiv 1106.4244 | 2011 | The Young Exoplanet Transit Initiative (YETI)
+- **4× cited-seeds** | arXiv 1107.0967 | 2011 | M-BAND IMAGING OF THE HR 8799 PLANETARY SYSTEM USING AN INNOVATIVE LOCI-BASED BACKGROUND SUBTRACTION TECHNIQUE
+- **4× cited-seeds** | arXiv 1105.4817 | 2011 | Low abundance, strong features: window-dressing crystalline forsterite in the disk wall of HD 100546
+- **4× cited-seeds** | arXiv 1103.4766 | 2011 | Simulation of planet detection with the SPHERE IFS
+- **4× cited-seeds** | arXiv 1103.2522 | 2011 | Direct detection and spectral characterization of outer exoplanets with the SPICA coronagraph instrument (SCI)
+- **4× cited-seeds** | arXiv 1102.3691 | 2011 | DIRECT IMAGING CONSTRAINTS ON THE PUTATIVE EXOPLANET 14 Her C
+- **4× cited-seeds** | arXiv 1112.1953 | 2011 | Resolving the inner regions of the HD 97048 circumstellar disk with VLT/NACO polarimetric differential imaging
+- **4× cited-seeds** | arXiv 1106.4519 | 2011 | MICROWAVE OBSERVATIONS OF EDGE-ON PROTOPLANETARY DISKS: PROGRAM OVERVIEW AND FIRST RESULTS
+- **4× cited-seeds** | arXiv — | 2011 | SPATIALLY RESOLVING THE HK Tau B EDGE-ON DISK FROM 1.2 TO 4.7 μm: A UNIQUE SCATTERED LIGHT DISK
+- **4× cited-seeds** | arXiv 1108.1396 | 2011 | THE TRANSIT LIGHT CURVE OF AN EXOZODIACAL DUST CLOUD
+- **4× cited-seeds** | arXiv 1008.0865 | 2010 | Resolved imaging of the HD 191089 debris disc
+- **4× cited-seeds** | arXiv 1102.4555 | 2010 | FORMATION OF GIANT PLANETS BY DISK INSTABILITY ON WIDE ORBITS AROUND PROTOSTARS WITH VARIED MASSES
+- **4× cited-seeds** | arXiv 1108.3152 | 2010 | A Binary Shaped Mask Coronagraph for a Segmented Pupil
+- **4× cited-seeds** | arXiv 1012.0008 | 2010 | A New High Contrast Imaging Program at Palomar Observatory
+- **4× cited-seeds** | arXiv 1011.1410 | 2010 | HIGH SPATIAL RESOLUTION IMAGING OF THERMAL EMISSION FROM DEBRIS DISKS
+- **4× cited-seeds** | arXiv — | 2010 | ACCESS: a concept study for the direct imaging and spectroscopy of exoplanetary systems
+- **4× cited-seeds** | arXiv 1007.3448 | 2010 | An apodizing phase plate coronagraph for VLT/NACO
+- **4× cited-seeds** | arXiv 1007.0002 | 2010 | Deep infrared imaging of close companions to austral A- and F-type stars
+- **4× cited-seeds** | arXiv 1003.2430 | 2010 | NACO-SDI imaging of known companion host stars from the AAPS and Keck planet search surveys
+- **4× cited-seeds** | arXiv 1012.4016 | 2010 | SPECKLE SUPPRESSION WITH THE PROJECT 1640 INTEGRAL FIELD SPECTROGRAPH
+- **4× cited-seeds** | arXiv 1009.4132 | 2010 | On the alignment of debris discs and their host stars' rotation axis - implications for spin-orbit misalignment in exoplanetary systems
+- **4× cited-seeds** | arXiv 1005.3215 | 2010 | Kuiper belts around nearby stars
+- **3× cited-seeds** | arXiv — | 2026 | Uniform Forward-modeling Analysis of Ultracool Dwarfs. IV. Benchmarking the Sonora Diamondback and D. Saumon & M. S. Marley () Atmospheric Models Across Late M, L, and T Types with Low-resolution 0.8–2.5 μm Spectroscopy
+- **3× cited-seeds** | arXiv 2601.08227 | 2026 | Jupiter-like uniform metal enrichment in a system of multiple giant exoplanets
+- **3× cited-seeds** | arXiv 2602.15083 | 2026 | Coupled Map Lattice for Astronomical Object Formation: A Scenario for Evolution from Star to Disk, Arms, and Companions
+- **3× cited-seeds** | arXiv 2602.05247 | 2026 | ALMA 873 µm polarization observations of the PDS 70 disk
+- **3× cited-seeds** | arXiv 2604.08975 | 2026 | Polarimetry in Planetary Sciences and Astronomy
+- **3× cited-seeds** | arXiv 2601.11824 | 2026 | The ALMA survey to Resolve exoKuiper belt Substructures (ARKS)
+- **3× cited-seeds** | arXiv 2603.22444 | 2026 | The GRAVITY young stellar object survey
+- **3× cited-seeds** | arXiv 2601.02545 | 2026 | Tracing Pebble Drift History in Two Protoplanetary Disks with CO Enhancement
+- **3× cited-seeds** | arXiv — | 2026 | HD 164604 c: A Second Giant Planet on a 15 Yr Orbit and Constraints on the Planet–Planet Mutual Inclination
+- **3× cited-seeds** | arXiv 2602.00235 | 2026 | Detecting and Characterizing Companions with a Calibrated Gaia DR2, DR3, and Hipparcos Catalog (G23H)
+- **3× cited-seeds** | arXiv — | 2025 | Calibration and performances of the integrated Mach—Zehnder wavefront sensor for extreme adaptive optics
+- **3× cited-seeds** | arXiv 2504.16982 | 2025 | Thermal Emission and Confirmation of the Frigid White Dwarf Exoplanet WD 1856+534 b
+- **3× cited-seeds** | arXiv 2506.20919 | 2025 | Discovery of Volatile Gas in the Giant Impact Disk Around the 150 Myr Old HD 23514
+- **3× cited-seeds** | arXiv 2506.10750 | 2025 | The ALMA Survey of Gas Evolution of PROtoplanetary Disks (AGE-PRO). XI. Beam-corrected Gas Disk Sizes from Fitting 12CO Moment Zero Maps
+- **3× cited-seeds** | arXiv 2510.08327 | 2025 | Direct Spectroscopy of 51 Eridani b with JWST NIRSpec
+- **3× cited-seeds** | arXiv 2504.14023 | 2025 | Ice Sublimation in the Dynamic HD 100453 Disk Reveals a Rich Reservoir of Inherited Complex Organics
+- **3× cited-seeds** | arXiv 2509.21437 | 2025 | Formation of Multiple Dynamical Classes in the Kuiper Belt via Disk Dissipation
+- **3× cited-seeds** | arXiv 2508.11754 | 2025 | Theory of Exozodi Sources and Dust Evolution
+- **3× cited-seeds** | arXiv 2508.05932 | 2025 | Origin of Ganymede and the Galilean Moons
+- **3× cited-seeds** | arXiv — | 2025 | Morphological and Kinematic Diagnostic of FU Orionis-type Outburst Mechanisms
+- **3× cited-seeds** | arXiv 2511.21328 | 2025 | Planet Migration in Protoplanetary Disks with Rims
+- **3× cited-seeds** | arXiv 2511.13840 | 2025 | Inferring Planet and Disk Parameters from Protoplanetary Disk Images Using a Variational Autoencoder
+- **3× cited-seeds** | arXiv — | 2025 | Water in Protoplanetary Disks with JWST-MIRI: Spectral Excitation Atlas and Radial Distribution from Temperature Diagnostic Diagrams and Doppler Mapping
+- **3× cited-seeds** | arXiv — | 2025 | The Ophiuchus DIsk Survey Employing ALMA (ODISEA): Complete Size Distributions for the 100 Brightest Disks across Multiplicity and Spectral Energy Distribution Classes
+- **3× cited-seeds** | arXiv 2509.18449 | 2025 | Simulations of Multiple Dust Ring Formation in a Subsolar-metallicity Protoplanetary Disk
+- **3× cited-seeds** | arXiv 2506.10734 | 2025 | The ALMA Survey of Gas Evolution of PROtoplanetary Disks (AGE-PRO). III. Dust and Gas Disk Properties in the Lupus Star-forming Region
+- **3× cited-seeds** | arXiv 2506.10735 | 2025 | The ALMA Survey of Gas Evolution of PROtoplanetary Disks (AGE-PRO). IV. Dust and Gas Disk Properties in the Upper Scorpius Star-forming Region
+- **3× cited-seeds** | arXiv — | 2025 | Impact of Magnetohydrodynamic Disk Wind on Early Evolutionary Stage of Protoplanetary Disk and Dust Growth
+- **3× cited-seeds** | arXiv 2504.19416 | 2025 | exoALMA. VIII. Probabilistic Moment Maps and Data Products Using Nonparametric Linear Models
+- **3× cited-seeds** | arXiv 2501.10121 | 2025 | Discovery of Jet–Bubble–Disk Interaction: Jet Feedback on a Protoplanetary Disk Via an Expanding Bubble in WSB 52
+- **3× cited-seeds** | arXiv 2503.06787 | 2025 | Polar Circumtriple Planets and Disks around Misaligned Hierarchical Triple Stars
+- **3× cited-seeds** | arXiv 2506.02934 | 2025 | Eighteen Exoplanet Host Stars from the NPOI Data Archive
+- **3× cited-seeds** | arXiv 2503.01351 | 2025 | Understanding the Formation of Saturn’s Regular Moons in the Context of Giant Planet Moons Formation Scenarios
+- **3× cited-seeds** | arXiv 2502.07759 | 2025 | A Tentative Detection of a Point Source in the Disk Gap of HD 100546 with VLT/SPHERE-IRDIS Sparse Aperture Masking Interferometry
+- **3× cited-seeds** | arXiv 2509.22803 | 2025 | Ross 458 C: Gas Giant or Brown Dwarf?
+- **3× cited-seeds** | arXiv 2509.07118 | 2025 | On the Detection of Exorings in Reflected Light with JWST NIRCam
+- **3× cited-seeds** | arXiv 2509.01896 | 2025 | ALMA High-resolution Observation for the Transitional Disk Around IRAS 04125+2902
+- **3× cited-seeds** | arXiv 2508.08463 | 2025 | Searching for Planets Orbiting ϵ Eridani with JWST/NIRCam
+- **3× cited-seeds** | arXiv 2512.09977 | 2025 | Decisively Demonstrating Roman CGI's TTR5 Requirement by Reimaging a Newly-Discovered Brown Dwarf Orbiting a Bright Accelerating Star
+- **3× cited-seeds** | arXiv 2512.07942 | 2025 | The HIP 54515 b Superjovian Planet as an Early, Critical Look at the Roman Coronagraph's Performance in the Faint Target Star, Small IWA Limit
+- **3× cited-seeds** | arXiv 2512.15477 | 2025 | A Characterization of JWST MIRI Detector Persistence and Implications for High-contrast Imaging
+- **3× cited-seeds** | arXiv — | 2025 | Discerning Galaxies from Brown Dwarfs in JWST/MIRI Coronagraphy Using Color–Color Diagrams
+- **3× cited-seeds** | arXiv 2507.18663 | 2025 | Experimental Validation for Serial Conjunction of Diffraction-limited Coronagraph and Fiber Nuller
+- **3× cited-seeds** | arXiv 2410.06246 | 2024 | Ages of Stars and Planets in the Kepler Field Younger than Four Billion Years
+- **3× cited-seeds** | arXiv — | 2024 | Opportunities and Challenges in the Study of Exoplanetary Atmospheres during the JWST Era
+- **3× cited-seeds** | arXiv — | 2024 | Free-floating binary planets from ejections during close stellar encounters
+- **3× cited-seeds** | arXiv 2404.07391 | 2024 | Kinematic Age of the β-Pictoris Moving Group
+- **3× cited-seeds** | arXiv — | 2024 | Evaluations of the Methods for Planet Searching and Detection
+- **3× cited-seeds** | arXiv — | 2024 | Exoplanet detection techniques for direct imaging dark zone maintenance data sets
+- **3× cited-seeds** | arXiv 2404.02140 | 2024 | An Informed and Systematic Method to Identify Variable Mid-L Dwarfs
+- **3× cited-seeds** | arXiv 2408.06973 | 2024 | Deepest Limits on Scattered Light Emission from the Epsilon Eridani Inner Debris Disk with HST/STIS
+- **3× cited-seeds** | arXiv 2406.11627 | 2024 | Seeing the Unseen: A Method to Detect Unresolved Rings in Protoplanetary Disks
+- **3× cited-seeds** | arXiv 2411.13351 | 2024 | Impact of Jupiter’s Heating and Self-shadowing on the Jovian Circumplanetary Disk Structure
+- **3× cited-seeds** | arXiv 2401.10131 | 2024 | An Outbursting Protostar: The Environment of L1251 VLA 6
+- **3× cited-seeds** | arXiv 2405.03033 | 2024 | Discovery of an Accretion Streamer and a Slow Wide-angle Outflow around FU Orionis
+- **3× cited-seeds** | arXiv 2407.14395 | 2024 | Outflow Driven by a Protoplanet Embedded in the TW Hya Disk
+- **3× cited-seeds** | arXiv 2403.00626 | 2024 | The First Spatially Resolved Detection of 13CN in a Protoplanetary Disk and Evidence for Complex Carbon Isotope Fractionation
+- **3× cited-seeds** | arXiv — | 2024 | The search for protoplanets with aperture masking (SPAM) survey: progress update and close-in small grain protoplanetary disk features
+- **3× cited-seeds** | arXiv 2403.09970 | 2024 | The Dynamic, Chimeric Inner Disk of PDS 70
+- **3× cited-seeds** | arXiv — | 2024 | Asymmetry, Gap Opening, and a High Accretion Rate on DM Tau: A Hypothesis Based on the Interaction of Magnetized Disk Wind with Planets
+- **3× cited-seeds** | arXiv 2404.10217 | 2024 | Protoplanetary Disk Polarization at Multiple Wavelengths: Are Dust Populations Diverse?
+- **3× cited-seeds** | arXiv 2411.05203 | 2024 | Sites of Planet Formation in Binary Systems. II. Double the Disks in DF Tau
+- **3× cited-seeds** | arXiv 2405.08271 | 2024 | Cloud Dissipation and Disk Wind in the Late Phase of Star Formation
+- **3× cited-seeds** | arXiv 2403.02412 | 2024 | Breaking Giant Chains: Early-stage Instabilities in Long-period Giant Planet Systems
+- **3× cited-seeds** | arXiv 2403.00305 | 2024 | Discovery of Asymmetric Spike-like Structures of the 10 au Disk around the Very Low-luminosity Protostar Embedded in the Taurus Dense Core MC 27/L1521F with ALMA
+- **3× cited-seeds** | arXiv 2409.12733 | 2024 | Radiative signatures of circumplanetary disks and envelopes during the late stages of giant planet formation
+- **3× cited-seeds** | arXiv 2407.16746 | 2024 | Exo-NINJA at Subaru: fiber-fed spectro-imaging of exoplanets and circumstellar disks at R~4000
+- **3× cited-seeds** | arXiv — | 2024 | Direct Imaging Detection of the Protoplanet AB Aur b at Wavelengths Covering Paβ
+- **3× cited-seeds** | arXiv 2409.16660 | 2024 | The ESO SupJup Survey. III. Confirmation of 13CO in YSES 1 b and Atmospheric Detection of YSES 1 c with CRIRES+
+- **3× cited-seeds** | arXiv 2407.20952 | 2024 | Atmospheric Characterization of the Super-Jupiter HIP 99770 b with KPIC
+- **3× cited-seeds** | arXiv 2412.14955 | 2024 | Shedding Light on the Origin of the Broken Misaligned Circumtriple Disk around GW Ori
+- **3× cited-seeds** | arXiv 2408.03896 | 2024 | Planet Formation Imager (PFI): project update and future directions
+- **3× cited-seeds** | arXiv 2409.07260 | 2024 | Measuring Sub-Kelvin Variations in Stellar Temperature with High-resolution Spectroscopy
+- **3× cited-seeds** | arXiv — | 2024 | JWST MIRI MRS Images of Disk Winds, Water, and CO in an Edge-on Protoplanetary Disk
+- **3× cited-seeds** | arXiv 2406.09501 | 2024 | Observational Characteristics of Circumplanetary-mass-object Disks in the Era of James Webb Space Telescope
+- **3× cited-seeds** | arXiv 2406.11593 | 2024 | Astrometry as a Tool for Discovering and Weighing Faint Companions to Nearby Stars
+- **3× cited-seeds** | arXiv 2408.03830 | 2024 | JWST-TST High Contrast: Spectroscopic Characterization of the Benchmark Brown Dwarf HD 19467 B with the NIRSpec Integral Field Spectrograph
+- **3× cited-seeds** | arXiv 2412.04356 | 2024 | Water Ice in the Edge-on Orion Silhouette Disk 114–426 from JWST NIRCam Images
+- **3× cited-seeds** | arXiv 2310.06016 | 2023 | Floating binary planets from ejections during close stellar encounters
+- **3× cited-seeds** | arXiv 2310.12483 | 2023 | Recovering simulated planet and disk signals using SCALES aperture masking
+- **3× cited-seeds** | arXiv — | 2023 | Long-term Protoplanetary Disk Evolution from Molecular Cloud Core Collapse and Implications for Planet Formation. II. Strong Disk Self-gravity
+- **3× cited-seeds** | arXiv — | 2023 | The PICTURE-C exoplanetary imaging balloon mission: second flight results and the transition to a new mission, PICTURE-D
+- **3× cited-seeds** | arXiv — | 2023 | Characterizing the instrumental polarization of SCExAO VAMPIRES
+- **3× cited-seeds** | arXiv 2304.07446 | 2023 | Evidence for Misalignment between Debris Disks and Their Host Stars
+- **3× cited-seeds** | arXiv 2301.05075 | 2023 | Kinematic Evidence of an Embedded Protoplanet in HD 142666 Identified by Machine Learning
+- **3× cited-seeds** | arXiv 2304.04650 | 2023 | Wavelength-dependent Extinction and Grain Sizes in “Dippers”
+- **3× cited-seeds** | arXiv 2302.06500 | 2023 | Imaging the Inner Astronomical Unit of the Herbig Be Star HD 190073
+- **3× cited-seeds** | arXiv 2311.05422 | 2023 | Simulation of High-contrast Polarimetric Observations of Debris Disks with the Roman Coronagraph Instrument
+- **3× cited-seeds** | arXiv 2311.16233 | 2023 | CI Traces the Disk Atmosphere in the IM Lup Protoplanetary Disk
+- **3× cited-seeds** | arXiv 2309.16065 | 2023 | Irradiated Disks May Settle into Staircases
+- **3× cited-seeds** | arXiv 2308.11699 | 2023 | MAPS: Constraining Serendipitous Time Variability in Protoplanetary Disk Molecular Ion Emission
+- **3× cited-seeds** | arXiv 2307.07600 | 2023 | How Large Is a Disk—What Do Protoplanetary Disk Gas Sizes Really Mean?
+- **3× cited-seeds** | arXiv 2307.13029 | 2023 | Rovibrational Spectroscopy of CI Tau—Evidence of a Multicomponent Eccentric Disk Induced by a Planet
+- **3× cited-seeds** | arXiv 2307.12040 | 2023 | Water in the terrestrial planet-forming zone of the PDS 70 disk
+- **3× cited-seeds** | arXiv 2307.16729 | 2023 | The chemical inventory of the inner regions of planet-forming disks - the JWST/MINDS program.
+- **3× cited-seeds** | arXiv 2303.00012 | 2023 | Planetary population synthesis and the emergence of four classes of planetary system architectures
+- **3× cited-seeds** | arXiv 2307.13433 | 2023 | Spirals and Clumps in V960 Mon: Signs of Planet Formation via Gravitational Instability around an FU Ori Star?
+- **3× cited-seeds** | arXiv 2311.08950 | 2023 | Observing Planetesimal Formation under Streaming Instability in the Rings of HD 163296
+- **3× cited-seeds** | arXiv 2306.15443 | 2023 | Early Planet Formation in Embedded Disks (eDisk). VII. Keplerian Disk, Disk Substructure, and Accretion Streamers in the Class 0 Protostar IRAS 16544–1604 in CB 68
+- **3× cited-seeds** | arXiv 2310.16026 | 2023 | Retrievals of Protoplanetary Disk Parameters Using Thermochemical Models. I. Disk Gas Mass from Hydrogen Deuteride Spectroscopy
+- **3× cited-seeds** | arXiv 2310.15491 | 2023 | Early Planet Formation in Embedded Disks (eDisk). X. Compact Disks, Extended Infall, and a Fossil Outburst in the Class I Oph IRS43 Binary
+- **3× cited-seeds** | arXiv 2310.12453 | 2023 | Early Planet Formation in Embedded Disks (eDisk). VIII. A Small Protostellar Disk around the Extremely Low Mass and Young Class 0 Protostar IRAS 15398–3359
+- **3× cited-seeds** | arXiv — | 2023 | ALMA High-frequency Long-baseline Campaign in 2019: Band 9 and 10 In-band and Band-to-band Observations Using ALMA’s Longest Baselines
+- **3× cited-seeds** | arXiv 2303.05261 | 2023 | Rejuvenating infall: a crucial yet overlooked source of mass and angular momentum
+- **3× cited-seeds** | arXiv 2301.01284 | 2023 | Polar Circumtriple Planets and Disks Can Only Form Close to a Triple Star
+- **3× cited-seeds** | arXiv 2308.14292 | 2023 | Photonic spectro-interferometry with SCExAO/FIRST at the Subaru Telescope: towards Hα imaging of protoplanets
+- **3× cited-seeds** | arXiv 2306.00158 | 2023 | Porous Dust Particles in Protoplanetary Disks: Application to the HL Tau Disk
+- **3× cited-seeds** | arXiv — | 2023 | Recent Progress in Finding Binary Systems with the B[e] Phenomenon
+- **3× cited-seeds** | arXiv 2310.17043 | 2023 | Quantifying the Transit Light Source Effect: Measurements of Spot Temperature and Coverage on the Photosphere of AU Microscopii with High-resolution Spectroscopy and Multicolor Photometry
+- **3× cited-seeds** | arXiv 2309.03402 | 2023 | A Wolf 359 in Sheep's Clothing: Hunting for Substellar Companions in the Fifth-closest System Using Combined High-contrast Imaging and Radial Velocity Analysis
+- **3× cited-seeds** | arXiv 2312.12508 | 2023 | Streaming Instability and Turbulence: Conditions for Planetesimal Formation
+- **3× cited-seeds** | arXiv — | 2023 | First light of the vortex fiber nulling mode on the Keck planet imager and characterizer
+- **3× cited-seeds** | arXiv 2209.15484 | 2022 | Retrieving C and O Abundance of HR 8799 c by Combining High- and Low-resolution Data
+- **3× cited-seeds** | arXiv 2209.00620 | 2022 | The JWST Early-release Science Program for Direct Observations of Exoplanetary Systems II: A 1 to 20 μm Spectrum of the Planetary-mass Companion VHS 1256–1257 b
+- **3× cited-seeds** | arXiv 2205.05096 | 2022 | The First High-contrast Images of X-Ray Binaries: Detection of Candidate Companions in the γ Cas Analog RX J1744.7-2713
+- **3× cited-seeds** | arXiv 2204.03679 | 2022 | N-body Interactions will be Detectable in the HR-8799 System within 5 yr with VLTI-GRAVITY
+- **3× cited-seeds** | arXiv 2203.08165 | 2022 | L-band Integral Field Spectroscopy of the HR 8799 Planetary System
+- **3× cited-seeds** | arXiv 2209.08120 | 2022 | Exoplanet imaging data challenge, phase II: characterization of exoplanet signals in high-contrast images
+- **3× cited-seeds** | arXiv 2203.11979 | 2022 | Polarization from Aligned Dust Grains in the β Pic Debris Disk
+- **3× cited-seeds** | arXiv 2203.15581 | 2022 | Accretion and outflows in young stars with CUBES
+- **3× cited-seeds** | arXiv 2212.05539 | 2022 | UV-driven chemistry as a signpost of late-stage planet formation
+- **3× cited-seeds** | arXiv 2207.06436 | 2022 | Connecting SPHERE and CRIRES+ for the characterisation of young exoplanets at high spectral resolution: status update of VLT/HiRISE
+- **3× cited-seeds** | arXiv 2204.06691 | 2022 | Gas and Dust Shadows in the TW Hydrae Disk
+- **3× cited-seeds** | arXiv 2208.02542 | 2022 | The Origin of the Doppler Flip in HD 100546: A Large-scale Spiral Arm Generated by an Inner Binary Companion
+- **3× cited-seeds** | arXiv — | 2022 | A Machine Learning Framework to Predict Images of Edge-on Protoplanetary Disks
+- **3× cited-seeds** | arXiv 2207.02869 | 2022 | Kinematic Evidence for an Embedded Planet in the IM Lupi Disk
+- **3× cited-seeds** | arXiv 2202.02328 | 2022 | Dust Dynamics in Transitional Disks: Clumping and Disk Recession
+- **3× cited-seeds** | arXiv 2209.03889 | 2022 | Dynamics of young stellar clusters as planet-forming environments
+- **3× cited-seeds** | arXiv — | 2022 | ELVIS: the exoplanets at LBT with a visible IFS for SHARK-VIS
+- **3× cited-seeds** | arXiv 2208.08908 | 2022 | L-band nulling interferometry at the VLTI with Asgard/Hi-5: status and plans
+- **3× cited-seeds** | arXiv 2206.07799 | 2022 | Formation of Dust Clumps with Sub-Jupiter Mass and Cold Shadowed Region in Gravitationally Unstable Disk around Class 0/I Protostar in L1527 IRS
+- **3× cited-seeds** | arXiv 2203.00029 | 2022 | The VLA/ALMA Nascent Disk and Multiplicity (VANDAM) Survey of Orion Protostars. VI. Insights from Radiative Transfer Modeling
+- **3× cited-seeds** | arXiv 2202.05301 | 2022 | Anisotropic Infall and Substructure Formation in Embedded Disks
+- **3× cited-seeds** | arXiv 2201.11771 | 2022 | A Spatially-resolved Large Cavity of the J0337 Protoplanetary Disk in Perseus
+- **3× cited-seeds** | arXiv 2210.06560 | 2022 | First steps of planet formation around very low mass stars and brown dwarfs
+- **3× cited-seeds** | arXiv — | 2022 | Testing the Retrieval of Inner Disk Water Enrichment with Spitzer/IRS and JWST/MIRI
+- **3× cited-seeds** | arXiv 2211.16732 | 2022 | Determining Dust Properties in Protoplanetary Disks: SED-derived Masses and Settling with ALMA
+- **3× cited-seeds** | arXiv 2211.16531 | 2022 | A Localized Kinematic Structure Detected in Atomic Carbon Emission Spatially Coincident with a Proposed Protoplanet in the HD 163296 Disk
+- **3× cited-seeds** | arXiv 2210.16921 | 2022 | A Chemical Modeling Roadmap Linking Protoplanetary Disks and Exoplanet Atmospheres
+- **3× cited-seeds** | arXiv 2209.11775 | 2022 | Millimeter Dust Emission and Planetary Dynamics in the HD 106906 System
+- **3× cited-seeds** | arXiv 2207.08952 | 2022 | Stellar Energetic Particle Transport in the Turbulent and CME-disrupted Stellar Wind of AU Microscopii
+- **3× cited-seeds** | arXiv 2206.02636 | 2022 | The Mysterious Affair of the H2 in AU Mic
+- **3× cited-seeds** | arXiv 2203.05460 | 2022 | Stellar Obliquities in Exoplanetary Systems
+- **3× cited-seeds** | arXiv 2202.07949 | 2022 | Simulating the Space Weather in the AU Mic System: Stellar Winds and Extreme Coronal Mass Ejections
+- **3× cited-seeds** | arXiv 2212.12325 | 2022 | Chemical Modeling of Orion Nebula Cluster Disks: Evidence for Massive, Compact Gas Disks with Interstellar Gas-to-dust Ratios
+- **3× cited-seeds** | arXiv 2109.10422 | 2021 | Precise Masses and Orbits for Nine Radial-velocity Exoplanets
+- **3× cited-seeds** | arXiv 2104.10704 | 2021 | Rapid Formation of Jupiter and Wide-orbit Exoplanets in Disks with Pressure Bumps
+- **3× cited-seeds** | arXiv 2107.14341 | 2021 | Lessons learned from SPHERE for the astrometric strategy of the next generation of exoplanet imaging instruments
+- **3× cited-seeds** | arXiv 2107.03350 | 2021 | Ice Inheritance in Dynamical Disk Models
+- **3× cited-seeds** | arXiv 2104.08906 | 2021 | A major asymmetric ice trap in a planet-forming disk
+- **3× cited-seeds** | arXiv 2104.04296 | 2021 | Catalogue of exoplanets accessible in reflected starlight to the Nancy Grace Roman Space Telescope
+- **3× cited-seeds** | arXiv 2104.11210 | 2021 | First light of a holographic aperture mask: Observation at the Keck OSIRIS Imager
+- **3× cited-seeds** | arXiv 2107.06323 | 2021 | Observational Signatures of Planets in Protoplanetary Disks: Temperature Structures in Spiral Arms
+- **3× cited-seeds** | arXiv 2112.06153 | 2021 | Impact of local pressure enhancements on dust concentration in turbulent protoplanetary discs
+- **3× cited-seeds** | arXiv 2104.13941 | 2021 | True Masses of the Long-period Companions to HD 92987 and HD 221420 from Hipparcos–Gaia Astrometry
+- **3× cited-seeds** | arXiv 2106.02064 | 2021 | The dipper population of Taurus seen with K2
+- **3× cited-seeds** | arXiv 2108.11965 | 2021 | A Radiatively Driven Wind from the η Tel Debris Disk
+- **3× cited-seeds** | arXiv 2103.06045 | 2021 | Gravitoviscous Protoplanetary Disks with a Dust Component. V. The Dynamic Model for Freeze-out and Sublimation of Volatiles
+- **3× cited-seeds** | arXiv 2102.12537 | 2021 | Collision rates of planetesimals near mean-motion resonances
+- **3× cited-seeds** | arXiv 2105.02403 | 2021 | Effects of Dust Evolution on the Vertical Shear Instability in the Outer Regions of Protoplanetary Disks
+- **3× cited-seeds** | arXiv 2106.14409 | 2021 | Massive Compact Disks around FU Orionis–type Young Eruptive Stars Revealed by ALMA
+- **3× cited-seeds** | arXiv 2108.02552 | 2021 | The star-melt python package for emission-line analysis of YSOs
+- **3× cited-seeds** | arXiv 2110.15377 | 2021 | Carbon monoxide gas produced by a giant impact in the inner region of a young system
+- **3× cited-seeds** | arXiv 2105.02680 | 2021 | The Irradiation Instability of Protoplanetary Disks
+- **3× cited-seeds** | arXiv 2108.10729 | 2021 | The Polstar High Resolution Spectropolarimetry MIDEX Mission
+- **3× cited-seeds** | arXiv 2109.10822 | 2021 | Mapping the 3D Kinematical Structure of the Gas Disk of HD 169142
+- **3× cited-seeds** | arXiv 2103.07673 | 2021 | Photoevaporative Dispersal of Protoplanetary Disks around Evolving Intermediate-mass Stars
+- **3× cited-seeds** | arXiv 2104.05894 | 2021 | Bridging the Gap between Protoplanetary and Debris Disks: Separate Evolution of Millimeter and Micrometer-sized Dust
+- **3× cited-seeds** | arXiv 2106.01661 | 2021 | A MUSE view of the asymmetric jet from HD 163296
+- **3× cited-seeds** | arXiv 2105.13852 | 2021 | Thermal Wave Instability as an Origin of Gap and Ring Structures in Protoplanetary Disks
+- **3× cited-seeds** | arXiv 2103.04819 | 2021 | Self-scattering on large, porous grains in protoplanetary disks with dust settling
+- **3× cited-seeds** | arXiv 2111.08868 | 2021 | Eccentric Gap Induced by a Super-Jupiter-mass Planet
+- **3× cited-seeds** | arXiv 2109.06128 | 2021 | Modeling of CO Rovibrational Line Emission of HD 141569
+- **3× cited-seeds** | arXiv 2103.16213 | 2021 | HD 143006: circumbinary planet or misaligned disc?
+- **3× cited-seeds** | arXiv 2109.06263 | 2021 | Molecules with ALMA at Planet-forming Scales (MAPS). VIII. CO Gap in AS 209—Gas Depletion or Chemical Processing?
+- **3× cited-seeds** | arXiv 2109.03333 | 2021 | Wide Dust Gaps in Protoplanetary Disks Induced by Eccentric Planets: A Mass-eccentricity Degeneracy
+- **3× cited-seeds** | arXiv 2108.05321 | 2021 | Ross 19B: An Extremely Cold Companion Discovered via the Backyard Worlds: Planet 9 Citizen Science Project
+- **3× cited-seeds** | arXiv 2103.10465 | 2021 | A bright inner disk and structures in the transition disk around the very low-mass star CIDA 1
+- **3× cited-seeds** | arXiv 2103.01236 | 2021 | Survival of ALMA rings in the absence of pressure maxima
+- **3× cited-seeds** | arXiv 2101.10333 | 2021 | Radial Gradients in Dust-to-gas Ratio Lead to Preferred Region for Giant Planet Formation
+- **3× cited-seeds** | arXiv 2109.06286 | 2021 | Molecules with ALMA at Planet-forming Scales (MAPS). XII. Inferring the C/O and S/H Ratios in Protoplanetary Disks with Sulfur Molecules
+- **3× cited-seeds** | arXiv 2108.08637 | 2021 | The Water-ice Feature in Near-infrared Disk-scattered Light around HD 142527: Micron-sized Icy Grains Lifted up to the Disk Surface?
+- **3× cited-seeds** | arXiv 2109.06228 | 2021 | Molecules with ALMA at Planet-forming Scales. XX. The Massive Disk around GM Aurigae
+- **3× cited-seeds** | arXiv 2108.01787 | 2021 | The IGRINS YSO Survey. I. Stellar Parameters of Pre-main-sequence Stars in Taurus-Auriga
+- **3× cited-seeds** | arXiv 2107.06297 | 2021 | The 13CO-rich atmosphere of a young accreting super-Jupiter
+- **3× cited-seeds** | arXiv 2111.04721 | 2021 | How Binaries Accrete: Hydrodynamic Simulations with Passive Tracer Particles
+- **3× cited-seeds** | arXiv 2002.12375 | 2020 | Tycho: Realistically Simulating Exoplanets within Stellar Clusters. I. Improving the Monte Carlo Approach
+- **3× cited-seeds** | arXiv 2107.12556 | 2020 | The Keck Planet Imager and Characterizer: A dedicated single-mode fiber injection unit for high resolution exoplanet spectroscopy
+- **3× cited-seeds** | arXiv 2007.06912 | 2020 | Tidal disruption versus planetesimal collisions as possible origins for the dispersing dust cloud around Fomalhaut
+- **3× cited-seeds** | arXiv — | 2020 | A Search for Polarized Thermal Emission from Directly Imaged Exoplanets and Brown Dwarf Companions to Nearby Stars
+- **3× cited-seeds** | arXiv 2011.04703 | 2020 | The Demographics of Exoplanets
+- **3× cited-seeds** | arXiv — | 2020 | Adaptive optics with an infrared pyramid wavefront sensor at Keck
+- **3× cited-seeds** | arXiv 2006.10868 | 2020 | Weighing stars from birth to death: mass determination methods across the HRD
+- **3× cited-seeds** | arXiv 2002.04649 | 2020 | Effects of mirror seeing on high-contrast adaptive optics instruments
+- **3× cited-seeds** | arXiv 2008.10780 | 2020 | High-contrast Hα imaging with Subaru/SCExAO + VAMPIRES
+- **3× cited-seeds** | arXiv 2011.10002 | 2020 | Strong Hα emission in the young planetary mass companion 2MASS J0249−0557 c
+- **3× cited-seeds** | arXiv 2011.06215 | 2020 | Precise Dynamical Masses and Orbital Fits for β Pic b and β Pic c
+- **3× cited-seeds** | arXiv — | 2020 | Dynamical Mass Estimates of the β Pictoris Planetary System through Gaussian Process Stellar Activity Modeling
+- **3× cited-seeds** | arXiv 2010.14675 | 2020 | An Integrated Analysis with Predictions on the Architecture of the τ Ceti Planetary System, Including a Habitable Zone Planet
+- **3× cited-seeds** | arXiv 2009.09114 | 2020 | The Evolution of Disk Winds from a Combined Study of Optical and Infrared Forbidden Lines
+- **3× cited-seeds** | arXiv — | 2020 | Prediction of the planet yield of the MaxProtoPlanetS high-contrast survey for H-alpha protoplanets with MagAO-X based on first light contrasts
+- **3× cited-seeds** | arXiv 2004.00848 | 2020 | Probing the magnetospheric accretion region of the young pre-transitional disk system DoAr 44 using VLTI/GRAVITY
+- **3× cited-seeds** | arXiv 2012.05927 | 2020 | The TW Hya Rosetta Stone Project. III. Resolving the Gaseous Thermal Profile of the Disk
+- **3× cited-seeds** | arXiv 2011.07073 | 2020 | The TW Hya Rosetta Stone Project. II. Spatially Resolved Emission of Formaldehyde Hints at Low-temperature Gas-phase Formation
+- **3× cited-seeds** | arXiv 2010.11867 | 2020 | The Nature and Origins of Sub‐Neptune Size Planets
+- **3× cited-seeds** | arXiv 2004.10094 | 2020 | TW Hya: an old protoplanetary disc revived by its planet
+- **3× cited-seeds** | arXiv 2002.08522 | 2020 | Rapid Evolution of Volatile CO from the Protostellar Disk Stage to the Protoplanetary Disk Stage
+- **3× cited-seeds** | arXiv — | 2020 | Robustness to bad frames in angular differential imaging: a local weighting approach
+- **3× cited-seeds** | arXiv 2012.09217 | 2020 | Modeling the nonaxisymmetric structure in the HD 163296 disk with planet-disk interaction
+- **3× cited-seeds** | arXiv 2006.02812 | 2020 | Dust masses of young disks: constraining the initial solid reservoir for planet formation
+- **3× cited-seeds** | arXiv 2011.03980 | 2020 | Characterization of very wide companion candidates to young stars with planets and disks
+- **3× cited-seeds** | arXiv — | 2020 | METIS high-contrast imaging: design and expected performance
+- **3× cited-seeds** | arXiv 2007.15529 | 2020 | Exoplanet Sciences with Nulling Interferometers and a Single-mode Fiber-fed Spectrograph
+- **3× cited-seeds** | arXiv 2012.07667 | 2020 | ALMA chemical survey of disk-outflow sources in Taurus (ALMA-DOT)
+- **3× cited-seeds** | arXiv 2012.09879 | 2020 | Double trouble: Gaia reveals (proto)planetary systems that may experience more than one dense star-forming environment
+- **3× cited-seeds** | arXiv — | 2020 | Effect of luminosity outbursts on protoplanetary disk dynamics
+- **3× cited-seeds** | arXiv 2008.08106 | 2020 | Temperature Structures of Embedded Disks: Young Disks in Taurus Are Warm
+- **3× cited-seeds** | arXiv 2005.11974 | 2020 | Gas and Dust Dynamics in Starlight-heated Protoplanetary Disks
+- **3× cited-seeds** | arXiv 2006.01194 | 2020 | Ring formation and dust dynamics in wind-driven protoplanetary discs: global simulations
+- **3× cited-seeds** | arXiv 2004.13551 | 2020 | Protoplanetary disk masses in NGC 2024: Evidence for two populations
+- **3× cited-seeds** | arXiv 2101.04129 | 2020 | Do we need non-ideal magnetohydrodynamic to model protostellar discs?
+- **3× cited-seeds** | arXiv 2003.01148 | 2020 | A Ringed Pole-on Outflow from DO Tauri Revealed by ALMA
+- **3× cited-seeds** | arXiv 2010.00012 | 2020 | An ALMA Survey of λ Orionis Disks: From Supernovae to Planet Formation
+- **3× cited-seeds** | arXiv 2003.09353 | 2020 | Scattering-induced Intensity Reduction: Large Mass Content with Small Grains in the Inner Region of the TW Hya disk
+- **3× cited-seeds** | arXiv 2008.09826 | 2020 | The observational impact of dust trapping in self-gravitating discs
+- **3× cited-seeds** | arXiv 2001.05570 | 2020 | A survey for variable young stars with small telescopes: II – mapping a protoplanetary disc with stable structures at 0.15 au
+- **3× cited-seeds** | arXiv 2008.05941 | 2020 | Interpreting high spatial resolution line observations of planet-forming disks with gaps and rings: the case of HD 163296
+- **3× cited-seeds** | arXiv 2011.13773 | 2020 | Spatial distribution of the aromatic and aliphatic carbonaceous nanograin features in the protoplanetary disk around HD 100546
+- **3× cited-seeds** | arXiv 2012.11666 | 2020 | CHARA/MIRC-X: a high-sensitive six telescope interferometric imager concept, commissioning and early science
+- **3× cited-seeds** | arXiv 2011.09178 | 2020 | Growing and trapping pebbles with fragile collisions of particles in protoplanetary disks
+- **3× cited-seeds** | arXiv 2010.08000 | 2020 | Chemical Evolution in a Protoplanetary Disk within Planet Carved Gaps and Dust Rings
+- **3× cited-seeds** | arXiv 2007.04348 | 2020 | ALMA Observations of Young Eruptive Stars: Continuum Disk Sizes and Molecular Outflows
+- **3× cited-seeds** | arXiv 2003.03116 | 2020 | Linking studies of tiny meteoroids, zodiacal dust, cometary dust and circumstellar disks
+- **3× cited-seeds** | arXiv 2012.01560 | 2020 | NPF update: light-weight mirror development in Chile
+- **3× cited-seeds** | arXiv 2006.07127 | 2020 | Setting the Stage: Planet Formation and Volatile Delivery
+- **3× cited-seeds** | arXiv 2006.12526 | 2020 | A 3 mm Chemical Exploration of Small Organics in Class I YSOs
+- **3× cited-seeds** | arXiv 2004.02918 | 2020 | Dust clearing by radial drift in evolving protoplanetary discs
+- **3× cited-seeds** | arXiv — | 2020 | Star and planet formation with the new generation VLTI and CHARA beam combiners
+- **3× cited-seeds** | arXiv 1901.07959 | 2019 | Photoevaporation of protoplanetary disks by Far-UV photons arising from neighbouring massive stars: observation of proplyds and modelling
+- **3× cited-seeds** | arXiv 1902.10220 | 2019 | A Near-coplanar Stellar Flyby of the Planet Host Star HD 106906
+- **3× cited-seeds** | arXiv 1903.05317 | 2019 | Multiple Populations of Extrasolar Gas Giants
+- **3× cited-seeds** | arXiv 1909.11664 | 2019 | Developing linear dark-field control for exoplanet direct imaging in the laboratory and on ground-based telescopes
+- **3× cited-seeds** | arXiv 1902.11204 | 2019 | Consistent dust and gas models for protoplanetary disks
+- **3× cited-seeds** | arXiv 1906.06910 | 2019 | SPHERE view of the jet and the envelope of RY Tauri
+- **3× cited-seeds** | arXiv 1904.05251 | 2019 | Revealing dust segregation in protoplanetary discs with the help of multifrequency spectral index maps
+- **3× cited-seeds** | arXiv 1908.03487 | 2019 | A study of accretion and disk diagnostics in the NGC 2264 cluster
+- **3× cited-seeds** | arXiv 1907.02705 | 2019 | Polarization reversal of scattered thermal dust emission in protoplanetary disks at submillimetre wavelengths
+- **3× cited-seeds** | arXiv 1906.05256 | 2019 | Linear analysis of the non-axisymmetric secular gravitational instability
+- **3× cited-seeds** | arXiv 1904.09315 | 2019 | A Survey of C2H, HCN, and C18O in Protoplanetary Disks
+- **3× cited-seeds** | arXiv 1911.11131 | 2019 | X-Ray Emission and Disk Irradiation of HL Tau and HD 100546
+- **3× cited-seeds** | arXiv 1908.05977 | 2019 | Nulling at short wavelengths: theoretical performance constraints and a demonstration of faint companion detection inside the diffraction limit with a rotating-baseline interferometer
+- **3× cited-seeds** | arXiv 1905.03563 | 2019 | Observability of forming planets and their circumplanetary discs II. – SEDs and near-infrared fluxes
+- **3× cited-seeds** | arXiv 1910.08560 | 2019 | The impact of planet wakes on the location and shape of the water ice line in a protoplanetary disk
+- **3× cited-seeds** | arXiv 1911.00297 | 2019 | A Swift view of X-ray and UV radiation in the planet-forming T Tauri system PDS 70
+- **3× cited-seeds** | arXiv 1905.06370 | 2019 | Evidence for a Circumplanetary Disk around Protoplanet PDS 70 b
+- **3× cited-seeds** | arXiv — | 2019 | MEMS Deformable Mirrors for Space-Based High-Contrast Imaging
+- **3× cited-seeds** | arXiv — | 2019 | Terran World Spectral Simulator
+- **3× cited-seeds** | arXiv 1912.06213 | 2019 | Origins Space Telescope Mission Concept Study Report
+- **3× cited-seeds** | arXiv 1909.04674 | 2019 | The DSHARP Rings: Evidence of Ongoing Planetesimal Formation?
+- **3× cited-seeds** | arXiv 1909.02720 | 2019 | Complex Magnetospheric Accretion Flows in the Low Accretor CVSO 1335
+- **3× cited-seeds** | arXiv 1909.01661 | 2019 | Predicting the Observational Signature of Migrating Neptune-sized Planets in Low-viscosity Disks
+- **3× cited-seeds** | arXiv 1911.10253 | 2019 | Variable Warm Dust around the Herbig Ae Star HD 169142: Birth of a Ring?
+- **3× cited-seeds** | arXiv 1905.06266 | 2019 | Dust Polarization in Four Protoplanetary Disks at 3 mm: Further Evidence of Multiple Origins
+- **3× cited-seeds** | arXiv 1910.00329 | 2019 | Towards the analysis of JWST exoplanet spectra: the effective temperature in the context of direct imaging
+- **3× cited-seeds** | arXiv 1911.04938 | 2019 | Time-resolved photometry of the young dipper RX J1604.3-2130A
+- **3× cited-seeds** | arXiv 1911.04833 | 2019 | Late encounter events as source of disks and spiral structures
+- **3× cited-seeds** | arXiv 1909.04395 | 2019 | On the origin of wide-orbit ALMA planets: giant protoplanets disrupted by their cores
+- **3× cited-seeds** | arXiv 1907.08471 | 2019 | Effect of nucleation on icy pebble growth in protoplanetary discs
+- **3× cited-seeds** | arXiv 1905.01285 | 2019 | Effects of Ringed Structures and Dust Size Growth on Millimeter Observations of Protoplanetary Disks
+- **3× cited-seeds** | arXiv 1904.07338 | 2019 | Excitation of Planetary Obliquities through Planet–Disk Interactions
+- **3× cited-seeds** | arXiv 1903.05117 | 2019 | The newborn planet population emerging from ring-like structures in discs
+- **3× cited-seeds** | arXiv 1901.02689 | 2019 | Upper limits on CH3OH in the HD 163296 protoplanetary disk
+- **3× cited-seeds** | arXiv — | 2019 | Effects of dust evolution on protoplanetary disks in the mid-infrared
+- **3× cited-seeds** | arXiv 1911.01530 | 2019 | The effects of disc self-gravity and radiative cooling on the formation of gaps and spirals by young planets
+- **3× cited-seeds** | arXiv 1905.12066 | 2019 | Emerging trends in metallicity and lithium properties of debris disc stars
+- **3× cited-seeds** | arXiv 1909.08485 | 2019 | Constraining disk evolution prescriptions of planet population synthesis models with observed disk masses and accretion rates
+- **3× cited-seeds** | arXiv 1903.04451 | 2019 | A Hypothesis for the Rapid Formation of Planets
+- **3× cited-seeds** | arXiv 1909.06387 | 2019 | Hidden Planets: Implications from ’Oumuamua and DSHARP
+- **3× cited-seeds** | arXiv 1907.03846 | 2019 | Observational constraints on dust disk sizes in tidally truncated protoplanetary disks in multiple systems in the Taurus region
+- **3× cited-seeds** | arXiv 1809.09185 | 2018 | Submillimetre dust polarization and opacity in the HD163296 protoplanetary ring system
+- **3× cited-seeds** | arXiv 1808.05618 | 2018 | Protoplanetary Disk Sizes and Angular Momentum Transport
+- **3× cited-seeds** | arXiv 1809.07304 | 2018 | Evolution of Circumbinary Protoplanetary Disks with Photoevaporative Winds Driven by External Far-ultraviolet Radiation
+- **3× cited-seeds** | arXiv 1806.01957 | 2018 | The Robo-AO-2 facility for rapid visible/near-infrared AO imaging and the demonstration of hybrid techniques
+- **3× cited-seeds** | arXiv — | 2018 | The WFIRST coronagraph instrument: a major step in the exploration of sun-like planetary systems via direct imaging
+- **3× cited-seeds** | arXiv — | 2018 | Gravitational fragmentation and formation of giant protoplanets on orbits of tens of AU
+- **3× cited-seeds** | arXiv — | 2018 | GLINT South: a photonic nulling interferometer pathfinder at the Anglo-Australian Telescope for high contrast imaging of substellar companions
+- **3× cited-seeds** | arXiv 1806.07675 | 2018 | Gravitational fragmentation and formation of giant protoplanets on orbits of tens of au
+- **3× cited-seeds** | arXiv 1810.04684 | 2018 | Methane in Analogs of Young Directly Imaged Exoplanets
+- **3× cited-seeds** | arXiv 1808.06257 | 2018 | The mass of the young planet Beta Pictoris b through the astrometric motion of its host star
+- **3× cited-seeds** | arXiv 1808.02490 | 2018 | Predictions of the WFIRST Microlensing Survey. I. Bound Planet Detection Rates
+- **3× cited-seeds** | arXiv 1806.10067 | 2018 | SAFARI – I. A SPHERE discovery of a super metal-rich M-dwarf companion to the star HD 86006
+- **3× cited-seeds** | arXiv 1805.06941 | 2018 | Scientific discovery with the James Webb Space Telescope
+- **3× cited-seeds** | arXiv 1804.08907 | 2018 | Exoplanets: Past, Present, and Future
+- **3× cited-seeds** | arXiv 1804.10578 | 2018 | Planetary Migration in Protoplanetary Disks.
+- **3× cited-seeds** | arXiv 1802.06252 | 2018 | Kernel-nulling for a robust direct interferometric detection of extrasolar planets
+- **3× cited-seeds** | arXiv 1802.00493 | 2018 | 2MASS J13243553+6358281 Is an Early T-type Planetary-mass Object in the AB Doradus Moving Group
+- **3× cited-seeds** | arXiv 1801.02133 | 2018 | Bayesian assessment of moving group membership: importance of models and prior knowledge
+- **3× cited-seeds** | arXiv 1811.08635 | 2018 | Dynamics of wind and the dusty environments in the accreting T Tauri stars RY Tauri and SU Aurigae
+- **3× cited-seeds** | arXiv 1804.06479 | 2018 | ALMA Resolves C i Emission from the β Pictoris Debris Disk
+- **3× cited-seeds** | arXiv 1808.02571 | 2018 | On-sky operations with the ALES integral field spectrograph
+- **3× cited-seeds** | arXiv 1811.03071 | 2018 | The ALMA Lupus protoplanetary disk survey: evidence for compact gas disks and molecular rings from CN
+- **3× cited-seeds** | arXiv 1809.00482 | 2018 | Probing the protoplanetary disk gas surface density distribution with 13CO emission
+- **3× cited-seeds** | arXiv 1804.06377 | 2018 | Herschel PACS Observations of 4–10 Myr Old Classical T Tauri Stars in Orion OB1
+- **3× cited-seeds** | arXiv — | 2018 | Direct Imaging as a Detection Technique for Exoplanets
+- **3× cited-seeds** | arXiv 1811.04810 | 2018 | The magnetic propeller accretion regime of LkCa 15
+- **3× cited-seeds** | arXiv 1807.07467 | 2018 | Hi-5: a potential high-contrast thermal near-infrared imager for the VLTI
+- **3× cited-seeds** | arXiv 1805.10293 | 2018 | Kinematic Evidence for an Embedded Protoplanet in a Circumstellar Disk
+- **3× cited-seeds** | arXiv 1806.00487 | 2018 | A balanced budget view on forming giant planets by pebble accretion
+- **3× cited-seeds** | arXiv 1803.04987 | 2018 | Detecting Weak Spectral Lines in Interferometric Data through Matched Filtering
+- **3× cited-seeds** | arXiv 1808.10438 | 2018 | The VLA Nascent Disk and Multiplicity Survey of Perseus Protostars (VANDAM). V. 18 Candidate Disks around Class 0 and I Protostars in the Perseus Molecular Cloud
+- **3× cited-seeds** | arXiv 1804.10206 | 2018 | MESAS: Measuring the Emission of Stellar Atmospheres at Submillimeter/millimeter Wavelengths
+- **3× cited-seeds** | arXiv 1801.07707 | 2018 | Pebble dynamics and accretion on to rocky planets – I. Adiabatic and convective models
+- **3× cited-seeds** | arXiv 1811.11758 | 2018 | Eccentric Modes in Disks with Pressure and Self-gravity
+- **3× cited-seeds** | arXiv 1802.05275 | 2018 | A UV-to-NIR Study of Molecular Gas in the Dust Cavity around RY Lupi
+- **3× cited-seeds** | arXiv 1801.01223 | 2018 | Investigating the Early Evolution of Planetary Systems with ALMA and the Next Generation Very Large Array
+- **3× cited-seeds** | arXiv 1807.11536 | 2018 | Using warm dust to constrain unseen planets
+- **3× cited-seeds** | arXiv 1806.06158 | 2018 | On-sky compensation of non-common path aberrations with the ZELDA wavefront sensor in VLT/SPHERE
+- **3× cited-seeds** | arXiv 1811.09756 | 2018 | Dust Pileup at the Dead-zone Inner Edge and Implications for the Disk Shadow
+- **3× cited-seeds** | arXiv 1810.02370 | 2018 | A Lagrangian model for dust evolution in protoplanetary disks: formation of wet and dry planetesimals at different stellar masses
+- **3× cited-seeds** | arXiv 1805.10290 | 2018 | A Kinematical Detection of Two Embedded Jupiter-mass Planets in HD 163296
+- **3× cited-seeds** | arXiv 1805.00458 | 2018 | Dust settling and rings in the outer regions of protoplanetary discs subject to ambipolar diffusion
+- **3× cited-seeds** | arXiv 1804.07343 | 2018 | A Cavity of Large Grains in the Disk around the Group II Herbig Ae/Be Star HD 142666
+- **3× cited-seeds** | arXiv 1804.01093 | 2018 | A Subgrid Model for the Growth of Dust Particles in Hydrodynamical Simulations of Protoplanetary Disks
+- **3× cited-seeds** | arXiv 1801.07971 | 2018 | Characterizing the Variable Dust Permeability of Planet-induced Gaps
+- **3× cited-seeds** | arXiv 1804.06414 | 2018 | Stellar photospheric abundances as a probe of discs and planets
+- **3× cited-seeds** | arXiv 1812.02027 | 2018 | Evolutionary models of cold and low-mass planets: cooling curves, magnitudes, and detectability
+- **3× cited-seeds** | arXiv 1810.02234 | 2018 | The formation of rings and gaps in wind-launching non-ideal MHD discs: three-dimensional simulations
+- **3× cited-seeds** | arXiv 1705.01917 | 2017 | Millimeter observations of the disk around GW Orionis
+- **3× cited-seeds** | arXiv — | 2017 | Companions and Environments of Low-Mass Stars: From Star-Forming Regions to the Field
+- **3× cited-seeds** | arXiv 1711.02940 | 2017 | Unstable low-mass planetary systems as drivers of white dwarf pollution
+- **3× cited-seeds** | arXiv 1707.08127 | 2017 | Formation of Wide-orbit Gas Giants Near the Stability Limit in Multi-stellar Systems
+- **3× cited-seeds** | arXiv 1705.04699 | 2017 | High-contrast imaging at small separations: impact of the optical configuration of two deformable mirrors on dark holes
+- **3× cited-seeds** | arXiv 1703.03279 | 2017 | A Test of the Neutron Star Hypothesis for Fomalhaut b
+- **3× cited-seeds** | arXiv 1712.03241 | 2017 | KELT-21b: A Hot Jupiter Transiting the Rapidly Rotating Metal-poor Late-A Primary of a Likely Hierarchical Triple System
+- **3× cited-seeds** | arXiv 1712.02841 | 2017 | Supervised detection of exoplanets in high-contrast imaging sequences
+- **3× cited-seeds** | arXiv 1707.07148 | 2017 | Planet Formation and Disk-Planet Interactions
+- **3× cited-seeds** | arXiv 1710.11274 | 2017 | The Prototypical Young L/T-Transition Dwarf HD 203030B Likely Has Planetary Mass
+- **3× cited-seeds** | arXiv 1707.01096 | 2017 | Changes in orientation and shape of protoplanetary discs moving through an ambient medium
+- **3× cited-seeds** | arXiv 1708.03238 | 2017 | The properties of the inner disk around HL Tau: Multi-wavelength modeling of the dust emission
+- **3× cited-seeds** | arXiv 1706.04556 | 2017 | All-sky Co-moving Recovery Of Nearby Young Members (ACRONYM). II. The β Pictoris Moving Group
+- **3× cited-seeds** | arXiv 1707.03449 | 2017 | Signatures of Hot Molecular Hydrogen Absorption from Protoplanetary Disks. I. Non-thermal Populations
+- **3× cited-seeds** | arXiv 1711.09040 | 2017 | HD 169142 in the eyes of ZIMPOL/SPHERE
+- **3× cited-seeds** | arXiv 1710.11393 | 2017 | Discovery of a point-like source and a third spiral arm in the transition disk around the Herbig Ae star MWC 758
+- **3× cited-seeds** | arXiv 1710.01734 | 2017 | Data Reduction and Image Reconstruction Techniques for Non-redundant Masking
+- **3× cited-seeds** | arXiv 1701.06758 | 2017 | Residual Gas and Dust around Transition Objects and Weak T Tauri Stars
+- **3× cited-seeds** | arXiv 1701.06706 | 2017 | Detailed modeling of dust distribution in the disk of HD 142527
+- **3× cited-seeds** | arXiv 1709.01734 | 2017 | Investigation of the inner structures around HD 169142 with VLT/SPHERE
+- **3× cited-seeds** | arXiv 1706.03708 | 2017 | ALMA Observations of the Young Substellar Binary System 2M1207
+- **3× cited-seeds** | arXiv 1705.00799 | 2017 | Survey of Cold Water Lines in Protoplanetary Disks: Indications of Systematic Volatile Depletion
+- **3× cited-seeds** | arXiv — | 2017 | Zooming in on the Chemistry of Protoplanetary Disks with ALMA
+- **3× cited-seeds** | arXiv 1708.09345 | 2017 | Gas vs dust radial extent in disks: the importance of their thermal interplay
+- **3× cited-seeds** | arXiv 1711.08166 | 2017 | Planet-driven Spiral Arms in Protoplanetary Disks. II. Implications
+- **3× cited-seeds** | arXiv 1711.03559 | 2017 | Spiral arms in thermally stratified protoplanetary discs
+- **3× cited-seeds** | arXiv 1706.00254 | 2017 | Gravitational instabilities in a protosolar-like disc – II. Continuum emission and mass estimates
+- **3× cited-seeds** | arXiv 1704.01844 | 2017 | Connecting the shadows: probing inner disk geometries using shadows in transitional disks
+- **3× cited-seeds** | arXiv 1706.08265 | 2017 | Celebrating 30 years of science from the James Clerk Maxwell Telescope
+- **3× cited-seeds** | arXiv 1706.06678 | 2017 | A Resolved and Asymmetric Ring of PAHs within the Young Circumstellar Disk of IRS 48
+- **3× cited-seeds** | arXiv 1712.03989 | 2017 | Efficiency of radial transport of ices in protoplanetary disks probed with infrared observations : the case of CO2
+- **3× cited-seeds** | arXiv 1706.07131 | 2017 | Gap and rings carved by vortices in protoplanetary dust
+- **3× cited-seeds** | arXiv 1711.07489 | 2017 | ALMA and VLA observations of the HD 141569 system
+- **3× cited-seeds** | arXiv 1711.00023 | 2017 | The protoplanetary system HD 100546 in H α polarized light from SPHERE/ZIMPOL: A bar-like structure across the disk gap?
+- **3× cited-seeds** | arXiv 1710.03324 | 2017 | Dust Concentration and Emission in Protoplanetary Disks Vortices
+- **3× cited-seeds** | arXiv 1710.00703 | 2017 | CO emission tracing a warp or radial flow within $\lesssim$ 100 au in the HD 100546 protoplanetary disk
+- **3× cited-seeds** | arXiv 1712.05992 | 2017 | Sulphur monoxide exposes a potential molecular disk wind from the planet-hosting disk around HD100546
+- **3× cited-seeds** | arXiv 1709.06514 | 2017 | A study of dust properties in the inner sub-au region of the Herbig Ae star HD 169142 with VLTI/PIONIER
+- **3× cited-seeds** | arXiv 1712.04785 | 2017 | Characterizing TW Hydra
+- **3× cited-seeds** | arXiv 1710.06450 | 2017 | Direct mapping of the temperature and velocity gradients in discs Imaging the vertical CO snow line around IM Lupi
+- **3× cited-seeds** | arXiv 1706.09732 | 2017 | Magnetic fields in circumstellar disks: The potential of Zeeman observations
+- **3× cited-seeds** | arXiv 1708.05747 | 2017 | High signal-to-noise spectral characterization of the planetary-mass object HD 106906 b
+- **3× cited-seeds** | arXiv 1706.05032 | 2017 | An Incipient Debris Disk in the Chamaeleon I Cloud
+- **3× cited-seeds** | arXiv 1706.08975 | 2017 | Effect of Dust Radial Drift on Viscous Evolution of Gaseous Disk
+- **3× cited-seeds** | arXiv — | 2017 | The magnetic field inside a protoplanetary disc gap opened by planets of different masses
+- **3× cited-seeds** | arXiv 1705.07528 | 2017 | The role of gap edge instabilities in setting the depth of planet gaps in protoplanetary discs
+- **3× cited-seeds** | arXiv 1705.10346 | 2017 | Periodic eclipses of the young star PDS 110 discovered with WASP and KELT photometry
+- **3× cited-seeds** | arXiv 1705.04746 | 2017 | Mass inventory of the giant-planet formation zone in a solar nebula analogue
+- **3× cited-seeds** | arXiv 1706.09565 | 2017 | Magnetically Induced Disk Winds and Transport in the HL Tau Disk
+- **3× cited-seeds** | arXiv 1705.01560 | 2017 | The Northern arc of ε Eridani’s Debris Ring as seen by ALMA
+- **3× cited-seeds** | arXiv 1712.06217 | 2017 | The formation of rings and gaps in magnetically coupled disc-wind systems: ambipolar diffusion and reconnection
+- **3× cited-seeds** | arXiv 1707.00729 | 2017 | Global Simulations of the Inner Regions of Protoplanetary Disks with Comprehensive Disk Microphysics
+- **3× cited-seeds** | arXiv — | 2016 | Ringed Structures of the HD 163296 Protoplanetary Disk Revealed by ALMA.
+- **3× cited-seeds** | arXiv 1610.01780 | 2016 | STACKING SPECTRA IN PROTOPLANETARY DISKS: DETECTING INTENSITY PROFILES FROM HIDDEN MOLECULAR LINES IN HD 163296
+- **3× cited-seeds** | arXiv 1603.03546 | 2016 | A proposed new diagnostic for Herbig disc geometry: FWHM versus J of CO ro-vibrational lines
+- **3× cited-seeds** | arXiv 1607.06400 | 2016 | Apodized vortex coronagraph designs for segmented aperture telescopes
+- **3× cited-seeds** | arXiv 1608.04438 | 2016 | Chalcogenide glass planar MIR couplers for future chip based Bracewell interferometers
+- **3× cited-seeds** | arXiv 1602.04683 | 2016 | The orbit of beta Pictoris b as a transiting planet
+- **3× cited-seeds** | arXiv 1610.03216 | 2016 | HELIOS–RETRIEVAL: An Open-source, Nested Sampling Atmospheric Retrieval Code; Application to the HR 8799 Exoplanets and Inferred Constraints for Planet Formation
+- **3× cited-seeds** | arXiv 1609.08652 | 2016 | Thermodynamics of giant planet formation: shocking hot surfaces on circumplanetary discs
+- **3× cited-seeds** | arXiv 1609.06681 | 2016 | SPHERE IRDIS and IFS astrometric strategy and calibration
+- **3× cited-seeds** | arXiv 1608.02945 | 2016 | A PLANET IN AN 840 DAY ORBIT AROUND A KEPLER MAIN-SEQUENCE A STAR FOUND FROM PHASE MODULATION OF ITS PULSATIONS
+- **3× cited-seeds** | arXiv 1607.04282 | 2016 | The unseen planets of double belt debris disc systems
+- **3× cited-seeds** | arXiv 1606.05187 | 2016 | Origin and evolution of two-component debris discs and an application to the q1 Eridani system
+- **3× cited-seeds** | arXiv 1601.03377 | 2016 | ADAPTIVE OPTICS IMAGING OF VHS 1256–1257: A LOW MASS COMPANION TO A BROWN DWARF BINARY SYSTEM
+- **3× cited-seeds** | arXiv — | 2016 | Suppressing a sea of starlight : enabling technology for the direct imaging of exoplanets
+- **3× cited-seeds** | arXiv 1612.09243 | 2016 | Properties of interstellar wind leading to shape morphology of the dust surrounding HD 61005
+- **3× cited-seeds** | arXiv 1604.06756 | 2016 | CONFRONTING STANDARD MODELS OF PROTO-PLANETARY DISKS WITH NEW MID-INFRARED SIZES FROM THE KECK INTERFEROMETER
+- **3× cited-seeds** | arXiv 1604.00859 | 2016 | HIGH CONTRAST IMAGING WITH SPITZER: CONSTRAINING THE FREQUENCY OF GIANT PLANETS OUT TO 1000 au SEPARATIONS
+- **3× cited-seeds** | arXiv 1609.04870 | 2016 | PHASE QUANTIZATION STUDY OF SPATIAL LIGHT MODULATOR FOR EXTREME HIGH-CONTRAST IMAGING
+- **3× cited-seeds** | arXiv 1608.00918 | 2016 | The mass of planet GJ 676A b from ground-based astrometry - A planetary system with two mature gas giants suitable for direct imaging
+- **3× cited-seeds** | arXiv 1607.02525 | 2016 | Direct imaging discovery of a Jovian exoplanet within a triple-star system
+- **3× cited-seeds** | arXiv 1604.07558 | 2016 | Formation, Orbital and Internal Evolutions of Young Planetary Systems
+- **3× cited-seeds** | arXiv 1601.02272 | 2016 | Numerical predictions for planets in the debris discs of HD 202628 and HD 207129
+- **3× cited-seeds** | arXiv 1606.06448 | 2016 | Brown dwarf disks with ALMA: evidence for truncated dust disks in Ophiuchus (Corrigendum)
+- **3× cited-seeds** | arXiv 1608.03147 | 2016 | Spirals in protoplanetary disks from photon travel time
+- **3× cited-seeds** | arXiv 1611.09658 | 2016 | The Gas Disk: Evolution and Chemistry
+- **3× cited-seeds** | arXiv 1610.01606 | 2016 | Slowly-growing gap-opening planets trigger weaker vortices
+- **3× cited-seeds** | arXiv 1609.02979 | 2016 | The frequency of binary star interlopers amongst transitional discs
+- **3× cited-seeds** | arXiv 1609.02559 | 2016 | Imaging protoplanets: observing transition disks with non-redundant masking
+- **3× cited-seeds** | arXiv 1607.05449 | 2016 | The circumstellar disc of FS Tau B - a self-consistent model based on observations in the mid-infrared with NACO
+- **3× cited-seeds** | arXiv 1603.01280 | 2016 | Gravitational Instabilities in Circumstellar Disks
+- **3× cited-seeds** | arXiv 1602.03183 | 2016 | Constraining the properties of transitional discs in Chamaeleon I with Herschel
+- **3× cited-seeds** | arXiv 1601.04976 | 2016 | PLANETARY SIGNATURES IN THE SAO 206462 (HD 135344B) DISK: A SPIRAL ARM PASSING THROUGH VORTEX?
+- **3× cited-seeds** | arXiv 1609.02859 | 2016 | Spectral energy distribution simulations of a possible ring structure around the young, red brown dwarf G 196-3 B
+- **3× cited-seeds** | arXiv 1610.09134 | 2016 | NEAR-INFRARED IMAGING POLARIMETRY OF INNER REGION OF GG TAU A DISK
+- **3× cited-seeds** | arXiv 1606.02299 | 2016 | GAP OPENING IN 3D: SINGLE-PLANET GAPS
+- **3× cited-seeds** | arXiv 1606.06492 | 2016 | FIRST DETECTION OF GAS-PHASE METHANOL IN A PROTOPLANETARY DISK
+- **3× cited-seeds** | arXiv 1612.00883 | 2016 | Global simulations of protoplanetary disks with net magnetic flux: I. Non-ideal MHD case
+- **3× cited-seeds** | arXiv 1603.02475 | 2016 | Self-organisation in protoplanetary disks: global, non-stratified Hall-MHD simulations
+- **3× cited-seeds** | arXiv 1611.02718 | 2016 | Radial drift of dust in protoplanetary discs: the evolution of ice lines and dead zones
+- **3× cited-seeds** | arXiv 1605.06516 | 2016 | EVIDENCE FOR A CO DESORPTION FRONT IN THE OUTER AS 209 DISK
+- **3× cited-seeds** | arXiv 1607.02513 | 2016 | ALMA OBSERVATIONS OF THE DEBRIS DISK OF SOLAR ANALOG τ CETI
+- **3× cited-seeds** | arXiv 1604.06092 | 2016 | Exoplanetary Atmospheres—Chemistry, Formation Conditions, and Habitability
+- **3× cited-seeds** | arXiv 1601.05121 | 2016 | Shaped pupil Lyot coronagraphs: high-contrast solutions for restricted focal planes
+- **3× cited-seeds** | arXiv 1610.01977 | 2016 | Long-lived Dust Asymmetries at Dead Zone Edges in Protoplanetary Disks
+- **3× cited-seeds** | arXiv 1603.05179 | 2016 | Gaps, rings, and non-axisymmetric structures in protoplanetary disks - Emission from large grains
+- **3× cited-seeds** | arXiv 1603.03853 | 2016 | Mass constraint for a planet in a protoplanetary disk from the gap width
+- **3× cited-seeds** | arXiv 1609.06718 | 2016 | Exocometary gas structure, origin and physical properties around β Pictoris through ALMA CO multitransition observations
+- **3× cited-seeds** | arXiv 1605.07742 | 2016 | Carrying a Torch for Dust in Binary Star Systems
+- **3× cited-seeds** | arXiv 1610.04235 | 2016 | The coronagraphic Modal Wavefront Sensor: a hybrid focal-plane sensor for the high-contrast imaging of circumstellar environments
+- **3× cited-seeds** | arXiv 1609.08691 | 2016 | GPI observational calibrations XIV: polarimetric contrasts and new data reduction techniques
+- **3× cited-seeds** | arXiv 1612.03091 | 2016 | CHARACTERIZATION OF THE INNER DISK AROUND HD 141569 A FROM KECK/NIRC2 L-BAND VORTEX CORONAGRAPHY
+- **3× cited-seeds** | arXiv 1511.03431 | 2015 | Consistent dust and gas models for protoplanetary disks I. Disk shape, dust settling, opacities, and PAHs
+- **3× cited-seeds** | arXiv 1512.05371 | 2015 | DYNAMICAL MASSES OF YOUNG STARS. I. DISCORDANT MODEL AGES OF UPPER SCORPIUS
+- **3× cited-seeds** | arXiv 1504.05702 | 2015 | A debris disc under the influence of a wide planetary-mass companion: the system of HD 106906
+- **3× cited-seeds** | arXiv 1504.05201 | 2015 | A New Method for Characterizing Very Low-Mass Companions with Low-Resolution Near-Infrared Spectroscopy
+- **3× cited-seeds** | arXiv 1502.01834 | 2015 | Constraining the orbits of sub-stellar companions imaged over short orbital arcs
+- **3× cited-seeds** | arXiv 1501.07083 | 2015 | The companion candidate near Fomalhaut – a background neutron star?
+- **3× cited-seeds** | arXiv — | 2015 | Planet identification for speckle-limited coronagraphic images
+- **3× cited-seeds** | arXiv 1512.02706 | 2015 | DISCOVERY OF ROTATIONAL MODULATIONS IN THE PLANETARY-MASS COMPANION 2M1207b: INTERMEDIATE ROTATION PERIOD AND HETEROGENEOUS CLOUDS IN A LOW GRAVITY ATMOSPHERE
+- **3× cited-seeds** | arXiv 1510.03430 | 2015 | THE TRANSIT TRANSMISSION SPECTRUM OF A COLD GAS GIANT PLANET
+- **3× cited-seeds** | arXiv 1509.04589 | 2015 | An ALMA Survey for Disks Orbiting Low-Mass Stars in the TW Hya Association
+- **3× cited-seeds** | arXiv 1509.01658 | 2015 | NEAR-INFRARED SPECTROSCOPY OF 2M0441+2301 AabBab: A QUADRUPLE SYSTEM SPANNING THE STELLAR TO PLANETARY MASS REGIMES
+- **3× cited-seeds** | arXiv 1505.03198 | 2015 | Towards a dynamics-based estimate of the extent of HR 8799's unresolved warm debris belt
+- **3× cited-seeds** | arXiv 1503.06212 | 2015 | THE MASS–LUMINOSITY RELATION IN THE L/T TRANSITION: INDIVIDUAL DYNAMICAL MASSES FOR THE NEW J-BAND FLUX REVERSAL BINARY SDSS J105213.51+442255.7AB
+- **3× cited-seeds** | arXiv 1502.02315 | 2015 | The Dynamical Structure of HR 8799’s Inner Debris Disk
+- **3× cited-seeds** | arXiv 1502.00631 | 2015 | Protoplanetary disk lifetimes vs stellar mass and possible implications for giant planet populations
+- **3× cited-seeds** | arXiv 1501.03893 | 2015 | A HIGH-CONTRAST IMAGING ALGORITHM: OPTIMIZED IMAGE ROTATION AND SUBTRACTION
+- **3× cited-seeds** | arXiv 1508.00584 | 2015 | DUST AND GAS IN THE DISK OF HL TAURI: SURFACE DENSITY, DUST SETTLING, AND DUST-TO-GAS RATIO
+- **3× cited-seeds** | arXiv 1507.05574 | 2015 | A COMBINED SPITZER AND HERSCHEL INFRARED STUDY OF GAS AND DUST IN THE CIRCUMBINARY DISK ORBITING V4046 Sgr
+- **3× cited-seeds** | arXiv 1506.04373 | 2015 | Structures in circumbinary disks: Prospects for observability
+- **3× cited-seeds** | arXiv 1503.02073 | 2015 | Kuiper belt structure around nearby super-Earth host stars
+- **3× cited-seeds** | arXiv 1504.07240 | 2015 | EARLY RESULTS FROM VLT SPHERE: LONG-SLIT SPECTROSCOPY OF 2MASS 0122–2439 B, A YOUNG COMPANION NEAR THE DEUTERIUM BURNING LIMIT
+- **3× cited-seeds** | arXiv 1504.00217 | 2015 | THE WATER ABUNDANCE OF THE DIRECTLY IMAGED SUBSTELLAR COMPANION κ AND b RETRIEVED FROM A NEAR INFRARED SPECTRUM
+- **3× cited-seeds** | arXiv 1512.04949 | 2015 | AN M DWARF COMPANION AND ITS INDUCED SPIRAL ARMS IN THE HD 100453 PROTOPLANETARY DISK
+- **3× cited-seeds** | arXiv 1509.04278 | 2015 | The long-term evolution of photoevaporating transition discs with giant planets
+- **3× cited-seeds** | arXiv 1507.06155 | 2015 | A homogeneous analysis of disks around brown dwarfs
+- **3× cited-seeds** | arXiv 1507.04975 | 2015 | Infrared study of transitional disks in Ophiuchus with Herschel
+- **3× cited-seeds** | arXiv 1507.03599 | 2015 | THE STRUCTURE OF SPIRAL SHOCKS EXCITED BY PLANETARY-MASS COMPANIONS
+- **3× cited-seeds** | arXiv 1505.06808 | 2015 | PLANET FORMATION SIGNPOSTS: OBSERVABILITY OF CIRCUMPLANETARY DISKS VIA GAS KINEMATICS
+- **3× cited-seeds** | arXiv 1505.06732 | 2015 | COMPACT DUST CONCENTRATION IN THE MWC 758 PROTOPLANETARY DISK
+- **3× cited-seeds** | arXiv 1505.05676 | 2015 | Tracing planet-induced structures in circumstellar disks using molecular lines
+- **3× cited-seeds** | arXiv 1503.02694 | 2015 | ARE PROTOPLANETARY DISKS BORN WITH VORTICES? ROSSBY WAVE INSTABILITY DRIVEN BY PROTOSTELLAR INFALL
+- **3× cited-seeds** | arXiv 1501.01964 | 2015 | NEW SPATIALLY RESOLVED OBSERVATIONS OF THE T Cha TRANSITION DISK AND CONSTRAINTS ON THE PREVIOUSLY CLAIMED SUBSTELLAR COMPANION
+- **3× cited-seeds** | arXiv 1502.02040 | 2015 | THE PSEUDO-ZODI PROBLEM FOR EDGE-ON PLANETARY SYSTEMS
+- **3× cited-seeds** | arXiv 1507.06719 | 2015 | On planet formation in HL Tau
+- **3× cited-seeds** | arXiv 1510.02212 | 2015 | DISCOVERY OF A TWO-ARMED SPIRAL STRUCTURE IN THE GAPPED DISK AROUND HERBIG Ae STAR HD 100453
+- **3× cited-seeds** | arXiv 1511.02988 | 2015 | ON SHOCKS DRIVEN BY HIGH-MASS PLANETS IN RADIATIVELY INEFFICIENT DISKS. II. THREE-DIMENSIONAL GLOBAL DISK SIMULATIONS
+- **3× cited-seeds** | arXiv 1504.08099 | 2015 | Dust trapping by spiral arms in gravitationally unstable protostellar discs
+- **3× cited-seeds** | arXiv 1504.00066 | 2015 | ON SHOCKS DRIVEN BY HIGH-MASS PLANETS IN RADIATIVELY INEFFICIENT DISKS. I. TWO-DIMENSIONAL GLOBAL DISK SIMULATIONS
+- **3× cited-seeds** | arXiv 1502.03092 | 2015 | Improving Signal to Noise in the Direct Imaging of Exoplanets and Circumstellar Disks
+- **3× cited-seeds** | arXiv 1507.08353 | 2015 | Inclination-induced polarization of scattered millimetre radiation from protoplanetary discs: the case of HL Tau
+- **3× cited-seeds** | arXiv 1510.08453 | 2015 | The VLT/NaCo large program to probe the occurrence of exoplanets and brown dwarfs at wide orbits. III. The frequency of brown dwarfs and giant planets as companions to solar-type stars
+- **3× cited-seeds** | arXiv 1512.03535 | 2015 | THE INNER DEBRIS STRUCTURE IN THE FOMALHAUT PLANETARY SYSTEM
+- **3× cited-seeds** | arXiv 1511.09390 | 2015 | An M-dwarf star in the transition disk of Herbig HD 142527: physical parameters and orbital elements.
+- **3× cited-seeds** | arXiv 1506.00430 | 2015 | The accumulation and trapping of grains at planet gaps: Effects of grain growth and fragmentation
+- **3× cited-seeds** | arXiv 1501.01979 | 2015 | Gap formation and stability in non-isothermal protoplanetary discs
+- **3× cited-seeds** | arXiv — | 2015 | Mind the gap : gas and dust in planet-forming disks
+- **3× cited-seeds** | arXiv 1510.03813 | 2015 | THE LEECH EXOPLANET IMAGING SURVEY: ORBIT AND COMPONENT MASSES OF THE INTERMEDIATE-AGE, LATE-TYPE BINARY NO UMa
+- **3× cited-seeds** | arXiv 1408.5432 | 2014 | Signatures of warm carbon monoxide in protoplanetary discs observed with Herschel SPIRE
+- **3× cited-seeds** | arXiv 1508.07834 | 2014 | Near-infrared polarimetry of the GG Tauri A binary system
+- **3× cited-seeds** | arXiv 1407.4561 | 2014 | CIRCUMBINARY RING, CIRCUMSTELLAR DISKS, AND ACCRETION IN THE BINARY SYSTEM UY AURIGAE
+- **3× cited-seeds** | arXiv 1412.1052 | 2014 | The VLTI/PIONIER near-infrared interferometric survey of southern T Tauri stars - I. First results
+- **3× cited-seeds** | arXiv 1412.0390 | 2014 | A diamond AGPM coronagraph for VISIR
+- **3× cited-seeds** | arXiv 1410.8658 | 2014 | ORBITAL CIRCULARIZATION OF A PLANET ACCRETING DISK GAS: THE FORMATION OF DISTANT JUPITERS IN CIRCULAR ORBITS BASED ON A CORE ACCRETION MODEL
+- **3× cited-seeds** | arXiv 1410.0363 | 2014 | ExELS: an exoplanet legacy science proposal for the ESA Euclid mission - II. Hot exoplanets and sub-stellar systems
+- **3× cited-seeds** | arXiv 1406.2316 | 2014 | OPTIMAL SURVEY STRATEGIES AND PREDICTED PLANET YIELDS FOR THE KOREAN MICROLENSING TELESCOPE NETWORK
+- **3× cited-seeds** | arXiv 1404.7136 | 2014 | Dancing with the stars: formation of the Fomalhaut triple system and its effect on the debris discs
+- **3× cited-seeds** | arXiv 1412.6101 | 2014 | DIRECT SPECTRUM OF THE BENCHMARK T DWARF HD 19467 B
+- **3× cited-seeds** | arXiv 1412.0660 | 2014 | Performance characterization of a broadband vector Apodizing Phase Plate coronagraph.
+- **3× cited-seeds** | arXiv — | 2014 | The Detection and Characterization of Extrasolar Planets
+- **3× cited-seeds** | arXiv 1409.5456 | 2014 | GEMINI PLANET IMAGER SPECTROSCOPY OF THE HR 8799 PLANETS c AND d
+- **3× cited-seeds** | arXiv 1409.3578 | 2014 | MAKE SUPER-EARTHS, NOT JUPITERS: ACCRETING NEBULAR GAS ONTO SOLID CORES AT 0.1 AU AND BEYOND
+- **3× cited-seeds** | arXiv — | 2014 | Laboratory demonstration of the Savart-plate lateral-shearing interferometric nuller for exoplanets (SPLINE)
+- **3× cited-seeds** | arXiv 1407.0267 | 2014 | MOST light-curve analysis of the γ Doradus pulsator HR 8799, showing resonances and amplitude variations
+- **3× cited-seeds** | arXiv 1404.4430 | 2014 | Companions of Stars: From Other Stars to Brown Dwarfs to Planets and the Discovery of the First Methane Brown Dwarf
+- **3× cited-seeds** | arXiv 1401.1273 | 2014 | DISCOVERY OF Hα EMISSION FROM THE CLOSE COMPANION INSIDE THE GAP OF TRANSITIONAL DISK HD 142527
+- **3× cited-seeds** | arXiv 1407.7041 | 2014 | POLARIZED LIGHT IMAGING OF THE HD 142527 TRANSITION DISK WITH THE GEMINI PLANET IMAGER: DUST AROUND THE CLOSE-IN COMPANION
+- **3× cited-seeds** | arXiv — | 2014 | Unraveling the Transitional Disk RX J 1615 . 3-3255 : Scattered Light Observations Versus Disk Models
+- **3× cited-seeds** | arXiv 1403.4420 | 2014 | Disk Evolution, Element Abundances and Cloud Properties of Young Gas Giant Planets
+- **3× cited-seeds** | arXiv — | 2014 | The Gemini Planet Imager : First Light and Commissioning
+- **3× cited-seeds** | arXiv 1408.5918 | 2014 | UNBIASED MILLIMETER-WAVE LINE SURVEYS OF TW Hya AND V4046 Sgr: THE ENHANCED C2H AND CN ABUNDANCES OF EVOLVED PROTOPLANETARY DISKS
+- **3× cited-seeds** | arXiv 1408.6094 | 2014 | Forming the cores of giant planets from the radial pebble flux in protoplanetary discs
+- **3× cited-seeds** | arXiv 1410.5883 | 2014 | Herbig AeBe stars: multiplicity and consequences
+- **3× cited-seeds** | arXiv 1408.7068 | 2014 | AN IONIZED OUTFLOW FROM AB AUR, A HERBIG AE STAR WITH A TRANSITIONAL DISK
+- **3× cited-seeds** | arXiv — | 2014 | VAMPIRES: probing the innermost regions of protoplanetary systems with polarimetric aperture-masking
+- **3× cited-seeds** | arXiv 1405.7426 | 2014 | The VAMPIRES instrument: imaging the innermost regions of protoplanetary discs with polarimetric interferometry
+- **3× cited-seeds** | arXiv 1412.1491 | 2014 | CONSTRAINING THE X-RAY AND COSMIC-RAY IONIZATION CHEMISTRY OF THE TW Hya PROTOPLANETARY DISK: EVIDENCE FOR A SUB-INTERSTELLAR COSMIC-RAY RATE
+- **3× cited-seeds** | arXiv 1410.4196 | 2014 | EFFECTS OF DUST FEEDBACK ON VORTICES IN PROTOPLANETARY DISKS
+- **3× cited-seeds** | arXiv 1405.3283 | 2014 | ACCRETING PLANETS AS DUST DAMS IN “TRANSITION” DISKS
+- **3× cited-seeds** | arXiv 1408.5649 | 2014 | Interpreting the extended emission around three nearby debris disc host stars
+- **3× cited-seeds** | arXiv 1409.7609 | 2014 | Signatures of massive collisions in debris discs A self-consistent numerical model
+- **3× cited-seeds** | arXiv 1403.6871 | 2014 | BURN OUT OR FADE AWAY? ON THE X-RAY AND MAGNETIC DEATH OF INTERMEDIATE MASS STARS
+- **3× cited-seeds** | arXiv 1408.6554 | 2014 | ACCRETING CIRCUMPLANETARY DISKS: OBSERVATIONAL SIGNATURES
+- **3× cited-seeds** | arXiv 1407.2652 | 2014 | ALMA OBSERVATIONS OF THE T TAURI BINARY SYSTEM AS 205: EVIDENCE FOR MOLECULAR WINDS AND/OR BINARY INTERACTIONS
+- **3× cited-seeds** | arXiv 1403.1463 | 2014 | SPIRAL ARMS IN THE DISK OF HD 142527 FROM CO EMISSION LINES WITH ALMA
+- **3× cited-seeds** | arXiv 1410.0005 | 2014 | The VAST Survey - IV. A wide brown dwarf companion to the A3V star ζ Delphini
+- **3× cited-seeds** | arXiv 1410.2383 | 2014 | Spectroscopic follow-up of L- and T-type proper-motion member candidates in the Pleiades
+- **3× cited-seeds** | arXiv 1312.7020 | 2013 | Consequences of an eccentric orbit for Fomalhaut b
+- **3× cited-seeds** | arXiv 1312.5315 | 2013 | Discovery of the Fomalhaut C debris disc
+- **3× cited-seeds** | arXiv 1311.5035 | 2013 | An independent determination of Fomalhaut b’s orbit and the dynamical effects on the outer dust belt
+- **3× cited-seeds** | arXiv 1310.0764 | 2013 | THE SOLAR NEIGHBORHOOD. XXX. FOMALHAUT C
+- **3× cited-seeds** | arXiv 1309.1675 | 2013 | A RESOLVED DEBRIS DISK AROUND THE CANDIDATE PLANET-HOSTING STAR HD 95086
+- **3× cited-seeds** | arXiv 1309.1216 | 2013 | PALM-3000: EXOPLANET ADAPTIVE OPTICS FOR THE 5 m HALE TELESCOPE
+- **3× cited-seeds** | arXiv 1308.2971 | 2013 | A Compact Spectrograph to Search for Extrasolar Planets
+- **3× cited-seeds** | arXiv 1307.0818 | 2013 | THE GEMINI PLANET-FINDING CAMPAIGN: THE FREQUENCY OF GIANT PLANETS AROUND DEBRIS DISK STARS
+- **3× cited-seeds** | arXiv 1306.5561 | 2013 | Estimation and correction of wavefront aberrations using the self-coherent camera: laboratory results
+- **3× cited-seeds** | arXiv 1306.2514 | 2013 | Orbital migration of giant planets induced by gravitationally unstable gaps: the effect of planet mass
+- **3× cited-seeds** | arXiv 1306.0956 | 2013 | An interferometric study of the Fomalhaut inner debris disk: III. Detailed models of the exozodiacal disk and its origin
+- **3× cited-seeds** | arXiv 1308.2223 | 2013 | A TREND BETWEEN COLD DEBRIS DISK TEMPERATURE AND STELLAR TYPE: IMPLICATIONS FOR THE FORMATION AND EVOLUTION OF WIDE-ORBIT PLANETS
+- **3× cited-seeds** | arXiv 1304.1180 | 2013 | Laboratory demonstration of a mid-infrared AGPM vector vortex coronagraph
+- **3× cited-seeds** | arXiv — | 2013 | Design and laboratory demonstration of an achromatic vector vortex coronagraph.
+- **3× cited-seeds** | arXiv 1301.1516 | 2013 | Influence of viscosity and the adiabatic index on planetary migration
+- **3× cited-seeds** | arXiv 1309.4703 | 2013 | The Debris Disk Explorer: a balloon-borne coronagraph for observing debris disks
+- **3× cited-seeds** | arXiv 1309.1669 | 2013 | Unveiling new members in five nearby young moving groups
+- **3× cited-seeds** | arXiv 1307.6910 | 2013 | Formation, orbital and thermal evolution, and survival of planetary-mass clumps in the early phase of circumstellar disc evolution
+- **3× cited-seeds** | arXiv 1306.1152 | 2013 | THE 5 GHz ARECIBO SEARCH FOR RADIO FLARES FROM ULTRACOOL DWARFS
+- **3× cited-seeds** | arXiv 1510.04331 | 2013 | GRAPHIC: The Geneva Reduction and Analysis Pipeline for High-contrast Imaging of planetary Companions
+- **3× cited-seeds** | arXiv 1305.5143 | 2013 | Calibration of quasi-static aberrations in exoplanet direct-imaging instruments with a Zernike phase-mask sensor
+- **3× cited-seeds** | arXiv 1302.7045 | 2013 | Simultaneous exoplanet detection and instrument aberration retrieval in multispectral coronagraphic imaging
+- **3× cited-seeds** | arXiv 1302.5528 | 2013 | Independent confirmation of β Pictoris b imaging with NICI
+- **3× cited-seeds** | arXiv 1307.3350 | 2013 | On the stability of dust orbits in mean-motion resonances perturbed by from an interstellar wind
+- **3× cited-seeds** | arXiv 1308.5070 | 2013 | Constraints on the radial distribution of the dust properties in the CQ Tauri protoplanetary disk
+- **3× cited-seeds** | arXiv 1310.7092 | 2013 | Multiple spiral patterns in the transitional disk of HD 100546
+- **3× cited-seeds** | arXiv 1305.0155 | 2013 | DUst around NEarby Stars. The survey observational results
+- **3× cited-seeds** | arXiv 1403.0390 | 2013 | Complex organic molecules in protoplanetary disks
+- **3× cited-seeds** | arXiv 1305.5422 | 2013 | Wide-Field InfraRed Survey Telescope-Astrophysics Focused Telescope Assets WFIRST-AFTA Final Report
+- **3× cited-seeds** | arXiv 1308.2966 | 2013 | Survival of molecular gas in cavities of transition disks - I. CO
+- **3× cited-seeds** | arXiv 1403.6193 | 2013 | Constraining the structure of the transition disk HD 135344B (SAO 206462) by simultaneous modeling of multiwavelength gas and dust observations
+- **3× cited-seeds** | arXiv 1307.1622 | 2013 | Can a planet explain different cavity sizes for small & large dust grains in transition disks?
+- **3× cited-seeds** | arXiv 1304.1736 | 2013 | Asymmetric transition disks: Vorticity or eccentricity?
+- **3× cited-seeds** | arXiv 1310.3151 | 2013 | Chemistry in protoplanetary disks.
+- **3× cited-seeds** | arXiv — | 2013 | Planet formation in action: resolved gas and dust images of a transitional disk and its cavity
+- **3× cited-seeds** | arXiv 1206.4044 | 2012 | TWO EXTRAORDINARY SUBSTELLAR BINARIES AT THE T/Y TRANSITION AND THE Y-BAND FLUXES OF THE COOLEST BROWN DWARFS,
+- **3× cited-seeds** | arXiv 1211.7143 | 2012 | AN INTERFEROMETRIC STUDY OF THE FOMALHAUT INNER DEBRIS DISK. II. KECK NULLER MID-INFRARED OBSERVATIONS
+- **3× cited-seeds** | arXiv 1211.6112 | 2012 | HIGH-CONTRAST IMAGING WITH AN ARBITRARY APERTURE: ACTIVE COMPENSATION OF APERTURE DISCONTINUITIES
+- **3× cited-seeds** | arXiv — | 2012 | A Fresnel propagation analysis of NFIRAOS/IRIS high-contrast exoplanet imaging capabilities
+- **3× cited-seeds** | arXiv 1207.0521 | 2012 | Confusion limited surveys: using WISE to quantify the rarity of warm dust around Kepler stars
+- **3× cited-seeds** | arXiv 1206.0738 | 2012 | From Disks to Planets
+- **3× cited-seeds** | arXiv 1206.0349 | 2012 | Comparative Study of Manufacturing Techniques for Coronagraphic Binary Pupil Masks: Masks on Substrates and Free-Standing Masks
+- **3× cited-seeds** | arXiv 1204.5187 | 2012 | INTERACTIONS BETWEEN MODERATE- AND LONG-PERIOD GIANT PLANETS: SCATTERING EXPERIMENTS FOR SYSTEMS IN ISOLATION AND WITH STELLAR FLYBYS
+- **3× cited-seeds** | arXiv 1201.3577 | 2012 | Shadows, gaps, and ring-like structures in protoplanetary disks
+- **3× cited-seeds** | arXiv — | 2012 | Coronagraphic focal-plane wavefront estimation for exoplanet detection : application to the apodized Roddier & Roddier coronagraph
+- **3× cited-seeds** | arXiv 1210.0305 | 2012 | CFBDSIR2149-0403: a 4-7 Jupiter-mass free-floating planet in the young moving group AB Doradus ? ⋆
+- **3× cited-seeds** | arXiv 1209.4418 | 2012 | ON THE DIRECT IMAGING OF TIDALLY HEATED EXOMOONS
+- **3× cited-seeds** | arXiv — | 2012 | On Advanced Estimation Techniques for Exoplanet Detection and Characterization Using Ground-based Coronagraphs
+- **3× cited-seeds** | arXiv 1206.5519 | 2012 | 2MASS J035523.37+113343.7: A YOUNG, DUSTY, NEARBY, ISOLATED BROWN DWARF RESEMBLING A GIANT EXOPLANET
+- **3× cited-seeds** | arXiv 1205.6890 | 2012 | SEARCHING FOR YOUNG JUPITER ANALOGS AROUND AP COL: L-BAND HIGH-CONTRAST IMAGING OF THE CLOSEST PRE-MAIN-SEQUENCE STAR
+- **3× cited-seeds** | arXiv 1203.3294 | 2012 | Recent Developments in Planet Migration Theory
+- **3× cited-seeds** | arXiv 1203.2615 | 2012 | FIRST LIGHT LBT AO IMAGES OF HR 8799 bcde AT 1.6 AND 3.3 μm: NEW DISCREPANCIES BETWEEN YOUNG PLANETS AND OLD BROWN DWARFS
+- **3× cited-seeds** | arXiv 1207.5481 | 2012 | Review of small-angle coronagraphic techniques in the wake of ground-based second-generation adaptive optics systems
+- **3× cited-seeds** | arXiv 1209.1299 | 2012 | The circumstellar disk of AB Aurigae: evidence for envelope accretion at late stages of star formation?
+- **3× cited-seeds** | arXiv 1203.6265 | 2012 | Resolving HD 100546 disc in the mid-infrared: Small inner disc and asymmetry near the gap
+- **3× cited-seeds** | arXiv 1209.2129 | 2012 | The collapse of protoplanetary clumps formed through disc instability: 3D simulations of the pre‐dissociation phase
+- **3× cited-seeds** | arXiv 1210.0547 | 2012 | Resolved debris discs around A stars in the Herschel DEBRIS survey
+- **3× cited-seeds** | arXiv 1201.0937 | 2012 | CHARACTERIZING CO FOURTH POSITIVE EMISSION IN YOUNG CIRCUMSTELLAR DISKS
+- **3× cited-seeds** | arXiv 1207.5909 | 2012 | Impact of angular differential imaging on circumstellar disk images
+- **3× cited-seeds** | arXiv 1203.6353 | 2012 | A RESOLVED CENSUS OF MILLIMETER EMISSION FROM TAURUS MULTIPLE STAR SYSTEMS
+- **3× cited-seeds** | arXiv 1211.4898 | 2012 | A DEBRIS disk around the planet hosting M-star GJ 581 spatially resolved with Herschel
+- **3× cited-seeds** | arXiv 1204.0025 | 2012 | The Exozodiacal Dust Problem for Direct Observations of Exo-Earths
+- **3× cited-seeds** | arXiv 1108.5840 | 2011 | MILLIMETER OBSERVATIONS OF THE TRANSITION DISK AROUND HD 135344B (SAO 206462)
+- **3× cited-seeds** | arXiv 1105.0759 | 2011 | Massive young disks around Herbig Ae stars
+- **3× cited-seeds** | arXiv 1103.0155 | 2011 | High-Resolution Optical and Near-Infrared Images of the FS Tauri Circumbinary Disk
+- **3× cited-seeds** | arXiv 1112.1695 | 2011 | A REVISED AGE FOR UPPER SCORPIUS AND THE STAR FORMATION HISTORY AMONG THE F-TYPE MEMBERS OF THE SCORPIUS–CENTAURUS OB ASSOCIATION
+- **3× cited-seeds** | arXiv 1110.4917 | 2011 | MESS (multi-purpose exoplanet simulation system) - A Monte Carlo tool for the statistical analysis and prediction of exoplanet search results
+- **3× cited-seeds** | arXiv 1112.2997 | 2011 | Global models of planetary system formation in radiatively-inefficient protoplanetary discs
+- **3× cited-seeds** | arXiv 1111.3194 | 2011 | Improved achromatization of phase mask coronagraphs using colored apodization
+- **3× cited-seeds** | arXiv 1110.4866 | 2011 | THREE-DIMENSIONAL MAGNETOHYDRODYNAMIC SIMULATIONS OF CIRCUMBINARY ACCRETION DISKS: DISK STRUCTURES AND ANGULAR MOMENTUM TRANSPORT
+- **3× cited-seeds** | arXiv 1110.1178 | 2011 | Searching for faint companions with VLTI/PIONIER. I. Method and first results
+- **3× cited-seeds** | arXiv 1109.6177 | 2011 | Possible planet-forming regions on submillimetre images
+- **3× cited-seeds** | arXiv 1110.2621 | 2011 | A high dynamic-range instrument for SPICA for coronagraphic observation of exoplanets and monitoring of transiting exoplanets
+- **3× cited-seeds** | arXiv 1108.3324 | 2011 | Debris disc candidates in systems with transiting planets
+- **3× cited-seeds** | arXiv 1106.2626 | 2011 | Gas giant formation with small cores triggered by envelope pollution by icy planetesimals
+- **3× cited-seeds** | arXiv 1105.2961 | 2011 | Data-reduction techniques for high-contrast imaging polarimetry - Applications to ExPo
+- **3× cited-seeds** | arXiv 1102.3333 | 2011 | The debris disk host star HD 61005: a member of the Argus association?
+- **3× cited-seeds** | arXiv 1103.2535 | 2011 | A NEW CONCEPT FOR DIRECT IMAGING AND SPECTRAL CHARACTERIZATION OF EXOPLANETS IN MULTI-PLANET SYSTEMS
+- **3× cited-seeds** | arXiv 1111.1858 | 2011 | The scattering of small bodies in planetary systems: constraints on the possible orbits of cometary material
+- **3× cited-seeds** | arXiv 1108.5172 | 2011 | SPECTRAL AND PHOTOMETRIC DIAGNOSTICS OF GIANT PLANET FORMATION SCENARIOS
+- **3× cited-seeds** | arXiv 1103.1880 | 2011 | EVIDENCE AGAINST AN EDGE-ON DISK AROUND THE EXTRASOLAR PLANET, 2MASS 1207 b AND A NEW THICK-CLOUD EXPLANATION FOR ITS UNDERLUMINOSITY,,
+- **3× cited-seeds** | arXiv 1102.3914 | 2011 | OBSERVATIONAL CONSTRAINTS ON COMPANIONS INSIDE OF 10 AU IN THE HR 8799 PLANETARY SYSTEM
+- **3× cited-seeds** | arXiv 1101.1590 | 2011 | DETERMINATION OF THE INCLINATION OF THE MULTI-PLANET HOSTING STAR HR 8799 USING ASTEROSEISMOLOGY
+- **3× cited-seeds** | arXiv 1107.0970 | 2011 | Stripping a debris disk by close stellar encounters in an open stellar cluster
+- **3× cited-seeds** | arXiv 1108.4704 | 2011 | MULTI-EPOCH OBSERVATIONS OF HD 69830: HIGH-RESOLUTION SPECTROSCOPY AND LIMITS TO VARIABILITY
+- **3× cited-seeds** | arXiv 1110.3648 | 2011 | A new code to study structures in collisionally active, perturbed debris discs: application to binaries
+- **3× cited-seeds** | arXiv 1005.4037 | 2010 | Exoplanet Atmospheres: Physical Processes
+- **3× cited-seeds** | arXiv 1001.2017 | 2010 | SPATIALLY RESOLVED SPECTROSCOPY OF THE EXOPLANET HR 8799 c
+- **3× cited-seeds** | arXiv 1008.4506 | 2010 | Direct detection of a substellar companion to the young nearby star PZ Telescopii
+- **3× cited-seeds** | arXiv 1011.4858 | 2010 | Collisional evolution of irregular satellite swarms: detectable dust around Solar system and extrasolar planets
+- **3× cited-seeds** | arXiv 1012.0584 | 2010 | How planet–planet scattering can create high-inclination as well as long-period orbits
+- **3× cited-seeds** | arXiv 1009.4650 | 2010 | A brown dwarf companion to the intermediate-mass star HR 6037
+- **3× cited-seeds** | arXiv 1008.5021 | 2010 | COULD THE PLANETS AROUND HR 8799 BE BROWN DWARFS?
+- **3× cited-seeds** | arXiv 1008.1264 | 2010 | Debris discs in binaries: a numerical study
+- **3× cited-seeds** | arXiv 1008.0465 | 2010 | On the fragmentation criteria of self-gravitating protoplanetary discs
+- **3× cited-seeds** | arXiv — | 2010 | Data reduction pipeline for the Gemini Planet Imager
+- **3× cited-seeds** | arXiv — | 2010 | The highest resolution near infrared spectrum of the imaged planetary mass companion 2M1207 b
+- **3× cited-seeds** | arXiv 1412.0395 | 2010 | Annular groove phase mask coronagraph in diamond for mid-IR wavelengths: manufacturing assessment and performance analysis
+- **3× cited-seeds** | arXiv 1003.4986 | 2010 | THERMAL INFRARED MMTAO OBSERVATIONS OF THE HR 8799 PLANETARY SYSTEM
+- **3× cited-seeds** | arXiv 1002.3469 | 2010 | Are debris discs self-stirred?
+- **3× cited-seeds** | arXiv 1001.1404 | 2010 | FORMATION PROCESS OF THE CIRCUMSTELLAR DISK: LONG-TERM SIMULATIONS IN THE MAIN ACCRETION PHASE OF STAR FORMATION
+- **3× cited-seeds** | arXiv 1011.4834 | 2010 | Observing dust settling and coagulation in circumstellar discs. Selected constraints from high resolution imaging
+- **3× cited-seeds** | arXiv 1003.2323 | 2010 | Continuum and line modelling of discs around young stars - I. 300000 disc models for HERSCHEL/GASPS
+- **3× cited-seeds** | arXiv 1009.1256 | 2010 | Status and new operation modes of the versatile VLT/NaCo
+- **2× cited-seeds** | arXiv — | 2026 | ASASSN-24fw: Candidate Gas-rich Circumsecondary Disk Occultation of a Main-sequence Star
+- **2× cited-seeds** | arXiv 2603.13172 | 2026 | Ortho–Para Chemistry of H
+ 2
+ CO in the Protoplanetary Disk TW Hya
+- **2× cited-seeds** | arXiv 2602.16769 | 2026 | On Eccentric Protoplanetary Disks. I. How Eccentric are Planet-perturbed Disks?
+- **2× cited-seeds** | arXiv 2605.22926 | 2026 | JWST-DECO: The Impact of Accretion on Mid-infrared Observable Water in Planet-forming Disks
+- **2× cited-seeds** | arXiv 2604.14124 | 2026 | Icy Volatile Enhancements in Evolving Protoplanetary Disks
+- **2× cited-seeds** | arXiv 2604.11925 | 2026 | How leaky? A large parameter study of leaky dust traps to quantify the transport of pebbles and ice in protoplanetary discs
+- **2× cited-seeds** | arXiv 2601.09070 | 2026 | Ring-gap Structures in the Class I Circumstellar Disk of CrA IRS 2 Associated with the Magnetic Flux-driven Bubble
+- **2× cited-seeds** | arXiv — | 2026 | Disk Lifetime Distribution as a Function of the Mass of Host Star
+- **2× cited-seeds** | arXiv 2603.13167 | 2026 | Connecting JWST Silicate Cloud Observations to Exoplanet Cloud Microphysics with Nimbus
+- **2× cited-seeds** | arXiv 2603.14683 | 2026 | The TOLIMAN mission: A low-cost space telescope for high precision narrow-angle astrometry
+- **2× cited-seeds** | arXiv 2601.04593 | 2026 | Investigating the High-energy Radiation Environment of Planets in Sun-like Binary Systems
+- **2× cited-seeds** | arXiv 2606.27278 | 2026 | Astrochemical Study of Early Embedded Disks
+- **2× cited-seeds** | arXiv 2604.09834 | 2026 | Observational and Dynamical Constraints on an Unseen Outer Perturber in the GJ 436 Hot Neptune System
+- **2× cited-seeds** | arXiv 2604.11408 | 2026 | Compact Hydrogen Sulfide Emission Indicates Sulfur-bearing Ice Sublimation in the Inner Disk of HD 163296
+- **2× cited-seeds** | arXiv 2601.04091 | 2026 | Dissecting the dust distribution and polarization around two B213 young stellar objects with ALMA
+- **2× cited-seeds** | arXiv 2604.23448 | 2026 | Direct Imaging Constraints on Binary Planets and Exomoons around Epsilon Indi A b
+- **2× cited-seeds** | arXiv 2602.08200 | 2026 | JWST Spectral Retrieval of Cold Directly Imaged Planet WD 0806 b and the First Measurement of Altitude-dependent Kzz in Exoplanet Atmospheres
+- **2× cited-seeds** | arXiv 2510.19956 | 2025 | Discovery of a Nearby Habitable Zone Super-Earth Candidate Amenable to Direct Imaging
+- **2× cited-seeds** | arXiv — | 2025 | EXOPLANET DETECTION METHODS: AN OVERVIEW OF TECHNIQUES AND LIMITATIONS
+- **2× cited-seeds** | arXiv 2510.05308 | 2025 | Wavefront error recovery and companion identification with the James Webb Space Telescope
+- **2× cited-seeds** | arXiv 2510.17459 | 2025 | Estimating Orbital Parameters of Direct Imaging Exoplanet Using Neural Network
+- **2× cited-seeds** | arXiv 2509.06727 | 2025 | Characterization of the Host Binary of the Directly Imaged Exoplanet HD 143811 AB b
+- **2× cited-seeds** | arXiv 2501.16429 | 2025 | Orbital and Atmospheric Modeling of H ii 1348B: An Eccentric Young Substellar Companion in the Pleiades
+- **2× cited-seeds** | arXiv — | 2025 | RHADaMAnTe: An Astro Code to Estimate the Spectral Energy Distribution of a Curved Wall of a Gap Opened by a Forming Planet in a Protoplanetary Disk
+- **2× cited-seeds** | arXiv — | 2025 | Exoplanet detection in rotational shearing interferometry through experimental setup and digital filtering techniques
+- **2× cited-seeds** | arXiv 2503.11076 | 2025 | Dust Clumping in Outer Protoplanetary Disks: The Interplay among Four Instabilities
+- **2× cited-seeds** | arXiv 2511.16056 | 2025 | Analytical Solutions for Planet-scattering Small Bodies
+- **2× cited-seeds** | arXiv 2502.01840 | 2025 | Direct imaging of active galactic nucleus outflows and their origin with the 23 m Large Binocular Telescope
+- **2× cited-seeds** | arXiv — | 2025 | A Coronagraphic Pilot Study of the Circumstellar Environments around Red Supergiants: CD -31°4916’s Dust Morphology
+- **2× cited-seeds** | arXiv 2507.23287 | 2025 | On the Interpretation of Velocity Residuals in Protoplanetary Disks
+- **2× cited-seeds** | arXiv 2505.09754 | 2025 | Diversity of Exoplanets
+- **2× cited-seeds** | arXiv 2508.03919 | 2025 | MIRAC-5 on the MMT with MAPS: annular groove phase mask N-band coronagraphic upgrade
+- **2× cited-seeds** | arXiv 2508.09939 | 2025 | The Hot Inner AU of V883 Ori
+- **2× cited-seeds** | arXiv 2501.10092 | 2025 | Disk in the Circumstellar Envelope of Carbon Mira V Cygni
+- **2× cited-seeds** | arXiv 2511.06050 | 2025 | Dust distribution in circumstellar disks harboring multi-planet systems. I. Sub-thermal mass planets
+- **2× cited-seeds** | arXiv 2509.10451 | 2025 | The CHARA Array Polarization Model and Prospects for Spectropolarimetry
+- **2× cited-seeds** | arXiv 2502.05061 | 2025 | Emission from Multiple Molecular Isotopologues in a High-inclination Protoplanetary Disk
+- **2× cited-seeds** | arXiv 2510.16164 | 2025 | Searching for Exotrojans in Pulsar Systems
+- **2× cited-seeds** | arXiv — | 2025 | Extending the Rock Cycle to a Cosmic Scale
+- **2× cited-seeds** | arXiv 2503.15256 | 2025 | Ionized Envelopes Around Protoplanets and the Role of Radiative Feedback in Gas Accretion
+- **2× cited-seeds** | arXiv — | 2025 | Magnetized Protoplanetary Disks around Young Stars in the Presence of Realistic Cooling
+- **2× cited-seeds** | arXiv 2503.06438 | 2025 | ELT-METIS Imaging Simulations for Disks and Envelopes Associated with FU Ori-type Objects
+- **2× cited-seeds** | arXiv 2502.07900 | 2025 | Long-term X-Ray Variability on the Benchmark YSO HL Tau
+- **2× cited-seeds** | arXiv 2511.00513 | 2025 | On the Gravitational Collapse of Small Dust Grains in Self-gravitating Disk Structures
+- **2× cited-seeds** | arXiv 2509.18270 | 2025 | The Streaming Instability in 3D: Conditions for Strong Clumping
+- **2× cited-seeds** | arXiv 2509.14101 | 2025 | Diversity in Planetary Architectures from Pebble Accretion: Water Delivery to the Habitable Zone with Pebble Snow
+- **2× cited-seeds** | arXiv 2509.03623 | 2025 | Revealing Fine Structure in Protoplanetary Disks with Physics Constrained Neural Fields
+- **2× cited-seeds** | arXiv 2508.06613 | 2025 | The Impact of External Radiation on the Inner Disk Chemistry of Planet Formation
+- **2× cited-seeds** | arXiv 2507.14443 | 2025 | Multiwavelength Dust Characterization of the HL Tau Disk and Implications for Planet Formation
+- **2× cited-seeds** | arXiv 2510.22915 | 2025 | The cosmochemistry of planetary systems
+- **2× cited-seeds** | arXiv — | 2025 | exoALMA. IX. Regularized Maximum Likelihood Imaging of Non-Keplerian Features
+- **2× cited-seeds** | arXiv 2503.19026 | 2025 | Leaky Dust Traps in Planet-embedded Protoplanetary Disks
+- **2× cited-seeds** | arXiv 2501.10634 | 2025 | Evidence for Jet/Outflow Shocks Heating the Environment around the Class I Protostellar Source Elias 29: FAUST XXI
+- **2× cited-seeds** | arXiv 2501.07520 | 2025 | Three-dimensional Transport of Solids in a Protoplanetary Disk Containing a Growing Giant Planet
+- **2× cited-seeds** | arXiv — | 2025 | Closeby Habitable Exoplanet Survey (CHES). III. Retrieval of Planetary Masses in Binaries Using the N-body Model with Radial Velocity and Astrometry Synergy
+- **2× cited-seeds** | arXiv 2505.07937 | 2025 | Origin of the Asymmetric Gas Distribution near the Co-orbital Lagrange Points of an Embedded Planet
+- **2× cited-seeds** | arXiv 2510.09823 | 2025 | The Influence of Tight Binaries on Protoplanetary Disk Masses
+- **2× cited-seeds** | arXiv 2509.13549 | 2025 | Vanishing Refractories: Tracing Dust Evolution in the BP Tau Protoplanetary Disk
+- **2× cited-seeds** | arXiv 2507.06298 | 2025 | Bouncing Grains Keep Protoplanetary Disks Bright
+- **2× cited-seeds** | arXiv — | 2025 | Submillimeter Variability in the Envelope and Warped Protostellar Disk of the Class 0 Protostar HOPS 358
+- **2× cited-seeds** | arXiv 2512.14299 | 2025 | A Bridge between Young Stars Formed by Gravitational Interaction
+- **2× cited-seeds** | arXiv 2510.20185 | 2025 | Unexpected Near-Resonant and Metastable States of Young Multiplanet Systems
+- **2× cited-seeds** | arXiv 2509.22918 | 2025 | Planet-induced Stellar Flare Candidates from the TESS Mission
+- **2× cited-seeds** | arXiv 2507.00796 | 2025 | Searching for planet-induced radio signals from the young close-in planet host star HIP 67522
+- **2× cited-seeds** | arXiv 2505.17197 | 2025 | Far-ultraviolet Flares and Variability of the Young M Dwarf AU Mic: A Nondetection of Planet C in Transit at Lyα
+- **2× cited-seeds** | arXiv 2503.13353 | 2025 | The Impact of Stellar Flares on the Atmospheric Escape of Exoplanets Orbiting M Stars. I. Insights from the AU Mic System
+- **2× cited-seeds** | arXiv 2511.11535 | 2025 | Probing the Era of Giant Collisions: Millimeter Observations of the HD 166191 System
+- **2× cited-seeds** | arXiv 2510.16105 | 2025 | Surprise Nondetection of Upsilon Andromedae b with MIRC-X and MYSTIC at the CHARA Array
+- **2× cited-seeds** | arXiv — | 2025 | A Preliminary Search for Planets and Exozodiacal Emission Around α Centauri A with JWST/MIRI
+- **2× cited-seeds** | arXiv 2503.02025 | 2025 | The Diversity of Cold Worlds: A Blended-light Binary Straddling the T/Y Transition in Brown Dwarfs
+- **2× cited-seeds** | arXiv 2509.26033 | 2025 | Edge-On Disk Study (EODS)
+- **2× cited-seeds** | arXiv 2504.18726 | 2025 | exoALMA. XII. Weighing and Sizing exoALMA Disks with Rotation Curve Modelling
+- **2× cited-seeds** | arXiv 2510.26687 | 2025 | The ODYSSEUS Survey. Spatial Correlation of Magnetospheric Inclinations Points to Parsec-scale Star–Cloud Connection
+- **2× cited-seeds** | arXiv 2509.08313 | 2025 | Ground-based Mid-IR Direct Imaging: The Origin of the Thermal Background on the Keck II Telescope and Correcting Instrumental Systematics
+- **2× cited-seeds** | arXiv 2504.18751 | 2025 | Global Simulations of Gravitational Instability in Protostellar Disks with Full Radiation Transport. II. Locality of Gravitoturbulence, Clumpy Spirals, and Implications for Observable Substructure
+- **2× cited-seeds** | arXiv — | 2025 | Exoplanet Imaging via Differentiable Rendering
+- **2× cited-seeds** | arXiv 2511.14369 | 2025 | QHSC: The Quasar Candidate Catalog for the Hyper Suprime-Cam Subaru Strategic Program
+- **2× cited-seeds** | arXiv 2510.22403 | 2025 | SHELLQs-JWST: Revealing the Spectra of Extended Emission in 12 z > 6 Quasar Host Galaxies Using the JWST NIRSpec Fixed Slit
+- **2× cited-seeds** | arXiv 2505.12867 | 2025 | The Dichotomy in the Nuclear and Host-galaxy Properties of High-redshift Quasars
+- **2× cited-seeds** | arXiv 2512.05860 | 2025 | High-contrast L-band Integral Field Spectroscopy of HD 33632 Ab
+- **2× cited-seeds** | arXiv 2504.19853 | 2025 | exoALMA. XVI. Predicting Signatures of Large-scale Turbulence in Protoplanetary Disks
+- **2× cited-seeds** | arXiv 2504.19986 | 2025 | exoALMA. III. Line-intensity Modeling and System Property Extraction from Protoplanetary Disks
+- **2× cited-seeds** | arXiv — | 2025 | FAUST
+- **2× cited-seeds** | arXiv 2503.07787 | 2025 | L1448 IRS3B: Dust Polarization Aligned with Spiral Features, Tracing Gas Flows
+- **2× cited-seeds** | arXiv 2504.00295 | 2025 | Review and Prospects of Hot Exozodiacal Dust Research For Future Exo-Earth Direct Imaging Missions
+- **2× cited-seeds** | arXiv 2505.24582 | 2025 | The Dynamics of Infall and Accretion Shocks in the Outer Disk
+- **2× cited-seeds** | arXiv 2410.23036 | 2024 | Evidence for a Sharp CO Snow Line Transition in a Protoplanetary Disk and Implications for Millimeter-wave Observations of CO Isotopologues
+- **2× cited-seeds** | arXiv 2401.01468 | 2024 | Measuring the stellar and planetary parameters of the 51 Eridani system
+- **2× cited-seeds** | arXiv 2409.16212 | 2024 | Low-mass Stellar and Substellar Candidate Companions around Massive Stars in Sco OB1 and M17
+- **2× cited-seeds** | arXiv 2410.17636 | 2024 | Exoplanet imaging data challenge, phase II: comparison of algorithms in terms of characterization capabilities
+- **2× cited-seeds** | arXiv 2407.13430 | 2024 | Star and planet formation with the Single Aperture Large Telescope for Universe Studies space observatory
+- **2× cited-seeds** | arXiv 2403.15845 | 2024 | The First High-contrast Images of Near High-mass X-Ray Binaries with Keck/NIRC2
+- **2× cited-seeds** | arXiv 2407.01694 | 2024 | Retrieving Young Cloudy L Dwarfs: A Nearby Planetary-mass Companion BD+60 1417B and its Isolated Red Twin W0047
+- **2× cited-seeds** | arXiv 2405.11061 | 2024 | The Empirical and Radiative Transfer Hybrid (EaRTH) Disk Model: Merging Analyses of Protoplanetary Dust Disk Mineralogy and Structure
+- **2× cited-seeds** | arXiv — | 2024 | Developing an instrumental polarization characterization routine for SCExAO VAMPIRES
+- **2× cited-seeds** | arXiv — | 2024 | The Importance of Ambipolar Heating in the Standard Thin Accretion Disk with Outflows
+- **2× cited-seeds** | arXiv — | 2024 | Commissioning and calibration of the JWST aperture masking interferometry mode
+- **2× cited-seeds** | arXiv 2411.02488 | 2024 | Combining Direct Black Hole Mass Measurements and Spatially Resolved Stellar Kinematics to Calibrate the M BH–σ ⋆ Relation of Active Galaxies
+- **2× cited-seeds** | arXiv 2410.00961 | 2024 | Extreme Scale Height Variations and Nozzle Shocks in Warped Disks
+- **2× cited-seeds** | arXiv — | 2024 | Unveiling protoplanetary structure equations: Semi-analytical solutions via the homotopy analysis method
+- **2× cited-seeds** | arXiv 2406.05952 | 2024 | Angular momentum transport via gravitational instability in the Elias 2–27 disc
+- **2× cited-seeds** | arXiv — | 2024 | The influence of realistic cooling on the structure and spectrum of self-gravitating protoplanetary discs
+- **2× cited-seeds** | arXiv 2403.09739 | 2024 | The Carbon Isotopic Ratio and Planet Formation
+- **2× cited-seeds** | arXiv 2401.18020 | 2024 | Massive Debris Disks May Hinder Secular Stirring by Planetary Companions: An Analytic Proof of Concept
+- **2× cited-seeds** | arXiv 2411.13991 | 2024 | Collisional damping in debris discs: Only significant if collision velocities are low
+- **2× cited-seeds** | arXiv 2410.06207 | 2024 | Dust Drift Timescales in Protoplanetary Disks at the Cusp of Gravitational Instability
+- **2× cited-seeds** | arXiv 2407.02568 | 2024 | Probing Dust and Gas Properties Using Ringed Disks
+- **2× cited-seeds** | arXiv 2401.15775 | 2024 | Limitations of the modified blackbody fit method for determining molecular cloud properties
+- **2× cited-seeds** | arXiv 2410.11679 | 2024 | ALMA Observations of Proper Motions of the Dust Clumps in the Protoplanetary Disk MWC 758
+- **2× cited-seeds** | arXiv 2410.00136 | 2024 | JWST Captures a Sudden Stellar Outburst and Inner Disk Wall Destruction
+- **2× cited-seeds** | arXiv — | 2024 | The Far-ultraviolet Spectrum of FU Ori South
+- **2× cited-seeds** | arXiv 2407.21518 | 2024 | Detection of Dimethyl Ether in the Central Region of the MWC 480 Protoplanetary Disk
+- **2× cited-seeds** | arXiv 2408.11945 | 2024 | Properties of outer solar system pebbles during planetesimal formation from meteor observations
+- **2× cited-seeds** | arXiv 2405.05314 | 2024 | Convective Overstability in Radially Global Protoplanetary Disks. I. Pure Gas Dynamics
+- **2× cited-seeds** | arXiv — | 2024 | κ Andromedae b Is a Fast Rotator from KPIC High-resolution Spectroscopy
+- **2× cited-seeds** | arXiv 2411.12614 | 2024 | Observational Signatures of Dust Traffic Jams in Polar-aligning Circumbinary Disks
+- **2× cited-seeds** | arXiv 2409.07212 | 2024 | The Early Solar System and Its Meteoritical Witnesses
+- **2× cited-seeds** | arXiv 2405.07334 | 2024 | The formation of protoplanetary disks through pre-main-sequence Bondi–Hoyle accretion
+- **2× cited-seeds** | arXiv 2404.07265 | 2024 | Magnetically Driven Turbulence in the Inner Regions of Protoplanetary Disks
+- **2× cited-seeds** | arXiv 2404.06133 | 2024 | Radial and Vertical Constraints on the Icy Origin of H2CO in the HD 163296 Protoplanetary Disk
+- **2× cited-seeds** | arXiv 2403.04715 | 2024 | Molecular Gas Tracers in Young and Old Protoplanetary Disks
+- **2× cited-seeds** | arXiv 2409.03342 | 2024 | Trajectory of the stellar flyby that shaped the outer Solar System
+- **2× cited-seeds** | arXiv — | 2024 | Identifying embedded accreting protoplanets at and within the diffraction limit using photonic lantern spectro-astrometry
+- **2× cited-seeds** | arXiv — | 2024 | Measuring the Spot Variability of T Tauri Stars Using Near-infrared Atomic Fe and Molecular OH Lines
+- **2× cited-seeds** | arXiv 2402.02529 | 2024 | A Unified Model for Bipolar Outflows from Young Stars: Kinematic and Mixing Structures in HH 30
+- **2× cited-seeds** | arXiv — | 2024 | SHARK-NIR commissioning and early science runs
+- **2× cited-seeds** | arXiv — | 2024 | A Far-ultraviolet-detected Accretion Shock at the Star–Disk Boundary of FU Ori
+- **2× cited-seeds** | arXiv 2403.04592 | 2024 | 89 New Ultracool Dwarf Comoving Companions Identified with the Backyard Worlds: Planet 9 Citizen Science Project
+- **2× cited-seeds** | arXiv 2509.07138 | 2024 | An on-sky investigation into factors limiting the performance of Keck-NIRC2 for conducting infrared high-contrast imaging
+- **2× cited-seeds** | arXiv — | 2024 | Reduction and Archiving of Multiwavelength, Polarized-intensity Debris-disk Observations with the Gemini Planet Imager
+- **2× cited-seeds** | arXiv 2412.08465 | 2024 | Demographics of M Dwarf Binary Exoplanet Hosts Discovered by TESS
+- **2× cited-seeds** | arXiv 2411.08092 | 2024 | Preparing for the Early eVolution Explorer: Characterizing the Photochemical Inputs and Transit Detection Efficiencies of Young Planets Using Multiwavelength Flare Observations by TESS and Swift
+- **2× cited-seeds** | arXiv 2408.04624 | 2024 | Flaring Activity for Low-mass Stars in the β Pictoris Moving Group
+- **2× cited-seeds** | arXiv — | 2024 | TOI-2015 b: A Warm Neptune with Transit Timing Variations Orbiting an Active Mid-type M Dwarf
+- **2× cited-seeds** | arXiv 2407.04763 | 2024 | TESS Investigation—Demographics of Young Exoplanets (TI-DYE). II. A Second Giant Planet in the 17 Myr System HIP 67522
+- **2× cited-seeds** | arXiv 2402.05509 | 2024 | The Impact of Cometary “Impacts” on the Chemistry, Climate, and Spectra of Hot Jupiter Atmospheres
+- **2× cited-seeds** | arXiv 2410.18033 | 2024 | The nested morphology of disk winds from young stars revealed by JWST/NIRSpec observations
+- **2× cited-seeds** | arXiv 2409.08117 | 2024 | JWST Ice Band Profiles Reveal Mixed Ice Compositions in the HH 48 NE Disk
+- **2× cited-seeds** | arXiv — | 2024 | Time Structure of the Average Rotation Measure for Accretion Disk in Shearing Box Approximation
+- **2× cited-seeds** | arXiv 2411.15591 | 2024 | Chemical Links between a Young M-type T Tauri Star and Its Substellar Companion: Spectral Analysis and C/O Measurement of DH Tau A
+- **2× cited-seeds** | arXiv 2412.02847 | 2024 | Exomoons of Circumbinary Planets
+- **2× cited-seeds** | arXiv 2404.13398 | 2024 | Age Analysis of Extrasolar Planets: Insight from Stellar Isochrone Models
+- **2× cited-seeds** | arXiv 2412.15371 | 2024 | Observational Signatures of Disk Winds in Protoplanetary Disks: Differentiating Magnetized and Photoevaporative Outflows with Fully Coupled Thermochemistry
+- **2× cited-seeds** | arXiv — | 2024 | FAUST. XIV. Probing the Flared Disk in L1527 with Sulfur-bearing Molecules
+- **2× cited-seeds** | arXiv 2402.15475 | 2024 | Length and Velocity Scales in Protoplanetary Disk Turbulence
+- **2× cited-seeds** | arXiv — | 2024 | Oldest and coldest: JWST claims a first for exoplanet imaging
+- **2× cited-seeds** | arXiv 2409.07113 | 2024 | A post-starburst pathway for the formation of massive galaxies and black holes at z > 6
+- **2× cited-seeds** | arXiv 2411.13709 | 2024 | The MICADO first light imager for the ELT: testing the Lyot coronagraph prototypes
+- **2× cited-seeds** | arXiv 2409.06773 | 2024 | Design, scientific goals, and performance of the SCExAO survey for planets around accelerating stars
+- **2× cited-seeds** | arXiv 2406.15028 | 2024 | The high-contrast performance of the Keck Planet Imager and Characterizer
+- **2× cited-seeds** | arXiv 2409.11176 | 2024 | MINDS. JWST-MIRI Observations of a Spatially Resolved Atomic Jet and Polychromatic Molecular Wind toward SY Cha
+- **2× cited-seeds** | arXiv 2411.03457 | 2024 | Stellar Coronagraphy
+- **2× cited-seeds** | arXiv — | 2024 | The mass function of young spectroscopic binaries and stars with protoplanetary disks
+- **2× cited-seeds** | arXiv 2310.15231 | 2023 | Direct Detection and Characterization of Exoplanets Using Imaging Fourier Transform Spectroscopy
+- **2× cited-seeds** | arXiv 2310.13066 | 2023 | OGLE-2014-BLG-0221Lb: A Jupiter Mass Ratio Companion Orbiting Either a Late-type Star or a Stellar Remnant
+- **2× cited-seeds** | arXiv 2302.10310 | 2023 | Doppler Constraints on Planetary Companions to Nearby Sun-like Stars: An Archival Radial Velocity Survey of Southern Targets for Proposed NASA Direct Imaging Missions
+- **2× cited-seeds** | arXiv 2305.17065 | 2023 | Spectrally dispersed kernel phase interferometry with SCExAO/CHARIS: proof of concept and calibration strategies
+- **2× cited-seeds** | arXiv 2302.01514 | 2023 | Three-dimensional Global Simulations of Type-II Planet–Disk Interaction with a Magnetized Disk Wind. I. Magnetic Flux Concentration and Gap Properties
+- **2× cited-seeds** | arXiv 2310.12336 | 2023 | RZ Piscium Hosts a Compact and Highly Perturbed Debris Disk
+- **2× cited-seeds** | arXiv — | 2023 | Genetic relationships of solar system bodies based on their nucleosynthetic Ti isotope compositions and sub-structures of the solar protoplanetary disk
+- **2× cited-seeds** | arXiv 2306.03342 | 2023 | First Detection of a Linear Structure in the Midplane of the Young HH 211 Protostellar Disk: A Spiral Arm?
+- **2× cited-seeds** | arXiv — | 2023 | Exploring the Ability of Hubble Space Telescope WFC3 G141 to Uncover Trends in Populations of Exoplanet Atmospheres through a Homogeneous Transmission Survey of 70 Gaseous Planets
+- **2× cited-seeds** | arXiv 2307.02657 | 2023 | DiskMINT: A Tool to Estimate Disk Masses with CO Isotopologues
+- **2× cited-seeds** | arXiv 2308.01972 | 2023 | Gravitational Instability, Spiral Substructure, and Modest Grain Growth in a Typical Protostellar Disk: Modeling Multiwavelength Dust Continuum Observations of TMC1A
+- **2× cited-seeds** | arXiv 2306.15407 | 2023 | Early Planet Formation in Embedded Disks (eDisk). III. A First High-resolution View of Submillimeter Continuum and Molecular Line Emission toward the Class 0 Protostar L1527 IRS
+- **2× cited-seeds** | arXiv 2312.02504 | 2023 | Ring Gap Structure around Class I Protostar WL 17
+- **2× cited-seeds** | arXiv 2305.09687 | 2023 | Variability of Known Exoplanet Host Stars Observed by TESS
+- **2× cited-seeds** | arXiv 2307.03846 | 2023 | JWST Reveals Excess Cool Water near the Snow Line in Compact Disks, Consistent with Pebble Drift
+- **2× cited-seeds** | arXiv 2307.01789 | 2023 | The Effect of Dust Evolution and Traps on Inner Disk Water Enrichment
+- **2× cited-seeds** | arXiv 2305.01493 | 2023 | Using planet migration and dust drift to weigh protoplanetary discs
+- **2× cited-seeds** | arXiv 2307.01154 | 2023 | Eccentric Minidisks in Accreting Binaries
+- **2× cited-seeds** | arXiv 2303.03469 | 2023 | On the Origin of Dust Structures in Protoplanetary Disks: Constraints from the Rossby Wave Instability
+- **2× cited-seeds** | arXiv 2302.03726 | 2023 | A Potential Site for Wide-orbit Giant Planet Formation in the IM Lup Disk
+- **2× cited-seeds** | arXiv — | 2023 | Gas depletion inside the dust gaps in the HD163296 protoplanetary disk
+- **2× cited-seeds** | arXiv — | 2023 | High-angular resolution and high contrast observations from Y to L band at the Very Large Telescope Interferometer with the Asgard Instrumental suite
+- **2× cited-seeds** | arXiv 2303.03621 | 2023 | Planetesimal Growth in Evolving Protoplanetary Disks: Constraints from the Pebble Supply
+- **2× cited-seeds** | arXiv — | 2023 | Spectro-astrometry of embedded accreting protoplanets using photonic lanterns
+- **2× cited-seeds** | arXiv 2309.07114 | 2023 | Monitoring Hα Emission from the Wide-orbit Brown-dwarf Companion FU Tau B
+- **2× cited-seeds** | arXiv 2303.04652 | 2023 | Migration of pairs of giant planets in low-viscosity 
+discs
+- **2× cited-seeds** | arXiv 2301.13260 | 2023 | A Gap-sharing Planet Pair Shaping the Crescent in HD 163296: A Disk Sculpted by a Resonant Chain
+- **2× cited-seeds** | arXiv 2307.11207 | 2023 | Mass Accretion, Spectral, and Photometric Properties of T Tauri Stars in Taurus Based on TESS and LAMOST
+- **2× cited-seeds** | arXiv 2301.01761 | 2023 | Lyα Scattering Models Trace Accretion and Outflow Kinematics in T Tauri Systems
+- **2× cited-seeds** | arXiv 2402.14165 | 2023 | Luminosity Outbursts in Interacting Protoplanetary Systems
+- **2× cited-seeds** | arXiv 2311.00175 | 2023 | Mass and Angular Momentum Transport in a Gravitationally Unstable Protoplanetary Disk with Improved 3D Radiative Hydrodynamics
+- **2× cited-seeds** | arXiv 2307.15024 | 2023 | The Variable Detection of Atmospheric Escape around the Young, Hot Neptune AU Mic b
+- **2× cited-seeds** | arXiv 2312.03272 | 2023 | Multiple Shells Driven by Disk Winds: ALMA Observations in the HH 30 Outflow
+- **2× cited-seeds** | arXiv — | 2023 | Detection of exoplanets: exploiting each property of light
+- **2× cited-seeds** | arXiv 2301.04206 | 2023 | Detecting Exomoons from Radial Velocity Measurements of Self-luminous Planets: Application to Observations of HR 7672 B and Future Prospects
+- **2× cited-seeds** | arXiv — | 2023 | The GAPS Programme at TNG
+- **2× cited-seeds** | arXiv 2209.11778 | 2022 | Formation History of HD 106906 and the Vertical Warping of Debris Disks by an External Inclined Companion
+- **2× cited-seeds** | arXiv 2301.04292 | 2022 | A Possible Converter to Denoise the Images of Exoplanet Candidates through Machine Learning Techniques
+- **2× cited-seeds** | arXiv 2203.02805 | 2022 | Stability Constrained Characterization of the 23 Myr Old V1298 Tau System: Do Young Planets Form in Mean Motion Resonance Chains?
+- **2× cited-seeds** | arXiv 2201.07613 | 2022 | Polarization of Rotationally Oblate Self-luminous Exoplanets with Anisotropic Atmospheres
+- **2× cited-seeds** | arXiv 2208.00996 | 2022 | Performance of near-infrared high-contrast imaging methods with JWST from commissioning
+- **2× cited-seeds** | arXiv 2207.11362 | 2022 | Simulations of polarimetric observations of debris disks through the Roman Coronagraph Instrument
+- **2× cited-seeds** | arXiv — | 2022 | Advances in model-based reinforcement learning for adaptive optics control
+- **2× cited-seeds** | arXiv 2211.02251 | 2022 | Evidence for the Disruption of a Planetary System During the Formation of the Helix Nebula
+- **2× cited-seeds** | arXiv — | 2022 | Origins and design of the Aperture Masking Interferometer on JWST
+- **2× cited-seeds** | arXiv 2204.08506 | 2022 | The size of monomers of dust aggregates in planet-forming disks
+- **2× cited-seeds** | arXiv 2210.02339 | 2022 | Particle Clustering in Turbulence: Prediction of Spatial and Statistical Properties with Deep Learning
+- **2× cited-seeds** | arXiv 2205.11969 | 2022 | Rossby wave instabilities of protoplanetary discs with cooling
+- **2× cited-seeds** | arXiv 2208.01598 | 2022 | Gap Opening and Inner Disk Structure in the Strongly Accreting Transition Disk of DM Tau
+- **2× cited-seeds** | arXiv 2205.06763 | 2022 | Clumpy Accretion in Pre-main-sequence Stars as a Source of Perturbations in Circumstellar Disks
+- **2× cited-seeds** | arXiv — | 2022 | Optimal multi-epoch combination of direct imaging observations for improved exoplanet detection
+- **2× cited-seeds** | arXiv — | 2022 | The Planetary Systems Imager for TMT: driving science cases and top level requirements
+- **2× cited-seeds** | arXiv 2209.12955 | 2022 | GPI 2.0: optical designs for the upgrade of the Gemini Planet Imager coronagraphic system
+- **2× cited-seeds** | arXiv — | 2022 | Simulated design trades for a visible-wavelength integral field spectrograph operating behind a space coronagraph
+- **2× cited-seeds** | arXiv 2204.13811 | 2022 | Integral Field Spectroscopy with the Solar Gravitational Lens
+- **2× cited-seeds** | arXiv — | 2022 | Dark hole maintenance with modal pairwise probing in numerical simulations of Roman coronagraph instrument
+- **2× cited-seeds** | arXiv 2211.02311 | 2022 | Planetesimal Formation by the Gravitational Instability of Dust Ring Structures
+- **2× cited-seeds** | arXiv 2207.07171 | 2022 | An ALMA 1.3 millimeter Search for Debris Disks around Solar-type Stars in the Pleiades
+- **2× cited-seeds** | arXiv — | 2022 | SAMpy: a Fourier-plane pipeline for JWST/NIRISS aperture masking interferometry (and more!)
+- **2× cited-seeds** | arXiv 2211.00118 | 2022 | The Geometry of the G29-38 White Dwarf Dust Disk from Radiative Transfer Modeling
+- **2× cited-seeds** | arXiv 2203.03213 | 2022 | Probing Magnetic Fields in Protoplanetary Disk Atmospheres through Polarized Near-IR Light Scattered by Aligned Grains
+- **2× cited-seeds** | arXiv 2206.01219 | 2022 | Establishing Dust Rings and Forming Planets within Them
+- **2× cited-seeds** | arXiv 2208.07956 | 2022 | HST UV Spectroscopy of the Planet-hosting T Tauri Star PDS 70
+- **2× cited-seeds** | arXiv — | 2022 | Effects of the Planetary Field on the Accretion Process of a Planet in the Final Stage of Giant Planet Formation
+- **2× cited-seeds** | arXiv 2202.11730 | 2022 | Using Bayesian Deep Learning to Infer Planet Mass from Gaps in Protoplanetary Disks
+- **2× cited-seeds** | arXiv 2209.08216 | 2022 | The Kinematics and Excitation of Infrared Water Vapor Emission from Planet-forming Disks: Results from Spectrally Resolved Surveys and Guidelines for JWST Spectra
+- **2× cited-seeds** | arXiv 2207.08858 | 2022 | Turbulent Dust-trapping Rings as Efficient Sites for Planetesimal Formation
+- **2× cited-seeds** | arXiv 2212.00599 | 2022 | Measuring the Dust Masses of Protoplanetary Disks in Lupus with ALMA: Evidence That Disks Can Be Optically Thick at 3 mm
+- **2× cited-seeds** | arXiv 2211.09541 | 2022 | Locating Hidden Exoplanets in ALMA Data Using Machine Learning
+- **2× cited-seeds** | arXiv 2211.01570 | 2022 | Grain Growth in the Dust Ring with a Crescent around the Very Low-mass Star ZZ Tau IRS with JVLA
+- **2× cited-seeds** | arXiv 2210.02052 | 2022 | Nonlinear Outcome of Coagulation Instability in Protoplanetary Disks. II. Dust-ring Formation Mediated by Backreaction and Fragmentation
+- **2× cited-seeds** | arXiv 2212.06869 | 2022 | Hyperion: the origin of the stars. A far UV space telescope for high-resolution spectroscopy over wide fields
+- **2× cited-seeds** | arXiv 2208.06005 | 2022 | The Molecular Composition of Shadowed Proto-solar Disk Midplanes Beyond the Water Snowline
+- **2× cited-seeds** | arXiv 2206.03236 | 2022 | The Doppler Flip in HD 100546 as a Disk Eruption: The Elephant in the Room of Kinematic Protoplanet Searches
+- **2× cited-seeds** | arXiv 2202.00524 | 2022 | Chemical Feedback of Pebble Growth: Impacts on CO depletion and C/O ratios
+- **2× cited-seeds** | arXiv 2210.11764 | 2022 | Deriving Median Disk Lifetimes from Disk Lifetime Distributions
+- **2× cited-seeds** | arXiv 2303.14010 | 2022 | Magnetohydrodynamic Model of Late Accretion onto a Protoplanetary Disk: Cloudlet Encounter Event
+- **2× cited-seeds** | arXiv 2211.02121 | 2022 | The Impact of Bayesian Hyperpriors on the Population-level Eccentricity Distribution of Imaged Planets
+- **2× cited-seeds** | arXiv — | 2022 | VERMILION: Visitor Extension spectRal sub-Mid-Infrared Light InterferOmeter iNstrument
+- **2× cited-seeds** | arXiv — | 2022 | Development of a rotational shearing interferometer for detection of (habitable) exoplanets
+- **2× cited-seeds** | arXiv — | 2022 | Rotational Shearing Interferometer in Detection of the Super-Earth Exoplanets
+- **2× cited-seeds** | arXiv 2208.05016 | 2022 | Near-infrared Accretion Signatures from the Circumbinary Planetary-mass Companion Delorme 1 (AB)b
+- **2× cited-seeds** | arXiv 2204.06646 | 2022 | The Many-faceted Light Curves of Young Disk-bearing Stars in Taurus as Seen by K2
+- **2× cited-seeds** | arXiv 2204.01758 | 2022 | Disk Evolution Study through Imaging of Nearby Young Stars (DESTINYS): A Panchromatic View of DO Tau’s Complex Kilo-astronomical-unit Environment
+- **2× cited-seeds** | arXiv 2201.03024 | 2022 | Eccentric Dust-ring Formation in Kozai–Lidov Gas Disks
+- **2× cited-seeds** | arXiv 2209.12795 | 2022 | Multiwavelength Observations of MWC 297: Constraints on Disk Inclination and Mass Outflow
+- **2× cited-seeds** | arXiv 2211.15576 | 2022 | Hubble Space Telescope Transmission Spectroscopy for the Temperate Sub-Neptune TOI-270 d: A Possible Hydrogen-rich Atmosphere Containing Water Vapor
+- **2× cited-seeds** | arXiv 2209.05765 | 2022 | Color Dependence of the Transit Detectability of Young Active M Dwarfs
+- **2× cited-seeds** | arXiv 2205.01112 | 2022 | Kepler and the Behemoth: Three Mini-Neptunes in a 40 Million Year Old Association
+- **2× cited-seeds** | arXiv 2212.03266 | 2022 | TESS Hunt for Young and Maturing Exoplanets (THYME). IX. A 27 Myr Extended Population of Lower Centaurus Crux with a Transiting Two-planet System
+- **2× cited-seeds** | arXiv 2207.11574 | 2022 | Identification and Parameter Determination of F-type Herbig Stars from LAMOST DR8
+- **2× cited-seeds** | arXiv 2208.12720 | 2022 | 3D Selection of 167 Substellar Companions to Nearby Stars
+- **2× cited-seeds** | arXiv — | 2022 | VLTI/Hi-5: detection yield predictions for young giant exoplanets
+- **2× cited-seeds** | arXiv — | 2022 | Imaging nearby, habitable-zone planets with the Large Binocular Telescope Interferometer
+- **2× cited-seeds** | arXiv 2208.02503 | 2022 | Cosmic-Ray Ionization Rate in Protoplanetary Disks with Sheared Magnetic Fields
+- **2× cited-seeds** | arXiv 2208.01809 | 2022 | High contrast and high angular imaging at Subaru Telescope
+- **2× cited-seeds** | arXiv 2103.12824 | 2021 | Discovery of an Edge-on Circumstellar Debris Disk around BD+45° 598: A Newly Identified Member of the β Pictoris Moving Group
+- **2× cited-seeds** | arXiv — | 2021 | PlanetEvidence: Planet or Noise?
+- **2× cited-seeds** | arXiv 2109.14312 | 2021 | GTC/CanariCam Deep Mid-infrared Imaging Survey of Northern Stars within 5 pc
+- **2× cited-seeds** | arXiv 2109.12124 | 2021 | SCExAO/CHARIS Direct Imaging of A Low-mass Companion At A Saturn-like Separation from an Accelerating Young A7 Star
+- **2× cited-seeds** | arXiv 2109.00870 | 2021 | Occulter to earth: prospects for studying earth-like planets with the E-ELT and a space-based occulter
+- **2× cited-seeds** | arXiv 2110.15361 | 2021 | High contrast imaging wavefront sensor referencing from coronagraphic images
+- **2× cited-seeds** | arXiv 2107.12368 | 2021 | Revealing the Vertical Cloud Structure of a Young Low-mass Brown Dwarf, an Analog to the β-Pictoris b Directly Imaged Exoplanet, through Keck I/MOSFIRE Spectrophotometric Variability
+- **2× cited-seeds** | arXiv 2107.06375 | 2021 | Exoplanets with ELT-METIS
+- **2× cited-seeds** | arXiv — | 2021 | Keck Planet Imager and Characterizer: a dedicated single-mode fiber injection unit for high-resolution exoplanet spectroscopy
+- **2× cited-seeds** | arXiv 2106.14994 | 2021 | A Pilot Radio Search for Magnetic Activity in Directly Imaged Exoplanets
+- **2× cited-seeds** | arXiv 2104.13531 | 2021 | Direct Imaging of Exoplanets beyond the Radial Velocity Limit: Application to the HD 134987 System
+- **2× cited-seeds** | arXiv 2103.09252 | 2021 | Improved Contrast in Images of Exoplanets Using Direct Signal-to-noise Ratio Optimization
+- **2× cited-seeds** | arXiv — | 2021 | Imaging low-mass planets within the habitable zone of Î± Centauri
+- **2× cited-seeds** | arXiv 2104.00433 | 2021 | Modulated accretion in the T Tauri star RY Tau – a stable MHD propeller or a planet at 0.2 au?
+- **2× cited-seeds** | arXiv 2102.07963 | 2021 | Protoplanetary disk formation from the collapse of a prestellar core
+- **2× cited-seeds** | arXiv 2108.08323 | 2021 | On the Detection of Exomoons Transiting Isolated Planetary-mass Objects
+- **2× cited-seeds** | arXiv 2101.05838 | 2021 | Dynamical Masses and Stellar Evolutionary Model Predictions of M Stars
+- **2× cited-seeds** | arXiv 2108.01541 | 2021 | Axisymmetric simulations of the convective overstability in protoplanetary discs
+- **2× cited-seeds** | arXiv 2108.13437 | 2021 | Obliquity Constraints on the Planetary-mass Companion HD 106906 b
+- **2× cited-seeds** | arXiv 2102.02220 | 2021 | Memories of past close encounters in extreme trans-Neptunian space: Finding unseen planets using pure random searches
+- **2× cited-seeds** | arXiv 2105.13537 | 2021 | Planets around young active solar-type stars: assessing detection capabilities from a non-stabilized spectrograph
+- **2× cited-seeds** | arXiv 2106.04536 | 2021 | TOI–1278 B: SPIRou Unveils a Rare Brown Dwarf Companion in Close-in Orbit around an M Dwarf
+- **2× cited-seeds** | arXiv 2103.03268 | 2021 | The HOSTS Survey: Evidence for an Extended Dust Disk and Constraints on the Presence of Giant Planets in the Habitable Zone of β Leo
+- **2× cited-seeds** | arXiv — | 2021 | Gravitational instability and the formation of planetary systems of solar-type stars
+- **2× cited-seeds** | arXiv 2104.05927 | 2021 | Impact of Differential Dust Settling on the SED and Polarization: Application to the Inner Region of the HL Tau Disk
+- **2× cited-seeds** | arXiv 2108.03269 | 2021 | Information-theoretical Limits of Recursive Estimation and Closed-loop Control in High-contrast Imaging
+- **2× cited-seeds** | arXiv 2107.01222 | 2021 | The Brown Dwarf Kinematics Project (BDKP). V. Radial and Rotational Velocities of T Dwarfs from Keck/NIRSPEC High-resolution Spectroscopy
+- **2× cited-seeds** | arXiv 2103.14052 | 2021 | The surface magnetic activity of the weak-line T Tauri stars TWA 7 and TWA 25
+- **2× cited-seeds** | arXiv 2108.07679 | 2021 | If you like C/O variations, you should have put a ring on it
+- **2× cited-seeds** | arXiv 2104.03400 | 2021 | Testing Photoevaporation and MHD Disk Wind Models through Future High-angular Resolution Radio Observations: The Case of TW Hydrae
+- **2× cited-seeds** | arXiv — | 2021 | Settling time of solid grains in gaseous giant protoplanets
+- **2× cited-seeds** | arXiv 2101.07762 | 2021 | On the non-axisymmetric fragmentation of rings generated by the secular gravitational instability
+- **2× cited-seeds** | arXiv 2109.03313 | 2021 | Radiation pressure confinement – V. The predicted free–free absorption and emission in active galactic nuclei
+- **2× cited-seeds** | arXiv 2107.00244 | 2021 | The Galaxy Activity, Torus, and Outflow Survey (GATOS)
+- **2× cited-seeds** | arXiv 2104.10227 | 2021 | The Galaxy Activity, Torus, and Outflow Survey (GATOS)
+- **2× cited-seeds** | arXiv 2102.12130 | 2021 | Dynamical model of an obscuring clumpy torus in AGNs – I. Velocity and velocity dispersion maps for interpretation of ALMA observations
+- **2× cited-seeds** | arXiv 2106.03607 | 2021 | Gravito-turbulence and dynamo in poorly ionized protostellar discs – I. Zero-net-flux case
+- **2× cited-seeds** | arXiv 2107.08370 | 2021 | On the Crystallinity of Silicate Dust in Evolving Protoplanetary Disks due to Magnetically Driven Disk Winds
+- **2× cited-seeds** | arXiv 2101.12502 | 2021 | Destruction of Refractory Carbon Grains Drives the Final Stage of Protoplanetary Disk Chemistry
+- **2× cited-seeds** | arXiv 2103.00568 | 2021 | A New Sample of Warm Extreme Debris Disks from the ALLWISE Catalog
+- **2× cited-seeds** | arXiv — | 2021 | Characterization of HD 206893 B from Near- to Thermal-infrared
+- **2× cited-seeds** | arXiv 2105.12465 | 2021 | Non-linear dynamics of hydrodynamic tori as a model of oscillations and bending waves in astrophysical discs
+- **2× cited-seeds** | arXiv 2107.12520 | 2021 | The Mass Budgets and Spatial Scales of Exoplanet Systems and Protoplanetary Disks
+- **2× cited-seeds** | arXiv 2101.04121 | 2021 | Modelling the delivery of dust from discs to ionized winds
+- **2× cited-seeds** | arXiv 2108.00878 | 2021 | Dust growth, fragmentation, and self-induced dust traps in phantom
+- **2× cited-seeds** | arXiv 2302.07156 | 2021 | Understanding planet formation using microgravity experiments
+- **2× cited-seeds** | arXiv 2110.09684 | 2021 | Millimeter-sized Dust Grains Surviving the Water-sublimating Temperature in the Inner 10 au of the FU Ori Disk
+- **2× cited-seeds** | arXiv 2103.02566 | 2021 | The Effect of the Approach to Gas Disk Gravitational Instability on the Rapid Formation of Gas Giant Planets. II. Quadrupled Spatial Resolution
+- **2× cited-seeds** | arXiv — | 2021 | Viscous heating in the disk of the outbursting star FU Orionis
+- **2× cited-seeds** | arXiv 2112.02977 | 2021 | Near-infrared Polarization from Unresolved Disks around Brown Dwarfs and Young Stellar Objects
+- **2× cited-seeds** | arXiv 2112.00747 | 2021 | Kepler-167e as a Probe of the Formation Histories of Cold Giants with Inner Super-Earths
+- **2× cited-seeds** | arXiv 2111.10381 | 2021 | Streaming Instabilities in Accreting and Magnetized Laminar Protoplanetary Disks
+- **2× cited-seeds** | arXiv 2110.06594 | 2021 | Formation of ring-like structures in flared α-discs with X-ray/FUV photoevaporation
+- **2× cited-seeds** | arXiv 2107.05268 | 2021 | On dust evolution in planet-forming discs in binary systems – II. Comparison with Taurus and ρ Ophiuchus (sub-)millimetre observations: discs in binaries have small dust sizes
+- **2× cited-seeds** | arXiv 2103.02011 | 2021 | History of the solar nebula from meteorite paleomagnetism
+- **2× cited-seeds** | arXiv — | 2021 | Orbital Migration and Circularization of Tidal Debris by Alfvén-wave Drag: Circumstellar Debris and Pollution around White Dwarfs
+- **2× cited-seeds** | arXiv 2111.07416 | 2021 | Mapping the Planetary Wake in HD 163296 with Kinematics
+- **2× cited-seeds** | arXiv — | 2021 | Orbiting Astronomical Satellite for Investigating Stellar Systems (OASIS): following the water trail from the interstellar medium to oceans
+- **2× cited-seeds** | arXiv 2105.04768 | 2021 | X-Ray Superflares from Pre-main-sequence Stars: Flare Energetics and Frequency
+- **2× cited-seeds** | arXiv 2103.16453 | 2021 | An ALMA Survey of Protoplanetary Disks in Lynds 1641
+- **2× cited-seeds** | arXiv 2108.01277 | 2021 | Comparison of Planetary Hα-emission Models: A New Correlation with Accretion Luminosity
+- **2× cited-seeds** | arXiv 2208.02720 | 2021 | Data-driven subspace predictive control: lab demonstration and future outlook
+- **2× cited-seeds** | arXiv — | 2021 | Constraining PDS 70b’s Formation Mechanism with Multi-hydrogen-emission Observations
+- **2× cited-seeds** | arXiv 2110.12079 | 2021 | The LHS 1678 System: Two Earth-sized Transiting Planets and an Astrometric Companion Orbiting an M Dwarf Near the Convective Boundary at 20 pc
+- **2× cited-seeds** | arXiv 2110.09531 | 2021 | TESS Hunt for Young and Maturing Exoplanets (THYME). VI. An 11 Myr Giant Planet Transiting a Very-low-mass Star in Lower Centaurus Crux
+- **2× cited-seeds** | arXiv 2105.13467 | 2021 | The CARMENES search for exoplanets around M dwarfs
+- **2× cited-seeds** | arXiv 2103.12922 | 2021 | Constraints on the mass and on the atmospheric composition and evolution of the low-density young planet DS Tucanae A b
+- **2× cited-seeds** | arXiv 2109.06319 | 2021 | Molecules with ALMA at Planet-forming Scales (MAPS). IX. Distribution and Properties of the Large Organic Molecules HC3N, CH3CN, and c-C3H2
+- **2× cited-seeds** | arXiv 2103.12128 | 2021 | Meridional Circulation of Dust and Gas in the Circumstellar Disk: Delivery of Solids onto the Circumplanetary Region
+- **2× cited-seeds** | arXiv 2102.04385 | 2021 | Search for (sub)stellar Companions of Exoplanet Hosts by Exploring the Second ESA-Gaia Data Release
+- **2× cited-seeds** | arXiv — | 2020 | Constraining orbits and masses of stellar companions with SCExAO imaging and REACH spectroscopy
+- **2× cited-seeds** | arXiv — | 2020 | Segregation of heavy elements in an initial protoplanet
+- **2× cited-seeds** | arXiv 2010.10534 | 2020 | Giant Planets, Tiny Stars: Producing Short-period Planets around White Dwarfs with the Eccentric Kozai–Lidov Mechanism
+- **2× cited-seeds** | arXiv — | 2020 | PIC: a data reduction algorithm for integral field spectrographs
+- **2× cited-seeds** | arXiv 2002.09271 | 2020 | Flyby encounters between two planetary systems II: exploring the interactions of diverse planetary system architectures
+- **2× cited-seeds** | arXiv 2002.08372 | 2020 | Linking the formation and fate of exo-Kuiper belts within Solar system analogues
+- **2× cited-seeds** | arXiv 2001.10062 | 2020 | Planet formation around M dwarfs via disc instability
+- **2× cited-seeds** | arXiv 2001.00148 | 2020 | Evidence for planetary hypothesis for PTFO 8-8695 b with five-year optical/infrared monitoring observations
+- **2× cited-seeds** | arXiv 2002.04762 | 2020 | precision: a fast python pipeline for high-contrast imaging – application to SPHERE observations of the red supergiant VX Sagitariae
+- **2× cited-seeds** | arXiv 2012.05094 | 2020 | Improving the RSM map exoplanet detection algorithm
+- **2× cited-seeds** | arXiv 2007.10997 | 2020 | Dynamical traceback age of the β Pictoris moving group
+- **2× cited-seeds** | arXiv 2003.04336 | 2020 | Comparing focal plane wavefront control techniques: Numerical simulations and laboratory experiments
+- **2× cited-seeds** | arXiv 2004.03600 | 2020 | Erosion-driven Size Redistribution of Protoplanetary Disk Solids and the Onset of Streaming Instability and Pebble Accretion
+- **2× cited-seeds** | arXiv 2004.05170 | 2020 | Strong Near-infrared Spectral Variability of the Young Cloudy L Dwarf Companion VHS J1256–1257 b
+- **2× cited-seeds** | arXiv — | 2020 | Status of the SCExAO instrument: recent technology upgrades and path to a system-level demonstrator for PSI
+- **2× cited-seeds** | arXiv — | 2020 | New NIR spectro-polarimetric modes for the SCExAO instrument
+- **2× cited-seeds** | arXiv 2010.00887 | 2020 | Investigating the magnetospheric accretion process in the young pre-transitional disk system DoAr 44 (V2062 Oph)
+- **2× cited-seeds** | arXiv 2008.04952 | 2020 | Low-level Carbon Monoxide Line Polarization in Two Protoplanetary Disks: HD 142527 and IM Lup
+- **2× cited-seeds** | arXiv 2003.03499 | 2020 | The HOSTS Survey for Exozodiacal Dust: Observational Results from the Complete Survey
+- **2× cited-seeds** | arXiv 2011.06774 | 2020 | The TW Hya Rosetta Stone Project. I. Radial and Vertical Distributions of DCN and DCO+
+- **2× cited-seeds** | arXiv 2007.09517 | 2020 | CO Depletion in Protoplanetary Disks: A Unified Picture Combining Physical Sequestration and Chemical Processing
+- **2× cited-seeds** | arXiv 2005.12920 | 2020 | Illuminating a tadpole’s metamorphosis II: observing the ongoing transformation with ALMA
+- **2× cited-seeds** | arXiv 2003.12580 | 2020 | Protoplanetary Disks in the Orion Nebula Cluster: Gas-disk Morphologies and Kinematics as Seen with ALMA
+- **2× cited-seeds** | arXiv — | 2020 | Structure of the self-gravitating accretion discs in the presence of outflow
+- **2× cited-seeds** | arXiv 2010.13990 | 2020 | Kinematical Signs of Dust Trapping and Feedback in a Local Pressure Bump in the Protoplanetary Disk around HD 142527 Revealed with ALMA
+- **2× cited-seeds** | arXiv 2011.07083 | 2020 | The age of the carina young association and potential membership of HD 95086
+- **2× cited-seeds** | arXiv — | 2020 | A Dynamical Mass of 70 ± 5 M Jup for Gliese 229B, the First T Dwarf
+- **2× cited-seeds** | arXiv 2007.06991 | 2020 | Stellar Oblateness versus Distant Giants in Exciting Kepler Planet Mutual Inclinations
+- **2× cited-seeds** | arXiv 2002.07765 | 2020 | Cool outflows in galaxies and their implications
+- **2× cited-seeds** | arXiv 2011.05769 | 2020 | The fate of planetesimals formed at planetary gap edges
+- **2× cited-seeds** | arXiv 2010.06074 | 2020 | A smoothed particle hydrodynamics algorithm for multigrain dust with separate sets of particles
+- **2× cited-seeds** | arXiv 2007.07890 | 2020 | The birth environment of planetary systems
+- **2× cited-seeds** | arXiv 2007.06824 | 2020 | ALMA Band-to-band Phase Referencing: Imaging Capabilities on Long Baselines and High Frequencies
+- **2× cited-seeds** | arXiv 2003.07472 | 2020 | ALMA High-frequency Long Baseline Campaign in 2017: Band-to-band Phase Referencing in Submillimeter Waves
+- **2× cited-seeds** | arXiv 2003.01167 | 2020 | Dust dynamics and vertical settling in gravitoturbulent protoplanetary discs
+- **2× cited-seeds** | arXiv — | 2020 | Volatile depletion in planet-forming disks
+- **2× cited-seeds** | arXiv 2001.07550 | 2020 | 13C17O suggests gravitational instability in the HL Tau disc
+- **2× cited-seeds** | arXiv 2002.12525 | 2020 | An ALMA Survey of H2CO in Protoplanetary Disks
+- **2× cited-seeds** | arXiv 2012.03985 | 2020 | ALMA observations of the early stages of substellar formation in the Lupus 1 and 3 molecular clouds
+- **2× cited-seeds** | arXiv — | 2020 | Reconciling kernel-phase and coronagraphy: new steps towards combining the performance of opposing techniques
+- **2× cited-seeds** | arXiv 2010.01310 | 2020 | KELT-11 b: Abundances of Water and Constraints on Carbon-bearing Molecules from the Hubble Transmission Spectrum
+- **2× cited-seeds** | arXiv 2009.08579 | 2020 | Multi-orbital-phase and Multiband Characterization of Exoplanetary Atmospheres with Reflected Light Spectra
+- **2× cited-seeds** | arXiv 2009.01330 | 2020 | Utilizing a Database of Simulated Geometric Albedo Spectra for Photometric Characterization of Rocky Exoplanet Atmospheres
+- **2× cited-seeds** | arXiv 2005.12097 | 2020 | On-sky verification of Fast and Furious focal-plane wavefront sensing: Moving forward toward controlling the island effect at Subaru/SCExAO
+- **2× cited-seeds** | arXiv 2012.07932 | 2020 | Origin and dynamical evolution of the asteroid belt
+- **2× cited-seeds** | arXiv — | 2020 | The partitioning of the inner and outer Solar System by a structured protoplanetary disk
+- **2× cited-seeds** | arXiv — | 2020 | The partitioning of the inner and outer Solar System by a structured protoplanetary disk
+- **2× cited-seeds** | arXiv 2010.08403 | 2020 | Velocity-inverted Three-dimensional Distribution of the Gas Clouds in the Type 2 AGN NGC 1068
+- **2× cited-seeds** | arXiv 2005.01220 | 2020 | Dynamical evidence from the sub-parsec counter-rotating disc for a close binary of supermassive black holes in NGC 1068
+- **2× cited-seeds** | arXiv 2007.05274 | 2020 | Disk Evolution Study Through Imaging of Nearby Young Stars (DESTINYS): A close low-mass companion to ET Cha
+- **2× cited-seeds** | arXiv 2003.00743 | 2020 | Disk of 2MASS 15491331−3539118 = GQ Lup C as seen by HST and WISE
+- **2× cited-seeds** | arXiv 2010.13722 | 2020 | Resolved molecular line observations reveal an inherited molecular layer in the young disk around TMC1A
+- **2× cited-seeds** | arXiv 2010.03657 | 2020 | Four annular structures in a protostellar disk less than 500,000 years old
+- **2× cited-seeds** | arXiv 2001.06225 | 2020 | Massive discs around low-mass stars
+- **2× cited-seeds** | arXiv 2007.01313 | 2020 | Dust size and spatial distributions in debris discs: predictions for exozodiacal dust dragged in from an exo-Kuiper belt
+- **2× cited-seeds** | arXiv 2005.10077 | 2020 | Characterizing brown dwarf companions with IRDIS long-slit spectroscopy: HD 1160 B and HD 19467 B
+- **2× cited-seeds** | arXiv 2011.11821 | 2020 | A precise asteroseismic age and metallicity for HD 139614: a pre-main-sequence star with a protoplanetary disc in Upper Centaurus–Lupus
+- **2× cited-seeds** | arXiv — | 2020 | Spiral structure generated by major planets in protoplanetary disks
+- **2× cited-seeds** | arXiv — | 2020 | Spiral structure generated by major planets in proto-planetary disks: the role of periodic orbits near resonance.
+- **2× cited-seeds** | arXiv 2011.10626 | 2020 | A New Window into Planet Formation and Migration: Refractory-to-Volatile Elemental Ratios in Ultra-hot Jupiters
+- **2× cited-seeds** | arXiv 2009.14528 | 2020 | VIBES: Visual Binary Exoplanet survey with SPHERE
+- **2× cited-seeds** | arXiv 2009.08996 | 2020 | Untangling Magnetic Complexity in Protoplanetary Disks with the Zeeman Effect
+- **2× cited-seeds** | arXiv 2010.00862 | 2020 | Parametric instability in a free-evolving warped protoplanetary disc
+- **2× cited-seeds** | arXiv 2007.01871 | 2020 | Evidence for a high mutual inclination between the cold Jupiter and transiting super Earth orbiting π Men
+- **2× cited-seeds** | arXiv 2005.11330 | 2020 | Observed sizes of planet-forming disks trace viscous spreading
+- **2× cited-seeds** | arXiv 2009.03861 | 2020 | On the Nature of the T Tauri Triple System
+- **2× cited-seeds** | arXiv 2006.10139 | 2020 | Is T Tauri North a “Classical” T Tauri Star?
+- **2× cited-seeds** | arXiv 2012.08127 | 2020 | Pebbles in an embedded protostellar disk: the case of CB 26
+- **2× cited-seeds** | arXiv — | 2020 | The eccentricity distribution of giant planets and their relation to super-Earths in the pebble accretion scenario
+- **2× cited-seeds** | arXiv 2009.03529 | 2020 | Diffraction-limited integral-field spectroscopy for extreme adaptive optics systems with the multicore fiber-fed integral-field unit
+- **2× cited-seeds** | arXiv 2005.05132 | 2020 | Photoevaporation of the Jovian circumplanetary disk
+- **2× cited-seeds** | arXiv 2005.11725 | 2020 | Strong Hα emission and signs of accretion in a circumbinary planetary mass companion from MUSE
+- **2× cited-seeds** | arXiv 2003.13398 | 2020 | On the structure and mass delivery towards circumplanetary discs
+- **2× cited-seeds** | arXiv 2011.07865 | 2020 | Viscous Heating and Boundary Layer Accretion in the Disk of Outbursting Star FU Orionis
+- **2× cited-seeds** | arXiv 2007.12056 | 2020 | Discovery of a mid-infrared protostellar outburst of exceptional amplitude
+- **2× cited-seeds** | arXiv 2011.08279 | 2020 | Imaging the Dusty Substructures due to Terrestrial Planets in Planet-forming Disks with ALMA and the Next-generation Very Large Array
+- **2× cited-seeds** | arXiv 2011.02869 | 2020 | Accretion of Gas Giants Constrained by the Tidal Barrier
+- **2× cited-seeds** | arXiv 2007.08235 | 2020 | Migrating low-mass planets in inviscid dusty protoplanetary discs
+- **2× cited-seeds** | arXiv 2007.03393 | 2020 | Search for Alignment of Disk Orientations in Nearby Star-forming Regions: Lupus, Taurus, Upper Scorpius, ρ Ophiuchi, and Orion
+- **2× cited-seeds** | arXiv 2006.06451 | 2020 | Promoted mass growth of multiple, distant giant planets through pebble accretion and planet–planet collision
+- **2× cited-seeds** | arXiv 2004.04942 | 2020 | Planet formation by pebble accretion in ringed disks
+- **2× cited-seeds** | arXiv 2010.02186 | 2020 | On the Accuracy of the ALMA Flux Calibration in the Time Domain and across Spectral Windows
+- **2× cited-seeds** | arXiv 2002.09058 | 2020 | Probing UV-sensitive Pathways for CN and HCN Formation in Protoplanetary Disks with the Hubble Space Telescope
+- **2× cited-seeds** | arXiv 2001.02666 | 2020 | The Evolution of Dust Disk Sizes from a Homogeneous Analysis of 1–10 Myr old Stars
+- **2× cited-seeds** | arXiv 2011.01209 | 2020 | Increasing the achievable contrast of infrared interferometry with an error correlation model
+- **2× cited-seeds** | arXiv 2007.12320 | 2020 | MIRC-X: A Highly Sensitive Six-telescope Interferometric Imager at the CHARA Array
+- **2× cited-seeds** | arXiv — | 2020 | The polarimetric dust properties of the debris disc HR4796
+- **2× cited-seeds** | arXiv 2012.07728 | 2020 | Experimental analysis of the achromatic performance of a vector vortex coronagraph
+- **2× cited-seeds** | arXiv 2008.10668 | 2020 | The Magnetic Field of the Active Planet-hosting M Dwarf AU Mic
+- **2× cited-seeds** | arXiv — | 2020 | Spin-orbit alignment and magnetic activity in the young planetary system AU Mic
+- **2× cited-seeds** | arXiv 1903.11868 | 2019 | The protoplanetary disc HD 163296 as observed by ALMA
+- **2× cited-seeds** | arXiv 1910.02965 | 2019 | The Possible Astrometric Signature of a Planetary-mass Companion to the Nearby Young Star TW Piscis Austrini (Fomalhaut B): Constraints from Astrometry, Radial Velocities, and Direct Imaging
+- **2× cited-seeds** | arXiv 1909.02870 | 2019 | Substellar Companions of the Young Weak-line TTauri Star DoAr21
+- **2× cited-seeds** | arXiv — | 2019 | Star-Planet Interactions: Emission Spectroscopy of H$_{3}^{+}$ in Extrasolar Giant Planet Atmospheres
+- **2× cited-seeds** | arXiv 1912.02806 | 2019 | Spectral library of age-benchmark low-mass stars and brown dwarfs
+- **2× cited-seeds** | arXiv — | 2019 | The Habitable Exoplanet Observatory (HabEx)
+- **2× cited-seeds** | arXiv 1908.08052 | 2019 | Tidal circularization of gaseous planets orbiting white dwarfs
+- **2× cited-seeds** | arXiv — | 2019 | Mid-Infrared Imaging of Two Circumstellar Disks: the cases ofHD 179218 and Epsilon Eridani.
+- **2× cited-seeds** | arXiv 1909.09850 | 2019 | Possible Progression of Mass-flow Processes around Young Intermediate-mass Stars Based on High-resolution Near-infrared Spectroscopy. I. Taurus
+- **2× cited-seeds** | arXiv 1902.07581 | 2019 | Unveiling a cluster of protostellar disks around the massive protostar GGD 27 MM1
+- **2× cited-seeds** | arXiv 1912.05412 | 2019 | Regime-switching model detection map for direct exoplanet detection in ADI sequences
+- **2× cited-seeds** | arXiv 1910.01756 | 2019 | orbitize!: A Comprehensive Orbit-fitting Software Package for the High-contrast Imaging Community
+- **2× cited-seeds** | arXiv 1907.06767 | 2019 | Searching for Wide Companions and Identifying Circum(sub)stellar Disks through PSF Fitting of Spitzer/IRAC Archival Images
+- **2× cited-seeds** | arXiv 1901.01929 | 2019 | Star–disc (mis-)alignment in Rho Oph and Upper Sco: insights from spatially resolved disc systems with K2 rotation periods
+- **2× cited-seeds** | arXiv 1902.05385 | 2019 | Pebble accretion in self-gravitating protostellar discs
+- **2× cited-seeds** | arXiv 1911.09850 | 2019 | Signals of axion like dark matter in time dependent polarization of light
+- **2× cited-seeds** | arXiv 1906.11638 | 2019 | Gas Accretion within the Dust Cavity in AB Aur
+- **2× cited-seeds** | arXiv 1903.01987 | 2019 | Multiepoch Ultraviolet HST Observations of Accreting Low-mass Stars
+- **2× cited-seeds** | arXiv 1912.06788 | 2019 | Dynamics of small grains in transitional discs
+- **2× cited-seeds** | arXiv 1908.00132 | 2019 | High-resolution Near-infrared Spectroscopy of HD 100546. IV. Orbiting Companion Disappears on Schedule
+- **2× cited-seeds** | arXiv 1904.09006 | 2019 | Performance of the Gemini Planet Imager Non-redundant Mask and Spectroscopy of Two Close-separation Binaries: HR 2690 and HD 142527
+- **2× cited-seeds** | arXiv 1903.11252 | 2019 | Kernel phase imaging with VLT/NACO: high-contrast detection of new candidate low-mass stellar companions at the diffraction limit
+- **2× cited-seeds** | arXiv 1911.11152 | 2019 | The dry and carbon-poor inner disk of TW Hydrae: evidence for a massive icy dust trap
+- **2× cited-seeds** | arXiv 1904.00333 | 2019 | The Anomalously Low (Sub)Millimeter Spectral Indices of Some Protoplanetary Disks May Be Explained By Dust Self-scattering
+- **2× cited-seeds** | arXiv 1901.01800 | 2019 | Close-in Super-Earths: The first and the last stages of planet formation in an MRI-accreting disc
+- **2× cited-seeds** | arXiv 1903.01890 | 2019 | Effect of dust size and structure on scattered-light images of protoplanetary discs
+- **2× cited-seeds** | arXiv — | 2019 | Two accreting protoplanets around the young star PDS 70
+- **2× cited-seeds** | arXiv 1902.07191 | 2019 | PDS 70: A Transition Disk Sculpted by a Single Planet
+- **2× cited-seeds** | arXiv 1909.05520 | 2019 | An ALMA Study of the FU Ori–type Object V900 Mon: Implications for the Progenitor
+- **2× cited-seeds** | arXiv 1904.01632 | 2019 | Stringent limits on the magnetic field strength in the disc of TW Hya
+- **2× cited-seeds** | arXiv — | 2019 | Mapping the observable sky for a remote occulter working with ground-based telescopes
+- **2× cited-seeds** | arXiv 1903.11105 | 2019 | Sulfur Chemistry in Protoplanetary Disks: CS and H2CS
+- **2× cited-seeds** | arXiv 1909.04536 | 2019 | ODEA: Orbital Dynamics in a complex Evolving Architecture
+- **2× cited-seeds** | arXiv — | 2019 | Planet forming disks, debris disks and the Solar System
+- **2× cited-seeds** | arXiv 1910.10169 | 2019 | An Updated Visual Orbit of the Directly Imaged Exoplanet 51 Eridani b and Prospects for a Dynamical Mass Measurement with Gaia
+- **2× cited-seeds** | arXiv 1912.10012 | 2019 | Validating scattering-induced (sub)millimetre disc polarization through the spectral index, wavelength-dependent polarization pattern, and polarization spectrum: the case of HD 163296
+- **2× cited-seeds** | arXiv 1910.13665 | 2019 | Protostellar Evolution in Serpens Main: Possible Origin of Disk-size Diversity
+- **2× cited-seeds** | arXiv 1908.02608 | 2019 | Linking planetesimal and dust content in protoplanetary disks via a local toy model
+- **2× cited-seeds** | arXiv 1905.03520 | 2019 | Probing the cold magnetised Universe with SPICA-POL (B-BOP)
+- **2× cited-seeds** | arXiv — | 2019 | To the question of astrophysical studies of protoplanetary disks of stars
+- **2× cited-seeds** | arXiv 1906.06302 | 2019 | Kinematic Detections of Protoplanets: A Doppler Flip in the Disk of HD 100546
+- **2× cited-seeds** | arXiv 1911.05108 | 2019 | Exploring the Grain Properties in the Disk of HL Tau with an Evolutionary Model
+- **2× cited-seeds** | arXiv 1904.08899 | 2019 | Nonideal MHD Simulation of HL Tau Disk: Formation of Rings
+- **2× cited-seeds** | arXiv 1904.03869 | 2019 | Nonsticky Ice at the Origin of the Uniformly Polarized Submillimeter Emission from the HL Tau Disk
+- **2× cited-seeds** | arXiv 1905.09804 | 2019 | Disk masses in the Orion Molecular Cloud-2: distinguishing time and environment
+- **2× cited-seeds** | arXiv 1905.08259 | 2019 | On the Planetary Interpretation of Multiple Gaps and Rings in Protoplanetary Disks Seen By ALMA
+- **2× cited-seeds** | arXiv 1909.00675 | 2019 | ALMA images the many faces of the NGC 1068 torus and its surroundings
+- **2× cited-seeds** | arXiv 1909.09158 | 2019 | Searching for a dusty cometary belt around TRAPPIST-1 with ALMA
+- **2× cited-seeds** | arXiv 1911.12398 | 2019 | Modeling the Accretion Disk around the High-mass Protostar GGD 27-MM1
+- **2× cited-seeds** | arXiv 1909.02812 | 2019 | Spiral structures in an embedded protostellar disk driven by envelope accretion
+- **2× cited-seeds** | arXiv 1902.04824 | 2019 | Diagnosing the Clumpy Protoplanetary Disk of the UXor Type Young Star GM Cephei
+- **2× cited-seeds** | arXiv 1911.05471 | 2019 | Tracing the physical conditions of planet formation with molecular excitation
+- **2× cited-seeds** | arXiv 1901.04109 | 2019 | Resolved Imaging of the AR Puppis Circumbinary Disk
+- **2× cited-seeds** | arXiv 1903.08769 | 2019 | An Analytical Model of Radial Dust Trapping in Protoplanetary Disks
+- **2× cited-seeds** | arXiv 1909.09748 | 2019 | First Detection of Submillimeter-wave [13C i] 3P1–3P0 Emission in a Gaseous Debris Disk of 49 Ceti with ALMA
+- **2× cited-seeds** | arXiv 1912.10498 | 2019 | The Statistics of Extended Debris Disks Measured with Gaia and Planck
+- **2× cited-seeds** | arXiv 1911.12434 | 2019 | Midplane temperature and outer edge of the protoplanetary disk around HD 163296
+- **2× cited-seeds** | arXiv 1908.10793 | 2019 | A Particle Module for the PLUTO Code. III. Dust
+- **2× cited-seeds** | arXiv — | 2019 | Evolution of Solids in Planet Forming Disks: The Interplay of Experiments, Simulations, and Observations
+- **2× cited-seeds** | arXiv 1906.05290 | 2019 | Long-lived Eccentricities in Accretion Disks
+- **2× cited-seeds** | arXiv 1910.05350 | 2019 | The endgame of gas giant formation: accretion luminosity and contraction post-runaway
+- **2× cited-seeds** | arXiv 1903.05077 | 2019 | Protoplanetary Disk Science Enabled by Extremely Large Telescopes
+- **2× cited-seeds** | arXiv 1909.04477 | 2019 | Bright C2H emission in protoplanetary discs in Lupus: high volatile C/O > 1 ratios
+- **2× cited-seeds** | arXiv 1906.05535 | 2019 | HL Tau Disk in HCO+ (3–2) and (1–0) with ALMA: Gas Density, Temperature, Gap, and One-arm Spiral
+- **2× cited-seeds** | arXiv 1905.00021 | 2019 | On the millimetre continuum flux–radius correlation of proto-planetary discs
+- **2× cited-seeds** | arXiv 1904.02409 | 2019 | ALMA survey of Class II protoplanetary disks in Corona Australis: a young region with low disk masses
+- **2× cited-seeds** | arXiv 1905.05829 | 2019 | Modeling the Protoplanetary Disks of Two Brown Dwarfs in the Taurus Molecular Cloud
+- **2× cited-seeds** | arXiv 1906.11582 | 2019 | GG Tauri A: dark shadows on the ringworld
+- **2× cited-seeds** | arXiv — | 2018 | Photonic mid-infrared nulling for exoplanet detection on a planar chalcogenide platform
+- **2× cited-seeds** | arXiv 1802.06727 | 2018 | Thorough experimental testing of Multimode interference couplers and expected nulls thereof; for exoplanet detection
+- **2× cited-seeds** | arXiv 1809.09080 | 2018 | Detecting Water in the Atmosphere of HR 8799 c with L-band High-dispersion Spectroscopy Aided by Adaptive Optics
+- **2× cited-seeds** | arXiv — | 2018 | Optics technology for large-aperture space telescopes: from fabrication to final acceptance tests
+- **2× cited-seeds** | arXiv 1808.05947 | 2018 | Restrictions on the Growth of Gas Giant Cores via Pebble Accretion
+- **2× cited-seeds** | arXiv 1808.04996 | 2018 | Orbital Characterization of GJ1108A System, and Comparison of Dynamical Mass with Model-derived Mass for Resolved Binaries
+- **2× cited-seeds** | arXiv 1807.07042 | 2018 | Review of high-contrast imaging systems for current and future ground- and space-based telescopes I: coronagraph design methods and optical performance metrics
+- **2× cited-seeds** | arXiv — | 2018 | Extreme Computing for Extreme Adaptive Optics: The Key to Finding Life Outside our Solar System
+- **2× cited-seeds** | arXiv 1805.06898 | 2018 | Gas-assisted Growth of Protoplanets in a Turbulent Medium
+- **2× cited-seeds** | arXiv 1804.04138 | 2018 | Earth as an Exoplanet
+- **2× cited-seeds** | arXiv 1802.09721 | 2018 | Medium-resolution integral-field spectroscopy for high-contrast exoplanet imaging
+- **2× cited-seeds** | arXiv 1807.04295 | 2018 | Evidence of a past disc–disc encounter: HV and DO Tau
+- **2× cited-seeds** | arXiv 1812.11530 | 2018 | A Model-independent Mass and Moderate Eccentricity for β Pic b
+- **2× cited-seeds** | arXiv 1811.08902 | 2018 | Stellar and substellar companions of nearby stars from Gaia DR2
+- **2× cited-seeds** | arXiv 1806.10032 | 2018 | Special Cases: Moons, Rings, Comets, and Trojans
+- **2× cited-seeds** | arXiv 1812.08860 | 2018 | Orbital Motion of the Wide Planetary-mass Companion GSC 6214-210 b: No Evidence for Dynamical Scattering
+- **2× cited-seeds** | arXiv 1811.03525 | 2018 | Hunting Axion Dark Matter with Protoplanetary Disk Polarimetry.
+- **2× cited-seeds** | arXiv 1807.09635 | 2018 | Chemistry During the Gas-rich Stage of Planet Formation
+- **2× cited-seeds** | arXiv 1810.04181 | 2018 | Spectro-astrometry of the pre-transitional star LkCa 15 does not reveal an accreting planet but extended Hα emission
+- **2× cited-seeds** | arXiv 1808.06776 | 2018 | Theoretical Model of Hydrogen Line Emission from Accreting Gas Giants
+- **2× cited-seeds** | arXiv 1801.04148 | 2018 | The path towards high-contrast imaging with the VLTI: the Hi-5 project
+- **2× cited-seeds** | arXiv 1805.01458 | 2018 | The Distribution and Excitation of CH3CN in a Solar Nebula Analog
+- **2× cited-seeds** | arXiv 1805.08041 | 2018 | Are Elias 2-27's Spiral Arms Driven by Self-gravity, or by a Companion? A Comparative Spiral Morphology Study
+- **2× cited-seeds** | arXiv 1802.01364 | 2018 | Classifying and modelling spiral structures in hydrodynamic simulations of astrophysical discs
+- **2× cited-seeds** | arXiv 1811.00523 | 2018 | How planetary growth outperforms migration
+- **2× cited-seeds** | arXiv 1808.03016 | 2018 | Growth and Settling of Dust Particles in Protoplanetary Nebulae: Implications for Opacity, Thermal Profile, and Gravitational Instability
+- **2× cited-seeds** | arXiv 1805.08792 | 2018 | ALMA Observations of Polarized 872 μm Dust Emission from the Protostellar Systems VLA 1623 and L1527
+- **2× cited-seeds** | arXiv 1803.02498 | 2018 | Multiple Paths of Deuterium Fractionation in Protoplanetary Disks
+- **2× cited-seeds** | arXiv 1805.05768 | 2018 | On the evolution of vortices in massive protoplanetary discs
+- **2× cited-seeds** | arXiv 1811.05934 | 2018 | Ionization-driven Depletion and Redistribution of CO in Protoplanetary Disks
+- **2× cited-seeds** | arXiv 1809.07001 | 2018 | Identifying Anticyclonic Vortex Features Produced by the Rossby Wave Instability in Protoplanetary Disks
+- **2× cited-seeds** | arXiv 1807.06995 | 2018 | Optical Dimming of RW Aur Associated with an Iron-rich Corona and Exceptionally High Absorbing Column Density
+- **2× cited-seeds** | arXiv 1807.08453 | 2018 | Color Classification of Extrasolar Giant Planets: Prospects and Cautions
+- **2× cited-seeds** | arXiv 1803.04986 | 2018 | A Survey of CH3CN and HC3N in Protoplanetary Disks
+- **2× cited-seeds** | arXiv 1808.00585 | 2018 | High-contrast imaging of tight resolved binaries with two vector vortex coronagraphs in cascade with the Palomar SDC instrument
+- **2× cited-seeds** | arXiv 1807.05070 | 2018 | Status of MagAO and review of astronomical science with visible light adaptive optics
+- **2× cited-seeds** | arXiv 1811.04806 | 2018 | Inner disk structure of the classical T Tauri star LkCa 15
+- **2× cited-seeds** | arXiv 1804.09724 | 2018 | Extended Millimeter Emission in the HD 141569 Circumstellar Disk Detected with ALMA
+- **2× cited-seeds** | arXiv 1801.06134 | 2018 | An L+T Spectral Binary with Possible AB Doradus Kinematics
+- **2× cited-seeds** | arXiv 1801.01902 | 2018 | Automated data processing architecture for the Gemini Planet Imager Exoplanet Survey
+- **2× cited-seeds** | arXiv 1901.10862 | 2018 | The physical and chemical properties of planet forming disks
+- **2× cited-seeds** | arXiv 1806.06444 | 2018 | Radio jets from young stellar objects
+- **2× cited-seeds** | arXiv 1805.07498 | 2018 | Probing Signatures of a Distant Planet around the Young T-Tauri Star CI Tau Hosting a Possible Hot Jupiter
+- **2× cited-seeds** | arXiv 1803.04417 | 2018 | The Maximum Mass Solar Nebula and the early formation of planets
+- **2× cited-seeds** | arXiv 1801.07509 | 2018 | Dust-vortex Instability in the Regime of Well-coupled Grains
+- **2× cited-seeds** | arXiv 1801.03537 | 2018 | The JCMT Transient Survey: Stochastic and Secular Variability of Protostars and Disks In the Submillimeter Region Observed over 18 Months
+- **2× cited-seeds** | arXiv 1810.10375 | 2018 | The role of turbulence during the formation of circumbinary discs
+- **2× cited-seeds** | arXiv 1810.07578 | 2018 | Single conjugate adaptive optics for the ELT instrument METIS
+- **2× cited-seeds** | arXiv 1903.07516 | 2018 | Apodized Pupil Lyot coronagraphs with arbitrary aperture telescopes: novel designs using hybrid focal plane masks
+- **2× cited-seeds** | arXiv — | 2018 | Exoplanet detection in angular differential imaging by statistical learning of the nonstationary patch covariances
+- **2× cited-seeds** | arXiv 1804.01371 | 2018 | Design study and first performance simulation of the ELT/MICADO focal plane coronagraphs
+- **2× cited-seeds** | arXiv 1808.01142 | 2018 | Streaming instability of multiple particle species in protoplanetary disks
+- **2× cited-seeds** | arXiv — | 2018 | Searching for chemical signatures of planet formation
+- **2× cited-seeds** | arXiv 1803.05437 | 2018 | New Constraints on Turbulence and Embedded Planet Mass in the HD 163296 Disk from Planet–Disk Hydrodynamic Simulations
+- **2× cited-seeds** | arXiv 1803.02847 | 2018 | Multiple Gaps in the Disk of the Class I Protostar GY 91
+- **2× cited-seeds** | arXiv 1802.05034 | 2018 | Cometary impactors on the TRAPPIST-1 planets can destroy all planetary atmospheres and rebuild secondary atmospheres on planets f, g, and h
+- **2× cited-seeds** | arXiv 1807.09134 | 2018 | Insights into the inner regions of the FU Orionis disc
+- **2× cited-seeds** | arXiv 1809.02834 | 2018 | Surface waves in protoplanetary disks induced by outbursts: Concentric rings in scattered light
+- **2× cited-seeds** | arXiv 1810.04961 | 2018 | Evidence for a Vertical Dependence on the Pressure Structure in AS 209
+- **2× cited-seeds** | arXiv 1803.11028 | 2018 | Spinning Dust Emission from Circumstellar Disks and Its Role In Excess Microwave Emission
+- **2× cited-seeds** | arXiv 1810.13171 | 2018 | Origin of the asymmetry of the wind driven halo observed in high-contrast images
+- **2× cited-seeds** | arXiv 1809.01156 | 2018 | Detecting isotopologues in exoplanet atmospheres using ground-based high-dispersion spectroscopy
+- **2× cited-seeds** | arXiv 1807.04903 | 2018 | From Lab Testing to Science: Applying SAPHIRA HgCdTe L-APD Detectors to Adaptive Optics
+- **2× cited-seeds** | arXiv — | 2018 | Planet-disk interactions in HD 169142? Tracing ellipticity, structures, and offsets
+- **2× cited-seeds** | arXiv 1812.05569 | 2018 | Hints for a Turnover at the Snow Line in the Giant Planet Occurrence Rate
+- **2× cited-seeds** | arXiv 1711.08693 | 2017 | The alma early science view of fuor/exor objects - v. Continuum disc masses and sizes
+- **2× cited-seeds** | arXiv 1706.04504 | 2017 | A Three-dimensional View of Turbulence: Constraints on Turbulent Motions in the HD 163296 Protoplanetary Disk Using DCO+
+- **2× cited-seeds** | arXiv 1706.03420 | 2017 | The formation of giant planets in wide orbits by photoevaporation-synchronized migration
+- **2× cited-seeds** | arXiv 1711.01215 | 2017 | A New Standard for Assessing the Performance of High Contrast Imaging Systems
+- **2× cited-seeds** | arXiv — | 2017 | Correction active des discontinuités pupillaires des télescopes à miroir segmenté pour l’imagerie haut contraste et la haute résolution angulaire
+- **2× cited-seeds** | arXiv 1708.01815 | 2017 | The chemistry of protoplanetary fragments formed via gravitational instabilities
+- **2× cited-seeds** | arXiv — | 2017 | Improving the extinction bandwidth of MMI chalcogenide photonic chip based MIR nulling interferometers.
+- **2× cited-seeds** | arXiv 1707.01518 | 2017 | KELT-20b: A Giant Planet with a Period of P ∼ 3.5 days Transiting the V ∼ 7.6 Early A Star HD 185603
+- **2× cited-seeds** | arXiv 1702.00468 | 2017 | Fabrication tolerant chalcogenide mid-infrared multimode interference coupler design with applications for Bracewell nulling interferometry.
+- **2× cited-seeds** | arXiv — | 2017 | Dust Coagulation with Porosity Evolution
+- **2× cited-seeds** | arXiv 1701.02713 | 2017 | Evidence of a substellar companion around a very young T Tauri star
+- **2× cited-seeds** | arXiv 1703.00970 | 2017 | The Shadow Knows: Using Shadows to Investigate the Structure of the Pretransitional Disk of HD 100453
+- **2× cited-seeds** | arXiv 1703.00015 | 2017 | A stellar census of the nearby, young 32 Orionis group
+- **2× cited-seeds** | arXiv 1702.02862 | 2017 | Observability of characteristic binary-induced structures in circumbinary disks
+- **2× cited-seeds** | arXiv 1706.04624 | 2017 | The First Scattered-light Image of the Debris Disk around the Sco–Cen Target HD 129590
+- **2× cited-seeds** | arXiv 1706.02302 | 2017 | genesis: new self-consistent models of exoplanetary spectra
+- **2× cited-seeds** | arXiv 1708.08795 | 2017 | Probing the Cold Dust Emission in the AB Aur Disk: A Dust Trap in a Decaying Vortex?
+- **2× cited-seeds** | arXiv — | 2017 | Feasibility of spectro-polarimetric characterization of exoplanetary atmospheres with direct observing instruments
+- **2× cited-seeds** | arXiv 1707.01128 | 2017 | Strongly Misaligned Triple System in SR 24 Revealed by ALMA
+- **2× cited-seeds** | arXiv 1705.07671 | 2017 | HD far infrared emission as a measure of protoplanetary disk mass
+- **2× cited-seeds** | arXiv 1703.09250 | 2017 | Generating large misalignments in gapped and binary discs
+- **2× cited-seeds** | arXiv 1701.04312 | 2017 | Planetary Rings and Other Astrophysical Disks
+- **2× cited-seeds** | arXiv 1708.07287 | 2017 | On the radio detectability of circumplanetary discs
+- **2× cited-seeds** | arXiv 1709.04438 | 2017 | Observability of forming planets and their circumplanetary discs – I. Parameter study for ALMA
+- **2× cited-seeds** | arXiv 1708.03360 | 2017 | Disk Evolution and the Fate of Water
+- **2× cited-seeds** | arXiv 1704.05508 | 2017 | Disk Masses around Solar-mass Stars are Underestimated by CO Observations
+- **2× cited-seeds** | arXiv 1703.10385 | 2017 | Size and density sorting of dust grains in SPH simulations of protoplanetary discs – II. Fragmentation
+- **2× cited-seeds** | arXiv 1709.04950 | 2017 | On Shocks Driven by High-mass Planets in Radiatively Inefficient Disks. III. Observational Signatures in Thermal Emission and Scattered Light
+- **2× cited-seeds** | arXiv 1705.11030 | 2017 | Project 1640 observations of the white dwarf HD 114174 B
+- **2× cited-seeds** | arXiv 1701.02782 | 2017 | Effects of Latent Heating on Atmospheres of Brown Dwarfs and Directly Imaged Planets
+- **2× cited-seeds** | arXiv 1702.01565 | 2017 | Rings and gaps produced by variable magnetic disc winds and avalanche accretion streams - I. Axisymmetric resistive MHD simulations
+- **2× cited-seeds** | arXiv 1701.08161 | 2017 | Save the Planet, Feed the Star: How Super-Earths Survive Migration and Drive Disk Accretion
+- **2× cited-seeds** | arXiv 1712.03746 | 2017 | Simultaneous Multiwavelength Variability Characterization of the Free-floating Planetary-mass Object PSO J318.5−22
+- **2× cited-seeds** | arXiv 1705.05432 | 2017 | Scattering-produced (sub)millimetre polarization in inclined discs: optical depth effects, near–far side asymmetry and dust settling
+- **2× cited-seeds** | arXiv 1701.03044 | 2017 | The Mysterious Dimmings of the T Tauri Star V1334 Tau
+- **2× cited-seeds** | arXiv 1712.05217 | 2017 | Direct imaging of an ultracool substellar companion to the exoplanet host star HD 4113 A
+- **2× cited-seeds** | arXiv 1703.07794 | 2017 | Electromagnetic Signals Following Stellar-mass Black Hole Mergers
+- **2× cited-seeds** | arXiv 1701.01786 | 2017 | The First 40 Million Years of Circumstellar Disk Evolution: The Signature of Terrestrial Planet Formation
+- **2× cited-seeds** | arXiv 1709.06813 | 2017 | Binary stripping as a plausible origin of correlated pairs of extreme trans-Neptunian objects
+- **2× cited-seeds** | arXiv 1703.01857 | 2017 | Origin of the wide-orbit circumbinary giant planet HD 106906 - A dynamical scenario and its impact on the disk
+- **2× cited-seeds** | arXiv 1701.02131 | 2017 | High-resolution ALMA observation of the 12CO(3–2) and 350 GHz continuum emissions of the debris disc of 49 Ceti
+- **2× cited-seeds** | arXiv 1703.05322 | 2017 | The VLT/NaCo large program to probe the occurrence of exoplanets and brown dwarfs at wide orbits. IV. Gravitational instability rarely forms wide, giant planets
+- **2× cited-seeds** | arXiv 1711.11100 | 2017 | Banyan. X. Discovery of a Wide, Low-gravity L-type Companion to a Fast-rotating M3 Dwarf
+- **2× cited-seeds** | arXiv 1710.01714 | 2017 | A Search for Photometric Variability in the Young T3.5 Planetary-mass Companion GU Psc b
+- **2× cited-seeds** | arXiv 1707.08970 | 2017 | Stellar Winds and Dust Avalanches in the AU Mic Debris Disk
+- **2× cited-seeds** | arXiv 1711.07249 | 2017 | X-ray radiative transfer in protoplanetary disks - The role of dust and X-ray background fields
+- **2× cited-seeds** | arXiv — | 2017 | Gas and Dust Dynamics During Planet Formation in HL Tau
+- **2× cited-seeds** | arXiv 1706.02208 | 2017 | Fundamental parameters and infrared excesses of Tycho–Gaia stars
+- **2× cited-seeds** | arXiv 1702.02151 | 2017 | Planetesimal formation near the snowline: in or out?
+- **2× cited-seeds** | arXiv — | 2017 | Future Exoplanet Research: High-Contrast Imaging Techniques
+- **2× cited-seeds** | arXiv 1709.01325 | 2017 | bRing: An observatory dedicated to monitoring the $\beta$ Pictoris b Hill sphere transit
+- **2× cited-seeds** | arXiv 1702.03930 | 2017 | Phantom: A Smoothed Particle Hydrodynamics and Magnetohydrodynamics Code for Astrophysics
+- **2× cited-seeds** | arXiv — | 2017 | Importance of the early accretion stage of a protoplanetary disk on the chemical evolution of planetesimals and comets
+- **2× cited-seeds** | arXiv 1708.06069 | 2017 | Likely Transiting Exocomets Detected By Kepler.
+- **2× cited-seeds** | arXiv 1712.09157 | 2017 | Planetary-like spirals caused by moving shadows in transition discs
+- **2× cited-seeds** | arXiv 1709.08369 | 2017 | Signatures of broken protoplanetary discs in scattered light and in sub-millimetre observations
+- **2× cited-seeds** | arXiv 1712.03963 | 2017 | Calibration of the island effect: Experimental validation of closed-loop focal plane wavefront control on Subaru/SCExAO
+- **2× cited-seeds** | arXiv 1709.08206 | 2017 | Magnetism, X-rays and accretion rates in WD 1145+017 and other polluted white dwarf systems
+- **2× cited-seeds** | arXiv 1704.07432 | 2017 | Combining direct imaging and radial velocity data towards a full exploration of the giant planet population
+- **2× cited-seeds** | arXiv 1601.04225 | 2016 | Variability in the CO ro-vibrational lines from HD163296
+- **2× cited-seeds** | arXiv 1612.03907 | 2016 | A Transient Transit Signature Associated with the Young Star RIK-210
+- **2× cited-seeds** | arXiv — | 2016 | Exploring the architectures of planetary systems that form in thermally evolving viscous disc models
+- **2× cited-seeds** | arXiv 1611.00007 | 2016 | The unstable fate of the planet orbiting the A-star in the HD 131399 triple stellar system
+- **2× cited-seeds** | arXiv 1610.01643 | 2016 | A desert of gas giant planets beyond tens of au
+- **2× cited-seeds** | arXiv 1609.03019 | 2016 | THE IMPRINT OF EXOPLANET FORMATION HISTORY ON OBSERVABLE PRESENT-DAY SPECTRA OF HOT JUPITERS
+- **2× cited-seeds** | arXiv — | 2016 | Science yield modeling with the Exoplanet Open-Source Imaging Mission Simulator (EXOSIMS)
+- **2× cited-seeds** | arXiv 1603.00174 | 2016 | Transits of extrasolar moons around luminous giant planets
+- **2× cited-seeds** | arXiv 1602.04827 | 2016 | DIRECT DETECTION OF PRECURSORS OF GAS GIANTS FORMED BY GRAVITATIONAL INSTABILITY WITH THE ATACAMA LARGE MILLIMETER/SUBMILLIMETER ARRAY
+- **2× cited-seeds** | arXiv 1602.03022 | 2016 | THE FIRST BROWN DWARF/PLANETARY-MASS OBJECT IN THE 32 ORIONIS GROUP
+- **2× cited-seeds** | arXiv 1601.07748 | 2016 | Focal plane wavefront sensor achromatization: The multireference self-coherent camera
+- **2× cited-seeds** | arXiv 1611.06230 | 2016 | THE DEPLETION OF WATER DURING DISPERSAL OF PLANET-FORMING DISK REGIONS
+- **2× cited-seeds** | arXiv 1607.05713 | 2016 | DISK DETECTIVE: DISCOVERY OF NEW CIRCUMSTELLAR DISK CANDIDATES THROUGH CITIZEN SCIENCE
+- **2× cited-seeds** | arXiv 1601.06162 | 2016 | A nearby young M dwarf with a wide, possibly planetary-mass companion
+- **2× cited-seeds** | arXiv 1612.04591 | 2016 | The β Pictoris association: Catalog of photometric rotational periods of low-mass members and candidate members
+- **2× cited-seeds** | arXiv 1606.04510 | 2016 | The Origin and Evolution of Saturn, with Exoplanet Perspective
+- **2× cited-seeds** | arXiv 1605.04924 | 2016 | HABITABLE ZONES OF POST-MAIN SEQUENCE STARS
+- **2× cited-seeds** | arXiv — | 2016 | Modelling the Gas Dynamics of Protoplanetary Disks by the SPH Method
+- **2× cited-seeds** | arXiv 1607.04280 | 2016 | CONSTRAINING THE MOVEMENT OF THE SPIRAL FEATURES AND THE LOCATIONS OF PLANETARY BODIES WITHIN THE AB AUR SYSTEM
+- **2× cited-seeds** | arXiv 1609.03475 | 2016 | SELF-SUSTAINED RECYCLING IN THE INNER DUST RING OF PRE-TRANSITIONAL DISKS
+- **2× cited-seeds** | arXiv 1608.07817 | 2016 | MASS MEASUREMENTS IN PROTOPLANETARY DISKS FROM HYDROGEN DEUTERIDE
+- **2× cited-seeds** | arXiv 1605.03729 | 2016 | Towards detecting methanol emission in low-mass protoplanetary discs with ALMA: the role of non-LTE excitation
+- **2× cited-seeds** | arXiv 1604.07907 | 2016 | THE SPITZER INFRARED SPECTROGRAPH SURVEY OF PROTOPLANETARY DISKS IN ORION A. I. DISK PROPERTIES
+- **2× cited-seeds** | arXiv 1611.03542 | 2016 | Dawes Review 6: The Impact of Companions on Stellar Evolution
+- **2× cited-seeds** | arXiv 1609.09250 | 2016 | SHOCK-DRIVEN ACCRETION IN CIRCUMPLANETARY DISKS: OBSERVABLES AND SATELLITE FORMATION
+- **2× cited-seeds** | arXiv 1605.08789 | 2016 | The star formation history and accretion-disc fraction among the K-type members of the Scorpius–Centaurus OB association
+- **2× cited-seeds** | arXiv 1601.04562 | 2016 | Search for transiting exoplanets and variable stars in the open cluster NGC 7243
+- **2× cited-seeds** | arXiv 1612.01538 | 2016 | Lupus disks with faint CO isotopologues: low gas/dust or high carbon depletion?
+- **2× cited-seeds** | arXiv 1610.06788 | 2016 | Robustness of N2H+ as tracer of the CO snowline
+- **2× cited-seeds** | arXiv 1609.03903 | 2016 | A photoevaporative gap in the closest planet-forming disc
+- **2× cited-seeds** | arXiv 1607.01357 | 2016 | A HERSCHEL VIEW OF PROTOPLANETARY DISKS IN THE σ ORI CLUSTER
+- **2× cited-seeds** | arXiv 1604.00323 | 2016 | First detection of gas-phase ammonia in a planet-forming disk
+- **2× cited-seeds** | arXiv 1603.01061 | 2016 | Constraining the physical structure of the inner few 100 AU scales of deeply embedded low-mass protostars
+- **2× cited-seeds** | arXiv 1601.07562 | 2016 | External photoevaporation of protoplanetary discs in sparse stellar groups: the impact of dust growth
+- **2× cited-seeds** | arXiv 1610.08502 | 2016 | THE SPIRAL WAVE INSTABILITY INDUCED BY A GIANT PLANET. I. PARTICLE STIRRING IN THE INNER REGIONS OF PROTOPLANETARY DISKS
+- **2× cited-seeds** | arXiv 1604.08941 | 2016 | Ultraharmonics and Secondary Spiral Wakes Induced by a Planet
+- **2× cited-seeds** | arXiv 1603.02141 | 2016 | The minimum mass of detectable planets in protoplanetary discs and the derivation of planetary masses from high-resolution observations.
+- **2× cited-seeds** | arXiv 1601.07912 | 2016 | SPIRAL WAVES TRIGGERED BY SHADOWS IN TRANSITION DISKS
+- **2× cited-seeds** | arXiv 1610.08524 | 2016 | A triple protostar system formed via fragmentation of a gravitationally unstable disk
+- **2× cited-seeds** | arXiv 1609.07470 | 2016 | THE MASSIVE PROTOSTELLAR CLUSTER NGC 6334I AT 220 au RESOLUTION: DISCOVERY OF FURTHER MULTIPLICITY, DIVERSITY, AND A HOT MULTI-CORE
+- **2× cited-seeds** | arXiv 1608.03799 | 2016 | FORMATION OF THE UNEQUAL-MASS BINARY PROTOSTARS IN L1551NE BY ROTATIONALLY DRIVEN FRAGMENTATION
+- **2× cited-seeds** | arXiv 1602.08196 | 2016 | Disc polarization from both emission and scattering of magnetically aligned grains: the case of NGC 1333 IRAS 4A1
+- **2× cited-seeds** | arXiv 1604.02176 | 2016 | THE AGE OF THE DIRECTLY IMAGED PLANET HOST STAR κ ANDROMEDAE DETERMINED FROM INTERFEROMETRIC OBSERVATIONS
+- **2× cited-seeds** | arXiv — | 2016 | Insights into Planet Formation from Debris Disks
+- **2× cited-seeds** | arXiv 1603.04857 | 2016 | Insights into Planet Formation from Debris Disks
+- **2× cited-seeds** | arXiv 1610.01232 | 2016 | Giant planet formation at the pressure maxima of protoplanetary disks
+- **2× cited-seeds** | arXiv 1607.03757 | 2016 | Imaging the water snow-line during a protostellar outburst
+- **2× cited-seeds** | arXiv 1605.02744 | 2016 | Dust and gas density evolution at a radial pressure bump in protoplanetary disks
+- **2× cited-seeds** | arXiv 1602.01615 | 2016 | High spatial resolution imaging of SO and H2CO in AB Auriga: The first SO image in a transitional disk
+- **2× cited-seeds** | arXiv 1607.03701 | 2016 | IONIZATION AND DUST CHARGING IN PROTOPLANETARY DISKS
+- **2× cited-seeds** | arXiv 1603.08523 | 2016 | INTEGRATION OF PARTICLE-GAS SYSTEMS WITH STIFF MUTUAL DRAG INTERACTION
+- **2× cited-seeds** | arXiv 1609.02530 | 2016 | A critical reassessment of the fundamental properties of GJ 504: Chemical composition and age
+- **2× cited-seeds** | arXiv 1608.00963 | 2016 | Precise radial velocities of giant stars: IX. HD 59686 Ab: a massive circumstellar planet orbiting a giant star in a ~13.6 au eccentric binary system
+- **2× cited-seeds** | arXiv 1609.07683 | 2016 | MagAO: status and science
+- **2× cited-seeds** | arXiv — | 2016 | Cometary grains in the HD 32297 debris disk
+- **2× cited-seeds** | arXiv 1607.03695 | 2016 | Gas and dust around A-type stars at tens of Myr: signatures of cometary breakup
+- **2× cited-seeds** | arXiv 1606.01895 | 2016 | Calibration of quasi-static aberrations in exoplanet direct-imaging instruments with a Zernike phase-mask sensor. II. Concept validation with ZELDA on VLT/SPHERE
+- **2× cited-seeds** | arXiv 1612.04818 | 2016 | THE FAINTEST WISE DEBRIS DISKS: ENHANCED METHODS FOR DETECTION AND VERIFICATION
+- **2× cited-seeds** | arXiv — | 2016 | GAS GIANT PLANET FORMATION IN THE PHOTOEVAPORATING DISK. I. GAP FORMATION
+- **2× cited-seeds** | arXiv 1604.05028 | 2016 | Chemistry in Disks X: The Molecular Content of Proto-planetary Disks in Taurus
+- **2× cited-seeds** | arXiv 1604.05191 | 2016 | Giant planet formation in radially structured protoplanetary discs
+- **2× cited-seeds** | arXiv 1601.00358 | 2016 | MODELING DUST EMISSION OF HL TAU DISK BASED ON PLANET–DISK INTERACTIONS
+- **2× cited-seeds** | arXiv 1609.04804 | 2016 | CLOUD ATLAS: DISCOVERY OF PATCHY CLOUDS AND HIGH-AMPLITUDE ROTATIONAL MODULATIONS IN A YOUNG, EXTREMELY RED L-TYPE BROWN DWARF
+- **2× cited-seeds** | arXiv 1609.01071 | 2016 | The triple system AT Mic AB + AU Mic in the β$\beta $ Pictoris association
+- **2× cited-seeds** | arXiv 1605.02764 | 2016 | DYNAMICS OF CIRCUMSTELLAR DISKS III: THE CASE OF GG Tau A
+- **2× cited-seeds** | arXiv — | 2016 | Formation of ring structures in galactic disks during close passages of galaxies
+- **2× cited-seeds** | arXiv 1509.08335 | 2015 | Accretion disks in luminous young stellar objects
+- **2× cited-seeds** | arXiv 1501.06483 | 2015 | High-resolution observations of the outer disk around T Chamaeleontis: the view from ALMA
+- **2× cited-seeds** | arXiv 1503.01136 | 2015 | Combining high-dispersion spectroscopy with high contrast imaging : Probing rocky planets around our nearest neighbors
+- **2× cited-seeds** | arXiv 1511.09472 | 2015 | RESONANT REMOVAL OF EXOMOONS DURING PLANETARY MIGRATION
+- **2× cited-seeds** | arXiv 1511.00303 | 2015 | THE ROLE OF THE COOLING PRESCRIPTION FOR DISK FRAGMENTATION: NUMERICAL CONVERGENCE AND CRITICAL COOLING PARAMETER IN SELF-GRAVITATING DISKS
+- **2× cited-seeds** | arXiv 1510.08839 | 2015 | HAT-P-57b: A SHORT-PERIOD GIANT PLANET TRANSITING A BRIGHT RAPIDLY ROTATING A8V STAR CONFIRMED VIA DOPPLER TOMOGRAPHY
+- **2× cited-seeds** | arXiv 1510.05290 | 2015 | Quantification of stochastic fragmentation of self-gravitating discs
+- **2× cited-seeds** | arXiv — | 2015 | HR 8799: The First Directly Imaged Multi-planet System
+- **2× cited-seeds** | arXiv 1507.08002 | 2015 | New members of the TW Hydrae Association and two accreting M-dwarfs in Scorpius-Centaurus
+- **2× cited-seeds** | arXiv 1503.01770 | 2015 | Radial Velocity Prospects Current and Future: A White Paper Report prepared by the Study Analysis Group 8 for the Exoplanet Program Analysis Group (ExoPAG)
+- **2× cited-seeds** | arXiv 1508.06929 | 2015 | Reaching the boundary between stellar kinematic groups and very wide binaries III. Sixteen new stars and eight new wide systems in the β Pictoris moving group
+- **2× cited-seeds** | arXiv 1503.04112 | 2015 | Chemical composition of the circumstellar disk around AB Aurigae
+- **2× cited-seeds** | arXiv 1512.04992 | 2015 | DUST AND POLYCYCLIC AROMATIC HYDROCARBON IN THE PRE-TRANSITIONAL DISK AROUND HD 169142
+- **2× cited-seeds** | arXiv 1512.04622 | 2015 | Disk Dispersal: Theoretical Understanding and Observational Constraints
+- **2× cited-seeds** | arXiv 1512.02234 | 2015 | Rapid radiative clearing of protoplanetary discs
+- **2× cited-seeds** | arXiv 1511.01178 | 2015 | Inferring Planet Mass from Spiral Structures in Protoplanetary Disks
+- **2× cited-seeds** | arXiv 1510.06247 | 2015 | On the convective overstability in protoplanetary discs
+- **2× cited-seeds** | arXiv 1509.03736 | 2015 | Significant Gas-to-Dust Ratio Asymmetry and Variation in the Disk of HD 142527 and the Indication of Gas Depletion
+- **2× cited-seeds** | arXiv 1505.00262 | 2015 | A SCUBA-2 850 MICRON SURVEY OF CIRCUMSTELLAR DISKS IN THE λ ORIONIS CLUSTER
+- **2× cited-seeds** | arXiv 1504.04824 | 2015 | Spectro-astrometry of LkCa 15 with X-Shooter: Searching for emission from LkCa 15b ?
+- **2× cited-seeds** | arXiv 1503.00807 | 2015 | FIRST DETECTION OF [C I] 3P1–3P0 EMISSION FROM A PROTOPLANETARY DISK
+- **2× cited-seeds** | arXiv 1502.05412 | 2015 | SPECTRAL ENERGY DISTRIBUTIONS OF ACCRETING PROTOPLANETS
+- **2× cited-seeds** | arXiv 1505.07470 | 2015 | INDIRECT DETECTION OF FORMING PROTOPLANETS VIA CHEMICAL ASYMMETRIES IN DISKS
+- **2× cited-seeds** | arXiv 1504.00061 | 2015 | AN UNBIASED 1.3 mm EMISSION LINE SURVEY OF THE PROTOPLANETARY DISK ORBITING LkCa 15
+- **2× cited-seeds** | arXiv 1503.02976 | 2015 | Near infrared high resolution spectroscopy and spectro-astrometry of gas in disks around Herbig Ae/Be stars
+- **2× cited-seeds** | arXiv 1504.05980 | 2015 | A RING OF C2H IN THE MOLECULAR DISK ORBITING TW Hya
+- **2× cited-seeds** | arXiv 1502.07369 | 2015 | THE IMPACT OF DUST EVOLUTION AND PHOTOEVAPORATION ON DISK DISPERSAL
+- **2× cited-seeds** | arXiv 1508.00773 | 2015 | Gravitational instabilities in a protosolar-like disc – I. Dynamics and chemistry
+- **2× cited-seeds** | arXiv 1511.05563 | 2015 | C/O AND SNOWLINE LOCATIONS IN PROTOPLANETARY DISKS: THE EFFECT OF RADIAL DRIFT AND VISCOUS GAS ACCRETION
+- **2× cited-seeds** | arXiv 1508.07296 | 2015 | DOUBLE DCO+ RINGS REVEAL CO ICE DESORPTION IN THE OUTER DISK AROUND IM LUP
+- **2× cited-seeds** | arXiv 1507.01642 | 2015 | THE EPSILON ERIDANI SYSTEM RESOLVED BY MILLIMETER INTERFEROMETRY
+- **2× cited-seeds** | arXiv 1503.03097 | 2015 | MAMBO image of the debris disk around epsilon Eridani : robustness of the azimuthal structure
+- **2× cited-seeds** | arXiv 1509.03949 | 2015 | DISCOVERY OF YOUNG METHANE DWARFS IN THE RHO OPHIUCHI L 1688 DARK CLOUD
+- **2× cited-seeds** | arXiv 1503.02486 | 2015 | Performance of the VLT Planet Finder SPHERE - II. Data analysis and results for IFS in laboratory
+- **2× cited-seeds** | arXiv 1511.04076 | 2015 | First light of the VLT planet finder SPHERE: I. Detection and characterization of the substellar companion GJ 758 B
+- **2× cited-seeds** | arXiv 1512.04450 | 2015 | Rossby wave instability and long-term evolution of dead zones in protoplanetary discs
+- **2× cited-seeds** | arXiv 1510.00858 | 2015 | The Structure and Evolution of Protoplanetary Disks: an Infrared and Submillimeter View
+- **2× cited-seeds** | arXiv 1509.06531 | 2015 | Large dust gaps in the transitional disks of HD 100453 and HD 34282 - Connecting the gap size to the spectral energy distribution and mid-infrared imaging
+- **2× cited-seeds** | arXiv 1509.05411 | 2015 | High-resolution Br γ spectro-interferometry of the transitional Herbig Ae/Be star HD 100546: a Keplerian gaseous disc inside the inner rim
+- **2× cited-seeds** | arXiv 1505.07743 | 2015 | A COMPACT CONCENTRATION OF LARGE GRAINS IN THE HD 142527 PROTOPLANETARY DUST TRAP
+- **2× cited-seeds** | arXiv 1505.02158 | 2015 | Magnetic fields in gaps surrounding giant protoplanets
+- **2× cited-seeds** | arXiv 1505.01778 | 2015 | Capture of Planets Into Mean Motion Resonances and the Origins of Extrasolar Orbital Architectures
+- **2× cited-seeds** | arXiv 1504.04812 | 2015 | MILLIMETER-WAVE POLARIZATION OF PROTOPLANETARY DISKS DUE TO DUST SCATTERING
+- **2× cited-seeds** | arXiv 1503.08470 | 2015 | On the mechanism of self gravitating Rossby interfacial waves in proto-stellar accretion discs
+- **2× cited-seeds** | arXiv — | 2015 | Modeling and interpretation of images
+- **2× cited-seeds** | arXiv 1507.08902 | 2015 | GRAIN SIZE CONSTRAINTS ON HL TAU WITH POLARIZATION SIGNATURE
+- **2× cited-seeds** | arXiv 1507.05499 | 2015 | Toroidal vortices and the conglomeration of dust into rings in protoplanetary discs
+- **2× cited-seeds** | arXiv 1509.01299 | 2015 | Exoplanet science with the LBTI: instrument status and plans
+- **2× cited-seeds** | arXiv 1510.00741 | 2015 | A Brief History of the Study of Nearby Young Moving Groups and Their Members
+- **2× cited-seeds** | arXiv — | 2015 | Two-temperature Debris Disks: Signposts for Directly Imaged Planets?
+- **2× cited-seeds** | arXiv 1511.05919 | 2015 | IR excesses around nearby Lambda Boo stars are caused by debris discs rather than ISM bow waves
+- **2× cited-seeds** | arXiv 1504.05983 | 2015 | COMPLEX ORGANIC AND INORGANIC COMPOUNDS IN SHELLS OF LITHIUM-RICH K GIANT STARS
+- **2× cited-seeds** | arXiv 1511.05207 | 2015 | MODELS OF THE η CORVI DEBRIS DISK FROM THE KECK INTERFEROMETER, SPITZER, AND HERSCHEL
+- **2× cited-seeds** | arXiv 1509.06068 | 2015 | HUNTING FOR PLANETS IN THE HL TAU DISK
+- **2× cited-seeds** | arXiv — | 2015 | Astrophysics: Surprisingly fast motions in a dust disk
+- **2× cited-seeds** | arXiv 1409.6293 | 2014 | THE IMMEDIATE ENVIRONMENTS OF TWO HERBIG BE STARS: MWC 1080 AND HD 259431
+- **2× cited-seeds** | arXiv 1405.7692 | 2014 | The protoplanetary disk of FT Tauri: multiwavelength data analysis and modeling
+- **2× cited-seeds** | arXiv 1411.5438 | 2014 | A direct imaging search for close stellar and sub‐stellar companions to young nearby stars
+- **2× cited-seeds** | arXiv — | 2014 | Implementation of polytropic method to study initial structures of gas giant protoplanets
+- **2× cited-seeds** | arXiv 1409.7245 | 2014 | HOW TO DETERMINE AN EXOMOON'S SENSE OF ORBITAL MOTION
+- **2× cited-seeds** | arXiv 1409.2247 | 2014 | Compensation of high-order quasi-static aberrations on SPHERE with the coronagraphic phase diversity (COFFEE)
+- **2× cited-seeds** | arXiv 1409.6868 | 2014 | Insights on the dynamical history of the Fomalhaut system - Investigating the Fom c hypothesis
+- **2× cited-seeds** | arXiv — | 2014 | MEMS and the direct detection of exoplanets
+- **2× cited-seeds** | arXiv 1412.6097 | 2014 | Scientific Return of Coronagraphic Exoplanet Imaging and Spectroscopy Using WFIRST
+- **2× cited-seeds** | arXiv 1412.5185 | 2014 | MINIMUM CORE MASSES FOR GIANT PLANET FORMATION WITH REALISTIC EQUATIONS OF STATE AND OPACITIES
+- **2× cited-seeds** | arXiv — | 2014 | High-resolution spectroscopy of directly-imaged exoplanet atmospheres
+- **2× cited-seeds** | arXiv 1408.1724 | 2014 | A DEEP SPITZER SURVEY OF CIRCUMSTELLAR DISKS IN THE YOUNG DOUBLE CLUSTER, h AND χ PERSEI
+- **2× cited-seeds** | arXiv — | 2014 | High-contrast imaging in wide spectral band with a self-coherent camera and achromatic coronagraphs
+- **2× cited-seeds** | arXiv 1407.4150 | 2014 | Atmospheric Dynamics of Hot Exoplanets
+- **2× cited-seeds** | arXiv 1407.2996 | 2014 | The infrared imaging spectrograph (IRIS) for TMT: overview of innovative science programs
+- **2× cited-seeds** | arXiv 1407.2329 | 2014 | THE PHYSICAL PARAMETERS OF THE RETIRED A STAR HD 185351
+- **2× cited-seeds** | arXiv 1406.5604 | 2014 | Global models of planet formation and evolution
+- **2× cited-seeds** | arXiv 1404.3247 | 2014 | STRONG BRIGHTNESS VARIATIONS SIGNAL CLOUDY-TO-CLEAR TRANSITION OF BROWN DWARFS
+- **2× cited-seeds** | arXiv 1404.0005 | 2014 | WATER CLOUDS IN Y DWARFS AND EXOPLANETS
+- **2× cited-seeds** | arXiv 1402.5914 | 2014 | High-contrast imaging in polychromatic light with the self-coherent camera
+- **2× cited-seeds** | arXiv 1401.7672 | 2014 | MID-INFRARED HIGH-CONTRAST IMAGING OF HD 114174 B: AN APPARENT AGE DISCREPANCY IN A “SIRIUS-LIKE” BINARY SYSTEM
+- **2× cited-seeds** | arXiv 1401.1194 | 2014 | WISE Y DWARFS AS PROBES OF THE BROWN DWARF–EXOPLANET CONNECTION
+- **2× cited-seeds** | arXiv — | 2014 | Dust growth and setting in protoplanetary disks and radiative transfer calculations
+- **2× cited-seeds** | arXiv 1407.1574 | 2014 | LOW EXTREME-ULTRAVIOLET LUMINOSITIES IMPINGING ON PROTOPLANETARY DISKS
+- **2× cited-seeds** | arXiv 1409.5651 | 2014 | Absorption of crystalline water ice in the far infrared at different temperatures
+- **2× cited-seeds** | arXiv 1406.0635 | 2014 | BROWN DWARF DISKS WITH ALMA
+- **2× cited-seeds** | arXiv 1411.3446 | 2014 | AN IMAGE-PLANE ALGORITHM FOR JWST'S NON-REDUNDANT APERTURE MASK DATA
+- **2× cited-seeds** | arXiv 1405.7428 | 2014 | High performance 3D waveguide architecture for astronomical pupil-remapping interferometry
+- **2× cited-seeds** | arXiv 1402.0889 | 2014 | A MID-INFRARED SEARCH FOR SUBSTELLAR COMPANIONS OF NEARBY PLANET-HOST STARS
+- **2× cited-seeds** | arXiv 1701.03143 | 2014 | On the origin of the azimuthal asymmetry in pole-on protoplanetary disks: The case of LkHα 101
+- **2× cited-seeds** | arXiv 1410.8168 | 2014 | CO GAS INSIDE THE PROTOPLANETARY DISK CAVITY IN HD 142527: DISK STRUCTURE FROM ALMA
+- **2× cited-seeds** | arXiv 1406.4183 | 2014 | EARLY EXCITATION OF SPIN–ORBIT MISALIGNMENTS IN CLOSE-IN PLANETARY SYSTEMS
+- **2× cited-seeds** | arXiv 1404.0709 | 2014 | HERSCHEL EVIDENCE FOR DISK FLATTENING OR GAS DEPLETION IN TRANSITIONAL DISKS
+- **2× cited-seeds** | arXiv 1402.5312 | 2014 | Faint disks around classical T Tauri stars: small but dense enough to form planets ⋆
+- **2× cited-seeds** | arXiv 1408.0813 | 2014 | DISCOVERY OF A COMPANION CANDIDATE IN THE HD 169142 TRANSITION DISK AND THE POSSIBILITY OF MULTIPLE PLANET FORMATION
+- **2× cited-seeds** | arXiv 1405.7378 | 2014 | STELLAR PARAMETERS AND ACCRETION RATE OF THE TRANSITION DISK STAR HD 142527 FROM X-SHOOTER
+- **2× cited-seeds** | arXiv 1412.1916 | 2014 | OBSERVATIONS OF INFALLING AND ROTATIONAL MOTIONS ON A 1000 AU SCALE AROUND 17 CLASS 0 AND 0/I PROTOSTARS: HINTS OF DISK GROWTH AND MAGNETIC BRAKING?
+- **2× cited-seeds** | arXiv 1407.2699 | 2014 | ALMA OBSERVATIONS OF INFALLING FLOWS TOWARD THE KEPLERIAN DISK AROUND THE CLASS I PROTOSTAR L1489 IRS
+- **2× cited-seeds** | arXiv 1405.2778 | 2014 | DUST TRANSPORT IN MRI TURBULENT DISKS: IDEAL AND NON-IDEAL MHD WITH AMBIPOLAR DIFFUSION
+- **2× cited-seeds** | arXiv 1402.1489 | 2014 | EFFICIENCY OF PARTICLE TRAPPING IN THE OUTER REGIONS OF PROTOPLANETARY DISKS
+- **2× cited-seeds** | arXiv 1404.3271 | 2014 | Near-infrared emission from sublimating dust in collisionally active debris disks
+- **2× cited-seeds** | arXiv 1407.2308 | 2014 | Gemini planet imager observational calibrations VIII: characterization and role of satellite spots
+- **2× cited-seeds** | arXiv 1412.2135 | 2014 | FAST MODES AND DUSTY HORSESHOES IN TRANSITIONAL DISKS
+- **2× cited-seeds** | arXiv 1410.0132 | 2014 | Planet-vortex interaction:How a vortex can shepherd a planetary embryo
+- **2× cited-seeds** | arXiv 1411.5280 | 2014 | Astrochemistry of dust, ice and gas: introduction and overview
+- **2× cited-seeds** | arXiv 1407.1735 | 2014 | SPATIALLY RESOLVED HCN J = 4–3 AND CS J = 7–6 EMISSION FROM THE DISK AROUND HD 142527
+- **2× cited-seeds** | arXiv 1402.0392 | 2014 | Warm formaldehyde in the Ophiuchus IRS 48 transitional disk
+- **2× cited-seeds** | arXiv 1411.3370 | 2014 | Characterization of the known T type dwarfs towards the Sigma Orionis cluster
+- **2× cited-seeds** | arXiv 1407.6575 | 2014 | Effect of dust grain porosity on the appearance of protoplanetary disks
+- **2× cited-seeds** | arXiv 1407.3309 | 2014 | ANOMALOUS ACCRETION ACTIVITY AND THE SPOTTED NATURE OF THE DQ TAU BINARY SYSTEM
+- **2× cited-seeds** | arXiv 1406.3951 | 2014 | Location and sizes of forsterite grains in protoplanetary disks Interpretation from the Herschel DIGIT programme
+- **2× cited-seeds** | arXiv 1403.8096 | 2014 | THE STRUCTURE OF THE LOCAL INTERSTELLAR MEDIUM. VI. NEW Mg ii, Fe ii, AND Mn ii OBSERVATIONS TOWARD STARS WITHIN 100 pc
+- **2× cited-seeds** | arXiv 1311.5222 | 2013 | ON THE OUTER EDGES OF PROTOPLANETARY DUST DISKS
+- **2× cited-seeds** | arXiv 1307.1357 | 2013 | Unveiling the gas-and-dust disk structure in HD 163296 using ALMA observations
+- **2× cited-seeds** | arXiv 1306.6475 | 2013 | A SPATIALLY RESOLVED VERTICAL TEMPERATURE GRADIENT IN THE HD 163296 DISK
+- **2× cited-seeds** | arXiv 1305.4954 | 2013 | DUSTY OB STARS IN THE SMALL MAGELLANIC CLOUD. II. EXTRAGALACTIC DISKS OR EXAMPLES OF THE PLEIADES PHENOMENON?
+- **2× cited-seeds** | arXiv 1301.4996 | 2013 | The sub-stellar birth rate from UKIDSS
+- **2× cited-seeds** | arXiv 1307.1082 | 2013 | New companions in the stellar systems of DI Cha, Sz 22, CHXR 32, and Cha Hα 5 in the Chamaeleon I star-forming region
+- **2× cited-seeds** | arXiv 1301.3831 | 2013 | Perspectives on effectively constraining the location of a massive trans-Plutonian object with the New Horizons spacecraft: a sensitivity analysis
+- **2× cited-seeds** | arXiv 1311.6130 | 2013 | Gap formation in a self-gravitating disk and the associated migration of the embedded giant planet
+- **2× cited-seeds** | arXiv 1307.4864 | 2013 | Theoretical models of planetary system formation: mass vs. semi-major axis
+- **2× cited-seeds** | arXiv 1306.2855 | 2013 | HERSCHEL's “COLD DEBRIS DISKS”: BACKGROUND GALAXIES OR QUIESCENT RIMS OF PLANETARY SYSTEMS?
+- **2× cited-seeds** | arXiv 1305.3413 | 2013 | A SEMI-ANALYTICAL DESCRIPTION FOR THE FORMATION AND GRAVITATIONAL EVOLUTION OF PROTOPLANETARY DISKS
+- **2× cited-seeds** | arXiv 1305.2203 | 2013 | TWO PLANETARY COMPANIONS AROUND THE K7 DWARF GJ 221: A HOT SUPER-EARTH AND A CANDIDATE IN THE SUB-SATURN DESERT RANGE
+- **2× cited-seeds** | arXiv 1312.4926 | 2013 | Colour-Magnitude Diagrams of Transiting Exoplanets. I - Systems with parallaxes
+- **2× cited-seeds** | arXiv 1311.0011 | 2013 | ON THE MINIMUM CORE MASS FOR GIANT PLANET FORMATION AT WIDE SEPARATIONS
+- **2× cited-seeds** | arXiv 1310.3168 | 2013 | Long-term evolution of three-planet systems to the post-main sequence and beyond
+- **2× cited-seeds** | arXiv 1310.0457 | 2013 | THE EXTREMELY RED, YOUNG L DWARF PSO J318.5338−22.8603: A FREE-FLOATING PLANETARY-MASS ANALOG TO DIRECTLY IMAGED YOUNG GAS-GIANT PLANETS
+- **2× cited-seeds** | arXiv 1307.7776 | 2013 | CONDITION FOR CAPTURE INTO FIRST-ORDER MEAN MOTION RESONANCES AND APPLICATION TO CONSTRAINTS ON THE ORIGIN OF RESONANT SYSTEMS
+- **2× cited-seeds** | arXiv 1307.8413 | 2013 | Young Brown Dwarfs as Giant Exoplanet Analogs
+- **2× cited-seeds** | arXiv — | 2013 | Polarimetry with the Gemini Planet Imager: Instrument Characterization and Future Science
+- **2× cited-seeds** | arXiv 1304.6104 | 2013 | Why Does Nature Form Exoplanets Easily
+- **2× cited-seeds** | arXiv 1304.4328 | 2013 | Planetary Companions to Three Evolved Intermediate-Mass Stars: HD 2952, HD 120084, and omega Serpentis
+- **2× cited-seeds** | arXiv 1303.3280 | 2013 | Detection of Carbon Monoxide and Water Absorption Lines in an Exoplanet Atmosphere
+- **2× cited-seeds** | arXiv 1301.5627 | 2013 | Clouds and Hazes in Exoplanet Atmospheres
+- **2× cited-seeds** | arXiv 1301.3178 | 2013 | ORBITAL MIGRATION OF PROTOPLANETS IN A MARGINALLY GRAVITATIONALLY UNSTABLE DISK
+- **2× cited-seeds** | arXiv 1310.6936 | 2013 | Alignment in star-debris disc systems seen by Herschel
+- **2× cited-seeds** | arXiv 1303.4738 | 2013 | Identification of transitional disks in Chamaeleon with Herschel
+- **2× cited-seeds** | arXiv 1308.3095 | 2013 | Inclination effects in T Tauri star spectra
+- **2× cited-seeds** | arXiv — | 2013 | Transition Disks - Grain Growth, Planets, or Photoevaporation?
+- **2× cited-seeds** | arXiv 1302.4745 | 2013 | INTERFEROMETRIC UPPER LIMITS ON MILLIMETER POLARIZATION OF THE DISKS AROUND DG Tau, GM Aur, AND MWC 480
+- **2× cited-seeds** | arXiv 1310.2613 | 2013 | A lithium depletion boundary age of 21 Myr for the Beta Pictoris moving group
+- **2× cited-seeds** | arXiv 1307.5916 | 2013 | Formation of sharp eccentric rings in debris disks with gas but without planets
+- **2× cited-seeds** | arXiv 1305.0980 | 2013 | DEUTERIUM BURNING IN MASSIVE GIANT PLANETS AND LOW-MASS BROWN DWARFS FORMED BY CORE-NUCLEATED ACCRETION
+- **2× cited-seeds** | arXiv 1301.2465 | 2013 | H2CO AND N2H+ IN PROTOPLANETARY DISKS: EVIDENCE FOR A CO-ICE REGULATED CHEMISTRY
+- **2× cited-seeds** | arXiv 1301.6434 | 2013 | Errata: Segmented vortex telescope and its tolerance to diffraction effects and primary aberrations
+- **2× cited-seeds** | arXiv — | 2013 | Direct Detection of extra-solar Planets with ESPRESSO
+- **2× cited-seeds** | arXiv 1307.1735 | 2013 | Signposts of Multiple Planets in Debris Disks
+- **2× cited-seeds** | arXiv 1303.3336 | 2013 | Observing Strategies for the Detection of Jupiter Analogs
+- **2× cited-seeds** | arXiv 1309.6916 | 2013 | MAGNETOHYDRODYNAMIC SIMULATIONS OF GLOBAL ACCRETION DISKS WITH VERTICAL MAGNETIC FIELDS
+- **2× cited-seeds** | arXiv 1309.1039 | 2013 | Imaging diagnostics for transitional discs
+- **2× cited-seeds** | arXiv 1308.0648 | 2013 | PARTICLE CONCENTRATION AT PLANET-INDUCED GAP EDGES AND VORTICES. I. INVISCID THREE-DIMENSIONAL HYDRO DISKS
+- **2× cited-seeds** | arXiv 1307.2585 | 2013 | THE LONG-TERM EVOLUTION OF PHOTOEVAPORATING PROTOPLANETARY DISKS
+- **2× cited-seeds** | arXiv — | 2013 | Asymmetric dust distribution in an eccentric protoplanetary disk as a signpost of a gas giant planet
+- **2× cited-seeds** | arXiv — | 2013 | Probing protoplanetary disks with Aperture Masking
+- **2× cited-seeds** | arXiv 1305.2483 | 2013 | Evolutionary constraints on the planetary hypothesis for transition discs
+- **2× cited-seeds** | arXiv 1303.6499 | 2013 | Vertical settling and radial segregation of large dust grains in the circumstellar disk of the Butterfly Star
+- **2× cited-seeds** | arXiv 1303.6313 | 2013 | TRANSITIONAL DISKS AND THEIR ORIGINS: AN INFRARED SPECTROSCOPIC SURVEY OF ORION A
+- **2× cited-seeds** | arXiv 1303.4804 | 2013 | MEASURING PROTOPLANETARY DISK ACCRETION WITH H i PFUND β
+- **2× cited-seeds** | arXiv 1302.3655 | 2013 | EVIDENCE FOR A SNOW LINE BEYOND THE TRANSITIONAL RADIUS IN THE TW Hya PROTOPLANETARY DISK
+- **2× cited-seeds** | arXiv 1302.2111 | 2013 | X-RAY IRRADIATION OF THE LkCa 15 PROTOPLANETARY DISK
+- **2× cited-seeds** | arXiv 1301.1976 | 2013 | Lopsided dust rings in transition disks
+- **2× cited-seeds** | arXiv 1310.0156 | 2013 | HOW EMPTY ARE DISK GAPS OPENED BY GIANT PLANETS
+- **2× cited-seeds** | arXiv 1304.2768 | 2013 | RESOLVING THE GAP AND AU-SCALE ASYMMETRIES IN THE PRE-TRANSITIONAL DISK OF V1247 ORIONIS
+- **2× cited-seeds** | arXiv 1311.5647 | 2013 | HIGH-RESOLUTION NEAR-INFRARED SPECTROSCOPY OF HD 100546. II. ANALYSIS OF VARIABLE ROVIBRATIONAL CO EMISSION LINES
+- **2× cited-seeds** | arXiv 1302.7122 | 2013 | A YOUNG PROTOPLANET CANDIDATE EMBEDDED IN THE CIRCUMSTELLAR DISK OF HD 100546
+- **2× cited-seeds** | arXiv 1312.1798 | 2013 | UTILITARIAN OPACITY MODEL FOR AGGREGATE PARTICLES IN PROTOPLANETARY NEBULAE AND EXOPLANET ATMOSPHERES
+- **2× cited-seeds** | arXiv — | 2013 | TW Hydrae: multi-wavelength interferometry of a transition disk
+- **2× cited-seeds** | arXiv 1302.1403 | 2013 | PROTOPLANETARY DISK STRUCTURE WITH GRAIN EVOLUTION: THE ANDES MODEL
+- **2× cited-seeds** | arXiv 1312.1459 | 2013 | Opacity of fluffy dust aggregates
+- **2× cited-seeds** | arXiv 1303.2692 | 2013 | THE HCN–WATER RATIO IN THE PLANET FORMATION REGION OF DISKS
+- **2× cited-seeds** | arXiv 1310.1393 | 2013 | Testing large-scale vortex formation against viscous layers in three-dimensional discs
+- **2× cited-seeds** | arXiv 1306.4567 | 2013 | CONSTRAINING A MODEL OF TURBULENT CORONAL HEATING FOR AU MICROSCOPII WITH X-RAY, RADIO, AND MILLIMETER OBSERVATIONS
+- **2× cited-seeds** | arXiv 1309.1250 | 2013 | CFBDS J111807-064016: A new L/T transition brown dwarf in a binary system
+- **2× cited-seeds** | arXiv 1310.1584 | 2013 | Grain size segregation in debris discs
+- **2× cited-seeds** | arXiv 1310.5068 | 2013 | ALMA OBSERVATIONS OF THE MOLECULAR GAS IN THE DEBRIS DISK OF THE 30 Myr OLD STAR HD 21997
+- **2× cited-seeds** | arXiv 1309.5098 | 2013 | Gas lines from the 5-Myr old optically thin disk around HD 141569A Herschel observations and modeling
+- **2× cited-seeds** | arXiv 1305.2681 | 2013 | Multiwavelength interferometric observations and modeling of circumstellar disks
+- **2× cited-seeds** | arXiv 1310.1914 | 2013 | Searching for transits in the WTS with difference imaging light curves
+- **2× cited-seeds** | arXiv 1308.6502 | 2013 | LIDT-DD: A new self-consistent debris disc model that includes radiation pressure and couples dynamical and collisional evolution
+- **2× cited-seeds** | arXiv 1306.0328 | 2013 | Gas and dust in the TW Hydrae association as seen by the Herschel Space Observatory
+- **2× cited-seeds** | arXiv — | 2013 | Evolution of gas and dust in circumstellar environments: from protoplanetary discs to the formation of planets
+- **2× cited-seeds** | arXiv 1209.4407 | 2012 | A DISK-BASED DYNAMICAL MASS ESTIMATE FOR THE YOUNG BINARY V4046 Sgr
+- **2× cited-seeds** | arXiv 1209.5433 | 2012 | THE DISK POPULATION OF THE UPPER SCORPIUS ASSOCIATION
+- **2× cited-seeds** | arXiv 1203.4817 | 2012 | THE FIRST PLANETS: THE CRITICAL METALLICITY FOR PLANET FORMATION
+- **2× cited-seeds** | arXiv 1202.2362 | 2012 | ON THE ORIGIN OF PLANETS AT VERY WIDE ORBITS FROM THE RECAPTURE OF FREE FLOATING PLANETS
+- **2× cited-seeds** | arXiv 1204.3473 | 2012 | MID-INFRARED SPECTRAL VARIABILITY ATLAS OF YOUNG STELLAR OBJECTS
+- **2× cited-seeds** | arXiv 1212.1793 | 2012 | Tracing large-scale structures in circumstellar disks with ALMA
+- **2× cited-seeds** | arXiv — | 2012 | WISE DETECTIONS OF DUST IN THE HABITABLE ZONES OF PLANET-BEARING STARS
+- **2× cited-seeds** | arXiv — | 2012 | SPICA coronagraph instrument: characterization of atmospheres and physical parameters of giant planets by direct imaging and spectroscopy
+- **2× cited-seeds** | arXiv 1207.2806 | 2012 | THE LICK–CARNEGIE SURVEY: A NEW TWO-PLANET SYSTEM AROUND THE STAR HD 207832
+- **2× cited-seeds** | arXiv 1205.3013 | 2012 | Conditions for Gravitational Instability in Protoplanetary Disks
+- **2× cited-seeds** | arXiv 1204.0007 | 2012 | CONSTRAINING THE PLANETARY SYSTEM OF FOMALHAUT USING HIGH-RESOLUTION ALMA OBSERVATIONS
+- **2× cited-seeds** | arXiv 1203.1143 | 2012 | Multi-object spectroscopy of stars in the CoRoT fields - I. Early-type stars in the CoRoT-fields IRa01, LRa01, LRa02
+- **2× cited-seeds** | arXiv 1203.1184 | 2012 | Planet-Disk Interaction and Orbital Evolution
+- **2× cited-seeds** | arXiv 1201.3371 | 2012 | Numerical convergence in self-gravitating shearing sheet simulations and the stochastic nature of disc fragmentation
+- **2× cited-seeds** | arXiv 1211.6300 | 2012 | The extreme polarimeter: design, performance, first results and upgrades
+- **2× cited-seeds** | arXiv 1208.5800 | 2012 | The Formation and Early Evolution of Low-Mass Stars and Brown Dwarfs
+- **2× cited-seeds** | arXiv 1301.2337 | 2012 | Type I Planet Migration in Weakly Magnetized Laminar Disks
+- **2× cited-seeds** | arXiv 1206.6103 | 2012 | Characterization of exoplanets from their formation - I. Models of combined planet formation and evolution
+- **2× cited-seeds** | arXiv — | 2012 | Migration-Induced Architectures of Planetary Systems
+- **2× cited-seeds** | arXiv 1204.1056 | 2012 | DIRECTLY IMAGING TIDALLY POWERED MIGRATING JUPITERS
+- **2× cited-seeds** | arXiv 1201.2175 | 2012 | Planet–planet scattering alone cannot explain the free-floating planet population
+- **2× cited-seeds** | arXiv 1201.1036 | 2012 | Extrasolar planet population synthesis - IV. Correlations with disk metallicity, mass, and lifetime
+- **2× cited-seeds** | arXiv — | 2012 | Myopic exoplanet detection algorithm based on an analytica l model of AO-corrected coronagraphic multi-spectral imagi ng
+- **2× cited-seeds** | arXiv 1212.2637 | 2012 | HIGH-RESOLUTION INFRARED IMAGING AND SPECTROSCOPY OF THE Z CANIS MAJORIS SYSTEM DURING QUIESCENCE AND OUTBURST
+- **2× cited-seeds** | arXiv 1204.0550 | 2012 | NEW SPATIALLY RESOLVED MID-INFRARED OBSERVATIONS OF THE TRANSITIONAL DISK TW Hya AND TENTATIVE EVIDENCE FOR A SELF-LUMINOUS COMPANION
+- **2× cited-seeds** | arXiv 1202.1802 | 2012 | The effect of local optically thick regions in the long-wave emission of young circumstellar disks
+- **2× cited-seeds** | arXiv 1208.4959 | 2012 | Far-ultraviolet and X-ray irradiated protoplanetary disks : a grid of models I. The disk structure
+- **2× cited-seeds** | arXiv 1211.1389 | 2012 | A SEARCH FOR GIANT PLANET COMPANIONS TO T TAURI STARS
+- **2× cited-seeds** | arXiv 1209.3780 | 2012 | THE MINERALOGY AND STRUCTURE OF THE INNER DEBRIS DISK OF β PICTORIS
+- **2× cited-seeds** | arXiv 1207.4789 | 2012 | A HUBBLE SPACE TELESCOPE SURVEY OF H2 EMISSION IN THE CIRCUMSTELLAR ENVIRONMENTS OF YOUNG STARS
+- **2× cited-seeds** | arXiv 1207.6017 | 2012 | Direct imaging of extra-solar planets in star forming regions - Lessons learned from a false positive around IM Lupi
+- **2× cited-seeds** | arXiv 1206.2370 | 2012 | Herschel imaging of 61 Vir: implications for the prevalence of debris in low-mass planetary systems
+- **2× cited-seeds** | arXiv 1205.3545 | 2012 | 880 μm IMAGING OF A TRANSITIONAL DISK IN UPPER SCORPIUS: HOLDOVER FROM THE ERA OF GIANT PLANET FORMATION?
+- **2× cited-seeds** | arXiv 1203.6816 | 2012 | THE NATURE OF TRANSITION CIRCUMSTELLAR DISKS. II. SOUTHERN MOLECULAR CLOUDS
+- **2× cited-seeds** | arXiv 1207.6485 | 2012 | Ring shaped dust accumulation in transition disks
+- **2× cited-seeds** | arXiv 1206.2654 | 2012 | A LIKELY CLOSE-IN LOW-MASS STELLAR COMPANION TO THE TRANSITIONAL DISK STAR HD 142527
+- **2× cited-seeds** | arXiv 1205.5042 | 2012 | DUST FILTRATION BY PLANET-INDUCED GAP EDGES: IMPLICATIONS FOR TRANSITIONAL DISKS
+- **2× cited-seeds** | arXiv 1203.6849 | 2012 | THE NATURE OF TRANSITION CIRCUMSTELLAR DISKS. III. PERSEUS, TAURUS, AND AURIGA
+- **2× cited-seeds** | arXiv 1209.3772 | 2012 | THE STRUCTURE OF PRE-TRANSITIONAL PROTOPLANETARY DISKS. I. RADIATIVE TRANSFER MODELING OF THE DISK+CAVITY IN THE PDS 70 SYSTEM
+- **2× cited-seeds** | arXiv 1205.4901 | 2012 | The circumstellar disk of HH 30. Searching for signs of disk evolution with multi-wavelength modeling
+- **2× cited-seeds** | arXiv 1205.1526 | 2012 | CIRCUMBINARY GAS ACCRETION ONTO A CENTRAL BINARY: INFRARED MOLECULAR HYDROGEN EMISSION FROM GG Tau A
+- **2× cited-seeds** | arXiv 1103.0556 | 2011 | Protoplanetary Disks and Their Evolution
+- **2× cited-seeds** | arXiv 1112.4815 | 2011 | A SUBSTELLAR COMPANION TO THE DUSTY PLEIADES STAR HD 23514
+- **2× cited-seeds** | arXiv 1111.0101 | 2011 | THE LATE STAGES OF PROTOPLANETARY DISK EVOLUTION: A MILLIMETER SURVEY OF UPPER SCORPIUS
+- **2× cited-seeds** | arXiv 1108.1290 | 2011 | CHARACTERIZING EXOPLANETARY ATMOSPHERES THROUGH INFRARED POLARIMETRY
+- **2× cited-seeds** | arXiv 1111.6943 | 2011 | CHALLENGES IN FORMING PLANETS BY GRAVITATIONAL INSTABILITY: DISK IRRADIATION AND CLUMP MIGRATION, ACCRETION, AND TIDAL DESTRUCTION
+- **2× cited-seeds** | arXiv 1111.6102 | 2011 | APPLICATION OF A DAMPED LOCALLY OPTIMIZED COMBINATION OF IMAGES METHOD TO THE SPECTRAL CHARACTERIZATION OF FAINT COMPANIONS USING AN INTEGRAL FIELD SPECTROGRAPH
+- **2× cited-seeds** | arXiv 1111.1985 | 2011 | The fragmentation of protostellar discs: the Hill criterion for spiral arms
+- **2× cited-seeds** | arXiv — | 2011 | ORBITAL DISTRIBUTIONS OF CLOSE-IN PLANETS AND DISTANT PLANETS FORMED BY SCATTERING AND DYNAMICAL TIDES
+- **2× cited-seeds** | arXiv 1110.5929 | 2011 | MODELING COLLISIONAL CASCADES IN DEBRIS DISKS: THE NUMERICAL METHOD
+- **2× cited-seeds** | arXiv 1110.4172 | 2011 | SPITZER EVIDENCE FOR A LATE-HEAVY BOMBARDMENT AND THE FORMATION OF UREILITES IN η CORVI At ∼1 Gyr
+- **2× cited-seeds** | arXiv 1108.4070 | 2011 | PLANETARY CONSTRUCTION ZONES IN OCCULTATION: DISCOVERY OF AN EXTRASOLAR RING SYSTEM TRANSITING A YOUNG SUN-LIKE STAR AND FUTURE PROSPECTS FOR DETECTING ECLIPSES BY CIRCUMSECONDARY AND CIRCUMPLANETARY DISKS
+- **2× cited-seeds** | arXiv 1107.5275 | 2011 | RESOLVING THE CIRCUMSTELLAR DISK OF HL TAURI AT MILLIMETER WAVELENGTHS
+- **2× cited-seeds** | arXiv 1108.3157 | 2011 | The SPICA coronagraphic instrument (SCI) for the study of exoplanets
+- **2× cited-seeds** | arXiv 1106.4114 | 2011 | Dynamical Evolution of Planetary Systems
+- **2× cited-seeds** | arXiv 1106.0586 | 2011 | Defining and cataloging exoplanets: the exoplanet.eu database
+- **2× cited-seeds** | arXiv 1105.2154 | 2011 | Multi-Color Coronagraph Experiment in a Vacuum Testbed with a Binary Shaped Pupil Mask
+- **2× cited-seeds** | arXiv 1104.3574 | 2011 | ON THE EVOLUTION OF DUST MINERALOGY, FROM PROTOPLANETARY DISKS TO PLANETARY SYSTEMS
+- **2× cited-seeds** | arXiv 1104.2537 | 2011 | FIRE SPECTROSCOPY OF FIVE LATE-TYPE T DWARFS DISCOVERED WITH THE WIDE-FIELD INFRARED SURVEY EXPLORER
+- **2× cited-seeds** | arXiv — | 2011 | Speckle level suppression using an unbalanced nulling interferometer in a high-contrast imaging system.
+- **2× cited-seeds** | arXiv — | 2011 | Imaging extra-solar planets with adaptive optics and a MEMS mirror
+- **2× cited-seeds** | arXiv 1101.5719 | 2011 | The complex circumstellar environment of HD 142527
+- **2× cited-seeds** | arXiv — | 2011 | Reversing the Inward Migration of Planets by Gap Self-Shadowing
+- **2× cited-seeds** | arXiv 1110.2095 | 2011 | A 30 AU RADIUS CO GAS HOLE IN THE DISK AROUND THE HERBIG Ae STAR Oph IRS 48
+- **2× cited-seeds** | arXiv 1109.3389 | 2011 | GSC 07396–00759 = V4046 Sgr C[D]: A WIDE-SEPARATION COMPANION TO THE CLOSE T TAURI BINARY SYSTEM V4046 Sgr AB
+- **2× cited-seeds** | arXiv 1106.1201 | 2011 | THE YOUNG PLANET-MASS OBJECT 2M1207b: A COOL, CLOUDY, AND METHANE-POOR ATMOSPHERE
+- **2× cited-seeds** | arXiv 1105.3314 | 2011 | Classification of the circumstellar disc evolution during the main accretion phase
+- **2× cited-seeds** | arXiv 1104.5014 | 2011 | Detecting the signatures of Uranus and Neptune
+- **2× cited-seeds** | arXiv 1104.0284 | 2011 | THE TUCANA/HOROLOGIUM, COLUMBA, AB DORADUS, AND ARGUS ASSOCIATIONS: NEW MEMBERS AND DUSTY DEBRIS DISKS
+- **2× cited-seeds** | arXiv 1103.3000 | 2011 | THE STRUCTURE AND DYNAMICS OF MOLECULAR GAS IN PLANET-FORMING ZONES: A CRIRES SPECTRO-ASTROMETRIC SURVEY
+- **2× cited-seeds** | arXiv 1101.4016 | 2011 | MAPPING THE SHORES OF THE BROWN DWARF DESERT. II. MULTIPLE STAR FORMATION IN TAURUS–AURIGA
+- **2× cited-seeds** | arXiv 1110.2250 | 2011 | Gap opening beyond dead zones by photoevaporation
+- **2× cited-seeds** | arXiv 1111.0297 | 2011 | ON THE MISALIGNMENT OF THE DIRECTLY IMAGED PLANET β PICTORIS b WITH THE SYSTEM'S WARPED INNER DISK
+- **2× cited-seeds** | arXiv 1607.08162 | 2011 | REALISTIC DETECTABILITY OF CLOSE INTERSTELLAR COMETS
+- **2× cited-seeds** | arXiv 1106.1388 | 2011 | Further deep imaging of HR 7329 A (η Tel A) and its brown dwarf companion B
+- **2× cited-seeds** | arXiv 1112.3398 | 2011 | An Icy Kuiper-Belt Around the Young Solar-Type Star HD 181327
+- **2× cited-seeds** | arXiv 1111.4348 | 2011 | The effects of disk and dust structure on observed polarimetric images of protoplanetary disks
+- **2× cited-seeds** | arXiv 1109.4579 | 2011 | CO ROVIBRATIONAL EMISSION AS A PROBE OF INNER DISK STRUCTURE
+- **2× cited-seeds** | arXiv 1102.4029 | 2011 | High resolution imaging of the GG Tauri system at 267 GHz
+- **2× cited-seeds** | arXiv 1111.5019 | 2011 | The HARPS search for southern extra-solar planets - XXXI. The M-dwarf sample
+- **2× cited-seeds** | arXiv 1109.2590 | 2011 | DENSITY WAVES EXCITED BY LOW-MASS PLANETS IN PROTOPLANETARY DISKS. II. HIGH-RESOLUTION SIMULATIONS OF THE NONLINEAR REGIME
+- **2× cited-seeds** | arXiv 1010.3016 | 2010 | MILLIMETER IMAGING OF MWC 758: PROBING THE DISK STRUCTURE AND KINEMATICS
+- **2× cited-seeds** | arXiv 1008.1950 | 2010 | APERTURE SYNTHESIS IMAGING OF V892 Tau AND PV Cep: DISK EVOLUTION
+- **2× cited-seeds** | arXiv 1012.3631 | 2010 | STRUCTURE AND EVOLUTION OF DEBRIS DISKS AROUND F-TYPE STARS. I. OBSERVATIONS, DATABASE, AND BASIC EVOLUTIONARY ASPECTS
+- **2× cited-seeds** | arXiv 1006.4311 | 2010 | DIAGNOSING CIRCUMSTELLAR DEBRIS DISKS
+- **2× cited-seeds** | arXiv 1004.0644 | 2010 | Warm dusty discs: exploring the A star 24 μm debris population
+- **2× cited-seeds** | arXiv 1001.0470 | 2010 | Near-infrared integral-field spectra of the planet/brown dwarf companion AB Pictoris b
+- **2× cited-seeds** | arXiv 1011.4068 | 2010 | THE LICK–CARNEGIE SURVEY: FOUR NEW EXOPLANET CANDIDATES
+- **2× cited-seeds** | arXiv 1011.2501 | 2010 | Hot Jupiters from secular planet–planet interactions
+- **2× cited-seeds** | arXiv 1009.5717 | 2010 | STABILITY OF MAGNETIZED DISKS AND IMPLICATIONS FOR PLANET FORMATION
+- **2× cited-seeds** | arXiv 1009.4196 | 2010 | The effects of fly‐bys on planetary systems
+- **2× cited-seeds** | arXiv 1008.3539 | 2010 | METALLICITIES OF PLANET-HOSTING STARS: A SAMPLE OF GIANTS AND SUBGIANTS
+- **2× cited-seeds** | arXiv 1008.2428 | 2010 | A SPITZER c2d LEGACY SURVEY TO IDENTIFY AND CHARACTERIZE DISKS WITH INNER DUST HOLES
+- **2× cited-seeds** | arXiv 1007.4552 | 2010 | RETIRED A STARS AND THEIR COMPANIONS. VI. A PAIR OF INTERACTING EXOPLANET PAIRS AROUND THE SUBGIANTS 24 SEXTANIS AND HD 200964
+- **2× cited-seeds** | arXiv — | 2010 | The Fomalhaut debris disk seen from every angle with interferometry
+- **2× cited-seeds** | arXiv — | 2010 | Polarization-interferometric eight-octant phase-mask coronagraph using ferroelectric liquid crystal for exoplanet detection
+- **2× cited-seeds** | arXiv 1007.2881 | 2010 | THE INVISIBLE MAJORITY? EVOLUTION AND DETECTION OF OUTER PLANETARY SYSTEMS WITHOUT GAS GIANTS
+- **2× cited-seeds** | arXiv 1006.3525 | 2010 | LIGHT SCATTERING FROM EXOPLANET OCEANS AND ATMOSPHERES
+- **2× cited-seeds** | arXiv — | 2010 | Direct imaging and spectroscopy of habitable planets using JWST and a starshade
+- **2× cited-seeds** | arXiv 1005.4557 | 2010 | Planet gaps in the dust layer of 3D protoplanetary disks - I. Hydrodynamical simulations of T Tauri disks
+- **2× cited-seeds** | arXiv 1005.4039 | 2010 | The effects of metallicity and grain growth and settling on the early evolution of gaseous protoplanets
+- **2× cited-seeds** | arXiv 1004.3766 | 2010 | Exploring the conditions required to form giant planets via gravitational instability in massive protoplanetary discs
+- **2× cited-seeds** | arXiv 1004.3487 | 2010 | Searching for the sub-stellar companions in the LkCa15 proto-planetary disk
+- **2× cited-seeds** | arXiv 1004.0696 | 2010 | DUSTY DISKS AROUND WHITE DWARFS. I. ORIGIN OF DEBRIS DISKS
+- **2× cited-seeds** | arXiv 1003.5323 | 2010 | CONSTRAINTS ON LONG-PERIOD PLANETS FROM AN L′- AND M-BAND SURVEY OF NEARBY SUN-LIKE STARS: MODELING RESULTS
+- **2× cited-seeds** | arXiv 1003.3900 | 2010 | RADIATIVE TRANSFER MODELS OF A POSSIBLE PLANET IN THE AB AURIGAE DISK
+- **2× cited-seeds** | arXiv 1001.2491 | 2010 | The complex structure of the disk around HD 100546 - The inner few astronomical units
+- **2× cited-seeds** | arXiv — | 2010 | Exoplanet imaging with LOCI processing: photometry and astrometry with the new SOSIE pipeline
+- **2× cited-seeds** | arXiv 1005.2971 | 2010 | LOCATING PLANETESIMAL BELTS IN THE MULTIPLE-PLANET SYSTEMS HD 128311, HD 202206, HD 82943, AND HR 8799
+- **2× cited-seeds** | arXiv — | 2010 | An image of an exoplanet separated by two diffraction beamwidths from a star
+- **2× cited-seeds** | arXiv — | 2010 | Imaging polarimetry with the Gemini Planet Imager
+- **2× cited-seeds** | arXiv 1003.2205 | 2010 | The low-mass population of the ρ Ophiuchi molecular cloud ,
+- **2× cited-seeds** | arXiv 1007.5070 | 2010 | PROTOPLANETARY DISK STRUCTURES IN OPHIUCHUS. II. EXTENSION TO FAINTER SOURCES
+- **2× cited-seeds** | arXiv 1007.3874 | 2010 | SIMULATIONS OF WINDS OF WEAK-LINED T TAURI STARS. II. THE EFFECTS OF A TILTED MAGNETOSPHERE AND PLANETARY INTERACTIONS
+- **2× cited-seeds** | arXiv 1012.2313 | 2010 | MILLIMETER IMAGING OF THE β PICTORIS DEBRIS DISK: EVIDENCE FOR A PLANETESIMAL BELT
+- **2× cited-seeds** | arXiv — | 2010 | Relative velocities of solids in a turbulent protoplanetary disc
+- **2× cited-seeds** | arXiv 1010.1079 | 2010 | The imprint of photoevaporation on edge-on discs
+- **1× cited-seeds** | arXiv — | 2026 | Discovery of planetary-mass binaries in the Lower Centaurus-Crux association
+- **1× cited-seeds** | arXiv 2606.30867 | 2026 | SHARPing accretion and outflows in young stellar objects in star forming regions of the outer Galaxy and beyond
+- **1× cited-seeds** | arXiv — | 2026 | Predictive Rankings of the Probability of Hosting a Temperate Terrestrial World for the HWO ExEP Mission Star List
+- **1× cited-seeds** | arXiv 2602.20402 | 2026 | Stellar Flare Study of nearby Young Moving Group Members with TESS Data
+- **1× cited-seeds** | arXiv 2606.12511 | 2026 | Unification models of Active Galactic Nuclei
+- **1× cited-seeds** | arXiv 2604.03211 | 2026 | Parametric SED Modelling of Protoplanetary Discs: Validation and Application to An Unstudied YSO
+- **1× cited-seeds** | arXiv — | 2026 | Необычная спектральная активность Ае звезды Хербига AB Aur
+- **1× cited-seeds** | arXiv 2603.03208 | 2026 | The Periastron Passage of T Tauri South B as Viewed by ALMA: Millimeter Flux Variations and Dust Heating Triggered by Orbital Motion
+- **1× cited-seeds** | arXiv 2601.10579 | 2026 | HST Observations of HD 166620 and τ Ceti: First UV Spectra of a Magnetic Grand Minimum Star and the Extent of τ Ceti’s Astrosphere
+- **1× cited-seeds** | arXiv — | 2026 | Fast Protoplanetary Disk Modeling with DustRad: A Dust Evolution and Radiative Transfer Module for FARGO3D
+- **1× cited-seeds** | arXiv 2605.23680 | 2026 | Modeling (Sub)millimeter Scattering Properties of Fractal and Consolidated Porous Particles: Applications to Protoplanetary Disks
+- **1× cited-seeds** | arXiv 2603.13015 | 2026 | exoALMA XXII: A Two-dimensional Atlas of Deviations from Keplerian Disks
+- **1× cited-seeds** | arXiv 2603.01808 | 2026 | A universal brown dwarf desert formed between planets and stars
+- **1× cited-seeds** | arXiv — | 2026 | Магнитосферная аккреция и запыленный ветер — основные причины активности молодых звезд
+- **1× cited-seeds** | arXiv — | 2026 | Simulation of the Interaction between Planet and Protoplanetary Disk Based on FARGO3D
+- **1× cited-seeds** | arXiv 2606.18300 | 2026 | Ultra-High-Resolution Astronomy with the Solar Gravitational Lens
+- **1× cited-seeds** | arXiv 2606.14768 | 2026 | Kinetics of coagulation phenomena from a granular matter perspective
+- **1× cited-seeds** | arXiv 2604.16604 | 2026 | Carbonaceous Chondrites Provide Evidence for Late-stage Planetesimal Formation in a Pressure Bump
+- **1× cited-seeds** | arXiv 2604.11405 | 2026 | From Dust to Planets -- A Chemical Perspective
+- **1× cited-seeds** | arXiv 2603.29007 | 2026 | Protoplanetary Disk Evolution in a Low-metallicity Environment: JWST’s First Mid-infrared Census of Low-mass Stars
+- **1× cited-seeds** | arXiv — | 2026 | CARTA—Cube Analysis and Rendering Tool for Astronomy: A Tool for Big Imaging Data
+- **1× cited-seeds** | arXiv 2601.16791 | 2026 | Mercury-Ar χ es: A high-performance n-body code for planet formation studies
+- **1× cited-seeds** | arXiv — | 2026 | Interactions between the Planetary Magnetic Field and the Surrounding Gas Flows in the Final Stage of the Giant Planet Formation. I. Two Distinct Evolutionary Scenarios
+- **1× cited-seeds** | arXiv 2605.13189 | 2026 | The accretion process on protostars
+- **1× cited-seeds** | arXiv 2601.20101 | 2026 | Accretion Properties of the Young Brown Dwarf 2MASS J08440915-7833457
+- **1× cited-seeds** | arXiv — | 2026 | Молодая звезда RY Tau в режиме магнитного пропеллера
+- **1× cited-seeds** | arXiv — | 2026 | The FUor Mass Distribution Matches the Solar Neighborhood Initial Mass Function: Evidence for a Universal Eruptive Phase
+- **1× cited-seeds** | arXiv 2602.05094 | 2026 | Shocks, Winds, and a Torus: the Large Binocular Telescope Interferometer (LBTI) Resolves the Active Nucleus of NGC 4151
+- **1× cited-seeds** | arXiv 2604.01323 | 2026 | Three Thousand Motion-confirmed L and T Dwarf Candidates from the Backyard Worlds: Planet 9 Citizen Science Project
+- **1× cited-seeds** | arXiv 2601.09671 | 2026 | Parallaxes, Proper Motions, and Near-infrared Photometry for 173 L and T Dwarfs from the US Naval Observatory Infrared Astrometry Program
+- **1× cited-seeds** | arXiv 2606.04283 | 2026 | Preparing for the Early eVolution Explorer: Detecting the Primordial, Transiting Exoplanet Population
+- **1× cited-seeds** | arXiv 2605.29946 | 2026 | Spin–Orbit Geometry of AU Mic b and c from Back-to-back Transits Observed Contemporaneously with Magellan PFS, LCOGT, and CHEOPS
+- **1× cited-seeds** | arXiv 2605.05449 | 2026 | Finding Alien Worlds in Queensland -- A Decade of MINERVA-Australis
+- **1× cited-seeds** | arXiv 2604.19917 | 2026 | A giant solution to the disk mass budget problem of planet formation
+- **1× cited-seeds** | arXiv 2604.05305 | 2026 | Scientific Validation of the SPARC4 Pipeline: Multi-band Imaging, Polarimetry, and Photometric Time Series for Improved Characterization of Transiting Exoplanets
+- **1× cited-seeds** | arXiv 2604.15077 | 2026 | Continuing to Advance European High Contrast Imaging Research and Development towards HWO and LIFE
+- **1× cited-seeds** | arXiv 2601.09587 | 2026 | The Structure and Kinematics of Three Class 0 Protostellar Jets from JWST
+- **1× cited-seeds** | arXiv — | 2026 | Origin and Evolution of the Galilean Satellites Within the Jovian System
+- **1× cited-seeds** | arXiv — | 2026 | Coupling laboratory FTIR data with PROCODA kinetic modeling for the radiolysis of frozen formic acid using swift ions
+- **1× cited-seeds** | arXiv — | 2026 | Investigations of Ultraviolet Spectral Approximations for Computing Photodissociation and Photoionization Reaction Rates
+- **1× cited-seeds** | arXiv 2601.10404 | 2026 | Spectroscopic Follow-up of Gaia Alerted Young Stellar Object Variables: The Large Binocular Telescope View
+- **1× cited-seeds** | arXiv 2602.18108 | 2026 | The GAPS Programme at the TNG
+- **1× cited-seeds** | arXiv 2602.14334 | 2026 | Formation and Survival of Complex Organic Molecules in the Jovian Circumplanetary Disk
+- **1× cited-seeds** | arXiv 2601.04140 | 2026 | Secular Excitation of Polar Neptune Orbits in Pure Disk–Planet Systems
+- **1× cited-seeds** | arXiv — | 2026 | Quiescent Host Galaxies of Extended Quasars Revealed by Spectrophotometric Decomposition
+- **1× cited-seeds** | arXiv 2602.12548 | 2026 | The Structure and Evolution of LRDs: Insights from JWST NIRSpec Medium- and High-resolution Spectroscopy at z ∼ 4
+- **1× cited-seeds** | arXiv 2601.22227 | 2026 | Obscured AGN at z < 1.5: X-Ray to Far-infrared SEDs and Host Galaxy Morphologies in the GOODS Fields
+- **1× cited-seeds** | arXiv 2603.07026 | 2026 | Water D/H in 3I/ATLAS as a probe of formation conditions in another planetary system
+- **1× cited-seeds** | arXiv 2603.03575 | 2026 | Accretion onto the Embedded Protostar L1527 IRS: Insights from JWST NIRSpec and MIRI Observations
+- **1× cited-seeds** | arXiv 2602.13683 | 2026 | Modeling the Break in the Specific Angular Momentum within the Envelope–Disk Transition Zone
+- **1× cited-seeds** | arXiv 2602.12661 | 2026 | ALMA Band 9 CO(6–5) Reveals a Warm Ring Structure Associated with the Embedded Protostar in the Cold Dense Core MC 27/L1521F
+- **1× cited-seeds** | arXiv 2602.09837 | 2026 | Investigating the Nested Structure of the Outflow from the Low Luminosity Protostar IRAS 16253-2429 Using JWST and ALMA
+- **1× cited-seeds** | arXiv 2602.05383 | 2026 | A Chemistry-first Centered Icy Chemical Inventory of Protostellar Sources with JWST
+- **1× cited-seeds** | arXiv 2602.04701 | 2026 | Early Stages of Protostellar Disk Evolution: A Link to the Initial Cloud Core
+- **1× cited-seeds** | arXiv — | 2026 | CORINOS. IV. Quantifying Baseline-fitting Uncertainties in SO2 Ice Measurements with JWST/MIRI
+- **1× cited-seeds** | arXiv 2601.12578 | 2026 | On the accuracy of mass and size measurements of young protoplanetary disks
+- **1× cited-seeds** | arXiv 2602.06465 | 2026 | The Walkaway Star HP Tau/G2: Evidence for a Stellar Merger
+- **1× cited-seeds** | arXiv — | 2026 | Discovery of a Giant Spiral Molecular Cloud in the Galactic Anticenter
+- **1× cited-seeds** | arXiv 2605.21407 | 2026 | Lithium Enrichment in a Subgiant Star with a Brown Dwarf Companion: A Planetary Engulfment Candidate
+- **1× cited-seeds** | arXiv 2602.17367 | 2026 | A collective trigger for widespread planetesimal formation revealed by accretion ages
+- **1× cited-seeds** | arXiv 2605.28043 | 2026 | Molecular Similarity and Water Diversity in Coeval Binary Disks: JWST/MIRI Observations of Sz 65 and Sz 66
+- **1× cited-seeds** | arXiv 2603.08787 | 2026 | Worlds Next Door. IV. Mapping the Late Stages of Giant Planet Evolution with a Precise Dynamical Mass and Luminosity for $\epsilon$ Ind Ab
+- **1× cited-seeds** | arXiv 2605.02036 | 2026 | JWST Unveils a High Mean Molecular Weight Atmosphere for Mini-Neptune TOI-1130 b: Evidence for Formation Beyond the Water Ice Line
+- **1× cited-seeds** | arXiv 2603.02198 | 2026 | Predicting Gaia astrometry’s ability to constrain the populations of circumbinary planets
+- **1× cited-seeds** | arXiv 2607.01466 | 2026 | How Late Solid Enrichment Shapes Atmospheric Abundances in Giant Planets
+- **1× cited-seeds** | arXiv 2605.23018 | 2026 | Gaia Exoplanet Orbits, Demographics, and Evolution Survey (GEODES): Characteristics of Three Long-Period Companions Accelerating their Host Stars
+- **1× cited-seeds** | arXiv 2501.08191 | 2025 | Architecture Classification for Extrasolar Planetary Systems
+- **1× cited-seeds** | arXiv 2510.21863 | 2025 | Metallicity Regulates Planet Formation across All Masses
+- **1× cited-seeds** | arXiv — | 2025 | Connecting stars and microcosms: visualization bridging astronomy and polaritonics
+- **1× cited-seeds** | arXiv 2510.09772 | 2025 | Radial Velocity Monitoring and Analysis of Gaia Astrometry of Selected Intermediate Mass Stars to Constrain Their Multiplicity Status
+- **1× cited-seeds** | arXiv 2502.04957 | 2025 | ALMA Reveals Thermal and Nonthermal Desorption of Methanol Ice in the HD 100546 Protoplanetary Disk
+- **1× cited-seeds** | arXiv 2502.06030 | 2025 | Observationally derived magnetic field strength and 3D components in the HD 142527 disk
+- **1× cited-seeds** | arXiv — | 2025 | Measurements of dust reveal the magnetic field in a protoplanetary disk
+- **1× cited-seeds** | arXiv 2510.17955 | 2025 | Sub-Snowline Formation of Gas-Giant Planets in Binary Systems
+- **1× cited-seeds** | arXiv 2503.02084 | 2025 | Convective Overstability in Radially Global Protoplanetary Disks. II. Impact on Planetesimal Formation
+- **1× cited-seeds** | arXiv — | 2025 | Erratum: “Deepest Limits on Scattered Light Emission from the Epsilon Eridani Inner Debris Disk with HST/STIS” (2024, AJ, 168, 169)
+- **1× cited-seeds** | arXiv 2506.22744 | 2025 | Shadow and thin accretion disk around Ayón-Beato–García black hole coupled with cloud of strings
+- **1× cited-seeds** | arXiv 2502.19155 | 2025 | Effect of primary scalar hair on black hole’s strong lensing in Beyond Horndeski gravity
+- **1× cited-seeds** | arXiv — | 2025 | Free Fall of a Jupiter-like Planet onto a Protoplanetary Disk
+- **1× cited-seeds** | arXiv 2501.03117 | 2025 | Interaction of Electromagnetic Radiation with Cometary Dust
+- **1× cited-seeds** | arXiv — | 2025 | Initial Conditions of Planet Formation: Time Constraints from Small Bodies and the Lifetime of Reservoirs in the Solar Protoplanetary Disk
+- **1× cited-seeds** | arXiv 2504.10599 | 2025 | Dust Continuum Radiation Maps from MHD Simulations of Accretion-ejection Systems around Single and Binary Stars
+- **1× cited-seeds** | arXiv — | 2025 | JWST spatially resolved fluorescently excited CO emission in a debris disk
+- **1× cited-seeds** | arXiv — | 2025 | The Structure of the Local Interstellar Medium. VII. Additional New Mg ii, Fe ii, and Mn ii Observations toward Stars within 100 pc
+- **1× cited-seeds** | arXiv 2506.08839 | 2025 | The Interplay of Parametric and Magnetorotational Instabilities in Oscillatory Shear Flows
+- **1× cited-seeds** | arXiv — | 2025 | XUE: Thermochemical Modeling Suggests a Compact and Gas-depleted Structure for a Distant, Irradiated Protoplanetary Disk
+- **1× cited-seeds** | arXiv 2503.02979 | 2025 | Discovery of Radio Recombination Lines from Proplyds in the Orion Nebula Cluster
+- **1× cited-seeds** | arXiv 2511.09481 | 2025 | Adsorption of Volatiles on Dust Grains in Protoplanetary Disks
+- **1× cited-seeds** | arXiv 2507.02570 | 2025 | Gas Pressure Driven Screening Forces and Pebble Aggregation: A Pathway for Growth in Planet Formation
+- **1× cited-seeds** | arXiv 2501.06188 | 2025 | The Radiowave Hunt for Young Stellar Object Emission and Demographics (RADIOHEAD): A Radio Luminosity–Spectral Type Dependence in Taurus–Auriga YSOs
+- **1× cited-seeds** | arXiv 2601.00786 | 2025 | Callisto’s Nonresonant Orbit as an Outcome of Circum-Jovian Disk Substructure
+- **1× cited-seeds** | arXiv 2510.08574 | 2025 | Fragmentation-limited Dust Filtration in 2D Simulations of Planet–Disk Systems with Dust Coagulation: Parameter Study and Implications for the Inner Disk’s Dust Mass Budget and Composition
+- **1× cited-seeds** | arXiv 2510.19919 | 2025 | Pristine ices in a planet-forming disk revealed by heavy water
+- **1× cited-seeds** | arXiv — | 2025 | Hall-modified rotational thermal modes in partially ionized cosmic ray-driven plasmas
+- **1× cited-seeds** | arXiv 2508.04776 | 2025 | In Situ Formation of the Cold Classical Kuiper Belt
+- **1× cited-seeds** | arXiv — | 2025 | Cosmic-Ray Propagation in Young Embedded Clusters
+- **1× cited-seeds** | arXiv — | 2025 | Solar System’s earliest solids as tracers of the accretion region of Ryugu and Ivuna-type carbonaceous chondrites
+- **1× cited-seeds** | arXiv 2506.10435 | 2025 | On the Mass Budget Problem of Protoplanetary Disks: Streaming Instability and Optically Thick Emission
+- **1× cited-seeds** | arXiv 2505.23902 | 2025 | Bridging Unstratified and Stratified Simulations of the Streaming Instability for τs = 0.1 Grains
+- **1× cited-seeds** | arXiv 2504.08436 | 2025 | Bifurcated Evolutionary Pathways in Multiplanet Systems Driven by Misaligned Protoplanetary Disks
+- **1× cited-seeds** | arXiv — | 2025 | Beam combiners in long baseline amplitude optical interferometry
+- **1× cited-seeds** | arXiv 2507.08146 | 2025 | Universal energy limits of radiation belts in planetary and brown dwarf magnetospheric systems
+- **1× cited-seeds** | arXiv 2512.06439 | 2025 | Water Vapor Emission at the Warm Cavity Wall of the HD 100546 Disk as Revealed by ALMA
+- **1× cited-seeds** | arXiv 2601.04314 | 2025 | The early Universe with JWST and ALMA
+- **1× cited-seeds** | arXiv 2506.06418 | 2025 | The Identification of Two JWST/NIRCam-dark Starburst Galaxies at z = 6.6 with ALMA
+- **1× cited-seeds** | arXiv 2604.22729 | 2025 | Simulation of a Protoplanetary Disk Accretion Activity Due to a Collision with a Gas Stream
+- **1× cited-seeds** | arXiv 2511.07765 | 2025 | JWST lensed quasar dark matter survey. III. Dark matter sensitive flux ratios and warm dark matter constraint from the full sample
+- **1× cited-seeds** | arXiv 2605.06794 | 2025 | The Study of the Circumnuclear Environment of Accreting Supermassive Black Holes with Realistic X-Ray Spectral Models
+- **1× cited-seeds** | arXiv 2509.09770 | 2025 | Early Stages of Dusty Tori: The First Infrared Spectra from a Highly Multiscale Quasar Simulation
+- **1× cited-seeds** | arXiv 2501.15966 | 2025 | The Extraordinary Long-lasting Infrared Echo of PS16dtm Reveals an Extremely Energetic Nuclear Outburst
+- **1× cited-seeds** | arXiv 2507.13446 | 2025 | Testing the Origin of Hot Jupiters with Atmospheric Surveys
+- **1× cited-seeds** | arXiv 2511.08816 | 2025 | JWST Reveals Carbon-rich Chemistry in a Transitional Disk
+- **1× cited-seeds** | arXiv 2505.19993 | 2025 | Comparing Grid Model Fitting Methodologies for Low-temperature Atmospheres: Markov Chain Monte Carlo versus Random Forest Retrieval
+- **1× cited-seeds** | arXiv 2504.12046 | 2025 | The Dynamic Inner Disk of a Planet-forming Star
+- **1× cited-seeds** | arXiv — | 2025 | Progress in developing PICTURE-D polarimeter: a polarimeter for characterizing debris disk properties
+- **1× cited-seeds** | arXiv 2505.18375 | 2025 | Betelgeuse, Betelgeuse, Betelgeuse, Betel-buddy? Constraints on the Dynamical Companion to α Orionis from HST
+- **1× cited-seeds** | arXiv 2510.18820 | 2025 | Ever Elusive Exospheres: One Probable Detection and Two Nondetections of Hα Transits in Young Systems
+- **1× cited-seeds** | arXiv 2508.15107 | 2025 | Hard X-Ray Emission in AU Mic Flares: A Minor Contributor to Planetary Atmospheric Escape
+- **1× cited-seeds** | arXiv 2502.01903 | 2025 | Amplifying Resonant Repulsion with Inflated Young Planets, Overlooked Inner Planets, and Nonzero Initial Δ
+- **1× cited-seeds** | arXiv 2502.00576 | 2025 | A 16 Myr Super-Neptune in Upper Centaurus Lupus and a Preliminary Survey of Transiting Planets in Sco-Cen with TESS
+- **1× cited-seeds** | arXiv — | 2025 | Encountered astronomy
+- **1× cited-seeds** | arXiv 2503.23319 | 2025 | Class I/II Jets with JWST: Mass-loss Rates, Asymmetries, and Binary-induced Wigglings
+- **1× cited-seeds** | arXiv 2509.12324 | 2025 | VADER: A Variational Autoencoder to Infer Planetary Masses and Gas-Dust Disk Properties Around Young Stars
+- **1× cited-seeds** | arXiv 2509.01122 | 2025 | Unveiling Stellar Feedback and Cloud Structure in the ρ Ophiuchi-A Region Using ALMA and JWST: Discovery of Substellar Cores, C18O Striations, and Protostellar Outflows
+- **1× cited-seeds** | arXiv — | 2025 | Mass Comparison of Protoplanetary Disk and Planetary Systems
+- **1× cited-seeds** | arXiv — | 2025 | Alpha Centauri Not a Binary Star System, Angular Separation, Brightness Analysis
+- **1× cited-seeds** | arXiv 2502.03224 | 2025 | A Case Study of Interstellar Material Delivery: α Centauri
+- **1× cited-seeds** | arXiv 2511.20817 | 2025 | Measuring Dust Masses of Protoplanetary Disks in Serpens and L1641/L1647 with ALMA
+- **1× cited-seeds** | arXiv 2509.21701 | 2025 | First Results from ALPPS: A Sub-Alfvénic Streamer in SVS 13A
+- **1× cited-seeds** | arXiv 2510.02591 | 2025 | Exploring Warm Jupiter Migration Pathways with Eccentricities. II. Correlations with Host Star Properties and Orbital Separation
+- **1× cited-seeds** | arXiv 2502.13610 | 2025 | HCN and C2H2 in the Atmosphere of a T8.5+T9 Brown Dwarf Binary
+- **1× cited-seeds** | arXiv 2508.11963 | 2025 | Rings around giant planets and smaller bodies
+- **1× cited-seeds** | arXiv 2501.13166 | 2025 | Properties of Free-floating Planets Ejected through Planet–Planet Scattering
+- **1× cited-seeds** | arXiv 2512.04944 | 2025 | Oxygen Isotope Constraints on the Importance of Photochemical Processing in Protoplanetary Disks
+- **1× cited-seeds** | arXiv — | 2025 | Detecting Exoplanets beyond the Local Supercluster through Gravitational Waves with B-DECIGO and DECIGO
+- **1× cited-seeds** | arXiv 2509.15196 | 2025 | Measuring the Two-dimensional Thermal Structures of Protoplanetary Disks
+- **1× cited-seeds** | arXiv — | 2025 | Radially Extended C i Emission in the IM Lup Protoplanetary Disk Uncovered with Matched Filtering
+- **1× cited-seeds** | arXiv 2504.20012 | 2025 | exoALMA. XV. Interpreting the Height of CO Emission Layer
+- **1× cited-seeds** | arXiv — | 2025 | Exploring Forsterite Surface Catalysis in HCN Polymerization: Computational Insights for Astrobiology and Prebiotic Chemistry
+- **1× cited-seeds** | arXiv 2503.03249 | 2025 | CO Emission and Absorption-line Survey of the M87 Nucleus Using Archival ALMA Imaging
+- **1× cited-seeds** | arXiv — | 2025 | Spectroscopy and polarimetry design and flight instrument calibration for the Roman Coronagraph
+- **1× cited-seeds** | arXiv 2503.01137 | 2025 | Dust Coagulation Assisted by Streaming Instability in Protoplanetary Disks
+- **1× cited-seeds** | arXiv — | 2025 | Spectral Variability of Herbig Ae Star V1295, Aquila
+- **1× cited-seeds** | arXiv 2509.02657 | 2025 | On the synergetic use of Ariel and JWST for exoplanet atmospheric science
+- **1× cited-seeds** | arXiv 2511.03659 | 2025 | ALMA and JWST Imaging of z > 6 Quasars: No Spatial Position Offset Observed between Quasars and Their Host Galaxies
+- **1× cited-seeds** | arXiv 2508.21748 | 2025 | A direct black-hole mass measurement in a little red dot at high redshift
+- **1× cited-seeds** | arXiv 2508.21229 | 2025 | Subaru High-z Exploration of Low-luminosity Quasars (SHELLQs). XXIV. 54 New Quasars and Candidate Obscured Quasars at 5.71 ≤ z ≤ 7.02
+- **1× cited-seeds** | arXiv 2507.13489 | 2025 | The z = 7.08 Quasar ULAS J1120+0641 May Never Reach a “Normal” Black Hole to Stellar Mass Ratio
+- **1× cited-seeds** | arXiv 2505.04825 | 2025 | SHELLQs. Bridging the Gap: JWST Unveils Obscured Quasars in the Most Luminous Galaxies at z > 6
+- **1× cited-seeds** | arXiv 2505.02896 | 2025 | The Large-scale Environments of Low-luminosity AGNs at 3.9 < z < 6 and Implications for Their Host Dark Matter Halos from a Complete NIRCam Grism Redshift Survey
+- **1× cited-seeds** | arXiv 2504.15357 | 2025 | ALMA Reveals Bright Circumgalactic Emission and a Biconical Outflow in z ∼ 6.4 Quasar PSOJ183+05
+- **1× cited-seeds** | arXiv — | 2025 | Evolution of the M∗–MBH Relation from z ∼ 6 to the Present Epoch
+- **1× cited-seeds** | arXiv 2503.23797 | 2025 | Kiloparsec-scale Alignment of a Radio Jet with Cool Gas and Dust in a z ∼ 6 Quasar
+- **1× cited-seeds** | arXiv 2503.08687 | 2025 | JWST Spectroscopic View of a Rapidly Growing, Dust-obscured Quasar at z ∼ 4: Effect of Dust Extinction Correction on Black Hole Mass and Eddington Ratio Estimation
+- **1× cited-seeds** | arXiv — | 2025 | Strong Rest-UV Emission Lines in a “Little Red Dot” Active Galactic Nucleus at z = 7: Early Supermassive Black Hole Growth alongside Compact Massive Star Formation?
+- **1× cited-seeds** | arXiv 2502.16858 | 2025 | No Galaxy-scale [C ii] Fast Outflow in the z = 6.72 Red Quasar HSC J1205–0000
+- **1× cited-seeds** | arXiv — | 2025 | Pushing the Atacama Large Millimeter/submillimeter Array to the Limit: 140 pc Resolution Observations of a z = 6.6 Quasar–Galaxy Merger Resolve Strikingly Different Morphologies of Dust Continuum and [C ii] 158 μm Emission
+- **1× cited-seeds** | arXiv 2501.09077 | 2025 | Assessing the Dark Matter Content of Two Quasar Host Galaxies at z ∼ 6 through Gas Kinematics
+- **1× cited-seeds** | arXiv — | 2025 | A Refined Photometric Constraint for Exoplanet Direct Imaging Yield Estimation and Observation Scheduling
+- **1× cited-seeds** | arXiv 2604.05902 | 2025 | Study of the Migration of Earth-Like Planets in Planetesimal Disks and the Formation of Debris Disks
+- **1× cited-seeds** | arXiv 2512.21454 | 2025 | Early Planet Formation in Embedded Disks (eDisk). XIX. Structures of Molecular Outflows
+- **1× cited-seeds** | arXiv 2510.15578 | 2025 | Molecular line emission from 1000 au scale outflows to <30 au compact structures in NGC1333 IRAS4A2
+- **1× cited-seeds** | arXiv 2508.15889 | 2025 | Massive extended streamers feed high-mass young stars
+- **1× cited-seeds** | arXiv 2508.07212 | 2025 | Early Planet Formation in Embedded Disks (eDisk). XXII. Keplerian Disk, Disk Structures, and Jets/Outflows in the Class 0 Protostar IRAS 04166+2706
+- **1× cited-seeds** | arXiv 2508.06089 | 2025 | Development of 1D Non-ideal MHD Simulation Code Towards understanding Long-term Evolution of Protoplanetary Disk
+- **1× cited-seeds** | arXiv — | 2025 | Multiscale astrobiology with the Vera C. Rubin Observatory Legacy Survey of Space and Time
+- **1× cited-seeds** | arXiv 2505.09231 | 2025 | Formation and Early Evolution of Protoplanetary Disks under Nonuniform Cosmic-Ray Ionization
+- **1× cited-seeds** | arXiv 2502.00394 | 2025 | An Embedded Disk (eDisk) in the IceAge: Investigating the Jet and Outflow from Ced 110 IRS4
+- **1× cited-seeds** | arXiv 2501.08701 | 2025 | Complex Structure around a Circumstellar Disk Caused by Interchange Instability
+- **1× cited-seeds** | arXiv 2508.17727 | 2025 | The Impact of Silicate Grain Coagulation on Millimeter Emission from Massive Protostellar Disks
+- **1× cited-seeds** | arXiv 2508.03624 | 2025 | Radiative Nonideal Magnetohydrodynamic Simulations of Inner Protoplanetary Disks: Temperature Structures, Asymmetric Winds, and Episodic Surface Accretion
+- **1× cited-seeds** | arXiv 2510.18231 | 2025 | SKYSURF-11: A New Zodiacal Light Model Optimized for Optical Wavelengths
+- **1× cited-seeds** | arXiv 2512.03308 | 2025 | Roman coronagraph simulations of exozodi observations in the presence of wavefront errors
+- **1× cited-seeds** | arXiv 2509.03767 | 2025 | The ODYSSEUS Survey. Using Accretion and Stellar Rotation to Reveal the Star–Disk Connection in T Tauri Stars
+- **1× cited-seeds** | arXiv 2507.01162 | 2025 | The ODYSSEUS Survey. Characterizing Magnetospheric Geometries and Hotspot Structures in T Tauri Stars
+- **1× cited-seeds** | arXiv 2509.15527 | 2025 | A misaligned protostellar disk fed by gas streamers in a barred spiral-like massive dense core
+- **1× cited-seeds** | arXiv 2503.18127 | 2025 | A PR drag origin for the Fomalhaut disk’s pervasive inner dust: constraints on collisional strengths, icy composition, and embedded planets
+- **1× cited-seeds** | arXiv 2502.19558 | 2025 | Characterization of AF Lep b at high spectral resolution with VLT/HiRISE
+- **1× cited-seeds** | arXiv 2511.17712 | 2025 | PROJECT-J: The Shocking H2 Outflow from HH 46
+- **1× cited-seeds** | arXiv 2510.12601 | 2025 | The MIRI Excesses Around Degenerates (MEAD) Survey. I. A Candidate Cold Brown Dwarf in Orbit Around the Nearby White Dwarf 2MASS J09424023−4637176
+- **1× cited-seeds** | arXiv 2510.23709 | 2025 | Sensitivity to Sub-Io-sized Exosatellite Transits in the MIRI LRS Light Curve of the Nearest Substellar Worlds
+- **1× cited-seeds** | arXiv 2510.02564 | 2025 | Exploring Warm Jupiter Migration Pathways with Eccentricities. I. Catalog of Uniform Keplerian Fits to Radial Velocities of 200 Warm Jupiters
+- **1× cited-seeds** | arXiv — | 2025 | Metal-polluted White Dwarfs with 21 μm IR Excesses from JWST/MIRI: Planets or Dust?
+- **1× cited-seeds** | arXiv 2511.07590 | 2025 | Dust Recycling and Icy Volatile Enhancement (DRIVE): A Novel Method of Volatile Enrichment in Cold Giant Planets
+- **1× cited-seeds** | arXiv 2510.01322 | 2025 | Heavy Seeds and the First Black Holes: Insights from the BRAHMA Simulations
+- **1× cited-seeds** | arXiv — | 2025 | Spectral Characterization of the Organic- and Methanol-rich Cliff-type Trans-Neptunian Objects
+- **1× cited-seeds** | arXiv 2512.02007 | 2025 | The Astrometric Resoeccentric Degeneracy: Eccentric Single Planets Mimic 2:1 Resonant Planet Pairs in Astrometry
+- **1× cited-seeds** | arXiv 2510.13527 | 2025 | Investigating the Formation of Planets Interior to In Situ Hot Jupiters
+- **1× cited-seeds** | arXiv 2506.10743 | 2025 | The ALMA Survey of Gas Evolution of PROtoplanetary Disks (AGE-PRO). VIII. The Impact of External Photoevaporation on Disk Masses and Radii in Upper Scorpius
+- **1× cited-seeds** | arXiv 2506.10742 | 2025 | The ALMA Survey of Gas Evolution of PROtoplanetary Disks (AGE-PRO). VII. Testing Accretion Mechanisms from Disk Population Synthesis
+- **1× cited-seeds** | arXiv 2506.10752 | 2025 | The ALMA Survey of Gas Evolution of PROtoplanetary Disks (AGE-PRO). XII. Extreme Millimeter Variability Detected in a Class II Disk
+- **1× cited-seeds** | arXiv 2510.00111 | 2025 | JADES: An Abundance of Ultradistant T and Y Dwarfs in Deep Extragalactic Data
+- **1× cited-seeds** | arXiv 2510.07253 | 2025 | JWST-TST High Contrast: Medium-resolution spectroscopy reveals a carbon-rich circumplanetary disk around the young accreting exoplanet Delorme 1AB b
+- **1× cited-seeds** | arXiv 2512.08249 | 2025 | The Impact of Irradiation on the Radius and Thermal Evolution of Transiting Brown Dwarfs
+- **1× cited-seeds** | arXiv 2512.04186 | 2025 | Fractal Aggregate Aerosols in the Virga Cloud Code. II. Exploring the Effects of Key Cloud Parameters in Warm Neptune, Hot Jupiter and Brown Dwarf Atmospheres
+- **1× cited-seeds** | arXiv 2510.01747 | 2025 | Discovery of an Accretion Burst in a Free-floating Planetary-mass Object
+- **1× cited-seeds** | arXiv 2510.00292 | 2025 | The Colors of Ices: Measuring ice column density through photometry
+- **1× cited-seeds** | arXiv 2507.16944 | 2025 | A Framework for Modeling the Evolution of Young Stellar Objects
+- **1× cited-seeds** | arXiv 2510.23708 | 2025 | Twinkle Twinkle Little Star, Roman Sees Where You Are: Predicting Exoplanet Transit Yields in the Rosette Nebula with the Nancy Grace Roman Space Telescope
+- **1× cited-seeds** | arXiv 2506.08969 | 2025 | A New Spectral Class of Brown Dwarfs at the Bottom of the IMF in IC 348
+- **1× cited-seeds** | arXiv 2511.10726 | 2025 | An Analytical Model for the Eccentricity Cascade: Hot Jupiter Formation via S-type Instability
+- **1× cited-seeds** | arXiv 2507.21639 | 2025 | When the Wall Fell: Study of Polycyclic Aromatic Hydrocarbons in T Chamaeleontis Using JWST
+- **1× cited-seeds** | arXiv 2402.03212 | 2024 | Angular Momentum Transport in Binary Star Formation: The Enhancement of Magnetorotational Instability and Role of Outflows
+- **1× cited-seeds** | arXiv 2410.09183 | 2024 | Starshade exoplanet data challenge: what we learned
+- **1× cited-seeds** | arXiv — | 2024 | Literature Review on Extrasolar Planets (Exoplanets)
+- **1× cited-seeds** | arXiv 2412.06982 | 2024 | Resolving the Young 2 Cygni Runaway Star into a Binary Using iLocater
+- **1× cited-seeds** | arXiv 2410.11424 | 2024 | Radial velocity technique
+- **1× cited-seeds** | arXiv 2408.16813 | 2024 | The MIRI Exoplanets Orbiting White dwarfs (MEOW) Survey: Mid-infrared Excess Reveals a Giant Planet Candidate around a Nearby White Dwarf
+- **1× cited-seeds** | arXiv — | 2024 | Characterizing exoplanet atmospheres with SCALES medium-spectral-resolution angular differential imaging
+- **1× cited-seeds** | arXiv 2408.10891 | 2024 | Future exoplanet direct imaging instruments: simulating spatial light modulator-based pixelated focal-plane coronagraphy
+- **1× cited-seeds** | arXiv — | 2024 | Evidence for Magnetically‐Driven Accretion in the Distal Solar System
+- **1× cited-seeds** | arXiv — | 2024 | Kernel nulling at VLTI with photonic lanterns for optimal fibre injection
+- **1× cited-seeds** | arXiv 2405.19418 | 2024 | Paths to robust exoplanet science yield margin for the Habitable Worlds Observatory
+- **1× cited-seeds** | arXiv 2501.10512 | 2024 | The rapid formation of macromolecules in irradiated ice of protoplanetary disk dust traps
+- **1× cited-seeds** | arXiv 2402.04002 | 2024 | An ALMA Molecular Inventory of Warm Herbig Ae Disks. II. Abundant Complex Organics and Volatile Sulphur in the IRS 48 Disk
+- **1× cited-seeds** | arXiv — | 2024 | GPI 2.0: upgrade status of the Gemini Planet Imager
+- **1× cited-seeds** | arXiv — | 2024 | Adaptive optics at Gemini observatories: past, present, and future
+- **1× cited-seeds** | arXiv — | 2024 | More data than you want, fewer data than you need: machine learning approaches to starlight subtraction with MagAO-X
+- **1× cited-seeds** | arXiv 2407.13008 | 2024 | More data than you want, less data than you need: machine learning approaches to starlight subtraction with MagAO-X
+- **1× cited-seeds** | arXiv 2411.17868 | 2024 | The Roman coronagraph community participation program: observation planning
+- **1× cited-seeds** | arXiv 2410.08246 | 2024 | Absorption, scattering, geodesics, shadows and lensing phenomena of black holes in effective quantum gravity
+- **1× cited-seeds** | arXiv 2406.18300 | 2024 | Shadow and quasinormal modes of the rotating Einstein-Euler-Heisenberg black holes
+- **1× cited-seeds** | arXiv 2405.06501 | 2024 | Testing strong gravitational lensing effects of supermassive black holes with string-inspired metric: Observational signatures and EHT constraints
+- **1× cited-seeds** | arXiv — | 2024 | First results of the non-common path aberration correction in the Evanescent Wave Coronagraph testbed
+- **1× cited-seeds** | arXiv — | 2024 | Searching Extra-Planet Based on Radial Velocity, Transit and Direct Imaging
+- **1× cited-seeds** | arXiv — | 2024 | The Nonsingular Estimator for Exoplanet Orbits: An Unscented Batch Estimation Method for Direct Imaging Measurements
+- **1× cited-seeds** | arXiv 2411.14225 | 2024 | Reflected-light Phase Curves with PICASO: A Kepler-7b Case Study
+- **1× cited-seeds** | arXiv 2408.00159 | 2024 | Dust-gas coupling in turbulence- and MHD wind-driven protoplanetary disks: Implications for rocky planet formation
+- **1× cited-seeds** | arXiv — | 2024 | A JWST MIRI MRS View of the η Tel Debris Disk and Its Brown Dwarf Companion
+- **1× cited-seeds** | arXiv 2404.12348 | 2024 | Radio Observations as an Extrasolar Planet Discovery and Characterization: Interior Structure and Habitability
+- **1× cited-seeds** | arXiv 2412.09571 | 2024 | Asymmetric Temperature Variations In Protoplanetary Disks. I. Linear Theory, Corotating Spirals, and Ring Formation
+- **1× cited-seeds** | arXiv 2412.06955 | 2024 | Linear Bending Wave Propagation in Laminar and Turbulent Disks
+- **1× cited-seeds** | arXiv — | 2024 | Visual Orbits of Wolf–Rayet Stars. I. The Orbit of the Dust-producing Wolf–Rayet Binary WR 137 Measured with the CHARA Array
+- **1× cited-seeds** | arXiv 2412.10731 | 2024 | Dust Scattering Albedo at Millimeter Wavelengths in the TW Hya Disk
+- **1× cited-seeds** | arXiv 2403.00160 | 2024 | A far-ultraviolet–driven photoevaporation flow observed in a protoplanetary disk
+- **1× cited-seeds** | arXiv 2403.03436 | 2024 | ALMA Spectral Survey of an Eruptive Young Star, V883 Ori (ASSAY). I. What Triggered the Current Episode of Eruption?
+- **1× cited-seeds** | arXiv 2403.19741 | 2024 | The Hybrid Debris Disk Host Star HD 21997 is a High-frequency Delta Scuti Pulsator
+- **1× cited-seeds** | arXiv 2412.12560 | 2024 | Laboratory modeling of MHD accretion disks
+- **1× cited-seeds** | arXiv 2411.09271 | 2024 | Did the terrestrial planets of the solar system form by pebble accretion?
+- **1× cited-seeds** | arXiv 2410.17327 | 2024 | Using the Ca ii Lines in T Tauri Stars to Infer the Abundance of Refractory Elements in the Innermost Disk Region
+- **1× cited-seeds** | arXiv 2410.10968 | 2024 | Streaming Instabilities in Accreting Protoplanetary Disks: A Parameter Study
+- **1× cited-seeds** | arXiv — | 2024 | Chondrule Properties and Formation Conditions
+- **1× cited-seeds** | arXiv 2407.08032 | 2024 | Rossby wave instability and substructure formation in 3D non-ideal MHD wind-launching discs
+- **1× cited-seeds** | arXiv 2404.03791 | 2024 | Accretion and Uneven Depletion of the Main Asteroid Belt
+- **1× cited-seeds** | arXiv — | 2024 | Chapter 3: The Origins and Evolution of Planetary Systems
+- **1× cited-seeds** | arXiv 2403.00647 | 2024 | Resolved ALMA observations of water in the inner astronomical units of the HL Tau disk
+- **1× cited-seeds** | arXiv 2401.12296 | 2024 | Chemical signatures of planet engulfment events in Sun-like stars
+- **1× cited-seeds** | arXiv 2409.00506 | 2024 | Sculpting of Exoplanetary Systems Driven by a Misaligned Disk and Stellar Oblateness: Origin of Perpendicular Orbits in HD 3167
+- **1× cited-seeds** | arXiv 2404.09258 | 2024 | On the Dynamical Evolution of the Asteroid Belt in a Massive Star–Neutron Star Binary
+- **1× cited-seeds** | arXiv 2401.03775 | 2024 | Low-mass Stars: Their Protoplanetary Disk Lifetime Distribution
+- **1× cited-seeds** | arXiv 2401.02525 | 2024 | Formation of Unipolar Outflow and Protostellar Rocket Effect in Magnetized Turbulent Molecular Cloud Cores
+- **1× cited-seeds** | arXiv — | 2024 | Single spacecraft nulling interferometer for exoplanets: preliminary concepts
+- **1× cited-seeds** | arXiv 2402.09013 | 2024 | Asgard/NOTT: L-band nulling interferometry at the VLTI. II. Warm optical design and injection system
+- **1× cited-seeds** | arXiv — | 2024 | Gone with the Molecular Wind: Photoevaporation in the Compact Dust Disk around CX Tau
+- **1× cited-seeds** | arXiv 2411.08094 | 2024 | Stellar Obliquity Excitation via Disk-dispersal-driven Resonances in Binaries
+- **1× cited-seeds** | arXiv 2409.09120 | 2024 | On the potential of spectroastrometry with photonic lanterns
+- **1× cited-seeds** | arXiv — | 2024 | Current laboratory performance of starlight suppression systems and potential pathways to desired Habitable Worlds Observatory exoplanet science capabilities
+- **1× cited-seeds** | arXiv 2401.02574 | 2024 | Chondrule Survivability in the Solar Nebula
+- **1× cited-seeds** | arXiv — | 2024 | SERENADE. II. An ALMA Multiband Dust Continuum Analysis of 28 Galaxies at 5 < z < 8 and the Physical Origin of the Dust Temperature Evolution
+- **1× cited-seeds** | arXiv — | 2024 | Cosmic Sands. II. Challenges in Predicting and Measuring High-z Dust Temperatures
+- **1× cited-seeds** | arXiv 2410.21598 | 2024 | Extending the ALMA Census of Circumstellar Disks in the Upper Scorpius OB Association
+- **1× cited-seeds** | arXiv 2410.07328 | 2024 | Systematic Study of the Inner Structure of Molecular Tori in Nearby U/LIRGs Using Velocity Decomposition of CO Rovibrational Absorption Lines
+- **1× cited-seeds** | arXiv 2407.09445 | 2024 | Intensive Broadband Reverberation Mapping of Fairall 9 with 1.8 yr of Daily Swift Monitoring
+- **1× cited-seeds** | arXiv — | 2024 | A mature quasar at cosmic dawn revealed by JWST rest-frame infrared spectroscopy
+- **1× cited-seeds** | arXiv 2405.20146 | 2024 | High-energy neutrinos from the vicinity of the supermassive black hole in NGC 1068
+- **1× cited-seeds** | arXiv — | 2024 | The JWST Early Release Science Program for Direct Observations of Exoplanetary Systems. V. Do Self-consistent Atmospheric Models Represent JWST Spectra? A Showcase with VHS 1256–1257 b
+- **1× cited-seeds** | arXiv 2403.08226 | 2024 | Astrometric detection of exoplanets
+- **1× cited-seeds** | arXiv 2407.07238 | 2024 | Chemistry in the GG Tau A Disk: Constraints from H2D+, N2H+, and DCO+ High Angular Resolution ALMA Observations
+- **1× cited-seeds** | arXiv 2412.04597 | 2024 | New Ultracool Companions to Nearby White Dwarfs
+- **1× cited-seeds** | arXiv 2401.17142 | 2024 | The Inner Disk Rim of HD 163296: Linking Radiative Hydrostatic Models with Infrared Interferometry
+- **1× cited-seeds** | arXiv — | 2024 | High-contrast polarimetric observations of debris disks through the Roman Coronagraph Instrument
+- **1× cited-seeds** | arXiv — | 2024 | Spectral and photometrical peculiarities of the unusual Herbig Ae star HD 179218
+- **1× cited-seeds** | arXiv — | 2024 | Two Intriguing Transits of HIP 23309 Observed by TESS
+- **1× cited-seeds** | arXiv 2410.12905 | 2024 | The Transiting Exoplanet Survey Satellite
+- **1× cited-seeds** | arXiv 2408.16830 | 2024 | Gaspery: Optimized Scheduling of Radial Velocity Follow-up Observations for Active Host Stars
+- **1× cited-seeds** | arXiv 2408.02170 | 2024 | Searching for Neutral Hydrogen Escape from the 120 Myr Old Sub-Neptune HIP94235b using HST
+- **1× cited-seeds** | arXiv 2407.06300 | 2024 | Assessing Exoplanetary System Architectures with DYNAMITE Including Observational Upper Limits
+- **1× cited-seeds** | arXiv 2406.06885 | 2024 | The Prevalence of Resonance Among Young, Close-in Planets
+- **1× cited-seeds** | arXiv 2404.12310 | 2024 | A Multiwavelength Survey of Nearby M Dwarfs: Optical and Near-ultraviolet Flares and Activity with Contemporaneous TESS, Kepler/K2, Swift, and HST Observations
+- **1× cited-seeds** | arXiv 2403.03261 | 2024 | The Occurrence of Small, Short-period Planets Younger than 200 Myr with TESS
+- **1× cited-seeds** | arXiv 2409.02286 | 2024 | The Wanderer: Charting WASP-77A b’s Formation and Migration Using a System-wide Inventory of Carbon and Oxygen Abundances
+- **1× cited-seeds** | arXiv 2412.07211 | 2024 | Early Solar System Turbulence Constrained by High Oxidation States in the Oldest Noncarbonaceous Planetesimals
+- **1× cited-seeds** | arXiv 2407.03284 | 2024 | Aligning Planet-hosting Binaries via Dissipative Precession in Circumstellar Disks
+- **1× cited-seeds** | arXiv — | 2024 | Introduction and Analysis of Exoplanet Detection Techniques
+- **1× cited-seeds** | arXiv — | 2024 | Sources Separation in Hyperspectral Images for Protoplanets Detection and Characterization
+- **1× cited-seeds** | arXiv 2412.10189 | 2024 | Commissioning of the MIRAC-5 Mid-infrared Instrument on the MMT
+- **1× cited-seeds** | arXiv — | 2024 | Using synthetic disk-integrated reflectance spectra to constrain direct imaging sensitivity requirements for a Mars-like exoplanet
+- **1× cited-seeds** | arXiv 2503.20606 | 2024 | Simulation of the Free Fall of a Gas Stream on a Protoplanetary Disk
+- **1× cited-seeds** | arXiv 2402.19099 | 2024 | The Reservoir of the Per-emb-2 Streamer
+- **1× cited-seeds** | arXiv 2405.01970 | 2024 | Direct detectability of tidally heated exomoons by photometric orbital modulation
+- **1× cited-seeds** | arXiv 2412.04599 | 2024 | SDSS J100711.74+193056.2: A Candidate Common Motion Substellar Companion to the Nearest B-type Star Regulus
+- **1× cited-seeds** | arXiv 2405.08116 | 2024 | Occurrence Rates of Exosatellites Orbiting 3–30 M Jup Hosts from 44 Spitzer Light Curves
+- **1× cited-seeds** | arXiv 2404.14324 | 2024 | Thirteen New M Dwarf + T Dwarf Pairs Identified with WISE/NEOWISE
+- **1× cited-seeds** | arXiv 2412.04438 | 2024 | From Misaligned Sub-Saturns to Aligned Brown Dwarfs: The Highest Mp/M* Systems Exhibit Low Obliquities, Even around Hot Stars
+- **1× cited-seeds** | arXiv 2412.05002 | 2024 | Eta-Earth Revisited II: Deriving a Maximum Number of Earth-Like Habitats in the Galactic Disk
+- **1× cited-seeds** | arXiv — | 2024 | Exomoons and Exorings with the Habitable Worlds Observatory. I. On the Detection of Earth–Moon Analog Shadows and Eclipses
+- **1× cited-seeds** | arXiv 2403.05662 | 2024 | Formation and structure of circumplanetary disks and envelopes during the late stages of giant planet formation
+- **1× cited-seeds** | arXiv 2402.14638 | 2024 | A Thermodynamic Criterion for the Formation of Circumplanetary Disks
+- **1× cited-seeds** | arXiv 2402.07387 | 2024 | Magnetic Field of Gas Giant Exoplanets and Its Influence on the Retention of Their Exomoons
+- **1× cited-seeds** | arXiv 2410.23235 | 2024 | Protoplanetary disk chemistry and structure
+- **1× cited-seeds** | arXiv — | 2024 | The Ice Chemistry in Comets and Planet-forming Disks: Statistical Comparison of CH3OH, H2CO, and NH3 Abundance Ratios
+- **1× cited-seeds** | arXiv 2405.07279 | 2024 | Self-consistent N-body simulation of planetesimal-driven migration. I. The trajectories of single planets in the uniform background
+- **1× cited-seeds** | arXiv 2405.00615 | 2024 | Chemistry in Externally FUV-irradiated Disks in the Outskirts of the Orion Nebula Cluster
+- **1× cited-seeds** | arXiv 2404.15423 | 2024 | Chemistry in Protoplanetary Disks
+- **1× cited-seeds** | arXiv — | 2024 | Formation and Evolution Mechanisms for Organic Matter in Space
+- **1× cited-seeds** | arXiv 2408.09614 | 2024 | Discovery of a Jupiter Analog Misaligned to the Inner Planetary System in HD 73344
+- **1× cited-seeds** | arXiv 2408.09319 | 2024 | On the Formation of Planets in the Milky Way’s Thick Disk
+- **1× cited-seeds** | arXiv 2401.14472 | 2024 | On the incidence of episodic accretion in Class I YSOs from VVV
+- **1× cited-seeds** | arXiv 2410.12042 | 2024 | Global Simulations of Gravitational Instability in Protostellar Disks with Full Radiation Transport. I. Stochastic Fragmentation with Optical-depth-dependent Rate and Universal Fragment Mass
+- **1× cited-seeds** | arXiv 2404.11544 | 2024 | Reduction of dust radial drift by turbulence in protoplanetary disks
+- **1× cited-seeds** | arXiv — | 2024 | Coronagraphy robust to segmented aberrations: low-wind effect mitigation on Subaru/SCExAO
+- **1× cited-seeds** | arXiv 2407.06163 | 2024 | Hydrogen sulfide and metal-enriched atmosphere for a Jupiter-mass exoplanet
+- **1× cited-seeds** | arXiv 2412.04548 | 2024 | Fading Light, Fierce Winds: JWST Snapshot of a Sub-Eddington Quasar at Cosmic Dawn
+- **1× cited-seeds** | arXiv 2409.13189 | 2024 | Fast Outflow in the Host Galaxy of the Luminous z = 7.5 Quasar J1007+2115
+- **1× cited-seeds** | arXiv 2407.17570 | 2024 | A SPectroscopic Survey of Biased Halos In the Reionization Era (ASPIRE): Broad-line AGN at z = 4−5 Revealed by JWST/NIRCam WFSS
+- **1× cited-seeds** | arXiv 2405.21054 | 2024 | The first billion years according to JWST
+- **1× cited-seeds** | arXiv 2405.17077 | 2024 | High-redshift Merger Model for Low-frequency Gravitational Wave Background
+- **1× cited-seeds** | arXiv 2405.08522 | 2024 | In Search of the Biggest Bangs since the Big Bang
+- **1× cited-seeds** | arXiv 2405.02468 | 2024 | Merging Gas-rich Galaxies That Harbor Low-luminosity Twin Quasars at z = 6.05: A Promising Progenitor of the Most Luminous Quasars
+- **1× cited-seeds** | arXiv 2403.03872 | 2024 | A dormant overmassive black hole in the early Universe
+- **1× cited-seeds** | arXiv 2403.00074 | 2024 | Tip of the Iceberg: Overmassive Black Holes at 4 < z < 7 Found by JWST Are Not Inconsistent with the Local MBH-M⋆ Relation
+- **1× cited-seeds** | arXiv 2402.14706 | 2024 | Birth of Rapidly Spinning, Overmassive Black Holes in the Early Universe
+- **1× cited-seeds** | arXiv 2401.04159 | 2024 | The Redshift Evolution of the M •–M ⋆ Relation for JWST’s Supermassive Black Holes at z > 4
+- **1× cited-seeds** | arXiv 2412.00305 | 2024 | Early Grain Growth in the Young Protostellar Disk HH 212 Supported by Dust Self-scattering Modeling
+- **1× cited-seeds** | arXiv 2403.17295 | 2024 | Vortex Fiber Nulling for Exoplanet Observations: First Direct Detection of M Dwarf Companions around HIP 21543, HIP 94666, and HIP 50319
+- **1× cited-seeds** | arXiv 2410.06697 | 2024 | JWST-IPA: Chemical Inventory and Spatial Mapping of Ices in the Protostar HOPS 370—Evidence for an Opacity Hole and Thermal Processing of Ices
+- **1× cited-seeds** | arXiv 2408.12101 | 2024 | Protostellar Disk Formation Regimes: Angular Momentum Conservation versus Magnetic Braking
+- **1× cited-seeds** | arXiv 2407.15303 | 2024 | CORINOS. II. JWST-MIRI Detection of Warm Molecular Gas from an Embedded, Disk-bearing Protostar
+- **1× cited-seeds** | arXiv 2405.09063 | 2024 | Early Planet Formation in Embedded Disks (eDisk). XV. Influence of Magnetic Field Morphology in Dense Cores on Sizes of Protostellar Disks
+- **1× cited-seeds** | arXiv 2403.10857 | 2024 | Multiple Outflows around a Single Protostar IRAS 15398−3359
+- **1× cited-seeds** | arXiv — | 2024 | ALMA Survey of Orion Planck Galactic Cold Clumps (ALMASOP): Molecular Jets and Episodic Accretion in Protostars
+- **1× cited-seeds** | arXiv — | 2024 | CAL2: project update of the NRC Canada facility-class focal plane wavefront sensor for the Gemini Planet Imager 2 upgrade
+- **1× cited-seeds** | arXiv 2410.08149 | 2024 | JWST-TST DREAMS: A Supersolar Metallicity in WASP-17 b’s Dayside Atmosphere from NIRISS SOSS Eclipse Spectroscopy
+- **1× cited-seeds** | arXiv 2410.08148 | 2024 | JWST-TST DREAMS: Nonuniform Dayside Emission for WASP-17b from MIRI/LRS
+- **1× cited-seeds** | arXiv 2405.13663 | 2024 | Exocomet Models in Transit: Light Curve Morphology in the Optical—Near Infrared Wavelength Range
+- **1× cited-seeds** | arXiv 2409.16466 | 2024 | A PyTorch benchmark for high-contrast imaging post processing
+- **1× cited-seeds** | arXiv 2410.21180 | 2024 | Formation of free-floating planetary mass objects via circumstellar disk encounters
+- **1× cited-seeds** | arXiv 2408.15307 | 2024 | The Way to Circumbinary Planets
+- **1× cited-seeds** | arXiv 2410.11953 | 2024 | The cool brown dwarf Gliese 229 B is a close binary
+- **1× cited-seeds** | arXiv 2410.10406 | 2024 | Candidates for Substellar Members of the Orion Nebula Cluster from JWST/NIRCam
+- **1× cited-seeds** | arXiv 2410.10000 | 2024 | JWST/NIRSpec Observations of Brown Dwarfs in the Orion Nebula Cluster
+- **1× cited-seeds** | arXiv 2408.06338 | 2024 | Closeby Habitable Exoplanet Survey (CHES). II. An Observation Strategy for the Target Stars
+- **1× cited-seeds** | arXiv 2411.06937 | 2024 | Investigating Differences in the Palomar-Green Blazar Population Using Polarization
+- **1× cited-seeds** | arXiv 2301.05734 | 2023 | Polarized Signatures of a Habitable World: Comparing Models of an Exoplanet Earth with Visible and Near-infrared Earthshine Spectra
+- **1× cited-seeds** | arXiv 2310.12673 | 2023 | Oort cloud perturbations as a source of hyperbolic Earth impactors
+- **1× cited-seeds** | arXiv 2304.02937 | 2023 | Eccentric Dust Ring in the IRS 48 Transition Disk
+- **1× cited-seeds** | arXiv 2310.11757 | 2023 | The Dependence of the Structure of Planet-opened Gaps in Protoplanetary Disks on Radiative Cooling
+- **1× cited-seeds** | arXiv 2401.00242 | 2023 | Laboratory experiments of model-based reinforcement learning for adaptive optics control
+- **1× cited-seeds** | arXiv 2305.07929 | 2023 | High-resolution [O I] line spectral mapping of TW Hya supportive of a magnetothermal wind
+- **1× cited-seeds** | arXiv 2302.14100 | 2023 | Terrestrial planet formation from a ring
+- **1× cited-seeds** | arXiv 2311.04679 | 2023 | The high energy X-ray probe (HEX-P): probing the physics of the X-ray corona in active galactic nuclei
+- **1× cited-seeds** | arXiv 2306.07839 | 2023 | ALMA Survey of Orion Planck Galactic Cold Clumps (ALMASOP): A Forming Quadruple System with Continuum “Ribbons” and Intricate Outflows
+- **1× cited-seeds** | arXiv 2309.01832 | 2023 | High-resolution [O i] Line Spectral Mapping of TW Hya Consistent with X-Ray-driven Photoevaporation
+- **1× cited-seeds** | arXiv 2307.11188 | 2023 | Azimuthal Patterns in Planetesimal Circumstellar Disks
+- **1× cited-seeds** | arXiv 2311.05349 | 2023 | JWST Measurements of 13C, 18O, and 17O in the Atmosphere of Super-Jupiter VHS 1256 b
+- **1× cited-seeds** | arXiv 2307.08588 | 2023 | Astronomical high-contrast imaging of circumstellar disks: MUSTARD inverse-problem versus PCA-based methods
+- **1× cited-seeds** | arXiv — | 2023 | A Phase Difference Measurement Method for Integrated Optical Interferometric Imagers
+- **1× cited-seeds** | arXiv — | 2023 | Understanding the Early Stage of Planet Formation: Design and Demonstration of the Space Experimental Apparatus
+- **1× cited-seeds** | arXiv 2311.05206 | 2023 | Discovery of Two Different Full Disk Evolutionary Patterns of M-type T Tauri Stars with LAMOST DR8
+- **1× cited-seeds** | arXiv 2311.18119 | 2023 | Comet 81P/Wild 2: A record of the solar system's wild youth
+- **1× cited-seeds** | arXiv 2305.05056 | 2023 | Exoplanet Volatile Carbon Content as a Natural Pathway for Haze Formation
+- **1× cited-seeds** | arXiv 2311.18012 | 2023 | Bayesian Imaging for Radio Interferometry with Score-Based Priors
+- **1× cited-seeds** | arXiv 2311.08452 | 2023 | Aligned grains and scattered light found in gaps of planet-forming disk
+- **1× cited-seeds** | arXiv 2310.13205 | 2023 | Water-rich Disks around Late M Stars Unveiled: Exploring the Remarkable Case of Sz 114
+- **1× cited-seeds** | arXiv 2310.07701 | 2023 | The sulfur species in hot rocky exoplanet atmospheres
+- **1× cited-seeds** | arXiv 2309.14407 | 2023 | Protostellar Cores in Sagittarius B2 N and M
+- **1× cited-seeds** | arXiv — | 2023 | Entrapment of Hypervolatiles in Interstellar and Cometary H2O and CO2 Ice Analogs
+- **1× cited-seeds** | arXiv 2308.11837 | 2023 | Centimeter-sized Grains in the Compact Dust Ring around Very-low-mass Star CIDA 1
+- **1× cited-seeds** | arXiv 2303.04610 | 2023 | Free-floating or Wide-orbit? Keck Adaptive-optics Observations of Free-floating Planet Candidates Detected with Gravitational Microlensing
+- **1× cited-seeds** | arXiv 2301.13297 | 2023 | Planetesimal Initial Mass Functions Following Diffusion-regulated Gravitational Collapse
+- **1× cited-seeds** | arXiv 2301.01813 | 2023 | The HH 24 Complex: Jets, Multiple Star Formation, and Orphaned Protostars
+- **1× cited-seeds** | arXiv 2312.09495 | 2023 | Relativistic Effects on Circumbinary Disk Evolution: Breaking the Polar Alignment around Eccentric Black Hole Binary Systems
+- **1× cited-seeds** | arXiv 2306.15140 | 2023 | Dynamical Stability of Polar Circumbinary Orbits and Planet Formation in the Planetary Disk of 99 Herculis
+- **1× cited-seeds** | arXiv — | 2023 | What It Takes to Observe Exoplanets with Optical Interferometry
+- **1× cited-seeds** | arXiv 2304.11570 | 2023 | Prospects for the characterization of habitable planets
+- **1× cited-seeds** | arXiv — | 2023 | Designing custom medium resolution observing modes to trace planet accretion with SCALES
+- **1× cited-seeds** | arXiv 2310.00072 | 2023 | The Comprehensive Archive of Substellar and Planetary Accretion Rates
+- **1× cited-seeds** | arXiv 2307.03780 | 2023 | The Radial Distribution and Excitation of H2 around Young Stars in the HST-ULLYSES Survey
+- **1× cited-seeds** | arXiv 2302.05223 | 2023 | Protoplanetary Disk Science with the Orbiting Astronomical Satellite Investigating Stellar Systems (OASIS) Observatory
+- **1× cited-seeds** | arXiv — | 2023 | Фотометрическая активность CQ Tau на временном интервале 125 лет
+- **1× cited-seeds** | arXiv 2304.07115 | 2023 | Photometric Activity of CQ Tau over a Time Interval of 125 Years
+- **1× cited-seeds** | arXiv 2307.02104 | 2023 | Molecular Outflow in the Reionization-epoch Quasar J2054-0005 Revealed by OH 119 μm Observations
+- **1× cited-seeds** | arXiv 2312.00931 | 2023 | Microlensing of Strongly Lensed Quasars
+- **1× cited-seeds** | arXiv 2310.05389 | 2023 | The Structure Function of Mid-infrared Variability in Low-redshift Active Galactic Nuclei
+- **1× cited-seeds** | arXiv 2306.12927 | 2023 | Deficit of Hot Dust in Low-redshift Active Galactic Nuclei
+- **1× cited-seeds** | arXiv 2305.13097 | 2023 | High-sensitivity Observations of the H2O Megamasers of NGC 1068: Precise Astrometry and Detailed Kinematics
+- **1× cited-seeds** | arXiv 2301.05267 | 2023 | Polarimetric Reverberation Mapping in Medium-Band Filters
+- **1× cited-seeds** | arXiv 2311.12210 | 2023 | Insight into the Formation of β Pic b through the Composition of Its Parent Protoplanetary Disk as Revealed by the β Pic Moving Group Member HD 181327
+- **1× cited-seeds** | arXiv — | 2023 | Constraining the atmospheric elements in hot Jupiters with Ariel
+- **1× cited-seeds** | arXiv 2312.02001 | 2023 | The Carbon-to-oxygen Ratio in Cool Brown Dwarfs and Giant Exoplanets. I. The Benchmark Late-T Dwarfs GJ 570D, HD 3651B, and Ross 458C
+- **1× cited-seeds** | arXiv 2308.10900 | 2023 | Little Red Dots or Brown Dwarfs? NIRSpec Discovery of Three Distant Brown Dwarfs Masquerading as NIRCam-selected Highly Reddened Active Galactic Nuclei
+- **1× cited-seeds** | arXiv 2307.11882 | 2023 | Astrometry and Photometry for ≈1000 L, T, and Y Dwarfs from the UKIRT Hemisphere Survey
+- **1× cited-seeds** | arXiv — | 2023 | A parameter study of strato-rotational low-frequency modulations: impacts on momentum transfer and energy distribution
+- **1× cited-seeds** | arXiv 2310.07863 | 2023 | A Rotating Accretion Disk around MWC 297, a Young B1.5Ve Star
+- **1× cited-seeds** | arXiv 2306.10575 | 2023 | Six-telescope integrated optics beam combiner fabricated using ultrafast laser inscription for J- and H-band astronomy.
+- **1× cited-seeds** | arXiv 2305.05076 | 2023 | Laboratory demonstration of the wrapped staircase scalar vortex coronagraph
+- **1× cited-seeds** | arXiv 2307.10394 | 2023 | Refining the Stellar Parameters of τ Ceti: a Pole-on Solar Analog
+- **1× cited-seeds** | arXiv 2309.11050 | 2023 | The development of HISPEC for Keck and MODHIS for TMT: science cases and predicted sensitivities
+- **1× cited-seeds** | arXiv 2306.16470 | 2023 | UV Spectral Characterization of Low-mass Stars with AstroSat UVIT for Exoplanet Applications: The Case Study of HIP 23309
+- **1× cited-seeds** | arXiv 2305.03255 | 2023 | A Search for Stellar Siblings of the ∼200 Myr TOI-251 b Planetary System
+- **1× cited-seeds** | arXiv 2305.00988 | 2023 | Joint Modeling of Radial Velocities and Photometry with a Gaussian Process Framework
+- **1× cited-seeds** | arXiv 2304.00797 | 2023 | Updated Planetary Mass Constraints of the Young V1298 Tau System Using MAROON-X
+- **1× cited-seeds** | arXiv — | 2023 | Analysis of the Principle for Exoplanet Searching and the State-of-art Detections
+- **1× cited-seeds** | arXiv 2309.10188 | 2023 | Atmospheric Retrieval of L Dwarfs: Benchmarking Results and Characterizing the Young Planetary Mass Companion HD 106906 b in the Near-infrared
+- **1× cited-seeds** | arXiv 2302.13354 | 2023 | Direct Imaging Explorations for Companions around Mid–Late M Stars from the Subaru/IRD Strategic Program
+- **1× cited-seeds** | arXiv 2310.11499 | 2023 | The JWST Early Release Science Program for Direct Observations of Exoplanetary Systems. IV. NIRISS Aperture Masking Interferometry Performance and Lessons Learned
+- **1× cited-seeds** | arXiv 2310.02241 | 2023 | High-angular-resolution Imaging of the V892 Tau Binary System: A New Circumprimary Disk Detection and Updated Orbital Constraints
+- **1× cited-seeds** | arXiv 2312.05254 | 2023 | Disentangling CO Chemistry in a Protoplanetary Disk Using Explanatory Machine-learning Techniques
+- **1× cited-seeds** | arXiv 2307.06178 | 2023 | Disk and Envelope Streamers of the GGD 27-MM1 Massive Protostar
+- **1× cited-seeds** | arXiv 2303.15769 | 2023 | Carbon-chain chemistry in the interstellar medium
+- **1× cited-seeds** | arXiv 2307.07211 | 2023 | Pyxis: a ground-based demonstrator for formation-flying optical interferometry
+- **1× cited-seeds** | arXiv 2305.11306 | 2023 | The JCMT BISTRO Survey: Studying the Complex Magnetic Field of L43
+- **1× cited-seeds** | arXiv 2308.04936 | 2023 | Three-dimensional SPH Simulations of FU Orionis Star Flares in the Clumpy Accretion Model
+- **1× cited-seeds** | arXiv 2305.03080 | 2023 | Large-Scale Ejecta of Z CMa—Proper Motion Study and New Features Discovered
+- **1× cited-seeds** | arXiv 2303.09148 | 2023 | Massive Protostellar Disks as a Hot Laboratory of Silicate Grain Evolution
+- **1× cited-seeds** | arXiv 2309.00678 | 2023 | Clustering Properties of Intermediate and High-mass Young Stellar Objects
+- **1× cited-seeds** | arXiv 2305.11111 | 2023 | PPDONet: Deep Operator Networks for Fast Prediction of Steady-state Solutions in Disk–Planet Systems
+- **1× cited-seeds** | arXiv 2307.11893 | 2023 | On-sky speckle nulling through a single-mode fiber with the Keck Planet Imager and Characterizer
+- **1× cited-seeds** | arXiv 2306.03467 | 2023 | Characterization of stellar companions from high-contrast long-slit spectroscopy data. The EXtraction Of SPEctrum of COmpanion (Exospeco) algorithm
+- **1× cited-seeds** | arXiv 2305.10362 | 2023 | Detecting Exoplanets Closer to Stars with Moderate Spectral Resolution Integral-field Spectroscopy
+- **1× cited-seeds** | arXiv 2301.02116 | 2023 | Simulated performance of the molecular mapping for young giant exoplanets with the Medium-Resolution Spectrometer of JWST/MIRI
+- **1× cited-seeds** | arXiv 2301.00415 | 2023 | PCA-based Data Reduction and Signal Separation Techniques for James-Webb Space Telescope Data Processing
+- **1× cited-seeds** | arXiv 2310.18395 | 2023 | Undermassive Host Galaxies of Five z ∼ 6 Luminous Quasars Detected with JWST
+- **1× cited-seeds** | arXiv 2309.04614 | 2023 | EIGER. V. Characterizing the Host Galaxies of Luminous Quasars at z ≳ 6
+- **1× cited-seeds** | arXiv 2308.03477 | 2023 | ALMA 300 pc Resolution Imaging of a z = 6.79 Quasar: No Evidence for Supermassive Black Hole Influence on the C ii Kinematics
+- **1× cited-seeds** | arXiv 2306.06172 | 2023 | Reconstruction of Cosmic Black Hole Growth and Mass Distribution from Quasar Luminosity Functions at z > 4: Implications for Faint and Low-mass Populations in JWST
+- **1× cited-seeds** | arXiv 2305.11804 | 2023 | Powerful Radio-loud Quasars Are Triggered by Galaxy Mergers in the Cosmic Bright Ages
+- **1× cited-seeds** | arXiv 2303.11946 | 2023 | A JWST/NIRSpec First Census of Broad-line AGNs at z = 4–7: Detection of 10 Faint AGNs with M BH ∼ 106–108 M ⊙ and Their Host Galaxy Properties
+- **1× cited-seeds** | arXiv 2312.13979 | 2023 | The effectiveness of exoplanets and Brown Dwarfs as sub-GeV Dark Matter detectors
+- **1× cited-seeds** | arXiv 2310.07827 | 2023 | Astrometry and Precise Radial Velocities Yield a Complete Orbital Solution for the Nearby Eccentric Brown Dwarf LHS 1610 b
+- **1× cited-seeds** | arXiv 2305.14557 | 2023 | From Dust to Nanodust: Resolving Circumstellar Dust from the Colliding-wind Binary Wolf-Rayet 140
+- **1× cited-seeds** | arXiv 2304.01302 | 2023 | Dynamical Mass of the Young Brown Dwarf Companion PZ Tel B
+- **1× cited-seeds** | arXiv 2312.09180 | 2023 | Dust Dynamics in Hall-effected Protoplanetary Disks. I. Background Drift Hall Instability
+- **1× cited-seeds** | arXiv 2309.01891 | 2023 | Early Planet Formation in Embedded Disks (eDisk). VI. Kinematic Structures around the Very-low-mass Protostar IRAS 16253-2429
+- **1× cited-seeds** | arXiv 2307.06880 | 2023 | TOI-4201: An Early M Dwarf Hosting a Massive Transiting Jupiter Stretching Theories of Core Accretion
+- **1× cited-seeds** | arXiv — | 2023 | Image reconstruction for kernel phase interferometry with SCExAO/CHARIS using gradient descent
+- **1× cited-seeds** | arXiv 2311.17020 | 2023 | High-contrast JWST-MIRI Spectroscopy of Planet-forming Disks for the JDISC Survey
+- **1× cited-seeds** | arXiv 2312.02297 | 2023 | Validation of Elemental and Isotopic Abundances in Late-M Spectral Types with the Benchmark HIP 55507 AB System
+- **1× cited-seeds** | arXiv — | 2023 | A JWST Survey for Planetary Mass Brown Dwarfs in IC 348
+- **1× cited-seeds** | arXiv 2310.07758 | 2023 | The Evolution of Accreting Binaries: From Brown Dwarfs to Supermassive Black Holes
+- **1× cited-seeds** | arXiv 2305.03557 | 2023 | A Census of the TW Hya Association with Gaia
+- **1× cited-seeds** | arXiv — | 2023 | The Comparison of Five Methods of Detecting Exoplanets
+- **1× cited-seeds** | arXiv — | 2023 | Comparisons of Detection Paradigm of Planet: Transit and Radial Velocity
+- **1× cited-seeds** | arXiv 2210.01040 | 2022 | Achromatic design of a photonic tricoupler and phase shifter for broadband nulling interferometry
+- **1× cited-seeds** | arXiv — | 2022 | Nulling interferometry: high contrast science for single large apertures
+- **1× cited-seeds** | arXiv — | 2022 | Achromatic nulling interferometry and fringe tracking with 3D-photonic tricouplers with GLINT
+- **1× cited-seeds** | arXiv 2203.11706 | 2022 | GJ 229B: Solving the Puzzle of the First Known T Dwarf with the APOLLO Retrieval Code
+- **1× cited-seeds** | arXiv 2305.19501 | 2022 | Improving VLT/SPHERE without additional hardware: comparing quasi-static correction strategies
+- **1× cited-seeds** | arXiv — | 2022 | 2D modelling of pulsating stars with rapid rotation
+- **1× cited-seeds** | arXiv — | 2022 | A Jupiter Analog Orbiting The Nearby M Dwarf GJ 463
+- **1× cited-seeds** | arXiv — | 2022 | Coronagraphic detection of Earth-like planets with large, actively controlled space telescopes
+- **1× cited-seeds** | arXiv — | 2022 | Simulation and Observational Evaluation of Space Debris Detection by Sanya Incoherent Scatter Radar
+- **1× cited-seeds** | arXiv — | 2022 | Fizeau-interferometry fringe tracking solutions for giant segmented telescope petal modes
+- **1× cited-seeds** | arXiv — | 2022 | On-orbit operations summary for the Deformable Mirror Demonstration Mission (DeMi) CubeSat
+- **1× cited-seeds** | arXiv 2207.08636 | 2022 | The bright side of the light curve: A general photometric model of non-transiting exorings
+- **1× cited-seeds** | arXiv — | 2022 | Subaru/IRCS L-band spectro-polarimetry of the HD 142527 disk scattered light
+- **1× cited-seeds** | arXiv 2206.01023 | 2022 | A Multifluid Dust Module in Athena++: Algorithms and Numerical Tests
+- **1× cited-seeds** | arXiv — | 2022 | A new insight into changes in protoplanetary disk structure caused by change in stellar mass
+- **1× cited-seeds** | arXiv 2204.07055 | 2022 | Two Rings and a Marginally Resolved, 5 au Disk around LkCa 15 Identified via Near-infrared Sparse Aperture Masking Interferometry
+- **1× cited-seeds** | arXiv — | 2022 | The polarization aberrations of the Gemini Telescope as seen by the Gemini Planet Imager
+- **1× cited-seeds** | arXiv 2210.01444 | 2022 | Bayesian and Machine Learning Methods in the Big Data Era for Astronomical Imaging
+- **1× cited-seeds** | arXiv 2210.01789 | 2022 | Informed Systematic Method to Identify Variable Mid- and Late-T Dwarfs
+- **1× cited-seeds** | arXiv 2208.11209 | 2022 | Weighing exo-atmospheres: a novel mid-resolution spectral mode for SCALES
+- **1× cited-seeds** | arXiv 2206.08986 | 2022 | Laboratory demonstration of real-time focal plane wavefront control of residual atmospheric speckles
+- **1× cited-seeds** | arXiv 2206.07566 | 2022 | Top-of-the-atmosphere and Vertical Cloud Structure of a Fast-rotating Late T Dwarf
+- **1× cited-seeds** | arXiv — | 2022 | Unscented filtering for directly observed exoplanet orbits
+- **1× cited-seeds** | arXiv — | 2022 | High-angular and high-contrast VLTI observations from Y to M band with the Asgard instrumental suite
+- **1× cited-seeds** | arXiv 2206.12682 | 2022 | MIRAC-5: a ground-based mid-IR instrument with the potential to detect ammonia in gas giants
+- **1× cited-seeds** | arXiv 2208.04837 | 2022 | Mapping the Complex Kinematic Substructure in the TW Hya Disk
+- **1× cited-seeds** | arXiv 2204.08330 | 2022 | A New Method for Direct Measurement of Isotopologue Ratios in Protoplanetary Disks: A Case Study of the 12CO/13CO Ratio in the TW Hya Disk
+- **1× cited-seeds** | arXiv — | 2022 | AB Aur: A Rosetta stone for planet formation theories
+- **1× cited-seeds** | arXiv 2211.07728 | 2022 | Hazy with a Chance of Star Spots: Constraining the Atmosphere of Young Planet K2-33b
+- **1× cited-seeds** | arXiv 2211.06450 | 2022 | Spectropolarimetry as a Means to Address Cloud Composition and Habitability for a Cloudy Exoplanetary Atmosphere in the Habitable Zone
+- **1× cited-seeds** | arXiv — | 2022 | Webb telescope wows with first image of an exoplanet.
+- **1× cited-seeds** | arXiv — | 2022 | A Search for T Tauri Stars toward Nearby, Dense Cores
+- **1× cited-seeds** | arXiv 2209.12741 | 2022 | Kinematical Constraint on Eccentricity in the Protoplanetary Disk MWC 758 with ALMA
+- **1× cited-seeds** | arXiv 2209.12752 | 2022 | On the Characterization of GJ 504: A Magnetically Active Planet-host Star Observed by the Transiting Exoplanet Survey Satellite (TESS)
+- **1× cited-seeds** | arXiv 2206.12010 | 2022 | The SPHINX M-dwarf Spectral Grid. I. Benchmarking New Model Atmospheres to Derive Fundamental M-dwarf Properties
+- **1× cited-seeds** | arXiv 2212.08047 | 2022 | MINDS. The Detection of 13CO2 with JWST-MIRI Indicates Abundant CO2 in a Protoplanetary Disk
+- **1× cited-seeds** | arXiv — | 2022 | An effective method in investigating structures of polytropic protoplanets formed via gravitational instability
+- **1× cited-seeds** | arXiv 2208.10402 | 2022 | An Unusual Reservoir of Water Emission in the VV CrA A Protoplanetary Disk
+- **1× cited-seeds** | arXiv 2208.09031 | 2022 | Debiasing the Minimum-mass Extrasolar Nebula: On the Diversity of Solid Disk Profiles
+- **1× cited-seeds** | arXiv 2207.12626 | 2022 | Global Modeling of Nebulae with Particle Growth, Drift, and Evaporation Fronts. II. The Influence of Porosity on Solids Evolution
+- **1× cited-seeds** | arXiv 2212.05441 | 2022 | We Drink Good 4.5-Billion-Year-Old Water
+- **1× cited-seeds** | arXiv 2205.04742 | 2022 | Cloudlet Capture Model for Asymmetric Molecular Emission Lines Observed in TMC-1A with ALMA
+- **1× cited-seeds** | arXiv 2204.12042 | 2022 | The Effects of Disk-induced Apsidal Precession on Planets Captured into Mean Motion Resonance
+- **1× cited-seeds** | arXiv 2204.02382 | 2022 | Down but Not Out: Properties of the Molecular Gas in the Stripped Virgo Cluster Early-type Galaxy NGC 4526
+- **1× cited-seeds** | arXiv 2202.09047 | 2022 | Probing the Inner Edge of Dead Zones in Protoplanetary Disks with ALMA and Next Generation Very Large Array
+- **1× cited-seeds** | arXiv — | 2022 | X-RAY FLARE DRIVEN CHEMISTRY IN PROTOPLANETARY DISKS
+- **1× cited-seeds** | arXiv — | 2022 | Searching For the t=0 of Planetary System Formation
+- **1× cited-seeds** | arXiv 2208.05874 | 2022 | Misaligned Circumbinary Disks as Efficient Progenitors of Interstellar Asteroids
+- **1× cited-seeds** | arXiv 2202.06878 | 2022 | Circumbinary Disk Evolution in the Presence of an Outer Companion Star
+- **1× cited-seeds** | arXiv — | 2022 | Design of the VLTI/Hi-5 light injection system
+- **1× cited-seeds** | arXiv 2208.06443 | 2022 | Photobombing Earth 2.0: Diffraction-limit-related Contamination and Uncertainty in Habitable Planet Spectra
+- **1× cited-seeds** | arXiv 2208.14838 | 2022 | RISTRETTO: high-resolution spectroscopy at the diffraction limit of the VLT
+- **1× cited-seeds** | arXiv — | 2022 | HARMONI at ELT: system analysis and performance estimation of the high-contrast module
+- **1× cited-seeds** | arXiv — | 2022 | Spectroastrometry with photonic lanterns
+- **1× cited-seeds** | arXiv 2202.04669 | 2022 | Discovery of a Damped Lyα Absorber Originating in a Spectacular Interacting Dwarf Galaxy Pair at z = 0.026
+- **1× cited-seeds** | arXiv 2209.04304 | 2022 | Accretion and Extinction Variations in the Low-mass Pre-main-sequence Binary System WX Cha
+- **1× cited-seeds** | arXiv 2211.08255 | 2022 | EIGER. II. First Spectroscopic Characterization of the Young Stars and Ionized Gas Associated with Strong Hβ and [O iii] Line Emission in Galaxies at z = 5–7 with JWST
+- **1× cited-seeds** | arXiv 2211.00793 | 2022 | ALMA Observations of CO Emission from Luminous Lyman-break Galaxies at z = 6.0293–6.2037
+- **1× cited-seeds** | arXiv 2210.08413 | 2022 | ALMA Observation of a z ≳ 10 Galaxy Candidate Discovered with JWST
+- **1× cited-seeds** | arXiv 2303.07594 | 2022 | Exploring the cosmic dawn and epoch of reionization with the 21 cm line
+- **1× cited-seeds** | arXiv — | 2022 | ALMA Detections of [O iii] and [C ii] Emission Lines From A1689-zD1 at z = 7.13
+- **1× cited-seeds** | arXiv 2204.06393 | 2022 | A dusty compact object bridging galaxies and quasars at cosmic dawn
+- **1× cited-seeds** | arXiv 2203.14972 | 2022 | Chaotic and Clumpy Galaxy Formation in an Extremely Massive Reionization-era Halo
+- **1× cited-seeds** | arXiv 2203.03657 | 2022 | The Archival Discovery of a Strong Lyα and [C ii] Emitter at z = 7.677
+- **1× cited-seeds** | arXiv 2211.02137 | 2022 | Photometric and Spectroscopic Study of the EXor-like Eruptive Young Star Gaia19fct
+- **1× cited-seeds** | arXiv 2207.13324 | 2022 | Diagnosing FU Ori-like Sources: The Parameter Space of Viscously Heated Disks in the Optical and Near-infrared
+- **1× cited-seeds** | arXiv 2210.08037 | 2022 | Polar Dust Emission in Quasar IR SEDs and Its Correlation with Narrow-line Regions
+- **1× cited-seeds** | arXiv 2207.07986 | 2022 | Determination of the Physical Parameters of AGNs in Seyfert 1 Galaxies LEDA 3095839 and VII Zw 244 Based on Spectropolarimetric Observations
+- **1× cited-seeds** | arXiv 2205.14172 | 2022 | Infrared Spectral Energy Distribution and Variability of Active Galactic Nuclei: Clues to the Structure of Circumnuclear Material
+- **1× cited-seeds** | arXiv 2203.03678 | 2022 | An Infrared View of the Obscured AGN Environment in NGC 4945
+- **1× cited-seeds** | arXiv 2201.11869 | 2022 | The Complex Infrared Dust Continuum Emission of NGC 1068: Ground-based N- and Q-band Spectroscopy and New Radiative Transfer Models
+- **1× cited-seeds** | arXiv 2204.13714 | 2022 | Interpreting the Atmospheric Composition of Exoplanets: Sensitivity to Planet Formation Assumptions
+- **1× cited-seeds** | arXiv 2204.04103 | 2022 | Linking Atmospheric Chemistry of the Hot Jupiter HD 209458b to Its Formation Location through Infrared Transmission and Emission Spectra
+- **1× cited-seeds** | arXiv 2206.00025 | 2022 | Testing White Dwarf Age Estimates Using Wide Double White Dwarf Binaries from Gaia EDR3
+- **1× cited-seeds** | arXiv — | 2022 | Deconfusing Detections in Directly Imaged Multiplanet Systems
+- **1× cited-seeds** | arXiv 2212.02633 | 2022 | Topological designs for scalar vortex coronagraphs
+- **1× cited-seeds** | arXiv 2212.08242 | 2022 | Spinning up a Daze: TESS Uncovers a Hot Jupiter Orbiting the Rapid Rotator TOI-778
+- **1× cited-seeds** | arXiv 2209.12141 | 2022 | A dynamically discovered and characterized non-accreting neutron star–M dwarf binary candidate
+- **1× cited-seeds** | arXiv — | 2022 | Fiber-fed high-resolution infrared spectroscopy at the diffraction limit with Keck-HISPEC and TMT-MODHIS: status update
+- **1× cited-seeds** | arXiv 2206.06254 | 2022 | TESS Hunt for Young and Maturing Exoplanets (THYME). VII. Membership, Rotation, and Lithium in the Young Cluster Group-X and a New Young Exoplanet
+- **1× cited-seeds** | arXiv 2201.02794 | 2022 | A Framework for Characterizing Transmission Spectra of Exoplanets with Circumplanetary Rings
+- **1× cited-seeds** | arXiv — | 2022 | iSHELL: a 1–5 micron R = 80,000 Immersion Grating Spectrograph for the NASA Infrared Telescope Facility
+- **1× cited-seeds** | arXiv 2211.07653 | 2022 | The Mass Accretion Rate and Stellar Properties in Class I Protostars
+- **1× cited-seeds** | arXiv 2210.10815 | 2022 | Turbulent Transport of Dust Particles in Protostellar Disks: The Effect of Upstream Diffusion
+- **1× cited-seeds** | arXiv — | 2022 | A thesis to probe unique exoplanet regimes with micro-arcsecond astrometry and precision closure phases at CHARA and VLTI
+- **1× cited-seeds** | arXiv — | 2022 | Digging a dark hole in GRAVITY: towards Jupiter-like observations at the astronomical unit scale
+- **1× cited-seeds** | arXiv — | 2022 | Picogram-Scale Interstellar Probes via Bioinspired Engineering
+- **1× cited-seeds** | arXiv — | 2022 | Binary-star Wave Front Control Based on a Common-path Visible Nulling Coronagraph
+- **1× cited-seeds** | arXiv 2302.12101 | 2022 | Lessons learned from the NEAR experiment and prospects for the upcoming mid-IR HCI instruments
+- **1× cited-seeds** | arXiv 2208.07312 | 2022 | The conceptual design of GMagAO-X: visible wavelength high contrast imaging with GMT
+- **1× cited-seeds** | arXiv 2206.00030 | 2022 | Searching for technosignatures in exoplanetary systems with current and future missions
+- **1× cited-seeds** | arXiv 2205.06250 | 2022 | An Integrative Analysis of the Rich Planetary System of the Nearby Star e Eridani: Ideal Targets for Exoplanet Imaging and Biosignature Searches
+- **1× cited-seeds** | arXiv — | 2022 | Feeding a Protostar with 10 000 au Scale Streamers
+- **1× cited-seeds** | arXiv 2204.09063 | 2022 | TOI-1696 and TOI-2136: Constraining the Masses of Two Mini-Neptunes with the Habitable-Zone Planet Finder
+- **1× cited-seeds** | arXiv 2207.03664 | 2022 | Delivery of Gas onto the Circumplanetary Disk of Giant Planets: Planetary-mass Dependence of the Source Region of Accreting Gas and Mass Accretion Rate
+- **1× cited-seeds** | arXiv 2206.10089 | 2022 | Analytic Approach to the Late Stages of Giant Planet Formation
+- **1× cited-seeds** | arXiv 2312.15050 | 2022 | Large planets may not form fractionally large moons
+- **1× cited-seeds** | arXiv — | 2022 | Late veneer and the origins of volatiles of Earth
+- **1× cited-seeds** | arXiv 2207.09027 | 2022 | Water Shielding in the Terrestrial Planet-forming Zone: Implication for Inner Disk Organics
+- **1× cited-seeds** | arXiv 2204.09907 | 2022 | Vibrationally Excited Lines of HC3N Associated with the Molecular Disk around the G24.78+0.08 A1 Hypercompact H ii Region
+- **1× cited-seeds** | arXiv 2201.09900 | 2022 | A Novel Way of Measuring the Gas Disk Mass of Protoplanetary Disks Using N2H+ and C18O
+- **1× cited-seeds** | arXiv — | 2022 | The Pyxis Interferometer (I): scientific context, metrology system, and optical design
+- **1× cited-seeds** | arXiv 2201.08506 | 2022 | α-deep Probabilistic Inference (α-DPI): Efficient Uncertainty Quantification from Exoplanet Astrometry to Black Hole Feature Extraction
+- **1× cited-seeds** | arXiv 2211.04960 | 2022 | High-contrast Imaging around a 2 Myr-old CI Tau with a Close-in Gas Giant
+- **1× cited-seeds** | arXiv 2301.00293 | 2022 | Orbital Migration of Protoplanets in a Marginally Gravitationally Unstable Disk. II. Migration, Merging, and Ejection
+- **1× cited-seeds** | arXiv 2209.02898 | 2022 | Controlling petals using fringes: discontinuous wavefront sensing through sparse aperture interferometry at Subaru/SCExAO
+- **1× cited-seeds** | arXiv 2210.13147 | 2022 | Clusters of heavy particles in two-dimensional Keplerian turbulence
+- **1× cited-seeds** | arXiv 2211.03896 | 2022 | ALMA FIR View of Ultra-high-redshift Galaxy Candidates at z ∼ 11–17: Blue Monsters or Low-z Red Interlopers?
+- **1× cited-seeds** | arXiv 2211.16481 | 2022 | NICMOS Kernel-phase Interferometry. II. Demographics of Nearby Brown Dwarfs
+- **1× cited-seeds** | arXiv — | 2022 | Flight designs and pupil error mitigation for the bowtie shaped pupil coronagraph on the Nancy Grace Roman Space Telescope
+- **1× cited-seeds** | arXiv 2202.02315 | 2022 | CWISE J014611.20–050850.0AB: The Widest Known Brown Dwarf Binary in the Field
+- **1× cited-seeds** | arXiv 2203.09520 | 2022 | The IAU working definition of an exoplanet
+- **1× cited-seeds** | arXiv 2201.01794 | 2022 | The Perkins INfrared Exosatellite Survey (PINES) I. Survey Overview, Reduction Pipeline, and Early Results
+- **1× cited-seeds** | arXiv 2210.12679 | 2022 | The Active Galactic Nuclei in the Hobby–Eberly Telescope Dark Energy Experiment Survey (HETDEX). III. A Red Quasar with Extremely High Equivalent Widths Showing Powerful Outflows
+- **1× cited-seeds** | arXiv 2204.13658 | 2022 | The Active Galactic Nuclei in the Hobby–Eberly Telescope Dark Energy Experiment Survey (HETDEX). I. Sample Selection
+- **1× cited-seeds** | arXiv — | 2021 | Giant planet imaged orbiting two massive stars
+- **1× cited-seeds** | arXiv 2111.03974 | 2021 | Charge-injection Device Imaging of Sirius with Contrast Ratios Greater than 1:26 Million
+- **1× cited-seeds** | arXiv — | 2021 | Charge Injection Device Extreme Contrast Imaging of the Sirius Field
+- **1× cited-seeds** | arXiv — | 2021 | Scalable photonic-based nulling interferometry with the dispersed multi-baseline GLINT instrument
+- **1× cited-seeds** | arXiv 2101.01331 | 2021 | Author Correction: Formation of intermediate-mass planets via magnetically controlled disk fragmentation
+- **1× cited-seeds** | arXiv 2105.05798 | 2021 | A novel survey for young substellar objects with the W-band filter III: Searching for very low-mass brown dwarfs in Serpens South and Serpens Core
+- **1× cited-seeds** | arXiv 2103.09385 | 2021 | Exoplanet detection in starshade images
+- **1× cited-seeds** | arXiv 2102.13595 | 2021 | Exploring the planetary-mass population in the Upper Scorpius association
+- **1× cited-seeds** | arXiv — | 2021 | The Circumstellar Gas of Phi Leonis in the UV
+- **1× cited-seeds** | arXiv 2109.00510 | 2021 | Measuring the density structure of an accretion hot spot
+- **1× cited-seeds** | arXiv 2105.12169 | 2021 | Simulating Observations of Ices in Protoplanetary Disks
+- **1× cited-seeds** | arXiv 2101.03182 | 2021 | Observing Carbon and Oxygen Carriers in Protoplanetary Disks at Mid-infrared Wavelengths
+- **1× cited-seeds** | arXiv 2107.02265 | 2021 | Chandra X-Ray Observations of V830 Tau: A T Tauri Star Hosting an Evanescent Planet
+- **1× cited-seeds** | arXiv 2108.01423 | 2021 | Planet-driven density waves in protoplanetary discs: Numerical verification of non-linear evolution theory
+- **1× cited-seeds** | arXiv — | 2021 | Optical calibration and first light for the deformable mirror demonstration mission CubeSat (DeMi)
+- **1× cited-seeds** | arXiv 2107.10525 | 2021 | Coagulation Instability in Protoplanetary Disks: A Novel Mechanism Connecting Collisional Growth and Hydrodynamical Clumping of Dust Particles
+- **1× cited-seeds** | arXiv 2107.06120 | 2021 | OSSOS Finds an Exponential Cutoff in the Size Distribution of the Cold Classical Kuiper Belt
+- **1× cited-seeds** | arXiv 2104.08908 | 2021 | A major asymmetric ice trap in a planet-forming disk
+- **1× cited-seeds** | arXiv — | 2021 | The Planetary Vaporization Event Hypothesis: Supercharging Earth’s Geothermal Core, Identifying Side Effects Blast Patterns, and Inferring how to Find Earth-Like Planets or Identifying Super Charged Geothermal Cores and their Byproduct Blast Patterns
+- **1× cited-seeds** | arXiv 2103.00144 | 2021 | Gaia EDR3 Confirms a Red Dwarf Companion of the nearby F1 Star HD 105452 and Reveals a New Brown Dwarf Companion of the M4.5 Dwarf SCR J1214-2345
+- **1× cited-seeds** | arXiv 2104.08348 | 2021 | An inherited complex organic molecule reservoir in a warm planet-hosting disk
+- **1× cited-seeds** | arXiv 2103.08502 | 2021 | The spatially resolved gas and dust connection in neutral inflows and outflows in nearby AGN
+- **1× cited-seeds** | arXiv — | 2021 | The Fine‐Scale Magnetic History of the Allende Meteorite: Implications for the Structure of the Solar Nebula
+- **1× cited-seeds** | arXiv 2108.12462 | 2021 | First experimental results of the fast atmospheric self-coherent camera technique on the Santa Cruz extreme adaptive optics laboratory testbed: demonstration of high speed focal plane wavefront control of residual atmospheric speckles
+- **1× cited-seeds** | arXiv 2108.00949 | 2021 | Synthetic evolution tracks of giant planets
+- **1× cited-seeds** | arXiv 2107.13105 | 2021 | The bright pyramid wavefront sensor
+- **1× cited-seeds** | arXiv — | 2021 | Design, performance, and potential scientific applications of the evanescent wave coronagraph with an adjustable inner working angle
+- **1× cited-seeds** | arXiv — | 2021 | Cloudy Atmospheres on Directly Imaged Exoplanets: The Need for Accurate Particulate Representation in Photopolarimetric Simulations
+- **1× cited-seeds** | arXiv 2105.12160 | 2021 | Primordial obliquities of brown dwarfs and super-Jupiters from fragmenting gravito-turbulent discs
+- **1× cited-seeds** | arXiv 2105.07280 | 2021 | MUSE-ALMA haloes VI: coupling atomic, ionized, and molecular gas kinematics of galaxies
+- **1× cited-seeds** | arXiv 2109.09247 | 2021 | Discovery of Molecular-line Polarization in the Disk of TW Hya
+- **1× cited-seeds** | arXiv 2105.06046 | 2021 | Circumnuclear Multi-phase Gas in Circinus Galaxy IV: Absorption Owing to High-J CO Rotational Transitions
+- **1× cited-seeds** | arXiv 2104.11263 | 2021 | The dust-gas AGN torus as constrained from X-ray and mid-infrared observations
+- **1× cited-seeds** | arXiv 2102.08956 | 2021 | Infrared emission of z ∼ 6 galaxies: AGN imprints
+- **1× cited-seeds** | arXiv 2105.06159 | 2021 | System-level Fractionation of Carbon from Disk and Planetesimal Processing
+- **1× cited-seeds** | arXiv 2106.11924 | 2021 | Misaligned Circumstellar Disks and Orbital Motion of the Young Binary XZ Tau
+- **1× cited-seeds** | arXiv 2107.02844 | 2021 | Establishing α Oph as a Prototype Rotator: Precision Orbit with New Keck, CHARA, and RV Observations
+- **1× cited-seeds** | arXiv 2103.00012 | 2021 | 2MASX J00423991 + 3017515: an offset active galactic nucleus in an interacting system
+- **1× cited-seeds** | arXiv — | 2021 | Kiloparsec view of a typical star-forming galaxy when the Universe was ∼1 Gyr old
+- **1× cited-seeds** | arXiv 2108.11387 | 2021 | Investigating Protoplanetary Disk Cooling through Kinematics: Analytical GI Wiggle
+- **1× cited-seeds** | arXiv 2104.09530 | 2021 | A Dynamical Measurement of the Disk Mass in Elias 2–27
+- **1× cited-seeds** | arXiv 2104.03639 | 2021 | Elementary Process of Galactic Spiral Arm Formation: Phase Synchronization of Epicyclic Motion by Gravitational Scattering
+- **1× cited-seeds** | arXiv 2108.08315 | 2021 | Resilience of Planetesimal Formation in Weakly Reinforced Pressure Bumps
+- **1× cited-seeds** | arXiv 2110.10643 | 2021 | EXPRES. III. Revealing the Stellar Activity Radial Velocity Signature of ϵ Eridani with Photometry and Interferometry
+- **1× cited-seeds** | arXiv 2101.04417 | 2021 | Atmospheric circulation of brown dwarfs and directly imaged exoplanets driven by cloud radiative feedback: global and equatorial dynamics
+- **1× cited-seeds** | arXiv 2106.13501 | 2021 | Semi-supervised multiple testing
+- **1× cited-seeds** | arXiv 2106.12947 | 2021 | First MATISSE L-band observations of HD 179218
+- **1× cited-seeds** | arXiv 2103.10971 | 2021 | Evidence for a Cosmic-Ray Gradient in the IM Lup Protoplanetary Disk
+- **1× cited-seeds** | arXiv 2103.08032 | 2021 | A hyperluminous obscured quasar at a redshift of z ≈ 4.3
+- **1× cited-seeds** | arXiv 2110.13182 | 2021 | CI Tau: A Controlled Experiment in Disk–Planet Interaction
+- **1× cited-seeds** | arXiv — | 2021 | Bringing high spatial resolution to the far-infrared
+- **1× cited-seeds** | arXiv 2104.13411 | 2021 | ALMA observations of doubly deuterated water: inheritance of water from the prestellar environment
+- **1× cited-seeds** | arXiv 2104.06479 | 2021 | Primordial Giant Planet Obliquity Driven by a Circumplanetary Disk
+- **1× cited-seeds** | arXiv — | 2021 | Feedback-limited accretion: variable luminosity from growing planets
+- **1× cited-seeds** | arXiv 2103.01656 | 2021 | A survey of IRAS young stellar object candidates
+- **1× cited-seeds** | arXiv 2108.10486 | 2021 | Dust Settling and Clumping in MRI-turbulent Outer Protoplanetary Disks
+- **1× cited-seeds** | arXiv 2103.01316 | 2021 | Increased isolation mass for pebble accreting planetary cores in pressure maxima of protoplanetary discs
+- **1× cited-seeds** | arXiv — | 2021 | Erratum: Dust Polarization in Four Protoplanetary Disks at 3 mm: Further Evidence of Multiple Origins (2019, ApJL, 877, L2)
+- **1× cited-seeds** | arXiv — | 2021 | Planets form from rings
+- **1× cited-seeds** | arXiv 2111.14121 | 2021 | Enlightening the Chemistry of Infalling Envelopes and Accretion Disks Around Sun-Like Protostars: The ALMA FAUST Project
+- **1× cited-seeds** | arXiv 2111.08021 | 2021 | On Far-infrared and Submillimeter Circular Polarization
+- **1× cited-seeds** | arXiv 2109.09564 | 2021 | The First Detection of CH2CN in a Protoplanetary Disk
+- **1× cited-seeds** | arXiv 2109.05823 | 2021 | Universal Protoplanetary Disk Size under Complete Nonideal Magnetohydrodynamics: The Interplay between Ion-neutral Friction, Hall Effect, and Ohmic Dissipation
+- **1× cited-seeds** | arXiv 2108.07303 | 2021 | Reimagining the Water Snowline
+- **1× cited-seeds** | arXiv 2108.05234 | 2021 | Tying the Geometrical Traits of Massive Young Stellar Objects and Their Disks to a Potential Evolutionary Sequence Using Infrared Observations
+- **1× cited-seeds** | arXiv 2107.08491 | 2021 | Protoplanetary Disk Birth in Massive Star-forming Clumps: The Essential Role of the Magnetic Field
+- **1× cited-seeds** | arXiv 2105.01101 | 2021 | The Effect of a Strong Pressure Bump in the Sun’s Natal Disk: Terrestrial Planet Formation via Planetesimal Accretion Rather than Pebble Accretion
+- **1× cited-seeds** | arXiv 2104.11764 | 2021 | Spitzer Mid-infrared Study of Sh 2-208: Evolution of Protoplanetary Disks in Low-metallicity Environments
+- **1× cited-seeds** | arXiv 2104.02702 | 2021 | Earth’s carbon deficit caused by early loss through irreversible sublimation
+- **1× cited-seeds** | arXiv 2103.12644 | 2021 | The effect of the streaming instability on protoplanetary disc emission at millimetre wavelengths
+- **1× cited-seeds** | arXiv 2101.04761 | 2021 | Polydisperse streaming instability – III. Dust evolution encourages fast instability
+- **1× cited-seeds** | arXiv 2106.09739 | 2021 | A Lopsided Outer Solar System?
+- **1× cited-seeds** | arXiv 2105.09410 | 2021 | Long Live the Disk: Lifetimes of Protoplanetary Disks in Hierarchical Triple-star Systems and a Possible Explanation for HD 98800 B
+- **1× cited-seeds** | arXiv 2109.06497 | 2021 | The young protostellar disc in IRAS 16293−2422 B is hot and shows signatures of gravitational instability
+- **1× cited-seeds** | arXiv — | 2021 | High resolution spectroscopy of directly imaged exoplanets with KPIC
+- **1× cited-seeds** | arXiv — | 2021 | Rotationally shearing interferometry in the recovery of faint signals
+- **1× cited-seeds** | arXiv 2107.06254 | 2021 | Directly Determined Properties of HD 97658 from Interferometric Observations
+- **1× cited-seeds** | arXiv 2105.14782 | 2021 | Autodifferentiable Spectrum Model for High-dispersion Characterization of Exoplanets and Brown Dwarfs
+- **1× cited-seeds** | arXiv — | 2021 | GrailQuest and HERMES: hunting for gravitational wave electromagnetic counterparts and probing space-time quantum foam
+- **1× cited-seeds** | arXiv — | 2021 | The Roman Space Telescope coronagraph technology demonstration: current status and relevance to future missions
+- **1× cited-seeds** | arXiv 2104.03022 | 2021 | On dust evolution in planet-forming discs in binary systems – I. Theoretical and numerical modelling: radial drift is faster in binary discs
+- **1× cited-seeds** | arXiv 2106.16113 | 2021 | Hydrodynamic Model of Hα Emission from Accretion Shocks of a Proto-giant Planet and Circumplanetary Disk
+- **1× cited-seeds** | arXiv 2106.02430 | 2021 | H2S observations in young stellar disks in Taurus
+- **1× cited-seeds** | arXiv 2104.07484 | 2021 | Launching the asymmetric bipolar jet of DO Tau
+- **1× cited-seeds** | arXiv 2112.09141 | 2021 | A Search for H-Dropout Lyman Break Galaxies at z ∼ 12–16
+- **1× cited-seeds** | arXiv 2106.09085 | 2021 | ALMA Lensing Cluster Survey: A spectral stacking analysis of [C II] in lensed z ∼ 6 galaxies
+- **1× cited-seeds** | arXiv 2106.05279 | 2021 | High [O iii]/[C ii] surface brightness ratios trace early starburst galaxies
+- **1× cited-seeds** | arXiv 2101.00662 | 2021 | The prospects for observing [O iii] 52 micron emission from galaxies during the Epoch of Reionization
+- **1× cited-seeds** | arXiv 2112.01549 | 2021 | Application of a Steady-state Accretion Disk Model to Spectrophotometry and High-resolution Spectra of Two Recent FU Ori Outbursts
+- **1× cited-seeds** | arXiv 2112.13694 | 2021 | Thermal imaging of dust hiding the black hole in NGC 1068
+- **1× cited-seeds** | arXiv 2109.12130 | 2021 | Hypercubes of AGN Tori (HYPERCAT). II. Resolving the Torus with Extremely Large Telescopes
+- **1× cited-seeds** | arXiv 2109.00836 | 2021 | NGTS clusters survey – III. A low-mass eclipsing binary in the Blanco 1 open cluster spanning the fully convective boundary
+- **1× cited-seeds** | arXiv 2108.04838 | 2021 | Study of the Inner Structure of the Molecular Torus in IRAS 08572+3915 NW with Velocity Decomposition of CO Rovibrational Absorption Lines
+- **1× cited-seeds** | arXiv 2103.07482 | 2021 | Resolving the Hot Dust Disk of ESO323-G77
+- **1× cited-seeds** | arXiv 2102.08044 | 2021 | Infrared Echoes of Optical Tidal Disruption Events: ∼1% Dust-covering Factor or Less at Subparsec Scale
+- **1× cited-seeds** | arXiv 2102.00068 | 2021 | The central parsec of NGC 3783: a rotating broad emission line region, asymmetric hot dust structure, and compact coronal line region
+- **1× cited-seeds** | arXiv 2105.10513 | 2021 | Where Is the Water? Jupiter-like C/H Ratio but Strong H2O Depletion Found on τ Boötis b Using SPIRou
+- **1× cited-seeds** | arXiv 2109.01979 | 2021 | An unbiased NOEMA 2.6 to 4 mm survey of the GG Tau ring: First detection of CCS in a protoplanetary disk
+- **1× cited-seeds** | arXiv 2103.12084 | 2021 | Dynamical dust traps in misaligned circumbinary discs: analytical theory and numerical simulations
+- **1× cited-seeds** | arXiv 2108.07371 | 2021 | New method to achieve the proper polarization state for a vector vortex coronagraph
+- **1× cited-seeds** | arXiv 2205.10870 | 2021 | High contrast demonstrations of novel scalar vortex coronagraph designs at the high contrast spectroscopy testbed
+- **1× cited-seeds** | arXiv 2111.08660 | 2021 | V1298 Tau with TESS: Updated Ephemerides, Radii, and Period Constraints from a Second Transit of V1298 Tau e
+- **1× cited-seeds** | arXiv 2111.02416 | 2021 | TOI-712: A System of Adolescent Mini-Neptunes Extending to the Habitable Zone
+- **1× cited-seeds** | arXiv 2111.01816 | 2021 | Orbital Dynamics and the Evolution of Planetary Habitability in the AU Mic System
+- **1× cited-seeds** | arXiv 2108.10204 | 2021 | Simulating starspot activity jitter for spectral types F–M: Realistic estimates for a representative sample of known exoplanet hosts
+- **1× cited-seeds** | arXiv 2108.05358 | 2021 | A Search for Planetary Metastable Helium Absorption in the V1298 Tau System
+- **1× cited-seeds** | arXiv 2107.08050 | 2021 | Rotation and Lithium Confirmation of a 500 pc Halo for the Open Cluster NGC 2516
+- **1× cited-seeds** | arXiv 2107.07027 | 2021 | Grain Growth in Escaping Atmospheres: Implications for the Radius Inflation of Super-Puffs
+- **1× cited-seeds** | arXiv 2107.01213 | 2021 | H-alpha and Ca ii Infrared Triplet Variations During a Transit of the 23 Myr Planet V1298 Tau c
+- **1× cited-seeds** | arXiv 2105.09952 | 2021 | A PSF-based Approach to TESS High quality data Of Stellar clusters (PATHOS) – IV. Candidate exoplanets around stars in open clusters: frequency and age–planetary radius distribution
+- **1× cited-seeds** | arXiv 2104.14457 | 2021 | Planet-induced radio emission from the coronae of M dwarfs: the case of Prox Cen and AU Mic
+- **1× cited-seeds** | arXiv 2104.02082 | 2021 | IGRINS RV: A Precision Radial Velocity Pipeline for IGRINS Using Modified Forward Modeling in the Near-infrared
+- **1× cited-seeds** | arXiv 2102.08493 | 2021 | Reconstructing the Extreme Ultraviolet Emission of Cool Dwarfs Using Differential Emission Measure Polynomials
+- **1× cited-seeds** | arXiv 2102.06066 | 2021 | TESS Hunt for Young and Maturing Exoplanets (THYME). V. A Sub-Neptune Transiting a Young Star in a Newly Discovered 250 Myr Association
+- **1× cited-seeds** | arXiv 2102.00775 | 2021 | Spiral structures in gravito-turbulent gaseous disks
+- **1× cited-seeds** | arXiv 2101.01891 | 2021 | Particle Dynamics in 3D Self-gravitating Disks. II. Strong Gas Accretion and Thin Dust Disks
+- **1× cited-seeds** | arXiv 2109.07525 | 2021 | Improved Dynamical Masses for Six Brown Dwarf Companions Using Hipparcos and Gaia EDR3
+- **1× cited-seeds** | arXiv 2104.12248 | 2021 | A novel bivariate autoregressive model for predicting and forecasting irregularly observed time series
+- **1× cited-seeds** | arXiv 2110.05739 | 2021 | Modeling Polarization Signals from Cloudy Brown Dwarfs Luhman 16 A and B in Three Dimensions
+- **1× cited-seeds** | arXiv 2110.12565 | 2021 | A Model Earth-sized Planet in the Habitable Zone of α Centauri A/B
+- **1× cited-seeds** | arXiv 2105.00034 | 2021 | Exomoons in Systems with a Strong Perturber: Applications to α Cen AB
+- **1× cited-seeds** | arXiv 2105.05277 | 2021 | Outward Migration of Super-Jupiters
+- **1× cited-seeds** | arXiv 2110.10013 | 2021 | Updated studies on exomoons in the HD 23079 system
+- **1× cited-seeds** | arXiv 2111.05833 | 2021 | C18O Emission as an Effective Measure of Gas Masses of Protoplanetary Disks
+- **1× cited-seeds** | arXiv 2109.06188 | 2021 | Molecules with ALMA at Planet-forming Scales (MAPS). II. CLEAN Strategies for Synthesizing Images of Molecular Line Emission in Protoplanetary Disks
+- **1× cited-seeds** | arXiv 2102.05087 | 2021 | Unveiling the traits of massive young stellar objects through a multi-scale survey
+- **1× cited-seeds** | arXiv 2110.12029 | 2021 | Indications of stellar coronal mass ejections through coronal dimmings
+- **1× cited-seeds** | arXiv 2105.01255 | 2021 | The McDonald Accelerating Stars Survey (MASS): Discovery of a Long-period Substellar Companion Orbiting the Old Solar Analog HD 47127
+- **1× cited-seeds** | arXiv 2111.02914 | 2021 | Binary Formation in the Orion Nebula Cluster: Exploring the Substellar Limit
+- **1× cited-seeds** | arXiv — | 2021 | Five Methods of Exoplanet Detection
+- **1× cited-seeds** | arXiv 2101.01219 | 2021 | Observing the host galaxies of high-redshift quasars with JWST: predictions from the BlueTides simulation
+- **1× cited-seeds** | arXiv 2009.01669 | 2020 | Timing of stellar pulsations to search for sub-stellar companions beyond the main sequence
+- **1× cited-seeds** | arXiv 2004.06685 | 2020 | Searching for the near-infrared counterpart of Proxima c using multi-epoch high-contrast SPHERE data at VLT
+- **1× cited-seeds** | arXiv — | 2020 | Optimast structurally connected interferometry enabled by in-space robotic manufacturing and assembly
+- **1× cited-seeds** | arXiv 2011.05996 | 2020 | The influence of infall on the properties of protoplanetary discs
+- **1× cited-seeds** | arXiv 2009.11831 | 2020 | Stability constrained characterization of multiplanet systems
+- **1× cited-seeds** | arXiv 2008.00995 | 2020 | Colour–magnitude diagrams of transiting exoplanets – III. A public code, nine strange planets, and the role of phosphine
+- **1× cited-seeds** | arXiv 2005.01902 | 2020 | Formation of Orion fingers
+- **1× cited-seeds** | arXiv 2002.05622 | 2020 | Minimizing the Polarization Leakage of Geometric-phase Coronagraphs with Multiple Grating Pattern Combinations
+- **1× cited-seeds** | arXiv — | 2020 | A photonic solution to exoplanet direct imaging via nulling interferometry
+- **1× cited-seeds** | arXiv 2009.00575 | 2020 | Assessing Spectroscopic Binary Multiplicity Properties Using Robo-AO Imaging
+- **1× cited-seeds** | arXiv — | 2020 | Carina High-contrast Imaging Project for massive Stars (CHIPS)
+- **1× cited-seeds** | arXiv 2006.01914 | 2020 | The Carina High-Contrast Imaging Project for massive Stars (CHIPS) I. Methodology and proof of concept on QZ Car ($\equiv$ HD93206)
+- **1× cited-seeds** | arXiv 2003.07290 | 2020 | The White Dwarf Binary Pathways Survey −III. Contamination from hierarchical triples containing a white dwarf
+- **1× cited-seeds** | arXiv — | 2020 | The aeolian-erosion barrier for the growth of metre-size objects in protoplanetary discs
+- **1× cited-seeds** | arXiv — | 2020 | Charge Injection Device Performance in Low-Earth Orbit
+- **1× cited-seeds** | arXiv 2009.06448 | 2020 | Constraining protoplanetary discs with exoplanetary dynamics: Kepler-419 as an example
+- **1× cited-seeds** | arXiv 2007.05715 | 2020 | Self-scattering in protoplanetary disks with dust settling
+- **1× cited-seeds** | arXiv 2005.03891 | 2020 | Measuring elemental abundance ratios in protoplanetary disks at millimeter wavelengths
+- **1× cited-seeds** | arXiv 2008.08203 | 2020 | Critical Science Plan for the Daniel K. Inouye Solar Telescope (DKIST)
+- **1× cited-seeds** | arXiv 2011.05388 | 2020 | Amplitude Modulation of Short-timescale Hot Spot Variability
+- **1× cited-seeds** | arXiv 2010.12296 | 2020 | Evolution of a migrating giant planet in the presence of an inclined binary companion
+- **1× cited-seeds** | arXiv 2011.09146 | 2020 | Probing the impact of varied migration and gas accretion rates for the formation of giant planets in the pebble accretion scenario
+- **1× cited-seeds** | arXiv 2002.11135 | 2020 | Fingerprints of giant planets in the composition of solar twins
+- **1× cited-seeds** | arXiv 2002.04651 | 2020 | Chemistry Along Accretion Streams in a Viscously Evolving Protoplanetary Disk
+- **1× cited-seeds** | arXiv 2006.00221 | 2020 | Spitzer IRAC Colors of Nebulae Associated with Star-Forming Regions
+- **1× cited-seeds** | arXiv 2001.10546 | 2020 | Properties of M Dwarf Flares at Millimeter Wavelengths
+- **1× cited-seeds** | arXiv 2005.12152 | 2020 | Atmospheric circulation of brown dwarfs and directly imaged exoplanets driven by cloud radiative feedback: effects of rotation
+- **1× cited-seeds** | arXiv — | 2020 | Early accretion of planetesimals unraveled by the thermal evolution of the parent bodies of magmatic iron meteorites
+- **1× cited-seeds** | arXiv 2007.05366 | 2020 | Water transport throughout the TRAPPIST-1 system: the role of planetesimals
+- **1× cited-seeds** | arXiv 2003.06522 | 2020 | Planet-induced Vortices with Dust Coagulation in Protoplanetary Disks
+- **1× cited-seeds** | arXiv — | 2020 | Exoplanet detection methods and transit spectrometer equipment of astronomical telescopes
+- **1× cited-seeds** | arXiv 2008.08842 | 2020 | Encounters involving planetary systems in birth environments: the significant role of binaries
+- **1× cited-seeds** | arXiv 2010.03911 | 2020 | Accretion and Intercycle Variations in the PMS Interacting Binary AK Sco
+- **1× cited-seeds** | arXiv — | 2020 | Precision Photometric and Astrometric Calibration Using Alternating Satellite Speckles
+- **1× cited-seeds** | arXiv 2004.02923 | 2020 | HD 165054: An Astrometric Calibration Field for High-contrast Imagers in Baade’s Window
+- **1× cited-seeds** | arXiv 2009.03353 | 2020 | MUSE view of Arp220: Kpc-scale multi-phase outflow and evidence for positive feedback
+- **1× cited-seeds** | arXiv 2006.13232 | 2020 | Properties of the multiphase outflows in local (ultra)luminous infrared galaxies
+- **1× cited-seeds** | arXiv 2012.08675 | 2020 | The Planet as Exoplanet Analog Spectrograph (PEAS): design and first-light
+- **1× cited-seeds** | arXiv 2004.01811 | 2020 | Panchromatic properties of the extreme Fe ii emitter PHL 1092
+- **1× cited-seeds** | arXiv 2009.06553 | 2020 | ALMA High-frequency Long-baseline Campaign in 2017: A Comparison of the Band-to-band and In-band Phase Calibration Techniques and Phase-calibrator Separation Angles
+- **1× cited-seeds** | arXiv 2006.05723 | 2020 | Circumbinary Disks of the Protostellar Binary Systems in the L1551 Region
+- **1× cited-seeds** | arXiv — | 2020 | Weak Magnetic Fields in the Outer Solar Nebula Recorded in CR Chondrites
+- **1× cited-seeds** | arXiv 2004.07112 | 2020 | Experiments and long-term high-performance computations on amplitude modulations of strato-rotational flows
+- **1× cited-seeds** | arXiv — | 2020 | Oxygen Isotopes and Sampling of the Solar System
+- **1× cited-seeds** | arXiv 2002.03115 | 2020 | Rapid grain growth in post-AGB disc systems from far-infrared and sub-millimetre photometry
+- **1× cited-seeds** | arXiv 2012.12690 | 2020 | Dynamical Masses of Young Stars Inferred from Two Transitions of CO with ALMA
+- **1× cited-seeds** | arXiv 2006.16187 | 2020 | An Unbiased ALMA Spectral Survey of the LkCa 15 and MWC 480 Protoplanetary Disks
+- **1× cited-seeds** | arXiv 2004.07523 | 2020 | The dependence of episodic accretion on eccentricity during the formation of binary stars
+- **1× cited-seeds** | arXiv 2012.09084 | 2020 | End-to-end simulation of the SCALES integral field spectrograph
+- **1× cited-seeds** | arXiv — | 2020 | New Monitoring Strategy for the Quality Control in the Processing Practice of Scutellariae Radix
+- **1× cited-seeds** | arXiv 2003.01814 | 2020 | ExoReL : A Bayesian Inverse Retrieval Framework for Exoplanetary Reflected Light Spectra
+- **1× cited-seeds** | arXiv 2011.09483 | 2020 | OB Associations and their origins
+- **1× cited-seeds** | arXiv 2007.14905 | 2020 | Retention of Long-period Gas Giant Planets: Type II Migration Revisited
+- **1× cited-seeds** | arXiv 2005.10974 | 2020 | The Preservation of Super-Earths and the Emergence of Gas Giants after Their Progenitor Cores Have Entered the Pebble-isolation Phase
+- **1× cited-seeds** | arXiv — | 2020 | Exploring the Bimodal Solar System via Sample Return from the Main Asteroid Belt: The Case for Revisiting Ceres
+- **1× cited-seeds** | arXiv 2008.12303 | 2020 | Cosmological Simulations of Quasar Fueling to Subparsec Scales Using Lagrangian Hyper-refinement
+- **1× cited-seeds** | arXiv 2007.07824 | 2020 | ALMA resolves the remarkable molecular jet and rotating wind in the extremely radio-quiet galaxy NGC 1377
+- **1× cited-seeds** | arXiv 2005.01720 | 2020 | High-resolution, 3D radiative transfer modelling
+- **1× cited-seeds** | arXiv 2002.07186 | 2020 | Smoke on the water: CO and H2O in a circumnuclear disc around a quasar at redshift 2.64
+- **1× cited-seeds** | arXiv 2005.01745 | 2020 | On the Mass Accretion Rates of Herbig Ae/Be Stars. Magnetospheric Accretion or Boundary Layer?
+- **1× cited-seeds** | arXiv — | 2020 | Numerical study of toroidal magnetic field on the self-gravitating protoplanetary disks
+- **1× cited-seeds** | arXiv 2004.01342 | 2020 | Formation and Evolution of Disks Around Young Stellar Objects
+- **1× cited-seeds** | arXiv 2002.11897 | 2020 | Missing water in Class I protostellar disks
+- **1× cited-seeds** | arXiv 2001.08693 | 2020 | Global Simulations of Self-gravitating Magnetized Protoplanetary Disks
+- **1× cited-seeds** | arXiv 2104.06441 | 2020 | A measure of the size of the magnetospheric accretion region in TW Hydrae
+- **1× cited-seeds** | arXiv 2007.11906 | 2020 | The Excitation Conditions of CN in TW Hya
+- **1× cited-seeds** | arXiv 2004.10238 | 2020 | The Composition, Excitation, and Physical State of Atomic Gas in the Debris Disk Surrounding 51 Oph
+- **1× cited-seeds** | arXiv 2011.07075 | 2020 | Direct imaging of sub-Jupiter mass exoplanets with James Webb Space Telescope coronagraphy
+- **1× cited-seeds** | arXiv 2012.05575 | 2020 | Investigating three Sirius-like systems with SPHERE
+- **1× cited-seeds** | arXiv 2004.09361 | 2020 | Stress mirror polishing for future large lightweight mirrors: design using shape optimization.
+- **1× cited-seeds** | arXiv 2002.10467 | 2020 | A new white dwarf companion around the Δμ star GJ 3346
+- **1× cited-seeds** | arXiv — | 2020 | Multidirectional Mass Accretion and Collimated Outflows on Scales of 100–2000 au in Early Stages of High-mass Protostars
+- **1× cited-seeds** | arXiv 2006.03063 | 2020 | Bipolar molecular outflow of the very low-mass star Par-Lup3-4
+- **1× cited-seeds** | arXiv 2002.03390 | 2020 | Rotational Disruption of Dust and Ice by Radiative Torques in Protoplanetary Disks and the Implications for Observations
+- **1× cited-seeds** | arXiv 2001.06340 | 2020 | Inhibited Coagulation of Micron-size Dust Due to the Electrostatic Barrier
+- **1× cited-seeds** | arXiv — | 2020 | Non-uniformity correction for medium wave infrared focal plane array-based compressive imaging.
+- **1× cited-seeds** | arXiv 2012.11418 | 2020 | Mid-infrared photometry of the T Tauri triple system with kernel phase interferometry
+- **1× cited-seeds** | arXiv 2011.06345 | 2020 | A triple star in disarray
+- **1× cited-seeds** | arXiv 2011.01160 | 2020 | The VLA/ALMA Nascent Disk and Multiplicity (VANDAM) Survey of Orion Protostars. IV. Unveiling the Embedded Intermediate-Mass Protostar and Disk within OMC2-FIR3/HOPS-370
+- **1× cited-seeds** | arXiv 2009.10768 | 2020 | Dust trapping around Lagrangian points in protoplanetary disks
+- **1× cited-seeds** | arXiv 2002.07283 | 2020 | Variable Accretion onto Protoplanet Host Star PDS 70
+- **1× cited-seeds** | arXiv 2002.01946 | 2020 | Discovery of a Low-mass Companion Embedded in the Disk of the Young Massive Star MWC 297 with VLT/SPHERE
+- **1× cited-seeds** | arXiv — | 2020 | Evolution of CAI-sized Particles during FU Orionis Outbursts. I. Particle Trajectories in Protoplanetary Disks with Beta Cooling
+- **1× cited-seeds** | arXiv 2005.09364 | 2020 | Grain Growth in Newly Discovered Young Eruptive Stars
+- **1× cited-seeds** | arXiv 2002.02254 | 2020 | Magnetorotational instability in diamagnetic, misaligned protostellar discs
+- **1× cited-seeds** | arXiv 2007.06642 | 2020 | The magnetic obliquity of accreting T Tauri stars
+- **1× cited-seeds** | arXiv 2006.00019 | 2020 | Ionization: a possible explanation for the difference of mean disk sizes in star-forming regions
+- **1× cited-seeds** | arXiv 2002.01583 | 2020 | A Tale of Two Grains: Impact of Grain Size on Ring Formation via Nonideal Magnetohydrodynamic Processes
+- **1× cited-seeds** | arXiv 2012.12416 | 2020 | FIRST, a pupil-remapping fiber interferometer at the Subaru Telescope: on-sky results
+- **1× cited-seeds** | arXiv 2012.00792 | 2020 | GPI 2.0: Upgrades to the IFS including new spectral modes
+- **1× cited-seeds** | arXiv 2011.12297 | 2020 | The effect of stellar multiplicity on protoplanetary discs: a near-infrared survey of the Lupus star-forming region
+- **1× cited-seeds** | arXiv — | 2020 | Periodic brightening of Kepler light curves: investigating the possibility of forward scattering due to dust clouds
+- **1× cited-seeds** | arXiv 2010.00485 | 2020 | Influence of planetary gas accretion on the shape and depth of gaps in protoplanetary discs
+- **1× cited-seeds** | arXiv 2010.13181 | 2020 | Dynamical evolution of a young planetary system: stellar flybys in co-planar orbital configuration
+- **1× cited-seeds** | arXiv 2008.08587 | 2020 | A Disk-driven Resonance as the Origin of High Inclinations of Close-in Planets
+- **1× cited-seeds** | arXiv 2008.07530 | 2020 | A dusty origin for the correlation between protoplanetary disc accretion rates and dust masses
+- **1× cited-seeds** | arXiv 2008.01727 | 2020 | Protoplanetary Disk Rings as Sites for Planetesimal Formation
+- **1× cited-seeds** | arXiv 2007.14102 | 2020 | A wide survey for circumstellar disks in the Lupus complex
+- **1× cited-seeds** | arXiv 2007.13430 | 2020 | A protostellar system fed by a streamer of 10,500 au length
+- **1× cited-seeds** | arXiv 2007.13766 | 2020 | Gaps and Rings in Protoplanetary Disks with Realistic Thermodynamics: The Critical Role of In-plane Radiation Transport
+- **1× cited-seeds** | arXiv 2007.09385 | 2020 | Spatially resolving the chemical composition of the planet building blocks
+- **1× cited-seeds** | arXiv 2006.12939 | 2020 | 1+1D implicit disk computations
+- **1× cited-seeds** | arXiv 2005.10868 | 2020 | Giant planet formation at the pressure maxima of protoplanetary disks
+- **1× cited-seeds** | arXiv 2005.03573 | 2020 | No significant correlation between radial velocity planet presence and debris disc properties
+- **1× cited-seeds** | arXiv 2005.03665 | 2020 | Snow lines can be thermally unstable
+- **1× cited-seeds** | arXiv 2004.14122 | 2020 | Substructure Formation in a Protostellar Disk of L1527 IRS
+- **1× cited-seeds** | arXiv 2004.14232 | 2020 | X-shooter survey of disk accretion in Upper Scorpius
+- **1× cited-seeds** | arXiv 2004.13739 | 2020 | A Detailed View of the Circumstellar Environment and Disk of the Forming O-star AFGL 4176
+- **1× cited-seeds** | arXiv 2003.13263 | 2020 | Electric heating and angular momentum transport in laminar models of protoplanetary discs
+- **1× cited-seeds** | arXiv 2003.01126 | 2020 | A Free-floating or Wide-orbit Planet in the Microlensing Event OGLE-2019-BLG-0551
+- **1× cited-seeds** | arXiv 2001.04468 | 2020 | The VLA/ALMA Nascent Disk and Multiplicity (VANDAM) Survey of Orion Protostars. II. A Statistical Characterization of Class 0 and Class I Protostellar Disks
+- **1× cited-seeds** | arXiv 2012.11068 | 2020 | Sustained Kozai–Lidov Oscillations in Misaligned Circumstellar Gas Disks
+- **1× cited-seeds** | arXiv 2012.07901 | 2020 | Planet formation in intermediate-separation binary systems
+- **1× cited-seeds** | arXiv 2008.12068 | 2020 | The spin-orbit alignment of visual binaries
+- **1× cited-seeds** | arXiv 2007.11592 | 2020 | On the orbital evolution of binaries with circumbinary discs
+- **1× cited-seeds** | arXiv 2006.15065 | 2020 | Gas kinematics of key prebiotic molecules in GV Tau N revealed with an ALMA, PdBI, and Herschel synergy
+- **1× cited-seeds** | arXiv 2003.00375 | 2020 | Birth environment of circumbinary planets: are there circumbinary planets on inclined orbits?
+- **1× cited-seeds** | arXiv 2001.03066 | 2020 | Efficient dust ring formation in misaligned circumbinary discs
+- **1× cited-seeds** | arXiv — | 2020 | Review and scientific prospects of high-contrast optical stellar interferometry
+- **1× cited-seeds** | arXiv 2102.06470 | 2020 | Laboratory characterization of FIRSTv2 photonic chip for the study of substellar companions
+- **1× cited-seeds** | arXiv — | 2020 | Lunar optical interferometry and hypertelescope for direct imaging at high resolution
+- **1× cited-seeds** | arXiv 2004.12396 | 2020 | Infrared interferometry to spatially and spectrally resolve jets in X-ray binaries
+- **1× cited-seeds** | arXiv 2001.06114 | 2020 | A family of phase masks for broadband coronagraphy example of the wrapped vortex phase mask theory and laboratory demonstration
+- **1× cited-seeds** | arXiv 2101.05080 | 2020 | Exoplanet imaging data challenge: benchmarking the various image processing methods for exoplanet detection
+- **1× cited-seeds** | arXiv — | 2020 | Orbital Parameter Determination for Wide Stellar Binary Systems in the Age of Gaia
+- **1× cited-seeds** | arXiv 2001.06355 | 2020 | Searching for kinematic evidence of Keplerian disks around Class 0 protostars with CALYPSO
+- **1× cited-seeds** | arXiv 2011.09917 | 2020 | FIR-luminous [C ii] Emitters in the ALMA-SCUBA-2 COSMOS Survey (AS2COSMOS): The Nature of Submillimeter Galaxies in a 10 Comoving Megaparsec-scale Structure at z ∼ 4.6
+- **1× cited-seeds** | arXiv 2010.07302 | 2020 | Constraints on the [C ii] luminosity of a proto-globular cluster at z ∼ 6 obtained with ALMA
+- **1× cited-seeds** | arXiv 2009.05049 | 2020 | Velocity dispersion in the interstellar medium of early galaxies
+- **1× cited-seeds** | arXiv 2012.07960 | 2020 | Observations of the Lyman-α Universe
+- **1× cited-seeds** | arXiv 2007.14439 | 2020 | An analytic model for [O iii] fine structure emission from high redshift galaxies
+- **1× cited-seeds** | arXiv 2005.11078 | 2020 | The Mean Absorption-line Spectra of a Selection of Luminous z ∼ 6 Lyman Break Galaxies
+- **1× cited-seeds** | arXiv 2001.01853 | 2020 | Starbursting [O iii] emitters and quiescent [C ii] emitters in the reionization era
+- **1× cited-seeds** | arXiv 2005.07339 | 2020 | Dust reverberation mapping of type 2 AGN NGC 2110 realized with X-ray and 3–5 μm IR monitoring
+- **1× cited-seeds** | arXiv 2011.03302 | 2020 | Clouds in Exoplanetary Atmospheres
+- **1× cited-seeds** | arXiv 2007.01066 | 2020 | Tracing bulk elemental ratios in exoplanetary atmospheres with TiO chemistry
+- **1× cited-seeds** | arXiv 2001.02217 | 2020 | An ultra-short period rocky super-Earth orbiting the G2-star HD 80653
+- **1× cited-seeds** | arXiv 2008.06396 | 2020 | Spitzer Follow-up of Extremely Cold Brown Dwarfs Discovered by the Backyard Worlds: Planet 9 Citizen Science Project
+- **1× cited-seeds** | arXiv 2012.07448 | 2020 | VLTI images of circumbinary disks around evolved stars
+- **1× cited-seeds** | arXiv — | 2020 | MIRC-X polarinterferometry at CHARA
+- **1× cited-seeds** | arXiv 2008.13678 | 2020 | Reading between the lines
+- **1× cited-seeds** | arXiv 2010.05392 | 2020 | Magnetically Regulated Disk Formation in the Inner 100 au Region of the Class 0 Young Stellar Object OMC-3/MMS 6 Resolved by JVLA and ALMA
+- **1× cited-seeds** | arXiv — | 2020 | The MARSU CubeSat: monitoring the activity and planetary transits of low-mass stars and young solar analogues
+- **1× cited-seeds** | arXiv — | 2020 | The GAPS Programme at TNG
+- **1× cited-seeds** | arXiv 2011.13349 | 2020 | Two Young Planetary Systems around Field Stars with Ages between 20 and 320 Myr from TESS
+- **1× cited-seeds** | arXiv 2009.07845 | 2020 | Cluster Difference Imaging Photometric Survey. II. TOI 837: A Young Validated Planet in IC 2602
+- **1× cited-seeds** | arXiv 2009.03919 | 2020 | Constraining the entropy of formation from young transiting planet
+- **1× cited-seeds** | arXiv 2008.09445 | 2020 | The GAPS Programme at TNG
+- **1× cited-seeds** | arXiv 2006.13243 | 2020 | Limits on the Spin–Orbit Angle and Atmospheric Escape for the 22 Myr Old Planet AU Mic b
+- **1× cited-seeds** | arXiv 2010.05591 | 2020 | Physically constrained causal noise models for high-contrast imaging of exoplanets
+- **1× cited-seeds** | arXiv 2012.10466 | 2020 | Tracing molecular stratification within an edge-on protoplanetary disk
+- **1× cited-seeds** | arXiv 2008.12648 | 2020 | ALMA chemical survey of disk-outflow sources in Taurus (ALMA-DOT)
+- **1× cited-seeds** | arXiv — | 2020 | ADI.jl: A Julia Package for High-Contrast Imaging
+- **1× cited-seeds** | arXiv 2103.10303 | 2020 | A metrological characterization of the SPEED test-bed PIAACMC components
+- **1× cited-seeds** | arXiv 2009.05414 | 2020 | A search for millimeter emission from the coldest and closest brown dwarf with ALMA
+- **1× cited-seeds** | arXiv 2007.11660 | 2020 | Detection and characterization of two VLM binaries: LP 1033-31 and LP 877-72
+- **1× cited-seeds** | arXiv 2006.16259 | 2020 | The Ophiuchus DIsc Survey Employing ALMA (ODISEA) – II. The effect of stellar multiplicity on disc properties
+- **1× cited-seeds** | arXiv 2001.10879 | 2020 | 2MASS J15491331-3539118: a new low-mass wide companion of the GQ Lup system
+- **1× cited-seeds** | arXiv 2001.10545 | 2020 | Dust entrainment in photoevaporative winds: The impact of X-rays
+- **1× cited-seeds** | arXiv 2007.13859 | 2020 | Limits to Rest-frame Ultraviolet Emission from Far-infrared-luminous z ≃ 6 Quasar Hosts
+- **1× cited-seeds** | arXiv 1908.05045 | 2019 | The First Detection of 13C17O in a Protoplanetary Disk: A Robust Tracer of Disk Gas Mass
+- **1× cited-seeds** | arXiv 1904.05395 | 2019 | Is there more than meets the eye? Presence and role of sub-micron grains in debris discs
+- **1× cited-seeds** | arXiv 1906.10128 | 2019 | Discovery of an equal-mass ‘twin’ binary population reaching 1000 + au separations
+- **1× cited-seeds** | arXiv 1903.02332 | 2019 | A high binary fraction for the most massive close-in giant planets and brown dwarf desert members
+- **1× cited-seeds** | arXiv — | 2019 | Orbital evolution of a planet with tidal dissipation in a restricted three-body system
+- **1× cited-seeds** | arXiv 1911.09808 | 2019 | First on-sky demonstration of an integrated-photonic nulling interferometer: the GLINT instrument
+- **1× cited-seeds** | arXiv 1901.04495 | 2019 | A Pair of Planets Likely in Mean-motion Resonance From Gravitational Microlensing
+- **1× cited-seeds** | arXiv 1910.10172 | 2019 | Detection of a Low-mass Stellar Companion to the Accelerating A2IV Star HR 1645
+- **1× cited-seeds** | arXiv 1905.12545 | 2019 | Revisiting the pulsational characteristics of the exoplanet host star β Pictoris
+- **1× cited-seeds** | arXiv 1903.11071 | 2019 | Transiting exocomets detected in broadband light by TESS in the β Pictoris system
+- **1× cited-seeds** | arXiv 1901.05021 | 2019 | Revealing the dust grain size in the inner envelope of the Class I protostar Per-emb-50
+- **1× cited-seeds** | arXiv 1902.09804 | 2019 | Fly-by encounters between two planetary systems I: Solar system analogues
+- **1× cited-seeds** | arXiv 1908.04570 | 2019 | Lack of close-in, massive planets of main-sequence A-type stars from Kepler
+- **1× cited-seeds** | arXiv — | 2019 | A Comprehensive Study of Three Early-type Contact Twin Binaries: CT Tau, GU Mon, and V701 Sco
+- **1× cited-seeds** | arXiv 1911.13017 | 2019 | The Detection of Dust Gap-ring Structure in the Outer Region of the CR Cha Protoplanetary Disk
+- **1× cited-seeds** | arXiv 1906.04265 | 2019 | Radiation pressure clear-out of dusty photoevaporating discs
+- **1× cited-seeds** | arXiv 1902.03891 | 2019 | CLIcK: a Continuum and Line fItting Kit for circumstellar disks
+- **1× cited-seeds** | arXiv 1902.02708 | 2019 | A High-resolution Mid-infrared Survey of Water Emission from Protoplanetary Disks
+- **1× cited-seeds** | arXiv 1906.07687 | 2019 | The magnetic properties of photospheric magnetic bright points with high resolution spectropolarimetry
+- **1× cited-seeds** | arXiv 1911.12378 | 2019 | Dynamical Masses of Young Stars. II. Young Taurus Binaries Hubble 4, FF Tau, and HP Tau/G3
+- **1× cited-seeds** | arXiv 1910.06212 | 2019 | An extreme-mass ratio, short-period eclipsing binary consisting of a B dwarf primary and a pre-main-sequence M star companion discovered by KELT
+- **1× cited-seeds** | arXiv 1904.03243 | 2019 | Accelerating AGN jets to parsec scales using general relativistic MHD simulations
+- **1× cited-seeds** | arXiv 1901.01266 | 2019 | Comparing nonredundant masking and filled-aperture kernel phase for exoplanet detection and characterization
+- **1× cited-seeds** | arXiv 1912.08445 | 2019 | magritte, a modern software library for 3D radiative transfer: I. Non-LTE atomic and molecular line modelling
+- **1× cited-seeds** | arXiv — | 2019 | Probing the Gas Content of Late-stage Protoplanetary Disks with N2H+
+- **1× cited-seeds** | arXiv 1905.03887 | 2019 | The end of runaway: how gap opening limits the final masses of gas giants
+- **1× cited-seeds** | arXiv 1910.04652 | 2019 | Low dust emissivities and radial variations in the envelopes of Class 0 protostars: possible signature of early grain growth
+- **1× cited-seeds** | arXiv 1909.08192 | 2019 | The Effects of Dust Optical Properties on the Scattering-induced Disk Polarization by Millimeter-sized Grains
+- **1× cited-seeds** | arXiv 1909.03515 | 2019 | VLA cm-wave survey of young stellar objects in the Oph A cluster: constraining extreme UV- and X-ray-driven disk photoevaporation
+- **1× cited-seeds** | arXiv 1909.02591 | 2019 | Dust Polarization toward Embedded Protostars in Ophiuchus with ALMA. III. Survey Overview
+- **1× cited-seeds** | arXiv 1909.00046 | 2019 | Characterizing Magnetic Field Morphologies in Three Serpens Protostellar Cores with ALMA
+- **1× cited-seeds** | arXiv 1907.00915 | 2019 | Pairwise tidal equilibrium states and the architecture of extrasolar planetary systems
+- **1× cited-seeds** | arXiv — | 2019 | CubeSat Particle Aggregation Collision Experiment (Q-PACE): Design of a 3U CubeSat mission to investigate planetesimal formation
+- **1× cited-seeds** | arXiv 1905.06353 | 2019 | Dynamical friction in slab geometries and accretion discs
+- **1× cited-seeds** | arXiv 1903.11229 | 2019 | Investigation of a Vorticity-preserving Scheme for the Euler Equations
+- **1× cited-seeds** | arXiv 1902.06725 | 2019 | Erratum: Magnetic topologies of young suns: the weak-line T Tauri stars TWA 6 and TWA 8A
+- **1× cited-seeds** | arXiv 1910.06804 | 2019 | Detection of the nearest Jupiter analogue in radial velocity and astrometry data
+- **1× cited-seeds** | arXiv 1910.01554 | 2019 | The Role of C/O in Nitrile Astrochemistry in PDRs and Planet-forming Disks
+- **1× cited-seeds** | arXiv 1912.11301 | 2019 | High-resolution Near-infrared Polarimetry and Submillimeter Imaging of FS Tau A: Possible Streamers in Misaligned Circumbinary Disk System
+- **1× cited-seeds** | arXiv 1901.01627 | 2019 | The BEBOP radial-velocity survey for circumbinary planets
+- **1× cited-seeds** | arXiv — | 2019 | Census of ρ Ophiuchi candidate members from Gaia Data Release 2
+- **1× cited-seeds** | arXiv 1902.07600 | 2019 | A census of $\rho$ Oph candidate members from Gaia DR2
+- **1× cited-seeds** | arXiv — | 2019 | Photoionization of CO Using R-matrix Theory
+- **1× cited-seeds** | arXiv 1912.02812 | 2019 | Cloud Atlas: Weak Color Modulations Due to Rotation in the Planetary-mass Companion GU Psc b and 11 Other Brown Dwarfs
+- **1× cited-seeds** | arXiv — | 2019 | A Host-star Calibration Based Polarimeter for Earth-like Exoplanet Imaging
+- **1× cited-seeds** | arXiv — | 2019 | Polarimetric imaging of circumstellar disks
+- **1× cited-seeds** | arXiv 1903.06184 | 2019 | Three Direct Imaging Epochs Could Constrain the Orbit of Earth 2.0 inside the Habitable Zone
+- **1× cited-seeds** | arXiv 1910.14583 | 2019 | Discovery of an X-Ray Quasar Wind Driving the Cold Gas Outflow in the Ultraluminous Infrared Galaxy IRAS F05189-2524
+- **1× cited-seeds** | arXiv 1905.08201 | 2019 | On the emergence of thousands of absorption lines in the quasar PG 1411+442: a clumpy high-column density outflow from the broad emission-line region?
+- **1× cited-seeds** | arXiv 1910.04747 | 2019 | An unusually large gaseous transit in a debris disc
+- **1× cited-seeds** | arXiv — | 2019 | The great isotopic dichotomy of the early Solar System
+- **1× cited-seeds** | arXiv 1911.12999 | 2019 | Influences of protoplanet-induced three-dimensional gas flow on pebble accretion
+- **1× cited-seeds** | arXiv — | 2019 | Discovery of fossil asteroidal ice in primitive meteorite Acfer 094
+- **1× cited-seeds** | arXiv 1908.02515 | 2019 | Dynamical Gaseous Rings in Global Simulations of Protoplanetary Disk Formation
+- **1× cited-seeds** | arXiv — | 2019 | Aluminum-26 chronology of dust coagulation and early solar system evolution
+- **1× cited-seeds** | arXiv 1906.00685 | 2019 | Revealing the chemical structure of the Class I disc Oph-IRS 67
+- **1× cited-seeds** | arXiv 1904.02752 | 2019 | The dispersal of protoplanetary discs – I. A new generation of X-ray photoevaporation models
+- **1× cited-seeds** | arXiv 1903.00032 | 2019 | High-precision Dynamical Masses of Pre-main-sequence Stars with ALMA and Gaia
+- **1× cited-seeds** | arXiv 1911.05744 | 2019 | Zodiacal Exoplanets in Time (ZEIT). IX. A Flat Transmission Spectrum and a Highly Eccentric Orbit for the Young Neptune K2-25b as Revealed by Spitzer
+- **1× cited-seeds** | arXiv — | 2019 | Highly multiplexed Bragg gratings for large field of view gas sensing in planetary atmospheres.
+- **1× cited-seeds** | arXiv 1910.11795 | 2019 | Supervised Machine Learning for Intercomparison of Model Grids of Brown Dwarfs: Application to GJ 570D and the Epsilon Indi B Binary System
+- **1× cited-seeds** | arXiv — | 2019 | The LUVOIR Extreme Coronagraph for Living Planetary Systems (ECLIPS) I: searching and characterizing exoplanetary gems
+- **1× cited-seeds** | arXiv 1909.04128 | 2019 | Model of the Search for Extraterrestrial Intelligence with Coronagraphic Imaging
+- **1× cited-seeds** | arXiv 1908.05951 | 2019 | The search for living worlds and the connection to our cosmic origins
+- **1× cited-seeds** | arXiv — | 2019 | Hybrid multidimensional data acquisition and data processing strategy for comprehensive characterization of known, unknown and isomeric compounds from the compound Dan Zhi Tablet by UPLC-TWIMS-QTOFMS
+- **1× cited-seeds** | arXiv 1903.05258 | 2019 | The Super-Earth Opportunity - Search for Habitable Exoplanets in the 2020s
+- **1× cited-seeds** | arXiv 1910.08659 | 2019 | Revised astrometric calibration of the Gemini Planet Imager
+- **1× cited-seeds** | arXiv 1905.10383 | 2019 | The Close AGN Reference Survey (CARS)
+- **1× cited-seeds** | arXiv 1905.10385 | 2019 | The Close AGN Reference Survey (CARS)
+- **1× cited-seeds** | arXiv 1905.05214 | 2019 | The Close AGN Reference Survey (CARS)
+- **1× cited-seeds** | arXiv 1901.05217 | 2019 | Multiphase circumgalactic medium probed with MUSE and ALMA
+- **1× cited-seeds** | arXiv 1912.09732 | 2019 | Can Chondrules Be Produced by the Interaction of Jupiter with the Protosolar Disk?
+- **1× cited-seeds** | arXiv 1907.09541 | 2019 | Dynamics of dusty vortices – I. Extensions and limitations of the terminal velocity approximation
+- **1× cited-seeds** | arXiv — | 2019 | Searching for and analysing molecular lines in ALMA data of the protoplanetary disk around TW Hya
+- **1× cited-seeds** | arXiv 1905.09094 | 2019 | Stellar Winds As a Mechanism to Tilt the Spin Axes of Sun-like Stars
+- **1× cited-seeds** | arXiv 1905.04134 | 2019 | Time variability in the bipolar scattered light nebula of L1527 IRS: a possible warped inner disk
+- **1× cited-seeds** | arXiv 1904.07910 | 2019 | Spontaneous ring formation in wind-emitting accretion discs
+- **1× cited-seeds** | arXiv 1901.01714 | 2019 | Pebble accretion in Class 0/I YSOs as a possible pathway for early planet formation
+- **1× cited-seeds** | arXiv 1912.02408 | 2019 | Obscuring Fraction of Active Galactic Nuclei Implied by Supernova and Radiative Feedbacks
+- **1× cited-seeds** | arXiv 1910.12967 | 2019 | How to Fuel an AGN: Mapping Circumnuclear Gas in NGC 6240 with ALMA
+- **1× cited-seeds** | arXiv 1909.10759 | 2019 | The Panchromatic Polarisation Signatures of Active Galactic Nuclei
+- **1× cited-seeds** | arXiv 1909.08639 | 2019 | Redefining the Torus: A Unifying View of AGNs in the Infrared and Submillimeter
+- **1× cited-seeds** | arXiv 1909.06748 | 2019 | Planet Formation around Supermassive Black Holes in the Active Galactic Nuclei
+- **1× cited-seeds** | arXiv 1908.11389 | 2019 | Exploring the Mid-infrared SEDs of Six AGN Dusty Torus Models. II. The Data
+- **1× cited-seeds** | arXiv 1908.07981 | 2019 | Counter-rotation and High-velocity Outflow in the Parsec-scale Molecular Torus of NGC 1068
+- **1× cited-seeds** | arXiv 1907.13137 | 2019 | X-ray spectral and eclipsing model of the clumpy obscurer in active galactic nuclei
+- **1× cited-seeds** | arXiv 1906.06889 | 2019 | Nuclear molecular outflow in the Seyfert galaxy NGC 3227
+- **1× cited-seeds** | arXiv 1905.01979 | 2019 | ALMA captures feeding and feedback from the active galactic nucleus in NGC 613
+- **1× cited-seeds** | arXiv 1904.03694 | 2019 | Torus model properties of an ultra-hard X-ray selected sample of Seyfert galaxies
+- **1× cited-seeds** | arXiv — | 2019 | Imaging the Active Galactic Nucleus Torus in Cygnus A
+- **1× cited-seeds** | arXiv 1903.08170 | 2019 | Radiation-pressure Waves and Multiphase Quasar Outflows
+- **1× cited-seeds** | arXiv 1901.02280 | 2019 | AGN Torus Detectability at Submillimeter Wavelengths: What to Expect from ALMA Continuum Data
+- **1× cited-seeds** | arXiv 1907.08632 | 2019 | BAT AGN Spectroscopic Survey – XVII. The parsec-scale jet properties of the ultrahard X-ray-selected local AGNs
+- **1× cited-seeds** | arXiv 1911.09692 | 2019 | Spiral arms and instability within the AFGL 4176 mm1 disc
+- **1× cited-seeds** | arXiv 1910.12089 | 2019 | A systematic study of spiral density waves in the accretion discs of cataclysmic variables
+- **1× cited-seeds** | arXiv 2004.00126 | 2019 | Gravitoviscous protoplanetary disks with a dust component
+- **1× cited-seeds** | arXiv 1904.06352 | 2019 | Forming Pop III binaries in self-gravitating discs: how to keep the orbital angular momentum
+- **1× cited-seeds** | arXiv 1904.04424 | 2019 | The First Two Thousand Years of Star Formation
+- **1× cited-seeds** | arXiv 1901.04082 | 2019 | Non-linear outcome of gravitational instability in an irradiated protoplanetary disc
+- **1× cited-seeds** | arXiv 1908.08865 | 2019 | Multi-wavelength observations of protoplanetary discs as a proxy for the gas disc mass
+- **1× cited-seeds** | arXiv 1906.02058 | 2019 | Constraining the properties of HD 206893 B
+- **1× cited-seeds** | arXiv 1909.03175 | 2019 | What is the physics behind the Larson mass–size relation?
+- **1× cited-seeds** | arXiv 1903.08026 | 2019 | Stellar encounters with giant molecular clouds
+- **1× cited-seeds** | arXiv 1908.08048 | 2019 | Modeling Time Dependent Water Chemistry Due to Powerful X-Ray Flares from T-Tauri Stars
+- **1× cited-seeds** | arXiv 1908.11657 | 2019 | Onset of planet formation in the warm inner disk
+- **1× cited-seeds** | arXiv 2110.11341 | 2019 | The Impact of Accretion Heating and Thermal Conduction on the Dead Zone of Protoplanetary Disks
+- **1× cited-seeds** | arXiv 1902.01170 | 2019 | UVES Spectroscopy of T Chamaeleontis: Line Variability, Mass Accretion rate and Spectro-astrometric Analysis★
+- **1× cited-seeds** | arXiv 1905.06070 | 2019 | Star-planet tidal interaction and the limits of gyrochronology
+- **1× cited-seeds** | arXiv 1909.02706 | 2019 | Chronology of Episodic Accretion in Protostars—An ALMA Survey of the CO and H2O Snowlines
+- **1× cited-seeds** | arXiv 1908.02981 | 2019 | Diagnosing 0.1–10 au Scale Morphology of the FU Ori Disk Using ALMA and VLTI/GRAVITY
+- **1× cited-seeds** | arXiv 1907.02083 | 2019 | The bridge: a transient phenomenon of forming stellar multiples
+- **1× cited-seeds** | arXiv 1901.08089 | 2019 | Giant planets and brown dwarfs on wide orbits: a code comparison project
+- **1× cited-seeds** | arXiv 1910.06029 | 2019 | Carbon depletion observed inside T Tauri inner rims
+- **1× cited-seeds** | arXiv — | 2019 | A Radial Velocity Survey of Embedded Sources in the Rho Ophiuchi Cluster
+- **1× cited-seeds** | arXiv 1912.10179 | 2019 | Overview of focal plane wavefront sensors to correct for the Low Wind Effect on SUBARU/SCExAO
+- **1× cited-seeds** | arXiv 2010.10733 | 2019 | Capabilities of a fibered imager on an extremely large telescope.
+- **1× cited-seeds** | arXiv 1905.05821 | 2019 | A Chromaticity Analysis and PSF Subtraction Techniques for SCExAO/CHARIS Data
+- **1× cited-seeds** | arXiv 1904.02715 | 2019 | Exocometary Science
+- **1× cited-seeds** | arXiv 1912.11178 | 2019 | Ring Morphology with Dust Coagulation in Protoplanetary Disks
+- **1× cited-seeds** | arXiv 1912.02464 | 2019 | Self-induced dust traps around snow lines in protoplanetary discs
+- **1× cited-seeds** | arXiv 1910.00609 | 2019 | Tracking Dust Grains during Transport and Growth in Protoplanetary Disks
+- **1× cited-seeds** | arXiv 1909.11246 | 2019 | Jupiter's Composition Suggests its Core Assembled Exterior to the N2 Snowline
+- **1× cited-seeds** | arXiv 1910.06980 | 2019 | Meridional flows in the disk around a young star
+- **1× cited-seeds** | arXiv 1909.08404 | 2019 | DESTINY: Database for the Effects of STellar encounters on dIsks and plaNetary sYstems
+- **1× cited-seeds** | arXiv 1908.05169 | 2019 | Abundant Refractory Sulfur in Protoplanetary Disks
+- **1× cited-seeds** | arXiv 1908.01679 | 2019 | Unexpected gap creating two peaks in the periods of planets of metal‐rich sunlike single stars
+- **1× cited-seeds** | arXiv 1907.07791 | 2019 | Organic Complexity in Protostellar Disk Candidates
+- **1× cited-seeds** | arXiv 1905.13104 | 2019 | ALMA observations require slower Core Accretion runaway growth
+- **1× cited-seeds** | arXiv 1904.06471 | 2019 | The Ophiuchus DIsk Survey Employing ALMA (ODISEA): Disk Dust Mass Distributions across Protostellar Evolutionary Classes
+- **1× cited-seeds** | arXiv — | 2019 | Chemical evolution of planetary materials in a dynamic solar nebula
+- **1× cited-seeds** | arXiv — | 2019 | The gas structure of the HD 163296 planet-forming disk - gas gaps or not?
+- **1× cited-seeds** | arXiv 1903.04723 | 2019 | On the Anomalous Acceleration of 1I/2017 U1 ‘Oumuamua
+- **1× cited-seeds** | arXiv 1910.12878 | 2019 | Accretion Kinematics in the T Tauri Binary TWA 3A: Evidence for Preferential Accretion onto the TWA 3A Primary
+- **1× cited-seeds** | arXiv 1910.01141 | 2019 | Gas flow and accretion via spiral streamers and circumstellar disks in a young binary protostar
+- **1× cited-seeds** | arXiv 1907.05437 | 2019 | Circumbinary Disk Inner Radius as a Diagnostic for Disk–Binary Misalignment
+- **1× cited-seeds** | arXiv 1905.10179 | 2019 | Distinguishing Polar and Coplanar Circumbinary Exoplanets by Eclipse Timing Variations
+- **1× cited-seeds** | arXiv 1904.11631 | 2019 | Polar alignment of a protoplanetary disc around an eccentric binary – III. Effect of disc mass
+- **1× cited-seeds** | arXiv 1911.03257 | 2019 | Dust evolution in pre-stellar cores
+- **1× cited-seeds** | arXiv 1903.01019 | 2019 | Theoretical model of HD 163296 presently forming in-situ planets and comparison with the models of AS 209, HL Tau, and TW Hya
+- **1× cited-seeds** | arXiv 1908.01316 | 2019 | Atmospheric characterization of terrestrial exoplanets in the mid-infrared: biosignatures, habitability, and diversity
+- **1× cited-seeds** | arXiv 1907.07742 | 2019 | Enabling the next generation of scientific discoveries by embracing photonic technologies
+- **1× cited-seeds** | arXiv 1907.05904 | 2019 | Astro2020: Astrophotonics White Paper
+- **1× cited-seeds** | arXiv 1903.09718 | 2019 | Observing Exoplanets in the Near-Infrared from a High Altitude Balloon Platform
+- **1× cited-seeds** | arXiv 1906.10699 | 2019 | Intrinsic polarization of elongated porous dust grains
+- **1× cited-seeds** | arXiv 1910.11885 | 2019 | Breaking the centrifugal barrier to giant planet contraction by magnetic disc braking
+- **1× cited-seeds** | arXiv 1909.08317 | 2019 | Focal-plane wavefront sensing with the vector-Apodizing Phase Plate
+- **1× cited-seeds** | arXiv 1909.01913 | 2019 | The Effect of the Approach to Gas Disk Gravitational Instability on the Rapid Formation of Gas Giant Planets
+- **1× cited-seeds** | arXiv 2008.12531 | 2019 | Magnetospheric accretion in the intermediate-mass T Tauri star HQ Tauri
+- **1× cited-seeds** | arXiv 1911.10318 | 2019 | The Circumstellar Environment around the Embedded Protostar EC 53
+- **1× cited-seeds** | arXiv 1912.01632 | 2019 | Global 3D radiation magnetohydrodynamic simulations for FU Ori’s accretion disc and observational signatures of magnetic fields
+- **1× cited-seeds** | arXiv 1910.00593 | 2019 | The resolved size and structure of hot dust in the immediate vicinity of AGN
+- **1× cited-seeds** | arXiv 2004.05600 | 2019 | Radiative Transfer Modeling of EC 53: An Episodically Accreting Class I Young Stellar Object
+- **1× cited-seeds** | arXiv 1901.09589 | 2019 | The Gaia-ESO Survey: Age spread in the star forming region NGC 6530 from the HR diagram and gravity indicators
+- **1× cited-seeds** | arXiv — | 2019 | The UV/X-ray radiation fields and particle (CME) flows of M dwarf exoplanet host stars
+- **1× cited-seeds** | arXiv 1911.02439 | 2019 | OGLE-2015-BLG-1771Lb: A Microlens Planet Orbiting an Ultracool Dwarf?
+- **1× cited-seeds** | arXiv 1908.09403 | 2019 | Cloud Atlas: Variability in and out of the Water Band in the Planetary-mass HD 203030B Points to Cloud Sedimentation in Low-gravity L Dwarfs
+- **1× cited-seeds** | arXiv 1908.03593 | 2019 | Design Considerations for a Ground-based Search for Transiting Planets around L and T Dwarfs
+- **1× cited-seeds** | arXiv 1910.02638 | 2019 | Detection of new strongly variable brown dwarfs in the L/T transition
+- **1× cited-seeds** | arXiv 1906.05871 | 2019 | Spectral characterization of newly detected young substellar binaries with SINFONI
+- **1× cited-seeds** | arXiv 1901.05466 | 2019 | A Wide-orbit Exoplanet OGLE-2012-BLG-0838Lb
+- **1× cited-seeds** | arXiv 1901.05029 | 2019 | Resolved Young Binary Systems and Their Disks
+- **1× cited-seeds** | arXiv — | 2019 | Rotationally-shearing interferometer: preliminary results with a simulator solar system
+- **1× cited-seeds** | arXiv 1809.01705 | 2018 | H2CO Ortho-to-para Ratio in the Protoplanetary Disk HD 163296
+- **1× cited-seeds** | arXiv 1812.01626 | 2018 | Structure of a Protobinary System: An Asymmetric Circumbinary Disk and Spiral Arms
+- **1× cited-seeds** | arXiv 1812.11656 | 2018 | Searches for Continuous Gravitational Waves from 15 Supernova Remnants and Fomalhaut b with Advanced LIGO
+- **1× cited-seeds** | arXiv 1805.05834 | 2018 | Using Deep Space Climate Observatory Measurements to Study the Earth as an Exoplanet
+- **1× cited-seeds** | arXiv 1803.09114 | 2018 | Systematic Search for Rings around Kepler Planet Candidates: Constraints on Ring Size and Occurrence Rate
+- **1× cited-seeds** | arXiv 1812.06956 | 2018 | Late Delivery of Nitrogen to the Earth
+- **1× cited-seeds** | arXiv 1805.01903 | 2018 | Detecting Exomoons via Doppler Monitoring of Directly Imaged Exoplanets
+- **1× cited-seeds** | arXiv 1803.05238 | 2018 | A Likely Detection of a Two-planet System in a Low-magnification Microlensing Event
+- **1× cited-seeds** | arXiv — | 2018 | Giant Planet Formation and Migration
+- **1× cited-seeds** | arXiv — | 2018 | Giant Planet Formation and Migration
+- **1× cited-seeds** | arXiv 1801.03384 | 2018 | On the Diversity in Mass and Orbital Radius of Giant Planets Formed via Disk Instability
+- **1× cited-seeds** | arXiv 1812.07618 | 2018 | ALMA Polarimetric Studies of Rotating Jet/Disk Systems
+- **1× cited-seeds** | arXiv 1809.10065 | 2018 | Constraining the nature of DG Tau A’s thermal and non-thermal radio emission
+- **1× cited-seeds** | arXiv 1809.02559 | 2018 | ALMA Observations of Polarized Emission toward the CW Tau and DG Tau Protoplanetary Disks: Constraints on Dust Grain Growth and Settling
+- **1× cited-seeds** | arXiv 1807.05089 | 2018 | ERIS: revitalising an adaptive optics instrument for the VLT
+- **1× cited-seeds** | arXiv 1807.01318 | 2018 | The gravitational mass of Proxima Centauri measured with SPHERE from a microlensing event
+- **1× cited-seeds** | arXiv 1804.00869 | 2018 | Solar chromospheric emission and magnetic structures from plages to intranetwork: Contribution of the very quiet Sun
+- **1× cited-seeds** | arXiv 1805.05868 | 2018 | Formation of S-type planets in close binaries: scattering-induced tidal capture of circumbinary planets
+- **1× cited-seeds** | arXiv 2405.04262 | 2018 | “Horseshoe” Structures in the Debris Disks of Planet-Hosting Binary Stars
+- **1× cited-seeds** | arXiv — | 2018 | A circumbinary protoplanetary disc in a polar configura-
+- **1× cited-seeds** | arXiv 1908.03611 | 2018 | New Astronomy Reviews special issue: History of Kepler’s major exoplanet “firsts”
+- **1× cited-seeds** | arXiv 1807.05305 | 2018 | The Origin of the Heavy-element Content Trend in Giant Planets via Core Accretion
+- **1× cited-seeds** | arXiv — | 2018 | Modelo estadístico de la distribución de materia de los discos protoplanetarios
+- **1× cited-seeds** | arXiv 1809.00353 | 2018 | The ice composition in the disk around V883 Ori revealed by its stellar outburst
+- **1× cited-seeds** | arXiv 1807.10776 | 2018 | Two Different Grain Size Distributions within the Protoplanetary Disk around HD 142527 Revealed by ALMA Polarization Observation
+- **1× cited-seeds** | arXiv 1802.02841 | 2018 | Nitrogen isotope fractionation in protoplanetary disks
+- **1× cited-seeds** | arXiv — | 2018 | The HOSTS survey for exo-zodiacal dust: preliminary results and future prospects
+- **1× cited-seeds** | arXiv 1807.08209 | 2018 | The HOSTS Survey for Exozodiacal Dust: Preliminary results and future prospects
+- **1× cited-seeds** | arXiv — | 2018 | Manifestations of bright points observed in G-band and Ca II H by Hinode/SOT
+- **1× cited-seeds** | arXiv 1812.09989 | 2018 | Multiplicity of Galactic Cepheids from long-baseline interferometry
+- **1× cited-seeds** | arXiv — | 2018 | Comparing non-redundant masking and filled-aperture kernel phase for exoplanet detection and characterization
+- **1× cited-seeds** | arXiv 1804.00013 | 2018 | Erratum to: Protoplanetary disc truncation mechanisms in stellar clusters: comparing external photoevaporation and tidal encounters
+- **1× cited-seeds** | arXiv 1811.09628 | 2018 | Multiple Spiral Arms in Protoplanetary Disks: Linear Theory
+- **1× cited-seeds** | arXiv — | 2018 | Waves in planetary rings : hydrodynamic modeling of resonantly forced density waves and viscous overstability in Saturn’s rings
+- **1× cited-seeds** | arXiv — | 2018 | High extinction ratio super pixel for long wavelength infrared polarization imaging detection based on plasmonic microcavity quantum well infrared photodetectors
+- **1× cited-seeds** | arXiv 1802.02314 | 2018 | Variability of Disk Emission in Pre-main-sequence and Related Stars. IV. Investigating the Structural Changes in the Inner Disk Region of MWC 480
+- **1× cited-seeds** | arXiv 1807.10766 | 2018 | Magellan Adaptive Optics Imaging of PDS 70: Measuring the Mass Accretion Rate of a Young Giant Planet within a Gapped Disk
+- **1× cited-seeds** | arXiv 1810.06588 | 2018 | Zombie Vortex Instability. III. Persistence with Nonuniform Stratification and Radiative Damping
+- **1× cited-seeds** | arXiv 1802.00221 | 2018 | Dust Evolution in Protoplanetary Discs and the Formation of Planetesimals
+- **1× cited-seeds** | arXiv 1802.09563 | 2018 | OGLE-2016-BLG-1266: A Probable Brown Dwarf/Planet Binary at the Deuterium Fusion Limit
+- **1× cited-seeds** | arXiv — | 2018 | P o S ( A P C S 2 0 1 6 ) 0 0 9 Protoplanetary Disks – A Review
+- **1× cited-seeds** | arXiv 1808.10344 | 2018 | Mapping the Conditions for Hydrodynamic Instability on Steady-State Accretion Models of Protoplanetary Disks
+- **1× cited-seeds** | arXiv — | 2018 | Tracing the early planet formation with molecular lines: chemistry of vortex in the protoplanetary disks
+- **1× cited-seeds** | arXiv 1807.06492 | 2018 | Vortex formation and survival in protoplanetary discs subject to vertical shear instability
+- **1× cited-seeds** | arXiv 1806.03896 | 2018 | Instabilities and Flow Structures in Protoplanetary Disks: Setting the Stage for Planetesimal Formation.
+- **1× cited-seeds** | arXiv 1804.03076 | 2018 | Applying a Particle-only Model to the HL Tau Disk
+- **1× cited-seeds** | arXiv 1806.07899 | 2018 | Improving dynamical mass constraints for intermediate-period substellar companions using Gaia DR2
+- **1× cited-seeds** | arXiv 1810.01277 | 2018 | A Pluto–Charon Sonata: The Dynamical Architecture of the Circumbinary Satellite System
+- **1× cited-seeds** | arXiv 1810.11341 | 2018 | Breaking degeneracy in jet dynamics: multi-epoch joint modelling of the BL Lac PKS 2155–304
+- **1× cited-seeds** | arXiv 1901.04049 | 2018 | Lessons for WFIRST CGI from ground-based high-contrast systems
+- **1× cited-seeds** | arXiv 1804.05968 | 2018 | Dust Polarization toward Embedded Protostars in Ophiuchus with ALMA. I. VLA 1623
+- **1× cited-seeds** | arXiv 1809.01206 | 2018 | MAGNUM survey: A MUSE-Chandra resolved view on ionized outflows and photoionization in the Seyfert galaxy NGC1365
+- **1× cited-seeds** | arXiv — | 2018 | The WISSH quasars project
+- **1× cited-seeds** | arXiv 1807.03378 | 2018 | Molecular gas content in obscured AGN at z > 1
+- **1× cited-seeds** | arXiv 1807.06012 | 2018 | The TRENDS High-contrast Imaging Survey. VII. Discovery of a Nearby Sirius-like White Dwarf System (HD 169889)
+- **1× cited-seeds** | arXiv 1811.11897 | 2018 | Does HL Tau disc polarization in ALMA band 3 come from radiatively aligned grains?
+- **1× cited-seeds** | arXiv 1810.13081 | 2018 | Physical and Chemical Conditions of the Protostellar Envelope and the Protoplanetary Disk in HL Tau
+- **1× cited-seeds** | arXiv 1809.07374 | 2018 | Why do protoplanetary disks appear not massive enough to form the known exoplanet population?
+- **1× cited-seeds** | arXiv 1807.05336 | 2018 | ALMA Observations of the Very Young Class 0 Protostellar System HH211-mms: A 30 au Dusty Disk with a Disk Wind Traced by SO?
+- **1× cited-seeds** | arXiv 1807.11555 | 2018 | Planet formation imager: project update
+- **1× cited-seeds** | arXiv 1807.11559 | 2018 | The planet formation imager
+- **1× cited-seeds** | arXiv 1806.08368 | 2018 | A Compact Multi-planet System with a Significantly Misaligned Ultra Short Period Planet
+- **1× cited-seeds** | arXiv 1805.03669 | 2018 | Protoplanetary Disk Properties in the Orion Nebula Cluster: Initial Results from Deep, High-resolution ALMA Observations
+- **1× cited-seeds** | arXiv 1804.04070 | 2018 | Connecting Planetary Composition with Formation
+- **1× cited-seeds** | arXiv 1803.10047 | 2018 | Dust concentration and chondrule formation
+- **1× cited-seeds** | arXiv 1802.10445 | 2018 | Changes in the metallicity of gas giant planets due to pebble accretion
+- **1× cited-seeds** | arXiv 1808.00620 | 2018 | Erratum: Multiplicity of disc-bearing stars in Upper Scorpius and Upper Centaurus-Lupus
+- **1× cited-seeds** | arXiv 1806.04826 | 2018 | An ALMA Survey of Faint Disks in the Chamaeleon I Star-forming Region: Why Are Some Class II Disks so Faint?
+- **1× cited-seeds** | arXiv 1811.11651 | 2018 | ALMA Observations of the Protostellar Disk around the VeLLO IRAS 16253–2429
+- **1× cited-seeds** | arXiv 1810.02691 | 2018 | Microlensing Searches for Exoplanets
+- **1× cited-seeds** | arXiv — | 2018 | A chemical survey of exoplanets with ARIEL
+- **1× cited-seeds** | arXiv 1807.10266 | 2018 | Traces of exomoons in computed flux and polarization phase curves of starlight reflected by exoplanets
+- **1× cited-seeds** | arXiv 1807.07179 | 2018 | Characterization of lemniscate atmospheric aberrations in Gemini Planet Imager data
+- **1× cited-seeds** | arXiv 1807.07146 | 2018 | The Gemini Planet Imager: looking back over five years and forward to the future
+- **1× cited-seeds** | arXiv 1807.07153 | 2018 | Mining the GPIES database
+- **1× cited-seeds** | arXiv 1807.04315 | 2018 | MagAO-X: project status and first laboratory results
+- **1× cited-seeds** | arXiv — | 2018 | Optimal starshade observation scheduling
+- **1× cited-seeds** | arXiv 1806.04617 | 2018 | Exoplanet Atmospheres at High Spectral Resolution
+- **1× cited-seeds** | arXiv 1804.00662 | 2018 | Exploring H2O Prominence in Reflection Spectra of Cool Giant Planets
+- **1× cited-seeds** | arXiv 1803.06403 | 2018 | Characterizing Earth Analogs in Reflected Light: Atmospheric Retrieval Studies for Future Space Telescopes
+- **1× cited-seeds** | arXiv 1801.08964 | 2018 | Characterization of Exoplanet Atmospheres with the Optical Coronagraph on WFIRST
+- **1× cited-seeds** | arXiv 1801.06192 | 2018 | GPI Spectroscopy of the Mass, Age, and Metallicity Benchmark Brown Dwarf HD 4747 B
+- **1× cited-seeds** | arXiv — | 2018 | Spectroscopic Direct Detection of Exoplanets
+- **1× cited-seeds** | arXiv 1812.10763 | 2018 | A 3D hydrodynamics study of gravitational instabilities in a young circumbinary disc
+- **1× cited-seeds** | arXiv 1808.03304 | 2018 | The planetary systems imager: 2-5 micron channel
+- **1× cited-seeds** | arXiv 1808.07484 | 2018 | The FRIED grid of mass-loss rates for externally irradiated protoplanetary discs
+- **1× cited-seeds** | arXiv 1812.07698 | 2018 | Circumstellar Dust Distribution in Systems with Two Planets in Resonance
+- **1× cited-seeds** | arXiv 1810.10018 | 2018 | The Mass and Size Distribution of Planetesimals Formed by the Streaming Instability. II. The Effect of the Radial Gas Pressure Gradient
+- **1× cited-seeds** | arXiv 1807.02960 | 2018 | Outer Solar System Possibly Shaped by a Stellar Fly-by
+- **1× cited-seeds** | arXiv — | 2018 | Data-Driven Astrochemistry: One Step Further within the Origin of Life Puzzle
+- **1× cited-seeds** | arXiv 1804.00924 | 2018 | How much does turbulence change the pebble isolation mass for planet formation?
+- **1× cited-seeds** | arXiv 1801.09738 | 2018 | Photoevaporation Does Not Create a Pileup of Giant Planets at 1 au
+- **1× cited-seeds** | arXiv 1801.08438 | 2018 | A near-infrared, optical and ultraviolet polarimetric and timing investigation of complex equatorial dusty structures
+- **1× cited-seeds** | arXiv 1811.00984 | 2018 | ALMA observations of molecular tori around massive black holes
+- **1× cited-seeds** | arXiv 1809.09154 | 2018 | Circumnuclear Multiphase Gas in the Circinus Galaxy. II. The Molecular and Atomic Obscuring Structures Revealed with ALMA
+- **1× cited-seeds** | arXiv — | 2018 | The success of extragalactic infrared interferometry: from what we have learned to what to expect
+- **1× cited-seeds** | arXiv 1806.04415 | 2018 | A complete disclosure of the hidden type-1 AGN in NGC 1068 thanks to 52 yr of broad-band polarimetric observation
+- **1× cited-seeds** | arXiv 1804.04842 | 2018 | Resolving the Nuclear Obscuring Disk in the Compton-thick Seyfert Galaxy NGC 5643 with ALMA
+- **1× cited-seeds** | arXiv 1803.06182 | 2018 | Thick turbulent gas disks with magnetocentrifugal winds in active galactic nuclei
+- **1× cited-seeds** | arXiv 1802.09852 | 2018 | Molecular line emission in NGC 4945, imaged with ALMA
+- **1× cited-seeds** | arXiv 1801.04938 | 2018 | New Spectral Model for Constraining Torus Covering Factors from Broadband X-Ray Spectra of Active Galactic Nuclei
+- **1× cited-seeds** | arXiv 1804.09210 | 2018 | The ALMA-PILS survey: complex nitriles towards IRAS 16293–2422
+- **1× cited-seeds** | arXiv 1804.06272 | 2018 | Stellar masses and disk properties of Lupus young stellar objects traced by velocity-aligned stacked ALMA 13CO and C18O spectra
+- **1× cited-seeds** | arXiv — | 2018 | JWST: Launch, Commissioning, and Cycle 1 Science
+- **1× cited-seeds** | arXiv 1805.04501 | 2018 | The perturbed sublimation rim of the dust disk around the post-AGB binary IRAS08544-4431
+- **1× cited-seeds** | arXiv 1810.11398 | 2018 | Observing substructure in circumstellar discs around massive young stellar objects
+- **1× cited-seeds** | arXiv 1810.06589 | 2018 | Gravitoturbulent dynamos in astrophysical discs
+- **1× cited-seeds** | arXiv — | 2018 | Search for high-mass protostars with ALMA revealed up to kilo-parsec scales (SPARKS)
+- **1× cited-seeds** | arXiv 1804.09204 | 2018 | Radiative transfer modelling of W33A MM1: 3D structure and dynamics of a complex massive star-forming region
+- **1× cited-seeds** | arXiv 1802.06620 | 2018 | Spiral density waves and vertical circulation in protoplanetary discs
+- **1× cited-seeds** | arXiv 1801.06898 | 2018 | Early evolution of viscous and self-gravitating circumstellar disks with a dust component
+- **1× cited-seeds** | arXiv 1801.05443 | 2018 | Rapid Evolution of the Gaseous Exoplanetary Debris around the White Dwarf Star HE 1349–2305
+- **1× cited-seeds** | arXiv 1803.00614 | 2018 | Multi-epoch monitoring of the AA Tauri-like star V 354 Mon
+- **1× cited-seeds** | arXiv 1805.05379 | 2018 | The Evolution of Protoplanetary Disks: Probing the Inner Disk of Very Low Accretors
+- **1× cited-seeds** | arXiv 1812.04312 | 2018 | Status of the MEDUSAE post-processing method to detect circumstellar objects in high-contrast multispectral images
+- **1× cited-seeds** | arXiv 1812.03963 | 2018 | Cloud Atlas: Hubble Space Telescope Near-infrared Spectral Library of Brown Dwarfs, Planetary-mass Companions, and Hot Jupiters
+- **1× cited-seeds** | arXiv 1808.00415 | 2018 | Probing Oort Clouds around Milky Way Stars with CMB Surveys
+- **1× cited-seeds** | arXiv 1808.02493 | 2018 | Long-lived Protoplanetary Disks in Multiple Systems: The VLA View of HD 98800
+- **1× cited-seeds** | arXiv 1801.07266 | 2018 | Red, redder, reddest : SCUBA-2 imaging of colour-selected Herschel sources
+- **1× cited-seeds** | arXiv 1809.08435 | 2018 | Polarimetry of Water Ice Particles Providing Insights on Grain Size and Degree of Sintering on Icy Planetary Surfaces
+- **1× cited-seeds** | arXiv 1808.06819 | 2018 | A simple optimized amplitude pupil mask for attempting to direct imaging of Proxima b with SPHERE/ZIMPOL at VLT
+- **1× cited-seeds** | arXiv 1802.05301 | 2018 | A Submillimeter Galaxy Projected on the Debris Disk of HD 95086
+- **1× cited-seeds** | arXiv 1807.10735 | 2018 | Candidate Wide-separation Companions to Nearby, Dusty Young Stars: Gaia Weighs In
+- **1× cited-seeds** | arXiv 1811.03778 | 2018 | Probing the Inner Disk Emission of the Herbig Ae Stars HD 163296 and HD 190073
+- **1× cited-seeds** | arXiv 1810.11411 | 2018 | The census of interstellar complex organic molecules in the Class I hot corino of SVS13-A
+- **1× cited-seeds** | arXiv — | 2018 | 3D radiation MHD simulations of gas and dust in protoplanetary disks
+- **1× cited-seeds** | arXiv 1806.05125 | 2018 | Observability of planet–disc interactions in CO kinematics
+- **1× cited-seeds** | arXiv — | 2018 | Dust-to-gas Ratio Resurgence in Circumstellar Disks Due to the Formation of Giant Planets: The Case of HD 163296
+- **1× cited-seeds** | arXiv 1808.03285 | 2018 | The HH30 edge-on T Tauri star
+- **1× cited-seeds** | arXiv 1805.09983 | 2018 | KMT-2016-BLG-1820 and KMT-2016-BLG-2142: Two Microlensing Binaries Composed of Planetary-mass Companions and Very-low-mass Primaries
+- **1× cited-seeds** | arXiv 1803.05095 | 2018 | OGLE-2017-BLG-1522: A Giant Planet around a Brown Dwarf Located in the Galactic Bulge
+- **1× cited-seeds** | arXiv 1801.09757 | 2018 | Cloud Atlas: Rotational Modulations in the L/T Transition Brown Dwarf Companion HN Peg B
+- **1× cited-seeds** | arXiv 1802.02747 | 2018 | Orbital Motion of Young Binaries in Ophiuchus and Upper Centaurus–Lupus
+- **1× cited-seeds** | arXiv 1811.06938 | 2018 | How to Constrain Your M Dwarf. II. The Mass–Luminosity–Metallicity Relation from 0.075 to 0.70 Solar Masses
+- **1× cited-seeds** | arXiv — | 2018 | Rationally shearing interferometer for extra-solar system planet detection
+- **1× cited-seeds** | arXiv 1803.01258 | 2018 | Schrödinger evolution of self-gravitating discs
+- **1× cited-seeds** | arXiv 1803.08925 | 2018 | psfgan: a generative adversarial network system for separating quasar point sources and host galaxy light
+- **1× cited-seeds** | arXiv 1803.01855 | 2018 | Revealing the Warm and Hot Halo Baryons via Thomson Scattering of Quasar Light
+- **1× cited-seeds** | arXiv 1711.04770 | 2017 | Origin of Weak Turbulence in the Outer Regions of Protoplanetary Disks
+- **1× cited-seeds** | arXiv 1705.10188 | 2017 | Increased H2CO production in the outer disk around HD 163296
+- **1× cited-seeds** | arXiv 1702.00789 | 2017 | A Search for L/T Transition Dwarfs with Pan-STARRS1 and WISE. III. Young L Dwarf Discoveries and Proper Motion Catalogs in Taurus and Scorpius–Centaurus
+- **1× cited-seeds** | arXiv 1706.00058 | 2017 | A Survey for Planetary-mass Brown Dwarfs in the Chamaeleon I Star-forming Region
+- **1× cited-seeds** | arXiv 1712.07479 | 2017 | Future Exoplanet Research: Science Questions and How to Address Them
+- **1× cited-seeds** | arXiv 1709.01732 | 2017 | Detection of a repeated transit signature in the light curve of the enigma star KIC 8462852: A possible 928-day period
+- **1× cited-seeds** | arXiv — | 2017 | Multiple-Star System Adaptive Vortex Coronagraphy Using a Liquid Crystal Light Valve.
+- **1× cited-seeds** | arXiv 1704.03871 | 2017 | Optimized Trajectories to the Nearest Stars Using Lightweight High-velocity Photon Sails
+- **1× cited-seeds** | arXiv 1703.09741 | 2017 | The Origin of Planetary Ring Systems
+- **1× cited-seeds** | arXiv 1711.01281 | 2017 | Synergies between Asteroseismology and Exoplanetary Science
+- **1× cited-seeds** | arXiv 1710.11197 | 2017 | On-sky Closed-loop Correction of Atmospheric Dispersion for High-contrast Coronagraphy and Astrometry
+- **1× cited-seeds** | arXiv — | 2017 | Organism-substrate interactions and astrobiology: Potential, models and methods
+- **1× cited-seeds** | arXiv 1705.08147 | 2017 | In situ accretion of gaseous envelopes on to planetary cores embedded in evolving protoplanetary discs
+- **1× cited-seeds** | arXiv 1704.08701 | 2017 | Throwing Icebergs at White Dwarfs
+- **1× cited-seeds** | arXiv 1704.07832 | 2017 | Mapping Exoplanets
+- **1× cited-seeds** | arXiv — | 2017 | Achromatic broadband nulling using a phase grating
+- **1× cited-seeds** | arXiv 1701.04706 | 2017 | On the Detection of Extrasolar Moons and Rings
+- **1× cited-seeds** | arXiv 1701.00493 | 2017 | Illusion and reality in the atmospheres of exoplanets
+- **1× cited-seeds** | arXiv 1703.08867 | 2017 | The Performance of the Robo-AO Laser Guide Star Adaptive Optics System at the Kitt Peak 2.1 m Telescope
+- **1× cited-seeds** | arXiv — | 2017 | A differential-imaging polarimeter for high-contrast exoplanet imaging
+- **1× cited-seeds** | arXiv 1704.05675 | 2017 | Mid-infrared interferometric variability of DG Tauri : Implications for the inner-disk structure
+- **1× cited-seeds** | arXiv 1711.05604 | 2017 | The δ Scuti pulsations of β Pictoris as observed by ASTEP from Antarctica
+- **1× cited-seeds** | arXiv 1701.01512 | 2017 | A hot Jupiter around the very active weak-line T Tauri star TAP 26
+- **1× cited-seeds** | arXiv 1707.08697 | 2017 | ALMA Observations of the Protostar L1527 IRS: Probing Details of the Disk and the Envelope Structures
+- **1× cited-seeds** | arXiv — | 2017 | Constraints on the spin evolution of young planetary-mass companions
+- **1× cited-seeds** | arXiv 1712.00457 | 2017 | Constraints on the spin evolution of young planetary-mass companions
+- **1× cited-seeds** | arXiv 1703.10596 | 2017 | The reversibility error method (REM): a new, dynamical fast indicator for planetary dynamics
+- **1× cited-seeds** | arXiv 1703.10618 | 2017 | Terrestrial Planet Formation: Dynamical Shake-up and the Low Mass of Mars
+- **1× cited-seeds** | arXiv 1703.08546 | 2017 | An ALMA Survey of Protoplanetary Disks in the σ Orionis Cluster
+- **1× cited-seeds** | arXiv 1709.08514 | 2017 | Modelling of mid-infrared interferometric signature of hot exozodiacal dust emission
+- **1× cited-seeds** | arXiv 1710.05074 | 2017 | The Heating of Solar Coronal Loops by Alfvén Wave Turbulence
+- **1× cited-seeds** | arXiv 1708.07053 | 2017 | Can planet formation resolve the dust budget crisis in high-redshift galaxies?
+- **1× cited-seeds** | arXiv 1706.05010 | 2017 | Improved Constraints on the Disk around MWC 349A from the 23 m LBTI
+- **1× cited-seeds** | arXiv 1705.08444 | 2017 | Effects of the Planetary Temperature on the Circumplanetary Disk and on the Gap
+- **1× cited-seeds** | arXiv 1702.05491 | 2017 | Identification of partially resolved binaries in Pan-STARRS 1 data
+- **1× cited-seeds** | arXiv — | 2017 | Citations and Team Sizes
+- **1× cited-seeds** | arXiv 1712.06984 | 2017 | The ALMA-PILS survey: 3D modeling of the envelope, disks and dust filament of IRAS 16293-2422
+- **1× cited-seeds** | arXiv 1704.01615 | 2017 | Modelling the 3D physical structure of astrophysical sources with gass
+- **1× cited-seeds** | arXiv 1701.02352 | 2017 | Protoplanetary Disks as (Possibly) Viscous Disks
+- **1× cited-seeds** | arXiv 1709.08921 | 2017 | On the inner disc structure of MWC480: evidence for asymmetries?
+- **1× cited-seeds** | arXiv 1709.04839 | 2017 | Study of the inner disk of the Herbig star MWC480
+- **1× cited-seeds** | arXiv 1709.10130 | 2017 | Inside-out Planet Formation. IV. Pebble Evolution and Planet Formation Timescales
+- **1× cited-seeds** | arXiv 1710.07846 | 2017 | Evidence for the formation of comet 67P/Churyumov-Gerasimenko through gravitational collapse of a bound clump of pebbles
+- **1× cited-seeds** | arXiv 1706.07512 | 2017 | Low-velocity collision behaviour of clusters composed of sub-millimetre sized dust aggregates
+- **1× cited-seeds** | arXiv 2212.04901 | 2017 | Dissociative Excitation of Acetylene Induced by Electron Impact: Excitation-emission Cross-sections
+- **1× cited-seeds** | arXiv 1708.02714 | 2017 | Individual, Model-independent Masses of the Closest Known Brown Dwarf Binary to the Sun
+- **1× cited-seeds** | arXiv 1705.01836 | 2017 | Search for rings and satellites around the exoplanet CoRoT-9b using Spitzer photometry
+- **1× cited-seeds** | arXiv — | 2017 | Laboratory unraveling of matter accretion in young stars
+- **1× cited-seeds** | arXiv 1710.05371 | 2017 | A Face-on Accretion System in High-mass Star Formation: Possible Dusty Infall Streams within 100 AU
+- **1× cited-seeds** | arXiv 1708.02528 | 2017 | Laboratory unravelling of matter accretion in young stars
+- **1× cited-seeds** | arXiv 1706.07073 | 2017 | Pulsed Accretion in the T Tauri Binary TWA 3A
+- **1× cited-seeds** | arXiv — | 2017 | Keplerian-Stacker: A new technique for coronagraphic images to increase the signal to noise ratio and detect exoplanets with direct imagning instruments
+- **1× cited-seeds** | arXiv 1711.10494 | 2017 | On the rate of black hole binary mergers in galactic nuclei due to dynamical hardening
+- **1× cited-seeds** | arXiv 1708.09464 | 2017 | Constraints from Dust Mass and Mass Accretion Rate Measurements on Angular Momentum Transport in Protoplanetary Disks
+- **1× cited-seeds** | arXiv 1703.07895 | 2017 | Planetesimal Formation by the Streaming Instability in a Photoevaporating Disk
+- **1× cited-seeds** | arXiv 1701.06703 | 2017 | Placing the Spotted T Tauri Star LkCa 4 on an HR Diagram
+- **1× cited-seeds** | arXiv 1704.07558 | 2017 | Acceleration of Cooling of Ice Giants by Condensation in Early Atmospheres
+- **1× cited-seeds** | arXiv 1710.00185 | 2017 | Project Solaris, a Global Network of Autonomous Observatories: Design, Commissioning, and First Science Results
+- **1× cited-seeds** | arXiv 1703.02607 | 2017 | Integral Field Spectroscopy of the Low-mass Companion HD 984 B with the Gemini Planet Imager
+- **1× cited-seeds** | arXiv — | 2017 | Chemistry of Protoplanetary Disks
+- **1× cited-seeds** | arXiv — | 2017 | Discovery of a stellar companion to HD 131399A
+- **1× cited-seeds** | arXiv 1709.07294 | 2017 | Planet formation and the evolution of the Solar System
+- **1× cited-seeds** | arXiv 1705.10815 | 2017 | Particle Acceleration in Pulsar Wind Nebulae: PIC modelling
+- **1× cited-seeds** | arXiv 1709.08170 | 2017 | Fe I in the β Pictoris circumstellar gas disk: I. Physical properties of the neutral iron gas⋆
+- **1× cited-seeds** | arXiv — | 2017 | Interplanetary coronal mass ejection observed at STEREO‐A, Mars, comet 67P/Churyumov‐Gerasimenko, Saturn, and New Horizons en route to Pluto: Comparison of its Forbush decreases at 1.4, 3.1, and 9.9 AU
+- **1× cited-seeds** | arXiv 1711.06482 | 2017 | Transient events in bright debris discs: Collisional avalanches revisited
+- **1× cited-seeds** | arXiv 1709.06061 | 2017 | Optical polarimetry of KIC 8462852 in 2017 May–August
+- **1× cited-seeds** | arXiv 1702.05966 | 2017 | Does warm debris dust stem from asteroid belts
+- **1× cited-seeds** | arXiv 1710.09450 | 2017 | Does the Compact Radio Jet in PG 1700+518 Drive a Molecular Outflow?
+- **1× cited-seeds** | arXiv 1708.05139 | 2017 | Quasar-mode Feedback in Nearby Type 1 Quasars: Ubiquitous Kiloparsec-scale Outflows and Correlations with Black Hole Properties
+- **1× cited-seeds** | arXiv 1702.00073 | 2017 | Evidence for Relativistic Disk Reflection in the Seyfert 1h Galaxy/ULIRG IRAS 05189–2524 Observed by NuSTAR and XMM-Newton
+- **1× cited-seeds** | arXiv 1709.02389 | 2017 | Review: far-infrared instrumentation and technological development for the next decade
+- **1× cited-seeds** | arXiv 1707.01612 | 2017 | The Evidence of Radio Polarization Induced by the Radiative Grain Alignment and Self-scattering of Dust Grains in a Protoplanetary Disk
+- **1× cited-seeds** | arXiv 1704.08749 | 2017 | The Demographics of Rocky Free-floating Planets and their Detectability by WFIRST
+- **1× cited-seeds** | arXiv 1704.01626 | 2017 | Gap formation by inclined massive planets in locally isothermal three-dimensional discs
+- **1× cited-seeds** | arXiv 1703.09132 | 2017 | Connecting HL Tau to the observed exoplanet sample
+- **1× cited-seeds** | arXiv 1703.03169 | 2017 | The Influence of Forming Companions on the Spectral Energy Distributions of Stars with Circumstellar Discs
+- **1× cited-seeds** | arXiv 1710.03153 | 2017 | The Architecture of the GW Ori Young Triple-star System and Its Disk: Dynamical Masses, Mutual Inclinations, and Recurrent Eclipses
+- **1× cited-seeds** | arXiv 1708.08122 | 2017 | An ALMA Dynamical Mass Estimate of the Proposed Planetary-mass Companion FW Tau C
+- **1× cited-seeds** | arXiv 1706.07823 | 2017 | Inclination evolution of protoplanetary discs around eccentric binaries
+- **1× cited-seeds** | arXiv 1710.04670 | 2017 | ALMA Reveals Transition of Polarization Pattern with Wavelength in HL Tau’s Disk
+- **1× cited-seeds** | arXiv 1710.07489 | 2017 | An Explanation of the Very Low Radio Flux of Young Planet-mass Companions
+- **1× cited-seeds** | arXiv 1712.07762 | 2017 | Developing post-coronagraphic, high-resolution spectroscopy for terrestrial planet characterization on ELTs
+- **1× cited-seeds** | arXiv 1711.10495 | 2017 | Secular dynamics of an exterior test particle: the inverse Kozai and other eccentricity-inclination resonances
+- **1× cited-seeds** | arXiv 1707.07779 | 2017 | Commissioning and performance results of the WFIRST/PISCES integral field spectrograph
+- **1× cited-seeds** | arXiv 1707.03256 | 2017 | Implementing focal-plane phase masks optimized for real telescope apertures with SLM-based digital adaptive coronagraphy.
+- **1× cited-seeds** | arXiv 1705.05477 | 2017 | Improving and Assessing Planet Sensitivity of the GPI Exoplanet Survey with a Forward Model Matched Filter
+- **1× cited-seeds** | arXiv 1704.02326 | 2017 | No Difference in Orbital Parameters of RV-detected Giant Planets between 0.1 and 5 au in Single versus Multi-stellar Systems
+- **1× cited-seeds** | arXiv 1703.00583 | 2017 | Observing Exoplanets with High-dispersion Coronagraphy. II. Demonstration of an Active Single-mode Fiber Injection Unit
+- **1× cited-seeds** | arXiv 1701.07257 | 2017 | Discovery of Water at High Spectral Resolution in the Atmosphere of 51 Peg b
+- **1× cited-seeds** | arXiv 1701.00318 | 2017 | Sulfur Hazes in Giant Exoplanet Atmospheres: Impacts on Reflected Light Spectra
+- **1× cited-seeds** | arXiv 1709.00680 | 2017 | Characterizing exo-ring systems around fast-rotating stars using the Rossiter–McLaughlin effect
+- **1× cited-seeds** | arXiv 1710.08398 | 2017 | Observational signatures of a warped disk associated with cold-flow accretion
+- **1× cited-seeds** | arXiv 1705.00637 | 2017 | A combined photometric and kinematic recipe for evaluating the nature of bulges using the CALIFA sample
+- **1× cited-seeds** | arXiv 1703.00313 | 2017 | The globular cluster system of NGC 1316 IV. Nature of the star cluster complex SH2
+- **1× cited-seeds** | arXiv 1706.04581 | 2017 | A new statistical method for characterizing the atmospheres of extrasolar planets
+- **1× cited-seeds** | arXiv 1703.00463 | 2017 | Low-resolution near-infrared spectroscopic signatures of unresolved ultracool companions to M dwarfs
+- **1× cited-seeds** | arXiv 1711.02103 | 2017 | Impact splash chondrule formation during planetesimal recycling
+- **1× cited-seeds** | arXiv 1710.05142 | 2017 | On the Origin of Banded Structure in Dusty Protoplanetary Disks: HL Tau and TW Hya
+- **1× cited-seeds** | arXiv — | 2017 | On the signatures of companion formation in the spectral energy distributions of Sz54 and Sz59—the young stars with protoplanetary disks
+- **1× cited-seeds** | arXiv 1709.04242 | 2017 | The empty primordial asteroid belt
+- **1× cited-seeds** | arXiv 1708.00450 | 2017 | Simulations of small solid accretion on to planetesimals in the presence of gas
+- **1× cited-seeds** | arXiv — | 2017 | Mean-field theory of turbulence from the variational principle and its application to the rotation of a thin fluid disk
+- **1× cited-seeds** | arXiv — | 2017 | On signatures of companion formation in stars Sz54 and Sz59 – young systems with protoplanetary disks
+- **1× cited-seeds** | arXiv — | 2017 | On the signatures of companion formation in the spectral energy distributions of Sz54 and Sz59—the young stars with protoplanetary disks
+- **1× cited-seeds** | arXiv 1704.06308 | 2017 | Hydrodynamic ablation of protoplanetary discs via supernovae
+- **1× cited-seeds** | arXiv 1710.01219 | 2017 | Methanol formation in TW Hya and future prospects for detecting larger complex molecules in disks with ALMA
+- **1× cited-seeds** | arXiv 1712.08834 | 2017 | Unveiling the inner morphology and gas kinematics of NGC 5135 with ALMA
+- **1× cited-seeds** | arXiv 1803.01668 | 2017 | Dynamics and Formation of Obscuring Tori in AGNs
+- **1× cited-seeds** | arXiv 1710.04224 | 2017 | LLAMA: normal star formation efficiencies of molecular gas in the centres of luminous Seyfert galaxies
+- **1× cited-seeds** | arXiv 1710.01829 | 2017 | Evolution of Molecular Clouds in the Superwind Galaxy NGC 1808 Probed by ALMA Observations
+- **1× cited-seeds** | arXiv 1709.05895 | 2017 | ALMA imaging of C2H emission in the disk of NGC 1068
+- **1× cited-seeds** | arXiv 1709.03367 | 2017 | The life cycle of starbursting circumnuclear gas discs
+- **1× cited-seeds** | arXiv 1709.00019 | 2017 | Nuclear obscuration in active galactic nuclei
+- **1× cited-seeds** | arXiv 1707.08229 | 2017 | ALMA Observations of Circumnuclear Disks in Early-type Galaxies: 12CO(2−1) and Continuum Properties
+- **1× cited-seeds** | arXiv 2007.07932 | 2017 | A two-stage outflow in NGC 1068
+- **1× cited-seeds** | arXiv 1707.04363 | 2017 | ALMA Maps of Dust and Warm Dense Gas Emission in the Starburst Galaxy IC 5179
+- **1× cited-seeds** | arXiv 1706.07425 | 2017 | A mid-infrared statistical investigation of clumpy torus model predictions
+- **1× cited-seeds** | arXiv 1706.05762 | 2017 | Disentangling the Circumnuclear Environs of Centaurus A. III. An Inner Molecular Ring, Nuclear Shocks, and the CO to Warm H2 Interface
+- **1× cited-seeds** | arXiv 1705.06747 | 2017 | Intrinsic AGN SED & black hole growth in the Palomar-Green quasars
+- **1× cited-seeds** | arXiv 1704.06987 | 2017 | The Intrinsic Far-infrared Continua of Type-1 Quasars
+- **1× cited-seeds** | arXiv 1702.05458 | 2017 | Luminous, pc-scale CO 6-5 emission in the obscured nucleus of NGC 1377
+- **1× cited-seeds** | arXiv 1710.08686 | 2017 | A 1.3 mm SMA Survey of 29 Variable Young Stellar Objects
+- **1× cited-seeds** | arXiv 1706.05447 | 2017 | High-resolution TNG spectra of T Tauri stars: Near-IR GIANO observations of the young variables XZ Tau and DR Tau
+- **1× cited-seeds** | arXiv 1710.08610 | 2017 | SDSS-IV MaNGA-resolved Star Formation and Molecular Gas Properties of Green Valley Galaxies: A First Look with ALMA and MaNGA
+- **1× cited-seeds** | arXiv 1712.09759 | 2017 | Resolving the clumpy circumstellar environment of the B[e] supergiant LHA 120-S 35
+- **1× cited-seeds** | arXiv 1711.03975 | 2017 | Resonant drag instabilities in protoplanetary discs: the streaming instability and new, faster growing instabilities
+- **1× cited-seeds** | arXiv 1711.04803 | 2017 | Emission from Magnetized Accretion Disks around Young Stars
+- **1× cited-seeds** | arXiv 1708.01622 | 2017 | The structure of young embedded protostellar discs
+- **1× cited-seeds** | arXiv 1708.02631 | 2017 | Early formation of planetary building blocks inferred from Pb isotopic ages of chondrules
+- **1× cited-seeds** | arXiv 1707.04001 | 2017 | Updating the (Supermassive Black Hole Mass) - (Spiral Arm Pitch Angle) Relation: A Strong Correlation for Galaxies with Pseudobulges
+- **1× cited-seeds** | arXiv 1706.06504 | 2017 | Decoupling of magnetic fields in collapsing protostellar envelopes and disc formation and fragmentation
+- **1× cited-seeds** | arXiv 1704.08962 | 2017 | First detection of equatorial dark dust lane in a protostellar disk at submillimeter wavelength
+- **1× cited-seeds** | arXiv 1703.09139 | 2017 | Circumstellar Disks and Outflows in Turbulent Molecular Cloud Cores: Possible Formation Mechanism for Misaligned Systems
+- **1× cited-seeds** | arXiv 1702.05688 | 2017 | Magnetic diffusivities in 3D radiative chemo-hydrodynamic simulations of protostellar collapse
+- **1× cited-seeds** | arXiv 1710.05417 | 2017 | Performance of the extreme-AO instrument VLT/SPHERE and dependence on the atmospheric conditions
+- **1× cited-seeds** | arXiv 1710.02795 | 2017 | Three Years of SPHERE: The Latest View of the Morphology and Evolution of Protoplanetary Discs
+- **1× cited-seeds** | arXiv 1709.02148 | 2017 | Constraints on observing brightness asymmetries in protoplanetary disks at solar system scale
+- **1× cited-seeds** | arXiv 1712.07669 | 2017 | The Taurus Boundary of Stellar/Substellar (TBOSS) Survey. II. Disk Masses from ALMA Continuum Observations
+- **1× cited-seeds** | arXiv 1703.08548 | 2017 | An Earth-mass Planet in a 1 au Orbit around an Ultracool Dwarf
+- **1× cited-seeds** | arXiv 1605.07938 | 2016 | Determining the mid-plane conditions of circumstellar discs using gas and dust modelling: a study of HD 163296
+- **1× cited-seeds** | arXiv — | 2016 | Planet Imaging Coronagraphic Technology Using a Reconfigurable Experimental Base (PICTURE-B): The Second in the Series of Suborbital Exoplanet Experiments
+- **1× cited-seeds** | arXiv — | 2016 | Novel instrument concepts for characterizing directly imaged exoplanets
+- **1× cited-seeds** | arXiv 1601.05438 | 2016 | EVIDENCE FOR A DISTANT GIANT PLANET IN THE SOLAR SYSTEM
+- **1× cited-seeds** | arXiv — | 2016 | Integrated Wavefront Correction and Bias Estimation for the High-Contrast Imaging of Exoplanets
+- **1× cited-seeds** | arXiv 1607.08586 | 2016 | Empirical Green's function approach for utilizing millisecond focal and pupil plane telemetry in exoplanet imaging
+- **1× cited-seeds** | arXiv 1602.05486 | 2016 | A Statistical Framework for Utilization of Simultaneous Pupil Plane and Focal Plane Telemetry for Exoplanet Imaging, Part II: The Science Camera Image as a Function of the Wavefront Sensor Field
+- **1× cited-seeds** | arXiv 1601.08239 | 2016 | Statistical framework for the utilization of simultaneous pupil plane and focal plane telemetry for exoplanet imaging. I. Accounting for aberrations in multiple planes.
+- **1× cited-seeds** | arXiv 1605.01431 | 2016 | High spatial resolution optical imaging of the multiple T Tauri system LkHα 262/LkHα 263
+- **1× cited-seeds** | arXiv 1602.04665 | 2016 | Wind dynamics and circumstellar extinction variations in the T Tauri star RY Tau
+- **1× cited-seeds** | arXiv 1606.02761 | 2016 | Early science with the Large Millimetre Telescope: Deep LMT/AzTEC millimetre observations of ϵ Eridani and its surroundings
+- **1× cited-seeds** | arXiv 1602.08381 | 2016 | Low-rank plus sparse decomposition for exoplanet detection in direct-imaging ADI sequences. The LLSG algorithm
+- **1× cited-seeds** | arXiv 1603.06000 | 2016 | PHOTO-REVERBERATION MAPPING OF A PROTOPLANETARY ACCRETION DISK AROUND A T TAURI STAR
+- **1× cited-seeds** | arXiv 1609.05147 | 2016 | High Contrast Imaging in the Visible: First Experimental Results at the Large Binocular Telescope
+- **1× cited-seeds** | arXiv 1603.07247 | 2016 | Is there an exoplanet in the Solar System
+- **1× cited-seeds** | arXiv 1603.00025 | 2016 | Full-lifetime simulations of multiple unequal-mass planets across all phases of stellar evolution
+- **1× cited-seeds** | arXiv — | 2016 | A disk wind in AB Aurigae traced with Hα interferometry
+- **1× cited-seeds** | arXiv 1611.07376 | 2016 | Spiral-driven accretion in protoplanetary discs . III. Tridimensional simulations
+- **1× cited-seeds** | arXiv 1609.02493 | 2016 | AN ORDERED MAGNETIC FIELD IN THE PROTOPLANETARY DISK OF AB Aur REVEALED BY MID-INFRARED POLARIMETRY
+- **1× cited-seeds** | arXiv 1612.02431 | 2016 | ACCRETION AND MAGNETIC RECONNECTION IN THE CLASSICAL T TAURI BINARY DQ TAU
+- **1× cited-seeds** | arXiv 1610.06609 | 2016 | BP Piscium: its flaring disc imaged with SPHERE/ZIMPOL
+- **1× cited-seeds** | arXiv 1608.06992 | 2016 | TRACING SLOW WINDS FROM T TAURI STARS VIA LOW-VELOCITY FORBIDDEN LINE EMISSION
+- **1× cited-seeds** | arXiv 1604.02055 | 2016 | Probing the 2D temperature structure of protoplanetary disks with Herschel observations of high-J CO lines
+- **1× cited-seeds** | arXiv 1602.08495 | 2016 | Protostars: Forges of cosmic rays?
+- **1× cited-seeds** | arXiv 1602.07582 | 2016 | SEARCHING FOR SPECTROSCOPIC BINARIES WITHIN TRANSITION DISK OBJECTS
+- **1× cited-seeds** | arXiv — | 2016 | The Virtuous Cycle of a Data Ecosystem
+- **1× cited-seeds** | arXiv 1611.01371 | 2016 | TYC 8241 2652 1 and the case of the disappearing disk: No smoking gun yet
+- **1× cited-seeds** | arXiv 1610.09930 | 2016 | A mid-IR interferometric survey with MIDI/VLTI: resolving the second-generation protoplanetary disks around post-AGB binaries
+- **1× cited-seeds** | arXiv 1610.03780 | 2016 | The innermost astronomical units of protoplanetary disks
+- **1× cited-seeds** | arXiv 1606.06236 | 2016 | A hot Jupiter orbiting a 2-million-year-old solar-mass T Tauri star
+- **1× cited-seeds** | arXiv 1606.07134 | 2016 | Stellar Double Coronagraph: A Multistage Coronagraphic Platform at Palomar Observatory
+- **1× cited-seeds** | arXiv 1605.04586 | 2016 | Circumplanetary disc or circumplanetary envelope
+- **1× cited-seeds** | arXiv 1608.00573 | 2016 | THE INFLUENCE OF MAGNETIC FIELD GEOMETRY ON THE FORMATION OF CLOSE-IN EXOPLANETS
+- **1× cited-seeds** | arXiv 1603.08520 | 2016 | THE RADIAL DISTRIBUTION OF H2 AND CO IN TW HYA AS REVEALED BY RESOLVED ALMA OBSERVATIONS OF CO ISOTOPOLOGUES
+- **1× cited-seeds** | arXiv 1603.02630 | 2016 | DUST DIFFUSION AND SETTLING IN THE PRESENCE OF COLLISIONS: TRAPPING (SUB)MICRON GRAINS IN THE MIDPLANE
+- **1× cited-seeds** | arXiv 1601.03009 | 2016 | PROTOPLANETARY DISK HEATING AND EVOLUTION DRIVEN BY SPIRAL DENSITY WAVES
+- **1× cited-seeds** | arXiv 1611.00741 | 2016 | THE ROLE OF ICE COMPOSITIONS FOR SNOWLINES AND THE C/N/O RATIOS IN ACTIVE DISKS
+- **1× cited-seeds** | arXiv 1601.03040 | 2016 | THE VLA NASCENT DISK AND MULTIPLICITY SURVEY: FIRST LOOK AT RESOLVED CANDIDATE DISKS AROUND CLASS 0 AND I PROTOSTARS IN THE PERSEUS MOLECULAR CLOUD
+- **1× cited-seeds** | arXiv 1611.05684 | 2016 | Dynamical friction on hot bodies in opaque, gaseous media
+- **1× cited-seeds** | arXiv — | 2016 | High-contrast imaging and high-resolution spectroscopy observation of exoplanets
+- **1× cited-seeds** | arXiv 1608.02480 | 2016 | THE SECOND ARECIBO SEARCH FOR 5 GHz RADIO FLARES FROM ULTRACOOL DWARFS
+- **1× cited-seeds** | arXiv 2012.03286 | 2016 | Characterisation of a turbulent module for the MITHIC high-contrast imaging testbed
+- **1× cited-seeds** | arXiv 1601.03652 | 2016 | CLOUDLESS ATMOSPHERES FOR L/T DWARFS AND EXTRASOLAR GIANT PLANETS
+- **1× cited-seeds** | arXiv 1610.08381 | 2016 | Testing dust trapping in the circumbinary disk around GG Tauri A
+- **1× cited-seeds** | arXiv 1610.06318 | 2016 | SUBMILLIMETER POLARIZATION OBSERVATION OF THE PROTOPLANETARY DISK AROUND HD 142527
+- **1× cited-seeds** | arXiv 1606.07266 | 2016 | The abundance and thermal history of water ice in the disk surrounding HD 142527 from the DIGIT Herschel Key Program
+- **1× cited-seeds** | arXiv 1601.00539 | 2016 | Water and acetaldehyde in HH212: The first hot corino in Orion
+- **1× cited-seeds** | arXiv 1611.10360 | 2016 | Zoom-in Simulations of Protoplanetary Disks Starting from GMC Scales
+- **1× cited-seeds** | arXiv — | 2016 | Astrophysics with Extraterrestrial Materials
+- **1× cited-seeds** | arXiv 1606.07539 | 2016 | A unified framework for producing CAI melting, Wark–Lovering rims and bowl-shaped CAIs
+- **1× cited-seeds** | arXiv 1606.07102 | 2016 | FRIENDS OF HOT JUPITERS. IV. STELLAR COMPANIONS BEYOND 50 au MIGHT FACILITATE GIANT PLANET FORMATION, BUT MOST ARE UNLIKELY TO CAUSE KOZAI–LIDOV MIGRATION
+- **1× cited-seeds** | arXiv 1605.04908 | 2016 | Effects of disc asymmetries on astrometric measurements - Can they mimic planets?
+- **1× cited-seeds** | arXiv 1603.09225 | 2016 | Parametric Study of the Rossby Wave Instability in a Two-dimensional Barotropic Disk. II. Nonlinear Calculations
+- **1× cited-seeds** | arXiv 1602.09063 | 2016 | Vortices in stratified protoplanetary disks : From baroclinic instability to vortex layers
+- **1× cited-seeds** | arXiv — | 2016 | Planet filtering at the inner edges of dead zones in protoplanetary disks
+- **1× cited-seeds** | arXiv 1601.05945 | 2016 | DUST CAPTURE AND LONG-LIVED DENSITY ENHANCEMENTS TRIGGERED BY VORTICES IN 2D PROTOPLANETARY DISKS
+- **1× cited-seeds** | arXiv 1611.09319 | 2016 | UNTANGLING THE NEAR-IR SPECTRAL FEATURES IN THE PROTOPLANETARY ENVIRONMENT OF KH 15D
+- **1× cited-seeds** | arXiv — | 2016 | Characterising the three-dimensional ozone distribution of a tidally locked Earth-like planet
+- **1× cited-seeds** | arXiv 1603.02017 | 2016 | HIGH-CONTRAST IMAGING OF INTERMEDIATE-MASS GIANTS WITH LONG-TERM RADIAL VELOCITY TRENDS
+- **1× cited-seeds** | arXiv 1612.07054 | 2016 | X-shooter spectroscopy of young stellar objects in Lupus. Accretion properties of class II and transitional objects
+- **1× cited-seeds** | arXiv 1610.05269 | 2016 | SPECKLE IMAGING EXCLUDES LOW-MASS COMPANIONS ORBITING THE EXOPLANET HOST STAR TRAPPIST-1
+- **1× cited-seeds** | arXiv 1604.08286 | 2016 | POLARIZATION MEASUREMENTS OF HOT DUST STARS AND THE LOCAL INTERSTELLAR MEDIUM
+- **1× cited-seeds** | arXiv 1611.02196 | 2016 | Inner mean-motion resonances with eccentric planets: a possible origin for exozodiacal dust clouds
+- **1× cited-seeds** | arXiv 1602.08505 | 2016 | Neutral gas outflows in nearby [U]LIRGs via optical NaD feature
+- **1× cited-seeds** | arXiv 1608.03239 | 2016 | Effects of inclined star-disk encounter on protoplanetary disk size
+- **1× cited-seeds** | arXiv 1612.09383 | 2016 | Two-fluid dusty shocks: simple benchmarking problems and applications to protoplanetary discs
+- **1× cited-seeds** | arXiv 1609.07930 | 2016 | On dust-gas gravitational instabilities in protoplanetary discs
+- **1× cited-seeds** | arXiv 1608.06960 | 2016 | A wind-driving disc model for the mm-wavelength polarization structure of HL Tau
+- **1× cited-seeds** | arXiv 1608.05410 | 2016 | ROCKY PLANET FORMATION: QUICK AND NEAT
+- **1× cited-seeds** | arXiv 1607.08733 | 2016 | The ALMA Protostellar Interferometric Line Survey (PILS)
+- **1× cited-seeds** | arXiv 1607.02322 | 2016 | Particle dynamics in discs with turbulence generated by the vertical shear instability
+- **1× cited-seeds** | arXiv 1605.08809 | 2016 | PROTOPLANETARY DISKS IN THE HOSTILE ENVIRONMENT OF CARINA
+- **1× cited-seeds** | arXiv — | 2016 | Multi-Color Model for the Protoplanetary Disks HL Tau and HD142527
+- **1× cited-seeds** | arXiv 1604.07937 | 2016 | A SEARCH FOR SUBMILLIMETER H2O MASERS IN ACTIVE GALAXIES: THE DETECTION OF 321 GHz H2O MASER EMISSION IN NGC 4945
+- **1× cited-seeds** | arXiv 1603.09594 | 2016 | VELOCITY-RESOLVED HOT WATER EMISSION DETECTED TOWARD HL TAU WITH THE SUBMILLIMETER ARRAY
+- **1× cited-seeds** | arXiv 1603.01378 | 2016 | GAS GAPS IN THE PROTOPLANETARY DISK AROUND THE YOUNG PROTOSTAR HL TAU
+- **1× cited-seeds** | arXiv 1602.07457 | 2016 | Two mechanisms for dust gap opening in protoplanetary discs
+- **1× cited-seeds** | arXiv 1608.01768 | 2016 | UNCOVERING CIRCUMBINARY PLANETARY ARCHITECTURAL PROPERTIES FROM SELECTION BIASES
+- **1× cited-seeds** | arXiv 1602.05206 | 2016 | ACCRETION AND ORBITAL INSPIRAL IN GAS-ASSISTED SUPERMASSIVE BLACK HOLE BINARY MERGERS
+- **1× cited-seeds** | arXiv 1601.03806 | 2016 | A DISK-BASED DYNAMICAL CONSTRAINT ON THE MASS OF THE YOUNG BINARY DQ TAU
+- **1× cited-seeds** | arXiv — | 2016 | The role of disk self-gravity on gap formation of the HL Tau proto-planetary disk
+- **1× cited-seeds** | arXiv 1612.02872 | 2016 | ON THE ORBITAL INCLINATION OF PROXIMA CENTAURI b
+- **1× cited-seeds** | arXiv 1609.09095 | 2016 | DYNAMICAL MASS MEASUREMENT OF THE YOUNG SPECTROSCOPIC BINARY V343 NORMAE AaAb RESOLVED WITH THE GEMINI PLANET IMAGER
+- **1× cited-seeds** | arXiv 1608.07252 | 2016 | A High-precision Technique to Correct for Residual Atmospheric Dispersion in High-contrast Imaging Systems
+- **1× cited-seeds** | arXiv — | 2016 | A comparison of analytical depth of search metrics with mission simulations for exoplanet imagers
+- **1× cited-seeds** | arXiv 1609.08692 | 2016 | Planet detection down to a few λ/D: an RSDI/TLOCI approach to PSF subtraction
+- **1× cited-seeds** | arXiv 1602.06305 | 2016 | The need for laboratory work to aid in the understanding of exoplanetary atmospheres
+- **1× cited-seeds** | arXiv 1601.04717 | 2016 | THE RADIAL AND ROTATIONAL VELOCITIES OF PSO J318.5338-22.8603, A NEWLY CONFIRMED PLANETARY-MASS MEMBER OF THE β PICTORIS MOVING GROUP
+- **1× cited-seeds** | arXiv — | 2016 | Performance of the Gemini Planet Imager's adaptive optics system.
+- **1× cited-seeds** | arXiv 1610.07802 | 2016 | Reaching sub-milimag photometric precision on Beta Pictoris with a nanosat: the PicSat mission
+- **1× cited-seeds** | arXiv 1612.06006 | 2016 | Fading AGN Candidates: AGN Histories and Outflow Signatures
+- **1× cited-seeds** | arXiv 1607.00152 | 2016 | Inhomogeneous molecular ring around the B[e] supergiant LHA 120-S 73
+- **1× cited-seeds** | arXiv — | 2016 | Viewpoint: Searching for Baby Planets in a Star’s Dusty Rings
+- **1× cited-seeds** | arXiv 1609.00796 | 2016 | Turbulent-diffusion Mediated CO Depletion in Weakly Turbulent Protoplanetary Disks
+- **1× cited-seeds** | arXiv 1610.03076 | 2016 | NGC 1068: No change in the mid-IR torus structure despite X-ray variability
+- **1× cited-seeds** | arXiv 1609.09664 | 2016 | Galactic outflow driven by the active nucleus and the origin of the gamma-ray emission in NGC 1068
+- **1× cited-seeds** | arXiv 1609.02400 | 2016 | A Massive Dense Gas Cloud close to the Nucleus of the Seyfert galaxy NGC 1068
+- **1× cited-seeds** | arXiv 1608.02210 | 2016 | HIGH-VELOCITY BIPOLAR MOLECULAR EMISSION FROM AN AGN TORUS
+- **1× cited-seeds** | arXiv 1609.04263 | 2016 | Exocomet signatures around the A-shell star φ Leonis?
+- **1× cited-seeds** | arXiv 1610.01379 | 2016 | Zero age planetary orbit of gas giant planets revisited: reinforcement of the link with stellar metallicity
+- **1× cited-seeds** | arXiv 1611.09361 | 2016 | Grand-design Spiral Arms in a Young Forming Circumstellar Disk
+- **1× cited-seeds** | arXiv 1610.08856 | 2016 | THE IMPACT OF FEEDBACK DURING MASSIVE STAR FORMATION BY CORE ACCRETION
+- **1× cited-seeds** | arXiv 1601.01548 | 2016 | The shadow of the Flying Saucer: A very low temperature for large dust grains
+- **1× cited-seeds** | arXiv 1602.07372 | 2016 | STABLE AND UNSTABLE REGIMES OF MASS ACCRETION ONTO RW AUR A
+- **1× cited-seeds** | arXiv 1601.04148 | 2016 | A modified WKB formulation for linear eigenmodes of a collisionless self-gravitating disc in the epicyclic approximation
+- **1× cited-seeds** | arXiv 1603.04435 | 2016 | EXTREME AO OBSERVATIONS OF TWO TRIPLE ASTEROID SYSTEMS WITH SPHERE
+- **1× cited-seeds** | arXiv 1609.06148 | 2016 | EXOPLANETARY DETECTION BY MULTIFRACTAL SPECTRAL ANALYSIS
+- **1× cited-seeds** | arXiv 1609.05053 | 2016 | First limits on the occurrence rate of short-period planets orbiting brown dwarfs
+- **1× cited-seeds** | arXiv 1604.08701 | 2016 | POLARIMETRIC DETECTION OF EXOPLANETS TRANSITING T AND L BROWN DWARFS
+- **1× cited-seeds** | arXiv 1809.02380 | 2016 | Multiplicity and clustering in Taurus star forming region
+- **1× cited-seeds** | arXiv 1601.00907 | 2016 | Dust production in debris discs: constraints on the smallest grains
+- **1× cited-seeds** | arXiv 1607.00012 | 2016 | The slow spin of the young sub-stellar companion GQ Lupi b and its orbital configuration
+- **1× cited-seeds** | arXiv 1611.09800 | 2016 | MULTI-EPOCH DETECTIONS OF WATER ICE ABSORPTION IN EDGE-ON DISKS AROUND HERBIG Ae STARS: PDS 144N AND PDS 453
+- **1× cited-seeds** | arXiv 1610.00013 | 2016 | The compact Hα emitting regions of the Herbig Ae/Be stars HD 179218 and HD 141569 from CHARA spectro-interferometry
+- **1× cited-seeds** | arXiv 1510.01482 | 2015 | Understanding the water emission in the mid- and far-IR from protoplanetary disks around T Tauri stars
+- **1× cited-seeds** | arXiv 1502.03027 | 2015 | Probing the accretion-ejection connection with VLTI/AMBER. High spectral resolution observations of the Herbig Ae star HD 163296
+- **1× cited-seeds** | arXiv 1502.01607 | 2015 | Detection of Keplerian dynamics in a disk around the post-AGB star AC Herculis
+- **1× cited-seeds** | arXiv 1501.02808 | 2015 | SIGNATURES OF MRI-DRIVEN TURBULENCE IN PROTOPLANETARY DISKS: PREDICTIONS FOR ALMA OBSERVATIONS
+- **1× cited-seeds** | arXiv 1511.05965 | 2015 | The frequency of accretion disks around single stars: Chamaeleon I
+- **1× cited-seeds** | arXiv 1506.05132 | 2015 | Protoplanetary Disk Evolution: Singles vs. Binaries
+- **1× cited-seeds** | arXiv 1501.01396 | 2015 | NEW EXTINCTION AND MASS ESTIMATES FROM OPTICAL PHOTOMETRY OF THE VERY LOW MASS BROWN DWARF COMPANION CT CHAMAELEONTIS B WITH THE MAGELLAN AO SYSTEM
+- **1× cited-seeds** | arXiv 1511.01083 | 2015 | A SEARCH FOR RINGED EXOPLANETS USING KEPLER PHOTOMETRY
+- **1× cited-seeds** | arXiv 1511.00934 | 2015 | DETAILED ABUNDANCES OF STARS WITH SMALL PLANETS DISCOVERED BY KEPLER. I. THE FIRST SAMPLE
+- **1× cited-seeds** | arXiv 1509.00872 | 2015 | Detectability of planetesimal impacts on giant exoplanets
+- **1× cited-seeds** | arXiv 1506.02560 | 2015 | Dependence of fragmentation in self-gravitating accretion discs on small scale structure
+- **1× cited-seeds** | arXiv 1506.03185 | 2015 | THE DYNAMICAL EVOLUTION OF LOW-MASS HYDROGEN-BURNING STARS, BROWN DWARFS, AND PLANETARY-MASS OBJECTS FORMED THROUGH DISK FRAGMENTATION
+- **1× cited-seeds** | arXiv 1504.04624 | 2015 | SIGNATURES OF PLANETS AND PROTOPLANETS IN THE GALACTIC CENTER: A CLUE TO UNDERSTANDING THE G2 CLOUD?
+- **1× cited-seeds** | arXiv 1504.00096 | 2015 | HIGH-RESOLUTION 25 μM IMAGING OF THE DISKS AROUND HERBIG AE/BE STARS
+- **1× cited-seeds** | arXiv 1504.05197 | 2015 | The inner environment of Z Canis Majoris: High-contrast imaging polarimetry with NaCo
+- **1× cited-seeds** | arXiv — | 2015 | Direct-Imaging, Planets
+- **1× cited-seeds** | arXiv 1508.07013 | 2015 | ALMA OBSERVATIONS OF THE TRANSITION FROM INFALL MOTION TO KEPLERIAN ROTATION AROUND THE LATE-PHASE PROTOSTAR TMC-1A
+- **1× cited-seeds** | arXiv 1509.04672 | 2015 | LAMBDA BOO ABUNDANCE PATTERNS: ACCRETION FROM ORBITING SOURCES
+- **1× cited-seeds** | arXiv 1506.07242 | 2015 | BIMODALITY OF CIRCUMSTELLAR DISK EVOLUTION INDUCED BY THE HALL CURRENT
+- **1× cited-seeds** | arXiv 1506.02771 | 2015 | RADIAL VELOCITY VARIABILITY OF FIELD BROWN DWARFS
+- **1× cited-seeds** | arXiv — | 2015 | On the interaction between embedded planets and the corotation region of protoplanetary discs
+- **1× cited-seeds** | arXiv 1510.03093 | 2015 | Inner disk clearing around the Herbig Ae star HD\,139614: Evidence for a planet-induced gap ?
+- **1× cited-seeds** | arXiv 1508.07004 | 2015 | THE DISTRIBUTION AND CHEMISTRY OF H2CO IN THE DM TAU PROTOPLANETARY DISK
+- **1× cited-seeds** | arXiv 1507.01935 | 2015 | Far-infrared signatures and inner hole sizes of protoplanetary discs undergoing inside-out dust dispersal
+- **1× cited-seeds** | arXiv 1504.05198 | 2015 | Demographics of transition discs in Ophiuchus and Taurus
+- **1× cited-seeds** | arXiv 1504.02365 | 2015 | Tidal Downsizing model - III. Planets from sub-Earths to brown dwarfs: structure and metallicity preferences
+- **1× cited-seeds** | arXiv 1504.00562 | 2015 | USING FUV TO IR VARIABILITY TO PROBE THE STAR–DISK CONNECTION IN THE TRANSITIONAL DISK OF GM AUR
+- **1× cited-seeds** | arXiv 1502.07213 | 2015 | Non-linear propagation of kink waves to the solar chromosphere
+- **1× cited-seeds** | arXiv 1512.03945 | 2015 | DUST COAGULATION IN THE VICINITY OF A GAP-OPENING JUPITER-MASS PLANET
+- **1× cited-seeds** | arXiv 1504.06040 | 2015 | A SCUBA-2 850-μm survey of protoplanetary discs in the IC 348 cluster
+- **1× cited-seeds** | arXiv 1502.05084 | 2015 | Near-IR imaging of T Cha: evidence for scattered-light disc structures at Solar system scales
+- **1× cited-seeds** | arXiv 1501.01305 | 2015 | KEPLER-445, KEPLER-446 AND THE OCCURRENCE OF COMPACT MULTIPLES ORBITING MID-M DWARF STARS
+- **1× cited-seeds** | arXiv 1512.00009 | 2015 | THE MASS AND SIZE DISTRIBUTION OF PLANETESIMALS FORMED BY THE STREAMING INSTABILITY. I. THE ROLE OF SELF-GRAVITY
+- **1× cited-seeds** | arXiv 1506.03820 | 2015 | HNC IN PROTOPLANETARY DISKS
+- **1× cited-seeds** | arXiv 1506.03510 | 2015 | VOLATILE DEPLETION IN THE TW HYDRAE DISK ATMOSPHERE
+- **1× cited-seeds** | arXiv 1509.04859 | 2015 | Spiral-driven accretion in protoplanetary discs - I. 2D models
+- **1× cited-seeds** | arXiv — | 2015 | A multi-wavelength study of protoplanetary disks with astronomical unit resolution
+- **1× cited-seeds** | arXiv 1509.08589 | 2015 | The Impact of Initial Conditions in N-Body Simulations of Debris Discs
+- **1× cited-seeds** | arXiv 1512.01159 | 2015 | VERTICAL STRUCTURE OF MAGNETIZED ACCRETION DISKS AROUND YOUNG STARS
+- **1× cited-seeds** | arXiv 1510.01323 | 2015 | FORMING THE COLD CLASSICAL KUIPER BELT IN A LIGHT DISK
+- **1× cited-seeds** | arXiv — | 2015 | Interferometry and the study of protoplanetary disks
+- **1× cited-seeds** | arXiv 1510.06703 | 2015 | An Overview of Inside-Out Planet Formation
+- **1× cited-seeds** | arXiv 1505.01309 | 2015 | Chemistry in Protoplanetary Disks: the gas-phase CO/H2 ratio and the Carbon reservoir
+- **1× cited-seeds** | arXiv 1607.01425 | 2015 | Revolutionizing our View of Protostellar Multiplicity and Disks: The VLA Nascent Disk and Multiplicity (VANDAM) Survey of the Perseus Molecular Cloud
+- **1× cited-seeds** | arXiv 1503.05189 | 2015 | A SUB-ARCSECOND SURVEY TOWARD CLASS 0 PROTOSTARS IN PERSEUS: SEARCHING FOR SIGNATURES OF PROTOSTELLAR DISKS
+- **1× cited-seeds** | arXiv 1510.04368 | 2015 | ARTIFICIAL INCOHERENT SPECKLES ENABLE PRECISION ASTROMETRY AND PHOTOMETRY IN HIGH-CONTRAST IMAGING
+- **1× cited-seeds** | arXiv 1508.04518 | 2015 | HIGHLY STABLE EVOLUTION OF EARTH'S FUTURE ORBIT DESPITE CHAOTIC BEHAVIOR OF THE SOLAR SYSTEM
+- **1× cited-seeds** | arXiv 1506.05047 | 2015 | Coronagraph-integrated wavefront sensing with a sparse aperture mask
+- **1× cited-seeds** | arXiv 1501.05652 | 2015 | MODELING GIANT EXTRASOLAR RING SYSTEMS IN ECLIPSE AND THE CASE OF J1407B: SCULPTING BY EXOMOONS?
+- **1× cited-seeds** | arXiv 1505.07732 | 2015 | ACCRETION KINEMATICS THROUGH THE WARPED TRANSITION DISK IN HD 142527 FROM RESOLVED CO(6–5) OBSERVATIONS
+- **1× cited-seeds** | arXiv 1505.03392 | 2015 | PROTOPLANETARY DISKS INCLUDING RADIATIVE FEEDBACK FROM ACCRETING PLANETS
+- **1× cited-seeds** | arXiv 1503.05561 | 2015 | THREE-DIMENSIONAL MHD SIMULATION OF CIRCUMBINARY ACCRETION DISKS. II. NET ACCRETION RATE
+- **1× cited-seeds** | arXiv 1510.01594 | 2015 | Herschel-PACS observations of discs in the η Chamaeleontis association
+- **1× cited-seeds** | arXiv 1508.00903 | 2015 | VORTEX FORMATION AND EVOLUTION IN PLANET HARBORING DISKS UNDER THERMAL RELAXATION
+- **1× cited-seeds** | arXiv 1507.01007 | 2015 | Smoothed particle hydrodynamics simulations of gas and dust mixtures
+- **1× cited-seeds** | arXiv — | 2015 | Quasi-steady vortices in protoplanetary disks - I. From dwarfs to giants
+- **1× cited-seeds** | arXiv — | 2015 | ORBITAL SURVIVAL OF METER-SIZE AND LARGER BODIES DURING GRAVITATIONALLY UNSTABLE PHASES OF PROTOPLANETARY DISK EVOLUTION
+- **1× cited-seeds** | arXiv 1503.06945 | 2015 | Jupiter’s decisive role in the inner Solar System’s early evolution
+- **1× cited-seeds** | arXiv 1501.05364 | 2015 | PARTICLE TRAPPING AND STREAMING INSTABILITY IN VORTICES IN PROTOPLANETARY DISKS
+- **1× cited-seeds** | arXiv 1501.05314 | 2015 | How to form planetesimals from mm-sized chondrules and chondrule aggregates
+- **1× cited-seeds** | arXiv 1501.00984 | 2015 | Chemistry in disks. IX. Observations and modelling of HCO+ and DCO+ in DM Tauri
+- **1× cited-seeds** | arXiv 1501.00291 | 2015 | Motivation and challenge to capture both large-scale and local transport in next generation accretion theory
+- **1× cited-seeds** | arXiv 1505.03704 | 2015 | DUST DYNAMICS IN PROTOPLANETARY DISK WINDS DRIVEN BY MAGNETOROTATIONAL TURBULENCE: A MECHANISM FOR FLOATING DUST GRAINS WITH CHARACTERISTIC SIZES
+- **1× cited-seeds** | arXiv 1511.03313 | 2015 | CYANIDE PHOTOCHEMISTRY AND NITROGEN FRACTIONATION IN THE MWC 480 DISK
+- **1× cited-seeds** | arXiv — | 2015 | Stellar-coronagraph observations of the phase curves of exoplanets
+- **1× cited-seeds** | arXiv 1502.01346 | 2015 | The brown dwarf atmosphere monitoring (BAM) project – II. Multi-epoch monitoring of extremely cool brown dwarfs
+- **1× cited-seeds** | arXiv 1505.06347 | 2015 | The comet-like composition of a protoplanetary disk as revealed by complex cyanides
+- **1× cited-seeds** | arXiv 1504.00460 | 2015 | BIRTH LOCATIONS OF THE KEPLER CIRCUMBINARY PLANETS
+- **1× cited-seeds** | arXiv 1506.02613 | 2015 | Evolutionary stages and disk properties of young stellar objects in the Perseus cloud
+- **1× cited-seeds** | arXiv 1501.04144 | 2015 | FIRST-LIGHT LBT NULLING INTERFEROMETRIC OBSERVATIONS: WARM EXOZODIACAL DUST RESOLVED WITHIN A FEW AU OF η Crv
+- **1× cited-seeds** | arXiv 1501.05204 | 2015 | Identification of new transitional disk candidates in Lupus with Herschel
+- **1× cited-seeds** | arXiv 1612.02824 | 2015 | A SEARCH FOR L/T TRANSITION DWARFS WITH PAN-STARRS1 AND WISE. II. L/T TRANSITION ATMOSPHERES AND YOUNG DISCOVERIES
+- **1× cited-seeds** | arXiv 1502.06597 | 2015 | ON THE GAP-OPENING CRITERION OF MIGRATING PLANETS IN PROTOPLANETARY DISKS
+- **1× cited-seeds** | arXiv 1603.04580 | 2015 | The origin of the Solar System in the field of a standing sound wave
+- **1× cited-seeds** | arXiv — | 2015 | Remote sensing of life: polarimetric signatures of photosynthetic pigments as sensitive biomarkers
+- **1× cited-seeds** | arXiv 1506.07517 | 2015 | RESOLVING THE DELTA ANDROMEDAE SPECTROSCOPIC BINARY WITH DIRECT IMAGING
+- **1× cited-seeds** | arXiv 1510.07083 | 2015 | RESOLVING GAS FLOWS IN THE ULTRALUMINOUS STARBURST IRAS 23365+3604 WITH KECK LGSAO/OSIRIS
+- **1× cited-seeds** | arXiv 1506.07657 | 2015 | Search for signatures of dust in the Pluto-Charon system using Herschel/PACS observations
+- **1× cited-seeds** | arXiv 1508.06290 | 2015 | First light with ALES: A 2-5 micron adaptive optics Integral Field Spectrograph for the LBT
+- **1× cited-seeds** | arXiv 1512.02276 | 2015 | Monte-Carlo radiative transfer simulation of the circumstellar disk of the Herbig Ae star HD 144432
+- **1× cited-seeds** | arXiv 1511.07762 | 2015 | A panoptic model for planetesimal formation and pebble delivery
+- **1× cited-seeds** | arXiv 1511.05687 | 2015 | MAPPING CO GAS IN THE GG TAURI A TRIPLE SYSTEM WITH 50 au SPATIAL RESOLUTION
+- **1× cited-seeds** | arXiv 1509.00316 | 2015 | ORIGIN AND KINEMATICS OF THE ERUPTIVE FLOW FROM XZ TAU REVEALED BY ALMA
+- **1× cited-seeds** | arXiv 1507.02328 | 2015 | The Composition of the Protosolar Disk and the Formation Conditions for Comets
+- **1× cited-seeds** | arXiv 1506.01420 | 2015 | GLOBAL MODELING OF NEBULAE WITH PARTICLE GROWTH, DRIFT, AND EVAPORATION FRONTS. I. METHODOLOGY AND TYPICAL RESULTS
+- **1× cited-seeds** | arXiv 1505.00882 | 2015 | EVIDENCE OF FAST PEBBLE GROWTH NEAR CONDENSATION FRONTS IN THE HL TAU PROTOPLANETARY DISK
+- **1× cited-seeds** | arXiv — | 2015 | Low-Mass Star Formation: From Molecular Cloud Cores to Protostars and Protoplanetary Disks
+- **1× cited-seeds** | arXiv 1502.05099 | 2015 | DYNAMICAL STABILITY OF IMAGED PLANETARY SYSTEMS IN FORMATION: APPLICATION TO HL TAU
+- **1× cited-seeds** | arXiv 1512.02965 | 2015 | TWO NEW LONG-PERIOD GIANT PLANETS FROM THE MCDONALD OBSERVATORY PLANET SEARCH AND TWO STARS WITH LONG-PERIOD RADIAL VELOCITY SIGNALS RELATED TO STELLAR ACTIVITY CYCLES
+- **1× cited-seeds** | arXiv 1511.07590 | 2015 | DR Tau: Temporal variability of the brightness distribution in the potential planet-forming region
+- **1× cited-seeds** | arXiv 1511.04266 | 2015 | X-raying Circumstellar Material around Young Stars
+- **1× cited-seeds** | arXiv — | 2015 | Planetary Imaging Concept Testbed Using a Recoverable Experiment–Coronagraph (PICTURE C)
+- **1× cited-seeds** | arXiv 1507.02388 | 2015 | A VENUS-MASS PLANET ORBITING A BROWN DWARF: A MISSING LINK BETWEEN PLANETS AND MOONS
+- **1× cited-seeds** | arXiv 1512.06467 | 2015 | HERSCHEL OBSERVATIONS OF MAJOR MERGER PAIRS AT z = 0: DUST MASS AND STAR FORMATION
+- **1× cited-seeds** | arXiv 1511.03715 | 2015 | Extreme Contrast Ratio Imaging of Sirius with a Charge Injection Device
+- **1× cited-seeds** | arXiv 1407.4417 | 2014 | VARIABLE ACCRETION PROCESSES IN THE YOUNG BINARY-STAR SYSTEM UY AUR
+- **1× cited-seeds** | arXiv 1404.2870 | 2014 | First spectroscopic observations of the substellar companion of the young debris disk star PZ Telescopii
+- **1× cited-seeds** | arXiv 1407.4181 | 2014 | NEXT GENERATION OF TELESCOPES OR DYNAMICS REQUIRED TO DETERMINE IF EXO-MOONS HAVE PROGRADE OR RETROGRADE ORBITS
+- **1× cited-seeds** | arXiv 1410.8114 | 2014 | PLANET HUNTERS. VII. DISCOVERY OF A NEW LOW-MASS, LOW-DENSITY PLANET (PH3 C) ORBITING KEPLER-289 WITH MASS MEASUREMENTS OF TWO ADDITIONAL PLANETS (PH3 B AND D)
+- **1× cited-seeds** | arXiv 1409.4430 | 2014 | CHALLENGES IN FORMING THE SOLAR SYSTEM'S GIANT PLANET CORES VIA PEBBLE ACCRETION
+- **1× cited-seeds** | arXiv 1404.3157 | 2014 | Architectures of planetary systems and implications for their formation
+- **1× cited-seeds** | arXiv 1403.7005 | 2014 | OGLE-2008-BLG-355Lb: A MASSIVE PLANET AROUND A LATE-TYPE STAR
+- **1× cited-seeds** | arXiv 1402.5969 | 2014 | Impacts of planet migration models on planetary populations Effects of saturation, cooling and stellar irradiation
+- **1× cited-seeds** | arXiv 1401.6742 | 2014 | Wobbling Ancient Binaries - Here Be Planets?
+- **1× cited-seeds** | arXiv — | 2014 | Companion Signal to Noise Calculation
+- **1× cited-seeds** | arXiv 1407.7895 | 2014 | On-sky low order non-common path correction of the GPI calibration unit
+- **1× cited-seeds** | arXiv 1406.3805 | 2014 | The masses of young stars: CN as a probe of dynamical masses
+- **1× cited-seeds** | arXiv 1405.6988 | 2014 | Dynamical star-disk interaction in the young stellar system V354 Monocerotis
+- **1× cited-seeds** | arXiv 1404.0728 | 2014 | Multi-epoch sub-arcsecond [Fe II] spectroimaging of the DG Tau outflows with NIFS - I. First data epoch
+- **1× cited-seeds** | arXiv 1406.5587 | 2014 | GJ 832c: A SUPER-EARTH IN THE HABITABLE ZONE
+- **1× cited-seeds** | arXiv 1404.7506 | 2014 | Fast spin of the young extrasolar planet β Pictoris b
+- **1× cited-seeds** | arXiv 1405.0821 | 2014 | Grain growth in the envelopes and disks of Class I protostars
+- **1× cited-seeds** | arXiv 1408.6087 | 2014 | Separating gas-giant and ice-giant planets by halting pebble accretion
+- **1× cited-seeds** | arXiv 1406.6882 | 2014 | NIRISS aperture masking interferometry: an overview of science opportunities
+- **1× cited-seeds** | arXiv — | 2014 | Planetary system formation in thermally evolving viscous protoplanetary discs
+- **1× cited-seeds** | arXiv 1401.1499 | 2014 | THE ATMOSPHERES OF EARTHLIKE PLANETS AFTER GIANT IMPACT EVENTS
+- **1× cited-seeds** | arXiv 1407.3494 | 2014 | Nonaxisymmetric instabilities in self-gravitating disks. II. Linear and quasi-linear analyses
+- **1× cited-seeds** | arXiv 1411.1403 | 2014 | THE EFFECTS OF INITIAL ABUNDANCES ON NITROGEN IN PROTOPLANETARY DISKS
+- **1× cited-seeds** | arXiv 1411.0687 | 2014 | Precession and accretion in circumbinary discs: the case of HD 104237
+- **1× cited-seeds** | arXiv 1409.7398 | 2014 | The ancient heritage of water ice in the solar system
+- **1× cited-seeds** | arXiv 1408.2835 | 2014 | EXCLUSION OF COSMIC RAYS IN PROTOPLANETARY DISKS. II. CHEMICAL GRADIENTS AND OBSERVATIONAL SIGNATURES
+- **1× cited-seeds** | arXiv 1406.1428 | 2014 | Gas content of transitional disks: a VLT/X-Shooter study of accretion and winds
+- **1× cited-seeds** | arXiv 1405.7180 | 2014 | Constraints to the magnetospheric properties of T Tauri stars – I. The C ii], Fe ii] and Si ii] ultraviolet features
+- **1× cited-seeds** | arXiv 1405.3833 | 2014 | The Herschel view of circumstellar discs : a multiwavelength study of Chamaeleon-I
+- **1× cited-seeds** | arXiv 1404.4990 | 2014 | N-BODY SIMULATIONS OF TERRESTRIAL PLANET FORMATION UNDER THE INFLUENCE OF A HOT JUPITER
+- **1× cited-seeds** | arXiv 1403.6433 | 2014 | Intermediate-mass black holes in AGN discs – II. Model predictions and observational constraints
+- **1× cited-seeds** | arXiv 1402.6341 | 2014 | HIGH-RESOLUTION ULTRAVIOLET RADIATION FIELDS OF CLASSICAL T TAURI STARS
+- **1× cited-seeds** | arXiv 1401.7522 | 2014 | Migration of Ca II H bright points in the internetwork
+- **1× cited-seeds** | arXiv 1410.6577 | 2014 | Mass and period limits on the ringed companion transiting the young star J1407
+- **1× cited-seeds** | arXiv 1410.4561 | 2014 | Stellar orbit evolution in close circumstellar disc encounters
+- **1× cited-seeds** | arXiv 1409.0804 | 2014 | NIR SPECTROSCOPY OF THE HAeBe STAR HD 100546. III. FURTHER EVIDENCE OF AN ORBITING COMPANION?
+- **1× cited-seeds** | arXiv 1407.7032 | 2014 | Planet formation imager (PFI): introduction and technical considerations
+- **1× cited-seeds** | arXiv 1407.7036 | 2014 | A dispersed heterodyne design for the planet formation imager
+- **1× cited-seeds** | arXiv 1407.2310 | 2014 | Gemini planet imager observational calibrations X: non-redundant masking on GPI
+- **1× cited-seeds** | arXiv 1410.3570 | 2014 | ALMA OBSERVATIONS OF A MISALIGNED BINARY PROTOPLANETARY DISK SYSTEM IN ORION
+- **1× cited-seeds** | arXiv 1405.3291 | 2014 | GRAVITO-TURBULENT DISKS IN THREE DIMENSIONS: TURBULENT VELOCITIES VERSUS DEPTH
+- **1× cited-seeds** | arXiv 1402.3308 | 2014 | ON THE EVOLUTION OF THE CO SNOW LINE IN PROTOPLANETARY DISKS
+- **1× cited-seeds** | arXiv 1410.8134 | 2014 | THE VLA NASCENT DISK AND MULTIPLICITY (VANDAM) SURVEY OF PERSEUS PROTOSTARS. RESOLVING THE SUB-ARCSECOND BINARY SYSTEM IN NGC 1333 IRAS2A
+- **1× cited-seeds** | arXiv 1408.5429 | 2014 | Evidence for large grains in the star-forming filament OMC 2/3
+- **1× cited-seeds** | arXiv 1405.6850 | 2014 | MULTIPLE AND FAST: THE ACCRETION OF ORDINARY CHONDRITE PARENT BODIES
+- **1× cited-seeds** | arXiv 1401.6035 | 2014 | CHEMODYNAMICAL DEUTERIUM FRACTIONATION IN THE EARLY SOLAR NEBULA: THE ORIGIN OF WATER ON EARTH AND IN ASTEROIDS AND COMETS
+- **1× cited-seeds** | arXiv 1408.4248 | 2014 | S4: A SPATIAL-SPECTRAL MODEL FOR SPECKLE SUPPRESSION
+- **1× cited-seeds** | arXiv 1407.2247 | 2014 | FUNDAMENTAL LIMITATIONS OF HIGH CONTRAST IMAGING SET BY SMALL SAMPLE STATISTICS
+- **1× cited-seeds** | arXiv 1412.4632 | 2014 | SHADOWS CAST BY A WARP IN THE HD 142527 PROTOPLANETARY DISK
+- **1× cited-seeds** | arXiv 1410.4870 | 2014 | EXTERNAL PHOTOEVAPORATION OF THE SOLAR NEBULA: JUPITER's NOBLE GAS ENRICHMENTS
+- **1× cited-seeds** | arXiv 1405.6966 | 2014 | A CO SURVEY IN PLANET-FORMING DISKS: CHARACTERIZING THE GAS CONTENT IN THE EPOCH OF PLANET FORMATION
+- **1× cited-seeds** | arXiv 1411.3236 | 2014 | Vortex cycles at the inner edges of dead zones in protoplanetary disks
+- **1× cited-seeds** | arXiv 1411.2735 | 2014 | Planet-induced disk structures: A comparison between (sub)mm and infrared radiation
+- **1× cited-seeds** | arXiv 1406.6369 | 2014 | Science case and requirements for the MOSAIC concept for a multi-object spectrograph for the European Extremely Large Telescope
+- **1× cited-seeds** | arXiv — | 2014 | Imaging the disk around IRAS 20126+4104 at subarcsecond resolution ?
+- **1× cited-seeds** | arXiv — | 2014 | Shearing waves and the MRI dynamo in stratified accretion discs
+- **1× cited-seeds** | arXiv 1403.1675 | 2014 | AN OPTICAL SPECTROSCOPIC STUDY OF T TAURI STARS. I. PHOTOSPHERIC PROPERTIES
+- **1× cited-seeds** | arXiv 1406.3261 | 2014 | MULTI-BAND, MULTI-EPOCH OBSERVATIONS OF THE TRANSITING WARM JUPITER WASP-80b
+- **1× cited-seeds** | arXiv 1407.8211 | 2014 | Misaligned protoplanetary disks in a young binary star system
+- **1× cited-seeds** | arXiv 1407.5099 | 2014 | Direct imaging of exoplanets in the habitable zone with adaptive optics
+- **1× cited-seeds** | arXiv 1407.5096 | 2014 | Into the blue: AO science with MagAO in the visible
+- **1× cited-seeds** | arXiv 1406.5664 | 2014 | A magnetic reconnection model for explaining the multiwavelength emission of the microquasars Cyg X-1 and Cyg X-3
+- **1× cited-seeds** | arXiv 1409.0572 | 2014 | Herschel/PACS photometry of transiting-planet host stars with candidate warm debris disks
+- **1× cited-seeds** | arXiv — | 2014 | The LBTI hunt for observable signatures of terrestrial systems (HOSTS) survey: a key NASA science program on the road to exoplanet imaging missions
+- **1× cited-seeds** | arXiv 1410.6542 | 2014 | VOLATILE-RICH CIRCUMSTELLAR GAS IN THE UNUSUAL 49 CETI DEBRIS DISK
+- **1× cited-seeds** | arXiv 1410.4864 | 2014 | BANYAN. V. A SYSTEMATIC ALL-SKY SURVEY FOR NEW VERY LATE-TYPE LOW-MASS STARS AND BROWN DWARFS IN NEARBY YOUNG MOVING GROUPS
+- **1× cited-seeds** | arXiv 1412.8421 | 2014 | A Quick Study of Science Return from Direct Imaging Exoplanet Missions: Detection and Characterization of Circumstellar Material with an AFTA or EXO-C/S CGI
+- **1× cited-seeds** | arXiv — | 2014 | Planetary surface photometry and imaging: progress and perspectives
+- **1× cited-seeds** | arXiv 1407.2301 | 2014 | Gemini Planet Imager observational calibrations I: Overview of the GPI data reduction pipeline
+- **1× cited-seeds** | arXiv 1412.4636 | 2014 | ON THE ASYMMETRY OF THE OH RO-VIBRATIONAL LINES IN HD 100546
+- **1× cited-seeds** | arXiv 1404.3957 | 2014 | A multiple system of high-mass YSOs surrounded by disks in NGC 7538 IRS1 - Gas dynamics on scales of 10–700 AU from CH3OH maser and NH3 thermal lines
+- **1× cited-seeds** | arXiv 1411.1858 | 2014 | Herschel/PACS view of disks around low-mass stars and brown dwarfs in the TW Hydrae association
+- **1× cited-seeds** | arXiv 1405.7959 | 2014 | CONSTRAINING THE DISK MASSES OF THE CLASS I BINARY PROTOSTAR GV Tau
+- **1× cited-seeds** | arXiv 1407.8018 | 2014 | Impact of planet–planet scattering on the formation and survival of debris discs
+- **1× cited-seeds** | arXiv 1407.4802 | 2014 | The taurus boundary of stellar/substellar (TBOSS) survey: I. Far-IR disk emission measured with herschel
+- **1× cited-seeds** | arXiv 1404.0213 | 2014 | A SEARCH FOR COMPANIONS TO BROWN DWARFS IN THE TAURUS AND CHAMAELEON STAR-FORMING REGIONS
+- **1× cited-seeds** | arXiv 1401.1935 | 2014 | The TW Hydrae association: trigonometric parallaxes and kinematic analysis ?
+- **1× cited-seeds** | arXiv — | 2014 | Influence of Dust Grain Evolution on the Structure of Protoplanetary Disks.
+- **1× cited-seeds** | arXiv 1409.5128 | 2014 | MAXIMIZING THE ExoEarth CANDIDATE YIELD FROM A FUTURE DIRECT IMAGING MISSION
+- **1× cited-seeds** | arXiv 1401.0545 | 2014 | ACTIVE GALACTIC NUCLEUS AND QUASAR SCIENCE WITH APERTURE MASKING INTERFEROMETRY ON THE JAMES WEBB SPACE TELESCOPE
+- **1× cited-seeds** | arXiv 1412.1311 | 2014 | The structure of disks around Herbig Ae/Be stars as traced by CO ro-vibrational emission
+- **1× cited-seeds** | arXiv 1302.0251 | 2013 | FIRST DETECTION OF c-C3H2 IN A CIRCUMSTELLAR DISK
+- **1× cited-seeds** | arXiv 1306.0935 | 2013 | Quick-MESS: A Fast Statistical Tool for Exoplanet Imaging Surveys
+- **1× cited-seeds** | arXiv 1304.1150 | 2013 | Protoplanetary disk evolution and stellar parameters of T Tauri binaries in Chamaeleon I
+- **1× cited-seeds** | arXiv 1307.7038 | 2013 | THE SOLAR NEIGHBORHOOD XXIX: THE HABITABLE REAL ESTATE OF OUR NEAREST STELLAR NEIGHBORS
+- **1× cited-seeds** | arXiv 1307.4117 | 2013 | AN ASTROMETRIC SEARCH FOR A SUB-STELLAR COMPANION OF THE M8.5 DWARF TVLM 513−46546 USING VERY LONG BASELINE INTERFEROMETRY
+- **1× cited-seeds** | arXiv 1306.1006 | 2013 | Prospects of detecting the polarimetric signature of the Earth-mass planet alpha Centauri B b with S
+- **1× cited-seeds** | arXiv 1305.0571 | 2013 | THE TRENDS HIGH-CONTRAST IMAGING SURVEY. III. A FAINT WHITE DWARF COMPANION ORBITING HD 114174
+- **1× cited-seeds** | arXiv 1312.3323 | 2013 | Structure of exoplanets
+- **1× cited-seeds** | arXiv — | 2013 | Direct imaging of exoplanetary systems with a monolithic multispectral camera
+- **1× cited-seeds** | arXiv 1307.4347 | 2013 | A broad-band scalar vortex coronagraph
+- **1× cited-seeds** | arXiv 1307.3257 | 2013 | IONIZATION IN ATMOSPHERES OF BROWN DWARFS AND EXTRASOLAR PLANETS. IV. THE EFFECT OF COSMIC RAYS
+- **1× cited-seeds** | arXiv 1305.1916 | 2013 | Computer vision applications for coronagraphic optical alignment and image processing.
+- **1× cited-seeds** | arXiv 1304.4762 | 2013 | The formation of systems with closely spaced low-mass planets and the application to Kepler-36
+- **1× cited-seeds** | arXiv — | 2013 | A wide planetary-mass companion to a young M3 star of the AB Dor moving group
+- **1× cited-seeds** | arXiv 1303.0121 | 2013 | Coronagraphic phase diversity: performance study and laboratory demonstration
+- **1× cited-seeds** | arXiv 1305.3270 | 2013 | Infrared parallaxes of young field brown dwarfs and connections to directly imaged gas‐giant exoplanets
+- **1× cited-seeds** | arXiv 1301.5884 | 2013 | On high-contrast characterization of nearby, short-period exoplanets with giant segmented-mirror telescopes
+- **1× cited-seeds** | arXiv 1303.1704 | 2013 | The color dependent morphology of the post-AGB star HD 161796
+- **1× cited-seeds** | arXiv — | 2013 | Resolved Scattered Light Images of the Edge-On Protoplanetary Disk ESO Hα 569
+- **1× cited-seeds** | arXiv — | 2013 | Panchromatic imaging and modeling of SSTtau J042021+281349: A new prototypical edge-on protoplanetary disk
+- **1× cited-seeds** | arXiv 1307.3456 | 2013 | Probing the temporal and spatial variations of dust emission in the protoplanetary disk of DG Tau with VLTI/MIDI - Preliminary results
+- **1× cited-seeds** | arXiv 1312.0924 | 2013 | Herschel/HIFI observations of ionised carbon in the β Pictoris debris disk
+- **1× cited-seeds** | arXiv 1311.4298 | 2013 | Searching for companions down to 2 AU from β Pictoris using the L′-band AGPM coronagraph on VLT/NACO
+- **1× cited-seeds** | arXiv 1310.8481 | 2013 | A Keplerian disk around a Class 0 source: ALMA observations of VLA1623A
+- **1× cited-seeds** | arXiv 1311.0280 | 2013 | THE TRENDS HIGH-CONTRAST IMAGING SURVEY. V. DISCOVERY OF AN OLD AND COLD BENCHMARK T-DWARF ORBITING THE NEARBY G-STAR HD 19467
+- **1× cited-seeds** | arXiv — | 2013 | Campaign Scheduling and Analysis for the Gemini Planet Imager
+- **1× cited-seeds** | arXiv 1301.3145 | 2013 | Planetary system disruption by Galactic perturbations to wide binary stars
+- **1× cited-seeds** | arXiv 1303.6805 | 2013 | Kinetic Scheme for Solving the M1 Model of Radiative Transfer
+- **1× cited-seeds** | arXiv 1301.2064 | 2013 | GLOBAL DRAG-INDUCED INSTABILITIES IN PROTOPLANETARY DISKS
+- **1× cited-seeds** | arXiv — | 2013 | Astronomical Polarimetry: Polarized Views of Stars and Planets
+- **1× cited-seeds** | arXiv 1309.0508 | 2013 | Characterizing thermal sweeping: a rapid disc dispersal mechanism
+- **1× cited-seeds** | arXiv 1309.1025 | 2013 | The effects of disc warping on the inclination of planetary orbits
+- **1× cited-seeds** | arXiv 1309.0018 | 2013 | RADIONUCLIDE IONIZATION IN PROTOPLANETARY DISKS: CALCULATIONS OF DECAY PRODUCT RADIATIVE TRANSFER
+- **1× cited-seeds** | arXiv 1307.2240 | 2013 | Testing protoplanetary disc dispersal with radio emission
+- **1× cited-seeds** | arXiv 1306.0902 | 2013 | EXCLUSION OF COSMIC RAYS IN PROTOPLANETARY DISKS: STELLAR AND MAGNETIC EFFECTS
+- **1× cited-seeds** | arXiv — | 2013 | A Herschel View of Dust Evolution in Protoplanetary Disks
+- **1× cited-seeds** | arXiv — | 2013 | Observations of inhomogeneities in protoplanetary disks
+- **1× cited-seeds** | arXiv 1303.3417 | 2013 | Mid-infrared observations of the circumstellar disks around PDS 66 and CRBR 2422.8-3423
+- **1× cited-seeds** | arXiv 1302.1389 | 2013 | Hydrogen-losing planets in transition discs around young protostars
+- **1× cited-seeds** | arXiv 1301.3015 | 2013 | The interplay between X-ray photoevaporation and planet formation
+- **1× cited-seeds** | arXiv 1301.0276 | 2013 | Pre-main-sequence binaries with tidally disrupted discs: the Brγ in HD 104237
+- **1× cited-seeds** | arXiv 1302.5275 | 2013 | Porous dust grains in debris disks
+- **1× cited-seeds** | arXiv — | 2013 | Wavelength calibration and closure phases with the Gemini Planet Imager IFS using its non-redundant mask
+- **1× cited-seeds** | arXiv 1311.7497 | 2013 | PHASE-REFERENCED INTERFEROMETRY AND NARROW-ANGLE ASTROMETRY WITH SUSI
+- **1× cited-seeds** | arXiv 1306.4074 | 2013 | Fragmenting protostellar discs: properties and observational signatures
+- **1× cited-seeds** | arXiv 1303.4138 | 2013 | Active asteroid belt causes the UXOR phenomenon in RZ Piscium
+- **1× cited-seeds** | arXiv 1302.6682 | 2013 | DANCING IN THE DARK: NEW BROWN DWARF BINARIES FROM KERNEL PHASE INTERFEROMETRY
+- **1× cited-seeds** | arXiv 1307.7439 | 2013 | Imaging of the CO Snow Line in a Solar Nebula Analog
+- **1× cited-seeds** | arXiv 1307.3420 | 2013 | ALMA imaging of the CO snowline of the HD 163296 disk with DCO
+- **1× cited-seeds** | arXiv 1309.6480 | 2013 | HIDING IN THE SHADOWS: SEARCHING FOR PLANETS IN PRE-TRANSITIONAL AND TRANSITIONAL DISKS
+- **1× cited-seeds** | arXiv — | 2013 | The multiple spirals in the disk of HD100546
+- **1× cited-seeds** | arXiv 1302.2622 | 2013 | Sculpting the disk around T Chamaeleontis: an interferometric view
+- **1× cited-seeds** | arXiv 1310.5865 | 2013 | Radiation magnetohydrodynamics in global simulations of protoplanetary discs
+- **1× cited-seeds** | arXiv 1310.5154 | 2013 | VLA AND CARMA OBSERVATIONS OF PROTOSTARS IN THE CEPHEUS CLOUDS: SUB-ARCSECOND PROTO-BINARIES FORMED VIA DISK FRAGMENTATION
+- **1× cited-seeds** | arXiv 1310.2637 | 2013 | Growing dust grains in protoplanetary discs – II. The radial-drift barrier problem
+- **1× cited-seeds** | arXiv 1307.7174 | 2013 | A SCUBA-2 850-μm survey of protoplanetary discs in the σ Orionis cluster
+- **1× cited-seeds** | arXiv 1305.3604 | 2013 | MODELING THE RESOLVED DISK AROUND THE CLASS 0 PROTOSTAR L1527
+- **1× cited-seeds** | arXiv 1304.4810 | 2013 | COLLIDING DECIMETER DUST
+- **1× cited-seeds** | arXiv 1307.4015 | 2013 | Submillimeter observations of IRAS and WISE debris disk candidates
+- **1× cited-seeds** | arXiv — | 2013 | Design of the CHARIS integral field spectrograph for exoplanet imaging
+- **1× cited-seeds** | arXiv 1309.4431 | 2013 | PULSE: The Palomar Ultraviolet Laser for the Study of Exoplanets
+- **1× cited-seeds** | arXiv — | 2013 | Substructure and Signs of Planet Formation in the Disk of HD 169142
+- **1× cited-seeds** | arXiv — | 2013 | CO(6-5) and [C i](2-1) pointed observations of five protoplanetary disks: Warm gas in HD 142527
+- **1× cited-seeds** | arXiv 1311.4177 | 2013 | Radial velocity variations in the young eruptive star EX Lupi
+- **1× cited-seeds** | arXiv 1309.3486 | 2013 | Structure, stability, and evolution of 3D Rossby vortices in protoplanetary disks
+- **1× cited-seeds** | arXiv 1308.4160 | 2013 | DIGIT survey of far-infrared lines from protoplanetary discs: II. CO
+- **1× cited-seeds** | arXiv 1307.5146 | 2013 | The long-wavelength view of GG Tau A: rocks in the ring world
+- **1× cited-seeds** | arXiv 1310.1936 | 2013 | OTS 44: Disk and accretion at the planetary border
+- **1× cited-seeds** | arXiv 1304.2262 | 2013 | Anisotropic illumination of a circumbinary disk in the presence of a low-mass companion
+- **1× cited-seeds** | arXiv 1306.2637 | 2013 | A young hierarchical triple system harbouring a candidate debris disc
+- **1× cited-seeds** | arXiv — | 2013 | Orbital motion of the binary brown dwarf companions HD 130948 BC around their host star
+- **1× cited-seeds** | arXiv 1307.6335 | 2013 | MICROLENSING DISCOVERY OF A TIGHT, LOW-MASS-RATIO PLANETARY-MASS OBJECT AROUND AN OLD FIELD BROWN DWARF
+- **1× cited-seeds** | arXiv 1306.3225 | 2013 | Astrometric orbit of a low-mass companion to an ultracool dwarf ?
+- **1× cited-seeds** | arXiv 1305.4590 | 2013 | Nearby M, L, and T Dwarfs Discovered by the Wide-field Infrared Survey Explorer (WISE)
+- **1× cited-seeds** | arXiv 1312.4045 | 2013 | The Hercules-Lyra association revisited - New age estimation and multiplicity study
+- **1× cited-seeds** | arXiv 1303.2268 | 2013 | Two new ultracool benchmark systems from WISE+2MASS
+- **1× cited-seeds** | arXiv 1301.3182 | 2013 | MAGNETICALLY CONTROLLED ACCRETION ON THE CLASSICAL T TAURI STARS GQ LUPI AND TW HYDRAE
+- **1× cited-seeds** | arXiv 1310.2428 | 2013 | A SUPER-JUPITER ORBITING A LATE-TYPE STAR: A REFINED ANALYSIS OF MICROLENSING EVENT OGLE-2012-BLG-0406
+- **1× cited-seeds** | arXiv 1310.2502 | 2013 | PLANETARY TRANSITS WITH THE ATACAMA LARGE MILLIMETER/SUBMILLIMETER ARRAY RADIO INTERFEROMETER
+- **1× cited-seeds** | arXiv 1305.2894 | 2013 | HERSCHEL OBSERVATIONS OF GAS AND DUST IN THE UNUSUAL 49 Ceti DEBRIS DISK
+- **1× cited-seeds** | arXiv — | 2013 | Analysis of the Chemical Composition of the Atmospheres of Stars with Debris Disks and Planetary Systems
+- **1× cited-seeds** | arXiv — | 2013 | First High-Angular Resolution L′ Images of the β Pictoris Debris Disc with the VLT / NaCo
+- **1× cited-seeds** | arXiv 1207.3969 | 2012 | Warm H2O and OH in the disk around the Herbig star HD 163296
+- **1× cited-seeds** | arXiv 1207.4022 | 2012 | Reverse rotation of the accretion disk in RW Aur A: Observations and a physical model
+- **1× cited-seeds** | arXiv 1204.0241 | 2012 | High-contrast spectroscopy of SCR J1845-6357 B
+- **1× cited-seeds** | arXiv 1206.6353 | 2012 | ON THE AGE AND BINARITY OF FOMALHAUT
+- **1× cited-seeds** | arXiv — | 2012 | Space telescope sensitivity and controls for exoplanet imaging
+- **1× cited-seeds** | arXiv 1211.3782 | 2012 | MOA-2010-BLG-073L: AN M-DWARF WITH A SUBSTELLAR COMPANION AT THE PLANET/BROWN DWARF BOUNDARY
+- **1× cited-seeds** | arXiv 1210.4163 | 2012 | The prevalence of dust on the exoplanet HD 189733b from Hubble and Spitzer observations
+- **1× cited-seeds** | arXiv 1208.2273 | 2012 | PRECISE DOPPLER MONITORING OF BARNARD'S STAR
+- **1× cited-seeds** | arXiv 1207.4477 | 2012 | THE EFFECTS OF VIEWING ANGLE ON THE MASS DISTRIBUTION OF EXOPLANETS
+- **1× cited-seeds** | arXiv 1207.3141 | 2012 | Substellar Companions to Seven Evolved Intermediate-Mass Stars
+- **1× cited-seeds** | arXiv — | 2012 | An active coronagraph using a liquid crystal array for exoplanet imaging: principle and testing
+- **1× cited-seeds** | arXiv 1211.2626 | 2012 | Comet-like mineralogy of olivine crystals in an extrasolar proto-Kuiper belt
+- **1× cited-seeds** | arXiv — | 2012 | The Gemini Planet Imager: integration and test
+- **1× cited-seeds** | arXiv — | 2012 | New observations of the PZ Tel system, its substellar companion and debris disc⋆
+- **1× cited-seeds** | arXiv 1206.6358 | 2012 | HERSCHEL PACS OBSERVATIONS AND MODELING OF DEBRIS DISKS IN THE TUCANA-HOROLOGIUM ASSOCIATION
+- **1× cited-seeds** | arXiv 1203.0475 | 2012 | A background galaxy in the field of the β Pictoris debris disk
+- **1× cited-seeds** | arXiv 1208.2717 | 2012 | EVIDENCE OF PHOTOEVAPORATION AND SPATIAL VARIATION OF GRAIN SIZES IN THE ORION 114-426 PROTOPLANETARY DISK
+- **1× cited-seeds** | arXiv 1201.1453 | 2012 | Probing the turbulent mixing strength in protoplanetary disks across the stellar mass range: no significant variations
+- **1× cited-seeds** | arXiv 1210.0603 | 2012 | Starlight demonstration of the Dragonfly instrument: an integrated photonic pupil-remapping interferometer for high-contrast imaging
+- **1× cited-seeds** | arXiv 1202.5920 | 2012 | Observational signatures of the giant planets collisions
+- **1× cited-seeds** | arXiv 1202.0771 | 2012 | Dead zones as safe havens for planetesimals: influence of disc mass and external magnetic field
+- **1× cited-seeds** | arXiv 1201.5415 | 2012 | TRANSIT TIMING OBSERVATIONS FROM KEPLER. IV. CONFIRMATION OF FOUR MULTIPLE-PLANET SYSTEMS BY SIMPLE PHYSICAL MODELS
+- **1× cited-seeds** | arXiv 1212.6141 | 2012 | Performance analysis of differential speckle polarimetry
+- **1× cited-seeds** | arXiv 1212.1731 | 2012 | KINKS AND DENTS IN PROTOPLANETARY DISKS: RAPID INFRARED VARIABILITY AS EVIDENCE FOR LARGE STRUCTURAL PERTURBATIONS
+- **1× cited-seeds** | arXiv 1211.4510 | 2012 | THE HERSCHEL DIGIT SURVEY OF WEAK-LINE T TAURI STARS: IMPLICATIONS FOR DISK EVOLUTION AND DISSIPATION
+- **1× cited-seeds** | arXiv 1210.6368 | 2012 | Our astrochemical heritage
+- **1× cited-seeds** | arXiv 1210.1648 | 2012 | ON THE SECULAR BEHAVIOR OF DUST PARTICLES IN AN ECCENTRIC PROTOPLANETARY DISK WITH AN EMBEDDED MASSIVE GAS GIANT PLANET
+- **1× cited-seeds** | arXiv — | 2012 | The Azimuthal Distribution of Dust Particles in an Eccentric Protoplanetary Disk with an Embedded Gas Giant Planet
+- **1× cited-seeds** | arXiv 1206.3413 | 2012 | GASPS observations of Herbig Ae/Be stars with PACS/Herschel. The atomic and molecular content of their protoplanetary discs
+- **1× cited-seeds** | arXiv 1205.2727 | 2012 | AN HST IMAGING SURVEY OF LOW-MASS STARS IN THE CHAMAELEON I STAR-FORMING REGION
+- **1× cited-seeds** | arXiv 1202.1553 | 2012 | INFRARED VARIABILITY OF EVOLVED PROTOPLANETARY DISKS: EVIDENCE FOR SCALE HEIGHT VARIATIONS IN THE INNER DISK
+- **1× cited-seeds** | arXiv 1201.4164 | 2012 | MID-INFRARED VARIABILITY OF THE BINARY SYSTEM CS Cha
+- **1× cited-seeds** | arXiv 1211.1415 | 2012 | THE COLLISIONAL EVOLUTION OF DEBRIS DISKS
+- **1× cited-seeds** | arXiv 1201.5307 | 2012 | Orbital Perturbations Due to Massive Rings
+- **1× cited-seeds** | arXiv 1211.5721 | 2012 | SPARSE APERTURE MASKING OBSERVATIONS OF THE FL Cha PRE-TRANSITIONAL DISK
+- **1× cited-seeds** | arXiv 1302.2722 | 2012 | The unlikely rise of masking interferometry: leading the way with 19th century technology
+- **1× cited-seeds** | arXiv 1209.0013 | 2012 | FROM DUST TO PLANETESIMALS: AN IMPROVED MODEL FOR COLLISIONAL GROWTH IN PROTOPLANETARY DISKS
+- **1× cited-seeds** | arXiv 1206.1510 | 2012 | THE PTF ORION PROJECT: A POSSIBLE PLANET TRANSITING A T-TAURI STAR
+- **1× cited-seeds** | arXiv 1204.3721 | 2012 | On the sensitivity of closure phases to faint companions in optical long baseline interferometry
+- **1× cited-seeds** | arXiv 1211.4969 | 2012 | Chemistry in disks
+- **1× cited-seeds** | arXiv 1209.5397 | 2012 | FROM DUST TO PLANETESIMALS: CRITERIA FOR GRAVITATIONAL INSTABILITY OF SMALL PARTICLES IN GAS
+- **1× cited-seeds** | arXiv 1205.1079 | 2012 | FREE–FREE EMISSION AND RADIO RECOMBINATION LINES FROM PHOTOEVAPORATING DISKS
+- **1× cited-seeds** | arXiv 1201.5781 | 2012 | A simple model for the evolution of the dust population in protoplanetary disks
+- **1× cited-seeds** | arXiv 1206.3391 | 2012 | THE COUNTERJET OF HH 30: NEW LIGHT ON ITS BINARY DRIVING SOURCE
+- **1× cited-seeds** | arXiv 1206.0055 | 2012 | TESTING THE HYPOTHESIS THAT METHANOL MASER RINGS TRACE CIRCUMSTELLAR DISKS: HIGH-RESOLUTION NEAR-INFRARED AND MID-INFRARED IMAGING
+- **1× cited-seeds** | arXiv — | 2012 | DoAr 33: a good candidate for revealing dust growth and settling in protoplanetary disks
+- **1× cited-seeds** | arXiv 1206.1345 | 2012 | DISK MASSES AT THE END OF THE MAIN ACCRETION PHASE: CARMA OBSERVATIONS AND MULTI-WAVELENGTH MODELING OF CLASS I PROTOSTARS
+- **1× cited-seeds** | arXiv 1205.2084 | 2012 | PLANETS AROUND LOW-MASS STARS (PALMS). I. A SUBSTELLAR COMPANION TO THE YOUNG M DWARF 1RXS J235133.3+312720
+- **1× cited-seeds** | arXiv 1210.3090 | 2012 | Image quality and high contrast improvements on VLT/NACO
+- **1× cited-seeds** | arXiv 1208.3092 | 2012 | Deep search for companions to probable young brown dwarfs - VLT/NACO adaptive optics imaging using IR wavefront sensing
+- **1× cited-seeds** | arXiv 1201.4173 | 2012 | Herschel/SPIRE observations of the TWA brown dwarf disc 2MASSW J1207334−393254★: First submillimetre detection of 2M1207
+- **1× cited-seeds** | arXiv 1209.5671 | 2012 | PROBING DYNAMICAL PROCESSES IN THE PLANET-FORMING REGION WITH DUST MINERALOGY
+- **1× cited-seeds** | arXiv 1206.1770 | 2012 | Magnetometry of the classical T Tauri star GQ Lup: non-stationary dynamos and spin evolution of young Suns
+- **1× cited-seeds** | arXiv 1208.6248 | 2012 | EXPLORING THE EFFECTS OF STELLAR ROTATION AND WIND CLEARING: DEBRIS DISKS AROUND F STARS
+- **1× cited-seeds** | arXiv 1210.5772 | 2012 | ADAPTIVE OPTICS OBSERVATIONS OF 3 μm WATER ICE IN SILHOUETTE DISKS IN THE ORION NEBULA CLUSTER AND M43
+- **1× cited-seeds** | arXiv 1111.2549 | 2011 | Gas modelling in the disc of HD 163296
+- **1× cited-seeds** | arXiv 1205.6573 | 2011 | Thermal Structure of a Protoplanetary Disk around HD 163296: A Study of Vertical Temperature Distribution by CO Emission Lines
+- **1× cited-seeds** | arXiv 1109.3447 | 2011 | GAS DISTRIBUTION, KINEMATICS, AND EXCITATION STRUCTURE IN THE DISKS AROUND THE CLASSICAL Be STARS β CANIS MINORIS AND ζ TAURI
+- **1× cited-seeds** | arXiv 1107.5061 | 2011 | RESOLVING THE CO SNOW LINE IN THE DISK AROUND HD 163296
+- **1× cited-seeds** | arXiv — | 2011 | Magnetorotational Turbulence in Protoplanetary Discs
+- **1× cited-seeds** | arXiv — | 2011 | Mass Determination of Sub-stellar Companions Around Young Stars - The Example of HR 7329
+- **1× cited-seeds** | arXiv 1112.3305 | 2011 | Planetary Rings
+- **1× cited-seeds** | arXiv 1110.4826 | 2011 | Herschel discovery of a new class of cold, faint debris discs
+- **1× cited-seeds** | arXiv 1110.2441 | 2011 | VARIABILITY OF DISK EMISSION IN PRE-MAIN SEQUENCE AND RELATED STARS. II. VARIABILITY IN THE GAS AND DUST EMISSION OF THE HERBIG Fe STAR SAO 206462
+- **1× cited-seeds** | arXiv 1111.7001 | 2011 | Benchmark cool companions: ages and abundances for the PZ Telescopii system
+- **1× cited-seeds** | arXiv 1110.5567 | 2011 | THE EFFECTS OF SNOWLINES ON C/O IN PLANETARY ATMOSPHERES
+- **1× cited-seeds** | arXiv 1108.4205 | 2011 | RETIRED A STARS AND THEIR COMPANIONS. VII. 18 NEW JOVIAN PLANETS
+- **1× cited-seeds** | arXiv 1106.0417 | 2011 | ON THE INTERACTION BETWEEN A PROTOPLANETARY DISK AND A PLANET IN AN ECCENTRIC ORBIT: APPLICATION OF DYNAMICAL FRICTION
+- **1× cited-seeds** | arXiv 1105.4015 | 2011 | The origin of planetary system architectures – I. Multiple planet traps in gaseous discs
+- **1× cited-seeds** | arXiv 1105.3544 | 2011 | Unbound or distant planetary mass population detected by gravitational microlensing
+- **1× cited-seeds** | arXiv 1203.2955 | 2011 | Formation of ‘3D’ multiplanet systems by dynamical disruption of multiple-resonance configurations
+- **1× cited-seeds** | arXiv 1112.2817 | 2011 | Coronagraphic Low-Order Wavefront Sensor: Postprocessing Sensitivity Enhancer for High-Performance Coronagraphs
+- **1× cited-seeds** | arXiv 1106.2416 | 2011 | On how optical depth tunes the effects of the interstellar medium on debris discs
+- **1× cited-seeds** | arXiv 1107.4885 | 2011 | Occurrence of the 2:1 commensurability in a gas giant–super-Earth system
+- **1× cited-seeds** | arXiv 1106.2690 | 2011 | Sub-arcsecond [Fe ii] spectro-imaging of the DG Tauri jet - Periodic bubbles and a dusty disk wind?
+- **1× cited-seeds** | arXiv 1103.5763 | 2011 | Continuum and line modelling of discs around young stars : II. Line diagnostics for GASPS from the DENT grid
+- **1× cited-seeds** | arXiv 1110.1639 | 2011 | SUBSTELLAR OBJECTS IN NEARBY YOUNG CLUSTERS (SONYC). IV. A CENSUS OF VERY LOW MASS OBJECTS IN NGC 1333
+- **1× cited-seeds** | arXiv 1108.4783 | 2011 | Testing the fragmentation limit in the Upper Sco association
+- **1× cited-seeds** | arXiv 1112.1725 | 2011 | THE DYNAMICAL MASS AND THREE-DIMENSIONAL ORBIT OF HR7672B: A BENCHMARK BROWN DWARF WITH HIGH ECCENTRICITY
+- **1× cited-seeds** | arXiv 1111.2623 | 2011 | ASTROMETRY AND RADIAL VELOCITIES OF THE PLANET HOST M DWARF GJ 317: NEW TRIGONOMETRIC DISTANCE, METALLICITY, AND UPPER LIMIT TO THE MASS OF GJ 317b
+- **1× cited-seeds** | arXiv 1109.5900 | 2011 | MAPPING THE SHORES OF THE BROWN DWARF DESERT. III. YOUNG MOVING GROUPS
+- **1× cited-seeds** | arXiv 1109.1831 | 2011 | CO AND H2 ABSORPTION IN THE AA TAURI CIRCUMSTELLAR DISK
+- **1× cited-seeds** | arXiv 1104.1236 | 2011 | DISK IMAGING SURVEY OF CHEMISTRY WITH SMA. II. SOUTHERN SKY PROTOPLANETARY DISK DATA AND FULL SAMPLE STATISTICS
+- **1× cited-seeds** | arXiv 1104.0670 | 2011 | THE FAR-ULTRAVIOLET “CONTINUUM” IN PROTOPLANETARY DISK SYSTEMS. II. CARBON MONOXIDE FOURTH POSITIVE EMISSION AND ABSORPTION
+- **1× cited-seeds** | arXiv 1104.1427 | 2011 | PIERCING THE GLARE: A DIRECT IMAGING SEARCH FOR PLANETS IN THE SIRIUS SYSTEM
+- **1× cited-seeds** | arXiv 1106.5224 | 2011 | THE STRUCTURE OF A SELF-GRAVITATING PROTOPLANETARY DISK AND ITS IMPLICATIONS FOR DIRECT IMAGING OBSERVATIONS
+- **1× cited-seeds** | arXiv 1111.5499 | 2011 | Transition disks: four candidates for ongoing giant planet formation in Ophiuchus
+- **1× cited-seeds** | arXiv 1111.0010 | 2011 | TRANSITION DISK CHEMISTRY AND FUTURE PROSPECTS WITH ALMA
+- **1× cited-seeds** | arXiv 1110.3865 | 2011 | A CLOSER LOOK AT THE LkCa 15 PROTOPLANETARY DISK
+- **1× cited-seeds** | arXiv 1109.2578 | 2011 | THE IONIZATION FRACTION IN THE DM Tau PROTOPLANETARY DISK
+- **1× cited-seeds** | arXiv 1109.0561 | 2011 | THE INITIAL MASS FUNCTION AND DISK FREQUENCY OF THE ρ OPHIUCHI CLOUD: AN EXTINCTION-LIMITED SAMPLE
+- **1× cited-seeds** | arXiv 1105.2046 | 2011 | PROTOPLANETARY DISK MASSES IN IC348: A RAPID DECLINE IN THE POPULATION OF SMALL DUST GRAINS AFTER 1 Myr
+- **1× cited-seeds** | arXiv 1104.0905 | 2011 | Constraining the structure of the planet-forming region in the disk of the Herbig Be star HD 100546 ?
+- **1× cited-seeds** | arXiv 1103.3068 | 2011 | RADIATION TRANSFER OF MODELS OF MASSIVE STAR FORMATION. I. DEPENDENCE ON BASIC CORE PROPERTIES
+- **1× cited-seeds** | arXiv 1107.5409 | 2011 | Multi-wavelength observations of the young binary system Haro 6-10: The case of misaligned discs
+- **1× cited-seeds** | arXiv 1104.3706 | 2011 | Detection of a large massive circumstellar disk around a high-mass young stellar object in the Carina Nebula
+- **1× cited-seeds** | arXiv — | 2011 | Effect of Interplanetary Matter on the Spin Evolutions of Venus and Mercury
+- **1× cited-seeds** | arXiv 1101.1316 | 2011 | A HIGH-MASS DUSTY DISK CANDIDATE: THE CASE OF IRAS 18151−1208
+- **1× cited-seeds** | arXiv 1107.1484 | 2011 | THE HYPERACTIVE L DWARF 2MASS J13153094−2649513: CONTINUED EMISSION AND A BROWN DWARF COMPANION
+- **1× cited-seeds** | arXiv 1105.3189 | 2011 | The Transits of Extrasolar Planets with Moons
+- **1× cited-seeds** | arXiv 1108.2373 | 2011 | Mid-infrared observations of the transitional disks around DH Tauri, DM Tauri, and GM Aurigae
+- **1× cited-seeds** | arXiv 1106.0574 | 2011 | Infrared Search for Young Brown Dwarf Companions around Young Stellar Objects in the rho Ophiucus Molecular Cloud and the Serpens Molecular Cloud
+- **1× cited-seeds** | arXiv 1102.3185 | 2011 | Dynamical effects of stellar mass-loss on a Kuiper-like belt
+- **1× cited-seeds** | arXiv 1102.0956 | 2011 | EVOLUTION OF X-RAY AND FAR-ULTRAVIOLET DISK-DISPERSING RADIATION FIELDS
+- **1× cited-seeds** | arXiv 1201.0173 | 2011 | PDS 144: THE FIRST CONFIRMED Herbig Ae–Herbig Ae WIDE BINARY
+- **1× cited-seeds** | arXiv 1107.1994 | 2011 | A survey for near-infrared H2 emission in Herbig Ae/Be stars: emission from the outer disks of HD 97048 and HD 100546
+- **1× cited-seeds** | arXiv 1103.3905 | 2011 | Herschel-ATLAS: the link between accretion luminosity and star formation in quasar host galaxies
+- **1× cited-seeds** | arXiv 1107.2785 | 2011 | POWERFUL RELATIVISTIC JETS IN SPIRAL GALAXIES
+- **1× cited-seeds** | arXiv 1107.3141 | 2011 | Ruling out unresolved binaries in five transitional disks - VLT/NACO deep 2.12 and 1.75 μm narrow-band imaging
+- **1× cited-seeds** | arXiv 1011.3826 | 2010 | EMPIRICAL CONSTRAINTS ON TURBULENCE IN PROTOPLANETARY ACCRETION DISKS
+- **1× cited-seeds** | arXiv — | 2010 | Image reconstruction in optical interferometry: application to the inner regions of protoplanetary disks
+- **1× cited-seeds** | arXiv 1007.2930 | 2010 | Milli-arcsecond images of the Herbig Ae star HD 163296
+- **1× cited-seeds** | arXiv 1009.5670 | 2010 | High-contrast optical imaging of companions: the case of the brown dwarf binary HD 130948BC
+- **1× cited-seeds** | arXiv 1001.5036 | 2010 | ISM DUST GRAINS AND N-BAND SPECTRAL VARIABILITY IN THE SPATIALLY RESOLVED SUBARCSECOND BINARY UY Aur,,
+- **1× cited-seeds** | arXiv 1005.0025 | 2010 | β PICTORIS AND AB DORADUS MOVING GROUPS: LIKELY NEW LOW-MASS MEMBERS
+- **1× cited-seeds** | arXiv 1010.3292 | 2010 | A SPITZER INFRARED SPECTROGRAPH STUDY OF DEBRIS DISKS AROUND PLANET-HOST STARS
+- **1× cited-seeds** | arXiv 1009.4963 | 2010 | TWO-DIMENSIONAL STUDY OF THE PROPAGATION OF PLANETARY WAKE AND THE INDICATION OF GAP OPENING IN AN INVISCID PROTOPLANETARY DISK
+- **1× cited-seeds** | arXiv — | 2010 | Direct imaging of Earth-like planets: why we care about exozodis
+- **1× cited-seeds** | arXiv 1006.5492 | 2010 | A comparison of spectroscopic methods for detecting the starlight scattered by transiting hot Jupiters, with an application to Subaru data for HD 209458b and HD 189733b
+- **1× cited-seeds** | arXiv 1005.3151 | 2010 | Cold DUst around NEarby Stars (DUNES). First results A resolved exo-Kuiper belt around the solar-like star zeta(2) Ret
+- **1× cited-seeds** | arXiv 1008.0929 | 2010 | Recent Developments in Simulations of Low-mass Star Formation
+- **1× cited-seeds** | arXiv 1004.5389 | 2010 | Resolved images of self-gravitating circumstellar discs with ALMA
+- **1× cited-seeds** | arXiv 1002.4693 | 2010 | The Outcome of the Protoplanetary Disk of Very Massive Stars
+- **1× cited-seeds** | arXiv 1009.4732 | 2010 | Planetary mass function and planetary systems
+- **1× cited-seeds** | arXiv 1009.3071 | 2010 | EXOPLANET ALBEDO SPECTRA AND COLORS AS A FUNCTION OF PLANET PHASE, SEPARATION, AND METALLICITY
+- **1× cited-seeds** | arXiv — | 2010 | Testing of a transmission-filter coronagraph for ground-based imaging of exoplanets
+- **1× cited-seeds** | arXiv 1007.2252 | 2010 | ANCIENT PLANETARY SYSTEMS ARE ORBITING A LARGE FRACTION OF WHITE DWARF STARS
+- **1× cited-seeds** | arXiv 1007.1976 | 2010 | The Infrared Imaging Spectrograph (IRIS) for TMT: the science case
+- **1× cited-seeds** | arXiv 1007.1978 | 2010 | Second-earth imager for TMT (SEIT): a proposal and concept Description
+- **1× cited-seeds** | arXiv — | 2010 | Realisation of a fully-deterministic microlensing observing strategy for inferring planet populations
+- **1× cited-seeds** | arXiv — | 2010 | The Gemini Planet Imager calibration wavefront sensor instrument
+- **1× cited-seeds** | arXiv 1005.4323 | 2010 | A comment on Eta Carinae's Homunculus Nebula imaging
+- **1× cited-seeds** | arXiv 1005.2624 | 2010 | ON THE POSSIBILITY OF ENRICHMENT AND DIFFERENTIATION IN GAS GIANTS DURING BIRTH BY DISK INSTABILITY
+- **1× cited-seeds** | arXiv 1005.1527 | 2010 | Observing stellar bow shocks
+- **1× cited-seeds** | arXiv 1005.5091 | 2010 | High Precision Astrometry with Adaptive Optics aided Imaging
+- **1× cited-seeds** | arXiv 1004.5139 | 2010 | CONSTRAINT ON THE GIANT PLANET PRODUCTION BY CORE ACCRETION
+- **1× cited-seeds** | arXiv 1004.1318 | 2010 | X-ray emission from the remarkable A-type star HR 8799
+- **1× cited-seeds** | arXiv 1004.0223 | 2010 | A CLOSE COMPANION SEARCH AROUND L DWARFS USING APERTURE MASKING INTERFEROMETRY AND PALOMAR LASER GUIDE STAR ADAPTIVE OPTICS
+- **1× cited-seeds** | arXiv 1003.5796 | 2010 | Age determination of the HR 8799 planetary system using asteroseismology
+- **1× cited-seeds** | arXiv 1003.3340 | 2010 | The planetary system host HR 8799: on its λ Bootis nature
+- **1× cited-seeds** | arXiv 1001.4800 | 2010 | HIGH-PRECISION DYNAMICAL MASSES OF VERY LOW MASS BINARIES
+- **1× cited-seeds** | arXiv 1001.3409 | 2010 | PLANET–PLANET SCATTERING IN PLANETESIMAL DISKS. II. PREDICTIONS FOR OUTER EXTRASOLAR PLANETARY SYSTEMS
+- **1× cited-seeds** | arXiv 1001.3091 | 2010 | Orbital parameters of extrasolar planets derived from polarimetry
+- **1× cited-seeds** | arXiv — | 2010 | Astrophysics of Planet Formation
+- **1× cited-seeds** | arXiv 1010.4028 | 2010 | ESTABLISHING α Oph AS A PROTOTYPE ROTATOR: IMPROVED ASTROMETRIC ORBIT
+- **1× cited-seeds** | arXiv 1008.5065 | 2010 | Multi-wavelength study of the disk around the very low-mass star Par-Lup3-4
+- **1× cited-seeds** | arXiv 1008.3429 | 2010 | THE INNER ENVELOPE AND DISK OF L1527 REVEALED: GEMINI L′-BAND-SCATTERED LIGHT IMAGING
+- **1× cited-seeds** | arXiv 1012.3500 | 2010 | A SPITZER IRS STUDY OF INFRARED VARIABILITY IN TRANSITIONAL AND PRE-TRANSITIONAL DISKS AROUND T TAURI STARS
+- **1× cited-seeds** | arXiv 1006.0940 | 2010 | Testing the theory of grain growth and fragmentation by millimeter observations of protoplanetary disks
+- **1× cited-seeds** | arXiv — | 2010 | The planet companion around β Pictoris
+- **1× cited-seeds** | arXiv 1009.1245 | 2010 | Deep near-infrared interferometric search for low-mass companions around β Pictoris
+- **1× cited-seeds** | arXiv 1101.0165 | 2010 | THE FAR-ULTRAVIOLET “CONTINUUM” IN PROTOPLANETARY DISK SYSTEMS. I. ELECTRON-IMPACT H2 AND ACCRETION SHOCKS
+- **1× cited-seeds** | arXiv 1005.3472 | 2010 | First results of the Herschel key program "Dust, Ice and Gas In Time" (DIGIT): Dust and gas spectroscopy of HD 100546
+- **1× cited-seeds** | arXiv 1004.2861 | 2010 | Where is the warm H2? A search for H2 emission from disks around Herbig Ae/Be stars
+- **1× cited-seeds** | arXiv — | 2010 | COMBINED ANALYSIS OF IMAGES AND SPECTRAL ENERGY DISTRIBUTIONS OF TAURUS PROTOSTARS
+- **1× cited-seeds** | arXiv 1001.3670 | 2010 | A TEST OF PRE-MAIN-SEQUENCE LITHIUM DEPLETION MODELS
+- **1× cited-seeds** | arXiv — | 2010 | Modelling spectroscopic and polarimetric signatures of exoplanets
+- **1× cited-seeds** | arXiv 1008.4340 | 2010 | A WIDELY SEPARATED, HIGHLY OCCLUDED COMPANION TO THE NEARBY LOW-MASS T TAURI STAR TWA 30
+- **1× cited-seeds** | arXiv 1004.1186 | 2010 | METAL DEPLETION AND WARM H2 IN THE BROWN DWARF 2M1207 ACCRETION DISK
+- **1× cited-seeds** | arXiv 1001.2743 | 2010 | ULAS J141623.94$ + $134836.3 - a faint common proper motion companion of a nearby L dwarf. Serendipitous discovery of a cool brown dwarf in UKIDSS DR6
+- **1× cited-seeds** | arXiv 1007.0839 | 2010 | Direct Imaging of Bridged Twin Protoplanetary Disks in a Young Multiple Star
+- **1× cited-seeds** | arXiv 1001.4093 | 2010 | FIVE LONG-PERIOD EXTRASOLAR PLANETS IN ECCENTRIC ORBITS FROM THE MAGELLAN PLANET SEARCH PROGRAM
+- **1× cited-seeds** | arXiv 1001.3609 | 2010 | Discovery of the first wide L dwarf + giant binary system and eight other ultracool dwarfs in wide binaries
+- **1× cited-seeds** | arXiv 1010.0003 | 2010 | THE STRUCTURE OF THE β LEONIS DEBRIS DISK
+- **1× cited-seeds** | arXiv — | 2010 | Planets in orbit around β Pictoris formed the orbital architecture of planetesimal belts?
+- **1× cited-seeds** | arXiv 1007.1476 | 2010 | THE DISK IMAGING SURVEY OF CHEMISTRY WITH SMA. I. TAURUS PROTOPLANETARY DISK DATA

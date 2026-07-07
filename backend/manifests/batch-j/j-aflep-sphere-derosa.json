@@ -1,0 +1,21 @@
+{
+ "survey": "j-aflep-sphere-derosa",
+ "survey_name": null,
+ "source_image": "images/_sources/extracted/2302.06332/fig04.pdf",
+ "pdf_page": null,
+ "panels": [
+  {
+   "id": "af-lep",
+   "image_id": "af-lep_sphere2023-derosa",
+   "bbox_frac": [
+    0.118,
+    0.019,
+    0.4654,
+    0.443
+   ]
+  }
+ ],
+ "image_defaults": {},
+ "credit": "De Rosa et al. 2023, Fig. 4 (crop: IRDIS K1 KLIP residual map)",
+ "paper": null
+}

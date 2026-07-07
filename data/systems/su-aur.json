@@ -1,0 +1,129 @@
+{
+ "id": "su-aur",
+ "name": "SU Aur",
+ "alt_names": [],
+ "simbad": "SU Aur",
+ "ra_deg": 73.99744453023,
+ "dec_deg": 30.56708322447,
+ "dist_pc": 157.0,
+ "sptype": "G2IIIne",
+ "region": "Taurus",
+ "categories": [
+  "protoplanetary"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS",
+   "wavelength_um": 1.65,
+   "wavelength_label": "H band 1.6 um (pol. intensity)",
+   "technique": "PDI",
+   "survey": null,
+   "credit": "Ginski et al. 2021, Fig. 1 (crop, SPHERE Qphi)",
+   "paper": {
+    "first_author": "Ginski",
+    "year": 2021,
+    "title": "Disk Evolution Study Through Imaging of Nearby Young Stars (DESTINYS): Late Infall Causing Disk Misalignment and Dynamic Structures in SU Aur",
+    "journal": "ApJL 908, L25",
+    "arxiv": "2102.08781",
+    "bibcode": null
+   },
+   "image_id": "su-aur_sphere2021",
+   "file": "images/su-aur/su-aur_sphere2021.png"
+  },
+  {
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS DPI",
+   "wavelength_um": 1.65,
+   "wavelength_label": "H band 1.6 um (pol. intensity)",
+   "technique": "PDI",
+   "image_id": "su-aur_sphere-taurus",
+   "survey": "SPHERE-Taurus",
+   "file": "images/su-aur/su-aur_sphere-taurus.png",
+   "credit": "Garufi et al. 2024, Fig. 2 (crop)",
+   "paper": {
+    "first_author": "Garufi",
+    "year": 2024,
+    "title": "The SPHERE view of the Taurus star-forming region: The full census of planet-forming disks with GTO and DESTINYS programs",
+    "journal": "A&A 685, A53",
+    "arxiv": "2403.02158",
+    "bibcode": "2024A&A...685A..53G"
+   }
+  },
+  {
+   "type": "disk_scattered",
+   "facility": "VLT-NACO",
+   "instrument": "NACO pol",
+   "wavelength_um": 2.18,
+   "wavelength_label": "Ks band (PIPPIN PDI reprocessing)",
+   "technique": "PDI",
+   "image_id": "su-aur_naco-pippin",
+   "file": "images/su-aur/su-aur_naco-pippin.png",
+   "survey": "NACO-PIPPIN",
+   "credit": "de Regt et al. 2024, Fig. 6 (crop)",
+   "paper": {
+    "first_author": "de Regt",
+    "year": 2024,
+    "title": "Polarimetric differential imaging with VLT/NACO. A comprehensive PDI pipeline for NACO data (PIPPIN)",
+    "journal": "A&A 684, A73",
+    "arxiv": "2404.02222",
+    "bibcode": "2024A&A...684A..73D"
+   }
+  },
+  {
+   "image_id": "su-aur_alma2019",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 6",
+   "wavelength_um": 1300,
+   "wavelength_label": "1.3 mm (Band 6)",
+   "technique": "interferometric dust continuum / CO(2-1) line imaging",
+   "survey": null,
+   "file": "images/su-aur/su-aur_alma2019.png",
+   "credit": "Akiyama et al. 2019, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Akiyama",
+    "year": 2019,
+    "title": "A Tail Structure Associated with Protoplanetary Disk around SU Aurigae",
+    "journal": "AJ",
+    "arxiv": "1902.10306",
+    "bibcode": "2019AJ....157..165A"
+   }
+  },
+  {
+   "image_id": "su-aur_hiciao2015",
+   "type": "disk_scattered",
+   "facility": "Subaru",
+   "instrument": "HiCIAO",
+   "wavelength_um": 1.65,
+   "wavelength_label": "H band polarimetry",
+   "technique": "PDI",
+   "survey": null,
+   "credit": "de Leon et al. 2015, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "de Leon",
+    "year": 2015,
+    "title": "Near-IR High-Resolution Imaging Polarimetry of the SU Aur Disk: Clues for Tidal Tails?",
+    "journal": "PASJ",
+    "arxiv": "1505.03610",
+    "bibcode": null
+   },
+   "file": "images/su-aur/su-aur_hiciao2015.png"
+  }
+ ],
+ "notes": null,
+ "last_updated": "2026-07-07",
+ "plx_mas": 6.37,
+ "mags": {
+  "B": 10.33,
+  "V": 9.3,
+  "G": 9.25113,
+  "R": 9.17,
+  "J": 7.199,
+  "H": 6.558,
+  "K": 5.99
+ }
+}

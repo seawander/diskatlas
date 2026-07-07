@@ -1,0 +1,30 @@
+{
+  "survey": "sphere-debris-2025-p1",
+  "survey_name": "SPHERE-debris-2025",
+  "source_image": "images/_sources/extracted/2512.03128/2512.03128.pdf",
+  "pdf_page": 9,
+  "dpi": 200,
+  "grid": {
+    "rows": 5, "cols": 4,
+    "image_id_pattern": "{id}_sphere-debris-2025",
+    "trim_frac": [0.0689, 0.0709, 0.0580, 0.1581],
+    "order": [
+      "hd-377", "49-cet", "hd-15115", "hd-30447",
+      "hd-32297", "hd-35841", "hd-36968", "hd-38397",
+      "beta-pic", "hd-61005", "hd-98800", "hd-106906",
+      "hr-4796a", "hd-114082", "hd-115600", "hd-117214",
+      "hd-120326", "hd-121617", "hd-129590", "hd-131835"
+    ]
+  },
+  "image_defaults": {
+    "type": "disk_scattered", "facility": "VLT-SPHERE", "instrument": "IRDIS DPI",
+    "wavelength_um": 1.65, "wavelength_label": "H band 1.6 um (pol. intensity)",
+    "technique": "PDI"
+  },
+  "credit": "Engler et al. 2025, Fig. 5a (crop)",
+  "paper": {
+    "first_author": "Engler", "year": 2025,
+    "title": "Characterization of debris disks observed with SPHERE",
+    "journal": "A&A 704, A21", "arxiv": "2512.03128", "bibcode": null
+  }
+}

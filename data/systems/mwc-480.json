@@ -1,0 +1,171 @@
+{
+ "id": "mwc-480",
+ "name": "MWC 480",
+ "alt_names": [],
+ "simbad": "MWC 480",
+ "ra_deg": 74.69277321123,
+ "dec_deg": 29.8436076738,
+ "dist_pc": 156.2,
+ "sptype": "A5Vep",
+ "region": "Taurus",
+ "categories": [
+  "protoplanetary"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "technique": "interferometry",
+   "instrument": "Band 6",
+   "wavelength_um": 1330,
+   "wavelength_label": "1.33 mm continuum",
+   "image_id": "mwc-480_taurus-long2018",
+   "survey": "Taurus-Long2018",
+   "file": "images/mwc-480/mwc-480_taurus-long2018.png",
+   "credit": "Long et al. 2018, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Long",
+    "year": 2018,
+    "title": "Gaps and Rings in an ALMA Survey of Disks in the Taurus Star-forming Region",
+    "journal": "ApJ 869, 17",
+    "arxiv": "1810.06044",
+    "bibcode": "2018ApJ...869...17L"
+   }
+  },
+  {
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS DPI",
+   "wavelength_um": 1.65,
+   "wavelength_label": "H band 1.6 um (pol. intensity)",
+   "technique": "PDI",
+   "image_id": "mwc-480_sphere-taurus",
+   "survey": "SPHERE-Taurus",
+   "file": "images/mwc-480/mwc-480_sphere-taurus.png",
+   "credit": "Garufi et al. 2024, Fig. 2 (crop)",
+   "paper": {
+    "first_author": "Garufi",
+    "year": 2024,
+    "title": "The SPHERE view of the Taurus star-forming region: The full census of planet-forming disks with GTO and DESTINYS programs",
+    "journal": "A&A 685, A53",
+    "arxiv": "2403.02158",
+    "bibcode": "2024A&A...685A..53G"
+   }
+  },
+  {
+   "image_id": "mwc-480_seeds",
+   "type": "disk_scattered",
+   "facility": "Subaru-HiCIAO",
+   "instrument": "HiCIAO",
+   "wavelength_um": 1.65,
+   "wavelength_label": "H band (pol. intensity)",
+   "technique": "PDI",
+   "survey": "SEEDS",
+   "file": "images/mwc-480/mwc-480_seeds.png",
+   "credit": "Kusakabe et al. 2012, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Kusakabe",
+    "year": 2012,
+    "title": "High-Contrast Near-Infrared Polarization Imaging of MWC480",
+    "journal": "ApJ 753, 153",
+    "arxiv": "1205.3159",
+    "bibcode": "2012ApJ...753..153K"
+   }
+  },
+  {
+   "image_id": "mwc-480_scexao-mullin",
+   "type": "disk_scattered",
+   "facility": "Subaru",
+   "instrument": "SCExAO/CHARIS",
+   "wavelength_um": 2.2,
+   "wavelength_label": "K-band polarimetric (PDI) scattered light",
+   "technique": "PDI",
+   "survey": "SCExAO-Mullin2026",
+   "file": "images/mwc-480/mwc-480_scexao-mullin.png",
+   "credit": "Mullin et al. 2026, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Mullin",
+    "year": 2026,
+    "title": "Time-variable Scattered Light in Herbig Disks Observed with Subaru/SCExAO",
+    "journal": "AJ (2026)",
+    "arxiv": "2602.20346",
+    "bibcode": null
+   }
+  },
+  {
+   "image_id": "mwc-480_alma-maps2021",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 6 (CO line)",
+   "wavelength_um": 1360,
+   "wavelength_label": "13CO 2-1 zeroth moment",
+   "technique": "interferometry",
+   "survey": "MAPS",
+   "credit": "Oberg et al. 2021, Fig. 6 (crop)",
+   "paper": {
+    "first_author": "Oberg",
+    "year": 2021,
+    "title": "Molecules with ALMA at Planet-forming Scales (MAPS) I: Program Overview and Highlights",
+    "journal": "ApJS, 257, 1",
+    "arxiv": "2109.06268",
+    "bibcode": null
+   },
+   "file": "images/mwc-480/mwc-480_alma-maps2021.png"
+  },
+  {
+   "image_id": "mwc-480_bima2006",
+   "type": "disk_mm",
+   "facility": "BIMA",
+   "instrument": "BIMA array",
+   "wavelength_um": 1400,
+   "wavelength_label": "1.4 mm continuum",
+   "technique": "interferometry",
+   "survey": null,
+   "credit": "Hamidouche et al. 2006, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Hamidouche",
+    "year": 2006,
+    "title": "Resolving and probing the circumstellar disk of the Herbig Ae star MWC 480 at 1.4 mm: Evolved dust?",
+    "journal": "AJ, 133, 1892",
+    "arxiv": "astro-ph/0607232",
+    "bibcode": null
+   },
+   "file": "images/mwc-480/mwc-480_bima2006.png"
+  },
+  {
+   "image_id": "mwc-480_sphere-ks-qphi",
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS",
+   "wavelength_um": 2.18,
+   "wavelength_label": "Ks band 2.2 um (pol. intensity, Qphi)",
+   "technique": "PDI",
+   "survey": "SPHERE-Ks-RDI",
+   "credit": "Ren et al. 2023, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Ren",
+    "year": 2023,
+    "title": "Protoplanetary disks in $K_s$-band total intensity and polarized light",
+    "journal": "A&A 680, A114",
+    "arxiv": "2310.08589",
+    "bibcode": "2023A&A...680A.114R"
+   },
+   "file": "images/mwc-480/mwc-480_sphere-ks-qphi.png"
+  }
+ ],
+ "notes": null,
+ "last_updated": "2026-07-07",
+ "plx_mas": 6.4014,
+ "mags": {
+  "U": 7.84,
+  "B": 7.78,
+  "V": 7.62,
+  "G": 7.653966,
+  "R": 7.76,
+  "I": 7.43,
+  "J": 6.865,
+  "H": 6.26,
+  "K": 5.527
+ }
+}

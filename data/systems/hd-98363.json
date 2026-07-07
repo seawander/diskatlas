@@ -1,0 +1,48 @@
+{
+ "id": "hd-98363",
+ "name": "HD 98363",
+ "alt_names": [],
+ "simbad": "HD 98363",
+ "ra_deg": 169.49223743613,
+ "dec_deg": -64.04259782517,
+ "dist_pc": 137.2,
+ "sptype": "A2V",
+ "region": "Sco-Cen",
+ "categories": [
+  "debris"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "type": "disk_scattered",
+   "facility": "Gemini-GPI",
+   "instrument": "IFS pol",
+   "wavelength_um": 1.65,
+   "wavelength_label": "H band 1.6 um (Qr pol. intensity)",
+   "technique": "PDI",
+   "image_id": "hd-98363_discs",
+   "file": "images/hd-98363/hd-98363_discs.png",
+   "survey": "DISCS",
+   "credit": "Hom et al. 2025, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Hom",
+    "year": 2025,
+    "title": "The Disks In Scorpius-Centaurus Survey (DISCS) I: Four Newly-Resolved Debris Disks in Polarized Intensity Light",
+    "journal": "AJ, in press",
+    "arxiv": "2505.02976",
+    "bibcode": null
+   }
+  }
+ ],
+ "notes": "AUTO-CREATED from staging - fill metadata & coords",
+ "last_updated": "2026-07-06",
+ "plx_mas": 7.288,
+ "mags": {
+  "B": 8.03,
+  "V": 7.85,
+  "G": 7.839598,
+  "J": 7.528,
+  "H": 7.484,
+  "K": 7.503
+ }
+}

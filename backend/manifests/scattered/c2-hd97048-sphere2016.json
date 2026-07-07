@@ -1,0 +1,30 @@
+{
+ "survey": "c2-hd97048-sphere2016",
+ "survey_name": null,
+ "source_image": "images/_sources/extracted/1609.04027/hd97048_main_6.pdf",
+ "pdf_page": 1,
+ "panels": [
+  {
+   "id": "hd-97048",
+   "image_id": "hd-97048_sphere2016",
+   "bbox_frac": [0.647, 0.0235, 0.8865, 0.2375]
+  }
+ ],
+ "image_defaults": {
+  "type": "disk_scattered",
+  "facility": "VLT-SPHERE",
+  "instrument": "IRDIS DPI",
+  "wavelength_um": 1.25,
+  "wavelength_label": "J band 1.25 um Qphi (r2-scaled); multiple rings",
+  "technique": "PDI"
+ },
+ "credit": "Ginski et al. 2016, Fig. 2 (crop)",
+ "paper": {
+  "first_author": "Ginski",
+  "year": 2016,
+  "title": "Direct detection of scattered light gaps in the transitional disk around HD 97048 with VLT/SPHERE",
+  "journal": "A&A 595, A112",
+  "arxiv": "1609.04027",
+  "bibcode": "2016A&A...595A.112G"
+ }
+}

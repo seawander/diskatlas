@@ -1,0 +1,48 @@
+{
+ "id": "cm-cha",
+ "name": "CM Cha",
+ "alt_names": [],
+ "simbad": "CM Cha",
+ "ra_deg": 195.55635207483,
+ "dec_deg": -76.63272741556,
+ "dist_pc": 191.9,
+ "plx_mas": 5.2113,
+ "mags": {
+  "V": 13.4,
+  "G": 12.553639,
+  "J": 10.016,
+  "H": 9.165,
+  "K": 8.515
+ },
+ "sptype": "K7IVe",
+ "region": "Chamaeleon",
+ "categories": [
+  "protoplanetary"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "image_id": "cm-cha_destinys",
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS",
+   "wavelength_um": 1.65,
+   "wavelength_label": "H band polarized light",
+   "technique": "PDI",
+   "survey": "SPHERE-NIR-census",
+   "file": "images/cm-cha/cm-cha_destinys.png",
+   "credit": "Garufi et al. 2026, Fig. A.1 (crop)",
+   "hires_url": null,
+   "paper": {
+    "first_author": "Garufi",
+    "year": 2026,
+    "title": "Planet-forming disks and their environment across regions and time from the full NIR census",
+    "journal": "A&A, in press",
+    "arxiv": "2603.01703",
+    "bibcode": null
+   }
+  }
+ ],
+ "notes": "First-published SPHERE/IRDIS H-band polarimetric image (DESTINYS). A faint but relatively extended disk (out to 0.4\") is detected; the disk appears close to face-on and shows evidence of shadowing on the eastern side (Garufi et al. 2026, Table A.5/Fig. A.1).",
+ "last_updated": "2026-07-06"
+}

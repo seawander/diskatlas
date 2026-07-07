@@ -1,0 +1,128 @@
+{
+ "id": "hl-tau",
+ "name": "HL Tau",
+ "alt_names": [],
+ "simbad": "HL Tau",
+ "ra_deg": 67.91046150388,
+ "dec_deg": 18.23273881888,
+ "dist_pc": null,
+ "sptype": "K5",
+ "region": "Taurus",
+ "categories": [
+  "protoplanetary"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Bands 6+7",
+   "wavelength_um": 1000,
+   "wavelength_label": "1.0 mm continuum (B6+B7 combined, iconic ring image)",
+   "technique": "interferometry",
+   "survey": null,
+   "credit": "ALMA Partnership et al. 2015, Fig. 2e (crop)",
+   "paper": {
+    "first_author": "ALMA Partnership",
+    "year": 2015,
+    "title": "First Results from High Angular Resolution ALMA Observations Toward the HL Tau Region",
+    "journal": "ApJL 808, L3",
+    "arxiv": "1503.02649",
+    "bibcode": "2015ApJ...808L...3A"
+   },
+   "image_id": "hl-tau_alma2015",
+   "file": "images/hl-tau/hl-tau_alma2015.png"
+  },
+  {
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 3",
+   "wavelength_um": 2900,
+   "wavelength_label": "2.9 mm continuum (Band 3)",
+   "technique": "interferometry",
+   "image_id": "hl-tau_alma2015-b3",
+   "file": "images/hl-tau/hl-tau_alma2015-b3.png",
+   "survey": null,
+   "credit": "ALMA Partnership et al. 2015, Fig. 2a (crop)",
+   "paper": {
+    "first_author": "ALMA Partnership",
+    "year": 2015,
+    "title": "First Results from High Angular Resolution ALMA Observations Toward the HL Tau Region",
+    "journal": "ApJL 808, L3",
+    "arxiv": "1503.02649",
+    "bibcode": "2015ApJ...808L...3A"
+   }
+  },
+  {
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 7",
+   "wavelength_um": 870,
+   "wavelength_label": "0.87 mm continuum (Band 7)",
+   "technique": "interferometry",
+   "image_id": "hl-tau_alma2015-b7",
+   "file": "images/hl-tau/hl-tau_alma2015-b7.png",
+   "survey": null,
+   "credit": "ALMA Partnership et al. 2015, Fig. 2c (crop)",
+   "paper": {
+    "first_author": "ALMA Partnership",
+    "year": 2015,
+    "title": "First Results from High Angular Resolution ALMA Observations Toward the HL Tau Region",
+    "journal": "ApJL 808, L3",
+    "arxiv": "1503.02649",
+    "bibcode": "2015ApJ...808L...3A"
+   }
+  },
+  {
+   "image_id": "hl-tau_nircam2024",
+   "type": "disk_scattered",
+   "facility": "JWST",
+   "instrument": "NIRCam",
+   "wavelength_um": 2.5,
+   "wavelength_label": "1.87-4.1 micron (narrow/medium bands)",
+   "technique": "RDI",
+   "survey": null,
+   "credit": "Mullin et al. 2024, Fig. 2 (crop)",
+   "paper": {
+    "first_author": "Mullin",
+    "year": 2024,
+    "title": "JWST/NIRCam Imaging of Young Stellar Objects III: Detailed Imaging of the Nebular Environment Around the HL Tau Disk",
+    "journal": "AJ",
+    "arxiv": "2403.00908",
+    "bibcode": null
+   },
+   "file": "images/hl-tau/hl-tau_nircam2024.png"
+  },
+  {
+   "image_id": "hl-tau_vla2016",
+   "type": "disk_mm",
+   "facility": "VLA",
+   "instrument": "Karl G. Jansky VLA (Q-band, 7 mm)",
+   "wavelength_um": 7000,
+   "wavelength_label": "7 mm",
+   "technique": "interferometry",
+   "survey": null,
+   "credit": "Carrasco-Gonzalez et al. 2016, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Carrasco-Gonzalez",
+    "year": 2016,
+    "title": "The VLA view of the HL Tau Disk - Disk Mass, Grain Evolution, and Early Planet Formation",
+    "journal": "ApJ Letters",
+    "arxiv": "1603.03731",
+    "bibcode": null
+   },
+   "file": "images/hl-tau/hl-tau_vla2016.png"
+  }
+ ],
+ "notes": "The first iconic ALMA ring system.",
+ "last_updated": "2026-07-07",
+ "mags": {
+  "B": 15.89,
+  "V": 14.49,
+  "G": 17.63825,
+  "R": 14.39,
+  "J": 10.624,
+  "H": 9.171,
+  "K": 7.41
+ }
+}

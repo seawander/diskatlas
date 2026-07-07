@@ -1,0 +1,50 @@
+{
+ "id": "pds-110",
+ "name": "pds 110",
+ "alt_names": [],
+ "simbad": "pds 110",
+ "ra_deg": 80.87920906451,
+ "dec_deg": -1.07325043726,
+ "dist_pc": 346.5,
+ "sptype": "keF6IVeb",
+ "region": "Orion",
+ "categories": [
+  "protoplanetary"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS DPI",
+   "wavelength_um": 1.65,
+   "wavelength_label": "H band 1.6 um (Qphi pol. intensity)",
+   "technique": "PDI",
+   "image_id": "pds-110_destinys-orion",
+   "file": "images/pds-110/pds-110_destinys-orion.png",
+   "survey": "DESTINYS-Orion",
+   "credit": "Valegard et al. 2024, Fig. 2 (crop)",
+   "paper": {
+    "first_author": "Valegard",
+    "year": 2024,
+    "title": "Disk Evolution Study Through Imaging of Nearby Young Stars (DESTINYS): The SPHERE view of the Orion star-forming region",
+    "journal": "A&A 685, A54",
+    "arxiv": "2403.02156",
+    "bibcode": "2024A&A...685A..54V"
+   }
+  }
+ ],
+ "notes": "AUTO-CREATED from staging - fill metadata & coords",
+ "last_updated": "2026-07-06",
+ "plx_mas": 2.8857,
+ "mags": {
+  "B": 10.97,
+  "V": 10.41,
+  "G": 10.284791,
+  "R": 10.25,
+  "I": 9.79,
+  "J": 9.147,
+  "H": 8.47,
+  "K": 7.856
+ }
+}

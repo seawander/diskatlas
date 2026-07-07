@@ -1,0 +1,85 @@
+{
+ "id": "xz-tau",
+ "name": "xz tau",
+ "alt_names": [],
+ "simbad": "XZ Tau",
+ "ra_deg": 67.9170287366759,
+ "dec_deg": 18.2324006775156,
+ "dist_pc": null,
+ "sptype": "M2e+M2e",
+ "region": null,
+ "categories": [],
+ "planets": [],
+ "images": [
+  {
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS DPI",
+   "wavelength_um": 1.65,
+   "wavelength_label": "H band 1.6 um (pol. intensity)",
+   "technique": "PDI",
+   "image_id": "xz-tau_sphere-taurus",
+   "file": "images/xz-tau/xz-tau_sphere-taurus.png",
+   "survey": "SPHERE-Taurus",
+   "credit": "Garufi et al. 2024, Fig. 2 (crop; ambient/outflow-dominated per Garufi+2024)",
+   "paper": {
+    "first_author": "Garufi",
+    "year": 2024,
+    "title": "The SPHERE view of the Taurus star-forming region: The full census of planet-forming disks with GTO and DESTINYS programs",
+    "journal": "A&A 685, A53",
+    "arxiv": "2403.02158",
+    "bibcode": "2024A&A...685A..53G"
+   }
+  },
+  {
+   "image_id": "xz-tau_alma2016",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "ALMA",
+   "wavelength_um": 1.6,
+   "wavelength_label": "",
+   "technique": "mm continuum interferometry",
+   "survey": null,
+   "file": "images/xz-tau/xz-tau_alma2016.png",
+   "credit": "Osorio et al. 2016, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Osorio",
+    "year": 2016,
+    "title": "A Dwarf Protoplanetary Disk around XZ Tau B",
+    "journal": "ApJL",
+    "arxiv": "1606.03118",
+    "bibcode": "2016ApJ...825L..10O"
+   }
+  },
+  {
+   "image_id": "xz-tau_zurlo2024",
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS",
+   "wavelength_um": 1.65,
+   "wavelength_label": "H band 1.65 um (polarized intensity, PI)",
+   "technique": "PDI",
+   "survey": null,
+   "credit": "Zurlo et al. 2024, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Zurlo",
+    "year": 2024,
+    "title": "The environment around young eruptive stars. SPHERE/IRDIS polarimetric imaging of 7 protostars",
+    "journal": "A&A 686, A76",
+    "arxiv": "2403.12124",
+    "bibcode": "2024A&A...686A..76Z"
+   },
+   "file": "images/xz-tau/xz-tau_zurlo2024.png"
+  }
+ ],
+ "notes": "AUTO-CREATED from staging - fill metadata & coords",
+ "last_updated": "2026-07-06",
+ "mags": {
+  "V": 10.4,
+  "G": 12.9076,
+  "R": 13.12,
+  "J": 9.385,
+  "H": 8.15,
+  "K": 7.291
+ }
+}

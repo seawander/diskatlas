@@ -1,0 +1,30 @@
+{
+ "survey": "c2-hd100453-sphere2017",
+ "survey_name": null,
+ "source_image": "images/_sources/extracted/1610.10089/HD100453SPHEREIRDISQphiUphiv2.pdf",
+ "pdf_page": 1,
+ "panels": [
+  {
+   "id": "hd-100453",
+   "image_id": "hd-100453_sphere2017",
+   "bbox_frac": [0.0968, 0.0567, 0.4688, 0.8507]
+  }
+ ],
+ "image_defaults": {
+  "type": "disk_scattered",
+  "facility": "VLT-SPHERE",
+  "instrument": "IRDIS DPI",
+  "wavelength_um": 1.25,
+  "wavelength_label": "J band 1.25 um Qphi; two spirals driven by M-dwarf companion",
+  "technique": "PDI"
+ },
+ "credit": "Benisty et al. 2017, Fig. 1 (J Qphi, crop)",
+ "paper": {
+  "first_author": "Benisty",
+  "year": 2017,
+  "title": "Shadows and spirals in the protoplanetary disk HD 100453",
+  "journal": "A&A 597, A42",
+  "arxiv": "1610.10089",
+  "bibcode": "2017A&A...597A..42B"
+ }
+}

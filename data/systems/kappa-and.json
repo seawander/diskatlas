@@ -1,0 +1,121 @@
+{
+ "id": "kappa-and",
+ "name": "kappa And",
+ "alt_names": [],
+ "simbad": "kappa And",
+ "ra_deg": 355.1021155795795,
+ "dec_deg": 44.3339329637872,
+ "dist_pc": 51.5,
+ "sptype": "B9IVn",
+ "region": null,
+ "categories": [],
+ "planets": [
+  {
+   "name": "b",
+   "status": "confirmed",
+   "note": "Near the planet/BD boundary (~13-22 MJup)",
+   "paper": {
+    "first_author": "Currie",
+    "year": 2018,
+    "arxiv": "1810.09457",
+    "bibcode": null
+   }
+  }
+ ],
+ "images": [
+  {
+   "type": "planet",
+   "facility": "Subaru-HiCIAO",
+   "instrument": "HiCIAO",
+   "wavelength_um": 1.65,
+   "wavelength_label": "JHK composite; SEEDS discovery",
+   "technique": "ADI",
+   "survey": null,
+   "credit": "Carson et al. 2013, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Carson",
+    "year": 2013,
+    "title": "Direct Imaging Discovery of a 'Super-Jupiter' Around the Late B-Type Star kappa And",
+    "journal": "ApJL 763, L32",
+    "arxiv": "1211.3744",
+    "bibcode": "2013ApJ...763L..32C"
+   },
+   "image_id": "kappa-and_seeds2013",
+   "file": "images/kappa-and/kappa-and_seeds2013.png"
+  },
+  {
+   "type": "planet",
+   "facility": "Subaru-SCExAO",
+   "instrument": "CHARIS",
+   "wavelength_um": 1.65,
+   "wavelength_label": "JHK IFS imaging + spectrum of b",
+   "technique": "ADI",
+   "survey": null,
+   "credit": "Currie et al. 2018, Fig. 2 (crop: CHARIS ADI, conservative)",
+   "paper": {
+    "first_author": "Currie",
+    "year": 2018,
+    "title": "SCExAO/CHARIS Near-infrared Direct Imaging, Spectroscopy, and Forward-Modeling of kappa And b: A Likely Young, Low-gravity Superjovian Companion",
+    "journal": "AJ 156, 291",
+    "arxiv": "1810.09457",
+    "bibcode": null
+   },
+   "image_id": "kappa-and_scexao2018",
+   "file": "images/kappa-and/kappa-and_scexao2018.png"
+  },
+  {
+   "image_id": "kappa-and_nirc22014",
+   "type": "planet",
+   "facility": "Keck",
+   "instrument": "NIRC2",
+   "wavelength_um": 2.146,
+   "wavelength_label": "Ks (2.146 um) and L' (3.776 um)",
+   "technique": "angular differential imaging (ADI) high-contrast",
+   "survey": null,
+   "file": "images/kappa-and/kappa-and_nirc22014.png",
+   "credit": "Bonnefoy et al. 2014, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Bonnefoy",
+    "year": 2014,
+    "title": "Characterization of the gaseous companion κ Andromedae b: New Keck and LBTI high-contrast observations",
+    "journal": "A&A 562, A111",
+    "arxiv": "1308.3859",
+    "bibcode": "2014A&A...562A.111B"
+   }
+  },
+  {
+   "image_id": "kappa-and_lbti2014",
+   "type": "planet",
+   "facility": "LBT",
+   "instrument": "LBTI/LMIRCam",
+   "wavelength_um": 4.78,
+   "wavelength_label": "M' (4.78 um)",
+   "technique": "ADI (single-aperture mode), MPIA-LBTI pipeline",
+   "survey": null,
+   "file": "images/kappa-and/kappa-and_lbti2014.png",
+   "credit": "Bonnefoy et al. 2014, Fig. 2 (crop)",
+   "paper": {
+    "first_author": "Bonnefoy",
+    "year": 2014,
+    "title": "Characterization of the gaseous companion kappa Andromedae b: New Keck and LBTI high-contrast observations",
+    "journal": "Astronomy & Astrophysics",
+    "arxiv": "1308.3859",
+    "bibcode": "2014A&A...562A.111B"
+   }
+  }
+ ],
+ "notes": null,
+ "last_updated": "2026-07-07",
+ "plx_mas": 19.4064,
+ "mags": {
+  "U": 3.8,
+  "B": 4.06,
+  "V": 4.14,
+  "G": 4.147998,
+  "R": 4.15,
+  "I": 4.22,
+  "J": 4.624,
+  "H": 4.595,
+  "K": 4.571
+ }
+}

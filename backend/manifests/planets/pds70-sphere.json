@@ -1,0 +1,35 @@
+{
+ "survey": "pl-pds70-sphere",
+ "survey_name": null,
+ "source_image": "images/_sources/extracted/1806.11568/pca_PDS70_all.pdf",
+ "pdf_page": null,
+ "panels": [
+  {
+   "id": "pds-70",
+   "image_id": "pds-70_sphere2018",
+   "bbox_frac": [
+    0.2,
+    0.0,
+    0.404,
+    1.0
+   ]
+  }
+ ],
+ "image_defaults": {
+  "type": "disk_scattered",
+  "facility": "VLT-SPHERE",
+  "instrument": "IRDIS",
+  "wavelength_um": 1.65,
+  "wavelength_label": "H2H3 band; planet b within the disk gap",
+  "technique": "ADI"
+ },
+ "credit": "Keppler et al. 2018, Fig. 9 (crop)",
+ "paper": {
+  "first_author": "Keppler",
+  "year": 2018,
+  "title": "Discovery of a planetary-mass companion within the gap of the transition disk around PDS 70",
+  "journal": "A&A 617, A44",
+  "arxiv": "1806.11568",
+  "bibcode": "2018A&A...617A..44K"
+ }
+}

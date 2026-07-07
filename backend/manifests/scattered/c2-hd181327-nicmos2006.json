@@ -1,0 +1,29 @@
+{
+ "survey": "c2-hd181327-nicmos2006",
+ "survey_name": null,
+ "source_image": "images/_sources/_views/c2_hd181327_f2.png",
+ "panels": [
+  {
+   "id": "hd-181327",
+   "image_id": "hd-181327_nicmos2006",
+   "bbox_frac": [0.0, 0.0, 0.497, 0.497]
+  }
+ ],
+ "image_defaults": {
+  "type": "disk_scattered",
+  "facility": "HST",
+  "instrument": "NICMOS",
+  "wavelength_um": 1.1,
+  "wavelength_label": "1.1 um; bright ring",
+  "technique": "coronagraphy"
+ },
+ "credit": "Schneider et al. 2006, Fig. 2a (crop)",
+ "paper": {
+  "first_author": "Schneider",
+  "year": 2006,
+  "title": "Discovery of an 86 AU Radius Debris Ring Around HD 181327",
+  "journal": "ApJ 650, 414",
+  "arxiv": "astro-ph/0606213",
+  "bibcode": "2006ApJ...650..414S"
+ }
+}

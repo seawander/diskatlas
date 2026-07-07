@@ -1,0 +1,27 @@
+{
+ "survey": "n-yses1-jwst2025",
+ "survey_name": null,
+ "source_image": "images/_sources/extracted/2507.18861/2507.18861.pdf",
+ "pdf_page": 3,
+ "dpi": 220,
+ "credit": "Hoch et al. 2025, Fig. 1 (crop: JWST/NIRSpec IFU 4.0 um datacube slice with b and c)",
+ "paper": {
+  "first_author": "Hoch",
+  "year": 2025,
+  "title": "Silicate clouds and a circumplanetary disk in the YSES-1 exoplanet system",
+  "journal": "Nature (2025)",
+  "arxiv": "2507.18861",
+  "bibcode": null
+ },
+ "panels": [
+  { "id": "yses-1", "image_id": "yses-1_jwst2025", "bbox_frac": [0.118, 0.185, 0.334, 0.408] }
+ ],
+ "image_defaults": {
+  "type": "planet",
+  "facility": "JWST",
+  "instrument": "NIRSpec IFU",
+  "wavelength_um": 4.0,
+  "wavelength_label": "NIRSpec IFU prism 4.0 um slice showing b and c; silicate clouds in c, CPD around b",
+  "technique": "other"
+ }
+}

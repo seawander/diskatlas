@@ -1,0 +1,28 @@
+{
+ "survey": "s-hd100546-alma2014",
+ "survey_name": null,
+ "source_image": "images/_sources/extra/walsh2014_hd100546.pdf",
+ "pdf_page": 17,
+ "dpi": 300,
+ "panels": [
+  {"id": "hd-100546", "image_id": "hd-100546_alma2014",
+   "bbox_frac": [0.30824, 0.25455, 0.64118, 0.54364]}
+ ],
+ "image_defaults": {
+  "type": "disk_mm",
+  "facility": "ALMA",
+  "instrument": "Band 7",
+  "wavelength_um": 870,
+  "wavelength_label": "870 um continuum (black contours) over the CO J=3-2 velocity map",
+  "technique": "interferometry"
+ },
+ "credit": "Walsh et al. 2014, Fig. 1 (crop)",
+ "paper": {
+  "first_author": "Walsh",
+  "year": 2014,
+  "title": "ALMA Hints at the Presence of Two Companions in the Disk around HD 100546",
+  "journal": "ApJL 791, L6",
+  "arxiv": "1405.6542",
+  "bibcode": "2014ApJ...791L...6W"
+ }
+}

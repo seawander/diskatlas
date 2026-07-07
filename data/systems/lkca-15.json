@@ -1,0 +1,264 @@
+{
+ "id": "lkca-15",
+ "name": "LkCa 15",
+ "alt_names": [],
+ "simbad": "LkCa 15",
+ "ra_deg": 69.82412984284,
+ "dec_deg": 22.35094169194,
+ "dist_pc": 157.2,
+ "sptype": "K5:Ve",
+ "region": "Taurus",
+ "categories": [
+  "protoplanetary"
+ ],
+ "planets": [
+  {
+   "name": "b",
+   "status": "disputed",
+   "note": "Kraus & Ireland 2012 candidate; later work favors scattered light from inner disk",
+   "paper": {
+    "first_author": "Kraus",
+    "year": 2012,
+    "arxiv": "1110.3808",
+    "bibcode": null,
+    "_verify": true
+   }
+  }
+ ],
+ "images": [
+  {
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "technique": "interferometry",
+   "instrument": "Band 7",
+   "wavelength_um": 900,
+   "wavelength_label": "0.9 mm continuum",
+   "image_id": "lkca-15_exoalma",
+   "survey": "exoALMA",
+   "file": "images/lkca-15/lkca-15_exoalma.png",
+   "credit": "Curone et al. 2025, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Curone",
+    "year": 2025,
+    "title": "exoALMA IV: Substructures, Asymmetries, and the Faint Outer Disk in Continuum Emission",
+    "journal": "ApJL (exoALMA special issue)",
+    "arxiv": "2504.18725",
+    "bibcode": null
+   }
+  },
+  {
+   "type": "disk_scattered",
+   "facility": "Gemini-NIRI",
+   "instrument": "NIRI",
+   "wavelength_um": 2.15,
+   "wavelength_label": "Ks band; gapped disk (PCA ref.-star subtraction)",
+   "technique": "RDI",
+   "survey": "SEEDS",
+   "credit": "Thalmann et al. 2014, Fig. 2a (crop)",
+   "paper": {
+    "first_author": "Thalmann",
+    "year": 2014,
+    "title": "The architecture of the LkCa 15 transitional disk revealed by high-contrast imaging",
+    "journal": "A&A 566, A51",
+    "arxiv": "1402.1766",
+    "bibcode": "2014A&A...566A..51T"
+   },
+   "image_id": "lkca-15_seeds2014",
+   "file": "images/lkca-15/lkca-15_seeds2014.png"
+  },
+  {
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS DPI",
+   "wavelength_um": 1.25,
+   "wavelength_label": "J band 1.25 um (pol. intensity)",
+   "technique": "PDI",
+   "image_id": "lkca-15_sphere-taurus",
+   "survey": "SPHERE-Taurus",
+   "file": "images/lkca-15/lkca-15_sphere-taurus.png",
+   "credit": "Garufi et al. 2024, Fig. 2 (crop)",
+   "paper": {
+    "first_author": "Garufi",
+    "year": 2024,
+    "title": "The SPHERE view of the Taurus star-forming region: The full census of planet-forming disks with GTO and DESTINYS programs",
+    "journal": "A&A 685, A53",
+    "arxiv": "2403.02158",
+    "bibcode": "2024A&A...685A..53G"
+   }
+  },
+  {
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS Ks",
+   "wavelength_um": 2.18,
+   "wavelength_label": "Ks 2.2 um (total intensity, RDI)",
+   "technique": "RDI",
+   "image_id": "lkca-15_sphere-ks-rdi",
+   "survey": "SPHERE-Ks-RDI",
+   "file": "images/lkca-15/lkca-15_sphere-ks-rdi.png",
+   "credit": "Ren et al. 2023, Ks total-intensity gallery (crop)",
+   "paper": {
+    "first_author": "Ren",
+    "year": 2023,
+    "title": "Protoplanetary disks in Ks-band total intensity and polarized light",
+    "journal": "A&A 680, A114",
+    "arxiv": "2310.08589",
+    "bibcode": "2023A&A...680A.114R"
+   }
+  },
+  {
+   "image_id": "lkca-15_seeds",
+   "type": "disk_scattered",
+   "facility": "Subaru-HiCIAO",
+   "instrument": "HiCIAO",
+   "wavelength_um": 1.65,
+   "wavelength_label": "H band (ADI; gap in reflected light)",
+   "technique": "ADI",
+   "survey": "SEEDS",
+   "file": "images/lkca-15/lkca-15_seeds.png",
+   "credit": "Thalmann et al. 2010, Fig. 1a (crop)",
+   "paper": {
+    "first_author": "Thalmann",
+    "year": 2010,
+    "title": "Imaging of a Transitional Disk Gap in Reflected Light: Indications of Planet Formation Around the Young Solar Analog LkCa 15",
+    "journal": "ApJL 718, L87",
+    "arxiv": "1005.5162",
+    "bibcode": "2010ApJ...718L..87T"
+   }
+  },
+  {
+   "image_id": "lkca-15_alice-f110w",
+   "type": "disk_scattered",
+   "facility": "HST",
+   "instrument": "NICMOS",
+   "wavelength_um": 1.1,
+   "wavelength_label": "F110W 1.1 um (ALICE archival reprocessing, combined coadd)",
+   "technique": "RDI",
+   "survey": "ALICE",
+   "file": "images/lkca-15/lkca-15_alice-f110w.png",
+   "credit": "ALICE HLSP v1 combined coadd (HST program 10177, STScI) — hi-res: ALICE archive (STScI)",
+   "paper": {
+    "first_author": "Hagan",
+    "year": 2018,
+    "title": "ALICE Data Release: A revaluation of HST-NICMOS coronagraphic images",
+    "journal": "AJ 155, 179",
+    "arxiv": "1802.07754",
+    "bibcode": null
+   },
+   "hires_url": "https://archive.stsci.edu/prepds/alice/"
+  },
+  {
+   "type": "disk_scattered",
+   "facility": "Keck",
+   "instrument": "NIRC2 vortex",
+   "wavelength_um": 3.8,
+   "wavelength_label": "L' 3.8 um scattered light (ALMA contours overlaid)",
+   "technique": "RDI",
+   "image_id": "lkca-15_keck-vortex-2024",
+   "file": "images/lkca-15/lkca-15_keck-vortex-2024.png",
+   "survey": "Keck-vortex-2024",
+   "credit": "Wallack et al. 2024, Fig. 4 (crop)",
+   "paper": {
+    "first_author": "Wallack",
+    "year": 2024,
+    "title": "A Survey of Protoplanetary Disks Using the Keck/NIRC2 Vortex Coronagraph",
+    "journal": "AJ 168, 78",
+    "arxiv": "2408.04048",
+    "bibcode": "2024AJ....168...78W"
+   }
+  },
+  {
+   "image_id": "lkca-15_alma-band3-2025",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 3",
+   "wavelength_um": 3000,
+   "wavelength_label": "3 mm continuum, ~60 mas (9.4 au) resolution",
+   "technique": "interferometry",
+   "survey": null,
+   "credit": "Sierra et al. 2025, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Sierra",
+    "year": 2025,
+    "title": "High angular resolution evidence of dust traps from deep ALMA Band 3 observations of LkCa15",
+    "journal": "MNRAS 538, 2358",
+    "arxiv": "2503.03336",
+    "bibcode": null
+   },
+   "file": "images/lkca-15/lkca-15_alma-band3-2025.png"
+  },
+  {
+   "image_id": "lkca-15_sma2011",
+   "type": "disk_mm",
+   "facility": "SMA",
+   "instrument": "SMA",
+   "wavelength_um": 880,
+   "wavelength_label": "880 micron continuum",
+   "technique": "interferometry",
+   "survey": null,
+   "credit": "Andrews et al. 2011, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Andrews",
+    "year": 2011,
+    "title": "Resolved Images of Large Cavities in Protoplanetary Transition Disks",
+    "journal": "ApJ, 732, 42",
+    "arxiv": "1103.0284",
+    "bibcode": null
+   },
+   "file": "images/lkca-15/lkca-15_sma2011.png"
+  },
+  {
+   "image_id": "lkca-15_sphere-ks-qphi",
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS",
+   "wavelength_um": 2.18,
+   "wavelength_label": "Ks band 2.2 um (pol. intensity, Qphi)",
+   "technique": "PDI",
+   "survey": "SPHERE-Ks-RDI",
+   "credit": "Ren et al. 2023, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Ren",
+    "year": 2023,
+    "title": "Protoplanetary disks in $K_s$-band total intensity and polarized light",
+    "journal": "A&A 680, A114",
+    "arxiv": "2310.08589",
+    "bibcode": "2023A&A...680A.114R"
+   },
+   "file": "images/lkca-15/lkca-15_sphere-ks-qphi.png"
+  },
+  {
+   "image_id": "lkca-15_magao2022",
+   "type": "planet",
+   "facility": "Magellan-MagAO",
+   "instrument": "VisAO",
+   "wavelength_um": 0.656,
+   "wavelength_label": "Halpha differential imaging (2014 Nov 16 epoch)",
+   "technique": "ADI",
+   "survey": "GAPlanetS",
+   "credit": "Follette et al. 2023, Fig. 11 (crop)",
+   "paper": {
+    "first_author": "Follette",
+    "year": 2023,
+    "title": "The Giant Accreting Protoplanet Survey (GAPlanetS) - Results from a Six Year Campaign to Image Accreting Protoplanets",
+    "journal": "AJ",
+    "arxiv": "2211.02109",
+    "bibcode": null
+   },
+   "file": "images/lkca-15/lkca-15_magao2022.png",
+   "note": "Reproduces the LkCa 15 'b' Halpha excess (classically computed SNR=5.0) at the previously reported Sallum et al. 2015 candidate location; the paper explicitly treats this as a real recovered Halpha signal but flags its planetary nature as ambiguous/debated (could be a compact scattered-light feature). PDS 70 b/c recoveries in this same paper were explicitly called 'marginal' (SNR~3-4) by the authors and were dropped per instructions."
+  }
+ ],
+ "notes": null,
+ "last_updated": "2026-07-07",
+ "plx_mas": 6.3619,
+ "mags": {
+  "B": 13.01,
+  "V": 12.03,
+  "G": 11.591105,
+  "R": 11.61,
+  "J": 9.424,
+  "H": 8.6,
+  "K": 8.163
+ }
+}

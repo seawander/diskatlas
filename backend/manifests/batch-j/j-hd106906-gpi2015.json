@@ -1,0 +1,28 @@
+{
+ "survey": "j-hd106906-gpi2015",
+ "survey_name": null,
+ "source_image": "images/_sources/extracted/1510.02747/fig1_v2.jpg",
+ "pdf_page": null,
+ "panels": [
+  {
+   "id": "hd-106906",
+   "image_id": "hd-106906_gpi2015",
+   "bbox_frac": [
+    0.0,
+    0.0,
+    0.3535,
+    1.0
+   ]
+  }
+ ],
+ "image_defaults": {},
+ "credit": "Kalas et al. 2015, Fig. 1 (crop: GPI H-band KLIP)",
+ "paper": {
+  "first_author": "Kalas",
+  "year": 2015,
+  "title": "Direct imaging of an asymmetric debris disk in the HD 106906 planetary system",
+  "journal": "ApJ 814, 32",
+  "arxiv": "1510.02747",
+  "bibcode": "2015ApJ...814...32K"
+ }
+}

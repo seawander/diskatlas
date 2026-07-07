@@ -1,0 +1,59 @@
+{
+ "id": "roxs-42b",
+ "name": "ROXs 42B",
+ "alt_names": [],
+ "simbad": "ROXs 42B",
+ "ra_deg": 247.81257635834,
+ "dec_deg": -24.54547640136,
+ "dist_pc": 146.4,
+ "sptype": "M0",
+ "region": "Ophiuchus",
+ "categories": [],
+ "planets": [
+  {
+   "name": "b",
+   "status": "confirmed",
+   "note": "~9 MJup",
+   "paper": {
+    "first_author": "Currie",
+    "year": 2014,
+    "arxiv": "1310.4825",
+    "bibcode": "2014ApJ...780L..30C"
+   }
+  }
+ ],
+ "images": [
+  {
+   "type": "planet",
+   "facility": "Keck",
+   "instrument": "NIRC2",
+   "wavelength_um": 1.65,
+   "wavelength_label": "H band; companion confirmation image",
+   "technique": "ADI",
+   "survey": null,
+   "credit": "Currie et al. 2014, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Currie",
+    "year": 2014,
+    "title": "Direct Imaging and Spectroscopy of a Candidate Companion Below/Near the Deuterium-Burning Limit in the Young Binary Star System, ROXs 42B",
+    "journal": "ApJL 780, L30",
+    "arxiv": "1310.4825",
+    "bibcode": "2014ApJ...780L..30C"
+   },
+   "image_id": "roxs-42b_keck2014",
+   "file": "images/roxs-42b/roxs-42b_keck2014.png"
+  }
+ ],
+ "notes": null,
+ "last_updated": "2026-07-07",
+ "plx_mas": 6.8284,
+ "mags": {
+  "V": 14.27,
+  "G": 13.091431,
+  "R": 13.03,
+  "I": 11.72,
+  "J": 9.906,
+  "H": 9.017,
+  "K": 8.671
+ }
+}

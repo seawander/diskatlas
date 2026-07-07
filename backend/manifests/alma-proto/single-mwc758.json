@@ -1,0 +1,35 @@
+{
+ "survey": "single-mwc758",
+ "survey_name": null,
+ "source_image": "images/_sources/extracted/1805.12141/plot_image.pdf",
+ "pdf_page": 1,
+ "panels": [
+  {
+   "id": "mwc-758",
+   "image_id": "mwc-758_alma2018",
+   "bbox_frac": [
+    0.18618,
+    0.139636,
+    0.987524,
+    0.892454
+   ]
+  }
+ ],
+ "image_defaults": {
+  "type": "disk_mm",
+  "facility": "ALMA",
+  "instrument": "Band 7",
+  "wavelength_um": 870,
+  "wavelength_label": "870 um continuum (clumps + cavity)",
+  "technique": "interferometry"
+ },
+ "credit": "Dong et al. 2018, Fig. 1a (crop)",
+ "paper": {
+  "first_author": "Dong",
+  "year": 2018,
+  "title": "The Eccentric Cavity, Triple Rings, Two-Armed Spirals, and Double Clumps of the MWC 758 Disk",
+  "journal": "ApJ 860, 124",
+  "arxiv": "1805.12141",
+  "bibcode": null
+ }
+}

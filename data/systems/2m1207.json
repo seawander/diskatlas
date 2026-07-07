@@ -1,0 +1,101 @@
+{
+ "id": "2m1207",
+ "name": "2M1207",
+ "alt_names": [
+  "2M1207A"
+ ],
+ "simbad": "2MASSWJ 1207334-393254",
+ "ra_deg": 181.8894481353499,
+ "dec_deg": -39.54833795144,
+ "dist_pc": 64.7,
+ "sptype": "M8IVe",
+ "region": "TW Hya assoc.",
+ "categories": [],
+ "planets": [
+  {
+   "name": "b",
+   "status": "confirmed",
+   "note": "First directly imaged planetary-mass companion (2004)",
+   "paper": {
+    "first_author": "Chauvin",
+    "year": 2004,
+    "arxiv": "astro-ph/0409323",
+    "bibcode": "2004A&A...425L..29C"
+   }
+  }
+ ],
+ "images": [
+  {
+   "type": "planet",
+   "facility": "VLT-NACO",
+   "instrument": "NACO",
+   "wavelength_um": 2.2,
+   "wavelength_label": "H+Ks+L' composite; first image of a planetary-mass companion",
+   "technique": "other",
+   "survey": null,
+   "credit": "Chauvin et al. 2004, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Chauvin",
+    "year": 2004,
+    "title": "A giant planet candidate near a young brown dwarf",
+    "journal": "A&A 425, L29",
+    "arxiv": "astro-ph/0409323",
+    "bibcode": "2004A&A...425L..29C"
+   },
+   "image_id": "2m1207_naco2004",
+   "file": "images/2m1207/2m1207_naco2004.png"
+  },
+  {
+   "image_id": "2m1207_nicmos2006",
+   "type": "planet",
+   "facility": "HST",
+   "instrument": "NICMOS",
+   "wavelength_um": 1.6,
+   "wavelength_label": "near-IR (0.9-1.6 um, incl. F160W)",
+   "technique": "HST NICMOS direct imaging (multi-band, two-epoch CPM)",
+   "survey": null,
+   "file": "images/2m1207/2m1207_nicmos2006.png",
+   "credit": "Song et al. 2006, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Song",
+    "year": 2006,
+    "title": "HST NICMOS Imaging of the Planetary-mass Companion to the Young Brown Dwarf 2MASS J1207334-393254",
+    "journal": "ApJ",
+    "arxiv": "astro-ph/0607490",
+    "bibcode": "2006ApJ...652..724S"
+   }
+  },
+  {
+   "image_id": "2m1207_miri2025",
+   "type": "planet",
+   "facility": "JWST",
+   "instrument": "MIRI (Imaging, F1000W/F1500W)",
+   "wavelength_um": 12.5,
+   "wavelength_label": "10 and 15 um imaging",
+   "technique": "other",
+   "survey": null,
+   "credit": "Patapis et al. 2025, Fig. 2 (crop)",
+   "paper": {
+    "first_author": "Patapis",
+    "year": 2025,
+    "title": "JWST/MIRI observations of the young TWA 27 system: hydrocarbon disk chemistry, silicate clouds, evidence for a CPD",
+    "journal": "A&A 704, A5",
+    "arxiv": "2507.08961",
+    "bibcode": null
+   },
+   "file": "images/2m1207/2m1207_miri2025.png"
+  }
+ ],
+ "notes": null,
+ "last_updated": "2026-07-07",
+ "plx_mas": 15.4624,
+ "mags": {
+  "V": 19.95,
+  "G": 17.388071,
+  "R": 17.99,
+  "I": 15.88,
+  "J": 12.995,
+  "H": 12.388,
+  "K": 11.945
+ }
+}

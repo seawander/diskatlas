@@ -1,0 +1,58 @@
+{
+ "id": "fw-tau",
+ "name": "FW Tau",
+ "alt_names": [],
+ "simbad": "FW Tau",
+ "ra_deg": 67.3737656,
+ "dec_deg": 26.2814067,
+ "dist_pc": 145,
+ "plx_mas": null,
+ "mags": {
+  "G": 14.1133,
+  "J": 10.34,
+  "H": 9.675,
+  "K": 9.388
+ },
+ "sptype": "M5.5",
+ "region": "Taurus",
+ "categories": [],
+ "planets": [
+  {
+   "name": "C",
+   "status": "refuted",
+   "note": "Discovered as 'FW Tau b' -- a ~10 Mjup planetary-mass candidate at ~330 AU from the FW Tau AB close binary (Kraus et al. 2014, arXiv:1311.7664, AJ 147, 146). Commonly relabeled FW Tau C since FW Tau AB is itself a close binary. A later ALMA dynamical-mass measurement (Wu & Sheehan 2017, ApJL 846, L26, arXiv:1708.08122, 'An ALMA Dynamical Mass Estimate of the Proposed Planetary-mass Companion FW Tau C') found M ~ 0.1 Msun -- consistent with a low-mass star hosting an inclined accretion disk, not a planetary-mass object. Status set to 'refuted' per the current literature; both papers are cited for traceability.",
+   "method": "imaging",
+   "paper": {
+    "first_author": "Kraus",
+    "year": 2014,
+    "arxiv": "1311.7664",
+    "bibcode": null
+   }
+  }
+ ],
+ "images": [
+  {
+   "image_id": "fw-tau_nirc2-2014",
+   "type": "planet",
+   "facility": "Keck-NIRC2",
+   "instrument": "NIRC2 (NGS AO)",
+   "wavelength_um": 2.124,
+   "wavelength_label": "K' band (2.124 um)",
+   "technique": "other",
+   "survey": null,
+   "file": "images/fw-tau/fw-tau_nirc2-2014.png",
+   "credit": "Kraus et al. 2014, Fig. 1 (crop)",
+   "hires_url": null,
+   "paper": {
+    "first_author": "Kraus",
+    "year": 2014,
+    "title": "Three Wide Planetary-Mass Companions to FW Tau, ROXs 12, and ROXs 42B",
+    "journal": "AJ 147, 146",
+    "arxiv": "1311.7664",
+    "bibcode": null
+   }
+  }
+ ],
+ "notes": "The companion originally reported as 'FW Tau b' (Kraus et al. 2014) is now referred to as FW Tau C and has been refuted as a planetary-mass object: ALMA dynamical mass measurements (Wu & Sheehan 2017, arXiv:1708.08122) indicate it is a low-mass star (~0.1 Msun) with an inclined accretion disk, not a planet.",
+ "last_updated": "2026-07-07"
+}

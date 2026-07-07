@@ -1,0 +1,36 @@
+{
+ "survey": "p1-iras04302-vla2023",
+ "source_image": "images/_sources/extracted/2302.01949/figures/VLA_Ka_Q_b7_b4_images.pdf",
+ "pdf_page": 1,
+ "dpi": 220,
+ "panels": [
+  {
+   "id": "iras-04302-2247",
+   "image_id": "iras-04302-2247_vla2023",
+   "bbox_frac": [
+    0.7039,
+    0.0223,
+    0.9103,
+    0.8979
+   ]
+  }
+ ],
+ "image_defaults": {
+  "type": "disk_mm",
+  "facility": "VLA",
+  "technique": "interferometry",
+  "instrument": "Ka band",
+  "wavelength_um": 9200,
+  "wavelength_label": "9.2 mm continuum (free-free corrected)"
+ },
+ "survey_name": null,
+ "credit": "Villenave et al. 2023, Fig. 2 (crop)",
+ "paper": {
+  "first_author": "Villenave",
+  "year": 2023,
+  "title": "Modest dust settling in the IRAS04302+2247 Class I protoplanetary disk",
+  "journal": "ApJ 946, 70",
+  "arxiv": "2302.01949",
+  "bibcode": "2023ApJ...946...70V"
+ }
+}

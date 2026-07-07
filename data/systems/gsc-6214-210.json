@@ -1,0 +1,80 @@
+{
+ "id": "gsc-6214-210",
+ "name": "GSC 6214-210",
+ "alt_names": [],
+ "simbad": "GSC 6214-210",
+ "ra_deg": 245.477782048,
+ "dec_deg": -20.71920571986,
+ "dist_pc": 108.8,
+ "sptype": "M1e",
+ "region": "Upper Sco",
+ "categories": [],
+ "planets": [
+  {
+   "name": "b",
+   "status": "confirmed",
+   "note": "~15 MJup, accreting",
+   "paper": {
+    "first_author": "Ireland",
+    "year": 2011,
+    "arxiv": "1011.2201",
+    "bibcode": "2011ApJ...726..113I"
+   }
+  }
+ ],
+ "images": [
+  {
+   "type": "planet",
+   "facility": "Keck",
+   "instrument": "NIRC2",
+   "wavelength_um": 2.1,
+   "wavelength_label": "Kp band; accreting wide companion",
+   "technique": "other",
+   "survey": null,
+   "credit": "Ireland et al. 2011, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Ireland",
+    "year": 2011,
+    "title": "Two Wide Planetary-Mass Companions to Solar-Type Stars in Upper Scorpius",
+    "journal": "ApJ 726, 113",
+    "arxiv": "1011.2201",
+    "bibcode": "2011ApJ...726..113I"
+   },
+   "image_id": "gsc-6214-210_keck2011",
+   "file": "images/gsc-6214-210/gsc-6214-210_keck2011.png"
+  },
+  {
+   "image_id": "gsc-6214-210_sphere2021",
+   "type": "planet",
+   "facility": "VLT-SPHERE",
+   "instrument": "SPHERE-IRDIS (polarimetry)",
+   "wavelength_um": 1.65,
+   "wavelength_label": "H band",
+   "technique": "PDI",
+   "survey": null,
+   "credit": "van Holstein et al. 2021, Fig. 10 (crop)",
+   "paper": {
+    "first_author": "van Holstein",
+    "year": 2021,
+    "title": "A survey of the linear polarization of directly imaged exoplanets and brown dwarf companions with SPHERE-IRDIS. First polarimetric detections revealing disks around DH Tau B and GSC 6214-210 B",
+    "journal": "A&A",
+    "arxiv": "2101.04033",
+    "bibcode": null
+   },
+   "file": "images/gsc-6214-210/gsc-6214-210_sphere2021.png"
+  }
+ ],
+ "notes": null,
+ "last_updated": "2026-07-07",
+ "plx_mas": 9.1923,
+ "mags": {
+  "B": 13.62,
+  "V": 12.38,
+  "G": 11.855234,
+  "R": 12.11,
+  "I": 11.08,
+  "J": 9.998,
+  "H": 9.342,
+  "K": 9.152
+ }
+}

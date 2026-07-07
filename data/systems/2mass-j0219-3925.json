@@ -1,0 +1,58 @@
+{
+ "id": "2mass-j0219-3925",
+ "name": "2MASS J02192210-3925225",
+ "alt_names": [],
+ "simbad": "2MASS J02192210-3925225",
+ "ra_deg": 34.8421266477,
+ "dec_deg": -39.4229277604,
+ "dist_pc": 40.25,
+ "plx_mas": 24.8478,
+ "mags": {
+  "G": 14.9847,
+  "J": 11.381,
+  "H": 10.811,
+  "K": 10.404
+ },
+ "sptype": "M6+L4",
+ "region": "Tucana-Horologium",
+ "categories": [],
+ "planets": [
+  {
+   "name": "B",
+   "status": "confirmed",
+   "note": "L4 companion at ~4 arcsec (~160 AU), model-dependent mass 12-15 Mjup, Tucana-Horologium member (30-40 Myr). Discovered via seeing-limited imaging (not adaptive optics).",
+   "method": "imaging",
+   "paper": {
+    "first_author": "Artigau",
+    "year": 2015,
+    "arxiv": "1505.01747",
+    "bibcode": null
+   }
+  }
+ ],
+ "images": [
+  {
+   "image_id": "2mass-j0219-3925_simon2015",
+   "type": "planet",
+   "facility": "CTIO-1.5m",
+   "instrument": "SIMON (seeing-limited, no AO)",
+   "wavelength_um": 1.25,
+   "wavelength_label": "J band",
+   "technique": "other",
+   "survey": "BANYAN",
+   "file": "images/2mass-j0219-3925/2mass-j0219-3925_simon2015.png",
+   "credit": "Artigau et al. 2015, Fig. 1 (crop)",
+   "hires_url": null,
+   "paper": {
+    "first_author": "Artigau",
+    "year": 2015,
+    "title": "BANYAN. VI. Discovery of a Companion at the Brown Dwarf/Planet-Mass Limit to a Tucana-Horologium M Dwarf",
+    "journal": "ApJ 806, 254",
+    "arxiv": "1505.01747",
+    "bibcode": null
+   }
+  }
+ ],
+ "notes": null,
+ "last_updated": "2026-07-07"
+}

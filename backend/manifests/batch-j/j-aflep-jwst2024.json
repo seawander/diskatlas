@@ -1,0 +1,21 @@
+{
+ "survey": "j-aflep-jwst2024",
+ "survey_name": null,
+ "source_image": "images/_sources/extracted/2406.09528/figures/combined_imgs_cc_sed_plot.pdf",
+ "pdf_page": null,
+ "panels": [
+  {
+   "id": "af-lep",
+   "image_id": "af-lep_jwst2024",
+   "bbox_frac": [
+    0.09,
+    0.03,
+    0.47,
+    0.375
+   ]
+  }
+ ],
+ "image_defaults": {},
+ "credit": "Franson et al. 2024, Fig. 1 (crop: F444W Oct 2023)",
+ "paper": null
+}

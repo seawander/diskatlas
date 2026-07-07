@@ -1,0 +1,26 @@
+{
+ "survey": "i-hd135344a-gravity2025",
+ "survey_name": null,
+ "source_image": "images/_sources/_views/bi_gravity-1.png",
+ "panels": [
+  { "id": "hd-135344-a", "image_id": "hd-135344-a_gravity2025",
+    "bbox_frac": [0.6635, 0.010, 0.9360, 0.9857] }
+ ],
+ "image_defaults": {
+  "type": "planet",
+  "facility": "VLTI-GRAVITY",
+  "instrument": "GRAVITY",
+  "wavelength_um": 2.2,
+  "wavelength_label": "K band (dual-field interferometry; planet detection map)",
+  "technique": "interferometry"
+ },
+ "credit": "Stolker et al. 2025, Fig. 2 (crop; 2023 Jul 1 epoch)",
+ "paper": {
+  "first_author": "Stolker",
+  "year": 2025,
+  "title": "Direct imaging discovery of a young giant planet orbiting on Solar System scales",
+  "journal": "A&A (2025)",
+  "arxiv": "2507.06206",
+  "bibcode": null
+ }
+}

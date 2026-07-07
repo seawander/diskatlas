@@ -1,0 +1,28 @@
+{
+ "survey": "j-uxtau-seeds",
+ "survey_name": null,
+ "source_image": "images/_sources/_views/j-uxtau.png",
+ "pdf_page": null,
+ "panels": [
+  {
+   "id": "ux-tau",
+   "image_id": "ux-tau_seeds",
+   "bbox_frac": [
+    0,
+    0,
+    1,
+    0.887
+   ]
+  }
+ ],
+ "image_defaults": {},
+ "credit": "Tanii et al. 2012, Fig. 1 (crop)",
+ "paper": {
+  "first_author": "Tanii",
+  "year": 2012,
+  "title": "High-Resolution Near-Infrared Polarimetry of a Circumstellar Disk around UX Tau A",
+  "journal": "PASJ 64, 124",
+  "arxiv": "1206.1215",
+  "bibcode": "2012PASJ...64..124T"
+ }
+}

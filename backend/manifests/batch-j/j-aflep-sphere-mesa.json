@@ -1,0 +1,21 @@
+{
+ "survey": "j-aflep-sphere-mesa",
+ "survey_name": null,
+ "source_image": "images/_sources/extracted/2302.06213/HIP25486_detector.pdf",
+ "pdf_page": null,
+ "panels": [
+  {
+   "id": "af-lep",
+   "image_id": "af-lep_sphere2023-mesa",
+   "bbox_frac": [
+    0.1475,
+    0.48,
+    0.356,
+    0.851
+   ]
+  }
+ ],
+ "image_defaults": {},
+ "credit": "Mesa et al. 2023, Fig. 1 (crop: IFS S/N map, 2022-12-20)",
+ "paper": null
+}

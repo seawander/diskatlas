@@ -1,0 +1,34 @@
+{
+ "survey": "g-twa7-sphere2021",
+ "survey_name": null,
+ "source_image": "images/_sources/extracted/2105.09949/fig1.pdf",
+ "panels": [
+  {
+   "id": "twa-7",
+   "image_id": "twa-7_sphere2021",
+   "bbox_frac": [
+    0.478,
+    0.006,
+    0.908,
+    0.468
+   ]
+  }
+ ],
+ "image_defaults": {
+  "type": "disk_scattered",
+  "facility": "VLT-SPHERE",
+  "instrument": "IRDIS pol",
+  "wavelength_um": 1.65,
+  "wavelength_label": "H band Q_phi polarized intensity",
+  "technique": "PDI"
+ },
+ "credit": "SPHERE data from Olofsson+2018, figure from Ren+2021 (Fig. 1b crop)",
+ "paper": {
+  "first_author": "Ren",
+  "year": 2021,
+  "title": "A Layered Debris Disk around M Star TWA 7 in Scattered Light",
+  "journal": "ApJ 914, 95",
+  "arxiv": "2105.09949",
+  "bibcode": "2021ApJ...914...95R"
+ }
+}

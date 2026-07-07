@@ -1,0 +1,48 @@
+{
+ "id": "gaia-dr2-5854897321965963264",
+ "name": "Gaia DR2 5854897321965963264",
+ "alt_names": [],
+ "simbad": "Gaia DR2 5854897321965963264",
+ "ra_deg": 184.01085222877,
+ "dec_deg": -71.05098195776,
+ "dist_pc": 103.0,
+ "plx_mas": 9.7091,
+ "mags": {
+  "V": 13.074,
+  "G": 12.283965,
+  "J": 9.875,
+  "H": 9.255,
+  "K": 9.028
+ },
+ "sptype": null,
+ "region": "Chamaeleon II",
+ "categories": [
+  "protoplanetary"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "image_id": "gaia-dr2-5854897321965963264_destinys",
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS",
+   "wavelength_um": 1.65,
+   "wavelength_label": "H band polarized light",
+   "technique": "PDI",
+   "survey": "SPHERE-NIR-census",
+   "file": "images/gaia-dr2-5854897321965963264/gaia-dr2-5854897321965963264_destinys.png",
+   "credit": "Garufi et al. 2026, Fig. A.1 (crop)",
+   "hires_url": null,
+   "paper": {
+    "first_author": "Garufi",
+    "year": 2026,
+    "title": "Planet-forming disks and their environment across regions and time from the full NIR census",
+    "journal": "A&A, in press",
+    "arxiv": "2603.01703",
+    "bibcode": null
+   }
+  }
+ ],
+ "notes": "First-published SPHERE/IRDIS H-band polarimetric image (DESTINYS). Signal clearly visible around the coronagraph out to 0.2\", with fainter signal detected out to 0.6\" (especially to the West), suggesting a relatively inclined disk with P.A. 10-20 deg. Disk features: ring (Garufi et al. 2026, Table A.5/Fig. A.1).",
+ "last_updated": "2026-07-06"
+}

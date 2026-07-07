@@ -1,0 +1,112 @@
+{
+ "id": "hd-142666",
+ "name": "HD 142666",
+ "alt_names": [],
+ "simbad": "HD 142666",
+ "ra_deg": 239.16675910904,
+ "dec_deg": -22.02777940893,
+ "dist_pc": 146.3,
+ "sptype": "F0V_sh",
+ "region": "Upper Sco / Sco-Cen",
+ "categories": [
+  "protoplanetary"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "technique": "interferometry",
+   "instrument": "Band 6",
+   "wavelength_um": 1250,
+   "wavelength_label": "1.25 mm continuum",
+   "image_id": "hd-142666_dsharp",
+   "survey": "DSHARP",
+   "file": "images/hd-142666/hd-142666_dsharp.png",
+   "credit": "Andrews et al. 2018, Fig. 3 (crop)",
+   "paper": {
+    "first_author": "Andrews",
+    "year": 2018,
+    "title": "The Disk Substructures at High Angular Resolution Project (DSHARP). I. Motivation, Sample, Calibration, and Overview",
+    "journal": "ApJL 869, L41",
+    "arxiv": "1812.04040",
+    "bibcode": "2018ApJ...869L..41A"
+   }
+  },
+  {
+   "type": "disk_scattered",
+   "facility": "Gemini-GPI",
+   "instrument": "IFS pol",
+   "wavelength_um": 1.24,
+   "wavelength_label": "J band 1.24 um (pol. intensity)",
+   "technique": "PDI",
+   "image_id": "hd-142666_gemini-lights",
+   "survey": "Gemini-LIGHTS",
+   "file": "images/hd-142666/hd-142666_gemini-lights.png",
+   "credit": "Rich et al. 2022, continuous gallery (crop)",
+   "paper": {
+    "first_author": "Rich",
+    "year": 2022,
+    "title": "Gemini-LIGHTS: Herbig Ae/Be and Massive T Tauri Protoplanetary Disks Imaged with Gemini Planet Imager",
+    "journal": "AJ 164, 109",
+    "arxiv": "2206.05815",
+    "bibcode": "2022AJ....164..109R"
+   }
+  },
+  {
+   "image_id": "hd-142666_alice-f110w",
+   "type": "disk_scattered",
+   "facility": "HST",
+   "instrument": "NICMOS",
+   "wavelength_um": 1.1,
+   "wavelength_label": "F110W 1.1 um (ALICE archival reprocessing, combined coadd)",
+   "technique": "RDI",
+   "survey": "ALICE",
+   "file": "images/hd-142666/hd-142666_alice-f110w.png",
+   "credit": "ALICE HLSP v1 combined coadd (HST program 10177, STScI) — hi-res: ALICE archive (STScI)",
+   "paper": {
+    "first_author": "Hagan",
+    "year": 2018,
+    "title": "ALICE Data Release: A revaluation of HST-NICMOS coronagraphic images",
+    "journal": "AJ 155, 179",
+    "arxiv": "1802.07754",
+    "bibcode": null
+   },
+   "hires_url": "https://archive.stsci.edu/prepds/alice/"
+  },
+  {
+   "image_id": "hd-142666_sphere2021",
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS DPI",
+   "wavelength_um": 1.65,
+   "wavelength_label": "near-IR polarized scattered light (H band, Qphi)",
+   "technique": "PDI",
+   "survey": null,
+   "credit": "Garufi et al. 2021, Fig. 2 (crop)",
+   "paper": {
+    "first_author": "Garufi",
+    "year": 2021,
+    "title": "A SPHERE survey of self-shadowed planet-forming disks",
+    "journal": "Astronomy & Astrophysics",
+    "arxiv": "2111.07856",
+    "bibcode": null
+   },
+   "file": "images/hd-142666/hd-142666_sphere2021.png"
+  }
+ ],
+ "notes": null,
+ "last_updated": "2026-07-07",
+ "plx_mas": 6.8375,
+ "mags": {
+  "U": 9.41,
+  "B": 9.37,
+  "V": 8.82,
+  "G": 8.586451,
+  "R": 8.31,
+  "I": 8.01,
+  "J": 7.351,
+  "H": 6.739,
+  "K": 6.077
+ }
+}

@@ -1,0 +1,49 @@
+{
+ "id": "hd-21997",
+ "name": "HD 21997",
+ "alt_names": [],
+ "simbad": "HD 21997",
+ "ra_deg": 52.97352920947,
+ "dec_deg": -25.61415000031,
+ "dist_pc": 69.7,
+ "sptype": "A3IV/V",
+ "region": null,
+ "categories": [
+  "debris"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "type": "disk_mm",
+   "facility": "ALMA/SMA",
+   "technique": "interferometry",
+   "instrument": "Band 6/7",
+   "wavelength_um": 1300,
+   "wavelength_label": "~0.9-1.3 mm continuum",
+   "image_id": "hd-21997_reasons",
+   "survey": "REASONS",
+   "file": "images/hd-21997/hd-21997_reasons.png",
+   "credit": "Matrà et al. 2025, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Matra",
+    "year": 2025,
+    "title": "REsolved ALMA and SMA Observations of Nearby Stars (REASONS): A population of 74 resolved planetesimal belts at millimetre wavelengths",
+    "journal": "A&A 693, A151",
+    "arxiv": "2501.09058",
+    "bibcode": "2025A&A...693A.151M"
+   }
+  }
+ ],
+ "notes": "coverage: no resolved scattered-light image as of 2026-07 (swept)",
+ "last_updated": "2026-07-07",
+ "plx_mas": 14.3501,
+ "mags": {
+  "B": 6.501,
+  "V": 6.372,
+  "G": 6.371929,
+  "I": 6.25,
+  "J": 6.159,
+  "H": 6.115,
+  "K": 6.1
+ }
+}

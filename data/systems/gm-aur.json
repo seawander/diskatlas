@@ -1,0 +1,171 @@
+{
+ "id": "gm-aur",
+ "name": "GM Aur",
+ "alt_names": [],
+ "simbad": "GM Aur",
+ "ra_deg": 73.79575649039,
+ "dec_deg": 30.36649271441,
+ "dist_pc": 158.1,
+ "sptype": "K3Ve",
+ "region": "Taurus",
+ "categories": [
+  "protoplanetary"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 6",
+   "wavelength_um": 1100,
+   "wavelength_label": "1.1 mm continuum",
+   "technique": "interferometry",
+   "survey": null,
+   "credit": "Huang et al. 2020, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Huang",
+    "year": 2020,
+    "title": "A Multifrequency ALMA Characterization of Substructures in the GM Aur Protoplanetary Disk",
+    "journal": "ApJ 891, 48",
+    "arxiv": "2001.11040",
+    "bibcode": "2020ApJ...891...48H"
+   },
+   "image_id": "gm-aur_alma2020",
+   "file": "images/gm-aur/gm-aur_alma2020.png"
+  },
+  {
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS DPI",
+   "wavelength_um": 1.65,
+   "wavelength_label": "H band 1.6 um (pol. intensity)",
+   "technique": "PDI",
+   "image_id": "gm-aur_sphere-taurus",
+   "survey": "SPHERE-Taurus",
+   "file": "images/gm-aur/gm-aur_sphere-taurus.png",
+   "credit": "Garufi et al. 2024, Fig. 2 (crop)",
+   "paper": {
+    "first_author": "Garufi",
+    "year": 2024,
+    "title": "The SPHERE view of the Taurus star-forming region: The full census of planet-forming disks with GTO and DESTINYS programs",
+    "journal": "A&A 685, A53",
+    "arxiv": "2403.02158",
+    "bibcode": "2024A&A...685A..53G"
+   }
+  },
+  {
+   "type": "disk_scattered",
+   "facility": "HST",
+   "instrument": "NICMOS",
+   "wavelength_um": 1.1,
+   "wavelength_label": "F110W coronagraphy of the flared disk",
+   "technique": "coronagraphy",
+   "survey": null,
+   "credit": "Schneider et al. 2003, Fig. 1 (crop, panels B-C)",
+   "paper": {
+    "first_author": "Schneider",
+    "year": 2003,
+    "title": "NICMOS Coronagraphic Observations of the GM Aurigae Circumstellar Disk",
+    "journal": "AJ 125, 1467",
+    "arxiv": null,
+    "bibcode": "2003AJ....125.1467S"
+   },
+   "image_id": "gm-aur_nicmos2003",
+   "file": "images/gm-aur/gm-aur_nicmos2003.png"
+  },
+  {
+   "image_id": "gm-aur_seeds",
+   "type": "disk_scattered",
+   "facility": "Subaru-HiCIAO",
+   "instrument": "HiCIAO",
+   "wavelength_um": 1.65,
+   "wavelength_label": "H band (pol. intensity)",
+   "technique": "PDI",
+   "survey": "SEEDS",
+   "file": "images/gm-aur/gm-aur_seeds.png",
+   "credit": "Tamura 2016, Fig. 3 (crop); original: Oh et al. (in prep.)",
+   "paper": {
+    "first_author": "Tamura",
+    "year": 2016,
+    "title": "SEEDS - Strategic Explorations of Exoplanets and Disks with the Subaru Telescope",
+    "journal": "Proc. Japan Acad. Ser. B 92, 45",
+    "arxiv": null,
+    "bibcode": "2016PJAB...92...45T"
+   }
+  },
+  {
+   "image_id": "gm-aur_alice-f110w",
+   "type": "disk_scattered",
+   "facility": "HST",
+   "instrument": "NICMOS",
+   "wavelength_um": 1.1,
+   "wavelength_label": "F110W 1.1 um (ALICE archival reprocessing, combined coadd)",
+   "technique": "RDI",
+   "survey": "ALICE",
+   "file": "images/gm-aur/gm-aur_alice-f110w.png",
+   "credit": "ALICE HLSP v1 combined coadd (HST program 10852, STScI) — hi-res: ALICE archive (STScI)",
+   "paper": {
+    "first_author": "Hagan",
+    "year": 2018,
+    "title": "ALICE Data Release: A revaluation of HST-NICMOS coronagraphic images",
+    "journal": "AJ 155, 179",
+    "arxiv": "1802.07754",
+    "bibcode": null
+   },
+   "hires_url": "https://archive.stsci.edu/prepds/alice/"
+  },
+  {
+   "image_id": "gm-aur_alma-maps2021",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 6 (CO line)",
+   "wavelength_um": 1360,
+   "wavelength_label": "13CO 2-1 zeroth moment",
+   "technique": "interferometry",
+   "survey": "MAPS",
+   "credit": "Oberg et al. 2021, Fig. 6 (crop)",
+   "paper": {
+    "first_author": "Oberg",
+    "year": 2021,
+    "title": "Molecules with ALMA at Planet-forming Scales (MAPS) I: Program Overview and Highlights",
+    "journal": "ApJS, 257, 1",
+    "arxiv": "2109.06268",
+    "bibcode": null
+   },
+   "file": "images/gm-aur/gm-aur_alma-maps2021.png"
+  },
+  {
+   "image_id": "gm-aur_sphere-ks-qphi",
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS",
+   "wavelength_um": 2.18,
+   "wavelength_label": "Ks band 2.2 um (pol. intensity, Qphi)",
+   "technique": "PDI",
+   "survey": "SPHERE-Ks-RDI",
+   "credit": "Ren et al. 2023, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Ren",
+    "year": 2023,
+    "title": "Protoplanetary disks in $K_s$-band total intensity and polarized light",
+    "journal": "A&A 680, A114",
+    "arxiv": "2310.08589",
+    "bibcode": "2023A&A...680A.114R"
+   },
+   "file": "images/gm-aur/gm-aur_sphere-ks-qphi.png"
+  }
+ ],
+ "notes": null,
+ "last_updated": "2026-07-07",
+ "plx_mas": 6.3248,
+ "mags": {
+  "U": 14.59,
+  "B": 13.351,
+  "V": 12.242,
+  "G": 11.727107,
+  "R": 11.798,
+  "J": 9.341,
+  "H": 8.603,
+  "K": 8.283
+ }
+}

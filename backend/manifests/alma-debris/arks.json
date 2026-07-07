@@ -1,0 +1,264 @@
+{
+ "survey": "arks",
+ "survey_name": "ARKS",
+ "source_image": "images/_sources/extracted/2601.11708/Figures/Figure_continuum_images_arks_paper.png",
+ "panels": [
+  {
+   "id": "49-cet",
+   "image_id": "49-cet_arks",
+   "bbox_frac": [
+    0.006,
+    0.00567,
+    0.2495,
+    0.168
+   ]
+  },
+  {
+   "id": "hd-10647",
+   "image_id": "hd-10647_arks",
+   "bbox_frac": [
+    0.25425,
+    0.00567,
+    0.49775,
+    0.168
+   ]
+  },
+  {
+   "id": "hd-14055",
+   "image_id": "hd-14055_arks",
+   "bbox_frac": [
+    0.50225,
+    0.00567,
+    0.74575,
+    0.168
+   ]
+  },
+  {
+   "id": "hd-15115",
+   "image_id": "hd-15115_arks",
+   "bbox_frac": [
+    0.7505,
+    0.00567,
+    0.994,
+    0.168
+   ]
+  },
+  {
+   "id": "hd-15257",
+   "image_id": "hd-15257_arks",
+   "bbox_frac": [
+    0.006,
+    0.171,
+    0.2495,
+    0.33333
+   ]
+  },
+  {
+   "id": "hd-32297",
+   "image_id": "hd-32297_arks",
+   "bbox_frac": [
+    0.25425,
+    0.171,
+    0.49775,
+    0.33333
+   ]
+  },
+  {
+   "id": "beta-pic",
+   "image_id": "beta-pic_arks",
+   "bbox_frac": [
+    0.50225,
+    0.171,
+    0.74575,
+    0.33333
+   ]
+  },
+  {
+   "id": "hd-61005",
+   "image_id": "hd-61005_arks",
+   "bbox_frac": [
+    0.7505,
+    0.171,
+    0.994,
+    0.33333
+   ]
+  },
+  {
+   "id": "hd-76582",
+   "image_id": "hd-76582_arks",
+   "bbox_frac": [
+    0.006,
+    0.33617,
+    0.2495,
+    0.4985
+   ]
+  },
+  {
+   "id": "hd-84870",
+   "image_id": "hd-84870_arks",
+   "bbox_frac": [
+    0.25425,
+    0.33617,
+    0.49775,
+    0.4985
+   ]
+  },
+  {
+   "id": "hd-92945",
+   "image_id": "hd-92945_arks",
+   "bbox_frac": [
+    0.50225,
+    0.33617,
+    0.74575,
+    0.4985
+   ]
+  },
+  {
+   "id": "hd-95086",
+   "image_id": "hd-95086_arks",
+   "bbox_frac": [
+    0.7505,
+    0.33617,
+    0.994,
+    0.4985
+   ]
+  },
+  {
+   "id": "hd-107146",
+   "image_id": "hd-107146_arks",
+   "bbox_frac": [
+    0.006,
+    0.5015,
+    0.2495,
+    0.66383
+   ]
+  },
+  {
+   "id": "hr-4796a",
+   "image_id": "hr-4796a_arks",
+   "bbox_frac": [
+    0.25425,
+    0.5015,
+    0.49775,
+    0.66383
+   ]
+  },
+  {
+   "id": "hd-121617",
+   "image_id": "hd-121617_arks",
+   "bbox_frac": [
+    0.50225,
+    0.5015,
+    0.74575,
+    0.66383
+   ]
+  },
+  {
+   "id": "hd-131488",
+   "image_id": "hd-131488_arks",
+   "bbox_frac": [
+    0.7505,
+    0.5015,
+    0.994,
+    0.66383
+   ]
+  },
+  {
+   "id": "hd-131835",
+   "image_id": "hd-131835_arks",
+   "bbox_frac": [
+    0.006,
+    0.66683,
+    0.2495,
+    0.82917
+   ]
+  },
+  {
+   "id": "hd-145560",
+   "image_id": "hd-145560_arks",
+   "bbox_frac": [
+    0.25425,
+    0.66683,
+    0.49775,
+    0.82917
+   ]
+  },
+  {
+   "id": "hd-161868",
+   "image_id": "hd-161868_arks",
+   "bbox_frac": [
+    0.50225,
+    0.66683,
+    0.74575,
+    0.82917
+   ]
+  },
+  {
+   "id": "hd-170773",
+   "image_id": "hd-170773_arks",
+   "bbox_frac": [
+    0.7505,
+    0.66683,
+    0.994,
+    0.82917
+   ]
+  },
+  {
+   "id": "au-mic",
+   "image_id": "au-mic_arks",
+   "bbox_frac": [
+    0.006,
+    0.832,
+    0.2495,
+    0.99433
+   ]
+  },
+  {
+   "id": "hd-206893",
+   "image_id": "hd-206893_arks",
+   "bbox_frac": [
+    0.25425,
+    0.832,
+    0.49775,
+    0.99433
+   ]
+  },
+  {
+   "id": "tyc-9340-437-1",
+   "image_id": "tyc-9340-437-1_arks",
+   "bbox_frac": [
+    0.50225,
+    0.832,
+    0.74575,
+    0.99433
+   ]
+  },
+  {
+   "id": "hr-8799",
+   "image_id": "hr-8799_arks",
+   "bbox_frac": [
+    0.7505,
+    0.832,
+    0.994,
+    0.99433
+   ]
+  }
+ ],
+ "image_defaults": {
+  "type": "disk_mm",
+  "facility": "ALMA",
+  "instrument": "Band 7/6",
+  "wavelength_um": 880,
+  "wavelength_label": "~0.88-1.3 mm continuum",
+  "technique": "interferometry"
+ },
+ "credit": "Marino et al. 2026, Fig. 3 (crop)",
+ "paper": {
+  "first_author": "Marino",
+  "year": 2026,
+  "title": "The ALMA survey to Resolve exoKuiper belt Substructures (ARKS) I: Motivation, sample, data reduction, and results overview",
+  "journal": "A&A",
+  "arxiv": "2601.11708",
+  "bibcode": null
+ }
+}

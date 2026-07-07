@@ -1,0 +1,91 @@
+{
+ "id": "hd-45677",
+ "name": "HD 45677",
+ "alt_names": [],
+ "simbad": "HD 45677",
+ "ra_deg": 97.07259154598,
+ "dec_deg": -13.05309135027,
+ "dist_pc": 572.0,
+ "sptype": "B2IV/V[e]",
+ "region": null,
+ "categories": [
+  "protoplanetary"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "type": "disk_scattered",
+   "facility": "Gemini-GPI",
+   "instrument": "IFS pol",
+   "wavelength_um": 1.24,
+   "wavelength_label": "J band 1.24 um (pol. intensity)",
+   "technique": "PDI",
+   "image_id": "hd-45677_gemini-lights",
+   "survey": "Gemini-LIGHTS",
+   "file": "images/hd-45677/hd-45677_gemini-lights.png",
+   "credit": "Rich et al. 2022, continuous gallery (crop)",
+   "paper": {
+    "first_author": "Rich",
+    "year": 2022,
+    "title": "Gemini-LIGHTS: Herbig Ae/Be and Massive T Tauri Protoplanetary Disks Imaged with Gemini Planet Imager",
+    "journal": "AJ 164, 109",
+    "arxiv": "2206.05815",
+    "bibcode": "2022AJ....164..109R"
+   }
+  },
+  {
+   "image_id": "hd-45677_matisse2021",
+   "type": "disk_mm",
+   "facility": "VLTI",
+   "instrument": "MATISSE",
+   "wavelength_um": 3.6,
+   "wavelength_label": "L band (3.4-3.8 um) and N band (8.6-9.0 um)",
+   "technique": "VLTI aperture-synthesis / infrared interferometric imaging",
+   "survey": null,
+   "file": "images/hd-45677/hd-45677_matisse2021.png",
+   "credit": "Hofmann et al. 2021, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Hofmann",
+    "year": 2021,
+    "title": "VLTI-MATISSE L- and N-band aperture-synthesis imaging of the unclassified B[e] star FS Canis Majoris",
+    "journal": "Astronomy & Astrophysics",
+    "arxiv": "2111.12458",
+    "bibcode": "2022A&A...658A..81H"
+   }
+  },
+  {
+   "image_id": "hd-45677_pionier2020",
+   "type": "disk_scattered",
+   "facility": "VLTI",
+   "instrument": "PIONIER",
+   "wavelength_um": 1.65,
+   "wavelength_label": "H band (1.65 micron), aperture-synthesis reconstructed image",
+   "technique": "interferometry",
+   "survey": null,
+   "credit": "Kluska et al. 2020, Fig. 2 (crop)",
+   "paper": {
+    "first_author": "Kluska",
+    "year": 2020,
+    "title": "A family portrait of disk inner rims around Herbig Ae/Be stars: Hunting for warps, rings, self shadowing, and misalignments in the inner astronomical units",
+    "journal": "Astronomy & Astrophysics",
+    "arxiv": "2004.01594",
+    "bibcode": null
+   },
+   "file": "images/hd-45677/hd-45677_pionier2020.png"
+  }
+ ],
+ "notes": null,
+ "last_updated": "2026-07-06",
+ "plx_mas": 1.7481,
+ "mags": {
+  "U": 7.86,
+  "B": 8.52,
+  "V": 8.5,
+  "G": 7.280578,
+  "R": 8.11,
+  "I": 8.01,
+  "J": 7.242,
+  "H": 6.347,
+  "K": 4.778
+ }
+}

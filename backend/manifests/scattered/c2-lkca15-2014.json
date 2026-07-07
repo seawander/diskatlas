@@ -1,0 +1,29 @@
+{
+ "survey": "c2-lkca15-2014",
+ "survey_name": null,
+ "source_image": "images/_sources/_views/c2_lkca15_methods.png",
+ "panels": [
+  {
+   "id": "lkca-15",
+   "image_id": "lkca-15_seeds2014",
+   "bbox_frac": [0.0, 0.0, 0.2465, 0.4935]
+  }
+ ],
+ "image_defaults": {
+  "type": "disk_scattered",
+  "facility": "Gemini-NIRI",
+  "instrument": "NIRI",
+  "wavelength_um": 2.15,
+  "wavelength_label": "Ks band; gapped disk (PCA ref.-star subtraction)",
+  "technique": "RDI"
+ },
+ "credit": "Thalmann et al. 2014, Fig. 2a (crop)",
+ "paper": {
+  "first_author": "Thalmann",
+  "year": 2014,
+  "title": "The architecture of the LkCa 15 transitional disk revealed by high-contrast imaging",
+  "journal": "A&A 566, A51",
+  "arxiv": "1402.1766",
+  "bibcode": "2014A&A...566A..51T"
+ }
+}

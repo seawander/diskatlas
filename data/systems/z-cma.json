@@ -1,0 +1,79 @@
+{
+ "id": "z-cma",
+ "name": "Z CMa",
+ "alt_names": ["Z Canis Majoris"],
+ "simbad": "Z CMa",
+ "ra_deg": 105.9298330882,
+ "dec_deg": -11.5517247405,
+ "dist_pc": 1125.0,
+ "plx_mas": 2.0354,
+ "mags": {"V": 8.80, "G": 8.986204, "J": 6.543, "H": 5.216, "K": 3.61},
+ "sptype": "B5/8eq+F5/7",
+ "region": "CMa R1",
+ "categories": ["protoplanetary"],
+ "planets": [],
+ "images": [
+  {
+   "image_id": "z-cma_zurlo2024",
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS",
+   "wavelength_um": 1.65,
+   "wavelength_label": "H band 1.65 um (polarized intensity, PI)",
+   "technique": "PDI",
+   "survey": null,
+   "file": "images/z-cma/z-cma_zurlo2024.png",
+   "credit": "Zurlo et al. 2024, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Zurlo",
+    "year": 2024,
+    "title": "The environment around young eruptive stars. SPHERE/IRDIS polarimetric imaging of 7 protostars",
+    "journal": "A&A 686, A76",
+    "arxiv": "2403.12124",
+    "bibcode": "2024A&A...686A..76Z"
+   }
+  },
+  {
+   "image_id": "z-cma_nirc2-2024",
+   "type": "disk_scattered",
+   "facility": "Keck-NIRC2",
+   "instrument": "NIRC2 L' (ADI, vortex coronagraph)",
+   "wavelength_um": 3.78,
+   "wavelength_label": "L' band 3.78 um",
+   "technique": "ADI",
+   "survey": null,
+   "file": "images/z-cma/z-cma_nirc2-2024.png",
+   "credit": "Zurlo et al. 2024, Fig. 3 (crop)",
+   "paper": {
+    "first_author": "Zurlo",
+    "year": 2024,
+    "title": "The environment around young eruptive stars. SPHERE/IRDIS polarimetric imaging of 7 protostars",
+    "journal": "A&A 686, A76",
+    "arxiv": "2403.12124",
+    "bibcode": "2024A&A...686A..76Z"
+   }
+  },
+  {
+   "image_id": "z-cma_flyby2022",
+   "type": "disk_scattered",
+   "facility": "Subaru-HiCIAO",
+   "instrument": "HiCIAO (PDI)",
+   "wavelength_um": 1.65,
+   "wavelength_label": "H band 1.65 um (polarized intensity, PI, normalized to stellar flux)",
+   "technique": "PDI",
+   "survey": null,
+   "file": "images/z-cma/z-cma_flyby2022.png",
+   "credit": "Dong et al. 2022, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Dong",
+    "year": 2022,
+    "title": "A likely flyby of binary protostar Z CMa caught in action",
+    "journal": "Nature Astronomy 6, 331",
+    "arxiv": "2201.05617",
+    "bibcode": "2022NatAs...6..331D"
+   }
+  }
+ ],
+ "notes": "Triple system: FUor-like SE component + Herbig Be (EXor) N component, plus a third point source ~0.7 arcsec NE confirmed comoving via Keck/NIRC2 astrometry (Zurlo et al. 2024). A ~6000 au streamer/outflow to the SW, previously interpreted as a flyby signature (Dong et al. 2022), is argued by Zurlo et al. 2024 to be part of a larger outflow rather than a tidal streamer.",
+ "last_updated": "2026-07-06"
+}

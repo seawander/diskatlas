@@ -1,0 +1,149 @@
+{
+ "id": "ak-sco",
+ "name": "AK Sco",
+ "alt_names": [],
+ "simbad": "AK Sco",
+ "ra_deg": 253.68687148974,
+ "dec_deg": -36.88849071846,
+ "dist_pc": 139.8,
+ "sptype": "F5V",
+ "region": null,
+ "categories": [
+  "protoplanetary"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "type": "disk_scattered",
+   "facility": "Gemini-GPI",
+   "instrument": "IFS pol",
+   "wavelength_um": 1.65,
+   "wavelength_label": "H band 1.6 um (pol. intensity)",
+   "technique": "PDI",
+   "image_id": "ak-sco_gpies",
+   "survey": "GPIES",
+   "file": "images/ak-sco/ak-sco_gpies.png",
+   "credit": "Esposito et al. 2020, Fig. 9 (crop)",
+   "paper": {
+    "first_author": "Esposito",
+    "year": 2020,
+    "title": "Debris Disk Results from the Gemini Planet Imager Exoplanet Survey's Polarimetric Imaging Campaign",
+    "journal": "AJ 160, 24",
+    "arxiv": "2004.13722",
+    "bibcode": "2020AJ....160...24E"
+   }
+  },
+  {
+   "type": "disk_scattered",
+   "facility": "Gemini-GPI",
+   "instrument": "IFS pol",
+   "wavelength_um": 1.65,
+   "wavelength_label": "H band 1.6 um (pol. intensity)",
+   "technique": "PDI",
+   "image_id": "ak-sco_gemini-lights",
+   "survey": "Gemini-LIGHTS",
+   "file": "images/ak-sco/ak-sco_gemini-lights.png",
+   "credit": "Rich et al. 2022, continuous gallery (crop)",
+   "paper": {
+    "first_author": "Rich",
+    "year": 2022,
+    "title": "Gemini-LIGHTS: Herbig Ae/Be and Massive T Tauri Protoplanetary Disks Imaged with Gemini Planet Imager",
+    "journal": "AJ 164, 109",
+    "arxiv": "2206.05815",
+    "bibcode": "2022AJ....164..109R"
+   }
+  },
+  {
+   "type": "disk_scattered",
+   "facility": "VLT-NACO",
+   "instrument": "NACO pol",
+   "wavelength_um": 2.18,
+   "wavelength_label": "Ks band (PIPPIN PDI reprocessing)",
+   "technique": "PDI",
+   "image_id": "ak-sco_naco-pippin",
+   "file": "images/ak-sco/ak-sco_naco-pippin.png",
+   "survey": "NACO-PIPPIN",
+   "credit": "de Regt et al. 2024, Fig. 6 (crop)",
+   "paper": {
+    "first_author": "de Regt",
+    "year": 2024,
+    "title": "Polarimetric differential imaging with VLT/NACO. A comprehensive PDI pipeline for NACO data (PIPPIN)",
+    "journal": "A&A 684, A73",
+    "arxiv": "2404.02222",
+    "bibcode": "2024A&A...684A..73D"
+   }
+  },
+  {
+   "image_id": "ak-sco_alma2015",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 6",
+   "wavelength_um": 1300,
+   "wavelength_label": "1.3 mm (Band 6)",
+   "technique": "ALMA interferometric dust continuum + CO J=2-1 line imaging",
+   "survey": null,
+   "file": "images/ak-sco/ak-sco_alma2015.png",
+   "credit": "Czekala et al. 2015, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Czekala",
+    "year": 2015,
+    "title": "A Disk-based Dynamical Mass Estimate for the Young Binary AK Sco",
+    "journal": "ApJ",
+    "arxiv": "1505.01850",
+    "bibcode": "2015ApJ...806..154C"
+   }
+  },
+  {
+   "image_id": "ak-sco_sphere2015",
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS",
+   "wavelength_um": 1.65,
+   "wavelength_label": "near-IR (H2H3 band) scattered light",
+   "technique": "ADI",
+   "survey": null,
+   "credit": "Janson et al. 2015, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Janson",
+    "year": 2015,
+    "title": "Detection of Sharp Symmetric Features in the Circumbinary Disk Around AK Sco",
+    "journal": "ApJL",
+    "arxiv": "1512.04552",
+    "bibcode": null
+   },
+   "file": "images/ak-sco/ak-sco_sphere2015.png"
+  },
+  {
+   "image_id": "ak-sco_sphere-rdi-xie22",
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS",
+   "wavelength_um": 1.65,
+   "wavelength_label": "total intensity (H23, RDI)",
+   "technique": "RDI",
+   "survey": null,
+   "credit": "Xie et al. 2022, Fig. 9 (crop)",
+   "paper": {
+    "first_author": "Xie",
+    "year": 2022,
+    "title": "Reference-star differential imaging on SPHERE/IRDIS",
+    "journal": "A&A 666, A32",
+    "arxiv": "2208.07915",
+    "bibcode": null
+   },
+   "file": "images/ak-sco/ak-sco_sphere-rdi-xie22.png"
+  }
+ ],
+ "notes": null,
+ "last_updated": "2026-07-06",
+ "plx_mas": 7.1543,
+ "mags": {
+  "U": 9.8,
+  "B": 9.63,
+  "V": 9.0,
+  "G": 9.064188,
+  "J": 7.676,
+  "H": 7.06,
+  "K": 6.503
+ }
+}

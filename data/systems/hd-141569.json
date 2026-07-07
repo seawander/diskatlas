@@ -1,0 +1,254 @@
+{
+ "id": "hd-141569",
+ "name": "HD 141569",
+ "alt_names": [],
+ "simbad": "HD 141569",
+ "ra_deg": 237.49061772933,
+ "dec_deg": -3.92120600474,
+ "dist_pc": 111.6,
+ "sptype": "A2VekB9mB9(_lB)",
+ "region": null,
+ "categories": [
+  "protoplanetary",
+  "debris"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "type": "disk_scattered",
+   "facility": "Gemini-GPI",
+   "instrument": "IFS pol",
+   "wavelength_um": 1.24,
+   "wavelength_label": "J band 1.24 um (pol. intensity)",
+   "technique": "PDI",
+   "image_id": "hd-141569_gemini-lights",
+   "survey": "Gemini-LIGHTS",
+   "file": "images/hd-141569/hd-141569_gemini-lights.png",
+   "credit": "Rich et al. 2022, rings gallery (crop)",
+   "paper": {
+    "first_author": "Rich",
+    "year": 2022,
+    "title": "Gemini-LIGHTS: Herbig Ae/Be and Massive T Tauri Protoplanetary Disks Imaged with Gemini Planet Imager",
+    "journal": "AJ 164, 109",
+    "arxiv": "2206.05815",
+    "bibcode": "2022AJ....164..109R"
+   }
+  },
+  {
+   "type": "disk_scattered",
+   "facility": "HST",
+   "instrument": "ACS",
+   "wavelength_um": 0.6,
+   "wavelength_label": "optical; spiral ring system",
+   "technique": "coronagraphy",
+   "survey": null,
+   "credit": "Clampin et al. 2003, Fig. 5 (crop)",
+   "paper": {
+    "first_author": "Clampin",
+    "year": 2003,
+    "title": "Hubble Space Telescope ACS Coronagraphic Imaging of the Circumstellar Disk around HD 141569A",
+    "journal": "AJ 126, 385",
+    "arxiv": "astro-ph/0303605",
+    "bibcode": "2003AJ....126..385C"
+   },
+   "image_id": "hd-141569_acs2003",
+   "file": "images/hd-141569/hd-141569_acs2003.png"
+  },
+  {
+   "type": "disk_scattered",
+   "facility": "Gemini-GPI",
+   "instrument": "IFS pol",
+   "wavelength_um": 1.65,
+   "wavelength_label": "H band 1.6 um (pol. intensity)",
+   "technique": "PDI",
+   "image_id": "hd-141569_gpies",
+   "survey": "GPIES",
+   "file": "images/hd-141569/hd-141569_gpies.png",
+   "credit": "Esposito et al. 2020, Fig. 9 (crop)",
+   "paper": {
+    "first_author": "Esposito",
+    "year": 2020,
+    "title": "Debris Disk Results from the Gemini Planet Imager Exoplanet Survey's Polarimetric Imaging Campaign",
+    "journal": "AJ 160, 24",
+    "arxiv": "2004.13722",
+    "bibcode": "2020AJ....160...24E"
+   }
+  },
+  {
+   "type": "disk_scattered",
+   "facility": "HST",
+   "instrument": "NICMOS",
+   "wavelength_um": 1.12,
+   "wavelength_label": "F110W 1.12 um (NMF reprocessing)",
+   "technique": "RDI",
+   "image_id": "hd-141569_nicmos-ren2023",
+   "file": "images/hd-141569/hd-141569_nicmos-ren2023.png",
+   "survey": "NICMOS-Ren2023",
+   "credit": "Ren et al. 2023, Fig. 3 (crop)",
+   "paper": {
+    "first_author": "Ren",
+    "year": 2023,
+    "title": "Debris Disk Color with the Hubble Space Telescope",
+    "journal": "A&A 672, A114",
+    "arxiv": "2302.04273",
+    "bibcode": "2023A&A...672A.114R"
+   }
+  },
+  {
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS DPI",
+   "wavelength_um": 1.65,
+   "wavelength_label": "H band 1.6 um (pol. intensity)",
+   "technique": "PDI",
+   "image_id": "hd-141569_sphere-debris-2025",
+   "file": "images/hd-141569/hd-141569_sphere-debris-2025.png",
+   "survey": "SPHERE-debris-2025",
+   "credit": "Engler et al. 2025, Fig. 5b (crop)",
+   "paper": {
+    "first_author": "Engler",
+    "year": 2025,
+    "title": "Characterization of debris disks observed with SPHERE",
+    "journal": "A&A 704, A21",
+    "arxiv": "2512.03128",
+    "bibcode": null
+   }
+  },
+  {
+   "type": "disk_scattered",
+   "facility": "HST",
+   "instrument": "STIS",
+   "wavelength_um": 0.58,
+   "wavelength_label": "0.2-1.0 um broadband (optical)",
+   "technique": "coronagraphy",
+   "image_id": "hd-141569_stis-ren",
+   "file": "images/hd-141569/hd-141569_stis-ren.png",
+   "survey": "STIS-Ren",
+   "credit": "Ren et al. 2023, Fig. 2 (crop)",
+   "paper": {
+    "first_author": "Ren",
+    "year": 2023,
+    "title": "Debris Disk Color with the Hubble Space Telescope",
+    "journal": "A&A 672, A114",
+    "arxiv": "2302.04273",
+    "bibcode": "2023A&A...672A.114R"
+   }
+  },
+  {
+   "type": "disk_scattered",
+   "facility": "HST",
+   "instrument": "NICMOS",
+   "wavelength_um": 1.1,
+   "wavelength_label": "1.1 um coronagraphy; ~400 au disk with gap at 250 au",
+   "technique": "coronagraphy",
+   "survey": null,
+   "credit": "Weinberger et al. 1999, Fig. 1 (crop: left panel)",
+   "paper": {
+    "first_author": "Weinberger",
+    "year": 1999,
+    "title": "The Circumstellar Disk of HD 141569 Imaged with NICMOS",
+    "journal": "ApJL 525, L53",
+    "arxiv": "astro-ph/9909097",
+    "bibcode": "1999ApJ...525L..53W"
+   },
+   "image_id": "hd-141569_nicmos1999",
+   "file": "images/hd-141569/hd-141569_nicmos1999.png"
+  },
+  {
+   "image_id": "hd-141569_alice-f110w",
+   "type": "disk_scattered",
+   "facility": "HST",
+   "instrument": "NICMOS",
+   "wavelength_um": 1.1,
+   "wavelength_label": "F110W 1.1 um (ALICE archival reprocessing, combined coadd)",
+   "technique": "RDI",
+   "survey": "ALICE",
+   "file": "images/hd-141569/hd-141569_alice-f110w.png",
+   "credit": "ALICE HLSP v1 combined coadd (HST program 7226, STScI) — hi-res: ALICE archive (STScI)",
+   "paper": {
+    "first_author": "Hagan",
+    "year": 2018,
+    "title": "ALICE Data Release: A revaluation of HST-NICMOS coronagraphic images",
+    "journal": "AJ 155, 179",
+    "arxiv": "1802.07754",
+    "bibcode": null
+   },
+   "hires_url": "https://archive.stsci.edu/prepds/alice/"
+  },
+  {
+   "image_id": "hd-141569_jwst-nircam",
+   "type": "disk_scattered",
+   "facility": "JWST",
+   "instrument": "NIRCam",
+   "wavelength_um": 3.6,
+   "wavelength_label": "JWST/NIRCam F300M+F360M (radially-evolving ice)",
+   "technique": "coronagraphy",
+   "survey": null,
+   "file": "images/hd-141569/hd-141569_jwst-nircam.png",
+   "credit": "Millar-Blanchaer et al. 2025, Fig. 3 (crop)",
+   "paper": {
+    "first_author": "Millar-Blanchaer",
+    "year": 2025,
+    "title": "The JWST Early Release Science Program for Direct Observations of Exoplanetary Systems. VI. Evidence for Radially Evolving Icy Grains in the HD 141569A Disk via NIRCam Coronagraphic Imaging",
+    "journal": "ApJ 994, 199",
+    "arxiv": null,
+    "bibcode": "2025ApJ...994..199M"
+   }
+  },
+  {
+   "image_id": "hd-141569_sphere-rdi-xie22",
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS",
+   "wavelength_um": 1.65,
+   "wavelength_label": "total intensity (H23, RDI)",
+   "technique": "RDI",
+   "survey": null,
+   "credit": "Xie et al. 2022, Fig. 9 (crop)",
+   "paper": {
+    "first_author": "Xie",
+    "year": 2022,
+    "title": "Reference-star differential imaging on SPHERE/IRDIS",
+    "journal": "A&A 666, A32",
+    "arxiv": "2208.07915",
+    "bibcode": null
+   },
+   "file": "images/hd-141569/hd-141569_sphere-rdi-xie22.png"
+  },
+  {
+   "image_id": "hd-141569_nirc2matryoshka",
+   "type": "disk_scattered",
+   "facility": "Keck-NIRC2",
+   "instrument": "NIRC2 (L' ADI)",
+   "wavelength_um": 3.78,
+   "wavelength_label": "L' (3.78 um) total intensity; discovery of the 'Matryoshka' inner disk",
+   "technique": "ADI",
+   "survey": null,
+   "credit": "Currie et al. 2016, Fig. 1 (top-left, crop)",
+   "paper": {
+    "first_author": "Currie",
+    "year": 2016,
+    "title": "The Matryoshka Disk: Keck/NIRC2 Discovery of a Solar System-scale, Radially Segregated Residual Protoplanetary Disk around HD 141569A",
+    "journal": "ApJ",
+    "arxiv": "1602.01219",
+    "bibcode": null
+   },
+   "file": "images/hd-141569/hd-141569_nirc2matryoshka.png",
+   "note": "New facility for this existing system (no prior Keck/NIRC2 or VLT/NaCo record). Paper also includes archival VLT/NaCo L' imaging (Fig. 1 bottom-right) recovering the same inner disk; only the Keck/NIRC2 discovery panel was cropped."
+  }
+ ],
+ "notes": "Hybrid disk (gas-rich debris / late transition).",
+ "last_updated": "2026-07-07",
+ "plx_mas": 8.9597,
+ "mags": {
+  "U": 7.22,
+  "B": 7.2,
+  "V": 7.12,
+  "G": 7.103046,
+  "R": 7.0,
+  "I": 7.04,
+  "J": 6.872,
+  "H": 6.861,
+  "K": 6.821
+ }
+}

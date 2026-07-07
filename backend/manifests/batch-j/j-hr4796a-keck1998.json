@@ -1,0 +1,21 @@
+{
+ "survey": "j-hr4796a-keck1998",
+ "survey_name": null,
+ "source_image": "images/_sources/_views/j-hr4796-keck.png",
+ "pdf_page": null,
+ "panels": [
+  {
+   "id": "hr-4796a",
+   "image_id": "hr-4796a_keck1998",
+   "bbox_frac": [
+    0,
+    0,
+    1,
+    1
+   ]
+  }
+ ],
+ "image_defaults": {},
+ "credit": "Koerner et al. 1998, Fig. 1 (crop: 20.8 um image)",
+ "paper": null
+}

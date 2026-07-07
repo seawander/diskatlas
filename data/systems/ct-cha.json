@@ -1,0 +1,101 @@
+{
+ "id": "ct-cha",
+ "name": "CT Cha",
+ "alt_names": [],
+ "simbad": "CT Cha",
+ "ra_deg": 166.03791219035,
+ "dec_deg": -76.45536938324,
+ "dist_pc": 190.0,
+ "sptype": "K7Ve",
+ "region": "Chamaeleon",
+ "categories": [
+  "protoplanetary"
+ ],
+ "planets": [
+  {
+   "name": "b",
+   "status": "confirmed",
+   "note": "~17 MJup — borderline; kept for historical completeness",
+   "paper": {
+    "first_author": "Schmidt",
+    "year": 2008,
+    "arxiv": "0809.2812",
+    "bibcode": "2008A&A...491..311S"
+   }
+  }
+ ],
+ "images": [
+  {
+   "type": "planet",
+   "facility": "VLT-NACO",
+   "instrument": "NACO",
+   "wavelength_um": 2.2,
+   "wavelength_label": "Ks band; companion discovery",
+   "technique": "other",
+   "survey": null,
+   "credit": "Schmidt et al. 2008, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Schmidt",
+    "year": 2008,
+    "title": "Direct evidence of a sub-stellar companion around CT Cha",
+    "journal": "A&A 491, 311",
+    "arxiv": "0809.2812",
+    "bibcode": "2008A&A...491..311S"
+   },
+   "image_id": "ct-cha_naco2008",
+   "file": "images/ct-cha/ct-cha_naco2008.png"
+  },
+  {
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS DPI",
+   "wavelength_um": 1.65,
+   "wavelength_label": "H band 1.6 um (Qphi pol. intensity)",
+   "technique": "PDI",
+   "image_id": "ct-cha_sphere-chami",
+   "file": "images/ct-cha/ct-cha_sphere-chami.png",
+   "survey": "SPHERE-ChamI",
+   "credit": "Ginski et al. 2024, Fig. 2 (crop)",
+   "paper": {
+    "first_author": "Ginski",
+    "year": 2024,
+    "title": "The SPHERE view of the Chamaeleon I star-forming region: The full census of planet-forming disks with GTO and DESTINYS programs",
+    "journal": "A&A 685, A52",
+    "arxiv": "2403.02149",
+    "bibcode": "2024A&A...685A..52G"
+   }
+  },
+  {
+   "image_id": "ct-cha_mrs2025",
+   "type": "disk_scattered",
+   "facility": "JWST",
+   "instrument": "MIRI Medium-Resolution Spectrograph (MRS)",
+   "wavelength_um": 14,
+   "wavelength_label": "mid-infrared (MRS spectro-imaging, 4.9-27.9 um cross-correlation)",
+   "technique": "other",
+   "survey": null,
+   "credit": "Cugno et al. 2025, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Cugno",
+    "year": 2025,
+    "title": "A carbon-rich disk surrounding a planetary-mass companion",
+    "journal": "ApJL (accepted)",
+    "arxiv": "2509.15209",
+    "bibcode": null
+   },
+   "file": "images/ct-cha/ct-cha_mrs2025.png"
+  }
+ ],
+ "notes": null,
+ "last_updated": "2026-07-07",
+ "plx_mas": 5.2645,
+ "mags": {
+  "B": 13.44,
+  "V": 13.0,
+  "G": 11.800627,
+  "I": 10.89,
+  "J": 9.715,
+  "H": 8.944,
+  "K": 8.661
+ }
+}

@@ -1,0 +1,34 @@
+{
+ "survey": "p2-hr4796a",
+ "survey_name": null,
+ "source_image": "images/_sources/_views/p2_4796_briggs.png",
+ "panels": [
+  {
+   "id": "hr-4796a",
+   "image_id": "hr-4796a_alma2018",
+   "bbox_frac": [
+    0.1845,
+    0.219,
+    0.8885,
+    0.7995
+   ]
+  }
+ ],
+ "image_defaults": {
+  "type": "disk_mm",
+  "facility": "ALMA",
+  "technique": "interferometry",
+  "instrument": "Band 7",
+  "wavelength_um": 880,
+  "wavelength_label": "880 um continuum"
+ },
+ "credit": "Kennedy et al. 2018, Fig. 1 (crop)",
+ "paper": {
+  "first_author": "Kennedy",
+  "year": 2018,
+  "title": "ALMA observations of the narrow HR 4796A debris ring",
+  "journal": "MNRAS 475, 4924",
+  "arxiv": "1801.05429",
+  "bibcode": "2018MNRAS.475.4924K"
+ }
+}

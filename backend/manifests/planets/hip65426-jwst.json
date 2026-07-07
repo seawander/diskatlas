@@ -1,0 +1,35 @@
+{
+ "survey": "pl-hip65426-jwst",
+ "survey_name": null,
+ "source_image": "images/_sources/extracted/2208.14990/hip65426b_jwst_v2.png",
+ "pdf_page": null,
+ "panels": [
+  {
+   "id": "hip-65426",
+   "image_id": "hip-65426_jwst2023",
+   "bbox_frac": [
+    0.0,
+    0.0,
+    1.0,
+    1.0
+   ]
+  }
+ ],
+ "image_defaults": {
+  "type": "planet",
+  "facility": "JWST",
+  "instrument": "NIRCam+MIRI",
+  "wavelength_um": 11.4,
+  "wavelength_label": "2-16 um; first JWST exoplanet imaging",
+  "technique": "coronagraphy"
+ },
+ "credit": "Carter et al. 2023, Fig. 8 (crop)",
+ "paper": {
+  "first_author": "Carter",
+  "year": 2023,
+  "title": "The JWST Early Release Science Program for Direct Observations of Exoplanetary Systems I: High-Contrast Imaging of the Exoplanet HIP 65426 b from 2-16 um",
+  "journal": "ApJL 951, L20",
+  "arxiv": "2208.14990",
+  "bibcode": "2023ApJ...951L..20C"
+ }
+}

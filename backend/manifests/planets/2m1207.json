@@ -1,0 +1,35 @@
+{
+ "survey": "pl2-2m1207",
+ "survey_name": null,
+ "source_image": "images/_sources/_views/batchD2_2m1207_fig1.png",
+ "pdf_page": null,
+ "panels": [
+  {
+   "id": "2m1207",
+   "image_id": "2m1207_naco2004",
+   "bbox_frac": [
+    0.0,
+    0.0,
+    1.0,
+    1.0
+   ]
+  }
+ ],
+ "image_defaults": {
+  "type": "planet",
+  "facility": "VLT-NACO",
+  "instrument": "NACO",
+  "wavelength_um": 2.2,
+  "wavelength_label": "H+Ks+L' composite; first image of a planetary-mass companion",
+  "technique": "other"
+ },
+ "credit": "Chauvin et al. 2004, Fig. 1 (crop)",
+ "paper": {
+  "first_author": "Chauvin",
+  "year": 2004,
+  "title": "A giant planet candidate near a young brown dwarf",
+  "journal": "A&A 425, L29",
+  "arxiv": "astro-ph/0409323",
+  "bibcode": "2004A&A...425L..29C"
+ }
+}

@@ -1,0 +1,35 @@
+{
+ "survey": "pl-pds70-muse",
+ "survey_name": null,
+ "source_image": "images/_sources/extracted/1906.01486/1906.01486.pdf",
+ "pdf_page": 9,
+ "panels": [
+  {
+   "id": "pds-70",
+   "image_id": "pds-70_muse2019",
+   "bbox_frac": [
+    0.11,
+    0.118,
+    0.343,
+    0.276
+   ]
+  }
+ ],
+ "image_defaults": {
+  "type": "planet",
+  "facility": "VLT-MUSE",
+  "instrument": "MUSE NFM",
+  "wavelength_um": 0.656,
+  "wavelength_label": "H-alpha; accreting planets b & c",
+  "technique": "other"
+ },
+ "credit": "Haffert et al. 2019, Fig. 2 (crop)",
+ "paper": {
+  "first_author": "Haffert",
+  "year": 2019,
+  "title": "Two accreting protoplanets around the young star PDS 70",
+  "journal": "Nature Astronomy 3, 749",
+  "arxiv": "1906.01486",
+  "bibcode": "2019NatAs...3..749H"
+ }
+}

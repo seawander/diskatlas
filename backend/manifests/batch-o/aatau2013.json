@@ -1,0 +1,23 @@
+{
+  "survey": "q-aatau2013",
+  "survey_name": null,
+  "source_image": "images/_sources/extra/cox2013_aatau.pdf",
+  "pdf_page": 4,
+  "dpi": 200,
+  "panels": [
+    { "id": "aa-tau", "image_id": "aa-tau_hst2013",
+      "bbox_frac": [0.083, 0.282, 0.363, 0.493] }
+  ],
+  "image_defaults": {
+    "type": "disk_scattered", "facility": "HST", "instrument": "STIS",
+    "wavelength_um": 0.58,
+    "wavelength_label": "optical coronagraphy (PSF-subtracted, 2001 bright state); disk + blob chain",
+    "technique": "coronagraphy"
+  },
+  "credit": "Cox et al. 2013, Fig. 2 (crop, lower-left panel)",
+  "paper": {
+    "first_author": "Cox", "year": 2013,
+    "title": "Imaging the Disk and Jet of the Classical T Tauri Star AA Tau",
+    "journal": "ApJ 762, 40", "arxiv": null, "bibcode": "2013ApJ...762...40C"
+  }
+}

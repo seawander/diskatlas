@@ -1,0 +1,35 @@
+{
+ "survey": "single-mwc758-sphere2015",
+ "survey_name": null,
+ "source_image": "images/_sources/extracted/1505.05325/Image_PI.pdf",
+ "panels": [
+  {
+   "id": "mwc-758",
+   "image_id": "mwc-758_sphere2015",
+   "bbox_frac": [
+    0.3799,
+    0.0988,
+    0.6198,
+    0.9
+   ]
+  }
+ ],
+ "image_defaults": {
+  "type": "disk_scattered",
+  "facility": "VLT-SPHERE",
+  "instrument": "IRDIS",
+  "wavelength_um": 1.04,
+  "wavelength_label": "Y band 1.04 um (pol. intensity)",
+  "technique": "PDI"
+ },
+ "credit": "Benisty et al. 2015, Fig. 1 (crop, Mar. 2015)",
+ "paper": {
+  "first_author": "Benisty",
+  "year": 2015,
+  "title": "Asymmetric features in the protoplanetary disk MWC 758",
+  "journal": "A&A 578, L6",
+  "arxiv": "1505.05325",
+  "bibcode": null
+ },
+ "pdf_page": 1
+}

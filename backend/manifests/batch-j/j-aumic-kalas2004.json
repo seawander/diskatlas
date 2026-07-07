@@ -1,0 +1,21 @@
+{
+ "survey": "j-aumic-kalas2004",
+ "survey_name": null,
+ "source_image": "images/_sources/_views/j-aumic-kalas.png",
+ "pdf_page": null,
+ "panels": [
+  {
+   "id": "au-mic",
+   "image_id": "au-mic_kalas2004",
+   "bbox_frac": [
+    0.0326,
+    0.3145,
+    0.9665,
+    0.9553
+   ]
+  }
+ ],
+ "image_defaults": {},
+ "credit": "Kalas et al. 2004, Fig. 1 (crop)",
+ "paper": null
+}

@@ -1,0 +1,112 @@
+{
+ "id": "hd-53143",
+ "name": "HD 53143",
+ "alt_names": [],
+ "simbad": "HD 53143",
+ "ra_deg": 104.9985627147717,
+ "dec_deg": -61.3361812865461,
+ "dist_pc": 18.3,
+ "sptype": "G9V",
+ "region": null,
+ "categories": [
+  "debris"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "type": "disk_scattered",
+   "facility": "HST",
+   "instrument": "ACS",
+   "wavelength_um": 0.6,
+   "wavelength_label": "optical ring",
+   "technique": "coronagraphy",
+   "survey": null,
+   "credit": "Kalas et al. 2006, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Kalas",
+    "year": 2006,
+    "title": "First Scattered Light Images of Debris Disks around HD 53143 and HD 139664",
+    "journal": "ApJL 637, L57",
+    "arxiv": "astro-ph/0601488",
+    "bibcode": "2006ApJ...637L..57K"
+   },
+   "image_id": "hd-53143_acs2006",
+   "file": "images/hd-53143/hd-53143_acs2006.png"
+  },
+  {
+   "type": "disk_scattered",
+   "facility": "HST",
+   "instrument": "STIS",
+   "wavelength_um": 0.58,
+   "wavelength_label": "0.2-1.0 um broadband (optical)",
+   "technique": "coronagraphy",
+   "image_id": "hd-53143_stis-schneider14",
+   "survey": "STIS-Schneider14",
+   "file": "images/hd-53143/hd-53143_stis-schneider14.png",
+   "credit": "Schneider et al. 2014 (crop; per-target STIS PSFTSC figures)",
+   "paper": {
+    "first_author": "Schneider",
+    "year": 2014,
+    "title": "Probing for Exoplanets Hiding in Dusty Debris Disks: Disk Imaging, Characterization, and Exploration with HST/STIS Multi-Roll Coronagraphy",
+    "journal": "AJ 148, 59",
+    "arxiv": "1406.7303",
+    "bibcode": "2014AJ....148...59S"
+   }
+  },
+  {
+   "type": "disk_mm",
+   "facility": "ALMA/SMA",
+   "instrument": "Band 6/7",
+   "wavelength_um": 1300,
+   "wavelength_label": "~0.9-1.3 mm continuum",
+   "technique": "interferometry",
+   "image_id": "hd-53143_reasons",
+   "file": "images/hd-53143/hd-53143_reasons.png",
+   "survey": "REASONS",
+   "credit": "Matrà et al. 2025, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Matra",
+    "year": 2025,
+    "title": "REsolved ALMA and SMA Observations of Nearby Stars (REASONS): A population of 74 resolved planetesimal belts at millimetre wavelengths",
+    "journal": "A&A 693, A151",
+    "arxiv": "2501.09058",
+    "bibcode": "2025A&A...693A.151M"
+   }
+  },
+  {
+   "image_id": "hd-53143_alice-f110w",
+   "type": "disk_scattered",
+   "facility": "HST",
+   "instrument": "NICMOS",
+   "wavelength_um": 1.1,
+   "wavelength_label": "F110W 1.1 um (ALICE archival reprocessing, combined coadd)",
+   "technique": "RDI",
+   "survey": "ALICE",
+   "file": "images/hd-53143/hd-53143_alice-f110w.png",
+   "credit": "ALICE HLSP v1 combined coadd (HST program 10599, STScI) — hi-res: ALICE archive (STScI)",
+   "paper": {
+    "first_author": "Hagan",
+    "year": 2018,
+    "title": "ALICE Data Release: A revaluation of HST-NICMOS coronagraphic images",
+    "journal": "AJ 155, 179",
+    "arxiv": "1802.07754",
+    "bibcode": null
+   },
+   "hires_url": "https://archive.stsci.edu/prepds/alice/"
+  }
+ ],
+ "notes": null,
+ "last_updated": "2026-07-07",
+ "plx_mas": 54.5252,
+ "mags": {
+  "U": 8.035,
+  "B": 7.609,
+  "V": 6.803,
+  "G": 6.616181,
+  "R": 6.375,
+  "I": 5.99,
+  "J": 5.459,
+  "H": 5.097,
+  "K": 4.987
+ }
+}

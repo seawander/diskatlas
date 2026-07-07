@@ -1,0 +1,49 @@
+{
+ "id": "hd-50571",
+ "name": "HD 50571",
+ "alt_names": [],
+ "simbad": "HD 50571",
+ "ra_deg": 102.504229692,
+ "dec_deg": -60.24914479466,
+ "dist_pc": 33.9,
+ "sptype": "F5VFe+0.4",
+ "region": null,
+ "categories": [
+  "debris"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "type": "disk_mm",
+   "facility": "ALMA/SMA",
+   "instrument": "Band 6/7",
+   "wavelength_um": 1300,
+   "wavelength_label": "~0.9-1.3 mm continuum",
+   "technique": "interferometry",
+   "image_id": "hd-50571_reasons",
+   "file": "images/hd-50571/hd-50571_reasons.png",
+   "survey": "REASONS",
+   "credit": "Matrà et al. 2025, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Matra",
+    "year": 2025,
+    "title": "REsolved ALMA and SMA Observations of Nearby Stars (REASONS): A population of 74 resolved planetesimal belts at millimetre wavelengths",
+    "journal": "A&A 693, A151",
+    "arxiv": "2501.09058",
+    "bibcode": "2025A&A...693A.151M"
+   }
+  }
+ ],
+ "notes": "AUTO-CREATED from staging - fill metadata & coords",
+ "last_updated": "2026-07-06",
+ "plx_mas": 29.4738,
+ "mags": {
+  "B": 6.548,
+  "V": 6.098,
+  "G": 6.004305,
+  "R": 7.26,
+  "J": 5.305,
+  "H": 5.128,
+  "K": 5.02
+ }
+}

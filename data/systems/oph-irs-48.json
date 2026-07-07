@@ -1,0 +1,110 @@
+{
+ "id": "oph-irs-48",
+ "name": "Oph IRS 48",
+ "alt_names": [
+  "WLY 2-48"
+ ],
+ "simbad": "WLY 2-48",
+ "ra_deg": 246.90496101407,
+ "dec_deg": -24.50972923523,
+ "dist_pc": 136.3,
+ "sptype": "B5-F2",
+ "region": "Ophiuchus",
+ "categories": [
+  "protoplanetary"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 9",
+   "wavelength_um": 440,
+   "wavelength_label": "0.44 mm continuum (dust trap)",
+   "technique": "interferometry",
+   "survey": null,
+   "credit": "van der Marel et al. 2013, Fig. 1A (crop)",
+   "paper": {
+    "first_author": "van der Marel",
+    "year": 2013,
+    "title": "A major asymmetric dust trap in a transition disk",
+    "journal": "Science 340, 1199",
+    "arxiv": "1306.1768",
+    "bibcode": "2013Sci...340.1199V"
+   },
+   "image_id": "oph-irs-48_alma2013",
+   "file": "images/oph-irs-48/oph-irs-48_alma2013.png"
+  },
+  {
+   "image_id": "oph-irs-48_seeds",
+   "type": "disk_scattered",
+   "facility": "Subaru-HiCIAO",
+   "instrument": "HiCIAO",
+   "wavelength_um": 1.65,
+   "wavelength_label": "H band (pol. intensity)",
+   "technique": "PDI",
+   "survey": "SEEDS",
+   "file": "images/oph-irs-48/oph-irs-48_seeds.png",
+   "credit": "Follette et al. 2015, Fig. 1 (crop: H band after halo subtraction)",
+   "paper": {
+    "first_author": "Follette",
+    "year": 2015,
+    "title": "SEEDS Adaptive Optics Imaging of the Asymmetric Transition Disk Oph IRS 48 in Scattered Light",
+    "journal": "ApJ 798, 132",
+    "arxiv": "1411.0671",
+    "bibcode": "2015ApJ...798..132F"
+   }
+  },
+  {
+   "image_id": "oph-irs-48_sma2012",
+   "type": "disk_mm",
+   "facility": "SMA",
+   "instrument": "Submillimeter Array",
+   "wavelength_um": 880,
+   "wavelength_label": "880 um continuum",
+   "technique": "interferometry",
+   "survey": null,
+   "credit": "Brown et al. 2012, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Brown",
+    "year": 2012,
+    "title": "Matryoshka Holes: Nested Emission Rings in the Transitional Disk Oph IRS 48",
+    "journal": "The Astrophysical Journal Letters, 758, L30",
+    "arxiv": "1209.1641",
+    "bibcode": null
+   },
+   "file": "images/oph-irs-48/oph-irs-48_sma2012.png"
+  },
+  {
+   "image_id": "oph-irs-48_comics2018",
+   "type": "disk_mm",
+   "facility": "Subaru",
+   "instrument": "COMICS",
+   "wavelength_um": 18.8,
+   "wavelength_label": "18.8 um (N-band, asymmetric E/W emission)",
+   "technique": "other",
+   "survey": null,
+   "credit": "Honda et al. 2018, Fig. 2 (crop)",
+   "paper": {
+    "first_author": "Honda",
+    "year": 2018,
+    "title": "Mid-infrared Multi-wavelength Imaging of Ophiuchus\\,IRS\\,48\\,Transitional Disk",
+    "journal": "Publications of the Astronomical Society of Japan, 70, 44",
+    "arxiv": "1804.02145",
+    "bibcode": null
+   },
+   "file": "images/oph-irs-48/oph-irs-48_comics2018.png"
+  }
+ ],
+ "notes": "Prototype azimuthal dust trap. SIMBAD name needs verification (Oph IRS 48 = WLY 2-48).",
+ "last_updated": "2026-07-07",
+ "plx_mas": 7.3357,
+ "mags": {
+  "G": 16.293634,
+  "R": 16.66,
+  "I": 14.67,
+  "J": 10.566,
+  "H": 8.815,
+  "K": 7.582
+ }
+}

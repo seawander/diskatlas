@@ -1,0 +1,35 @@
+{
+ "survey": "pl-abaur",
+ "survey_name": null,
+ "source_image": "images/_sources/extracted/2204.00633/2204.00633.pdf",
+ "pdf_page": 3,
+ "panels": [
+  {
+   "id": "ab-aur",
+   "image_id": "ab-aur_scexao2022",
+   "bbox_frac": [
+    0.524,
+    0.152,
+    0.836,
+    0.353
+   ]
+  }
+ ],
+ "image_defaults": {
+  "type": "planet",
+  "facility": "Subaru-SCExAO",
+  "instrument": "CHARIS",
+  "wavelength_um": 1.65,
+  "wavelength_label": "NIR; embedded protoplanet candidate",
+  "technique": "RDI"
+ },
+ "credit": "Currie et al. 2022, Fig. 1 (crop)",
+ "paper": {
+  "first_author": "Currie",
+  "year": 2022,
+  "title": "Images of embedded Jovian planet formation at a wide separation around AB Aurigae",
+  "journal": "Nature Astronomy 6, 751",
+  "arxiv": "2204.00633",
+  "bibcode": "2022NatAs...6..751C"
+ }
+}

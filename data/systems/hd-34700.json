@@ -1,0 +1,151 @@
+{
+ "id": "hd-34700",
+ "name": "HD 34700",
+ "alt_names": [],
+ "simbad": "HD 34700",
+ "ra_deg": 79.92253724616,
+ "dec_deg": 5.64521627524,
+ "dist_pc": 350.5,
+ "sptype": "G0IVe",
+ "region": null,
+ "categories": [
+  "protoplanetary"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "type": "disk_scattered",
+   "facility": "Gemini-GPI",
+   "instrument": "IFS pol",
+   "wavelength_um": 1.65,
+   "wavelength_label": "H band 1.6 um (pol. intensity)",
+   "technique": "PDI",
+   "survey": null,
+   "credit": "Monnier et al. 2019, Fig. 2 (crop, H band)",
+   "paper": {
+    "first_author": "Monnier",
+    "year": 2019,
+    "title": "Multiple spiral arms in the disk around intermediate-mass binary HD 34700A",
+    "journal": "ApJ 872, 122",
+    "arxiv": "1901.02467",
+    "bibcode": null
+   },
+   "image_id": "hd-34700_gpi2019",
+   "file": "images/hd-34700/hd-34700_gpi2019.png"
+  },
+  {
+   "type": "disk_scattered",
+   "facility": "Gemini-GPI",
+   "instrument": "IFS pol",
+   "wavelength_um": 1.65,
+   "wavelength_label": "H band 1.6 um (pol. intensity)",
+   "technique": "PDI",
+   "image_id": "hd-34700_gemini-lights",
+   "survey": "Gemini-LIGHTS",
+   "file": "images/hd-34700/hd-34700_gemini-lights.png",
+   "credit": "Rich et al. 2022, spirals gallery (crop)",
+   "paper": {
+    "first_author": "Rich",
+    "year": 2022,
+    "title": "Gemini-LIGHTS: Herbig Ae/Be and Massive T Tauri Protoplanetary Disks Imaged with Gemini Planet Imager",
+    "journal": "AJ 164, 109",
+    "arxiv": "2206.05815",
+    "bibcode": "2022AJ....164..109R"
+   }
+  },
+  {
+   "type": "disk_scattered",
+   "facility": "Gemini-GPI",
+   "instrument": "IFS pol",
+   "wavelength_um": 1.24,
+   "wavelength_label": "J band 1.2 um (pol. intensity)",
+   "technique": "PDI",
+   "image_id": "hd-34700_gemini-lights-j",
+   "file": "images/hd-34700/hd-34700_gemini-lights-j.png",
+   "survey": "Gemini-LIGHTS",
+   "credit": "Rich et al. 2022, final-images gallery (crop)",
+   "paper": {
+    "first_author": "Rich",
+    "year": 2022,
+    "title": "Gemini-LIGHTS: Herbig Ae/Be and Massive T Tauri Protoplanetary Disks Imaged with Gemini Planet Imager",
+    "journal": "AJ 164, 109",
+    "arxiv": "2206.05815",
+    "bibcode": "2022AJ....164..109R"
+   }
+  },
+  {
+   "image_id": "hd-34700_scexao2023",
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS DPI",
+   "wavelength_um": 1.625,
+   "wavelength_label": "H band 1.6 um (Qphi pol. intensity, log stretch)",
+   "technique": "PDI",
+   "survey": "DESTINYS",
+   "file": "images/hd-34700/hd-34700_scexao2023.png",
+   "credit": "Columba et al. 2024, Fig. 2 (IRDIS H-band Qphi crop)",
+   "paper": {
+    "first_author": "Columba",
+    "year": 2024,
+    "title": "Disk Evolution Study Through Imaging of Nearby Young Stars (DESTINYS): HD 34700 A unveils an inner ring",
+    "journal": "A&A 681, A19",
+    "arxiv": "2310.16873",
+    "bibcode": "2024A&A...681A..19C"
+   }
+  },
+  {
+   "image_id": "hd-34700_lbti2024",
+   "type": "disk_scattered",
+   "facility": "LBT",
+   "instrument": "LBTI/LMIRCam",
+   "wavelength_um": 3.7,
+   "wavelength_label": "L' (3.7 um)",
+   "technique": "Direct imaging / ADI (pupil-stabilized), PCA reduction",
+   "survey": null,
+   "file": "images/hd-34700/hd-34700_lbti2024.png",
+   "credit": "Columba et al. 2024, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Columba",
+    "year": 2024,
+    "title": "Disk Evolution Study Through Imaging of Nearby Young Stars (DESTINYS): HD 34700 A unveils an inner ring",
+    "journal": "A&A",
+    "arxiv": "2310.16873",
+    "bibcode": "2024A&A...681A..19C"
+   }
+  },
+  {
+   "image_id": "hd-34700_charis2020",
+   "type": "disk_scattered",
+   "facility": "Subaru",
+   "instrument": "SCExAO/CHARIS",
+   "wavelength_um": 1.6,
+   "wavelength_label": "JHK-band (1.1-2.4 micron) IFS",
+   "technique": "RDI",
+   "survey": null,
+   "credit": "Uyama et al. 2020, Fig. 2 (crop)",
+   "paper": {
+    "first_author": "Uyama",
+    "year": 2020,
+    "title": "SCExAO/CHARIS High-Contrast Imaging of Spirals and Darkening Features in the HD 34700 A Protoplanetary Disk",
+    "journal": "ApJ, 900, 135",
+    "arxiv": "2007.11655",
+    "bibcode": null
+   },
+   "file": "images/hd-34700/hd-34700_charis2020.png"
+  }
+ ],
+ "notes": null,
+ "last_updated": "2026-07-07",
+ "plx_mas": 2.8532,
+ "mags": {
+  "U": 9.75,
+  "B": 9.778,
+  "V": 9.659,
+  "G": 9.038646,
+  "R": 9.205,
+  "I": 8.47,
+  "J": 8.041,
+  "H": 7.706,
+  "K": 7.482
+ }
+}

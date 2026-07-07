@@ -1,0 +1,29 @@
+{
+ "survey": "r-aumic-acs2005",
+ "survey_name": null,
+ "source_image": "images/_sources/_views/r_krist_fig1.png",
+ "panels": [
+  {
+   "id": "au-mic",
+   "image_id": "au-mic_acs2005",
+   "bbox_frac": [0.0, 0.3346, 1.0, 0.4981]
+  }
+ ],
+ "image_defaults": {
+  "type": "disk_scattered",
+  "facility": "HST",
+  "instrument": "ACS",
+  "wavelength_um": 0.6,
+  "wavelength_label": "optical edge-on disk",
+  "technique": "coronagraphy"
+ },
+ "credit": "Krist et al. 2005, Fig. 1c (crop)",
+ "paper": {
+  "first_author": "Krist",
+  "year": 2005,
+  "title": "HST/ACS Coronagraphic Imaging of the AU Microscopii Debris Disk",
+  "journal": "AJ 129, 1008",
+  "arxiv": "astro-ph/0410466",
+  "bibcode": "2005AJ....129.1008K"
+ }
+}

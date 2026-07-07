@@ -1,0 +1,47 @@
+{
+ "id": "ho-tau",
+ "name": "ho tau",
+ "alt_names": [],
+ "simbad": "HO Tau",
+ "ra_deg": 68.83421040349,
+ "dec_deg": 22.53737816091,
+ "dist_pc": 164.5,
+ "sptype": "M0.5",
+ "region": "Taurus",
+ "categories": [
+  "protoplanetary"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 6",
+   "wavelength_um": 1330,
+   "wavelength_label": "1.33 mm continuum",
+   "technique": "interferometry",
+   "image_id": "ho-tau_taurus-long2019",
+   "file": "images/ho-tau/ho-tau_taurus-long2019.png",
+   "survey": "Taurus-Long2019",
+   "credit": "Long et al. 2019, Fig. 3 (crop)",
+   "paper": {
+    "first_author": "Long",
+    "year": 2019,
+    "title": "Compact Disks in a High-resolution ALMA Survey of Dust Structures in the Taurus Molecular Cloud",
+    "journal": "ApJ 882, 49",
+    "arxiv": "1906.10809",
+    "bibcode": "2019ApJ...882...49L"
+   }
+  }
+ ],
+ "notes": "AUTO-CREATED from staging - fill metadata & coords",
+ "last_updated": "2026-07-06",
+ "plx_mas": 6.0796,
+ "mags": {
+  "V": 15.2,
+  "G": 13.982401,
+  "J": 11.202,
+  "H": 10.244,
+  "K": 9.731
+ }
+}

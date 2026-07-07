@@ -1,0 +1,85 @@
+{
+ "id": "hip-21152",
+ "name": "HIP 21152",
+ "alt_names": [
+  "HD 28736"
+ ],
+ "simbad": "HIP 21152",
+ "ra_deg": 68.0200357857,
+ "dec_deg": 5.4100411573,
+ "dist_pc": 43.208,
+ "plx_mas": 23.109,
+ "mags": {
+  "B": 6.783,
+  "V": 6.352,
+  "G": 6.267808,
+  "R": 6.104,
+  "I": 5.874,
+  "J": 5.593,
+  "H": 5.385,
+  "K": 5.333
+ },
+ "sptype": "F5V",
+ "region": "Hyades",
+ "categories": [],
+ "planets": [
+  {
+   "name": "B",
+   "status": "confirmed",
+   "method": "imaging",
+   "note": "Substellar (brown dwarf) companion at semimajor axis 17.5(+7.2/-3.8) au, dynamical mass 27.8(+8.4/-5.4) M_Jup (mass ratio ~2%); spectrum consistent with L/T transition, best fit by an early T dwarf (T0+-1). First substellar companion directly imaged around a Sun-like star in the Hyades open cluster; host is an accelerating star per Hipparcos-Gaia astrometry. Independently identified by Bonavita et al. 2022 and Franson et al. 2022 (arXiv:2211.09840), who measure a dynamical mass of 24(+6/-4) M_Jup.",
+   "paper": {
+    "first_author": "Kuzuhara",
+    "year": 2022,
+    "title": "Direct Imaging Discovery and Dynamical Mass of a Substellar Companion Orbiting an Accelerating Hyades Sun-like Star with SCExAO/CHARIS",
+    "journal": null,
+    "arxiv": "2205.02729",
+    "bibcode": null
+   }
+  }
+ ],
+ "images": [
+  {
+   "image_id": "hip-21152_scexao2022",
+   "type": "planet",
+   "facility": "Subaru-SCExAO",
+   "instrument": "CHARIS",
+   "wavelength_um": 1.65,
+   "wavelength_label": "JHK broadband; accelerating-star discovery",
+   "technique": "ADI",
+   "survey": null,
+   "credit": "Kuzuhara et al. 2022, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Kuzuhara",
+    "year": 2022,
+    "title": "Direct Imaging Discovery and Dynamical Mass of a Substellar Companion Orbiting an Accelerating Hyades Sun-like Star with SCExAO/CHARIS",
+    "journal": null,
+    "arxiv": "2205.02729",
+    "bibcode": null
+   },
+   "file": "images/hip-21152/hip-21152_scexao2022.png"
+  },
+  {
+   "image_id": "hip-21152_nirc2-2022",
+   "type": "planet",
+   "facility": "Keck-NIRC2",
+   "instrument": "NIRC2 (vortex coronagraph)",
+   "wavelength_um": 3.78,
+   "wavelength_label": "L' band 3.78 um S/N map (vortex coronagraph)",
+   "technique": "ADI",
+   "survey": null,
+   "credit": "Franson et al. 2022, Fig. 2 (crop)",
+   "paper": {
+    "first_author": "Franson",
+    "year": 2022,
+    "title": "Astrometric Accelerations as Dynamical Beacons: Discovery and Characterization of HIP 21152 B, the First T-Dwarf Companion in the Hyades",
+    "journal": null,
+    "arxiv": "2211.09840",
+    "bibcode": null
+   },
+   "file": "images/hip-21152/hip-21152_nirc2-2022.png"
+  }
+ ],
+ "notes": "Member of the Hyades open cluster; first substellar companion directly imaged around a Hyades main-sequence star.",
+ "last_updated": "2026-07-06"
+}

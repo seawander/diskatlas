@@ -1,0 +1,91 @@
+{
+ "id": "hd-35650",
+ "name": "HD 35650",
+ "alt_names": [],
+ "simbad": "HD 35650",
+ "ra_deg": 81.12570642031,
+ "dec_deg": -38.96965196607,
+ "dist_pc": 17.5,
+ "plx_mas": 57.2706,
+ "mags": {
+  "U": 11.54,
+  "B": 10.365,
+  "V": 9.054,
+  "G": 8.539438,
+  "R": 8.293,
+  "I": 7.577,
+  "J": 6.702,
+  "H": 6.105,
+  "K": 5.921
+ },
+ "sptype": "K6V",
+ "region": null,
+ "categories": [
+  "debris"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "type": "disk_scattered",
+   "facility": "HST",
+   "instrument": "NICMOS",
+   "wavelength_um": 1.6,
+   "wavelength_label": "F160W 1.6 um (ALICE reprocessing)",
+   "technique": "RDI",
+   "image_id": "hd-35650_alice",
+   "survey": "ALICE",
+   "file": "images/hd-35650/hd-35650_alice.png",
+   "credit": "Choquet et al. 2016, Fig. 2 (crop)",
+   "paper": {
+    "first_author": "Choquet",
+    "year": 2016,
+    "title": "First images of debris disks around TWA 7, TWA 25, HD 35650, and HD 377",
+    "journal": "ApJL 817, L2",
+    "arxiv": "1512.02220",
+    "bibcode": "2016ApJ...817L...2C"
+   }
+  },
+  {
+   "type": "disk_scattered",
+   "facility": "HST",
+   "instrument": "NICMOS",
+   "wavelength_um": 1.6,
+   "wavelength_label": "F160W 1.60 um (NMF reprocessing)",
+   "technique": "RDI",
+   "image_id": "hd-35650_nicmos-ren2023",
+   "file": "images/hd-35650/hd-35650_nicmos-ren2023.png",
+   "survey": "NICMOS-Ren2023",
+   "credit": "Ren et al. 2023, Fig. 4 (crop)",
+   "paper": {
+    "first_author": "Ren",
+    "year": 2023,
+    "title": "Debris Disk Color with the Hubble Space Telescope",
+    "journal": "A&A 672, A114",
+    "arxiv": "2302.04273",
+    "bibcode": "2023A&A...672A.114R"
+   }
+  },
+  {
+   "type": "disk_scattered",
+   "facility": "HST",
+   "instrument": "STIS",
+   "wavelength_um": 0.58,
+   "wavelength_label": "0.2-1.0 um broadband (optical)",
+   "technique": "coronagraphy",
+   "image_id": "hd-35650_stis-ren",
+   "file": "images/hd-35650/hd-35650_stis-ren.png",
+   "survey": "STIS-Ren",
+   "credit": "Ren et al. 2023, Fig. 2 (crop)",
+   "paper": {
+    "first_author": "Ren",
+    "year": 2023,
+    "title": "Debris Disk Color with the Hubble Space Telescope",
+    "journal": "A&A 672, A114",
+    "arxiv": "2302.04273",
+    "bibcode": "2023A&A...672A.114R"
+   }
+  }
+ ],
+ "notes": null,
+ "last_updated": "2026-07-06"
+}

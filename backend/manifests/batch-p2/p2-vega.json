@@ -1,0 +1,35 @@
+{
+ "survey": "p2-vega",
+ "survey_name": null,
+ "source_image": "images/_sources/extracted/2410.24042/2410.24042.pdf",
+ "panels": [
+  {
+   "id": "vega",
+   "image_id": "vega_hst2024",
+   "bbox_frac": [
+    0.127,
+    0.096,
+    0.421,
+    0.318
+   ]
+  }
+ ],
+ "image_defaults": {
+  "type": "disk_scattered",
+  "facility": "HST",
+  "instrument": "STIS",
+  "technique": "RDI",
+  "wavelength_um": 0.58,
+  "wavelength_label": "0.58 um broadband (scattered-light halo 10-30 arcsec, deep RDI)"
+ },
+ "credit": "Wolff et al. 2024, Fig. 2 (crop)",
+ "paper": {
+  "first_author": "Wolff",
+  "year": 2024,
+  "title": "Deep Search for a Scattered Light Dust Halo Around Vega with the Hubble Space Telescope",
+  "journal": "AJ 168, 236",
+  "arxiv": "2410.24042",
+  "bibcode": "2024AJ....168..236W"
+ },
+ "pdf_page": 4
+}

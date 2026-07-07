@@ -1,0 +1,49 @@
+{
+ "id": "hd-38397",
+ "name": "HD 38397",
+ "alt_names": [],
+ "simbad": "HD 38397",
+ "ra_deg": 85.89920377807,
+ "dec_deg": -39.92353378909,
+ "dist_pc": 53.6,
+ "sptype": "G0V",
+ "region": null,
+ "categories": [
+  "debris"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS DPI",
+   "wavelength_um": 1.65,
+   "wavelength_label": "H band 1.6 um (pol. intensity)",
+   "technique": "PDI",
+   "image_id": "hd-38397_sphere-debris-2025",
+   "file": "images/hd-38397/hd-38397_sphere-debris-2025.png",
+   "survey": "SPHERE-debris-2025",
+   "credit": "Engler et al. 2025, Fig. 5a (crop)",
+   "paper": {
+    "first_author": "Engler",
+    "year": 2025,
+    "title": "Characterization of debris disks observed with SPHERE",
+    "journal": "A&A 704, A21",
+    "arxiv": "2512.03128",
+    "bibcode": null
+   }
+  }
+ ],
+ "notes": "AUTO-CREATED from staging - fill metadata & coords",
+ "last_updated": "2026-07-06",
+ "plx_mas": 18.6587,
+ "mags": {
+  "B": 8.72,
+  "V": 8.14,
+  "G": 7.998819,
+  "I": 7.486,
+  "J": 7.056,
+  "H": 6.845,
+  "K": 6.756
+ }
+}

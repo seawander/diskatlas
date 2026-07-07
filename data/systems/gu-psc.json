@@ -1,0 +1,60 @@
+{
+ "id": "gu-psc",
+ "name": "GU Psc",
+ "alt_names": [],
+ "simbad": "GU Psc",
+ "ra_deg": 18.14605149797,
+ "dec_deg": 17.0654366437,
+ "dist_pc": 47.6,
+ "sptype": "M3",
+ "region": null,
+ "categories": [],
+ "planets": [
+  {
+   "name": "b",
+   "status": "confirmed",
+   "note": "~11 MJup at 2000 au",
+   "paper": {
+    "first_author": "Naud",
+    "year": 2014,
+    "arxiv": "1405.2932",
+    "bibcode": null,
+    "_verify": true
+   }
+  }
+ ],
+ "images": [
+  {
+   "image_id": "gu-psc_discovery2014",
+   "type": "planet",
+   "facility": "Gemini-GMOS/CFHT",
+   "instrument": "GMOS-S i/z + WIRCam J (composite)",
+   "wavelength_um": 1.0,
+   "wavelength_label": "izJ composite; GU Psc b at 42 arcsec (2000 au)",
+   "technique": "other",
+   "survey": null,
+   "file": "images/gu-psc/gu-psc_discovery2014.png",
+   "credit": "Naud et al. 2014, Fig. 1 (full figure)",
+   "paper": {
+    "first_author": "Naud",
+    "year": 2014,
+    "title": "Discovery of a Wide Planetary-mass Companion to the Young M3 Star GU Psc",
+    "journal": "ApJ 787, 5",
+    "arxiv": "1405.2932",
+    "bibcode": "2014ApJ...787....5N"
+   }
+  }
+ ],
+ "notes": null,
+ "last_updated": "2026-07-07",
+ "plx_mas": 21.0051,
+ "mags": {
+  "B": 15.59,
+  "V": 14.1,
+  "G": 12.956993,
+  "R": 13.78,
+  "J": 10.211,
+  "H": 9.598,
+  "K": 9.345
+ }
+}

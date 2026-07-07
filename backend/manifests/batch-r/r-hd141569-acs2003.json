@@ -1,0 +1,29 @@
+{
+ "survey": "r-hd141569-acs2003",
+ "survey_name": null,
+ "source_image": "images/_sources/extracted/astro-ph_0303605/clampin.fig5.jpg",
+ "panels": [
+  {
+   "id": "hd-141569",
+   "image_id": "hd-141569_acs2003",
+   "bbox_frac": [0.0, 0.0, 1.0, 0.748]
+  }
+ ],
+ "image_defaults": {
+  "type": "disk_scattered",
+  "facility": "HST",
+  "instrument": "ACS",
+  "wavelength_um": 0.6,
+  "wavelength_label": "optical; spiral ring system",
+  "technique": "coronagraphy"
+ },
+ "credit": "Clampin et al. 2003, Fig. 5 (crop)",
+ "paper": {
+  "first_author": "Clampin",
+  "year": 2003,
+  "title": "Hubble Space Telescope ACS Coronagraphic Imaging of the Circumstellar Disk around HD 141569A",
+  "journal": "AJ 126, 385",
+  "arxiv": "astro-ph/0303605",
+  "bibcode": "2003AJ....126..385C"
+ }
+}

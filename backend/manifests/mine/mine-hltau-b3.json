@@ -1,0 +1,35 @@
+{
+ "survey": "mine-hltau-b3",
+ "survey_name": null,
+ "source_image": "images/_sources/_views/mine_hltau_f2_r300.png",
+ "panels": [
+  {
+   "id": "hl-tau",
+   "image_id": "hl-tau_alma2015-b3",
+   "bbox_frac": [
+    0.1524,
+    0.0135,
+    0.5152,
+    0.3245
+   ]
+  }
+ ],
+ "image_defaults": {
+  "type": "disk_mm",
+  "facility": "ALMA",
+  "instrument": "Band 3",
+  "wavelength_um": 2900,
+  "wavelength_label": "2.9 mm continuum (Band 3)",
+  "technique": "interferometry"
+ },
+ "credit": "ALMA Partnership et al. 2015, Fig. 2a (crop)",
+ "paper": {
+  "first_author": "ALMA Partnership",
+  "year": 2015,
+  "title": "First Results from High Angular Resolution ALMA Observations Toward the HL Tau Region",
+  "journal": "ApJL 808, L3",
+  "arxiv": "1503.02649",
+  "bibcode": "2015ApJ...808L...3A"
+ },
+ "_comment": "panel (a) = 2.9 mm B3"
+}

@@ -1,0 +1,9 @@
+# Batch E (Ren+2023 STIS/NICMOS + ALICE) — systems needing SIMBAD coordinates
+# NEW systems created by this batch (debris, Ren+2023 2302.04273 sample):
+HD 141943
+HD 192758
+HD 202917
+# Pre-existing systems that still have ra_deg/dec_deg = null (ALICE seeds):
+TWA 25
+HD 35650
+HD 377
