@@ -219,10 +219,30 @@
    },
    "file": "images/hd-169142/hd-169142_visir2021.png",
    "note": "HD 169142 resolved in both PAH1 and NEAR filters per the paper (most resolved disk in the sample after HD 100546)."
+  },
+  {
+   "image_id": "hd-169142_macias2019-band3",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 3",
+   "wavelength_um": 3100,
+   "wavelength_label": "3.1 mm continuum",
+   "technique": "interferometry",
+   "survey": null,
+   "credit": "Macias et al. 2019, Fig. 1 (right) (crop)",
+   "paper": {
+    "first_author": "Macias",
+    "year": 2019,
+    "title": "Characterization of Ring Substructures in the Protoplanetary Disk of HD 169142 from Multi-Wavelength ALMA Observations",
+    "journal": "ApJ 881, 159",
+    "arxiv": "1907.07277",
+    "bibcode": "2019ApJ...881..159M"
+   },
+   "file": "images/hd-169142/hd-169142_macias2019-band3.png"
   }
  ],
  "notes": null,
- "last_updated": "2026-07-07",
+ "last_updated": "2026-07-08",
  "plx_mas": 8.7053,
  "mags": {
   "B": 8.42,

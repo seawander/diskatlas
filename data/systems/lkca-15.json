@@ -267,10 +267,30 @@
     "bibcode": null
    },
    "file": "images/lkca-15/lkca-15_exoalma-co.png"
+  },
+  {
+   "image_id": "lkca-15_sallum2023-lbt-nrm",
+   "type": "disk_scattered",
+   "facility": "LBT",
+   "instrument": "LBTI/LMIRCam (NRM)",
+   "wavelength_um": 3.8,
+   "wavelength_label": "L' band 3.8 um (SQUEEZE-reconstructed, 2014-12 epoch)",
+   "technique": "aperture-masking interferometry",
+   "survey": null,
+   "credit": "Sallum et al. 2023, Fig. 2 (crop)",
+   "paper": {
+    "first_author": "Sallum",
+    "year": 2023,
+    "title": "Systematic Multi-Epoch Monitoring of LkCa 15: Dynamic Dust Structures on Solar-System Scales",
+    "journal": "ApJ 954, 171",
+    "arxiv": "2306.15069",
+    "bibcode": "2023ApJ...954..171S"
+   },
+   "file": "images/lkca-15/lkca-15_sallum2023-lbt-nrm.png"
   }
  ],
  "notes": null,
- "last_updated": "2026-07-07",
+ "last_updated": "2026-07-08",
  "plx_mas": 6.3619,
  "mags": {
   "B": 13.01,

@@ -166,48 +166,6 @@
   "done": false
  },
  {
-  "arxiv": "2001.08304",
-  "s2": "6d57166c596588d38678501251ffcf2206154846",
-  "title": "Cloud Atlas: High-precision HST/WFC3/IR Time-resolved Observations of Directly Imaged Exoplanet HD 106906b",
-  "year": 2020,
-  "venue": "Astronomical Journal",
-  "n_seed_citations": 7,
-  "seeds_cited": [
-   "0811.2606",
-   "1011.4918",
-   "1312.1265",
-   "1508.03084",
-   "1510.02747",
-   "1704.02987",
-   "astro-ph/0409323"
-  ],
-  "abstract": "HD 106906b is an , \u223c15 Myr old directly imaged exoplanet orbiting at an extremely large distance from its host star. The wide separation (7.\u203311) between HD 106906b and its host star greatly reduces the difficulty in direct-imaging observations, making it one of the most favorable directly imaged exoplanets for detailed characterization. In this paper, we present HST/WFC3/IR time-resolved observations of HD 106906b in the F127M, F139M, and F153M bands. We have achieved \u223c1% precision in the lightcurves in all three bands. The F127M lightcurve demonstrates marginally detectable (2.7\u03c3 significance",
-  "target_match": "hd 106906",
-  "obs_score": 2,
-  "done": false
- },
- {
-  "arxiv": "1907.07277",
-  "s2": "9031fa1c11aab2cd864b91d2e6d3489843b8a5a9",
-  "title": "Characterization of Ring Substructures in the Protoplanetary Disk of HD 169142 from Multiwavelength Atacama Large Millimeter/submillimeter Array Observations",
-  "year": 2019,
-  "venue": "Astrophysical Journal",
-  "n_seed_citations": 7,
-  "seeds_cited": [
-   "1603.09352",
-   "1610.05139",
-   "1702.02844",
-   "1803.10882",
-   "1810.06044",
-   "1812.04040",
-   "1901.06555"
-  ],
-  "abstract": "We present a detailed multiwavelength characterization of the multi-ring disk of HD 169142. We report new Atacama Large Millimeter/submillimeter Array (ALMA) observations at 3 mm and analyze them together with archival 0.89 and 1.3 mm data. Our observations resolve three out of the four rings in the disk previously seen in high-resolution ALMA data. A simple parametric model is used to estimate the radial profile of the dust optical depth, temperature, density, and particle size distribution. We find that the multiple ring features of the disk are produced by annular accumulations of large par",
-  "target_match": "hd 169142",
-  "obs_score": 2,
-  "done": false
- },
- {
   "arxiv": "1310.8577",
   "s2": "e6a030f7940c3d30ed449fc3b676759fe43d0be7",
   "title": "OPTIMIZED PRINCIPAL COMPONENT ANALYSIS ON CORONAGRAPHIC IMAGES OF THE FOMALHAUT SYSTEM",
@@ -250,47 +208,6 @@
   "done": false
  },
  {
-  "arxiv": "1102.5330",
-  "s2": "efa43ed37b92b02b3a5e990b086732dc442efc5c",
-  "title": "VLT/NACO astrometry of the HR 8799 planetary system - L\u2032-band observations of the three outer planets",
-  "year": 2011,
-  "venue": "",
-  "n_seed_citations": 7,
-  "seeds_cited": [
-   "0809.1424",
-   "0811.1994",
-   "0811.2606",
-   "0902.3247",
-   "1006.3070",
-   "1006.3314",
-   "1011.4918"
-  ],
-  "abstract": "Context. HR 8799 is so far the only directly imaged multiple exoplanet system. The orbital configuration would, if better known, provide valuable insight into the formation and dynamical evolution of wide-orbit planetary systems. Aims. We present data which add to the astrometric monitoring of the planets HR 8799 b, c and d. We investigate how well the two simple cases of (i) a circular orbit and (ii) a face-on orbit fit the astrometric data for HR 8799 d over a total time baseline of \u223c2 years. Methods. The HR 8799 planetary system was observed in L \ufffd -band with NACO at VLT. Results. The resul",
-  "target_match": "hr 8799",
-  "obs_score": 2,
-  "done": false
- },
- {
-  "arxiv": "2603.18338",
-  "s2": "f05e77c31361afd81896f9e15c1c2c4f0ec4f205",
-  "title": "Photometric and Astrometric Information for Sources around HD 163296 Revealed by JWST/NIRCam Coronagraphy",
-  "year": 2026,
-  "venue": "Research Notes of the AAS",
-  "n_seed_citations": 6,
-  "seeds_cited": [
-   "1806.11568",
-   "1906.01486",
-   "2208.14990",
-   "2408.04048",
-   "2503.20132",
-   "2508.19053"
-  ],
-  "abstract": "Background stars observed through a circumstellar disk provide valuable benchmarks for investigating the disk\u2019s extinction properties. The HD 163296 system is an excellent case study due to its large disk, the clearly visible extinction effects in JWST/NIRCam data, and the presence of numerous background sources within or around its disk. We present the measured contrasts and astrometry of sources surrounding HD 163296 from Cycle 1 JWST/NIRCam coronagraphic observations, which will serve as a useful reference for future studies of the disk\u2019s extinction characteristics.",
-  "target_match": "hd 163296",
-  "obs_score": 2,
-  "done": false
- },
- {
   "arxiv": "2501.13917",
   "s2": "7b484410d41e8fb91923b2b0ce9a0d3b0a8830fb",
   "title": "HD 206893 B at High Spectral Resolution with the Keck Planet Imager and Characterizer",
@@ -327,126 +244,6 @@
   ],
   "abstract": "We present aperture masking interferometry (AMI) observations of the star HIP 65426 at 3.8 \u03bcm, as part of the JWST Direct Imaging Early Release Science program, obtained using the Near Infrared Imager and Slitless Spectrograph instrument. This mode provides access to very small inner working angles (even separations slightly below the Michelson limit of 0.5\u03bb/D for an interferometer), which are inaccessible with the classical inner working angles of the JWST coronagraphs. When combined with JWST\u2019s unprecedented infrared sensitivity, this mode has the potential to probe a new portion of paramete",
   "target_match": "hip 65426",
-  "obs_score": 2,
-  "done": false
- },
- {
-  "arxiv": "2407.15986",
-  "s2": "f8c7f85c31da743f04d5517e190eff03a2ac982e",
-  "title": "Gemini Planet Imager Observations of a Resolved Low-inclination Debris Disk around HD 156623",
-  "year": 2024,
-  "venue": "Astronomical Journal",
-  "n_seed_citations": 6,
-  "seeds_cited": [
-   "1006.3314",
-   "1711.03322",
-   "1811.08439",
-   "1911.04793",
-   "2004.13722",
-   "2311.14599"
-  ],
-  "abstract": "The 16 Myr old A0V star HD 156623 in the Scorpius\u2013Centaurus association hosts a high-fractional-luminosity debris disk, recently resolved in scattered light for the first time by the Gemini Planet Imager (GPI) in polarized intensity only. We present a new analysis of the GPI H-band polarimetric detection of the HD 156623 debris disk, with particular interest in its unique morphology. This debris disk lacks a visible inner clearing, unlike the majority of low-inclination disks in the GPI sample and in Sco-Cen, and it is known to contain CO gas, positioning it as a candidate \u201chybrid\u201d or \u201cshielde",
-  "target_match": "hd 156623",
-  "obs_score": 2,
-  "done": false
- },
- {
-  "arxiv": "2405.21038",
-  "s2": "8bc16123c83fc0fc17f8f5327739e6512927a6ae",
-  "title": "A Multiwavelength, Multiepoch Monitoring Campaign of Accretion Variability in T Tauri Stars from the ODYSSEUS Survey. I. HST Far-UV and Near-UV Spectra",
-  "year": 2024,
-  "venue": "Astrophysical Journal",
-  "n_seed_citations": 6,
-  "seeds_cited": [
-   "1806.11568",
-   "1812.04040",
-   "1906.01486",
-   "1906.10809",
-   "2001.11040",
-   "2305.03611"
-  ],
-  "abstract": "The classical T Tauri star (CTTS) stage is a critical phase of the star and planet formation process. In an effort to better understand the mass accretion processes, which can dictate future stellar evolution and planet formation, a multiepoch, multiwavelength photometric and spectroscopic monitoring campaign of four CTTSs (TW Hya, RU Lup, BP Tau, and GM Aur) was carried out in 2021 and 2022/2023 as part of the Outflows and Disks around Young Stars: Synergies for the Exploration of ULLYSES Spectra program. Here we focus on the Hubble Space Telescope (HST) UV spectra obtained by the HST Directo",
-  "target_match": "t tau",
-  "obs_score": 2,
-  "done": false
- },
- {
-  "arxiv": "2306.15069",
-  "s2": "de19e0c8d60561391bfcabaa163f10f37dd7c421",
-  "title": "Systematic Multiepoch Monitoring of LkCa 15: Dynamic Dust Structures on Solar System Scales",
-  "year": 2023,
-  "venue": "Astrophysical Journal",
-  "n_seed_citations": 6,
-  "seeds_cited": [
-   "1402.1766",
-   "1412.6989",
-   "1806.11568",
-   "1812.04040",
-   "1906.01486",
-   "2011.07082"
-  ],
-  "abstract": "We present the highest-angular-resolution infrared monitoring of LkCa 15, a young solar analog hosting a transition disk. This system has been the subject of a number of direct-imaging studies from the millimeter through the optical, which have revealed multiple protoplanetary disk rings as well as three orbiting protoplanet candidates detected in infrared continuum emission (one of which was simultaneously seen at H\u03b1). We use high-angular-resolution infrared imaging from 2014 to 2020 to systematically monitor these infrared signals and determine their physical origin. We find that three self-",
-  "target_match": "lkca 15",
-  "obs_score": 2,
-  "done": false
- },
- {
-  "arxiv": "2310.00148",
-  "s2": "5f73192a916741e302cacddf8037537bae9e782e",
-  "title": "First VLTI/GRAVITY Observations of HIP 65426 b: Evidence for a Low or Moderate Orbital Eccentricity",
-  "year": 2023,
-  "venue": "Astronomical Journal",
-  "n_seed_citations": 6,
-  "seeds_cited": [
-   "1707.01413",
-   "1912.04651",
-   "2004.09597",
-   "2109.10671",
-   "2208.04867",
-   "2208.14990"
-  ],
-  "abstract": "Giant exoplanets have been directly imaged over orders of magnitude of orbital separations, prompting theoretical and observational investigations of their formation pathways. In this paper, we present new VLTI/GRAVITY astrometric data of HIP 65426 b, a cold, giant exoplanet which is a particular challenge for most formation theories at a projected separation of 92 au from its primary. Leveraging GRAVITY\u2019s astrometric precision, we present an updated eccentricity posterior that disfavors large eccentricities. The eccentricity posterior is still prior dependent, and we extensively interpret and",
-  "target_match": "hip 65426",
-  "obs_score": 2,
-  "done": false
- },
- {
-  "arxiv": "2104.13032",
-  "s2": "e7c9bb6a0a11bb338217c15278a9a1a1ca0a3879",
-  "title": "High-contrast imaging at ten microns: A search for exoplanets around Eps Indi A, Eps Eri, Tau Ceti, Sirius A, and Sirius B",
-  "year": 2021,
-  "venue": "Astronomy & Astrophysics",
-  "n_seed_citations": 6,
-  "seeds_cited": [
-   "0811.2606",
-   "1508.03084",
-   "1707.01413",
-   "1806.11568",
-   "2010.04442",
-   "2102.05159"
-  ],
-  "abstract": "Context. The direct imaging of rocky exoplanets is one of the major science goals of upcoming large telescopes. The contrast requirement for imaging such planets is challenging. However, the mid-IR (infrared) regime provides the optimum contrast to directly detect the thermal signatures of exoplanets in our solar neighbourhood.\nAims. We aim to exploit novel fast-chopping techniques newly developed for astronomy with the aid of adaptive optics to look for thermal signatures of exoplanets around bright stars in the solar neighbourhood.\nMethods. We used the upgraded Very Large Telescope Imager an",
-  "target_match": "eps eri",
-  "obs_score": 2,
-  "done": false
- },
- {
-  "arxiv": "2102.05905",
-  "s2": "ec232b40026242169c4b4af027aaea99d3eb023c",
-  "title": "ALMA Observations of the Asymmetric Dust Disk around DM Tau",
-  "year": 2021,
-  "venue": "Astrophysical Journal",
-  "n_seed_citations": 6,
-  "seeds_cited": [
-   "1103.0284",
-   "1608.03629",
-   "1710.05028",
-   "1805.12141",
-   "1810.06044",
-   "1812.04040"
-  ],
-  "abstract": "We report an analysis of the dust disk around DM Tau, newly observed with the Atacama Large Millimeter/submillimeter Array (ALMA) at 1.3 mm. The ALMA observations with high sensitivity (8.4 \u03bcJy beam\u20131) and high angular resolution (35 mas, 5.1 au) detect two asymmetries on the ring at r \u223c 20 au. They could be two vortices in early evolution, the destruction of a large-scale vortex, or double continuum emission peaks with different dust sizes. We also found millimeter emissions with \u223c50 \u03bcJy (a lower-limit dust mass of 0.3 M Moon) inside the 3 au ring. To characterize these emissions, we modeled ",
-  "target_match": "dm tau",
   "obs_score": 2,
   "done": false
  },
@@ -1591,7 +1388,7 @@
    "1610.08939"
   ],
   "abstract": "Turbulence is a crucial factor in many models of planet formation, but it has only been directly constrained among a small number of planet-forming disks. Building on the upper limits on turbulence placed in disks around HD 163296 and TW Hya, we present ALMA CO J = 2\u20131 line observations at \u223c0.\u20333 (20\u201350 au) resolution and 80 ms\u22121 channel spacing of the disks around DM Tau, MWC 480, and V4046 Sgr. Using parametric models of disk structure, we robustly detect nonthermal gas motions around DM Tau of between 0.25cs and 0.33cs, with the range dominated by systematic effects, making this one of the o",
-  "target_match": "dm tau",
+  "target_match": "v4046 sgr",
   "obs_score": 2,
   "done": false
  },
@@ -1987,7 +1784,7 @@
    "astro-ph/0603667"
   ],
   "abstract": "",
-  "target_match": "aa tau",
+  "target_match": "t tau",
   "obs_score": 2,
   "done": false
  },
@@ -2622,7 +2419,7 @@
    "astro-ph/0411131"
   ],
   "abstract": "In this study, we present high-resolution millimeter observations of the dust and gas disk of the T Tauri star AS 205 N and its companion, AS 205 S, obtained with the Atacama Large Millimeter Array. The gas disk around AS 205 N, for which infrared emission spectroscopy demonstrates significant deviations from Keplerian motion that has been interpreted as evidence for a disk wind, also displays significant deviations from Keplerian disk emission in the observations presented here. Detections near both AS 205 N and S are obtained in 1.3 mm continuum, 12CO 2\u20131, 13CO 2\u20131, and C18O 2\u20131. The 12CO em",
-  "target_match": "as 205",
+  "target_match": "t tau",
   "obs_score": 2,
   "done": false
  },
@@ -2639,7 +2436,7 @@
    "astro-ph/0506574"
   ],
   "abstract": "Fomalhaut is one of the most interesting and well-studied nearby stars, hosting at least one planet, a spectacular debris ring and two distant low-mass stellar companions (TW PsA and LP 876\u221210, a.k.a. Fomalhaut B and C). We observed both companions with Herschel, and while no disc was detected around the secondary, TW PsA, we have discovered the second debris disc in the Fomalhaut system, around LP 876\u221210. This detection is only the second case of two debris discs seen in a multiple system, both of which are relatively wide (3000 au for HD 223352/40 and 158 kau [0.77 pc] for Fomalhaut/LP 876\u22121",
-  "target_match": "fomalhaut c",
+  "target_match": "fomalhaut",
   "obs_score": 2,
   "done": false
  },
@@ -2707,7 +2504,7 @@
    "1103.0284"
   ],
   "abstract": "We present \u223c1\u2033 resolution 1.3\u2009mm dust continuum and spectral line (12CO and 13CO J = 2\u20131) observations of the transitional disk system HD 135344B obtained with the Submillimeter Array. The disk shows a Keplerian rotation pattern with an inclination of \u223c11\u00b0, based on the spatially and spectrally resolved 12CO and 13CO emission. The data show clear evidence for both dust and gas surface density reductions in the inner region of the disk (radius \u2272 50 AU) from the continuum and 13CO J = 2\u20131 data, respectively. The presence of this inner cavity in both the dust and gas is more consistent with clear",
-  "target_match": "hd 135344b",
+  "target_match": "sao 206462",
   "obs_score": 2,
   "done": false
  },
@@ -3336,7 +3133,7 @@
    "astro-ph/0607232"
   ],
   "abstract": "Millimeter-wavelength polarization measurements offer a promising method for probing the geometry of magnetic fields in circumstellar disks. Single dish observations and theoretical work have hinted that magnetic field geometries might be predominantly toroidal, and that disks should exhibit millimeter polarization fractions of 2%\u20133%. While subsequent work has not confirmed these high polarization fractions, either the wavelength of observation or the target sources differed from the original observations. Here we present new polarimetric observations of three nearby circumstellar disks at 2\u2033 ",
-  "target_match": "dg tau",
+  "target_match": "gm aur",
   "obs_score": 2,
   "done": false
  },
@@ -3780,7 +3577,7 @@
    "1003.4318"
   ],
   "abstract": "We present polarimetric data of CW Tau and DG Tau, two well-known Class II disk/jet systems, obtained with the Atacama Large Millimeter/submillimeter Array (ALMA) at 870 \u03bcm and 0.\u20332 average resolution. In CW Tau, the total and polarized emission are both smooth and symmetric, with polarization angles almost parallel to the minor axis of the projected disk. In contrast, DG Tau displays a structured polarized emission, with an elongated brighter region in the disk\u2019s near side and a belt-like feature beyond about 0.\u20333 from the source. At the same time, the total intensity is spatially smooth, wit",
-  "target_match": "cw tau",
+  "target_match": "dg tau",
   "obs_score": 2,
   "done": false
  },
@@ -4335,7 +4132,7 @@
    "astro-ph/0411177"
   ],
   "abstract": "Aims. We present mid-infrared observations and photometry of the transitional disks around the young stellar objects DH Tau, DM Tau, and GM Aur, obtained with VISIR/VLT in N band. Our aim is to resolve the inner region and the large-scale structures of these transitional disks, carrying potential signatures of intermediate or later stages of disk evolution and ongoing planet formation. Methods. We use the simultaneously observed standard-stars as PSF reference to constrain the radial flux profiles of our target objects. Subtracting the obtained standard-star profile from the corresponding scie",
-  "target_match": "dh tau",
+  "target_match": "gm aur",
   "obs_score": 2,
   "done": false
  },
@@ -5800,7 +5597,7 @@
    "astro-ph/0503691"
   ],
   "abstract": "The \u223c2 Myr old classical T Tauri star CI Tau shows periodic variability in its radial velocity (RV) variations measured at infrared (IR) and optical wavelengths. We find that these observations are consistent with a massive planet in a \u223c9 day period orbit. These results are based on 71 IR RV measurements of this system obtained over five years, and on 26 optical RV measurements obtained over nine years. CI Tau was also observed photometrically in the optical on 34 nights over \u223cone month in 2012. The optical RV data alone are inadequate to identify an orbital period, likely the result of star s",
-  "target_match": "ci tau",
+  "target_match": "t tau",
   "obs_score": 0,
   "done": false
  },
@@ -6164,7 +5961,7 @@
    "2207.05923"
   ],
   "abstract": "We model substructure in the protoplanetary disks around DoAr 44 and HD 163296 in order to better understand the conditions under which planets may form. We match archival millimeter-wavelength thermal emission against models of the disks\u2019 structure that are in radiation balance with the starlight heating and in vertical hydrostatic equilibrium, and then we compare to archival polarized scattered near-infrared images of the disks. The millimeter emission arises in the interior, while the scattered near-infrared radiation probes the disks\u2019 outer layers. Our best model of the HD 163296 disk has ",
-  "target_match": "doar 44",
+  "target_match": "hd 163296",
   "obs_score": 0,
   "done": false
  },
@@ -6206,7 +6003,7 @@
    "1912.04651"
   ],
   "abstract": "Studies of atmospheres of directly imaged extrasolar planets with high-resolution spectrographs have shown that their characterization is predominantly limited by noise on the stellar halo at the location of the studied exoplanet. An instrumental combination of high-contrast imaging and high spectral resolution that suppresses this noise and resolves the spectral lines can therefore yield higher quality spectra. We study the performance of the proposed HiRISE fiber coupling between the direct imager SPHERE and the spectrograph CRIRES+ at the Very Large Telescope for spectral characterization o",
-  "target_match": "ct cha",
+  "target_match": "t cha",
   "obs_score": 0,
   "done": false
  },
@@ -6626,7 +6423,7 @@
    "1306.1768"
   ],
   "abstract": "Context. Transitional disks represent a short stage of the evolution of circumstellar material. Studies of dust grains in these objects can provide pivotal information on the mechanisms of planet formation. Dissimilarities in the spatial distribution of small (\u03bcm\u2212size) and large (mm\u2212size) dust grains have recently been pointed out. Aims. Constraints on the small dust grains can be obtained by imaging the distribution of scattered light at near-infrared wavelengths. We aim at resolving structures in the surface layer of transitional disks (with particular emphasis on the inner 10\u221250 AU), thus i",
-  "target_match": "hd 135344b",
+  "target_match": "sao 206462",
   "obs_score": 0,
   "done": false
  },
@@ -7127,7 +6924,7 @@
    "astro-ph/0009496"
   ],
   "abstract": "The composition of planetary solids and gases is largely rooted in the processing of volatile elements in protoplanetary disks. To shed light on the key processes, we carry out a comparative analysis of the gas-phase carbon abundance in two systems with a similar age and disk mass, but different central stars: HD 100546 and TW Hya. We combine our recent detections of C$^{0}$ in these disks with observations of other carbon reservoirs (CO, C$^{+}$, C$_{2}$H) and gas mass and warm gas tracers (HD, O$^{0}$), as well as spatially resolved ALMA observations and the spectral energy distribution. The",
-  "target_match": "hd 100546",
+  "target_match": "tw hya",
   "obs_score": 0,
   "done": false
  },
@@ -8246,7 +8043,7 @@
    "2307.04021"
   ],
   "abstract": "Discovering new actively accreting protoplanets is crucial to answering open questions about planet formation. However, identifying such planets at orbital distances where they are expected to be abundant is extremely challenging, both due to the technical requirements and large distances to star-forming regions. Here we use the kernel phase interferometry (KPI) technique to search for companions around the \u223c6 and \u223c8 Myr old Herbig Ae stars MWC 758 and MWC 480. KPI is a data analysis technique that is sensitive to moderate asymmetries, arising from, e.g., a circumstellar disk or companions wit",
-  "target_match": "mwc 758",
+  "target_match": "mwc 480",
   "obs_score": 0,
   "done": false
  },
@@ -10056,7 +9853,7 @@
    "1206.2078"
   ],
   "abstract": "Resolved debris disc images can exhibit a range of radial and azimuthal structures, including gaps and rings, which can result from planetary companions shaping the disc by their gravitational influence. Currently there are no tools available to determine the architecture of potential companions from disc observations. Recent work by Rodigas et al. (2014) presents how one can estimate the maximum mass and minimum semi major axis of a hidden planet empirically from the width of the disc in scattered light. In this work, we use the predictions of Rodigas et al. applied to two debris discs HD 202",
-  "target_match": "hd 207129",
+  "target_match": "hd 202628",
   "obs_score": 0,
   "done": false
  },
@@ -10073,7 +9870,7 @@
    "1504.03927"
   ],
   "abstract": "The disk surrounding SAO 206462, an 8 Myr old Herbig Ae star, has recently been reported to exhibit spiral arms, an asymmetric dust continuum, and a dust-depleted inner cavity. By carrying out two-dimensional, two-fluid hydrodynamic calculations, we find that a planetary-mass companion located at the outer disk could be responsible for these observed structures. In this model, the planet excites primary and secondary arms interior to its orbit. It also carves a gap and generates a local pressure bump at the inner gap edge where a vortex forms through Rossby wave instability. The vortex traps r",
-  "target_match": "hd 135344b",
+  "target_match": "sao 206462",
   "obs_score": 0,
   "done": false
  },
@@ -10447,7 +10244,7 @@
    "astro-ph/0506574"
   ],
   "abstract": "LP 876-10 is a nearby active M4 dwarf in Aquarius at a distance of 7.6 pc. The star is a new addition to the 10 pc census, with a parallax measured via the REsearch Consortium On Nearby Stars (RECONS) astrometric survey on the Small and Moderate Aperture Research Telescope System's 0.9 m telescope. We demonstrate that the astrometry, radial velocity, and photometric data for LP 876-10 are consistent with the star being a third bound stellar component to the Fomalhaut multiple system, despite the star lying nearly 6\u00b0 away from Fomalhaut A in the sky. The three-dimensional separation of LP 876-1",
-  "target_match": "fomalhaut c",
+  "target_match": "fomalhaut",
   "obs_score": 0,
   "done": false
  },
@@ -10515,7 +10312,7 @@
    "1305.6062"
   ],
   "abstract": "Constraining the gas and dust disk structure of transition disks, particularly in the inner dust cavity, is a crucial step towards understanding the link between them and planet formation. HD 135344B is an accreting (pre-) transition disk that displays emission of warm CO inside its dust cavity. We employ the dust radiative transfer code MCFOST and the thermo-chemical code ProDiMo to derive the disk structure from the simultaneous modeling of the spectral energy distribution (SED), VLT/CRIRES CO P(10) 4.75 micron, Herschel/PACS [OI] 63 micron, Spitzer-IRS, and JCMT 12CO J=3-2 spectra, VLTI/PIO",
-  "target_match": "hd 135344b",
+  "target_match": "sao 206462",
   "obs_score": 0,
   "done": false
  },
@@ -10664,7 +10461,7 @@
    "2203.16236"
   ],
   "abstract": "We present a comprehensive analysis of the HL Tau dust disk by modeling its intensity profiles across six wavelengths (0.45\u20137.9 mm) with a resolution of 0 .\u2033 05 (\u223c7 au). Using a Markov Chain Monte Carlo (MCMC) approach, we constrain key dust properties, including temperature, surface density, maximum grain size, composition, filling factor, and size distribution. The full fitting, with all parameters free, shows a preference for organics-rich dust with a low filling factor in the outer region (r \u2273 40 au), where the spectral index is \u223c3.7, but amorphous-carbon-rich dust also reasonably reproduc",
-  "target_match": "hl tau",
+  "target_match": "t cha",
   "obs_score": 0,
   "done": false
  },
@@ -10856,7 +10653,7 @@
    "2108.07123"
   ],
   "abstract": "The Atacama Large Millimeter Array observations of the disk around HD 163296 have resolved a crescent-shape substructure at around 55 au, inside and off-center from a gap in the dust that extends from 38 to 62 au. In this work we propose that both the crescent and the dust rings are caused by a compact pair (period ratio \u22434:3) of sub-Saturn-mass planets inside the gap, with the crescent corresponding to dust trapped at the L 5 Lagrange point of the outer planet. This interpretation also reproduces well the gap in the gas recently measured from the CO observations, which is shallower than what ",
-  "target_match": "hd 163296",
+  "target_match": "t cha",
   "obs_score": 0,
   "done": false
  },
@@ -11160,7 +10957,7 @@
    "1812.04040"
   ],
   "abstract": "Magnetic fields are expected to play an important role in accretion processes for circumstellar disks. However, measuring the magnetic field morphology is difficult, especially when given that polarimetric (sub)millimeter continuum observations may not trace the fields in most disks. The Goldreich\u2013Kylafis effect suggests that line polarization is perpendicular or parallel to the magnetic field direction. We attempt to observe CO(2\u22121), 13CO(2\u22121), and C18O(2\u22121) line polarization toward HD 142527 and IM Lup, which are large and bright protoplanetary disks. We use spatial averaging and spectral in",
-  "target_match": "im lup",
+  "target_match": "hd 142527",
   "obs_score": 0,
   "done": false
  },
@@ -12472,7 +12269,7 @@
    "1007.3993"
   ],
   "abstract": "We explore the possibility that GSC 07396\u201300759 (spectral type M1e) is a widely separated (\u223c2.\u203282, or projected separation \u223c12,350 AU) companion to the \u201cold\u201d (age \u223c12 Myr) classical T Tauri binary system V4046 Sgr AB, as suggested by the proximity and similar space motions of the two systems. If the two systems are equidistant and coeval, then GSC 07396\u201300759, like V4046 Sgr AB, must be a spectroscopic binary with nearly equal-mass components, and V4046 Sgr must be at least \u223c8 Myr old. Analysis of a serendipitous Chandra X-ray grating spectrum and light curve as well as XMM-Newton light curves",
-  "target_match": "t tau",
+  "target_match": "v4046 sgr",
   "obs_score": 0,
   "done": false
  },
@@ -13885,7 +13682,7 @@
    "1603.09352"
   ],
   "abstract": "Recent observations of HL Tau revealed remarkably detailed structure within the system\u2019s circumstellar disk. A range of hypotheses have been proposed to explain the morphology, including, e.g., planet\u2013disk interactions, condensation fronts, and secular gravitational instabilities. While embedded planets seem to be able to explain some of the major structure in the disk through interactions with gas and dust, the substructures, such as low-contrast rings and bands, are not so easily reproduced. Here, we show that dynamical interactions between three planets (only two of which are modeled) and a",
-  "target_match": "hl tau",
+  "target_match": "tw hya",
   "obs_score": 0,
   "done": false
  },
@@ -13975,7 +13772,7 @@
    "1103.0284"
   ],
   "abstract": "The theory of binary star formation predicts that close binaries (a < 100 au) will experience periodic pulsed accretion events as streams of material form at the inner edge of a circumbinary disk (CBD), cross a dynamically cleared gap, and feed circumstellar disks or accrete directly onto the stars. The archetype for the pulsed accretion theory is the eccentric, short-period, classical T Tauri binary DQ Tau. Low-cadence (\u223cdaily) broadband photometry has shown brightening events near most periastron passages, just as numerical simulations would predict for an eccentric binary. Magnetic reconnec",
-  "target_match": "dq tau",
+  "target_match": "t tau",
   "obs_score": 0,
   "done": false
  },
@@ -14215,7 +14012,7 @@
    "0809.2812"
   ],
   "abstract": "We used the Magellan adaptive optics system and its VisAO CCD camera to image the young low mass brown dwarf companion CT Chamaeleontis B for the first time at visible wavelengths. We detect it at r\u2032, i\u2032, z\u2032, and YS. With our new photometry and Teff\u2009 \u223c \u20092500\u2009K derived from the shape of its K-band spectrum, we find that CT Cha B has AV = 3.4\u2009 \u00b1 \u20091.1\u2009mag, and a mass of 14\u201324\u2009MJ according to the DUSTY evolutionary tracks and its 1\u20135\u2009Myr age. The overluminosity of our r\u2032 detection indicates that the companion has significant H\u03b1 emission and a mass accretion rate \u223c6 \u00d7 10\u221210\u2009M\u2609\u2009yr\u22121, similar to some",
-  "target_match": "ct cha",
+  "target_match": "t cha",
   "obs_score": 0,
   "done": false
  },
@@ -14515,7 +14312,7 @@
    "astro-ph/0503691"
   ],
   "abstract": "We present high spectral resolution (R \u2248 108, 000) Stokes V polarimetry of the classical T Tauri stars (CTTSs) GQ Lup and TW Hya obtained with the polarimetric upgrade to the HARPS spectrometer on the ESO 3.6 m telescope. We present data on both photospheric lines and emission lines, concentrating our discussion on the polarization properties of the He\u2009i emission lines at 5876 \u00c5 and 6678 \u00c5. The He\u2009i lines in these CTTSs contain both narrow emission cores, believed to come from near the accretion shock region on these stars, and broad emission components which may come from either a wind or the",
-  "target_match": "t tau",
+  "target_match": "gq lup",
   "obs_score": 0,
   "done": false
  },
@@ -14605,7 +14402,7 @@
    "astro-ph/0503691"
   ],
   "abstract": "We report here results of spectropolarimetric observations of the classical T Tauri star (cTTS) GQ Lup carried out with ESPaDOnS at the Canada\u2013France\u2013Hawaii Telescope (CFHT) in the framework of the \u2018Magnetic Protostars and Planets\u2019 (MaPP) programme, and obtained at two different epochs (2009 July and 2011 June). From these observations, we first infer that GQ Lup has a photospheric temperature of 4300 \u00b1 50\u2009K and a rotation period of 8.4 \u00b1 0.3\u2009d; it implies that it is a 1.05 \u00b1 0.07\u2009M_\u2299 star viewed at an inclination of \u224330\u00b0, with an age of 2\u20135\u2009Myr and a radius of 1.7 \u00b1 0.2\u2009R_\u2299, and has just star",
-  "target_match": "t tau",
+  "target_match": "gq lup",
   "obs_score": 0,
   "done": false
  },
@@ -15628,7 +15425,7 @@
    "1902.04612"
   ],
   "abstract": "We fit an isothermal oscillatory density model to the disk of HD 163296 in which planets have presumably already formed and they are orbiting at least within the four observed dark gaps. This 156 AU large axisymmetric disk shows various physical properties comparable to those of AS 209, HL Tau, and TW Hya that we have modeled previously; but it compares best to AS 209. The disks of HD 163296 and AS 209 are comparable in size and they share similar values of the power-law index $k\\approx 0$ (a radial density profile of the form $\\rho(R)\\propto R^{-1}$), the rotational parameter $\\beta_0$ (to wi",
-  "target_match": "hd 163296",
+  "target_match": "tw hya",
   "obs_score": -2,
   "done": false
  },
@@ -80341,7 +80138,7 @@
    "1704.01972"
   ],
   "abstract": "Previous observations revealed the existence of CO gas at nearly protoplanetary level in several dust-rich debris disks around young A-type stars. Here we used the Atacama Large Millimeter/submillimeter Array (ALMA) 7 m Array to measure 13CO and C18O emission toward two debris disks, 49 Cet and HD 32297, and detected similarly high CO content (>0.01 M\u2295). These high CO masses imply a highly efficient shielding of CO molecules against stellar and interstellar ultraviolet photons. Adapting a recent secondary gas disk model that considers both shielding by carbon atoms and self-shielding of CO, we",
-  "target_match": "49 cet",
+  "target_match": "hd 32297",
   "obs_score": 2,
   "done": true
  },
@@ -81146,7 +80943,7 @@
    "astro-ph/9909097"
   ],
   "abstract": "Context. The effects of a planet sculpting the disk from which it formed are most likely to be found in disks that are in transition between being classical protoplanetary and debris disks. Recent direct imaging of transition disks has revealed structures such as dust rings, gaps, and spiral arms, but an unambiguous link between these structures and sculpting planets is yet to be found. Aims. We aim to find signs of ongoing planet-disk interaction and study the distribution of small grains at the surface of the transition disk around RXJ1615.3-3255 (RX J1615). Methods. We observed RXJ1615 with",
-  "target_match": "rx j1615.3-3255",
+  "target_match": "j1615",
   "obs_score": 2,
   "done": true
  },
@@ -81519,7 +81316,7 @@
    "1702.02844"
   ],
   "abstract": "Context. Transition disks are considered sites of ongoing planet formation, and their dust and gas distributions could be signposts of embedded planets. The transition disk around the T Tauri star RY Lup has an inner dust cavity and displays a strong silicate emission feature.\nAims. Using high-resolution imaging we study the disk geometry, including non-axisymmetric features, and its surface dust grain, to gain a better understanding of the disk evolutionary process. Moreover, we search for companion candidates, possibly connected to the disk.\nMethods. We obtained high-contrast and high angula",
-  "target_match": "ry lup",
+  "target_match": "t tau",
   "obs_score": 2,
   "done": true
  },
@@ -82111,6 +81908,27 @@
   "done": true
  },
  {
+  "arxiv": "2001.08304",
+  "s2": "6d57166c596588d38678501251ffcf2206154846",
+  "title": "Cloud Atlas: High-precision HST/WFC3/IR Time-resolved Observations of Directly Imaged Exoplanet HD 106906b",
+  "year": 2020,
+  "venue": "Astronomical Journal",
+  "n_seed_citations": 7,
+  "seeds_cited": [
+   "0811.2606",
+   "1011.4918",
+   "1312.1265",
+   "1508.03084",
+   "1510.02747",
+   "1704.02987",
+   "astro-ph/0409323"
+  ],
+  "abstract": "HD 106906b is an , \u223c15 Myr old directly imaged exoplanet orbiting at an extremely large distance from its host star. The wide separation (7.\u203311) between HD 106906b and its host star greatly reduces the difficulty in direct-imaging observations, making it one of the most favorable directly imaged exoplanets for detailed characterization. In this paper, we present HST/WFC3/IR time-resolved observations of HD 106906b in the F127M, F139M, and F153M bands. We have achieved \u223c1% precision in the lightcurves in all three bands. The F127M lightcurve demonstrates marginally detectable (2.7\u03c3 significance",
+  "target_match": "hd 106906",
+  "obs_score": 2,
+  "done": true
+ },
+ {
   "arxiv": "2006.06818",
   "s2": "a8fe5f627a0385d5b1df5d36c027f3fb99afd7fa",
   "title": "Multiband Polarimetric Imaging of HR 4796A with the Gemini Planet Imager",
@@ -82128,6 +81946,27 @@
   ],
   "abstract": "HR4796A hosts a well-studied debris disk with a long history due to its high fractional luminosity and favorable inclination, which facilitate both unresolved and resolved observations. We present new J- and K1-band images of the resolved debris disk HR4796A taken in the polarimetric mode of the Gemini Planet Imager (GPI). The polarized intensity features a strongly forward-scattered brightness distribution and is undetected at the far side of the disk. The total intensity is detected at all scattering angles and also exhibits a strong forward-scattering peak. We use a forward-modeled geometri",
   "target_match": "hr 4796a",
+  "obs_score": 2,
+  "done": true
+ },
+ {
+  "arxiv": "1907.07277",
+  "s2": "9031fa1c11aab2cd864b91d2e6d3489843b8a5a9",
+  "title": "Characterization of Ring Substructures in the Protoplanetary Disk of HD 169142 from Multiwavelength Atacama Large Millimeter/submillimeter Array Observations",
+  "year": 2019,
+  "venue": "Astrophysical Journal",
+  "n_seed_citations": 7,
+  "seeds_cited": [
+   "1603.09352",
+   "1610.05139",
+   "1702.02844",
+   "1803.10882",
+   "1810.06044",
+   "1812.04040",
+   "1901.06555"
+  ],
+  "abstract": "We present a detailed multiwavelength characterization of the multi-ring disk of HD 169142. We report new Atacama Large Millimeter/submillimeter Array (ALMA) observations at 3 mm and analyze them together with archival 0.89 and 1.3 mm data. Our observations resolve three out of the four rings in the disk previously seen in high-resolution ALMA data. A simple parametric model is used to estimate the radial profile of the dust optical depth, temperature, density, and particle size distribution. We find that the multiple ring features of the disk are produced by annular accumulations of large par",
+  "target_match": "hd 169142",
   "obs_score": 2,
   "done": true
  },
@@ -82253,7 +82092,7 @@
    "astro-ph/0601488"
   ],
   "abstract": "Context. The formation of planetary systems is a common, yet complex mechanism. Numerous stars have been identified to possess a debris disk, a proto-planetary disk or a planetary system. The understanding of such formation process requires the study of debris disks. These targets are substantial and particularly suitable for optical and infrared observations. Sparse Aperture masking (SAM) is a high angular resolution technique strongly contributing to probe the region from 30 to 200 mas around the stars. This area is usually unreachable with classical imaging, and the technique also remains h",
-  "target_match": "49 cet",
+  "target_match": "au mic",
   "obs_score": 2,
   "done": true
  },
@@ -82405,6 +82244,27 @@
   "done": true
  },
  {
+  "arxiv": "1102.5330",
+  "s2": "efa43ed37b92b02b3a5e990b086732dc442efc5c",
+  "title": "VLT/NACO astrometry of the HR 8799 planetary system - L\u2032-band observations of the three outer planets",
+  "year": 2011,
+  "venue": "",
+  "n_seed_citations": 7,
+  "seeds_cited": [
+   "0809.1424",
+   "0811.1994",
+   "0811.2606",
+   "0902.3247",
+   "1006.3070",
+   "1006.3314",
+   "1011.4918"
+  ],
+  "abstract": "Context. HR 8799 is so far the only directly imaged multiple exoplanet system. The orbital configuration would, if better known, provide valuable insight into the formation and dynamical evolution of wide-orbit planetary systems. Aims. We present data which add to the astrometric monitoring of the planets HR 8799 b, c and d. We investigate how well the two simple cases of (i) a circular orbit and (ii) a face-on orbit fit the astrometric data for HR 8799 d over a total time baseline of \u223c2 years. Methods. The HR 8799 planetary system was observed in L \ufffd -band with NACO at VLT. Results. The resul",
+  "target_match": "hr 8799",
+  "obs_score": 2,
+  "done": true
+ },
+ {
   "arxiv": "1101.4666",
   "s2": "c85123fdf2d233345b002981df3692835303443e",
   "title": "DISCOVERY OF AN \u223c23 MJup BROWN DWARF ORBITING \u223c700 AU FROM THE MASSIVE STAR HIP 78530 IN UPPER SCORPIUS",
@@ -82468,6 +82328,26 @@
   "done": true
  },
  {
+  "arxiv": "2603.18338",
+  "s2": "f05e77c31361afd81896f9e15c1c2c4f0ec4f205",
+  "title": "Photometric and Astrometric Information for Sources around HD 163296 Revealed by JWST/NIRCam Coronagraphy",
+  "year": 2026,
+  "venue": "Research Notes of the AAS",
+  "n_seed_citations": 6,
+  "seeds_cited": [
+   "1806.11568",
+   "1906.01486",
+   "2208.14990",
+   "2408.04048",
+   "2503.20132",
+   "2508.19053"
+  ],
+  "abstract": "Background stars observed through a circumstellar disk provide valuable benchmarks for investigating the disk\u2019s extinction properties. The HD 163296 system is an excellent case study due to its large disk, the clearly visible extinction effects in JWST/NIRCam data, and the presence of numerous background sources within or around its disk. We present the measured contrasts and astrometry of sources surrounding HD 163296 from Cycle 1 JWST/NIRCam coronagraphic observations, which will serve as a useful reference for future studies of the disk\u2019s extinction characteristics.",
+  "target_match": "hd 163296",
+  "obs_score": 2,
+  "done": true
+ },
+ {
   "arxiv": "2511.10882",
   "s2": "2e2dd7b79456fdac633c2ee941458eaf3093931f",
   "title": "Unveiling the Chemical Complexity and C/O Ratio of the HD 163296 Protoplanetary Disk: Constraints from Multiline ALMA Observations of Organics, Nitriles, and Sulfur-bearing and Deuterated Molecules",
@@ -82484,6 +82364,86 @@
   ],
   "abstract": "The physical and chemical conditions within a protoplanetary disk play a crucial role in determining its chemical composition, which is subsequently inherited by any forming planets. To probe these conditions, high-resolution molecular line observations, coupled with modeling, are essential. In this study, we investigate the chemistry of the nearby, massive, and relatively line-rich protoplanetary disk around HD 163296 using high-resolution observations from the Atacama Large Millimeter/submillimeter Array (ALMA) across Bands 3, 4, 6, and 7. We constrain the disk-averaged and radial distributi",
   "target_match": "hd 163296",
+  "obs_score": 2,
+  "done": true
+ },
+ {
+  "arxiv": "2407.15986",
+  "s2": "f8c7f85c31da743f04d5517e190eff03a2ac982e",
+  "title": "Gemini Planet Imager Observations of a Resolved Low-inclination Debris Disk around HD 156623",
+  "year": 2024,
+  "venue": "Astronomical Journal",
+  "n_seed_citations": 6,
+  "seeds_cited": [
+   "1006.3314",
+   "1711.03322",
+   "1811.08439",
+   "1911.04793",
+   "2004.13722",
+   "2311.14599"
+  ],
+  "abstract": "The 16 Myr old A0V star HD 156623 in the Scorpius\u2013Centaurus association hosts a high-fractional-luminosity debris disk, recently resolved in scattered light for the first time by the Gemini Planet Imager (GPI) in polarized intensity only. We present a new analysis of the GPI H-band polarimetric detection of the HD 156623 debris disk, with particular interest in its unique morphology. This debris disk lacks a visible inner clearing, unlike the majority of low-inclination disks in the GPI sample and in Sco-Cen, and it is known to contain CO gas, positioning it as a candidate \u201chybrid\u201d or \u201cshielde",
+  "target_match": "hd 156623",
+  "obs_score": 2,
+  "done": true
+ },
+ {
+  "arxiv": "2405.21038",
+  "s2": "8bc16123c83fc0fc17f8f5327739e6512927a6ae",
+  "title": "A Multiwavelength, Multiepoch Monitoring Campaign of Accretion Variability in T Tauri Stars from the ODYSSEUS Survey. I. HST Far-UV and Near-UV Spectra",
+  "year": 2024,
+  "venue": "Astrophysical Journal",
+  "n_seed_citations": 6,
+  "seeds_cited": [
+   "1806.11568",
+   "1812.04040",
+   "1906.01486",
+   "1906.10809",
+   "2001.11040",
+   "2305.03611"
+  ],
+  "abstract": "The classical T Tauri star (CTTS) stage is a critical phase of the star and planet formation process. In an effort to better understand the mass accretion processes, which can dictate future stellar evolution and planet formation, a multiepoch, multiwavelength photometric and spectroscopic monitoring campaign of four CTTSs (TW Hya, RU Lup, BP Tau, and GM Aur) was carried out in 2021 and 2022/2023 as part of the Outflows and Disks around Young Stars: Synergies for the Exploration of ULLYSES Spectra program. Here we focus on the Hubble Space Telescope (HST) UV spectra obtained by the HST Directo",
+  "target_match": "t tau",
+  "obs_score": 2,
+  "done": true
+ },
+ {
+  "arxiv": "2306.15069",
+  "s2": "de19e0c8d60561391bfcabaa163f10f37dd7c421",
+  "title": "Systematic Multiepoch Monitoring of LkCa 15: Dynamic Dust Structures on Solar System Scales",
+  "year": 2023,
+  "venue": "Astrophysical Journal",
+  "n_seed_citations": 6,
+  "seeds_cited": [
+   "1402.1766",
+   "1412.6989",
+   "1806.11568",
+   "1812.04040",
+   "1906.01486",
+   "2011.07082"
+  ],
+  "abstract": "We present the highest-angular-resolution infrared monitoring of LkCa 15, a young solar analog hosting a transition disk. This system has been the subject of a number of direct-imaging studies from the millimeter through the optical, which have revealed multiple protoplanetary disk rings as well as three orbiting protoplanet candidates detected in infrared continuum emission (one of which was simultaneously seen at H\u03b1). We use high-angular-resolution infrared imaging from 2014 to 2020 to systematically monitor these infrared signals and determine their physical origin. We find that three self-",
+  "target_match": "lkca 15",
+  "obs_score": 2,
+  "done": true
+ },
+ {
+  "arxiv": "2310.00148",
+  "s2": "5f73192a916741e302cacddf8037537bae9e782e",
+  "title": "First VLTI/GRAVITY Observations of HIP 65426 b: Evidence for a Low or Moderate Orbital Eccentricity",
+  "year": 2023,
+  "venue": "Astronomical Journal",
+  "n_seed_citations": 6,
+  "seeds_cited": [
+   "1707.01413",
+   "1912.04651",
+   "2004.09597",
+   "2109.10671",
+   "2208.04867",
+   "2208.14990"
+  ],
+  "abstract": "Giant exoplanets have been directly imaged over orders of magnitude of orbital separations, prompting theoretical and observational investigations of their formation pathways. In this paper, we present new VLTI/GRAVITY astrometric data of HIP 65426 b, a cold, giant exoplanet which is a particular challenge for most formation theories at a projected separation of 92 au from its primary. Leveraging GRAVITY\u2019s astrometric precision, we present an updated eccentricity posterior that disfavors large eccentricities. The eccentricity posterior is still prior dependent, and we extensively interpret and",
+  "target_match": "hip 65426",
   "obs_score": 2,
   "done": true
  },
@@ -82524,6 +82484,46 @@
   ],
   "abstract": "Benchmark brown dwarf companions with well-determined ages and model-independent masses are powerful tools to test substellar evolutionary models and probe the formation of giant planets and brown dwarfs. Here, we report the independent discovery of HIP 21152 B, the first imaged brown dwarf companion in the Hyades, and conduct a comprehensive orbital and atmospheric characterization of the system. HIP 21152 was targeted in an ongoing high-contrast imaging campaign of stars exhibiting proper-motion changes between Hipparcos and Gaia, and was also recently identified by Bonavita et al. (2022) an",
   "target_match": "hip 21152",
+  "obs_score": 2,
+  "done": true
+ },
+ {
+  "arxiv": "2104.13032",
+  "s2": "e7c9bb6a0a11bb338217c15278a9a1a1ca0a3879",
+  "title": "High-contrast imaging at ten microns: A search for exoplanets around Eps Indi A, Eps Eri, Tau Ceti, Sirius A, and Sirius B",
+  "year": 2021,
+  "venue": "Astronomy & Astrophysics",
+  "n_seed_citations": 6,
+  "seeds_cited": [
+   "0811.2606",
+   "1508.03084",
+   "1707.01413",
+   "1806.11568",
+   "2010.04442",
+   "2102.05159"
+  ],
+  "abstract": "Context. The direct imaging of rocky exoplanets is one of the major science goals of upcoming large telescopes. The contrast requirement for imaging such planets is challenging. However, the mid-IR (infrared) regime provides the optimum contrast to directly detect the thermal signatures of exoplanets in our solar neighbourhood.\nAims. We aim to exploit novel fast-chopping techniques newly developed for astronomy with the aid of adaptive optics to look for thermal signatures of exoplanets around bright stars in the solar neighbourhood.\nMethods. We used the upgraded Very Large Telescope Imager an",
+  "target_match": "eps eri",
+  "obs_score": 2,
+  "done": true
+ },
+ {
+  "arxiv": "2102.05905",
+  "s2": "ec232b40026242169c4b4af027aaea99d3eb023c",
+  "title": "ALMA Observations of the Asymmetric Dust Disk around DM Tau",
+  "year": 2021,
+  "venue": "Astrophysical Journal",
+  "n_seed_citations": 6,
+  "seeds_cited": [
+   "1103.0284",
+   "1608.03629",
+   "1710.05028",
+   "1805.12141",
+   "1810.06044",
+   "1812.04040"
+  ],
+  "abstract": "We report an analysis of the dust disk around DM Tau, newly observed with the Atacama Large Millimeter/submillimeter Array (ALMA) at 1.3 mm. The ALMA observations with high sensitivity (8.4 \u03bcJy beam\u20131) and high angular resolution (35 mas, 5.1 au) detect two asymmetries on the ring at r \u223c 20 au. They could be two vortices in early evolution, the destruction of a large-scale vortex, or double continuum emission peaks with different dust sizes. We also found millimeter emissions with \u223c50 \u03bcJy (a lower-limit dust mass of 0.3 M Moon) inside the 3 au ring. To characterize these emissions, we modeled ",
+  "target_match": "dm tau",
   "obs_score": 2,
   "done": true
  },
@@ -82679,7 +82679,7 @@
    "1910.07605"
   ],
   "abstract": "We report the serendipitous detection of the SO JN = 65\u201354 (219.949 GHz) rotational transition in archival Atacama Large Millimeter/submillimeter Array observations of the spiral hosting protoplanetary disks around CQ Tau (with \u22484.9\u03c3 significance) and MWC 758 (with \u22483.4\u03c3 significance). In the former, the SO emission comes in the shape of a ring, arises from the edge of the continuum cavity, and is qualitatively consistent, at the currently available spectral resolution, with being in Keplerian rotation. In the latter, instead, while arising primarily from inside the continuum cavity, the SO em",
-  "target_match": "mwc 758",
+  "target_match": "cq tau",
   "obs_score": 0,
   "done": true
  },
@@ -82835,7 +82835,7 @@
    "1803.10882"
   ],
   "abstract": "We present an analysis of Atacama Large Millimeter/submillimeter Array 1.25 mm continuum observations of spiral structures in three protoplanetary disks from the Disk Substructures at High Angular Resolution Project. The disks around Elias 27, IM Lup, and WaOph 6 were observed at a resolution of \u223c40\u201360 mas (\u223c6\u20137 au). All three disks feature m = 2 spiral patterns in conjunction with annular substructures. Gas kinematics established by 12CO J = 2\u22121 observations indicate that the continuum spiral arms are trailing. The arm\u2013interarm intensity contrasts are modest, typically less than 3. The Elias ",
-  "target_match": "im lup",
+  "target_match": "elias 27",
   "obs_score": 0,
   "done": true
  },
@@ -83199,7 +83199,7 @@
    "astro-ph/0602292"
   ],
   "abstract": "HD 95086 is a young early-type star that hosts (1) a 5\u2009MJ planet at the projected distance of 56\u2009AU revealed by direct imaging, and (2) a prominent debris disk. Here we report the detection of 69 \u03bcm crystalline olivine feature from the disk using the Spitzer/MIPS-SED data covering 55\u201395 \u03bcm. Due to the low resolution of the MIPS-SED mode, this feature is not spectrally resolved, but is consistent with the emission from crystalline forsterite contributing \u223c5% of the total dust mass. We also present detailed analysis of the disk spectral energy distribution and re-analysis of resolved images obta",
-  "target_match": "hd 95086",
+  "target_match": "hr 8799",
   "obs_score": 0,
   "done": true
  },

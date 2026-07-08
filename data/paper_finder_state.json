@@ -1825,5 +1825,55 @@
   "status": "excluded",
   "reason": "beta Pic MIRI MRS spectroscopy already present",
   "date": "2026-07-07"
+ },
+ "2102.05905": {
+  "status": "ingested",
+  "reason": "PF9 2026-07-08",
+  "date": "2026-07-08"
+ },
+ "1907.07277": {
+  "status": "ingested",
+  "reason": "PF9 2026-07-08",
+  "date": "2026-07-08"
+ },
+ "2001.08304": {
+  "status": "ingested",
+  "reason": "PF9 2026-07-08",
+  "date": "2026-07-08"
+ },
+ "1102.5330": {
+  "status": "ingested",
+  "reason": "PF9 2026-07-08",
+  "date": "2026-07-08"
+ },
+ "2306.15069": {
+  "status": "ingested",
+  "reason": "PF9 2026-07-08",
+  "date": "2026-07-08"
+ },
+ "2310.00148": {
+  "status": "excluded",
+  "reason": "HIP 65426 GRAVITY periodogram, no resolved image",
+  "date": "2026-07-08"
+ },
+ "2407.15986": {
+  "status": "excluded",
+  "reason": "HD 156623 GPI reuses Esposito 2020 / no new detection",
+  "date": "2026-07-08"
+ },
+ "2405.21038": {
+  "status": "excluded",
+  "reason": "ODYSSEUS - T Tau not in sample, spectroscopy",
+  "date": "2026-07-08"
+ },
+ "2104.13032": {
+  "status": "excluded",
+  "reason": "eps Eri 10um non-detection",
+  "date": "2026-07-08"
+ },
+ "2603.18338": {
+  "status": "excluded",
+  "reason": "HD 163296 JWST catalog reuses existing NIRCam",
+  "date": "2026-07-08"
  }
 }

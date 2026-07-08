@@ -224,10 +224,30 @@
     "bibcode": null
    },
    "file": "images/hd-106906/hd-106906_visao2016.png"
+  },
+  {
+   "image_id": "hd-106906_zhou2020-wfc3",
+   "type": "planet",
+   "facility": "HST",
+   "instrument": "WFC3/IR",
+   "wavelength_um": 1.53,
+   "wavelength_label": "F153M 1.53 um (RGB composite w/ F139M, F127M)",
+   "technique": "time-resolved direct imaging",
+   "survey": null,
+   "credit": "Zhou et al. 2020, Fig. 1 (right) (crop)",
+   "paper": {
+    "first_author": "Zhou",
+    "year": 2020,
+    "title": "Cloud Atlas: High-precision HST/WFC3/IR Time-Resolved Observations of Directly-Imaged Exoplanet HD106906b",
+    "journal": "AJ 160, 77",
+    "arxiv": "2001.08304",
+    "bibcode": "2020AJ....160...77Z"
+   },
+   "file": "images/hd-106906/hd-106906_zhou2020-wfc3.png"
   }
  ],
  "notes": null,
- "last_updated": "2026-07-07",
+ "last_updated": "2026-07-08",
  "plx_mas": 9.7673,
  "mags": {
   "B": 8.95,

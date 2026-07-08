@@ -416,10 +416,30 @@
     "bibcode": null
    },
    "file": "images/hr-8799/hr-8799_p1640-2015.png"
+  },
+  {
+   "image_id": "hr-8799_bergfors2011-naco",
+   "type": "planet",
+   "facility": "VLT-NACO",
+   "instrument": "NACO",
+   "wavelength_um": 3.8,
+   "wavelength_label": "L' band (3.8 um)",
+   "technique": "AO imaging",
+   "survey": null,
+   "credit": "Bergfors et al. 2011, Fig. 1 (left) (crop)",
+   "paper": {
+    "first_author": "Bergfors",
+    "year": 2011,
+    "title": "VLT/NACO astrometry of the HR 8799 planetary system. L'-band observations of the three outer planets",
+    "journal": "A&A 528, L8",
+    "arxiv": "1102.5330",
+    "bibcode": "2011A&A...528L...9B"
+   },
+   "file": "images/hr-8799/hr-8799_bergfors2011-naco.png"
   }
  ],
  "notes": null,
- "last_updated": "2026-07-07",
+ "last_updated": "2026-07-08",
  "plx_mas": 24.462,
  "mags": {
   "B": 6.21,
