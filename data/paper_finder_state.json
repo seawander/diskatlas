@@ -1232,9 +1232,9 @@
   "date": "2026-07-07"
  },
  "2506.10746": {
-  "status": "excluded",
-  "reason": "AGE-PRO X: AGE-PRO images ingested via paper I (2506.10719)",
-  "date": "2026-07-07"
+  "status": "ingested",
+  "reason": "AGE-PRO survey completeness pass 2026-07-08",
+  "date": "2026-07-08"
  },
  "2504.18688": {
   "status": "ingested",
@@ -2059,6 +2059,26 @@
  "2408.04048": {
   "status": "ingested",
   "reason": "Wallack NIRC2 complete: all 8 resolved Fig.4 panels in atlas",
+  "date": "2026-07-08"
+ },
+ "2506.10719": {
+  "status": "ingested",
+  "reason": "AGE-PRO survey completeness pass 2026-07-08",
+  "date": "2026-07-08"
+ },
+ "2506.10731": {
+  "status": "ingested",
+  "reason": "AGE-PRO survey completeness pass 2026-07-08",
+  "date": "2026-07-08"
+ },
+ "2506.10734": {
+  "status": "ingested",
+  "reason": "AGE-PRO survey completeness pass 2026-07-08",
+  "date": "2026-07-08"
+ },
+ "2506.10735": {
+  "status": "ingested",
+  "reason": "AGE-PRO survey completeness pass 2026-07-08",
   "date": "2026-07-08"
  }
 }
