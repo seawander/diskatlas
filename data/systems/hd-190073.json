@@ -1,0 +1,43 @@
+{
+ "id": "hd-190073",
+ "name": "HD 190073",
+ "alt_names": [
+  "V1295 Aql"
+ ],
+ "simbad": "HD 190073",
+ "ra_deg": 300.7604576976099,
+ "dec_deg": 5.73796130914,
+ "dist_pc": 900.0,
+ "sptype": null,
+ "region": null,
+ "categories": [
+  "protoplanetary"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "image_id": "hd-190073_chara-vlti-ibrahim2023",
+   "type": "disk_scattered",
+   "facility": "CHARA+VLTI",
+   "instrument": "MIRC-X/MYSTIC",
+   "wavelength_um": 1.65,
+   "wavelength_label": "H-band, model-free interferometric image reconstruction (Epoch A)",
+   "technique": "interferometry",
+   "survey": null,
+   "credit": "Ibrahim et al. 2023, Fig. 9 (crop: Epoch A)",
+   "paper": {
+    "first_author": "Ibrahim",
+    "year": 2023,
+    "title": "Imaging the Inner Astronomical Unit of Herbig Be Star HD 190073",
+    "journal": "ApJ 947, 68",
+    "arxiv": "2302.06500",
+    "bibcode": "2023ApJ...947...68I"
+   },
+   "file": "images/hd-190073/hd-190073_chara-vlti-ibrahim2023.png"
+  }
+ ],
+ "notes": "AUTO-CREATED from staging - fill metadata & coords Added 2026-07-08 (archival/keyword exploration).",
+ "last_updated": "2026-07-08",
+ "plx_mas": null,
+ "mags": null
+}

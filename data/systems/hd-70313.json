@@ -1,0 +1,43 @@
+{
+ "id": "hd-70313",
+ "name": "HD 70313",
+ "alt_names": [
+  "HIP 41152"
+ ],
+ "simbad": "HD 70313",
+ "ra_deg": 125.95208880739,
+ "dec_deg": 53.21971259114,
+ "dist_pc": 51.4,
+ "sptype": null,
+ "region": null,
+ "categories": [
+  "debris"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "image_id": "hd-70313_herschel-pacs",
+   "type": "disk_mm",
+   "facility": "Herschel",
+   "instrument": "PACS",
+   "wavelength_um": 100,
+   "wavelength_label": "100 um (original data)",
+   "technique": "other",
+   "survey": null,
+   "credit": "Morales et al. 2013, Fig. 1 (crop: HD 70313)",
+   "paper": {
+    "first_author": "Morales",
+    "year": 2013,
+    "title": "Herschel-resolved Outer Belts of Two-belt Debris Disks around A-type Stars: HD 70313, HD 71722, HD 159492, and F-type: HD 104860",
+    "journal": "ApJ 776, 111",
+    "arxiv": null,
+    "bibcode": "2013ApJ...776..111M"
+   },
+   "file": "images/hd-70313/hd-70313_herschel-pacs.png"
+  }
+ ],
+ "notes": "AUTO-CREATED from staging - fill metadata & coords Added 2026-07-08 (archival/keyword exploration).",
+ "last_updated": "2026-07-08",
+ "plx_mas": null,
+ "mags": null
+}

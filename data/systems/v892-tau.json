@@ -1,0 +1,43 @@
+{
+ "id": "v892-tau",
+ "name": "V892 Tau",
+ "alt_names": [
+  "Elias 3-1"
+ ],
+ "simbad": "V* V892 Tau",
+ "ra_deg": 64.66923234099,
+ "dec_deg": 28.3210069608,
+ "dist_pc": 134.5,
+ "sptype": null,
+ "region": "Taurus",
+ "categories": [
+  "protoplanetary"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "image_id": "v892-tau_alma-long2021",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 6",
+   "wavelength_um": 1300,
+   "wavelength_label": "224 GHz (1.3 mm) continuum",
+   "technique": "interferometry",
+   "survey": null,
+   "credit": "Long et al. 2021, Fig. 1 (crop: 224 GHz panel)",
+   "paper": {
+    "first_author": "Long",
+    "year": 2021,
+    "title": "The Architecture of the V892 Tau System: the Binary and its Circumbinary Disk",
+    "journal": "ApJ 915, 131",
+    "arxiv": "2105.02918",
+    "bibcode": "2021ApJ...915..131L"
+   },
+   "file": "images/v892-tau/v892-tau_alma-long2021.png"
+  }
+ ],
+ "notes": "AUTO-CREATED from staging - fill metadata & coords Added 2026-07-08 (archival/keyword exploration).",
+ "last_updated": "2026-07-08",
+ "plx_mas": null,
+ "mags": null
+}

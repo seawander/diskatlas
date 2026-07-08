@@ -1,0 +1,44 @@
+{
+ "id": "fs-tau",
+ "name": "FS Tau",
+ "alt_names": [
+  "FS Tau A",
+  "Haro 6-5"
+ ],
+ "simbad": "V* FS Tau",
+ "ra_deg": 65.50908276126,
+ "dec_deg": 26.95849313703,
+ "dist_pc": 133.9,
+ "sptype": null,
+ "region": "Taurus",
+ "categories": [
+  "protoplanetary"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "image_id": "fs-tau_hiciao-yang2020",
+   "type": "disk_scattered",
+   "facility": "Subaru",
+   "instrument": "HiCIAO",
+   "wavelength_um": 1.6,
+   "wavelength_label": "H-band composite (HiCIAO + Hioki et al. 2011), showing S1/S2 streamer arms",
+   "technique": "polarimetry",
+   "survey": null,
+   "credit": "Yang et al. 2020, Fig. 4a (crop: FS Tau A)",
+   "paper": {
+    "first_author": "Yang",
+    "year": 2020,
+    "title": "High-resolution Near-infrared Polarimetry and Submillimeter Imaging of FS Tau A: Possible Streamers in Misaligned Circumbinary Disk System",
+    "journal": "ApJ 889, 140",
+    "arxiv": "1912.11301",
+    "bibcode": "2020ApJ...889..140Y"
+   },
+   "file": "images/fs-tau/fs-tau_hiciao-yang2020.png"
+  }
+ ],
+ "notes": "AUTO-CREATED from staging - fill metadata & coords Added 2026-07-08 (archival/keyword exploration).",
+ "last_updated": "2026-07-08",
+ "plx_mas": null,
+ "mags": null
+}

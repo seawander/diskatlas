@@ -1,0 +1,45 @@
+{
+ "id": "hd-150193",
+ "name": "HD 150193",
+ "alt_names": [
+  "HD 150193A",
+  "V* V2307 Oph",
+  "Elias 2-49"
+ ],
+ "simbad": "HD 150193",
+ "ra_deg": 250.07468463635,
+ "dec_deg": -23.89588704797,
+ "dist_pc": 150.0,
+ "sptype": null,
+ "region": "rho Ophiuchi",
+ "categories": [
+  "protoplanetary"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "image_id": "hd-150193_ciao-fukagawa2003",
+   "type": "disk_scattered",
+   "facility": "Subaru",
+   "instrument": "CIAO",
+   "wavelength_um": 1.6,
+   "wavelength_label": "H-band (1.6 um), PSF-subtracted coronagraphy",
+   "technique": "coronagraphy",
+   "survey": null,
+   "credit": "Fukagawa et al. 2003, Fig. 1 (crop: HD 150193A)",
+   "paper": {
+    "first_author": "Fukagawa",
+    "year": 2003,
+    "title": "Near-Infrared Imaging of the Circumstellar Disk around Herbig Ae Star HD 150193A",
+    "journal": "ApJ 590, L49",
+    "arxiv": null,
+    "bibcode": "2003ApJ...590L..49F"
+   },
+   "file": "images/hd-150193/hd-150193_ciao-fukagawa2003.png"
+  }
+ ],
+ "notes": "AUTO-CREATED from staging - fill metadata & coords Added 2026-07-08 (archival/keyword exploration).",
+ "last_updated": "2026-07-08",
+ "plx_mas": null,
+ "mags": null
+}
