@@ -1,0 +1,44 @@
+{
+ "id": "svs13a",
+ "name": "SVS13A",
+ "alt_names": [
+  "SVS 13A",
+  "VLA 4A"
+ ],
+ "simbad": "SVS 13",
+ "ra_deg": 52.265833,
+ "dec_deg": 31.268056,
+ "dist_pc": 293.0,
+ "sptype": null,
+ "region": "Perseus (NGC 1333)",
+ "categories": [
+  "protoplanetary"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "image_id": "svs13a_alma2025",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 7 (full-Stokes)",
+   "wavelength_um": 870,
+   "wavelength_label": "0.87 mm continuum",
+   "technique": "interferometry",
+   "survey": null,
+   "credit": "Cortes et al. 2025, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Cortes",
+    "year": 2025,
+    "title": "First Results from ALPPS: A Sub-Alfvenic Streamer in SVS13A",
+    "journal": null,
+    "arxiv": "2509.21701",
+    "bibcode": null
+   },
+   "file": "images/svs13a/svs13a_alma2025.png"
+  }
+ ],
+ "notes": "AUTO-CREATED from staging - fill metadata & coords Added 2026-07-08 (keyword discovery round 2).",
+ "last_updated": "2026-07-08",
+ "plx_mas": null,
+ "mags": null
+}

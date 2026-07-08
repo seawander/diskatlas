@@ -1,0 +1,44 @@
+{
+ "id": "at-pyx",
+ "name": "AT Pyx",
+ "alt_names": [
+  "IRAS 08267-3336",
+  "WRAY 15-220"
+ ],
+ "simbad": "V* AT Pyx",
+ "ra_deg": 127.169572,
+ "dec_deg": -33.772858,
+ "dist_pc": 370.0,
+ "sptype": null,
+ "region": "Gum Nebula (CG-22)",
+ "categories": [
+  "protoplanetary"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "image_id": "at-pyx_sphere2021",
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS DPI",
+   "wavelength_um": 1.625,
+   "wavelength_label": "H-band polarized intensity (Qphi)",
+   "technique": "polarimetric imaging",
+   "survey": null,
+   "credit": "Ginski et al. 2021, Fig. 2 (SPHERE H-band panel, crop)",
+   "paper": {
+    "first_author": "Ginski",
+    "year": 2021,
+    "title": "An extended scattered light disk around AT Pyx: Possible planet formation in a cometary globule",
+    "journal": "A&A",
+    "arxiv": "2111.11077",
+    "bibcode": null
+   },
+   "file": "images/at-pyx/at-pyx_sphere2021.png"
+  }
+ ],
+ "notes": "AUTO-CREATED from staging - fill metadata & coords Added 2026-07-08 (keyword discovery round 2).",
+ "last_updated": "2026-07-08",
+ "plx_mas": null,
+ "mags": null
+}

@@ -1,0 +1,44 @@
+{
+ "id": "lkha-233",
+ "name": "LK-Halpha 233",
+ "alt_names": [
+  "LkHa 233",
+  "LkH-alpha 233"
+ ],
+ "simbad": "EM* LkHA 233",
+ "ra_deg": 338.670767,
+ "dec_deg": 40.667832,
+ "dist_pc": 880.0,
+ "sptype": null,
+ "region": "Isolated (Herbig Ae/Be)",
+ "categories": [
+  "protoplanetary"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "image_id": "lkha-233_hstfoc1995",
+   "type": "disk_scattered",
+   "facility": "HST",
+   "instrument": "FOC",
+   "wavelength_um": 0.4118,
+   "wavelength_label": "4118 Angstrom polarized flux image",
+   "technique": "polarimetric imaging",
+   "survey": null,
+   "credit": "Marin 2025, Fig. 3 (1995 post-COSTAR, crop)",
+   "paper": {
+    "first_author": "Marin",
+    "year": 2025,
+    "title": "High angular resolution near-ultraviolet polarization imaging of the Herbig Ae/Be star LK-Halpha-233",
+    "journal": "A&A",
+    "arxiv": "2505.16731",
+    "bibcode": null
+   },
+   "file": "images/lkha-233/lkha-233_hstfoc1995.png"
+  }
+ ],
+ "notes": "AUTO-CREATED from staging - fill metadata & coords Added 2026-07-08 (keyword discovery round 2).",
+ "last_updated": "2026-07-08",
+ "plx_mas": null,
+ "mags": null
+}
