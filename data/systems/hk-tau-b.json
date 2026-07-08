@@ -76,8 +76,28 @@
     "bibcode": null
    },
    "file": "images/hk-tau-b/hk-tau-b_keck-lws2003.png"
+  },
+  {
+   "image_id": "hk-tau-b_wfpc2-1998",
+   "type": "disk_scattered",
+   "facility": "HST",
+   "instrument": "WFPC2 (PC1)",
+   "wavelength_um": 0.606,
+   "wavelength_label": "F606W (optical, edge-on dust lane)",
+   "technique": "direct imaging",
+   "survey": null,
+   "credit": "Stapelfeldt et al. 1998, Fig. 1 (crop: HK Tau/c edge-on disk)",
+   "paper": {
+    "first_author": "Stapelfeldt",
+    "year": 1998,
+    "title": "An Edge-on Circumstellar Disk in the Young Binary System HK Tauri",
+    "journal": "ApJL 502, L65",
+    "arxiv": null,
+    "bibcode": "1998ApJ...502L..65S"
+   },
+   "file": "images/hk-tau-b/hk-tau-b_wfpc2-1998.png"
   }
  ],
  "notes": "Edge-on circumstellar disk of the secondary in the HK Tau binary (2.3\" from A); the classic optically-thick edge-on disk (Stapelfeldt et al. 1998). Split from hk-tau on 2026-07-07.",
- "last_updated": "2026-07-07"
+ "last_updated": "2026-07-08"
 }

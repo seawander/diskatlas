@@ -369,6 +369,26 @@
     "bibcode": "2009ApJ...707L.132P"
    },
    "file": "images/ab-aur/ab-aur_nicmos-go11155-pol2um.png"
+  },
+  {
+   "image_id": "ab-aur_ciao2004",
+   "type": "disk_scattered",
+   "facility": "Subaru-CIAO",
+   "instrument": "CIAO (Coronagraphic Imager with Adaptive Optics)",
+   "wavelength_um": 1.6,
+   "wavelength_label": "H band, coronagraphy + AO",
+   "technique": "coronagraphy",
+   "survey": null,
+   "credit": "Fukagawa et al. 2004, Fig. 1 (crop: AB Aur)",
+   "paper": {
+    "first_author": "Fukagawa",
+    "year": 2004,
+    "title": "Spiral Structure in the Circumstellar Disk around AB Aurigae",
+    "journal": "ApJL 605, L53",
+    "arxiv": null,
+    "bibcode": "2004ApJ...605L..53F"
+   },
+   "file": "images/ab-aur/ab-aur_ciao2004.png"
   }
  ],
  "notes": null,

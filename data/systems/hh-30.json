@@ -112,10 +112,30 @@
     "bibcode": null
    },
    "file": "images/hh-30/hh-30_nicmos2001.png"
+  },
+  {
+   "image_id": "hh-30_wfpc2-1996",
+   "type": "disk_scattered",
+   "facility": "HST",
+   "instrument": "WFPC2",
+   "wavelength_um": 0.75,
+   "wavelength_label": "false color: F814W (red) + F675W (green), edge-on disk + bipolar jet",
+   "technique": "direct imaging",
+   "survey": null,
+   "credit": "Burrows et al. 1996, Fig. 1 / Plate 9 (crop: HH 30 disk and jet)",
+   "paper": {
+    "first_author": "Burrows",
+    "year": 1996,
+    "title": "Hubble Space Telescope Observations of the Disk and Jet of HH 30",
+    "journal": "ApJ 473, 437",
+    "arxiv": null,
+    "bibcode": "1996ApJ...473..437B"
+   },
+   "file": "images/hh-30/hh-30_wfpc2-1996.png"
   }
  ],
  "notes": "AUTO-CREATED from staging - fill metadata & coords",
- "last_updated": "2026-07-06",
+ "last_updated": "2026-07-08",
  "mags": {
   "G": 20.353983,
   "J": 15.176,

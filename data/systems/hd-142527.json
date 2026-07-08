@@ -236,6 +236,26 @@
    },
    "file": "images/hd-142527/hd-142527_nicmos-go11155-pol2um.png",
    "hires_url": "https://www.stsci.edu/~mperrin/pdfs/poster_2009AAS_NICPOL_HAEBES.pdf"
+  },
+  {
+   "image_id": "hd-142527_ciao2006",
+   "type": "disk_scattered",
+   "facility": "Subaru-CIAO",
+   "instrument": "CIAO (Coronagraphic Imager with Adaptive Optics)",
+   "wavelength_um": 1.6,
+   "wavelength_label": "H band, coronagraphy + AO",
+   "technique": "coronagraphy",
+   "survey": null,
+   "credit": "Fukagawa et al. 2006, Fig. 1 top (crop: HD 142527, H band)",
+   "paper": {
+    "first_author": "Fukagawa",
+    "year": 2006,
+    "title": "Near-Infrared Images of Protoplanetary Disk Surrounding HD 142527",
+    "journal": "ApJL 636, L153",
+    "arxiv": null,
+    "bibcode": "2006ApJ...636L.153F"
+   },
+   "file": "images/hd-142527/hd-142527_ciao2006.png"
   }
  ],
  "notes": "Extreme azimuthal dust asymmetry; M-dwarf companion inside cavity.",
