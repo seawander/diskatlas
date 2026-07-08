@@ -45,7 +45,8 @@ function eclToEq(lam) {
 
 function fmtWl(um) {
   if (um == null) return "?";
-  if (um >= 1000) { const mm = um / 1000; return (mm >= 10 ? mm.toFixed(0) : mm.toFixed(2).replace(/0+$/, "").replace(/\.$/, "")) + " mm"; }
+  /* >=300 um displays as mm, matching the WL_BANDS "mm" band (>0.3mm) */
+  if (um >= 300) { const mm = um / 1000; return (mm >= 10 ? mm.toFixed(0) : mm.toFixed(2).replace(/0+$/, "").replace(/\.$/, "")) + " mm"; }
   if (um < 0.01) return (um * 1000).toFixed(1) + " nm";
   return (um >= 10 ? um.toFixed(0) : +um.toFixed(2)) + " μm";
 }

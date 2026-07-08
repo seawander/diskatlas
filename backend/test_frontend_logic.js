@@ -39,6 +39,8 @@ close(L.eclToEq(90).dec, 23.439, 0.01, "ecliptic max Dec");
 
 /* formatting */
 ok(L.fmtWl(1250) === "1.25 mm", "fmtWl mm: " + L.fmtWl(1250));
+ok(L.fmtWl(880) === "0.88 mm", "fmtWl sub-mm displays as mm: " + L.fmtWl(880));
+ok(L.fmtWl(160) === "160 μm", "fmtWl FIR stays um: " + L.fmtWl(160));
 ok(L.fmtWl(1.65).indexOf("μm") > 0, "fmtWl um");
 
 /* links */
