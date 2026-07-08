@@ -19,6 +19,7 @@ from collections import defaultdict
 from datetime import date
 
 API = "https://api.semanticscholar.org/graph/v1/paper/arXiv:{}/citations"
+REF_API = "https://api.semanticscholar.org/graph/v1/paper/arXiv:{}/references"
 FIELDS = "externalIds,title,year,abstract,venue"
 
 KEY_POS = re.compile(
@@ -75,6 +76,43 @@ def fetch_citations(aid, cache_dir):
     return out
 
 
+def fetch_references(aid, cache_dir):
+    """All papers that one seed CITES (backward axis), cached on disk.
+
+    This is what surfaces the foundational, often *non-arXiv* classics
+    (Grady, Schneider, Augereau, Weinberger, Perrin...) that the forward
+    citation graph never reaches because they predate astro-ph."""
+    cf = os.path.join(cache_dir, aid.replace("/", "_") + ".json")
+    if os.path.exists(cf):
+        return json.load(open(cf))
+    out, offset = [], 0
+    while True:
+        url = REF_API.format(urllib.parse.quote(aid)) + \
+            f"?fields={FIELDS}&limit=100&offset={offset}"
+        for attempt in range(6):
+            try:
+                req = urllib.request.Request(url, headers={"User-Agent": "diskatlas-paper-finder"})
+                data = json.load(urllib.request.urlopen(req, timeout=60))
+                break
+            except urllib.error.HTTPError as e:
+                if e.code == 429:
+                    time.sleep(5 * (attempt + 1)); continue
+                if e.code == 404:
+                    data = {"data": []}; break
+                raise
+        else:
+            print(f"  ! giving up on refs of {aid} (rate limited)", file=sys.stderr)
+            return None
+        out += data.get("data", [])
+        if "next" not in data or not data.get("data"):
+            break
+        offset = data["next"]
+        time.sleep(1.1)
+    json.dump(out, open(cf, "w"))
+    time.sleep(1.1)
+    return out
+
+
 OBS_POS = re.compile(
     r"imag|observation|polarimetr|scattered.light|resolved|coronagraph|interferometr|"
     r"epoch|detection|discovery|survey of|maps? of|view of|first look", re.I)
@@ -111,23 +149,30 @@ def rank_candidates(repo):
         c["target_match"] = next((n for n in names if n in tl), None)
         c["obs_score"] = (2 if OBS_POS.search(title) else 0) - (2 if OBS_NEG.search(title) else 0)
         c["done"] = (c.get("arxiv") or c.get("s2")) in state
+        c["hub"] = c.get("n_seed_citations", 0) + c.get("n_seed_refs", 0)
     cands.sort(key=lambda c: (c["done"], c["target_match"] is None,
-                              -c["obs_score"], -c["n_seed_citations"], -(c.get("year") or 0)))
+                              -c["obs_score"], -c["hub"], -(c.get("year") or 0)))
     json.dump(cands, open(cf, "w"), indent=1)
     fresh = [c for c in cands if not c["done"]]
     tm = [c for c in fresh if c["target_match"]]
+    classics = [c for c in fresh if not c.get("arxiv") and c.get("n_seed_refs", 0) >= 2]
     print(f"re-ranked {len(cands)} candidates: {len(tm)} undispositioned TARGET-MATCH "
-          f"papers now lead the queue (of {len(fresh)} undispositioned)")
+          f"papers now lead the queue (of {len(fresh)} undispositioned); "
+          f"{len(classics)} non-arXiv classics (>=2 atlas papers cite them)")
     for c in tm[:30]:
-        print(f"  [{c['target_match']:<16.16s}] obs={c['obs_score']:+d} hub={c['n_seed_citations']:3d} "
-              f"{c.get('arxiv') or 'no-arxiv':<14s} {(c.get('title') or '')[:66]}")
+        print(f"  [{c['target_match']:<16.16s}] obs={c['obs_score']:+d} "
+              f"cite={c.get('n_seed_citations',0):3d} ref={c.get('n_seed_refs',0):3d} "
+              f"{c.get('arxiv') or 'no-arxiv':<14s} {(c.get('title') or '')[:60]}")
 
 
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--repo", required=True)
     ap.add_argument("--max-seeds", type=int, default=0, help="0 = all")
-    ap.add_argument("--min-year", type=int, default=2010)
+    ap.add_argument("--min-year", type=int, default=1995)
+    ap.add_argument("--direction", choices=("cites", "refs", "both"), default="both",
+                    help="citation axis: forward (cites), backward (refs), or both. "
+                         "refs surfaces non-arXiv classics our atlas papers cite.")
     ap.add_argument("--mark", nargs=3, metavar=("ARXIV", "STATUS", "REASON"))
     ap.add_argument("--rank", action="store_true",
                     help="re-rank cached candidates (target-match first); no fetching")
@@ -149,30 +194,40 @@ def main():
 
     outdir = os.path.join(a.repo, "data/paper_finder")
     cache = os.path.join(outdir, "cache")
+    cache_refs = os.path.join(outdir, "cache_refs")
     os.makedirs(cache, exist_ok=True)
+    os.makedirs(cache_refs, exist_ok=True)
 
     seeds = load_seeds(a.repo)
     if a.max_seeds:
         seeds = seeds[:a.max_seeds]
     seedset = set(seeds)
-    print(f"{len(seeds)} seed papers")
+    print(f"{len(seeds)} seed papers (direction={a.direction}, min_year={a.min_year})")
 
-    hits = defaultdict(lambda: {"cites": set(), "meta": None})
+    hits = defaultdict(lambda: {"cites": set(), "refs": set(), "meta": None})
     done = failed = 0
     for i, s in enumerate(seeds):
-        rows = fetch_citations(s, cache)
-        if rows is None:
-            failed += 1; continue
-        done += 1
-        for r in rows:
-            p = r.get("citingPaper") or {}
-            ext = p.get("externalIds") or {}
-            aid = ext.get("ArXiv")
-            key = aid or p.get("paperId")
-            if not key:
-                continue
-            hits[key]["cites"].add(s)
-            hits[key]["meta"] = p
+        got = False
+        if a.direction in ("cites", "both"):
+            rows = fetch_citations(s, cache)
+            if rows is not None:
+                got = True
+                for r in rows:
+                    p = r.get("citingPaper") or {}
+                    key = (p.get("externalIds") or {}).get("ArXiv") or p.get("paperId")
+                    if key:
+                        hits[key]["cites"].add(s); hits[key]["meta"] = p
+        if a.direction in ("refs", "both"):
+            rows = fetch_references(s, cache_refs)
+            if rows is not None:
+                got = True
+                for r in rows:
+                    p = r.get("citedPaper") or {}
+                    key = (p.get("externalIds") or {}).get("ArXiv") or p.get("paperId")
+                    if key:
+                        hits[key]["refs"].add(s); hits[key]["meta"] = p
+        done += 1 if got else 0
+        failed += 0 if got else 1
         if (i + 1) % 25 == 0:
             print(f"  {i+1}/{len(seeds)} seeds processed ({len(hits)} candidates so far)")
 
@@ -186,17 +241,21 @@ def main():
             continue                          # already dispositioned
         if (p.get("year") or 0) < a.min_year:
             continue
+        n_ref = len(v["refs"])
         text = (p.get("title") or "") + " " + (p.get("abstract") or "")
-        if not (KEY_POS.search(text) and KEY_DOM.search(text)):
+        keyword_ok = bool(KEY_POS.search(text) and KEY_DOM.search(text))
+        # keep if it reads like imaging, OR if >=3 atlas papers cite it (a foundational
+        # paper for our targets even when its title/abstract lack our keywords)
+        if not (keyword_ok or n_ref >= 3):
             continue
         cands.append({
             "arxiv": aid, "s2": p.get("paperId"), "title": p.get("title"),
             "year": p.get("year"), "venue": p.get("venue"),
-            "n_seed_citations": len(v["cites"]),
-            "seeds_cited": sorted(v["cites"])[:12],
+            "n_seed_citations": len(v["cites"]), "n_seed_refs": n_ref,
+            "seeds_cited": sorted(v["cites"] | v["refs"])[:12],
             "abstract": (p.get("abstract") or "")[:600],
         })
-    cands.sort(key=lambda c: (-c["n_seed_citations"], -(c["year"] or 0)))
+    cands.sort(key=lambda c: (-(c["n_seed_citations"] + c["n_seed_refs"]), -(c["year"] or 0)))
 
     json.dump(cands, open(os.path.join(outdir, "candidates.json"), "w"), indent=1)
     with open(os.path.join(outdir, "candidates.md"), "w") as fh:
@@ -204,7 +263,7 @@ def main():
                  f"{done}/{len(seeds)} seeds fetched ({failed} failed), "
                  f"{len(cands)} candidates\n\n")
         for c in cands:
-            fh.write(f"- **{c['n_seed_citations']}× cited-seeds** | "
+            fh.write(f"- **{c['n_seed_citations']}× cited-by / {c['n_seed_refs']}× ref-by** | "
                      f"arXiv {c['arxiv'] or '—'} | {c['year']} | {c['title']}\n")
     print(f"done: {done} seeds fetched, {failed} failed/skipped, "
           f"{len(cands)} candidates -> {outdir}/candidates.json")
