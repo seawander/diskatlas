@@ -184,3 +184,34 @@ two MWC 758 imaging papers sat at rank ~650 for a day. ALWAYS run
 of `--mark`s): it re-sorts candidates.json so that undispositioned papers whose TITLE
 names an atlas system and reads like an observation paper come first, and it hides
 already-dispositioned entries at the bottom. Work the queue in that order.
+
+## Depth axes — the forward-citation queue is NOT enough (lesson 2026-07-08)
+
+Two whole classes of missing imagery never show up in the forward-citation queue, and
+skipping them makes the atlas look "explored" when it isn't. Always work these too:
+
+1. **Backward reference axis (non-arXiv classics).** Foundational coronagraphy papers
+   (Grady 2005 STIS Herbig Ae; Schneider/Weinberger/Augereau/Krist NICMOS; the Perrin
+   2009 GO-11155 poster) predate astro-ph, so they have no arXiv id — the forward S2
+   graph never reaches them and the old `--min-year 2010` filter hid them. `find_papers.py`
+   now also harvests **references** (`--direction both`, cached in `cache_refs/`) and keeps
+   any paper ≥3 atlas papers cite; run with `--min-year 1995`. When a classic has no arXiv,
+   cite it by **ADS bibcode** (or a stable poster/preprint URL in `hires_url`); never invent a
+   bibcode — a validate WARN for "neither arxiv nor bibcode" is acceptable for a genuine poster.
+
+2. **Per-paper / per-survey completeness (finish the figure).** A multi-panel or multi-target
+   paper is only half-ingested if you crop one panel. When ingesting a survey, enumerate its
+   FULL figure gallery / sample table and capture *every* resolved target you lack. Audit the
+   surveys already in the atlas the same way: list which of the paper's targets you hold vs. what
+   its galleries actually show. Caveats that make a naive "atlas-count < sample-size" gap a false
+   alarm — verify before crediting a gap: (a) surveys **split across papers** (Long 2018's 12
+   substructured disks + Long 2019's 20 compact ones = the full 32-disk program, both already in);
+   (b) sample **tables list comparison objects** never imaged in that paper (ODISEA III's DSHARP
+   rows); (c) papers **show only detections** (Wallack NIRC2 galleries) — the rest are
+   non-detections, correctly skipped. Use the paper's own visibility/size fits as the
+   resolved-vs-unresolved arbiter (AGE-PRO X), not image-plane eyeballing.
+
+Agent-fleet note: give each completeness agent the paper id + the *exact* atlas target list it
+already holds, so it hunts true gaps instead of re-deriving coverage. And set the agent's cwd to
+the repo (or have it write crops to absolute `images/<slug>/` paths) — a relative `images/` path
+lands crops in the agent's scratchpad cwd, not the repo, and merge_staging then finds nothing.
