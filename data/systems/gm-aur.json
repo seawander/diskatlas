@@ -193,10 +193,30 @@
     "bibcode": null
    },
    "file": "images/gm-aur/gm-aur_sma2009.png"
+  },
+  {
+   "image_id": "gm-aur_acssbc_f140lp",
+   "type": "disk_scattered",
+   "facility": "HST",
+   "instrument": "ACS/SBC",
+   "wavelength_um": 0.14,
+   "wavelength_label": "F140LP (~1400 A, FUV scattered light)",
+   "technique": "coronagraphy",
+   "survey": null,
+   "credit": "Hornbeck et al. 2016, Fig. 4 (crop)",
+   "paper": {
+    "first_author": "Hornbeck",
+    "year": 2016,
+    "title": "Panchromatic Imaging of a Transitional Disk: The Disk of GM Aur in Optical and FUV Scattered Light",
+    "journal": "ApJ",
+    "arxiv": "1607.03520",
+    "bibcode": null
+   },
+   "file": "images/gm-aur/gm-aur_acssbc_f140lp.png"
   }
  ],
  "notes": null,
- "last_updated": "2026-07-07",
+ "last_updated": "2026-07-08",
  "plx_mas": 6.3248,
  "mags": {
   "U": 14.59,

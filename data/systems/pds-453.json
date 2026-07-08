@@ -1,0 +1,63 @@
+{
+ "id": "pds-453",
+ "name": "PDS 453",
+ "alt_names": [
+  "IRAS 17178-2600"
+ ],
+ "simbad": "PDS 453",
+ "ra_deg": 260.2339,
+ "dec_deg": -26.05849,
+ "dist_pc": 130,
+ "plx_mas": null,
+ "mags": null,
+ "sptype": "F2Ve",
+ "region": "Sco-Cen (periphery)",
+ "categories": [
+  "protoplanetary"
+ ],
+ "planets": [],
+ "notes": "Highly inclined (~80°) 'grazing angle' icy disk; bright central point source is a forward-scattering glint through the upper disk layer. Water-ice band at 3.1 µm (Subaru/IRCS, [Terada & Tokunaga 2017](https://arxiv.org/abs/1701.01055)). Disk first identified by Perrin 2006 (Lick/IRCAL), resolved by HST/NICMOS ([Perrin+2010](https://ui.adsabs.harvard.edu/abs/2010ApJ...707L.132P/abstract)).",
+ "images": [
+  {
+   "image_id": "pds-453_sphere2018",
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS (DPI)",
+   "wavelength_um": 1.6,
+   "wavelength_label": "BB_H polarized intensity; sharpest image of the disk to date",
+   "technique": "polarimetry",
+   "survey": null,
+   "credit": "Martinien et al. 2024, Fig. 1 (crop: SPHERE PI)",
+   "paper": {
+    "first_author": "Martinien",
+    "year": 2024,
+    "title": "The grazing angle icy protoplanetary disk PDS 453",
+    "journal": "A&A",
+    "arxiv": "2411.04741",
+    "bibcode": "2024arXiv241104741M"
+   },
+   "file": "images/pds-453/pds-453_sphere2018.png"
+  },
+  {
+   "image_id": "pds-453_nicmos-f110w",
+   "type": "disk_scattered",
+   "facility": "HST",
+   "instrument": "NICMOS (NIC2 coronagraphy)",
+   "wavelength_um": 1.1,
+   "wavelength_label": "F110W total intensity, PSF-subtracted (program 11155)",
+   "technique": "coronagraphy",
+   "survey": null,
+   "credit": "Martinien et al. 2024, Fig. 1 (crop: NICMOS 1.1 um I)",
+   "paper": {
+    "first_author": "Martinien",
+    "year": 2024,
+    "title": "The grazing angle icy protoplanetary disk PDS 453",
+    "journal": "A&A",
+    "arxiv": "2411.04741",
+    "bibcode": "2024arXiv241104741M"
+   },
+   "file": "images/pds-453/pds-453_nicmos-f110w.png"
+  }
+ ],
+ "last_updated": "2026-07-08"
+}

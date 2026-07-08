@@ -292,10 +292,30 @@
     "arxiv": "2408.09216",
     "bibcode": "2024arXiv240809216D"
    }
+  },
+  {
+   "image_id": "pds-70_wfc3rdi",
+   "type": "planet",
+   "facility": "HST",
+   "instrument": "WFC3/UVIS",
+   "wavelength_um": 0.6563,
+   "wavelength_label": "H-alpha (F656N); RDI KLIP detection of PDS 70 b using archival PSF library",
+   "technique": "RDI",
+   "survey": null,
+   "credit": "Sanghi, Zhou & Bowler 2021, Fig. 4 (crop)",
+   "paper": {
+    "first_author": "Sanghi",
+    "year": 2021,
+    "title": "Efficiently Imaging Accreting Protoplanets from Space: Reference Star Differential Imaging of the PDS 70 Planetary System using the HST/WFC3 Archival PSF Library",
+    "journal": "AJ",
+    "arxiv": "2112.10777",
+    "bibcode": null
+   },
+   "file": "images/pds-70/pds-70_wfc3rdi.png"
   }
  ],
  "notes": "Only system with two confirmed planets caught in formation inside the disk cavity.",
- "last_updated": "2026-07-07",
+ "last_updated": "2026-07-08",
  "plx_mas": 8.8975,
  "mags": {
   "B": 13.42,

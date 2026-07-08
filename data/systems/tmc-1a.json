@@ -37,8 +37,28 @@
     "arxiv": "2306.15406",
     "bibcode": "2023ApJ...951....8O"
    }
+  },
+  {
+   "image_id": "tmc-1a_vla_kaband",
+   "type": "disk_mm",
+   "facility": "VLA",
+   "instrument": "Ka band",
+   "wavelength_um": 9000,
+   "wavelength_label": "9 mm continuum",
+   "technique": "interferometry",
+   "survey": null,
+   "credit": "Aso et al. 2024, Fig. 3 (crop)",
+   "paper": {
+    "first_author": "Aso",
+    "year": 2024,
+    "title": "Grain Size in the Class I Protostellar System TMC-1A Constrained with ALMA and VLA Observations",
+    "journal": "ApJ",
+    "arxiv": "2411.13044",
+    "bibcode": null
+   },
+   "file": "images/tmc-1a/tmc-1a_vla_kaband.png"
   }
  ],
  "notes": "Class I embedded protostar (eDisk)",
- "last_updated": "2026-07-06"
+ "last_updated": "2026-07-08"
 }

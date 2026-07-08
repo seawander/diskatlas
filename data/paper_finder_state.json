@@ -1930,5 +1930,110 @@
   "status": "ingested",
   "reason": "Grady 2005 STIS Herbig Ae; Fig 1c CQ Tau + Fig 2 HD100546/AB Aur/HD163296/HD135344 (user request)",
   "date": "2026-07-08"
+ },
+ "2411.04741": {
+  "status": "ingested",
+  "reason": "PDS 453 new system: SPHERE PI + NICMOS F110W (user request)",
+  "date": "2026-07-08"
+ },
+ "2112.10777": {
+  "status": "ingested",
+  "reason": "PF11 2026-07-08",
+  "date": "2026-07-08"
+ },
+ "1607.03520": {
+  "status": "ingested",
+  "reason": "PF11 2026-07-08",
+  "date": "2026-07-08"
+ },
+ "1601.07248": {
+  "status": "ingested",
+  "reason": "PF11 2026-07-08",
+  "date": "2026-07-08"
+ },
+ "1203.1896": {
+  "status": "ingested",
+  "reason": "PF11 2026-07-08",
+  "date": "2026-07-08"
+ },
+ "2411.13044": {
+  "status": "ingested",
+  "reason": "PF11 2026-07-08",
+  "date": "2026-07-08"
+ },
+ "1907.10229": {
+  "status": "ingested",
+  "reason": "PF11 2026-07-08",
+  "date": "2026-07-08"
+ },
+ "1310.8577": {
+  "status": "excluded",
+  "reason": "Fomalhaut PCA non/marginal, STIS already present",
+  "date": "2026-07-08"
+ },
+ "2109.06930": {
+  "status": "excluded",
+  "reason": "PDS 70 Keck/OSIRIS Pa-beta non-detection",
+  "date": "2026-07-08"
+ },
+ "1705.09291": {
+  "status": "excluded",
+  "reason": "AU Mic STIS long-slit spectroscopy, no new image",
+  "date": "2026-07-08"
+ },
+ "1606.02701": {
+  "status": "excluded",
+  "reason": "PTFO 8-8695 Halpha variability, no resolved image",
+  "date": "2026-07-08"
+ },
+ "1609.05894": {
+  "status": "excluded",
+  "reason": "LkCa 15 unresolved JCMT HCO+, no image",
+  "date": "2026-07-08"
+ },
+ "2405.04461": {
+  "status": "excluded",
+  "reason": "TW Hya SPIRou spectropolarimetry, no image",
+  "date": "2026-07-08"
+ },
+ "2107.06949": {
+  "status": "excluded",
+  "reason": "HR 8799 KPIC spectroscopy, no image",
+  "date": "2026-07-08"
+ },
+ "2106.10724": {
+  "status": "excluded",
+  "reason": "GIARPS spectroscopy, T Tau not in sample",
+  "date": "2026-07-08"
+ },
+ "1606.05828": {
+  "status": "excluded",
+  "reason": "snowline theory prediction, no image",
+  "date": "2026-07-08"
+ },
+ "1605.02771": {
+  "status": "excluded",
+  "reason": "HD 111520 GPI H already present",
+  "date": "2026-07-08"
+ },
+ "1602.02090": {
+  "status": "excluded",
+  "reason": "TW Hya STIS/NICMOS already present",
+  "date": "2026-07-08"
+ },
+ "2309.00443": {
+  "status": "excluded",
+  "reason": "R CrA IRS5N eDisk Band 6 already present",
+  "date": "2026-07-08"
+ },
+ "2102.06209": {
+  "status": "excluded",
+  "reason": "HD 163296 DSHARP reanalysis, no new data",
+  "date": "2026-07-08"
+ },
+ "2004.10989": {
+  "status": "excluded",
+  "reason": "HD 142527 sparse-modeling reanalysis of same ALMA B7",
+  "date": "2026-07-08"
  }
 }

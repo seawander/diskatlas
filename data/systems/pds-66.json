@@ -216,10 +216,30 @@
     "bibcode": null
    },
    "file": "images/pds-66/pds-66_exoalma-co.png"
+  },
+  {
+   "image_id": "pds-66_gpi_hband",
+   "type": "disk_scattered",
+   "facility": "Gemini-GPI",
+   "instrument": "IFS pol",
+   "wavelength_um": 1.6,
+   "wavelength_label": "H band 1.6 um (pol. intensity, Qr); discovery imaging",
+   "technique": "PDI",
+   "survey": null,
+   "credit": "Wolff et al. 2016, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Wolff",
+    "year": 2016,
+    "title": "The PDS 66 Circumstellar Disk as Seen in Polarized Light with the Gemini Planet Imager",
+    "journal": "ApJ",
+    "arxiv": "1601.07248",
+    "bibcode": null
+   },
+   "file": "images/pds-66/pds-66_gpi_hband.png"
   }
  ],
  "notes": "ALMA 3mm reveals a ring + 2 gaps invisible at shorter wavelengths; a young gas giant is inferred (not imaged) from Gaia astrometry + disk structure (Ribas et al. 2025, arXiv 2507.11612).",
- "last_updated": "2026-07-07",
+ "last_updated": "2026-07-08",
  "plx_mas": 10.2152,
  "mags": {
   "B": 11.38,
