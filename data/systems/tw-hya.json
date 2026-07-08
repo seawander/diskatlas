@@ -1,7 +1,9 @@
 {
  "id": "tw-hya",
  "name": "TW Hya",
- "alt_names": ["HIP 53911"],
+ "alt_names": [
+  "HIP 53911"
+ ],
  "simbad": "TW Hya",
  "ra_deg": 165.46627220211,
  "dec_deg": -34.70473144955,
@@ -303,12 +305,12 @@
    "wavelength_label": "2 um pol. intensity (NICMOS)",
    "technique": "PDI",
    "survey": null,
-   "credit": "Poteet et al. 2018 (crop)",
+   "credit": "Poteet et al. 2018, Fig. 2 (crop: polarized intensity P)",
    "paper": {
     "first_author": "Poteet",
     "year": 2018,
-    "title": "Space-Based Coronagraphic Imaging Polarimetry of the TW Hydrae Disk",
-    "journal": null,
+    "title": "Space-Based Coronagraphic Imaging Polarimetry of the TW Hydrae Disk: Shedding New Light on Self-Shadowing Effects",
+    "journal": "ApJ 860, 115",
     "arxiv": "1805.01926",
     "bibcode": null
    },
@@ -316,7 +318,7 @@
   }
  ],
  "notes": null,
- "last_updated": "2026-07-07",
+ "last_updated": "2026-07-08",
  "plx_mas": 16.6289,
  "mags": {
   "B": 11.94,
