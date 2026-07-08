@@ -329,6 +329,46 @@
     "bibcode": "2005ApJ...630..958G"
    },
    "file": "images/ab-aur/ab-aur_stis2005.png"
+  },
+  {
+   "image_id": "ab-aur_nicmos-go11155-1um",
+   "type": "disk_scattered",
+   "facility": "HST",
+   "instrument": "NICMOS (NIC2 coronagraphy)",
+   "wavelength_um": 1.1,
+   "wavelength_label": "F110W total intensity (GO-11155)",
+   "technique": "coronagraphy",
+   "survey": null,
+   "credit": "Perrin et al. 2009 AAS 213 poster (crop: AB Aur 1 um)",
+   "paper": {
+    "first_author": "Perrin",
+    "year": 2009,
+    "title": "The Case of AB Aurigae's Disk in Polarized Light: Is There Truly a Gap?",
+    "journal": "ApJL 707, L132",
+    "arxiv": "0911.1130",
+    "bibcode": "2009ApJ...707L.132P"
+   },
+   "file": "images/ab-aur/ab-aur_nicmos-go11155-1um.png"
+  },
+  {
+   "image_id": "ab-aur_nicmos-go11155-pol2um",
+   "type": "disk_scattered",
+   "facility": "HST",
+   "instrument": "NICMOS (NIC2 coronagraphy)",
+   "wavelength_um": 2.0,
+   "wavelength_label": "2 um polarized intensity + vectors (GO-11155)",
+   "technique": "PDI",
+   "survey": null,
+   "credit": "Perrin et al. 2009 AAS 213 poster (crop: AB Aur 2 um pol)",
+   "paper": {
+    "first_author": "Perrin",
+    "year": 2009,
+    "title": "The Case of AB Aurigae's Disk in Polarized Light: Is There Truly a Gap?",
+    "journal": "ApJL 707, L132",
+    "arxiv": "0911.1130",
+    "bibcode": "2009ApJ...707L.132P"
+   },
+   "file": "images/ab-aur/ab-aur_nicmos-go11155-pol2um.png"
   }
  ],
  "notes": null,

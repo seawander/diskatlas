@@ -1,7 +1,9 @@
 {
  "id": "hd-142527",
  "name": "HD 142527",
- "alt_names": ["HIP 78092"],
+ "alt_names": [
+  "HIP 78092"
+ ],
  "simbad": "HD 142527",
  "ra_deg": 239.17453443246,
  "dec_deg": -42.32312452273,
@@ -192,10 +194,52 @@
    },
    "image_id": "hd-142527_naco-lprime-rameau2012",
    "file": "images/hd-142527/hd-142527_naco-lprime-rameau2012.png"
+  },
+  {
+   "image_id": "hd-142527_nicmos-go11155-1um",
+   "type": "disk_scattered",
+   "facility": "HST",
+   "instrument": "NICMOS (NIC2 coronagraphy)",
+   "wavelength_um": 1.1,
+   "wavelength_label": "F110W total intensity (GO-11155)",
+   "technique": "coronagraphy",
+   "survey": null,
+   "credit": "Perrin et al. 2009 AAS 213 poster (crop: HD 142527 1 um)",
+   "paper": {
+    "first_author": "Perrin",
+    "year": 2009,
+    "title": "Coronagraphic Polarimetry of Circumstellar Disks Around Herbig Ae/Be Stars: Investigating Disk Properties and Dust Grain Growth with HST NICMOS",
+    "journal": "BAAS 41, 208 (AAS 213 poster)",
+    "arxiv": null,
+    "bibcode": null
+   },
+   "file": "images/hd-142527/hd-142527_nicmos-go11155-1um.png",
+   "hires_url": "https://www.stsci.edu/~mperrin/pdfs/poster_2009AAS_NICPOL_HAEBES.pdf"
+  },
+  {
+   "image_id": "hd-142527_nicmos-go11155-pol2um",
+   "type": "disk_scattered",
+   "facility": "HST",
+   "instrument": "NICMOS (NIC2 coronagraphy)",
+   "wavelength_um": 2.0,
+   "wavelength_label": "2 um polarized intensity + vectors (GO-11155)",
+   "technique": "PDI",
+   "survey": null,
+   "credit": "Perrin et al. 2009 AAS 213 poster (crop: HD 142527 2 um pol)",
+   "paper": {
+    "first_author": "Perrin",
+    "year": 2009,
+    "title": "Coronagraphic Polarimetry of Circumstellar Disks Around Herbig Ae/Be Stars: Investigating Disk Properties and Dust Grain Growth with HST NICMOS",
+    "journal": "BAAS 41, 208 (AAS 213 poster)",
+    "arxiv": null,
+    "bibcode": null
+   },
+   "file": "images/hd-142527/hd-142527_nicmos-go11155-pol2um.png",
+   "hires_url": "https://www.stsci.edu/~mperrin/pdfs/poster_2009AAS_NICPOL_HAEBES.pdf"
   }
  ],
  "notes": "Extreme azimuthal dust asymmetry; M-dwarf companion inside cavity.",
- "last_updated": "2026-07-07",
+ "last_updated": "2026-07-08",
  "plx_mas": 6.2791,
  "mags": {
   "B": 9.04,

@@ -1,7 +1,11 @@
 {
  "id": "hr-4796a",
  "name": "HR 4796A",
- "alt_names": ["HD 109573", "HIP 61498", "HR 4796"],
+ "alt_names": [
+  "HD 109573",
+  "HIP 61498",
+  "HR 4796"
+ ],
  "simbad": "HR 4796",
  "ra_deg": 189.00429894233,
  "dec_deg": -39.86950568483,
@@ -403,7 +407,7 @@
    "wavelength_label": "H band",
    "technique": "ADI",
    "survey": null,
-   "credit": "Wahhaj et al. 2014, Fig. 1 (crop)",
+   "credit": "Wahhaj et al. 2014, Fig. 1 (crop: H panel)",
    "paper": {
     "first_author": "Wahhaj",
     "year": 2014,
@@ -433,10 +437,50 @@
     "bibcode": null
    },
    "file": "images/hr-4796a/hr-4796a_gemini-midir2010.png"
+  },
+  {
+   "image_id": "hr-4796a_nici2014-j",
+   "type": "disk_scattered",
+   "facility": "Gemini-South",
+   "instrument": "NICI",
+   "wavelength_um": 1.25,
+   "wavelength_label": "J band",
+   "technique": "ADI",
+   "survey": null,
+   "credit": "Wahhaj et al. 2014, Fig. 1 (crop: J panel)",
+   "paper": {
+    "first_author": "Wahhaj",
+    "year": 2014,
+    "title": "The Gemini NICI Planet-Finding Campaign: The Offset Ring of HR 4796 A",
+    "journal": "A&A 567, A34 (2014)",
+    "arxiv": "1404.6525",
+    "bibcode": null
+   },
+   "file": "images/hr-4796a/hr-4796a_nici2014-j.png"
+  },
+  {
+   "image_id": "hr-4796a_nici2014-ks",
+   "type": "disk_scattered",
+   "facility": "Gemini-South",
+   "instrument": "NICI",
+   "wavelength_um": 2.15,
+   "wavelength_label": "Ks band",
+   "technique": "ADI",
+   "survey": null,
+   "credit": "Wahhaj et al. 2014, Fig. 1 (crop: Ks panel)",
+   "paper": {
+    "first_author": "Wahhaj",
+    "year": 2014,
+    "title": "The Gemini NICI Planet-Finding Campaign: The Offset Ring of HR 4796 A",
+    "journal": "A&A 567, A34 (2014)",
+    "arxiv": "1404.6525",
+    "bibcode": null
+   },
+   "file": "images/hr-4796a/hr-4796a_nici2014-ks.png"
   }
  ],
  "notes": null,
- "last_updated": "2026-07-07",
+ "last_updated": "2026-07-08",
  "plx_mas": 14.13,
  "mags": {
   "B": 5.786,

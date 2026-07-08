@@ -665,7 +665,7 @@ if (typeof window !== "undefined") (function () {
     sortedImages(s).forEach((im, i) => {
       const t = document.createElement("span");
       t.className = "tick";
-      t.innerHTML = '<span class="wl">' + fmtWl(im.wavelength_um) + "</span> " + esc(shortFac(im.facility));
+      t.innerHTML = '<span class="wl">' + fmtWl(im.wavelength_um) + "</span> " + esc((im.instr_key && im.instr_key !== "other") ? im.instr_key : shortFac(im.facility));
       t.onclick = () => showImg(i);
       sl.appendChild(t);
     });

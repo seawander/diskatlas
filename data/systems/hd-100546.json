@@ -399,6 +399,48 @@
     "bibcode": "2005ApJ...630..958G"
    },
    "file": "images/hd-100546/hd-100546_stis-grady2005.png"
+  },
+  {
+   "image_id": "hd-100546_nicmos-go11155-1um",
+   "type": "disk_scattered",
+   "facility": "HST",
+   "instrument": "NICMOS (NIC2 coronagraphy)",
+   "wavelength_um": 1.1,
+   "wavelength_label": "F110W total intensity (GO-11155)",
+   "technique": "coronagraphy",
+   "survey": null,
+   "credit": "Perrin et al. 2009 AAS 213 poster (crop: HD 100546 1 um)",
+   "paper": {
+    "first_author": "Perrin",
+    "year": 2009,
+    "title": "Coronagraphic Polarimetry of Circumstellar Disks Around Herbig Ae/Be Stars: Investigating Disk Properties and Dust Grain Growth with HST NICMOS",
+    "journal": "BAAS 41, 208 (AAS 213 poster)",
+    "arxiv": null,
+    "bibcode": null
+   },
+   "file": "images/hd-100546/hd-100546_nicmos-go11155-1um.png",
+   "hires_url": "https://www.stsci.edu/~mperrin/pdfs/poster_2009AAS_NICPOL_HAEBES.pdf"
+  },
+  {
+   "image_id": "hd-100546_nicmos-go11155-pol2um",
+   "type": "disk_scattered",
+   "facility": "HST",
+   "instrument": "NICMOS (NIC2 coronagraphy)",
+   "wavelength_um": 2.0,
+   "wavelength_label": "2 um polarized intensity + vectors (GO-11155)",
+   "technique": "PDI",
+   "survey": null,
+   "credit": "Perrin et al. 2009 AAS 213 poster (crop: HD 100546 2 um pol)",
+   "paper": {
+    "first_author": "Perrin",
+    "year": 2009,
+    "title": "Coronagraphic Polarimetry of Circumstellar Disks Around Herbig Ae/Be Stars: Investigating Disk Properties and Dust Grain Growth with HST NICMOS",
+    "journal": "BAAS 41, 208 (AAS 213 poster)",
+    "arxiv": null,
+    "bibcode": null
+   },
+   "file": "images/hd-100546/hd-100546_nicmos-go11155-pol2um.png",
+   "hires_url": "https://www.stsci.edu/~mperrin/pdfs/poster_2009AAS_NICPOL_HAEBES.pdf"
   }
  ],
  "notes": null,
