@@ -2120,5 +2120,25 @@
   "status": "ingested",
   "reason": "Archival NIR classic, ADS bibcode 2026-07-08",
   "date": "2026-07-08"
+ },
+ "2003ApJ...590L..49F": {
+  "status": "ingested",
+  "reason": "New target, exploration 2026-07-08",
+  "date": "2026-07-08"
+ },
+ "1912.11301": {
+  "status": "ingested",
+  "reason": "New target, exploration 2026-07-08",
+  "date": "2026-07-08"
+ },
+ "2105.02918": {
+  "status": "ingested",
+  "reason": "New target, exploration 2026-07-08",
+  "date": "2026-07-08"
+ },
+ "2302.06500": {
+  "status": "ingested",
+  "reason": "New target, exploration 2026-07-08",
+  "date": "2026-07-08"
  }
 }
