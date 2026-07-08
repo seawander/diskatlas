@@ -418,10 +418,13 @@ if (typeof window !== "undefined") (function () {
       const pctI = Math.round(100 * st.papers_in_atlas / st.papers_known);
       wrap.title = t("lit_title").replace("{k}", st.papers_known)
         .replace("{e}", st.papers_explored).replace("{i}", st.papers_in_atlas);
-      wrap.innerHTML = '<span class="litlabel">' + t("lit_label") + " " +
+      /* collapsed behind an (i) icon: hover (or tap) reveals numbers + bar */
+      wrap.innerHTML = '<span class="liticon">ⓘ</span>' +
+        '<span class="litdetail"><span class="litlabel">' + t("lit_label") + " " +
         st.papers_in_atlas + "/" + st.papers_explored + "/" + st.papers_known + "</span>" +
         '<span class="littrack"><span class="litseg exp" style="width:' + pctE +
-        '%"></span><span class="litseg ing" style="width:' + pctI + '%"></span></span>';
+        '%"></span><span class="litseg ing" style="width:' + pctI + '%"></span></span></span>';
+      wrap.onclick = () => wrap.classList.toggle("open");
       document.getElementById("statsline").after(wrap);
     }
   }

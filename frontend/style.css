@@ -258,8 +258,13 @@ table.mtx th.sortable:hover { color: var(--accent); }
 table.mtx td.typecell { white-space: nowrap; }
 table.mtx .phost { color: var(--debris); }
 
-/* literature-exploration progress bar in the header */
+/* literature-exploration progress, collapsed behind an (i) icon
+   (hover or click the icon to reveal the numbers + bar) */
 #litbar { display: flex; align-items: center; gap: 6px; margin-top: 2px; }
+#litbar .liticon { color: var(--dim); font-size: 12px; line-height: 1; cursor: help; user-select: none; }
+#litbar:hover .liticon, #litbar.open .liticon { color: var(--accent); }
+#litbar .litdetail { display: none; align-items: center; gap: 6px; }
+#litbar:hover .litdetail, #litbar.open .litdetail { display: inline-flex; }
 #litbar .litlabel { color: var(--dim); font-size: 10.5px; white-space: nowrap; }
 #litbar .littrack { position: relative; width: 150px; height: 7px; border-radius: 4px;
   background: var(--panel2); border: 1px solid var(--line); overflow: hidden; }
