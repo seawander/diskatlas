@@ -1,10 +1,7 @@
 {
  "id": "fomalhaut",
  "name": "Fomalhaut",
- "alt_names": [
-  "alpha PsA",
-  "HD 216956"
- ],
+ "alt_names": ["alpha PsA", "HD 216956", "GJ 881", "HIP 113368", "HR 8728"],
  "simbad": "Fomalhaut",
  "ra_deg": 344.41269272,
  "dec_deg": -29.62223703,

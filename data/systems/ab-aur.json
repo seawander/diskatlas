@@ -1,9 +1,7 @@
 {
  "id": "ab-aur",
  "name": "AB Aur",
- "alt_names": [
-  "HD 31293"
- ],
+ "alt_names": ["HD 31293", "HIP 22910"],
  "simbad": "AB Aur",
  "ra_deg": 73.94102455509,
  "dec_deg": 30.55119224362,

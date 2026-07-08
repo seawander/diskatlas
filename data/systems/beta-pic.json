@@ -1,9 +1,7 @@
 {
  "id": "beta-pic",
  "name": "beta Pic",
- "alt_names": [
-  "HD 39060"
- ],
+ "alt_names": ["HD 39060", "GJ 219", "HIP 27321", "HR 2020"],
  "simbad": "beta Pic",
  "ra_deg": 86.8211987087,
  "dec_deg": -51.0665114264,

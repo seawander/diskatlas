@@ -1,10 +1,7 @@
 {
  "id": "alpha-cen-a",
  "name": "alpha Cen A",
- "alt_names": [
-  "Rigil Kentaurus",
-  "HD 128620"
- ],
+ "alt_names": ["Rigil Kentaurus", "HD 128620", "HIP 71683", "HR 5459"],
  "simbad": "alf Cen A",
  "ra_deg": 219.90205833,
  "dec_deg": -60.83399269,

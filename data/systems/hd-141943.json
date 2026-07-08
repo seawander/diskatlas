@@ -1,7 +1,9 @@
 {
  "id": "hd-141943",
  "name": "HD 141943",
- "alt_names": [],
+ "alt_names": [
+  "NZ Lup"
+ ],
  "simbad": "HD 141943",
  "ra_deg": 238.36371539942,
  "dec_deg": -42.26686410153,
@@ -93,10 +95,90 @@
     "bibcode": null
    },
    "hires_url": "https://archive.stsci.edu/prepds/alice/"
+  },
+  {
+   "type": "disk_scattered",
+   "facility": "Gemini-GPI",
+   "instrument": "IFS",
+   "wavelength_um": 1.65,
+   "wavelength_label": "H band 1.6 um (total intensity)",
+   "technique": "ADI",
+   "image_id": "nz-lup_gpies-debris",
+   "survey": "GPIES-debris",
+   "file": "images/nz-lup/nz-lup_gpies-debris.png",
+   "credit": "Esposito et al. 2020, Fig. 6 (crop)",
+   "paper": {
+    "first_author": "Esposito",
+    "year": 2020,
+    "title": "Debris Disk Results from the Gemini Planet Imager Exoplanet Survey's Polarimetric Imaging Campaign",
+    "journal": "AJ 160, 24",
+    "arxiv": "2004.13722",
+    "bibcode": "2020AJ....160...24E"
+   }
+  },
+  {
+   "image_id": "nz-lup_sphere2019",
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS",
+   "wavelength_um": 1.6,
+   "wavelength_label": "H band (near-IR)",
+   "technique": "SPHERE/IRDIS ADI + IFS",
+   "survey": null,
+   "file": "images/nz-lup/nz-lup_sphere2019.png",
+   "credit": "Boccaletti et al. 2019, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Boccaletti",
+    "year": 2019,
+    "title": "Two cold belts in the debris disk around the G-type star NZ Lup",
+    "journal": "Astronomy & Astrophysics",
+    "arxiv": "1904.02746",
+    "bibcode": "2019A&A...625A..21B"
+   }
+  },
+  {
+   "image_id": "nz-lup_nicmos2014",
+   "type": "disk_scattered",
+   "facility": "HST",
+   "instrument": "NICMOS",
+   "wavelength_um": 1.1,
+   "wavelength_label": "F110W (1.1 um) coronagraphic scattered light",
+   "technique": "coronagraphy",
+   "survey": null,
+   "credit": "Soummer et al. 2014, Fig. 2 (crop)",
+   "paper": {
+    "first_author": "Soummer",
+    "year": 2014,
+    "title": "Five Debris Disks Newly Revealed in Scattered Light from the HST NICMOS Archive",
+    "journal": "The Astrophysical Journal Letters, 786, L23",
+    "arxiv": "1404.5614",
+    "bibcode": null
+   },
+   "file": "images/nz-lup/nz-lup_nicmos2014.png"
+  },
+  {
+   "image_id": "nz-lup_sphere-rdi-xie22",
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS",
+   "wavelength_um": 1.65,
+   "wavelength_label": "total intensity (H23, RDI)",
+   "technique": "RDI",
+   "survey": null,
+   "credit": "Xie et al. 2022, Fig. 9 (crop)",
+   "paper": {
+    "first_author": "Xie",
+    "year": 2022,
+    "title": "Reference-star differential imaging on SPHERE/IRDIS",
+    "journal": "A&A 666, A32",
+    "arxiv": "2208.07915",
+    "bibcode": null
+   },
+   "file": "images/nz-lup/nz-lup_sphere-rdi-xie22.png"
   }
  ],
- "notes": "AUTO-CREATED from staging - fill metadata & coords",
- "last_updated": "2026-07-06",
+ "notes": null,
+ "last_updated": "2026-07-08",
  "plx_mas": 16.6271,
  "mags": {
   "B": 8.48,

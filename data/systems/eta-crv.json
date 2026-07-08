@@ -1,9 +1,7 @@
 {
  "id": "eta-crv",
  "name": "eta Crv",
- "alt_names": [
-  "HD 109085"
- ],
+ "alt_names": ["HD 109085", "GJ 9411", "HIP 61174", "HR 4775"],
  "simbad": "eta Crv",
  "ra_deg": 188.0176100077008,
  "dec_deg": -16.1960051709386,

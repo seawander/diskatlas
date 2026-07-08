@@ -1,7 +1,7 @@
 {
  "id": "pz-tel",
  "name": "PZ Tel",
- "alt_names": [],
+ "alt_names": ["HD 174429", "HIP 92680"],
  "simbad": "PZ Tel",
  "ra_deg": 283.2744729404,
  "dec_deg": -50.1805270659,

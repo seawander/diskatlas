@@ -1,9 +1,7 @@
 {
  "id": "pds-201",
  "name": "PDS 201",
- "alt_names": [
-  "V351 Ori"
- ],
+ "alt_names": ["V351 Ori", "HD 38238", "HIP 27059"],
  "simbad": "PDS 201",
  "ra_deg": 86.07831227347,
  "dec_deg": 0.14455839364,

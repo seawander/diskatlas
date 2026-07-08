@@ -1,10 +1,7 @@
 {
  "id": "hip-5319",
  "name": "HIP 5319",
- "alt_names": [
-  "78 Psc",
-  "HD 6680"
- ],
+ "alt_names": ["78 Psc", "HD 6680", "HR 327"],
  "simbad": "HIP 5319",
  "ra_deg": 17.0055984824,
  "dec_deg": 32.0121294021,

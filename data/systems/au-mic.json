@@ -1,9 +1,7 @@
 {
  "id": "au-mic",
  "name": "AU Mic",
- "alt_names": [
-  "HD 197481"
- ],
+ "alt_names": ["HD 197481", "GJ 803", "HIP 102409"],
  "simbad": "AU Mic",
  "ra_deg": 311.2897187392163,
  "dec_deg": -31.3408994138447,

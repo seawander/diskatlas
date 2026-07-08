@@ -1,9 +1,7 @@
 {
  "id": "49-cet",
  "name": "49 Cet",
- "alt_names": [
-  "HD 9672"
- ],
+ "alt_names": ["HD 9672", "HIP 7345", "HR 451"],
  "simbad": "49 Cet",
  "ra_deg": 23.65741115869,
  "dec_deg": -15.6763607425,

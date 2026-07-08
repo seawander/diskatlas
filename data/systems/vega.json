@@ -1,10 +1,7 @@
 {
  "id": "vega",
  "name": "Vega",
- "alt_names": [
-  "alpha Lyr",
-  "HD 172167"
- ],
+ "alt_names": ["alpha Lyr", "HD 172167", "GJ 721", "HIP 91262", "HR 7001"],
  "simbad": "Vega",
  "ra_deg": 279.23473479,
  "dec_deg": 38.78368896,

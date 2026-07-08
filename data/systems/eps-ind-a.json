@@ -1,9 +1,7 @@
 {
  "id": "eps-ind-a",
  "name": "Eps Ind A",
- "alt_names": [
-  "Epsilon Indi"
- ],
+ "alt_names": ["Epsilon Indi", "GJ 845", "HD 209100", "HIP 108870", "HR 8387"],
  "simbad": "eps Ind",
  "ra_deg": 330.8402234423433,
  "dec_deg": -56.785978554365,
