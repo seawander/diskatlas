@@ -2190,5 +2190,30 @@
   "status": "ingested",
   "reason": "Keyword-discovery new target 2026-07-08",
   "date": "2026-07-08"
+ },
+ "2012.08127": {
+  "status": "ingested",
+  "reason": "Discovery queue 2026-07-08",
+  "date": "2026-07-08"
+ },
+ "1611.06231": {
+  "status": "ingested",
+  "reason": "Discovery queue 2026-07-08",
+  "date": "2026-07-08"
+ },
+ "2109.02652": {
+  "status": "ingested",
+  "reason": "Discovery queue 2026-07-08",
+  "date": "2026-07-08"
+ },
+ "1905.11156": {
+  "status": "ingested",
+  "reason": "Discovery queue 2026-07-08",
+  "date": "2026-07-08"
+ },
+ "2606.31746": {
+  "status": "ingested",
+  "reason": "Discovery queue 2026-07-08",
+  "date": "2026-07-08"
  }
 }
