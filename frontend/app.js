@@ -1102,13 +1102,15 @@ if (typeof window !== "undefined") (function () {
     const btn = document.createElement("button");
     btn.id = "themetoggle";
     btn.title = "light / dark";
-    btn.textContent = document.body.classList.contains("light") ? "🌙" : "☀️";
+    /* icon shows the CURRENT theme (sun in light, moon in dark);
+       the button chrome follows the theme via CSS vars */
+    btn.textContent = document.body.classList.contains("light") ? "☀️" : "🌙";
     const lang = document.getElementById("lang");
     lang.parentNode.insertBefore(btn, lang.nextSibling);
     btn.onclick = () => {
       const light = document.body.classList.toggle("light");
       localStorage.setItem("atlas_theme", light ? "light" : "dark");
-      btn.textContent = light ? "🌙" : "☀️";
+      btn.textContent = light ? "☀️" : "🌙";
       refreshCOL();
       resize();                       // redraw sky with new palette
     };
