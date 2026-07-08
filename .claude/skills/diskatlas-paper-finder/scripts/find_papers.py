@@ -119,7 +119,14 @@ OBS_POS = re.compile(
 OBS_NEG = re.compile(
     r"review|theory|theoretical|simulat|hydrodynam|N-body|model(s|ing|ling)? of|"
     r"population|statistic|demograph|occurrence|architecture|evolution of dust|"
-    r"chemistry|abundance|spectral energy distribution|atmospher", re.I)
+    r"chemistry|abundance|spectral energy distribution|atmospher|"
+    # infrastructure / catalog / software / instrument-description / pure-theory noise
+    # that the backward reference axis surfaces (every atlas paper cites 2MASS, SciPy...):
+    r"catalog|all.?sky|data release|online data|vizier|"
+    r"scipy|numpy|astropy|matplotlib|software|\bpipeline\b|algorithm|"
+    r"spectrograph for|imager for|instrument for|design and performance|"
+    r"protostars and planets|pre-main-sequence evolution|gravitational instability|"
+    r"core accretion|luminosity function", re.I)
 
 
 def load_target_names(repo):
