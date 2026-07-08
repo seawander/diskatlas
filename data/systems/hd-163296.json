@@ -293,6 +293,26 @@
     "bibcode": null
    },
    "file": "images/hd-163296/hd-163296_eris2025.png"
+  },
+  {
+   "image_id": "hd-163296_hiciao2011",
+   "type": "disk_scattered",
+   "facility": "Subaru-HiCIAO",
+   "instrument": "HiCIAO",
+   "wavelength_um": 1.65,
+   "wavelength_label": "H band (pol. intensity, PI); 2011 epoch",
+   "technique": "PDI",
+   "survey": "SEEDS",
+   "credit": "Rich et al. 2019, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Rich",
+    "year": 2019,
+    "title": "Multi-epoch Direct Imaging and Time-variable Scattered Light Morphology of the HD 163296 Protoplanetary Disk",
+    "journal": "ApJ",
+    "arxiv": "1811.07785",
+    "bibcode": null
+   },
+   "file": "images/hd-163296/hd-163296_hiciao2011.png"
   }
  ],
  "notes": null,

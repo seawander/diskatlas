@@ -293,6 +293,26 @@
     "bibcode": "2019ApJ...884..108M"
    },
    "file": "images/hd-32297/hd-32297_alma-co2019.png"
+  },
+  {
+   "image_id": "hd-32297_hiciao-pdi2014",
+   "type": "disk_scattered",
+   "facility": "Subaru-HiCIAO",
+   "instrument": "HiCIAO PDI",
+   "wavelength_um": 1.65,
+   "wavelength_label": "H band (Qphi pol. intensity)",
+   "technique": "PDI",
+   "survey": null,
+   "credit": "Asensio-Torres et al. 2016, Fig. 4a (crop)",
+   "paper": {
+    "first_author": "Asensio-Torres",
+    "year": 2016,
+    "title": "Polarimetry and flux distribution in the debris disk around HD 32297",
+    "journal": "A&A 593, A73",
+    "arxiv": "1605.03984",
+    "bibcode": null
+   },
+   "file": "images/hd-32297/hd-32297_hiciao-pdi2014.png"
   }
  ],
  "notes": null,

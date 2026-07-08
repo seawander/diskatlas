@@ -11,7 +11,32 @@
  "categories": [
   "protoplanetary"
  ],
- "planets": [],
+ "planets": [
+  {
+   "name": "B",
+   "status": "refuted",
+   "note": "First imaged by Ginski et al. 2018 (arXiv:1805.02261) as a polarized point source at ~1.3\"/220 AU outside the resolved circumbinary disk, initially interpreted as a possible planetary-mass/brown-dwarf companion (~9-35 Mjup) with a circum-companion disk. A dedicated follow-up spectrum (Haffert et al. 2020, A&A 640, L12, arXiv:2007.07831, 'CS Cha B: A disc-obscured M-type star mimicking a polarised planetary companion') found CS Cha B is instead a heavily extincted M-type (very low-mass) star with its own disk, not a planet or brown dwarf. Status set to 'refuted' as a planetary-mass object per current literature; both papers cited for traceability. Distinct from the unrelated new candidate 'CS Cha c' point source reported by Follette et al. 2023 (cs-cha_magao2022 image), which was not recovered in that dataset.",
+   "method": "imaging",
+   "paper": {
+    "first_author": "Ginski",
+    "year": 2018,
+    "title": "First direct detection of a polarized companion outside of a resolved circumbinary disk around CS Cha",
+    "journal": "A&A 616, A79",
+    "arxiv": "1805.02261",
+    "bibcode": "2018A&A...616A..79G"
+   },
+   "extra_papers": [
+    {
+     "first_author": "Haffert",
+     "year": 2020,
+     "title": "CS Cha B: A disc-obscured M-type star mimicking a polarised planetary companion",
+     "journal": "A&A 640, L12",
+     "arxiv": "2007.07831",
+     "bibcode": "2020A&A...640L..12H"
+    }
+   ]
+  }
+ ],
  "images": [
   {
    "type": "disk_scattered",

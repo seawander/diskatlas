@@ -43,8 +43,28 @@
     "arxiv": "2603.01703",
     "bibcode": null
    }
+  },
+  {
+   "image_id": "doar-28_hiciao2014",
+   "type": "disk_scattered",
+   "facility": "Subaru-HiCIAO",
+   "instrument": "HiCIAO",
+   "wavelength_um": 1.65,
+   "wavelength_label": "H band (pol. intensity)",
+   "technique": "PDI",
+   "survey": "SEEDS",
+   "credit": "Rich et al. 2015, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Rich",
+    "year": 2015,
+    "title": "Near-IR Polarized Scattered Light Imagery of the DoAr 28 Transitional Disk",
+    "journal": "AJ 150, 86",
+    "arxiv": "1507.03014",
+    "bibcode": null
+   },
+   "file": "images/doar-28/doar-28_hiciao2014.png"
   }
  ],
  "notes": "SPHERE/IRDIS H-band polarimetric image, from program 0103.C-0470 (PI Benisty). Reveals the same inclined disk previously reported in scattered light by Rich et al. (2015) with HiCIAO, but the SPHERE image shows no obvious evidence of extended emission exterior to it (Garufi et al. 2026).",
- "last_updated": "2026-07-06"
+ "last_updated": "2026-07-07"
 }

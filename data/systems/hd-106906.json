@@ -204,6 +204,26 @@
     "bibcode": null
    },
    "file": "images/hd-106906/hd-106906_sphere-rdi-xie22.png"
+  },
+  {
+   "image_id": "hd-106906_visao2016",
+   "type": "planet",
+   "facility": "Magellan-MagAO",
+   "instrument": "VisAO",
+   "wavelength_um": 0.91,
+   "wavelength_label": "z' (0.91 um); companion re-detection",
+   "technique": "ADI",
+   "survey": null,
+   "credit": "Wu et al. 2016, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Wu",
+    "year": 2016,
+    "title": "Magellan AO System z', YS, and L' Observations of the Very Wide 650 AU HD 106906 Planetary System",
+    "journal": "ApJ 823, 24",
+    "arxiv": "1604.06847",
+    "bibcode": null
+   },
+   "file": "images/hd-106906/hd-106906_visao2016.png"
   }
  ],
  "notes": null,

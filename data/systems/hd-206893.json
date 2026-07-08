@@ -117,6 +117,26 @@
     "bibcode": null
    },
    "file": "images/hd-206893/hd-206893_sphere2017.png"
+  },
+  {
+   "image_id": "hd-206893_gpi2016",
+   "type": "planet",
+   "facility": "Gemini-GPI",
+   "instrument": "GPI IFS",
+   "wavelength_um": 2.03,
+   "wavelength_label": "K1 band; pyKLIP-reduced companion B detection",
+   "technique": "ADI",
+   "survey": null,
+   "credit": "Ward-Duong et al. 2020, Fig. 18 (crop)",
+   "paper": {
+    "first_author": "Ward-Duong",
+    "year": 2020,
+    "title": "Gemini Planet Imager Spectroscopy of the Dusty Substellar Companion HD 206893 B",
+    "journal": "ApJ",
+    "arxiv": "2010.10546",
+    "bibcode": null
+   },
+   "file": "images/hd-206893/hd-206893_gpi2016.png"
   }
  ],
  "notes": null,

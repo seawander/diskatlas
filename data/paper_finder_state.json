@@ -1500,5 +1500,35 @@
   "status": "ingested",
   "reason": "hd-142527_gpi-visao2022 (user batch)",
   "date": "2026-07-07"
+ },
+ "1604.06847": {
+  "status": "ingested",
+  "reason": "PF5 2026-07-08",
+  "date": "2026-07-07"
+ },
+ "1507.03014": {
+  "status": "ingested",
+  "reason": "PF5 2026-07-08",
+  "date": "2026-07-07"
+ },
+ "2502.14024": {
+  "status": "ingested",
+  "reason": "PF5 2026-07-08",
+  "date": "2026-07-07"
+ },
+ "2010.10546": {
+  "status": "ingested",
+  "reason": "PF5 2026-07-08",
+  "date": "2026-07-07"
+ },
+ "1605.03984": {
+  "status": "ingested",
+  "reason": "PF5 2026-07-08",
+  "date": "2026-07-07"
+ },
+ "1811.07785": {
+  "status": "ingested",
+  "reason": "PF5 2026-07-08",
+  "date": "2026-07-07"
  }
 }

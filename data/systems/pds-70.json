@@ -253,6 +253,26 @@
     "bibcode": null
    },
    "file": "images/pds-70/pds-70_eris2025.png"
+  },
+  {
+   "image_id": "pds-70_wfc3halpha2024",
+   "type": "planet",
+   "facility": "HST",
+   "instrument": "WFC3/UVIS",
+   "wavelength_um": 0.6563,
+   "wavelength_label": "H-alpha (F656N); planets b & c, 2024 epoch",
+   "technique": "coronagraphy",
+   "survey": null,
+   "credit": "Zhou et al. 2025, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Zhou",
+    "year": 2025,
+    "title": "Evidence for Variable Accretion onto PDS 70 c and Implications for Protoplanet Detections",
+    "journal": "ApJL",
+    "arxiv": "2502.14024",
+    "bibcode": null
+   },
+   "file": "images/pds-70/pds-70_wfc3halpha2024.png"
   }
  ],
  "notes": "Only system with two confirmed planets caught in formation inside the disk cavity.",
