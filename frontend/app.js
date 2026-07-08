@@ -839,6 +839,8 @@ if (typeof window !== "undefined") (function () {
   }
   function setView(v) {
     if (v === "sky" && currentView === "sky") facetsCollapsed = !facetsCollapsed;
+    /* re-clicking the active Coverage/Tonight tab returns to the Sky view */
+    if (v !== "sky" && v === currentView) v = "sky";
     currentView = v;
     document.querySelectorAll(".vtab").forEach(t => t.classList.toggle("on", t.dataset.v === v));
     canvas.style.display = v === "sky" ? "" : "none";
