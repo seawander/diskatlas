@@ -2035,5 +2035,15 @@
   "status": "excluded",
   "reason": "HD 142527 sparse-modeling reanalysis of same ALMA B7",
   "date": "2026-07-08"
+ },
+ "0911.1130": {
+  "status": "ingested",
+  "reason": "AB Aur NICMOS GO-11155 1um+2um pol (poster + ApJL)",
+  "date": "2026-07-08"
+ },
+ "perrin-2009-aas213-poster": {
+  "status": "ingested",
+  "reason": "GO-11155 poster: HD100546/HD142527/PDS453/PDS144N NICMOS 1um+2um pol",
+  "date": "2026-07-08"
  }
 }
