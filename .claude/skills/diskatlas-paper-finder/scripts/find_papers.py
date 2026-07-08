@@ -75,13 +75,67 @@ def fetch_citations(aid, cache_dir):
     return out
 
 
+OBS_POS = re.compile(
+    r"imag|observation|polarimetr|scattered.light|resolved|coronagraph|interferometr|"
+    r"epoch|detection|discovery|survey of|maps? of|view of|first look", re.I)
+OBS_NEG = re.compile(
+    r"review|theory|theoretical|simulat|hydrodynam|N-body|model(s|ing|ling)? of|"
+    r"population|statistic|demograph|occurrence|architecture|evolution of dust|"
+    r"chemistry|abundance|spectral energy distribution|atmospher", re.I)
+
+
+def load_target_names(repo):
+    """All atlas system names + alt names, normalized for title matching."""
+    names = set()
+    for f in glob.glob(os.path.join(repo, "data/systems/*.json")):
+        d = json.load(open(f))
+        for n in [d.get("name", "")] + (d.get("alt_names") or []):
+            n = n.strip()
+            if len(n) >= 4:
+                names.add(n.lower())
+    return names
+
+
+def rank_candidates(repo):
+    """Re-rank cached candidates: papers whose TITLE names an atlas system and reads
+    like an observation paper come first (lesson learned 2026-07-08: pure hub-score
+    ordering buries target-specific imaging papers behind reviews)."""
+    cf = os.path.join(repo, "data/paper_finder/candidates.json")
+    cands = json.load(open(cf))
+    names = load_target_names(repo)
+    state_f = os.path.join(repo, "data/paper_finder_state.json")
+    state = json.load(open(state_f)) if os.path.exists(state_f) else {}
+    for c in cands:
+        title = (c.get("title") or "")
+        tl = title.lower()
+        c["target_match"] = next((n for n in names if n in tl), None)
+        c["obs_score"] = (2 if OBS_POS.search(title) else 0) - (2 if OBS_NEG.search(title) else 0)
+        c["done"] = (c.get("arxiv") or c.get("s2")) in state
+    cands.sort(key=lambda c: (c["done"], c["target_match"] is None,
+                              -c["obs_score"], -c["n_seed_citations"], -(c.get("year") or 0)))
+    json.dump(cands, open(cf, "w"), indent=1)
+    fresh = [c for c in cands if not c["done"]]
+    tm = [c for c in fresh if c["target_match"]]
+    print(f"re-ranked {len(cands)} candidates: {len(tm)} undispositioned TARGET-MATCH "
+          f"papers now lead the queue (of {len(fresh)} undispositioned)")
+    for c in tm[:30]:
+        print(f"  [{c['target_match']:<16.16s}] obs={c['obs_score']:+d} hub={c['n_seed_citations']:3d} "
+              f"{c.get('arxiv') or 'no-arxiv':<14s} {(c.get('title') or '')[:66]}")
+
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--repo", required=True)
     ap.add_argument("--max-seeds", type=int, default=0, help="0 = all")
     ap.add_argument("--min-year", type=int, default=2010)
     ap.add_argument("--mark", nargs=3, metavar=("ARXIV", "STATUS", "REASON"))
+    ap.add_argument("--rank", action="store_true",
+                    help="re-rank cached candidates (target-match first); no fetching")
     a = ap.parse_args()
+
+    if a.rank:
+        rank_candidates(a.repo)
+        return
 
     state_f = os.path.join(a.repo, "data/paper_finder_state.json")
     state = json.load(open(state_f)) if os.path.exists(state_f) else {}

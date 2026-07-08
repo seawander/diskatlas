@@ -176,3 +176,11 @@ candidates by how many distinct atlas seeds they cite. Use it to bulk-populate t
 frontier; triage, target/instrument expansion, link resolution, and the final plain
 URL list still follow the rules above. Dispositions go in
 `data/paper_finder_state.json` via `--mark <arxiv> ingested|excluded "<reason>"`.
+
+**Triage order (lesson from 2026-07-08):** raw hub-score ordering buries
+target-specific observation papers (hub ~5-10) behind reviews and theory (hub 15-40) —
+two MWC 758 imaging papers sat at rank ~650 for a day. ALWAYS run
+`scripts/find_papers.py --repo <root> --rank` after harvesting (and after every batch
+of `--mark`s): it re-sorts candidates.json so that undispositioned papers whose TITLE
+names an atlas system and reads like an observation paper come first, and it hides
+already-dispositioned entries at the bottom. Work the queue in that order.

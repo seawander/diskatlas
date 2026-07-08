@@ -104,7 +104,7 @@ function sysShape(key) { return SYS_SHAPE[key] || "circle"; }
 function sysGlyph(key) { return SYS_GLYPH[key] || "●"; }
 /* wavelength bands (ordered): a record falls in the first band it is < max of */
 const WL_BANDS = [
-  { key: "opt", label: "Optical", sub: "<1μm", max: 1 },
+  { key: "opt", label: "Visible", sub: "<1μm", max: 1 },
   { key: "nir", label: "NIR", sub: "1–5μm", max: 5 },
   { key: "mir", label: "MIR", sub: "5–300μm", max: 300 },
   { key: "mm", label: "mm", sub: ">0.3mm", max: Infinity }

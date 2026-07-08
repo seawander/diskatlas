@@ -288,6 +288,66 @@
     "bibcode": null
    },
    "file": "images/mwc-758/mwc-758_sphere-rdi-xie22.png"
+  },
+  {
+   "image_id": "mwc-758_exoalma-co",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 7 (12CO)",
+   "wavelength_um": 867,
+   "wavelength_label": "12CO 3-2 peak intensity",
+   "technique": "interferometry",
+   "survey": "exoALMA",
+   "credit": "Teague et al. 2025 (exoALMA I), Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Teague",
+    "year": 2025,
+    "title": "exoALMA I. Science Goals, Project Design and Data Products",
+    "journal": "ApJL (exoALMA Focus Issue)",
+    "arxiv": "2504.18688",
+    "bibcode": null
+   },
+   "file": "images/mwc-758/mwc-758_exoalma-co.png"
+  },
+  {
+   "image_id": "mwc-758_nicmos-ren18",
+   "type": "disk_scattered",
+   "facility": "HST",
+   "instrument": "NICMOS",
+   "wavelength_um": 1.1,
+   "wavelength_label": "F110W 1.1 um (archival, RDI-style NMF reduction)",
+   "technique": "RDI",
+   "survey": null,
+   "credit": "Ren et al. 2018, Fig. 1a (crop)",
+   "paper": {
+    "first_author": "Ren",
+    "year": 2018,
+    "title": "A Decade of MWC 758 Disk Images: Where Are the Spiral-Arm-Driving Planets?",
+    "journal": "ApJL",
+    "arxiv": "1803.06776",
+    "bibcode": null
+   },
+   "file": "images/mwc-758/mwc-758_nicmos-ren18.png"
+  },
+  {
+   "image_id": "mwc-758_ren2020",
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS",
+   "wavelength_um": 1.04,
+   "wavelength_label": "Y band 1.04 um (Stokes Qphi, two epochs: 2015 Mar 4 + 2019 Nov 18)",
+   "technique": "PDI",
+   "survey": null,
+   "credit": "Ren et al. 2020, Fig. 1a-b (crop)",
+   "paper": {
+    "first_author": "Ren",
+    "year": 2020,
+    "title": "Dynamical Evidence of a Spiral Arm-Driving Planet in the MWC 758 Protoplanetary Disk",
+    "journal": "ApJL",
+    "arxiv": "2007.04980",
+    "bibcode": null
+   },
+   "file": "images/mwc-758/mwc-758_ren2020.png"
   }
  ],
  "notes": null,

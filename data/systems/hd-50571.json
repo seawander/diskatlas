@@ -11,7 +11,20 @@
  "categories": [
   "debris"
  ],
- "planets": [],
+ "planets": [
+  {
+   "name": "B",
+   "status": "confirmed",
+   "method": "imaging",
+   "note": "Brown dwarf companion (~30 Mjup), projected separation ~20.3 au, orbiting near the inner edge of the HR 2562 debris disk.",
+   "paper": {
+    "first_author": "Konopacky",
+    "year": 2016,
+    "arxiv": "1608.06660",
+    "bibcode": "2016ApJ...829L...4K"
+   }
+  }
+ ],
  "images": [
   {
    "type": "disk_mm",
@@ -35,7 +48,7 @@
   }
  ],
  "notes": "AUTO-CREATED from staging - fill metadata & coords",
- "last_updated": "2026-07-06",
+ "last_updated": "2026-07-08",
  "plx_mas": 29.4738,
  "mags": {
   "B": 6.548,

@@ -1,0 +1,45 @@
+{
+ "id": "zz-tau-irs",
+ "name": "ZZ Tau IRS",
+ "alt_names": [],
+ "simbad": "ZZ Tau IRS",
+ "ra_deg": 67.7155036202,
+ "dec_deg": 24.6965157129,
+ "dist_pc": 130.7,
+ "plx_mas": 9.4606,
+ "sptype": "M5IVe",
+ "region": "Taurus",
+ "categories": [
+  "protoplanetary"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "image_id": "zz-tau-irs_hst2024",
+   "type": "disk_scattered",
+   "facility": "HST",
+   "instrument": "WFC3 F160W",
+   "wavelength_um": 1.6,
+   "wavelength_label": "1.6 um (F160W, PSF-subtracted scattered light)",
+   "technique": "other",
+   "survey": null,
+   "credit": "Hashimoto et al. 2024, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Hashimoto",
+    "year": 2024,
+    "title": "Shadowing in the protoplanetary disk of ZZ Tau IRS with HST",
+    "journal": "ApJ",
+    "arxiv": "2401.02004",
+    "bibcode": null
+   },
+   "file": "images/zz-tau-irs/zz-tau-irs_hst2024.png"
+  }
+ ],
+ "notes": "Distance adopted as 130.7 pc following Hashimoto et al. 2024 (they reject the Gaia DR3 parallax distance of 105.7 pc due to a poor astrometric solution, RUWE=2.49). HST WFC3 image reveals a dark lane (disk midplane) and shadow-driven brightness asymmetries from a misaligned inner disk; outer disk extends to ~300 au.",
+ "last_updated": "2026-07-07",
+ "mags": {
+  "J": 12.842,
+  "H": 11.435,
+  "K": 10.314
+ }
+}

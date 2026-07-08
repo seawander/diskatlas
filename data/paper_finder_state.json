@@ -1237,8 +1237,8 @@
   "date": "2026-07-07"
  },
  "2504.18688": {
-  "status": "excluded",
-  "reason": "exoALMA I overview: continuum images ingested via exoALMA IV",
+  "status": "ingested",
+  "reason": "exoALMA I: Fig.1 12CO gallery added as <sid>_exoalma-co records (continuum stays on exoALMA IV per its own deferral)",
   "date": "2026-07-07"
  },
  "2410.03932": {
@@ -1344,6 +1344,61 @@
  "1604.01411": {
   "status": "excluded",
   "reason": "HD 95086 b GPI: primarily spectroscopy (image via PF4 ALMA/companion check if any)",
+  "date": "2026-07-07"
+ },
+ "2006.16131": {
+  "status": "excluded",
+  "reason": "HR 4796A multiband GPI: GPI family already represented (Perrin pol + Hom totI)",
+  "date": "2026-07-07"
+ },
+ "1806.02904": {
+  "status": "excluded",
+  "reason": "HD 35841 GPI+STIS: both families already represented",
+  "date": "2026-07-07"
+ },
+ "1811.10365": {
+  "status": "excluded",
+  "reason": "HD 100546 high-res ALMA: ALMA family already represented",
+  "date": "2026-07-07"
+ },
+ "1804.05934": {
+  "status": "excluded",
+  "reason": "LkHa 330 HiCIAO HKs: HiCIAO already represented (SEEDS panel)",
+  "date": "2026-07-07"
+ },
+ "1310.7026": {
+  "status": "excluded",
+  "reason": "ADI self-subtraction methods paper",
+  "date": "2026-07-07"
+ },
+ "2408.09038": {
+  "status": "excluded",
+  "reason": "HD 34700 SCExAO/CHARIS: instrument already represented (Uyama 2020)",
+  "date": "2026-07-07"
+ },
+ "2004.06027": {
+  "status": "excluded",
+  "reason": "HD 32297 GPI: GPI family already represented",
+  "date": "2026-07-07"
+ },
+ "1910.12868": {
+  "status": "excluded",
+  "reason": "HD 163296 grain-size analysis of existing ALMA data",
+  "date": "2026-07-07"
+ },
+ "1811.08858": {
+  "status": "excluded",
+  "reason": "HD 115600 SPHERE: family already represented (sweep verdict)",
+  "date": "2026-07-07"
+ },
+ "1803.06776": {
+  "status": "ingested",
+  "reason": "user-requested MWC 758 records 2026-07-08",
+  "date": "2026-07-07"
+ },
+ "2007.04980": {
+  "status": "ingested",
+  "reason": "user-requested MWC 758 records 2026-07-08",
   "date": "2026-07-07"
  }
 }

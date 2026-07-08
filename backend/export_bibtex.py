@@ -1,39 +1,41 @@
 #!/usr/bin/env python3
-"""Export the atlas bibliography to BibTeX.
+"""Export the atlas bibliography to BibTeX, exclusively from NASA ADS.
 
 Collects every paper block referenced by data/systems/*.json
 (images[].paper, planets[].paper, planets[].extra_papers), dedups by
-arXiv id / bibcode, fetches verified metadata (titles, full author
-lists, DOIs) from the arXiv API -- which simultaneously validates every
-arXiv id -- and from Crossref for the pre-arXiv papers, then writes one
-@article entry per paper.
+arXiv id / bibcode, resolves every paper to an ADS bibcode (stored
+bibcode, else ADS identifier search on the arXiv id), then fetches the
+official ADS BibTeX export for all of them. Entry contents are kept
+byte-for-byte as ADS provides them (the format used by Ren et al. 2024
+and the aastex_pwned aasjournal.bst); only the citation keys are
+rewritten from bibcodes to stable ASCII keys (FirstauthorYear with
+a/b/c disambiguation) so they can be cited from the manuscript.
 
-Journal / volume / page fields are parsed from the ADS bibcode when one
-is stored (the most reliable source), falling back to the free-text
-"journal" string in the record or the arXiv journal_ref.
+Verification: each exported entry's first-author family name and year
+must match the atlas record, and its eprint (when present) must match
+the stored arXiv id. Mismatches are reported and the script exits
+non-zero.
+
+Auth: uses an ADS API token from --token / $ADS_TOKEN when available,
+otherwise bootstraps the same anonymous session token the ADS website
+uses for its own export function.
 
 Usage:
     python3 backend/export_bibtex.py [-o OUT.bib] [--cache CACHE.json]
-
-The cache file stores raw arXiv/Crossref responses so reruns are
-offline. Exit status is non-zero if any record fails verification
-(first-author or year mismatch against the fetched metadata).
 """
 import argparse
 import json
+import os
 import re
 import sys
 import time
 import unicodedata
 import urllib.parse
 import urllib.request
-import xml.etree.ElementTree as ET
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
-MAILTO = "diskatlas@example.org"
-ATOM = "{http://www.w3.org/2005/Atom}"
-ARXIV_NS = "{http://arxiv.org/schemas/atom}"
+API = "https://api.adsabs.harvard.edu/v1"
 
 # ---------------------------------------------------------------- collect
 
@@ -76,365 +78,197 @@ def collect_papers():
         merged.append(m)
     return merged
 
-# ------------------------------------------------------------------ fetch
+# ------------------------------------------------------------------- ADS
 
-def http_get(url, retries=2):
-    req = urllib.request.Request(url, headers={"User-Agent": f"diskatlas-bibtex ({MAILTO})"})
-    for i in range(retries + 1):
+def http(url, token, payload=None):
+    req = urllib.request.Request(
+        url, headers={"Authorization": f"Bearer {token}",
+                      "Content-Type": "application/json",
+                      "User-Agent": "diskatlas-bibtex"},
+        data=json.dumps(payload).encode() if payload is not None else None)
+    for attempt in range(3):
         try:
-            with urllib.request.urlopen(req, timeout=60) as r:
-                return r.read().decode("utf-8")
+            with urllib.request.urlopen(req, timeout=90) as r:
+                return json.loads(r.read().decode("utf-8"))
         except Exception as e:
-            if i == retries:
+            if attempt == 2:
                 raise
             print(f"  retry after error: {e}", file=sys.stderr)
-            time.sleep(5)
+            time.sleep(8)
 
 
-def fetch_arxiv(ids, cache):
-    """Fetch title/authors/doi/journal_ref for each arXiv id via the API."""
-    todo = [i for i in ids if i not in cache]
-    for i in range(0, len(todo), 100):
-        batch = todo[i:i + 100]
-        url = ("https://export.arxiv.org/api/query?id_list="
-               + urllib.parse.quote(",".join(batch)) + f"&max_results={len(batch)}")
-        print(f"arXiv API: fetching {len(batch)} ids ...", file=sys.stderr)
-        feed = ET.fromstring(http_get(url))
-        for entry in feed.findall(ATOM + "entry"):
-            eid = entry.findtext(ATOM + "id") or ""
-            m = re.search(r"arxiv\.org/abs/(.+?)(v\d+)?$", eid)
-            if not m:
-                continue  # error placeholder entry
-            aid = m.group(1)
-            cache[aid] = {
-                "title": re.sub(r"\s+", " ", entry.findtext(ATOM + "title") or "").strip(),
-                "authors": [a.findtext(ATOM + "name") for a in entry.findall(ATOM + "author")],
-                "published": entry.findtext(ATOM + "published") or "",
-                "doi": entry.findtext(ARXIV_NS + "doi"),
-                "journal_ref": entry.findtext(ARXIV_NS + "journal_ref"),
-            }
-        time.sleep(3)  # arXiv API rate-limit etiquette
-    return cache
+def get_token(args):
+    if args.token:
+        return args.token
+    if os.environ.get("ADS_TOKEN"):
+        return os.environ["ADS_TOKEN"]
+    # anonymous session token, as used by the ADS web UI itself
+    with urllib.request.urlopen("https://ui.adsabs.harvard.edu/v1/accounts/bootstrap",
+                                timeout=60) as r:
+        return json.loads(r.read().decode())["access_token"]
 
 
-def fetch_crossref_doi(doi, cache):
-    """Resolve journal/volume/page for a known DOI (upgrade in-press entries)."""
-    if doi in cache:
-        return cache[doi]
-    url = f"https://api.crossref.org/works/{urllib.parse.quote(doi)}?mailto={MAILTO}"
-    print(f"Crossref DOI: {doi} ...", file=sys.stderr)
-    try:
-        it = json.loads(http_get(url, retries=1))["message"]
-    except Exception:
-        cache[doi] = None
+def resolve_bibcodes(ids, token, cache):
+    """Fill cache['arx2bib'] mapping arXiv id -> ADS bibcode."""
+    a2b = cache.setdefault("arx2bib", {})
+    todo = sorted({a for a in ids if a and a not in a2b})
+    for i in range(0, len(todo), 40):
+        batch = todo[i:i + 40]
+        q = "identifier:(" + " OR ".join(f'"arXiv:{a}"' for a in batch) + ")"
+        url = (f"{API}/search/query?q={urllib.parse.quote(q)}"
+               f"&fl=bibcode,identifier&rows={4 * len(batch)}")
+        print(f"ADS search: resolving {len(batch)} arXiv ids ...", file=sys.stderr)
+        docs = http(url, token)["response"]["docs"]
+        for d in docs:
+            idents = [x.lower() for x in d.get("identifier", [])]
+            for a in batch:
+                if f"arxiv:{a.lower()}" in idents or a.lower() in idents:
+                    a2b[a] = d["bibcode"]
         time.sleep(1)
-        return None
-    res = {
-        "container": (it.get("container-title") or [None])[0],
-        "volume": it.get("volume"),
-        "page": it.get("article-number") or it.get("page"),
-        "family": (it.get("author") or [{}])[0].get("family", ""),
-        "year": (it.get("issued", {}).get("date-parts") or [[None]])[0][0],
-    }
-    cache[doi] = res
-    time.sleep(1)
-    return res
+    return a2b
 
 
-def fetch_crossref(paper, cache):
-    """Look up a non-arXiv paper on Crossref; verify before accepting."""
-    key = paper.get("bibcode") or paper.get("title")
-    if key in cache:
-        return cache[key]
-    bc = parse_bibcode(paper.get("bibcode") or "")
-    terms = [paper.get("first_author", ""), str(paper.get("year", ""))]
-    if paper.get("title"):
-        terms.append(paper["title"])
-    elif bc:
-        terms += [bc["journal_raw"], bc["volume"], bc["page"]]
-    q = urllib.parse.quote(" ".join(t for t in terms if t))
-    url = (f"https://api.crossref.org/works?query.bibliographic={q}&rows=5"
-           "&select=DOI,title,author,container-title,volume,page,issued"
-           f"&mailto={MAILTO}")
-    print(f"Crossref: {paper.get('first_author')} {paper.get('year')} ...", file=sys.stderr)
-    items = json.loads(http_get(url))["message"]["items"]
-    fam = fold(paper.get("first_author", ""))
-    for it in items:
-        auth = it.get("author") or []
-        if not auth or fold(auth[0].get("family", "")) != fam:
-            continue
-        yr = (it.get("issued", {}).get("date-parts") or [[None]])[0][0]
-        if yr is None or abs(int(yr) - int(paper["year"])) > 1:
-            continue
-        if bc and it.get("volume") and it["volume"] != bc["volume"]:
-            continue
-        res = {
-            "title": (it.get("title") or [None])[0],
-            "authors": [f"{a.get('given', '')} {a.get('family', '')}".strip() for a in auth],
-            "doi": it.get("DOI"),
-        }
-        cache[key] = res
+def fetch_export(bibcodes, token, cache):
+    """Fetch ADS BibTeX for all bibcodes; cache maps bibcode -> entry text."""
+    ent = cache.setdefault("export", {})
+    todo = [b for b in bibcodes if b not in ent]
+    for i in range(0, len(todo), 400):
+        batch = todo[i:i + 400]
+        print(f"ADS export: fetching {len(batch)} BibTeX entries ...", file=sys.stderr)
+        out = http(f"{API}/export/bibtex", token, {"bibcode": batch})["export"]
+        for block in re.split(r"\n(?=@)", out):
+            block = block.strip()
+            m = re.match(r"@[A-Za-z]+\{([^,]+),", block)
+            if m:
+                ent[m.group(1)] = block
         time.sleep(1)
-        return res
-    cache[key] = None
-    time.sleep(1)
-    return None
+    return ent
 
-# ------------------------------------------------------------- formatting
-
-# ADS bibcode journal code -> BibTeX journal field (AASTeX macros where defined)
-BIBCODE_JOURNALS = {
-    "ApJ": "\\apj", "ApJS": "\\apjs", "AJ": "\\aj", "A&A": "\\aap",
-    "MNRAS": "\\mnras", "PASJ": "\\pasj", "PASP": "\\pasp",
-    "Natur": "\\nat", "Sci": "Science", "NatAs": "Nature Astronomy",
-    "SciA": "Science Advances", "PJAB": "Proceedings of the Japan Academy, Series B",
-    "ARA&A": "\\araa", "Icar": "\\icarus", "ApL": "\\aplett",
-}
-# free-text journal names -> (bibtex journal, is_letters)
-TEXT_JOURNALS = {
-    "apj": ("\\apj", False), "the astrophysical journal": ("\\apj", False),
-    "astrophysical journal": ("\\apj", False),
-    "apjl": ("\\apjl", True), "apj letters": ("\\apjl", True),
-    "apj (letters)": ("\\apjl", True),
-    "the astrophysical journal letters": ("\\apjl", True),
-    "apjs": ("\\apjs", False),
-    "aj": ("\\aj", False), "the astronomical journal": ("\\aj", False),
-    "a&a": ("\\aap", False), "astronomy & astrophysics": ("\\aap", False),
-    "astronomy and astrophysics": ("\\aap", False),
-    "a&a letters": ("\\aap", True), "astronomy & astrophysics (letters)": ("\\aap", True),
-    "mnras": ("\\mnras", False), "pasj": ("\\pasj", False), "pasp": ("\\pasp", False),
-    "nature": ("\\nat", False), "science": ("Science", False),
-    "nature astronomy": ("Nature Astronomy", False),
-    "proc. japan acad. ser. b": ("Proceedings of the Japan Academy, Series B", False),
-    "the astrophysical journal supplement series": ("\\apjs", False),
-    "the astrophysical journal supplement": ("\\apjs", False),
-    "monthly notices of the royal astronomical society": ("\\mnras", False),
-    "publications of the astronomical society of japan": ("\\pasj", False),
-    "publications of the astronomical society of the pacific": ("\\pasp", False),
-}
-
-
-def parse_bibcode(bc):
-    """YYYYJJJJJVVVVMPPPPA -> journal/volume/page (ADS bibcode spec)."""
-    if len(bc) != 19:
-        return None
-    jr = bc[4:9].strip(".")
-    vol = bc[9:13].lstrip(".")
-    qual = bc[13]
-    page = bc[14:18].lstrip(".")
-    if not (vol.isdigit() and jr):
-        return None
-    letters = False
-    if qual == "L":
-        letters = True
-        page = "L" + page
-    elif qual.isdigit():          # most-significant digit of a 5-digit page
-        page = qual + page
-    elif qual != ".":             # e.g. 'A' for A&A article ids
-        page = qual + page
-    journal = BIBCODE_JOURNALS.get(jr, jr)
-    if letters and jr == "ApJ":
-        journal = "\\apjl"
-    return {"journal": journal, "journal_raw": jr, "volume": vol, "page": page}
-
-
-def parse_journal_text(s):
-    """Parse strings like 'A&A 693, A151' or 'ApJL (accepted)'."""
-    if not s:
-        return None
-    s = re.sub(r"\s*\(.*?\)\s*$", "", s.strip())  # drop trailing '(2025)', '(accepted)'
-    m = re.match(r"^([A-Za-z&.()\s]+?)\s+(\d+),\s*([A-Za-z]?\d+)\.?$", s)
-    name, vol, page = (m.group(1), m.group(2), m.group(3)) if m else (s, None, None)
-    jt = TEXT_JOURNALS.get(name.strip().rstrip(".").lower())
-    if jt is None:
-        return None
-    journal, letters = jt
-    if letters and page and not page[0].isalpha():
-        page = "L" + page
-    return {"journal": journal, "volume": vol, "page": page}
-
-
-COMBINING = {
-    "̀": "\\`", "́": "\\'", "̂": "\\^", "̃": "\\~",
-    "̄": "\\=", "̆": "\\u", "̇": "\\.", "̈": "\\\"",
-    "̊": "\\r", "̋": "\\H", "̌": "\\v", "̧": "\\c",
-    "̨": "\\k",
-}
-SPECIAL = {"ø": "{\\o}", "Ø": "{\\O}", "æ": "{\\ae}", "Æ": "{\\AE}",
-           "ß": "{\\ss}", "ł": "{\\l}", "Ł": "{\\L}", "ð": "{\\dh}",
-           "þ": "{\\th}", "œ": "{\\oe}", "Œ": "{\\OE}", "ı": "{\\i}",
-           "\u2013": "--", "\u2014": "---", "\u2019": "'", "\u2018": "'",
-           "\u201c": "``", "\u201d": "''", "\u00a0": "~"}
-
-
-def latexify(s):
-    """Transliterate unicode to LaTeX-safe ASCII and escape specials."""
-    if s is None:
-        return ""
-    out = []
-    for ch in s:
-        if ch in SPECIAL:
-            out.append(SPECIAL[ch])
-            continue
-        if ord(ch) < 128:
-            out.append(ch)
-            continue
-        dec = unicodedata.normalize("NFD", ch)
-        if len(dec) >= 2 and dec[1] in COMBINING:
-            out.append("{" + COMBINING[dec[1]] + dec[0] + "}")
-        else:
-            out.append(unicodedata.normalize("NFKD", ch).encode("ascii", "ignore").decode() or "?")
-    s = "".join(out)
-    s = re.sub(r"(?<!\\)([&%#_])", r"\\\1", s)
-    return s
-
+# ------------------------------------------------------------ verification
 
 def ascii_fold(s):
-    """Accent- and case-insensitive form (for citekeys)."""
     return "".join(c for c in unicodedata.normalize("NFD", s or "")
                    if not unicodedata.combining(c)).lower().replace("-", " ").strip()
 
 
 def fold(s):
-    """Looser comparison form: additionally folds German transliterations
-    ae/oe/ue so 'Neuhauser' matches 'Neuhaeuser'. Never use for citekeys
-    (it would turn 'Bae' into 'Ba')."""
+    """Loose comparison: accents stripped, TeX accents dropped, ae/oe/ue folded."""
+    s = re.sub(r"\\[`'^\"~=.uvHckro]\s?", "", s or "")   # TeX accent macros
+    s = re.sub(r"[{}\\]", "", s)
     s = ascii_fold(s)
     for a, b in (("ae", "a"), ("oe", "o"), ("ue", "u")):
         s = s.replace(a, b)
     return s
 
 
-def author_field(names, cap=20):
-    names = [n for n in names if n]
-    if len(names) > cap:
-        names = names[:cap] + ["others"]
-    fixed = []
-    for n in names:
-        # Crossref sometimes returns all-caps family names ("TAMURA")
-        toks = [t.capitalize() if t.isalpha() and t.isupper() and len(t) > 3 else t
-                for t in n.split()]
-        fixed.append(" ".join(toks))
-    # BibTeX parses natural "First von Last" order, so no reordering needed.
-    return " and ".join(latexify(n) for n in fixed)
+def entry_first_author_year(block):
+    au = re.search(r"author\s*=\s*\{(.*?)\}\s*,\s*\n", block, re.S)
+    first = au.group(1).split(" and ")[0] if au else ""
+    fam = first.split(",")[0] if "," in first else first
+    yr = re.search(r"year\s*=\s*\{?\"?(\d{4})", block)
+    return fam, int(yr.group(1)) if yr else None
+
+
+def verify(p, block, label):
+    problems = []
+    fam, yr = entry_first_author_year(block)
+    # record first_author may be "Liu, W. M." -- keep only the family part
+    rec_fam = fold(p.get("first_author", "").split(",")[0])
+    if rec_fam and "collaboration" not in rec_fam:
+        if rec_fam.split()[-1] not in fold(fam):
+            problems.append(f"first-author mismatch {label}: record "
+                            f"'{p.get('first_author')}' vs ADS '{fam}'")
+    if yr and abs(int(p["year"]) - yr) > 1:
+        problems.append(f"year mismatch {label}: record {p['year']} vs ADS {yr}")
+    ep = re.search(r"eprint\s*=\s*\{([^}]+)\}", block)
+    if ep and p.get("arxiv") and ep.group(1).strip() != p["arxiv"].strip():
+        problems.append(f"eprint mismatch {label}: record {p['arxiv']} "
+                        f"vs ADS {ep.group(1)}")
+    return problems
 
 # ----------------------------------------------------------------- main
 
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("-o", "--out", default=str(ROOT / "paper_Overleaf" / "references.bib"))
-    ap.add_argument("--cache", default=None, help="JSON cache for API responses")
+    ap.add_argument("--cache", default=None, help="JSON cache for ADS responses")
+    ap.add_argument("--token", default=None, help="ADS API token (else $ADS_TOKEN, "
+                                                  "else anonymous session token)")
     args = ap.parse_args()
 
     papers = collect_papers()
     print(f"{len(papers)} distinct papers", file=sys.stderr)
 
-    cache = {"arxiv": {}, "crossref": {}}
+    cache = {}
     if args.cache and Path(args.cache).exists():
         cache = json.loads(Path(args.cache).read_text())
 
-    arxiv_ids = [p["arxiv"].strip() for p in papers if p.get("arxiv")]
-    fetch_arxiv(arxiv_ids, cache["arxiv"])
+    token = get_token(args)
+    a2b = resolve_bibcodes([p["arxiv"].strip() for p in papers
+                            if p.get("arxiv") and not p.get("bibcode")],
+                           token, cache)
     if args.cache:
         Path(args.cache).write_text(json.dumps(cache))
 
-    problems = []
-    entries = []
+    problems, resolved = [], []
     for p in papers:
-        aid = (p.get("arxiv") or "").strip()
-        meta = cache["arxiv"].get(aid) if aid else None
-        if aid and not meta:
-            problems.append(f"arXiv id NOT FOUND on arXiv: {aid} ({p.get('first_author')} {p.get('year')})")
+        bib = (p.get("bibcode") or "").strip() or a2b.get((p.get("arxiv") or "").strip())
+        if not bib:
+            problems.append(f"unresolved on ADS: {p.get('first_author')} "
+                            f"{p.get('year')} arXiv:{p.get('arxiv')}")
             continue
-        if not aid:
-            meta = fetch_crossref(p, cache["crossref"])
-            if args.cache:
-                Path(args.cache).write_text(json.dumps(cache))
-        # --- verification against fetched metadata
-        bad_id = False
-        if meta and meta.get("authors") and "collaboration" not in fold(p.get("first_author", "")):
-            fam = fold(p.get("first_author", ""))
-            if fam and fam.split()[-1] not in fold(meta["authors"][0]):
-                problems.append(f"first-author mismatch {aid or p.get('bibcode')}: "
-                                f"record '{p.get('first_author')}' vs fetched '{meta['authors'][0]}'"
-                                " -- fetched metadata discarded, fix the record")
-                bad_id = True
-                meta = None  # do not attach the wrong paper's metadata
-        if meta and meta.get("published"):
-            v1_year = int(meta["published"][:4])
-            if abs(int(p["year"]) - v1_year) > 1:
-                problems.append(f"year mismatch {aid}: record {p['year']} vs arXiv v1 {v1_year}")
-        # --- assemble fields
-        title = p.get("title") or (meta or {}).get("title")
-        struct = parse_bibcode((p.get("bibcode") or "").strip())
-        if not struct:
-            struct = parse_journal_text(p.get("journal"))
-        if not struct and meta and meta.get("journal_ref"):
-            struct = parse_journal_text(meta["journal_ref"])
-        if not struct and meta and meta.get("doi"):
-            # published (has a DOI) but no bibcode/journal_ref yet: ask Crossref
-            cx = fetch_crossref_doi(meta["doi"], cache.setdefault("crossref_doi", {}))
-            if args.cache:
-                Path(args.cache).write_text(json.dumps(cache))
-            if cx and cx.get("container"):
-                ok_fam = fold(p.get("first_author", "")) in fold(cx.get("family", "")) \
-                    or "collaboration" in fold(p.get("first_author", ""))
-                ok_year = cx.get("year") and abs(int(cx["year"]) - int(p["year"])) <= 1
-                jt = TEXT_JOURNALS.get(cx["container"].strip().lower())
-                if ok_fam and ok_year and jt:
-                    struct = {"journal": jt[0], "volume": cx.get("volume"),
-                              "page": cx.get("page")}
-        if not struct:
-            struct = {"journal": "arXiv e-prints", "volume": None, "page": None}
-        entries.append({
-            "paper": p, "meta": meta or {}, "title": title, "struct": struct,
-            "bad_id": bad_id,
-            "authors": (meta or {}).get("authors") or [p.get("first_author", "") + " and others"],
-        })
+        resolved.append((p, bib))
 
-    # --- citekeys: FirstauthorYear with a/b/c disambiguation
-    def base_key(e):
-        fam = ascii_fold(e["paper"].get("first_author", "anon")).split()[-1]
-        return "".join(c for c in fam.capitalize() if c.isalnum()) + str(e["paper"].get("year", ""))
+    entries = fetch_export([b for _, b in resolved], token, cache)
+
+    # retry pass: stored/stale bibcodes ADS no longer exports (e.g. arXiv
+    # bibcodes merged into the published record) -- re-resolve via arXiv id
+    stale = [(p, bib) for p, bib in resolved
+             if bib not in entries and p.get("arxiv")]
+    if stale:
+        for a in [p["arxiv"].strip() for p, _ in stale]:
+            cache.get("arx2bib", {}).pop(a, None)
+        a2b = resolve_bibcodes([p["arxiv"].strip() for p, _ in stale], token, cache)
+        remap = {old: a2b.get(p["arxiv"].strip()) for p, old in stale}
+        resolved = [(p, remap.get(b) or b) for p, b in resolved]
+        fetch_export([b for _, b in resolved if b not in entries], token, cache)
+    if args.cache:
+        Path(args.cache).write_text(json.dumps(cache))
+
+    out_entries = []
+    for p, bib in resolved:
+        block = entries.get(bib)
+        if not block:
+            problems.append(f"no ADS export for {bib} ({p.get('first_author')} "
+                            f"{p.get('year')} arXiv:{p.get('arxiv')})")
+            continue
+        problems += verify(p, block, bib)
+        out_entries.append({"paper": p, "bibcode": bib, "block": block})
+
+    # stable ASCII citekeys: FirstauthorYear with a/b/c disambiguation
     from collections import defaultdict
     bykey = defaultdict(list)
-    for e in entries:
-        bykey[base_key(e)].append(e)
-    for k, grp in bykey.items():
-        if len(grp) == 1:
-            grp[0]["key"] = k
-        else:
-            grp.sort(key=lambda e: (e["paper"].get("arxiv") or "", e["paper"].get("bibcode") or ""))
-            for i, e in enumerate(grp):
-                e["key"] = k + "abcdefghij"[i]
+    for e in out_entries:
+        fam = ascii_fold(e["paper"].get("first_author", "anon")
+                         .split(",")[0]).split()[-1]
+        key = "".join(c for c in fam.capitalize() if c.isalnum()) \
+            + str(e["paper"].get("year", ""))
+        bykey[key].append(e)
+    for key, grp in sorted(bykey.items()):
+        grp.sort(key=lambda e: e["bibcode"])
+        for i, e in enumerate(grp):
+            e["key"] = key + ("abcdefghij"[i] if len(grp) > 1 else "")
 
     lines = ["%% Auto-generated by backend/export_bibtex.py -- do not edit by hand.",
-             "%% Metadata verified against the arXiv API (titles, authors, DOIs)",
-             "%% and Crossref; journal/volume/page parsed from ADS bibcodes.", ""]
-    for e in sorted(entries, key=lambda e: e["key"]):
-        p, s = e["paper"], e["struct"]
-        f = [("author", author_field(e["authors"]))]
-        if e["title"]:
-            f.append(("title", "{" + latexify(e["title"]) + "}"))
-        f += [("journal", s["journal"]),
-              ("year", str(p.get("year", "")))]
-        if s.get("volume"):
-            f.append(("volume", s["volume"]))
-        if s.get("page"):
-            f.append(("pages", s["page"]))
-        doi = e["meta"].get("doi")
-        if doi:
-            f.append(("doi", doi))
-        if p.get("arxiv") and not e["bad_id"]:
-            f.append(("archivePrefix", "arXiv"))
-            f.append(("eprint", p["arxiv"].strip()))
-        if p.get("bibcode"):
-            f.append(("adsurl", "https://ui.adsabs.harvard.edu/abs/" + p["bibcode"].strip()))
-        body = ",\n".join(f"  {k} = {{{v}}}" for k, v in f)
-        lines.append(f"@article{{{e['key']},\n{body}\n}}\n")
-
+             "%% Entries are the official NASA ADS BibTeX export, verbatim except",
+             "%% for the citation keys (rewritten from bibcodes to Author+Year).", ""]
+    for e in sorted(out_entries, key=lambda e: e["key"]):
+        block = re.sub(r"^(@[A-Za-z]+)\{[^,]+,", r"\1{" + e["key"] + ",",
+                       e["block"], count=1)
+        lines.append(block + "\n")
     Path(args.out).write_text("\n".join(lines))
-    print(f"wrote {args.out}: {len(entries)} entries", file=sys.stderr)
+    print(f"wrote {args.out}: {len(out_entries)} entries", file=sys.stderr)
+
     if problems:
         print(f"\n{len(problems)} verification problems:", file=sys.stderr)
         for pr in problems:

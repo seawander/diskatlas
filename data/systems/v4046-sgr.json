@@ -132,6 +132,26 @@
     "bibcode": null
    },
    "file": "images/v4046-sgr/v4046-sgr_sphere-rdi-xie22.png"
+  },
+  {
+   "image_id": "v4046-sgr_exoalma-co",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 7 (12CO)",
+   "wavelength_um": 867,
+   "wavelength_label": "12CO 3-2 peak intensity",
+   "technique": "interferometry",
+   "survey": "exoALMA",
+   "credit": "Teague et al. 2025 (exoALMA I), Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Teague",
+    "year": 2025,
+    "title": "exoALMA I. Science Goals, Project Design and Data Products",
+    "journal": "ApJL (exoALMA Focus Issue)",
+    "arxiv": "2504.18688",
+    "bibcode": null
+   },
+   "file": "images/v4046-sgr/v4046-sgr_exoalma-co.png"
   }
  ],
  "notes": null,

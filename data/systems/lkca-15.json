@@ -247,6 +247,26 @@
    },
    "file": "images/lkca-15/lkca-15_magao2022.png",
    "note": "Reproduces the LkCa 15 'b' Halpha excess (classically computed SNR=5.0) at the previously reported Sallum et al. 2015 candidate location; the paper explicitly treats this as a real recovered Halpha signal but flags its planetary nature as ambiguous/debated (could be a compact scattered-light feature). PDS 70 b/c recoveries in this same paper were explicitly called 'marginal' (SNR~3-4) by the authors and were dropped per instructions."
+  },
+  {
+   "image_id": "lkca-15_exoalma-co",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 7 (12CO)",
+   "wavelength_um": 867,
+   "wavelength_label": "12CO 3-2 peak intensity",
+   "technique": "interferometry",
+   "survey": "exoALMA",
+   "credit": "Teague et al. 2025 (exoALMA I), Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Teague",
+    "year": 2025,
+    "title": "exoALMA I. Science Goals, Project Design and Data Products",
+    "journal": "ApJL (exoALMA Focus Issue)",
+    "arxiv": "2504.18688",
+    "bibcode": null
+   },
+   "file": "images/lkca-15/lkca-15_exoalma-co.png"
   }
  ],
  "notes": null,

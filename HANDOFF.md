@@ -200,7 +200,7 @@ instrument/epoch completeness, not just filling empty modality buckets.
 ## Frontend (frontend/ — pure vanilla JS, offline, file://)
 - `index.html` loads `data.js` (generated — never hand-edit), `constellations.js`,
   `i18n.js`, `app.js`, `style.css`.
-- **Views** (top switcher): Sky map · Coverage matrix (systems × Optical/NIR/MIR/mm/Planet,
+- **Views** (top switcher): Sky map · Coverage matrix (systems × Visible/NIR/MIR/mm/Planet,
   a live gap-finder) · Tonight (observability planner: site + date → airmass/transit + CSV).
 - **Faceted filters**: wavelength band / missing-modality / facility, driving all views.
 - **Multi-language** (`frontend/i18n.js`): English / 中文 / Français / Español, persisted in
