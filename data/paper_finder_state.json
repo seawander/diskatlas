@@ -2140,5 +2140,55 @@
   "status": "ingested",
   "reason": "New target, exploration 2026-07-08",
   "date": "2026-07-08"
+ },
+ "2405.04521": {
+  "status": "ingested",
+  "reason": "Keyword-discovery new target 2026-07-08",
+  "date": "2026-07-08"
+ },
+ "1901.04109": {
+  "status": "ingested",
+  "reason": "Keyword-discovery new target 2026-07-08",
+  "date": "2026-07-08"
+ },
+ "1908.04649": {
+  "status": "ingested",
+  "reason": "Keyword-discovery new target 2026-07-08",
+  "date": "2026-07-08"
+ },
+ "1205.3302": {
+  "status": "ingested",
+  "reason": "Keyword-discovery new target 2026-07-08",
+  "date": "2026-07-08"
+ },
+ "1106.4150": {
+  "status": "ingested",
+  "reason": "Keyword-discovery new target 2026-07-08",
+  "date": "2026-07-08"
+ },
+ "2007.05274": {
+  "status": "ingested",
+  "reason": "Keyword-discovery new target 2026-07-08",
+  "date": "2026-07-08"
+ },
+ "1201.1911": {
+  "status": "ingested",
+  "reason": "Keyword-discovery new target 2026-07-08",
+  "date": "2026-07-08"
+ },
+ "2110.13838": {
+  "status": "ingested",
+  "reason": "Keyword-discovery new target 2026-07-08",
+  "date": "2026-07-08"
+ },
+ "2102.11481": {
+  "status": "ingested",
+  "reason": "Keyword-discovery new target 2026-07-08",
+  "date": "2026-07-08"
+ },
+ "1902.04612": {
+  "status": "ingested",
+  "reason": "Keyword-discovery new target 2026-07-08",
+  "date": "2026-07-08"
  }
 }
