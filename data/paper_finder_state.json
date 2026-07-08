@@ -2215,5 +2215,50 @@
   "status": "ingested",
   "reason": "Discovery queue 2026-07-08",
   "date": "2026-07-08"
+ },
+ "2411.10518": {
+  "status": "excluded",
+  "reason": "DECaPS survey RGB star field, no resolved disk visible",
+  "date": "2026-07-08"
+ },
+ "2409.03016": {
+  "status": "excluded",
+  "reason": "JWST MIRI point sources (WL 20 quadruple), disks not spatially resolved",
+  "date": "2026-07-08"
+ },
+ "astro-ph/0508342": {
+  "status": "excluded",
+  "reason": "IRAS 20126 UKIRT fuzzy 2-blob, no clearly resolved disk + axis-number bleed",
+  "date": "2026-07-08"
+ },
+ "1803.02847": {
+  "status": "ingested",
+  "reason": "Keyword discovery r2 2026-07-08",
+  "date": "2026-07-08"
+ },
+ "2601.04108": {
+  "status": "ingested",
+  "reason": "Keyword discovery r2 2026-07-08",
+  "date": "2026-07-08"
+ },
+ "2111.11077": {
+  "status": "ingested",
+  "reason": "Keyword discovery r2 2026-07-08",
+  "date": "2026-07-08"
+ },
+ "2509.21701": {
+  "status": "ingested",
+  "reason": "Keyword discovery r2 2026-07-08",
+  "date": "2026-07-08"
+ },
+ "2305.15647": {
+  "status": "ingested",
+  "reason": "Keyword discovery r2 2026-07-08",
+  "date": "2026-07-08"
+ },
+ "2505.16731": {
+  "status": "ingested",
+  "reason": "Keyword discovery r2 2026-07-08",
+  "date": "2026-07-08"
  }
 }
