@@ -17,10 +17,36 @@ SciX** citations. Pure static files — no server, no build step at runtime.
 
 ## Current state (2026-07-07)
 
-- **401 systems · 1181 image records (all with local panels) · full coords · 0 validate
-  errors · SIMBAD idents coordinate-verified** (session-final 2026-07-07; `python3
+- **403 systems · 1200 image records (all with local panels) · full coords · 0 validate
+  errors · SIMBAD idents coordinate-verified** (as of 2026-07-08; `python3
   backend/build.py` is always canonical). Several batches were USER-CANCELLED mid-flight —
   see `data/ingestion_status.json` → "user-cancelled-2026-07-07" for what remains open.
+
+## Session state 2026-07-08 (live log — update on every hand-off)
+
+DONE (committed fe1be63 + f616e85): everything in the two commit messages — the
+2026-07-06/07 mega-expansion, the paper-finder Skill + ledgers, integrity fixes,
+crop QA, the frontend overhaul (facets, themes, Tonight/Coverage reworks, links,
+progress bar, last-updated stamps), docs pass, exoALMA I CO gallery + first-of-series
+audit, MWC 758 Ren+2018/2020 records, snowball --rank reoptimization.
+
+IN FLIGHT (background agents; reconcile via
+scratchpad/sweep/crops/reconcile.py + merge_staging + validate + build when they land):
+- PF4 snowball batch (14 papers): t-cha + zz-tau-irs systems already on disk;
+  conditionals (TW Hya NICMOS pol, beta Pic MagAO, HD 95086 ALMA, HR 2562 B backfill
+  into hd-50571, 49 Cet Herschel, HD 15115, CO2 super-Jupiter 2604.09785, Class I
+  2309.06076) pending → cropresult-pf4.json / newsys-pf4.json.
+- PF5 snowball batch (6 target-matched papers: HD 106906 MagAO, DoAr 28 HiCIAO,
+  PDS 70 c MagAO-X, HD 206893 B GPI, HD 32297 pol, HD 163296 epochs)
+  → cropresult-pf5.json.
+- Separate SESSION: AAS paper writing in paper_Overleaf (own Overleaf git; do not
+  touch from here).
+
+NEXT QUEUE: keep triaging data/paper_finder/candidates.json in --rank order
+(960 target-matched observation papers lead; run --rank after every --mark batch);
+the user-cancelled batches only on explicit request; embedded-YSO/straggler ingests
+(SR 20, V1094 Sco, J1850-3147, L1551 IRS 5, V892 Tau, WL 16, Gomez's Hamburger...);
+commit only when the user asks.
 - Categories: `protoplanetary`, `debris`, `quasar` (+ planet-only hosts have
   `categories: []`). Quasars carry `redshift` instead of `dist_pc`.
 - `planets[]` entries carry `method` (imaging/transit/interferometry), a `paper` ref,
