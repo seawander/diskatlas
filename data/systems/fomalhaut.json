@@ -224,6 +224,26 @@
     "bibcode": null
    },
    "file": "images/fomalhaut/fomalhaut_sharcii2005.png"
+  },
+  {
+   "image_id": "fomalhaut_spitzer-mips",
+   "type": "disk_mm",
+   "facility": "Spitzer",
+   "instrument": "MIPS",
+   "wavelength_um": 70,
+   "wavelength_label": "70 um (fine-scale deconvolved mosaic)",
+   "technique": "other",
+   "survey": null,
+   "credit": "Stapelfeldt et al. 2004, Fig. 2f (crop)",
+   "paper": {
+    "first_author": "Stapelfeldt",
+    "year": 2004,
+    "title": "First Look at the Fomalhaut Debris Disk with the Spitzer Space Telescope",
+    "journal": "ApJS 154, 458",
+    "arxiv": null,
+    "bibcode": "2004ApJS..154..458S"
+   },
+   "file": "images/fomalhaut/fomalhaut_spitzer-mips.png"
   }
  ],
  "notes": null,

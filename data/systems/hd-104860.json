@@ -112,6 +112,26 @@
     "bibcode": null
    },
    "file": "images/hd-104860/hd-104860_carma2015.png"
+  },
+  {
+   "image_id": "hd-104860_herschel-pacs",
+   "type": "disk_mm",
+   "facility": "Herschel",
+   "instrument": "PACS",
+   "wavelength_um": 100,
+   "wavelength_label": "100 um (original data)",
+   "technique": "other",
+   "survey": null,
+   "credit": "Morales et al. 2013, Fig. 1 (crop: HD 104860)",
+   "paper": {
+    "first_author": "Morales",
+    "year": 2013,
+    "title": "Herschel-resolved Outer Belts of Two-belt Debris Disks around A-type Stars: HD 70313, HD 71722, HD 159492, and F-type: HD 104860",
+    "journal": "ApJ 776, 111",
+    "arxiv": null,
+    "bibcode": "2013ApJ...776..111M"
+   },
+   "file": "images/hd-104860/hd-104860_herschel-pacs.png"
   }
  ],
  "notes": "AUTO-CREATED from staging - fill metadata & coords | ALICE archive has no combined preview for this target (confirmed 2026-07-06) - NICMOS view covered by Ren+2023 record.",
