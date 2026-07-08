@@ -2,9 +2,23 @@
   "version": "0.0.1",
   "configurations": [
     {
+      "name": "atlas-backend",
+      "runtimeExecutable": "bash",
+      "runtimeArgs": [
+        "-c",
+        "python3 -m http.server ${PORT:-8199}"
+      ],
+      "port": 8199,
+      "autoPort": true
+    },
+    {
       "name": "atlas",
       "runtimeExecutable": "python3",
-      "runtimeArgs": ["-m", "http.server", "8123"],
+      "runtimeArgs": [
+        "-m",
+        "http.server",
+        "8123"
+      ],
       "port": 8123
     }
   ]
