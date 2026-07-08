@@ -183,6 +183,26 @@
     "bibcode": null
    },
    "file": "images/hd-95086/hd-95086_miri2024.png"
+  },
+  {
+   "image_id": "hd-95086_herschel-pacs2015",
+   "type": "disk_mm",
+   "facility": "Herschel",
+   "instrument": "PACS",
+   "wavelength_um": 70,
+   "wavelength_label": "70 um far-IR (PACS); HD 95086 belt",
+   "technique": "other",
+   "survey": null,
+   "credit": "Su et al. 2015 (crop)",
+   "paper": {
+    "first_author": "Su",
+    "year": 2015,
+    "title": "Debris Distribution in HD 95086 - A Young Analog of HR 8799",
+    "journal": null,
+    "arxiv": "1412.0167",
+    "bibcode": null
+   },
+   "file": "images/hd-95086/hd-95086_herschel-pacs2015.png"
   }
  ],
  "notes": "Debris + imaged planet b (Rameau+2013).",

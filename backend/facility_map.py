@@ -23,7 +23,7 @@ FAC_TABLE = {
     "VLT-ERIS/JWST-NIRCam/VLT-SPHERE": ["VLT", "JWST"],
     "ALMA": ["ALMA"], "ALMA/SMA": ["ALMA", "SMA"], "SMA": ["SMA"],
     "SMA/PdBI/VLA": ["SMA", "IRAM:Interferometer", "VLA"],
-    "NOEMA": ["IRAM:NOEMA"], "VLA": ["VLA"], "CARMA": ["CARMA"], "BIMA": ["BIMA"],
+    "NOEMA": ["IRAM:NOEMA"], "IRAM-PdBI": ["IRAM:Interferometer"], "VLA": ["VLA"], "CARMA": ["CARMA"], "BIMA": ["BIMA"],
     "ATCA": ["ATCA"], "CSO": ["CSO"], "JCMT": ["JCMT"],
     "HST": ["HST"], "JWST": ["JWST"],
     "Herschel": ["Herschel"], "Spitzer": ["Spitzer"], "WISE": ["WISE"],

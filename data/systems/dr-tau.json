@@ -93,6 +93,26 @@
     "bibcode": null
    },
    "file": "images/dr-tau/dr-tau_noema2023.png"
+  },
+  {
+   "image_id": "dr-tau_lbti2022",
+   "type": "disk_scattered",
+   "facility": "LBT",
+   "instrument": "LMIRcam",
+   "wavelength_um": 3.8,
+   "wavelength_label": "L' band (late infall / spiral arms)",
+   "technique": "other",
+   "survey": null,
+   "credit": "Mesa et al. 2022 (crop)",
+   "paper": {
+    "first_author": "Mesa",
+    "year": 2022,
+    "title": "Signs of late infall and possible planet formation around DR Tau",
+    "journal": null,
+    "arxiv": "2111.01702",
+    "bibcode": null
+   },
+   "file": "images/dr-tau/dr-tau_lbti2022.png"
   }
  ],
  "notes": null,

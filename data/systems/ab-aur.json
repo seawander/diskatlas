@@ -268,6 +268,46 @@
    },
    "file": "images/ab-aur/ab-aur_scexao2024-jhk.png",
    "note": "AB Aur b is NOT visible in this Qphi (polarized-light) dataset -- paper reports it is detectable only in complementary total-intensity data and is a non-detection in polarized light at wavelengths >1.3um, so no planet-panel crop or planets[] update was added from this paper."
+  },
+  {
+   "image_id": "ab-aur_muse2025",
+   "type": "planet",
+   "facility": "VLT-MUSE",
+   "instrument": "MUSE",
+   "wavelength_um": 0.656,
+   "wavelength_label": "H-alpha; AB Aur b (candidate)",
+   "technique": "other",
+   "survey": null,
+   "credit": "Currie et al. 2025 (crop)",
+   "paper": {
+    "first_author": "Currie",
+    "year": 2025,
+    "title": "VLT/MUSE Detection of the AB Aurigae b Protoplanet with Halpha Spectroscopy",
+    "journal": null,
+    "arxiv": "2508.18351",
+    "bibcode": null
+   },
+   "file": "images/ab-aur/ab-aur_muse2025.png"
+  },
+  {
+   "image_id": "ab-aur_wfc3-2022",
+   "type": "planet",
+   "facility": "HST",
+   "instrument": "WFC3",
+   "wavelength_um": 0.656,
+   "wavelength_label": "H-alpha (F656N); AB Aur b point source (candidate)",
+   "technique": "other",
+   "survey": null,
+   "credit": "Zhou et al. 2022 (crop)",
+   "paper": {
+    "first_author": "Zhou",
+    "year": 2022,
+    "title": "HST/WFC3 Halpha Direct-Imaging Detection of a Point-like Source in the Disk Cavity of AB Aur",
+    "journal": null,
+    "arxiv": "2207.06525",
+    "bibcode": null
+   },
+   "file": "images/ab-aur/ab-aur_wfc3-2022.png"
   }
  ],
  "notes": null,

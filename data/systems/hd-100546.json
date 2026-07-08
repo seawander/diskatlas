@@ -337,6 +337,26 @@
     "bibcode": null
    },
    "file": "images/hd-100546/hd-100546_eris2025.png"
+  },
+  {
+   "image_id": "hd-100546_nici2014",
+   "type": "planet",
+   "facility": "Gemini-NICI",
+   "instrument": "NICI",
+   "wavelength_um": 3.8,
+   "wavelength_label": "L' band; HD 100546 b recovery",
+   "technique": "ADI",
+   "survey": null,
+   "credit": "Currie et al. 2014 (crop)",
+   "paper": {
+    "first_author": "Currie",
+    "year": 2014,
+    "title": "Recovery of the Candidate Protoplanet HD 100546 b with Gemini/NICI",
+    "journal": null,
+    "arxiv": "1411.0315",
+    "bibcode": null
+   },
+   "file": "images/hd-100546/hd-100546_nici2014.png"
   }
  ],
  "notes": null,

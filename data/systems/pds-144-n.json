@@ -54,6 +54,26 @@
     "arxiv": "astro-ph/0603667",
     "bibcode": "2006ApJ...645.1272P"
    }
+  },
+  {
+   "image_id": "pds-144-n_acsstis2011",
+   "type": "disk_scattered",
+   "facility": "HST",
+   "instrument": "ACS/STIS",
+   "wavelength_um": 0.6,
+   "wavelength_label": "visible scattered light (ACS+STIS, edge-on)",
+   "technique": "coronagraphy",
+   "survey": null,
+   "credit": "Hornbeck et al. 2012 (crop)",
+   "paper": {
+    "first_author": "Hornbeck",
+    "year": 2012,
+    "title": "PDS 144: The First Confirmed Herbig Ae - Herbig Ae Wide Binary",
+    "journal": null,
+    "arxiv": "1201.0173",
+    "bibcode": null
+   },
+   "file": "images/pds-144-n/pds-144-n_acsstis2011.png"
   }
  ],
  "notes": "Added 2026-07-06 (Martinien+2026 ALMA highly-inclined disk). Coords pending SIMBAD. Coords set from literature (PDS 144 N Herbig Ae); SIMBAD 'PDS 144 N' did not resolve.",

@@ -45,10 +45,30 @@
     "arxiv": "2501.09058",
     "bibcode": "2025A&A...693A.151M"
    }
+  },
+  {
+   "image_id": "hd-50571_vapp2021",
+   "type": "planet",
+   "facility": "LBT",
+   "instrument": "LMIRcam (vAPP)",
+   "wavelength_um": 3.8,
+   "wavelength_label": "L band; HR 2562 B (vector-APP)",
+   "technique": "ADI",
+   "survey": null,
+   "credit": "Sutlieff et al. 2021 (crop)",
+   "paper": {
+    "first_author": "Sutlieff",
+    "year": 2021,
+    "title": "High-contrast observations of brown dwarf companion HR 2562 B with the vector-Apodizing Phase Plate",
+    "journal": null,
+    "arxiv": "2106.14890",
+    "bibcode": null
+   },
+   "file": "images/hd-50571/hd-50571_vapp2021.png"
   }
  ],
  "notes": "AUTO-CREATED from staging - fill metadata & coords",
- "last_updated": "2026-07-08",
+ "last_updated": "2026-07-07",
  "plx_mas": 29.4738,
  "mags": {
   "B": 6.548,

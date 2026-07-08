@@ -24,44 +24,26 @@ SciX** citations. Pure static files — no server, no build step at runtime.
 
 ## Session state 2026-07-08 (live log — update on every hand-off)
 
-DONE (committed fe1be63 + f616e85): everything in the two commit messages — the
-2026-07-06/07 mega-expansion, the paper-finder Skill + ledgers, integrity fixes,
-crop QA, the frontend overhaul (facets, themes, Tonight/Coverage reworks, links,
-progress bar, last-updated stamps), docs pass, exoALMA I CO gallery + first-of-series
-audit, MWC 758 Ren+2018/2020 records, snowball --rank reoptimization.
+CURRENT: 405 systems / 1249 image records / 0 errors (build.py canonical).
+Paper-finder ledger: 484 in-atlas / 721 explored / 5477 known.
 
-IN FLIGHT (background agents; reconcile via
-scratchpad/sweep/crops/reconcile.py + merge_staging + validate + build when they land):
-- PF4 snowball batch (14 papers): t-cha + zz-tau-irs systems already on disk;
-  conditionals (TW Hya NICMOS pol, beta Pic MagAO, HD 95086 ALMA, HR 2562 B backfill
-  into hd-50571, 49 Cet Herschel, HD 15115, CO2 super-Jupiter 2604.09785, Class I
-  2309.06076) pending → cropresult-pf4.json / newsys-pf4.json.
-- PF5 snowball batch (6 target-matched papers: HD 106906 MagAO, DoAr 28 HiCIAO,
-  PDS 70 c MagAO-X, HD 206893 B GPI, HD 32297 pol, HD 163296 epochs)
-  → cropresult-pf5.json.
-- Separate SESSION: AAS paper writing in paper_Overleaf (own Overleaf git; do not
-  touch from here).
+CRASH RECOVERY (2026-07-08): a process exit killed 7 background agents mid-run.
+No partial data had merged (working tree was clean at commit c87218e). 43 orphan
+PNGs (VIEW-verified crops whose staging JSONs were lost with the scratchpad) were
+found on disk; 42 were recovered by re-deriving each source paper from the filename,
+re-verifying every arXiv id from arxiv.org, and rebuilding full records
+(data/staging/orphan-recovery.json, merged). 1 dropped (61 Vir Herschel — id
+unverifiable). GJ 581 created + coords. All 42 papers marked in the ledger.
+
+LESSON: the scratchpad (findings/cropresult/cache) is volatile across process exits.
+Reconcile + merge agent output PROMPTLY (don't let many cropresults accumulate
+unmerged), and commit after each batch.
 
 NEXT QUEUE: keep triaging data/paper_finder/candidates.json in --rank order
-(960 target-matched observation papers lead; run --rank after every --mark batch);
-the user-cancelled batches only on explicit request; embedded-YSO/straggler ingests
-(SR 20, V1094 Sco, J1850-3147, L1551 IRS 5, V892 Tau, WL 16, Gomez's Hamburger...);
-commit only when the user asks.
-- Categories: `protoplanetary`, `debris`, `quasar` (+ planet-only hosts have
-  `categories: []`). Quasars carry `redshift` instead of `dist_pc`.
-- `planets[]` entries carry `method` (imaging/transit/interferometry), a `paper` ref,
-  optional `extra_papers` (independent discoveries etc.), and `status` incl. `refuted`
-  (e.g. YSES 2b = background star; FW Tau C = low-mass star; CVSO 30 b/c disputed/refuted).
-- Scope extensions (2026-07-07, user-approved): resolved far-IR/submm single-dish images
-  (Herschel/Spitzer/JCMT/CSO), Class 0/I embedded disks (eDisk), eruptive stars, Orion
-  proplyds, imaged brown-dwarf companions.
-- 2026-07-06/07 mega-session highlights: instrument-level sweep over every system (44
-  agents), SEEDS Fig. 3 completed, Ren+2023 Qphi + Xie+2022 RDI galleries, MAPS CO maps,
-  pre-ALMA mm classics, eDisk/AGE-PRO/NIR-census/σ Ori survey batches, ~25 imaged-companion
-  hosts recovered by citation chasing, external-catalog cross-checks (Wikipedia +
-  circumstellardisks.org), duplicate-system merge (hip-79977 → hd-146897), HSC name-sign
-  fixes, wrong arXiv ids fixed (HD 169142 planet; β Pic c), YSES-1 b/c citation swap fixed.
-
+(917 target-matched observation papers lead; run --rank after every --mark batch).
+Genuinely-open PF4/PF6 leftovers (not recovered): 49 Cet Herschel (1907.06427),
+Class I grain-growth 2309.06076, CGI AB Aur commissioning 2509.02681. Also: the
+user-cancelled batches only on request; embedded-YSO/straggler ingests.
 ## Bookkeeping — the three ledgers (do NOT create a fourth)
 
 1. **`data/systems/*.json`** — ground truth. A paper is "in the atlas" iff its arXiv id is

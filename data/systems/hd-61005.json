@@ -296,6 +296,26 @@
    },
    "file": "images/hd-61005/hd-61005_naco2011.png",
    "note": "CORRECTION vs brief: this paper (arXiv 1011.2496) is VLT/NACO H-band ADI/LOCI imaging, not Gemini/NICI as labeled in the task brief -- verified in the paper text and Fig. 1 caption ('High-contrast NACO H-band images of HD 61005'). VLT-NACO was genuinely absent from hd-61005.json, so added under its correct facility name."
+  },
+  {
+   "image_id": "hd-61005_nirc22016",
+   "type": "disk_scattered",
+   "facility": "Keck-NIRC2",
+   "instrument": "NIRC2",
+   "wavelength_um": 2.0,
+   "wavelength_label": "1.2-2.3 um scattered light (the Moth)",
+   "technique": "ADI",
+   "survey": null,
+   "credit": "Esposito et al. 2016 (crop)",
+   "paper": {
+    "first_author": "Esposito",
+    "year": 2016,
+    "title": "Bringing 'The Moth' to Light: A Planet-Sculpting Scenario for the HD 61005 Debris Disk",
+    "journal": null,
+    "arxiv": "1605.06161",
+    "bibcode": null
+   },
+   "file": "images/hd-61005/hd-61005_nirc22016.png"
   }
  ],
  "notes": null,

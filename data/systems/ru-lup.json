@@ -72,6 +72,26 @@
     "arxiv": "1803.10882",
     "bibcode": "2018ApJ...863...44A"
    }
+  },
+  {
+   "image_id": "ru-lup_alma-co2020",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 6 (12CO)",
+   "wavelength_um": 1300,
+   "wavelength_label": "12CO large-scale spiral arms",
+   "technique": "interferometry",
+   "survey": null,
+   "credit": "Huang et al. 2020 (crop)",
+   "paper": {
+    "first_author": "Huang",
+    "year": 2020,
+    "title": "Large-scale CO spiral arms and complex kinematics associated with the T Tauri star RU Lup",
+    "journal": null,
+    "arxiv": "2007.02974",
+    "bibcode": null
+   },
+   "file": "images/ru-lup/ru-lup_alma-co2020.png"
   }
  ],
  "notes": null,

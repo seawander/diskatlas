@@ -32,10 +32,30 @@
     "arxiv": "2012.00189",
     "bibcode": "2021MNRAS.501.2934C"
    }
+  },
+  {
+   "image_id": "rx-j1633-9-2442_sma2012",
+   "type": "disk_mm",
+   "facility": "SMA",
+   "instrument": "SMA",
+   "wavelength_um": 880,
+   "wavelength_label": "880 um continuum (cavity)",
+   "technique": "interferometry",
+   "survey": null,
+   "credit": "Cieza et al. 2012 (crop)",
+   "paper": {
+    "first_author": "Cieza",
+    "year": 2012,
+    "title": "Submillimeter Array Observations of the RX J1633.9-2442 Transition Disk",
+    "journal": null,
+    "arxiv": "1204.5722",
+    "bibcode": null
+   },
+   "file": "images/rx-j1633-9-2442/rx-j1633-9-2442_sma2012.png"
   }
  ],
  "notes": "AUTO-CREATED from staging - fill metadata & coords",
- "last_updated": "2026-07-06",
+ "last_updated": "2026-07-07",
  "plx_mas": 6.9524,
  "mags": {
   "G": 14.189818,

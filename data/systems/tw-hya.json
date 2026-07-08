@@ -293,6 +293,26 @@
     "bibcode": null
    },
    "file": "images/tw-hya/tw-hya_eris2025.png"
+  },
+  {
+   "image_id": "tw-hya_nicmos-pol2018",
+   "type": "disk_scattered",
+   "facility": "HST",
+   "instrument": "NICMOS",
+   "wavelength_um": 2.0,
+   "wavelength_label": "2 um pol. intensity (NICMOS)",
+   "technique": "PDI",
+   "survey": null,
+   "credit": "Poteet et al. 2018 (crop)",
+   "paper": {
+    "first_author": "Poteet",
+    "year": 2018,
+    "title": "Space-Based Coronagraphic Imaging Polarimetry of the TW Hydrae Disk",
+    "journal": null,
+    "arxiv": "1805.01926",
+    "bibcode": null
+   },
+   "file": "images/tw-hya/tw-hya_nicmos-pol2018.png"
   }
  ],
  "notes": null,

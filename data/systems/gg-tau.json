@@ -152,6 +152,26 @@
     "bibcode": null
    },
    "file": "images/gg-tau/gg-tau_acs2005.png"
+  },
+  {
+   "image_id": "gg-tau_vla2014",
+   "type": "disk_mm",
+   "facility": "VLA",
+   "instrument": "VLA",
+   "wavelength_um": 8000,
+   "wavelength_label": "cm radio continuum (multifrequency)",
+   "technique": "interferometry",
+   "survey": null,
+   "credit": "Andrews et al. 2014 (crop)",
+   "paper": {
+    "first_author": "Andrews",
+    "year": 2014,
+    "title": "Resolved Multifrequency Radio Observations of GG Tau",
+    "journal": null,
+    "arxiv": "1404.5652",
+    "bibcode": null
+   },
+   "file": "images/gg-tau/gg-tau_vla2014.png"
   }
  ],
  "notes": null,

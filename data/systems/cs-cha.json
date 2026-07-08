@@ -78,10 +78,30 @@
    },
    "file": "images/cs-cha/cs-cha_magao2022.png",
    "note": "New candidate CS Cha 'c' point source, SNR=6.6 (classical) at 68mas/PA76, clearly apparent in Halpha and SDI imagery per the paper -- a genuinely new candidate detection, not a marginal one. Distinct from the known wide CS Cha B companion, which was NOT recovered in this dataset (non-detection, correctly not added)."
+  },
+  {
+   "image_id": "cs-cha_sphere-ginski2018",
+   "type": "planet",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS",
+   "wavelength_um": 1.6,
+   "wavelength_label": "pol. intensity; CS Cha companion",
+   "technique": "PDI",
+   "survey": null,
+   "credit": "Ginski et al. 2018 (crop)",
+   "paper": {
+    "first_author": "Ginski",
+    "year": 2018,
+    "title": "First direct detection of a polarized companion outside of a resolved circumbinary disk around CS Cha",
+    "journal": null,
+    "arxiv": "1805.02261",
+    "bibcode": null
+   },
+   "file": "images/cs-cha/cs-cha_sphere-ginski2018.png"
   }
  ],
  "notes": "AUTO-CREATED from staging - fill metadata & coords",
- "last_updated": "2026-07-06",
+ "last_updated": "2026-07-07",
  "plx_mas": 5.9251,
  "mags": {
   "B": 12.88,

@@ -52,10 +52,30 @@
     "arxiv": "2004.03135",
     "bibcode": "2020ApJ...895L..18B"
    }
+  },
+  {
+   "image_id": "gw-ori_sphere2020",
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS",
+   "wavelength_um": 1.6,
+   "wavelength_label": "H band scattered light (misaligned/warped triple)",
+   "technique": "PDI",
+   "survey": null,
+   "credit": "Kraus et al. 2020 (crop)",
+   "paper": {
+    "first_author": "Kraus",
+    "year": 2020,
+    "title": "A triple star system with a misaligned and warped circumstellar disk shaped by disk tearing",
+    "journal": null,
+    "arxiv": "2004.01204",
+    "bibcode": null
+   },
+   "file": "images/gw-ori/gw-ori_sphere2020.png"
   }
  ],
  "notes": null,
- "last_updated": "2026-07-06",
+ "last_updated": "2026-07-07",
  "plx_mas": 2.451,
  "mags": {
   "B": 10.83,

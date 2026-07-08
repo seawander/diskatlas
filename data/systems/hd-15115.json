@@ -273,6 +273,26 @@
     "bibcode": null
    },
    "file": "images/hd-15115/hd-15115_sphere-rdi-xie22.png"
+  },
+  {
+   "image_id": "hd-15115_nici2014",
+   "type": "disk_scattered",
+   "facility": "Gemini-NICI",
+   "instrument": "NICI",
+   "wavelength_um": 1.65,
+   "wavelength_label": "H band; inner-disk asymmetry",
+   "technique": "ADI",
+   "survey": null,
+   "credit": "Mazoyer et al. 2014 (crop)",
+   "paper": {
+    "first_author": "Mazoyer",
+    "year": 2014,
+    "title": "Is the HD 15115 inner disk really asymmetrical?",
+    "journal": null,
+    "arxiv": "1409.0710",
+    "bibcode": null
+   },
+   "file": "images/hd-15115/hd-15115_nici2014.png"
   }
  ],
  "notes": null,

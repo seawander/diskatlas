@@ -1,0 +1,40 @@
+{
+ "id": "gj-581",
+ "name": "GJ 581",
+ "alt_names": [],
+ "simbad": "GJ 581",
+ "ra_deg": 229.8617789114604,
+ "dec_deg": -7.7222748604072,
+ "dist_pc": 6.3,
+ "sptype": "M3V",
+ "region": "Isolated",
+ "categories": [
+  "debris"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "image_id": "gj-581_herschel",
+   "type": "disk_mm",
+   "facility": "Herschel",
+   "instrument": "PACS",
+   "wavelength_um": 70,
+   "wavelength_label": "70/160 um far-IR debris (PACS)",
+   "technique": "other",
+   "survey": null,
+   "credit": "Lestrade et al. 2012 (crop)",
+   "paper": {
+    "first_author": "Lestrade",
+    "year": 2012,
+    "title": "A DEBRIS Disk Around The Planet Hosting M-star GJ 581 Spatially Resolved with Herschel",
+    "journal": null,
+    "arxiv": "1211.4898",
+    "bibcode": null
+   },
+   "file": "images/gj-581/gj-581_herschel.png"
+  }
+ ],
+ "notes": "AUTO-CREATED from staging - fill metadata & coords",
+ "last_updated": "2026-07-08",
+ "plx_mas": 158.7183
+}

@@ -81,6 +81,26 @@
     "arxiv": "2208.14990",
     "bibcode": "2023ApJ...951L..20C"
    }
+  },
+  {
+   "image_id": "hip-65426_naco2019",
+   "type": "planet",
+   "facility": "VLT-NACO",
+   "instrument": "NACO",
+   "wavelength_um": 3.8,
+   "wavelength_label": "L'/M'; HIP 65426 b (ISPY)",
+   "technique": "ADI",
+   "survey": null,
+   "credit": "Cheetham et al. 2019 (crop)",
+   "paper": {
+    "first_author": "Cheetham",
+    "year": 2019,
+    "title": "Spectral and orbital characterisation of the directly imaged giant planet HIP 65426 b",
+    "journal": null,
+    "arxiv": "1812.07198",
+    "bibcode": null
+   },
+   "file": "images/hip-65426/hip-65426_naco2019.png"
   }
  ],
  "notes": null,

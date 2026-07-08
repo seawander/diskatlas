@@ -52,10 +52,30 @@
     "bibcode": null
    },
    "file": "images/sr-24s/sr-24s_sma2005.png"
+  },
+  {
+   "image_id": "sr-24s_hiciao2019",
+   "type": "disk_scattered",
+   "facility": "Subaru-HiCIAO",
+   "instrument": "HiCIAO",
+   "wavelength_um": 1.65,
+   "wavelength_label": "H band pol. intensity (misaligned disks)",
+   "technique": "PDI",
+   "survey": null,
+   "credit": "Mayama et al. 2019 (crop)",
+   "paper": {
+    "first_author": "Mayama",
+    "year": 2019,
+    "title": "Subaru Near-Infrared Imaging Polarimetry of Misaligned Disks Around the SR 24 Hierarchical Triple System",
+    "journal": null,
+    "arxiv": "1911.10941",
+    "bibcode": null
+   },
+   "file": "images/sr-24s/sr-24s_hiciao2019.png"
   }
  ],
  "notes": "AUTO-CREATED from staging - fill metadata & coords",
- "last_updated": "2026-07-06",
+ "last_updated": "2026-07-07",
  "plx_mas": 9.9589,
  "mags": {
   "G": 14.564755,

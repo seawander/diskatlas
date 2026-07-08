@@ -52,10 +52,30 @@
     "bibcode": null
    },
    "file": "images/hd-98800/hd-98800_alma2019.png"
+  },
+  {
+   "image_id": "hd-98800_vla2018",
+   "type": "disk_mm",
+   "facility": "VLA",
+   "instrument": "VLA (Ka)",
+   "wavelength_um": 9000,
+   "wavelength_label": "8.8 mm continuum cavity (VLA Ka)",
+   "technique": "interferometry",
+   "survey": null,
+   "credit": "Ribas et al. 2018 (crop)",
+   "paper": {
+    "first_author": "Ribas",
+    "year": 2018,
+    "title": "Long-lived protoplanetary disks in multiple systems: the VLA view of HD 98800",
+    "journal": null,
+    "arxiv": "1808.02493",
+    "bibcode": null
+   },
+   "file": "images/hd-98800/hd-98800_vla2018.png"
   }
  ],
  "notes": "AUTO-CREATED from staging - fill metadata & coords",
- "last_updated": "2026-07-06",
+ "last_updated": "2026-07-07",
  "plx_mas": 22.27,
  "mags": {
   "B": 10.2,

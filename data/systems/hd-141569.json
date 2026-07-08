@@ -235,6 +235,26 @@
    },
    "file": "images/hd-141569/hd-141569_nirc2matryoshka.png",
    "note": "New facility for this existing system (no prior Keck/NIRC2 or VLT/NaCo record). Paper also includes archival VLT/NaCo L' imaging (Fig. 1 bottom-right) recovering the same inner disk; only the Keck/NIRC2 discovery panel was cropped."
+  },
+  {
+   "image_id": "hd-141569_nici2015",
+   "type": "disk_scattered",
+   "facility": "Gemini-NICI",
+   "instrument": "NICI",
+   "wavelength_um": 1.6,
+   "wavelength_label": "H band coronagraphic (asymmetries)",
+   "technique": "ADI",
+   "survey": null,
+   "credit": "Biller et al. 2015 (crop)",
+   "paper": {
+    "first_author": "Biller",
+    "year": 2015,
+    "title": "The Gemini NICI Planet-Finding Campaign: Asymmetries in the HD 141569 disk",
+    "journal": null,
+    "arxiv": "1504.05224",
+    "bibcode": null
+   },
+   "file": "images/hd-141569/hd-141569_nici2015.png"
   }
  ],
  "notes": "Hybrid disk (gas-rich debris / late transition).",

@@ -476,6 +476,26 @@
     "bibcode": null
    },
    "file": "images/beta-pic/beta-pic_planetd-jwst2026.png"
+  },
+  {
+   "image_id": "beta-pic_magao-clio2015",
+   "type": "planet",
+   "facility": "Magellan-MagAO",
+   "instrument": "Clio2",
+   "wavelength_um": 3.9,
+   "wavelength_label": "3.1-3.9 um; beta Pic b (MagAO first light)",
+   "technique": "ADI",
+   "survey": null,
+   "credit": "Morzinski et al. 2015 (crop)",
+   "paper": {
+    "first_author": "Morzinski",
+    "year": 2015,
+    "title": "Magellan Adaptive Optics first-light observations of the exoplanet beta Pic b",
+    "journal": null,
+    "arxiv": "1511.02894",
+    "bibcode": null
+   },
+   "file": "images/beta-pic/beta-pic_magao-clio2015.png"
   }
  ],
  "notes": "Original 1984 discovery image (Smith & Terrile, Las Campanas coronagraph) predates arXiv; add if desired.",

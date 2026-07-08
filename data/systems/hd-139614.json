@@ -52,6 +52,26 @@
     "arxiv": "1911.09612",
     "bibcode": "2020A&A...635A.121M"
    }
+  },
+  {
+   "image_id": "hd-139614_alma2023",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 6 (13CO)",
+   "wavelength_um": 1300,
+   "wavelength_label": "13CO brightness-temperature map",
+   "technique": "interferometry",
+   "survey": null,
+   "credit": "Wolfer et al. 2023 (crop)",
+   "paper": {
+    "first_author": "Wolfer",
+    "year": 2023,
+    "title": "Kinematics and brightness temperatures of transition discs",
+    "journal": null,
+    "arxiv": "2208.09494",
+    "bibcode": null
+   },
+   "file": "images/hd-139614/hd-139614_alma2023.png"
   }
  ],
  "notes": null,

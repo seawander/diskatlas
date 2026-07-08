@@ -41,9 +41,29 @@
     "arxiv": "astro-ph/9409028",
     "bibcode": "1994ApJ...435L..11B"
    }
+  },
+  {
+   "image_id": "pg-1116-215_nicmos2009",
+   "type": "quasar",
+   "facility": "HST",
+   "instrument": "NICMOS",
+   "wavelength_um": 1.6,
+   "wavelength_label": "H band host galaxy (QUEST)",
+   "technique": "coronagraphy",
+   "survey": null,
+   "credit": "Veilleux et al. 2009 (crop)",
+   "paper": {
+    "first_author": "Veilleux",
+    "year": 2009,
+    "title": "A Deep HST H-Band Imaging Survey of Massive Gas-Rich Mergers",
+    "journal": null,
+    "arxiv": "0906.3157",
+    "bibcode": null
+   },
+   "file": "images/pg-1116-215/pg-1116-215_nicmos2009.png"
   }
  ],
  "notes": "Luminous radio-quiet PG quasar (V=15.0) from the Bahcall, Kirhakos & Schneider 1994 HST/WFPC2 study (host upper limit in Paper I); one of the three candidate host-galaxy detections of Bahcall et al. 1995 (Paper II, with 3C 273 and PG 1444+407). Added by batch T; redshift from Paper I Table 1. Coordinates pending SIMBAD via coords_todo_batchT.",
- "last_updated": "2026-07-06",
+ "last_updated": "2026-07-07",
  "redshift": 0.177
 }

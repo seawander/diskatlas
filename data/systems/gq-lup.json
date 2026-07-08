@@ -84,6 +84,26 @@
     "bibcode": null
    },
    "file": "images/gq-lup/gq-lup_miri-mrs2024.png"
+  },
+  {
+   "image_id": "gq-lup_alma2017",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 7",
+   "wavelength_um": 870,
+   "wavelength_label": "870 um continuum (GQ Lup A)",
+   "technique": "interferometry",
+   "survey": null,
+   "credit": "MacGregor et al. 2017 (crop)",
+   "paper": {
+    "first_author": "MacGregor",
+    "year": 2017,
+    "title": "ALMA Measurements of Circumstellar Material in the GQ Lup System",
+    "journal": null,
+    "arxiv": "1611.06229",
+    "bibcode": null
+   },
+   "file": "images/gq-lup/gq-lup_alma2017.png"
   }
  ],
  "notes": null,

@@ -1493,7 +1493,7 @@
  },
  "1812.07198": {
   "status": "ingested",
-  "reason": "hip-65426 NACO crop (sweep chunk 25)",
+  "reason": "orphan-recovery 2026-07-08 (post-crash)",
   "date": "2026-07-07"
  },
  "2206.00687": {
@@ -1529,6 +1529,201 @@
  "1811.07785": {
   "status": "ingested",
   "reason": "PF5 2026-07-08",
+  "date": "2026-07-07"
+ },
+ "2104.13396": {
+  "status": "ingested",
+  "reason": "orphan-recovery 2026-07-08 (post-crash)",
+  "date": "2026-07-07"
+ },
+ "2507.00122": {
+  "status": "ingested",
+  "reason": "orphan-recovery 2026-07-08 (post-crash)",
+  "date": "2026-07-07"
+ },
+ "2007.02974": {
+  "status": "ingested",
+  "reason": "orphan-recovery 2026-07-08 (post-crash)",
+  "date": "2026-07-07"
+ },
+ "1911.10941": {
+  "status": "ingested",
+  "reason": "orphan-recovery 2026-07-08 (post-crash)",
+  "date": "2026-07-07"
+ },
+ "1805.01926": {
+  "status": "ingested",
+  "reason": "orphan-recovery 2026-07-08 (post-crash)",
+  "date": "2026-07-07"
+ },
+ "1511.02894": {
+  "status": "ingested",
+  "reason": "orphan-recovery 2026-07-08 (post-crash)",
+  "date": "2026-07-07"
+ },
+ "1412.0167": {
+  "status": "ingested",
+  "reason": "orphan-recovery 2026-07-08 (post-crash)",
+  "date": "2026-07-07"
+ },
+ "2106.14890": {
+  "status": "ingested",
+  "reason": "orphan-recovery 2026-07-08 (post-crash)",
+  "date": "2026-07-07"
+ },
+ "1805.02261": {
+  "status": "ingested",
+  "reason": "orphan-recovery 2026-07-08 (post-crash)",
+  "date": "2026-07-07"
+ },
+ "1404.5652": {
+  "status": "ingested",
+  "reason": "orphan-recovery 2026-07-08 (post-crash)",
+  "date": "2026-07-07"
+ },
+ "1411.0315": {
+  "status": "ingested",
+  "reason": "orphan-recovery 2026-07-08 (post-crash)",
+  "date": "2026-07-07"
+ },
+ "1206.4688": {
+  "status": "ingested",
+  "reason": "orphan-recovery 2026-07-08 (post-crash)",
+  "date": "2026-07-07"
+ },
+ "2508.18351": {
+  "status": "ingested",
+  "reason": "orphan-recovery 2026-07-08 (post-crash)",
+  "date": "2026-07-07"
+ },
+ "2207.06525": {
+  "status": "ingested",
+  "reason": "orphan-recovery 2026-07-08 (post-crash)",
+  "date": "2026-07-07"
+ },
+ "2101.10550": {
+  "status": "ingested",
+  "reason": "orphan-recovery 2026-07-08 (post-crash)",
+  "date": "2026-07-07"
+ },
+ "0903.4455": {
+  "status": "ingested",
+  "reason": "orphan-recovery 2026-07-08 (post-crash)",
+  "date": "2026-07-07"
+ },
+ "0808.3582": {
+  "status": "ingested",
+  "reason": "orphan-recovery 2026-07-08 (post-crash)",
+  "date": "2026-07-07"
+ },
+ "2011.03489": {
+  "status": "ingested",
+  "reason": "orphan-recovery 2026-07-08 (post-crash)",
+  "date": "2026-07-07"
+ },
+ "1011.1437": {
+  "status": "ingested",
+  "reason": "orphan-recovery 2026-07-08 (post-crash)",
+  "date": "2026-07-07"
+ },
+ "1706.06678": {
+  "status": "ingested",
+  "reason": "orphan-recovery 2026-07-08 (post-crash)",
+  "date": "2026-07-07"
+ },
+ "1508.01003": {
+  "status": "ingested",
+  "reason": "orphan-recovery 2026-07-08 (post-crash)",
+  "date": "2026-07-07"
+ },
+ "1201.0173": {
+  "status": "ingested",
+  "reason": "orphan-recovery 2026-07-08 (post-crash)",
+  "date": "2026-07-07"
+ },
+ "1204.5722": {
+  "status": "ingested",
+  "reason": "orphan-recovery 2026-07-08 (post-crash)",
+  "date": "2026-07-07"
+ },
+ "2004.01204": {
+  "status": "ingested",
+  "reason": "orphan-recovery 2026-07-08 (post-crash)",
+  "date": "2026-07-07"
+ },
+ "1611.06229": {
+  "status": "ingested",
+  "reason": "orphan-recovery 2026-07-08 (post-crash)",
+  "date": "2026-07-07"
+ },
+ "2208.09494": {
+  "status": "ingested",
+  "reason": "orphan-recovery 2026-07-08 (post-crash)",
+  "date": "2026-07-07"
+ },
+ "1504.05224": {
+  "status": "ingested",
+  "reason": "orphan-recovery 2026-07-08 (post-crash)",
+  "date": "2026-07-07"
+ },
+ "2011.10222": {
+  "status": "ingested",
+  "reason": "orphan-recovery 2026-07-08 (post-crash)",
+  "date": "2026-07-07"
+ },
+ "1901.05029": {
+  "status": "ingested",
+  "reason": "orphan-recovery 2026-07-08 (post-crash)",
+  "date": "2026-07-07"
+ },
+ "1509.07520": {
+  "status": "ingested",
+  "reason": "orphan-recovery 2026-07-08 (post-crash)",
+  "date": "2026-07-07"
+ },
+ "1605.06161": {
+  "status": "ingested",
+  "reason": "orphan-recovery 2026-07-08 (post-crash)",
+  "date": "2026-07-07"
+ },
+ "2111.01702": {
+  "status": "ingested",
+  "reason": "orphan-recovery 2026-07-08 (post-crash)",
+  "date": "2026-07-07"
+ },
+ "1808.02493": {
+  "status": "ingested",
+  "reason": "orphan-recovery 2026-07-08 (post-crash)",
+  "date": "2026-07-07"
+ },
+ "0906.3157": {
+  "status": "ingested",
+  "reason": "orphan-recovery 2026-07-08 (post-crash)",
+  "date": "2026-07-07"
+ },
+ "0812.2283": {
+  "status": "ingested",
+  "reason": "orphan-recovery 2026-07-08 (post-crash)",
+  "date": "2026-07-07"
+ },
+ "1211.4898": {
+  "status": "ingested",
+  "reason": "orphan-recovery 2026-07-08 (post-crash)",
+  "date": "2026-07-07"
+ },
+ "1409.0710": {
+  "status": "ingested",
+  "reason": "orphan-recovery 2026-07-08 (post-crash)",
+  "date": "2026-07-07"
+ },
+ "2604.09785": {
+  "status": "ingested",
+  "reason": "orphan-recovery 2026-07-08 (post-crash)",
+  "date": "2026-07-07"
+ },
+ "astro-ph/0605079": {
+  "status": "ingested",
+  "reason": "orphan-recovery 2026-07-08",
   "date": "2026-07-07"
  }
 }

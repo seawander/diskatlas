@@ -94,6 +94,46 @@
     "bibcode": null
    },
    "file": "images/oph-irs-48/oph-irs-48_comics2018.png"
+  },
+  {
+   "image_id": "oph-irs-48_naco2017",
+   "type": "disk_scattered",
+   "facility": "VLT-NACO",
+   "instrument": "NACO (SAM)",
+   "wavelength_um": 3.8,
+   "wavelength_label": "L' band aperture-masking PAH ring",
+   "technique": "other",
+   "survey": null,
+   "credit": "Schworer et al. 2017 (crop)",
+   "paper": {
+    "first_author": "Schworer",
+    "year": 2017,
+    "title": "A resolved and asymmetric ring of PAHs within the young circumstellar disk of IRS 48",
+    "journal": null,
+    "arxiv": "1706.06678",
+    "bibcode": null
+   },
+   "file": "images/oph-irs-48/oph-irs-48_naco2017.png"
+  },
+  {
+   "image_id": "oph-irs-48_vla2015",
+   "type": "disk_mm",
+   "facility": "VLA",
+   "instrument": "VLA (Ka)",
+   "wavelength_um": 9000,
+   "wavelength_label": "9 mm cm-grains (VLA Ka)",
+   "technique": "interferometry",
+   "survey": null,
+   "credit": "van der Marel et al. 2015 (crop)",
+   "paper": {
+    "first_author": "van der Marel",
+    "year": 2015,
+    "title": "A concentration of centimeter-sized grains in the Ophiuchus IRS 48 dust trap",
+    "journal": null,
+    "arxiv": "1508.01003",
+    "bibcode": null
+   },
+   "file": "images/oph-irs-48/oph-irs-48_vla2015.png"
   }
  ],
  "notes": "Prototype azimuthal dust trap. SIMBAD name needs verification (Oph IRS 48 = WLY 2-48).",

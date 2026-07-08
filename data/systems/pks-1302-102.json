@@ -42,9 +42,29 @@
     "arxiv": "astro-ph/9501018",
     "bibcode": "1995ApJ...450..486B"
    }
+  },
+  {
+   "image_id": "pks-1302-102_subaru2006",
+   "type": "quasar",
+   "facility": "Subaru",
+   "instrument": "IRCS (AO)",
+   "wavelength_um": 1.6,
+   "wavelength_label": "H band AO host galaxy",
+   "technique": "other",
+   "survey": null,
+   "credit": "Guyon et al. 2006 (crop)",
+   "paper": {
+    "first_author": "Guyon",
+    "year": 2006,
+    "title": "Near Infrared Adaptive Optics Imaging of QSO Host Galaxies",
+    "journal": null,
+    "arxiv": "astro-ph/0605079",
+    "bibcode": null
+   },
+   "file": "images/pks-1302-102/pks-1302-102_subaru2006.png"
   }
  ],
  "notes": "Radio-loud luminous quasar from Bahcall, Kirhakos & Schneider 1995 (HST/WFPC2 Paper II, one of the four quasars new in that paper): host-galaxy fits inconclusive (companion galaxies within a few arcsec; earlier ground-based bright-host claim not confirmed). Image pending: arXiv source has no figures; crop from the ADS published PDF (see backend/fetch_extra.txt). Added by batch T; redshift from Paper II Table 1. Coordinates pending SIMBAD via coords_todo_batchT.",
- "last_updated": "2026-07-06",
+ "last_updated": "2026-07-07",
  "redshift": 0.286
 }
