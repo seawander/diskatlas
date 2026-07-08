@@ -1725,5 +1725,55 @@
   "status": "ingested",
   "reason": "orphan-recovery 2026-07-08",
   "date": "2026-07-07"
+ },
+ "2408.09216": {
+  "status": "ingested",
+  "reason": "PF7 2026-07-08",
+  "date": "2026-07-07"
+ },
+ "2206.13548": {
+  "status": "ingested",
+  "reason": "PF7 2026-07-08",
+  "date": "2026-07-07"
+ },
+ "2103.08462": {
+  "status": "ingested",
+  "reason": "PF7 2026-07-08",
+  "date": "2026-07-07"
+ },
+ "2402.12601": {
+  "status": "excluded",
+  "reason": "AB Aur b Pa-beta non-detection, no image",
+  "date": "2026-07-07"
+ },
+ "2408.12351": {
+  "status": "excluded",
+  "reason": "beta Pic HST/STIS already represented (Ren+2023)",
+  "date": "2026-07-07"
+ },
+ "2110.00974": {
+  "status": "excluded",
+  "reason": "T Tau ALMA B6 reprocessing, band already present",
+  "date": "2026-07-07"
+ },
+ "2006.06818": {
+  "status": "excluded",
+  "reason": "HR 4796A GPI already represented x3",
+  "date": "2026-07-07"
+ },
+ "1907.10113": {
+  "status": "excluded",
+  "reason": "AU Mic HST/STIS already represented",
+  "date": "2026-07-07"
+ },
+ "1701.02314": {
+  "status": "excluded",
+  "reason": "HD 36546 SCExAO/CHARIS already represented (Lawson+2021)",
+  "date": "2026-07-07"
+ },
+ "1806.10553": {
+  "status": "excluded",
+  "reason": "V4046 Sgr ALMA CO already represented (Teague+2025)",
+  "date": "2026-07-07"
  }
 }

@@ -37,8 +37,27 @@
     "arxiv": "2306.15406",
     "bibcode": "2023ApJ...951....8O"
    }
+  },
+  {
+   "image_id": "l1527-irs_vla-7mm",
+   "file": "images/l1527-irs/l1527-irs_vla-7mm.png",
+   "type": "disk_mm",
+   "facility": "VLA",
+   "instrument": "Ka band",
+   "wavelength_um": 7000,
+   "wavelength_label": "7 mm continuum; flared, asymmetric edge-on Class 0 disk (eDisk@VLA)",
+   "technique": "interferometry",
+   "survey": null,
+   "credit": "Sheehan et al. 2022, Fig. 1 (top-left panel, crop)",
+   "paper": {
+    "first_author": "Sheehan",
+    "year": 2022,
+    "title": "A VLA View of the Flared, Asymmetric Disk Around the Class 0 Protostar L1527 IRS",
+    "arxiv": "2206.13548",
+    "bibcode": "2022ApJ...934...95S"
+   }
   }
  ],
  "notes": "Class 0 embedded protostar (eDisk)",
- "last_updated": "2026-07-06"
+ "last_updated": "2026-07-07"
 }

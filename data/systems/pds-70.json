@@ -273,6 +273,25 @@
     "bibcode": null
    },
    "file": "images/pds-70/pds-70_wfc3halpha2024.png"
+  },
+  {
+   "image_id": "pds-70_alma-b3-2024",
+   "file": "images/pds-70/pds-70_alma-b3-2024.png",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 3",
+   "wavelength_um": 3000,
+   "wavelength_label": "Band 3 (~3 mm, ~100 GHz) continuum; azimuthally asymmetric dust accumulation at NW ring peak",
+   "technique": "interferometry",
+   "survey": null,
+   "credit": "Doi et al. 2024, Fig. 1 (left panel, crop)",
+   "paper": {
+    "first_author": "Doi",
+    "year": 2024,
+    "title": "Asymmetric dust accumulation of the PDS 70 disk revealed by ALMA Band 3 observations",
+    "arxiv": "2408.09216",
+    "bibcode": "2024arXiv240809216D"
+   }
   }
  ],
  "notes": "Only system with two confirmed planets caught in formation inside the disk cavity.",

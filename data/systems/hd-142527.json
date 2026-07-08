@@ -153,6 +153,25 @@
     "bibcode": null
    },
    "file": "images/hd-142527/hd-142527_gpi-visao2022.png"
+  },
+  {
+   "image_id": "hd-142527_sphere-irdis-qphi",
+   "file": "images/hd-142527/hd-142527_sphere-irdis-qphi.png",
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS DPI",
+   "wavelength_um": 1.6255,
+   "wavelength_label": "H band 1.6 um Q_phi polarized intensity; quantitative disk polarimetry",
+   "technique": "PDI",
+   "survey": null,
+   "credit": "Hunziker et al. 2021, Fig. 2 (bottom-left panel, crop)",
+   "paper": {
+    "first_author": "Hunziker",
+    "year": 2021,
+    "title": "HD142527: Quantitative disk polarimetry with SPHERE",
+    "arxiv": "2103.08462",
+    "bibcode": "2021A&A...648A..70H"
+   }
   }
  ],
  "notes": "Extreme azimuthal dust asymmetry; M-dwarf companion inside cavity.",
