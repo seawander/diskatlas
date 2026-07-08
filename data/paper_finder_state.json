@@ -1925,5 +1925,10 @@
   "status": "excluded",
   "reason": "Fomalhaut b IR non-detection",
   "date": "2026-07-08"
+ },
+ "2005ApJ...630..958G": {
+  "status": "ingested",
+  "reason": "Grady 2005 STIS Herbig Ae; Fig 1c CQ Tau + Fig 2 HD100546/AB Aur/HD163296/HD135344 (user request)",
+  "date": "2026-07-08"
  }
 }

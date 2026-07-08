@@ -196,10 +196,30 @@
     "bibcode": null
    },
    "file": "images/hd-135344b/hd-135344b_exoalma-co.png"
+  },
+  {
+   "image_id": "hd-135344b_stis-grady2005",
+   "type": "disk_scattered",
+   "facility": "HST",
+   "instrument": "STIS",
+   "wavelength_um": 0.58,
+   "wavelength_label": "optical coronagraphy; PSF-subtracted nebulosity",
+   "technique": "coronagraphy",
+   "survey": null,
+   "credit": "Grady et al. 2005, Fig. 2 (crop: HD 135344)",
+   "paper": {
+    "first_author": "Grady",
+    "year": 2005,
+    "title": "Coronagraphic Imaging of Pre-Main-Sequence Stars with the Hubble Space Telescope Space Telescope Imaging Spectrograph. I. The Herbig Ae Stars",
+    "journal": "ApJ 630, 958",
+    "arxiv": null,
+    "bibcode": "2005ApJ...630..958G"
+   },
+   "file": "images/hd-135344b/hd-135344b_stis-grady2005.png"
   }
  ],
  "notes": null,
- "last_updated": "2026-07-07",
+ "last_updated": "2026-07-08",
  "plx_mas": 7.4074,
  "mags": {
   "B": 9.21,

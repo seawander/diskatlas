@@ -236,6 +236,26 @@
     "bibcode": null
    },
    "file": "images/cq-tau/cq-tau_dsp-spiral2021.png"
+  },
+  {
+   "image_id": "cq-tau_stis-grady2005",
+   "type": "disk_scattered",
+   "facility": "HST",
+   "instrument": "STIS",
+   "wavelength_um": 0.58,
+   "wavelength_label": "optical coronagraphy; PSF-subtracted, nebulosity near the STIS detection limit",
+   "technique": "coronagraphy",
+   "survey": null,
+   "credit": "Grady et al. 2005, Fig. 1c (crop: CQ Tau)",
+   "paper": {
+    "first_author": "Grady",
+    "year": 2005,
+    "title": "Coronagraphic Imaging of Pre-Main-Sequence Stars with the Hubble Space Telescope Space Telescope Imaging Spectrograph. I. The Herbig Ae Stars",
+    "journal": "ApJ 630, 958",
+    "arxiv": null,
+    "bibcode": "2005ApJ...630..958G"
+   },
+   "file": "images/cq-tau/cq-tau_stis-grady2005.png"
   }
  ],
  "notes": null,

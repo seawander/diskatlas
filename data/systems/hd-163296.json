@@ -1,7 +1,9 @@
 {
  "id": "hd-163296",
  "name": "HD 163296",
- "alt_names": ["HIP 87819"],
+ "alt_names": [
+  "HIP 87819"
+ ],
  "simbad": "HD 163296",
  "ra_deg": 269.08870077132,
  "dec_deg": -21.95607550528,
@@ -313,10 +315,30 @@
     "bibcode": null
    },
    "file": "images/hd-163296/hd-163296_hiciao2011.png"
+  },
+  {
+   "image_id": "hd-163296_stis2005",
+   "type": "disk_scattered",
+   "facility": "HST",
+   "instrument": "STIS",
+   "wavelength_um": 0.58,
+   "wavelength_label": "optical coronagraphy; PSF-subtracted difference imaging (2005 STIS epoch)",
+   "technique": "coronagraphy",
+   "survey": null,
+   "credit": "Grady et al. 2005, Fig. 2 (crop: HD 163296)",
+   "paper": {
+    "first_author": "Grady",
+    "year": 2005,
+    "title": "Coronagraphic Imaging of Pre-Main-Sequence Stars with the Hubble Space Telescope Space Telescope Imaging Spectrograph. I. The Herbig Ae Stars",
+    "journal": "ApJ 630, 958",
+    "arxiv": null,
+    "bibcode": "2005ApJ...630..958G"
+   },
+   "file": "images/hd-163296/hd-163296_stis2005.png"
   }
  ],
  "notes": null,
- "last_updated": "2026-07-07",
+ "last_updated": "2026-07-08",
  "plx_mas": 9.9043,
  "mags": {
   "U": 7.0,
