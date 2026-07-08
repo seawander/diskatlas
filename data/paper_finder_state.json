@@ -1400,5 +1400,105 @@
   "status": "ingested",
   "reason": "user-requested MWC 758 records 2026-07-08",
   "date": "2026-07-07"
+ },
+ "1801.03948": {
+  "status": "excluded",
+  "reason": "TW Hya ALMA CO/dust: family represented",
+  "date": "2026-07-07"
+ },
+ "1610.04038": {
+  "status": "excluded",
+  "reason": "RX J1615 SPHERE rings: family represented via DARTTS-S",
+  "date": "2026-07-07"
+ },
+ "1412.4816": {
+  "status": "excluded",
+  "reason": "Spitzer deep imaging: planet-search limits",
+  "date": "2026-07-07"
+ },
+ "2105.05995": {
+  "status": "excluded",
+  "reason": "HD 106906 GPI pol: family represented",
+  "date": "2026-07-07"
+ },
+ "1908.08511": {
+  "status": "excluded",
+  "reason": "HD 32297 resolved spectroscopy, no new image",
+  "date": "2026-07-07"
+ },
+ "1609.00382": {
+  "status": "excluded",
+  "reason": "HD 157587 GPI: family represented",
+  "date": "2026-07-07"
+ },
+ "1605.01731": {
+  "status": "excluded",
+  "reason": "beta Pic dust modeling",
+  "date": "2026-07-07"
+ },
+ "2407.01679": {
+  "status": "excluded",
+  "reason": "DR Tau chemistry",
+  "date": "2026-07-07"
+ },
+ "2210.12275": {
+  "status": "excluded",
+  "reason": "HD 110058 ALMA: family represented",
+  "date": "2026-07-07"
+ },
+ "2007.10097": {
+  "status": "excluded",
+  "reason": "companion-disk search limits",
+  "date": "2026-07-07"
+ },
+ "1911.11814": {
+  "status": "excluded",
+  "reason": "HD 141569 GPI pol: family represented",
+  "date": "2026-07-07"
+ },
+ "1902.07639": {
+  "status": "excluded",
+  "reason": "PDS 70 ALMA: family represented",
+  "date": "2026-07-07"
+ },
+ "1904.00027": {
+  "status": "excluded",
+  "reason": "AU Mic vertical-structure analysis",
+  "date": "2026-07-07"
+ },
+ "1704.06317": {
+  "status": "excluded",
+  "reason": "HD 100546 b GPI: family represented",
+  "date": "2026-07-07"
+ },
+ "1602.02856": {
+  "status": "excluded",
+  "reason": "HR 8799 P1640 mapping: family represented",
+  "date": "2026-07-07"
+ },
+ "1210.6620": {
+  "status": "excluded",
+  "reason": "Fomalhaut b HST confirmation: HST family + dust-cloud entry present",
+  "date": "2026-07-07"
+ },
+ "1706.07489": {
+  "status": "excluded",
+  "reason": "TW Hya NIRC2 vortex: non-detection",
+  "date": "2026-07-07"
+ },
+ "1806.08263": {
+  "status": "ingested",
+  "reason": "hd-163296 Keck/NIRC2 vortex crop (sweep chunk 06)",
+  "date": "2026-07-07"
+ },
+ "1812.07198": {
+  "status": "ingested",
+  "reason": "hip-65426 NACO crop (sweep chunk 25)",
+  "date": "2026-07-07"
+ },
+ "2206.00687": {
+  "status": "ingested",
+  "reason": "hd-142527_gpi-visao2022 (user batch)",
+  "date": "2026-07-07"
  }
 }
