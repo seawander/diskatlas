@@ -1875,5 +1875,55 @@
   "status": "excluded",
   "reason": "HD 163296 JWST catalog reuses existing NIRCam",
   "date": "2026-07-08"
+ },
+ "2111.02726": {
+  "status": "ingested",
+  "reason": "PF10 2026-07-08",
+  "date": "2026-07-08"
+ },
+ "1703.09348": {
+  "status": "ingested",
+  "reason": "PF10 2026-07-08",
+  "date": "2026-07-08"
+ },
+ "2106.07757": {
+  "status": "excluded",
+  "reason": "HD 100546 ALMA Band 7 870um already present (Walsh 2014)",
+  "date": "2026-07-08"
+ },
+ "2111.12708": {
+  "status": "excluded",
+  "reason": "HD 34282 Keck/NIRC2 vortex L' already present (Wallack 2024)",
+  "date": "2026-07-08"
+ },
+ "1810.13148": {
+  "status": "excluded",
+  "reason": "DM Tau ALMA Band 6 already present (Hashimoto 2021)",
+  "date": "2026-07-08"
+ },
+ "1710.02532": {
+  "status": "excluded",
+  "reason": "HD 135344B SPHERE J PDI already present (Stolker 2016)",
+  "date": "2026-07-08"
+ },
+ "1702.04780": {
+  "status": "excluded",
+  "reason": "HD 163296 GPI pol already present (Rich 2022)",
+  "date": "2026-07-08"
+ },
+ "2008.11606": {
+  "status": "excluded",
+  "reason": "HD 163296 HST/STIS already present (Grady 2000)",
+  "date": "2026-07-08"
+ },
+ "2501.13917": {
+  "status": "excluded",
+  "reason": "HD 206893 KPIC spectroscopy only, no resolved image",
+  "date": "2026-07-08"
+ },
+ "1201.4388": {
+  "status": "excluded",
+  "reason": "Fomalhaut b IR non-detection",
+  "date": "2026-07-08"
  }
 }

@@ -1,7 +1,10 @@
 {
  "id": "cq-tau",
  "name": "CQ Tau",
- "alt_names": ["HD 36910", "HIP 26295"],
+ "alt_names": [
+  "HD 36910",
+  "HIP 26295"
+ ],
  "simbad": "CQ Tau",
  "ra_deg": 83.99361094339,
  "dec_deg": 24.74835873627,
@@ -213,10 +216,30 @@
     "bibcode": null
    },
    "file": "images/cq-tau/cq-tau_exoalma-co.png"
+  },
+  {
+   "image_id": "cq-tau_dsp-spiral2021",
+   "type": "disk_scattered",
+   "facility": "CMO-2.5m",
+   "instrument": "SPP (differential speckle polarimetry)",
+   "wavelength_um": 0.806,
+   "wavelength_label": "I_c band 0.806 um (polarized intensity)",
+   "technique": "differential speckle polarimetry",
+   "survey": null,
+   "credit": "Safonov et al. 2021, Fig. 3 (crop)",
+   "paper": {
+    "first_author": "Safonov",
+    "year": 2021,
+    "title": "Apparent motion of the circumstellar envelope of CQ Tau in scattered light",
+    "journal": "arXiv:2111.02726",
+    "arxiv": "2111.02726",
+    "bibcode": null
+   },
+   "file": "images/cq-tau/cq-tau_dsp-spiral2021.png"
   }
  ],
  "notes": null,
- "last_updated": "2026-07-07",
+ "last_updated": "2026-07-08",
  "plx_mas": 6.6946,
  "mags": {
   "U": 11.29,

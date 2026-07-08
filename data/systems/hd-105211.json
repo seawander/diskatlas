@@ -1,7 +1,11 @@
 {
  "id": "hd-105211",
  "name": "HD 105211",
- "alt_names": ["GJ 9388", "HIP 59072", "HR 4616"],
+ "alt_names": [
+  "GJ 9388",
+  "HIP 59072",
+  "HR 4616"
+ ],
  "simbad": "HD 105211",
  "ra_deg": 181.7204089323709,
  "dec_deg": -64.6137307004856,
@@ -32,10 +36,30 @@
     "arxiv": "2501.09058",
     "bibcode": "2025A&A...693A.151M"
    }
+  },
+  {
+   "image_id": "hd-105211_herschel-pacs70",
+   "type": "disk_mm",
+   "facility": "Herschel",
+   "instrument": "PACS",
+   "wavelength_um": 70,
+   "wavelength_label": "70 um (Lucy-Richardson deconvolved)",
+   "technique": "other",
+   "survey": null,
+   "credit": "Hengst et al. 2017, Fig. 2 (crop)",
+   "paper": {
+    "first_author": "Hengst",
+    "year": 2017,
+    "title": "A Herschel resolved debris disc around HD 105211",
+    "journal": "MNRAS 469, 2, 2007-2017",
+    "arxiv": "1703.09348",
+    "bibcode": "2017MNRAS.469.2007H"
+   },
+   "file": "images/hd-105211/hd-105211_herschel-pacs70.png"
   }
  ],
  "notes": "AUTO-CREATED from staging - fill metadata & coords",
- "last_updated": "2026-07-06",
+ "last_updated": "2026-07-08",
  "plx_mas": 50.7919,
  "mags": {
   "B": 4.47,
