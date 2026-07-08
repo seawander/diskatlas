@@ -1168,8 +1168,8 @@
  },
  "2410.03823": {
   "status": "ingested",
-  "reason": "PF2 2026-07-07",
-  "date": "2026-07-06"
+  "reason": "Survey completeness: added 4 sigma Ori disks (SO 1152/1036/984/662); other 4 already in atlas",
+  "date": "2026-07-08"
  },
  "2005.00861": {
   "status": "ingested",
@@ -2044,6 +2044,21 @@
  "perrin-2009-aas213-poster": {
   "status": "ingested",
   "reason": "GO-11155 poster: HD100546/HD142527/PDS453/PDS144N NICMOS 1um+2um pol",
+  "date": "2026-07-08"
+ },
+ "1810.06044": {
+  "status": "ingested",
+  "reason": "Fully covered: 12 substructured disks here + 20 compact in Long2019 (1906.10809), both in atlas = full 32-disk survey",
+  "date": "2026-07-08"
+ },
+ "2012.00189": {
+  "status": "ingested",
+  "reason": "ODISEA III complete: 10 imaged targets all in atlas; other 5 are DSHARP table-only",
+  "date": "2026-07-08"
+ },
+ "2408.04048": {
+  "status": "ingested",
+  "reason": "Wallack NIRC2 complete: all 8 resolved Fig.4 panels in atlas",
   "date": "2026-07-08"
  }
 }
