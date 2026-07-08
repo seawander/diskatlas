@@ -357,6 +357,26 @@
     "bibcode": null
    },
    "file": "images/hd-100546/hd-100546_nici2014.png"
+  },
+  {
+   "type": "disk_scattered",
+   "facility": "Gemini-GPI",
+   "instrument": "IFS (total intensity)",
+   "wavelength_um": 1.65,
+   "wavelength_label": "H band (PSF-subtracted, wavelength-collapsed IFS)",
+   "technique": "ADI",
+   "survey": null,
+   "credit": "Currie et al. 2015, Fig. 2 top-left (crop)",
+   "paper": {
+    "first_author": "Currie",
+    "year": 2015,
+    "title": "Resolving the HD 100546 Protoplanetary System with the Gemini Planet Imager: Evidence for Multiple Forming, Accreting Planets",
+    "journal": "ApJL 814, L27",
+    "arxiv": "1511.02526",
+    "bibcode": "2015ApJ...814L..27C"
+   },
+   "image_id": "hd-100546_gpi-currie2015",
+   "file": "images/hd-100546/hd-100546_gpi-currie2015.png"
   }
  ],
  "notes": null,

@@ -267,15 +267,15 @@
    "file": "images/twa-7/twa-7_nircam2025.png"
   },
   {
-   "image_id": "twa-7_sphere-hjband2018",
+   "image_id": "twa-7_sphere-hband2018",
    "type": "disk_scattered",
    "facility": "VLT-SPHERE",
    "instrument": "IRDIS",
    "wavelength_um": 1.65,
-   "wavelength_label": "H band and J band Qphi polarized intensity",
+   "wavelength_label": "H band Qphi polarized intensity",
    "technique": "PDI",
    "survey": null,
-   "credit": "Olofsson et al. 2018, Fig. 1 (crop)",
+   "credit": "Olofsson et al. 2018, Fig. 1 (crop: H-band Q_phi)",
    "paper": {
     "first_author": "Olofsson",
     "year": 2018,
@@ -284,7 +284,7 @@
     "arxiv": "1804.01929",
     "bibcode": null
    },
-   "file": "images/twa-7/twa-7_sphere-hjband2018.png"
+   "file": "images/twa-7/twa-7_sphere-hband2018.png"
   },
   {
    "image_id": "twa-7_alma2019",
@@ -305,10 +305,30 @@
     "bibcode": null
    },
    "file": "images/twa-7/twa-7_alma2019.png"
+  },
+  {
+   "image_id": "twa-7_sphere-jband2018",
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS",
+   "wavelength_um": 1.25,
+   "wavelength_label": "J band Qphi polarized intensity",
+   "technique": "PDI",
+   "survey": null,
+   "credit": "Olofsson et al. 2018, Fig. 1 (crop: J-band Q_phi)",
+   "paper": {
+    "first_author": "Olofsson",
+    "year": 2018,
+    "title": "Resolving faint structures in the debris disk around TWA7",
+    "journal": "A&A 617, A109",
+    "arxiv": "1804.01929",
+    "bibcode": null
+   },
+   "file": "images/twa-7/twa-7_sphere-jband2018.png"
   }
  ],
  "notes": null,
- "last_updated": "2026-07-07",
+ "last_updated": "2026-07-08",
  "plx_mas": 29.3277,
  "mags": {
   "B": 12.21,

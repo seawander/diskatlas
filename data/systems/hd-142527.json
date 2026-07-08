@@ -172,6 +172,26 @@
     "arxiv": "2103.08462",
     "bibcode": "2021A&A...648A..70H"
    }
+  },
+  {
+   "type": "disk_scattered",
+   "facility": "VLT-NACO",
+   "instrument": "NACO L'",
+   "wavelength_um": 3.8,
+   "wavelength_label": "L' band 3.8 um (PSF-reference, ADI)",
+   "technique": "ADI",
+   "survey": null,
+   "credit": "Rameau et al. 2012, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Rameau",
+    "year": 2012,
+    "title": "High Contrast Imaging of the Close Environment of HD 142527",
+    "journal": "A&A 546, A24",
+    "arxiv": "1208.4557",
+    "bibcode": "2012A&A...546A..24R"
+   },
+   "image_id": "hd-142527_naco-lprime-rameau2012",
+   "file": "images/hd-142527/hd-142527_naco-lprime-rameau2012.png"
   }
  ],
  "notes": "Extreme azimuthal dust asymmetry; M-dwarf companion inside cavity.",

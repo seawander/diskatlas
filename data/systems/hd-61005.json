@@ -285,14 +285,14 @@
    "wavelength_label": "H band (1.65 um); off-centered inner ring discovery",
    "technique": "ADI",
    "survey": null,
-   "credit": "Buenzli et al. 2011, Fig. 1a (crop)",
+   "credit": "Buenzli et al. 2010, Fig. 1a (crop)",
    "paper": {
     "first_author": "Buenzli",
-    "year": 2011,
+    "year": 2010,
     "title": "Dissecting the Moth: Discovery of an off-centered ring in the HD 61005 debris disk with high-resolution imaging",
-    "journal": "A&A 526, A8",
+    "journal": "A&A 524, L1",
     "arxiv": "1011.2496",
-    "bibcode": "2011A&A...526A...8B"
+    "bibcode": "2010A&A...524L...1B"
    },
    "file": "images/hd-61005/hd-61005_naco2011.png",
    "note": "CORRECTION vs brief: this paper (arXiv 1011.2496) is VLT/NACO H-band ADI/LOCI imaging, not Gemini/NICI as labeled in the task brief -- verified in the paper text and Fig. 1 caption ('High-contrast NACO H-band images of HD 61005'). VLT-NACO was genuinely absent from hd-61005.json, so added under its correct facility name."

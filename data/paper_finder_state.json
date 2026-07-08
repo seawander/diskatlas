@@ -1775,5 +1775,55 @@
   "status": "excluded",
   "reason": "V4046 Sgr ALMA CO already represented (Teague+2025)",
   "date": "2026-07-07"
+ },
+ "1412.4145": {
+  "status": "ingested",
+  "reason": "PF8 2026-07-08",
+  "date": "2026-07-07"
+ },
+ "1511.02526": {
+  "status": "ingested",
+  "reason": "PF8 2026-07-08",
+  "date": "2026-07-07"
+ },
+ "1208.4557": {
+  "status": "ingested",
+  "reason": "PF8 2026-07-08",
+  "date": "2026-07-07"
+ },
+ "2509.02681": {
+  "status": "excluded",
+  "reason": "Roman CGI white-paper, archival image gallery, no new data",
+  "date": "2026-07-07"
+ },
+ "1601.00742": {
+  "status": "excluded",
+  "reason": "LkCa 15 HiCIAO already present (Thalmann 2010)",
+  "date": "2026-07-07"
+ },
+ "1512.05440": {
+  "status": "excluded",
+  "reason": "TW Hya ALMA B7 already present (Andrews 2016)",
+  "date": "2026-07-07"
+ },
+ "1508.04765": {
+  "status": "excluded",
+  "reason": "AU Mic GPI already present (Esposito 2020)",
+  "date": "2026-07-07"
+ },
+ "1302.3029": {
+  "status": "excluded",
+  "reason": "HD 169142 NACO-pol already present (de Regt 2024)",
+  "date": "2026-07-07"
+ },
+ "1606.08498": {
+  "status": "excluded",
+  "reason": "Fomalhaut SAM non-detection",
+  "date": "2026-07-07"
+ },
+ "2407.04661": {
+  "status": "excluded",
+  "reason": "beta Pic MIRI MRS spectroscopy already present",
+  "date": "2026-07-07"
  }
 }

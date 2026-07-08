@@ -293,6 +293,26 @@
     "bibcode": null
    },
    "file": "images/hd-15115/hd-15115_nici2014.png"
+  },
+  {
+   "type": "disk_scattered",
+   "facility": "Subaru-IRCS",
+   "instrument": "IRCS",
+   "wavelength_um": 1.63,
+   "wavelength_label": "H band 1.63 um",
+   "technique": "ADI",
+   "survey": null,
+   "credit": "Sai et al. 2015, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Sai",
+    "year": 2015,
+    "title": "Near-Infrared Image of the Debris Disk around HD 15115",
+    "journal": "PASJ 67, 20",
+    "arxiv": "1412.4145",
+    "bibcode": "2015PASJ...67...20S"
+   },
+   "image_id": "hd-15115_ircs-sai2014",
+   "file": "images/hd-15115/hd-15115_ircs-sai2014.png"
   }
  ],
  "notes": null,
