@@ -2080,5 +2080,20 @@
   "status": "ingested",
   "reason": "AGE-PRO survey completeness pass 2026-07-08",
   "date": "2026-07-08"
+ },
+ "2004ApJS..154..458S": {
+  "status": "ingested",
+  "reason": "Archival classic, ADS bibcode 2026-07-08",
+  "date": "2026-07-08"
+ },
+ "2013ApJ...776..111M": {
+  "status": "ingested",
+  "reason": "Archival classic, ADS bibcode 2026-07-08",
+  "date": "2026-07-08"
+ },
+ "2016PhRvL.117y1101I": {
+  "status": "ingested",
+  "reason": "Archival classic, ADS bibcode 2026-07-08",
+  "date": "2026-07-08"
  }
 }
