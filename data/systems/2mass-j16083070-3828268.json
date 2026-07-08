@@ -1,0 +1,50 @@
+{
+ "id": "2mass-j16083070-3828268",
+ "name": "2MASS J16083070-3828268",
+ "alt_names": [
+  "J1608",
+  "IRAS 16051-3820",
+  "SSTc2d J160830.7-382827"
+ ],
+ "simbad": "IRAS 16051-3820",
+ "ra_deg": 242.12791419336,
+ "dec_deg": -38.47412397889,
+ "dist_pc": 153.4,
+ "plx_mas": 6.518,
+ "mags": {
+  "V": 11.15,
+  "J": 8.974,
+  "H": 8.389,
+  "K": 8.225
+ },
+ "sptype": "K2",
+ "region": "Lupus",
+ "categories": [
+  "protoplanetary"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "image_id": "2mass-j16083070-3828268_sphere2019",
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS (DPI)",
+   "wavelength_um": 1.65,
+   "wavelength_label": "H band polarized intensity (PI)",
+   "technique": "PDI",
+   "survey": null,
+   "credit": "Villenave et al. 2019, Fig. 1 (crop: PI H-band panel)",
+   "paper": {
+    "first_author": "Villenave",
+    "year": 2019,
+    "title": "Spatial segregation of dust grains in transition disks. SPHERE observations of 2MASS J16083070-3828268 and RXJ1852.3-3700",
+    "journal": "A&A",
+    "arxiv": "1902.04612",
+    "bibcode": null
+   },
+   "file": "images/2mass-j16083070-3828268/2mass-j16083070-3828268_sphere2019.png"
+  }
+ ],
+ "notes": "Transition disk in Lupus 3 with resolved cavity; VLT/SPHERE IRDIS PDI (H- and J-band) polarized-intensity imaging shows two bright crescents flanking a dark cavity plus a faint 'rear-facing' near side, indicating a moderately inclined disk (Villenave et al. 2019, arXiv:1902.04612, also covers RX J1852.3-3700 = J1852, already in atlas).",
+ "last_updated": "2026-07-08"
+}

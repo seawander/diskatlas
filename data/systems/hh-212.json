@@ -1,0 +1,44 @@
+{
+ "id": "hh-212",
+ "name": "HH 212",
+ "alt_names": [
+  "HH 212 MM",
+  "IRAS 05413-0104"
+ ],
+ "simbad": "HH 212",
+ "ra_deg": 85.96421,
+ "dec_deg": -1.04808,
+ "dist_pc": 400.0,
+ "plx_mas": null,
+ "mags": {},
+ "sptype": null,
+ "region": "Orion (L1630)",
+ "categories": [
+  "protoplanetary"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "image_id": "hh-212_alma2021",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 7",
+   "wavelength_um": 878,
+   "wavelength_label": "878 um continuum, total intensity",
+   "technique": "interferometry",
+   "survey": null,
+   "credit": "Lin et al. 2021, Fig. 1a (crop)",
+   "paper": {
+    "first_author": "Lin",
+    "year": 2021,
+    "title": "What Produces Dust Polarization in the HH 212 Protostellar Disk at 878 um: Dust Self-Scattering or Dichroic Extinction?",
+    "journal": "ApJ",
+    "arxiv": "2102.11481",
+    "bibcode": null
+   },
+   "file": "images/hh-212/hh-212_alma2021.png"
+  }
+ ],
+ "notes": "Class 0 protostellar disk driving the HH 212 jet; ALMA 878um dust polarization (~0.03 arcsec resolution) resolves a nearly edge-on disk with V-shaped polarization structures and 'arm' features (Lin et al. 2021, arXiv:2102.11481), attributed to dichroic extinction / self-scattering by grains near the disk midplane.",
+ "last_updated": "2026-07-08"
+}

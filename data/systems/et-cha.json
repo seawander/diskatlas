@@ -1,0 +1,64 @@
+{
+ "id": "et-cha",
+ "name": "ET Cha",
+ "alt_names": [
+  "RECX 15",
+  "IRAS F08450-7854"
+ ],
+ "simbad": "V* ET Cha",
+ "ra_deg": 130.82743896501,
+ "dec_deg": -79.08839791162,
+ "dist_pc": 103.4,
+ "plx_mas": 9.6756,
+ "mags": {
+  "V": 13.97,
+  "J": 10.505,
+  "H": 9.834,
+  "K": 9.431
+ },
+ "sptype": "M4.0",
+ "region": "eta Chamaeleontis cluster",
+ "categories": [
+  "protoplanetary"
+ ],
+ "planets": [
+  {
+   "name": "B",
+   "status": "confirmed",
+   "method": "imaging",
+   "note": "Close low-mass companion resolved with SPHERE (cADI)",
+   "paper": {
+    "first_author": "Ginski",
+    "year": 2020,
+    "title": "Disk Evolution Study Through Imaging of Nearby Young Stars (DESTINYS): A close low mass companion to ET Cha",
+    "journal": "A&A 642, A119",
+    "arxiv": "2007.05274",
+    "bibcode": null
+   }
+  }
+ ],
+ "images": [
+  {
+   "image_id": "et-cha_sphere2020",
+   "type": "planet",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS",
+   "wavelength_um": 1.65,
+   "wavelength_label": "H band (classical ADI, coronagraphic)",
+   "technique": "ADI",
+   "survey": "DESTINYS",
+   "credit": "Ginski et al. 2020, Fig. 2 (crop: I-cADI panel)",
+   "paper": {
+    "first_author": "Ginski",
+    "year": 2020,
+    "title": "Disk Evolution Study Through Imaging of Nearby Young Stars (DESTINYS): A close low mass companion to ET Cha",
+    "journal": "A&A",
+    "arxiv": "2007.05274",
+    "bibcode": null
+   },
+   "file": "images/et-cha/et-cha_sphere2020.png"
+  }
+ ],
+ "notes": "DESTINYS SPHERE/IRDIS program (Ginski et al. 2020, arXiv:2007.05274) discovered a close (~130 mas) low-mass companion candidate to this old (5-8 Myr) accreting T Tauri star with an unusually compact gas-rich disk; no resolved circumstellar disk signal was detected outside the coronagraph IWA.",
+ "last_updated": "2026-07-08"
+}

@@ -1,0 +1,45 @@
+{
+ "id": "orion-src-i",
+ "name": "Orion Source I",
+ "alt_names": [
+  "Orion-KL Source I",
+  "Radio Source I",
+  "[RLK73] IRc 2"
+ ],
+ "simbad": "[RLK73] IRc  2",
+ "ra_deg": 83.81048117,
+ "dec_deg": -5.37516508,
+ "dist_pc": 388.0,
+ "plx_mas": null,
+ "mags": {},
+ "sptype": null,
+ "region": "Orion BN/KL",
+ "categories": [
+  "protoplanetary"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "image_id": "orion-src-i_alma2021",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "JVLA + ALMA",
+   "wavelength_um": 3488,
+   "wavelength_label": "86 GHz continuum",
+   "technique": "interferometry",
+   "survey": null,
+   "credit": "Chen et al. 2021, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Chen",
+    "year": 2021,
+    "title": "Structure of the Source I disk in Orion-KL",
+    "journal": "ApJ",
+    "arxiv": "2110.13838",
+    "bibcode": null
+   },
+   "file": "images/orion-src-i/orion-src-i_alma2021.png"
+  }
+ ],
+ "notes": "Massive young stellar object in the Orion BN/KL region driving the SiO maser outflow. Multi-frequency (43-340 GHz) JVLA+ALMA imaging resolves an almost edge-on ~100 au disk heated from inside (Chen et al. 2021, arXiv:2110.13838). Distance ~388 pc (Orion Nebula Cluster / Kounkel et al. 2017).",
+ "last_updated": "2026-07-08"
+}

@@ -1,0 +1,50 @@
+{
+ "id": "bd45598",
+ "name": "BD+45°598",
+ "alt_names": [
+  "BD+45 598",
+  "2MASS J02211307+4600070",
+  "TYC 3294-2222-1"
+ ],
+ "simbad": "BD+45 598",
+ "ra_deg": 35.30451269693,
+ "dec_deg": 46.00199187202,
+ "dist_pc": 73.3,
+ "plx_mas": 13.648,
+ "mags": {
+  "V": 9.06,
+  "J": 7.621,
+  "H": 7.167,
+  "K": 7.051
+ },
+ "sptype": "K0",
+ "region": "beta Pictoris Moving Group",
+ "categories": [
+  "debris"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "image_id": "bd45598_charis2024",
+   "type": "disk_scattered",
+   "facility": "Subaru-SCExAO",
+   "instrument": "CHARIS",
+   "wavelength_um": 1.55,
+   "wavelength_label": "J band (ADI A-LOCI PSF-subtracted)",
+   "technique": "ADI",
+   "survey": null,
+   "credit": "Farkas et al. 2024, Fig. 3 (crop: J band panel)",
+   "paper": {
+    "first_author": "Farkas",
+    "year": 2024,
+    "title": "SCExAO/CHARIS Multi-Wavelength, High-Contrast Imaging of the BD+45 deg 598 Debris Disk",
+    "journal": "AJ",
+    "arxiv": "2405.04521",
+    "bibcode": null
+   },
+   "file": "images/bd45598/bd45598_charis2024.png"
+  }
+ ],
+ "notes": "Edge-on debris disk discovered with VLT/SPHERE (Rodigas et al. 2021, Discovery of an Edge-on Circumstellar Debris Disk Around BD+45 deg 598); characterized with multiband SCExAO/CHARIS imaging (Farkas et al. 2024, arXiv:2405.04521). Newly identified member of the beta Pic Moving Group.",
+ "last_updated": "2026-07-08"
+}

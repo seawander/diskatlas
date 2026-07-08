@@ -1,0 +1,50 @@
+{
+ "id": "99-herculis",
+ "name": "99 Herculis",
+ "alt_names": [
+  "99 Her",
+  "HD 165908A",
+  "b Her"
+ ],
+ "simbad": "* b Her",
+ "ra_deg": 271.75662775372,
+ "dec_deg": 30.56210691458,
+ "dist_pc": 15.8,
+ "plx_mas": 63.3943,
+ "mags": {
+  "V": 5.13,
+  "J": 3.459,
+  "H": 3.242,
+  "K": 3.107
+ },
+ "sptype": "F6V",
+ "region": null,
+ "categories": [
+  "debris"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "image_id": "99-herculis_herschel2012",
+   "type": "disk_mm",
+   "facility": "Herschel",
+   "instrument": "PACS",
+   "wavelength_um": 160,
+   "wavelength_label": "160 um combined image",
+   "technique": "imaging",
+   "survey": null,
+   "credit": "Kennedy et al. 2012, Fig. 4 (crop: 160um panel)",
+   "paper": {
+    "first_author": "Kennedy",
+    "year": 2012,
+    "title": "99 Herculis: Host to a Circumbinary Polar-ring Debris Disk",
+    "journal": "MNRAS",
+    "arxiv": "1201.1911",
+    "bibcode": null
+   },
+   "file": "images/99-herculis/99-herculis_herschel2012.png"
+  }
+ ],
+ "notes": "Eccentric-orbit binary hosting the only known polar-aligned circumbinary debris disk, resolved with Herschel PACS at 70/100/160um (Kennedy et al. 2012, arXiv:1201.1911). Disk position angle misaligned from the binary line of nodes, consistent with a near-polar configuration perpendicular to the binary pericenter direction.",
+ "last_updated": "2026-07-08"
+}

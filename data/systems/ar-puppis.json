@@ -1,0 +1,50 @@
+{
+ "id": "ar-puppis",
+ "name": "AR Puppis",
+ "alt_names": [
+  "AR Pup",
+  "HIP 39376",
+  "IRAS 08011-3627"
+ ],
+ "simbad": "V* AR Pup",
+ "ra_deg": 120.75688191685,
+ "dec_deg": -36.59665261916,
+ "dist_pc": null,
+ "plx_mas": 1.5652,
+ "mags": {
+  "V": 9.55,
+  "J": 7.891,
+  "H": 6.82,
+  "K": 5.285
+ },
+ "sptype": "Rpec (G-type post-AGB, Teff~6000K)",
+ "region": null,
+ "categories": [
+  "protoplanetary"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "image_id": "ar-puppis_zimpol2019",
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "ZIMPOL",
+   "wavelength_um": 0.55,
+   "wavelength_label": "V band (deconvolved total intensity)",
+   "technique": "coronagraphy",
+   "survey": null,
+   "credit": "Kluska et al. 2019, Fig. 5 (crop: ZIMPOL V panel)",
+   "paper": {
+    "first_author": "Kluska",
+    "year": 2019,
+    "title": "Resolved imaging of the AR Puppis circumbinary disk",
+    "journal": "A&A",
+    "arxiv": "1901.04109",
+    "bibcode": null
+   },
+   "file": "images/ar-puppis/ar-puppis_zimpol2019.png"
+  }
+ ],
+ "notes": "RV Tauri post-AGB circumbinary disk resolved with VLT/SPHERE ZIMPOL (V,I) and IRDIS (H); Kluska et al. 2019 (arXiv:1901.04109). Distance poorly constrained (~1-6 kpc per van Leeuwen 2007 / Gaia DR2, hence dist_pc left null); comparable systems (IRAS 08544-4431, L2 Pup) suggest ~350-500 pc may be more likely but is not adopted here without a firmer measurement.",
+ "last_updated": "2026-07-08"
+}
