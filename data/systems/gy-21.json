@@ -1,0 +1,45 @@
+{
+ "id": "gy-21",
+ "name": "GY 21",
+ "alt_names": [
+  "[GY92] 21",
+  "SSTc2d J162623.6-242439",
+  "Oph 1"
+ ],
+ "simbad": "[GY92] 21",
+ "ra_deg": 246.598249,
+ "dec_deg": -24.410971,
+ "dist_pc": 140,
+ "sptype": null,
+ "region": "Ophiuchus",
+ "categories": [
+  "protoplanetary"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "image_id": "gy-21_alma-agepro",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 6",
+   "wavelength_um": 1300,
+   "wavelength_label": "1.3mm continuum (AGE-PRO)",
+   "technique": "interferometry",
+   "survey": null,
+   "credit": "Ruiz-Rodriguez et al. 2025, Fig. 4 (crop: Oph 1)",
+   "paper": {
+    "first_author": "Ruiz-Rodriguez",
+    "year": 2025,
+    "title": "The ALMA Survey of Gas Evolution of PROtoplanetary Disks (AGE-PRO): II. Dust and Gas Disk Properties in the Ophiuchus Star-forming Region",
+    "journal": "ApJ 989, 2",
+    "arxiv": "2506.10731",
+    "bibcode": null
+   },
+   "file": "images/gy-21/gy-21_alma-agepro.png"
+  }
+ ],
+ "notes": "AUTO-CREATED from staging - fill metadata & coords Added 2026-07-08 (AGE-PRO ALMA, Vioque+2025 resolved).",
+ "last_updated": "2026-07-08",
+ "plx_mas": null,
+ "mags": null
+}

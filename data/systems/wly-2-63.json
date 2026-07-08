@@ -34,10 +34,30 @@
     "arxiv": "2012.00189",
     "bibcode": "2021MNRAS.501.2934C"
    }
+  },
+  {
+   "image_id": "wly-2-63_alma-agepro",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 6",
+   "wavelength_um": 1300,
+   "wavelength_label": "1.3mm continuum (AGE-PRO)",
+   "technique": "interferometry",
+   "survey": null,
+   "credit": "Ruiz-Rodriguez et al. 2025, Fig. 4 (crop: Oph 7 / IRS 63)",
+   "paper": {
+    "first_author": "Ruiz-Rodriguez",
+    "year": 2025,
+    "title": "The ALMA Survey of Gas Evolution of PROtoplanetary Disks (AGE-PRO): II. Dust and Gas Disk Properties in the Ophiuchus Star-forming Region",
+    "journal": "ApJ 989, 2",
+    "arxiv": "2506.10731",
+    "bibcode": null
+   },
+   "file": "images/wly-2-63/wly-2-63_alma-agepro.png"
   }
  ],
  "notes": "AUTO-CREATED from staging - fill metadata & coords",
- "last_updated": "2026-07-06",
+ "last_updated": "2026-07-08",
  "mags": {
   "J": 15.504,
   "H": 11.827,
