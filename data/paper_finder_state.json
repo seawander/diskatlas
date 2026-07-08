@@ -2095,5 +2095,30 @@
   "status": "ingested",
   "reason": "Archival classic, ADS bibcode 2026-07-08",
   "date": "2026-07-08"
+ },
+ "2004ApJ...605L..53F": {
+  "status": "ingested",
+  "reason": "Archival NIR classic, ADS bibcode 2026-07-08",
+  "date": "2026-07-08"
+ },
+ "2006ApJ...636L.153F": {
+  "status": "ingested",
+  "reason": "Archival NIR classic, ADS bibcode 2026-07-08",
+  "date": "2026-07-08"
+ },
+ "1998ApJ...502L..65S": {
+  "status": "ingested",
+  "reason": "Archival NIR classic, ADS bibcode 2026-07-08",
+  "date": "2026-07-08"
+ },
+ "1996ApJ...473..437B": {
+  "status": "ingested",
+  "reason": "Archival NIR classic, ADS bibcode 2026-07-08",
+  "date": "2026-07-08"
+ },
+ "2001AJ....122.3396G": {
+  "status": "ingested",
+  "reason": "Archival NIR classic, ADS bibcode 2026-07-08",
+  "date": "2026-07-08"
  }
 }
