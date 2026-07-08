@@ -1,0 +1,59 @@
+{
+ "id": "l2-puppis",
+ "name": "L2 Puppis",
+ "alt_names": [
+  "HD 56096",
+  "HIP 34922",
+  "HR 2748",
+  "2MASS J07133229-4438233"
+ ],
+ "simbad": "L02 Pup",
+ "ra_deg": 108.3846605984317,
+ "dec_deg": -44.6397088588789,
+ "dist_pc": 64.0,
+ "sptype": null,
+ "region": null,
+ "categories": [
+  "protoplanetary"
+ ],
+ "planets": [
+  {
+   "name": "B",
+   "status": "candidate",
+   "note": "Secondary continuum + CO source at projected separation rho=30.6+/-2.5 mas (R0=1.96+/-0.16 AU), coincident with the near-IR companion of Kervella et al. 2015. Orbital period ~5 yr; mass constrained to m_B=12+/-16 Mjup from the coincidence of the gas disk center of rotation with the continuum position. Likely a planet or low-mass brown dwarf, possibly surrounded by an extended molecular atmosphere or accretion disk.",
+   "method": "interferometry (ALMA continuum + CO kinematics)",
+   "paper": {
+    "first_author": "Kervella",
+    "year": 2016,
+    "arxiv": "1611.06231",
+    "bibcode": "2016A&A...596A..92K"
+   }
+  }
+ ],
+ "images": [
+  {
+   "image_id": "l2-puppis_alma2016",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 7",
+   "wavelength_um": 887,
+   "wavelength_label": "338 GHz continuum (PSF-subtracted)",
+   "technique": "interferometry",
+   "survey": null,
+   "credit": "Kervella et al. 2016, Fig. 1 (crop: PSF-subtracted panel)",
+   "paper": {
+    "first_author": "Kervella",
+    "year": 2016,
+    "title": "ALMA observations of the nearby AGB star L2 Puppis. I. Mass of the central star and detection of a candidate planet",
+    "journal": "A&A",
+    "arxiv": "1611.06231",
+    "bibcode": "2016A&A...596A..92K"
+   },
+   "file": "images/l2-puppis/l2-puppis_alma2016.png"
+  }
+ ],
+ "notes": "AUTO-CREATED from staging - fill metadata & coords Added 2026-07-08 (discovery queue).",
+ "last_updated": "2026-07-08",
+ "plx_mas": null,
+ "mags": null
+}

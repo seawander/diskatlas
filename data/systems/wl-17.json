@@ -33,6 +33,26 @@
     "bibcode": null
    },
    "file": "images/wl-17/wl-17_alma2023.png"
+  },
+  {
+   "image_id": "wl-17_alma100ghz2021",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 3",
+   "wavelength_um": 3000,
+   "wavelength_label": "100 GHz (3mm) continuum",
+   "technique": "interferometry",
+   "survey": null,
+   "credit": "Gulick et al. 2021, Fig. 1 (crop: 100 GHz panel)",
+   "paper": {
+    "first_author": "Gulick",
+    "year": 2021,
+    "title": "Detection of Substructures in Young Transition Disk WL 17",
+    "journal": "ApJ",
+    "arxiv": "2109.02652",
+    "bibcode": "2021ApJ...922..150G"
+   },
+   "file": "images/wl-17/wl-17_alma100ghz2021.png"
   }
  ],
  "notes": "Class I protostar in the rho Ophiuchus (L1688) molecular cloud. ALMA Band 3 (3.1mm) and Band 7 (0.87mm) reveal different disk substructures (off-center hole in Band 7, central symmetric hole in Band 3) and a low mean spectral index (alpha=2.28+/-0.02), suggestive of grain growth and dust segregation on the protostellar-disk scale; disk may be massive and gravitationally unstable, possibly forming a single Jupiter-mass protoplanet via gravitational instability. Distance of 137 pc adopted as the mean distance to the L1688 region.",

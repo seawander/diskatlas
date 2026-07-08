@@ -1,0 +1,45 @@
+{
+ "id": "hd-113337",
+ "name": "HD 113337",
+ "alt_names": [
+  "HIP 63584",
+  "HR 4934",
+  "2MASS J13014695+6336368"
+ ],
+ "simbad": "HD 113337",
+ "ra_deg": 195.4455287228599,
+ "dec_deg": 63.61022100515,
+ "dist_pc": 36.2,
+ "sptype": null,
+ "region": null,
+ "categories": [
+  "debris"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "image_id": "hd-113337_herschel2019",
+   "type": "disk_mm",
+   "facility": "Herschel",
+   "instrument": "PACS",
+   "wavelength_um": 70,
+   "wavelength_label": "70 micron (S/N map)",
+   "technique": "direct imaging",
+   "survey": null,
+   "credit": "Borgniet et al. 2019, Fig. 3 (crop: left panel)",
+   "paper": {
+    "first_author": "Borgniet",
+    "year": 2019,
+    "title": "Constraints on HD 113337 fundamental parameters and planetary system. Combining long-base visible interferometry, disc imaging, and high-contrast imaging",
+    "journal": "A&A",
+    "arxiv": "1905.11156",
+    "bibcode": "2019A&A...627A..44B"
+   },
+   "file": "images/hd-113337/hd-113337_herschel2019.png"
+  }
+ ],
+ "notes": "AUTO-CREATED from staging - fill metadata & coords Added 2026-07-08 (discovery queue).",
+ "last_updated": "2026-07-08",
+ "plx_mas": null,
+ "mags": null
+}
