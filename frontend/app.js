@@ -656,12 +656,14 @@ if (typeof window !== "undefined") (function () {
       row.onclick = () => { listEl.hidden = true; searchEl.value = s.name; goTo(s); };
       listEl.appendChild(row);
     }
-    const r = searchEl.getBoundingClientRect();
-    listEl.style.left = r.left + "px";
-    /* anchor right under the search box and overlay the facet chips (front layer),
-       instead of below the whole (tall) header */
-    listEl.style.top = (r.bottom + 4) + "px";
+    /* anchor right under the search box (front layer over the facet chips) with
+       header-relative offsets: the list lives inside the fixed #topbar, so a
+       phone keyboard or focus zoom shifting the visual viewport moves both
+       together and can never park the list on top of the input */
     listEl.hidden = false;
+    const hdrW = (searchEl.offsetParent || document.body).clientWidth;
+    listEl.style.left = Math.max(8, Math.min(searchEl.offsetLeft, hdrW - listEl.offsetWidth - 8)) + "px";
+    listEl.style.top = (searchEl.offsetTop + searchEl.offsetHeight + 4) + "px";
   });
   document.addEventListener("click", e => {
     if (e.target !== searchEl && !listEl.contains(e.target)) listEl.hidden = true;
