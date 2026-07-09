@@ -14,7 +14,7 @@
  "sptype": null,
  "region": null,
  "categories": [
-  "protoplanetary"
+  "evolved"
  ],
  "planets": [
   {
@@ -50,6 +50,46 @@
     "bibcode": "2016A&A...596A..92K"
    },
    "file": "images/l2-puppis/l2-puppis_alma2016.png"
+  },
+  {
+   "image_id": "l2-puppis_zimpol-v",
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "ZIMPOL",
+   "wavelength_um": 0.554,
+   "wavelength_label": "V band (554 nm), deconvolved intensity",
+   "technique": "polarimetry",
+   "survey": null,
+   "credit": "Kervella et al. 2015, Fig. 4 (crop: V band intensity)",
+   "paper": {
+    "first_author": "Kervella",
+    "year": 2015,
+    "title": "The dust disk and companion of the nearby AGB star L2 Puppis - SPHERE/ZIMPOL polarimetric imaging at visible wavelengths",
+    "journal": "A&A 578, A77",
+    "arxiv": "1511.04448",
+    "bibcode": "2015A&A...578A..77K"
+   },
+   "file": "images/l2-puppis/l2-puppis_zimpol-v.png"
+  },
+  {
+   "image_id": "l2-puppis_zimpol-nr",
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "ZIMPOL",
+   "wavelength_um": 0.646,
+   "wavelength_label": "N_R band (646 nm), deconvolved intensity",
+   "technique": "polarimetry",
+   "survey": null,
+   "credit": "Kervella et al. 2015, Fig. 4 (crop: N_R band intensity)",
+   "paper": {
+    "first_author": "Kervella",
+    "year": 2015,
+    "title": "The dust disk and companion of the nearby AGB star L2 Puppis - SPHERE/ZIMPOL polarimetric imaging at visible wavelengths",
+    "journal": "A&A 578, A77",
+    "arxiv": "1511.04448",
+    "bibcode": "2015A&A...578A..77K"
+   },
+   "file": "images/l2-puppis/l2-puppis_zimpol-nr.png"
   }
  ],
  "notes": "AUTO-CREATED from staging - fill metadata & coords Added 2026-07-08 (discovery queue).",

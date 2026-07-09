@@ -52,7 +52,7 @@ _MM_FACILITY_INSTR = {  # facilities that double as the canonical instrument
 
 INSTR_RULES = [  # (substring-of-lowercased(facility+instrument), canonical family)
     ("magao-x", "MagAO-X"), ("visao", "MagAO"), ("magao", "MagAO"),
-    ("sphere", "SPHERE"), ("irdis", "SPHERE"), ("zimpol", "SPHERE"),
+    ("sphere", "SPHERE"),  # plain/ambiguous SPHERE; sub-instruments handled in instr_key()
     ("gravity", "GRAVITY"), ("matisse", "MATISSE"), ("pionier", "PIONIER"),
     ("midi", "MIDI"), ("amber", "AMBER"),
     ("gpi", "GPI"), ("nici", "NICI"), ("niri", "NIRI"),
@@ -114,6 +114,15 @@ _WORDY = {"acs", "foc", "near", "mec", "lws", "gpc", "ciao"}  # substring-collis
 
 def instr_key(facility, instrument):
     text = ((facility or "") + " " + (instrument or "")).lower()
+    # SPHERE sub-instrument split (requested 2026-07-08): report IRDIS / ZIMPOL / IFS
+    # separately as SPHERE/<sub>. IRDIS and ZIMPOL are SPHERE-only; IFS is gated on the
+    # SPHERE context so Gemini/GPI's own IFS (e.g. "Gemini-GPI / IFS pol") stays GPI.
+    if "zimpol" in text:
+        return "SPHERE/ZIMPOL"
+    if "irdis" in text:
+        return "SPHERE/IRDIS"
+    if "sphere" in text and "ifs" in text:
+        return "SPHERE/IFS"
     for sub, fam in INSTR_RULES:
         if sub in _WORDY:
             if re.search(r"(?<![a-z0-9])" + re.escape(sub) + r"(?![a-z0-9])", text):
