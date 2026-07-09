@@ -1,7 +1,10 @@
 {
  "id": "3c-273",
  "name": "3C 273",
- "alt_names": ["PGC 41121", "HIP 60936"],
+ "alt_names": [
+  "PGC 41121",
+  "HIP 60936"
+ ],
  "simbad": "3C 273",
  "ra_deg": 187.27791594049,
  "dec_deg": 2.05238823055,
@@ -84,27 +87,67 @@
    }
   },
   {
-   "image_id": "3c-273_alma-dfg2022",
+   "image_id": "3c-273_alma-band3",
    "type": "quasar",
    "facility": "ALMA",
-   "instrument": "Band 3/6/7 continuum",
-   "wavelength_um": 1300,
-   "wavelength_label": "93, 233, 343 GHz continuum",
+   "instrument": "Band 3",
+   "wavelength_um": 3226,
+   "wavelength_label": "93 GHz continuum (high-dynamic-range); jet + extended host emission",
    "technique": "interferometry",
    "survey": null,
-   "credit": "Komugi et al. 2022, Fig. 1 (crop)",
+   "credit": "Komugi et al. 2022, Fig. 1d (crop)",
    "paper": {
     "first_author": "Komugi",
     "year": 2022,
     "title": "Detection of extended millimeter emission in the host galaxy of 3C273 and its implications for QSO feedback via high dynamic range ALMA imaging",
-    "journal": "PASJ",
+    "journal": "ApJ 930, 3",
     "arxiv": "2203.15218",
-    "bibcode": null
+    "bibcode": "2022ApJ...930....3K"
    },
-   "file": "images/3c-273/3c-273_alma-dfg2022.png"
+   "file": "images/3c-273/3c-273_alma-band3.png"
+  },
+  {
+   "image_id": "3c-273_alma-band6",
+   "type": "quasar",
+   "facility": "ALMA",
+   "instrument": "Band 6",
+   "wavelength_um": 1287,
+   "wavelength_label": "233 GHz continuum (high-dynamic-range); jet + extended host emission",
+   "technique": "interferometry",
+   "survey": null,
+   "credit": "Komugi et al. 2022, Fig. 1f (crop)",
+   "paper": {
+    "first_author": "Komugi",
+    "year": 2022,
+    "title": "Detection of extended millimeter emission in the host galaxy of 3C273 and its implications for QSO feedback via high dynamic range ALMA imaging",
+    "journal": "ApJ 930, 3",
+    "arxiv": "2203.15218",
+    "bibcode": "2022ApJ...930....3K"
+   },
+   "file": "images/3c-273/3c-273_alma-band6.png"
+  },
+  {
+   "image_id": "3c-273_alma-band7",
+   "type": "quasar",
+   "facility": "ALMA",
+   "instrument": "Band 7",
+   "wavelength_um": 874,
+   "wavelength_label": "343 GHz continuum (high-dynamic-range); jet + extended host emission",
+   "technique": "interferometry",
+   "survey": null,
+   "credit": "Komugi et al. 2022, Fig. 1h (crop)",
+   "paper": {
+    "first_author": "Komugi",
+    "year": 2022,
+    "title": "Detection of extended millimeter emission in the host galaxy of 3C273 and its implications for QSO feedback via high dynamic range ALMA imaging",
+    "journal": "ApJ 930, 3",
+    "arxiv": "2203.15218",
+    "bibcode": "2022ApJ...930....3K"
+   },
+   "file": "images/3c-273/3c-273_alma-band7.png"
   }
  ],
  "notes": "First entry of the quasar-host coronagraphy category. The brightest quasar; host imaged to 0.2 arcsec with STIS RDI.",
- "last_updated": "2026-07-06",
+ "last_updated": "2026-07-08",
  "redshift": 0.158
 }
