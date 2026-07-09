@@ -1,0 +1,44 @@
+{
+ "id": "iras-08544-4431",
+ "name": "IRAS 08544-4431",
+ "alt_names": [
+  "CD-44 4961",
+  "HD 76221"
+ ],
+ "simbad": "CD-44 4961",
+ "ra_deg": 134.0590833,
+ "dec_deg": -44.7196448,
+ "dist_pc": 1500,
+ "sptype": null,
+ "region": null,
+ "categories": [
+  "evolved"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "image_id": "iras-08544-4431_sphere_zimpol",
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "ZIMPOL",
+   "wavelength_um": 0.55,
+   "wavelength_label": "V band (deconvolved Qphi, azimuthal polarized intensity)",
+   "technique": "polarimetric imaging",
+   "survey": null,
+   "credit": "Andrych et al. 2024, Fig. 6 (crop: V-band Qphi panel)",
+   "paper": {
+    "first_author": "Andrych",
+    "year": 2024,
+    "title": "Multiwavelength high-resolution polarimetric imaging of second-generation disc around post-AGB binary IRAS 08544-4431 with SPHERE",
+    "journal": "MNRAS",
+    "arxiv": "2411.17057",
+    "bibcode": "2024MNRAS.535.1763A"
+   },
+   "file": "images/iras-08544-4431/iras-08544-4431_sphere_zimpol.png"
+  }
+ ],
+ "notes": "AUTO-CREATED from staging - fill metadata & coords Added 2026-07-08 (post-AGB/evolved disk, exotic discovery).",
+ "last_updated": "2026-07-08",
+ "plx_mas": null,
+ "mags": null
+}

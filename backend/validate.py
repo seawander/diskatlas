@@ -12,7 +12,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 SYS = ROOT / "data" / "systems"
 
-CATS = {"protoplanetary", "debris", "quasar"}
+CATS = {"protoplanetary", "debris", "quasar", "evolved"}
 TYPES = {"disk_mm", "disk_scattered", "planet", "quasar"}
 PSTAT = {"confirmed", "candidate", "disputed", "dust-cloud", "refuted"}
 

@@ -1,0 +1,43 @@
+{
+ "id": "iras-16342-3814",
+ "name": "IRAS 16342-3814",
+ "alt_names": [
+  "Water Fountain Nebula"
+ ],
+ "simbad": "IRAS 16342-3814",
+ "ra_deg": 249.4161217,
+ "dec_deg": -38.3381789,
+ "dist_pc": 2000,
+ "sptype": null,
+ "region": null,
+ "categories": [
+  "evolved"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "image_id": "iras-16342-3814_alma_13co",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "ALMA Band 7",
+   "wavelength_um": 850.0,
+   "wavelength_label": "0.87mm (13CO J=3-2 integrated intensity, with 0.89mm continuum contours)",
+   "technique": "interferometric imaging",
+   "survey": null,
+   "credit": "Sahai et al. 2017, Fig. 1a (crop: 13CO map with continuum contours)",
+   "paper": {
+    "first_author": "Sahai",
+    "year": 2017,
+    "title": "ALMA Observations of the Water Fountain Pre-Planetary Nebula IRAS 16342-3814: High-velocity Bipolar Jets and an Expanding Torus",
+    "journal": "ApJL",
+    "arxiv": "1612.05616",
+    "bibcode": "2017ApJ...835L..13S"
+   },
+   "file": "images/iras-16342-3814/iras-16342-3814_alma_13co.png"
+  }
+ ],
+ "notes": "AUTO-CREATED from staging - fill metadata & coords Added 2026-07-08 (post-AGB/evolved disk, exotic discovery).",
+ "last_updated": "2026-07-08",
+ "plx_mas": null,
+ "mags": null
+}

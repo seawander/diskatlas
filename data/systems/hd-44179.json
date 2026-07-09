@@ -1,0 +1,44 @@
+{
+ "id": "hd-44179",
+ "name": "HD 44179",
+ "alt_names": [
+  "Red Rectangle",
+  "AFGL 915"
+ ],
+ "simbad": "HD 44179",
+ "ra_deg": 94.9925773,
+ "dec_deg": -10.6374184,
+ "dist_pc": 710,
+ "sptype": null,
+ "region": null,
+ "categories": [
+  "evolved"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "image_id": "hd-44179_alma_09mm",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "ALMA Band 7",
+   "wavelength_um": 900.0,
+   "wavelength_label": "0.9mm continuum",
+   "technique": "interferometric imaging",
+   "survey": null,
+   "credit": "Alcolea et al. 2024 (IAU Symp. 384 proceedings), Fig. 1 left panel",
+   "paper": {
+    "first_author": "Alcolea",
+    "year": 2024,
+    "title": "The Red Rectangle: a thin disk with big grains",
+    "journal": "IAU Symposium 384 Proceedings",
+    "arxiv": "2311.16734",
+    "bibcode": null
+   },
+   "file": "images/hd-44179/hd-44179_alma_09mm.png"
+  }
+ ],
+ "notes": "AUTO-CREATED from staging - fill metadata & coords Added 2026-07-08 (post-AGB/evolved disk, exotic discovery).",
+ "last_updated": "2026-07-08",
+ "plx_mas": null,
+ "mags": null
+}
