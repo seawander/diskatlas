@@ -383,10 +383,11 @@ if (typeof window !== "undefined") (function () {
     if (view.ppd > 2.2) {
       ctx.fillStyle = COL.constlab;
       ctx.font = "italic 11px system-ui";
+      const CN = (typeof window !== "undefined" && window.I18N_CONST && window.I18N_CONST[lang]) || null;
       for (const n of CONST.names) {
         const p = project(n.ra, n.dec, view, W, H);
         if (p.x < 0 || p.x > W || p.y < topbarH() || p.y > H) continue;
-        ctx.fillText(n.name, p.x, p.y);
+        ctx.fillText((CN && CN[n.name]) || n.name, p.x, p.y);
       }
       ctx.font = "11px system-ui";
     }
