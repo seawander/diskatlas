@@ -187,12 +187,12 @@
    }
   },
   {
-   "image_id": "hd-95086_miri2024",
+   "image_id": "hd-95086_miri2024-f1065c",
    "type": "disk_mm",
    "facility": "JWST",
    "instrument": "MIRI coronagraph",
-   "wavelength_um": 23,
-   "wavelength_label": "10.575/11.3/23 micron (F1140C + F2300C shown)",
+   "wavelength_um": 10.575,
+   "wavelength_label": "MIRI F1065C 10.6 um coronagraphy; inner disk + planet",
    "technique": "coronagraphy",
    "survey": null,
    "credit": "Malin et al. 2024, Fig. 1 (crop)",
@@ -204,7 +204,47 @@
     "arxiv": "2408.16843",
     "bibcode": null
    },
-   "file": "images/hd-95086/hd-95086_miri2024.png"
+   "file": "images/hd-95086/hd-95086_miri2024-f1065c.png"
+  },
+  {
+   "image_id": "hd-95086_miri2024-f1140c",
+   "type": "disk_mm",
+   "facility": "JWST",
+   "instrument": "MIRI coronagraph",
+   "wavelength_um": 11.4,
+   "wavelength_label": "MIRI F1140C 11.4 um coronagraphy; inner disk + planet",
+   "technique": "coronagraphy",
+   "survey": null,
+   "credit": "Malin et al. 2024, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Malin",
+    "year": 2024,
+    "title": "Unveiling the HD 95086 system at mid-infrared wavelengths with JWST/MIRI",
+    "journal": "Astronomy & Astrophysics",
+    "arxiv": "2408.16843",
+    "bibcode": null
+   },
+   "file": "images/hd-95086/hd-95086_miri2024-f1140c.png"
+  },
+  {
+   "image_id": "hd-95086_miri2024-f2300c",
+   "type": "disk_mm",
+   "facility": "JWST",
+   "instrument": "MIRI coronagraph",
+   "wavelength_um": 23.0,
+   "wavelength_label": "MIRI F2300C 23 um coronagraphy; resolved outer disk ring",
+   "technique": "coronagraphy",
+   "survey": null,
+   "credit": "Malin et al. 2024, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Malin",
+    "year": 2024,
+    "title": "Unveiling the HD 95086 system at mid-infrared wavelengths with JWST/MIRI",
+    "journal": "Astronomy & Astrophysics",
+    "arxiv": "2408.16843",
+    "bibcode": null
+   },
+   "file": "images/hd-95086/hd-95086_miri2024-f2300c.png"
   },
   {
    "image_id": "hd-95086_herschel-pacs2015",

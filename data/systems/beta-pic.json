@@ -381,16 +381,15 @@
    "hires_url": "https://archive.stsci.edu/prepds/alice/"
   },
   {
-   "image_id": "beta-pic_jwst-nircam",
+   "image_id": "beta-pic_jwst-nircam-f182m",
    "type": "disk_scattered",
    "facility": "JWST",
    "instrument": "NIRCam",
-   "wavelength_um": 2.1,
-   "wavelength_label": "JWST/NIRCam 1.8-4.4 um scattered light (coronagraphy)",
+   "wavelength_um": 1.82,
+   "wavelength_label": "NIRCam F182M coronagraphy (MCRDI PSF-subtracted)",
    "technique": "coronagraphy",
    "survey": null,
-   "file": "images/beta-pic/beta-pic_jwst-nircam.png",
-   "credit": "Rebollido et al. 2024, Fig. 1 (NIRCam; crop)",
+   "credit": "Rebollido et al. 2024, Fig. 1 (crop, NIRCam panel)",
    "paper": {
     "first_author": "Rebollido",
     "year": 2024,
@@ -398,7 +397,108 @@
     "journal": "AJ 167, 69",
     "arxiv": "2401.05271",
     "bibcode": "2024AJ....167...69R"
-   }
+   },
+   "file": "images/beta-pic/beta-pic_jwst-nircam-f182m.png"
+  },
+  {
+   "image_id": "beta-pic_jwst-nircam-f210m",
+   "type": "disk_scattered",
+   "facility": "JWST",
+   "instrument": "NIRCam",
+   "wavelength_um": 2.1,
+   "wavelength_label": "NIRCam F210M coronagraphy (MCRDI PSF-subtracted)",
+   "technique": "coronagraphy",
+   "survey": null,
+   "credit": "Rebollido et al. 2024, Fig. 1 (crop, NIRCam panel)",
+   "paper": {
+    "first_author": "Rebollido",
+    "year": 2024,
+    "title": "JWST-TST High Contrast: Asymmetries, dust populations and hints of a collision in the beta Pictoris disk with NIRCam and MIRI",
+    "journal": "AJ 167, 69",
+    "arxiv": "2401.05271",
+    "bibcode": "2024AJ....167...69R"
+   },
+   "file": "images/beta-pic/beta-pic_jwst-nircam-f210m.png"
+  },
+  {
+   "image_id": "beta-pic_jwst-nircam-f250m",
+   "type": "disk_scattered",
+   "facility": "JWST",
+   "instrument": "NIRCam",
+   "wavelength_um": 2.5,
+   "wavelength_label": "NIRCam F250M coronagraphy (MCRDI PSF-subtracted)",
+   "technique": "coronagraphy",
+   "survey": null,
+   "credit": "Rebollido et al. 2024, Fig. 1 (crop, NIRCam panel)",
+   "paper": {
+    "first_author": "Rebollido",
+    "year": 2024,
+    "title": "JWST-TST High Contrast: Asymmetries, dust populations and hints of a collision in the beta Pictoris disk with NIRCam and MIRI",
+    "journal": "AJ 167, 69",
+    "arxiv": "2401.05271",
+    "bibcode": "2024AJ....167...69R"
+   },
+   "file": "images/beta-pic/beta-pic_jwst-nircam-f250m.png"
+  },
+  {
+   "image_id": "beta-pic_jwst-nircam-f300m",
+   "type": "disk_scattered",
+   "facility": "JWST",
+   "instrument": "NIRCam",
+   "wavelength_um": 3.0,
+   "wavelength_label": "NIRCam F300M coronagraphy (MCRDI PSF-subtracted); beta Pic b visible",
+   "technique": "coronagraphy",
+   "survey": null,
+   "credit": "Rebollido et al. 2024, Fig. 1 (crop, NIRCam panel)",
+   "paper": {
+    "first_author": "Rebollido",
+    "year": 2024,
+    "title": "JWST-TST High Contrast: Asymmetries, dust populations and hints of a collision in the beta Pictoris disk with NIRCam and MIRI",
+    "journal": "AJ 167, 69",
+    "arxiv": "2401.05271",
+    "bibcode": "2024AJ....167...69R"
+   },
+   "file": "images/beta-pic/beta-pic_jwst-nircam-f300m.png"
+  },
+  {
+   "image_id": "beta-pic_jwst-nircam-f335m",
+   "type": "disk_scattered",
+   "facility": "JWST",
+   "instrument": "NIRCam",
+   "wavelength_um": 3.35,
+   "wavelength_label": "NIRCam F335M coronagraphy (MCRDI PSF-subtracted)",
+   "technique": "coronagraphy",
+   "survey": null,
+   "credit": "Rebollido et al. 2024, Fig. 1 (crop, NIRCam panel)",
+   "paper": {
+    "first_author": "Rebollido",
+    "year": 2024,
+    "title": "JWST-TST High Contrast: Asymmetries, dust populations and hints of a collision in the beta Pictoris disk with NIRCam and MIRI",
+    "journal": "AJ 167, 69",
+    "arxiv": "2401.05271",
+    "bibcode": "2024AJ....167...69R"
+   },
+   "file": "images/beta-pic/beta-pic_jwst-nircam-f335m.png"
+  },
+  {
+   "image_id": "beta-pic_jwst-nircam-f444w",
+   "type": "disk_scattered",
+   "facility": "JWST",
+   "instrument": "NIRCam",
+   "wavelength_um": 4.44,
+   "wavelength_label": "NIRCam F444W coronagraphy (MCRDI PSF-subtracted)",
+   "technique": "coronagraphy",
+   "survey": null,
+   "credit": "Rebollido et al. 2024, Fig. 1 (crop, NIRCam panel)",
+   "paper": {
+    "first_author": "Rebollido",
+    "year": 2024,
+    "title": "JWST-TST High Contrast: Asymmetries, dust populations and hints of a collision in the beta Pictoris disk with NIRCam and MIRI",
+    "journal": "AJ 167, 69",
+    "arxiv": "2401.05271",
+    "bibcode": "2024AJ....167...69R"
+   },
+   "file": "images/beta-pic/beta-pic_jwst-nircam-f444w.png"
   },
   {
    "image_id": "beta-pic_jwst-miri",

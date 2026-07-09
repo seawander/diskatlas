@@ -1,7 +1,9 @@
 {
  "id": "hd-15115",
  "name": "HD 15115",
- "alt_names": ["HIP 11360"],
+ "alt_names": [
+  "HIP 11360"
+ ],
  "simbad": "HD 15115",
  "ra_deg": 36.56769077023,
  "dec_deg": 6.29255179257,
@@ -235,12 +237,12 @@
    }
   },
   {
-   "image_id": "hd-15115_charis2020",
+   "image_id": "hd-15115_charis2020-j",
    "type": "disk_scattered",
    "facility": "Subaru",
    "instrument": "SCExAO/CHARIS",
-   "wavelength_um": 1.65,
-   "wavelength_label": "J/H/K bands (1.1-2.4 micron near-IR IFS)",
+   "wavelength_um": 1.2,
+   "wavelength_label": "J band 1.16-1.33 um (CHARIS channels 1-5)",
    "technique": "ADI",
    "survey": null,
    "credit": "Lawson et al. 2020, Fig. 3 (crop)",
@@ -252,7 +254,47 @@
     "arxiv": "2008.00309",
     "bibcode": null
    },
-   "file": "images/hd-15115/hd-15115_charis2020.png"
+   "file": "images/hd-15115/hd-15115_charis2020-j.png"
+  },
+  {
+   "image_id": "hd-15115_charis2020-h",
+   "type": "disk_scattered",
+   "facility": "Subaru",
+   "instrument": "SCExAO/CHARIS",
+   "wavelength_um": 1.6,
+   "wavelength_label": "H band 1.47-1.80 um (CHARIS channels 8-14)",
+   "technique": "ADI",
+   "survey": null,
+   "credit": "Lawson et al. 2020, Fig. 3 (crop)",
+   "paper": {
+    "first_author": "Lawson",
+    "year": 2020,
+    "title": "SCExAO/CHARIS Near-infrared Integral Field Spectroscopy of the HD 15115 Debris Disk",
+    "journal": "The Astronomical Journal",
+    "arxiv": "2008.00309",
+    "bibcode": null
+   },
+   "file": "images/hd-15115/hd-15115_charis2020-h.png"
+  },
+  {
+   "image_id": "hd-15115_charis2020-k",
+   "type": "disk_scattered",
+   "facility": "Subaru",
+   "instrument": "SCExAO/CHARIS",
+   "wavelength_um": 2.2,
+   "wavelength_label": "K band 1.93-2.29 um (CHARIS channels 16-21)",
+   "technique": "ADI",
+   "survey": null,
+   "credit": "Lawson et al. 2020, Fig. 3 (crop)",
+   "paper": {
+    "first_author": "Lawson",
+    "year": 2020,
+    "title": "SCExAO/CHARIS Near-infrared Integral Field Spectroscopy of the HD 15115 Debris Disk",
+    "journal": "The Astronomical Journal",
+    "arxiv": "2008.00309",
+    "bibcode": null
+   },
+   "file": "images/hd-15115/hd-15115_charis2020-k.png"
   },
   {
    "image_id": "hd-15115_sphere-rdi-xie22",
@@ -316,7 +358,7 @@
   }
  ],
  "notes": null,
- "last_updated": "2026-07-07",
+ "last_updated": "2026-07-08",
  "plx_mas": 20.5026,
  "mags": {
   "B": 7.15,

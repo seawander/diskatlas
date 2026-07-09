@@ -35,17 +35,15 @@
  ],
  "images": [
   {
-   "image_id": "vhs-j1256-1257_vista2015",
+   "image_id": "vhs-j1256-1257_vista2015-y",
    "type": "planet",
    "facility": "VISTA",
    "instrument": "VIRCAM (VHS survey)",
-   "wavelength_um": 2.15,
-   "wavelength_label": "Ks band (discovery also in Y, J, H)",
+   "wavelength_um": 1.02,
+   "wavelength_label": "Y band discovery image (VHS/2MASS common proper motion pair)",
    "technique": "other",
    "survey": "VISTA Hemisphere Survey",
-   "file": "images/vhs-j1256-1257/vhs-j1256-1257_vista2015.png",
    "credit": "Gauza et al. 2015, Fig. 1 (crop)",
-   "hires_url": null,
    "paper": {
     "first_author": "Gauza",
     "year": 2015,
@@ -53,9 +51,70 @@
     "journal": "ApJ 804, 96",
     "arxiv": "1505.00806",
     "bibcode": null
-   }
+   },
+   "file": "images/vhs-j1256-1257/vhs-j1256-1257_vista2015-y.png"
+  },
+  {
+   "image_id": "vhs-j1256-1257_vista2015-j",
+   "type": "planet",
+   "facility": "VISTA",
+   "instrument": "VIRCAM (VHS survey)",
+   "wavelength_um": 1.25,
+   "wavelength_label": "J band discovery image (VHS/2MASS common proper motion pair)",
+   "technique": "other",
+   "survey": "VISTA Hemisphere Survey",
+   "credit": "Gauza et al. 2015, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Gauza",
+    "year": 2015,
+    "title": "Discovery of a Young Planetary Mass Companion to the Nearby M Dwarf VHS J125601.92-125723.9",
+    "journal": "ApJ 804, 96",
+    "arxiv": "1505.00806",
+    "bibcode": null
+   },
+   "file": "images/vhs-j1256-1257/vhs-j1256-1257_vista2015-j.png"
+  },
+  {
+   "image_id": "vhs-j1256-1257_vista2015-h",
+   "type": "planet",
+   "facility": "VISTA",
+   "instrument": "VIRCAM (VHS survey)",
+   "wavelength_um": 1.65,
+   "wavelength_label": "H band discovery image (VHS/2MASS common proper motion pair)",
+   "technique": "other",
+   "survey": "VISTA Hemisphere Survey",
+   "credit": "Gauza et al. 2015, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Gauza",
+    "year": 2015,
+    "title": "Discovery of a Young Planetary Mass Companion to the Nearby M Dwarf VHS J125601.92-125723.9",
+    "journal": "ApJ 804, 96",
+    "arxiv": "1505.00806",
+    "bibcode": null
+   },
+   "file": "images/vhs-j1256-1257/vhs-j1256-1257_vista2015-h.png"
+  },
+  {
+   "image_id": "vhs-j1256-1257_vista2015-ks",
+   "type": "planet",
+   "facility": "VISTA",
+   "instrument": "VIRCAM (VHS survey)",
+   "wavelength_um": 2.15,
+   "wavelength_label": "Ks band discovery image (VHS/2MASS common proper motion pair)",
+   "technique": "other",
+   "survey": "VISTA Hemisphere Survey",
+   "credit": "Gauza et al. 2015, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Gauza",
+    "year": 2015,
+    "title": "Discovery of a Young Planetary Mass Companion to the Nearby M Dwarf VHS J125601.92-125723.9",
+    "journal": "ApJ 804, 96",
+    "arxiv": "1505.00806",
+    "bibcode": null
+   },
+   "file": "images/vhs-j1256-1257/vhs-j1256-1257_vista2015-ks.png"
   }
  ],
  "notes": null,
- "last_updated": "2026-07-07"
+ "last_updated": "2026-07-08"
 }

@@ -1,7 +1,9 @@
 {
  "id": "hip-65426",
  "name": "HIP 65426",
- "alt_names": ["HD 116434"],
+ "alt_names": [
+  "HD 116434"
+ ],
  "simbad": "HIP 65426",
  "ra_deg": 201.15040723346,
  "dec_deg": -51.5044568644,
@@ -43,11 +45,12 @@
    "file": "images/hip-65426/hip-65426_sphere2017.png"
   },
   {
+   "image_id": "hip-65426_jwst2023-f250m",
    "type": "planet",
    "facility": "JWST",
-   "instrument": "NIRCam+MIRI",
-   "wavelength_um": 11.4,
-   "wavelength_label": "2-16 um; first JWST exoplanet imaging",
+   "instrument": "NIRCam",
+   "wavelength_um": 2.5,
+   "wavelength_label": "NIRCam F250M coronagraphy; planet b",
    "technique": "coronagraphy",
    "survey": null,
    "credit": "Carter et al. 2023, Fig. 8 (crop)",
@@ -59,8 +62,107 @@
     "arxiv": "2208.14990",
     "bibcode": "2023ApJ...951L..20C"
    },
-   "image_id": "hip-65426_jwst2023",
-   "file": "images/hip-65426/hip-65426_jwst2023.png"
+   "file": "images/hip-65426/hip-65426_jwst2023-f250m.png"
+  },
+  {
+   "image_id": "hip-65426_jwst2023-f300m",
+   "type": "planet",
+   "facility": "JWST",
+   "instrument": "NIRCam",
+   "wavelength_um": 3.0,
+   "wavelength_label": "NIRCam F300M coronagraphy; planet b",
+   "technique": "coronagraphy",
+   "survey": null,
+   "credit": "Carter et al. 2023, Fig. 8 (crop)",
+   "paper": {
+    "first_author": "Carter",
+    "year": 2023,
+    "title": "The JWST Early Release Science Program for Direct Observations of Exoplanetary Systems I: High-Contrast Imaging of the Exoplanet HIP 65426 b from 2-16 um",
+    "journal": "ApJL 951, L20",
+    "arxiv": "2208.14990",
+    "bibcode": "2023ApJ...951L..20C"
+   },
+   "file": "images/hip-65426/hip-65426_jwst2023-f300m.png"
+  },
+  {
+   "image_id": "hip-65426_jwst2023-f356w",
+   "type": "planet",
+   "facility": "JWST",
+   "instrument": "NIRCam",
+   "wavelength_um": 3.56,
+   "wavelength_label": "NIRCam F356W coronagraphy; planet b",
+   "technique": "coronagraphy",
+   "survey": null,
+   "credit": "Carter et al. 2023, Fig. 8 (crop)",
+   "paper": {
+    "first_author": "Carter",
+    "year": 2023,
+    "title": "The JWST Early Release Science Program for Direct Observations of Exoplanetary Systems I: High-Contrast Imaging of the Exoplanet HIP 65426 b from 2-16 um",
+    "journal": "ApJL 951, L20",
+    "arxiv": "2208.14990",
+    "bibcode": "2023ApJ...951L..20C"
+   },
+   "file": "images/hip-65426/hip-65426_jwst2023-f356w.png"
+  },
+  {
+   "image_id": "hip-65426_jwst2023-f410m",
+   "type": "planet",
+   "facility": "JWST",
+   "instrument": "NIRCam",
+   "wavelength_um": 4.1,
+   "wavelength_label": "NIRCam F410M coronagraphy; planet b",
+   "technique": "coronagraphy",
+   "survey": null,
+   "credit": "Carter et al. 2023, Fig. 8 (crop)",
+   "paper": {
+    "first_author": "Carter",
+    "year": 2023,
+    "title": "The JWST Early Release Science Program for Direct Observations of Exoplanetary Systems I: High-Contrast Imaging of the Exoplanet HIP 65426 b from 2-16 um",
+    "journal": "ApJL 951, L20",
+    "arxiv": "2208.14990",
+    "bibcode": "2023ApJ...951L..20C"
+   },
+   "file": "images/hip-65426/hip-65426_jwst2023-f410m.png"
+  },
+  {
+   "image_id": "hip-65426_jwst2023-f444w",
+   "type": "planet",
+   "facility": "JWST",
+   "instrument": "NIRCam",
+   "wavelength_um": 4.44,
+   "wavelength_label": "NIRCam F444W coronagraphy; planet b",
+   "technique": "coronagraphy",
+   "survey": null,
+   "credit": "Carter et al. 2023, Fig. 8 (crop)",
+   "paper": {
+    "first_author": "Carter",
+    "year": 2023,
+    "title": "The JWST Early Release Science Program for Direct Observations of Exoplanetary Systems I: High-Contrast Imaging of the Exoplanet HIP 65426 b from 2-16 um",
+    "journal": "ApJL 951, L20",
+    "arxiv": "2208.14990",
+    "bibcode": "2023ApJ...951L..20C"
+   },
+   "file": "images/hip-65426/hip-65426_jwst2023-f444w.png"
+  },
+  {
+   "image_id": "hip-65426_jwst2023-f1550c",
+   "type": "planet",
+   "facility": "JWST",
+   "instrument": "MIRI",
+   "wavelength_um": 15.5,
+   "wavelength_label": "MIRI F1550C coronagraphy; planet b",
+   "technique": "coronagraphy",
+   "survey": null,
+   "credit": "Carter et al. 2023, Fig. 8 (crop)",
+   "paper": {
+    "first_author": "Carter",
+    "year": 2023,
+    "title": "The JWST Early Release Science Program for Direct Observations of Exoplanetary Systems I: High-Contrast Imaging of the Exoplanet HIP 65426 b from 2-16 um",
+    "journal": "ApJL 951, L20",
+    "arxiv": "2208.14990",
+    "bibcode": "2023ApJ...951L..20C"
+   },
+   "file": "images/hip-65426/hip-65426_jwst2023-f1550c.png"
   },
   {
    "type": "planet",
@@ -83,15 +185,15 @@
    }
   },
   {
-   "image_id": "hip-65426_naco2019",
+   "image_id": "hip-65426_naco2019-lp",
    "type": "planet",
    "facility": "VLT-NACO",
    "instrument": "NACO",
    "wavelength_um": 3.8,
-   "wavelength_label": "L'/M'; HIP 65426 b (ISPY)",
+   "wavelength_label": "L' (3.8 um); HIP 65426 b (ISPY), 2017-05-18",
    "technique": "ADI",
    "survey": null,
-   "credit": "Cheetham et al. 2019 (crop)",
+   "credit": "Cheetham et al. 2019, Fig. 1 left (crop)",
    "paper": {
     "first_author": "Cheetham",
     "year": 2019,
@@ -100,11 +202,31 @@
     "arxiv": "1812.07198",
     "bibcode": null
    },
-   "file": "images/hip-65426/hip-65426_naco2019.png"
+   "file": "images/hip-65426/hip-65426_naco2019-lp.png"
+  },
+  {
+   "image_id": "hip-65426_naco2019-mp",
+   "type": "planet",
+   "facility": "VLT-NACO",
+   "instrument": "NACO",
+   "wavelength_um": 4.8,
+   "wavelength_label": "M' (4.8 um); HIP 65426 b (ISPY), 2017-05-19",
+   "technique": "ADI",
+   "survey": null,
+   "credit": "Cheetham et al. 2019, Fig. 1 right (crop)",
+   "paper": {
+    "first_author": "Cheetham",
+    "year": 2019,
+    "title": "Spectral and orbital characterisation of the directly imaged giant planet HIP 65426 b",
+    "journal": null,
+    "arxiv": "1812.07198",
+    "bibcode": null
+   },
+   "file": "images/hip-65426/hip-65426_naco2019-mp.png"
   }
  ],
  "notes": null,
- "last_updated": "2026-07-07",
+ "last_updated": "2026-07-08",
  "plx_mas": 9.3031,
  "mags": {
   "B": 7.08,

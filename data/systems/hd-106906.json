@@ -148,16 +148,15 @@
    }
   },
   {
-   "image_id": "hd-106906_jwst-miri",
+   "image_id": "hd-106906_jwst-miri-f1140c",
    "type": "disk_mm",
    "facility": "JWST",
    "instrument": "MIRI",
    "wavelength_um": 11.3,
-   "wavelength_label": "JWST/MIRI F1140C+F1550C mid-IR thermal coronagraphy of the disk",
+   "wavelength_label": "MIRI F1140C 11.3 um coronagraphy (zoomed/binned panel)",
    "technique": "coronagraphy",
    "survey": null,
-   "file": "images/hd-106906/hd-106906_jwst-miri.png",
-   "credit": "Rouan et al. 2025 (JWST/MIRI F1140C+F1550C; crop)",
+   "credit": "Rouan et al. 2025, Fig. 1 (crop)",
    "paper": {
     "first_author": "Rouan",
     "year": 2025,
@@ -165,7 +164,28 @@
     "journal": "A&A (2025)",
     "arxiv": "2504.13679",
     "bibcode": null
-   }
+   },
+   "file": "images/hd-106906/hd-106906_jwst-miri-f1140c.png"
+  },
+  {
+   "image_id": "hd-106906_jwst-miri-f1550c",
+   "type": "disk_mm",
+   "facility": "JWST",
+   "instrument": "MIRI",
+   "wavelength_um": 15.5,
+   "wavelength_label": "MIRI F1550C 15.5 um coronagraphy (zoomed/binned panel)",
+   "technique": "coronagraphy",
+   "survey": null,
+   "credit": "Rouan et al. 2025, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Rouan",
+    "year": 2025,
+    "title": "MIRI-JWST mid-infrared direct imaging of the debris disk of HD 106906",
+    "journal": "A&A (2025)",
+    "arxiv": "2504.13679",
+    "bibcode": null
+   },
+   "file": "images/hd-106906/hd-106906_jwst-miri-f1550c.png"
   },
   {
    "image_id": "hd-106906_acs2015",
