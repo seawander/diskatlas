@@ -420,20 +420,26 @@ if (typeof window !== "undefined") (function () {
       " " + t("word_records") + " · " + (st.with_local_image || 0) + " " + t("word_local") +
       " · " + t("word_built") + " " + (A.generated || "?").slice(0, 10);
     /* literature-exploration progress bar (paper-finder ledgers, baked in at build time) */
-    if (st.papers_known && !document.getElementById("litbar")) {
-      const wrap = document.createElement("span"); wrap.id = "litbar";
-      const pctE = Math.round(100 * st.papers_explored / st.papers_known);
-      const pctI = Math.round(100 * st.papers_in_atlas / st.papers_known);
+    if (st.papers_known) {
+      let wrap = document.getElementById("litbar");
+      if (!wrap) {
+        wrap = document.createElement("span"); wrap.id = "litbar";
+        const pctE = Math.round(100 * st.papers_explored / st.papers_known);
+        const pctI = Math.round(100 * st.papers_in_atlas / st.papers_known);
+        /* collapsed behind an (i) icon: hover (or tap) reveals numbers + bar.
+           Language-independent scaffolding only; text is set below so it
+           re-localises when draw() re-runs after a language switch. */
+        wrap.innerHTML = '<span class="liticon">ⓘ</span>' +
+          '<span class="litdetail"><span class="litlabel"></span>' +
+          '<span class="littrack"><span class="litseg exp" style="width:' + pctE +
+          '%"></span><span class="litseg ing" style="width:' + pctI + '%"></span></span></span>';
+        wrap.onclick = () => wrap.classList.toggle("open");
+        document.getElementById("statsline").after(wrap);
+      }
       wrap.title = t("lit_title").replace("{k}", st.papers_known)
         .replace("{e}", st.papers_explored).replace("{i}", st.papers_in_atlas);
-      /* collapsed behind an (i) icon: hover (or tap) reveals numbers + bar */
-      wrap.innerHTML = '<span class="liticon">ⓘ</span>' +
-        '<span class="litdetail"><span class="litlabel">' + t("lit_label") + " " +
-        st.papers_in_atlas + "/" + st.papers_explored + "/" + st.papers_known + "</span>" +
-        '<span class="littrack"><span class="litseg exp" style="width:' + pctE +
-        '%"></span><span class="litseg ing" style="width:' + pctI + '%"></span></span></span>';
-      wrap.onclick = () => wrap.classList.toggle("open");
-      document.getElementById("statsline").after(wrap);
+      wrap.querySelector(".litlabel").textContent = t("lit_label") + " " +
+        st.papers_in_atlas + "/" + st.papers_explored + "/" + st.papers_known;
     }
   }
 
