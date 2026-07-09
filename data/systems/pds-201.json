@@ -1,7 +1,11 @@
 {
  "id": "pds-201",
  "name": "PDS 201",
- "alt_names": ["V351 Ori", "HD 38238", "HIP 27059"],
+ "alt_names": [
+  "V351 Ori",
+  "HD 38238",
+  "HIP 27059"
+ ],
  "simbad": "PDS 201",
  "ra_deg": 86.07831227347,
  "dec_deg": 0.14455839364,
@@ -92,10 +96,50 @@
     "bibcode": "2023A&A...680A.114R"
    },
    "file": "images/pds-201/pds-201_sphere-ks-qphi.png"
+  },
+  {
+   "image_id": "pds-201_dikl-klip",
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS (RDI)",
+   "wavelength_um": 1.6,
+   "wavelength_label": "H-band star-hopping RDI (KLIP reduction)",
+   "technique": "RDI",
+   "survey": null,
+   "credit": "Ren et al. 2023, Fig. 4 (crop: KLIP)",
+   "paper": {
+    "first_author": "Ren",
+    "year": 2023,
+    "title": "Karhunen-Loève Data Imputation in High Contrast Imaging",
+    "journal": "A&A 679, A8",
+    "arxiv": "2308.16912",
+    "bibcode": "2023A&A...679A...8R"
+   },
+   "file": "images/pds-201/pds-201_dikl-klip.png"
+  },
+  {
+   "image_id": "pds-201_dikl-dikl",
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS (RDI)",
+   "wavelength_um": 1.6,
+   "wavelength_label": "H-band star-hopping RDI (DIKL reduction)",
+   "technique": "RDI",
+   "survey": null,
+   "credit": "Ren et al. 2023, Fig. 4 (crop: DIKL)",
+   "paper": {
+    "first_author": "Ren",
+    "year": 2023,
+    "title": "Karhunen-Loève Data Imputation in High Contrast Imaging",
+    "journal": "A&A 679, A8",
+    "arxiv": "2308.16912",
+    "bibcode": "2023A&A...679A...8R"
+   },
+   "file": "images/pds-201/pds-201_dikl-dikl.png"
   }
  ],
  "notes": null,
- "last_updated": "2026-07-06",
+ "last_updated": "2026-07-08",
  "plx_mas": 3.0694,
  "mags": {
   "U": 9.44,

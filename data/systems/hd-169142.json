@@ -239,6 +239,46 @@
     "bibcode": "2019ApJ...881..159M"
    },
    "file": "images/hd-169142/hd-169142_macias2019-band3.png"
+  },
+  {
+   "image_id": "hd-169142_dikl-klip",
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS (RDI)",
+   "wavelength_um": 1.6,
+   "wavelength_label": "H-band star-hopping RDI (KLIP reduction)",
+   "technique": "RDI",
+   "survey": null,
+   "credit": "Ren et al. 2023, Fig. 4 (crop: KLIP)",
+   "paper": {
+    "first_author": "Ren",
+    "year": 2023,
+    "title": "Karhunen-Loève Data Imputation in High Contrast Imaging",
+    "journal": "A&A 679, A8",
+    "arxiv": "2308.16912",
+    "bibcode": "2023A&A...679A...8R"
+   },
+   "file": "images/hd-169142/hd-169142_dikl-klip.png"
+  },
+  {
+   "image_id": "hd-169142_dikl-dikl",
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS (RDI)",
+   "wavelength_um": 1.6,
+   "wavelength_label": "H-band star-hopping RDI (DIKL reduction)",
+   "technique": "RDI",
+   "survey": null,
+   "credit": "Ren et al. 2023, Fig. 4 (crop: DIKL)",
+   "paper": {
+    "first_author": "Ren",
+    "year": 2023,
+    "title": "Karhunen-Loève Data Imputation in High Contrast Imaging",
+    "journal": "A&A 679, A8",
+    "arxiv": "2308.16912",
+    "bibcode": "2023A&A...679A...8R"
+   },
+   "file": "images/hd-169142/hd-169142_dikl-dikl.png"
   }
  ],
  "notes": null,
