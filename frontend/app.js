@@ -756,13 +756,21 @@ if (typeof window !== "undefined") (function () {
       (s.last_updated ? '<div class="lastupd">' + esc(t("d_updated")) + " " +
         esc(s.last_updated) + "</div>" : "");
     buildSlider(s);
-    /* with instrument facets active, open on that instrument's first image
-       (same parent⊇children match as the filter) instead of the sequence start */
+    /* with instrument/facility facets active, open on the first image from the
+       selection instead of the sequence start; instrument (more specific) wins.
+       Matching mirrors the filter rules: instrument parent⊇children (SPHERE
+       finds SPHERE/IRDIS…), facility VLT also counts VLTI records. */
     let first = 0;
+    const ims = sortedImages(s);
     if (filters.instruments && filters.instruments.size) {
       const sel = [...filters.instruments];
-      const idx = sortedImages(s).findIndex(im => im.instr_key &&
+      const idx = ims.findIndex(im => im.instr_key &&
         sel.some(x => im.instr_key === x || (!x.includes("/") && im.instr_key.startsWith(x + "/"))));
+      if (idx >= 0) first = idx;
+    } else if (filters.facilities && filters.facilities.size) {
+      const sel = [...filters.facilities];
+      const idx = ims.findIndex(im => sel.some(x => (im.fac_keys || []).indexOf(x) >= 0 ||
+        (x === "VLT" && (im.fac_keys || []).indexOf("VLTI") >= 0)));
       if (idx >= 0) first = idx;
     }
     showImg(first);
