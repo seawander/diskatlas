@@ -1,0 +1,41 @@
+{
+ "id": "ac-her",
+ "name": "AC Her",
+ "alt_names": [],
+ "simbad": "V* AC Her",
+ "ra_deg": 277.56765546624,
+ "dec_deg": 21.86683315,
+ "dist_pc": 1627,
+ "sptype": null,
+ "region": null,
+ "categories": [
+  "evolved"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "image_id": "ac-her_sphere_irdis",
+   "type": "disk_scattered",
+   "facility": "VLT",
+   "instrument": "SPHERE/IRDIS",
+   "wavelength_um": 1.043,
+   "wavelength_label": "Y band (Q_phi polarized intensity)",
+   "technique": "polarimetric differential imaging",
+   "survey": null,
+   "credit": "Andrych et al. 2023, Fig. 4 (crop: AC Her panel)",
+   "paper": {
+    "first_author": "Andrych",
+    "year": 2023,
+    "title": "Second-generation protoplanetary discs around evolved binaries: a high-resolution polarimetric view with SPHERE/IRDIS",
+    "journal": "MNRAS",
+    "arxiv": "2307.16598",
+    "bibcode": null
+   },
+   "file": "images/ac-her/ac-her_sphere_irdis.png"
+  }
+ ],
+ "notes": "AUTO-CREATED from staging - fill metadata & coords Added 2026-07-08 (post-AGB binary disc).",
+ "last_updated": "2026-07-08",
+ "plx_mas": null,
+ "mags": null
+}

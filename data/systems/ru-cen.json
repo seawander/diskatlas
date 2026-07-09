@@ -1,0 +1,43 @@
+{
+ "id": "ru-cen",
+ "name": "RU Cen",
+ "alt_names": [
+  "IRAS 12067-4508"
+ ],
+ "simbad": "V* RU Cen",
+ "ra_deg": 182.3492285015699,
+ "dec_deg": -45.42633370371,
+ "dist_pc": 4618,
+ "sptype": null,
+ "region": null,
+ "categories": [
+  "evolved"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "image_id": "ru-cen_sphere_irdis",
+   "type": "disk_scattered",
+   "facility": "VLT",
+   "instrument": "SPHERE/IRDIS",
+   "wavelength_um": 1.625,
+   "wavelength_label": "H band (Q_phi polarized intensity)",
+   "technique": "polarimetric differential imaging",
+   "survey": null,
+   "credit": "Andrych et al. 2023, Fig. 4 (crop: RU Cen panel)",
+   "paper": {
+    "first_author": "Andrych",
+    "year": 2023,
+    "title": "Second-generation protoplanetary discs around evolved binaries: a high-resolution polarimetric view with SPHERE/IRDIS",
+    "journal": "MNRAS",
+    "arxiv": "2307.16598",
+    "bibcode": null
+   },
+   "file": "images/ru-cen/ru-cen_sphere_irdis.png"
+  }
+ ],
+ "notes": "AUTO-CREATED from staging - fill metadata & coords Added 2026-07-08 (post-AGB binary disc).",
+ "last_updated": "2026-07-08",
+ "plx_mas": null,
+ "mags": null
+}

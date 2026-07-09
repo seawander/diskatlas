@@ -1,0 +1,43 @@
+{
+ "id": "en-tra",
+ "name": "EN TrA",
+ "alt_names": [
+  "IRAS 14524-6838"
+ ],
+ "simbad": "V* EN TrA",
+ "ra_deg": 224.25285451175,
+ "dec_deg": -68.83969363381,
+ "dist_pc": 2700,
+ "sptype": null,
+ "region": null,
+ "categories": [
+  "evolved"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "image_id": "en-tra_vlti_pionier",
+   "type": "disk_scattered",
+   "facility": "VLTI",
+   "instrument": "PIONIER",
+   "wavelength_um": 1.65,
+   "wavelength_label": "H band (SPARCO/ORGANIC image reconstruction)",
+   "technique": "near-infrared interferometric imaging",
+   "survey": "INSPIRING",
+   "credit": "De Prins et al. 2026, Fig. 3 (crop: EN TrA panel)",
+   "paper": {
+    "first_author": "De Prins",
+    "year": 2026,
+    "title": "VLTI/PIONIER imaging of post-AGB binaries. An INSPIRING hunt for inner rim substructures in circumbinary discs",
+    "journal": "A&A",
+    "arxiv": "2605.13445",
+    "bibcode": null
+   },
+   "file": "images/en-tra/en-tra_vlti_pionier.png"
+  }
+ ],
+ "notes": "AUTO-CREATED from staging - fill metadata & coords Added 2026-07-08 (post-AGB binary disc).",
+ "last_updated": "2026-07-08",
+ "plx_mas": null,
+ "mags": null
+}

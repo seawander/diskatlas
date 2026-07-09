@@ -1,0 +1,43 @@
+{
+ "id": "u-mon",
+ "name": "U Mon",
+ "alt_names": [
+  "IRAS 07284-0940"
+ ],
+ "simbad": "V* U Mon",
+ "ra_deg": 112.69779651893,
+ "dec_deg": -9.77687707708,
+ "dist_pc": 800,
+ "sptype": null,
+ "region": null,
+ "categories": [
+  "evolved"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "image_id": "u-mon_sphere_irdis",
+   "type": "disk_scattered",
+   "facility": "VLT",
+   "instrument": "SPHERE/IRDIS",
+   "wavelength_um": 1.625,
+   "wavelength_label": "H band (Q_phi polarized intensity)",
+   "technique": "polarimetric differential imaging",
+   "survey": null,
+   "credit": "Andrych et al. 2023, Fig. 4 (crop: U Mon panel)",
+   "paper": {
+    "first_author": "Andrych",
+    "year": 2023,
+    "title": "Second-generation protoplanetary discs around evolved binaries: a high-resolution polarimetric view with SPHERE/IRDIS",
+    "journal": "MNRAS",
+    "arxiv": "2307.16598",
+    "bibcode": null
+   },
+   "file": "images/u-mon/u-mon_sphere_irdis.png"
+  }
+ ],
+ "notes": "AUTO-CREATED from staging - fill metadata & coords Added 2026-07-08 (post-AGB binary disc).",
+ "last_updated": "2026-07-08",
+ "plx_mas": null,
+ "mags": null
+}

@@ -1,0 +1,64 @@
+{
+ "id": "hr-4049",
+ "name": "HR 4049",
+ "alt_names": [
+  "HD 89353",
+  "IRAS 10158-2844"
+ ],
+ "simbad": "HD 89353",
+ "ra_deg": 154.53162472613,
+ "dec_deg": -28.99199866209,
+ "dist_pc": 1400,
+ "sptype": null,
+ "region": null,
+ "categories": [
+  "evolved"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "image_id": "hr-4049_vlti_pionier",
+   "type": "disk_scattered",
+   "facility": "VLTI",
+   "instrument": "PIONIER",
+   "wavelength_um": 1.65,
+   "wavelength_label": "H band (SPARCO/ORGANIC image reconstruction)",
+   "technique": "near-infrared interferometric imaging",
+   "survey": "INSPIRING",
+   "credit": "De Prins et al. 2026, Fig. 4 (crop: HR 4049 panel)",
+   "paper": {
+    "first_author": "De Prins",
+    "year": 2026,
+    "title": "VLTI/PIONIER imaging of post-AGB binaries. An INSPIRING hunt for inner rim substructures in circumbinary discs",
+    "journal": "A&A",
+    "arxiv": "2605.13445",
+    "bibcode": null
+   },
+   "file": "images/hr-4049/hr-4049_vlti_pionier.png"
+  },
+  {
+   "image_id": "hr-4049_sphere_irdis",
+   "type": "disk_scattered",
+   "facility": "VLT",
+   "instrument": "SPHERE/IRDIS",
+   "wavelength_um": 1.625,
+   "wavelength_label": "H band (Q_phi polarized intensity)",
+   "technique": "polarimetric differential imaging",
+   "survey": null,
+   "credit": "Andrych et al. 2023, Fig. 4 (crop: HR 4049 panel)",
+   "paper": {
+    "first_author": "Andrych",
+    "year": 2023,
+    "title": "Second-generation protoplanetary discs around evolved binaries: a high-resolution polarimetric view with SPHERE/IRDIS",
+    "journal": "MNRAS",
+    "arxiv": "2307.16598",
+    "bibcode": null
+   },
+   "file": "images/hr-4049/hr-4049_sphere_irdis.png"
+  }
+ ],
+ "notes": "AUTO-CREATED from staging - fill metadata & coords Added 2026-07-08 (post-AGB binary disc).",
+ "last_updated": "2026-07-08",
+ "plx_mas": null,
+ "mags": null
+}

@@ -1,0 +1,43 @@
+{
+ "id": "ai-sco",
+ "name": "AI Sco",
+ "alt_names": [
+  "IRAS 17530-3348"
+ ],
+ "simbad": "V* AI Sco",
+ "ra_deg": 269.07740899505,
+ "dec_deg": -33.81202180781,
+ "dist_pc": 2900,
+ "sptype": null,
+ "region": null,
+ "categories": [
+  "evolved"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "image_id": "ai-sco_vlti_pionier",
+   "type": "disk_scattered",
+   "facility": "VLTI",
+   "instrument": "PIONIER",
+   "wavelength_um": 1.65,
+   "wavelength_label": "H band (SPARCO/ORGANIC image reconstruction)",
+   "technique": "near-infrared interferometric imaging",
+   "survey": "INSPIRING",
+   "credit": "De Prins et al. 2026, Fig. 3 (crop: AI Sco panel)",
+   "paper": {
+    "first_author": "De Prins",
+    "year": 2026,
+    "title": "VLTI/PIONIER imaging of post-AGB binaries. An INSPIRING hunt for inner rim substructures in circumbinary discs",
+    "journal": "A&A",
+    "arxiv": "2605.13445",
+    "bibcode": null
+   },
+   "file": "images/ai-sco/ai-sco_vlti_pionier.png"
+  }
+ ],
+ "notes": "AUTO-CREATED from staging - fill metadata & coords Added 2026-07-08 (post-AGB binary disc).",
+ "last_updated": "2026-07-08",
+ "plx_mas": null,
+ "mags": null
+}

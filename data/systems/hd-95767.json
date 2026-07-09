@@ -1,0 +1,44 @@
+{
+ "id": "hd-95767",
+ "name": "HD 95767",
+ "alt_names": [
+  "V802 Car",
+  "IRAS 11000-6153"
+ ],
+ "simbad": "V* V802 Car",
+ "ra_deg": 165.51798121858,
+ "dec_deg": -62.16189833511,
+ "dist_pc": 4400,
+ "sptype": null,
+ "region": null,
+ "categories": [
+  "evolved"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "image_id": "hd-95767_vlti_pionier",
+   "type": "disk_scattered",
+   "facility": "VLTI",
+   "instrument": "PIONIER",
+   "wavelength_um": 1.65,
+   "wavelength_label": "H band (SPARCO/ORGANIC image reconstruction)",
+   "technique": "near-infrared interferometric imaging",
+   "survey": "INSPIRING",
+   "credit": "De Prins et al. 2026, Fig. 3 (crop: HD 95767 panel)",
+   "paper": {
+    "first_author": "De Prins",
+    "year": 2026,
+    "title": "VLTI/PIONIER imaging of post-AGB binaries. An INSPIRING hunt for inner rim substructures in circumbinary discs",
+    "journal": "A&A",
+    "arxiv": "2605.13445",
+    "bibcode": null
+   },
+   "file": "images/hd-95767/hd-95767_vlti_pionier.png"
+  }
+ ],
+ "notes": "AUTO-CREATED from staging - fill metadata & coords Added 2026-07-08 (post-AGB binary disc).",
+ "last_updated": "2026-07-08",
+ "plx_mas": null,
+ "mags": null
+}
