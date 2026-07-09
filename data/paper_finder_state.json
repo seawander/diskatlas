@@ -2218,7 +2218,7 @@
  },
  "2411.10518": {
   "status": "excluded",
-  "reason": "DECaPS survey RGB star field, no resolved disk visible",
+  "reason": "IRAS 08235 re-confirmed drop: crops too noisy / axis bleed, no clean resolved disk",
   "date": "2026-07-08"
  },
  "2409.03016": {
@@ -2259,6 +2259,16 @@
  "2505.16731": {
   "status": "ingested",
   "reason": "Keyword discovery r2 2026-07-08",
+  "date": "2026-07-08"
+ },
+ "2601.15285": {
+  "status": "ingested",
+  "reason": "Recent-disk discovery 2026-07-08",
+  "date": "2026-07-08"
+ },
+ "2603.15274": {
+  "status": "ingested",
+  "reason": "Recent-disk discovery 2026-07-08",
   "date": "2026-07-08"
  }
 }
