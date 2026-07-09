@@ -1,7 +1,9 @@
 {
  "id": "hd-32297",
  "name": "HD 32297",
- "alt_names": ["HIP 23451"],
+ "alt_names": [
+  "HIP 23451"
+ ],
  "simbad": "HD 32297",
  "ra_deg": 75.61431614758,
  "dec_deg": 7.46102182035,
@@ -215,16 +217,15 @@
    "hires_url": "https://archive.stsci.edu/prepds/alice/"
   },
   {
-   "image_id": "hd-32297_gpi-crotts24",
+   "image_id": "hd-32297_gpi-crotts24-j",
    "type": "disk_scattered",
    "facility": "Gemini-GPI",
    "instrument": "IFS pol",
-   "wavelength_um": 1.65,
-   "wavelength_label": "H band 1.6 um (pol. intensity, Qphi)",
+   "wavelength_um": 1.24,
+   "wavelength_label": "J band 1.24 um (pol. intensity, Qphi)",
    "technique": "PDI",
    "survey": "GPI-Crotts2024",
-   "file": "images/hd-32297/hd-32297_gpi-crotts24.png",
-   "credit": "Crotts et al. 2024, Fig. 1 (crop)",
+   "credit": "Crotts et al. 2024, Fig. 1 (crop: J band Qphi)",
    "paper": {
     "first_author": "Crotts",
     "year": 2024,
@@ -232,7 +233,48 @@
     "journal": "ApJ 961, 245",
     "arxiv": "2311.14599",
     "bibcode": "2024ApJ...961..245C"
-   }
+   },
+   "file": "images/hd-32297/hd-32297_gpi-crotts24-j.png"
+  },
+  {
+   "image_id": "hd-32297_gpi-crotts24-h",
+   "type": "disk_scattered",
+   "facility": "Gemini-GPI",
+   "instrument": "IFS pol",
+   "wavelength_um": 1.65,
+   "wavelength_label": "H band 1.65 um (pol. intensity, Qphi)",
+   "technique": "PDI",
+   "survey": "GPI-Crotts2024",
+   "credit": "Crotts et al. 2024, Fig. 1 (crop: H band Qphi)",
+   "paper": {
+    "first_author": "Crotts",
+    "year": 2024,
+    "title": "A Uniform Analysis of Debris Disks with the Gemini Planet Imager I: An Empirical Search for Perturbations from Planetary Companions in Polarized Light Images",
+    "journal": "ApJ 961, 245",
+    "arxiv": "2311.14599",
+    "bibcode": "2024ApJ...961..245C"
+   },
+   "file": "images/hd-32297/hd-32297_gpi-crotts24-h.png"
+  },
+  {
+   "image_id": "hd-32297_gpi-crotts24-k1",
+   "type": "disk_scattered",
+   "facility": "Gemini-GPI",
+   "instrument": "IFS pol",
+   "wavelength_um": 2.05,
+   "wavelength_label": "K1 band 2.05 um (pol. intensity, Qphi)",
+   "technique": "PDI",
+   "survey": "GPI-Crotts2024",
+   "credit": "Crotts et al. 2024, Fig. 1 (crop: K1 band Qphi)",
+   "paper": {
+    "first_author": "Crotts",
+    "year": 2024,
+    "title": "A Uniform Analysis of Debris Disks with the Gemini Planet Imager I: An Empirical Search for Perturbations from Planetary Companions in Polarized Light Images",
+    "journal": "ApJ 961, 245",
+    "arxiv": "2311.14599",
+    "bibcode": "2024ApJ...961..245C"
+   },
+   "file": "images/hd-32297/hd-32297_gpi-crotts24-k1.png"
   },
   {
    "image_id": "hd-32297_lbti2014",
@@ -356,7 +398,7 @@
   }
  ],
  "notes": null,
- "last_updated": "2026-07-07",
+ "last_updated": "2026-07-08",
  "plx_mas": 7.7081,
  "mags": {
   "B": 8.32,
