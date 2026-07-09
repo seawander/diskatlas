@@ -42,20 +42,40 @@
    "wavelength_label": "F814W (optical)",
    "technique": "coronagraphy",
    "survey": null,
-   "credit": "Wolff et al. 2017, Fig. 1 (crop)",
+   "credit": "Wolff et al. 2017, Fig. 1 top (crop: F814W)",
    "paper": {
     "first_author": "Wolff",
     "year": 2017,
     "title": "HST Scattered Light Imaging and Modeling of the Edge-on Protoplanetary Disk ESO-H$\\alpha$ 569",
-    "journal": "The Astrophysical Journal",
+    "journal": "ApJ 851, 56",
     "arxiv": "1711.03322",
-    "bibcode": null
+    "bibcode": "2017ApJ...851...56W"
    },
    "file": "images/eso-halpha-569/eso-halpha-569_acs2012.png"
+  },
+  {
+   "image_id": "eso-halpha-569_acs2012-f606w",
+   "type": "disk_scattered",
+   "facility": "HST",
+   "instrument": "ACS/WFC",
+   "wavelength_um": 0.606,
+   "wavelength_label": "F606W (optical); dark dust lane + outflow jet",
+   "technique": "coronagraphy",
+   "survey": null,
+   "credit": "Wolff et al. 2017, Fig. 1 bottom (crop: F606W)",
+   "paper": {
+    "first_author": "Wolff",
+    "year": 2017,
+    "title": "HST Scattered Light Imaging and Modeling of the Edge-on Protoplanetary Disk ESO-H$\\alpha$ 569",
+    "journal": "ApJ 851, 56",
+    "arxiv": "1711.03322",
+    "bibcode": "2017ApJ...851...56W"
+   },
+   "file": "images/eso-halpha-569/eso-halpha-569_acs2012-f606w.png"
   }
  ],
  "notes": "AUTO-CREATED from staging - fill metadata & coords",
- "last_updated": "2026-07-07",
+ "last_updated": "2026-07-08",
  "mags": {
   "V": 20.28,
   "G": 20.926947,
