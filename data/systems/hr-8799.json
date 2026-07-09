@@ -1,7 +1,10 @@
 {
  "id": "hr-8799",
  "name": "HR 8799",
- "alt_names": ["HD 218396", "HIP 114189"],
+ "alt_names": [
+  "HD 218396",
+  "HIP 114189"
+ ],
  "simbad": "HR 8799",
  "ra_deg": 346.86964883731,
  "dec_deg": 21.13425299097,
@@ -429,9 +432,9 @@
     "first_author": "Bergfors",
     "year": 2011,
     "title": "VLT/NACO astrometry of the HR 8799 planetary system. L'-band observations of the three outer planets",
-    "journal": "A&A 528, L8",
+    "journal": "A&A 528, A134",
     "arxiv": "1102.5330",
-    "bibcode": "2011A&A...528L...9B"
+    "bibcode": "2011A&A...528A.134B"
    },
    "file": "images/hr-8799/hr-8799_bergfors2011-naco.png"
   }

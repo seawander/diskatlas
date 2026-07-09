@@ -1,16 +1,28 @@
 {
  "id": "z-cma",
  "name": "Z CMa",
- "alt_names": ["Z Canis Majoris", "HD 53179", "HIP 34042"],
+ "alt_names": [
+  "Z Canis Majoris",
+  "HD 53179",
+  "HIP 34042"
+ ],
  "simbad": "Z CMa",
  "ra_deg": 105.9298330882,
  "dec_deg": -11.5517247405,
  "dist_pc": 1125.0,
  "plx_mas": 2.0354,
- "mags": {"V": 8.80, "G": 8.986204, "J": 6.543, "H": 5.216, "K": 3.61},
+ "mags": {
+  "V": 8.8,
+  "G": 8.986204,
+  "J": 6.543,
+  "H": 5.216,
+  "K": 3.61
+ },
  "sptype": "B5/8eq+F5/7",
  "region": "CMa R1",
- "categories": ["protoplanetary"],
+ "categories": [
+  "protoplanetary"
+ ],
  "planets": [],
  "images": [
   {
@@ -28,9 +40,9 @@
     "first_author": "Zurlo",
     "year": 2024,
     "title": "The environment around young eruptive stars. SPHERE/IRDIS polarimetric imaging of 7 protostars",
-    "journal": "A&A 686, A76",
+    "journal": "A&A 686, A309",
     "arxiv": "2403.12124",
-    "bibcode": "2024A&A...686A..76Z"
+    "bibcode": "2024A&A...686A.309Z"
    }
   },
   {
@@ -48,9 +60,9 @@
     "first_author": "Zurlo",
     "year": 2024,
     "title": "The environment around young eruptive stars. SPHERE/IRDIS polarimetric imaging of 7 protostars",
-    "journal": "A&A 686, A76",
+    "journal": "A&A 686, A309",
     "arxiv": "2403.12124",
-    "bibcode": "2024A&A...686A..76Z"
+    "bibcode": "2024A&A...686A.309Z"
    }
   },
   {

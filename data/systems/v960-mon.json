@@ -4,13 +4,21 @@
  "alt_names": [],
  "simbad": "V960 Mon",
  "ra_deg": 104.8816210047,
- "dec_deg": -4.0910460110,
+ "dec_deg": -4.091046011,
  "dist_pc": 2189.0,
  "plx_mas": 0.4569,
- "mags": {"V": 14.94, "G": 11.616493, "J": 11.05, "H": 10.12, "K": 9.452},
+ "mags": {
+  "V": 14.94,
+  "G": 11.616493,
+  "J": 11.05,
+  "H": 10.12,
+  "K": 9.452
+ },
  "sptype": null,
  "region": null,
- "categories": ["protoplanetary"],
+ "categories": [
+  "protoplanetary"
+ ],
  "planets": [],
  "images": [
   {
@@ -28,9 +36,9 @@
     "first_author": "Zurlo",
     "year": 2024,
     "title": "The environment around young eruptive stars. SPHERE/IRDIS polarimetric imaging of 7 protostars",
-    "journal": "A&A 686, A76",
+    "journal": "A&A 686, A309",
     "arxiv": "2403.12124",
-    "bibcode": "2024A&A...686A..76Z"
+    "bibcode": "2024A&A...686A.309Z"
    }
   }
  ],

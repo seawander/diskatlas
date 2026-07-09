@@ -1,7 +1,9 @@
 {
  "id": "hd-106906",
  "name": "HD 106906",
- "alt_names": ["HIP 59960"],
+ "alt_names": [
+  "HIP 59960"
+ ],
  "simbad": "HD 106906",
  "ra_deg": 184.4716312933099,
  "dec_deg": -55.9755258409,
@@ -239,9 +241,9 @@
     "first_author": "Zhou",
     "year": 2020,
     "title": "Cloud Atlas: High-precision HST/WFC3/IR Time-Resolved Observations of Directly-Imaged Exoplanet HD106906b",
-    "journal": "AJ 160, 77",
+    "journal": "AJ 159, 140",
     "arxiv": "2001.08304",
-    "bibcode": "2020AJ....160...77Z"
+    "bibcode": "2020AJ....159..140Z"
    },
    "file": "images/hd-106906/hd-106906_zhou2020-wfc3.png"
   }

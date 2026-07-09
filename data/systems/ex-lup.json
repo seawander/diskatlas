@@ -1,16 +1,26 @@
 {
  "id": "ex-lup",
  "name": "EX Lup",
- "alt_names": ["HD 325367"],
+ "alt_names": [
+  "HD 325367"
+ ],
  "simbad": "EX Lup",
  "ra_deg": 240.7728812858,
  "dec_deg": -40.3070629799,
  "dist_pc": 154.7,
  "plx_mas": 6.4634,
- "mags": {"V": 8.50, "G": 12.250865, "J": 9.728, "H": 8.958, "K": 8.496},
+ "mags": {
+  "V": 8.5,
+  "G": 12.250865,
+  "J": 9.728,
+  "H": 8.958,
+  "K": 8.496
+ },
  "sptype": "M0",
  "region": "Lupus",
- "categories": ["protoplanetary"],
+ "categories": [
+  "protoplanetary"
+ ],
  "planets": [],
  "images": [
   {
@@ -28,9 +38,9 @@
     "first_author": "Zurlo",
     "year": 2024,
     "title": "The environment around young eruptive stars. SPHERE/IRDIS polarimetric imaging of 7 protostars",
-    "journal": "A&A 686, A76",
+    "journal": "A&A 686, A309",
     "arxiv": "2403.12124",
-    "bibcode": "2024A&A...686A..76Z"
+    "bibcode": "2024A&A...686A.309Z"
    }
   }
  ],

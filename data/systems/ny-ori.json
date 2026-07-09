@@ -1,16 +1,26 @@
 {
  "id": "ny-ori",
  "name": "NY Ori",
- "alt_names": ["Parenago 2199"],
+ "alt_names": [
+  "Parenago 2199"
+ ],
  "simbad": "NY Ori",
  "ra_deg": 83.9000369175,
  "dec_deg": -5.2070272933,
  "dist_pc": 403.0,
  "plx_mas": 2.4784,
- "mags": {"V": 13.232, "G": 14.139082, "J": 10.598, "H": 9.39, "K": 8.389},
+ "mags": {
+  "V": 13.232,
+  "G": 14.139082,
+  "J": 10.598,
+  "H": 9.39,
+  "K": 8.389
+ },
  "sptype": "G6-K2e",
  "region": "Orion A",
- "categories": ["protoplanetary"],
+ "categories": [
+  "protoplanetary"
+ ],
  "planets": [],
  "images": [
   {
@@ -28,9 +38,9 @@
     "first_author": "Zurlo",
     "year": 2024,
     "title": "The environment around young eruptive stars. SPHERE/IRDIS polarimetric imaging of 7 protostars",
-    "journal": "A&A 686, A76",
+    "journal": "A&A 686, A309",
     "arxiv": "2403.12124",
-    "bibcode": "2024A&A...686A..76Z"
+    "bibcode": "2024A&A...686A.309Z"
    }
   }
  ],
