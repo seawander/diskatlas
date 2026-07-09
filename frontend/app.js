@@ -756,7 +756,16 @@ if (typeof window !== "undefined") (function () {
       (s.last_updated ? '<div class="lastupd">' + esc(t("d_updated")) + " " +
         esc(s.last_updated) + "</div>" : "");
     buildSlider(s);
-    showImg(0);
+    /* with instrument facets active, open on that instrument's first image
+       (same parent⊇children match as the filter) instead of the sequence start */
+    let first = 0;
+    if (filters.instruments && filters.instruments.size) {
+      const sel = [...filters.instruments];
+      const idx = sortedImages(s).findIndex(im => im.instr_key &&
+        sel.some(x => im.instr_key === x || (!x.includes("/") && im.instr_key.startsWith(x + "/"))));
+      if (idx >= 0) first = idx;
+    }
+    showImg(first);
     detail.hidden = false;
     if (history.replaceState) history.replaceState(null, "", "#s=" + s.id);
     draw();
