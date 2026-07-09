@@ -3,12 +3,12 @@
  "name": "Wray 15-788",
  "alt_names": [],
  "simbad": "Wray 15-788",
- "ra_deg": 169.4661230949400,
- "dec_deg": -64.0348806401500,
+ "ra_deg": 169.46612309494,
+ "dec_deg": -64.03488064015,
  "dist_pc": 139.1,
  "plx_mas": 7.1834,
  "mags": {
-  "V": 11.80,
+  "V": 11.8,
   "G": 11.447832,
   "J": 9.391,
   "H": 8.591,
@@ -22,15 +22,15 @@
  "planets": [],
  "images": [
   {
-   "image_id": "wray-15-788_sphere2019",
+   "image_id": "wray-15-788_sphere2019_h",
    "type": "disk_scattered",
    "facility": "VLT-SPHERE",
-   "instrument": "IRDIS (CI + DPI)",
-   "wavelength_um": 1.65,
-   "wavelength_label": "H/Ks band total intensity (RDI+PCA) and H band polarized light",
-   "technique": "PDI",
+   "instrument": "IRDIS CI",
+   "wavelength_um": 1.625,
+   "wavelength_label": "H band total intensity (RDI+PCA)",
+   "technique": "ADI/RDI",
    "survey": null,
-   "credit": "Bohn et al. 2019, Fig. 1 (crop; panels a,b)",
+   "credit": "Bohn et al. 2019, Fig. 1 (crop, panel a)",
    "paper": {
     "first_author": "Bohn",
     "year": 2019,
@@ -39,9 +39,29 @@
     "arxiv": "1902.07723",
     "bibcode": null
    },
-   "file": "images/wray-15-788/wray-15-788_sphere2019.png"
+   "file": "images/wray-15-788/wray-15-788_sphere2019_h.png"
+  },
+  {
+   "image_id": "wray-15-788_sphere2019_ks",
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS CI",
+   "wavelength_um": 2.182,
+   "wavelength_label": "Ks band total intensity (RDI+PCA)",
+   "technique": "ADI/RDI",
+   "survey": null,
+   "credit": "Bohn et al. 2019, Fig. 1 (crop, panel b)",
+   "paper": {
+    "first_author": "Bohn",
+    "year": 2019,
+    "title": "Discovery of a directly imaged disk in scattered light around the Sco-Cen member Wray 15-788",
+    "journal": "A&A",
+    "arxiv": "1902.07723",
+    "bibcode": null
+   },
+   "file": "images/wray-15-788/wray-15-788_sphere2019_ks.png"
   }
  ],
  "notes": "First-published SPHERE/IRDIS scattered-light image (VLT/SPHERE, RDI+PCA total intensity and polarized light). A bright outer ring (Ring A, ~370 mas / 56 au) with hints of an inner ring (Ring B, ~170 mas) is detected only over a limited position-angle range (60-240 deg), consistent with shadowing by a misaligned inner disk. Wray 15-788 is part of a wide binary with the A2V star HD 98363 (~5000 arcsec / ~6900 au) (Bohn et al. 2019).",
- "last_updated": "2026-07-06"
+ "last_updated": "2026-07-08"
 }

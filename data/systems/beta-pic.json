@@ -1,7 +1,12 @@
 {
  "id": "beta-pic",
  "name": "beta Pic",
- "alt_names": ["HD 39060", "GJ 219", "HIP 27321", "HR 2020"],
+ "alt_names": [
+  "HD 39060",
+  "GJ 219",
+  "HIP 27321",
+  "HR 2020"
+ ],
  "simbad": "beta Pic",
  "ra_deg": 86.8211987087,
  "dec_deg": -51.0665114264,
@@ -416,15 +421,15 @@
    }
   },
   {
-   "image_id": "beta-pic_acs2006",
+   "image_id": "beta-pic_acs2006_b",
    "type": "disk_scattered",
    "facility": "HST",
    "instrument": "ACS/HRC coronagraph",
-   "wavelength_um": 0.606,
-   "wavelength_label": "F435W/F606W/F814W (B/V/I) coronagraphic imaging",
+   "wavelength_um": 0.435,
+   "wavelength_label": "F435W (B) coronagraphic imaging, PSF-subtracted",
    "technique": "coronagraphy",
    "survey": null,
-   "credit": "Golimowski et al. 2006, Fig. 2 (crop)",
+   "credit": "Golimowski et al. 2006, Fig. 2 (crop, F435W panel)",
    "paper": {
     "first_author": "Golimowski",
     "year": 2006,
@@ -433,7 +438,47 @@
     "arxiv": "astro-ph/0602292",
     "bibcode": null
    },
-   "file": "images/beta-pic/beta-pic_acs2006.png"
+   "file": "images/beta-pic/beta-pic_acs2006_b.png"
+  },
+  {
+   "image_id": "beta-pic_acs2006_v",
+   "type": "disk_scattered",
+   "facility": "HST",
+   "instrument": "ACS/HRC coronagraph",
+   "wavelength_um": 0.606,
+   "wavelength_label": "F606W (Broad V) coronagraphic imaging, PSF-subtracted",
+   "technique": "coronagraphy",
+   "survey": null,
+   "credit": "Golimowski et al. 2006, Fig. 2 (crop, F606W panel)",
+   "paper": {
+    "first_author": "Golimowski",
+    "year": 2006,
+    "title": "HST/ACS Multiband Coronagraphic Imaging of the Debris Disk around Beta Pictoris",
+    "journal": "AJ 131, 3109",
+    "arxiv": "astro-ph/0602292",
+    "bibcode": null
+   },
+   "file": "images/beta-pic/beta-pic_acs2006_v.png"
+  },
+  {
+   "image_id": "beta-pic_acs2006_i",
+   "type": "disk_scattered",
+   "facility": "HST",
+   "instrument": "ACS/HRC coronagraph",
+   "wavelength_um": 0.814,
+   "wavelength_label": "F814W (Broad I) coronagraphic imaging, PSF-subtracted",
+   "technique": "coronagraphy",
+   "survey": null,
+   "credit": "Golimowski et al. 2006, Fig. 2 (crop, F814W panel)",
+   "paper": {
+    "first_author": "Golimowski",
+    "year": 2006,
+    "title": "HST/ACS Multiband Coronagraphic Imaging of the Debris Disk around Beta Pictoris",
+    "journal": "AJ 131, 3109",
+    "arxiv": "astro-ph/0602292",
+    "bibcode": null
+   },
+   "file": "images/beta-pic/beta-pic_acs2006_i.png"
   },
   {
    "image_id": "beta-pic_planetd2026",
@@ -497,7 +542,7 @@
   }
  ],
  "notes": "Original 1984 discovery image (Smith & Terrile, Las Campanas coronagraph) predates arXiv; add if desired.",
- "last_updated": "2026-07-07",
+ "last_updated": "2026-07-08",
  "plx_mas": 50.9307,
  "mags": {
   "U": 4.13,

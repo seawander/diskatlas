@@ -1,7 +1,11 @@
 {
  "id": "51-eri",
  "name": "51 Eri",
- "alt_names": ["HD 29391", "HIP 21547", "HR 1474"],
+ "alt_names": [
+  "HD 29391",
+  "HIP 21547",
+  "HR 1474"
+ ],
  "simbad": "51 Eri",
  "ra_deg": 69.40055253787,
  "dec_deg": -2.47354881285,
@@ -63,16 +67,15 @@
    "file": "images/51-eri/51-eri_jwst2025.png"
   },
   {
-   "image_id": "51-eri_sphere2017",
+   "image_id": "51-eri_sphere2017_y",
    "type": "planet",
    "facility": "VLT-SPHERE",
-   "instrument": "IRDIS+IFS",
-   "wavelength_um": 1.6,
-   "wavelength_label": "YJH + K12 (Y-H band IFS, K1/K2 IRDIS)",
-   "technique": "extreme-AO coronagraphic angular differential imaging (IRDIS dual-band + IFS)",
+   "instrument": "IFS",
+   "wavelength_um": 1.045,
+   "wavelength_label": "Y band 0.99-1.10 um (IFS, ANDROMEDA SNR map, median combined)",
+   "technique": "extreme-AO coronagraphic angular differential imaging (IFS, ANDROMEDA)",
    "survey": null,
-   "file": "images/51-eri/51-eri_sphere2017.png",
-   "credit": "Samland et al. 2017, Fig. 1 (crop)",
+   "credit": "Samland et al. 2017, Fig. 1 (crop, Y-band panel)",
    "paper": {
     "first_author": "Samland",
     "year": 2017,
@@ -80,11 +83,72 @@
     "journal": "A&A",
     "arxiv": "1704.02987",
     "bibcode": "2017A&A...603A..57S"
-   }
+   },
+   "file": "images/51-eri/51-eri_sphere2017_y.png"
+  },
+  {
+   "image_id": "51-eri_sphere2017_j",
+   "type": "planet",
+   "facility": "VLT-SPHERE",
+   "instrument": "IFS",
+   "wavelength_um": 1.23,
+   "wavelength_label": "J band 1.23 um (IFS, ANDROMEDA SNR map, single channel)",
+   "technique": "extreme-AO coronagraphic angular differential imaging (IFS, ANDROMEDA)",
+   "survey": null,
+   "credit": "Samland et al. 2017, Fig. 1 (crop, J-band panel)",
+   "paper": {
+    "first_author": "Samland",
+    "year": 2017,
+    "title": "Spectral and atmospheric characterization of 51 Eridani b using VLT/SPHERE",
+    "journal": "A&A",
+    "arxiv": "1704.02987",
+    "bibcode": "2017A&A...603A..57S"
+   },
+   "file": "images/51-eri/51-eri_sphere2017_j.png"
+  },
+  {
+   "image_id": "51-eri_sphere2017_h",
+   "type": "planet",
+   "facility": "VLT-SPHERE",
+   "instrument": "IFS",
+   "wavelength_um": 1.56,
+   "wavelength_label": "H band 1.56 um (IFS, ANDROMEDA SNR map, single channel)",
+   "technique": "extreme-AO coronagraphic angular differential imaging (IFS, ANDROMEDA)",
+   "survey": null,
+   "credit": "Samland et al. 2017, Fig. 1 (crop, H-band panel)",
+   "paper": {
+    "first_author": "Samland",
+    "year": 2017,
+    "title": "Spectral and atmospheric characterization of 51 Eridani b using VLT/SPHERE",
+    "journal": "A&A",
+    "arxiv": "1704.02987",
+    "bibcode": "2017A&A...603A..57S"
+   },
+   "file": "images/51-eri/51-eri_sphere2017_h.png"
+  },
+  {
+   "image_id": "51-eri_sphere2017_k1",
+   "type": "planet",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS",
+   "wavelength_um": 2.1,
+   "wavelength_label": "K1 band 2.05-2.15 um (IRDIS, ANDROMEDA SNR map)",
+   "technique": "extreme-AO coronagraphic angular differential imaging (IRDIS, ANDROMEDA)",
+   "survey": null,
+   "credit": "Samland et al. 2017, Fig. 1 (crop, K1-band panel)",
+   "paper": {
+    "first_author": "Samland",
+    "year": 2017,
+    "title": "Spectral and atmospheric characterization of 51 Eridani b using VLT/SPHERE",
+    "journal": "A&A",
+    "arxiv": "1704.02987",
+    "bibcode": "2017A&A...603A..57S"
+   },
+   "file": "images/51-eri/51-eri_sphere2017_k1.png"
   }
  ],
  "notes": null,
- "last_updated": "2026-07-07",
+ "last_updated": "2026-07-08",
  "plx_mas": 33.439,
  "mags": {
   "B": 5.486,
