@@ -33,7 +33,7 @@ window.I18N = {
     tag_imaged: "imaged planet(s)", tag_transiting: "transiting planet(s)"
   },
   zh: {
-    title: "已分辨星周盘与直接成像伴天体",
+    title: "已分辨星周盘与直接成像伴体",
     search_ph: "搜索恒星…(如 HL Tau)",
     word_systems: "个系统", word_records: "条图像记录", word_local: "张本地图", word_built: "构建于",
     tab_sky: "星图", tab_matrix: "覆盖矩阵", tab_tonight: "今夜可观测",
