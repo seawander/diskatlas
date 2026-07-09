@@ -538,6 +538,70 @@ if (typeof window !== "undefined") (function () {
     draw();
   }, { passive: false });
 
+  /* ---- touch (iPhone/iPad/Android): one-finger pan, two-finger pinch zoom
+     anchored at the finger midpoint, double-tap = 2x zoom (parity with the
+     desktop dblclick). Taps still synthesise clicks, so tap-to-open-details
+     keeps working; touch-action:none on #sky stops Safari's native gestures. */
+  let pinchD = 0, lastTap = 0, lastTapX = 0, lastTapY = 0;
+  canvas.addEventListener("touchstart", e => {
+    if (e.touches.length === 1) {
+      dragging = true; moved = false;
+      lx = e.touches[0].clientX; ly = e.touches[0].clientY;
+    } else if (e.touches.length === 2) {
+      dragging = false; moved = true;            // pinch, not a tap
+      const t0 = e.touches[0], t1 = e.touches[1];
+      pinchD = Math.hypot(t1.clientX - t0.clientX, t1.clientY - t0.clientY);
+    }
+  }, { passive: true });
+  canvas.addEventListener("touchmove", e => {
+    e.preventDefault();                          // no page scroll/zoom while on the map
+    if (e.touches.length === 1 && dragging) {
+      const t = e.touches[0];
+      const dx = t.clientX - lx, dy = t.clientY - ly; lx = t.clientX; ly = t.clientY;
+      if (Math.abs(dx) + Math.abs(dy) > 2) moved = true;
+      view.ra0 = wrapRA(view.ra0 + dx / view.ppd);
+      view.dec0 += dy / view.ppd;
+      clampView(); draw();
+    } else if (e.touches.length === 2) {
+      const t0 = e.touches[0], t1 = e.touches[1];
+      const d = Math.hypot(t1.clientX - t0.clientX, t1.clientY - t0.clientY);
+      const cx = (t0.clientX + t1.clientX) / 2, cy = (t0.clientY + t1.clientY) / 2;
+      if (pinchD > 0 && d > 0) {
+        const before = unproject(cx, cy, view, W, H);
+        view.ppd *= d / pinchD; clampView();
+        const after = unproject(cx, cy, view, W, H);
+        view.ra0 = wrapRA(view.ra0 + (before.ra - after.ra));
+        view.dec0 += before.dec - after.dec;
+        draw();
+      }
+      pinchD = d; moved = true;
+    }
+  }, { passive: false });
+  canvas.addEventListener("touchend", e => {
+    if (e.touches.length === 1) {                // pinch -> one finger left: resume pan
+      dragging = true;
+      lx = e.touches[0].clientX; ly = e.touches[0].clientY;
+      pinchD = 0;
+      return;
+    }
+    if (e.touches.length === 0) {
+      dragging = false; pinchD = 0;
+      /* double-tap = zoom in 2x on the tapped point */
+      if (!moved && e.changedTouches.length === 1) {
+        const t = e.changedTouches[0], now = Date.now();
+        if (now - lastTap < 300 && Math.abs(t.clientX - lastTapX) < 30 &&
+            Math.abs(t.clientY - lastTapY) < 30) {
+          e.preventDefault();                    // swallow the second synthetic click
+          const c = unproject(t.clientX, t.clientY, view, W, H);
+          view.ra0 = c.ra; view.dec0 = c.dec; view.ppd *= 2; clampView(); draw();
+          lastTap = 0;
+          return;
+        }
+        lastTap = now; lastTapX = t.clientX; lastTapY = t.clientY;
+      }
+    }
+  }, { passive: false });
+
   window.addEventListener("keydown", e => {
     if (e.key === "Escape") { closeDetail(); listEl.hidden = true; }
     if (!detail.hidden) {
