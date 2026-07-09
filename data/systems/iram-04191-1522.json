@@ -1,0 +1,43 @@
+{
+ "id": "iram-04191-1522",
+ "name": "IRAM 04191+1522",
+ "alt_names": [
+  "IRAS 04191+1523"
+ ],
+ "simbad": "IRAS 04191+1523",
+ "ra_deg": 65.501831,
+ "dec_deg": 15.505893,
+ "dist_pc": 140.0,
+ "sptype": null,
+ "region": "Taurus",
+ "categories": [
+  "protoplanetary"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "image_id": "iram-04191-1522_alma_b7",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 7",
+   "wavelength_um": 890,
+   "wavelength_label": "0.89 mm continuum",
+   "technique": "interferometry",
+   "survey": null,
+   "credit": "Huélamo et al. 2026, Fig. 1 (crop, left panel)",
+   "paper": {
+    "first_author": "Huélamo",
+    "year": 2026,
+    "title": "IRAM 04191+1522: a compact proto-brown dwarf binary candidate",
+    "journal": null,
+    "arxiv": "2603.15274",
+    "bibcode": null
+   },
+   "file": "images/iram-04191-1522/iram-04191-1522_alma_b7.png"
+  }
+ ],
+ "notes": "AUTO-CREATED from staging - fill metadata & coords Added 2026-07-08 (recent-disk discovery). Proto-brown-dwarf binary (Class 0/I), Taurus.",
+ "last_updated": "2026-07-08",
+ "plx_mas": null,
+ "mags": null
+}

@@ -1,0 +1,45 @@
+{
+ "id": "gamma-oph",
+ "name": "gamma Ophiuchi",
+ "alt_names": [
+  "gam Oph",
+  "HR 6630",
+  "HD 161868"
+ ],
+ "simbad": "gam Oph",
+ "ra_deg": 266.9731691245113,
+ "dec_deg": 2.7072791218992,
+ "dist_pc": 29.7,
+ "sptype": null,
+ "region": "field (nearby A star)",
+ "categories": [
+  "debris"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "image_id": "gamma-oph_mri_f2550w",
+   "type": "disk_mm",
+   "facility": "JWST",
+   "instrument": "MIRI",
+   "wavelength_um": 25.5,
+   "wavelength_label": "25.5 µm (F2550W, PSF-subtracted)",
+   "technique": "coronagraphy",
+   "survey": null,
+   "credit": "Han et al. 2026, Fig. 1 (crop, top-left panel)",
+   "paper": {
+    "first_author": "Han",
+    "year": 2026,
+    "title": "A radially broad collisional cascade in the debris disk of gamma Ophiuchi observed by JWST",
+    "journal": null,
+    "arxiv": "2601.15285",
+    "bibcode": null
+   },
+   "file": "images/gamma-oph/gamma-oph_mri_f2550w.png"
+  }
+ ],
+ "notes": "AUTO-CREATED from staging - fill metadata & coords Added 2026-07-08 (recent-disk discovery).",
+ "last_updated": "2026-07-08",
+ "plx_mas": null,
+ "mags": null
+}
