@@ -1,5 +1,10 @@
-# Resolved Circumstellar Disks & Imaged Companions — Interactive Sky Atlas
-# 已分辨星周盘与直接成像伴天体 · 交互式全天图
+# diskatlas: all-sky interactive atlas for resolved circumstellar disks and imaged companions
+
+已分辨星周盘与直接成像伴天体 · 交互式全天图
+
+**🌐 Browse it live: <https://seawander.github.io/diskatlas/>** · 
+[Source & data on GitHub](https://github.com/seawander/diskatlas) — or clone and
+double-click `index.html` for the fully offline version.
 
 An offline-capable, interactive all-sky atlas of every system with a **resolved circumstellar
 disk** (mm/submm/cm interferometry, high-contrast scattered light / thermal IR, and resolved
