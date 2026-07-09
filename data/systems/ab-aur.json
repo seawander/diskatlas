@@ -190,16 +190,15 @@
    "hires_url": "https://archive.stsci.edu/prepds/alice/"
   },
   {
-   "image_id": "ab-aur_lbti2022",
+   "image_id": "ab-aur_lbti2022-lp",
    "type": "disk_scattered",
    "facility": "LBT",
    "instrument": "LBTI/LMIRCam",
    "wavelength_um": 3.7,
-   "wavelength_label": "L' (3.7 um) and Ks (2.16 um)",
-   "technique": "ADI and RDI (reference differential imaging)",
+   "wavelength_label": "L' (3.7 um), RDI reduction",
+   "technique": "RDI (reference differential imaging)",
    "survey": null,
-   "file": "images/ab-aur/ab-aur_lbti2022.png",
-   "credit": "Jorquera et al. 2022, Fig. 1 (crop)",
+   "credit": "Jorquera et al. 2022, Fig. 1c (crop)",
    "paper": {
     "first_author": "Jorquera",
     "year": 2022,
@@ -207,7 +206,28 @@
     "journal": "ApJ",
     "arxiv": "2201.08867",
     "bibcode": "2022ApJ...926...71J"
-   }
+   },
+   "file": "images/ab-aur/ab-aur_lbti2022-lp.png"
+  },
+  {
+   "image_id": "ab-aur_lbti2022-ks",
+   "type": "disk_scattered",
+   "facility": "LBT",
+   "instrument": "LBTI/LMIRCam",
+   "wavelength_um": 2.16,
+   "wavelength_label": "Ks (2.16 um), RDI reduction",
+   "technique": "RDI (reference differential imaging)",
+   "survey": null,
+   "credit": "Jorquera et al. 2022, Fig. 1e (crop)",
+   "paper": {
+    "first_author": "Jorquera",
+    "year": 2022,
+    "title": "Large Binocular Telescope Search for Companions and Substructures in the (Pre)transitional Disk of AB Aurigae",
+    "journal": "ApJ",
+    "arxiv": "2201.08867",
+    "bibcode": "2022ApJ...926...71J"
+   },
+   "file": "images/ab-aur/ab-aur_lbti2022-ks.png"
   },
   {
    "image_id": "ab-aur_seeds2011-closeup",

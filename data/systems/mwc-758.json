@@ -1,7 +1,10 @@
 {
  "id": "mwc-758",
  "name": "MWC 758",
- "alt_names": ["HD 36112", "HIP 25793"],
+ "alt_names": [
+  "HD 36112",
+  "HIP 25793"
+ ],
  "simbad": "MWC 758",
  "ra_deg": 82.61470234585,
  "dec_deg": 25.33252119132,
@@ -208,16 +211,15 @@
    }
   },
   {
-   "image_id": "mwc-758_lbti2019",
+   "image_id": "mwc-758_lbti2019-lp",
    "type": "disk_scattered",
    "facility": "LBT",
    "instrument": "LBTI/LMIRCam",
    "wavelength_um": 3.8,
-   "wavelength_label": "L' (3.8 um) and M' (4.8 um)",
+   "wavelength_label": "L' (3.8 um), 11 Feb 2017",
    "technique": "ADI (KLIP PSF subtraction)",
    "survey": null,
-   "file": "images/mwc-758/mwc-758_lbti2019.png",
-   "credit": "Wagner et al. 2019, Fig. 1 (crop)",
+   "credit": "Wagner et al. 2019, Fig. 1 top (crop)",
    "paper": {
     "first_author": "Wagner",
     "year": 2019,
@@ -225,7 +227,28 @@
     "journal": "ApJ",
     "arxiv": "1907.06655",
     "bibcode": "2019ApJ...882...20W"
-   }
+   },
+   "file": "images/mwc-758/mwc-758_lbti2019-lp.png"
+  },
+  {
+   "image_id": "mwc-758_lbti2019-mp",
+   "type": "disk_scattered",
+   "facility": "LBT",
+   "instrument": "LBTI/LMIRCam",
+   "wavelength_um": 4.8,
+   "wavelength_label": "M' (4.8 um), 25 Dec 2018",
+   "technique": "ADI (KLIP PSF subtraction)",
+   "survey": null,
+   "credit": "Wagner et al. 2019, Fig. 1 bottom (crop)",
+   "paper": {
+    "first_author": "Wagner",
+    "year": 2019,
+    "title": "Thermal Infrared Imaging of MWC 758 with the Large Binocular Telescope: Planetary Driven Spiral Arms?",
+    "journal": "ApJ",
+    "arxiv": "1907.06655",
+    "bibcode": "2019ApJ...882...20W"
+   },
+   "file": "images/mwc-758/mwc-758_lbti2019-mp.png"
   },
   {
    "image_id": "mwc-758_lbti2023",
@@ -349,7 +372,7 @@
   }
  ],
  "notes": null,
- "last_updated": "2026-07-07",
+ "last_updated": "2026-07-08",
  "plx_mas": 6.4157,
  "mags": {
   "B": 8.57,

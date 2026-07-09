@@ -34,16 +34,15 @@
    }
   },
   {
-   "image_id": "hd-139614_sphere2020",
+   "image_id": "hd-139614_sphere2020-j",
    "type": "disk_scattered",
    "facility": "VLT-SPHERE",
    "instrument": "IRDIS DPI",
    "wavelength_um": 1.25,
-   "wavelength_label": "J/H band (1.25/1.65 um)",
+   "wavelength_label": "J band (1.25 um) Qphi, epoch 2016",
    "technique": "polarimetric differential imaging (DPI)",
    "survey": null,
-   "file": "images/hd-139614/hd-139614_sphere2020.png",
-   "credit": "Muro-Arena et al. 2020, Fig. (data_annotated) (crop)",
+   "credit": "Muro-Arena et al. 2020, Fig. 1 (J-2016 panel) (crop)",
    "paper": {
     "first_author": "Muro-Arena",
     "year": 2020,
@@ -51,7 +50,28 @@
     "journal": "A&A 635, A121",
     "arxiv": "1911.09612",
     "bibcode": "2020A&A...635A.121M"
-   }
+   },
+   "file": "images/hd-139614/hd-139614_sphere2020-j.png"
+  },
+  {
+   "image_id": "hd-139614_sphere2020-h",
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS DPI",
+   "wavelength_um": 1.65,
+   "wavelength_label": "H band (1.65 um) Qphi, epoch 2017",
+   "technique": "polarimetric differential imaging (DPI)",
+   "survey": null,
+   "credit": "Muro-Arena et al. 2020, Fig. 1 (H-2017 panel) (crop)",
+   "paper": {
+    "first_author": "Muro-Arena",
+    "year": 2020,
+    "title": "Shadowing and multiple rings in the protoplanetary disk of HD 139614",
+    "journal": "A&A 635, A121",
+    "arxiv": "1911.09612",
+    "bibcode": "2020A&A...635A.121M"
+   },
+   "file": "images/hd-139614/hd-139614_sphere2020-h.png"
   },
   {
    "image_id": "hd-139614_alma2023",
@@ -75,7 +95,7 @@
   }
  ],
  "notes": null,
- "last_updated": "2026-07-07",
+ "last_updated": "2026-07-08",
  "plx_mas": 7.484,
  "mags": {
   "B": 8.47,

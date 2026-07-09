@@ -90,12 +90,12 @@
    "file": "images/yses-1/yses-1_jwst2025.png"
   },
   {
-   "image_id": "yses-1_sphere-naco2019",
+   "image_id": "yses-1_sphere-naco2019-h",
    "type": "planet",
    "facility": "VLT-SPHERE",
-   "instrument": "IRDIS + NACO",
-   "wavelength_um": 1.65,
-   "wavelength_label": "H/Ks (SPHERE) and L'/M' (NACO) discovery epochs of planet b",
+   "instrument": "IRDIS",
+   "wavelength_um": 1.63,
+   "wavelength_label": "H band (1.63 um), 2017-07-05",
    "technique": "ADI",
    "survey": null,
    "credit": "Bohn et al. 2019, Fig. 1 (crop)",
@@ -107,11 +107,71 @@
     "arxiv": "1912.04284",
     "bibcode": "2020MNRAS.492..431B"
    },
-   "file": "images/yses-1/yses-1_sphere-naco2019.png"
+   "file": "images/yses-1/yses-1_sphere-naco2019-h.png"
+  },
+  {
+   "image_id": "yses-1_sphere-naco2019-ks",
+   "type": "planet",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS",
+   "wavelength_um": 2.11,
+   "wavelength_label": "Ks band (2.11 um), 2019-03-17",
+   "technique": "ADI",
+   "survey": null,
+   "credit": "Bohn et al. 2019, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Bohn",
+    "year": 2019,
+    "title": "The Young Suns Exoplanet Survey: Detection of a wide orbit planetary mass companion to a solar-type Sco-Cen member",
+    "journal": "MNRAS 492, 431",
+    "arxiv": "1912.04284",
+    "bibcode": "2020MNRAS.492..431B"
+   },
+   "file": "images/yses-1/yses-1_sphere-naco2019-ks.png"
+  },
+  {
+   "image_id": "yses-1_sphere-naco2019-lp",
+   "type": "planet",
+   "facility": "VLT-NACO",
+   "instrument": "NACO",
+   "wavelength_um": 3.8,
+   "wavelength_label": "L' band (3.8 um), 2019-05-18",
+   "technique": "ADI",
+   "survey": null,
+   "credit": "Bohn et al. 2019, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Bohn",
+    "year": 2019,
+    "title": "The Young Suns Exoplanet Survey: Detection of a wide orbit planetary mass companion to a solar-type Sco-Cen member",
+    "journal": "MNRAS 492, 431",
+    "arxiv": "1912.04284",
+    "bibcode": "2020MNRAS.492..431B"
+   },
+   "file": "images/yses-1/yses-1_sphere-naco2019-lp.png"
+  },
+  {
+   "image_id": "yses-1_sphere-naco2019-mp",
+   "type": "planet",
+   "facility": "VLT-NACO",
+   "instrument": "NACO",
+   "wavelength_um": 4.8,
+   "wavelength_label": "M' band (4.8 um), 2019-06-03",
+   "technique": "ADI",
+   "survey": null,
+   "credit": "Bohn et al. 2019, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Bohn",
+    "year": 2019,
+    "title": "The Young Suns Exoplanet Survey: Detection of a wide orbit planetary mass companion to a solar-type Sco-Cen member",
+    "journal": "MNRAS 492, 431",
+    "arxiv": "1912.04284",
+    "bibcode": "2020MNRAS.492..431B"
+   },
+   "file": "images/yses-1/yses-1_sphere-naco2019-mp.png"
   }
  ],
  "notes": null,
- "last_updated": "2026-07-07",
+ "last_updated": "2026-07-08",
  "plx_mas": 10.6124,
  "mags": {
   "B": 11.96,

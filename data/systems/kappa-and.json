@@ -1,7 +1,11 @@
 {
  "id": "kappa-and",
  "name": "kappa And",
- "alt_names": ["HD 222439", "HIP 116805", "HR 8976"],
+ "alt_names": [
+  "HD 222439",
+  "HIP 116805",
+  "HR 8976"
+ ],
  "simbad": "kappa And",
  "ra_deg": 355.1021155795795,
  "dec_deg": 44.3339329637872,
@@ -64,16 +68,15 @@
    "file": "images/kappa-and/kappa-and_scexao2018.png"
   },
   {
-   "image_id": "kappa-and_nirc22014",
+   "image_id": "kappa-and_nirc22014-ks",
    "type": "planet",
    "facility": "Keck",
    "instrument": "NIRC2",
    "wavelength_um": 2.146,
-   "wavelength_label": "Ks (2.146 um) and L' (3.776 um)",
+   "wavelength_label": "Ks (2.146 um)",
    "technique": "angular differential imaging (ADI) high-contrast",
    "survey": null,
-   "file": "images/kappa-and/kappa-and_nirc22014.png",
-   "credit": "Bonnefoy et al. 2014, Fig. 1 (crop)",
+   "credit": "Bonnefoy et al. 2014, Fig. 1 left (crop)",
    "paper": {
     "first_author": "Bonnefoy",
     "year": 2014,
@@ -81,7 +84,28 @@
     "journal": "A&A 562, A111",
     "arxiv": "1308.3859",
     "bibcode": "2014A&A...562A.111B"
-   }
+   },
+   "file": "images/kappa-and/kappa-and_nirc22014-ks.png"
+  },
+  {
+   "image_id": "kappa-and_nirc22014-lp",
+   "type": "planet",
+   "facility": "Keck",
+   "instrument": "NIRC2",
+   "wavelength_um": 3.776,
+   "wavelength_label": "L' (3.776 um)",
+   "technique": "angular differential imaging (ADI) high-contrast",
+   "survey": null,
+   "credit": "Bonnefoy et al. 2014, Fig. 1 middle (crop)",
+   "paper": {
+    "first_author": "Bonnefoy",
+    "year": 2014,
+    "title": "Characterization of the gaseous companion κ Andromedae b: New Keck and LBTI high-contrast observations",
+    "journal": "A&A 562, A111",
+    "arxiv": "1308.3859",
+    "bibcode": "2014A&A...562A.111B"
+   },
+   "file": "images/kappa-and/kappa-and_nirc22014-lp.png"
   },
   {
    "image_id": "kappa-and_lbti2014",
@@ -105,7 +129,7 @@
   }
  ],
  "notes": null,
- "last_updated": "2026-07-07",
+ "last_updated": "2026-07-08",
  "plx_mas": 19.4064,
  "mags": {
   "U": 3.8,
