@@ -778,9 +778,12 @@ if (typeof window !== "undefined") (function () {
     }
     for (const i of filters.instruments) {
       (INSTR2FAC[i] || []).forEach(f => relFac.add(f));
-      /* a selected PARENT instrument (e.g. "SPHERE") relates to its sub-instruments'
-         facilities too, so it highlights VLT via SPHERE/IRDIS etc. */
-      if (!i.includes("/")) ALL_INSTR.forEach(k => { if (k.startsWith(i + "/")) (INSTR2FAC[k] || []).forEach(f => relFac.add(f)); });
+      /* a selected PARENT instrument (e.g. "SPHERE") also lights up its own
+         sub-instruments (SPHERE/IRDIS, .../ZIMPOL, .../IFS) in the instrument
+         row, and relates to their facilities (VLT) too */
+      if (!i.includes("/")) ALL_INSTR.forEach(k => {
+        if (k.startsWith(i + "/")) { relInstr.add(k); (INSTR2FAC[k] || []).forEach(f => relFac.add(f)); }
+      });
     }
     facetsBar.querySelectorAll('.chip[data-group="facet_instrument"]').forEach(c =>
       c.classList.toggle("rel", relInstr.has(c.dataset.val) && !c.classList.contains("on")));
