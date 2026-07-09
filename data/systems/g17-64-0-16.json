@@ -1,0 +1,45 @@
+{
+ "id": "g17-64-0-16",
+ "name": "G17.64+0.16",
+ "alt_names": [
+  "AFGL 2136",
+  "CRL 2136",
+  "IRAS 18196-1331"
+ ],
+ "simbad": "RAFGL 2136",
+ "ra_deg": 275.610537,
+ "dec_deg": -13.5039,
+ "dist_pc": 2200,
+ "sptype": null,
+ "region": "Aquila",
+ "categories": [
+  "protoplanetary"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "image_id": "g17-64-0-16_alma2019",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 6 long-baseline",
+   "wavelength_um": 1300,
+   "wavelength_label": "1.3 mm continuum",
+   "technique": "interferometric continuum imaging",
+   "survey": null,
+   "credit": "Maud et al. 2019",
+   "paper": {
+    "first_author": "Maud",
+    "year": 2019,
+    "title": "Substructures in the Keplerian disc around the O-type (proto)star G17.64+0.16",
+    "journal": "A&A",
+    "arxiv": "1906.06548",
+    "bibcode": "2019A&A...627L...6M"
+   },
+   "file": "images/g17-64-0-16/g17-64-0-16_alma2019.png"
+  }
+ ],
+ "notes": "AUTO-CREATED from staging - fill metadata & coords Added 2026-07-08 (evolved/massive-YSO resolved disk).",
+ "last_updated": "2026-07-08",
+ "plx_mas": null,
+ "mags": null
+}

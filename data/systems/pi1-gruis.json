@@ -1,0 +1,44 @@
+{
+ "id": "pi1-gruis",
+ "name": "pi1 Gruis",
+ "alt_names": [
+  "pi.01 Gru",
+  "HD 212087"
+ ],
+ "simbad": "* pi.01 Gru",
+ "ra_deg": 335.6842016237,
+ "dec_deg": -45.9479975447,
+ "dist_pc": 162,
+ "sptype": null,
+ "region": "Grus",
+ "categories": [
+  "evolved"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "image_id": "pi1-gruis_alma2020",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 6/7",
+   "wavelength_um": 1300,
+   "wavelength_label": "CO channel map",
+   "technique": "interferometric channel map + spiral fit",
+   "survey": null,
+   "credit": "Doan et al. 2020",
+   "paper": {
+    "first_author": "Doan",
+    "year": 2020,
+    "title": "The extended molecular envelope of the asymptotic giant branch star pi1 Gruis as seen by ALMA II. The spiral-outflow observed at high-angular resolution",
+    "journal": "A&A",
+    "arxiv": "1911.10756",
+    "bibcode": "2020A&A...633A..13D"
+   },
+   "file": "images/pi1-gruis/pi1-gruis_alma2020.png"
+  }
+ ],
+ "notes": "AUTO-CREATED from staging - fill metadata & coords Added 2026-07-08 (evolved/massive-YSO resolved disk).",
+ "last_updated": "2026-07-08",
+ "plx_mas": null,
+ "mags": null
+}

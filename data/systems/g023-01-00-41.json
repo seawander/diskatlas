@@ -1,0 +1,41 @@
+{
+ "id": "g023-01-00-41",
+ "name": "G023.01-00.41",
+ "alt_names": [],
+ "simbad": null,
+ "ra_deg": 278.667875,
+ "dec_deg": -9.010639,
+ "dist_pc": 4600,
+ "sptype": null,
+ "region": "Serpens/Scutum",
+ "categories": [
+  "protoplanetary"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "image_id": "g023-01-00-41_alma2019",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 6",
+   "wavelength_um": 1370,
+   "wavelength_label": "CH3OH moment-0 map",
+   "technique": "interferometric moment map",
+   "survey": null,
+   "credit": "Sanna et al. 2019",
+   "paper": {
+    "first_author": "Sanna",
+    "year": 2019,
+    "title": "Discovery of a sub-Keplerian disk with jet around a 20Msun young star. ALMA observations of G023.01-00.41",
+    "journal": "A&A",
+    "arxiv": "1805.09842",
+    "bibcode": "2019A&A...623A..77S"
+   },
+   "file": "images/g023-01-00-41/g023-01-00-41_alma2019.png"
+  }
+ ],
+ "notes": "AUTO-CREATED from staging - fill metadata & coords Added 2026-07-08 (evolved/massive-YSO resolved disk).",
+ "last_updated": "2026-07-08",
+ "plx_mas": null,
+ "mags": null
+}

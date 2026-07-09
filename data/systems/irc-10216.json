@@ -1,0 +1,44 @@
+{
+ "id": "irc-10216",
+ "name": "IRC+10216",
+ "alt_names": [
+  "CW Leonis",
+  "CW Leo"
+ ],
+ "simbad": "RAFGL 2136",
+ "ra_deg": 146.989193,
+ "dec_deg": 13.278768,
+ "dist_pc": 123,
+ "sptype": null,
+ "region": "Leo",
+ "categories": [
+  "evolved"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "image_id": "irc-10216_expo2015",
+   "type": "disk_scattered",
+   "facility": "WHT",
+   "instrument": "ExPo (Extreme Polarimeter)",
+   "wavelength_um": 0.7,
+   "wavelength_label": "500-900 nm polarized intensity",
+   "technique": "imaging polarimetry",
+   "survey": null,
+   "credit": "Jeffers et al. 2014",
+   "paper": {
+    "first_author": "Jeffers",
+    "year": 2014,
+    "title": "Surprising detection of an equatorial dust lane on the AGB star IRC+10216",
+    "journal": "A&A",
+    "arxiv": "1412.5063",
+    "bibcode": "2014A&A...572A..44J"
+   },
+   "file": "images/irc-10216/irc-10216_expo2015.png"
+  }
+ ],
+ "notes": "AUTO-CREATED from staging - fill metadata & coords Added 2026-07-08 (evolved/massive-YSO resolved disk).",
+ "last_updated": "2026-07-08",
+ "plx_mas": null,
+ "mags": null
+}
