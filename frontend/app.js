@@ -842,6 +842,9 @@ if (typeof window !== "undefined") (function () {
      clicking the Sky tab again (bigger map). Category chips stay everywhere. */
   function updateFacetVisibility() {
     const show = currentView === "sky" && !facetsCollapsed;
+    /* hide the whole facets row (incl. its border-top separator), not just the
+       chips inside, so no empty strip is left under the header */
+    if (facetsBar) facetsBar.style.display = show ? "" : "none";
     ["facet_band", "facet_missing", "facet_facility", "facet_instrument"].forEach(k => {
       const lbl = facetsBar && facetsBar.querySelector('.flabel[data-i18n="' + k + '"]');
       if (lbl && lbl.closest(".fgroup")) lbl.closest(".fgroup").style.display = show ? "" : "none";
@@ -1007,7 +1010,7 @@ if (typeof window !== "undefined") (function () {
         '<option value="custom">Custom…</option></select></label>' +
         '<span id="t_custom" hidden><span data-i18n="t_lat"></span> <input id="t_lat" type="number" step="0.01" style="width:5em"> <span data-i18n="t_lon"></span> <input id="t_lon" type="number" step="0.01" style="width:5em"></span>' +
         '<label><span data-i18n="t_night"></span> <input type="date" id="t_date"></label>' +
-        '<label><span data-i18n="t_minalt"></span> <input type="number" id="t_alt" value="30" min="0" max="85" style="width:3.4em">°</label>' +
+        '<label><span data-i18n="t_minalt"></span> <input type="number" id="t_alt" value="30" min="0" max="85" style="width:5em">°</label>' +
         '<button id="t_go" data-i18n="t_compute"></button><button id="t_csv" data-i18n="t_csv"></button></div><div id="t_out"></div>';
       tonightEl.dataset.init = "1";
       applyStaticI18n();
