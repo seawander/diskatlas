@@ -29,12 +29,12 @@
    "survey": null,
    "credit": "Lin et al. 2021, Fig. 1a (crop)",
    "paper": {
-    "first_author": "Lin",
+    "first_author": "Lee",
     "year": 2021,
-    "title": "What Produces Dust Polarization in the HH 212 Protostellar Disk at 878 um: Dust Self-Scattering or Dichroic Extinction?",
-    "journal": "ApJ",
+    "title": "What Produces Dust Polarization in the HH 212 Protostellar Disk at 878 μm: Dust Self-scattering or Dichroic Extinction?",
+    "journal": "ApJ 910, 75",
     "arxiv": "2102.11481",
-    "bibcode": null
+    "bibcode": "2021ApJ...910...75L"
    },
    "file": "images/hh-212/hh-212_alma2021.png"
   }

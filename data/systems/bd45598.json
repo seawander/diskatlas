@@ -35,12 +35,12 @@
    "survey": null,
    "credit": "Farkas et al. 2024, Fig. 3 (crop: J band panel)",
    "paper": {
-    "first_author": "Farkas",
+    "first_author": "Vincent",
     "year": 2024,
-    "title": "SCExAO/CHARIS Multi-Wavelength, High-Contrast Imaging of the BD+45 deg 598 Debris Disk",
-    "journal": "AJ",
+    "title": "SCExAO/CHARIS Multiwavelength High-contrast Imaging of the BD+45<SUP>°</SUP>598 Debris Disk",
+    "journal": "AJ 168, 6",
     "arxiv": "2405.04521",
-    "bibcode": null
+    "bibcode": "2024AJ....168....6V"
    },
    "file": "images/bd45598/bd45598_charis2024.png"
   }

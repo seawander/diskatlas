@@ -30,12 +30,12 @@
    "survey": null,
    "credit": "Chen et al. 2021, Fig. 1 (crop)",
    "paper": {
-    "first_author": "Chen",
-    "year": 2021,
-    "title": "Structure of the Source I disk in Orion-KL",
-    "journal": "ApJ",
+    "first_author": "Wright",
+    "year": 2022,
+    "title": "Structure of the Source I Disk in Orion-KL",
+    "journal": "ApJ 924, 107",
     "arxiv": "2110.13838",
-    "bibcode": null
+    "bibcode": "2022ApJ...924..107W"
    },
    "file": "images/orion-src-i/orion-src-i_alma2021.png"
   }

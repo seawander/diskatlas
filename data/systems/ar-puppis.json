@@ -35,12 +35,12 @@
    "survey": null,
    "credit": "Kluska et al. 2019, Fig. 5 (crop: ZIMPOL V panel)",
    "paper": {
-    "first_author": "Kluska",
+    "first_author": "Ertel",
     "year": 2019,
-    "title": "Resolved imaging of the AR Puppis circumbinary disk",
-    "journal": "A&A",
+    "title": "Resolved Imaging of the AR Puppis Circumbinary Disk",
+    "journal": "AJ 157, 110",
     "arxiv": "1901.04109",
-    "bibcode": null
+    "bibcode": "2019AJ....157..110E"
    },
    "file": "images/ar-puppis/ar-puppis_zimpol2019.png"
   }
