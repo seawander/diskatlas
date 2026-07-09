@@ -2365,5 +2365,10 @@
   "status": "excluded",
   "reason": "IRAS 16547 proto-multiple + bridge, disk not cleanly resolved",
   "date": "2026-07-08"
+ },
+ "2308.16912": {
+  "status": "ingested",
+  "reason": "Ren+2023 DIKL Fig 4: KLIP+DIKL for HD 169142/PDS 201/HD 129590 (user request)",
+  "date": "2026-07-08"
  }
 }
