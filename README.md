@@ -130,11 +130,20 @@ no overlap:**
 - Press-release composites are **not** used; every image is cropped from a peer-reviewed
   figure and linked to its paper (arXiv + SciX).
 
-## Image licensing note / 图像版权说明
+## License / 许可
 
-Local thumbnails are low-resolution crops of published figures, used here for personal
-research/reference with full citation. © original authors & journals — follow the links
-(arXiv / SciX / DOI) for originals and for any reuse.
+Three parts, three answers:
+
+- **Code** (`index.html`, `frontend/` JS+CSS, `backend/` Python): **MIT** — see
+  [LICENSE](LICENSE).
+- **Compiled database** (`data/systems/*.json`, the metadata in generated
+  `frontend/data.js`): **CC BY 4.0** — see [LICENSE-DATA.md](LICENSE-DATA.md). Cite this
+  repository (and the accompanying paper, once published) when reusing.
+- **Images** (`images/**/*.png`): **not** covered by either license. They are
+  low-resolution crops of figures from peer-reviewed journal articles and remain
+  **© the original authors & journals** (AAS, A&A, MNRAS, …), reproduced here with a
+  per-image credit line and full citation for scholarly reference. Follow each record's
+  links (arXiv / SciX / DOI) for the originals and for any reuse permissions.
 
 ## Current ingestion state / 数据现状
 
