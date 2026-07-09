@@ -30,7 +30,23 @@
     "year": 2012,
     "arxiv": "1206.1510",
     "bibcode": null
-   }
+   },
+   "extra_papers": [
+    {
+     "first_author": "Koen",
+     "year": 2020,
+     "journal": "MNRAS 494, 4349",
+     "arxiv": null,
+     "bibcode": "2020MNRAS.494.4349K"
+    },
+    {
+     "first_author": "Koen",
+     "year": 2021,
+     "journal": "A&A 647, L1",
+     "arxiv": null,
+     "bibcode": "2021A&A...647L...1K"
+    }
+   ]
   },
   {
    "name": "c",
