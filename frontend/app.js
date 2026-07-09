@@ -880,7 +880,10 @@ if (typeof window !== "undefined") (function () {
     lh += '<span class="hint" data-i18n="leg_hint"></span>';
     legendEl.innerHTML = lh;
   }
-  let facetsCollapsed = false;
+  /* phones start with the facet rows collapsed so the sky map isn't buried under
+     dozens of facility/instrument chips (same 640px breakpoint as the CSS);
+     tapping the Sky tab expands them as usual */
+  let facetsCollapsed = !!(window.matchMedia && window.matchMedia("(max-width: 640px)").matches);
   /* BAND / MISSING / FACILITY / INSTRUMENT rows: Sky-tab only, and collapsible by
      clicking the Sky tab again (bigger map). Category chips stay everywhere. */
   function updateFacetVisibility() {
@@ -897,6 +900,7 @@ if (typeof window !== "undefined") (function () {
     const reset = facetsBar && facetsBar.querySelector(".chip.reset");
     if (reset) reset.style.display = show ? "" : "none";
   }
+  updateFacetVisibility();   /* apply the initial (mobile-collapsed) state at boot */
   function setView(v) {
     if (v === "sky" && currentView === "sky") facetsCollapsed = !facetsCollapsed;
     /* re-clicking the active Coverage/Tonight tab returns to the Sky view */
