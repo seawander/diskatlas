@@ -30,7 +30,8 @@ window.I18N = {
     d_pending1: "image not yet cropped locally", d_pending2: "see the paper links below for the published figure",
     d_pendingnote: "local thumbnail pending — backend/README.md explains how to add it",
     d_nolinks: "no links", d_image: "image", d_hires: "hi-res data", d_hirespdf: "PDF (hi-res figs)",
-    tag_imaged: "imaged planet(s)", tag_transiting: "transiting planet(s)"
+    tag_imaged: "imaged planet(s)", tag_transiting: "transiting planet(s)",
+    gh_contrib: "contributions welcome"
   },
   zh: {
     title: "已分辨星周盘与直接成像伴体",
@@ -57,7 +58,8 @@ window.I18N = {
     d_pending1: "本地尚未裁剪图像", d_pending2: "请见下方论文链接查看已发表图",
     d_pendingnote: "本地缩略图待补 — 详见 backend/README.md",
     d_nolinks: "无链接", d_image: "图像", d_hires: "高清数据", d_hirespdf: "PDF(高清图)",
-    tag_imaged: "成像行星", tag_transiting: "凌星行星"
+    tag_imaged: "成像行星", tag_transiting: "凌星行星",
+    gh_contrib: "欢迎贡献"
   },
   fr: {
     title: "disques circumstellaires résolus & compagnons imagés",
@@ -84,7 +86,8 @@ window.I18N = {
     d_pending1: "image pas encore recadrée localement", d_pending2: "voir les liens de l'article ci-dessous",
     d_pendingnote: "vignette locale à venir — voir backend/README.md",
     d_nolinks: "aucun lien", d_image: "image", d_hires: "données HD", d_hirespdf: "PDF (figures HD)",
-    tag_imaged: "planète(s) imagée(s)", tag_transiting: "planète(s) en transit"
+    tag_imaged: "planète(s) imagée(s)", tag_transiting: "planète(s) en transit",
+    gh_contrib: "contributions bienvenues"
   },
   es: {
     title: "discos circunestelares resueltos y compañeros imagenados",
@@ -111,7 +114,8 @@ window.I18N = {
     d_pending1: "imagen aún no recortada localmente", d_pending2: "ver los enlaces del artículo abajo",
     d_pendingnote: "miniatura local pendiente — ver backend/README.md",
     d_nolinks: "sin enlaces", d_image: "imagen", d_hires: "datos alta-res", d_hirespdf: "PDF (figuras alta-res)",
-    tag_imaged: "planeta(s) imagenado(s)", tag_transiting: "planeta(s) en tránsito"
+    tag_imaged: "planeta(s) imagenado(s)", tag_transiting: "planeta(s) en tránsito",
+    gh_contrib: "contribuciones bienvenidas"
   },
   de: {
     title: "aufgelöste zirkumstellare Scheiben & abgebildete Begleiter",
@@ -138,7 +142,8 @@ window.I18N = {
     d_pending1: "Bild lokal noch nicht zugeschnitten", d_pending2: "siehe die Artikel-Links unten für die veröffentlichte Abbildung",
     d_pendingnote: "lokales Vorschaubild ausstehend — backend/README.md erklärt das Hinzufügen",
     d_nolinks: "keine Links", d_image: "Bild", d_hires: "hochauflösende Daten", d_hirespdf: "PDF (hochaufl. Abb.)",
-    tag_imaged: "abgebildete(r) Planet(en)", tag_transiting: "Transitplanet(en)"
+    tag_imaged: "abgebildete(r) Planet(en)", tag_transiting: "Transitplanet(en)",
+    gh_contrib: "Beiträge willkommen"
   },
   it: {
     title: "dischi circumstellari risolti e compagni ripresi",
@@ -165,7 +170,8 @@ window.I18N = {
     d_pending1: "immagine non ancora ritagliata localmente", d_pending2: "vedi i link all'articolo qui sotto per la figura pubblicata",
     d_pendingnote: "miniatura locale in arrivo — backend/README.md spiega come aggiungerla",
     d_nolinks: "nessun link", d_image: "immagine", d_hires: "dati alta ris.", d_hirespdf: "PDF (figure alta ris.)",
-    tag_imaged: "pianeta/i ripreso/i", tag_transiting: "pianeta/i in transito"
+    tag_imaged: "pianeta/i ripreso/i", tag_transiting: "pianeta/i in transito",
+    gh_contrib: "contributi benvenuti"
   },
   ja: {
     title: "分解された星周円盤と直接撮像された伴天体",
@@ -192,7 +198,8 @@ window.I18N = {
     d_pending1: "画像はまだローカルに切り出されていません", d_pending2: "公開図は下記の論文リンクを参照",
     d_pendingnote: "ローカルのサムネイルは準備中 — 追加方法は backend/README.md を参照",
     d_nolinks: "リンクなし", d_image: "画像", d_hires: "高解像度データ", d_hirespdf: "PDF (高解像度図)",
-    tag_imaged: "撮像惑星", tag_transiting: "トランジット惑星"
+    tag_imaged: "撮像惑星", tag_transiting: "トランジット惑星",
+    gh_contrib: "貢献を歓迎します"
   },
   pt: {
     title: "discos circunstelares resolvidos e companheiros imageados",
@@ -219,7 +226,8 @@ window.I18N = {
     d_pending1: "imagem ainda não recortada localmente", d_pending2: "veja os links do artigo abaixo para a figura publicada",
     d_pendingnote: "miniatura local pendente — backend/README.md explica como adicioná-la",
     d_nolinks: "sem links", d_image: "imagem", d_hires: "dados de alta resolução", d_hirespdf: "PDF (figuras alta res.)",
-    tag_imaged: "planeta(s) imageado(s)", tag_transiting: "planeta(s) em trânsito"
+    tag_imaged: "planeta(s) imageado(s)", tag_transiting: "planeta(s) em trânsito",
+    gh_contrib: "contribuições bem-vindas"
   },
   ru: {
     title: "разрешённые околозвёздные диски и снятые компаньоны",
@@ -246,7 +254,8 @@ window.I18N = {
     d_pending1: "изображение ещё не вырезано локально", d_pending2: "см. ссылки на статью ниже для опубликованного рисунка",
     d_pendingnote: "локальная миниатюра готовится — backend/README.md поясняет добавление",
     d_nolinks: "нет ссылок", d_image: "изображение", d_hires: "данные высок. разрешения", d_hirespdf: "PDF (рис. выс. разр.)",
-    tag_imaged: "снятые планеты", tag_transiting: "транзитные планеты"
+    tag_imaged: "снятые планеты", tag_transiting: "транзитные планеты",
+    gh_contrib: "вклад приветствуется"
   },
   ar: {
     title: "الأقراص المحيطة بالنجوم المحلولة والرفقاء المصوَّرون",
@@ -273,7 +282,8 @@ window.I18N = {
     d_pending1: "الصورة لم تُقتطع محليًا بعد", d_pending2: "انظر روابط الورقة أدناه للشكل المنشور",
     d_pendingnote: "الصورة المصغّرة المحلية قيد الإعداد — backend/README.md يشرح كيفية إضافتها",
     d_nolinks: "لا روابط", d_image: "صورة", d_hires: "بيانات عالية الدقة", d_hirespdf: "PDF (أشكال عالية الدقة)",
-    tag_imaged: "كواكب مصوَّرة", tag_transiting: "كواكب عابرة"
+    tag_imaged: "كواكب مصوَّرة", tag_transiting: "كواكب عابرة",
+    gh_contrib: "نرحب بالمساهمات"
   },
   ko: {
     title: "분해된 별주위 원반과 촬영된 동반 천체",
@@ -300,7 +310,8 @@ window.I18N = {
     d_pending1: "이미지가 아직 로컬로 잘리지 않음", d_pending2: "게재된 그림은 아래 논문 링크 참조",
     d_pendingnote: "로컬 썸네일 준비 중 — 추가 방법은 backend/README.md 참조",
     d_nolinks: "링크 없음", d_image: "이미지", d_hires: "고해상도 데이터", d_hirespdf: "PDF (고해상도 그림)",
-    tag_imaged: "촬영된 행성", tag_transiting: "통과 행성"
+    tag_imaged: "촬영된 행성", tag_transiting: "통과 행성",
+    gh_contrib: "기여를 환영합니다"
   },
   hi: {
     title: "विभेदित परितारकीय डिस्क और प्रतिबिंबित सहचर",
@@ -327,6 +338,7 @@ window.I18N = {
     d_pending1: "छवि अभी स्थानीय रूप से क्रॉप नहीं हुई", d_pending2: "प्रकाशित चित्र हेतु नीचे शोधपत्र लिंक देखें",
     d_pendingnote: "स्थानीय थंबनेल लंबित — जोड़ने की विधि backend/README.md में",
     d_nolinks: "कोई लिंक नहीं", d_image: "छवि", d_hires: "उच्च-विभेदन डेटा", d_hirespdf: "PDF (उच्च-विभेदन चित्र)",
-    tag_imaged: "प्रतिबिंबित ग्रह", tag_transiting: "पारगमन ग्रह"
+    tag_imaged: "प्रतिबिंबित ग्रह", tag_transiting: "पारगमन ग्रह",
+    gh_contrib: "योगदान का स्वागत है"
   }
 };

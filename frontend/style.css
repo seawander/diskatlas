@@ -84,6 +84,7 @@ main { position: fixed; inset: 0; }
 #searchlist .nores { padding: 10px 12px; color: var(--dim); }
 
 #legend { position: fixed; z-index: 15; left: 12px; bottom: 10px; display: flex;
+  max-width: calc(100vw - 240px);
   gap: 14px; flex-wrap: wrap; align-items: center; color: var(--dim); font-size: 12px;
   background: var(--legendbg); padding: 6px 10px; border-radius: 10px; }
 .dot { display: inline-block; width: 10px; height: 10px; border-radius: 50%;
@@ -97,6 +98,13 @@ main { position: fixed; inset: 0; }
 #d_sub .tag.quasar { border-color: var(--quasar); color: var(--quasar); }
 .dot.ringed { background: transparent; border: 2px solid var(--ink); width: 8px; height: 8px; }
 #legend .hint { opacity: .75; }
+
+/* GitHub badge, bottom-right (mirrors the legend's styling bottom-left) */
+#ghlink { position: fixed; z-index: 15; right: 12px; bottom: 10px;
+  display: inline-flex; align-items: center; gap: 5px;
+  color: var(--dim); font-size: 12px; text-decoration: none;
+  background: var(--legendbg); padding: 6px 10px; border-radius: 10px; }
+#ghlink:hover { color: var(--accent); }
 
 #detail { position: fixed; z-index: 50; top: 0; right: 0; bottom: 0; width: min(480px, 96vw);
   background: var(--panel); border-left: 1px solid var(--line); overflow-y: auto;
@@ -251,6 +259,8 @@ td.cell.gap::after { content: "·"; color: rgba(154,167,199,.35); }
   #search { width: 150px; }
   #detail { width: 100vw; }
   #facets { gap: 8px; }
+  #ghlink .ghtext { display: none; }   /* icon-only GitHub badge on phones */
+  #legend { max-width: calc(100vw - 70px); }
 }
 
 /* ---- content links: bright + underlined in BOTH themes (colorblind-friendly) ----
@@ -313,6 +323,7 @@ table.mtx th.sticky, table.mtx td.sticky {
   box-shadow: 12px 0 40px rgba(0,0,0,.5); }
 [dir="rtl"] #closebtn { right: auto; left: 12px; }
 [dir="rtl"] #legend { left: auto; right: 12px; }
+[dir="rtl"] #ghlink { right: auto; left: 12px; }
 [dir="rtl"] #d_planets .pl { border-left: none; border-right: 3px solid var(--planetonly); }
 /* Scientific data (wavelengths, instruments, coordinates, magnitudes, star names)
    is Latin/numeric and must keep left-to-right order even on RTL pages — otherwise
