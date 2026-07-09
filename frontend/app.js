@@ -253,6 +253,17 @@ if (typeof window !== "undefined") (function () {
     COL.dim = CSS.getPropertyValue("--dim").trim() || "#9aa7c7";
     COL.line = CSS.getPropertyValue("--line").trim() || "#2a3560";
     COL.sky = CSS.getPropertyValue("--sky").trim() || "#070b18";
+    /* map overlay colors need different alphas per theme: the dark values
+       are too faint to survive on a light background */
+    const light = document.body && document.body.classList.contains("light");
+    COL.grid = light ? "rgba(47,88,160,.22)" : "rgba(110,168,255,.14)";
+    COL.gridlab2 = light ? "rgba(70,88,125,.7)" : "rgba(154,167,199,.6)";
+    COL.constline = light ? "rgba(56,82,138,.40)" : "rgba(120,140,190,.30)";
+    COL.constlab = light ? "rgba(50,74,126,.62)" : "rgba(140,160,210,.42)";
+    COL.gal = light ? "rgba(60,100,190,.38)" : "rgba(160,190,255,.28)";
+    COL.ecl = light ? "rgba(185,115,25,.40)" : "rgba(255,190,120,.20)";
+    COL.hover = light ? "#1c2438" : "#fff";
+    COL.namelab = light ? "rgba(28,36,56,.92)" : "rgba(232,236,248,.85)";
   };
 
   let W = 0, H = 0, DPR = 1;
@@ -320,7 +331,7 @@ if (typeof window !== "undefined") (function () {
   const ECL = []; for (let l = 0; l <= 360; l += 2) ECL.push(eclToEq(l));
 
   function drawGrid() {
-    ctx.strokeStyle = "rgba(110,168,255,.14)"; ctx.fillStyle = COL.dim;
+    ctx.strokeStyle = COL.grid; ctx.fillStyle = COL.dim;
     ctx.lineWidth = 1; ctx.font = "11px system-ui";
     const stepOpts = [ [60,30],[30,15],[15,10],[10,5],[5,2],[2,1],[1,.5] ];
     let raStep = 60, decStep = 30;
@@ -333,7 +344,7 @@ if (typeof window !== "undefined") (function () {
       const lab = (raStep >= 15 ? hrs.toFixed(0) + "h" : hrs.toFixed(1) + "h");
       ctx.fillStyle = COL.ink;
       ctx.fillText(lab, a.x + 3, H - 8);          // x-axis labels along the BOTTOM
-      ctx.fillStyle = "rgba(154,167,199,.6)";
+      ctx.fillStyle = COL.gridlab2;
       ctx.fillText(lab, a.x + 3, topbarH() + 14); // faint duplicates under the header
       ctx.fillStyle = COL.dim;
     }
@@ -355,7 +366,7 @@ if (typeof window !== "undefined") (function () {
   const CONST = (typeof window !== "undefined" && window.CONSTELLATIONS) || null;
   function drawConstellations() {
     if (!CONST || !filters.constellations) return;
-    ctx.strokeStyle = "rgba(120,140,190,.30)";
+    ctx.strokeStyle = COL.constline;
     ctx.lineWidth = 1;
     for (const seg of CONST.lines) {
       ctx.beginPath();
@@ -370,7 +381,7 @@ if (typeof window !== "undefined") (function () {
       ctx.stroke();
     }
     if (view.ppd > 2.2) {
-      ctx.fillStyle = "rgba(140,160,210,.42)";
+      ctx.fillStyle = COL.constlab;
       ctx.font = "italic 11px system-ui";
       for (const n of CONST.names) {
         const p = project(n.ra, n.dec, view, W, H);
@@ -409,8 +420,8 @@ if (typeof window !== "undefined") (function () {
     ctx.fillStyle = COL.sky;
     ctx.fillRect(0, 0, W, H);
     drawConstellations();
-    drawCurve(GAL, "rgba(160,190,255,.28)");
-    drawCurve(ECL, "rgba(255,190,120,.20)", [5, 5]);
+    drawCurve(GAL, COL.gal);
+    drawCurve(ECL, COL.ecl, [5, 5]);
     drawGrid();
 
     const zs = Math.min(1.6, 0.9 + view.ppd / 60);
@@ -429,10 +440,10 @@ if (typeof window !== "undefined") (function () {
       }
       if (s.id === hoverId || (currentSys && s.id === currentSys.id)) {
         ctx.beginPath(); ctx.arc(p.x, p.y, r + 7.5, 0, 7);
-        ctx.strokeStyle = "#fff"; ctx.lineWidth = 1.5; ctx.stroke();
+        ctx.strokeStyle = COL.hover; ctx.lineWidth = 1.5; ctx.stroke();
       }
       if (view.ppd > 26) {
-        ctx.fillStyle = "rgba(232,236,248,.85)"; ctx.font = "11px system-ui";
+        ctx.fillStyle = COL.namelab; ctx.font = "11px system-ui";
         ctx.fillText(s.name, p.x + r + 4, p.y + 4);
       }
     }
