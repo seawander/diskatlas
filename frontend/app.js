@@ -267,6 +267,9 @@ if (typeof window !== "undefined") (function () {
   };
 
   let W = 0, H = 0, DPR = 1;
+  /* optional ?fontscale=1.3 enlarges the map's canvas labels (print captures) */
+  const FSCALE = parseFloat(new URLSearchParams(location.search).get("fontscale")) || 1;
+  const fpx = n => Math.round(n * FSCALE * 10) / 10 + "px";
   const view = { ra0: 90, dec0: 5, ppd: 3, topInset: 0 };   // start loosely on Taurus/Ori side
   let minPPD = 1;
   const filters = { proto: true, debris: true, planetonly: true, quasar: true, evolved: true,
@@ -332,7 +335,7 @@ if (typeof window !== "undefined") (function () {
 
   function drawGrid() {
     ctx.strokeStyle = COL.grid; ctx.fillStyle = COL.dim;
-    ctx.lineWidth = 1; ctx.font = "11px system-ui";
+    ctx.lineWidth = 1; ctx.font = fpx(11) + " system-ui";
     const stepOpts = [ [60,30],[30,15],[15,10],[10,5],[5,2],[2,1],[1,.5] ];
     let raStep = 60, decStep = 30;
     for (const [rs, ds] of stepOpts) { if (view.ppd * rs > 90) { raStep = rs; decStep = ds; } }
@@ -382,14 +385,14 @@ if (typeof window !== "undefined") (function () {
     }
     if (view.ppd > 2.2) {
       ctx.fillStyle = COL.constlab;
-      ctx.font = "italic 11px system-ui";
+      ctx.font = "italic " + fpx(11) + " system-ui";
       const CN = (typeof window !== "undefined" && window.I18N_CONST && window.I18N_CONST[lang]) || null;
       for (const n of CONST.names) {
         const p = project(n.ra, n.dec, view, W, H);
         if (p.x < 0 || p.x > W || p.y < topbarH() || p.y > H) continue;
         ctx.fillText((CN && CN[n.name]) || n.name, p.x, p.y);
       }
-      ctx.font = "11px system-ui";
+      ctx.font = fpx(11) + " system-ui";
     }
   }
 
@@ -444,7 +447,7 @@ if (typeof window !== "undefined") (function () {
         ctx.strokeStyle = COL.hover; ctx.lineWidth = 1.5; ctx.stroke();
       }
       if (view.ppd > 26) {
-        ctx.fillStyle = COL.namelab; ctx.font = "11px system-ui";
+        ctx.fillStyle = COL.namelab; ctx.font = fpx(11) + " system-ui";
         ctx.fillText(s.name, p.x + r + 4, p.y + 4);
       }
     }
