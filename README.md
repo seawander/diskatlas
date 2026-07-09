@@ -102,10 +102,10 @@ python3 parse_simbad.py && python3 extract_sources.py \
 (If ever run in a network-isolated sandbox, run `fetch_sources.sh` on a host with
 internet instead — everything else is the same.)
 
-## Current contents (2026-07-07 build) / 当前规模
+## Current contents (2026-07-09 build) / 当前规模
 
-**401 systems (incl. quasar hosts and Class 0/I eDisk protostars; Orion proplyds queued) ·
-1181 image records · all with local panels · 65 imaged-companion hosts ·
+**462 systems (incl. quasar hosts, embedded Class 0/I protostars and Orion proplyds) ·
+1425 image records · all with local panels · 68 imaged-companion hosts ·
 coordinates for every system (SIMBAD idents coordinate-verified) · 0 validation errors.**
 `python3 backend/build.py` prints the canonical live stats — trust its output over any number
 written in prose. Major 2026-07-06/07 expansions: a full instrument-level sweep over every
