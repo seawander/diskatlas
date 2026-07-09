@@ -15,35 +15,62 @@ scattered light / thermal-IR), a **directly imaged exoplanet/companion**, or a
 peer-reviewed figure (or an official archive preview) with clickable **arXiv +
 SciX** citations. Pure static files — no server, no build step at runtime.
 
-## Current state (2026-07-07)
+## Current state (2026-07-08)
 
-- **403 systems · 1200 image records (all with local panels) · full coords · 0 validate
-  errors · SIMBAD idents coordinate-verified** (as of 2026-07-08; `python3
-  backend/build.py` is always canonical). Several batches were USER-CANCELLED mid-flight —
-  see `data/ingestion_status.json` → "user-cancelled-2026-07-07" for what remains open.
+- **462 systems · 1425 image records (all with local panels) · full coords · 0 validate
+  errors** (`python3 backend/build.py` is always canonical). Paper-finder ledger:
+  ~544 in-atlas / ~843 explored / ~9913 known-candidate (the "known" pool ballooned
+  after adding the backward-reference axis — see below; it is a discovery-frontier
+  count, NOT papers read).
+- Published live at **github.com/seawander/diskatlas** + GitHub Pages. Publish flow is
+  **direct push to `master`** (no PRs; `gh` is not installed). Multiple checkouts/sessions
+  commit to `master` concurrently — always `git fetch` before assuming ahead/behind.
 
 ## Session state 2026-07-08 (live log — update on every hand-off)
 
-CURRENT: 405 systems / 1249 image records / 0 errors (build.py canonical).
-Paper-finder ledger: 484 in-atlas / 721 explored / 5477 known.
+CURRENT: 462 systems / 1425 image records / 0 errors.
 
-CRASH RECOVERY (2026-07-08): a process exit killed 7 background agents mid-run.
-No partial data had merged (working tree was clean at commit c87218e). 43 orphan
-PNGs (VIEW-verified crops whose staging JSONs were lost with the scratchpad) were
-found on disk; 42 were recovered by re-deriving each source paper from the filename,
-re-verifying every arXiv id from arxiv.org, and rebuilding full records
-(data/staging/orphan-recovery.json, merged). 1 dropped (61 Vir Herschel — id
-unverifiable). GJ 581 created + coords. All 42 papers marked in the ledger.
+WHAT THIS SESSION DID (all committed + pushed to master):
+- **Snowball deepening then saturation.** Added the BACKWARD reference axis to
+  `find_papers.py` (`--direction both`, `cache_refs/`, `--min-year 1995`) so non-arXiv
+  classics (Grady 2005, Perrin 2009, Schneider/Augereau…) surface, not just forward
+  citations. Ran many PF/discovery batches → grew from ~405 to 462 systems (post-AGB
+  "evolved" disks, AGB/RSG, massive-YSO, edge-on protostellar, quasar-host, plus classic
+  HST/NICMOS/STIS/ACS coronagraphy). Hit genuine SATURATION: last keyword sweep was
+  ~2 hits / 700 candidates. **The user's directed "add paper X, crop figure Y" requests
+  are far higher-yield than the autonomous dragnet** — treat the snowball as a *targeted*
+  tool now, not a background crawl.
+- **Multi-panel figure splitting (big theme; see the `split-multipanel-figures` memory).**
+  Source figures that show one target at several wavelengths were often ingested as ONE
+  crop → mis-sorted (a Ks+L' strip hidden at 3.8 µm). Split ~26 records → ~74 per-band
+  records across fleets + individual asks (3C 273 Komugi 3 ALMA bands, PDS 201 Wagner LBTI
+  Ks/L'/vAPP, HD 135344B Stolker R/I/Y/J, HL Tau Mullin NIRCam 2×2, CY Tau Perez mm strip,
+  ESO Hα 569 Wolff F606W, HD 15115 CHARIS J/H/K, HIP 65426 JWST 6-band, etc.). RULE:
+  re-crop each band FROM SOURCE (don't slice the low-res combined image); one record per
+  band; DON'T split RGB composites / wavelength ranges / same-band roll angles / multi-epoch
+  galleries / "B/C"=companion-letter panels. Splitting also caught facility mislabels
+  (CY Tau "VLA" was really CARMA at 1.3/2.8 mm).
+- **New local QA tooling (runs on the DGX, token-free — use these before eyeballing):**
+  `backend/crop_qa.py` (edge-uniformity / colorbar-bleed / gutter / MULTIPANEL / `--ocr`
+  axis-text; report → `data/paper_finder/crop_qa.json`), `backend/dup_check.py` (md5
+  exact-dup reliable; `--near` GPU pHash is noisy for faint crops), `backend/audit_bibcodes.py`
+  (arxiv→ADS bibcode audit, `--fix`). GPU note: at ~1.4k small crops there is NO useful
+  GPU speedup (I/O-bound); the real bottleneck is token-judgement + source-PDF fetches.
+- **Bibcode/metadata audit** (`audit_bibcodes.py`): fixed 14 hallucinated/wrong bibcodes
+  + 4 mislabeled first-authors (AR Pup Kluska→Ertel, Orion Src I Chen→Wright, HH 212
+  Lin→Lee, BD+45 598 Farkas→Vincent), re-derived 29 journal strings. Anonymous ADS via
+  `ui.adsabs.harvard.edu/v1/accounts/bootstrap` (no token). Keep bibcodes ADS-correct;
+  resolve `bibcode:null` records opportunistically.
+- **`evolved` category added** (backend `validate.py` CATS + frontend chip/legend/hexagon
+  marker; 21 systems: post-AGB + AGB). **SPHERE instrument facet split** into
+  `SPHERE/IRDIS` · `SPHERE/ZIMPOL` · `SPHERE/IFS` (`facility_map.instr_key`); the frontend
+  INSTRUMENT facet does parent⊇children (clicking "SPHERE" matches all three).
 
-LESSON: the scratchpad (findings/cropresult/cache) is volatile across process exits.
-Reconcile + merge agent output PROMPTLY (don't let many cropresults accumulate
-unmerged), and commit after each batch.
-
-NEXT QUEUE: keep triaging data/paper_finder/candidates.json in --rank order
-(917 target-matched observation papers lead; run --rank after every --mark batch).
-Genuinely-open PF4/PF6 leftovers (not recovered): 49 Cet Herschel (1907.06427),
-Class I grain-growth 2309.06076, CGI AB Aur commissioning 2509.02681. Also: the
-user-cancelled batches only on request; embedded-YSO/straggler ingests.
+NEXT / OPEN: snowball is at diminishing returns — prefer user-directed adds. `crop_qa.py`
+GUTTER_EDGE (167) is mostly benign (edge-on disks have dark-sky edges) — screening only;
+its MULTIPANEL flags are the actionable ones. Morales 2013 has 3 more Herschel belts if
+wanted (HD 70313/71722/159492 already added; sample was 4). A local ML QA-classifier (fine-tune
+on the GB10 to replace token-costly crop eyeballing) was proposed but not built.
 ## Bookkeeping — the three ledgers (do NOT create a fourth)
 
 1. **`data/systems/*.json`** — ground truth. A paper is "in the atlas" iff its arXiv id is
@@ -193,6 +220,9 @@ instrument/epoch completeness, not just filling empty modality buckets.
   `img.quantize(colors=256, method=Image.FASTOCTREE)`.
 - QA: the four cropped edges should each be near-uniform in color; OCR (tesseract) must
   not find a target-name at the crop CENTER (offset-grid bug) nor axis values at edges.
+  **`python3 backend/crop_qa.py [--ocr]`** automates this over every crop (report →
+  `data/paper_finder/crop_qa.json`); its MULTIPANEL flag reliably finds un-split
+  multi-band strips (the highest-value category — GUTTER/edge flags are noisier).
 - No press-release composites, ever — only peer-reviewed figures / official archive previews.
 - If a "found" paper turns out to be uv-plane modeling with no image-plane figure, DROP
   the record (happened with HD 141569 / White 2018).
@@ -211,21 +241,24 @@ instrument/epoch completeness, not just filling empty modality buckets.
 - **Views** (top switcher): Sky map · Coverage matrix (systems × Visible/NIR/MIR/mm/Planet,
   a live gap-finder) · Tonight (observability planner: site + date → airmass/transit + CSV).
 - **Faceted filters**: wavelength band / missing-modality / facility, driving all views.
-- **Multi-language** (`frontend/i18n.js`): English / 中文 / Français / Español, persisted in
-  localStorage. UI strings route through `t(key)` / `data-i18n`; scientific data stays as-is.
+- **Multi-language** (`frontend/i18n.js`): 12 languages (en/zh/fr/es/de/it/ja/pt/ru/ko/hi/ar,
+  ar is RTL), persisted in localStorage. UI strings route through `t(key)` / `data-i18n`;
+  scientific data stays as-is. NEW `cat_evolved` key = the evolved category.
 - **Facets**: band / missing-modality / **Facility** (AAS facility keywords via
-  `backend/facility_map.py`, applied at build time as `fac_keys`; A+B images appear under
-  both; VLT selection also matches VLTI) / **Instrument** (`instr_key` families; top-8 by
-  usage first, alphabetical, then the rest).
+  `backend/facility_map.py` incl. `Gemini:South`=Gemini S, `Gemini:Gillett`=Gemini N;
+  applied at build time as `fac_keys`; A+B images appear under both; VLT selection also
+  matches VLTI) / **Instrument** (`instr_key` families). SPHERE is split into
+  `SPHERE/IRDIS`·`SPHERE/ZIMPOL`·`SPHERE/IFS`; selecting a parent instrument matches its
+  children (parent⊇children).
 - **Light/dark theme** toggle (`body.light`, persisted; `refreshCOL()` re-reads CSS vars,
   canvas sky uses `--sky`). **Tonight** rows link to per-object airmass.org charts
   (obsid map in SITES). Notes auto-linkify "Author+Year" to SciX searches;
   `planets[].extra_papers` render as extra arXiv/SciX links. Systems with `simbad: null`
   get a SIMBAD coordinate-search link instead of an Ident link.
-- **Markers**: distinct SHAPE per category (● proto / ▲ debris / ◆ planet-only / ■ quasar,
-  colorblind + B/W-print friendly), a **★ star** overlay marks imaged-planet hosts, and a
-  white circle marks selection. Marker size is uniform per type (image count only sets fill
-  opacity). Sky Dec axis is bounded to −90…+90 via `view.topInset` (header offset).
+- **Markers**: distinct SHAPE per category (● proto / ▲ debris / ◆ planet-only / ■ quasar /
+  ⬢ evolved, colorblind + B/W-print friendly), a **★ star** overlay marks imaged-planet
+  hosts, and a white circle marks selection. Marker size is uniform per type (image count
+  only sets fill opacity). Sky Dec axis is bounded to −90…+90 via `view.topInset`.
 - Verify frontend changes with a preview server + screenshots/eval (Node isn't installed).
 
 ## User preferences
