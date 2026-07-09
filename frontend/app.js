@@ -196,6 +196,7 @@ if (typeof window !== "undefined") (function () {
   }
   function applyStaticI18n() {
     document.documentElement.lang = lang;
+    document.documentElement.dir = (window.I18N_RTL || []).indexOf(lang) >= 0 ? "rtl" : "ltr";
     document.title = t("title");
     document.querySelectorAll("[data-i18n]").forEach(el => { el.textContent = t(el.dataset.i18n); });
     document.querySelectorAll("[data-i18n-ph]").forEach(el => { el.placeholder = t(el.dataset.i18nPh); });

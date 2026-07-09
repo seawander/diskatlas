@@ -301,3 +301,22 @@ table.mtx th.sticky, table.mtx td.sticky {
 /* per-system last-updated stamp in the detail panel */
 #d_notes .lastupd { margin-top: 8px; font-size: 11px; color: var(--dim);
   border-top: 1px dotted var(--line); padding-top: 6px; }
+
+/* ---- RTL (Arabic): mirror table alignment, sticky column, and side panels.
+   The canvas sky map is pixel-drawn and direction-neutral, so it is unaffected. */
+[dir="rtl"] table.mtx th, [dir="rtl"] table.mtx td { text-align: right; }
+[dir="rtl"] table.mtx td.sticky, [dir="rtl"] table.mtx th.sticky { left: auto; right: 0; }
+[dir="rtl"] #detail { right: auto; left: 0;
+  border-left: none; border-right: 1px solid var(--line);
+  box-shadow: 12px 0 40px rgba(0,0,0,.5); }
+[dir="rtl"] #closebtn { right: auto; left: 12px; }
+[dir="rtl"] #legend { left: auto; right: 12px; }
+[dir="rtl"] #d_planets .pl { border-left: none; border-right: 3px solid var(--planetonly); }
+/* Scientific data (wavelengths, instruments, coordinates, magnitudes, star names)
+   is Latin/numeric and must keep left-to-right order even on RTL pages — otherwise
+   a leading number like the "1.6" in "1.6 μm NICI" gets detached by the bidi
+   algorithm and pushed to the far end ("μm NICI 1.6"). */
+[dir="rtl"] #d_slider,
+[dir="rtl"] #d_caption,
+[dir="rtl"] #d_sub,
+[dir="rtl"] #tooltip { direction: ltr; text-align: left; }
