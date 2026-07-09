@@ -58,14 +58,35 @@ function adsUrl(p) {
   if (p.arxiv) return "https://scixplorer.org/abs/arXiv:" + p.arxiv + "/abstract";
   return null;
 }
+/* Every paper a system records (image, planet discovery, extra_papers), indexed
+   by "<first-author surname>|<year>" so an inline citation mention in free-text
+   notes can link to that real abstract instead of a blind author search. */
+function citeIndex(s) {
+  const idx = {};
+  const add = p => {
+    if (!p || !p.first_author || !p.year) return;
+    const url = adsUrl(p) || arxivUrl(p);
+    if (!url) return;
+    const surname = String(p.first_author).trim().split(/\s+/).pop().toLowerCase();
+    const key = surname + "|" + p.year;
+    if (!idx[key]) idx[key] = url;                 // first paper for a surname/year wins
+  };
+  (s.images || []).forEach(i => add(i.paper));
+  (s.planets || []).forEach(pl => { add(pl.paper); (pl.extra_papers || []).forEach(add); });
+  return idx;
+}
 /* Turn "Mesa+2023", "Kenworthy et al. 2025", "Smith & Terrile 1984" citation
-   mentions inside already-HTML-escaped free text into SciX search links. */
-function linkifyCitations(escapedText) {
+   mentions inside already-HTML-escaped free text into links: to the real
+   abstract when the system already records that paper, else a SciX search. */
+function linkifyCitations(escapedText, idx) {
   if (!escapedText) return "";
+  idx = idx || {};
   const link = (m, name, year) => {
-    const q = encodeURIComponent('author:"' + name + '" year:' + year);
-    return '<a href="https://scixplorer.org/search?q=' + q +
-           '&sort=score+desc" target="_blank" rel="noopener">' + m + "</a>";
+    const surname = String(name).trim().split(/\s+/).pop().toLowerCase();
+    const href = idx[surname + "|" + year] ||
+      "https://scixplorer.org/search?q=" +
+      encodeURIComponent('author:"' + name + '" year:' + year) + "&sort=score+desc";
+    return '<a href="' + href + '" target="_blank" rel="noopener">' + m + "</a>";
   };
   return escapedText
     .replace(/\b((?:(?:De|Del|Van|Von|Le|La|Di|Da|Mac|Mc|O')\s+)?[A-Z][A-Za-z'-]+)\+((?:19|20)\d{2}[a-z]?)\b/g,
@@ -629,6 +650,7 @@ if (typeof window !== "undefined") (function () {
       if (m && plName.charAt(0) === m[2]) return m[1] + " " + plName;
       return sysName + " " + plName;
     }
+    const citeIdx = citeIndex(s);
     if (sysHasPlanet(s)) {
       pl.innerHTML = '<div class="ph">' + esc(t("d_companions")) + "</div>" + s.planets.map(p => {
         const pp = p.paper || null;
@@ -652,10 +674,10 @@ if (typeof window !== "undefined") (function () {
               (ep.first_author || "") + (ep.year ? " et al. " + ep.year : "")) +
               " " + l.join(" ") + "</span>";
           }).join("") +
-          (p.note ? "<br>" + linkifyCitations(esc(p.note)) : "") + "</div>";
+          (p.note ? "<br>" + linkifyCitations(esc(p.note), citeIdx) : "") + "</div>";
       }).join("");
     } else pl.innerHTML = "";
-    document.getElementById("d_notes").innerHTML = linkifyCitations(esc(s.notes || "")) +
+    document.getElementById("d_notes").innerHTML = linkifyCitations(esc(s.notes || ""), citeIdx) +
       (s.last_updated ? '<div class="lastupd">' + esc(t("d_updated")) + " " +
         esc(s.last_updated) + "</div>" : "");
     buildSlider(s);
