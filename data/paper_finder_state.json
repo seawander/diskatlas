@@ -2310,5 +2310,60 @@
   "status": "ingested",
   "reason": "Evolved post-AGB disc 2026-07-08",
   "date": "2026-07-08"
+ },
+ "1911.10756": {
+  "status": "ingested",
+  "reason": "Evolved/massive-YSO disk 2026-07-08",
+  "date": "2026-07-08"
+ },
+ "1412.5063": {
+  "status": "ingested",
+  "reason": "Evolved/massive-YSO disk 2026-07-08",
+  "date": "2026-07-08"
+ },
+ "1906.06548": {
+  "status": "ingested",
+  "reason": "Evolved/massive-YSO disk 2026-07-08",
+  "date": "2026-07-08"
+ },
+ "1911.09692": {
+  "status": "ingested",
+  "reason": "Evolved/massive-YSO disk 2026-07-08",
+  "date": "2026-07-08"
+ },
+ "1805.09842": {
+  "status": "ingested",
+  "reason": "Evolved/massive-YSO disk 2026-07-08",
+  "date": "2026-07-08"
+ },
+ "2008.08394": {
+  "status": "excluded",
+  "reason": "EP Aqr single CO channel map, not a resolved disk",
+  "date": "2026-07-08"
+ },
+ "1210.3030": {
+  "status": "excluded",
+  "reason": "R Scl spiral CSE shell, not a disk",
+  "date": "2026-07-08"
+ },
+ "1510.03916": {
+  "status": "excluded",
+  "reason": "RW LMi concentric spiral shell, not a disk",
+  "date": "2026-07-08"
+ },
+ "2304.14740": {
+  "status": "excluded",
+  "reason": "G358.93 VLBI maser spots, not a resolved continuum disk",
+  "date": "2026-07-08"
+ },
+ "1809.00619": {
+  "status": "excluded",
+  "reason": "OH 231.8 bipolar-outflow-dominated, torus not the resolved feature",
+  "date": "2026-07-08"
+ },
+ "1901.04896": {
+  "status": "excluded",
+  "reason": "IRAS 16547 proto-multiple + bridge, disk not cleanly resolved",
+  "date": "2026-07-08"
  }
 }
