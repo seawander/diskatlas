@@ -58,16 +58,56 @@
    }
   },
   {
-   "image_id": "pds-201_lbti-wagner2020",
+   "image_id": "pds-201_lbti-ks",
+   "type": "disk_scattered",
+   "facility": "LBT",
+   "instrument": "LBTI/LMIRCam",
+   "wavelength_um": 2.18,
+   "wavelength_label": "Ks direct image; resolved ~250 au disk with gap",
+   "technique": "ADI",
+   "survey": null,
+   "file": "images/pds-201/pds-201_lbti-ks.png",
+   "credit": "Wagner et al. 2020, Fig. 1 (crop: Ks)",
+   "paper": {
+    "first_author": "Wagner",
+    "year": 2020,
+    "title": "First Images of the Protoplanetary Disk Around PDS 201",
+    "journal": "AJ 160, 231",
+    "arxiv": "2004.06157",
+    "bibcode": "2020AJ....160..231W"
+   }
+  },
+  {
+   "image_id": "pds-201_lbti-lprime",
    "type": "disk_scattered",
    "facility": "LBT",
    "instrument": "LBTI/LMIRCam",
    "wavelength_um": 3.8,
-   "wavelength_label": "Ks + L' (incl. L' vAPP coronagraph); resolved ~250 au edge-on disk with gap",
+   "wavelength_label": "L' direct image",
    "technique": "ADI",
    "survey": null,
-   "file": "images/pds-201/pds-201_lbti-wagner2020.png",
-   "credit": "Wagner et al. 2020, Fig. 1 (crop)",
+   "file": "images/pds-201/pds-201_lbti-lprime.png",
+   "credit": "Wagner et al. 2020, Fig. 1 (crop: L')",
+   "paper": {
+    "first_author": "Wagner",
+    "year": 2020,
+    "title": "First Images of the Protoplanetary Disk Around PDS 201",
+    "journal": "AJ 160, 231",
+    "arxiv": "2004.06157",
+    "bibcode": "2020AJ....160..231W"
+   }
+  },
+  {
+   "image_id": "pds-201_lbti-lprime-vapp",
+   "type": "disk_scattered",
+   "facility": "LBT",
+   "instrument": "LBTI/LMIRCam",
+   "wavelength_um": 3.8,
+   "wavelength_label": "L' + vector apodizing phase plate (vAPP) coronagraph",
+   "technique": "ADI",
+   "survey": null,
+   "file": "images/pds-201/pds-201_lbti-lprime-vapp.png",
+   "credit": "Wagner et al. 2020, Fig. 1 (crop: L' vAPP)",
    "paper": {
     "first_author": "Wagner",
     "year": 2020,
