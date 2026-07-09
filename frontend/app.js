@@ -1061,7 +1061,10 @@ if (typeof window !== "undefined") (function () {
       '<th class="sortable numcol" data-k="ra">' + esc(t("t_col_ra")) + '</th>' +
       '<th class="sortable numcol" data-k="dec">' + esc(t("t_col_dec")) + '</th>' +
       '<th class="sortable" data-k="region">' + esc(t("col_region")) + '</th>';
-    for (const c of MCOLS) h += '<th class="sortable numcol" data-k="' + c[0] + '">' + esc(t(c[1])) + '<span class="sub">' + c[2] + "</span></th>";
+    /* the Planet column counts IMAGE RECORDS (like the band columns), not
+       imaged planets — its sub-label says "images" (translated) to avoid
+       misreading; the band columns keep their language-neutral μm ranges */
+    for (const c of MCOLS) h += '<th class="sortable numcol" data-k="' + c[0] + '">' + esc(t(c[1])) + '<span class="sub">' + (c[0] === "planet" ? esc(t("col_planet_sub")) : c[2]) + "</span></th>";
     h += "</tr></thead><tbody>";
     for (const { s, cells } of rows) {
       h += '<tr><td class="sticky nm" data-id="' + s.id + '" title="' + esc(s.name) + '">' + esc(s.name) + "</td>" +
