@@ -6,7 +6,7 @@ window.I18N_LANGS = [["en", "English"], ["zh", "中文"], ["fr", "Français"], [
 window.I18N_RTL = ["ar"];
 window.I18N = {
   en: {
-    title: "Resolved Disks & Imaged Planets",
+    title: "resolved circumstellar disks & imaged companions",
     search_ph: "Search star… (e.g. HL Tau)",
     word_systems: "systems", word_records: "image records", word_local: "local images", word_built: "built",
     tab_sky: "Sky", tab_matrix: "Coverage matrix", tab_tonight: "Tonight",
@@ -33,7 +33,7 @@ window.I18N = {
     tag_imaged: "imaged planet(s)", tag_transiting: "transiting planet(s)"
   },
   zh: {
-    title: "已分辨星周盘与直接成像行星",
+    title: "已分辨星周盘与直接成像伴天体",
     search_ph: "搜索恒星…(如 HL Tau)",
     word_systems: "个系统", word_records: "条图像记录", word_local: "张本地图", word_built: "构建于",
     tab_sky: "星图", tab_matrix: "覆盖矩阵", tab_tonight: "今夜可观测",
@@ -60,7 +60,7 @@ window.I18N = {
     tag_imaged: "成像行星", tag_transiting: "凌星行星"
   },
   fr: {
-    title: "Disques résolus & exoplanètes imagées",
+    title: "disques circumstellaires résolus & compagnons imagés",
     search_ph: "Rechercher une étoile… (ex. HL Tau)",
     word_systems: "systèmes", word_records: "images cataloguées", word_local: "images locales", word_built: "compilé le",
     tab_sky: "Ciel", tab_matrix: "Matrice de couverture", tab_tonight: "Ce soir",
@@ -87,7 +87,7 @@ window.I18N = {
     tag_imaged: "planète(s) imagée(s)", tag_transiting: "planète(s) en transit"
   },
   es: {
-    title: "Discos resueltos y planetas imagenados",
+    title: "discos circunestelares resueltos y compañeros imagenados",
     search_ph: "Buscar estrella… (p. ej. HL Tau)",
     word_systems: "sistemas", word_records: "registros de imagen", word_local: "imágenes locales", word_built: "compilado",
     tab_sky: "Cielo", tab_matrix: "Matriz de cobertura", tab_tonight: "Esta noche",
@@ -114,7 +114,7 @@ window.I18N = {
     tag_imaged: "planeta(s) imagenado(s)", tag_transiting: "planeta(s) en tránsito"
   },
   de: {
-    title: "Aufgelöste Scheiben & abgebildete Planeten",
+    title: "aufgelöste zirkumstellare Scheiben & abgebildete Begleiter",
     search_ph: "Stern suchen… (z. B. HL Tau)",
     word_systems: "Systeme", word_records: "Bilddatensätze", word_local: "lokale Bilder", word_built: "erstellt",
     tab_sky: "Himmel", tab_matrix: "Abdeckungsmatrix", tab_tonight: "Heute Nacht",
@@ -141,7 +141,7 @@ window.I18N = {
     tag_imaged: "abgebildete(r) Planet(en)", tag_transiting: "Transitplanet(en)"
   },
   it: {
-    title: "Dischi risolti e pianeti ripresi",
+    title: "dischi circumstellari risolti e compagni ripresi",
     search_ph: "Cerca stella… (es. HL Tau)",
     word_systems: "sistemi", word_records: "immagini catalogate", word_local: "immagini locali", word_built: "compilato",
     tab_sky: "Cielo", tab_matrix: "Matrice di copertura", tab_tonight: "Stanotte",
@@ -168,7 +168,7 @@ window.I18N = {
     tag_imaged: "pianeta/i ripreso/i", tag_transiting: "pianeta/i in transito"
   },
   ja: {
-    title: "分解された円盤と直接撮像惑星",
+    title: "分解された星周円盤と直接撮像された伴天体",
     search_ph: "恒星を検索…(例: HL Tau)",
     word_systems: "系", word_records: "画像レコード", word_local: "ローカル画像", word_built: "生成日",
     tab_sky: "天球", tab_matrix: "カバレッジ行列", tab_tonight: "今夜",
@@ -195,7 +195,7 @@ window.I18N = {
     tag_imaged: "撮像惑星", tag_transiting: "トランジット惑星"
   },
   pt: {
-    title: "Discos resolvidos e planetas imageados",
+    title: "discos circunstelares resolvidos e companheiros imageados",
     search_ph: "Buscar estrela… (ex.: HL Tau)",
     word_systems: "sistemas", word_records: "registros de imagem", word_local: "imagens locais", word_built: "compilado em",
     tab_sky: "Céu", tab_matrix: "Matriz de cobertura", tab_tonight: "Esta noite",
@@ -222,7 +222,7 @@ window.I18N = {
     tag_imaged: "planeta(s) imageado(s)", tag_transiting: "planeta(s) em trânsito"
   },
   ru: {
-    title: "Разрешённые диски и снятые планеты",
+    title: "разрешённые околозвёздные диски и снятые компаньоны",
     search_ph: "Поиск звезды… (напр. HL Tau)",
     word_systems: "систем", word_records: "изображений", word_local: "локальных изображений", word_built: "собрано",
     tab_sky: "Небо", tab_matrix: "Матрица покрытия", tab_tonight: "Сегодня ночью",
@@ -249,7 +249,7 @@ window.I18N = {
     tag_imaged: "снятые планеты", tag_transiting: "транзитные планеты"
   },
   ar: {
-    title: "الأقراص المحلولة والكواكب المصوَّرة",
+    title: "الأقراص المحيطة بالنجوم المحلولة والرفقاء المصوَّرون",
     search_ph: "ابحث عن نجم… (مثل HL Tau)",
     word_systems: "أنظمة", word_records: "سجلات صور", word_local: "صور محلية", word_built: "بُني في",
     tab_sky: "السماء", tab_matrix: "مصفوفة التغطية", tab_tonight: "الليلة",
@@ -276,7 +276,7 @@ window.I18N = {
     tag_imaged: "كواكب مصوَّرة", tag_transiting: "كواكب عابرة"
   },
   ko: {
-    title: "분해된 원반과 직접 촬영 행성",
+    title: "분해된 별주위 원반과 촬영된 동반 천체",
     search_ph: "별 검색… (예: HL Tau)",
     word_systems: "천체계", word_records: "이미지 레코드", word_local: "로컬 이미지", word_built: "생성일",
     tab_sky: "하늘", tab_matrix: "커버리지 행렬", tab_tonight: "오늘 밤",
@@ -303,7 +303,7 @@ window.I18N = {
     tag_imaged: "촬영된 행성", tag_transiting: "통과 행성"
   },
   hi: {
-    title: "विभेदित डिस्क और प्रत्यक्ष प्रतिबिंबित ग्रह",
+    title: "विभेदित परितारकीय डिस्क और प्रतिबिंबित सहचर",
     search_ph: "तारा खोजें… (जैसे HL Tau)",
     word_systems: "मंडल", word_records: "छवि अभिलेख", word_local: "स्थानीय छवियाँ", word_built: "निर्मित",
     tab_sky: "आकाश", tab_matrix: "कवरेज मैट्रिक्स", tab_tonight: "आज रात",
