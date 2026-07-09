@@ -40,6 +40,26 @@
     "arxiv": "2403.12124",
     "bibcode": "2024A&A...686A.309Z"
    }
+  },
+  {
+   "type": "disk_scattered",
+   "facility": "VLT",
+   "instrument": "ERIS/NIX",
+   "technique": "imaging",
+   "wavelength_um": 3.8,
+   "wavelength_label": "L' band 3.8 um (wide-field, companions/environment)",
+   "image_id": "v960-mon_eris",
+   "survey": null,
+   "file": "images/v960-mon/v960-mon_eris.png",
+   "credit": "Dasgupta et al. 2025, Fig. 1 left (crop)",
+   "paper": {
+    "arxiv": "2507.13571",
+    "bibcode": "2025ApJ...988L..30D",
+    "first_author": "Dasgupta",
+    "year": 2025,
+    "journal": "ApJL 988, L30",
+    "title": "VLT/ERIS Observations of the V960 Mon System: A Dust-embedded Substellar Object Formed by Gravitational Instability?"
+   }
   }
  ],
  "notes": "FUor object in outburst since 2014, with a close (0.2 arcsec) stellar companion; SPHERE polarized-light imaging reveals huge spiral arms extending thousands of au (Zurlo et al. 2024). Detailed treatment, including evidence for planetary-mass clumps, presented in Weber et al. 2023b.",

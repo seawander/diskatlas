@@ -1,7 +1,10 @@
 {
  "id": "hd-53143",
  "name": "HD 53143",
- "alt_names": ["GJ 260", "HIP 33690"],
+ "alt_names": [
+  "GJ 260",
+  "HIP 33690"
+ ],
  "simbad": "HD 53143",
  "ra_deg": 104.9985627147717,
  "dec_deg": -61.3361812865461,
@@ -93,6 +96,26 @@
     "bibcode": null
    },
    "hires_url": "https://archive.stsci.edu/prepds/alice/"
+  },
+  {
+   "type": "disk_scattered",
+   "facility": "HST",
+   "instrument": "STIS",
+   "technique": "coronagraphy",
+   "wavelength_um": 0.58,
+   "wavelength_label": "0.58 um (STIS KLIP; NW/SE arcs)",
+   "image_id": "hd-53143_stis-stark2023",
+   "survey": null,
+   "file": "images/hd-53143/hd-53143_stis-stark2023.png",
+   "credit": "Stark et al. 2023, Fig. 2 (crop)",
+   "paper": {
+    "arxiv": "2304.07370",
+    "bibcode": "2023ApJ...945..131S",
+    "first_author": "Stark",
+    "year": 2023,
+    "journal": "ApJ 945, 131",
+    "title": "The Apparent Absence of Forward Scattering in the HD 53143 Debris Disk"
+   }
   }
  ],
  "notes": null,

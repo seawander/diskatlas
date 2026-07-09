@@ -1,7 +1,9 @@
 {
  "id": "hd-100453",
  "name": "HD 100453",
- "alt_names": ["HIP 56354"],
+ "alt_names": [
+  "HIP 56354"
+ ],
  "simbad": "HD 100453",
  "ra_deg": 173.27323603455,
  "dec_deg": -54.32459641686,
@@ -194,6 +196,106 @@
    },
    "file": "images/hd-100453/hd-100453_visir2021.png",
    "note": "HD 100453 resolved in both PAH1 and NEAR filters per the paper. Note: this system already got a new Magellan-MagAO planet-panel record (hd-100453_magao2022) from the GAPlanetS paper in this same batch -- both records target the same system_id but are distinct image_ids."
+  },
+  {
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS",
+   "technique": "RDI",
+   "wavelength_um": 2.11,
+   "wavelength_label": "K1 band 2.11 um (total intensity, RDI)",
+   "image_id": "hd-100453_sphere-k1-wagner2015",
+   "survey": null,
+   "file": "images/hd-100453/hd-100453_sphere-k1-wagner2015.png",
+   "credit": "Wagner et al. 2015, Fig. 1 (crop)",
+   "paper": {
+    "arxiv": "1510.02212",
+    "bibcode": "2015ApJ...813L...2W",
+    "first_author": "Wagner",
+    "year": 2015,
+    "journal": "ApJL 813, L2",
+    "title": "Discovery of a Two-armed Spiral Structure in the Gapped Disk around Herbig Ae Star HD 100453"
+   }
+  },
+  {
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS",
+   "technique": "RDI",
+   "wavelength_um": 2.25,
+   "wavelength_label": "K2 band 2.25 um (total intensity, RDI)",
+   "image_id": "hd-100453_sphere-k2-wagner2015",
+   "survey": null,
+   "file": "images/hd-100453/hd-100453_sphere-k2-wagner2015.png",
+   "credit": "Wagner et al. 2015, Fig. 1 (crop)",
+   "paper": {
+    "arxiv": "1510.02212",
+    "bibcode": "2015ApJ...813L...2W",
+    "first_author": "Wagner",
+    "year": 2015,
+    "journal": "ApJL 813, L2",
+    "title": "Discovery of a Two-armed Spiral Structure in the Gapped Disk around Herbig Ae Star HD 100453"
+   }
+  },
+  {
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "IFS",
+   "technique": "RDI",
+   "wavelength_um": 1.04,
+   "wavelength_label": "Y band 1.04 um (IFS, total intensity)",
+   "image_id": "hd-100453_ifs-y-wagner2015",
+   "survey": null,
+   "file": "images/hd-100453/hd-100453_ifs-y-wagner2015.png",
+   "credit": "Wagner et al. 2015, Fig. 2 (crop)",
+   "paper": {
+    "arxiv": "1510.02212",
+    "bibcode": "2015ApJ...813L...2W",
+    "first_author": "Wagner",
+    "year": 2015,
+    "journal": "ApJL 813, L2",
+    "title": "Discovery of a Two-armed Spiral Structure in the Gapped Disk around Herbig Ae Star HD 100453"
+   }
+  },
+  {
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "IFS",
+   "technique": "RDI",
+   "wavelength_um": 1.24,
+   "wavelength_label": "J band 1.24 um (IFS, total intensity)",
+   "image_id": "hd-100453_ifs-j-wagner2015",
+   "survey": null,
+   "file": "images/hd-100453/hd-100453_ifs-j-wagner2015.png",
+   "credit": "Wagner et al. 2015, Fig. 2 (crop)",
+   "paper": {
+    "arxiv": "1510.02212",
+    "bibcode": "2015ApJ...813L...2W",
+    "first_author": "Wagner",
+    "year": 2015,
+    "journal": "ApJL 813, L2",
+    "title": "Discovery of a Two-armed Spiral Structure in the Gapped Disk around Herbig Ae Star HD 100453"
+   }
+  },
+  {
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "IFS",
+   "technique": "RDI",
+   "wavelength_um": 1.56,
+   "wavelength_label": "H band 1.56 um (IFS, total intensity)",
+   "image_id": "hd-100453_ifs-h-wagner2015",
+   "survey": null,
+   "file": "images/hd-100453/hd-100453_ifs-h-wagner2015.png",
+   "credit": "Wagner et al. 2015, Fig. 2 (crop)",
+   "paper": {
+    "arxiv": "1510.02212",
+    "bibcode": "2015ApJ...813L...2W",
+    "first_author": "Wagner",
+    "year": 2015,
+    "journal": "ApJL 813, L2",
+    "title": "Discovery of a Two-armed Spiral Structure in the Gapped Disk around Herbig Ae Star HD 100453"
+   }
   }
  ],
  "notes": null,

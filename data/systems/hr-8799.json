@@ -497,6 +497,26 @@
     "bibcode": "2011A&A...528A.134B"
    },
    "file": "images/hr-8799/hr-8799_bergfors2011-naco.png"
+  },
+  {
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 7",
+   "technique": "interferometry",
+   "wavelength_um": 880,
+   "wavelength_label": "880 um continuum (Band 7, ACA+12m)",
+   "image_id": "hr-8799_alma-faramaz2021",
+   "survey": null,
+   "file": "images/hr-8799/hr-8799_alma-faramaz2021.png",
+   "credit": "Faramaz et al. 2021, Fig. 1 left (crop)",
+   "paper": {
+    "arxiv": "2104.02088",
+    "bibcode": "2021AJ....161..271F",
+    "first_author": "Faramaz",
+    "year": 2021,
+    "journal": "AJ 161, 271",
+    "title": "A Detailed Characterization of HR 8799's Debris Disk with ALMA in Band 7"
+   }
   }
  ],
  "notes": null,

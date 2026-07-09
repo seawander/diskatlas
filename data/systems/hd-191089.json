@@ -1,7 +1,9 @@
 {
  "id": "hd-191089",
  "name": "HD 191089",
- "alt_names": ["HIP 99273"],
+ "alt_names": [
+  "HIP 99273"
+ ],
  "simbad": "HD 191089",
  "ra_deg": 302.27173181612,
  "dec_deg": -26.22403337938,
@@ -173,6 +175,66 @@
     "bibcode": null
    },
    "file": "images/hd-191089/hd-191089_trecs2011.png"
+  },
+  {
+   "type": "disk_scattered",
+   "facility": "HST",
+   "instrument": "STIS",
+   "technique": "coronagraphy",
+   "wavelength_um": 0.58,
+   "wavelength_label": "0.58 um (STIS 50CCD, cRDI)",
+   "image_id": "hd-191089_stis-ren2019",
+   "survey": "Ren2019",
+   "file": "images/hd-191089/hd-191089_stis-ren2019.png",
+   "credit": "Ren et al. 2019, Fig. 1a (crop)",
+   "paper": {
+    "arxiv": "1908.00006",
+    "bibcode": "2019ApJ...882...64R",
+    "first_author": "Ren",
+    "year": 2019,
+    "journal": "ApJ 882, 64",
+    "title": "An Exo-Kuiper Belt with an Extended Halo around HD 191089 in Scattered Light"
+   }
+  },
+  {
+   "type": "disk_scattered",
+   "facility": "HST",
+   "instrument": "NICMOS",
+   "technique": "RDI",
+   "wavelength_um": 1.12,
+   "wavelength_label": "F110W 1.12 um (NICMOS NMF)",
+   "image_id": "hd-191089_nicmos-ren2019",
+   "survey": "Ren2019",
+   "file": "images/hd-191089/hd-191089_nicmos-ren2019.png",
+   "credit": "Ren et al. 2019, Fig. 1b (crop)",
+   "paper": {
+    "arxiv": "1908.00006",
+    "bibcode": "2019ApJ...882...64R",
+    "first_author": "Ren",
+    "year": 2019,
+    "journal": "ApJ 882, 64",
+    "title": "An Exo-Kuiper Belt with an Extended Halo around HD 191089 in Scattered Light"
+   }
+  },
+  {
+   "type": "disk_scattered",
+   "facility": "Gemini-GPI",
+   "instrument": "IFS pol",
+   "technique": "PDI",
+   "wavelength_um": 1.65,
+   "wavelength_label": "H band 1.65 um (Q_phi pol. intensity)",
+   "image_id": "hd-191089_gpi-ren2019",
+   "survey": "Ren2019",
+   "file": "images/hd-191089/hd-191089_gpi-ren2019.png",
+   "credit": "Ren et al. 2019, Fig. 1c (crop)",
+   "paper": {
+    "arxiv": "1908.00006",
+    "bibcode": "2019ApJ...882...64R",
+    "first_author": "Ren",
+    "year": 2019,
+    "journal": "ApJ 882, 64",
+    "title": "An Exo-Kuiper Belt with an Extended Halo around HD 191089 in Scattered Light"
+   }
   }
  ],
  "notes": null,
