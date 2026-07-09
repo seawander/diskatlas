@@ -313,6 +313,26 @@
     "bibcode": null
    },
    "file": "images/pds-70/pds-70_wfc3rdi.png"
+  },
+  {
+   "type": "planet",
+   "facility": "Magellan-MagAO",
+   "instrument": "VisAO",
+   "technique": "SDI",
+   "wavelength_um": 0.656,
+   "wavelength_label": "H-alpha 0.656 um (SDI+; accreting planet b)",
+   "image_id": "pds-70_magao-wagner2018",
+   "survey": null,
+   "file": "images/pds-70/pds-70_magao-wagner2018.png",
+   "credit": "Wagner et al. 2018, Fig. 1 left (crop)",
+   "paper": {
+    "arxiv": "1807.10766",
+    "bibcode": "2018ApJ...863L...8W",
+    "first_author": "Wagner",
+    "year": 2018,
+    "journal": "ApJL 863, L8",
+    "title": "Magellan Adaptive Optics Imaging of PDS 70: Measuring the Mass Accretion Rate of a Young Giant Planet within a Gapped Disk"
+   }
   }
  ],
  "notes": "Only system with two confirmed planets caught in formation inside the disk cavity.",
