@@ -2270,5 +2270,25 @@
   "status": "ingested",
   "reason": "Recent-disk discovery 2026-07-08",
   "date": "2026-07-08"
+ },
+ "2411.17057": {
+  "status": "ingested",
+  "reason": "Evolved/post-AGB disk discovery 2026-07-08",
+  "date": "2026-07-08"
+ },
+ "1612.05616": {
+  "status": "ingested",
+  "reason": "Evolved/post-AGB disk discovery 2026-07-08",
+  "date": "2026-07-08"
+ },
+ "2311.16734": {
+  "status": "ingested",
+  "reason": "Evolved/post-AGB disk discovery 2026-07-08",
+  "date": "2026-07-08"
+ },
+ "2605.13445": {
+  "status": "ingested",
+  "reason": "Evolved/post-AGB disk discovery 2026-07-08",
+  "date": "2026-07-08"
  }
 }
