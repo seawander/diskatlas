@@ -1,7 +1,7 @@
 /* UI translations for the atlas chrome. Scientific data (names, credits, notes,
    facilities, techniques) stays in its published form and is NOT translated.
    Placeholders {n} {r} {l} {d} {a} {lat} {lon} are filled at render time. */
-window.I18N_LANGS = [["en", "English"], ["zh", "中文"], ["fr", "Français"], ["es", "Español"], ["de", "Deutsch"], ["it", "Italiano"], ["ja", "日本語"], ["pt", "Português"], ["ru", "Русский"], ["ar", "العربية"]];
+window.I18N_LANGS = [["en", "English"], ["zh", "中文"], ["fr", "Français"], ["es", "Español"], ["de", "Deutsch"], ["it", "Italiano"], ["ja", "日本語"], ["pt", "Português"], ["ru", "Русский"], ["ko", "한국어"], ["hi", "हिन्दी"], ["ar", "العربية"]];
 /* right-to-left languages: applyStaticI18n() sets <html dir> accordingly */
 window.I18N_RTL = ["ar"];
 window.I18N = {
@@ -274,5 +274,59 @@ window.I18N = {
     d_pendingnote: "الصورة المصغّرة المحلية قيد الإعداد — backend/README.md يشرح كيفية إضافتها",
     d_nolinks: "لا روابط", d_image: "صورة", d_hires: "بيانات عالية الدقة", d_hirespdf: "PDF (أشكال عالية الدقة)",
     tag_imaged: "كواكب مصوَّرة", tag_transiting: "كواكب عابرة"
+  },
+  ko: {
+    title: "분해된 원반과 직접 촬영 행성",
+    search_ph: "별 검색… (예: HL Tau)",
+    word_systems: "천체계", word_records: "이미지 레코드", word_local: "로컬 이미지", word_built: "생성일",
+    tab_sky: "하늘", tab_matrix: "커버리지 행렬", tab_tonight: "오늘 밤",
+    cat_proto: "원시행성계", cat_debris: "잔해 원반", cat_planetonly: "행성만", cat_quasar: "퀘이사", cat_evolved: "진화된",
+    f_planethost: "촬영된 행성 있음", f_hasimg: "로컬 이미지 있음", f_constellations: "별자리",
+    facet_band: "파장대", facet_missing: "누락", facet_facility: "망원경", facet_instrument: "장비", facet_hint: "⇧-클릭 = 결합(AND)", facet_clear: "필터 지우기", lit_label: "논문:", d_updated: "항목 최종 업데이트:", lit_title: "문헌 탐색: 알려진 후보 논문 {k}건 중 {e}건 선별; {i}건 아틀라스에 수록",
+    band_opt: "가시광", band_nir: "근적외선", band_mir: "중적외선", band_mm: "밀리미터", band_planet: "행성",
+    miss_mm: "밀리미터", miss_nir: "산란광", miss_planet: "촬영된 행성",
+    leg_planetonly: "행성만", leg_quasar: "퀘이사 모천체", leg_imaged: "촬영된 행성",
+    leg_hint: "드래그=이동 · 휠=확대/축소 · 클릭=상세 · 더블클릭=확대",
+    mtx_hint: "{n}개 천체계 · 채워진 칸을 클릭하면 이미지가 열림 · 헤더 클릭으로 정렬 · 빈 칸은 관측 공백",
+    col_system: "천체계", col_type: "유형", col_region: "영역",
+    col_optical: "가시광", col_nir: "근적외선", col_mir: "중적외선", col_mm: "밀리미터", col_planet: "행성",
+    t_site: "관측지", t_night: "밤", t_minalt: "최저 고도", t_compute: "계산", t_csv: "CSV 내보내기",
+    t_lat: "위도", t_lon: "경도",
+    t_hint: "현지 자정에 {a}° 이상인 {n}개 천체계 · 관측지 {lat}°, {lon}° · 그 순간의 대기질량 · h = 자오선 통과로부터의 시간(− 지남, + 남음). 활성 필터를 반영.",
+    t_col_alt: "고도°", t_col_airmass: "대기질량", t_col_transalt: "남중 고도°", t_col_htransit: "h→남중", t_col_chart: "그래프", t_col_obs: "관측 가능성", t_col_ra: "적경", t_col_dec: "적위", t_airmass_view: "airmass.org 보기",
+    t_nothing: "내보낼 항목이 없습니다 — 먼저 계산하세요.",
+    d_companions: "동반 천체", d_simbadsrc: "(위치천문 및 측광 출처)",
+    d_noimg: "아직 이미지 레코드가 없습니다",
+    d_pending1: "이미지가 아직 로컬로 잘리지 않음", d_pending2: "게재된 그림은 아래 논문 링크 참조",
+    d_pendingnote: "로컬 썸네일 준비 중 — 추가 방법은 backend/README.md 참조",
+    d_nolinks: "링크 없음", d_image: "이미지", d_hires: "고해상도 데이터", d_hirespdf: "PDF (고해상도 그림)",
+    tag_imaged: "촬영된 행성", tag_transiting: "통과 행성"
+  },
+  hi: {
+    title: "विभेदित डिस्क और प्रत्यक्ष प्रतिबिंबित ग्रह",
+    search_ph: "तारा खोजें… (जैसे HL Tau)",
+    word_systems: "मंडल", word_records: "छवि अभिलेख", word_local: "स्थानीय छवियाँ", word_built: "निर्मित",
+    tab_sky: "आकाश", tab_matrix: "कवरेज मैट्रिक्स", tab_tonight: "आज रात",
+    cat_proto: "पूर्व-ग्रहीय", cat_debris: "मलबा", cat_planetonly: "केवल ग्रह", cat_quasar: "क्वासर", cat_evolved: "विकसित",
+    f_planethost: "प्रतिबिंबित ग्रह", f_hasimg: "स्थानीय छवि", f_constellations: "तारामंडल",
+    facet_band: "बैंड", facet_missing: "अनुपस्थित", facet_facility: "दूरबीन", facet_instrument: "उपकरण", facet_hint: "⇧-क्लिक = संयोजन (AND)", facet_clear: "फ़िल्टर हटाएँ", lit_label: "शोधपत्र:", d_updated: "प्रविष्टि अंतिम अद्यतन:", lit_title: "साहित्य अन्वेषण: {k} ज्ञात संभावित शोधपत्रों में से {e} की छँटाई; {i} एटलस में शामिल",
+    band_opt: "दृश्य", band_nir: "निकट-अवरक्त", band_mir: "मध्य-अवरक्त", band_mm: "मिमी", band_planet: "ग्रह",
+    miss_mm: "मिमी", miss_nir: "प्रकीर्ण प्रकाश", miss_planet: "प्रतिबिंबित ग्रह",
+    leg_planetonly: "केवल ग्रह", leg_quasar: "क्वासर परपोषी", leg_imaged: "प्रतिबिंबित ग्रह",
+    leg_hint: "खींचें = घुमाएँ · व्हील = ज़ूम · क्लिक = विवरण · डबल-क्लिक = ज़ूम इन",
+    mtx_hint: "{n} मंडल · छवि खोलने के लिए भरे सेल पर क्लिक करें · क्रमबद्ध करने हेतु शीर्षक पर क्लिक करें · खाली सेल = कवरेज अंतराल",
+    col_system: "मंडल", col_type: "प्रकार", col_region: "क्षेत्र",
+    col_optical: "दृश्य", col_nir: "निकट-अवरक्त", col_mir: "मध्य-अवरक्त", col_mm: "मिमी", col_planet: "ग्रह",
+    t_site: "स्थल", t_night: "रात", t_minalt: "न्यून. ऊँचाई", t_compute: "गणना करें", t_csv: "CSV निर्यात",
+    t_lat: "अक्षांश", t_lon: "देशांतर",
+    t_hint: "स्थानीय मध्यरात्रि पर {a}° से ऊपर {n} मंडल · स्थल {lat}°, {lon}° · उस क्षण वायुभार · h = मध्याह्न पारगमन से घंटे (− बीत गया, + शेष)। सक्रिय फ़िल्टर का पालन करता है।",
+    t_col_alt: "ऊँचाई°", t_col_airmass: "वायुभार", t_col_transalt: "पारगमन ऊँचाई°", t_col_htransit: "घं→पारगमन", t_col_chart: "ग्राफ़", t_col_obs: "अवलोकनीयता", t_col_ra: "विषुवांश", t_col_dec: "क्रांति", t_airmass_view: "airmass.org दृश्य",
+    t_nothing: "निर्यात के लिए कुछ नहीं — पहले गणना करें।",
+    d_companions: "सहचर", d_simbadsrc: "(खगोलमिति एवं प्रकाशमिति स्रोत)",
+    d_noimg: "अभी तक कोई छवि अभिलेख नहीं",
+    d_pending1: "छवि अभी स्थानीय रूप से क्रॉप नहीं हुई", d_pending2: "प्रकाशित चित्र हेतु नीचे शोधपत्र लिंक देखें",
+    d_pendingnote: "स्थानीय थंबनेल लंबित — जोड़ने की विधि backend/README.md में",
+    d_nolinks: "कोई लिंक नहीं", d_image: "छवि", d_hires: "उच्च-विभेदन डेटा", d_hirespdf: "PDF (उच्च-विभेदन चित्र)",
+    tag_imaged: "प्रतिबिंबित ग्रह", tag_transiting: "पारगमन ग्रह"
   }
 };
