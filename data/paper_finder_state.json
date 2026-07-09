@@ -2288,7 +2288,7 @@
  },
  "2605.13445": {
   "status": "ingested",
-  "reason": "Evolved/post-AGB disk discovery 2026-07-08",
+  "reason": "Evolved post-AGB disc 2026-07-08",
   "date": "2026-07-08"
  },
  "1511.04448": {
@@ -2299,6 +2299,16 @@
  "2602.19755": {
   "status": "ingested",
   "reason": "User-requested figure ingest 2026-07-08",
+  "date": "2026-07-08"
+ },
+ "2307.16598": {
+  "status": "ingested",
+  "reason": "Evolved post-AGB disc 2026-07-08",
+  "date": "2026-07-08"
+ },
+ "1902.02153": {
+  "status": "ingested",
+  "reason": "Evolved post-AGB disc 2026-07-08",
   "date": "2026-07-08"
  }
 }
