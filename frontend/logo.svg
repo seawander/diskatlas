@@ -2,26 +2,20 @@
   <title>diskatlas: all-sky map of disk systems</title>
   <rect x="8" y="8" width="240" height="240" rx="56" fill="#101a33"/>
   <g transform="translate(128 128)">
-    <ellipse rx="100" ry="50" fill="#182648" stroke="#56658c" stroke-width="2"/>
-    <g fill="none" stroke="#3d5080" stroke-width="1.8" opacity=".85">
-      <ellipse rx="66" ry="50"/>
-      <ellipse rx="33" ry="50"/>
-      <line x1="0" y1="-50" x2="0" y2="50"/>
-      <line x1="-100" y1="0" x2="100" y2="0"/>
-      <line x1="-86.6" y1="-25" x2="86.6" y2="-25"/>
-      <line x1="-86.6" y1="25" x2="86.6" y2="25"/>
+    <ellipse rx="102" ry="55" fill="#1c2d56" stroke="#8aa0d8" stroke-width="6.5"/>
+    <g fill="none" stroke="#5670ab" stroke-width="4.5">
+      <ellipse rx="48" ry="55"/>
+      <line x1="-102" y1="0" x2="102" y2="0"/>
     </g>
     <g fill="#fbbf24">
-      <circle cx="-62" cy="-14" r="3.5"/><circle cx="-28" cy="24" r="3"/>
-      <circle cx="10" cy="-32" r="3"/><circle cx="58" cy="14" r="3.5"/>
-      <circle cx="80" cy="-14" r="2.5"/><circle cx="-84" cy="6" r="2.5"/>
-      <circle cx="34" cy="38" r="2.5"/><circle cx="-8" cy="-6" r="2"/>
+      <circle cx="-60" cy="-20" r="7"/><circle cx="-28" cy="26" r="5.5"/>
+      <circle cx="74" cy="-18" r="5.5"/><circle cx="44" cy="32" r="5"/>
     </g>
-    <g transform="translate(32 -12) rotate(-20)" fill="none">
-      <ellipse rx="15" ry="6" stroke="#f59e0b" stroke-width="3.5"/>
+    <g transform="translate(26 -10) rotate(-18)" fill="none">
+      <ellipse rx="30" ry="12.5" stroke="#f59e0b" stroke-width="8.5"/>
     </g>
-    <circle cx="32" cy="-12" r="2.5" fill="#fff8ea"/>
-    <circle cx="-46" cy="-28" r="7" fill="none" stroke="#4cc9f0" stroke-width="2" opacity=".5"/>
-    <circle cx="-46" cy="-28" r="4" fill="#4cc9f0"/>
+    <circle cx="26" cy="-10" r="5.5" fill="#fff8ea"/>
+    <circle cx="-40" cy="-34" r="13" fill="none" stroke="#4cc9f0" stroke-width="3" opacity=".55"/>
+    <circle cx="-40" cy="-34" r="7.5" fill="#4cc9f0"/>
   </g>
 </svg>
