@@ -9,6 +9,8 @@ across instruments, wavelengths and epochs, with clickable arXiv / SciX citation
 
 **双击根目录的 `index.html` 即可离线使用。**  Double-click `index.html` — no server, no internet needed.
 
+Contributions are welcome — human or AI-agent-driven. See **[Contributing](#contributing--欢迎共建)** below.
+
 ---
 
 ## Folder layout / 目录结构
@@ -26,6 +28,53 @@ Every folder has its own `README.md` with update instructions for humans **and**
 **Resuming in a new AI session?** Read `HANDOFF.md` (full project design, environment
 quirks, lessons learned, pending work) and use the ready-made prompts in
 `CONTINUATION_PROMPTS.md`.
+
+## Contributing / 欢迎共建
+
+Contributions are very welcome: new systems, missing instruments/epochs for existing
+systems, coordinate or citation fixes, new UI languages, frontend improvements. Open a
+pull request. Two hard rules for any PR:
+
+1. `python3 backend/validate.py` must report **0 errors**.
+2. Never hand-edit `frontend/data.js` — it is generated; run `python3 backend/build.py`.
+
+### Contributing with your own AI agent / 用你自己的 AI 智能体继续建设
+
+Most of this atlas was built by AI agents (Claude Code) supervised by an astronomer, and
+the repo is designed so anyone can continue it the same way. After cloning, paste this
+into your agent (Claude Code, or any coding agent that can run Python and view images):
+
+```text
+You are working in a clone of "diskatlas" — a mature, offline, double-click-index.html
+all-sky atlas of resolved circumstellar disks (protoplanetary, debris, edge-on, embedded,
+eruptive, proplyds, far-IR-resolved), directly imaged planets/BD companions, and
+coronagraphic quasar hosts. `python3 backend/build.py` prints the live statistics.
+
+FIRST, orient yourself:
+1. Read HANDOFF.md completely (architecture, parallel-agent ingestion method, crop
+   discipline, the THREE bookkeeping ledgers, data conventions), then skim README.md,
+   data/README.md, and data/ingestion_status.json.
+2. Run `python3 backend/validate.py && python3 backend/build.py`; confirm 0 errors.
+
+STANDING RULES: verify every paper's arXiv id + figure FROM THE SOURCE, never from
+memory; never use press-release images — every image is cropped from a peer-reviewed
+figure, PANEL-ONLY (axes/margins trimmed), and you must VIEW every crop before and after
+saving; keep validate.py at 0 errors; never hand-edit frontend/data.js; update
+data/ingestion_status.json (batch ledger) and data/paper_finder_state.json (per-paper
+dispositions) after any change.
+
+MY TASK: <paste arXiv links / bibcodes to ingest, or "run the paper finder" (use the
+Skill in .claude/skills/diskatlas-paper-finder/), or "run a comprehensiveness sweep",
+or a frontend request — or leave blank for a status report>
+```
+
+The long-form version of this prompt (with per-task playbooks) is in
+`CONTINUATION_PROMPTS.md`; the complete agent handbook is `HANDOFF.md`. The
+literature-crawling Skill ships with the repo in `.claude/skills/diskatlas-paper-finder/`
+(also packaged as `diskatlas-paper-finder.skill`), so "find new papers for the atlas" works
+out of the box in Claude Code. When contributing images, respect the licensing note below:
+crops are panel-only excerpts of published figures with a mandatory `credit` line and
+citation links in the record.
 
 ## Quickstart: rebuild after any data change / 改动数据后重建
 
