@@ -1,7 +1,9 @@
 {
  "id": "hd-95086",
  "name": "HD 95086",
- "alt_names": ["HIP 53524"],
+ "alt_names": [
+  "HIP 53524"
+ ],
  "simbad": "HD 95086",
  "ra_deg": 164.26258988328,
  "dec_deg": -68.66734700448,
@@ -145,16 +147,36 @@
    }
   },
   {
-   "image_id": "hd-95086_gpi2014",
+   "image_id": "hd-95086_gpi-hband2014",
    "type": "planet",
    "facility": "Gemini-GPI",
    "instrument": "GPI",
    "wavelength_um": 1.7,
-   "wavelength_label": "H + K1 band (1.7 / 2.05 um)",
+   "wavelength_label": "H band (1.7 um)",
    "technique": "high-contrast coronagraphic IFS ADI/SDI",
    "survey": null,
-   "file": "images/hd-95086/hd-95086_gpi2014.png",
-   "credit": "Galicher et al. 2014, Fig. 1 (crop)",
+   "file": "images/hd-95086/hd-95086_gpi-hband2014.png",
+   "credit": "Galicher et al. 2014, Fig. 1 (crop: H band)",
+   "paper": {
+    "first_author": "Galicher",
+    "year": 2014,
+    "title": "Near-Infrared Detection and Characterization of the Exoplanet HD 95086 b with the Gemini Planet Imager",
+    "journal": "Astronomy & Astrophysics (Letters)",
+    "arxiv": "1404.4635",
+    "bibcode": "2014A&A...565L...4G"
+   }
+  },
+  {
+   "image_id": "hd-95086_gpi-k1band2014",
+   "type": "planet",
+   "facility": "Gemini-GPI",
+   "instrument": "GPI",
+   "wavelength_um": 2.05,
+   "wavelength_label": "K1 band (2.05 um)",
+   "technique": "high-contrast coronagraphic IFS ADI/SDI",
+   "survey": null,
+   "file": "images/hd-95086/hd-95086_gpi-k1band2014.png",
+   "credit": "Galicher et al. 2014, Fig. 1 (crop: K1 band)",
    "paper": {
     "first_author": "Galicher",
     "year": 2014,
@@ -206,7 +228,7 @@
   }
  ],
  "notes": "Debris + imaged planet b (Rameau+2013).",
- "last_updated": "2026-07-07",
+ "last_updated": "2026-07-08",
  "plx_mas": 11.5659,
  "mags": {
   "B": 7.6,

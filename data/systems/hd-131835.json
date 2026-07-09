@@ -1,7 +1,9 @@
 {
  "id": "hd-131835",
  "name": "HD 131835",
- "alt_names": ["HIP 73145"],
+ "alt_names": [
+  "HIP 73145"
+ ],
  "simbad": "HD 131835",
  "ra_deg": 224.22694902583,
  "dec_deg": -35.69546078144,
@@ -154,16 +156,36 @@
    }
   },
   {
-   "image_id": "hd-131835_trecs2015",
+   "image_id": "hd-131835_trecs-11.7um2015",
+   "type": "disk_mm",
+   "facility": "Gemini-South",
+   "instrument": "T-ReCS",
+   "wavelength_um": 11.7,
+   "wavelength_label": "11.7 um (mid-IR thermal, PSF-subtracted, T-ReCS)",
+   "technique": "mid-IR thermal imaging (Gemini South/T-ReCS)",
+   "survey": null,
+   "file": "images/hd-131835/hd-131835_trecs-11.7um2015.png",
+   "credit": "Hung et al. 2015, Fig. 1e (crop: 11.7 um)",
+   "paper": {
+    "first_author": "Hung",
+    "year": 2015,
+    "title": "Discovery of Resolved Debris Disk Around HD 131835",
+    "journal": "ApJ",
+    "arxiv": "1502.02035",
+    "bibcode": "2015ApJ...802..138H"
+   }
+  },
+  {
+   "image_id": "hd-131835_trecs-18.3um2015",
    "type": "disk_mm",
    "facility": "Gemini-South",
    "instrument": "T-ReCS",
    "wavelength_um": 18.3,
-   "wavelength_label": "18.3 um (mid-IR thermal, also 11.7 um)",
+   "wavelength_label": "18.3 um (mid-IR thermal, PSF-subtracted, T-ReCS)",
    "technique": "mid-IR thermal imaging (Gemini South/T-ReCS)",
    "survey": null,
-   "file": "images/hd-131835/hd-131835_trecs2015.png",
-   "credit": "Hung et al. 2015, Fig. 1 (crop)",
+   "file": "images/hd-131835/hd-131835_trecs-18.3um2015.png",
+   "credit": "Hung et al. 2015, Fig. 1f (crop: 18.3 um)",
    "paper": {
     "first_author": "Hung",
     "year": 2015,
@@ -195,7 +217,7 @@
   }
  ],
  "notes": null,
- "last_updated": "2026-07-07",
+ "last_updated": "2026-07-08",
  "plx_mas": 7.7078,
  "mags": {
   "B": 8.05,
