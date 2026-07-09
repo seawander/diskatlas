@@ -1,7 +1,11 @@
 {
  "id": "af-lep",
  "name": "AF Lep",
- "alt_names": ["HD 35850", "HIP 25486", "HR 1817"],
+ "alt_names": [
+  "HD 35850",
+  "HIP 25486",
+  "HR 1817"
+ ],
  "simbad": "AF Lep",
  "ra_deg": 81.76984720067,
  "dec_deg": -11.9009627784,
@@ -151,12 +155,12 @@
    "wavelength_label": "L' band; 2011 archival data, planet recovered with 4S ML post-processing (pre-discovery epoch)",
    "technique": "ADI",
    "survey": null,
-   "credit": "Bonse et al. 2024, Fig. 10 (crop: right panel, 4S residual of the 2011 NACO L' data; b recovered at S/N=6.8, circles mark the 2021/2023 Keck positions)",
+   "credit": "Bonse et al. 2025, Fig. 10 (crop: right panel, 4S residual of the 2011 NACO L' data; b recovered at S/N=6.8, circles mark the 2021/2023 Keck positions)",
    "paper": {
     "first_author": "Bonse",
-    "year": 2024,
+    "year": 2025,
     "title": "Use the 4S (Signal-Safe Speckle Subtraction): Explainable Machine Learning reveals the Giant Exoplanet AF Lep b in High-Contrast Imaging Data from 2011",
-    "journal": "AJ (2024)",
+    "journal": "AJ (2025)",
     "arxiv": "2406.01809",
     "bibcode": null
    },
