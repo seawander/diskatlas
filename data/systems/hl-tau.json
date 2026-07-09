@@ -74,24 +74,84 @@
    }
   },
   {
-   "image_id": "hl-tau_nircam2024",
+   "image_id": "hl-tau_nircam2024-f187n",
    "type": "disk_scattered",
    "facility": "JWST",
    "instrument": "NIRCam",
-   "wavelength_um": 2.5,
-   "wavelength_label": "1.87-4.1 micron (narrow/medium bands)",
+   "wavelength_um": 1.87,
+   "wavelength_label": "F187N 1.87 um (narrow); envelope structure",
    "technique": "RDI",
    "survey": null,
-   "credit": "Mullin et al. 2024, Fig. 2 (crop)",
+   "credit": "Mullin et al. 2024, Fig. 2 (crop: F187N)",
    "paper": {
     "first_author": "Mullin",
     "year": 2024,
     "title": "JWST/NIRCam Imaging of Young Stellar Objects III: Detailed Imaging of the Nebular Environment Around the HL Tau Disk",
-    "journal": "AJ",
+    "journal": "AJ 167, 183",
     "arxiv": "2403.00908",
-    "bibcode": null
+    "bibcode": "2024AJ....167..183M"
    },
-   "file": "images/hl-tau/hl-tau_nircam2024.png"
+   "file": "images/hl-tau/hl-tau_nircam2024-f187n.png"
+  },
+  {
+   "image_id": "hl-tau_nircam2024-f200w",
+   "type": "disk_scattered",
+   "facility": "JWST",
+   "instrument": "NIRCam",
+   "wavelength_um": 2.0,
+   "wavelength_label": "F200W 2.0 um (wide); envelope structure",
+   "technique": "RDI",
+   "survey": null,
+   "credit": "Mullin et al. 2024, Fig. 2 (crop: F200W)",
+   "paper": {
+    "first_author": "Mullin",
+    "year": 2024,
+    "title": "JWST/NIRCam Imaging of Young Stellar Objects III: Detailed Imaging of the Nebular Environment Around the HL Tau Disk",
+    "journal": "AJ 167, 183",
+    "arxiv": "2403.00908",
+    "bibcode": "2024AJ....167..183M"
+   },
+   "file": "images/hl-tau/hl-tau_nircam2024-f200w.png"
+  },
+  {
+   "image_id": "hl-tau_nircam2024-f405n",
+   "type": "disk_scattered",
+   "facility": "JWST",
+   "instrument": "NIRCam",
+   "wavelength_um": 4.05,
+   "wavelength_label": "F405N 4.05 um (narrow); envelope structure",
+   "technique": "RDI",
+   "survey": null,
+   "credit": "Mullin et al. 2024, Fig. 2 (crop: F405N)",
+   "paper": {
+    "first_author": "Mullin",
+    "year": 2024,
+    "title": "JWST/NIRCam Imaging of Young Stellar Objects III: Detailed Imaging of the Nebular Environment Around the HL Tau Disk",
+    "journal": "AJ 167, 183",
+    "arxiv": "2403.00908",
+    "bibcode": "2024AJ....167..183M"
+   },
+   "file": "images/hl-tau/hl-tau_nircam2024-f405n.png"
+  },
+  {
+   "image_id": "hl-tau_nircam2024-f410m",
+   "type": "disk_scattered",
+   "facility": "JWST",
+   "instrument": "NIRCam",
+   "wavelength_um": 4.1,
+   "wavelength_label": "F410M 4.1 um (medium); envelope + background-star mask",
+   "technique": "RDI",
+   "survey": null,
+   "credit": "Mullin et al. 2024, Fig. 2 (crop: F410M)",
+   "paper": {
+    "first_author": "Mullin",
+    "year": 2024,
+    "title": "JWST/NIRCam Imaging of Young Stellar Objects III: Detailed Imaging of the Nebular Environment Around the HL Tau Disk",
+    "journal": "AJ 167, 183",
+    "arxiv": "2403.00908",
+    "bibcode": "2024AJ....167..183M"
+   },
+   "file": "images/hl-tau/hl-tau_nircam2024-f410m.png"
   },
   {
    "image_id": "hl-tau_vla2016",
@@ -115,7 +175,7 @@
   }
  ],
  "notes": "The first iconic ALMA ring system.",
- "last_updated": "2026-07-07",
+ "last_updated": "2026-07-08",
  "mags": {
   "B": 15.89,
   "V": 14.49,
