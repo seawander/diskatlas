@@ -96,11 +96,12 @@ function sysColorKey(s) {
   if (c.includes("quasar")) return "quasar";
   if (c.includes("protoplanetary")) return "proto";
   if (c.includes("debris")) return "debris";
+  if (c.includes("evolved")) return "evolved";
   return "planetonly";
 }
-/* distinct SHAPE per category (colorblind + B/W-print friendly): circle/triangle/diamond/square */
-const SYS_SHAPE = { proto: "circle", debris: "triangle", planetonly: "diamond", quasar: "square" };
-const SYS_GLYPH = { proto: "●", debris: "▲", planetonly: "◆", quasar: "■" };
+/* distinct SHAPE per category (colorblind + B/W-print friendly): circle/triangle/diamond/square/hexagon */
+const SYS_SHAPE = { proto: "circle", debris: "triangle", planetonly: "diamond", quasar: "square", evolved: "hexagon" };
+const SYS_GLYPH = { proto: "●", debris: "▲", planetonly: "◆", quasar: "■", evolved: "⬢" };
 function sysShape(key) { return SYS_SHAPE[key] || "circle"; }
 function sysGlyph(key) { return SYS_GLYPH[key] || "●"; }
 /* wavelength bands (ordered): a record falls in the first band it is < max of */
@@ -137,6 +138,7 @@ function filterSystems(systems, f, q) {
     if (key === "debris" && !f.debris) return false;
     if (key === "planetonly" && !f.planetonly) return false;
     if (key === "quasar" && f.quasar === false) return false;
+    if (key === "evolved" && f.evolved === false) return false;
     if (f.planethost && !sysHasImagedPlanet(s)) return false;
     if (f.hasimg && !sysHasImage(s)) return false;
     if (facSet) {
@@ -147,8 +149,12 @@ function filterSystems(systems, f, q) {
       if (!hit) return false;
     }
     if (instSet) {
-      const is = new Set((s.images || []).map(i => i.instr_key).filter(Boolean));
-      if (![...instSet].every(x => is.has(x))) return false;
+      const is = [...new Set((s.images || []).map(i => i.instr_key).filter(Boolean))];
+      /* a selected PARENT instrument (no "/") also matches its sub-instruments, e.g.
+         "SPHERE" matches SPHERE + SPHERE/IRDIS + SPHERE/ZIMPOL + SPHERE/IFS; a specific
+         "SPHERE/IRDIS" matches only itself (parent ⊇ children, one-directional) */
+      const instrHit = x => is.some(k => k === x || (!x.includes("/") && k.startsWith(x + "/")));
+      if (![...instSet].every(instrHit)) return false;
     }
     if (bandSet) {
       const bs = new Set((s.images || []).map(imgCol));
@@ -203,7 +209,7 @@ if (typeof window !== "undefined") (function () {
     else if (currentView === "tonight") computeTonight();
     if (currentSys) openDetail(currentSys);
   }
-  const CAT_KEY = { protoplanetary: "cat_proto", debris: "cat_debris", quasar: "cat_quasar" };
+  const CAT_KEY = { protoplanetary: "cat_proto", debris: "cat_debris", quasar: "cat_quasar", evolved: "cat_evolved" };
   function catLabel(c) { return t(CAT_KEY[c] || c); }
 
   const canvas = document.getElementById("sky");
@@ -220,6 +226,7 @@ if (typeof window !== "undefined") (function () {
     COL.debris = CSS.getPropertyValue("--debris").trim() || "#ffb454";
     COL.planetonly = CSS.getPropertyValue("--planetonly").trim() || "#c792ea";
     COL.quasar = CSS.getPropertyValue("--quasar").trim() || "#ff5c8a";
+    COL.evolved = CSS.getPropertyValue("--evolved").trim() || "#e6be2e";
     COL.ink = CSS.getPropertyValue("--ink").trim() || "#e8ecf8";
     COL.dim = CSS.getPropertyValue("--dim").trim() || "#9aa7c7";
     COL.line = CSS.getPropertyValue("--line").trim() || "#2a3560";
@@ -229,7 +236,7 @@ if (typeof window !== "undefined") (function () {
   let W = 0, H = 0, DPR = 1;
   const view = { ra0: 90, dec0: 5, ppd: 3, topInset: 0 };   // start loosely on Taurus/Ori side
   let minPPD = 1;
-  const filters = { proto: true, debris: true, planetonly: true, quasar: true,
+  const filters = { proto: true, debris: true, planetonly: true, quasar: true, evolved: true,
     planethost: false, hasimg: false, constellations: true,
     facilities: new Set(), instruments: new Set(), bands: new Set(), missing: new Set() };
   let visible = new Set(SYS.map(s => s.id));
@@ -359,6 +366,7 @@ if (typeof window !== "undefined") (function () {
     if (sh === "square") { const a = r * 0.92; ctx.rect(x - a, y - a, 2 * a, 2 * a); }
     else if (sh === "diamond") { const a = r * 1.28; ctx.moveTo(x, y - a); ctx.lineTo(x + a, y); ctx.lineTo(x, y + a); ctx.lineTo(x - a, y); ctx.closePath(); }
     else if (sh === "triangle") { const a = r * 1.32; ctx.moveTo(x, y - a); ctx.lineTo(x + a * 0.87, y + a * 0.6); ctx.lineTo(x - a * 0.87, y + a * 0.6); ctx.closePath(); }
+    else if (sh === "hexagon") { const a = r * 1.16; for (let i = 0; i < 6; i++) { const ang = -Math.PI / 2 + i * Math.PI / 3; const px = x + a * Math.cos(ang), py = y + a * Math.sin(ang); i === 0 ? ctx.moveTo(px, py) : ctx.lineTo(px, py); } ctx.closePath(); }
     else { ctx.arc(x, y, r, 0, 7); }
   }
   /* 5-pointed star path (for imaged-planet hosts) */
@@ -505,6 +513,7 @@ if (typeof window !== "undefined") (function () {
     ["debris", "cat_debris", "debris"],
     ["planetonly", "cat_planetonly", "planet"],
     ["quasar", "cat_quasar", "quasar"],
+    ["evolved", "cat_evolved", "evolved"],
     ["planethost", "f_planethost", ""],
     ["hasimg", "f_hasimg", ""],
     ["constellations", "f_constellations", ""]
@@ -573,7 +582,7 @@ if (typeof window !== "undefined") (function () {
     const bits = [];
     for (const c of (s.categories || []))
       bits.push('<span class="tag ' + (c === "protoplanetary" ? "proto" :
-        c === "quasar" ? "quasar" : "debris") + '">' + esc(catLabel(c)) + "</span>");
+        c === "quasar" ? "quasar" : c === "evolved" ? "evolved" : "debris") + '">' + esc(catLabel(c)) + "</span>");
     const nImgP = activePlanets(s).filter(p => planetMethod(p) !== "transit").length;
     const nTraP = activePlanets(s).length - nImgP;
     if (nImgP) bits.push('<span class="tag pl">' + nImgP + " " + esc(t("tag_imaged")) + "</span>");
@@ -767,7 +776,12 @@ if (typeof window !== "undefined") (function () {
       (FAC2INSTR[f] || []).forEach(i => relInstr.add(i));
       if (f === "VLT") (FAC2INSTR["VLTI"] || []).forEach(i => relInstr.add(i));
     }
-    for (const i of filters.instruments) (INSTR2FAC[i] || []).forEach(f => relFac.add(f));
+    for (const i of filters.instruments) {
+      (INSTR2FAC[i] || []).forEach(f => relFac.add(f));
+      /* a selected PARENT instrument (e.g. "SPHERE") relates to its sub-instruments'
+         facilities too, so it highlights VLT via SPHERE/IRDIS etc. */
+      if (!i.includes("/")) ALL_INSTR.forEach(k => { if (k.startsWith(i + "/")) (INSTR2FAC[k] || []).forEach(f => relFac.add(f)); });
+    }
     facetsBar.querySelectorAll('.chip[data-group="facet_instrument"]').forEach(c =>
       c.classList.toggle("rel", relInstr.has(c.dataset.val) && !c.classList.contains("on")));
     facetsBar.querySelectorAll('.chip[data-group="facet_facility"]').forEach(c =>
@@ -814,7 +828,7 @@ if (typeof window !== "undefined") (function () {
     langSel.onchange = () => setLang(langSel.value);
   }
   /* legend (built here so it carries symbols + translatable labels) */
-  const legendKeys = [["proto", "cat_proto"], ["debris", "cat_debris"], ["planetonly", "leg_planetonly"], ["quasar", "leg_quasar"]];
+  const legendKeys = [["proto", "cat_proto"], ["debris", "cat_debris"], ["evolved", "cat_evolved"], ["planetonly", "leg_planetonly"], ["quasar", "leg_quasar"]];
   if (legendEl) {
     let lh = "";
     for (const [k, key] of legendKeys)
@@ -861,7 +875,7 @@ if (typeof window !== "undefined") (function () {
   });
 
   /* ---------- shared: category down-selection chips (matrix + tonight) ---------- */
-  const CAT_DEFS = [["proto", "cat_proto"], ["debris", "cat_debris"],
+  const CAT_DEFS = [["proto", "cat_proto"], ["debris", "cat_debris"], ["evolved", "cat_evolved"],
                     ["planetonly", "cat_planetonly"], ["quasar", "cat_quasar"]];
   function catChipsHTML() {
     return '<span class="catsel">' + CAT_DEFS.map(([k, ik]) =>

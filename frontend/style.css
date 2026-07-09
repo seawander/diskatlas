@@ -9,6 +9,7 @@
   --debris: #ffb454;
   --planetonly: #c792ea;
   --quasar: #ff5c8a;
+  --evolved: #e6be2e;
   --accent: #6ea8ff;
   --err: #ff6b81;
   --sky: #070b18;
@@ -29,6 +30,7 @@ body.light {
   --debris: #c07514;
   --planetonly: #8a4fc8;
   --quasar: #d63b6e;
+  --evolved: #a8801a;
   --accent: #2f6fd6;
   --err: #d64550;
   --sky: #e8ecf5;
@@ -56,6 +58,7 @@ html, body { margin: 0; height: 100%; background: var(--bg); color: var(--ink);
 .chip.on { color: var(--ink); border-color: var(--accent); background: var(--panel2); }
 .chip.proto.on { border-color: var(--proto); }
 .chip.debris.on { border-color: var(--debris); }
+.chip.evolved.on { border-color: var(--evolved); }
 .chip.planet.on { border-color: var(--planetonly); }
 
 main { position: fixed; inset: 0; }
@@ -87,6 +90,7 @@ main { position: fixed; inset: 0; }
 .dot.debris { background: var(--debris); }
 .dot.planetonly { background: var(--planetonly); }
 .dot.quasar { background: var(--quasar); }
+.dot.evolved { background: var(--evolved); }
 .chip.quasar.on { border-color: var(--quasar); }
 #d_sub .tag.quasar { border-color: var(--quasar); color: var(--quasar); }
 .dot.ringed { background: transparent; border: 2px solid var(--ink); width: 8px; height: 8px; }
@@ -104,6 +108,7 @@ main { position: fixed; inset: 0; }
   padding: 1px 7px; margin: 2px 4px 2px 0; font-size: 11px; color: var(--ink); }
 #d_sub .tag.proto { border-color: var(--proto); color: var(--proto); }
 #d_sub .tag.debris { border-color: var(--debris); color: var(--debris); }
+#d_sub .tag.evolved { border-color: var(--evolved); color: var(--evolved); }
 #d_sub .tag.pl { border-color: var(--planetonly); color: var(--planetonly); }
 #d_sub a.simlink { color: var(--accent); text-decoration: none; font-weight: 600; }
 #d_sub a.simlink:hover { text-decoration: underline; }
@@ -175,6 +180,8 @@ main { position: fixed; inset: 0; }
 .mk.planetonly { width: 9px; height: 9px; background: var(--planetonly); transform: rotate(45deg); }
 .mk.debris { width: 0; height: 0; background: none; border-left: 6px solid transparent;
   border-right: 6px solid transparent; border-bottom: 11px solid var(--debris); margin-top: 1px; }
+.mk.evolved { width: 11px; height: 11px; background: var(--evolved);
+  clip-path: polygon(25% 4%, 75% 4%, 100% 50%, 75% 96%, 25% 96%, 0% 50%); }
 .mk.ring { width: 9px; height: 9px; border-radius: 50%; background: transparent; border: 2px solid var(--ink); }
 .mk-star { color: var(--ink); margin-right: 6px; font-size: 14px; line-height: 1; vertical-align: -1px; }
 #legend span { display: inline-flex; align-items: center; }
