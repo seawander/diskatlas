@@ -1,0 +1,6311 @@
+{
+ "cross_system": [
+  {
+   "dist": 0,
+   "a": {
+    "system": "2mass-j16124373-3815031",
+    "image_id": "2mass-j16124373-3815031_agepro",
+    "file": "images/2mass-j16124373-3815031/2mass-j16124373-3815031_agepro.png"
+   },
+   "b": {
+    "system": "sz-131",
+    "image_id": "sz-131_agepro",
+    "file": "images/sz-131/sz-131_agepro.png"
+   }
+  },
+  {
+   "dist": 0,
+   "a": {
+    "system": "af-lep",
+    "image_id": "af-lep_sphere2023-derosa",
+    "file": "images/af-lep/af-lep_sphere2023-derosa.png"
+   },
+   "b": {
+    "system": "hd-206893",
+    "image_id": "hd-206893_gpi2016",
+    "file": "images/hd-206893/hd-206893_gpi2016.png"
+   }
+  },
+  {
+   "dist": 0,
+   "a": {
+    "system": "af-lep",
+    "image_id": "af-lep_gravity2024",
+    "file": "images/af-lep/af-lep_gravity2024.png"
+   },
+   "b": {
+    "system": "hd-100546",
+    "image_id": "hd-100546_atca2015",
+    "file": "images/hd-100546/hd-100546_atca2015.png"
+   }
+  },
+  {
+   "dist": 0,
+   "a": {
+    "system": "af-lep",
+    "image_id": "af-lep_gravity2024",
+    "file": "images/af-lep/af-lep_gravity2024.png"
+   },
+   "b": {
+    "system": "hd-141569",
+    "image_id": "hd-141569_gemini-lights",
+    "file": "images/hd-141569/hd-141569_gemini-lights.png"
+   }
+  },
+  {
+   "dist": 0,
+   "a": {
+    "system": "af-lep",
+    "image_id": "af-lep_gravity2024",
+    "file": "images/af-lep/af-lep_gravity2024.png"
+   },
+   "b": {
+    "system": "hd-142666",
+    "image_id": "hd-142666_gemini-lights",
+    "file": "images/hd-142666/hd-142666_gemini-lights.png"
+   }
+  },
+  {
+   "dist": 0,
+   "a": {
+    "system": "af-lep",
+    "image_id": "af-lep_gravity2024",
+    "file": "images/af-lep/af-lep_gravity2024.png"
+   },
+   "b": {
+    "system": "iras-04158-2805",
+    "image_id": "iras-04158-2805_edgeon-alma2020-b4",
+    "file": "images/iras-04158-2805/iras-04158-2805_edgeon-alma2020-b4.png"
+   }
+  },
+  {
+   "dist": 0,
+   "a": {
+    "system": "af-lep",
+    "image_id": "af-lep_gravity2024",
+    "file": "images/af-lep/af-lep_gravity2024.png"
+   },
+   "b": {
+    "system": "pg-1116-215",
+    "image_id": "pg-1116-215_bahcall1994",
+    "file": "images/pg-1116-215/pg-1116-215_bahcall1994.png"
+   }
+  },
+  {
+   "dist": 0,
+   "a": {
+    "system": "af-lep",
+    "image_id": "af-lep_gravity2024",
+    "file": "images/af-lep/af-lep_gravity2024.png"
+   },
+   "b": {
+    "system": "svs13a",
+    "image_id": "svs13a_alma2025",
+    "file": "images/svs13a/svs13a_alma2025.png"
+   }
+  },
+  {
+   "dist": 0,
+   "a": {
+    "system": "af-lep",
+    "image_id": "af-lep_gravity2024",
+    "file": "images/af-lep/af-lep_gravity2024.png"
+   },
+   "b": {
+    "system": "tw-hya",
+    "image_id": "tw-hya_eris2025",
+    "file": "images/tw-hya/tw-hya_eris2025.png"
+   }
+  },
+  {
+   "dist": 0,
+   "a": {
+    "system": "dh-tau",
+    "image_id": "dh-tau_taurus-long2019",
+    "file": "images/dh-tau/dh-tau_taurus-long2019.png"
+   },
+   "b": {
+    "system": "dk-tau",
+    "image_id": "dk-tau_taurus-long2019",
+    "file": "images/dk-tau/dk-tau_taurus-long2019.png"
+   }
+  },
+  {
+   "dist": 0,
+   "a": {
+    "system": "dh-tau",
+    "image_id": "dh-tau_taurus-long2019",
+    "file": "images/dh-tau/dh-tau_taurus-long2019.png"
+   },
+   "b": {
+    "system": "dq-tau",
+    "image_id": "dq-tau_taurus-long2019",
+    "file": "images/dq-tau/dq-tau_taurus-long2019.png"
+   }
+  },
+  {
+   "dist": 0,
+   "a": {
+    "system": "dh-tau",
+    "image_id": "dh-tau_taurus-long2019",
+    "file": "images/dh-tau/dh-tau_taurus-long2019.png"
+   },
+   "b": {
+    "system": "hp-tau",
+    "image_id": "hp-tau_taurus-long2019",
+    "file": "images/hp-tau/hp-tau_taurus-long2019.png"
+   }
+  },
+  {
+   "dist": 0,
+   "a": {
+    "system": "dk-tau",
+    "image_id": "dk-tau_taurus-long2019",
+    "file": "images/dk-tau/dk-tau_taurus-long2019.png"
+   },
+   "b": {
+    "system": "dq-tau",
+    "image_id": "dq-tau_taurus-long2019",
+    "file": "images/dq-tau/dq-tau_taurus-long2019.png"
+   }
+  },
+  {
+   "dist": 0,
+   "a": {
+    "system": "dk-tau",
+    "image_id": "dk-tau_taurus-long2019",
+    "file": "images/dk-tau/dk-tau_taurus-long2019.png"
+   },
+   "b": {
+    "system": "hp-tau",
+    "image_id": "hp-tau_taurus-long2019",
+    "file": "images/hp-tau/hp-tau_taurus-long2019.png"
+   }
+  },
+  {
+   "dist": 0,
+   "a": {
+    "system": "dq-tau",
+    "image_id": "dq-tau_taurus-long2019",
+    "file": "images/dq-tau/dq-tau_taurus-long2019.png"
+   },
+   "b": {
+    "system": "hp-tau",
+    "image_id": "hp-tau_taurus-long2019",
+    "file": "images/hp-tau/hp-tau_taurus-long2019.png"
+   }
+  },
+  {
+   "dist": 0,
+   "a": {
+    "system": "elias-24",
+    "image_id": "elias-24_dsharp",
+    "file": "images/elias-24/elias-24_dsharp.png"
+   },
+   "b": {
+    "system": "gw-lup",
+    "image_id": "gw-lup_dsharp",
+    "file": "images/gw-lup/gw-lup_dsharp.png"
+   }
+  },
+  {
+   "dist": 0,
+   "a": {
+    "system": "hd-100453",
+    "image_id": "hd-100453_gemini-lights",
+    "file": "images/hd-100453/hd-100453_gemini-lights.png"
+   },
+   "b": {
+    "system": "hd-97048",
+    "image_id": "hd-97048_gemini-lights",
+    "file": "images/hd-97048/hd-97048_gemini-lights.png"
+   }
+  },
+  {
+   "dist": 0,
+   "a": {
+    "system": "hd-100546",
+    "image_id": "hd-100546_atca2015",
+    "file": "images/hd-100546/hd-100546_atca2015.png"
+   },
+   "b": {
+    "system": "hd-141569",
+    "image_id": "hd-141569_gemini-lights",
+    "file": "images/hd-141569/hd-141569_gemini-lights.png"
+   }
+  },
+  {
+   "dist": 0,
+   "a": {
+    "system": "hd-100546",
+    "image_id": "hd-100546_atca2015",
+    "file": "images/hd-100546/hd-100546_atca2015.png"
+   },
+   "b": {
+    "system": "hd-142666",
+    "image_id": "hd-142666_gemini-lights",
+    "file": "images/hd-142666/hd-142666_gemini-lights.png"
+   }
+  },
+  {
+   "dist": 0,
+   "a": {
+    "system": "hd-100546",
+    "image_id": "hd-100546_atca2015",
+    "file": "images/hd-100546/hd-100546_atca2015.png"
+   },
+   "b": {
+    "system": "iras-04158-2805",
+    "image_id": "iras-04158-2805_edgeon-alma2020-b4",
+    "file": "images/iras-04158-2805/iras-04158-2805_edgeon-alma2020-b4.png"
+   }
+  },
+  {
+   "dist": 0,
+   "a": {
+    "system": "hd-100546",
+    "image_id": "hd-100546_atca2015",
+    "file": "images/hd-100546/hd-100546_atca2015.png"
+   },
+   "b": {
+    "system": "pg-1116-215",
+    "image_id": "pg-1116-215_bahcall1994",
+    "file": "images/pg-1116-215/pg-1116-215_bahcall1994.png"
+   }
+  },
+  {
+   "dist": 0,
+   "a": {
+    "system": "hd-100546",
+    "image_id": "hd-100546_atca2015",
+    "file": "images/hd-100546/hd-100546_atca2015.png"
+   },
+   "b": {
+    "system": "svs13a",
+    "image_id": "svs13a_alma2025",
+    "file": "images/svs13a/svs13a_alma2025.png"
+   }
+  },
+  {
+   "dist": 0,
+   "a": {
+    "system": "hd-100546",
+    "image_id": "hd-100546_atca2015",
+    "file": "images/hd-100546/hd-100546_atca2015.png"
+   },
+   "b": {
+    "system": "tw-hya",
+    "image_id": "tw-hya_eris2025",
+    "file": "images/tw-hya/tw-hya_eris2025.png"
+   }
+  },
+  {
+   "dist": 0,
+   "a": {
+    "system": "hd-135344-a",
+    "image_id": "hd-135344-a_gravity2025",
+    "file": "images/hd-135344-a/hd-135344-a_gravity2025.png"
+   },
+   "b": {
+    "system": "hr-8799",
+    "image_id": "hr-8799_p1640-2015",
+    "file": "images/hr-8799/hr-8799_p1640-2015.png"
+   }
+  },
+  {
+   "dist": 0,
+   "a": {
+    "system": "hd-141569",
+    "image_id": "hd-141569_gemini-lights",
+    "file": "images/hd-141569/hd-141569_gemini-lights.png"
+   },
+   "b": {
+    "system": "hd-142666",
+    "image_id": "hd-142666_gemini-lights",
+    "file": "images/hd-142666/hd-142666_gemini-lights.png"
+   }
+  },
+  {
+   "dist": 0,
+   "a": {
+    "system": "hd-141569",
+    "image_id": "hd-141569_gemini-lights",
+    "file": "images/hd-141569/hd-141569_gemini-lights.png"
+   },
+   "b": {
+    "system": "iras-04158-2805",
+    "image_id": "iras-04158-2805_edgeon-alma2020-b4",
+    "file": "images/iras-04158-2805/iras-04158-2805_edgeon-alma2020-b4.png"
+   }
+  },
+  {
+   "dist": 0,
+   "a": {
+    "system": "hd-141569",
+    "image_id": "hd-141569_gemini-lights",
+    "file": "images/hd-141569/hd-141569_gemini-lights.png"
+   },
+   "b": {
+    "system": "pg-1116-215",
+    "image_id": "pg-1116-215_bahcall1994",
+    "file": "images/pg-1116-215/pg-1116-215_bahcall1994.png"
+   }
+  },
+  {
+   "dist": 0,
+   "a": {
+    "system": "hd-141569",
+    "image_id": "hd-141569_gemini-lights",
+    "file": "images/hd-141569/hd-141569_gemini-lights.png"
+   },
+   "b": {
+    "system": "svs13a",
+    "image_id": "svs13a_alma2025",
+    "file": "images/svs13a/svs13a_alma2025.png"
+   }
+  },
+  {
+   "dist": 0,
+   "a": {
+    "system": "hd-141569",
+    "image_id": "hd-141569_gemini-lights",
+    "file": "images/hd-141569/hd-141569_gemini-lights.png"
+   },
+   "b": {
+    "system": "tw-hya",
+    "image_id": "tw-hya_eris2025",
+    "file": "images/tw-hya/tw-hya_eris2025.png"
+   }
+  },
+  {
+   "dist": 0,
+   "a": {
+    "system": "hd-142666",
+    "image_id": "hd-142666_gemini-lights",
+    "file": "images/hd-142666/hd-142666_gemini-lights.png"
+   },
+   "b": {
+    "system": "iras-04158-2805",
+    "image_id": "iras-04158-2805_edgeon-alma2020-b4",
+    "file": "images/iras-04158-2805/iras-04158-2805_edgeon-alma2020-b4.png"
+   }
+  },
+  {
+   "dist": 0,
+   "a": {
+    "system": "hd-142666",
+    "image_id": "hd-142666_gemini-lights",
+    "file": "images/hd-142666/hd-142666_gemini-lights.png"
+   },
+   "b": {
+    "system": "pg-1116-215",
+    "image_id": "pg-1116-215_bahcall1994",
+    "file": "images/pg-1116-215/pg-1116-215_bahcall1994.png"
+   }
+  },
+  {
+   "dist": 0,
+   "a": {
+    "system": "hd-142666",
+    "image_id": "hd-142666_gemini-lights",
+    "file": "images/hd-142666/hd-142666_gemini-lights.png"
+   },
+   "b": {
+    "system": "svs13a",
+    "image_id": "svs13a_alma2025",
+    "file": "images/svs13a/svs13a_alma2025.png"
+   }
+  },
+  {
+   "dist": 0,
+   "a": {
+    "system": "hd-142666",
+    "image_id": "hd-142666_gemini-lights",
+    "file": "images/hd-142666/hd-142666_gemini-lights.png"
+   },
+   "b": {
+    "system": "tw-hya",
+    "image_id": "tw-hya_eris2025",
+    "file": "images/tw-hya/tw-hya_eris2025.png"
+   }
+  },
+  {
+   "dist": 0,
+   "a": {
+    "system": "hd-53143",
+    "image_id": "hd-53143_alice-f110w",
+    "file": "images/hd-53143/hd-53143_alice-f110w.png"
+   },
+   "b": {
+    "system": "hd-92945",
+    "image_id": "hd-92945_alice-f110w",
+    "file": "images/hd-92945/hd-92945_alice-f110w.png"
+   }
+  },
+  {
+   "dist": 0,
+   "a": {
+    "system": "hip-78530",
+    "image_id": "hip-78530_niri2011",
+    "file": "images/hip-78530/hip-78530_niri2011.png"
+   },
+   "b": {
+    "system": "tmc-1a",
+    "image_id": "tmc-1a_edisk",
+    "file": "images/tmc-1a/tmc-1a_edisk.png"
+   }
+  },
+  {
+   "dist": 0,
+   "a": {
+    "system": "iras-04158-2805",
+    "image_id": "iras-04158-2805_edgeon-alma2020-b4",
+    "file": "images/iras-04158-2805/iras-04158-2805_edgeon-alma2020-b4.png"
+   },
+   "b": {
+    "system": "pg-1116-215",
+    "image_id": "pg-1116-215_bahcall1994",
+    "file": "images/pg-1116-215/pg-1116-215_bahcall1994.png"
+   }
+  },
+  {
+   "dist": 0,
+   "a": {
+    "system": "iras-04158-2805",
+    "image_id": "iras-04158-2805_edgeon-alma2020-b4",
+    "file": "images/iras-04158-2805/iras-04158-2805_edgeon-alma2020-b4.png"
+   },
+   "b": {
+    "system": "svs13a",
+    "image_id": "svs13a_alma2025",
+    "file": "images/svs13a/svs13a_alma2025.png"
+   }
+  },
+  {
+   "dist": 0,
+   "a": {
+    "system": "iras-04158-2805",
+    "image_id": "iras-04158-2805_edgeon-alma2020-b4",
+    "file": "images/iras-04158-2805/iras-04158-2805_edgeon-alma2020-b4.png"
+   },
+   "b": {
+    "system": "tw-hya",
+    "image_id": "tw-hya_eris2025",
+    "file": "images/tw-hya/tw-hya_eris2025.png"
+   }
+  },
+  {
+   "dist": 0,
+   "a": {
+    "system": "mwc-480",
+    "image_id": "mwc-480_bima2006",
+    "file": "images/mwc-480/mwc-480_bima2006.png"
+   },
+   "b": {
+    "system": "pg-0953-414",
+    "image_id": "pg-0953-414_bahcall1994",
+    "file": "images/pg-0953-414/pg-0953-414_bahcall1994.png"
+   }
+  },
+  {
+   "dist": 0,
+   "a": {
+    "system": "pg-1116-215",
+    "image_id": "pg-1116-215_bahcall1994",
+    "file": "images/pg-1116-215/pg-1116-215_bahcall1994.png"
+   },
+   "b": {
+    "system": "svs13a",
+    "image_id": "svs13a_alma2025",
+    "file": "images/svs13a/svs13a_alma2025.png"
+   }
+  },
+  {
+   "dist": 0,
+   "a": {
+    "system": "pg-1116-215",
+    "image_id": "pg-1116-215_bahcall1994",
+    "file": "images/pg-1116-215/pg-1116-215_bahcall1994.png"
+   },
+   "b": {
+    "system": "tw-hya",
+    "image_id": "tw-hya_eris2025",
+    "file": "images/tw-hya/tw-hya_eris2025.png"
+   }
+  },
+  {
+   "dist": 0,
+   "a": {
+    "system": "svs13a",
+    "image_id": "svs13a_alma2025",
+    "file": "images/svs13a/svs13a_alma2025.png"
+   },
+   "b": {
+    "system": "tw-hya",
+    "image_id": "tw-hya_eris2025",
+    "file": "images/tw-hya/tw-hya_eris2025.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "2m1207",
+    "image_id": "2m1207_miri2025",
+    "file": "images/2m1207/2m1207_miri2025.png"
+   },
+   "b": {
+    "system": "pg-1116-215",
+    "image_id": "pg-1116-215_nicmos2009",
+    "file": "images/pg-1116-215/pg-1116-215_nicmos2009.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "2mass-j16020757-2257467",
+    "image_id": "2mass-j16020757-2257467_agepro",
+    "file": "images/2mass-j16020757-2257467/2mass-j16020757-2257467_agepro.png"
+   },
+   "b": {
+    "system": "2mass-j16090075-1908526",
+    "image_id": "2mass-j16090075-1908526_agepro",
+    "file": "images/2mass-j16090075-1908526/2mass-j16090075-1908526_agepro.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "2mass-j16124373-3815031",
+    "image_id": "2mass-j16124373-3815031_agepro",
+    "file": "images/2mass-j16124373-3815031/2mass-j16124373-3815031_agepro.png"
+   },
+   "b": {
+    "system": "sz-65",
+    "image_id": "sz-65_agepro",
+    "file": "images/sz-65/sz-65_agepro.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "3c-273",
+    "image_id": "3c-273_bahcall1995",
+    "file": "images/3c-273/3c-273_bahcall1995.png"
+   },
+   "b": {
+    "system": "51-eri",
+    "image_id": "51-eri_sphere2017_k1",
+    "file": "images/51-eri/51-eri_sphere2017_k1.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "51-eri",
+    "image_id": "51-eri_sphere2017_y",
+    "file": "images/51-eri/51-eri_sphere2017_y.png"
+   },
+   "b": {
+    "system": "gsc-6214-210",
+    "image_id": "gsc-6214-210_sphere2021",
+    "file": "images/gsc-6214-210/gsc-6214-210_sphere2021.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "51-eri",
+    "image_id": "51-eri_sphere2017_y",
+    "file": "images/51-eri/51-eri_sphere2017_y.png"
+   },
+   "b": {
+    "system": "ww-cha",
+    "image_id": "ww-cha_gravity2021",
+    "file": "images/ww-cha/ww-cha_gravity2021.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "51-eri",
+    "image_id": "51-eri_sphere2017_h",
+    "file": "images/51-eri/51-eri_sphere2017_h.png"
+   },
+   "b": {
+    "system": "mwc-480",
+    "image_id": "mwc-480_bima2006",
+    "file": "images/mwc-480/mwc-480_bima2006.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "51-eri",
+    "image_id": "51-eri_sphere2017_h",
+    "file": "images/51-eri/51-eri_sphere2017_h.png"
+   },
+   "b": {
+    "system": "pg-0953-414",
+    "image_id": "pg-0953-414_bahcall1994",
+    "file": "images/pg-0953-414/pg-0953-414_bahcall1994.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "51-eri",
+    "image_id": "51-eri_sphere2017_h",
+    "file": "images/51-eri/51-eri_sphere2017_h.png"
+   },
+   "b": {
+    "system": "pks-1302-102",
+    "image_id": "pks-1302-102_bahcall1995",
+    "file": "images/pks-1302-102/pks-1302-102_bahcall1995.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "51-eri",
+    "image_id": "51-eri_sphere2017_k1",
+    "file": "images/51-eri/51-eri_sphere2017_k1.png"
+   },
+   "b": {
+    "system": "gsc-6214-210",
+    "image_id": "gsc-6214-210_sphere2021",
+    "file": "images/gsc-6214-210/gsc-6214-210_sphere2021.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "af-lep",
+    "image_id": "af-lep_gravity2024",
+    "file": "images/af-lep/af-lep_gravity2024.png"
+   },
+   "b": {
+    "system": "cd-35-2722",
+    "image_id": "cd-35-2722_nici2011",
+    "file": "images/cd-35-2722/cd-35-2722_nici2011.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "af-lep",
+    "image_id": "af-lep_gravity2024",
+    "file": "images/af-lep/af-lep_gravity2024.png"
+   },
+   "b": {
+    "system": "cq-tau",
+    "image_id": "cq-tau_dsp-spiral2021",
+    "file": "images/cq-tau/cq-tau_dsp-spiral2021.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "af-lep",
+    "image_id": "af-lep_gravity2024",
+    "file": "images/af-lep/af-lep_gravity2024.png"
+   },
+   "b": {
+    "system": "ct-cha",
+    "image_id": "ct-cha_mrs2025",
+    "file": "images/ct-cha/ct-cha_mrs2025.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "af-lep",
+    "image_id": "af-lep_gravity2024",
+    "file": "images/af-lep/af-lep_gravity2024.png"
+   },
+   "b": {
+    "system": "flying-saucer",
+    "image_id": "flying-saucer_alma-martinien",
+    "file": "images/flying-saucer/flying-saucer_alma-martinien.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "af-lep",
+    "image_id": "af-lep_gravity2024",
+    "file": "images/af-lep/af-lep_gravity2024.png"
+   },
+   "b": {
+    "system": "gg-tau",
+    "image_id": "gg-tau_nicmos2002",
+    "file": "images/gg-tau/gg-tau_nicmos2002.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "af-lep",
+    "image_id": "af-lep_gravity2024",
+    "file": "images/af-lep/af-lep_gravity2024.png"
+   },
+   "b": {
+    "system": "gq-lup",
+    "image_id": "gq-lup_miri-mrs2024",
+    "file": "images/gq-lup/gq-lup_miri-mrs2024.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "af-lep",
+    "image_id": "af-lep_gravity2024",
+    "file": "images/af-lep/af-lep_gravity2024.png"
+   },
+   "b": {
+    "system": "gsc-6214-210",
+    "image_id": "gsc-6214-210_sphere2021",
+    "file": "images/gsc-6214-210/gsc-6214-210_sphere2021.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "af-lep",
+    "image_id": "af-lep_gravity2024",
+    "file": "images/af-lep/af-lep_gravity2024.png"
+   },
+   "b": {
+    "system": "hd-100453",
+    "image_id": "hd-100453_gemini-lights",
+    "file": "images/hd-100453/hd-100453_gemini-lights.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "af-lep",
+    "image_id": "af-lep_gravity2024",
+    "file": "images/af-lep/af-lep_gravity2024.png"
+   },
+   "b": {
+    "system": "hd-111520",
+    "image_id": "hd-111520_sphere-rdi-xie22",
+    "file": "images/hd-111520/hd-111520_sphere-rdi-xie22.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "af-lep",
+    "image_id": "af-lep_gravity2024",
+    "file": "images/af-lep/af-lep_gravity2024.png"
+   },
+   "b": {
+    "system": "hd-135344-a",
+    "image_id": "hd-135344-a_gravity2025",
+    "file": "images/hd-135344-a/hd-135344-a_gravity2025.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "af-lep",
+    "image_id": "af-lep_gravity2024",
+    "file": "images/af-lep/af-lep_gravity2024.png"
+   },
+   "b": {
+    "system": "hd-145718",
+    "image_id": "hd-145718_gemini-lights",
+    "file": "images/hd-145718/hd-145718_gemini-lights.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "af-lep",
+    "image_id": "af-lep_gravity2024",
+    "file": "images/af-lep/af-lep_gravity2024.png"
+   },
+   "b": {
+    "system": "hd-163296",
+    "image_id": "hd-163296_nircam2025",
+    "file": "images/hd-163296/hd-163296_nircam2025.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "af-lep",
+    "image_id": "af-lep_gravity2024",
+    "file": "images/af-lep/af-lep_gravity2024.png"
+   },
+   "b": {
+    "system": "hd-163296",
+    "image_id": "hd-163296_pdbi-1.3mm2007",
+    "file": "images/hd-163296/hd-163296_pdbi-1.3mm2007.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "af-lep",
+    "image_id": "af-lep_gravity2024",
+    "file": "images/af-lep/af-lep_gravity2024.png"
+   },
+   "b": {
+    "system": "hd-163296",
+    "image_id": "hd-163296_pdbi-2.8mm2007",
+    "file": "images/hd-163296/hd-163296_pdbi-2.8mm2007.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "af-lep",
+    "image_id": "af-lep_gravity2024",
+    "file": "images/af-lep/af-lep_gravity2024.png"
+   },
+   "b": {
+    "system": "hd-32297",
+    "image_id": "hd-32297_lbti2014",
+    "file": "images/hd-32297/hd-32297_lbti2014.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "af-lep",
+    "image_id": "af-lep_gravity2024",
+    "file": "images/af-lep/af-lep_gravity2024.png"
+   },
+   "b": {
+    "system": "hd-34700",
+    "image_id": "hd-34700_sma2020",
+    "file": "images/hd-34700/hd-34700_sma2020.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "af-lep",
+    "image_id": "af-lep_gravity2024",
+    "file": "images/af-lep/af-lep_gravity2024.png"
+   },
+   "b": {
+    "system": "hd-97048",
+    "image_id": "hd-97048_gemini-lights",
+    "file": "images/hd-97048/hd-97048_gemini-lights.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "af-lep",
+    "image_id": "af-lep_gravity2024",
+    "file": "images/af-lep/af-lep_gravity2024.png"
+   },
+   "b": {
+    "system": "hip-64892",
+    "image_id": "hip-64892_sphere2018",
+    "file": "images/hip-64892/hip-64892_sphere2018.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "af-lep",
+    "image_id": "af-lep_gravity2024",
+    "file": "images/af-lep/af-lep_gravity2024.png"
+   },
+   "b": {
+    "system": "hr-8799",
+    "image_id": "hr-8799_gravity2019",
+    "file": "images/hr-8799/hr-8799_gravity2019.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "af-lep",
+    "image_id": "af-lep_gravity2024",
+    "file": "images/af-lep/af-lep_gravity2024.png"
+   },
+   "b": {
+    "system": "hr-8799",
+    "image_id": "hr-8799_p1640-2015",
+    "file": "images/hr-8799/hr-8799_p1640-2015.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "af-lep",
+    "image_id": "af-lep_gravity2024",
+    "file": "images/af-lep/af-lep_gravity2024.png"
+   },
+   "b": {
+    "system": "hr-8799",
+    "image_id": "hr-8799_bergfors2011-naco",
+    "file": "images/hr-8799/hr-8799_bergfors2011-naco.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "af-lep",
+    "image_id": "af-lep_gravity2024",
+    "file": "images/af-lep/af-lep_gravity2024.png"
+   },
+   "b": {
+    "system": "iras-04302-2247",
+    "image_id": "iras-04302-2247_edgeon-alma2020-b4",
+    "file": "images/iras-04302-2247/iras-04302-2247_edgeon-alma2020-b4.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "af-lep",
+    "image_id": "af-lep_gravity2024",
+    "file": "images/af-lep/af-lep_gravity2024.png"
+   },
+   "b": {
+    "system": "mwc-480",
+    "image_id": "mwc-480_bima2006",
+    "file": "images/mwc-480/mwc-480_bima2006.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "af-lep",
+    "image_id": "af-lep_gravity2024",
+    "file": "images/af-lep/af-lep_gravity2024.png"
+   },
+   "b": {
+    "system": "pds-66",
+    "image_id": "pds-66_gemini-lights",
+    "file": "images/pds-66/pds-66_gemini-lights.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "af-lep",
+    "image_id": "af-lep_gravity2024",
+    "file": "images/af-lep/af-lep_gravity2024.png"
+   },
+   "b": {
+    "system": "pg-0953-414",
+    "image_id": "pg-0953-414_bahcall1994",
+    "file": "images/pg-0953-414/pg-0953-414_bahcall1994.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "af-lep",
+    "image_id": "af-lep_gravity2024",
+    "file": "images/af-lep/af-lep_gravity2024.png"
+   },
+   "b": {
+    "system": "pg-1116-215",
+    "image_id": "pg-1116-215_nicmos2009",
+    "file": "images/pg-1116-215/pg-1116-215_nicmos2009.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "af-lep",
+    "image_id": "af-lep_gravity2024",
+    "file": "images/af-lep/af-lep_gravity2024.png"
+   },
+   "b": {
+    "system": "pg-1307-085",
+    "image_id": "pg-1307-085_bahcall1994",
+    "file": "images/pg-1307-085/pg-1307-085_bahcall1994.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "af-lep",
+    "image_id": "af-lep_gravity2024",
+    "file": "images/af-lep/af-lep_gravity2024.png"
+   },
+   "b": {
+    "system": "pg-1444-407",
+    "image_id": "pg-1444-407_bahcall1995",
+    "file": "images/pg-1444-407/pg-1444-407_bahcall1995.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "af-lep",
+    "image_id": "af-lep_gravity2024",
+    "file": "images/af-lep/af-lep_gravity2024.png"
+   },
+   "b": {
+    "system": "pks-1302-102",
+    "image_id": "pks-1302-102_bahcall1995",
+    "file": "images/pks-1302-102/pks-1302-102_bahcall1995.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "af-lep",
+    "image_id": "af-lep_gravity2024",
+    "file": "images/af-lep/af-lep_gravity2024.png"
+   },
+   "b": {
+    "system": "tau-042021",
+    "image_id": "tau-042021_edgeon-alma2020-b4",
+    "file": "images/tau-042021/tau-042021_edgeon-alma2020-b4.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "af-lep",
+    "image_id": "af-lep_gravity2024",
+    "file": "images/af-lep/af-lep_gravity2024.png"
+   },
+   "b": {
+    "system": "ww-cha",
+    "image_id": "ww-cha_gravity2021",
+    "file": "images/ww-cha/ww-cha_gravity2021.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "af-lep",
+    "image_id": "af-lep_naco2011-4s",
+    "file": "images/af-lep/af-lep_naco2011-4s.png"
+   },
+   "b": {
+    "system": "hd-135344-a",
+    "image_id": "hd-135344-a_gravity2025",
+    "file": "images/hd-135344-a/hd-135344-a_gravity2025.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "af-lep",
+    "image_id": "af-lep_naco2011-4s",
+    "file": "images/af-lep/af-lep_naco2011-4s.png"
+   },
+   "b": {
+    "system": "hd-163296",
+    "image_id": "hd-163296_pdbi-1.3mm2007",
+    "file": "images/hd-163296/hd-163296_pdbi-1.3mm2007.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "af-lep",
+    "image_id": "af-lep_naco2011-4s",
+    "file": "images/af-lep/af-lep_naco2011-4s.png"
+   },
+   "b": {
+    "system": "hr-8799",
+    "image_id": "hr-8799_niri2008",
+    "file": "images/hr-8799/hr-8799_niri2008.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "af-lep",
+    "image_id": "af-lep_naco2011-4s",
+    "file": "images/af-lep/af-lep_naco2011-4s.png"
+   },
+   "b": {
+    "system": "hr-8799",
+    "image_id": "hr-8799_p1640-2015",
+    "file": "images/hr-8799/hr-8799_p1640-2015.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "af-lep",
+    "image_id": "af-lep_alice-f160w",
+    "file": "images/af-lep/af-lep_alice-f160w.png"
+   },
+   "b": {
+    "system": "hd-135344b",
+    "image_id": "hd-135344b_alice-f110w",
+    "file": "images/hd-135344b/hd-135344b_alice-f110w.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "ak-sco",
+    "image_id": "ak-sco_gemini-lights",
+    "file": "images/ak-sco/ak-sco_gemini-lights.png"
+   },
+   "b": {
+    "system": "cd-35-2722",
+    "image_id": "cd-35-2722_nici2011",
+    "file": "images/cd-35-2722/cd-35-2722_nici2011.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "ak-sco",
+    "image_id": "ak-sco_gemini-lights",
+    "file": "images/ak-sco/ak-sco_gemini-lights.png"
+   },
+   "b": {
+    "system": "hen-3-365",
+    "image_id": "hen-3-365_gemini-lights",
+    "file": "images/hen-3-365/hen-3-365_gemini-lights.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "ak-sco",
+    "image_id": "ak-sco_sphere-rdi-xie22",
+    "file": "images/ak-sco/ak-sco_sphere-rdi-xie22.png"
+   },
+   "b": {
+    "system": "gsc-6214-210",
+    "image_id": "gsc-6214-210_sphere2021",
+    "file": "images/gsc-6214-210/gsc-6214-210_sphere2021.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "as-205",
+    "image_id": "as-205_alice-f110w",
+    "file": "images/as-205/as-205_alice-f110w.png"
+   },
+   "b": {
+    "system": "hd-105",
+    "image_id": "hd-105_alice-f160w",
+    "file": "images/hd-105/hd-105_alice-f160w.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "as-205",
+    "image_id": "as-205_alice-f110w",
+    "file": "images/as-205/as-205_alice-f110w.png"
+   },
+   "b": {
+    "system": "hd-142666",
+    "image_id": "hd-142666_alice-f110w",
+    "file": "images/hd-142666/hd-142666_alice-f110w.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "as-205",
+    "image_id": "as-205_alice-f110w",
+    "file": "images/as-205/as-205_alice-f110w.png"
+   },
+   "b": {
+    "system": "hd-53143",
+    "image_id": "hd-53143_alice-f110w",
+    "file": "images/hd-53143/hd-53143_alice-f110w.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "as-205",
+    "image_id": "as-205_alice-f110w",
+    "file": "images/as-205/as-205_alice-f110w.png"
+   },
+   "b": {
+    "system": "hd-92945",
+    "image_id": "hd-92945_alice-f110w",
+    "file": "images/hd-92945/hd-92945_alice-f110w.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "as-209",
+    "image_id": "as-209_eris2025",
+    "file": "images/as-209/as-209_eris2025.png"
+   },
+   "b": {
+    "system": "hd-141569",
+    "image_id": "hd-141569_jwst-nircam",
+    "file": "images/hd-141569/hd-141569_jwst-nircam.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "cd-35-2722",
+    "image_id": "cd-35-2722_nici2011",
+    "file": "images/cd-35-2722/cd-35-2722_nici2011.png"
+   },
+   "b": {
+    "system": "gq-lup",
+    "image_id": "gq-lup_miri-mrs2024",
+    "file": "images/gq-lup/gq-lup_miri-mrs2024.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "cd-35-2722",
+    "image_id": "cd-35-2722_nici2011",
+    "file": "images/cd-35-2722/cd-35-2722_nici2011.png"
+   },
+   "b": {
+    "system": "hd-100546",
+    "image_id": "hd-100546_atca2015",
+    "file": "images/hd-100546/hd-100546_atca2015.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "cd-35-2722",
+    "image_id": "cd-35-2722_nici2011",
+    "file": "images/cd-35-2722/cd-35-2722_nici2011.png"
+   },
+   "b": {
+    "system": "hd-111520",
+    "image_id": "hd-111520_sphere-rdi-xie22",
+    "file": "images/hd-111520/hd-111520_sphere-rdi-xie22.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "cd-35-2722",
+    "image_id": "cd-35-2722_nici2011",
+    "file": "images/cd-35-2722/cd-35-2722_nici2011.png"
+   },
+   "b": {
+    "system": "hd-135344-a",
+    "image_id": "hd-135344-a_gravity2025",
+    "file": "images/hd-135344-a/hd-135344-a_gravity2025.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "cd-35-2722",
+    "image_id": "cd-35-2722_nici2011",
+    "file": "images/cd-35-2722/cd-35-2722_nici2011.png"
+   },
+   "b": {
+    "system": "hd-141569",
+    "image_id": "hd-141569_gemini-lights",
+    "file": "images/hd-141569/hd-141569_gemini-lights.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "cd-35-2722",
+    "image_id": "cd-35-2722_nici2011",
+    "file": "images/cd-35-2722/cd-35-2722_nici2011.png"
+   },
+   "b": {
+    "system": "hd-142666",
+    "image_id": "hd-142666_gemini-lights",
+    "file": "images/hd-142666/hd-142666_gemini-lights.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "cd-35-2722",
+    "image_id": "cd-35-2722_nici2011",
+    "file": "images/cd-35-2722/cd-35-2722_nici2011.png"
+   },
+   "b": {
+    "system": "hd-34700",
+    "image_id": "hd-34700_sma2020",
+    "file": "images/hd-34700/hd-34700_sma2020.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "cd-35-2722",
+    "image_id": "cd-35-2722_nici2011",
+    "file": "images/cd-35-2722/cd-35-2722_nici2011.png"
+   },
+   "b": {
+    "system": "hr-8799",
+    "image_id": "hr-8799_p1640-2015",
+    "file": "images/hr-8799/hr-8799_p1640-2015.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "cd-35-2722",
+    "image_id": "cd-35-2722_nici2011",
+    "file": "images/cd-35-2722/cd-35-2722_nici2011.png"
+   },
+   "b": {
+    "system": "iras-04158-2805",
+    "image_id": "iras-04158-2805_edgeon-alma2020-b4",
+    "file": "images/iras-04158-2805/iras-04158-2805_edgeon-alma2020-b4.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "cd-35-2722",
+    "image_id": "cd-35-2722_nici2011",
+    "file": "images/cd-35-2722/cd-35-2722_nici2011.png"
+   },
+   "b": {
+    "system": "iras-23077-6707",
+    "image_id": "iras-23077-6707_sma",
+    "file": "images/iras-23077-6707/iras-23077-6707_sma.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "cd-35-2722",
+    "image_id": "cd-35-2722_nici2011",
+    "file": "images/cd-35-2722/cd-35-2722_nici2011.png"
+   },
+   "b": {
+    "system": "mwc-480",
+    "image_id": "mwc-480_bima2006",
+    "file": "images/mwc-480/mwc-480_bima2006.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "cd-35-2722",
+    "image_id": "cd-35-2722_nici2011",
+    "file": "images/cd-35-2722/cd-35-2722_nici2011.png"
+   },
+   "b": {
+    "system": "pds-66",
+    "image_id": "pds-66_gemini-lights",
+    "file": "images/pds-66/pds-66_gemini-lights.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "cd-35-2722",
+    "image_id": "cd-35-2722_nici2011",
+    "file": "images/cd-35-2722/cd-35-2722_nici2011.png"
+   },
+   "b": {
+    "system": "pg-0953-414",
+    "image_id": "pg-0953-414_bahcall1994",
+    "file": "images/pg-0953-414/pg-0953-414_bahcall1994.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "cd-35-2722",
+    "image_id": "cd-35-2722_nici2011",
+    "file": "images/cd-35-2722/cd-35-2722_nici2011.png"
+   },
+   "b": {
+    "system": "pg-1116-215",
+    "image_id": "pg-1116-215_bahcall1994",
+    "file": "images/pg-1116-215/pg-1116-215_bahcall1994.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "cd-35-2722",
+    "image_id": "cd-35-2722_nici2011",
+    "file": "images/cd-35-2722/cd-35-2722_nici2011.png"
+   },
+   "b": {
+    "system": "pks-1302-102",
+    "image_id": "pks-1302-102_bahcall1995",
+    "file": "images/pks-1302-102/pks-1302-102_bahcall1995.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "cd-35-2722",
+    "image_id": "cd-35-2722_nici2011",
+    "file": "images/cd-35-2722/cd-35-2722_nici2011.png"
+   },
+   "b": {
+    "system": "svs13a",
+    "image_id": "svs13a_alma2025",
+    "file": "images/svs13a/svs13a_alma2025.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "cd-35-2722",
+    "image_id": "cd-35-2722_nici2011",
+    "file": "images/cd-35-2722/cd-35-2722_nici2011.png"
+   },
+   "b": {
+    "system": "tw-hya",
+    "image_id": "tw-hya_eris2025",
+    "file": "images/tw-hya/tw-hya_eris2025.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "cq-tau",
+    "image_id": "cq-tau_vla-1.3cm2011",
+    "file": "images/cq-tau/cq-tau_vla-1.3cm2011.png"
+   },
+   "b": {
+    "system": "hd-135344-a",
+    "image_id": "hd-135344-a_gravity2025",
+    "file": "images/hd-135344-a/hd-135344-a_gravity2025.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "cq-tau",
+    "image_id": "cq-tau_vla-1.3cm2011",
+    "file": "images/cq-tau/cq-tau_vla-1.3cm2011.png"
+   },
+   "b": {
+    "system": "hr-8799",
+    "image_id": "hr-8799_p1640-2015",
+    "file": "images/hr-8799/hr-8799_p1640-2015.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "cq-tau",
+    "image_id": "cq-tau_dsp-spiral2021",
+    "file": "images/cq-tau/cq-tau_dsp-spiral2021.png"
+   },
+   "b": {
+    "system": "flying-saucer",
+    "image_id": "flying-saucer_alma-martinien",
+    "file": "images/flying-saucer/flying-saucer_alma-martinien.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "cq-tau",
+    "image_id": "cq-tau_dsp-spiral2021",
+    "file": "images/cq-tau/cq-tau_dsp-spiral2021.png"
+   },
+   "b": {
+    "system": "hd-100546",
+    "image_id": "hd-100546_atca2015",
+    "file": "images/hd-100546/hd-100546_atca2015.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "cq-tau",
+    "image_id": "cq-tau_dsp-spiral2021",
+    "file": "images/cq-tau/cq-tau_dsp-spiral2021.png"
+   },
+   "b": {
+    "system": "hd-141569",
+    "image_id": "hd-141569_gemini-lights",
+    "file": "images/hd-141569/hd-141569_gemini-lights.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "cq-tau",
+    "image_id": "cq-tau_dsp-spiral2021",
+    "file": "images/cq-tau/cq-tau_dsp-spiral2021.png"
+   },
+   "b": {
+    "system": "hd-142666",
+    "image_id": "hd-142666_gemini-lights",
+    "file": "images/hd-142666/hd-142666_gemini-lights.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "cq-tau",
+    "image_id": "cq-tau_dsp-spiral2021",
+    "file": "images/cq-tau/cq-tau_dsp-spiral2021.png"
+   },
+   "b": {
+    "system": "iras-04158-2805",
+    "image_id": "iras-04158-2805_edgeon-alma2020-b4",
+    "file": "images/iras-04158-2805/iras-04158-2805_edgeon-alma2020-b4.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "cq-tau",
+    "image_id": "cq-tau_dsp-spiral2021",
+    "file": "images/cq-tau/cq-tau_dsp-spiral2021.png"
+   },
+   "b": {
+    "system": "pg-1116-215",
+    "image_id": "pg-1116-215_bahcall1994",
+    "file": "images/pg-1116-215/pg-1116-215_bahcall1994.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "cq-tau",
+    "image_id": "cq-tau_dsp-spiral2021",
+    "file": "images/cq-tau/cq-tau_dsp-spiral2021.png"
+   },
+   "b": {
+    "system": "pg-1307-085",
+    "image_id": "pg-1307-085_bahcall1994",
+    "file": "images/pg-1307-085/pg-1307-085_bahcall1994.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "cq-tau",
+    "image_id": "cq-tau_dsp-spiral2021",
+    "file": "images/cq-tau/cq-tau_dsp-spiral2021.png"
+   },
+   "b": {
+    "system": "svs13a",
+    "image_id": "svs13a_alma2025",
+    "file": "images/svs13a/svs13a_alma2025.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "cq-tau",
+    "image_id": "cq-tau_dsp-spiral2021",
+    "file": "images/cq-tau/cq-tau_dsp-spiral2021.png"
+   },
+   "b": {
+    "system": "tw-hya",
+    "image_id": "tw-hya_eris2025",
+    "file": "images/tw-hya/tw-hya_eris2025.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "ct-cha",
+    "image_id": "ct-cha_mrs2025",
+    "file": "images/ct-cha/ct-cha_mrs2025.png"
+   },
+   "b": {
+    "system": "hd-100546",
+    "image_id": "hd-100546_atca2015",
+    "file": "images/hd-100546/hd-100546_atca2015.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "ct-cha",
+    "image_id": "ct-cha_mrs2025",
+    "file": "images/ct-cha/ct-cha_mrs2025.png"
+   },
+   "b": {
+    "system": "hd-141569",
+    "image_id": "hd-141569_gemini-lights",
+    "file": "images/hd-141569/hd-141569_gemini-lights.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "ct-cha",
+    "image_id": "ct-cha_mrs2025",
+    "file": "images/ct-cha/ct-cha_mrs2025.png"
+   },
+   "b": {
+    "system": "hd-142666",
+    "image_id": "hd-142666_gemini-lights",
+    "file": "images/hd-142666/hd-142666_gemini-lights.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "ct-cha",
+    "image_id": "ct-cha_mrs2025",
+    "file": "images/ct-cha/ct-cha_mrs2025.png"
+   },
+   "b": {
+    "system": "hd-163296",
+    "image_id": "hd-163296_pdbi-1.3mm2007",
+    "file": "images/hd-163296/hd-163296_pdbi-1.3mm2007.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "ct-cha",
+    "image_id": "ct-cha_mrs2025",
+    "file": "images/ct-cha/ct-cha_mrs2025.png"
+   },
+   "b": {
+    "system": "hd-163296",
+    "image_id": "hd-163296_pdbi-2.8mm2007",
+    "file": "images/hd-163296/hd-163296_pdbi-2.8mm2007.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "ct-cha",
+    "image_id": "ct-cha_mrs2025",
+    "file": "images/ct-cha/ct-cha_mrs2025.png"
+   },
+   "b": {
+    "system": "hr-8799",
+    "image_id": "hr-8799_bergfors2011-naco",
+    "file": "images/hr-8799/hr-8799_bergfors2011-naco.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "ct-cha",
+    "image_id": "ct-cha_mrs2025",
+    "file": "images/ct-cha/ct-cha_mrs2025.png"
+   },
+   "b": {
+    "system": "iras-04158-2805",
+    "image_id": "iras-04158-2805_edgeon-alma2020-b4",
+    "file": "images/iras-04158-2805/iras-04158-2805_edgeon-alma2020-b4.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "ct-cha",
+    "image_id": "ct-cha_mrs2025",
+    "file": "images/ct-cha/ct-cha_mrs2025.png"
+   },
+   "b": {
+    "system": "pg-1116-215",
+    "image_id": "pg-1116-215_bahcall1994",
+    "file": "images/pg-1116-215/pg-1116-215_bahcall1994.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "ct-cha",
+    "image_id": "ct-cha_mrs2025",
+    "file": "images/ct-cha/ct-cha_mrs2025.png"
+   },
+   "b": {
+    "system": "svs13a",
+    "image_id": "svs13a_alma2025",
+    "file": "images/svs13a/svs13a_alma2025.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "ct-cha",
+    "image_id": "ct-cha_mrs2025",
+    "file": "images/ct-cha/ct-cha_mrs2025.png"
+   },
+   "b": {
+    "system": "tw-hya",
+    "image_id": "tw-hya_eris2025",
+    "file": "images/tw-hya/tw-hya_eris2025.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "ct-cha",
+    "image_id": "ct-cha_mrs2025",
+    "file": "images/ct-cha/ct-cha_mrs2025.png"
+   },
+   "b": {
+    "system": "v4046-sgr",
+    "image_id": "v4046-sgr_sma2010",
+    "file": "images/v4046-sgr/v4046-sgr_sma2010.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "dg-tau",
+    "image_id": "dg-tau_sphere-rdi-xie22",
+    "file": "images/dg-tau/dg-tau_sphere-rdi-xie22.png"
+   },
+   "b": {
+    "system": "hd-100453",
+    "image_id": "hd-100453_sphere-rdi-xie22",
+    "file": "images/hd-100453/hd-100453_sphere-rdi-xie22.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "dh-tau",
+    "image_id": "dh-tau_taurus-long2019",
+    "file": "images/dh-tau/dh-tau_taurus-long2019.png"
+   },
+   "b": {
+    "system": "hk-tau",
+    "image_id": "hk-tau_taurus-long2019",
+    "file": "images/hk-tau/hk-tau_taurus-long2019.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "dh-tau",
+    "image_id": "dh-tau_taurus-long2019",
+    "file": "images/dh-tau/dh-tau_taurus-long2019.png"
+   },
+   "b": {
+    "system": "rw-aur",
+    "image_id": "rw-aur_taurus-long2019",
+    "file": "images/rw-aur/rw-aur_taurus-long2019.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "dk-tau",
+    "image_id": "dk-tau_taurus-long2019",
+    "file": "images/dk-tau/dk-tau_taurus-long2019.png"
+   },
+   "b": {
+    "system": "hk-tau",
+    "image_id": "hk-tau_taurus-long2019",
+    "file": "images/hk-tau/hk-tau_taurus-long2019.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "dk-tau",
+    "image_id": "dk-tau_taurus-long2019",
+    "file": "images/dk-tau/dk-tau_taurus-long2019.png"
+   },
+   "b": {
+    "system": "rw-aur",
+    "image_id": "rw-aur_taurus-long2019",
+    "file": "images/rw-aur/rw-aur_taurus-long2019.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "dm-tau",
+    "image_id": "dm-tau_alice-f160w",
+    "file": "images/dm-tau/dm-tau_alice-f160w.png"
+   },
+   "b": {
+    "system": "hd-53143",
+    "image_id": "hd-53143_alice-f110w",
+    "file": "images/hd-53143/hd-53143_alice-f110w.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "dm-tau",
+    "image_id": "dm-tau_alice-f160w",
+    "file": "images/dm-tau/dm-tau_alice-f160w.png"
+   },
+   "b": {
+    "system": "hd-92945",
+    "image_id": "hd-92945_alice-f110w",
+    "file": "images/hd-92945/hd-92945_alice-f110w.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "dm-tau",
+    "image_id": "dm-tau_alice-f160w",
+    "file": "images/dm-tau/dm-tau_alice-f160w.png"
+   },
+   "b": {
+    "system": "tyc-9340-437-1",
+    "image_id": "tyc-9340-437-1_alice-f160w",
+    "file": "images/tyc-9340-437-1/tyc-9340-437-1_alice-f160w.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "dn-tau",
+    "image_id": "dn-tau_taurus-long2018",
+    "file": "images/dn-tau/dn-tau_taurus-long2018.png"
+   },
+   "b": {
+    "system": "ft-tau",
+    "image_id": "ft-tau_taurus-long2018",
+    "file": "images/ft-tau/ft-tau_taurus-long2018.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "do-tau",
+    "image_id": "do-tau_taurus-long2019",
+    "file": "images/do-tau/do-tau_taurus-long2019.png"
+   },
+   "b": {
+    "system": "dr-tau",
+    "image_id": "dr-tau_taurus-long2019",
+    "file": "images/dr-tau/dr-tau_taurus-long2019.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "dq-tau",
+    "image_id": "dq-tau_taurus-long2019",
+    "file": "images/dq-tau/dq-tau_taurus-long2019.png"
+   },
+   "b": {
+    "system": "hk-tau",
+    "image_id": "hk-tau_taurus-long2019",
+    "file": "images/hk-tau/hk-tau_taurus-long2019.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "dq-tau",
+    "image_id": "dq-tau_taurus-long2019",
+    "file": "images/dq-tau/dq-tau_taurus-long2019.png"
+   },
+   "b": {
+    "system": "rw-aur",
+    "image_id": "rw-aur_taurus-long2019",
+    "file": "images/rw-aur/rw-aur_taurus-long2019.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "dq-tau",
+    "image_id": "dq-tau_alice-f110w",
+    "file": "images/dq-tau/dq-tau_alice-f110w.png"
+   },
+   "b": {
+    "system": "twa-25",
+    "image_id": "twa-25_alice-f160w",
+    "file": "images/twa-25/twa-25_alice-f160w.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "elias-24",
+    "image_id": "elias-24_dsharp",
+    "file": "images/elias-24/elias-24_dsharp.png"
+   },
+   "b": {
+    "system": "hip-78530",
+    "image_id": "hip-78530_niri2011",
+    "file": "images/hip-78530/hip-78530_niri2011.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "elias-24",
+    "image_id": "elias-24_dsharp",
+    "file": "images/elias-24/elias-24_dsharp.png"
+   },
+   "b": {
+    "system": "tmc-1a",
+    "image_id": "tmc-1a_edisk",
+    "file": "images/tmc-1a/tmc-1a_edisk.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "elias-24",
+    "image_id": "elias-24_dsharp",
+    "file": "images/elias-24/elias-24_dsharp.png"
+   },
+   "b": {
+    "system": "vega",
+    "image_id": "vega_reasons",
+    "file": "images/vega/vega_reasons.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "elias-24",
+    "image_id": "elias-24_dsharp",
+    "file": "images/elias-24/elias-24_dsharp.png"
+   },
+   "b": {
+    "system": "waoph-6",
+    "image_id": "waoph-6_dsharp",
+    "file": "images/waoph-6/waoph-6_dsharp.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "flying-saucer",
+    "image_id": "flying-saucer_alma-martinien",
+    "file": "images/flying-saucer/flying-saucer_alma-martinien.png"
+   },
+   "b": {
+    "system": "hd-100546",
+    "image_id": "hd-100546_atca2015",
+    "file": "images/hd-100546/hd-100546_atca2015.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "flying-saucer",
+    "image_id": "flying-saucer_alma-martinien",
+    "file": "images/flying-saucer/flying-saucer_alma-martinien.png"
+   },
+   "b": {
+    "system": "hd-141569",
+    "image_id": "hd-141569_gemini-lights",
+    "file": "images/hd-141569/hd-141569_gemini-lights.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "flying-saucer",
+    "image_id": "flying-saucer_alma-martinien",
+    "file": "images/flying-saucer/flying-saucer_alma-martinien.png"
+   },
+   "b": {
+    "system": "hd-142666",
+    "image_id": "hd-142666_gemini-lights",
+    "file": "images/hd-142666/hd-142666_gemini-lights.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "flying-saucer",
+    "image_id": "flying-saucer_alma-martinien",
+    "file": "images/flying-saucer/flying-saucer_alma-martinien.png"
+   },
+   "b": {
+    "system": "iras-04158-2805",
+    "image_id": "iras-04158-2805_edgeon-alma2020-b4",
+    "file": "images/iras-04158-2805/iras-04158-2805_edgeon-alma2020-b4.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "flying-saucer",
+    "image_id": "flying-saucer_alma-martinien",
+    "file": "images/flying-saucer/flying-saucer_alma-martinien.png"
+   },
+   "b": {
+    "system": "pg-1116-215",
+    "image_id": "pg-1116-215_bahcall1994",
+    "file": "images/pg-1116-215/pg-1116-215_bahcall1994.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "flying-saucer",
+    "image_id": "flying-saucer_alma-martinien",
+    "file": "images/flying-saucer/flying-saucer_alma-martinien.png"
+   },
+   "b": {
+    "system": "svs13a",
+    "image_id": "svs13a_alma2025",
+    "file": "images/svs13a/svs13a_alma2025.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "flying-saucer",
+    "image_id": "flying-saucer_alma-martinien",
+    "file": "images/flying-saucer/flying-saucer_alma-martinien.png"
+   },
+   "b": {
+    "system": "tau-042021",
+    "image_id": "tau-042021_edgeon-alma2020-b4",
+    "file": "images/tau-042021/tau-042021_edgeon-alma2020-b4.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "flying-saucer",
+    "image_id": "flying-saucer_alma-martinien",
+    "file": "images/flying-saucer/flying-saucer_alma-martinien.png"
+   },
+   "b": {
+    "system": "tw-hya",
+    "image_id": "tw-hya_eris2025",
+    "file": "images/tw-hya/tw-hya_eris2025.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "gg-tau",
+    "image_id": "gg-tau_nicmos2002",
+    "file": "images/gg-tau/gg-tau_nicmos2002.png"
+   },
+   "b": {
+    "system": "gsc-6214-210",
+    "image_id": "gsc-6214-210_sphere2021",
+    "file": "images/gsc-6214-210/gsc-6214-210_sphere2021.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "gg-tau",
+    "image_id": "gg-tau_nicmos2002",
+    "file": "images/gg-tau/gg-tau_nicmos2002.png"
+   },
+   "b": {
+    "system": "hd-100546",
+    "image_id": "hd-100546_atca2015",
+    "file": "images/hd-100546/hd-100546_atca2015.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "gg-tau",
+    "image_id": "gg-tau_nicmos2002",
+    "file": "images/gg-tau/gg-tau_nicmos2002.png"
+   },
+   "b": {
+    "system": "hd-141569",
+    "image_id": "hd-141569_gemini-lights",
+    "file": "images/hd-141569/hd-141569_gemini-lights.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "gg-tau",
+    "image_id": "gg-tau_nicmos2002",
+    "file": "images/gg-tau/gg-tau_nicmos2002.png"
+   },
+   "b": {
+    "system": "hd-142666",
+    "image_id": "hd-142666_gemini-lights",
+    "file": "images/hd-142666/hd-142666_gemini-lights.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "gg-tau",
+    "image_id": "gg-tau_nicmos2002",
+    "file": "images/gg-tau/gg-tau_nicmos2002.png"
+   },
+   "b": {
+    "system": "iras-04158-2805",
+    "image_id": "iras-04158-2805_edgeon-alma2020-b4",
+    "file": "images/iras-04158-2805/iras-04158-2805_edgeon-alma2020-b4.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "gg-tau",
+    "image_id": "gg-tau_nicmos2002",
+    "file": "images/gg-tau/gg-tau_nicmos2002.png"
+   },
+   "b": {
+    "system": "pg-1116-215",
+    "image_id": "pg-1116-215_bahcall1994",
+    "file": "images/pg-1116-215/pg-1116-215_bahcall1994.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "gg-tau",
+    "image_id": "gg-tau_nicmos2002",
+    "file": "images/gg-tau/gg-tau_nicmos2002.png"
+   },
+   "b": {
+    "system": "svs13a",
+    "image_id": "svs13a_alma2025",
+    "file": "images/svs13a/svs13a_alma2025.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "gg-tau",
+    "image_id": "gg-tau_nicmos2002",
+    "file": "images/gg-tau/gg-tau_nicmos2002.png"
+   },
+   "b": {
+    "system": "tw-hya",
+    "image_id": "tw-hya_eris2025",
+    "file": "images/tw-hya/tw-hya_eris2025.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "gk-tau",
+    "image_id": "gk-tau_taurus-long2019",
+    "file": "images/gk-tau/gk-tau_taurus-long2019.png"
+   },
+   "b": {
+    "system": "hn-tau",
+    "image_id": "hn-tau_taurus-long2019",
+    "file": "images/hn-tau/hn-tau_taurus-long2019.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "gk-tau",
+    "image_id": "gk-tau_taurus-long2019",
+    "file": "images/gk-tau/gk-tau_taurus-long2019.png"
+   },
+   "b": {
+    "system": "rw-aur",
+    "image_id": "rw-aur_taurus-long2019",
+    "file": "images/rw-aur/rw-aur_taurus-long2019.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "gq-lup",
+    "image_id": "gq-lup_miri-mrs2024",
+    "file": "images/gq-lup/gq-lup_miri-mrs2024.png"
+   },
+   "b": {
+    "system": "hd-100546",
+    "image_id": "hd-100546_atca2015",
+    "file": "images/hd-100546/hd-100546_atca2015.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "gq-lup",
+    "image_id": "gq-lup_miri-mrs2024",
+    "file": "images/gq-lup/gq-lup_miri-mrs2024.png"
+   },
+   "b": {
+    "system": "hd-111520",
+    "image_id": "hd-111520_sphere-rdi-xie22",
+    "file": "images/hd-111520/hd-111520_sphere-rdi-xie22.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "gq-lup",
+    "image_id": "gq-lup_miri-mrs2024",
+    "file": "images/gq-lup/gq-lup_miri-mrs2024.png"
+   },
+   "b": {
+    "system": "hd-141569",
+    "image_id": "hd-141569_gemini-lights",
+    "file": "images/hd-141569/hd-141569_gemini-lights.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "gq-lup",
+    "image_id": "gq-lup_miri-mrs2024",
+    "file": "images/gq-lup/gq-lup_miri-mrs2024.png"
+   },
+   "b": {
+    "system": "hd-142666",
+    "image_id": "hd-142666_gemini-lights",
+    "file": "images/hd-142666/hd-142666_gemini-lights.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "gq-lup",
+    "image_id": "gq-lup_miri-mrs2024",
+    "file": "images/gq-lup/gq-lup_miri-mrs2024.png"
+   },
+   "b": {
+    "system": "iras-04158-2805",
+    "image_id": "iras-04158-2805_edgeon-alma2020-b4",
+    "file": "images/iras-04158-2805/iras-04158-2805_edgeon-alma2020-b4.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "gq-lup",
+    "image_id": "gq-lup_miri-mrs2024",
+    "file": "images/gq-lup/gq-lup_miri-mrs2024.png"
+   },
+   "b": {
+    "system": "mwc-480",
+    "image_id": "mwc-480_bima2006",
+    "file": "images/mwc-480/mwc-480_bima2006.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "gq-lup",
+    "image_id": "gq-lup_miri-mrs2024",
+    "file": "images/gq-lup/gq-lup_miri-mrs2024.png"
+   },
+   "b": {
+    "system": "pds-66",
+    "image_id": "pds-66_gemini-lights",
+    "file": "images/pds-66/pds-66_gemini-lights.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "gq-lup",
+    "image_id": "gq-lup_miri-mrs2024",
+    "file": "images/gq-lup/gq-lup_miri-mrs2024.png"
+   },
+   "b": {
+    "system": "pg-0953-414",
+    "image_id": "pg-0953-414_bahcall1994",
+    "file": "images/pg-0953-414/pg-0953-414_bahcall1994.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "gq-lup",
+    "image_id": "gq-lup_miri-mrs2024",
+    "file": "images/gq-lup/gq-lup_miri-mrs2024.png"
+   },
+   "b": {
+    "system": "pg-1116-215",
+    "image_id": "pg-1116-215_bahcall1994",
+    "file": "images/pg-1116-215/pg-1116-215_bahcall1994.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "gq-lup",
+    "image_id": "gq-lup_miri-mrs2024",
+    "file": "images/gq-lup/gq-lup_miri-mrs2024.png"
+   },
+   "b": {
+    "system": "pg-1116-215",
+    "image_id": "pg-1116-215_nicmos2009",
+    "file": "images/pg-1116-215/pg-1116-215_nicmos2009.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "gq-lup",
+    "image_id": "gq-lup_miri-mrs2024",
+    "file": "images/gq-lup/gq-lup_miri-mrs2024.png"
+   },
+   "b": {
+    "system": "pks-1302-102",
+    "image_id": "pks-1302-102_bahcall1995",
+    "file": "images/pks-1302-102/pks-1302-102_bahcall1995.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "gq-lup",
+    "image_id": "gq-lup_miri-mrs2024",
+    "file": "images/gq-lup/gq-lup_miri-mrs2024.png"
+   },
+   "b": {
+    "system": "svs13a",
+    "image_id": "svs13a_alma2025",
+    "file": "images/svs13a/svs13a_alma2025.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "gq-lup",
+    "image_id": "gq-lup_miri-mrs2024",
+    "file": "images/gq-lup/gq-lup_miri-mrs2024.png"
+   },
+   "b": {
+    "system": "sz-cha",
+    "image_id": "sz-cha_sphere-rdi-xie22",
+    "file": "images/sz-cha/sz-cha_sphere-rdi-xie22.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "gq-lup",
+    "image_id": "gq-lup_miri-mrs2024",
+    "file": "images/gq-lup/gq-lup_miri-mrs2024.png"
+   },
+   "b": {
+    "system": "tw-hya",
+    "image_id": "tw-hya_eris2025",
+    "file": "images/tw-hya/tw-hya_eris2025.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "gsc-6214-210",
+    "image_id": "gsc-6214-210_sphere2021",
+    "file": "images/gsc-6214-210/gsc-6214-210_sphere2021.png"
+   },
+   "b": {
+    "system": "hd-100546",
+    "image_id": "hd-100546_atca2015",
+    "file": "images/hd-100546/hd-100546_atca2015.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "gsc-6214-210",
+    "image_id": "gsc-6214-210_sphere2021",
+    "file": "images/gsc-6214-210/gsc-6214-210_sphere2021.png"
+   },
+   "b": {
+    "system": "hd-141569",
+    "image_id": "hd-141569_gemini-lights",
+    "file": "images/hd-141569/hd-141569_gemini-lights.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "gsc-6214-210",
+    "image_id": "gsc-6214-210_sphere2021",
+    "file": "images/gsc-6214-210/gsc-6214-210_sphere2021.png"
+   },
+   "b": {
+    "system": "hd-142666",
+    "image_id": "hd-142666_gemini-lights",
+    "file": "images/hd-142666/hd-142666_gemini-lights.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "gsc-6214-210",
+    "image_id": "gsc-6214-210_sphere2021",
+    "file": "images/gsc-6214-210/gsc-6214-210_sphere2021.png"
+   },
+   "b": {
+    "system": "hip-64892",
+    "image_id": "hip-64892_sphere2018",
+    "file": "images/hip-64892/hip-64892_sphere2018.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "gsc-6214-210",
+    "image_id": "gsc-6214-210_sphere2021",
+    "file": "images/gsc-6214-210/gsc-6214-210_sphere2021.png"
+   },
+   "b": {
+    "system": "iras-04158-2805",
+    "image_id": "iras-04158-2805_edgeon-alma2020-b4",
+    "file": "images/iras-04158-2805/iras-04158-2805_edgeon-alma2020-b4.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "gsc-6214-210",
+    "image_id": "gsc-6214-210_sphere2021",
+    "file": "images/gsc-6214-210/gsc-6214-210_sphere2021.png"
+   },
+   "b": {
+    "system": "pg-1116-215",
+    "image_id": "pg-1116-215_bahcall1994",
+    "file": "images/pg-1116-215/pg-1116-215_bahcall1994.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "gsc-6214-210",
+    "image_id": "gsc-6214-210_sphere2021",
+    "file": "images/gsc-6214-210/gsc-6214-210_sphere2021.png"
+   },
+   "b": {
+    "system": "pg-1307-085",
+    "image_id": "pg-1307-085_bahcall1994",
+    "file": "images/pg-1307-085/pg-1307-085_bahcall1994.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "gsc-6214-210",
+    "image_id": "gsc-6214-210_sphere2021",
+    "file": "images/gsc-6214-210/gsc-6214-210_sphere2021.png"
+   },
+   "b": {
+    "system": "pks-1302-102",
+    "image_id": "pks-1302-102_bahcall1995",
+    "file": "images/pks-1302-102/pks-1302-102_bahcall1995.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "gsc-6214-210",
+    "image_id": "gsc-6214-210_sphere2021",
+    "file": "images/gsc-6214-210/gsc-6214-210_sphere2021.png"
+   },
+   "b": {
+    "system": "svs13a",
+    "image_id": "svs13a_alma2025",
+    "file": "images/svs13a/svs13a_alma2025.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "gsc-6214-210",
+    "image_id": "gsc-6214-210_sphere2021",
+    "file": "images/gsc-6214-210/gsc-6214-210_sphere2021.png"
+   },
+   "b": {
+    "system": "tw-hya",
+    "image_id": "tw-hya_eris2025",
+    "file": "images/tw-hya/tw-hya_eris2025.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "gw-lup",
+    "image_id": "gw-lup_dsharp",
+    "file": "images/gw-lup/gw-lup_dsharp.png"
+   },
+   "b": {
+    "system": "hip-78530",
+    "image_id": "hip-78530_niri2011",
+    "file": "images/hip-78530/hip-78530_niri2011.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "gw-lup",
+    "image_id": "gw-lup_dsharp",
+    "file": "images/gw-lup/gw-lup_dsharp.png"
+   },
+   "b": {
+    "system": "tmc-1a",
+    "image_id": "tmc-1a_edisk",
+    "file": "images/tmc-1a/tmc-1a_edisk.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "gw-lup",
+    "image_id": "gw-lup_dsharp",
+    "file": "images/gw-lup/gw-lup_dsharp.png"
+   },
+   "b": {
+    "system": "vega",
+    "image_id": "vega_reasons",
+    "file": "images/vega/vega_reasons.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "gw-lup",
+    "image_id": "gw-lup_dsharp",
+    "file": "images/gw-lup/gw-lup_dsharp.png"
+   },
+   "b": {
+    "system": "waoph-6",
+    "image_id": "waoph-6_dsharp",
+    "file": "images/waoph-6/waoph-6_dsharp.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "hd-100453",
+    "image_id": "hd-100453_gemini-lights",
+    "file": "images/hd-100453/hd-100453_gemini-lights.png"
+   },
+   "b": {
+    "system": "hd-100546",
+    "image_id": "hd-100546_atca2015",
+    "file": "images/hd-100546/hd-100546_atca2015.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "hd-100453",
+    "image_id": "hd-100453_gemini-lights",
+    "file": "images/hd-100453/hd-100453_gemini-lights.png"
+   },
+   "b": {
+    "system": "hd-141569",
+    "image_id": "hd-141569_gemini-lights",
+    "file": "images/hd-141569/hd-141569_gemini-lights.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "hd-100453",
+    "image_id": "hd-100453_gemini-lights",
+    "file": "images/hd-100453/hd-100453_gemini-lights.png"
+   },
+   "b": {
+    "system": "hd-142666",
+    "image_id": "hd-142666_gemini-lights",
+    "file": "images/hd-142666/hd-142666_gemini-lights.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "hd-100453",
+    "image_id": "hd-100453_gemini-lights",
+    "file": "images/hd-100453/hd-100453_gemini-lights.png"
+   },
+   "b": {
+    "system": "hd-145718",
+    "image_id": "hd-145718_gemini-lights",
+    "file": "images/hd-145718/hd-145718_gemini-lights.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "hd-100453",
+    "image_id": "hd-100453_gemini-lights",
+    "file": "images/hd-100453/hd-100453_gemini-lights.png"
+   },
+   "b": {
+    "system": "ht-lup",
+    "image_id": "ht-lup_gemini-lights",
+    "file": "images/ht-lup/ht-lup_gemini-lights.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "hd-100453",
+    "image_id": "hd-100453_gemini-lights",
+    "file": "images/hd-100453/hd-100453_gemini-lights.png"
+   },
+   "b": {
+    "system": "iras-04158-2805",
+    "image_id": "iras-04158-2805_edgeon-alma2020-b4",
+    "file": "images/iras-04158-2805/iras-04158-2805_edgeon-alma2020-b4.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "hd-100453",
+    "image_id": "hd-100453_gemini-lights",
+    "file": "images/hd-100453/hd-100453_gemini-lights.png"
+   },
+   "b": {
+    "system": "mwc-297",
+    "image_id": "mwc-297_gemini-lights",
+    "file": "images/mwc-297/mwc-297_gemini-lights.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "hd-100453",
+    "image_id": "hd-100453_gemini-lights",
+    "file": "images/hd-100453/hd-100453_gemini-lights.png"
+   },
+   "b": {
+    "system": "mwc-789",
+    "image_id": "mwc-789_gemini-lights",
+    "file": "images/mwc-789/mwc-789_gemini-lights.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "hd-100453",
+    "image_id": "hd-100453_gemini-lights",
+    "file": "images/hd-100453/hd-100453_gemini-lights.png"
+   },
+   "b": {
+    "system": "oph-irs-48",
+    "image_id": "oph-irs-48_sma2012",
+    "file": "images/oph-irs-48/oph-irs-48_sma2012.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "hd-100453",
+    "image_id": "hd-100453_gemini-lights",
+    "file": "images/hd-100453/hd-100453_gemini-lights.png"
+   },
+   "b": {
+    "system": "pg-1116-215",
+    "image_id": "pg-1116-215_bahcall1994",
+    "file": "images/pg-1116-215/pg-1116-215_bahcall1994.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "hd-100453",
+    "image_id": "hd-100453_gemini-lights",
+    "file": "images/hd-100453/hd-100453_gemini-lights.png"
+   },
+   "b": {
+    "system": "svs13a",
+    "image_id": "svs13a_alma2025",
+    "file": "images/svs13a/svs13a_alma2025.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "hd-100453",
+    "image_id": "hd-100453_gemini-lights",
+    "file": "images/hd-100453/hd-100453_gemini-lights.png"
+   },
+   "b": {
+    "system": "tw-hya",
+    "image_id": "tw-hya_eris2025",
+    "file": "images/tw-hya/tw-hya_eris2025.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "hd-100546",
+    "image_id": "hd-100546_atca2015",
+    "file": "images/hd-100546/hd-100546_atca2015.png"
+   },
+   "b": {
+    "system": "hd-111520",
+    "image_id": "hd-111520_sphere-rdi-xie22",
+    "file": "images/hd-111520/hd-111520_sphere-rdi-xie22.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "hd-100546",
+    "image_id": "hd-100546_atca2015",
+    "file": "images/hd-100546/hd-100546_atca2015.png"
+   },
+   "b": {
+    "system": "hd-135344-a",
+    "image_id": "hd-135344-a_gravity2025",
+    "file": "images/hd-135344-a/hd-135344-a_gravity2025.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "hd-100546",
+    "image_id": "hd-100546_atca2015",
+    "file": "images/hd-100546/hd-100546_atca2015.png"
+   },
+   "b": {
+    "system": "hd-145718",
+    "image_id": "hd-145718_gemini-lights",
+    "file": "images/hd-145718/hd-145718_gemini-lights.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "hd-100546",
+    "image_id": "hd-100546_atca2015",
+    "file": "images/hd-100546/hd-100546_atca2015.png"
+   },
+   "b": {
+    "system": "hd-163296",
+    "image_id": "hd-163296_nircam2025",
+    "file": "images/hd-163296/hd-163296_nircam2025.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "hd-100546",
+    "image_id": "hd-100546_atca2015",
+    "file": "images/hd-100546/hd-100546_atca2015.png"
+   },
+   "b": {
+    "system": "hd-163296",
+    "image_id": "hd-163296_pdbi-1.3mm2007",
+    "file": "images/hd-163296/hd-163296_pdbi-1.3mm2007.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "hd-100546",
+    "image_id": "hd-100546_atca2015",
+    "file": "images/hd-100546/hd-100546_atca2015.png"
+   },
+   "b": {
+    "system": "hd-163296",
+    "image_id": "hd-163296_pdbi-2.8mm2007",
+    "file": "images/hd-163296/hd-163296_pdbi-2.8mm2007.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "hd-100546",
+    "image_id": "hd-100546_atca2015",
+    "file": "images/hd-100546/hd-100546_atca2015.png"
+   },
+   "b": {
+    "system": "hd-32297",
+    "image_id": "hd-32297_lbti2014",
+    "file": "images/hd-32297/hd-32297_lbti2014.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "hd-100546",
+    "image_id": "hd-100546_atca2015",
+    "file": "images/hd-100546/hd-100546_atca2015.png"
+   },
+   "b": {
+    "system": "hd-34700",
+    "image_id": "hd-34700_sma2020",
+    "file": "images/hd-34700/hd-34700_sma2020.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "hd-100546",
+    "image_id": "hd-100546_atca2015",
+    "file": "images/hd-100546/hd-100546_atca2015.png"
+   },
+   "b": {
+    "system": "hd-97048",
+    "image_id": "hd-97048_gemini-lights",
+    "file": "images/hd-97048/hd-97048_gemini-lights.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "hd-100546",
+    "image_id": "hd-100546_atca2015",
+    "file": "images/hd-100546/hd-100546_atca2015.png"
+   },
+   "b": {
+    "system": "hip-64892",
+    "image_id": "hip-64892_sphere2018",
+    "file": "images/hip-64892/hip-64892_sphere2018.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "hd-100546",
+    "image_id": "hd-100546_atca2015",
+    "file": "images/hd-100546/hd-100546_atca2015.png"
+   },
+   "b": {
+    "system": "hr-8799",
+    "image_id": "hr-8799_gravity2019",
+    "file": "images/hr-8799/hr-8799_gravity2019.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "hd-100546",
+    "image_id": "hd-100546_atca2015",
+    "file": "images/hd-100546/hd-100546_atca2015.png"
+   },
+   "b": {
+    "system": "hr-8799",
+    "image_id": "hr-8799_p1640-2015",
+    "file": "images/hr-8799/hr-8799_p1640-2015.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "hd-100546",
+    "image_id": "hd-100546_atca2015",
+    "file": "images/hd-100546/hd-100546_atca2015.png"
+   },
+   "b": {
+    "system": "hr-8799",
+    "image_id": "hr-8799_bergfors2011-naco",
+    "file": "images/hr-8799/hr-8799_bergfors2011-naco.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "hd-100546",
+    "image_id": "hd-100546_atca2015",
+    "file": "images/hd-100546/hd-100546_atca2015.png"
+   },
+   "b": {
+    "system": "iras-04302-2247",
+    "image_id": "iras-04302-2247_edgeon-alma2020-b4",
+    "file": "images/iras-04302-2247/iras-04302-2247_edgeon-alma2020-b4.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "hd-100546",
+    "image_id": "hd-100546_atca2015",
+    "file": "images/hd-100546/hd-100546_atca2015.png"
+   },
+   "b": {
+    "system": "mwc-480",
+    "image_id": "mwc-480_bima2006",
+    "file": "images/mwc-480/mwc-480_bima2006.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "hd-100546",
+    "image_id": "hd-100546_atca2015",
+    "file": "images/hd-100546/hd-100546_atca2015.png"
+   },
+   "b": {
+    "system": "pds-66",
+    "image_id": "pds-66_gemini-lights",
+    "file": "images/pds-66/pds-66_gemini-lights.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "hd-100546",
+    "image_id": "hd-100546_atca2015",
+    "file": "images/hd-100546/hd-100546_atca2015.png"
+   },
+   "b": {
+    "system": "pg-0953-414",
+    "image_id": "pg-0953-414_bahcall1994",
+    "file": "images/pg-0953-414/pg-0953-414_bahcall1994.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "hd-100546",
+    "image_id": "hd-100546_atca2015",
+    "file": "images/hd-100546/hd-100546_atca2015.png"
+   },
+   "b": {
+    "system": "pg-1116-215",
+    "image_id": "pg-1116-215_nicmos2009",
+    "file": "images/pg-1116-215/pg-1116-215_nicmos2009.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "hd-100546",
+    "image_id": "hd-100546_atca2015",
+    "file": "images/hd-100546/hd-100546_atca2015.png"
+   },
+   "b": {
+    "system": "pg-1307-085",
+    "image_id": "pg-1307-085_bahcall1994",
+    "file": "images/pg-1307-085/pg-1307-085_bahcall1994.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "hd-100546",
+    "image_id": "hd-100546_atca2015",
+    "file": "images/hd-100546/hd-100546_atca2015.png"
+   },
+   "b": {
+    "system": "pg-1444-407",
+    "image_id": "pg-1444-407_bahcall1995",
+    "file": "images/pg-1444-407/pg-1444-407_bahcall1995.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "hd-100546",
+    "image_id": "hd-100546_atca2015",
+    "file": "images/hd-100546/hd-100546_atca2015.png"
+   },
+   "b": {
+    "system": "pks-1302-102",
+    "image_id": "pks-1302-102_bahcall1995",
+    "file": "images/pks-1302-102/pks-1302-102_bahcall1995.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "hd-100546",
+    "image_id": "hd-100546_atca2015",
+    "file": "images/hd-100546/hd-100546_atca2015.png"
+   },
+   "b": {
+    "system": "tau-042021",
+    "image_id": "tau-042021_edgeon-alma2020-b4",
+    "file": "images/tau-042021/tau-042021_edgeon-alma2020-b4.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "hd-100546",
+    "image_id": "hd-100546_atca2015",
+    "file": "images/hd-100546/hd-100546_atca2015.png"
+   },
+   "b": {
+    "system": "ww-cha",
+    "image_id": "ww-cha_gravity2021",
+    "file": "images/ww-cha/ww-cha_gravity2021.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "hd-100546",
+    "image_id": "hd-100546_eris2025",
+    "file": "images/hd-100546/hd-100546_eris2025.png"
+   },
+   "b": {
+    "system": "hd-163296",
+    "image_id": "hd-163296_eris2025",
+    "file": "images/hd-163296/hd-163296_eris2025.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "hd-105",
+    "image_id": "hd-105_alice-f160w",
+    "file": "images/hd-105/hd-105_alice-f160w.png"
+   },
+   "b": {
+    "system": "hd-107146",
+    "image_id": "hd-107146_alice-f110w",
+    "file": "images/hd-107146/hd-107146_alice-f110w.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "hd-105",
+    "image_id": "hd-105_alice-f160w",
+    "file": "images/hd-105/hd-105_alice-f160w.png"
+   },
+   "b": {
+    "system": "hd-135344b",
+    "image_id": "hd-135344b_alice-f110w",
+    "file": "images/hd-135344b/hd-135344b_alice-f110w.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "hd-105",
+    "image_id": "hd-105_alice-f160w",
+    "file": "images/hd-105/hd-105_alice-f160w.png"
+   },
+   "b": {
+    "system": "hd-142666",
+    "image_id": "hd-142666_alice-f110w",
+    "file": "images/hd-142666/hd-142666_alice-f110w.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "hd-105",
+    "image_id": "hd-105_alice-f160w",
+    "file": "images/hd-105/hd-105_alice-f160w.png"
+   },
+   "b": {
+    "system": "hd-35841",
+    "image_id": "hd-35841_alice-f110w",
+    "file": "images/hd-35841/hd-35841_alice-f110w.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "hd-107146",
+    "image_id": "hd-107146_alice-f110w",
+    "file": "images/hd-107146/hd-107146_alice-f110w.png"
+   },
+   "b": {
+    "system": "hd-135344b",
+    "image_id": "hd-135344b_alice-f110w",
+    "file": "images/hd-135344b/hd-135344b_alice-f110w.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "hd-107146",
+    "image_id": "hd-107146_alice-f110w",
+    "file": "images/hd-107146/hd-107146_alice-f110w.png"
+   },
+   "b": {
+    "system": "hd-142666",
+    "image_id": "hd-142666_alice-f110w",
+    "file": "images/hd-142666/hd-142666_alice-f110w.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "hd-107146",
+    "image_id": "hd-107146_alice-f110w",
+    "file": "images/hd-107146/hd-107146_alice-f110w.png"
+   },
+   "b": {
+    "system": "hr-8799",
+    "image_id": "hr-8799_alice-f160w",
+    "file": "images/hr-8799/hr-8799_alice-f160w.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "hd-107146",
+    "image_id": "hd-107146_alice-f110w",
+    "file": "images/hd-107146/hd-107146_alice-f110w.png"
+   },
+   "b": {
+    "system": "twa-7",
+    "image_id": "twa-7_alice-f165m",
+    "file": "images/twa-7/twa-7_alice-f165m.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "hd-111520",
+    "image_id": "hd-111520_sphere-rdi-xie22",
+    "file": "images/hd-111520/hd-111520_sphere-rdi-xie22.png"
+   },
+   "b": {
+    "system": "hd-141569",
+    "image_id": "hd-141569_gemini-lights",
+    "file": "images/hd-141569/hd-141569_gemini-lights.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "hd-111520",
+    "image_id": "hd-111520_sphere-rdi-xie22",
+    "file": "images/hd-111520/hd-111520_sphere-rdi-xie22.png"
+   },
+   "b": {
+    "system": "hd-142666",
+    "image_id": "hd-142666_gemini-lights",
+    "file": "images/hd-142666/hd-142666_gemini-lights.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "hd-111520",
+    "image_id": "hd-111520_sphere-rdi-xie22",
+    "file": "images/hd-111520/hd-111520_sphere-rdi-xie22.png"
+   },
+   "b": {
+    "system": "hd-15115",
+    "image_id": "hd-15115_sphere-rdi-xie22",
+    "file": "images/hd-15115/hd-15115_sphere-rdi-xie22.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "hd-111520",
+    "image_id": "hd-111520_sphere-rdi-xie22",
+    "file": "images/hd-111520/hd-111520_sphere-rdi-xie22.png"
+   },
+   "b": {
+    "system": "hd-169142",
+    "image_id": "hd-169142_sphere-rdi-xie22",
+    "file": "images/hd-169142/hd-169142_sphere-rdi-xie22.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "hd-111520",
+    "image_id": "hd-111520_sphere-rdi-xie22",
+    "file": "images/hd-111520/hd-111520_sphere-rdi-xie22.png"
+   },
+   "b": {
+    "system": "iras-04158-2805",
+    "image_id": "iras-04158-2805_edgeon-alma2020-b4",
+    "file": "images/iras-04158-2805/iras-04158-2805_edgeon-alma2020-b4.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "hd-111520",
+    "image_id": "hd-111520_sphere-rdi-xie22",
+    "file": "images/hd-111520/hd-111520_sphere-rdi-xie22.png"
+   },
+   "b": {
+    "system": "mwc-480",
+    "image_id": "mwc-480_bima2006",
+    "file": "images/mwc-480/mwc-480_bima2006.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "hd-111520",
+    "image_id": "hd-111520_sphere-rdi-xie22",
+    "file": "images/hd-111520/hd-111520_sphere-rdi-xie22.png"
+   },
+   "b": {
+    "system": "pds-66",
+    "image_id": "pds-66_gemini-lights",
+    "file": "images/pds-66/pds-66_gemini-lights.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "hd-111520",
+    "image_id": "hd-111520_sphere-rdi-xie22",
+    "file": "images/hd-111520/hd-111520_sphere-rdi-xie22.png"
+   },
+   "b": {
+    "system": "pg-0953-414",
+    "image_id": "pg-0953-414_bahcall1994",
+    "file": "images/pg-0953-414/pg-0953-414_bahcall1994.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "hd-111520",
+    "image_id": "hd-111520_sphere-rdi-xie22",
+    "file": "images/hd-111520/hd-111520_sphere-rdi-xie22.png"
+   },
+   "b": {
+    "system": "pg-1116-215",
+    "image_id": "pg-1116-215_bahcall1994",
+    "file": "images/pg-1116-215/pg-1116-215_bahcall1994.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "hd-111520",
+    "image_id": "hd-111520_sphere-rdi-xie22",
+    "file": "images/hd-111520/hd-111520_sphere-rdi-xie22.png"
+   },
+   "b": {
+    "system": "pks-1302-102",
+    "image_id": "pks-1302-102_bahcall1995",
+    "file": "images/pks-1302-102/pks-1302-102_bahcall1995.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "hd-111520",
+    "image_id": "hd-111520_sphere-rdi-xie22",
+    "file": "images/hd-111520/hd-111520_sphere-rdi-xie22.png"
+   },
+   "b": {
+    "system": "svs13a",
+    "image_id": "svs13a_alma2025",
+    "file": "images/svs13a/svs13a_alma2025.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "hd-111520",
+    "image_id": "hd-111520_sphere-rdi-xie22",
+    "file": "images/hd-111520/hd-111520_sphere-rdi-xie22.png"
+   },
+   "b": {
+    "system": "tw-hya",
+    "image_id": "tw-hya_eris2025",
+    "file": "images/tw-hya/tw-hya_eris2025.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "hd-135344-a",
+    "image_id": "hd-135344-a_gravity2025",
+    "file": "images/hd-135344-a/hd-135344-a_gravity2025.png"
+   },
+   "b": {
+    "system": "hd-141569",
+    "image_id": "hd-141569_gemini-lights",
+    "file": "images/hd-141569/hd-141569_gemini-lights.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "hd-135344-a",
+    "image_id": "hd-135344-a_gravity2025",
+    "file": "images/hd-135344-a/hd-135344-a_gravity2025.png"
+   },
+   "b": {
+    "system": "hd-142666",
+    "image_id": "hd-142666_gemini-lights",
+    "file": "images/hd-142666/hd-142666_gemini-lights.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "hd-135344-a",
+    "image_id": "hd-135344-a_gravity2025",
+    "file": "images/hd-135344-a/hd-135344-a_gravity2025.png"
+   },
+   "b": {
+    "system": "hd-163296",
+    "image_id": "hd-163296_pdbi-1.3mm2007",
+    "file": "images/hd-163296/hd-163296_pdbi-1.3mm2007.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "hd-135344-a",
+    "image_id": "hd-135344-a_gravity2025",
+    "file": "images/hd-135344-a/hd-135344-a_gravity2025.png"
+   },
+   "b": {
+    "system": "hd-34700",
+    "image_id": "hd-34700_sma2020",
+    "file": "images/hd-34700/hd-34700_sma2020.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "hd-135344-a",
+    "image_id": "hd-135344-a_gravity2025",
+    "file": "images/hd-135344-a/hd-135344-a_gravity2025.png"
+   },
+   "b": {
+    "system": "hr-8799",
+    "image_id": "hr-8799_niri2008",
+    "file": "images/hr-8799/hr-8799_niri2008.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "hd-135344-a",
+    "image_id": "hd-135344-a_gravity2025",
+    "file": "images/hd-135344-a/hd-135344-a_gravity2025.png"
+   },
+   "b": {
+    "system": "iras-04158-2805",
+    "image_id": "iras-04158-2805_edgeon-alma2020-b4",
+    "file": "images/iras-04158-2805/iras-04158-2805_edgeon-alma2020-b4.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "hd-135344-a",
+    "image_id": "hd-135344-a_gravity2025",
+    "file": "images/hd-135344-a/hd-135344-a_gravity2025.png"
+   },
+   "b": {
+    "system": "pg-1116-215",
+    "image_id": "pg-1116-215_bahcall1994",
+    "file": "images/pg-1116-215/pg-1116-215_bahcall1994.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "hd-135344-a",
+    "image_id": "hd-135344-a_gravity2025",
+    "file": "images/hd-135344-a/hd-135344-a_gravity2025.png"
+   },
+   "b": {
+    "system": "rx-j1852-3-3700",
+    "image_id": "rx-j1852-3-3700_sphere2019",
+    "file": "images/rx-j1852-3-3700/rx-j1852-3-3700_sphere2019.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "hd-135344-a",
+    "image_id": "hd-135344-a_gravity2025",
+    "file": "images/hd-135344-a/hd-135344-a_gravity2025.png"
+   },
+   "b": {
+    "system": "svs13a",
+    "image_id": "svs13a_alma2025",
+    "file": "images/svs13a/svs13a_alma2025.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "hd-135344-a",
+    "image_id": "hd-135344-a_gravity2025",
+    "file": "images/hd-135344-a/hd-135344-a_gravity2025.png"
+   },
+   "b": {
+    "system": "tw-hya",
+    "image_id": "tw-hya_eris2025",
+    "file": "images/tw-hya/tw-hya_eris2025.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "hd-135344b",
+    "image_id": "hd-135344b_alice-f110w",
+    "file": "images/hd-135344b/hd-135344b_alice-f110w.png"
+   },
+   "b": {
+    "system": "hd-142666",
+    "image_id": "hd-142666_alice-f110w",
+    "file": "images/hd-142666/hd-142666_alice-f110w.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "hd-135344b",
+    "image_id": "hd-135344b_alice-f110w",
+    "file": "images/hd-135344b/hd-135344b_alice-f110w.png"
+   },
+   "b": {
+    "system": "hd-35841",
+    "image_id": "hd-35841_alice-f110w",
+    "file": "images/hd-35841/hd-35841_alice-f110w.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "hd-135344b",
+    "image_id": "hd-135344b_alice-f110w",
+    "file": "images/hd-135344b/hd-135344b_alice-f110w.png"
+   },
+   "b": {
+    "system": "hd-53143",
+    "image_id": "hd-53143_alice-f110w",
+    "file": "images/hd-53143/hd-53143_alice-f110w.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "hd-135344b",
+    "image_id": "hd-135344b_alice-f110w",
+    "file": "images/hd-135344b/hd-135344b_alice-f110w.png"
+   },
+   "b": {
+    "system": "hd-92945",
+    "image_id": "hd-92945_alice-f110w",
+    "file": "images/hd-92945/hd-92945_alice-f110w.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "hd-135344b",
+    "image_id": "hd-135344b_alice-f110w",
+    "file": "images/hd-135344b/hd-135344b_alice-f110w.png"
+   },
+   "b": {
+    "system": "hr-8799",
+    "image_id": "hr-8799_alice-f160w",
+    "file": "images/hr-8799/hr-8799_alice-f160w.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "hd-139614",
+    "image_id": "hd-139614_gemini-lights",
+    "file": "images/hd-139614/hd-139614_gemini-lights.png"
+   },
+   "b": {
+    "system": "pds-66",
+    "image_id": "pds-66_gemini-lights",
+    "file": "images/pds-66/pds-66_gemini-lights.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "hd-139664",
+    "image_id": "hd-139664_alice-f110w",
+    "file": "images/hd-139664/hd-139664_alice-f110w.png"
+   },
+   "b": {
+    "system": "hd-53143",
+    "image_id": "hd-53143_alice-f110w",
+    "file": "images/hd-53143/hd-53143_alice-f110w.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "hd-139664",
+    "image_id": "hd-139664_alice-f110w",
+    "file": "images/hd-139664/hd-139664_alice-f110w.png"
+   },
+   "b": {
+    "system": "hd-92945",
+    "image_id": "hd-92945_alice-f110w",
+    "file": "images/hd-92945/hd-92945_alice-f110w.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "hd-141569",
+    "image_id": "hd-141569_gemini-lights",
+    "file": "images/hd-141569/hd-141569_gemini-lights.png"
+   },
+   "b": {
+    "system": "hd-145718",
+    "image_id": "hd-145718_gemini-lights",
+    "file": "images/hd-145718/hd-145718_gemini-lights.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "hd-141569",
+    "image_id": "hd-141569_gemini-lights",
+    "file": "images/hd-141569/hd-141569_gemini-lights.png"
+   },
+   "b": {
+    "system": "hd-163296",
+    "image_id": "hd-163296_nircam2025",
+    "file": "images/hd-163296/hd-163296_nircam2025.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "hd-141569",
+    "image_id": "hd-141569_gemini-lights",
+    "file": "images/hd-141569/hd-141569_gemini-lights.png"
+   },
+   "b": {
+    "system": "hd-163296",
+    "image_id": "hd-163296_pdbi-1.3mm2007",
+    "file": "images/hd-163296/hd-163296_pdbi-1.3mm2007.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "hd-141569",
+    "image_id": "hd-141569_gemini-lights",
+    "file": "images/hd-141569/hd-141569_gemini-lights.png"
+   },
+   "b": {
+    "system": "hd-163296",
+    "image_id": "hd-163296_pdbi-2.8mm2007",
+    "file": "images/hd-163296/hd-163296_pdbi-2.8mm2007.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "hd-141569",
+    "image_id": "hd-141569_gemini-lights",
+    "file": "images/hd-141569/hd-141569_gemini-lights.png"
+   },
+   "b": {
+    "system": "hd-32297",
+    "image_id": "hd-32297_lbti2014",
+    "file": "images/hd-32297/hd-32297_lbti2014.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "hd-141569",
+    "image_id": "hd-141569_gemini-lights",
+    "file": "images/hd-141569/hd-141569_gemini-lights.png"
+   },
+   "b": {
+    "system": "hd-34700",
+    "image_id": "hd-34700_sma2020",
+    "file": "images/hd-34700/hd-34700_sma2020.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "hd-141569",
+    "image_id": "hd-141569_gemini-lights",
+    "file": "images/hd-141569/hd-141569_gemini-lights.png"
+   },
+   "b": {
+    "system": "hd-97048",
+    "image_id": "hd-97048_gemini-lights",
+    "file": "images/hd-97048/hd-97048_gemini-lights.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "hd-141569",
+    "image_id": "hd-141569_gemini-lights",
+    "file": "images/hd-141569/hd-141569_gemini-lights.png"
+   },
+   "b": {
+    "system": "hip-64892",
+    "image_id": "hip-64892_sphere2018",
+    "file": "images/hip-64892/hip-64892_sphere2018.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "hd-141569",
+    "image_id": "hd-141569_gemini-lights",
+    "file": "images/hd-141569/hd-141569_gemini-lights.png"
+   },
+   "b": {
+    "system": "hr-8799",
+    "image_id": "hr-8799_gravity2019",
+    "file": "images/hr-8799/hr-8799_gravity2019.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "hd-141569",
+    "image_id": "hd-141569_gemini-lights",
+    "file": "images/hd-141569/hd-141569_gemini-lights.png"
+   },
+   "b": {
+    "system": "hr-8799",
+    "image_id": "hr-8799_p1640-2015",
+    "file": "images/hr-8799/hr-8799_p1640-2015.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "hd-141569",
+    "image_id": "hd-141569_gemini-lights",
+    "file": "images/hd-141569/hd-141569_gemini-lights.png"
+   },
+   "b": {
+    "system": "hr-8799",
+    "image_id": "hr-8799_bergfors2011-naco",
+    "file": "images/hr-8799/hr-8799_bergfors2011-naco.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "hd-141569",
+    "image_id": "hd-141569_gemini-lights",
+    "file": "images/hd-141569/hd-141569_gemini-lights.png"
+   },
+   "b": {
+    "system": "iras-04302-2247",
+    "image_id": "iras-04302-2247_edgeon-alma2020-b4",
+    "file": "images/iras-04302-2247/iras-04302-2247_edgeon-alma2020-b4.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "hd-141569",
+    "image_id": "hd-141569_gemini-lights",
+    "file": "images/hd-141569/hd-141569_gemini-lights.png"
+   },
+   "b": {
+    "system": "mwc-480",
+    "image_id": "mwc-480_bima2006",
+    "file": "images/mwc-480/mwc-480_bima2006.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "hd-141569",
+    "image_id": "hd-141569_gemini-lights",
+    "file": "images/hd-141569/hd-141569_gemini-lights.png"
+   },
+   "b": {
+    "system": "pds-66",
+    "image_id": "pds-66_gemini-lights",
+    "file": "images/pds-66/pds-66_gemini-lights.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "hd-141569",
+    "image_id": "hd-141569_gemini-lights",
+    "file": "images/hd-141569/hd-141569_gemini-lights.png"
+   },
+   "b": {
+    "system": "pg-0953-414",
+    "image_id": "pg-0953-414_bahcall1994",
+    "file": "images/pg-0953-414/pg-0953-414_bahcall1994.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "hd-141569",
+    "image_id": "hd-141569_gemini-lights",
+    "file": "images/hd-141569/hd-141569_gemini-lights.png"
+   },
+   "b": {
+    "system": "pg-1116-215",
+    "image_id": "pg-1116-215_nicmos2009",
+    "file": "images/pg-1116-215/pg-1116-215_nicmos2009.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "hd-141569",
+    "image_id": "hd-141569_gemini-lights",
+    "file": "images/hd-141569/hd-141569_gemini-lights.png"
+   },
+   "b": {
+    "system": "pg-1307-085",
+    "image_id": "pg-1307-085_bahcall1994",
+    "file": "images/pg-1307-085/pg-1307-085_bahcall1994.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "hd-141569",
+    "image_id": "hd-141569_gemini-lights",
+    "file": "images/hd-141569/hd-141569_gemini-lights.png"
+   },
+   "b": {
+    "system": "pg-1444-407",
+    "image_id": "pg-1444-407_bahcall1995",
+    "file": "images/pg-1444-407/pg-1444-407_bahcall1995.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "hd-141569",
+    "image_id": "hd-141569_gemini-lights",
+    "file": "images/hd-141569/hd-141569_gemini-lights.png"
+   },
+   "b": {
+    "system": "pks-1302-102",
+    "image_id": "pks-1302-102_bahcall1995",
+    "file": "images/pks-1302-102/pks-1302-102_bahcall1995.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "hd-141569",
+    "image_id": "hd-141569_gemini-lights",
+    "file": "images/hd-141569/hd-141569_gemini-lights.png"
+   },
+   "b": {
+    "system": "tau-042021",
+    "image_id": "tau-042021_edgeon-alma2020-b4",
+    "file": "images/tau-042021/tau-042021_edgeon-alma2020-b4.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "hd-141569",
+    "image_id": "hd-141569_gemini-lights",
+    "file": "images/hd-141569/hd-141569_gemini-lights.png"
+   },
+   "b": {
+    "system": "ww-cha",
+    "image_id": "ww-cha_gravity2021",
+    "file": "images/ww-cha/ww-cha_gravity2021.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "hd-142666",
+    "image_id": "hd-142666_gemini-lights",
+    "file": "images/hd-142666/hd-142666_gemini-lights.png"
+   },
+   "b": {
+    "system": "hd-145718",
+    "image_id": "hd-145718_gemini-lights",
+    "file": "images/hd-145718/hd-145718_gemini-lights.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "hd-142666",
+    "image_id": "hd-142666_gemini-lights",
+    "file": "images/hd-142666/hd-142666_gemini-lights.png"
+   },
+   "b": {
+    "system": "hd-163296",
+    "image_id": "hd-163296_nircam2025",
+    "file": "images/hd-163296/hd-163296_nircam2025.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "hd-142666",
+    "image_id": "hd-142666_gemini-lights",
+    "file": "images/hd-142666/hd-142666_gemini-lights.png"
+   },
+   "b": {
+    "system": "hd-163296",
+    "image_id": "hd-163296_pdbi-1.3mm2007",
+    "file": "images/hd-163296/hd-163296_pdbi-1.3mm2007.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "hd-142666",
+    "image_id": "hd-142666_gemini-lights",
+    "file": "images/hd-142666/hd-142666_gemini-lights.png"
+   },
+   "b": {
+    "system": "hd-163296",
+    "image_id": "hd-163296_pdbi-2.8mm2007",
+    "file": "images/hd-163296/hd-163296_pdbi-2.8mm2007.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "hd-142666",
+    "image_id": "hd-142666_gemini-lights",
+    "file": "images/hd-142666/hd-142666_gemini-lights.png"
+   },
+   "b": {
+    "system": "hd-32297",
+    "image_id": "hd-32297_lbti2014",
+    "file": "images/hd-32297/hd-32297_lbti2014.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "hd-142666",
+    "image_id": "hd-142666_gemini-lights",
+    "file": "images/hd-142666/hd-142666_gemini-lights.png"
+   },
+   "b": {
+    "system": "hd-34700",
+    "image_id": "hd-34700_sma2020",
+    "file": "images/hd-34700/hd-34700_sma2020.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "hd-142666",
+    "image_id": "hd-142666_gemini-lights",
+    "file": "images/hd-142666/hd-142666_gemini-lights.png"
+   },
+   "b": {
+    "system": "hd-97048",
+    "image_id": "hd-97048_gemini-lights",
+    "file": "images/hd-97048/hd-97048_gemini-lights.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "hd-142666",
+    "image_id": "hd-142666_gemini-lights",
+    "file": "images/hd-142666/hd-142666_gemini-lights.png"
+   },
+   "b": {
+    "system": "hip-64892",
+    "image_id": "hip-64892_sphere2018",
+    "file": "images/hip-64892/hip-64892_sphere2018.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "hd-142666",
+    "image_id": "hd-142666_gemini-lights",
+    "file": "images/hd-142666/hd-142666_gemini-lights.png"
+   },
+   "b": {
+    "system": "hr-8799",
+    "image_id": "hr-8799_gravity2019",
+    "file": "images/hr-8799/hr-8799_gravity2019.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "hd-142666",
+    "image_id": "hd-142666_gemini-lights",
+    "file": "images/hd-142666/hd-142666_gemini-lights.png"
+   },
+   "b": {
+    "system": "hr-8799",
+    "image_id": "hr-8799_p1640-2015",
+    "file": "images/hr-8799/hr-8799_p1640-2015.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "hd-142666",
+    "image_id": "hd-142666_gemini-lights",
+    "file": "images/hd-142666/hd-142666_gemini-lights.png"
+   },
+   "b": {
+    "system": "hr-8799",
+    "image_id": "hr-8799_bergfors2011-naco",
+    "file": "images/hr-8799/hr-8799_bergfors2011-naco.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "hd-142666",
+    "image_id": "hd-142666_gemini-lights",
+    "file": "images/hd-142666/hd-142666_gemini-lights.png"
+   },
+   "b": {
+    "system": "iras-04302-2247",
+    "image_id": "iras-04302-2247_edgeon-alma2020-b4",
+    "file": "images/iras-04302-2247/iras-04302-2247_edgeon-alma2020-b4.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "hd-142666",
+    "image_id": "hd-142666_gemini-lights",
+    "file": "images/hd-142666/hd-142666_gemini-lights.png"
+   },
+   "b": {
+    "system": "mwc-480",
+    "image_id": "mwc-480_bima2006",
+    "file": "images/mwc-480/mwc-480_bima2006.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "hd-142666",
+    "image_id": "hd-142666_gemini-lights",
+    "file": "images/hd-142666/hd-142666_gemini-lights.png"
+   },
+   "b": {
+    "system": "pds-66",
+    "image_id": "pds-66_gemini-lights",
+    "file": "images/pds-66/pds-66_gemini-lights.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "hd-142666",
+    "image_id": "hd-142666_gemini-lights",
+    "file": "images/hd-142666/hd-142666_gemini-lights.png"
+   },
+   "b": {
+    "system": "pg-0953-414",
+    "image_id": "pg-0953-414_bahcall1994",
+    "file": "images/pg-0953-414/pg-0953-414_bahcall1994.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "hd-142666",
+    "image_id": "hd-142666_gemini-lights",
+    "file": "images/hd-142666/hd-142666_gemini-lights.png"
+   },
+   "b": {
+    "system": "pg-1116-215",
+    "image_id": "pg-1116-215_nicmos2009",
+    "file": "images/pg-1116-215/pg-1116-215_nicmos2009.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "hd-142666",
+    "image_id": "hd-142666_gemini-lights",
+    "file": "images/hd-142666/hd-142666_gemini-lights.png"
+   },
+   "b": {
+    "system": "pg-1307-085",
+    "image_id": "pg-1307-085_bahcall1994",
+    "file": "images/pg-1307-085/pg-1307-085_bahcall1994.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "hd-142666",
+    "image_id": "hd-142666_gemini-lights",
+    "file": "images/hd-142666/hd-142666_gemini-lights.png"
+   },
+   "b": {
+    "system": "pg-1444-407",
+    "image_id": "pg-1444-407_bahcall1995",
+    "file": "images/pg-1444-407/pg-1444-407_bahcall1995.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "hd-142666",
+    "image_id": "hd-142666_gemini-lights",
+    "file": "images/hd-142666/hd-142666_gemini-lights.png"
+   },
+   "b": {
+    "system": "pks-1302-102",
+    "image_id": "pks-1302-102_bahcall1995",
+    "file": "images/pks-1302-102/pks-1302-102_bahcall1995.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "hd-142666",
+    "image_id": "hd-142666_gemini-lights",
+    "file": "images/hd-142666/hd-142666_gemini-lights.png"
+   },
+   "b": {
+    "system": "tau-042021",
+    "image_id": "tau-042021_edgeon-alma2020-b4",
+    "file": "images/tau-042021/tau-042021_edgeon-alma2020-b4.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "hd-142666",
+    "image_id": "hd-142666_gemini-lights",
+    "file": "images/hd-142666/hd-142666_gemini-lights.png"
+   },
+   "b": {
+    "system": "ww-cha",
+    "image_id": "ww-cha_gravity2021",
+    "file": "images/ww-cha/ww-cha_gravity2021.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "hd-142666",
+    "image_id": "hd-142666_alice-f110w",
+    "file": "images/hd-142666/hd-142666_alice-f110w.png"
+   },
+   "b": {
+    "system": "hd-170773",
+    "image_id": "hd-170773_alice-f110w",
+    "file": "images/hd-170773/hd-170773_alice-f110w.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "hd-142666",
+    "image_id": "hd-142666_alice-f110w",
+    "file": "images/hd-142666/hd-142666_alice-f110w.png"
+   },
+   "b": {
+    "system": "hd-53143",
+    "image_id": "hd-53143_alice-f110w",
+    "file": "images/hd-53143/hd-53143_alice-f110w.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "hd-142666",
+    "image_id": "hd-142666_alice-f110w",
+    "file": "images/hd-142666/hd-142666_alice-f110w.png"
+   },
+   "b": {
+    "system": "hd-92945",
+    "image_id": "hd-92945_alice-f110w",
+    "file": "images/hd-92945/hd-92945_alice-f110w.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "hd-142666",
+    "image_id": "hd-142666_alice-f110w",
+    "file": "images/hd-142666/hd-142666_alice-f110w.png"
+   },
+   "b": {
+    "system": "rx-j1842-9-3532",
+    "image_id": "rx-j1842-9-3532_alice-f110w",
+    "file": "images/rx-j1842-9-3532/rx-j1842-9-3532_alice-f110w.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "hd-142666",
+    "image_id": "hd-142666_alice-f110w",
+    "file": "images/hd-142666/hd-142666_alice-f110w.png"
+   },
+   "b": {
+    "system": "twa-25",
+    "image_id": "twa-25_alice-f160w",
+    "file": "images/twa-25/twa-25_alice-f160w.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "hd-145718",
+    "image_id": "hd-145718_gemini-lights",
+    "file": "images/hd-145718/hd-145718_gemini-lights.png"
+   },
+   "b": {
+    "system": "hd-45677",
+    "image_id": "hd-45677_gemini-lights",
+    "file": "images/hd-45677/hd-45677_gemini-lights.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "hd-145718",
+    "image_id": "hd-145718_gemini-lights",
+    "file": "images/hd-145718/hd-145718_gemini-lights.png"
+   },
+   "b": {
+    "system": "hd-97048",
+    "image_id": "hd-97048_gemini-lights",
+    "file": "images/hd-97048/hd-97048_gemini-lights.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "hd-145718",
+    "image_id": "hd-145718_gemini-lights",
+    "file": "images/hd-145718/hd-145718_gemini-lights.png"
+   },
+   "b": {
+    "system": "hr-8799",
+    "image_id": "hr-8799_gravity2019",
+    "file": "images/hr-8799/hr-8799_gravity2019.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "hd-145718",
+    "image_id": "hd-145718_gemini-lights",
+    "file": "images/hd-145718/hd-145718_gemini-lights.png"
+   },
+   "b": {
+    "system": "iras-04158-2805",
+    "image_id": "iras-04158-2805_edgeon-alma2020-b4",
+    "file": "images/iras-04158-2805/iras-04158-2805_edgeon-alma2020-b4.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "hd-145718",
+    "image_id": "hd-145718_gemini-lights",
+    "file": "images/hd-145718/hd-145718_gemini-lights.png"
+   },
+   "b": {
+    "system": "mwc-297",
+    "image_id": "mwc-297_gemini-lights",
+    "file": "images/mwc-297/mwc-297_gemini-lights.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "hd-145718",
+    "image_id": "hd-145718_gemini-lights",
+    "file": "images/hd-145718/hd-145718_gemini-lights.png"
+   },
+   "b": {
+    "system": "pg-1116-215",
+    "image_id": "pg-1116-215_bahcall1994",
+    "file": "images/pg-1116-215/pg-1116-215_bahcall1994.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "hd-145718",
+    "image_id": "hd-145718_gemini-lights",
+    "file": "images/hd-145718/hd-145718_gemini-lights.png"
+   },
+   "b": {
+    "system": "svs13a",
+    "image_id": "svs13a_alma2025",
+    "file": "images/svs13a/svs13a_alma2025.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "hd-145718",
+    "image_id": "hd-145718_gemini-lights",
+    "file": "images/hd-145718/hd-145718_gemini-lights.png"
+   },
+   "b": {
+    "system": "tw-hya",
+    "image_id": "tw-hya_eris2025",
+    "file": "images/tw-hya/tw-hya_eris2025.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "hd-163296",
+    "image_id": "hd-163296_gemini-lights",
+    "file": "images/hd-163296/hd-163296_gemini-lights.png"
+   },
+   "b": {
+    "system": "hd-169142",
+    "image_id": "hd-169142_gemini-lights",
+    "file": "images/hd-169142/hd-169142_gemini-lights.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "hd-163296",
+    "image_id": "hd-163296_gemini-lights",
+    "file": "images/hd-163296/hd-163296_gemini-lights.png"
+   },
+   "b": {
+    "system": "pds-66",
+    "image_id": "pds-66_gemini-lights",
+    "file": "images/pds-66/pds-66_gemini-lights.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "hd-163296",
+    "image_id": "hd-163296_gemini-lights",
+    "file": "images/hd-163296/hd-163296_gemini-lights.png"
+   },
+   "b": {
+    "system": "pks-1302-102",
+    "image_id": "pks-1302-102_bahcall1995",
+    "file": "images/pks-1302-102/pks-1302-102_bahcall1995.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "hd-163296",
+    "image_id": "hd-163296_nircam2025",
+    "file": "images/hd-163296/hd-163296_nircam2025.png"
+   },
+   "b": {
+    "system": "hd-32297",
+    "image_id": "hd-32297_lbti2014",
+    "file": "images/hd-32297/hd-32297_lbti2014.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "hd-163296",
+    "image_id": "hd-163296_nircam2025",
+    "file": "images/hd-163296/hd-163296_nircam2025.png"
+   },
+   "b": {
+    "system": "hr-8799",
+    "image_id": "hr-8799_bergfors2011-naco",
+    "file": "images/hr-8799/hr-8799_bergfors2011-naco.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "hd-163296",
+    "image_id": "hd-163296_nircam2025",
+    "file": "images/hd-163296/hd-163296_nircam2025.png"
+   },
+   "b": {
+    "system": "iras-04158-2805",
+    "image_id": "iras-04158-2805_edgeon-alma2020-b4",
+    "file": "images/iras-04158-2805/iras-04158-2805_edgeon-alma2020-b4.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "hd-163296",
+    "image_id": "hd-163296_nircam2025",
+    "file": "images/hd-163296/hd-163296_nircam2025.png"
+   },
+   "b": {
+    "system": "pg-1116-215",
+    "image_id": "pg-1116-215_bahcall1994",
+    "file": "images/pg-1116-215/pg-1116-215_bahcall1994.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "hd-163296",
+    "image_id": "hd-163296_nircam2025",
+    "file": "images/hd-163296/hd-163296_nircam2025.png"
+   },
+   "b": {
+    "system": "pg-1307-085",
+    "image_id": "pg-1307-085_nicmos2009",
+    "file": "images/pg-1307-085/pg-1307-085_nicmos2009.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "hd-163296",
+    "image_id": "hd-163296_nircam2025",
+    "file": "images/hd-163296/hd-163296_nircam2025.png"
+   },
+   "b": {
+    "system": "svs13a",
+    "image_id": "svs13a_alma2025",
+    "file": "images/svs13a/svs13a_alma2025.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "hd-163296",
+    "image_id": "hd-163296_nircam2025",
+    "file": "images/hd-163296/hd-163296_nircam2025.png"
+   },
+   "b": {
+    "system": "tw-hya",
+    "image_id": "tw-hya_eris2025",
+    "file": "images/tw-hya/tw-hya_eris2025.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "hd-163296",
+    "image_id": "hd-163296_sma-0.87mm2007",
+    "file": "images/hd-163296/hd-163296_sma-0.87mm2007.png"
+   },
+   "b": {
+    "system": "ww-cha",
+    "image_id": "ww-cha_gravity2021",
+    "file": "images/ww-cha/ww-cha_gravity2021.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "hd-163296",
+    "image_id": "hd-163296_pdbi-1.3mm2007",
+    "file": "images/hd-163296/hd-163296_pdbi-1.3mm2007.png"
+   },
+   "b": {
+    "system": "hr-8799",
+    "image_id": "hr-8799_p1640-2015",
+    "file": "images/hr-8799/hr-8799_p1640-2015.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "hd-163296",
+    "image_id": "hd-163296_pdbi-1.3mm2007",
+    "file": "images/hd-163296/hd-163296_pdbi-1.3mm2007.png"
+   },
+   "b": {
+    "system": "iras-04158-2805",
+    "image_id": "iras-04158-2805_edgeon-alma2020-b4",
+    "file": "images/iras-04158-2805/iras-04158-2805_edgeon-alma2020-b4.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "hd-163296",
+    "image_id": "hd-163296_pdbi-1.3mm2007",
+    "file": "images/hd-163296/hd-163296_pdbi-1.3mm2007.png"
+   },
+   "b": {
+    "system": "pg-1116-215",
+    "image_id": "pg-1116-215_bahcall1994",
+    "file": "images/pg-1116-215/pg-1116-215_bahcall1994.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "hd-163296",
+    "image_id": "hd-163296_pdbi-1.3mm2007",
+    "file": "images/hd-163296/hd-163296_pdbi-1.3mm2007.png"
+   },
+   "b": {
+    "system": "svs13a",
+    "image_id": "svs13a_alma2025",
+    "file": "images/svs13a/svs13a_alma2025.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "hd-163296",
+    "image_id": "hd-163296_pdbi-1.3mm2007",
+    "file": "images/hd-163296/hd-163296_pdbi-1.3mm2007.png"
+   },
+   "b": {
+    "system": "tw-hya",
+    "image_id": "tw-hya_eris2025",
+    "file": "images/tw-hya/tw-hya_eris2025.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "hd-163296",
+    "image_id": "hd-163296_pdbi-1.3mm2007",
+    "file": "images/hd-163296/hd-163296_pdbi-1.3mm2007.png"
+   },
+   "b": {
+    "system": "wispit-1",
+    "image_id": "wispit-1_sphere2025",
+    "file": "images/wispit-1/wispit-1_sphere2025.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "hd-163296",
+    "image_id": "hd-163296_pdbi-2.8mm2007",
+    "file": "images/hd-163296/hd-163296_pdbi-2.8mm2007.png"
+   },
+   "b": {
+    "system": "iras-04158-2805",
+    "image_id": "iras-04158-2805_edgeon-alma2020-b4",
+    "file": "images/iras-04158-2805/iras-04158-2805_edgeon-alma2020-b4.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "hd-163296",
+    "image_id": "hd-163296_pdbi-2.8mm2007",
+    "file": "images/hd-163296/hd-163296_pdbi-2.8mm2007.png"
+   },
+   "b": {
+    "system": "iras-04302-2247",
+    "image_id": "iras-04302-2247_edgeon-alma2020-b4",
+    "file": "images/iras-04302-2247/iras-04302-2247_edgeon-alma2020-b4.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "hd-163296",
+    "image_id": "hd-163296_pdbi-2.8mm2007",
+    "file": "images/hd-163296/hd-163296_pdbi-2.8mm2007.png"
+   },
+   "b": {
+    "system": "pg-1116-215",
+    "image_id": "pg-1116-215_bahcall1994",
+    "file": "images/pg-1116-215/pg-1116-215_bahcall1994.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "hd-163296",
+    "image_id": "hd-163296_pdbi-2.8mm2007",
+    "file": "images/hd-163296/hd-163296_pdbi-2.8mm2007.png"
+   },
+   "b": {
+    "system": "svs13a",
+    "image_id": "svs13a_alma2025",
+    "file": "images/svs13a/svs13a_alma2025.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "hd-163296",
+    "image_id": "hd-163296_pdbi-2.8mm2007",
+    "file": "images/hd-163296/hd-163296_pdbi-2.8mm2007.png"
+   },
+   "b": {
+    "system": "tw-hya",
+    "image_id": "tw-hya_eris2025",
+    "file": "images/tw-hya/tw-hya_eris2025.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "hd-163296",
+    "image_id": "hd-163296_pdbi-2.8mm2007",
+    "file": "images/hd-163296/hd-163296_pdbi-2.8mm2007.png"
+   },
+   "b": {
+    "system": "v4046-sgr",
+    "image_id": "v4046-sgr_sma2010",
+    "file": "images/v4046-sgr/v4046-sgr_sma2010.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "hd-164249",
+    "image_id": "hd-164249_alice-f110w",
+    "file": "images/hd-164249/hd-164249_alice-f110w.png"
+   },
+   "b": {
+    "system": "hd-170773",
+    "image_id": "hd-170773_alice-f110w",
+    "file": "images/hd-170773/hd-170773_alice-f110w.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "hd-169142",
+    "image_id": "hd-169142_gemini-lights",
+    "file": "images/hd-169142/hd-169142_gemini-lights.png"
+   },
+   "b": {
+    "system": "mwc-789",
+    "image_id": "mwc-789_gemini-lights",
+    "file": "images/mwc-789/mwc-789_gemini-lights.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "hd-169142",
+    "image_id": "hd-169142_gemini-lights",
+    "file": "images/hd-169142/hd-169142_gemini-lights.png"
+   },
+   "b": {
+    "system": "pg-1307-085",
+    "image_id": "pg-1307-085_bahcall1994",
+    "file": "images/pg-1307-085/pg-1307-085_bahcall1994.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "hd-169142",
+    "image_id": "hd-169142_sphere-rdi-xie22",
+    "file": "images/hd-169142/hd-169142_sphere-rdi-xie22.png"
+   },
+   "b": {
+    "system": "ry-tau",
+    "image_id": "ry-tau_sphere-rdi-xie22",
+    "file": "images/ry-tau/ry-tau_sphere-rdi-xie22.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "hd-170773",
+    "image_id": "hd-170773_alice-f110w",
+    "file": "images/hd-170773/hd-170773_alice-f110w.png"
+   },
+   "b": {
+    "system": "rx-j1842-9-3532",
+    "image_id": "rx-j1842-9-3532_alice-f110w",
+    "file": "images/rx-j1842-9-3532/rx-j1842-9-3532_alice-f110w.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "hd-294268",
+    "image_id": "hd-294268_destinys-orion",
+    "file": "images/hd-294268/hd-294268_destinys-orion.png"
+   },
+   "b": {
+    "system": "rv-ori",
+    "image_id": "rv-ori_destinys-orion",
+    "file": "images/rv-ori/rv-ori_destinys-orion.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "hd-32297",
+    "image_id": "hd-32297_lbti2014",
+    "file": "images/hd-32297/hd-32297_lbti2014.png"
+   },
+   "b": {
+    "system": "hr-8799",
+    "image_id": "hr-8799_bergfors2011-naco",
+    "file": "images/hr-8799/hr-8799_bergfors2011-naco.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "hd-32297",
+    "image_id": "hd-32297_lbti2014",
+    "file": "images/hd-32297/hd-32297_lbti2014.png"
+   },
+   "b": {
+    "system": "iras-04158-2805",
+    "image_id": "iras-04158-2805_edgeon-alma2020-b4",
+    "file": "images/iras-04158-2805/iras-04158-2805_edgeon-alma2020-b4.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "hd-32297",
+    "image_id": "hd-32297_lbti2014",
+    "file": "images/hd-32297/hd-32297_lbti2014.png"
+   },
+   "b": {
+    "system": "pg-1116-215",
+    "image_id": "pg-1116-215_bahcall1994",
+    "file": "images/pg-1116-215/pg-1116-215_bahcall1994.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "hd-32297",
+    "image_id": "hd-32297_lbti2014",
+    "file": "images/hd-32297/hd-32297_lbti2014.png"
+   },
+   "b": {
+    "system": "svs13a",
+    "image_id": "svs13a_alma2025",
+    "file": "images/svs13a/svs13a_alma2025.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "hd-32297",
+    "image_id": "hd-32297_lbti2014",
+    "file": "images/hd-32297/hd-32297_lbti2014.png"
+   },
+   "b": {
+    "system": "tw-hya",
+    "image_id": "tw-hya_eris2025",
+    "file": "images/tw-hya/tw-hya_eris2025.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "hd-32297",
+    "image_id": "hd-32297_lbti2014",
+    "file": "images/hd-32297/hd-32297_lbti2014.png"
+   },
+   "b": {
+    "system": "ww-cha",
+    "image_id": "ww-cha_gravity2021",
+    "file": "images/ww-cha/ww-cha_gravity2021.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "hd-34700",
+    "image_id": "hd-34700_sma2020",
+    "file": "images/hd-34700/hd-34700_sma2020.png"
+   },
+   "b": {
+    "system": "hr-8799",
+    "image_id": "hr-8799_p1640-2015",
+    "file": "images/hr-8799/hr-8799_p1640-2015.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "hd-34700",
+    "image_id": "hd-34700_sma2020",
+    "file": "images/hd-34700/hd-34700_sma2020.png"
+   },
+   "b": {
+    "system": "iras-04158-2805",
+    "image_id": "iras-04158-2805_edgeon-alma2020-b4",
+    "file": "images/iras-04158-2805/iras-04158-2805_edgeon-alma2020-b4.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "hd-34700",
+    "image_id": "hd-34700_sma2020",
+    "file": "images/hd-34700/hd-34700_sma2020.png"
+   },
+   "b": {
+    "system": "pg-1116-215",
+    "image_id": "pg-1116-215_bahcall1994",
+    "file": "images/pg-1116-215/pg-1116-215_bahcall1994.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "hd-34700",
+    "image_id": "hd-34700_sma2020",
+    "file": "images/hd-34700/hd-34700_sma2020.png"
+   },
+   "b": {
+    "system": "svs13a",
+    "image_id": "svs13a_alma2025",
+    "file": "images/svs13a/svs13a_alma2025.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "hd-34700",
+    "image_id": "hd-34700_sma2020",
+    "file": "images/hd-34700/hd-34700_sma2020.png"
+   },
+   "b": {
+    "system": "tw-hya",
+    "image_id": "tw-hya_eris2025",
+    "file": "images/tw-hya/tw-hya_eris2025.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "hd-35841",
+    "image_id": "hd-35841_alice-f110w",
+    "file": "images/hd-35841/hd-35841_alice-f110w.png"
+   },
+   "b": {
+    "system": "hr-8799",
+    "image_id": "hr-8799_alice-f160w",
+    "file": "images/hr-8799/hr-8799_alice-f160w.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "hd-53143",
+    "image_id": "hd-53143_alice-f110w",
+    "file": "images/hd-53143/hd-53143_alice-f110w.png"
+   },
+   "b": {
+    "system": "tyc-9340-437-1",
+    "image_id": "tyc-9340-437-1_alice-f160w",
+    "file": "images/tyc-9340-437-1/tyc-9340-437-1_alice-f160w.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "hd-61005",
+    "image_id": "hd-61005_naco2011",
+    "file": "images/hd-61005/hd-61005_naco2011.png"
+   },
+   "b": {
+    "system": "ww-cha",
+    "image_id": "ww-cha_gravity2021",
+    "file": "images/ww-cha/ww-cha_gravity2021.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "hd-92945",
+    "image_id": "hd-92945_alice-f110w",
+    "file": "images/hd-92945/hd-92945_alice-f110w.png"
+   },
+   "b": {
+    "system": "tyc-9340-437-1",
+    "image_id": "tyc-9340-437-1_alice-f160w",
+    "file": "images/tyc-9340-437-1/tyc-9340-437-1_alice-f160w.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "hd-97048",
+    "image_id": "hd-97048_gemini-lights",
+    "file": "images/hd-97048/hd-97048_gemini-lights.png"
+   },
+   "b": {
+    "system": "ht-lup",
+    "image_id": "ht-lup_gemini-lights",
+    "file": "images/ht-lup/ht-lup_gemini-lights.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "hd-97048",
+    "image_id": "hd-97048_gemini-lights",
+    "file": "images/hd-97048/hd-97048_gemini-lights.png"
+   },
+   "b": {
+    "system": "iras-04158-2805",
+    "image_id": "iras-04158-2805_edgeon-alma2020-b4",
+    "file": "images/iras-04158-2805/iras-04158-2805_edgeon-alma2020-b4.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "hd-97048",
+    "image_id": "hd-97048_gemini-lights",
+    "file": "images/hd-97048/hd-97048_gemini-lights.png"
+   },
+   "b": {
+    "system": "mwc-297",
+    "image_id": "mwc-297_gemini-lights",
+    "file": "images/mwc-297/mwc-297_gemini-lights.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "hd-97048",
+    "image_id": "hd-97048_gemini-lights",
+    "file": "images/hd-97048/hd-97048_gemini-lights.png"
+   },
+   "b": {
+    "system": "mwc-789",
+    "image_id": "mwc-789_gemini-lights",
+    "file": "images/mwc-789/mwc-789_gemini-lights.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "hd-97048",
+    "image_id": "hd-97048_gemini-lights",
+    "file": "images/hd-97048/hd-97048_gemini-lights.png"
+   },
+   "b": {
+    "system": "oph-irs-48",
+    "image_id": "oph-irs-48_sma2012",
+    "file": "images/oph-irs-48/oph-irs-48_sma2012.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "hd-97048",
+    "image_id": "hd-97048_gemini-lights",
+    "file": "images/hd-97048/hd-97048_gemini-lights.png"
+   },
+   "b": {
+    "system": "pg-1116-215",
+    "image_id": "pg-1116-215_bahcall1994",
+    "file": "images/pg-1116-215/pg-1116-215_bahcall1994.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "hd-97048",
+    "image_id": "hd-97048_gemini-lights",
+    "file": "images/hd-97048/hd-97048_gemini-lights.png"
+   },
+   "b": {
+    "system": "svs13a",
+    "image_id": "svs13a_alma2025",
+    "file": "images/svs13a/svs13a_alma2025.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "hd-97048",
+    "image_id": "hd-97048_gemini-lights",
+    "file": "images/hd-97048/hd-97048_gemini-lights.png"
+   },
+   "b": {
+    "system": "tw-hya",
+    "image_id": "tw-hya_eris2025",
+    "file": "images/tw-hya/tw-hya_eris2025.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "hip-64892",
+    "image_id": "hip-64892_sphere2018",
+    "file": "images/hip-64892/hip-64892_sphere2018.png"
+   },
+   "b": {
+    "system": "hr-8799",
+    "image_id": "hr-8799_gravity2019",
+    "file": "images/hr-8799/hr-8799_gravity2019.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "hip-64892",
+    "image_id": "hip-64892_sphere2018",
+    "file": "images/hip-64892/hip-64892_sphere2018.png"
+   },
+   "b": {
+    "system": "iras-04158-2805",
+    "image_id": "iras-04158-2805_edgeon-alma2020-b4",
+    "file": "images/iras-04158-2805/iras-04158-2805_edgeon-alma2020-b4.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "hip-64892",
+    "image_id": "hip-64892_sphere2018",
+    "file": "images/hip-64892/hip-64892_sphere2018.png"
+   },
+   "b": {
+    "system": "pg-1116-215",
+    "image_id": "pg-1116-215_bahcall1994",
+    "file": "images/pg-1116-215/pg-1116-215_bahcall1994.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "hip-64892",
+    "image_id": "hip-64892_sphere2018",
+    "file": "images/hip-64892/hip-64892_sphere2018.png"
+   },
+   "b": {
+    "system": "pg-1116-215",
+    "image_id": "pg-1116-215_nicmos2009",
+    "file": "images/pg-1116-215/pg-1116-215_nicmos2009.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "hip-64892",
+    "image_id": "hip-64892_sphere2018",
+    "file": "images/hip-64892/hip-64892_sphere2018.png"
+   },
+   "b": {
+    "system": "pg-1307-085",
+    "image_id": "pg-1307-085_bahcall1994",
+    "file": "images/pg-1307-085/pg-1307-085_bahcall1994.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "hip-64892",
+    "image_id": "hip-64892_sphere2018",
+    "file": "images/hip-64892/hip-64892_sphere2018.png"
+   },
+   "b": {
+    "system": "pks-1302-102",
+    "image_id": "pks-1302-102_bahcall1995",
+    "file": "images/pks-1302-102/pks-1302-102_bahcall1995.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "hip-64892",
+    "image_id": "hip-64892_sphere2018",
+    "file": "images/hip-64892/hip-64892_sphere2018.png"
+   },
+   "b": {
+    "system": "svs13a",
+    "image_id": "svs13a_alma2025",
+    "file": "images/svs13a/svs13a_alma2025.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "hip-64892",
+    "image_id": "hip-64892_sphere2018",
+    "file": "images/hip-64892/hip-64892_sphere2018.png"
+   },
+   "b": {
+    "system": "tw-hya",
+    "image_id": "tw-hya_eris2025",
+    "file": "images/tw-hya/tw-hya_eris2025.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "hip-78530",
+    "image_id": "hip-78530_niri2011",
+    "file": "images/hip-78530/hip-78530_niri2011.png"
+   },
+   "b": {
+    "system": "pds-110",
+    "image_id": "pds-110_destinys-orion",
+    "file": "images/pds-110/pds-110_destinys-orion.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "hip-78530",
+    "image_id": "hip-78530_niri2011",
+    "file": "images/hip-78530/hip-78530_niri2011.png"
+   },
+   "b": {
+    "system": "waoph-6",
+    "image_id": "waoph-6_dsharp",
+    "file": "images/waoph-6/waoph-6_dsharp.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "hk-tau",
+    "image_id": "hk-tau_taurus-long2019",
+    "file": "images/hk-tau/hk-tau_taurus-long2019.png"
+   },
+   "b": {
+    "system": "hp-tau",
+    "image_id": "hp-tau_taurus-long2019",
+    "file": "images/hp-tau/hp-tau_taurus-long2019.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "hk-tau",
+    "image_id": "hk-tau_taurus-long2019",
+    "file": "images/hk-tau/hk-tau_taurus-long2019.png"
+   },
+   "b": {
+    "system": "rw-aur",
+    "image_id": "rw-aur_taurus-long2019",
+    "file": "images/rw-aur/rw-aur_taurus-long2019.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "hn-tau",
+    "image_id": "hn-tau_taurus-long2019",
+    "file": "images/hn-tau/hn-tau_taurus-long2019.png"
+   },
+   "b": {
+    "system": "rw-aur",
+    "image_id": "rw-aur_taurus-long2019",
+    "file": "images/rw-aur/rw-aur_taurus-long2019.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "hn-tau",
+    "image_id": "hn-tau_taurus-long2019",
+    "file": "images/hn-tau/hn-tau_taurus-long2019.png"
+   },
+   "b": {
+    "system": "uy-aur",
+    "image_id": "uy-aur_taurus-long2019",
+    "file": "images/uy-aur/uy-aur_taurus-long2019.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "hp-tau",
+    "image_id": "hp-tau_taurus-long2019",
+    "file": "images/hp-tau/hp-tau_taurus-long2019.png"
+   },
+   "b": {
+    "system": "rw-aur",
+    "image_id": "rw-aur_taurus-long2019",
+    "file": "images/rw-aur/rw-aur_taurus-long2019.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "hr-8799",
+    "image_id": "hr-8799_gravity2019",
+    "file": "images/hr-8799/hr-8799_gravity2019.png"
+   },
+   "b": {
+    "system": "iras-04158-2805",
+    "image_id": "iras-04158-2805_edgeon-alma2020-b4",
+    "file": "images/iras-04158-2805/iras-04158-2805_edgeon-alma2020-b4.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "hr-8799",
+    "image_id": "hr-8799_gravity2019",
+    "file": "images/hr-8799/hr-8799_gravity2019.png"
+   },
+   "b": {
+    "system": "pg-1116-215",
+    "image_id": "pg-1116-215_bahcall1994",
+    "file": "images/pg-1116-215/pg-1116-215_bahcall1994.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "hr-8799",
+    "image_id": "hr-8799_gravity2019",
+    "file": "images/hr-8799/hr-8799_gravity2019.png"
+   },
+   "b": {
+    "system": "pg-1116-215",
+    "image_id": "pg-1116-215_nicmos2009",
+    "file": "images/pg-1116-215/pg-1116-215_nicmos2009.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "hr-8799",
+    "image_id": "hr-8799_gravity2019",
+    "file": "images/hr-8799/hr-8799_gravity2019.png"
+   },
+   "b": {
+    "system": "svs13a",
+    "image_id": "svs13a_alma2025",
+    "file": "images/svs13a/svs13a_alma2025.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "hr-8799",
+    "image_id": "hr-8799_gravity2019",
+    "file": "images/hr-8799/hr-8799_gravity2019.png"
+   },
+   "b": {
+    "system": "tw-hya",
+    "image_id": "tw-hya_eris2025",
+    "file": "images/tw-hya/tw-hya_eris2025.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "hr-8799",
+    "image_id": "hr-8799_alice-f160w",
+    "file": "images/hr-8799/hr-8799_alice-f160w.png"
+   },
+   "b": {
+    "system": "twa-7",
+    "image_id": "twa-7_alice-f165m",
+    "file": "images/twa-7/twa-7_alice-f165m.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "hr-8799",
+    "image_id": "hr-8799_niri2008",
+    "file": "images/hr-8799/hr-8799_niri2008.png"
+   },
+   "b": {
+    "system": "pg-0953-414",
+    "image_id": "pg-0953-414_acshrc2006",
+    "file": "images/pg-0953-414/pg-0953-414_acshrc2006.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "hr-8799",
+    "image_id": "hr-8799_p1640-2015",
+    "file": "images/hr-8799/hr-8799_p1640-2015.png"
+   },
+   "b": {
+    "system": "iras-04158-2805",
+    "image_id": "iras-04158-2805_edgeon-alma2020-b4",
+    "file": "images/iras-04158-2805/iras-04158-2805_edgeon-alma2020-b4.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "hr-8799",
+    "image_id": "hr-8799_p1640-2015",
+    "file": "images/hr-8799/hr-8799_p1640-2015.png"
+   },
+   "b": {
+    "system": "pg-1116-215",
+    "image_id": "pg-1116-215_bahcall1994",
+    "file": "images/pg-1116-215/pg-1116-215_bahcall1994.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "hr-8799",
+    "image_id": "hr-8799_p1640-2015",
+    "file": "images/hr-8799/hr-8799_p1640-2015.png"
+   },
+   "b": {
+    "system": "rx-j1852-3-3700",
+    "image_id": "rx-j1852-3-3700_sphere2019",
+    "file": "images/rx-j1852-3-3700/rx-j1852-3-3700_sphere2019.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "hr-8799",
+    "image_id": "hr-8799_p1640-2015",
+    "file": "images/hr-8799/hr-8799_p1640-2015.png"
+   },
+   "b": {
+    "system": "svs13a",
+    "image_id": "svs13a_alma2025",
+    "file": "images/svs13a/svs13a_alma2025.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "hr-8799",
+    "image_id": "hr-8799_p1640-2015",
+    "file": "images/hr-8799/hr-8799_p1640-2015.png"
+   },
+   "b": {
+    "system": "tw-hya",
+    "image_id": "tw-hya_eris2025",
+    "file": "images/tw-hya/tw-hya_eris2025.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "hr-8799",
+    "image_id": "hr-8799_bergfors2011-naco",
+    "file": "images/hr-8799/hr-8799_bergfors2011-naco.png"
+   },
+   "b": {
+    "system": "iras-04158-2805",
+    "image_id": "iras-04158-2805_edgeon-alma2020-b4",
+    "file": "images/iras-04158-2805/iras-04158-2805_edgeon-alma2020-b4.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "hr-8799",
+    "image_id": "hr-8799_bergfors2011-naco",
+    "file": "images/hr-8799/hr-8799_bergfors2011-naco.png"
+   },
+   "b": {
+    "system": "pg-1116-215",
+    "image_id": "pg-1116-215_bahcall1994",
+    "file": "images/pg-1116-215/pg-1116-215_bahcall1994.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "hr-8799",
+    "image_id": "hr-8799_bergfors2011-naco",
+    "file": "images/hr-8799/hr-8799_bergfors2011-naco.png"
+   },
+   "b": {
+    "system": "svs13a",
+    "image_id": "svs13a_alma2025",
+    "file": "images/svs13a/svs13a_alma2025.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "hr-8799",
+    "image_id": "hr-8799_bergfors2011-naco",
+    "file": "images/hr-8799/hr-8799_bergfors2011-naco.png"
+   },
+   "b": {
+    "system": "tw-hya",
+    "image_id": "tw-hya_eris2025",
+    "file": "images/tw-hya/tw-hya_eris2025.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "ht-lup",
+    "image_id": "ht-lup_gemini-lights",
+    "file": "images/ht-lup/ht-lup_gemini-lights.png"
+   },
+   "b": {
+    "system": "mwc-789",
+    "image_id": "mwc-789_gemini-lights",
+    "file": "images/mwc-789/mwc-789_gemini-lights.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "iras-04158-2805",
+    "image_id": "iras-04158-2805_edgeon-alma2020-b4",
+    "file": "images/iras-04158-2805/iras-04158-2805_edgeon-alma2020-b4.png"
+   },
+   "b": {
+    "system": "iras-04302-2247",
+    "image_id": "iras-04302-2247_edgeon-alma2020-b4",
+    "file": "images/iras-04302-2247/iras-04302-2247_edgeon-alma2020-b4.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "iras-04158-2805",
+    "image_id": "iras-04158-2805_edgeon-alma2020-b4",
+    "file": "images/iras-04158-2805/iras-04158-2805_edgeon-alma2020-b4.png"
+   },
+   "b": {
+    "system": "mwc-480",
+    "image_id": "mwc-480_bima2006",
+    "file": "images/mwc-480/mwc-480_bima2006.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "iras-04158-2805",
+    "image_id": "iras-04158-2805_edgeon-alma2020-b4",
+    "file": "images/iras-04158-2805/iras-04158-2805_edgeon-alma2020-b4.png"
+   },
+   "b": {
+    "system": "pds-66",
+    "image_id": "pds-66_gemini-lights",
+    "file": "images/pds-66/pds-66_gemini-lights.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "iras-04158-2805",
+    "image_id": "iras-04158-2805_edgeon-alma2020-b4",
+    "file": "images/iras-04158-2805/iras-04158-2805_edgeon-alma2020-b4.png"
+   },
+   "b": {
+    "system": "pg-0953-414",
+    "image_id": "pg-0953-414_bahcall1994",
+    "file": "images/pg-0953-414/pg-0953-414_bahcall1994.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "iras-04158-2805",
+    "image_id": "iras-04158-2805_edgeon-alma2020-b4",
+    "file": "images/iras-04158-2805/iras-04158-2805_edgeon-alma2020-b4.png"
+   },
+   "b": {
+    "system": "pg-1116-215",
+    "image_id": "pg-1116-215_nicmos2009",
+    "file": "images/pg-1116-215/pg-1116-215_nicmos2009.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "iras-04158-2805",
+    "image_id": "iras-04158-2805_edgeon-alma2020-b4",
+    "file": "images/iras-04158-2805/iras-04158-2805_edgeon-alma2020-b4.png"
+   },
+   "b": {
+    "system": "pg-1307-085",
+    "image_id": "pg-1307-085_bahcall1994",
+    "file": "images/pg-1307-085/pg-1307-085_bahcall1994.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "iras-04158-2805",
+    "image_id": "iras-04158-2805_edgeon-alma2020-b4",
+    "file": "images/iras-04158-2805/iras-04158-2805_edgeon-alma2020-b4.png"
+   },
+   "b": {
+    "system": "pg-1444-407",
+    "image_id": "pg-1444-407_bahcall1995",
+    "file": "images/pg-1444-407/pg-1444-407_bahcall1995.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "iras-04158-2805",
+    "image_id": "iras-04158-2805_edgeon-alma2020-b4",
+    "file": "images/iras-04158-2805/iras-04158-2805_edgeon-alma2020-b4.png"
+   },
+   "b": {
+    "system": "pks-1302-102",
+    "image_id": "pks-1302-102_bahcall1995",
+    "file": "images/pks-1302-102/pks-1302-102_bahcall1995.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "iras-04158-2805",
+    "image_id": "iras-04158-2805_edgeon-alma2020-b4",
+    "file": "images/iras-04158-2805/iras-04158-2805_edgeon-alma2020-b4.png"
+   },
+   "b": {
+    "system": "tau-042021",
+    "image_id": "tau-042021_edgeon-alma2020-b4",
+    "file": "images/tau-042021/tau-042021_edgeon-alma2020-b4.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "iras-04158-2805",
+    "image_id": "iras-04158-2805_edgeon-alma2020-b4",
+    "file": "images/iras-04158-2805/iras-04158-2805_edgeon-alma2020-b4.png"
+   },
+   "b": {
+    "system": "ww-cha",
+    "image_id": "ww-cha_gravity2021",
+    "file": "images/ww-cha/ww-cha_gravity2021.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "iras-04302-2247",
+    "image_id": "iras-04302-2247_edgeon-alma2020-b4",
+    "file": "images/iras-04302-2247/iras-04302-2247_edgeon-alma2020-b4.png"
+   },
+   "b": {
+    "system": "pds-66",
+    "image_id": "pds-66_gemini-lights",
+    "file": "images/pds-66/pds-66_gemini-lights.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "iras-04302-2247",
+    "image_id": "iras-04302-2247_edgeon-alma2020-b4",
+    "file": "images/iras-04302-2247/iras-04302-2247_edgeon-alma2020-b4.png"
+   },
+   "b": {
+    "system": "pg-1116-215",
+    "image_id": "pg-1116-215_bahcall1994",
+    "file": "images/pg-1116-215/pg-1116-215_bahcall1994.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "iras-04302-2247",
+    "image_id": "iras-04302-2247_edgeon-alma2020-b4",
+    "file": "images/iras-04302-2247/iras-04302-2247_edgeon-alma2020-b4.png"
+   },
+   "b": {
+    "system": "pg-1444-407",
+    "image_id": "pg-1444-407_bahcall1995",
+    "file": "images/pg-1444-407/pg-1444-407_bahcall1995.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "iras-04302-2247",
+    "image_id": "iras-04302-2247_edgeon-alma2020-b4",
+    "file": "images/iras-04302-2247/iras-04302-2247_edgeon-alma2020-b4.png"
+   },
+   "b": {
+    "system": "svs13a",
+    "image_id": "svs13a_alma2025",
+    "file": "images/svs13a/svs13a_alma2025.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "iras-04302-2247",
+    "image_id": "iras-04302-2247_edgeon-alma2020-b4",
+    "file": "images/iras-04302-2247/iras-04302-2247_edgeon-alma2020-b4.png"
+   },
+   "b": {
+    "system": "tw-hya",
+    "image_id": "tw-hya_eris2025",
+    "file": "images/tw-hya/tw-hya_eris2025.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "iras-04302-2247",
+    "image_id": "iras-04302-2247_edgeon-alma2020-b4",
+    "file": "images/iras-04302-2247/iras-04302-2247_edgeon-alma2020-b4.png"
+   },
+   "b": {
+    "system": "v4046-sgr",
+    "image_id": "v4046-sgr_sma2010",
+    "file": "images/v4046-sgr/v4046-sgr_sma2010.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "iras-04302-2247",
+    "image_id": "iras-04302-2247_edgeon-alma2020-b4",
+    "file": "images/iras-04302-2247/iras-04302-2247_edgeon-alma2020-b4.png"
+   },
+   "b": {
+    "system": "ww-cha",
+    "image_id": "ww-cha_gravity2021",
+    "file": "images/ww-cha/ww-cha_gravity2021.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "iras-23077-6707",
+    "image_id": "iras-23077-6707_sma",
+    "file": "images/iras-23077-6707/iras-23077-6707_sma.png"
+   },
+   "b": {
+    "system": "pds-66",
+    "image_id": "pds-66_gemini-lights",
+    "file": "images/pds-66/pds-66_gemini-lights.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "iras-23077-6707",
+    "image_id": "iras-23077-6707_sma",
+    "file": "images/iras-23077-6707/iras-23077-6707_sma.png"
+   },
+   "b": {
+    "system": "pg-1444-407",
+    "image_id": "pg-1444-407_bahcall1995",
+    "file": "images/pg-1444-407/pg-1444-407_bahcall1995.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "iso-oph-129",
+    "image_id": "iso-oph-129_agepro",
+    "file": "images/iso-oph-129/iso-oph-129_agepro.png"
+   },
+   "b": {
+    "system": "iso-oph-165",
+    "image_id": "iso-oph-165_agepro",
+    "file": "images/iso-oph-165/iso-oph-165_agepro.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "iso-oph-129",
+    "image_id": "iso-oph-129_agepro",
+    "file": "images/iso-oph-129/iso-oph-129_agepro.png"
+   },
+   "b": {
+    "system": "iso-oph-43",
+    "image_id": "iso-oph-43_agepro",
+    "file": "images/iso-oph-43/iso-oph-43_agepro.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "iso-oph-165",
+    "image_id": "iso-oph-165_agepro",
+    "file": "images/iso-oph-165/iso-oph-165_agepro.png"
+   },
+   "b": {
+    "system": "iso-oph-43",
+    "image_id": "iso-oph-43_agepro",
+    "file": "images/iso-oph-43/iso-oph-43_agepro.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "mwc-480",
+    "image_id": "mwc-480_bima2006",
+    "file": "images/mwc-480/mwc-480_bima2006.png"
+   },
+   "b": {
+    "system": "pds-66",
+    "image_id": "pds-66_gemini-lights",
+    "file": "images/pds-66/pds-66_gemini-lights.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "mwc-480",
+    "image_id": "mwc-480_bima2006",
+    "file": "images/mwc-480/mwc-480_bima2006.png"
+   },
+   "b": {
+    "system": "pg-1116-215",
+    "image_id": "pg-1116-215_bahcall1994",
+    "file": "images/pg-1116-215/pg-1116-215_bahcall1994.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "mwc-480",
+    "image_id": "mwc-480_bima2006",
+    "file": "images/mwc-480/mwc-480_bima2006.png"
+   },
+   "b": {
+    "system": "pks-1302-102",
+    "image_id": "pks-1302-102_bahcall1995",
+    "file": "images/pks-1302-102/pks-1302-102_bahcall1995.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "mwc-480",
+    "image_id": "mwc-480_bima2006",
+    "file": "images/mwc-480/mwc-480_bima2006.png"
+   },
+   "b": {
+    "system": "svs13a",
+    "image_id": "svs13a_alma2025",
+    "file": "images/svs13a/svs13a_alma2025.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "mwc-480",
+    "image_id": "mwc-480_bima2006",
+    "file": "images/mwc-480/mwc-480_bima2006.png"
+   },
+   "b": {
+    "system": "tau-042021",
+    "image_id": "tau-042021_edgeon-alma2020-b4",
+    "file": "images/tau-042021/tau-042021_edgeon-alma2020-b4.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "mwc-480",
+    "image_id": "mwc-480_bima2006",
+    "file": "images/mwc-480/mwc-480_bima2006.png"
+   },
+   "b": {
+    "system": "tw-hya",
+    "image_id": "tw-hya_eris2025",
+    "file": "images/tw-hya/tw-hya_eris2025.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "mwc-480",
+    "image_id": "mwc-480_bima2006",
+    "file": "images/mwc-480/mwc-480_bima2006.png"
+   },
+   "b": {
+    "system": "wispit-1",
+    "image_id": "wispit-1_sphere2025",
+    "file": "images/wispit-1/wispit-1_sphere2025.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "mwc-789",
+    "image_id": "mwc-789_gemini-lights",
+    "file": "images/mwc-789/mwc-789_gemini-lights.png"
+   },
+   "b": {
+    "system": "pg-1307-085",
+    "image_id": "pg-1307-085_bahcall1994",
+    "file": "images/pg-1307-085/pg-1307-085_bahcall1994.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "pds-110",
+    "image_id": "pds-110_destinys-orion",
+    "file": "images/pds-110/pds-110_destinys-orion.png"
+   },
+   "b": {
+    "system": "tmc-1a",
+    "image_id": "tmc-1a_edisk",
+    "file": "images/tmc-1a/tmc-1a_edisk.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "pds-66",
+    "image_id": "pds-66_gemini-lights",
+    "file": "images/pds-66/pds-66_gemini-lights.png"
+   },
+   "b": {
+    "system": "pg-0953-414",
+    "image_id": "pg-0953-414_bahcall1994",
+    "file": "images/pg-0953-414/pg-0953-414_bahcall1994.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "pds-66",
+    "image_id": "pds-66_gemini-lights",
+    "file": "images/pds-66/pds-66_gemini-lights.png"
+   },
+   "b": {
+    "system": "pg-1116-215",
+    "image_id": "pg-1116-215_bahcall1994",
+    "file": "images/pg-1116-215/pg-1116-215_bahcall1994.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "pds-66",
+    "image_id": "pds-66_gemini-lights",
+    "file": "images/pds-66/pds-66_gemini-lights.png"
+   },
+   "b": {
+    "system": "pg-1444-407",
+    "image_id": "pg-1444-407_bahcall1995",
+    "file": "images/pg-1444-407/pg-1444-407_bahcall1995.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "pds-66",
+    "image_id": "pds-66_gemini-lights",
+    "file": "images/pds-66/pds-66_gemini-lights.png"
+   },
+   "b": {
+    "system": "pks-1302-102",
+    "image_id": "pks-1302-102_bahcall1995",
+    "file": "images/pks-1302-102/pks-1302-102_bahcall1995.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "pds-66",
+    "image_id": "pds-66_gemini-lights",
+    "file": "images/pds-66/pds-66_gemini-lights.png"
+   },
+   "b": {
+    "system": "svs13a",
+    "image_id": "svs13a_alma2025",
+    "file": "images/svs13a/svs13a_alma2025.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "pds-66",
+    "image_id": "pds-66_gemini-lights",
+    "file": "images/pds-66/pds-66_gemini-lights.png"
+   },
+   "b": {
+    "system": "tw-hya",
+    "image_id": "tw-hya_eris2025",
+    "file": "images/tw-hya/tw-hya_eris2025.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "pds-66",
+    "image_id": "pds-66_gemini-lights",
+    "file": "images/pds-66/pds-66_gemini-lights.png"
+   },
+   "b": {
+    "system": "ww-cha",
+    "image_id": "ww-cha_gravity2021",
+    "file": "images/ww-cha/ww-cha_gravity2021.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "pg-0953-414",
+    "image_id": "pg-0953-414_bahcall1994",
+    "file": "images/pg-0953-414/pg-0953-414_bahcall1994.png"
+   },
+   "b": {
+    "system": "pg-1116-215",
+    "image_id": "pg-1116-215_bahcall1994",
+    "file": "images/pg-1116-215/pg-1116-215_bahcall1994.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "pg-0953-414",
+    "image_id": "pg-0953-414_bahcall1994",
+    "file": "images/pg-0953-414/pg-0953-414_bahcall1994.png"
+   },
+   "b": {
+    "system": "pks-1302-102",
+    "image_id": "pks-1302-102_bahcall1995",
+    "file": "images/pks-1302-102/pks-1302-102_bahcall1995.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "pg-0953-414",
+    "image_id": "pg-0953-414_bahcall1994",
+    "file": "images/pg-0953-414/pg-0953-414_bahcall1994.png"
+   },
+   "b": {
+    "system": "svs13a",
+    "image_id": "svs13a_alma2025",
+    "file": "images/svs13a/svs13a_alma2025.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "pg-0953-414",
+    "image_id": "pg-0953-414_bahcall1994",
+    "file": "images/pg-0953-414/pg-0953-414_bahcall1994.png"
+   },
+   "b": {
+    "system": "tau-042021",
+    "image_id": "tau-042021_edgeon-alma2020-b4",
+    "file": "images/tau-042021/tau-042021_edgeon-alma2020-b4.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "pg-0953-414",
+    "image_id": "pg-0953-414_bahcall1994",
+    "file": "images/pg-0953-414/pg-0953-414_bahcall1994.png"
+   },
+   "b": {
+    "system": "tw-hya",
+    "image_id": "tw-hya_eris2025",
+    "file": "images/tw-hya/tw-hya_eris2025.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "pg-0953-414",
+    "image_id": "pg-0953-414_bahcall1994",
+    "file": "images/pg-0953-414/pg-0953-414_bahcall1994.png"
+   },
+   "b": {
+    "system": "wispit-1",
+    "image_id": "wispit-1_sphere2025",
+    "file": "images/wispit-1/wispit-1_sphere2025.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "pg-1116-215",
+    "image_id": "pg-1116-215_bahcall1994",
+    "file": "images/pg-1116-215/pg-1116-215_bahcall1994.png"
+   },
+   "b": {
+    "system": "pg-1307-085",
+    "image_id": "pg-1307-085_bahcall1994",
+    "file": "images/pg-1307-085/pg-1307-085_bahcall1994.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "pg-1116-215",
+    "image_id": "pg-1116-215_bahcall1994",
+    "file": "images/pg-1116-215/pg-1116-215_bahcall1994.png"
+   },
+   "b": {
+    "system": "pg-1444-407",
+    "image_id": "pg-1444-407_bahcall1995",
+    "file": "images/pg-1444-407/pg-1444-407_bahcall1995.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "pg-1116-215",
+    "image_id": "pg-1116-215_bahcall1994",
+    "file": "images/pg-1116-215/pg-1116-215_bahcall1994.png"
+   },
+   "b": {
+    "system": "pks-1302-102",
+    "image_id": "pks-1302-102_bahcall1995",
+    "file": "images/pks-1302-102/pks-1302-102_bahcall1995.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "pg-1116-215",
+    "image_id": "pg-1116-215_bahcall1994",
+    "file": "images/pg-1116-215/pg-1116-215_bahcall1994.png"
+   },
+   "b": {
+    "system": "tau-042021",
+    "image_id": "tau-042021_edgeon-alma2020-b4",
+    "file": "images/tau-042021/tau-042021_edgeon-alma2020-b4.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "pg-1116-215",
+    "image_id": "pg-1116-215_bahcall1994",
+    "file": "images/pg-1116-215/pg-1116-215_bahcall1994.png"
+   },
+   "b": {
+    "system": "ww-cha",
+    "image_id": "ww-cha_gravity2021",
+    "file": "images/ww-cha/ww-cha_gravity2021.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "pg-1116-215",
+    "image_id": "pg-1116-215_nicmos2009",
+    "file": "images/pg-1116-215/pg-1116-215_nicmos2009.png"
+   },
+   "b": {
+    "system": "svs13a",
+    "image_id": "svs13a_alma2025",
+    "file": "images/svs13a/svs13a_alma2025.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "pg-1116-215",
+    "image_id": "pg-1116-215_nicmos2009",
+    "file": "images/pg-1116-215/pg-1116-215_nicmos2009.png"
+   },
+   "b": {
+    "system": "sz-cha",
+    "image_id": "sz-cha_sphere-rdi-xie22",
+    "file": "images/sz-cha/sz-cha_sphere-rdi-xie22.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "pg-1116-215",
+    "image_id": "pg-1116-215_nicmos2009",
+    "file": "images/pg-1116-215/pg-1116-215_nicmos2009.png"
+   },
+   "b": {
+    "system": "tw-hya",
+    "image_id": "tw-hya_eris2025",
+    "file": "images/tw-hya/tw-hya_eris2025.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "pg-1116-215",
+    "image_id": "pg-1116-215_nicmos2009",
+    "file": "images/pg-1116-215/pg-1116-215_nicmos2009.png"
+   },
+   "b": {
+    "system": "vhs-j1256-1257",
+    "image_id": "vhs-j1256-1257_vista2015",
+    "file": "images/vhs-j1256-1257/vhs-j1256-1257_vista2015.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "pg-1116-215",
+    "image_id": "pg-1116-215_nicmos2009",
+    "file": "images/pg-1116-215/pg-1116-215_nicmos2009.png"
+   },
+   "b": {
+    "system": "yses-1",
+    "image_id": "yses-1_sphere-naco2019",
+    "file": "images/yses-1/yses-1_sphere-naco2019.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "pg-1307-085",
+    "image_id": "pg-1307-085_bahcall1994",
+    "file": "images/pg-1307-085/pg-1307-085_bahcall1994.png"
+   },
+   "b": {
+    "system": "pks-1302-102",
+    "image_id": "pks-1302-102_bahcall1995",
+    "file": "images/pks-1302-102/pks-1302-102_bahcall1995.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "pg-1307-085",
+    "image_id": "pg-1307-085_bahcall1994",
+    "file": "images/pg-1307-085/pg-1307-085_bahcall1994.png"
+   },
+   "b": {
+    "system": "svs13a",
+    "image_id": "svs13a_alma2025",
+    "file": "images/svs13a/svs13a_alma2025.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "pg-1307-085",
+    "image_id": "pg-1307-085_bahcall1994",
+    "file": "images/pg-1307-085/pg-1307-085_bahcall1994.png"
+   },
+   "b": {
+    "system": "tw-hya",
+    "image_id": "tw-hya_eris2025",
+    "file": "images/tw-hya/tw-hya_eris2025.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "pg-1444-407",
+    "image_id": "pg-1444-407_bahcall1995",
+    "file": "images/pg-1444-407/pg-1444-407_bahcall1995.png"
+   },
+   "b": {
+    "system": "svs13a",
+    "image_id": "svs13a_alma2025",
+    "file": "images/svs13a/svs13a_alma2025.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "pg-1444-407",
+    "image_id": "pg-1444-407_bahcall1995",
+    "file": "images/pg-1444-407/pg-1444-407_bahcall1995.png"
+   },
+   "b": {
+    "system": "tw-hya",
+    "image_id": "tw-hya_eris2025",
+    "file": "images/tw-hya/tw-hya_eris2025.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "pg-1444-407",
+    "image_id": "pg-1444-407_bahcall1995",
+    "file": "images/pg-1444-407/pg-1444-407_bahcall1995.png"
+   },
+   "b": {
+    "system": "ww-cha",
+    "image_id": "ww-cha_gravity2021",
+    "file": "images/ww-cha/ww-cha_gravity2021.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "pks-1302-102",
+    "image_id": "pks-1302-102_bahcall1995",
+    "file": "images/pks-1302-102/pks-1302-102_bahcall1995.png"
+   },
+   "b": {
+    "system": "svs13a",
+    "image_id": "svs13a_alma2025",
+    "file": "images/svs13a/svs13a_alma2025.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "pks-1302-102",
+    "image_id": "pks-1302-102_bahcall1995",
+    "file": "images/pks-1302-102/pks-1302-102_bahcall1995.png"
+   },
+   "b": {
+    "system": "tw-hya",
+    "image_id": "tw-hya_eris2025",
+    "file": "images/tw-hya/tw-hya_eris2025.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "svs13a",
+    "image_id": "svs13a_alma2025",
+    "file": "images/svs13a/svs13a_alma2025.png"
+   },
+   "b": {
+    "system": "tau-042021",
+    "image_id": "tau-042021_edgeon-alma2020-b4",
+    "file": "images/tau-042021/tau-042021_edgeon-alma2020-b4.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "svs13a",
+    "image_id": "svs13a_alma2025",
+    "file": "images/svs13a/svs13a_alma2025.png"
+   },
+   "b": {
+    "system": "ww-cha",
+    "image_id": "ww-cha_gravity2021",
+    "file": "images/ww-cha/ww-cha_gravity2021.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "sz-131",
+    "image_id": "sz-131_agepro",
+    "file": "images/sz-131/sz-131_agepro.png"
+   },
+   "b": {
+    "system": "sz-65",
+    "image_id": "sz-65_agepro",
+    "file": "images/sz-65/sz-65_agepro.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "tau-042021",
+    "image_id": "tau-042021_edgeon-alma2020-b4",
+    "file": "images/tau-042021/tau-042021_edgeon-alma2020-b4.png"
+   },
+   "b": {
+    "system": "tw-hya",
+    "image_id": "tw-hya_eris2025",
+    "file": "images/tw-hya/tw-hya_eris2025.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "tmc-1a",
+    "image_id": "tmc-1a_edisk",
+    "file": "images/tmc-1a/tmc-1a_edisk.png"
+   },
+   "b": {
+    "system": "waoph-6",
+    "image_id": "waoph-6_dsharp",
+    "file": "images/waoph-6/waoph-6_dsharp.png"
+   }
+  },
+  {
+   "dist": 2,
+   "a": {
+    "system": "tw-hya",
+    "image_id": "tw-hya_eris2025",
+    "file": "images/tw-hya/tw-hya_eris2025.png"
+   },
+   "b": {
+    "system": "ww-cha",
+    "image_id": "ww-cha_gravity2021",
+    "file": "images/ww-cha/ww-cha_gravity2021.png"
+   }
+  }
+ ],
+ "same_system": [
+  {
+   "dist": 0,
+   "system": "hd-34700",
+   "a": "hd-34700_gemini-lights",
+   "b": "hd-34700_gemini-lights-j"
+  },
+  {
+   "dist": 2,
+   "system": "51-eri",
+   "a": "51-eri_sphere2017_y",
+   "b": "51-eri_sphere2017_k1"
+  },
+  {
+   "dist": 2,
+   "system": "51-eri",
+   "a": "51-eri_sphere2017_j",
+   "b": "51-eri_sphere2017_h"
+  },
+  {
+   "dist": 2,
+   "system": "51-eri",
+   "a": "51-eri_sphere2017_j",
+   "b": "51-eri_sphere2017_k1"
+  },
+  {
+   "dist": 2,
+   "system": "51-eri",
+   "a": "51-eri_sphere2017_h",
+   "b": "51-eri_sphere2017_k1"
+  },
+  {
+   "dist": 2,
+   "system": "cq-tau",
+   "a": "cq-tau_testi-7mm2011",
+   "b": "cq-tau_vla-3.6cm2011"
+  },
+  {
+   "dist": 2,
+   "system": "hd-163296",
+   "a": "hd-163296_pdbi-1.3mm2007",
+   "b": "hd-163296_pdbi-2.8mm2007"
+  },
+  {
+   "dist": 2,
+   "system": "hh-30",
+   "a": "hh-30_edgeon-alma2020-b4",
+   "b": "hh-30_edgeon-alma2020"
+  },
+  {
+   "dist": 2,
+   "system": "hk-tau-b",
+   "a": "hk-tau-b_edgeon-alma2020-b4",
+   "b": "hk-tau-b_edgeon-alma2020"
+  },
+  {
+   "dist": 2,
+   "system": "hr-4796a",
+   "a": "hr-4796a_nici2014",
+   "b": "hr-4796a_nici2014-ks"
+  },
+  {
+   "dist": 2,
+   "system": "hr-8799",
+   "a": "hr-8799_niri2008",
+   "b": "hr-8799_p1640-2015"
+  },
+  {
+   "dist": 2,
+   "system": "pds-144-n",
+   "a": "pds-144-n_nicmos-go11155-1um",
+   "b": "pds-144-n_nicmos-go11155-pol2um"
+  },
+  {
+   "dist": 2,
+   "system": "pg-1116-215",
+   "a": "pg-1116-215_bahcall1994",
+   "b": "pg-1116-215_nicmos2009"
+  }
+ ]
+}
