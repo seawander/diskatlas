@@ -1,5 +1,5 @@
-# Resolved Circumstellar Disks & Imaged Exoplanets — Interactive Sky Atlas
-# 已分辨星周盘与直接成像系外行星 · 交互式全天图
+# Resolved Circumstellar Disks & Imaged Companions — Interactive Sky Atlas
+# 已分辨星周盘与直接成像伴天体 · 交互式全天图
 
 An offline-capable, interactive all-sky atlas of every system with a **resolved circumstellar
 disk** (mm/submm/cm interferometry, high-contrast scattered light / thermal IR, and resolved
