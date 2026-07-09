@@ -97,16 +97,15 @@
    }
   },
   {
-   "image_id": "hd-135344b_sphere2016",
+   "image_id": "hd-135344b_stolker2016-r",
    "type": "disk_scattered",
    "facility": "VLT-SPHERE",
-   "instrument": "IRDIS",
-   "wavelength_um": 1.245,
-   "wavelength_label": "J band Q_phi (r^2-scaled); spirals + shadows cast by the inner disk",
+   "instrument": "ZIMPOL",
+   "wavelength_um": 0.626,
+   "wavelength_label": "ZIMPOL R-band (0.626 um) Q_phi (unscaled); spiral arms + shadow lanes",
    "technique": "PDI",
    "survey": null,
-   "file": "images/hd-135344b/hd-135344b_sphere2016.png",
-   "credit": "Stolker et al. 2016, Fig. 2 (crop: IRDIS J-band r^2-scaled Q_phi image; spiral arms + shadow lanes cast by the inner disk)",
+   "credit": "Stolker et al. 2016, Fig. 1 (crop: ZIMPOL R-band (0.626 um) Q_phi)",
    "paper": {
     "first_author": "Stolker",
     "year": 2016,
@@ -114,7 +113,68 @@
     "journal": "A&A 595, A113",
     "arxiv": "1603.00481",
     "bibcode": "2016A&A...595A.113S"
-   }
+   },
+   "file": "images/hd-135344b/hd-135344b_stolker2016-r.png"
+  },
+  {
+   "image_id": "hd-135344b_stolker2016-i",
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "ZIMPOL",
+   "wavelength_um": 0.79,
+   "wavelength_label": "ZIMPOL I-band (0.790 um) Q_phi (unscaled); spiral arms + shadow lanes",
+   "technique": "PDI",
+   "survey": null,
+   "credit": "Stolker et al. 2016, Fig. 1 (crop: ZIMPOL I-band (0.790 um) Q_phi)",
+   "paper": {
+    "first_author": "Stolker",
+    "year": 2016,
+    "title": "Shadows cast on the transition disk of HD 135344B: Multiwavelength VLT/SPHERE polarimetric differential imaging",
+    "journal": "A&A 595, A113",
+    "arxiv": "1603.00481",
+    "bibcode": "2016A&A...595A.113S"
+   },
+   "file": "images/hd-135344b/hd-135344b_stolker2016-i.png"
+  },
+  {
+   "image_id": "hd-135344b_stolker2016-y",
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS (DPI)",
+   "wavelength_um": 1.043,
+   "wavelength_label": "IRDIS Y-band (1.043 um) Q_phi (unscaled); spiral arms + shadow lanes",
+   "technique": "PDI",
+   "survey": null,
+   "credit": "Stolker et al. 2016, Fig. 2 (crop: IRDIS Y-band (1.043 um) Q_phi)",
+   "paper": {
+    "first_author": "Stolker",
+    "year": 2016,
+    "title": "Shadows cast on the transition disk of HD 135344B: Multiwavelength VLT/SPHERE polarimetric differential imaging",
+    "journal": "A&A 595, A113",
+    "arxiv": "1603.00481",
+    "bibcode": "2016A&A...595A.113S"
+   },
+   "file": "images/hd-135344b/hd-135344b_stolker2016-y.png"
+  },
+  {
+   "image_id": "hd-135344b_stolker2016-j",
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS (DPI)",
+   "wavelength_um": 1.245,
+   "wavelength_label": "IRDIS J-band (1.245 um) Q_phi (unscaled); spiral arms + shadow lanes",
+   "technique": "PDI",
+   "survey": null,
+   "credit": "Stolker et al. 2016, Fig. 2 (crop: IRDIS J-band (1.245 um) Q_phi)",
+   "paper": {
+    "first_author": "Stolker",
+    "year": 2016,
+    "title": "Shadows cast on the transition disk of HD 135344B: Multiwavelength VLT/SPHERE polarimetric differential imaging",
+    "journal": "A&A 595, A113",
+    "arxiv": "1603.00481",
+    "bibcode": "2016A&A...595A.113S"
+   },
+   "file": "images/hd-135344b/hd-135344b_stolker2016-j.png"
   },
   {
    "image_id": "hd-135344b_alice-f110w",
