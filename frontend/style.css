@@ -88,8 +88,11 @@ main { position: fixed; inset: 0; }
 #searchlist .row .meta { color: var(--dim); font-size: 11px; margin-left: auto; }
 #searchlist .nores { padding: 10px 12px; color: var(--dim); }
 
+/* pointer-events:none — the legend is a non-interactive key, so let taps/clicks
+   pass straight through to the sky canvas underneath (otherwise it blocks stars
+   in the bottom-left corner, especially on phones where it covers ~14% of screen) */
 #legend { position: fixed; z-index: 15; left: 12px; bottom: 10px; display: flex;
-  max-width: calc(100vw - 240px);
+  max-width: calc(100vw - 240px); pointer-events: none;
   gap: 14px; flex-wrap: wrap; align-items: center; color: var(--dim); font-size: 12px;
   background: var(--legendbg); padding: 6px 10px; border-radius: 10px; }
 .dot { display: inline-block; width: 10px; height: 10px; border-radius: 50%;
