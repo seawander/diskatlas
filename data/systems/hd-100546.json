@@ -17,24 +17,44 @@
   {
    "name": "b",
    "status": "disputed",
-   "note": "Quanz+2013 candidate; nature debated",
+   "note": "Quanz+2013 candidate; nature debated: GPI+MagAO optical/NIR imaging finds the emission consistent with disk features rather than a point-source planet (Rameau et al. 2017).",
    "paper": {
     "first_author": "Quanz",
     "year": 2013,
     "arxiv": "1302.7122",
     "bibcode": "2013ApJ...766L...1Q"
-   }
+   },
+   "extra_papers": [
+    {
+     "first_author": "Rameau",
+     "year": 2017,
+     "title": "An Optical/near-infrared investigation of HD 100546 b with the Gemini Planet Imager and MagAO",
+     "journal": "AJ",
+     "arxiv": "1704.06317",
+     "bibcode": null
+    }
+   ]
   },
   {
    "name": "c",
    "status": "disputed",
-   "note": "inner candidate; unconfirmed",
+   "note": "inner candidate; unconfirmed: not recovered in GPI/MagAO imaging of the complex inner-disk structure (Follette et al. 2017).",
    "paper": {
     "first_author": "Currie",
     "year": 2015,
     "arxiv": "1511.02526",
     "bibcode": "2015ApJ...814L..27C"
-   }
+   },
+   "extra_papers": [
+    {
+     "first_author": "Follette",
+     "year": 2017,
+     "title": "Complex Spiral Structure in the HD 100546 Transitional Disk as Revealed by GPI and MagAO",
+     "journal": "AJ",
+     "arxiv": "1704.06260",
+     "bibcode": null
+    }
+   ]
   }
  ],
  "images": [
@@ -484,7 +504,7 @@
   }
  ],
  "notes": null,
- "last_updated": "2026-07-08",
+ "last_updated": "2026-07-09",
  "plx_mas": 9.2494,
  "mags": {
   "B": 6.71,

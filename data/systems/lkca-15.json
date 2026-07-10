@@ -15,14 +15,32 @@
   {
    "name": "b",
    "status": "disputed",
-   "note": "Kraus & Ireland 2012 candidate; later work favors scattered light from inner disk",
+   "note": "Kraus & Ireland 2012 candidate; later work favors scattered light from the inner disk (Thalmann et al. 2016; Currie et al. 2019).",
    "paper": {
     "first_author": "Kraus",
     "year": 2012,
     "arxiv": "1110.3808",
     "bibcode": null,
     "_verify": true
-   }
+   },
+   "extra_papers": [
+    {
+     "first_author": "Thalmann",
+     "year": 2016,
+     "title": "Resolving the planet-hosting inner regions of the LkCa 15 disk",
+     "journal": "ApJL",
+     "arxiv": "1608.08642",
+     "bibcode": null
+    },
+    {
+     "first_author": "Currie",
+     "year": 2019,
+     "title": "No Clear, Direct Evidence for Multiple Protoplanets Orbiting LkCa 15: LkCa 15 bcd are Likely Inner Disk Signals",
+     "journal": "ApJL",
+     "arxiv": "1905.04322",
+     "bibcode": null
+    }
+   ]
   }
  ],
  "images": [
@@ -290,7 +308,7 @@
   }
  ],
  "notes": null,
- "last_updated": "2026-07-08",
+ "last_updated": "2026-07-09",
  "plx_mas": 6.3619,
  "mags": {
   "B": 13.01,

@@ -1,7 +1,9 @@
 {
  "id": "hd-1160",
  "name": "HD 1160",
- "alt_names": ["HIP 1272"],
+ "alt_names": [
+  "HIP 1272"
+ ],
  "simbad": "HD 1160",
  "ra_deg": 3.9887581457,
  "dec_deg": 4.2511138732,
@@ -28,7 +30,17 @@
     "year": 2012,
     "arxiv": "1202.2854",
     "bibcode": null
-   }
+   },
+   "extra_papers": [
+    {
+     "first_author": "Maire",
+     "year": 2016,
+     "title": "First light of the VLT planet finder SPHERE. II. The physical properties and the architecture of the young systems PZ Tel and HD 1160 revisited",
+     "journal": "A&A",
+     "arxiv": "1511.04072",
+     "bibcode": null
+    }
+   ]
   },
   {
    "name": "C",
@@ -67,5 +79,5 @@
   }
  ],
  "notes": "HD 1160 B's classification is disputed (brown dwarf vs. low-mass star near the stellar boundary); HD 1160 C is a confirmed stellar (M3.5) wide companion.",
- "last_updated": "2026-07-07"
+ "last_updated": "2026-07-09"
 }

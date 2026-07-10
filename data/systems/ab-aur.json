@@ -18,13 +18,31 @@
   {
    "name": "b",
    "status": "candidate",
-   "note": "Currie+2022 NIR/UV point source; disputed (scattered light?)",
+   "note": "Currie+2022 NIR/UV point source; disputed: UV-optical emission is consistent with scattered starlight (Zhou et al. 2023) and deep Pabeta imaging shows no accretion signal (Biddle et al. 2024).",
    "paper": {
     "first_author": "Currie",
     "year": 2022,
     "arxiv": "2204.00633",
     "bibcode": "2022NatAs...6..751C"
-   }
+   },
+   "extra_papers": [
+    {
+     "first_author": "Zhou",
+     "year": 2023,
+     "title": "UV-Optical Emission of AB Aur b is Consistent with Scattered Stellar Light",
+     "journal": "AJ",
+     "arxiv": "2308.16223",
+     "bibcode": null
+    },
+    {
+     "first_author": "Biddle",
+     "year": 2024,
+     "title": "Deep Pabeta Imaging of the Candidate Accreting Protoplanet AB Aur b",
+     "journal": null,
+     "arxiv": "2402.12601",
+     "bibcode": null
+    }
+   ]
   }
  ],
  "images": [
@@ -451,7 +469,7 @@
   }
  ],
  "notes": null,
- "last_updated": "2026-07-08",
+ "last_updated": "2026-07-09",
  "plx_mas": 6.4127,
  "mags": {
   "U": 7.2,

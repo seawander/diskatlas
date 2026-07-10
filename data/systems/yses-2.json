@@ -18,7 +18,18 @@
     "year": 2021,
     "arxiv": "2104.08285",
     "bibcode": "2021A&A...648A..73B"
-   }
+   },
+   "note": "Bohn et al. 2021 direct-imaging discovery claim; shown to be a background star by differential astrometry over time (Kenworthy et al. 2025).",
+   "extra_papers": [
+    {
+     "first_author": "Kenworthy",
+     "year": 2025,
+     "title": "YSES 2b is a background star: Differential astrometric M-dwarf measurements in time",
+     "journal": null,
+     "arxiv": "2509.09504",
+     "bibcode": null
+    }
+   ]
   }
  ],
  "images": [
@@ -44,5 +55,5 @@
   }
  ],
  "notes": "Coords decoded from 2MASS id (Bohn+2021). YSES 2b was shown to be a BACKGROUND STAR by differential astrometry (Kenworthy et al. 2025, arXiv 2509.09504); planet status refuted. Discovery image kept for the historical record.",
- "last_updated": "2026-07-07"
+ "last_updated": "2026-07-09"
 }

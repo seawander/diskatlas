@@ -1,7 +1,13 @@
 {
  "id": "fomalhaut",
  "name": "Fomalhaut",
- "alt_names": ["alpha PsA", "HD 216956", "GJ 881", "HIP 113368", "HR 8728"],
+ "alt_names": [
+  "alpha PsA",
+  "HD 216956",
+  "GJ 881",
+  "HIP 113368",
+  "HR 8728"
+ ],
  "simbad": "Fomalhaut",
  "ra_deg": 344.41269272,
  "dec_deg": -29.62223703,
@@ -15,13 +21,23 @@
   {
    "name": "b",
    "status": "dust-cloud",
-   "note": "Kalas+2008 imaged source; now interpreted as expanding dust cloud",
+   "note": "Kalas+2008 imaged source; now interpreted as an expanding dust cloud from a planetesimal collision (Gaspar & Rieke 2020).",
    "paper": {
     "first_author": "Kalas",
     "year": 2008,
     "arxiv": "0811.1994",
     "bibcode": "2008Sci...322.1345K"
-   }
+   },
+   "extra_papers": [
+    {
+     "first_author": "Gaspar",
+     "year": 2020,
+     "title": "New HST data and modeling reveal a massive planetesimal collision around Fomalhaut",
+     "journal": "PNAS",
+     "arxiv": "2004.08736",
+     "bibcode": null
+    }
+   ]
   }
  ],
  "images": [
@@ -247,7 +263,7 @@
   }
  ],
  "notes": null,
- "last_updated": "2026-07-07",
+ "last_updated": "2026-07-09",
  "plx_mas": 129.81,
  "mags": {
   "U": 1.31,
