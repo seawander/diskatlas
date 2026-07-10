@@ -15,20 +15,53 @@ scattered light / thermal-IR), a **directly imaged exoplanet/companion**, or a
 peer-reviewed figure (or an official archive preview) with clickable **arXiv +
 SciX** citations. Pure static files — no server, no build step at runtime.
 
-## Current state (2026-07-08)
+## Current state (2026-07-09)
 
-- **462 systems · 1425 image records (all with local panels) · full coords · 0 validate
+- **463 systems · 1459 image records (all with local panels) · full coords · 0 validate
   errors** (`python3 backend/build.py` is always canonical). Paper-finder ledger:
-  ~544 in-atlas / ~843 explored / ~9913 known-candidate (the "known" pool ballooned
+  ~555 in-atlas / ~849 explored / ~9914 known-candidate (the "known" pool ballooned
   after adding the backward-reference axis — see below; it is a discovery-frontier
   count, NOT papers read).
 - Published live at **github.com/seawander/diskatlas** + GitHub Pages. Publish flow is
   **direct push to `master`** (no PRs; `gh` is not installed). Multiple checkouts/sessions
   commit to `master` concurrently — always `git fetch` before assuming ahead/behind.
 
-## Session state 2026-07-08 (live log — update on every hand-off)
+## Session state 2026-07-09 (live log — update on every hand-off)
 
-CURRENT: 462 systems / 1425 image records / 0 errors.
+CURRENT: 463 systems / 1459 image records / 0 errors.
+
+WHAT THE 07-09 CONTINUATION DID (all committed + pushed to master):
+- **Directed multi-figure adds (user-requested, high yield):** Weber+2023 SPHERE/IRDIS
+  H for AS 205 / SR 24S / FU Ori; Dasgupta+2025 ERIS L' for V960 Mon; Ren+2019 Fig. 1
+  STIS/NICMOS/GPI for HD 191089; Faramaz+2021 ALMA B7 for HR 8799; Stark+2023 STIS for
+  HD 53143; Wagner+2015 IRDIS K1/K2 + IFS Y/J/H for HD 100453. FIXED DoAr 44 Casassus
+  mislabel (crop was Fig 1b = ALMA 336 GHz, labeled SPHERE → split into correct a+b).
+- **NEW TOOL `backend/system_audit.py` — target-side completeness audit** (see the
+  `target-side-completeness-audit` memory). ADS `abs:"<name>"` per system (anonymous
+  tier has NO `object:`), gate = imaging-phrase + named-facility + DISK_CTX
+  (disk/companion context; kills the abs:"DO Tau"→Planck collisions), rank by
+  citations × instrument-novelty. Headline output = NEW-INSTR gaps. Cache + report
+  under `data/paper_finder/` (gitignored). Verified finds ingested: PDS 70 MagAO Hα
+  (Wagner+2018 — the ORIGINAL accreting-planet detection), HD 100546 MagAO Hα
+  (Follette+2017), HR 4796A MagAO Clio-2 L' + VisAO Ys (Rodigas+2015), HD 100453 NACO
+  Ks companion-B discovery (Chen+2006, non-arXiv; ADS `link_gateway/<bib>/PUB_PDF`).
+  False positives correctly skipped by VIEW-verify: Fomalhaut "Subaru" (J-band
+  non-detection), HD 100546 "ZIMPOL" (sample mention; figures are HD 142527).
+- **Miles Lucas feedback:** instrument taxonomy now `SCExAO/CHARIS` (23 records,
+  was flat CHARIS) + `SCExAO/VAMPIRES` + `SCExAO/MEC`, matching the SPHERE/<sub>
+  convention (frontend parent-prefix filtering handles it generically). His papers:
+  HD 169142 (Lucas+2025 AJ) Fig. 3 2×4 gallery → 7 per-instrument records incl. the
+  atlas' first VAMPIRES record; VAMPIRES instrument paper (Lucas+2024 PASP) → NEW
+  SYSTEM R Aqr (evolved; Hα jet+nebula); AB Aur Dykes+2024 Fig. 2 → J/H/K split
+  (replaced JHK composite; paper has TWO caption typos: band order and "January"
+  epoch — trust panel labels: 2020-10-04); HD 34700 Chen+2024 Fig. 3 middle column
+  → Qphi J/H/K. Mullin+2026 & HD 1160 stamps reviewed (already in / not atlas-grade).
+- OPEN: Fukagawa+2010 (HD 100546 Subaru, PASJ 62 347) is OUP-paywalled from this
+  box — user has institutional access; crop when PDF provided. system_gaps worklist
+  gems remaining: DG Tau NICMOS (Padgett+1999), T Tau Keck (Bally+2000), DISCS SMA
+  maps; "Vega"↔"Vega-like" abstract collision class still needs eyeballing.
+
+## Session state 2026-07-08 (previous log)
 
 WHAT THIS SESSION DID (all committed + pushed to master):
 - **Snowball deepening then saturation.** Added the BACKWARD reference axis to
