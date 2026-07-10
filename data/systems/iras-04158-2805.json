@@ -1,7 +1,9 @@
 {
  "id": "iras-04158-2805",
- "name": "iras 04158 2805",
- "alt_names": [],
+ "name": "IRAS 04158+2805",
+ "alt_names": [
+  "iras 04158 2805"
+ ],
  "simbad": "IRAS 04158+2805",
  "ra_deg": 64.74208,
  "dec_deg": 28.2065,

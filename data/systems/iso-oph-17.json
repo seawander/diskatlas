@@ -1,7 +1,9 @@
 {
  "id": "iso-oph-17",
- "name": "iso oph 17",
- "alt_names": [],
+ "name": "ISO-Oph 17",
+ "alt_names": [
+  "iso oph 17"
+ ],
  "simbad": "ISO-Oph 17",
  "ra_deg": 246.543048,
  "dec_deg": -24.348562,

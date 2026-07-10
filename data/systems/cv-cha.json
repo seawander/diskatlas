@@ -1,8 +1,10 @@
 {
  "id": "cv-cha",
- "name": "cv cha",
- "alt_names": ["HIP 54744"],
- "simbad": "cv cha",
+ "name": "CV Cha",
+ "alt_names": [
+  "HIP 54744"
+ ],
+ "simbad": "CV Cha",
  "ra_deg": 168.11543987222,
  "dec_deg": -76.73952855761,
  "dist_pc": 191.8,

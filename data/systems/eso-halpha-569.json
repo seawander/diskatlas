@@ -1,7 +1,9 @@
 {
  "id": "eso-halpha-569",
- "name": "eso halpha 569",
- "alt_names": [],
+ "name": "ESO Hα 569",
+ "alt_names": [
+  "eso halpha 569"
+ ],
  "simbad": "ESO-HA 569",
  "ra_deg": 167.795,
  "dec_deg": -76.69928,

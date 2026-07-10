@@ -267,7 +267,7 @@
   {
    "type": "disk_scattered",
    "facility": "UH 2.2m",
-   "instrument": "coronagraph camera",
+   "instrument": "UH 2.2m coronagraph",
    "wavelength_um": 0.65,
    "wavelength_label": "R band coronagraphy; edge-on disk discovery (50-210 au)",
    "technique": "coronagraphy",
@@ -287,7 +287,7 @@
   {
    "type": "disk_scattered",
    "facility": "Keck",
-   "instrument": "AO NIR imager",
+   "instrument": "NIRC2",
    "wavelength_um": 1.63,
    "wavelength_label": "H band AO; inner-disk substructure at 15-80 au",
    "technique": "other",

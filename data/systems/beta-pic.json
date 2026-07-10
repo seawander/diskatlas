@@ -283,7 +283,7 @@
   {
    "type": "disk_scattered",
    "facility": "Las Campanas 2.5m du Pont",
-   "instrument": "CCD coronagraph",
+   "instrument": "du Pont coronagraph",
    "wavelength_um": 0.89,
    "wavelength_label": "890 nm; the first circumstellar disk image (1984)",
    "technique": "coronagraphy",
@@ -303,7 +303,7 @@
   {
    "type": "disk_scattered",
    "facility": "UH 2.2m",
-   "instrument": "coronagraph camera",
+   "instrument": "UH 2.2m coronagraph",
    "wavelength_um": 0.65,
    "wavelength_label": "R band coronagraphy (classic large-scale disk)",
    "technique": "coronagraphy",

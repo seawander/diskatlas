@@ -1,7 +1,9 @@
 {
  "id": "coconuts-1",
- "name": "coconuts 1",
- "alt_names": [],
+ "name": "COCONUTS-1",
+ "alt_names": [
+  "coconuts 1"
+ ],
  "simbad": "PSO J058.9855+45.4184",
  "ra_deg": 58.9855,
  "dec_deg": 45.4184,

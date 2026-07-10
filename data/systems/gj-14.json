@@ -1,7 +1,9 @@
 {
  "id": "gj-14",
- "name": "gj 14",
- "alt_names": ["HIP 1368"],
+ "name": "GJ 14",
+ "alt_names": [
+  "HIP 1368"
+ ],
  "simbad": "GJ 14",
  "ra_deg": 4.2765587430654,
  "dec_deg": 40.9482974509383,

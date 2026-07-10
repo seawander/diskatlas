@@ -1,7 +1,9 @@
 {
  "id": "iras-04200-2759",
- "name": "iras 04200 2759",
- "alt_names": [],
+ "name": "IRAS 04200+2759",
+ "alt_names": [
+  "iras 04200 2759"
+ ],
  "simbad": "IRAS 04200+2759",
  "ra_deg": 65.7825,
  "dec_deg": 28.09931,

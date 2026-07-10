@@ -1,7 +1,9 @@
 {
  "id": "iso-oph-196",
- "name": "iso oph 196",
- "alt_names": [],
+ "name": "ISO-Oph 196",
+ "alt_names": [
+  "iso oph 196"
+ ],
  "simbad": "ISO-Oph 196",
  "ra_deg": 247.0688038367399,
  "dec_deg": -24.61612637198,

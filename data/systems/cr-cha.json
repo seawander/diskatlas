@@ -1,8 +1,10 @@
 {
  "id": "cr-cha",
- "name": "cr cha",
- "alt_names": ["HIP 53691"],
- "simbad": "cr cha",
+ "name": "CR Cha",
+ "alt_names": [
+  "HIP 53691"
+ ],
+ "simbad": "CR Cha",
  "ra_deg": 164.77904816375,
  "dec_deg": -77.0278636759,
  "dist_pc": 185.2,

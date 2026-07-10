@@ -82,6 +82,17 @@ INSTR_RULES = [  # (substring-of-lowercased(facility+instrument), canonical fami
 def fac_keys(facility, instrument=""):
     f = (facility or "").strip()
     il = (instrument or "").lower()
+    # Joint/composite datasets count under EACH facility (matches the paper's
+    # \facilities list, which enumerates them separately). Explicit FAC_TABLE
+    # entries win; otherwise split on '+' whether or not it is space-padded, so
+    # 'CHARA+VLTI' and 'OVRO+PdBI' split like 'VLTI-GRAVITY + VLT-SPHERE'.
+    if f not in FAC_TABLE and re.search(r"\S\s*\+\s*\S", f):
+        out = []
+        for part in re.split(r"\s*\+\s*", f):
+            for k in fac_keys(part, instrument):
+                if k not in out:
+                    out.append(k)
+        return out
     if f in FAC_TABLE:
         keys = list(FAC_TABLE[f])
     else:  # heuristics for strings introduced later
