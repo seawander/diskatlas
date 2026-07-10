@@ -1,7 +1,9 @@
 {
  "id": "hd-104860",
  "name": "HD 104860",
- "alt_names": ["HIP 58876"],
+ "alt_names": [
+  "HIP 58876"
+ ],
  "simbad": "HD 104860",
  "ra_deg": 181.14054525825,
  "dec_deg": 66.33658690477,
@@ -109,7 +111,7 @@
     "title": "Resolved Millimeter-Wavelength Observations of Debris Disks around Solar-Type Stars",
     "journal": "ApJ 816, 27 (2016)",
     "arxiv": "1510.08890",
-    "bibcode": null
+    "bibcode": "2016ApJ...816...27S"
    },
    "file": "images/hd-104860/hd-104860_carma2015.png"
   },

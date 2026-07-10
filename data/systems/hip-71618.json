@@ -1,7 +1,10 @@
 {
  "id": "hip-71618",
  "name": "HIP 71618",
- "alt_names": ["HD 129002", "HR 5468"],
+ "alt_names": [
+  "HD 129002",
+  "HR 5468"
+ ],
  "simbad": "HIP 71618",
  "ra_deg": 219.7092720862,
  "dec_deg": 44.40450224947,
@@ -12,7 +15,7 @@
   "G": 5.383827,
   "J": 5.196,
   "H": 5.277,
-  "K": 5.260
+  "K": 5.26
  },
  "sptype": "A1V",
  "region": "Isolated",
@@ -27,7 +30,8 @@
     "first_author": "El Morsy",
     "year": 2025,
     "arxiv": "2512.02126",
-    "bibcode": null
+    "bibcode": "2025ApJ...995L...4E",
+    "journal": "ApJL 995, L4"
    }
   }
  ],
@@ -50,7 +54,7 @@
     "title": "OASIS Survey Direct Imaging and Astrometric Discovery of HIP 71618 B: A Substellar Companion Suitable for the Roman Coronagraph Technology Demonstration",
     "journal": "ApJL (in press)",
     "arxiv": "2512.02126",
-    "bibcode": null
+    "bibcode": "2025ApJ...995L...4E"
    }
   }
  ],

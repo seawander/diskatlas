@@ -90,7 +90,7 @@
     "title": "Early High-contrast Imaging Results with Keck/NIRC2-PWFS: The SR 21 Disk",
     "journal": "AJ (2020)",
     "arxiv": "2011.00044",
-    "bibcode": null
+    "bibcode": "2020AJ....160..283U"
    }
   },
   {
@@ -109,7 +109,7 @@
     "title": "Gas density drops inside dust cavities of transitional disks around young stars observed with ALMA",
     "journal": "A&A 579, A106 (2015)",
     "arxiv": "1504.03927",
-    "bibcode": null
+    "bibcode": "2015A&A...579A.106V"
    },
    "file": "images/sr-21/sr-21_alma2015.png"
   },
@@ -129,7 +129,7 @@
     "title": "Multiple Rings and Asymmetric Structures in the Disk of SR 21",
     "journal": "ApJ 948, 71 (2023)",
     "arxiv": "2303.05064",
-    "bibcode": null
+    "bibcode": "2023ApJ...948..110Y"
    },
    "file": "images/sr-21/sr-21_alma2023.png"
   },
@@ -149,7 +149,7 @@
     "title": "New Spatially Resolved Imaging of the SR 21 Transition Disk and Constraints on the Small-Grain Disk Geometry",
     "journal": "AJ",
     "arxiv": "1908.07427",
-    "bibcode": null
+    "bibcode": "2019ApJ...883..100S"
    },
    "file": "images/sr-21/sr-21_magao2019.png",
    "note": "Magellan/MagAO (VisAO+Clio2 non-redundant masking) is a new facility for sr-21.json (existing record was Keck/NIRC2 PWFS from Uyama et al. 2020, a different instrument/epoch). Cropped the cleanest single-epoch NRM image reconstruction (Fig. 10, June 2017 L') showing the ring/warp; Fig. 1 (raw MagAO Halpha+continuum KLIP frames) was checked first but is a non-detection/SNR-map figure, not a resolved image, so it was not used."

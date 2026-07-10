@@ -1,7 +1,10 @@
 {
  "id": "hd-202628",
  "name": "HD 202628",
- "alt_names": ["GJ 9730", "HIP 105184"],
+ "alt_names": [
+  "GJ 9730",
+  "HIP 105184"
+ ],
  "simbad": "HD 202628",
  "ra_deg": 319.6136234362499,
  "dec_deg": -43.33465085068,
@@ -48,7 +51,7 @@
     "title": "Hubble Space Telescope Observations of the HD 202628 Debris Disk",
     "journal": "AJ 144, 45",
     "arxiv": "1206.2078",
-    "bibcode": null
+    "bibcode": "2012AJ....144...45K"
    },
    "image_id": "hd-202628_stis2012",
    "file": "images/hd-202628/hd-202628_stis2012.png"
@@ -67,9 +70,9 @@
     "first_author": "Faramaz",
     "year": 2019,
     "title": "From scattered-light to millimeter emission: A comprehensive view of the Gyr-old system of HD 202628 and its eccentric debris ring",
-    "journal": null,
+    "journal": "AJ 158, 162",
     "arxiv": "1909.04162",
-    "bibcode": null
+    "bibcode": "2019AJ....158..162F"
    },
    "file": "images/hd-202628/hd-202628_herschel2019.png"
   }

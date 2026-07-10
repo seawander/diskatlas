@@ -1,7 +1,10 @@
 {
  "id": "ry-tau",
  "name": "RY Tau",
- "alt_names": ["HD 283571", "HIP 20387"],
+ "alt_names": [
+  "HD 283571",
+  "HIP 20387"
+ ],
  "simbad": "RY Tau",
  "ra_deg": 65.4892052292,
  "dec_deg": 28.44320981017,
@@ -90,7 +93,7 @@
     "title": "ALICE Data Release: A revaluation of HST-NICMOS coronagraphic images",
     "journal": "AJ 155, 179",
     "arxiv": "1802.07754",
-    "bibcode": null
+    "bibcode": "2018AJ....155..179H"
    },
    "hires_url": "https://archive.stsci.edu/prepds/alice/"
   },
@@ -130,7 +133,7 @@
     "title": "Investigating Planet Formation in Circumstellar Disks: CARMA Observations of RY Tau and DG Tau",
     "journal": "ApJ, 714, 1746",
     "arxiv": "1003.4318",
-    "bibcode": null
+    "bibcode": "2010ApJ...714.1746I"
    },
    "file": "images/ry-tau/ry-tau_carma2010.png"
   },
@@ -150,7 +153,7 @@
     "title": "Reference-star differential imaging on SPHERE/IRDIS",
     "journal": "A&A 666, A32",
     "arxiv": "2208.07915",
-    "bibcode": null
+    "bibcode": "2022A&A...666A..32X"
    },
    "file": "images/ry-tau/ry-tau_sphere-rdi-xie22.png"
   }

@@ -24,7 +24,8 @@
     "first_author": "Lagrange",
     "year": 2010,
     "arxiv": "1006.3314",
-    "bibcode": "2010Sci...329...57L"
+    "bibcode": "2010Sci...329...57L",
+    "journal": "Science 329, 57"
    }
   },
   {
@@ -37,7 +38,7 @@
     "title": "Direct confirmation of the radial-velocity planet β Pic c",
     "journal": "A&A 642, L2",
     "arxiv": "2010.04442",
-    "bibcode": null
+    "bibcode": "2020A&A...642L...2N"
    },
    "method": "interferometry",
    "extra_papers": [
@@ -48,7 +49,7 @@
      "title": "The mass of Beta Pictoris c from Beta Pictoris b orbital motion",
      "journal": "A&A 654, L2",
      "arxiv": "2109.10671",
-     "bibcode": null
+     "bibcode": "2021A&A...654L...2L"
     }
    ]
   },
@@ -61,9 +62,9 @@
     "first_author": "Sutlieff",
     "year": 2026,
     "title": "Direct Imaging Discovery of Giant Exoplanet β Pictoris d: A Decade-Long Game of Hide-and-Seek",
-    "journal": null,
+    "journal": "arXiv e-print",
     "arxiv": "2606.23801",
-    "bibcode": null
+    "bibcode": "2026arXiv260623801S"
    },
    "extra_papers": [
     {
@@ -71,9 +72,9 @@
      "first_author": "Gibbs",
      "year": 2026,
      "title": "Discovery of an Exterior Third Planet Orbiting β Pictoris",
-     "journal": null,
+     "journal": "arXiv e-print",
      "arxiv": "2606.23789",
-     "bibcode": null
+     "bibcode": "2026arXiv260623789G"
     }
    ]
   }
@@ -196,7 +197,7 @@
     "title": "The ALMA survey to Resolve exoKuiper belt Substructures (ARKS) I: Motivation, sample, data reduction, and results overview",
     "journal": "A&A",
     "arxiv": "2601.11708",
-    "bibcode": null
+    "bibcode": "2026A&A...705A.195M"
    }
   },
   {
@@ -256,7 +257,7 @@
     "title": "Characterization of debris disks observed with SPHERE",
     "journal": "A&A 704, A21",
     "arxiv": "2512.03128",
-    "bibcode": null
+    "bibcode": "2025A&A...704A..21E"
    }
   },
   {
@@ -334,7 +335,7 @@
     "title": "Peering into the formation history of beta Pictoris b with VLTI/GRAVITY long-baseline interferometry",
     "journal": "A&A 633, A110",
     "arxiv": "1912.04651",
-    "bibcode": null
+    "bibcode": "2020A&A...633A.110G"
    },
    "image_id": "beta-pic_gravity2020",
    "file": "images/beta-pic/beta-pic_gravity2020.png"
@@ -354,7 +355,7 @@
     "title": "Direct confirmation of the radial-velocity planet beta Pictoris c",
     "journal": "A&A 642, L2",
     "arxiv": "2010.04442",
-    "bibcode": null
+    "bibcode": "2020A&A...642L...2N"
    },
    "image_id": "beta-pic_gravity2020c",
    "file": "images/beta-pic/beta-pic_gravity2020c.png"
@@ -376,7 +377,7 @@
     "title": "ALICE Data Release: A revaluation of HST-NICMOS coronagraphic images",
     "journal": "AJ 155, 179",
     "arxiv": "1802.07754",
-    "bibcode": null
+    "bibcode": "2018AJ....155..179H"
    },
    "hires_url": "https://archive.stsci.edu/prepds/alice/"
   },
@@ -536,7 +537,7 @@
     "title": "HST/ACS Multiband Coronagraphic Imaging of the Debris Disk around Beta Pictoris",
     "journal": "AJ 131, 3109",
     "arxiv": "astro-ph/0602292",
-    "bibcode": null
+    "bibcode": "2006AJ....131.3109G"
    },
    "file": "images/beta-pic/beta-pic_acs2006_b.png"
   },
@@ -556,7 +557,7 @@
     "title": "HST/ACS Multiband Coronagraphic Imaging of the Debris Disk around Beta Pictoris",
     "journal": "AJ 131, 3109",
     "arxiv": "astro-ph/0602292",
-    "bibcode": null
+    "bibcode": "2006AJ....131.3109G"
    },
    "file": "images/beta-pic/beta-pic_acs2006_v.png"
   },
@@ -576,7 +577,7 @@
     "title": "HST/ACS Multiband Coronagraphic Imaging of the Debris Disk around Beta Pictoris",
     "journal": "AJ 131, 3109",
     "arxiv": "astro-ph/0602292",
-    "bibcode": null
+    "bibcode": "2006AJ....131.3109G"
    },
    "file": "images/beta-pic/beta-pic_acs2006_i.png"
   },
@@ -594,9 +595,9 @@
     "first_author": "Sutlieff",
     "year": 2026,
     "title": "Direct Imaging Discovery of Giant Exoplanet β Pictoris d: A Decade-Long Game of Hide-and-Seek",
-    "journal": null,
+    "journal": "arXiv e-print",
     "arxiv": "2606.23801",
-    "bibcode": null
+    "bibcode": "2026arXiv260623801S"
    },
    "file": "images/beta-pic/beta-pic_planetd2026.png"
   },
@@ -614,9 +615,9 @@
     "first_author": "Gibbs",
     "year": 2026,
     "title": "Discovery of an Exterior Third Planet Orbiting β Pictoris",
-    "journal": null,
+    "journal": "arXiv e-print",
     "arxiv": "2606.23789",
-    "bibcode": null
+    "bibcode": "2026arXiv260623789G"
    },
    "file": "images/beta-pic/beta-pic_planetd-jwst2026.png"
   },
@@ -634,9 +635,9 @@
     "first_author": "Morzinski",
     "year": 2015,
     "title": "Magellan Adaptive Optics first-light observations of the exoplanet beta Pic b",
-    "journal": null,
+    "journal": "ApJ 815, 108",
     "arxiv": "1511.02894",
-    "bibcode": null
+    "bibcode": "2015ApJ...815..108M"
    },
    "file": "images/beta-pic/beta-pic_magao-clio2015.png"
   }

@@ -70,7 +70,7 @@
     "title": "ALICE Data Release: A revaluation of HST-NICMOS coronagraphic images",
     "journal": "AJ 155, 179",
     "arxiv": "1802.07754",
-    "bibcode": null
+    "bibcode": "2018AJ....155..179H"
    },
    "hires_url": "https://archive.stsci.edu/prepds/alice/"
   },
@@ -90,7 +90,7 @@
     "title": "Resolving Protoplanetary Disks at Millimeter Wavelengths by CARMA",
     "journal": "ApJ 808, 102",
     "arxiv": "1506.03679",
-    "bibcode": null
+    "bibcode": "2015ApJ...808..102K"
    },
    "file": "images/dl-tau/dl-tau_carma2015.png"
   },

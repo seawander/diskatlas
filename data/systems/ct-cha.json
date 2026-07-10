@@ -20,7 +20,8 @@
     "first_author": "Schmidt",
     "year": 2008,
     "arxiv": "0809.2812",
-    "bibcode": "2008A&A...491..311S"
+    "bibcode": "2008A&A...491..311S",
+    "journal": "A&A 491, 311"
    }
   }
  ],
@@ -81,7 +82,7 @@
     "title": "A carbon-rich disk surrounding a planetary-mass companion",
     "journal": "ApJL (accepted)",
     "arxiv": "2509.15209",
-    "bibcode": null
+    "bibcode": "2025ApJ...991L..46C"
    },
    "file": "images/ct-cha/ct-cha_mrs2025.png"
   }

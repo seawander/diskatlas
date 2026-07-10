@@ -1,7 +1,10 @@
 {
  "id": "mwc-480",
  "name": "MWC 480",
- "alt_names": ["HD 31648", "HIP 23143"],
+ "alt_names": [
+  "HD 31648",
+  "HIP 23143"
+ ],
  "simbad": "MWC 480",
  "ra_deg": 74.69277321123,
  "dec_deg": 29.8436076738,
@@ -90,7 +93,7 @@
     "title": "Time-variable Scattered Light in Herbig Disks Observed with Subaru/SCExAO",
     "journal": "AJ (2026)",
     "arxiv": "2602.20346",
-    "bibcode": null
+    "bibcode": "2026AJ....171..241M"
    }
   },
   {
@@ -109,7 +112,7 @@
     "title": "Molecules with ALMA at Planet-forming Scales (MAPS) I: Program Overview and Highlights",
     "journal": "ApJS, 257, 1",
     "arxiv": "2109.06268",
-    "bibcode": null
+    "bibcode": "2021ApJS..257....1O"
    },
    "file": "images/mwc-480/mwc-480_alma-maps2021.png"
   },
@@ -129,7 +132,7 @@
     "title": "Resolving and probing the circumstellar disk of the Herbig Ae star MWC 480 at 1.4 mm: Evolved dust?",
     "journal": "AJ, 133, 1892",
     "arxiv": "astro-ph/0607232",
-    "bibcode": null
+    "bibcode": "2006ApJ...651..321H"
    },
    "file": "images/mwc-480/mwc-480_bima2006.png"
   },

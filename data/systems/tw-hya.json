@@ -50,7 +50,7 @@
     "title": "Three radial gaps in the disk of TW Hydrae imaged with SPHERE",
     "journal": "ApJ 837, 132",
     "arxiv": "1610.08939",
-    "bibcode": null
+    "bibcode": "2017ApJ...837..132V"
    },
    "image_id": "tw-hya_sphere2017",
    "file": "images/tw-hya/tw-hya_sphere2017.png"
@@ -192,7 +192,7 @@
     "title": "The Surprising Evolution of the Shadow on the TW Hya Disk",
     "journal": "ApJ (2023)",
     "arxiv": "2305.03611",
-    "bibcode": null
+    "bibcode": "2023ApJ...948...36D"
    }
   },
   {
@@ -212,7 +212,7 @@
     "title": "ALICE Data Release: A revaluation of HST-NICMOS coronagraphic images",
     "journal": "AJ 155, 179",
     "arxiv": "1802.07754",
-    "bibcode": null
+    "bibcode": "2018AJ....155..179H"
    },
    "hires_url": "https://archive.stsci.edu/prepds/alice/"
   },
@@ -232,7 +232,7 @@
     "title": "Peering into the Giant Planet Forming Region of the TW Hydrae Disk with the Gemini Planet Imager",
     "journal": "ApJL",
     "arxiv": "1512.01865",
-    "bibcode": null
+    "bibcode": "2015ApJ...815L..26R"
    },
    "file": "images/tw-hya/tw-hya_gpi2015.png"
   },
@@ -252,7 +252,7 @@
     "title": "The TW Hya Disk at 870 microns: Comparison of CO and Dust Radial Structures",
     "journal": "ApJ, 744, 162",
     "arxiv": "1111.5037",
-    "bibcode": null
+    "bibcode": "2012ApJ...744..162A"
    },
    "file": "images/tw-hya/tw-hya_sma2012.png"
   },
@@ -272,7 +272,7 @@
     "title": "Reference-star differential imaging on SPHERE/IRDIS",
     "journal": "A&A 666, A32",
     "arxiv": "2208.07915",
-    "bibcode": null
+    "bibcode": "2022A&A...666A..32X"
    },
    "file": "images/tw-hya/tw-hya_sphere-rdi-xie22.png"
   },
@@ -292,7 +292,7 @@
     "title": "Protoplanetary disk insights from the first ERIS/APP survey at 4 μm",
     "journal": "Astronomy & Astrophysics",
     "arxiv": "2504.19810",
-    "bibcode": null
+    "bibcode": "2025A&A...698A..52M"
    },
    "file": "images/tw-hya/tw-hya_eris2025.png"
   },
@@ -312,7 +312,7 @@
     "title": "Space-Based Coronagraphic Imaging Polarimetry of the TW Hydrae Disk: Shedding New Light on Self-Shadowing Effects",
     "journal": "ApJ 860, 115",
     "arxiv": "1805.01926",
-    "bibcode": null
+    "bibcode": "2018ApJ...860..115P"
    },
    "file": "images/tw-hya/tw-hya_nicmos-pol2018.png"
   }

@@ -22,7 +22,7 @@
     "title": "Confirmation and Keplerian motion of the gap-carving protoplanet HD 169142 b",
     "journal": "MNRAS 522, L51",
     "arxiv": "2302.11302",
-    "bibcode": null
+    "bibcode": "2023MNRAS.522L..51H"
    },
    "extra_papers": [
     {
@@ -32,7 +32,7 @@
      "title": "Blobs, spiral arms, and a possible planet around HD 169142",
      "journal": "A&A 623, A140",
      "arxiv": "1901.06555",
-     "bibcode": null
+     "bibcode": "2019A&A...623A.140G"
     }
    ]
   }
@@ -73,7 +73,7 @@
     "title": "ALMA unveils rings and gaps in the protoplanetary system HD 169142: signatures of two giant protoplanets",
     "journal": "A&A 600, A72",
     "arxiv": "1702.02844",
-    "bibcode": null
+    "bibcode": "2017A&A...600A..72F"
    },
    "image_id": "hd-169142_alma2017",
    "file": "images/hd-169142/hd-169142_alma2017.png"
@@ -155,7 +155,7 @@
     "title": "ALICE Data Release: A revaluation of HST-NICMOS coronagraphic images",
     "journal": "AJ 155, 179",
     "arxiv": "1802.07754",
-    "bibcode": null
+    "bibcode": "2018AJ....155..179H"
    },
    "hires_url": "https://archive.stsci.edu/prepds/alice/"
   },
@@ -195,7 +195,7 @@
     "title": "Reference-star differential imaging on SPHERE/IRDIS",
     "journal": "A&A 666, A32",
     "arxiv": "2208.07915",
-    "bibcode": null
+    "bibcode": "2022A&A...666A..32X"
    },
    "file": "images/hd-169142/hd-169142_sphere-rdi-xie22.png"
   },
@@ -215,7 +215,7 @@
     "title": "New mid-infrared imaging constraints on companions and protoplanetary disks around six young stars",
     "journal": "A&A",
     "arxiv": "2102.12506",
-    "bibcode": null
+    "bibcode": "2021A&A...648A..92P"
    },
    "file": "images/hd-169142/hd-169142_visir2021.png",
    "note": "HD 169142 resolved in both PAH1 and NEAR filters per the paper (most resolved disk in the sample after HD 100546)."

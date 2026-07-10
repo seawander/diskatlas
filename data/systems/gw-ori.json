@@ -1,7 +1,10 @@
 {
  "id": "gw-ori",
  "name": "GW Ori",
- "alt_names": ["HD 244138", "HIP 25689"],
+ "alt_names": [
+  "HD 244138",
+  "HIP 25689"
+ ],
  "simbad": "GW Ori",
  "ra_deg": 82.2849702961,
  "dec_deg": 11.87018512697,
@@ -67,9 +70,9 @@
     "first_author": "Kraus",
     "year": 2020,
     "title": "A triple star system with a misaligned and warped circumstellar disk shaped by disk tearing",
-    "journal": null,
+    "journal": "Science 369, 1233",
     "arxiv": "2004.01204",
-    "bibcode": null
+    "bibcode": "2020Sci...369.1233K"
    },
    "file": "images/gw-ori/gw-ori_sphere2020.png"
   }

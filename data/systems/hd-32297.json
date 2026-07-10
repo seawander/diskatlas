@@ -112,7 +112,7 @@
     "title": "The ALMA survey to Resolve exoKuiper belt Substructures (ARKS) I: Motivation, sample, data reduction, and results overview",
     "journal": "A&A",
     "arxiv": "2601.11708",
-    "bibcode": null
+    "bibcode": "2026A&A...705A.195M"
    }
   },
   {
@@ -152,7 +152,7 @@
     "title": "Characterization of debris disks observed with SPHERE",
     "journal": "A&A 704, A21",
     "arxiv": "2512.03128",
-    "bibcode": null
+    "bibcode": "2025A&A...704A..21E"
    }
   },
   {
@@ -212,7 +212,7 @@
     "title": "ALICE Data Release: A revaluation of HST-NICMOS coronagraphic images",
     "journal": "AJ 155, 179",
     "arxiv": "1802.07754",
-    "bibcode": null
+    "bibcode": "2018AJ....155..179H"
    },
    "hires_url": "https://archive.stsci.edu/prepds/alice/"
   },
@@ -312,7 +312,7 @@
     "title": "A Uniform Analysis of Debris Disks with the Gemini Planet Imager II: Constraints on Dust Density Distribution Using Empirically-Informed Scattering Phase Functions",
     "journal": "MNRAS",
     "arxiv": "2402.00214",
-    "bibcode": null
+    "bibcode": "2024MNRAS.528.6959H"
    },
    "file": "images/hd-32297/hd-32297_gpi-hom24.png"
   },
@@ -352,7 +352,7 @@
     "title": "Polarimetry and flux distribution in the debris disk around HD 32297",
     "journal": "A&A 593, A73",
     "arxiv": "1605.03984",
-    "bibcode": null
+    "bibcode": "2016A&A...593A..73A"
    },
    "file": "images/hd-32297/hd-32297_hiciao-pdi2014.png"
   },
@@ -370,9 +370,9 @@
     "first_author": "Currie",
     "year": 2012,
     "title": "Keck/NIRC2 Imaging of the Warped, Asymmetric Debris Disk around HD 32297",
-    "journal": null,
+    "journal": "ApJ 757, 28",
     "arxiv": "1206.4688",
-    "bibcode": null
+    "bibcode": "2012ApJ...757...28C"
    },
    "file": "images/hd-32297/hd-32297_nirc2-2012.png"
   },
@@ -390,9 +390,9 @@
     "first_author": "Maness",
     "year": 2008,
     "title": "CARMA Millimeter-Wave Aperture Synthesis Imaging of the HD 32297 Debris Disk",
-    "journal": null,
+    "journal": "ApJL 686, L25",
     "arxiv": "0808.3582",
-    "bibcode": null
+    "bibcode": "2008ApJ...686L..25M"
    },
    "file": "images/hd-32297/hd-32297_carma2008.png"
   }

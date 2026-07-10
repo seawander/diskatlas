@@ -21,7 +21,8 @@
     "first_author": "Rameau",
     "year": 2013,
     "arxiv": "1305.7428",
-    "bibcode": "2013ApJ...772L..15R"
+    "bibcode": "2013ApJ...772L..15R",
+    "journal": "ApJL 772, L15"
    }
   }
  ],
@@ -103,7 +104,7 @@
     "title": "The ALMA survey to Resolve exoKuiper belt Substructures (ARKS) I: Motivation, sample, data reduction, and results overview",
     "journal": "A&A",
     "arxiv": "2601.11708",
-    "bibcode": null
+    "bibcode": "2026A&A...705A.195M"
    }
   },
   {
@@ -202,7 +203,7 @@
     "title": "Unveiling the HD 95086 system at mid-infrared wavelengths with JWST/MIRI",
     "journal": "Astronomy & Astrophysics",
     "arxiv": "2408.16843",
-    "bibcode": null
+    "bibcode": "2024A&A...690A.316M"
    },
    "file": "images/hd-95086/hd-95086_miri2024-f1065c.png"
   },
@@ -222,7 +223,7 @@
     "title": "Unveiling the HD 95086 system at mid-infrared wavelengths with JWST/MIRI",
     "journal": "Astronomy & Astrophysics",
     "arxiv": "2408.16843",
-    "bibcode": null
+    "bibcode": "2024A&A...690A.316M"
    },
    "file": "images/hd-95086/hd-95086_miri2024-f1140c.png"
   },
@@ -242,7 +243,7 @@
     "title": "Unveiling the HD 95086 system at mid-infrared wavelengths with JWST/MIRI",
     "journal": "Astronomy & Astrophysics",
     "arxiv": "2408.16843",
-    "bibcode": null
+    "bibcode": "2024A&A...690A.316M"
    },
    "file": "images/hd-95086/hd-95086_miri2024-f2300c.png"
   },
@@ -260,9 +261,9 @@
     "first_author": "Su",
     "year": 2015,
     "title": "Debris Distribution in HD 95086 - A Young Analog of HR 8799",
-    "journal": null,
+    "journal": "ApJ 799, 146",
     "arxiv": "1412.0167",
-    "bibcode": null
+    "bibcode": "2015ApJ...799..146S"
    },
    "file": "images/hd-95086/hd-95086_herschel-pacs2015.png"
   }

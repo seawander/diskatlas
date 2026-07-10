@@ -19,7 +19,8 @@
     "first_author": "Haffert",
     "year": 2019,
     "arxiv": "1906.01486",
-    "bibcode": "2019NatAs...3..749H"
+    "bibcode": "2019NatAs...3..749H",
+    "journal": "Nature Astronomy 3, 749"
    }
   },
   {
@@ -29,7 +30,8 @@
     "first_author": "Haffert",
     "year": 2019,
     "arxiv": "1906.01486",
-    "bibcode": "2019NatAs...3..749H"
+    "bibcode": "2019NatAs...3..749H",
+    "journal": "Nature Astronomy 3, 749"
    }
   }
  ],
@@ -129,7 +131,7 @@
     "title": "MINDS: JWST/NIRCam imaging of the protoplanetary disk PDS 70. A spiral accretion stream and a potential third protoplanet",
     "journal": "A&A 685, L1",
     "arxiv": "2403.04855",
-    "bibcode": null
+    "bibcode": "2024A&A...685L...1C"
    },
    "image_id": "pds-70_jwst2024",
    "file": "images/pds-70/pds-70_jwst2024.png"
@@ -210,7 +212,7 @@
     "title": "Reference-star differential imaging on SPHERE/IRDIS",
     "journal": "A&A 666, A32",
     "arxiv": "2208.07915",
-    "bibcode": null
+    "bibcode": "2022A&A...666A..32X"
    },
    "file": "images/pds-70/pds-70_sphere-rdi-xie22.png"
   },
@@ -230,7 +232,7 @@
     "title": "Searching for proto-planets with MUSE",
     "journal": "A&A 644, A149",
     "arxiv": "2011.08043",
-    "bibcode": null
+    "bibcode": "2020A&A...644A.149X"
    },
    "file": "images/pds-70/pds-70_muse2020.png"
   },
@@ -250,7 +252,7 @@
     "title": "Protoplanetary disk insights from the first ERIS/APP survey at 4 μm",
     "journal": "Astronomy & Astrophysics",
     "arxiv": "2504.19810",
-    "bibcode": null
+    "bibcode": "2025A&A...698A..52M"
    },
    "file": "images/pds-70/pds-70_eris2025.png"
   },
@@ -270,7 +272,7 @@
     "title": "Evidence for Variable Accretion onto PDS 70 c and Implications for Protoplanet Detections",
     "journal": "ApJL",
     "arxiv": "2502.14024",
-    "bibcode": null
+    "bibcode": "2025ApJ...980L..39Z"
    },
    "file": "images/pds-70/pds-70_wfc3halpha2024.png"
   },
@@ -310,7 +312,7 @@
     "title": "Efficiently Imaging Accreting Protoplanets from Space: Reference Star Differential Imaging of the PDS 70 Planetary System using the HST/WFC3 Archival PSF Library",
     "journal": "AJ",
     "arxiv": "2112.10777",
-    "bibcode": null
+    "bibcode": "2022AJ....163..119S"
    },
    "file": "images/pds-70/pds-70_wfc3rdi.png"
   },

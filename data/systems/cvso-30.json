@@ -29,7 +29,8 @@
     "first_author": "van Eyken",
     "year": 2012,
     "arxiv": "1206.1510",
-    "bibcode": null
+    "bibcode": "2012ApJ...755...42V",
+    "journal": "ApJ 755, 42"
    },
    "extra_papers": [
     {
@@ -56,7 +57,8 @@
     "first_author": "Schmidt",
     "year": 2016,
     "arxiv": "1605.05315",
-    "bibcode": "2016A&A...593A..75S"
+    "bibcode": "2016A&A...593A..75S",
+    "journal": "A&A 593, A75"
    },
    "extra_papers": [
     {
@@ -65,7 +67,7 @@
      "title": "Evidence that the Planetary Candidate CVSO30c is a Background Star from Optical, Seeing-limited Data",
      "journal": "ApJL 850, L30",
      "arxiv": "1712.08727",
-     "bibcode": null
+     "bibcode": "2018ApJ...852L..24L"
     }
    ]
   }

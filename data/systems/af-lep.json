@@ -22,7 +22,8 @@
     "first_author": "Franson",
     "year": 2023,
     "arxiv": "2302.05420",
-    "bibcode": "2023ApJ...950L..19F"
+    "bibcode": "2023ApJ...950L..19F",
+    "journal": "ApJL 950, L19"
    },
    "extra_papers": [
     {
@@ -32,7 +33,7 @@
      "title": "AF Lep b: the lowest mass planet detected coupling astrometric and direct imaging data",
      "journal": "A&A 672, A93",
      "arxiv": "2302.06213",
-     "bibcode": null
+     "bibcode": "2023A&A...672A..93M"
     },
     {
      "label": "independent discovery",
@@ -41,7 +42,7 @@
      "title": "Direct imaging discovery of a super-Jovian around the young Sun-like star AF Leporis",
      "journal": "A&A 672, A94",
      "arxiv": "2302.06332",
-     "bibcode": null
+     "bibcode": "2023A&A...672A..94D"
     }
    ]
   }
@@ -122,7 +123,7 @@
     "title": "VLTI/GRAVITY Observations of AF Lep b: Preference for Circular Orbits, Cloudy Atmospheres, and a Moderately Enhanced Metallicity",
     "journal": "AJ (2025)",
     "arxiv": "2411.05917",
-    "bibcode": null
+    "bibcode": "2025AJ....169...30B"
    },
    "image_id": "af-lep_gravity2024",
    "file": "images/af-lep/af-lep_gravity2024.png"
@@ -162,7 +163,7 @@
     "title": "Use the 4S (Signal-Safe Speckle Subtraction): Explainable Machine Learning reveals the Giant Exoplanet AF Lep b in High-Contrast Imaging Data from 2011",
     "journal": "AJ (2025)",
     "arxiv": "2406.01809",
-    "bibcode": null
+    "bibcode": "2025AJ....169..194B"
    },
    "image_id": "af-lep_naco2011-4s",
    "file": "images/af-lep/af-lep_naco2011-4s.png"
@@ -184,7 +185,7 @@
     "title": "ALICE Data Release: A revaluation of HST-NICMOS coronagraphic images",
     "journal": "AJ 155, 179",
     "arxiv": "1802.07754",
-    "bibcode": null
+    "bibcode": "2018AJ....155..179H"
    },
    "hires_url": "https://archive.stsci.edu/prepds/alice/"
   }

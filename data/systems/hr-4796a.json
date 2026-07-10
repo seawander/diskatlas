@@ -114,7 +114,7 @@
     "title": "The ALMA survey to Resolve exoKuiper belt Substructures (ARKS) I: Motivation, sample, data reduction, and results overview",
     "journal": "A&A",
     "arxiv": "2601.11708",
-    "bibcode": null
+    "bibcode": "2026A&A...705A.195M"
    }
   },
   {
@@ -174,7 +174,7 @@
     "title": "Characterization of debris disks observed with SPHERE",
     "journal": "A&A 704, A21",
     "arxiv": "2512.03128",
-    "bibcode": null
+    "bibcode": "2025A&A...704A..21E"
    }
   },
   {
@@ -212,7 +212,7 @@
     "title": "Mid-Infrared Imaging of a Circumstellar Disk around HR 4796: Mapping the Debris of Planetary Formation",
     "journal": "ApJL 503, L83",
     "arxiv": "astro-ph/9806268",
-    "bibcode": null
+    "bibcode": "1998ApJ...503L..83K"
    },
    "image_id": "hr-4796a_keck1998",
    "file": "images/hr-4796a/hr-4796a_keck1998.png"
@@ -294,7 +294,7 @@
     "title": "ALICE Data Release: A revaluation of HST-NICMOS coronagraphic images",
     "journal": "AJ 155, 179",
     "arxiv": "1802.07754",
-    "bibcode": null
+    "bibcode": "2018AJ....155..179H"
    },
    "hires_url": "https://archive.stsci.edu/prepds/alice/"
   },
@@ -315,7 +315,7 @@
     "title": "A Multiband Study of the HR 4796A Disk in the Optical Using MagAO-X",
     "journal": "ApJ 1001, 189",
     "arxiv": "2606.23480",
-    "bibcode": ""
+    "bibcode": "2026arXiv260623480K"
    }
   },
   {
@@ -334,7 +334,7 @@
     "title": "A Uniform Analysis of Debris Disks with the Gemini Planet Imager II: Constraints on Dust Density Distribution Using Empirically-Informed Scattering Phase Functions",
     "journal": "MNRAS",
     "arxiv": "2402.00214",
-    "bibcode": null
+    "bibcode": "2024MNRAS.528.6959H"
    },
    "file": "images/hr-4796a/hr-4796a_gpi-hom24.png"
   },
@@ -354,7 +354,7 @@
     "title": "Speckle Suppression Through Dual Imaging Polarimetry, and a Ground-Based Image of the HR 4796A Circumstellar Disk",
     "journal": "ApJ 701, 804 (2009)",
     "arxiv": "0906.3010",
-    "bibcode": null
+    "bibcode": "2009ApJ...701..804H"
    },
    "file": "images/hr-4796a/hr-4796a_aeos2009.png"
   },
@@ -374,7 +374,7 @@
     "title": "Optical polarized phase function of the HR\\,4796A dust ring",
     "journal": "A&A 626, A54 (2019)",
     "arxiv": "1905.03603",
-    "bibcode": null
+    "bibcode": "2019A&A...626A..54M"
    },
    "file": "images/hr-4796a/hr-4796a_zimpol2019.png"
   },
@@ -394,7 +394,7 @@
     "title": "Reference-star differential imaging on SPHERE/IRDIS",
     "journal": "A&A 666, A32",
     "arxiv": "2208.07915",
-    "bibcode": null
+    "bibcode": "2022A&A...666A..32X"
    },
    "file": "images/hr-4796a/hr-4796a_sphere-rdi-xie22.png"
   },
@@ -414,7 +414,7 @@
     "title": "The Gemini NICI Planet-Finding Campaign: The Offset Ring of HR 4796 A",
     "journal": "A&A 567, A34 (2014)",
     "arxiv": "1404.6525",
-    "bibcode": null
+    "bibcode": "2014A&A...567A..34W"
    },
    "file": "images/hr-4796a/hr-4796a_nici2014.png"
   },
@@ -432,9 +432,9 @@
     "first_author": "Moerchen",
     "year": 2010,
     "title": "Asymmetric Heating of the HR 4796A Dust Ring Due to Pericenter Glow",
-    "journal": null,
+    "journal": "A&A 526, A34",
     "arxiv": "1011.1437",
-    "bibcode": null
+    "bibcode": "2011A&A...526A..34M"
    },
    "file": "images/hr-4796a/hr-4796a_gemini-midir2010.png"
   },
@@ -454,7 +454,7 @@
     "title": "The Gemini NICI Planet-Finding Campaign: The Offset Ring of HR 4796 A",
     "journal": "A&A 567, A34 (2014)",
     "arxiv": "1404.6525",
-    "bibcode": null
+    "bibcode": "2014A&A...567A..34W"
    },
    "file": "images/hr-4796a/hr-4796a_nici2014-j.png"
   },
@@ -474,7 +474,7 @@
     "title": "The Gemini NICI Planet-Finding Campaign: The Offset Ring of HR 4796 A",
     "journal": "A&A 567, A34 (2014)",
     "arxiv": "1404.6525",
-    "bibcode": null
+    "bibcode": "2014A&A...567A..34W"
    },
    "file": "images/hr-4796a/hr-4796a_nici2014-ks.png"
   },

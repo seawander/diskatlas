@@ -132,7 +132,7 @@
     "title": "ALICE Data Release: A revaluation of HST-NICMOS coronagraphic images",
     "journal": "AJ 155, 179",
     "arxiv": "1802.07754",
-    "bibcode": null
+    "bibcode": "2018AJ....155..179H"
    },
    "hires_url": "https://archive.stsci.edu/prepds/alice/"
   },
@@ -153,7 +153,7 @@
     "title": "Time-variable Scattered Light in Herbig Disks Observed with Subaru/SCExAO",
     "journal": "AJ (2026)",
     "arxiv": "2602.20346",
-    "bibcode": null
+    "bibcode": "2026AJ....171..241M"
    }
   },
   {
@@ -192,7 +192,7 @@
     "title": "Molecules with ALMA at Planet-forming Scales (MAPS) I: Program Overview and Highlights",
     "journal": "ApJS, 257, 1",
     "arxiv": "2109.06268",
-    "bibcode": null
+    "bibcode": "2021ApJS..257....1O"
    },
    "file": "images/hd-163296/hd-163296_alma-maps2021.png"
   },
@@ -212,7 +212,7 @@
     "title": "JWST/NIRCam Coronagraphic Search for Hidden Planets in the HD~163296 Protoplanetary Disk",
     "journal": "AJ 169, 287",
     "arxiv": "2503.20132",
-    "bibcode": null
+    "bibcode": "2025AJ....169..287U"
    },
    "file": "images/hd-163296/hd-163296_nircam2025.png"
   },
@@ -232,7 +232,7 @@
     "title": "Millimeter imaging of HD 163296: probing the disk structure and kinematics",
     "journal": "A&A, 469, 213",
     "arxiv": "0704.0616",
-    "bibcode": null
+    "bibcode": "2007A&A...469..213I"
    },
    "file": "images/hd-163296/hd-163296_sma-0.87mm2007.png"
   },
@@ -252,7 +252,7 @@
     "title": "Millimeter imaging of HD 163296: probing the disk structure and kinematics",
     "journal": "A&A, 469, 213",
     "arxiv": "0704.0616",
-    "bibcode": null
+    "bibcode": "2007A&A...469..213I"
    },
    "file": "images/hd-163296/hd-163296_pdbi-1.3mm2007.png"
   },
@@ -272,7 +272,7 @@
     "title": "Millimeter imaging of HD 163296: probing the disk structure and kinematics",
     "journal": "A&A, 469, 213",
     "arxiv": "0704.0616",
-    "bibcode": null
+    "bibcode": "2007A&A...469..213I"
    },
    "file": "images/hd-163296/hd-163296_pdbi-2.8mm2007.png"
   },
@@ -312,7 +312,7 @@
     "title": "Searching for proto-planets with MUSE",
     "journal": "A&A 644, A149",
     "arxiv": "2011.08043",
-    "bibcode": null
+    "bibcode": "2020A&A...644A.149X"
    },
    "file": "images/hd-163296/hd-163296_muse2020.png"
   },
@@ -332,7 +332,7 @@
     "title": "High-contrast imaging of HD 163296 with the Keck/NIRC2 L'-band vortex coronograph",
     "journal": "MNRAS 479, 1505-1513",
     "arxiv": "1806.08263",
-    "bibcode": null
+    "bibcode": "2018MNRAS.479.1505G"
    },
    "file": "images/hd-163296/hd-163296_nirc2vortex2018.png"
   },
@@ -352,7 +352,7 @@
     "title": "Protoplanetary disk insights from the first ERIS/APP survey at 4 μm",
     "journal": "Astronomy & Astrophysics",
     "arxiv": "2504.19810",
-    "bibcode": null
+    "bibcode": "2025A&A...698A..52M"
    },
    "file": "images/hd-163296/hd-163296_eris2025.png"
   },
@@ -372,7 +372,7 @@
     "title": "Multi-epoch Direct Imaging and Time-variable Scattered Light Morphology of the HD 163296 Protoplanetary Disk",
     "journal": "ApJ",
     "arxiv": "1811.07785",
-    "bibcode": null
+    "bibcode": "2019ApJ...875...38R"
    },
    "file": "images/hd-163296/hd-163296_hiciao2011.png"
   },

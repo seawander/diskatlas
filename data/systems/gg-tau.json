@@ -28,7 +28,7 @@
     "title": "Gap, shadows, spirals, and streamers: SPHERE observations of binary-disk interactions in GG Tau A",
     "journal": "A&A 639, A62",
     "arxiv": "2005.09037",
-    "bibcode": null
+    "bibcode": "2020A&A...639A..62K"
    },
    "image_id": "gg-tau_sphere2020",
    "file": "images/gg-tau/gg-tau_sphere2020.png"
@@ -109,7 +109,7 @@
     "title": "HST/WFPC2 Images of the GG Tauri Circumbinary Disk",
     "journal": "AJ 123, 2751",
     "arxiv": "astro-ph/0201415",
-    "bibcode": null
+    "bibcode": "2002ApJ...570..785K"
    },
    "file": "images/gg-tau/gg-tau_wfpc2002.png"
   },
@@ -129,7 +129,7 @@
     "title": "NICMOS Images of the GG Tau Circumbinary Disk",
     "journal": "ApJ 575, 974",
     "arxiv": "astro-ph/0204465",
-    "bibcode": null
+    "bibcode": "2002ApJ...575..974M"
    },
    "file": "images/gg-tau/gg-tau_nicmos2002.png"
   },
@@ -149,7 +149,7 @@
     "title": "HST/ACS Images of the GG Tauri Circumbinary Disk",
     "journal": "AJ 130, 2778",
     "arxiv": "astro-ph/0508222",
-    "bibcode": null
+    "bibcode": "2005AJ....130.2778K"
    },
    "file": "images/gg-tau/gg-tau_acs2005_v.png"
   },
@@ -169,7 +169,7 @@
     "title": "HST/ACS Images of the GG Tauri Circumbinary Disk",
     "journal": "AJ 130, 2778",
     "arxiv": "astro-ph/0508222",
-    "bibcode": null
+    "bibcode": "2005AJ....130.2778K"
    },
    "file": "images/gg-tau/gg-tau_acs2005_i.png"
   },
@@ -187,9 +187,9 @@
     "first_author": "Andrews",
     "year": 2014,
     "title": "Resolved Multifrequency Radio Observations of GG Tau",
-    "journal": null,
+    "journal": "ApJ 787, 148",
     "arxiv": "1404.5652",
-    "bibcode": null
+    "bibcode": "2014ApJ...787..148A"
    },
    "file": "images/gg-tau/gg-tau_vla2014.png"
   },

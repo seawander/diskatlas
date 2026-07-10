@@ -1,7 +1,9 @@
 {
  "id": "hd-146181",
  "name": "HD 146181",
- "alt_names": ["HIP 79742"],
+ "alt_names": [
+  "HIP 79742"
+ ],
  "simbad": "HD 146181",
  "ra_deg": 244.11820807917,
  "dec_deg": -38.73676585666,
@@ -50,7 +52,7 @@
     "title": "The Disks In Scorpius-Centaurus Survey (DISCS) I: Four Newly-Resolved Debris Disks in Polarized Intensity Light",
     "journal": "AJ, in press",
     "arxiv": "2505.02976",
-    "bibcode": null
+    "bibcode": "2025AJ....170...46H"
    }
   },
   {
@@ -70,7 +72,7 @@
     "title": "Characterization of debris disks observed with SPHERE",
     "journal": "A&A 704, A21",
     "arxiv": "2512.03128",
-    "bibcode": null
+    "bibcode": "2025A&A...704A..21E"
    }
   }
  ],

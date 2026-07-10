@@ -1,7 +1,9 @@
 {
  "id": "v4046-sgr",
  "name": "V4046 Sgr",
- "alt_names": ["HD 319139"],
+ "alt_names": [
+  "HD 319139"
+ ],
  "simbad": "V4046 Sgr",
  "ra_deg": 273.54367444807,
  "dec_deg": -32.79292134335,
@@ -30,7 +32,7 @@
     "title": "exoALMA IV: Substructures, Asymmetries, and the Faint Outer Disk in Continuum Emission",
     "journal": "ApJL (exoALMA special issue)",
     "arxiv": "2504.18725",
-    "bibcode": null
+    "bibcode": "2025ApJ...984L...9C"
    }
   },
   {
@@ -89,7 +91,7 @@
     "title": "The Structure of the Evolved Circumbinary Disk around V4046 Sgr",
     "journal": "ApJ, 775, 136",
     "arxiv": "1308.4358",
-    "bibcode": null
+    "bibcode": "2013ApJ...775..136R"
    },
    "file": "images/v4046-sgr/v4046-sgr_sma2013.png"
   },
@@ -109,7 +111,7 @@
     "title": "Imaging the Molecular Disk Orbiting the Twin Young Suns of V4046 Sgr",
     "journal": "The Astrophysical Journal",
     "arxiv": "1007.3993",
-    "bibcode": null
+    "bibcode": "2010ApJ...720.1684R"
    },
    "file": "images/v4046-sgr/v4046-sgr_sma2010.png"
   },
@@ -129,7 +131,7 @@
     "title": "Reference-star differential imaging on SPHERE/IRDIS",
     "journal": "A&A 666, A32",
     "arxiv": "2208.07915",
-    "bibcode": null
+    "bibcode": "2022A&A...666A..32X"
    },
    "file": "images/v4046-sgr/v4046-sgr_sphere-rdi-xie22.png"
   },
@@ -149,7 +151,7 @@
     "title": "exoALMA I. Science Goals, Project Design and Data Products",
     "journal": "ApJL (exoALMA Focus Issue)",
     "arxiv": "2504.18688",
-    "bibcode": null
+    "bibcode": "2025ApJ...984L...6T"
    },
    "file": "images/v4046-sgr/v4046-sgr_exoalma-co.png"
   }

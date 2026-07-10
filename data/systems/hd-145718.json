@@ -1,7 +1,9 @@
 {
  "id": "hd-145718",
  "name": "HD 145718",
- "alt_names": ["HIP 79476"],
+ "alt_names": [
+  "HIP 79476"
+ ],
  "simbad": "HD 145718",
  "ra_deg": 243.29829934833,
  "dec_deg": -22.48517277431,
@@ -49,7 +51,7 @@
     "title": "A family portrait of disk inner rims around Herbig Ae/Be stars: Hunting for warps, rings, self shadowing, and misalignments in the inner astronomical units",
     "journal": "Astronomy & Astrophysics",
     "arxiv": "2004.01594",
-    "bibcode": null
+    "bibcode": "2020A&A...636A.116K"
    },
    "file": "images/hd-145718/hd-145718_pionier2020.png"
   }

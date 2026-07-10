@@ -1,7 +1,13 @@
 {
  "id": "vega",
  "name": "Vega",
- "alt_names": ["alpha Lyr", "HD 172167", "GJ 721", "HIP 91262", "HR 7001"],
+ "alt_names": [
+  "alpha Lyr",
+  "HD 172167",
+  "GJ 721",
+  "HIP 91262",
+  "HR 7001"
+ ],
  "simbad": "Vega",
  "ra_deg": 279.23473479,
  "dec_deg": 38.78368896,
@@ -28,7 +34,7 @@
     "title": "Imaging of the Vega Debris System using JWST/MIRI",
     "journal": "ApJ 979, 43",
     "arxiv": "2410.23636",
-    "bibcode": null
+    "bibcode": "2024ApJ...977..277S"
    },
    "image_id": "vega_jwst2024",
    "file": "images/vega/vega_jwst2024.png"
@@ -70,7 +76,7 @@
     "title": "Imaging of the Vega Debris System using JWST/MIRI",
     "journal": "ApJ 979, 43",
     "arxiv": "2410.23636",
-    "bibcode": null
+    "bibcode": "2024ApJ...977..277S"
    }
   },
   {
@@ -109,7 +115,7 @@
     "title": "Searching for Planets Orbiting Vega with the James Webb Space Telescope",
     "journal": "AJ",
     "arxiv": "2410.16551",
-    "bibcode": null
+    "bibcode": "2025AJ....169...17B"
    },
    "file": "images/vega/vega_nircam2024.png"
   },
@@ -127,9 +133,9 @@
     "first_author": "Sibthorpe",
     "year": 2010,
     "title": "The Vega Debris Disc: A view from Herschel",
-    "journal": null,
+    "journal": "A&A 518, L130",
     "arxiv": "1005.3543",
-    "bibcode": null
+    "bibcode": "2010A&A...518L.130S"
    },
    "file": "images/vega/vega_herschel2010.png"
   },
@@ -147,9 +153,9 @@
     "first_author": "Su",
     "year": 2005,
     "title": "The Vega Debris Disk -- A Surprise from Spitzer",
-    "journal": null,
+    "journal": "ApJ 628, 487",
     "arxiv": "astro-ph/0504086",
-    "bibcode": null
+    "bibcode": "2005ApJ...628..487S"
    },
    "file": "images/vega/vega_mips2005.png"
   }

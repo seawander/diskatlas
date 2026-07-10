@@ -1,7 +1,10 @@
 {
  "id": "hd-170773",
  "name": "HD 170773",
- "alt_names": ["HIP 90936", "HR 6948"],
+ "alt_names": [
+  "HIP 90936",
+  "HR 6948"
+ ],
  "simbad": "HD 170773",
  "ra_deg": 278.25381970894,
  "dec_deg": -39.89202086749,
@@ -50,7 +53,7 @@
     "title": "The ALMA survey to Resolve exoKuiper belt Substructures (ARKS) I: Motivation, sample, data reduction, and results overview",
     "journal": "A&A",
     "arxiv": "2601.11708",
-    "bibcode": null
+    "bibcode": "2026A&A...705A.195M"
    }
   },
   {
@@ -70,7 +73,7 @@
     "title": "ALICE Data Release: A revaluation of HST-NICMOS coronagraphic images",
     "journal": "AJ 155, 179",
     "arxiv": "1802.07754",
-    "bibcode": null
+    "bibcode": "2018AJ....155..179H"
    },
    "hires_url": "https://archive.stsci.edu/prepds/alice/"
   },
@@ -88,9 +91,9 @@
     "first_author": "Moor",
     "year": 2015,
     "title": "Stirring in massive, young debris discs from spatially resolved Herschel images",
-    "journal": null,
+    "journal": "MNRAS 447, 577",
     "arxiv": "1411.5829",
-    "bibcode": null
+    "bibcode": "2015MNRAS.447..577M"
    },
    "file": "images/hd-170773/hd-170773_herschel2015.png"
   },
@@ -108,9 +111,9 @@
     "first_author": "Holland",
     "year": 2017,
     "title": "SONS: The JCMT legacy survey of debris discs in the submillimetre",
-    "journal": null,
+    "journal": "MNRAS 470, 3606",
     "arxiv": "1706.01218",
-    "bibcode": null
+    "bibcode": "2017MNRAS.470.3606H"
    },
    "file": "images/hd-170773/hd-170773_scuba2016.png"
   }

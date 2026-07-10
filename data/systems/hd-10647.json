@@ -1,7 +1,12 @@
 {
  "id": "hd-10647",
  "name": "HD 10647",
- "alt_names": ["q1 Eri", "GJ 3109", "HIP 7978", "HR 506"],
+ "alt_names": [
+  "q1 Eri",
+  "GJ 3109",
+  "HIP 7978",
+  "HR 506"
+ ],
  "simbad": "HD 10647",
  "ra_deg": 25.62214382373,
  "dec_deg": -53.74083095924,
@@ -50,7 +55,7 @@
     "title": "The ALMA survey to Resolve exoKuiper belt Substructures (ARKS) I: Motivation, sample, data reduction, and results overview",
     "journal": "A&A",
     "arxiv": "2601.11708",
-    "bibcode": null
+    "bibcode": "2026A&A...705A.195M"
    }
   },
   {
@@ -89,7 +94,7 @@
     "title": "High resolution ALMA and HST images of q$^1$ Eri: an asymmetric debris disc with an eccentric Jupiter",
     "journal": "MNRAS (10.1093/mnras/stab1678)",
     "arxiv": "2106.05975",
-    "bibcode": null
+    "bibcode": "2021MNRAS.506.1978L"
    },
    "file": "images/hd-10647/hd-10647_hst2021.png"
   }

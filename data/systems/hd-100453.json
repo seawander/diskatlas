@@ -151,7 +151,7 @@
     "title": "Reference-star differential imaging on SPHERE/IRDIS",
     "journal": "A&A 666, A32",
     "arxiv": "2208.07915",
-    "bibcode": null
+    "bibcode": "2022A&A...666A..32X"
    },
    "file": "images/hd-100453/hd-100453_sphere-rdi-xie22.png"
   },
@@ -171,7 +171,7 @@
     "title": "The Giant Accreting Protoplanet Survey (GAPlanetS) - Results from a Six Year Campaign to Image Accreting Protoplanets",
     "journal": "AJ",
     "arxiv": "2211.02109",
-    "bibcode": null
+    "bibcode": "2023AJ....165..225F"
    },
    "file": "images/hd-100453/hd-100453_magao2022.png",
    "note": "HD 100453 B robustly recovered in both Halpha and continuum imagery in all GAPlanetS epochs with clear Halpha excess (active accretion); this is the paper's cleanest, most confident detection besides the already-catalogued HD 142527 B."
@@ -192,7 +192,7 @@
     "title": "New mid-infrared imaging constraints on companions and protoplanetary disks around six young stars",
     "journal": "A&A",
     "arxiv": "2102.12506",
-    "bibcode": null
+    "bibcode": "2021A&A...648A..92P"
    },
    "file": "images/hd-100453/hd-100453_visir2021.png",
    "note": "HD 100453 resolved in both PAH1 and NEAR filters per the paper. Note: this system already got a new Magellan-MagAO planet-panel record (hd-100453_magao2022) from the GAPlanetS paper in this same batch -- both records target the same system_id but are distinct image_ids."

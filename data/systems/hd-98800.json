@@ -1,7 +1,10 @@
 {
  "id": "hd-98800",
  "name": "HD 98800",
- "alt_names": ["GJ 2084", "HIP 55505"],
+ "alt_names": [
+  "GJ 2084",
+  "HIP 55505"
+ ],
  "simbad": "HD 98800",
  "ra_deg": 170.52204061,
  "dec_deg": -24.77771031,
@@ -30,7 +33,7 @@
     "title": "Characterization of debris disks observed with SPHERE",
     "journal": "A&A 704, A21",
     "arxiv": "2512.03128",
-    "bibcode": null
+    "bibcode": "2025A&A...704A..21E"
    }
   },
   {
@@ -49,7 +52,7 @@
     "title": "A circumbinary protoplanetary disc in a polar configuration",
     "journal": "Nature Astronomy",
     "arxiv": "1901.05018",
-    "bibcode": null
+    "bibcode": "2019NatAs...3..278K"
    },
    "file": "images/hd-98800/hd-98800_alma2019.png"
   },
@@ -67,9 +70,9 @@
     "first_author": "Ribas",
     "year": 2018,
     "title": "Long-lived protoplanetary disks in multiple systems: the VLA view of HD 98800",
-    "journal": null,
+    "journal": "ApJ 865, 77",
     "arxiv": "1808.02493",
-    "bibcode": null
+    "bibcode": "2018ApJ...865...77R"
    },
    "file": "images/hd-98800/hd-98800_vla2018.png"
   }

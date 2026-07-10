@@ -20,8 +20,9 @@
     "first_author": "Kraus",
     "year": 2012,
     "arxiv": "1110.3808",
-    "bibcode": null,
-    "_verify": true
+    "bibcode": "2012ApJ...745....5K",
+    "_verify": true,
+    "journal": "ApJ 745, 5"
    },
    "extra_papers": [
     {
@@ -30,7 +31,7 @@
      "title": "Resolving the planet-hosting inner regions of the LkCa 15 disk",
      "journal": "ApJL",
      "arxiv": "1608.08642",
-     "bibcode": null
+     "bibcode": "2016ApJ...828L..17T"
     },
     {
      "first_author": "Currie",
@@ -38,7 +39,7 @@
      "title": "No Clear, Direct Evidence for Multiple Protoplanets Orbiting LkCa 15: LkCa 15 bcd are Likely Inner Disk Signals",
      "journal": "ApJL",
      "arxiv": "1905.04322",
-     "bibcode": null
+     "bibcode": "2019ApJ...877L...3C"
     }
    ]
   }
@@ -61,7 +62,7 @@
     "title": "exoALMA IV: Substructures, Asymmetries, and the Faint Outer Disk in Continuum Emission",
     "journal": "ApJL (exoALMA special issue)",
     "arxiv": "2504.18725",
-    "bibcode": null
+    "bibcode": "2025ApJ...984L...9C"
    }
   },
   {
@@ -161,7 +162,7 @@
     "title": "ALICE Data Release: A revaluation of HST-NICMOS coronagraphic images",
     "journal": "AJ 155, 179",
     "arxiv": "1802.07754",
-    "bibcode": null
+    "bibcode": "2018AJ....155..179H"
    },
    "hires_url": "https://archive.stsci.edu/prepds/alice/"
   },
@@ -201,7 +202,7 @@
     "title": "High angular resolution evidence of dust traps from deep ALMA Band 3 observations of LkCa15",
     "journal": "MNRAS 538, 2358",
     "arxiv": "2503.03336",
-    "bibcode": null
+    "bibcode": "2025MNRAS.538.2358S"
    },
    "file": "images/lkca-15/lkca-15_alma-band3-2025.png"
   },
@@ -221,7 +222,7 @@
     "title": "Resolved Images of Large Cavities in Protoplanetary Transition Disks",
     "journal": "ApJ, 732, 42",
     "arxiv": "1103.0284",
-    "bibcode": null
+    "bibcode": "2011ApJ...732...42A"
    },
    "file": "images/lkca-15/lkca-15_sma2011.png"
   },
@@ -261,7 +262,7 @@
     "title": "The Giant Accreting Protoplanet Survey (GAPlanetS) - Results from a Six Year Campaign to Image Accreting Protoplanets",
     "journal": "AJ",
     "arxiv": "2211.02109",
-    "bibcode": null
+    "bibcode": "2023AJ....165..225F"
    },
    "file": "images/lkca-15/lkca-15_magao2022.png",
    "note": "Reproduces the LkCa 15 'b' Halpha excess (classically computed SNR=5.0) at the previously reported Sallum et al. 2015 candidate location; the paper explicitly treats this as a real recovered Halpha signal but flags its planetary nature as ambiguous/debated (could be a compact scattered-light feature). PDS 70 b/c recoveries in this same paper were explicitly called 'marginal' (SNR~3-4) by the authors and were dropped per instructions."
@@ -282,7 +283,7 @@
     "title": "exoALMA I. Science Goals, Project Design and Data Products",
     "journal": "ApJL (exoALMA Focus Issue)",
     "arxiv": "2504.18688",
-    "bibcode": null
+    "bibcode": "2025ApJ...984L...6T"
    },
    "file": "images/lkca-15/lkca-15_exoalma-co.png"
   },

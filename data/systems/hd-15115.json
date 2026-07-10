@@ -112,7 +112,7 @@
     "title": "The ALMA survey to Resolve exoKuiper belt Substructures (ARKS) I: Motivation, sample, data reduction, and results overview",
     "journal": "A&A",
     "arxiv": "2601.11708",
-    "bibcode": null
+    "bibcode": "2026A&A...705A.195M"
    }
   },
   {
@@ -152,7 +152,7 @@
     "title": "Characterization of debris disks observed with SPHERE",
     "journal": "A&A 704, A21",
     "arxiv": "2512.03128",
-    "bibcode": null
+    "bibcode": "2025A&A...704A..21E"
    }
   },
   {
@@ -192,7 +192,7 @@
     "title": "Multiple Rings of Millimeter Dust Emission in the HD 15115 Debris Disk",
     "journal": "ApJL",
     "arxiv": "1905.08258",
-    "bibcode": null
+    "bibcode": "2019ApJ...877L..32M"
    }
   },
   {
@@ -212,7 +212,7 @@
     "title": "ALICE Data Release: A revaluation of HST-NICMOS coronagraphic images",
     "journal": "AJ 155, 179",
     "arxiv": "1802.07754",
-    "bibcode": null
+    "bibcode": "2018AJ....155..179H"
    },
    "hires_url": "https://archive.stsci.edu/prepds/alice/"
   },
@@ -252,7 +252,7 @@
     "title": "SCExAO/CHARIS Near-infrared Integral Field Spectroscopy of the HD 15115 Debris Disk",
     "journal": "The Astronomical Journal",
     "arxiv": "2008.00309",
-    "bibcode": null
+    "bibcode": "2020AJ....160..163L"
    },
    "file": "images/hd-15115/hd-15115_charis2020-j.png"
   },
@@ -272,7 +272,7 @@
     "title": "SCExAO/CHARIS Near-infrared Integral Field Spectroscopy of the HD 15115 Debris Disk",
     "journal": "The Astronomical Journal",
     "arxiv": "2008.00309",
-    "bibcode": null
+    "bibcode": "2020AJ....160..163L"
    },
    "file": "images/hd-15115/hd-15115_charis2020-h.png"
   },
@@ -292,7 +292,7 @@
     "title": "SCExAO/CHARIS Near-infrared Integral Field Spectroscopy of the HD 15115 Debris Disk",
     "journal": "The Astronomical Journal",
     "arxiv": "2008.00309",
-    "bibcode": null
+    "bibcode": "2020AJ....160..163L"
    },
    "file": "images/hd-15115/hd-15115_charis2020-k.png"
   },
@@ -312,7 +312,7 @@
     "title": "Reference-star differential imaging on SPHERE/IRDIS",
     "journal": "A&A 666, A32",
     "arxiv": "2208.07915",
-    "bibcode": null
+    "bibcode": "2022A&A...666A..32X"
    },
    "file": "images/hd-15115/hd-15115_sphere-rdi-xie22.png"
   },
@@ -330,9 +330,9 @@
     "first_author": "Mazoyer",
     "year": 2014,
     "title": "Is the HD 15115 inner disk really asymmetrical?",
-    "journal": null,
+    "journal": "A&A 569, A29",
     "arxiv": "1409.0710",
-    "bibcode": null
+    "bibcode": "2014A&A...569A..29M"
    },
    "file": "images/hd-15115/hd-15115_nici2014.png"
   },

@@ -1,7 +1,10 @@
 {
  "id": "hd-182681",
  "name": "HD 182681",
- "alt_names": ["HIP 95619", "HR 7380"],
+ "alt_names": [
+  "HIP 95619",
+  "HR 7380"
+ ],
  "simbad": "HD 182681",
  "ra_deg": 291.73534582149,
  "dec_deg": -29.74322714486,
@@ -50,7 +53,7 @@
     "title": "Characterization of debris disks observed with SPHERE",
     "journal": "A&A 704, A21",
     "arxiv": "2512.03128",
-    "bibcode": null
+    "bibcode": "2025A&A...704A..21E"
    }
   },
   {
@@ -67,9 +70,9 @@
     "first_author": "Moor",
     "year": 2015,
     "title": "Stirring in massive, young debris discs from spatially resolved Herschel images",
-    "journal": null,
+    "journal": "MNRAS 447, 577",
     "arxiv": "1411.5829",
-    "bibcode": null
+    "bibcode": "2015MNRAS.447..577M"
    },
    "file": "images/hd-182681/hd-182681_herschel2015.png"
   }

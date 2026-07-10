@@ -1,7 +1,11 @@
 {
  "id": "hd-139664",
  "name": "HD 139664",
- "alt_names": ["GJ 594", "HIP 76829", "HR 5825"],
+ "alt_names": [
+  "GJ 594",
+  "HIP 76829",
+  "HR 5825"
+ ],
  "simbad": "HD 139664",
  "ra_deg": 235.2974033621455,
  "dec_deg": -44.6612060267514,
@@ -90,7 +94,7 @@
     "title": "ALICE Data Release: A revaluation of HST-NICMOS coronagraphic images",
     "journal": "AJ 155, 179",
     "arxiv": "1802.07754",
-    "bibcode": null
+    "bibcode": "2018AJ....155..179H"
    },
    "hires_url": "https://archive.stsci.edu/prepds/alice/"
   }

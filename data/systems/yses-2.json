@@ -17,7 +17,8 @@
     "first_author": "Bohn",
     "year": 2021,
     "arxiv": "2104.08285",
-    "bibcode": "2021A&A...648A..73B"
+    "bibcode": "2021A&A...648A..73B",
+    "journal": "A&A 648, A73"
    },
    "note": "Bohn et al. 2021 direct-imaging discovery claim; shown to be a background star by differential astrometry over time (Kenworthy et al. 2025).",
    "extra_papers": [
@@ -25,9 +26,9 @@
      "first_author": "Kenworthy",
      "year": 2025,
      "title": "YSES 2b is a background star: Differential astrometric M-dwarf measurements in time",
-     "journal": null,
+     "journal": "A&A 701, A104",
      "arxiv": "2509.09504",
-     "bibcode": null
+     "bibcode": "2025A&A...701A.104K"
     }
    ]
   }

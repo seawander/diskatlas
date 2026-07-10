@@ -1,7 +1,9 @@
 {
  "id": "hip-53005",
  "name": "HIP 53005",
- "alt_names": ["HD 93901"],
+ "alt_names": [
+  "HD 93901"
+ ],
  "simbad": "HIP 53005",
  "ra_deg": 162.65235438199,
  "dec_deg": 23.40628647751,
@@ -30,7 +32,7 @@
     "title": "Discovery of a Low-Mass Companion to the Accelerating Star HIP 53005 with Strongly Conflicting Mass Estimates",
     "journal": "AJ (2026)",
     "arxiv": "2604.03767",
-    "bibcode": null
+    "bibcode": "2026AJ....171..332U"
    }
   }
  ],
@@ -52,7 +54,7 @@
     "title": "Discovery of a Low-Mass Companion to the Accelerating Star HIP 53005 with Strongly Conflicting Mass Estimates",
     "journal": "AJ (2026)",
     "arxiv": "2604.03767",
-    "bibcode": null
+    "bibcode": "2026AJ....171..332U"
    }
   },
   {
@@ -71,7 +73,7 @@
     "title": "Discovery of a Low-Mass Companion to the Accelerating Star HIP 53005 with Strongly Conflicting Mass Estimates",
     "journal": "AJ",
     "arxiv": "2604.03767",
-    "bibcode": null
+    "bibcode": "2026AJ....171..332U"
    },
    "file": "images/hip-53005/hip-53005_nirc2-2024.png"
   }

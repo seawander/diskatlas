@@ -30,7 +30,8 @@
     "first_author": "Close",
     "year": 2025,
     "arxiv": "2508.19046",
-    "bibcode": "2025ApJ...990L...9C"
+    "bibcode": "2025ApJ...990L...9C",
+    "journal": "ApJL 990, L9"
    }
   },
   {
@@ -41,7 +42,8 @@
     "first_author": "Lawlor",
     "year": 2026,
     "arxiv": "2603.22085",
-    "bibcode": null
+    "bibcode": "2026ApJ..1000L..38L",
+    "journal": "ApJL 1000, L38"
    },
    "method": "interferometry"
   }
@@ -82,7 +84,7 @@
     "title": "WIde Separation Planets In Time (WISPIT): A gap-clearing planet in a multi-ringed disk around the young solar-type star WISPIT 2",
     "journal": "ApJL (2025)",
     "arxiv": "2508.19053",
-    "bibcode": null
+    "bibcode": "2025ApJ...990L...8V"
    },
    "image_id": "wispit-2_sphere2025",
    "file": "images/wispit-2/wispit-2_sphere2025.png"
@@ -102,7 +104,7 @@
     "title": "A 2 au resolution view by ALMA of the planet-hosting WISPIT 2 disk",
     "journal": "arXiv (2026)",
     "arxiv": "2601.15948",
-    "bibcode": null
+    "bibcode": "2026ApJ...998L..16F"
    },
    "image_id": "wispit-2_alma2026",
    "file": "images/wispit-2/wispit-2_alma2026.png"
@@ -122,7 +124,7 @@
     "title": "Direct spectroscopic confirmation of the young embedded proto-planet WISPIT 2c",
     "journal": "arXiv (2026)",
     "arxiv": "2603.22085",
-    "bibcode": null
+    "bibcode": "2026ApJ..1000L..38L"
    },
    "image_id": "wispit-2_gravity2026",
    "file": "images/wispit-2/wispit-2_gravity2026.png"
@@ -143,7 +145,7 @@
     "title": "Wide Separation Planets In Time (WISPIT): Discovery of a Gap Hα Protoplanet WISPIT 2b with MagAO-X",
     "journal": "ApJL",
     "arxiv": "2508.19046",
-    "bibcode": null
+    "bibcode": "2025ApJ...990L...9C"
    },
    "file": "images/wispit-2/wispit-2_lband2025.png"
   },
@@ -161,9 +163,9 @@
     "first_author": "Lawlor",
     "year": 2026,
     "title": "Direct spectroscopic confirmation of the young embedded proto-planet WISPIT 2c",
-    "journal": null,
+    "journal": "ApJL 1000, L38",
     "arxiv": "2603.22085",
-    "bibcode": null
+    "bibcode": "2026ApJ..1000L..38L"
    },
    "file": "images/wispit-2/wispit-2_planetc2026.png"
   }

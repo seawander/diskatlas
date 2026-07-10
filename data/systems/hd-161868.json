@@ -1,7 +1,11 @@
 {
  "id": "hd-161868",
  "name": "HD 161868",
- "alt_names": ["gamma Oph", "HIP 87108", "HR 6629"],
+ "alt_names": [
+  "gamma Oph",
+  "HIP 87108",
+  "HR 6629"
+ ],
  "simbad": "HD 161868",
  "ra_deg": 266.9731691245113,
  "dec_deg": 2.7072791218992,
@@ -30,7 +34,7 @@
     "title": "The ALMA survey to Resolve exoKuiper belt Substructures (ARKS) I: Motivation, sample, data reduction, and results overview",
     "journal": "A&A",
     "arxiv": "2601.11708",
-    "bibcode": null
+    "bibcode": "2026A&A...705A.195M"
    }
   },
   {
@@ -69,7 +73,7 @@
     "title": "A radially broad collisional cascade in the debris disk of $\\gamma$ Ophiuchi observed by JWST",
     "journal": "ApJ (accepted)",
     "arxiv": "2601.15285",
-    "bibcode": null
+    "bibcode": "2026ApJ..1004..182H"
    },
    "file": "images/hd-161868/hd-161868_jwst-miri2026.png"
   }

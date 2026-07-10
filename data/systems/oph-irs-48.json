@@ -71,7 +71,7 @@
     "title": "Matryoshka Holes: Nested Emission Rings in the Transitional Disk Oph IRS 48",
     "journal": "The Astrophysical Journal Letters, 758, L30",
     "arxiv": "1209.1641",
-    "bibcode": null
+    "bibcode": "2012ApJ...758L..30B"
    },
    "file": "images/oph-irs-48/oph-irs-48_sma2012.png"
   },
@@ -91,7 +91,7 @@
     "title": "Mid-infrared Multi-wavelength Imaging of Ophiuchus\\,IRS\\,48\\,Transitional Disk",
     "journal": "Publications of the Astronomical Society of Japan, 70, 44",
     "arxiv": "1804.02145",
-    "bibcode": null
+    "bibcode": "2018PASJ...70...44H"
    },
    "file": "images/oph-irs-48/oph-irs-48_comics2018.png"
   },
@@ -109,9 +109,9 @@
     "first_author": "Schworer",
     "year": 2017,
     "title": "A resolved and asymmetric ring of PAHs within the young circumstellar disk of IRS 48",
-    "journal": null,
+    "journal": "ApJ 842, 77",
     "arxiv": "1706.06678",
-    "bibcode": null
+    "bibcode": "2017ApJ...842...77S"
    },
    "file": "images/oph-irs-48/oph-irs-48_naco2017.png"
   },
@@ -129,9 +129,9 @@
     "first_author": "van der Marel",
     "year": 2015,
     "title": "A concentration of centimeter-sized grains in the Ophiuchus IRS 48 dust trap",
-    "journal": null,
+    "journal": "ApJL 810, L7",
     "arxiv": "1508.01003",
-    "bibcode": null
+    "bibcode": "2015ApJ...810L...7V"
    },
    "file": "images/oph-irs-48/oph-irs-48_vla2015.png"
   }

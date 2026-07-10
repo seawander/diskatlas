@@ -29,7 +29,8 @@
     "first_author": "Nielsen",
     "year": 2012,
     "arxiv": "1202.2854",
-    "bibcode": null
+    "bibcode": "2012ApJ...750...53N",
+    "journal": "ApJ 750, 53"
    },
    "extra_papers": [
     {
@@ -38,7 +39,7 @@
      "title": "First light of the VLT planet finder SPHERE. II. The physical properties and the architecture of the young systems PZ Tel and HD 1160 revisited",
      "journal": "A&A",
      "arxiv": "1511.04072",
-     "bibcode": null
+     "bibcode": "2016A&A...587A..56M"
     }
    ]
   },
@@ -51,7 +52,8 @@
     "first_author": "Nielsen",
     "year": 2012,
     "arxiv": "1202.2854",
-    "bibcode": null
+    "bibcode": "2012ApJ...750...53N",
+    "journal": "ApJ 750, 53"
    }
   }
  ],
@@ -74,7 +76,7 @@
     "title": "The Gemini NICI Planet-Finding Campaign: Discovery of a Multiple System Orbiting the Young A Star HD 1160",
     "journal": "ApJ 750, 53",
     "arxiv": "1202.2854",
-    "bibcode": null
+    "bibcode": "2012ApJ...750...53N"
    }
   }
  ],

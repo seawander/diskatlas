@@ -1,10 +1,12 @@
 {
  "id": "hd-143811",
  "name": "HD 143811",
- "alt_names": ["HIP 78663"],
+ "alt_names": [
+  "HIP 78663"
+ ],
  "simbad": "HD 143811",
- "ra_deg": 240.8892710592800,
- "dec_deg": -30.1370498863300,
+ "ra_deg": 240.88927105928,
+ "dec_deg": -30.13704988633,
  "dist_pc": 136.9,
  "plx_mas": 7.3065,
  "mags": {
@@ -27,7 +29,8 @@
     "first_author": "Jones",
     "year": 2025,
     "arxiv": "2509.06729",
-    "bibcode": null
+    "bibcode": "2025ApJ...995L..41J",
+    "journal": "ApJL 995, L41"
    }
   }
  ],
@@ -48,7 +51,7 @@
     "title": "HD 143811 AB b: A Directly Imaged Planet Orbiting a Spectroscopic Binary in Sco-Cen",
     "journal": "ApJL 995, L41",
     "arxiv": "2509.06729",
-    "bibcode": null
+    "bibcode": "2025ApJ...995L..41J"
    },
    "file": "images/hd-143811/hd-143811_gpi2025.png"
   }

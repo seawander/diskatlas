@@ -26,7 +26,8 @@
     "first_author": "Kraus",
     "year": 2014,
     "arxiv": "1311.7664",
-    "bibcode": null
+    "bibcode": "2014ApJ...781...20K",
+    "journal": "ApJ 781, 20"
    },
    "extra_papers": [
     {
@@ -35,7 +36,7 @@
      "title": "An ALMA Dynamical Mass Estimate of the Proposed Planetary-mass Companion FW Tau C",
      "journal": "ApJL 846, L26",
      "arxiv": "1708.08122",
-     "bibcode": null
+     "bibcode": "2017ApJ...846L..26W"
     }
    ]
   }
@@ -59,7 +60,7 @@
     "title": "Three Wide Planetary-Mass Companions to FW Tau, ROXs 12, and ROXs 42B",
     "journal": "AJ 147, 146",
     "arxiv": "1311.7664",
-    "bibcode": null
+    "bibcode": "2014ApJ...781...20K"
    }
   }
  ],

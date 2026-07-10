@@ -22,7 +22,8 @@
     "first_author": "Marois",
     "year": 2008,
     "arxiv": "0811.2606",
-    "bibcode": "2008Sci...322.1348M"
+    "bibcode": "2008Sci...322.1348M",
+    "journal": "Science 322, 1348"
    }
   },
   {
@@ -32,7 +33,8 @@
     "first_author": "Marois",
     "year": 2008,
     "arxiv": "0811.2606",
-    "bibcode": "2008Sci...322.1348M"
+    "bibcode": "2008Sci...322.1348M",
+    "journal": "Science 322, 1348"
    }
   },
   {
@@ -42,7 +44,8 @@
     "first_author": "Marois",
     "year": 2008,
     "arxiv": "0811.2606",
-    "bibcode": "2008Sci...322.1348M"
+    "bibcode": "2008Sci...322.1348M",
+    "journal": "Science 322, 1348"
    }
   },
   {
@@ -52,7 +55,8 @@
     "first_author": "Marois",
     "year": 2010,
     "arxiv": "1011.4918",
-    "bibcode": "2010Natur.468.1080M"
+    "bibcode": "2010Natur.468.1080M",
+    "journal": "Nature 468, 1080"
    }
   }
  ],
@@ -92,7 +96,7 @@
     "title": "Resolving the Planetesimal Belt of HR 8799 with ALMA",
     "journal": "MNRAS 460, L10",
     "arxiv": "1603.04853",
-    "bibcode": null
+    "bibcode": "2016MNRAS.460L..10B"
    },
    "image_id": "hr-8799_alma2016",
    "file": "images/hr-8799/hr-8799_alma2016.png"
@@ -154,7 +158,7 @@
     "title": "The ALMA survey to Resolve exoKuiper belt Substructures (ARKS) I: Motivation, sample, data reduction, and results overview",
     "journal": "A&A",
     "arxiv": "2601.11708",
-    "bibcode": null
+    "bibcode": "2026A&A...705A.195M"
    }
   },
   {
@@ -174,7 +178,7 @@
     "title": "Characterization of debris disks observed with SPHERE",
     "journal": "A&A 704, A21",
     "arxiv": "2512.03128",
-    "bibcode": null
+    "bibcode": "2025A&A...704A..21E"
    }
   },
   {
@@ -233,7 +237,7 @@
     "title": "Imaging detection of the inner dust belt and the four exoplanets in the HR 8799 system with JWST's MIRI coronagraph",
     "journal": "A&A (2024)",
     "arxiv": "2310.13414",
-    "bibcode": null
+    "bibcode": "2024A&A...686A..33B"
    },
    "file": "images/hr-8799/hr-8799_miri2024-f1065c.png"
   },
@@ -253,7 +257,7 @@
     "title": "Imaging detection of the inner dust belt and the four exoplanets in the HR 8799 system with JWST's MIRI coronagraph",
     "journal": "A&A (2024)",
     "arxiv": "2310.13414",
-    "bibcode": null
+    "bibcode": "2024A&A...686A..33B"
    },
    "file": "images/hr-8799/hr-8799_miri2024-f1140c.png"
   },
@@ -273,7 +277,7 @@
     "title": "Imaging detection of the inner dust belt and the four exoplanets in the HR 8799 system with JWST's MIRI coronagraph",
     "journal": "A&A (2024)",
     "arxiv": "2310.13414",
-    "bibcode": null
+    "bibcode": "2024A&A...686A..33B"
    },
    "file": "images/hr-8799/hr-8799_miri2024-f1550c.png"
   },
@@ -293,7 +297,7 @@
     "title": "Imaging detection of the inner dust belt and the four exoplanets in the HR 8799 system with JWST's MIRI coronagraph",
     "journal": "A&A (2024)",
     "arxiv": "2310.13414",
-    "bibcode": null
+    "bibcode": "2024A&A...686A..33B"
    },
    "file": "images/hr-8799/hr-8799_miri2024-f2100w.png"
   },
@@ -314,7 +318,7 @@
     "title": "ALICE Data Release: A revaluation of HST-NICMOS coronagraphic images",
     "journal": "AJ 155, 179",
     "arxiv": "1802.07754",
-    "bibcode": null
+    "bibcode": "2018AJ....155..179H"
    },
    "hires_url": "https://archive.stsci.edu/prepds/alice/"
   },
@@ -354,7 +358,7 @@
     "title": "Atmospheric Monitoring and Precise Spectroscopy of the HR 8799 Planets with SCExAO/CHARIS",
     "journal": "AJ 164, 143 (2022)",
     "arxiv": "2208.05594",
-    "bibcode": null
+    "bibcode": "2022AJ....164..143W"
    },
    "file": "images/hr-8799/hr-8799_charis2022.png"
   },
@@ -374,7 +378,7 @@
     "title": "Reconnaissance of the HR 8799 Exosolar System I: Near IR Spectroscopy",
     "journal": "ApJ 768, 24 (2013)",
     "arxiv": "1303.2627",
-    "bibcode": null
+    "bibcode": "2013ApJ...768...24O"
    },
    "file": "images/hr-8799/hr-8799_p1640-2012.png"
   },
@@ -394,7 +398,7 @@
     "title": "Direct Imaging of Multiple Planets Orbiting the Star HR 8799",
     "journal": "Science 322, 1348 (2008)",
     "arxiv": "0811.2606",
-    "bibcode": null
+    "bibcode": "2008Sci...322.1348M"
    },
    "file": "images/hr-8799/hr-8799_niri2008.png"
   },
@@ -412,9 +416,9 @@
     "first_author": "Matthews",
     "year": 2014,
     "title": "Resolved Imaging of the HR 8799 Debris Disk with Herschel",
-    "journal": null,
+    "journal": "ApJ 780, 97",
     "arxiv": "1311.2977",
-    "bibcode": null
+    "bibcode": "2014ApJ...780...97M"
    },
    "file": "images/hr-8799/hr-8799_herschel2014.png"
   },
@@ -434,7 +438,7 @@
     "title": "HST/NICMOS detection of HR 8799 b in 1998",
     "journal": "ApJL 694, L148",
     "arxiv": "0902.3247",
-    "bibcode": null
+    "bibcode": "2009ApJ...694L.148L"
    },
    "file": "images/hr-8799/hr-8799_nicmos1998.png"
   },
@@ -454,7 +458,7 @@
     "title": "Orbital Motion of HR 8799 b,c, d using Hubble Space Telescope data from 1998: Constraints on Inclination, Eccentricity and Stability",
     "journal": "ApJ 741, 55",
     "arxiv": "1110.1382",
-    "bibcode": null
+    "bibcode": "2011ApJ...741...55S"
    },
    "file": "images/hr-8799/hr-8799_nicmos1998-soummer.png"
   },
@@ -474,7 +478,7 @@
     "title": "Reconnaissance of the HR 8799 Exosolar System II: Astrometry and Orbital Motion",
     "journal": "ApJ 803, 31",
     "arxiv": "1409.6388",
-    "bibcode": null
+    "bibcode": "2015ApJ...803...31P"
    },
    "file": "images/hr-8799/hr-8799_p1640-2015.png"
   },

@@ -32,7 +32,7 @@
     "title": "Observations of highly inclined disks with ALMA. Results from 12CO gas and continuum observations",
     "journal": "A&A (2026)",
     "arxiv": "2604.11247",
-    "bibcode": null
+    "bibcode": "2026A&A...710A.140M"
    }
   },
   {
@@ -69,9 +69,9 @@
     "first_author": "Hornbeck",
     "year": 2012,
     "title": "PDS 144: The First Confirmed Herbig Ae - Herbig Ae Wide Binary",
-    "journal": null,
+    "journal": "ApJ 744, 54",
     "arxiv": "1201.0173",
-    "bibcode": null
+    "bibcode": "2012ApJ...744...54H"
    },
    "file": "images/pds-144-n/pds-144-n_acsstis2011.png"
   },
@@ -89,9 +89,9 @@
     "first_author": "Perrin",
     "year": 2009,
     "title": "Coronagraphic Polarimetry of Circumstellar Disks Around Herbig Ae/Be Stars: Investigating Disk Properties and Dust Grain Growth with HST NICMOS",
-    "journal": "BAAS 41, 208 (AAS 213 poster)",
+    "journal": "AAS Meeting 213 (poster)",
     "arxiv": null,
-    "bibcode": null
+    "bibcode": "2009AAS...21340903P"
    },
    "file": "images/pds-144-n/pds-144-n_nicmos-go11155-1um.png",
    "hires_url": "https://www.stsci.edu/~mperrin/pdfs/poster_2009AAS_NICPOL_HAEBES.pdf"
@@ -110,9 +110,9 @@
     "first_author": "Perrin",
     "year": 2009,
     "title": "Coronagraphic Polarimetry of Circumstellar Disks Around Herbig Ae/Be Stars: Investigating Disk Properties and Dust Grain Growth with HST NICMOS",
-    "journal": "BAAS 41, 208 (AAS 213 poster)",
+    "journal": "AAS Meeting 213 (poster)",
     "arxiv": null,
-    "bibcode": null
+    "bibcode": "2009AAS...21340903P"
    },
    "file": "images/pds-144-n/pds-144-n_nicmos-go11155-pol2um.png",
    "hires_url": "https://www.stsci.edu/~mperrin/pdfs/poster_2009AAS_NICPOL_HAEBES.pdf"

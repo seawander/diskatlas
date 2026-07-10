@@ -54,7 +54,7 @@
     "title": "JWST/NIRCam Detection of the Fomalhaut C Debris Disk in Scattered Light",
     "journal": "ApJL (2024)",
     "arxiv": "2405.00573",
-    "bibcode": null
+    "bibcode": "2024ApJ...967L...8L"
    }
   },
   {
@@ -71,9 +71,9 @@
     "first_author": "Cronin-Coltsmann",
     "year": 2021,
     "title": "ALMA imaging of the M-dwarf Fomalhaut C's debris disc",
-    "journal": null,
+    "journal": "MNRAS 504, 4497",
     "arxiv": "2104.13396",
-    "bibcode": null
+    "bibcode": "2021MNRAS.504.4497C"
    },
    "file": "images/hd-216956c/hd-216956c_alma2021.png"
   }

@@ -30,7 +30,7 @@
     "title": "exoALMA IV: Substructures, Asymmetries, and the Faint Outer Disk in Continuum Emission",
     "journal": "ApJL (exoALMA special issue)",
     "arxiv": "2504.18725",
-    "bibcode": null
+    "bibcode": "2025ApJ...984L...9C"
    }
   },
   {
@@ -70,7 +70,7 @@
     "title": "ALICE Data Release: A revaluation of HST-NICMOS coronagraphic images",
     "journal": "AJ 155, 179",
     "arxiv": "1802.07754",
-    "bibcode": null
+    "bibcode": "2018AJ....155..179H"
    },
    "hires_url": "https://archive.stsci.edu/prepds/alice/"
   },
@@ -90,7 +90,7 @@
     "title": "Search for substellar-mass companions and asymmetries in their parent discs",
     "journal": "A&A 595, A9",
     "arxiv": "1608.03629",
-    "bibcode": null
+    "bibcode": "2016A&A...595A...9W"
    },
    "file": "images/dm-tau/dm-tau_nirc2-sam2016.png"
   },
@@ -130,7 +130,7 @@
     "title": "exoALMA I. Science Goals, Project Design and Data Products",
     "journal": "ApJL (exoALMA Focus Issue)",
     "arxiv": "2504.18688",
-    "bibcode": null
+    "bibcode": "2025ApJ...984L...6T"
    },
    "file": "images/dm-tau/dm-tau_exoalma-co.png"
   },

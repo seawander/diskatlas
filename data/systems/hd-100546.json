@@ -22,7 +22,8 @@
     "first_author": "Quanz",
     "year": 2013,
     "arxiv": "1302.7122",
-    "bibcode": "2013ApJ...766L...1Q"
+    "bibcode": "2013ApJ...766L...1Q",
+    "journal": "ApJL 766, L1"
    },
    "extra_papers": [
     {
@@ -31,7 +32,7 @@
      "title": "An Optical/near-infrared investigation of HD 100546 b with the Gemini Planet Imager and MagAO",
      "journal": "AJ",
      "arxiv": "1704.06317",
-     "bibcode": null
+     "bibcode": "2017AJ....153..244R"
     }
    ]
   },
@@ -43,7 +44,8 @@
     "first_author": "Currie",
     "year": 2015,
     "arxiv": "1511.02526",
-    "bibcode": "2015ApJ...814L..27C"
+    "bibcode": "2015ApJ...814L..27C",
+    "journal": "ApJL 814, L27"
    },
    "extra_papers": [
     {
@@ -52,7 +54,7 @@
      "title": "Complex Spiral Structure in the HD 100546 Transitional Disk as Revealed by GPI and MagAO",
      "journal": "AJ",
      "arxiv": "1704.06260",
-     "bibcode": null
+     "bibcode": "2017AJ....153..264F"
     }
    ]
   }
@@ -215,7 +217,7 @@
     "title": "ALICE Data Release: A revaluation of HST-NICMOS coronagraphic images",
     "journal": "AJ 155, 179",
     "arxiv": "1802.07754",
-    "bibcode": null
+    "bibcode": "2018AJ....155..179H"
    },
    "hires_url": "https://archive.stsci.edu/prepds/alice/"
   },
@@ -275,7 +277,7 @@
     "title": "Reference-star differential imaging on SPHERE/IRDIS",
     "journal": "A&A 666, A32",
     "arxiv": "2208.07915",
-    "bibcode": null
+    "bibcode": "2022A&A...666A..32X"
    },
    "file": "images/hd-100546/hd-100546_sphere-rdi-xie22.png"
   },
@@ -295,7 +297,7 @@
     "title": "A Resolved Circumstellar Disk around the Herbig Ae Star HD 100546 in the Thermal Infrared",
     "journal": "The Astrophysical Journal Letters",
     "arxiv": "astro-ph/0310564",
-    "bibcode": null
+    "bibcode": "2003ApJ...598L.111L"
    },
    "file": "images/hd-100546/hd-100546_mirac2003.png"
   },
@@ -335,7 +337,7 @@
     "title": "New mid-infrared imaging constraints on companions and protoplanetary disks around six young stars",
     "journal": "A&A",
     "arxiv": "2102.12506",
-    "bibcode": null
+    "bibcode": "2021A&A...648A..92P"
    },
    "file": "images/hd-100546/hd-100546_visir2021.png",
    "note": "HD 100546 is 'clearly resolved in all bands' per the paper -- the most robustly resolved disk of the six targets."
@@ -356,7 +358,7 @@
     "title": "Protoplanetary disk insights from the first ERIS/APP survey at 4 μm",
     "journal": "Astronomy & Astrophysics",
     "arxiv": "2504.19810",
-    "bibcode": null
+    "bibcode": "2025A&A...698A..52M"
    },
    "file": "images/hd-100546/hd-100546_eris2025.png"
   },
@@ -374,9 +376,9 @@
     "first_author": "Currie",
     "year": 2014,
     "title": "Recovery of the Candidate Protoplanet HD 100546 b with Gemini/NICI",
-    "journal": null,
+    "journal": "ApJL 796, L30",
     "arxiv": "1411.0315",
-    "bibcode": null
+    "bibcode": "2014ApJ...796L..30C"
    },
    "file": "images/hd-100546/hd-100546_nici2014.png"
   },
@@ -434,9 +436,9 @@
     "first_author": "Perrin",
     "year": 2009,
     "title": "Coronagraphic Polarimetry of Circumstellar Disks Around Herbig Ae/Be Stars: Investigating Disk Properties and Dust Grain Growth with HST NICMOS",
-    "journal": "BAAS 41, 208 (AAS 213 poster)",
+    "journal": "AAS Meeting 213 (poster)",
     "arxiv": null,
-    "bibcode": null
+    "bibcode": "2009AAS...21340903P"
    },
    "file": "images/hd-100546/hd-100546_nicmos-go11155-1um.png",
    "hires_url": "https://www.stsci.edu/~mperrin/pdfs/poster_2009AAS_NICPOL_HAEBES.pdf"
@@ -455,9 +457,9 @@
     "first_author": "Perrin",
     "year": 2009,
     "title": "Coronagraphic Polarimetry of Circumstellar Disks Around Herbig Ae/Be Stars: Investigating Disk Properties and Dust Grain Growth with HST NICMOS",
-    "journal": "BAAS 41, 208 (AAS 213 poster)",
+    "journal": "AAS Meeting 213 (poster)",
     "arxiv": null,
-    "bibcode": null
+    "bibcode": "2009AAS...21340903P"
    },
    "file": "images/hd-100546/hd-100546_nicmos-go11155-pol2um.png",
    "hires_url": "https://www.stsci.edu/~mperrin/pdfs/poster_2009AAS_NICPOL_HAEBES.pdf"

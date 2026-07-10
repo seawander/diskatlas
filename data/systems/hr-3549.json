@@ -1,7 +1,10 @@
 {
  "id": "hr-3549",
  "name": "HR 3549",
- "alt_names": ["HD 76346", "HIP 43620"],
+ "alt_names": [
+  "HD 76346",
+  "HIP 43620"
+ ],
  "simbad": "HR 3549",
  "ra_deg": 133.2657458385,
  "dec_deg": -56.6494854266,
@@ -27,7 +30,8 @@
     "first_author": "Mawet",
     "year": 2015,
     "arxiv": "1509.05689",
-    "bibcode": null
+    "bibcode": "2015ApJ...811..103M",
+    "journal": "ApJ 811, 103"
    }
   }
  ],
@@ -50,7 +54,7 @@
     "title": "Discovery of a low-mass companion around HR3549",
     "journal": "ApJ 811, 103",
     "arxiv": "1509.05689",
-    "bibcode": null
+    "bibcode": "2015ApJ...811..103M"
    }
   }
  ],

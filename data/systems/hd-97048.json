@@ -1,7 +1,9 @@
 {
  "id": "hd-97048",
  "name": "HD 97048",
- "alt_names": ["HIP 54413"],
+ "alt_names": [
+  "HIP 54413"
+ ],
  "simbad": "HD 97048",
  "ra_deg": 167.01379572155,
  "dec_deg": -77.65485854929,
@@ -130,7 +132,7 @@
     "title": "ALICE Data Release: A revaluation of HST-NICMOS coronagraphic images",
     "journal": "AJ 155, 179",
     "arxiv": "1802.07754",
-    "bibcode": null
+    "bibcode": "2018AJ....155..179H"
    },
    "hires_url": "https://archive.stsci.edu/prepds/alice/"
   },
@@ -150,7 +152,7 @@
     "title": "HD97048: a closer look to the disk",
     "journal": "Astronomy & Astrophysics",
     "arxiv": "0704.3678",
-    "bibcode": null
+    "bibcode": "2007arXiv0704.3678D"
    },
    "file": "images/hd-97048/hd-97048_visir2007.png"
   },
@@ -170,7 +172,7 @@
     "title": "HD 97048's Circumstellar Environment as Revealed by a HST/ACS Coronagraphic Study of Disk Candidate Stars",
     "journal": "AJ 133, 2122",
     "arxiv": "astro-ph/0701576",
-    "bibcode": null
+    "bibcode": "2007AJ....133.2122D"
    },
    "file": "images/hd-97048/hd-97048_acs2007.png"
   },
@@ -210,7 +212,7 @@
     "title": "Reference-star differential imaging on SPHERE/IRDIS",
     "journal": "A&A 666, A32",
     "arxiv": "2208.07915",
-    "bibcode": null
+    "bibcode": "2022A&A...666A..32X"
    },
    "file": "images/hd-97048/hd-97048_sphere-rdi-xie22.png"
   }

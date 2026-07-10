@@ -1,7 +1,9 @@
 {
  "id": "hd-145560",
  "name": "HD 145560",
- "alt_names": ["HIP 79516"],
+ "alt_names": [
+  "HIP 79516"
+ ],
  "simbad": "HD 145560",
  "ra_deg": 243.39305660756,
  "dec_deg": -45.81769203741,
@@ -50,7 +52,7 @@
     "title": "The ALMA survey to Resolve exoKuiper belt Substructures (ARKS) I: Motivation, sample, data reduction, and results overview",
     "journal": "A&A",
     "arxiv": "2601.11708",
-    "bibcode": null
+    "bibcode": "2026A&A...705A.195M"
    }
   },
   {
@@ -90,7 +92,7 @@
     "title": "Characterization of debris disks observed with SPHERE",
     "journal": "A&A 704, A21",
     "arxiv": "2512.03128",
-    "bibcode": null
+    "bibcode": "2025A&A...704A..21E"
    }
   }
  ],

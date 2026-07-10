@@ -52,7 +52,7 @@
     "title": "Characterization of debris disks observed with SPHERE",
     "journal": "A&A 704, A21",
     "arxiv": "2512.03128",
-    "bibcode": null
+    "bibcode": "2025A&A...704A..21E"
    }
   },
   {
@@ -92,7 +92,7 @@
     "title": "ALICE Data Release: A revaluation of HST-NICMOS coronagraphic images",
     "journal": "AJ 155, 179",
     "arxiv": "1802.07754",
-    "bibcode": null
+    "bibcode": "2018AJ....155..179H"
    },
    "hires_url": "https://archive.stsci.edu/prepds/alice/"
   },
@@ -152,7 +152,7 @@
     "title": "Five Debris Disks Newly Revealed in Scattered Light from the HST NICMOS Archive",
     "journal": "The Astrophysical Journal Letters, 786, L23",
     "arxiv": "1404.5614",
-    "bibcode": null
+    "bibcode": "2014ApJ...786L..23S"
    },
    "file": "images/nz-lup/nz-lup_nicmos2014.png"
   },
@@ -172,7 +172,7 @@
     "title": "Reference-star differential imaging on SPHERE/IRDIS",
     "journal": "A&A 666, A32",
     "arxiv": "2208.07915",
-    "bibcode": null
+    "bibcode": "2022A&A...666A..32X"
    },
    "file": "images/nz-lup/nz-lup_sphere-rdi-xie22.png"
   }

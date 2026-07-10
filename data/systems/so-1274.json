@@ -1,16 +1,26 @@
 {
  "id": "so-1274",
  "name": "SO 1274",
- "alt_names": ["2MASS J05395465-0246341"],
+ "alt_names": [
+  "2MASS J05395465-0246341"
+ ],
  "simbad": "2MASS J05395465-0246341",
- "ra_deg": 84.9777325414900,
- "dec_deg": -2.7761465678800,
+ "ra_deg": 84.97773254149,
+ "dec_deg": -2.77614656788,
  "dist_pc": 400.1,
  "plx_mas": 2.455,
- "mags": {"V": 14.40, "G": 13.517148, "J": 11.054, "H": 10.251, "K": 9.832},
+ "mags": {
+  "V": 14.4,
+  "G": 13.517148,
+  "J": 11.054,
+  "H": 10.251,
+  "K": 9.832
+ },
  "sptype": "K6.0",
  "region": "sigma Orionis",
- "categories": ["protoplanetary"],
+ "categories": [
+  "protoplanetary"
+ ],
  "planets": [],
  "images": [
   {
@@ -29,7 +39,7 @@
     "title": "High Resolution ALMA Observations of Richly Structured Protoplanetary Disks in sigma Orionis",
     "journal": "ApJ",
     "arxiv": "2410.03823",
-    "bibcode": null
+    "bibcode": "2024ApJ...976..132H"
    },
    "file": "images/so-1274/so-1274_alma2024.png"
   }

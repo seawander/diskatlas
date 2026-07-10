@@ -1,7 +1,11 @@
 {
  "id": "hd-207129",
  "name": "HD 207129",
- "alt_names": ["GJ 838", "HIP 107649", "HR 8323"],
+ "alt_names": [
+  "GJ 838",
+  "HIP 107649",
+  "HR 8323"
+ ],
  "simbad": "HD 207129",
  "ra_deg": 327.0656298475778,
  "dec_deg": -47.3036160814856,
@@ -87,9 +91,9 @@
     "first_author": "Marshall",
     "year": 2011,
     "title": "A Herschel resolved far-infrared dust ring around HD 207129",
-    "journal": null,
+    "journal": "A&A 529, A117",
     "arxiv": "1104.3560",
-    "bibcode": null
+    "bibcode": "2011A&A...529A.117M"
    },
    "file": "images/hd-207129/hd-207129_herschel2011.png"
   }

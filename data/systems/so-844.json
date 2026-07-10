@@ -1,16 +1,26 @@
 {
  "id": "so-844",
  "name": "SO 844",
- "alt_names": ["2MASS J05390136-0218274"],
+ "alt_names": [
+  "2MASS J05390136-0218274"
+ ],
  "simbad": "2MASS J05390136-0218274",
- "ra_deg": 84.7557127025300,
- "dec_deg": -2.3076268431600,
+ "ra_deg": 84.75571270253,
+ "dec_deg": -2.30762684316,
  "dist_pc": 408.4,
  "plx_mas": 2.4067,
- "mags": {"V": 15.01, "G": 14.290803, "J": 11.733, "H": 10.842, "K": 10.335},
+ "mags": {
+  "V": 15.01,
+  "G": 14.290803,
+  "J": 11.733,
+  "H": 10.842,
+  "K": 10.335
+ },
  "sptype": "M0.5",
  "region": "sigma Orionis",
- "categories": ["protoplanetary"],
+ "categories": [
+  "protoplanetary"
+ ],
  "planets": [],
  "images": [
   {
@@ -29,7 +39,7 @@
     "title": "High Resolution ALMA Observations of Richly Structured Protoplanetary Disks in sigma Orionis",
     "journal": "ApJ",
     "arxiv": "2410.03823",
-    "bibcode": null
+    "bibcode": "2024ApJ...976..132H"
    },
    "file": "images/so-844/so-844_alma2024.png"
   }

@@ -132,7 +132,7 @@
     "title": "ALICE Data Release: A revaluation of HST-NICMOS coronagraphic images",
     "journal": "AJ 155, 179",
     "arxiv": "1802.07754",
-    "bibcode": null
+    "bibcode": "2018AJ....155..179H"
    },
    "hires_url": "https://archive.stsci.edu/prepds/alice/"
   },
@@ -152,7 +152,7 @@
     "title": "Improved Orbital Constraints and Hα Photometric Monitoring of the Directly Imaged Protoplanet Analog HD 142527 B",
     "journal": "AJ",
     "arxiv": "2206.00687",
-    "bibcode": null
+    "bibcode": "2022AJ....164...29B"
    },
    "file": "images/hd-142527/hd-142527_gpi-visao2022.png"
   },
@@ -210,9 +210,9 @@
     "first_author": "Perrin",
     "year": 2009,
     "title": "Coronagraphic Polarimetry of Circumstellar Disks Around Herbig Ae/Be Stars: Investigating Disk Properties and Dust Grain Growth with HST NICMOS",
-    "journal": "BAAS 41, 208 (AAS 213 poster)",
+    "journal": "AAS Meeting 213 (poster)",
     "arxiv": null,
-    "bibcode": null
+    "bibcode": "2009AAS...21340903P"
    },
    "file": "images/hd-142527/hd-142527_nicmos-go11155-1um.png",
    "hires_url": "https://www.stsci.edu/~mperrin/pdfs/poster_2009AAS_NICPOL_HAEBES.pdf"
@@ -231,9 +231,9 @@
     "first_author": "Perrin",
     "year": 2009,
     "title": "Coronagraphic Polarimetry of Circumstellar Disks Around Herbig Ae/Be Stars: Investigating Disk Properties and Dust Grain Growth with HST NICMOS",
-    "journal": "BAAS 41, 208 (AAS 213 poster)",
+    "journal": "AAS Meeting 213 (poster)",
     "arxiv": null,
-    "bibcode": null
+    "bibcode": "2009AAS...21340903P"
    },
    "file": "images/hd-142527/hd-142527_nicmos-go11155-pol2um.png",
    "hires_url": "https://www.stsci.edu/~mperrin/pdfs/poster_2009AAS_NICPOL_HAEBES.pdf"

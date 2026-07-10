@@ -1,7 +1,9 @@
 {
  "id": "hip-64892",
  "name": "HIP 64892",
- "alt_names": ["HD 115470"],
+ "alt_names": [
+  "HD 115470"
+ ],
  "simbad": "HIP 64892",
  "ra_deg": 199.5212677531,
  "dec_deg": -44.0553833384,
@@ -20,7 +22,8 @@
     "first_author": "Cheetham",
     "year": 2018,
     "arxiv": "1803.02725",
-    "bibcode": "2018A&A...615A.160C"
+    "bibcode": "2018A&A...615A.160C",
+    "journal": "A&A 615, A160"
    }
   }
  ],

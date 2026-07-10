@@ -92,7 +92,7 @@
     "title": "Characterization of debris disks observed with SPHERE",
     "journal": "A&A 704, A21",
     "arxiv": "2512.03128",
-    "bibcode": null
+    "bibcode": "2025A&A...704A..21E"
    }
   },
   {
@@ -132,7 +132,7 @@
     "title": "ALICE Data Release: A revaluation of HST-NICMOS coronagraphic images",
     "journal": "AJ 155, 179",
     "arxiv": "1802.07754",
-    "bibcode": null
+    "bibcode": "2018AJ....155..179H"
    },
    "hires_url": "https://archive.stsci.edu/prepds/alice/"
   },
@@ -172,7 +172,7 @@
     "title": "Resolved Imaging of the HD191089 Debris Disc",
     "journal": "MNRAS 410, 2",
     "arxiv": "1008.0865",
-    "bibcode": null
+    "bibcode": "2011MNRAS.410....2C"
    },
    "file": "images/hd-191089/hd-191089_trecs2011.png"
   },

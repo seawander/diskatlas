@@ -20,7 +20,8 @@
     "first_author": "Lagrange",
     "year": 2025,
     "arxiv": "2502.15081",
-    "bibcode": "2025Natur.642..905L"
+    "bibcode": "2025Natur.642..905L",
+    "journal": "Nature 642, 905"
    }
   }
  ],
@@ -202,7 +203,7 @@
     "title": "Characterization of debris disks observed with SPHERE",
     "journal": "A&A 704, A21",
     "arxiv": "2512.03128",
-    "bibcode": null
+    "bibcode": "2025A&A...704A..21E"
    }
   },
   {
@@ -242,7 +243,7 @@
     "title": "ALICE Data Release: A revaluation of HST-NICMOS coronagraphic images",
     "journal": "AJ 155, 179",
     "arxiv": "1802.07754",
-    "bibcode": null
+    "bibcode": "2018AJ....155..179H"
    },
    "hires_url": "https://archive.stsci.edu/prepds/alice/"
   },
@@ -262,7 +263,7 @@
     "title": "Follow-Up Exploration of the TWA 7 Planet-Disk System with JWST NIRCam",
     "journal": "ApJL",
     "arxiv": "2506.19932",
-    "bibcode": null
+    "bibcode": "2025ApJ...987L..41C"
    },
    "file": "images/twa-7/twa-7_nircam2025.png"
   },
@@ -282,7 +283,7 @@
     "title": "Resolving faint structures in the debris disk around TWA7",
     "journal": "A&A 617, A109",
     "arxiv": "1804.01929",
-    "bibcode": null
+    "bibcode": "2018A&A...617A.109O"
    },
    "file": "images/twa-7/twa-7_sphere-hband2018.png"
   },
@@ -302,7 +303,7 @@
     "title": "Sub-millimeter non-contaminated detection of the disk around TWA 7 by ALMA",
     "journal": "MNRAS 486, 5552",
     "arxiv": "1806.09252",
-    "bibcode": null
+    "bibcode": "2019MNRAS.486.5552B"
    },
    "file": "images/twa-7/twa-7_alma2019.png"
   },
@@ -322,7 +323,7 @@
     "title": "Resolving faint structures in the debris disk around TWA7",
     "journal": "A&A 617, A109",
     "arxiv": "1804.01929",
-    "bibcode": null
+    "bibcode": "2018A&A...617A.109O"
    },
    "file": "images/twa-7/twa-7_sphere-jband2018.png"
   }

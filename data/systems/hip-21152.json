@@ -1,7 +1,10 @@
 {
  "id": "hip-21152",
  "name": "HIP 21152",
- "alt_names": ["HD 28736", "HR 1436"],
+ "alt_names": [
+  "HD 28736",
+  "HR 1436"
+ ],
  "simbad": "HIP 21152",
  "ra_deg": 68.0200357857,
  "dec_deg": 5.4100411573,
@@ -30,9 +33,9 @@
     "first_author": "Kuzuhara",
     "year": 2022,
     "title": "Direct Imaging Discovery and Dynamical Mass of a Substellar Companion Orbiting an Accelerating Hyades Sun-like Star with SCExAO/CHARIS",
-    "journal": null,
+    "journal": "ApJL 934, L18",
     "arxiv": "2205.02729",
-    "bibcode": null
+    "bibcode": "2022ApJ...934L..18K"
    }
   }
  ],
@@ -51,9 +54,9 @@
     "first_author": "Kuzuhara",
     "year": 2022,
     "title": "Direct Imaging Discovery and Dynamical Mass of a Substellar Companion Orbiting an Accelerating Hyades Sun-like Star with SCExAO/CHARIS",
-    "journal": null,
+    "journal": "ApJL 934, L18",
     "arxiv": "2205.02729",
-    "bibcode": null
+    "bibcode": "2022ApJ...934L..18K"
    },
    "file": "images/hip-21152/hip-21152_scexao2022.png"
   },
@@ -71,9 +74,9 @@
     "first_author": "Franson",
     "year": 2022,
     "title": "Astrometric Accelerations as Dynamical Beacons: Discovery and Characterization of HIP 21152 B, the First T-Dwarf Companion in the Hyades",
-    "journal": null,
+    "journal": "AJ 165, 39",
     "arxiv": "2211.09840",
-    "bibcode": null
+    "bibcode": "2023AJ....165...39F"
    },
    "file": "images/hip-21152/hip-21152_nirc2-2022.png"
   }

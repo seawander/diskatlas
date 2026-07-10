@@ -1,7 +1,9 @@
 {
  "id": "hd-377",
  "name": "HD 377",
- "alt_names": ["HIP 682"],
+ "alt_names": [
+  "HIP 682"
+ ],
  "simbad": "HD 377",
  "ra_deg": 2.10727273132,
  "dec_deg": 6.61680261328,
@@ -80,7 +82,7 @@
     "title": "Characterization of debris disks observed with SPHERE",
     "journal": "A&A 704, A21",
     "arxiv": "2512.03128",
-    "bibcode": null
+    "bibcode": "2025A&A...704A..21E"
    }
   },
   {
@@ -120,7 +122,7 @@
     "title": "ALICE Data Release: A revaluation of HST-NICMOS coronagraphic images",
     "journal": "AJ 155, 179",
     "arxiv": "1802.07754",
-    "bibcode": null
+    "bibcode": "2018AJ....155..179H"
    },
    "hires_url": "https://archive.stsci.edu/prepds/alice/"
   },
@@ -140,7 +142,7 @@
     "title": "Resolved Millimeter-Wavelength Observations of Debris Disks around Solar-Type Stars",
     "journal": "ApJ (accepted Oct 2015)",
     "arxiv": "1510.08890",
-    "bibcode": null
+    "bibcode": "2016ApJ...816...27S"
    },
    "file": "images/hd-377/hd-377_sma2016.png"
   }

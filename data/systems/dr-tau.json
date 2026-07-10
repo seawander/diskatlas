@@ -70,7 +70,7 @@
     "title": "ALICE Data Release: A revaluation of HST-NICMOS coronagraphic images",
     "journal": "AJ 155, 179",
     "arxiv": "1802.07754",
-    "bibcode": null
+    "bibcode": "2018AJ....155..179H"
    },
    "hires_url": "https://archive.stsci.edu/prepds/alice/"
   },
@@ -90,7 +90,7 @@
     "title": "Molecular Mapping of DR Tau's Protoplanetary Disk, Envelope, Outflow, and Large-Scale Spiral Arm",
     "journal": "ApJ 943, 107",
     "arxiv": "2301.02674",
-    "bibcode": null
+    "bibcode": "2023ApJ...943..107H"
    },
    "file": "images/dr-tau/dr-tau_noema2023.png"
   },
@@ -108,9 +108,9 @@
     "first_author": "Mesa",
     "year": 2022,
     "title": "Signs of late infall and possible planet formation around DR Tau",
-    "journal": null,
+    "journal": "A&A 658, A63",
     "arxiv": "2111.01702",
-    "bibcode": null
+    "bibcode": "2022A&A...658A..63M"
    },
    "file": "images/dr-tau/dr-tau_lbti2022.png"
   }

@@ -1,7 +1,10 @@
 {
  "id": "su-aur",
  "name": "SU Aur",
- "alt_names": ["HD 282624", "HIP 22925"],
+ "alt_names": [
+  "HD 282624",
+  "HIP 22925"
+ ],
  "simbad": "SU Aur",
  "ra_deg": 73.99744453023,
  "dec_deg": 30.56708322447,
@@ -28,7 +31,7 @@
     "title": "Disk Evolution Study Through Imaging of Nearby Young Stars (DESTINYS): Late Infall Causing Disk Misalignment and Dynamic Structures in SU Aur",
     "journal": "ApJL 908, L25",
     "arxiv": "2102.08781",
-    "bibcode": null
+    "bibcode": "2021ApJ...908L..25G"
    },
    "image_id": "su-aur_sphere2021",
    "file": "images/su-aur/su-aur_sphere2021.png"
@@ -109,7 +112,7 @@
     "title": "Near-IR High-Resolution Imaging Polarimetry of the SU Aur Disk: Clues for Tidal Tails?",
     "journal": "PASJ",
     "arxiv": "1505.03610",
-    "bibcode": null
+    "bibcode": "2015ApJ...806L..10D"
    },
    "file": "images/su-aur/su-aur_hiciao2015.png"
   }

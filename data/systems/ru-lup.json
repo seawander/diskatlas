@@ -1,7 +1,10 @@
 {
  "id": "ru-lup",
  "name": "RU Lup",
- "alt_names": ["HD 142560", "HIP 78094"],
+ "alt_names": [
+  "HD 142560",
+  "HIP 78094"
+ ],
  "simbad": "RU Lup",
  "ra_deg": 239.17629528838,
  "dec_deg": -37.82096498525,
@@ -87,9 +90,9 @@
     "first_author": "Huang",
     "year": 2020,
     "title": "Large-scale CO spiral arms and complex kinematics associated with the T Tauri star RU Lup",
-    "journal": null,
+    "journal": "ApJ 898, 140",
     "arxiv": "2007.02974",
-    "bibcode": null
+    "bibcode": "2020ApJ...898..140H"
    },
    "file": "images/ru-lup/ru-lup_alma-co2020.png"
   }

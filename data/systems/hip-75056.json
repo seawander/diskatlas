@@ -1,10 +1,12 @@
 {
  "id": "hip-75056",
  "name": "HIP 75056",
- "alt_names": ["HD 136164"],
+ "alt_names": [
+  "HD 136164"
+ ],
  "simbad": "HIP 75056",
  "ra_deg": 230.0558043619999,
- "dec_deg": -34.9254372658500,
+ "dec_deg": -34.92543726585,
  "dist_pc": 126.0,
  "plx_mas": 8.2028,
  "mags": {
@@ -27,9 +29,9 @@
     "first_author": "Wagner",
     "year": 2020,
     "title": "Direct Imaging Discovery of a Young Brown Dwarf Companion to an A2V Star",
-    "journal": null,
+    "journal": "ApJL 902, L6",
     "arxiv": "2009.08537",
-    "bibcode": null
+    "bibcode": "2020ApJ...902L...6W"
    }
   }
  ],
@@ -49,9 +51,9 @@
     "first_author": "Wagner",
     "year": 2020,
     "title": "Direct Imaging Discovery of a Young Brown Dwarf Companion to an A2V Star",
-    "journal": null,
+    "journal": "ApJL 902, L6",
     "arxiv": "2009.08537",
-    "bibcode": null
+    "bibcode": "2020ApJ...902L...6W"
    }
   }
  ],

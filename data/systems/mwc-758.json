@@ -23,8 +23,9 @@
     "first_author": "Wagner",
     "year": 2023,
     "arxiv": "2307.04021",
-    "bibcode": null,
-    "_verify": true
+    "bibcode": "2023NatAs...7.1208W",
+    "_verify": true,
+    "journal": "Nature Astronomy 7, 1208"
    }
   }
  ],
@@ -46,7 +47,7 @@
     "title": "exoALMA IV: Substructures, Asymmetries, and the Faint Outer Disk in Continuum Emission",
     "journal": "ApJL (exoALMA special issue)",
     "arxiv": "2504.18725",
-    "bibcode": null
+    "bibcode": "2025ApJ...984L...9C"
    }
   },
   {
@@ -64,7 +65,7 @@
     "title": "The Eccentric Cavity, Triple Rings, Two-Armed Spirals, and Double Clumps of the MWC 758 Disk",
     "journal": "ApJ 860, 124",
     "arxiv": "1805.12141",
-    "bibcode": null
+    "bibcode": "2018ApJ...860..124D"
    },
    "image_id": "mwc-758_alma2018",
    "file": "images/mwc-758/mwc-758_alma2018.png"
@@ -84,7 +85,7 @@
     "title": "Asymmetric features in the protoplanetary disk MWC 758",
     "journal": "A&A 578, L6",
     "arxiv": "1505.05325",
-    "bibcode": null
+    "bibcode": "2015A&A...578L...6B"
    },
    "image_id": "mwc-758_sphere2015",
    "file": "images/mwc-758/mwc-758_sphere2015.png"
@@ -166,7 +167,7 @@
     "title": "ALICE Data Release: A revaluation of HST-NICMOS coronagraphic images",
     "journal": "AJ 155, 179",
     "arxiv": "1802.07754",
-    "bibcode": null
+    "bibcode": "2018AJ....155..179H"
    },
    "hires_url": "https://archive.stsci.edu/prepds/alice/"
   },
@@ -207,7 +208,7 @@
     "title": "JWST/NIRCam Imaging of Young Stellar Objects. I. Constraints on Planets Exterior to The Spiral Disk Around MWC 758",
     "journal": "The Astronomical Journal",
     "arxiv": "2401.02830",
-    "bibcode": ""
+    "bibcode": "2024AJ....167..181W"
    }
   },
   {
@@ -306,7 +307,7 @@
     "title": "Reference-star differential imaging on SPHERE/IRDIS",
     "journal": "A&A 666, A32",
     "arxiv": "2208.07915",
-    "bibcode": null
+    "bibcode": "2022A&A...666A..32X"
    },
    "file": "images/mwc-758/mwc-758_sphere-rdi-xie22.png"
   },
@@ -326,7 +327,7 @@
     "title": "exoALMA I. Science Goals, Project Design and Data Products",
     "journal": "ApJL (exoALMA Focus Issue)",
     "arxiv": "2504.18688",
-    "bibcode": null
+    "bibcode": "2025ApJ...984L...6T"
    },
    "file": "images/mwc-758/mwc-758_exoalma-co.png"
   },
@@ -346,7 +347,7 @@
     "title": "A Decade of MWC 758 Disk Images: Where Are the Spiral-Arm-Driving Planets?",
     "journal": "ApJL",
     "arxiv": "1803.06776",
-    "bibcode": null
+    "bibcode": "2018ApJ...857L...9R"
    },
    "file": "images/mwc-758/mwc-758_nicmos-ren18.png"
   },
@@ -366,7 +367,7 @@
     "title": "Dynamical Evidence of a Spiral Arm-Driving Planet in the MWC 758 Protoplanetary Disk",
     "journal": "ApJL",
     "arxiv": "2007.04980",
-    "bibcode": null
+    "bibcode": "2020ApJ...898L..38R"
    },
    "file": "images/mwc-758/mwc-758_ren2020.png"
   }

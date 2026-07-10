@@ -1,7 +1,9 @@
 {
  "id": "hd-33632-a",
  "name": "HD 33632 A",
- "alt_names": ["HIP 24332"],
+ "alt_names": [
+  "HIP 24332"
+ ],
  "simbad": "HD 33632",
  "ra_deg": 78.3226990387,
  "dec_deg": 37.33731132555,
@@ -29,9 +31,9 @@
     "first_author": "Currie",
     "year": 2020,
     "title": "SCExAO/CHARIS Direct Imaging Discovery of a 20 au Separation, Low-Mass Ratio Brown Dwarf Companion to an Accelerating Sun-like Star",
-    "journal": null,
+    "journal": "ApJL 904, L25",
     "arxiv": "2011.08855",
-    "bibcode": null
+    "bibcode": "2020ApJ...904L..25C"
    }
   }
  ],
@@ -50,9 +52,9 @@
     "first_author": "Currie",
     "year": 2020,
     "title": "SCExAO/CHARIS Direct Imaging Discovery of a 20 au Separation, Low-Mass Ratio Brown Dwarf Companion to an Accelerating Sun-like Star",
-    "journal": null,
+    "journal": "ApJL 904, L25",
     "arxiv": "2011.08855",
-    "bibcode": null
+    "bibcode": "2020ApJ...904L..25C"
    },
    "file": "images/hd-33632-a/hd-33632-a_scexao2020.png"
   }

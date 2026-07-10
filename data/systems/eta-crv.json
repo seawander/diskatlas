@@ -1,7 +1,12 @@
 {
  "id": "eta-crv",
  "name": "eta Crv",
- "alt_names": ["HD 109085", "GJ 9411", "HIP 61174", "HR 4775"],
+ "alt_names": [
+  "HD 109085",
+  "GJ 9411",
+  "HIP 61174",
+  "HR 4775"
+ ],
  "simbad": "eta Crv",
  "ra_deg": 188.0176100077008,
  "dec_deg": -16.1960051709386,
@@ -70,7 +75,7 @@
     "title": "ALICE Data Release: A revaluation of HST-NICMOS coronagraphic images",
     "journal": "AJ 155, 179",
     "arxiv": "1802.07754",
-    "bibcode": null
+    "bibcode": "2018AJ....155..179H"
    },
    "hires_url": "https://archive.stsci.edu/prepds/alice/"
   },
@@ -88,9 +93,9 @@
     "first_author": "Duchene",
     "year": 2014,
     "title": "Spatially resolved imaging of the two-component eta Crv debris disk with Herschel",
-    "journal": null,
+    "journal": "ApJ 784, 148",
     "arxiv": "1402.1184",
-    "bibcode": null
+    "bibcode": "2014ApJ...784..148D"
    },
    "file": "images/eta-crv/eta-crv_herschel2014.png"
   }

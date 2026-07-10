@@ -1,7 +1,9 @@
 {
  "id": "hd-84870",
  "name": "HD 84870",
- "alt_names": ["HIP 48164"],
+ "alt_names": [
+  "HIP 48164"
+ ],
  "simbad": "HD 84870",
  "ra_deg": 147.26185487739,
  "dec_deg": 34.08539427632,
@@ -30,7 +32,7 @@
     "title": "The ALMA survey to Resolve exoKuiper belt Substructures (ARKS) I: Motivation, sample, data reduction, and results overview",
     "journal": "A&A",
     "arxiv": "2601.11708",
-    "bibcode": null
+    "bibcode": "2026A&A...705A.195M"
    }
   },
   {

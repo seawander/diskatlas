@@ -1,7 +1,10 @@
 {
  "id": "t-tau",
  "name": "t tau",
- "alt_names": ["HD 284419", "HIP 20390"],
+ "alt_names": [
+  "HD 284419",
+  "HIP 20390"
+ ],
  "simbad": "T Tau",
  "ra_deg": 65.49763328083,
  "dec_deg": 19.53512010926,
@@ -69,7 +72,7 @@
     "title": "High-contrast Polarimetry Observation of T Tau Circumstellar Environment",
     "journal": "ApJ",
     "arxiv": "1805.07726",
-    "bibcode": null
+    "bibcode": "2018ApJ...861..133Y"
    },
    "file": "images/t-tau/t-tau_hiciao2018.png"
   }

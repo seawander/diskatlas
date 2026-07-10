@@ -1,7 +1,11 @@
 {
  "id": "hd-92945",
  "name": "HD 92945",
- "alt_names": ["V419 Hya", "GJ 3615", "HIP 52462"],
+ "alt_names": [
+  "V419 Hya",
+  "GJ 3615",
+  "HIP 52462"
+ ],
  "simbad": "HD 92945",
  "ra_deg": 160.8677981909642,
  "dec_deg": -29.0642868557647,
@@ -70,7 +74,7 @@
     "title": "The ALMA survey to Resolve exoKuiper belt Substructures (ARKS) I: Motivation, sample, data reduction, and results overview",
     "journal": "A&A",
     "arxiv": "2601.11708",
-    "bibcode": null
+    "bibcode": "2026A&A...705A.195M"
    }
   },
   {
@@ -90,7 +94,7 @@
     "title": "Characterization of debris disks observed with SPHERE",
     "journal": "A&A 704, A21",
     "arxiv": "2512.03128",
-    "bibcode": null
+    "bibcode": "2025A&A...704A..21E"
    }
   },
   {
@@ -130,7 +134,7 @@
     "title": "ALICE Data Release: A revaluation of HST-NICMOS coronagraphic images",
     "journal": "AJ 155, 179",
     "arxiv": "1802.07754",
-    "bibcode": null
+    "bibcode": "2018AJ....155..179H"
    },
    "hires_url": "https://archive.stsci.edu/prepds/alice/"
   },
@@ -171,7 +175,7 @@
     "title": "JWST/NIRCam observations of HD 92945 debris disk: An asymmetric disk with a gap",
     "journal": "A&A (2025, accepted)",
     "arxiv": "2511.07561",
-    "bibcode": null
+    "bibcode": "2025A&A...704A.176L"
    }
   }
  ],

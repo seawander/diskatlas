@@ -20,7 +20,8 @@
     "first_author": "Neuhauser",
     "year": 2005,
     "arxiv": "astro-ph/0503691",
-    "bibcode": "2005A&A...435L..13N"
+    "bibcode": "2005A&A...435L..13N",
+    "journal": "A&A 435, L13"
    }
   }
  ],
@@ -81,7 +82,7 @@
     "title": "Mid-Infrared Spectrum of the Disk around the Forming Companion GQ Lup B Revealed by JWST/MIRI",
     "journal": "ApJL",
     "arxiv": "2404.07086",
-    "bibcode": null
+    "bibcode": "2024ApJ...966L..21C"
    },
    "file": "images/gq-lup/gq-lup_miri-mrs2024.png"
   },
@@ -99,9 +100,9 @@
     "first_author": "MacGregor",
     "year": 2017,
     "title": "ALMA Measurements of Circumstellar Material in the GQ Lup System",
-    "journal": null,
+    "journal": "ApJ 835, 17",
     "arxiv": "1611.06229",
-    "bibcode": null
+    "bibcode": "2017ApJ...835...17M"
    },
    "file": "images/gq-lup/gq-lup_alma2017.png"
   }

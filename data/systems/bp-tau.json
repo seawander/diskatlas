@@ -1,7 +1,10 @@
 {
  "id": "bp-tau",
  "name": "BP Tau",
- "alt_names": ["HD 281934", "HIP 20160"],
+ "alt_names": [
+  "HD 281934",
+  "HIP 20160"
+ ],
  "simbad": "BP Tau",
  "ra_deg": 64.81597492818,
  "dec_deg": 29.10747971097,
@@ -70,7 +73,7 @@
     "title": "ALICE Data Release: A revaluation of HST-NICMOS coronagraphic images",
     "journal": "AJ 155, 179",
     "arxiv": "1802.07754",
-    "bibcode": null
+    "bibcode": "2018AJ....155..179H"
    },
    "hires_url": "https://archive.stsci.edu/prepds/alice/"
   }

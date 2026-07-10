@@ -32,7 +32,7 @@
     "title": "exoALMA IV: Substructures, Asymmetries, and the Faint Outer Disk in Continuum Emission",
     "journal": "ApJL (exoALMA special issue)",
     "arxiv": "2504.18725",
-    "bibcode": null
+    "bibcode": "2025ApJ...984L...9C"
    }
   },
   {
@@ -152,7 +152,7 @@
     "title": "ALICE Data Release: A revaluation of HST-NICMOS coronagraphic images",
     "journal": "AJ 155, 179",
     "arxiv": "1802.07754",
-    "bibcode": null
+    "bibcode": "2018AJ....155..179H"
    },
    "hires_url": "https://archive.stsci.edu/prepds/alice/"
   },
@@ -190,9 +190,9 @@
     "first_author": "Ribas",
     "year": 2025,
     "title": "A young gas giant and hidden substructures in a protoplanetary disk",
-    "journal": null,
+    "journal": "Nature Astronomy 9, 1176",
     "arxiv": "2507.11612",
-    "bibcode": null
+    "bibcode": "2025NatAs...9.1176R"
    },
    "file": "images/pds-66/pds-66_alma3mm2025.png",
    "note": "New ALMA Band 3 (3mm) observation of MP Mus (PDS 66), a different band/config from the existing exoALMA Band 7 (0.9mm) record. The 3mm data reveal a ring at 10.5au and gaps at 7.5/15au that are undetected at 0.9/1.3mm, plus hints of an inner cavity (<3au). The paper infers a hidden gas-giant companion (1-3 au) from the disk structure plus a Gaia astrometric proper-motion anomaly and hydrodynamic simulations -- the planet is NOT directly imaged, so per instructions it was NOT added to planets[] with method imaging; recommend adding a system-notes line instead, e.g.: 'Gaia astrometry + ALMA 3mm ring/cavity structure (Ribas et al. 2025) indicate an unseen ~1-3 au gas-giant companion; not directly imaged.'"
@@ -213,7 +213,7 @@
     "title": "exoALMA I. Science Goals, Project Design and Data Products",
     "journal": "ApJL (exoALMA Focus Issue)",
     "arxiv": "2504.18688",
-    "bibcode": null
+    "bibcode": "2025ApJ...984L...6T"
    },
    "file": "images/pds-66/pds-66_exoalma-co.png"
   },
@@ -233,7 +233,7 @@
     "title": "The PDS 66 Circumstellar Disk as Seen in Polarized Light with the Gemini Planet Imager",
     "journal": "ApJ",
     "arxiv": "1601.07248",
-    "bibcode": null
+    "bibcode": "2016ApJ...818L..15W"
    },
    "file": "images/pds-66/pds-66_gpi_hband.png"
   }

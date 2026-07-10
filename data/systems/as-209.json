@@ -22,8 +22,9 @@
     "first_author": "Bae",
     "year": 2022,
     "arxiv": "2207.05923",
-    "bibcode": null,
-    "_verify": true
+    "bibcode": "2022ApJ...934L..20B",
+    "_verify": true,
+    "journal": "ApJL 934, L20"
    }
   }
  ],
@@ -104,7 +105,7 @@
     "title": "Molecules with ALMA at Planet-forming Scales (MAPS) I: Program Overview and Highlights",
     "journal": "ApJS, 257, 1",
     "arxiv": "2109.06268",
-    "bibcode": null
+    "bibcode": "2021ApJS..257....1O"
    },
    "file": "images/as-209/as-209_alma-maps2021.png"
   },
@@ -124,7 +125,7 @@
     "title": "Protoplanetary disk insights from the first ERIS/APP survey at 4 μm",
     "journal": "Astronomy & Astrophysics",
     "arxiv": "2504.19810",
-    "bibcode": null
+    "bibcode": "2025A&A...698A..52M"
    },
    "file": "images/as-209/as-209_eris2025.png"
   },
@@ -144,7 +145,7 @@
     "title": "An Observational Study for Grain Dynamics in the AS 209 Disk with Submillimeter Polarization",
     "journal": "ApJ",
     "arxiv": "1907.10229",
-    "bibcode": null
+    "bibcode": "2019ApJ...883...16M"
    },
    "file": "images/as-209/as-209_alma_polarization.png"
   }

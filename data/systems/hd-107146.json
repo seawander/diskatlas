@@ -1,7 +1,9 @@
 {
  "id": "hd-107146",
  "name": "HD 107146",
- "alt_names": ["HIP 60074"],
+ "alt_names": [
+  "HIP 60074"
+ ],
  "simbad": "HD 107146",
  "ra_deg": 184.77709118346,
  "dec_deg": 16.54829659198,
@@ -48,7 +50,7 @@
     "title": "ALMA Observations of the Debris Disk around the Young Solar Analog HD 107146",
     "journal": "ApJ 798, 124",
     "arxiv": "1410.8265",
-    "bibcode": null
+    "bibcode": "2015ApJ...798..124R"
    },
    "image_id": "hd-107146_alma2015",
    "file": "images/hd-107146/hd-107146_alma2015.png"
@@ -90,7 +92,7 @@
     "title": "The ALMA survey to Resolve exoKuiper belt Substructures (ARKS) I: Motivation, sample, data reduction, and results overview",
     "journal": "A&A",
     "arxiv": "2601.11708",
-    "bibcode": null
+    "bibcode": "2026A&A...705A.195M"
    }
   },
   {
@@ -170,7 +172,7 @@
     "title": "ALICE Data Release: A revaluation of HST-NICMOS coronagraphic images",
     "journal": "AJ 155, 179",
     "arxiv": "1802.07754",
-    "bibcode": null
+    "bibcode": "2018AJ....155..179H"
    },
    "hires_url": "https://archive.stsci.edu/prepds/alice/"
   },
@@ -190,7 +192,7 @@
     "title": "A Resolved Ring of Debris Dust Around the Solar Analog HD 107146",
     "journal": "ApJ 690, L65 (2009)",
     "arxiv": "0811.2713",
-    "bibcode": null
+    "bibcode": "2009ApJ...690L..65C"
    },
    "file": "images/hd-107146/hd-107146_carma2008.png"
   }

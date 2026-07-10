@@ -1,7 +1,13 @@
 {
  "id": "eps-ind-a",
  "name": "Eps Ind A",
- "alt_names": ["Epsilon Indi", "GJ 845", "HD 209100", "HIP 108870", "HR 8387"],
+ "alt_names": [
+  "Epsilon Indi",
+  "GJ 845",
+  "HD 209100",
+  "HIP 108870",
+  "HR 8387"
+ ],
  "simbad": "eps Ind",
  "ra_deg": 330.8402234423433,
  "dec_deg": -56.785978554365,
@@ -18,7 +24,8 @@
     "first_author": "Matthews",
     "year": 2024,
     "arxiv": null,
-    "bibcode": "2024Natur.633..789M"
+    "bibcode": "2024Natur.633..789M",
+    "journal": "Nature 633, 789"
    }
   }
  ],
@@ -60,7 +67,7 @@
     "title": "A second visit to Eps Ind Ab with JWST: new photometry confirms ammonia and suggests thick clouds in the exoplanet atmosphere of the closest super-Jupiter",
     "journal": "ApJL (accepted)",
     "arxiv": "2603.08780",
-    "bibcode": null
+    "bibcode": "2026arXiv260308780M"
    }
   }
  ],

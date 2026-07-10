@@ -1,7 +1,13 @@
 {
  "id": "hip-109427",
  "name": "HIP 109427",
- "alt_names": ["Theta Pegasi", "theta Peg", "GJ 9771", "HD 210418", "HR 8450"],
+ "alt_names": [
+  "Theta Pegasi",
+  "theta Peg",
+  "GJ 9771",
+  "HD 210418",
+  "HR 8450"
+ ],
  "simbad": "HIP 109427",
  "ra_deg": 332.5499525505,
  "dec_deg": 6.1979215882,
@@ -27,7 +33,8 @@
     "first_author": "Steiger",
     "year": 2021,
     "arxiv": "2103.06898",
-    "bibcode": null
+    "bibcode": "2021AJ....162...44S",
+    "journal": "AJ 162, 44"
    }
   }
  ],
@@ -49,7 +56,7 @@
     "title": "SCExAO/MEC and CHARIS Discovery of a Low Mass, 6 AU-Separation Companion to HIP 109427 using Stochastic Speckle Discrimination and High-Contrast Spectroscopy",
     "journal": "AJ",
     "arxiv": "2103.06898",
-    "bibcode": null
+    "bibcode": "2021AJ....162...44S"
    },
    "file": "images/hip-109427/hip-109427_scexao2021.png"
   }

@@ -1,7 +1,9 @@
 {
  "id": "hd-34282",
  "name": "HD 34282",
- "alt_names": ["HIP 24552"],
+ "alt_names": [
+  "HIP 24552"
+ ],
  "simbad": "HD 34282",
  "ra_deg": 79.00198549222,
  "dec_deg": -9.80983160667,
@@ -30,7 +32,7 @@
     "title": "exoALMA IV: Substructures, Asymmetries, and the Faint Outer Disk in Continuum Emission",
     "journal": "ApJL (exoALMA special issue)",
     "arxiv": "2504.18725",
-    "bibcode": null
+    "bibcode": "2025ApJ...984L...9C"
    }
   },
   {
@@ -109,7 +111,7 @@
     "title": "Reference-star differential imaging on SPHERE/IRDIS",
     "journal": "A&A 666, A32",
     "arxiv": "2208.07915",
-    "bibcode": null
+    "bibcode": "2022A&A...666A..32X"
    },
    "file": "images/hd-34282/hd-34282_sphere-rdi-xie22.png"
   },
@@ -129,7 +131,7 @@
     "title": "Multi-wavelength ALMA Imaging of HD 34282: Dust-trapping Signatures of a Vortex Candidate",
     "journal": "arXiv preprint (2026)",
     "arxiv": "2603.06992",
-    "bibcode": null
+    "bibcode": "2026ApJ..1001..124M"
    },
    "file": "images/hd-34282/hd-34282_alma2026-b3.png"
   },
@@ -149,7 +151,7 @@
     "title": "exoALMA I. Science Goals, Project Design and Data Products",
     "journal": "ApJL (exoALMA Focus Issue)",
     "arxiv": "2504.18688",
-    "bibcode": null
+    "bibcode": "2025ApJ...984L...6T"
    },
    "file": "images/hd-34282/hd-34282_exoalma-co.png"
   }

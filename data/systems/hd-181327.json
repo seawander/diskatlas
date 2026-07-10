@@ -1,7 +1,9 @@
 {
  "id": "hd-181327",
  "name": "HD 181327",
- "alt_names": ["HIP 95270"],
+ "alt_names": [
+  "HIP 95270"
+ ],
  "simbad": "HD 181327",
  "ra_deg": 290.74559884271,
  "dec_deg": -54.53804879684,
@@ -110,7 +112,7 @@
     "title": "Characterization of debris disks observed with SPHERE",
     "journal": "A&A 704, A21",
     "arxiv": "2512.03128",
-    "bibcode": null
+    "bibcode": "2025A&A...704A..21E"
    }
   },
   {
@@ -170,7 +172,7 @@
     "title": "ALICE Data Release: A revaluation of HST-NICMOS coronagraphic images",
     "journal": "AJ 155, 179",
     "arxiv": "1802.07754",
-    "bibcode": null
+    "bibcode": "2018AJ....155..179H"
    },
    "hires_url": "https://archive.stsci.edu/prepds/alice/"
   },
@@ -191,7 +193,7 @@
     "title": "Water ice in the debris disk around HD 181327",
     "journal": "Nature (2025)",
     "arxiv": "2505.08863",
-    "bibcode": null
+    "bibcode": "2025Natur.641..608X"
    }
   }
  ],

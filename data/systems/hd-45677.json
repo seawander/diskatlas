@@ -1,7 +1,9 @@
 {
  "id": "hd-45677",
  "name": "HD 45677",
- "alt_names": ["HIP 30800"],
+ "alt_names": [
+  "HIP 30800"
+ ],
  "simbad": "HD 45677",
  "ra_deg": 97.07259154598,
  "dec_deg": -13.05309135027,
@@ -69,7 +71,7 @@
     "title": "A family portrait of disk inner rims around Herbig Ae/Be stars: Hunting for warps, rings, self shadowing, and misalignments in the inner astronomical units",
     "journal": "Astronomy & Astrophysics",
     "arxiv": "2004.01594",
-    "bibcode": null
+    "bibcode": "2020A&A...636A.116K"
    },
    "file": "images/hd-45677/hd-45677_pionier2020.png"
   }

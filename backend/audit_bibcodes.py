@@ -16,7 +16,11 @@ and classify:
 --fix rewrites the stored bibcode in place (only HALLUCINATED / WRONG_PAPER with a
 known canonical). Auth: anonymous ADS session token (no key needed).
 
-Usage: python3 backend/audit_bibcodes.py [--fix]
+--fill additionally populates bibcode:null blocks whose arxiv id resolves (the
+canonical may legitimately be the eprint form for arXiv-only papers), and derives
+a missing `journal` string from a published (non-eprint) bibcode.
+
+Usage: python3 backend/audit_bibcodes.py [--fix] [--fill]
 """
 import argparse, json, re, sys, time, urllib.parse, urllib.request
 from pathlib import Path
@@ -82,9 +86,35 @@ def lookup_bibcodes(tok, bibs):
     return out
 
 
+def jref(b):
+    """bibcode -> short journal string ('ApJL 863, L8'); None for eprint/odd forms."""
+    if not b or re.search(r"arxiv|astro\.ph", b, re.I) or len(b) != 19:
+        return None
+    j = b[4:9].replace(".", "")
+    vol = b[9:13].replace(".", "").lstrip("0")
+    q = b[13]
+    pg = b[14:18].replace(".", "").lstrip("0")
+    if not (j and vol and pg):
+        return None
+    if q == "L":
+        pg = "L" + pg
+        if j == "ApJ":
+            j = "ApJL"
+    elif q == "A":
+        pg = "A" + pg
+    elif q != ".":
+        return None      # unusual qualifier -> don't guess
+    j = {"A&A": "A&A", "ApJ": "ApJ", "ApJL": "ApJL", "AJ": "AJ", "MNRAS": "MNRAS",
+         "PASP": "PASP", "PASJ": "PASJ", "Natur": "Nature", "Sci": "Science",
+         "NatAs": "Nature Astronomy", "ApJS": "ApJS", "RNAAS": "RNAAS"}.get(j, j)
+    return f"{j} {vol}, {pg}"
+
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--fix", action="store_true")
+    ap.add_argument("--fill", action="store_true",
+                    help="populate bibcode:null from arxiv resolution + derive missing journal strings")
     a = ap.parse_args()
 
     files = sorted((ROOT / "data" / "systems").glob("*.json"))
@@ -149,22 +179,32 @@ def main():
         for ax, sb, canon in items:
             print(f"  arXiv:{ax or '-':<14} stored={sb or '-':<22} -> canonical={canon or '?'}")
 
-    if a.fix and fixes:
-        n = 0
+    if (a.fix and fixes) or a.fill:
+        n = nf = nj = 0
         for f in files:
             d = json.loads(f.read_text()); changed = False
             blocks = [im.get("paper") for im in d.get("images", [])]
             for pl in d.get("planets", []):
                 blocks.append(pl.get("paper")); blocks += pl.get("extra_papers", [])
             for p in blocks:
-                if p and (p.get("bibcode") or "").strip() in fixes:
-                    old = p["bibcode"].strip()
-                    # only rewrite when the arxiv matches (safety against shared bibcode strings)
-                    if fixes[old]:
-                        p["bibcode"] = fixes[old]; changed = True; n += 1
+                if not p:
+                    continue
+                sb = (p.get("bibcode") or "").strip()
+                ax = (p.get("arxiv") or "").strip()
+                if a.fix and sb in fixes and fixes[sb]:
+                    p["bibcode"] = fixes[sb]; changed = True; n += 1
+                    sb = p["bibcode"]
+                if a.fill and not sb and ax and arx2bib.get(ax):
+                    p["bibcode"] = arx2bib[ax]; changed = True; nf += 1
+                    sb = p["bibcode"]
+                if a.fill and not (p.get("journal") or "").strip():
+                    j = jref(sb)
+                    if j:
+                        p["journal"] = j; changed = True; nj += 1
             if changed:
                 f.write_text(json.dumps(d, indent=1, ensure_ascii=False) + "\n")
-        print(f"\nfixed {n} record bibcode(s)", file=sys.stderr)
+        print(f"\nfixed {n} bibcode(s); filled {nf} null bibcode(s); derived {nj} journal string(s)",
+              file=sys.stderr)
     elif fixes:
         print(f"\n{len(fixes)} correctable bibcode(s) -- rerun with --fix to apply", file=sys.stderr)
 

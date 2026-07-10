@@ -18,7 +18,8 @@
     "first_author": "Ireland",
     "year": 2011,
     "arxiv": "1011.2201",
-    "bibcode": "2011ApJ...726..113I"
+    "bibcode": "2011ApJ...726..113I",
+    "journal": "ApJ 726, 113"
    }
   }
  ],
@@ -59,7 +60,7 @@
     "title": "A survey of the linear polarization of directly imaged exoplanets and brown dwarf companions with SPHERE-IRDIS. First polarimetric detections revealing disks around DH Tau B and GSC 6214-210 B",
     "journal": "A&A",
     "arxiv": "2101.04033",
-    "bibcode": null
+    "bibcode": "2021A&A...647A..21V"
    },
    "file": "images/gsc-6214-210/gsc-6214-210_sphere2021.png"
   }

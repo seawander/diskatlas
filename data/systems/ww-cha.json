@@ -49,7 +49,7 @@
     "title": "The GRAVITY young stellar object survey V. The orbit of the T Tauri binary star WW Cha",
     "journal": "A&A 648, A37 (2021)",
     "arxiv": "2102.00122",
-    "bibcode": null
+    "bibcode": "2021A&A...648A..37G"
    },
    "file": "images/ww-cha/ww-cha_gravity2021.png"
   },
@@ -67,9 +67,9 @@
     "first_author": "Kanagawa",
     "year": 2021,
     "title": "ALMA observation of the protoplanetary disk around WW Cha",
-    "journal": null,
+    "journal": "ApJ 909, 212",
     "arxiv": "2101.10550",
-    "bibcode": null
+    "bibcode": "2021ApJ...909..212K"
    },
    "file": "images/ww-cha/ww-cha_alma2021.png"
   }

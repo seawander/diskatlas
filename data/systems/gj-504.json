@@ -1,7 +1,11 @@
 {
  "id": "gj-504",
  "name": "GJ 504",
- "alt_names": ["HD 115383", "HIP 64792", "HR 5011"],
+ "alt_names": [
+  "HD 115383",
+  "HIP 64792",
+  "HR 5011"
+ ],
  "simbad": "GJ 504",
  "ra_deg": 199.19381191438,
  "dec_deg": 9.4241555943461,
@@ -18,7 +22,8 @@
     "first_author": "Kuzuhara",
     "year": 2013,
     "arxiv": "1307.2886",
-    "bibcode": "2013ApJ...774...11K"
+    "bibcode": "2013ApJ...774...11K",
+    "journal": "ApJ 774, 11"
    }
   }
  ],
@@ -99,7 +104,7 @@
     "title": "First unambiguous detection of ammonia in the atmosphere of a planetary mass companion with JWST/MIRI coronagraphs",
     "journal": "A&A",
     "arxiv": "2501.00104",
-    "bibcode": null
+    "bibcode": "2025A&A...693A.315M"
    },
    "file": "images/gj-504/gj-504_mirico2025.png"
   }

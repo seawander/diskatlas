@@ -1,7 +1,9 @@
 {
  "id": "hd-141569",
  "name": "HD 141569",
- "alt_names": ["HIP 77542"],
+ "alt_names": [
+  "HIP 77542"
+ ],
  "simbad": "HD 141569",
  "ra_deg": 237.49061772933,
  "dec_deg": -3.92120600474,
@@ -111,7 +113,7 @@
     "title": "Characterization of debris disks observed with SPHERE",
     "journal": "A&A 704, A21",
     "arxiv": "2512.03128",
-    "bibcode": null
+    "bibcode": "2025A&A...704A..21E"
    }
   },
   {
@@ -171,7 +173,7 @@
     "title": "ALICE Data Release: A revaluation of HST-NICMOS coronagraphic images",
     "journal": "AJ 155, 179",
     "arxiv": "1802.07754",
-    "bibcode": null
+    "bibcode": "2018AJ....155..179H"
    },
    "hires_url": "https://archive.stsci.edu/prepds/alice/"
   },
@@ -211,7 +213,7 @@
     "title": "Reference-star differential imaging on SPHERE/IRDIS",
     "journal": "A&A 666, A32",
     "arxiv": "2208.07915",
-    "bibcode": null
+    "bibcode": "2022A&A...666A..32X"
    },
    "file": "images/hd-141569/hd-141569_sphere-rdi-xie22.png"
   },
@@ -231,7 +233,7 @@
     "title": "The Matryoshka Disk: Keck/NIRC2 Discovery of a Solar System-scale, Radially Segregated Residual Protoplanetary Disk around HD 141569A",
     "journal": "ApJ",
     "arxiv": "1602.01219",
-    "bibcode": null
+    "bibcode": "2016ApJ...819L..26C"
    },
    "file": "images/hd-141569/hd-141569_nirc2matryoshka.png",
    "note": "New facility for this existing system (no prior Keck/NIRC2 or VLT/NaCo record). Paper also includes archival VLT/NaCo L' imaging (Fig. 1 bottom-right) recovering the same inner disk; only the Keck/NIRC2 discovery panel was cropped."
@@ -250,9 +252,9 @@
     "first_author": "Biller",
     "year": 2015,
     "title": "The Gemini NICI Planet-Finding Campaign: Asymmetries in the HD 141569 disk",
-    "journal": null,
+    "journal": "MNRAS 450, 4446",
     "arxiv": "1504.05224",
-    "bibcode": null
+    "bibcode": "2015MNRAS.450.4446B"
    },
    "file": "images/hd-141569/hd-141569_nici2015.png"
   }

@@ -1,7 +1,10 @@
 {
  "id": "hd-61005",
  "name": "HD 61005",
- "alt_names": ["The Moth", "HIP 36948"],
+ "alt_names": [
+  "The Moth",
+  "HIP 36948"
+ ],
  "simbad": "HD 61005",
  "ra_deg": 113.94775981519,
  "dec_deg": -32.20390141288,
@@ -110,7 +113,7 @@
     "title": "The ALMA survey to Resolve exoKuiper belt Substructures (ARKS) I: Motivation, sample, data reduction, and results overview",
     "journal": "A&A",
     "arxiv": "2601.11708",
-    "bibcode": null
+    "bibcode": "2026A&A...705A.195M"
    }
   },
   {
@@ -150,7 +153,7 @@
     "title": "Characterization of debris disks observed with SPHERE",
     "journal": "A&A 704, A21",
     "arxiv": "2512.03128",
-    "bibcode": null
+    "bibcode": "2025A&A...704A..21E"
    }
   },
   {
@@ -210,7 +213,7 @@
     "title": "ALICE Data Release: A revaluation of HST-NICMOS coronagraphic images",
     "journal": "AJ 155, 179",
     "arxiv": "1802.07754",
-    "bibcode": null
+    "bibcode": "2018AJ....155..179H"
    },
    "hires_url": "https://archive.stsci.edu/prepds/alice/"
   },
@@ -270,7 +273,7 @@
     "title": "Hubble Space Telescope Optical Imaging of the Eroding Debris Disk HD 61005",
     "journal": "ApJ 707, 1098",
     "arxiv": "0910.5223",
-    "bibcode": null
+    "bibcode": "2009ApJ...707.1098M"
    },
    "file": "images/hd-61005/hd-61005_acs2009.png"
   },
@@ -309,9 +312,9 @@
     "first_author": "Esposito",
     "year": 2016,
     "title": "Bringing 'The Moth' to Light: A Planet-Sculpting Scenario for the HD 61005 Debris Disk",
-    "journal": null,
+    "journal": "AJ 152, 85",
     "arxiv": "1605.06161",
-    "bibcode": null
+    "bibcode": "2016AJ....152...85E"
    },
    "file": "images/hd-61005/hd-61005_nirc22016.png"
   }

@@ -22,7 +22,8 @@
     "first_author": "Bailey",
     "year": 2014,
     "arxiv": "1312.1265",
-    "bibcode": "2014ApJ...780L...4B"
+    "bibcode": "2014ApJ...780L...4B",
+    "journal": "ApJL 780, L4"
    }
   }
  ],
@@ -124,7 +125,7 @@
     "title": "Characterization of debris disks observed with SPHERE",
     "journal": "A&A 704, A21",
     "arxiv": "2512.03128",
-    "bibcode": null
+    "bibcode": "2025A&A...704A..21E"
    }
   },
   {
@@ -163,7 +164,7 @@
     "title": "MIRI-JWST mid-infrared direct imaging of the debris disk of HD 106906",
     "journal": "A&A (2025)",
     "arxiv": "2504.13679",
-    "bibcode": null
+    "bibcode": "2025A&A...698A.113R"
    },
    "file": "images/hd-106906/hd-106906_jwst-miri-f1140c.png"
   },
@@ -183,7 +184,7 @@
     "title": "MIRI-JWST mid-infrared direct imaging of the debris disk of HD 106906",
     "journal": "A&A (2025)",
     "arxiv": "2504.13679",
-    "bibcode": null
+    "bibcode": "2025A&A...698A.113R"
    },
    "file": "images/hd-106906/hd-106906_jwst-miri-f1550c.png"
   },
@@ -223,7 +224,7 @@
     "title": "Reference-star differential imaging on SPHERE/IRDIS",
     "journal": "A&A 666, A32",
     "arxiv": "2208.07915",
-    "bibcode": null
+    "bibcode": "2022A&A...666A..32X"
    },
    "file": "images/hd-106906/hd-106906_sphere-rdi-xie22.png"
   },
@@ -243,7 +244,7 @@
     "title": "Magellan AO System z', YS, and L' Observations of the Very Wide 650 AU HD 106906 Planetary System",
     "journal": "ApJ 823, 24",
     "arxiv": "1604.06847",
-    "bibcode": null
+    "bibcode": "2016ApJ...823...24W"
    },
    "file": "images/hd-106906/hd-106906_visao2016.png"
   },

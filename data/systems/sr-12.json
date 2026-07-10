@@ -30,7 +30,8 @@
     "first_author": "Kuzuhara",
     "year": 2011,
     "arxiv": null,
-    "bibcode": "2011AJ....141..119K"
+    "bibcode": "2011AJ....141..119K",
+    "journal": "AJ 141, 119"
    }
   }
  ],
@@ -51,7 +52,7 @@
     "title": "ALMA Discovery of a Disk around the Planetary-mass Companion SR 12 c",
     "journal": "ApJL",
     "arxiv": "2204.06013",
-    "bibcode": null
+    "bibcode": "2022ApJ...930L...3W"
    },
    "file": "images/sr-12/sr-12_alma2022.png"
   }

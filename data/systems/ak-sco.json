@@ -1,7 +1,10 @@
 {
  "id": "ak-sco",
  "name": "AK Sco",
- "alt_names": ["HD 152404", "HIP 82747"],
+ "alt_names": [
+  "HD 152404",
+  "HIP 82747"
+ ],
  "simbad": "AK Sco",
  "ra_deg": 253.68687148974,
  "dec_deg": -36.88849071846,
@@ -109,7 +112,7 @@
     "title": "Detection of Sharp Symmetric Features in the Circumbinary Disk Around AK Sco",
     "journal": "ApJL",
     "arxiv": "1512.04552",
-    "bibcode": null
+    "bibcode": "2016ApJ...816L...1J"
    },
    "file": "images/ak-sco/ak-sco_sphere2015.png"
   },
@@ -129,7 +132,7 @@
     "title": "Reference-star differential imaging on SPHERE/IRDIS",
     "journal": "A&A 666, A32",
     "arxiv": "2208.07915",
-    "bibcode": null
+    "bibcode": "2022A&A...666A..32X"
    },
    "file": "images/ak-sco/ak-sco_sphere-rdi-xie22.png"
   }

@@ -41,7 +41,7 @@
     "title": "The ALMA Survey of Gas Evolution of PROtoplanetary Disks (AGE-PRO): I. Program Overview and Summary of First Results",
     "journal": "ApJ (2025)",
     "arxiv": "2506.10719",
-    "bibcode": null
+    "bibcode": "2025ApJ...989....1Z"
    }
   },
   {
@@ -61,7 +61,7 @@
     "title": "Disk Evolution Study Through Imaging of Nearby Young Stars (DESTINYS): Evidence of planet-disk interaction in the 2MASSJ16120668-3010270 system",
     "journal": "A&A (2025)",
     "arxiv": "2506.05892",
-    "bibcode": null
+    "bibcode": "2025A&A...699A.237G"
    }
   },
   {
@@ -80,7 +80,7 @@
     "title": "Discovery of H-alpha Emission from a Protoplanet Candidate Around the Young Star 2MASS J16120668-3010270 with MagAO-X",
     "journal": "AJ (submitted)",
     "arxiv": "2508.11155",
-    "bibcode": null
+    "bibcode": "2025ApJ...990L..70L"
    },
    "file": "images/2mass-j16120668-3010270/2mass-j16120668-3010270_magaox2025.png",
    "note": "Candidate status: Halpha protoplanet CANDIDATE at ~0.14 arcsec (SNR 5.3 on Apr 13, 3.7 on Apr 16), coincident in position angle/separation with the ALMA circumplanetary-disk-like feature reported by Sierra et al. 2024. Not yet confirmed. Recorded as type 'planet'; no planets[] entry added to the system JSON by this crop agent (per brief, crop agents do not edit system files) -- recommend the merge step add a 'candidate' planets[] entry citing this paper if desired."

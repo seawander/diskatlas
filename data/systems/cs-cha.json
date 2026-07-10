@@ -74,7 +74,7 @@
     "title": "The Giant Accreting Protoplanet Survey (GAPlanetS) - Results from a Six Year Campaign to Image Accreting Protoplanets",
     "journal": "AJ",
     "arxiv": "2211.02109",
-    "bibcode": null
+    "bibcode": "2023AJ....165..225F"
    },
    "file": "images/cs-cha/cs-cha_magao2022.png",
    "note": "New candidate CS Cha 'c' point source, SNR=6.6 (classical) at 68mas/PA76, clearly apparent in Halpha and SDI imagery per the paper -- a genuinely new candidate detection, not a marginal one. Distinct from the known wide CS Cha B companion, which was NOT recovered in this dataset (non-detection, correctly not added)."
@@ -93,9 +93,9 @@
     "first_author": "Ginski",
     "year": 2018,
     "title": "First direct detection of a polarized companion outside of a resolved circumbinary disk around CS Cha",
-    "journal": null,
+    "journal": "A&A 616, A79",
     "arxiv": "1805.02261",
-    "bibcode": null
+    "bibcode": "2018A&A...616A..79G"
    },
    "file": "images/cs-cha/cs-cha_sphere-ginski2018.png"
   }

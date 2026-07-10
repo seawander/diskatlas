@@ -1,7 +1,10 @@
 {
  "id": "mwc-614",
  "name": "MWC 614",
- "alt_names": ["HD 179218", "HIP 94260"],
+ "alt_names": [
+  "HD 179218",
+  "HIP 94260"
+ ],
  "simbad": "MWC 614",
  "ra_deg": 287.7968912164399,
  "dec_deg": 15.78767666902,
@@ -49,7 +52,7 @@
     "title": "A Multi-instrument and Multi-wavelength High Angular Resolution Study of MWC 614: Quantum Heated Particles Inside the Disk Cavity",
     "journal": "ApJ 855, 44",
     "arxiv": "1803.02419",
-    "bibcode": null
+    "bibcode": "2018ApJ...855...44K"
    },
    "file": "images/mwc-614/mwc-614_zimpol2018.png"
   }

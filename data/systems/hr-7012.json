@@ -1,7 +1,10 @@
 {
  "id": "hr-7012",
  "name": "HR 7012",
- "alt_names": ["HD 172555", "HIP 92024"],
+ "alt_names": [
+  "HD 172555",
+  "HIP 92024"
+ ],
  "simbad": "HR 7012",
  "ra_deg": 281.3620874193479,
  "dec_deg": -64.8712596688847,
@@ -50,7 +53,7 @@
     "title": "Characterization of debris disks observed with SPHERE",
     "journal": "A&A 704, A21",
     "arxiv": "2512.03128",
-    "bibcode": null
+    "bibcode": "2025A&A...704A..21E"
    }
   },
   {
@@ -69,7 +72,7 @@
     "title": "Resolving the terrestrial planet-forming region of HD 172555 with ALMA: I. Post-impact dust distribution",
     "journal": "A&A (2026, in press)",
     "arxiv": "2512.04154",
-    "bibcode": null
+    "bibcode": "2026A&A...706A...4R"
    },
    "file": "images/hr-7012/hr-7012_alma2025.png"
   }

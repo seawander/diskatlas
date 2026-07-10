@@ -1,7 +1,10 @@
 {
  "id": "hd-50571",
  "name": "HD 50571",
- "alt_names": ["HIP 32775", "HR 2562"],
+ "alt_names": [
+  "HIP 32775",
+  "HR 2562"
+ ],
  "simbad": "HD 50571",
  "ra_deg": 102.504229692,
  "dec_deg": -60.24914479466,
@@ -21,7 +24,8 @@
     "first_author": "Konopacky",
     "year": 2016,
     "arxiv": "1608.06660",
-    "bibcode": "2016ApJ...829L...4K"
+    "bibcode": "2016ApJ...829L...4K",
+    "journal": "ApJL 829, L4"
    }
   }
  ],
@@ -60,9 +64,9 @@
     "first_author": "Sutlieff",
     "year": 2021,
     "title": "High-contrast observations of brown dwarf companion HR 2562 B with the vector-Apodizing Phase Plate",
-    "journal": null,
+    "journal": "MNRAS 506, 3224",
     "arxiv": "2106.14890",
-    "bibcode": null
+    "bibcode": "2021MNRAS.506.3224S"
    },
    "file": "images/hd-50571/hd-50571_vapp2021.png"
   }

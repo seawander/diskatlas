@@ -3,14 +3,22 @@
  "name": "CP-72 2713",
  "alt_names": [],
  "simbad": "CP-72 2713",
- "ra_deg": 340.7038917742200,
- "dec_deg": -71.7058888519300,
+ "ra_deg": 340.70389177422,
+ "dec_deg": -71.70588885193,
  "dist_pc": 36.62,
  "plx_mas": 27.2315,
- "mags": {"V": 10.565, "G": 9.821707, "J": 7.791, "H": 7.123, "K": 6.894},
+ "mags": {
+  "V": 10.565,
+  "G": 9.821707,
+  "J": 7.791,
+  "H": 7.123,
+  "K": 6.894
+ },
  "sptype": "K7Ve",
  "region": "beta Pic moving group",
- "categories": ["debris"],
+ "categories": [
+  "debris"
+ ],
  "planets": [],
  "images": [
   {
@@ -29,7 +37,7 @@
     "title": "The big sibling of AU Mic: a cold dust-rich debris disk around CP-72 2713 in the beta Pic moving group",
     "journal": "AJ",
     "arxiv": "2005.00861",
-    "bibcode": null
+    "bibcode": "2020AJ....159..288M"
    },
    "file": "images/cp-72-2713/cp-72-2713_alma2020.png"
   }

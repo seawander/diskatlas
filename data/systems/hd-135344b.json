@@ -33,7 +33,7 @@
     "title": "exoALMA IV: Substructures, Asymmetries, and the Faint Outer Disk in Continuum Emission",
     "journal": "ApJL (exoALMA special issue)",
     "arxiv": "2504.18725",
-    "bibcode": null
+    "bibcode": "2025ApJ...984L...9C"
    }
   },
   {
@@ -51,7 +51,7 @@
     "title": "Discovery of Small-Scale Spiral Structures in the Disk of SAO 206462 (HD 135344B): Implications for the Physical State of the Disk from Spiral Density Wave Theory",
     "journal": "ApJL 748, L22",
     "arxiv": "1202.6139",
-    "bibcode": null
+    "bibcode": "2012ApJ...748L..22M"
    },
    "image_id": "hd-135344b_seeds2012",
    "file": "images/hd-135344b/hd-135344b_seeds2012.png"
@@ -193,7 +193,7 @@
     "title": "ALICE Data Release: A revaluation of HST-NICMOS coronagraphic images",
     "journal": "AJ 155, 179",
     "arxiv": "1802.07754",
-    "bibcode": null
+    "bibcode": "2018AJ....155..179H"
    },
    "hires_url": "https://archive.stsci.edu/prepds/alice/"
   },
@@ -213,7 +213,7 @@
     "title": "Multi-epoch scattered-light analysis of HD 135344B: new evidence for a spiral-driving protoplanet",
     "journal": "Astronomy & Astrophysics (submitted/in press)",
     "arxiv": "2606.10624",
-    "bibcode": null
+    "bibcode": "2026arXiv260610624L"
    },
    "file": "images/hd-135344b/hd-135344b_nircam2026.png"
   },
@@ -253,7 +253,7 @@
     "title": "exoALMA I. Science Goals, Project Design and Data Products",
     "journal": "ApJL (exoALMA Focus Issue)",
     "arxiv": "2504.18688",
-    "bibcode": null
+    "bibcode": "2025ApJ...984L...6T"
    },
    "file": "images/hd-135344b/hd-135344b_exoalma-co.png"
   },

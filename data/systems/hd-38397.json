@@ -1,7 +1,9 @@
 {
  "id": "hd-38397",
  "name": "HD 38397",
- "alt_names": ["HIP 26990"],
+ "alt_names": [
+  "HIP 26990"
+ ],
  "simbad": "HD 38397",
  "ra_deg": 85.89920377807,
  "dec_deg": -39.92353378909,
@@ -30,7 +32,7 @@
     "title": "Characterization of debris disks observed with SPHERE",
     "journal": "A&A 704, A21",
     "arxiv": "2512.03128",
-    "bibcode": null
+    "bibcode": "2025A&A...704A..21E"
    }
   }
  ],

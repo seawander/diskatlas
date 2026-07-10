@@ -1,7 +1,9 @@
 {
  "id": "gj-581",
  "name": "GJ 581",
- "alt_names": ["HIP 74995"],
+ "alt_names": [
+  "HIP 74995"
+ ],
  "simbad": "GJ 581",
  "ra_deg": 229.8617789114604,
  "dec_deg": -7.7222748604072,
@@ -27,9 +29,9 @@
     "first_author": "Lestrade",
     "year": 2012,
     "title": "A DEBRIS Disk Around The Planet Hosting M-star GJ 581 Spatially Resolved with Herschel",
-    "journal": null,
+    "journal": "A&A 548, A86",
     "arxiv": "1211.4898",
-    "bibcode": null
+    "bibcode": "2012A&A...548A..86L"
    },
    "file": "images/gj-581/gj-581_herschel.png"
   }

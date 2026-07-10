@@ -1,7 +1,9 @@
 {
  "id": "v1247-ori",
  "name": "V1247 Ori",
- "alt_names": ["HD 290764"],
+ "alt_names": [
+  "HD 290764"
+ ],
  "simbad": "V1247 Ori",
  "ra_deg": 84.5218831112,
  "dec_deg": -1.25602746013,
@@ -89,7 +91,7 @@
     "title": "Imaging the disc rim and a moving close-in companion candidate in the pre-transitional disc of V1247 Orionis",
     "journal": "A&A 621, A7",
     "arxiv": "1811.06880",
-    "bibcode": null
+    "bibcode": "2019A&A...621A...7W"
    },
    "file": "images/v1247-ori/v1247-ori_sma2019.png"
   },

@@ -1,7 +1,11 @@
 {
  "id": "hip-17453",
  "name": "HIP 17453",
- "alt_names": ["HD 23387", "HD 23258", "HR 1137"],
+ "alt_names": [
+  "HD 23387",
+  "HD 23258",
+  "HR 1137"
+ ],
  "simbad": "HIP 17453",
  "ra_deg": 56.1175158194,
  "dec_deg": 20.92873572803,
@@ -27,7 +31,8 @@
     "first_author": "Brinjikji",
     "year": 2026,
     "arxiv": "2606.30733",
-    "bibcode": null
+    "bibcode": "2026arXiv260630733B",
+    "journal": "arXiv e-print"
    }
   }
  ],
@@ -48,9 +53,9 @@
     "first_author": "Brinjikji",
     "year": 2026,
     "title": "The Companions to B and A Stars Snapshot (C-BASS) Survey: I. Discovery of a Young Brown Dwarf Companion to HIP 17453",
-    "journal": null,
+    "journal": "arXiv e-print",
     "arxiv": "2606.30733",
-    "bibcode": null
+    "bibcode": "2026arXiv260630733B"
    }
   }
  ],

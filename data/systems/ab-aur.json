@@ -23,7 +23,8 @@
     "first_author": "Currie",
     "year": 2022,
     "arxiv": "2204.00633",
-    "bibcode": "2022NatAs...6..751C"
+    "bibcode": "2022NatAs...6..751C",
+    "journal": "Nature Astronomy 6, 751"
    },
    "extra_papers": [
     {
@@ -32,15 +33,15 @@
      "title": "UV-Optical Emission of AB Aur b is Consistent with Scattered Stellar Light",
      "journal": "AJ",
      "arxiv": "2308.16223",
-     "bibcode": null
+     "bibcode": "2023AJ....166..220Z"
     },
     {
      "first_author": "Biddle",
      "year": 2024,
      "title": "Deep Pabeta Imaging of the Candidate Accreting Protoplanet AB Aur b",
-     "journal": null,
+     "journal": "AJ 167, 172",
      "arxiv": "2402.12601",
-     "bibcode": null
+     "bibcode": "2024AJ....167..172B"
     }
    ]
   }
@@ -61,7 +62,7 @@
     "title": "Planet Formation in AB Aurigae: Imaging of the Inner Gaseous Spirals Observed inside the Dust Cavity",
     "journal": "ApJ 840, 32",
     "arxiv": "1704.02699",
-    "bibcode": null
+    "bibcode": "2017ApJ...840...32T"
    },
    "image_id": "ab-aur_alma2017",
    "file": "images/ab-aur/ab-aur_alma2017.png"
@@ -81,7 +82,7 @@
     "title": "Direct Imaging of Fine Structures in Giant Planet Forming Regions of the Protoplanetary Disk around AB Aurigae",
     "journal": "ApJL 729, L17",
     "arxiv": "1102.4408",
-    "bibcode": null
+    "bibcode": "2011ApJ...729L..17H"
    },
    "image_id": "ab-aur_seeds2011",
    "file": "images/ab-aur/ab-aur_seeds2011.png"
@@ -101,7 +102,7 @@
     "title": "Possible evidence of ongoing planet formation in AB Aurigae",
     "journal": "A&A 637, L5",
     "arxiv": "2005.09064",
-    "bibcode": null
+    "bibcode": "2020A&A...637L...5B"
    },
    "image_id": "ab-aur_sphere2020",
    "file": "images/ab-aur/ab-aur_sphere2020.png"
@@ -163,7 +164,7 @@
     "title": "Possible evidence of ongoing planet formation in AB Aurigae",
     "journal": "A&A 637, L5",
     "arxiv": "2005.09064",
-    "bibcode": null
+    "bibcode": "2020A&A...637L...5B"
    }
   },
   {
@@ -203,7 +204,7 @@
     "title": "ALICE Data Release: A revaluation of HST-NICMOS coronagraphic images",
     "journal": "AJ 155, 179",
     "arxiv": "1802.07754",
-    "bibcode": null
+    "bibcode": "2018AJ....155..179H"
    },
    "hires_url": "https://archive.stsci.edu/prepds/alice/"
   },
@@ -263,7 +264,7 @@
     "title": "Direct Imaging of Fine Structures in Giant Planet Forming Regions of the Protoplanetary Disk around AB Aurigae",
     "journal": "ApJL 729, L17",
     "arxiv": "1102.4408",
-    "bibcode": null
+    "bibcode": "2011ApJ...729L..17H"
    },
    "file": "images/ab-aur/ab-aur_seeds2011-closeup.png"
   },
@@ -283,7 +284,7 @@
     "title": "Gravitational instability in a planet-forming disk",
     "journal": "Nature (2024)",
     "arxiv": "2409.02196",
-    "bibcode": null
+    "bibcode": "2024Natur.633...58S"
    },
    "file": "images/ab-aur/ab-aur_alma2024.png"
   },
@@ -304,7 +305,7 @@
     "title": "SCExAO/CHARIS Near-Infrared Scattered-Light Imaging and Integral Field Spectropolarimetry of the AB Aurigae Protoplanetary System",
     "journal": "ApJ",
     "arxiv": "2410.11939",
-    "bibcode": null
+    "bibcode": "2024ApJ...977..172D"
    }
   },
   {
@@ -324,7 +325,7 @@
     "title": "SCExAO/CHARIS Near-Infrared Scattered-Light Imaging and Integral Field Spectropolarimetry of the AB Aurigae Protoplanetary System",
     "journal": "ApJ",
     "arxiv": "2410.11939",
-    "bibcode": null
+    "bibcode": "2024ApJ...977..172D"
    }
   },
   {
@@ -344,7 +345,7 @@
     "title": "SCExAO/CHARIS Near-Infrared Scattered-Light Imaging and Integral Field Spectropolarimetry of the AB Aurigae Protoplanetary System",
     "journal": "ApJ",
     "arxiv": "2410.11939",
-    "bibcode": null
+    "bibcode": "2024ApJ...977..172D"
    }
   },
   {
@@ -361,9 +362,9 @@
     "first_author": "Currie",
     "year": 2025,
     "title": "VLT/MUSE Detection of the AB Aurigae b Protoplanet with Halpha Spectroscopy",
-    "journal": null,
+    "journal": "ApJL 990, L42",
     "arxiv": "2508.18351",
-    "bibcode": null
+    "bibcode": "2025ApJ...990L..42C"
    },
    "file": "images/ab-aur/ab-aur_muse2025.png"
   },
@@ -381,9 +382,9 @@
     "first_author": "Zhou",
     "year": 2022,
     "title": "HST/WFC3 Halpha Direct-Imaging Detection of a Point-like Source in the Disk Cavity of AB Aur",
-    "journal": null,
+    "journal": "ApJL 934, L13",
     "arxiv": "2207.06525",
-    "bibcode": null
+    "bibcode": "2022ApJ...934L..13Z"
    },
    "file": "images/ab-aur/ab-aur_wfc3-2022.png"
   },

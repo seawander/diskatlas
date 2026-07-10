@@ -1,7 +1,9 @@
 {
  "id": "hd-206893",
  "name": "HD 206893",
- "alt_names": ["HIP 107412"],
+ "alt_names": [
+  "HIP 107412"
+ ],
  "simbad": "HD 206893",
  "ra_deg": 326.34127188872,
  "dec_deg": -12.78335022351,
@@ -20,8 +22,9 @@
     "first_author": "Hinkley",
     "year": 2023,
     "arxiv": "2208.04867",
-    "bibcode": null,
-    "_verify": true
+    "bibcode": "2023A&A...671L...5H",
+    "_verify": true,
+    "journal": "A&A 671, L5"
    },
    "method": "interferometry"
   },
@@ -33,7 +36,8 @@
     "first_author": "Milli",
     "year": 2017,
     "arxiv": "1612.00333",
-    "bibcode": "2017A&A...597L...2M"
+    "bibcode": "2017A&A...597L...2M",
+    "journal": "A&A 597, L2"
    }
   }
  ],
@@ -75,7 +79,7 @@
     "title": "The ALMA survey to Resolve exoKuiper belt Substructures (ARKS) I: Motivation, sample, data reduction, and results overview",
     "journal": "A&A",
     "arxiv": "2601.11708",
-    "bibcode": null
+    "bibcode": "2026A&A...705A.195M"
    }
   },
   {
@@ -114,7 +118,7 @@
     "title": "Discovery of a low-mass companion inside the debris ring surrounding the F5V star HD206893",
     "journal": "A&A 597, L2 (2017)",
     "arxiv": "1612.00333",
-    "bibcode": null
+    "bibcode": "2017A&A...597L...2M"
    },
    "file": "images/hd-206893/hd-206893_sphere2017.png"
   },
@@ -134,7 +138,7 @@
     "title": "Gemini Planet Imager Spectroscopy of the Dusty Substellar Companion HD 206893 B",
     "journal": "ApJ",
     "arxiv": "2010.10546",
-    "bibcode": null
+    "bibcode": "2021AJ....161....5W"
    },
    "file": "images/hd-206893/hd-206893_gpi2016.png"
   }

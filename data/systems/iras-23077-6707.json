@@ -39,9 +39,9 @@
     "first_author": "Monsch",
     "year": 2025,
     "title": "Hubble reveals complex multi-scale structure in the edge-on protoplanetary disk IRAS 23077+6707",
-    "journal": null,
+    "journal": "ApJ 996, 45",
     "arxiv": "2510.11819",
-    "bibcode": null
+    "bibcode": "2026ApJ...996...45M"
    }
   },
   {
@@ -62,7 +62,7 @@
     "title": "High-resolution Pan-STARRS and SMA observations of IRAS 23077+6707: A giant edge-on protoplanetary disk",
     "journal": "ApJL 967, L2",
     "arxiv": "2402.01941",
-    "bibcode": null
+    "bibcode": "2024ApJ...967L...2M"
    }
   },
   {
@@ -79,9 +79,9 @@
     "first_author": "Lovell",
     "year": 2025,
     "title": "SMA and NOEMA reveal asymmetric sub-structure in the protoplanetary disk of IRAS 23077+6707",
-    "journal": null,
+    "journal": "ApJ 989, 69",
     "arxiv": "2507.00122",
-    "bibcode": null
+    "bibcode": "2025ApJ...989...69L"
    },
    "file": "images/iras-23077-6707/iras-23077-6707_noema2025.png"
   }

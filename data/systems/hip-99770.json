@@ -1,7 +1,11 @@
 {
  "id": "hip-99770",
  "name": "HIP 99770",
- "alt_names": ["29 Cyg", "HD 192640", "HR 7736"],
+ "alt_names": [
+  "29 Cyg",
+  "HD 192640",
+  "HR 7736"
+ ],
  "simbad": "HIP 99770",
  "ra_deg": 303.6334681420099,
  "dec_deg": 36.80630580809,
@@ -17,7 +21,8 @@
     "first_author": "Currie",
     "year": 2023,
     "arxiv": "2212.00034",
-    "bibcode": "2023Sci...380..198C"
+    "bibcode": "2023Sci...380..198C",
+    "journal": "Science 380, 198"
    }
   }
  ],
@@ -56,9 +61,9 @@
     "first_author": "Balmer",
     "year": 2026,
     "title": "Direct Images of CO2 Absorption in the Atmosphere of a Super-Jupiter",
-    "journal": null,
+    "journal": "ApJL 1001, L26",
     "arxiv": "2604.09785",
-    "bibcode": null
+    "bibcode": "2026ApJ..1001L..26B"
    },
    "file": "images/hip-99770/hip-99770_nircam2026.png"
   }

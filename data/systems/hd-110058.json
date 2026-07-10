@@ -1,7 +1,9 @@
 {
  "id": "hd-110058",
  "name": "HD 110058",
- "alt_names": ["HIP 61782"],
+ "alt_names": [
+  "HIP 61782"
+ ],
  "simbad": "HD 110058",
  "ra_deg": 189.94248438567,
  "dec_deg": -49.19876413854,
@@ -110,7 +112,7 @@
     "title": "Characterization of debris disks observed with SPHERE",
     "journal": "A&A 704, A21",
     "arxiv": "2512.03128",
-    "bibcode": null
+    "bibcode": "2025A&A...704A..21E"
    }
   },
   {
@@ -169,7 +171,7 @@
     "title": "A Uniform Analysis of Debris Disks with the Gemini Planet Imager II: Constraints on Dust Density Distribution Using Empirically-Informed Scattering Phase Functions",
     "journal": "MNRAS",
     "arxiv": "2402.00214",
-    "bibcode": null
+    "bibcode": "2024MNRAS.528.6959H"
    },
    "file": "images/hd-110058/hd-110058_gpi-hom24.png"
   },
@@ -189,7 +191,7 @@
     "title": "Reference-star differential imaging on SPHERE/IRDIS",
     "journal": "A&A 666, A32",
     "arxiv": "2208.07915",
-    "bibcode": null
+    "bibcode": "2022A&A...666A..32X"
    },
    "file": "images/hd-110058/hd-110058_sphere-rdi-xie22.png"
   }

@@ -1,7 +1,11 @@
 {
  "id": "14-her",
  "name": "14 Her",
- "alt_names": ["GJ 614", "HD 145675", "HIP 79248"],
+ "alt_names": [
+  "GJ 614",
+  "HD 145675",
+  "HIP 79248"
+ ],
  "simbad": "14 Her",
  "ra_deg": 242.6013153162529,
  "dec_deg": 43.8176409463358,
@@ -18,7 +22,8 @@
     "first_author": "Bardalez Gagliuffi",
     "year": 2025,
     "arxiv": "2506.09201",
-    "bibcode": null
+    "bibcode": "2025ApJ...988L..18B",
+    "journal": "ApJL 988, L18"
    }
   }
  ],
@@ -38,7 +43,7 @@
     "title": "JWST Coronagraphic Images of 14 Her c: a Cold Giant Planet in a Dynamically Hot, Multi-planet System",
     "journal": "ApJL (2025)",
     "arxiv": "2506.09201",
-    "bibcode": null
+    "bibcode": "2025ApJ...988L..18B"
    },
    "image_id": "14-her_jwst2025",
    "file": "images/14-her/14-her_jwst2025.png"

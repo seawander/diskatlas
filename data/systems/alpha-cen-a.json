@@ -1,7 +1,12 @@
 {
  "id": "alpha-cen-a",
  "name": "alpha Cen A",
- "alt_names": ["Rigil Kentaurus", "HD 128620", "HIP 71683", "HR 5459"],
+ "alt_names": [
+  "Rigil Kentaurus",
+  "HD 128620",
+  "HIP 71683",
+  "HR 5459"
+ ],
  "simbad": "alf Cen A",
  "ra_deg": 219.90205833,
  "dec_deg": -60.83399269,
@@ -71,7 +76,7 @@
     "title": "Worlds Next Door: A Candidate Giant Planet Imaged in the Habitable Zone of $\\alpha$ Cen A. I. Observations, Orbital and Physical Properties, and Exozodi Upper Limits",
     "journal": "ApJL",
     "arxiv": "2508.03814",
-    "bibcode": null
+    "bibcode": "2025ApJ...989L..22B"
    },
    "file": "images/alpha-cen-a/alpha-cen-a_miri2025.png"
   }

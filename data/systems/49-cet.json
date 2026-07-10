@@ -1,7 +1,11 @@
 {
  "id": "49-cet",
  "name": "49 Cet",
- "alt_names": ["HD 9672", "HIP 7345", "HR 451"],
+ "alt_names": [
+  "HD 9672",
+  "HIP 7345",
+  "HR 451"
+ ],
  "simbad": "49 Cet",
  "ra_deg": 23.65741115869,
  "dec_deg": -15.6763607425,
@@ -50,7 +54,7 @@
     "title": "The ALMA survey to Resolve exoKuiper belt Substructures (ARKS) I: Motivation, sample, data reduction, and results overview",
     "journal": "A&A",
     "arxiv": "2601.11708",
-    "bibcode": null
+    "bibcode": "2026A&A...705A.195M"
    }
   },
   {
@@ -90,7 +94,7 @@
     "title": "Characterization of debris disks observed with SPHERE",
     "journal": "A&A 704, A21",
     "arxiv": "2512.03128",
-    "bibcode": null
+    "bibcode": "2025A&A...704A..21E"
    }
   },
   {
@@ -150,7 +154,7 @@
     "title": "ALICE Data Release: A revaluation of HST-NICMOS coronagraphic images",
     "journal": "AJ 155, 179",
     "arxiv": "1802.07754",
-    "bibcode": null
+    "bibcode": "2018AJ....155..179H"
    },
    "hires_url": "https://archive.stsci.edu/prepds/alice/"
   },
@@ -170,7 +174,7 @@
     "title": "First scattered-light images of the gas-rich debris disk around 49 Ceti",
     "journal": "ApJL 834, L12",
     "arxiv": "1612.07320",
-    "bibcode": null
+    "bibcode": "2017ApJ...834L..12C"
    },
    "file": "images/49-cet/49-cet_nicmos-choquet2017.png"
   },
@@ -190,7 +194,7 @@
     "title": "First scattered-light images of the gas-rich debris disk around 49 Ceti",
     "journal": "ApJL 834, L12",
     "arxiv": "1612.07320",
-    "bibcode": null
+    "bibcode": "2017ApJ...834L..12C"
    },
    "file": "images/49-cet/49-cet_sphere-choquet2017.png"
   },

@@ -19,7 +19,8 @@
     "first_author": "Chauvin",
     "year": 2017,
     "arxiv": "1707.01413",
-    "bibcode": "2017A&A...605L...9C"
+    "bibcode": "2017A&A...605L...9C",
+    "journal": "A&A 605, L9"
    }
   }
  ],
@@ -198,9 +199,9 @@
     "first_author": "Cheetham",
     "year": 2019,
     "title": "Spectral and orbital characterisation of the directly imaged giant planet HIP 65426 b",
-    "journal": null,
+    "journal": "A&A 622, A80",
     "arxiv": "1812.07198",
-    "bibcode": null
+    "bibcode": "2019A&A...622A..80C"
    },
    "file": "images/hip-65426/hip-65426_naco2019-lp.png"
   },
@@ -218,9 +219,9 @@
     "first_author": "Cheetham",
     "year": 2019,
     "title": "Spectral and orbital characterisation of the directly imaged giant planet HIP 65426 b",
-    "journal": null,
+    "journal": "A&A 622, A80",
     "arxiv": "1812.07198",
-    "bibcode": null
+    "bibcode": "2019A&A...622A..80C"
    },
    "file": "images/hip-65426/hip-65426_naco2019-mp.png"
   }
