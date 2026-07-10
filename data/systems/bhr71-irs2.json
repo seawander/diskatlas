@@ -1,8 +1,10 @@
 {
  "id": "bhr71-irs2",
  "name": "BHR71 IRS2",
- "alt_names": [],
- "simbad": "IRAS 11590-6452",
+ "alt_names": [
+  "IRAS 11590-6452"
+ ],
+ "simbad": "[B2001b] IRS 2",
  "ra_deg": 180.392042,
  "dec_deg": -65.146489,
  "dist_pc": 176,

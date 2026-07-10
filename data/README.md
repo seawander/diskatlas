@@ -3,6 +3,18 @@
 One JSON file per stellar system in `data/systems/<system_id>.json`.
 `frontend/data.js` is compiled from these by `backend/build.py`. **Edit here, never edit data.js.**
 
+## Inclusion / resolution criterion
+
+A record earns a place only if it is a **spatially resolved image** or a **direct/interferometric
+companion detection** (or a coronagraphic quasar-host image). Numeric bar for *disk* records: the
+disk structure must span **≥ 3 resolution elements** (synthesized beams, or PSF/diffraction-limit
+FWHMs) along at least one axis in the published image — i.e. resolved structure, not an unresolved
+blob. **Companion records** (`type: "planet"`) are point-source *detections*; they need not be
+spatially resolved, but must be a genuine imaging/interferometric detection (not a transit light
+curve, RV curve, SED, or photometry — those are out of scope). This bar is enforced at ingestion
+by the mandatory VIEW-verify step; there is no stored per-record beam/PSF size, so marginal cases
+are flagged qualitatively in the record `note` rather than auto-rejected.
+
 ## system_id convention
 
 Lowercase; spaces and special chars → `-`; keep the most common name.
