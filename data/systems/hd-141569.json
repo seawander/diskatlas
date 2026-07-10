@@ -278,6 +278,26 @@
     "journal": "MNRAS 474, 4500",
     "title": "ALMA and VLA observations of the HD 141569 system"
    }
+  },
+  {
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 6 (13CO)",
+   "technique": "interferometry",
+   "wavelength_um": 1360,
+   "wavelength_label": "13CO 2-1 integrated intensity (1.36 mm; midplane gas ring)",
+   "image_id": "hd-141569_alma-miley2018-13co",
+   "survey": null,
+   "file": "images/hd-141569/hd-141569_alma-miley2018-13co.png",
+   "credit": "Miley et al. 2018, Fig. 2 (crop)",
+   "paper": {
+    "arxiv": "1805.02476",
+    "bibcode": "2018A&A...615L..10M",
+    "first_author": "Miley",
+    "year": 2018,
+    "journal": "A&A Letters 615, L10",
+    "title": "Unlocking the secrets of the midplane gas and dust distribution in the young hybrid disc HD 141569A"
+   }
   }
  ],
  "notes": "Hybrid disk (gas-rich debris / late transition).",
