@@ -368,29 +368,50 @@
    "epoch": "2005-01-07"
   },
   {
-   "image_id": "mwc-758_ren2020",
+   "image_id": "mwc-758_ren2020-y2015",
    "type": "disk_scattered",
    "facility": "VLT-SPHERE",
-   "instrument": "IRDIS",
+   "instrument": "IRDIS (DPI)",
    "wavelength_um": 1.04,
-   "wavelength_label": "Y band 1.04 um (Stokes Qphi, two epochs: 2015 Mar 4 + 2019 Nov 18)",
+   "wavelength_label": "Y band 1.04 um Q_phi x r^2 spiral arms (2015 epoch)",
    "technique": "PDI",
    "survey": null,
-   "credit": "Ren et al. 2020, Fig. 1a-b (crop)",
+   "file": "images/mwc-758/mwc-758_ren2020-y2015.png",
+   "credit": "Ren et al. 2020, Fig. 1a (crop)",
    "paper": {
     "first_author": "Ren",
     "year": 2020,
     "title": "Dynamical Evidence of a Spiral Arm-Driving Planet in the MWC 758 Protoplanetary Disk",
-    "journal": "ApJL",
+    "journal": "ApJL 898, L38",
     "arxiv": "2007.04980",
     "bibcode": "2020ApJ...898L..38R"
    },
-   "file": "images/mwc-758/mwc-758_ren2020.png",
-   "epoch": "2015 Mar 4"
+   "epoch": "2015-03-04"
+  },
+  {
+   "image_id": "mwc-758_ren2020-y2019",
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS (DPI)",
+   "wavelength_um": 1.04,
+   "wavelength_label": "Y band 1.04 um Q_phi x r^2 spiral arms (2019 epoch)",
+   "technique": "PDI",
+   "survey": null,
+   "file": "images/mwc-758/mwc-758_ren2020-y2019.png",
+   "credit": "Ren et al. 2020, Fig. 1b (crop)",
+   "paper": {
+    "first_author": "Ren",
+    "year": 2020,
+    "title": "Dynamical Evidence of a Spiral Arm-Driving Planet in the MWC 758 Protoplanetary Disk",
+    "journal": "ApJL 898, L38",
+    "arxiv": "2007.04980",
+    "bibcode": "2020ApJ...898L..38R"
+   },
+   "epoch": "2019-11-18"
   }
  ],
  "notes": null,
- "last_updated": "2026-07-08",
+ "last_updated": "2026-07-10",
  "plx_mas": 6.4157,
  "mags": {
   "B": 8.57,

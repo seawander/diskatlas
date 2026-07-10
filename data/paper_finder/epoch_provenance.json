@@ -7108,5 +7108,17 @@
   "source": "tex:ingestion",
   "arxiv": "2412.14402",
   "snippet": "epoch printed in-panel (Fig. 1) and encoded in source FITS filename"
+ },
+ "mwc-758_ren2020-y2015": {
+  "epoch": "2015-03-04",
+  "source": "tex:ingestion",
+  "arxiv": "2007.04980",
+  "snippet": "in-panel label: (a) 2015 March 4"
+ },
+ "mwc-758_ren2020-y2019": {
+  "epoch": "2019-11-18",
+  "source": "tex:ingestion",
+  "arxiv": "2007.04980",
+  "snippet": "in-panel label: (b) 2019 November 18"
  }
 }
