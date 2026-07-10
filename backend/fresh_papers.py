@@ -64,7 +64,11 @@ def load_ledgers():
                 done.add(p["arxiv"].lower())
     state = ROOT / "data" / "paper_finder_state.json"
     if state.exists():
-        done |= {k.lower() for k in json.loads(state.read_text()).get("papers", {})}
+        # flat dict; keys are Semantic Scholar hashes (from find_papers.py) OR
+        # arXiv ids (added by fresh_papers reviews) -- only the latter match here
+        for k in json.loads(state.read_text()):
+            if re.match(r"^\d{4}\.\d{4,5}$|^astro-ph/\d{7}$", k):
+                done.add(k.lower())
     return done
 
 

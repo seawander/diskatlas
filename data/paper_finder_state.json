@@ -74,7 +74,7 @@
   "status": "excluded",
   "reason": "review/theory/methods - no original resolved image (auto-triage)",
   "date": "2026-07-06",
-  "title": "An Empirical Planetesimal Belt Radius\u2013Stellar Luminosity Relation"
+  "title": "An Empirical Planetesimal Belt Radius–Stellar Luminosity Relation"
  },
  "1810.04564": {
   "status": "excluded",
@@ -158,7 +158,7 @@
   "status": "excluded",
   "reason": "review/theory/methods - no original resolved image (auto-triage)",
   "date": "2026-07-06",
-  "title": "ALMA 2D super-resolution imaging of Taurus\u2013Auriga protoplanetary disks: Probing statistical properties of disk substruct"
+  "title": "ALMA 2D super-resolution imaging of Taurus–Auriga protoplanetary disks: Probing statistical properties of disk substruct"
  },
  "1411.2587": {
   "status": "excluded",
@@ -188,7 +188,7 @@
   "status": "excluded",
   "reason": "review/theory/methods - no original resolved image (auto-triage)",
   "date": "2026-07-06",
-  "title": "Laboratory and On-sky Validation of the Shaped Pupil Coronagraph\u2019s Sensitivity to Low-order Aberrations With Active Wave"
+  "title": "Laboratory and On-sky Validation of the Shaped Pupil Coronagraph’s Sensitivity to Low-order Aberrations With Active Wave"
  },
  "1404.5335": {
   "status": "excluded",
@@ -206,7 +206,7 @@
   "status": "excluded",
   "reason": "review/theory/methods - no original resolved image (auto-triage)",
   "date": "2026-07-06",
-  "title": "glitterin: Toward Replacing the Role of Lorenz\u2013Mie Theory in Astronomy Using Neural Networks Trained on Light Scattering"
+  "title": "glitterin: Toward Replacing the Role of Lorenz–Mie Theory in Astronomy Using Neural Networks Trained on Light Scattering"
  },
  "2509.01937": {
   "status": "excluded",
@@ -266,7 +266,7 @@
   "status": "excluded",
   "reason": "review/theory/methods - no original resolved image (auto-triage)",
   "date": "2026-07-06",
-  "title": "Circumbinary and circumstellar discs around the eccentric binary IRAS 04158+2805 \u2014 a testbed for binary\u2013disc interaction"
+  "title": "Circumbinary and circumstellar discs around the eccentric binary IRAS 04158+2805 — a testbed for binary–disc interaction"
  },
  "2106.10167": {
   "status": "excluded",
@@ -284,7 +284,7 @@
   "status": "excluded",
   "reason": "review/theory/methods - no original resolved image (auto-triage)",
   "date": "2026-07-06",
-  "title": "The theory of kinks \u2013 I. A semi-analytic model of velocity perturbations due to planet\u2013disc interaction"
+  "title": "The theory of kinks – I. A semi-analytic model of velocity perturbations due to planet–disc interaction"
  },
  "2009.03323": {
   "status": "excluded",
@@ -410,7 +410,7 @@
   "status": "excluded",
   "reason": "review/theory/methods - no original resolved image (auto-triage)",
   "date": "2026-07-06",
-  "title": "Disk2Planet: A Robust and Automated Machine Learning Tool for Parameter Inference in Disk\u2013Planet Systems"
+  "title": "Disk2Planet: A Robust and Automated Machine Learning Tool for Parameter Inference in Disk–Planet Systems"
  },
  "2309.04623": {
   "status": "excluded",
@@ -428,7 +428,7 @@
   "status": "excluded",
   "reason": "review/theory/methods - no original resolved image (auto-triage)",
   "date": "2026-07-06",
-  "title": "An Ideal Testbed for Planet\u2013Disk Interaction: Two Giant Protoplanets in Resonance Shaping the PDS 70 Protoplanetary Disk"
+  "title": "An Ideal Testbed for Planet–Disk Interaction: Two Giant Protoplanets in Resonance Shaping the PDS 70 Protoplanetary Disk"
  },
  "1709.07006": {
   "status": "excluded",
@@ -1008,7 +1008,7 @@
  },
  "1303.4525": {
   "status": "excluded",
-  "reason": "wrong-id lead: Delorme+2013 2M0103-5515 \u2014 queue separately if desired",
+  "reason": "wrong-id lead: Delorme+2013 2M0103-5515 — queue separately if desired",
   "date": "2026-07-06"
  },
  "2509.06729": {
@@ -2370,5 +2370,53 @@
   "status": "ingested",
   "reason": "Ren+2023 DIKL Fig 4: KLIP+DIKL for HD 169142/PDS 201/HD 129590 (user request)",
   "date": "2026-07-08"
+ },
+ "2607.05193": {
+  "date": "2026-07-09",
+  "status": "excluded",
+  "reason": "exosatellite detected via companion RVs (periodograms only) - no resolved image; VIEW-checked",
+  "title": "Planetary-Mass Exosatellite Detected Around the Substellar Companion CD-35 2722 B"
+ },
+ "2607.02660": {
+  "date": "2026-07-09",
+  "status": "excluded",
+  "reason": "rings are UNRESOLVED (inferred from azimuthal modulation); only sky image is Band 6 already in atlas (Clarke 2018); B3/B7 shown only as polar R-phi maps; VIEW-checked",
+  "title": "Azimuthal brightness modulation reveals hidden rings in CI Tau"
+ },
+ "2607.05497": {
+  "date": "2026-07-09",
+  "status": "excluded",
+  "reason": "hydro-simulation theory of gap edges (WISPIT 2 mention); no observation (fresh_papers triage)",
+  "title": "Puffed-up Edges of Planet-opened Gaps in Protoplanetary Disks. II. The Role of the Planet's Orbital Eccentricity"
+ },
+ "2607.03866": {
+  "date": "2026-07-09",
+  "status": "excluded",
+  "reason": "modeling of existing PDS 70 c CPD ALMA data; no new image (fresh_papers triage)",
+  "title": "Interpreting ALMA Multi-wavelength Continuum Observations of PDS 70 c: An Optically Thick Dust Ring in the Circumplanetary Disk"
+ },
+ "2607.02685": {
+  "date": "2026-07-09",
+  "status": "excluded",
+  "reason": "TESS/NGTS transits of HD 114082; no image (fresh_papers triage)",
+  "title": "The Longest-period Young Transiting Exoplanets. A Duo of Puffy Giants inside a Debris Disk"
+ },
+ "2607.02487": {
+  "date": "2026-07-09",
+  "status": "excluded",
+  "reason": "spectroscopy of beta PsA rotation; 'Vega' abstract mention only (fresh_papers triage)",
+  "title": "The Debris Disk Host $β$ Piscis Austrinus is a Rapidly Rotating Star Seen Nearly Pole-On"
+ },
+ "2605.29946": {
+  "date": "2026-07-09",
+  "status": "excluded",
+  "reason": "Rossiter-McLaughlin transits of AU Mic b/c; no image (fresh_papers triage)",
+  "title": "Spin─Orbit Geometry of AU Mic b and c from Back-to-back Transits Observed Contemporaneously with Magellan PFS, LCOGT, and CHEOPS"
+ },
+ "2606.28171": {
+  "date": "2026-07-09",
+  "status": "excluded",
+  "reason": "SKAO demographics forecast; simulations only (fresh_papers triage)",
+  "title": "Demographics of planet-forming disks with the SKAO"
  }
 }
