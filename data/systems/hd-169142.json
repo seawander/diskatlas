@@ -279,6 +279,146 @@
     "bibcode": "2023A&A...679A..18R"
    },
    "file": "images/hd-169142/hd-169142_dikl-dikl.png"
+  },
+  {
+   "type": "disk_scattered",
+   "facility": "VLT-NACO",
+   "instrument": "NACO pol",
+   "technique": "PDI",
+   "wavelength_um": 1.65,
+   "wavelength_label": "H band 1.65 um (Qphi x r^2, 2012-07-26 epoch)",
+   "image_id": "hd-169142_lucas2025-naco-h",
+   "survey": null,
+   "file": "images/hd-169142/hd-169142_lucas2025-naco-h.png",
+   "credit": "Lucas et al. 2025, Fig. 3 (crop)",
+   "paper": {
+    "arxiv": "2509.15323",
+    "bibcode": "2025AJ....170..278L",
+    "first_author": "Lucas",
+    "year": 2025,
+    "journal": "AJ 170, 278",
+    "title": "Dynamical Analysis of the HD 169142 Planet-forming Disk: Twelve Years of High-contrast Polarimetry"
+   }
+  },
+  {
+   "type": "disk_scattered",
+   "facility": "Gemini-GPI",
+   "instrument": "IFS pol",
+   "technique": "PDI",
+   "wavelength_um": 1.24,
+   "wavelength_label": "J band 1.24 um (Qphi x r^2, 2014-04-25 epoch)",
+   "image_id": "hd-169142_lucas2025-gpi-j",
+   "survey": null,
+   "file": "images/hd-169142/hd-169142_lucas2025-gpi-j.png",
+   "credit": "Lucas et al. 2025, Fig. 3 (crop)",
+   "paper": {
+    "arxiv": "2509.15323",
+    "bibcode": "2025AJ....170..278L",
+    "first_author": "Lucas",
+    "year": 2025,
+    "journal": "AJ 170, 278",
+    "title": "Dynamical Analysis of the HD 169142 Planet-forming Disk: Twelve Years of High-contrast Polarimetry"
+   }
+  },
+  {
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS",
+   "technique": "PDI",
+   "wavelength_um": 1.25,
+   "wavelength_label": "J band 1.25 um (Qphi x r^2, 2015-05-03 epoch)",
+   "image_id": "hd-169142_lucas2025-irdis-j",
+   "survey": null,
+   "file": "images/hd-169142/hd-169142_lucas2025-irdis-j.png",
+   "credit": "Lucas et al. 2025, Fig. 3 (crop)",
+   "paper": {
+    "arxiv": "2509.15323",
+    "bibcode": "2025AJ....170..278L",
+    "first_author": "Lucas",
+    "year": 2025,
+    "journal": "AJ 170, 278",
+    "title": "Dynamical Analysis of the HD 169142 Planet-forming Disk: Twelve Years of High-contrast Polarimetry"
+   }
+  },
+  {
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "ZIMPOL",
+   "technique": "PDI",
+   "wavelength_um": 0.73,
+   "wavelength_label": "VBB 0.73 um (Qphi x r^2, 2018-07-15 epoch)",
+   "image_id": "hd-169142_lucas2025-zimpol-vbb",
+   "survey": null,
+   "file": "images/hd-169142/hd-169142_lucas2025-zimpol-vbb.png",
+   "credit": "Lucas et al. 2025, Fig. 3 (crop)",
+   "paper": {
+    "arxiv": "2509.15323",
+    "bibcode": "2025AJ....170..278L",
+    "first_author": "Lucas",
+    "year": 2025,
+    "journal": "AJ 170, 278",
+    "title": "Dynamical Analysis of the HD 169142 Planet-forming Disk: Twelve Years of High-contrast Polarimetry"
+   }
+  },
+  {
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS",
+   "technique": "PDI",
+   "wavelength_um": 2.18,
+   "wavelength_label": "Ks band 2.18 um (Qphi x r^2, 2021-09-06 epoch)",
+   "image_id": "hd-169142_lucas2025-irdis-ks",
+   "survey": null,
+   "file": "images/hd-169142/hd-169142_lucas2025-irdis-ks.png",
+   "credit": "Lucas et al. 2025, Fig. 3 (crop)",
+   "paper": {
+    "arxiv": "2509.15323",
+    "bibcode": "2025AJ....170..278L",
+    "first_author": "Lucas",
+    "year": 2025,
+    "journal": "AJ 170, 278",
+    "title": "Dynamical Analysis of the HD 169142 Planet-forming Disk: Twelve Years of High-contrast Polarimetry"
+   }
+  },
+  {
+   "type": "disk_scattered",
+   "facility": "Subaru-SCExAO",
+   "instrument": "CHARIS",
+   "technique": "PDI",
+   "wavelength_um": 1.63,
+   "wavelength_label": "JHK 1.1-2.4 um (Qphi x r^2, 2023-06-04 epoch)",
+   "image_id": "hd-169142_lucas2025-charis-jhk",
+   "survey": null,
+   "file": "images/hd-169142/hd-169142_lucas2025-charis-jhk.png",
+   "credit": "Lucas et al. 2025, Fig. 3 (crop)",
+   "paper": {
+    "arxiv": "2509.15323",
+    "bibcode": "2025AJ....170..278L",
+    "first_author": "Lucas",
+    "year": 2025,
+    "journal": "AJ 170, 278",
+    "title": "Dynamical Analysis of the HD 169142 Planet-forming Disk: Twelve Years of High-contrast Polarimetry"
+   }
+  },
+  {
+   "type": "disk_scattered",
+   "facility": "Subaru-SCExAO",
+   "instrument": "VAMPIRES",
+   "technique": "PDI",
+   "wavelength_um": 0.68,
+   "wavelength_label": "MBI 0.61-0.76 um (Qphi x r^2, 2024-07-29 epoch)",
+   "image_id": "hd-169142_lucas2025-vampires-mbi",
+   "survey": null,
+   "file": "images/hd-169142/hd-169142_lucas2025-vampires-mbi.png",
+   "credit": "Lucas et al. 2025, Fig. 3 (crop)",
+   "paper": {
+    "arxiv": "2509.15323",
+    "bibcode": "2025AJ....170..278L",
+    "first_author": "Lucas",
+    "year": 2025,
+    "journal": "AJ 170, 278",
+    "title": "Dynamical Analysis of the HD 169142 Planet-forming Disk: Twelve Years of High-contrast Polarimetry"
+   }
   }
  ],
  "notes": null,

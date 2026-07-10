@@ -1,0 +1,45 @@
+{
+ "id": "r-aqr",
+ "name": "R Aqr",
+ "alt_names": [
+  "R Aquarii",
+  "HD 222800",
+  "HIP 117054"
+ ],
+ "simbad": "R Aqr",
+ "ra_deg": 355.95609762634,
+ "dec_deg": -15.28449343052,
+ "dist_pc": 386.0,
+ "sptype": "M7III+WD",
+ "region": null,
+ "categories": [
+  "evolved"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "type": "disk_scattered",
+   "facility": "Subaru-SCExAO",
+   "instrument": "VAMPIRES",
+   "technique": "imaging",
+   "wavelength_um": 0.656,
+   "wavelength_label": "H-alpha 0.656 um (narrowband; jet + emission nebula)",
+   "image_id": "r-aqr_vampires2024",
+   "survey": null,
+   "file": "images/r-aqr/r-aqr_vampires2024.png",
+   "credit": "Lucas et al. 2024, Fig. 25 (crop)",
+   "paper": {
+    "arxiv": "2410.12199",
+    "bibcode": "2024PASP..136k4504L",
+    "first_author": "Lucas",
+    "year": 2024,
+    "journal": "PASP 136, 114504",
+    "title": "Visible-light High-contrast Imaging and Polarimetry with SCExAO/VAMPIRES"
+   }
+  }
+ ],
+ "notes": "R Aqr: nearest symbiotic binary (M7III Mira + accreting white dwarf, P_orb~44 yr) with a precessing jet and an extended H-alpha emission nebula. Distance 386 pc adopted from Gaia (plx 2.59 mas), consistent with the 0.13 arcsec = 50 au scale of Lucas et al. 2024. Added 2026-07-09 via Miles Lucas VAMPIRES instrument paper.",
+ "last_updated": "2026-07-09",
+ "plx_mas": 2.5931,
+ "mags": null
+}
