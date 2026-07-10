@@ -224,6 +224,7 @@ if (typeof window !== "undefined") (function () {
     document.title = "diskatlas: " + t("title");
     document.querySelectorAll("[data-i18n]").forEach(el => { el.textContent = t(el.dataset.i18n); });
     document.querySelectorAll("[data-i18n-ph]").forEach(el => { el.placeholder = t(el.dataset.i18nPh); });
+    document.querySelectorAll("[data-i18n-title]").forEach(el => { el.title = t(el.dataset.i18nTitle); });
   }
   function setLang(l) {
     lang = I18N[l] ? l : "en";
@@ -985,7 +986,10 @@ if (typeof window !== "undefined") (function () {
   if (tabsEl) for (const [v, ico, key] of VIEWS) {
     const tb = document.createElement("button");
     tb.className = "vtab" + (v === "sky" ? " on" : ""); tb.dataset.v = v;
-    tb.innerHTML = '<span class="ico">' + ico + '</span> <span data-i18n="' + key + '"></span>';
+    tb.innerHTML = '<span class="ico">' + ico + '</span> <span data-i18n="' + key + '"></span>' +
+      /* disclosure chevron on Sky: signals that clicking it folds the filter rows */
+      (v === "sky" ? ' <span class="foldchev" aria-hidden="true">▾</span>' : '');
+    if (v === "sky") tb.dataset.i18nTitle = "fold_filters";
     tb.onclick = () => setView(v); tabsEl.appendChild(tb);
   }
   /* language selector */
@@ -1029,6 +1033,13 @@ if (typeof window !== "undefined") (function () {
     if (hint) hint.style.display = show ? "" : "none";
     const reset = facetsBar && facetsBar.querySelector(".chip.reset");
     if (reset) reset.style.display = show ? "" : "none";
+    /* Sky-tab chevron: ▾ when the filters are open, ▸ when folded (hidden when
+       not on the Sky view; visibility keeps the tab width stable) */
+    const chev = tabsEl && tabsEl.querySelector('.vtab[data-v="sky"] .foldchev');
+    if (chev) {
+      chev.style.visibility = currentView === "sky" ? "visible" : "hidden";
+      chev.textContent = facetsCollapsed ? "▸" : "▾";
+    }
   }
   updateFacetVisibility();   /* apply the initial (mobile-collapsed) state at boot */
   function setView(v) {
