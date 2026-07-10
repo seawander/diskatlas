@@ -178,7 +178,10 @@ function filterSystems(systems, f, q) {
       if (![...instSet].every(instrHit)) return false;
     }
     if (bandSet) {
-      const bs = new Set((s.images || []).map(imgCol));
+      /* a record belongs to its wavelength band AND (if a companion) the planet band,
+         so a "MIR" filter matches TWA 7's MIR companion-detection record too. */
+      const bs = new Set();
+      for (const im of (s.images || [])) { bs.add(wlBand(im.wavelength_um)); if (im.type === "planet") bs.add("planet"); }
       if (![...bandSet].some(x => bs.has(x))) return false;
     }
     if (missSet) {
@@ -1060,7 +1063,14 @@ if (typeof window !== "undefined") (function () {
   function matrixRows() {
     const rows = filterSystems(SYS, filters, "").map(s => {
       const cells = {}; MCOLS.forEach(c => cells[c[0]] = { n: 0, local: 0 });
-      for (const im of (s.images || [])) { const k = imgCol(im); if (cells[k]) { cells[k].n++; if (im.file) cells[k].local++; } }
+      /* non-exclusive: every record counts in its wavelength band, and a companion
+         detection (type==="planet") ALSO counts in the planet column — a record can be
+         both (e.g. TWA 7's MIR disk-ring image that also shows an imaged companion). */
+      for (const im of (s.images || [])) {
+        const band = wlBand(im.wavelength_um);
+        if (cells[band]) { cells[band].n++; if (im.file) cells[band].local++; }
+        if (im.type === "planet" && cells.planet) { cells.planet.n++; if (im.file) cells.planet.local++; }
+      }
       return { s, cells };
     });
     const k = matrixSort.key, d = matrixSort.dir, txt = (k === "name" || k === "region" || k === "cat" || k === "ra" || k === "dec");
@@ -1116,7 +1126,9 @@ if (typeof window !== "undefined") (function () {
     matrixEl.querySelectorAll("td.cell[data-id]").forEach(td => td.onclick = () => {
       const s = SYS.find(x => x.id === td.dataset.id); if (!s) return;
       openDetail(s);
-      const idx = sortedImages(s).findIndex(im => imgCol(im) === td.dataset.col);
+      const col = td.dataset.col;
+      const idx = sortedImages(s).findIndex(im =>
+        col === "planet" ? im.type === "planet" : wlBand(im.wavelength_um) === col);
       if (idx >= 0) showImg(idx);
     });
     matrixEl.querySelectorAll("td.nm").forEach(td => td.onclick = () => {

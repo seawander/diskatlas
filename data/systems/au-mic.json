@@ -305,46 +305,6 @@
    "file": "images/au-mic/au-mic_keck2004.png"
   },
   {
-   "type": "planet",
-   "facility": "TESS+Spitzer",
-   "instrument": "photometer",
-   "wavelength_um": 0.8,
-   "wavelength_label": "Transit light curves of AU Mic b (TESS visible + Spitzer 4.5 um)",
-   "technique": "transit photometry",
-   "survey": null,
-   "credit": "Plavchan et al. 2020, Fig. 2a (crop)",
-   "paper": {
-    "first_author": "Plavchan",
-    "year": 2020,
-    "title": "A planet within the debris disk around the pre-main-sequence star AU Microscopii",
-    "journal": "Nature 582, 497",
-    "arxiv": "2006.13248",
-    "bibcode": "2020Natur.582..497P"
-   },
-   "image_id": "au-mic_tess-b",
-   "file": "images/au-mic/au-mic_tess-b.png"
-  },
-  {
-   "type": "planet",
-   "facility": "TESS",
-   "instrument": "photometer",
-   "wavelength_um": 0.8,
-   "wavelength_label": "TESS transit light curve of AU Mic c",
-   "technique": "transit photometry",
-   "survey": null,
-   "credit": "Martioli et al. 2021, Fig. 6 (crop): phase-folded TESS transits of AU Mic c",
-   "paper": {
-    "first_author": "Martioli",
-    "year": 2021,
-    "title": "New constraints on the planetary system around the young active star AU Mic: Two transiting warm Neptunes near mean-motion resonance",
-    "journal": "A&A 649, A177",
-    "arxiv": "2012.13238",
-    "bibcode": "2021A&A...649A.177M"
-   },
-   "image_id": "au-mic_tess-c",
-   "file": "images/au-mic/au-mic_tess-c.png"
-  },
-  {
    "image_id": "au-mic_alice-f160w",
    "type": "disk_scattered",
    "facility": "HST",
