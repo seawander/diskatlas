@@ -964,7 +964,10 @@ if (typeof window !== "undefined") (function () {
     for (const [k, key] of legendKeys)
       lh += '<span><i class="mk ' + k + '"></i><span data-i18n="' + key + '"></span></span>';
     lh += '<span><span class="mk-star">★</span><span data-i18n="leg_imaged"></span></span>';
-    lh += '<span class="hint" data-i18n="leg_hint"></span>';
+    /* touch devices have no wheel/hover — show the pinch/tap hint instead */
+    const touch = typeof window !== "undefined" && window.matchMedia &&
+      window.matchMedia("(hover: none), (pointer: coarse)").matches;
+    lh += '<span class="hint" data-i18n="' + (touch ? "leg_hint_touch" : "leg_hint") + '"></span>';
     legendEl.innerHTML = lh;
   }
   /* phones start with the facet rows collapsed so the sky map isn't buried under
