@@ -77,10 +77,52 @@
     "bibcode": "2024ApJ...961..245C"
    },
    "epoch": "2015-08-29"
+  },
+  {
+   "image_id": "hd-157587_dpol24-qphi",
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS (DPI)",
+   "wavelength_um": 1.62,
+   "wavelength_label": "H band 1.62 um Q_phi polarized intensity",
+   "technique": "PDI",
+   "survey": null,
+   "file": "images/hd-157587/hd-157587_dpol24-qphi.png",
+   "credit": "Olofsson et al. 2024, Fig. 1 row 2 (left panel, crop)",
+   "paper": {
+    "first_author": "Olofsson",
+    "year": 2024,
+    "title": "The near-infrared degree of polarization in debris disks",
+    "journal": "A&A 688, A42",
+    "arxiv": "2406.02682",
+    "bibcode": "2024A&A...688A..42O"
+   },
+   "epoch": "2021-2022"
+  },
+  {
+   "image_id": "hd-157587_dpol24-toti",
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS (star-hopping)",
+   "wavelength_um": 1.62,
+   "wavelength_label": "H band 1.62 um total intensity (star-hopping RDI)",
+   "technique": "RDI",
+   "survey": null,
+   "file": "images/hd-157587/hd-157587_dpol24-toti.png",
+   "credit": "Olofsson et al. 2024, Fig. 1 row 2 (center panel, crop)",
+   "paper": {
+    "first_author": "Olofsson",
+    "year": 2024,
+    "title": "The near-infrared degree of polarization in debris disks",
+    "journal": "A&A 688, A42",
+    "arxiv": "2406.02682",
+    "bibcode": "2024A&A...688A..42O"
+   },
+   "epoch": "2021-2022"
   }
  ],
  "notes": null,
- "last_updated": "2026-07-07",
+ "last_updated": "2026-07-10",
  "plx_mas": 10.0133,
  "mags": {
   "B": 8.96,

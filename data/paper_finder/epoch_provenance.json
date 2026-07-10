@@ -7162,5 +7162,59 @@
   "source": "tex:ingestion",
   "arxiv": "2303.15155",
   "snippet": "in-image labels: 'ClasImg/PCA - NEAR - 15 Dec. 2019'; paper: two nights in December 2019"
+ },
+ "hd-191089_dpol24-qphi": {
+  "epoch": "2021-2022",
+  "source": "tex:ingestion",
+  "arxiv": "2406.02682",
+  "snippet": "obs log Table: good epochs combined across 2021-07 .. 2022-08 (star-hopping program P105+P109)"
+ },
+ "hd-157587_dpol24-qphi": {
+  "epoch": "2021-2022",
+  "source": "tex:ingestion",
+  "arxiv": "2406.02682",
+  "snippet": "obs log Table: good epochs combined across 2021-07 .. 2022-08 (star-hopping program P105+P109)"
+ },
+ "hd-157587_dpol24-toti": {
+  "epoch": "2021-2022",
+  "source": "tex:ingestion",
+  "arxiv": "2406.02682",
+  "snippet": "obs log Table: good epochs combined across 2021-07 .. 2022-08 (star-hopping program P105+P109)"
+ },
+ "hd-115600_dpol24-qphi": {
+  "epoch": "2021-2022",
+  "source": "tex:ingestion",
+  "arxiv": "2406.02682",
+  "snippet": "obs log Table: good epochs combined across 2021-07 .. 2022-08 (star-hopping program P105+P109)"
+ },
+ "hd-115600_dpol24-toti": {
+  "epoch": "2021-2022",
+  "source": "tex:ingestion",
+  "arxiv": "2406.02682",
+  "snippet": "obs log Table: good epochs combined across 2021-07 .. 2022-08 (star-hopping program P105+P109)"
+ },
+ "hd-129590_dpol24-qphi": {
+  "epoch": "2021-2022",
+  "source": "tex:ingestion",
+  "arxiv": "2406.02682",
+  "snippet": "obs log Table: good epochs combined across 2021-07 .. 2022-08 (star-hopping program P105+P109)"
+ },
+ "hd-129590_dpol24-toti": {
+  "epoch": "2021-2022",
+  "source": "tex:ingestion",
+  "arxiv": "2406.02682",
+  "snippet": "obs log Table: good epochs combined across 2021-07 .. 2022-08 (star-hopping program P105+P109)"
+ },
+ "hd-32297_olofsson22-jband": {
+  "epoch": "2016-12-16",
+  "source": "eso:eso-exact",
+  "arxiv": "2206.07068",
+  "snippet": "ESO archive: SPHERE epochs 2016-12-16/19 (Bhowmik+2019 J-band DPI run)"
+ },
+ "hd-32297_alma-band8": {
+  "epoch": "2018-05-22",
+  "source": "alma:alma-code",
+  "arxiv": "2206.07068",
+  "snippet": "ALMA TAP: program 2017.1.00201.S executed 2018-05-22"
  }
 }

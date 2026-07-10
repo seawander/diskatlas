@@ -413,10 +413,54 @@
     "bibcode": "2008ApJ...686L..25M"
    },
    "file": "images/hd-32297/hd-32297_carma2008.png"
+  },
+  {
+   "image_id": "hd-32297_olofsson22-jband",
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS (DPI)",
+   "wavelength_um": 1.245,
+   "wavelength_label": "J band Q_phi polarized intensity (IRDAP re-reduction)",
+   "technique": "PDI",
+   "survey": null,
+   "file": "images/hd-32297/hd-32297_olofsson22-jband.png",
+   "credit": "Olofsson et al. 2022, Fig. 1 (SPHERE observations panel, crop)",
+   "note": "J-band DPI data first presented by Bhowmik et al. 2019; re-reduced with IRDAP here",
+   "paper": {
+    "first_author": "Olofsson",
+    "year": 2022,
+    "title": "The halo around HD 32297: micrometre-sized cometary dust",
+    "journal": "A&A 664, A122",
+    "arxiv": "2206.07068",
+    "bibcode": "2022A&A...664A.122O"
+   },
+   "epoch": "2016-12-16"
+  },
+  {
+   "image_id": "hd-32297_alma-band8",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 8",
+   "wavelength_um": 615,
+   "wavelength_label": "615 um continuum (Band 8)",
+   "technique": "interferometry",
+   "survey": null,
+   "file": "images/hd-32297/hd-32297_alma-band8.png",
+   "credit": "Olofsson et al. 2022, Fig. 1 (ALMA observations panel, crop)",
+   "note": "Band 8 data from program 2017.1.00201.S (Cataldi et al. 2020); halo-hosting ring, beam 0.63x0.54 arcsec",
+   "paper": {
+    "first_author": "Olofsson",
+    "year": 2022,
+    "title": "The halo around HD 32297: micrometre-sized cometary dust",
+    "journal": "A&A 664, A122",
+    "arxiv": "2206.07068",
+    "bibcode": "2022A&A...664A.122O"
+   },
+   "epoch": "2018-05-22"
   }
  ],
  "notes": null,
- "last_updated": "2026-07-08",
+ "last_updated": "2026-07-10",
  "plx_mas": 7.7081,
  "mags": {
   "B": 8.32,

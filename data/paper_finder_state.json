@@ -2423,5 +2423,20 @@
   "status": "excluded",
   "reason": "Vega NIRCam F444W: sources S1/S2 extended/extragalactic background, no companion, disk not detected at F444W (record removed 2026-07-10)",
   "date": "2026-07-10"
+ },
+ "1908.10378": {
+  "status": "excluded",
+  "reason": "HR 4796 A dust production (Olofsson 2019): reuses the Milli+2019 SPHERE/ZIMPOL dataset already in the atlas (hr-4796a_zimpol2019); no new observation",
+  "date": "2026-07-10"
+ },
+ "2006.08595": {
+  "status": "excluded",
+  "reason": "phase-function methodology paper (Olofsson 2020); existing HR 4796 data, no new resolved image",
+  "date": "2026-07-10"
+ },
+ "2605.03009": {
+  "status": "excluded",
+  "reason": "ARKS XI gas-dust interaction modeling (Olofsson 2026); model figures only, ARKS data figures live in other ARKS papers",
+  "date": "2026-07-10"
  }
 }
