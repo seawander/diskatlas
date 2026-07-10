@@ -17,7 +17,7 @@ SciX** citations. Pure static files — no server, no build step at runtime.
 
 ## Current state (2026-07-09, end of day)
 
-- **466 systems · 1489 image records (all with local panels) · full coords ·
+- **464 systems · 1490 image records (all with local panels) · full coords ·
   validate.py 0 errors / 0 WARNINGS · every paper block carries an ADS-verified
   bibcode** (`python3 backend/build.py` is always canonical). Paper-finder ledger:
   ~567 in-atlas / ~867 explored / ~9921 known-candidate (the "known" pool is a
@@ -49,7 +49,7 @@ and the metadata is complete. The ongoing rhythm is:
 
 ## Session state 2026-07-09 (live log — update on every hand-off)
 
-CURRENT: 466 systems / 1489 image records / 0 errors / 0 warnings.
+CURRENT: 464 systems / 1490 image records / 0 errors / 0 warnings.
 
 FINAL 07-09 ITEMS (after the burn-down below):
 - **Metadata completion** (`audit_bibcodes.py --fill`, new mode): filled ALL 691
@@ -66,6 +66,26 @@ FINAL 07-09 ITEMS (after the burn-down below):
   BUG FIX: state-ledger dedupe was a silent no-op (ledger keys are Semantic
   Scholar hashes); the sweeper now recognizes arXiv-id-keyed entries, which
   digest reviews write. Digest for the current window returns empty.
+- **LATE 07-09 — 3 data bugs (user-reported overlapping markers + mislabel):**
+  (a) GY 91 == ISO-Oph 54 and (b) GY 21 == ISO-Oph 37 were duplicate systems at
+  identical coords (SIMBAD: both pairs are one [GY92] object) — merged the
+  iso-oph-* dupes into the GY entries and deleted them; also fixed gy-91's WRONG
+  alias "ISO-Oph 63" (that is [GY92] 109). (c) UX Tau's `alma2020` crop was
+  actually the SPHERE J-band Qphi image (Menard 2020 Fig. 1) — relabeled it
+  VLT-SPHERE/IRDIS J and added the REAL ALMA record from the same paper's
+  Fig. B.1. Net: 466→464 systems, 1489→1490 records.
+- **Agent-doc + paper number sync (user asked, other agents offline):** the paper
+  `paper_Overleaf/ms.tex` was lagging at 466/1475 — updated abstract, census
+  table (tab:census), SIMBAD count (464 sys / 461 resolvable), conclusion, and
+  the dedup narrative (now names the two Oph merges); regenerated tab-coverage /
+  tab-tonight / fig-skymap / fig-census and recompiled `ms.pdf` with tectonic
+  (12 pp). All prose stats in README/HANDOFF also refreshed to 464/1490.
+  CANONICAL CENSUS (recompute with build.py + the counting snippet if editing
+  the paper): 464 systems = 262 protoplanetary + 106 debris + 19 evolved + 58
+  companion-only + 20 quasar (58 = 464 − 406 categorized; 1 system is
+  multi-category); 1490 records; 81 non-refuted companions across 68 hosts;
+  599 distinct cited papers; 38 facilities; 67 instrument families; 9921/867
+  candidates harvested/triaged.
 
 WHAT THE 07-09 CONTINUATION DID (all committed + pushed to master):
 - **Directed multi-figure adds (user-requested, high yield):** Weber+2023 SPHERE/IRDIS
@@ -368,7 +388,7 @@ instrument/epoch completeness, not just filling empty modality buckets.
   containers so tokens like "1.6 µm NICI" aren't bidi-reordered.
 - Verify frontend changes with a preview server + eval/screenshots (Node runs the JS test
   but the app needs none). **Bibcode audits**: resolve via **ADS anonymous bootstrap**
-  (`backend/system_audit.py`), not arXiv (rate-limited). All 1589 records were ADS-verified
+  (`backend/system_audit.py`), not arXiv (rate-limited). All 1490 records were ADS-verified
   on 2026-07-09 — SciX links across the atlas are trustworthy.
 
 ## User preferences
