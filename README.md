@@ -70,9 +70,10 @@ saving; keep validate.py at 0 errors; never hand-edit frontend/data.js; update
 data/ingestion_status.json (batch ledger) and data/paper_finder_state.json (per-paper
 dispositions) after any change.
 
-MY TASK: <paste arXiv links / bibcodes to ingest, or "run the paper finder" (use the
-Skill in .claude/skills/diskatlas-paper-finder/), or "run a comprehensiveness sweep",
-or a frontend request — or leave blank for a status report>
+MY TASK: <paste arXiv links / bibcodes to ingest, or "run the weekly maintenance"
+(python3 backend/fresh_papers.py digest -> VIEW figures -> ingest or exclude), or
+"audit system X" (backend/system_audit.py), or a frontend request — or leave blank
+for a status report>
 ```
 
 The long-form version of this prompt (with per-task playbooks) is in
@@ -107,8 +108,9 @@ internet instead — everything else is the same.)
 ## Current contents (2026-07-09 build) / 当前规模
 
 **466 systems (incl. quasar hosts, embedded Class 0/I protostars, Orion proplyds and
-evolved-star envelopes) · 1484 image records · all with local panels · 68 imaged-companion
-hosts · coordinates for every system (SIMBAD idents coordinate-verified) · 0 validation errors.**
+evolved-star envelopes) · 1489 image records · all with local panels · 68 imaged-companion
+hosts · coordinates for every system (SIMBAD idents coordinate-verified) · 0 validation
+errors / 0 warnings · every paper block carries an ADS-verified bibcode.**
 `python3 backend/build.py` prints the canonical live stats — trust its output over any number
 written in prose. Major 2026-07-06/07 expansions: a full instrument-level sweep over every
 system (44 parallel agents), the Tamura+2016 SEEDS Fig. 3 completion, Hom+2024 GPI total
@@ -129,8 +131,16 @@ auto-linkified "Author+Year" citations in notes, SIMBAD link per system (coordin
 fallback for objects SIMBAD lacks). Crops are panel-only (axes/margins trimmed). Everything
 offline (`file://`, no CDN).
 
-## Finding new papers (the paper-finder Skill) / 自动找文献
+## Finding new papers / 自动找文献
 
+**Ongoing (weekly):** `python3 backend/fresh_papers.py` sweeps the last 14 days of
+astro-ph.EP/SR (via the anonymous ADS API) and digests papers that mention an atlas
+target or look like a new resolved-imaging result. Review each hit by **viewing the
+figure** (metadata is not enough), then ingest it or record an `excluded` entry in
+`data/paper_finder_state.json` keyed by arXiv id. `backend/README.md` documents the full
+maintenance toolset (`audit_bibcodes.py --fix --fill`, `crop_qa.py`, `system_audit.py`).
+
+**Retrospective (saturated as of 2026-07-09; use for targeted questions only):**
 `.claude/skills/diskatlas-paper-finder/` (also packaged as `diskatlas-paper-finder.skill`)
 snowballs the literature outward from every paper already cited in the atlas — targets,
 instruments, and the citation graph in both directions (SciX/arXiv; bundled script
@@ -140,7 +150,8 @@ no overlap:**
 1. `data/systems/*.json` — ground truth: papers actually in the atlas (the finder treats
    every arXiv id cited here as done automatically).
 2. `data/paper_finder_state.json` — per-paper dispositions for papers **not** in the atlas
-   (`excluded` + reason, or `ingested` pointers). The skill's dedupe ledger.
+   (`excluded` + reason, or `ingested` pointers). The dedupe ledger for both the skill
+   (Semantic-Scholar-hash keys) and `fresh_papers.py` (arXiv-id keys — same flat dict).
 3. `data/ingestion_status.json` — human-readable per-survey/batch session log. Not a
    per-paper dedupe source.
 

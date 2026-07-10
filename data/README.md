@@ -125,8 +125,10 @@ string appears.
 - **`data/systems/*.json`** (this folder) — ground truth; a paper is "in the atlas" iff
   cited here. The paper-finder Skill auto-treats all cited arXiv ids as done.
 - **`data/paper_finder_state.json`** — per-paper dispositions for papers NOT in the atlas
-  (`excluded`+reason / `ingested` pointer). The Skill's dedupe ledger; update via
-  `.claude/skills/diskatlas-paper-finder/scripts/find_papers.py --mark`.
+  (`excluded`+reason / `ingested` pointer). One flat dict with two key styles that
+  coexist: Semantic-Scholar hashes (written by the Skill / `find_papers.py --mark`)
+  and plain arXiv ids (written when reviewing `backend/fresh_papers.py` weekly
+  digests — the sweeper dedupes on these).
 - **`data/ingestion_status.json`** — per-survey/batch human ledger + session notes:
   `entries`/`coords`/`images` each `"done"|"partial"|"todo"` + free-text `notes`.
   **Always update it when you ingest a batch** — but per-paper decisions go in the

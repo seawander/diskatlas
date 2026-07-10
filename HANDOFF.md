@@ -15,20 +15,57 @@ scattered light / thermal-IR), a **directly imaged exoplanet/companion**, or a
 peer-reviewed figure (or an official archive preview) with clickable **arXiv +
 SciX** citations. Pure static files — no server, no build step at runtime.
 
-## Current state (2026-07-09)
+## Current state (2026-07-09, end of day)
 
-- **466 systems · 1484 image records (all with local panels) · full coords · 0 validate
-  errors** (`python3 backend/build.py` is always canonical). Paper-finder ledger:
-  ~565 in-atlas / ~857 explored / ~9915 known-candidate (the "known" pool ballooned
-  after adding the backward-reference axis — see below; it is a discovery-frontier
-  count, NOT papers read).
+- **466 systems · 1489 image records (all with local panels) · full coords ·
+  validate.py 0 errors / 0 WARNINGS · every paper block carries an ADS-verified
+  bibcode** (`python3 backend/build.py` is always canonical). Paper-finder ledger:
+  ~567 in-atlas / ~867 explored / ~9921 known-candidate (the "known" pool is a
+  discovery-frontier count, NOT papers read).
 - Published live at **github.com/seawander/diskatlas** + GitHub Pages. Publish flow is
   **direct push to `master`** (no PRs; `gh` is not installed). Multiple checkouts/sessions
   commit to `master` concurrently — always `git fetch` before assuming ahead/behind.
 
+## THE PROJECT IS IN MAINTENANCE MODE — how to continue
+
+Retrospective discovery is DONE: the citation snowball is saturated, the per-target
+ADS audit worklist is fully burned down (every flag ingested or closed with a reason),
+and the metadata is complete. The ongoing rhythm is:
+
+1. **Weekly**: `python3 backend/fresh_papers.py` (last 14 days of astro-ph.EP/SR via
+   anonymous ADS). Review the digest: for each hit, download the PDF, **VIEW the
+   figure** (metadata lies — both hits of the first digest dissolved on inspection),
+   then either ingest (crop → record → validate → build → commit) or add an
+   arXiv-id-keyed `excluded` entry to `data/paper_finder_state.json` so the digest
+   stays clean. The first digest (2026-07-09, 8 hits) is fully dispositioned.
+2. **After any big ingestion batch**: `python3 backend/audit_bibcodes.py --fix --fill`
+   (new records habitually land with `bibcode:null`), then `crop_qa.py` and eyeball
+   any MULTIPANEL flags. Keep validate at 0 errors / 0 warnings.
+3. **User-directed requests** ("add paper X, crop figure Y") remain the highest-yield
+   channel — drop everything for those.
+4. On-demand: `system_audit.py --systems <ids>` when a specific target's completeness
+   is questioned (great for HD/HR/IRAS names; short names like "T Tau" collide — see
+   the 07-09 log).
+
 ## Session state 2026-07-09 (live log — update on every hand-off)
 
-CURRENT: 466 systems / 1484 image records / 0 errors.
+CURRENT: 466 systems / 1489 image records / 0 errors / 0 warnings.
+
+FINAL 07-09 ITEMS (after the burn-down below):
+- **Metadata completion** (`audit_bibcodes.py --fill`, new mode): filled ALL 691
+  `bibcode:null` blocks from arXiv→ADS resolution + derived 149 journal strings;
+  Perrin GO-11155 poster → `2009AAS...21340903P`. First-ever 0-errors/0-WARNINGS
+  validate. `export_bibtex.py` full pass: 598 entries, no author mismatches.
+- **crop_qa full sweep**: session's 46 new crops all clean; 3 genuine MULTIPANEL
+  fixes — β Pic d 6-panel gallery (Sutlieff & Bonse 2026) → 5 per-instrument
+  records; Todorov 2010 WFPC2+NIRI 2×2 → 2 records; HR 8799 NICMOS 1998 two-roll
+  crop → panel (c) alone.
+- **`fresh_papers.py` first digest triaged** (8/8 reviewed, all excluded — CD-35
+  2722 "exosatellite" = RV periodograms; CI Tau "hidden rings" = UNRESOLVED, the
+  B3/B7 "maps" are polar R-φ plots not sky images; rest theory/transits/spectra).
+  BUG FIX: state-ledger dedupe was a silent no-op (ledger keys are Semantic
+  Scholar hashes); the sweeper now recognizes arXiv-id-keyed entries, which
+  digest reviews write. Digest for the current window returns empty.
 
 WHAT THE 07-09 CONTINUATION DID (all committed + pushed to master):
 - **Directed multi-figure adds (user-requested, high yield):** Weber+2023 SPHERE/IRDIS

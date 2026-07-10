@@ -9,10 +9,13 @@ tweak — or leave it blank to just get a status report).
 ```
 Open /home/brinen2spark/Developments/diskatlas. This is a mature, working offline
 double-click-index.html all-sky atlas of resolved circumstellar disks (protoplanetary,
-debris, edge-on, embedded Class 0/I, eruptive, Orion proplyds, far-IR-resolved),
-directly imaged planets/BD companions, and coronagraphic quasar hosts (400+ systems,
-1160+ image records, 0 validation errors — `python3 backend/build.py` prints the live
-numbers), built over several prior sessions.
+debris, edge-on, embedded Class 0/I, eruptive, Orion proplyds, far-IR-resolved,
+evolved-star envelopes), directly imaged planets/BD companions, and coronagraphic
+quasar hosts (460+ systems, 1480+ image records, 0 validation errors/warnings —
+`python3 backend/build.py` prints the live numbers), built over several prior
+sessions. The project is in MAINTENANCE MODE (see HANDOFF.md): retrospective
+discovery is saturated; the ongoing rhythm is the weekly fresh_papers digest +
+user-directed adds.
 
 FIRST, orient yourself:
 1. Read HANDOFF.md completely (architecture, the live-network environment, the
@@ -38,12 +41,15 @@ THEN handle MY TASK below:
   designations when SIMBAD misses), redshift (not distance) for quasars,
   planets[].method = imaging|transit|interferometry, extra_papers for independent
   discoveries.
-- "find new papers" / "run the paper finder" -> use the diskatlas-paper-finder Skill
-  (.claude/skills/diskatlas-paper-finder/): seeds = every paper cited in the atlas;
-  bulk-harvest citations with scripts/find_papers.py; triage; ingest; print a per-paper
-  report block in chat for every disposition; mark data/paper_finder_state.json.
-  ~340 hub-ranked candidates were still queued in data/paper_finder/triage-queue.json
-  at the end of 2026-07-07.
+- "weekly maintenance" / "find new papers" -> run `python3 backend/fresh_papers.py`
+  (last-14-days astro-ph.EP/SR digest via anonymous ADS). For each hit: download the
+  PDF, VIEW the figure (metadata lies — most hits dissolve on inspection), then either
+  ingest it or add an arXiv-id-keyed `excluded` entry (with reason) to
+  data/paper_finder_state.json. Afterwards `audit_bibcodes.py --fix --fill` and keep
+  validate at 0 errors / 0 warnings. The retrospective snowball Skill
+  (.claude/skills/diskatlas-paper-finder/) is SATURATED — use only for targeted
+  questions; `backend/system_audit.py --systems <ids>` for per-target completeness
+  (VIEW-verify every flag; short names like "T Tau" collide via ADS stemming).
 - "comprehensiveness sweep" -> instrument-level sweep (inventory each system's
   facility/instrument set, fan out agents for instruments not yet represented, verify,
   ingest) + coverage_audit.py gaps + a recent astro-ph.EP/SR scan + external-catalog

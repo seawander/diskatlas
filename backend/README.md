@@ -13,9 +13,24 @@ No server. The "backend" is a build pipeline: seeds → systems JSON → cropped
 | `merge_staging.py` | Folds `data/staging/*.json` image records into `data/systems/*.json`. |
 | `validate.py` | Schema check, id/file consistency, duplicate detection, link fields, image sizes. |
 | `build.py` | Validates then emits `frontend/data.js` + prints coverage stats. Enriches every image record with `fac_keys` (AAS facility keywords) + `instr_key` (instrument family) via `facility_map.py`. |
-| `facility_map.py` | Free-text facility/instrument → canonical facet keys (AAS keyword table + heuristics). Extend `FAC_TABLE`/`INSTR_RULES` when new strings appear. |
+| `facility_map.py` | Free-text facility/instrument → canonical facet keys (AAS keyword table + heuristics). Extend `FAC_TABLE`/`INSTR_RULES` when new strings appear. Platform sub-instruments use `PARENT/SUB` keys (`SPHERE/IRDIS`, `SCExAO/CHARIS`, `SCExAO/VAMPIRES`); the frontend instrument facet does parent⊇children by prefix. |
 
 Typical full run: `make_systems.py` → `crop_panels.py …` → `merge_staging.py` → `build.py`.
+
+## Maintenance & discovery tools (ADS via anonymous bootstrap token — no key needed)
+
+| Script | Purpose |
+|---|---|
+| `fresh_papers.py` | **Run weekly.** Forward-looking sweep: last N days of astro-ph.EP/SR (anonymous ADS `arxiv_class:`+`entdate:`; the arXiv export API 429s this host). Flags atlas-target name mentions + candidate new imaging papers; dedupes against `data/systems/` arXiv ids AND arXiv-id-keyed entries in `data/paper_finder_state.json`. Review every hit by VIEWING the figure, then ingest or write an `excluded` state entry. |
+| `audit_bibcodes.py` | `--fix` corrects hallucinated/wrong bibcodes against ADS; `--fill` populates `bibcode:null` from the record's arXiv id + derives missing `journal` strings. **Run `--fix --fill` after every big ingestion batch.** |
+| `system_audit.py` | Target-side completeness audit: ADS `abs:"<name>"` per system, imaging+facility+disk-context gate, ranked by citations × instrument-novelty (NEW-INSTR list = systems missing a whole facility). Reliable for HD/HR/IRAS names; short names ("T Tau", "Vega") collide via ADS stemming — VIEW-verify every flag. Cache under `data/paper_finder/system_audit_cache/` (gitignored). Worklist fully burned down 2026-07-09. |
+| `crop_qa.py` | Offline crop screening: edge uniformity, colorbar bleed, gutters, MULTIPANEL divider detection, optional `--ocr` axis-text. MULTIPANEL flags are the actionable class; GUTTER_EDGE is mostly benign (edge-on disks have dark-sky edges). |
+| `dup_check.py` | md5 exact-duplicate crops (reliable). `--near` GPU pHash exists but is noisy on faint astro crops. |
+| `export_bibtex.py` | Atlas → BibTeX via ADS; also catches first-author mislabels (record credits a co-author while arxiv/bibcode are right). |
+
+The retrospective snowball (`.claude/skills/diskatlas-paper-finder/scripts/find_papers.py`,
+forward citations + backward references) is SATURATED as of 2026-07-09 — use it for
+targeted questions, not background crawling. `fresh_papers.py` is the ongoing channel.
 
 ## Network reality (IMPORTANT for agents)
 
