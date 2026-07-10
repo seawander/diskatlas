@@ -96,24 +96,104 @@
    }
   },
   {
-   "image_id": "iras-04302-2247_jwst2024",
    "type": "disk_scattered",
    "facility": "JWST",
-   "instrument": "NIRCam+MIRI",
+   "instrument": "NIRCam",
+   "technique": "imaging",
    "wavelength_um": 2.0,
-   "wavelength_label": "2.0, 4.44, 7.7, 12.8, 21.0 micron imaging gallery",
-   "technique": "other",
+   "wavelength_label": "F200W 2.0 um (edge-on disk + envelope, log stretch)",
+   "image_id": "iras-04302-2247_jwst2024-f200w",
    "survey": null,
+   "file": "images/iras-04302-2247/iras-04302-2247_jwst2024-f200w.png",
    "credit": "Villenave et al. 2024, Fig. 1 (crop)",
    "paper": {
+    "arxiv": "2311.07668",
+    "bibcode": "2024ApJ...961...95V",
     "first_author": "Villenave",
     "year": 2024,
-    "title": "JWST imaging of edge-on protoplanetary disks II. Appearance of edge-on disks with a tilted inner region: case study of IRAS04302+2247",
-    "journal": "ApJ, 961, 95",
+    "journal": "ApJ 961, 95",
+    "title": "JWST Imaging of Edge-on Protoplanetary Disks. II. Appearance of Edge-on Disks with a Tilted Inner Region: Case Study of IRAS04302+2247"
+   }
+  },
+  {
+   "type": "disk_scattered",
+   "facility": "JWST",
+   "instrument": "NIRCam",
+   "technique": "imaging",
+   "wavelength_um": 4.44,
+   "wavelength_label": "F444W 4.44 um (edge-on disk + envelope, log stretch)",
+   "image_id": "iras-04302-2247_jwst2024-f444w",
+   "survey": null,
+   "file": "images/iras-04302-2247/iras-04302-2247_jwst2024-f444w.png",
+   "credit": "Villenave et al. 2024, Fig. 1 (crop)",
+   "paper": {
     "arxiv": "2311.07668",
-    "bibcode": null
-   },
-   "file": "images/iras-04302-2247/iras-04302-2247_jwst2024.png"
+    "bibcode": "2024ApJ...961...95V",
+    "first_author": "Villenave",
+    "year": 2024,
+    "journal": "ApJ 961, 95",
+    "title": "JWST Imaging of Edge-on Protoplanetary Disks. II. Appearance of Edge-on Disks with a Tilted Inner Region: Case Study of IRAS04302+2247"
+   }
+  },
+  {
+   "type": "disk_scattered",
+   "facility": "JWST",
+   "instrument": "MIRI",
+   "technique": "imaging",
+   "wavelength_um": 7.7,
+   "wavelength_label": "F770W 7.7 um (edge-on disk + envelope, log stretch)",
+   "image_id": "iras-04302-2247_jwst2024-f770w",
+   "survey": null,
+   "file": "images/iras-04302-2247/iras-04302-2247_jwst2024-f770w.png",
+   "credit": "Villenave et al. 2024, Fig. 1 (crop)",
+   "paper": {
+    "arxiv": "2311.07668",
+    "bibcode": "2024ApJ...961...95V",
+    "first_author": "Villenave",
+    "year": 2024,
+    "journal": "ApJ 961, 95",
+    "title": "JWST Imaging of Edge-on Protoplanetary Disks. II. Appearance of Edge-on Disks with a Tilted Inner Region: Case Study of IRAS04302+2247"
+   }
+  },
+  {
+   "type": "disk_scattered",
+   "facility": "JWST",
+   "instrument": "MIRI",
+   "technique": "imaging",
+   "wavelength_um": 12.8,
+   "wavelength_label": "F1280W 12.8 um (edge-on disk + envelope, log stretch)",
+   "image_id": "iras-04302-2247_jwst2024-f1280w",
+   "survey": null,
+   "file": "images/iras-04302-2247/iras-04302-2247_jwst2024-f1280w.png",
+   "credit": "Villenave et al. 2024, Fig. 1 (crop)",
+   "paper": {
+    "arxiv": "2311.07668",
+    "bibcode": "2024ApJ...961...95V",
+    "first_author": "Villenave",
+    "year": 2024,
+    "journal": "ApJ 961, 95",
+    "title": "JWST Imaging of Edge-on Protoplanetary Disks. II. Appearance of Edge-on Disks with a Tilted Inner Region: Case Study of IRAS04302+2247"
+   }
+  },
+  {
+   "type": "disk_scattered",
+   "facility": "JWST",
+   "instrument": "MIRI",
+   "technique": "imaging",
+   "wavelength_um": 21.0,
+   "wavelength_label": "F2100W 21.0 um (edge-on disk + envelope, log stretch)",
+   "image_id": "iras-04302-2247_jwst2024-f2100w",
+   "survey": null,
+   "file": "images/iras-04302-2247/iras-04302-2247_jwst2024-f2100w.png",
+   "credit": "Villenave et al. 2024, Fig. 1 (crop)",
+   "paper": {
+    "arxiv": "2311.07668",
+    "bibcode": "2024ApJ...961...95V",
+    "first_author": "Villenave",
+    "year": 2024,
+    "journal": "ApJ 961, 95",
+    "title": "JWST Imaging of Edge-on Protoplanetary Disks. II. Appearance of Edge-on Disks with a Tilted Inner Region: Case Study of IRAS04302+2247"
+   }
   },
   {
    "type": "disk_scattered",
