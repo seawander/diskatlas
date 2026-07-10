@@ -7120,5 +7120,23 @@
   "source": "tex:ingestion",
   "arxiv": "2007.04980",
   "snippet": "in-panel label: (b) 2019 November 18"
+ },
+ "hd-129590_olofsson23-disnmf": {
+  "epoch": "2022-05-14",
+  "source": "eso:eso-exact",
+  "arxiv": "2304.06074",
+  "snippet": "single star-hopping DPI dataset (ESO 109.237K, P109); date from the ESO archive cluster shared with the sibling HD 129590 SPHERE records"
+ },
+ "hd-129590_olofsson23-pca": {
+  "epoch": "2022-05-14",
+  "source": "eso:eso-exact",
+  "arxiv": "2304.06074",
+  "snippet": "single star-hopping DPI dataset (ESO 109.237K, P109); date from the ESO archive cluster shared with the sibling HD 129590 SPHERE records"
+ },
+ "hd-129590_olofsson23-qphi": {
+  "epoch": "2022-05-14",
+  "source": "eso:eso-exact",
+  "arxiv": "2304.06074",
+  "snippet": "single star-hopping DPI dataset (ESO 109.237K, P109); date from the ESO archive cluster shared with the sibling HD 129590 SPHERE records"
  }
 }
