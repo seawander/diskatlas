@@ -21,9 +21,12 @@ machine-generated), `frontend/data.js` (generated, ~MB), `data/simbad_raw.txt`,
 `data/coverage_todo.md`, `data/staging/_report_*.md` (archives),
 `docs/HISTORY.md` in full (grep it). Prefer running local scripts
 (`validate.py`, `build.py`, `epoch_audit.py`, `crop_qa.py`) over reading data
-files — compute locally, spend tokens on judgement. Probe your environment
-(`curl -sI https://arxiv.org`) rather than assuming network access; offline
-fallback is in HANDOFF.md §Environment.
+files — compute locally, spend tokens on judgement.
+
+**Environment**: reference platform is the maintainer's NVIDIA DGX Spark, but
+any platform with Python 3 works. **Live internet from the shell is REQUIRED**
+(arXiv, SIMBAD, ADS, observatory archives — the agents' parsing work depends
+on it). Verify first: `curl -sI https://arxiv.org`.
 
 ## Ironclad rules
 

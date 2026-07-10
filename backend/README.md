@@ -34,8 +34,10 @@ targeted questions, not background crawling. `fresh_papers.py` is the ongoing ch
 
 ## Network reality (IMPORTANT for agents)
 
-Environments differ per contributor — probe with `curl -sI https://arxiv.org`.
-When bash has live internet (arxiv.org, SIMBAD, aanda.org reachable):
+**Live internet from the shell is REQUIRED** (arxiv.org, SIMBAD, ADS, observatory
+archives — the parsing work depends on it; verify: `curl -sI https://arxiv.org`).
+Reference platform is the maintainer's NVIDIA DGX Spark; any platform with
+Python 3 + connectivity works. Then:
 
 ```bash
 cd backend && bash fetch_sources.sh      # → images/_sources/arxiv/<id>.tar + SIMBAD results

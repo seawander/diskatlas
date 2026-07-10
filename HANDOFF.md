@@ -77,11 +77,16 @@ per-survey `notes`).
 
 ## Environment
 
-- Environments differ per contributor — **probe, don't assume**. Test network
-  with `curl -sI https://arxiv.org`; if bash has live internet (arxiv.org,
-  SIMBAD, ADS reachable), run the whole pipeline locally and prefer local
-  compute over token spend. If sandboxed/offline, run `fetch_sources.sh` on a
-  networked host and copy `images/_sources/` in — everything else is the same.
+- **Reference platform**: the maintainer runs this on an NVIDIA DGX Spark
+  (128 GB RAM, GB10 GPU) — but nothing is platform-specific; any Linux/macOS
+  box with Python 3 works. Prefer local compute over token spend everywhere.
+- **Live internet from the shell is REQUIRED** — arxiv.org, SIMBAD, ADS, and
+  the observatory archives (MAST/ESO/ALMA TAP) are what the agents parse;
+  without connectivity the source-verification and epoch/coordinate work
+  cannot be done. Verify before starting: `curl -sI https://arxiv.org`.
+  (At most, `fetch_sources.sh` can be run on a different networked host and
+  `images/_sources/` copied over — but archive/ADS/SIMBAD queries still need
+  the working session online, so treat internet as a hard prerequisite.)
 - Typical tooling (check availability before relying on it): `pdftoppm`,
   `pdfinfo`, ImageMagick, ghostscript, Python+Pillow, astroquery. The frontend
   needs no Node — verify via `python3 -m http.server`.

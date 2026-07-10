@@ -93,8 +93,10 @@ python3 build.py          # data/systems/*.json → frontend/data.js (+ checks)
 
 ## Fetch sources + rebuild / 抓取源并重建
 
-If your environment has live internet from the shell (test: `curl -sI https://arxiv.org`),
-run the whole fetch yourself:
+**Live internet from the shell is required** for contribution work — arXiv, SIMBAD, ADS
+and the observatory archives are what the agents parse (test: `curl -sI https://arxiv.org`).
+The maintainer's reference platform is an NVIDIA DGX Spark, but any platform with Python 3
+and connectivity works. Then run the whole fetch yourself:
 
 ```bash
 cd backend
@@ -103,8 +105,9 @@ python3 parse_simbad.py && python3 extract_sources.py \
   && python3 make_systems.py && python3 validate.py && python3 build.py
 ```
 
-(If ever run in a network-isolated sandbox, run `fetch_sources.sh` on a host with
-internet instead — everything else is the same.)
+(A network-isolated sandbox can at most receive `images/_sources/` fetched on another
+host — but SIMBAD/ADS/archive queries still need the working session online, so treat
+internet as a hard prerequisite for contributing.)
 
 ## Current contents (2026-07-10 build) / 当前规模
 
