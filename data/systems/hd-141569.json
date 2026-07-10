@@ -257,6 +257,27 @@
     "bibcode": "2015MNRAS.450.4446B"
    },
    "file": "images/hd-141569/hd-141569_nici2015.png"
+  },
+  {
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 3",
+   "technique": "interferometry",
+   "wavelength_um": 2900,
+   "wavelength_label": "2.9 mm continuum (100 GHz; central emission)",
+   "epoch": "2016",
+   "image_id": "hd-141569_alma-white2018",
+   "survey": null,
+   "file": "images/hd-141569/hd-141569_alma-white2018.png",
+   "credit": "White et al. 2018, Fig. 2 (crop)",
+   "paper": {
+    "arxiv": "1711.07489",
+    "bibcode": "2018MNRAS.474.4500W",
+    "first_author": "White",
+    "year": 2018,
+    "journal": "MNRAS 474, 4500",
+    "title": "ALMA and VLA observations of the HD 141569 system"
+   }
   }
  ],
  "notes": "Hybrid disk (gas-rich debris / late transition).",
