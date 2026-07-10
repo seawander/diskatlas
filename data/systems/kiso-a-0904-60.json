@@ -11,14 +11,37 @@
  "sptype": null,
  "region": null,
  "categories": [],
- "planets": [],
+ "planets": [
+  {
+   "name": "B",
+   "status": "confirmed",
+   "method": "imaging",
+   "note": "K6, ~0.8 Msun at 1.96\"; likely equal-mass binary; separation agrees with earlier astrometry",
+   "paper": {
+    "first_author": "Tokovinin",
+    "year": 2020,
+    "arxiv": null,
+    "bibcode": "2020AJ....160..268T",
+    "journal": "AJ 160, 268"
+   },
+   "extra_papers": [
+    {
+     "label": "SPHERE H-band detection",
+     "first_author": "Valegard",
+     "year": 2024,
+     "arxiv": "2403.02156",
+     "bibcode": "2024A&A...685A..54V"
+    }
+   ]
+  }
+ ],
  "images": [
   {
-   "type": "disk_scattered",
+   "type": "planet",
    "facility": "VLT-SPHERE",
    "instrument": "IRDIS",
    "wavelength_um": 1.65,
-   "wavelength_label": "H band 1.6 um (total intensity)",
+   "wavelength_label": "H band 1.6 um (total intensity; companion detection)",
    "technique": "total intensity",
    "image_id": "kiso-a-0904-60_destinys-orion",
    "file": "images/kiso-a-0904-60/kiso-a-0904-60_destinys-orion.png",
@@ -36,5 +59,5 @@
   }
  ],
  "notes": "AUTO-CREATED from staging - fill metadata & coords",
- "last_updated": "2026-07-06"
+ "last_updated": "2026-07-10"
 }

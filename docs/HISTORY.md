@@ -6,6 +6,33 @@ question actually points here. Newest first.
 
 ---
 
+## 2026-07-10 (later) — census adjudication of category-less systems
+
+Ten systems with empty categories+planets but disk-typed records were adjudicated
+against their source papers (Valegard 2024 A&A 685 A54 for DESTINYS-Orion; Garufi
+2024 A&A 685 A53 for Taurus; Osorio 2016; Akeson 2019; + audit-2 extras):
+(b) companion-only, records retyped disk_scattered->planet, companions added:
+brun-252 B (new M0 0.22"), kiso-a-0904-60 B (known equal-mass 1.96", Tokovinin
+2020), ry-ori B (possible substellar 0.076 Msun 0.39"), tx-ori B (new M5 0.11"),
+v1787-ori B (Arun 2020, 6.6") + C (new M3 0.22"), v1788-ori B+C (known triple,
+Tokovinin 2007), v2149-ori B (known F8 binary, Koehler 2006), v807-tau Bab
+(0.17", Garufi 2024; its ALMA record removed: Akeson components unresolved/
+Gaussian, Bab undetected at 1.3mm).
+(a) resolved disk: xz-tau -> protoplanetary (Osorio 2016 dwarf transitional disk
+around XZ Tau B, r~3.4 au); af-lep -> debris (ALICE F160W record).
+(c) removed: v1025-tau (whole system; Garufi 2024: "No QU pattern ... treated as
+a non-detection", Class III), vega_nircam2024 (F444W sources S1/S2 extended,
+extragalactic background; disk undetected at F444W). Exclusions logged in
+paper_finder_state (1901.05029, 2410.16551).
+Audit-2 extras reconciled (planet-typed records, empty planets): 2MASS
+J16120668 b (Halpha candidate, Li 2025), DM Tau b (NRM candidate, Willson 2016),
+HD 100453 B (Chen 2006 + Follette 2023), HD 142527 B (Biller 2012 ApJL 753 L38),
+HD 163296 b (F410M candidate, Uyama 2025), MWC 297 B (Ubeira-Gabellini 2020),
+WW Cha B (GRAVITY 2021, interferometry).
+NEW build-time audits (validate.py errors + build.py hard-fail, negative-tested):
+disk-typed records with empty categories; planet-typed records with empty
+planets. Final: 467 systems / 1497 records / 83 planet hosts / 0 errors.
+
 ## Session state 2026-07-10 (live log — update on every hand-off)
 
 CURRENT: 468 systems / 1500 image records / 0 errors / 0 warnings /

@@ -8,6 +8,7 @@ in search but cannot plot them).
 """
 import datetime
 import json
+import sys
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -18,14 +19,30 @@ OUT = ROOT / "frontend" / "data.js"
 def main():
     from facility_map import fac_keys, instr_key
     systems = []
+    audit_fail = []
     for f in sorted(SYS.glob("*.json")):
         s = json.loads(f.read_text())
+        # build-time census audits: FAIL rather than emit a payload whose stats
+        # misclassify systems (e.g. a disk-only system counted as a
+        # companion-only host, or an imaged companion missing from planets[])
+        img_types = {im.get("type") for im in s.get("images", [])}
+        if any(str(t).startswith("disk_") for t in img_types) and not s.get("categories"):
+            audit_fail.append(f"{s.get('id', f.name)}: disk-typed image record(s) but empty categories")
+        if "planet" in img_types and not s.get("planets"):
+            audit_fail.append(f"{s.get('id', f.name)}: planet-typed image record(s) but empty planets list")
         for im in s.get("images", []):
             p = im.get("paper") or {}
             p.pop("_verify", None)
             im["fac_keys"] = fac_keys(im.get("facility"), im.get("instrument"))
             im["instr_key"] = instr_key(im.get("facility"), im.get("instrument"))
         systems.append(s)
+
+    if audit_fail:
+        for a in audit_fail:
+            print("AUDIT FAIL", a, file=sys.stderr)
+        print(f"build aborted: {len(audit_fail)} census-consistency failure(s); "
+              f"frontend/data.js NOT written", file=sys.stderr)
+        sys.exit(1)
 
     n_coord = sum(1 for s in systems if s.get("ra_deg") is not None)
     n_img = sum(len(s.get("images", [])) for s in systems)

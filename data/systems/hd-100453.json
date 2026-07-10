@@ -13,7 +13,30 @@
  "categories": [
   "protoplanetary"
  ],
- "planets": [],
+ "planets": [
+  {
+   "name": "B",
+   "status": "confirmed",
+   "method": "imaging",
+   "note": "M-dwarf companion at ~1.05\"; discovered by Chen et al. 2006 (NACO Ks), accretion (H-alpha) confirmed by Follette et al. 2023 (GAPlanetS)",
+   "paper": {
+    "first_author": "Chen",
+    "year": 2006,
+    "arxiv": null,
+    "bibcode": "2006A&A...445..331C",
+    "journal": "A&A 445, 331"
+   },
+   "extra_papers": [
+    {
+     "label": "H-alpha accretion detection",
+     "first_author": "Follette",
+     "year": 2023,
+     "arxiv": "2211.02109",
+     "bibcode": "2023AJ....165..225F"
+    }
+   ]
+  }
+ ],
  "images": [
   {
    "type": "disk_scattered",
@@ -333,7 +356,7 @@
   }
  ],
  "notes": null,
- "last_updated": "2026-07-07",
+ "last_updated": "2026-07-10",
  "plx_mas": 9.6355,
  "mags": {
   "B": 8.09,

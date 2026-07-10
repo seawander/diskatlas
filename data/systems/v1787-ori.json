@@ -9,14 +9,50 @@
  "sptype": "A5e",
  "region": null,
  "categories": [],
- "planets": [],
+ "planets": [
+  {
+   "name": "B",
+   "status": "candidate",
+   "method": "imaging",
+   "note": "6.6\" companion (Arun et al. 2020); re-detected at the SPHERE frame edge by Valegard et al. 2024",
+   "paper": {
+    "first_author": "Arun",
+    "year": 2020,
+    "arxiv": "2011.10222",
+    "bibcode": "2021MNRAS.501.1243A",
+    "journal": "MNRAS 501, 1243"
+   },
+   "extra_papers": [
+    {
+     "label": "frame-edge re-detection",
+     "first_author": "Valegard",
+     "year": 2024,
+     "arxiv": "2403.02156",
+     "bibcode": "2024A&A...685A..54V"
+    }
+   ]
+  },
+  {
+   "name": "C",
+   "status": "candidate",
+   "method": "imaging",
+   "note": "new close companion (unnamed in the paper; 'C' is atlas bookkeeping): M3, ~0.2 Msun, 0.22\" (87 au), dH=5.2 mag (Valegard et al. 2024)",
+   "paper": {
+    "first_author": "Valegard",
+    "year": 2024,
+    "arxiv": "2403.02156",
+    "bibcode": "2024A&A...685A..54V",
+    "journal": "A&A 685, A54"
+   }
+  }
+ ],
  "images": [
   {
-   "type": "disk_scattered",
+   "type": "planet",
    "facility": "VLT-SPHERE",
    "instrument": "IRDIS",
    "wavelength_um": 1.65,
-   "wavelength_label": "H band 1.6 um (total intensity)",
+   "wavelength_label": "H band 1.6 um (total intensity; companion detection)",
    "technique": "total intensity",
    "image_id": "v1787-ori_destinys-orion",
    "file": "images/v1787-ori/v1787-ori_destinys-orion.png",
@@ -54,7 +90,7 @@
   }
  ],
  "notes": "AUTO-CREATED from staging - fill metadata & coords",
- "last_updated": "2026-07-07",
+ "last_updated": "2026-07-10",
  "plx_mas": 2.5092,
  "mags": {
   "B": 15.361,

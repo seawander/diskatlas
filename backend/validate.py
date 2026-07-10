@@ -45,6 +45,16 @@ def main():
         for p in s.get("planets", []):
             if p.get("status", "confirmed") not in PSTAT:
                 errors.append(f"{sid}: bad planet status '{p.get('status')}'")
+        # census-consistency audits (these also FAIL build.py):
+        # a disk-typed record demands a category; a planet-typed record demands
+        # a planets[] entry — otherwise the census misclassifies the system
+        img_types = {im.get("type") for im in s.get("images", [])}
+        if any(str(t).startswith("disk_") for t in img_types) and not s.get("categories"):
+            errors.append(f"{sid}: disk-typed image record(s) but empty categories "
+                          f"(adjudicate: resolved disk -> set category; companion-only -> retype record)")
+        if "planet" in img_types and not s.get("planets"):
+            errors.append(f"{sid}: planet-typed image record(s) but empty planets list "
+                          f"(add the companion with name/status/discovery reference)")
         seen_img = set()
         for im in s.get("images", []):
             n_img += 1

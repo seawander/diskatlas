@@ -11,14 +11,59 @@
  "sptype": "hA3VakA0mA0(eb)_lB",
  "region": null,
  "categories": [],
- "planets": [],
+ "planets": [
+  {
+   "name": "B",
+   "status": "confirmed",
+   "method": "imaging",
+   "note": "secondary of the known triple: K6, ~0.9 Msun, 0.43\" (Valegard et al. 2024 re-detection)",
+   "paper": {
+    "first_author": "Tokovinin",
+    "year": 2007,
+    "arxiv": null,
+    "bibcode": "2007IAUS..240..250T",
+    "journal": "IAU Symp. 240, 250"
+   },
+   "extra_papers": [
+    {
+     "label": "SPHERE re-detection",
+     "first_author": "Valegard",
+     "year": 2024,
+     "arxiv": "2403.02156",
+     "bibcode": "2024A&A...685A..54V"
+    }
+   ]
+  },
+  {
+   "name": "C",
+   "status": "confirmed",
+   "method": "imaging",
+   "note": "tertiary of the known triple: K7, ~0.7 Msun, 0.56\" (Valegard et al. 2024 re-detection)",
+   "paper": {
+    "first_author": "Tokovinin",
+    "year": 2007,
+    "arxiv": null,
+    "bibcode": "2007IAUS..240..250T",
+    "journal": "IAU Symp. 240, 250"
+   },
+   "extra_papers": [
+    {
+     "label": "SPHERE re-detection",
+     "first_author": "Valegard",
+     "year": 2024,
+     "arxiv": "2403.02156",
+     "bibcode": "2024A&A...685A..54V"
+    }
+   ]
+  }
+ ],
  "images": [
   {
-   "type": "disk_scattered",
+   "type": "planet",
    "facility": "VLT-SPHERE",
    "instrument": "IRDIS",
    "wavelength_um": 1.65,
-   "wavelength_label": "H band 1.6 um (total intensity)",
+   "wavelength_label": "H band 1.6 um (total intensity; companion detection)",
    "technique": "total intensity",
    "image_id": "v1788-ori_destinys-orion",
    "file": "images/v1788-ori/v1788-ori_destinys-orion.png",
@@ -36,7 +81,7 @@
   }
  ],
  "notes": "AUTO-CREATED from staging - fill metadata & coords",
- "last_updated": "2026-07-06",
+ "last_updated": "2026-07-10",
  "plx_mas": 2.8536,
  "mags": {
   "U": 10.03,

@@ -22,7 +22,21 @@
  "categories": [
   "protoplanetary"
  ],
- "planets": [],
+ "planets": [
+  {
+   "name": "b",
+   "status": "candidate",
+   "method": "imaging",
+   "note": "H-alpha protoplanet CANDIDATE at ~0.14\" (SNR 5.3 / 3.4 on two nights); needs confirmation (Li et al. 2025)",
+   "paper": {
+    "first_author": "Li",
+    "year": 2025,
+    "arxiv": "2508.11155",
+    "bibcode": "2025ApJ...990L..70L",
+    "journal": "ApJL 990, L70"
+   }
+  }
+ ],
  "images": [
   {
    "image_id": "2mass-j16120668-3010270_agepro",
@@ -80,7 +94,7 @@
     "first_author": "Li",
     "year": 2025,
     "title": "Discovery of H-alpha Emission from a Protoplanet Candidate Around the Young Star 2MASS J16120668-3010270 with MagAO-X",
-    "journal": "AJ (submitted)",
+    "journal": "ApJL 990, L70",
     "arxiv": "2508.11155",
     "bibcode": "2025ApJ...990L..70L"
    },
@@ -90,5 +104,5 @@
   }
  ],
  "notes": "AGE-PRO Upper Scorpius 1. Transition disk with large inner dust cavity and ring at 78 au; ALMA residuals show a spiral arm and a tentative protoplanet candidate inside the cavity (Sierra et al. 2024; Vioque et al. 2025). SPHERE H-band imaging shows spirals, gap, and outer ring interpreted as evidence of planet-disk interaction (Ginski et al. 2025).",
- "last_updated": "2026-07-06"
+ "last_updated": "2026-07-10"
 }

@@ -11,7 +11,21 @@
  "categories": [
   "protoplanetary"
  ],
- "planets": [],
+ "planets": [
+  {
+   "name": "B",
+   "status": "confirmed",
+   "method": "interferometry",
+   "note": "close PMS binary companion resolved by VLTI/GRAVITY; orbit + dynamical masses (GRAVITY Collaboration / Eupen et al. 2021)",
+   "paper": {
+    "first_author": "GRAVITY Collaboration",
+    "year": 2021,
+    "arxiv": "2102.00122",
+    "bibcode": "2021A&A...648A..37G",
+    "journal": "A&A 648, A37"
+   }
+  }
+ ],
  "images": [
   {
    "type": "disk_scattered",
@@ -78,7 +92,7 @@
   }
  ],
  "notes": "AUTO-CREATED from staging - fill metadata & coords",
- "last_updated": "2026-07-07",
+ "last_updated": "2026-07-10",
  "plx_mas": 5.2965,
  "mags": {
   "B": 14.74,

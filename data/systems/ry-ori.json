@@ -9,14 +9,28 @@
  "sptype": "F7",
  "region": null,
  "categories": [],
- "planets": [],
+ "planets": [
+  {
+   "name": "B",
+   "status": "candidate",
+   "method": "imaging",
+   "note": "possible SUBSTELLAR companion: ~0.076 Msun (~80 MJup), 0.39\" (137 au), dH=6.14 mag; single-epoch (Valegard et al. 2024)",
+   "paper": {
+    "first_author": "Valegard",
+    "year": 2024,
+    "arxiv": "2403.02156",
+    "bibcode": "2024A&A...685A..54V",
+    "journal": "A&A 685, A54"
+   }
+  }
+ ],
  "images": [
   {
-   "type": "disk_scattered",
+   "type": "planet",
    "facility": "VLT-SPHERE",
    "instrument": "IRDIS",
    "wavelength_um": 1.65,
-   "wavelength_label": "H band 1.6 um (total intensity)",
+   "wavelength_label": "H band 1.6 um (total intensity; companion detection)",
    "technique": "total intensity",
    "image_id": "ry-ori_destinys-orion",
    "file": "images/ry-ori/ry-ori_destinys-orion.png",
@@ -34,7 +48,7 @@
   }
  ],
  "notes": "AUTO-CREATED from staging - fill metadata & coords",
- "last_updated": "2026-07-06",
+ "last_updated": "2026-07-10",
  "plx_mas": 2.8527,
  "mags": {
   "U": 12.62,

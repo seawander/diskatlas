@@ -9,14 +9,28 @@
  "sptype": "K4.5",
  "region": null,
  "categories": [],
- "planets": [],
+ "planets": [
+  {
+   "name": "B",
+   "status": "candidate",
+   "method": "imaging",
+   "note": "new companion detection: M5, ~0.2 Msun, 0.11\", dH=2.14 mag; single-epoch (Valegard et al. 2024)",
+   "paper": {
+    "first_author": "Valegard",
+    "year": 2024,
+    "arxiv": "2403.02156",
+    "bibcode": "2024A&A...685A..54V",
+    "journal": "A&A 685, A54"
+   }
+  }
+ ],
  "images": [
   {
-   "type": "disk_scattered",
+   "type": "planet",
    "facility": "VLT-SPHERE",
    "instrument": "IRDIS",
    "wavelength_um": 1.65,
-   "wavelength_label": "H band 1.6 um (total intensity)",
+   "wavelength_label": "H band 1.6 um (total intensity; companion detection)",
    "technique": "total intensity",
    "image_id": "tx-ori_destinys-orion",
    "file": "images/tx-ori/tx-ori_destinys-orion.png",
@@ -34,7 +48,7 @@
   }
  ],
  "notes": "AUTO-CREATED from staging - fill metadata & coords",
- "last_updated": "2026-07-06",
+ "last_updated": "2026-07-10",
  "plx_mas": 2.4699,
  "mags": {
   "U": 13.75,

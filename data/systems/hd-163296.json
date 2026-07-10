@@ -13,7 +13,21 @@
  "categories": [
   "protoplanetary"
  ],
- "planets": [],
+ "planets": [
+  {
+   "name": "b",
+   "status": "candidate",
+   "method": "imaging",
+   "note": "point-like F410M source CANDIDATE in JWST/NIRCam coronagraphy; unconfirmed (Uyama et al. 2025)",
+   "paper": {
+    "first_author": "Uyama",
+    "year": 2025,
+    "arxiv": "2503.20132",
+    "bibcode": "2025AJ....169..287U",
+    "journal": "AJ 169, 287"
+   }
+  }
+ ],
  "images": [
   {
    "type": "disk_mm",
@@ -415,7 +429,7 @@
   }
  ],
  "notes": null,
- "last_updated": "2026-07-08",
+ "last_updated": "2026-07-10",
  "plx_mas": 9.9043,
  "mags": {
   "U": 7.0,

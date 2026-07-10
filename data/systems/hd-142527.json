@@ -13,7 +13,30 @@
  "categories": [
   "protoplanetary"
  ],
- "planets": [],
+ "planets": [
+  {
+   "name": "B",
+   "status": "confirmed",
+   "method": "imaging",
+   "note": "low-mass stellar companion (~0.1-0.4 Msun) inside the cavity at ~0.08\"; discovered with NaCo SAM (Biller et al. 2012), re-imaged by VisAO/GPI (Balmer et al. 2022)",
+   "paper": {
+    "first_author": "Biller",
+    "year": 2012,
+    "arxiv": null,
+    "bibcode": "2012ApJ...753L..38B",
+    "journal": "ApJL 753, L38"
+   },
+   "extra_papers": [
+    {
+     "label": "VisAO+GPI imaging",
+     "first_author": "Balmer",
+     "year": 2022,
+     "arxiv": "2206.00687",
+     "bibcode": "2022AJ....164...29B"
+    }
+   ]
+  }
+ ],
  "images": [
   {
    "type": "disk_scattered",
@@ -290,7 +313,7 @@
   }
  ],
  "notes": "Extreme azimuthal dust asymmetry; M-dwarf companion inside cavity.",
- "last_updated": "2026-07-08",
+ "last_updated": "2026-07-10",
  "plx_mas": 6.2791,
  "mags": {
   "B": 9.04,

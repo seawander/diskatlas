@@ -1672,9 +1672,9 @@
   "date": "2026-07-07"
  },
  "1901.05029": {
-  "status": "ingested",
-  "reason": "orphan-recovery 2026-07-08 (post-crash)",
-  "date": "2026-07-07"
+  "status": "excluded",
+  "reason": "V807 Tau 1.3mm: components unresolved/Gaussian, Bab undetected — no atlas-grade image (record removed 2026-07-10)",
+  "date": "2026-07-10"
  },
  "1509.07520": {
   "status": "ingested",
@@ -2418,5 +2418,10 @@
   "status": "excluded",
   "reason": "SKAO demographics forecast; simulations only (fresh_papers triage)",
   "title": "Demographics of planet-forming disks with the SKAO"
+ },
+ "2410.16551": {
+  "status": "excluded",
+  "reason": "Vega NIRCam F444W: sources S1/S2 extended/extragalactic background, no companion, disk not detected at F444W (record removed 2026-07-10)",
+  "date": "2026-07-10"
  }
 }

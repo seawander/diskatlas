@@ -9,14 +9,28 @@
  "sptype": "G0IV-V",
  "region": null,
  "categories": [],
- "planets": [],
+ "planets": [
+  {
+   "name": "B",
+   "status": "candidate",
+   "method": "imaging",
+   "note": "new companion detection: M0, ~0.6 Msun, 0.22\" (84 au), dH=2.69 mag; single-epoch SPHERE detection, chance alignment unlikely but not excluded (Valegard et al. 2024)",
+   "paper": {
+    "first_author": "Valegard",
+    "year": 2024,
+    "arxiv": "2403.02156",
+    "bibcode": "2024A&A...685A..54V",
+    "journal": "A&A 685, A54"
+   }
+  }
+ ],
  "images": [
   {
-   "type": "disk_scattered",
+   "type": "planet",
    "facility": "VLT-SPHERE",
    "instrument": "IRDIS",
    "wavelength_um": 1.65,
-   "wavelength_label": "H band 1.6 um (total intensity)",
+   "wavelength_label": "H band 1.6 um (total intensity; companion detection)",
    "technique": "total intensity",
    "image_id": "brun-252_destinys-orion",
    "file": "images/brun-252/brun-252_destinys-orion.png",
@@ -34,7 +48,7 @@
   }
  ],
  "notes": "AUTO-CREATED from staging - fill metadata & coords",
- "last_updated": "2026-07-06",
+ "last_updated": "2026-07-10",
  "plx_mas": 2.6354,
  "mags": {
   "B": 11.8,

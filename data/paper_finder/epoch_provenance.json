@@ -917,12 +917,6 @@
   "arxiv": "2403.02158",
   "snippet": "UY Aur         & 1104.C-0415(G) (DESTINYS, Ginski)&    H      & 2021-01-21 & 16 &  94 & 25\\\\"
  },
- "v1025-tau_sphere-taurus": {
-  "epoch": "2019-12-15",
-  "source": "tex:row",
-  "arxiv": "2403.02158",
-  "snippet": "V$^*$ V1025 Tau& 1104.C-0415(A) (DESTINYS, Ginski)&    H      & 2019-12-15 & 64 &  56 & 60\\\\"
- },
  "v807-tau_sphere-taurus": {
   "epoch": "2019-12-30",
   "source": "tex:row",
@@ -4565,12 +4559,6 @@
   "arxiv": "2506.19932",
   "snippet": "1 NIRCAM obs [F200W]"
  },
- "vega_nircam2024": {
-  "epoch": "2023-08-19",
-  "source": "mast:mast-exact",
-  "arxiv": "2410.16551",
-  "snippet": "4 NIRCAM obs [F444W]"
- },
  "yses-1_jwst2025": {
   "epoch": "2023-06-19",
   "source": "mast:mast-exact",
@@ -6568,12 +6556,6 @@
   "source": "alma:alma-code",
   "arxiv": "2409.02196",
   "snippet": "10 execs, codes ['2021.1.00690.S']"
- },
- "v807-tau_alma2019": {
-  "epoch": "2015-09-19",
-  "source": "alma:alma-code",
-  "arxiv": "1901.05029",
-  "snippet": "8 execs, codes ['2013.1.00105.S', '2015.1.00392.S']"
  },
  "as-205_alma-band3-2026": {
   "epoch": "2018-2019",

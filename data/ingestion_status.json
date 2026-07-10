@@ -1,6 +1,6 @@
 {
  "_doc": "Per-survey ingestion state. entries/coords/images: done|partial|todo. Update on every ingest.",
- "updated": "2026-07-10: 468 systems / 1500 records / 0 errors / epoch coverage 92.1%. Full narrative history: docs/HISTORY.md (grep it, don't load it).",
+ "updated": "2026-07-10: 467 systems / 1497 records / 0 errors / 83 planet hosts / epoch coverage unchanged. Census adjudication done; details in docs/HISTORY.md.",
  "surveys": {
   "DSHARP": {
    "entries": "done",

@@ -11,7 +11,21 @@
  "categories": [
   "protoplanetary"
  ],
- "planets": [],
+ "planets": [
+  {
+   "name": "B",
+   "status": "confirmed",
+   "method": "imaging",
+   "note": "low-mass stellar companion detected in multi-epoch high-contrast imaging (Ubeira-Gabellini et al. 2020)",
+   "paper": {
+    "first_author": "Ubeira-Gabellini",
+    "year": 2020,
+    "arxiv": "2002.01946",
+    "bibcode": "2020ApJ...890L...8U",
+    "journal": "ApJL 890, L8"
+   }
+  }
+ ],
  "images": [
   {
    "type": "disk_scattered",
@@ -78,7 +92,7 @@
   }
  ],
  "notes": null,
- "last_updated": "2026-07-06",
+ "last_updated": "2026-07-10",
  "plx_mas": 2.3932,
  "mags": {
   "U": 15.57,

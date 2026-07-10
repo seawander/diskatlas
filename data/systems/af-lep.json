@@ -12,7 +12,9 @@
  "dist_pc": 26.8,
  "sptype": "F8V(n)k:",
  "region": null,
- "categories": [],
+ "categories": [
+  "debris"
+ ],
  "planets": [
   {
    "name": "b",
@@ -198,7 +200,7 @@
   }
  ],
  "notes": "Independent discoveries: Mesa+2023 (A&A) and De Rosa+2023.",
- "last_updated": "2026-07-07",
+ "last_updated": "2026-07-10",
  "plx_mas": 37.2539,
  "mags": {
   "B": 6.832,

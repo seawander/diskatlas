@@ -11,7 +11,21 @@
  "categories": [
   "protoplanetary"
  ],
- "planets": [],
+ "planets": [
+  {
+   "name": "b",
+   "status": "candidate",
+   "method": "imaging",
+   "note": "sparse-aperture-masking (NRM) candidate companion; NRM closure-phase signals in transition disks can also trace disk asymmetries (Willson et al. 2016)",
+   "paper": {
+    "first_author": "Willson",
+    "year": 2016,
+    "arxiv": "1608.03629",
+    "bibcode": "2016A&A...595A...9W",
+    "journal": "A&A 595, A9"
+   }
+  }
+ ],
  "images": [
   {
    "type": "disk_mm",
@@ -163,7 +177,7 @@
   }
  ],
  "notes": null,
- "last_updated": "2026-07-08",
+ "last_updated": "2026-07-10",
  "plx_mas": 6.9421,
  "mags": {
   "U": 14.3,

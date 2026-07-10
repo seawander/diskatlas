@@ -9,14 +9,37 @@
  "sptype": "G0+F7",
  "region": null,
  "categories": [],
- "planets": [],
+ "planets": [
+  {
+   "name": "B",
+   "status": "confirmed",
+   "method": "imaging",
+   "note": "known F8 ~2.1 Msun near-equal binary at 0.365\"; measurable orbital motion since 2001 consistent with a bound orbit",
+   "paper": {
+    "first_author": "Koehler",
+    "year": 2006,
+    "arxiv": null,
+    "bibcode": "2006A&A...458..461K",
+    "journal": "A&A 458, 461"
+   },
+   "extra_papers": [
+    {
+     "label": "SPHERE re-detection + astrometry",
+     "first_author": "Valegard",
+     "year": 2024,
+     "arxiv": "2403.02156",
+     "bibcode": "2024A&A...685A..54V"
+    }
+   ]
+  }
+ ],
  "images": [
   {
-   "type": "disk_scattered",
+   "type": "planet",
    "facility": "VLT-SPHERE",
    "instrument": "IRDIS",
    "wavelength_um": 1.65,
-   "wavelength_label": "H band 1.6 um (total intensity)",
+   "wavelength_label": "H band 1.6 um (total intensity; companion detection)",
    "technique": "total intensity",
    "image_id": "v2149-ori_destinys-orion",
    "file": "images/v2149-ori/v2149-ori_destinys-orion.png",
@@ -34,7 +57,7 @@
   }
  ],
  "notes": "AUTO-CREATED from staging - fill metadata & coords",
- "last_updated": "2026-07-06",
+ "last_updated": "2026-07-10",
  "mags": {
   "U": 13.26,
   "B": 12.141,
