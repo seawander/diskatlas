@@ -81,7 +81,9 @@ FINAL 07-09 ITEMS (after the burn-down below):
   Fig. B.1. Net: 466→464 systems, 1489→1490 records.
 - **Agent-doc + paper number sync (user asked, other agents offline):** the paper
   `paper_Overleaf/ms.tex` was lagging at 466/1475 — updated abstract, census
-  table (tab:census), SIMBAD count (464 sys / 461 resolvable), conclusion, and
+  table (tab:census), SIMBAD count (464 sys / 462 resolvable — G023.01-00.41
+  resolved to MSX5C G023.0126-00.4177 on 2026-07-09, leaving only the 2 HSC
+  z>6 quasars as genuine exceptions), conclusion, and
   the dedup narrative (now names the two Oph merges); regenerated tab-coverage /
   tab-tonight / fig-skymap / fig-census and recompiled `ms.pdf` with tectonic
   (12 pp). All prose stats in README/HANDOFF also refreshed to 464/1490.
