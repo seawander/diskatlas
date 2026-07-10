@@ -461,6 +461,26 @@
     "bibcode": "2001AJ....122.3396G"
    },
    "file": "images/hd-100546/hd-100546_stis-grady2001.png"
+  },
+  {
+   "type": "disk_scattered",
+   "facility": "Magellan-MagAO",
+   "instrument": "VisAO",
+   "technique": "SDI",
+   "wavelength_um": 0.656,
+   "wavelength_label": "H-alpha 0.656 um (VisAO SDI, 2014; disk-rim scattered light)",
+   "image_id": "hd-100546_magao-follette2017",
+   "survey": null,
+   "file": "images/hd-100546/hd-100546_magao-follette2017.png",
+   "credit": "Follette et al. 2017, Fig. 3 top-left (crop)",
+   "paper": {
+    "arxiv": "1704.06260",
+    "bibcode": "2017AJ....153..264F",
+    "first_author": "Follette",
+    "year": 2017,
+    "journal": "AJ 153, 264",
+    "title": "Complex Spiral Structure in the HD 100546 Transitional Disk as Revealed by GPI and MagAO"
+   }
   }
  ],
  "notes": null,

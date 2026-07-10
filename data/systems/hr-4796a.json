@@ -477,6 +477,46 @@
     "bibcode": null
    },
    "file": "images/hr-4796a/hr-4796a_nici2014-ks.png"
+  },
+  {
+   "type": "disk_scattered",
+   "facility": "Magellan-MagAO",
+   "instrument": "Clio-2",
+   "technique": "ADI",
+   "wavelength_um": 3.8,
+   "wavelength_label": "L' 3.8 um (MagAO/Clio-2 ADI; debris ring)",
+   "image_id": "hr-4796a_clio-rodigas2015",
+   "survey": null,
+   "file": "images/hr-4796a/hr-4796a_clio-rodigas2015.png",
+   "credit": "Rodigas et al. 2015, Fig. 1a (crop)",
+   "paper": {
+    "arxiv": "1410.7753",
+    "bibcode": "2015ApJ...798...96R",
+    "first_author": "Rodigas",
+    "year": 2015,
+    "journal": "ApJ 798, 96",
+    "title": "On the Morphology and Chemical Composition of the HR 4796A Debris Disk"
+   }
+  },
+  {
+   "type": "disk_scattered",
+   "facility": "Magellan-MagAO",
+   "instrument": "VisAO",
+   "technique": "ADI",
+   "wavelength_um": 0.99,
+   "wavelength_label": "Ys 0.99 um (MagAO/VisAO ADI; debris ring)",
+   "image_id": "hr-4796a_visao-rodigas2015",
+   "survey": null,
+   "file": "images/hr-4796a/hr-4796a_visao-rodigas2015.png",
+   "credit": "Rodigas et al. 2015, Fig. 1e (crop)",
+   "paper": {
+    "arxiv": "1410.7753",
+    "bibcode": "2015ApJ...798...96R",
+    "first_author": "Rodigas",
+    "year": 2015,
+    "journal": "ApJ 798, 96",
+    "title": "On the Morphology and Chemical Composition of the HR 4796A Debris Disk"
+   }
   }
  ],
  "notes": null,
