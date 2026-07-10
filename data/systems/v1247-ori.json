@@ -119,10 +119,52 @@
    },
    "file": "images/v1247-ori/v1247-ori_sphere-ks-qphi.png",
    "epoch": "2020-12-20"
+  },
+  {
+   "image_id": "v1247-ori_sphere-h2018",
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS (DPI)",
+   "wavelength_um": 1.6,
+   "wavelength_label": "H band Q_phi spiral arms; 2018 epoch (ESO 0102.C-0778)",
+   "technique": "PDI",
+   "survey": null,
+   "file": "images/v1247-ori/v1247-ori_sphere-h2018.png",
+   "credit": "Ren et al. 2024, Fig. 1 (left panel)",
+   "paper": {
+    "first_author": "Ren",
+    "year": 2024,
+    "title": "A Companion in V1247 Ori Supported by Spiral Arm Pattern Motion",
+    "journal": "A&A 681, L2",
+    "arxiv": "2310.15430",
+    "bibcode": "2024A&A...681L...2R"
+   },
+   "epoch": "2018-11-16"
+  },
+  {
+   "image_id": "v1247-ori_sphere-h2023",
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS (DPI)",
+   "wavelength_um": 1.6,
+   "wavelength_label": "H band Q_phi spiral arms; 2023 epoch (SAFFRON, ESO 111.24GG)",
+   "technique": "PDI",
+   "survey": null,
+   "file": "images/v1247-ori/v1247-ori_sphere-h2023.png",
+   "credit": "Ren et al. 2024, Fig. 1 (right panel)",
+   "paper": {
+    "first_author": "Ren",
+    "year": 2024,
+    "title": "A Companion in V1247 Ori Supported by Spiral Arm Pattern Motion",
+    "journal": "A&A 681, L2",
+    "arxiv": "2310.15430",
+    "bibcode": "2024A&A...681L...2R"
+   },
+   "epoch": "2023-09-20"
   }
  ],
- "notes": null,
- "last_updated": "2026-07-07",
+ "notes": "Spiral-arm pattern motion between the 2018 and 2023 SPHERE epochs is consistent with a companion-driven origin (Ren et al. 2024).",
+ "last_updated": "2026-07-10",
  "plx_mas": 2.4919,
  "mags": {
   "B": 10.18,

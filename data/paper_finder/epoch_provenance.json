@@ -7078,5 +7078,17 @@
   "source": "alma:alma-cone",
   "arxiv": "2501.09058",
   "snippet": "4 execs <= 2025"
+ },
+ "v1247-ori_sphere-h2018": {
+  "epoch": "2018-11-16",
+  "source": "tex:ingestion",
+  "arxiv": "2310.15430",
+  "snippet": "Fig.1 caption: SPHERE/IRDIS H-band on 2018 November 16 (left)"
+ },
+ "v1247-ori_sphere-h2023": {
+  "epoch": "2023-09-20",
+  "source": "tex:ingestion",
+  "arxiv": "2310.15430",
+  "snippet": "Fig.1 caption: on 2023 September 20 (right); SAFFRON 111.24GG"
  }
 }
