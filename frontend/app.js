@@ -804,6 +804,7 @@ if (typeof window !== "undefined") (function () {
     }
     showImg(first);
     detail.hidden = false;
+    if (detail._placeResize) detail._placeResize();   // position the resize handle
     if (history.replaceState) history.replaceState(null, "", "#s=" + s.id);
     draw();
   }
@@ -1321,6 +1322,50 @@ if (typeof window !== "undefined") (function () {
       refreshCOL();
       resize();                       // redraw sky with new palette
     };
+  })();
+  /* ---------- resizable detail panel ----------
+     drag the handle on the panel's inner edge to widen/narrow it (bigger panel =
+     bigger images); width persists in localStorage. Hidden on phones (full-width). */
+  (function detailResize() {
+    const detail = document.getElementById("detail");
+    const handle = document.getElementById("d_resize");
+    if (!detail || !handle) return;
+    const KEY = "atlas_detail_w";
+    const isMobile = () => window.matchMedia && window.matchMedia("(max-width: 640px)").matches;
+    const rtl = () => document.documentElement.dir === "rtl";
+    const clampW = w => Math.max(340, Math.min(w, Math.min(window.innerWidth - 40, 1100)));
+    function applyStored() {
+      if (isMobile()) { detail.style.width = ""; return; }
+      const w = parseInt(localStorage.getItem(KEY), 10);
+      if (w) detail.style.width = clampW(w) + "px";
+    }
+    function place() {
+      if (detail.hidden || isMobile()) { handle.style.display = "none"; return; }
+      handle.style.display = "";
+      const r = detail.getBoundingClientRect();
+      handle.style.left = (rtl() ? r.right - 5 : r.left - 5) + "px";   // sit on the inner edge
+    }
+    let dragging = false;
+    handle.addEventListener("pointerdown", e => {
+      if (isMobile()) return;
+      dragging = true; handle.classList.add("drag");
+      try { handle.setPointerCapture(e.pointerId); } catch (_) {}
+      e.preventDefault();
+    });
+    handle.addEventListener("pointermove", e => {
+      if (!dragging) return;
+      detail.style.width = clampW(rtl() ? e.clientX : window.innerWidth - e.clientX) + "px";
+      place();
+    });
+    const end = () => {
+      if (!dragging) return; dragging = false; handle.classList.remove("drag");
+      localStorage.setItem(KEY, parseInt(detail.style.width, 10) || "");
+    };
+    handle.addEventListener("pointerup", end);
+    handle.addEventListener("pointercancel", end);
+    window.addEventListener("resize", () => { applyStored(); place(); });
+    detail._placeResize = place;                 // openDetail calls this after showing
+    applyStored();
   })();
   applyStaticI18n();
   window.addEventListener("resize", resize);

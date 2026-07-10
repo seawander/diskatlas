@@ -117,6 +117,14 @@ main { position: fixed; inset: 0; }
 #detail { position: fixed; z-index: 50; top: 0; right: 0; bottom: 0; width: min(480px, 96vw);
   background: var(--panel); border-left: 1px solid var(--line); overflow-y: auto;
   padding: 16px 18px 28px; box-shadow: -12px 0 40px rgba(0,0,0,.5); }
+/* drag handle on the panel's inner edge — position:fixed so it doesn't scroll
+   with the panel; its `left` is kept in sync with the panel edge by app.js */
+#d_resize { position: fixed; top: 0; bottom: 0; width: 10px; z-index: 51;
+  cursor: ew-resize; touch-action: none; }
+#d_resize::before { content: ""; position: absolute; top: 50%; left: 50%;
+  transform: translate(-50%, -50%); width: 4px; height: 36px; border-radius: 3px;
+  background: var(--line); transition: background .12s; }
+#d_resize:hover::before, #d_resize.drag::before { background: var(--accent); }
 #closebtn { position: absolute; top: 10px; right: 12px; background: none; border: none;
   color: var(--dim); font-size: 26px; cursor: pointer; line-height: 1; }
 #closebtn:hover { color: var(--ink); }
