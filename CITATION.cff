@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this atlas, please cite it as below."
+title: "diskatlas: all-sky interactive atlas for resolved circumstellar disks and imaged companions"
+abstract: >-
+  An offline, interactive all-sky atlas of every system with a resolved
+  circumstellar disk (mm/submm interferometry, high-contrast scattered light and
+  thermal IR, resolved far-IR imaging), a directly imaged companion, or a
+  coronagraphically imaged quasar host. Each image is a cropped panel from the
+  discovery or characterization paper with per-image arXiv/SciX citations.
+type: software
+authors:
+  - name: "The diskatlas authors"
+url: "https://seawander.github.io/diskatlas/"
+repository-code: "https://github.com/seawander/diskatlas"
+license:
+  - MIT
+  - CC-BY-4.0
+keywords:
+  - astronomy
+  - protoplanetary disks
+  - debris disks
+  - directly imaged exoplanets
+  - high-contrast imaging
+  - circumstellar disks
+  - data visualization

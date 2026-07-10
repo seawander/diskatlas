@@ -54,7 +54,8 @@ STIS = {"type": "disk_scattered", "facility": "HST", "instrument": "STIS",
 
 BLOCKS = [
     # Membership completed from Esposito+2020 Figs. 5+6 panel labels (26 debris disks):
-    # 24 in the Qphi gallery (Fig. 5) + HD 15115 and NZ Lup detected in total intensity only (Fig. 6).
+    # 24 in the Qphi gallery (Fig. 5) + HD 15115 and HD 141943 (panel label 'NZ Lup')
+    # detected in total intensity only (Fig. 6).
     survey("GPIES-debris", P_GPIES, PDI_H,
            [
                ("HR 4796A", {"simbad": "HR 4796"}),
@@ -65,10 +66,10 @@ BLOCKS = [
                ("AU Mic", {}), ("beta Pic", {}),
                ("TWA 7", {"simbad": "TWA 7", "notes": "panel label 'CE Ant' = TWA 7"}),
                ("HR 7012", {"alt_names": ("HD 172555",)}),
-               "NZ Lup",
+               ("HD 141943", {"alt_names": ("NZ Lup",), "notes": "panel label 'NZ Lup' = HD 141943"}),
            ],
            categories=("debris",),
-           notes="membership complete (26 debris; HD 15115 + NZ Lup total-intensity-only detections)"),
+           notes="membership complete (26 debris; HD 15115 + HD 141943 [NZ Lup] total-intensity-only detections)"),
 
     # The 3 protoplanetary/transitional disks detected by GPIES (Esposito+2020 Fig. 9).
     survey("GPIES", P_GPIES, PDI_H,
