@@ -141,10 +141,13 @@ main { position: fixed; inset: 0; }
 #d_sub .src { opacity: .7; font-size: 11px; }
 
 #d_imgwrap { display: flex; align-items: center; gap: 6px; }
-#d_imgbox { flex: 1; min-height: 240px; display: flex; align-items: center;
+/* fixed-height stage so the image box doesn't reflow as figure sizes change —
+   that reflow is what made the prev/next arrows jump vertically. Images just
+   center + fit inside (letterboxed on the dark stage when aspect ratios differ). */
+#d_imgbox { flex: 1; height: 380px; display: flex; align-items: center;
   justify-content: center; background: #05070f; border: 1px solid var(--line);
   border-radius: 10px; overflow: hidden; }
-#d_imgbox img { max-width: 100%; max-height: 380px; display: block;
+#d_imgbox img { max-width: 100%; max-height: 100%; display: block;
   image-rendering: auto; }
 #d_imgbox .placeholder { text-align: center; color: var(--dim); padding: 40px 18px;
   font-size: 13px; }
