@@ -7090,5 +7090,23 @@
   "source": "tex:ingestion",
   "arxiv": "2310.15430",
   "snippet": "Fig.1 caption: on 2023 September 20 (right); SAFFRON 111.24GG"
+ },
+ "hd-135344b_xie2024-j2015": {
+  "epoch": "2015-05-03",
+  "source": "tex:ingestion",
+  "arxiv": "2412.14402",
+  "snippet": "epoch printed in-panel (Fig. 1) and encoded in source FITS filename"
+ },
+ "hd-135344b_xie2024-j2016": {
+  "epoch": "2016-05-04",
+  "source": "tex:ingestion",
+  "arxiv": "2412.14402",
+  "snippet": "epoch printed in-panel (Fig. 1) and encoded in source FITS filename"
+ },
+ "hd-135344b_xie2024-j2022": {
+  "epoch": "2022-03-30",
+  "source": "tex:ingestion",
+  "arxiv": "2412.14402",
+  "snippet": "epoch printed in-panel (Fig. 1) and encoded in source FITS filename"
  }
 }

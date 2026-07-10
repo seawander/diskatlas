@@ -289,10 +289,73 @@
    },
    "file": "images/hd-135344b/hd-135344b_stis-grady2005.png",
    "epoch": "2001-04-08"
+  },
+  {
+   "image_id": "hd-135344b_xie2024-j2015",
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS (DPI)",
+   "wavelength_um": 1.245,
+   "wavelength_label": "J band Q_phi spiral arms (2015 epoch; stellar pol. removed, log SB)",
+   "technique": "PDI",
+   "survey": "DESTINYS",
+   "file": "images/hd-135344b/hd-135344b_xie2024-j2015.png",
+   "credit": "Xie et al. 2024, Fig. 1a (crop)",
+   "paper": {
+    "first_author": "Xie",
+    "year": 2024,
+    "title": "Disk Evolution Study Through Imaging of Nearby Young Stars (DESTINYS): Dynamical Evidence of a Spiral-Arm-Driving and Gap-Opening Protoplanet from SAO 206462 Spiral Motion",
+    "journal": "Universe 10, 465",
+    "arxiv": "2412.14402",
+    "bibcode": "2024Univ...10..465X"
+   },
+   "epoch": "2015-05-03"
+  },
+  {
+   "image_id": "hd-135344b_xie2024-j2016",
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS (DPI)",
+   "wavelength_um": 1.245,
+   "wavelength_label": "J band Q_phi spiral arms (2016 epoch; stellar pol. removed, log SB)",
+   "technique": "PDI",
+   "survey": "DESTINYS",
+   "file": "images/hd-135344b/hd-135344b_xie2024-j2016.png",
+   "credit": "Xie et al. 2024, Fig. 1b (crop)",
+   "paper": {
+    "first_author": "Xie",
+    "year": 2024,
+    "title": "Disk Evolution Study Through Imaging of Nearby Young Stars (DESTINYS): Dynamical Evidence of a Spiral-Arm-Driving and Gap-Opening Protoplanet from SAO 206462 Spiral Motion",
+    "journal": "Universe 10, 465",
+    "arxiv": "2412.14402",
+    "bibcode": "2024Univ...10..465X"
+   },
+   "epoch": "2016-05-04"
+  },
+  {
+   "image_id": "hd-135344b_xie2024-j2022",
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS (DPI)",
+   "wavelength_um": 1.245,
+   "wavelength_label": "J band Q_phi spiral arms (2022 epoch; stellar pol. removed, log SB)",
+   "technique": "PDI",
+   "survey": "DESTINYS",
+   "file": "images/hd-135344b/hd-135344b_xie2024-j2022.png",
+   "credit": "Xie et al. 2024, Fig. 1c (crop)",
+   "paper": {
+    "first_author": "Xie",
+    "year": 2024,
+    "title": "Disk Evolution Study Through Imaging of Nearby Young Stars (DESTINYS): Dynamical Evidence of a Spiral-Arm-Driving and Gap-Opening Protoplanet from SAO 206462 Spiral Motion",
+    "journal": "Universe 10, 465",
+    "arxiv": "2412.14402",
+    "bibcode": "2024Univ...10..465X"
+   },
+   "epoch": "2022-03-30"
   }
  ],
- "notes": null,
- "last_updated": "2026-07-08",
+ "notes": "Three-epoch J-band spiral pattern motion (2015/2016/2022) gives dynamical evidence for a spiral-arm-driving, gap-opening protoplanet (Xie et al. 2024).",
+ "last_updated": "2026-07-10",
  "plx_mas": 7.4074,
  "mags": {
   "B": 9.21,
