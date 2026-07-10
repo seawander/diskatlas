@@ -114,6 +114,26 @@
     "bibcode": null
    },
    "file": "images/iras-04302-2247/iras-04302-2247_jwst2024.png"
+  },
+  {
+   "type": "disk_scattered",
+   "facility": "HST",
+   "instrument": "NICMOS",
+   "technique": "imaging",
+   "wavelength_um": 1.6,
+   "wavelength_label": "F110W+F160W+F205W pseudo-color composite (1.1-2.05 um)",
+   "image_id": "iras-04302-2247_nicmos1999",
+   "survey": null,
+   "file": "images/iras-04302-2247/iras-04302-2247_nicmos1999.png",
+   "credit": "Padgett et al. 1999, Fig. 1c (crop)",
+   "paper": {
+    "arxiv": "astro-ph/9902101",
+    "bibcode": "1999AJ....117.1490P",
+    "first_author": "Padgett",
+    "year": 1999,
+    "journal": "AJ 117, 1490",
+    "title": "HST/NICMOS Imaging of Disks and Envelopes Around Very Young Stars"
+   }
   }
  ],
  "notes": "AUTO-CREATED from staging - fill metadata & coords",

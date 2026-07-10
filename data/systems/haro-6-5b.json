@@ -61,11 +61,11 @@
    "facility": "HST",
    "instrument": "NICMOS",
    "wavelength_um": 1.6,
-   "wavelength_label": "near-IR (H/other NICMOS bands)",
+   "wavelength_label": "F110W+F160W+F205W pseudo-color composite (1.1-2.05 um)",
    "technique": "HST/NICMOS near-IR scattered-light imaging",
    "survey": null,
    "file": "images/haro-6-5b/haro-6-5b_nicmos1999.png",
-   "credit": "Padgett et al. 1999, Fig. 1 (crop)",
+   "credit": "Padgett et al. 1999, Fig. 1d (crop)",
    "paper": {
     "first_author": "Padgett",
     "year": 1999,

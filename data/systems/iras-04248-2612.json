@@ -1,0 +1,43 @@
+{
+ "id": "iras-04248-2612",
+ "name": "IRAS 04248+2612",
+ "alt_names": [
+  "HH 31 IRS 2"
+ ],
+ "simbad": "IRAS 04248+2612",
+ "ra_deg": 66.98884980331,
+ "dec_deg": 26.321675906860005,
+ "dist_pc": 140.0,
+ "sptype": null,
+ "region": "Taurus",
+ "categories": [
+  "protoplanetary"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "type": "disk_scattered",
+   "facility": "HST",
+   "instrument": "NICMOS",
+   "technique": "imaging",
+   "wavelength_um": 1.6,
+   "wavelength_label": "F110W+F160W+F205W pseudo-color composite (1.1-2.05 um)",
+   "image_id": "iras-04248-2612_nicmos1999",
+   "survey": null,
+   "file": "images/iras-04248-2612/iras-04248-2612_nicmos1999.png",
+   "credit": "Padgett et al. 1999, Fig. 1e (crop)",
+   "paper": {
+    "arxiv": "astro-ph/9902101",
+    "bibcode": "1999AJ....117.1490P",
+    "first_author": "Padgett",
+    "year": 1999,
+    "journal": "AJ 117, 1490",
+    "title": "HST/NICMOS Imaging of Disks and Envelopes Around Very Young Stars"
+   }
+  }
+ ],
+ "notes": "IRAS 04248+2612: Class I subarcsecond binary in Taurus with a large bipolar reflection nebula (HH 31 source). Added 2026-07-09 via Padgett 1999 NICMOS split.",
+ "last_updated": "2026-07-09",
+ "plx_mas": null,
+ "mags": null
+}
