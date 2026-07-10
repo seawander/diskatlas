@@ -665,6 +665,26 @@ if (typeof window !== "undefined") (function () {
     listEl.style.left = Math.max(8, Math.min(searchEl.offsetLeft, hdrW - listEl.offsetWidth - 8)) + "px";
     listEl.style.top = (searchEl.offsetTop + searchEl.offsetHeight + 4) + "px";
   });
+  /* keyboard navigation of the search dropdown: Up/Down move the highlight
+     (wrapping), Enter opens the highlighted result (or the first one) */
+  searchEl.addEventListener("keydown", e => {
+    if (listEl.hidden) return;
+    const rows = Array.prototype.slice.call(listEl.querySelectorAll(".row"));
+    if (!rows.length) return;
+    const cur = rows.findIndex(r => r.classList.contains("active"));
+    if (e.key === "ArrowDown" || e.key === "ArrowUp") {
+      e.preventDefault();
+      const dir = e.key === "ArrowDown" ? 1 : -1;
+      const next = cur < 0 ? (dir === 1 ? 0 : rows.length - 1)
+                           : (cur + dir + rows.length) % rows.length;
+      rows.forEach(r => r.classList.remove("active"));
+      rows[next].classList.add("active");
+      rows[next].scrollIntoView({ block: "nearest" });
+    } else if (e.key === "Enter") {
+      e.preventDefault();
+      (cur >= 0 ? rows[cur] : rows[0]).click();
+    }
+  });
   document.addEventListener("click", e => {
     if (e.target !== searchEl && !listEl.contains(e.target)) listEl.hidden = true;
   });

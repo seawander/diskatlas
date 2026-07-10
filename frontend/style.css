@@ -84,7 +84,7 @@ main { position: fixed; inset: 0; }
   min-width: 260px; max-width: calc(100vw - 16px); box-shadow: 0 10px 30px rgba(0,0,0,.55); }
 #searchlist .row { padding: 7px 12px; cursor: pointer; display: flex; gap: 8px;
   align-items: baseline; }
-#searchlist .row:hover { background: var(--panel2); }
+#searchlist .row:hover, #searchlist .row.active { background: var(--panel2); }
 #searchlist .row .meta { color: var(--dim); font-size: 11px; margin-left: auto; }
 #searchlist .nores { padding: 10px 12px; color: var(--dim); }
 
