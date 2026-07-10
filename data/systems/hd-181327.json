@@ -204,10 +204,31 @@
     "bibcode": "2025Natur.641..608X"
    },
    "epoch": "2023 Sep 6"
+  },
+  {
+   "image_id": "hd-181327_milli2024-qphi",
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS (DPI)",
+   "wavelength_um": 1.62,
+   "wavelength_label": "H band Q_phi polarized intensity (mJy/arcsec^2 calibrated)",
+   "technique": "PDI",
+   "survey": null,
+   "file": "images/hd-181327/hd-181327_milli2024-qphi.png",
+   "credit": "Milli et al. 2024, Fig. 2 (middle panel, crop)",
+   "paper": {
+    "first_author": "Milli",
+    "year": 2024,
+    "title": "The polarisation properties of the HD 181327 debris ring",
+    "journal": "A&A 683, A22",
+    "arxiv": "2312.02000",
+    "bibcode": "2024A&A...683A..22M"
+   },
+   "epoch": "2017-05-16"
   }
  ],
  "notes": null,
- "last_updated": "2026-07-07",
+ "last_updated": "2026-07-10",
  "plx_mas": 20.9306,
  "mags": {
   "B": 7.5,

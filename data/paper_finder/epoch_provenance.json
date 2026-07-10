@@ -7138,5 +7138,23 @@
   "source": "eso:eso-exact",
   "arxiv": "2304.06074",
   "snippet": "single star-hopping DPI dataset (ESO 109.237K, P109); date from the ESO archive cluster shared with the sibling HD 129590 SPHERE records"
+ },
+ "hd-181327_milli2024-qphi": {
+  "epoch": "2017-05-16",
+  "source": "tex:ingestion",
+  "arxiv": "2312.02000",
+  "snippet": "obs log: UT date of 16 May, 2017 (field-stabilised DPI + ref star HD 202917)"
+ },
+ "hd-121617_perrot2023-qphi": {
+  "epoch": "2018-04-28",
+  "source": "tex:ingestion",
+  "arxiv": "2302.07057",
+  "snippet": "observed 2018 Apr 28 + May 20 (ESO 0101.C-0420); first night"
+ },
+ "hd-121617_pacs100": {
+  "epoch": "2013-01-29",
+  "source": "hsa:hsa",
+  "arxiv": "2302.07057",
+  "snippet": "single Herschel observation of HD 121617 at HSA: 2013-01-29"
  }
 }

@@ -75,10 +75,53 @@
     "bibcode": "2025A&A...704A..21E"
    },
    "epoch": "2018-04-28"
+  },
+  {
+   "image_id": "hd-121617_perrot2023-qphi",
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS (DPI)",
+   "wavelength_um": 1.245,
+   "wavelength_label": "J band Q_phi polarized intensity (gas-rich debris ring)",
+   "technique": "PDI",
+   "survey": null,
+   "file": "images/hd-121617/hd-121617_perrot2023-qphi.png",
+   "credit": "Perrot et al. 2023, Fig. 1 (left panel, crop)",
+   "paper": {
+    "first_author": "Perrot",
+    "year": 2023,
+    "title": "Morphology of the gas-rich debris disk around HD 121617 with SPHERE observations in polarized light",
+    "journal": "A&A 673, A39",
+    "arxiv": "2302.07057",
+    "bibcode": "2023A&A...673A..39P"
+   },
+   "epoch": "2018-04-28"
+  },
+  {
+   "image_id": "hd-121617_pacs100",
+   "type": "disk_mm",
+   "facility": "Herschel",
+   "instrument": "PACS",
+   "wavelength_um": 100,
+   "wavelength_label": "100 um continuum (PSF-subtracted)",
+   "technique": "other",
+   "survey": null,
+   "file": "images/hd-121617/hd-121617_pacs100.png",
+   "credit": "Perrot et al. 2023, Fig. 2 (right panel, crop)",
+   "note": "marginally resolved at 100 um per the source caption; PSF-subtracted residual shows the disk ansae",
+   "paper": {
+    "first_author": "Perrot",
+    "year": 2023,
+    "title": "Morphology of the gas-rich debris disk around HD 121617 with SPHERE observations in polarized light",
+    "journal": "A&A 673, A39",
+    "arxiv": "2302.07057",
+    "bibcode": "2023A&A...673A..39P"
+   },
+   "epoch": "2013-01-29"
   }
  ],
  "notes": null,
- "last_updated": "2026-07-07",
+ "last_updated": "2026-07-10",
  "plx_mas": 8.4825,
  "mags": {
   "B": 7.36,
