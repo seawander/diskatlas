@@ -17,9 +17,9 @@ SciX** citations. Pure static files — no server, no build step at runtime.
 
 ## Current state (2026-07-09)
 
-- **463 systems · 1459 image records (all with local panels) · full coords · 0 validate
+- **466 systems · 1475 image records (all with local panels) · full coords · 0 validate
   errors** (`python3 backend/build.py` is always canonical). Paper-finder ledger:
-  ~555 in-atlas / ~849 explored / ~9914 known-candidate (the "known" pool ballooned
+  ~565 in-atlas / ~857 explored / ~9915 known-candidate (the "known" pool ballooned
   after adding the backward-reference axis — see below; it is a discovery-frontier
   count, NOT papers read).
 - Published live at **github.com/seawander/diskatlas** + GitHub Pages. Publish flow is
@@ -28,7 +28,7 @@ SciX** citations. Pure static files — no server, no build step at runtime.
 
 ## Session state 2026-07-09 (live log — update on every hand-off)
 
-CURRENT: 463 systems / 1459 image records / 0 errors.
+CURRENT: 466 systems / 1475 image records / 0 errors.
 
 WHAT THE 07-09 CONTINUATION DID (all committed + pushed to master):
 - **Directed multi-figure adds (user-requested, high yield):** Weber+2023 SPHERE/IRDIS
