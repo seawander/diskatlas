@@ -116,10 +116,10 @@
    "wavelength_label": "K band interferometric detection (GRAVITY)",
    "technique": "interferometry",
    "survey": null,
-   "credit": "Balmer et al. 2024, Fig. 1 (crop: 2023-11-24 GRAVITY chi2 detection map)",
+   "credit": "Balmer et al. 2025, Fig. 1 (crop: 2023-11-24 GRAVITY chi2 detection map)",
    "paper": {
     "first_author": "Balmer",
-    "year": 2024,
+    "year": 2025,
     "title": "VLTI/GRAVITY Observations of AF Lep b: Preference for Circular Orbits, Cloudy Atmospheres, and a Moderately Enhanced Metallicity",
     "journal": "AJ (2025)",
     "arxiv": "2411.05917",

@@ -45,10 +45,10 @@
    "technique": "VLTI aperture-synthesis / infrared interferometric imaging",
    "survey": null,
    "file": "images/hd-45677/hd-45677_matisse2021.png",
-   "credit": "Hofmann et al. 2021, Fig. 1 (crop)",
+   "credit": "Hofmann et al. 2022, Fig. 1 (crop)",
    "paper": {
     "first_author": "Hofmann",
-    "year": 2021,
+    "year": 2022,
     "title": "VLTI-MATISSE L- and N-band aperture-synthesis imaging of the unclassified B[e] star FS Canis Majoris",
     "journal": "Astronomy & Astrophysics",
     "arxiv": "2111.12458",
