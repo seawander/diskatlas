@@ -33,6 +33,7 @@ body.light {
   --evolved: #a8801a;
   --accent: #2f6fd6;
   --chipon: #c4d7f5;   /* selected chips: clearly darker than the white idle chips */
+  --chiprel: #e3edfb;  /* related (facility<->instrument) chips: tinted, lighter than selected */
   --err: #d64550;
   --sky: #e8ecf5;
   --barbg1: rgba(242,244,250,.97);
@@ -280,9 +281,11 @@ body.light { --link: #0d4fc4; }
   font-weight: 600; }
 #d_planets .pl a:hover, #d_notes a:hover, #d_caption a:hover { filter: brightness(1.15); }
 
-/* facility <-> instrument relationship highlight: bright like a selection, but
-   without the filled background, so selected vs related stay distinguishable */
-.chip.rel { border-color: var(--accent); color: var(--ink); }
+/* facility <-> instrument relationship highlight: bright like a selection but
+   with a fainter fill than .on (--chiprel < --chipon), so selected vs related
+   stay distinguishable; dark theme keeps the unfilled look via the fallback */
+.chip.rel { border-color: var(--accent); color: var(--ink);
+  background: var(--chiprel, var(--panel)); }
 
 /* sortable Tonight headers */
 table.mtx th.sortable { cursor: pointer; user-select: none; }
