@@ -107,7 +107,7 @@ internet instead — everything else is the same.)
 ## Current contents (2026-07-09 build) / 当前规模
 
 **466 systems (incl. quasar hosts, embedded Class 0/I protostars, Orion proplyds and
-evolved-star envelopes) · 1483 image records · all with local panels · 68 imaged-companion
+evolved-star envelopes) · 1484 image records · all with local panels · 68 imaged-companion
 hosts · coordinates for every system (SIMBAD idents coordinate-verified) · 0 validation errors.**
 `python3 backend/build.py` prints the canonical live stats — trust its output over any number
 written in prose. Major 2026-07-06/07 expansions: a full instrument-level sweep over every

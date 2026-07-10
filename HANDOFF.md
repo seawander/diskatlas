@@ -17,7 +17,7 @@ SciX** citations. Pure static files — no server, no build step at runtime.
 
 ## Current state (2026-07-09)
 
-- **466 systems · 1483 image records (all with local panels) · full coords · 0 validate
+- **466 systems · 1484 image records (all with local panels) · full coords · 0 validate
   errors** (`python3 backend/build.py` is always canonical). Paper-finder ledger:
   ~565 in-atlas / ~857 explored / ~9915 known-candidate (the "known" pool ballooned
   after adding the backward-reference axis — see below; it is a discovery-frontier
@@ -28,7 +28,7 @@ SciX** citations. Pure static files — no server, no build step at runtime.
 
 ## Session state 2026-07-09 (live log — update on every hand-off)
 
-CURRENT: 466 systems / 1483 image records / 0 errors.
+CURRENT: 466 systems / 1484 image records / 0 errors.
 
 WHAT THE 07-09 CONTINUATION DID (all committed + pushed to master):
 - **Directed multi-figure adds (user-requested, high yield):** Weber+2023 SPHERE/IRDIS
@@ -68,6 +68,15 @@ WHAT THE 07-09 CONTINUATION DID (all committed + pushed to master):
   (4) Morales+2013: title lists the full sample (HD 70313/71722/159492/104860) —
   all four already in the atlas; nothing left. (Fukagawa+2010: user-checked,
   dropped. Padgett+1999: done, 5 panels + 3 new systems.)
+- FINAL burn-down of the remaining top-of-list flags (2026-07-09, list now clean):
+  GQ Lup NACO discovery + AU Mic Keck (Liu 2004) = already in atlas (flags were
+  im-lup/beta-pic name collisions). NGC 1068 VLA = REAL gap → ingested Gallimore
+  1996 Fig. 2 VLA-A 6 cm jet map (ADS scan, no arXiv; skipped the 18 cm Fig. 1 —
+  inset-collage too tangled to crop cleanly). Verified non-imaging and skipped:
+  DG Tau STIS (jet spectroscopy), Keck-Interferometer/PTI visibilities (dg-tau,
+  mwc-297), NIR spectral library (ct-cha/dh-tau/et-cha), [Ne II] spectroscopy
+  (cs-cha/hd-34700), PDS 70 GRAVITY astrometry (no image figure), Natta 2004 VLA
+  Herbig 'search' (photometry), as-218/et-cha ALMA sample-statistics flags.
 
 ## Session state 2026-07-08 (previous log)
 
