@@ -196,10 +196,12 @@ Three parts, three answers:
   `frontend/data.js`): **CC BY 4.0** — see [LICENSE-DATA.md](LICENSE-DATA.md). Cite this
   repository (and the accompanying paper, once published) when reusing.
 - **Images** (`images/**/*.png`): **not** covered by either license. They are
-  low-resolution crops of figures from peer-reviewed journal articles and remain
-  **© the original authors & journals** (AAS, A&A, MNRAS, …), reproduced here with a
-  per-image credit line and full citation for scholarly reference. Follow each record's
-  links (arXiv / SciX / DOI) for the originals and for any reuse permissions.
+  low-resolution crops of figures from peer-reviewed papers — cropped from the
+  **authors' own arXiv source files** (preprint figures), not from the journal-typeset
+  articles. Rights remain **© the original authors** (and the journals for the published
+  versions — AAS, A&A, MNRAS, …); each crop is reproduced here with a per-image credit
+  line and full citation for scholarly reference. Follow each record's links
+  (arXiv / SciX / DOI) for the originals and for any reuse permissions.
 
 ## Current ingestion state / 数据现状
 
