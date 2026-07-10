@@ -55,7 +55,8 @@
     "journal": "AJ (2026)",
     "arxiv": "2604.03767",
     "bibcode": "2026AJ....171..332U"
-   }
+   },
+   "epoch": "2021 May 9"
   },
   {
    "image_id": "hip-53005_nirc2-2024",
@@ -75,7 +76,8 @@
     "arxiv": "2604.03767",
     "bibcode": "2026AJ....171..332U"
    },
-   "file": "images/hip-53005/hip-53005_nirc2-2024.png"
+   "file": "images/hip-53005/hip-53005_nirc2-2024.png",
+   "epoch": "2024 Jan 22"
   }
  ],
  "notes": "Added 2026-07-06. Directly-imaged companion host; coords verified via SIMBAD (2026-07-07 audit).",

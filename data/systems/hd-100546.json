@@ -98,7 +98,8 @@
     "bibcode": "2014ApJ...791L...6W"
    },
    "image_id": "hd-100546_alma2014",
-   "file": "images/hd-100546/hd-100546_alma2014.png"
+   "file": "images/hd-100546/hd-100546_alma2014.png",
+   "epoch": "2012 Nov 18"
   },
   {
    "type": "disk_scattered",
@@ -239,7 +240,8 @@
     "journal": "ApJL 889, L24",
     "arxiv": "1906.06305",
     "bibcode": "2020ApJ...889L..24P"
-   }
+   },
+   "epoch": "2017 Sep"
   },
   {
    "image_id": "hd-100546_sphere-ks-qphi",

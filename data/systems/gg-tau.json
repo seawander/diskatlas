@@ -31,7 +31,8 @@
     "bibcode": "2020A&A...639A..62K"
    },
    "image_id": "gg-tau_sphere2020",
-   "file": "images/gg-tau/gg-tau_sphere2020.png"
+   "file": "images/gg-tau/gg-tau_sphere2020.png",
+   "epoch": "2016 Nov 18"
   },
   {
    "type": "disk_scattered",

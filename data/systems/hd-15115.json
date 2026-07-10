@@ -93,7 +93,8 @@
     "bibcode": "2007ApJ...661L..85K"
    },
    "image_id": "hd-15115_hst2007",
-   "file": "images/hd-15115/hd-15115_hst2007.png"
+   "file": "images/hd-15115/hd-15115_hst2007.png",
+   "epoch": "2007 Jan"
   },
   {
    "type": "disk_mm",
@@ -193,7 +194,8 @@
     "journal": "ApJL",
     "arxiv": "1905.08258",
     "bibcode": "2019ApJ...877L..32M"
-   }
+   },
+   "epoch": "2016 Jan 1"
   },
   {
    "image_id": "hd-15115_alice-f110w",

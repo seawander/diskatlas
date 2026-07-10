@@ -99,7 +99,8 @@
     "bibcode": "2016MNRAS.460L..10B"
    },
    "image_id": "hr-8799_alma2016",
-   "file": "images/hr-8799/hr-8799_alma2016.png"
+   "file": "images/hr-8799/hr-8799_alma2016.png",
+   "epoch": "2015 Jan"
   },
   {
    "type": "planet",
@@ -199,7 +200,8 @@
     "bibcode": "2019A&A...623L..11G"
    },
    "image_id": "hr-8799_gravity2019",
-   "file": "images/hr-8799/hr-8799_gravity2019.png"
+   "file": "images/hr-8799/hr-8799_gravity2019.png",
+   "epoch": "2018 Aug 28"
   },
   {
    "type": "planet",
@@ -340,7 +342,8 @@
     "journal": "Astronomy & Astrophysics",
     "arxiv": "1412.6989",
     "bibcode": "2015A&A...576A.133M"
-   }
+   },
+   "epoch": "2013 Oct"
   },
   {
    "image_id": "hr-8799_charis2022",

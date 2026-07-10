@@ -1,7 +1,9 @@
 {
  "id": "hip-54515",
  "name": "HIP 54515",
- "alt_names": ["HD 96855"],
+ "alt_names": [
+  "HD 96855"
+ ],
  "simbad": "HIP 54515",
  "ra_deg": 167.30691143957,
  "dec_deg": -1.33326001331,
@@ -53,7 +55,8 @@
     "journal": "AJ (2026)",
     "arxiv": "2512.02159",
     "bibcode": "2026AJ....171....5C"
-   }
+   },
+   "epoch": "2022 Dec 30"
   }
  ],
  "notes": "Added 2026-07-06. Directly-imaged companion host; coords pending SIMBAD.",

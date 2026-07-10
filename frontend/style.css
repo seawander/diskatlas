@@ -152,6 +152,8 @@ main { position: fixed; inset: 0; }
 #d_slider .tick.on { color: var(--ink); border-color: var(--accent);
   box-shadow: 0 0 0 1px var(--accent) inset; }
 #d_slider .tick .wl { opacity: .8; }
+#d_slider .tick .yr { font-weight: 600; }
+#d_slider .tick .yr.pub { font-weight: 400; font-style: italic; opacity: .6; }
 
 #d_caption { margin-top: 10px; font-size: 13px; }
 #d_caption .row1 { color: var(--ink); font-weight: 600; }

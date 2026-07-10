@@ -46,7 +46,8 @@
     "bibcode": "2013ApJ...774...11K"
    },
    "image_id": "gj-504_seeds2013",
-   "file": "images/gj-504/gj-504_seeds2013.png"
+   "file": "images/gj-504/gj-504_seeds2013.png",
+   "epoch": "2011 Mar 26"
   },
   {
    "type": "planet",
@@ -66,7 +67,8 @@
     "bibcode": "2018A&A...618A..63B"
    },
    "image_id": "gj-504_sphere2018",
-   "file": "images/gj-504/gj-504_sphere2018.png"
+   "file": "images/gj-504/gj-504_sphere2018.png",
+   "epoch": "2015 May 6"
   },
   {
    "image_id": "gj-504_lbti2016",

@@ -46,7 +46,8 @@
     "bibcode": "2013ApJ...763L..32C"
    },
    "image_id": "kappa-and_seeds2013",
-   "file": "images/kappa-and/kappa-and_seeds2013.png"
+   "file": "images/kappa-and/kappa-and_seeds2013.png",
+   "epoch": "2012 Jan 1"
   },
   {
    "type": "planet",
@@ -66,7 +67,8 @@
     "bibcode": "2018AJ....156..291C"
    },
    "image_id": "kappa-and_scexao2018",
-   "file": "images/kappa-and/kappa-and_scexao2018.png"
+   "file": "images/kappa-and/kappa-and_scexao2018.png",
+   "epoch": "2017 Sep 8"
   },
   {
    "image_id": "kappa-and_nirc22014-ks",
@@ -86,7 +88,8 @@
     "arxiv": "1308.3859",
     "bibcode": "2014A&A...562A.111B"
    },
-   "file": "images/kappa-and/kappa-and_nirc22014-ks.png"
+   "file": "images/kappa-and/kappa-and_nirc22014-ks.png",
+   "epoch": "2012 Nov 3"
   },
   {
    "image_id": "kappa-and_nirc22014-lp",
@@ -106,7 +109,8 @@
     "arxiv": "1308.3859",
     "bibcode": "2014A&A...562A.111B"
    },
-   "file": "images/kappa-and/kappa-and_nirc22014-lp.png"
+   "file": "images/kappa-and/kappa-and_nirc22014-lp.png",
+   "epoch": "2012 Nov 3"
   },
   {
    "image_id": "kappa-and_lbti2014",

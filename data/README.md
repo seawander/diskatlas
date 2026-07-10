@@ -4,7 +4,7 @@ One JSON file per stellar system in `data/systems/<system_id>.json`.
 `frontend/data.js` is compiled from these by `backend/build.py`. **Edit here, never edit data.js.**
 
 
-**Optional `epoch` field** (on image records): the observation date (ISO `YYYY-MM-DD`, or `YYYY Mon DD`, or the year at minimum) — distinct from the publication year. Currently populated where the source figure/caption stated it; `backend/epoch_audit.py` reports coverage and lists records still to backfill from the source observation logs. The viewer appends the epoch year (or, as a fallback, the publication year) to each detail-card chip so duplicate band+instrument labels are distinguishable.
+**Optional `epoch` field** (on image records): the **observation** date (ISO `YYYY-MM-DD`, or `YYYY Mon DD`, or the year at minimum) — the date the data were *taken*, NOT the publication year. Populated from the record's own source paper, matched to that record's instrument (a multi-instrument paper observes different cameras on different nights, so the epoch is per-record): `backend/epoch_picks.py` holds the curated, source-verified picks and applies them (`--apply`); `backend/epoch_audit.py` reports coverage and lists records still to backfill. The viewer shows the observation-epoch year as a **bare** year on each detail-card chip (tooltip gives the full date); where the obs epoch is not yet recorded it shows the publication year in **parentheses** instead — so the two are never conflated and duplicate band+instrument labels stay distinguishable.
 
 ## Inclusion / resolution criterion
 

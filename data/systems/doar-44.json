@@ -71,7 +71,8 @@
     "year": 2018,
     "journal": "MNRAS 477, 5104",
     "title": "An inner warp in the DoAr 44 T Tauri transition disc"
-   }
+   },
+   "epoch": "2016 Mar 15"
   },
   {
    "type": "disk_mm",
@@ -91,7 +92,8 @@
     "year": 2018,
     "journal": "MNRAS 477, 5104",
     "title": "An inner warp in the DoAr 44 T Tauri transition disc"
-   }
+   },
+   "epoch": "2014 Jul 26"
   }
  ],
  "notes": null,

@@ -88,7 +88,8 @@
     "bibcode": "2025ApJ...990L...8V"
    },
    "image_id": "wispit-2_sphere2025",
-   "file": "images/wispit-2/wispit-2_sphere2025.png"
+   "file": "images/wispit-2/wispit-2_sphere2025.png",
+   "epoch": "2023 Oct 19"
   },
   {
    "type": "disk_mm",

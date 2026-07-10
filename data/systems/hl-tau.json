@@ -31,7 +31,8 @@
     "bibcode": "2015ApJ...808L...3A"
    },
    "image_id": "hl-tau_alma2015",
-   "file": "images/hl-tau/hl-tau_alma2015.png"
+   "file": "images/hl-tau/hl-tau_alma2015.png",
+   "epoch": "2014 Oct 14"
   },
   {
    "type": "disk_mm",
@@ -51,7 +52,8 @@
     "journal": "ApJL 808, L3",
     "arxiv": "1503.02649",
     "bibcode": "2015ApJ...808L...3A"
-   }
+   },
+   "epoch": "2014 Oct 14"
   },
   {
    "type": "disk_mm",
@@ -71,7 +73,8 @@
     "journal": "ApJL 808, L3",
     "arxiv": "1503.02649",
     "bibcode": "2015ApJ...808L...3A"
-   }
+   },
+   "epoch": "2014 Oct 14"
   },
   {
    "image_id": "hl-tau_nircam2024-f187n",

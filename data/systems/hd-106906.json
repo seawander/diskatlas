@@ -86,7 +86,8 @@
     "bibcode": "2014ApJ...780L...4B"
    },
    "image_id": "hd-106906_mago2014",
-   "file": "images/hd-106906/hd-106906_mago2014.png"
+   "file": "images/hd-106906/hd-106906_mago2014.png",
+   "epoch": "2013 Apr 7"
   },
   {
    "type": "disk_mm",
@@ -166,7 +167,8 @@
     "arxiv": "2504.13679",
     "bibcode": "2025A&A...698A.113R"
    },
-   "file": "images/hd-106906/hd-106906_jwst-miri-f1140c.png"
+   "file": "images/hd-106906/hd-106906_jwst-miri-f1140c.png",
+   "epoch": "2023 May 16"
   },
   {
    "image_id": "hd-106906_jwst-miri-f1550c",
@@ -186,7 +188,8 @@
     "arxiv": "2504.13679",
     "bibcode": "2025A&A...698A.113R"
    },
-   "file": "images/hd-106906/hd-106906_jwst-miri-f1550c.png"
+   "file": "images/hd-106906/hd-106906_jwst-miri-f1550c.png",
+   "epoch": "2023 May 16"
   },
   {
    "image_id": "hd-106906_acs2015",
@@ -206,7 +209,8 @@
     "journal": "ApJ",
     "arxiv": "1510.02747",
     "bibcode": "2015ApJ...814...32K"
-   }
+   },
+   "epoch": "2004 Dec 1"
   },
   {
    "image_id": "hd-106906_sphere-rdi-xie22",

@@ -101,7 +101,8 @@
     "bibcode": "2011ApJ...729L..17H"
    },
    "image_id": "ab-aur_seeds2011",
-   "file": "images/ab-aur/ab-aur_seeds2011.png"
+   "file": "images/ab-aur/ab-aur_seeds2011.png",
+   "epoch": "2009 Oct 31"
   },
   {
    "type": "disk_scattered",
@@ -121,7 +122,8 @@
     "bibcode": "2020A&A...637L...5B"
    },
    "image_id": "ab-aur_sphere2020",
-   "file": "images/ab-aur/ab-aur_sphere2020.png"
+   "file": "images/ab-aur/ab-aur_sphere2020.png",
+   "epoch": "2019 Dec"
   },
   {
    "type": "planet",
@@ -141,7 +143,8 @@
     "bibcode": "2022NatAs...6..751C"
    },
    "image_id": "ab-aur_scexao2022",
-   "file": "images/ab-aur/ab-aur_scexao2022.png"
+   "file": "images/ab-aur/ab-aur_scexao2022.png",
+   "epoch": "2016 Sep 9"
   },
   {
    "type": "disk_scattered",
@@ -181,7 +184,8 @@
     "journal": "A&A 637, L5",
     "arxiv": "2005.09064",
     "bibcode": "2020A&A...637L...5B"
-   }
+   },
+   "epoch": "2019 Dec"
   },
   {
    "type": "disk_scattered",
@@ -282,7 +286,8 @@
     "arxiv": "1102.4408",
     "bibcode": "2011ApJ...729L..17H"
    },
-   "file": "images/ab-aur/ab-aur_seeds2011-closeup.png"
+   "file": "images/ab-aur/ab-aur_seeds2011-closeup.png",
+   "epoch": "2009 Oct 31"
   },
   {
    "image_id": "ab-aur_alma2024",

@@ -52,7 +52,8 @@
     "bibcode": "2021A&A...648A..73B"
    },
    "image_id": "yses-2_sphere2021",
-   "file": "images/yses-2/yses-2_sphere2021.png"
+   "file": "images/yses-2/yses-2_sphere2021.png",
+   "epoch": "2018 Apr 30"
   }
  ],
  "notes": "Coords decoded from 2MASS id (Bohn+2021). YSES 2b was shown to be a BACKGROUND STAR by differential astrometry (Kenworthy et al. 2025, arXiv 2509.09504); planet status refuted. Discovery image kept for the historical record.",

@@ -41,7 +41,8 @@
     "journal": "arXiv:2510.20216",
     "arxiv": "2510.20216",
     "bibcode": "2025ApJ...995..149P"
-   }
+   },
+   "epoch": "2024 Jun 14"
   }
  ],
  "notes": "Added 2026-07-06 (known_missing triage). Coordinates pending next host SIMBAD run.",

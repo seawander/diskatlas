@@ -68,7 +68,8 @@
     "bibcode": "2018ApJ...860..124D"
    },
    "image_id": "mwc-758_alma2018",
-   "file": "images/mwc-758/mwc-758_alma2018.png"
+   "file": "images/mwc-758/mwc-758_alma2018.png",
+   "epoch": "2017 Nov 12"
   },
   {
    "type": "disk_scattered",
@@ -148,7 +149,8 @@
     "journal": "ApJ 762, 48",
     "arxiv": "1212.1466",
     "bibcode": "2013ApJ...762...48G"
-   }
+   },
+   "epoch": "2012 Mar 11"
   },
   {
    "image_id": "mwc-758_alice-f110w",
@@ -209,7 +211,8 @@
     "journal": "The Astronomical Journal",
     "arxiv": "2401.02830",
     "bibcode": "2024AJ....167..181W"
-   }
+   },
+   "epoch": "2022 Sep 30"
   },
   {
    "image_id": "mwc-758_lbti2019-lp",

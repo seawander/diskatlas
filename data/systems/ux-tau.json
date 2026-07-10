@@ -54,7 +54,8 @@
     "journal": "PASJ 64, 124",
     "arxiv": "1206.1215",
     "bibcode": "2012PASJ...64..124T"
-   }
+   },
+   "epoch": "2009 Dec 23"
   },
   {
    "image_id": "ux-tau_sphere-menard2020-j",
@@ -74,7 +75,8 @@
     "journal": "A&A Letters 639, L1",
     "arxiv": "2006.02439",
     "bibcode": "2020A&A...639L...1M"
-   }
+   },
+   "epoch": "2017 Oct 6"
   },
   {
    "image_id": "ux-tau_sphere-rdi-xie22",
@@ -114,7 +116,8 @@
     "journal": "A&A Letters 639, L1",
     "arxiv": "2006.02439",
     "bibcode": "2020A&A...639L...1M"
-   }
+   },
+   "epoch": "2016 Aug 10"
   }
  ],
  "notes": null,

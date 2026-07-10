@@ -37,7 +37,8 @@
     "bibcode": "2024ApJ...977..277S"
    },
    "image_id": "vega_jwst2024",
-   "file": "images/vega/vega_jwst2024.png"
+   "file": "images/vega/vega_jwst2024.png",
+   "epoch": "2023 Aug 18"
   },
   {
    "type": "disk_mm",
@@ -77,7 +78,8 @@
     "journal": "ApJ 977, 277",
     "arxiv": "2410.23636",
     "bibcode": "2024ApJ...977..277S"
-   }
+   },
+   "epoch": "2023 Aug 18"
   },
   {
    "image_id": "vega_hst2024",

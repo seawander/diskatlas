@@ -80,7 +80,8 @@
     "bibcode": "2017ApJ...842....8M"
    },
    "image_id": "fomalhaut_alma2017",
-   "file": "images/fomalhaut/fomalhaut_alma2017.png"
+   "file": "images/fomalhaut/fomalhaut_alma2017.png",
+   "epoch": "2015 Dec 29"
   },
   {
    "type": "disk_mm",
@@ -100,7 +101,8 @@
     "bibcode": "2023NatAs...7..790G"
    },
    "image_id": "fomalhaut_jwst2023",
-   "file": "images/fomalhaut/fomalhaut_jwst2023.png"
+   "file": "images/fomalhaut/fomalhaut_jwst2023.png",
+   "epoch": "2022 Oct 22"
   },
   {
    "type": "disk_scattered",
@@ -140,7 +142,8 @@
     "bibcode": "2008Sci...322.1345K"
    },
    "image_id": "fomalhaut_acs2008",
-   "file": "images/fomalhaut/fomalhaut_acs2008.png"
+   "file": "images/fomalhaut/fomalhaut_acs2008.png",
+   "epoch": "2004 Oct 25"
   },
   {
    "type": "disk_mm",
@@ -160,7 +163,8 @@
     "journal": "Nature Astronomy 7, 790",
     "arxiv": "2305.03789",
     "bibcode": "2023NatAs...7..790G"
-   }
+   },
+   "epoch": "2022 Oct 22"
   },
   {
    "type": "disk_mm",
@@ -180,7 +184,8 @@
     "journal": "Nature Astronomy 7, 790",
     "arxiv": "2305.03789",
     "bibcode": "2023NatAs...7..790G"
-   }
+   },
+   "epoch": "2022 Oct 22"
   },
   {
    "image_id": "fomalhaut_stis2013",

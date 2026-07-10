@@ -53,7 +53,8 @@
     "journal": "ApJ 930, 11",
     "arxiv": "2204.00640",
     "bibcode": "2022ApJ...930...11V"
-   }
+   },
+   "epoch": "2019 Jun 8"
   },
   {
    "type": "disk_mm",
@@ -73,7 +74,8 @@
     "journal": "ApJ 930, 11",
     "arxiv": "2204.00640",
     "bibcode": "2022ApJ...930...11V"
-   }
+   },
+   "epoch": "2019 Jun 8"
   },
   {
    "image_id": "oph-163131_jwst2024",
@@ -93,7 +95,8 @@
     "journal": "ApJ 975, 235",
     "arxiv": "2410.00156",
     "bibcode": "2024ApJ...975..235V"
-   }
+   },
+   "epoch": "2023 Mar 7"
   },
   {
    "image_id": "oph-163131_hst2021",

@@ -66,7 +66,8 @@
     "bibcode": "2023ApJ...950L..19F"
    },
    "image_id": "af-lep_sphere2023",
-   "file": "images/af-lep/af-lep_sphere2023.png"
+   "file": "images/af-lep/af-lep_sphere2023.png",
+   "epoch": "2021 Dec 21"
   },
   {
    "type": "planet",
@@ -107,7 +108,8 @@
     "bibcode": "2023A&A...672A..94D"
    },
    "image_id": "af-lep_sphere2023-derosa",
-   "file": "images/af-lep/af-lep_sphere2023-derosa.png"
+   "file": "images/af-lep/af-lep_sphere2023-derosa.png",
+   "epoch": "2022 Oct 20"
   },
   {
    "type": "planet",

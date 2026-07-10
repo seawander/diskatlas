@@ -55,7 +55,8 @@
     "arxiv": "1809.10254",
     "bibcode": "2019A&A...625A.100R"
    },
-   "file": "images/ngc-1068/ngc-1068_sphere2019-ks.png"
+   "file": "images/ngc-1068/ngc-1068_sphere2019-ks.png",
+   "epoch": "2014 Dec"
   },
   {
    "image_id": "ngc-1068_sphere2019-h",
@@ -75,7 +76,8 @@
     "arxiv": "1809.10254",
     "bibcode": "2019A&A...625A.100R"
    },
-   "file": "images/ngc-1068/ngc-1068_sphere2019-h.png"
+   "file": "images/ngc-1068/ngc-1068_sphere2019-h.png",
+   "epoch": "2014 Dec"
   },
   {
    "image_id": "ngc-1068_sphere2021",
@@ -95,7 +97,8 @@
     "journal": "A&A 648, A42",
     "arxiv": "2102.06339",
     "bibcode": "2021A&A...648A..42G"
-   }
+   },
+   "epoch": "2016 Sep"
   },
   {
    "image_id": "ngc-1068_gravity2020",
@@ -115,7 +118,8 @@
     "journal": "Astronomy & Astrophysics",
     "arxiv": "1912.01361",
     "bibcode": "2020A&A...634A...1G"
-   }
+   },
+   "epoch": "2018 Nov 20"
   },
   {
    "image_id": "ngc-1068_alma2016",

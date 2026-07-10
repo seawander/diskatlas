@@ -48,7 +48,8 @@
     "bibcode": "2024Natur.633..789M"
    },
    "image_id": "eps-ind-a_jwst2024",
-   "file": "images/eps-ind-a/eps-ind-a_jwst2024.png"
+   "file": "images/eps-ind-a/eps-ind-a_jwst2024.png",
+   "epoch": "2023 Jul 3"
   },
   {
    "image_id": "eps-ind-a_jwst2026",
@@ -68,7 +69,8 @@
     "journal": "ApJL (accepted)",
     "arxiv": "2603.08780",
     "bibcode": "2026arXiv260308780M"
-   }
+   },
+   "epoch": "2025 May 10"
   }
  ],
  "notes": null,

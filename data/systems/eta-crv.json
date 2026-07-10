@@ -56,7 +56,8 @@
     "bibcode": "2017MNRAS.465.2595M"
    },
    "image_id": "eta-crv_alma2017",
-   "file": "images/eta-crv/eta-crv_alma2017.png"
+   "file": "images/eta-crv/eta-crv_alma2017.png",
+   "epoch": "2013 Dec 15"
   },
   {
    "image_id": "eta-crv_alice-f160w",

@@ -44,7 +44,8 @@
     "bibcode": "2008A&A...491..311S"
    },
    "image_id": "ct-cha_naco2008",
-   "file": "images/ct-cha/ct-cha_naco2008.png"
+   "file": "images/ct-cha/ct-cha_naco2008.png",
+   "epoch": "2006 Feb 17"
   },
   {
    "type": "disk_scattered",

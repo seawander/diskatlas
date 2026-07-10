@@ -115,7 +115,8 @@
     "journal": "MNRAS 484, 1257",
     "arxiv": "1901.01406",
     "bibcode": "2019MNRAS.484.1257M"
-   }
+   },
+   "epoch": "2016 Dec 18"
   },
   {
    "image_id": "hd-92945_alice-f110w",
@@ -176,7 +177,8 @@
     "journal": "A&A (2025, accepted)",
     "arxiv": "2511.07561",
     "bibcode": "2025A&A...704A.176L"
-   }
+   },
+   "epoch": "2024 May 20"
   }
  ],
  "notes": null,

@@ -63,7 +63,8 @@
     "arxiv": "2208.14990",
     "bibcode": "2023ApJ...951L..20C"
    },
-   "file": "images/hip-65426/hip-65426_jwst2023-f250m.png"
+   "file": "images/hip-65426/hip-65426_jwst2023-f250m.png",
+   "epoch": "2022"
   },
   {
    "image_id": "hip-65426_jwst2023-f300m",
@@ -83,7 +84,8 @@
     "arxiv": "2208.14990",
     "bibcode": "2023ApJ...951L..20C"
    },
-   "file": "images/hip-65426/hip-65426_jwst2023-f300m.png"
+   "file": "images/hip-65426/hip-65426_jwst2023-f300m.png",
+   "epoch": "2022"
   },
   {
    "image_id": "hip-65426_jwst2023-f356w",
@@ -103,7 +105,8 @@
     "arxiv": "2208.14990",
     "bibcode": "2023ApJ...951L..20C"
    },
-   "file": "images/hip-65426/hip-65426_jwst2023-f356w.png"
+   "file": "images/hip-65426/hip-65426_jwst2023-f356w.png",
+   "epoch": "2022"
   },
   {
    "image_id": "hip-65426_jwst2023-f410m",
@@ -123,7 +126,8 @@
     "arxiv": "2208.14990",
     "bibcode": "2023ApJ...951L..20C"
    },
-   "file": "images/hip-65426/hip-65426_jwst2023-f410m.png"
+   "file": "images/hip-65426/hip-65426_jwst2023-f410m.png",
+   "epoch": "2022"
   },
   {
    "image_id": "hip-65426_jwst2023-f444w",
@@ -143,7 +147,8 @@
     "arxiv": "2208.14990",
     "bibcode": "2023ApJ...951L..20C"
    },
-   "file": "images/hip-65426/hip-65426_jwst2023-f444w.png"
+   "file": "images/hip-65426/hip-65426_jwst2023-f444w.png",
+   "epoch": "2022"
   },
   {
    "image_id": "hip-65426_jwst2023-f1550c",
@@ -163,7 +168,8 @@
     "arxiv": "2208.14990",
     "bibcode": "2023ApJ...951L..20C"
    },
-   "file": "images/hip-65426/hip-65426_jwst2023-f1550c.png"
+   "file": "images/hip-65426/hip-65426_jwst2023-f1550c.png",
+   "epoch": "2022"
   },
   {
    "type": "planet",
@@ -183,7 +189,8 @@
     "journal": "ApJL 951, L20",
     "arxiv": "2208.14990",
     "bibcode": "2023ApJ...951L..20C"
-   }
+   },
+   "epoch": "2022"
   },
   {
    "image_id": "hip-65426_naco2019-lp",

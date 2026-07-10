@@ -138,7 +138,8 @@
     "bibcode": "2014Sci...343.1490D"
    },
    "image_id": "beta-pic_alma2014",
-   "file": "images/beta-pic/beta-pic_alma2014.png"
+   "file": "images/beta-pic/beta-pic_alma2014.png",
+   "epoch": "2012 Nov 16"
   },
   {
    "type": "disk_scattered",
@@ -158,7 +159,8 @@
     "bibcode": "2015ApJ...811...18M"
    },
    "image_id": "beta-pic_gpi2015",
-   "file": "images/beta-pic/beta-pic_gpi2015.png"
+   "file": "images/beta-pic/beta-pic_gpi2015.png",
+   "epoch": "2013 Dec 12"
   },
   {
    "type": "planet",
@@ -178,7 +180,8 @@
     "bibcode": "2010Sci...329...57L"
    },
    "image_id": "beta-pic_naco2010",
-   "file": "images/beta-pic/beta-pic_naco2010.png"
+   "file": "images/beta-pic/beta-pic_naco2010.png",
+   "epoch": "2009 Oct"
   },
   {
    "type": "disk_mm",
@@ -400,7 +403,8 @@
     "arxiv": "2401.05271",
     "bibcode": "2024AJ....167...69R"
    },
-   "file": "images/beta-pic/beta-pic_jwst-nircam-f182m.png"
+   "file": "images/beta-pic/beta-pic_jwst-nircam-f182m.png",
+   "epoch": "2023 Mar 18"
   },
   {
    "image_id": "beta-pic_jwst-nircam-f210m",
@@ -420,7 +424,8 @@
     "arxiv": "2401.05271",
     "bibcode": "2024AJ....167...69R"
    },
-   "file": "images/beta-pic/beta-pic_jwst-nircam-f210m.png"
+   "file": "images/beta-pic/beta-pic_jwst-nircam-f210m.png",
+   "epoch": "2023 Mar 18"
   },
   {
    "image_id": "beta-pic_jwst-nircam-f250m",
@@ -440,7 +445,8 @@
     "arxiv": "2401.05271",
     "bibcode": "2024AJ....167...69R"
    },
-   "file": "images/beta-pic/beta-pic_jwst-nircam-f250m.png"
+   "file": "images/beta-pic/beta-pic_jwst-nircam-f250m.png",
+   "epoch": "2023 Mar 18"
   },
   {
    "image_id": "beta-pic_jwst-nircam-f300m",
@@ -460,7 +466,8 @@
     "arxiv": "2401.05271",
     "bibcode": "2024AJ....167...69R"
    },
-   "file": "images/beta-pic/beta-pic_jwst-nircam-f300m.png"
+   "file": "images/beta-pic/beta-pic_jwst-nircam-f300m.png",
+   "epoch": "2023 Mar 18"
   },
   {
    "image_id": "beta-pic_jwst-nircam-f335m",
@@ -480,7 +487,8 @@
     "arxiv": "2401.05271",
     "bibcode": "2024AJ....167...69R"
    },
-   "file": "images/beta-pic/beta-pic_jwst-nircam-f335m.png"
+   "file": "images/beta-pic/beta-pic_jwst-nircam-f335m.png",
+   "epoch": "2023 Mar 18"
   },
   {
    "image_id": "beta-pic_jwst-nircam-f444w",
@@ -500,7 +508,8 @@
     "arxiv": "2401.05271",
     "bibcode": "2024AJ....167...69R"
    },
-   "file": "images/beta-pic/beta-pic_jwst-nircam-f444w.png"
+   "file": "images/beta-pic/beta-pic_jwst-nircam-f444w.png",
+   "epoch": "2023 Mar 18"
   },
   {
    "image_id": "beta-pic_jwst-miri",
@@ -520,7 +529,8 @@
     "journal": "AJ 167, 69",
     "arxiv": "2401.05271",
     "bibcode": "2024AJ....167...69R"
-   }
+   },
+   "epoch": "2022 Dec 13"
   },
   {
    "image_id": "beta-pic_acs2006_b",

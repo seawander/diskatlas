@@ -31,7 +31,8 @@
     "journal": "ApJ 767, 10",
     "arxiv": "1302.5705",
     "bibcode": "2013ApJ...767...10F"
-   }
+   },
+   "epoch": "2011 Mar 29"
   },
   {
    "image_id": "sr-21_sphere2020",
@@ -91,7 +92,8 @@
     "journal": "AJ (2020)",
     "arxiv": "2011.00044",
     "bibcode": "2020AJ....160..283U"
-   }
+   },
+   "epoch": "2020 May 31"
   },
   {
    "image_id": "sr-21_alma2015",

@@ -54,7 +54,8 @@
     "bibcode": "2021ApJ...916L...2B"
    },
    "image_id": "pds-70_alma2021",
-   "file": "images/pds-70/pds-70_alma2021.png"
+   "file": "images/pds-70/pds-70_alma2021.png",
+   "epoch": "2019 Jul 27"
   },
   {
    "type": "disk_scattered",
@@ -74,7 +75,8 @@
     "bibcode": "2018A&A...617A..44K"
    },
    "image_id": "pds-70_sphere2018",
-   "file": "images/pds-70/pds-70_sphere2018.png"
+   "file": "images/pds-70/pds-70_sphere2018.png",
+   "epoch": "2016 Mar 25"
   },
   {
    "type": "planet",
@@ -94,7 +96,8 @@
     "bibcode": "2019NatAs...3..749H"
    },
    "image_id": "pds-70_muse2019",
-   "file": "images/pds-70/pds-70_muse2019.png"
+   "file": "images/pds-70/pds-70_muse2019.png",
+   "epoch": "2018 Jun 20"
   },
   {
    "type": "planet",
@@ -154,7 +157,8 @@
     "journal": "ApJL 758, L19",
     "arxiv": "1208.2075",
     "bibcode": "2012ApJ...758L..19H"
-   }
+   },
+   "epoch": "2012 Feb 28"
   },
   {
    "image_id": "pds-70_keck2020",
@@ -174,7 +178,8 @@
     "journal": "AJ 159, 263",
     "arxiv": "2004.09597",
     "bibcode": "2020AJ....159..263W"
-   }
+   },
+   "epoch": "2019 Jun 8"
   },
   {
    "type": "disk_scattered",

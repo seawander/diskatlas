@@ -94,7 +94,8 @@
     "bibcode": "2016A&A...591A.108O"
    },
    "image_id": "hd-61005_sphere2016",
-   "file": "images/hd-61005/hd-61005_sphere2016.png"
+   "file": "images/hd-61005/hd-61005_sphere2016.png",
+   "epoch": "2015 May 1"
   },
   {
    "type": "disk_mm",

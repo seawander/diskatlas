@@ -818,11 +818,14 @@ if (typeof window !== "undefined") (function () {
 
   function shortFac(f) { return (f || "?").replace("VLT-", "").replace("Gemini-", "").replace("Subaru-", ""); }
 
-  /* observation-epoch year if recorded, else the publication year — appended to
-     each chip so duplicate "1.6um NICMOS" labels are distinguishable. */
-  function imgYear(im) {
-    if (im.epoch) { const m = String(im.epoch).match(/(19|20)\d\d/); if (m) return m[0]; }
-    return im.paper && im.paper.year ? String(im.paper.year) : "";
+  /* The OBSERVATION epoch (im.epoch) is the meaningful disambiguator. It is only
+     shown as a bare year. The publication year is NOT an observation epoch, so when
+     the obs epoch is not (yet) recorded we show the pub year in parentheses to make
+     the distinction explicit — "2015" = observed 2015, "(2018)" = published 2018. */
+  function imgYearTag(im) {
+    if (im.epoch) { const m = String(im.epoch).match(/(19|20)\d\d/); if (m) return { y: m[0], obs: true }; }
+    const py = im.paper && im.paper.year ? String(im.paper.year) : "";
+    return py ? { y: py, obs: false } : null;
   }
   function buildSlider(s) {
     const sl = document.getElementById("d_slider");
@@ -830,11 +833,12 @@ if (typeof window !== "undefined") (function () {
     sortedImages(s).forEach((im, i) => {
       const t = document.createElement("span");
       t.className = "tick";
-      const yr = imgYear(im);
+      const yt = imgYearTag(im);
       t.innerHTML = '<span class="wl">' + fmtWl(im.wavelength_um) + "</span> "
         + esc((im.instr_key && im.instr_key !== "other") ? im.instr_key : shortFac(im.facility))
-        + (yr ? ' <span class="yr">' + esc(yr) + "</span>" : "");
-      t.title = (im.epoch ? "epoch " + im.epoch : "published " + (im.paper ? im.paper.year : "?"));
+        + (yt ? ' <span class="yr' + (yt.obs ? "" : " pub") + '">' + (yt.obs ? esc(yt.y) : "(" + esc(yt.y) + ")") + "</span>" : "");
+      t.title = yt ? (yt.obs ? "observation epoch " + im.epoch
+                             : "published " + yt.y + " (observation epoch not recorded)") : "";
       t.onclick = () => showImg(i);
       sl.appendChild(t);
     });
