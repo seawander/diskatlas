@@ -750,10 +750,32 @@
    },
    "file": "images/beta-pic/beta-pic_magao-clio2015.png",
    "epoch": "2012"
+  },
+  {
+   "image_id": "beta-pic_near2023",
+   "type": "disk_mm",
+   "facility": "VLT",
+   "instrument": "NEAR/VISIR",
+   "wavelength_um": 11.25,
+   "wavelength_label": "10-12.5 um thermal (NEAR; ClasImg + PCA reductions, clumps C1-C4)",
+   "technique": "ADI",
+   "survey": null,
+   "file": "images/beta-pic/beta-pic_near2023.png",
+   "credit": "Skaf et al. 2023, Fig. 1 (crop)",
+   "note": "single figure unit: ClasImg (top) and PCA (bottom) reductions of the same NEAR dataset; clump arrows span both panels",
+   "paper": {
+    "first_author": "Skaf",
+    "year": 2023,
+    "title": "The beta Pictoris system: Setting constraints on the planet and the disk structures at mid-IR wavelengths with NEAR",
+    "journal": "A&A 675, A35",
+    "arxiv": "2303.15155",
+    "bibcode": "2023A&A...675A..35S"
+   },
+   "epoch": "2019-12-15"
   }
  ],
  "notes": "Original 1984 discovery image (Smith & Terrile, Las Campanas coronagraph) predates arXiv; add if desired.",
- "last_updated": "2026-07-08",
+ "last_updated": "2026-07-10",
  "plx_mas": 50.9307,
  "mags": {
   "U": 4.13,

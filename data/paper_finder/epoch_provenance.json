@@ -7156,5 +7156,11 @@
   "source": "hsa:hsa",
   "arxiv": "2302.07057",
   "snippet": "single Herschel observation of HD 121617 at HSA: 2013-01-29"
+ },
+ "beta-pic_near2023": {
+  "epoch": "2019-12-15",
+  "source": "tex:ingestion",
+  "arxiv": "2303.15155",
+  "snippet": "in-image labels: 'ClasImg/PCA - NEAR - 15 Dec. 2019'; paper: two nights in December 2019"
  }
 }
