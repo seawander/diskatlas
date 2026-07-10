@@ -1,6 +1,1549 @@
 {
- "flagged": [],
- "n_ok": 1,
- "n_total": 1,
+ "flagged": [
+  {
+   "system": "1rxs-j1609",
+   "image_id": "1rxs-j1609_gemini2010",
+   "file": "images/1rxs-j1609/1rxs-j1609_gemini2010.png",
+   "ar": 1.03,
+   "flags": [
+    "GUTTER_EDGE:B(white)"
+   ]
+  },
+  {
+   "system": "2m1207",
+   "image_id": "2m1207_miri2025",
+   "file": "images/2m1207/2m1207_miri2025.png",
+   "ar": 4.4,
+   "flags": [
+    "GUTTER_EDGE:T(white)"
+   ]
+  },
+  {
+   "system": "2mass-j04414489",
+   "image_id": "2mass-j04414489_hst2010",
+   "file": "images/2mass-j04414489/2mass-j04414489_hst2010.png",
+   "ar": 1.0,
+   "flags": [
+    "GUTTER_EDGE:R(white)",
+    "MULTIPANEL:Hdiv@237/479"
+   ]
+  },
+  {
+   "system": "2mass-j16064794-1841437",
+   "image_id": "2mass-j16064794-1841437_nircensus",
+   "file": "images/2mass-j16064794-1841437/2mass-j16064794-1841437_nircensus.png",
+   "ar": 1.0,
+   "flags": [
+    "GUTTER_EDGE:B(white)"
+   ]
+  },
+  {
+   "system": "2mass-j16083070-3828268",
+   "image_id": "2mass-j16083070-3828268_sphere2019",
+   "file": "images/2mass-j16083070-3828268/2mass-j16083070-3828268_sphere2019.png",
+   "ar": 1.05,
+   "flags": [
+    "GUTTER_EDGE:R(white)"
+   ]
+  },
+  {
+   "system": "3c-273",
+   "image_id": "3c-273_alma-band3",
+   "file": "images/3c-273/3c-273_alma-band3.png",
+   "ar": 1.0,
+   "flags": [
+    "GUTTER_EDGE:L(black)"
+   ]
+  },
+  {
+   "system": "3c-273",
+   "image_id": "3c-273_alma-band7",
+   "file": "images/3c-273/3c-273_alma-band7.png",
+   "ar": 1.0,
+   "flags": [
+    "GUTTER_EDGE:B(black)"
+   ]
+  },
+  {
+   "system": "ac-her",
+   "image_id": "ac-her_sphere_irdis",
+   "file": "images/ac-her/ac-her_sphere_irdis.png",
+   "ar": 1.0,
+   "flags": [
+    "GUTTER_EDGE:T(black)"
+   ]
+  },
+  {
+   "system": "af-lep",
+   "image_id": "af-lep_sphere2023",
+   "file": "images/af-lep/af-lep_sphere2023.png",
+   "ar": 1.05,
+   "flags": [
+    "GUTTER_EDGE:L(white)",
+    "GUTTER_EDGE:R(black)"
+   ]
+  },
+  {
+   "system": "af-lep",
+   "image_id": "af-lep_sphere2023-derosa",
+   "file": "images/af-lep/af-lep_sphere2023-derosa.png",
+   "ar": 1.0,
+   "flags": [
+    "GUTTER_EDGE:L(white)"
+   ]
+  },
+  {
+   "system": "af-lep",
+   "image_id": "af-lep_naco2011-4s",
+   "file": "images/af-lep/af-lep_naco2011-4s.png",
+   "ar": 1.0,
+   "flags": [
+    "GUTTER_EDGE:T(white)"
+   ]
+  },
+  {
+   "system": "ak-sco",
+   "image_id": "ak-sco_sphere-rdi-xie22",
+   "file": "images/ak-sco/ak-sco_sphere-rdi-xie22.png",
+   "ar": 1.0,
+   "flags": [
+    "GUTTER_EDGE:B(black)",
+    "GUTTER_EDGE:R(white)"
+   ]
+  },
+  {
+   "system": "as-209",
+   "image_id": "as-209_alma_polarization",
+   "file": "images/as-209/as-209_alma_polarization.png",
+   "ar": 1.06,
+   "flags": [
+    "GUTTER_EDGE:R(white)"
+   ]
+  },
+  {
+   "system": "au-mic",
+   "image_id": "au-mic_alma2013",
+   "file": "images/au-mic/au-mic_alma2013.png",
+   "ar": 0.99,
+   "flags": [
+    "GUTTER_EDGE:T(black)"
+   ]
+  },
+  {
+   "system": "au-mic",
+   "image_id": "au-mic_stis-schneider14",
+   "file": "images/au-mic/au-mic_stis-schneider14.png",
+   "ar": 5.16,
+   "flags": [
+    "GUTTER_EDGE:R(black)"
+   ]
+  },
+  {
+   "system": "bd45598",
+   "image_id": "bd45598_charis2024",
+   "file": "images/bd45598/bd45598_charis2024.png",
+   "ar": 2.47,
+   "flags": [
+    "GUTTER_EDGE:R(white)"
+   ]
+  },
+  {
+   "system": "beta-pic",
+   "image_id": "beta-pic_smith1984",
+   "file": "images/beta-pic/beta-pic_smith1984.png",
+   "ar": 1.31,
+   "flags": [
+    "GUTTER_EDGE:L(white)"
+   ]
+  },
+  {
+   "system": "beta-pic",
+   "image_id": "beta-pic_planetd2026",
+   "file": "images/beta-pic/beta-pic_planetd2026.png",
+   "ar": 1.51,
+   "flags": [
+    "MULTIPANEL:Vdiv@160/480",
+    "MULTIPANEL:Hdiv@157/317"
+   ]
+  },
+  {
+   "system": "bhr71-irs1",
+   "image_id": "bhr71-irs1_edisk",
+   "file": "images/bhr71-irs1/bhr71-irs1_edisk.png",
+   "ar": 1.01,
+   "flags": [
+    "GUTTER_EDGE:T(white)"
+   ]
+  },
+  {
+   "system": "bhr71-irs2",
+   "image_id": "bhr71-irs2_edisk",
+   "file": "images/bhr71-irs2/bhr71-irs2_edisk.png",
+   "ar": 0.99,
+   "flags": [
+    "GUTTER_EDGE:T(white)"
+   ]
+  },
+  {
+   "system": "cb-26",
+   "image_id": "cb-26_pdbi1p3mm",
+   "file": "images/cb-26/cb-26_pdbi1p3mm.png",
+   "ar": 1.03,
+   "flags": [
+    "GUTTER_EDGE:B(black)"
+   ]
+  },
+  {
+   "system": "ced110-irs4",
+   "image_id": "ced110-irs4_edisk",
+   "file": "images/ced110-irs4/ced110-irs4_edisk.png",
+   "ar": 1.0,
+   "flags": [
+    "GUTTER_EDGE:B(black)"
+   ]
+  },
+  {
+   "system": "coconuts-1",
+   "image_id": "coconuts-1_discovery2020",
+   "file": "images/coconuts-1/coconuts-1_discovery2020.png",
+   "ar": 0.99,
+   "flags": [
+    "GUTTER_EDGE:T(black)"
+   ]
+  },
+  {
+   "system": "cq-tau",
+   "image_id": "cq-tau_keck-vortex-2024",
+   "file": "images/cq-tau/cq-tau_keck-vortex-2024.png",
+   "ar": 1.01,
+   "flags": [
+    "GUTTER_EDGE:L(white)"
+   ]
+  },
+  {
+   "system": "dm-tau",
+   "image_id": "dm-tau_hashimoto2021-band6",
+   "file": "images/dm-tau/dm-tau_hashimoto2021.png",
+   "ar": 1.18,
+   "flags": [
+    "GUTTER_EDGE:R(white)"
+   ]
+  },
+  {
+   "system": "doar-28",
+   "image_id": "doar-28_nircensus",
+   "file": "images/doar-28/doar-28_nircensus.png",
+   "ar": 1.0,
+   "flags": [
+    "GUTTER_EDGE:B(white)"
+   ]
+  },
+  {
+   "system": "doar-28",
+   "image_id": "doar-28_hiciao2014",
+   "file": "images/doar-28/doar-28_hiciao2014.png",
+   "ar": 1.02,
+   "flags": [
+    "GUTTER_EDGE:T(white)"
+   ]
+  },
+  {
+   "system": "doar-44",
+   "image_id": "doar-44_dartts-s",
+   "file": "images/doar-44/doar-44_dartts-s.png",
+   "ar": 1.0,
+   "flags": [
+    "GUTTER_EDGE:T(white)"
+   ]
+  },
+  {
+   "system": "elias-2-32",
+   "image_id": "elias-2-32_agepro",
+   "file": "images/elias-2-32/elias-2-32_agepro.png",
+   "ar": 1.02,
+   "flags": [
+    "GUTTER_EDGE:R(white)"
+   ]
+  },
+  {
+   "system": "et-cha",
+   "image_id": "et-cha_sphere2020",
+   "file": "images/et-cha/et-cha_sphere2020.png",
+   "ar": 1.05,
+   "flags": [
+    "GUTTER_EDGE:R(white)"
+   ]
+  },
+  {
+   "system": "eta-crv",
+   "image_id": "eta-crv_herschel2014",
+   "file": "images/eta-crv/eta-crv_herschel2014.png",
+   "ar": 1.05,
+   "flags": [
+    "GUTTER_EDGE:T(white)"
+   ]
+  },
+  {
+   "system": "ex-lup",
+   "image_id": "ex-lup_zurlo2024",
+   "file": "images/ex-lup/ex-lup_zurlo2024.png",
+   "ar": 1.01,
+   "flags": [
+    "GUTTER_EDGE:L(black)"
+   ]
+  },
+  {
+   "system": "flying-saucer",
+   "image_id": "flying-saucer_isaac2003",
+   "file": "images/flying-saucer/flying-saucer_isaac2003.png",
+   "ar": 1.08,
+   "flags": [
+    "GUTTER_EDGE:R(white)"
+   ]
+  },
+  {
+   "system": "fomalhaut",
+   "image_id": "fomalhaut_alma2017",
+   "file": "images/fomalhaut/fomalhaut_alma2017.png",
+   "ar": 0.91,
+   "flags": [
+    "GUTTER_EDGE:R(black)"
+   ]
+  },
+  {
+   "system": "fomalhaut",
+   "image_id": "fomalhaut_herschel2012",
+   "file": "images/fomalhaut/fomalhaut_herschel2012.png",
+   "ar": 0.97,
+   "flags": [
+    "GUTTER_EDGE:R(black)"
+   ]
+  },
+  {
+   "system": "gg-tau",
+   "image_id": "gg-tau_acs2005_i",
+   "file": "images/gg-tau/gg-tau_acs2005_i.png",
+   "ar": 0.91,
+   "flags": [
+    "GUTTER_EDGE:B(white)"
+   ]
+  },
+  {
+   "system": "gm-aur",
+   "image_id": "gm-aur_nicmos2003",
+   "file": "images/gm-aur/gm-aur_nicmos2003.png",
+   "ar": 0.88,
+   "flags": [
+    "GUTTER_EDGE:T(white)"
+   ]
+  },
+  {
+   "system": "gm-aur",
+   "image_id": "gm-aur_alma-maps2021",
+   "file": "images/gm-aur/gm-aur_alma-maps2021.png",
+   "ar": 1.07,
+   "flags": [
+    "GUTTER_EDGE:T(white)"
+   ]
+  },
+  {
+   "system": "gm-aur",
+   "image_id": "gm-aur_sma2009",
+   "file": "images/gm-aur/gm-aur_sma2009.png",
+   "ar": 1.15,
+   "flags": [
+    "GUTTER_EDGE:T(black)"
+   ]
+  },
+  {
+   "system": "gq-lup",
+   "image_id": "gq-lup_miri-mrs2024",
+   "file": "images/gq-lup/gq-lup_miri-mrs2024.png",
+   "ar": 2.03,
+   "flags": [
+    "GUTTER_EDGE:B(black)"
+   ]
+  },
+  {
+   "system": "gsc-07396-00759",
+   "image_id": "gsc-07396-00759_sphere-rdi-xie22",
+   "file": "images/gsc-07396-00759/gsc-07396-00759_sphere-rdi-xie22.png",
+   "ar": 1.01,
+   "flags": [
+    "GUTTER_EDGE:B(white)"
+   ]
+  },
+  {
+   "system": "gsc-6214-210",
+   "image_id": "gsc-6214-210_keck2011",
+   "file": "images/gsc-6214-210/gsc-6214-210_keck2011.png",
+   "ar": 0.93,
+   "flags": [
+    "GUTTER_EDGE:T(black)"
+   ]
+  },
+  {
+   "system": "gss30-irs3",
+   "image_id": "gss30-irs3_edisk",
+   "file": "images/gss30-irs3/gss30-irs3_edisk.png",
+   "ar": 1.0,
+   "flags": [
+    "GUTTER_EDGE:B(black)"
+   ]
+  },
+  {
+   "system": "gy-21",
+   "image_id": "gy-21_alma-agepro",
+   "file": "images/gy-21/gy-21_alma-agepro.png",
+   "ar": 1.0,
+   "flags": [
+    "GUTTER_EDGE:R(white)"
+   ]
+  },
+  {
+   "system": "hbc-494",
+   "image_id": "hbc-494_alma2023",
+   "file": "images/hbc-494/hbc-494_alma2023.png",
+   "ar": 1.04,
+   "flags": [
+    "GUTTER_EDGE:L(white)"
+   ]
+  },
+  {
+   "system": "hd-100453",
+   "image_id": "hd-100453_sphere-ks-rdi",
+   "file": "images/hd-100453/hd-100453_sphere-ks-rdi.png",
+   "ar": 1.04,
+   "flags": [
+    "GUTTER_EDGE:T(white)"
+   ]
+  },
+  {
+   "system": "hd-100453",
+   "image_id": "hd-100453_visir2021",
+   "file": "images/hd-100453/hd-100453_visir2021.png",
+   "ar": 1.1,
+   "flags": [
+    "GUTTER_EDGE:R(white)"
+   ]
+  },
+  {
+   "system": "hd-100546",
+   "image_id": "hd-100546_sphere-ks-rdi",
+   "file": "images/hd-100546/hd-100546_sphere-ks-rdi.png",
+   "ar": 1.04,
+   "flags": [
+    "GUTTER_EDGE:T(white)"
+   ]
+  },
+  {
+   "system": "hd-104860",
+   "image_id": "hd-104860_herschel-pacs",
+   "file": "images/hd-104860/hd-104860_herschel-pacs.png",
+   "ar": 0.99,
+   "flags": [
+    "GUTTER_EDGE:R(white)"
+   ]
+  },
+  {
+   "system": "hd-105",
+   "image_id": "hd-105_alma2018",
+   "file": "images/hd-105/hd-105_alma2018.png",
+   "ar": 1.01,
+   "flags": [
+    "GUTTER_EDGE:R(white)"
+   ]
+  },
+  {
+   "system": "hd-106906",
+   "image_id": "hd-106906_sphere-rdi-xie22",
+   "file": "images/hd-106906/hd-106906_sphere-rdi-xie22.png",
+   "ar": 1.0,
+   "flags": [
+    "GUTTER_EDGE:T(black)"
+   ]
+  },
+  {
+   "system": "hd-106906",
+   "image_id": "hd-106906_zhou2020-wfc3",
+   "file": "images/hd-106906/hd-106906_zhou2020-wfc3.png",
+   "ar": 1.16,
+   "flags": [
+    "GUTTER_EDGE:L(white)"
+   ]
+  },
+  {
+   "system": "hd-107146",
+   "image_id": "hd-107146_nicmos2011",
+   "file": "images/hd-107146/hd-107146_nicmos2011.png",
+   "ar": 1.04,
+   "flags": [
+    "GUTTER_EDGE:L(black)"
+   ]
+  },
+  {
+   "system": "hd-110058",
+   "image_id": "hd-110058_sphere-debris-2025",
+   "file": "images/hd-110058/hd-110058_sphere-debris-2025.png",
+   "ar": 1.0,
+   "flags": [
+    "GUTTER_EDGE:R(black)"
+   ]
+  },
+  {
+   "system": "hd-111520",
+   "image_id": "hd-111520_gpi-hom24",
+   "file": "images/hd-111520/hd-111520_gpi-hom24.png",
+   "ar": 1.02,
+   "flags": [
+    "GUTTER_EDGE:B(black)"
+   ]
+  },
+  {
+   "system": "hd-112810",
+   "image_id": "hd-112810_discs",
+   "file": "images/hd-112810/hd-112810_discs.png",
+   "ar": 1.0,
+   "flags": [
+    "GUTTER_EDGE:L(black)"
+   ]
+  },
+  {
+   "system": "hd-117214",
+   "image_id": "hd-117214_spherez2020",
+   "file": "images/hd-117214/hd-117214_spherez2020.png",
+   "ar": 1.26,
+   "flags": [
+    "GUTTER_EDGE:T(white)"
+   ]
+  },
+  {
+   "system": "hd-129590",
+   "image_id": "hd-129590_alma2020",
+   "file": "images/hd-129590/hd-129590_alma2020.png",
+   "ar": 1.0,
+   "flags": [
+    "GUTTER_EDGE:T(white)",
+    "GUTTER_EDGE:R(black)"
+   ]
+  },
+  {
+   "system": "hd-129590",
+   "image_id": "hd-129590_sphere-rdi-xie22",
+   "file": "images/hd-129590/hd-129590_sphere-rdi-xie22.png",
+   "ar": 0.99,
+   "flags": [
+    "GUTTER_EDGE:L(white)"
+   ]
+  },
+  {
+   "system": "hd-131488",
+   "image_id": "hd-131488_sphere-rdi-xie22",
+   "file": "images/hd-131488/hd-131488_sphere-rdi-xie22.png",
+   "ar": 1.01,
+   "flags": [
+    "GUTTER_EDGE:B(white)"
+   ]
+  },
+  {
+   "system": "hd-131835",
+   "image_id": "hd-131835_sphere-rdi-xie22",
+   "file": "images/hd-131835/hd-131835_sphere-rdi-xie22.png",
+   "ar": 1.0,
+   "flags": [
+    "GUTTER_EDGE:T(black)"
+   ]
+  },
+  {
+   "system": "hd-135344b",
+   "image_id": "hd-135344b_seeds2012",
+   "file": "images/hd-135344b/hd-135344b_seeds2012.png",
+   "ar": 1.0,
+   "flags": [
+    "GUTTER_EDGE:L(black)"
+   ]
+  },
+  {
+   "system": "hd-139614",
+   "image_id": "hd-139614_sphere2020-j",
+   "file": "images/hd-139614/hd-139614_sphere2020-j.png",
+   "ar": 1.1,
+   "flags": [
+    "GUTTER_EDGE:L(black)"
+   ]
+  },
+  {
+   "system": "hd-141569",
+   "image_id": "hd-141569_gemini-lights",
+   "file": "images/hd-141569/hd-141569_gemini-lights.png",
+   "ar": 0.99,
+   "flags": [
+    "GUTTER_EDGE:B(black)"
+   ]
+  },
+  {
+   "system": "hd-141569",
+   "image_id": "hd-141569_acs2003",
+   "file": "images/hd-141569/hd-141569_acs2003.png",
+   "ar": 1.05,
+   "flags": [
+    "GUTTER_EDGE:T(black)",
+    "GUTTER_EDGE:L(white)"
+   ]
+  },
+  {
+   "system": "hd-141569",
+   "image_id": "hd-141569_sphere-rdi-xie22",
+   "file": "images/hd-141569/hd-141569_sphere-rdi-xie22.png",
+   "ar": 1.0,
+   "flags": [
+    "GUTTER_EDGE:T(black)"
+   ]
+  },
+  {
+   "system": "hd-141943",
+   "image_id": "nz-lup_sphere-rdi-xie22",
+   "file": "images/nz-lup/nz-lup_sphere-rdi-xie22.png",
+   "ar": 0.99,
+   "flags": [
+    "GUTTER_EDGE:T(black)",
+    "GUTTER_EDGE:L(white)"
+   ]
+  },
+  {
+   "system": "hd-142527",
+   "image_id": "hd-142527_alma2013",
+   "file": "images/hd-142527/hd-142527_alma2013.png",
+   "ar": 0.88,
+   "flags": [
+    "GUTTER_EDGE:T(white)"
+   ]
+  },
+  {
+   "system": "hd-142666",
+   "image_id": "hd-142666_gemini-lights",
+   "file": "images/hd-142666/hd-142666_gemini-lights.png",
+   "ar": 1.01,
+   "flags": [
+    "GUTTER_EDGE:L(black)"
+   ]
+  },
+  {
+   "system": "hd-145718",
+   "image_id": "hd-145718_gemini-lights",
+   "file": "images/hd-145718/hd-145718_gemini-lights.png",
+   "ar": 1.01,
+   "flags": [
+    "GUTTER_EDGE:R(black)"
+   ]
+  },
+  {
+   "system": "hd-146181",
+   "image_id": "hd-146181_discs",
+   "file": "images/hd-146181/hd-146181_discs.png",
+   "ar": 1.0,
+   "flags": [
+    "GUTTER_EDGE:B(black)",
+    "GUTTER_EDGE:L(white)"
+   ]
+  },
+  {
+   "system": "hd-150193",
+   "image_id": "hd-150193_ciao-fukagawa2003",
+   "file": "images/hd-150193/hd-150193_ciao-fukagawa2003.png",
+   "ar": 0.85,
+   "flags": [
+    "GUTTER_EDGE:B(white)"
+   ]
+  },
+  {
+   "system": "hd-15115",
+   "image_id": "hd-15115_hst2007",
+   "file": "images/hd-15115/hd-15115_hst2007.png",
+   "ar": 1.02,
+   "flags": [
+    "GUTTER_EDGE:R(white)"
+   ]
+  },
+  {
+   "system": "hd-15745",
+   "image_id": "hd-15745_stis-schneider14",
+   "file": "images/hd-15745/hd-15745_stis-schneider14.png",
+   "ar": 1.0,
+   "flags": [
+    "GUTTER_EDGE:R(black)"
+   ]
+  },
+  {
+   "system": "hd-163296",
+   "image_id": "hd-163296_gemini-lights",
+   "file": "images/hd-163296/hd-163296_gemini-lights.png",
+   "ar": 0.99,
+   "flags": [
+    "GUTTER_EDGE:B(black)"
+   ]
+  },
+  {
+   "system": "hd-163296",
+   "image_id": "hd-163296_alma-maps2021",
+   "file": "images/hd-163296/hd-163296_alma-maps2021.png",
+   "ar": 1.08,
+   "flags": [
+    "GUTTER_EDGE:T(white)"
+   ]
+  },
+  {
+   "system": "hd-163296",
+   "image_id": "hd-163296_eris2025",
+   "file": "images/hd-163296/hd-163296_eris2025.png",
+   "ar": 1.21,
+   "flags": [
+    "GUTTER_EDGE:R(white)"
+   ]
+  },
+  {
+   "system": "hd-163296",
+   "image_id": "hd-163296_hiciao2011",
+   "file": "images/hd-163296/hd-163296_hiciao2011.png",
+   "ar": 0.98,
+   "flags": [
+    "GUTTER_EDGE:T(white)"
+   ]
+  },
+  {
+   "system": "hd-169142",
+   "image_id": "hd-169142_sphere-ks-rdi",
+   "file": "images/hd-169142/hd-169142_sphere-ks-rdi.png",
+   "ar": 0.93,
+   "flags": [
+    "GUTTER_EDGE:L(white)"
+   ]
+  },
+  {
+   "system": "hd-169142",
+   "image_id": "hd-169142_seeds",
+   "file": "images/hd-169142/hd-169142_seeds.png",
+   "ar": 1.03,
+   "flags": [
+    "GUTTER_EDGE:L(white)"
+   ]
+  },
+  {
+   "system": "hd-169142",
+   "image_id": "hd-169142_sphere-rdi-xie22",
+   "file": "images/hd-169142/hd-169142_sphere-rdi-xie22.png",
+   "ar": 1.01,
+   "flags": [
+    "GUTTER_EDGE:B(black)"
+   ]
+  },
+  {
+   "system": "hd-169142",
+   "image_id": "hd-169142_visir2021",
+   "file": "images/hd-169142/hd-169142_visir2021.png",
+   "ar": 1.06,
+   "flags": [
+    "GUTTER_EDGE:R(white)"
+   ]
+  },
+  {
+   "system": "hd-191089",
+   "image_id": "hd-191089_gpi-crotts24",
+   "file": "images/hd-191089/hd-191089_gpi-crotts24.png",
+   "ar": 1.03,
+   "flags": [
+    "GUTTER_EDGE:B(white)"
+   ]
+  },
+  {
+   "system": "hd-207129",
+   "image_id": "hd-207129_herschel2011",
+   "file": "images/hd-207129/hd-207129_herschel2011.png",
+   "ar": 0.99,
+   "flags": [
+    "GUTTER_EDGE:R(black)"
+   ]
+  },
+  {
+   "system": "hd-32297",
+   "image_id": "hd-32297_hiciao-pdi2014",
+   "file": "images/hd-32297/hd-32297_hiciao-pdi2014.png",
+   "ar": 1.55,
+   "flags": [
+    "GUTTER_EDGE:B(white)"
+   ]
+  },
+  {
+   "system": "hd-33632-a",
+   "image_id": "hd-33632-a_scexao2020",
+   "file": "images/hd-33632-a/hd-33632-a_scexao2020.png",
+   "ar": 1.48,
+   "flags": [
+    "GUTTER_EDGE:L(white)"
+   ]
+  },
+  {
+   "system": "hd-34282",
+   "image_id": "hd-34282_sphere-ks-rdi",
+   "file": "images/hd-34282/hd-34282_sphere-ks-rdi.png",
+   "ar": 1.04,
+   "flags": [
+    "GUTTER_EDGE:T(white)"
+   ]
+  },
+  {
+   "system": "hd-34282",
+   "image_id": "hd-34282_keck-vortex-2024",
+   "file": "images/hd-34282/hd-34282_keck-vortex-2024.png",
+   "ar": 1.01,
+   "flags": [
+    "GUTTER_EDGE:L(white)"
+   ]
+  },
+  {
+   "system": "hd-34282",
+   "image_id": "hd-34282_sphere-rdi-xie22",
+   "file": "images/hd-34282/hd-34282_sphere-rdi-xie22.png",
+   "ar": 0.99,
+   "flags": [
+    "GUTTER_EDGE:R(white)"
+   ]
+  },
+  {
+   "system": "hd-34700",
+   "image_id": "hd-34700_gemini-lights",
+   "file": "images/hd-34700/hd-34700_gemini-lights.png",
+   "ar": 1.01,
+   "flags": [
+    "GUTTER_EDGE:L(black)"
+   ]
+  },
+  {
+   "system": "hd-35841",
+   "image_id": "hd-35841_gpi-hom24",
+   "file": "images/hd-35841/hd-35841_gpi-hom24.png",
+   "ar": 1.0,
+   "flags": [
+    "GUTTER_EDGE:B(black)"
+   ]
+  },
+  {
+   "system": "hd-45677",
+   "image_id": "hd-45677_gemini-lights",
+   "file": "images/hd-45677/hd-45677_gemini-lights.png",
+   "ar": 0.99,
+   "flags": [
+    "GUTTER_EDGE:T(black)"
+   ]
+  },
+  {
+   "system": "hd-61005",
+   "image_id": "hd-61005_sphere2016",
+   "file": "images/hd-61005/hd-61005_sphere2016.png",
+   "ar": 0.99,
+   "flags": [
+    "GUTTER_EDGE:L(black)"
+   ]
+  },
+  {
+   "system": "hd-61005",
+   "image_id": "hd-61005_naco2011",
+   "file": "images/hd-61005/hd-61005_naco2011.png",
+   "ar": 2.33,
+   "flags": [
+    "GUTTER_EDGE:L(white)"
+   ]
+  },
+  {
+   "system": "hd-95086",
+   "image_id": "hd-95086_naco2013b",
+   "file": "images/hd-95086/hd-95086_naco2013b.png",
+   "ar": 0.97,
+   "flags": [
+    "GUTTER_EDGE:R(black)"
+   ]
+  },
+  {
+   "system": "hd-95086",
+   "image_id": "hd-95086_gpi-hband2014",
+   "file": "images/hd-95086/hd-95086_gpi-hband2014.png",
+   "ar": 1.04,
+   "flags": [
+    "GUTTER_EDGE:T(white)"
+   ]
+  },
+  {
+   "system": "hd-97048",
+   "image_id": "hd-97048_sphere-ks-rdi",
+   "file": "images/hd-97048/hd-97048_sphere-ks-rdi.png",
+   "ar": 1.03,
+   "flags": [
+    "GUTTER_EDGE:T(white)"
+   ]
+  },
+  {
+   "system": "hd-97048",
+   "image_id": "hd-97048_visir2007",
+   "file": "images/hd-97048/hd-97048_visir2007.png",
+   "ar": 1.16,
+   "flags": [
+    "GUTTER_EDGE:R(black)"
+   ]
+  },
+  {
+   "system": "hd-98363",
+   "image_id": "hd-98363_discs",
+   "file": "images/hd-98363/hd-98363_discs.png",
+   "ar": 1.01,
+   "flags": [
+    "GUTTER_EDGE:L(black)"
+   ]
+  },
+  {
+   "system": "hd-98800",
+   "image_id": "hd-98800_alma2019",
+   "file": "images/hd-98800/hd-98800_alma2019.png",
+   "ar": 1.06,
+   "flags": [
+    "GUTTER_EDGE:L(black)"
+   ]
+  },
+  {
+   "system": "hip-109427",
+   "image_id": "hip-109427_scexao2021",
+   "file": "images/hip-109427/hip-109427_scexao2021.png",
+   "ar": 1.44,
+   "flags": [
+    "GUTTER_EDGE:L(white)"
+   ]
+  },
+  {
+   "system": "hip-75056",
+   "image_id": "hip-75056_sphere2020",
+   "file": "images/hip-75056/hip-75056_sphere2020.png",
+   "ar": 0.98,
+   "flags": [
+    "GUTTER_EDGE:T(white)"
+   ]
+  },
+  {
+   "system": "hr-4796a",
+   "image_id": "hr-4796a_gpi2015",
+   "file": "images/hr-4796a/hr-4796a_gpi2015.png",
+   "ar": 1.07,
+   "flags": [
+    "GUTTER_EDGE:R(white)"
+   ]
+  },
+  {
+   "system": "hr-4796a",
+   "image_id": "hr-4796a_magaox2026",
+   "file": "images/hr-4796a/hr-4796a_magaox2026.png",
+   "ar": 1.01,
+   "flags": [
+    "GUTTER_EDGE:B(black)"
+   ]
+  },
+  {
+   "system": "hr-8799",
+   "image_id": "hr-8799_p1640-2012",
+   "file": "images/hr-8799/hr-8799_p1640-2012.png",
+   "ar": 1.03,
+   "flags": [
+    "GUTTER_EDGE:T(white)"
+   ]
+  },
+  {
+   "system": "hr-8799",
+   "image_id": "hr-8799_nicmos1998",
+   "file": "images/hr-8799/hr-8799_nicmos1998.png",
+   "ar": 2.05,
+   "flags": [
+    "MULTIPANEL:Vdiv@240/480"
+   ]
+  },
+  {
+   "system": "hr-8799",
+   "image_id": "hr-8799_nicmos1998-soummer",
+   "file": "images/hr-8799/hr-8799_nicmos1998-soummer.png",
+   "ar": 2.2,
+   "flags": [
+    "GUTTER_EDGE:B(white)"
+   ]
+  },
+  {
+   "system": "hsc-j0844-0052",
+   "image_id": "hsc-j0844-0052_jwst-ding25",
+   "file": "images/hsc-j0844-0052/hsc-j0844-0052_jwst-ding25.png",
+   "ar": 0.98,
+   "flags": [
+    "GUTTER_EDGE:R(black)"
+   ]
+  },
+  {
+   "system": "hv-tau-c",
+   "image_id": "hv-tau-c_naco2010",
+   "file": "images/hv-tau-c/hv-tau-c_naco2010.png",
+   "ar": 3.58,
+   "flags": [
+    "GUTTER_EDGE:T(white)"
+   ]
+  },
+  {
+   "system": "iras-04302-2247",
+   "image_id": "iras-04302-2247_nicmos2003",
+   "file": "images/iras-04302-2247/iras-04302-2247_nicmos2003.png",
+   "ar": 0.97,
+   "flags": [
+    "GUTTER_EDGE:B(black)"
+   ]
+  },
+  {
+   "system": "iras-08544-4431",
+   "image_id": "iras-08544-4431_sphere_zimpol",
+   "file": "images/iras-08544-4431/iras-08544-4431_sphere_zimpol.png",
+   "ar": 1.03,
+   "flags": [
+    "GUTTER_EDGE:R(white)"
+   ]
+  },
+  {
+   "system": "iso-oph-127",
+   "image_id": "iso-oph-127_agepro",
+   "file": "images/iso-oph-127/iso-oph-127_agepro.png",
+   "ar": 1.01,
+   "flags": [
+    "GUTTER_EDGE:R(white)"
+   ]
+  },
+  {
+   "system": "kappa-and",
+   "image_id": "kappa-and_seeds2013",
+   "file": "images/kappa-and/kappa-and_seeds2013.png",
+   "ar": 1.0,
+   "flags": [
+    "GUTTER_EDGE:R(white)"
+   ]
+  },
+  {
+   "system": "l1527-irs",
+   "image_id": "l1527-irs_edisk",
+   "file": "images/l1527-irs/l1527-irs_edisk.png",
+   "ar": 1.0,
+   "flags": [
+    "GUTTER_EDGE:B(black)"
+   ]
+  },
+  {
+   "system": "lkca-15",
+   "image_id": "lkca-15_alma-band3-2025",
+   "file": "images/lkca-15/lkca-15_alma-band3-2025.png",
+   "ar": 1.02,
+   "flags": [
+    "GUTTER_EDGE:R(black)"
+   ]
+  },
+  {
+   "system": "lkca-15",
+   "image_id": "lkca-15_sallum2023-lbt-nrm",
+   "file": "images/lkca-15/lkca-15_sallum2023-lbt-nrm.png",
+   "ar": 1.07,
+   "flags": [
+    "GUTTER_EDGE:L(white)",
+    "GUTTER_EDGE:R(black)"
+   ]
+  },
+  {
+   "system": "lkha-233",
+   "image_id": "lkha-233_hstfoc1995",
+   "file": "images/lkha-233/lkha-233_hstfoc1995.png",
+   "ar": 0.89,
+   "flags": [
+    "GUTTER_EDGE:T(white)"
+   ]
+  },
+  {
+   "system": "lkha-263c",
+   "image_id": "lkha-263c_jedice",
+   "file": "images/lkha-263c/lkha-263c_jedice.png",
+   "ar": 0.93,
+   "flags": [
+    "GUTTER_EDGE:L(black)"
+   ]
+  },
+  {
+   "system": "lkha-330",
+   "image_id": "lkha-330_keck-vortex-2024",
+   "file": "images/lkha-330/lkha-330_keck-vortex-2024.png",
+   "ar": 1.0,
+   "flags": [
+    "GUTTER_EDGE:R(black)"
+   ]
+  },
+  {
+   "system": "mwc-297",
+   "image_id": "mwc-297_sphere2020",
+   "file": "images/mwc-297/mwc-297_sphere2020.png",
+   "ar": 1.0,
+   "flags": [
+    "GUTTER_EDGE:T(black)"
+   ]
+  },
+  {
+   "system": "mwc-480",
+   "image_id": "mwc-480_scexao-mullin",
+   "file": "images/mwc-480/mwc-480_scexao-mullin.png",
+   "ar": 1.03,
+   "flags": [
+    "GUTTER_EDGE:L(black)"
+   ]
+  },
+  {
+   "system": "mwc-614",
+   "image_id": "mwc-614_gemini-lights",
+   "file": "images/mwc-614/mwc-614_gemini-lights.png",
+   "ar": 1.01,
+   "flags": [
+    "GUTTER_EDGE:R(black)"
+   ]
+  },
+  {
+   "system": "mwc-758",
+   "image_id": "mwc-758_sphere-ks-rdi",
+   "file": "images/mwc-758/mwc-758_sphere-ks-rdi.png",
+   "ar": 0.93,
+   "flags": [
+    "GUTTER_EDGE:R(white)"
+   ]
+  },
+  {
+   "system": "mwc-758",
+   "image_id": "mwc-758_sphere-rdi-xie22",
+   "file": "images/mwc-758/mwc-758_sphere-rdi-xie22.png",
+   "ar": 0.99,
+   "flags": [
+    "GUTTER_EDGE:L(white)"
+   ]
+  },
+  {
+   "system": "my-lup",
+   "image_id": "my-lup_dartts-s",
+   "file": "images/my-lup/my-lup_dartts-s.png",
+   "ar": 1.0,
+   "flags": [
+    "GUTTER_EDGE:T(white)"
+   ]
+  },
+  {
+   "system": "oph-irs-44",
+   "image_id": "oph-irs-44_alma2026",
+   "file": "images/oph-irs-44/oph-irs-44_alma2026.png",
+   "ar": 1.01,
+   "flags": [
+    "GUTTER_EDGE:T(white)"
+   ]
+  },
+  {
+   "system": "oph-irs-48",
+   "image_id": "oph-irs-48_alma2013",
+   "file": "images/oph-irs-48/oph-irs-48_alma2013.png",
+   "ar": 1.0,
+   "flags": [
+    "GUTTER_EDGE:T(black)"
+   ]
+  },
+  {
+   "system": "oph-irs-48",
+   "image_id": "oph-irs-48_comics2018",
+   "file": "images/oph-irs-48/oph-irs-48_comics2018.png",
+   "ar": 1.13,
+   "flags": [
+    "GUTTER_EDGE:L(white)"
+   ]
+  },
+  {
+   "system": "pds-66",
+   "image_id": "pds-66_dartts-s",
+   "file": "images/pds-66/pds-66_dartts-s.png",
+   "ar": 1.0,
+   "flags": [
+    "GUTTER_EDGE:T(white)"
+   ]
+  },
+  {
+   "system": "pds-66",
+   "image_id": "pds-66_gemini-lights",
+   "file": "images/pds-66/pds-66_gemini-lights.png",
+   "ar": 0.99,
+   "flags": [
+    "GUTTER_EDGE:T(black)"
+   ]
+  },
+  {
+   "system": "pds-66",
+   "image_id": "pds-66_sphere-ks-rdi",
+   "file": "images/pds-66/pds-66_sphere-ks-rdi.png",
+   "ar": 0.99,
+   "flags": [
+    "GUTTER_EDGE:L(white)"
+   ]
+  },
+  {
+   "system": "pds-66",
+   "image_id": "pds-66_gpi_hband",
+   "file": "images/pds-66/pds-66_gpi_hband.png",
+   "ar": 0.97,
+   "flags": [
+    "GUTTER_EDGE:T(white)"
+   ]
+  },
+  {
+   "system": "pds-70",
+   "image_id": "pds-70_jwst2024",
+   "file": "images/pds-70/pds-70_jwst2024.png",
+   "ar": 0.98,
+   "flags": [
+    "GUTTER_EDGE:R(black)"
+   ]
+  },
+  {
+   "system": "pds-70",
+   "image_id": "pds-70_keck2020",
+   "file": "images/pds-70/pds-70_keck2020.png",
+   "ar": 1.02,
+   "flags": [
+    "GUTTER_EDGE:T(black)"
+   ]
+  },
+  {
+   "system": "pds-70",
+   "image_id": "pds-70_keck-vortex-2024",
+   "file": "images/pds-70/pds-70_keck-vortex-2024.png",
+   "ar": 1.0,
+   "flags": [
+    "GUTTER_EDGE:L(black)"
+   ]
+  },
+  {
+   "system": "pds-70",
+   "image_id": "pds-70_sphere-rdi-xie22",
+   "file": "images/pds-70/pds-70_sphere-rdi-xie22.png",
+   "ar": 1.01,
+   "flags": [
+    "GUTTER_EDGE:T(white)"
+   ]
+  },
+  {
+   "system": "pds-70",
+   "image_id": "pds-70_wfc3halpha2024",
+   "file": "images/pds-70/pds-70_wfc3halpha2024.png",
+   "ar": 1.05,
+   "flags": [
+    "GUTTER_EDGE:R(white)"
+   ]
+  },
+  {
+   "system": "pds-70",
+   "image_id": "pds-70_wfc3rdi",
+   "file": "images/pds-70/pds-70_wfc3rdi.png",
+   "ar": 1.0,
+   "flags": [
+    "GUTTER_EDGE:T(black)"
+   ]
+  },
+  {
+   "system": "pg-1116-215",
+   "image_id": "pg-1116-215_nicmos2009",
+   "file": "images/pg-1116-215/pg-1116-215_nicmos2009.png",
+   "ar": 3.48,
+   "flags": [
+    "GUTTER_EDGE:T(white)"
+   ]
+  },
+  {
+   "system": "pg-1307-085",
+   "image_id": "pg-1307-085_muse2015",
+   "file": "images/pg-1307-085/pg-1307-085_muse2015.png",
+   "ar": 0.96,
+   "flags": [
+    "GUTTER_EDGE:R(black)"
+   ]
+  },
+  {
+   "system": "pg-1307-085",
+   "image_id": "pg-1307-085_nicmos2009",
+   "file": "images/pg-1307-085/pg-1307-085_nicmos2009.png",
+   "ar": 3.48,
+   "flags": [
+    "GUTTER_EDGE:T(white)"
+   ]
+  },
+  {
+   "system": "pi1-gruis",
+   "image_id": "pi1-gruis_alma2020",
+   "file": "images/pi1-gruis/pi1-gruis_alma2020.png",
+   "ar": 1.05,
+   "flags": [
+    "GUTTER_EDGE:R(white)"
+   ]
+  },
+  {
+   "system": "r-cra-iras-32",
+   "image_id": "r-cra-iras-32_edisk",
+   "file": "images/r-cra-iras-32/r-cra-iras-32_edisk.png",
+   "ar": 1.0,
+   "flags": [
+    "GUTTER_EDGE:L(white)"
+   ]
+  },
+  {
+   "system": "r-cra-irs5n",
+   "image_id": "r-cra-irs5n_edisk",
+   "file": "images/r-cra-irs5n/r-cra-irs5n_edisk.png",
+   "ar": 1.0,
+   "flags": [
+    "GUTTER_EDGE:L(white)"
+   ]
+  },
+  {
+   "system": "ru-lup",
+   "image_id": "ru-lup_dartts-s",
+   "file": "images/ru-lup/ru-lup_dartts-s.png",
+   "ar": 1.0,
+   "flags": [
+    "GUTTER_EDGE:T(white)"
+   ]
+  },
+  {
+   "system": "rx-j1604-3-2130",
+   "image_id": "rx-j1604-3-2130_keck-vortex-2024",
+   "file": "images/rx-j1604-3-2130/rx-j1604-3-2130_keck-vortex-2024.png",
+   "ar": 0.99,
+   "flags": [
+    "GUTTER_EDGE:B(white)",
+    "GUTTER_EDGE:L(black)"
+   ]
+  },
+  {
+   "system": "rx-j1604-3-2130",
+   "image_id": "rx-j1604-3-2130_zimpol2015",
+   "file": "images/rx-j1604-3-2130/rx-j1604-3-2130_zimpol2015.png",
+   "ar": 1.07,
+   "flags": [
+    "GUTTER_EDGE:R(black)"
+   ]
+  },
+  {
+   "system": "rx-j1615-3-3255",
+   "image_id": "rx-j1615-3-3255_dartts-s",
+   "file": "images/rx-j1615-3-3255/rx-j1615-3-3255_dartts-s.png",
+   "ar": 1.0,
+   "flags": [
+    "GUTTER_EDGE:L(black)"
+   ]
+  },
+  {
+   "system": "rx-j1615-3-3255",
+   "image_id": "rx-j1615-3-3255_sphere-rdi-xie22",
+   "file": "images/rx-j1615-3-3255/rx-j1615-3-3255_sphere-rdi-xie22.png",
+   "ar": 1.01,
+   "flags": [
+    "GUTTER_EDGE:T(white)"
+   ]
+  },
+  {
+   "system": "ry-lup",
+   "image_id": "ry-lup_sphere2018",
+   "file": "images/ry-lup/ry-lup_sphere2018.png",
+   "ar": 1.15,
+   "flags": [
+    "GUTTER_EDGE:L(white)"
+   ]
+  },
+  {
+   "system": "ry-tau",
+   "image_id": "ry-tau_keck-vortex-2024",
+   "file": "images/ry-tau/ry-tau_keck-vortex-2024.png",
+   "ar": 1.01,
+   "flags": [
+    "GUTTER_EDGE:L(white)",
+    "GUTTER_EDGE:R(black)"
+   ]
+  },
+  {
+   "system": "ry-tau",
+   "image_id": "ry-tau_sphere-rdi-xie22",
+   "file": "images/ry-tau/ry-tau_sphere-rdi-xie22.png",
+   "ar": 1.0,
+   "flags": [
+    "GUTTER_EDGE:B(black)"
+   ]
+  },
+  {
+   "system": "svs13a",
+   "image_id": "svs13a_alma2025",
+   "file": "images/svs13a/svs13a_alma2025.png",
+   "ar": 1.08,
+   "flags": [
+    "GUTTER_EDGE:T(white)"
+   ]
+  },
+  {
+   "system": "sz-91",
+   "image_id": "sz-91_seeds",
+   "file": "images/sz-91/sz-91_seeds.png",
+   "ar": 1.0,
+   "flags": [
+    "GUTTER_EDGE:T(black)"
+   ]
+  },
+  {
+   "system": "t-cha",
+   "image_id": "t-cha_sphere2017",
+   "file": "images/t-cha/t-cha_sphere2017.png",
+   "ar": 0.95,
+   "flags": [
+    "GUTTER_EDGE:R(black)"
+   ]
+  },
+  {
+   "system": "tw-hya",
+   "image_id": "tw-hya_sphere-rdi-xie22",
+   "file": "images/tw-hya/tw-hya_sphere-rdi-xie22.png",
+   "ar": 0.99,
+   "flags": [
+    "GUTTER_EDGE:B(black)",
+    "GUTTER_EDGE:L(white)"
+   ]
+  },
+  {
+   "system": "tw-hya",
+   "image_id": "tw-hya_eris2025",
+   "file": "images/tw-hya/tw-hya_eris2025.png",
+   "ar": 1.22,
+   "flags": [
+    "GUTTER_EDGE:R(white)"
+   ]
+  },
+  {
+   "system": "twa-7",
+   "image_id": "twa-7_nircam2025",
+   "file": "images/twa-7/twa-7_nircam2025.png",
+   "ar": 1.02,
+   "flags": [
+    "GUTTER_EDGE:L(white)"
+   ]
+  },
+  {
+   "system": "u-mon",
+   "image_id": "u-mon_sphere_irdis",
+   "file": "images/u-mon/u-mon_sphere_irdis.png",
+   "ar": 0.99,
+   "flags": [
+    "GUTTER_EDGE:T(black)"
+   ]
+  },
+  {
+   "system": "ux-tau",
+   "image_id": "ux-tau_sphere-rdi-xie22",
+   "file": "images/ux-tau/ux-tau_sphere-rdi-xie22.png",
+   "ar": 0.99,
+   "flags": [
+    "GUTTER_EDGE:L(white)"
+   ]
+  },
+  {
+   "system": "uy-aur",
+   "image_id": "uy-aur_ciao2007",
+   "file": "images/uy-aur/uy-aur_ciao2007.png",
+   "ar": 1.04,
+   "flags": [
+    "GUTTER_EDGE:L(white)"
+   ]
+  },
+  {
+   "system": "v1094-sco",
+   "image_id": "v1094-sco_alma-agepro",
+   "file": "images/v1094-sco/v1094-sco_alma-agepro.png",
+   "ar": 1.0,
+   "flags": [
+    "GUTTER_EDGE:R(white)"
+   ]
+  },
+  {
+   "system": "v1247-ori",
+   "image_id": "v1247-ori_sphere-ks-rdi",
+   "file": "images/v1247-ori/v1247-ori_sphere-ks-rdi.png",
+   "ar": 0.98,
+   "flags": [
+    "GUTTER_EDGE:R(white)"
+   ]
+  },
+  {
+   "system": "v4046-sgr",
+   "image_id": "v4046-sgr_dartts-s",
+   "file": "images/v4046-sgr/v4046-sgr_dartts-s.png",
+   "ar": 1.0,
+   "flags": [
+    "GUTTER_EDGE:T(white)"
+   ]
+  },
+  {
+   "system": "vega",
+   "image_id": "vega_mips2005",
+   "file": "images/vega/vega_mips2005.png",
+   "ar": 0.96,
+   "flags": [
+    "GUTTER_EDGE:L(white)"
+   ]
+  },
+  {
+   "system": "vhs-j1256-1257",
+   "image_id": "vhs-j1256-1257_vista2015-y",
+   "file": "images/vhs-j1256-1257/vhs-j1256-1257_vista2015-y.png",
+   "ar": 1.05,
+   "flags": [
+    "GUTTER_EDGE:R(white)"
+   ]
+  },
+  {
+   "system": "xest-13-010",
+   "image_id": "xest-13-010_nirc2-kointreau",
+   "file": "images/xest-13-010/xest-13-010_nirc2-kointreau.png",
+   "ar": 1.02,
+   "flags": [
+    "GUTTER_EDGE:R(black)"
+   ]
+  },
+  {
+   "system": "yses-1",
+   "image_id": "yses-1_sphere2020",
+   "file": "images/yses-1/yses-1_sphere2020.png",
+   "ar": 1.03,
+   "flags": [
+    "GUTTER_EDGE:R(white)"
+   ]
+  },
+  {
+   "system": "yses-1",
+   "image_id": "yses-1_jwst2025",
+   "file": "images/yses-1/yses-1_jwst2025.png",
+   "ar": 0.83,
+   "flags": [
+    "GUTTER_EDGE:B(white)"
+   ]
+  },
+  {
+   "system": "z-cma",
+   "image_id": "z-cma_flyby2022",
+   "file": "images/z-cma/z-cma_flyby2022.png",
+   "ar": 1.02,
+   "flags": [
+    "GUTTER_EDGE:R(black)"
+   ]
+  }
+ ],
+ "n_ok": 1314,
+ "n_total": 1484,
  "missing": []
 }
