@@ -20,12 +20,11 @@
   },
   {
    "system": "2mass-j04414489",
-   "image_id": "2mass-j04414489_hst2010",
-   "file": "images/2mass-j04414489/2mass-j04414489_hst2010.png",
-   "ar": 1.0,
+   "image_id": "2mass-j04414489_niri2010",
+   "file": "images/2mass-j04414489/2mass-j04414489_niri2010.png",
+   "ar": 0.99,
    "flags": [
-    "GUTTER_EDGE:R(white)",
-    "MULTIPANEL:Hdiv@237/479"
+    "GUTTER_EDGE:R(white)"
    ]
   },
   {
@@ -158,12 +157,29 @@
   },
   {
    "system": "beta-pic",
-   "image_id": "beta-pic_planetd2026",
-   "file": "images/beta-pic/beta-pic_planetd2026.png",
-   "ar": 1.51,
+   "image_id": "beta-pic_planetd2026-nircam-f444w",
+   "file": "images/beta-pic/beta-pic_planetd2026-nircam-f444w.png",
+   "ar": 1.0,
    "flags": [
-    "MULTIPANEL:Vdiv@160/480",
-    "MULTIPANEL:Hdiv@157/317"
+    "GUTTER_EDGE:R(black)"
+   ]
+  },
+  {
+   "system": "beta-pic",
+   "image_id": "beta-pic_planetd2026-sphere-h23",
+   "file": "images/beta-pic/beta-pic_planetd2026-sphere-h23.png",
+   "ar": 1.0,
+   "flags": [
+    "GUTTER_EDGE:T(black)"
+   ]
+  },
+  {
+   "system": "beta-pic",
+   "image_id": "beta-pic_planetd2026-sphere-k12",
+   "file": "images/beta-pic/beta-pic_planetd2026-sphere-k12.png",
+   "ar": 1.0,
+   "flags": [
+    "GUTTER_EDGE:T(black)"
    ]
   },
   {
@@ -389,15 +405,6 @@
    "ar": 1.0,
    "flags": [
     "GUTTER_EDGE:B(black)"
-   ]
-  },
-  {
-   "system": "gy-21",
-   "image_id": "gy-21_alma-agepro",
-   "file": "images/gy-21/gy-21_alma-agepro.png",
-   "ar": 1.0,
-   "flags": [
-    "GUTTER_EDGE:R(white)"
    ]
   },
   {
@@ -955,15 +962,6 @@
   },
   {
    "system": "hr-8799",
-   "image_id": "hr-8799_nicmos1998",
-   "file": "images/hr-8799/hr-8799_nicmos1998.png",
-   "ar": 2.05,
-   "flags": [
-    "MULTIPANEL:Vdiv@240/480"
-   ]
-  },
-  {
-   "system": "hr-8799",
    "image_id": "hr-8799_nicmos1998-soummer",
    "file": "images/hr-8799/hr-8799_nicmos1998-soummer.png",
    "ar": 2.2,
@@ -1012,6 +1010,15 @@
    "image_id": "iso-oph-127_agepro",
    "file": "images/iso-oph-127/iso-oph-127_agepro.png",
    "ar": 1.01,
+   "flags": [
+    "GUTTER_EDGE:R(white)"
+   ]
+  },
+  {
+   "system": "iso-oph-37",
+   "image_id": "iso-oph-37_alma-agepro",
+   "file": "images/iso-oph-37/iso-oph-37_alma-agepro.png",
+   "ar": 1.0,
    "flags": [
     "GUTTER_EDGE:R(white)"
    ]
@@ -1543,7 +1550,7 @@
    ]
   }
  ],
- "n_ok": 1314,
- "n_total": 1484,
+ "n_ok": 1319,
+ "n_total": 1490,
  "missing": []
 }
