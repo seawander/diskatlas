@@ -1,10 +1,13 @@
 {
  "id": "g023-01-00-41",
  "name": "G023.01-00.41",
- "alt_names": [],
- "simbad": null,
- "ra_deg": 278.667875,
- "dec_deg": -9.010639,
+ "alt_names": [
+  "MSX5C G023.0126-00.4177",
+  "G23.01-0.41"
+ ],
+ "simbad": "MSX5C G023.0126-00.4177",
+ "ra_deg": 278.67583333333334,
+ "dec_deg": -9.011388888888888,
  "dist_pc": 4600,
  "sptype": null,
  "region": "Serpens/Scutum",
@@ -34,7 +37,7 @@
    "file": "images/g023-01-00-41/g023-01-00-41_alma2019.png"
   }
  ],
- "notes": "AUTO-CREATED from staging - fill metadata & coords Added 2026-07-08 (evolved/massive-YSO resolved disk).",
+ "notes": "G023.01-00.41 = high-mass YSO with a Keplerian disk (Sanna et al. 2019 ALMA). SIMBAD main_id MSX5C G023.0126-00.4177 (mid-IR source); resolved + coordinate-verified 2026-07-09 (was the one unresolvable non-quasar system).",
  "last_updated": "2026-07-08",
  "plx_mas": null,
  "mags": null
