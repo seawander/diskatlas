@@ -1,0 +1,45 @@
+{
+ "id": "mp-mus",
+ "name": "MP Mus",
+ "alt_names": [
+  "CPD-68 1894",
+  "V* MP Mus"
+ ],
+ "simbad": "MP Mus",
+ "ra_deg": 200.53142581026,
+ "dec_deg": -69.63672760881,
+ "dist_pc": 97.9,
+ "sptype": "K1Ve",
+ "region": "Isolated (Lower Cen-Cru vicinity)",
+ "categories": [
+  "protoplanetary"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "type": "disk_scattered",
+   "facility": "HST",
+   "instrument": "STIS",
+   "technique": "coronagraphy",
+   "wavelength_um": 0.58,
+   "wavelength_label": "0.58 um (STIS 50CCD 6-roll PSFTSC; face-on gas-rich disk)",
+   "epoch": "2012",
+   "image_id": "mp-mus_stis-schneider14",
+   "survey": "STIS-Schneider14",
+   "file": "images/mp-mus/mp-mus_stis-schneider14.png",
+   "credit": "Schneider et al. 2014, Fig. 42A (crop)",
+   "paper": {
+    "arxiv": "1406.7303",
+    "bibcode": "2014AJ....148...59S",
+    "first_author": "Schneider",
+    "year": 2014,
+    "journal": "AJ 148, 59",
+    "title": "Probing for Exoplanets Hiding in Dusty Debris Disks: Disk Imaging, Characterization, and Exploration with HST/STIS Multi-roll Coronagraphy"
+   }
+  }
+ ],
+ "notes": "MP Mus (PDS 66 field neighbour; = CPD-68 1894, K1Ve): a relatively old (~7-17 Myr) but still gas-rich, near-face-on accreting disk. Added 2026-07-09 to complete the Schneider et al. 2014 STIS GO-12228 gallery (item was the one detected disk absent from the atlas).",
+ "last_updated": "2026-07-09",
+ "plx_mas": 10.2152,
+ "mags": null
+}
