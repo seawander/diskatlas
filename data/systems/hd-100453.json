@@ -296,6 +296,26 @@
     "journal": "ApJL 813, L2",
     "title": "Discovery of a Two-armed Spiral Structure in the Gapped Disk around Herbig Ae Star HD 100453"
    }
+  },
+  {
+   "type": "planet",
+   "facility": "VLT-NACO",
+   "instrument": "NACO",
+   "technique": "imaging",
+   "wavelength_um": 2.18,
+   "wavelength_label": "Ks 2.18 um (NACO AO; discovery of companion HD 100453 B)",
+   "image_id": "hd-100453_naco-chen2006",
+   "survey": null,
+   "file": "images/hd-100453/hd-100453_naco-chen2006.png",
+   "credit": "Chen et al. 2006, Fig. 1 left (crop)",
+   "paper": {
+    "arxiv": null,
+    "bibcode": "2006A&A...445..331C",
+    "first_author": "Chen",
+    "year": 2006,
+    "journal": "A&A 445, 331",
+    "title": "VLT/NACO adaptive optics imaging of the Herbig Ae star HD 100453"
+   }
   }
  ],
  "notes": null,

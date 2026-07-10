@@ -4,3 +4,9 @@ __pycache__/
 images/_sources/
 data/paper_finder/cache/
 paper_Overleaf/
+
+# per-system audit artifacts (regenerable via backend/system_audit.py)
+data/paper_finder/system_audit_cache/
+data/paper_finder/system_audit_run.log
+data/paper_finder/system_audit_run.err
+data/paper_finder/system_gaps.json
