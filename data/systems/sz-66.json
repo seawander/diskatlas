@@ -1,0 +1,52 @@
+{
+ "id": "sz-66",
+ "name": "Sz 66",
+ "alt_names": [
+  "2MASS J15392828-3446180"
+ ],
+ "simbad": "Sz 66",
+ "ra_deg": 234.8678454,
+ "dec_deg": -34.7716897,
+ "dist_pc": 155.9,
+ "plx_mas": 6.4134,
+ "mags": {
+  "B": 14.9,
+  "G": 13.892,
+  "R": 14.51,
+  "I": 12.56,
+  "J": 10.893,
+  "H": 9.885,
+  "K": 9.288
+ },
+ "sptype": "M2",
+ "region": "Lupus",
+ "categories": [
+  "protoplanetary"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "image_id": "sz-66_alma-agepro",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 6",
+   "wavelength_um": 1300,
+   "wavelength_label": "1.3mm continuum (AGE-PRO)",
+   "technique": "interferometry",
+   "survey": "AGE-PRO",
+   "file": "images/sz-66/sz-66_alma-agepro.png",
+   "credit": "Deng et al. 2025, Fig. 5 (crop: Lupus 8 / Sz 66)",
+   "note": "compact disk; marginally resolved (~2-3 synthesized beams across) in the AGE-PRO Band 6 continuum",
+   "paper": {
+    "first_author": "Deng",
+    "year": 2025,
+    "title": "The ALMA Survey of Gas Evolution of PROtoplanetary Disks (AGE-PRO): III. Dust and Gas Disk Properties in the Lupus Star-forming Region",
+    "journal": "ApJ 989, 3",
+    "arxiv": "2506.10734",
+    "bibcode": "2025ApJ...989....3D"
+   }
+  }
+ ],
+ "notes": "AGE-PRO Lupus target (Lupus 8 in Deng et al. 2025). Compact protoplanetary disk; the 1.3 mm continuum is only marginally resolved (~0.35\" / ~54 au beam).",
+ "last_updated": "2026-07-10"
+}
