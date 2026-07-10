@@ -70,7 +70,10 @@ FINAL 07-09 ITEMS (after the burn-down below):
   (a) GY 91 == ISO-Oph 54 and (b) GY 21 == ISO-Oph 37 were duplicate systems at
   identical coords (SIMBAD: both pairs are one [GY92] object) — merged the
   iso-oph-* dupes into the GY entries and deleted them; also fixed gy-91's WRONG
-  alias "ISO-Oph 63" (that is [GY92] 109). (c) UX Tau's `alma2020` crop was
+  alias "ISO-Oph 63" (that is [GY92] 109). Then (user follow-up) set the DISPLAY
+  names of both to their ISO-Oph designations (ISO-Oph 54, ISO-Oph 37 — the names
+  the 4 covering papers use); GY 91/21 kept as aliases; stable slugs gy-91/gy-21
+  and image_ids unchanged. (c) UX Tau's `alma2020` crop was
   actually the SPHERE J-band Qphi image (Menard 2020 Fig. 1) — relabeled it
   VLT-SPHERE/IRDIS J and added the REAL ALMA record from the same paper's
   Fig. B.1. Net: 466→464 systems, 1489→1490 records.
