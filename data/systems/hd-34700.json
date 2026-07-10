@@ -1,7 +1,9 @@
 {
  "id": "hd-34700",
  "name": "HD 34700",
- "alt_names": ["HIP 24855"],
+ "alt_names": [
+  "HIP 24855"
+ ],
  "simbad": "HD 34700",
  "ra_deg": 79.92253724616,
  "dec_deg": 5.64521627524,
@@ -152,6 +154,66 @@
     "bibcode": null
    },
    "file": "images/hd-34700/hd-34700_sma2020.png"
+  },
+  {
+   "type": "disk_scattered",
+   "facility": "Subaru-SCExAO",
+   "instrument": "CHARIS",
+   "technique": "PDI",
+   "wavelength_um": 1.25,
+   "wavelength_label": "J band (Qphi pol. intensity)",
+   "image_id": "hd-34700_chen2024-j",
+   "survey": null,
+   "file": "images/hd-34700/hd-34700_chen2024-j.png",
+   "credit": "Chen et al. 2024, Fig. 3 middle column (crop)",
+   "paper": {
+    "arxiv": "2408.09038",
+    "bibcode": "2024MNRAS.533.2473C",
+    "first_author": "Chen",
+    "year": 2024,
+    "journal": "MNRAS 533, 2473",
+    "title": "Multiband polarimetric imaging of HD 34700 with SCExAO/CHARIS"
+   }
+  },
+  {
+   "type": "disk_scattered",
+   "facility": "Subaru-SCExAO",
+   "instrument": "CHARIS",
+   "technique": "PDI",
+   "wavelength_um": 1.63,
+   "wavelength_label": "H band (Qphi pol. intensity)",
+   "image_id": "hd-34700_chen2024-h",
+   "survey": null,
+   "file": "images/hd-34700/hd-34700_chen2024-h.png",
+   "credit": "Chen et al. 2024, Fig. 3 middle column (crop)",
+   "paper": {
+    "arxiv": "2408.09038",
+    "bibcode": "2024MNRAS.533.2473C",
+    "first_author": "Chen",
+    "year": 2024,
+    "journal": "MNRAS 533, 2473",
+    "title": "Multiband polarimetric imaging of HD 34700 with SCExAO/CHARIS"
+   }
+  },
+  {
+   "type": "disk_scattered",
+   "facility": "Subaru-SCExAO",
+   "instrument": "CHARIS",
+   "technique": "PDI",
+   "wavelength_um": 2.14,
+   "wavelength_label": "K band (Qphi pol. intensity)",
+   "image_id": "hd-34700_chen2024-k",
+   "survey": null,
+   "file": "images/hd-34700/hd-34700_chen2024-k.png",
+   "credit": "Chen et al. 2024, Fig. 3 middle column (crop)",
+   "paper": {
+    "arxiv": "2408.09038",
+    "bibcode": "2024MNRAS.533.2473C",
+    "first_author": "Chen",
+    "year": 2024,
+    "journal": "MNRAS 533, 2473",
+    "title": "Multiband polarimetric imaging of HD 34700 with SCExAO/CHARIS"
+   }
   }
  ],
  "notes": null,

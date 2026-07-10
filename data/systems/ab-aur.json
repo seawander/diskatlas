@@ -270,15 +270,16 @@
    "file": "images/ab-aur/ab-aur_alma2024.png"
   },
   {
-   "image_id": "ab-aur_scexao2024-jhk",
    "type": "disk_scattered",
    "facility": "Subaru-SCExAO",
    "instrument": "CHARIS",
-   "wavelength_um": 1.6,
-   "wavelength_label": "JHK wavelength-collapsed Qphi composite (04 Jan 2020 epoch)",
    "technique": "PDI",
+   "wavelength_um": 1.25,
+   "wavelength_label": "J band 1.15-1.37 um (Qphi, 2020-10-04 epoch)",
+   "image_id": "ab-aur_dykes2024-j",
    "survey": null,
-   "credit": "Dykes et al. 2024, Fig. 2 (crop)",
+   "file": "images/ab-aur/ab-aur_dykes2024-j.png",
+   "credit": "Dykes et al. 2024, Fig. 2 top (crop)",
    "paper": {
     "first_author": "Dykes",
     "year": 2024,
@@ -286,9 +287,47 @@
     "journal": "ApJ",
     "arxiv": "2410.11939",
     "bibcode": null
-   },
-   "file": "images/ab-aur/ab-aur_scexao2024-jhk.png",
-   "note": "AB Aur b is NOT visible in this Qphi (polarized-light) dataset -- paper reports it is detectable only in complementary total-intensity data and is a non-detection in polarized light at wavelengths >1.3um, so no planet-panel crop or planets[] update was added from this paper."
+   }
+  },
+  {
+   "type": "disk_scattered",
+   "facility": "Subaru-SCExAO",
+   "instrument": "CHARIS",
+   "technique": "PDI",
+   "wavelength_um": 1.63,
+   "wavelength_label": "H band 1.42-1.86 um (Qphi, 2020-10-04 epoch)",
+   "image_id": "ab-aur_dykes2024-h",
+   "survey": null,
+   "file": "images/ab-aur/ab-aur_dykes2024-h.png",
+   "credit": "Dykes et al. 2024, Fig. 2 top (crop)",
+   "paper": {
+    "first_author": "Dykes",
+    "year": 2024,
+    "title": "SCExAO/CHARIS Near-Infrared Scattered-Light Imaging and Integral Field Spectropolarimetry of the AB Aurigae Protoplanetary System",
+    "journal": "ApJ",
+    "arxiv": "2410.11939",
+    "bibcode": null
+   }
+  },
+  {
+   "type": "disk_scattered",
+   "facility": "Subaru-SCExAO",
+   "instrument": "CHARIS",
+   "technique": "PDI",
+   "wavelength_um": 2.14,
+   "wavelength_label": "K band 1.93-2.36 um (Qphi, 2020-10-04 epoch)",
+   "image_id": "ab-aur_dykes2024-k",
+   "survey": null,
+   "file": "images/ab-aur/ab-aur_dykes2024-k.png",
+   "credit": "Dykes et al. 2024, Fig. 2 top (crop)",
+   "paper": {
+    "first_author": "Dykes",
+    "year": 2024,
+    "title": "SCExAO/CHARIS Near-Infrared Scattered-Light Imaging and Integral Field Spectropolarimetry of the AB Aurigae Protoplanetary System",
+    "journal": "ApJ",
+    "arxiv": "2410.11939",
+    "bibcode": null
+   }
   },
   {
    "image_id": "ab-aur_muse2025",
