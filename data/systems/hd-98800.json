@@ -34,7 +34,8 @@
     "journal": "A&A 704, A21",
     "arxiv": "2512.03128",
     "bibcode": "2025A&A...704A..21E"
-   }
+   },
+   "epoch": "2017-2019"
   },
   {
    "image_id": "hd-98800_alma2019",
@@ -54,7 +55,8 @@
     "arxiv": "1901.05018",
     "bibcode": "2019NatAs...3..278K"
    },
-   "file": "images/hd-98800/hd-98800_alma2019.png"
+   "file": "images/hd-98800/hd-98800_alma2019.png",
+   "epoch": "2017 Nov 15"
   },
   {
    "image_id": "hd-98800_vla2018",

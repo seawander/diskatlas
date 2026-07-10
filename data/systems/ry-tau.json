@@ -75,7 +75,8 @@
     "journal": "A&A 685, A53",
     "arxiv": "2403.02158",
     "bibcode": "2024A&A...685A..53G"
-   }
+   },
+   "epoch": "2018-12-16"
   },
   {
    "image_id": "ry-tau_alice-f110w",
@@ -96,7 +97,8 @@
     "arxiv": "1802.07754",
     "bibcode": "2018AJ....155..179H"
    },
-   "hires_url": "https://archive.stsci.edu/prepds/alice/"
+   "hires_url": "https://archive.stsci.edu/prepds/alice/",
+   "epoch": "2004-10-07"
   },
   {
    "type": "disk_scattered",
@@ -116,7 +118,8 @@
     "journal": "AJ 168, 78",
     "arxiv": "2408.04048",
     "bibcode": "2024AJ....168...78W"
-   }
+   },
+   "epoch": "2015-10-22"
   },
   {
    "image_id": "ry-tau_carma2010",
@@ -156,7 +159,8 @@
     "arxiv": "2208.07915",
     "bibcode": "2022A&A...666A..32X"
    },
-   "file": "images/ry-tau/ry-tau_sphere-rdi-xie22.png"
+   "file": "images/ry-tau/ry-tau_sphere-rdi-xie22.png",
+   "epoch": "2015-2019"
   }
  ],
  "notes": null,

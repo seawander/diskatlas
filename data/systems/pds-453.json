@@ -36,7 +36,8 @@
     "arxiv": "2411.04741",
     "bibcode": "2024A&A...692A.111M"
    },
-   "file": "images/pds-453/pds-453_sphere2018.png"
+   "file": "images/pds-453/pds-453_sphere2018.png",
+   "epoch": "2018-06-22"
   },
   {
    "image_id": "pds-453_nicmos-f110w",
@@ -56,7 +57,8 @@
     "arxiv": "2411.04741",
     "bibcode": "2024A&A...692A.111M"
    },
-   "file": "images/pds-453/pds-453_nicmos-f110w.png"
+   "file": "images/pds-453/pds-453_nicmos-f110w.png",
+   "epoch": "2008-05-28"
   },
   {
    "image_id": "pds-453_nicmos-go11155-pol2um",
@@ -77,7 +79,8 @@
     "bibcode": "2009AAS...21340903P"
    },
    "file": "images/pds-453/pds-453_nicmos-go11155-pol2um.png",
-   "hires_url": "https://www.stsci.edu/~mperrin/pdfs/poster_2009AAS_NICPOL_HAEBES.pdf"
+   "hires_url": "https://www.stsci.edu/~mperrin/pdfs/poster_2009AAS_NICPOL_HAEBES.pdf",
+   "epoch": "2008-05-28"
   }
  ],
  "last_updated": "2026-07-08"

@@ -42,7 +42,8 @@
     "arxiv": "1902.04612",
     "bibcode": "2019A&A...624A...7V"
    },
-   "file": "images/2mass-j16083070-3828268/2mass-j16083070-3828268_sphere2019.png"
+   "file": "images/2mass-j16083070-3828268/2mass-j16083070-3828268_sphere2019.png",
+   "epoch": "2017"
   }
  ],
  "notes": "Transition disk in Lupus 3 with resolved cavity; VLT/SPHERE IRDIS PDI (H- and J-band) polarized-intensity imaging shows two bright crescents flanking a dark cavity plus a faint 'rear-facing' near side, indicating a moderately inclined disk (Villenave et al. 2019, arXiv:1902.04612, also covers RX J1852.3-3700 = J1852, already in atlas).",

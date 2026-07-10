@@ -53,7 +53,8 @@
     "journal": "AJ 160, 24",
     "arxiv": "2004.13722",
     "bibcode": "2020AJ....160...24E"
-   }
+   },
+   "epoch": "2014-12-18"
   },
   {
    "type": "disk_scattered",
@@ -73,7 +74,8 @@
     "bibcode": "2005ApJ...629L.117S"
    },
    "image_id": "hd-32297_stis2005",
-   "file": "images/hd-32297/hd-32297_stis2005.png"
+   "file": "images/hd-32297/hd-32297_stis2005.png",
+   "epoch": "2005-02-24"
   },
   {
    "type": "disk_scattered",
@@ -93,7 +95,8 @@
     "journal": "AJ 148, 59",
     "arxiv": "1406.7303",
     "bibcode": "2014AJ....148...59S"
-   }
+   },
+   "epoch": "2010-2012"
   },
   {
    "type": "disk_mm",
@@ -133,7 +136,8 @@
     "journal": "A&A 672, A114",
     "arxiv": "2302.04273",
     "bibcode": "2023A&A...672A.114R"
-   }
+   },
+   "epoch": "2005-02-24"
   },
   {
    "type": "disk_scattered",
@@ -153,7 +157,8 @@
     "journal": "A&A 704, A21",
     "arxiv": "2512.03128",
     "bibcode": "2025A&A...704A..21E"
-   }
+   },
+   "epoch": "2016-12-16"
   },
   {
    "type": "disk_scattered",
@@ -173,7 +178,8 @@
     "journal": "A&A 672, A114",
     "arxiv": "2302.04273",
     "bibcode": "2023A&A...672A.114R"
-   }
+   },
+   "epoch": "2010-2012"
   },
   {
    "image_id": "hd-32297_alma2018",
@@ -193,7 +199,8 @@
     "journal": "ApJ 869, 75",
     "arxiv": "1812.05610",
     "bibcode": "2018ApJ...869...75M"
-   }
+   },
+   "epoch": "2016 Jan 1"
   },
   {
    "image_id": "hd-32297_alice-f110w",
@@ -214,7 +221,8 @@
     "arxiv": "1802.07754",
     "bibcode": "2018AJ....155..179H"
    },
-   "hires_url": "https://archive.stsci.edu/prepds/alice/"
+   "hires_url": "https://archive.stsci.edu/prepds/alice/",
+   "epoch": "2005-02-24"
   },
   {
    "image_id": "hd-32297_gpi-crotts24-j",
@@ -234,7 +242,8 @@
     "arxiv": "2311.14599",
     "bibcode": "2024ApJ...961..245C"
    },
-   "file": "images/hd-32297/hd-32297_gpi-crotts24-j.png"
+   "file": "images/hd-32297/hd-32297_gpi-crotts24-j.png",
+   "epoch": "2014-12-18"
   },
   {
    "image_id": "hd-32297_gpi-crotts24-h",
@@ -254,7 +263,8 @@
     "arxiv": "2311.14599",
     "bibcode": "2024ApJ...961..245C"
    },
-   "file": "images/hd-32297/hd-32297_gpi-crotts24-h.png"
+   "file": "images/hd-32297/hd-32297_gpi-crotts24-h.png",
+   "epoch": "2014-12-18"
   },
   {
    "image_id": "hd-32297_gpi-crotts24-k1",
@@ -274,7 +284,8 @@
     "arxiv": "2311.14599",
     "bibcode": "2024ApJ...961..245C"
    },
-   "file": "images/hd-32297/hd-32297_gpi-crotts24-k1.png"
+   "file": "images/hd-32297/hd-32297_gpi-crotts24-k1.png",
+   "epoch": "2014-12-18"
   },
   {
    "image_id": "hd-32297_lbti2014",
@@ -315,7 +326,8 @@
     "arxiv": "2402.00214",
     "bibcode": "2024MNRAS.528.6959H"
    },
-   "file": "images/hd-32297/hd-32297_gpi-hom24.png"
+   "file": "images/hd-32297/hd-32297_gpi-hom24.png",
+   "epoch": "2014-12-18"
   },
   {
    "image_id": "hd-32297_alma-co2019",
@@ -355,7 +367,8 @@
     "arxiv": "1605.03984",
     "bibcode": "2016A&A...593A..73A"
    },
-   "file": "images/hd-32297/hd-32297_hiciao-pdi2014.png"
+   "file": "images/hd-32297/hd-32297_hiciao-pdi2014.png",
+   "epoch": "2014 Oct 10"
   },
   {
    "image_id": "hd-32297_nirc2-2012",
@@ -375,7 +388,8 @@
     "arxiv": "1206.4688",
     "bibcode": "2012ApJ...757...28C"
    },
-   "file": "images/hd-32297/hd-32297_nirc2-2012.png"
+   "file": "images/hd-32297/hd-32297_nirc2-2012.png",
+   "epoch": "2011 Nov 20"
   },
   {
    "image_id": "hd-32297_carma2008",

@@ -193,7 +193,8 @@
     "arxiv": "1802.07754",
     "bibcode": "2018AJ....155..179H"
    },
-   "hires_url": "https://archive.stsci.edu/prepds/alice/"
+   "hires_url": "https://archive.stsci.edu/prepds/alice/",
+   "epoch": "1998-11-14"
   }
  ],
  "notes": "Independent discoveries: Mesa+2023 (A&A) and De Rosa+2023.",

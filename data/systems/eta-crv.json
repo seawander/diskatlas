@@ -78,7 +78,8 @@
     "arxiv": "1802.07754",
     "bibcode": "2018AJ....155..179H"
    },
-   "hires_url": "https://archive.stsci.edu/prepds/alice/"
+   "hires_url": "https://archive.stsci.edu/prepds/alice/",
+   "epoch": "2005-07-10"
   },
   {
    "image_id": "eta-crv_herschel2014",
@@ -98,7 +99,8 @@
     "arxiv": "1402.1184",
     "bibcode": "2014ApJ...784..148D"
    },
-   "file": "images/eta-crv/eta-crv_herschel2014.png"
+   "file": "images/eta-crv/eta-crv_herschel2014.png",
+   "epoch": "2011"
   }
  ],
  "notes": "coverage: no resolved scattered-light image as of 2026-07 (swept; HST ACS/NICMOS GO-10244 did not detect the disk)",

@@ -56,7 +56,8 @@
     "journal": "MNRAS 501, 2934",
     "arxiv": "2012.00189",
     "bibcode": "2021MNRAS.501.2934C"
-   }
+   },
+   "epoch": "2019"
   }
  ],
  "notes": "AUTO-CREATED from staging - fill metadata & coords Added 2026-07-08 (AGE-PRO ALMA, Vioque+2025 resolved). Merged the duplicate 'iso-oph-37' system (ODISEA record) into this one 2026-07-09; GY 21 = [GY92] 21 = ISO-Oph 37 (SIMBAD-verified).",

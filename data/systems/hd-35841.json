@@ -31,7 +31,8 @@
     "journal": "AJ 160, 24",
     "arxiv": "2004.13722",
     "bibcode": "2020AJ....160...24E"
-   }
+   },
+   "epoch": "2016-02-28"
   },
   {
    "type": "disk_mm",
@@ -71,7 +72,8 @@
     "journal": "A&A 672, A114",
     "arxiv": "2302.04273",
     "bibcode": "2023A&A...672A.114R"
-   }
+   },
+   "epoch": "2004-10-31"
   },
   {
    "type": "disk_scattered",
@@ -91,7 +93,8 @@
     "journal": "A&A 704, A21",
     "arxiv": "2512.03128",
     "bibcode": "2025A&A...704A..21E"
-   }
+   },
+   "epoch": "2017"
   },
   {
    "type": "disk_scattered",
@@ -111,7 +114,8 @@
     "journal": "A&A 672, A114",
     "arxiv": "2302.04273",
     "bibcode": "2023A&A...672A.114R"
-   }
+   },
+   "epoch": "2014-11-06"
   },
   {
    "image_id": "hd-35841_alice-f110w",
@@ -132,7 +136,8 @@
     "arxiv": "1802.07754",
     "bibcode": "2018AJ....155..179H"
    },
-   "hires_url": "https://archive.stsci.edu/prepds/alice/"
+   "hires_url": "https://archive.stsci.edu/prepds/alice/",
+   "epoch": "2004-10-31"
   },
   {
    "image_id": "hd-35841_gpi-crotts24",
@@ -152,7 +157,8 @@
     "journal": "ApJ 961, 245",
     "arxiv": "2311.14599",
     "bibcode": "2024ApJ...961..245C"
-   }
+   },
+   "epoch": "2016-03-18"
   },
   {
    "image_id": "hd-35841_gpi-hom24",
@@ -172,7 +178,8 @@
     "arxiv": "2402.00214",
     "bibcode": "2024MNRAS.528.6959H"
    },
-   "file": "images/hd-35841/hd-35841_gpi-hom24.png"
+   "file": "images/hd-35841/hd-35841_gpi-hom24.png",
+   "epoch": "2016-02-28"
   }
  ],
  "notes": null,

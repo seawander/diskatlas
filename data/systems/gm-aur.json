@@ -51,7 +51,8 @@
     "journal": "A&A 685, A53",
     "arxiv": "2403.02158",
     "bibcode": "2024A&A...685A..53G"
-   }
+   },
+   "epoch": "2018-01-02"
   },
   {
    "type": "disk_scattered",
@@ -71,7 +72,8 @@
     "bibcode": "2003AJ....125.1467S"
    },
    "image_id": "gm-aur_nicmos2003",
-   "file": "images/gm-aur/gm-aur_nicmos2003.png"
+   "file": "images/gm-aur/gm-aur_nicmos2003.png",
+   "epoch": "1998-03-25"
   },
   {
    "image_id": "gm-aur_seeds",
@@ -112,7 +114,8 @@
     "arxiv": "1802.07754",
     "bibcode": "2018AJ....155..179H"
    },
-   "hires_url": "https://archive.stsci.edu/prepds/alice/"
+   "hires_url": "https://archive.stsci.edu/prepds/alice/",
+   "epoch": "1998-2006"
   },
   {
    "image_id": "gm-aur_alma-maps2021",
@@ -152,7 +155,8 @@
     "arxiv": "2310.08589",
     "bibcode": "2023A&A...680A.114R"
    },
-   "file": "images/gm-aur/gm-aur_sphere-ks-qphi.png"
+   "file": "images/gm-aur/gm-aur_sphere-ks-qphi.png",
+   "epoch": "2021-01-20"
   },
   {
    "image_id": "gm-aur_pdbi2009",
@@ -172,7 +176,8 @@
     "arxiv": "0903.4455",
     "bibcode": "2009ApJ...698..131H"
    },
-   "file": "images/gm-aur/gm-aur_pdbi2009.png"
+   "file": "images/gm-aur/gm-aur_pdbi2009.png",
+   "epoch": "2006 Jan 15"
   },
   {
    "image_id": "gm-aur_sma2009",
@@ -192,7 +197,8 @@
     "arxiv": "0903.4455",
     "bibcode": "2009ApJ...698..131H"
    },
-   "file": "images/gm-aur/gm-aur_sma2009.png"
+   "file": "images/gm-aur/gm-aur_sma2009.png",
+   "epoch": "2005-2006"
   },
   {
    "image_id": "gm-aur_acssbc_f140lp",
@@ -212,7 +218,8 @@
     "arxiv": "1607.03520",
     "bibcode": "2016ApJ...829...65H"
    },
-   "file": "images/gm-aur/gm-aur_acssbc_f140lp.png"
+   "file": "images/gm-aur/gm-aur_acssbc_f140lp.png",
+   "epoch": "2003-2008"
   },
   {
    "type": "disk_mm",

@@ -34,7 +34,8 @@
     "arxiv": "1805.09842",
     "bibcode": "2019A&A...623A..77S"
    },
-   "file": "images/g023-01-00-41/g023-01-00-41_alma2019.png"
+   "file": "images/g023-01-00-41/g023-01-00-41_alma2019.png",
+   "epoch": "2016 Sep 5"
   }
  ],
  "notes": "G023.01-00.41 = high-mass YSO with a Keplerian disk (Sanna et al. 2019 ALMA). SIMBAD main_id MSX5C G023.0126-00.4177 (mid-IR source); resolved + coordinate-verified 2026-07-09 (was the one unresolvable non-quasar system).",

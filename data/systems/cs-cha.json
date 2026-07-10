@@ -56,7 +56,8 @@
     "journal": "A&A 685, A52",
     "arxiv": "2403.02149",
     "bibcode": "2024A&A...685A..52G"
-   }
+   },
+   "epoch": "2017-2019"
   },
   {
    "image_id": "cs-cha_magao2022",
@@ -98,7 +99,8 @@
     "arxiv": "1805.02261",
     "bibcode": "2018A&A...616A..79G"
    },
-   "file": "images/cs-cha/cs-cha_sphere-ginski2018.png"
+   "file": "images/cs-cha/cs-cha_sphere-ginski2018.png",
+   "epoch": "2017-2018"
   }
  ],
  "notes": "AUTO-CREATED from staging - fill metadata & coords",

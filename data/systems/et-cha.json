@@ -56,7 +56,8 @@
     "arxiv": "2007.05274",
     "bibcode": "2020A&A...642A.119G"
    },
-   "file": "images/et-cha/et-cha_sphere2020.png"
+   "file": "images/et-cha/et-cha_sphere2020.png",
+   "epoch": "2019-12-23"
   }
  ],
  "notes": "DESTINYS SPHERE/IRDIS program (Ginski et al. 2020, arXiv:2007.05274) discovered a close (~130 mas) low-mass companion candidate to this old (5-8 Myr) accreting T Tauri star with an unusually compact gas-rich disk; no resolved circumstellar disk signal was detected outside the coronagraph IWA.",

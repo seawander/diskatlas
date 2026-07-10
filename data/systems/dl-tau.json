@@ -51,7 +51,8 @@
     "journal": "A&A 685, A53",
     "arxiv": "2403.02158",
     "bibcode": "2024A&A...685A..53G"
-   }
+   },
+   "epoch": "2018-12-28"
   },
   {
    "image_id": "dl-tau_alice-f160w",
@@ -72,7 +73,8 @@
     "arxiv": "1802.07754",
     "bibcode": "2018AJ....155..179H"
    },
-   "hires_url": "https://archive.stsci.edu/prepds/alice/"
+   "hires_url": "https://archive.stsci.edu/prepds/alice/",
+   "epoch": "2004-09-26"
   },
   {
    "image_id": "dl-tau_carma2015",
@@ -92,7 +94,8 @@
     "arxiv": "1506.03679",
     "bibcode": "2015ApJ...808..102K"
    },
-   "file": "images/dl-tau/dl-tau_carma2015.png"
+   "file": "images/dl-tau/dl-tau_carma2015.png",
+   "epoch": "2008-2009"
   },
   {
    "image_id": "dl-tau_sphere-ks-qphi",
@@ -112,7 +115,8 @@
     "arxiv": "2310.08589",
     "bibcode": "2023A&A...680A.114R"
    },
-   "file": "images/dl-tau/dl-tau_sphere-ks-qphi.png"
+   "file": "images/dl-tau/dl-tau_sphere-ks-qphi.png",
+   "epoch": "2021-12-04"
   }
  ],
  "notes": null,

@@ -94,7 +94,8 @@
     "arxiv": "2403.00908",
     "bibcode": "2024AJ....167..183M"
    },
-   "file": "images/hl-tau/hl-tau_nircam2024-f187n.png"
+   "file": "images/hl-tau/hl-tau_nircam2024-f187n.png",
+   "epoch": "2022-09-29"
   },
   {
    "image_id": "hl-tau_nircam2024-f200w",
@@ -114,7 +115,8 @@
     "arxiv": "2403.00908",
     "bibcode": "2024AJ....167..183M"
    },
-   "file": "images/hl-tau/hl-tau_nircam2024-f200w.png"
+   "file": "images/hl-tau/hl-tau_nircam2024-f200w.png",
+   "epoch": "2022-2023"
   },
   {
    "image_id": "hl-tau_nircam2024-f405n",
@@ -134,7 +136,8 @@
     "arxiv": "2403.00908",
     "bibcode": "2024AJ....167..183M"
    },
-   "file": "images/hl-tau/hl-tau_nircam2024-f405n.png"
+   "file": "images/hl-tau/hl-tau_nircam2024-f405n.png",
+   "epoch": "2022-09-29"
   },
   {
    "image_id": "hl-tau_nircam2024-f410m",
@@ -154,7 +157,8 @@
     "arxiv": "2403.00908",
     "bibcode": "2024AJ....167..183M"
    },
-   "file": "images/hl-tau/hl-tau_nircam2024-f410m.png"
+   "file": "images/hl-tau/hl-tau_nircam2024-f410m.png",
+   "epoch": "2022-09-29"
   },
   {
    "image_id": "hl-tau_vla2016",

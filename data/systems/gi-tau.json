@@ -31,7 +31,8 @@
     "journal": "A&A 685, A53",
     "arxiv": "2403.02158",
     "bibcode": "2024A&A...685A..53G"
-   }
+   },
+   "epoch": "2018-11-26"
   },
   {
    "type": "disk_mm",
@@ -51,7 +52,8 @@
     "journal": "ApJ 882, 49",
     "arxiv": "1906.10809",
     "bibcode": "2019ApJ...882...49L"
-   }
+   },
+   "epoch": "2017"
   }
  ],
  "notes": null,

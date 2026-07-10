@@ -54,7 +54,8 @@
     "journal": "A&A 704, A21",
     "arxiv": "2512.03128",
     "bibcode": "2025A&A...704A..21E"
-   }
+   },
+   "epoch": "2016-2019"
   },
   {
    "image_id": "hd-182681_herschel2015",
@@ -74,7 +75,8 @@
     "arxiv": "1411.5829",
     "bibcode": "2015MNRAS.447..577M"
    },
-   "file": "images/hd-182681/hd-182681_herschel2015.png"
+   "file": "images/hd-182681/hd-182681_herschel2015.png",
+   "epoch": "2011-11-05"
   }
  ],
  "notes": "AUTO-CREATED from staging - fill metadata & coords",

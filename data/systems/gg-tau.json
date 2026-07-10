@@ -52,7 +52,8 @@
     "journal": "A&A 685, A53",
     "arxiv": "2403.02158",
     "bibcode": "2024A&A...685A..53G"
-   }
+   },
+   "epoch": "2016-11-18"
   },
   {
    "type": "disk_scattered",
@@ -112,7 +113,8 @@
     "arxiv": "astro-ph/0201415",
     "bibcode": "2002ApJ...570..785K"
    },
-   "file": "images/gg-tau/gg-tau_wfpc2002.png"
+   "file": "images/gg-tau/gg-tau_wfpc2002.png",
+   "epoch": "1994-1997"
   },
   {
    "image_id": "gg-tau_nicmos2002",
@@ -132,7 +134,8 @@
     "arxiv": "astro-ph/0204465",
     "bibcode": "2002ApJ...575..974M"
    },
-   "file": "images/gg-tau/gg-tau_nicmos2002.png"
+   "file": "images/gg-tau/gg-tau_nicmos2002.png",
+   "epoch": "1997-10-11"
   },
   {
    "image_id": "gg-tau_acs2005_v",
@@ -152,7 +155,8 @@
     "arxiv": "astro-ph/0508222",
     "bibcode": "2005AJ....130.2778K"
    },
-   "file": "images/gg-tau/gg-tau_acs2005_v.png"
+   "file": "images/gg-tau/gg-tau_acs2005_v.png",
+   "epoch": "2002-09-12"
   },
   {
    "image_id": "gg-tau_acs2005_i",
@@ -172,7 +176,8 @@
     "arxiv": "astro-ph/0508222",
     "bibcode": "2005AJ....130.2778K"
    },
-   "file": "images/gg-tau/gg-tau_acs2005_i.png"
+   "file": "images/gg-tau/gg-tau_acs2005_i.png",
+   "epoch": "2002-09-12"
   },
   {
    "image_id": "gg-tau_vla2014",

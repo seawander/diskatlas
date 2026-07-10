@@ -34,7 +34,8 @@
     "bibcode": "2021ApJ...908L..25G"
    },
    "image_id": "su-aur_sphere2021",
-   "file": "images/su-aur/su-aur_sphere2021.png"
+   "file": "images/su-aur/su-aur_sphere2021.png",
+   "epoch": "2019 Dec"
   },
   {
    "type": "disk_scattered",
@@ -54,7 +55,8 @@
     "journal": "A&A 685, A53",
     "arxiv": "2403.02158",
     "bibcode": "2024A&A...685A..53G"
-   }
+   },
+   "epoch": "2019-12-14"
   },
   {
    "type": "disk_scattered",
@@ -74,7 +76,8 @@
     "journal": "A&A 684, A73",
     "arxiv": "2404.02222",
     "bibcode": "2024A&A...684A..73D"
-   }
+   },
+   "epoch": "2011-10-31"
   },
   {
    "image_id": "su-aur_alma2019",
@@ -114,7 +117,8 @@
     "arxiv": "1505.03610",
     "bibcode": "2015ApJ...806L..10D"
    },
-   "file": "images/su-aur/su-aur_hiciao2015.png"
+   "file": "images/su-aur/su-aur_hiciao2015.png",
+   "epoch": "2014 Jan 19"
   }
  ],
  "notes": null,

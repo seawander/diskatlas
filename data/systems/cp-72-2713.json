@@ -39,7 +39,8 @@
     "arxiv": "2005.00861",
     "bibcode": "2020AJ....159..288M"
    },
-   "file": "images/cp-72-2713/cp-72-2713_alma2020.png"
+   "file": "images/cp-72-2713/cp-72-2713_alma2020.png",
+   "epoch": "2017"
   }
  ],
  "notes": "1.33mm ALMA Atacama Compact Array (7-m, ~7.4x5.5 arcsec beam) continuum detection, SNR~5.7; the disk is only moderately/marginally resolved as an extended blob at this coarse ACA resolution, not spatially resolved into a ring in the image itself -- ring geometry (peak radius ~140 au) is inferred from uv-plane visibility modelling, not directly visible by eye in the CLEAN image. Outstandingly large and dust-rich (24 Myr old K7/M0 member of the beta Pic moving group), motivating the 'big sibling of AU Mic' comparison in the paper title.",

@@ -1,0 +1,5312 @@
+{
+ "hr-8799_keck2008": {
+  "epoch": "2004 Jul 14",
+  "source": "tex:irow",
+  "arxiv": "0811.2606",
+  "snippet": "NIRC2/Keck & 2004 July 14 & H & $480$ \\\\"
+ },
+ "hr-8799_niri2008": {
+  "epoch": "2007 Oct 17",
+  "source": "tex:irow",
+  "arxiv": "0811.2606",
+  "snippet": "NIRI/Gemini & 2007 Oct. 17 & CH4S & $3600$\\\\"
+ },
+ "hr-8799_bergfors2011-naco": {
+  "epoch": "2009 Sep",
+  "source": "tex:instr",
+  "arxiv": "1102.5330",
+  "snippet": "measurements of the three outermost planets in the HR\\,8799 system. The observations were obtained with NACO a"
+ },
+ "hr-8799_p1640-2012": {
+  "epoch": "2012",
+  "source": "tex:year",
+  "arxiv": "1303.2627",
+  "snippet": "ctx dates same year: 2012 Jun; 2012 Jun 15; 2012 Oct; 2012 Oct 5"
+ },
+ "hr-8799_herschel2014": {
+  "epoch": "2011 Jul 10",
+  "source": "tex:irow",
+  "arxiv": "1311.2977",
+  "snippet": "1342223848/9  & 9/10 July 2011 & PacsPhoto 70/160 & 9018 $\\times$ 2 \\\\"
+ },
+ "hr-8799_p1640-2015": {
+  "epoch": "2012",
+  "source": "tex:year",
+  "arxiv": "1409.6388",
+  "snippet": "ctx dates same year: 2012 Jun; 2012 Oct 5"
+ },
+ "hr-8799_miri2024-f1065c": {
+  "epoch": "2022 Nov",
+  "source": "tex:instr",
+  "arxiv": "2310.13414",
+  "snippet": "st target observed with MIRI's coronagraph as part of the MIRI-EC Guaranteed Time Observations exoplanets prog"
+ },
+ "hr-8799_miri2024-f1140c": {
+  "epoch": "2022 Nov",
+  "source": "tex:instr",
+  "arxiv": "2310.13414",
+  "snippet": "st target observed with MIRI's coronagraph as part of the MIRI-EC Guaranteed Time Observations exoplanets prog"
+ },
+ "hr-8799_miri2024-f1550c": {
+  "epoch": "2022 Nov",
+  "source": "tex:instr",
+  "arxiv": "2310.13414",
+  "snippet": "st target observed with MIRI's coronagraph as part of the MIRI-EC Guaranteed Time Observations exoplanets prog"
+ },
+ "hr-8799_miri2024-f2100w": {
+  "epoch": "2022 Nov",
+  "source": "tex:instr",
+  "arxiv": "2310.13414",
+  "snippet": "st target observed with MIRI's coronagraph as part of the MIRI-EC Guaranteed Time Observations exoplanets prog"
+ },
+ "hr-8799_sphere-debris-2025": {
+  "epoch": "2016 Oct 13",
+  "source": "tex:instr",
+  "arxiv": "2512.03128",
+  "snippet": "nnot be entirely excluded. HD 218396 was observed 914 with IRDIS in polarimetric mode on two nights: October 1"
+ },
+ "gm-aur_pdbi2009": {
+  "epoch": "2006 Jan 15",
+  "source": "tex:instr",
+  "arxiv": "0903.4455",
+  "snippet": "(each with a 15\\,m diameter) Plateau de Bure Interferometer (PdBI) in the A configuration (up to 750\\,m baseli"
+ },
+ "gm-aur_sphere-taurus": {
+  "epoch": "2018-01-02",
+  "source": "tex:row",
+  "arxiv": "2403.02158",
+  "snippet": "GM Aur         & 0100.C-0452(A) (Benisty) &    H      & 2018-01-02 & 64 &  32 & 34\\\\"
+ },
+ "hr-4796a_aeos2009": {
+  "epoch": "2005 Jan 26",
+  "source": "tex:ctx",
+  "arxiv": "0906.3010",
+  "snippet": "imetric sequence is shown in Figure~\\ref{dbldiff}. \\subsection{Observations} Under very good observing conditi"
+ },
+ "hr-4796a_gemini-midir2010": {
+  "epoch": "2004 May",
+  "source": "tex:instr",
+  "arxiv": "1011.1437",
+  "snippet": "ow. \\section{Mid-IR images of HR 4796A} We observed HR~4796A with T-ReCS at Gemini South (using the Qb filter)"
+ },
+ "hr-4796a_clio-rodigas2015": {
+  "epoch": "2013",
+  "source": "tex:year",
+  "arxiv": "1410.7753",
+  "snippet": "ctx dates same year: 2013 Apr 7; 2013 Apr 8; 2013 Apr 9"
+ },
+ "hr-4796a_visao-rodigas2015": {
+  "epoch": "2013",
+  "source": "tex:year",
+  "arxiv": "1410.7753",
+  "snippet": "ctx dates same year: 2013 Apr 7; 2013 Apr 8"
+ },
+ "hr-4796a_naco-pippin": {
+  "epoch": "2003-03-23",
+  "source": "tex:row",
+  "arxiv": "2404.02222",
+  "snippet": "J12360103-3952102 & HR 4796 & High-PM (T Tau) & A0$^{(1)}$ & $1.3^{(15)}$ & No & PA & 2003-03-23 & Ks & 0.5 & "
+ },
+ "hd-61005_acs2009": {
+  "epoch": "2006 Dec 19",
+  "source": "tex:instr",
+  "arxiv": "0910.5223",
+  "snippet": "coronagraphic observations of HD 61005 using the ACS high resolution camera (HRC) $1\\farcs8$ diameter occultin"
+ },
+ "hd-61005_alma2018": {
+  "epoch": "2013 Dec 4",
+  "source": "tex:row",
+  "arxiv": "1812.05610",
+  "snippet": "HD 61005 & 2013 Dec 4$^\\text{a}$ & 27 & $12-330$ & 2.99 & 49.0 \\\\"
+ },
+ "ab-aur_nicmos-go11155-1um": {
+  "epoch": "2007",
+  "source": "tex:year",
+  "arxiv": "0911.1130",
+  "snippet": "ctx dates same year: 2007 Dec 21; 2007 Sep 14"
+ },
+ "ab-aur_nicmos-go11155-pol2um": {
+  "epoch": "2007",
+  "source": "tex:year",
+  "arxiv": "0911.1130",
+  "snippet": "ctx dates same year: 2007 Dec 21; 2007 Sep 14"
+ },
+ "ab-aur_alma2017": {
+  "epoch": "2015 Nov 10",
+  "source": "tex:instr",
+  "arxiv": "1704.02699",
+  "snippet": "e observations were carried out with ALMA in Cycle 3 (project \"2015.1.00889.S\") with two execution blocks on N"
+ },
+ "ab-aur_sphere-taurus": {
+  "epoch": "2019-12-18",
+  "source": "tex:row",
+  "arxiv": "2403.02158",
+  "snippet": "AB Aur         & 0104.C-0157(B) (Boccaletti) &    H      & 2019-12-18 & 32 &  176 & 94\\\\"
+ },
+ "2mass-j04414489_wfpc2-2010": {
+  "epoch": "2008 Aug 20",
+  "source": "tex:irow",
+  "arxiv": "1004.0539",
+  "snippet": "WFPC2       & 0.105$\\pm$0.004 & 120.4$\\pm$2.2 & 2008 Aug 20 \\\\"
+ },
+ "2mass-j04414489_niri2010": {
+  "epoch": "2009 Oct 13",
+  "source": "tex:irow",
+  "arxiv": "1004.0539",
+  "snippet": "NIRI+ALTAIR & 0.108$\\pm$0.005 & 121.0$\\pm$2.6 & 2009 Oct 13 \\\\"
+ },
+ "1rxs-j1609_gemini2010": {
+  "epoch": "2009",
+  "source": "tex:year",
+  "arxiv": "1006.3070",
+  "snippet": "ctx dates same year: 2009 Apr 6; 2009 Jul 1; 2009 Jun 8; 2009 May 2"
+ },
+ "hd-191089_trecs2011": {
+  "epoch": "2009",
+  "source": "tex:year",
+  "arxiv": "1008.0865",
+  "snippet": "ctx dates same year: 2009 Jul; 2009 Jun"
+ },
+ "lkca-15_sma2011": {
+  "epoch": "2009 Oct 23",
+  "source": "tex:row",
+  "arxiv": "1103.0284",
+  "snippet": "LkCa 15         & 04 39 17.79 & $+$22 21 03.2 & Tau  & C & 2009 Oct 23 & 2 \\\\"
+ },
+ "lkca-15_sphere-taurus": {
+  "epoch": "2020-12-07",
+  "source": "tex:row",
+  "arxiv": "2403.02158",
+  "snippet": "EM$^*$ LkCa15  & 096.C-0248(A) (GTO, Beuzit)  &    J      & 2020-12-07 & 32 & 120 & 64 \\\\"
+ },
+ "lkca-15_keck-vortex-2024": {
+  "epoch": "2015-10-22",
+  "source": "tex:row",
+  "arxiv": "2408.04048",
+  "snippet": "LkCa 15&2015-10-22&81&2025.0&156.9\\\\"
+ },
+ "tw-hya_sma2012": {
+  "epoch": "2008",
+  "source": "tex:year",
+  "arxiv": "1111.5037",
+  "snippet": "ctx dates same year: 2008 Feb 21"
+ },
+ "tw-hya_sphere2017": {
+  "epoch": "2015 Feb 3",
+  "source": "tex:instr",
+  "arxiv": "1610.08939",
+  "snippet": "figure*} \\subsubsection{Angular differential imaging} \\label{sec:adi_observations} During the course of the ni"
+ },
+ "tw-hya_naco-pippin": {
+  "epoch": "2003-02-22",
+  "source": "tex:row",
+  "arxiv": "2404.02222",
+  "snippet": "J11015191-3442170 & TW Hya & T Tau & M0.5$^{(1)}$ & $0.87^{(10)}$ & No & PA & 2003-02-22 & Ks & 0.5 & 8 & - & "
+ },
+ "99-herculis_herschel2012": {
+  "epoch": "2010 Apr",
+  "source": "tex:irow",
+  "arxiv": "1201.1911",
+  "snippet": "\\citep[PACS,][]{2010A&A...518L...2P} data at 100 and 160$\\mu$m were taken in April 2010"
+ },
+ "au-mic_sma13mm": {
+  "epoch": "2011",
+  "source": "tex:year",
+  "arxiv": "1203.1896",
+  "snippet": "ctx dates same year: 2011 Jul 31; 2011 Oct 25; 2011 Sep 26; 2011 Sep 27"
+ },
+ "au-mic_jwst-nircam": {
+  "epoch": "2022 Oct 3",
+  "source": "tex:row",
+  "arxiv": "2308.02486",
+  "snippet": "V-AU-MIC & M1 & 4.45 & 4.01 & 2022 Oct 3 & 34 & 1708 & 70 & 3517 \\\\"
+ },
+ "au-mic_sphere-debris-2025": {
+  "epoch": "2017",
+  "source": "tex:year",
+  "arxiv": "2512.03128",
+  "snippet": "ctx dates same year: 2017 May 20"
+ },
+ "hd-15115_lbti2012": {
+  "epoch": "2011 Nov 16",
+  "source": "tex:instr",
+  "arxiv": "1203.2619",
+  "snippet": "both sides.} \\end{figure} \\subsection{LBTI/LMIRcam \\lprime} We carried out our \\lprime ~observations of HD 151"
+ },
+ "hd-32297_nirc2-2012": {
+  "epoch": "2011 Nov 20",
+  "source": "tex:instr",
+  "arxiv": "1206.4688",
+  "snippet": "ible for sculpting the disk emission (\\S 6). \\section{NIRC2 Data} \\subsection{Observations} We imaged HD 32297"
+ },
+ "hd-32297_alma2018": {
+  "epoch": "2016 Jan 1",
+  "source": "tex:row",
+  "arxiv": "1812.05610",
+  "snippet": "HD 32297 & 2016 Jan 1 & 36 & $15-310$ & 1.26 & 22.2 \\\\"
+ },
+ "oph-irs-48_sma2012": {
+  "epoch": "2011",
+  "source": "tex:year",
+  "arxiv": "1209.1641",
+  "snippet": "ctx dates same year: 2011 Aug 26; 2011 Aug 29"
+ },
+ "hd-146897_seeds": {
+  "epoch": "2012",
+  "source": "tex:year",
+  "arxiv": "1301.0625",
+  "snippet": "ctx dates same year: 2012 May; 2012 May 12"
+ },
+ "fomalhaut_stis2013": {
+  "epoch": "2010 Sep",
+  "source": "tex:instr",
+  "arxiv": "1305.2222",
+  "snippet": "\\ref{2010falsecolor} presents the final, unsmoothed image resulting from the combination of the four orbits ex"
+ },
+ "kappa-and_lbti2014": {
+  "epoch": "2012-10-06",
+  "source": "tex:irow",
+  "arxiv": "1308.3859",
+  "snippet": "2012/10/06    &   LMIRCam  &   M   &  0.757   &   30   &   87   &   177.49   &   123.54  &   Saturated exposur"
+ },
+ "hd-95086_gpi-hband2014": {
+  "epoch": "2013",
+  "source": "tex:year",
+  "arxiv": "1404.4635",
+  "snippet": "ctx dates same year: 2013-12-10"
+ },
+ "hd-95086_gpi-k1band2014": {
+  "epoch": "2013",
+  "source": "tex:year",
+  "arxiv": "1404.4635",
+  "snippet": "ctx dates same year: 2013-12-10"
+ },
+ "hd-95086_alma2017": {
+  "epoch": "2015",
+  "source": "tex:year",
+  "arxiv": "1709.10129",
+  "snippet": "ctx dates same year: 2015 Jan; 2015 May"
+ },
+ "hd-92945_stis-schneider14": {
+  "epoch": "2011 May 6",
+  "source": "tex:instr",
+  "arxiv": "1406.7303",
+  "snippet": " and PSF Subtraction. STIS 6-roll PSFTSC observations of HD 92945, and its PSF template star HD89585, were obt"
+ },
+ "hd-92945_sphere-debris-2025": {
+  "epoch": "2018 Jan 27",
+  "source": "tex:instr",
+  "arxiv": "2512.03128",
+  "snippet": "f current HCI instruments. 2974 In the case of HD 92945, contrast limits achieved in IRDIS and 2975 IFS observ"
+ },
+ "hd-100546_nici2014": {
+  "epoch": "2012 Mar 31",
+  "source": "tex:instr",
+  "arxiv": "1411.0315",
+  "snippet": "ssibly linked to another actively-forming planet. \\section{Observations and Data Reduction} We observed HD 100"
+ },
+ "hd-100546_naco-pippin": {
+  "epoch": "2004-06-14",
+  "source": "tex:row",
+  "arxiv": "2404.02222",
+  "snippet": "J11332542-7011412 & HD 100546 & Herbig Ae/Be & A0$^{(13)}$ & $1.9\\pm0.1^{(14)}$ & Yes & PA & 2004-06-14 & H & "
+ },
+ "hd-170773_herschel2015": {
+  "epoch": "2012-03-14",
+  "source": "tex:row",
+  "arxiv": "1411.5829",
+  "snippet": "HD 170773 &  PACS 70/160 &  1342241398/1342241399 &   2012-03-14 \\\\"
+ },
+ "hd-182681_herschel2015": {
+  "epoch": "2011-11-05",
+  "source": "tex:row",
+  "arxiv": "1411.5829",
+  "snippet": "HD 182681 &  PACS 70/160 &  1342231927/1342231928 &   2011-11-05 \\\\"
+ },
+ "su-aur_hiciao2015": {
+  "epoch": "2014 Jan 19",
+  "source": "tex:instr",
+  "arxiv": "1505.03610",
+  "snippet": "he tail structure. \\section{OBSERVATIONS AND DATA REDUCTION} SU Aur was observed in $H$-band (1.65 \\micron) on"
+ },
+ "su-aur_sphere2021": {
+  "epoch": "2019 Dec",
+  "source": "tex:instr",
+  "arxiv": "2102.08781",
+  "snippet": "d ALMA (program ID: 2013.1.00426.S, PI: Y. Boehler). \\subsection{SPHERE observations} SU\\,Aur was observed on "
+ },
+ "su-aur_sphere-taurus": {
+  "epoch": "2019-12-14",
+  "source": "tex:row",
+  "arxiv": "2403.02158",
+  "snippet": "SU Aur         & 1104.C-0415(E) (DESTINYS, Ginski)&    H      & 2019-12-14 & 32 & 104 & 55\\\\"
+ },
+ "su-aur_naco-pippin": {
+  "epoch": "2011-10-31",
+  "source": "tex:row",
+  "arxiv": "2404.02222",
+  "snippet": "J04555938+3034015 & SU Aur & Orion Var. & G4$^{(1)}$ & $2.0\\pm0.2^{(2)}$ & Yes & HWP & 2011-10-31 & H & 0.35 &"
+ },
+ "hd-35650_alice": {
+  "epoch": "2004-10-28",
+  "source": "tex:row",
+  "arxiv": "1512.02220",
+  "snippet": "HD~35650 \t& 10176 \t& F160W\\tablenotemark{a} \t& 2004-10-28  \t&1503.57\\\\%Song"
+ },
+ "hd-377_alice": {
+  "epoch": "2005-09-16",
+  "source": "tex:row",
+  "arxiv": "1512.02220",
+  "snippet": "HD~377 \t\t& 10527  \t& F110W\\tablenotemark{b} \t& 2005-09-16 \t&4319.38"
+ },
+ "twa-25_alice": {
+  "epoch": "2005-02-07",
+  "source": "tex:row",
+  "arxiv": "1512.02220",
+  "snippet": "TWA~25\t\t& 10176 \t& F160W\\tablenotemark{a} \t& 2005-02-07 \t&1503.57 \\\\%Song"
+ },
+ "twa-7_alice": {
+  "epoch": "1998-03-26",
+  "source": "tex:row",
+  "arxiv": "1512.02220",
+  "snippet": "TWA~7 \t\t& 7226\t& F160W\\tablenotemark{a}\t& 1998-03-26 \t&1215.76\\\\%Becklin"
+ },
+ "twa-7_stis2021": {
+  "epoch": "2019 Feb 3",
+  "source": "tex:row",
+  "arxiv": "2105.09949",
+  "snippet": "\\multirow{4}{*}{STIS}& \\multirow{2}{*}{TWA~7}\t&\\multirow{2}{*}{Clear}\t&\\multirow{2}{*}{0.58}\t&\\multirow{2}{*}{"
+ },
+ "twa-7_sphere2021": {
+  "epoch": "2017 Mar 20",
+  "source": "tex:row",
+  "arxiv": "2105.09949",
+  "snippet": "SPHERE\t& TWA~7\t\t&$H$\t&1.62\t&12.25& N\\_ALC\\_YJH\\_S & 0.1\t&6016.00\t&$47\\times2$\t&$18\\fdg0$\t&2017 Mar 20\\\\ \\hline"
+ },
+ "hd-135344b_stolker2016-r": {
+  "epoch": "2015 Mar 31",
+  "source": "tex:irow",
+  "arxiv": "1603.00481",
+  "snippet": "\\mbox{ZIMPOL} R & 31 Mar 2015 & 10 & $\\times$ & 4 & $\\times$ & 24 & = & 960 & & 1.05 & 0\\ffarcs69 (0\\ffarcs04)"
+ },
+ "hd-135344b_stolker2016-i": {
+  "epoch": "2015 Mar 31",
+  "source": "tex:irow",
+  "arxiv": "1603.00481",
+  "snippet": "\\mbox{ZIMPOL} R & 31 Mar 2015 & 10 & $\\times$ & 4 & $\\times$ & 24 & = & 960 & & 1.05 & 0\\ffarcs69 (0\\ffarcs04)"
+ },
+ "hd-135344b_naco-pippin": {
+  "epoch": "2012-07-24",
+  "source": "tex:row",
+  "arxiv": "2404.02222",
+  "snippet": "J15154844-3709160 & HD 135344B & YSO & F8$^{(16)}$ & $1.7\\pm0.2^{(17)}$ & Yes & HWP & 2012-07-24 & Ks & 0.3454"
+ },
+ "hd-181327_alma2016": {
+  "epoch": "2014 Mar 10",
+  "source": "tex:instr",
+  "arxiv": "1605.05331",
+  "snippet": "conclusions. \\section{ALMA observations and imaging} \\label{sec:obs} HD~181327 was observed by ALMA in band 6 "
+ },
+ "cida-9_taurus-long2018": {
+  "epoch": "2017 Aug 31",
+  "source": "tex:row",
+  "arxiv": "1810.06044",
+  "snippet": "2017 Aug 31 & 45 & 21-3697 & 1.3 & J1107-4449 & J1427-4206 & J1058-8003 & 9--10 & CIDA 9, DS Tau\\\\"
+ },
+ "ds-tau_taurus-long2018": {
+  "epoch": "2017 Aug 31",
+  "source": "tex:row",
+  "arxiv": "1810.06044",
+  "snippet": "2017 Aug 31 & 45 & 21-3697 & 1.3 & J1107-4449 & J1427-4206 & J1058-8003 & 9--10 & CIDA 9, DS Tau\\\\"
+ },
+ "ds-tau_sphere-taurus": {
+  "epoch": "2018-12-25",
+  "source": "tex:row",
+  "arxiv": "2403.02158",
+  "snippet": "DS Tau         & 0102.C-0453(A) (GTO, Beuzit) &    H      & 2018-12-25 & 32 &  20 & 11\\\\"
+ },
+ "ft-tau_taurus-long2018": {
+  "epoch": "2017 Aug 31",
+  "source": "tex:row",
+  "arxiv": "1810.06044",
+  "snippet": "2017 Aug 31 -- Sep 2 & 45 & 21-3697 & 1.5 & J0510+1800  & J0423-0120 & J0426+2327 & 8.5 & FT Tau, UZ Tau E \\\\"
+ },
+ "mwc-480_taurus-long2018": {
+  "epoch": "2017 Aug 27",
+  "source": "tex:row",
+  "arxiv": "1810.06044",
+  "snippet": "2017 Aug 27 & 47 & 21-3638 & 0.5 & J0510+1800 & J0510+1800 & J0512+2927 & 4 & MWC 480 \\\\"
+ },
+ "mwc-480_sphere-taurus": {
+  "epoch": "2018-11-17",
+  "source": "tex:row",
+  "arxiv": "2403.02158",
+  "snippet": "MWC480         & 0101.C-0867(A) (Keppler) &    H      & 2018-11-17 & 32  &  108 &  57\\\\"
+ },
+ "mwc-480_scexao-mullin": {
+  "epoch": "2022-11-24",
+  "source": "tex:row",
+  "arxiv": "2602.20346",
+  "snippet": "4. &MWC 480 & 2022/11/24 & Subaru & CHARIS & K & 113 & 16.20 & 4 & 60.5 & 256.0 & - \\\\"
+ },
+ "uz-tau-e_taurus-long2018": {
+  "epoch": "2017 Aug 31",
+  "source": "tex:row",
+  "arxiv": "1810.06044",
+  "snippet": "2017 Aug 31 -- Sep 2 & 45 & 21-3697 & 1.5 & J0510+1800  & J0423-0120 & J0426+2327 & 8.5 & FT Tau, UZ Tau E \\\\"
+ },
+ "uz-tau-e_sphere-taurus": {
+  "epoch": "2017-10-27",
+  "source": "tex:row",
+  "arxiv": "2403.02158",
+  "snippet": "UZ Tau         & 0100.C-0408(B) (Cieza) &    H      & 2017-10-27 & 64 &  108 & 115 \\\\"
+ },
+ "doar-25_dsharp": {
+  "epoch": "2017-05-14",
+  "source": "tex:row",
+  "arxiv": "1812.04040",
+  "snippet": "DoAr 25   & 2017/05/14--06:00 & C40-5   & \\phn15\\,m -- \\phn1.1\\,km & 43 & 67--80 & 0.90--1.05"
+ },
+ "doar-33_dsharp": {
+  "epoch": "2017-05-14",
+  "source": "tex:row",
+  "arxiv": "1812.04040",
+  "snippet": "DoAr 33   & 2017/05/14--06:00 & C40-5   & \\phn15\\,m -- \\phn1.1\\,km & 43 & 66--79 & 0.90--1.05"
+ },
+ "elias-20_dsharp": {
+  "epoch": "2017-05-14",
+  "source": "tex:row",
+  "arxiv": "1812.04040",
+  "snippet": "Elias 20  & 2017/05/14--06:00 & C40-5   & \\phn15\\,m -- \\phn1.1\\,km & 43 & 66--79 & 0.90--1.05"
+ },
+ "gw-lup_dsharp": {
+  "epoch": "2017-05-14",
+  "source": "tex:row",
+  "arxiv": "1812.04040",
+  "snippet": "GW Lup    & 2017/05/14--04:11 & C40-5   & \\phn15\\,m -- \\phn1.1\\,km & 43 & 69--72 & 1.00--1.15"
+ },
+ "ht-lup_dsharp": {
+  "epoch": "2017-05-14",
+  "source": "tex:row",
+  "arxiv": "1812.04040",
+  "snippet": "HT Lup    & 2017/05/14--04:11 & C40-5   & \\phn15\\,m -- \\phn1.1\\,km & 43 & 76--77 & 1.00--1.15"
+ },
+ "my-lup_dsharp": {
+  "epoch": "2017-05-14",
+  "source": "tex:row",
+  "arxiv": "1812.04040",
+  "snippet": "MY Lup    & 2017/05/14--04:11 & C40-5   & \\phn15\\,m -- \\phn1.1\\,km & 43 & 69--71 & 1.00--1.15"
+ },
+ "ru-lup_dsharp": {
+  "epoch": "2017-05-14",
+  "source": "tex:row",
+  "arxiv": "1812.04040",
+  "snippet": "RU Lup    & 2017/05/14--04:11 & C40-5   & \\phn15\\,m -- \\phn1.1\\,km & 43 & 76--78 & 1.00--1.15"
+ },
+ "sz-114_dsharp": {
+  "epoch": "2017-05-14",
+  "source": "tex:row",
+  "arxiv": "1812.04040",
+  "snippet": "Sz 114    & 2017/05/14--04:11 & C40-5   & \\phn15\\,m -- \\phn1.1\\,km & 43 & 72--73 & 1.00--1.15"
+ },
+ "sz-129_dsharp": {
+  "epoch": "2017-05-14",
+  "source": "tex:row",
+  "arxiv": "1812.04040",
+  "snippet": "Sz 129    & 2017/05/14--04:11 & C40-5   & \\phn15\\,m -- \\phn1.1\\,km & 43 & 71--74 & 1.00--1.15"
+ },
+ "waoph-6_dsharp": {
+  "epoch": "2017-05-09",
+  "source": "tex:row",
+  "arxiv": "1812.04040",
+  "snippet": "WaOph 6   & 2017/05/09--04:28 & C40-5   & \\phn15\\,m -- \\phn1.1\\,km & 45 & 67--73 & 1.00--1.15"
+ },
+ "wsb-52_dsharp": {
+  "epoch": "2017-05-14",
+  "source": "tex:row",
+  "arxiv": "1812.04040",
+  "snippet": "WSB 52    & 2017/05/14--06:00 & C40-5   & \\phn15\\,m -- \\phn1.1\\,km & 43 & 66--79 & 0.90--1.05"
+ },
+ "dk-tau_taurus-long2019": {
+  "epoch": "2017",
+  "source": "tex:year",
+  "arxiv": "1906.10809",
+  "snippet": "2 row dates, same year: 2017-08-31; 2017-09-02"
+ },
+ "dk-tau_sphere-taurus": {
+  "epoch": "2019-09-01",
+  "source": "tex:row",
+  "arxiv": "2403.02158",
+  "snippet": "DK Tau         & 0102.C-0453(A) (GTO, Beuzit) &    H      & 2019-09-01 & 32 &  20 & 23\\\\"
+ },
+ "gi-tau_taurus-long2019": {
+  "epoch": "2017",
+  "source": "tex:year",
+  "arxiv": "1906.10809",
+  "snippet": "2 row dates, same year: 2017-08-31; 2017-09-02"
+ },
+ "gi-tau_sphere-taurus": {
+  "epoch": "2018-11-26",
+  "source": "tex:row",
+  "arxiv": "2403.02158",
+  "snippet": "GI Tau         & 0102.C-0453(A) (GTO, Beuzit)&    H      & 2018-11-26 & 32 &  20 & 11\\\\"
+ },
+ "gk-tau_taurus-long2019": {
+  "epoch": "2017",
+  "source": "tex:year",
+  "arxiv": "1906.10809",
+  "snippet": "2 row dates, same year: 2017-08-31; 2017-09-02"
+ },
+ "gk-tau_sphere-taurus": {
+  "epoch": "2019-10-24",
+  "source": "tex:row",
+  "arxiv": "2403.02158",
+  "snippet": "GK Tau         & 0102.C-0453(A) (GTO, Beuzit)&    H      & 2019-10-24 & 32 &  20 & 11\\\\"
+ },
+ "hn-tau_taurus-long2019": {
+  "epoch": "2017-08-18",
+  "source": "tex:row",
+  "arxiv": "1906.10809",
+  "snippet": "2017/08/18  &   43  & 21-3638   & 0.5 & J0423-0120,J0423-0120,J0431+1731 & T Tau, HN Tau, V710 Tau \\\\"
+ },
+ "hn-tau_sphere-taurus": {
+  "epoch": "2019-12-13",
+  "source": "tex:row",
+  "arxiv": "2403.02158",
+  "snippet": "HN Tau         & 1104.C-0415(E) (DESTINYS, Ginski)&    H      & 2019-12-13 & 64 &  12 & 13\\\\"
+ },
+ "t-tau_taurus-long2019": {
+  "epoch": "2017",
+  "source": "tex:year",
+  "arxiv": "1906.10809",
+  "snippet": "3 row dates, same year: 2017-08-18; 2017-08-31; 2017-09-02"
+ },
+ "t-tau_sphere-taurus": {
+  "epoch": "2016-11-18",
+  "source": "tex:row",
+  "arxiv": "2403.02158",
+  "snippet": "T Tau          &  198.C-0209(N) (GTO, Beuzit) &    H      & 2016-11-18 & 16 &  64 &  17\\\\"
+ },
+ "v409-tau_taurus-long2019": {
+  "epoch": "2017",
+  "source": "tex:year",
+  "arxiv": "1906.10809",
+  "snippet": "2 row dates, same year: 2017-08-31; 2017-09-02"
+ },
+ "v409-tau_sphere-taurus": {
+  "epoch": "2019-11-16",
+  "source": "tex:row",
+  "arxiv": "2403.02158",
+  "snippet": "V409 Tau       & 1104.C-0415(A) (DESTINYS, Ginski)&    H      & 2019-11-16 & 64 &  56 & 60\\\\"
+ },
+ "v710-tau_taurus-long2019": {
+  "epoch": "2017-08-18",
+  "source": "tex:row",
+  "arxiv": "1906.10809",
+  "snippet": "2017/08/18  &   43  & 21-3638   & 0.5 & J0423-0120,J0423-0120,J0431+1731 & T Tau, HN Tau, V710 Tau \\\\"
+ },
+ "v710-tau_sphere-taurus": {
+  "epoch": "2019-12-20",
+  "source": "tex:row",
+  "arxiv": "2403.02158",
+  "snippet": "V710 Tau       & 1104.C-0415(A) (DESTINYS, Ginski)&    H      & 2019-12-20 &  4 &  1536 &  102\\\\"
+ },
+ "v836-tau_taurus-long2019": {
+  "epoch": "2017-08-31",
+  "source": "tex:row",
+  "arxiv": "1906.10809",
+  "snippet": "2017/08/31  &   45  & 21-3697   & 1.3 & J0510+1800,J0510+1800,J0519+2744 & V836 Tau, CIDA 9\\\\"
+ },
+ "v836-tau_sphere-taurus": {
+  "epoch": "2019-09-01",
+  "source": "tex:row",
+  "arxiv": "2403.02158",
+  "snippet": "V836 Tau       & 0102.C-0453(A) (GTO, Beuzit)&    H      & 2019-09-01 & 32 &  20 & 11\\\\"
+ },
+ "hd-117214_spherez2020": {
+  "epoch": "2018 Feb 28",
+  "source": "tex:instr",
+  "arxiv": "1911.04793",
+  "snippet": "tric observations of HD 117214 with SPHERE-ZIMPOL \\citep[Zurich IMaging POLarimeter;][]{Schmid2018} were carri"
+ },
+ "hd-129590_alma2020": {
+  "epoch": "2018 Aug",
+  "source": "tex:instr",
+  "arxiv": "2005.05841",
+  "snippet": "ing configuration} Our sample of 10 stars were targeted by ALMA in band 6 between $7^{\\rm th}$ April and $12^{"
+ },
+ "doar-44_odisea": {
+  "epoch": "2019",
+  "source": "tex:year",
+  "arxiv": "2012.00189",
+  "snippet": "2 row dates, same year: 2019-07-11; 2019-07-13"
+ },
+ "iso-oph-17_odisea": {
+  "epoch": "2019-06-19",
+  "source": "tex:row",
+  "arxiv": "2012.00189",
+  "snippet": "ISO-Oph 17  & uid://A002/Xddc5da/Xf88  & 44\t& 2019-06-19 & 3069 &     55.9 & \t1.1 &\t83.1-16196.3   \\\\"
+ },
+ "iso-oph-196_odisea": {
+  "epoch": "2019-07-11",
+  "source": "tex:row",
+  "arxiv": "2012.00189",
+  "snippet": "ISO-Oph 196 & uid://A002/Xdeb725/Xf1e  & 44\t& 2019-07-11 & 3204 &     52.3 &\t1.4 &\t111.2-12644.7  \\\\"
+ },
+ "iso-oph-2_odisea": {
+  "epoch": "2019",
+  "source": "tex:year",
+  "arxiv": "2012.00189",
+  "snippet": "2 row dates, same year: 2019-06-12; 2019-06-21"
+ },
+ "iso-oph-37_odisea": {
+  "epoch": "2019",
+  "source": "tex:year",
+  "arxiv": "2012.00189",
+  "snippet": "3 row dates, same year: 2019-06-19; 2019-07-08; 2019-07-11"
+ },
+ "iso-oph-54_odisea": {
+  "epoch": "2019-07-12",
+  "source": "tex:row",
+  "arxiv": "2012.00189",
+  "snippet": "ISO-Oph 54  & uid://A002/Xdeb725/X96a0 & 41\t& 2019-07-12 & 3183 &\t  51.7 &\t1.2 &\t111.2-12644.7 \\\\"
+ },
+ "rx-j1633-9-2442_odisea": {
+  "epoch": "2019-06-24",
+  "source": "tex:row",
+  "arxiv": "2012.00189",
+  "snippet": "RXJ1633.9-2442 & uid://A002/Xde0eb4/Xd43 & 48\t& 2019-06-24 & 3142 &\t  75.1 & \t0.4 & \t83.1-16196.3 \\\\"
+ },
+ "sr-24s_odisea": {
+  "epoch": "2019-07-12",
+  "source": "tex:row",
+  "arxiv": "2012.00189",
+  "snippet": "SR 24S      & uid://A002/Xdeb725/X98e1 & 43\t& 2019-07-12 & 3199 &     64.5 &\t1.2 &   111.2-12644.7 \\\\"
+ },
+ "wly-2-63_odisea": {
+  "epoch": "2019-06-24",
+  "source": "tex:row",
+  "arxiv": "2012.00189",
+  "snippet": "WLY 2-63    & uid://A002/Xde0eb4/Xf81  & 48 \t& 2019-06-24 & 3058 &\t  62.6 &\t0.4 & \t83.1-16196.3  \\\\"
+ },
+ "wsb-82_odisea": {
+  "epoch": "2019-06-05",
+  "source": "tex:row",
+  "arxiv": "2012.00189",
+  "snippet": "WSB 82      & uid://A002/Xdd3de2/X1c59 & 45\t& 2019-06-05 & 3162 &\t  79.1 &\t1.0 &\t83.1-15238.4   \\\\"
+ },
+ "gq-lup_sphere2021": {
+  "epoch": "2018-08-15",
+  "source": "tex:row",
+  "arxiv": "2101.04033",
+  "snippet": "GQ Lup & 2018-08-15 & Pupil & BB\\_H\\phantom{$_\\mathrm{s}$} & 32 & 1 & \\phantom{1}38.4 & \\phantom{1}6.0 & 0.48 "
+ },
+ "hd-142527_gravity2022-shadow": {
+  "epoch": "2017-03-19",
+  "source": "tex:row",
+  "arxiv": "2112.00123",
+  "snippet": "HD~142527 & HD~143118 & 2017-03-19 & A0-G1-J2-K0 & 7 & HR & 0.7 & 6.4 & 098.D-0488(A)\\\\"
+ },
+ "hd-142527_naco-pippin": {
+  "epoch": "2012-07-18",
+  "source": "tex:row",
+  "arxiv": "2404.02222",
+  "snippet": "J15564188-4219232 & HD 142527 & Herbig Ae/Be & A2$^{(19)}$ & $2.2\\pm0.3^{(20)}$ & Yes & HWP & 2012-07-18 & H &"
+ },
+ "cw-tau_alma2022": {
+  "epoch": "2021",
+  "source": "tex:year",
+  "arxiv": "2203.16236",
+  "snippet": "ctx dates same year: 2021 Aug 8; 2021 Jul 15; 2021 Jul 22; 2021 Sep 15"
+ },
+ "cw-tau_sphere-taurus": {
+  "epoch": "2018-12-22",
+  "source": "tex:row",
+  "arxiv": "2403.02158",
+  "snippet": "CW Tau         & 0102.C-0453(A) (GTO, Beuzit) &    H      & 2018-12-22 & 32 &  32 & 17\\\\"
+ },
+ "iras-04302-2247_vla2023": {
+  "epoch": "2021",
+  "source": "tex:year",
+  "arxiv": "2302.01949",
+  "snippet": "ctx dates same year: 2021 Dec; 2021 Oct"
+ },
+ "mwc-758_lbti2023": {
+  "epoch": "2019",
+  "source": "tex:year",
+  "arxiv": "2307.04021",
+  "snippet": "ctx dates same year: 2019-01-05; 2019-11-14"
+ },
+ "mwc-758_sphere-taurus": {
+  "epoch": "2020-12-25",
+  "source": "tex:row",
+  "arxiv": "2403.02158",
+  "snippet": "MWC758         & 106.21HJ.001 (Benisty)  &K$_{\\rm s}$& 2020-12-25 & 16 & 140 & 37\\\\"
+ },
+ "mwc-758_keck-vortex-2024": {
+  "epoch": "2015-10-24",
+  "source": "tex:row",
+  "arxiv": "2408.04048",
+  "snippet": "MWC 758&2015-10-24&81&2025.0&128.8\\\\"
+ },
+ "dg-tau_alma2023": {
+  "epoch": "2015 Nov 1",
+  "source": "tex:instr",
+  "arxiv": "2307.14526",
+  "snippet": "tinuum data}\\label{obs:1.3} DG Tau was observed with ALMA long-baseline configuration on 22, 30, and 31 Octobe"
+ },
+ "dg-tau_sphere-taurus": {
+  "epoch": "2021-10-28",
+  "source": "tex:row",
+  "arxiv": "2403.02158",
+  "snippet": "DG Tau         & 1104.C-0415(D) (DESTINYS, Ginski)&    H      & 2021-10-28 & 64 &  56 & 60\\\\"
+ },
+ "cy-tau_sphere-ks-qphi": {
+  "epoch": "2021-12-09",
+  "source": "tex:row",
+  "arxiv": "2310.08589",
+  "snippet": "\\rowcolor{gray!10}$\\cdots$     & CY Tau     & V* CY Tau       & M1.5   & 3      & Taurus       & $126.3_{-0.3}"
+ },
+ "cy-tau_sphere-taurus": {
+  "epoch": "2021-12-26",
+  "source": "tex:row",
+  "arxiv": "2403.02158",
+  "snippet": "CY Tau         &  108.22EE.001 (Benisty) &K$_{\\rm s}$& 2021-12-26 & 32 &  96 & 51\\\\"
+ },
+ "v2149-ori_destinys-orion": {
+  "epoch": "2001 Dec",
+  "source": "tex:row",
+  "arxiv": "2403.02156",
+  "snippet": "\\textit{V2149 Ori}. The separation of the known binary V2149 Ori was measured as 0.33$\\pm{0.01}$\\,arsec in Dec"
+ },
+ "bp-tau_sphere-taurus": {
+  "epoch": "2018-12-22",
+  "source": "tex:row",
+  "arxiv": "2403.02158",
+  "snippet": "BP Tau         & 0102.C-0453(A) (GTO, Beuzit) &    H      & 2018-12-22 & 32 &  20 & 11\\\\"
+ },
+ "ci-tau_sphere-taurus": {
+  "epoch": "2018-01-01",
+  "source": "tex:row",
+  "arxiv": "2403.02158",
+  "snippet": "CI Tau         & 0100.C-0452(A)  (Benisty) &    H      & 2018-01-01 & 64 &  32 & 34\\\\"
+ },
+ "cq-tau_sphere-taurus": {
+  "epoch": "2017-10-06",
+  "source": "tex:row",
+  "arxiv": "2403.02158",
+  "snippet": "CQ Tau         & 098.C-0760(B) (Benisty)  & J & 2017-10-06 & 50 & 40 & 33 \\\\"
+ },
+ "cq-tau_keck-vortex-2024": {
+  "epoch": "2018-12-24",
+  "source": "tex:row",
+  "arxiv": "2408.04048",
+  "snippet": "CQ Tau&2018-12-24&60&1800.0&111.0\\\\"
+ },
+ "cx-tau_sphere-taurus": {
+  "epoch": "2019-10-23",
+  "source": "tex:row",
+  "arxiv": "2403.02158",
+  "snippet": "CX Tau         & 0102.C-0453(A) (GTO, Beuzit) &    H      & 2019-10-23 & 32 &  20 & 11\\\\"
+ },
+ "de-tau_sphere-taurus": {
+  "epoch": "2019-10-11",
+  "source": "tex:row",
+  "arxiv": "2403.02158",
+  "snippet": "DE Tau         & 0102.C-0453(A) (GTO, Beuzit) &    H      & 2019-10-11 & 32 &  20 &  11\\\\"
+ },
+ "dh-tau_sphere-taurus": {
+  "epoch": "2019-10-23",
+  "source": "tex:row",
+  "arxiv": "2403.02158",
+  "snippet": "DH Tau         & 0102.C-0916(A) (GTO, Beuzit) &    H      & 2019-10-23 & 64 &  36 & 38\\\\"
+ },
+ "dl-tau_sphere-taurus": {
+  "epoch": "2018-12-28",
+  "source": "tex:row",
+  "arxiv": "2403.02158",
+  "snippet": "DL Tau         & 0102.C-0453(A) (GTO, Beuzit) &    H      & 2018-12-28 & 32 &  20 & 11\\\\"
+ },
+ "dm-tau_sphere-taurus": {
+  "epoch": "2018-10-01",
+  "source": "tex:row",
+  "arxiv": "2403.02158",
+  "snippet": "DM Tau         & 0101.C-0867(A) (Keppler) &    H      & 2018-10-01 & 96 &  36 & 58\\\\"
+ },
+ "dn-tau_sphere-taurus": {
+  "epoch": "2019-08-15",
+  "source": "tex:row",
+  "arxiv": "2403.02158",
+  "snippet": "DN Tau         & 0102.C-0453(A)  (GTO, Beuzit) &    H      & 2019-08-15 & 32 &  20 & 11\\\\"
+ },
+ "do-tau_sphere-taurus": {
+  "epoch": "2019-12-19",
+  "source": "tex:row",
+  "arxiv": "2403.02158",
+  "snippet": "DO Tau         & 1104.C-0415(E) (DESTINYS, Ginski)&    H      & 2019-12-19 & 64 &  56 & 60\\\\"
+ },
+ "dq-tau_sphere-taurus": {
+  "epoch": "2019-11-24",
+  "source": "tex:row",
+  "arxiv": "2403.02158",
+  "snippet": "DQ Tau         & 1104.C-0415(E) (DESTINYS, Ginski)&    H      & 2019-11-24 & 64 &  56 & 60\\\\"
+ },
+ "dr-tau_sphere-taurus": {
+  "epoch": "2018-11-25",
+  "source": "tex:row",
+  "arxiv": "2403.02158",
+  "snippet": "DR Tau         & 0102.C-0453(A) (GTO, Beuzit) &    H      & 2018-11-25 & 32 &  20 & 11\\\\"
+ },
+ "gg-tau_sphere-taurus": {
+  "epoch": "2016-11-18",
+  "source": "tex:row",
+  "arxiv": "2403.02158",
+  "snippet": "GG Tau         &  198.C-0209(N) (Beuzit) &    H      & 2016-11-18 &  4 &  660 &  44 \\\\"
+ },
+ "hp-tau_sphere-taurus": {
+  "epoch": "2019-12-19",
+  "source": "tex:row",
+  "arxiv": "2403.02158",
+  "snippet": "V$^*$ HP Tau   & 1104.C-0415(E) (DESTINYS, Ginski)&    H      & 2019-12-19 & 64 &  56 & 60\\\\"
+ },
+ "hq-tau_sphere-taurus": {
+  "epoch": "2018-11-28",
+  "source": "tex:row",
+  "arxiv": "2403.02158",
+  "snippet": "HQ Tau         & 0102.C-0453(A) (GTO, Beuzit) &    H      & 2018-11-28 & 32 &  20 & 11\\\\"
+ },
+ "ip-tau_sphere-taurus": {
+  "epoch": "2019-12-14",
+  "source": "tex:row",
+  "arxiv": "2403.02158",
+  "snippet": "IP Tau         & 1104.C-0415(A) (DESTINYS, Ginski)&    H      & 2019-12-14 & 64 &  56 & 60\\\\"
+ },
+ "iq-tau_sphere-taurus": {
+  "epoch": "2018-12-18",
+  "source": "tex:row",
+  "arxiv": "2403.02158",
+  "snippet": "IQ Tau         & 0102.C-0453(A) (GTO, Beuzit) &    H      & 2018-12-18 & 32 &  44 & 23\\\\"
+ },
+ "rw-aur_sphere-taurus": {
+  "epoch": "2019-12-04",
+  "source": "tex:row",
+  "arxiv": "2403.02158",
+  "snippet": "RW Aur         & 0104.C-0122(A) (Facchini)&    H      & 2019-12-04 & 16 &  192 & 51\\\\"
+ },
+ "ry-tau_sphere-taurus": {
+  "epoch": "2018-12-16",
+  "source": "tex:row",
+  "arxiv": "2403.02158",
+  "snippet": "RY Tau         & 1104.C-0415(E) (DESTINYS, Ginski)&    H      & 2018-12-16 & 32 &  68 & 36\\\\"
+ },
+ "ry-tau_keck-vortex-2024": {
+  "epoch": "2015-10-22",
+  "source": "tex:row",
+  "arxiv": "2408.04048",
+  "snippet": "RY Tau&2015-10-22&33&825.0&12.0\\\\"
+ },
+ "ux-tau_sphere-taurus": {
+  "epoch": "2017-10-05",
+  "source": "tex:row",
+  "arxiv": "2403.02158",
+  "snippet": "UX Tau         & 0100.C-0452(B) (Benisty) &    H     & 2017-10-05 &  64 & 48 & 51 \\\\"
+ },
+ "uy-aur_sphere-taurus": {
+  "epoch": "2021-01-21",
+  "source": "tex:row",
+  "arxiv": "2403.02158",
+  "snippet": "UY Aur         & 1104.C-0415(G) (DESTINYS, Ginski)&    H      & 2021-01-21 & 16 &  94 & 25\\\\"
+ },
+ "v1025-tau_sphere-taurus": {
+  "epoch": "2019-12-15",
+  "source": "tex:row",
+  "arxiv": "2403.02158",
+  "snippet": "V$^*$ V1025 Tau& 1104.C-0415(A) (DESTINYS, Ginski)&    H      & 2019-12-15 & 64 &  56 & 60\\\\"
+ },
+ "v807-tau_sphere-taurus": {
+  "epoch": "2019-12-30",
+  "source": "tex:row",
+  "arxiv": "2403.02158",
+  "snippet": "V807 Tau       & 1104.C-0415(E) (DESTINYS, Ginski)&    H      & 2019-12-30 &0.837&4320 &  60\\\\"
+ },
+ "xz-tau_sphere-taurus": {
+  "epoch": "2017-10-12",
+  "source": "tex:row",
+  "arxiv": "2403.02158",
+  "snippet": "XZ Tau         & 0100.C-0408(A) (Cieza) &    H      & 2017-10-12 & 64 &  90 & 96\\\\"
+ },
+ "ak-sco_naco-pippin": {
+  "epoch": "2015-07-22",
+  "source": "tex:row",
+  "arxiv": "2404.02222",
+  "snippet": "J16544485-3653185 & AK Sco & Herbig Ae/Be & F5$^{(19)}$ & $1.35\\pm0.07^{(30)}$ & Yes & HWP & 2015-07-22 & Ks &"
+ },
+ "cr-cha_naco-pippin": {
+  "epoch": "2006-04-09",
+  "source": "tex:row",
+  "arxiv": "2404.02222",
+  "snippet": "J10590699-7701404 & CR Cha & Orion Var. & K4$^{(8)}$ & $1.9\\pm0.2^{(9)}$ & Yes & HWP & 2006-04-09 & Ks & 0.5 &"
+ },
+ "elias-25_naco-pippin": {
+  "epoch": "2003-06-18",
+  "source": "tex:row",
+  "arxiv": "2404.02222",
+  "snippet": "J16263416-2423282 & Elia 2-25 & T Tau & B3$^{(25)}$ &  & Yes & PA & 2003-06-18 & Ks & 0.109 & 10 & $12.64\\pm1."
+ },
+ "hd-163296_naco-pippin": {
+  "epoch": "2012-07-23",
+  "source": "tex:row",
+  "arxiv": "2404.02222",
+  "snippet": "J17562128-2157218 & HD 163296 & Herbig Ae/Be & A1$^{(3)}$ & $2.23\\pm0.22^{(32)}$ & Yes & HWP & 2012-07-23 & H "
+ },
+ "hd-163296_scexao-mullin": {
+  "epoch": "2022-04-08",
+  "source": "tex:row",
+  "arxiv": "2602.20346",
+  "snippet": "9. &HD 163296 & 2022/04/08 & Subaru & CHARIS & K & sat (326) & 16.20 & 4 & 31.0 & 60.0 & - \\\\"
+ },
+ "hd-169142_naco-pippin": {
+  "epoch": "2007-06-04",
+  "source": "tex:row",
+  "arxiv": "2404.02222",
+  "snippet": "J18242978-2946492 & HD 169142 & Herbig Ae/Be & F1$^{(13)}$ & $1.79^{(33)}$ & Yes & HWP & 2007-06-04 & Ks & 0.3"
+ },
+ "hd-97048_naco-pippin": {
+  "epoch": "2006-04-07",
+  "source": "tex:row",
+  "arxiv": "2404.02222",
+  "snippet": "J11080329-7739174 & HD 97048 & Herbig Ae/Be & A0$^{(11)}$ & $2.5\\pm0.2^{(12)}$ & Yes & HWP & 2006-04-07 & Ks &"
+ },
+ "pds-66_naco-pippin": {
+  "epoch": "2004-05-01",
+  "source": "tex:row",
+  "arxiv": "2404.02222",
+  "snippet": "J13220753-6938121 & MP Mus & T Tau & K1$^{(8)}$ &  & No & PA & 2004-05-01 & NB\\_1.64 & 2 & 18 & - & - & 073.C-"
+ },
+ "sz-91_naco-pippin": {
+  "epoch": "2017-03-20",
+  "source": "tex:row",
+  "arxiv": "2404.02222",
+  "snippet": "J16071159-3903475 & Sz 91 & T Tau & M2.0$^{(1)}$ & $0.58\\pm0.07^{(22)}$ & Yes & HWP & 2017-03-20 & Ks & 30 & 4"
+ },
+ "hd-216956c_jwst2024": {
+  "epoch": "2022 Nov 26",
+  "source": "tex:row",
+  "arxiv": "2405.00573",
+  "snippet": "FOMALHAUT-C & M4 & 6.92 & 6.79 & 2022 Nov 26 & -13.5 & 13.3 & 21.4 & -5.0 \\\\"
+ },
+ "hd-34282_keck-vortex-2024": {
+  "epoch": "2017-02-07",
+  "source": "tex:row",
+  "arxiv": "2408.04048",
+  "snippet": "HD 34282&2017-02-07&73&3285.0&61.3\\\\"
+ },
+ "pds-70_keck-vortex-2024": {
+  "epoch": "2019-06-08",
+  "source": "tex:row",
+  "arxiv": "2408.04048",
+  "snippet": "PDS 70&2019-06-08&42&1260.0&27.8\\\\"
+ },
+ "rx-j1604-3-2130_keck-vortex-2024": {
+  "epoch": "2017-05-10",
+  "source": "tex:row",
+  "arxiv": "2408.04048",
+  "snippet": "2MJ1604\\tablenotemark{a}&2017-05-10&73&3285.0&36.2\\\\"
+ },
+ "hd-120326_stis-desgrange": {
+  "epoch": "2013-06-20",
+  "source": "tex:instr",
+  "arxiv": "2504.15352",
+  "snippet": "f the bright point-source lying on the spiral-like feature (see Fig.~\\ref{fig:im_HST_flux}) between the HST/ST"
+ },
+ "hsc-j0217-0208_jwst-ding25": {
+  "epoch": "2023-12-10",
+  "source": "tex:row",
+  "arxiv": "2505.03876",
+  "snippet": "HSC J0217$-$0208 & 02 17 21.59 & $-$02 08 52.6 & 6.2 & 2023-12-10 & $-$23.19 & 7, 3 \\\\"
+ },
+ "hsc-j0844-0052_jwst-ding25": {
+  "epoch": "2023-11-16",
+  "source": "tex:row",
+  "arxiv": "2505.03876",
+  "snippet": "HSC J0844$-$0052 & 08 44 31.60 & $-$00 52 54.6 & 6.25 & 2023-11-16 & $-$23.74  & 18, 11 \\\\"
+ },
+ "hsc-j0844-0132_jwst-ding25": {
+  "epoch": "2022-11-28",
+  "source": "tex:row",
+  "arxiv": "2505.03876",
+  "snippet": "HSC J0844$-$0132 & 08 44 08.61  & $-$01 32 16.5 & 6.18 & 2022-11-28 & $-$23.97  & 11, 14 \\\\"
+ },
+ "hsc-j0911-0152_jwst-ding25": {
+  "epoch": "2022-12-25",
+  "source": "tex:row",
+  "arxiv": "2505.03876",
+  "snippet": "HSC J0911+0152 & 09 11 14.27 & +01 52 19.4 & 6.07 & 2022-12-25 & $-$22.09  & 14, 8 \\\\"
+ },
+ "hsc-j0918-0139_jwst-ding25": {
+  "epoch": "2022-12-25",
+  "source": "tex:row",
+  "arxiv": "2505.03876",
+  "snippet": "HSC J0918+0139 & 09 18 33.17 & +01 39 23.4 & 6.19 & 2022-12-25 & $-$23.71  & 9, 8 \\\\"
+ },
+ "hsc-j1146-0124_jwst-ding25": {
+  "epoch": "2023-06-23",
+  "source": "tex:row",
+  "arxiv": "2505.03876",
+  "snippet": "HSC J1146+0124 & 11 46 48.42 & +01 24 20.1 & 6.27 & 2023-06-23 & $-$23.71  & 7, 3 \\\\"
+ },
+ "hsc-j1425-0015_jwst-ding25": {
+  "epoch": "2023-02-27",
+  "source": "tex:row",
+  "arxiv": "2505.03876",
+  "snippet": "HSC J1425$-$0015 & 14 25 17.72 & $-$00 15 40.8 & 6.18 & 2023-02-27 & $-$23.44  & 13, 10 \\\\"
+ },
+ "hsc-j1512-4422_jwst-ding25": {
+  "epoch": "2023-03-19",
+  "source": "tex:row",
+  "arxiv": "2505.03876",
+  "snippet": "HSC J1512+4422 & 15 12 48.71 & +44 22 17.5 & 6.19 & 2023-03-19 & $-$22.07  & 6, 4 \\\\"
+ },
+ "hsc-j1525-4303_jwst-ding25": {
+  "epoch": "2023-03-19",
+  "source": "tex:row",
+  "arxiv": "2505.03876",
+  "snippet": "HSC J1525+4303 & 15 25 55.79 & +43 03 24.0 & 6.27 & 2023-03-19 & $-$23.61  & 7, 6 \\\\"
+ },
+ "hd-143006_scexao-mullin": {
+  "epoch": "2022-04-08",
+  "source": "tex:row",
+  "arxiv": "2602.20346",
+  "snippet": "14. &HD 143006 & 2022/04/08 & Subaru & CHARIS & K & sat (81) & 16.20 & 4 & 60.5 & 79.7 & - \\\\"
+ },
+ "au-mic_gpies-debris": {
+  "epoch": "2014-05-15",
+  "source": "tex:gpies-log",
+  "arxiv": "2004.13722",
+  "snippet": "1 GPI epochs"
+ },
+ "au-mic_gpies-debris-toti": {
+  "epoch": "2014-05-15",
+  "source": "tex:gpies-log",
+  "arxiv": "2004.13722",
+  "snippet": "1 GPI epochs"
+ },
+ "hd-169142_sphere-ks-rdi": {
+  "epoch": "2021-09-06",
+  "source": "tex:ksrdi-log",
+  "arxiv": "2310.08589",
+  "snippet": "star-hopping log"
+ },
+ "hd-169142_sphere-ks-qphi": {
+  "epoch": "2021-09-06",
+  "source": "tex:ksrdi-log",
+  "arxiv": "2310.08589",
+  "snippet": "star-hopping log"
+ },
+ "hd-191089_gpies-debris": {
+  "epoch": "2015-08-31",
+  "source": "tex:gpies-log",
+  "arxiv": "2004.13722",
+  "snippet": "2 GPI epochs"
+ },
+ "hd-111520_gpies-debris": {
+  "epoch": "2015-2016",
+  "source": "tex:gpies-log",
+  "arxiv": "2004.13722",
+  "snippet": "2 GPI epochs"
+ },
+ "hd-111161_gpies-debris": {
+  "epoch": "2018-02-04",
+  "source": "tex:gpies-log",
+  "arxiv": "2004.13722",
+  "snippet": "2 GPI epochs"
+ },
+ "lkca-15_sphere-ks-rdi": {
+  "epoch": "2020-11-27",
+  "source": "tex:ksrdi-log",
+  "arxiv": "2310.08589",
+  "snippet": "star-hopping log"
+ },
+ "lkca-15_sphere-ks-qphi": {
+  "epoch": "2020-11-27",
+  "source": "tex:ksrdi-log",
+  "arxiv": "2310.08589",
+  "snippet": "star-hopping log"
+ },
+ "dn-tau_sphere-ks-qphi": {
+  "epoch": "2021-11-24",
+  "source": "tex:ksrdi-log",
+  "arxiv": "2310.08589",
+  "snippet": "star-hopping log"
+ },
+ "hd-15115_gpies-debris": {
+  "epoch": "2013-12-12",
+  "source": "tex:gpies-log",
+  "arxiv": "2004.13722",
+  "snippet": "1 GPI epochs"
+ },
+ "hd-35841_gpies-debris": {
+  "epoch": "2016-02-28",
+  "source": "tex:gpies-log",
+  "arxiv": "2004.13722",
+  "snippet": "2 GPI epochs"
+ },
+ "lkha-330_sphere-ks-rdi": {
+  "epoch": "2020-12-08",
+  "source": "tex:ksrdi-log",
+  "arxiv": "2310.08589",
+  "snippet": "star-hopping log"
+ },
+ "lkha-330_sphere-ks-qphi": {
+  "epoch": "2020-12-08",
+  "source": "tex:ksrdi-log",
+  "arxiv": "2310.08589",
+  "snippet": "star-hopping log"
+ },
+ "nz-lup_gpies-debris": {
+  "epoch": "2015-04-08",
+  "source": "tex:gpies-log",
+  "arxiv": "2004.13722",
+  "snippet": "1 GPI epochs"
+ },
+ "hd-100453_sphere-ks-rdi": {
+  "epoch": "2022-06-09",
+  "source": "tex:ksrdi-log",
+  "arxiv": "2310.08589",
+  "snippet": "star-hopping log"
+ },
+ "hd-100453_sphere-ks-qphi": {
+  "epoch": "2022-06-09",
+  "source": "tex:ksrdi-log",
+  "arxiv": "2310.08589",
+  "snippet": "star-hopping log"
+ },
+ "ds-tau_sphere-ks-qphi": {
+  "epoch": "2021-12-29",
+  "source": "tex:ksrdi-log",
+  "arxiv": "2310.08589",
+  "snippet": "star-hopping log"
+ },
+ "hd-143675_gpies-debris": {
+  "epoch": "2018-04-08",
+  "source": "tex:gpies-log",
+  "arxiv": "2004.13722",
+  "snippet": "1 GPI epochs"
+ },
+ "sz-cha_sphere-ks-rdi": {
+  "epoch": "2020-12-29",
+  "source": "tex:ksrdi-log",
+  "arxiv": "2310.08589",
+  "snippet": "star-hopping log"
+ },
+ "sz-cha_sphere-ks-qphi": {
+  "epoch": "2020-12-29",
+  "source": "tex:ksrdi-log",
+  "arxiv": "2310.08589",
+  "snippet": "star-hopping log"
+ },
+ "dl-tau_sphere-ks-qphi": {
+  "epoch": "2021-12-04",
+  "source": "tex:ksrdi-log",
+  "arxiv": "2310.08589",
+  "snippet": "star-hopping log"
+ },
+ "hd-163296_sphere-ks-qphi": {
+  "epoch": "2021-04-06",
+  "source": "tex:ksrdi-log",
+  "arxiv": "2310.08589",
+  "snippet": "star-hopping log"
+ },
+ "hr-4796a_gpies-debris": {
+  "epoch": "2013-12-12",
+  "source": "tex:gpies-log",
+  "arxiv": "2004.13722",
+  "snippet": "1 GPI epochs"
+ },
+ "hd-146897_gpies-debris": {
+  "epoch": "2016-03-21",
+  "source": "tex:gpies-log",
+  "arxiv": "2004.13722",
+  "snippet": "1 GPI epochs"
+ },
+ "hd-114082_gpies-debris": {
+  "epoch": "2017-08-07",
+  "source": "tex:gpies-log",
+  "arxiv": "2004.13722",
+  "snippet": "1 GPI epochs"
+ },
+ "hd-157587_gpies-debris": {
+  "epoch": "2015-08-29",
+  "source": "tex:gpies-log",
+  "arxiv": "2004.13722",
+  "snippet": "1 GPI epochs"
+ },
+ "ip-tau_sphere-ks-qphi": {
+  "epoch": "2021-12-09",
+  "source": "tex:ksrdi-log",
+  "arxiv": "2310.08589",
+  "snippet": "star-hopping log"
+ },
+ "gm-aur_sphere-ks-qphi": {
+  "epoch": "2021-01-20",
+  "source": "tex:ksrdi-log",
+  "arxiv": "2310.08589",
+  "snippet": "star-hopping log"
+ },
+ "hd-131835_gpies-debris": {
+  "epoch": "2018-11-21",
+  "source": "tex:gpies-log",
+  "arxiv": "2004.13722",
+  "snippet": "1 GPI epochs"
+ },
+ "hd-135344b_sphere-ks-rdi": {
+  "epoch": "2021-06-04",
+  "source": "tex:ksrdi-log",
+  "arxiv": "2310.08589",
+  "snippet": "star-hopping log"
+ },
+ "hd-135344b_sphere-ks-qphi": {
+  "epoch": "2021-06-04",
+  "source": "tex:ksrdi-log",
+  "arxiv": "2310.08589",
+  "snippet": "star-hopping log"
+ },
+ "ak-sco_gpies": {
+  "epoch": "2018-08-11",
+  "source": "tex:gpies-log",
+  "arxiv": "2004.13722",
+  "snippet": "1 GPI epochs"
+ },
+ "hd-145560_gpies-debris": {
+  "epoch": "2018-08-12",
+  "source": "tex:gpies-log",
+  "arxiv": "2004.13722",
+  "snippet": "1 GPI epochs"
+ },
+ "mwc-480_sphere-ks-qphi": {
+  "epoch": "2021-12-10",
+  "source": "tex:ksrdi-log",
+  "arxiv": "2310.08589",
+  "snippet": "star-hopping log"
+ },
+ "hd-156623_gpies-debris": {
+  "epoch": "2017-2019",
+  "source": "tex:gpies-log",
+  "arxiv": "2004.13722",
+  "snippet": "2 GPI epochs"
+ },
+ "hd-100546_gpies": {
+  "epoch": "2013-12-12",
+  "source": "tex:gpies-log",
+  "arxiv": "2004.13722",
+  "snippet": "1 GPI epochs"
+ },
+ "hd-100546_sphere-ks-rdi": {
+  "epoch": "2020-12-22",
+  "source": "tex:ksrdi-log",
+  "arxiv": "2310.08589",
+  "snippet": "star-hopping log"
+ },
+ "hd-100546_sphere-ks-qphi": {
+  "epoch": "2020-12-22",
+  "source": "tex:ksrdi-log",
+  "arxiv": "2310.08589",
+  "snippet": "star-hopping log"
+ },
+ "hd-32297_gpies-debris": {
+  "epoch": "2014-12-18",
+  "source": "tex:gpies-log",
+  "arxiv": "2004.13722",
+  "snippet": "1 GPI epochs"
+ },
+ "hd-115600_gpies-debris": {
+  "epoch": "2015-07-03",
+  "source": "tex:gpies-log",
+  "arxiv": "2004.13722",
+  "snippet": "1 GPI epochs"
+ },
+ "sy-cha_sphere-ks-qphi": {
+  "epoch": "2021-01-02",
+  "source": "tex:ksrdi-log",
+  "arxiv": "2310.08589",
+  "snippet": "star-hopping log"
+ },
+ "ci-tau_sphere-ks-qphi": {
+  "epoch": "2021-12-09",
+  "source": "tex:ksrdi-log",
+  "arxiv": "2310.08589",
+  "snippet": "star-hopping log"
+ },
+ "hd-117214_gpies-debris": {
+  "epoch": "2018-03-11",
+  "source": "tex:gpies-log",
+  "arxiv": "2004.13722",
+  "snippet": "1 GPI epochs"
+ },
+ "hd-110058_gpies-debris": {
+  "epoch": "2016",
+  "source": "tex:gpies-log",
+  "arxiv": "2004.13722",
+  "snippet": "2 GPI epochs"
+ },
+ "hr-7012_gpies-debris": {
+  "epoch": "2018-09-21",
+  "source": "tex:gpies-log",
+  "arxiv": "2004.13722",
+  "snippet": "1 GPI epochs"
+ },
+ "hd-34282_sphere-ks-rdi": {
+  "epoch": "2020-11-28",
+  "source": "tex:ksrdi-log",
+  "arxiv": "2310.08589",
+  "snippet": "star-hopping log"
+ },
+ "hd-34282_sphere-ks-qphi": {
+  "epoch": "2020-11-28",
+  "source": "tex:ksrdi-log",
+  "arxiv": "2310.08589",
+  "snippet": "star-hopping log"
+ },
+ "hd-141569_gpies": {
+  "epoch": "2014-03-21",
+  "source": "tex:gpies-log",
+  "arxiv": "2004.13722",
+  "snippet": "2 GPI epochs"
+ },
+ "v1247-ori_sphere-ks-rdi": {
+  "epoch": "2020-12-20",
+  "source": "tex:ksrdi-log",
+  "arxiv": "2310.08589",
+  "snippet": "star-hopping log"
+ },
+ "v1247-ori_sphere-ks-qphi": {
+  "epoch": "2020-12-20",
+  "source": "tex:ksrdi-log",
+  "arxiv": "2310.08589",
+  "snippet": "star-hopping log"
+ },
+ "pds-201_sphere-ks-rdi": {
+  "epoch": "2022-02-07",
+  "source": "tex:ksrdi-log",
+  "arxiv": "2310.08589",
+  "snippet": "star-hopping log"
+ },
+ "pds-201_sphere-ks-qphi": {
+  "epoch": "2022-02-07",
+  "source": "tex:ksrdi-log",
+  "arxiv": "2310.08589",
+  "snippet": "star-hopping log"
+ },
+ "pds-66_sphere-ks-rdi": {
+  "epoch": "2021-06-04",
+  "source": "tex:ksrdi-log",
+  "arxiv": "2310.08589",
+  "snippet": "star-hopping log"
+ },
+ "pds-66_sphere-ks-qphi": {
+  "epoch": "2021-06-04",
+  "source": "tex:ksrdi-log",
+  "arxiv": "2310.08589",
+  "snippet": "star-hopping log"
+ },
+ "hd-97048_sphere-ks-rdi": {
+  "epoch": "2021-01-28",
+  "source": "tex:ksrdi-log",
+  "arxiv": "2310.08589",
+  "snippet": "star-hopping log"
+ },
+ "hd-97048_sphere-ks-qphi": {
+  "epoch": "2021-01-28",
+  "source": "tex:ksrdi-log",
+  "arxiv": "2310.08589",
+  "snippet": "star-hopping log"
+ },
+ "cq-tau_sphere-ks-rdi": {
+  "epoch": "2021-01-01",
+  "source": "tex:ksrdi-log",
+  "arxiv": "2310.08589",
+  "snippet": "star-hopping log"
+ },
+ "cq-tau_sphere-ks-qphi": {
+  "epoch": "2021-01-01",
+  "source": "tex:ksrdi-log",
+  "arxiv": "2310.08589",
+  "snippet": "star-hopping log"
+ },
+ "hd-30447_gpies-debris": {
+  "epoch": "2016-09-20",
+  "source": "tex:gpies-log",
+  "arxiv": "2004.13722",
+  "snippet": "2 GPI epochs"
+ },
+ "mwc-758_sphere-ks-rdi": {
+  "epoch": "2020-12-19",
+  "source": "tex:ksrdi-log",
+  "arxiv": "2310.08589",
+  "snippet": "star-hopping log"
+ },
+ "mwc-758_sphere-ks-qphi": {
+  "epoch": "2020-12-19",
+  "source": "tex:ksrdi-log",
+  "arxiv": "2310.08589",
+  "snippet": "star-hopping log"
+ },
+ "hd-106906_gpies-debris": {
+  "epoch": "2015",
+  "source": "tex:gpies-log",
+  "arxiv": "2004.13722",
+  "snippet": "2 GPI epochs"
+ },
+ "dm-tau_sphere-ks-qphi": {
+  "epoch": "2020-12-19",
+  "source": "tex:ksrdi-log",
+  "arxiv": "2310.08589",
+  "snippet": "star-hopping log"
+ },
+ "hd-129590_gpies-debris": {
+  "epoch": "2017-08-09",
+  "source": "tex:gpies-log",
+  "arxiv": "2004.13722",
+  "snippet": "1 GPI epochs"
+ },
+ "iq-tau_sphere-ks-qphi": {
+  "epoch": "2022-01-01",
+  "source": "tex:ksrdi-log",
+  "arxiv": "2310.08589",
+  "snippet": "star-hopping log"
+ },
+ "hd-143006_sphere-ks-rdi": {
+  "epoch": "2021-06-30",
+  "source": "tex:ksrdi-log",
+  "arxiv": "2310.08589",
+  "snippet": "star-hopping log"
+ },
+ "hd-143006_sphere-ks-qphi": {
+  "epoch": "2021-06-30",
+  "source": "tex:ksrdi-log",
+  "arxiv": "2310.08589",
+  "snippet": "star-hopping log"
+ },
+ "beta-pic_gpies-debris": {
+  "epoch": "2013-12-12",
+  "source": "tex:gpies-log",
+  "arxiv": "2004.13722",
+  "snippet": "1 GPI epochs"
+ },
+ "beta-pic_gpies-debris-toti": {
+  "epoch": "2013-12-12",
+  "source": "tex:gpies-log",
+  "arxiv": "2004.13722",
+  "snippet": "1 GPI epochs"
+ },
+ "hd-61005_gpies-debris": {
+  "epoch": "2014-03-24",
+  "source": "tex:gpies-log",
+  "arxiv": "2004.13722",
+  "snippet": "1 GPI epochs"
+ },
+ "ak-sco_alma2015": {
+  "epoch": "2014 Apr 10",
+  "source": "tex:manual",
+  "arxiv": "1505.01850",
+  "snippet": "observed using 32 ALMA antennas and the Band 6 receivers on 2014 April 10 (2012.1.00496.S)"
+ },
+ "1rxs-j1609_magao2015": {
+  "epoch": "2013",
+  "source": "tex:year",
+  "arxiv": "1506.05816",
+  "snippet": "ctx dates same year: 2013 Apr 6"
+ },
+ "oph-irs-48_vla2015": {
+  "epoch": "2015 Feb",
+  "source": "tex:instr",
+  "arxiv": "1508.01003",
+  "snippet": "*} Observations of Oph IRS 48 at 34 GHz (9 mm) were obtained using the VLA in the CnB and B configurations in "
+ },
+ "oph-irs-48_naco2017": {
+  "epoch": "2013",
+  "source": "tex:year",
+  "arxiv": "1706.06678",
+  "snippet": "ctx dates same year: 2013 Mar 25"
+ },
+ "oph-irs-48_comics2018": {
+  "epoch": "2015 Apr 26",
+  "source": "tex:instr",
+  "arxiv": "1804.02145",
+  "snippet": "ions} Oph\\,IRS\\,48 was observed with the COMICS \\citep{kat00a,oka03a,sak03a} mounted on the 8.2 m Subaru Teles"
+ },
+ "au-mic_herschel2016": {
+  "epoch": "2010 May 9",
+  "source": "tex:irow",
+  "arxiv": "1509.06415",
+  "snippet": "1342196038 & 9 May 2010 & PacsPhoto 70/160 (scan 135) & 5478 & $-$\\\\"
+ },
+ "cy-tau_carma-1.3mm": {
+  "epoch": "2009",
+  "source": "tex:year",
+  "arxiv": "1509.07520",
+  "snippet": "ctx dates same year: 2009 Dec"
+ },
+ "cy-tau_carma-2.8mm": {
+  "epoch": "2009",
+  "source": "tex:year",
+  "arxiv": "1509.07520",
+  "snippet": "ctx dates same year: 2009 Dec"
+ },
+ "hd-100453_sphere-k1-wagner2015": {
+  "epoch": "2015 Apr 10",
+  "source": "tex:instr",
+  "arxiv": "1510.02212",
+  "snippet": "53 B, star C). We summarize our results in $\\S$5. \\section{Observations and Data Reduction} We observed HD 100"
+ },
+ "hd-100453_sphere-k2-wagner2015": {
+  "epoch": "2015 Apr 10",
+  "source": "tex:instr",
+  "arxiv": "1510.02212",
+  "snippet": "53 B, star C). We summarize our results in $\\S$5. \\section{Observations and Data Reduction} We observed HD 100"
+ },
+ "hd-100453_ifs-y-wagner2015": {
+  "epoch": "2015 Apr 10",
+  "source": "tex:instr",
+  "arxiv": "1510.02212",
+  "snippet": "53 B, star C). We summarize our results in $\\S$5. \\section{Observations and Data Reduction} We observed HD 100"
+ },
+ "hd-100453_ifs-j-wagner2015": {
+  "epoch": "2015 Apr 10",
+  "source": "tex:instr",
+  "arxiv": "1510.02212",
+  "snippet": "53 B, star C). We summarize our results in $\\S$5. \\section{Observations and Data Reduction} We observed HD 100"
+ },
+ "hd-100453_ifs-h-wagner2015": {
+  "epoch": "2015 Apr 10",
+  "source": "tex:instr",
+  "arxiv": "1510.02212",
+  "snippet": "53 B, star C). We summarize our results in $\\S$5. \\section{Observations and Data Reduction} We observed HD 100"
+ },
+ "hd-104860_carma2015": {
+  "epoch": "2012 Jan 12",
+  "source": "tex:row",
+  "arxiv": "1510.08890",
+  "snippet": "HD 104860$^\\text{a}$ &2012 Jan 12 & 7 & $9-45$& $0.05-0.1$ & 225.472 & 0.12 & $3.19\\times 2.83$ & Titan & J115"
+ },
+ "hd-377_sma2016": {
+  "epoch": "2012 Jun 25",
+  "source": "tex:row",
+  "arxiv": "1510.08890",
+  "snippet": "HD 377$^\\text{a}$ & 2012 Jun 25 & 7 & $16-77$ & $0.03-0.06$ & 340.794 & 0.64 & $2.16\\times 1.98$ & Uranus & J0"
+ },
+ "beta-pic_magao-clio2015": {
+  "epoch": "2012",
+  "source": "tex:year",
+  "arxiv": "1511.02894",
+  "snippet": "ctx dates same year: 2012 Dec; 2012 Dec 4; 2012 Dec 7"
+ },
+ "l2-puppis_zimpol-v": {
+  "epoch": "2014 Dec 7",
+  "source": "tex:instr",
+  "arxiv": "1511.04448",
+  "snippet": "talled at the Nasmyth focus of the Unit Telescope~3 of the Very Large Telescope. We observed L$_2$\\,Pup on the"
+ },
+ "l2-puppis_zimpol-nr": {
+  "epoch": "2014 Dec 7",
+  "source": "tex:instr",
+  "arxiv": "1511.04448",
+  "snippet": "talled at the Nasmyth focus of the Unit Telescope~3 of the Very Large Telescope. We observed L$_2$\\,Pup on the"
+ },
+ "l2-puppis_alma2016": {
+  "epoch": "2015 Nov 5",
+  "source": "tex:instr",
+  "arxiv": "1611.06231",
+  "snippet": ".56350 & 128 & 15.625350 & 2000 & 14.136 \\\\ \\hline \\end{tabular} \\end{table*} L$_2$\\,Pup was observed on 5 Nov"
+ },
+ "tw-hya_gpi2015": {
+  "epoch": "2015",
+  "source": "tex:year",
+  "arxiv": "1512.01865",
+  "snippet": "ctx dates same year: 2015 Apr 22"
+ },
+ "ak-sco_sphere2015": {
+  "epoch": "2015 Apr 14",
+  "source": "tex:instr",
+  "arxiv": "1512.04552",
+  "snippet": "am \\citep{thalmann2014b}, which is primarily dedicated to direct imaging detection of circumbinary planets. Ex"
+ },
+ "hd-141569_nirc2matryoshka": {
+  "epoch": "2015 Jun 8",
+  "source": "tex:instr",
+  "arxiv": "1602.01219",
+  "snippet": "us, revealing evidence for dust/gas segregation. \\section{Observations and Data Reduction} We imaged HD 141569"
+ },
+ "ngc-1068_alma2016": {
+  "epoch": "2015",
+  "source": "tex:year",
+  "arxiv": "1604.00205",
+  "snippet": "ctx dates same year: 2015 Sep"
+ },
+ "gq-lup_alma2017": {
+  "epoch": "2015",
+  "source": "tex:year",
+  "arxiv": "1611.06229",
+  "snippet": "ctx dates same year: 2015 Aug 28; 2015 Jun 15"
+ },
+ "hd-206893_sphere2017": {
+  "epoch": "2015",
+  "source": "tex:year",
+  "arxiv": "1612.00333",
+  "snippet": "ctx dates same year: 2015 Oct 5"
+ },
+ "49-cet_sphere-choquet2017": {
+  "epoch": "2015",
+  "source": "tex:year",
+  "arxiv": "1612.07320",
+  "snippet": "ctx dates same year: 2015-10-03; 2015-10-04"
+ },
+ "49-cet_alma-co2019": {
+  "epoch": "2017",
+  "source": "tex:year",
+  "arxiv": "1908.09685",
+  "snippet": "ctx dates same year: 2017 Jul"
+ },
+ "eso-halpha-569_acs2012": {
+  "epoch": "2012-03-09",
+  "source": "tex:irow",
+  "arxiv": "1711.03322",
+  "snippet": "0.606 & 0.058 $\\pm$ 0.001 & This work & HST ACS & 0.27 & 0.05$^{\\prime\\prime}$  &  2012-03-09 \\\\"
+ },
+ "eso-halpha-569_acs2012-f606w": {
+  "epoch": "2012-03-09",
+  "source": "tex:irow",
+  "arxiv": "1711.03322",
+  "snippet": "0.606 & 0.058 $\\pm$ 0.001 & This work & HST ACS & 0.27 & 0.05$^{\\prime\\prime}$  &  2012-03-09 \\\\"
+ },
+ "ry-lup_sphere2018": {
+  "epoch": "2016 May 27",
+  "source": "tex:instr",
+  "arxiv": "1802.03995",
+  "snippet": "sity, we obtained Dual-band Polarimetric Imaging \\citep[DPI,][]{langlois2010} observations in field stabilized"
+ },
+ "mwc-614_zimpol2018": {
+  "epoch": "2015-06-10",
+  "source": "tex:irow",
+  "arxiv": "1803.02419",
+  "snippet": "SPHERE/ZIMPOL & 2015-06-10 & UT3 & P2 & N\\_R & 48 x 45\\,s & 1\\\\"
+ },
+ "g023-01-00-41_alma2019": {
+  "epoch": "2016 Sep 5",
+  "source": "tex:instr",
+  "arxiv": "1805.09842",
+  "snippet": "m-array of ALMA in band 6 (211--275\\,GHz). Observations were conducted under program 2015.1.00615.S during two"
+ },
+ "hd-163296_nirc2vortex2018": {
+  "epoch": "2017",
+  "source": "tex:year",
+  "arxiv": "1806.08263",
+  "snippet": "2 row dates, same year: 2017 May 30; 2017 May 31"
+ },
+ "hd-163296_muse2020": {
+  "epoch": "2019-04-29",
+  "source": "tex:row",
+  "arxiv": "2011.08043",
+  "snippet": "HD 163296   & 0103.C-0399(A) & 2019-04-29 & 2 $\\times$ 4 &  8 & 0 &  4  \\\\"
+ },
+ "twa-7_alma2019": {
+  "epoch": "2016",
+  "source": "tex:year",
+  "arxiv": "1806.09252",
+  "snippet": "ctx dates same year: 2016-04-22; 2016-09-01"
+ },
+ "fu-ori_hiciao2018": {
+  "epoch": "2014 Oct 5",
+  "source": "tex:row",
+  "arxiv": "1807.03499",
+  "snippet": "FU Ori \t\t& $H$\t& Oct 5, 2014 \t& 20\\arcsec$\\times$10\\arcsec\t& 0.24$\\pm$0.05\t& --42$\\pm$5\\\\"
+ },
+ "v1247-ori_sma2019": {
+  "epoch": "2012",
+  "source": "tex:year",
+  "arxiv": "1811.06880",
+  "snippet": "ctx dates same year: 2012-11-28; 2012-12-31"
+ },
+ "hd-98800_alma2019": {
+  "epoch": "2017 Nov 15",
+  "source": "tex:instr",
+  "arxiv": "1901.05018",
+  "snippet": "Data Processing}\\label{sup:data} HD~98800 was observed by ALMA in Band 6 (1.3~mm) in two observing blocks on 2"
+ },
+ "2mass-j16083070-3828268_sphere2019": {
+  "epoch": "2017",
+  "source": "tex:year",
+  "arxiv": "1902.04612",
+  "snippet": "ctx dates same year: 2017 Jul 23; 2017 Jun 18"
+ },
+ "rx-j1852-3-3700_sphere2019": {
+  "epoch": "2017",
+  "source": "tex:year",
+  "arxiv": "1902.04612",
+  "snippet": "ctx dates same year: 2017 Jul 23"
+ },
+ "wray-15-788_sphere2019_h": {
+  "epoch": "2018",
+  "source": "tex:year",
+  "arxiv": "1902.07723",
+  "snippet": "ctx dates same year: 2018-06-05"
+ },
+ "wray-15-788_sphere2019_ks": {
+  "epoch": "2018",
+  "source": "tex:year",
+  "arxiv": "1902.07723",
+  "snippet": "ctx dates same year: 2018-06-05"
+ },
+ "hr-4796a_zimpol2019": {
+  "epoch": "2016 May 24",
+  "source": "tex:instr",
+  "arxiv": "1905.03603",
+  "snippet": "ction{Observations} \\label{sec_obs} \\subsection{Instrumental setup} The star HR\\,4796\\,A was observed on the n"
+ },
+ "g17-64-0-16_alma2019": {
+  "epoch": "2017 Oct 4",
+  "source": "tex:instr",
+  "arxiv": "1906.06548",
+  "snippet": "n{Observations} \\label{obs} The ALMA 12\\,m observations consist of one execution block (EB) conducted during C"
+ },
+ "hd-169142_macias2019-band3": {
+  "epoch": "2016",
+  "source": "tex:year",
+  "arxiv": "1907.07277",
+  "snippet": "ctx dates same year: 2016 Sep 14"
+ },
+ "as-209_alma_polarization": {
+  "epoch": "2018 May 16",
+  "source": "tex:instr",
+  "arxiv": "1907.10229",
+  "snippet": "section{Observations} \\label{sec:observation} The continuum polarization observations at 870 $\\mu$m were carri"
+ },
+ "hd-191089_stis-ren2019": {
+  "epoch": "2014",
+  "source": "tex:year",
+  "arxiv": "1908.00006",
+  "snippet": "ctx dates same year: 2014 Aug 13; 2014 Jul 19"
+ },
+ "hd-191089_nicmos-ren2019": {
+  "epoch": "2006 May 27",
+  "source": "tex:irow",
+  "arxiv": "1908.00006",
+  "snippet": "NICMOS\t\t&F110W\t&1.12&75.65&0.3\t&4607.34\t&16\t&30.0\t& 2006 May 27\\\\"
+ },
+ "hd-191089_gpi-ren2019": {
+  "epoch": "2015 Sep 1",
+  "source": "tex:irow",
+  "arxiv": "1908.00006",
+  "snippet": "GPI\t\t\t&$H$-Pol\t&1.65\t&14.166&0.123\t&2484.72\t&28\t&102.2\t&2015 Sep 01"
+ },
+ "l1551-irs-5_alma2019": {
+  "epoch": "2017",
+  "source": "tex:year",
+  "arxiv": "1908.04649",
+  "snippet": "ctx dates same year: 2017 Jul 24"
+ },
+ "hd-202628_herschel2019": {
+  "epoch": "2012 Mar 28",
+  "source": "tex:instr",
+  "arxiv": "1909.04162",
+  "snippet": "t_obs} \\textit{Herschel}/PACS observations using the mini scan map AOT (Astronomical Observing Template) took "
+ },
+ "cq-tau_hiciao2020": {
+  "epoch": "2015 Dec 31",
+  "source": "tex:irow",
+  "arxiv": "1910.07605",
+  "snippet": "Subaru/HiCIAO & 2015 December 31 & PDI\\footnotemark[1] & $H$ & 540 \\\\"
+ },
+ "afgl-4176_alma2020": {
+  "epoch": "2017",
+  "source": "tex:year",
+  "arxiv": "1911.09692",
+  "snippet": "ctx dates same year: 2017 Nov 25; 2017 Nov 4; 2017 Oct 3"
+ },
+ "sr-24s_hiciao2019": {
+  "epoch": "2011 Aug 2",
+  "source": "tex:instr",
+  "arxiv": "1911.10941",
+  "snippet": " instrument HiCIAO \\citep{Tamura06, Hodapp06} with a dual-beam polarimeter mounted on the Subaru 8.2~m Telesco"
+ },
+ "fs-tau_hiciao-yang2020": {
+  "epoch": "2011 Dec 26",
+  "source": "tex:instr",
+  "arxiv": "1912.11301",
+  "snippet": "conclusions. \\section{Observations and Data Reduction} The H-band near-infrared observations of FS Tau A were "
+ },
+ "mwc-297_sphere2020": {
+  "epoch": "2018",
+  "source": "tex:year",
+  "arxiv": "2002.01946",
+  "snippet": "ctx dates same year: 2018 Jul; 2018-07-28"
+ },
+ "mwc-297_lbti2020": {
+  "epoch": "2018 May 31",
+  "source": "tex:ctx",
+  "arxiv": "2011.07082",
+  "snippet": " \\enddata \\end{deluxetable} \\begin{deluxetable}{lccccc} \\tabletypesize{\\footnotesize} \\tablecaption{ Observati"
+ },
+ "cp-72-2713_alma2020": {
+  "epoch": "2017",
+  "source": "tex:year",
+  "arxiv": "2005.00861",
+  "snippet": "ctx dates same year: 2017 Jul 25"
+ },
+ "hd-15115_charis2020-j": {
+  "epoch": "2017",
+  "source": "tex:year",
+  "arxiv": "2008.00309",
+  "snippet": "ctx dates same year: 2017 Aug 30"
+ },
+ "hd-15115_charis2020-h": {
+  "epoch": "2017",
+  "source": "tex:year",
+  "arxiv": "2008.00309",
+  "snippet": "ctx dates same year: 2017 Aug 30"
+ },
+ "hd-15115_charis2020-k": {
+  "epoch": "2017",
+  "source": "tex:year",
+  "arxiv": "2008.00309",
+  "snippet": "ctx dates same year: 2017 Aug 30"
+ },
+ "hd-34700_sma2020": {
+  "epoch": "2019 Jan 8",
+  "source": "tex:instr",
+  "arxiv": "2011.03489",
+  "snippet": "caption{SMA Observational Parameters \\label{tab:obstable}} \\tablewidth{0pt} \\tablehead{ \\colhead{Parameter} & "
+ },
+ "pds-70_muse2020": {
+  "epoch": "2018-06-20",
+  "source": "tex:row",
+  "arxiv": "2011.08043",
+  "snippet": "PDS 70   & 60.A-9100(K) & 2018-06-20 & 300 $\\times$ 6 &  1800 & 90 &  2  \\\\"
+ },
+ "hd-33632-a_scexao2020": {
+  "epoch": "2020 Aug 31",
+  "source": "tex:instr",
+  "arxiv": "2011.08855",
+  "snippet": "SNR) in conservative ADI/A-LOCI or SDI/A-LOCI reductions range between 11--22 in the 2018 discovery epoch to 4"
+ },
+ "cb-26_pdbi1p3mm": {
+  "epoch": "2005 Dec",
+  "source": "tex:instr",
+  "arxiv": "2012.08127",
+  "snippet": " with the best possible {\\it uv} coverage and signal-to-noise ratio (see below). \\subsection{PdBI} In November"
+ },
+ "ww-cha_gravity2021": {
+  "epoch": "2020",
+  "source": "tex:year",
+  "arxiv": "2102.00122",
+  "snippet": "ctx dates same year: 2020 Jan"
+ },
+ "dm-tau_hashimoto2021-band6": {
+  "epoch": "2019",
+  "source": "tex:year",
+  "arxiv": "2102.05905",
+  "snippet": "ctx dates same year: 2019 Jun 5"
+ },
+ "hh-212_alma2021": {
+  "epoch": "2017 Nov 27",
+  "source": "tex:instr",
+  "arxiv": "2102.11481",
+  "snippet": "H 212 disk were obtained with ALMA in Band 7 in Cycle 5 (Project ID: 2017.1.00044.S). Three observations were "
+ },
+ "hd-100546_visir2021": {
+  "epoch": "2018 Apr",
+  "source": "tex:instr",
+  "arxiv": "2102.12506",
+  "snippet": "the spirals. \\section{Observations and data analysis} \\label{sec:obs} Observations of HD 100546 were obtained "
+ },
+ "oph-163131_hst2021": {
+  "epoch": "2012-03-04",
+  "source": "tex:irow",
+  "arxiv": "2103.02665",
+  "snippet": "2012-03-04 & ACS/F606W & 1320.0 & 3.1 $\\pm$ 0.2 & 0.6 $\\pm$ 0.1 & 3.7 $\\pm$ 0.2 & 1.1 $\\pm$ 0.2 \\\\"
+ },
+ "oph-163131_keck2021": {
+  "epoch": "2019 Apr 25",
+  "source": "tex:instr",
+  "arxiv": "2103.02665",
+  "snippet": "ines indicate the extent of the mask used when modeling the disk. \\label{fig:darklane}} \\end{center} \\end{figu"
+ },
+ "hip-109427_scexao2021": {
+  "epoch": "2020",
+  "source": "tex:year",
+  "arxiv": "2103.06898",
+  "snippet": "ctx dates same year: 2020 Dec; 2020 Jul 31"
+ },
+ "v892-tau_alma-long2021": {
+  "epoch": "2011",
+  "source": "tex:year",
+  "arxiv": "2105.02918",
+  "snippet": "ctx dates same year: 2011 Jul 15; 2011 Mar 19"
+ },
+ "2mass-j13342461-6517473_destinys": {
+  "epoch": "2021-02-05",
+  "source": "eso:eso-exact",
+  "arxiv": "2603.01703",
+  "snippet": "1 SPHERE obs at ESO"
+ },
+ "2mass-j15575444-2450424_destinys": {
+  "epoch": "2022-08-01",
+  "source": "eso:eso-exact",
+  "arxiv": "2603.01703",
+  "snippet": "2 SPHERE obs at ESO"
+ },
+ "2mass-j16064794-1841437_nircensus": {
+  "epoch": "2019-09-16",
+  "source": "eso:eso-exact",
+  "arxiv": "2603.01703",
+  "snippet": "1 SPHERE obs at ESO"
+ },
+ "2mass-j16082324-1930009_nircensus": {
+  "epoch": "2022-05-14",
+  "source": "eso:eso-exact",
+  "arxiv": "2603.01703",
+  "snippet": "1 SPHERE obs at ESO"
+ },
+ "2mass-j19005804-3645048_nircensus": {
+  "epoch": "2019-09-28",
+  "source": "eso:eso-exact",
+  "arxiv": "2603.01703",
+  "snippet": "1 SPHERE obs at ESO"
+ },
+ "49-cet_sphere-debris-2025": {
+  "epoch": "2015-2018",
+  "source": "eso:eso-range",
+  "arxiv": "2512.03128",
+  "snippet": "18 SPHERE obs at ESO"
+ },
+ "ac-her_sphere_irdis": {
+  "epoch": "2018-05-16",
+  "source": "eso:eso-exact",
+  "arxiv": "2307.16598",
+  "snippet": "1 SPHERE obs at ESO"
+ },
+ "ak-sco_sphere-rdi-xie22": {
+  "epoch": "2015-2016",
+  "source": "eso:eso-range",
+  "arxiv": "2208.07915",
+  "snippet": "4 SPHERE obs at ESO"
+ },
+ "ar-puppis_zimpol2019": {
+  "epoch": "2016-04-04",
+  "source": "eso:eso-exact",
+  "arxiv": "1901.04109",
+  "snippet": "1 SPHERE obs at ESO"
+ },
+ "as-205_sphere2022": {
+  "epoch": "2016-2017",
+  "source": "eso:eso-range",
+  "arxiv": "2211.14322",
+  "snippet": "5 SPHERE obs at ESO"
+ },
+ "as-209_dartts-s": {
+  "epoch": "2016-03-15",
+  "source": "eso:eso-exact",
+  "arxiv": "1803.10882",
+  "snippet": "1 SPHERE obs at ESO"
+ },
+ "as-218_destinys": {
+  "epoch": "2021-08-23",
+  "source": "eso:eso-exact",
+  "arxiv": "2603.01703",
+  "snippet": "1 SPHERE obs at ESO"
+ },
+ "at-pyx_sphere2021": {
+  "epoch": "2017-05-15",
+  "source": "eso:eso-exact",
+  "arxiv": "2111.11077",
+  "snippet": "1 SPHERE obs at ESO"
+ },
+ "au-mic_sphere2015": {
+  "epoch": "2015-10-06",
+  "source": "eso:eso-exact",
+  "arxiv": null,
+  "snippet": "4 SPHERE obs at ESO"
+ },
+ "au-mic_sphere-rdi-xie22": {
+  "epoch": "2015-2021",
+  "source": "eso:eso-range",
+  "arxiv": "2208.07915",
+  "snippet": "15 SPHERE obs at ESO"
+ },
+ "beta-pic_sphere-debris-2025": {
+  "epoch": "2016-2020",
+  "source": "eso:eso-range",
+  "arxiv": "2512.03128",
+  "snippet": "9 SPHERE obs at ESO"
+ },
+ "brun-252_destinys-orion": {
+  "epoch": "2020-02-22",
+  "source": "eso:eso-exact",
+  "arxiv": "2403.02156",
+  "snippet": "2 SPHERE obs at ESO"
+ },
+ "chx-22_sphere-chami": {
+  "epoch": "2020-02-19",
+  "source": "eso:eso-exact",
+  "arxiv": "2403.02149",
+  "snippet": "4 SPHERE obs at ESO"
+ },
+ "cm-cha_destinys": {
+  "epoch": "2021-02-05",
+  "source": "eso:eso-exact",
+  "arxiv": "2603.01703",
+  "snippet": "2 SPHERE obs at ESO"
+ },
+ "cq-tau_gravity2022-shadow": {
+  "epoch": "2016-2018",
+  "source": "eso:eso-range",
+  "arxiv": "2112.00123",
+  "snippet": "4 SPHERE obs at ESO"
+ },
+ "cr-cha_sphere-chami": {
+  "epoch": "2019-01-15",
+  "source": "eso:eso-exact",
+  "arxiv": "2403.02149",
+  "snippet": "2 SPHERE obs at ESO"
+ },
+ "cs-cha_sphere-chami": {
+  "epoch": "2017-2019",
+  "source": "eso:eso-range",
+  "arxiv": "2403.02149",
+  "snippet": "9 SPHERE obs at ESO"
+ },
+ "cs-cha_sphere-ginski2018": {
+  "epoch": "2017-2018",
+  "source": "eso:eso-range",
+  "arxiv": "1805.02261",
+  "snippet": "6 SPHERE obs at ESO"
+ },
+ "ct-cha_sphere-chami": {
+  "epoch": "2017-05-16",
+  "source": "eso:eso-exact",
+  "arxiv": "2403.02149",
+  "snippet": "2 SPHERE obs at ESO"
+ },
+ "cv-cha_sphere-chami": {
+  "epoch": "2016-03-26",
+  "source": "eso:eso-exact",
+  "arxiv": "2403.02149",
+  "snippet": "2 SPHERE obs at ESO"
+ },
+ "dg-cra_destinys": {
+  "epoch": "2021-09-04",
+  "source": "eso:eso-exact",
+  "arxiv": "2603.01703",
+  "snippet": "2 SPHERE obs at ESO"
+ },
+ "dg-tau_sphere-rdi-xie22": {
+  "epoch": "2019-2021",
+  "source": "eso:eso-range",
+  "arxiv": "2208.07915",
+  "snippet": "7 SPHERE obs at ESO"
+ },
+ "doar-44_dartts-s": {
+  "epoch": "2016-03-14",
+  "source": "eso:eso-exact",
+  "arxiv": "1803.10882",
+  "snippet": "2 SPHERE obs at ESO"
+ },
+ "et-cha_sphere2020": {
+  "epoch": "2019-12-23",
+  "source": "eso:eso-exact",
+  "arxiv": "2007.05274",
+  "snippet": "1 SPHERE obs at ESO"
+ },
+ "ex-lup_zurlo2024": {
+  "epoch": "2017-05-16",
+  "source": "eso:eso-exact",
+  "arxiv": "2403.12124",
+  "snippet": "1 SPHERE obs at ESO"
+ },
+ "fu-ori_zurlo2024": {
+  "epoch": "2016-2017",
+  "source": "eso:eso-range",
+  "arxiv": "2403.12124",
+  "snippet": "3 SPHERE obs at ESO"
+ },
+ "fu-ori_sphere2022": {
+  "epoch": "2016-2017",
+  "source": "eso:eso-range",
+  "arxiv": "2211.14322",
+  "snippet": "3 SPHERE obs at ESO"
+ },
+ "gaia-dr2-5854897321965963264_destinys": {
+  "epoch": "2022-02-01",
+  "source": "eso:eso-exact",
+  "arxiv": "2603.01703",
+  "snippet": "2 SPHERE obs at ESO"
+ },
+ "gsc-07396-00759_sphere-debris-2025": {
+  "epoch": "2018-06-22",
+  "source": "eso:eso-exact",
+  "arxiv": "2512.03128",
+  "snippet": "1 SPHERE obs at ESO"
+ },
+ "gsc-07396-00759_sphere-rdi-xie22": {
+  "epoch": "2018-06-22",
+  "source": "eso:eso-exact",
+  "arxiv": "2208.07915",
+  "snippet": "1 SPHERE obs at ESO"
+ },
+ "gsc-6214-210_sphere2021": {
+  "epoch": "2019",
+  "source": "eso:eso-year",
+  "arxiv": "2101.04033",
+  "snippet": "5 SPHERE obs at ESO"
+ },
+ "gw-lup_sphere2021": {
+  "epoch": "2018-03-01",
+  "source": "eso:eso-exact",
+  "arxiv": "2111.07856",
+  "snippet": "1 SPHERE obs at ESO"
+ },
+ "gw-ori_sphere2020": {
+  "epoch": "2016-2019",
+  "source": "eso:eso-range",
+  "arxiv": "2004.01204",
+  "snippet": "11 SPHERE obs at ESO"
+ },
+ "hd-100453_sphere2017": {
+  "epoch": "2015-2016",
+  "source": "eso:eso-range",
+  "arxiv": "1610.10089",
+  "snippet": "5 SPHERE obs at ESO"
+ },
+ "hd-100453_gravity2022-shadow": {
+  "epoch": "2015-2018",
+  "source": "eso:eso-range",
+  "arxiv": "2112.00123",
+  "snippet": "6 SPHERE obs at ESO"
+ },
+ "hd-100453_sphere-rdi-xie22": {
+  "epoch": "2015-2018",
+  "source": "eso:eso-range",
+  "arxiv": "2208.07915",
+  "snippet": "6 SPHERE obs at ESO"
+ },
+ "hd-100546_sphere-rdi-xie22": {
+  "epoch": "2016-2019",
+  "source": "eso:eso-range",
+  "arxiv": "2208.07915",
+  "snippet": "4 SPHERE obs at ESO"
+ },
+ "hd-106906_sphere-debris-2025": {
+  "epoch": "2017-2019",
+  "source": "eso:eso-range",
+  "arxiv": "2512.03128",
+  "snippet": "8 SPHERE obs at ESO"
+ },
+ "hd-106906_sphere-rdi-xie22": {
+  "epoch": "2017-2019",
+  "source": "eso:eso-range",
+  "arxiv": "2208.07915",
+  "snippet": "8 SPHERE obs at ESO"
+ },
+ "hd-110058_sphere-debris-2025": {
+  "epoch": "2015-04-04",
+  "source": "eso:eso-exact",
+  "arxiv": "2512.03128",
+  "snippet": "2 SPHERE obs at ESO"
+ },
+ "hd-110058_sphere-rdi-xie22": {
+  "epoch": "2015-04-04",
+  "source": "eso:eso-exact",
+  "arxiv": "2208.07915",
+  "snippet": "2 SPHERE obs at ESO"
+ },
+ "hd-112810_sphere-debris-2025": {
+  "epoch": "2016-2020",
+  "source": "eso:eso-range",
+  "arxiv": "2512.03128",
+  "snippet": "5 SPHERE obs at ESO"
+ },
+ "hd-114082_sphere-debris-2025": {
+  "epoch": "2016-2017",
+  "source": "eso:eso-range",
+  "arxiv": "2512.03128",
+  "snippet": "2 SPHERE obs at ESO"
+ },
+ "hd-115600_sphere-debris-2025": {
+  "epoch": "2021-07-11",
+  "source": "eso:eso-exact",
+  "arxiv": "2512.03128",
+  "snippet": "1 SPHERE obs at ESO"
+ },
+ "hd-115600_sphere-rdi-xie22": {
+  "epoch": "2021-07-11",
+  "source": "eso:eso-exact",
+  "arxiv": "2208.07915",
+  "snippet": "1 SPHERE obs at ESO"
+ },
+ "hd-120326_sphere-debris-2025": {
+  "epoch": "2016-2019",
+  "source": "eso:eso-range",
+  "arxiv": "2512.03128",
+  "snippet": "5 SPHERE obs at ESO"
+ },
+ "hd-120326_sphere-adi": {
+  "epoch": "2016-2019",
+  "source": "eso:eso-range",
+  "arxiv": "2504.15352",
+  "snippet": "5 SPHERE obs at ESO"
+ },
+ "hd-120326_sphere-rdi-xie22": {
+  "epoch": "2016-2019",
+  "source": "eso:eso-range",
+  "arxiv": "2208.07915",
+  "snippet": "5 SPHERE obs at ESO"
+ },
+ "hd-121617_sphere-debris-2025": {
+  "epoch": "2018-04-28",
+  "source": "eso:eso-exact",
+  "arxiv": "2512.03128",
+  "snippet": "4 SPHERE obs at ESO"
+ },
+ "hd-129590_sphere-debris-2025": {
+  "epoch": "2022-05-14",
+  "source": "eso:eso-exact",
+  "arxiv": "2512.03128",
+  "snippet": "1 SPHERE obs at ESO"
+ },
+ "hd-129590_sphere-rdi-xie22": {
+  "epoch": "2022-05-14",
+  "source": "eso:eso-exact",
+  "arxiv": "2208.07915",
+  "snippet": "1 SPHERE obs at ESO"
+ },
+ "hd-129590_dikl-klip": {
+  "epoch": "2022-05-14",
+  "source": "eso:eso-exact",
+  "arxiv": "2308.16912",
+  "snippet": "1 SPHERE obs at ESO"
+ },
+ "hd-129590_dikl-dikl": {
+  "epoch": "2022-05-14",
+  "source": "eso:eso-exact",
+  "arxiv": "2308.16912",
+  "snippet": "1 SPHERE obs at ESO"
+ },
+ "hd-131488_sphere-debris-2025": {
+  "epoch": "2018-04-08",
+  "source": "eso:eso-exact",
+  "arxiv": "2512.03128",
+  "snippet": "1 SPHERE obs at ESO"
+ },
+ "hd-131488_sphere-rdi-xie22": {
+  "epoch": "2018-04-08",
+  "source": "eso:eso-exact",
+  "arxiv": "2208.07915",
+  "snippet": "1 SPHERE obs at ESO"
+ },
+ "hd-131835_sphere-debris-2025": {
+  "epoch": "2017-06-25",
+  "source": "eso:eso-exact",
+  "arxiv": "2512.03128",
+  "snippet": "1 SPHERE obs at ESO"
+ },
+ "hd-131835_sphere-rdi-xie22": {
+  "epoch": "2017-06-25",
+  "source": "eso:eso-exact",
+  "arxiv": "2208.07915",
+  "snippet": "1 SPHERE obs at ESO"
+ },
+ "hd-135344b_stolker2016-y": {
+  "epoch": "2016",
+  "source": "eso:eso-year",
+  "arxiv": "1603.00481",
+  "snippet": "5 SPHERE obs at ESO"
+ },
+ "hd-135344b_stolker2016-j": {
+  "epoch": "2016",
+  "source": "eso:eso-year",
+  "arxiv": "1603.00481",
+  "snippet": "5 SPHERE obs at ESO"
+ },
+ "hd-141011_sphere-debris-2025": {
+  "epoch": "2015-2019",
+  "source": "eso:eso-range",
+  "arxiv": "2512.03128",
+  "snippet": "4 SPHERE obs at ESO"
+ },
+ "hd-141569_sphere-debris-2025": {
+  "epoch": "2015-07-22",
+  "source": "eso:eso-exact",
+  "arxiv": "2512.03128",
+  "snippet": "1 SPHERE obs at ESO"
+ },
+ "hd-141569_sphere-rdi-xie22": {
+  "epoch": "2015-07-22",
+  "source": "eso:eso-exact",
+  "arxiv": "2208.07915",
+  "snippet": "1 SPHERE obs at ESO"
+ },
+ "hd-141943_sphere-debris-2025": {
+  "epoch": "2016-05-25",
+  "source": "eso:eso-exact",
+  "arxiv": "2512.03128",
+  "snippet": "1 SPHERE obs at ESO"
+ },
+ "nz-lup_sphere-rdi-xie22": {
+  "epoch": "2016-05-25",
+  "source": "eso:eso-exact",
+  "arxiv": "2208.07915",
+  "snippet": "1 SPHERE obs at ESO"
+ },
+ "hd-142527_sphere-irdis-qphi": {
+  "epoch": "2017-06-01",
+  "source": "eso:eso-exact",
+  "arxiv": "2103.08462",
+  "snippet": "1 SPHERE obs at ESO"
+ },
+ "hd-142666_sphere2021": {
+  "epoch": "2015-2016",
+  "source": "eso:eso-range",
+  "arxiv": "2111.07856",
+  "snippet": "3 SPHERE obs at ESO"
+ },
+ "hd-145560_sphere-debris-2025": {
+  "epoch": "2017-06-24",
+  "source": "eso:eso-exact",
+  "arxiv": "2512.03128",
+  "snippet": "1 SPHERE obs at ESO"
+ },
+ "hd-146181_sphere-debris-2025": {
+  "epoch": "2018-08-15",
+  "source": "eso:eso-exact",
+  "arxiv": "2512.03128",
+  "snippet": "1 SPHERE obs at ESO"
+ },
+ "hd-15115_sphere-debris-2025": {
+  "epoch": "2015-2016",
+  "source": "eso:eso-range",
+  "arxiv": "2512.03128",
+  "snippet": "3 SPHERE obs at ESO"
+ },
+ "hd-15115_sphere-rdi-xie22": {
+  "epoch": "2015-2016",
+  "source": "eso:eso-range",
+  "arxiv": "2208.07915",
+  "snippet": "3 SPHERE obs at ESO"
+ },
+ "hd-156623_sphere-debris-2025": {
+  "epoch": "2018-06-22",
+  "source": "eso:eso-exact",
+  "arxiv": "2512.03128",
+  "snippet": "1 SPHERE obs at ESO"
+ },
+ "hd-157587_sphere-debris-2025": {
+  "epoch": "2022",
+  "source": "eso:eso-year",
+  "arxiv": "2512.03128",
+  "snippet": "4 SPHERE obs at ESO"
+ },
+ "hd-163296_sphere2018": {
+  "epoch": "2016",
+  "source": "eso:eso-year",
+  "arxiv": "1802.03328",
+  "snippet": "3 SPHERE obs at ESO"
+ },
+ "hd-16743_sphere-debris-2025": {
+  "epoch": "2016",
+  "source": "eso:eso-year",
+  "arxiv": "2512.03128",
+  "snippet": "4 SPHERE obs at ESO"
+ },
+ "hd-169142_sphere-rdi-xie22": {
+  "epoch": "2016-08-26",
+  "source": "eso:eso-exact",
+  "arxiv": "2208.07915",
+  "snippet": "2 SPHERE obs at ESO"
+ },
+ "hd-169142_dikl-klip": {
+  "epoch": "2016-08-26",
+  "source": "eso:eso-exact",
+  "arxiv": "2308.16912",
+  "snippet": "2 SPHERE obs at ESO"
+ },
+ "hd-169142_dikl-dikl": {
+  "epoch": "2016-08-26",
+  "source": "eso:eso-exact",
+  "arxiv": "2308.16912",
+  "snippet": "2 SPHERE obs at ESO"
+ },
+ "hd-181327_sphere-debris-2025": {
+  "epoch": "2017-05-16",
+  "source": "eso:eso-exact",
+  "arxiv": "2512.03128",
+  "snippet": "2 SPHERE obs at ESO"
+ },
+ "hd-182681_sphere-debris-2025": {
+  "epoch": "2016-2019",
+  "source": "eso:eso-range",
+  "arxiv": "2512.03128",
+  "snippet": "5 SPHERE obs at ESO"
+ },
+ "hd-191089_sphere-debris-2025": {
+  "epoch": "2018-2022",
+  "source": "eso:eso-range",
+  "arxiv": "2512.03128",
+  "snippet": "3 SPHERE obs at ESO"
+ },
+ "hd-192758_sphere-debris-2025": {
+  "epoch": "2016-05-14",
+  "source": "eso:eso-exact",
+  "arxiv": "2512.03128",
+  "snippet": "2 SPHERE obs at ESO"
+ },
+ "hd-202917_sphere-debris-2025": {
+  "epoch": "2017-05-16",
+  "source": "eso:eso-exact",
+  "arxiv": "2512.03128",
+  "snippet": "1 SPHERE obs at ESO"
+ },
+ "hd-294260_destinys-orion": {
+  "epoch": "2020-03-04",
+  "source": "eso:eso-exact",
+  "arxiv": "2403.02156",
+  "snippet": "1 SPHERE obs at ESO"
+ },
+ "hd-294268_destinys-orion": {
+  "epoch": "2020-2021",
+  "source": "eso:eso-range",
+  "arxiv": "2403.02156",
+  "snippet": "2 SPHERE obs at ESO"
+ },
+ "hd-30447_sphere-debris-2025": {
+  "epoch": "2016-11-19",
+  "source": "eso:eso-exact",
+  "arxiv": "2512.03128",
+  "snippet": "2 SPHERE obs at ESO"
+ },
+ "hd-32297_sphere-debris-2025": {
+  "epoch": "2016-12-16",
+  "source": "eso:eso-exact",
+  "arxiv": "2512.03128",
+  "snippet": "2 SPHERE obs at ESO"
+ },
+ "hd-34282_sphere-rdi-xie22": {
+  "epoch": "2015-2017",
+  "source": "eso:eso-range",
+  "arxiv": "2208.07915",
+  "snippet": "4 SPHERE obs at ESO"
+ },
+ "hd-34700_stadler2026-zimpol": {
+  "epoch": "2019-10-27",
+  "source": "eso:eso-exact",
+  "arxiv": "2601.15262",
+  "snippet": "2 SPHERE obs at ESO"
+ },
+ "hd-35841_sphere-debris-2025": {
+  "epoch": "2017",
+  "source": "eso:eso-year",
+  "arxiv": "2512.03128",
+  "snippet": "5 SPHERE obs at ESO"
+ },
+ "hd-36546_sphere-debris-2025": {
+  "epoch": "2019-11-17",
+  "source": "eso:eso-exact",
+  "arxiv": "2512.03128",
+  "snippet": "1 SPHERE obs at ESO"
+ },
+ "hd-36968_sphere-debris-2025": {
+  "epoch": "2015-2018",
+  "source": "eso:eso-range",
+  "arxiv": "2512.03128",
+  "snippet": "9 SPHERE obs at ESO"
+ },
+ "hd-377_sphere-debris-2025": {
+  "epoch": "2018-08-06",
+  "source": "eso:eso-exact",
+  "arxiv": "2512.03128",
+  "snippet": "2 SPHERE obs at ESO"
+ },
+ "hd-38206_sphere-debris-2025": {
+  "epoch": "2016-01-08",
+  "source": "eso:eso-exact",
+  "arxiv": "2512.03128",
+  "snippet": "1 SPHERE obs at ESO"
+ },
+ "hd-38397_sphere-debris-2025": {
+  "epoch": "2016-12-16",
+  "source": "eso:eso-exact",
+  "arxiv": "2512.03128",
+  "snippet": "1 SPHERE obs at ESO"
+ },
+ "hd-97048_sphere2016": {
+  "epoch": "2016",
+  "source": "eso:eso-year",
+  "arxiv": "1609.04027",
+  "snippet": "3 SPHERE obs at ESO"
+ },
+ "hd-97048_sphere-chami": {
+  "epoch": "2016-2020",
+  "source": "eso:eso-range",
+  "arxiv": "2403.02149",
+  "snippet": "9 SPHERE obs at ESO"
+ },
+ "hd-97048_sphere-rdi-xie22": {
+  "epoch": "2016-2020",
+  "source": "eso:eso-range",
+  "arxiv": "2208.07915",
+  "snippet": "9 SPHERE obs at ESO"
+ },
+ "hd-98800_sphere-debris-2025": {
+  "epoch": "2017-2019",
+  "source": "eso:eso-range",
+  "arxiv": "2512.03128",
+  "snippet": "3 SPHERE obs at ESO"
+ },
+ "ho-lup-a_nircensus": {
+  "epoch": "2022-05-14",
+  "source": "eso:eso-exact",
+  "arxiv": "2603.01703",
+  "snippet": "1 SPHERE obs at ESO"
+ },
+ "hp-cha_sphere-chami": {
+  "epoch": "2019-2020",
+  "source": "eso:eso-range",
+  "arxiv": "2403.02149",
+  "snippet": "8 SPHERE obs at ESO"
+ },
+ "hr-4049_sphere_irdis": {
+  "epoch": "2018-11-29",
+  "source": "eso:eso-exact",
+  "arxiv": "2307.16598",
+  "snippet": "1 SPHERE obs at ESO"
+ },
+ "hr-4796a_sphere-debris-2025": {
+  "epoch": "2021-04-08",
+  "source": "eso:eso-exact",
+  "arxiv": "2512.03128",
+  "snippet": "1 SPHERE obs at ESO"
+ },
+ "hr-4796a_sphere-rdi-xie22": {
+  "epoch": "2021-04-08",
+  "source": "eso:eso-exact",
+  "arxiv": "2208.07915",
+  "snippet": "1 SPHERE obs at ESO"
+ },
+ "hr-7012_sphere-debris-2025": {
+  "epoch": "2016-04-28",
+  "source": "eso:eso-exact",
+  "arxiv": "2512.03128",
+  "snippet": "1 SPHERE obs at ESO"
+ },
+ "im-lup_dartts-s": {
+  "epoch": "2016-03-12",
+  "source": "eso:eso-exact",
+  "arxiv": "1803.10882",
+  "snippet": "2 SPHERE obs at ESO"
+ },
+ "im-lup_dartts-s-j": {
+  "epoch": "2016-03-12",
+  "source": "eso:eso-exact",
+  "arxiv": "1803.10882",
+  "snippet": "2 SPHERE obs at ESO"
+ },
+ "iras-08544-4431_sphere_zimpol": {
+  "epoch": "2018-10-25",
+  "source": "eso:eso-exact",
+  "arxiv": "2411.17057",
+  "snippet": "1 SPHERE obs at ESO"
+ },
+ "iras-16072-2057_destinys": {
+  "epoch": "2022-03-30",
+  "source": "eso:eso-exact",
+  "arxiv": "2603.01703",
+  "snippet": "1 SPHERE obs at ESO"
+ },
+ "lkha-345_nircensus": {
+  "epoch": "2022-06-29",
+  "source": "eso:eso-exact",
+  "arxiv": "2603.01703",
+  "snippet": "1 SPHERE obs at ESO"
+ },
+ "lkha-348_nircensus": {
+  "epoch": "2018-06-22",
+  "source": "eso:eso-exact",
+  "arxiv": "2603.01703",
+  "snippet": "1 SPHERE obs at ESO"
+ },
+ "mwc-758_sphere-rdi-xie22": {
+  "epoch": "2016",
+  "source": "eso:eso-year",
+  "arxiv": "2208.07915",
+  "snippet": "4 SPHERE obs at ESO"
+ },
+ "my-lup_dartts-s": {
+  "epoch": "2016-03-16",
+  "source": "eso:eso-exact",
+  "arxiv": "1803.10882",
+  "snippet": "2 SPHERE obs at ESO"
+ },
+ "ny-ori_zurlo2024": {
+  "epoch": "2016-12-17",
+  "source": "eso:eso-exact",
+  "arxiv": "2403.12124",
+  "snippet": "1 SPHERE obs at ESO"
+ },
+ "pds-110_destinys-orion": {
+  "epoch": "2020-12-10",
+  "source": "eso:eso-exact",
+  "arxiv": "2403.02156",
+  "snippet": "1 SPHERE obs at ESO"
+ },
+ "pds-113_destinys-orion": {
+  "epoch": "2021-11-03",
+  "source": "eso:eso-exact",
+  "arxiv": "2403.02156",
+  "snippet": "1 SPHERE obs at ESO"
+ },
+ "pds-201_destinys-orion": {
+  "epoch": "2021-01-21",
+  "source": "eso:eso-exact",
+  "arxiv": "2403.02156",
+  "snippet": "1 SPHERE obs at ESO"
+ },
+ "pds-201_dikl-klip": {
+  "epoch": "2021-01-21",
+  "source": "eso:eso-exact",
+  "arxiv": "2308.16912",
+  "snippet": "1 SPHERE obs at ESO"
+ },
+ "pds-201_dikl-dikl": {
+  "epoch": "2021-01-21",
+  "source": "eso:eso-exact",
+  "arxiv": "2308.16912",
+  "snippet": "1 SPHERE obs at ESO"
+ },
+ "pds-277_destinys": {
+  "epoch": "2020-12-08",
+  "source": "eso:eso-exact",
+  "arxiv": "2603.01703",
+  "snippet": "1 SPHERE obs at ESO"
+ },
+ "pds-66_dartts-s": {
+  "epoch": "2016-03-15",
+  "source": "eso:eso-exact",
+  "arxiv": "1803.10882",
+  "snippet": "2 SPHERE obs at ESO"
+ },
+ "pds-70_sphere2016-k1": {
+  "epoch": "2016-2019",
+  "source": "eso:eso-range",
+  "arxiv": "1906.01486",
+  "snippet": "7 SPHERE obs at ESO"
+ },
+ "pds-70_sphere-rdi-xie22": {
+  "epoch": "2016-2021",
+  "source": "eso:eso-range",
+  "arxiv": "2208.07915",
+  "snippet": "8 SPHERE obs at ESO"
+ },
+ "ru-cen_sphere_irdis": {
+  "epoch": "2019-01-12",
+  "source": "eso:eso-exact",
+  "arxiv": "2307.16598",
+  "snippet": "1 SPHERE obs at ESO"
+ },
+ "ru-lup_dartts-s": {
+  "epoch": "2016-2017",
+  "source": "eso:eso-range",
+  "arxiv": "1803.10882",
+  "snippet": "4 SPHERE obs at ESO"
+ },
+ "ru-lup_dartts-s-j": {
+  "epoch": "2016-2017",
+  "source": "eso:eso-range",
+  "arxiv": "1803.10882",
+  "snippet": "4 SPHERE obs at ESO"
+ },
+ "rv-ori_destinys-orion": {
+  "epoch": "2021-02-06",
+  "source": "eso:eso-exact",
+  "arxiv": "2403.02156",
+  "snippet": "1 SPHERE obs at ESO"
+ },
+ "rx-j1604-3-2130_zimpol2015": {
+  "epoch": "2015-06-10",
+  "source": "eso:eso-exact",
+  "arxiv": "1510.00412",
+  "snippet": "1 SPHERE obs at ESO"
+ },
+ "rx-j1604-3-2130_sphere-rdi-xie22": {
+  "epoch": "2015-2017",
+  "source": "eso:eso-range",
+  "arxiv": "2208.07915",
+  "snippet": "11 SPHERE obs at ESO"
+ },
+ "rx-j1615-3-3255_dartts-s": {
+  "epoch": "2016-03-15",
+  "source": "eso:eso-exact",
+  "arxiv": "1803.10882",
+  "snippet": "2 SPHERE obs at ESO"
+ },
+ "rx-j1615-3-3255_sphere-rdi-xie22": {
+  "epoch": "2016-03-15",
+  "source": "eso:eso-exact",
+  "arxiv": "2208.07915",
+  "snippet": "2 SPHERE obs at ESO"
+ },
+ "ry-ori_destinys-orion": {
+  "epoch": "2020-02-24",
+  "source": "eso:eso-exact",
+  "arxiv": "2403.02156",
+  "snippet": "1 SPHERE obs at ESO"
+ },
+ "ry-tau_sphere-rdi-xie22": {
+  "epoch": "2015-2019",
+  "source": "eso:eso-range",
+  "arxiv": "2208.07915",
+  "snippet": "9 SPHERE obs at ESO"
+ },
+ "sr-13_nircensus": {
+  "epoch": "2018-06-22",
+  "source": "eso:eso-exact",
+  "arxiv": "2603.01703",
+  "snippet": "2 SPHERE obs at ESO"
+ },
+ "sr-21_sphere2020": {
+  "epoch": "2018-03-01",
+  "source": "eso:eso-exact",
+  "arxiv": "2003.08189",
+  "snippet": "2 SPHERE obs at ESO"
+ },
+ "sr-24s_sphere2022": {
+  "epoch": "2017-05-19",
+  "source": "eso:eso-exact",
+  "arxiv": "2211.14322",
+  "snippet": "1 SPHERE obs at ESO"
+ },
+ "sy-cha_sphere-chami": {
+  "epoch": "2017-05-16",
+  "source": "eso:eso-exact",
+  "arxiv": "2403.02149",
+  "snippet": "2 SPHERE obs at ESO"
+ },
+ "sz-111_nircensus": {
+  "epoch": "2017-06-18",
+  "source": "eso:eso-exact",
+  "arxiv": "2603.01703",
+  "snippet": "1 SPHERE obs at ESO"
+ },
+ "sz-45_sphere-chami": {
+  "epoch": "2017-2020",
+  "source": "eso:eso-range",
+  "arxiv": "2403.02149",
+  "snippet": "3 SPHERE obs at ESO"
+ },
+ "sz-72_nircensus": {
+  "epoch": "2021-03-12",
+  "source": "eso:eso-exact",
+  "arxiv": "2603.01703",
+  "snippet": "1 SPHERE obs at ESO"
+ },
+ "t-cha_sphere2017": {
+  "epoch": "2016-02-20",
+  "source": "eso:eso-exact",
+  "arxiv": "1705.03477",
+  "snippet": "1 SPHERE obs at ESO"
+ },
+ "tw-cha_sphere-chami": {
+  "epoch": "2019-11-27",
+  "source": "eso:eso-exact",
+  "arxiv": "2403.02149",
+  "snippet": "3 SPHERE obs at ESO"
+ },
+ "tw-hya_sphere-rdi-xie22": {
+  "epoch": "2020",
+  "source": "eso:eso-year",
+  "arxiv": "2208.07915",
+  "snippet": "4 SPHERE obs at ESO"
+ },
+ "twa-7_sphere-debris-2025": {
+  "epoch": "2016-2022",
+  "source": "eso:eso-range",
+  "arxiv": "2512.03128",
+  "snippet": "2 SPHERE obs at ESO"
+ },
+ "twa-7_sphere-hband2018": {
+  "epoch": "2016-04-27",
+  "source": "eso:eso-exact",
+  "arxiv": "1804.01929",
+  "snippet": "1 SPHERE obs at ESO"
+ },
+ "twa-7_sphere-jband2018": {
+  "epoch": "2016-04-27",
+  "source": "eso:eso-exact",
+  "arxiv": "1804.01929",
+  "snippet": "1 SPHERE obs at ESO"
+ },
+ "tx-ori_destinys-orion": {
+  "epoch": "2020-11-13",
+  "source": "eso:eso-exact",
+  "arxiv": "2403.02156",
+  "snippet": "1 SPHERE obs at ESO"
+ },
+ "u-mon_sphere_irdis": {
+  "epoch": "2019-01-03",
+  "source": "eso:eso-exact",
+  "arxiv": "2307.16598",
+  "snippet": "3 SPHERE obs at ESO"
+ },
+ "ux-tau_sphere-rdi-xie22": {
+  "epoch": "2017-10-06",
+  "source": "eso:eso-exact",
+  "arxiv": "2208.07915",
+  "snippet": "2 SPHERE obs at ESO"
+ },
+ "uz-tau-e_zurlo2024": {
+  "epoch": "2017-10-28",
+  "source": "eso:eso-exact",
+  "arxiv": "2403.12124",
+  "snippet": "3 SPHERE obs at ESO"
+ },
+ "v1012-ori_destinys-orion": {
+  "epoch": "2021-02-04",
+  "source": "eso:eso-exact",
+  "arxiv": "2403.02156",
+  "snippet": "2 SPHERE obs at ESO"
+ },
+ "v1650-ori_destinys-orion": {
+  "epoch": "2020-01-12",
+  "source": "eso:eso-exact",
+  "arxiv": "2403.02156",
+  "snippet": "4 SPHERE obs at ESO"
+ },
+ "v1787-ori_destinys-orion": {
+  "epoch": "2021-11-03",
+  "source": "eso:eso-exact",
+  "arxiv": "2403.02156",
+  "snippet": "1 SPHERE obs at ESO"
+ },
+ "v4046-sgr_dartts-s": {
+  "epoch": "2016-03-13",
+  "source": "eso:eso-exact",
+  "arxiv": "1803.10882",
+  "snippet": "2 SPHERE obs at ESO"
+ },
+ "v4046-sgr_sphere-rdi-xie22": {
+  "epoch": "2016-2022",
+  "source": "eso:eso-range",
+  "arxiv": "2208.07915",
+  "snippet": "7 SPHERE obs at ESO"
+ },
+ "v599-ori_destinys-orion": {
+  "epoch": "2021-01-29",
+  "source": "eso:eso-exact",
+  "arxiv": "2403.02156",
+  "snippet": "2 SPHERE obs at ESO"
+ },
+ "v606-ori_destinys-orion": {
+  "epoch": "2021-02-05",
+  "source": "eso:eso-exact",
+  "arxiv": "2403.02156",
+  "snippet": "1 SPHERE obs at ESO"
+ },
+ "v721-cra_destinys-cra": {
+  "epoch": "2016-2022",
+  "source": "eso:eso-range",
+  "arxiv": "2511.01717",
+  "snippet": "5 SPHERE obs at ESO"
+ },
+ "v935-sco_destinys": {
+  "epoch": "2018-2021",
+  "source": "eso:eso-range",
+  "arxiv": "2603.01703",
+  "snippet": "2 SPHERE obs at ESO"
+ },
+ "v960-mon_zurlo2024": {
+  "epoch": "2016-12-17",
+  "source": "eso:eso-exact",
+  "arxiv": "2403.12124",
+  "snippet": "1 SPHERE obs at ESO"
+ },
+ "vz-cha_sphere-chami": {
+  "epoch": "2018-02-28",
+  "source": "eso:eso-exact",
+  "arxiv": "2403.02149",
+  "snippet": "2 SPHERE obs at ESO"
+ },
+ "ww-cha_sphere-chami": {
+  "epoch": "2017-03-12",
+  "source": "eso:eso-exact",
+  "arxiv": "2403.02149",
+  "snippet": "1 SPHERE obs at ESO"
+ },
+ "xz-tau_zurlo2024": {
+  "epoch": "2017-10-13",
+  "source": "eso:eso-exact",
+  "arxiv": "2403.12124",
+  "snippet": "2 SPHERE obs at ESO"
+ },
+ "z-cma_zurlo2024": {
+  "epoch": "2016-12-17",
+  "source": "eso:eso-exact",
+  "arxiv": "2403.12124",
+  "snippet": "1 SPHERE obs at ESO"
+ },
+ "2m1207_nicmos2006": {
+  "epoch": "2004-2006",
+  "source": "mast:mast-range",
+  "arxiv": "astro-ph/0607490",
+  "snippet": "32 NICMOS obs [F160W]"
+ },
+ "3c-273_acs2003": {
+  "epoch": "2002-2003",
+  "source": "mast:mast-range",
+  "arxiv": null,
+  "snippet": "17 ACS obs"
+ },
+ "3c-273_bahcall1995": {
+  "epoch": "1994-1995",
+  "source": "mast:mast-range",
+  "arxiv": "astro-ph/9501018",
+  "snippet": "2 WFPC2 obs [F606W]"
+ },
+ "3c-323-1_bahcall1995": {
+  "epoch": "1994-06-09",
+  "source": "mast:mast-exact",
+  "arxiv": "astro-ph/9501018",
+  "snippet": "1 WFPC2 obs [F606W]"
+ },
+ "49-cet_nicmos-ren2023": {
+  "epoch": "1998-2004",
+  "source": "mast:mast-range",
+  "arxiv": "2302.04273",
+  "snippet": "10 NICMOS obs [F110W]"
+ },
+ "49-cet_stis-ren": {
+  "epoch": "2010-2018",
+  "source": "mast:mast-range",
+  "arxiv": "2302.04273",
+  "snippet": "34 STIS obs"
+ },
+ "49-cet_alice-f110w": {
+  "epoch": "1998-2004",
+  "source": "mast:mast-range",
+  "arxiv": "1802.07754",
+  "snippet": "10 NICMOS obs [F110W]"
+ },
+ "49-cet_nicmos-choquet2017": {
+  "epoch": "1998-2004",
+  "source": "mast:mast-range",
+  "arxiv": "1612.07320",
+  "snippet": "10 NICMOS obs [F110W]"
+ },
+ "aa-tau_hst2013": {
+  "epoch": "1999-2011",
+  "source": "mast:mast-range",
+  "arxiv": null,
+  "snippet": "6 STIS obs"
+ },
+ "aa-tau_alice-f160w": {
+  "epoch": "2004-11-22",
+  "source": "mast:mast-exact",
+  "arxiv": "1802.07754",
+  "snippet": "8 NICMOS obs [F160W]"
+ },
+ "ab-aur_stis1999": {
+  "epoch": "1999-01-23",
+  "source": "mast:mast-exact",
+  "arxiv": null,
+  "snippet": "8 STIS obs"
+ },
+ "ab-aur_alice-f110w": {
+  "epoch": "2007",
+  "source": "mast:mast-year",
+  "arxiv": "1802.07754",
+  "snippet": "2 NICMOS obs [F110W]"
+ },
+ "ab-aur_wfc3-2022": {
+  "epoch": "2022",
+  "source": "mast:mast-year",
+  "arxiv": "2207.06525",
+  "snippet": "11 WFC3 obs [F656N]"
+ },
+ "ab-aur_stis2005": {
+  "epoch": "1999-2000",
+  "source": "mast:mast-range",
+  "arxiv": null,
+  "snippet": "9 STIS obs"
+ },
+ "af-lep_alice-f160w": {
+  "epoch": "1998-11-14",
+  "source": "mast:mast-exact",
+  "arxiv": "1802.07754",
+  "snippet": "2 NICMOS obs [F160W]"
+ },
+ "au-mic_acs2005": {
+  "epoch": "2004",
+  "source": "mast:mast-year",
+  "arxiv": "astro-ph/0410466",
+  "snippet": "70 ACS obs"
+ },
+ "au-mic_stis-schneider14": {
+  "epoch": "1998-2013",
+  "source": "mast:mast-range",
+  "arxiv": "1406.7303",
+  "snippet": "60 STIS obs"
+ },
+ "au-mic_nicmos-ren2023": {
+  "epoch": "2004",
+  "source": "mast:mast-year",
+  "arxiv": "2302.04273",
+  "snippet": "8 NICMOS obs [F110W]"
+ },
+ "au-mic_stis-ren": {
+  "epoch": "1998-2023",
+  "source": "mast:mast-range",
+  "arxiv": "2302.04273",
+  "snippet": "292 STIS obs"
+ },
+ "au-mic_alice-f160w": {
+  "epoch": "2004",
+  "source": "mast:mast-year",
+  "arxiv": "1802.07754",
+  "snippet": "8 NICMOS obs [F160W]"
+ },
+ "beta-pic_nicmos-ren2023": {
+  "epoch": "1998-09-21",
+  "source": "mast:mast-exact",
+  "arxiv": "2302.04273",
+  "snippet": "1 NICMOS obs [F110W]"
+ },
+ "beta-pic_stis-ren": {
+  "epoch": "1997-2023",
+  "source": "mast:mast-range",
+  "arxiv": "2302.04273",
+  "snippet": "155 STIS obs"
+ },
+ "beta-pic_alice-f160w": {
+  "epoch": "1998",
+  "source": "mast:mast-year",
+  "arxiv": "1802.07754",
+  "snippet": "9 NICMOS obs [F160W]"
+ },
+ "beta-pic_acs2006_b": {
+  "epoch": "2003-2004",
+  "source": "mast:mast-range",
+  "arxiv": "astro-ph/0602292",
+  "snippet": "19 ACS obs [F435W]"
+ },
+ "beta-pic_acs2006_v": {
+  "epoch": "2003-2004",
+  "source": "mast:mast-range",
+  "arxiv": "astro-ph/0602292",
+  "snippet": "26 ACS obs [F606W]"
+ },
+ "beta-pic_acs2006_i": {
+  "epoch": "2003-2004",
+  "source": "mast:mast-range",
+  "arxiv": "astro-ph/0602292",
+  "snippet": "19 ACS obs [F814W]"
+ },
+ "bp-tau_alice-f110w": {
+  "epoch": "2004-12-31",
+  "source": "mast:mast-exact",
+  "arxiv": "1802.07754",
+  "snippet": "6 NICMOS obs [F110W]"
+ },
+ "ci-tau_alice-f110w": {
+  "epoch": "2004-12-30",
+  "source": "mast:mast-exact",
+  "arxiv": "1802.07754",
+  "snippet": "6 NICMOS obs [F110W]"
+ },
+ "coku-tau-1_nicmos1999": {
+  "epoch": "1997-08-19",
+  "source": "mast:mast-exact",
+  "arxiv": "astro-ph/9902101",
+  "snippet": "1 NICMOS obs [F110W]"
+ },
+ "cq-tau_alice-f110w": {
+  "epoch": "2005-01-08",
+  "source": "mast:mast-exact",
+  "arxiv": "1802.07754",
+  "snippet": "6 NICMOS obs [F110W]"
+ },
+ "cq-tau_stis-grady2005": {
+  "epoch": "1999-10-19",
+  "source": "mast:mast-exact",
+  "arxiv": null,
+  "snippet": "4 STIS obs"
+ },
+ "cy-tau_alice-f110w": {
+  "epoch": "2004-09-23",
+  "source": "mast:mast-exact",
+  "arxiv": "1802.07754",
+  "snippet": "6 NICMOS obs [F110W]"
+ },
+ "dg-tau-b_nicmos1999": {
+  "epoch": "1997-12-21",
+  "source": "mast:mast-exact",
+  "arxiv": "astro-ph/9902101",
+  "snippet": "1 NICMOS obs [F110W]"
+ },
+ "dl-tau_alice-f160w": {
+  "epoch": "2004-09-26",
+  "source": "mast:mast-exact",
+  "arxiv": "1802.07754",
+  "snippet": "8 NICMOS obs [F160W]"
+ },
+ "dm-tau_alice-f160w": {
+  "epoch": "2005-2006",
+  "source": "mast:mast-range",
+  "arxiv": "1802.07754",
+  "snippet": "10 NICMOS obs [F160W]"
+ },
+ "do-tau_alice-f160w": {
+  "epoch": "1998-12-02",
+  "source": "mast:mast-exact",
+  "arxiv": "1802.07754",
+  "snippet": "2 NICMOS obs [F160W]"
+ },
+ "doar-25_alice-f160w": {
+  "epoch": "2005-2008",
+  "source": "mast:mast-range",
+  "arxiv": "1802.07754",
+  "snippet": "11 NICMOS obs [F160W]"
+ },
+ "dq-tau_alice-f110w": {
+  "epoch": "2005-01-04",
+  "source": "mast:mast-exact",
+  "arxiv": "1802.07754",
+  "snippet": "6 NICMOS obs [F110W]"
+ },
+ "dr-tau_alice-f212n": {
+  "epoch": "1998-09-07",
+  "source": "mast:mast-exact",
+  "arxiv": "1802.07754",
+  "snippet": "2 NICMOS obs [F212N]"
+ },
+ "eta-crv_alice-f160w": {
+  "epoch": "2005-07-10",
+  "source": "mast:mast-exact",
+  "arxiv": "1802.07754",
+  "snippet": "1 NICMOS obs [F160W]"
+ },
+ "fomalhaut_acs2005": {
+  "epoch": "2004",
+  "source": "mast:mast-year",
+  "arxiv": "astro-ph/0506574",
+  "snippet": "40 ACS obs [F606W]"
+ },
+ "gg-tau_wfpc2002": {
+  "epoch": "1994-1997",
+  "source": "mast:mast-range",
+  "arxiv": "astro-ph/0201415",
+  "snippet": "36 WFPC2 obs"
+ },
+ "gg-tau_nicmos2002": {
+  "epoch": "1997-10-11",
+  "source": "mast:mast-exact",
+  "arxiv": "astro-ph/0204465",
+  "snippet": "1 NICMOS obs [F110W]"
+ },
+ "gg-tau_acs2005_v": {
+  "epoch": "2002-09-12",
+  "source": "mast:mast-exact",
+  "arxiv": "astro-ph/0508222",
+  "snippet": "8 ACS obs [F555W]"
+ },
+ "gg-tau_acs2005_i": {
+  "epoch": "2002-09-12",
+  "source": "mast:mast-exact",
+  "arxiv": "astro-ph/0508222",
+  "snippet": "10 ACS obs [F814W]"
+ },
+ "gm-aur_nicmos2003": {
+  "epoch": "1998-03-25",
+  "source": "mast:mast-exact",
+  "arxiv": null,
+  "snippet": "2 NICMOS obs [F110W]"
+ },
+ "gm-aur_alice-f110w": {
+  "epoch": "1998-2006",
+  "source": "mast:mast-range",
+  "arxiv": "1802.07754",
+  "snippet": "4 NICMOS obs [F110W]"
+ },
+ "gm-aur_acssbc_f140lp": {
+  "epoch": "2003-2008",
+  "source": "mast:mast-range",
+  "arxiv": "1607.03520",
+  "snippet": "28 ACS obs"
+ },
+ "go-tau_alice-f160w": {
+  "epoch": "2005-2007",
+  "source": "mast:mast-range",
+  "arxiv": "1802.07754",
+  "snippet": "9 NICMOS obs [F160W]"
+ },
+ "haro-6-5b_nicmos1999": {
+  "epoch": "1997-10-29",
+  "source": "mast:mast-exact",
+  "arxiv": "astro-ph/9902101",
+  "snippet": "4 NICMOS obs [F110W]"
+ },
+ "hd-100546_acs2007": {
+  "epoch": "2003-03-26",
+  "source": "mast:mast-exact",
+  "arxiv": null,
+  "snippet": "7 ACS obs [F606W]"
+ },
+ "hd-100546_nicmos2001": {
+  "epoch": "1998-11-09",
+  "source": "mast:mast-exact",
+  "arxiv": "astro-ph/0009496",
+  "snippet": "3 NICMOS obs"
+ },
+ "hd-100546_alice-f110w": {
+  "epoch": "2007-2008",
+  "source": "mast:mast-range",
+  "arxiv": "1802.07754",
+  "snippet": "2 NICMOS obs [F110W]"
+ },
+ "hd-100546_stis-grady2005": {
+  "epoch": "2000-2002",
+  "source": "mast:mast-range",
+  "arxiv": null,
+  "snippet": "12 STIS obs"
+ },
+ "hd-100546_nicmos-go11155-1um": {
+  "epoch": "2007-2008",
+  "source": "mast:mast-range",
+  "arxiv": null,
+  "snippet": "2 NICMOS obs [F110W]"
+ },
+ "hd-100546_nicmos-go11155-pol2um": {
+  "epoch": "1998-2008",
+  "source": "mast:mast-range",
+  "arxiv": null,
+  "snippet": "30 NICMOS obs"
+ },
+ "hd-100546_stis-grady2001": {
+  "epoch": "2000-2001",
+  "source": "mast:mast-range",
+  "arxiv": null,
+  "snippet": "11 STIS obs"
+ },
+ "hd-104860_nicmos-ren2023": {
+  "epoch": "2006-03-20",
+  "source": "mast:mast-exact",
+  "arxiv": "2302.04273",
+  "snippet": "10 NICMOS obs [F110W]"
+ },
+ "hd-104860_stis-ren": {
+  "epoch": "2019-04-19",
+  "source": "mast:mast-exact",
+  "arxiv": "2302.04273",
+  "snippet": "18 STIS obs"
+ },
+ "hd-104860_nicmos-choquet18": {
+  "epoch": "2006-03-20",
+  "source": "mast:mast-exact",
+  "arxiv": "1801.05424",
+  "snippet": "10 NICMOS obs [F110W]"
+ },
+ "hd-105_alice-f160w": {
+  "epoch": "1998-11-03",
+  "source": "mast:mast-exact",
+  "arxiv": "1802.07754",
+  "snippet": "4 NICMOS obs [F160W]"
+ },
+ "hd-10647_hst2021": {
+  "epoch": "2006-09-02",
+  "source": "mast:mast-exact",
+  "arxiv": "2106.05975",
+  "snippet": "7 ACS obs [F606W]"
+ },
+ "hd-106906_zhou2020-wfc3": {
+  "epoch": "2016-2018",
+  "source": "mast:mast-range",
+  "arxiv": "2001.08304",
+  "snippet": "40 WFC3 obs [F153M]"
+ },
+ "hd-107146_stis-schneider14": {
+  "epoch": "2011",
+  "source": "mast:mast-year",
+  "arxiv": "1406.7303",
+  "snippet": "24 STIS obs"
+ },
+ "hd-107146_acs2004-f606w": {
+  "epoch": "2004-06-05",
+  "source": "mast:mast-exact",
+  "arxiv": "astro-ph/0411422",
+  "snippet": "6 ACS obs [F606W]"
+ },
+ "hd-107146_acs2004-f814w": {
+  "epoch": "2004-07-20",
+  "source": "mast:mast-exact",
+  "arxiv": "astro-ph/0411422",
+  "snippet": "4 ACS obs [F814W]"
+ },
+ "hd-107146_alice-f110w": {
+  "epoch": "2005-2007",
+  "source": "mast:mast-range",
+  "arxiv": "1802.07754",
+  "snippet": "8 NICMOS obs [F110W]"
+ },
+ "hd-110058_nicmos-ren2023": {
+  "epoch": "2008-03-01",
+  "source": "mast:mast-exact",
+  "arxiv": "2302.04273",
+  "snippet": "4 NICMOS obs [F110W]"
+ },
+ "hd-110058_stis-ren": {
+  "epoch": "2018-2020",
+  "source": "mast:mast-range",
+  "arxiv": "2302.04273",
+  "snippet": "51 STIS obs"
+ },
+ "hd-111520_stis2022": {
+  "epoch": "2013-07-10",
+  "source": "mast:mast-exact",
+  "arxiv": "2204.11759",
+  "snippet": "4 STIS obs"
+ },
+ "hd-131835_nicmos-ren2023": {
+  "epoch": "2008-03-08",
+  "source": "mast:mast-exact",
+  "arxiv": "2302.04273",
+  "snippet": "4 NICMOS obs [F110W]"
+ },
+ "hd-131835_stis-ren": {
+  "epoch": "2019-03-13",
+  "source": "mast:mast-exact",
+  "arxiv": "2302.04273",
+  "snippet": "21 STIS obs"
+ },
+ "hd-135344b_alice-f110w": {
+  "epoch": "2005-03-24",
+  "source": "mast:mast-exact",
+  "arxiv": "1802.07754",
+  "snippet": "6 NICMOS obs [F110W]"
+ },
+ "hd-135344b_stis-grady2005": {
+  "epoch": "2001-04-08",
+  "source": "mast:mast-exact",
+  "arxiv": null,
+  "snippet": "3 STIS obs"
+ },
+ "hd-139664_acs2006": {
+  "epoch": "2004-2006",
+  "source": "mast:mast-range",
+  "arxiv": "astro-ph/0601488",
+  "snippet": "20 ACS obs"
+ },
+ "hd-139664_stis-schneider14": {
+  "epoch": "2011",
+  "source": "mast:mast-year",
+  "arxiv": "1406.7303",
+  "snippet": "30 STIS obs"
+ },
+ "hd-139664_alice-f110w": {
+  "epoch": "2006-2007",
+  "source": "mast:mast-range",
+  "arxiv": "1802.07754",
+  "snippet": "8 NICMOS obs [F110W]"
+ },
+ "hd-141569_acs2003": {
+  "epoch": "2002-2003",
+  "source": "mast:mast-range",
+  "arxiv": "astro-ph/0303605",
+  "snippet": "32 ACS obs"
+ },
+ "hd-141569_nicmos-ren2023": {
+  "epoch": "1998-09-27",
+  "source": "mast:mast-exact",
+  "arxiv": "2302.04273",
+  "snippet": "4 NICMOS obs [F110W]"
+ },
+ "hd-141569_stis-ren": {
+  "epoch": "2000-2015",
+  "source": "mast:mast-range",
+  "arxiv": "2302.04273",
+  "snippet": "55 STIS obs"
+ },
+ "hd-141569_nicmos1999": {
+  "epoch": "1998-08-17",
+  "source": "mast:mast-exact",
+  "arxiv": "astro-ph/9909097",
+  "snippet": "8 NICMOS obs"
+ },
+ "hd-141569_alice-f110w": {
+  "epoch": "1998-09-27",
+  "source": "mast:mast-exact",
+  "arxiv": "1802.07754",
+  "snippet": "4 NICMOS obs [F110W]"
+ },
+ "hd-141943_nicmos-ren2023": {
+  "epoch": "2006",
+  "source": "mast:mast-year",
+  "arxiv": "2302.04273",
+  "snippet": "10 NICMOS obs [F110W]"
+ },
+ "hd-141943_stis-ren": {
+  "epoch": "2014-07-23",
+  "source": "mast:mast-exact",
+  "arxiv": "2302.04273",
+  "snippet": "8 STIS obs"
+ },
+ "hd-141943_alice-f110w": {
+  "epoch": "2006",
+  "source": "mast:mast-year",
+  "arxiv": "1802.07754",
+  "snippet": "10 NICMOS obs [F110W]"
+ },
+ "nz-lup_nicmos2014": {
+  "epoch": "2006",
+  "source": "mast:mast-year",
+  "arxiv": "1404.5614",
+  "snippet": "10 NICMOS obs [F110W]"
+ },
+ "hd-142527_alice-f110w": {
+  "epoch": "2008",
+  "source": "mast:mast-year",
+  "arxiv": "1802.07754",
+  "snippet": "3 NICMOS obs [F110W]"
+ },
+ "hd-142527_nicmos-go11155-1um": {
+  "epoch": "2008",
+  "source": "mast:mast-year",
+  "arxiv": null,
+  "snippet": "3 NICMOS obs [F110W]"
+ },
+ "hd-142527_nicmos-go11155-pol2um": {
+  "epoch": "2008",
+  "source": "mast:mast-year",
+  "arxiv": null,
+  "snippet": "15 NICMOS obs"
+ },
+ "hd-142666_alice-f110w": {
+  "epoch": "2005-03-13",
+  "source": "mast:mast-exact",
+  "arxiv": "1802.07754",
+  "snippet": "6 NICMOS obs [F110W]"
+ },
+ "hd-143006_alice-f110w": {
+  "epoch": "2007-03-23",
+  "source": "mast:mast-exact",
+  "arxiv": "1802.07754",
+  "snippet": "4 NICMOS obs [F110W]"
+ },
+ "hd-15115_stis-schneider14": {
+  "epoch": "2010-2011",
+  "source": "mast:mast-range",
+  "arxiv": "1406.7303",
+  "snippet": "30 STIS obs"
+ },
+ "hd-15115_nicmos-ren2023": {
+  "epoch": "2006-10-20",
+  "source": "mast:mast-exact",
+  "arxiv": "2302.04273",
+  "snippet": "2 NICMOS obs [F110W]"
+ },
+ "hd-15115_stis-ren": {
+  "epoch": "2010-2011",
+  "source": "mast:mast-range",
+  "arxiv": "2302.04273",
+  "snippet": "30 STIS obs"
+ },
+ "hd-15115_alice-f110w": {
+  "epoch": "2006-10-20",
+  "source": "mast:mast-exact",
+  "arxiv": "1802.07754",
+  "snippet": "2 NICMOS obs [F110W]"
+ },
+ "hd-15745_stis-schneider14": {
+  "epoch": "2011-2012",
+  "source": "mast:mast-range",
+  "arxiv": "1406.7303",
+  "snippet": "36 STIS obs"
+ },
+ "hd-15745_nicmos-ren2023": {
+  "epoch": "2004-10-13",
+  "source": "mast:mast-exact",
+  "arxiv": "2302.04273",
+  "snippet": "6 NICMOS obs [F110W]"
+ },
+ "hd-15745_stis-ren": {
+  "epoch": "2011-2012",
+  "source": "mast:mast-range",
+  "arxiv": "2302.04273",
+  "snippet": "36 STIS obs"
+ },
+ "hd-15745_alice-f110w": {
+  "epoch": "2004-10-13",
+  "source": "mast:mast-exact",
+  "arxiv": "1802.07754",
+  "snippet": "6 NICMOS obs [F110W]"
+ },
+ "hd-163296_stis2000": {
+  "epoch": "1998-2000",
+  "source": "mast:mast-range",
+  "arxiv": null,
+  "snippet": "32 STIS obs"
+ },
+ "hd-163296_alice-f110w": {
+  "epoch": "2004-2005",
+  "source": "mast:mast-range",
+  "arxiv": "1802.07754",
+  "snippet": "12 NICMOS obs [F110W]"
+ },
+ "hd-163296_stis2005": {
+  "epoch": "1998-2000",
+  "source": "mast:mast-range",
+  "arxiv": null,
+  "snippet": "32 STIS obs"
+ },
+ "hd-164249_alice-f110w": {
+  "epoch": "2005-05-14",
+  "source": "mast:mast-exact",
+  "arxiv": "1802.07754",
+  "snippet": "6 NICMOS obs [F110W]"
+ },
+ "hd-16743_nicmos2023": {
+  "epoch": "2007-07-23",
+  "source": "mast:mast-exact",
+  "arxiv": "2303.17128",
+  "snippet": "4 NICMOS obs [F110W]"
+ },
+ "hd-169142_alice-f110w": {
+  "epoch": "2005-04-30",
+  "source": "mast:mast-exact",
+  "arxiv": "1802.07754",
+  "snippet": "6 NICMOS obs [F110W]"
+ },
+ "hd-170773_alice-f110w": {
+  "epoch": "2006-04-06",
+  "source": "mast:mast-exact",
+  "arxiv": "1802.07754",
+  "snippet": "4 NICMOS obs [F110W]"
+ },
+ "hd-181327_nicmos2006": {
+  "epoch": "2005-2006",
+  "source": "mast:mast-range",
+  "arxiv": "astro-ph/0606213",
+  "snippet": "13 NICMOS obs"
+ },
+ "hd-181327_stis-schneider14": {
+  "epoch": "2011",
+  "source": "mast:mast-year",
+  "arxiv": "1406.7303",
+  "snippet": "30 STIS obs"
+ },
+ "hd-181327_nicmos-ren2023": {
+  "epoch": "2005-05-02",
+  "source": "mast:mast-exact",
+  "arxiv": "2302.04273",
+  "snippet": "6 NICMOS obs [F110W]"
+ },
+ "hd-181327_stis-ren": {
+  "epoch": "2011",
+  "source": "mast:mast-year",
+  "arxiv": "2302.04273",
+  "snippet": "30 STIS obs"
+ },
+ "hd-181327_alice-f110w": {
+  "epoch": "2005-05-02",
+  "source": "mast:mast-exact",
+  "arxiv": "1802.07754",
+  "snippet": "6 NICMOS obs [F110W]"
+ },
+ "hd-191089_nicmos-ren2023": {
+  "epoch": "2006-05-27",
+  "source": "mast:mast-exact",
+  "arxiv": "2302.04273",
+  "snippet": "8 NICMOS obs [F110W]"
+ },
+ "hd-191089_stis-ren": {
+  "epoch": "2014-07-19",
+  "source": "mast:mast-exact",
+  "arxiv": "2302.04273",
+  "snippet": "16 STIS obs"
+ },
+ "hd-191089_alice-f110w": {
+  "epoch": "2006-05-27",
+  "source": "mast:mast-exact",
+  "arxiv": "1802.07754",
+  "snippet": "8 NICMOS obs [F110W]"
+ },
+ "hd-192758_nicmos-ren2023": {
+  "epoch": "2007-2008",
+  "source": "mast:mast-range",
+  "arxiv": "2302.04273",
+  "snippet": "8 NICMOS obs [F110W]"
+ },
+ "hd-192758_stis-ren": {
+  "epoch": "2018-09-01",
+  "source": "mast:mast-exact",
+  "arxiv": "2302.04273",
+  "snippet": "28 STIS obs"
+ },
+ "hd-192758_nicmos-choquet18": {
+  "epoch": "2007-2008",
+  "source": "mast:mast-range",
+  "arxiv": "1801.05424",
+  "snippet": "8 NICMOS obs [F110W]"
+ },
+ "hd-202917_nicmos-ren2023": {
+  "epoch": "2006-06-22",
+  "source": "mast:mast-exact",
+  "arxiv": "2302.04273",
+  "snippet": "4 NICMOS obs [F110W]"
+ },
+ "hd-202917_stis-ren": {
+  "epoch": "2015",
+  "source": "mast:mast-year",
+  "arxiv": "2302.04273",
+  "snippet": "18 STIS obs"
+ },
+ "hd-202917_alice-f110w": {
+  "epoch": "2006-06-22",
+  "source": "mast:mast-exact",
+  "arxiv": "1802.07754",
+  "snippet": "4 NICMOS obs [F110W]"
+ },
+ "hd-30447_nicmos-ren2023": {
+  "epoch": "2004-10-28",
+  "source": "mast:mast-exact",
+  "arxiv": "2302.04273",
+  "snippet": "6 NICMOS obs [F110W]"
+ },
+ "hd-30447_stis-ren": {
+  "epoch": "2013-11-25",
+  "source": "mast:mast-exact",
+  "arxiv": "2302.04273",
+  "snippet": "8 STIS obs"
+ },
+ "hd-30447_alice-f110w": {
+  "epoch": "2004-10-28",
+  "source": "mast:mast-exact",
+  "arxiv": "1802.07754",
+  "snippet": "6 NICMOS obs [F110W]"
+ },
+ "hd-32297_stis2005": {
+  "epoch": "2005-02-24",
+  "source": "mast:mast-exact",
+  "arxiv": "astro-ph/0507355",
+  "snippet": "6 NICMOS obs [F110W]"
+ },
+ "hd-32297_stis-schneider14": {
+  "epoch": "2010-2012",
+  "source": "mast:mast-range",
+  "arxiv": "1406.7303",
+  "snippet": "28 STIS obs"
+ },
+ "hd-32297_nicmos-ren2023": {
+  "epoch": "2005-02-24",
+  "source": "mast:mast-exact",
+  "arxiv": "2302.04273",
+  "snippet": "6 NICMOS obs [F110W]"
+ },
+ "hd-32297_stis-ren": {
+  "epoch": "2010-2012",
+  "source": "mast:mast-range",
+  "arxiv": "2302.04273",
+  "snippet": "28 STIS obs"
+ },
+ "hd-32297_alice-f110w": {
+  "epoch": "2005-02-24",
+  "source": "mast:mast-exact",
+  "arxiv": "1802.07754",
+  "snippet": "6 NICMOS obs [F110W]"
+ },
+ "hd-35650_nicmos-ren2023": {
+  "epoch": "2004-10-28",
+  "source": "mast:mast-exact",
+  "arxiv": "2302.04273",
+  "snippet": "4 NICMOS obs [F160W]"
+ },
+ "hd-35650_stis-ren": {
+  "epoch": "2018-11-15",
+  "source": "mast:mast-exact",
+  "arxiv": "2302.04273",
+  "snippet": "12 STIS obs"
+ },
+ "hd-35841_nicmos-ren2023": {
+  "epoch": "2004-10-31",
+  "source": "mast:mast-exact",
+  "arxiv": "2302.04273",
+  "snippet": "6 NICMOS obs [F110W]"
+ },
+ "hd-35841_stis-ren": {
+  "epoch": "2014-11-06",
+  "source": "mast:mast-exact",
+  "arxiv": "2302.04273",
+  "snippet": "6 STIS obs"
+ },
+ "hd-35841_alice-f110w": {
+  "epoch": "2004-10-31",
+  "source": "mast:mast-exact",
+  "arxiv": "1802.07754",
+  "snippet": "6 NICMOS obs [F110W]"
+ },
+ "hd-377_nicmos-ren2023": {
+  "epoch": "2005-09-16",
+  "source": "mast:mast-exact",
+  "arxiv": "2302.04273",
+  "snippet": "6 NICMOS obs [F110W]"
+ },
+ "hd-377_stis-ren": {
+  "epoch": "2011-2019",
+  "source": "mast:mast-range",
+  "arxiv": "2302.04273",
+  "snippet": "24 STIS obs"
+ },
+ "hd-377_alice-f110w": {
+  "epoch": "2005-09-16",
+  "source": "mast:mast-exact",
+  "arxiv": "1802.07754",
+  "snippet": "6 NICMOS obs [F110W]"
+ },
+ "hd-53143_acs2006": {
+  "epoch": "2004-09-11",
+  "source": "mast:mast-exact",
+  "arxiv": "astro-ph/0601488",
+  "snippet": "2 ACS obs"
+ },
+ "hd-53143_stis-schneider14": {
+  "epoch": "2011-2013",
+  "source": "mast:mast-range",
+  "arxiv": "1406.7303",
+  "snippet": "32 STIS obs"
+ },
+ "hd-53143_alice-f110w": {
+  "epoch": "2006-10-25",
+  "source": "mast:mast-exact",
+  "arxiv": "1802.07754",
+  "snippet": "2 NICMOS obs [F110W]"
+ },
+ "hd-53143_stis-stark2023": {
+  "epoch": "2011-2021",
+  "source": "mast:mast-range",
+  "arxiv": "2304.07370",
+  "snippet": "56 STIS obs"
+ },
+ "hd-61005_stis-schneider14": {
+  "epoch": "2010-2011",
+  "source": "mast:mast-range",
+  "arxiv": "1406.7303",
+  "snippet": "25 STIS obs"
+ },
+ "hd-61005_nicmos-ren2023": {
+  "epoch": "2005-2006",
+  "source": "mast:mast-range",
+  "arxiv": "2302.04273",
+  "snippet": "8 NICMOS obs [F110W]"
+ },
+ "hd-61005_stis-ren": {
+  "epoch": "2010-2011",
+  "source": "mast:mast-range",
+  "arxiv": "2302.04273",
+  "snippet": "25 STIS obs"
+ },
+ "hd-61005_alice-f110w": {
+  "epoch": "2005-2006",
+  "source": "mast:mast-range",
+  "arxiv": "1802.07754",
+  "snippet": "8 NICMOS obs [F110W]"
+ },
+ "hd-61005_nicmos-hines07": {
+  "epoch": "2005-2006",
+  "source": "mast:mast-range",
+  "arxiv": null,
+  "snippet": "8 NICMOS obs [F110W]"
+ },
+ "hd-92945_alice-f110w": {
+  "epoch": "2005-04-17",
+  "source": "mast:mast-exact",
+  "arxiv": "1802.07754",
+  "snippet": "6 NICMOS obs [F110W]"
+ },
+ "hd-92945_acs-golimowski11": {
+  "epoch": "2004-2005",
+  "source": "mast:mast-range",
+  "arxiv": "1105.0888",
+  "snippet": "13 ACS obs [F606W]"
+ },
+ "hd-97048_alice-f110w": {
+  "epoch": "2007-2008",
+  "source": "mast:mast-range",
+  "arxiv": "1802.07754",
+  "snippet": "2 NICMOS obs [F110W]"
+ },
+ "hd-97048_acs2007": {
+  "epoch": "2005-07-16",
+  "source": "mast:mast-exact",
+  "arxiv": "astro-ph/0701576",
+  "snippet": "7 ACS obs [F606W]"
+ },
+ "hh-30_nicmos2001": {
+  "epoch": "1997-1998",
+  "source": "mast:mast-range",
+  "arxiv": "astro-ph/0104066",
+  "snippet": "2 NICMOS obs [F110W]"
+ },
+ "hh-30_wfpc2-1996": {
+  "epoch": "1994-1995",
+  "source": "mast:mast-range",
+  "arxiv": null,
+  "snippet": "2 WFPC2 obs [F814W]"
+ },
+ "hh-48-ne_acs2023": {
+  "epoch": "2012-03-07",
+  "source": "mast:mast-exact",
+  "arxiv": "2305.02338",
+  "snippet": "3 ACS obs [F814W]"
+ },
+ "hk-tau-b_wfpc2-1998": {
+  "epoch": "1997-12-24",
+  "source": "mast:mast-exact",
+  "arxiv": null,
+  "snippet": "2 WFPC2 obs [F606W]"
+ },
+ "hr-4796a_nicmos1999": {
+  "epoch": "1998",
+  "source": "mast:mast-year",
+  "arxiv": "astro-ph/9901218",
+  "snippet": "14 NICMOS obs"
+ },
+ "hr-4796a_stis2018": {
+  "epoch": "2001-2015",
+  "source": "mast:mast-range",
+  "arxiv": "1712.08599",
+  "snippet": "53 STIS obs"
+ },
+ "hr-4796a_nicmos-ren2023": {
+  "epoch": "1998-08-16",
+  "source": "mast:mast-exact",
+  "arxiv": "2302.04273",
+  "snippet": "3 NICMOS obs [F110W]"
+ },
+ "hr-4796a_stis-ren": {
+  "epoch": "2001-2023",
+  "source": "mast:mast-range",
+  "arxiv": "2302.04273",
+  "snippet": "129 STIS obs"
+ },
+ "hr-4796a_alice-f171m": {
+  "epoch": "1998-2005",
+  "source": "mast:mast-range",
+  "arxiv": "1802.07754",
+  "snippet": "7 NICMOS obs [F171M]"
+ },
+ "hr-8799_alice-f160w": {
+  "epoch": "1998-10-30",
+  "source": "mast:mast-exact",
+  "arxiv": "1802.07754",
+  "snippet": "4 NICMOS obs [F160W]"
+ },
+ "im-lup_alice-f160w": {
+  "epoch": "2005-2008",
+  "source": "mast:mast-range",
+  "arxiv": "1802.07754",
+  "snippet": "11 NICMOS obs [F160W]"
+ },
+ "iras-04248-2612_nicmos1999": {
+  "epoch": "1997-09-23",
+  "source": "mast:mast-exact",
+  "arxiv": "astro-ph/9902101",
+  "snippet": "1 NICMOS obs [F110W]"
+ },
+ "iras-04302-2247_nicmos2003": {
+  "epoch": "1997-08-19",
+  "source": "mast:mast-exact",
+  "arxiv": "astro-ph/0301335",
+  "snippet": "1 NICMOS obs [F160W]"
+ },
+ "iras-04302-2247_nicmos1999": {
+  "epoch": "1997-08-19",
+  "source": "mast:mast-exact",
+  "arxiv": "astro-ph/9902101",
+  "snippet": "1 NICMOS obs [F110W]"
+ },
+ "iras-23077-6707_hst": {
+  "epoch": "2025-02-08",
+  "source": "mast:mast-exact",
+  "arxiv": "2510.11819",
+  "snippet": "2 WFC3 obs [F160W]"
+ },
+ "l1489-irs_nicmos1999": {
+  "epoch": "1997-12-20",
+  "source": "mast:mast-exact",
+  "arxiv": "astro-ph/9902101",
+  "snippet": "1 NICMOS obs [F110W]"
+ },
+ "lkca-15_alice-f110w": {
+  "epoch": "2005-01-29",
+  "source": "mast:mast-exact",
+  "arxiv": "1802.07754",
+  "snippet": "6 NICMOS obs [F110W]"
+ },
+ "mwc-758_alice-f110w": {
+  "epoch": "2005-01-07",
+  "source": "mast:mast-exact",
+  "arxiv": "1802.07754",
+  "snippet": "6 NICMOS obs [F110W]"
+ },
+ "mwc-758_nicmos-ren18": {
+  "epoch": "2005-01-07",
+  "source": "mast:mast-exact",
+  "arxiv": "1803.06776",
+  "snippet": "6 NICMOS obs [F110W]"
+ },
+ "pds-144-n_acsstis2011": {
+  "epoch": "2010-2011",
+  "source": "mast:mast-range",
+  "arxiv": "1201.0173",
+  "snippet": "5 STIS obs"
+ },
+ "pds-144-n_nicmos-go11155-1um": {
+  "epoch": "2006-03-25",
+  "source": "mast:mast-exact",
+  "arxiv": null,
+  "snippet": "1 NICMOS obs [F110W]"
+ },
+ "pds-144-n_nicmos-go11155-pol2um": {
+  "epoch": "2006-2008",
+  "source": "mast:mast-range",
+  "arxiv": null,
+  "snippet": "12 NICMOS obs"
+ },
+ "pds-453_nicmos-f110w": {
+  "epoch": "2008-05-28",
+  "source": "mast:mast-exact",
+  "arxiv": "2411.04741",
+  "snippet": "3 NICMOS obs [F110W]"
+ },
+ "pds-453_nicmos-go11155-pol2um": {
+  "epoch": "2008-05-28",
+  "source": "mast:mast-exact",
+  "arxiv": null,
+  "snippet": "16 NICMOS obs"
+ },
+ "pds-66_stis-schneider14": {
+  "epoch": "2011",
+  "source": "mast:mast-year",
+  "arxiv": "1406.7303",
+  "snippet": "13 STIS obs"
+ },
+ "pds-66_alice-f110w": {
+  "epoch": "2006-04-13",
+  "source": "mast:mast-exact",
+  "arxiv": "1802.07754",
+  "snippet": "10 NICMOS obs [F110W]"
+ },
+ "pds-70_wfc3rdi": {
+  "epoch": "2012-2020",
+  "source": "mast:mast-range",
+  "arxiv": "2112.10777",
+  "snippet": "40 WFC3 obs [F656N]"
+ },
+ "pg-0953-414_bahcall1994": {
+  "epoch": "1994-02-03",
+  "source": "mast:mast-exact",
+  "arxiv": "astro-ph/9409028",
+  "snippet": "1 WFPC2 obs [F606W]"
+ },
+ "pg-0953-414_acshrc2006": {
+  "epoch": "2006-10-25",
+  "source": "mast:mast-exact",
+  "arxiv": "0812.2283",
+  "snippet": "8 ACS obs [F550M]"
+ },
+ "pg-1116-215_bahcall1994": {
+  "epoch": "1994-02-08",
+  "source": "mast:mast-exact",
+  "arxiv": "astro-ph/9409028",
+  "snippet": "1 WFPC2 obs [F606W]"
+ },
+ "pg-1116-215_nicmos2009": {
+  "epoch": "2006-11-27",
+  "source": "mast:mast-exact",
+  "arxiv": "0906.3157",
+  "snippet": "3 NICMOS obs"
+ },
+ "pg-1202-281_bahcall1994": {
+  "epoch": "1994-02-08",
+  "source": "mast:mast-exact",
+  "arxiv": "astro-ph/9409028",
+  "snippet": "1 WFPC2 obs [F606W]"
+ },
+ "pg-1307-085_bahcall1994": {
+  "epoch": "1994-04-04",
+  "source": "mast:mast-exact",
+  "arxiv": "astro-ph/9409028",
+  "snippet": "1 WFPC2 obs [F606W]"
+ },
+ "pg-1307-085_nicmos2009": {
+  "epoch": "2007-2008",
+  "source": "mast:mast-range",
+  "arxiv": "0906.3157",
+  "snippet": "10 NICMOS obs"
+ },
+ "pg-1444-407_bahcall1995": {
+  "epoch": "1994-1995",
+  "source": "mast:mast-range",
+  "arxiv": "astro-ph/9501018",
+  "snippet": "3 WFPC2 obs [F606W]"
+ },
+ "pks-1302-102_bahcall1995": {
+  "epoch": "1994-06-08",
+  "source": "mast:mast-exact",
+  "arxiv": "astro-ph/9501018",
+  "snippet": "1 WFPC2 obs [F606W]"
+ },
+ "rx-j1842-9-3532_alice-f110w": {
+  "epoch": "2007-05-07",
+  "source": "mast:mast-exact",
+  "arxiv": "1802.07754",
+  "snippet": "4 NICMOS obs [F110W]"
+ },
+ "rx-j1852-3-3700_alice-f110w": {
+  "epoch": "2007-05-10",
+  "source": "mast:mast-exact",
+  "arxiv": "1802.07754",
+  "snippet": "4 NICMOS obs [F110W]"
+ },
+ "ry-tau_alice-f110w": {
+  "epoch": "2004-10-07",
+  "source": "mast:mast-exact",
+  "arxiv": "1802.07754",
+  "snippet": "6 NICMOS obs [F110W]"
+ },
+ "tw-hya_stis2013": {
+  "epoch": "2000-2011",
+  "source": "mast:mast-range",
+  "arxiv": "1306.2969",
+  "snippet": "18 STIS obs"
+ },
+ "tw-hya_wfpc2-2000": {
+  "epoch": "1998-12-20",
+  "source": "mast:mast-exact",
+  "arxiv": null,
+  "snippet": "8 WFPC2 obs"
+ },
+ "tw-hya_alice-f110w": {
+  "epoch": "1998-11-25",
+  "source": "mast:mast-exact",
+  "arxiv": "1802.07754",
+  "snippet": "4 NICMOS obs [F110W]"
+ },
+ "tw-hya_nicmos-pol2018": {
+  "epoch": "1998-2005",
+  "source": "mast:mast-range",
+  "arxiv": "1805.01926",
+  "snippet": "66 NICMOS obs"
+ },
+ "twa-25_nicmos-ren2023": {
+  "epoch": "2005-02-07",
+  "source": "mast:mast-exact",
+  "arxiv": "2302.04273",
+  "snippet": "4 NICMOS obs [F160W]"
+ },
+ "twa-25_stis-ren": {
+  "epoch": "2018-06-27",
+  "source": "mast:mast-exact",
+  "arxiv": "2302.04273",
+  "snippet": "18 STIS obs"
+ },
+ "twa-25_alice-f160w": {
+  "epoch": "2005-02-07",
+  "source": "mast:mast-exact",
+  "arxiv": "1802.07754",
+  "snippet": "4 NICMOS obs [F160W]"
+ },
+ "twa-7_nicmos-ren2023": {
+  "epoch": "1998-03-26",
+  "source": "mast:mast-exact",
+  "arxiv": "2302.04273",
+  "snippet": "4 NICMOS obs [F160W]"
+ },
+ "twa-7_stis-ren": {
+  "epoch": "2011-2021",
+  "source": "mast:mast-range",
+  "arxiv": "2302.04273",
+  "snippet": "11 STIS obs"
+ },
+ "twa-7_alice-f165m": {
+  "epoch": "1998",
+  "source": "mast:mast-year",
+  "arxiv": "1802.07754",
+  "snippet": "4 NICMOS obs [F165M]"
+ },
+ "tyc-9340-437-1_alice-f160w": {
+  "epoch": "2004-09-15",
+  "source": "mast:mast-exact",
+  "arxiv": "1802.07754",
+  "snippet": "4 NICMOS obs [F160W]"
+ },
+ "uz-tau-e_alice-f110w": {
+  "epoch": "2004-11-25",
+  "source": "mast:mast-exact",
+  "arxiv": "1802.07754",
+  "snippet": "6 NICMOS obs [F110W]"
+ },
+ "vega_hst2024": {
+  "epoch": "2003-2023",
+  "source": "mast:mast-range",
+  "arxiv": "2410.24042",
+  "snippet": "155 STIS obs"
+ },
+ "zz-tau-irs_hst2024": {
+  "epoch": "2017-08-23",
+  "source": "mast:mast-exact",
+  "arxiv": "2401.02004",
+  "snippet": "3 WFC3 obs [F160W]"
+ },
+ "beta-pic_smith1984": {
+  "epoch": "1984 Apr",
+  "source": "manual:literature",
+  "arxiv": null,
+  "snippet": "Smith & Terrile 1984: discovery observations, du Pont 2.5m coronagraph, April 1984"
+ },
+ "hd-169142_gemini-lights": {
+  "epoch": "2014-04-25",
+  "source": "tex:lights-log",
+  "arxiv": "2206.05815",
+  "snippet": "1 GPI J epochs"
+ },
+ "hd-191089_gpi-crotts24": {
+  "epoch": "2015-09-01",
+  "source": "tex:crotts-log",
+  "arxiv": "2311.14599",
+  "snippet": "1 GPI epochs"
+ },
+ "hd-111520_gpi-crotts24": {
+  "epoch": "2016-03-18",
+  "source": "tex:crotts-log",
+  "arxiv": "2311.14599",
+  "snippet": "1 GPI epochs"
+ },
+ "hd-142527_gemini-lights": {
+  "epoch": "2014-04-25",
+  "source": "tex:lights-log",
+  "arxiv": "2206.05815",
+  "snippet": "1 GPI H epochs"
+ },
+ "hd-35841_gpi-crotts24": {
+  "epoch": "2016-03-18",
+  "source": "tex:crotts-log",
+  "arxiv": "2311.14599",
+  "snippet": "1 GPI epochs"
+ },
+ "hd-100453_gemini-lights": {
+  "epoch": "2015-04-10",
+  "source": "tex:lights-log",
+  "arxiv": "2206.05815",
+  "snippet": "1 GPI J epochs"
+ },
+ "hd-139614_gemini-lights": {
+  "epoch": "2017-2019",
+  "source": "tex:lights-log",
+  "arxiv": "2206.05815",
+  "snippet": "2 GPI J epochs"
+ },
+ "ht-lup_gemini-lights": {
+  "epoch": "2019-05-14",
+  "source": "tex:lights-log",
+  "arxiv": "2206.05815",
+  "snippet": "1 GPI H epochs"
+ },
+ "mwc-789_gemini-lights": {
+  "epoch": "2018-11-20",
+  "source": "tex:lights-log",
+  "arxiv": "2206.05815",
+  "snippet": "1 GPI H epochs"
+ },
+ "fu-ori_gemini-lights": {
+  "epoch": "2018-01-03",
+  "source": "tex:lights-log",
+  "arxiv": "2206.05815",
+  "snippet": "1 GPI J epochs"
+ },
+ "hd-146897_gpi-crotts24": {
+  "epoch": "2016-03-21",
+  "source": "tex:crotts-log",
+  "arxiv": "2311.14599",
+  "snippet": "1 GPI epochs"
+ },
+ "hd-114082_gpi-crotts24": {
+  "epoch": "2017-08-07",
+  "source": "tex:crotts-log",
+  "arxiv": "2311.14599",
+  "snippet": "1 GPI epochs"
+ },
+ "hd-157587_gpi-crotts24": {
+  "epoch": "2015-08-29",
+  "source": "tex:crotts-log",
+  "arxiv": "2311.14599",
+  "snippet": "1 GPI epochs"
+ },
+ "hd-142666_gemini-lights": {
+  "epoch": "2017-2018",
+  "source": "tex:lights-log",
+  "arxiv": "2206.05815",
+  "snippet": "2 GPI J epochs"
+ },
+ "ak-sco_gemini-lights": {
+  "epoch": "2018-08-11",
+  "source": "tex:lights-log",
+  "arxiv": "2206.05815",
+  "snippet": "1 GPI H epochs"
+ },
+ "hd-100546_gemini-lights": {
+  "epoch": "2017-02-20",
+  "source": "tex:lights-log",
+  "arxiv": "2206.05815",
+  "snippet": "1 GPI J epochs"
+ },
+ "hd-32297_gpi-crotts24-j": {
+  "epoch": "2014-12-18",
+  "source": "tex:crotts-log",
+  "arxiv": "2311.14599",
+  "snippet": "1 GPI epochs"
+ },
+ "hd-32297_gpi-crotts24-h": {
+  "epoch": "2014-12-18",
+  "source": "tex:crotts-log",
+  "arxiv": "2311.14599",
+  "snippet": "1 GPI epochs"
+ },
+ "hd-32297_gpi-crotts24-k1": {
+  "epoch": "2014-12-18",
+  "source": "tex:crotts-log",
+  "arxiv": "2311.14599",
+  "snippet": "1 GPI epochs"
+ },
+ "hd-34700_gemini-lights": {
+  "epoch": "2018-01-03",
+  "source": "tex:lights-log",
+  "arxiv": "2206.05815",
+  "snippet": "1 GPI H epochs"
+ },
+ "hd-34700_gemini-lights-j": {
+  "epoch": "2018-01-03",
+  "source": "tex:lights-log",
+  "arxiv": "2206.05815",
+  "snippet": "1 GPI J epochs"
+ },
+ "hd-45677_gemini-lights": {
+  "epoch": "2017-12-31",
+  "source": "tex:lights-log",
+  "arxiv": "2206.05815",
+  "snippet": "1 GPI J epochs"
+ },
+ "hd-115600_gpi-crotts24": {
+  "epoch": "2015-07-03",
+  "source": "tex:crotts-log",
+  "arxiv": "2311.14599",
+  "snippet": "1 GPI epochs"
+ },
+ "mwc-297_gemini-lights": {
+  "epoch": "2018",
+  "source": "tex:lights-log",
+  "arxiv": "2206.05815",
+  "snippet": "2 GPI H epochs"
+ },
+ "hd-110058_gpi-crotts24": {
+  "epoch": "2016-03-19",
+  "source": "tex:crotts-log",
+  "arxiv": "2311.14599",
+  "snippet": "1 GPI epochs"
+ },
+ "hd-145718_gemini-lights": {
+  "epoch": "2018-06-08",
+  "source": "tex:lights-log",
+  "arxiv": "2206.05815",
+  "snippet": "1 GPI H epochs"
+ },
+ "hen-3-365_gemini-lights": {
+  "epoch": "2017-04-06",
+  "source": "tex:lights-log",
+  "arxiv": "2206.05815",
+  "snippet": "1 GPI J epochs"
+ },
+ "hd-141569_gemini-lights": {
+  "epoch": "2018-2019",
+  "source": "tex:lights-log",
+  "arxiv": "2206.05815",
+  "snippet": "2 GPI J epochs"
+ },
+ "pds-66_gemini-lights": {
+  "epoch": "2016-03-06",
+  "source": "tex:lights-log",
+  "arxiv": "2206.05815",
+  "snippet": "1 GPI J epochs"
+ },
+ "gw-ori_gemini-lights": {
+  "epoch": "2018-01-04",
+  "source": "tex:lights-log",
+  "arxiv": "2206.05815",
+  "snippet": "1 GPI J epochs"
+ },
+ "hd-106906_gpi-crotts24": {
+  "epoch": "2015-07-01",
+  "source": "tex:crotts-log",
+  "arxiv": "2311.14599",
+  "snippet": "1 GPI epochs"
+ },
+ "hd-129590_gpi-crotts24": {
+  "epoch": "2017-08-09",
+  "source": "tex:crotts-log",
+  "arxiv": "2311.14599",
+  "snippet": "1 GPI epochs"
+ },
+ "hd-50138_gemini-lights": {
+  "epoch": "2018-01-04",
+  "source": "tex:lights-log",
+  "arxiv": "2206.05815",
+  "snippet": "1 GPI J epochs"
+ },
+ "mwc-614_gemini-lights": {
+  "epoch": "2018-08-16",
+  "source": "tex:lights-log",
+  "arxiv": "2206.05815",
+  "snippet": "1 GPI J epochs"
+ },
+ "hd-61005_gpi-crotts24": {
+  "epoch": "2014-03-24",
+  "source": "tex:crotts-log",
+  "arxiv": "2311.14599",
+  "snippet": "1 GPI epochs"
+ },
+ "2m1207_miri2025": {
+  "epoch": "2023-02-07",
+  "source": "mast:mast-exact",
+  "arxiv": "2507.08961",
+  "snippet": "3 MIRI obs"
+ },
+ "51-eri_jwst2025": {
+  "epoch": "2022-2024",
+  "source": "mast:mast-range",
+  "arxiv": "2503.13608",
+  "snippet": "47 NIRCAM obs"
+ },
+ "alpha-cen-a_miri2025": {
+  "epoch": "2023-06-19",
+  "source": "mast:mast-exact",
+  "arxiv": "2508.03814",
+  "snippet": "1 MIRI obs"
+ },
+ "beta-pic_planetd-jwst2026": {
+  "epoch": "2022-2024",
+  "source": "mast:mast-range",
+  "arxiv": "2606.23789",
+  "snippet": "15 MIRI obs"
+ },
+ "ct-cha_mrs2025": {
+  "epoch": "2023-02-28",
+  "source": "mast:mast-exact",
+  "arxiv": "2509.15209",
+  "snippet": "7 MIRI obs"
+ },
+ "gamma-oph_mri_f2550w": {
+  "epoch": "2024-08-13",
+  "source": "mast:mast-exact",
+  "arxiv": "2601.15285",
+  "snippet": "2 MIRI obs"
+ },
+ "gj-504_mirico2025": {
+  "epoch": "2023",
+  "source": "mast:mast-year",
+  "arxiv": "2501.00104",
+  "snippet": "5 MIRI obs"
+ },
+ "gq-lup_miri-mrs2024": {
+  "epoch": "2023-08-13",
+  "source": "mast:mast-exact",
+  "arxiv": "2404.07086",
+  "snippet": "1 MIRI obs"
+ },
+ "hd-135344b_nircam2026": {
+  "epoch": "2023-02-16",
+  "source": "mast:mast-exact",
+  "arxiv": "2606.10624",
+  "snippet": "2 NIRCAM obs [F410M]"
+ },
+ "hd-141569_jwst-nircam": {
+  "epoch": "2023-02-17",
+  "source": "mast:mast-exact",
+  "arxiv": null,
+  "snippet": "2 NIRCAM obs [F300M]"
+ },
+ "hd-161868_jwst-miri2026": {
+  "epoch": "2024-08-13",
+  "source": "mast:mast-exact",
+  "arxiv": "2601.15285",
+  "snippet": "2 MIRI obs"
+ },
+ "hd-163296_nircam2025": {
+  "epoch": "2023-08-15",
+  "source": "mast:mast-exact",
+  "arxiv": "2503.20132",
+  "snippet": "20 NIRCAM obs [F410M]"
+ },
+ "hd-95086_miri2024-f1065c": {
+  "epoch": "2023-03-16",
+  "source": "mast:mast-exact",
+  "arxiv": "2408.16843",
+  "snippet": "3 MIRI obs"
+ },
+ "hd-95086_miri2024-f1140c": {
+  "epoch": "2023-03-16",
+  "source": "mast:mast-exact",
+  "arxiv": "2408.16843",
+  "snippet": "3 MIRI obs"
+ },
+ "hd-95086_miri2024-f2300c": {
+  "epoch": "2023-03-16",
+  "source": "mast:mast-exact",
+  "arxiv": "2408.16843",
+  "snippet": "3 MIRI obs"
+ },
+ "hip-99770_nircam2026": {
+  "epoch": "2025-09-01",
+  "source": "mast:mast-exact",
+  "arxiv": "2604.09785",
+  "snippet": "4 NIRCAM obs"
+ },
+ "hl-tau_nircam2024-f187n": {
+  "epoch": "2022-09-29",
+  "source": "mast:mast-exact",
+  "arxiv": "2403.00908",
+  "snippet": "2 NIRCAM obs [F187N]"
+ },
+ "hl-tau_nircam2024-f200w": {
+  "epoch": "2022-2023",
+  "source": "mast:mast-range",
+  "arxiv": "2403.00908",
+  "snippet": "3 NIRCAM obs [F200W]"
+ },
+ "hl-tau_nircam2024-f405n": {
+  "epoch": "2022-09-29",
+  "source": "mast:mast-exact",
+  "arxiv": "2403.00908",
+  "snippet": "2 NIRCAM obs [F405N]"
+ },
+ "hl-tau_nircam2024-f410m": {
+  "epoch": "2022-09-29",
+  "source": "mast:mast-exact",
+  "arxiv": "2403.00908",
+  "snippet": "2 NIRCAM obs [F410M]"
+ },
+ "hr-8799_jwst2025": {
+  "epoch": "2022-2025",
+  "source": "mast:mast-range",
+  "arxiv": "2503.13608",
+  "snippet": "33 NIRCAM obs"
+ },
+ "hsc-j2236-0032_jwst2023": {
+  "epoch": "2022-11-05",
+  "source": "mast:mast-exact",
+  "arxiv": "2211.14329",
+  "snippet": "1 NIRCAM obs [F356W]"
+ },
+ "hsc-j2255-0251_jwst2023": {
+  "epoch": "2022-10-26",
+  "source": "mast:mast-exact",
+  "arxiv": "2211.14329",
+  "snippet": "1 NIRCAM obs [F356W]"
+ },
+ "iras-04302-2247_jwst2024-f200w": {
+  "epoch": "2023-02-20",
+  "source": "mast:mast-exact",
+  "arxiv": "2311.07668",
+  "snippet": "1 NIRCAM obs [F200W]"
+ },
+ "iras-04302-2247_jwst2024-f444w": {
+  "epoch": "2023-02-20",
+  "source": "mast:mast-exact",
+  "arxiv": "2311.07668",
+  "snippet": "1 NIRCAM obs [F444W]"
+ },
+ "iras-04302-2247_jwst2024-f770w": {
+  "epoch": "2023-02-20",
+  "source": "mast:mast-exact",
+  "arxiv": "2311.07668",
+  "snippet": "1 MIRI obs [F770W]"
+ },
+ "iras-04302-2247_jwst2024-f1280w": {
+  "epoch": "2023-2024",
+  "source": "mast:mast-range",
+  "arxiv": "2311.07668",
+  "snippet": "6 MIRI obs"
+ },
+ "iras-04302-2247_jwst2024-f2100w": {
+  "epoch": "2023-2024",
+  "source": "mast:mast-range",
+  "arxiv": "2311.07668",
+  "snippet": "6 MIRI obs"
+ },
+ "pds-70_jwst2024": {
+  "epoch": "2023",
+  "source": "mast:mast-year",
+  "arxiv": "2403.04855",
+  "snippet": "12 NIRCAM obs"
+ },
+ "twa-7_jwst2025": {
+  "epoch": "2024-06-21",
+  "source": "mast:mast-exact",
+  "arxiv": "2502.15081",
+  "snippet": "1 MIRI obs"
+ },
+ "twa-7_nircam2025": {
+  "epoch": "2024-06-15",
+  "source": "mast:mast-exact",
+  "arxiv": "2506.19932",
+  "snippet": "1 NIRCAM obs [F200W]"
+ },
+ "vega_nircam2024": {
+  "epoch": "2023-08-19",
+  "source": "mast:mast-exact",
+  "arxiv": "2410.16551",
+  "snippet": "4 NIRCAM obs [F444W]"
+ },
+ "yses-1_jwst2025": {
+  "epoch": "2023-06-19",
+  "source": "mast:mast-exact",
+  "arxiv": "2507.18861",
+  "snippet": "4 NIRSPEC obs"
+ },
+ "do-tau_carma2015": {
+  "epoch": "2007-2009",
+  "source": "tex:adjudicated",
+  "arxiv": "1506.03679",
+  "snippet": "manual adjudication of multi-date paper (see session)"
+ },
+ "im-lup_dsharp": {
+  "epoch": "2014-2017",
+  "source": "tex:adjudicated",
+  "arxiv": "1812.04040",
+  "snippet": "manual adjudication of multi-date paper (see session)"
+ },
+ "hv-tau-c_naco2010": {
+  "epoch": "2002",
+  "source": "tex:adjudicated",
+  "arxiv": "0911.3445",
+  "snippet": "manual adjudication of multi-date paper (see session)"
+ },
+ "elias-27_dsharp": {
+  "epoch": "2015-2017",
+  "source": "tex:adjudicated",
+  "arxiv": "1812.04040",
+  "snippet": "manual adjudication of multi-date paper (see session)"
+ },
+ "as-209_dsharp": {
+  "epoch": "2014-2017",
+  "source": "tex:adjudicated",
+  "arxiv": "1812.04040",
+  "snippet": "manual adjudication of multi-date paper (see session)"
+ },
+ "uy-aur_ciao2007": {
+  "epoch": "2002-2005",
+  "source": "tex:adjudicated",
+  "arxiv": "0705.3940",
+  "snippet": "manual adjudication of multi-date paper (see session)"
+ },
+ "dl-tau_carma2015": {
+  "epoch": "2008-2009",
+  "source": "tex:adjudicated",
+  "arxiv": "1506.03679",
+  "snippet": "manual adjudication of multi-date paper (see session)"
+ },
+ "hd-163296_dsharp": {
+  "epoch": "2014-2017",
+  "source": "tex:adjudicated",
+  "arxiv": "1812.04040",
+  "snippet": "manual adjudication of multi-date paper (see session)"
+ },
+ "hd-163296_pdbi-1.3mm2007": {
+  "epoch": "2001-2003",
+  "source": "tex:adjudicated",
+  "arxiv": "0704.0616",
+  "snippet": "manual adjudication of multi-date paper (see session)"
+ },
+ "hd-163296_pdbi-2.8mm2007": {
+  "epoch": "2001-2003",
+  "source": "tex:adjudicated",
+  "arxiv": "0704.0616",
+  "snippet": "manual adjudication of multi-date paper (see session)"
+ },
+ "hr-4796a_nici2014": {
+  "epoch": "2012 Apr 6",
+  "source": "tex:adjudicated",
+  "arxiv": "1404.6525",
+  "snippet": "manual adjudication of multi-date paper (see session)"
+ },
+ "hr-4796a_nici2014-j": {
+  "epoch": "2012 Apr 6",
+  "source": "tex:adjudicated",
+  "arxiv": "1404.6525",
+  "snippet": "manual adjudication of multi-date paper (see session)"
+ },
+ "hr-4796a_nici2014-ks": {
+  "epoch": "2012 Apr 6",
+  "source": "tex:adjudicated",
+  "arxiv": "1404.6525",
+  "snippet": "manual adjudication of multi-date paper (see session)"
+ },
+ "elias-24_dsharp": {
+  "epoch": "2015-2017",
+  "source": "tex:adjudicated",
+  "arxiv": "1812.04040",
+  "snippet": "manual adjudication of multi-date paper (see session)"
+ },
+ "ab-aur_lbti2022-lp": {
+  "epoch": "2014-02-09",
+  "source": "tex:adjudicated",
+  "arxiv": "2201.08867",
+  "snippet": "manual adjudication of multi-date paper (see session)"
+ },
+ "ab-aur_lbti2022-ks": {
+  "epoch": "2015-01-04",
+  "source": "tex:adjudicated",
+  "arxiv": "2201.08867",
+  "snippet": "manual adjudication of multi-date paper (see session)"
+ },
+ "as-205_dsharp": {
+  "epoch": "2012-2017",
+  "source": "tex:adjudicated",
+  "arxiv": "1812.04040",
+  "snippet": "manual adjudication of multi-date paper (see session)"
+ },
+ "gm-aur_sma2009": {
+  "epoch": "2005-2006",
+  "source": "tex:adjudicated",
+  "arxiv": "0903.4455",
+  "snippet": "manual adjudication of multi-date paper (see session)"
+ },
+ "hd-142666_dsharp": {
+  "epoch": "2015-2017",
+  "source": "tex:adjudicated",
+  "arxiv": "1812.04040",
+  "snippet": "manual adjudication of multi-date paper (see session)"
+ },
+ "hd-34700_uyama2020-j": {
+  "epoch": "2019 Jan 12",
+  "source": "tex:adjudicated",
+  "arxiv": "2007.11655",
+  "snippet": "manual adjudication of multi-date paper (see session)"
+ },
+ "hd-34700_uyama2020-h": {
+  "epoch": "2019 Jan 12",
+  "source": "tex:adjudicated",
+  "arxiv": "2007.11655",
+  "snippet": "manual adjudication of multi-date paper (see session)"
+ },
+ "hd-34700_uyama2020-k": {
+  "epoch": "2019 Jan 12",
+  "source": "tex:adjudicated",
+  "arxiv": "2007.11655",
+  "snippet": "manual adjudication of multi-date paper (see session)"
+ },
+ "51-eri_sphere2017_y": {
+  "epoch": "2015-2016",
+  "source": "tex:adjudicated",
+  "arxiv": "1704.02987",
+  "snippet": "manual adjudication of multi-date paper (see session)"
+ },
+ "51-eri_sphere2017_j": {
+  "epoch": "2015-2016",
+  "source": "tex:adjudicated",
+  "arxiv": "1704.02987",
+  "snippet": "manual adjudication of multi-date paper (see session)"
+ },
+ "51-eri_sphere2017_h": {
+  "epoch": "2015-2016",
+  "source": "tex:adjudicated",
+  "arxiv": "1704.02987",
+  "snippet": "manual adjudication of multi-date paper (see session)"
+ },
+ "51-eri_sphere2017_k1": {
+  "epoch": "2015-2016",
+  "source": "tex:adjudicated",
+  "arxiv": "1704.02987",
+  "snippet": "manual adjudication of multi-date paper (see session)"
+ },
+ "cq-tau_sma-0.87mm2011": {
+  "epoch": "2008 Jan 24",
+  "source": "tex:adjudicated",
+  "arxiv": "1009.2697",
+  "snippet": "manual adjudication of multi-date paper (see session)"
+ },
+ "cq-tau_pdbi-1.3mm2011": {
+  "epoch": "2006 Jan 15",
+  "source": "tex:adjudicated",
+  "arxiv": "1009.2697",
+  "snippet": "manual adjudication of multi-date paper (see session)"
+ },
+ "cq-tau_pdbi-2.7mm2011": {
+  "epoch": "2006 Jan 15",
+  "source": "tex:adjudicated",
+  "arxiv": "1009.2697",
+  "snippet": "manual adjudication of multi-date paper (see session)"
+ },
+ "hd-143006_dsharp": {
+  "epoch": "2016-2017",
+  "source": "tex:adjudicated",
+  "arxiv": "1812.04040",
+  "snippet": "manual adjudication of multi-date paper (see session)"
+ },
+ "hd-111520_gpi-hom24": {
+  "epoch": "2015-2016",
+  "source": "tex:adjudicated",
+  "arxiv": "2402.00214",
+  "snippet": "GPIES pol epochs (Hom 2024 = GPIES re-reduction)"
+ },
+ "hd-35841_gpi-hom24": {
+  "epoch": "2016-02-28",
+  "source": "tex:adjudicated",
+  "arxiv": "2402.00214",
+  "snippet": "GPIES pol epochs (Hom 2024 = GPIES re-reduction)"
+ },
+ "as-209_eris2025": {
+  "epoch": "2023 May 28",
+  "source": "tex:adjudicated",
+  "arxiv": "2504.19810",
+  "snippet": "whole ERIS sample observed night of 2023 May 28"
+ },
+ "hd-163296_eris2025": {
+  "epoch": "2023 May 28",
+  "source": "tex:adjudicated",
+  "arxiv": "2504.19810",
+  "snippet": "whole ERIS sample observed night of 2023 May 28"
+ },
+ "hr-4796a_gpi-hom24": {
+  "epoch": "2013-12-12",
+  "source": "tex:adjudicated",
+  "arxiv": "2402.00214",
+  "snippet": "GPIES pol epochs (Hom 2024 = GPIES re-reduction)"
+ },
+ "hd-146897_gpi-hom24": {
+  "epoch": "2016-03-21",
+  "source": "tex:adjudicated",
+  "arxiv": "2402.00214",
+  "snippet": "GPIES pol epochs (Hom 2024 = GPIES re-reduction)"
+ },
+ "elias-24_eris2025": {
+  "epoch": "2023 May 28",
+  "source": "tex:adjudicated",
+  "arxiv": "2504.19810",
+  "snippet": "whole ERIS sample observed night of 2023 May 28"
+ },
+ "hd-114082_gpi-hom24": {
+  "epoch": "2017-08-07",
+  "source": "tex:adjudicated",
+  "arxiv": "2402.00214",
+  "snippet": "GPIES pol epochs (Hom 2024 = GPIES re-reduction)"
+ },
+ "pds-70_eris2025": {
+  "epoch": "2023 May 28",
+  "source": "tex:adjudicated",
+  "arxiv": "2504.19810",
+  "snippet": "whole ERIS sample observed night of 2023 May 28"
+ },
+ "hd-98363_discs": {
+  "epoch": "2019 Feb 20",
+  "source": "tex:adjudicated",
+  "arxiv": "2505.02976",
+  "snippet": "DISCS obs-log row 98363"
+ },
+ "tw-hya_eris2025": {
+  "epoch": "2023 May 28",
+  "source": "tex:adjudicated",
+  "arxiv": "2504.19810",
+  "snippet": "whole ERIS sample observed night of 2023 May 28"
+ },
+ "hd-100546_eris2025": {
+  "epoch": "2023 May 28",
+  "source": "tex:adjudicated",
+  "arxiv": "2504.19810",
+  "snippet": "whole ERIS sample observed night of 2023 May 28"
+ },
+ "hd-32297_gpi-hom24": {
+  "epoch": "2014-12-18",
+  "source": "tex:adjudicated",
+  "arxiv": "2402.00214",
+  "snippet": "GPIES pol epochs (Hom 2024 = GPIES re-reduction)"
+ },
+ "hd-34700_chen2024-j": {
+  "epoch": "2019 Dec 16",
+  "source": "tex:adjudicated",
+  "arxiv": "2408.09038",
+  "snippet": "primary CHARIS PDI data taken UT 2019 Dec 16"
+ },
+ "hd-34700_chen2024-h": {
+  "epoch": "2019 Dec 16",
+  "source": "tex:adjudicated",
+  "arxiv": "2408.09038",
+  "snippet": "primary CHARIS PDI data taken UT 2019 Dec 16"
+ },
+ "hd-34700_chen2024-k": {
+  "epoch": "2019 Dec 16",
+  "source": "tex:adjudicated",
+  "arxiv": "2408.09038",
+  "snippet": "primary CHARIS PDI data taken UT 2019 Dec 16"
+ },
+ "hd-109832_discs": {
+  "epoch": "2019 May 14",
+  "source": "tex:adjudicated",
+  "arxiv": "2505.02976",
+  "snippet": "DISCS obs-log row 109832"
+ },
+ "hd-110058_gpi-hom24": {
+  "epoch": "2016",
+  "source": "tex:adjudicated",
+  "arxiv": "2402.00214",
+  "snippet": "GPIES pol epochs (Hom 2024 = GPIES re-reduction)"
+ },
+ "hd-146181_discs": {
+  "epoch": "2019 Mar 29",
+  "source": "tex:adjudicated",
+  "arxiv": "2505.02976",
+  "snippet": "DISCS obs-log row 146181"
+ },
+ "hd-112810_discs": {
+  "epoch": "2019 Feb 28",
+  "source": "tex:adjudicated",
+  "arxiv": "2505.02976",
+  "snippet": "DISCS obs-log row 112810"
+ },
+ "hd-107146_carma2008": {
+  "epoch": "2007-2008",
+  "source": "tex:adjudicated",
+  "arxiv": "0811.2713",
+  "snippet": "CARMA D+E configs Aug 2007 - Sep 2008"
+ },
+ "xest-13-010_nirc2-kointreau": {
+  "epoch": "2023 Dec",
+  "source": "tex:adjudicated",
+  "arxiv": "2512.05191",
+  "snippet": "KOINTREAU Dec 2023 observing run"
+ },
+ "hd-169142_visir2021": {
+  "epoch": "2018",
+  "source": "tex:adjudicated",
+  "arxiv": "2102.12506",
+  "snippet": "VISIR survey epoch (HD 100546 shown Apr 2018)"
+ },
+ "oph-irs-48_seeds": {
+  "epoch": "2013 May 19",
+  "source": "tex:adjudicated",
+  "arxiv": "1411.0671",
+  "snippet": "HiCIAO H-band PDI 2013 May 19 (Ks was 2014 Jun 9)"
+ },
+ "fw-tau_nirc2-2014": {
+  "epoch": "2008-12-23",
+  "source": "tex:adjudicated",
+  "arxiv": "1311.7664",
+  "snippet": "figure caption: single K' image from 2008/12/23"
+ },
+ "gj-581_herschel": {
+  "epoch": "2011 Jul 29",
+  "source": "tex:adjudicated",
+  "arxiv": "1211.4898",
+  "snippet": "deeper PACS 100/160um images 2011 Jul 29"
+ },
+ "hd-95086_sphere2018": {
+  "epoch": "2015-2017",
+  "source": "tex:adjudicated",
+  "arxiv": "1801.05850",
+  "snippet": "combined IFS/IRDIS epochs Feb 2015 - May 2017"
+ },
+ "hd-15115_nici2014": {
+  "epoch": "2009-2011",
+  "source": "tex:adjudicated",
+  "arxiv": "1409.0710",
+  "snippet": "NICI CH4 2009 Dec 4 + H/Ks 2011 Nov 7"
+ },
+ "hd-100453_visir2021": {
+  "epoch": "2018",
+  "source": "tex:adjudicated",
+  "arxiv": "2102.12506",
+  "snippet": "VISIR survey epoch (HD 100546 shown Apr 2018)"
+ },
+ "bn-cra_destinys-cra": {
+  "epoch": "2023-04-08",
+  "source": "tex:adjudicated",
+  "arxiv": "2511.01717",
+  "snippet": "BN CrA Qphi epoch (V721 was 2022-07-01)"
+ },
+ "hd-206893_gpi2016": {
+  "epoch": "2016-10-21",
+  "source": "tex:adjudicated",
+  "arxiv": "2010.10546",
+  "snippet": "GPI K1 2016-10-21"
+ },
+ "eta-crv_herschel2014": {
+  "epoch": "2011",
+  "source": "tex:adjudicated",
+  "arxiv": "1402.1184",
+  "snippet": "PACS Jun + Dec 2011"
+ },
+ "iso-oph-96_nirc2-kointreau": {
+  "epoch": "2024 Apr",
+  "source": "tex:adjudicated",
+  "arxiv": "2602.10198",
+  "snippet": "KOINTREAU Apr 2024 observing run"
+ },
+ "doar-28_hiciao2014": {
+  "epoch": "2012-2014",
+  "source": "tex:adjudicated",
+  "arxiv": "1507.03014",
+  "snippet": "two epochs 2012 Jul 9 + 2014 Jun 9"
+ },
+ "cd-35-2722_nici2011": {
+  "epoch": "2009 Jan 16",
+  "source": "tex:adjudicated",
+  "arxiv": "1101.2893",
+  "snippet": "first observed UT 2009 Jan 16"
+ },
+ "pz-tel_nici2010": {
+  "epoch": "2009 Apr",
+  "source": "tex:adjudicated",
+  "arxiv": "1007.4808",
+  "snippet": "discovery detection Apr 2009"
+ },
+ "z-cma_nirc2-2024": {
+  "epoch": "2017",
+  "source": "tex:adjudicated",
+  "arxiv": "2403.12124",
+  "snippet": "four nights incl 2017-10-12/27"
+ },
+ "z-cma_flyby2022": {
+  "epoch": "2016-2017",
+  "source": "tex:adjudicated",
+  "arxiv": "2201.05617",
+  "snippet": "ALMA 2016 Oct 21 (C40-6) + 2017 Sep 7 (C40-8)"
+ },
+ "hip-71618_oasis": {
+  "epoch": "2024-2025",
+  "source": "tex:adjudicated",
+  "arxiv": "2512.02126",
+  "snippet": "Feb 2024 + May 2025 data sets"
+ },
+ "hd-190073_chara-vlti-ibrahim2023": {
+  "epoch": "2019",
+  "source": "tex:adjudicated",
+  "arxiv": "2302.06500",
+  "snippet": "CHARA/VLTI epochs 2019 May-Jun"
+ },
+ "pds-70_magao-wagner2018": {
+  "epoch": "2018 May",
+  "source": "tex:adjudicated",
+  "arxiv": "1807.10766",
+  "snippet": "Halpha detection, two sequential nights May 2018"
+ },
+ "2mass-j16262785-2625152_nirc2-kointreau": {
+  "epoch": "2024 Apr",
+  "source": "tex:adjudicated",
+  "arxiv": "2602.10198",
+  "snippet": "KOINTREAU Apr 2024 observing run"
+ },
+ "kiso-a-0904-60_destinys-orion": {
+  "epoch": "2020-2021",
+  "source": "tex:adjudicated",
+  "arxiv": "2403.02156",
+  "snippet": "DESTINYS Orion sample Jan 2020 - Nov 2021"
+ },
+ "l1527-irs_vla-7mm": {
+  "epoch": "2021 Jan 7",
+  "source": "tex:adjudicated",
+  "arxiv": "2206.13548",
+  "snippet": "VLA four epochs 2021 Jan 7-14"
+ },
+ "hd-50571_vapp2021": {
+  "epoch": "2017 Feb 6",
+  "source": "tex:adjudicated",
+  "arxiv": "2106.14890",
+  "snippet": "nights of 2017 Feb 6-7"
+ },
+ "hr-5999_amber2011": {
+  "epoch": "2008-2010",
+  "source": "tex:adjudicated",
+  "arxiv": "1106.4150",
+  "snippet": "AMBER Feb 2008 - Jun 2010"
+ },
+ "pds-453_sphere2018": {
+  "epoch": "2018-06-22",
+  "source": "tex:adjudicated",
+  "arxiv": "2411.04741",
+  "snippet": "obs table: PI image BB_H 2018/06/22"
+ },
+ "hd-100546_gpi-currie2015": {
+  "epoch": "2015 Jan 18",
+  "source": "tex:adjudicated",
+  "arxiv": "1511.02526",
+  "snippet": "GPI H IFS 2015 Jan 18"
+ },
+ "hd-100546_magao-follette2017": {
+  "epoch": "2016-01-28",
+  "source": "tex:adjudicated",
+  "arxiv": "1704.06260",
+  "snippet": "analyzed dataset collected 2016-01-28"
+ },
+ "hr-3549_naco2015": {
+  "epoch": "2013-2015",
+  "source": "tex:adjudicated",
+  "arxiv": "1509.05689",
+  "snippet": "discovery Jan 2013 + confirmation Jan 2015"
+ },
+ "coconuts-1_discovery2020": {
+  "epoch": "2010-2014",
+  "source": "tex:adjudicated",
+  "arxiv": "2002.05723",
+  "snippet": "PS1 3pi survey stack epochs"
+ },
+ "hd-32297_hiciao-pdi2014": {
+  "epoch": "2014 Oct 10",
+  "source": "tex:adjudicated",
+  "arxiv": "1605.03984",
+  "snippet": "PDI mode obs 2014 Oct 10"
+ },
+ "hip-99770_scexao2023": {
+  "epoch": "2020-2021",
+  "source": "tex:adjudicated",
+  "arxiv": "2212.00034",
+  "snippet": "SCExAO/CHARIS sequences Jul 2020 - Oct 2021"
+ },
+ "hd-45677_pionier2020": {
+  "epoch": "2012-2013",
+  "source": "tex:adjudicated",
+  "arxiv": "2004.01594",
+  "snippet": "PIONIER dataset 2012 Dec 19 - 2013 Jun 6"
+ },
+ "gu-psc_discovery2014": {
+  "epoch": "2011-2012",
+  "source": "tex:adjudicated",
+  "arxiv": "1405.2932",
+  "snippet": "GMOS observed 2011 Oct 21 + 2012 Sep 1"
+ },
+ "hip-39017_charis2024": {
+  "epoch": "2022-2023",
+  "source": "tex:adjudicated",
+  "arxiv": "2403.04000",
+  "snippet": "five nights Feb 2022 - Mar 2023"
+ },
+ "gj-504_lbti2016": {
+  "epoch": "2014 Mar 11",
+  "source": "tex:adjudicated",
+  "arxiv": "1511.09183",
+  "snippet": "LMIRCam L-band 2014 Mar 11-13"
+ },
+ "iras-23077-6707_noema2025": {
+  "epoch": "2023-2024",
+  "source": "tex:adjudicated",
+  "arxiv": "2507.00122",
+  "snippet": "NOEMA 2023 Dec 27 - 2024 Mar 4"
+ },
+ "tmc-1a_vla_kaband": {
+  "epoch": "2021 Oct 23",
+  "source": "tex:adjudicated",
+  "arxiv": "2411.13044",
+  "snippet": "VLA Ka band 2021 Oct 23"
+ },
+ "hr-8799_keck2010": {
+  "epoch": "2009-2010",
+  "source": "tex:adjudicated",
+  "arxiv": "1011.4918",
+  "snippet": "Keck Ks/Lp epochs 2009-2010 (planet e discovery)"
+ },
+ "hr-8799_charis2022": {
+  "epoch": "2018 Sep 1",
+  "source": "tex:adjudicated",
+  "arxiv": "2208.05594",
+  "snippet": "CHARIS 2018 Sep 1-2"
+ },
+ "bd45598_charis2024": {
+  "epoch": "2021 Oct 18",
+  "source": "tex:adjudicated",
+  "arxiv": "2405.04521",
+  "snippet": "Subaru SCExAO 2021 Oct 18"
+ },
+ "hd-145718_pionier2020": {
+  "epoch": "2012-2013",
+  "source": "tex:adjudicated",
+  "arxiv": "2004.01594",
+  "snippet": "PIONIER dataset 2012 Dec 19 - 2013 Jun 6"
+ },
+ "hd-141569_nici2015": {
+  "epoch": "2009-2011",
+  "source": "tex:adjudicated",
+  "arxiv": "1504.05224",
+  "snippet": "NICI 2009-03-07, 2010-04-08, 2011-05-03"
+ },
+ "r-aqr_vampires2024": {
+  "epoch": "2023",
+  "source": "tex:adjudicated",
+  "arxiv": "2410.12199",
+  "snippet": "VAMPIRES commissioning Jun-Aug 2023"
+ },
+ "v1788-ori_destinys-orion": {
+  "epoch": "2020-2021",
+  "source": "tex:adjudicated",
+  "arxiv": "2403.02156",
+  "snippet": "DESTINYS Orion sample Jan 2020 - Nov 2021"
+ },
+ "xest-17-036_nirc2-kointreau": {
+  "epoch": "2023 Dec",
+  "source": "tex:adjudicated",
+  "arxiv": "2512.05191",
+  "snippet": "KOINTREAU Dec 2023 observing run"
+ },
+ "hip-21152_scexao2022": {
+  "epoch": "2020-2021",
+  "source": "tex:adjudicated",
+  "arxiv": "2205.02729",
+  "snippet": "CHARIS Oct/Dec 2020 + Oct 2021"
+ },
+ "hip-21152_nirc2-2022": {
+  "epoch": "2020 Dec 4",
+  "source": "tex:adjudicated",
+  "arxiv": "2211.09840",
+  "snippet": "NIRC2 astrometry row 2020 Dec 04"
+ },
+ "2mass-j0219-3925_simon2015": {
+  "epoch": "2013 Nov 5",
+  "source": "tex:adjudicated",
+  "arxiv": "1505.01747",
+  "snippet": "SIMON J-band discovery 2013 Nov 5"
+ },
+ "cq-tau_dsp-spiral2021": {
+  "epoch": "2015-10-29",
+  "source": "tex:adjudicated",
+  "arxiv": "2111.02726",
+  "snippet": "CQ Tau data at UT 2015-10-29"
+ },
+ "mwc-758_sphere2015": {
+  "epoch": "2014-2015",
+  "source": "tex:adjudicated",
+  "arxiv": "1505.05325",
+  "snippet": "Qphi Dec 2014 + Mar 2015"
+ },
+ "dm-tau_nirc2-sam2016": {
+  "epoch": "2012-2014",
+  "source": "tex:adjudicated",
+  "arxiv": "1608.03629",
+  "snippet": "five nights Jan 2012 - Jun 2014"
+ },
+ "hip-5319_scexao2022": {
+  "epoch": "2020-2022",
+  "source": "tex:adjudicated",
+  "arxiv": "2208.00334",
+  "snippet": "epochs Jul 2020, Sep 2021, Jan 2022"
+ },
+ "2mass-j16120668-3010270_destinys": {
+  "epoch": "2023",
+  "source": "tex:adjudicated",
+  "arxiv": "2506.05892",
+  "snippet": "IRDIS 2023 Apr 12 + Jun 21"
+ },
+ "hd-61005_naco2011": {
+  "epoch": "2010 Feb 17",
+  "source": "tex:adjudicated",
+  "arxiv": "1011.2496",
+  "snippet": "NACO obs 2010 Feb 17"
+ },
+ "hip-64892_sphere2018": {
+  "epoch": "2016-04-01",
+  "source": "tex:adjudicated",
+  "arxiv": "1803.02725",
+  "snippet": "SPHERE obs 2016-04-01"
+ },
+ "twa-7_gpies-debris": {
+  "epoch": "2017-2019",
+  "source": "tex:adjudicated",
+  "arxiv": "2004.13722",
+  "snippet": "GPI epochs 2017 Apr 21 + 2019 Apr 27"
+ },
+ "au-mic_kalas2004": {
+  "epoch": "2003 Oct 14",
+  "source": "tex:adjudicated",
+  "arxiv": "astro-ph/0403132",
+  "snippet": "UH 2.2m R-band 2003 Oct 14-15"
+ },
+ "vega_mips2005": {
+  "epoch": "2004 Apr 11",
+  "source": "tex:adjudicated",
+  "arxiv": "astro-ph/0504086",
+  "snippet": "Spitzer/MIPS imaged Vega 2004 Apr 11"
+ },
+ "pds-144-n_nirc22006": {
+  "epoch": "2004 Aug",
+  "source": "tex:adjudicated",
+  "arxiv": "astro-ph/0603667",
+  "snippet": "Keck NIRC2/LWS run 2004 Aug 28-30"
+ },
+ "pks-1302-102_subaru2006": {
+  "epoch": "2003 Feb 12",
+  "source": "tex:adjudicated",
+  "arxiv": "astro-ph/0605079",
+  "snippet": "obs-log row: Subaru H 2003 Feb 12"
+ },
+ "hr-4796a_keck1998": {
+  "epoch": "1998 Mar 16",
+  "source": "tex:adjudicated",
+  "arxiv": "astro-ph/9806268",
+  "snippet": "Keck II MIRLIN 1998 Mar 16"
+ },
+ "2m1207_naco2004": {
+  "epoch": "2004 Apr 27",
+  "source": "tex:adjudicated",
+  "arxiv": "astro-ph/0409323",
+  "snippet": "NACO 2004 Apr 27 (2M1207b discovery)"
+ },
+ "flying-saucer_isaac2003": {
+  "epoch": "2001 Aug 15",
+  "source": "tex:adjudicated",
+  "arxiv": "astro-ph/0211570",
+  "snippet": "VLT/ISAAC service mode 2001 Aug 15"
+ },
+ "hip-78530_niri2011": {
+  "epoch": "2008 May 24",
+  "source": "tex:adjudicated",
+  "arxiv": "1101.4666",
+  "snippet": "NIRI first epoch 2008 May 24"
+ },
+ "hk-tau-b_keck-lws2003": {
+  "epoch": "2002 Nov 13",
+  "source": "tex:adjudicated",
+  "arxiv": "astro-ph/0304083",
+  "snippet": "Keck obs 2002 Nov 13"
+ },
+ "mwc-480_bima2006": {
+  "epoch": "2003-2004",
+  "source": "tex:adjudicated",
+  "arxiv": "astro-ph/0607232",
+  "snippet": "BIMA 2003 Nov 27 + 2004 Feb 9"
+ },
+ "dr-tau_noema2023": {
+  "epoch": "2021",
+  "source": "tex:adjudicated",
+  "arxiv": "2301.02674",
+  "snippet": "NOEMA C+A configs, A-config 2021 Mar 3"
+ },
+ "fomalhaut_sharcii2005": {
+  "epoch": "2004 Sep 18",
+  "source": "tex:adjudicated",
+  "arxiv": "astro-ph/0501140",
+  "snippet": "CSO/SHARC II 2004 Sep 18"
+ },
+ "gq-lup_naco2005": {
+  "epoch": "2004 Jun",
+  "source": "tex:adjudicated",
+  "arxiv": "astro-ph/0503691",
+  "snippet": "deep NACO image June 2004"
+ },
+ "dh-tau_subaru2005": {
+  "epoch": "2004 Jan 8",
+  "source": "tex:adjudicated",
+  "arxiv": "astro-ph/0411177",
+  "snippet": "K-band epoch (JHK on 2004 Jan 8; H was 2002 Nov 23)"
+ }
+}

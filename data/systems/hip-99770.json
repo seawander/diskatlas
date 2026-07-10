@@ -45,7 +45,8 @@
     "bibcode": "2023Sci...380..198C"
    },
    "image_id": "hip-99770_scexao2023",
-   "file": "images/hip-99770/hip-99770_scexao2023.png"
+   "file": "images/hip-99770/hip-99770_scexao2023.png",
+   "epoch": "2020-2021"
   },
   {
    "image_id": "hip-99770_nircam2026",
@@ -65,7 +66,8 @@
     "arxiv": "2604.09785",
     "bibcode": "2026ApJ..1001L..26B"
    },
-   "file": "images/hip-99770/hip-99770_nircam2026.png"
+   "file": "images/hip-99770/hip-99770_nircam2026.png",
+   "epoch": "2025-09-01"
   }
  ],
  "notes": null,

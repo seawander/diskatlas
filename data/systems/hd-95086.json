@@ -65,7 +65,8 @@
     "bibcode": "2017AJ....154..225S"
    },
    "image_id": "hd-95086_alma2017",
-   "file": "images/hd-95086/hd-95086_alma2017.png"
+   "file": "images/hd-95086/hd-95086_alma2017.png",
+   "epoch": "2015"
   },
   {
    "type": "planet",
@@ -147,7 +148,8 @@
     "journal": "A&A 617, A76",
     "arxiv": "1801.05850",
     "bibcode": "2018A&A...617A..76C"
-   }
+   },
+   "epoch": "2015-2017"
   },
   {
    "image_id": "hd-95086_gpi-hband2014",
@@ -167,7 +169,8 @@
     "journal": "Astronomy & Astrophysics (Letters)",
     "arxiv": "1404.4635",
     "bibcode": "2014A&A...565L...4G"
-   }
+   },
+   "epoch": "2013"
   },
   {
    "image_id": "hd-95086_gpi-k1band2014",
@@ -187,7 +190,8 @@
     "journal": "Astronomy & Astrophysics (Letters)",
     "arxiv": "1404.4635",
     "bibcode": "2014A&A...565L...4G"
-   }
+   },
+   "epoch": "2013"
   },
   {
    "image_id": "hd-95086_miri2024-f1065c",
@@ -207,7 +211,8 @@
     "arxiv": "2408.16843",
     "bibcode": "2024A&A...690A.316M"
    },
-   "file": "images/hd-95086/hd-95086_miri2024-f1065c.png"
+   "file": "images/hd-95086/hd-95086_miri2024-f1065c.png",
+   "epoch": "2023-03-16"
   },
   {
    "image_id": "hd-95086_miri2024-f1140c",
@@ -227,7 +232,8 @@
     "arxiv": "2408.16843",
     "bibcode": "2024A&A...690A.316M"
    },
-   "file": "images/hd-95086/hd-95086_miri2024-f1140c.png"
+   "file": "images/hd-95086/hd-95086_miri2024-f1140c.png",
+   "epoch": "2023-03-16"
   },
   {
    "image_id": "hd-95086_miri2024-f2300c",
@@ -247,7 +253,8 @@
     "arxiv": "2408.16843",
     "bibcode": "2024A&A...690A.316M"
    },
-   "file": "images/hd-95086/hd-95086_miri2024-f2300c.png"
+   "file": "images/hd-95086/hd-95086_miri2024-f2300c.png",
+   "epoch": "2023-03-16"
   },
   {
    "image_id": "hd-95086_herschel-pacs2015",

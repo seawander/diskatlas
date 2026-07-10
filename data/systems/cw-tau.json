@@ -31,7 +31,8 @@
     "journal": "A&A 685, A53",
     "arxiv": "2403.02158",
     "bibcode": "2024A&A...685A..53G"
-   }
+   },
+   "epoch": "2018-12-22"
   },
   {
    "image_id": "cw-tau_alma2022",
@@ -51,7 +52,8 @@
     "journal": "ApJ 930, 56",
     "arxiv": "2203.16236",
     "bibcode": "2022ApJ...930...56U"
-   }
+   },
+   "epoch": "2021"
   }
  ],
  "notes": null,

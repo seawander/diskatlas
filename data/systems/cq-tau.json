@@ -54,7 +54,8 @@
     "journal": "A&A 685, A53",
     "arxiv": "2403.02158",
     "bibcode": "2024A&A...685A..53G"
-   }
+   },
+   "epoch": "2017-10-06"
   },
   {
    "type": "disk_scattered",
@@ -74,7 +75,8 @@
     "journal": "A&A 680, A114",
     "arxiv": "2310.08589",
     "bibcode": "2023A&A...680A.114R"
-   }
+   },
+   "epoch": "2021-01-01"
   },
   {
    "type": "disk_scattered",
@@ -94,7 +96,8 @@
     "journal": "A&A 658, A183",
     "arxiv": "2112.00123",
     "bibcode": "2022A&A...658A.183B"
-   }
+   },
+   "epoch": "2016-2018"
   },
   {
    "image_id": "cq-tau_alice-f110w",
@@ -115,7 +118,8 @@
     "arxiv": "1802.07754",
     "bibcode": "2018AJ....155..179H"
    },
-   "hires_url": "https://archive.stsci.edu/prepds/alice/"
+   "hires_url": "https://archive.stsci.edu/prepds/alice/",
+   "epoch": "2005-01-08"
   },
   {
    "type": "disk_scattered",
@@ -135,7 +139,8 @@
     "journal": "AJ 168, 78",
     "arxiv": "2408.04048",
     "bibcode": "2024AJ....168...78W"
-   }
+   },
+   "epoch": "2018-12-24"
   },
   {
    "image_id": "cq-tau_hiciao2020",
@@ -155,7 +160,8 @@
     "arxiv": "1910.07605",
     "bibcode": "2020AJ....159..118U"
    },
-   "file": "images/cq-tau/cq-tau_hiciao2020.png"
+   "file": "images/cq-tau/cq-tau_hiciao2020.png",
+   "epoch": "2015 Dec 31"
   },
   {
    "image_id": "cq-tau_sma-0.87mm2011",
@@ -175,7 +181,8 @@
     "arxiv": "1009.2697",
     "bibcode": "2011A&A...525A..12B"
    },
-   "file": "images/cq-tau/cq-tau_sma-0.87mm2011.png"
+   "file": "images/cq-tau/cq-tau_sma-0.87mm2011.png",
+   "epoch": "2008 Jan 24"
   },
   {
    "image_id": "cq-tau_pdbi-1.3mm2011",
@@ -195,7 +202,8 @@
     "arxiv": "1009.2697",
     "bibcode": "2011A&A...525A..12B"
    },
-   "file": "images/cq-tau/cq-tau_pdbi-1.3mm2011.png"
+   "file": "images/cq-tau/cq-tau_pdbi-1.3mm2011.png",
+   "epoch": "2006 Jan 15"
   },
   {
    "image_id": "cq-tau_pdbi-2.7mm2011",
@@ -215,7 +223,8 @@
     "arxiv": "1009.2697",
     "bibcode": "2011A&A...525A..12B"
    },
-   "file": "images/cq-tau/cq-tau_pdbi-2.7mm2011.png"
+   "file": "images/cq-tau/cq-tau_pdbi-2.7mm2011.png",
+   "epoch": "2006 Jan 15"
   },
   {
    "image_id": "cq-tau_testi-7mm2011",
@@ -295,7 +304,8 @@
     "arxiv": "2310.08589",
     "bibcode": "2023A&A...680A.114R"
    },
-   "file": "images/cq-tau/cq-tau_sphere-ks-qphi.png"
+   "file": "images/cq-tau/cq-tau_sphere-ks-qphi.png",
+   "epoch": "2021-01-01"
   },
   {
    "image_id": "cq-tau_exoalma-co",
@@ -335,7 +345,8 @@
     "arxiv": "2111.02726",
     "bibcode": "2022AJ....163...31S"
    },
-   "file": "images/cq-tau/cq-tau_dsp-spiral2021.png"
+   "file": "images/cq-tau/cq-tau_dsp-spiral2021.png",
+   "epoch": "2015-10-29"
   },
   {
    "image_id": "cq-tau_stis-grady2005",
@@ -355,7 +366,8 @@
     "arxiv": null,
     "bibcode": "2005ApJ...630..958G"
    },
-   "file": "images/cq-tau/cq-tau_stis-grady2005.png"
+   "file": "images/cq-tau/cq-tau_stis-grady2005.png",
+   "epoch": "1999-10-19"
   }
  ],
  "notes": null,

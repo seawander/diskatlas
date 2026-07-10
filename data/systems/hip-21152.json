@@ -58,7 +58,8 @@
     "arxiv": "2205.02729",
     "bibcode": "2022ApJ...934L..18K"
    },
-   "file": "images/hip-21152/hip-21152_scexao2022.png"
+   "file": "images/hip-21152/hip-21152_scexao2022.png",
+   "epoch": "2020-2021"
   },
   {
    "image_id": "hip-21152_nirc2-2022",
@@ -78,7 +79,8 @@
     "arxiv": "2211.09840",
     "bibcode": "2023AJ....165...39F"
    },
-   "file": "images/hip-21152/hip-21152_nirc2-2022.png"
+   "file": "images/hip-21152/hip-21152_nirc2-2022.png",
+   "epoch": "2020 Dec 4"
   }
  ],
  "notes": "Member of the Hyades open cluster; first substellar companion directly imaged around a Hyades main-sequence star.",

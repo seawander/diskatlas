@@ -55,7 +55,8 @@
     "journal": "AJ 148, 59",
     "arxiv": "1406.7303",
     "bibcode": "2014AJ....148...59S"
-   }
+   },
+   "epoch": "2011 May 6"
   },
   {
    "type": "disk_mm",
@@ -95,7 +96,8 @@
     "journal": "A&A 704, A21",
     "arxiv": "2512.03128",
     "bibcode": "2025A&A...704A..21E"
-   }
+   },
+   "epoch": "2018 Jan 27"
   },
   {
    "image_id": "hd-92945_alma2019",
@@ -137,7 +139,8 @@
     "arxiv": "1802.07754",
     "bibcode": "2018AJ....155..179H"
    },
-   "hires_url": "https://archive.stsci.edu/prepds/alice/"
+   "hires_url": "https://archive.stsci.edu/prepds/alice/",
+   "epoch": "2005-04-17"
   },
   {
    "image_id": "hd-92945_acs-golimowski11",
@@ -157,7 +160,8 @@
     "journal": "AJ 142, 30",
     "arxiv": "1105.0888",
     "bibcode": "2011AJ....142...30G"
-   }
+   },
+   "epoch": "2004-2005"
   },
   {
    "image_id": "hd-92945_jwst-nircam",

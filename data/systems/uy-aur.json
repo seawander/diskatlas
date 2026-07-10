@@ -51,7 +51,8 @@
     "journal": "A&A 685, A53",
     "arxiv": "2403.02158",
     "bibcode": "2024A&A...685A..53G"
-   }
+   },
+   "epoch": "2021-01-21"
   },
   {
    "image_id": "uy-aur_ciao2007",
@@ -71,7 +72,8 @@
     "arxiv": "0705.3940",
     "bibcode": "2007AJ....134..880H"
    },
-   "file": "images/uy-aur/uy-aur_ciao2007.png"
+   "file": "images/uy-aur/uy-aur_ciao2007.png",
+   "epoch": "2002-2005"
   }
  ],
  "notes": "AUTO-CREATED from staging - fill metadata & coords",

@@ -31,7 +31,8 @@
     "journal": "A&A 685, A53",
     "arxiv": "2403.02158",
     "bibcode": "2024A&A...685A..53G"
-   }
+   },
+   "epoch": "2021-12-26"
   },
   {
    "image_id": "cy-tau_alice-f110w",
@@ -52,7 +53,8 @@
     "arxiv": "1802.07754",
     "bibcode": "2018AJ....155..179H"
    },
-   "hires_url": "https://archive.stsci.edu/prepds/alice/"
+   "hires_url": "https://archive.stsci.edu/prepds/alice/",
+   "epoch": "2004-09-23"
   },
   {
    "image_id": "cy-tau_sphere-ks-qphi",
@@ -72,7 +74,8 @@
     "arxiv": "2310.08589",
     "bibcode": "2023A&A...680A.114R"
    },
-   "file": "images/cy-tau/cy-tau_sphere-ks-qphi.png"
+   "file": "images/cy-tau/cy-tau_sphere-ks-qphi.png",
+   "epoch": "2021-12-09"
   },
   {
    "image_id": "cy-tau_carma-1.3mm",
@@ -92,7 +95,8 @@
     "arxiv": "1509.07520",
     "bibcode": "2015ApJ...813...41P"
    },
-   "file": "images/cy-tau/cy-tau_carma-1.3mm.png"
+   "file": "images/cy-tau/cy-tau_carma-1.3mm.png",
+   "epoch": "2009"
   },
   {
    "image_id": "cy-tau_carma-2.8mm",
@@ -112,7 +116,8 @@
     "arxiv": "1509.07520",
     "bibcode": "2015ApJ...813...41P"
    },
-   "file": "images/cy-tau/cy-tau_carma-2.8mm.png"
+   "file": "images/cy-tau/cy-tau_carma-2.8mm.png",
+   "epoch": "2009"
   },
   {
    "image_id": "cy-tau_vla-7.1mm",

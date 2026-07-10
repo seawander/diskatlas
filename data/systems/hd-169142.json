@@ -56,7 +56,8 @@
     "journal": "AJ 164, 109",
     "arxiv": "2206.05815",
     "bibcode": "2022AJ....164..109R"
-   }
+   },
+   "epoch": "2014-04-25"
   },
   {
    "type": "disk_mm",
@@ -97,7 +98,8 @@
     "journal": "A&A 680, A114",
     "arxiv": "2310.08589",
     "bibcode": "2023A&A...680A.114R"
-   }
+   },
+   "epoch": "2021-09-06"
   },
   {
    "type": "disk_scattered",
@@ -117,7 +119,8 @@
     "journal": "A&A 684, A73",
     "arxiv": "2404.02222",
     "bibcode": "2024A&A...684A..73D"
-   }
+   },
+   "epoch": "2007-06-04"
   },
   {
    "image_id": "hd-169142_seeds",
@@ -159,7 +162,8 @@
     "arxiv": "1802.07754",
     "bibcode": "2018AJ....155..179H"
    },
-   "hires_url": "https://archive.stsci.edu/prepds/alice/"
+   "hires_url": "https://archive.stsci.edu/prepds/alice/",
+   "epoch": "2005-04-30"
   },
   {
    "image_id": "hd-169142_sphere-ks-qphi",
@@ -179,7 +183,8 @@
     "arxiv": "2310.08589",
     "bibcode": "2023A&A...680A.114R"
    },
-   "file": "images/hd-169142/hd-169142_sphere-ks-qphi.png"
+   "file": "images/hd-169142/hd-169142_sphere-ks-qphi.png",
+   "epoch": "2021-09-06"
   },
   {
    "image_id": "hd-169142_sphere-rdi-xie22",
@@ -199,7 +204,8 @@
     "arxiv": "2208.07915",
     "bibcode": "2022A&A...666A..32X"
    },
-   "file": "images/hd-169142/hd-169142_sphere-rdi-xie22.png"
+   "file": "images/hd-169142/hd-169142_sphere-rdi-xie22.png",
+   "epoch": "2016-08-26"
   },
   {
    "image_id": "hd-169142_visir2021",
@@ -220,7 +226,8 @@
     "bibcode": "2021A&A...648A..92P"
    },
    "file": "images/hd-169142/hd-169142_visir2021.png",
-   "note": "HD 169142 resolved in both PAH1 and NEAR filters per the paper (most resolved disk in the sample after HD 100546)."
+   "note": "HD 169142 resolved in both PAH1 and NEAR filters per the paper (most resolved disk in the sample after HD 100546).",
+   "epoch": "2018"
   },
   {
    "image_id": "hd-169142_macias2019-band3",
@@ -240,7 +247,8 @@
     "arxiv": "1907.07277",
     "bibcode": "2019ApJ...881..159M"
    },
-   "file": "images/hd-169142/hd-169142_macias2019-band3.png"
+   "file": "images/hd-169142/hd-169142_macias2019-band3.png",
+   "epoch": "2016"
   },
   {
    "image_id": "hd-169142_dikl-klip",
@@ -260,7 +268,8 @@
     "arxiv": "2308.16912",
     "bibcode": "2023A&A...679A..18R"
    },
-   "file": "images/hd-169142/hd-169142_dikl-klip.png"
+   "file": "images/hd-169142/hd-169142_dikl-klip.png",
+   "epoch": "2016-08-26"
   },
   {
    "image_id": "hd-169142_dikl-dikl",
@@ -280,7 +289,8 @@
     "arxiv": "2308.16912",
     "bibcode": "2023A&A...679A..18R"
    },
-   "file": "images/hd-169142/hd-169142_dikl-dikl.png"
+   "file": "images/hd-169142/hd-169142_dikl-dikl.png",
+   "epoch": "2016-08-26"
   },
   {
    "type": "disk_scattered",

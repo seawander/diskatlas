@@ -54,7 +54,8 @@
     "journal": "A&A 680, A114",
     "arxiv": "2310.08589",
     "bibcode": "2023A&A...680A.114R"
-   }
+   },
+   "epoch": "2020-12-20"
   },
   {
    "image_id": "v1247-ori_hiciao2016",
@@ -95,7 +96,8 @@
     "arxiv": "1811.06880",
     "bibcode": "2019A&A...621A...7W"
    },
-   "file": "images/v1247-ori/v1247-ori_sma2019.png"
+   "file": "images/v1247-ori/v1247-ori_sma2019.png",
+   "epoch": "2012"
   },
   {
    "image_id": "v1247-ori_sphere-ks-qphi",
@@ -115,7 +117,8 @@
     "arxiv": "2310.08589",
     "bibcode": "2023A&A...680A.114R"
    },
-   "file": "images/v1247-ori/v1247-ori_sphere-ks-qphi.png"
+   "file": "images/v1247-ori/v1247-ori_sphere-ks-qphi.png",
+   "epoch": "2020-12-20"
   }
  ],
  "notes": null,

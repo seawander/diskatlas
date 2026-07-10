@@ -44,7 +44,8 @@
     "bibcode": "2021ApJ...914...95R"
    },
    "image_id": "twa-7_stis2021",
-   "file": "images/twa-7/twa-7_stis2021.png"
+   "file": "images/twa-7/twa-7_stis2021.png",
+   "epoch": "2019 Feb 3"
   },
   {
    "type": "planet",
@@ -64,7 +65,8 @@
     "bibcode": "2025Natur.642..905L"
    },
    "image_id": "twa-7_jwst2025",
-   "file": "images/twa-7/twa-7_jwst2025.png"
+   "file": "images/twa-7/twa-7_jwst2025.png",
+   "epoch": "2024-06-21"
   },
   {
    "type": "disk_scattered",
@@ -84,7 +86,8 @@
     "journal": "AJ 160, 24",
     "arxiv": "2004.13722",
     "bibcode": "2020AJ....160...24E"
-   }
+   },
+   "epoch": "2017-2019"
   },
   {
    "type": "disk_mm",
@@ -124,7 +127,8 @@
     "journal": "ApJL 817, L2",
     "arxiv": "1512.02220",
     "bibcode": "2016ApJ...817L...2C"
-   }
+   },
+   "epoch": "1998-03-26"
   },
   {
    "type": "disk_scattered",
@@ -144,7 +148,8 @@
     "journal": "A&A 672, A114",
     "arxiv": "2302.04273",
     "bibcode": "2023A&A...672A.114R"
-   }
+   },
+   "epoch": "1998-03-26"
   },
   {
    "type": "disk_scattered",
@@ -185,7 +190,8 @@
     "journal": "ApJ 914, 95",
     "arxiv": "2105.09949",
     "bibcode": "2021ApJ...914...95R"
-   }
+   },
+   "epoch": "2017 Mar 20"
   },
   {
    "type": "disk_scattered",
@@ -205,7 +211,8 @@
     "journal": "A&A 704, A21",
     "arxiv": "2512.03128",
     "bibcode": "2025A&A...704A..21E"
-   }
+   },
+   "epoch": "2016-2022"
   },
   {
    "type": "disk_scattered",
@@ -225,7 +232,8 @@
     "journal": "A&A 672, A114",
     "arxiv": "2302.04273",
     "bibcode": "2023A&A...672A.114R"
-   }
+   },
+   "epoch": "2011-2021"
   },
   {
    "image_id": "twa-7_alice-f165m",
@@ -246,7 +254,8 @@
     "arxiv": "1802.07754",
     "bibcode": "2018AJ....155..179H"
    },
-   "hires_url": "https://archive.stsci.edu/prepds/alice/"
+   "hires_url": "https://archive.stsci.edu/prepds/alice/",
+   "epoch": "1998"
   },
   {
    "image_id": "twa-7_nircam2025",
@@ -266,7 +275,8 @@
     "arxiv": "2506.19932",
     "bibcode": "2025ApJ...987L..41C"
    },
-   "file": "images/twa-7/twa-7_nircam2025.png"
+   "file": "images/twa-7/twa-7_nircam2025.png",
+   "epoch": "2024-06-15"
   },
   {
    "image_id": "twa-7_sphere-hband2018",
@@ -286,7 +296,8 @@
     "arxiv": "1804.01929",
     "bibcode": "2018A&A...617A.109O"
    },
-   "file": "images/twa-7/twa-7_sphere-hband2018.png"
+   "file": "images/twa-7/twa-7_sphere-hband2018.png",
+   "epoch": "2016-04-27"
   },
   {
    "image_id": "twa-7_alma2019",
@@ -306,7 +317,8 @@
     "arxiv": "1806.09252",
     "bibcode": "2019MNRAS.486.5552B"
    },
-   "file": "images/twa-7/twa-7_alma2019.png"
+   "file": "images/twa-7/twa-7_alma2019.png",
+   "epoch": "2016"
   },
   {
    "image_id": "twa-7_sphere-jband2018",
@@ -326,7 +338,8 @@
     "arxiv": "1804.01929",
     "bibcode": "2018A&A...617A.109O"
    },
-   "file": "images/twa-7/twa-7_sphere-jband2018.png"
+   "file": "images/twa-7/twa-7_sphere-jband2018.png",
+   "epoch": "2016-04-27"
   }
  ],
  "notes": null,

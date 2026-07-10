@@ -34,7 +34,8 @@
     "arxiv": "1911.09692",
     "bibcode": "2020A&A...634L..11J"
    },
-   "file": "images/afgl-4176/afgl-4176_alma2020.png"
+   "file": "images/afgl-4176/afgl-4176_alma2020.png",
+   "epoch": "2017"
   }
  ],
  "notes": "AUTO-CREATED from staging - fill metadata & coords Added 2026-07-08 (evolved/massive-YSO resolved disk).",

@@ -35,7 +35,8 @@
     "year": 2024,
     "journal": "PASP 136, 114504",
     "title": "Visible-light High-contrast Imaging and Polarimetry with SCExAO/VAMPIRES"
-   }
+   },
+   "epoch": "2023"
   }
  ],
  "notes": "R Aqr: nearest symbiotic binary (M7III Mira + accreting white dwarf, P_orb~44 yr) with a precessing jet and an extended H-alpha emission nebula. Distance 386 pc adopted from Gaia (plx 2.59 mas), consistent with the 0.13 arcsec = 50 au scale of Lucas et al. 2024. Added 2026-07-09 via Miles Lucas VAMPIRES instrument paper.",

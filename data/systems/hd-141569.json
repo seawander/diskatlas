@@ -34,7 +34,8 @@
     "journal": "AJ 164, 109",
     "arxiv": "2206.05815",
     "bibcode": "2022AJ....164..109R"
-   }
+   },
+   "epoch": "2018-2019"
   },
   {
    "type": "disk_scattered",
@@ -54,7 +55,8 @@
     "bibcode": "2003AJ....126..385C"
    },
    "image_id": "hd-141569_acs2003",
-   "file": "images/hd-141569/hd-141569_acs2003.png"
+   "file": "images/hd-141569/hd-141569_acs2003.png",
+   "epoch": "2002-2003"
   },
   {
    "type": "disk_scattered",
@@ -74,7 +76,8 @@
     "journal": "AJ 160, 24",
     "arxiv": "2004.13722",
     "bibcode": "2020AJ....160...24E"
-   }
+   },
+   "epoch": "2014-03-21"
   },
   {
    "type": "disk_scattered",
@@ -94,7 +97,8 @@
     "journal": "A&A 672, A114",
     "arxiv": "2302.04273",
     "bibcode": "2023A&A...672A.114R"
-   }
+   },
+   "epoch": "1998-09-27"
   },
   {
    "type": "disk_scattered",
@@ -114,7 +118,8 @@
     "journal": "A&A 704, A21",
     "arxiv": "2512.03128",
     "bibcode": "2025A&A...704A..21E"
-   }
+   },
+   "epoch": "2015-07-22"
   },
   {
    "type": "disk_scattered",
@@ -134,7 +139,8 @@
     "journal": "A&A 672, A114",
     "arxiv": "2302.04273",
     "bibcode": "2023A&A...672A.114R"
-   }
+   },
+   "epoch": "2000-2015"
   },
   {
    "type": "disk_scattered",
@@ -154,7 +160,8 @@
     "bibcode": "1999ApJ...525L..53W"
    },
    "image_id": "hd-141569_nicmos1999",
-   "file": "images/hd-141569/hd-141569_nicmos1999.png"
+   "file": "images/hd-141569/hd-141569_nicmos1999.png",
+   "epoch": "1998-08-17"
   },
   {
    "image_id": "hd-141569_alice-f110w",
@@ -175,7 +182,8 @@
     "arxiv": "1802.07754",
     "bibcode": "2018AJ....155..179H"
    },
-   "hires_url": "https://archive.stsci.edu/prepds/alice/"
+   "hires_url": "https://archive.stsci.edu/prepds/alice/",
+   "epoch": "1998-09-27"
   },
   {
    "image_id": "hd-141569_jwst-nircam",
@@ -195,7 +203,8 @@
     "journal": "ApJ 994, 199",
     "arxiv": null,
     "bibcode": "2025ApJ...994..199M"
-   }
+   },
+   "epoch": "2023-02-17"
   },
   {
    "image_id": "hd-141569_sphere-rdi-xie22",
@@ -215,7 +224,8 @@
     "arxiv": "2208.07915",
     "bibcode": "2022A&A...666A..32X"
    },
-   "file": "images/hd-141569/hd-141569_sphere-rdi-xie22.png"
+   "file": "images/hd-141569/hd-141569_sphere-rdi-xie22.png",
+   "epoch": "2015-07-22"
   },
   {
    "image_id": "hd-141569_nirc2matryoshka",
@@ -236,7 +246,8 @@
     "bibcode": "2016ApJ...819L..26C"
    },
    "file": "images/hd-141569/hd-141569_nirc2matryoshka.png",
-   "note": "New facility for this existing system (no prior Keck/NIRC2 or VLT/NaCo record). Paper also includes archival VLT/NaCo L' imaging (Fig. 1 bottom-right) recovering the same inner disk; only the Keck/NIRC2 discovery panel was cropped."
+   "note": "New facility for this existing system (no prior Keck/NIRC2 or VLT/NaCo record). Paper also includes archival VLT/NaCo L' imaging (Fig. 1 bottom-right) recovering the same inner disk; only the Keck/NIRC2 discovery panel was cropped.",
+   "epoch": "2015 Jun 8"
   },
   {
    "image_id": "hd-141569_nici2015",
@@ -256,7 +267,8 @@
     "arxiv": "1504.05224",
     "bibcode": "2015MNRAS.450.4446B"
    },
-   "file": "images/hd-141569/hd-141569_nici2015.png"
+   "file": "images/hd-141569/hd-141569_nici2015.png",
+   "epoch": "2009-2011"
   },
   {
    "type": "disk_mm",

@@ -99,7 +99,8 @@
     "journal": "AJ 168, 236",
     "arxiv": "2410.24042",
     "bibcode": "2024AJ....168..236W"
-   }
+   },
+   "epoch": "2003-2023"
   },
   {
    "image_id": "vega_nircam2024",
@@ -119,7 +120,8 @@
     "arxiv": "2410.16551",
     "bibcode": "2025AJ....169...17B"
    },
-   "file": "images/vega/vega_nircam2024.png"
+   "file": "images/vega/vega_nircam2024.png",
+   "epoch": "2023-08-19"
   },
   {
    "image_id": "vega_herschel2010",
@@ -159,7 +161,8 @@
     "arxiv": "astro-ph/0504086",
     "bibcode": "2005ApJ...628..487S"
    },
-   "file": "images/vega/vega_mips2005.png"
+   "file": "images/vega/vega_mips2005.png",
+   "epoch": "2004 Apr 11"
   }
  ],
  "notes": "JWST/HST images remarkably smooth — no planet sculpting signatures. | coverage: no resolved near-IR scattered-light image as of 2026-07 (swept); optical STIS halo (Wolff+2024) added as pending record",

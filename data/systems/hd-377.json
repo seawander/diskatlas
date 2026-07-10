@@ -43,7 +43,8 @@
     "journal": "ApJL 817, L2",
     "arxiv": "1512.02220",
     "bibcode": "2016ApJ...817L...2C"
-   }
+   },
+   "epoch": "2005-09-16"
   },
   {
    "type": "disk_scattered",
@@ -63,7 +64,8 @@
     "journal": "A&A 672, A114",
     "arxiv": "2302.04273",
     "bibcode": "2023A&A...672A.114R"
-   }
+   },
+   "epoch": "2005-09-16"
   },
   {
    "type": "disk_scattered",
@@ -83,7 +85,8 @@
     "journal": "A&A 704, A21",
     "arxiv": "2512.03128",
     "bibcode": "2025A&A...704A..21E"
-   }
+   },
+   "epoch": "2018-08-06"
   },
   {
    "type": "disk_scattered",
@@ -103,7 +106,8 @@
     "journal": "A&A 672, A114",
     "arxiv": "2302.04273",
     "bibcode": "2023A&A...672A.114R"
-   }
+   },
+   "epoch": "2011-2019"
   },
   {
    "image_id": "hd-377_alice-f110w",
@@ -124,7 +128,8 @@
     "arxiv": "1802.07754",
     "bibcode": "2018AJ....155..179H"
    },
-   "hires_url": "https://archive.stsci.edu/prepds/alice/"
+   "hires_url": "https://archive.stsci.edu/prepds/alice/",
+   "epoch": "2005-09-16"
   },
   {
    "image_id": "hd-377_sma2016",
@@ -144,7 +149,8 @@
     "arxiv": "1510.08890",
     "bibcode": "2016ApJ...816...27S"
    },
-   "file": "images/hd-377/hd-377_sma2016.png"
+   "file": "images/hd-377/hd-377_sma2016.png",
+   "epoch": "2012 Jun 25"
   }
  ],
  "notes": null,

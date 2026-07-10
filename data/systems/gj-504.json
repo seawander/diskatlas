@@ -88,7 +88,8 @@
     "journal": "The Astrophysical Journal",
     "arxiv": "1511.09183",
     "bibcode": "2016ApJ...817..166S"
-   }
+   },
+   "epoch": "2014 Mar 11"
   },
   {
    "image_id": "gj-504_mirico2025",
@@ -108,7 +109,8 @@
     "arxiv": "2501.00104",
     "bibcode": "2025A&A...693A.315M"
    },
-   "file": "images/gj-504/gj-504_mirico2025.png"
+   "file": "images/gj-504/gj-504_mirico2025.png",
+   "epoch": "2023"
   }
  ],
  "notes": null,

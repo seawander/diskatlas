@@ -31,7 +31,8 @@
     "journal": "MNRAS 501, 2934",
     "arxiv": "2012.00189",
     "bibcode": "2021MNRAS.501.2934C"
-   }
+   },
+   "epoch": "2019-07-12"
   },
   {
    "image_id": "sr-24s_sma2005",
@@ -71,7 +72,8 @@
     "arxiv": "1911.10941",
     "bibcode": "2020AJ....159...12M"
    },
-   "file": "images/sr-24s/sr-24s_hiciao2019.png"
+   "file": "images/sr-24s/sr-24s_hiciao2019.png",
+   "epoch": "2011 Aug 2"
   },
   {
    "type": "disk_scattered",
@@ -91,7 +93,8 @@
     "journal": "MNRAS 518, 5620",
     "year": 2023,
     "title": "The SPHERE view of three interacting twin disc systems in polarised light"
-   }
+   },
+   "epoch": "2017-05-19"
   }
  ],
  "notes": "AUTO-CREATED from staging - fill metadata & coords",

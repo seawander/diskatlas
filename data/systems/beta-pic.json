@@ -118,7 +118,8 @@
     "journal": "AJ 160, 24",
     "arxiv": "2004.13722",
     "bibcode": "2020AJ....160...24E"
-   }
+   },
+   "epoch": "2013-12-12"
   },
   {
    "type": "disk_mm",
@@ -221,7 +222,8 @@
     "journal": "AJ 160, 24",
     "arxiv": "2004.13722",
     "bibcode": "2020AJ....160...24E"
-   }
+   },
+   "epoch": "2013-12-12"
   },
   {
    "type": "disk_scattered",
@@ -241,7 +243,8 @@
     "journal": "A&A 672, A114",
     "arxiv": "2302.04273",
     "bibcode": "2023A&A...672A.114R"
-   }
+   },
+   "epoch": "1998-09-21"
   },
   {
    "type": "disk_scattered",
@@ -261,7 +264,8 @@
     "journal": "A&A 704, A21",
     "arxiv": "2512.03128",
     "bibcode": "2025A&A...704A..21E"
-   }
+   },
+   "epoch": "2016-2020"
   },
   {
    "type": "disk_scattered",
@@ -281,7 +285,8 @@
     "journal": "A&A 672, A114",
     "arxiv": "2302.04273",
     "bibcode": "2023A&A...672A.114R"
-   }
+   },
+   "epoch": "1997-2023"
   },
   {
    "type": "disk_scattered",
@@ -301,7 +306,8 @@
     "bibcode": "1984Sci...226.1421S"
    },
    "image_id": "beta-pic_smith1984",
-   "file": "images/beta-pic/beta-pic_smith1984.png"
+   "file": "images/beta-pic/beta-pic_smith1984.png",
+   "epoch": "1984 Apr"
   },
   {
    "type": "disk_scattered",
@@ -383,7 +389,8 @@
     "arxiv": "1802.07754",
     "bibcode": "2018AJ....155..179H"
    },
-   "hires_url": "https://archive.stsci.edu/prepds/alice/"
+   "hires_url": "https://archive.stsci.edu/prepds/alice/",
+   "epoch": "1998"
   },
   {
    "image_id": "beta-pic_jwst-nircam-f182m",
@@ -550,7 +557,8 @@
     "arxiv": "astro-ph/0602292",
     "bibcode": "2006AJ....131.3109G"
    },
-   "file": "images/beta-pic/beta-pic_acs2006_b.png"
+   "file": "images/beta-pic/beta-pic_acs2006_b.png",
+   "epoch": "2003-2004"
   },
   {
    "image_id": "beta-pic_acs2006_v",
@@ -570,7 +578,8 @@
     "arxiv": "astro-ph/0602292",
     "bibcode": "2006AJ....131.3109G"
    },
-   "file": "images/beta-pic/beta-pic_acs2006_v.png"
+   "file": "images/beta-pic/beta-pic_acs2006_v.png",
+   "epoch": "2003-2004"
   },
   {
    "image_id": "beta-pic_acs2006_i",
@@ -590,7 +599,8 @@
     "arxiv": "astro-ph/0602292",
     "bibcode": "2006AJ....131.3109G"
    },
-   "file": "images/beta-pic/beta-pic_acs2006_i.png"
+   "file": "images/beta-pic/beta-pic_acs2006_i.png",
+   "epoch": "2003-2004"
   },
   {
    "type": "planet",
@@ -715,7 +725,8 @@
     "arxiv": "2606.23789",
     "bibcode": "2026arXiv260623789G"
    },
-   "file": "images/beta-pic/beta-pic_planetd-jwst2026.png"
+   "file": "images/beta-pic/beta-pic_planetd-jwst2026.png",
+   "epoch": "2022-2024"
   },
   {
    "image_id": "beta-pic_magao-clio2015",
@@ -735,7 +746,8 @@
     "arxiv": "1511.02894",
     "bibcode": "2015ApJ...815..108M"
    },
-   "file": "images/beta-pic/beta-pic_magao-clio2015.png"
+   "file": "images/beta-pic/beta-pic_magao-clio2015.png",
+   "epoch": "2012"
   }
  ],
  "notes": "Original 1984 discovery image (Smith & Terrile, Las Campanas coronagraph) predates arXiv; add if desired.",

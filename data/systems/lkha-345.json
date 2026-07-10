@@ -43,7 +43,8 @@
     "journal": "A&A, in press",
     "arxiv": "2603.01703",
     "bibcode": "2026A&A...709A.269G"
-   }
+   },
+   "epoch": "2022-06-29"
   }
  ],
  "notes": "SPHERE/IRDIS H-band polarimetric image (program 0111.C-0369, PI Vioque). Faint polarimetric signal detected only out to 0.2 arcsec, slightly more extended to SW than NE, suggesting a disk P.A. of ~160 deg with the near side to NE (Garufi et al. 2026).",

@@ -65,7 +65,8 @@
     "journal": "A&A 685, A52",
     "arxiv": "2403.02149",
     "bibcode": "2024A&A...685A..52G"
-   }
+   },
+   "epoch": "2017-05-16"
   },
   {
    "image_id": "ct-cha_mrs2025",
@@ -85,7 +86,8 @@
     "arxiv": "2509.15209",
     "bibcode": "2025ApJ...991L..46C"
    },
-   "file": "images/ct-cha/ct-cha_mrs2025.png"
+   "file": "images/ct-cha/ct-cha_mrs2025.png",
+   "epoch": "2023-02-28"
   }
  ],
  "notes": null,

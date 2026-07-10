@@ -53,7 +53,8 @@
     "journal": "ApJ 863, 44",
     "arxiv": "1803.10882",
     "bibcode": "2018ApJ...863...44A"
-   }
+   },
+   "epoch": "2016-03-13"
   },
   {
    "image_id": "v4046-sgr_gpi2015",
@@ -133,7 +134,8 @@
     "arxiv": "2208.07915",
     "bibcode": "2022A&A...666A..32X"
    },
-   "file": "images/v4046-sgr/v4046-sgr_sphere-rdi-xie22.png"
+   "file": "images/v4046-sgr/v4046-sgr_sphere-rdi-xie22.png",
+   "epoch": "2016-2022"
   },
   {
    "image_id": "v4046-sgr_exoalma-co",

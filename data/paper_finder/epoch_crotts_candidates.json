@@ -1,0 +1,156 @@
+{
+ "hd-191089_gpi-crotts24": {
+  "epoch": "2015-2018",
+  "tier": "crotts-log",
+  "snippet": "21 GPI epochs",
+  "file": "data/systems/hd-191089.json",
+  "idx": 6,
+  "arxiv": "2311.14599",
+  "system": "hd-191089",
+  "instrument": "IFS pol",
+  "src": "tex"
+ },
+ "hd-111520_gpi-crotts24": {
+  "epoch": "2015-2018",
+  "tier": "crotts-log",
+  "snippet": "21 GPI epochs",
+  "file": "data/systems/hd-111520.json",
+  "idx": 3,
+  "arxiv": "2311.14599",
+  "system": "hd-111520",
+  "instrument": "IFS pol",
+  "src": "tex"
+ },
+ "hd-35841_gpi-crotts24": {
+  "epoch": "2015-2018",
+  "tier": "crotts-log",
+  "snippet": "21 GPI epochs",
+  "file": "data/systems/hd-35841.json",
+  "idx": 6,
+  "arxiv": "2311.14599",
+  "system": "hd-35841",
+  "instrument": "IFS pol",
+  "src": "tex"
+ },
+ "hd-146897_gpi-crotts24": {
+  "epoch": "2015-2018",
+  "tier": "crotts-log",
+  "snippet": "21 GPI epochs",
+  "file": "data/systems/hd-146897.json",
+  "idx": 3,
+  "arxiv": "2311.14599",
+  "system": "hd-146897",
+  "instrument": "IFS pol",
+  "src": "tex"
+ },
+ "hd-114082_gpi-crotts24": {
+  "epoch": "2015-2018",
+  "tier": "crotts-log",
+  "snippet": "21 GPI epochs",
+  "file": "data/systems/hd-114082.json",
+  "idx": 3,
+  "arxiv": "2311.14599",
+  "system": "hd-114082",
+  "instrument": "IFS pol",
+  "src": "tex"
+ },
+ "hd-157587_gpi-crotts24": {
+  "epoch": "2015-2018",
+  "tier": "crotts-log",
+  "snippet": "21 GPI epochs",
+  "file": "data/systems/hd-157587.json",
+  "idx": 2,
+  "arxiv": "2311.14599",
+  "system": "hd-157587",
+  "instrument": "IFS pol",
+  "src": "tex"
+ },
+ "hd-32297_gpi-crotts24-j": {
+  "epoch": "2014-12-18",
+  "tier": "crotts-log",
+  "snippet": "1 GPI epochs",
+  "file": "data/systems/hd-32297.json",
+  "idx": 10,
+  "arxiv": "2311.14599",
+  "system": "hd-32297",
+  "instrument": "IFS pol",
+  "src": "tex"
+ },
+ "hd-32297_gpi-crotts24-h": {
+  "epoch": "2014-12-18",
+  "tier": "crotts-log",
+  "snippet": "1 GPI epochs",
+  "file": "data/systems/hd-32297.json",
+  "idx": 11,
+  "arxiv": "2311.14599",
+  "system": "hd-32297",
+  "instrument": "IFS pol",
+  "src": "tex"
+ },
+ "hd-32297_gpi-crotts24-k1": {
+  "epoch": "2014-12-18",
+  "tier": "crotts-log",
+  "snippet": "1 GPI epochs",
+  "file": "data/systems/hd-32297.json",
+  "idx": 12,
+  "arxiv": "2311.14599",
+  "system": "hd-32297",
+  "instrument": "IFS pol",
+  "src": "tex"
+ },
+ "hd-115600_gpi-crotts24": {
+  "epoch": "2015-2018",
+  "tier": "crotts-log",
+  "snippet": "21 GPI epochs",
+  "file": "data/systems/hd-115600.json",
+  "idx": 3,
+  "arxiv": "2311.14599",
+  "system": "hd-115600",
+  "instrument": "IFS pol",
+  "src": "tex"
+ },
+ "hd-110058_gpi-crotts24": {
+  "epoch": "2015-2018",
+  "tier": "crotts-log",
+  "snippet": "21 GPI epochs",
+  "file": "data/systems/hd-110058.json",
+  "idx": 6,
+  "arxiv": "2311.14599",
+  "system": "hd-110058",
+  "instrument": "IFS pol",
+  "src": "tex"
+ },
+ "hd-106906_gpi-crotts24": {
+  "epoch": "2015-2018",
+  "tier": "crotts-log",
+  "snippet": "21 GPI epochs",
+  "file": "data/systems/hd-106906.json",
+  "idx": 5,
+  "arxiv": "2311.14599",
+  "system": "hd-106906",
+  "instrument": "IFS pol",
+  "src": "tex"
+ },
+ "hd-129590_gpi-crotts24": {
+  "epoch": "2015-2018",
+  "tier": "crotts-log",
+  "snippet": "21 GPI epochs",
+  "file": "data/systems/hd-129590.json",
+  "idx": 4,
+  "arxiv": "2311.14599",
+  "system": "hd-129590",
+  "instrument": "IFS pol",
+  "src": "tex"
+ },
+ "hd-61005_gpi-crotts24": {
+  "epoch": "2015-2018",
+  "tier": "crotts-log",
+  "snippet": "21 GPI epochs",
+  "file": "data/systems/hd-61005.json",
+  "idx": 10,
+  "arxiv": "2311.14599",
+  "system": "hd-61005",
+  "instrument": "IFS pol",
+  "src": "tex"
+ }
+}

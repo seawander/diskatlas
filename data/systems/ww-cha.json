@@ -31,7 +31,8 @@
     "journal": "A&A 685, A52",
     "arxiv": "2403.02149",
     "bibcode": "2024A&A...685A..52G"
-   }
+   },
+   "epoch": "2017-03-12"
   },
   {
    "image_id": "ww-cha_gravity2021",
@@ -51,7 +52,8 @@
     "arxiv": "2102.00122",
     "bibcode": "2021A&A...648A..37G"
    },
-   "file": "images/ww-cha/ww-cha_gravity2021.png"
+   "file": "images/ww-cha/ww-cha_gravity2021.png",
+   "epoch": "2020"
   },
   {
    "image_id": "ww-cha_alma2021",

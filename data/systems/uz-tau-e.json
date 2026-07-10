@@ -31,7 +31,8 @@
     "journal": "ApJ 869, 17",
     "arxiv": "1810.06044",
     "bibcode": "2018ApJ...869...17L"
-   }
+   },
+   "epoch": "2017 Aug 31"
   },
   {
    "type": "disk_scattered",
@@ -51,7 +52,8 @@
     "journal": "A&A 685, A53",
     "arxiv": "2403.02158",
     "bibcode": "2024A&A...685A..53G"
-   }
+   },
+   "epoch": "2017-10-27"
   },
   {
    "image_id": "uz-tau-e_alice-f110w",
@@ -72,7 +74,8 @@
     "arxiv": "1802.07754",
     "bibcode": "2018AJ....155..179H"
    },
-   "hires_url": "https://archive.stsci.edu/prepds/alice/"
+   "hires_url": "https://archive.stsci.edu/prepds/alice/",
+   "epoch": "2004-11-25"
   },
   {
    "image_id": "uz-tau-e_alma2018",
@@ -112,7 +115,8 @@
     "arxiv": "2403.12124",
     "bibcode": "2024A&A...686A.309Z"
    },
-   "file": "images/uz-tau-e/uz-tau-e_zurlo2024.png"
+   "file": "images/uz-tau-e/uz-tau-e_zurlo2024.png",
+   "epoch": "2017-10-28"
   }
  ],
  "notes": null,

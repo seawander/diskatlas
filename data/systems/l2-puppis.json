@@ -50,7 +50,8 @@
     "arxiv": "1611.06231",
     "bibcode": "2016A&A...596A..92K"
    },
-   "file": "images/l2-puppis/l2-puppis_alma2016.png"
+   "file": "images/l2-puppis/l2-puppis_alma2016.png",
+   "epoch": "2015 Nov 5"
   },
   {
    "image_id": "l2-puppis_zimpol-v",
@@ -70,7 +71,8 @@
     "arxiv": "1511.04448",
     "bibcode": "2015A&A...578A..77K"
    },
-   "file": "images/l2-puppis/l2-puppis_zimpol-v.png"
+   "file": "images/l2-puppis/l2-puppis_zimpol-v.png",
+   "epoch": "2014 Dec 7"
   },
   {
    "image_id": "l2-puppis_zimpol-nr",
@@ -90,7 +92,8 @@
     "arxiv": "1511.04448",
     "bibcode": "2015A&A...578A..77K"
    },
-   "file": "images/l2-puppis/l2-puppis_zimpol-nr.png"
+   "file": "images/l2-puppis/l2-puppis_zimpol-nr.png",
+   "epoch": "2014 Dec 7"
   }
  ],
  "notes": "AUTO-CREATED from staging - fill metadata & coords Added 2026-07-08 (discovery queue).",

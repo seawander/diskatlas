@@ -89,7 +89,8 @@
     "bibcode": "2015A&A...578L...6B"
    },
    "image_id": "mwc-758_sphere2015",
-   "file": "images/mwc-758/mwc-758_sphere2015.png"
+   "file": "images/mwc-758/mwc-758_sphere2015.png",
+   "epoch": "2014-2015"
   },
   {
    "type": "disk_scattered",
@@ -109,7 +110,8 @@
     "journal": "A&A 685, A53",
     "arxiv": "2403.02158",
     "bibcode": "2024A&A...685A..53G"
-   }
+   },
+   "epoch": "2020-12-25"
   },
   {
    "type": "disk_scattered",
@@ -129,7 +131,8 @@
     "journal": "A&A 680, A114",
     "arxiv": "2310.08589",
     "bibcode": "2023A&A...680A.114R"
-   }
+   },
+   "epoch": "2020-12-19"
   },
   {
    "image_id": "mwc-758_seeds",
@@ -171,7 +174,8 @@
     "arxiv": "1802.07754",
     "bibcode": "2018AJ....155..179H"
    },
-   "hires_url": "https://archive.stsci.edu/prepds/alice/"
+   "hires_url": "https://archive.stsci.edu/prepds/alice/",
+   "epoch": "2005-01-07"
   },
   {
    "type": "disk_scattered",
@@ -191,7 +195,8 @@
     "journal": "AJ 168, 78",
     "arxiv": "2408.04048",
     "bibcode": "2024AJ....168...78W"
-   }
+   },
+   "epoch": "2015-10-24"
   },
   {
    "image_id": "mwc-758_jwst2024",
@@ -274,7 +279,8 @@
     "journal": "Nature Astronomy",
     "arxiv": "2307.04021",
     "bibcode": "2023NatAs...7.1208W"
-   }
+   },
+   "epoch": "2019"
   },
   {
    "image_id": "mwc-758_sphere-ks-qphi",
@@ -294,7 +300,8 @@
     "arxiv": "2310.08589",
     "bibcode": "2023A&A...680A.114R"
    },
-   "file": "images/mwc-758/mwc-758_sphere-ks-qphi.png"
+   "file": "images/mwc-758/mwc-758_sphere-ks-qphi.png",
+   "epoch": "2020-12-19"
   },
   {
    "image_id": "mwc-758_sphere-rdi-xie22",
@@ -314,7 +321,8 @@
     "arxiv": "2208.07915",
     "bibcode": "2022A&A...666A..32X"
    },
-   "file": "images/mwc-758/mwc-758_sphere-rdi-xie22.png"
+   "file": "images/mwc-758/mwc-758_sphere-rdi-xie22.png",
+   "epoch": "2016"
   },
   {
    "image_id": "mwc-758_exoalma-co",
@@ -354,7 +362,8 @@
     "arxiv": "1803.06776",
     "bibcode": "2018ApJ...857L...9R"
    },
-   "file": "images/mwc-758/mwc-758_nicmos-ren18.png"
+   "file": "images/mwc-758/mwc-758_nicmos-ren18.png",
+   "epoch": "2005-01-07"
   },
   {
    "image_id": "mwc-758_ren2020",

@@ -38,7 +38,8 @@
     "journal": "A&A, in press",
     "arxiv": "2603.01703",
     "bibcode": "2026A&A...709A.269G"
-   }
+   },
+   "epoch": "2022-05-14"
   }
  ],
  "notes": "SPHERE/IRDIS H-band polarimetric image (DESTINYS survey). Only a marginal polarimetric detection at P.A. of 45 deg (classified as a 'faint disk' in the paper's Table A.4, not 'ambient'); a bright companion is visible at 1.54 arcsec outside the field of view shown (Garufi et al. 2026).",

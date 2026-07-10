@@ -31,7 +31,8 @@
     "journal": "ApJL 869, L41",
     "arxiv": "1812.04040",
     "bibcode": "2018ApJ...869L..41A"
-   }
+   },
+   "epoch": "2015-2017"
   },
   {
    "image_id": "elias-24_eris2025",
@@ -51,7 +52,8 @@
     "arxiv": "2504.19810",
     "bibcode": "2025A&A...698A..52M"
    },
-   "file": "images/elias-24/elias-24_eris2025.png"
+   "file": "images/elias-24/elias-24_eris2025.png",
+   "epoch": "2023 May 28"
   }
  ],
  "notes": null,

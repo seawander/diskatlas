@@ -34,7 +34,8 @@
     "journal": "AJ 164, 109",
     "arxiv": "2206.05815",
     "bibcode": "2022AJ....164..109R"
-   }
+   },
+   "epoch": "2018-01-04"
   },
   {
    "image_id": "gw-ori_alma2020",
@@ -75,7 +76,8 @@
     "arxiv": "2004.01204",
     "bibcode": "2020Sci...369.1233K"
    },
-   "file": "images/gw-ori/gw-ori_sphere2020.png"
+   "file": "images/gw-ori/gw-ori_sphere2020.png",
+   "epoch": "2016-2019"
   }
  ],
  "notes": null,

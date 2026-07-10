@@ -1,17 +1,19 @@
 {
  "id": "ry-lup",
  "name": "RY Lup",
- "alt_names": ["HIP 78317"],
+ "alt_names": [
+  "HIP 78317"
+ ],
  "simbad": "RY Lup",
  "ra_deg": 239.8682769627899,
- "dec_deg": -40.3642359711600,
+ "dec_deg": -40.36423597116,
  "dist_pc": 151.0,
  "plx_mas": 6.5153,
  "mags": {
-  "V": 9.90,
+  "V": 9.9,
   "G": 10.993309,
   "J": 8.546,
-  "H": 7.690,
+  "H": 7.69,
   "K": 6.976
  },
  "sptype": "G8/K1IV-V",
@@ -39,7 +41,8 @@
     "arxiv": "1802.03995",
     "bibcode": "2018A&A...614A..88L"
    },
-   "file": "images/ry-lup/ry-lup_sphere2018.png"
+   "file": "images/ry-lup/ry-lup_sphere2018.png",
+   "epoch": "2016 May 27"
   }
  ],
  "notes": "First scattered-light detection of the RY Lup transition disk (VLT/SPHERE IRDIS+IFS). The disk appears as a dominating double-arch structure extending to 0.53 arcsec (80 au) in radius, seen at high inclination (PA ~107 deg), with faint spiral-like features in the SE possibly due to planet-disk interaction (Langlois et al. 2018).",

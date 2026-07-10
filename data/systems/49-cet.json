@@ -75,7 +75,8 @@
     "journal": "A&A 672, A114",
     "arxiv": "2302.04273",
     "bibcode": "2023A&A...672A.114R"
-   }
+   },
+   "epoch": "1998-2004"
   },
   {
    "type": "disk_scattered",
@@ -95,7 +96,8 @@
     "journal": "A&A 704, A21",
     "arxiv": "2512.03128",
     "bibcode": "2025A&A...704A..21E"
-   }
+   },
+   "epoch": "2015-2018"
   },
   {
    "type": "disk_scattered",
@@ -115,7 +117,8 @@
     "journal": "A&A 672, A114",
     "arxiv": "2302.04273",
     "bibcode": "2023A&A...672A.114R"
-   }
+   },
+   "epoch": "2010-2018"
   },
   {
    "image_id": "49-cet_alma2017",
@@ -157,7 +160,8 @@
     "arxiv": "1802.07754",
     "bibcode": "2018AJ....155..179H"
    },
-   "hires_url": "https://archive.stsci.edu/prepds/alice/"
+   "hires_url": "https://archive.stsci.edu/prepds/alice/",
+   "epoch": "1998-2004"
   },
   {
    "image_id": "49-cet_nicmos-choquet2017",
@@ -177,7 +181,8 @@
     "arxiv": "1612.07320",
     "bibcode": "2017ApJ...834L..12C"
    },
-   "file": "images/49-cet/49-cet_nicmos-choquet2017.png"
+   "file": "images/49-cet/49-cet_nicmos-choquet2017.png",
+   "epoch": "1998-2004"
   },
   {
    "image_id": "49-cet_sphere-choquet2017",
@@ -197,7 +202,8 @@
     "arxiv": "1612.07320",
     "bibcode": "2017ApJ...834L..12C"
    },
-   "file": "images/49-cet/49-cet_sphere-choquet2017.png"
+   "file": "images/49-cet/49-cet_sphere-choquet2017.png",
+   "epoch": "2015"
   },
   {
    "image_id": "49-cet_alma-co2019",
@@ -217,7 +223,8 @@
     "arxiv": "1908.09685",
     "bibcode": "2019ApJ...884..108M"
    },
-   "file": "images/49-cet/49-cet_alma-co2019.png"
+   "file": "images/49-cet/49-cet_alma-co2019.png",
+   "epoch": "2017"
   }
  ],
  "notes": null,

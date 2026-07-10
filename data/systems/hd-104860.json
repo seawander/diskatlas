@@ -53,7 +53,8 @@
     "journal": "A&A 672, A114",
     "arxiv": "2302.04273",
     "bibcode": "2023A&A...672A.114R"
-   }
+   },
+   "epoch": "2006-03-20"
   },
   {
    "type": "disk_scattered",
@@ -73,7 +74,8 @@
     "journal": "A&A 672, A114",
     "arxiv": "2302.04273",
     "bibcode": "2023A&A...672A.114R"
-   }
+   },
+   "epoch": "2019-04-19"
   },
   {
    "image_id": "hd-104860_nicmos-choquet18",
@@ -93,7 +95,8 @@
     "journal": "ApJ 854, 53",
     "arxiv": "1801.05424",
     "bibcode": "2018ApJ...854...53C"
-   }
+   },
+   "epoch": "2006-03-20"
   },
   {
    "image_id": "hd-104860_carma2015",
@@ -113,7 +116,8 @@
     "arxiv": "1510.08890",
     "bibcode": "2016ApJ...816...27S"
    },
-   "file": "images/hd-104860/hd-104860_carma2015.png"
+   "file": "images/hd-104860/hd-104860_carma2015.png",
+   "epoch": "2012 Jan 12"
   },
   {
    "image_id": "hd-104860_herschel-pacs",

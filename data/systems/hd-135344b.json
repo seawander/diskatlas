@@ -75,7 +75,8 @@
     "journal": "A&A 680, A114",
     "arxiv": "2310.08589",
     "bibcode": "2023A&A...680A.114R"
-   }
+   },
+   "epoch": "2021-06-04"
   },
   {
    "type": "disk_scattered",
@@ -95,7 +96,8 @@
     "journal": "A&A 684, A73",
     "arxiv": "2404.02222",
     "bibcode": "2024A&A...684A..73D"
-   }
+   },
+   "epoch": "2012-07-24"
   },
   {
    "image_id": "hd-135344b_stolker2016-r",
@@ -115,7 +117,8 @@
     "arxiv": "1603.00481",
     "bibcode": "2016A&A...595A.113S"
    },
-   "file": "images/hd-135344b/hd-135344b_stolker2016-r.png"
+   "file": "images/hd-135344b/hd-135344b_stolker2016-r.png",
+   "epoch": "2015 Mar 31"
   },
   {
    "image_id": "hd-135344b_stolker2016-i",
@@ -135,7 +138,8 @@
     "arxiv": "1603.00481",
     "bibcode": "2016A&A...595A.113S"
    },
-   "file": "images/hd-135344b/hd-135344b_stolker2016-i.png"
+   "file": "images/hd-135344b/hd-135344b_stolker2016-i.png",
+   "epoch": "2015 Mar 31"
   },
   {
    "image_id": "hd-135344b_stolker2016-y",
@@ -155,7 +159,8 @@
     "arxiv": "1603.00481",
     "bibcode": "2016A&A...595A.113S"
    },
-   "file": "images/hd-135344b/hd-135344b_stolker2016-y.png"
+   "file": "images/hd-135344b/hd-135344b_stolker2016-y.png",
+   "epoch": "2016"
   },
   {
    "image_id": "hd-135344b_stolker2016-j",
@@ -175,7 +180,8 @@
     "arxiv": "1603.00481",
     "bibcode": "2016A&A...595A.113S"
    },
-   "file": "images/hd-135344b/hd-135344b_stolker2016-j.png"
+   "file": "images/hd-135344b/hd-135344b_stolker2016-j.png",
+   "epoch": "2016"
   },
   {
    "image_id": "hd-135344b_alice-f110w",
@@ -196,7 +202,8 @@
     "arxiv": "1802.07754",
     "bibcode": "2018AJ....155..179H"
    },
-   "hires_url": "https://archive.stsci.edu/prepds/alice/"
+   "hires_url": "https://archive.stsci.edu/prepds/alice/",
+   "epoch": "2005-03-24"
   },
   {
    "image_id": "hd-135344b_nircam2026",
@@ -216,7 +223,8 @@
     "arxiv": "2606.10624",
     "bibcode": "2026arXiv260610624L"
    },
-   "file": "images/hd-135344b/hd-135344b_nircam2026.png"
+   "file": "images/hd-135344b/hd-135344b_nircam2026.png",
+   "epoch": "2023-02-16"
   },
   {
    "image_id": "hd-135344b_sphere-ks-qphi",
@@ -236,7 +244,8 @@
     "arxiv": "2310.08589",
     "bibcode": "2023A&A...680A.114R"
    },
-   "file": "images/hd-135344b/hd-135344b_sphere-ks-qphi.png"
+   "file": "images/hd-135344b/hd-135344b_sphere-ks-qphi.png",
+   "epoch": "2021-06-04"
   },
   {
    "image_id": "hd-135344b_exoalma-co",
@@ -276,7 +285,8 @@
     "arxiv": null,
     "bibcode": "2005ApJ...630..958G"
    },
-   "file": "images/hd-135344b/hd-135344b_stis-grady2005.png"
+   "file": "images/hd-135344b/hd-135344b_stis-grady2005.png",
+   "epoch": "2001-04-08"
   }
  ],
  "notes": null,

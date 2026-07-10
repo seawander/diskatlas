@@ -44,7 +44,8 @@
     "journal": "A&A, in press",
     "arxiv": "2603.01703",
     "bibcode": "2026A&A...709A.269G"
-   }
+   },
+   "epoch": "2018-06-22"
   }
  ],
  "notes": "First-published SPHERE/IRDIS H-band polarimetric image (SPHERE GTO). Polarized signal detected to the SW of the star only; given the large distance (>2 kpc) this traces separations of several hundred au, consistent with a large disk given the high observed millimeter flux (88 mJy) (Garufi et al. 2026).",

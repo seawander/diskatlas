@@ -35,7 +35,8 @@
     "journal": "A&A 680, A114",
     "arxiv": "2310.08589",
     "bibcode": "2023A&A...680A.114R"
-   }
+   },
+   "epoch": "2022-02-07"
   },
   {
    "type": "disk_scattered",
@@ -55,7 +56,8 @@
     "journal": "A&A 685, A54",
     "arxiv": "2403.02156",
     "bibcode": "2024A&A...685A..54V"
-   }
+   },
+   "epoch": "2021-01-21"
   },
   {
    "image_id": "pds-201_lbti-ks",
@@ -135,7 +137,8 @@
     "arxiv": "2310.08589",
     "bibcode": "2023A&A...680A.114R"
    },
-   "file": "images/pds-201/pds-201_sphere-ks-qphi.png"
+   "file": "images/pds-201/pds-201_sphere-ks-qphi.png",
+   "epoch": "2022-02-07"
   },
   {
    "image_id": "pds-201_dikl-klip",
@@ -155,7 +158,8 @@
     "arxiv": "2308.16912",
     "bibcode": "2023A&A...679A..18R"
    },
-   "file": "images/pds-201/pds-201_dikl-klip.png"
+   "file": "images/pds-201/pds-201_dikl-klip.png",
+   "epoch": "2021-01-21"
   },
   {
    "image_id": "pds-201_dikl-dikl",
@@ -175,7 +179,8 @@
     "arxiv": "2308.16912",
     "bibcode": "2023A&A...679A..18R"
    },
-   "file": "images/pds-201/pds-201_dikl-dikl.png"
+   "file": "images/pds-201/pds-201_dikl-dikl.png",
+   "epoch": "2021-01-21"
   }
  ],
  "notes": null,

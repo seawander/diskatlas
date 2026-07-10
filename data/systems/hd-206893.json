@@ -120,7 +120,8 @@
     "arxiv": "1612.00333",
     "bibcode": "2017A&A...597L...2M"
    },
-   "file": "images/hd-206893/hd-206893_sphere2017.png"
+   "file": "images/hd-206893/hd-206893_sphere2017.png",
+   "epoch": "2015"
   },
   {
    "image_id": "hd-206893_gpi2016",
@@ -140,7 +141,8 @@
     "arxiv": "2010.10546",
     "bibcode": "2021AJ....161....5W"
    },
-   "file": "images/hd-206893/hd-206893_gpi2016.png"
+   "file": "images/hd-206893/hd-206893_gpi2016.png",
+   "epoch": "2016-10-21"
   }
  ],
  "notes": null,

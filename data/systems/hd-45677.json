@@ -33,7 +33,8 @@
     "journal": "AJ 164, 109",
     "arxiv": "2206.05815",
     "bibcode": "2022AJ....164..109R"
-   }
+   },
+   "epoch": "2017-12-31"
   },
   {
    "image_id": "hd-45677_matisse2021",
@@ -73,7 +74,8 @@
     "arxiv": "2004.01594",
     "bibcode": "2020A&A...636A.116K"
    },
-   "file": "images/hd-45677/hd-45677_pionier2020.png"
+   "file": "images/hd-45677/hd-45677_pionier2020.png",
+   "epoch": "2012-2013"
   }
  ],
  "notes": null,

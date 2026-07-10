@@ -51,7 +51,8 @@
     "journal": "A&A 685, A53",
     "arxiv": "2403.02158",
     "bibcode": "2024A&A...685A..53G"
-   }
+   },
+   "epoch": "2018-10-01"
   },
   {
    "image_id": "dm-tau_alice-f160w",
@@ -72,7 +73,8 @@
     "arxiv": "1802.07754",
     "bibcode": "2018AJ....155..179H"
    },
-   "hires_url": "https://archive.stsci.edu/prepds/alice/"
+   "hires_url": "https://archive.stsci.edu/prepds/alice/",
+   "epoch": "2005-2006"
   },
   {
    "image_id": "dm-tau_nirc2-sam2016",
@@ -92,7 +94,8 @@
     "arxiv": "1608.03629",
     "bibcode": "2016A&A...595A...9W"
    },
-   "file": "images/dm-tau/dm-tau_nirc2-sam2016.png"
+   "file": "images/dm-tau/dm-tau_nirc2-sam2016.png",
+   "epoch": "2012-2014"
   },
   {
    "image_id": "dm-tau_sphere-ks-qphi",
@@ -112,7 +115,8 @@
     "arxiv": "2310.08589",
     "bibcode": "2023A&A...680A.114R"
    },
-   "file": "images/dm-tau/dm-tau_sphere-ks-qphi.png"
+   "file": "images/dm-tau/dm-tau_sphere-ks-qphi.png",
+   "epoch": "2020-12-19"
   },
   {
    "image_id": "dm-tau_exoalma-co",
@@ -152,7 +156,8 @@
     "arxiv": "2102.05905",
     "bibcode": "2021ApJ...911....5H"
    },
-   "file": "images/dm-tau/dm-tau_hashimoto2021.png"
+   "file": "images/dm-tau/dm-tau_hashimoto2021.png",
+   "epoch": "2019"
   }
  ],
  "notes": null,

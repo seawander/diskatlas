@@ -35,7 +35,8 @@
     "arxiv": "2601.15285",
     "bibcode": "2026ApJ..1004..182H"
    },
-   "file": "images/gamma-oph/gamma-oph_mri_f2550w.png"
+   "file": "images/gamma-oph/gamma-oph_mri_f2550w.png",
+   "epoch": "2024-08-13"
   }
  ],
  "notes": "AUTO-CREATED from staging - fill metadata & coords Added 2026-07-08 (recent-disk discovery).",

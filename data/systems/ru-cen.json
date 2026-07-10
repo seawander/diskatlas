@@ -33,7 +33,8 @@
     "arxiv": "2307.16598",
     "bibcode": "2023MNRAS.524.4168A"
    },
-   "file": "images/ru-cen/ru-cen_sphere_irdis.png"
+   "file": "images/ru-cen/ru-cen_sphere_irdis.png",
+   "epoch": "2019-01-12"
   }
  ],
  "notes": "AUTO-CREATED from staging - fill metadata & coords Added 2026-07-08 (post-AGB binary disc).",

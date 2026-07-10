@@ -54,7 +54,8 @@
     "journal": "AJ 164, 109",
     "arxiv": "2206.05815",
     "bibcode": "2022AJ....164..109R"
-   }
+   },
+   "epoch": "2018-01-03"
   },
   {
    "type": "disk_scattered",
@@ -74,7 +75,8 @@
     "journal": "AJ 164, 109",
     "arxiv": "2206.05815",
     "bibcode": "2022AJ....164..109R"
-   }
+   },
+   "epoch": "2018-01-03"
   },
   {
    "image_id": "hd-34700_scexao2023",
@@ -136,7 +138,8 @@
     "journal": "ApJ 900, 135",
     "arxiv": "2007.11655",
     "bibcode": "2020ApJ...900..135U"
-   }
+   },
+   "epoch": "2019 Jan 12"
   },
   {
    "type": "disk_scattered",
@@ -156,7 +159,8 @@
     "journal": "ApJ 900, 135",
     "arxiv": "2007.11655",
     "bibcode": "2020ApJ...900..135U"
-   }
+   },
+   "epoch": "2019 Jan 12"
   },
   {
    "type": "disk_scattered",
@@ -176,7 +180,8 @@
     "journal": "ApJ 900, 135",
     "arxiv": "2007.11655",
     "bibcode": "2020ApJ...900..135U"
-   }
+   },
+   "epoch": "2019 Jan 12"
   },
   {
    "image_id": "hd-34700_sma2020",
@@ -196,7 +201,8 @@
     "arxiv": "2011.03489",
     "bibcode": "2020ApJ...905..120B"
    },
-   "file": "images/hd-34700/hd-34700_sma2020.png"
+   "file": "images/hd-34700/hd-34700_sma2020.png",
+   "epoch": "2019 Jan 8"
   },
   {
    "type": "disk_scattered",
@@ -216,7 +222,8 @@
     "year": 2024,
     "journal": "MNRAS 533, 2473",
     "title": "Multiband polarimetric imaging of HD 34700 with SCExAO/CHARIS"
-   }
+   },
+   "epoch": "2019 Dec 16"
   },
   {
    "type": "disk_scattered",
@@ -236,7 +243,8 @@
     "year": 2024,
     "journal": "MNRAS 533, 2473",
     "title": "Multiband polarimetric imaging of HD 34700 with SCExAO/CHARIS"
-   }
+   },
+   "epoch": "2019 Dec 16"
   },
   {
    "type": "disk_scattered",
@@ -256,7 +264,8 @@
     "year": 2024,
     "journal": "MNRAS 533, 2473",
     "title": "Multiband polarimetric imaging of HD 34700 with SCExAO/CHARIS"
-   }
+   },
+   "epoch": "2019 Dec 16"
   },
   {
    "type": "disk_scattered",
@@ -276,7 +285,8 @@
     "year": 2026,
     "journal": "A&A 707, A160",
     "title": "The circumbinary disk of HD34700A: I. CO gas kinematics indicate spirals, infall, and vortex motions"
-   }
+   },
+   "epoch": "2019-10-27"
   },
   {
    "type": "disk_mm",

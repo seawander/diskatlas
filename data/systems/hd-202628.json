@@ -75,7 +75,8 @@
     "arxiv": "1909.04162",
     "bibcode": "2019AJ....158..162F"
    },
-   "file": "images/hd-202628/hd-202628_herschel2019.png"
+   "file": "images/hd-202628/hd-202628_herschel2019.png",
+   "epoch": "2012 Mar 28"
   }
  ],
  "notes": "coverage: no resolved near-IR scattered-light image as of 2026-07 (swept; disk is resolved in optical STIS and mm only)",

@@ -53,7 +53,8 @@
     "bibcode": "2017ApJ...837..132V"
    },
    "image_id": "tw-hya_sphere2017",
-   "file": "images/tw-hya/tw-hya_sphere2017.png"
+   "file": "images/tw-hya/tw-hya_sphere2017.png",
+   "epoch": "2015 Feb 3"
   },
   {
    "type": "disk_scattered",
@@ -73,7 +74,8 @@
     "bibcode": "2013ApJ...771...45D"
    },
    "image_id": "tw-hya_stis2013",
-   "file": "images/tw-hya/tw-hya_stis2013.png"
+   "file": "images/tw-hya/tw-hya_stis2013.png",
+   "epoch": "2000-2011"
   },
   {
    "type": "disk_mm",
@@ -113,7 +115,8 @@
     "bibcode": "2000ApJ...538..793K"
    },
    "image_id": "tw-hya_wfpc2-2000",
-   "file": "images/tw-hya/tw-hya_wfpc2-2000.png"
+   "file": "images/tw-hya/tw-hya_wfpc2-2000.png",
+   "epoch": "1998-12-20"
   },
   {
    "type": "disk_scattered",
@@ -133,7 +136,8 @@
     "journal": "A&A 684, A73",
     "arxiv": "2404.02222",
     "bibcode": "2024A&A...684A..73D"
-   }
+   },
+   "epoch": "2003-02-22"
   },
   {
    "image_id": "tw-hya_seeds",
@@ -216,7 +220,8 @@
     "arxiv": "1802.07754",
     "bibcode": "2018AJ....155..179H"
    },
-   "hires_url": "https://archive.stsci.edu/prepds/alice/"
+   "hires_url": "https://archive.stsci.edu/prepds/alice/",
+   "epoch": "1998-11-25"
   },
   {
    "image_id": "tw-hya_gpi2015",
@@ -236,7 +241,8 @@
     "arxiv": "1512.01865",
     "bibcode": "2015ApJ...815L..26R"
    },
-   "file": "images/tw-hya/tw-hya_gpi2015.png"
+   "file": "images/tw-hya/tw-hya_gpi2015.png",
+   "epoch": "2015"
   },
   {
    "image_id": "tw-hya_sma2012",
@@ -256,7 +262,8 @@
     "arxiv": "1111.5037",
     "bibcode": "2012ApJ...744..162A"
    },
-   "file": "images/tw-hya/tw-hya_sma2012.png"
+   "file": "images/tw-hya/tw-hya_sma2012.png",
+   "epoch": "2008"
   },
   {
    "image_id": "tw-hya_sphere-rdi-xie22",
@@ -276,7 +283,8 @@
     "arxiv": "2208.07915",
     "bibcode": "2022A&A...666A..32X"
    },
-   "file": "images/tw-hya/tw-hya_sphere-rdi-xie22.png"
+   "file": "images/tw-hya/tw-hya_sphere-rdi-xie22.png",
+   "epoch": "2020"
   },
   {
    "image_id": "tw-hya_eris2025",
@@ -296,7 +304,8 @@
     "arxiv": "2504.19810",
     "bibcode": "2025A&A...698A..52M"
    },
-   "file": "images/tw-hya/tw-hya_eris2025.png"
+   "file": "images/tw-hya/tw-hya_eris2025.png",
+   "epoch": "2023 May 28"
   },
   {
    "image_id": "tw-hya_nicmos-pol2018",
@@ -316,7 +325,8 @@
     "arxiv": "1805.01926",
     "bibcode": "2018ApJ...860..115P"
    },
-   "file": "images/tw-hya/tw-hya_nicmos-pol2018.png"
+   "file": "images/tw-hya/tw-hya_nicmos-pol2018.png",
+   "epoch": "1998-2005"
   }
  ],
  "notes": null,

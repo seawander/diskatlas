@@ -74,7 +74,8 @@
     "journal": "ApJ 946, 70",
     "arxiv": "2302.01949",
     "bibcode": "2023ApJ...946...70V"
-   }
+   },
+   "epoch": "2021"
   },
   {
    "image_id": "iras-04302-2247_nicmos2003",
@@ -94,7 +95,8 @@
     "journal": "ApJ, 588, 373",
     "arxiv": "astro-ph/0301335",
     "bibcode": "2003ApJ...588..373W"
-   }
+   },
+   "epoch": "1997-08-19"
   },
   {
    "type": "disk_scattered",
@@ -114,7 +116,8 @@
     "year": 2024,
     "journal": "ApJ 961, 95",
     "title": "JWST Imaging of Edge-on Protoplanetary Disks. II. Appearance of Edge-on Disks with a Tilted Inner Region: Case Study of IRAS04302+2247"
-   }
+   },
+   "epoch": "2023-02-20"
   },
   {
    "type": "disk_scattered",
@@ -134,7 +137,8 @@
     "year": 2024,
     "journal": "ApJ 961, 95",
     "title": "JWST Imaging of Edge-on Protoplanetary Disks. II. Appearance of Edge-on Disks with a Tilted Inner Region: Case Study of IRAS04302+2247"
-   }
+   },
+   "epoch": "2023-02-20"
   },
   {
    "type": "disk_scattered",
@@ -154,7 +158,8 @@
     "year": 2024,
     "journal": "ApJ 961, 95",
     "title": "JWST Imaging of Edge-on Protoplanetary Disks. II. Appearance of Edge-on Disks with a Tilted Inner Region: Case Study of IRAS04302+2247"
-   }
+   },
+   "epoch": "2023-02-20"
   },
   {
    "type": "disk_scattered",
@@ -174,7 +179,8 @@
     "year": 2024,
     "journal": "ApJ 961, 95",
     "title": "JWST Imaging of Edge-on Protoplanetary Disks. II. Appearance of Edge-on Disks with a Tilted Inner Region: Case Study of IRAS04302+2247"
-   }
+   },
+   "epoch": "2023-2024"
   },
   {
    "type": "disk_scattered",
@@ -194,7 +200,8 @@
     "year": 2024,
     "journal": "ApJ 961, 95",
     "title": "JWST Imaging of Edge-on Protoplanetary Disks. II. Appearance of Edge-on Disks with a Tilted Inner Region: Case Study of IRAS04302+2247"
-   }
+   },
+   "epoch": "2023-2024"
   },
   {
    "type": "disk_scattered",
@@ -214,7 +221,8 @@
     "year": 1999,
     "journal": "AJ 117, 1490",
     "title": "HST/NICMOS Imaging of Disks and Envelopes Around Very Young Stars"
-   }
+   },
+   "epoch": "1997-08-19"
   }
  ],
  "notes": "AUTO-CREATED from staging - fill metadata & coords",

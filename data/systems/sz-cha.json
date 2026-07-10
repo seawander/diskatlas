@@ -31,7 +31,8 @@
     "journal": "A&A 680, A114",
     "arxiv": "2310.08589",
     "bibcode": "2023A&A...680A.114R"
-   }
+   },
+   "epoch": "2020-12-29"
   },
   {
    "type": "disk_scattered",
@@ -71,7 +72,8 @@
     "arxiv": "2310.08589",
     "bibcode": "2023A&A...680A.114R"
    },
-   "file": "images/sz-cha/sz-cha_sphere-ks-qphi.png"
+   "file": "images/sz-cha/sz-cha_sphere-ks-qphi.png",
+   "epoch": "2020-12-29"
   },
   {
    "image_id": "sz-cha_sphere-rdi-xie22",

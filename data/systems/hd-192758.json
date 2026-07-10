@@ -31,7 +31,8 @@
     "journal": "A&A 672, A114",
     "arxiv": "2302.04273",
     "bibcode": "2023A&A...672A.114R"
-   }
+   },
+   "epoch": "2007-2008"
   },
   {
    "type": "disk_scattered",
@@ -51,7 +52,8 @@
     "journal": "A&A 704, A21",
     "arxiv": "2512.03128",
     "bibcode": "2025A&A...704A..21E"
-   }
+   },
+   "epoch": "2016-05-14"
   },
   {
    "type": "disk_scattered",
@@ -71,7 +73,8 @@
     "journal": "A&A 672, A114",
     "arxiv": "2302.04273",
     "bibcode": "2023A&A...672A.114R"
-   }
+   },
+   "epoch": "2018-09-01"
   },
   {
    "image_id": "hd-192758_nicmos-choquet18",
@@ -91,7 +94,8 @@
     "journal": "ApJ 854, 53",
     "arxiv": "1801.05424",
     "bibcode": "2018ApJ...854...53C"
-   }
+   },
+   "epoch": "2007-2008"
   }
  ],
  "notes": "AUTO-CREATED from staging - fill metadata & coords",

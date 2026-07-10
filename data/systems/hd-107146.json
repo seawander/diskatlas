@@ -73,7 +73,8 @@
     "journal": "AJ 148, 59",
     "arxiv": "1406.7303",
     "bibcode": "2014AJ....148...59S"
-   }
+   },
+   "epoch": "2011"
   },
   {
    "type": "disk_mm",
@@ -113,7 +114,8 @@
     "journal": "ApJL 617, L147",
     "arxiv": "astro-ph/0411422",
     "bibcode": "2004ApJ...617L.147A"
-   }
+   },
+   "epoch": "2004-06-05"
   },
   {
    "type": "disk_scattered",
@@ -133,7 +135,8 @@
     "journal": "ApJL 617, L147",
     "arxiv": "astro-ph/0411422",
     "bibcode": "2004ApJ...617L.147A"
-   }
+   },
+   "epoch": "2004-07-20"
   },
   {
    "type": "disk_scattered",
@@ -175,7 +178,8 @@
     "arxiv": "1802.07754",
     "bibcode": "2018AJ....155..179H"
    },
-   "hires_url": "https://archive.stsci.edu/prepds/alice/"
+   "hires_url": "https://archive.stsci.edu/prepds/alice/",
+   "epoch": "2005-2007"
   },
   {
    "image_id": "hd-107146_carma2008",
@@ -195,7 +199,8 @@
     "arxiv": "0811.2713",
     "bibcode": "2009ApJ...690L..65C"
    },
-   "file": "images/hd-107146/hd-107146_carma2008.png"
+   "file": "images/hd-107146/hd-107146_carma2008.png",
+   "epoch": "2007-2008"
   }
  ],
  "notes": null,

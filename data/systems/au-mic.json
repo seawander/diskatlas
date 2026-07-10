@@ -82,7 +82,8 @@
     "journal": "AJ 160, 24",
     "arxiv": "2004.13722",
     "bibcode": "2020AJ....160...24E"
-   }
+   },
+   "epoch": "2014-05-15"
   },
   {
    "type": "disk_mm",
@@ -123,7 +124,8 @@
     "bibcode": "2005AJ....129.1008K"
    },
    "image_id": "au-mic_acs2005",
-   "file": "images/au-mic/au-mic_acs2005.png"
+   "file": "images/au-mic/au-mic_acs2005.png",
+   "epoch": "2004"
   },
   {
    "type": "disk_scattered",
@@ -143,7 +145,8 @@
     "bibcode": "2015Natur.526..230B"
    },
    "image_id": "au-mic_sphere2015",
-   "file": "images/au-mic/au-mic_sphere2015.png"
+   "file": "images/au-mic/au-mic_sphere2015.png",
+   "epoch": "2015-10-06"
   },
   {
    "type": "disk_scattered",
@@ -163,7 +166,8 @@
     "journal": "AJ 148, 59",
     "arxiv": "1406.7303",
     "bibcode": "2014AJ....148...59S"
-   }
+   },
+   "epoch": "1998-2013"
   },
   {
    "type": "disk_mm",
@@ -203,7 +207,8 @@
     "journal": "AJ 160, 24",
     "arxiv": "2004.13722",
     "bibcode": "2020AJ....160...24E"
-   }
+   },
+   "epoch": "2014-05-15"
   },
   {
    "type": "disk_scattered",
@@ -223,7 +228,8 @@
     "journal": "A&A 672, A114",
     "arxiv": "2302.04273",
     "bibcode": "2023A&A...672A.114R"
-   }
+   },
+   "epoch": "2004"
   },
   {
    "type": "disk_scattered",
@@ -243,7 +249,8 @@
     "journal": "A&A 704, A21",
     "arxiv": "2512.03128",
     "bibcode": "2025A&A...704A..21E"
-   }
+   },
+   "epoch": "2017"
   },
   {
    "type": "disk_scattered",
@@ -263,7 +270,8 @@
     "journal": "A&A 672, A114",
     "arxiv": "2302.04273",
     "bibcode": "2023A&A...672A.114R"
-   }
+   },
+   "epoch": "1998-2023"
   },
   {
    "type": "disk_scattered",
@@ -283,7 +291,8 @@
     "bibcode": "2004Sci...303.1990K"
    },
    "image_id": "au-mic_kalas2004",
-   "file": "images/au-mic/au-mic_kalas2004.png"
+   "file": "images/au-mic/au-mic_kalas2004.png",
+   "epoch": "2003 Oct 14"
   },
   {
    "type": "disk_scattered",
@@ -324,7 +333,8 @@
     "arxiv": "1802.07754",
     "bibcode": "2018AJ....155..179H"
    },
-   "hires_url": "https://archive.stsci.edu/prepds/alice/"
+   "hires_url": "https://archive.stsci.edu/prepds/alice/",
+   "epoch": "2004"
   },
   {
    "image_id": "au-mic_jwst-nircam",
@@ -344,7 +354,8 @@
     "journal": "AJ 166, 150",
     "arxiv": "2308.02486",
     "bibcode": "2023AJ....166..150L"
-   }
+   },
+   "epoch": "2022 Oct 3"
   },
   {
    "image_id": "au-mic_herschel2016",
@@ -364,7 +375,8 @@
     "arxiv": "1509.06415",
     "bibcode": "2015ApJ...811..100M"
    },
-   "file": "images/au-mic/au-mic_herschel2016.png"
+   "file": "images/au-mic/au-mic_herschel2016.png",
+   "epoch": "2010 May 9"
   },
   {
    "image_id": "au-mic_sphere-rdi-xie22",
@@ -384,7 +396,8 @@
     "arxiv": "2208.07915",
     "bibcode": "2022A&A...666A..32X"
    },
-   "file": "images/au-mic/au-mic_sphere-rdi-xie22.png"
+   "file": "images/au-mic/au-mic_sphere-rdi-xie22.png",
+   "epoch": "2015-2021"
   },
   {
    "image_id": "au-mic_sma13mm",
@@ -404,7 +417,8 @@
     "arxiv": "1203.1896",
     "bibcode": "2012ApJ...749L..27W"
    },
-   "file": "images/au-mic/au-mic_sma13mm.png"
+   "file": "images/au-mic/au-mic_sma13mm.png",
+   "epoch": "2011"
   }
  ],
  "notes": null,

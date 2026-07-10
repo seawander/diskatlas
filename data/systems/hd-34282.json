@@ -53,7 +53,8 @@
     "journal": "A&A 680, A114",
     "arxiv": "2310.08589",
     "bibcode": "2023A&A...680A.114R"
-   }
+   },
+   "epoch": "2020-11-28"
   },
   {
    "type": "disk_scattered",
@@ -73,7 +74,8 @@
     "journal": "AJ 168, 78",
     "arxiv": "2408.04048",
     "bibcode": "2024AJ....168...78W"
-   }
+   },
+   "epoch": "2017-02-07"
   },
   {
    "image_id": "hd-34282_sphere-ks-qphi",
@@ -93,7 +95,8 @@
     "arxiv": "2310.08589",
     "bibcode": "2023A&A...680A.114R"
    },
-   "file": "images/hd-34282/hd-34282_sphere-ks-qphi.png"
+   "file": "images/hd-34282/hd-34282_sphere-ks-qphi.png",
+   "epoch": "2020-11-28"
   },
   {
    "image_id": "hd-34282_sphere-rdi-xie22",
@@ -113,7 +116,8 @@
     "arxiv": "2208.07915",
     "bibcode": "2022A&A...666A..32X"
    },
-   "file": "images/hd-34282/hd-34282_sphere-rdi-xie22.png"
+   "file": "images/hd-34282/hd-34282_sphere-rdi-xie22.png",
+   "epoch": "2015-2017"
   },
   {
    "image_id": "hd-34282_alma2026-b3",

@@ -120,7 +120,8 @@
     "bibcode": "2008Sci...322.1348M"
    },
    "image_id": "hr-8799_keck2008",
-   "file": "images/hr-8799/hr-8799_keck2008.png"
+   "file": "images/hr-8799/hr-8799_keck2008.png",
+   "epoch": "2004 Jul 14"
   },
   {
    "type": "planet",
@@ -140,7 +141,8 @@
     "bibcode": "2010Natur.468.1080M"
    },
    "image_id": "hr-8799_keck2010",
-   "file": "images/hr-8799/hr-8799_keck2010.png"
+   "file": "images/hr-8799/hr-8799_keck2010.png",
+   "epoch": "2009-2010"
   },
   {
    "type": "disk_mm",
@@ -180,7 +182,8 @@
     "journal": "A&A 704, A21",
     "arxiv": "2512.03128",
     "bibcode": "2025A&A...704A..21E"
-   }
+   },
+   "epoch": "2016 Oct 13"
   },
   {
    "type": "planet",
@@ -221,7 +224,8 @@
     "bibcode": "2025AJ....169..209B"
    },
    "image_id": "hr-8799_jwst2025",
-   "file": "images/hr-8799/hr-8799_jwst2025.png"
+   "file": "images/hr-8799/hr-8799_jwst2025.png",
+   "epoch": "2022-2025"
   },
   {
    "image_id": "hr-8799_miri2024-f1065c",
@@ -241,7 +245,8 @@
     "arxiv": "2310.13414",
     "bibcode": "2024A&A...686A..33B"
    },
-   "file": "images/hr-8799/hr-8799_miri2024-f1065c.png"
+   "file": "images/hr-8799/hr-8799_miri2024-f1065c.png",
+   "epoch": "2022 Nov"
   },
   {
    "image_id": "hr-8799_miri2024-f1140c",
@@ -261,7 +266,8 @@
     "arxiv": "2310.13414",
     "bibcode": "2024A&A...686A..33B"
    },
-   "file": "images/hr-8799/hr-8799_miri2024-f1140c.png"
+   "file": "images/hr-8799/hr-8799_miri2024-f1140c.png",
+   "epoch": "2022 Nov"
   },
   {
    "image_id": "hr-8799_miri2024-f1550c",
@@ -281,7 +287,8 @@
     "arxiv": "2310.13414",
     "bibcode": "2024A&A...686A..33B"
    },
-   "file": "images/hr-8799/hr-8799_miri2024-f1550c.png"
+   "file": "images/hr-8799/hr-8799_miri2024-f1550c.png",
+   "epoch": "2022 Nov"
   },
   {
    "image_id": "hr-8799_miri2024-f2100w",
@@ -301,7 +308,8 @@
     "arxiv": "2310.13414",
     "bibcode": "2024A&A...686A..33B"
    },
-   "file": "images/hr-8799/hr-8799_miri2024-f2100w.png"
+   "file": "images/hr-8799/hr-8799_miri2024-f2100w.png",
+   "epoch": "2022 Nov"
   },
   {
    "image_id": "hr-8799_alice-f160w",
@@ -322,7 +330,8 @@
     "arxiv": "1802.07754",
     "bibcode": "2018AJ....155..179H"
    },
-   "hires_url": "https://archive.stsci.edu/prepds/alice/"
+   "hires_url": "https://archive.stsci.edu/prepds/alice/",
+   "epoch": "1998-10-30"
   },
   {
    "image_id": "hr-8799_lbti2015",
@@ -363,7 +372,8 @@
     "arxiv": "2208.05594",
     "bibcode": "2022AJ....164..143W"
    },
-   "file": "images/hr-8799/hr-8799_charis2022.png"
+   "file": "images/hr-8799/hr-8799_charis2022.png",
+   "epoch": "2018 Sep 1"
   },
   {
    "image_id": "hr-8799_p1640-2012",
@@ -383,7 +393,8 @@
     "arxiv": "1303.2627",
     "bibcode": "2013ApJ...768...24O"
    },
-   "file": "images/hr-8799/hr-8799_p1640-2012.png"
+   "file": "images/hr-8799/hr-8799_p1640-2012.png",
+   "epoch": "2012"
   },
   {
    "image_id": "hr-8799_niri2008",
@@ -403,7 +414,8 @@
     "arxiv": "0811.2606",
     "bibcode": "2008Sci...322.1348M"
    },
-   "file": "images/hr-8799/hr-8799_niri2008.png"
+   "file": "images/hr-8799/hr-8799_niri2008.png",
+   "epoch": "2007 Oct 17"
   },
   {
    "image_id": "hr-8799_herschel2014",
@@ -423,7 +435,8 @@
     "arxiv": "1311.2977",
     "bibcode": "2014ApJ...780...97M"
    },
-   "file": "images/hr-8799/hr-8799_herschel2014.png"
+   "file": "images/hr-8799/hr-8799_herschel2014.png",
+   "epoch": "2011 Jul 10"
   },
   {
    "image_id": "hr-8799_nicmos1998",
@@ -485,7 +498,8 @@
     "arxiv": "1409.6388",
     "bibcode": "2015ApJ...803...31P"
    },
-   "file": "images/hr-8799/hr-8799_p1640-2015.png"
+   "file": "images/hr-8799/hr-8799_p1640-2015.png",
+   "epoch": "2012"
   },
   {
    "image_id": "hr-8799_bergfors2011-naco",
@@ -505,7 +519,8 @@
     "arxiv": "1102.5330",
     "bibcode": "2011A&A...528A.134B"
    },
-   "file": "images/hr-8799/hr-8799_bergfors2011-naco.png"
+   "file": "images/hr-8799/hr-8799_bergfors2011-naco.png",
+   "epoch": "2009 Sep"
   },
   {
    "type": "disk_mm",

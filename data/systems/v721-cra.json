@@ -40,7 +40,8 @@
     "journal": "A&A 706, A16",
     "arxiv": "2511.01717",
     "bibcode": "2026A&A...706A..16C"
-   }
+   },
+   "epoch": "2016-2022"
   }
  ],
  "notes": "Added 2026-07-06 (known_missing triage). Coordinates pending next host SIMBAD run.",

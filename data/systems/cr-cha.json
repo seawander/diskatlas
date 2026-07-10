@@ -33,7 +33,8 @@
     "journal": "A&A 685, A52",
     "arxiv": "2403.02149",
     "bibcode": "2024A&A...685A..52G"
-   }
+   },
+   "epoch": "2019-01-15"
   },
   {
    "type": "disk_scattered",
@@ -53,7 +54,8 @@
     "journal": "A&A 684, A73",
     "arxiv": "2404.02222",
     "bibcode": "2024A&A...684A..73D"
-   }
+   },
+   "epoch": "2006-04-09"
   }
  ],
  "notes": "AUTO-CREATED from staging - fill metadata & coords",

@@ -1,7 +1,9 @@
 {
  "id": "ht-lup",
  "name": "HT Lup",
- "alt_names": ["HIP 77157"],
+ "alt_names": [
+  "HIP 77157"
+ ],
  "simbad": "HT Lup",
  "ra_deg": 236.30361584893,
  "dec_deg": -34.29184566751,
@@ -31,7 +33,8 @@
     "journal": "ApJL 869, L41",
     "arxiv": "1812.04040",
     "bibcode": "2018ApJ...869L..41A"
-   }
+   },
+   "epoch": "2017-05-14"
   },
   {
    "type": "disk_scattered",
@@ -51,7 +54,8 @@
     "journal": "AJ 164, 109",
     "arxiv": "2206.05815",
     "bibcode": "2022AJ....164..109R"
-   }
+   },
+   "epoch": "2019-05-14"
   }
  ],
  "notes": null,

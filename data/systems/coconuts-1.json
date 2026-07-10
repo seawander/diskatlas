@@ -45,7 +45,8 @@
     "journal": "ApJ 891, 171",
     "arxiv": "2002.05723",
     "bibcode": "2020ApJ...891..171Z"
-   }
+   },
+   "epoch": "2010-2014"
   }
  ],
  "notes": "AUTO-CREATED from staging - fill metadata & coords | Coords from the PSO designation (Zhang+2020); apparent G derived from the paper's absolute G=14.681 at 31.51 pc. Companion COCONUTS-1B is a T4 benchmark (mass above the planet threshold; kept as survey benchmark).",

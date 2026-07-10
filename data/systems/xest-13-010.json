@@ -51,7 +51,8 @@
     "journal": "AJ 171, 80",
     "arxiv": "2512.05191",
     "bibcode": "2026AJ....171...80W"
-   }
+   },
+   "epoch": "2023 Dec"
   }
  ],
  "notes": "Host is an M3 Taurus member (~3.4 Myr, XEST/XMM-Newton survey source) with a known circumstellar disk (SMA-detected, Akeson et al. 2019). KOINTREAU-2b confirmed bound via common proper motion with Gaia astrometry (log Bayes factor ~25.1); interpreted as a young star obscured by its own edge-on disk rather than a substellar object.",

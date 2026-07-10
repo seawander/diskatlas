@@ -53,7 +53,8 @@
     "journal": "A&A 704, A21",
     "arxiv": "2512.03128",
     "bibcode": "2025A&A...704A..21E"
-   }
+   },
+   "epoch": "2016"
   },
   {
    "image_id": "hd-16743_nicmos2023",
@@ -73,7 +74,8 @@
     "arxiv": "2303.17128",
     "bibcode": "2023MNRAS.521.5940M"
    },
-   "file": "images/hd-16743/hd-16743_nicmos2023.png"
+   "file": "images/hd-16743/hd-16743_nicmos2023.png",
+   "epoch": "2007-07-23"
   }
  ],
  "notes": "AUTO-CREATED from staging - fill metadata & coords",

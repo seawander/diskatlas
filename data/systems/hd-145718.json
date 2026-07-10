@@ -33,7 +33,8 @@
     "journal": "AJ 164, 109",
     "arxiv": "2206.05815",
     "bibcode": "2022AJ....164..109R"
-   }
+   },
+   "epoch": "2018-06-08"
   },
   {
    "image_id": "hd-145718_pionier2020",
@@ -53,7 +54,8 @@
     "arxiv": "2004.01594",
     "bibcode": "2020A&A...636A.116K"
    },
-   "file": "images/hd-145718/hd-145718_pionier2020.png"
+   "file": "images/hd-145718/hd-145718_pionier2020.png",
+   "epoch": "2012-2013"
   }
  ],
  "notes": null,

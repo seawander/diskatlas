@@ -31,7 +31,8 @@
     "journal": "AJ 164, 109",
     "arxiv": "2206.05815",
     "bibcode": "2022AJ....164..109R"
-   }
+   },
+   "epoch": "2018-01-03"
   },
   {
    "image_id": "fu-ori_alma2020",
@@ -71,7 +72,8 @@
     "arxiv": "1807.03499",
     "bibcode": "2018ApJ...864...20T"
    },
-   "file": "images/fu-ori/fu-ori_hiciao2018.png"
+   "file": "images/fu-ori/fu-ori_hiciao2018.png",
+   "epoch": "2014 Oct 5"
   },
   {
    "image_id": "fu-ori_zurlo2024",
@@ -91,7 +93,8 @@
     "arxiv": "2403.12124",
     "bibcode": "2024A&A...686A.309Z"
    },
-   "file": "images/fu-ori/fu-ori_zurlo2024.png"
+   "file": "images/fu-ori/fu-ori_zurlo2024.png",
+   "epoch": "2016-2017"
   },
   {
    "type": "disk_scattered",
@@ -111,7 +114,8 @@
     "journal": "MNRAS 518, 5620",
     "year": 2023,
     "title": "The SPHERE view of three interacting twin disc systems in polarised light"
-   }
+   },
+   "epoch": "2016-2017"
   }
  ],
  "notes": null,

@@ -81,7 +81,8 @@
     "bibcode": "2017ApJ...840...32T"
    },
    "image_id": "ab-aur_alma2017",
-   "file": "images/ab-aur/ab-aur_alma2017.png"
+   "file": "images/ab-aur/ab-aur_alma2017.png",
+   "epoch": "2015 Nov 10"
   },
   {
    "type": "disk_scattered",
@@ -164,7 +165,8 @@
     "journal": "A&A 685, A53",
     "arxiv": "2403.02158",
     "bibcode": "2024A&A...685A..53G"
-   }
+   },
+   "epoch": "2019-12-18"
   },
   {
    "type": "disk_scattered",
@@ -205,7 +207,8 @@
     "bibcode": "1999ApJ...523L.151G"
    },
    "image_id": "ab-aur_stis1999",
-   "file": "images/ab-aur/ab-aur_stis1999.png"
+   "file": "images/ab-aur/ab-aur_stis1999.png",
+   "epoch": "1999-01-23"
   },
   {
    "image_id": "ab-aur_alice-f110w",
@@ -226,7 +229,8 @@
     "arxiv": "1802.07754",
     "bibcode": "2018AJ....155..179H"
    },
-   "hires_url": "https://archive.stsci.edu/prepds/alice/"
+   "hires_url": "https://archive.stsci.edu/prepds/alice/",
+   "epoch": "2007"
   },
   {
    "image_id": "ab-aur_lbti2022-lp",
@@ -246,7 +250,8 @@
     "arxiv": "2201.08867",
     "bibcode": "2022ApJ...926...71J"
    },
-   "file": "images/ab-aur/ab-aur_lbti2022-lp.png"
+   "file": "images/ab-aur/ab-aur_lbti2022-lp.png",
+   "epoch": "2014-02-09"
   },
   {
    "image_id": "ab-aur_lbti2022-ks",
@@ -266,7 +271,8 @@
     "arxiv": "2201.08867",
     "bibcode": "2022ApJ...926...71J"
    },
-   "file": "images/ab-aur/ab-aur_lbti2022-ks.png"
+   "file": "images/ab-aur/ab-aur_lbti2022-ks.png",
+   "epoch": "2015-01-04"
   },
   {
    "image_id": "ab-aur_seeds2011-closeup",
@@ -410,7 +416,8 @@
     "arxiv": "2207.06525",
     "bibcode": "2022ApJ...934L..13Z"
    },
-   "file": "images/ab-aur/ab-aur_wfc3-2022.png"
+   "file": "images/ab-aur/ab-aur_wfc3-2022.png",
+   "epoch": "2022"
   },
   {
    "image_id": "ab-aur_stis2005",
@@ -430,7 +437,8 @@
     "arxiv": null,
     "bibcode": "2005ApJ...630..958G"
    },
-   "file": "images/ab-aur/ab-aur_stis2005.png"
+   "file": "images/ab-aur/ab-aur_stis2005.png",
+   "epoch": "1999-2000"
   },
   {
    "image_id": "ab-aur_nicmos-go11155-1um",
@@ -450,7 +458,8 @@
     "arxiv": "0911.1130",
     "bibcode": "2009ApJ...707L.132P"
    },
-   "file": "images/ab-aur/ab-aur_nicmos-go11155-1um.png"
+   "file": "images/ab-aur/ab-aur_nicmos-go11155-1um.png",
+   "epoch": "2007"
   },
   {
    "image_id": "ab-aur_nicmos-go11155-pol2um",
@@ -470,7 +479,8 @@
     "arxiv": "0911.1130",
     "bibcode": "2009ApJ...707L.132P"
    },
-   "file": "images/ab-aur/ab-aur_nicmos-go11155-pol2um.png"
+   "file": "images/ab-aur/ab-aur_nicmos-go11155-pol2um.png",
+   "epoch": "2007"
   },
   {
    "image_id": "ab-aur_ciao2004",

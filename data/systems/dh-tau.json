@@ -44,7 +44,8 @@
     "bibcode": "2005ApJ...620..984I"
    },
    "image_id": "dh-tau_subaru2005",
-   "file": "images/dh-tau/dh-tau_subaru2005.png"
+   "file": "images/dh-tau/dh-tau_subaru2005.png",
+   "epoch": "2004 Jan 8"
   },
   {
    "type": "disk_scattered",
@@ -64,7 +65,8 @@
     "journal": "A&A 685, A53",
     "arxiv": "2403.02158",
     "bibcode": "2024A&A...685A..53G"
-   }
+   },
+   "epoch": "2019-10-23"
   },
   {
    "type": "disk_mm",

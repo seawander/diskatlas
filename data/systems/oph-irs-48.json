@@ -53,7 +53,8 @@
     "journal": "ApJ 798, 132",
     "arxiv": "1411.0671",
     "bibcode": "2015ApJ...798..132F"
-   }
+   },
+   "epoch": "2013 May 19"
   },
   {
    "image_id": "oph-irs-48_sma2012",
@@ -73,7 +74,8 @@
     "arxiv": "1209.1641",
     "bibcode": "2012ApJ...758L..30B"
    },
-   "file": "images/oph-irs-48/oph-irs-48_sma2012.png"
+   "file": "images/oph-irs-48/oph-irs-48_sma2012.png",
+   "epoch": "2011"
   },
   {
    "image_id": "oph-irs-48_comics2018",
@@ -93,7 +95,8 @@
     "arxiv": "1804.02145",
     "bibcode": "2018PASJ...70...44H"
    },
-   "file": "images/oph-irs-48/oph-irs-48_comics2018.png"
+   "file": "images/oph-irs-48/oph-irs-48_comics2018.png",
+   "epoch": "2015 Apr 26"
   },
   {
    "image_id": "oph-irs-48_naco2017",
@@ -113,7 +116,8 @@
     "arxiv": "1706.06678",
     "bibcode": "2017ApJ...842...77S"
    },
-   "file": "images/oph-irs-48/oph-irs-48_naco2017.png"
+   "file": "images/oph-irs-48/oph-irs-48_naco2017.png",
+   "epoch": "2013"
   },
   {
    "image_id": "oph-irs-48_vla2015",
@@ -133,7 +137,8 @@
     "arxiv": "1508.01003",
     "bibcode": "2015ApJ...810L...7V"
    },
-   "file": "images/oph-irs-48/oph-irs-48_vla2015.png"
+   "file": "images/oph-irs-48/oph-irs-48_vla2015.png",
+   "epoch": "2015 Feb"
   }
  ],
  "notes": "Prototype azimuthal dust trap. SIMBAD name needs verification (Oph IRS 48 = WLY 2-48).",

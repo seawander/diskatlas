@@ -33,7 +33,8 @@
     "year": 1999,
     "journal": "AJ 117, 1490",
     "title": "HST/NICMOS Imaging of Disks and Envelopes Around Very Young Stars"
-   }
+   },
+   "epoch": "1997-08-19"
   }
  ],
  "notes": "CoKu Tau/1: T Tauri subarcsecond binary with limb-brightened outflow-cavity walls (HH 156 jet source). Distance from Gaia plx 8.69 mas. Added 2026-07-09 via Padgett 1999 NICMOS split.",

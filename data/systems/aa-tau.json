@@ -51,7 +51,8 @@
     "journal": "ApJ 762, 40",
     "arxiv": null,
     "bibcode": "2013ApJ...762...40C"
-   }
+   },
+   "epoch": "1999-2011"
   },
   {
    "image_id": "aa-tau_alice-f160w",
@@ -72,7 +73,8 @@
     "arxiv": "1802.07754",
     "bibcode": "2018AJ....155..179H"
    },
-   "hires_url": "https://archive.stsci.edu/prepds/alice/"
+   "hires_url": "https://archive.stsci.edu/prepds/alice/",
+   "epoch": "2004-11-22"
   },
   {
    "image_id": "aa-tau_exoalma-co",

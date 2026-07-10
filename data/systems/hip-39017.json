@@ -55,7 +55,8 @@
     "arxiv": "2403.04000",
     "bibcode": "2024AJ....167..205T"
    },
-   "file": "images/hip-39017/hip-39017_charis2024.png"
+   "file": "images/hip-39017/hip-39017_charis2024.png",
+   "epoch": "2022-2023"
   }
  ],
  "notes": "HIP 39017 is a young (≲115 Myr), gamma Doradus-type pulsating variable star showing HGCA astrometric acceleration, which motivated the imaging search that found companion b. The paper describes b as a 'massive planet or low-mass brown dwarf' with an L/T transition spectrum; tagged here with method imaging per atlas convention.",

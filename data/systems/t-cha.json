@@ -1,9 +1,11 @@
 {
  "id": "t-cha",
  "name": "T Cha",
- "alt_names": ["HIP 58285"],
+ "alt_names": [
+  "HIP 58285"
+ ],
  "simbad": "T Cha",
- "ra_deg": 179.3063521190,
+ "ra_deg": 179.306352119,
  "dec_deg": -79.3587584747,
  "dist_pc": 107.0,
  "plx_mas": 9.7356,
@@ -32,7 +34,8 @@
     "arxiv": "1705.03477",
     "bibcode": "2017A&A...605A..34P"
    },
-   "file": "images/t-cha/t-cha_sphere2017.png"
+   "file": "images/t-cha/t-cha_sphere2017.png",
+   "epoch": "2016-02-20"
   }
  ],
  "notes": "Transition disk with a large gap (~30 au); highly inclined (~69 deg) with east-west scattered-light asymmetry. A point source at 3.5\" from the star (Pohl et al. 2017) was found NOT to be co-moving, ruling it out as a bound companion; no companion candidate with mass >~8.5 Mjup found between 0.1-0.3\".",

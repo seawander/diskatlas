@@ -112,7 +112,8 @@
     "arxiv": "astro-ph/0104066",
     "bibcode": "2001ApJ...556..958C"
    },
-   "file": "images/hh-30/hh-30_nicmos2001.png"
+   "file": "images/hh-30/hh-30_nicmos2001.png",
+   "epoch": "1997-1998"
   },
   {
    "image_id": "hh-30_wfpc2-1996",
@@ -132,7 +133,8 @@
     "arxiv": null,
     "bibcode": "1996ApJ...473..437B"
    },
-   "file": "images/hh-30/hh-30_wfpc2-1996.png"
+   "file": "images/hh-30/hh-30_wfpc2-1996.png",
+   "epoch": "1994-1995"
   }
  ],
  "notes": "AUTO-CREATED from staging - fill metadata & coords",

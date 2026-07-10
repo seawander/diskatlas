@@ -1,7 +1,9 @@
 {
  "id": "hd-35650",
  "name": "HD 35650",
- "alt_names": ["HIP 25283"],
+ "alt_names": [
+  "HIP 25283"
+ ],
  "simbad": "HD 35650",
  "ra_deg": 81.12570642031,
  "dec_deg": -38.96965196607,
@@ -43,7 +45,8 @@
     "journal": "ApJL 817, L2",
     "arxiv": "1512.02220",
     "bibcode": "2016ApJ...817L...2C"
-   }
+   },
+   "epoch": "2004-10-28"
   },
   {
    "type": "disk_scattered",
@@ -63,7 +66,8 @@
     "journal": "A&A 672, A114",
     "arxiv": "2302.04273",
     "bibcode": "2023A&A...672A.114R"
-   }
+   },
+   "epoch": "2004-10-28"
   },
   {
    "type": "disk_scattered",
@@ -83,7 +87,8 @@
     "journal": "A&A 672, A114",
     "arxiv": "2302.04273",
     "bibcode": "2023A&A...672A.114R"
-   }
+   },
+   "epoch": "2018-11-15"
   }
  ],
  "notes": null,

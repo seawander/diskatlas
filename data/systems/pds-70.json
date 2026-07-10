@@ -117,7 +117,8 @@
     "journal": "Nature Astronomy 3, 749",
     "arxiv": "1906.01486",
     "bibcode": "2019NatAs...3..749H"
-   }
+   },
+   "epoch": "2016-2019"
   },
   {
    "type": "planet",
@@ -137,7 +138,8 @@
     "bibcode": "2024A&A...685L...1C"
    },
    "image_id": "pds-70_jwst2024",
-   "file": "images/pds-70/pds-70_jwst2024.png"
+   "file": "images/pds-70/pds-70_jwst2024.png",
+   "epoch": "2023"
   },
   {
    "image_id": "pds-70_seeds",
@@ -199,7 +201,8 @@
     "journal": "AJ 168, 78",
     "arxiv": "2408.04048",
     "bibcode": "2024AJ....168...78W"
-   }
+   },
+   "epoch": "2019-06-08"
   },
   {
    "image_id": "pds-70_sphere-rdi-xie22",
@@ -219,7 +222,8 @@
     "arxiv": "2208.07915",
     "bibcode": "2022A&A...666A..32X"
    },
-   "file": "images/pds-70/pds-70_sphere-rdi-xie22.png"
+   "file": "images/pds-70/pds-70_sphere-rdi-xie22.png",
+   "epoch": "2016-2021"
   },
   {
    "image_id": "pds-70_muse2020",
@@ -239,7 +243,8 @@
     "arxiv": "2011.08043",
     "bibcode": "2020A&A...644A.149X"
    },
-   "file": "images/pds-70/pds-70_muse2020.png"
+   "file": "images/pds-70/pds-70_muse2020.png",
+   "epoch": "2018-06-20"
   },
   {
    "image_id": "pds-70_eris2025",
@@ -259,7 +264,8 @@
     "arxiv": "2504.19810",
     "bibcode": "2025A&A...698A..52M"
    },
-   "file": "images/pds-70/pds-70_eris2025.png"
+   "file": "images/pds-70/pds-70_eris2025.png",
+   "epoch": "2023 May 28"
   },
   {
    "image_id": "pds-70_wfc3halpha2024",
@@ -320,7 +326,8 @@
     "arxiv": "2112.10777",
     "bibcode": "2022AJ....163..119S"
    },
-   "file": "images/pds-70/pds-70_wfc3rdi.png"
+   "file": "images/pds-70/pds-70_wfc3rdi.png",
+   "epoch": "2012-2020"
   },
   {
    "type": "planet",
@@ -340,7 +347,8 @@
     "year": 2018,
     "journal": "ApJL 863, L8",
     "title": "Magellan Adaptive Optics Imaging of PDS 70: Measuring the Mass Accretion Rate of a Young Giant Planet within a Gapped Disk"
-   }
+   },
+   "epoch": "2018 May"
   }
  ],
  "notes": "Only system with two confirmed planets caught in formation inside the disk cavity.",

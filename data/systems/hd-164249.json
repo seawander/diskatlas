@@ -54,7 +54,8 @@
     "arxiv": "1802.07754",
     "bibcode": "2018AJ....155..179H"
    },
-   "hires_url": "https://archive.stsci.edu/prepds/alice/"
+   "hires_url": "https://archive.stsci.edu/prepds/alice/",
+   "epoch": "2005-05-14"
   }
  ],
  "notes": "AUTO-CREATED from staging - fill metadata & coords",

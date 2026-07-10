@@ -116,7 +116,8 @@
     "arxiv": "2103.02665",
     "bibcode": "2021AJ....161..238W"
    },
-   "file": "images/oph-163131/oph-163131_hst2021.png"
+   "file": "images/oph-163131/oph-163131_hst2021.png",
+   "epoch": "2012-03-04"
   },
   {
    "image_id": "oph-163131_keck2021",
@@ -136,7 +137,8 @@
     "arxiv": "2103.02665",
     "bibcode": "2021AJ....161..238W"
    },
-   "file": "images/oph-163131/oph-163131_keck2021.png"
+   "file": "images/oph-163131/oph-163131_keck2021.png",
+   "epoch": "2019 Apr 25"
   }
  ],
  "notes": "AUTO-CREATED from staging - fill metadata & coords",

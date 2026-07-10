@@ -53,7 +53,8 @@
     "bibcode": "2006ApJ...650..414S"
    },
    "image_id": "hd-181327_nicmos2006",
-   "file": "images/hd-181327/hd-181327_nicmos2006.png"
+   "file": "images/hd-181327/hd-181327_nicmos2006.png",
+   "epoch": "2005-2006"
   },
   {
    "type": "disk_scattered",
@@ -73,7 +74,8 @@
     "journal": "AJ 148, 59",
     "arxiv": "1406.7303",
     "bibcode": "2014AJ....148...59S"
-   }
+   },
+   "epoch": "2011"
   },
   {
    "type": "disk_scattered",
@@ -93,7 +95,8 @@
     "journal": "A&A 672, A114",
     "arxiv": "2302.04273",
     "bibcode": "2023A&A...672A.114R"
-   }
+   },
+   "epoch": "2005-05-02"
   },
   {
    "type": "disk_scattered",
@@ -113,7 +116,8 @@
     "journal": "A&A 704, A21",
     "arxiv": "2512.03128",
     "bibcode": "2025A&A...704A..21E"
-   }
+   },
+   "epoch": "2017-05-16"
   },
   {
    "type": "disk_scattered",
@@ -133,7 +137,8 @@
     "journal": "A&A 672, A114",
     "arxiv": "2302.04273",
     "bibcode": "2023A&A...672A.114R"
-   }
+   },
+   "epoch": "2011"
   },
   {
    "image_id": "hd-181327_alma2016",
@@ -153,7 +158,8 @@
     "journal": "MNRAS 460, 2933",
     "arxiv": "1605.05331",
     "bibcode": "2016MNRAS.460.2933M"
-   }
+   },
+   "epoch": "2014 Mar 10"
   },
   {
    "image_id": "hd-181327_alice-f110w",
@@ -174,7 +180,8 @@
     "arxiv": "1802.07754",
     "bibcode": "2018AJ....155..179H"
    },
-   "hires_url": "https://archive.stsci.edu/prepds/alice/"
+   "hires_url": "https://archive.stsci.edu/prepds/alice/",
+   "epoch": "2005-05-02"
   },
   {
    "image_id": "hd-181327_jwst-nirspec",

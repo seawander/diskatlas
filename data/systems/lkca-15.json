@@ -103,7 +103,8 @@
     "journal": "A&A 685, A53",
     "arxiv": "2403.02158",
     "bibcode": "2024A&A...685A..53G"
-   }
+   },
+   "epoch": "2020-12-07"
   },
   {
    "type": "disk_scattered",
@@ -123,7 +124,8 @@
     "journal": "A&A 680, A114",
     "arxiv": "2310.08589",
     "bibcode": "2023A&A...680A.114R"
-   }
+   },
+   "epoch": "2020-11-27"
   },
   {
    "image_id": "lkca-15_seeds",
@@ -165,7 +167,8 @@
     "arxiv": "1802.07754",
     "bibcode": "2018AJ....155..179H"
    },
-   "hires_url": "https://archive.stsci.edu/prepds/alice/"
+   "hires_url": "https://archive.stsci.edu/prepds/alice/",
+   "epoch": "2005-01-29"
   },
   {
    "type": "disk_scattered",
@@ -185,7 +188,8 @@
     "journal": "AJ 168, 78",
     "arxiv": "2408.04048",
     "bibcode": "2024AJ....168...78W"
-   }
+   },
+   "epoch": "2015-10-22"
   },
   {
    "image_id": "lkca-15_alma-band3-2025",
@@ -225,7 +229,8 @@
     "arxiv": "1103.0284",
     "bibcode": "2011ApJ...732...42A"
    },
-   "file": "images/lkca-15/lkca-15_sma2011.png"
+   "file": "images/lkca-15/lkca-15_sma2011.png",
+   "epoch": "2009 Oct 23"
   },
   {
    "image_id": "lkca-15_sphere-ks-qphi",
@@ -245,7 +250,8 @@
     "arxiv": "2310.08589",
     "bibcode": "2023A&A...680A.114R"
    },
-   "file": "images/lkca-15/lkca-15_sphere-ks-qphi.png"
+   "file": "images/lkca-15/lkca-15_sphere-ks-qphi.png",
+   "epoch": "2020-11-27"
   },
   {
    "image_id": "lkca-15_magao2022",

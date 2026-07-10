@@ -51,7 +51,8 @@
     "journal": "A&A 685, A53",
     "arxiv": "2403.02158",
     "bibcode": "2024A&A...685A..53G"
-   }
+   },
+   "epoch": "2019-12-19"
   },
   {
    "image_id": "do-tau_alice-f160w",
@@ -72,7 +73,8 @@
     "arxiv": "1802.07754",
     "bibcode": "2018AJ....155..179H"
    },
-   "hires_url": "https://archive.stsci.edu/prepds/alice/"
+   "hires_url": "https://archive.stsci.edu/prepds/alice/",
+   "epoch": "1998-12-02"
   },
   {
    "image_id": "do-tau_carma2015",
@@ -92,7 +94,8 @@
     "arxiv": "1506.03679",
     "bibcode": "2015ApJ...808..102K"
    },
-   "file": "images/do-tau/do-tau_carma2015.png"
+   "file": "images/do-tau/do-tau_carma2015.png",
+   "epoch": "2007-2009"
   }
  ],
  "notes": null,

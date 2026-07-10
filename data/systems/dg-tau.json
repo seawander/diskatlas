@@ -31,7 +31,8 @@
     "journal": "A&A 685, A53",
     "arxiv": "2403.02158",
     "bibcode": "2024A&A...685A..53G"
-   }
+   },
+   "epoch": "2021-10-28"
   },
   {
    "image_id": "dg-tau_alma2023",
@@ -51,7 +52,8 @@
     "journal": "ApJ",
     "arxiv": "2307.14526",
     "bibcode": "2023ApJ...954..110O"
-   }
+   },
+   "epoch": "2015 Nov 1"
   },
   {
    "image_id": "dg-tau_sphere-rdi-xie22",
@@ -71,7 +73,8 @@
     "arxiv": "2208.07915",
     "bibcode": "2022A&A...666A..32X"
    },
-   "file": "images/dg-tau/dg-tau_sphere-rdi-xie22.png"
+   "file": "images/dg-tau/dg-tau_sphere-rdi-xie22.png",
+   "epoch": "2019-2021"
   },
   {
    "type": "disk_mm",

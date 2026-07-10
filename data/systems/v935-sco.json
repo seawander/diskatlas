@@ -40,7 +40,8 @@
     "journal": "A&A, in press",
     "arxiv": "2603.01703",
     "bibcode": "2026A&A...709A.269G"
-   }
+   },
+   "epoch": "2018-2021"
   }
  ],
  "notes": "First-published SPHERE/IRDIS H-band polarimetric image (DESTINYS). Both disk and ambient contribution are detected: an inclined disk (P.A. 80 deg, extent ~50 au) with visible back side, plus asymmetric diffuse ambient scattered light out to 150 au. Disk features: back side; ambient features: ambient interaction (Garufi et al. 2026, Table A.5/Fig. A.1).",

@@ -53,7 +53,8 @@
     "journal": "AJ 160, 24",
     "arxiv": "2004.13722",
     "bibcode": "2020AJ....160...24E"
-   }
+   },
+   "epoch": "2018-11-21"
   },
   {
    "type": "disk_mm",
@@ -93,7 +94,8 @@
     "journal": "A&A 672, A114",
     "arxiv": "2302.04273",
     "bibcode": "2023A&A...672A.114R"
-   }
+   },
+   "epoch": "2008-03-08"
   },
   {
    "type": "disk_scattered",
@@ -113,7 +115,8 @@
     "journal": "A&A 704, A21",
     "arxiv": "2512.03128",
     "bibcode": "2025A&A...704A..21E"
-   }
+   },
+   "epoch": "2017-06-25"
   },
   {
    "type": "disk_scattered",
@@ -133,7 +136,8 @@
     "journal": "A&A 672, A114",
     "arxiv": "2302.04273",
     "bibcode": "2023A&A...672A.114R"
-   }
+   },
+   "epoch": "2019-03-13"
   },
   {
    "image_id": "hd-131835_alma2019",
@@ -214,7 +218,8 @@
     "arxiv": "2208.07915",
     "bibcode": "2022A&A...666A..32X"
    },
-   "file": "images/hd-131835/hd-131835_sphere-rdi-xie22.png"
+   "file": "images/hd-131835/hd-131835_sphere-rdi-xie22.png",
+   "epoch": "2017-06-25"
   }
  ],
  "notes": null,

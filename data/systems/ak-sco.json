@@ -34,7 +34,8 @@
     "journal": "AJ 160, 24",
     "arxiv": "2004.13722",
     "bibcode": "2020AJ....160...24E"
-   }
+   },
+   "epoch": "2018-08-11"
   },
   {
    "type": "disk_scattered",
@@ -54,7 +55,8 @@
     "journal": "AJ 164, 109",
     "arxiv": "2206.05815",
     "bibcode": "2022AJ....164..109R"
-   }
+   },
+   "epoch": "2018-08-11"
   },
   {
    "type": "disk_scattered",
@@ -74,7 +76,8 @@
     "journal": "A&A 684, A73",
     "arxiv": "2404.02222",
     "bibcode": "2024A&A...684A..73D"
-   }
+   },
+   "epoch": "2015-07-22"
   },
   {
    "image_id": "ak-sco_alma2015",
@@ -94,7 +97,8 @@
     "journal": "ApJ",
     "arxiv": "1505.01850",
     "bibcode": "2015ApJ...806..154C"
-   }
+   },
+   "epoch": "2014 Apr 10"
   },
   {
    "image_id": "ak-sco_sphere2015",
@@ -114,7 +118,8 @@
     "arxiv": "1512.04552",
     "bibcode": "2016ApJ...816L...1J"
    },
-   "file": "images/ak-sco/ak-sco_sphere2015.png"
+   "file": "images/ak-sco/ak-sco_sphere2015.png",
+   "epoch": "2015 Apr 14"
   },
   {
    "image_id": "ak-sco_sphere-rdi-xie22",
@@ -134,7 +139,8 @@
     "arxiv": "2208.07915",
     "bibcode": "2022A&A...666A..32X"
    },
-   "file": "images/ak-sco/ak-sco_sphere-rdi-xie22.png"
+   "file": "images/ak-sco/ak-sco_sphere-rdi-xie22.png",
+   "epoch": "2015-2016"
   }
  ],
  "notes": null,

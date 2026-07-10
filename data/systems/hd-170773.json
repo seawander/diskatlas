@@ -75,7 +75,8 @@
     "arxiv": "1802.07754",
     "bibcode": "2018AJ....155..179H"
    },
-   "hires_url": "https://archive.stsci.edu/prepds/alice/"
+   "hires_url": "https://archive.stsci.edu/prepds/alice/",
+   "epoch": "2006-04-06"
   },
   {
    "image_id": "hd-170773_herschel2015",
@@ -95,7 +96,8 @@
     "arxiv": "1411.5829",
     "bibcode": "2015MNRAS.447..577M"
    },
-   "file": "images/hd-170773/hd-170773_herschel2015.png"
+   "file": "images/hd-170773/hd-170773_herschel2015.png",
+   "epoch": "2012-03-14"
   },
   {
    "image_id": "hd-170773_scuba2016",

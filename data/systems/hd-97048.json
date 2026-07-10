@@ -53,7 +53,8 @@
     "bibcode": "2016A&A...595A.112G"
    },
    "image_id": "hd-97048_sphere2016",
-   "file": "images/hd-97048/hd-97048_sphere2016.png"
+   "file": "images/hd-97048/hd-97048_sphere2016.png",
+   "epoch": "2016"
   },
   {
    "type": "disk_scattered",
@@ -73,7 +74,8 @@
     "journal": "A&A 680, A114",
     "arxiv": "2310.08589",
     "bibcode": "2023A&A...680A.114R"
-   }
+   },
+   "epoch": "2021-01-28"
   },
   {
    "type": "disk_scattered",
@@ -93,7 +95,8 @@
     "journal": "A&A 685, A52",
     "arxiv": "2403.02149",
     "bibcode": "2024A&A...685A..52G"
-   }
+   },
+   "epoch": "2016-2020"
   },
   {
    "type": "disk_scattered",
@@ -113,7 +116,8 @@
     "journal": "A&A 684, A73",
     "arxiv": "2404.02222",
     "bibcode": "2024A&A...684A..73D"
-   }
+   },
+   "epoch": "2006-04-07"
   },
   {
    "image_id": "hd-97048_alice-f110w",
@@ -134,7 +138,8 @@
     "arxiv": "1802.07754",
     "bibcode": "2018AJ....155..179H"
    },
-   "hires_url": "https://archive.stsci.edu/prepds/alice/"
+   "hires_url": "https://archive.stsci.edu/prepds/alice/",
+   "epoch": "2007-2008"
   },
   {
    "image_id": "hd-97048_visir2007",
@@ -174,7 +179,8 @@
     "arxiv": "astro-ph/0701576",
     "bibcode": "2007AJ....133.2122D"
    },
-   "file": "images/hd-97048/hd-97048_acs2007.png"
+   "file": "images/hd-97048/hd-97048_acs2007.png",
+   "epoch": "2005-07-16"
   },
   {
    "image_id": "hd-97048_sphere-ks-qphi",
@@ -194,7 +200,8 @@
     "arxiv": "2310.08589",
     "bibcode": "2023A&A...680A.114R"
    },
-   "file": "images/hd-97048/hd-97048_sphere-ks-qphi.png"
+   "file": "images/hd-97048/hd-97048_sphere-ks-qphi.png",
+   "epoch": "2021-01-28"
   },
   {
    "image_id": "hd-97048_sphere-rdi-xie22",
@@ -214,7 +221,8 @@
     "arxiv": "2208.07915",
     "bibcode": "2022A&A...666A..32X"
    },
-   "file": "images/hd-97048/hd-97048_sphere-rdi-xie22.png"
+   "file": "images/hd-97048/hd-97048_sphere-rdi-xie22.png",
+   "epoch": "2016-2020"
   }
  ],
  "notes": null,

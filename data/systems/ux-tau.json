@@ -34,7 +34,8 @@
     "journal": "A&A 685, A53",
     "arxiv": "2403.02158",
     "bibcode": "2024A&A...685A..53G"
-   }
+   },
+   "epoch": "2017-10-05"
   },
   {
    "image_id": "ux-tau_seeds",
@@ -96,7 +97,8 @@
     "arxiv": "2208.07915",
     "bibcode": "2022A&A...666A..32X"
    },
-   "file": "images/ux-tau/ux-tau_sphere-rdi-xie22.png"
+   "file": "images/ux-tau/ux-tau_sphere-rdi-xie22.png",
+   "epoch": "2017-10-06"
   },
   {
    "type": "disk_mm",

@@ -75,7 +75,8 @@
     "arxiv": "astro-ph/0304083",
     "bibcode": "2003ApJ...588L.113M"
    },
-   "file": "images/hk-tau-b/hk-tau-b_keck-lws2003.png"
+   "file": "images/hk-tau-b/hk-tau-b_keck-lws2003.png",
+   "epoch": "2002 Nov 13"
   },
   {
    "image_id": "hk-tau-b_wfpc2-1998",
@@ -95,7 +96,8 @@
     "arxiv": null,
     "bibcode": "1998ApJ...502L..65S"
    },
-   "file": "images/hk-tau-b/hk-tau-b_wfpc2-1998.png"
+   "file": "images/hk-tau-b/hk-tau-b_wfpc2-1998.png",
+   "epoch": "1997-12-24"
   }
  ],
  "notes": "Edge-on circumstellar disk of the secondary in the HK Tau binary (2.3\" from A); the classic optically-thick edge-on disk (Stapelfeldt et al. 1998). Split from hk-tau on 2026-07-07.",

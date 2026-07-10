@@ -51,7 +51,8 @@
     "journal": "A&A 685, A52",
     "arxiv": "2403.02149",
     "bibcode": "2024A&A...685A..52G"
-   }
+   },
+   "epoch": "2017-05-16"
   },
   {
    "image_id": "sy-cha_sphere-ks-qphi",
@@ -71,7 +72,8 @@
     "arxiv": "2310.08589",
     "bibcode": "2023A&A...680A.114R"
    },
-   "file": "images/sy-cha/sy-cha_sphere-ks-qphi.png"
+   "file": "images/sy-cha/sy-cha_sphere-ks-qphi.png",
+   "epoch": "2021-01-02"
   },
   {
    "image_id": "sy-cha_exoalma-co",

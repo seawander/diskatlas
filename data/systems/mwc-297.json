@@ -31,7 +31,8 @@
     "journal": "AJ 164, 109",
     "arxiv": "2206.05815",
     "bibcode": "2022AJ....164..109R"
-   }
+   },
+   "epoch": "2018"
   },
   {
    "image_id": "mwc-297_lbti2020",
@@ -51,7 +52,8 @@
     "arxiv": "2011.07082",
     "bibcode": "2021AJ....161...28S"
    },
-   "file": "images/mwc-297/mwc-297_lbti2020.png"
+   "file": "images/mwc-297/mwc-297_lbti2020.png",
+   "epoch": "2018 May 31"
   },
   {
    "image_id": "mwc-297_sphere2020",
@@ -71,7 +73,8 @@
     "arxiv": "2002.01946",
     "bibcode": "2020ApJ...890L...8U"
    },
-   "file": "images/mwc-297/mwc-297_sphere2020.png"
+   "file": "images/mwc-297/mwc-297_sphere2020.png",
+   "epoch": "2018"
   }
  ],
  "notes": null,

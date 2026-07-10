@@ -31,7 +31,8 @@
     "journal": "ApJ 863, 44",
     "arxiv": "1803.10882",
     "bibcode": "2018ApJ...863...44A"
-   }
+   },
+   "epoch": "2016-03-14"
   },
   {
    "type": "disk_mm",
@@ -51,7 +52,8 @@
     "journal": "MNRAS 501, 2934",
     "arxiv": "2012.00189",
     "bibcode": "2021MNRAS.501.2934C"
-   }
+   },
+   "epoch": "2019"
   },
   {
    "type": "disk_scattered",

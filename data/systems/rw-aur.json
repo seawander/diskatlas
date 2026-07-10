@@ -1,7 +1,10 @@
 {
  "id": "rw-aur",
  "name": "RW Aur",
- "alt_names": ["HD 240764", "HIP 23873"],
+ "alt_names": [
+  "HD 240764",
+  "HIP 23873"
+ ],
  "simbad": "RW Aur",
  "ra_deg": 76.9565260346,
  "dec_deg": 30.4014381739,
@@ -31,7 +34,8 @@
     "journal": "A&A 685, A53",
     "arxiv": "2403.02158",
     "bibcode": "2024A&A...685A..53G"
-   }
+   },
+   "epoch": "2019-12-04"
   },
   {
    "type": "disk_mm",

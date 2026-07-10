@@ -34,7 +34,8 @@
     "journal": "AJ 164, 109",
     "arxiv": "2206.05815",
     "bibcode": "2022AJ....164..109R"
-   }
+   },
+   "epoch": "2018-08-16"
   },
   {
    "image_id": "mwc-614_zimpol2018",
@@ -54,7 +55,8 @@
     "arxiv": "1803.02419",
     "bibcode": "2018ApJ...855...44K"
    },
-   "file": "images/mwc-614/mwc-614_zimpol2018.png"
+   "file": "images/mwc-614/mwc-614_zimpol2018.png",
+   "epoch": "2015-06-10"
   }
  ],
  "notes": null,

@@ -31,7 +31,8 @@
     "journal": "ApJL 869, L41",
     "arxiv": "1812.04040",
     "bibcode": "2018ApJ...869L..41A"
-   }
+   },
+   "epoch": "2015-2017"
   },
   {
    "type": "disk_scattered",
@@ -51,7 +52,8 @@
     "journal": "AJ 164, 109",
     "arxiv": "2206.05815",
     "bibcode": "2022AJ....164..109R"
-   }
+   },
+   "epoch": "2017-2018"
   },
   {
    "image_id": "hd-142666_alice-f110w",
@@ -72,7 +74,8 @@
     "arxiv": "1802.07754",
     "bibcode": "2018AJ....155..179H"
    },
-   "hires_url": "https://archive.stsci.edu/prepds/alice/"
+   "hires_url": "https://archive.stsci.edu/prepds/alice/",
+   "epoch": "2005-03-13"
   },
   {
    "image_id": "hd-142666_sphere2021",
@@ -92,7 +95,8 @@
     "arxiv": "2111.07856",
     "bibcode": "2022A&A...658A.137G"
    },
-   "file": "images/hd-142666/hd-142666_sphere2021.png"
+   "file": "images/hd-142666/hd-142666_sphere2021.png",
+   "epoch": "2015-2016"
   }
  ],
  "notes": null,

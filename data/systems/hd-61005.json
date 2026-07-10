@@ -54,7 +54,8 @@
     "journal": "AJ 160, 24",
     "arxiv": "2004.13722",
     "bibcode": "2020AJ....160...24E"
-   }
+   },
+   "epoch": "2014-03-24"
   },
   {
    "type": "disk_scattered",
@@ -74,7 +75,8 @@
     "journal": "AJ 148, 59",
     "arxiv": "1406.7303",
     "bibcode": "2014AJ....148...59S"
-   }
+   },
+   "epoch": "2010-2011"
   },
   {
    "type": "disk_scattered",
@@ -135,7 +137,8 @@
     "journal": "A&A 672, A114",
     "arxiv": "2302.04273",
     "bibcode": "2023A&A...672A.114R"
-   }
+   },
+   "epoch": "2005-2006"
   },
   {
    "type": "disk_scattered",
@@ -175,7 +178,8 @@
     "journal": "A&A 672, A114",
     "arxiv": "2302.04273",
     "bibcode": "2023A&A...672A.114R"
-   }
+   },
+   "epoch": "2010-2011"
   },
   {
    "image_id": "hd-61005_alma2018",
@@ -195,7 +199,8 @@
     "journal": "ApJ 869, 75",
     "arxiv": "1812.05610",
     "bibcode": "2018ApJ...869...75M"
-   }
+   },
+   "epoch": "2013 Dec 4"
   },
   {
    "image_id": "hd-61005_alice-f110w",
@@ -216,7 +221,8 @@
     "arxiv": "1802.07754",
     "bibcode": "2018AJ....155..179H"
    },
-   "hires_url": "https://archive.stsci.edu/prepds/alice/"
+   "hires_url": "https://archive.stsci.edu/prepds/alice/",
+   "epoch": "2005-2006"
   },
   {
    "image_id": "hd-61005_gpi-crotts24",
@@ -236,7 +242,8 @@
     "journal": "ApJ 961, 245",
     "arxiv": "2311.14599",
     "bibcode": "2024ApJ...961..245C"
-   }
+   },
+   "epoch": "2014-03-24"
   },
   {
    "image_id": "hd-61005_nicmos-hines07",
@@ -256,7 +263,8 @@
     "journal": "ApJL 671, L165",
     "arxiv": null,
     "bibcode": "2007ApJ...671L.165H"
-   }
+   },
+   "epoch": "2005-2006"
   },
   {
    "image_id": "hd-61005_acs2009",
@@ -276,7 +284,8 @@
     "arxiv": "0910.5223",
     "bibcode": "2009ApJ...707.1098M"
    },
-   "file": "images/hd-61005/hd-61005_acs2009.png"
+   "file": "images/hd-61005/hd-61005_acs2009.png",
+   "epoch": "2006 Dec 19"
   },
   {
    "image_id": "hd-61005_naco2011",
@@ -297,7 +306,8 @@
     "bibcode": "2010A&A...524L...1B"
    },
    "file": "images/hd-61005/hd-61005_naco2011.png",
-   "note": "CORRECTION vs brief: this paper (arXiv 1011.2496) is VLT/NACO H-band ADI/LOCI imaging, not Gemini/NICI as labeled in the task brief -- verified in the paper text and Fig. 1 caption ('High-contrast NACO H-band images of HD 61005'). VLT-NACO was genuinely absent from hd-61005.json, so added under its correct facility name."
+   "note": "CORRECTION vs brief: this paper (arXiv 1011.2496) is VLT/NACO H-band ADI/LOCI imaging, not Gemini/NICI as labeled in the task brief -- verified in the paper text and Fig. 1 caption ('High-contrast NACO H-band images of HD 61005'). VLT-NACO was genuinely absent from hd-61005.json, so added under its correct facility name.",
+   "epoch": "2010 Feb 17"
   },
   {
    "image_id": "hd-61005_nirc22016",

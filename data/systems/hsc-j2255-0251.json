@@ -35,7 +35,8 @@
     "journal": "Nature 621, 51",
     "arxiv": "2211.14329",
     "bibcode": "2023Natur.621...51D"
-   }
+   },
+   "epoch": "2022-10-26"
   }
  ],
  "notes": "SHELLQs quasar; one of the first two z>6 quasar hosts with detected starlight (JWST/NIRCam 2D decomposition; host stellar mass ~3.4e10 Msun). Added by batch S (quasar expansion from Ren et al. 2024 intro citations). Coordinates derived from the HSC IAU designation J225538.04+025126.6; SIMBAD refinement pending via coords_todo_batchS. Batch T verified against Ding+2023 Extended Data Table 1: RA 22:55:38.04 Dec +02:51:26.60 and z=6.34 match exactly (NIRSpec [OIII] systemic z=6.333+-0.001); host detected in F356W only (F150W upper limit m_F150W>26.3).",

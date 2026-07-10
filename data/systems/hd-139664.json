@@ -35,7 +35,8 @@
     "bibcode": "2006ApJ...637L..57K"
    },
    "image_id": "hd-139664_acs2006",
-   "file": "images/hd-139664/hd-139664_acs2006.png"
+   "file": "images/hd-139664/hd-139664_acs2006.png",
+   "epoch": "2004-2006"
   },
   {
    "type": "disk_scattered",
@@ -55,7 +56,8 @@
     "journal": "AJ 148, 59",
     "arxiv": "1406.7303",
     "bibcode": "2014AJ....148...59S"
-   }
+   },
+   "epoch": "2011"
   },
   {
    "type": "disk_mm",
@@ -96,7 +98,8 @@
     "arxiv": "1802.07754",
     "bibcode": "2018AJ....155..179H"
    },
-   "hires_url": "https://archive.stsci.edu/prepds/alice/"
+   "hires_url": "https://archive.stsci.edu/prepds/alice/",
+   "epoch": "2006-2007"
   }
  ],
  "notes": null,

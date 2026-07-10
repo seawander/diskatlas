@@ -122,7 +122,8 @@
     "bibcode": "2005Natur.435.1067K"
    },
    "image_id": "fomalhaut_acs2005",
-   "file": "images/fomalhaut/fomalhaut_acs2005.png"
+   "file": "images/fomalhaut/fomalhaut_acs2005.png",
+   "epoch": "2004"
   },
   {
    "type": "planet",
@@ -205,7 +206,8 @@
     "journal": "ApJ",
     "arxiv": "1305.2222",
     "bibcode": "2013ApJ...775...56K"
-   }
+   },
+   "epoch": "2010 Sep"
   },
   {
    "image_id": "fomalhaut_herschel2012",
@@ -245,7 +247,8 @@
     "arxiv": "astro-ph/0501140",
     "bibcode": "2005ApJ...620L..47M"
    },
-   "file": "images/fomalhaut/fomalhaut_sharcii2005.png"
+   "file": "images/fomalhaut/fomalhaut_sharcii2005.png",
+   "epoch": "2004 Sep 18"
   },
   {
    "image_id": "fomalhaut_spitzer-mips",

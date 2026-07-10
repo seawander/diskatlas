@@ -36,7 +36,8 @@
     "arxiv": "2102.11481",
     "bibcode": "2021ApJ...910...75L"
    },
-   "file": "images/hh-212/hh-212_alma2021.png"
+   "file": "images/hh-212/hh-212_alma2021.png",
+   "epoch": "2017 Nov 27"
   }
  ],
  "notes": "Class 0 protostellar disk driving the HH 212 jet; ALMA 878um dust polarization (~0.03 arcsec resolution) resolves a nearly edge-on disk with V-shaped polarization structures and 'arm' features (Lin et al. 2021, arXiv:2102.11481), attributed to dichroic extinction / self-scattering by grains near the disk midplane.",

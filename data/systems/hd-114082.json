@@ -33,7 +33,8 @@
     "journal": "AJ 160, 24",
     "arxiv": "2004.13722",
     "bibcode": "2020AJ....160...24E"
-   }
+   },
+   "epoch": "2017-08-07"
   },
   {
    "type": "disk_mm",
@@ -73,7 +74,8 @@
     "journal": "A&A 704, A21",
     "arxiv": "2512.03128",
     "bibcode": "2025A&A...704A..21E"
-   }
+   },
+   "epoch": "2016-2017"
   },
   {
    "image_id": "hd-114082_gpi-crotts24",
@@ -93,7 +95,8 @@
     "journal": "ApJ 961, 245",
     "arxiv": "2311.14599",
     "bibcode": "2024ApJ...961..245C"
-   }
+   },
+   "epoch": "2017-08-07"
   },
   {
    "image_id": "hd-114082_gpi-hom24",
@@ -113,7 +116,8 @@
     "arxiv": "2402.00214",
     "bibcode": "2024MNRAS.528.6959H"
    },
-   "file": "images/hd-114082/hd-114082_gpi-hom24.png"
+   "file": "images/hd-114082/hd-114082_gpi-hom24.png",
+   "epoch": "2017-08-07"
   }
  ],
  "notes": null,

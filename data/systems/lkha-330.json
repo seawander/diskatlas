@@ -31,7 +31,8 @@
     "journal": "A&A 680, A114",
     "arxiv": "2310.08589",
     "bibcode": "2023A&A...680A.114R"
-   }
+   },
+   "epoch": "2020-12-08"
   },
   {
    "image_id": "lkha-330_seeds",
@@ -132,7 +133,8 @@
     "arxiv": "2310.08589",
     "bibcode": "2023A&A...680A.114R"
    },
-   "file": "images/lkha-330/lkha-330_sphere-ks-qphi.png"
+   "file": "images/lkha-330/lkha-330_sphere-ks-qphi.png",
+   "epoch": "2020-12-08"
   }
  ],
  "notes": null,

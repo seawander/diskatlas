@@ -33,7 +33,8 @@
     "journal": "A&A 672, A114",
     "arxiv": "2302.04273",
     "bibcode": "2023A&A...672A.114R"
-   }
+   },
+   "epoch": "2006"
   },
   {
    "type": "disk_scattered",
@@ -53,7 +54,8 @@
     "journal": "A&A 704, A21",
     "arxiv": "2512.03128",
     "bibcode": "2025A&A...704A..21E"
-   }
+   },
+   "epoch": "2016-05-25"
   },
   {
    "type": "disk_scattered",
@@ -73,7 +75,8 @@
     "journal": "A&A 672, A114",
     "arxiv": "2302.04273",
     "bibcode": "2023A&A...672A.114R"
-   }
+   },
+   "epoch": "2014-07-23"
   },
   {
    "image_id": "hd-141943_alice-f110w",
@@ -94,7 +97,8 @@
     "arxiv": "1802.07754",
     "bibcode": "2018AJ....155..179H"
    },
-   "hires_url": "https://archive.stsci.edu/prepds/alice/"
+   "hires_url": "https://archive.stsci.edu/prepds/alice/",
+   "epoch": "2006"
   },
   {
    "type": "disk_scattered",
@@ -114,7 +118,8 @@
     "journal": "AJ 160, 24",
     "arxiv": "2004.13722",
     "bibcode": "2020AJ....160...24E"
-   }
+   },
+   "epoch": "2015-04-08"
   },
   {
    "image_id": "nz-lup_sphere2019",
@@ -155,7 +160,8 @@
     "arxiv": "1404.5614",
     "bibcode": "2014ApJ...786L..23S"
    },
-   "file": "images/nz-lup/nz-lup_nicmos2014.png"
+   "file": "images/nz-lup/nz-lup_nicmos2014.png",
+   "epoch": "2006"
   },
   {
    "image_id": "nz-lup_sphere-rdi-xie22",
@@ -175,7 +181,8 @@
     "arxiv": "2208.07915",
     "bibcode": "2022A&A...666A..32X"
    },
-   "file": "images/nz-lup/nz-lup_sphere-rdi-xie22.png"
+   "file": "images/nz-lup/nz-lup_sphere-rdi-xie22.png",
+   "epoch": "2016-05-25"
   }
  ],
  "notes": null,

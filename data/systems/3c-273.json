@@ -65,7 +65,8 @@
     "journal": "AJ 125, 2964",
     "arxiv": null,
     "bibcode": "2003AJ....125.2964M"
-   }
+   },
+   "epoch": "2002-2003"
   },
   {
    "type": "quasar",
@@ -85,7 +86,8 @@
     "journal": "ApJ 450, 486",
     "arxiv": "astro-ph/9501018",
     "bibcode": "1995ApJ...450..486B"
-   }
+   },
+   "epoch": "1994-1995"
   },
   {
    "image_id": "3c-273_alma-band3",

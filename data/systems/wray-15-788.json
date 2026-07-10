@@ -39,7 +39,8 @@
     "arxiv": "1902.07723",
     "bibcode": "2019A&A...624A..87B"
    },
-   "file": "images/wray-15-788/wray-15-788_sphere2019_h.png"
+   "file": "images/wray-15-788/wray-15-788_sphere2019_h.png",
+   "epoch": "2018"
   },
   {
    "image_id": "wray-15-788_sphere2019_ks",
@@ -59,7 +60,8 @@
     "arxiv": "1902.07723",
     "bibcode": "2019A&A...624A..87B"
    },
-   "file": "images/wray-15-788/wray-15-788_sphere2019_ks.png"
+   "file": "images/wray-15-788/wray-15-788_sphere2019_ks.png",
+   "epoch": "2018"
   }
  ],
  "notes": "First-published SPHERE/IRDIS scattered-light image (VLT/SPHERE, RDI+PCA total intensity and polarized light). A bright outer ring (Ring A, ~370 mas / 56 au) with hints of an inner ring (Ring B, ~170 mas) is detected only over a limited position-angle range (60-240 deg), consistent with shadowing by a misaligned inner disk. Wray 15-788 is part of a wide binary with the A2V star HD 98363 (~5000 arcsec / ~6900 au) (Bohn et al. 2019).",

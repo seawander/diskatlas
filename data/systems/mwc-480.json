@@ -34,7 +34,8 @@
     "journal": "ApJ 869, 17",
     "arxiv": "1810.06044",
     "bibcode": "2018ApJ...869...17L"
-   }
+   },
+   "epoch": "2017 Aug 27"
   },
   {
    "type": "disk_scattered",
@@ -54,7 +55,8 @@
     "journal": "A&A 685, A53",
     "arxiv": "2403.02158",
     "bibcode": "2024A&A...685A..53G"
-   }
+   },
+   "epoch": "2018-11-17"
   },
   {
    "image_id": "mwc-480_seeds",
@@ -95,7 +97,8 @@
     "journal": "AJ (2026)",
     "arxiv": "2602.20346",
     "bibcode": "2026AJ....171..241M"
-   }
+   },
+   "epoch": "2022-11-24"
   },
   {
    "image_id": "mwc-480_alma-maps2021",
@@ -135,7 +138,8 @@
     "arxiv": "astro-ph/0607232",
     "bibcode": "2006ApJ...651..321H"
    },
-   "file": "images/mwc-480/mwc-480_bima2006.png"
+   "file": "images/mwc-480/mwc-480_bima2006.png",
+   "epoch": "2003-2004"
   },
   {
    "image_id": "mwc-480_sphere-ks-qphi",
@@ -155,7 +159,8 @@
     "arxiv": "2310.08589",
     "bibcode": "2023A&A...680A.114R"
    },
-   "file": "images/mwc-480/mwc-480_sphere-ks-qphi.png"
+   "file": "images/mwc-480/mwc-480_sphere-ks-qphi.png",
+   "epoch": "2021-12-10"
   }
  ],
  "notes": null,

@@ -51,7 +51,8 @@
     "journal": "A&A 685, A53",
     "arxiv": "2403.02158",
     "bibcode": "2024A&A...685A..53G"
-   }
+   },
+   "epoch": "2019-08-15"
   },
   {
    "image_id": "dn-tau_sphere-ks-qphi",
@@ -71,7 +72,8 @@
     "arxiv": "2310.08589",
     "bibcode": "2023A&A...680A.114R"
    },
-   "file": "images/dn-tau/dn-tau_sphere-ks-qphi.png"
+   "file": "images/dn-tau/dn-tau_sphere-ks-qphi.png",
+   "epoch": "2021-11-24"
   }
  ],
  "notes": null,

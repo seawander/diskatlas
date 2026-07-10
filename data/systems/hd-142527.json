@@ -33,7 +33,8 @@
     "journal": "AJ 164, 109",
     "arxiv": "2206.05815",
     "bibcode": "2022AJ....164..109R"
-   }
+   },
+   "epoch": "2014-04-25"
   },
   {
    "type": "disk_mm",
@@ -74,7 +75,8 @@
     "journal": "A&A 684, A73",
     "arxiv": "2404.02222",
     "bibcode": "2024A&A...684A..73D"
-   }
+   },
+   "epoch": "2012-07-18"
   },
   {
    "image_id": "hd-142527_seeds",
@@ -114,7 +116,8 @@
     "journal": "A&A 658, A183",
     "arxiv": "2112.00123",
     "bibcode": "2022A&A...658A.183B"
-   }
+   },
+   "epoch": "2017-03-19"
   },
   {
    "image_id": "hd-142527_alice-f110w",
@@ -135,7 +138,8 @@
     "arxiv": "1802.07754",
     "bibcode": "2018AJ....155..179H"
    },
-   "hires_url": "https://archive.stsci.edu/prepds/alice/"
+   "hires_url": "https://archive.stsci.edu/prepds/alice/",
+   "epoch": "2008"
   },
   {
    "image_id": "hd-142527_gpi-visao2022",
@@ -176,7 +180,8 @@
     "arxiv": "2103.08462",
     "bibcode": "2021A&A...648A.110H",
     "journal": "A&A 648, A110"
-   }
+   },
+   "epoch": "2017-06-01"
   },
   {
    "type": "disk_scattered",
@@ -217,7 +222,8 @@
     "bibcode": "2009AAS...21340903P"
    },
    "file": "images/hd-142527/hd-142527_nicmos-go11155-1um.png",
-   "hires_url": "https://www.stsci.edu/~mperrin/pdfs/poster_2009AAS_NICPOL_HAEBES.pdf"
+   "hires_url": "https://www.stsci.edu/~mperrin/pdfs/poster_2009AAS_NICPOL_HAEBES.pdf",
+   "epoch": "2008"
   },
   {
    "image_id": "hd-142527_nicmos-go11155-pol2um",
@@ -238,7 +244,8 @@
     "bibcode": "2009AAS...21340903P"
    },
    "file": "images/hd-142527/hd-142527_nicmos-go11155-pol2um.png",
-   "hires_url": "https://www.stsci.edu/~mperrin/pdfs/poster_2009AAS_NICPOL_HAEBES.pdf"
+   "hires_url": "https://www.stsci.edu/~mperrin/pdfs/poster_2009AAS_NICPOL_HAEBES.pdf",
+   "epoch": "2008"
   },
   {
    "image_id": "hd-142527_ciao2006",
