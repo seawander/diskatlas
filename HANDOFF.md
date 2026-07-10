@@ -56,10 +56,10 @@ WHAT THE 07-09 CONTINUATION DID (all committed + pushed to master):
   (replaced JHK composite; paper has TWO caption typos: band order and "January"
   epoch — trust panel labels: 2020-10-04); HD 34700 Chen+2024 Fig. 3 middle column
   → Qphi J/H/K. Mullin+2026 & HD 1160 stamps reviewed (already in / not atlas-grade).
-- OPEN: Fukagawa+2010 (HD 100546 Subaru, PASJ 62 347) is OUP-paywalled from this
-  box — user has institutional access; crop when PDF provided. system_gaps worklist
-  gems remaining: DG Tau NICMOS (Padgett+1999), T Tau Keck (Bally+2000), DISCS SMA
+- OPEN: system_gaps worklist gems remaining: T Tau Keck (Bally+2000), DISCS SMA
   maps; "Vega"↔"Vega-like" abstract collision class still needs eyeballing.
+  (Fukagawa+2010 HD 100546 Subaru: user checked it 2026-07-09 — dropped, do not
+  chase. Padgett+1999 NICMOS: done, split into 5 panels + 3 new systems.)
 
 ## Session state 2026-07-08 (previous log)
 
