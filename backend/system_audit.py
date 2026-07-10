@@ -61,6 +61,14 @@ TITLE_NEG = re.compile(
 # far-IR facilities that almost never *resolve* a disk -> don't treat as a headline
 # instrument gap (still listed, just not boosted/flagged as NEW-INSTR).
 LOWRES = {"HERSCHEL", "PACS", "SPITZER"}
+# disk/companion context REQUIRED in title+abstract. Short catalog names (DO Tau,
+# T Tau, AS 205, SO 844...) collide with cosmology/quasar/RV-survey abstracts in
+# ADS abs: search -- e.g. abs:"DO Tau" matched Planck 2018. Those never pass this.
+DISK_CTX = re.compile(
+    r"\b(circumstellar|protoplanetary|planet-?forming|transition(al)? dis[ck]|"
+    r"debris dis[ck]|dis[ck] around|the dis[ck]|young stellar object|YSO|"
+    r"T Tauri|Herbig|pre-main[- ]sequence|protostar|companion|substellar|"
+    r"brown dwarf|(exo)?planet|jet|outflow|envelope)\b", re.I)
 
 
 def ads_token():
@@ -136,7 +144,7 @@ def audit_system(tok, f, top, min_cites, refresh):
             continue
         blob = title + " " + x.get("abstract", "")
         facs = {m.upper() for m in FACRE.findall(blob)}
-        if not (POS.search(blob) and facs):         # the gate
+        if not (POS.search(blob) and facs and DISK_CTX.search(blob)):   # the gate
             continue
         cites = x.get("citation_count", 0) or 0
         if cites < min_cites:
