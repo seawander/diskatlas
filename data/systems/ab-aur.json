@@ -17,8 +17,8 @@
  "planets": [
   {
    "name": "b",
-   "status": "candidate",
-   "note": "Currie+2022 NIR/UV point source; disputed: UV-optical emission is consistent with scattered starlight (Zhou et al. 2023) and deep Pabeta imaging shows no accretion signal (Biddle et al. 2024).",
+   "status": "disputed",
+   "note": "Currie+2022 NIR/UV point source, defended with VLT/MUSE Halpha (Currie+2025); DISPUTED: UV-optical emission consistent with scattered starlight (Zhou+2023), deep Pa-beta non-detection (Biddle+2024), and HST Halpha variability inconsistent with steady protoplanetary accretion (Bowler+2025).",
    "paper": {
     "first_author": "Currie",
     "year": 2022,
@@ -42,6 +42,22 @@
      "journal": "AJ 167, 172",
      "arxiv": "2402.12601",
      "bibcode": "2024AJ....167..172B"
+    },
+    {
+     "first_author": "Currie",
+     "year": 2025,
+     "arxiv": "2508.18351",
+     "bibcode": "2025ApJ...990L..42C",
+     "journal": "ApJL 990, L42",
+     "title": "VLT/MUSE Detection of the AB Aurigae b Protoplanet with H-alpha Spectroscopy"
+    },
+    {
+     "first_author": "Bowler",
+     "year": 2025,
+     "arxiv": "2502.14736",
+     "bibcode": "2025AJ....169..258B",
+     "journal": "AJ 169, 258",
+     "title": "H-alpha Variability of AB Aur b with the Hubble Space Telescope: Probing the Nature of the Emission"
     }
    ]
   }
