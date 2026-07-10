@@ -32,9 +32,9 @@ images/             ← _sources/ (downloaded figures) + <system_id>/*.png (crop
 
 Every folder has its own `README.md` with update instructions for humans **and** AI agents.
 
-**Resuming in a new AI session?** Read `HANDOFF.md` (full project design, environment
-quirks, lessons learned, pending work) and use the ready-made prompts in
-`CONTINUATION_PROMPTS.md`.
+**Resuming in a new AI session?** `CLAUDE.md` auto-loads and routes you: ironclad
+rules + a task→doc table so you only read what the task needs. Full method:
+`HANDOFF.md` (~3k tokens). Session history: `grep docs/HISTORY.md` — never load it whole.
 
 ## Contributing / 欢迎共建
 
@@ -57,10 +57,11 @@ all-sky atlas of resolved circumstellar disks (protoplanetary, debris, edge-on, 
 eruptive, proplyds, far-IR-resolved), directly imaged planets/BD companions, and
 coronagraphic quasar hosts. `python3 backend/build.py` prints the live statistics.
 
-FIRST, orient yourself:
-1. Read HANDOFF.md completely (architecture, parallel-agent ingestion method, crop
-   discipline, the THREE bookkeeping ledgers, data conventions), then skim README.md,
-   data/README.md, and data/ingestion_status.json.
+FIRST, orient yourself (token discipline — do NOT read everything):
+1. CLAUDE.md auto-loads (rules + task→doc routing). Read ONLY the one doc your
+   task needs (records/crops → HANDOFF.md; schema → data/README.md; UI →
+   frontend/README.md). Never load data/paper_finder/candidates.md,
+   frontend/data.js, or docs/HISTORY.md (grep the latter).
 2. Run `python3 backend/validate.py && python3 backend/build.py`; confirm 0 errors.
 
 STANDING RULES: verify every paper's arXiv id + figure FROM THE SOURCE, never from
@@ -76,8 +77,7 @@ MY TASK: <paste arXiv links / bibcodes to ingest, or "run the weekly maintenance
 for a status report>
 ```
 
-The long-form version of this prompt (with per-task playbooks) is in
-`CONTINUATION_PROMPTS.md`; the complete agent handbook is `HANDOFF.md`. The
+The complete agent handbook is `HANDOFF.md`. The
 literature-crawling Skill ships with the repo in `.claude/skills/diskatlas-paper-finder/`
 (also packaged as `diskatlas-paper-finder.skill`), so "find new papers for the atlas" works
 out of the box in Claude Code. When contributing images, respect the licensing note below:
@@ -105,12 +105,14 @@ python3 parse_simbad.py && python3 extract_sources.py \
 (If ever run in a network-isolated sandbox, run `fetch_sources.sh` on a host with
 internet instead — everything else is the same.)
 
-## Current contents (2026-07-09 build) / 当前规模
+## Current contents (2026-07-10 build) / 当前规模
 
-**464 systems (incl. quasar hosts, embedded Class 0/I protostars, Orion proplyds and
-evolved-star envelopes) · 1490 image records · all with local panels · 68 imaged-companion
+**468 systems (incl. quasar hosts, embedded Class 0/I protostars, Orion proplyds and
+evolved-star envelopes) · 1500 image records · all with local panels · 68 imaged-companion
 hosts · coordinates for every system (SIMBAD idents coordinate-verified) · 0 validation
-errors / 0 warnings · every paper block carries an ADS-verified bibcode.**
+errors / 0 warnings · every paper block carries an ADS-verified bibcode · 92% of records
+carry the observation epoch (never the publication year), each with machine-readable
+provenance.**
 `python3 backend/build.py` prints the canonical live stats — trust its output over any number
 written in prose. Major 2026-07-06/07 expansions: a full instrument-level sweep over every
 system (44 parallel agents), the Tamura+2016 SEEDS Fig. 3 completion, Hom+2024 GPI total

@@ -1,480 +1,166 @@
-# HANDOFF — for the next model / agent picking up this project
+# HANDOFF — how to work on diskatlas
 
-Read this FIRST, then skim `README.md`, `backend/README.md`, `data/README.md`,
-`backend/AGENT_BRIEFS.md`, and the machine-readable to-do queue in
-`data/ingestion_status.json`. This file is the single source of truth for how to
-work on the project: architecture, environment, the ingestion method, hard-won
-gotchas, and preferences.
+Entry point for agents is `CLAUDE.md` (auto-loaded, has the task→doc routing).
+Read THIS file when you need the full working method. Session-by-session
+narrative lives in `docs/HISTORY.md` — **grep it, never load it whole**.
 
 ## What this project is
 
 An offline, double-click `index.html` all-sky atlas of every system with a
-**spatially resolved circumstellar disk** (mm/submm interferometry + high-contrast
-scattered light / thermal-IR), a **directly imaged exoplanet/companion**, or a
-**coronagraphically imaged quasar/AGN host**. Every image is a low-res crop of a
-peer-reviewed figure (or an official archive preview) with clickable **arXiv +
-SciX** citations. Pure static files — no server, no build step at runtime.
+**spatially resolved circumstellar disk** (mm/submm interferometry +
+high-contrast scattered light / thermal-IR), a **directly imaged
+exoplanet/companion**, or a **coronagraphically imaged quasar/AGN host**. Every
+image is a low-res crop of a peer-reviewed figure (or official archive preview)
+with clickable **arXiv + SciX** citations. Pure static files — no server, no
+runtime build.
 
-## Current state (2026-07-09, end of day)
+## Current state (2026-07-10)
 
-- **464 systems · 1490 image records (all with local panels) · full coords ·
-  validate.py 0 errors / 0 WARNINGS · every paper block carries an ADS-verified
-  bibcode** (`python3 backend/build.py` is always canonical). Paper-finder ledger:
-  ~567 in-atlas / ~867 explored / ~9921 known-candidate (the "known" pool is a
-  discovery-frontier count, NOT papers read).
-- Published live at **github.com/seawander/diskatlas** + GitHub Pages. Publish flow is
-  **direct push to `master`** (no PRs; `gh` is not installed). Multiple checkouts/sessions
-  commit to `master` concurrently — always `git fetch` before assuming ahead/behind.
+- **468 systems · 1500 image records (all with local panels) · validate.py
+  0 errors / 0 warnings · all bibcodes ADS-verified · epoch coverage 92.1%**
+  (`python3 backend/build.py` is always canonical for stats).
+- Live at **github.com/seawander/diskatlas** + GitHub Pages. Publish = **direct
+  push to `master`** (no PRs, `gh` not installed). Multiple sessions commit
+  concurrently — `git fetch` before assuming ahead/behind.
 
-## THE PROJECT IS IN MAINTENANCE MODE — how to continue
+## MAINTENANCE MODE — the ongoing rhythm
 
-Retrospective discovery is DONE: the citation snowball is saturated, the per-target
-ADS audit worklist is fully burned down (every flag ingested or closed with a reason),
-and the metadata is complete. The ongoing rhythm is:
+Retrospective discovery is DONE (snowball saturated, audit worklists burned
+down). Now:
 
-1. **Weekly**: `python3 backend/fresh_papers.py` (last 14 days of astro-ph.EP/SR via
-   anonymous ADS). Review the digest: for each hit, download the PDF, **VIEW the
-   figure** (metadata lies — both hits of the first digest dissolved on inspection),
-   then either ingest (crop → record → validate → build → commit) or add an
-   arXiv-id-keyed `excluded` entry to `data/paper_finder_state.json` so the digest
-   stays clean. The first digest (2026-07-09, 8 hits) is fully dispositioned.
-2. **After any big ingestion batch**: `python3 backend/audit_bibcodes.py --fix --fill`
-   (new records habitually land with `bibcode:null`), then `crop_qa.py` and eyeball
-   any MULTIPANEL flags. Keep validate at 0 errors / 0 warnings.
-3. **User-directed requests** ("add paper X, crop figure Y") remain the highest-yield
-   channel — drop everything for those.
-4. On-demand: `system_audit.py --systems <ids>` when a specific target's completeness
-   is questioned (great for HD/HR/IRAS names; short names like "T Tau" collide — see
-   the 07-09 log).
+1. **Weekly**: `python3 backend/fresh_papers.py` → review digest → VIEW each
+   figure (metadata lies) → ingest, or add an arXiv-keyed `excluded` entry to
+   `data/paper_finder_state.json`.
+2. **After any batch**: `audit_bibcodes.py --fix --fill`, then `crop_qa.py`
+   (act on MULTIPANEL flags). Keep validate at 0/0.
+3. **User-directed requests** ("add paper X, crop figure Y") outrank everything.
+4. On demand: `system_audit.py --systems <ids>` for per-target completeness
+   (good for HD/HR/IRAS names; short names like "T Tau" collide in ADS).
 
-## Session state 2026-07-10 (live log — update on every hand-off)
+## The three ledgers (do NOT create a fourth)
 
-CURRENT: 468 systems / 1500 image records / 0 errors / 0 warnings /
-**epoch coverage 92.1%** (1382 records carry an observation date).
+1. `data/systems/*.json` — ground truth; a paper is "in the atlas" iff cited here.
+2. `data/paper_finder_state.json` — dispositions for papers NOT in the atlas
+   (`excluded`/`ingested` + reason). The dedupe ledger.
+3. `data/ingestion_status.json` — per-survey status + short current-state line.
+   Longer narratives go to `docs/HISTORY.md`, ONE dated paragraph per session.
 
-07-10 ITEMS:
-- **AGE-PRO Lupus complete 10/10** (Sz 66/77/95 new systems + Sz 72 record;
-  Deng+2025 Fig. 5; compact disks flagged marginally-resolved in notes).
-- **HD 143811 AB b**: both discovery figures in full — Jones+2025 (ApJL 995,
-  L41) Fig. 1 all 3 panels AND Squicciarini+2025 (A&A 702, L10, COBREX) Fig. 1
-  all 3 PACO S/N panels; 6 records, per-panel obs epochs; both papers credited
-  on the planet (extra_papers).
-- **THE EPOCH HARVEST** — see the dedicated section below. `epoch` = OBSERVATION
-  date, never publication date; 13% → 92.1% in one pass, per-record provenance.
+`data/paper_finder/` is regenerable Skill working state (safe to delete,
+expensive to refetch). `candidates.md` there is ~330k tokens — never read it.
 
-## Observation epochs (`epoch` field) — method & maintenance
+## Observation epochs (`epoch` field)
 
-The paper's core claim is *instrument- and epoch-level* coverage, so every image
-record should carry the date the data were **taken**. The 2026-07-10 harvest
-recovered 1382/1500 (92.1%); the method, in priority order (the paper writer
-should describe it this way, numbers in `paper_Overleaf/notes_epoch_methods.md`):
+`epoch` = the date the data were **taken**, never the publication year.
+Coverage 92.1% (2026-07-10 harvest); the remaining 118 records are papers that
+state no dates AND archives are silent. Method + numbers for the manuscript:
+`paper_Overleaf/notes_epoch_methods.md`. Provenance per record:
+`data/paper_finder/epoch_provenance.json`. Audit: `backend/epoch_audit.py`.
 
-1. **The record's own paper** (~700 records). `backend/epoch_harvest.py tex`
-   parses the local arXiv sources (`images/_sources/extracted/<id>/`, fetched by
-   `backend/fetch_sources.py`): TeX comments stripped (commented-out table rows
-   poison naive regex extraction), observing-log **table rows matched by target
-   alias AND the record's instrument keyword** (multi-target surveys observe
-   different targets on different nights; multi-instrument papers different
-   cameras), context windows naming a *different* instrument rejected
-   ("foreign"), windows naming none may only vote year precision. Survey-specific
-   extractors handle odd log formats (Ren Ks star-hopping log; GPIES / Crotts /
-   Hom compact-YYMMDD; LIGHTS YYYYMMDD; DISCS bare-HIP rows; eDisk grouped
-   rows). ~290 multi-date papers and pre-arXiv classics were hand-adjudicated by
-   reading the extraction windows. Every manually REJECTED candidate is pinned
-   in the script's BLOCKLIST so re-runs stay clean.
-2. **Observatory archives** (~470 records), only where the paper states no
-   dates, always bounded by the paper date (`backend/epoch_archives.py`):
-   MAST for HST+JWST by position+instrument+filter; ESO TAP for SPHERE by
-   position; ALMA TAP by **project codes greped from the paper tex** (exact
-   per-target execution dates) falling back to position+band cones; Herschel
-   HSA TAP.
-3. **Precision is honest, never inflated**: `YYYY-MM-DD` only when all matched
-   executions cluster within ~45 d; `YYYY` when they span one calendar year;
-   `YYYY-YYYY` when the published image combines executions across years (the
-   viewer chip shows the first year; tooltip says "observations span … (combined
-   data)").
+- Precision policy: `YYYY-MM-DD` if executions cluster ≤~45 d; `YYYY` if one
+  calendar year; `YYYY-YYYY` if the image combines years.
+- Tools: `epoch_harvest.py` (tex extraction; BLOCKLIST pins rejected
+  candidates), `epoch_archives.py` (MAST/ESO/ALMA/HSA, bounded by paper date),
+  `fetch_sources.py` (arXiv source packages).
+- **RULE: every NEW record carries `epoch` at ingestion** — read the observing
+  log while the source is open. Beware: dates near a different instrument,
+  calibration/reference stars, RV/photometry, or received/accepted lines are
+  poison; instrument-impossible years (Herschel>2013, ACS/HRC>2007-01) are the
+  cheapest sanity check.
 
-Every recovered epoch has its origin + evidence snippet in
-`data/paper_finder/epoch_provenance.json` (tex:row/instr/adjudicated…,
-mast:…, eso:…, alma:code/cone, hsa). `backend/epoch_audit.py` reports coverage.
-The remaining 118 records (7.9%) are papers that state no dates AND archives are
-silent: SMA-only REASONS targets, pre-TAP BIMA/VLA/SMA classics, VLTI/PIONIER
-post-AGB, VHS tiles, a few SEEDS/CIAO images — recoverable only by per-paper
-archaeology.
-
-**Maintenance rule: every NEW record ingested from now on must carry `epoch` at
-ingestion time** (read it from the paper's observing log while you have the
-source open — it costs seconds then, hours later). Cross-checks that caught real
-errors: instrument-impossible years (a "Herschel 2015" after the 2013 cryostat
-death, an ACS date after the 2007 HRC failure), RV/calibration/reference-star
-context leaks, and one corrupt legacy value (`lkha-233` had literal "Marin
-2025", an author-year — true FOC epoch 1995-06-17 from MAST).
-
-## Session state 2026-07-09 (previous log)
-
-464 systems / 1490 image records / 0 errors / 0 warnings.
-
-FINAL 07-09 ITEMS (after the burn-down below):
-- **Metadata completion** (`audit_bibcodes.py --fill`, new mode): filled ALL 691
-  `bibcode:null` blocks from arXiv→ADS resolution + derived 149 journal strings;
-  Perrin GO-11155 poster → `2009AAS...21340903P`. First-ever 0-errors/0-WARNINGS
-  validate. `export_bibtex.py` full pass: 598 entries, no author mismatches.
-- **crop_qa full sweep**: session's 46 new crops all clean; 3 genuine MULTIPANEL
-  fixes — β Pic d 6-panel gallery (Sutlieff & Bonse 2026) → 5 per-instrument
-  records; Todorov 2010 WFPC2+NIRI 2×2 → 2 records; HR 8799 NICMOS 1998 two-roll
-  crop → panel (c) alone.
-- **`fresh_papers.py` first digest triaged** (8/8 reviewed, all excluded — CD-35
-  2722 "exosatellite" = RV periodograms; CI Tau "hidden rings" = UNRESOLVED, the
-  B3/B7 "maps" are polar R-φ plots not sky images; rest theory/transits/spectra).
-  BUG FIX: state-ledger dedupe was a silent no-op (ledger keys are Semantic
-  Scholar hashes); the sweeper now recognizes arXiv-id-keyed entries, which
-  digest reviews write. Digest for the current window returns empty.
-- **LATE 07-09 — 3 data bugs (user-reported overlapping markers + mislabel):**
-  (a) GY 91 == ISO-Oph 54 and (b) GY 21 == ISO-Oph 37 were duplicate systems at
-  identical coords (SIMBAD: both pairs are one [GY92] object) — merged the
-  iso-oph-* dupes into the GY entries and deleted them; also fixed gy-91's WRONG
-  alias "ISO-Oph 63" (that is [GY92] 109). Then (user follow-up) renamed both
-  FULLY to their ISO-Oph designations — display name, slug/id, image dirs, and
-  image_ids all `iso-oph-54` / `iso-oph-37` (the names the 4 covering papers use);
-  GY 91/21 and [GY92] 91/21 kept as searchable aliases. NOTE: `git mv a b/c.png`
-  does NOT create dir `b/` (unlike `mv`) — `mkdir -p` the destination first.
-  (c) UX Tau's `alma2020` crop was
-  actually the SPHERE J-band Qphi image (Menard 2020 Fig. 1) — relabeled it
-  VLT-SPHERE/IRDIS J and added the REAL ALMA record from the same paper's
-  Fig. B.1. Net: 466→464 systems, 1489→1490 records.
-- **Agent-doc + paper number sync (user asked, other agents offline):** the paper
-  `paper_Overleaf/ms.tex` was lagging at 466/1475 — updated abstract, census
-  table (tab:census), SIMBAD count (464 sys / 462 resolvable — G023.01-00.41
-  resolved to MSX5C G023.0126-00.4177 on 2026-07-09, leaving only the 2 HSC
-  z>6 quasars as genuine exceptions), conclusion, and
-  the dedup narrative (now names the two Oph merges); regenerated tab-coverage /
-  tab-tonight / fig-skymap / fig-census and recompiled `ms.pdf` with tectonic
-  (12 pp). All prose stats in README/HANDOFF also refreshed to 464/1490.
-  CANONICAL CENSUS (recompute with build.py + the counting snippet if editing
-  the paper): 464 systems = 262 protoplanetary + 106 debris + 19 evolved + 58
-  companion-only + 20 quasar (58 = 464 − 406 categorized; 1 system is
-  multi-category); 1490 records; 81 non-refuted companions across 68 hosts;
-  599 distinct cited papers; 38 facilities; 67 instrument families; 9921/867
-  candidates harvested/triaged.
-
-WHAT THE 07-09 CONTINUATION DID (all committed + pushed to master):
-- **Directed multi-figure adds (user-requested, high yield):** Weber+2023 SPHERE/IRDIS
-  H for AS 205 / SR 24S / FU Ori; Dasgupta+2025 ERIS L' for V960 Mon; Ren+2019 Fig. 1
-  STIS/NICMOS/GPI for HD 191089; Faramaz+2021 ALMA B7 for HR 8799; Stark+2023 STIS for
-  HD 53143; Wagner+2015 IRDIS K1/K2 + IFS Y/J/H for HD 100453. FIXED DoAr 44 Casassus
-  mislabel (crop was Fig 1b = ALMA 336 GHz, labeled SPHERE → split into correct a+b).
-- **NEW TOOL `backend/system_audit.py` — target-side completeness audit** (see the
-  `target-side-completeness-audit` memory). ADS `abs:"<name>"` per system (anonymous
-  tier has NO `object:`), gate = imaging-phrase + named-facility + DISK_CTX
-  (disk/companion context; kills the abs:"DO Tau"→Planck collisions), rank by
-  citations × instrument-novelty. Headline output = NEW-INSTR gaps. Cache + report
-  under `data/paper_finder/` (gitignored). Verified finds ingested: PDS 70 MagAO Hα
-  (Wagner+2018 — the ORIGINAL accreting-planet detection), HD 100546 MagAO Hα
-  (Follette+2017), HR 4796A MagAO Clio-2 L' + VisAO Ys (Rodigas+2015), HD 100453 NACO
-  Ks companion-B discovery (Chen+2006, non-arXiv; ADS `link_gateway/<bib>/PUB_PDF`).
-  False positives correctly skipped by VIEW-verify: Fomalhaut "Subaru" (J-band
-  non-detection), HD 100546 "ZIMPOL" (sample mention; figures are HD 142527).
-- **Miles Lucas feedback:** instrument taxonomy now `SCExAO/CHARIS` (23 records,
-  was flat CHARIS) + `SCExAO/VAMPIRES` + `SCExAO/MEC`, matching the SPHERE/<sub>
-  convention (frontend parent-prefix filtering handles it generically). His papers:
-  HD 169142 (Lucas+2025 AJ) Fig. 3 2×4 gallery → 7 per-instrument records incl. the
-  atlas' first VAMPIRES record; VAMPIRES instrument paper (Lucas+2024 PASP) → NEW
-  SYSTEM R Aqr (evolved; Hα jet+nebula); AB Aur Dykes+2024 Fig. 2 → J/H/K split
-  (replaced JHK composite; paper has TWO caption typos: band order and "January"
-  epoch — trust panel labels: 2020-10-04); HD 34700 Chen+2024 Fig. 3 middle column
-  → Qphi J/H/K. Mullin+2026 & HD 1160 stamps reviewed (already in / not atlas-grade).
-- Worklist CLOSED OUT 2026-07-09 (all four items resolved):
-  (1) "T Tau Keck (Bally+2000)" = COLLISION — ADS stems abs:"T Tau" to match
-  "T Tauri", so EVERY t-tau audit flag was about other Taurus objects; Bally 2000
-  is Orion proplyds. Lesson recorded in the target-side-completeness-audit memory.
-  (2) Vega NICMOS/Keck flags = "Vega-like" phrase collisions — coverage verified
-  complete. (3) DISCS SMA (Öberg+2011): ingested 267 GHz continuum for IM Lup +
-  HD 142527 (MY Lup flag = false positive, not in the sample). BONUS from the same
-  worklist row: Looney+2000 BIMA 2.7 mm panel-(d) maps ingested for DG Tau,
-  DG Tau B, L1551 IRS5, HL Tau, GG Tau, GM Aur (new BIMA facility for all six).
-  (4) Morales+2013: title lists the full sample (HD 70313/71722/159492/104860) —
-  all four already in the atlas; nothing left. (Fukagawa+2010: user-checked,
-  dropped. Padgett+1999: done, 5 panels + 3 new systems.)
-- **NEW TOOL `backend/fresh_papers.py` (2026-07-09)** — the forward-looking weekly
-  sweep (last N days of astro-ph.EP/SR via anonymous ADS `arxiv_class:`+`entdate:`;
-  the arXiv export API 429s this host). Flags atlas-target mentions (literal
-  word-boundary names, no stemming trap) + candidate new imaging papers; dedupes
-  against both ledgers. RUN WEEKLY: `python3 backend/fresh_papers.py` → review the
-  digest, VIEW figures, ingest. Also: `audit_bibcodes.py --fix --fill` after every
-  big batch (2026-07-09 pass filled ALL 691 null bibcodes + 149 journals → validate
-  is now 0 errors / 0 WARNINGS; keep it that way).
-- FINAL burn-down of the remaining top-of-list flags (2026-07-09, list now clean):
-  GQ Lup NACO discovery + AU Mic Keck (Liu 2004) = already in atlas (flags were
-  im-lup/beta-pic name collisions). NGC 1068 VLA = REAL gap → ingested Gallimore
-  1996 Fig. 2 VLA-A 6 cm jet map (ADS scan, no arXiv; skipped the 18 cm Fig. 1 —
-  inset-collage too tangled to crop cleanly). Verified non-imaging and skipped:
-  DG Tau STIS (jet spectroscopy), Keck-Interferometer/PTI visibilities (dg-tau,
-  mwc-297), NIR spectral library (ct-cha/dh-tau/et-cha), [Ne II] spectroscopy
-  (cs-cha/hd-34700), PDS 70 GRAVITY astrometry (no image figure), Natta 2004 VLA
-  Herbig 'search' (photometry), as-218/et-cha ALMA sample-statistics flags.
-
-## Session state 2026-07-08 (previous log)
-
-WHAT THIS SESSION DID (all committed + pushed to master):
-- **Snowball deepening then saturation.** Added the BACKWARD reference axis to
-  `find_papers.py` (`--direction both`, `cache_refs/`, `--min-year 1995`) so non-arXiv
-  classics (Grady 2005, Perrin 2009, Schneider/Augereau…) surface, not just forward
-  citations. Ran many PF/discovery batches → grew from ~405 to 462 systems (post-AGB
-  "evolved" disks, AGB/RSG, massive-YSO, edge-on protostellar, quasar-host, plus classic
-  HST/NICMOS/STIS/ACS coronagraphy). Hit genuine SATURATION: last keyword sweep was
-  ~2 hits / 700 candidates. **The user's directed "add paper X, crop figure Y" requests
-  are far higher-yield than the autonomous dragnet** — treat the snowball as a *targeted*
-  tool now, not a background crawl.
-- **Multi-panel figure splitting (big theme; see the `split-multipanel-figures` memory).**
-  Source figures that show one target at several wavelengths were often ingested as ONE
-  crop → mis-sorted (a Ks+L' strip hidden at 3.8 µm). Split ~26 records → ~74 per-band
-  records across fleets + individual asks (3C 273 Komugi 3 ALMA bands, PDS 201 Wagner LBTI
-  Ks/L'/vAPP, HD 135344B Stolker R/I/Y/J, HL Tau Mullin NIRCam 2×2, CY Tau Perez mm strip,
-  ESO Hα 569 Wolff F606W, HD 15115 CHARIS J/H/K, HIP 65426 JWST 6-band, etc.). RULE:
-  re-crop each band FROM SOURCE (don't slice the low-res combined image); one record per
-  band; DON'T split RGB composites / wavelength ranges / same-band roll angles / multi-epoch
-  galleries / "B/C"=companion-letter panels. Splitting also caught facility mislabels
-  (CY Tau "VLA" was really CARMA at 1.3/2.8 mm).
-- **New local QA tooling (runs on the DGX, token-free — use these before eyeballing):**
-  `backend/crop_qa.py` (edge-uniformity / colorbar-bleed / gutter / MULTIPANEL / `--ocr`
-  axis-text; report → `data/paper_finder/crop_qa.json`), `backend/dup_check.py` (md5
-  exact-dup reliable; `--near` GPU pHash is noisy for faint crops), `backend/audit_bibcodes.py`
-  (arxiv→ADS bibcode audit, `--fix`). GPU note: at ~1.4k small crops there is NO useful
-  GPU speedup (I/O-bound); the real bottleneck is token-judgement + source-PDF fetches.
-- **Bibcode/metadata audit** (`audit_bibcodes.py`): fixed 14 hallucinated/wrong bibcodes
-  + 4 mislabeled first-authors (AR Pup Kluska→Ertel, Orion Src I Chen→Wright, HH 212
-  Lin→Lee, BD+45 598 Farkas→Vincent), re-derived 29 journal strings. Anonymous ADS via
-  `ui.adsabs.harvard.edu/v1/accounts/bootstrap` (no token). Keep bibcodes ADS-correct;
-  resolve `bibcode:null` records opportunistically.
-- **`evolved` category added** (backend `validate.py` CATS + frontend chip/legend/hexagon
-  marker; 21 systems: post-AGB + AGB). **SPHERE instrument facet split** into
-  `SPHERE/IRDIS` · `SPHERE/ZIMPOL` · `SPHERE/IFS` (`facility_map.instr_key`); the frontend
-  INSTRUMENT facet does parent⊇children (clicking "SPHERE" matches all three).
-
-NEXT / OPEN: snowball is at diminishing returns — prefer user-directed adds. `crop_qa.py`
-GUTTER_EDGE (167) is mostly benign (edge-on disks have dark-sky edges) — screening only;
-its MULTIPANEL flags are the actionable ones. Morales 2013 has 3 more Herschel belts if
-wanted (HD 70313/71722/159492 already added; sample was 4). A local ML QA-classifier (fine-tune
-on the GB10 to replace token-costly crop eyeballing) was proposed but not built.
-## Bookkeeping — the three ledgers (do NOT create a fourth)
-
-1. **`data/systems/*.json`** — ground truth. A paper is "in the atlas" iff its arXiv id is
-   cited by some record here. The paper-finder auto-treats all of these as done.
-2. **`data/paper_finder_state.json`** — per-paper dispositions for papers NOT in the atlas:
-   `{"<arxiv>": {"status": "excluded|ingested", "reason", "date"}}`. This is the dedupe
-   ledger for the paper-finder Skill; add an entry every time you decide about a paper.
-3. **`data/ingestion_status.json`** — per-survey/batch human ledger + session notes. Keep
-   updating it after each batch, but per-paper decisions belong in ledger 2.
-`data/paper_finder/` (candidates.json/md, cache/, triage-queue.json) is regenerable working
-state for the Skill — safe to delete, expensive to refetch.
-
-## The paper-finder Skill
-
-`.claude/skills/diskatlas-paper-finder/` (user-authored SKILL.md + references;
-`scripts/find_papers.py` added 2026-07-07). Literature snowballing: seeds = every cited
-paper; expand along targets, instruments, and the citation graph BOTH directions (SciX
-index, arXiv content; the script bulk-harvests forward citations via Semantic Scholar with
-an on-disk cache). Triage with the relevance filter in the SKILL.md; ingest keepers through
-the standard crop pipeline; print a per-paper report block in chat for every disposition;
-mark ledger 2 via `find_papers.py --mark`. ~340 hub-ranked candidates remained queued in
-`data/paper_finder/triage-queue.json` at the end of the 2026-07-07 session.
-
-## How to pick up (quick start)
+## Quick start
 
 ```bash
-python3 backend/validate.py && python3 backend/build.py   # confirm 0 errors, see stats
+python3 backend/validate.py && python3 backend/build.py   # 0 errors + stats
 ```
-Then: read `data/ingestion_status.json` (`pending_actions`, `known_missing`,
-per-survey `notes`) for what's queued. The user typically (a) pastes arXiv links
-to ingest, (b) asks for a comprehensiveness sweep, or (c) asks for a frontend tweak.
+Then read `data/ingestion_status.json` (`pending_actions`, `known_missing`,
+per-survey `notes`).
 
-## Environment (IMPORTANT — differs from the original sandbox handoff)
+## Environment
 
-- **This DGX session (`/home/brinen2spark/Developments/diskatlas`) HAS live internet
-  from bash** — arxiv.org, aanda.org, and SIMBAD are directly reachable via `curl`.
-  So you can run the whole pipeline yourself: `cd backend && bash fetch_sources.sh`
-  downloads every referenced arXiv tarball + `fetch_extra.txt` PDFs + SIMBAD coords.
-  No host hand-off is needed. (The repo still supports the old isolated-sandbox flow
-  where the user runs `fetch_sources.sh` on a networked host — treat that as a
-  fallback if `curl https://arxiv.org` ever fails here.)
-- Tools available: `pdftoppm`, `pdfinfo`, ImageMagick `convert`, ghostscript `gs`
-  (EPS → PNG: `gs -dEPSCrop -sDEVICE=png16m -r200`), Python + Pillow. Node is NOT
-  installed (so `backend/test_frontend_logic.js` can't run here — verify the
-  frontend via a preview server instead: `python3 -m http.server`).
-- **Captcha/paywall reality**: IOP/AAS journal PDFs via `curl` return a **14367-byte
-  captcha page** (the tell-tale size). ADS `link_gateway` targets, best→worst for curl:
-  `EPRINT_PDF` (→ arXiv, best), `PUB_PDF` (works for A&A/AJ open-access, captcha for
-  IOP ApJ/ApJL), `ADS_PDF` (scanned pre-~2005 only). Genuinely captcha-locked PDFs
-  (e.g. recent ApJ, Nature/Science with no arXiv) need the user to browser-download
-  into `images/_sources/extra/<name>.pdf` — give them the exact filename.
-- A failed download can leave a garbage file that BLOCKS re-fetch (`fetch_sources.sh`
-  skips existing files). Delete the bad file first; PDFs <20 KB are almost always HTML.
+- This DGX checkout has **live internet from bash** (arxiv.org, SIMBAD, ADS).
+  Run the whole pipeline locally; prefer local compute over token spend.
+- Tools: `pdftoppm`, `pdfinfo`, ImageMagick, ghostscript, Python+Pillow,
+  astroquery. No Node (verify frontend via `python3 -m http.server`).
+- **Paywalls**: IOP/AAS PDFs via curl → 14367-byte captcha page. Best→worst ADS
+  gateways for curl: `EPRINT_PDF` → `PUB_PDF` (A&A/AJ ok, IOP captcha) →
+  `ADS_PDF` (scans). Captcha-locked → ask the user to browser-download to
+  `images/_sources/extra/<name>.pdf` (give the exact filename).
+- A failed download leaves a garbage file that blocks re-fetch — delete it
+  first; PDFs <20 KB are almost always HTML.
+- Anonymous ADS token: `ui.adsabs.harvard.edu/v1/accounts/bootstrap`.
 
-## The pipeline (scripts in backend/)
+## Pipeline (scripts in backend/)
 
 ```
-seeds/*.py ─┐
-            ├─ make_systems.py (+ data/coords_cache.json) → data/systems/*.json
-new JSON ───┘
-data/systems/*.json → gen_fetch_script.py → fetch_sources.sh  (run in backend/)
-   → images/_sources/arxiv/<id>.tar + extra PDFs + data/simbad_raw.txt
-parse_simbad.py → data/coords_cache.json         (coords/plx/sptype/UBVGRIJHK mags)
-extract_sources.py → images/_sources/extracted/<id>/   (tar → tex+figs, or PDF)
-crop → images/<sid>/<image_id>.png (≤560–640 px, ≤300 KB PNG)
-merge_staging.py  (folds data/staging/*.json image records into data/systems/*.json)
-validate.py && build.py → frontend/data.js (+ stats)
-coverage_audit.py → data/coverage_todo.md
+seeds/*.py + new JSON → make_systems.py → data/systems/*.json
+gen_fetch_script.py → fetch_sources.sh → images/_sources/… + simbad_raw.txt
+parse_simbad.py → data/coords_cache.json
+extract_sources.py → images/_sources/extracted/<id>/
+crop → images/<sid>/<image_id>.png   (panel-only, ≤480 px, ≤300 KB)
+merge_staging.py → validate.py → build.py → frontend/data.js
 ```
-- `gen_fetch_script.py` collects every arXiv id in `seeds` + `data/systems/*.json`
-  images, adds `backend/fetch_extra.txt` (`URL<TAB>dest` for non-arXiv sources), and
-  writes the SIMBAD `sim-script` for every system whose `ra_deg` is null.
-- `merge_staging.py`: a staging record = image-record fields + `system_id`. Existing
-  `image_id`s are **updated in place** (only non-null staging fields win). New systems
-  get a minimal shell. So to fill a `file:null` record without clobbering its metadata,
-  stage just `{system_id, image_id, file, credit}`.
 
-### Pipeline gotchas (each has bitten past sessions)
-- **Coords for non-seed systems**: `make_systems.py` applies `coords_cache` ONLY to
-  seed systems. Systems you create directly as JSON must have ra/dec/plx/mags/sptype
-  filled DIRECTLY from `data/coords_cache.json` with a small script after `parse_simbad.py`.
-  For objects whose designation encodes coordinates (e.g. `HSC Jhhmmss.ss±ddmmss.s`,
-  SHELLQs quasars), parse RA/Dec straight from the name — SIMBAD may not resolve them.
-- **Deleting a record permanently**: remove it from BOTH the system JSON and any seed
-  that generated it, else `make_systems.py` resurrects it.
-- **image_id**: `<sysid>_<slug>` — survey members use the survey slug; singles use
-  `<facility/instrument-slug><year>` (e.g. `hd-163296_stis2000`, `2m1207_nicmos2006`).
-  Keep consistent to avoid duplicates.
-- **Wrong-system assignment**: a sweep agent once put V1247 Ori's ALMA image on PDS 201
-  (same first author, different target). Always confirm the paper's target matches the
-  system — the crop VIEW step catches this.
+Gotchas (each has bitten):
+- `make_systems.py` applies coords_cache ONLY to seed systems — direct-JSON
+  systems need coords filled by script. Coordinate-encoding names (HSC J…)
+  parse RA/Dec from the name; SIMBAD may not resolve them.
+- Deleting a record: remove from system JSON AND its seed, else it resurrects.
+- `image_id` = `<sysid>_<slug>`; survey members use the survey slug.
+- Always confirm the paper's target matches the system (VIEW catches it).
+- `merge_staging.py` updates existing image_ids in place (non-null fields win) —
+  to fill a `file:null` record, stage just `{system_id,image_id,file,credit}`.
+- `git mv a b/c.png` does NOT create `b/` — `mkdir -p` first.
 
-## Ingesting via parallel agents (the modern, primary method)
+## Ingesting via parallel agents (primary method for batches)
 
-Batches are done with background subagents (the Agent tool in Claude Code; historically
-called the "Workflow tool"), not by hand. Two patterns, both battle-proven:
+Two patterns: (1) research/verify sweep — one agent per paper cluster, verify
+arXiv ids from source (never memory), return structured findings; (2) crop
+workflow — one agent per figure: render, **VIEW with Read** (panel labels are
+the only ground truth), crop, VIEW the saved crop, return
+`{system_id,image_id,file,credit,ok}`. Orchestrator writes ONE staging file.
 
-1. **Research/verify sweep** — one agent per paper cluster or per system-chunk. Each
-   agent WebSearches, VERIFIES the arXiv id by fetching its abstract (title+author
-   match — never trust an id from memory), and returns a **structured** finding
-   (arxiv, figure, target, instrument metadata, ingestable?). You then add records.
-2. **Crop workflow** — one agent per source figure/record. Each agent renders the
-   figure (`pdftoppm`/`gs`), **VIEWs it with the Read tool** (panel labels are the only
-   ground truth), crops the right panel, saves to `images/<sid>/<image_id>.png`, VIEWs
-   the saved crop to self-verify, and returns `{system_id, image_id, file, credit, ok}`.
-   You collect the ok crops, write ONE staging file, merge, build.
+Fleet gotchas: hardcode file paths in prompts; export.arxiv.org 429s under
+fleet load (fallback: abs-page HTML meta / pdf / Semantic Scholar); parallel
+curl truncates PDFs at 4 MiB (check `pdfinfo`, refetch sequentially); agents
+sometimes stop after spawning children (SendMessage: "do it synchronously,
+reconcile disk first"); always reconcile results against disk; two agents can
+create the same system — re-`ls data/systems/` before writes.
 
-**Agent-fleet gotchas (critical, each has bitten):**
-- **Hardcode file paths in agent prompts** (chunk file in, result file out); never rely on
-  argument propagation. Write shared briefs (crop rules, schema) to one scratchpad file and
-  have every agent read it.
-- **export.arxiv.org rate-limits hard (HTTP 429) when tens of agents share one IP.**
-  Working fallbacks: `arxiv.org/abs/<id>` HTML meta tags (citation_title/author),
-  `arxiv.org/pdf/<id>`, Semantic Scholar API. The orchestrator re-verifies every id
-  centrally anyway; crop-VIEW is the content check of last resort.
-- **Parallel `curl` PDFs get silently truncated** (exactly 4 MiB, or corrupt xref). Check
-  `pdfinfo` after download; re-fetch sequentially with `--max-time 90` on failure.
-- **Agents sometimes spawn their own background children and stop ("I'll wait")** — the
-  completion notification fires but the work is half-done. Resume them with SendMessage:
-  "do it yourself synchronously; reconcile what your children left on disk first."
-- Some crop agents die after saving PNGs — always **reconcile against disk** (the
-  reconcile.py pattern: result JSONs + PNG existence + id-collision checks) rather than
-  trusting returned JSON.
-- New-system agents may both create the same system when batches overlap — instruct
-  re-`ls data/systems/` right before each write, and spot-check after.
+## Crop discipline (full protocol: backend/AGENT_BRIEFS.md)
 
-### The instrument-level coverage sweep (comprehensiveness tool)
-The coarse `coverage_audit.py` only tracks mm/nir/planet modality gaps. The higher-value
-sweep is **instrument-level**: build a per-system inventory of existing
-`(facility/instrument)` sets, then run ~1 agent per 6-system chunk to find published
-**resolved images from instruments NOT yet represented** for each system. This found 40+
-real additions (e.g. 2M1207/NICMOS, 51 Eri/SPHERE, HR 4796A/MagAO-X, HH 30/JWST,
-NGC 1068/GRAVITY, LBTI/LMIRCam LEECH planets). Re-run periodically; the user cares about
-instrument/epoch completeness, not just filling empty modality buckets.
+Panel-only (trim axes/labels/margins; attached colorbars ok), ≤480 px longest
+side, ≤300 KB (requantize with FASTOCTREE if over). VIEW every crop before
+staging. Multi-wavelength source figures = one record per band, each re-cropped
+FROM SOURCE — never slice the combined low-res image; don't split RGB
+composites / same-band rolls / companion-letter panels. No press-release
+composites, ever. If a paper is uv-plane-only (no image figure), drop it.
+`crop_qa.py [--ocr]` automates edge/gutter/MULTIPANEL checks.
 
-## Crop discipline (full protocol in backend/AGENT_BRIEFS.md)
-- Panel labels INSIDE figures are the ONLY ground truth for target identity — never
-  guess from position or memory.
-- VIEW every crop (Read tool) before staging. `_sources/_views/` is the scratch dir for
-  rasterized figures to Read; clean it (`rm -f images/_sources/_views/*.png`) when done.
-- **Panel-only crops (2026-07-07 rule): trim axes, tick labels and white margins — keep
-  just the image panel** (attached colorbars may stay). A batch trimmer with a safe
-  fallback for white-background contour figures lives in the session log; new crops
-  should be cut panel-only at the source.
-- Output: longest side capped at **480 px** (≈150 dpi of a typical panel; uniform across
-  the atlas), ≤300 KB. If a noisy PNG exceeds 300 KB, requantize:
-  `img.quantize(colors=256, method=Image.FASTOCTREE)`.
-- QA: the four cropped edges should each be near-uniform in color; OCR (tesseract) must
-  not find a target-name at the crop CENTER (offset-grid bug) nor axis values at edges.
-  **`python3 backend/crop_qa.py [--ocr]`** automates this over every crop (report →
-  `data/paper_finder/crop_qa.json`); its MULTIPANEL flag reliably finds un-split
-  multi-band strips (the highest-value category — GUTTER/edge flags are noisier).
-- No press-release composites, ever — only peer-reviewed figures / official archive previews.
-- If a "found" paper turns out to be uv-plane modeling with no image-plane figure, DROP
-  the record (happened with HD 141569 / White 2018).
+## Data conventions (schema: data/README.md)
 
-## Data conventions (schema in data/README.md)
-- `hires_url` (optional): external hi-res source. Set on ALICE HLSP NICMOS records →
-  `https://archive.stsci.edu/prepds/alice/`; the frontend shows a "hi-res data ↗" link
-  to it instead of the arXiv PDF.
-- Quasars: `categories:["quasar"]`, `redshift` (not `dist_pc`), `image_type:"quasar"`.
-- Citations render **arXiv + SciX** (scixplorer.org, the ADS successor) — NOT NASA ADS.
-- Transiting planets must NOT be called "imaged" (`method:"transit"`, separate from imaging).
+- Quasars: `categories:["quasar"]`, `redshift` not `dist_pc`.
+- Citations render arXiv + **SciX** (not NASA ADS).
+- Transiting companions are never "imaged" (`method:"transit"`).
+- `hires_url` for archive products (ALICE → archive.stsci.edu/prepds/alice/).
+- Categories incl. `evolved` (post-AGB/AGB). Instrument families use
+  parent/child (`SPHERE/IRDIS`, `SCExAO/CHARIS`) via `backend/facility_map.py`.
 
-## Frontend (frontend/ — pure vanilla JS, offline, file://)
-- `index.html` loads `data.js` (generated — never hand-edit), `constellations.js`,
-  `i18n.js`, `app.js`, `style.css`.
-- **Views** (top switcher): Sky map · Coverage matrix (systems × Visible/NIR/MIR/mm/Planet,
-  a live gap-finder) · Tonight (observability planner: site + date → airmass/transit + CSV).
-- **Faceted filters**: wavelength band / missing-modality / facility, driving all views.
-- **Multi-language** (`frontend/i18n.js`): 12 languages (en/zh/fr/es/de/it/ja/pt/ru/ko/hi/ar,
-  ar is RTL), persisted in localStorage. UI strings route through `t(key)` / `data-i18n`;
-  scientific data stays as-is. NEW `cat_evolved` key = the evolved category.
-- **Facets**: band / missing-modality / **Facility** (AAS facility keywords via
-  `backend/facility_map.py` incl. `Gemini:South`=Gemini S, `Gemini:Gillett`=Gemini N;
-  applied at build time as `fac_keys`; A+B images appear under both; VLT selection also
-  matches VLTI) / **Instrument** (`instr_key` families). SPHERE is split into
-  `SPHERE/IRDIS`·`SPHERE/ZIMPOL`·`SPHERE/IFS`; selecting a parent instrument matches its
-  children (parent⊇children).
-- **Light/dark theme** toggle (`body.light`, persisted; `refreshCOL()` re-reads CSS vars,
-  canvas sky uses `--sky`). **Tonight** rows link to per-object airmass.org charts
-  (obsid map in SITES). Notes auto-linkify "Author+Year" — to the **real abstract** when
-  that paper is recorded in the system (image/planet/`extra_papers`), else a SciX author
-  search (`citeIndex()` / `linkifyCitations()`); `planets[].extra_papers` also render as
-  arXiv/SciX chips. Systems with `simbad: null` get a SIMBAD coordinate-search link.
-- **Markers**: distinct SHAPE per category (● proto / ▲ debris / ◆ planet-only / ■ quasar /
-  ⬢ evolved, colorblind + B/W-print friendly), a **★ star** overlay marks imaged-**companion**
-  hosts, and a white circle marks selection. Marker size is uniform per type (image count
-  only sets fill opacity). Sky Dec axis is bounded to −90…+90 via `view.topInset`.
-- **2026-07-09 UI polish** (see `frontend/README.md` for the full map): **mobile/touch**
-  (one-finger pan, two-finger pinch-zoom, double-tap; `#sky` `touch-action:none`; facets
-  collapse by default ≤640px; search box font 16px so iOS doesn't focus-zoom, and the
-  dropdown lives inside `#topbar` so the keyboard can't cover it); **keyboard-navigable**
-  search (↑/↓/Enter); wavelength ≥300 µm shows as **mm** (`fmtWl`); **sticky** matrix/Tonight
-  header + first column; re-clicking the active Coverage/Tonight tab returns to Sky;
-  translated **constellation names** (`I18N_CONST`); opening the detail with a Facility/
-  Instrument facet active starts on **that** facility/instrument's image; **"companion"**
-  replaces "planet" in all UI strings (data keys unchanged); bottom-corner **GitHub badge**;
-  literature readout behind an **ⓘ**. RTL forces `direction:ltr` on scientific-data
-  containers so tokens like "1.6 µm NICI" aren't bidi-reordered.
-- Verify frontend changes with a preview server + eval/screenshots (Node runs the JS test
-  but the app needs none). **Bibcode audits**: resolve via **ADS anonymous bootstrap**
-  (`backend/system_audit.py`), not arXiv (rate-limited). All 1490 records were ADS-verified
-  on 2026-07-09 — SciX links across the atlas are trustworthy.
+## Frontend
+
+Vanilla JS, offline, file://-safe. `data.js` is GENERATED — never hand-edit.
+Views: Sky map / Coverage matrix / Tonight planner; faceted by band, facility
+(AAS keywords), instrument family; 12 languages; light/dark. Detail-card chips
+show the **observation epoch** as a bare bold year (tooltip = full date or
+"observations span YYYY-YYYY (combined data)"); publication year appears only
+as an italic parenthesised fallback. Full UI map: `frontend/README.md`.
 
 ## User preferences
-- **Reply in English** (the project originally used Chinese; the user switched — repo docs
-  are English regardless).
-- Active astronomer; supplies arXiv links rapid-fire and expects each ingested (record +
-  citation + VIEW-verified crop). Happily browser-downloads captcha-locked PDFs when given
-  exact filenames.
-- **Comprehensiveness is the goal**, at instrument/epoch level: multi-instrument,
-  multi-epoch, historical (back to Smith & Terrile 1984), extragalactic (quasar hosts).
-- Verify paper metadata FROM THE SOURCE, not memory. No press-release images. Redshift for
-  quasars. Keep `validate.py` at 0 errors and update `README.md` + `data/ingestion_status.json`
-  stats after each batch.
 
-## Where the current work lives
-`data/ingestion_status.json` — per-survey status + `known_missing` + `pending_actions`
-(machine-readable; update it every time you ingest). `data/coverage_todo.md` — coarse
-modality gaps (mostly genuinely unobserved). Beyond that: watch new astro-ph.EP/SR
-postings and re-run the instrument-level sweep for deeper completeness.
+- Reply in **English**. Commit messages for review-driven fixes say "internal
+  review fix" (never "referee"). Push only when the user says "gp".
+- Comprehensiveness at **instrument/epoch level** is the goal — multi-epoch,
+  historical (back to 1984), extragalactic.
+- Verify paper metadata FROM THE SOURCE, not memory. Keep validate at 0/0 and
+  refresh README + ledger stats after each batch.
+- `paper_Overleaf/` is gitignored (Overleaf-bound); paper/source PDFs stay off
+  GitHub.
