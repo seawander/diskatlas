@@ -10,3 +10,4 @@ data/paper_finder/system_audit_cache/
 data/paper_finder/system_audit_run.log
 data/paper_finder/system_audit_run.err
 data/paper_finder/system_gaps.json
+data/paper_finder/fresh_papers.json
