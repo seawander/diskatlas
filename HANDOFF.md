@@ -68,6 +68,14 @@ WHAT THE 07-09 CONTINUATION DID (all committed + pushed to master):
   (4) Morales+2013: title lists the full sample (HD 70313/71722/159492/104860) —
   all four already in the atlas; nothing left. (Fukagawa+2010: user-checked,
   dropped. Padgett+1999: done, 5 panels + 3 new systems.)
+- **NEW TOOL `backend/fresh_papers.py` (2026-07-09)** — the forward-looking weekly
+  sweep (last N days of astro-ph.EP/SR via anonymous ADS `arxiv_class:`+`entdate:`;
+  the arXiv export API 429s this host). Flags atlas-target mentions (literal
+  word-boundary names, no stemming trap) + candidate new imaging papers; dedupes
+  against both ledgers. RUN WEEKLY: `python3 backend/fresh_papers.py` → review the
+  digest, VIEW figures, ingest. Also: `audit_bibcodes.py --fix --fill` after every
+  big batch (2026-07-09 pass filled ALL 691 null bibcodes + 149 journals → validate
+  is now 0 errors / 0 WARNINGS; keep it that way).
 - FINAL burn-down of the remaining top-of-list flags (2026-07-09, list now clean):
   GQ Lup NACO discovery + AU Mic Keck (Liu 2004) = already in atlas (flags were
   im-lup/beta-pic name collisions). NGC 1068 VLA = REAL gap → ingested Gallimore
