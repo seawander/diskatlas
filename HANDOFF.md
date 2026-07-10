@@ -347,14 +347,29 @@ instrument/epoch completeness, not just filling empty modality buckets.
   children (parent⊇children).
 - **Light/dark theme** toggle (`body.light`, persisted; `refreshCOL()` re-reads CSS vars,
   canvas sky uses `--sky`). **Tonight** rows link to per-object airmass.org charts
-  (obsid map in SITES). Notes auto-linkify "Author+Year" to SciX searches;
-  `planets[].extra_papers` render as extra arXiv/SciX links. Systems with `simbad: null`
-  get a SIMBAD coordinate-search link instead of an Ident link.
+  (obsid map in SITES). Notes auto-linkify "Author+Year" — to the **real abstract** when
+  that paper is recorded in the system (image/planet/`extra_papers`), else a SciX author
+  search (`citeIndex()` / `linkifyCitations()`); `planets[].extra_papers` also render as
+  arXiv/SciX chips. Systems with `simbad: null` get a SIMBAD coordinate-search link.
 - **Markers**: distinct SHAPE per category (● proto / ▲ debris / ◆ planet-only / ■ quasar /
-  ⬢ evolved, colorblind + B/W-print friendly), a **★ star** overlay marks imaged-planet
+  ⬢ evolved, colorblind + B/W-print friendly), a **★ star** overlay marks imaged-**companion**
   hosts, and a white circle marks selection. Marker size is uniform per type (image count
   only sets fill opacity). Sky Dec axis is bounded to −90…+90 via `view.topInset`.
-- Verify frontend changes with a preview server + screenshots/eval (Node isn't installed).
+- **2026-07-09 UI polish** (see `frontend/README.md` for the full map): **mobile/touch**
+  (one-finger pan, two-finger pinch-zoom, double-tap; `#sky` `touch-action:none`; facets
+  collapse by default ≤640px; search box font 16px so iOS doesn't focus-zoom, and the
+  dropdown lives inside `#topbar` so the keyboard can't cover it); **keyboard-navigable**
+  search (↑/↓/Enter); wavelength ≥300 µm shows as **mm** (`fmtWl`); **sticky** matrix/Tonight
+  header + first column; re-clicking the active Coverage/Tonight tab returns to Sky;
+  translated **constellation names** (`I18N_CONST`); opening the detail with a Facility/
+  Instrument facet active starts on **that** facility/instrument's image; **"companion"**
+  replaces "planet" in all UI strings (data keys unchanged); bottom-corner **GitHub badge**;
+  literature readout behind an **ⓘ**. RTL forces `direction:ltr` on scientific-data
+  containers so tokens like "1.6 µm NICI" aren't bidi-reordered.
+- Verify frontend changes with a preview server + eval/screenshots (Node runs the JS test
+  but the app needs none). **Bibcode audits**: resolve via **ADS anonymous bootstrap**
+  (`backend/system_audit.py`), not arXiv (rate-limited). All 1589 records were ADS-verified
+  on 2026-07-09 — SciX links across the atlas are trustworthy.
 
 ## User preferences
 - **Reply in English** (the project originally used Chinese; the user switched — repo docs

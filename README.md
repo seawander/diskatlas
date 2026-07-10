@@ -121,15 +121,19 @@ imaged-companion hosts recovered by citation chasing (PZ Tel B, VHS J1256 b, HD 
 HIP 21152 B, …), eruptive stars (Z CMa, V960 Mon, EX Lup), β Pic d, WISPIT 2 planets, and
 external-catalog cross-checks (Wikipedia list + circumstellardisks.org).
 
-**Frontend (2026-07-07):** three views — **Sky**, **Coverage matrix**, **Tonight**
+**Frontend (2026-07-09):** three views — **Sky**, **Coverage matrix**, **Tonight**
 (observability snapshot + per-target **airmass.org** night-chart links per site/date, CSV).
-Faceted filters: wavelength band / missing modality / **Facility** (normalized to AAS
-facility keywords; joint A+B images appear under both; selecting VLT also shows VLTI, not
-vice versa) / **Instrument** (54 families, most-used first). **Light/dark theme toggle**
-(persisted), **multi-language UI** (EN/中文/FR/ES), citation links to **SciX** + arXiv,
-auto-linkified "Author+Year" citations in notes, SIMBAD link per system (coordinate-search
-fallback for objects SIMBAD lacks). Crops are panel-only (axes/margins trimmed). Everything
-offline (`file://`, no CDN).
+Faceted filters: wavelength band / missing modality / **Facility** (AAS facility keywords;
+joint A+B images appear under both; VLT⊃VLTI) / **Instrument** (families, parent⊇children
+so `SPHERE`⊇`SPHERE/IRDIS` etc.), with facility↔instrument relationship highlighting.
+**Light/dark theme toggle** (persisted), **multi-language UI — 12 languages**
+(EN/中文/FR/ES/DE/IT/日本語/PT/RU/한국어/हिन्दी/العربية, incl. **right-to-left Arabic** and
+translated constellation names). Citation links to **SciX** + arXiv, auto-linkified
+"Author+Year" notes that resolve to the real abstract when the paper is recorded, SIMBAD
+link per system. **Mobile-ready**: touch pan / pinch-zoom / double-tap on the sky map,
+facets collapsed by default, keyboard-navigable search. Directly imaged objects are labelled
+**"companions"** (not "planets"). Crops are panel-only; everything offline (`file://`, no
+CDN). See `frontend/README.md` for the full feature map and conventions.
 
 ## Finding new papers / 自动找文献
 
