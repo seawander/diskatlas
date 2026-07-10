@@ -24,27 +24,37 @@
   {
    "name": "b",
    "status": "confirmed",
-   "note": "AB b: directly imaged planet orbiting the spectroscopic binary HD 143811 AB",
+   "note": "AB b: ~6 MJup directly imaged planet orbiting the spectroscopic binary HD 143811 AB; discovered independently by Jones+2025 (Gemini/GPI + Keck/NIRC2) and Squicciarini+2025 (COBREX GPI+SPHERE reanalysis)",
    "paper": {
     "first_author": "Jones",
     "year": 2025,
     "arxiv": "2509.06729",
     "bibcode": "2025ApJ...995L..41J",
     "journal": "ApJL 995, L41"
-   }
+   },
+   "method": "imaging",
+   "extra_papers": [
+    {
+     "label": "independent discovery (COBREX, GPI+SPHERE)",
+     "first_author": "Squicciarini",
+     "year": 2025,
+     "arxiv": "2509.06009",
+     "bibcode": "2025A&A...702L..10S"
+    }
+   ]
   }
  ],
  "images": [
   {
-   "image_id": "hd-143811_gpi2025",
+   "image_id": "hd-143811_gpi2016",
    "type": "planet",
    "facility": "Gemini-GPI",
    "instrument": "GPI IFS",
    "wavelength_um": 1.65,
-   "wavelength_label": "H band (2016-04-30 epoch, SNR 7.7 detection)",
+   "wavelength_label": "H band 1.65 um (Jones flux map; 2016-04-30, SNR 7.7 discovery epoch)",
    "technique": "ADI",
    "survey": null,
-   "credit": "Jones et al. 2025, Fig. 1 (crop)",
+   "credit": "Jones et al. 2025, Fig. 1 (left panel)",
    "paper": {
     "first_author": "Jones",
     "year": 2025,
@@ -53,10 +63,115 @@
     "arxiv": "2509.06729",
     "bibcode": "2025ApJ...995L..41J"
    },
-   "file": "images/hd-143811/hd-143811_gpi2025.png",
+   "file": "images/hd-143811/hd-143811_gpi2016.png",
    "epoch": "2016-04-30"
+  },
+  {
+   "image_id": "hd-143811_gpi2019",
+   "type": "planet",
+   "facility": "Gemini-GPI",
+   "instrument": "GPI IFS",
+   "wavelength_um": 1.65,
+   "wavelength_label": "H band 1.65 um (Jones flux map; 2019-08-11, SNR 3.5 re-detection)",
+   "technique": "ADI",
+   "survey": null,
+   "credit": "Jones et al. 2025, Fig. 1 (center panel)",
+   "paper": {
+    "first_author": "Jones",
+    "year": 2025,
+    "title": "HD 143811 AB b: A Directly Imaged Planet Orbiting a Spectroscopic Binary in Sco-Cen",
+    "journal": "ApJL 995, L41",
+    "arxiv": "2509.06729",
+    "bibcode": "2025ApJ...995L..41J"
+   },
+   "file": "images/hd-143811/hd-143811_gpi2019.png",
+   "epoch": "2019-08-11"
+  },
+  {
+   "image_id": "hd-143811_nirc2-2022",
+   "type": "planet",
+   "facility": "Keck-NIRC2",
+   "instrument": "NIRC2",
+   "wavelength_um": 3.78,
+   "wavelength_label": "L' band 3.78 um (Jones flux map; 2022-06-10, SNR 3.9)",
+   "technique": "ADI",
+   "survey": null,
+   "credit": "Jones et al. 2025, Fig. 1 (right panel)",
+   "paper": {
+    "first_author": "Jones",
+    "year": 2025,
+    "title": "HD 143811 AB b: A Directly Imaged Planet Orbiting a Spectroscopic Binary in Sco-Cen",
+    "journal": "ApJL 995, L41",
+    "arxiv": "2509.06729",
+    "bibcode": "2025ApJ...995L..41J"
+   },
+   "file": "images/hd-143811/hd-143811_nirc2-2022.png",
+   "epoch": "2022-06-10"
+  },
+  {
+   "image_id": "hd-143811_squic-gpi2016",
+   "type": "planet",
+   "facility": "Gemini-GPI",
+   "instrument": "GPI IFS",
+   "wavelength_um": 1.65,
+   "wavelength_label": "H band 1.65 um (PACO S/N map, COBREX; 2016-04-30, S/N 5.4)",
+   "technique": "ADI",
+   "survey": null,
+   "credit": "Squicciarini et al. 2025, Fig. 1 (left panel)",
+   "paper": {
+    "first_author": "Squicciarini",
+    "year": 2025,
+    "title": "GPI+SPHERE detection of a 6.1 M_Jup circumbinary planet around HD 143811",
+    "journal": "A&A 702, L10",
+    "arxiv": "2509.06009",
+    "bibcode": "2025A&A...702L..10S"
+   },
+   "file": "images/hd-143811/hd-143811_squic-gpi2016.png",
+   "epoch": "2016-04-30"
+  },
+  {
+   "image_id": "hd-143811_squic-gpi2019",
+   "type": "planet",
+   "facility": "Gemini-GPI",
+   "instrument": "GPI IFS",
+   "wavelength_um": 1.65,
+   "wavelength_label": "H band 1.65 um (PACO S/N map, COBREX; 2019-08-10, S/N 3.5)",
+   "technique": "ADI",
+   "survey": null,
+   "credit": "Squicciarini et al. 2025, Fig. 1 (center panel)",
+   "paper": {
+    "first_author": "Squicciarini",
+    "year": 2025,
+    "title": "GPI+SPHERE detection of a 6.1 M_Jup circumbinary planet around HD 143811",
+    "journal": "A&A 702, L10",
+    "arxiv": "2509.06009",
+    "bibcode": "2025A&A...702L..10S"
+   },
+   "file": "images/hd-143811/hd-143811_squic-gpi2019.png",
+   "epoch": "2019-08-10"
+  },
+  {
+   "image_id": "hd-143811_sphere2025",
+   "type": "planet",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS",
+   "wavelength_um": 1.6,
+   "wavelength_label": "H23 1.6 um (PACO S/N map; 2025-07-24 SPHERE confirmation, S/N 17.8)",
+   "technique": "ADI",
+   "survey": null,
+   "credit": "Squicciarini et al. 2025, Fig. 1 (right panel)",
+   "paper": {
+    "first_author": "Squicciarini",
+    "year": 2025,
+    "title": "GPI+SPHERE detection of a 6.1 M_Jup circumbinary planet around HD 143811",
+    "journal": "A&A 702, L10",
+    "arxiv": "2509.06009",
+    "bibcode": "2025A&A...702L..10S"
+   },
+   "file": "images/hd-143811/hd-143811_sphere2025.png",
+   "epoch": "2025-07-24"
   }
  ],
  "notes": "HD 143811 AB is a spectroscopic binary; b is the first directly imaged planet on a non-ultra-wide orbit around a binary host.",
- "last_updated": "2026-07-06"
+ "last_updated": "2026-07-10"
 }
