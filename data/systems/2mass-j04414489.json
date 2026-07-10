@@ -33,17 +33,36 @@
  ],
  "images": [
   {
-   "image_id": "2mass-j04414489_hst2010",
    "type": "planet",
    "facility": "HST",
    "instrument": "WFPC2",
+   "technique": "imaging",
    "wavelength_um": 0.85,
-   "wavelength_label": "F850LP (discovery); confirmed with Gemini NIRI+Altair",
-   "technique": "other",
+   "wavelength_label": "F850LP (PSF-subtracted; companion B discovery)",
+   "image_id": "2mass-j04414489_wfpc2-2010",
    "survey": null,
-   "file": "images/2mass-j04414489/2mass-j04414489_hst2010.png",
+   "file": "images/2mass-j04414489/2mass-j04414489_wfpc2-2010.png",
    "credit": "Todorov et al. 2010, Fig. 1 (crop)",
-   "hires_url": null,
+   "paper": {
+    "first_author": "Todorov",
+    "year": 2010,
+    "title": "Discovery of a Planetary-mass Companion to a Brown Dwarf in Taurus",
+    "journal": "ApJL 714, L84",
+    "arxiv": "1004.0539",
+    "bibcode": "2010ApJ...714L..84T"
+   }
+  },
+  {
+   "type": "planet",
+   "facility": "Gemini-NIRI",
+   "instrument": "NIRI + Altair AO",
+   "technique": "imaging",
+   "wavelength_um": 2.12,
+   "wavelength_label": "K' 2.12 um (PSF-subtracted; companion B confirmation)",
+   "image_id": "2mass-j04414489_niri2010",
+   "survey": null,
+   "file": "images/2mass-j04414489/2mass-j04414489_niri2010.png",
+   "credit": "Todorov et al. 2010, Fig. 1 (crop)",
    "paper": {
     "first_author": "Todorov",
     "year": 2010,

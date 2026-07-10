@@ -582,15 +582,16 @@
    "file": "images/beta-pic/beta-pic_acs2006_i.png"
   },
   {
-   "image_id": "beta-pic_planetd2026",
    "type": "planet",
-   "facility": "VLT-ERIS/JWST-NIRCam/VLT-SPHERE",
-   "instrument": "ERIS + NIRCam + IRDIS (6-epoch gallery)",
-   "wavelength_um": 3.8,
-   "wavelength_label": "multi-facility, multi-epoch gallery: VLT/ERIS L' (3.8um, 2025-12-03), JWST/NIRCam F410M+F444W (2025-03-22, 2023-03-18), VLT/SPHERE H23+K12 (2020-02-08, 2019-03-11, 2014-12-08)",
+   "facility": "VLT",
+   "instrument": "ERIS/NIX",
    "technique": "ADI",
+   "wavelength_um": 3.8,
+   "wavelength_label": "L' 3.8 um (2025-12-03; d arrowed, b bright)",
+   "image_id": "beta-pic_planetd2026-eris-lp",
    "survey": null,
-   "credit": "Sutlieff et al. 2026, Fig. 1 (crop: 6-panel gallery, all epochs/facilities)",
+   "file": "images/beta-pic/beta-pic_planetd2026-eris-lp.png",
+   "credit": "Sutlieff & Bonse et al. 2026, Fig. 1 (crop)",
    "paper": {
     "first_author": "Sutlieff",
     "year": 2026,
@@ -598,8 +599,87 @@
     "journal": "arXiv e-print",
     "arxiv": "2606.23801",
     "bibcode": "2026arXiv260623801S"
-   },
-   "file": "images/beta-pic/beta-pic_planetd2026.png"
+   }
+  },
+  {
+   "type": "planet",
+   "facility": "JWST",
+   "instrument": "NIRCam",
+   "technique": "ADI",
+   "wavelength_um": 4.1,
+   "wavelength_label": "F410M 4.1 um (2025-03-22; d arrowed, high-pass filtered)",
+   "image_id": "beta-pic_planetd2026-nircam-f410m",
+   "survey": null,
+   "file": "images/beta-pic/beta-pic_planetd2026-nircam-f410m.png",
+   "credit": "Sutlieff & Bonse et al. 2026, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Sutlieff",
+    "year": 2026,
+    "title": "Direct Imaging Discovery of Giant Exoplanet β Pictoris d: A Decade-Long Game of Hide-and-Seek",
+    "journal": "arXiv e-print",
+    "arxiv": "2606.23801",
+    "bibcode": "2026arXiv260623801S"
+   }
+  },
+  {
+   "type": "planet",
+   "facility": "JWST",
+   "instrument": "NIRCam",
+   "technique": "ADI",
+   "wavelength_um": 4.44,
+   "wavelength_label": "F444W 4.44 um (2023-03-18; d arrowed, high-pass filtered)",
+   "image_id": "beta-pic_planetd2026-nircam-f444w",
+   "survey": null,
+   "file": "images/beta-pic/beta-pic_planetd2026-nircam-f444w.png",
+   "credit": "Sutlieff & Bonse et al. 2026, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Sutlieff",
+    "year": 2026,
+    "title": "Direct Imaging Discovery of Giant Exoplanet β Pictoris d: A Decade-Long Game of Hide-and-Seek",
+    "journal": "arXiv e-print",
+    "arxiv": "2606.23801",
+    "bibcode": "2026arXiv260623801S"
+   }
+  },
+  {
+   "type": "planet",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS",
+   "technique": "ADI",
+   "wavelength_um": 1.6,
+   "wavelength_label": "H23 1.6 um (2020-02-08; d arrowed)",
+   "image_id": "beta-pic_planetd2026-sphere-h23",
+   "survey": null,
+   "file": "images/beta-pic/beta-pic_planetd2026-sphere-h23.png",
+   "credit": "Sutlieff & Bonse et al. 2026, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Sutlieff",
+    "year": 2026,
+    "title": "Direct Imaging Discovery of Giant Exoplanet β Pictoris d: A Decade-Long Game of Hide-and-Seek",
+    "journal": "arXiv e-print",
+    "arxiv": "2606.23801",
+    "bibcode": "2026arXiv260623801S"
+   }
+  },
+  {
+   "type": "planet",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS",
+   "technique": "ADI",
+   "wavelength_um": 2.2,
+   "wavelength_label": "K12 2.2 um (2019-03-11; d arrowed)",
+   "image_id": "beta-pic_planetd2026-sphere-k12",
+   "survey": null,
+   "file": "images/beta-pic/beta-pic_planetd2026-sphere-k12.png",
+   "credit": "Sutlieff & Bonse et al. 2026, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Sutlieff",
+    "year": 2026,
+    "title": "Direct Imaging Discovery of Giant Exoplanet β Pictoris d: A Decade-Long Game of Hide-and-Seek",
+    "journal": "arXiv e-print",
+    "arxiv": "2606.23801",
+    "bibcode": "2026arXiv260623801S"
+   }
   },
   {
    "image_id": "beta-pic_planetd-jwst2026",

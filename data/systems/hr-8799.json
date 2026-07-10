@@ -428,7 +428,7 @@
    "facility": "HST",
    "instrument": "NICMOS",
    "wavelength_um": 1.6,
-   "wavelength_label": "F160W 1.6 um archival re-reduction (1998 epoch)",
+   "wavelength_label": "F160W 1.6 um archival LOCI re-reduction (1998 epoch, first roll; b at 10 sigma)",
    "technique": "RDI",
    "survey": null,
    "credit": "Lafrenière et al. 2009, Fig. 1 (crop)",
