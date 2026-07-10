@@ -24,7 +24,7 @@
    "wavelength_um": 1300,
    "wavelength_label": "1.3mm continuum (AGE-PRO)",
    "technique": "interferometry",
-   "survey": null,
+   "survey": "AGE-PRO",
    "credit": "Deng et al. 2025, Fig. 5 (crop: Lupus 10 / V1094 Sco)",
    "paper": {
     "first_author": "Deng",
@@ -38,7 +38,7 @@
   }
  ],
  "notes": "AUTO-CREATED from staging - fill metadata & coords Added 2026-07-08 (AGE-PRO ALMA, Vioque+2025 resolved).",
- "last_updated": "2026-07-08",
+ "last_updated": "2026-07-10",
  "plx_mas": null,
  "mags": null
 }
