@@ -218,6 +218,23 @@ Three parts, three answers:
   line and full citation for scholarly reference. Follow each record's links
   (arXiv / SciX / DOI) for the originals and for any reuse permissions.
 
+## Disclaimer & fair-use statement / 免责声明与合理使用
+
+`diskatlas` is a **non-commercial, not-for-profit** resource created solely for scientific
+research and education. The image excerpts are small, reduced-resolution crops taken from
+the **authors' own arXiv source files** (preprint figures) — not from the journals'
+typeset versions of record — to help researchers **locate and navigate the primary
+literature**. Every excerpt carries a credit line and links back to the original paper
+(arXiv / SciX / DOI), and is not a substitute for the published article. We believe this
+constitutes fair use (17 U.S.C. § 107) / fair dealing for purposes of research and
+scholarship.
+
+We have **no intention to infringe any copyright**. All rights in the original figures
+remain with their authors (and, for the versions of record, their publishers). If you are
+a rights holder and would prefer that a particular image not appear here, please
+[open an issue](https://github.com/seawander/diskatlas/issues) and it will be removed
+promptly.
+
 ## Current ingestion state / 数据现状
 
 See `data/ingestion_status.json` (machine-readable) — per-survey status of catalog entries,
