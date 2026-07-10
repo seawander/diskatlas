@@ -41,7 +41,8 @@
     "arxiv": "2410.03823",
     "bibcode": "2024ApJ...976..132H"
    },
-   "file": "images/so-1153/so-1153_alma2024.png"
+   "file": "images/so-1153/so-1153_alma2024.png",
+   "epoch": "2023 Aug 1"
   }
  ],
  "notes": "Resolved gap+ring (D8/B17) plus an additional inferred shoulder (S34) in the Huang et al. 2024 sigma Orionis ALMA survey.",

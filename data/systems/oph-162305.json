@@ -38,7 +38,8 @@
     "journal": "A&A (2026)",
     "arxiv": "2604.11247",
     "bibcode": "2026A&A...710A.140M"
-   }
+   },
+   "epoch": "2023-06-07"
   },
   {
    "image_id": "oph-162305_alma-agepro",
@@ -58,7 +59,8 @@
     "arxiv": "2506.10731",
     "bibcode": "2025ApJ...989....2R"
    },
-   "file": "images/oph-162305/oph-162305_alma-agepro.png"
+   "file": "images/oph-162305/oph-162305_alma-agepro.png",
+   "epoch": "2022"
   }
  ],
  "notes": "Added 2026-07-06 (Martinien+2026 ALMA highly-inclined disk). Coords pending SIMBAD.",

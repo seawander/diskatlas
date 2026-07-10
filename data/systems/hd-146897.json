@@ -54,7 +54,8 @@
     "journal": "A&A 693, A151",
     "arxiv": "2501.09058",
     "bibcode": "2025A&A...693A.151M"
-   }
+   },
+   "epoch": "2014-03-23"
   },
   {
    "type": "disk_scattered",
@@ -178,7 +179,8 @@
     "arxiv": "1810.09458",
     "bibcode": "2018AJ....156..279G"
    },
-   "file": "images/hd-146897/hd-146897_scexao-charis2018.png"
+   "file": "images/hd-146897/hd-146897_scexao-charis2018.png",
+   "epoch": "2017 Aug 14"
   }
  ],
  "notes": "Merged duplicate system hip-79977 (HIP 79977 == HD 146897) on 2026-07-06.",

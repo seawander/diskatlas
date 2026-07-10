@@ -37,7 +37,8 @@
     "journal": "ApJ 1002, 17",
     "arxiv": "2603.18163",
     "bibcode": "2026ApJ..1002...17B"
-   }
+   },
+   "epoch": "2024-08-24"
   }
  ],
  "notes": "Wide (~275 pc) companion C to the LkHa 263 AB pair (EM* LkHA 263 / V* BV Ari in SIMBAD); coordinates and distance taken from the JEDIce paper's Table 1 since component C is not separately resolved in SIMBAD. Classic edge-on disk in MBM 12 / L1457, discovered by Jayawardhana et al. 2002.",

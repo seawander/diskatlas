@@ -54,7 +54,8 @@
     "journal": "PRL 117, 251101",
     "arxiv": null,
     "bibcode": "2016PhRvL.117y1101I"
-   }
+   },
+   "epoch": "2012-2016"
   },
   {
    "type": "disk_scattered",
@@ -200,7 +201,8 @@
     "arxiv": "2109.06268",
     "bibcode": "2021ApJS..257....1O"
    },
-   "file": "images/hd-163296/hd-163296_alma-maps2021.png"
+   "file": "images/hd-163296/hd-163296_alma-maps2021.png",
+   "epoch": "2018-2019"
   },
   {
    "image_id": "hd-163296_nircam2025",

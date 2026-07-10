@@ -60,7 +60,8 @@
     "journal": "A&A 693, A151",
     "arxiv": "2501.09058",
     "bibcode": "2025A&A...693A.151M"
-   }
+   },
+   "epoch": "2015-2018"
   },
   {
    "type": "disk_mm",
@@ -227,7 +228,8 @@
     "arxiv": "1204.5037",
     "bibcode": "2012A&A...540A.125A"
    },
-   "file": "images/fomalhaut/fomalhaut_herschel2012.png"
+   "file": "images/fomalhaut/fomalhaut_herschel2012.png",
+   "epoch": "2009-2012"
   },
   {
    "image_id": "fomalhaut_sharcii2005",

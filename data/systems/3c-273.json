@@ -107,7 +107,8 @@
     "arxiv": "2203.15218",
     "bibcode": "2022ApJ...930....3K"
    },
-   "file": "images/3c-273/3c-273_alma-band3.png"
+   "file": "images/3c-273/3c-273_alma-band3.png",
+   "epoch": "2018-2019"
   },
   {
    "image_id": "3c-273_alma-band6",
@@ -127,7 +128,8 @@
     "arxiv": "2203.15218",
     "bibcode": "2022ApJ...930....3K"
    },
-   "file": "images/3c-273/3c-273_alma-band6.png"
+   "file": "images/3c-273/3c-273_alma-band6.png",
+   "epoch": "2018-2019"
   },
   {
    "image_id": "3c-273_alma-band7",
@@ -147,7 +149,8 @@
     "arxiv": "2203.15218",
     "bibcode": "2022ApJ...930....3K"
    },
-   "file": "images/3c-273/3c-273_alma-band7.png"
+   "file": "images/3c-273/3c-273_alma-band7.png",
+   "epoch": "2018-2019"
   }
  ],
  "notes": "First entry of the quasar-host coronagraphy category. The brightest quasar; host imaged to 0.2 arcsec with STIS RDI.",

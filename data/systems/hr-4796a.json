@@ -57,7 +57,7 @@
    },
    "image_id": "hr-4796a_gpi2015",
    "file": "images/hr-4796a/hr-4796a_gpi2015.png",
-   "epoch": "Dec 2013"
+   "epoch": "2013 Dec"
   },
   {
    "type": "disk_scattered",
@@ -119,7 +119,8 @@
     "journal": "A&A",
     "arxiv": "2601.11708",
     "bibcode": "2026A&A...705A.195M"
-   }
+   },
+   "epoch": "2023"
   },
   {
    "type": "disk_mm",
@@ -139,7 +140,8 @@
     "journal": "A&A 693, A151",
     "arxiv": "2501.09058",
     "bibcode": "2025A&A...693A.151M"
-   }
+   },
+   "epoch": "2018-05-29"
   },
   {
    "type": "disk_scattered",
@@ -285,7 +287,8 @@
     "journal": "MNRAS 475, 4924",
     "arxiv": "1801.05429",
     "bibcode": "2018MNRAS.475.4924K"
-   }
+   },
+   "epoch": "2016-07-24"
   },
   {
    "image_id": "hr-4796a_alice-f171m",

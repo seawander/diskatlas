@@ -35,7 +35,8 @@
     "journal": "A&A 693, A151",
     "arxiv": "2501.09058",
     "bibcode": "2025A&A...693A.151M"
-   }
+   },
+   "epoch": "2017-03-28"
   },
   {
    "image_id": "hd-105211_herschel-pacs70",
@@ -55,7 +56,8 @@
     "arxiv": "1703.09348",
     "bibcode": "2017MNRAS.468.4725H"
    },
-   "file": "images/hd-105211/hd-105211_herschel-pacs70.png"
+   "file": "images/hd-105211/hd-105211_herschel-pacs70.png",
+   "epoch": "2013-01-28"
   }
  ],
  "notes": "AUTO-CREATED from staging - fill metadata & coords",

@@ -137,7 +137,8 @@
     "arxiv": null,
     "bibcode": "2013ApJ...776..111M"
    },
-   "file": "images/hd-104860/hd-104860_herschel-pacs.png"
+   "file": "images/hd-104860/hd-104860_herschel-pacs.png",
+   "epoch": "2012-03-23"
   }
  ],
  "notes": "AUTO-CREATED from staging - fill metadata & coords | ALICE archive has no combined preview for this target (confirmed 2026-07-06) - NICMOS view covered by Ren+2023 record.",

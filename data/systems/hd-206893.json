@@ -60,7 +60,8 @@
     "journal": "A&A 693, A151",
     "arxiv": "2501.09058",
     "bibcode": "2025A&A...693A.151M"
-   }
+   },
+   "epoch": "2018"
   },
   {
    "type": "disk_mm",
@@ -80,7 +81,8 @@
     "journal": "A&A",
     "arxiv": "2601.11708",
     "bibcode": "2026A&A...705A.195M"
-   }
+   },
+   "epoch": "2017-2018"
   },
   {
    "image_id": "hd-206893_alma2020",
@@ -100,7 +102,8 @@
     "journal": "MNRAS 498, 1319",
     "arxiv": "2010.12582",
     "bibcode": "2020MNRAS.498.1319M"
-   }
+   },
+   "epoch": "2018"
   },
   {
    "image_id": "hd-206893_sphere2017",

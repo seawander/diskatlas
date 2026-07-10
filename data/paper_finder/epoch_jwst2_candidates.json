@@ -1,0 +1,24 @@
+{
+ "lkha-263c_jedice": {
+  "epoch": "2024-08-24",
+  "tier": "mast-exact",
+  "snippet": "1 JWST NIRSPEC obs (any product)",
+  "file": "data/systems/lkha-263c.json",
+  "idx": 0,
+  "arxiv": null,
+  "system": "lkha-263c",
+  "instrument": "NIRSpec IFU (G395H)",
+  "src": "mast"
+ },
+ "flying-saucer_jwst-nirspec": {
+  "epoch": "2024-2025",
+  "tier": "mast-exact",
+  "snippet": "2 JWST NIRSPEC obs (any product)",
+  "file": "data/systems/flying-saucer.json",
+  "idx": 1,
+  "arxiv": null,
+  "system": "flying-saucer",
+  "instrument": "NIRSpec IFU",
+  "src": "mast"
+ }
+}

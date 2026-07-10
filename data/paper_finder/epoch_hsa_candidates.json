@@ -1,0 +1,112 @@
+{
+ "hd-71722_herschel-pacs": {
+  "epoch": "2012-03-23",
+  "tier": "hsa",
+  "snippet": "1 Herschel obs at HSA",
+  "file": "data/systems/hd-71722.json",
+  "idx": 0,
+  "arxiv": null,
+  "system": "hd-71722",
+  "instrument": "PACS",
+  "src": "hsa"
+ },
+ "hd-104860_herschel-pacs": {
+  "epoch": "2012-03-23",
+  "tier": "hsa",
+  "snippet": "1 Herschel obs at HSA",
+  "file": "data/systems/hd-104860.json",
+  "idx": 5,
+  "arxiv": null,
+  "system": "hd-104860",
+  "instrument": "PACS",
+  "src": "hsa"
+ },
+ "hd-95086_herschel-pacs2015": {
+  "epoch": "2011-08-01",
+  "tier": "hsa",
+  "snippet": "2 Herschel obs at HSA",
+  "file": "data/systems/hd-95086.json",
+  "idx": 11,
+  "arxiv": null,
+  "system": "hd-95086",
+  "instrument": "PACS",
+  "src": "hsa"
+ },
+ "vega_herschel2010": {
+  "epoch": "2009-2010",
+  "tier": "hsa",
+  "snippet": "7 Herschel obs <= paper year 2010",
+  "file": "data/systems/vega.json",
+  "idx": 5,
+  "arxiv": null,
+  "system": "vega",
+  "instrument": "PACS",
+  "src": "hsa"
+ },
+ "hd-159492_herschel-pacs": {
+  "epoch": "2012-03-01",
+  "tier": "hsa",
+  "snippet": "2 Herschel obs at HSA",
+  "file": "data/systems/hd-159492.json",
+  "idx": 0,
+  "arxiv": null,
+  "system": "hd-159492",
+  "instrument": "PACS",
+  "src": "hsa"
+ },
+ "hd-70313_herschel-pacs": {
+  "epoch": "2012-03-22",
+  "tier": "hsa",
+  "snippet": "1 Herschel obs at HSA",
+  "file": "data/systems/hd-70313.json",
+  "idx": 0,
+  "arxiv": null,
+  "system": "hd-70313",
+  "instrument": "PACS",
+  "src": "hsa"
+ },
+ "hd-113337_herschel2019": {
+  "epoch": "2012-03-23",
+  "tier": "hsa",
+  "snippet": "1 Herschel obs at HSA",
+  "file": "data/systems/hd-113337.json",
+  "idx": 0,
+  "arxiv": null,
+  "system": "hd-113337",
+  "instrument": "PACS",
+  "src": "hsa"
+ },
+ "hd-105211_herschel-pacs70": {
+  "epoch": "2013-01-28",
+  "tier": "hsa",
+  "snippet": "2 Herschel obs at HSA",
+  "file": "data/systems/hd-105211.json",
+  "idx": 1,
+  "arxiv": null,
+  "system": "hd-105211",
+  "instrument": "PACS",
+  "src": "hsa"
+ },
+ "hd-207129_herschel2011": {
+  "epoch": "2010",
+  "tier": "hsa",
+  "snippet": "3 Herschel obs at HSA",
+  "file": "data/systems/hd-207129.json",
+  "idx": 3,
+  "arxiv": null,
+  "system": "hd-207129",
+  "instrument": "PACS",
+  "src": "hsa"
+ },
+ "fomalhaut_herschel2012": {
+  "epoch": "2009-2012",
+  "tier": "hsa",
+  "snippet": "9 Herschel obs <= paper year 2012",
+  "file": "data/systems/fomalhaut.json",
+  "idx": 8,
+  "arxiv": null,
+  "system": "fomalhaut",
+  "instrument": "PACS",
+  "src": "hsa"
+ }
+}

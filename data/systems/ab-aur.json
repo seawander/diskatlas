@@ -313,7 +313,8 @@
     "arxiv": "2409.02196",
     "bibcode": "2024Natur.633...58S"
    },
-   "file": "images/ab-aur/ab-aur_alma2024.png"
+   "file": "images/ab-aur/ab-aur_alma2024.png",
+   "epoch": "2022"
   },
   {
    "type": "disk_scattered",
@@ -396,7 +397,8 @@
     "arxiv": "2508.18351",
     "bibcode": "2025ApJ...990L..42C"
    },
-   "file": "images/ab-aur/ab-aur_muse2025.png"
+   "file": "images/ab-aur/ab-aur_muse2025.png",
+   "epoch": "2022"
   },
   {
    "image_id": "ab-aur_wfc3-2022",

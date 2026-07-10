@@ -1,7 +1,11 @@
 {
  "id": "hd-38858",
  "name": "HD 38858",
- "alt_names": ["GJ 1085", "HIP 27435", "HR 2007"],
+ "alt_names": [
+  "GJ 1085",
+  "HIP 27435",
+  "HR 2007"
+ ],
  "simbad": "HD 38858",
  "ra_deg": 87.14558439635,
  "dec_deg": -4.09464494104,
@@ -31,7 +35,8 @@
     "journal": "A&A 693, A151",
     "arxiv": "2501.09058",
     "bibcode": "2025A&A...693A.151M"
-   }
+   },
+   "epoch": "2016-2017"
   }
  ],
  "notes": "AUTO-CREATED from staging - fill metadata & coords",

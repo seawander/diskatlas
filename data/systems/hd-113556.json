@@ -1,7 +1,9 @@
 {
  "id": "hd-113556",
  "name": "HD 113556",
- "alt_names": ["HIP 63886"],
+ "alt_names": [
+  "HIP 63886"
+ ],
  "simbad": "HD 113556",
  "ra_deg": 196.38584917307,
  "dec_deg": -58.535544481,
@@ -31,7 +33,8 @@
     "journal": "A&A 693, A151",
     "arxiv": "2501.09058",
     "bibcode": "2025A&A...693A.151M"
-   }
+   },
+   "epoch": "2013-12-14"
   }
  ],
  "notes": "AUTO-CREATED from staging - fill metadata & coords",

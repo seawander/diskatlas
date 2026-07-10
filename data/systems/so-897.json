@@ -41,7 +41,8 @@
     "arxiv": "2410.03823",
     "bibcode": "2024ApJ...976..132H"
    },
-   "file": "images/so-897/so-897_alma2024.png"
+   "file": "images/so-897/so-897_alma2024.png",
+   "epoch": "2023 Jul 28"
   }
  ],
  "notes": "Resolved inner cavity with a strongly asymmetric ring (previously flagged as a transition disk candidate by Hernandez et al. 2007); Huang et al. 2024 ALMA image shows a lopsided double-peaked emission structure across the major axis.",

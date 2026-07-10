@@ -34,7 +34,8 @@
     "arxiv": "2509.21701",
     "bibcode": "2025ApJ...992L..31C"
    },
-   "file": "images/svs13a/svs13a_alma2025.png"
+   "file": "images/svs13a/svs13a_alma2025.png",
+   "epoch": "2022-08-21"
   }
  ],
  "notes": "AUTO-CREATED from staging - fill metadata & coords Added 2026-07-08 (keyword discovery round 2).",

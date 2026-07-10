@@ -9,106 +9,6 @@
   "idx": 10,
   "instrument": "SMA (0.87mm) / IRAM PdBI (1.3mm, 2.8mm)"
  },
- "hd-163296_pdbi-1.3mm2007": {
-  "epoch": null,
-  "tier": "ambig",
-  "snippet": "ctx dates span years: 2001 Dec; 2003 May",
-  "arxiv": "0704.0616",
-  "system": "hd-163296",
-  "file": "/home/brinen2spark/Developments/diskatlas/data/systems/hd-163296.json",
-  "idx": 11,
-  "instrument": "SMA (0.87mm) / IRAM PdBI (1.3mm, 2.8mm)"
- },
- "hd-163296_pdbi-2.8mm2007": {
-  "epoch": null,
-  "tier": "ambig",
-  "snippet": "ctx dates span years: 2001 Dec; 2003 May",
-  "arxiv": "0704.0616",
-  "system": "hd-163296",
-  "file": "/home/brinen2spark/Developments/diskatlas/data/systems/hd-163296.json",
-  "idx": 12,
-  "instrument": "SMA (0.87mm) / IRAM PdBI (1.3mm, 2.8mm)"
- },
- "uy-aur_ciao2007": {
-  "epoch": null,
-  "tier": "ambig",
-  "snippet": "ctx dates span years: 2002 Nov 23; 2005 Nov 9",
-  "arxiv": "0705.3940",
-  "system": "uy-aur",
-  "file": "/home/brinen2spark/Developments/diskatlas/data/systems/uy-aur.json",
-  "idx": 2,
-  "instrument": "CIAO"
- },
- "pg-0953-414_acshrc2006": {
-  "epoch": null,
-  "tier": "ambig",
-  "snippet": "ctx dates span years: 2003 Aug 22; 2007 Jan 17",
-  "arxiv": "0812.2283",
-  "system": "pg-0953-414",
-  "file": "/home/brinen2spark/Developments/diskatlas/data/systems/pg-0953-414.json",
-  "idx": 1,
-  "instrument": "ACS/HRC"
- },
- "gm-aur_sma2009": {
-  "epoch": null,
-  "tier": "ambig",
-  "snippet": "ctx dates span years: 2005 Nov 5; 2006 Dec 10",
-  "arxiv": "0903.4455",
-  "system": "gm-aur",
-  "file": "/home/brinen2spark/Developments/diskatlas/data/systems/gm-aur.json",
-  "idx": 8,
-  "instrument": "SMA"
- },
- "hv-tau-c_naco2010": {
-  "epoch": null,
-  "tier": "ambig",
-  "snippet": "ctx dates span years: 2002 Dec 13; 2004 Nov 3",
-  "arxiv": "0911.3445",
-  "system": "hv-tau-c",
-  "file": "/home/brinen2spark/Developments/diskatlas/data/systems/hv-tau-c.json",
-  "idx": 2,
-  "instrument": "NACO (+ Keck/NIRC2 L')"
- },
- "pz-tel_nici2010": {
-  "epoch": null,
-  "tier": "ambig",
-  "snippet": "ctx dates span years: 2008 Dec; 2010 May",
-  "arxiv": "1007.4808",
-  "system": "pz-tel",
-  "file": "/home/brinen2spark/Developments/diskatlas/data/systems/pz-tel.json",
-  "idx": 0,
-  "instrument": "NICI"
- },
- "cq-tau_sma-0.87mm2011": {
-  "epoch": null,
-  "tier": "ambig",
-  "snippet": "ctx dates span years: 2006 Jan 15; 2008 Jan 24",
-  "arxiv": "1009.2697",
-  "system": "cq-tau",
-  "file": "/home/brinen2spark/Developments/diskatlas/data/systems/cq-tau.json",
-  "idx": 7,
-  "instrument": "SMA 850um + IRAM-PdBI mm + VLA cm"
- },
- "cq-tau_pdbi-1.3mm2011": {
-  "epoch": null,
-  "tier": "ambig",
-  "snippet": "ctx dates span years: 2006 Jan 15; 2008 Jan 24",
-  "arxiv": "1009.2697",
-  "system": "cq-tau",
-  "file": "/home/brinen2spark/Developments/diskatlas/data/systems/cq-tau.json",
-  "idx": 8,
-  "instrument": "SMA 850um + IRAM-PdBI mm + VLA cm"
- },
- "cq-tau_pdbi-2.7mm2011": {
-  "epoch": null,
-  "tier": "ambig",
-  "snippet": "ctx dates span years: 2006 Jan 15; 2008 Jan 24",
-  "arxiv": "1009.2697",
-  "system": "cq-tau",
-  "file": "/home/brinen2spark/Developments/diskatlas/data/systems/cq-tau.json",
-  "idx": 9,
-  "instrument": "SMA 850um + IRAM-PdBI mm + VLA cm"
- },
  "cq-tau_testi-7mm2011": {
   "epoch": null,
   "tier": "ambig",
@@ -139,136 +39,6 @@
   "idx": 12,
   "instrument": "SMA 850um + IRAM-PdBI mm + VLA cm"
  },
- "hd-61005_naco2011": {
-  "epoch": null,
-  "tier": "ambig",
-  "snippet": "ctx dates span years: 2005 Nov 20; 2006 Jun 18; 2010 Feb 17",
-  "arxiv": "1011.2496",
-  "system": "hd-61005",
-  "file": "/home/brinen2spark/Developments/diskatlas/data/systems/hd-61005.json",
-  "idx": 13,
-  "instrument": "NACO (ADI, LOCI)"
- },
- "hr-8799_keck2010": {
-  "epoch": null,
-  "tier": "ambig",
-  "snippet": "ctx dates span years: 2009 Aug 1; 2009 Nov 1; 2010 Jul 13; 2010 Oct 30",
-  "arxiv": "1011.4918",
-  "system": "hr-8799",
-  "file": "/home/brinen2spark/Developments/diskatlas/data/systems/hr-8799.json",
-  "idx": 3,
-  "instrument": "NIRC2"
- },
- "cd-35-2722_nici2011": {
-  "epoch": null,
-  "tier": "ambig",
-  "snippet": "ctx dates span years: 2008 Dec; 2009 Jan 16; 2009 Mar 9; 2010 Oct 31",
-  "arxiv": "1101.2893",
-  "system": "cd-35-2722",
-  "file": "/home/brinen2spark/Developments/diskatlas/data/systems/cd-35-2722.json",
-  "idx": 0,
-  "instrument": "NICI"
- },
- "hr-5999_amber2011": {
-  "epoch": null,
-  "tier": "ambig",
-  "snippet": "ctx dates span years: 2008 Feb; 2009-04-08; 2010 Jun; 2010-03-21; 2010-04-10",
-  "arxiv": "1106.4150",
-  "system": "hr-5999",
-  "file": "/home/brinen2spark/Developments/diskatlas/data/systems/hr-5999.json",
-  "idx": 0,
-  "instrument": "AMBER"
- },
- "pds-144-n_acsstis2011": {
-  "epoch": null,
-  "tier": "ambig",
-  "snippet": "row dates span years: 2006 Apr 11; 2010 Mar 3",
-  "arxiv": "1201.0173",
-  "system": "pds-144-n",
-  "file": "/home/brinen2spark/Developments/diskatlas/data/systems/pds-144-n.json",
-  "idx": 2,
-  "instrument": "ACS/STIS"
- },
- "gj-581_herschel": {
-  "epoch": null,
-  "tier": "ambig",
-  "snippet": "ctx dates span years: 2007 Aug 21; 2010 Aug 11; 2011 Aug 1; 2011 Jan 30; 2011 Jul 29",
-  "arxiv": "1211.4898",
-  "system": "gj-581",
-  "file": "/home/brinen2spark/Developments/diskatlas/data/systems/gj-581.json",
-  "idx": 0,
-  "instrument": "PACS"
- },
- "fw-tau_nirc2-2014": {
-  "epoch": null,
-  "tier": "ambig",
-  "snippet": "ctx dates span years: 2008-12-23; 2011-06-22",
-  "arxiv": "1311.7664",
-  "system": "fw-tau",
-  "file": "/home/brinen2spark/Developments/diskatlas/data/systems/fw-tau.json",
-  "idx": 0,
-  "instrument": "NIRC2 (NGS AO)"
- },
- "hr-4796a_nici2014": {
-  "epoch": null,
-  "tier": "ambig",
-  "snippet": "row dates span years: 2009 Jan 14; 2012 Apr 6",
-  "arxiv": "1404.6525",
-  "system": "hr-4796a",
-  "file": "/home/brinen2spark/Developments/diskatlas/data/systems/hr-4796a.json",
-  "idx": 19,
-  "instrument": "NICI"
- },
- "hr-4796a_nici2014-j": {
-  "epoch": null,
-  "tier": "ambig",
-  "snippet": "row dates span years: 2009 Jan 14; 2012 Apr 6",
-  "arxiv": "1404.6525",
-  "system": "hr-4796a",
-  "file": "/home/brinen2spark/Developments/diskatlas/data/systems/hr-4796a.json",
-  "idx": 21,
-  "instrument": "NICI"
- },
- "hr-4796a_nici2014-ks": {
-  "epoch": null,
-  "tier": "ambig",
-  "snippet": "row dates span years: 2009 Jan 14; 2012 Apr 6",
-  "arxiv": "1404.6525",
-  "system": "hr-4796a",
-  "file": "/home/brinen2spark/Developments/diskatlas/data/systems/hr-4796a.json",
-  "idx": 22,
-  "instrument": "NICI"
- },
- "gu-psc_discovery2014": {
-  "epoch": null,
-  "tier": "ambig",
-  "snippet": "ctx dates span years: 2011 Oct 18; 2011 Oct 21; 2011 Sep 22; 2012 Sep 1; 2012 Sep 7",
-  "arxiv": "1405.2932",
-  "system": "gu-psc",
-  "file": "/home/brinen2spark/Developments/diskatlas/data/systems/gu-psc.json",
-  "idx": 0,
-  "instrument": "GMOS-S i/z + WIRCam J (composite)"
- },
- "hd-15115_nici2014": {
-  "epoch": null,
-  "tier": "ambig",
-  "snippet": "ctx dates span years: 2009 Dec; 2011 Nov",
-  "arxiv": "1409.0710",
-  "system": "hd-15115",
-  "file": "/home/brinen2spark/Developments/diskatlas/data/systems/hd-15115.json",
-  "idx": 15,
-  "instrument": "NICI"
- },
- "oph-irs-48_seeds": {
-  "epoch": null,
-  "tier": "ambig",
-  "snippet": "ctx dates span years: 2013 May 19; 2014 Jun 9",
-  "arxiv": "1411.0671",
-  "system": "oph-irs-48",
-  "file": "/home/brinen2spark/Developments/diskatlas/data/systems/oph-irs-48.json",
-  "idx": 1,
-  "instrument": "HiCIAO"
- },
  "irc-10216_expo2015": {
   "epoch": null,
   "tier": "ambig",
@@ -278,466 +48,6 @@
   "file": "/home/brinen2spark/Developments/diskatlas/data/systems/irc-10216.json",
   "idx": 0,
   "instrument": "ExPo (Extreme Polarimeter)"
- },
- "hd-141569_nici2015": {
-  "epoch": null,
-  "tier": "ambig",
-  "snippet": "ctx dates span years: 2009-03-07; 2010-01-10; 2010-04-08; 2011-05-03",
-  "arxiv": "1504.05224",
-  "system": "hd-141569",
-  "file": "/home/brinen2spark/Developments/diskatlas/data/systems/hd-141569.json",
-  "idx": 11,
-  "instrument": "NICI"
- },
- "2mass-j0219-3925_simon2015": {
-  "epoch": null,
-  "tier": "ambig",
-  "snippet": "ctx dates span years: 2013 Nov 5; 2014 Feb 2",
-  "arxiv": "1505.01747",
-  "system": "2mass-j0219-3925",
-  "file": "/home/brinen2spark/Developments/diskatlas/data/systems/2mass-j0219-3925.json",
-  "idx": 0,
-  "instrument": "SIMON (seeing-limited, no AO)"
- },
- "mwc-758_sphere2015": {
-  "epoch": null,
-  "tier": "ambig",
-  "snippet": "ctx dates span years: 2014 Dec; 2015 Mar",
-  "arxiv": "1505.05325",
-  "system": "mwc-758",
-  "file": "/home/brinen2spark/Developments/diskatlas/data/systems/mwc-758.json",
-  "idx": 2,
-  "instrument": "IRDIS"
- },
- "dl-tau_carma2015": {
-  "epoch": null,
-  "tier": "ambig",
-  "snippet": "row dates span years: 2008 Dec 11; 2008 Dec 14; 2008 Oct 21; 2008 Oct 29; 2009 Jan 21",
-  "arxiv": "1506.03679",
-  "system": "dl-tau",
-  "file": "/home/brinen2spark/Developments/diskatlas/data/systems/dl-tau.json",
-  "idx": 3,
-  "instrument": "CARMA"
- },
- "do-tau_carma2015": {
-  "epoch": null,
-  "tier": "ambig",
-  "snippet": "row dates span years: 2007 Nov 27; 2008 Oct 18; 2008 Oct 28; 2009 Mar 27; 2009 Nov 4",
-  "arxiv": "1506.03679",
-  "system": "do-tau",
-  "file": "/home/brinen2spark/Developments/diskatlas/data/systems/do-tau.json",
-  "idx": 3,
-  "instrument": "CARMA"
- },
- "1rxs-j1609_magao2015": {
-  "epoch": "2013",
-  "tier": "year",
-  "snippet": "ctx dates same year: 2013 Apr 6",
-  "arxiv": "1506.05816",
-  "system": "1rxs-j1609",
-  "file": "/home/brinen2spark/Developments/diskatlas/data/systems/1rxs-j1609.json",
-  "idx": 1,
-  "instrument": "MagAO (VisAO)"
- },
- "doar-28_hiciao2014": {
-  "epoch": null,
-  "tier": "ambig",
-  "snippet": "ctx dates span years: 2012 Jul 9; 2014 Jun 9",
-  "arxiv": "1507.03014",
-  "system": "doar-28",
-  "file": "/home/brinen2spark/Developments/diskatlas/data/systems/doar-28.json",
-  "idx": 1,
-  "instrument": "HiCIAO"
- },
- "oph-irs-48_vla2015": {
-  "epoch": "2015 Feb",
-  "tier": "instr",
-  "snippet": "*} Observations of Oph IRS 48 at 34 GHz (9 mm) were obtained using the VLA in the CnB and B configurations in ",
-  "arxiv": "1508.01003",
-  "system": "oph-irs-48",
-  "file": "/home/brinen2spark/Developments/diskatlas/data/systems/oph-irs-48.json",
-  "idx": 5,
-  "instrument": "VLA (Ka)"
- },
- "hr-3549_naco2015": {
-  "epoch": null,
-  "tier": "ambig",
-  "snippet": "ctx dates span years: 2013 Jan; 2015 Jan",
-  "arxiv": "1509.05689",
-  "system": "hr-3549",
-  "file": "/home/brinen2spark/Developments/diskatlas/data/systems/hr-3549.json",
-  "idx": 0,
-  "instrument": "NAOS-CONICA"
- },
- "au-mic_herschel2016": {
-  "epoch": "2010 May 9",
-  "tier": "irow",
-  "snippet": "1342196038 & 9 May 2010 & PacsPhoto 70/160 (scan 135) & 5478 & $-$\\\\",
-  "arxiv": "1509.06415",
-  "system": "au-mic",
-  "file": "/home/brinen2spark/Developments/diskatlas/data/systems/au-mic.json",
-  "idx": 15,
-  "instrument": "PACS"
- },
- "cy-tau_carma-1.3mm": {
-  "epoch": "2009",
-  "tier": "year",
-  "snippet": "ctx dates same year: 2009 Dec",
-  "arxiv": "1509.07520",
-  "system": "cy-tau",
-  "file": "/home/brinen2spark/Developments/diskatlas/data/systems/cy-tau.json",
-  "idx": 3,
-  "instrument": "CARMA"
- },
- "cy-tau_carma-2.8mm": {
-  "epoch": "2009",
-  "tier": "year",
-  "snippet": "ctx dates same year: 2009 Dec",
-  "arxiv": "1509.07520",
-  "system": "cy-tau",
-  "file": "/home/brinen2spark/Developments/diskatlas/data/systems/cy-tau.json",
-  "idx": 4,
-  "instrument": "CARMA"
- },
- "hd-100453_sphere-k1-wagner2015": {
-  "epoch": "2015 Apr 10",
-  "tier": "instr",
-  "snippet": "53 B, star C). We summarize our results in $\\S$5. \\section{Observations and Data Reduction} We observed HD 100",
-  "arxiv": "1510.02212",
-  "system": "hd-100453",
-  "file": "/home/brinen2spark/Developments/diskatlas/data/systems/hd-100453.json",
-  "idx": 9,
-  "instrument": "IRDIS"
- },
- "hd-100453_sphere-k2-wagner2015": {
-  "epoch": "2015 Apr 10",
-  "tier": "instr",
-  "snippet": "53 B, star C). We summarize our results in $\\S$5. \\section{Observations and Data Reduction} We observed HD 100",
-  "arxiv": "1510.02212",
-  "system": "hd-100453",
-  "file": "/home/brinen2spark/Developments/diskatlas/data/systems/hd-100453.json",
-  "idx": 10,
-  "instrument": "IRDIS"
- },
- "hd-100453_ifs-y-wagner2015": {
-  "epoch": "2015 Apr 10",
-  "tier": "instr",
-  "snippet": "53 B, star C). We summarize our results in $\\S$5. \\section{Observations and Data Reduction} We observed HD 100",
-  "arxiv": "1510.02212",
-  "system": "hd-100453",
-  "file": "/home/brinen2spark/Developments/diskatlas/data/systems/hd-100453.json",
-  "idx": 11,
-  "instrument": "IFS"
- },
- "hd-100453_ifs-j-wagner2015": {
-  "epoch": "2015 Apr 10",
-  "tier": "instr",
-  "snippet": "53 B, star C). We summarize our results in $\\S$5. \\section{Observations and Data Reduction} We observed HD 100",
-  "arxiv": "1510.02212",
-  "system": "hd-100453",
-  "file": "/home/brinen2spark/Developments/diskatlas/data/systems/hd-100453.json",
-  "idx": 12,
-  "instrument": "IFS"
- },
- "hd-100453_ifs-h-wagner2015": {
-  "epoch": "2015 Apr 10",
-  "tier": "instr",
-  "snippet": "53 B, star C). We summarize our results in $\\S$5. \\section{Observations and Data Reduction} We observed HD 100",
-  "arxiv": "1510.02212",
-  "system": "hd-100453",
-  "file": "/home/brinen2spark/Developments/diskatlas/data/systems/hd-100453.json",
-  "idx": 13,
-  "instrument": "IFS"
- },
- "hd-104860_carma2015": {
-  "epoch": "2012 Jan 12",
-  "tier": "row",
-  "snippet": "HD 104860$^\\text{a}$ &2012 Jan 12 & 7 & $9-45$& $0.05-0.1$ & 225.472 & 0.12 & $3.19\\times 2.83$ & Titan & J115",
-  "arxiv": "1510.08890",
-  "system": "hd-104860",
-  "file": "/home/brinen2spark/Developments/diskatlas/data/systems/hd-104860.json",
-  "idx": 4,
-  "instrument": "CARMA"
- },
- "hd-377_sma2016": {
-  "epoch": "2012 Jun 25",
-  "tier": "row",
-  "snippet": "HD 377$^\\text{a}$ & 2012 Jun 25 & 7 & $16-77$ & $0.03-0.06$ & 340.794 & 0.64 & $2.16\\times 1.98$ & Uranus & J0",
-  "arxiv": "1510.08890",
-  "system": "hd-377",
-  "file": "/home/brinen2spark/Developments/diskatlas/data/systems/hd-377.json",
-  "idx": 5,
-  "instrument": "SMA"
- },
- "hd-100546_gpi-currie2015": {
-  "epoch": null,
-  "tier": "ambig",
-  "snippet": "ctx dates span years: 2013 Dec 12; 2015 Jan 18",
-  "arxiv": "1511.02526",
-  "system": "hd-100546",
-  "file": "/home/brinen2spark/Developments/diskatlas/data/systems/hd-100546.json",
-  "idx": 16,
-  "instrument": "IFS (total intensity)"
- },
- "beta-pic_magao-clio2015": {
-  "epoch": "2012",
-  "tier": "year",
-  "snippet": "ctx dates same year: 2012 Dec; 2012 Dec 4; 2012 Dec 7",
-  "arxiv": "1511.02894",
-  "system": "beta-pic",
-  "file": "/home/brinen2spark/Developments/diskatlas/data/systems/beta-pic.json",
-  "idx": 31,
-  "instrument": "Clio2"
- },
- "l2-puppis_zimpol-v": {
-  "epoch": "2014 Dec 7",
-  "tier": "instr",
-  "snippet": "talled at the Nasmyth focus of the Unit Telescope~3 of the Very Large Telescope. We observed L$_2$\\,Pup on the",
-  "arxiv": "1511.04448",
-  "system": "l2-puppis",
-  "file": "/home/brinen2spark/Developments/diskatlas/data/systems/l2-puppis.json",
-  "idx": 1,
-  "instrument": "ZIMPOL"
- },
- "l2-puppis_zimpol-nr": {
-  "epoch": "2014 Dec 7",
-  "tier": "instr",
-  "snippet": "talled at the Nasmyth focus of the Unit Telescope~3 of the Very Large Telescope. We observed L$_2$\\,Pup on the",
-  "arxiv": "1511.04448",
-  "system": "l2-puppis",
-  "file": "/home/brinen2spark/Developments/diskatlas/data/systems/l2-puppis.json",
-  "idx": 2,
-  "instrument": "ZIMPOL"
- },
- "gj-504_lbti2016": {
-  "epoch": null,
-  "tier": "ambig",
-  "snippet": "ctx dates span years: 2013 Apr 21; 2014 Mar 11",
-  "arxiv": "1511.09183",
-  "system": "gj-504",
-  "file": "/home/brinen2spark/Developments/diskatlas/data/systems/gj-504.json",
-  "idx": 2,
-  "instrument": "LBTI/LMIRCam"
- },
- "tw-hya_gpi2015": {
-  "epoch": "2015",
-  "tier": "year",
-  "snippet": "ctx dates same year: 2015 Apr 22",
-  "arxiv": "1512.01865",
-  "system": "tw-hya",
-  "file": "/home/brinen2spark/Developments/diskatlas/data/systems/tw-hya.json",
-  "idx": 10,
-  "instrument": "GPI (pol)"
- },
- "ak-sco_sphere2015": {
-  "epoch": "2015 Apr 14",
-  "tier": "instr",
-  "snippet": "am \\citep{thalmann2014b}, which is primarily dedicated to direct imaging detection of circumbinary planets. Ex",
-  "arxiv": "1512.04552",
-  "system": "ak-sco",
-  "file": "/home/brinen2spark/Developments/diskatlas/data/systems/ak-sco.json",
-  "idx": 4,
-  "instrument": "IRDIS"
- },
- "hd-141569_nirc2matryoshka": {
-  "epoch": "2015 Jun 8",
-  "tier": "instr",
-  "snippet": "us, revealing evidence for dust/gas segregation. \\section{Observations and Data Reduction} We imaged HD 141569",
-  "arxiv": "1602.01219",
-  "system": "hd-141569",
-  "file": "/home/brinen2spark/Developments/diskatlas/data/systems/hd-141569.json",
-  "idx": 10,
-  "instrument": "NIRC2 (L' ADI)"
- },
- "ngc-1068_alma2016": {
-  "epoch": "2015",
-  "tier": "year",
-  "snippet": "ctx dates same year: 2015 Sep",
-  "arxiv": "1604.00205",
-  "system": "ngc-1068",
-  "file": "/home/brinen2spark/Developments/diskatlas/data/systems/ngc-1068.json",
-  "idx": 5,
-  "instrument": "Band 8"
- },
- "gm-aur_acssbc_f140lp": {
-  "epoch": null,
-  "tier": "ambig",
-  "snippet": "row dates span years: 2003-12-31; 2008-08-13",
-  "arxiv": "1607.03520",
-  "system": "gm-aur",
-  "file": "/home/brinen2spark/Developments/diskatlas/data/systems/gm-aur.json",
-  "idx": 9,
-  "instrument": "ACS/SBC"
- },
- "dm-tau_nirc2-sam2016": {
-  "epoch": null,
-  "tier": "ambig",
-  "snippet": "ctx dates span years: 2012 Jan; 2014 Jun",
-  "arxiv": "1608.03629",
-  "system": "dm-tau",
-  "file": "/home/brinen2spark/Developments/diskatlas/data/systems/dm-tau.json",
-  "idx": 3,
-  "instrument": "Keck/NIRC2 (Sparse Aperture Masking interferometry)"
- },
- "gq-lup_alma2017": {
-  "epoch": "2015",
-  "tier": "year",
-  "snippet": "ctx dates same year: 2015 Aug 28; 2015 Jun 15",
-  "arxiv": "1611.06229",
-  "system": "gq-lup",
-  "file": "/home/brinen2spark/Developments/diskatlas/data/systems/gq-lup.json",
-  "idx": 3,
-  "instrument": "Band 7"
- },
- "l2-puppis_alma2016": {
-  "epoch": "2015 Nov 5",
-  "tier": "instr",
-  "snippet": ".56350 & 128 & 15.625350 & 2000 & 14.136 \\\\ \\hline \\end{tabular} \\end{table*} L$_2$\\,Pup was observed on 5 Nov",
-  "arxiv": "1611.06231",
-  "system": "l2-puppis",
-  "file": "/home/brinen2spark/Developments/diskatlas/data/systems/l2-puppis.json",
-  "idx": 0,
-  "instrument": "Band 7"
- },
- "hd-206893_sphere2017": {
-  "epoch": "2015",
-  "tier": "year",
-  "snippet": "ctx dates same year: 2015 Oct 5",
-  "arxiv": "1612.00333",
-  "system": "hd-206893",
-  "file": "/home/brinen2spark/Developments/diskatlas/data/systems/hd-206893.json",
-  "idx": 3,
-  "instrument": "IRDIS (ADI + PCA coronagraphy)"
- },
- "49-cet_sphere-choquet2017": {
-  "epoch": "2015",
-  "tier": "year",
-  "snippet": "ctx dates same year: 2015-10-03; 2015-10-04",
-  "arxiv": "1612.07320",
-  "system": "49-cet",
-  "file": "/home/brinen2spark/Developments/diskatlas/data/systems/49-cet.json",
-  "idx": 8,
-  "instrument": "IRDIS"
- },
- "51-eri_sphere2017_y": {
-  "epoch": null,
-  "tier": "ambig",
-  "snippet": "ctx dates span years: 2015 Sep; 2016 Jan",
-  "arxiv": "1704.02987",
-  "system": "51-eri",
-  "file": "/home/brinen2spark/Developments/diskatlas/data/systems/51-eri.json",
-  "idx": 2,
-  "instrument": "IFS"
- },
- "51-eri_sphere2017_j": {
-  "epoch": null,
-  "tier": "ambig",
-  "snippet": "ctx dates span years: 2015 Sep; 2016 Jan",
-  "arxiv": "1704.02987",
-  "system": "51-eri",
-  "file": "/home/brinen2spark/Developments/diskatlas/data/systems/51-eri.json",
-  "idx": 3,
-  "instrument": "IFS"
- },
- "51-eri_sphere2017_h": {
-  "epoch": null,
-  "tier": "ambig",
-  "snippet": "ctx dates span years: 2015 Sep; 2016 Jan",
-  "arxiv": "1704.02987",
-  "system": "51-eri",
-  "file": "/home/brinen2spark/Developments/diskatlas/data/systems/51-eri.json",
-  "idx": 4,
-  "instrument": "IFS"
- },
- "51-eri_sphere2017_k1": {
-  "epoch": null,
-  "tier": "ambig",
-  "snippet": "ctx dates span years: 2015 Sep; 2016 Jan",
-  "arxiv": "1704.02987",
-  "system": "51-eri",
-  "file": "/home/brinen2spark/Developments/diskatlas/data/systems/51-eri.json",
-  "idx": 5,
-  "instrument": "IRDIS"
- },
- "hd-100546_magao-follette2017": {
-  "epoch": null,
-  "tier": "ambig",
-  "snippet": "ctx dates span years: 2014-04-12; 2015-05-15",
-  "arxiv": "1704.06260",
-  "system": "hd-100546",
-  "file": "/home/brinen2spark/Developments/diskatlas/data/systems/hd-100546.json",
-  "idx": 21,
-  "instrument": "VisAO"
- },
- "oph-irs-48_naco2017": {
-  "epoch": "2013",
-  "tier": "year",
-  "snippet": "ctx dates same year: 2013 Mar 25",
-  "arxiv": "1706.06678",
-  "system": "oph-irs-48",
-  "file": "/home/brinen2spark/Developments/diskatlas/data/systems/oph-irs-48.json",
-  "idx": 4,
-  "instrument": "NACO (SAM)"
- },
- "eso-halpha-569_acs2012": {
-  "epoch": "2012-03-09",
-  "tier": "irow",
-  "snippet": "0.606 & 0.058 $\\pm$ 0.001 & This work & HST ACS & 0.27 & 0.05$^{\\prime\\prime}$  &  2012-03-09 \\\\",
-  "arxiv": "1711.03322",
-  "system": "eso-halpha-569",
-  "file": "/home/brinen2spark/Developments/diskatlas/data/systems/eso-halpha-569.json",
-  "idx": 1,
-  "instrument": "ACS/WFC"
- },
- "eso-halpha-569_acs2012-f606w": {
-  "epoch": "2012-03-09",
-  "tier": "irow",
-  "snippet": "0.606 & 0.058 $\\pm$ 0.001 & This work & HST ACS & 0.27 & 0.05$^{\\prime\\prime}$  &  2012-03-09 \\\\",
-  "arxiv": "1711.03322",
-  "system": "eso-halpha-569",
-  "file": "/home/brinen2spark/Developments/diskatlas/data/systems/eso-halpha-569.json",
-  "idx": 2,
-  "instrument": "ACS/WFC"
- },
- "hd-95086_sphere2018": {
-  "epoch": null,
-  "tier": "ambig",
-  "snippet": "ctx dates span years: 2015 Feb; 2017 May",
-  "arxiv": "1801.05850",
-  "system": "hd-95086",
-  "file": "/home/brinen2spark/Developments/diskatlas/data/systems/hd-95086.json",
-  "idx": 5,
-  "instrument": "IRDIS DPI"
- },
- "ry-lup_sphere2018": {
-  "epoch": "2016 May 27",
-  "tier": "instr",
-  "snippet": "sity, we obtained Dual-band Polarimetric Imaging \\citep[DPI,][]{langlois2010} observations in field stabilized",
-  "arxiv": "1802.03995",
-  "system": "ry-lup",
-  "file": "/home/brinen2spark/Developments/diskatlas/data/systems/ry-lup.json",
-  "idx": 0,
-  "instrument": "IRDIS DPI"
- },
- "mwc-614_zimpol2018": {
-  "epoch": "2015-06-10",
-  "tier": "irow",
-  "snippet": "SPHERE/ZIMPOL & 2015-06-10 & UT3 & P2 & N\\_R & 48 x 45\\,s & 1\\\\",
-  "arxiv": "1803.02419",
-  "system": "mwc-614",
-  "file": "/home/brinen2spark/Developments/diskatlas/data/systems/mwc-614.json",
-  "idx": 1,
-  "instrument": "ZIMPOL"
- },
- "hip-64892_sphere2018": {
-  "epoch": null,
-  "tier": "ambig",
-  "snippet": "ctx dates span years: 2011-06-08; 2016-04-01",
-  "arxiv": "1803.02725",
-  "system": "hip-64892",
-  "file": "/home/brinen2spark/Developments/diskatlas/data/systems/hip-64892.json",
-  "idx": 0,
-  "instrument": "IRDIS"
  },
  "iso-oph-54_alma2018": {
   "epoch": null,
@@ -749,36 +59,6 @@
   "idx": 0,
   "instrument": "Band 7"
  },
- "twa-7_sphere-hband2018": {
-  "epoch": null,
-  "tier": "ambig",
-  "snippet": "ctx dates span years: 2015-05-09; 2017-02-07",
-  "arxiv": "1804.01929",
-  "system": "twa-7",
-  "file": "/home/brinen2spark/Developments/diskatlas/data/systems/twa-7.json",
-  "idx": 12,
-  "instrument": "IRDIS"
- },
- "twa-7_sphere-jband2018": {
-  "epoch": null,
-  "tier": "ambig",
-  "snippet": "ctx dates span years: 2015-05-09; 2017-02-07",
-  "arxiv": "1804.01929",
-  "system": "twa-7",
-  "file": "/home/brinen2spark/Developments/diskatlas/data/systems/twa-7.json",
-  "idx": 14,
-  "instrument": "IRDIS"
- },
- "oph-irs-48_comics2018": {
-  "epoch": "2015 Apr 26",
-  "tier": "instr",
-  "snippet": "ions} Oph\\,IRS\\,48 was observed with the COMICS \\citep{kat00a,oka03a,sak03a} mounted on the 8.2 m Subaru Teles",
-  "arxiv": "1804.02145",
-  "system": "oph-irs-48",
-  "file": "/home/brinen2spark/Developments/diskatlas/data/systems/oph-irs-48.json",
-  "idx": 3,
-  "instrument": "COMICS"
- },
  "t-tau_hiciao2018": {
   "epoch": null,
   "tier": "ambig",
@@ -788,56 +68,6 @@
   "file": "/home/brinen2spark/Developments/diskatlas/data/systems/t-tau.json",
   "idx": 2,
   "instrument": "HiCIAO"
- },
- "g023-01-00-41_alma2019": {
-  "epoch": "2016 Sep 5",
-  "tier": "instr",
-  "snippet": "m-array of ALMA in band 6 (211--275\\,GHz). Observations were conducted under program 2015.1.00615.S during two",
-  "arxiv": "1805.09842",
-  "system": "g023-01-00-41",
-  "file": "/home/brinen2spark/Developments/diskatlas/data/systems/g023-01-00-41.json",
-  "idx": 0,
-  "instrument": "Band 6"
- },
- "hd-163296_nirc2vortex2018": {
-  "epoch": "2017",
-  "tier": "year",
-  "snippet": "2 row dates, same year: 2017 May 30; 2017 May 31",
-  "arxiv": "1806.08263",
-  "system": "hd-163296",
-  "file": "/home/brinen2spark/Developments/diskatlas/data/systems/hd-163296.json",
-  "idx": 15,
-  "instrument": "NIRC2 (vortex coronagraph)"
- },
- "twa-7_alma2019": {
-  "epoch": "2016",
-  "tier": "year",
-  "snippet": "ctx dates same year: 2016-04-22; 2016-09-01",
-  "arxiv": "1806.09252",
-  "system": "twa-7",
-  "file": "/home/brinen2spark/Developments/diskatlas/data/systems/twa-7.json",
-  "idx": 13,
-  "instrument": "Band 7"
- },
- "fu-ori_hiciao2018": {
-  "epoch": "2014 Oct 5",
-  "tier": "row",
-  "snippet": "FU Ori \t\t& $H$\t& Oct 5, 2014 \t& 20\\arcsec$\\times$10\\arcsec\t& 0.24$\\pm$0.05\t& --42$\\pm$5\\\\",
-  "arxiv": "1807.03499",
-  "system": "fu-ori",
-  "file": "/home/brinen2spark/Developments/diskatlas/data/systems/fu-ori.json",
-  "idx": 2,
-  "instrument": "HiCIAO+AO188"
- },
- "pds-70_magao-wagner2018": {
-  "epoch": null,
-  "tier": "ambig",
-  "snippet": "ctx dates span years: 2017 Feb; 2017 Feb 10; 2018 May",
-  "arxiv": "1807.10766",
-  "system": "pds-70",
-  "file": "/home/brinen2spark/Developments/diskatlas/data/systems/pds-70.json",
-  "idx": 14,
-  "instrument": "VisAO"
  },
  "hd-146897_scexao-charis2018": {
   "epoch": null,
@@ -859,106 +89,6 @@
   "idx": 2,
   "instrument": "Band 6"
  },
- "v1247-ori_sma2019": {
-  "epoch": "2012",
-  "tier": "year",
-  "snippet": "ctx dates same year: 2012-11-28; 2012-12-31",
-  "arxiv": "1811.06880",
-  "system": "v1247-ori",
-  "file": "/home/brinen2spark/Developments/diskatlas/data/systems/v1247-ori.json",
-  "idx": 3,
-  "instrument": "SMA"
- },
- "as-205_dsharp": {
-  "epoch": null,
-  "tier": "ambig",
-  "snippet": "row dates span years: 2012-03-27; 2017-05-14",
-  "arxiv": "1812.04040",
-  "system": "as-205",
-  "file": "/home/brinen2spark/Developments/diskatlas/data/systems/as-205.json",
-  "idx": 0,
-  "instrument": "Band 6"
- },
- "as-209_dsharp": {
-  "epoch": null,
-  "tier": "ambig",
-  "snippet": "row dates span years: 2014-07-02; 2017-05-09",
-  "arxiv": "1812.04040",
-  "system": "as-209",
-  "file": "/home/brinen2spark/Developments/diskatlas/data/systems/as-209.json",
-  "idx": 0,
-  "instrument": "Band 6"
- },
- "elias-24_dsharp": {
-  "epoch": null,
-  "tier": "ambig",
-  "snippet": "row dates span years: 2015-07-21; 2017-09-25",
-  "arxiv": "1812.04040",
-  "system": "elias-24",
-  "file": "/home/brinen2spark/Developments/diskatlas/data/systems/elias-24.json",
-  "idx": 0,
-  "instrument": "Band 6"
- },
- "elias-27_dsharp": {
-  "epoch": null,
-  "tier": "ambig",
-  "snippet": "row dates span years: 2015-07-21; 2017-09-07",
-  "arxiv": "1812.04040",
-  "system": "elias-27",
-  "file": "/home/brinen2spark/Developments/diskatlas/data/systems/elias-27.json",
-  "idx": 0,
-  "instrument": "Band 6"
- },
- "hd-142666_dsharp": {
-  "epoch": null,
-  "tier": "ambig",
-  "snippet": "row dates span years: 2015-07-21; 2017-09-25",
-  "arxiv": "1812.04040",
-  "system": "hd-142666",
-  "file": "/home/brinen2spark/Developments/diskatlas/data/systems/hd-142666.json",
-  "idx": 0,
-  "instrument": "Band 6"
- },
- "hd-143006_dsharp": {
-  "epoch": null,
-  "tier": "ambig",
-  "snippet": "row dates span years: 2016-06-14; 2017-05-14",
-  "arxiv": "1812.04040",
-  "system": "hd-143006",
-  "file": "/home/brinen2spark/Developments/diskatlas/data/systems/hd-143006.json",
-  "idx": 0,
-  "instrument": "Band 6"
- },
- "hd-163296_dsharp": {
-  "epoch": null,
-  "tier": "ambig",
-  "snippet": "row dates span years: 2014-06-04; 2017-09-08",
-  "arxiv": "1812.04040",
-  "system": "hd-163296",
-  "file": "/home/brinen2spark/Developments/diskatlas/data/systems/hd-163296.json",
-  "idx": 0,
-  "instrument": "Band 6"
- },
- "im-lup_dsharp": {
-  "epoch": null,
-  "tier": "ambig",
-  "snippet": "row dates span years: 2014-07-06; 2017-09-25",
-  "arxiv": "1812.04040",
-  "system": "im-lup",
-  "file": "/home/brinen2spark/Developments/diskatlas/data/systems/im-lup.json",
-  "idx": 0,
-  "instrument": "Band 6"
- },
- "hd-98800_alma2019": {
-  "epoch": "2017 Nov 15",
-  "tier": "instr",
-  "snippet": "Data Processing}\\label{sup:data} HD~98800 was observed by ALMA in Band 6 (1.3~mm) in two observing blocks on 2",
-  "arxiv": "1901.05018",
-  "system": "hd-98800",
-  "file": "/home/brinen2spark/Developments/diskatlas/data/systems/hd-98800.json",
-  "idx": 1,
-  "instrument": "Band 6"
- },
  "hd-101584_alma_co21": {
   "epoch": null,
   "tier": "ambig",
@@ -969,195 +99,15 @@
   "idx": 0,
   "instrument": "ALMA Band 6"
  },
- "2mass-j16083070-3828268_sphere2019": {
-  "epoch": "2017",
-  "tier": "year",
-  "snippet": "ctx dates same year: 2017 Jul 23; 2017 Jun 18",
-  "arxiv": "1902.04612",
-  "system": "2mass-j16083070-3828268",
-  "file": "/home/brinen2spark/Developments/diskatlas/data/systems/2mass-j16083070-3828268.json",
-  "idx": 0,
-  "instrument": "IRDIS (DPI)"
- },
- "rx-j1852-3-3700_sphere2019": {
-  "epoch": "2017",
-  "tier": "year",
-  "snippet": "ctx dates same year: 2017 Jul 23",
-  "arxiv": "1902.04612",
-  "system": "rx-j1852-3-3700",
-  "file": "/home/brinen2spark/Developments/diskatlas/data/systems/rx-j1852-3-3700.json",
-  "idx": 2,
-  "instrument": "SPHERE/IRDIS (DPI, H-band)"
- },
- "wray-15-788_sphere2019_h": {
-  "epoch": "2018",
-  "tier": "year",
-  "snippet": "ctx dates same year: 2018-06-05",
-  "arxiv": "1902.07723",
-  "system": "wray-15-788",
-  "file": "/home/brinen2spark/Developments/diskatlas/data/systems/wray-15-788.json",
-  "idx": 0,
-  "instrument": "IRDIS CI"
- },
- "wray-15-788_sphere2019_ks": {
-  "epoch": "2018",
-  "tier": "year",
-  "snippet": "ctx dates same year: 2018-06-05",
-  "arxiv": "1902.07723",
-  "system": "wray-15-788",
-  "file": "/home/brinen2spark/Developments/diskatlas/data/systems/wray-15-788.json",
-  "idx": 1,
-  "instrument": "IRDIS CI"
- },
- "hr-4796a_zimpol2019": {
-  "epoch": "2016 May 24",
-  "tier": "instr",
-  "snippet": "ction{Observations} \\label{sec_obs} \\subsection{Instrumental setup} The star HR\\,4796\\,A was observed on the n",
-  "arxiv": "1905.03603",
-  "system": "hr-4796a",
-  "file": "/home/brinen2spark/Developments/diskatlas/data/systems/hr-4796a.json",
-  "idx": 17,
-  "instrument": "ZIMPOL"
- },
- "pds-70_sphere2016-k1": {
-  "epoch": null,
-  "tier": "ambig",
-  "snippet": "ctx dates span years: 2015-05-03; 2017 Jun",
-  "arxiv": "1906.01486",
-  "system": "pds-70",
-  "file": "/home/brinen2spark/Developments/diskatlas/data/systems/pds-70.json",
-  "idx": 3,
-  "instrument": "IRDIS K1"
- },
- "g17-64-0-16_alma2019": {
-  "epoch": "2017 Oct 4",
-  "tier": "instr",
-  "snippet": "n{Observations} \\label{obs} The ALMA 12\\,m observations consist of one execution block (EB) conducted during C",
-  "arxiv": "1906.06548",
-  "system": "g17-64-0-16",
-  "file": "/home/brinen2spark/Developments/diskatlas/data/systems/g17-64-0-16.json",
-  "idx": 0,
-  "instrument": "Band 6 long-baseline"
- },
- "hd-169142_macias2019-band3": {
-  "epoch": "2016",
-  "tier": "year",
-  "snippet": "ctx dates same year: 2016 Sep 14",
-  "arxiv": "1907.07277",
-  "system": "hd-169142",
-  "file": "/home/brinen2spark/Developments/diskatlas/data/systems/hd-169142.json",
-  "idx": 9,
-  "instrument": "Band 3"
- },
- "as-209_alma_polarization": {
-  "epoch": "2018 May 16",
-  "tier": "instr",
-  "snippet": "section{Observations} \\label{sec:observation} The continuum polarization observations at 870 $\\mu$m were carri",
-  "arxiv": "1907.10229",
-  "system": "as-209",
-  "file": "/home/brinen2spark/Developments/diskatlas/data/systems/as-209.json",
-  "idx": 5,
-  "instrument": "Band 7 (polarimetry)"
- },
- "hd-191089_stis-ren2019": {
-  "epoch": "2014",
-  "tier": "year",
-  "snippet": "ctx dates same year: 2014 Aug 13; 2014 Jul 19",
-  "arxiv": "1908.00006",
-  "system": "hd-191089",
-  "file": "/home/brinen2spark/Developments/diskatlas/data/systems/hd-191089.json",
-  "idx": 8,
-  "instrument": "STIS"
- },
- "hd-191089_nicmos-ren2019": {
-  "epoch": "2006 May 27",
-  "tier": "irow",
-  "snippet": "NICMOS\t\t&F110W\t&1.12&75.65&0.3\t&4607.34\t&16\t&30.0\t& 2006 May 27\\\\",
-  "arxiv": "1908.00006",
-  "system": "hd-191089",
-  "file": "/home/brinen2spark/Developments/diskatlas/data/systems/hd-191089.json",
-  "idx": 9,
-  "instrument": "NICMOS"
- },
- "hd-191089_gpi-ren2019": {
-  "epoch": "2015 Sep 1",
-  "tier": "irow",
-  "snippet": "GPI\t\t\t&$H$-Pol\t&1.65\t&14.166&0.123\t&2484.72\t&28\t&102.2\t&2015 Sep 01",
-  "arxiv": "1908.00006",
-  "system": "hd-191089",
-  "file": "/home/brinen2spark/Developments/diskatlas/data/systems/hd-191089.json",
-  "idx": 10,
-  "instrument": "IFS pol"
- },
- "l1551-irs-5_alma2019": {
-  "epoch": "2017",
-  "tier": "year",
-  "snippet": "ctx dates same year: 2017 Jul 24",
-  "arxiv": "1908.04649",
-  "system": "l1551-irs-5",
-  "file": "/home/brinen2spark/Developments/diskatlas/data/systems/l1551-irs-5.json",
-  "idx": 0,
-  "instrument": "Band 6"
- },
- "49-cet_alma-co2019": {
+ "hd-32297_alma-co2019": {
   "epoch": "2017",
   "tier": "year",
   "snippet": "ctx dates same year: 2017 Jul",
   "arxiv": "1908.09685",
-  "system": "49-cet",
-  "file": "/home/brinen2spark/Developments/diskatlas/data/systems/49-cet.json",
-  "idx": 9,
+  "system": "hd-32297",
+  "file": "/home/brinen2spark/Developments/diskatlas/data/systems/hd-32297.json",
+  "idx": 15,
   "instrument": "7m array, Band 6 (12CO 2-1 zeroth moment)"
- },
- "hd-202628_herschel2019": {
-  "epoch": "2012 Mar 28",
-  "tier": "instr",
-  "snippet": "t_obs} \\textit{Herschel}/PACS observations using the mini scan map AOT (Astronomical Observing Template) took ",
-  "arxiv": "1909.04162",
-  "system": "hd-202628",
-  "file": "/home/brinen2spark/Developments/diskatlas/data/systems/hd-202628.json",
-  "idx": 2,
-  "instrument": "PACS"
- },
- "cq-tau_hiciao2020": {
-  "epoch": "2015 Dec 31",
-  "tier": "irow",
-  "snippet": "Subaru/HiCIAO & 2015 December 31 & PDI\\footnotemark[1] & $H$ & 540 \\\\",
-  "arxiv": "1910.07605",
-  "system": "cq-tau",
-  "file": "/home/brinen2spark/Developments/diskatlas/data/systems/cq-tau.json",
-  "idx": 6,
-  "instrument": "AO188+HiCIAO (PDI)"
- },
- "afgl-4176_alma2020": {
-  "epoch": "2017",
-  "tier": "year",
-  "snippet": "ctx dates same year: 2017 Nov 25; 2017 Nov 4; 2017 Oct 3",
-  "arxiv": "1911.09692",
-  "system": "afgl-4176",
-  "file": "/home/brinen2spark/Developments/diskatlas/data/systems/afgl-4176.json",
-  "idx": 0,
-  "instrument": "Band 6"
- },
- "sr-24s_hiciao2019": {
-  "epoch": "2011 Aug 2",
-  "tier": "instr",
-  "snippet": " instrument HiCIAO \\citep{Tamura06, Hodapp06} with a dual-beam polarimeter mounted on the Subaru 8.2~m Telesco",
-  "arxiv": "1911.10941",
-  "system": "sr-24s",
-  "file": "/home/brinen2spark/Developments/diskatlas/data/systems/sr-24s.json",
-  "idx": 2,
-  "instrument": "HiCIAO"
- },
- "fs-tau_hiciao-yang2020": {
-  "epoch": "2011 Dec 26",
-  "tier": "instr",
-  "snippet": "conclusions. \\section{Observations and Data Reduction} The H-band near-infrared observations of FS Tau A were ",
-  "arxiv": "1912.11301",
-  "system": "fs-tau",
-  "file": "/home/brinen2spark/Developments/diskatlas/data/systems/fs-tau.json",
-  "idx": 0,
-  "instrument": "HiCIAO"
  },
  "gg-tau_alma2020": {
   "epoch": null,
@@ -1169,16 +119,6 @@
   "idx": 3,
   "instrument": "Band 6/7"
  },
- "hd-106906_zhou2020-wfc3": {
-  "epoch": null,
-  "tier": "ambig",
-  "snippet": "ctx dates span years: 2016-01-29; 2018-06-07",
-  "arxiv": "2001.08304",
-  "system": "hd-106906",
-  "file": "/home/brinen2spark/Developments/diskatlas/data/systems/hd-106906.json",
-  "idx": 11,
-  "instrument": "WFC3/IR"
- },
  "gm-aur_alma2020": {
   "epoch": null,
   "tier": "ambig",
@@ -1188,276 +128,6 @@
   "file": "/home/brinen2spark/Developments/diskatlas/data/systems/gm-aur.json",
   "idx": 0,
   "instrument": "Band 6"
- },
- "mwc-297_sphere2020": {
-  "epoch": "2018",
-  "tier": "year",
-  "snippet": "ctx dates same year: 2018 Jul; 2018-07-28",
-  "arxiv": "2002.01946",
-  "system": "mwc-297",
-  "file": "/home/brinen2spark/Developments/diskatlas/data/systems/mwc-297.json",
-  "idx": 2,
-  "instrument": "IRDIS (high-contrast NIR imaging)"
- },
- "gw-ori_sphere2020": {
-  "epoch": null,
-  "tier": "ambig",
-  "snippet": "ctx dates span years: 2003 Nov 30; 2004 Dec 1; 2004 Dec 12; 2005 Nov 22; 2008 Dec 15",
-  "arxiv": "2004.01204",
-  "system": "gw-ori",
-  "file": "/home/brinen2spark/Developments/diskatlas/data/systems/gw-ori.json",
-  "idx": 2,
-  "instrument": "IRDIS"
- },
- "twa-7_gpies-debris": {
-  "epoch": null,
-  "tier": "ambig",
-  "snippet": "ctx dates span years: 2017 Apr 21; 2019 Apr 27",
-  "arxiv": "2004.13722",
-  "system": "twa-7",
-  "file": "/home/brinen2spark/Developments/diskatlas/data/systems/twa-7.json",
-  "idx": 2,
-  "instrument": "IFS pol"
- },
- "cp-72-2713_alma2020": {
-  "epoch": "2017",
-  "tier": "year",
-  "snippet": "ctx dates same year: 2017 Jul 25",
-  "arxiv": "2005.00861",
-  "system": "cp-72-2713",
-  "file": "/home/brinen2spark/Developments/diskatlas/data/systems/cp-72-2713.json",
-  "idx": 0,
-  "instrument": "ACA (7-m array), Band 6"
- },
- "et-cha_sphere2020": {
-  "epoch": null,
-  "tier": "ambig",
-  "snippet": "ctx dates span years: 2003 Jan; 2019 Dec",
-  "arxiv": "2007.05274",
-  "system": "et-cha",
-  "file": "/home/brinen2spark/Developments/diskatlas/data/systems/et-cha.json",
-  "idx": 0,
-  "instrument": "IRDIS"
- },
- "hd-34700_uyama2020-j": {
-  "epoch": null,
-  "tier": "ambig",
-  "snippet": "ctx dates span years: 2004 Jan 30; 2019 Jan 12",
-  "arxiv": "2007.11655",
-  "system": "hd-34700",
-  "file": "/home/brinen2spark/Developments/diskatlas/data/systems/hd-34700.json",
-  "idx": 5,
-  "instrument": "CHARIS"
- },
- "hd-34700_uyama2020-h": {
-  "epoch": null,
-  "tier": "ambig",
-  "snippet": "ctx dates span years: 2004 Jan 30; 2019 Jan 12",
-  "arxiv": "2007.11655",
-  "system": "hd-34700",
-  "file": "/home/brinen2spark/Developments/diskatlas/data/systems/hd-34700.json",
-  "idx": 6,
-  "instrument": "CHARIS"
- },
- "hd-34700_uyama2020-k": {
-  "epoch": null,
-  "tier": "ambig",
-  "snippet": "ctx dates span years: 2004 Jan 30; 2019 Jan 12",
-  "arxiv": "2007.11655",
-  "system": "hd-34700",
-  "file": "/home/brinen2spark/Developments/diskatlas/data/systems/hd-34700.json",
-  "idx": 7,
-  "instrument": "CHARIS"
- },
- "hd-15115_charis2020-j": {
-  "epoch": "2017",
-  "tier": "year",
-  "snippet": "ctx dates same year: 2017 Aug 30",
-  "arxiv": "2008.00309",
-  "system": "hd-15115",
-  "file": "/home/brinen2spark/Developments/diskatlas/data/systems/hd-15115.json",
-  "idx": 11,
-  "instrument": "SCExAO/CHARIS"
- },
- "hd-15115_charis2020-h": {
-  "epoch": "2017",
-  "tier": "year",
-  "snippet": "ctx dates same year: 2017 Aug 30",
-  "arxiv": "2008.00309",
-  "system": "hd-15115",
-  "file": "/home/brinen2spark/Developments/diskatlas/data/systems/hd-15115.json",
-  "idx": 12,
-  "instrument": "SCExAO/CHARIS"
- },
- "hd-15115_charis2020-k": {
-  "epoch": "2017",
-  "tier": "year",
-  "snippet": "ctx dates same year: 2017 Aug 30",
-  "arxiv": "2008.00309",
-  "system": "hd-15115",
-  "file": "/home/brinen2spark/Developments/diskatlas/data/systems/hd-15115.json",
-  "idx": 13,
-  "instrument": "SCExAO/CHARIS"
- },
- "hd-206893_gpi2016": {
-  "epoch": null,
-  "tier": "ambig",
-  "snippet": "ctx dates span years: 2016-09-22; 2017-11-09; 2018-09-24",
-  "arxiv": "2010.10546",
-  "system": "hd-206893",
-  "file": "/home/brinen2spark/Developments/diskatlas/data/systems/hd-206893.json",
-  "idx": 4,
-  "instrument": "GPI IFS"
- },
- "hd-34700_sma2020": {
-  "epoch": "2019 Jan 8",
-  "tier": "instr",
-  "snippet": "caption{SMA Observational Parameters \\label{tab:obstable}} \\tablewidth{0pt} \\tablehead{ \\colhead{Parameter} & ",
-  "arxiv": "2011.03489",
-  "system": "hd-34700",
-  "file": "/home/brinen2spark/Developments/diskatlas/data/systems/hd-34700.json",
-  "idx": 8,
-  "instrument": "SMA"
- },
- "mwc-297_lbti2020": {
-  "epoch": "2018 May 31",
-  "tier": "ctx",
-  "snippet": " \\enddata \\end{deluxetable} \\begin{deluxetable}{lccccc} \\tabletypesize{\\footnotesize} \\tablecaption{ Observati",
-  "arxiv": "2011.07082",
-  "system": "mwc-297",
-  "file": "/home/brinen2spark/Developments/diskatlas/data/systems/mwc-297.json",
-  "idx": 1,
-  "instrument": "non-redundant aperture masking (23-m effective baseline)"
- },
- "hd-163296_muse2020": {
-  "epoch": "2019-04-29",
-  "tier": "row",
-  "snippet": "HD 163296   & 0103.C-0399(A) & 2019-04-29 & 2 $\\times$ 4 &  8 & 0 &  4  \\\\",
-  "arxiv": "2011.08043",
-  "system": "hd-163296",
-  "file": "/home/brinen2spark/Developments/diskatlas/data/systems/hd-163296.json",
-  "idx": 14,
-  "instrument": "MUSE"
- },
- "pds-70_muse2020": {
-  "epoch": "2018-06-20",
-  "tier": "row",
-  "snippet": "PDS 70   & 60.A-9100(K) & 2018-06-20 & 300 $\\times$ 6 &  1800 & 90 &  2  \\\\",
-  "arxiv": "2011.08043",
-  "system": "pds-70",
-  "file": "/home/brinen2spark/Developments/diskatlas/data/systems/pds-70.json",
-  "idx": 9,
-  "instrument": "MUSE"
- },
- "hd-33632-a_scexao2020": {
-  "epoch": "2020 Aug 31",
-  "tier": "instr",
-  "snippet": "SNR) in conservative ADI/A-LOCI or SDI/A-LOCI reductions range between 11--22 in the 2018 discovery epoch to 4",
-  "arxiv": "2011.08855",
-  "system": "hd-33632-a",
-  "file": "/home/brinen2spark/Developments/diskatlas/data/systems/hd-33632-a.json",
-  "idx": 0,
-  "instrument": "CHARIS"
- },
- "cb-26_pdbi1p3mm": {
-  "epoch": "2005 Dec",
-  "tier": "instr",
-  "snippet": " with the best possible {\\it uv} coverage and signal-to-noise ratio (see below). \\subsection{PdBI} In November",
-  "arxiv": "2012.08127",
-  "system": "cb-26",
-  "file": "/home/brinen2spark/Developments/diskatlas/data/systems/cb-26.json",
-  "idx": 0,
-  "instrument": "combined mm array"
- },
- "gsc-6214-210_sphere2021": {
-  "epoch": null,
-  "tier": "ambig",
-  "snippet": "ctx dates span years: 2016 Oct 10; 2018-08-07; 2019-10-24; 2019-11-26; 2020 Feb 16",
-  "arxiv": "2101.04033",
-  "system": "gsc-6214-210",
-  "file": "/home/brinen2spark/Developments/diskatlas/data/systems/gsc-6214-210.json",
-  "idx": 1,
-  "instrument": "SPHERE-IRDIS (polarimetry)"
- },
- "ww-cha_gravity2021": {
-  "epoch": "2020",
-  "tier": "year",
-  "snippet": "ctx dates same year: 2020 Jan",
-  "arxiv": "2102.00122",
-  "system": "ww-cha",
-  "file": "/home/brinen2spark/Developments/diskatlas/data/systems/ww-cha.json",
-  "idx": 1,
-  "instrument": "GRAVITY"
- },
- "dm-tau_hashimoto2021-band6": {
-  "epoch": "2019",
-  "tier": "year",
-  "snippet": "ctx dates same year: 2019 Jun 5",
-  "arxiv": "2102.05905",
-  "system": "dm-tau",
-  "file": "/home/brinen2spark/Developments/diskatlas/data/systems/dm-tau.json",
-  "idx": 6,
-  "instrument": "Band 6"
- },
- "hh-212_alma2021": {
-  "epoch": "2017 Nov 27",
-  "tier": "instr",
-  "snippet": "H 212 disk were obtained with ALMA in Band 7 in Cycle 5 (Project ID: 2017.1.00044.S). Three observations were ",
-  "arxiv": "2102.11481",
-  "system": "hh-212",
-  "file": "/home/brinen2spark/Developments/diskatlas/data/systems/hh-212.json",
-  "idx": 0,
-  "instrument": "Band 7"
- },
- "hd-100546_visir2021": {
-  "epoch": "2018 Apr",
-  "tier": "instr",
-  "snippet": "the spirals. \\section{Observations and data analysis} \\label{sec:obs} Observations of HD 100546 were obtained ",
-  "arxiv": "2102.12506",
-  "system": "hd-100546",
-  "file": "/home/brinen2spark/Developments/diskatlas/data/systems/hd-100546.json",
-  "idx": 13,
-  "instrument": "VISIR"
- },
- "oph-163131_hst2021": {
-  "epoch": "2012-03-04",
-  "tier": "irow",
-  "snippet": "2012-03-04 & ACS/F606W & 1320.0 & 3.1 $\\pm$ 0.2 & 0.6 $\\pm$ 0.1 & 3.7 $\\pm$ 0.2 & 1.1 $\\pm$ 0.2 \\\\",
-  "arxiv": "2103.02665",
-  "system": "oph-163131",
-  "file": "/home/brinen2spark/Developments/diskatlas/data/systems/oph-163131.json",
-  "idx": 4,
-  "instrument": "ACS"
- },
- "oph-163131_keck2021": {
-  "epoch": "2019 Apr 25",
-  "tier": "instr",
-  "snippet": "ines indicate the extent of the mask used when modeling the disk. \\label{fig:darklane}} \\end{center} \\end{figu",
-  "arxiv": "2103.02665",
-  "system": "oph-163131",
-  "file": "/home/brinen2spark/Developments/diskatlas/data/systems/oph-163131.json",
-  "idx": 5,
-  "instrument": "NIRC2"
- },
- "hip-109427_scexao2021": {
-  "epoch": "2020",
-  "tier": "year",
-  "snippet": "ctx dates same year: 2020 Dec; 2020 Jul 31",
-  "arxiv": "2103.06898",
-  "system": "hip-109427",
-  "file": "/home/brinen2spark/Developments/diskatlas/data/systems/hip-109427.json",
-  "idx": 0,
-  "instrument": "CHARIS IFS (RDI/KLIP)"
- },
- "hd-142527_sphere-irdis-qphi": {
-  "epoch": null,
-  "tier": "ambig",
-  "snippet": "row dates span years: 2015-05-02; 2016-03-31; 2017-05-31",
-  "arxiv": "2103.08462",
-  "system": "hd-142527",
-  "file": "/home/brinen2spark/Developments/diskatlas/data/systems/hd-142527.json",
-  "idx": 7,
-  "instrument": "IRDIS DPI"
  },
  "hr-8799_alma-faramaz2021": {
   "epoch": null,
@@ -1479,84 +149,594 @@
   "idx": 2,
   "instrument": "Band 6"
  },
- "v892-tau_alma-long2021": {
-  "epoch": "2011",
+ "wl-17_alma100ghz2021": {
+  "epoch": "2016",
   "tier": "year",
-  "snippet": "ctx dates same year: 2011 Jul 15; 2011 Mar 19",
-  "arxiv": "2105.02918",
-  "system": "v892-tau",
-  "file": "/home/brinen2spark/Developments/diskatlas/data/systems/v892-tau.json",
+  "snippet": "ctx dates same year: 2016-05-19; 2016-09-10",
+  "arxiv": "2109.02652",
+  "system": "wl-17",
+  "file": "/home/brinen2spark/Developments/diskatlas/data/systems/wl-17.json",
+  "idx": 1,
+  "instrument": "Band 3"
+ },
+ "as-209_alma-maps2021": {
+  "epoch": "2018",
+  "tier": "year",
+  "snippet": "4 row dates, same year: 2018-10-26; 2018-10-27; 2018-12-02; 2018-12-25",
+  "arxiv": "2109.06268",
+  "system": "as-209",
+  "file": "/home/brinen2spark/Developments/diskatlas/data/systems/as-209.json",
+  "idx": 3,
+  "instrument": "Band 6 (CO line)"
+ },
+ "gm-aur_alma-maps2021": {
+  "epoch": "2018",
+  "tier": "year",
+  "snippet": "4 row dates, same year: 2018-10-30; 2018-10-31; 2018-12-13; 2018-12-15",
+  "arxiv": "2109.06268",
+  "system": "gm-aur",
+  "file": "/home/brinen2spark/Developments/diskatlas/data/systems/gm-aur.json",
+  "idx": 5,
+  "instrument": "Band 6 (CO line)"
+ },
+ "hd-163296_alma-maps2021": {
+  "epoch": null,
+  "tier": "ambig",
+  "snippet": "row dates span years: 2018-10-22; 2018-10-25; 2018-12-04; 2019-04-07",
+  "arxiv": "2109.06268",
+  "system": "hd-163296",
+  "file": "/home/brinen2spark/Developments/diskatlas/data/systems/hd-163296.json",
+  "idx": 8,
+  "instrument": "Band 6 (CO line)"
+ },
+ "im-lup_alma-maps2021": {
+  "epoch": null,
+  "tier": "ambig",
+  "snippet": "row dates span years: 2018-10-29; 2018-11-06; 2018-11-28; 2019-04-07",
+  "arxiv": "2109.06268",
+  "system": "im-lup",
+  "file": "/home/brinen2spark/Developments/diskatlas/data/systems/im-lup.json",
+  "idx": 4,
+  "instrument": "Band 6 (CO line)"
+ },
+ "mwc-480_alma-maps2021": {
+  "epoch": "2018",
+  "tier": "year",
+  "snippet": "4 row dates, same year: 2018-10-30; 2018-10-31; 2018-12-13; 2018-12-15",
+  "arxiv": "2109.06268",
+  "system": "mwc-480",
+  "file": "/home/brinen2spark/Developments/diskatlas/data/systems/mwc-480.json",
+  "idx": 4,
+  "instrument": "Band 6 (CO line)"
+ },
+ "dr-tau_lbti2022": {
+  "epoch": "2020-02-02",
+  "tier": "irow",
+  "snippet": "2020-02-02  & LBT/LMIRCAM  & AGPM           & 1.10\\as & ///    & 9.70 m/s &$75.50^{\\circ}$ & 1.01589s &  2660 ",
+  "arxiv": "2111.01702",
+  "system": "dr-tau",
+  "file": "/home/brinen2spark/Developments/diskatlas/data/systems/dr-tau.json",
+  "idx": 4,
+  "instrument": "LMIRcam"
+ },
+ "3c-273_alma-band3": {
+  "epoch": "2018-2019",
+  "tier": "instr",
+  "snippet": "scans 2018 Jun 3-4 + 2019 Jan 19 combined",
+  "arxiv": "2203.15218",
+  "system": "3c-273",
+  "file": "/home/brinen2spark/Developments/diskatlas/data/systems/3c-273.json",
+  "idx": 3,
+  "instrument": "Band 3"
+ },
+ "3c-273_alma-band6": {
+  "epoch": "2018-2019",
+  "tier": "instr",
+  "snippet": "scans 2018 Jun 3-4 + 2019 Jan 19 combined",
+  "arxiv": "2203.15218",
+  "system": "3c-273",
+  "file": "/home/brinen2spark/Developments/diskatlas/data/systems/3c-273.json",
+  "idx": 4,
+  "instrument": "Band 6"
+ },
+ "3c-273_alma-band7": {
+  "epoch": "2018-2019",
+  "tier": "instr",
+  "snippet": "scans 2018 Jun 3-4 + 2019 Jan 19 combined",
+  "arxiv": "2203.15218",
+  "system": "3c-273",
+  "file": "/home/brinen2spark/Developments/diskatlas/data/systems/3c-273.json",
+  "idx": 5,
+  "instrument": "Band 7"
+ },
+ "sr-12_alma2022": {
+  "epoch": "2021 Jul 8",
+  "tier": "instr",
+  "snippet": " deep imaging. \\section{Observations and Data Reduction} The ALMA Band 7 observations of SR 12 were carried ou",
+  "arxiv": "2204.06013",
+  "system": "sr-12",
+  "file": "/home/brinen2spark/Developments/diskatlas/data/systems/sr-12.json",
+  "idx": 0,
+  "instrument": "Band 7"
+ },
+ "hbc-494_alma2023": {
+  "epoch": "2016 Oct",
+  "tier": "instr",
+  "snippet": "d during the ALMA Cycle-4 in band 6 (program 2016.1.00630.S: PI Zurlo) for two nights, one on the 9\\textsupers",
+  "arxiv": "2305.15647",
+  "system": "hbc-494",
+  "file": "/home/brinen2spark/Developments/diskatlas/data/systems/hbc-494.json",
   "idx": 0,
   "instrument": "Band 6"
  },
- "cq-tau_gravity2022-shadow": {
-  "epoch": null,
-  "tier": "ambig",
-  "snippet": "row dates span years: 2018-11-18; 2020-01-30",
-  "arxiv": "2112.00123",
-  "system": "cq-tau",
-  "file": "/home/brinen2spark/Developments/diskatlas/data/systems/cq-tau.json",
-  "idx": 3,
-  "instrument": "GRAVITY K + scattered light"
- },
- "hd-100453_gravity2022-shadow": {
-  "epoch": null,
-  "tier": "ambig",
-  "snippet": "row dates span years: 2020-12-17; 2021-01-21; 2021-01-24; 2021-01-25; 2021-02-23",
-  "arxiv": "2112.00123",
-  "system": "hd-100453",
-  "file": "/home/brinen2spark/Developments/diskatlas/data/systems/hd-100453.json",
-  "idx": 3,
-  "instrument": "GRAVITY K + scattered light"
- },
- "ab-aur_lbti2022-lp": {
-  "epoch": null,
-  "tier": "ambig",
-  "snippet": "row dates span years: 2014-02-09; 2014-02-13; 2015-01-04",
-  "arxiv": "2201.08867",
-  "system": "ab-aur",
-  "file": "/home/brinen2spark/Developments/diskatlas/data/systems/ab-aur.json",
-  "idx": 8,
-  "instrument": "LBTI/LMIRCam"
- },
- "ab-aur_lbti2022-ks": {
-  "epoch": null,
-  "tier": "ambig",
-  "snippet": "row dates span years: 2014-02-09; 2014-02-13; 2015-01-04",
-  "arxiv": "2201.08867",
-  "system": "ab-aur",
-  "file": "/home/brinen2spark/Developments/diskatlas/data/systems/ab-aur.json",
-  "idx": 9,
-  "instrument": "LBTI/LMIRCam"
- },
- "hip-99770_scexao2023": {
-  "epoch": null,
-  "tier": "ambig",
-  "snippet": "ctx dates span years: 2020 Sep; 2021 May 19; 2021 Oct; 2021 Oct 17",
-  "arxiv": "2212.00034",
-  "system": "hip-99770",
-  "file": "/home/brinen2spark/Developments/diskatlas/data/systems/hip-99770.json",
+ "b335_edisk": {
+  "epoch": "2014 Sep 2",
+  "tier": "row",
+  "snippet": "B335 & 2014 Sep 02 01:30 & C34-6 & 33--1091 & 34 & $\\cdots$ & 1.1 & J1751+0939, J1751+096, J1955+1358 & $\\cdot",
+  "arxiv": "2306.15406",
+  "system": "b335",
+  "file": "/home/brinen2spark/Developments/diskatlas/data/systems/b335.json",
   "idx": 0,
-  "instrument": "CHARIS"
+  "instrument": "Band 6"
  },
- "twa-7_jwst2025": {
+ "bhr71-irs1_edisk": {
+  "epoch": "2021 May 4",
+  "tier": "row",
+  "snippet": "BHR 71 IRS1, BHR 71 IRS2 & 2021 May 04 00:26 & C43-5 & 15-2517 & 44 & 47.3 & 1.6 & J1107-4449, J1107-4449, J11",
+  "arxiv": "2306.15406",
+  "system": "bhr71-irs1",
+  "file": "/home/brinen2spark/Developments/diskatlas/data/systems/bhr71-irs1.json",
+  "idx": 0,
+  "instrument": "Band 6"
+ },
+ "bhr71-irs2_edisk": {
+  "epoch": "2021 May 4",
+  "tier": "row",
+  "snippet": "BHR 71 IRS1, BHR 71 IRS2 & 2021 May 04 00:26 & C43-5 & 15-2517 & 44 & 47.3 & 1.6 & J1107-4449, J1107-4449, J11",
+  "arxiv": "2306.15406",
+  "system": "bhr71-irs2",
+  "file": "/home/brinen2spark/Developments/diskatlas/data/systems/bhr71-irs2.json",
+  "idx": 0,
+  "instrument": "Band 6"
+ },
+ "ced110-irs4_edisk": {
+  "epoch": "2021 Apr 24",
+  "tier": "row",
+  "snippet": "Ced 110 IRS4 & 2021 Apr 24 01:30 & C43-5 & 15-1397 & 45 & 35.3 & 1.4 &",
+  "arxiv": "2306.15406",
+  "system": "ced110-irs4",
+  "file": "/home/brinen2spark/Developments/diskatlas/data/systems/ced110-irs4.json",
+  "idx": 0,
+  "instrument": "Band 6"
+ },
+ "gss30-irs3_edisk": {
   "epoch": null,
   "tier": "ambig",
-  "snippet": "ctx dates span years: 2017-03-20; 2022-02-08",
-  "arxiv": "2502.15081",
-  "system": "twa-7",
-  "file": "/home/brinen2spark/Developments/diskatlas/data/systems/twa-7.json",
+  "snippet": "row dates span years: 2021 Oct 5; 2022 Jun 14",
+  "arxiv": "2306.15406",
+  "system": "gss30-irs3",
+  "file": "/home/brinen2spark/Developments/diskatlas/data/systems/gss30-irs3.json",
+  "idx": 0,
+  "instrument": "Band 6"
+ },
+ "iras-04166-2706_edisk": {
+  "epoch": "2021 Sep 30",
+  "tier": "row",
+  "snippet": "IRAS 04166+2706, IRAS 04169+2702 & 2021 Sep 30 05:20$^{\\dagger}$ & C43-8 & 70--11886 & 44 & $\\cdots$ & 0.73 &",
+  "arxiv": "2306.15406",
+  "system": "iras-04166-2706",
+  "file": "/home/brinen2spark/Developments/diskatlas/data/systems/iras-04166-2706.json",
+  "idx": 0,
+  "instrument": "Band 6"
+ },
+ "iras-04169-2702_edisk": {
+  "epoch": "2021 Sep 30",
+  "tier": "row",
+  "snippet": "IRAS 04166+2706, IRAS 04169+2702 & 2021 Sep 30 05:20$^{\\dagger}$ & C43-8 & 70--11886 & 44 & $\\cdots$ & 0.73 &",
+  "arxiv": "2306.15406",
+  "system": "iras-04169-2702",
+  "file": "/home/brinen2spark/Developments/diskatlas/data/systems/iras-04169-2702.json",
+  "idx": 0,
+  "instrument": "Band 6"
+ },
+ "iras-15398-3359_edisk": {
+  "epoch": "2021 May 6",
+  "tier": "row",
+  "snippet": "IRAS 15398-3359 & 2021 May 06 03:56 & C43-5 & 15-2517 & 45 & 74.9 & 1.2 & J1337-1257, J1337-1257, J1610-3958 &",
+  "arxiv": "2306.15406",
+  "system": "iras-15398-3359",
+  "file": "/home/brinen2spark/Developments/diskatlas/data/systems/iras-15398-3359.json",
+  "idx": 0,
+  "instrument": "Band 6"
+ },
+ "iras-16253-2429_edisk": {
+  "epoch": null,
+  "tier": "ambig",
+  "snippet": "row dates span years: 2021 Oct 5; 2022 Jun 14",
+  "arxiv": "2306.15406",
+  "system": "iras-16253-2429",
+  "file": "/home/brinen2spark/Developments/diskatlas/data/systems/iras-16253-2429.json",
+  "idx": 0,
+  "instrument": "Band 6"
+ },
+ "iras-16544-1604_edisk": {
+  "epoch": "2021 Aug 24",
+  "tier": "row",
+  "snippet": "IRAS 16544--1604 & 2021 Aug 24 01:21 & C43-8 & 47-12594.5 & 50 & 56 & 0.4 & J1924-2914, J1924-2914, J1653-1551",
+  "arxiv": "2306.15406",
+  "system": "iras-16544-1604",
+  "file": "/home/brinen2spark/Developments/diskatlas/data/systems/iras-16544-1604.json",
+  "idx": 0,
+  "instrument": "Band 6"
+ },
+ "l1489-irs_edisk": {
+  "epoch": "2021",
+  "tier": "year",
+  "snippet": "3 row dates, same year: 2021 Aug 20; 2021 Dec 3",
+  "arxiv": "2306.15406",
+  "system": "l1489-irs",
+  "file": "/home/brinen2spark/Developments/diskatlas/data/systems/l1489-irs.json",
+  "idx": 0,
+  "instrument": "Band 6"
+ },
+ "l1527-irs_edisk": {
+  "epoch": "2021",
+  "tier": "year",
+  "snippet": "3 row dates, same year: 2021 Dec 3; 2021 Oct 14",
+  "arxiv": "2306.15406",
+  "system": "l1527-irs",
+  "file": "/home/brinen2spark/Developments/diskatlas/data/systems/l1527-irs.json",
+  "idx": 0,
+  "instrument": "Band 6"
+ },
+ "oph-irs43_edisk": {
+  "epoch": "2021 May 26",
+  "tier": "row",
+  "snippet": "Oph IRS 43 & 2021 May 26 07:32 & C43-5 & 15-2280 & 42 &  $\\cdots$ & 3.6 & J1924-2914, J1924-2914, J1700-2610 &",
+  "arxiv": "2306.15406",
+  "system": "oph-irs43",
+  "file": "/home/brinen2spark/Developments/diskatlas/data/systems/oph-irs43.json",
+  "idx": 0,
+  "instrument": "Band 6"
+ },
+ "r-cra-iras-32_edisk": {
+  "epoch": "2021 May 4",
+  "tier": "row",
+  "snippet": "R~CrA IRS5N, R~CrA IRAS 32 & 2021 May 04 10:17 & C43-5 & 15-2517 & 42 & $\\cdots$ & 1.7 & J1924-2914, J1924-291",
+  "arxiv": "2306.15406",
+  "system": "r-cra-iras-32",
+  "file": "/home/brinen2spark/Developments/diskatlas/data/systems/r-cra-iras-32.json",
+  "idx": 0,
+  "instrument": "Band 6"
+ },
+ "r-cra-irs5n_edisk": {
+  "epoch": "2021 May 4",
+  "tier": "row",
+  "snippet": "R~CrA IRS5N, R~CrA IRAS 32 & 2021 May 04 10:17 & C43-5 & 15-2517 & 42 & $\\cdots$ & 1.7 & J1924-2914, J1924-291",
+  "arxiv": "2306.15406",
+  "system": "r-cra-irs5n",
+  "file": "/home/brinen2spark/Developments/diskatlas/data/systems/r-cra-irs5n.json",
+  "idx": 0,
+  "instrument": "Band 6"
+ },
+ "r-cra-irs7b_edisk": {
+  "epoch": "2021 May 3",
+  "tier": "row",
+  "snippet": "R~CrA IRS7B & 2021 May 03 09:05 & C43-5 & 15-1997 & 43 & 72.2 & 0.5 & J1924-2914, J1924-2914, J1937-3958 & J18",
+  "arxiv": "2306.15406",
+  "system": "r-cra-irs7b",
+  "file": "/home/brinen2spark/Developments/diskatlas/data/systems/r-cra-irs7b.json",
+  "idx": 0,
+  "instrument": "Band 6"
+ },
+ "tmc-1a_edisk": {
+  "epoch": "2015 Sep 20",
+  "tier": "row",
+  "snippet": "TMC-1A & 2015 Sep 20 06:47 & C34-7/(6) & 41--2270 & 35 & 37.2 & 1.76 & J0510+1800, J0423-013, J0429+2724 & $\\c",
+  "arxiv": "2306.15406",
+  "system": "tmc-1a",
+  "file": "/home/brinen2spark/Developments/diskatlas/data/systems/tmc-1a.json",
+  "idx": 0,
+  "instrument": "Band 6"
+ },
+ "wl-17_alma2023": {
+  "epoch": null,
+  "tier": "ambig",
+  "snippet": "ctx dates span years: 2015 Oct 31; 2016 Apr 17",
+  "arxiv": "2309.06076",
+  "system": "wl-17",
+  "file": "/home/brinen2spark/Developments/diskatlas/data/systems/wl-17.json",
+  "idx": 0,
+  "instrument": "Band 7"
+ },
+ "cida-9_alma2023-b3": {
+  "epoch": "2021 Jul 9",
+  "tier": "instr",
+  "snippet": ".562 & 2.7 & ... \\\\ \\hline \\end{tabular} \\end{table} \\subsection{ALMA observations} ALMA observed CIDA 9A on J",
+  "arxiv": "2310.11007",
+  "system": "cida-9",
+  "file": "/home/brinen2spark/Developments/diskatlas/data/systems/cida-9.json",
   "idx": 1,
-  "instrument": "MIRI"
+  "instrument": "Band 3 continuum"
  },
- "hd-120326_sphere-adi": {
+ "sz-cha_sphere-chami": {
   "epoch": null,
   "tier": "ambig",
-  "snippet": "ctx dates span years: 2013-06-20; 2015 Aug 1; 2015-04-09; 2016-04-05; 2016-06-03",
-  "arxiv": "2504.15352",
-  "system": "hd-120326",
-  "file": "/home/brinen2spark/Developments/diskatlas/data/systems/hd-120326.json",
+  "snippet": "ctx dates span years: 2018 Dec 23; 2019 Jan 20",
+  "arxiv": "2403.02149",
+  "system": "sz-cha",
+  "file": "/home/brinen2spark/Developments/diskatlas/data/systems/sz-cha.json",
+  "idx": 1,
+  "instrument": "IRDIS DPI"
+ },
+ "pds-70_alma-b3-2024": {
+  "epoch": "2023",
+  "tier": "year",
+  "snippet": "ctx dates same year: 2023 Jul 28",
+  "arxiv": "2408.09216",
+  "system": "pds-70",
+  "file": "/home/brinen2spark/Developments/diskatlas/data/systems/pds-70.json",
+  "idx": 12,
+  "instrument": "Band 3"
+ },
+ "so-1036_alma-huang2024": {
+  "epoch": "2023 Aug 4",
+  "tier": "row",
+  "snippet": "SO 1036 & 2023 August 04 &230 m - 16.2 km & 43  \\\\",
+  "arxiv": "2410.03823",
+  "system": "so-1036",
+  "file": "/home/brinen2spark/Developments/diskatlas/data/systems/so-1036.json",
+  "idx": 0,
+  "instrument": "Band 6"
+ },
+ "so-1152_alma-huang2024": {
+  "epoch": "2023 Aug 2",
+  "tier": "row",
+  "snippet": "SO 1152 & 2023 August 02 &230 m - 16.2 km&46  \\\\",
+  "arxiv": "2410.03823",
+  "system": "so-1152",
+  "file": "/home/brinen2spark/Developments/diskatlas/data/systems/so-1152.json",
+  "idx": 0,
+  "instrument": "Band 6"
+ },
+ "so-1153_alma2024": {
+  "epoch": "2023 Aug 1",
+  "tier": "row",
+  "snippet": "SO 1153 & 2023 August 01 & 230 m - 16.2 km & 43 \\\\",
+  "arxiv": "2410.03823",
+  "system": "so-1153",
+  "file": "/home/brinen2spark/Developments/diskatlas/data/systems/so-1153.json",
+  "idx": 0,
+  "instrument": "Band 6"
+ },
+ "so-1274_alma2024": {
+  "epoch": "2023 Jul 19",
+  "tier": "row",
+  "snippet": "SO 1274 & 2023 July 19 &230 m - 15.2 km&46\\\\",
+  "arxiv": "2410.03823",
+  "system": "so-1274",
+  "file": "/home/brinen2spark/Developments/diskatlas/data/systems/so-1274.json",
+  "idx": 0,
+  "instrument": "Band 6"
+ },
+ "so-662_alma-huang2024": {
+  "epoch": "2023 Jul 26",
+  "tier": "row",
+  "snippet": "SO 662 & 2023 July 26 &256 m - 15.2 km  & 43 \\\\",
+  "arxiv": "2410.03823",
+  "system": "so-662",
+  "file": "/home/brinen2spark/Developments/diskatlas/data/systems/so-662.json",
+  "idx": 0,
+  "instrument": "Band 6"
+ },
+ "so-844_alma2024": {
+  "epoch": "2023 Jul 31",
+  "tier": "row",
+  "snippet": "SO 844 & 2023 July 31 & 230 m - 16.2 km & 43 \\\\",
+  "arxiv": "2410.03823",
+  "system": "so-844",
+  "file": "/home/brinen2spark/Developments/diskatlas/data/systems/so-844.json",
+  "idx": 0,
+  "instrument": "Band 6"
+ },
+ "so-897_alma2024": {
+  "epoch": "2023 Jul 28",
+  "tier": "row",
+  "snippet": "SO 897 & 2023 July 28 & 230 m - 16.2 km & 48\\\\",
+  "arxiv": "2410.03823",
+  "system": "so-897",
+  "file": "/home/brinen2spark/Developments/diskatlas/data/systems/so-897.json",
+  "idx": 0,
+  "instrument": "Band 6"
+ },
+ "so-984_alma-huang2024": {
+  "epoch": "2023 Aug 6",
+  "tier": "row",
+  "snippet": "SO 984 & 2023 August 06 & 230 m - 16.2 km & 44  \\\\",
+  "arxiv": "2410.03823",
+  "system": "so-984",
+  "file": "/home/brinen2spark/Developments/diskatlas/data/systems/so-984.json",
+  "idx": 0,
+  "instrument": "Band 6"
+ },
+ "lkca-15_alma-band3-2025": {
+  "epoch": "2023 Jan",
+  "tier": "instr",
+  "snippet": "observations} ALMA observed the disc around LkCa15 in Band 3 (Program project: 2022.1.01216.S, PI: Anibal Sier",
+  "arxiv": "2503.03336",
+  "system": "lkca-15",
+  "file": "/home/brinen2spark/Developments/diskatlas/data/systems/lkca-15.json",
+  "idx": 7,
+  "instrument": "Band 3"
+ },
+ "iso-oph-37_alma-agepro": {
+  "epoch": "2022",
+  "tier": "year",
+  "snippet": "22 row dates, same year: 2022-03-29; 2022-03-30; 2022-04-03; 2022-04-08",
+  "arxiv": "2506.10731",
+  "system": "iso-oph-37",
+  "file": "/home/brinen2spark/Developments/diskatlas/data/systems/iso-oph-37.json",
+  "idx": 0,
+  "instrument": "Band 6"
+ },
+ "2mass-j16085324-3914401_alma-agepro": {
+  "epoch": "2019",
+  "tier": "year",
+  "snippet": "5 row dates, same year: 2019-10-10; 2019-10-30; 2019-11-07",
+  "arxiv": "2506.10734",
+  "system": "2mass-j16085324-3914401",
+  "file": "/home/brinen2spark/Developments/diskatlas/data/systems/2mass-j16085324-3914401.json",
+  "idx": 0,
+  "instrument": "Band 6"
+ },
+ "v1094-sco_alma-agepro": {
+  "epoch": null,
+  "tier": "ambig",
+  "snippet": "row dates span years: 2021-12-01; 2022-03-28",
+  "arxiv": "2506.10734",
+  "system": "v1094-sco",
+  "file": "/home/brinen2spark/Developments/diskatlas/data/systems/v1094-sco.json",
+  "idx": 0,
+  "instrument": "Band 6"
+ },
+ "pds-66_alma3mm2025": {
+  "epoch": null,
+  "tier": "ambig",
+  "snippet": "ctx dates span years: 2018 Jan 15; 2022 Jul 28; 2022 May 21",
+  "arxiv": "2507.11612",
+  "system": "pds-66",
+  "file": "/home/brinen2spark/Developments/diskatlas/data/systems/pds-66.json",
+  "idx": 8,
+  "instrument": "Band 3"
+ },
+ "ab-aur_muse2025": {
+  "epoch": "2022",
+  "tier": "year",
+  "snippet": "ctx dates same year: 2022 Nov 21; 2022 Oct 22",
+  "arxiv": "2508.18351",
+  "system": "ab-aur",
+  "file": "/home/brinen2spark/Developments/diskatlas/data/systems/ab-aur.json",
+  "idx": 15,
+  "instrument": "MUSE"
+ },
+ "hr-7012_alma2025": {
+  "epoch": "2023",
+  "tier": "year",
+  "snippet": "ctx dates same year: 2023 Jun 3; 2023 Jun 4",
+  "arxiv": "2512.04154",
+  "system": "hr-7012",
+  "file": "/home/brinen2spark/Developments/diskatlas/data/systems/hr-7012.json",
   "idx": 2,
-  "instrument": "IRDIS"
+  "instrument": "Band 7"
+ },
+ "oph-irs-44_alma2026": {
+  "epoch": "2023",
+  "tier": "instr",
+  "snippet": "ALMA Apr-Jun 2023",
+  "arxiv": "2601.04108",
+  "system": "oph-irs-44",
+  "file": "/home/brinen2spark/Developments/diskatlas/data/systems/oph-irs-44.json",
+  "idx": 0,
+  "instrument": "Band 6"
+ },
+ "hd-34700_stadler2026-alma": {
+  "epoch": "2022 Oct 9",
+  "tier": "year",
+  "snippet": "ctx dates same year: 2022 Oct 9",
+  "arxiv": "2601.15262",
+  "system": "hd-34700",
+  "file": "/home/brinen2spark/Developments/diskatlas/data/systems/hd-34700.json",
+  "idx": 13,
+  "instrument": "Band 6"
+ },
+ "hd-34700_stadler2026-12co": {
+  "epoch": "2022 Oct 9",
+  "tier": "year",
+  "snippet": "ctx dates same year: 2022 Oct 9",
+  "arxiv": "2601.15262",
+  "system": "hd-34700",
+  "file": "/home/brinen2spark/Developments/diskatlas/data/systems/hd-34700.json",
+  "idx": 14,
+  "instrument": "Band 6 (12CO)"
+ },
+ "hd-34700_stadler2026-13co": {
+  "epoch": "2022 Oct 9",
+  "tier": "year",
+  "snippet": "ctx dates same year: 2022 Oct 9",
+  "arxiv": "2601.15262",
+  "system": "hd-34700",
+  "file": "/home/brinen2spark/Developments/diskatlas/data/systems/hd-34700.json",
+  "idx": 15,
+  "instrument": "Band 6 (13CO)"
+ },
+ "hd-34700_stadler2026-c18o": {
+  "epoch": "2022 Oct 9",
+  "tier": "year",
+  "snippet": "ctx dates same year: 2022 Oct 9",
+  "arxiv": "2601.15262",
+  "system": "hd-34700",
+  "file": "/home/brinen2spark/Developments/diskatlas/data/systems/hd-34700.json",
+  "idx": 16,
+  "instrument": "Band 6 (C18O)"
+ },
+ "at-pyx_alma": {
+  "epoch": "2022 Aug 31",
+  "tier": "instr",
+  "snippet": "e beam size for both datasets was 539x397 mas$^2$ after reprocessing (ALMA Project ID: 2021.1.01705.S, observi",
+  "arxiv": "2602.19755",
+  "system": "at-pyx",
+  "file": "/home/brinen2spark/Developments/diskatlas/data/systems/at-pyx.json",
+  "idx": 1,
+  "instrument": "Band 6"
+ },
+ "hd-34282_alma2026-b3": {
+  "epoch": "2023",
+  "tier": "year",
+  "snippet": "ctx dates same year: 2023 Dec 23; 2023 Jul; 2023 Jun",
+  "arxiv": "2603.06992",
+  "system": "hd-34282",
+  "file": "/home/brinen2spark/Developments/diskatlas/data/systems/hd-34282.json",
+  "idx": 5,
+  "instrument": "ALMA Band 3"
+ },
+ "iram-04191-1522_alma_b7": {
+  "epoch": "2017 Nov 24",
+  "tier": "instr",
+  "snippet": "} As part of the ALMA Cycle~5 program 2017.1.00551.S (PI Hu\\'elamo), IRAM04191 was observed with the ALMA 12m-",
+  "arxiv": "2603.15274",
+  "system": "iram-04191-1522",
+  "file": "/home/brinen2spark/Developments/diskatlas/data/systems/iram-04191-1522.json",
+  "idx": 0,
+  "instrument": "Band 7"
+ },
+ "hip-17453_cbass": {
+  "epoch": null,
+  "tier": "ambig",
+  "snippet": "ctx dates span years: 2013 Dec 18; 2024 Feb 18; 2024 Oct 26",
+  "arxiv": "2606.30733",
+  "system": "hip-17453",
+  "file": "/home/brinen2spark/Developments/diskatlas/data/systems/hip-17453.json",
+  "idx": 0,
+  "instrument": "NIRC2 Ks"
+ },
+ "hd-100546_mirac2003": {
+  "epoch": null,
+  "tier": "ambig",
+  "snippet": "ctx dates span years: 2001 Aug; 2002 May; 2003 Mar",
+  "arxiv": "astro-ph/0310564",
+  "system": "hd-100546",
+  "file": "/home/brinen2spark/Developments/diskatlas/data/systems/hd-100546.json",
+  "idx": 11,
+  "instrument": "MIRAC/BLINC direct mid-IR imaging + nulling"
+ },
+ "sr-24s_sma2005": {
+  "epoch": "2004 Aug 2",
+  "tier": "instr",
+  "snippet": "\\section{Observations and Data Reduction} Millimeter interferometric observations of the SR 24 system were obt",
+  "arxiv": "astro-ph/0411131",
+  "system": "sr-24s",
+  "file": "/home/brinen2spark/Developments/diskatlas/data/systems/sr-24s.json",
+  "idx": 1,
+  "instrument": "SMA (225 GHz continuum)"
  }
 }

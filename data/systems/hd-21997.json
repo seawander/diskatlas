@@ -1,7 +1,10 @@
 {
  "id": "hd-21997",
  "name": "HD 21997",
- "alt_names": ["HIP 16449", "HR 1082"],
+ "alt_names": [
+  "HIP 16449",
+  "HR 1082"
+ ],
  "simbad": "HD 21997",
  "ra_deg": 52.97352920947,
  "dec_deg": -25.61415000031,
@@ -31,7 +34,8 @@
     "journal": "A&A 693, A151",
     "arxiv": "2501.09058",
     "bibcode": "2025A&A...693A.151M"
-   }
+   },
+   "epoch": "2011-2019"
   }
  ],
  "notes": "coverage: no resolved scattered-light image as of 2026-07 (swept)",

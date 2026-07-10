@@ -837,7 +837,9 @@ if (typeof window !== "undefined") (function () {
       t.innerHTML = '<span class="wl">' + fmtWl(im.wavelength_um) + "</span> "
         + esc((im.instr_key && im.instr_key !== "other") ? im.instr_key : shortFac(im.facility))
         + (yt ? ' <span class="yr' + (yt.obs ? "" : " pub") + '">' + (yt.obs ? esc(yt.y) : "(" + esc(yt.y) + ")") + "</span>" : "");
-      t.title = yt ? (yt.obs ? "observation epoch " + im.epoch
+      t.title = yt ? (yt.obs ? (/^\d{4}-\d{4}$/.test(String(im.epoch))
+                                  ? "observations span " + im.epoch + " (combined data)"
+                                  : "observation epoch " + im.epoch)
                              : "published " + yt.y + " (observation epoch not recorded)") : "";
       t.onclick = () => showImg(i);
       sl.appendChild(t);

@@ -33,7 +33,8 @@
     "journal": "ApJL (exoALMA special issue)",
     "arxiv": "2504.18725",
     "bibcode": "2025ApJ...984L...9C"
-   }
+   },
+   "epoch": "2021-2022"
   },
   {
    "type": "disk_scattered",
@@ -202,7 +203,8 @@
     "bibcode": "2025NatAs...9.1176R"
    },
    "file": "images/pds-66/pds-66_alma3mm2025.png",
-   "note": "New ALMA Band 3 (3mm) observation of MP Mus (PDS 66), a different band/config from the existing exoALMA Band 7 (0.9mm) record. The 3mm data reveal a ring at 10.5au and gaps at 7.5/15au that are undetected at 0.9/1.3mm, plus hints of an inner cavity (<3au). The paper infers a hidden gas-giant companion (1-3 au) from the disk structure plus a Gaia astrometric proper-motion anomaly and hydrodynamic simulations -- the planet is NOT directly imaged, so per instructions it was NOT added to planets[] with method imaging; recommend adding a system-notes line instead, e.g.: 'Gaia astrometry + ALMA 3mm ring/cavity structure (Ribas et al. 2025) indicate an unseen ~1-3 au gas-giant companion; not directly imaged.'"
+   "note": "New ALMA Band 3 (3mm) observation of MP Mus (PDS 66), a different band/config from the existing exoALMA Band 7 (0.9mm) record. The 3mm data reveal a ring at 10.5au and gaps at 7.5/15au that are undetected at 0.9/1.3mm, plus hints of an inner cavity (<3au). The paper infers a hidden gas-giant companion (1-3 au) from the disk structure plus a Gaia astrometric proper-motion anomaly and hydrodynamic simulations -- the planet is NOT directly imaged, so per instructions it was NOT added to planets[] with method imaging; recommend adding a system-notes line instead, e.g.: 'Gaia astrometry + ALMA 3mm ring/cavity structure (Ribas et al. 2025) indicate an unseen ~1-3 au gas-giant companion; not directly imaged.'",
+   "epoch": "2023"
   },
   {
    "image_id": "pds-66_exoalma-co",
@@ -222,7 +224,8 @@
     "arxiv": "2504.18688",
     "bibcode": "2025ApJ...984L...6T"
    },
-   "file": "images/pds-66/pds-66_exoalma-co.png"
+   "file": "images/pds-66/pds-66_exoalma-co.png",
+   "epoch": "2021-2022"
   },
   {
    "image_id": "pds-66_gpi_hband",

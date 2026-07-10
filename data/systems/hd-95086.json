@@ -45,7 +45,8 @@
     "journal": "A&A 693, A151",
     "arxiv": "2501.09058",
     "bibcode": "2025A&A...693A.151M"
-   }
+   },
+   "epoch": "2015"
   },
   {
    "type": "disk_mm",
@@ -107,7 +108,8 @@
     "journal": "A&A",
     "arxiv": "2601.11708",
     "bibcode": "2026A&A...705A.195M"
-   }
+   },
+   "epoch": "2023-01-08"
   },
   {
    "type": "planet",
@@ -128,7 +130,7 @@
    },
    "image_id": "hd-95086_naco2013b",
    "file": "images/hd-95086/hd-95086_naco2013b.png",
-   "epoch": "Jun 2013"
+   "epoch": "2013 Jun"
   },
   {
    "image_id": "hd-95086_sphere2018",
@@ -274,7 +276,8 @@
     "arxiv": "1412.0167",
     "bibcode": "2015ApJ...799..146S"
    },
-   "file": "images/hd-95086/hd-95086_herschel-pacs2015.png"
+   "file": "images/hd-95086/hd-95086_herschel-pacs2015.png",
+   "epoch": "2011-08-01"
   }
  ],
  "notes": "Debris + imaged planet b (Rameau+2013).",

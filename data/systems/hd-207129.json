@@ -35,7 +35,8 @@
     "journal": "A&A 693, A151",
     "arxiv": "2501.09058",
     "bibcode": "2025A&A...693A.151M"
-   }
+   },
+   "epoch": "2016-2017"
   },
   {
    "image_id": "hd-207129_acs2010",
@@ -97,7 +98,8 @@
     "arxiv": "1104.3560",
     "bibcode": "2011A&A...529A.117M"
    },
-   "file": "images/hd-207129/hd-207129_herschel2011.png"
+   "file": "images/hd-207129/hd-207129_herschel2011.png",
+   "epoch": "2010"
   }
  ],
  "notes": "AUTO-CREATED from staging - fill metadata & coords",

@@ -31,7 +31,8 @@
     "bibcode": "2020ApJ...891...48H"
    },
    "image_id": "gm-aur_alma2020",
-   "file": "images/gm-aur/gm-aur_alma2020.png"
+   "file": "images/gm-aur/gm-aur_alma2020.png",
+   "epoch": "2017-2018"
   },
   {
    "type": "disk_scattered",
@@ -135,7 +136,8 @@
     "arxiv": "2109.06268",
     "bibcode": "2021ApJS..257....1O"
    },
-   "file": "images/gm-aur/gm-aur_alma-maps2021.png"
+   "file": "images/gm-aur/gm-aur_alma-maps2021.png",
+   "epoch": "2018"
   },
   {
    "image_id": "gm-aur_sphere-ks-qphi",

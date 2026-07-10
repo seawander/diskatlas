@@ -5308,5 +5308,1793 @@
   "source": "tex:adjudicated",
   "arxiv": "astro-ph/0411177",
   "snippet": "K-band epoch (JHK on 2004 Jan 8; H was 2002 Nov 23)"
+ },
+ "hd-32297_alma-co2019": {
+  "epoch": "2017",
+  "source": "tex:year",
+  "arxiv": "1908.09685",
+  "snippet": "ctx dates same year: 2017 Jul"
+ },
+ "wl-17_alma100ghz2021": {
+  "epoch": "2016",
+  "source": "tex:year",
+  "arxiv": "2109.02652",
+  "snippet": "ctx dates same year: 2016-05-19; 2016-09-10"
+ },
+ "as-209_alma-maps2021": {
+  "epoch": "2018",
+  "source": "tex:year",
+  "arxiv": "2109.06268",
+  "snippet": "4 row dates, same year: 2018-10-26; 2018-10-27; 2018-12-02; 2018-12-25"
+ },
+ "gm-aur_alma-maps2021": {
+  "epoch": "2018",
+  "source": "tex:year",
+  "arxiv": "2109.06268",
+  "snippet": "4 row dates, same year: 2018-10-30; 2018-10-31; 2018-12-13; 2018-12-15"
+ },
+ "mwc-480_alma-maps2021": {
+  "epoch": "2018",
+  "source": "tex:year",
+  "arxiv": "2109.06268",
+  "snippet": "4 row dates, same year: 2018-10-30; 2018-10-31; 2018-12-13; 2018-12-15"
+ },
+ "dr-tau_lbti2022": {
+  "epoch": "2020-02-02",
+  "source": "tex:irow",
+  "arxiv": "2111.01702",
+  "snippet": "2020-02-02  & LBT/LMIRCAM  & AGPM           & 1.10\\as & ///    & 9.70 m/s &$75.50^{\\circ}$ & 1.01589s &  2660 "
+ },
+ "3c-273_alma-band3": {
+  "epoch": "2018-2019",
+  "source": "tex:instr",
+  "arxiv": "2203.15218",
+  "snippet": "scans 2018 Jun 3-4 + 2019 Jan 19 combined"
+ },
+ "3c-273_alma-band6": {
+  "epoch": "2018-2019",
+  "source": "tex:instr",
+  "arxiv": "2203.15218",
+  "snippet": "scans 2018 Jun 3-4 + 2019 Jan 19 combined"
+ },
+ "3c-273_alma-band7": {
+  "epoch": "2018-2019",
+  "source": "tex:instr",
+  "arxiv": "2203.15218",
+  "snippet": "scans 2018 Jun 3-4 + 2019 Jan 19 combined"
+ },
+ "sr-12_alma2022": {
+  "epoch": "2021 Jul 8",
+  "source": "tex:instr",
+  "arxiv": "2204.06013",
+  "snippet": " deep imaging. \\section{Observations and Data Reduction} The ALMA Band 7 observations of SR 12 were carried ou"
+ },
+ "hbc-494_alma2023": {
+  "epoch": "2016 Oct",
+  "source": "tex:instr",
+  "arxiv": "2305.15647",
+  "snippet": "d during the ALMA Cycle-4 in band 6 (program 2016.1.00630.S: PI Zurlo) for two nights, one on the 9\\textsupers"
+ },
+ "b335_edisk": {
+  "epoch": "2014 Sep 2",
+  "source": "tex:row",
+  "arxiv": "2306.15406",
+  "snippet": "B335 & 2014 Sep 02 01:30 & C34-6 & 33--1091 & 34 & $\\cdots$ & 1.1 & J1751+0939, J1751+096, J1955+1358 & $\\cdot"
+ },
+ "bhr71-irs1_edisk": {
+  "epoch": "2021 May 4",
+  "source": "tex:row",
+  "arxiv": "2306.15406",
+  "snippet": "BHR 71 IRS1, BHR 71 IRS2 & 2021 May 04 00:26 & C43-5 & 15-2517 & 44 & 47.3 & 1.6 & J1107-4449, J1107-4449, J11"
+ },
+ "bhr71-irs2_edisk": {
+  "epoch": "2021 May 4",
+  "source": "tex:row",
+  "arxiv": "2306.15406",
+  "snippet": "BHR 71 IRS1, BHR 71 IRS2 & 2021 May 04 00:26 & C43-5 & 15-2517 & 44 & 47.3 & 1.6 & J1107-4449, J1107-4449, J11"
+ },
+ "ced110-irs4_edisk": {
+  "epoch": "2021 Apr 24",
+  "source": "tex:row",
+  "arxiv": "2306.15406",
+  "snippet": "Ced 110 IRS4 & 2021 Apr 24 01:30 & C43-5 & 15-1397 & 45 & 35.3 & 1.4 &"
+ },
+ "iras-04166-2706_edisk": {
+  "epoch": "2021 Sep 30",
+  "source": "tex:row",
+  "arxiv": "2306.15406",
+  "snippet": "IRAS 04166+2706, IRAS 04169+2702 & 2021 Sep 30 05:20$^{\\dagger}$ & C43-8 & 70--11886 & 44 & $\\cdots$ & 0.73 &"
+ },
+ "iras-04169-2702_edisk": {
+  "epoch": "2021 Sep 30",
+  "source": "tex:row",
+  "arxiv": "2306.15406",
+  "snippet": "IRAS 04166+2706, IRAS 04169+2702 & 2021 Sep 30 05:20$^{\\dagger}$ & C43-8 & 70--11886 & 44 & $\\cdots$ & 0.73 &"
+ },
+ "iras-15398-3359_edisk": {
+  "epoch": "2021 May 6",
+  "source": "tex:row",
+  "arxiv": "2306.15406",
+  "snippet": "IRAS 15398-3359 & 2021 May 06 03:56 & C43-5 & 15-2517 & 45 & 74.9 & 1.2 & J1337-1257, J1337-1257, J1610-3958 &"
+ },
+ "iras-16544-1604_edisk": {
+  "epoch": "2021 Aug 24",
+  "source": "tex:row",
+  "arxiv": "2306.15406",
+  "snippet": "IRAS 16544--1604 & 2021 Aug 24 01:21 & C43-8 & 47-12594.5 & 50 & 56 & 0.4 & J1924-2914, J1924-2914, J1653-1551"
+ },
+ "l1489-irs_edisk": {
+  "epoch": "2021",
+  "source": "tex:year",
+  "arxiv": "2306.15406",
+  "snippet": "3 row dates, same year: 2021 Aug 20; 2021 Dec 3"
+ },
+ "l1527-irs_edisk": {
+  "epoch": "2021",
+  "source": "tex:year",
+  "arxiv": "2306.15406",
+  "snippet": "3 row dates, same year: 2021 Dec 3; 2021 Oct 14"
+ },
+ "oph-irs43_edisk": {
+  "epoch": "2021 May 26",
+  "source": "tex:row",
+  "arxiv": "2306.15406",
+  "snippet": "Oph IRS 43 & 2021 May 26 07:32 & C43-5 & 15-2280 & 42 &  $\\cdots$ & 3.6 & J1924-2914, J1924-2914, J1700-2610 &"
+ },
+ "r-cra-iras-32_edisk": {
+  "epoch": "2021 May 4",
+  "source": "tex:row",
+  "arxiv": "2306.15406",
+  "snippet": "R~CrA IRS5N, R~CrA IRAS 32 & 2021 May 04 10:17 & C43-5 & 15-2517 & 42 & $\\cdots$ & 1.7 & J1924-2914, J1924-291"
+ },
+ "r-cra-irs5n_edisk": {
+  "epoch": "2021 May 4",
+  "source": "tex:row",
+  "arxiv": "2306.15406",
+  "snippet": "R~CrA IRS5N, R~CrA IRAS 32 & 2021 May 04 10:17 & C43-5 & 15-2517 & 42 & $\\cdots$ & 1.7 & J1924-2914, J1924-291"
+ },
+ "r-cra-irs7b_edisk": {
+  "epoch": "2021 May 3",
+  "source": "tex:row",
+  "arxiv": "2306.15406",
+  "snippet": "R~CrA IRS7B & 2021 May 03 09:05 & C43-5 & 15-1997 & 43 & 72.2 & 0.5 & J1924-2914, J1924-2914, J1937-3958 & J18"
+ },
+ "tmc-1a_edisk": {
+  "epoch": "2015 Sep 20",
+  "source": "tex:row",
+  "arxiv": "2306.15406",
+  "snippet": "TMC-1A & 2015 Sep 20 06:47 & C34-7/(6) & 41--2270 & 35 & 37.2 & 1.76 & J0510+1800, J0423-013, J0429+2724 & $\\c"
+ },
+ "cida-9_alma2023-b3": {
+  "epoch": "2021 Jul 9",
+  "source": "tex:instr",
+  "arxiv": "2310.11007",
+  "snippet": ".562 & 2.7 & ... \\\\ \\hline \\end{tabular} \\end{table} \\subsection{ALMA observations} ALMA observed CIDA 9A on J"
+ },
+ "pds-70_alma-b3-2024": {
+  "epoch": "2023",
+  "source": "tex:year",
+  "arxiv": "2408.09216",
+  "snippet": "ctx dates same year: 2023 Jul 28"
+ },
+ "so-1036_alma-huang2024": {
+  "epoch": "2023 Aug 4",
+  "source": "tex:row",
+  "arxiv": "2410.03823",
+  "snippet": "SO 1036 & 2023 August 04 &230 m - 16.2 km & 43  \\\\"
+ },
+ "so-1152_alma-huang2024": {
+  "epoch": "2023 Aug 2",
+  "source": "tex:row",
+  "arxiv": "2410.03823",
+  "snippet": "SO 1152 & 2023 August 02 &230 m - 16.2 km&46  \\\\"
+ },
+ "so-1153_alma2024": {
+  "epoch": "2023 Aug 1",
+  "source": "tex:row",
+  "arxiv": "2410.03823",
+  "snippet": "SO 1153 & 2023 August 01 & 230 m - 16.2 km & 43 \\\\"
+ },
+ "so-1274_alma2024": {
+  "epoch": "2023 Jul 19",
+  "source": "tex:row",
+  "arxiv": "2410.03823",
+  "snippet": "SO 1274 & 2023 July 19 &230 m - 15.2 km&46\\\\"
+ },
+ "so-662_alma-huang2024": {
+  "epoch": "2023 Jul 26",
+  "source": "tex:row",
+  "arxiv": "2410.03823",
+  "snippet": "SO 662 & 2023 July 26 &256 m - 15.2 km  & 43 \\\\"
+ },
+ "so-844_alma2024": {
+  "epoch": "2023 Jul 31",
+  "source": "tex:row",
+  "arxiv": "2410.03823",
+  "snippet": "SO 844 & 2023 July 31 & 230 m - 16.2 km & 43 \\\\"
+ },
+ "so-897_alma2024": {
+  "epoch": "2023 Jul 28",
+  "source": "tex:row",
+  "arxiv": "2410.03823",
+  "snippet": "SO 897 & 2023 July 28 & 230 m - 16.2 km & 48\\\\"
+ },
+ "so-984_alma-huang2024": {
+  "epoch": "2023 Aug 6",
+  "source": "tex:row",
+  "arxiv": "2410.03823",
+  "snippet": "SO 984 & 2023 August 06 & 230 m - 16.2 km & 44  \\\\"
+ },
+ "lkca-15_alma-band3-2025": {
+  "epoch": "2023 Jan",
+  "source": "tex:instr",
+  "arxiv": "2503.03336",
+  "snippet": "observations} ALMA observed the disc around LkCa15 in Band 3 (Program project: 2022.1.01216.S, PI: Anibal Sier"
+ },
+ "iso-oph-37_alma-agepro": {
+  "epoch": "2022",
+  "source": "tex:year",
+  "arxiv": "2506.10731",
+  "snippet": "22 row dates, same year: 2022-03-29; 2022-03-30; 2022-04-03; 2022-04-08"
+ },
+ "2mass-j16085324-3914401_alma-agepro": {
+  "epoch": "2019",
+  "source": "tex:year",
+  "arxiv": "2506.10734",
+  "snippet": "5 row dates, same year: 2019-10-10; 2019-10-30; 2019-11-07"
+ },
+ "ab-aur_muse2025": {
+  "epoch": "2022",
+  "source": "tex:year",
+  "arxiv": "2508.18351",
+  "snippet": "ctx dates same year: 2022 Nov 21; 2022 Oct 22"
+ },
+ "hr-7012_alma2025": {
+  "epoch": "2023",
+  "source": "tex:year",
+  "arxiv": "2512.04154",
+  "snippet": "ctx dates same year: 2023 Jun 3; 2023 Jun 4"
+ },
+ "oph-irs-44_alma2026": {
+  "epoch": "2023",
+  "source": "tex:instr",
+  "arxiv": "2601.04108",
+  "snippet": "ALMA Apr-Jun 2023"
+ },
+ "hd-34700_stadler2026-alma": {
+  "epoch": "2022 Oct 9",
+  "source": "tex:year",
+  "arxiv": "2601.15262",
+  "snippet": "ctx dates same year: 2022 Oct 9"
+ },
+ "hd-34700_stadler2026-12co": {
+  "epoch": "2022 Oct 9",
+  "source": "tex:year",
+  "arxiv": "2601.15262",
+  "snippet": "ctx dates same year: 2022 Oct 9"
+ },
+ "hd-34700_stadler2026-13co": {
+  "epoch": "2022 Oct 9",
+  "source": "tex:year",
+  "arxiv": "2601.15262",
+  "snippet": "ctx dates same year: 2022 Oct 9"
+ },
+ "hd-34700_stadler2026-c18o": {
+  "epoch": "2022 Oct 9",
+  "source": "tex:year",
+  "arxiv": "2601.15262",
+  "snippet": "ctx dates same year: 2022 Oct 9"
+ },
+ "at-pyx_alma": {
+  "epoch": "2022 Aug 31",
+  "source": "tex:instr",
+  "arxiv": "2602.19755",
+  "snippet": "e beam size for both datasets was 539x397 mas$^2$ after reprocessing (ALMA Project ID: 2021.1.01705.S, observi"
+ },
+ "hd-34282_alma2026-b3": {
+  "epoch": "2023",
+  "source": "tex:year",
+  "arxiv": "2603.06992",
+  "snippet": "ctx dates same year: 2023 Dec 23; 2023 Jul; 2023 Jun"
+ },
+ "iram-04191-1522_alma_b7": {
+  "epoch": "2017 Nov 24",
+  "source": "tex:instr",
+  "arxiv": "2603.15274",
+  "snippet": "} As part of the ALMA Cycle~5 program 2017.1.00551.S (PI Hu\\'elamo), IRAM04191 was observed with the ALMA 12m-"
+ },
+ "sr-24s_sma2005": {
+  "epoch": "2004 Aug 2",
+  "source": "tex:instr",
+  "arxiv": "astro-ph/0411131",
+  "snippet": "\\section{Observations and Data Reduction} Millimeter interferometric observations of the SR 24 system were obt"
+ },
+ "do-tau_taurus-long2019": {
+  "epoch": "2017-08-27",
+  "source": "alma:alma-code",
+  "arxiv": "1906.10809",
+  "snippet": "5 execs, codes ['2016.1.01164.S']"
+ },
+ "haro-6-13_taurus-long2019": {
+  "epoch": "2017-08-27",
+  "source": "alma:alma-code",
+  "arxiv": "1906.10809",
+  "snippet": "5 execs, codes ['2016.1.01164.S']"
+ },
+ "uy-aur_taurus-long2019": {
+  "epoch": "2017-08-31",
+  "source": "alma:alma-code",
+  "arxiv": "1906.10809",
+  "snippet": "5 execs, codes ['2016.1.01164.S']"
+ },
+ "hp-tau_taurus-long2019": {
+  "epoch": "2017-08-27",
+  "source": "alma:alma-code",
+  "arxiv": "1906.10809",
+  "snippet": "5 execs, codes ['2016.1.01164.S']"
+ },
+ "hq-tau_taurus-long2019": {
+  "epoch": "2017-08-31",
+  "source": "alma:alma-code",
+  "arxiv": "1906.10809",
+  "snippet": "5 execs, codes ['2016.1.01164.S']"
+ },
+ "bp-tau_taurus-long2019": {
+  "epoch": "2017-08-31",
+  "source": "alma:alma-code",
+  "arxiv": "1906.10809",
+  "snippet": "5 execs, codes ['2016.1.01164.S']"
+ },
+ "dr-tau_taurus-long2019": {
+  "epoch": "2017-08-18",
+  "source": "alma:alma-code",
+  "arxiv": "1906.10809",
+  "snippet": "5 execs, codes ['2016.1.01164.S']"
+ },
+ "ho-tau_taurus-long2019": {
+  "epoch": "2017-08-31",
+  "source": "alma:alma-code",
+  "arxiv": "1906.10809",
+  "snippet": "5 execs, codes ['2016.1.01164.S']"
+ },
+ "hk-tau_taurus-long2019": {
+  "epoch": "2017-08-31",
+  "source": "alma:alma-code",
+  "arxiv": "1906.10809",
+  "snippet": "5 execs, codes ['2016.1.01164.S']"
+ },
+ "dq-tau_taurus-long2019": {
+  "epoch": "2017-08-18",
+  "source": "alma:alma-code",
+  "arxiv": "1906.10809",
+  "snippet": "5 execs, codes ['2016.1.01164.S']"
+ },
+ "rw-aur_taurus-long2019": {
+  "epoch": "2017-08-31",
+  "source": "alma:alma-code",
+  "arxiv": "1906.10809",
+  "snippet": "5 execs, codes ['2016.1.01164.S']"
+ },
+ "dh-tau_taurus-long2019": {
+  "epoch": "2017-08-31",
+  "source": "alma:alma-code",
+  "arxiv": "1906.10809",
+  "snippet": "5 execs, codes ['2016.1.01164.S']"
+ },
+ "hd-191089_reasons": {
+  "epoch": "2018",
+  "source": "alma:alma-code",
+  "arxiv": "2501.09058",
+  "snippet": "8 execs, codes ['2017.1.00200.S', '2017.1.00704.S']"
+ },
+ "hd-15745_reasons": {
+  "epoch": "2018-08-12",
+  "source": "alma:alma-code",
+  "arxiv": "2501.09058",
+  "snippet": "4 execs, codes ['2017.1.00200.S', '2017.1.00704.S']"
+ },
+ "hd-84870_reasons": {
+  "epoch": "2018-04-06",
+  "source": "alma:alma-code",
+  "arxiv": "2501.09058",
+  "snippet": "4 execs, codes ['2017.1.00200.S', '2017.1.00704.S']"
+ },
+ "hd-84870_arks": {
+  "epoch": "2022-10-07",
+  "source": "alma:alma-code",
+  "arxiv": "2601.11708",
+  "snippet": "8 execs, codes ['2012.1.00142.S', '2012.1.00198.S']"
+ },
+ "gj-14_reasons": {
+  "epoch": "2018-06-29",
+  "source": "alma:alma-code",
+  "arxiv": "2501.09058",
+  "snippet": "4 execs, codes ['2017.1.00200.S', '2017.1.00704.S']"
+ },
+ "hd-35841_reasons": {
+  "epoch": "2018-01-17",
+  "source": "alma:alma-code",
+  "arxiv": "2501.09058",
+  "snippet": "4 execs, codes ['2017.1.00200.S', '2017.1.00704.S']"
+ },
+ "hr-4796a_reasons": {
+  "epoch": "2018-05-29",
+  "source": "alma:alma-code",
+  "arxiv": "2501.09058",
+  "snippet": "4 execs, codes ['2017.1.00200.S', '2017.1.00704.S']"
+ },
+ "hr-4796a_arks": {
+  "epoch": "2023",
+  "source": "alma:alma-code",
+  "arxiv": "2601.11708",
+  "snippet": "8 execs, codes ['2012.1.00142.S', '2012.1.00198.S']"
+ },
+ "hr-4796a_alma2018": {
+  "epoch": "2016-07-24",
+  "source": "alma:alma-code",
+  "arxiv": "1801.05429",
+  "snippet": "4 execs, codes ['2015.1.00032.S']"
+ },
+ "hd-158352_reasons": {
+  "epoch": "2018-05-30",
+  "source": "alma:alma-code",
+  "arxiv": "2501.09058",
+  "snippet": "4 execs, codes ['2017.1.00200.S', '2017.1.00704.S']"
+ },
+ "hd-114082_reasons": {
+  "epoch": "2018-06-03",
+  "source": "alma:alma-code",
+  "arxiv": "2501.09058",
+  "snippet": "4 execs, codes ['2017.1.00200.S', '2017.1.00704.S']"
+ },
+ "hd-182681_reasons": {
+  "epoch": "2018-06-04",
+  "source": "alma:alma-code",
+  "arxiv": "2501.09058",
+  "snippet": "4 execs, codes ['2017.1.00200.S', '2017.1.00704.S']"
+ },
+ "hd-170773_reasons": {
+  "epoch": "2018-04-29",
+  "source": "alma:alma-code",
+  "arxiv": "2501.09058",
+  "snippet": "8 execs, codes ['2017.1.00200.S', '2017.1.00704.S']"
+ },
+ "hd-170773_arks": {
+  "epoch": "2022-2023",
+  "source": "alma:alma-code",
+  "arxiv": "2601.11708",
+  "snippet": "8 execs, codes ['2012.1.00142.S', '2012.1.00198.S']"
+ },
+ "hd-14055_reasons": {
+  "epoch": "2018-08-12",
+  "source": "alma:alma-code",
+  "arxiv": "2501.09058",
+  "snippet": "4 execs, codes ['2017.1.00200.S', '2017.1.00704.S']"
+ },
+ "hd-14055_arks": {
+  "epoch": "2022-2023",
+  "source": "alma:alma-code",
+  "arxiv": "2601.11708",
+  "snippet": "8 execs, codes ['2012.1.00142.S', '2012.1.00198.S']"
+ },
+ "hd-76582_reasons": {
+  "epoch": "2018-07-12",
+  "source": "alma:alma-code",
+  "arxiv": "2501.09058",
+  "snippet": "4 execs, codes ['2017.1.00200.S', '2017.1.00704.S']"
+ },
+ "hd-76582_arks": {
+  "epoch": "2022-10-04",
+  "source": "alma:alma-code",
+  "arxiv": "2601.11708",
+  "snippet": "8 execs, codes ['2012.1.00142.S', '2012.1.00198.S']"
+ },
+ "hd-117214_reasons": {
+  "epoch": "2018-05-27",
+  "source": "alma:alma-code",
+  "arxiv": "2501.09058",
+  "snippet": "4 execs, codes ['2017.1.00200.S', '2017.1.00704.S']"
+ },
+ "hd-205674_reasons": {
+  "epoch": "2018-06-07",
+  "source": "alma:alma-code",
+  "arxiv": "2501.09058",
+  "snippet": "4 execs, codes ['2017.1.00200.S', '2017.1.00704.S']"
+ },
+ "hd-106906_reasons": {
+  "epoch": "2018-06-03",
+  "source": "alma:alma-code",
+  "arxiv": "2501.09058",
+  "snippet": "4 execs, codes ['2017.1.00200.S', '2017.1.00704.S']"
+ },
+ "hd-129590_reasons": {
+  "epoch": "2018-05-26",
+  "source": "alma:alma-code",
+  "arxiv": "2501.09058",
+  "snippet": "4 execs, codes ['2017.1.00200.S', '2017.1.00704.S']"
+ },
+ "hd-161868_reasons": {
+  "epoch": "2018-05-19",
+  "source": "alma:alma-code",
+  "arxiv": "2501.09058",
+  "snippet": "8 execs, codes ['2017.1.00200.S', '2017.1.00704.S']"
+ },
+ "hd-161868_arks": {
+  "epoch": "2022-10-01",
+  "source": "alma:alma-code",
+  "arxiv": "2601.11708",
+  "snippet": "8 execs, codes ['2012.1.00142.S', '2012.1.00198.S']"
+ },
+ "hd-121191_reasons": {
+  "epoch": "2018-04-17",
+  "source": "alma:alma-code",
+  "arxiv": "2501.09058",
+  "snippet": "4 execs, codes ['2017.1.00200.S', '2017.1.00704.S']"
+ },
+ "hd-107146_arks": {
+  "epoch": "2016-2021",
+  "source": "alma:alma-code",
+  "arxiv": "2601.11708",
+  "snippet": "16 execs, codes ['2012.1.00142.S', '2012.1.00198.S']"
+ },
+ "hd-10647_arks": {
+  "epoch": "2016-2024",
+  "source": "alma:alma-code",
+  "arxiv": "2601.11708",
+  "snippet": "20 execs, codes ['2012.1.00142.S', '2012.1.00198.S']"
+ },
+ "hd-10647_alma2021": {
+  "epoch": "2016-2018",
+  "source": "alma:alma-code",
+  "arxiv": "2106.05975",
+  "snippet": "8 execs, codes ['2015.1.00307.S', '2015.1.01260.S']"
+ },
+ "hd-15257_arks": {
+  "epoch": "2022-10-06",
+  "source": "alma:alma-code",
+  "arxiv": "2601.11708",
+  "snippet": "8 execs, codes ['2012.1.00142.S', '2012.1.00198.S']"
+ },
+ "hd-95086_arks": {
+  "epoch": "2023-01-08",
+  "source": "alma:alma-code",
+  "arxiv": "2601.11708",
+  "snippet": "4 execs, codes ['2012.1.00142.S', '2012.1.00198.S']"
+ },
+ "hd-15115_arks": {
+  "epoch": "2022-2023",
+  "source": "alma:alma-code",
+  "arxiv": "2601.11708",
+  "snippet": "8 execs, codes ['2012.1.00142.S', '2012.1.00198.S']"
+ },
+ "hd-121617_arks": {
+  "epoch": "2022-2023",
+  "source": "alma:alma-code",
+  "arxiv": "2601.11708",
+  "snippet": "8 execs, codes ['2012.1.00142.S', '2012.1.00198.S']"
+ },
+ "49-cet_arks": {
+  "epoch": "2018-2023",
+  "source": "alma:alma-code",
+  "arxiv": "2601.11708",
+  "snippet": "12 execs, codes ['2012.1.00142.S', '2012.1.00198.S']"
+ },
+ "hd-131835_arks": {
+  "epoch": "2022-2023",
+  "source": "alma:alma-code",
+  "arxiv": "2601.11708",
+  "snippet": "8 execs, codes ['2012.1.00142.S', '2012.1.00198.S']"
+ },
+ "hd-145560_arks": {
+  "epoch": "2022-2023",
+  "source": "alma:alma-code",
+  "arxiv": "2601.11708",
+  "snippet": "8 execs, codes ['2012.1.00142.S', '2012.1.00198.S']"
+ },
+ "hd-32297_arks": {
+  "epoch": "2023",
+  "source": "alma:alma-code",
+  "arxiv": "2601.11708",
+  "snippet": "8 execs, codes ['2012.1.00142.S', '2012.1.00198.S']"
+ },
+ "tyc-9340-437-1_arks": {
+  "epoch": "2022-10-02",
+  "source": "alma:alma-code",
+  "arxiv": "2601.11708",
+  "snippet": "8 execs, codes ['2012.1.00142.S', '2012.1.00198.S']"
+ },
+ "hr-8799_arks": {
+  "epoch": "2016-2018",
+  "source": "alma:alma-code",
+  "arxiv": "2601.11708",
+  "snippet": "8 execs, codes ['2012.1.00142.S', '2012.1.00198.S']"
+ },
+ "hr-8799_alma-faramaz2021": {
+  "epoch": "2016-2018",
+  "source": "alma:alma-code",
+  "arxiv": "2104.02088",
+  "snippet": "8 execs, codes ['2012.1.00482.S', '2016.1.00907.S']"
+ },
+ "hd-131488_arks": {
+  "epoch": "2023",
+  "source": "alma:alma-code",
+  "arxiv": "2601.11708",
+  "snippet": "8 execs, codes ['2012.1.00142.S', '2012.1.00198.S']"
+ },
+ "hd-61005_arks": {
+  "epoch": "2022-2023",
+  "source": "alma:alma-code",
+  "arxiv": "2601.11708",
+  "snippet": "8 execs, codes ['2012.1.00142.S', '2012.1.00198.S']"
+ },
+ "hd-92945_arks": {
+  "epoch": "2016",
+  "source": "alma:alma-code",
+  "arxiv": "2601.11708",
+  "snippet": "8 execs, codes ['2012.1.00142.S', '2012.1.00198.S']"
+ },
+ "rx-j1852-3-3700_exoalma": {
+  "epoch": "2022",
+  "source": "alma:alma-code",
+  "arxiv": "2504.18725",
+  "snippet": "8 execs, codes ['2021.1.01123.L']"
+ },
+ "rx-j1852-3-3700_exoalma-co": {
+  "epoch": "2022",
+  "source": "alma:alma-code",
+  "arxiv": "2504.18688",
+  "snippet": "8 execs, codes ['2021.1.01123.L']"
+ },
+ "lkca-15_exoalma": {
+  "epoch": "2021-2022",
+  "source": "alma:alma-code",
+  "arxiv": "2504.18725",
+  "snippet": "12 execs, codes ['2021.1.01123.L']"
+ },
+ "lkca-15_exoalma-co": {
+  "epoch": "2021-2022",
+  "source": "alma:alma-code",
+  "arxiv": "2504.18688",
+  "snippet": "12 execs, codes ['2021.1.01123.L']"
+ },
+ "hd-135344b_exoalma": {
+  "epoch": "2022",
+  "source": "alma:alma-code",
+  "arxiv": "2504.18725",
+  "snippet": "8 execs, codes ['2021.1.01123.L']"
+ },
+ "hd-135344b_exoalma-co": {
+  "epoch": "2022",
+  "source": "alma:alma-code",
+  "arxiv": "2504.18688",
+  "snippet": "8 execs, codes ['2021.1.01123.L']"
+ },
+ "rx-j1615-3-3255_exoalma": {
+  "epoch": "2021-2023",
+  "source": "alma:alma-code",
+  "arxiv": "2504.18725",
+  "snippet": "12 execs, codes ['2021.1.01123.L']"
+ },
+ "rx-j1615-3-3255_exoalma-co": {
+  "epoch": "2021-2023",
+  "source": "alma:alma-code",
+  "arxiv": "2504.18688",
+  "snippet": "12 execs, codes ['2021.1.01123.L']"
+ },
+ "sy-cha_exoalma": {
+  "epoch": "2021-2022",
+  "source": "alma:alma-code",
+  "arxiv": "2504.18725",
+  "snippet": "8 execs, codes ['2021.1.01123.L']"
+ },
+ "sy-cha_exoalma-co": {
+  "epoch": "2021-2022",
+  "source": "alma:alma-code",
+  "arxiv": "2504.18688",
+  "snippet": "8 execs, codes ['2021.1.01123.L']"
+ },
+ "aa-tau_exoalma": {
+  "epoch": "2021-2022",
+  "source": "alma:alma-code",
+  "arxiv": "2504.18725",
+  "snippet": "16 execs, codes ['2021.1.01123.L']"
+ },
+ "aa-tau_exoalma-co": {
+  "epoch": "2021-2022",
+  "source": "alma:alma-code",
+  "arxiv": "2504.18688",
+  "snippet": "16 execs, codes ['2021.1.01123.L']"
+ },
+ "hd-34282_exoalma": {
+  "epoch": "2021-2022",
+  "source": "alma:alma-code",
+  "arxiv": "2504.18725",
+  "snippet": "16 execs, codes ['2021.1.01123.L']"
+ },
+ "hd-34282_exoalma-co": {
+  "epoch": "2021-2022",
+  "source": "alma:alma-code",
+  "arxiv": "2504.18688",
+  "snippet": "16 execs, codes ['2021.1.01123.L']"
+ },
+ "pds-66_exoalma": {
+  "epoch": "2021-2022",
+  "source": "alma:alma-code",
+  "arxiv": "2504.18725",
+  "snippet": "8 execs, codes ['2021.1.01123.L']"
+ },
+ "pds-66_exoalma-co": {
+  "epoch": "2021-2022",
+  "source": "alma:alma-code",
+  "arxiv": "2504.18688",
+  "snippet": "8 execs, codes ['2021.1.01123.L']"
+ },
+ "pds-66_alma3mm2025": {
+  "epoch": "2023",
+  "source": "alma:alma-code",
+  "arxiv": "2507.11612",
+  "snippet": "8 execs, codes ['2017.1.01167.S', '2017.1.01419.S']"
+ },
+ "rx-j1604-3-2130_exoalma": {
+  "epoch": "2021-2022",
+  "source": "alma:alma-code",
+  "arxiv": "2504.18725",
+  "snippet": "12 execs, codes ['2021.1.01123.L']"
+ },
+ "rx-j1604-3-2130_exoalma-co": {
+  "epoch": "2021-2022",
+  "source": "alma:alma-code",
+  "arxiv": "2504.18688",
+  "snippet": "12 execs, codes ['2021.1.01123.L']"
+ },
+ "cq-tau_exoalma": {
+  "epoch": "2021-2022",
+  "source": "alma:alma-code",
+  "arxiv": "2504.18725",
+  "snippet": "8 execs, codes ['2021.1.01123.L']"
+ },
+ "cq-tau_exoalma-co": {
+  "epoch": "2021-2022",
+  "source": "alma:alma-code",
+  "arxiv": "2504.18688",
+  "snippet": "8 execs, codes ['2021.1.01123.L']"
+ },
+ "mwc-758_exoalma": {
+  "epoch": "2021-2022",
+  "source": "alma:alma-code",
+  "arxiv": "2504.18725",
+  "snippet": "8 execs, codes ['2021.1.01123.L']"
+ },
+ "mwc-758_exoalma-co": {
+  "epoch": "2021-2022",
+  "source": "alma:alma-code",
+  "arxiv": "2504.18688",
+  "snippet": "8 execs, codes ['2021.1.01123.L']"
+ },
+ "dm-tau_exoalma": {
+  "epoch": "2021-2022",
+  "source": "alma:alma-code",
+  "arxiv": "2504.18725",
+  "snippet": "16 execs, codes ['2021.1.01123.L']"
+ },
+ "dm-tau_exoalma-co": {
+  "epoch": "2021-2022",
+  "source": "alma:alma-code",
+  "arxiv": "2504.18688",
+  "snippet": "16 execs, codes ['2021.1.01123.L']"
+ },
+ "hd-143006_exoalma": {
+  "epoch": "2022-2023",
+  "source": "alma:alma-code",
+  "arxiv": "2504.18725",
+  "snippet": "8 execs, codes ['2021.1.01123.L']"
+ },
+ "hd-143006_exoalma-co": {
+  "epoch": "2022-2023",
+  "source": "alma:alma-code",
+  "arxiv": "2504.18688",
+  "snippet": "8 execs, codes ['2021.1.01123.L']"
+ },
+ "v4046-sgr_exoalma": {
+  "epoch": "2021-2022",
+  "source": "alma:alma-code",
+  "arxiv": "2504.18725",
+  "snippet": "12 execs, codes ['2021.1.01123.L']"
+ },
+ "v4046-sgr_exoalma-co": {
+  "epoch": "2021-2022",
+  "source": "alma:alma-code",
+  "arxiv": "2504.18688",
+  "snippet": "12 execs, codes ['2021.1.01123.L']"
+ },
+ "rx-j1842-9-3532_exoalma": {
+  "epoch": "2022",
+  "source": "alma:alma-code",
+  "arxiv": "2504.18725",
+  "snippet": "8 execs, codes ['2021.1.01123.L']"
+ },
+ "rx-j1842-9-3532_exoalma-co": {
+  "epoch": "2022",
+  "source": "alma:alma-code",
+  "arxiv": "2504.18688",
+  "snippet": "8 execs, codes ['2021.1.01123.L']"
+ },
+ "sr-21_alma2020": {
+  "epoch": "2017-11-09",
+  "source": "alma:alma-code",
+  "arxiv": "2003.08189",
+  "snippet": "4 execs, codes ['2017.1.00884.S']"
+ },
+ "sr-21_alma2023": {
+  "epoch": "2019",
+  "source": "alma:alma-code",
+  "arxiv": "2303.05064",
+  "snippet": "10 execs, codes ['2017.1.00884.S', '2018.1.00689.S']"
+ },
+ "2mass-j16082324-1930009_agepro": {
+  "epoch": "2022",
+  "source": "alma:alma-code",
+  "arxiv": "2506.10719",
+  "snippet": "12 execs, codes ['2015.1.01199.S', '2017.1.00569.S']"
+ },
+ "2mass-j16163345-2521505_agepro": {
+  "epoch": "2022",
+  "source": "alma:alma-code",
+  "arxiv": "2506.10719",
+  "snippet": "12 execs, codes ['2015.1.01199.S', '2017.1.00569.S']"
+ },
+ "iso-oph-43_agepro": {
+  "epoch": "2022",
+  "source": "alma:alma-code",
+  "arxiv": "2506.10719",
+  "snippet": "30 execs, codes ['2015.1.01199.S', '2017.1.00569.S']"
+ },
+ "2mass-j16090075-1908526_agepro": {
+  "epoch": "2022",
+  "source": "alma:alma-code",
+  "arxiv": "2506.10719",
+  "snippet": "12 execs, codes ['2015.1.01199.S', '2017.1.00569.S']"
+ },
+ "elias-2-32_agepro": {
+  "epoch": "2022",
+  "source": "alma:alma-code",
+  "arxiv": "2506.10719",
+  "snippet": "30 execs, codes ['2015.1.01199.S', '2017.1.00569.S']"
+ },
+ "2mass-j16124373-3815031_agepro": {
+  "epoch": "2021-2022",
+  "source": "alma:alma-code",
+  "arxiv": "2506.10719",
+  "snippet": "18 execs, codes ['2015.1.01199.S', '2017.1.00569.S']"
+ },
+ "sz-65_agepro": {
+  "epoch": "2018-2022",
+  "source": "alma:alma-code",
+  "arxiv": "2506.10719",
+  "snippet": "42 execs, codes ['2015.1.01199.S', '2017.1.00569.S']"
+ },
+ "sz-131_agepro": {
+  "epoch": "2021-2022",
+  "source": "alma:alma-code",
+  "arxiv": "2506.10719",
+  "snippet": "18 execs, codes ['2015.1.01199.S', '2017.1.00569.S']"
+ },
+ "2mass-j16221532-2511349_agepro": {
+  "epoch": "2022",
+  "source": "alma:alma-code",
+  "arxiv": "2506.10719",
+  "snippet": "12 execs, codes ['2015.1.01199.S', '2017.1.00569.S']"
+ },
+ "iso-oph-94_agepro": {
+  "epoch": "2022",
+  "source": "alma:alma-code",
+  "arxiv": "2506.10719",
+  "snippet": "30 execs, codes ['2015.1.01199.S', '2017.1.00569.S']"
+ },
+ "iso-oph-127_agepro": {
+  "epoch": "2022",
+  "source": "alma:alma-code",
+  "arxiv": "2506.10719",
+  "snippet": "30 execs, codes ['2015.1.01199.S', '2017.1.00569.S']"
+ },
+ "iso-oph-129_agepro": {
+  "epoch": "2022",
+  "source": "alma:alma-code",
+  "arxiv": "2506.10719",
+  "snippet": "30 execs, codes ['2015.1.01199.S', '2017.1.00569.S']"
+ },
+ "2mass-j16202863-2442087_agepro": {
+  "epoch": "2022",
+  "source": "alma:alma-code",
+  "arxiv": "2506.10719",
+  "snippet": "12 execs, codes ['2015.1.01199.S', '2017.1.00569.S']"
+ },
+ "iso-oph-165_agepro": {
+  "epoch": "2022",
+  "source": "alma:alma-code",
+  "arxiv": "2506.10719",
+  "snippet": "30 execs, codes ['2015.1.01199.S', '2017.1.00569.S']"
+ },
+ "2mass-j16120668-3010270_agepro": {
+  "epoch": "2022",
+  "source": "alma:alma-code",
+  "arxiv": "2506.10719",
+  "snippet": "12 execs, codes ['2015.1.01199.S', '2017.1.00569.S']"
+ },
+ "2mass-j16020757-2257467_agepro": {
+  "epoch": "2022",
+  "source": "alma:alma-code",
+  "arxiv": "2506.10719",
+  "snippet": "12 execs, codes ['2015.1.01199.S', '2017.1.00569.S']"
+ },
+ "iras-04302-2247_edgeon-alma2020-b4": {
+  "epoch": "2017-09-27",
+  "source": "alma:alma-code",
+  "arxiv": "2008.06518",
+  "snippet": "4 execs, codes ['2013.1.01175.S', '2016.1.00460.S']"
+ },
+ "iras-04302-2247_edgeon-alma2020": {
+  "epoch": "2016-2017",
+  "source": "alma:alma-code",
+  "arxiv": "2008.06518",
+  "snippet": "8 execs, codes ['2013.1.01175.S', '2016.1.00460.S']"
+ },
+ "hh-30_edgeon-alma2020-b4": {
+  "epoch": "2016-2017",
+  "source": "alma:alma-code",
+  "arxiv": "2008.06518",
+  "snippet": "8 execs, codes ['2013.1.01175.S', '2016.1.00460.S']"
+ },
+ "hh-30_edgeon-alma2020-b6": {
+  "epoch": "2015-07-19",
+  "source": "alma:alma-code",
+  "arxiv": "2008.06518",
+  "snippet": "5 execs, codes ['2013.1.01175.S', '2016.1.00460.S']"
+ },
+ "hh-30_edgeon-alma2020": {
+  "epoch": "2016-10-14",
+  "source": "alma:alma-code",
+  "arxiv": "2008.06518",
+  "snippet": "4 execs, codes ['2013.1.01175.S', '2016.1.00460.S']"
+ },
+ "hv-tau-c_edgeon-alma2020-b4": {
+  "epoch": "2017-09-27",
+  "source": "alma:alma-code",
+  "arxiv": "2008.06518",
+  "snippet": "4 execs, codes ['2013.1.01175.S', '2016.1.00460.S']"
+ },
+ "hv-tau-c_edgeon-alma2020": {
+  "epoch": "2016-2017",
+  "source": "alma:alma-code",
+  "arxiv": "2008.06518",
+  "snippet": "8 execs, codes ['2013.1.01175.S', '2016.1.00460.S']"
+ },
+ "oph-163131_edgeon-alma2020": {
+  "epoch": "2017",
+  "source": "alma:alma-code",
+  "arxiv": "2008.06518",
+  "snippet": "10 execs, codes ['2013.1.01175.S', '2016.1.00460.S']"
+ },
+ "hh-48-ne_edgeon-alma2020": {
+  "epoch": "2016-11-15",
+  "source": "alma:alma-code",
+  "arxiv": "2008.06518",
+  "snippet": "4 execs, codes ['2013.1.01175.S', '2016.1.00460.S']"
+ },
+ "eso-halpha-574_edgeon-alma2020": {
+  "epoch": "2016-11-15",
+  "source": "alma:alma-code",
+  "arxiv": "2008.06518",
+  "snippet": "4 execs, codes ['2013.1.01175.S', '2016.1.00460.S']"
+ },
+ "iras-04158-2805_edgeon-alma2020-b4": {
+  "epoch": "2017-09-27",
+  "source": "alma:alma-code",
+  "arxiv": "2008.06518",
+  "snippet": "4 execs, codes ['2013.1.01175.S', '2016.1.00460.S']"
+ },
+ "iras-04158-2805_edgeon-alma2020": {
+  "epoch": "2016-2017",
+  "source": "alma:alma-code",
+  "arxiv": "2008.06518",
+  "snippet": "8 execs, codes ['2013.1.01175.S', '2016.1.00460.S']"
+ },
+ "hk-tau-b_edgeon-alma2020-b4": {
+  "epoch": "2017-09-27",
+  "source": "alma:alma-code",
+  "arxiv": "2008.06518",
+  "snippet": "4 execs, codes ['2013.1.01175.S', '2016.1.00460.S']"
+ },
+ "hk-tau-b_edgeon-alma2020": {
+  "epoch": "2016-2017",
+  "source": "alma:alma-code",
+  "arxiv": "2008.06518",
+  "snippet": "8 execs, codes ['2013.1.01175.S', '2016.1.00460.S']"
+ },
+ "tau-042021_edgeon-alma2020-b4": {
+  "epoch": "2017-09-27",
+  "source": "alma:alma-code",
+  "arxiv": "2008.06518",
+  "snippet": "4 execs, codes ['2013.1.01175.S', '2016.1.00460.S']"
+ },
+ "tau-042021_edgeon-alma2020-b6": {
+  "epoch": "2016-10-21",
+  "source": "alma:alma-code",
+  "arxiv": "2008.06518",
+  "snippet": "10 execs, codes ['2013.1.01175.S', '2016.1.00460.S']"
+ },
+ "tau-042021_edgeon-alma2020": {
+  "epoch": "2016-2017",
+  "source": "alma:alma-code",
+  "arxiv": "2008.06518",
+  "snippet": "8 execs, codes ['2013.1.01175.S', '2016.1.00460.S']"
+ },
+ "haro-6-5b_edgeon-alma2020-b4": {
+  "epoch": "2017-09-27",
+  "source": "alma:alma-code",
+  "arxiv": "2008.06518",
+  "snippet": "4 execs, codes ['2013.1.01175.S', '2016.1.00460.S']"
+ },
+ "haro-6-5b_edgeon-alma2020": {
+  "epoch": "2016-2017",
+  "source": "alma:alma-code",
+  "arxiv": "2008.06518",
+  "snippet": "8 execs, codes ['2013.1.01175.S', '2016.1.00460.S']"
+ },
+ "eso-halpha-569_edgeon-alma2020": {
+  "epoch": "2016-11-15",
+  "source": "alma:alma-code",
+  "arxiv": "2008.06518",
+  "snippet": "4 execs, codes ['2013.1.01175.S', '2016.1.00460.S']"
+ },
+ "iras-04200-2759_edgeon-alma2020-b4": {
+  "epoch": "2017-09-27",
+  "source": "alma:alma-code",
+  "arxiv": "2008.06518",
+  "snippet": "4 execs, codes ['2013.1.01175.S', '2016.1.00460.S']"
+ },
+ "iras-04200-2759_edgeon-alma2020": {
+  "epoch": "2016-2017",
+  "source": "alma:alma-code",
+  "arxiv": "2008.06518",
+  "snippet": "8 execs, codes ['2013.1.01175.S', '2016.1.00460.S']"
+ },
+ "im-lup_alma-maps2021": {
+  "epoch": "2018-2019",
+  "source": "alma:alma-code",
+  "arxiv": "2109.06268",
+  "snippet": "30 execs, codes ['2018.1.01055.L']"
+ },
+ "hd-163296_alma-maps2021": {
+  "epoch": "2018-2019",
+  "source": "alma:alma-code",
+  "arxiv": "2109.06268",
+  "snippet": "30 execs, codes ['2018.1.01055.L']"
+ },
+ "su-aur_alma2019": {
+  "epoch": "2015-07-19",
+  "source": "alma:alma-code",
+  "arxiv": "1902.10306",
+  "snippet": "5 execs, codes ['2013.1.00426.S']"
+ },
+ "hd-105_alma2018": {
+  "epoch": "2013-12-01",
+  "source": "alma:alma-code",
+  "arxiv": "1811.06440",
+  "snippet": "4 execs, codes ['2012.1.00437.S']"
+ },
+ "elias-27_alma2016": {
+  "epoch": "2015-07-21",
+  "source": "alma:alma-code",
+  "arxiv": "1610.05139",
+  "snippet": "8 execs, codes ['2013.1.00498.S']"
+ },
+ "sz-72_alma-agepro": {
+  "epoch": "2021-2022",
+  "source": "alma:alma-code",
+  "arxiv": "2506.10734",
+  "snippet": "18 execs, codes ['2017.1.00569.S', '2019.1.01135.S']"
+ },
+ "sz-77_alma-agepro": {
+  "epoch": "2021-2022",
+  "source": "alma:alma-code",
+  "arxiv": "2506.10734",
+  "snippet": "18 execs, codes ['2017.1.00569.S', '2019.1.01135.S']"
+ },
+ "sz-95_alma-agepro": {
+  "epoch": "2021-2022",
+  "source": "alma:alma-code",
+  "arxiv": "2506.10734",
+  "snippet": "18 execs, codes ['2017.1.00569.S', '2019.1.01135.S']"
+ },
+ "sz-66_alma-agepro": {
+  "epoch": "2018-2022",
+  "source": "alma:alma-code",
+  "arxiv": "2506.10734",
+  "snippet": "42 execs, codes ['2017.1.00569.S', '2019.1.01135.S']"
+ },
+ "v1094-sco_alma-agepro": {
+  "epoch": "2021-2022",
+  "source": "alma:alma-code",
+  "arxiv": "2506.10734",
+  "snippet": "18 execs, codes ['2017.1.00569.S', '2019.1.01135.S']"
+ },
+ "sz-71_alma-agepro": {
+  "epoch": "2021-2022",
+  "source": "alma:alma-code",
+  "arxiv": "2506.10734",
+  "snippet": "18 execs, codes ['2017.1.00569.S', '2019.1.01135.S']"
+ },
+ "iso-oph-54_alma2018": {
+  "epoch": "2016",
+  "source": "alma:alma-code",
+  "arxiv": "1803.02847",
+  "snippet": "10 execs, codes ['2015.1.00761.S']"
+ },
+ "dn-tau_taurus-long2018": {
+  "epoch": "2017-08-27",
+  "source": "alma:alma-code",
+  "arxiv": "1810.06044",
+  "snippet": "5 execs, codes ['2016.1.01164.S']"
+ },
+ "dl-tau_taurus-long2018": {
+  "epoch": "2017-08-27",
+  "source": "alma:alma-code",
+  "arxiv": "1810.06044",
+  "snippet": "5 execs, codes ['2016.1.01164.S']"
+ },
+ "ip-tau_taurus-long2018": {
+  "epoch": "2017-08-31",
+  "source": "alma:alma-code",
+  "arxiv": "1810.06044",
+  "snippet": "5 execs, codes ['2016.1.01164.S']"
+ },
+ "go-tau_taurus-long2018": {
+  "epoch": "2017-08-27",
+  "source": "alma:alma-code",
+  "arxiv": "1810.06044",
+  "snippet": "5 execs, codes ['2016.1.01164.S']"
+ },
+ "ci-tau_taurus-long2018": {
+  "epoch": "2017-08-27",
+  "source": "alma:alma-code",
+  "arxiv": "1810.06044",
+  "snippet": "5 execs, codes ['2016.1.01164.S']"
+ },
+ "iq-tau_taurus-long2018": {
+  "epoch": "2017-08-27",
+  "source": "alma:alma-code",
+  "arxiv": "1810.06044",
+  "snippet": "5 execs, codes ['2016.1.01164.S']"
+ },
+ "ry-tau_taurus-long2018": {
+  "epoch": "2017-08-27",
+  "source": "alma:alma-code",
+  "arxiv": "1810.06044",
+  "snippet": "5 execs, codes ['2016.1.01164.S']"
+ },
+ "lkha-330_alma2022": {
+  "epoch": "2019-07-11",
+  "source": "alma:alma-code",
+  "arxiv": "2206.09975",
+  "snippet": "4 execs, codes ['2018.1.00302.S', '2018.1.01302.S']"
+ },
+ "pds-144-n_alma-martinien": {
+  "epoch": "2023-06-07",
+  "source": "alma:alma-code",
+  "arxiv": "2604.11247",
+  "snippet": "4 execs, codes ['2013.1.01175.S', '2016.1.00460.S']"
+ },
+ "lup-160703_alma-martinien": {
+  "epoch": "2023-06-06",
+  "source": "alma:alma-code",
+  "arxiv": "2604.11247",
+  "snippet": "4 execs, codes ['2013.1.01175.S', '2016.1.00460.S']"
+ },
+ "flying-saucer_alma-martinien": {
+  "epoch": "2023-06-07",
+  "source": "alma:alma-code",
+  "arxiv": "2604.11247",
+  "snippet": "4 execs, codes ['2013.1.01175.S', '2016.1.00460.S']"
+ },
+ "lup-160708_alma-martinien": {
+  "epoch": "2023-06-06",
+  "source": "alma:alma-code",
+  "arxiv": "2604.11247",
+  "snippet": "4 execs, codes ['2013.1.01175.S', '2016.1.00460.S']"
+ },
+ "oph-162305_alma-martinien": {
+  "epoch": "2023-06-07",
+  "source": "alma:alma-code",
+  "arxiv": "2604.11247",
+  "snippet": "4 execs, codes ['2013.1.01175.S', '2016.1.00460.S']"
+ },
+ "oph-162305_alma-agepro": {
+  "epoch": "2022",
+  "source": "alma:alma-code",
+  "arxiv": "2506.10731",
+  "snippet": "30 execs, codes ['2018.1.01205.L', '2019.A.00034.S']"
+ },
+ "hd-100453_alma2019": {
+  "epoch": "2016",
+  "source": "alma:alma-code",
+  "arxiv": "1902.00720",
+  "snippet": "10 execs, codes ['2015.1.00192.S']"
+ },
+ "gg-tau_alma2020": {
+  "epoch": "2013-2016",
+  "source": "alma:alma-code",
+  "arxiv": "2001.08147",
+  "snippet": "13 execs, codes ['2011.1.00059.S', '2012.1.00129.S']"
+ },
+ "hd-139614_alma2023": {
+  "epoch": "2016-05-13",
+  "source": "alma:alma-code",
+  "arxiv": "2208.09494",
+  "snippet": "4 execs, codes ['2012.1.00129.S', '2012.1.00158.S']"
+ },
+ "hd-206893_alma2020": {
+  "epoch": "2018",
+  "source": "alma:alma-code",
+  "arxiv": "2010.12582",
+  "snippet": "8 execs, codes ['2017.1.00825.S', '2017.1.00828.S']"
+ },
+ "sr-4_dsharp": {
+  "epoch": "2017",
+  "source": "alma:alma-code",
+  "arxiv": "1812.04040",
+  "snippet": "8 execs, codes ['2012.1.00694.S', '2013.1.00226.S']"
+ },
+ "fu-ori_alma2020": {
+  "epoch": "2016-2017",
+  "source": "alma:alma-code",
+  "arxiv": "1911.11282",
+  "snippet": "10 execs, codes ['2016.1.01228.S']"
+ },
+ "iras-16342-3814_alma_13co": {
+  "epoch": "2015-06-13",
+  "source": "alma:alma-code",
+  "arxiv": "1612.05616",
+  "snippet": "4 execs, codes ['2012.1.00678.S']"
+ },
+ "ru-lup_alma-co2020": {
+  "epoch": "2017-2018",
+  "source": "alma:alma-code",
+  "arxiv": "2007.02974",
+  "snippet": "26 execs, codes ['2016.1.00484.L', '2018.1.01201.S']"
+ },
+ "ab-aur_alma2024": {
+  "epoch": "2022",
+  "source": "alma:alma-code",
+  "arxiv": "2409.02196",
+  "snippet": "10 execs, codes ['2021.1.00690.S']"
+ },
+ "v807-tau_alma2019": {
+  "epoch": "2015-09-19",
+  "source": "alma:alma-code",
+  "arxiv": "1901.05029",
+  "snippet": "8 execs, codes ['2013.1.00105.S', '2015.1.00392.S']"
+ },
+ "as-205_alma-band3-2026": {
+  "epoch": "2018-2019",
+  "source": "alma:alma-code",
+  "arxiv": "2601.16202",
+  "snippet": "8 execs, codes ['2015.1.00168.S', '2016.1.00484.L']"
+ },
+ "gm-aur_alma2020": {
+  "epoch": "2017-2018",
+  "source": "alma:alma-code",
+  "arxiv": "2001.11040",
+  "snippet": "8 execs, codes ['2017.1.01151.S', '2018.1.01230.S']"
+ },
+ "wly-2-63_alma-agepro": {
+  "epoch": "2018-2022",
+  "source": "alma:alma-code",
+  "arxiv": "2506.10731",
+  "snippet": "101 execs, codes ['2018.1.01205.L', '2019.A.00034.S']"
+ },
+ "ww-cha_alma2021": {
+  "epoch": "2017-2018",
+  "source": "alma:alma-code",
+  "arxiv": "2101.10550",
+  "snippet": "10 execs, codes ['2017.1.00286.S']"
+ },
+ "orion-src-i_alma2021": {
+  "epoch": "2017-09-24",
+  "source": "alma:alma-code",
+  "arxiv": "2110.13838",
+  "snippet": "12 execs, codes ['2016.1.00165.S', '2017.1.00497.S']"
+ },
+ "tw-hya_alma2016": {
+  "epoch": "2014-2015",
+  "source": "alma:alma-code",
+  "arxiv": "1603.09352",
+  "snippet": "12 execs, codes ['2011.1.00399.S', '2013.1.00198.S']"
+ },
+ "tw-hya_alma2016-zoom": {
+  "epoch": "2014-2015",
+  "source": "alma:alma-code",
+  "arxiv": "1603.09352",
+  "snippet": "12 execs, codes ['2011.1.00399.S', '2013.1.00198.S']"
+ },
+ "wl-17_alma2023": {
+  "epoch": "2016",
+  "source": "alma:alma-code",
+  "arxiv": "2309.06076",
+  "snippet": "10 execs, codes ['2015.1.00761.S', '2019.1.01792.S']"
+ },
+ "wispit-2_alma2026": {
+  "epoch": "2025-2026",
+  "source": "alma:alma-code",
+  "arxiv": "2601.15948",
+  "snippet": "12 execs, codes ['2024.A.00064.S']"
+ },
+ "hsc-j0217-0208_alma2020": {
+  "epoch": "2018",
+  "source": "alma:alma-code",
+  "arxiv": "1910.10927",
+  "snippet": "12 execs, codes ['2017.1.00508.S']"
+ },
+ "hd-101584_alma_co21": {
+  "epoch": "2014-2016",
+  "source": "alma:alma-code",
+  "arxiv": "1902.02153",
+  "snippet": "16 execs, codes ['2012.1.00248.S', '2015.1.00078.S']"
+ },
+ "svs13a_alma2025": {
+  "epoch": "2022-08-21",
+  "source": "alma:alma-code",
+  "arxiv": "2509.21701",
+  "snippet": "12 execs, codes ['2017.1.00053.S', '2021.1.00418.S']"
+ },
+ "gss30-irs3_edisk": {
+  "epoch": "2021-2022",
+  "source": "alma:alma-code",
+  "arxiv": "2306.15406",
+  "snippet": "14 execs, codes ['2013.1.00879.S', '2013.1.01086.S']"
+ },
+ "iras-16253-2429_edisk": {
+  "epoch": "2015-2022",
+  "source": "alma:alma-code",
+  "arxiv": "2306.15406",
+  "snippet": "21 execs, codes ['2013.1.00879.S', '2013.1.01086.S']"
+ },
+ "hd-141569_alma-miley2018-13co": {
+  "epoch": "2016-05-16",
+  "source": "alma:alma-code",
+  "arxiv": "1805.02476",
+  "snippet": "4 execs, codes ['2015.1.01600.S']"
+ },
+ "hd-44179_alma_09mm": {
+  "epoch": "2021-07-18",
+  "source": "alma:alma-code",
+  "arxiv": "2311.16734",
+  "snippet": "8 execs, codes ['2019.1.00177.S']"
+ },
+ "sz-91_alma2021": {
+  "epoch": "2018-2019",
+  "source": "alma:alma-code",
+  "arxiv": "2108.12548",
+  "snippet": "8 execs, codes ['2012.1.00761.S', '2015.1.01301.S']"
+ },
+ "hip-65426_sphere2017": {
+  "epoch": "2016-2017",
+  "source": "tex:adjudicated",
+  "arxiv": "1707.01413",
+  "snippet": "SHINE discovery epochs 2016 May 30 + 2017 Feb 6-9"
+ },
+ "hd-146897_scexao-charis2018": {
+  "epoch": "2017 Aug 14",
+  "source": "tex:adjudicated",
+  "arxiv": "1810.09458",
+  "snippet": "targeted HIP 79977 (=HD 146897) UT 2017 Aug 14"
+ },
+ "im-lup_discs-sma": {
+  "epoch": "2010 May 22",
+  "source": "tex:adjudicated",
+  "arxiv": "1104.1236",
+  "snippet": "DISCS obs table: May 22 IM Lup 1.4mm (2010 season)"
+ },
+ "hd-142527_discs-sma": {
+  "epoch": "2010 May 25",
+  "source": "tex:adjudicated",
+  "arxiv": "1104.1236",
+  "snippet": "DISCS obs table: May 25 HD 142527 1.4mm (2010 season)"
+ },
+ "hd-71722_herschel-pacs": {
+  "epoch": "2012-03-23",
+  "source": "hsa:hsa",
+  "arxiv": null,
+  "snippet": "1 Herschel obs at HSA"
+ },
+ "hd-104860_herschel-pacs": {
+  "epoch": "2012-03-23",
+  "source": "hsa:hsa",
+  "arxiv": null,
+  "snippet": "1 Herschel obs at HSA"
+ },
+ "hd-95086_herschel-pacs2015": {
+  "epoch": "2011-08-01",
+  "source": "hsa:hsa",
+  "arxiv": null,
+  "snippet": "2 Herschel obs at HSA"
+ },
+ "vega_herschel2010": {
+  "epoch": "2009-2010",
+  "source": "hsa:hsa",
+  "arxiv": null,
+  "snippet": "7 Herschel obs <= paper year 2010"
+ },
+ "hd-159492_herschel-pacs": {
+  "epoch": "2012-03-01",
+  "source": "hsa:hsa",
+  "arxiv": null,
+  "snippet": "2 Herschel obs at HSA"
+ },
+ "hd-70313_herschel-pacs": {
+  "epoch": "2012-03-22",
+  "source": "hsa:hsa",
+  "arxiv": null,
+  "snippet": "1 Herschel obs at HSA"
+ },
+ "hd-113337_herschel2019": {
+  "epoch": "2012-03-23",
+  "source": "hsa:hsa",
+  "arxiv": null,
+  "snippet": "1 Herschel obs at HSA"
+ },
+ "hd-105211_herschel-pacs70": {
+  "epoch": "2013-01-28",
+  "source": "hsa:hsa",
+  "arxiv": null,
+  "snippet": "2 Herschel obs at HSA"
+ },
+ "hd-207129_herschel2011": {
+  "epoch": "2010",
+  "source": "hsa:hsa",
+  "arxiv": null,
+  "snippet": "3 Herschel obs at HSA"
+ },
+ "fomalhaut_herschel2012": {
+  "epoch": "2009-2012",
+  "source": "hsa:hsa",
+  "arxiv": null,
+  "snippet": "9 Herschel obs <= paper year 2012"
+ },
+ "pi1-gruis_alma2020": {
+  "epoch": "2018-2019",
+  "source": "alma:alma-cone",
+  "arxiv": "1911.10756",
+  "snippet": "47 execs / 2 proposals <= 2020"
+ },
+ "lkha-263c_jedice": {
+  "epoch": "2024-08-24",
+  "source": "mast:mast-exact",
+  "arxiv": null,
+  "snippet": "1 JWST NIRSPEC obs (any product)"
+ },
+ "flying-saucer_jwst-nirspec": {
+  "epoch": "2024-2025",
+  "source": "mast:mast-exact",
+  "arxiv": null,
+  "snippet": "2 JWST NIRSPEC obs (any product)"
+ },
+ "lkha-233_hstfoc1995": {
+  "epoch": "1995-06-17",
+  "source": "mast:mast-exact",
+  "arxiv": null,
+  "snippet": "FOC epochs at MAST: 1991-11-20/21, 1994-11-01, 1995-06-17/18; record is the 1995 dataset (was corrupt 'Marin 2025')"
+ },
+ "hd-105_reasons": {
+  "epoch": "2013-12-01",
+  "source": "alma:alma-cone",
+  "arxiv": "2501.09058",
+  "snippet": "4 execs <= 2025"
+ },
+ "49-cet_reasons": {
+  "epoch": "2017-2019",
+  "source": "alma:alma-cone",
+  "arxiv": "2501.09058",
+  "snippet": "8 execs <= 2025"
+ },
+ "hd-10647_reasons": {
+  "epoch": "2016-05-26",
+  "source": "alma:alma-cone",
+  "arxiv": "2501.09058",
+  "snippet": "4 execs <= 2025"
+ },
+ "hd-15115_reasons": {
+  "epoch": "2015-2016",
+  "source": "alma:alma-cone",
+  "arxiv": "2501.09058",
+  "snippet": "8 execs <= 2025"
+ },
+ "hd-16743_reasons": {
+  "epoch": "2019-12-17",
+  "source": "alma:alma-cone",
+  "arxiv": "2501.09058",
+  "snippet": "4 execs <= 2025"
+ },
+ "hd-21997_reasons": {
+  "epoch": "2011-2019",
+  "source": "alma:alma-cone",
+  "arxiv": "2501.09058",
+  "snippet": "12 execs <= 2025"
+ },
+ "hd-22049_reasons": {
+  "epoch": "2016-10-24",
+  "source": "alma:alma-cone",
+  "arxiv": "2501.09058",
+  "snippet": "4 execs <= 2025"
+ },
+ "hd-32297_reasons": {
+  "epoch": "2016-2017",
+  "source": "alma:alma-cone",
+  "arxiv": "2501.09058",
+  "snippet": "12 execs <= 2025"
+ },
+ "hd-36546_reasons": {
+  "epoch": "2019-11-25",
+  "source": "alma:alma-cone",
+  "arxiv": "2501.09058",
+  "snippet": "6 execs <= 2025"
+ },
+ "hd-38206_reasons": {
+  "epoch": "2014-03-07",
+  "source": "alma:alma-cone",
+  "arxiv": "2501.09058",
+  "snippet": "4 execs <= 2025"
+ },
+ "beta-pic_reasons": {
+  "epoch": "2013-2024",
+  "source": "alma:alma-cone",
+  "arxiv": "2501.09058",
+  "snippet": "23 execs <= 2025"
+ },
+ "beta-pic_arks": {
+  "epoch": "2012-2019",
+  "source": "alma:alma-cone",
+  "arxiv": "2601.11708",
+  "snippet": "16 execs <= 2026"
+ },
+ "hd-38858_reasons": {
+  "epoch": "2016-2017",
+  "source": "alma:alma-cone",
+  "arxiv": "2501.09058",
+  "snippet": "8 execs <= 2025"
+ },
+ "hd-53143_reasons": {
+  "epoch": "2019-2023",
+  "source": "alma:alma-cone",
+  "arxiv": "2501.09058",
+  "snippet": "8 execs <= 2025"
+ },
+ "hd-54341_reasons": {
+  "epoch": "2016-05-15",
+  "source": "alma:alma-cone",
+  "arxiv": "2501.09058",
+  "snippet": "4 execs <= 2025"
+ },
+ "hd-61005_reasons": {
+  "epoch": "2013-2016",
+  "source": "alma:alma-cone",
+  "arxiv": "2501.09058",
+  "snippet": "8 execs <= 2025"
+ },
+ "hd-95086_reasons": {
+  "epoch": "2015",
+  "source": "alma:alma-cone",
+  "arxiv": "2501.09058",
+  "snippet": "8 execs <= 2025"
+ },
+ "hd-105211_reasons": {
+  "epoch": "2017-03-28",
+  "source": "alma:alma-cone",
+  "arxiv": "2501.09058",
+  "snippet": "6 execs <= 2025"
+ },
+ "hd-107146_reasons": {
+  "epoch": "2012-2017",
+  "source": "alma:alma-cone",
+  "arxiv": "2501.09058",
+  "snippet": "8 execs <= 2025"
+ },
+ "hd-107146_alma2015": {
+  "epoch": "2012-01-11",
+  "source": "alma:alma-cone",
+  "arxiv": "1410.8265",
+  "snippet": "4 execs <= 2015"
+ },
+ "hd-110058_reasons": {
+  "epoch": "2013-2019",
+  "source": "alma:alma-cone",
+  "arxiv": "2501.09058",
+  "snippet": "8 execs <= 2025"
+ },
+ "hd-111520_reasons": {
+  "epoch": "2013-12-14",
+  "source": "alma:alma-cone",
+  "arxiv": "2501.09058",
+  "snippet": "4 execs <= 2025"
+ },
+ "hd-112810_reasons": {
+  "epoch": "2013-12-14",
+  "source": "alma:alma-cone",
+  "arxiv": "2501.09058",
+  "snippet": "4 execs <= 2025"
+ },
+ "hd-113556_reasons": {
+  "epoch": "2013-12-14",
+  "source": "alma:alma-cone",
+  "arxiv": "2501.09058",
+  "snippet": "4 execs <= 2025"
+ },
+ "hd-113766_reasons": {
+  "epoch": "2013-12-14",
+  "source": "alma:alma-cone",
+  "arxiv": "2501.09058",
+  "snippet": "4 execs <= 2025"
+ },
+ "hd-115600_reasons": {
+  "epoch": "2013-11-30",
+  "source": "alma:alma-cone",
+  "arxiv": "2501.09058",
+  "snippet": "4 execs <= 2025"
+ },
+ "hd-121617_reasons": {
+  "epoch": "2016-2018",
+  "source": "alma:alma-cone",
+  "arxiv": "2501.09058",
+  "snippet": "8 execs <= 2025"
+ },
+ "hd-131488_reasons": {
+  "epoch": "2016-2018",
+  "source": "alma:alma-cone",
+  "arxiv": "2501.09058",
+  "snippet": "8 execs <= 2025"
+ },
+ "hd-131835_reasons": {
+  "epoch": "2014-2022",
+  "source": "alma:alma-cone",
+  "arxiv": "2501.09058",
+  "snippet": "12 execs <= 2025"
+ },
+ "hd-138813_reasons": {
+  "epoch": "2014-2018",
+  "source": "alma:alma-cone",
+  "arxiv": "2501.09058",
+  "snippet": "8 execs <= 2025"
+ },
+ "hd-139664_reasons": {
+  "epoch": "2016-05-13",
+  "source": "alma:alma-cone",
+  "arxiv": "2501.09058",
+  "snippet": "4 execs <= 2025"
+ },
+ "hd-142315_reasons": {
+  "epoch": "2014-03-23",
+  "source": "alma:alma-cone",
+  "arxiv": "2501.09058",
+  "snippet": "4 execs <= 2025"
+ },
+ "hd-142446_reasons": {
+  "epoch": "2014-01-10",
+  "source": "alma:alma-cone",
+  "arxiv": "2501.09058",
+  "snippet": "4 execs <= 2025"
+ },
+ "hd-145560_reasons": {
+  "epoch": "2014-02-25",
+  "source": "alma:alma-cone",
+  "arxiv": "2501.09058",
+  "snippet": "4 execs <= 2025"
+ },
+ "rx-j1615-3-3255_alma2015": {
+  "epoch": "2012-08-14",
+  "source": "alma:alma-cone",
+  "arxiv": "1504.03927",
+  "snippet": "4 execs <= 2015"
+ },
+ "hd-146181_reasons": {
+  "epoch": "2014-02-25",
+  "source": "alma:alma-cone",
+  "arxiv": "2501.09058",
+  "snippet": "4 execs <= 2025"
+ },
+ "hd-146897_reasons": {
+  "epoch": "2014-03-23",
+  "source": "alma:alma-cone",
+  "arxiv": "2501.09058",
+  "snippet": "4 execs <= 2025"
+ },
+ "hd-147137_reasons": {
+  "epoch": "2014-03-23",
+  "source": "alma:alma-cone",
+  "arxiv": "2501.09058",
+  "snippet": "4 execs <= 2025"
+ },
+ "sr-21_alma2015": {
+  "epoch": "2012-07-18",
+  "source": "alma:alma-cone",
+  "arxiv": "1504.03927",
+  "snippet": "4 execs <= 2015"
+ },
+ "oph-irs-48_alma2013": {
+  "epoch": "2012-06-06",
+  "source": "alma:alma-cone",
+  "arxiv": "1306.1768",
+  "snippet": "4 execs <= 2013"
+ },
+ "hd-163296_alma-isella2016": {
+  "epoch": "2012-2016",
+  "source": "alma:alma-cone",
+  "arxiv": null,
+  "snippet": "74 execs <= 2016"
+ },
+ "hd-164249_reasons": {
+  "epoch": "2014-2015",
+  "source": "alma:alma-cone",
+  "arxiv": "2501.09058",
+  "snippet": "8 execs <= 2025"
+ },
+ "vega_reasons": {
+  "epoch": "2016-2021",
+  "source": "alma:alma-cone",
+  "arxiv": "2501.09058",
+  "snippet": "16 execs <= 2025"
+ },
+ "hd-181327_reasons": {
+  "epoch": "2014-2015",
+  "source": "alma:alma-cone",
+  "arxiv": "2501.09058",
+  "snippet": "12 execs <= 2025"
+ },
+ "au-mic_reasons": {
+  "epoch": "2012-2014",
+  "source": "alma:alma-cone",
+  "arxiv": "2501.09058",
+  "snippet": "12 execs <= 2025"
+ },
+ "hd-202628_reasons": {
+  "epoch": "2016-2018",
+  "source": "alma:alma-cone",
+  "arxiv": "2501.09058",
+  "snippet": "12 execs <= 2025"
+ },
+ "hd-206893_reasons": {
+  "epoch": "2018",
+  "source": "alma:alma-cone",
+  "arxiv": "2501.09058",
+  "snippet": "8 execs <= 2025"
+ },
+ "hd-206893_arks": {
+  "epoch": "2017-2018",
+  "source": "alma:alma-cone",
+  "arxiv": "2601.11708",
+  "snippet": "8 execs <= 2026"
+ },
+ "hd-207129_reasons": {
+  "epoch": "2016-2017",
+  "source": "alma:alma-cone",
+  "arxiv": "2501.09058",
+  "snippet": "8 execs <= 2025"
+ },
+ "tyc-9340-437-1_reasons": {
+  "epoch": "2017-07-25",
+  "source": "alma:alma-cone",
+  "arxiv": "2501.09058",
+  "snippet": "4 execs <= 2025"
+ },
+ "fomalhaut_reasons": {
+  "epoch": "2015-2018",
+  "source": "alma:alma-cone",
+  "arxiv": "2501.09058",
+  "snippet": "12 execs <= 2025"
+ },
+ "hr-8799_reasons": {
+  "epoch": "2015-01-03",
+  "source": "alma:alma-cone",
+  "arxiv": "2501.09058",
+  "snippet": "4 execs <= 2025"
  }
 }

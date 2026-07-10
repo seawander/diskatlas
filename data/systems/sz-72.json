@@ -64,7 +64,8 @@
     "journal": "ApJ 989, 3",
     "arxiv": "2506.10734",
     "bibcode": "2025ApJ...989....3D"
-   }
+   },
+   "epoch": "2021-2022"
   }
  ],
  "notes": "SPHERE/IRDIS H-band polarimetric image (DESTINYS survey). Positive polarized signal detected to North and South of the star, with some negative signal from the divergence induced by a very inclined disk geometry (Garufi et al. 2026).",

@@ -34,7 +34,8 @@
     "arxiv": "2506.10734",
     "bibcode": "2025ApJ...989....3D"
    },
-   "file": "images/2mass-j16085324-3914401/2mass-j16085324-3914401_alma-agepro.png"
+   "file": "images/2mass-j16085324-3914401/2mass-j16085324-3914401_alma-agepro.png",
+   "epoch": "2019"
   }
  ],
  "notes": "AUTO-CREATED from staging - fill metadata & coords Added 2026-07-08 (AGE-PRO ALMA, Vioque+2025 resolved).",

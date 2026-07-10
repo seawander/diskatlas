@@ -1,7 +1,10 @@
 {
  "id": "hd-158352",
  "name": "HD 158352",
- "alt_names": ["HIP 85537", "HR 6507"],
+ "alt_names": [
+  "HIP 85537",
+  "HR 6507"
+ ],
  "simbad": "HD 158352",
  "ra_deg": 262.20689494262,
  "dec_deg": 0.33062490012,
@@ -31,7 +34,8 @@
     "journal": "A&A 693, A151",
     "arxiv": "2501.09058",
     "bibcode": "2025A&A...693A.151M"
-   }
+   },
+   "epoch": "2018-05-30"
   }
  ],
  "notes": "AUTO-CREATED from staging - fill metadata & coords",

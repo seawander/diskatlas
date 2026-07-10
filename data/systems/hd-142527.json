@@ -285,7 +285,8 @@
     "year": 2011,
     "journal": "ApJ 734, 98",
     "title": "Disk Imaging Survey of Chemistry with SMA. II. Southern Sky Protoplanetary Disks"
-   }
+   },
+   "epoch": "2010 May 26"
   }
  ],
  "notes": "Extreme azimuthal dust asymmetry; M-dwarf companion inside cavity.",

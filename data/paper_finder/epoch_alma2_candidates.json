@@ -1,0 +1,13 @@
+{
+ "pi1-gruis_alma2020": {
+  "epoch": "2018-2019",
+  "tier": "alma-cone",
+  "snippet": "47 execs / 2 proposals <= 2020",
+  "file": "data/systems/pi1-gruis.json",
+  "idx": 0,
+  "arxiv": "1911.10756",
+  "system": "pi1-gruis",
+  "instrument": null,
+  "src": "alma"
+ }
+}

@@ -52,7 +52,8 @@
     "journal": "ApJL (exoALMA special issue)",
     "arxiv": "2504.18725",
     "bibcode": "2025ApJ...984L...9C"
-   }
+   },
+   "epoch": "2022-2023"
   },
   {
    "type": "disk_scattered",
@@ -178,7 +179,8 @@
     "arxiv": "2504.18688",
     "bibcode": "2025ApJ...984L...6T"
    },
-   "file": "images/hd-143006/hd-143006_exoalma-co.png"
+   "file": "images/hd-143006/hd-143006_exoalma-co.png",
+   "epoch": "2022-2023"
   }
  ],
  "notes": null,

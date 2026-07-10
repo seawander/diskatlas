@@ -54,7 +54,8 @@
     "arxiv": "1910.10927",
     "bibcode": "2020ApJ...896...93H"
    },
-   "file": "images/hsc-j0217-0208/hsc-j0217-0208_alma2020.png"
+   "file": "images/hsc-j0217-0208/hsc-j0217-0208_alma2020.png",
+   "epoch": "2018"
   }
  ],
  "notes": "Added 2026-07-06. z=6.2 HSC/SHELLQs quasar; JWST NIRCam host-galaxy decomposition (Ding+2025). Coords from designation.",

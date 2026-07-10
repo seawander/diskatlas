@@ -98,7 +98,8 @@
     "journal": "A&A 693, A151",
     "arxiv": "2501.09058",
     "bibcode": "2025A&A...693A.151M"
-   }
+   },
+   "epoch": "2013-2024"
   },
   {
    "type": "disk_scattered",
@@ -202,7 +203,8 @@
     "journal": "A&A",
     "arxiv": "2601.11708",
     "bibcode": "2026A&A...705A.195M"
-   }
+   },
+   "epoch": "2012-2019"
   },
   {
    "type": "disk_scattered",

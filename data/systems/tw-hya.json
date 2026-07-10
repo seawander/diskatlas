@@ -33,7 +33,8 @@
     "bibcode": "2016ApJ...820L..40A"
    },
    "image_id": "tw-hya_alma2016",
-   "file": "images/tw-hya/tw-hya_alma2016.png"
+   "file": "images/tw-hya/tw-hya_alma2016.png",
+   "epoch": "2014-2015"
   },
   {
    "type": "disk_scattered",
@@ -95,7 +96,8 @@
     "journal": "ApJL 820, L40",
     "arxiv": "1603.09352",
     "bibcode": "2016ApJ...820L..40A"
-   }
+   },
+   "epoch": "2014-2015"
   },
   {
    "type": "disk_scattered",

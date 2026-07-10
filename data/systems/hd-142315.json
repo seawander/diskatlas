@@ -1,7 +1,9 @@
 {
  "id": "hd-142315",
  "name": "HD 142315",
- "alt_names": ["HIP 77911"],
+ "alt_names": [
+  "HIP 77911"
+ ],
  "simbad": "HD 142315",
  "ra_deg": 238.67331752572,
  "dec_deg": -22.76625388525,
@@ -31,7 +33,8 @@
     "journal": "A&A 693, A151",
     "arxiv": "2501.09058",
     "bibcode": "2025A&A...693A.151M"
-   }
+   },
+   "epoch": "2014-03-23"
   }
  ],
  "notes": "AUTO-CREATED from staging - fill metadata & coords",

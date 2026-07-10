@@ -41,7 +41,8 @@
     "arxiv": "2410.03823",
     "bibcode": "2024ApJ...976..132H"
    },
-   "file": "images/so-1274/so-1274_alma2024.png"
+   "file": "images/so-1274/so-1274_alma2024.png",
+   "epoch": "2023 Jul 19"
   }
  ],
  "notes": "Most striking disk in the Huang et al. 2024 sigma Orionis ALMA survey: five gaps resolved directly in the CLEAN-image radial profile, nearly arranged in a resonant chain (inner three gaps D57/D42/D27 near 3:2:1 period ratio).",

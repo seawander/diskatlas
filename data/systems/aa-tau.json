@@ -31,7 +31,8 @@
     "journal": "ApJL (exoALMA special issue)",
     "arxiv": "2504.18725",
     "bibcode": "2025ApJ...984L...9C"
-   }
+   },
+   "epoch": "2021-2022"
   },
   {
    "image_id": "aa-tau_hst2013",
@@ -94,7 +95,8 @@
     "arxiv": "2504.18688",
     "bibcode": "2025ApJ...984L...6T"
    },
-   "file": "images/aa-tau/aa-tau_exoalma-co.png"
+   "file": "images/aa-tau/aa-tau_exoalma-co.png",
+   "epoch": "2021-2022"
   }
  ],
  "notes": "2026-07 sweep: added HST/STIS optical scattered-light record (Cox+2013, no arXiv posting); no published near-IR scattered-light image found",

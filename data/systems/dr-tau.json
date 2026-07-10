@@ -31,7 +31,8 @@
     "journal": "ApJ 882, 49",
     "arxiv": "1906.10809",
     "bibcode": "2019ApJ...882...49L"
-   }
+   },
+   "epoch": "2017-08-18"
   },
   {
    "type": "disk_scattered",
@@ -115,7 +116,8 @@
     "arxiv": "2111.01702",
     "bibcode": "2022A&A...658A..63M"
    },
-   "file": "images/dr-tau/dr-tau_lbti2022.png"
+   "file": "images/dr-tau/dr-tau_lbti2022.png",
+   "epoch": "2020-02-02"
   }
  ],
  "notes": null,

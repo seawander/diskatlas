@@ -48,7 +48,8 @@
     "journal": "ApJL (exoALMA special issue)",
     "arxiv": "2504.18725",
     "bibcode": "2025ApJ...984L...9C"
-   }
+   },
+   "epoch": "2021-2022"
   },
   {
    "type": "disk_mm",
@@ -238,7 +239,7 @@
     "bibcode": "2019ApJ...882...20W"
    },
    "file": "images/mwc-758/mwc-758_lbti2019-lp.png",
-   "epoch": "Feb 2017"
+   "epoch": "2017 Feb"
   },
   {
    "image_id": "mwc-758_lbti2019-mp",
@@ -259,7 +260,7 @@
     "bibcode": "2019ApJ...882...20W"
    },
    "file": "images/mwc-758/mwc-758_lbti2019-mp.png",
-   "epoch": "Dec 2018"
+   "epoch": "2018 Dec"
   },
   {
    "image_id": "mwc-758_lbti2023",
@@ -342,7 +343,8 @@
     "arxiv": "2504.18688",
     "bibcode": "2025ApJ...984L...6T"
    },
-   "file": "images/mwc-758/mwc-758_exoalma-co.png"
+   "file": "images/mwc-758/mwc-758_exoalma-co.png",
+   "epoch": "2021-2022"
   },
   {
    "image_id": "mwc-758_nicmos-ren18",

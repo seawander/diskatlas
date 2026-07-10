@@ -33,7 +33,8 @@
     "journal": "ApJL (exoALMA special issue)",
     "arxiv": "2504.18725",
     "bibcode": "2025ApJ...984L...9C"
-   }
+   },
+   "epoch": "2022"
   },
   {
    "image_id": "rx-j1842-9-3532_alice-f110w",
@@ -75,7 +76,8 @@
     "arxiv": "2504.18688",
     "bibcode": "2025ApJ...984L...6T"
    },
-   "file": "images/rx-j1842-9-3532/rx-j1842-9-3532_exoalma-co.png"
+   "file": "images/rx-j1842-9-3532/rx-j1842-9-3532_exoalma-co.png",
+   "epoch": "2022"
   }
  ],
  "notes": null,

@@ -58,7 +58,8 @@
     "journal": "A&A 693, A151",
     "arxiv": "2501.09058",
     "bibcode": "2025A&A...693A.151M"
-   }
+   },
+   "epoch": "2016-2021"
   },
   {
    "type": "disk_mm",
@@ -141,7 +142,8 @@
     "arxiv": "1005.3543",
     "bibcode": "2010A&A...518L.130S"
    },
-   "file": "images/vega/vega_herschel2010.png"
+   "file": "images/vega/vega_herschel2010.png",
+   "epoch": "2009-2010"
   },
   {
    "image_id": "vega_mips2005",

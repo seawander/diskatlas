@@ -1,7 +1,12 @@
 {
  "id": "hd-22049",
  "name": "HD 22049",
- "alt_names": ["eps Eri", "GJ 144", "HIP 16537", "HR 1084"],
+ "alt_names": [
+  "eps Eri",
+  "GJ 144",
+  "HIP 16537",
+  "HR 1084"
+ ],
  "simbad": "HD 22049",
  "ra_deg": 53.2326853798279,
  "dec_deg": -9.4582609705181,
@@ -31,7 +36,8 @@
     "journal": "A&A 693, A151",
     "arxiv": "2501.09058",
     "bibcode": "2025A&A...693A.151M"
-   }
+   },
+   "epoch": "2016-10-24"
   }
  ],
  "notes": "AUTO-CREATED from staging - fill metadata & coords | coverage: no resolved scattered-light image as of 2026-07 (swept; HST/STIS deepest limits arXiv 2408.06973 and SPHERE polarimetric monitoring are both non-detections)",

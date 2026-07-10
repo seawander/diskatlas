@@ -54,7 +54,8 @@
     "arxiv": "2310.11007",
     "bibcode": "2024ApJ...961...28H"
    },
-   "file": "images/cida-9/cida-9_alma2023-b3.png"
+   "file": "images/cida-9/cida-9_alma2023-b3.png",
+   "epoch": "2021 Jul 9"
   }
  ],
  "notes": "Coords decoded from 2MASS id (Long+2019 Table 1).",

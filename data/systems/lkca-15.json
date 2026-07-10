@@ -63,7 +63,8 @@
     "journal": "ApJL (exoALMA special issue)",
     "arxiv": "2504.18725",
     "bibcode": "2025ApJ...984L...9C"
-   }
+   },
+   "epoch": "2021-2022"
   },
   {
    "type": "disk_scattered",
@@ -209,7 +210,8 @@
     "arxiv": "2503.03336",
     "bibcode": "2025MNRAS.538.2358S"
    },
-   "file": "images/lkca-15/lkca-15_alma-band3-2025.png"
+   "file": "images/lkca-15/lkca-15_alma-band3-2025.png",
+   "epoch": "2023 Jan"
   },
   {
    "image_id": "lkca-15_sma2011",
@@ -293,7 +295,8 @@
     "arxiv": "2504.18688",
     "bibcode": "2025ApJ...984L...6T"
    },
-   "file": "images/lkca-15/lkca-15_exoalma-co.png"
+   "file": "images/lkca-15/lkca-15_exoalma-co.png",
+   "epoch": "2021-2022"
   },
   {
    "image_id": "lkca-15_sallum2023-lbt-nrm",

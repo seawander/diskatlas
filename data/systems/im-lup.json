@@ -118,7 +118,8 @@
     "arxiv": "2109.06268",
     "bibcode": "2021ApJS..257....1O"
    },
-   "file": "images/im-lup/im-lup_alma-maps2021.png"
+   "file": "images/im-lup/im-lup_alma-maps2021.png",
+   "epoch": "2018-2019"
   },
   {
    "type": "disk_mm",
@@ -138,7 +139,8 @@
     "year": 2011,
     "journal": "ApJ 734, 98",
     "title": "Disk Imaging Survey of Chemistry with SMA. II. Southern Sky Protoplanetary Disks"
-   }
+   },
+   "epoch": "2010 May 23"
   }
  ],
  "notes": null,

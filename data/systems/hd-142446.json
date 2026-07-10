@@ -1,7 +1,9 @@
 {
  "id": "hd-142446",
  "name": "HD 142446",
- "alt_names": ["HIP 78043"],
+ "alt_names": [
+  "HIP 78043"
+ ],
  "simbad": "HD 142446",
  "ra_deg": 239.02344991202,
  "dec_deg": -36.89287229329,
@@ -31,7 +33,8 @@
     "journal": "A&A 693, A151",
     "arxiv": "2501.09058",
     "bibcode": "2025A&A...693A.151M"
-   }
+   },
+   "epoch": "2014-01-10"
   }
  ],
  "notes": "AUTO-CREATED from staging - fill metadata & coords",

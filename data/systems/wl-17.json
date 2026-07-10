@@ -32,7 +32,8 @@
     "arxiv": "2309.06076",
     "bibcode": "2023ApJ...956....9H"
    },
-   "file": "images/wl-17/wl-17_alma2023.png"
+   "file": "images/wl-17/wl-17_alma2023.png",
+   "epoch": "2016"
   },
   {
    "image_id": "wl-17_alma100ghz2021",
@@ -52,7 +53,8 @@
     "arxiv": "2109.02652",
     "bibcode": "2021ApJ...922..150G"
    },
-   "file": "images/wl-17/wl-17_alma100ghz2021.png"
+   "file": "images/wl-17/wl-17_alma100ghz2021.png",
+   "epoch": "2016"
   }
  ],
  "notes": "Class I protostar in the rho Ophiuchus (L1688) molecular cloud. ALMA Band 3 (3.1mm) and Band 7 (0.87mm) reveal different disk substructures (off-center hole in Band 7, central symmetric hole in Band 3) and a low mean spectral index (alpha=2.28+/-0.02), suggestive of grain growth and dust segregation on the protostellar-disk scale; disk may be massive and gravitationally unstable, possibly forming a single Jupiter-mass protoplanet via gravitational instability. Distance of 137 pc adopted as the mean distance to the L1688 region.",
