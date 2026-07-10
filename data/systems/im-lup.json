@@ -1,7 +1,9 @@
 {
  "id": "im-lup",
  "name": "IM Lup",
- "alt_names": ["HIP 78053"],
+ "alt_names": [
+  "HIP 78053"
+ ],
  "simbad": "IM Lup",
  "ra_deg": 239.03836110288,
  "dec_deg": -37.93503503297,
@@ -113,6 +115,26 @@
     "bibcode": null
    },
    "file": "images/im-lup/im-lup_alma-maps2021.png"
+  },
+  {
+   "type": "disk_mm",
+   "facility": "SMA",
+   "instrument": "SMA",
+   "technique": "interferometry",
+   "wavelength_um": 1120,
+   "wavelength_label": "1.1 mm continuum (267 GHz, DISCS)",
+   "image_id": "im-lup_discs-sma",
+   "survey": "DISCS",
+   "file": "images/im-lup/im-lup_discs-sma.png",
+   "credit": "Öberg et al. 2011, Fig. 2 (crop)",
+   "paper": {
+    "arxiv": "1104.1236",
+    "bibcode": "2011ApJ...734...98O",
+    "first_author": "Öberg",
+    "year": 2011,
+    "journal": "ApJ 734, 98",
+    "title": "Disk Imaging Survey of Chemistry with SMA. II. Southern Sky Protoplanetary Disks"
+   }
   }
  ],
  "notes": null,

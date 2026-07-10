@@ -17,7 +17,7 @@ SciX** citations. Pure static files — no server, no build step at runtime.
 
 ## Current state (2026-07-09)
 
-- **466 systems · 1475 image records (all with local panels) · full coords · 0 validate
+- **466 systems · 1483 image records (all with local panels) · full coords · 0 validate
   errors** (`python3 backend/build.py` is always canonical). Paper-finder ledger:
   ~565 in-atlas / ~857 explored / ~9915 known-candidate (the "known" pool ballooned
   after adding the backward-reference axis — see below; it is a discovery-frontier
@@ -28,7 +28,7 @@ SciX** citations. Pure static files — no server, no build step at runtime.
 
 ## Session state 2026-07-09 (live log — update on every hand-off)
 
-CURRENT: 466 systems / 1475 image records / 0 errors.
+CURRENT: 466 systems / 1483 image records / 0 errors.
 
 WHAT THE 07-09 CONTINUATION DID (all committed + pushed to master):
 - **Directed multi-figure adds (user-requested, high yield):** Weber+2023 SPHERE/IRDIS
@@ -56,10 +56,18 @@ WHAT THE 07-09 CONTINUATION DID (all committed + pushed to master):
   (replaced JHK composite; paper has TWO caption typos: band order and "January"
   epoch — trust panel labels: 2020-10-04); HD 34700 Chen+2024 Fig. 3 middle column
   → Qphi J/H/K. Mullin+2026 & HD 1160 stamps reviewed (already in / not atlas-grade).
-- OPEN: system_gaps worklist gems remaining: T Tau Keck (Bally+2000), DISCS SMA
-  maps; "Vega"↔"Vega-like" abstract collision class still needs eyeballing.
-  (Fukagawa+2010 HD 100546 Subaru: user checked it 2026-07-09 — dropped, do not
-  chase. Padgett+1999 NICMOS: done, split into 5 panels + 3 new systems.)
+- Worklist CLOSED OUT 2026-07-09 (all four items resolved):
+  (1) "T Tau Keck (Bally+2000)" = COLLISION — ADS stems abs:"T Tau" to match
+  "T Tauri", so EVERY t-tau audit flag was about other Taurus objects; Bally 2000
+  is Orion proplyds. Lesson recorded in the target-side-completeness-audit memory.
+  (2) Vega NICMOS/Keck flags = "Vega-like" phrase collisions — coverage verified
+  complete. (3) DISCS SMA (Öberg+2011): ingested 267 GHz continuum for IM Lup +
+  HD 142527 (MY Lup flag = false positive, not in the sample). BONUS from the same
+  worklist row: Looney+2000 BIMA 2.7 mm panel-(d) maps ingested for DG Tau,
+  DG Tau B, L1551 IRS5, HL Tau, GG Tau, GM Aur (new BIMA facility for all six).
+  (4) Morales+2013: title lists the full sample (HD 70313/71722/159492/104860) —
+  all four already in the atlas; nothing left. (Fukagawa+2010: user-checked,
+  dropped. Padgett+1999: done, 5 panels + 3 new systems.)
 
 ## Session state 2026-07-08 (previous log)
 

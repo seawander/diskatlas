@@ -41,6 +41,26 @@
     "bibcode": null
    },
    "file": "images/l1551-irs-5/l1551-irs-5_alma2019.png"
+  },
+  {
+   "type": "disk_mm",
+   "facility": "BIMA",
+   "instrument": "BIMA array",
+   "technique": "interferometry",
+   "wavelength_um": 2700,
+   "wavelength_label": "2.7 mm continuum (highest-resolution panel)",
+   "image_id": "l1551-irs-5_bima2000",
+   "survey": null,
+   "file": "images/l1551-irs-5/l1551-irs-5_bima2000.png",
+   "credit": "Looney et al. 2000, Fig. 3d (crop)",
+   "paper": {
+    "arxiv": "astro-ph/9908301",
+    "bibcode": "2000ApJ...529..477L",
+    "first_author": "Looney",
+    "year": 2000,
+    "journal": "ApJ 529, 477",
+    "title": "Unveiling the Circumstellar Envelope and Disk: A Subarcsecond Survey of Circumstellar Structures"
+   }
   }
  ],
  "notes": "Class I protobinary in Taurus; ALMA 1.3mm continuum resolves both circumstellar disks plus the circumbinary ring (Cruz-Saenz de Miera et al. 2019, arXiv:1908.04649). Distance adopted from Taurus association (~147 pc, Galli et al. 2019).",
