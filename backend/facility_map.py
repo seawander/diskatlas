@@ -62,7 +62,10 @@ INSTR_RULES = [  # (substring-of-lowercased(facility+instrument), canonical fami
     ("wfpc2", "WFPC2"), ("foc", "FOC"),
     ("naco", "NACO"), ("conica", "NACO"), ("muse", "MUSE"), ("visir", "VISIR"),
     ("near", "VISIR"), ("eris", "ERIS"), ("isaac", "ISAAC"), ("sofi", "SofI"),
-    ("hiciao", "HiCIAO"), ("charis", "CHARIS"), ("mec", "CHARIS"), ("scexao", "CHARIS"),
+    # SCExAO platform instruments (Miles Lucas 2026-07-09): report as SCExAO/<sub>,
+    # matching the SPHERE/<sub> convention. VAMPIRES before the plain-scexao fallback.
+    ("hiciao", "HiCIAO"), ("vampires", "SCExAO/VAMPIRES"), ("charis", "SCExAO/CHARIS"),
+    ("mec", "SCExAO/MEC"), ("scexao", "SCExAO/CHARIS"),
     ("comics", "COMICS"), ("ircs", "IRCS"), ("ciao", "CIAO"),
     ("nirc2", "NIRC2"), ("lws", "LWS"), ("osiris", "OSIRIS"),
     ("lmircam", "LMIRCam"), ("ales", "LMIRCam"), ("nomic", "LMIRCam"), ("lbti", "LMIRCam"),
