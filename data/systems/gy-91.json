@@ -3,7 +3,8 @@
  "name": "GY 91",
  "alt_names": [
   "[GY92] 91",
-  "ISO-Oph 63"
+  "ISO-Oph 54",
+  "ISOY J162640.5-242714"
  ],
  "simbad": "[GY92] 91",
  "ra_deg": 246.668623,
@@ -35,9 +36,29 @@
     "bibcode": "2018ApJ...857...18S"
    },
    "file": "images/gy-91/gy-91_alma2018.png"
+  },
+  {
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 6",
+   "wavelength_um": 1300,
+   "wavelength_label": "1.3 mm continuum",
+   "technique": "interferometry",
+   "image_id": "gy-91_odisea",
+   "file": "images/gy-91/gy-91_odisea.png",
+   "survey": "ODISEA",
+   "credit": "Cieza et al. 2021, Fig. 3 (crop)",
+   "paper": {
+    "first_author": "Cieza",
+    "year": 2021,
+    "title": "The Ophiuchus DIsc Survey Employing ALMA (ODISEA) - III: the evolution of substructures in massive discs at 3-5 au resolution",
+    "journal": "MNRAS 501, 2934",
+    "arxiv": "2012.00189",
+    "bibcode": "2021MNRAS.501.2934C"
+   }
   }
  ],
- "notes": "AUTO-CREATED from staging - fill metadata & coords Added 2026-07-08 (keyword discovery round 2).",
+ "notes": "GY 91 = [GY92] 91 = ISO-Oph 54 (SIMBAD-verified). Merged the duplicate 'iso-oph-54' system (ODISEA record) into this one 2026-07-09; removed the incorrect 'ISO-Oph 63' alias (that designation is [GY92] 109, a different star).",
  "last_updated": "2026-07-08",
  "plx_mas": null,
  "mags": null

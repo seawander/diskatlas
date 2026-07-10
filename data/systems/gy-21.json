@@ -4,7 +4,8 @@
  "alt_names": [
   "[GY92] 21",
   "SSTc2d J162623.6-242439",
-  "Oph 1"
+  "Oph 1",
+  "ISO-Oph 37"
  ],
  "simbad": "[GY92] 21",
  "ra_deg": 246.598249,
@@ -36,9 +37,29 @@
     "bibcode": "2025ApJ...989....2R"
    },
    "file": "images/gy-21/gy-21_alma-agepro.png"
+  },
+  {
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 6",
+   "wavelength_um": 1300,
+   "wavelength_label": "1.3 mm continuum",
+   "technique": "interferometry",
+   "image_id": "gy-21_odisea",
+   "file": "images/gy-21/gy-21_odisea.png",
+   "survey": "ODISEA",
+   "credit": "Cieza et al. 2021, Fig. 3 (crop)",
+   "paper": {
+    "first_author": "Cieza",
+    "year": 2021,
+    "title": "The Ophiuchus DIsc Survey Employing ALMA (ODISEA) - III: the evolution of substructures in massive discs at 3-5 au resolution",
+    "journal": "MNRAS 501, 2934",
+    "arxiv": "2012.00189",
+    "bibcode": "2021MNRAS.501.2934C"
+   }
   }
  ],
- "notes": "AUTO-CREATED from staging - fill metadata & coords Added 2026-07-08 (AGE-PRO ALMA, Vioque+2025 resolved).",
+ "notes": "AUTO-CREATED from staging - fill metadata & coords Added 2026-07-08 (AGE-PRO ALMA, Vioque+2025 resolved). Merged the duplicate 'iso-oph-37' system (ODISEA record) into this one 2026-07-09; GY 21 = [GY92] 21 = ISO-Oph 37 (SIMBAD-verified).",
  "last_updated": "2026-07-08",
  "plx_mas": null,
  "mags": null

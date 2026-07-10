@@ -57,15 +57,15 @@
    }
   },
   {
-   "image_id": "ux-tau_alma2020",
-   "type": "disk_mm",
-   "facility": "ALMA",
-   "instrument": "ALMA/Band 7",
-   "wavelength_um": 870,
-   "wavelength_label": "870 um (Band 7, CO 3-2 ~345 GHz)",
-   "technique": "interferometric CO line + continuum",
+   "image_id": "ux-tau_sphere-menard2020-j",
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS",
+   "wavelength_um": 1.24,
+   "wavelength_label": "J band 1.24 um (Qphi pol. intensity; UX Tau A)",
+   "technique": "PDI",
    "survey": null,
-   "file": "images/ux-tau/ux-tau_alma2020.png",
+   "file": "images/ux-tau/ux-tau_sphere-menard2020-j.png",
    "credit": "Menard et al. 2020, Fig. 1 (crop)",
    "paper": {
     "first_author": "Menard",
@@ -95,6 +95,26 @@
     "bibcode": "2022A&A...666A..32X"
    },
    "file": "images/ux-tau/ux-tau_sphere-rdi-xie22.png"
+  },
+  {
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 7",
+   "technique": "interferometry",
+   "wavelength_um": 870,
+   "wavelength_label": "CO(3-2) peak intensity (moment 8) + continuum contour; UX Tau A + C",
+   "image_id": "ux-tau_alma-menard2020",
+   "survey": null,
+   "file": "images/ux-tau/ux-tau_alma-menard2020.png",
+   "credit": "Menard et al. 2020, Fig. B.1 (crop)",
+   "paper": {
+    "first_author": "Menard",
+    "year": 2020,
+    "title": "Ongoing flyby in the young multiple system UX Tauri",
+    "journal": "A&A Letters 639, L1",
+    "arxiv": "2006.02439",
+    "bibcode": "2020A&A...639L...1M"
+   }
   }
  ],
  "notes": null,
