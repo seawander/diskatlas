@@ -20,7 +20,7 @@
   {
    "name": "C",
    "status": "refuted",
-   "note": "Discovered as 'FW Tau b' -- a ~10 Mjup planetary-mass candidate at ~330 AU from the FW Tau AB close binary (Kraus et al. 2014, arXiv:1311.7664, AJ 147, 146). Commonly relabeled FW Tau C since FW Tau AB is itself a close binary. A later ALMA dynamical-mass measurement (Wu & Sheehan 2017, ApJL 846, L26, arXiv:1708.08122, 'An ALMA Dynamical Mass Estimate of the Proposed Planetary-mass Companion FW Tau C') found M ~ 0.1 Msun -- consistent with a low-mass star hosting an inclined accretion disk, not a planetary-mass object. Status set to 'refuted' per the current literature; both papers are cited for traceability.",
+   "note": "Discovered as 'FW Tau b' -- a ~10 Mjup planetary-mass candidate at ~330 AU from the FW Tau AB close binary (Kraus et al. 2014, arXiv:1311.7664, ApJ 781, 20). Commonly relabeled FW Tau C since FW Tau AB is itself a close binary. A later ALMA dynamical-mass measurement (Wu & Sheehan 2017, ApJL 846, L26, arXiv:1708.08122, 'An ALMA Dynamical Mass Estimate of the Proposed Planetary-mass Companion FW Tau C') found M ~ 0.1 Msun -- consistent with a low-mass star hosting an inclined accretion disk, not a planetary-mass object. Status set to 'refuted' per the current literature; both papers are cited for traceability.",
    "method": "imaging",
    "paper": {
     "first_author": "Kraus",
@@ -58,7 +58,7 @@
     "first_author": "Kraus",
     "year": 2014,
     "title": "Three Wide Planetary-Mass Companions to FW Tau, ROXs 12, and ROXs 42B",
-    "journal": "AJ 147, 146",
+    "journal": "ApJ 781, 20",
     "arxiv": "1311.7664",
     "bibcode": "2014ApJ...781...20K"
    }

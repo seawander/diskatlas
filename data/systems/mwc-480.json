@@ -130,7 +130,7 @@
     "first_author": "Hamidouche",
     "year": 2006,
     "title": "Resolving and probing the circumstellar disk of the Herbig Ae star MWC 480 at 1.4 mm: Evolved dust?",
-    "journal": "AJ, 133, 1892",
+    "journal": "ApJ 651, 321",
     "arxiv": "astro-ph/0607232",
     "bibcode": "2006ApJ...651..321H"
    },
@@ -158,7 +158,7 @@
   }
  ],
  "notes": null,
- "last_updated": "2026-07-07",
+ "last_updated": "2026-07-09",
  "plx_mas": 6.4014,
  "mags": {
   "U": 7.84,

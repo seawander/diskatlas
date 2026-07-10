@@ -65,7 +65,7 @@
      "first_author": "Lee",
      "year": 2017,
      "title": "Evidence that the Planetary Candidate CVSO30c is a Background Star from Optical, Seeing-limited Data",
-     "journal": "ApJL 850, L30",
+     "journal": "ApJL 852, L24",
      "arxiv": "1712.08727",
      "bibcode": "2018ApJ...852L..24L"
     }
@@ -95,5 +95,5 @@
   }
  ],
  "notes": "Both reported companions are now considered dubious/refuted: c is most likely a background star (Lee & Chiang 2017), and b's transit signal is likely stellar starspot activity rather than a planet (Koen 2020, MNRAS 494, 4349; Koen 2021, A&A 647, L1 -- no arXiv preprints available for these two).",
- "last_updated": "2026-07-06"
+ "last_updated": "2026-07-09"
 }

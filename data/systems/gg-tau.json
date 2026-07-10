@@ -107,7 +107,7 @@
     "first_author": "Krist",
     "year": 2002,
     "title": "HST/WFPC2 Images of the GG Tauri Circumbinary Disk",
-    "journal": "AJ 123, 2751",
+    "journal": "ApJ 570, 785",
     "arxiv": "astro-ph/0201415",
     "bibcode": "2002ApJ...570..785K"
    },
@@ -215,7 +215,7 @@
   }
  ],
  "notes": null,
- "last_updated": "2026-07-08",
+ "last_updated": "2026-07-09",
  "plx_mas": 8.5914,
  "mags": {
   "U": 14.84,

@@ -315,7 +315,7 @@
     "title": "A Multiband Study of the HR 4796A Disk in the Optical Using MagAO-X",
     "journal": "ApJ 1001, 189",
     "arxiv": "2606.23480",
-    "bibcode": "2026arXiv260623480K"
+    "bibcode": "2026ApJ..1001..189K"
    }
   },
   {
@@ -520,7 +520,7 @@
   }
  ],
  "notes": null,
- "last_updated": "2026-07-08",
+ "last_updated": "2026-07-09",
  "plx_mas": 14.13,
  "mags": {
   "B": 5.786,

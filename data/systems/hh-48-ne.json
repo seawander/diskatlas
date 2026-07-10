@@ -47,7 +47,7 @@
     "first_author": "Sturm",
     "year": 2023,
     "title": "The edge-on protoplanetary disk HH 48 NE I. Modeling the geometry and stellar parameters",
-    "journal": "A&A 677, A18",
+    "journal": "A&A 677, A17",
     "arxiv": "2305.02338",
     "bibcode": "2023A&A...677A..17S"
    },
@@ -55,7 +55,7 @@
   }
  ],
  "notes": "AUTO-CREATED from staging - fill metadata & coords",
- "last_updated": "2026-07-07",
+ "last_updated": "2026-07-09",
  "plx_mas": 5.3986,
  "mags": {
   "V": 17.89,
