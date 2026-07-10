@@ -74,7 +74,8 @@
     "arxiv": "2602.19755",
     "bibcode": "2026A&A...707A.379M"
    },
-   "file": "images/at-pyx/at-pyx_sphere2024.png"
+   "file": "images/at-pyx/at-pyx_sphere2024.png",
+   "epoch": "2024"
   }
  ],
  "notes": "AUTO-CREATED from staging - fill metadata & coords Added 2026-07-08 (keyword discovery round 2).",

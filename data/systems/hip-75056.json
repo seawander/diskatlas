@@ -54,7 +54,8 @@
     "journal": "ApJL 902, L6",
     "arxiv": "2009.08537",
     "bibcode": "2020ApJ...902L...6W"
-   }
+   },
+   "epoch": "2015"
   }
  ],
  "notes": "HIP 75056Ab discovered with VLT/SPHERE (IRDIS K1K2 + IFS YJH) as part of the Scorpion Planet Survey; ~12 Myr old A2V primary in Upper Centaurus-Lupus (Sco-Cen). Mass ~20-30 Mjup, consistent with low-mass end of disk-instability formation. Hierarchical triple with wide (~650 au) low-mass stellar companion HIP 75056B.",

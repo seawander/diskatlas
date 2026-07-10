@@ -440,7 +440,8 @@
     "arxiv": "0902.3247",
     "bibcode": "2009ApJ...694L.148L"
    },
-   "file": "images/hr-8799/hr-8799_nicmos1998.png"
+   "file": "images/hr-8799/hr-8799_nicmos1998.png",
+   "epoch": "1998"
   },
   {
    "image_id": "hr-8799_nicmos1998-soummer",
@@ -460,7 +461,8 @@
     "arxiv": "1110.1382",
     "bibcode": "2011ApJ...741...55S"
    },
-   "file": "images/hr-8799/hr-8799_nicmos1998-soummer.png"
+   "file": "images/hr-8799/hr-8799_nicmos1998-soummer.png",
+   "epoch": "1998"
   },
   {
    "image_id": "hr-8799_p1640-2015",

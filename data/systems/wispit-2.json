@@ -67,7 +67,8 @@
     "bibcode": "2025ApJ...990L...9C"
    },
    "image_id": "wispit-2_magaox2025",
-   "file": "images/wispit-2/wispit-2_magaox2025.png"
+   "file": "images/wispit-2/wispit-2_magaox2025.png",
+   "epoch": "2025 Apr 16"
   },
   {
    "type": "disk_scattered",
@@ -127,7 +128,8 @@
     "bibcode": "2026ApJ..1000L..38L"
    },
    "image_id": "wispit-2_gravity2026",
-   "file": "images/wispit-2/wispit-2_gravity2026.png"
+   "file": "images/wispit-2/wispit-2_gravity2026.png",
+   "epoch": "2025-10-04"
   },
   {
    "image_id": "wispit-2_lband2025",
@@ -147,7 +149,8 @@
     "arxiv": "2508.19046",
     "bibcode": "2025ApJ...990L...9C"
    },
-   "file": "images/wispit-2/wispit-2_lband2025.png"
+   "file": "images/wispit-2/wispit-2_lband2025.png",
+   "epoch": "2025 June 5"
   },
   {
    "image_id": "wispit-2_planetc2026",
@@ -167,7 +170,8 @@
     "arxiv": "2603.22085",
     "bibcode": "2026ApJ..1000L..38L"
    },
-   "file": "images/wispit-2/wispit-2_planetc2026.png"
+   "file": "images/wispit-2/wispit-2_planetc2026.png",
+   "epoch": "2025-03-21"
   }
  ],
  "notes": "Second known multi-planet system caught in formation inside its natal disk (PDS 70 analogue).",

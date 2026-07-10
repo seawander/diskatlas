@@ -107,7 +107,8 @@
     "arxiv": "1912.04284",
     "bibcode": "2020MNRAS.492..431B"
    },
-   "file": "images/yses-1/yses-1_sphere-naco2019-h.png"
+   "file": "images/yses-1/yses-1_sphere-naco2019-h.png",
+   "epoch": "2017-07-05"
   },
   {
    "image_id": "yses-1_sphere-naco2019-ks",
@@ -127,7 +128,8 @@
     "arxiv": "1912.04284",
     "bibcode": "2020MNRAS.492..431B"
    },
-   "file": "images/yses-1/yses-1_sphere-naco2019-ks.png"
+   "file": "images/yses-1/yses-1_sphere-naco2019-ks.png",
+   "epoch": "2019-03-17"
   },
   {
    "image_id": "yses-1_sphere-naco2019-lp",
@@ -147,7 +149,8 @@
     "arxiv": "1912.04284",
     "bibcode": "2020MNRAS.492..431B"
    },
-   "file": "images/yses-1/yses-1_sphere-naco2019-lp.png"
+   "file": "images/yses-1/yses-1_sphere-naco2019-lp.png",
+   "epoch": "2019-05-18"
   },
   {
    "image_id": "yses-1_sphere-naco2019-mp",
@@ -167,7 +170,8 @@
     "arxiv": "1912.04284",
     "bibcode": "2020MNRAS.492..431B"
    },
-   "file": "images/yses-1/yses-1_sphere-naco2019-mp.png"
+   "file": "images/yses-1/yses-1_sphere-naco2019-mp.png",
+   "epoch": "2019-06-03"
   }
  ],
  "notes": null,

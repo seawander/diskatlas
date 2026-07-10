@@ -86,7 +86,8 @@
     "bibcode": "2023A&A...672A..93M"
    },
    "image_id": "af-lep_sphere2023-mesa",
-   "file": "images/af-lep/af-lep_sphere2023-mesa.png"
+   "file": "images/af-lep/af-lep_sphere2023-mesa.png",
+   "epoch": "2022-12-20"
   },
   {
    "type": "planet",
@@ -126,7 +127,8 @@
     "bibcode": "2025AJ....169...30B"
    },
    "image_id": "af-lep_gravity2024",
-   "file": "images/af-lep/af-lep_gravity2024.png"
+   "file": "images/af-lep/af-lep_gravity2024.png",
+   "epoch": "2023-11-24"
   },
   {
    "type": "planet",
@@ -146,7 +148,8 @@
     "bibcode": "2024ApJ...974L..11F"
    },
    "image_id": "af-lep_jwst2024",
-   "file": "images/af-lep/af-lep_jwst2024.png"
+   "file": "images/af-lep/af-lep_jwst2024.png",
+   "epoch": "Oct 2023"
   },
   {
    "type": "planet",
@@ -166,7 +169,8 @@
     "bibcode": "2025AJ....169..194B"
    },
    "image_id": "af-lep_naco2011-4s",
-   "file": "images/af-lep/af-lep_naco2011-4s.png"
+   "file": "images/af-lep/af-lep_naco2011-4s.png",
+   "epoch": "2011"
   },
   {
    "image_id": "af-lep_alice-f160w",

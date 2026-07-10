@@ -203,7 +203,8 @@
     "arxiv": "1812.07198",
     "bibcode": "2019A&A...622A..80C"
    },
-   "file": "images/hip-65426/hip-65426_naco2019-lp.png"
+   "file": "images/hip-65426/hip-65426_naco2019-lp.png",
+   "epoch": "2017-05-18"
   },
   {
    "image_id": "hip-65426_naco2019-mp",
@@ -223,7 +224,8 @@
     "arxiv": "1812.07198",
     "bibcode": "2019A&A...622A..80C"
    },
-   "file": "images/hip-65426/hip-65426_naco2019-mp.png"
+   "file": "images/hip-65426/hip-65426_naco2019-mp.png",
+   "epoch": "2017-05-19"
   }
  ],
  "notes": null,

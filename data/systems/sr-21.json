@@ -152,7 +152,8 @@
     "bibcode": "2019ApJ...883..100S"
    },
    "file": "images/sr-21/sr-21_magao2019.png",
-   "note": "Magellan/MagAO (VisAO+Clio2 non-redundant masking) is a new facility for sr-21.json (existing record was Keck/NIRC2 PWFS from Uyama et al. 2020, a different instrument/epoch). Cropped the cleanest single-epoch NRM image reconstruction (Fig. 10, June 2017 L') showing the ring/warp; Fig. 1 (raw MagAO Halpha+continuum KLIP frames) was checked first but is a non-detection/SNR-map figure, not a resolved image, so it was not used."
+   "note": "Magellan/MagAO (VisAO+Clio2 non-redundant masking) is a new facility for sr-21.json (existing record was Keck/NIRC2 PWFS from Uyama et al. 2020, a different instrument/epoch). Cropped the cleanest single-epoch NRM image reconstruction (Fig. 10, June 2017 L') showing the ring/warp; Fig. 1 (raw MagAO Halpha+continuum KLIP frames) was checked first but is a non-detection/SNR-map figure, not a resolved image, so it was not used.",
+   "epoch": "June 2017"
   }
  ],
  "notes": "AUTO-CREATED from staging - fill metadata & coords",

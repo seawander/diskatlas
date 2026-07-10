@@ -229,7 +229,8 @@
     "arxiv": "1907.06655",
     "bibcode": "2019ApJ...882...20W"
    },
-   "file": "images/mwc-758/mwc-758_lbti2019-lp.png"
+   "file": "images/mwc-758/mwc-758_lbti2019-lp.png",
+   "epoch": "Feb 2017"
   },
   {
    "image_id": "mwc-758_lbti2019-mp",
@@ -249,7 +250,8 @@
     "arxiv": "1907.06655",
     "bibcode": "2019ApJ...882...20W"
    },
-   "file": "images/mwc-758/mwc-758_lbti2019-mp.png"
+   "file": "images/mwc-758/mwc-758_lbti2019-mp.png",
+   "epoch": "Dec 2018"
   },
   {
    "image_id": "mwc-758_lbti2023",
@@ -369,7 +371,8 @@
     "arxiv": "2007.04980",
     "bibcode": "2020ApJ...898L..38R"
    },
-   "file": "images/mwc-758/mwc-758_ren2020.png"
+   "file": "images/mwc-758/mwc-758_ren2020.png",
+   "epoch": "2015 Mar 4"
   }
  ],
  "notes": null,

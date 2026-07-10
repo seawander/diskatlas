@@ -298,7 +298,8 @@
     "year": 2025,
     "journal": "AJ 170, 278",
     "title": "Dynamical Analysis of the HD 169142 Planet-forming Disk: Twelve Years of High-contrast Polarimetry"
-   }
+   },
+   "epoch": "2012-07-26"
   },
   {
    "type": "disk_scattered",
@@ -318,7 +319,8 @@
     "year": 2025,
     "journal": "AJ 170, 278",
     "title": "Dynamical Analysis of the HD 169142 Planet-forming Disk: Twelve Years of High-contrast Polarimetry"
-   }
+   },
+   "epoch": "2014-04-25"
   },
   {
    "type": "disk_scattered",
@@ -338,7 +340,8 @@
     "year": 2025,
     "journal": "AJ 170, 278",
     "title": "Dynamical Analysis of the HD 169142 Planet-forming Disk: Twelve Years of High-contrast Polarimetry"
-   }
+   },
+   "epoch": "2015-05-03"
   },
   {
    "type": "disk_scattered",
@@ -358,7 +361,8 @@
     "year": 2025,
     "journal": "AJ 170, 278",
     "title": "Dynamical Analysis of the HD 169142 Planet-forming Disk: Twelve Years of High-contrast Polarimetry"
-   }
+   },
+   "epoch": "2018-07-15"
   },
   {
    "type": "disk_scattered",
@@ -378,7 +382,8 @@
     "year": 2025,
     "journal": "AJ 170, 278",
     "title": "Dynamical Analysis of the HD 169142 Planet-forming Disk: Twelve Years of High-contrast Polarimetry"
-   }
+   },
+   "epoch": "2021-09-06"
   },
   {
    "type": "disk_scattered",
@@ -398,7 +403,8 @@
     "year": 2025,
     "journal": "AJ 170, 278",
     "title": "Dynamical Analysis of the HD 169142 Planet-forming Disk: Twelve Years of High-contrast Polarimetry"
-   }
+   },
+   "epoch": "2023-06-04"
   },
   {
    "type": "disk_scattered",
@@ -418,7 +424,8 @@
     "year": 2025,
     "journal": "AJ 170, 278",
     "title": "Dynamical Analysis of the HD 169142 Planet-forming Disk: Twelve Years of High-contrast Polarimetry"
-   }
+   },
+   "epoch": "2024-07-29"
   }
  ],
  "notes": null,

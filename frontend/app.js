@@ -818,13 +818,23 @@ if (typeof window !== "undefined") (function () {
 
   function shortFac(f) { return (f || "?").replace("VLT-", "").replace("Gemini-", "").replace("Subaru-", ""); }
 
+  /* observation-epoch year if recorded, else the publication year — appended to
+     each chip so duplicate "1.6um NICMOS" labels are distinguishable. */
+  function imgYear(im) {
+    if (im.epoch) { const m = String(im.epoch).match(/(19|20)\d\d/); if (m) return m[0]; }
+    return im.paper && im.paper.year ? String(im.paper.year) : "";
+  }
   function buildSlider(s) {
     const sl = document.getElementById("d_slider");
     sl.innerHTML = "";
     sortedImages(s).forEach((im, i) => {
       const t = document.createElement("span");
       t.className = "tick";
-      t.innerHTML = '<span class="wl">' + fmtWl(im.wavelength_um) + "</span> " + esc((im.instr_key && im.instr_key !== "other") ? im.instr_key : shortFac(im.facility));
+      const yr = imgYear(im);
+      t.innerHTML = '<span class="wl">' + fmtWl(im.wavelength_um) + "</span> "
+        + esc((im.instr_key && im.instr_key !== "other") ? im.instr_key : shortFac(im.facility))
+        + (yr ? ' <span class="yr">' + esc(yr) + "</span>" : "");
+      t.title = (im.epoch ? "epoch " + im.epoch : "published " + (im.paper ? im.paper.year : "?"));
       t.onclick = () => showImg(i);
       sl.appendChild(t);
     });

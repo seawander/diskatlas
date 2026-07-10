@@ -83,7 +83,8 @@
     "bibcode": "2025ApJ...990L..70L"
    },
    "file": "images/2mass-j16120668-3010270/2mass-j16120668-3010270_magaox2025.png",
-   "note": "Candidate status: Halpha protoplanet CANDIDATE at ~0.14 arcsec (SNR 5.3 on Apr 13, 3.7 on Apr 16), coincident in position angle/separation with the ALMA circumplanetary-disk-like feature reported by Sierra et al. 2024. Not yet confirmed. Recorded as type 'planet'; no planets[] entry added to the system JSON by this crop agent (per brief, crop agents do not edit system files) -- recommend the merge step add a 'candidate' planets[] entry citing this paper if desired."
+   "note": "Candidate status: Halpha protoplanet CANDIDATE at ~0.14 arcsec (SNR 5.3 on Apr 13, 3.7 on Apr 16), coincident in position angle/separation with the ALMA circumplanetary-disk-like feature reported by Sierra et al. 2024. Not yet confirmed. Recorded as type 'planet'; no planets[] entry added to the system JSON by this crop agent (per brief, crop agents do not edit system files) -- recommend the merge step add a 'candidate' planets[] entry citing this paper if desired.",
+   "epoch": "Apr 16 2025"
   }
  ],
  "notes": "AGE-PRO Upper Scorpius 1. Transition disk with large inner dust cavity and ring at 78 au; ALMA residuals show a spiral arm and a tentative protoplanet candidate inside the cavity (Sierra et al. 2024; Vioque et al. 2025). SPHERE H-band imaging shows spirals, gap, and outer ring interpreted as evidence of planet-disk interaction (Ginski et al. 2025).",

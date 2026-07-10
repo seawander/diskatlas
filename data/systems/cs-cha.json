@@ -77,7 +77,8 @@
     "bibcode": "2023AJ....165..225F"
    },
    "file": "images/cs-cha/cs-cha_magao2022.png",
-   "note": "New candidate CS Cha 'c' point source, SNR=6.6 (classical) at 68mas/PA76, clearly apparent in Halpha and SDI imagery per the paper -- a genuinely new candidate detection, not a marginal one. Distinct from the known wide CS Cha B companion, which was NOT recovered in this dataset (non-detection, correctly not added)."
+   "note": "New candidate CS Cha 'c' point source, SNR=6.6 (classical) at 68mas/PA76, clearly apparent in Halpha and SDI imagery per the paper -- a genuinely new candidate detection, not a marginal one. Distinct from the known wide CS Cha B companion, which was NOT recovered in this dataset (non-detection, correctly not added).",
+   "epoch": "2015 May 15"
   },
   {
    "image_id": "cs-cha_sphere-ginski2018",

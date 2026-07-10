@@ -173,7 +173,8 @@
     "journal": "ApJ 835, 205",
     "arxiv": "1701.03152",
     "bibcode": "2017ApJ...835..205D"
-   }
+   },
+   "epoch": "2016"
   },
   {
    "type": "disk_scattered",
@@ -193,7 +194,8 @@
     "journal": "ApJ (2023)",
     "arxiv": "2305.03611",
     "bibcode": "2023ApJ...948...36D"
-   }
+   },
+   "epoch": "2021"
   },
   {
    "image_id": "tw-hya_alice-f110w",

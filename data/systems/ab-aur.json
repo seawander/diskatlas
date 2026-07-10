@@ -322,7 +322,8 @@
     "journal": "ApJ",
     "arxiv": "2410.11939",
     "bibcode": "2024ApJ...977..172D"
-   }
+   },
+   "epoch": "2020-10-04"
   },
   {
    "type": "disk_scattered",
@@ -342,7 +343,8 @@
     "journal": "ApJ",
     "arxiv": "2410.11939",
     "bibcode": "2024ApJ...977..172D"
-   }
+   },
+   "epoch": "2020-10-04"
   },
   {
    "type": "disk_scattered",
@@ -362,7 +364,8 @@
     "journal": "ApJ",
     "arxiv": "2410.11939",
     "bibcode": "2024ApJ...977..172D"
-   }
+   },
+   "epoch": "2020-10-04"
   },
   {
    "image_id": "ab-aur_muse2025",

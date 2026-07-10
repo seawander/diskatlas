@@ -174,7 +174,8 @@
     "bibcode": "2023AJ....165..225F"
    },
    "file": "images/hd-100453/hd-100453_magao2022.png",
-   "note": "HD 100453 B robustly recovered in both Halpha and continuum imagery in all GAPlanetS epochs with clear Halpha excess (active accretion); this is the paper's cleanest, most confident detection besides the already-catalogued HD 142527 B."
+   "note": "HD 100453 B robustly recovered in both Halpha and continuum imagery in all GAPlanetS epochs with clear Halpha excess (active accretion); this is the paper's cleanest, most confident detection besides the already-catalogued HD 142527 B.",
+   "epoch": "2018 May 2"
   },
   {
    "image_id": "hd-100453_visir2021",

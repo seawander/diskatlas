@@ -265,7 +265,8 @@
     "bibcode": "2023AJ....165..225F"
    },
    "file": "images/lkca-15/lkca-15_magao2022.png",
-   "note": "Reproduces the LkCa 15 'b' Halpha excess (classically computed SNR=5.0) at the previously reported Sallum et al. 2015 candidate location; the paper explicitly treats this as a real recovered Halpha signal but flags its planetary nature as ambiguous/debated (could be a compact scattered-light feature). PDS 70 b/c recoveries in this same paper were explicitly called 'marginal' (SNR~3-4) by the authors and were dropped per instructions."
+   "note": "Reproduces the LkCa 15 'b' Halpha excess (classically computed SNR=5.0) at the previously reported Sallum et al. 2015 candidate location; the paper explicitly treats this as a real recovered Halpha signal but flags its planetary nature as ambiguous/debated (could be a compact scattered-light feature). PDS 70 b/c recoveries in this same paper were explicitly called 'marginal' (SNR~3-4) by the authors and were dropped per instructions.",
+   "epoch": "2014 Nov 16"
   },
   {
    "image_id": "lkca-15_exoalma-co",

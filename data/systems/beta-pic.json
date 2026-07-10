@@ -358,7 +358,8 @@
     "bibcode": "2020A&A...642L...2N"
    },
    "image_id": "beta-pic_gravity2020c",
-   "file": "images/beta-pic/beta-pic_gravity2020c.png"
+   "file": "images/beta-pic/beta-pic_gravity2020c.png",
+   "epoch": "2020-03-08"
   },
   {
    "image_id": "beta-pic_alice-f160w",
@@ -599,7 +600,8 @@
     "journal": "arXiv e-print",
     "arxiv": "2606.23801",
     "bibcode": "2026arXiv260623801S"
-   }
+   },
+   "epoch": "2025-12-03"
   },
   {
    "type": "planet",
@@ -619,7 +621,8 @@
     "journal": "arXiv e-print",
     "arxiv": "2606.23801",
     "bibcode": "2026arXiv260623801S"
-   }
+   },
+   "epoch": "2025-03-22"
   },
   {
    "type": "planet",
@@ -639,7 +642,8 @@
     "journal": "arXiv e-print",
     "arxiv": "2606.23801",
     "bibcode": "2026arXiv260623801S"
-   }
+   },
+   "epoch": "2023-03-18"
   },
   {
    "type": "planet",
@@ -659,7 +663,8 @@
     "journal": "arXiv e-print",
     "arxiv": "2606.23801",
     "bibcode": "2026arXiv260623801S"
-   }
+   },
+   "epoch": "2020-02-08"
   },
   {
    "type": "planet",
@@ -679,7 +684,8 @@
     "journal": "arXiv e-print",
     "arxiv": "2606.23801",
     "bibcode": "2026arXiv260623801S"
-   }
+   },
+   "epoch": "2019-03-11"
   },
   {
    "image_id": "beta-pic_planetd-jwst2026",

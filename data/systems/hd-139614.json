@@ -51,7 +51,8 @@
     "arxiv": "1911.09612",
     "bibcode": "2020A&A...635A.121M"
    },
-   "file": "images/hd-139614/hd-139614_sphere2020-j.png"
+   "file": "images/hd-139614/hd-139614_sphere2020-j.png",
+   "epoch": "2016"
   },
   {
    "image_id": "hd-139614_sphere2020-h",
@@ -71,7 +72,8 @@
     "arxiv": "1911.09612",
     "bibcode": "2020A&A...635A.121M"
    },
-   "file": "images/hd-139614/hd-139614_sphere2020-h.png"
+   "file": "images/hd-139614/hd-139614_sphere2020-h.png",
+   "epoch": "2017"
   },
   {
    "image_id": "hd-139614_alma2023",

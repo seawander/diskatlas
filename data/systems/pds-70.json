@@ -274,7 +274,8 @@
     "arxiv": "2502.14024",
     "bibcode": "2025ApJ...980L..39Z"
    },
-   "file": "images/pds-70/pds-70_wfc3halpha2024.png"
+   "file": "images/pds-70/pds-70_wfc3halpha2024.png",
+   "epoch": "2024"
   },
   {
    "image_id": "pds-70_alma-b3-2024",
