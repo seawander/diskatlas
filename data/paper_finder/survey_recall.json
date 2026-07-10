@@ -1,0 +1,114 @@
+{
+ "DSHARP": {
+  "arxiv": "1812.04040",
+  "confidence": "high",
+  "sample": 20,
+  "with_record": 20,
+  "missing_record": [],
+  "absent": []
+ },
+ "exoALMA": {
+  "arxiv": "2504.18688",
+  "confidence": "high",
+  "sample": 15,
+  "with_record": 14,
+  "missing_record": [
+   {
+    "target": "HD135344",
+    "system": "hd-135344-a"
+   }
+  ],
+  "absent": []
+ },
+ "MAPS": {
+  "arxiv": "2109.06268",
+  "confidence": "partial",
+  "sample": 5,
+  "with_record": 4,
+  "missing_record": [],
+  "absent": [
+   "HD 162396"
+  ]
+ },
+ "eDisk": {
+  "arxiv": "2306.15406",
+  "confidence": "partial",
+  "sample": 14,
+  "with_record": 11,
+  "missing_record": [
+   {
+    "target": "IRAS 04302+2247",
+    "system": "iras-04302-2247"
+   }
+  ],
+  "absent": [
+   "IRAS 16285-2355",
+   "IRAS 19347+0727"
+  ]
+ },
+ "AGE-PRO": {
+  "arxiv": "2506.10719",
+  "confidence": "partial",
+  "sample": 8,
+  "with_record": 2,
+  "missing_record": [
+   {
+    "target": "Sz71",
+    "system": "sz-71"
+   },
+   {
+    "target": "Sz72",
+    "system": "sz-72"
+   },
+   {
+    "target": "V1094Sco",
+    "system": "v1094-sco"
+   }
+  ],
+  "absent": [
+   "Sz77",
+   "Sz66",
+   "Sz95"
+  ]
+ },
+ "Long2018": {
+  "arxiv": "1810.06044",
+  "confidence": "partial",
+  "sample": 11,
+  "with_record": 11,
+  "missing_record": [],
+  "absent": []
+ },
+ "DARTTS-S": {
+  "arxiv": "1803.10882",
+  "confidence": "partial",
+  "sample": 7,
+  "with_record": 5,
+  "missing_record": [],
+  "absent": [
+   "Sz 83",
+   "V2062 Oph"
+  ]
+ },
+ "GPIES-debris": {
+  "arxiv": "2004.13722",
+  "confidence": "partial",
+  "sample": 0,
+  "with_record": 0,
+  "missing_record": [],
+  "absent": []
+ },
+ "REASONS": {
+  "arxiv": "2501.09058",
+  "confidence": "partial",
+  "sample": 14,
+  "with_record": 13,
+  "missing_record": [
+   {
+    "target": "HD161868",
+    "system": "gamma-oph"
+   }
+  ],
+  "absent": []
+ }
+}
