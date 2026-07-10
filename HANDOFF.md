@@ -47,9 +47,72 @@ and the metadata is complete. The ongoing rhythm is:
    is questioned (great for HD/HR/IRAS names; short names like "T Tau" collide — see
    the 07-09 log).
 
-## Session state 2026-07-09 (live log — update on every hand-off)
+## Session state 2026-07-10 (live log — update on every hand-off)
 
-CURRENT: 464 systems / 1490 image records / 0 errors / 0 warnings.
+CURRENT: 468 systems / 1500 image records / 0 errors / 0 warnings /
+**epoch coverage 92.1%** (1382 records carry an observation date).
+
+07-10 ITEMS:
+- **AGE-PRO Lupus complete 10/10** (Sz 66/77/95 new systems + Sz 72 record;
+  Deng+2025 Fig. 5; compact disks flagged marginally-resolved in notes).
+- **HD 143811 AB b**: both discovery figures in full — Jones+2025 (ApJL 995,
+  L41) Fig. 1 all 3 panels AND Squicciarini+2025 (A&A 702, L10, COBREX) Fig. 1
+  all 3 PACO S/N panels; 6 records, per-panel obs epochs; both papers credited
+  on the planet (extra_papers).
+- **THE EPOCH HARVEST** — see the dedicated section below. `epoch` = OBSERVATION
+  date, never publication date; 13% → 92.1% in one pass, per-record provenance.
+
+## Observation epochs (`epoch` field) — method & maintenance
+
+The paper's core claim is *instrument- and epoch-level* coverage, so every image
+record should carry the date the data were **taken**. The 2026-07-10 harvest
+recovered 1382/1500 (92.1%); the method, in priority order (the paper writer
+should describe it this way, numbers in `paper_Overleaf/notes_epoch_methods.md`):
+
+1. **The record's own paper** (~700 records). `backend/epoch_harvest.py tex`
+   parses the local arXiv sources (`images/_sources/extracted/<id>/`, fetched by
+   `backend/fetch_sources.py`): TeX comments stripped (commented-out table rows
+   poison naive regex extraction), observing-log **table rows matched by target
+   alias AND the record's instrument keyword** (multi-target surveys observe
+   different targets on different nights; multi-instrument papers different
+   cameras), context windows naming a *different* instrument rejected
+   ("foreign"), windows naming none may only vote year precision. Survey-specific
+   extractors handle odd log formats (Ren Ks star-hopping log; GPIES / Crotts /
+   Hom compact-YYMMDD; LIGHTS YYYYMMDD; DISCS bare-HIP rows; eDisk grouped
+   rows). ~290 multi-date papers and pre-arXiv classics were hand-adjudicated by
+   reading the extraction windows. Every manually REJECTED candidate is pinned
+   in the script's BLOCKLIST so re-runs stay clean.
+2. **Observatory archives** (~470 records), only where the paper states no
+   dates, always bounded by the paper date (`backend/epoch_archives.py`):
+   MAST for HST+JWST by position+instrument+filter; ESO TAP for SPHERE by
+   position; ALMA TAP by **project codes greped from the paper tex** (exact
+   per-target execution dates) falling back to position+band cones; Herschel
+   HSA TAP.
+3. **Precision is honest, never inflated**: `YYYY-MM-DD` only when all matched
+   executions cluster within ~45 d; `YYYY` when they span one calendar year;
+   `YYYY-YYYY` when the published image combines executions across years (the
+   viewer chip shows the first year; tooltip says "observations span … (combined
+   data)").
+
+Every recovered epoch has its origin + evidence snippet in
+`data/paper_finder/epoch_provenance.json` (tex:row/instr/adjudicated…,
+mast:…, eso:…, alma:code/cone, hsa). `backend/epoch_audit.py` reports coverage.
+The remaining 118 records (7.9%) are papers that state no dates AND archives are
+silent: SMA-only REASONS targets, pre-TAP BIMA/VLA/SMA classics, VLTI/PIONIER
+post-AGB, VHS tiles, a few SEEDS/CIAO images — recoverable only by per-paper
+archaeology.
+
+**Maintenance rule: every NEW record ingested from now on must carry `epoch` at
+ingestion time** (read it from the paper's observing log while you have the
+source open — it costs seconds then, hours later). Cross-checks that caught real
+errors: instrument-impossible years (a "Herschel 2015" after the 2013 cryostat
+death, an ACS date after the 2007 HRC failure), RV/calibration/reference-star
+context leaks, and one corrupt legacy value (`lkha-233` had literal "Marin
+2025", an author-year — true FOC epoch 1995-06-17 from MAST).
+
+## Session state 2026-07-09 (previous log)
+
+464 systems / 1490 image records / 0 errors / 0 warnings.
 
 FINAL 07-09 ITEMS (after the burn-down below):
 - **Metadata completion** (`audit_bibcodes.py --fill`, new mode): filled ALL 691
