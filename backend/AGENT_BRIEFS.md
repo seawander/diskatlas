@@ -8,8 +8,8 @@
 - New systems discovered from panel labels: append their SIMBAD-resolvable names
   (one per line, `# comment` allowed) to `data/coords_todo_<batch>.txt`, and list
   them with region/category in your report.
-- Repo path (file tools + bash share it): `/home/brinen2spark/Developments/diskatlas`
-  (the old Downloads/sessions path-duality no longer applies). Rasterize figures into
+- Repo path: the orchestrator substitutes the clone's ABSOLUTE path into every
+  agent prompt (file tools + bash share it). Rasterize figures into
   `images/_sources/_views/` and Read them; clean that dir when done.
 - MODERN METHOD: this manual protocol is automated by the **Workflow tool** — one
   crop-agent per source figure that renders → VIEWs → crops → self-verifies → returns a

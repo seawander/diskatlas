@@ -93,7 +93,8 @@ python3 build.py          # data/systems/*.json → frontend/data.js (+ checks)
 
 ## Fetch sources + rebuild / 抓取源并重建
 
-This DGX checkout has live internet, so run the whole fetch yourself (no host hand-off):
+If your environment has live internet from the shell (test: `curl -sI https://arxiv.org`),
+run the whole fetch yourself:
 
 ```bash
 cd backend

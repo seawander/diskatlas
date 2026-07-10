@@ -4,7 +4,7 @@ Keep it short — `CLAUDE.md` auto-loads in Claude Code and carries the rules +
 the task→doc routing table, so the prompt itself only needs your task:
 
 ```
-Open /home/brinen2spark/Developments/diskatlas (offline all-sky atlas of
+Open <path-to-your-clone>/diskatlas (offline all-sky atlas of
 resolved disks / imaged companions / quasar hosts; CLAUDE.md has the rules and
 tells you which single doc to read for your task — do NOT read everything).
 Start with: python3 backend/validate.py && python3 backend/build.py

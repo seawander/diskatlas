@@ -77,10 +77,14 @@ per-survey `notes`).
 
 ## Environment
 
-- This DGX checkout has **live internet from bash** (arxiv.org, SIMBAD, ADS).
-  Run the whole pipeline locally; prefer local compute over token spend.
-- Tools: `pdftoppm`, `pdfinfo`, ImageMagick, ghostscript, Python+Pillow,
-  astroquery. No Node (verify frontend via `python3 -m http.server`).
+- Environments differ per contributor — **probe, don't assume**. Test network
+  with `curl -sI https://arxiv.org`; if bash has live internet (arxiv.org,
+  SIMBAD, ADS reachable), run the whole pipeline locally and prefer local
+  compute over token spend. If sandboxed/offline, run `fetch_sources.sh` on a
+  networked host and copy `images/_sources/` in — everything else is the same.
+- Typical tooling (check availability before relying on it): `pdftoppm`,
+  `pdfinfo`, ImageMagick, ghostscript, Python+Pillow, astroquery. The frontend
+  needs no Node — verify via `python3 -m http.server`.
 - **Paywalls**: IOP/AAS PDFs via curl → 14367-byte captcha page. Best→worst ADS
   gateways for curl: `EPRINT_PDF` → `PUB_PDF` (A&A/AJ ok, IOP captcha) →
   `ADS_PDF` (scans). Captcha-locked → ask the user to browser-download to

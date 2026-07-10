@@ -34,8 +34,8 @@ targeted questions, not background crawling. `fresh_papers.py` is the ongoing ch
 
 ## Network reality (IMPORTANT for agents)
 
-The usual DGX checkout (`/home/brinen2spark/Developments/diskatlas`) **has live internet
-from bash** — arxiv.org, SIMBAD, aanda.org are directly reachable:
+Environments differ per contributor — probe with `curl -sI https://arxiv.org`.
+When bash has live internet (arxiv.org, SIMBAD, aanda.org reachable):
 
 ```bash
 cd backend && bash fetch_sources.sh      # → images/_sources/arxiv/<id>.tar + SIMBAD results

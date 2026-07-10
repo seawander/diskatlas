@@ -21,8 +21,9 @@ machine-generated), `frontend/data.js` (generated, ~MB), `data/simbad_raw.txt`,
 `data/coverage_todo.md`, `data/staging/_report_*.md` (archives),
 `docs/HISTORY.md` in full (grep it). Prefer running local scripts
 (`validate.py`, `build.py`, `epoch_audit.py`, `crop_qa.py`) over reading data
-files — this machine has live internet + full Python; compute locally, spend
-tokens on judgement.
+files — compute locally, spend tokens on judgement. Probe your environment
+(`curl -sI https://arxiv.org`) rather than assuming network access; offline
+fallback is in HANDOFF.md §Environment.
 
 ## Ironclad rules
 
