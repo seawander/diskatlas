@@ -848,7 +848,7 @@ if (typeof window !== "undefined") (function () {
   (function imgGestures() {
     const box = document.getElementById("d_imgbox");
     if (!box) return;
-    let scale = 1, tx = 0, ty = 0, mode = null, sx = 0, sy = 0, lx = 0, ly = 0, pd0 = 0, s0 = 1, lastTap = 0, swiping = false;
+    let scale = 1, tx = 0, ty = 0, mode = null, sx = 0, sy = 0, lx = 0, ly = 0, pd0 = 0, s0 = 1, lastTap = 0, swiping = false, track = null;
     const img = () => box.querySelector("img");
     const W = () => box.clientWidth || 380;
     function apply() {
@@ -862,16 +862,34 @@ if (typeof window !== "undefined") (function () {
       const ey = Math.max(0, (im.clientHeight * scale - box.clientHeight) / 2);
       tx = Math.max(-ex, Math.min(ex, tx)); ty = Math.max(-ey, Math.min(ey, ty));
     }
-    function slideX(im, x, done) {          // animate translateX with a CSS transition
-      if (!im) { if (done) done(); return; }
-      im.style.transition = "transform .18s ease";
-      im.style.transform = "translate(" + x + "px,0)";
-      let ran = false;
-      const fin = () => { if (ran) return; ran = true; im.style.transition = ""; if (done) done(); };
-      im.addEventListener("transitionend", fin, { once: true });
-      setTimeout(fin, 240);                 // fallback if transitionend doesn't fire
+    /* build a 3-slide carousel [prev · current · next] so the neighbour you swipe
+       toward is already on screen (no blank gap); the track is torn back down to a
+       single <img> by showImg() once the swipe settles. */
+    function buildTrack() {
+      const ims = currentSys ? sortedImages(currentSys) : [];
+      if (ims.length < 2) return null;
+      const n = ims.length, at = o => ims[(curImg + o + n) % n];
+      const slide = im => {
+        const s = document.createElement("div"); s.className = "d_slide";
+        if (im.file) { const g = new Image(); g.alt = ""; g.src = im.file; s.appendChild(g); }
+        else s.innerHTML = '<div class="placeholder"><span class="big">⏳</span>' + esc(t("d_pending1")) + "</div>";
+        return s;
+      };
+      const tr = document.createElement("div"); tr.className = "d_track";
+      tr.appendChild(slide(at(-1))); tr.appendChild(slide(at(0))); tr.appendChild(slide(at(1)));
+      box.innerHTML = ""; box.appendChild(tr);
+      tr.style.transform = "translateX(" + (-W()) + "px)";   // centre the current slide
+      return tr;
     }
-    resetImgZoom = () => { scale = 1; tx = 0; ty = 0; swiping = false; apply(); };
+    function slideTrack(tr, x, done) {      // animate the track then hand off to showImg
+      tr.style.transition = "transform .2s ease";
+      tr.style.transform = "translateX(" + x + "px)";
+      let ran = false;
+      const fin = () => { if (ran) return; ran = true; if (done) done(); };
+      tr.addEventListener("transitionend", fin, { once: true });
+      setTimeout(fin, 260);                 // fallback if transitionend doesn't fire
+    }
+    resetImgZoom = () => { scale = 1; tx = 0; ty = 0; swiping = false; track = null; apply(); };
     box.addEventListener("touchstart", e => {
       const im0 = img(); if (im0) im0.style.transition = "";   // cancel any in-flight slide
       if (e.touches.length === 1) {
@@ -898,11 +916,13 @@ if (typeof window !== "undefined") (function () {
         clampPan(); apply();
       } else if (mode === "swipe" && e.touches.length === 1) {
         const t = e.touches[0], dx = t.clientX - sx, dy = t.clientY - sy;
-        if (!swiping && Math.abs(dx) > 8 && Math.abs(dx) > Math.abs(dy)) swiping = true;
-        if (swiping) {                        // image tracks the finger
+        if (!swiping && Math.abs(dx) > 8 && Math.abs(dx) > Math.abs(dy)) {
+          swiping = true; track = buildTrack();          // bring the neighbours on screen
+        }
+        if (swiping && track) {                            // the carousel tracks the finger
           e.preventDefault();
-          const im = img();
-          if (im) { im.style.transition = ""; im.style.transform = "translate(" + dx + "px,0)"; }
+          track.style.transition = "";
+          track.style.transform = "translateX(" + (-W() + dx) + "px)";
         }
       }
     }, { passive: false });
@@ -915,15 +935,17 @@ if (typeof window !== "undefined") (function () {
         return;
       }
       const t = e.changedTouches[0], dx = t.clientX - sx, dy = t.clientY - sy;
-      if (mode === "swipe" && swiping) {                    // resolve a follow-the-finger swipe
-        const many = currentSys && sortedImages(currentSys).length >= 2;
-        if (many && Math.abs(dx) > W() * 0.22) {            // past threshold → commit
+      if (mode === "swipe" && swiping && track) {           // resolve the carousel swipe
+        const tr = track; track = null;
+        if (Math.abs(dx) > W() * 0.22) {                    // past threshold → commit to the neighbour
           const dir = dx < 0 ? 1 : -1;                      // swipe left = next, right = previous
-          slideX(img(), dir > 0 ? -W() : W(), () => showImg(curImg + dir, dir));  // slide out → swap → slide in
+          slideTrack(tr, dir > 0 ? -2 * W() : 0, () => showImg(curImg + dir));   // settle, then swap to single img
         } else {
-          slideX(img(), 0);                                 // snap back
+          slideTrack(tr, -W(), () => showImg(curImg));      // snap back to the current
         }
-      } else if (Math.abs(dx) < 12 && Math.abs(dy) < 12) {  // a tap (any mode) → maybe double-tap zoom
+        swiping = false; mode = null; return;
+      }
+      if (Math.abs(dx) < 12 && Math.abs(dy) < 12) {         // a tap (any mode) → maybe double-tap zoom
         const now = Date.now();
         if (now - lastTap < 300) {
           const r = box.getBoundingClientRect();
@@ -1023,6 +1045,10 @@ if (typeof window !== "undefined") (function () {
     }
     document.querySelectorAll("#d_slider .tick").forEach((el, k) =>
       el.classList.toggle("on", k === curImg));
+    if (ims.length > 1) [-1, 1].forEach(o => {   // warm the neighbours so a swipe shows them instantly
+      const nb = ims[(curImg + o + ims.length) % ims.length];
+      if (nb && nb.file) { const pre = new Image(); pre.src = nb.file; }
+    });
     const p = im.paper || {};
     const links = [];
     const au = arxivUrl(p), ad = adsUrl(p);
