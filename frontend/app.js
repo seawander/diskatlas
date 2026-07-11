@@ -644,8 +644,8 @@ if (typeof window !== "undefined") (function () {
   window.addEventListener("keydown", e => {
     if (e.key === "Escape") { closeDetail(); listEl.hidden = true; }
     if (!detail.hidden) {
-      if (e.key === "ArrowLeft") showImg(curImg - 1);
-      if (e.key === "ArrowRight") showImg(curImg + 1);
+      if (e.key === "ArrowLeft") showImg(curImg - 1, -1);
+      if (e.key === "ArrowRight") showImg(curImg + 1, 1);
     }
   });
 
@@ -1067,6 +1067,7 @@ if (typeof window !== "undefined") (function () {
     curImg = (i + ims.length) % ims.length;
     const im = ims[curImg];
     const box = document.getElementById("d_imgbox");
+    const prevImg = dir ? box.querySelector("img") : null;   // outgoing image, grabbed before the swap
     if (im.file) {
       box.innerHTML = '<img alt="" src="' + esc(im.file) + '">';
     } else {
@@ -1074,16 +1075,29 @@ if (typeof window !== "undefined") (function () {
         esc(t("d_pending1")) + "<br>" + esc(t("d_pending2")) + "</div>";
     }
     if (resetImgZoom) resetImgZoom();   // clear any pinch-zoom from the previous image
-    if (dir) {                          // slide the new image in from the entering side
-      const im = box.querySelector("img");
-      if (im) {
-        const w = box.clientWidth || 380;
-        im.style.transition = "none";
-        im.style.transform = "translate(" + (dir > 0 ? w : -w) + "px,0)";
-        void im.offsetWidth;            // reflow to lock the start position
-        im.style.transition = "transform .18s ease";
-        im.style.transform = "translate(0px,0)";
-        setTimeout(() => { im.style.transition = ""; }, 240);
+    if (dir) {                          // carousel slide: incoming and outgoing images move together
+      const w = box.clientWidth || 380;
+      const enter = box.querySelector("img");
+      if (enter) {                      // incoming image slides in from the entering side
+        enter.style.transition = "none";
+        enter.style.transform = "translate(" + (dir > 0 ? w : -w) + "px,0)";
+        void enter.offsetWidth;         // reflow to lock the start position
+        enter.style.transition = "transform .2s ease";
+        enter.style.transform = "translate(0px,0)";
+        setTimeout(() => { enter.style.transition = ""; }, 240);
+      }
+      if (prevImg) {                    // outgoing image slides out the opposite side, then is dropped
+        prevImg.style.transition = "none";
+        prevImg.style.transform = "";
+        const ov = document.createElement("div"); ov.className = "d_slideout";
+        ov.appendChild(prevImg);
+        box.appendChild(ov);
+        void ov.offsetWidth;
+        ov.style.transition = "transform .2s ease";
+        ov.style.transform = "translateX(" + (dir > 0 ? -w : w) + "px)";
+        const drop = () => ov.remove();
+        ov.addEventListener("transitionend", drop, { once: true });
+        setTimeout(drop, 260);
       }
     }
     document.querySelectorAll("#d_slider .tick").forEach((el, k) =>

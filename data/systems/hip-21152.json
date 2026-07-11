@@ -125,6 +125,27 @@
    },
    "file": "images/hip-21152/hip-21152_charis-2022.png",
    "epoch": "2022-02-28"
+  },
+  {
+   "image_id": "hip-21152_nirc2-lp-2020",
+   "type": "planet",
+   "facility": "Keck",
+   "instrument": "NIRC2",
+   "wavelength_um": 3.78,
+   "wavelength_label": "L' 3.78 um (ADI/A-LOCI; companion B)",
+   "technique": "ADI",
+   "survey": null,
+   "file": "images/hip-21152/hip-21152_nirc2-lp-2020.png",
+   "credit": "Kuzuhara et al. 2022, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Kuzuhara",
+    "year": 2022,
+    "title": "Direct Imaging Discovery and Dynamical Mass of a Substellar Companion Orbiting an Accelerating Hyades Sun-like Star with SCExAO/CHARIS",
+    "journal": "ApJL 934, L18",
+    "arxiv": "2205.02729",
+    "bibcode": "2022ApJ...934L..18K"
+   },
+   "epoch": "2020-12-25"
   }
  ],
  "notes": "Member of the Hyades open cluster; the first substellar companion directly imaged around a Hyades main-sequence star (Kuzuhara+2022).",

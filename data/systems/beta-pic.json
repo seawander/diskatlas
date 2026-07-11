@@ -1214,6 +1214,69 @@
     "bibcode": "2015ApJ...800..136A"
    },
    "epoch": "2012"
+  },
+  {
+   "image_id": "beta-pic_jwst-nirspec-nrs1",
+   "type": "planet",
+   "facility": "JWST",
+   "instrument": "NIRSpec IFU",
+   "wavelength_um": 3.48,
+   "wavelength_label": "G395H NRS1 2.86-4.10 um (forward-model S/N; planets b & d)",
+   "technique": "other",
+   "survey": null,
+   "file": "images/beta-pic/beta-pic_jwst-nirspec-nrs1.png",
+   "credit": "Gibbs et al. 2026, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Gibbs",
+    "year": 2026,
+    "title": "Discovery of an Exterior Third Planet Orbiting $β$ Pictoris",
+    "journal": "arXiv",
+    "arxiv": "2606.23789",
+    "bibcode": "2026arXiv260623789G"
+   },
+   "epoch": "2026-03-29"
+  },
+  {
+   "image_id": "beta-pic_jwst-nirspec-nrs2",
+   "type": "planet",
+   "facility": "JWST",
+   "instrument": "NIRSpec IFU",
+   "wavelength_um": 4.68,
+   "wavelength_label": "G395H NRS2 4.08-5.28 um (forward-model S/N; planets b & d)",
+   "technique": "other",
+   "survey": null,
+   "file": "images/beta-pic/beta-pic_jwst-nirspec-nrs2.png",
+   "credit": "Gibbs et al. 2026, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Gibbs",
+    "year": 2026,
+    "title": "Discovery of an Exterior Third Planet Orbiting $β$ Pictoris",
+    "journal": "arXiv",
+    "arxiv": "2606.23789",
+    "bibcode": "2026arXiv260623789G"
+   },
+   "epoch": "2025-11-29"
+  },
+  {
+   "image_id": "beta-pic_jwst-miri-mrs-1b",
+   "type": "planet",
+   "facility": "JWST",
+   "instrument": "MIRI-MRS",
+   "wavelength_um": 6.15,
+   "wavelength_label": "MIRI MRS 1B 5.66-6.63 um (forward-model S/N; planet d)",
+   "technique": "other",
+   "survey": null,
+   "file": "images/beta-pic/beta-pic_jwst-miri-mrs-1b.png",
+   "credit": "Gibbs et al. 2026, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Gibbs",
+    "year": 2026,
+    "title": "Discovery of an Exterior Third Planet Orbiting $β$ Pictoris",
+    "journal": "arXiv",
+    "arxiv": "2606.23789",
+    "bibcode": "2026arXiv260623789G"
+   },
+   "epoch": "2026-03-21"
   }
  ],
  "notes": "Original 1984 discovery image (Smith & Terrile, Las Campanas coronagraph) predates arXiv; add if desired.",

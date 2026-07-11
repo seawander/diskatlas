@@ -198,6 +198,111 @@
     "bibcode": "2026arXiv260619228B"
    },
    "epoch": "2024-02-16"
+  },
+  {
+   "image_id": "gj-504_sphere-y2",
+   "type": "planet",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS",
+   "wavelength_um": 1.022,
+   "wavelength_label": "Y2 1.022 um (DBI, TLOCI ADI; b re-detected)",
+   "technique": "ADI",
+   "survey": null,
+   "file": "images/gj-504/gj-504_sphere-y2.png",
+   "credit": "Bonnefoy et al. 2018, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Bonnefoy",
+    "year": 2018,
+    "title": "The GJ 504 system revisited. Combining interferometric, radial velocity, and high contrast imaging data",
+    "journal": "A&A 618, A63",
+    "arxiv": "1807.00657",
+    "bibcode": "2018A&A...618A..63B"
+   },
+   "epoch": "2015-06-06"
+  },
+  {
+   "image_id": "gj-504_sphere-y3",
+   "type": "planet",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS",
+   "wavelength_um": 1.076,
+   "wavelength_label": "Y3 1.076 um (DBI, TLOCI ADI; b re-detected)",
+   "technique": "ADI",
+   "survey": null,
+   "file": "images/gj-504/gj-504_sphere-y3.png",
+   "credit": "Bonnefoy et al. 2018, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Bonnefoy",
+    "year": 2018,
+    "title": "The GJ 504 system revisited. Combining interferometric, radial velocity, and high contrast imaging data",
+    "journal": "A&A 618, A63",
+    "arxiv": "1807.00657",
+    "bibcode": "2018A&A...618A..63B"
+   },
+   "epoch": "2015-06-06"
+  },
+  {
+   "image_id": "gj-504_sphere-j3",
+   "type": "planet",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS",
+   "wavelength_um": 1.273,
+   "wavelength_label": "J3 1.273 um (DBI, TLOCI ADI; b re-detected)",
+   "technique": "ADI",
+   "survey": null,
+   "file": "images/gj-504/gj-504_sphere-j3.png",
+   "credit": "Bonnefoy et al. 2018, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Bonnefoy",
+    "year": 2018,
+    "title": "The GJ 504 system revisited. Combining interferometric, radial velocity, and high contrast imaging data",
+    "journal": "A&A 618, A63",
+    "arxiv": "1807.00657",
+    "bibcode": "2018A&A...618A..63B"
+   },
+   "epoch": "2015-06-06"
+  },
+  {
+   "image_id": "gj-504_sphere-h2",
+   "type": "planet",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS",
+   "wavelength_um": 1.593,
+   "wavelength_label": "H2 1.593 um (DBI, TLOCI ADI; b re-detected)",
+   "technique": "ADI",
+   "survey": null,
+   "file": "images/gj-504/gj-504_sphere-h2.png",
+   "credit": "Bonnefoy et al. 2018, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Bonnefoy",
+    "year": 2018,
+    "title": "The GJ 504 system revisited. Combining interferometric, radial velocity, and high contrast imaging data",
+    "journal": "A&A 618, A63",
+    "arxiv": "1807.00657",
+    "bibcode": "2018A&A...618A..63B"
+   },
+   "epoch": "2016-03-29"
+  },
+  {
+   "image_id": "gj-504_sphere-k1",
+   "type": "planet",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS",
+   "wavelength_um": 2.11,
+   "wavelength_label": "K1 2.110 um (DBI, TLOCI ADI; b re-detected)",
+   "technique": "ADI",
+   "survey": null,
+   "file": "images/gj-504/gj-504_sphere-k1.png",
+   "credit": "Bonnefoy et al. 2018, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Bonnefoy",
+    "year": 2018,
+    "title": "The GJ 504 system revisited. Combining interferometric, radial velocity, and high contrast imaging data",
+    "journal": "A&A 618, A63",
+    "arxiv": "1807.00657",
+    "bibcode": "2018A&A...618A..63B"
+   },
+   "epoch": "2015-06-05"
   }
  ],
  "notes": null,

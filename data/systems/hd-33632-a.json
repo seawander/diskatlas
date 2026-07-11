@@ -58,6 +58,48 @@
    },
    "file": "images/hd-33632-a/hd-33632-a_scexao2020.png",
    "epoch": "2020 Aug 31"
+  },
+  {
+   "image_id": "hd-33632-a_nirc2-lp-2018",
+   "type": "planet",
+   "facility": "Keck",
+   "instrument": "NIRC2",
+   "wavelength_um": 3.78,
+   "wavelength_label": "L' 3.78 um (ADI/A-LOCI; companion b)",
+   "technique": "ADI",
+   "survey": null,
+   "file": "images/hd-33632-a/hd-33632-a_nirc2-lp-2018.png",
+   "credit": "Currie et al. 2020, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Currie",
+    "year": 2020,
+    "title": "SCExAO/CHARIS Direct Imaging Discovery of a 20 au Separation, Low-Mass Ratio Brown Dwarf Companion to an Accelerating Sun-like Star",
+    "journal": "ApJL 904, L25",
+    "arxiv": "2011.08855",
+    "bibcode": "2020ApJ...904L..25C"
+   },
+   "epoch": "2018-11-01"
+  },
+  {
+   "image_id": "hd-33632-a_charis-2018",
+   "type": "planet",
+   "facility": "Subaru-SCExAO",
+   "instrument": "CHARIS",
+   "wavelength_um": 1.63,
+   "wavelength_label": "JHK 1.1-2.4 um (SDI/A-LOCI; companion b, 2018 epoch)",
+   "technique": "ADI",
+   "survey": null,
+   "file": "images/hd-33632-a/hd-33632-a_charis-2018.png",
+   "credit": "Currie et al. 2020, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Currie",
+    "year": 2020,
+    "title": "SCExAO/CHARIS Direct Imaging Discovery of a 20 au Separation, Low-Mass Ratio Brown Dwarf Companion to an Accelerating Sun-like Star",
+    "journal": "ApJL 904, L25",
+    "arxiv": "2011.08855",
+    "bibcode": "2020ApJ...904L..25C"
+   },
+   "epoch": "2018-10-18"
   }
  ],
  "notes": "HD 33632 A is a close binary (Aa+Ab components); the imaged substellar companion is HD 33632 Ab, orbiting the primary Aa (Currie+2020), sometimes referred to loosely as HD 33632 B in follow-up literature.",

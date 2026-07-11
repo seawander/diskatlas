@@ -804,6 +804,27 @@
     "bibcode": "2012ApJ...755L..34C"
    },
    "epoch": "2005-07-15"
+  },
+  {
+   "image_id": "hr-8799_keck-h-2004",
+   "type": "planet",
+   "facility": "Keck",
+   "instrument": "NIRC2",
+   "wavelength_um": 1.63,
+   "wavelength_label": "H band 1.6 um (ADI; planets b & c, first-epoch archival)",
+   "technique": "ADI",
+   "survey": null,
+   "file": "images/hr-8799/hr-8799_keck-h-2004.png",
+   "credit": "Marois et al. 2008, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Marois",
+    "year": 2008,
+    "title": "Direct Imaging of Multiple Planets Orbiting the Star HR 8799",
+    "journal": "Science 322, 1348",
+    "arxiv": "0811.2606",
+    "bibcode": "2008Sci...322.1348M"
+   },
+   "epoch": "2004-07-14"
   }
  ],
  "notes": null,
