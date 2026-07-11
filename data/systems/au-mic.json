@@ -441,6 +441,27 @@
    },
    "file": "images/au-mic/au-mic_sma13mm.png",
    "epoch": "2011"
+  },
+  {
+   "image_id": "au-mic_scuba2-450um-sons",
+   "type": "disk_mm",
+   "facility": "JCMT",
+   "instrument": "SCUBA-2",
+   "wavelength_um": 450,
+   "wavelength_label": "450 um (JCMT/SCUBA-2, SONS survey; resolved disk)",
+   "technique": "other",
+   "survey": "SONS",
+   "file": "images/au-mic/au-mic_scuba2-450um-sons.png",
+   "credit": "Holland et al. 2017 (SONS), Fig. 23 (crop)",
+   "paper": {
+    "first_author": "Holland",
+    "year": 2017,
+    "title": "SONS: The JCMT legacy survey of debris discs in the submillimetre",
+    "journal": "MNRAS 470, 3606",
+    "arxiv": "1706.01218",
+    "bibcode": "2017MNRAS.470.3606H"
+   },
+   "epoch": "2012-2015"
   }
  ],
  "notes": null,

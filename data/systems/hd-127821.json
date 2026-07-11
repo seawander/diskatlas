@@ -1,7 +1,10 @@
 {
  "id": "hd-127821",
  "name": "HD 127821",
- "alt_names": ["HIP 70952", "HR 5436"],
+ "alt_names": [
+  "HIP 70952",
+  "HR 5436"
+ ],
  "simbad": "HD 127821",
  "ra_deg": 217.69195895855,
  "dec_deg": 63.18578636654,
@@ -32,6 +35,27 @@
     "arxiv": "2501.09058",
     "bibcode": "2025A&A...693A.151M"
    }
+  },
+  {
+   "image_id": "hd-127821_pacs-160um-sons",
+   "type": "disk_mm",
+   "facility": "Herschel",
+   "instrument": "PACS",
+   "wavelength_um": 160,
+   "wavelength_label": "160 um (PACS; resolved disk, shown with SONS 850 um contours)",
+   "technique": "other",
+   "survey": null,
+   "file": "images/hd-127821/hd-127821_pacs-160um-sons.png",
+   "credit": "Holland et al. 2017 (SONS), Fig. 19 (crop: PACS 160 um base image)",
+   "paper": {
+    "first_author": "Holland",
+    "year": 2017,
+    "title": "SONS: The JCMT legacy survey of debris discs in the submillimetre",
+    "journal": "MNRAS 470, 3606",
+    "arxiv": "1706.01218",
+    "bibcode": "2017MNRAS.470.3606H"
+   },
+   "epoch": "2009-2013"
   }
  ],
  "notes": "AUTO-CREATED from staging - fill metadata & coords",

@@ -340,6 +340,27 @@
    },
    "file": "images/twa-7/twa-7_sphere-jband2018.png",
    "epoch": "2016-04-27"
+  },
+  {
+   "image_id": "twa-7_pacs-70um-sons",
+   "type": "disk_mm",
+   "facility": "Herschel",
+   "instrument": "PACS",
+   "wavelength_um": 70,
+   "wavelength_label": "70 um (PACS; resolved disk, shown with SONS 850 um contours)",
+   "technique": "other",
+   "survey": null,
+   "file": "images/twa-7/twa-7_pacs-70um-sons.png",
+   "credit": "Holland et al. 2017 (SONS), Fig. 15 (crop: PACS 70 um base image)",
+   "paper": {
+    "first_author": "Holland",
+    "year": 2017,
+    "title": "SONS: The JCMT legacy survey of debris discs in the submillimetre",
+    "journal": "MNRAS 470, 3606",
+    "arxiv": "1706.01218",
+    "bibcode": "2017MNRAS.470.3606H"
+   },
+   "epoch": "2009-2013"
   }
  ],
  "notes": null,
