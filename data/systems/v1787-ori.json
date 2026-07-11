@@ -17,7 +17,7 @@
    "note": "6.6\" companion (Arun et al. 2020); re-detected at the SPHERE frame edge by Valegard et al. 2024",
    "paper": {
     "first_author": "Arun",
-    "year": 2020,
+    "year": 2021,
     "arxiv": "2011.10222",
     "bibcode": "2021MNRAS.501.1243A",
     "journal": "MNRAS 501, 1243"
@@ -78,10 +78,10 @@
    "wavelength_label": "Ks band; V1787 Ori B companion",
    "technique": "other",
    "survey": null,
-   "credit": "Arun et al. 2020 (crop)",
+   "credit": "Arun et al. 2021 (crop)",
    "paper": {
     "first_author": "Arun",
-    "year": 2020,
+    "year": 2021,
     "title": "Discovery of an M-type Companion to the Herbig Ae Star V1787 Ori",
     "journal": "MNRAS 501, 1243",
     "arxiv": "2011.10222",

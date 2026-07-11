@@ -64,10 +64,10 @@
    "wavelength_label": "H band pol. intensity (misaligned disks)",
    "technique": "PDI",
    "survey": null,
-   "credit": "Mayama et al. 2019 (crop)",
+   "credit": "Mayama et al. 2020 (crop)",
    "paper": {
     "first_author": "Mayama",
-    "year": 2019,
+    "year": 2020,
     "title": "Subaru Near-Infrared Imaging Polarimetry of Misaligned Disks Around the SR 24 Hierarchical Triple System",
     "journal": "AJ 159, 12",
     "arxiv": "1911.10941",
@@ -96,6 +96,27 @@
     "title": "The SPHERE view of three interacting twin disc systems in polarised light"
    },
    "epoch": "2017-05-19"
+  },
+  {
+   "image_id": "sr-24s_alma-vioque26",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "continuum",
+   "wavelength_um": 1300,
+   "wavelength_label": "mm dust continuum (transition-disk cavity; cyan = predicted companion location)",
+   "technique": "interferometry",
+   "survey": null,
+   "file": "images/sr-24s/sr-24s_alma-vioque26.png",
+   "credit": "Vioque et al. 2026, Fig. 1 (ALMA continuum gallery, literature-compiled, crop)",
+   "paper": {
+    "first_author": "Vioque",
+    "year": 2026,
+    "title": "Astrometric view of companions in the inner dust cavities of protoplanetary discs",
+    "journal": "A&A 705, A238",
+    "arxiv": "2512.00157",
+    "bibcode": "2026A&A...705A.238V"
+   },
+   "epoch": null
   }
  ],
  "notes": "AUTO-CREATED from staging - fill metadata & coords",

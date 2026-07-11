@@ -25,10 +25,10 @@
    "wavelength_label": "H-band polarized intensity (Qphi)",
    "technique": "polarimetric imaging",
    "survey": null,
-   "credit": "Ginski et al. 2021, Fig. 2 (SPHERE H-band panel, crop)",
+   "credit": "Ginski et al. 2022, Fig. 2 (SPHERE H-band panel, crop)",
    "paper": {
     "first_author": "Ginski",
-    "year": 2021,
+    "year": 2022,
     "title": "An extended scattered light disk around AT Pyx: Possible planet formation in a cometary globule",
     "journal": "A&A",
     "arxiv": "2111.11077",
@@ -78,6 +78,27 @@
    },
    "file": "images/at-pyx/at-pyx_sphere2024.png",
    "epoch": "2024"
+  },
+  {
+   "image_id": "at-pyx_alma-vioque26",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "continuum",
+   "wavelength_um": 1300,
+   "wavelength_label": "mm dust continuum (transition-disk cavity; cyan = predicted companion location)",
+   "technique": "interferometry",
+   "survey": null,
+   "file": "images/at-pyx/at-pyx_alma-vioque26.png",
+   "credit": "Vioque et al. 2026, Fig. A.1 (ALMA continuum gallery, literature-compiled, crop)",
+   "paper": {
+    "first_author": "Vioque",
+    "year": 2026,
+    "title": "Astrometric view of companions in the inner dust cavities of protoplanetary discs",
+    "journal": "A&A 705, A238",
+    "arxiv": "2512.00157",
+    "bibcode": "2026A&A...705A.238V"
+   },
+   "epoch": null
   }
  ],
  "notes": "AUTO-CREATED from staging - fill metadata & coords Added 2026-07-08 (keyword discovery round 2).",

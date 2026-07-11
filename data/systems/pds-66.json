@@ -288,6 +288,27 @@
     "bibcode": "2016ApJ...818L..15W"
    },
    "epoch": "2011"
+  },
+  {
+   "image_id": "pds-66_alma-vioque26",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "continuum",
+   "wavelength_um": 1300,
+   "wavelength_label": "mm dust continuum (transition-disk cavity; cyan = predicted companion location)",
+   "technique": "interferometry",
+   "survey": null,
+   "file": "images/pds-66/pds-66_alma-vioque26.png",
+   "credit": "Vioque et al. 2026, Fig. 1 (ALMA continuum gallery, literature-compiled, crop)",
+   "paper": {
+    "first_author": "Vioque",
+    "year": 2026,
+    "title": "Astrometric view of companions in the inner dust cavities of protoplanetary discs",
+    "journal": "A&A 705, A238",
+    "arxiv": "2512.00157",
+    "bibcode": "2026A&A...705A.238V"
+   },
+   "epoch": null
   }
  ],
  "notes": "ALMA 3mm reveals a ring + 2 gaps invisible at shorter wavelengths; a young gas giant is inferred (not imaged) from Gaia astrometry + disk structure (Ribas et al. 2025, arXiv 2507.11612).",

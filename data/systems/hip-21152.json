@@ -70,10 +70,10 @@
    "wavelength_label": "L' band 3.78 um S/N map (vortex coronagraph)",
    "technique": "ADI",
    "survey": null,
-   "credit": "Franson et al. 2022, Fig. 2 (crop)",
+   "credit": "Franson et al. 2023, Fig. 2 (crop)",
    "paper": {
     "first_author": "Franson",
-    "year": 2022,
+    "year": 2023,
     "title": "Astrometric Accelerations as Dynamical Beacons: Discovery and Characterization of HIP 21152 B, the First T-Dwarf Companion in the Hyades",
     "journal": "AJ 165, 39",
     "arxiv": "2211.09840",

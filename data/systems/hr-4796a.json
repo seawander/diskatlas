@@ -447,10 +447,10 @@
    "wavelength_label": "18.3 um thermal (T-ReCS); pericenter glow",
    "technique": "other",
    "survey": null,
-   "credit": "Moerchen et al. 2010 (crop)",
+   "credit": "Moerchen et al. 2011 (crop)",
    "paper": {
     "first_author": "Moerchen",
-    "year": 2010,
+    "year": 2011,
     "title": "Asymmetric Heating of the HR 4796A Dust Ring Due to Pericenter Glow",
     "journal": "A&A 526, A34",
     "arxiv": "1011.1437",

@@ -451,6 +451,27 @@
     "bibcode": "2024AJ....167..181W"
    },
    "epoch": "2022-09-30"
+  },
+  {
+   "image_id": "mwc-758_alma-vioque26",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "continuum",
+   "wavelength_um": 1300,
+   "wavelength_label": "mm dust continuum (transition-disk cavity; cyan = predicted companion location)",
+   "technique": "interferometry",
+   "survey": null,
+   "file": "images/mwc-758/mwc-758_alma-vioque26.png",
+   "credit": "Vioque et al. 2026, Fig. 1 (ALMA continuum gallery, literature-compiled, crop)",
+   "paper": {
+    "first_author": "Vioque",
+    "year": 2026,
+    "title": "Astrometric view of companions in the inner dust cavities of protoplanetary discs",
+    "journal": "A&A 705, A238",
+    "arxiv": "2512.00157",
+    "bibcode": "2026A&A...705A.238V"
+   },
+   "epoch": null
   }
  ],
  "notes": null,

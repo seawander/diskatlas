@@ -1,0 +1,53 @@
+{
+ "id": "sz-100",
+ "name": "Sz 100",
+ "alt_names": [
+  "THA 15-26"
+ ],
+ "simbad": "THA 15-26",
+ "ra_deg": 242.10734736427997,
+ "dec_deg": -39.100346401079996,
+ "dist_pc": 160.0,
+ "sptype": null,
+ "region": "Lupus",
+ "categories": [
+  "protoplanetary"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "image_id": "sz-100_alma-vioque26",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "continuum",
+   "wavelength_um": 1300,
+   "wavelength_label": "mm dust continuum (transition-disk cavity; cyan = predicted companion location)",
+   "technique": "interferometry",
+   "survey": null,
+   "file": "images/sz-100/sz-100_alma-vioque26.png",
+   "credit": "Vioque et al. 2026, Fig. 1 (ALMA continuum gallery, literature-compiled, crop)",
+   "paper": {
+    "first_author": "Vioque",
+    "year": 2026,
+    "title": "Astrometric view of companions in the inner dust cavities of protoplanetary discs",
+    "journal": "A&A 705, A238",
+    "arxiv": "2512.00157",
+    "bibcode": "2026A&A...705A.238V"
+   },
+   "epoch": null
+  }
+ ],
+ "notes": "Transition disk with an inner dust cavity; ALMA continuum from the Vioque et al. 2026 gallery (literature-compiled). Added 2026-07-11.",
+ "last_updated": "2026-07-11",
+ "plx_mas": null,
+ "mags": {
+  "J": 10.982,
+  "B": 16.62,
+  "V": 15.43,
+  "R": 14.97,
+  "I": 13.12,
+  "K": 9.908,
+  "H": 10.353,
+  "G": 14.81
+ }
+}

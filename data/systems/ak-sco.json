@@ -109,10 +109,10 @@
    "wavelength_label": "near-IR (H2H3 band) scattered light",
    "technique": "ADI",
    "survey": null,
-   "credit": "Janson et al. 2015, Fig. 1 (crop)",
+   "credit": "Janson et al. 2016, Fig. 1 (crop)",
    "paper": {
     "first_author": "Janson",
-    "year": 2015,
+    "year": 2016,
     "title": "Detection of Sharp Symmetric Features in the Circumbinary Disk Around AK Sco",
     "journal": "ApJL",
     "arxiv": "1512.04552",
@@ -141,6 +141,27 @@
    },
    "file": "images/ak-sco/ak-sco_sphere-rdi-xie22.png",
    "epoch": "2015-2016"
+  },
+  {
+   "image_id": "ak-sco_alma-vioque26",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "continuum",
+   "wavelength_um": 1300,
+   "wavelength_label": "mm dust continuum (transition-disk cavity; cyan = predicted companion location)",
+   "technique": "interferometry",
+   "survey": null,
+   "file": "images/ak-sco/ak-sco_alma-vioque26.png",
+   "credit": "Vioque et al. 2026, Fig. 1 (ALMA continuum gallery, literature-compiled, crop)",
+   "paper": {
+    "first_author": "Vioque",
+    "year": 2026,
+    "title": "Astrometric view of companions in the inner dust cavities of protoplanetary discs",
+    "journal": "A&A 705, A238",
+    "arxiv": "2512.00157",
+    "bibcode": "2026A&A...705A.238V"
+   },
+   "epoch": null
   }
  ],
  "notes": null,

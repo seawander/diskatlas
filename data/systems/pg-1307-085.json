@@ -52,10 +52,10 @@
    "wavelength_label": "optical IFU (4750-9350 A), reconstructed RGB image",
    "technique": "other",
    "survey": null,
-   "credit": "Husemann et al. 2015, Fig. 1 (crop)",
+   "credit": "Husemann et al. 2016, Fig. 1 (crop)",
    "paper": {
     "first_author": "Husemann",
-    "year": 2015,
+    "year": 2016,
     "title": "The MUSE view of QSO PG1307+085: An elliptical galaxy on the $M_{BH}-\\sigma_*$ relation interacting with its group environment",
     "journal": "MNRAS 455, 1905",
     "arxiv": "1510.03864",

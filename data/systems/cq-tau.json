@@ -338,10 +338,10 @@
    "wavelength_label": "I_c band 0.806 um (polarized intensity)",
    "technique": "differential speckle polarimetry",
    "survey": null,
-   "credit": "Safonov et al. 2021, Fig. 3 (crop)",
+   "credit": "Safonov et al. 2022, Fig. 3 (crop)",
    "paper": {
     "first_author": "Safonov",
-    "year": 2021,
+    "year": 2022,
     "title": "Apparent motion of the circumstellar envelope of CQ Tau in scattered light",
     "journal": "arXiv:2111.02726",
     "arxiv": "2111.02726",
@@ -370,6 +370,27 @@
    },
    "file": "images/cq-tau/cq-tau_stis-grady2005.png",
    "epoch": "1999-10-19"
+  },
+  {
+   "image_id": "cq-tau_alma-vioque26",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "continuum",
+   "wavelength_um": 1300,
+   "wavelength_label": "mm dust continuum (transition-disk cavity; cyan = predicted companion location)",
+   "technique": "interferometry",
+   "survey": null,
+   "file": "images/cq-tau/cq-tau_alma-vioque26.png",
+   "credit": "Vioque et al. 2026, Fig. 1 (ALMA continuum gallery, literature-compiled, crop)",
+   "paper": {
+    "first_author": "Vioque",
+    "year": 2026,
+    "title": "Astrometric view of companions in the inner dust cavities of protoplanetary discs",
+    "journal": "A&A 705, A238",
+    "arxiv": "2512.00157",
+    "bibcode": "2026A&A...705A.238V"
+   },
+   "epoch": null
   }
  ],
  "notes": null,

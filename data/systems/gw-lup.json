@@ -43,10 +43,10 @@
    "wavelength_label": "near-IR polarized scattered light (H band, Qphi)",
    "technique": "PDI",
    "survey": null,
-   "credit": "Garufi et al. 2021, Fig. 2 (crop)",
+   "credit": "Garufi et al. 2022, Fig. 2 (crop)",
    "paper": {
     "first_author": "Garufi",
-    "year": 2021,
+    "year": 2022,
     "title": "A SPHERE survey of self-shadowed planet-forming disks",
     "journal": "Astronomy & Astrophysics",
     "arxiv": "2111.07856",

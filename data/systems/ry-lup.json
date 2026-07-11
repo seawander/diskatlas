@@ -43,6 +43,27 @@
    },
    "file": "images/ry-lup/ry-lup_sphere2018.png",
    "epoch": "2016 May 27"
+  },
+  {
+   "image_id": "ry-lup_alma-vioque26",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "continuum",
+   "wavelength_um": 1300,
+   "wavelength_label": "mm dust continuum (transition-disk cavity; cyan = predicted companion location)",
+   "technique": "interferometry",
+   "survey": null,
+   "file": "images/ry-lup/ry-lup_alma-vioque26.png",
+   "credit": "Vioque et al. 2026, Fig. 1 (ALMA continuum gallery, literature-compiled, crop)",
+   "paper": {
+    "first_author": "Vioque",
+    "year": 2026,
+    "title": "Astrometric view of companions in the inner dust cavities of protoplanetary discs",
+    "journal": "A&A 705, A238",
+    "arxiv": "2512.00157",
+    "bibcode": "2026A&A...705A.238V"
+   },
+   "epoch": null
   }
  ],
  "notes": "First scattered-light detection of the RY Lup transition disk (VLT/SPHERE IRDIS+IFS). The disk appears as a dominating double-arch structure extending to 0.53 arcsec (80 au) in radius, seen at high inclination (PA ~107 deg), with faint spiral-like features in the SE possibly due to planet-disk interaction (Langlois et al. 2018).",

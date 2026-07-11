@@ -36,6 +36,27 @@
    },
    "file": "images/t-cha/t-cha_sphere2017.png",
    "epoch": "2016-02-20"
+  },
+  {
+   "image_id": "t-cha_alma-vioque26",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "continuum",
+   "wavelength_um": 1300,
+   "wavelength_label": "mm dust continuum (transition-disk cavity; cyan = predicted companion location)",
+   "technique": "interferometry",
+   "survey": null,
+   "file": "images/t-cha/t-cha_alma-vioque26.png",
+   "credit": "Vioque et al. 2026, Fig. 1 (ALMA continuum gallery, literature-compiled, crop)",
+   "paper": {
+    "first_author": "Vioque",
+    "year": 2026,
+    "title": "Astrometric view of companions in the inner dust cavities of protoplanetary discs",
+    "journal": "A&A 705, A238",
+    "arxiv": "2512.00157",
+    "bibcode": "2026A&A...705A.238V"
+   },
+   "epoch": null
   }
  ],
  "notes": "Transition disk with a large gap (~30 au); highly inclined (~69 deg) with east-west scattered-light asymmetry. A point source at 3.5\" from the star (Pohl et al. 2017) was found NOT to be co-moving, ruling it out as a bound companion; no companion candidate with mass >~8.5 Mjup found between 0.1-0.3\".",

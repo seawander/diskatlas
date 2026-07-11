@@ -33,7 +33,7 @@
    "wavelength_label": "J band (ADI A-LOCI PSF-subtracted)",
    "technique": "ADI",
    "survey": null,
-   "credit": "Farkas et al. 2024, Fig. 3 (crop: J band panel)",
+   "credit": "Vincent et al. 2024, Fig. 3 (crop: J band panel)",
    "paper": {
     "first_author": "Vincent",
     "year": 2024,

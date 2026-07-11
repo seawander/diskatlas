@@ -45,7 +45,7 @@
    "wavelength_label": "JHK broadband (1.1-2.4 um)",
    "technique": "ADI",
    "survey": null,
-   "credit": "Tobin et al. 2024, Fig. 2 (crop)",
+   "credit": "Tobin et al. 2024, Fig. 2 left (CHARIS Feb 2022 panel, crop)",
    "hires_url": null,
    "paper": {
     "first_author": "Tobin",
@@ -56,7 +56,29 @@
     "bibcode": "2024AJ....167..205T"
    },
    "file": "images/hip-39017/hip-39017_charis2024.png",
-   "epoch": "2022-2023"
+   "epoch": "2022-02-21"
+  },
+  {
+   "image_id": "hip-39017_charis-dec2022",
+   "type": "planet",
+   "facility": "Subaru-SCExAO",
+   "instrument": "CHARIS IFS (ADI)",
+   "wavelength_um": 1.75,
+   "wavelength_label": "JHK broadband (1.1-2.4 um)",
+   "technique": "ADI",
+   "survey": null,
+   "credit": "Tobin et al. 2024, Fig. 2 middle (CHARIS Dec 2022 panel, crop)",
+   "hires_url": null,
+   "paper": {
+    "first_author": "Tobin",
+    "year": 2024,
+    "title": "Direct-imaging Discovery of a Substellar Companion Orbiting the Accelerating Variable Star, HIP 39017",
+    "journal": "AJ",
+    "arxiv": "2403.04000",
+    "bibcode": "2024AJ....167..205T"
+   },
+   "file": "images/hip-39017/hip-39017_charis-dec2022.png",
+   "epoch": "2022-12-31"
   },
   {
    "image_id": "hip-39017_nirc2-lp-2022",
@@ -67,7 +89,7 @@
    "wavelength_label": "L' 3.78 um (Keck/NIRC2 ADI); companion b",
    "technique": "ADI",
    "survey": null,
-   "credit": "Franson et al. 2024, Fig. 2 right (NIRC2 L' panel, crop)",
+   "credit": "Tobin et al. 2024, Fig. 2 right (NIRC2 L′ panel, crop)",
    "hires_url": null,
    "paper": {
     "first_author": "Tobin",
@@ -82,5 +104,5 @@
   }
  ],
  "notes": "HIP 39017 is a young (≲115 Myr), gamma Doradus-type pulsating variable star showing HGCA astrometric acceleration, which motivated the imaging search that found companion b. The paper describes b as a 'massive planet or low-mass brown dwarf' with an L/T transition spectrum; tagged here with method imaging per atlas convention.",
- "last_updated": "2026-07-06"
+ "last_updated": "2026-07-11"
 }

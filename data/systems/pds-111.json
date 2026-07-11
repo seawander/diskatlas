@@ -1,0 +1,53 @@
+{
+ "id": "pds-111",
+ "name": "PDS 111",
+ "alt_names": [
+  "BD-08  1115"
+ ],
+ "simbad": "BD-08  1115",
+ "ra_deg": 81.15520956304,
+ "dec_deg": -8.70047631725,
+ "dist_pc": 350.0,
+ "sptype": null,
+ "region": "Orion",
+ "categories": [
+  "protoplanetary"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "image_id": "pds-111_alma-vioque26",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "continuum",
+   "wavelength_um": 1300,
+   "wavelength_label": "mm dust continuum (transition-disk cavity; cyan = predicted companion location)",
+   "technique": "interferometry",
+   "survey": null,
+   "file": "images/pds-111/pds-111_alma-vioque26.png",
+   "credit": "Vioque et al. 2026, Fig. 1 (ALMA continuum gallery, literature-compiled, crop)",
+   "paper": {
+    "first_author": "Vioque",
+    "year": 2026,
+    "title": "Astrometric view of companions in the inner dust cavities of protoplanetary discs",
+    "journal": "A&A 705, A238",
+    "arxiv": "2512.00157",
+    "bibcode": "2026A&A...705A.238V"
+   },
+   "epoch": null
+  }
+ ],
+ "notes": "Transition disk with an inner dust cavity; ALMA continuum from the Vioque et al. 2026 gallery (literature-compiled). Added 2026-07-11.",
+ "last_updated": "2026-07-11",
+ "plx_mas": null,
+ "mags": {
+  "G": 9.693,
+  "R": 9.98,
+  "B": 10.68,
+  "V": 10.08,
+  "J": 8.403,
+  "H": 8.06,
+  "K": 7.932,
+  "I": 8.986
+ }
+}

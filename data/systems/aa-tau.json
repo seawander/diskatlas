@@ -97,6 +97,27 @@
    },
    "file": "images/aa-tau/aa-tau_exoalma-co.png",
    "epoch": "2021-2022"
+  },
+  {
+   "image_id": "aa-tau_alma-vioque26",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "continuum",
+   "wavelength_um": 1300,
+   "wavelength_label": "mm dust continuum (transition-disk cavity; cyan = predicted companion location)",
+   "technique": "interferometry",
+   "survey": null,
+   "file": "images/aa-tau/aa-tau_alma-vioque26.png",
+   "credit": "Vioque et al. 2026, Fig. 1 (ALMA continuum gallery, literature-compiled, crop)",
+   "paper": {
+    "first_author": "Vioque",
+    "year": 2026,
+    "title": "Astrometric view of companions in the inner dust cavities of protoplanetary discs",
+    "journal": "A&A 705, A238",
+    "arxiv": "2512.00157",
+    "bibcode": "2026A&A...705A.238V"
+   },
+   "epoch": null
   }
  ],
  "notes": "2026-07 sweep: added HST/STIS optical scattered-light record (Cox+2013, no arXiv posting); no published near-IR scattered-light image found",

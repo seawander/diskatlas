@@ -1,6 +1,6 @@
 {
  "_doc": "Per-survey ingestion state. entries/coords/images: done|partial|todo. Update on every ingest.",
- "updated": "2026-07-11: facility-field cleanup (IRAM/interferometer modeling). Split composite raw facility strings into one true facility per band: cq-tau 'SMA/PdBI/VLA' -> SMA(0.87mm)/PdBI(1.3,2.7mm)/VLA(7mm,1.3cm,3.6cm); hd-163296 fixed PdBI-data-mislabeled-as-SMA (1.3,2.8mm -> PdBI); gm-aur IRAM-PdBI -> PdBI. Added atomic 'PdBI'->IRAM:Interferometer in facility_map.py so bare PdBI (and OVRO+PdBI via the generic splitter) resolve. NOEMA/PdBI stay FACILITIES (like ALMA/SMA/VLA), not instruments. 485 systems, 1818 records, 0 err.",
+ "updated": "2026-07-11: Vioque et al. 2026 (2512.00157) transition-disk gallery ingest. Fig 1 (31 disks, ex-Sun) + Fig A.1 (66 disks) = 97 ALMA continuum panels with predicted-companion overlay. Added Vioque record to 72 already-held disks; created 15 NEW transition-disk systems (Sz 76/84/90/96/98/100/108B/118/123A Lupus, MHO 2/6 + ZZ Tau + IRAS 04125 Taurus, PDS 111 Orion, IRAS 16201 Oph). Deferred 10 abbreviated J-names (unresolved coords). Atlas crossed 500 systems. 500 systems, 1906 records, 0 err.",
  "surveys": {
   "DSHARP": {
    "entries": "done",

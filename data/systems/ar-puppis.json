@@ -33,7 +33,7 @@
    "wavelength_label": "V band (deconvolved total intensity)",
    "technique": "coronagraphy",
    "survey": null,
-   "credit": "Kluska et al. 2019, Fig. 5 (crop: ZIMPOL V panel)",
+   "credit": "Ertel et al. 2019, Fig. 5 (crop: deconvolved ZIMPOL V panel)",
    "paper": {
     "first_author": "Ertel",
     "year": 2019,

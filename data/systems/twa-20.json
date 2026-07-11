@@ -33,7 +33,7 @@
    "technique": "coronagraphy",
    "survey": null,
    "file": "images/twa-20/twa-20_jwst-palatnick.png",
-   "credit": "Palatnick et al. 2025, Fig. 1 (crop)",
+   "credit": "Palatnick et al. 2025, Fig. 1 left (F200W, crop)",
    "paper": {
     "first_author": "Palatnick",
     "year": 2025,
@@ -53,7 +53,7 @@
    "wavelength_label": "F444W (4.4 um; JWST/NIRCam MCRDI); debris disk",
    "technique": "RDI",
    "survey": null,
-   "credit": "(TWA 20 discovery) Fig. 1 right (F444W, crop)",
+   "credit": "Palatnick et al. 2025, Fig. 1 right (F444W, crop)",
    "hires_url": null,
    "paper": {
     "first_author": "Palatnick",

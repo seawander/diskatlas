@@ -45,10 +45,10 @@
    "wavelength_label": "3.1 mm",
    "technique": "interferometry",
    "survey": null,
-   "credit": "Harsono et al. 2023, Fig. 1 (crop)",
+   "credit": "Harsono et al. 2024, Fig. 1 (crop)",
    "paper": {
-    "first_author": "Daniel Harsono",
-    "year": 2023,
+    "first_author": "Harsono",
+    "year": 2024,
     "title": "Dual-Band Observations of the Asymmetric Ring around CIDA 9A: Dead or Alive?",
     "journal": "The Astrophysical Journal",
     "arxiv": "2310.11007",
@@ -56,6 +56,27 @@
    },
    "file": "images/cida-9/cida-9_alma2023-b3.png",
    "epoch": "2021 Jul 9"
+  },
+  {
+   "image_id": "cida-9_alma-vioque26",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "continuum",
+   "wavelength_um": 1300,
+   "wavelength_label": "mm dust continuum (transition-disk cavity; cyan = predicted companion location)",
+   "technique": "interferometry",
+   "survey": null,
+   "file": "images/cida-9/cida-9_alma-vioque26.png",
+   "credit": "Vioque et al. 2026, Fig. 1 (ALMA continuum gallery, literature-compiled, crop)",
+   "paper": {
+    "first_author": "Vioque",
+    "year": 2026,
+    "title": "Astrometric view of companions in the inner dust cavities of protoplanetary discs",
+    "journal": "A&A 705, A238",
+    "arxiv": "2512.00157",
+    "bibcode": "2026A&A...705A.238V"
+   },
+   "epoch": null
   }
  ],
  "notes": "Coords decoded from 2MASS id (Long+2019 Table 1).",
