@@ -93,6 +93,28 @@
    },
    "file": "images/cvso-30/cvso-30_naco2016.png",
    "epoch": "2012 Dec"
+  },
+  {
+   "image_id": "cvso-30_nirc2-h-2010",
+   "type": "planet",
+   "facility": "Keck-II",
+   "instrument": "NIRC2",
+   "wavelength_um": 1.63,
+   "wavelength_label": "H band (archival re-reduction)",
+   "technique": "other",
+   "survey": null,
+   "file": "images/cvso-30/cvso-30_nirc2-h-2010.png",
+   "credit": "Schmidt et al. 2016, Fig. 1 (crop)",
+   "note": "",
+   "paper": {
+    "first_author": "Schmidt",
+    "year": 2016,
+    "title": "Direct Imaging discovery of a second planet candidate around the possibly transiting planet host CVSO 30",
+    "journal": "A&A 593, A75",
+    "arxiv": "1605.05315",
+    "bibcode": "2016A&A...593A..75S"
+   },
+   "epoch": "2010-09-25"
   }
  ],
  "notes": "Both reported companions are now considered dubious/refuted: c is most likely a background star (Lee & Chiang 2017), and b's transit signal is likely stellar starspot activity rather than a planet (Koen 2020, MNRAS 494, 4349; Koen 2021, A&A 647, L1 -- no arXiv preprints available for these two).",

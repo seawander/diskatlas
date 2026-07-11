@@ -56,6 +56,50 @@
    },
    "file": "images/sr-12/sr-12_alma2022.png",
    "epoch": "2021 Jul 8"
+  },
+  {
+   "image_id": "sr-12_wfc3-f656n-2021",
+   "type": "planet",
+   "facility": "HST",
+   "instrument": "WFC3-UVIS",
+   "wavelength_um": 0.656,
+   "wavelength_label": "F656N (H-alpha; system architecture)",
+   "technique": "other",
+   "survey": null,
+   "file": "images/sr-12/sr-12_wfc3-f656n-2021.png",
+   "credit": "Finley et al. 2026, Fig. 1 (crop)",
+   "note": "",
+   "paper": {
+    "first_author": "Finley",
+    "year": 2026,
+    "title": "Ultraviolet Imaging of SR 12 c with HST/WFC3: Accretion and Variability of a Giant Planet",
+    "journal": "arXiv:2606.12862",
+    "arxiv": "2606.12862",
+    "bibcode": "2026arXiv260612862F"
+   },
+   "epoch": "2021-02-28"
+  },
+  {
+   "image_id": "sr-12_irac-36-2004",
+   "type": "planet",
+   "facility": "Spitzer",
+   "instrument": "IRAC",
+   "wavelength_um": 3.6,
+   "wavelength_label": "[3.6] um (IRAC ch1)",
+   "technique": "other",
+   "survey": null,
+   "file": "images/sr-12/sr-12_irac-36-2004.png",
+   "credit": "Martinez et al. 2022, Fig. (SR 12) (crop)",
+   "note": "",
+   "paper": {
+    "first_author": "Martinez",
+    "year": 2022,
+    "title": "A Mid-infrared Study of Directly Imaged Planetary-mass Companions Using Archival Spitzer/IRAC",
+    "journal": "AJ 163, 36",
+    "arxiv": "2111.03087",
+    "bibcode": "2022AJ....163...36M"
+   },
+   "epoch": "2004-03-07"
   }
  ],
  "notes": "SR 12 AB is a weak-line T Tauri binary (separation 0.21 arcsec / ~24 au) in the rho Ophiuchi star-forming region. Its wide (980 au) planetary-mass companion SR 12 c was imaged by Kuzuhara et al. 2011; ALMA Band 7 (0.88 mm) imaging by Wu et al. 2022 detected an unresolved (<5 au) circumplanetary dust disk around SR 12 c, the first submillimeter detection of a CPD around a wide planetary-mass companion, with dust mass comparable to the PDS 70 c CPD.",

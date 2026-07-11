@@ -88,6 +88,50 @@
     "bibcode": "2019ApJ...882...49L"
    },
    "epoch": "2017-08-31"
+  },
+  {
+   "image_id": "dh-tau_irdis-h-2019",
+   "type": "planet",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS",
+   "wavelength_um": 1.65,
+   "wavelength_label": "H band (BB_H, I_Q total intensity)",
+   "technique": "polarimetry",
+   "survey": null,
+   "file": "images/dh-tau/dh-tau_irdis-h-2019.png",
+   "credit": "van Holstein et al. 2021, Fig. B.2 (crop)",
+   "note": "",
+   "paper": {
+    "first_author": "van Holstein",
+    "year": 2021,
+    "title": "A survey of the linear polarization of directly imaged exoplanets and brown dwarf companions with SPHERE-IRDIS",
+    "journal": "A&A 647, A21",
+    "arxiv": "2101.04033",
+    "bibcode": "2021A&A...647A..21V"
+   },
+   "epoch": "2019-10-24"
+  },
+  {
+   "image_id": "dh-tau_wfc3-f656n-2012",
+   "type": "planet",
+   "facility": "HST",
+   "instrument": "WFC3-UVIS",
+   "wavelength_um": 0.656,
+   "wavelength_label": "F656N (H-alpha; primary-subtracted)",
+   "technique": "other",
+   "survey": null,
+   "file": "images/dh-tau/dh-tau_wfc3-f656n-2012.png",
+   "credit": "Zhou et al. 2014, Fig. 1 (crop)",
+   "note": "",
+   "paper": {
+    "first_author": "Zhou",
+    "year": 2014,
+    "title": "Accretion onto Planetary Mass Companions of Low-mass Young Stars",
+    "journal": "ApJ 783, L17",
+    "arxiv": "1401.6545",
+    "bibcode": "2014ApJ...783L..17Z"
+   },
+   "epoch": "2012-01-22"
   }
  ],
  "notes": null,
