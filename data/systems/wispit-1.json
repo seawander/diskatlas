@@ -64,6 +64,50 @@
    "image_id": "wispit-1_sphere2025",
    "file": "images/wispit-1/wispit-1_sphere2025.png",
    "epoch": "2022 Nov 19"
+  },
+  {
+   "image_id": "wispit-1_sphere-ks-2024",
+   "type": "planet",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS",
+   "wavelength_um": 2.18,
+   "wavelength_label": "Ks band (SPHERE/IRDIS; WISPIT 1b & 1c)",
+   "technique": "ADI",
+   "survey": null,
+   "credit": "(WISPIT 1 paper) Fig. (SPHERE Ks 2024-11 panel, crop)",
+   "hires_url": null,
+   "paper": {
+    "first_author": "van Capelleveen",
+    "year": 2025,
+    "title": "WIde Separation Planets In Time (WISPIT): Two directly imaged exoplanets around the Sun-like stellar binary WISPIT 1",
+    "journal": "A&A (2025)",
+    "arxiv": "2508.18456",
+    "bibcode": "2025A&A...704A.221V"
+   },
+   "file": "images/wispit-1/wispit-1_sphere-ks-2024.png",
+   "epoch": "2024-11-30"
+  },
+  {
+   "image_id": "wispit-1_sphere-h-2023",
+   "type": "planet",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS",
+   "wavelength_um": 1.65,
+   "wavelength_label": "H band (SPHERE/IRDIS; WISPIT 1b & 1c, 2nd epoch)",
+   "technique": "ADI",
+   "survey": null,
+   "credit": "(WISPIT 1 paper) Fig. (SPHERE H 2023-12 panel, crop)",
+   "hires_url": null,
+   "paper": {
+    "first_author": "van Capelleveen",
+    "year": 2025,
+    "title": "WIde Separation Planets In Time (WISPIT): Two directly imaged exoplanets around the Sun-like stellar binary WISPIT 1",
+    "journal": "A&A (2025)",
+    "arxiv": "2508.18456",
+    "bibcode": "2025A&A...704A.221V"
+   },
+   "file": "images/wispit-1/wispit-1_sphere-h-2023.png",
+   "epoch": "2023-12-03"
   }
  ],
  "notes": "K4+M5.5 binary, ~16 Myr; two wide-orbit planetary-mass companions.",

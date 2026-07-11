@@ -174,6 +174,28 @@
    },
    "file": "images/wispit-2/wispit-2_planetc2026.png",
    "epoch": "2025-03-21"
+  },
+  {
+   "image_id": "wispit-2_sphere-h-2025sep",
+   "type": "planet",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS",
+   "wavelength_um": 1.65,
+   "wavelength_label": "BB_H (RDI; WISPIT 2c, 2nd epoch)",
+   "technique": "RDI",
+   "survey": null,
+   "credit": "(WISPIT 2 paper) Fig. (SPHERE BB_H 2025-09 panel, crop)",
+   "hires_url": null,
+   "paper": {
+    "first_author": "Lawlor",
+    "year": 2026,
+    "title": "Direct spectroscopic confirmation of the young embedded proto-planet WISPIT 2c",
+    "journal": "arXiv (2026)",
+    "arxiv": "2603.22085",
+    "bibcode": "2026ApJ..1000L..38L"
+   },
+   "file": "images/wispit-2/wispit-2_sphere-h-2025sep.png",
+   "epoch": "2025-09-24"
   }
  ],
  "notes": "Second known multi-planet system caught in formation inside its natal disk (PDS 70 analogue).",
