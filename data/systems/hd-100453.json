@@ -395,6 +395,48 @@
     "bibcode": "2017A&A...597A..42B"
    },
    "epoch": "2015-2016"
+  },
+  {
+   "image_id": "hd-100453_magao-clio2-lp",
+   "type": "disk_scattered",
+   "facility": "Magellan-MagAO",
+   "instrument": "Clio-2",
+   "wavelength_um": 3.8,
+   "wavelength_label": "L' 3.8 um (MagAO/Clio-2 ADI; disk + companion B)",
+   "technique": "ADI",
+   "survey": null,
+   "file": "images/hd-100453/hd-100453_magao-clio2-lp.png",
+   "credit": "Wagner et al. 2018, Fig. (MagAO/Clio-2 L' panel, crop)",
+   "paper": {
+    "first_author": "Wagner",
+    "year": 2018,
+    "title": "Cavity, Spiral, and Companion Formation in the HD 100453 System",
+    "journal": "ApJ 854, 130",
+    "arxiv": "1801.03900",
+    "bibcode": "2018ApJ...854..130W"
+   },
+   "epoch": "2017-02-17"
+  },
+  {
+   "image_id": "hd-100453_sphere-h23-wagner18",
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS",
+   "wavelength_um": 1.6,
+   "wavelength_label": "H23 1.6 um (total intensity, cADI; two spirals + companion)",
+   "technique": "ADI",
+   "survey": null,
+   "file": "images/hd-100453/hd-100453_sphere-h23-wagner18.png",
+   "credit": "Wagner et al. 2018, Fig. (SPHERE/IRDIS H23 panel, crop)",
+   "paper": {
+    "first_author": "Wagner",
+    "year": 2018,
+    "title": "Cavity, Spiral, and Companion Formation in the HD 100453 System",
+    "journal": "ApJ 854, 130",
+    "arxiv": "1801.03900",
+    "bibcode": "2018ApJ...854..130W"
+   },
+   "epoch": "2016-01-21"
   }
  ],
  "notes": null,

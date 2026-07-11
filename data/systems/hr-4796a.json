@@ -563,6 +563,69 @@
     "bibcode": "2017MNRAS.470.3606H"
    },
    "epoch": "2012-2015"
+  },
+  {
+   "image_id": "hr-4796a_irdis-h-cadi-milli17",
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS",
+   "wavelength_um": 1.625,
+   "wavelength_label": "H band 1.625 um (total intensity, cADI)",
+   "technique": "ADI",
+   "survey": null,
+   "file": "images/hr-4796a/hr-4796a_irdis-h-cadi-milli17.png",
+   "credit": "Milli et al. 2017, Fig. 2 (cADI H-band panel, crop)",
+   "paper": {
+    "first_author": "Milli",
+    "year": 2017,
+    "title": "Near-infrared scattered light properties of the HR 4796 A dust ring. A measured scattering phase function from 13.6 to 166.6 deg",
+    "journal": "A&A 599, A108",
+    "arxiv": "1701.00750",
+    "bibcode": "2017A&A...599A.108M"
+   },
+   "epoch": "2015-02-02"
+  },
+  {
+   "image_id": "hr-4796a_irdis-h2h3-cadi-milli17",
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS",
+   "wavelength_um": 1.63,
+   "wavelength_label": "H2H3 1.59/1.67 um (total intensity, cADI)",
+   "technique": "ADI",
+   "survey": null,
+   "file": "images/hr-4796a/hr-4796a_irdis-h2h3-cadi-milli17.png",
+   "credit": "Milli et al. 2017, Fig. 3 (cADI H2H3 panel, crop)",
+   "paper": {
+    "first_author": "Milli",
+    "year": 2017,
+    "title": "Near-infrared scattered light properties of the HR 4796 A dust ring. A measured scattering phase function from 13.6 to 166.6 deg",
+    "journal": "A&A 599, A108",
+    "arxiv": "1701.00750",
+    "bibcode": "2017A&A...599A.108M"
+   },
+   "epoch": "2015-02-02"
+  },
+  {
+   "image_id": "hr-4796a_ifs-yj-milli17",
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "IFS",
+   "wavelength_um": 1.15,
+   "wavelength_label": "Y-J 0.95-1.35 um (all-channel stack, masked cADI)",
+   "technique": "ADI",
+   "survey": null,
+   "file": "images/hr-4796a/hr-4796a_ifs-yj-milli17.png",
+   "credit": "Milli et al. 2017, Fig. 5 (IFS all-channel stack, crop)",
+   "paper": {
+    "first_author": "Milli",
+    "year": 2017,
+    "title": "Near-infrared scattered light properties of the HR 4796 A dust ring. A measured scattering phase function from 13.6 to 166.6 deg",
+    "journal": "A&A 599, A108",
+    "arxiv": "1701.00750",
+    "bibcode": "2017A&A...599A.108M"
+   },
+   "epoch": "2015-02-02"
   }
  ],
  "notes": null,

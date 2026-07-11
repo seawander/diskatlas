@@ -78,6 +78,27 @@
    },
    "file": "images/hr-7012/hr-7012_alma2025.png",
    "epoch": "2023"
+  },
+  {
+   "image_id": "hr-7012_zimpol-vbb-engler18",
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "ZIMPOL",
+   "wavelength_um": 0.735,
+   "wavelength_label": "VBB 0.735 um (pol. intensity Qphi; edge-on debris disk)",
+   "technique": "PDI",
+   "survey": null,
+   "file": "images/hr-7012/hr-7012_zimpol-vbb-engler18.png",
+   "credit": "Engler et al. 2018, Fig. 1a (ZIMPOL VBB Qphi, crop)",
+   "paper": {
+    "first_author": "Engler",
+    "year": 2018,
+    "title": "Detection of scattered light from the debris disk of HD 172555 (HR 7012)",
+    "journal": "A&A 618, A151",
+    "arxiv": "1808.04373",
+    "bibcode": "2018A&A...618A.151E"
+   },
+   "epoch": "2015-06-26"
   }
  ],
  "notes": null,

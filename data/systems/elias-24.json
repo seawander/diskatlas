@@ -54,6 +54,27 @@
    },
    "file": "images/elias-24/elias-24_eris2025.png",
    "epoch": "2023 May 28"
+  },
+  {
+   "image_id": "elias-24_band6-cieza17",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 6",
+   "wavelength_um": 1300,
+   "wavelength_label": "1.3 mm continuum (ODISEA; deep gap at ~0.4 arcsec)",
+   "technique": "interferometry",
+   "survey": "ODISEA",
+   "file": "images/elias-24/elias-24_band6-cieza17.png",
+   "credit": "Cieza et al. 2017, Fig. 1a (CLEAN uniform, crop)",
+   "paper": {
+    "first_author": "Cieza",
+    "year": 2017,
+    "title": "ALMA observations of Elias 2-24: a protoplanetary disk with multiple gaps in the Ophiuchus star-forming region",
+    "journal": "ApJ 851, L23",
+    "arxiv": "1711.06905",
+    "bibcode": "2017ApJ...851L..23C"
+   },
+   "epoch": "2017-07-13"
   }
  ],
  "notes": null,
