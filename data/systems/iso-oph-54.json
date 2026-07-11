@@ -58,6 +58,28 @@
     "bibcode": "2021MNRAS.501.2934C"
    },
    "epoch": "2019-07-12"
+  },
+  {
+   "image_id": "iso-oph-54_alma-b3-2016",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 3",
+   "wavelength_um": 3000,
+   "wavelength_label": "100 GHz / 3 mm (Band 3) continuum; multi-gap disk",
+   "technique": "interferometry",
+   "survey": null,
+   "credit": "Sheehan & Eisner 2018, Fig. 1 right (Band 3 map, crop)",
+   "hires_url": null,
+   "paper": {
+    "first_author": "Sheehan",
+    "year": 2018,
+    "title": "Multiple Gaps in the Disk of the Class I Protostar GY 91",
+    "journal": "ApJL",
+    "arxiv": "1803.02847",
+    "bibcode": "2018ApJ...857...18S"
+   },
+   "file": "images/iso-oph-54/iso-oph-54_alma-b3-2016.png",
+   "epoch": "2015-10-31"
   }
  ],
  "notes": "GY 91 = [GY92] 91 = ISO-Oph 54 (SIMBAD-verified). Merged the duplicate 'iso-oph-54' system (ODISEA record) into this one 2026-07-09; removed the incorrect 'ISO-Oph 63' alias (that designation is [GY92] 109, a different star).",

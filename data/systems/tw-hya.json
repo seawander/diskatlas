@@ -439,6 +439,28 @@
    },
    "file": "images/tw-hya/tw-hya_hst-nicmos-f222m.png",
    "epoch": "2005-05-09"
+  },
+  {
+   "image_id": "tw-hya_gpi-k1",
+   "type": "disk_scattered",
+   "facility": "Gemini-GPI",
+   "instrument": "GPI (pol)",
+   "wavelength_um": 2.05,
+   "wavelength_label": "K1 band 2.05 um (GPI; Qr polarized intensity)",
+   "technique": "PDI",
+   "survey": null,
+   "credit": "Rapson et al. 2015, Fig. 1 lower-left (K1 Qr, crop)",
+   "hires_url": null,
+   "paper": {
+    "first_author": "Rapson",
+    "year": 2015,
+    "title": "Peering into the Giant Planet Forming Region of the TW Hydrae Disk with the Gemini Planet Imager",
+    "journal": "ApJL",
+    "arxiv": "1512.01865",
+    "bibcode": "2015ApJ...815L..26R"
+   },
+   "file": "images/tw-hya/tw-hya_gpi-k1.png",
+   "epoch": "2015-04-22"
   }
  ],
  "notes": null,

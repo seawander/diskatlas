@@ -205,6 +205,28 @@
     "bibcode": "2017MNRAS.470.3606H"
    },
    "epoch": "2009-2013"
+  },
+  {
+   "image_id": "hd-92945_jwst-nircam-f444w",
+   "type": "disk_scattered",
+   "facility": "JWST",
+   "instrument": "NIRCam",
+   "wavelength_um": 4.4,
+   "wavelength_label": "F444W (4.4 um; JWST/NIRCam RDI); debris ring",
+   "technique": "RDI",
+   "survey": null,
+   "credit": "(HD 92945 JWST paper) Fig. 1 left (F444W, crop)",
+   "hires_url": null,
+   "paper": {
+    "first_author": "Lazzoni",
+    "year": 2025,
+    "title": "JWST/NIRCam observations of HD 92945 debris disk: An asymmetric disk with a gap",
+    "journal": "A&A (2025, accepted)",
+    "arxiv": "2511.07561",
+    "bibcode": "2025A&A...704A.176L"
+   },
+   "file": "images/hd-92945/hd-92945_jwst-nircam-f444w.png",
+   "epoch": "2024-05-20"
   }
  ],
  "notes": null,

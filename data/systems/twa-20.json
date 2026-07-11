@@ -43,6 +43,28 @@
     "bibcode": "2025ApJ...995..149P"
    },
    "epoch": "2024 Jun 14"
+  },
+  {
+   "image_id": "twa-20_jwst-nircam-f444w",
+   "type": "disk_scattered",
+   "facility": "JWST",
+   "instrument": "NIRCam",
+   "wavelength_um": 4.4,
+   "wavelength_label": "F444W (4.4 um; JWST/NIRCam MCRDI); debris disk",
+   "technique": "RDI",
+   "survey": null,
+   "credit": "(TWA 20 discovery) Fig. 1 right (F444W, crop)",
+   "hires_url": null,
+   "paper": {
+    "first_author": "Palatnick",
+    "year": 2025,
+    "title": "Discovery of a Debris Disk Around TWA 20",
+    "journal": "arXiv:2510.20216",
+    "arxiv": "2510.20216",
+    "bibcode": "2025ApJ...995..149P"
+   },
+   "file": "images/twa-20/twa-20_jwst-nircam-f444w.png",
+   "epoch": "2024-06-14"
   }
  ],
  "notes": "Added 2026-07-06 (known_missing triage). Coordinates pending next host SIMBAD run.",
