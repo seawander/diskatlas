@@ -7,7 +7,7 @@
  "simbad": "2MASS J16230923-2417047",
  "ra_deg": 245.78845132172998,
  "dec_deg": -24.2847260884,
- "dist_pc": 140.0,
+ "dist_pc": 156.6,
  "sptype": "M",
  "region": "Ophiuchus",
  "categories": [
@@ -60,6 +60,13 @@
  ],
  "notes": "Transition disk with an inner dust cavity; ALMA continuum from the Vioque et al. 2026 gallery (literature-compiled). Added 2026-07-11.",
  "last_updated": "2026-07-11",
- "plx_mas": null,
- "mags": null
+ "plx_mas": 6.3868,
+ "mags": {
+  "J": 10.32,
+  "H": 8.997,
+  "K": 8.07,
+  "G": 14.247,
+  "B": 14.3,
+  "V": 12.75
+ }
 }

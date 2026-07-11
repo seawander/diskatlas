@@ -44,6 +44,7 @@
    "wavelength_label": "L' band 3.8 um direct image",
    "technique": "ADI",
    "survey": null,
+   "epoch": "2023-08-15",
    "file": "images/lspm-j1446/lspm-j1446_nirc2-uyama25.png",
    "credit": "Uyama et al. 2025, Fig. 1 (crop)",
    "paper": {
@@ -56,6 +57,6 @@
    }
   }
  ],
- "notes": "Directly-imaged companion host (Uyama+2025); coordinates pending SIMBAD resolution.",
- "last_updated": "2026-07-06"
+ "notes": "Directly-imaged companion host (Uyama+2025).",
+ "last_updated": "2026-07-11"
 }

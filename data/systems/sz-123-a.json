@@ -7,8 +7,8 @@
  "simbad": "THA 15-42",
  "ra_deg": 242.71493743133,
  "dec_deg": -38.88715774594,
- "dist_pc": 160.0,
- "sptype": null,
+ "dist_pc": 162.2,
+ "sptype": "M1e",
  "region": "Lupus",
  "categories": [
   "protoplanetary"
@@ -60,6 +60,15 @@
  ],
  "notes": "Transition disk with an inner dust cavity; ALMA continuum from the Vioque et al. 2026 gallery (literature-compiled). Added 2026-07-11.",
  "last_updated": "2026-07-11",
- "plx_mas": null,
- "mags": null
+ "plx_mas": 6.1656,
+ "mags": {
+  "B": 15.89,
+  "V": 14.48,
+  "R": 14.44,
+  "I": 12.95,
+  "J": 11.092,
+  "H": 10.207,
+  "K": 9.78,
+  "G": 14.247
+ }
 }

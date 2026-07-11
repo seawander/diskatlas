@@ -7,7 +7,7 @@
  "simbad": "IRAS 04125+2902",
  "ra_deg": 63.928279686959996,
  "dec_deg": 29.166620124400005,
- "dist_pc": 140.0,
+ "dist_pc": 160.1,
  "sptype": "M0",
  "region": "Taurus",
  "categories": [
@@ -60,6 +60,15 @@
  ],
  "notes": "Transition disk with an inner dust cavity; ALMA continuum from the Vioque et al. 2026 gallery (literature-compiled). Added 2026-07-11.",
  "last_updated": "2026-07-11",
- "plx_mas": null,
- "mags": null
+ "plx_mas": 6.2474,
+ "mags": {
+  "J": 10.709,
+  "B": 17.442,
+  "V": 15.487,
+  "R": 13.954,
+  "I": 12.418,
+  "H": 9.76,
+  "K": 9.376,
+  "G": 13.981
+ }
 }

@@ -5,7 +5,7 @@
  "simbad": "Sz69",
  "ra_deg": 236.322549,
  "dec_deg": -34.307857,
- "dist_pc": 160.0,
+ "dist_pc": 152.6,
  "sptype": "M1",
  "region": "Lupus",
  "categories": [
@@ -37,6 +37,13 @@
  ],
  "notes": "Structured (ring/substructure) disk; ALMA continuum from the Kurtovic et al. 2026 archival gallery (Fig. 25). Added 2026-07-11.",
  "last_updated": "2026-07-11",
- "plx_mas": null,
- "mags": null
+ "plx_mas": 6.5548,
+ "mags": {
+  "B": 17.41,
+  "V": 16.25,
+  "J": 11.176,
+  "H": 10.162,
+  "K": 9.41,
+  "G": 14.895
+ }
 }

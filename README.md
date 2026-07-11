@@ -111,14 +111,17 @@ internet as a hard prerequisite for contributing.)
 
 ## Current contents (2026-07-11 build) / 当前规模
 
-**483 systems (incl. quasar hosts, embedded Class 0/I protostars, Orion proplyds and
-evolved-star envelopes) · 1813 image records · all with local panels · 87 imaged-companion
+**520 systems (incl. quasar hosts, embedded Class 0/I protostars, Orion proplyds and
+evolved-star envelopes) · 2082 image records · all with local panels · 87 imaged-companion
 hosts · coordinates for every system (SIMBAD idents coordinate-verified) · 0 validation
-errors / 0 warnings · every paper block carries an ADS-verified bibcode · ~94% of records
+errors / 0 warnings · every paper block carries an ADS-verified bibcode · ~83% of records
 carry the observation epoch (never the publication year), each with machine-readable
-provenance.**
+provenance (the rest are recent additions still being back-filled).**
 `python3 backend/build.py` prints the canonical live stats — trust its output over any number
-written in prose. Recent 2026-07-10/11 additions: a deep Orion silhouette/proplyd dive
+written in prose. Recent 2026-07-11 additions: the Vioque 2026 transition-disk gallery
+(+15 new systems, crossing 500 systems) and the Kurtovic 2026 154-ring ALMA gallery, a
+notes-citation sweep (58 systems now cite their claims in-line), historical β Pic
+coronagraphy (Heap 2000 STIS, Apai 2015 two-epoch), plus a deep Orion silhouette/proplyd dive
 (giant disk 114-426 in JWST/NIRCam 12-band, the ground-based-AO silhouette 218-354,
 Ricci 2008 ACS proplyds, McCaughrean 1998 HST classics), V883 Ori (landmark FUor
 water-snow-line disk, +5 ALMA bands), PDS 70 (+SPHERE) and the BHR 71 IRS1 JWST jet, a
