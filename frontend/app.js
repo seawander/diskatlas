@@ -826,6 +826,7 @@ if (typeof window !== "undefined") (function () {
       if (idx >= 0) first = idx;
     }
     showImg(first);
+    detail.style.transition = ""; detail.style.transform = "";   // clear any leftover dismiss drag
     detail.hidden = false;
     if (detail._placeResize) detail._placeResize();   // position the resize handle
     if (history.replaceState) history.replaceState(null, "", "#s=" + s.id);
@@ -959,25 +960,52 @@ if (typeof window !== "undefined") (function () {
       swiping = false; mode = null;
     }, { passive: true });
   })();
-  /* swipe DOWN anywhere on the card to dismiss it — but only when it's scrolled
-     to the top (otherwise a down-swipe just scrolls the content), and not when
-     the gesture starts on a zoomed image (that pans the image instead) */
+  /* drag the card DOWN to dismiss it (iPhone-app style): it follows the finger,
+     then either flings off the bottom and closes, or springs back. Armed only when
+     scrolled to the top (else a down-drag just scrolls) and not on a zoomed image. */
   (function panelDismiss() {
     const detail = document.getElementById("detail");
     if (!detail) return;
-    let y0 = 0, x0 = 0, armed = false;
+    let y0 = 0, x0 = 0, armed = false, engaged = false;
     detail.addEventListener("touchstart", e => {
+      engaged = false;
       if (e.touches.length !== 1) { armed = false; return; }
       const t = e.touches[0]; y0 = t.clientY; x0 = t.clientX;
       const box = document.getElementById("d_imgbox");
       const onZoomedImg = box && box.contains(e.target) && getComputedStyle(box).touchAction === "none";
       armed = detail.scrollTop <= 0 && !onZoomedImg;
+      detail.style.transition = "";
     }, { passive: true });
+    detail.addEventListener("touchmove", e => {
+      if (!armed || e.touches.length !== 1) return;
+      const t = e.touches[0], dy = t.clientY - y0, dx = t.clientX - x0;
+      if (!engaged) {
+        if (dy > 6 && dy > Math.abs(dx)) engaged = true;                 // downward + vertical → drag the card
+        else if (Math.abs(dx) > 8 || dy < -4) { armed = false; return; } // horizontal / upward → not a dismiss
+      }
+      if (engaged) {
+        e.preventDefault();
+        detail.style.transform = "translateY(" + Math.max(0, dy) + "px)";  // resist upward past 0
+      }
+    }, { passive: false });
+    function settle(close) {
+      detail.style.transition = "transform .25s cubic-bezier(.4,0,.2,1)";
+      if (close) {
+        detail.style.transform = "translateY(100%)";                    // fling off the bottom, then close
+        let ran = false;
+        const fin = () => { if (ran) return; ran = true; closeDetail(); detail.style.transition = ""; detail.style.transform = ""; };
+        detail.addEventListener("transitionend", fin, { once: true });
+        setTimeout(fin, 300);
+      } else {
+        detail.style.transform = "translateY(0)";                       // spring back into place
+        setTimeout(() => { detail.style.transition = ""; detail.style.transform = ""; }, 280);
+      }
+    }
     detail.addEventListener("touchend", e => {
-      if (!armed || e.changedTouches.length !== 1) return;
-      armed = false;
-      const t = e.changedTouches[0], dy = t.clientY - y0, dx = t.clientX - x0;
-      if (dy > 90 && dy > Math.abs(dx) * 1.5) closeDetail();   // clear downward swipe
+      if (!armed || !engaged) { armed = false; engaged = false; return; }
+      armed = false; engaged = false;
+      const dy = e.changedTouches[0].clientY - y0;
+      settle(dy > 110);   // past threshold → dismiss, else spring back
     }, { passive: true });
   })();
 
