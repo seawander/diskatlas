@@ -1,6 +1,6 @@
 {
  "_doc": "Per-survey ingestion state. entries/coords/images: done|partial|todo. Update on every ingest.",
- "updated": "2026-07-11: +7 records from agent T (deep-cut discovery): HD 142527 ALMA Band7 continuum + mm-polarized-intensity + CO(3-2) gas map (Ohashi 2018, new mm-pol & gas modalities), HR 4796A NaCo Ks PDI 2013 + NICMOS F222M first-published (Milli 2015), beta Pic NaCo L' scattered-light DISK (Milli 2014) + GPI J-band planet b 2018-11-18 post-conjunction (Nielsen 2020). Deferred HR 4796A NaCo L' (epoch ambiguous). Marino 2015 rejected (models). 1758 records, 0 err.",
+ "updated": "2026-07-11: NEW SYSTEM v883-ori (V883 Ori, landmark FUor water snow-line disk, Orion L1641) with 5 resolved ALMA bands: Band 6 1.3mm water snow-line (Cieza 2016 Nature) + Band 6 combined-config (Cieza 2018) + Band 7 0.88mm / Band 4 2.0mm / Band 3 3.1mm (Houge 2024). 475 systems, 1763 records, 0 err.",
  "surveys": {
   "DSHARP": {
    "entries": "done",
