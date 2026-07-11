@@ -849,7 +849,7 @@ if (typeof window !== "undefined") (function () {
   (function imgGestures() {
     const box = document.getElementById("d_imgbox");
     if (!box) return;
-    let scale = 1, tx = 0, ty = 0, mode = null, sx = 0, sy = 0, lx = 0, ly = 0, pd0 = 0, s0 = 1, lastTap = 0, swiping = false, track = null, swVx = 0, swT = 0, swLastX = 0;
+    let scale = 1, tx = 0, ty = 0, mode = null, sx = 0, sy = 0, lx = 0, ly = 0, pd0 = 0, s0 = 1, swiping = false, track = null, swVx = 0, swT = 0, swLastX = 0;
     const img = () => box.querySelector("img");
     const W = () => box.clientWidth || 380;
     function apply() {
@@ -957,17 +957,8 @@ if (typeof window !== "undefined") (function () {
         }
         swiping = false; mode = null; return;
       }
-      if (Math.abs(dx) < 12 && Math.abs(dy) < 12) {         // a tap (any mode) → maybe double-tap zoom
-        const now = Date.now();
-        if (now - lastTap < 300) {
-          const r = box.getBoundingClientRect();
-          if (scale > 1) { scale = 1; tx = 0; ty = 0; }     // zoomed → reset
-          else { scale = 2.5;                                // zoom in on the tapped point
-            tx = (box.clientWidth / 2 - (t.clientX - r.left)) * scale;
-            ty = (box.clientHeight / 2 - (t.clientY - r.top)) * scale; clampPan(); }
-          apply(); lastTap = 0;
-        } else lastTap = now;
-      }
+      /* no double-tap zoom on the image: rapid ‹/› taps to flip through images
+         must never trigger a zoom (pinch is the only zoom gesture) */
       swiping = false; mode = null;
     }, { passive: true });
     box.addEventListener("touchcancel", () => {           // browser stole the gesture → settle back
