@@ -7306,5 +7306,77 @@
   "source": "panel-split",
   "arxiv": "1802.03328",
   "snippet": "Fig.1 J-band Qphi panel (bottom-left)"
+ },
+ "cy-tau_vla-7.1mm": {
+  "epoch": "2010-2012",
+  "source": "tex:table",
+  "arxiv": "1509.07520",
+  "snippet": "Q band: 2010-Nov-13 C; 2011-Apr-05 B; 2012-Oct-22/26/27/28 A (VLA_table)"
+ },
+ "pds-66_gpi-k1": {
+  "epoch": "2014 May 15",
+  "source": "tex:table",
+  "arxiv": "1601.07248",
+  "snippet": "2014 May 15 & Polarization & $K1$ & 59.6 & 16"
+ },
+ "pds-66_stis": {
+  "epoch": "2011",
+  "source": "archive:MAST",
+  "arxiv": "1601.07248",
+  "snippet": "GO-12228 STIS/CCD visits 2011-03-31 and 2011-06-04 (65 d apart -> year)"
+ },
+ "v960-mon_eris": {
+  "epoch": "2024-01-01",
+  "source": "tex:body",
+  "arxiv": "2507.13571",
+  "snippet": "Observations were carried out on January 1st, 2024 ... NIX ... L'-band (112.25PY.001)"
+ },
+ "ngc-1068_vla1996": {
+  "epoch": "1994-05-09",
+  "source": "scan:table",
+  "bibcode": "1996ApJ...458..136G",
+  "snippet": "Table 1: A ... 4.802 GHz ... 94 May 9 (6 cm A-array, Fig. 2 left)"
+ },
+ "hd-100453_naco-chen2006": {
+  "epoch": "2003-06-02",
+  "source": "pdf:body",
+  "bibcode": "2006A&A...445..331C",
+  "snippet": "images of HD 100453 ... were taken on June 2nd 2003 with NACO (ESO archive)"
+ },
+ "dg-tau_bima2000": {
+  "epoch": "1996-1998",
+  "source": "tex:body",
+  "arxiv": "astro-ph/9908301",
+  "snippet": "observations were acquired from 1996 May to 1998 March (C, B, A configurations)"
+ },
+ "dg-tau-b_bima2000": {
+  "epoch": "1996-1998",
+  "source": "tex:body",
+  "arxiv": "astro-ph/9908301",
+  "snippet": "observations were acquired from 1996 May to 1998 March (C, B, A configurations)"
+ },
+ "gg-tau_bima2000": {
+  "epoch": "1996-1998",
+  "source": "tex:body",
+  "arxiv": "astro-ph/9908301",
+  "snippet": "observations were acquired from 1996 May to 1998 March (C, B, A configurations)"
+ },
+ "gm-aur_bima2000": {
+  "epoch": "1996-1998",
+  "source": "tex:body",
+  "arxiv": "astro-ph/9908301",
+  "snippet": "observations were acquired from 1996 May to 1998 March (C, B, A configurations)"
+ },
+ "hl-tau_bima2000": {
+  "epoch": "1996-1998",
+  "source": "tex:body",
+  "arxiv": "astro-ph/9908301",
+  "snippet": "observations were acquired from 1996 May to 1998 March (C, B, A configurations)"
+ },
+ "l1551-irs-5_bima2000": {
+  "epoch": "1996-1998",
+  "source": "tex:body",
+  "arxiv": "astro-ph/9908301",
+  "snippet": "observations were acquired from 1996 May to 1998 March (C, B, A configurations)"
  }
 }
