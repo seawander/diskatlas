@@ -1,6 +1,33 @@
 {
  "flagged": [
   {
+   "system": "114-426",
+   "image_id": "114-426_acs-f435w-mio12",
+   "file": "images/114-426/114-426_acs-f435w-mio12.png",
+   "ar": 1.0,
+   "flags": [
+    "GUTTER_EDGE:T(white)"
+   ]
+  },
+  {
+   "system": "182-413",
+   "image_id": "182-413_acs-f435w-ricci08",
+   "file": "images/182-413/182-413_acs-f435w-ricci08.png",
+   "ar": 0.91,
+   "flags": [
+    "GUTTER_EDGE:T(white)"
+   ]
+  },
+  {
+   "system": "182-413",
+   "image_id": "182-413_acs-f658n-ricci08",
+   "file": "images/182-413/182-413_acs-f658n-ricci08.png",
+   "ar": 0.91,
+   "flags": [
+    "GUTTER_EDGE:T(white)"
+   ]
+  },
+  {
    "system": "1rxs-j1609",
    "image_id": "1rxs-j1609_gemini2010",
    "file": "images/1rxs-j1609/1rxs-j1609_gemini2010.png",
@@ -183,6 +210,33 @@
    ]
   },
   {
+   "system": "beta-pic",
+   "image_id": "beta-pic_pacs-70um-vandenbussche10",
+   "file": "images/beta-pic/beta-pic_pacs-70um-vandenbussche10.png",
+   "ar": 0.84,
+   "flags": [
+    "GUTTER_EDGE:L(white)"
+   ]
+  },
+  {
+   "system": "beta-pic",
+   "image_id": "beta-pic_pacs-100um-vandenbussche10",
+   "file": "images/beta-pic/beta-pic_pacs-100um-vandenbussche10.png",
+   "ar": 0.84,
+   "flags": [
+    "GUTTER_EDGE:L(white)"
+   ]
+  },
+  {
+   "system": "beta-pic",
+   "image_id": "beta-pic_pacs-160um-vandenbussche10",
+   "file": "images/beta-pic/beta-pic_pacs-160um-vandenbussche10.png",
+   "ar": 0.84,
+   "flags": [
+    "GUTTER_EDGE:L(white)"
+   ]
+  },
+  {
    "system": "bhr71-irs1",
    "image_id": "bhr71-irs1_edisk",
    "file": "images/bhr71-irs1/bhr71-irs1_edisk.png",
@@ -234,6 +288,15 @@
    "ar": 1.01,
    "flags": [
     "GUTTER_EDGE:L(white)"
+   ]
+  },
+  {
+   "system": "dl-tau",
+   "image_id": "dl-tau_alma-band3-2.9mm",
+   "file": "images/dl-tau/dl-tau_alma-band3-2.9mm.png",
+   "ar": 0.97,
+   "flags": [
+    "GUTTER_EDGE:T(black)"
    ]
   },
   {
@@ -300,6 +363,24 @@
    ]
   },
   {
+   "system": "eta-crv",
+   "image_id": "eta-crv_pacs-100um-duchene14",
+   "file": "images/eta-crv/eta-crv_pacs-100um-duchene14.png",
+   "ar": 1.03,
+   "flags": [
+    "GUTTER_EDGE:R(white)"
+   ]
+  },
+  {
+   "system": "eta-crv",
+   "image_id": "eta-crv_pacs-160um-duchene14",
+   "file": "images/eta-crv/eta-crv_pacs-160um-duchene14.png",
+   "ar": 1.03,
+   "flags": [
+    "GUTTER_EDGE:L(white)"
+   ]
+  },
+  {
    "system": "ex-lup",
    "image_id": "ex-lup_zurlo2024",
    "file": "images/ex-lup/ex-lup_zurlo2024.png",
@@ -331,6 +412,15 @@
    "image_id": "fomalhaut_herschel2012",
    "file": "images/fomalhaut/fomalhaut_herschel2012.png",
    "ar": 0.97,
+   "flags": [
+    "GUTTER_EDGE:R(black)"
+   ]
+  },
+  {
+   "system": "gamma-oph",
+   "image_id": "gamma-oph_mri_f1500w",
+   "file": "images/gamma-oph/gamma-oph_mri_f1500w.png",
+   "ar": 0.99,
    "flags": [
     "GUTTER_EDGE:R(black)"
    ]
@@ -444,6 +534,42 @@
    ]
   },
   {
+   "system": "hd-100546",
+   "image_id": "hd-100546_naco-h-pperp-2006",
+   "file": "images/hd-100546/hd-100546_naco-h-pperp-2006.png",
+   "ar": 1.01,
+   "flags": [
+    "GUTTER_EDGE:L(white)"
+   ]
+  },
+  {
+   "system": "hd-100546",
+   "image_id": "hd-100546_naco-ks-pperp-2006",
+   "file": "images/hd-100546/hd-100546_naco-ks-pperp-2006.png",
+   "ar": 1.01,
+   "flags": [
+    "GUTTER_EDGE:L(white)"
+   ]
+  },
+  {
+   "system": "hd-100546",
+   "image_id": "hd-100546_naco-h-pperp-2013",
+   "file": "images/hd-100546/hd-100546_naco-h-pperp-2013.png",
+   "ar": 1.01,
+   "flags": [
+    "GUTTER_EDGE:L(white)"
+   ]
+  },
+  {
+   "system": "hd-100546",
+   "image_id": "hd-100546_naco-ks-pperp-2013",
+   "file": "images/hd-100546/hd-100546_naco-ks-pperp-2013.png",
+   "ar": 1.03,
+   "flags": [
+    "GUTTER_EDGE:L(white)"
+   ]
+  },
+  {
    "system": "hd-104860",
    "image_id": "hd-104860_herschel-pacs",
    "file": "images/hd-104860/hd-104860_herschel-pacs.png",
@@ -459,6 +585,15 @@
    "ar": 1.01,
    "flags": [
     "GUTTER_EDGE:R(white)"
+   ]
+  },
+  {
+   "system": "hd-10647",
+   "image_id": "hd-10647_pacs-160um-liseau10",
+   "file": "images/hd-10647/hd-10647_pacs-160um-liseau10.png",
+   "ar": 1.06,
+   "flags": [
+    "GUTTER_EDGE:L(black)"
    ]
   },
   {
@@ -516,12 +651,193 @@
    ]
   },
   {
+   "system": "hd-1160",
+   "image_id": "hd-1160_naco-ks-2002",
+   "file": "images/hd-1160/hd-1160_naco-ks-2002.png",
+   "ar": 0.41,
+   "flags": [
+    "GUTTER_EDGE:B(white)"
+   ]
+  },
+  {
+   "system": "hd-1160",
+   "image_id": "hd-1160_naco-ks-2003",
+   "file": "images/hd-1160/hd-1160_naco-ks-2003.png",
+   "ar": 0.41,
+   "flags": [
+    "GUTTER_EDGE:B(white)"
+   ]
+  },
+  {
+   "system": "hd-1160",
+   "image_id": "hd-1160_naco-lp-2005",
+   "file": "images/hd-1160/hd-1160_naco-lp-2005.png",
+   "ar": 0.41,
+   "flags": [
+    "GUTTER_EDGE:B(white)"
+   ]
+  },
+  {
+   "system": "hd-1160",
+   "image_id": "hd-1160_naco-lp-2008",
+   "file": "images/hd-1160/hd-1160_naco-lp-2008.png",
+   "ar": 0.41,
+   "flags": [
+    "GUTTER_EDGE:B(white)"
+   ]
+  },
+  {
+   "system": "hd-1160",
+   "image_id": "hd-1160_naco-lp-201009",
+   "file": "images/hd-1160/hd-1160_naco-lp-201009.png",
+   "ar": 0.41,
+   "flags": [
+    "GUTTER_EDGE:B(white)"
+   ]
+  },
+  {
+   "system": "hd-1160",
+   "image_id": "hd-1160_nici-h-201010",
+   "file": "images/hd-1160/hd-1160_nici-h-201010.png",
+   "ar": 0.41,
+   "flags": [
+    "GUTTER_EDGE:B(white)",
+    "GUTTER_EDGE:L(black)"
+   ]
+  },
+  {
+   "system": "hd-1160",
+   "image_id": "hd-1160_nici-k-201011",
+   "file": "images/hd-1160/hd-1160_nici-k-201011.png",
+   "ar": 0.41,
+   "flags": [
+    "GUTTER_EDGE:T(white)"
+   ]
+  },
+  {
+   "system": "hd-1160",
+   "image_id": "hd-1160_nirc2-lp-201011",
+   "file": "images/hd-1160/hd-1160_nirc2-lp-201011.png",
+   "ar": 0.41,
+   "flags": [
+    "GUTTER_EDGE:T(white)"
+   ]
+  },
+  {
+   "system": "hd-1160",
+   "image_id": "hd-1160_naco-lp-201107",
+   "file": "images/hd-1160/hd-1160_naco-lp-201107.png",
+   "ar": 0.41,
+   "flags": [
+    "GUTTER_EDGE:T(white)"
+   ]
+  },
+  {
+   "system": "hd-1160",
+   "image_id": "hd-1160_naco-lp-201109",
+   "file": "images/hd-1160/hd-1160_naco-lp-201109.png",
+   "ar": 0.41,
+   "flags": [
+    "GUTTER_EDGE:T(white)"
+   ]
+  },
+  {
+   "system": "hd-1160",
+   "image_id": "hd-1160_nici-h-201110",
+   "file": "images/hd-1160/hd-1160_nici-h-201110.png",
+   "ar": 0.41,
+   "flags": [
+    "GUTTER_EDGE:T(white)"
+   ]
+  },
+  {
+   "system": "hd-1160",
+   "image_id": "hd-1160_naco-lp-201112",
+   "file": "images/hd-1160/hd-1160_naco-lp-201112.png",
+   "ar": 0.41,
+   "flags": [
+    "GUTTER_EDGE:T(white)"
+   ]
+  },
+  {
+   "system": "hd-1160",
+   "image_id": "hd-1160_isaac-lp-200209",
+   "file": "images/hd-1160/hd-1160_isaac-lp-200209.png",
+   "ar": 0.52,
+   "flags": [
+    "GUTTER_EDGE:B(white)"
+   ]
+  },
+  {
+   "system": "hd-1160",
+   "image_id": "hd-1160_isaac-lp-200211",
+   "file": "images/hd-1160/hd-1160_isaac-lp-200211.png",
+   "ar": 0.52,
+   "flags": [
+    "GUTTER_EDGE:B(white)"
+   ]
+  },
+  {
+   "system": "hd-1160",
+   "image_id": "hd-1160_isaac-lp-200307",
+   "file": "images/hd-1160/hd-1160_isaac-lp-200307.png",
+   "ar": 0.52,
+   "flags": [
+    "GUTTER_EDGE:B(white)"
+   ]
+  },
+  {
+   "system": "hd-1160",
+   "image_id": "hd-1160_isaac-lp-200308",
+   "file": "images/hd-1160/hd-1160_isaac-lp-200308.png",
+   "ar": 0.52,
+   "flags": [
+    "GUTTER_EDGE:B(white)"
+   ]
+  },
+  {
+   "system": "hd-1160",
+   "image_id": "hd-1160_isaac-lp-200312",
+   "file": "images/hd-1160/hd-1160_isaac-lp-200312.png",
+   "ar": 0.52,
+   "flags": [
+    "GUTTER_EDGE:T(white)"
+   ]
+  },
+  {
+   "system": "hd-1160",
+   "image_id": "hd-1160_isaac-ks-200711",
+   "file": "images/hd-1160/hd-1160_isaac-ks-200711.png",
+   "ar": 0.52,
+   "flags": [
+    "GUTTER_EDGE:T(white)"
+   ]
+  },
+  {
+   "system": "hd-1160",
+   "image_id": "hd-1160_isaac-ks-201110",
+   "file": "images/hd-1160/hd-1160_isaac-ks-201110.png",
+   "ar": 0.52,
+   "flags": [
+    "GUTTER_EDGE:T(white)"
+   ]
+  },
+  {
    "system": "hd-117214",
    "image_id": "hd-117214_spherez2020",
    "file": "images/hd-117214/hd-117214_spherez2020.png",
    "ar": 1.26,
    "flags": [
     "GUTTER_EDGE:T(white)"
+   ]
+  },
+  {
+   "system": "hd-121617",
+   "image_id": "hd-121617_perrot2023-qphi",
+   "file": "images/hd-121617/hd-121617_perrot2023-qphi.png",
+   "ar": 1.0,
+   "flags": [
+    "GUTTER_EDGE:B(black)"
    ]
   },
   {
@@ -605,6 +921,15 @@
    "ar": 1.0,
    "flags": [
     "GUTTER_EDGE:T(black)"
+   ]
+  },
+  {
+   "system": "hd-141569",
+   "image_id": "hd-141569_alma-miley2018-13co",
+   "file": "images/hd-141569/hd-141569_alma-miley2018-13co.png",
+   "ar": 0.95,
+   "flags": [
+    "GUTTER_EDGE:T(white)"
    ]
   },
   {
@@ -772,12 +1097,49 @@
    ]
   },
   {
+   "system": "hd-207129",
+   "image_id": "hd-207129_pacs-100um-marshall11",
+   "file": "images/hd-207129/hd-207129_pacs-100um-marshall11.png",
+   "ar": 1.01,
+   "flags": [
+    "GUTTER_EDGE:T(black)",
+    "GUTTER_EDGE:B(white)"
+   ]
+  },
+  {
+   "system": "hd-207129",
+   "image_id": "hd-207129_pacs-160um-marshall11",
+   "file": "images/hd-207129/hd-207129_pacs-160um-marshall11.png",
+   "ar": 1.01,
+   "flags": [
+    "GUTTER_EDGE:B(white)"
+   ]
+  },
+  {
    "system": "hd-32297",
    "image_id": "hd-32297_hiciao-pdi2014",
    "file": "images/hd-32297/hd-32297_hiciao-pdi2014.png",
    "ar": 1.55,
    "flags": [
     "GUTTER_EDGE:B(white)"
+   ]
+  },
+  {
+   "system": "hd-32297",
+   "image_id": "hd-32297_olofsson22-jband",
+   "file": "images/hd-32297/hd-32297_olofsson22-jband.png",
+   "ar": 1.0,
+   "flags": [
+    "GUTTER_EDGE:B(black)"
+   ]
+  },
+  {
+   "system": "hd-32297",
+   "image_id": "hd-32297_alma-band8",
+   "file": "images/hd-32297/hd-32297_alma-band8.png",
+   "ar": 1.0,
+   "flags": [
+    "GUTTER_EDGE:B(black)"
    ]
   },
   {
@@ -862,6 +1224,15 @@
    ]
   },
   {
+   "system": "hd-61005",
+   "image_id": "hd-61005_scuba2-850um-sons",
+   "file": "images/hd-61005/hd-61005_scuba2-850um-sons.png",
+   "ar": 1.08,
+   "flags": [
+    "GUTTER_EDGE:R(white)"
+   ]
+  },
+  {
    "system": "hd-95086",
    "image_id": "hd-95086_naco2013b",
    "file": "images/hd-95086/hd-95086_naco2013b.png",
@@ -916,12 +1287,39 @@
    ]
   },
   {
+   "system": "hh-30",
+   "image_id": "hh-30_jwst-nircam-f444w",
+   "file": "images/hh-30/hh-30_jwst-nircam-f444w.png",
+   "ar": 0.97,
+   "flags": [
+    "GUTTER_EDGE:B(white)"
+   ]
+  },
+  {
+   "system": "hh-30",
+   "image_id": "hh-30_jwst-miri-f1280w",
+   "file": "images/hh-30/hh-30_jwst-miri-f1280w.png",
+   "ar": 0.97,
+   "flags": [
+    "GUTTER_EDGE:T(white)"
+   ]
+  },
+  {
    "system": "hip-109427",
    "image_id": "hip-109427_scexao2021",
    "file": "images/hip-109427/hip-109427_scexao2021.png",
    "ar": 1.44,
    "flags": [
     "GUTTER_EDGE:L(white)"
+   ]
+  },
+  {
+   "system": "hip-109427",
+   "image_id": "hip-109427_scexao-mec-yj",
+   "file": "images/hip-109427/hip-109427_scexao-mec-yj.png",
+   "ar": 0.99,
+   "flags": [
+    "GUTTER_EDGE:R(black)"
    ]
   },
   {
@@ -952,6 +1350,24 @@
    ]
   },
   {
+   "system": "hr-4796a",
+   "image_id": "hr-4796a_ifs-yj-milli17",
+   "file": "images/hr-4796a/hr-4796a_ifs-yj-milli17.png",
+   "ar": 0.98,
+   "flags": [
+    "GUTTER_EDGE:T(white)"
+   ]
+  },
+  {
+   "system": "hr-7012",
+   "image_id": "hr-7012_zimpol-vbb-engler18",
+   "file": "images/hr-7012/hr-7012_zimpol-vbb-engler18.png",
+   "ar": 2.87,
+   "flags": [
+    "GUTTER_EDGE:T(white)"
+   ]
+  },
+  {
    "system": "hr-8799",
    "image_id": "hr-8799_p1640-2012",
    "file": "images/hr-8799/hr-8799_p1640-2012.png",
@@ -967,6 +1383,15 @@
    "ar": 2.2,
    "flags": [
     "GUTTER_EDGE:B(white)"
+   ]
+  },
+  {
+   "system": "hr-8799",
+   "image_id": "hr-8799_nircam-f460m",
+   "file": "images/hr-8799/hr-8799_nircam-f460m.png",
+   "ar": 0.91,
+   "flags": [
+    "GUTTER_EDGE:B(black)"
    ]
   },
   {
@@ -1006,6 +1431,51 @@
    ]
   },
   {
+   "system": "iras-23077-6707",
+   "image_id": "iras-23077-6707_hst-f606w",
+   "file": "images/iras-23077-6707/iras-23077-6707_hst-f606w.png",
+   "ar": 0.96,
+   "flags": [
+    "GUTTER_EDGE:L(white)"
+   ]
+  },
+  {
+   "system": "iras-23077-6707",
+   "image_id": "iras-23077-6707_hst-f814w",
+   "file": "images/iras-23077-6707/iras-23077-6707_hst-f814w.png",
+   "ar": 0.97,
+   "flags": [
+    "GUTTER_EDGE:L(white)"
+   ]
+  },
+  {
+   "system": "iras-23077-6707",
+   "image_id": "iras-23077-6707_hst-f105w",
+   "file": "images/iras-23077-6707/iras-23077-6707_hst-f105w.png",
+   "ar": 0.94,
+   "flags": [
+    "GUTTER_EDGE:L(black)"
+   ]
+  },
+  {
+   "system": "iras-23077-6707",
+   "image_id": "iras-23077-6707_hst-f125w",
+   "file": "images/iras-23077-6707/iras-23077-6707_hst-f125w.png",
+   "ar": 0.94,
+   "flags": [
+    "GUTTER_EDGE:L(white)"
+   ]
+  },
+  {
+   "system": "iras-23077-6707",
+   "image_id": "iras-23077-6707_hst-f160w",
+   "file": "images/iras-23077-6707/iras-23077-6707_hst-f160w.png",
+   "ar": 0.95,
+   "flags": [
+    "GUTTER_EDGE:L(white)"
+   ]
+  },
+  {
    "system": "iso-oph-127",
    "image_id": "iso-oph-127_agepro",
    "file": "images/iso-oph-127/iso-oph-127_agepro.png",
@@ -1015,12 +1485,39 @@
    ]
   },
   {
+   "system": "iso-oph-127",
+   "image_id": "iso-oph-127_odisea-alma-b6-1300um",
+   "file": "images/iso-oph-127/iso-oph-127_odisea-alma-b6-1300um.png",
+   "ar": 1.01,
+   "flags": [
+    "GUTTER_EDGE:R(black)"
+   ]
+  },
+  {
+   "system": "iso-oph-165",
+   "image_id": "iso-oph-165_odisea-alma-b6-1300um",
+   "file": "images/iso-oph-165/iso-oph-165_odisea-alma-b6-1300um.png",
+   "ar": 1.0,
+   "flags": [
+    "GUTTER_EDGE:L(black)"
+   ]
+  },
+  {
    "system": "iso-oph-37",
    "image_id": "iso-oph-37_alma-agepro",
    "file": "images/iso-oph-37/iso-oph-37_alma-agepro.png",
    "ar": 1.0,
    "flags": [
     "GUTTER_EDGE:R(white)"
+   ]
+  },
+  {
+   "system": "iso-oph-37",
+   "image_id": "iso-oph-37_odisea-alma-b6-1300um",
+   "file": "images/iso-oph-37/iso-oph-37_odisea-alma-b6-1300um.png",
+   "ar": 1.01,
+   "flags": [
+    "GUTTER_EDGE:L(black)"
    ]
   },
   {
@@ -1058,6 +1555,24 @@
    "flags": [
     "GUTTER_EDGE:L(white)",
     "GUTTER_EDGE:R(black)"
+   ]
+  },
+  {
+   "system": "lkca-15",
+   "image_id": "lkca-15_alma-band6-2025",
+   "file": "images/lkca-15/lkca-15_alma-band6-2025.png",
+   "ar": 0.69,
+   "flags": [
+    "GUTTER_EDGE:T(white)"
+   ]
+  },
+  {
+   "system": "lkca-15",
+   "image_id": "lkca-15_alma-band7-2025",
+   "file": "images/lkca-15/lkca-15_alma-band7-2025.png",
+   "ar": 0.69,
+   "flags": [
+    "GUTTER_EDGE:B(white)"
    ]
   },
   {
@@ -1259,6 +1774,15 @@
    ]
   },
   {
+   "system": "pds-70",
+   "image_id": "pds-70_sphere-ifs-h-2025",
+   "file": "images/pds-70/pds-70_sphere-ifs-h-2025.png",
+   "ar": 1.0,
+   "flags": [
+    "GUTTER_EDGE:T(black)"
+   ]
+  },
+  {
    "system": "pg-1116-215",
    "image_id": "pg-1116-215_nicmos2009",
    "file": "images/pg-1116-215/pg-1116-215_nicmos2009.png",
@@ -1379,6 +1903,15 @@
   },
   {
    "system": "ry-tau",
+   "image_id": "ry-tau_carma2010-2.8mm",
+   "file": "images/ry-tau/ry-tau_alma-2.8mm-isella10.png",
+   "ar": 0.88,
+   "flags": [
+    "GUTTER_EDGE:T(white)"
+   ]
+  },
+  {
+   "system": "ry-tau",
    "image_id": "ry-tau_sphere-rdi-xie22",
    "file": "images/ry-tau/ry-tau_sphere-rdi-xie22.png",
    "ar": 1.0,
@@ -1396,10 +1929,28 @@
    ]
   },
   {
+   "system": "sz-72",
+   "image_id": "sz-72_alma-agepro",
+   "file": "images/sz-72/sz-72_alma-agepro.png",
+   "ar": 1.01,
+   "flags": [
+    "GUTTER_EDGE:L(white)"
+   ]
+  },
+  {
    "system": "sz-91",
    "image_id": "sz-91_seeds",
    "file": "images/sz-91/sz-91_seeds.png",
    "ar": 1.0,
+   "flags": [
+    "GUTTER_EDGE:T(black)"
+   ]
+  },
+  {
+   "system": "sz-95",
+   "image_id": "sz-95_alma-agepro",
+   "file": "images/sz-95/sz-95_alma-agepro.png",
+   "ar": 1.03,
    "flags": [
     "GUTTER_EDGE:T(black)"
    ]
@@ -1496,12 +2047,30 @@
    ]
   },
   {
+   "system": "v883-ori",
+   "image_id": "v883-ori_alma-b7-houge24",
+   "file": "images/v883-ori/v883-ori_alma-b7-houge24.png",
+   "ar": 1.17,
+   "flags": [
+    "GUTTER_EDGE:R(white)"
+   ]
+  },
+  {
    "system": "vega",
    "image_id": "vega_mips2005",
    "file": "images/vega/vega_mips2005.png",
    "ar": 0.96,
    "flags": [
     "GUTTER_EDGE:L(white)"
+   ]
+  },
+  {
+   "system": "vega",
+   "image_id": "vega_jwst-miri-f2550w",
+   "file": "images/vega/vega_jwst-miri-f2550w.png",
+   "ar": 1.04,
+   "flags": [
+    "GUTTER_EDGE:B(white)"
    ]
   },
   {
@@ -1550,7 +2119,7 @@
    ]
   }
  ],
- "n_ok": 1319,
- "n_total": 1490,
+ "n_ok": 1579,
+ "n_total": 1813,
  "missing": []
 }

@@ -1,0 +1,73 @@
+{
+ "id": "216-0939",
+ "name": "216-0939",
+ "alt_names": [
+  "d216-0939",
+  "V2377 Ori",
+  "2MASS J05352157-0509389"
+ ],
+ "simbad": "V* V2377 Ori",
+ "ra_deg": 83.83989,
+ "dec_deg": -5.16078,
+ "dist_pc": 414.0,
+ "sptype": "K5",
+ "region": "Orion Nebula (M42)",
+ "categories": [
+  "protoplanetary"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "image_id": "216-0939_hst-acs-smith05",
+   "type": "disk_scattered",
+   "facility": "HST",
+   "instrument": "ACS/WFC",
+   "wavelength_um": 0.658,
+   "wavelength_label": "F550M+F660N+F658N 3-color (reflection nebula + edge-on disk lane)",
+   "technique": "other",
+   "survey": null,
+   "file": "images/216-0939/216-0939_hst-acs-smith05.png",
+   "credit": "Smith et al. 2005, Fig. 2a (crop)",
+   "paper": {
+    "first_author": "Smith",
+    "year": 2005,
+    "title": "New Silhouette Disks with Reflection Nebulae and Outflows in the Orion Nebula and NGC 1333",
+    "journal": "AJ 129, 382",
+    "arxiv": "astro-ph/0410170",
+    "bibcode": "2005AJ....129..382S"
+   },
+   "epoch": "2002"
+  },
+  {
+   "image_id": "216-0939_alma-b6-diaz24",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 6",
+   "wavelength_um": 1300,
+   "wavelength_label": "1.3 mm continuum (inclined ring + central cavity, 0.13 arcsec)",
+   "technique": "interferometry",
+   "survey": null,
+   "file": "images/216-0939/216-0939_alma-b6-diaz24.png",
+   "credit": "Díaz-Berríos et al. 2024, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Díaz-Berríos",
+    "year": 2024,
+    "title": "Chemistry in Externally FUV-irradiated Disks in the Outskirts of the Orion Nebula",
+    "journal": "ApJ 969, 165",
+    "arxiv": "2405.00615",
+    "bibcode": "2024ApJ...969..165D"
+   },
+   "epoch": "2018"
+  }
+ ],
+ "notes": "One of the largest silhouette/edge-on disks in the Orion Nebula, ~10 arcmin N of the Trapezium (outside the Ricci 2008 ACS Treasury field). HST 3-color shows a bipolar reflection nebula bisected by the edge-on disk lane (Smith et al. 2005); ALMA Band 6 resolves an inclined dust ring with a central cavity (Díaz-Berríos et al. 2024). Distance = ONC (~414 pc). Added 2026-07-11.",
+ "last_updated": "2026-07-11",
+ "plx_mas": null,
+ "mags": {
+  "B": 15.1,
+  "I": 15.509,
+  "J": 14.83,
+  "H": 13.582,
+  "K": 12.93
+ }
+}
