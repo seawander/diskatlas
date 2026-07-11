@@ -352,6 +352,48 @@
     "bibcode": "2024Univ...10..465X"
    },
    "epoch": "2022-03-30"
+  },
+  {
+   "image_id": "hd-135344b_naco-h-qphi-garufi13",
+   "type": "disk_scattered",
+   "facility": "VLT-NACO",
+   "instrument": "NACO",
+   "wavelength_um": 1.66,
+   "wavelength_label": "H band (pol. intensity, Q_phi; spiral arms)",
+   "technique": "PDI",
+   "survey": null,
+   "file": "images/hd-135344b/hd-135344b_naco-h-qphi-garufi13.png",
+   "credit": "Garufi et al. 2013, Fig. 1 (H, crop)",
+   "paper": {
+    "first_author": "Garufi",
+    "year": 2013,
+    "title": "Small vs. large dust grains in transitional disks: do different cavity sizes indicate a planet?",
+    "journal": "A&A 560, A105",
+    "arxiv": "1311.4195",
+    "bibcode": "2013A&A...560A.105G"
+   },
+   "epoch": "2012-07-24"
+  },
+  {
+   "image_id": "hd-135344b_naco-ks-qphi-garufi13",
+   "type": "disk_scattered",
+   "facility": "VLT-NACO",
+   "instrument": "NACO",
+   "wavelength_um": 2.18,
+   "wavelength_label": "Ks band (pol. intensity, Q_phi; spiral arms)",
+   "technique": "PDI",
+   "survey": null,
+   "file": "images/hd-135344b/hd-135344b_naco-ks-qphi-garufi13.png",
+   "credit": "Garufi et al. 2013, Fig. 1 (Ks, crop)",
+   "paper": {
+    "first_author": "Garufi",
+    "year": 2013,
+    "title": "Small vs. large dust grains in transitional disks: do different cavity sizes indicate a planet?",
+    "journal": "A&A 560, A105",
+    "arxiv": "1311.4195",
+    "bibcode": "2013A&A...560A.105G"
+   },
+   "epoch": "2012-07-24"
   }
  ],
  "notes": "Three-epoch J-band spiral pattern motion (2015/2016/2022) gives dynamical evidence for a spiral-arm-driving, gap-opening protoplanet (Xie et al. 2024).",

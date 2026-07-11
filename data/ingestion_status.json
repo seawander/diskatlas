@@ -1,6 +1,6 @@
 {
  "_doc": "Per-survey ingestion state. entries/coords/images: done|partial|todo. Update on every ingest.",
- "updated": "2026-07-11: +19 records from agents P (ALMA) & Q (NACO scattered-light). P: HD 121617 ARKS VIII Band7, 4 ODISEA Oph Band6 disks (iso-oph-37/54/127/165), IRS 48 ALMA Band7 + VLA Ka (Ohashi 2020). Q: HD 142527 NACO H/Ks PDI (Avenhaus 2014), HD 100546 NACO H/Ks/L' PDI multi-epoch + NICI Ks spirals, HD 32297 NACO H/Ks LOCI, beta Pic NACO Lyot-H + FQPM-Ks (Boccaletti 2009/2012/2013). 1743 records, 0 err.",
+ "updated": "2026-07-11: +6 records from agent R (scattered-light/companion discovery): HD 163296 NACO H+Ks PDI (Garufi 2014), HD 135344B NACO H+Ks PDI spirals (Garufi 2013), beta Pic b NACO M' 4.78um first-5um image (Currie 2011), HR 8799 bcd Keck/NIRC2 2005 H-epoch A-LOCI (Currie 2012). Flagged Orion 218-354 silhouette disk as candidate new system. 1749 records, 0 err.",
  "surveys": {
   "DSHARP": {
    "entries": "done",

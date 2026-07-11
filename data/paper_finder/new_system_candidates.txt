@@ -1,0 +1,1 @@
+2026-07-11  Orion 218-354 silhouette disk ([OW94] 218-354 / d218-354) — Follette 2013 (arXiv 1308.4147, 2013ApJ...775L..38F): first ground-based AO silhouette disk, Magellan MagAO/VisAO Halpha 656.6nm + 642.8nm continuum SDI, obs 2012-12-06. Candidate NEW system (not in atlas).

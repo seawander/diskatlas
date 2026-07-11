@@ -469,6 +469,48 @@
    },
    "file": "images/hd-163296/hd-163296_nircam-f200w-2025.png",
    "epoch": "2023-08-15"
+  },
+  {
+   "image_id": "hd-163296_naco-h-qphi-garufi14",
+   "type": "disk_scattered",
+   "facility": "VLT-NACO",
+   "instrument": "NACO",
+   "wavelength_um": 1.66,
+   "wavelength_label": "H band (pol. intensity, Q_phi)",
+   "technique": "PDI",
+   "survey": null,
+   "file": "images/hd-163296/hd-163296_naco-h-qphi-garufi14.png",
+   "credit": "Garufi et al. 2014, Fig. 1 (H, crop)",
+   "paper": {
+    "first_author": "Garufi",
+    "year": 2014,
+    "title": "Shadows and cavities in protoplanetary disks: HD 163296, HD 141569A, and HD 150193A in polarized light",
+    "journal": "A&A 568, A40",
+    "arxiv": "1406.7387",
+    "bibcode": "2014A&A...568A..40G"
+   },
+   "epoch": "2012-07-23"
+  },
+  {
+   "image_id": "hd-163296_naco-ks-qphi-garufi14",
+   "type": "disk_scattered",
+   "facility": "VLT-NACO",
+   "instrument": "NACO",
+   "wavelength_um": 2.18,
+   "wavelength_label": "Ks band (pol. intensity, Q_phi)",
+   "technique": "PDI",
+   "survey": null,
+   "file": "images/hd-163296/hd-163296_naco-ks-qphi-garufi14.png",
+   "credit": "Garufi et al. 2014, Fig. 1 (Ks, crop)",
+   "paper": {
+    "first_author": "Garufi",
+    "year": 2014,
+    "title": "Shadows and cavities in protoplanetary disks: HD 163296, HD 141569A, and HD 150193A in polarized light",
+    "journal": "A&A 568, A40",
+    "arxiv": "1406.7387",
+    "bibcode": "2014A&A...568A..40G"
+   },
+   "epoch": "2012-07-23"
   }
  ],
  "notes": null,

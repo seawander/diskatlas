@@ -899,6 +899,27 @@
     "bibcode": "2009A&A...495..523B"
    },
    "epoch": "2004-11-05"
+  },
+  {
+   "image_id": "beta-pic_naco-mp-currie11",
+   "type": "planet",
+   "facility": "VLT-NACO",
+   "instrument": "NACO",
+   "wavelength_um": 4.78,
+   "wavelength_label": "M' band 4.78 um (companion b; first 5 um image)",
+   "technique": "ADI",
+   "survey": null,
+   "file": "images/beta-pic/beta-pic_naco-mp-currie11.png",
+   "credit": "Currie et al. 2011, Fig. 1 (M', crop)",
+   "paper": {
+    "first_author": "Currie",
+    "year": 2011,
+    "title": "A 5 um Image of beta Pictoris b at a Sub-Jupiter Projected Separation",
+    "journal": "ApJ 736, L33",
+    "arxiv": "1105.4607",
+    "bibcode": "2011ApJ...736L..33C"
+   },
+   "epoch": "2008-11-11"
   }
  ],
  "notes": "Original 1984 discovery image (Smith & Terrile, Las Campanas coronagraph) predates arXiv; add if desired.",
