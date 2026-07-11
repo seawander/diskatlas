@@ -3,8 +3,8 @@
 Single-page, zero-dependency, fully offline. Root `index.html` loads, in order:
 
 - `frontend/style.css`
-- `frontend/data.js`         — **GENERATED** by `backend/build.py`. Never hand-edit.
-- `frontend/constellations.js` — **GENERATED** by `backend/gen_constellations.py`. Never hand-edit.
+- `frontend/data.js`         — **GENERATED** by `backend-data/build.py`. Never hand-edit.
+- `frontend/constellations.js` — **GENERATED** by `backend-data/gen_constellations.py`. Never hand-edit.
 - `frontend/i18n.js`         — UI translations (hand-edited).
 - `frontend/app.js`          — all logic (vanilla JS, no build step, no CDN, system fonts).
 
@@ -65,7 +65,7 @@ it stays in its published form. Directly imaged objects are called **"companions
 
 ## Testing / verifying
 
-- `node backend/test_frontend_logic.js` exercises the pure functions (projection
+- `node backend-data/test_frontend_logic.js` exercises the pure functions (projection
   round-trip, hit-testing, filtering, `fmtWl`) via a DOM-less shim. Run after any
   `app.js` change. (Node runs the test; the **app itself** needs no Node.)
 - To eyeball changes: serve the repo root (`python3 -m http.server`) and open
@@ -76,10 +76,10 @@ it stays in its published form. Directly imaged objects are called **"companions
 ## Gotchas (hard-won)
 
 - **Never hand-edit `data.js` / `constellations.js`** — change the source
-  (`data/systems/*.json` or the generator) and re-run `backend/build.py`.
+  (`data/systems/*.json` or the generator) and re-run `backend-data/build.py`.
 - **Concurrent sessions / worktrees:** data edits + `data.js` are committed to `master`;
   multiple checkouts commit to `master` at once, so `git fetch` before assuming
   ahead/behind. When a `data.js` conflict appears on rebase, **regenerate it**
-  (`python3 backend/build.py`) rather than resolving the diff by hand.
+  (`python3 backend-data/build.py`) rather than resolving the diff by hand.
 - **Bibcode audits:** verify bibcodes via **ADS** (anonymous bootstrap token — see
-  `backend/system_audit.py`), not arXiv (which rate-limits hard).
+  `backend-data/system_audit.py`), not arXiv (which rate-limits hard).

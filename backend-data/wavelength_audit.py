@@ -13,7 +13,7 @@ that the atlas does NOT already hold for that system+paper.
 
 Heuristic → a REVIEW worklist, not auto-action. VIEW each flagged figure and
 decide (models / residuals / SEDs / PV-diagrams / non-detections are excluded
-best-effort but slip through). Usage: python3 backend/wavelength_audit.py [--arxiv ID]
+best-effort but slip through). Usage: python3 backend-data/wavelength_audit.py [--arxiv ID]
 """
 import argparse, glob, json, re
 from collections import defaultdict

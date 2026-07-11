@@ -23,9 +23,9 @@ ADS is reached with the anonymous bootstrap token (no key needed). Results cache
 per system so re-runs and interrupts are cheap.
 
 Usage:
-  python3 backend/system_audit.py                    # sweep all systems
-  python3 backend/system_audit.py --systems hr-8799,hd-100453
-  python3 backend/system_audit.py --top 8 --min-cites 20 --refresh
+  python3 backend-data/system_audit.py                    # sweep all systems
+  python3 backend-data/system_audit.py --systems hr-8799,hd-100453
+  python3 backend-data/system_audit.py --top 8 --min-cites 20 --refresh
 """
 import argparse, json, re, sys, time, urllib.request, urllib.parse
 from pathlib import Path

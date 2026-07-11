@@ -120,7 +120,7 @@
    "entries": "done",
    "coords": "done",
    "images": "done",
-   "notes": "FULL: 61 official HLSP combined-coadd previews attached for all atlas systems in the ALICE archive (backend/alice_ingest.py, cross-match table inside) + 4 first-image disks from Choquet+2016 crops; hd-104860 preview URL 404 (pending); non-atlas ALICE targets (mostly non-detections) intentionally excluded"
+   "notes": "FULL: 61 official HLSP combined-coadd previews attached for all atlas systems in the ALICE archive (backend-data/alice_ingest.py, cross-match table inside) + 4 first-image disks from Choquet+2016 crops; hd-104860 preview URL 404 (pending); non-atlas ALICE targets (mostly non-detections) intentionally excluded"
   },
   "NACO-PIPPIN": {
    "entries": "done",

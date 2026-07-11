@@ -1,4 +1,4 @@
-# backend/ — scripts (pure Python 3, stdlib + Pillow only)
+# backend-data/ — scripts (pure Python 3, stdlib + Pillow only)
 
 No server. The "backend" is a build pipeline: seeds → systems JSON → cropped images → `frontend/data.js`.
 

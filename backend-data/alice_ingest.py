@@ -7,7 +7,7 @@ ALICE (Archival Legacy Investigations of Circumstellar Environments) re-processe
       hlsp_alice_hst_nicmos_<prog>-<target>_<filt>_v1_combined.png
 
 This script (idempotent):
- 1. appends download lines for the cross-matched targets to backend/fetch_extra.txt
+ 1. appends download lines for the cross-matched targets to backend-data/fetch_extra.txt
     (host fetch -> images/_sources/alice/<sysid>_<filt>.png);
  2. adds a pending image record per (system, filter) to data/systems/<id>.json;
  3. after the host run, `--attach` downsizes the PNGs into images/<sysid>/ and
@@ -118,7 +118,7 @@ def main():
     added_fetch = added_rec = attached = 0
 
     if not attach:
-        out = ["", "# --- ALICE HLSP combined coadds (auto: backend/alice_ingest.py) ---"]
+        out = ["", "# --- ALICE HLSP combined coadds (auto: backend-data/alice_ingest.py) ---"]
         for prog, tgt, filt, sid in M:
             line = f"{url(prog, tgt, filt)}\t{dest(sid, filt)}"
             if line not in have:

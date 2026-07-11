@@ -20,8 +20,8 @@ Confidence tiers (stored per candidate):
   ambig  several dates, several years                       -> NOT applied (listed)
 
 Usage:
-  python3 backend/epoch_harvest.py tex   [--json OUT] [--review OUT]
-  python3 backend/epoch_harvest.py apply [--json IN] [--tiers row,ctx,instr,year]
+  python3 backend-data/epoch_harvest.py tex   [--json OUT] [--review OUT]
+  python3 backend-data/epoch_harvest.py apply [--json IN] [--tiers row,ctx,instr,year]
 """
 import argparse, glob, json, re, sys
 from collections import defaultdict

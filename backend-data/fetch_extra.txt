@@ -19,7 +19,7 @@ https://ui.adsabs.harvard.edu/link_gateway/1996ApJ...463..326R/PUB_PDF	images/_s
 https://ui.adsabs.harvard.edu/link_gateway/2003AJ....125.1467S/PUB_PDF	images/_sources/extra/schneider2003_gmaur.pdf
 https://ui.adsabs.harvard.edu/link_gateway/2000ApJ...544..895G/PUB_PDF	images/_sources/extra/grady2000_hd163296.pdf
 
-# --- ALICE HLSP combined coadds (auto: backend/alice_ingest.py) ---
+# --- ALICE HLSP combined coadds (auto: backend-data/alice_ingest.py) ---
 https://archive.stsci.edu/missions/hlsp/alice/10177/aa-tau/f160w/preview/hlsp_alice_hst_nicmos_10177-aa-tau_f160w_v1_combined.png	images/_sources/alice/aa-tau_f160w.png
 https://archive.stsci.edu/missions/hlsp/alice/7233/49-cet/f110w/preview/hlsp_alice_hst_nicmos_7233-49-cet_f110w_v1_combined.png	images/_sources/alice/49-cet_f110w.png
 https://archive.stsci.edu/missions/hlsp/alice/7248/beta-pic-disk/f160w/preview/hlsp_alice_hst_nicmos_7248-beta-pic-disk_f160w_v1_combined.png	images/_sources/alice/beta-pic_f160w.png

@@ -4,14 +4,31 @@ Offline all-sky atlas of resolved circumstellar disks, imaged companions, and
 quasar hosts. Static files; `data/systems/*.json` is ground truth,
 `frontend/data.js` is GENERATED (never hand-edit).
 
+## Two work tracks — split by concern (2026-07-11)
+
+Work is split so parallel sessions don't collide:
+- **`backend-data/`** (THIS track) — the SCIENTIFIC pipeline: seed → coords →
+  crop → validate → build, plus ADS/arXiv/SIMBAD ingestion & audit tooling.
+  Owns `data/` (systems, ledger, provenance) and all image ingestion. Scientific
+  correctness lives here.
+- **`backend-infra/`** — INFRASTRUCTURE & app development (a SEPARATE session):
+  the `frontend/` viewer (index.html, app.js, styles, i18n), the build/deploy
+  path (GitHub Pages), performance, search/faceting, offline packaging, tests.
+
+`frontend/data.js` is the contract between them: `backend-data/build.py`
+GENERATES it from `data/systems/*.json`; the infra track CONSUMES it and never
+hand-edits it. On a shared checkout, keep each change on the side that owns it
+and rebuild before committing — do not let `git add -A` sweep the other track's
+work (shared-checkout race).
+
 ## Read only what your task needs (token discipline)
 
 | Task | Read |
 |---|---|
 | Any edit to records/images | `HANDOFF.md` (method + gotchas, ~3k tokens) |
 | Record schema question | `data/README.md` |
-| Crop protocol for agents | `backend/AGENT_BRIEFS.md` |
-| Pipeline script details | `backend/README.md` |
+| Crop protocol for agents | `backend-data/AGENT_BRIEFS.md` |
+| Pipeline script details | `backend-data/README.md` |
 | Frontend/UI work | `frontend/README.md` |
 | What happened on date X | `grep` (not read!) `docs/HISTORY.md` |
 | What's queued | `data/ingestion_status.json` |
@@ -30,7 +47,7 @@ on it). Verify first: `curl -sI https://arxiv.org`.
 
 ## Ironclad rules
 
-1. `python3 backend/validate.py && python3 backend/build.py` after every data
+1. `python3 backend-data/validate.py && python3 backend-data/build.py` after every data
    edit; keep 0 errors / 0 warnings.
 2. VIEW (Read tool) every crop and every source figure — panel labels are the
    only ground truth; metadata and memory lie.

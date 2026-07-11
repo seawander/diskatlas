@@ -11,7 +11,7 @@ NOISY on this dataset — faint interferometric/radio crops (a tiny source on em
 background) and legitimately-similar multi-band records of the same disk both
 collide, so --near is mostly false positives here. Kept for scale/other datasets.
 
-Usage: python3 backend/dup_check.py [--near] [--maxdist 2]
+Usage: python3 backend-data/dup_check.py [--near] [--maxdist 2]
 """
 import argparse, json, sys
 from pathlib import Path

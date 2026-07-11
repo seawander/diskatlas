@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Compile backend/seeds/ + data/coords_cache.json -> data/systems/*.json.
+"""Compile backend-data/seeds/ + data/coords_cache.json -> data/systems/*.json.
 
 Non-destructive: existing system files are MERGED (hand edits win for scalar
 fields; image records are matched by image_id — seed versions do not overwrite

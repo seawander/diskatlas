@@ -16,7 +16,7 @@ label-first or citation-laden tables under-parse and are flagged "partial" — t
 denominators must be curated by hand before quoting. Output -> data/paper_finder/
 survey_recall.json and a markdown summary on stdout.
 
-Usage:  python3 backend/survey_recall.py [--src <dir of extracted arXiv sources>]
+Usage:  python3 backend-data/survey_recall.py [--src <dir of extracted arXiv sources>]
 """
 import argparse, glob, json, re
 from pathlib import Path

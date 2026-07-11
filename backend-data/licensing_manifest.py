@@ -20,7 +20,7 @@ later reproduced.
 
 Output: data/paper_finder/licensing_manifest.csv
 
-Usage:  python3 backend/licensing_manifest.py
+Usage:  python3 backend-data/licensing_manifest.py
 """
 import csv, glob, json, re
 from pathlib import Path

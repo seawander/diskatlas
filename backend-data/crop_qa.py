@@ -19,7 +19,7 @@ Aspect ratio is reported but never flagged alone (edge-on disks are legitimately
 long).
 
 Output: human report to stdout + JSON to data/paper_finder/crop_qa.json.
-Usage: python3 backend/crop_qa.py [--ocr] [--limit N] [--only SUBSTR]
+Usage: python3 backend-data/crop_qa.py [--ocr] [--limit N] [--only SUBSTR]
 """
 import argparse, json, glob, os, subprocess, sys, tempfile
 from pathlib import Path

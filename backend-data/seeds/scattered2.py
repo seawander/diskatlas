@@ -5,7 +5,7 @@ Membership below was read off the actual gallery figures (panel labels = ground 
  - Engler+2025 (2512.03128): Fig. 5a/5b (36 Qphi panels, PDF pages 9-10) + Fig. 2a/2b
    (39 total-intensity panels, PDF pages 6-7); union = 50 unique systems. Systems with a
    Qphi panel are seeded in the PDI block; the 14 systems detected in total intensity only
-   are seeded in the ADI block. Crops: backend/manifests/sphere-f/engler-p[1-4].json.
+   are seeded in the ADI block. Crops: backend-data/manifests/sphere-f/engler-p[1-4].json.
  - Ginski+2024 ChamI (2403.02149): Fig. 2 (ChaI-gallery.pdf), 13 detection panels.
  - Valegard+2024 Orion (2403.02156): Fig. 2 (detected-disks-orion.pdf), 10 detections.
  - Hom+2025 DISCS (2505.02976): Fig. 1 (Qr_image_all_v3.pdf), 4 resolved of 7 observed.

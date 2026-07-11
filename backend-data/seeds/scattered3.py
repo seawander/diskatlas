@@ -3,7 +3,7 @@ Same structures as planets.py/scattered.py.
 
 Workstream B: classic disk images, pre-2010 back to 1984 (the historical layer
 of the atlas). All records file=null; pre-arXiv papers have their ADS article
-scans listed in backend/fetch_extra.txt for the host fetch pass.
+scans listed in backend-data/fetch_extra.txt for the host fetch pass.
 NOTE: HD 163296 Grady+2000 STIS is NOT re-seeded here — data/systems already
 holds hd-163296_stis2000 (its ADS scan was added to fetch_extra.txt instead).
 Paper ids verified via web search 2026-07-06 (see data/staging/_report_batchH.md).
@@ -274,7 +274,7 @@ BLOCKS += [
 #   NO figures in the source (captions only) -> records stay file=null; the four
 #   quasars new in Paper II are seeded below (candidate hosts: PG 1116+215,
 #   3C 273, PG 1444+407; the Paper-I four are not re-seeded to avoid duplicate
-#   near-identical F606W records). Published-PDF fetch lines: backend/fetch_extra.txt.
+#   near-identical F606W records). Published-PDF fetch lines: backend-data/fetch_extra.txt.
 BLOCKS += [
     survey("Bahcall-quasars-1994", paper("Bahcall", 1994,
            "HST Images of Nearby Luminous Quasars",

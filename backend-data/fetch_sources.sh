@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# Run this ON THE HOST (normal internet), from the backend/ directory:
+# Run this ON THE HOST (normal internet), from the backend-data/ directory:
 #   bash fetch_sources.sh
 set -u
 cd "$(dirname "$0")"
@@ -273,7 +273,7 @@ for id in \
   sleep 2
 done
 echo "tarballs ok=$ok fail=$fail"
-# --- extra non-arXiv sources (backend/fetch_extra.txt: URL<TAB>relative_dest) ---
+# --- extra non-arXiv sources (backend-data/fetch_extra.txt: URL<TAB>relative_dest) ---
 if [ -f fetch_extra.txt ]; then
   while IFS=$'\t' read -r url dest; do
     case "$url" in \#*|"") continue;; esac

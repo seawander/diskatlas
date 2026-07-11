@@ -5,7 +5,7 @@ Only .tex/.bbl/.txt members are kept (we parse text, not figures). Papers whose
 e-print is a bare PDF get a <id>/SOURCE_IS_PDF marker so we don't refetch.
 Polite: 3 s between fetches. Writes progress to stderr; safe to re-run.
 
-Usage: python3 backend/fetch_sources.py [--only-missing-epoch]
+Usage: python3 backend-data/fetch_sources.py [--only-missing-epoch]
 """
 import glob, io, json, os, sys, tarfile, time, urllib.request
 from pathlib import Path

@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Forward-looking literature sweep for diskatlas.
 
-Everything else in backend/ is retrospective (citation snowball, backward
+Everything else in backend-data/ is retrospective (citation snowball, backward
 references, per-target ADS audit) — and saturated. This tool watches the
 literature going FORWARD: it pulls the last N days of astro-ph.EP + astro-ph.SR
 submissions from the arXiv API and flags papers that either
@@ -25,8 +25,8 @@ system_audit.py / audit_bibcodes.py).
 Intended cadence: run weekly (cron or by hand).
 
 Usage:
-  python3 backend/fresh_papers.py                # last 14 days
-  python3 backend/fresh_papers.py --days 30
+  python3 backend-data/fresh_papers.py                # last 14 days
+  python3 backend-data/fresh_papers.py --days 30
 """
 import argparse, json, re, sys, time, urllib.parse, urllib.request
 from datetime import datetime, timedelta, timezone

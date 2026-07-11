@@ -18,7 +18,7 @@ runtime build.
 
 - **484 systems · 1815 image records (all with local panels) · validate.py
   0 errors / 0 warnings · all bibcodes ADS-verified · epoch coverage 94.3%**
-  (`python3 backend/build.py` is always canonical for stats).
+  (`python3 backend-data/build.py` is always canonical for stats).
 - Live at **github.com/seawander/diskatlas** + GitHub Pages. Publish = **direct
   push to `master`** (no PRs, `gh` not installed). Multiple sessions commit
   concurrently — `git fetch` before assuming ahead/behind.
@@ -28,7 +28,7 @@ runtime build.
 Retrospective discovery is DONE (snowball saturated, audit worklists burned
 down). Now:
 
-1. **Weekly**: `python3 backend/fresh_papers.py` → review digest → VIEW each
+1. **Weekly**: `python3 backend-data/fresh_papers.py` → review digest → VIEW each
    figure (metadata lies) → ingest, or add an arXiv-keyed `excluded` entry to
    `data/paper_finder_state.json`.
 2. **After any batch**: `audit_bibcodes.py --fix --fill`, then `crop_qa.py`
@@ -92,7 +92,7 @@ expensive to refetch). `candidates.md` there is ~330k tokens — never read it.
 Coverage 94.3% (2026-07-11 audit); the remaining 104 records are papers that
 state no dates AND archives are silent. Method + numbers for the manuscript:
 `paper_Overleaf/notes_epoch_methods.md`. Provenance per record:
-`data/paper_finder/epoch_provenance.json`. Audit: `backend/epoch_audit.py`.
+`data/paper_finder/epoch_provenance.json`. Audit: `backend-data/epoch_audit.py`.
 
 - Precision policy: `YYYY-MM-DD` if executions cluster ≤~45 d; `YYYY` if one
   calendar year; `YYYY-YYYY` if the image combines years.
@@ -108,7 +108,7 @@ state no dates AND archives are silent. Method + numbers for the manuscript:
 ## Quick start
 
 ```bash
-python3 backend/validate.py && python3 backend/build.py   # 0 errors + stats
+python3 backend-data/validate.py && python3 backend-data/build.py   # 0 errors + stats
 ```
 Then read `data/ingestion_status.json` (`pending_actions`, `known_missing`,
 per-survey `notes`).
@@ -136,7 +136,7 @@ per-survey `notes`).
   first; PDFs <20 KB are almost always HTML.
 - Anonymous ADS token: `ui.adsabs.harvard.edu/v1/accounts/bootstrap`.
 
-## Pipeline (scripts in backend/)
+## Pipeline (scripts in backend-data/)
 
 ```
 seeds/*.py + new JSON → make_systems.py → data/systems/*.json
@@ -175,7 +175,7 @@ sometimes stop after spawning children (SendMessage: "do it synchronously,
 reconcile disk first"); always reconcile results against disk; two agents can
 create the same system — re-`ls data/systems/` before writes.
 
-## Crop discipline (full protocol: backend/AGENT_BRIEFS.md)
+## Crop discipline (full protocol: backend-data/AGENT_BRIEFS.md)
 
 Panel-only (trim axes/labels/margins; attached colorbars ok), ≤480 px longest
 side, ≤300 KB (requantize with FASTOCTREE if over). VIEW every crop before
@@ -192,7 +192,7 @@ composites, ever. If a paper is uv-plane-only (no image figure), drop it.
 - Transiting companions are never "imaged" (`method:"transit"`).
 - `hires_url` for archive products (ALICE → archive.stsci.edu/prepds/alice/).
 - Categories incl. `evolved` (post-AGB/AGB). Instrument families use
-  parent/child (`SPHERE/IRDIS`, `SCExAO/CHARIS`) via `backend/facility_map.py`.
+  parent/child (`SPHERE/IRDIS`, `SCExAO/CHARIS`) via `backend-data/facility_map.py`.
 
 ## Frontend
 

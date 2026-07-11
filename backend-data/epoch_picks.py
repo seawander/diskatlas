@@ -13,7 +13,7 @@ Two maps:
             papers, or same-night/same-year campaigns where all records share a date).
   BY_ID     overrides BY_ARXIV for a specific image_id (mixed-instrument papers).
 
-Usage:  python3 backend/epoch_picks.py [--apply]
+Usage:  python3 backend-data/epoch_picks.py [--apply]
 """
 import argparse, glob, json
 from pathlib import Path

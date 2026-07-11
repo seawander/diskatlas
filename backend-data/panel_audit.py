@@ -13,7 +13,7 @@ residuals, radial profiles, SEDs, or U_phi noise maps that must NOT be ingested.
 VIEW each flagged figure and decide (see the ingestion-completeness rules in
 HANDOFF.md).
 
-Usage: python3 backend/panel_audit.py [--min-extra 1] [--arxiv <id>]
+Usage: python3 backend-data/panel_audit.py [--min-extra 1] [--arxiv <id>]
 """
 import argparse, glob, json, re
 from collections import defaultdict

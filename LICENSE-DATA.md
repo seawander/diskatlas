@@ -20,20 +20,20 @@ when reusing the database.
   credit line and links to the source paper (arXiv / SciX / DOI), for
   scholarly reference. They are **not** redistributable under CC BY; obtain
   the originals from the authors or publisher for any reuse.
-- **Code** (`frontend/*.js`, `frontend/*.css`, `index.html`, `backend/`),
+- **Code** (`frontend/*.js`, `frontend/*.css`, `index.html`, `backend-data/`),
   which is under the MIT license — see [LICENSE](LICENSE).
 
 ## Summary of the three-way grant
 
 | Component | Files | License / status |
 |---|---|---|
-| Code | `frontend/*.js·css`, `index.html`, `backend/` | **MIT** |
+| Code | `frontend/*.js·css`, `index.html`, `backend-data/` | **MIT** |
 | Database records / metadata | `data/systems/*.json`, metadata in `frontend/data.js` | **CC BY 4.0** |
 | Image panels | `images/**/*.png` | **excluded** — © original authors / publishers, linked to source |
 
 ## Per-panel licensing manifest
 
-`backend/licensing_manifest.py` builds `data/paper_finder/licensing_manifest.csv`,
+`backend-data/licensing_manifest.py` builds `data/paper_finder/licensing_manifest.csv`,
 one row per cropped panel with its source journal, publisher, open-access flag, and a
 **license class**: `arxiv-preprint-figure` (cropped from the authors' arXiv source
 package — the large majority), `archive-product` (an official archive preview such as

@@ -1620,7 +1620,7 @@ if (typeof window !== "undefined") (function () {
   resize();
   if (!SYS.length) {
     document.getElementById("statsline").textContent =
-      "data.js missing/empty — run backend/build.py";
+      "data.js missing/empty — run backend-data/build.py";
   }
   const m = location.hash.match(/#s=([a-z0-9-]+)/);
   if (m) {

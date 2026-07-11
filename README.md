@@ -26,7 +26,7 @@ Contributions are welcome — human or AI-agent-driven. See **[Contributing](#co
 index.html          ← THE app. Open this. (loads frontend/ + images/)
 frontend/           ← app.js, style.css, data.js (data.js is GENERATED — do not hand-edit)
 data/               ← the database: one JSON per system + docs. THIS is what you edit.
-backend/            ← Python scripts: seed → coordinates → crop → validate → build
+backend-data/            ← Python scripts: seed → coordinates → crop → validate → build
 images/             ← _sources/ (downloaded figures) + <system_id>/*.png (cropped panels)
 ```
 
@@ -42,8 +42,8 @@ Contributions are very welcome: new systems, missing instruments/epochs for exis
 systems, coordinate or citation fixes, new UI languages, frontend improvements. Open a
 pull request. Two hard rules for any PR:
 
-1. `python3 backend/validate.py` must report **0 errors**.
-2. Never hand-edit `frontend/data.js` — it is generated; run `python3 backend/build.py`.
+1. `python3 backend-data/validate.py` must report **0 errors**.
+2. Never hand-edit `frontend/data.js` — it is generated; run `python3 backend-data/build.py`.
 
 ### Contributing with your own AI agent / 用你自己的 AI 智能体继续建设
 
@@ -55,14 +55,14 @@ into your agent (Claude Code, or any coding agent that can run Python and view i
 You are working in a clone of "diskatlas" — a mature, offline, double-click-index.html
 all-sky atlas of resolved circumstellar disks (protoplanetary, debris, edge-on, embedded,
 eruptive, proplyds, far-IR-resolved), directly imaged planets/BD companions, and
-coronagraphic quasar hosts. `python3 backend/build.py` prints the live statistics.
+coronagraphic quasar hosts. `python3 backend-data/build.py` prints the live statistics.
 
 FIRST, orient yourself (token discipline — do NOT read everything):
 1. CLAUDE.md auto-loads (rules + task→doc routing). Read ONLY the one doc your
    task needs (records/crops → HANDOFF.md; schema → data/README.md; UI →
    frontend/README.md). Never load data/paper_finder/candidates.md,
    frontend/data.js, or docs/HISTORY.md (grep the latter).
-2. Run `python3 backend/validate.py && python3 backend/build.py`; confirm 0 errors.
+2. Run `python3 backend-data/validate.py && python3 backend-data/build.py`; confirm 0 errors.
 
 STANDING RULES: verify every paper's arXiv id + figure FROM THE SOURCE, never from
 memory; never use press-release images — every image is cropped from a peer-reviewed
@@ -72,8 +72,8 @@ data/ingestion_status.json (batch ledger) and data/paper_finder_state.json (per-
 dispositions) after any change.
 
 MY TASK: <paste arXiv links / bibcodes to ingest, or "run the weekly maintenance"
-(python3 backend/fresh_papers.py digest -> VIEW figures -> ingest or exclude), or
-"audit system X" (backend/system_audit.py), or a frontend request — or leave blank
+(python3 backend-data/fresh_papers.py digest -> VIEW figures -> ingest or exclude), or
+"audit system X" (backend-data/system_audit.py), or a frontend request — or leave blank
 for a status report>
 ```
 
@@ -87,7 +87,7 @@ citation links in the record.
 ## Quickstart: rebuild after any data change / 改动数据后重建
 
 ```bash
-cd backend
+cd backend-data
 python3 build.py          # data/systems/*.json → frontend/data.js (+ checks)
 ```
 
@@ -99,7 +99,7 @@ The maintainer's reference platform is an NVIDIA DGX Spark, but any platform wit
 and connectivity works. Then run the whole fetch yourself:
 
 ```bash
-cd backend
+cd backend-data
 bash fetch_sources.sh          # arXiv tarballs + fetch_extra.txt PDFs + SIMBAD coords
 python3 parse_simbad.py && python3 extract_sources.py \
   && python3 make_systems.py && python3 validate.py && python3 build.py
@@ -117,7 +117,7 @@ hosts · coordinates for every system (SIMBAD idents coordinate-verified) · 0 v
 errors / 0 warnings · every paper block carries an ADS-verified bibcode · ~83% of records
 carry the observation epoch (never the publication year), each with machine-readable
 provenance (the rest are recent additions still being back-filled).**
-`python3 backend/build.py` prints the canonical live stats — trust its output over any number
+`python3 backend-data/build.py` prints the canonical live stats — trust its output over any number
 written in prose. Recent 2026-07-11 additions: the Vioque 2026 transition-disk gallery
 (+15 new systems, crossing 500 systems) and the Kurtovic 2026 154-ring ALMA gallery, a
 notes-citation sweep (58 systems now cite their claims in-line), historical β Pic
@@ -153,11 +153,11 @@ CDN). See `frontend/README.md` for the full feature map and conventions.
 
 ## Finding new papers / 自动找文献
 
-**Ongoing (weekly):** `python3 backend/fresh_papers.py` sweeps the last 14 days of
+**Ongoing (weekly):** `python3 backend-data/fresh_papers.py` sweeps the last 14 days of
 astro-ph.EP/SR (via the anonymous ADS API) and digests papers that mention an atlas
 target or look like a new resolved-imaging result. Review each hit by **viewing the
 figure** (metadata is not enough), then ingest it or record an `excluded` entry in
-`data/paper_finder_state.json` keyed by arXiv id. `backend/README.md` documents the full
+`data/paper_finder_state.json` keyed by arXiv id. `backend-data/README.md` documents the full
 maintenance toolset (`audit_bibcodes.py --fix --fill`, `crop_qa.py`, `system_audit.py`).
 
 **Retrospective (saturated as of 2026-07-09; use for targeted questions only):**
@@ -179,8 +179,8 @@ no overlap:**
 
 ## Full update workflow (new paper / new discovery) / 新论文入库全流程
 
-1. **Add records** — either append the system/paper in `backend/seeds/` (survey-style, batch)
-   and run `python3 backend/make_systems.py`, **or** directly edit/create
+1. **Add records** — either append the system/paper in `backend-data/seeds/` (survey-style, batch)
+   and run `python3 backend-data/make_systems.py`, **or** directly edit/create
    `data/systems/<id>.json` (single target). Schema: `data/README.md`.
 2. **Coordinates** — new systems need RA/Dec. `gen_fetch_script.py` adds every system
    with `ra_deg: null` to the SIMBAD query, so `bash fetch_sources.sh` + `parse_simbad.py`
@@ -188,14 +188,14 @@ no overlap:**
    then have their coords copied from `coords_cache.json` into the JSON by a small script**
    (`make_systems.py` only auto-applies coords to seed systems). For HSC/2MASS-designated
    objects, parse RA/Dec straight from the name if SIMBAD misses it.
-3. **Figures** — `python3 backend/gen_fetch_script.py` regenerates `backend/fetch_sources.sh`,
+3. **Figures** — `python3 backend-data/gen_fetch_script.py` regenerates `backend-data/fetch_sources.sh`,
    then `cd backend && bash fetch_sources.sh` (this checkout has internet) downloads the
    arXiv tarballs + `fetch_extra.txt` PDFs into `images/_sources/`. Then `extract_sources.py`.
-4. **Crop panels** — either a manifest (`python3 backend/crop_panels.py manifests/<name>.json`)
+4. **Crop panels** — either a manifest (`python3 backend-data/crop_panels.py manifests/<name>.json`)
    or, for one-off / already-existing records, crop directly with Pillow to
    `images/<sid>/<image_id>.png` and stage `{system_id, image_id, file, credit}`. For batches
    use the **Workflow tool crop-agent pattern** (see HANDOFF.md). VIEW every crop.
-5. **Merge & build** — `python3 backend/merge_staging.py && python3 backend/validate.py && python3 backend/build.py`.
+5. **Merge & build** — `python3 backend-data/merge_staging.py && python3 backend-data/validate.py && python3 backend-data/build.py`.
 6. Open `index.html`, verify, update `data/ingestion_status.json` + these stats. Done.
 
 ## Scope / 收录标准
@@ -221,7 +221,7 @@ no overlap:**
 
 Three parts, three answers:
 
-- **Code** (`index.html`, `frontend/` JS+CSS, `backend/` Python): **MIT** — see
+- **Code** (`index.html`, `frontend/` JS+CSS, `backend-data/` Python): **MIT** — see
   [LICENSE](LICENSE).
 - **Compiled database** (`data/systems/*.json`, the metadata in generated
   `frontend/data.js`): **CC BY 4.0** — see [LICENSE-DATA.md](LICENSE-DATA.md). Cite this

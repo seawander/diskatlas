@@ -12,10 +12,10 @@ Route proxy (the per-record ingestion route is not stored, so we infer it):
   targeted -> everything else (per-system sweep or snowball-discovered paper)
 
 Verdict columns are LEFT BLANK for a human. Feed the completed CSV to
-backend/qa_score.py to get per-field error rates with binomial confidence
+backend-data/qa_score.py to get per-field error rates with binomial confidence
 intervals for the paper's QA section.
 
-Usage:  python3 backend/qa_sample.py [--n 100] [--seed 20260709]
+Usage:  python3 backend-data/qa_sample.py [--n 100] [--seed 20260709]
 """
 import argparse, csv, json, random
 from collections import defaultdict
@@ -108,7 +108,7 @@ def main():
             f"({len(sample)})</title><style>body{{font:13px sans-serif}}table{{border-collapse:collapse}}"
             f"td,th{{border:1px solid #ccc;padding:4px;vertical-align:top}}td.v{{width:34px;background:#ffe}}"
             f"</style><h3>diskatlas human-QA sample — {len(sample)} records (seed {a.seed})</h3>"
-            f"<p>Verdict cells: put Y / N. Feed the completed CSV to <code>backend/qa_score.py</code>.</p>"
+            f"<p>Verdict cells: put Y / N. Feed the completed CSV to <code>backend-data/qa_score.py</code>.</p>"
             f"<table><tr>{head}</tr>{''.join(rows)}</table>")
     (OUT / "qa_sample.html").write_text(html)
 

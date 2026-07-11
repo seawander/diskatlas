@@ -24,13 +24,13 @@ General rules for every batch:
 2. Identify the panel layout & panel labels BY LOOKING at the rasterized image
    (Read tool on a PNG). Panel labels in the figure are the ground truth for target
    names — never guess from memory.
-3. Write `backend/manifests/<survey>.json` (schema in backend/README.md), run
-   `python3 backend/crop_panels.py manifests/<survey>.json`, then VIEW at least
+3. Write `backend-data/manifests/<survey>.json` (schema in backend-data/README.md), run
+   `python3 backend-data/crop_panels.py manifests/<survey>.json`, then VIEW at least
    3 random outputs to confirm label↔file match. Iterate until clean.
 4. If a target is new (not in `data/systems/`), staging will auto-create it —
    afterwards add its `simbad` name to the follow-up coordinate list and note it
    in `data/ingestion_status.json`.
-5. `python3 backend/merge_staging.py && python3 backend/validate.py && python3 backend/build.py`.
+5. `python3 backend-data/merge_staging.py && python3 backend-data/validate.py && python3 backend-data/build.py`.
 6. Update `data/ingestion_status.json` (images: done/partial + notes).
 7. If paper metadata in seeds carries `_verify`, confirm title/journal/arXiv id
    from the actual source (its .tex or first PDF page) and fix `data/systems/*.json`.
@@ -86,7 +86,7 @@ Discovery figures are small single panels; crop generously (planet + star + scal
   (3) uniform resolution: cap the longest side at **480 px** (≈150 dpi for a typical
   published panel) — render figures at 250–300 dpi for the cut, then downscale.
 - **Record format**: staging records now may carry `fac_keys`/`instr_key`-friendly
-  free text — use facility names that `backend/facility_map.py` already knows (check its
+  free text — use facility names that `backend-data/facility_map.py` already knows (check its
   `FAC_TABLE`) or extend the table in the same change.
 - **Fleet reliability**: verify ids via `arxiv.org/abs/<id>` meta tags when the export API
   429s; check PDFs with `pdfinfo` (parallel downloads truncate); if you are an orchestrator,

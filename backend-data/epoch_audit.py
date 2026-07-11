@@ -7,7 +7,7 @@ where the source paper does not state it). This reports the recovered fraction a
 lists records still missing an epoch, so the source-verified backfill can be worked
 down over time.
 
-Usage:  python3 backend/epoch_audit.py [--list]
+Usage:  python3 backend-data/epoch_audit.py [--list]
 """
 import argparse, glob, json, re
 from pathlib import Path

@@ -20,7 +20,7 @@ known canonical). Auth: anonymous ADS session token (no key needed).
 canonical may legitimately be the eprint form for arXiv-only papers), and derives
 a missing `journal` string from a published (non-eprint) bibcode.
 
-Usage: python3 backend/audit_bibcodes.py [--fix] [--fill]
+Usage: python3 backend-data/audit_bibcodes.py [--fix] [--fill]
 """
 import argparse, json, re, sys, time, urllib.parse, urllib.request
 from pathlib import Path

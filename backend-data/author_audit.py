@@ -13,7 +13,7 @@ the two ledgers already cover, keep titles that smell like resolved imaging,
 and print a per-author triage list. Dispositions belong in
 data/paper_finder_state.json as usual.
 
-Usage: python3 backend/author_audit.py [--min-records 8] [--year-from 2003]
+Usage: python3 backend-data/author_audit.py [--min-records 8] [--year-from 2003]
 """
 import argparse, glob, json, re, time, urllib.parse, urllib.request
 from collections import Counter

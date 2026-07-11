@@ -3,7 +3,7 @@
 
   python3 crop_panels.py manifests/dsharp.json [--dry-run]
 
-Manifest schema: see backend/README.md. Outputs:
+Manifest schema: see backend-data/README.md. Outputs:
   images/<system_id>/<image_id>.png       (<= --max-px on long side, default 560)
   data/staging/<survey>.json              (image records for merge_staging.py)
 """

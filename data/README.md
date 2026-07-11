@@ -1,10 +1,10 @@
 # data/ — the database
 
 One JSON file per stellar system in `data/systems/<system_id>.json`.
-`frontend/data.js` is compiled from these by `backend/build.py`. **Edit here, never edit data.js.**
+`frontend/data.js` is compiled from these by `backend-data/build.py`. **Edit here, never edit data.js.**
 
 
-**Optional `epoch` field** (on image records): the **observation** date — the date the data were *taken*, NOT the publication year. Precision is honest per record: `YYYY-MM-DD` / `YYYY Mon DD` when the executions cluster within ~45 days, `YYYY` when they span one calendar year, `YYYY-YYYY` when a published image combines executions across years. Sources, in priority order: (1) the record's own paper — observing-log table rows matched by target alias and instrument (`backend/epoch_harvest.py tex` + curated `backend/epoch_picks.py`); (2) observatory archives queried by position/instrument/band and bounded by the paper date — ALMA TAP, MAST (HST+JWST), ESO TAP (`backend/epoch_archives.py`). Every recovered epoch's origin and evidence snippet is recorded in `data/paper_finder/epoch_provenance.json`; `backend/epoch_audit.py` reports coverage. The viewer shows the observation-epoch year as a **bare** year on each detail-card chip (tooltip gives the full date); where the obs epoch is not yet recovered it shows the publication year in **parentheses** instead — so the two are never conflated and duplicate band+instrument labels stay distinguishable.
+**Optional `epoch` field** (on image records): the **observation** date — the date the data were *taken*, NOT the publication year. Precision is honest per record: `YYYY-MM-DD` / `YYYY Mon DD` when the executions cluster within ~45 days, `YYYY` when they span one calendar year, `YYYY-YYYY` when a published image combines executions across years. Sources, in priority order: (1) the record's own paper — observing-log table rows matched by target alias and instrument (`backend-data/epoch_harvest.py tex` + curated `backend-data/epoch_picks.py`); (2) observatory archives queried by position/instrument/band and bounded by the paper date — ALMA TAP, MAST (HST+JWST), ESO TAP (`backend-data/epoch_archives.py`). Every recovered epoch's origin and evidence snippet is recorded in `data/paper_finder/epoch_provenance.json`; `backend-data/epoch_audit.py` reports coverage. The viewer shows the observation-epoch year as a **bare** year on each detail-card chip (tooltip gives the full date); where the obs epoch is not yet recovered it shows the publication year in **parentheses** instead — so the two are never conflated and duplicate band+instrument labels stay distinguishable.
 
 ## Inclusion / resolution criterion
 
@@ -116,22 +116,22 @@ Path must be `images/<system_id>/<image_id>.png`. `file: null` renders a
 
 | Case | Do this |
 |---|---|
-| New image for existing system | Append to `images[]`, set `file` (or null), bump `last_updated`, run `backend/build.py`. |
-| New system | Create `data/systems/<id>.json` (copy one as template). Get RA/Dec via SIMBAD (see `backend/README.md`). Run `validate.py` + `build.py`. |
-| Whole new survey | Add to `backend/seeds/` (see its README) + crop manifest. Batch-friendly. |
+| New image for existing system | Append to `images[]`, set `file` (or null), bump `last_updated`, run `backend-data/build.py`. |
+| New system | Create `data/systems/<id>.json` (copy one as template). Get RA/Dec via SIMBAD (see `backend-data/README.md`). Run `validate.py` + `build.py`. |
+| Whole new survey | Add to `backend-data/seeds/` (see its README) + crop manifest. Batch-friendly. |
 | New imaged planet around known star | Append to that system's `planets[]` + add a `"type": "planet"` image entry. |
 
 ## Staging (for crop agents)
 
 Automated agents drop new/updated image records in `data/staging/<batch>.json`
-(format documented in `backend/README.md`); `backend/merge_staging.py` folds them
+(format documented in `backend-data/README.md`); `backend-data/merge_staging.py` folds them
 into `data/systems/`. This avoids concurrent edits to the same system file.
 
 ## Build-time enrichment (not stored here)
 
-`backend/build.py` adds `fac_keys` (AAS facility keywords, list — joint A+B images carry
+`backend-data/build.py` adds `fac_keys` (AAS facility keywords, list — joint A+B images carry
 both) and `instr_key` (canonical instrument family) to every image record in
-`frontend/data.js`, via `backend/facility_map.py`. Keep the free-text `facility` /
+`frontend/data.js`, via `backend-data/facility_map.py`. Keep the free-text `facility` /
 `instrument` fields as-is in these JSONs; extend the mapping table when a new facility
 string appears.
 
@@ -142,7 +142,7 @@ string appears.
 - **`data/paper_finder_state.json`** — per-paper dispositions for papers NOT in the atlas
   (`excluded`+reason / `ingested` pointer). One flat dict with two key styles that
   coexist: Semantic-Scholar hashes (written by the Skill / `find_papers.py --mark`)
-  and plain arXiv ids (written when reviewing `backend/fresh_papers.py` weekly
+  and plain arXiv ids (written when reviewing `backend-data/fresh_papers.py` weekly
   digests — the sweeper dedupes on these).
 - **`data/ingestion_status.json`** — per-survey/batch human ledger + session notes:
   `entries`/`coords`/`images` each `"done"|"partial"|"todo"` + free-text `notes`.

@@ -7,7 +7,7 @@ Y / N (blank rows are treated as un-reviewed and skipped). Reports, per field an
 overall, the number reviewed, the error rate, and a 95% Wilson-score binomial
 confidence interval — the numbers to quote in the paper's QA section.
 
-Usage:  python3 backend/qa_score.py [--csv data/paper_finder/qa_sample.csv]
+Usage:  python3 backend-data/qa_score.py [--csv data/paper_finder/qa_sample.csv]
 """
 import argparse, csv, math
 from pathlib import Path
