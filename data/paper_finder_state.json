@@ -2448,5 +2448,10 @@
   "status": "excluded",
   "reason": "Lagrange 2016 HD 106906 SPHERE: H23 band redundant with existing Xie RDI record; figure is a 9-panel reduction-comparison grid, no clean single science image; deferred",
   "date": "2026-07-10"
+ },
+ "2006.16257": {
+  "status": "excluded",
+  "reason": "Matra 2020 Vega ALMA: the Vega ALMA/SMA resolved image is already in the atlas via Matra 2025 (vega ALMA/SMA Band 6/7); same facility+author, superseded",
+  "date": "2026-07-10"
  }
 }
