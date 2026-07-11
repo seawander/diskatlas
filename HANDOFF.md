@@ -14,10 +14,10 @@ image is a low-res crop of a peer-reviewed figure (or official archive preview)
 with clickable **arXiv + SciX** citations. Pure static files — no server, no
 runtime build.
 
-## Current state (2026-07-10)
+## Current state (2026-07-11)
 
-- **483 systems · 1813 image records (all with local panels) · validate.py
-  0 errors / 0 warnings · all bibcodes ADS-verified · epoch coverage 93.6%**
+- **484 systems · 1815 image records (all with local panels) · validate.py
+  0 errors / 0 warnings · all bibcodes ADS-verified · epoch coverage 94.3%**
   (`python3 backend/build.py` is always canonical for stats).
 - Live at **github.com/seawander/diskatlas** + GitHub Pages. Publish = **direct
   push to `master`** (no PRs, `gh` not installed). Multiple sessions commit
@@ -89,7 +89,7 @@ expensive to refetch). `candidates.md` there is ~330k tokens — never read it.
 ## Observation epochs (`epoch` field)
 
 `epoch` = the date the data were **taken**, never the publication year.
-Coverage 93.6% (2026-07-11 harvest); the remaining 116 records are papers that
+Coverage 94.3% (2026-07-11 audit); the remaining 104 records are papers that
 state no dates AND archives are silent. Method + numbers for the manuscript:
 `paper_Overleaf/notes_epoch_methods.md`. Provenance per record:
 `data/paper_finder/epoch_provenance.json`. Audit: `backend/epoch_audit.py`.

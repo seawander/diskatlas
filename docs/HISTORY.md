@@ -308,3 +308,18 @@ on the GB10 to replace token-costly crop eyeballing) was proposed but not built.
 - T (+7): HD 142527 ALMA Band 7 continuum + mm-polarized-intensity + CO(3-2) gas map (Ohashi 2018 = new mm-pol & gas modalities for the disk); HR 4796A NaCo Ks PDI 2013 + NICMOS F222M first-published + NaCo L' epoch 2010-04-06 (archival Lagrange 2012 = arXiv:1207.1987, obs date source-verified); beta Pic NaCo L' scattered-light DISK (Milli 2014) + GPI J-band planet b 2018-11-18 post-conjunction (Nielsen 2020). Marino 2015 rejected entirely (schematic + re-display + RT models).
 - U (+5, NEW SYSTEM): V883 Ori (v883-ori) — landmark FU Ori-type water-snow-line disk, Orion L1641; dist adopted ~414pc since Gaia DR3 parallax unreliable during outburst (matches sibling FUor HBC 494); 5 resolved ALMA bands: Band 6 1.3mm snow-line 0.03"/12au (Cieza 2016 Nature) + Band 6 combined-config (Cieza 2018) + Band 7 0.88mm / Band 4 2.0mm / Band 3 3.1mm (Houge 2024).
 SATURATION CONFIRMED this session: panel_audit 'multiband' flags are mostly FALSE POSITIVES (extra panels are U_phi/SNR/model/re-display; atlas already holds the real bands e.g. AF Lep F444W, HD 163296 JWST F410M/F200W + SPHERE H/J, HD 106906 MIRI both filters). Under-split-generic-record class exhausted to its last real case (MWC 758, fixed; MWC 297 already properly split into IRDIS 2018 + IFS 2015 + IFS 2018). Final 3-paper discovery sweep (Xie 2024 2410.00136 = JWST MIRI/MRS spectroscopy of T Cha outburst, NOT imaging; Villenave 2025 2503.05872 + Zhang 2023 2305.03862 = visibility-reanalysis re-displays of already-held DSHARP/Taurus-survey/ODISEA data) returned ZERO new images/systems. LOGGED for future directed adds (data/paper_finder/new_system_candidates.txt): Orion 218-354 silhouette disk (Follette 2013 MagAO/VisAO Halpha SDI, first ground-based AO silhouette disk). Consistent with maintenance-mode: retrospective discovery is saturated; prefer weekly fresh_papers + directed asks over bulk crawls.
+
+2026-07-11 (consistency audit). Full audit pass over the post-Orion-batch
+database: validate.py 0/0, dup_check 0 byte-identical crops, crop_qa 0
+MULTIPANEL / 0 missing files (246 GUTTER_EDGE advisories, borderline-pixel
+class, left as-is), audit_bibcodes --fix --fill verified all 624 papers clean
+and derived 8 missing journal strings. Epoch sweep caught 12 records ingested
+in the last two days without observation dates (rule-4 misses) and recovered
+all of them from sources: Looney et al. 2000 BIMA 2.7 mm survey (6 records,
+survey window 1996 May-1998 Mar -> 1996-1998), CY Tau VLA 7.1 mm (Perez 2015
+observing log, Q-band tracks 2010-2012), PDS 66 GPI K1 (Wolff 2016 Table 1,
+2014-05-15) and STIS (MAST GO-12228 visits 2011-03-31 + 2011-06-04 -> 2011),
+V960 Mon ERIS/NIX (Dasgupta 2025, 2024-01-01), NGC 1068 VLA A-array 6 cm
+(Gallimore 1996 Table 1 read from the ADS scan, 1994-05-09), HD 100453 NACO
+(Chen 2006, archival ESO data, 2003-06-02). Epoch coverage 93.6% -> 94.3%
+(104 dateless records remain, all pre-audited hopeless class).

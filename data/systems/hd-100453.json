@@ -32,7 +32,8 @@
      "first_author": "Follette",
      "year": 2023,
      "arxiv": "2211.02109",
-     "bibcode": "2023AJ....165..225F"
+     "bibcode": "2023AJ....165..225F",
+     "journal": "AJ 165, 225"
     }
    ]
   }
@@ -352,7 +353,8 @@
     "year": 2006,
     "journal": "A&A 445, 331",
     "title": "VLT/NACO adaptive optics imaging of the Herbig Ae star HD 100453"
-   }
+   },
+   "epoch": "2003-06-02"
   },
   {
    "image_id": "hd-100453_sphere2017-Rp",

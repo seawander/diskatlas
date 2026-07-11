@@ -160,7 +160,8 @@
     "year": 1996,
     "journal": "ApJ 458, 136",
     "title": "The Subarcsecond Radio Structure in NGC 1068. I. Observations and Results"
-   }
+   },
+   "epoch": "1994-05-09"
   }
  ],
  "notes": "Archetypal Seyfert 2 (M77, D ~ 14 Mpc). Added by batch S as quasar/AGN-host expansion: prior high-contrast AGN imaging cited in the first paragraph of Ren et al. 2024 (2402.09505). Grosset+2021 SPHERE-IRDIS Cnt K1 polarimetry cropped from arXiv 2102.06339. Rouan+2019 DOES have an arXiv posting (1809.10254; corrected 2026-07-06) - source to be host-fetched. Gratadour+2015 has no arXiv (bibcode only); aanda open-access PDF aa26554-15 to be host-fetched. Coordinates are the well-known NGC 1068 position; SIMBAD refinement pending via coords_todo_batchS.",

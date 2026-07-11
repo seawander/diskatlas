@@ -266,7 +266,7 @@
     "arxiv": "1601.07248",
     "bibcode": "2016ApJ...818L..15W"
    },
-   "epoch": null
+   "epoch": "2014-05-15"
   },
   {
    "image_id": "pds-66_stis",
@@ -287,7 +287,7 @@
     "arxiv": "1601.07248",
     "bibcode": "2016ApJ...818L..15W"
    },
-   "epoch": null
+   "epoch": "2011"
   }
  ],
  "notes": "ALMA 3mm reveals a ring + 2 gaps invisible at shorter wavelengths; a young gas giant is inferred (not imaged) from Gaia astrometry + disk structure (Ribas et al. 2025, arXiv 2507.11612).",
