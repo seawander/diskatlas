@@ -1,0 +1,302 @@
+{
+ "id": "114-426",
+ "name": "114-426",
+ "alt_names": [
+  "Orion 114-426",
+  "[OW94] 114-426",
+  "COUP 419"
+ ],
+ "simbad": "[OW94] 114-426",
+ "ra_deg": 83.79716666666666,
+ "dec_deg": -5.4073722222222225,
+ "dist_pc": 414.0,
+ "sptype": "M0",
+ "region": "Orion Nebula (M42)",
+ "categories": [
+  "protoplanetary"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "image_id": "114-426_nircam-f115w",
+   "type": "disk_scattered",
+   "facility": "JWST",
+   "instrument": "NIRCam",
+   "wavelength_um": 1.15,
+   "wavelength_label": "F115W 1.15 um",
+   "technique": "other",
+   "survey": null,
+   "file": "images/114-426/114-426_nircam-f115w.png",
+   "credit": "Ballering et al. 2025, Fig. (gallery, F115W panel, crop)",
+   "paper": {
+    "first_author": "Ballering",
+    "year": 2025,
+    "title": "Water Ice in the Edge-on Orion Silhouette Disk 114-426 from JWST NIRCam Images",
+    "journal": "ApJ",
+    "arxiv": "2412.04356",
+    "bibcode": "2025ApJ...979..110B"
+   },
+   "epoch": "2022"
+  },
+  {
+   "image_id": "114-426_nircam-f140m",
+   "type": "disk_scattered",
+   "facility": "JWST",
+   "instrument": "NIRCam",
+   "wavelength_um": 1.4,
+   "wavelength_label": "F140M 1.40 um",
+   "technique": "other",
+   "survey": null,
+   "file": "images/114-426/114-426_nircam-f140m.png",
+   "credit": "Ballering et al. 2025, Fig. (gallery, F140M panel, crop)",
+   "paper": {
+    "first_author": "Ballering",
+    "year": 2025,
+    "title": "Water Ice in the Edge-on Orion Silhouette Disk 114-426 from JWST NIRCam Images",
+    "journal": "ApJ",
+    "arxiv": "2412.04356",
+    "bibcode": "2025ApJ...979..110B"
+   },
+   "epoch": "2022"
+  },
+  {
+   "image_id": "114-426_nircam-f162m",
+   "type": "disk_scattered",
+   "facility": "JWST",
+   "instrument": "NIRCam",
+   "wavelength_um": 1.62,
+   "wavelength_label": "F162M 1.62 um",
+   "technique": "other",
+   "survey": null,
+   "file": "images/114-426/114-426_nircam-f162m.png",
+   "credit": "Ballering et al. 2025, Fig. (gallery, F162M panel, crop)",
+   "paper": {
+    "first_author": "Ballering",
+    "year": 2025,
+    "title": "Water Ice in the Edge-on Orion Silhouette Disk 114-426 from JWST NIRCam Images",
+    "journal": "ApJ",
+    "arxiv": "2412.04356",
+    "bibcode": "2025ApJ...979..110B"
+   },
+   "epoch": "2022"
+  },
+  {
+   "image_id": "114-426_nircam-f182m",
+   "type": "disk_scattered",
+   "facility": "JWST",
+   "instrument": "NIRCam",
+   "wavelength_um": 1.82,
+   "wavelength_label": "F182M 1.82 um",
+   "technique": "other",
+   "survey": null,
+   "file": "images/114-426/114-426_nircam-f182m.png",
+   "credit": "Ballering et al. 2025, Fig. (gallery, F182M panel, crop)",
+   "paper": {
+    "first_author": "Ballering",
+    "year": 2025,
+    "title": "Water Ice in the Edge-on Orion Silhouette Disk 114-426 from JWST NIRCam Images",
+    "journal": "ApJ",
+    "arxiv": "2412.04356",
+    "bibcode": "2025ApJ...979..110B"
+   },
+   "epoch": "2022"
+  },
+  {
+   "image_id": "114-426_nircam-f187n",
+   "type": "disk_scattered",
+   "facility": "JWST",
+   "instrument": "NIRCam",
+   "wavelength_um": 1.87,
+   "wavelength_label": "F187N 1.87 um (strong silhouette vs Pa-alpha)",
+   "technique": "other",
+   "survey": null,
+   "file": "images/114-426/114-426_nircam-f187n.png",
+   "credit": "Ballering et al. 2025, Fig. (gallery, F187N panel, crop)",
+   "paper": {
+    "first_author": "Ballering",
+    "year": 2025,
+    "title": "Water Ice in the Edge-on Orion Silhouette Disk 114-426 from JWST NIRCam Images",
+    "journal": "ApJ",
+    "arxiv": "2412.04356",
+    "bibcode": "2025ApJ...979..110B"
+   },
+   "epoch": "2022"
+  },
+  {
+   "image_id": "114-426_nircam-f212n",
+   "type": "disk_scattered",
+   "facility": "JWST",
+   "instrument": "NIRCam",
+   "wavelength_um": 2.12,
+   "wavelength_label": "F212N 2.12 um",
+   "technique": "other",
+   "survey": null,
+   "file": "images/114-426/114-426_nircam-f212n.png",
+   "credit": "Ballering et al. 2025, Fig. (gallery, F212N panel, crop)",
+   "paper": {
+    "first_author": "Ballering",
+    "year": 2025,
+    "title": "Water Ice in the Edge-on Orion Silhouette Disk 114-426 from JWST NIRCam Images",
+    "journal": "ApJ",
+    "arxiv": "2412.04356",
+    "bibcode": "2025ApJ...979..110B"
+   },
+   "epoch": "2022"
+  },
+  {
+   "image_id": "114-426_nircam-f277w",
+   "type": "disk_scattered",
+   "facility": "JWST",
+   "instrument": "NIRCam",
+   "wavelength_um": 2.77,
+   "wavelength_label": "F277W 2.77 um",
+   "technique": "other",
+   "survey": null,
+   "file": "images/114-426/114-426_nircam-f277w.png",
+   "credit": "Ballering et al. 2025, Fig. (gallery, F277W panel, crop)",
+   "paper": {
+    "first_author": "Ballering",
+    "year": 2025,
+    "title": "Water Ice in the Edge-on Orion Silhouette Disk 114-426 from JWST NIRCam Images",
+    "journal": "ApJ",
+    "arxiv": "2412.04356",
+    "bibcode": "2025ApJ...979..110B"
+   },
+   "epoch": "2022"
+  },
+  {
+   "image_id": "114-426_nircam-f300m",
+   "type": "disk_scattered",
+   "facility": "JWST",
+   "instrument": "NIRCam",
+   "wavelength_um": 3.0,
+   "wavelength_label": "F300M 3.00 um (water-ice absorption band)",
+   "technique": "other",
+   "survey": null,
+   "file": "images/114-426/114-426_nircam-f300m.png",
+   "credit": "Ballering et al. 2025, Fig. (gallery, F300M panel, crop)",
+   "paper": {
+    "first_author": "Ballering",
+    "year": 2025,
+    "title": "Water Ice in the Edge-on Orion Silhouette Disk 114-426 from JWST NIRCam Images",
+    "journal": "ApJ",
+    "arxiv": "2412.04356",
+    "bibcode": "2025ApJ...979..110B"
+   },
+   "epoch": "2022"
+  },
+  {
+   "image_id": "114-426_nircam-f335m",
+   "type": "disk_scattered",
+   "facility": "JWST",
+   "instrument": "NIRCam",
+   "wavelength_um": 3.35,
+   "wavelength_label": "F335M 3.35 um",
+   "technique": "other",
+   "survey": null,
+   "file": "images/114-426/114-426_nircam-f335m.png",
+   "credit": "Ballering et al. 2025, Fig. (gallery, F335M panel, crop)",
+   "paper": {
+    "first_author": "Ballering",
+    "year": 2025,
+    "title": "Water Ice in the Edge-on Orion Silhouette Disk 114-426 from JWST NIRCam Images",
+    "journal": "ApJ",
+    "arxiv": "2412.04356",
+    "bibcode": "2025ApJ...979..110B"
+   },
+   "epoch": "2022"
+  },
+  {
+   "image_id": "114-426_nircam-f360m",
+   "type": "disk_scattered",
+   "facility": "JWST",
+   "instrument": "NIRCam",
+   "wavelength_um": 3.6,
+   "wavelength_label": "F360M 3.60 um",
+   "technique": "other",
+   "survey": null,
+   "file": "images/114-426/114-426_nircam-f360m.png",
+   "credit": "Ballering et al. 2025, Fig. (gallery, F360M panel, crop)",
+   "paper": {
+    "first_author": "Ballering",
+    "year": 2025,
+    "title": "Water Ice in the Edge-on Orion Silhouette Disk 114-426 from JWST NIRCam Images",
+    "journal": "ApJ",
+    "arxiv": "2412.04356",
+    "bibcode": "2025ApJ...979..110B"
+   },
+   "epoch": "2022"
+  },
+  {
+   "image_id": "114-426_nircam-f444w",
+   "type": "disk_scattered",
+   "facility": "JWST",
+   "instrument": "NIRCam",
+   "wavelength_um": 4.44,
+   "wavelength_label": "F444W 4.44 um",
+   "technique": "other",
+   "survey": null,
+   "file": "images/114-426/114-426_nircam-f444w.png",
+   "credit": "Ballering et al. 2025, Fig. (gallery, F444W panel, crop)",
+   "paper": {
+    "first_author": "Ballering",
+    "year": 2025,
+    "title": "Water Ice in the Edge-on Orion Silhouette Disk 114-426 from JWST NIRCam Images",
+    "journal": "ApJ",
+    "arxiv": "2412.04356",
+    "bibcode": "2025ApJ...979..110B"
+   },
+   "epoch": "2022"
+  },
+  {
+   "image_id": "114-426_nircam-f470n",
+   "type": "disk_scattered",
+   "facility": "JWST",
+   "instrument": "NIRCam",
+   "wavelength_um": 4.7,
+   "wavelength_label": "F470N 4.70 um",
+   "technique": "other",
+   "survey": null,
+   "file": "images/114-426/114-426_nircam-f470n.png",
+   "credit": "Ballering et al. 2025, Fig. (gallery, F470N panel, crop)",
+   "paper": {
+    "first_author": "Ballering",
+    "year": 2025,
+    "title": "Water Ice in the Edge-on Orion Silhouette Disk 114-426 from JWST NIRCam Images",
+    "journal": "ApJ",
+    "arxiv": "2412.04356",
+    "bibcode": "2025ApJ...979..110B"
+   },
+   "epoch": "2022"
+  },
+  {
+   "image_id": "114-426_nircam-composite",
+   "type": "disk_scattered",
+   "facility": "JWST",
+   "instrument": "NIRCam",
+   "wavelength_um": 1.62,
+   "wavelength_label": "NIRCam RGB composite (F115W+F140M / F162M / F182M / F277W)",
+   "technique": "other",
+   "survey": null,
+   "file": "images/114-426/114-426_nircam-composite.png",
+   "credit": "Ballering et al. 2025, Fig. 1 (color composite, crop)",
+   "paper": {
+    "first_author": "Ballering",
+    "year": 2025,
+    "title": "Water Ice in the Edge-on Orion Silhouette Disk 114-426 from JWST NIRCam Images",
+    "journal": "ApJ",
+    "arxiv": "2412.04356",
+    "bibcode": "2025ApJ...979..110B"
+   },
+   "epoch": "2022"
+  }
+ ],
+ "notes": "Giant edge-on silhouette disk in the Orion Nebula (~1000 au), seen in absorption against the nebular background with scattered-light lobes. JWST/NIRCam 12-band imaging (Ballering et al. 2024, GTO program 1256) reveals the 3 um water-ice absorption. Distance = Orion Nebula Cluster (~414 pc). Added 2026-07-11.",
+ "last_updated": "2026-07-11",
+ "plx_mas": null,
+ "mags": {
+  "J": 16.63,
+  "H": 15.2,
+  "K": 14.54
+ }
+}

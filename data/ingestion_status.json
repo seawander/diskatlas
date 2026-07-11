@@ -1,6 +1,6 @@
 {
  "_doc": "Per-survey ingestion state. entries/coords/images: done|partial|todo. Update on every ingest.",
- "updated": "2026-07-11: fresh_papers batch (agent W): PDS 70 +4 new SPHERE (IRDIS DPI H 2024 + IFS YJH/H 2025 + IRDIS K2 2025; inner dust clumps N/S, Balsalobre-Ruza 2026); BHR 71 IRS1 +4 JWST/MIRI-MRS jet maps [FeII]/H2/[NeII]/continuum (JOYS, Tychoniec 2026, new instrument). beta Pic (Han) + HR 4796A (ffortissimo) yielded nothing new. 476 systems, 1773 records, 0 err.",
+ "updated": "2026-07-11: NEW SYSTEM 114-426 (giant edge-on Orion silhouette disk = COUP 419) with JWST/NIRCam 12-band gallery split into per-filter records (F115W-F470N, incl. F187N silhouette + F300M water-ice) + RGB composite, Ballering 2025 program 1256, epoch 2022 (2412.04356). 477 systems, 1786 records. Agent Y (classic HST imaging papers) still in flight.",
  "surveys": {
   "DSHARP": {
    "entries": "done",
