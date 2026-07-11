@@ -16,7 +16,7 @@ runtime build.
 
 ## Current state (2026-07-10)
 
-- **468 systems · 1500 image records (all with local panels) · validate.py
+- **474 systems · 1548 image records (all with local panels) · validate.py
   0 errors / 0 warnings · all bibcodes ADS-verified · epoch coverage 92.1%**
   (`python3 backend/build.py` is always canonical for stats).
 - Live at **github.com/seawander/diskatlas** + GitHub Pages. Publish = **direct
@@ -148,8 +148,10 @@ the only ground truth), crop, VIEW the saved crop, return
 `{system_id,image_id,file,credit,ok}`. Orchestrator writes ONE staging file.
 
 Fleet gotchas: hardcode file paths in prompts; export.arxiv.org 429s under
-fleet load (fallback: abs-page HTML meta / pdf / Semantic Scholar); parallel
-curl truncates PDFs at 4 MiB (check `pdfinfo`, refetch sequentially); agents
+fleet load (`Rate exceeded` → a 14-byte "tarball"; back off, retry); parallel
+curl truncates PDFs at 4 MiB, and **even a single sequential `curl` silently
+caps arXiv e-print tarballs at exactly 2 MiB** (2097152 B) — use `wget -O` for
+anything larger (Z CMa's source was 13 MB); check `pdfinfo`/tar-extract; agents
 sometimes stop after spawning children (SendMessage: "do it synchronously,
 reconcile disk first"); always reconcile results against disk; two agents can
 create the same system — re-`ls data/systems/` before writes.
