@@ -1,0 +1,264 @@
+sweeping 42 first-authors (>= 10 records or EXTRA)
+
+[Andrews] (26 in-atlas records) — 16 candidates:
+    2024  2405.19574              On Kinematic Measurements of Self-gravity in Protoplanetary Disks
+    2021  2105.08821              Limits on Millimeter Continuum Emission from Circumplanetary Material in the DSHARP Disks
+    2020  2001.05007              Observations of Protoplanetary Disk Structures
+    2018  2018ASPC..517..137A     Resolved Substructures in Protoplanetary Disks with the ngVLA
+    2018  1808.10510              Scaling Relations Associated with Millimeter Continuum Sizes in Protoplanetary Disks
+    2013  1305.5262               The Mass Dependence between Protoplanetary Disks and their Stellar Hosts
+    2011  1110.3865               A Closer Look at the LkCa 15 Protoplanetary Disk
+    2010  1007.5070               Protoplanetary Disk Structures in Ophiuchus. II. Extension to Fainter Sources
+    2010  0912.3537               Truncated Disks in TW Hya Association Multiple Star Systems
+    2009  0906.0730               Protoplanetary Disk Structures in Ophiuchus
+    2008  0804.0437               The Structure of the DoAr 25 Circumstellar Disk
+    2008  2008Ap&SS.313..119A     A submillimeter view of protoplanetary dust disks
+[Avenhaus] (11 in-atlas records) — 4 candidates:
+    2014  1405.6120               HD100546 Multi-epoch Scattered Light Observations
+    2014  1311.7088               Structures in the Protoplanetary Disk of HD142527 Seen in Polarized Scattered Light
+    2014  2014PhDT.......370A     The search for circumstellar disks and their investigation with polarimetric differential 
+    2012  1209.0678               The nearby population of M-dwarfs with WISE: a search for warm circumstellar dust
+[Balmer] (17 in-atlas records) — 1 candidates:
+    2024  2312.08283              VLTI/GRAVITY Provides Evidence the Young, Substellar Companion HD 136164 Ab Formed Like a 
+[Benisty] (7 in-atlas records) — 3 candidates:
+    2023  2203.09991              Optical and Near-infrared View of Planet-forming Disks and Protoplanets
+    2010  1001.2491               The complex structure of the disk around HD 100546. The inner few astronomical units
+    2010  0911.4363               Strong near-infrared emission in the sub-AU disk of the Herbig Ae star HD 163296: evidence
+[Boccaletti] (8 in-atlas records) — 14 candidates:
+    2026  2026A&A...710A.263B     Destructuring the disk of AB Aurigae: Dynamics and accretion
+    2024  2024CRPhy..24S.134B     Observations of circumstellar disks in scattered light with SPHERE at the VLT
+    2022  2207.11080              JWST/MIRI coronagraphic performances as measured on-sky
+    2015  1508.02352              The Mid-Infrared Instrument for the James Webb Space Telescope, V: Predicted Performance o
+    2013  1310.7092               Multiple spiral patterns in the transitional disk of HD 100546
+    2013  1302.5528               Independent confirmation of β Pictoris b imaging with NICI
+    2012  1203.0507               SPICES: spectro-polarimetric imaging and characterization of exoplanetary systems. From pl
+    2012  1206.6334               Morphology of the very inclined debris disk around HD 32297
+    2009  0901.2034               VLT/NACO coronagraphic observations of fine structures in the disk of β Pictoris
+    2008  0802.4158               Coronagraphic near-IR photometry of AB Doradus C
+    2005  2005AdSpR..36.1099B     Imaging exoplanets with the coronagraph of JWST/MIRI
+    2004  2004PASP..116.1061B     The Four-Quadrant Phase Mask Coronagraph. IV. First Light at the Very Large Telescope
+[Bohn] (14 in-atlas records) — 1 candidates:
+    2022  2109.09185              Unveiling wide-orbit companions to K-type stars in Sco-Cen with Gaia EDR3
+[Cieza] (11 in-atlas records) — 17 candidates:
+    2019  1809.08844              The Ophiuchus DIsc Survey Employing ALMA (ODISEA) - I: project description and continuum i
+    2018  2018BAAA...60..258C     Estudios demográficos de discos protoplanetarios en la era de ALMA
+    2018  1711.08693              The ALMA early science view of FUor/EXor objects - V. Continuum disc masses and sizes
+    2017  1711.06905              ALMA Observations of Elias 2-24: A Protoplanetary Disk with Multiple Gaps in the Ophiuchus
+    2016  1607.03757              Imaging the water snow-line during a protostellar outburst
+    2015  1504.06040              A SCUBA-2 850-μm survey of protoplanetary discs in the IC 348 cluster
+    2013  1211.4510               The Herschel DIGIT Survey of Weak-line T Tauri Stars: Implications for Disk Evolution and 
+    2013  1211.5721               Sparse Aperture Masking Observations of the FL Cha Pre-transitional Disk
+    2012  1203.6849               The Nature of Transition Circumstellar Disks. III. Perseus, Taurus, and Auriga
+    2011  1109.6041               Herschel Observations of the T Cha Transition Disk: Constraining the Outer Disk Properties
+    2010  1001.4825               The Nature of Transition Circumstellar Disks. I. The Ophiuchus Molecular Cloud
+    2009  0903.3057               Primordial Circumstellar Disks in Binary Systems: Evidence for Reduced Lifetimes
+[Crotts] (17 in-atlas records) — 2 candidates:
+    2025  2025ApJS..276...14C     Reduction and Archiving of Multiwavelength, Polarized-intensity Debris-disk Observations w
+    2024  2024PhDT.......100C     Expedition unknown: Characterizing and modelling perturbed debris disks in search for elus
+[Curone] (15 in-atlas records) — 2 candidates:
+    2023  2307.10798              Radio multiwavelength analysis of the compact disk CX Tau: Presence of strong free-free va
+    2022  2205.10219              A giant planet shaping the disk around the very low-mass star CIDA 1
+[Currie] (24 in-atlas records) — 18 candidates:
+    2023  2309.14234              Mitigating Worst-case Exozodiacal Dust Structure in High-contrast Images of Earth-like Exo
+    2020  2007.14413              Laboratory Demonstration of Spatial Linear Dark Field Control For Imaging Extrasolar Plane
+    2014  1404.0131               A First-look Atmospheric Modeling Study of the Young Directly Imaged Planet-mass Companion
+    2013  1306.0610               A Combined Very Large Telescope and Gemini Study of the Atmosphere of the Directly Imaged 
+    2012  1206.0483               Direct Detection and Orbital Analysis of the Exoplanets HR 8799 bcd from Archival 2005 Kec
+    2011  1105.4607               A 5 μm Image of β Pictoris b at a Sub-Jupiter Projected Separation: Evidence for a Misalig
+    2011  1102.4364               The Transitional Protoplanetary Disk Frequency as a Function of Age: Disk Evolution In the
+    2010  1008.1983               High-contrast 3.8 μm Imaging of the Brown Dwarf/Planet-mass Companion to GJ 758
+    2009  0801.1116               Deep MIPS Observations of the IC 348 Nebula: Constraints on the Evolutionary State of Anem
+    2009  0903.2666               The Last Gasp of Gas Giant Planet Formation: A Spitzer Study of the 5 Myr Old Cluster NGC 
+    2008  0807.2056               A Spitzer Study of Debris Disks in the Young Nearby Cluster NGC 2232: Icy Planets Are Comm
+    2008  2008PhDT.........3C     Observational constraints on circumstellar disk evolution and terrestrial planet formation
+[Ding] (11 in-atlas records) — 1 candidates:
+    2020  2002.05179              Deep Hubble Space Telescope Imaging on the Extended Lyα Emission of a QSO at z = 2.19 with
+[Engler] (51 in-atlas records) — 3 candidates:
+    2019  1812.02750              Investigating the presence of two belts in the HD 15115 system
+    2018  1808.04373              Detection of scattered light from the hot dust in HD 172555
+    2018  2018PhDT........65E     Debris disks in polarized light
+[Esposito] (32 in-atlas records) — 1 candidates:
+    2025  2025Icar..42916386E     Statistics of Saturn's ring occultations: Implications for structure, dynamics, and origin
+[Follette] (10 in-atlas records) — 2 candidates:
+    2014  2014PhDT........62F     Filling in the gaps: Illuminating (a) Clearing mechanisms in transitional protoplanetary d
+    2013  1308.4147               The First Circumstellar Disk Imaged in Silhouette at Visible Wavelengths with Adaptive Opt
+[Garufi] (72 in-atlas records) — 8 candidates:
+    2025  2501.11686              The centimeter emission from planet-forming disks in Taurus
+    2022  2110.13820              ALMA chemical survey of disk-outflow sources in Taurus (ALMA-DOT). VI. Accretion shocks in
+    2021  2012.07667              ALMA chemical survey of disk-outflow sources in Taurus (ALMA-DOT). V. Sample, overview, an
+    2020  2002.10195              ALMA chemical survey of disk-outflow sources in Taurus (ALMA-DOT). I. CO, CS, CN, and H<SU
+    2016  2016PhDT.......259G     Light up the trail to planets: dust in protoplanetary disks traced by scattered light
+    2014  1406.7387               Shadows and cavities in protoplanetary disks: HD 163296, HD 141569A, and HD 150193A in pol
+    2014  1405.7692               The protoplanetary disk of FT Tauri: multiwavelength data analysis and modeling
+    2013  1311.4195               Small vs. large dust grains in transitional disks: do different cavity sizes indicate a pl
+[Ginski] (26 in-atlas records) — 4 candidates:
+    2021  2009.10363              How many suns are in the sky? A SPHERE multiplicity survey of exoplanet host stars. I. Fou
+    2014  1409.1850               Astrometric follow-up observations of directly imaged sub-stellar companions to young star
+    2014  2014MNRAS.438.1102G     Astrometric monitoring and orbit constraint of the GSC 08047-00232 system with VLT/NaCo
+    2012  1202.4586               A lucky imaging multiplicity study of exoplanet host stars
+[Hom] (11 in-atlas records) — 2 candidates:
+    2026  2511.08862              CoronaGraph Instrument Reference Stars for Exoplanets (CorGI-REx). I. Preliminary Vetting 
+    2023  2023PhDT........65H     The Impacts of High Contrast Direct Imaging: A Study of Young Planetary Systems and Applic
+[Huang] (12 in-atlas records) — 24 candidates:
+    2026  2511.16056              Analytical Solutions for Planet-scattering Small Bodies
+    2026  2026RAA....26a5010H     Design and Stray Light Suppression in Spectral Imaging Coronagraph (SICG), Meridian Projec
+    2025  2503.19026              Leaky Dust Traps in Planet-embedded Protoplanetary Disks
+    2025  2506.04164              A Resonant Beginning for the Solar System's Terrestrial Planets
+    2025  2503.11076              Dust Clumping in Outer Protoplanetary Disks: The Interplay among Four Instabilities
+    2025  2503.01656              The Interplay between Dust Dynamics and Turbulence Induced by the Vertical Shear Instabili
+    2025  2407.19635              The Protostars in Orion: Characterizing the Properties of Their Magnetized Envelopes
+    2024  2410.02856              Origin of transition disk cavities: Pebble-accreting protoplanets vs super-Jupiters
+    2024  2401.08436              The Cumulation of Debris Clouds around a Fast-rotating Asteroid
+    2024  2407.19018              Suppression of giant planet formation around low-mass stars in clustered environments
+    2023  2023PASA...40...33H     Automatic detection of cataclysmic variables from SDSS images
+    2022  2206.01023              A Multifluid Dust Module in Athena++: Algorithms and Numerical Tests
+[Kalas] (14 in-atlas records) — 2 candidates:
+    2026  2512.15861              A second planetesimal collision in the Fomalhaut system
+    2011  2011Ippa....2...23K     Planetary systems revealed through direct imaging
+[Lagrange] (4 in-atlas records) — 7 candidates:
+    2019  2019NatAs...3.1135L     Evidence for an additional planet in the β Pictoris system
+    2017  2017A&A...608L...9L     Discovery of a stellar companion to HD 131399A
+    2014  2014RSPTA.37230090L     Direct imaging of exoplanets
+    2012  1202.2578               The position of β Pictoris b position relative to the debris disk
+    2009  0906.5520               Constraining the orbit of the possible companion to β Pictoris. New deep imaging observati
+    2006  2006A&A...459..955L     New constrains on Gliese 86 B. VLT near infrared coronographic imaging survey of planetary
+    2006  2006ISSIR...6..105L     Debris Disks: Observations and models
+[Long] (34 in-atlas records) — 14 candidates:
+    2024  2406.18657              Exploring the Complex Ionization Environment of the Turbulent DM Tau Disk
+    2023  2023PASP..135k4505L     Large-field Astronomical Image Restoration and Superresolution Reconstruction using Deep L
+    2023  2303.05559              Improved Companion Mass Limits for Sirius A with Thermal Infrared Coronagraphy Using a Vec
+    2022  2209.05535              ALMA Detection of Dust Trapping around Lagrangian Points in the LkCa 15 Disk
+    2022  2203.16735              Gas Disk Sizes from CO Line Observations: A Test of Angular Momentum Evolution
+    2021  2021AJ....161..166L     Unlocking Starlight Subtraction in Full-data-rate Exoplanet Imaging by Efficiently Updatin
+    2021  2102.06338              Exploring HNC and HCN line emission as probes of the protoplanetary disk temperature
+    2020  2006.03120              Dual-wavelength ALMA Observations of Dust Rings in Protoplanetary Disks
+    2020  2005.09730              Hints of a Population of Solar System Analog Planets from ALMA
+    2018  1806.04826              An ALMA Survey of Faint Disks in the Chamaeleon I Star-forming Region: Why Are Some Class 
+    2018  1804.00529              Differences in the Gas and Dust Distribution in the Transitional Disk of a Sun-like Young 
+    2018  2018PhDT.......182L     Investigating the Physical Properties of Circumstellar Disks Using High Angular Resolution
+[Marino] (30 in-atlas records) — 5 candidates:
+    2026  2601.11711              The ALMA survey to Resolve exoKuiper belt Substructures (ARKS): VIII. A dust arc and non-K
+    2020  1909.09158              Searching for a dusty cometary belt around TRAPPIST-1 with ALMA
+    2018  2018PhDT.......356M     Exocomets at Large Orbital Radii and Their Inward Transport in Debris Discs
+    2015  1505.06732              Compact Dust Concentration in the MWC 758 Protoplanetary Disk
+    2015  1412.4632               Shadows Cast by a Warp in the HD 142527 Protoplanetary Disk
+[Matra] (74 in-atlas records) — 3 candidates:
+    2019  1902.04081              Kuiper Belt-like Hot and Cold Populations of Planetesimal Inclinations in the β Pictoris B
+    2015  1412.2757               CO mass upper limits in the Fomalhaut ring - the importance of NLTE excitation in debris d
+    2012  1210.7679               A new Herschel view of the young star T54: not a transitional disk?
+[Milli] (5 in-atlas records) — 7 candidates:
+    2017  1701.00750              Near-infrared scattered light properties of the HR 4796 A dust ring. A measured scattering
+    2016  1701.00836              Adaptive Optics in High-Contrast Imaging
+    2015  1407.2539               New constraints on the dust surrounding HR 4796A
+    2014  2014PhDT.......628M     Characterisation of debris discs in direct imaging and high angular resoltion : the perfor
+    2014  1405.2536               Very deep images of the innermost regions of the β Pictoris debris disc at L'
+    2013  1306.1006               Prospects of detecting the polarimetric signature of the Earth-mass planet α Centauri B b 
+    2012  1207.5909               Impact of angular differential imaging on circumstellar disk images
+[Nielsen] (21 in-atlas records) — 7 candidates:
+    2025  2508.21627              How stellar mass and disc size shape the formation and migration of super-Earths
+    2025  2502.10186              A primordial radius valley as a consequence of planet formation
+    2023  2308.15504              Planet formation throughout the Milky Way. Planet populations in the context of Galactic c
+    2020  1911.11273              The Gemini Planet Imager Exoplanet Survey: Dynamical Mass of the Exoplanet β Pictoris b fr
+    2017  1705.06851              Evidence That the Directly Imaged Planet HD 131399 Ab Is a Background Star
+    2011  2011PhDT.........3N     On the road to imaging extrasolar planets: Null results, other discoveries along the way, 
+    2008  0706.4331               Constraints on Extrasolar Planet Populations from VLT NACO/SDI and MMT SDI and Direct Adap
+[Ohashi] (18 in-atlas records) — 7 candidates:
+    2025  2502.06030              Observationally derived magnetic field strength and 3D components in the HD 142527 disk
+    2022  2206.07799              Formation of Dust Clumps with Sub-Jupiter Mass and Cold Shadowed Region in Gravitationally
+    2022  2201.07334              Misaligned Rotations of the Envelope, Outflow, and Disks in the Multiple Protostellar Syst
+    2021  2012.04082              Ring Formation by Coagulation of Dust Aggregates in the Early Phase of Disk Evolution arou
+    2020  2007.15014              Solving Grain Size Inconsistency between ALMA Polarization and VLA Continuum in the Ophiuc
+    2018  1807.10776              Two Different Grain Size Distributions within the Protoplanetary Disk around HD 142527 Rev
+    2008  2008Ap&SS.313..101O     Observational signature of planet formation: The ALMA view
+[Olofsson] (17 in-atlas records) — 10 candidates:
+    2026  2026A&A...710A.265O     The ALMA survey to Resolve exoKuiper belt Substructures (ARKS): XI. Gas-dust interactions 
+    2022  2202.08313              The vertical structure of debris discs and the impact of gas
+    2013  1310.0834               The Herschel/PACS view of disks around low-mass stars in Chamaleon-I
+    2013  1302.2622               Sculpting the disk around T Chamaeleontis: an interferometric view
+    2013  1301.6876               The twofold debris disk around HD 113766 A. Warm and cold dust as seen with VLTI/MIDI and 
+    2012  1208.0155               Polarimetric coronagraphy of BD + 31°643
+    2012  1204.2374               Transient dust in warm debris disks. Detection of Fe-rich olivine grains
+    2011  1102.4976               Warm dust resolved in the cold disk around T Chamaeleontis with VLTI/AMBER
+    2010  1007.0644               C2D Spitzer-IRS spectra of disks around T Tauri stars. V. Spectral decomposition
+    2009  0908.4153               C2D Spitzer-IRS spectra of disks around T Tauri stars. IV. Crystalline silicates
+[Perrin] (11 in-atlas records) — 4 candidates:
+    2015  2015psps.book..244P     Imaging of protoplanetary and debris disks
+    2008  0804.1550               The IRCAL Polarimeter: Design, Calibration, and Data Reduction for an Adaptive Optics Imag
+    2006  2006PhDT.......203P     A high angular resolution survey of circumstellar dust around Herbig Ae/Be stars
+    2004  astro-ph/0402615        Laser Guide Star Adaptive Optics Imaging Polarimetry of Herbig Ae/Be Stars
+[Ren] (106 in-atlas records) — 9 candidates:
+    2026  2026SoPh..301...10R     Recovering SHARP Magnetic Parameters from Solar Vector Magnetograms with Swin Transformer
+    2023  2301.07714              Planet search with the Keck/NIRC2 vortex coronagraph in the M<SUB>s</SUB> band for Vega
+    2019  2019PASP..131k5004R     A Host-star Calibration Based Polarimeter for Earth-like Exoplanet Imaging
+    2019  2019PhDT........86R     Detection and Characterization of Circumstellar Disks in Scattered Light
+    2012  2012ApJ...753...99R     Speckle Noise Subtraction and Suppression with Adaptive Optics Coronagraphic Imaging
+    2011  2011PASP..123..341R     A Coronagraph Using a Liquid Crystal Array and a Deformable Mirror for Active Apodizing an
+    2010  1510.03796              A Transmission-Filter Coronagraph: Design and Test
+    2007  2007PASP..119.1063R     A Coronagraph Based on Stepped-Transmission Filters
+    2005  2005ApOpt..44.7070R     Symmetric nulling coronagraph based on a rotational shearing interferometer
+[Rich] (25 in-atlas records) — 2 candidates:
+    2021  2104.07821              Investigating the Relative Gas and Small Dust Grain Surface Heights in Protoplanetary Disk
+    2019  2019PhDT.......114R     The unique geometries and illuminations of protoplanetary disks and their potential exopla
+[Schneider] (18 in-atlas records) — 18 candidates:
+    2025  2511.21800              Globules and pillars in Cygnus X: IV. Velocity-resolved [OI] 63 μm map of a peculiar propl
+    2021  2021A&A...655A..50S     Drag forces on porous aggregates in protoplanetary disks
+    2021  2109.03589              How drifting and evaporating pebbles shape giant planets. II. Volatiles and refractories i
+    2021  2105.13267              How drifting and evaporating pebbles shape giant planets. I. Heavy element content and atm
+    2021  2103.03609              Experimental study of clusters in dense granular gas and implications for the particle sto
+    2020  2006.00573              Discovery of a jet from the single HAe/Be star HD 100546
+    2019  1912.01714              Laboratory Experiments on the Motion of Dense Dust Clouds in Protoplanetary Disks
+    2018  1809.02834              Surface waves in protoplanetary disks induced by outbursts: Concentric rings in scattered 
+    2018  1803.00614              Multi-epoch monitoring of the AA Tauri-like star V 354 Mon. Indications for a low gas-to-d
+    2017  1703.09519              Measuring the Radius and Mass of Planet Nine
+    2017  1703.03774              A 2MASS/AllWISE Search for Extremely Red L Dwarfs: The Discovery of Several Likely L Type 
+    2012  1208.4517               Identifying nearby, Young, Late-type Stars by Means of their Circumstellar Disks
+[Teague] (15 in-atlas records) — 13 candidates:
+    2025  2509.09450              A Radially Resolved Magnetic Field Threading the Disk of TW Hya
+    2022  2208.04837              Mapping the Complex Kinematic Substructure in the TW Hya Disk
+    2022  2204.06691              Gas and Dust Shadows in the TW Hydrae Disk
+    2021  2021JOSS....6.3827T     disksurf: Extracting the 3D Structure of Protoplanetary Disks
+    2021  2109.06218              Molecules with ALMA at Planet-forming Scales (MAPS). XVIII. Kinematic Substructures in the
+    2019  1910.06980              Meridional flows in the disk around a young star
+    2019  1910.01532              Spiral Structure in the Gas Disk of TW Hya
+    2019  2019JOSS....4.1632T     GoFish: Fishing for Line Observations in Protoplanetary Disks
+    2019  2019JOSS....4.1220T     eddy: Extracting Protoplanetary Disk Dynamics with Python
+    2018  1808.01768              Temperature, Mass, and Turbulence: A Spatially Resolved Multiband Non-LTE Analysis of CS i
+    2018  1805.10290              A Kinematical Detection of Two Embedded Jupiter-mass Planets in HD 163296
+    2017  1702.02147              A Surface Density Perturbation in the TW Hydrae Disk at 95 au Traced by Molecular Emission
+[Uyama] (15 in-atlas records) — 4 candidates:
+    2023  2302.13354              Direct Imaging Explorations for Companions around Mid-Late M Stars from the Subaru/IRD Str
+    2022  2201.11911              Monitoring Inner Regions in the RY Tau Jet
+    2020  2008.10780              High-contrast Hα imaging with Subaru/SCExAO + VAMPIRES
+    2017  1707.06337              Constraining Accretion Signatures of Exoplanets in the TW Hya Transitional Disk
+[Valegard] (26 in-atlas records) — 1 candidates:
+    2022  2209.01969              Disk Evolution Study Through Imaging of Nearby Young Stars (DESTINYS): Scattered light det
+[Villenave] (33 in-atlas records) — 2 candidates:
+    2025  2503.05872              Turbulence in protoplanetary disks: A systematic analysis of dust settling in 33 disks
+    2021  2106.13847              Probing protoplanetary disk evolution in the Chamaeleon II region
+[Wagner] (18 in-atlas records) — 4 candidates:
+    2022  2112.02168              The Scorpion Planet Survey: Wide-orbit Giant Planets Around Young A-type Stars
+    2020  2020PhDT.........4W     Imaging Forming Planetary Systems Towards Imaging Exo-Earths
+    2018  1801.03900              The Orbit of the Companion to HD 100453A: Binary-driven Spiral Arms in a Protoplanetary Di
+    2015  1410.8606               Variability of Disk Emission in Pre-main Sequence and Related Stars. III. Exploring Struct
+[Xie] (36 in-atlas records) — 6 candidates:
+    2025  2410.00136              JWST Captures a Sudden Stellar Outburst and Inner Disk Wall Destruction
+    2023  2310.13205              Water-rich Disks around Late M Stars Unveiled: Exploring the Remarkable Case of Sz 114
+    2013  2013AcASn..54...79X     Planetary Formation and Dynamics in Binary Systems
+    2013  1204.4087               On the Unusual Gas Composition in the β Pictoris Debris Disk
+    2010  1009.4636               From Dust to Planetesimal: The Snowball Phase?
+    2010  1001.2614               Planetesimal Accretion in Binary Systems: Could Planets Form Around α Centauri B?
+[Zhang] (21 in-atlas records) — 50 candidates:
+    2026  2026GeCoA.419...64Z     Sustained recycling of anorthite-rich inclusions by outer-disk chondrule heating events
+    2025  2507.16194              TOI-880 is an Aligned, Coplanar, Multiplanet System
+    2025  2408.09614              Discovery of a Jupiter Analog Misaligned to the Inner Planetary System in HD 73344
+    2025  2407.14594              Three-dimensional maps of the interstellar dust extinction curve within the Milky Way gala
+    2024  2404.15423              Chemistry in Protoplanetary Disks
+    2024  2404.05608              Thermal Structure Determines Kinematics: Vertical Shear Instability in Stellar Irradiated 
+    2024  2024PNAS..12106995Z     Compositions of iron-meteorite parent bodies constrain the structure of the protoplanetary
+    2024  2024PhDT........25Z     Understanding Disk Substructures with 3D Self-Consistent Thermodynamics
+    2024  2024GeCoA.371..214Z     Comet 81P/Wild 2 dust impactors of Stardust turnip-like tracks analogous to cluster IDPs
+    2024  2310.11757              The Dependence of the Structure of Planet-opened Gaps in Protoplanetary Disks on Radiative
+    2023  2023ApJ...956L..25Z     Ice Sublimation in Planetesimals Formed at the Outward Migrating Snowline
+    2023  2305.03862              Substructures in Compact Disks of the Taurus Star-forming Region
+
+total candidates: 298 — VIEW figures before ingesting (titles lie); record dispositions in paper_finder_state.json

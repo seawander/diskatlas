@@ -118,6 +118,28 @@
    },
    "file": "images/dl-tau/dl-tau_sphere-ks-qphi.png",
    "epoch": "2021-12-04"
+  },
+  {
+   "image_id": "dl-tau_alma-band3-2.9mm",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 3",
+   "wavelength_um": 2900,
+   "wavelength_label": "2.9 mm (Band 3) continuum; resolved rings",
+   "technique": "interferometry",
+   "survey": null,
+   "credit": "Long et al. 2020, Fig. (Band 3 panel, crop)",
+   "hires_url": null,
+   "paper": {
+    "first_author": "Long",
+    "year": 2020,
+    "title": "Dual-wavelength ALMA Observations of Dust Rings in Protoplanetary Disks",
+    "journal": "ApJ 898, 36",
+    "arxiv": "2006.03120",
+    "bibcode": "2020ApJ...898...36L"
+   },
+   "file": "images/dl-tau/dl-tau_alma-band3-2.9mm.png",
+   "epoch": "2019-07"
   }
  ],
  "notes": null,

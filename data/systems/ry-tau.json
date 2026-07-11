@@ -184,6 +184,28 @@
    },
    "file": "images/ry-tau/ry-tau_sphere-rdi-xie22.png",
    "epoch": "2015-2019"
+  },
+  {
+   "image_id": "ry-tau_sphere-zimpol-iband",
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "ZIMPOL",
+   "wavelength_um": 0.79,
+   "wavelength_label": "I' band 0.79 um (SPHERE/ZIMPOL pol. intensity; disk-wind horns)",
+   "technique": "PDI",
+   "survey": null,
+   "credit": "Valegård et al. 2022, Fig. (ZIMPOL I' panel, crop; archival)",
+   "hires_url": null,
+   "paper": {
+    "first_author": "Valegard",
+    "year": 2022,
+    "title": "DESTINYS: Scattered-light detection of a possible disk wind in RY Tau",
+    "journal": "A&A 668, A25",
+    "arxiv": "2209.01969",
+    "bibcode": "2022A&A...668A..25V"
+   },
+   "file": "images/ry-tau/ry-tau_sphere-zimpol-iband.png",
+   "epoch": "2017"
   }
  ],
  "notes": null,
