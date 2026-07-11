@@ -1088,6 +1088,48 @@
     "bibcode": "2024ApJ...975...40A"
    },
    "epoch": "2023"
+  },
+  {
+   "image_id": "beta-pic_stis-heap00-normalized",
+   "type": "disk_scattered",
+   "facility": "HST",
+   "instrument": "STIS",
+   "wavelength_um": 0.58,
+   "wavelength_label": "STIS coronagraphy (normalized flux; edge-on disk warp; original STIS imaging)",
+   "technique": "coronagraphy",
+   "survey": null,
+   "file": "images/beta-pic/beta-pic_stis-heap00-normalized.png",
+   "credit": "Heap et al. 2000, Fig. 8 (crop)",
+   "paper": {
+    "first_author": "Heap",
+    "year": 2000,
+    "title": "Space Telescope Imaging Spectrograph Coronagraphic Observations of beta Pictoris",
+    "journal": "ApJ 539, 435",
+    "arxiv": "astro-ph/9911363",
+    "bibcode": "2000ApJ...539..435H"
+   },
+   "epoch": "1997"
+  },
+  {
+   "image_id": "beta-pic_stis-heap00-logflux",
+   "type": "disk_scattered",
+   "facility": "HST",
+   "instrument": "STIS",
+   "wavelength_um": 0.58,
+   "wavelength_label": "STIS coronagraphy (log flux; full disk extent; original STIS imaging)",
+   "technique": "coronagraphy",
+   "survey": null,
+   "file": "images/beta-pic/beta-pic_stis-heap00-logflux.png",
+   "credit": "Heap et al. 2000, Fig. 8 (crop)",
+   "paper": {
+    "first_author": "Heap",
+    "year": 2000,
+    "title": "Space Telescope Imaging Spectrograph Coronagraphic Observations of beta Pictoris",
+    "journal": "ApJ 539, 435",
+    "arxiv": "astro-ph/9911363",
+    "bibcode": "2000ApJ...539..435H"
+   },
+   "epoch": "1997"
   }
  ],
  "notes": "Original 1984 discovery image (Smith & Terrile, Las Campanas coronagraph) predates arXiv; add if desired.",
