@@ -1,6 +1,6 @@
 {
  "_doc": "Per-survey ingestion state. entries/coords/images: done|partial|todo. Update on every ingest.",
- "updated": "2026-07-11: NEW SYSTEM 114-426 (giant edge-on Orion silhouette disk = COUP 419) with JWST/NIRCam 12-band gallery split into per-filter records (F115W-F470N, incl. F187N silhouette + F300M water-ice) + RGB composite, Ballering 2025 program 1256, epoch 2022 (2412.04356). 477 systems, 1786 records. Agent Y (classic HST imaging papers) still in flight.",
+ "updated": "2026-07-11: 114-426 +12 classic HST images (agent Y, chasing Ballering intro refs): McCaughrean 1998 NICMOS F187N/F110W/F160W/POL-2um (1997), Miotello 2012 WFPC2 F336W + ACS F435W/F555W/F658N/F775W/F850LP (2004-2005), Throop 2001 re-displays WFPC2 F656N Halpha 1999 (Bally 2000 data) + NICMOS F187N Paalpha 1998. Now 25 imgs (HST 1997-2005 -> JWST 2022). 477 systems, 1801 records, 0 err.",
  "surveys": {
   "DSHARP": {
    "entries": "done",

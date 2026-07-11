@@ -289,6 +289,258 @@
     "bibcode": "2025ApJ...979..110B"
    },
    "epoch": "2022"
+  },
+  {
+   "image_id": "114-426_nicmos-f187n-mcc98",
+   "type": "disk_scattered",
+   "facility": "HST",
+   "instrument": "NICMOS",
+   "wavelength_um": 1.87,
+   "wavelength_label": "F187N Paalpha 1.87 um (silhouette)",
+   "technique": "other",
+   "survey": null,
+   "file": "images/114-426/114-426_nicmos-f187n-mcc98.png",
+   "credit": "McCaughrean et al. 1998, Fig. 1b (crop)",
+   "paper": {
+    "first_author": "McCaughrean",
+    "year": 1998,
+    "title": "High-Resolution Near-Infrared Imaging of the Orion 114-426 Silhouette Disk",
+    "journal": "ApJ 492, L157",
+    "arxiv": "astro-ph/9710371",
+    "bibcode": "1998ApJ...492L.157M"
+   },
+   "epoch": "1997-04-19"
+  },
+  {
+   "image_id": "114-426_nicmos-f110w-mcc98",
+   "type": "disk_scattered",
+   "facility": "HST",
+   "instrument": "NICMOS",
+   "wavelength_um": 1.1,
+   "wavelength_label": "F110W 0.8-1.4 um (scattered-light lobes)",
+   "technique": "other",
+   "survey": null,
+   "file": "images/114-426/114-426_nicmos-f110w-mcc98.png",
+   "credit": "McCaughrean et al. 1998, Fig. 2b (crop)",
+   "paper": {
+    "first_author": "McCaughrean",
+    "year": 1998,
+    "title": "High-Resolution Near-Infrared Imaging of the Orion 114-426 Silhouette Disk",
+    "journal": "ApJ 492, L157",
+    "arxiv": "astro-ph/9710371",
+    "bibcode": "1998ApJ...492L.157M"
+   },
+   "epoch": "1997-04-19"
+  },
+  {
+   "image_id": "114-426_nicmos-f160w-mcc98",
+   "type": "disk_scattered",
+   "facility": "HST",
+   "instrument": "NICMOS",
+   "wavelength_um": 1.6,
+   "wavelength_label": "F160W 1.4-1.8 um (scattered-light lobes)",
+   "technique": "other",
+   "survey": null,
+   "file": "images/114-426/114-426_nicmos-f160w-mcc98.png",
+   "credit": "McCaughrean et al. 1998, Fig. 2c (crop)",
+   "paper": {
+    "first_author": "McCaughrean",
+    "year": 1998,
+    "title": "High-Resolution Near-Infrared Imaging of the Orion 114-426 Silhouette Disk",
+    "journal": "ApJ 492, L157",
+    "arxiv": "astro-ph/9710371",
+    "bibcode": "1998ApJ...492L.157M"
+   },
+   "epoch": "1997-04-19"
+  },
+  {
+   "image_id": "114-426_nicmos-pol2um-mcc98",
+   "type": "disk_scattered",
+   "facility": "HST",
+   "instrument": "NICMOS",
+   "wavelength_um": 2.0,
+   "wavelength_label": "POL-L 1.9-2.1 um intensity (scattered-light lobes)",
+   "technique": "polarimetry",
+   "survey": null,
+   "file": "images/114-426/114-426_nicmos-pol2um-mcc98.png",
+   "credit": "McCaughrean et al. 1998, Fig. 2d (crop)",
+   "paper": {
+    "first_author": "McCaughrean",
+    "year": 1998,
+    "title": "High-Resolution Near-Infrared Imaging of the Orion 114-426 Silhouette Disk",
+    "journal": "ApJ 492, L157",
+    "arxiv": "astro-ph/9710371",
+    "bibcode": "1998ApJ...492L.157M"
+   },
+   "epoch": "1997-04-19"
+  },
+  {
+   "image_id": "114-426_wfpc2-f336w-mio12",
+   "type": "disk_scattered",
+   "facility": "HST",
+   "instrument": "WFPC2",
+   "wavelength_um": 0.34,
+   "wavelength_label": "F336W U-band (silhouette)",
+   "technique": "other",
+   "survey": null,
+   "file": "images/114-426/114-426_wfpc2-f336w-mio12.png",
+   "credit": "Miotello et al. 2012, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Miotello",
+    "year": 2012,
+    "title": "Evidence of Photoevaporation and Spatial Variation of Grain Sizes in the Orion 114-426 Protoplanetary Disk",
+    "journal": "ApJ 757, 78",
+    "arxiv": "1208.2717",
+    "bibcode": "2012ApJ...757...78M"
+   },
+   "epoch": "2004-10"
+  },
+  {
+   "image_id": "114-426_acs-f435w-mio12",
+   "type": "disk_scattered",
+   "facility": "HST",
+   "instrument": "ACS",
+   "wavelength_um": 0.43,
+   "wavelength_label": "F435W B-band (silhouette)",
+   "technique": "other",
+   "survey": null,
+   "file": "images/114-426/114-426_acs-f435w-mio12.png",
+   "credit": "Miotello et al. 2012, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Miotello",
+    "year": 2012,
+    "title": "Evidence of Photoevaporation and Spatial Variation of Grain Sizes in the Orion 114-426 Protoplanetary Disk",
+    "journal": "ApJ 757, 78",
+    "arxiv": "1208.2717",
+    "bibcode": "2012ApJ...757...78M"
+   },
+   "epoch": "2005-04"
+  },
+  {
+   "image_id": "114-426_acs-f555w-mio12",
+   "type": "disk_scattered",
+   "facility": "HST",
+   "instrument": "ACS",
+   "wavelength_um": 0.55,
+   "wavelength_label": "F555W V-band (silhouette)",
+   "technique": "other",
+   "survey": null,
+   "file": "images/114-426/114-426_acs-f555w-mio12.png",
+   "credit": "Miotello et al. 2012, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Miotello",
+    "year": 2012,
+    "title": "Evidence of Photoevaporation and Spatial Variation of Grain Sizes in the Orion 114-426 Protoplanetary Disk",
+    "journal": "ApJ 757, 78",
+    "arxiv": "1208.2717",
+    "bibcode": "2012ApJ...757...78M"
+   },
+   "epoch": "2005-04"
+  },
+  {
+   "image_id": "114-426_acs-f658n-mio12",
+   "type": "disk_scattered",
+   "facility": "HST",
+   "instrument": "ACS",
+   "wavelength_um": 0.658,
+   "wavelength_label": "F658N Halpha (silhouette)",
+   "technique": "other",
+   "survey": null,
+   "file": "images/114-426/114-426_acs-f658n-mio12.png",
+   "credit": "Miotello et al. 2012, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Miotello",
+    "year": 2012,
+    "title": "Evidence of Photoevaporation and Spatial Variation of Grain Sizes in the Orion 114-426 Protoplanetary Disk",
+    "journal": "ApJ 757, 78",
+    "arxiv": "1208.2717",
+    "bibcode": "2012ApJ...757...78M"
+   },
+   "epoch": "2005-04"
+  },
+  {
+   "image_id": "114-426_acs-f775w-mio12",
+   "type": "disk_scattered",
+   "facility": "HST",
+   "instrument": "ACS",
+   "wavelength_um": 0.775,
+   "wavelength_label": "F775W I-band (silhouette + scattered lobe)",
+   "technique": "other",
+   "survey": null,
+   "file": "images/114-426/114-426_acs-f775w-mio12.png",
+   "credit": "Miotello et al. 2012, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Miotello",
+    "year": 2012,
+    "title": "Evidence of Photoevaporation and Spatial Variation of Grain Sizes in the Orion 114-426 Protoplanetary Disk",
+    "journal": "ApJ 757, 78",
+    "arxiv": "1208.2717",
+    "bibcode": "2012ApJ...757...78M"
+   },
+   "epoch": "2005-04"
+  },
+  {
+   "image_id": "114-426_acs-f850lp-mio12",
+   "type": "disk_scattered",
+   "facility": "HST",
+   "instrument": "ACS",
+   "wavelength_um": 0.85,
+   "wavelength_label": "F850LP z-band (silhouette + scattered lobe)",
+   "technique": "other",
+   "survey": null,
+   "file": "images/114-426/114-426_acs-f850lp-mio12.png",
+   "credit": "Miotello et al. 2012, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Miotello",
+    "year": 2012,
+    "title": "Evidence of Photoevaporation and Spatial Variation of Grain Sizes in the Orion 114-426 Protoplanetary Disk",
+    "journal": "ApJ 757, 78",
+    "arxiv": "1208.2717",
+    "bibcode": "2012ApJ...757...78M"
+   },
+   "epoch": "2005-04"
+  },
+  {
+   "image_id": "114-426_wfpc2-f656n-bally00",
+   "type": "disk_scattered",
+   "facility": "HST",
+   "instrument": "WFPC2",
+   "wavelength_um": 0.656,
+   "wavelength_label": "F656N Halpha (silhouette)",
+   "technique": "other",
+   "survey": null,
+   "file": "images/114-426/114-426_wfpc2-f656n-bally00.png",
+   "credit": "Bally et al. 2000 (WFPC2 Halpha), as displayed in Throop et al. 2001 Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Bally",
+    "year": 2000,
+    "title": "Disks, Microjets, Windblown Bubbles, and Outflows in the Orion Nebula",
+    "journal": "AJ 119, 2919",
+    "arxiv": null,
+    "bibcode": "2000AJ....119.2919B"
+   },
+   "epoch": "1999-01-11"
+  },
+  {
+   "image_id": "114-426_nicmos-f187n-throop01",
+   "type": "disk_scattered",
+   "facility": "HST",
+   "instrument": "NICMOS",
+   "wavelength_um": 1.87,
+   "wavelength_label": "F187N Paalpha (silhouette; distinct 1998 epoch)",
+   "technique": "other",
+   "survey": null,
+   "file": "images/114-426/114-426_nicmos-f187n-throop01.png",
+   "credit": "McCaughrean et al. 2000 (NICMOS Paalpha), as displayed in Throop et al. 2001 Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Throop",
+    "year": 2001,
+    "title": "Evidence for Dust Grain Growth in Young Circumstellar Disks",
+    "journal": "Science 292, 1686",
+    "arxiv": "astro-ph/0104445",
+    "bibcode": "2001Sci...292.1686T"
+   },
+   "epoch": "1998-02-26"
   }
  ],
  "notes": "Giant edge-on silhouette disk in the Orion Nebula (~1000 au), seen in absorption against the nebular background with scattered-light lobes. JWST/NIRCam 12-band imaging (Ballering et al. 2024, GTO program 1256) reveals the 3 um water-ice absorption. Distance = Orion Nebula Cluster (~414 pc). Added 2026-07-11.",
