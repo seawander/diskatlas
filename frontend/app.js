@@ -937,7 +937,9 @@ if (typeof window !== "undefined") (function () {
       swiping = false; mode = null;
     }, { passive: true });
   })();
-  /* swipe DOWN from the panel header (when scrolled to top) to dismiss it */
+  /* swipe DOWN anywhere on the card to dismiss it — but only when it's scrolled
+     to the top (otherwise a down-swipe just scrolls the content), and not when
+     the gesture starts on a zoomed image (that pans the image instead) */
   (function panelDismiss() {
     const detail = document.getElementById("detail");
     if (!detail) return;
@@ -946,14 +948,14 @@ if (typeof window !== "undefined") (function () {
       if (e.touches.length !== 1) { armed = false; return; }
       const t = e.touches[0]; y0 = t.clientY; x0 = t.clientX;
       const box = document.getElementById("d_imgbox");
-      const imgTop = box ? box.getBoundingClientRect().top : Infinity;
-      armed = detail.scrollTop <= 0 && t.clientY < imgTop;   // grabbing the header, panel at top
+      const onZoomedImg = box && box.contains(e.target) && getComputedStyle(box).touchAction === "none";
+      armed = detail.scrollTop <= 0 && !onZoomedImg;
     }, { passive: true });
     detail.addEventListener("touchend", e => {
       if (!armed || e.changedTouches.length !== 1) return;
       armed = false;
       const t = e.changedTouches[0], dy = t.clientY - y0, dx = t.clientX - x0;
-      if (dy > 80 && dy > Math.abs(dx) * 1.5) closeDetail();
+      if (dy > 90 && dy > Math.abs(dx) * 1.5) closeDetail();   // clear downward swipe
     }, { passive: true });
   })();
 
