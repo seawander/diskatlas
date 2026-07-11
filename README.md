@@ -109,23 +109,30 @@ python3 parse_simbad.py && python3 extract_sources.py \
 host — but SIMBAD/ADS/archive queries still need the working session online, so treat
 internet as a hard prerequisite for contributing.)
 
-## Current contents (2026-07-10 build) / 当前规模
+## Current contents (2026-07-11 build) / 当前规模
 
-**468 systems (incl. quasar hosts, embedded Class 0/I protostars, Orion proplyds and
-evolved-star envelopes) · 1500 image records · all with local panels · 68 imaged-companion
+**483 systems (incl. quasar hosts, embedded Class 0/I protostars, Orion proplyds and
+evolved-star envelopes) · 1813 image records · all with local panels · 87 imaged-companion
 hosts · coordinates for every system (SIMBAD idents coordinate-verified) · 0 validation
-errors / 0 warnings · every paper block carries an ADS-verified bibcode · 92% of records
+errors / 0 warnings · every paper block carries an ADS-verified bibcode · ~94% of records
 carry the observation epoch (never the publication year), each with machine-readable
 provenance.**
 `python3 backend/build.py` prints the canonical live stats — trust its output over any number
-written in prose. Major 2026-07-06/07 expansions: a full instrument-level sweep over every
-system (44 parallel agents), the Tamura+2016 SEEDS Fig. 3 completion, Hom+2024 GPI total
-intensity, Ren+2023 Ks Qphi completion, Xie+2022 RDI gallery, MAPS CO line maps, pre-ALMA
-mm classics (SMA/PdBI/CARMA/OVRO/BIMA), far-IR resolved images (Herschel/Spitzer/JCMT/CSO —
-scope extension), eDisk + AGE-PRO + SPHERE NIR census + σ Orionis survey batches, ~25
-imaged-companion hosts recovered by citation chasing (PZ Tel B, VHS J1256 b, HD 33632 Ab,
-HIP 21152 B, …), eruptive stars (Z CMa, V960 Mon, EX Lup), β Pic d, WISPIT 2 planets, and
-external-catalog cross-checks (Wikipedia list + circumstellardisks.org).
+written in prose. Recent 2026-07-10/11 additions: a deep Orion silhouette/proplyd dive
+(giant disk 114-426 in JWST/NIRCam 12-band, the ground-based-AO silhouette 218-354,
+Ricci 2008 ACS proplyds, McCaughrean 1998 HST classics), V883 Ori (landmark FUor
+water-snow-line disk, +5 ALMA bands), PDS 70 (+SPHERE) and the BHR 71 IRS1 JWST jet, a
+Herschel PACS debris-ring sweep (β Pic, HR 8799, AU Mic, Vega, η Crv …), the SONS
+JCMT/SCUBA-2 survey (new observatory), and systematic wavelength / epoch / multi-panel
+audit burn-downs that read every figure of every atlas paper for missed bands and
+companions. Earlier 2026-07-06/07 expansions: a full instrument-level sweep over every
+system (44 parallel agents), Tamura+2016 SEEDS Fig. 3, Hom+2024 GPI total intensity,
+Ren+2023 Ks Qphi, Xie+2022 RDI gallery, MAPS CO line maps, pre-ALMA mm classics
+(SMA/PdBI/CARMA/OVRO/BIMA), far-IR resolved images (Herschel/Spitzer/JCMT/CSO), eDisk +
+AGE-PRO + SPHERE NIR census + σ Orionis batches, ~25 imaged-companion hosts recovered by
+citation chasing (PZ Tel B, VHS J1256 b, HD 33632 Ab, HIP 21152 B, …), eruptive stars
+(Z CMa, V960 Mon, EX Lup), β Pic d, WISPIT 2 planets, and external-catalog cross-checks
+(Wikipedia list + circumstellardisks.org).
 
 **Frontend (2026-07-09):** three views — **Sky**, **Coverage matrix**, **Tonight**
 (observability snapshot + per-target **airmass.org** night-chart links per site/date, CSV).
