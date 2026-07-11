@@ -36,6 +36,25 @@ down). Now:
 3. **User-directed requests** ("add paper X, crop figure Y") outrank everything.
 4. On demand: `system_audit.py --systems <ids>` for per-target completeness
    (good for HD/HR/IRAS names; short names like "T Tau" collide in ADS).
+5. **Quarterly (or when a name recurs in requests)**: `author_audit.py` — the
+   THIRD discovery axis (first-author ADS sweep). The citation snowball and the
+   14-day fresh_papers window both miss the 2015–2024 output of prolific
+   in-atlas authors; the 2026-07-10 run flagged 301 candidates (triage queue:
+   `data/paper_finder/author_audit_*.txt`). The maintainer's own surname and
+   close collaborators (Ren, Xie, Olofsson, Milli, Benisty, …) are hardcoded in
+   the tool's EXTRA list — sweep them FIRST.
+
+**Ingestion-time completeness rules** (each learned from a user correction —
+doing it right the first time is the cheapest recall fix):
+- Ingest **every qualifying panel** of a figure the first time (one record per
+  band/epoch/reduction); "Fig. 1a-b" in a credit line is a split violation.
+- Multi-epoch figures (pattern-motion papers): **every epoch is a record**.
+- Multi-reduction panels of ONE dataset get separate records (PDI/ADI/RDI in
+  `technique`) — unless annotations straddle the panels (then one record + note).
+- Non-detection panels are NOT records, whatever the user's panel list says —
+  check the text ("cannot be recovered" ⇒ skip, cite the reason).
+- When ingesting any paper, immediately check the SAME author's adjacent papers
+  on the same target (the SAO 206462 motion paper had a 2021 predecessor).
 
 ## The three ledgers (do NOT create a fourth)
 
