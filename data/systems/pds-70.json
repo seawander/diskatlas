@@ -393,6 +393,90 @@
    },
    "file": "images/pds-70/pds-70_nircam-f187n.png",
    "epoch": "2023-03-08"
+  },
+  {
+   "image_id": "pds-70_sphere-irdis-dpi-h-2024",
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS DPI",
+   "wavelength_um": 1.63,
+   "wavelength_label": "H band 1.63 um (total intensity from DPI; disk + planet b + inner clumps N/S)",
+   "technique": "PDI",
+   "survey": null,
+   "file": "images/pds-70/pds-70_sphere-irdis-dpi-h-2024.png",
+   "credit": "Balsalobre-Ruza et al. 2026, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Balsalobre-Ruza",
+    "year": 2026,
+    "title": "Two inner dust clumps in PDS 70. A third protoplanet traced by trojan dust",
+    "journal": "A&A (in press)",
+    "arxiv": "2606.26381",
+    "bibcode": "2026arXiv260626381B"
+   },
+   "epoch": "2024-04-06"
+  },
+  {
+   "image_id": "pds-70_sphere-ifs-yjh-2025",
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "IFS",
+   "wavelength_um": 1.3,
+   "wavelength_label": "Y/J/H composite ~1.04/1.25/1.63 um (scattered light; outer disk + N/S clumps)",
+   "technique": "other",
+   "survey": null,
+   "file": "images/pds-70/pds-70_sphere-ifs-yjh-2025.png",
+   "credit": "Balsalobre-Ruza et al. 2026, Fig. 2 (YJH composite, crop)",
+   "paper": {
+    "first_author": "Balsalobre-Ruza",
+    "year": 2026,
+    "title": "Two inner dust clumps in PDS 70. A third protoplanet traced by trojan dust",
+    "journal": "A&A (in press)",
+    "arxiv": "2606.26381",
+    "bibcode": "2026arXiv260626381B"
+   },
+   "epoch": "2025-07-18"
+  },
+  {
+   "image_id": "pds-70_sphere-ifs-h-2025",
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "IFS",
+   "wavelength_um": 1.63,
+   "wavelength_label": "H band 1.63 um (IFS stack; outer ring + inner emission)",
+   "technique": "other",
+   "survey": null,
+   "file": "images/pds-70/pds-70_sphere-ifs-h-2025.png",
+   "credit": "Balsalobre-Ruza et al. 2026, Fig. F.1 (crop)",
+   "paper": {
+    "first_author": "Balsalobre-Ruza",
+    "year": 2026,
+    "title": "Two inner dust clumps in PDS 70. A third protoplanet traced by trojan dust",
+    "journal": "A&A (in press)",
+    "arxiv": "2606.26381",
+    "bibcode": "2026arXiv260626381B"
+   },
+   "epoch": "2025-07-18"
+  },
+  {
+   "image_id": "pds-70_sphere-irdis-k2-2025",
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS K2",
+   "wavelength_um": 2.25,
+   "wavelength_label": "K2 band 2.25 um (planets b & c + inner clumps N/S)",
+   "technique": "ADI",
+   "survey": null,
+   "file": "images/pds-70/pds-70_sphere-irdis-k2-2025.png",
+   "credit": "Balsalobre-Ruza et al. 2026, Fig. F.1 (crop)",
+   "paper": {
+    "first_author": "Balsalobre-Ruza",
+    "year": 2026,
+    "title": "Two inner dust clumps in PDS 70. A third protoplanet traced by trojan dust",
+    "journal": "A&A (in press)",
+    "arxiv": "2606.26381",
+    "bibcode": "2026arXiv260626381B"
+   },
+   "epoch": "2025-07-18"
   }
  ],
  "notes": "Only system with two confirmed planets caught in formation inside the disk cavity.",

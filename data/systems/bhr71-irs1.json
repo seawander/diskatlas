@@ -38,6 +38,90 @@
     "bibcode": "2023ApJ...951....8O"
    },
    "epoch": "2021 May 4"
+  },
+  {
+   "image_id": "bhr71-irs1_jwst-miri-feii-5um",
+   "type": "disk_scattered",
+   "facility": "JWST",
+   "instrument": "MIRI-MRS",
+   "wavelength_um": 5.34,
+   "wavelength_label": "[Fe II] 5.34 um integrated intensity (ionized jet)",
+   "technique": "other",
+   "survey": "JOYS",
+   "file": "images/bhr71-irs1/bhr71-irs1_jwst-miri-feii-5um.png",
+   "credit": "Tychoniec et al. 2026 (JOYS), Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Tychoniec",
+    "year": 2026,
+    "title": "JOYS: Launch and destruction of dust in protostellar jets: The case of BHR 71 IRS1",
+    "journal": "A&A 710, A370",
+    "arxiv": "2604.11904",
+    "bibcode": "2026A&A...710A.370T"
+   },
+   "epoch": "2023-07-26"
+  },
+  {
+   "image_id": "bhr71-irs1_jwst-miri-h2-8um",
+   "type": "disk_scattered",
+   "facility": "JWST",
+   "instrument": "MIRI-MRS",
+   "wavelength_um": 8.03,
+   "wavelength_label": "H2 0-0 S(4) 8.03 um integrated intensity (jet/outflow)",
+   "technique": "other",
+   "survey": "JOYS",
+   "file": "images/bhr71-irs1/bhr71-irs1_jwst-miri-h2-8um.png",
+   "credit": "Tychoniec et al. 2026 (JOYS), Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Tychoniec",
+    "year": 2026,
+    "title": "JOYS: Launch and destruction of dust in protostellar jets: The case of BHR 71 IRS1",
+    "journal": "A&A 710, A370",
+    "arxiv": "2604.11904",
+    "bibcode": "2026A&A...710A.370T"
+   },
+   "epoch": "2023-07-26"
+  },
+  {
+   "image_id": "bhr71-irs1_jwst-miri-neii-13um",
+   "type": "disk_scattered",
+   "facility": "JWST",
+   "instrument": "MIRI-MRS",
+   "wavelength_um": 12.81,
+   "wavelength_label": "[Ne II] 12.81 um integrated intensity (ionized jet)",
+   "technique": "other",
+   "survey": "JOYS",
+   "file": "images/bhr71-irs1/bhr71-irs1_jwst-miri-neii-13um.png",
+   "credit": "Tychoniec et al. 2026 (JOYS), Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Tychoniec",
+    "year": 2026,
+    "title": "JOYS: Launch and destruction of dust in protostellar jets: The case of BHR 71 IRS1",
+    "journal": "A&A 710, A370",
+    "arxiv": "2604.11904",
+    "bibcode": "2026A&A...710A.370T"
+   },
+   "epoch": "2023-07-26"
+  },
+  {
+   "image_id": "bhr71-irs1_jwst-miri-cont-20um",
+   "type": "disk_mm",
+   "facility": "JWST",
+   "instrument": "MIRI-MRS",
+   "wavelength_um": 19.6,
+   "wavelength_label": "thermal dust continuum 19.3-19.9 um (PSF-subtracted; dust in jet)",
+   "technique": "other",
+   "survey": "JOYS",
+   "file": "images/bhr71-irs1/bhr71-irs1_jwst-miri-cont-20um.png",
+   "credit": "Tychoniec et al. 2026 (JOYS), Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Tychoniec",
+    "year": 2026,
+    "title": "JOYS: Launch and destruction of dust in protostellar jets: The case of BHR 71 IRS1",
+    "journal": "A&A 710, A370",
+    "arxiv": "2604.11904",
+    "bibcode": "2026A&A...710A.370T"
+   },
+   "epoch": "2023-07-26"
   }
  ],
  "notes": "Class 0 embedded protostar (eDisk)",
