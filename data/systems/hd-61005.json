@@ -101,6 +101,27 @@
    "epoch": "2015 May 1"
   },
   {
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS",
+   "wavelength_um": 2.2,
+   "wavelength_label": "K band (ADI); swept-back wings",
+   "technique": "ADI",
+   "survey": null,
+   "credit": "Olofsson et al. 2016, Fig. 1 (IRDIS ADI K, crop)",
+   "paper": {
+    "first_author": "Olofsson",
+    "year": 2016,
+    "title": "Azimuthal asymmetries in the debris disk around HD 61005",
+    "journal": "A&A 591, A108",
+    "arxiv": "1601.07861",
+    "bibcode": "2016A&A...591A.108O"
+   },
+   "image_id": "hd-61005_sphere2016-k",
+   "file": "images/hd-61005/hd-61005_sphere-adi-k-olofsson16.png",
+   "epoch": "2015"
+  },
+  {
    "type": "disk_mm",
    "facility": "ALMA",
    "instrument": "Band 7/6",
