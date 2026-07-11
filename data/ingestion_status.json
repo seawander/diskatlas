@@ -1,6 +1,6 @@
 {
  "_doc": "Per-survey ingestion state. entries/coords/images: done|partial|todo. Update on every ingest.",
- "updated": "2026-07-11: consistency audit: audit_bibcodes clean (8 journal strings filled), crop_qa 0 MULTIPANEL / 0 missing, dup_check 0; recovered 12 missing epochs from 6 papers (Looney 2000 BIMA x6 1996-1998, CY Tau VLA 7.1mm 2010-2012, PDS 66 GPI 2014-05-15 + STIS 2011, V960 Mon ERIS 2024-01-01, NGC 1068 VLA 1994-05-09, HD 100453 NACO 2003-06-02) -> epoch coverage 94.3% (104 dateless remain). 484 systems, 1815 records, 0 err.",
+ "updated": "2026-07-11: fresh_papers batch 2 (45-day window): NEW system HH 46 IRS (ALMA Band 6 circumbinary disk, Zhang 2026); GJ 504 +JWST/NIRSpec IFU companion-b detection (Baburaj 2026, new instrument); WRAY 15-1880/rx-j1842 +SPHERE/IRDIS Qphi H (Rigliaco 2026, new PDI band). Skipped Blackman RISTRETTO sim + Roumesy re-display montage (flagged 6 SPHERE gaps for a dedicated sweep). 485 systems, 1818 records, 0 err.",
  "surveys": {
   "DSHARP": {
    "entries": "done",

@@ -78,6 +78,27 @@
    },
    "file": "images/rx-j1842-9-3532/rx-j1842-9-3532_exoalma-co.png",
    "epoch": "2022"
+  },
+  {
+   "image_id": "rx-j1842-9-3532_sphere-irdis-qphi-rigliaco26",
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS DPI",
+   "wavelength_um": 1.63,
+   "wavelength_label": "H band Qphi (pol. intensity; resolved outer ring)",
+   "technique": "PDI",
+   "survey": null,
+   "file": "images/rx-j1842-9-3532/rx-j1842-9-3532_sphere-irdis-qphi-rigliaco26.png",
+   "credit": "Rigliaco et al. 2026, Fig. (Qphi, crop)",
+   "paper": {
+    "first_author": "Rigliaco",
+    "year": 2026,
+    "title": "Analysis of the young disk around WRAY 15-1880: does it contain a primitive planet?",
+    "journal": "arXiv",
+    "arxiv": "2606.10816",
+    "bibcode": "2026arXiv260610816R"
+   },
+   "epoch": "2021-05-16"
   }
  ],
  "notes": null,

@@ -177,6 +177,27 @@
    },
    "file": "images/gj-504/gj-504_jwst-miri-f1550c.png",
    "epoch": "2023-07-04"
+  },
+  {
+   "image_id": "gj-504_jwst-nirspec-baburaj26",
+   "type": "planet",
+   "facility": "JWST",
+   "instrument": "NIRSpec IFU",
+   "wavelength_um": 3.9,
+   "wavelength_label": "G395H 2.9-5.3 um (NIRSpec IFU S/N detection map; companion b)",
+   "technique": "ADI",
+   "survey": null,
+   "file": "images/gj-504/gj-504_jwst-nirspec-baburaj26.png",
+   "credit": "Baburaj et al. 2026 (JWST-TST), Fig. (SNR map, crop)",
+   "paper": {
+    "first_author": "Baburaj",
+    "year": 2026,
+    "title": "JWST-TST High Contrast: First Direct Spectroscopy of GJ 504 b reveals Clouds and Disequilibrium Chemistry",
+    "journal": "arXiv",
+    "arxiv": "2606.19228",
+    "bibcode": "2026arXiv260619228B"
+   },
+   "epoch": "2024-02-16"
   }
  ],
  "notes": null,
