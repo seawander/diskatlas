@@ -32,7 +32,36 @@
     "arxiv": "2403.04000",
     "bibcode": "2024AJ....167..205T",
     "journal": "AJ 167, 205"
-   }
+   },
+   "extra_papers": [
+    {
+     "label": "gamma Dor classification",
+     "first_author": "Handler",
+     "year": 1999,
+     "title": "The domain of gamma Doradus variables in the Hertzsprung-Russell diagram",
+     "journal": "MNRAS 309, L19",
+     "arxiv": null,
+     "bibcode": "1999MNRAS.309L..19H"
+    },
+    {
+     "label": "gamma Dor variability of HIP 39017",
+     "first_author": "Henry",
+     "year": 2011,
+     "title": "A Volume-limited Photometric Survey of 114 gamma Doradus Candidates",
+     "journal": "AJ 142, 39",
+     "arxiv": "1105.4161",
+     "bibcode": "2011AJ....142...39H"
+    },
+    {
+     "label": "HGCA astrometric acceleration",
+     "first_author": "Brandt",
+     "year": 2021,
+     "title": "The Hipparcos-Gaia Catalog of Accelerations: Gaia EDR3 Edition",
+     "journal": "ApJS 254, 42",
+     "arxiv": "2105.11662",
+     "bibcode": "2021ApJS..254...42B"
+    }
+   ]
   }
  ],
  "images": [
@@ -103,6 +132,6 @@
    "epoch": "2022-03-21"
   }
  ],
- "notes": "HIP 39017 is a young (≲115 Myr), gamma Doradus-type pulsating variable star showing HGCA astrometric acceleration, which motivated the imaging search that found companion b. The paper describes b as a 'massive planet or low-mass brown dwarf' with an L/T transition spectrum; tagged here with method imaging per atlas convention.",
+ "notes": "HIP 39017 (HD 65526) is a γ Doradus-type pulsating variable, reclassified from a suspected eclipsing binary once multiple pulsation frequencies were identified (Handler+1999; Henry+2011). Tobin et al. 2024 adopt a young age of ≲115 Myr from its Gaia colour-magnitude position, which sits almost on top of the imaged-planet hosts HR 8799 and 51 Eri and near the Pleiades sequence. A statistically significant 5.5σ astrometric acceleration in the Hipparcos-Gaia Catalog of Accelerations (HGCA eDR3; Brandt+2021) flagged an unseen companion and motivated the SCExAO/CHARIS imaging search that discovered companion b (Tobin et al. 2024), which they describe as a 'massive planet or low-mass brown dwarf' with an L/T-transition spectrum. Companion b is tagged here with method imaging per atlas convention.",
  "last_updated": "2026-07-11"
 }
