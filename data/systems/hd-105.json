@@ -98,6 +98,27 @@
    },
    "hires_url": "https://archive.stsci.edu/prepds/alice/",
    "epoch": "1998-11-03"
+  },
+  {
+   "image_id": "hd-105_pacs-70um-donaldson12",
+   "type": "disk_mm",
+   "facility": "Herschel",
+   "instrument": "PACS",
+   "wavelength_um": 70,
+   "wavelength_label": "70 um (PACS; marginally resolved debris disk)",
+   "technique": "other",
+   "survey": null,
+   "file": "images/hd-105/hd-105_pacs-70um-donaldson12.png",
+   "credit": "Donaldson et al. 2012, Fig. 7 (crop: HD 105 70 um panel)",
+   "paper": {
+    "first_author": "Donaldson",
+    "year": 2012,
+    "title": "Herschel PACS Observations and Modeling of Debris Disks in the Tucana-Horologium Association",
+    "journal": "ApJ 753, 147",
+    "arxiv": "1206.6358",
+    "bibcode": "2012ApJ...753..147D"
+   },
+   "epoch": "2010-2011"
   }
  ],
  "notes": "AUTO-CREATED from staging - fill metadata & coords",
