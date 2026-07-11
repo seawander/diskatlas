@@ -567,6 +567,132 @@
    },
    "file": "images/hd-100546/hd-100546_magao-halpha-2015.png",
    "epoch": "2015-05-15"
+  },
+  {
+   "image_id": "hd-100546_naco-h-pperp-2006",
+   "type": "disk_scattered",
+   "facility": "VLT-NACO",
+   "instrument": "NACO",
+   "wavelength_um": 1.65,
+   "wavelength_label": "H band (pol. intensity, P_perp; 2006)",
+   "technique": "PDI",
+   "survey": null,
+   "file": "images/hd-100546/hd-100546_naco-h-pperp-2006.png",
+   "credit": "Avenhaus et al. 2014, Fig. 1 (H 2006, crop)",
+   "paper": {
+    "first_author": "Avenhaus",
+    "year": 2014,
+    "title": "HD 100546 Multi-epoch Scattered Light Observations",
+    "journal": "ApJ 790, 56",
+    "arxiv": "1405.6120",
+    "bibcode": "2014ApJ...790...56A"
+   },
+   "epoch": "2006-04-07"
+  },
+  {
+   "image_id": "hd-100546_naco-ks-pperp-2006",
+   "type": "disk_scattered",
+   "facility": "VLT-NACO",
+   "instrument": "NACO",
+   "wavelength_um": 2.18,
+   "wavelength_label": "Ks band (pol. intensity, P_perp; 2006)",
+   "technique": "PDI",
+   "survey": null,
+   "file": "images/hd-100546/hd-100546_naco-ks-pperp-2006.png",
+   "credit": "Avenhaus et al. 2014, Fig. 1 (Ks 2006, crop)",
+   "paper": {
+    "first_author": "Avenhaus",
+    "year": 2014,
+    "title": "HD 100546 Multi-epoch Scattered Light Observations",
+    "journal": "ApJ 790, 56",
+    "arxiv": "1405.6120",
+    "bibcode": "2014ApJ...790...56A"
+   },
+   "epoch": "2006-04-07"
+  },
+  {
+   "image_id": "hd-100546_naco-h-pperp-2013",
+   "type": "disk_scattered",
+   "facility": "VLT-NACO",
+   "instrument": "NACO",
+   "wavelength_um": 1.65,
+   "wavelength_label": "H band (pol. intensity, P_perp; 2013)",
+   "technique": "PDI",
+   "survey": null,
+   "file": "images/hd-100546/hd-100546_naco-h-pperp-2013.png",
+   "credit": "Avenhaus et al. 2014, Fig. 1 (H 2013, crop)",
+   "paper": {
+    "first_author": "Avenhaus",
+    "year": 2014,
+    "title": "HD 100546 Multi-epoch Scattered Light Observations",
+    "journal": "ApJ 790, 56",
+    "arxiv": "1405.6120",
+    "bibcode": "2014ApJ...790...56A"
+   },
+   "epoch": "2013-03-31"
+  },
+  {
+   "image_id": "hd-100546_naco-ks-pperp-2013",
+   "type": "disk_scattered",
+   "facility": "VLT-NACO",
+   "instrument": "NACO",
+   "wavelength_um": 2.18,
+   "wavelength_label": "Ks band (pol. intensity, P_perp; 2013)",
+   "technique": "PDI",
+   "survey": null,
+   "file": "images/hd-100546/hd-100546_naco-ks-pperp-2013.png",
+   "credit": "Avenhaus et al. 2014, Fig. 1 (Ks 2013, crop)",
+   "paper": {
+    "first_author": "Avenhaus",
+    "year": 2014,
+    "title": "HD 100546 Multi-epoch Scattered Light Observations",
+    "journal": "ApJ 790, 56",
+    "arxiv": "1405.6120",
+    "bibcode": "2014ApJ...790...56A"
+   },
+   "epoch": "2013-03-31"
+  },
+  {
+   "image_id": "hd-100546_naco-lp-pperp-2013",
+   "type": "disk_scattered",
+   "facility": "VLT-NACO",
+   "instrument": "NACO",
+   "wavelength_um": 3.8,
+   "wavelength_label": "L' band (pol. intensity, P_perp; first L-band disk PDI)",
+   "technique": "PDI",
+   "survey": null,
+   "file": "images/hd-100546/hd-100546_naco-lp-pperp-2013.png",
+   "credit": "Avenhaus et al. 2014, Fig. 2 (L' 2013, crop)",
+   "paper": {
+    "first_author": "Avenhaus",
+    "year": 2014,
+    "title": "HD 100546 Multi-epoch Scattered Light Observations",
+    "journal": "ApJ 790, 56",
+    "arxiv": "1405.6120",
+    "bibcode": "2014ApJ...790...56A"
+   },
+   "epoch": "2013-03-31"
+  },
+  {
+   "image_id": "hd-100546_nici-ks-loci-boccaletti13",
+   "type": "disk_scattered",
+   "facility": "Gemini-NICI",
+   "instrument": "NICI",
+   "wavelength_um": 2.15,
+   "wavelength_label": "Ks band (LOCI/ADI; multi-armed southern spiral)",
+   "technique": "ADI",
+   "survey": null,
+   "file": "images/hd-100546/hd-100546_nici-ks-loci-boccaletti13.png",
+   "credit": "Boccaletti et al. 2013, Fig. 6 (LOCI zoom, crop)",
+   "paper": {
+    "first_author": "Boccaletti",
+    "year": 2013,
+    "title": "Multiple spiral patterns in the transitional disk of HD 100546",
+    "journal": "A&A 560, A20",
+    "arxiv": "1310.7092",
+    "bibcode": "2013A&A...560A..20B"
+   },
+   "epoch": "2010-03-06"
   }
  ],
  "notes": null,

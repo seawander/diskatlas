@@ -1,6 +1,6 @@
 {
  "_doc": "Per-survey ingestion state. entries/coords/images: done|partial|todo. Update on every ingest.",
- "updated": "2026-07-11: +7 records (agent N discovery): HD 100453 MagAO/Clio-2 L' + SPHERE H23 cADI (Wagner 2018); HR 4796A SPHERE IRDIS H-cADI + H2H3-cADI + IFS YJ stack (Milli 2017); HD 172555 ZIMPOL VBB Qphi 2015 (Engler 2018); Elias 24 ALMA Band 6 ODISEA (Cieza 2017). 1724 records, 0 err.",
+ "updated": "2026-07-11: +19 records from agents P (ALMA) & Q (NACO scattered-light). P: HD 121617 ARKS VIII Band7, 4 ODISEA Oph Band6 disks (iso-oph-37/54/127/165), IRS 48 ALMA Band7 + VLA Ka (Ohashi 2020). Q: HD 142527 NACO H/Ks PDI (Avenhaus 2014), HD 100546 NACO H/Ks/L' PDI multi-epoch + NICI Ks spirals, HD 32297 NACO H/Ks LOCI, beta Pic NACO Lyot-H + FQPM-Ks (Boccaletti 2009/2012/2013). 1743 records, 0 err.",
  "surveys": {
   "DSHARP": {
    "entries": "done",

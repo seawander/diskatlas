@@ -332,6 +332,48 @@
     "bibcode": "2017AJ....154...33A"
    },
    "epoch": "2015-05-02"
+  },
+  {
+   "image_id": "hd-142527_naco-h-pperp-avenhaus14",
+   "type": "disk_scattered",
+   "facility": "VLT-NACO",
+   "instrument": "NACO",
+   "wavelength_um": 1.65,
+   "wavelength_label": "H band (pol. intensity, P_perp)",
+   "technique": "PDI",
+   "survey": null,
+   "file": "images/hd-142527/hd-142527_naco-h-pperp-avenhaus14.png",
+   "credit": "Avenhaus et al. 2014, Fig. 2a (crop)",
+   "paper": {
+    "first_author": "Avenhaus",
+    "year": 2014,
+    "title": "Structures in the Protoplanetary Disk of HD142527 Seen in Polarized Scattered Light",
+    "journal": "ApJ 781, 87",
+    "arxiv": "1311.7088",
+    "bibcode": "2014ApJ...781...87A"
+   },
+   "epoch": "2012-07-23"
+  },
+  {
+   "image_id": "hd-142527_naco-ks-pperp-avenhaus14",
+   "type": "disk_scattered",
+   "facility": "VLT-NACO",
+   "instrument": "NACO",
+   "wavelength_um": 2.18,
+   "wavelength_label": "Ks band (pol. intensity, P_perp)",
+   "technique": "PDI",
+   "survey": null,
+   "file": "images/hd-142527/hd-142527_naco-ks-pperp-avenhaus14.png",
+   "credit": "Avenhaus et al. 2014, Fig. 2b (crop)",
+   "paper": {
+    "first_author": "Avenhaus",
+    "year": 2014,
+    "title": "Structures in the Protoplanetary Disk of HD142527 Seen in Polarized Scattered Light",
+    "journal": "ApJ 781, 87",
+    "arxiv": "1311.7088",
+    "bibcode": "2014ApJ...781...87A"
+   },
+   "epoch": "2012-07-23"
   }
  ],
  "notes": "Extreme azimuthal dust asymmetry; M-dwarf companion inside cavity.",

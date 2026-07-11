@@ -857,6 +857,48 @@
    },
    "file": "images/beta-pic/beta-pic_jwst-miri-f2300c.png",
    "epoch": "2022-12-13"
+  },
+  {
+   "image_id": "beta-pic_naco-h-lyot-boccaletti09",
+   "type": "disk_scattered",
+   "facility": "VLT-NACO",
+   "instrument": "NACO",
+   "wavelength_um": 1.6,
+   "wavelength_label": "H band (Lyot coronagraphy; edge-on disk)",
+   "technique": "coronagraphy",
+   "survey": null,
+   "file": "images/beta-pic/beta-pic_naco-h-lyot-boccaletti09.png",
+   "credit": "Boccaletti et al. 2009, Fig. 2 (Lyot H, crop)",
+   "paper": {
+    "first_author": "Boccaletti",
+    "year": 2009,
+    "title": "VLT/NACO coronagraphic observations of fine structures in the disk of beta Pictoris",
+    "journal": "A&A 495, 523",
+    "arxiv": "0901.2034",
+    "bibcode": "2009A&A...495..523B"
+   },
+   "epoch": "2004-11-05"
+  },
+  {
+   "image_id": "beta-pic_naco-ks-fqpm-boccaletti09",
+   "type": "disk_scattered",
+   "facility": "VLT-NACO",
+   "instrument": "NACO",
+   "wavelength_um": 2.18,
+   "wavelength_label": "Ks band (FQPM coronagraphy; edge-on disk)",
+   "technique": "coronagraphy",
+   "survey": null,
+   "file": "images/beta-pic/beta-pic_naco-ks-fqpm-boccaletti09.png",
+   "credit": "Boccaletti et al. 2009, Fig. 3 (FQPM Ks, crop)",
+   "paper": {
+    "first_author": "Boccaletti",
+    "year": 2009,
+    "title": "VLT/NACO coronagraphic observations of fine structures in the disk of beta Pictoris",
+    "journal": "A&A 495, 523",
+    "arxiv": "0901.2034",
+    "bibcode": "2009A&A...495..523B"
+   },
+   "epoch": "2004-11-05"
   }
  ],
  "notes": "Original 1984 discovery image (Smith & Terrile, Las Campanas coronagraph) predates arXiv; add if desired.",

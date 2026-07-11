@@ -479,6 +479,48 @@
     "bibcode": "2005ApJ...635L.169K"
    },
    "epoch": "2005-09-28"
+  },
+  {
+   "image_id": "hd-32297_naco-ks-loci-boccaletti12",
+   "type": "disk_scattered",
+   "facility": "VLT-NACO",
+   "instrument": "NACO",
+   "wavelength_um": 2.2,
+   "wavelength_label": "Ks band (LOCI/ADI; edge-on debris disk)",
+   "technique": "ADI",
+   "survey": null,
+   "file": "images/hd-32297/hd-32297_naco-ks-loci-boccaletti12.png",
+   "credit": "Boccaletti et al. 2012, Fig. 2 (Ks LOCI, crop)",
+   "paper": {
+    "first_author": "Boccaletti",
+    "year": 2012,
+    "title": "Morphology of the very inclined debris disk around HD 32297",
+    "journal": "A&A 544, A85",
+    "arxiv": "1206.6334",
+    "bibcode": "2012A&A...544A..85B"
+   },
+   "epoch": "2010-09-25"
+  },
+  {
+   "image_id": "hd-32297_naco-h-loci-boccaletti12",
+   "type": "disk_scattered",
+   "facility": "VLT-NACO",
+   "instrument": "NACO",
+   "wavelength_um": 1.6,
+   "wavelength_label": "H band (LOCI/ADI; edge-on debris disk)",
+   "technique": "ADI",
+   "survey": null,
+   "file": "images/hd-32297/hd-32297_naco-h-loci-boccaletti12.png",
+   "credit": "Boccaletti et al. 2012, Fig. 2 (H LOCI, crop)",
+   "paper": {
+    "first_author": "Boccaletti",
+    "year": 2012,
+    "title": "Morphology of the very inclined debris disk around HD 32297",
+    "journal": "A&A 544, A85",
+    "arxiv": "1206.6334",
+    "bibcode": "2012A&A...544A..85B"
+   },
+   "epoch": "2010-09-25"
   }
  ],
  "notes": null,

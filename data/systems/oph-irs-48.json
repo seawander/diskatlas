@@ -140,6 +140,48 @@
    },
    "file": "images/oph-irs-48/oph-irs-48_vla2015.png",
    "epoch": "2015 Feb"
+  },
+  {
+   "image_id": "oph-irs-48_ohashi20-alma-b7-860um",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 7",
+   "wavelength_um": 860,
+   "wavelength_label": "0.86 mm continuum (Band 7; dust-trap crescent)",
+   "technique": "interferometry",
+   "survey": null,
+   "file": "images/oph-irs-48/oph-irs-48_ohashi20-alma-b7-860um.png",
+   "credit": "Ohashi et al. 2020, Fig. 1 (ALMA 860 um, crop)",
+   "paper": {
+    "first_author": "Ohashi",
+    "year": 2020,
+    "title": "Solving Grain Size Inconsistency between ALMA Polarization and VLA Continuum in the Ophiuchus IRS 48 Protoplanetary Disk",
+    "journal": "ApJ 900, 81",
+    "arxiv": "2007.15014",
+    "bibcode": "2020ApJ...900...81O"
+   },
+   "epoch": "2018-08-19"
+  },
+  {
+   "image_id": "oph-irs-48_ohashi20-vla-ka-8800um",
+   "type": "disk_mm",
+   "facility": "VLA",
+   "instrument": "Ka-band",
+   "wavelength_um": 8800,
+   "wavelength_label": "8.8 mm continuum (VLA Ka; large-grain crescent)",
+   "technique": "interferometry",
+   "survey": null,
+   "file": "images/oph-irs-48/oph-irs-48_ohashi20-vla-ka-8800um.png",
+   "credit": "Ohashi et al. 2020, Fig. 1 (VLA Ka 8.8 mm, crop)",
+   "paper": {
+    "first_author": "Ohashi",
+    "year": 2020,
+    "title": "Solving Grain Size Inconsistency between ALMA Polarization and VLA Continuum in the Ophiuchus IRS 48 Protoplanetary Disk",
+    "journal": "ApJ 900, 81",
+    "arxiv": "2007.15014",
+    "bibcode": "2020ApJ...900...81O"
+   },
+   "epoch": "2015-01 to 2015-02"
   }
  ],
  "notes": "Prototype azimuthal dust trap. SIMBAD name needs verification (Oph IRS 48 = WLY 2-48).",

@@ -118,6 +118,27 @@
     "bibcode": "2023A&A...673A..39P"
    },
    "epoch": "2013-01-29"
+  },
+  {
+   "image_id": "hd-121617_arks-alma-b7-890um",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 7",
+   "wavelength_um": 890,
+   "wavelength_label": "0.89 mm continuum (Band 7; dust belt + arc)",
+   "technique": "interferometry",
+   "survey": "ARKS",
+   "file": "images/hd-121617/hd-121617_arks-alma-b7-890um.png",
+   "credit": "Marino et al. 2026 (ARKS VIII), Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Marino",
+    "year": 2026,
+    "title": "The ALMA survey to Resolve exoKuiper belt Substructures (ARKS) VIII: HD 121617",
+    "journal": "A&A 705, A202",
+    "arxiv": "2601.11711",
+    "bibcode": "2026A&A...705A.202M"
+   },
+   "epoch": "2022-2023"
   }
  ],
  "notes": null,
