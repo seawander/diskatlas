@@ -186,6 +186,72 @@
     "bibcode": "2017MNRAS.470.3606H"
    },
    "epoch": "2012-2015"
+  },
+  {
+   "image_id": "vega_jwst-miri-f1550c",
+   "type": "disk_mm",
+   "facility": "JWST",
+   "instrument": "MIRI",
+   "wavelength_um": 15.5,
+   "wavelength_label": "F1550C (15.5 um; MIRI)",
+   "technique": "coronagraphy",
+   "survey": null,
+   "credit": "Su et al. 2024, Fig. 1 (F1550C panel, crop)",
+   "hires_url": null,
+   "paper": {
+    "first_author": "Su",
+    "year": 2024,
+    "title": "Imaging of the Vega Debris System Using JWST/MIRI",
+    "journal": "ApJ 977, 277",
+    "arxiv": "2410.23636",
+    "bibcode": "2024ApJ...977..277S"
+   },
+   "file": "images/vega/vega_jwst-miri-f1550c.png",
+   "epoch": "2023-08-18"
+  },
+  {
+   "image_id": "vega_jwst-miri-f2300c",
+   "type": "disk_mm",
+   "facility": "JWST",
+   "instrument": "MIRI",
+   "wavelength_um": 23.0,
+   "wavelength_label": "F2300C (23.0 um; MIRI)",
+   "technique": "coronagraphy",
+   "survey": null,
+   "credit": "Su et al. 2024, Fig. 1 (F2300C panel, crop)",
+   "hires_url": null,
+   "paper": {
+    "first_author": "Su",
+    "year": 2024,
+    "title": "Imaging of the Vega Debris System Using JWST/MIRI",
+    "journal": "ApJ 977, 277",
+    "arxiv": "2410.23636",
+    "bibcode": "2024ApJ...977..277S"
+   },
+   "file": "images/vega/vega_jwst-miri-f2300c.png",
+   "epoch": "2023-08-18"
+  },
+  {
+   "image_id": "vega_jwst-miri-f2550w",
+   "type": "disk_mm",
+   "facility": "JWST",
+   "instrument": "MIRI",
+   "wavelength_um": 25.5,
+   "wavelength_label": "F2550W (25.5 um; MIRI)",
+   "technique": "coronagraphy",
+   "survey": null,
+   "credit": "Su et al. 2024, Fig. 1 (F2550W panel, crop)",
+   "hires_url": null,
+   "paper": {
+    "first_author": "Su",
+    "year": 2024,
+    "title": "Imaging of the Vega Debris System Using JWST/MIRI",
+    "journal": "ApJ 977, 277",
+    "arxiv": "2410.23636",
+    "bibcode": "2024ApJ...977..277S"
+   },
+   "file": "images/vega/vega_jwst-miri-f2550w.png",
+   "epoch": "2023-08-18"
   }
  ],
  "notes": "JWST/HST images remarkably smooth — no planet sculpting signatures. | coverage: no resolved near-IR scattered-light image as of 2026-07 (swept); optical STIS halo (Wolff+2024) added as pending record",

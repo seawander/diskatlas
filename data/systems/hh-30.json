@@ -138,6 +138,50 @@
    },
    "file": "images/hh-30/hh-30_wfpc2-1996.png",
    "epoch": "1994-1995"
+  },
+  {
+   "image_id": "hh-30_jwst-nircam-f444w",
+   "type": "disk_scattered",
+   "facility": "JWST",
+   "instrument": "NIRCam",
+   "wavelength_um": 4.4,
+   "wavelength_label": "F444W (4.4 um; NIRCam)",
+   "technique": "RDI",
+   "survey": null,
+   "credit": "Tazaki et al. 2025, Fig. 4 (F444W panel, crop)",
+   "hires_url": null,
+   "paper": {
+    "first_author": "Tazaki",
+    "year": 2025,
+    "title": "JWST Imaging of Edge-on Protoplanetary Disks. IV. HH 30",
+    "journal": "ApJ 980, 49",
+    "arxiv": "2412.07523",
+    "bibcode": "2025ApJ...980...49T"
+   },
+   "file": "images/hh-30/hh-30_jwst-nircam-f444w.png",
+   "epoch": "2023-09-07"
+  },
+  {
+   "image_id": "hh-30_jwst-miri-f1280w",
+   "type": "disk_scattered",
+   "facility": "JWST",
+   "instrument": "MIRI",
+   "wavelength_um": 12.8,
+   "wavelength_label": "F1280W (12.8 um; MIRI)",
+   "technique": "other",
+   "survey": null,
+   "credit": "Tazaki et al. 2025 (F1280W panel, crop)",
+   "hires_url": null,
+   "paper": {
+    "first_author": "Tazaki",
+    "year": 2025,
+    "title": "JWST Imaging of Edge-on Protoplanetary Disks. IV. HH 30",
+    "journal": "ApJ 980, 49",
+    "arxiv": "2412.07523",
+    "bibcode": "2025ApJ...980...49T"
+   },
+   "file": "images/hh-30/hh-30_jwst-miri-f1280w.png",
+   "epoch": "2023-09-07"
   }
  ],
  "notes": "AUTO-CREATED from staging - fill metadata & coords",
