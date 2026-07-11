@@ -87,6 +87,27 @@
     "bibcode": "2022NatAs...6..331D"
    },
    "epoch": "2016-2017"
+  },
+  {
+   "image_id": "z-cma_alma-b6-dong22",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 6",
+   "wavelength_um": 1300,
+   "wavelength_label": "1.3 mm continuum (streamer + inner binary A/B; inset resolves A/B)",
+   "technique": "interferometry",
+   "survey": null,
+   "file": "images/z-cma/z-cma_alma-b6-dong22.png",
+   "credit": "Dong et al. 2022, Fig. 1 (crop: middle ALMA Band 6 panel)",
+   "paper": {
+    "first_author": "Dong",
+    "year": 2022,
+    "title": "A likely flyby of binary protostar Z CMa caught in action",
+    "journal": "Nature Astronomy 6, 331",
+    "arxiv": "2201.05617",
+    "bibcode": "2022NatAs...6..331D"
+   },
+   "epoch": "2016-2017"
   }
  ],
  "notes": "Triple system: FUor-like SE component + Herbig Be (EXor) N component, plus a third point source ~0.7 arcsec NE confirmed comoving via Keck/NIRC2 astrometry (Zurlo et al. 2024). A ~6000 au streamer/outflow to the SW, previously interpreted as a flyby signature (Dong et al. 2022), is argued by Zurlo et al. 2024 to be part of a larger outflow rather than a tidal streamer.",
