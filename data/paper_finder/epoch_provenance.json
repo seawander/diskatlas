@@ -7247,12 +7247,6 @@
   "arxiv": "2303.14586",
   "snippet": "obs section: ALMA Band 6 on UT 2021 August 27 (Return to Operations)"
  },
- "2mass-j03370363-3039291_nirc2-uyama22": {
-  "epoch": "2016-10-15",
-  "source": "tex:ingestion",
-  "arxiv": "2201.11771",
-  "snippet": "obs section: UT 2016 October 15, Keck/NIRC2"
- },
  "gj-758_hiciao-thalmann09": {
   "epoch": "2009",
   "source": "tex:ingestion",
@@ -7270,5 +7264,17 @@
   "source": "tex:ingestion",
   "arxiv": "1311.0280",
   "snippet": "discovery-paper obs epoch"
+ },
+ "2mass-j03370363-3039291_nirc2-kp-uyama22": {
+  "epoch": "2021-02-02",
+  "source": "tex:ingestion",
+  "arxiv": "2201.11771",
+  "snippet": "obs: Kp follow-up UT 2021 February 2 (no coronagraph)"
+ },
+ "2mass-j03370363-3039291_nirc2-lp-uyama22": {
+  "epoch": "2016-10-15",
+  "source": "tex:ingestion",
+  "arxiv": "2201.11771",
+  "snippet": "obs: Lp discovery UT 2016 October 15 (vector vortex, 3.776 um)"
  }
 }
