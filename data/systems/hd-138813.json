@@ -37,7 +37,7 @@
    "epoch": "2014-2018"
   }
  ],
- "notes": "AUTO-CREATED from staging - fill metadata & coords | coverage: no resolved scattered-light image as of 2026-07 (swept)",
+ "notes": "HD 138813's debris disk is resolved at mm wavelengths with ALMA (Matrà+2025); no resolved scattered-light image as of 2026-07 (swept).",
  "last_updated": "2026-07-06",
  "plx_mas": 7.3208,
  "mags": {

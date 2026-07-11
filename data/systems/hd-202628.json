@@ -101,7 +101,7 @@
    "epoch": null
   }
  ],
- "notes": "coverage: no resolved near-IR scattered-light image as of 2026-07 (swept; disk is resolved in optical STIS and mm only)",
+ "notes": "HD 202628's debris ring is resolved in optical scattered light (HST/STIS; Krist+2012) and at mm wavelengths (Matrà+2025), but not yet in near-IR scattered light (swept 2026-07).",
  "last_updated": "2026-07-07",
  "plx_mas": 42.0274,
  "mags": {

@@ -122,7 +122,7 @@
    "file": "images/hd-170773/hd-170773_scuba2016.png"
   }
  ],
- "notes": "coverage: no resolved scattered-light image as of 2026-07 (swept)",
+ "notes": "HD 170773's debris disk is resolved at mm and far-IR wavelengths (Matrà+2025; Marino+2026); no resolved scattered-light image as of 2026-07 (swept).",
  "last_updated": "2026-07-07",
  "plx_mas": 27.0749,
  "mags": {
