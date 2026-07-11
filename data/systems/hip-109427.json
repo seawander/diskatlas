@@ -128,6 +128,6 @@
    "epoch": "2020-12-25"
   }
  ],
- "notes": "HIP 109427 (theta Peg) is a nearby A1V lambda Boo star. Companion B was first detected with SCExAO/MEC using Stochastic Speckle Discrimination (SSD; Fig. 1 of the paper) and subsequently confirmed/characterized with SCExAO/CHARIS spectroscopy and Keck/NIRC2 Lp photometry (Fig. 2, used here). Tagged with method imaging per atlas convention; companion is low-mass stellar (M dwarf), not planetary, per the paper's own mass estimate.",
+ "notes": "HIP 109427 (theta Peg) is a nearby A1V lambda Boo star. Companion B was first detected with SCExAO/MEC using Stochastic Speckle Discrimination (SSD; Steiger+2021, Fig. 1) and subsequently confirmed and characterized with SCExAO/CHARIS spectroscopy and Keck/NIRC2 Lp photometry (Fig. 2, used here). Tagged with method imaging per atlas convention; the companion is low-mass stellar (M dwarf), not planetary, per the paper's mass estimate.",
  "last_updated": "2026-07-06"
 }
