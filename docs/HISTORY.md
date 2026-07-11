@@ -323,3 +323,22 @@ V960 Mon ERIS/NIX (Dasgupta 2025, 2024-01-01), NGC 1068 VLA A-array 6 cm
 (Gallimore 1996 Table 1 read from the ADS scan, 1994-05-09), HD 100453 NACO
 (Chen 2006, archival ESO data, 2003-06-02). Epoch coverage 93.6% -> 94.3%
 (104 dateless records remain, all pre-audited hopeless class).
+
+2026-07-11 (annotation audit, user-reported). User caught the HIP 39017 NIRC2
+L' credit citing "Franson et al. 2024" for a Tobin et al. 2024 figure, and a
+missing third panel in the Tobin detection figure. Fixed both: the missing
+CHARIS Dec 2022 panel was re-cropped from source (hip-39017_charis-dec2022,
+epoch 2022-12-31 from the observing log), the Feb CHARIS epoch corrected from
+"2022-2023" to 2022-02-21, and all three credits now carry panel-precise
+Tobin references. A global credit-vs-paper scan (surname + year against the
+paper block) then swept all records: 7 more mis-attributed or placeholder
+credits fixed after VIEW/source verification (AR Pup ZIMPOL Kluska->Ertel
+Fig. 5; Orion Src I Chen 2021->Wright 2022 Fig. 1; BD+45 598 Farkas->Vincent
+Fig. 3; HH 212 Lin->Lee Fig. 1a; HD 92945 + TWA 20 JWST placeholder credits
+-> Lazzoni/Palatnick Fig. 1 panels; WISPIT 1 placeholders -> Fig. A.2/A.3;
+WISPIT 2 placeholders -> Lawlor Fig. 8 per-epoch panels). Also synced 35
+paper-year fields to their ADS bibcode years (arXiv-year drift, e.g. "Bohn et
+al. 2019" -> 2020) with 28 credit strings updated in step, and normalized 4
+first_author formats ("M. Benisty" -> "Benisty"). validate.py now enforces
+all of this permanently: credit-vs-paper author/year consistency and
+paper-year-vs-bibcode-year are ERRORS (ALICE/archive credits exempt).
