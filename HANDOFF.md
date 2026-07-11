@@ -16,7 +16,7 @@ runtime build.
 
 ## Current state (2026-07-10)
 
-- **474 systems · 1548 image records (all with local panels) · validate.py
+- **474 systems · 1554 image records (all with local panels) · validate.py
   0 errors / 0 warnings · all bibcodes ADS-verified · epoch coverage 92.1%**
   (`python3 backend/build.py` is always canonical for stats).
 - Live at **github.com/seawander/diskatlas** + GitHub Pages. Publish = **direct
@@ -60,6 +60,13 @@ down). Now:
 doing it right the first time is the cheapest recall fix):
 - Ingest **every qualifying panel** of a figure the first time (one record per
   band/epoch/reduction); "Fig. 1a-b" in a credit line is a split violation.
+- **Cross-paper redundancy is WANTED, not deduped**: the same target/band shown
+  in a *different* paper's figure is a separate record — including when paper B
+  merely re-displays/re-frames paper A's product (the atlas documents reduction
+  diversity across teams; never skip on "we already have a better one"). Only
+  reject *same-paper* true duplicates + non-images (SED/profile/model/residual/
+  spectral-index) + non-detections + unresolved point sources. See the
+  `cross-paper-redundancy-ok` auto-memory.
 - Multi-epoch figures (pattern-motion papers): **every epoch is a record**.
 - Multi-reduction panels of ONE dataset get separate records (PDI/ADI/RDI in
   `technique`) — unless annotations straddle the panels (then one record + note).

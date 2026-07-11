@@ -310,6 +310,27 @@
    "epoch": "2023"
   },
   {
+   "image_id": "pds-70_alma-b7-doi24",
+   "file": "images/pds-70/pds-70_alma-b7-doi24.png",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 7",
+   "wavelength_um": 855,
+   "wavelength_label": "Band 7 (~0.87 mm) continuum (Benisty 2021 data, re-shown/smoothed in Doi 2024 for Band 3 comparison)",
+   "technique": "interferometry",
+   "survey": null,
+   "credit": "Doi et al. 2024, Fig. 1 (middle panel, crop)",
+   "paper": {
+    "first_author": "Doi",
+    "year": 2024,
+    "title": "Asymmetric dust accumulation of the PDS 70 disk revealed by ALMA Band 3 observations",
+    "arxiv": "2408.09216",
+    "bibcode": "2024ApJ...974L..25D",
+    "journal": "ApJL 974, L25"
+   },
+   "epoch": "2019 Jul 27"
+  },
+  {
    "image_id": "pds-70_wfc3rdi",
    "type": "planet",
    "facility": "HST",

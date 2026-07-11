@@ -30,6 +30,16 @@ subtraction c/e/g = held d/f/h), marginal/noise detections (HD 206893 0.88mm;
 HD 15115 2006 Keck), and unresolved continuum insets (HD 97048 SIV/NeII).
 Fetch lesson: single `curl` silently caps arXiv e-prints at 2 MiB — use `wget`.
 
+Follow-up ("redo and gp") — maintainer set the redundancy policy: **record the
+same target/band from any DIFFERENT paper**, including literal re-displays of
+another team's product (documents reduction diversity; never skip on "already
+have a better one"; only same-paper true duplicates + non-images + non-detections
++ unresolved points are rejected). Reversed the redundancy/quality skips and
+added: HD 15115 Keck-II AO H (Kalas07), HD 206893 0.88mm (Marino20), AS 205
+1.3mm (Phuong26 = DSHARP product), PDS 70 Band 7 (Doi24 = Benisty21 smoothed),
+HL Tau 1.3mm (Carrasco-González16 = Partnership data). 1549→1554 records.
+See auto-memory `cross-paper-redundancy-ok`.
+
 ## 2026-07-10 (later) — census adjudication of category-less systems
 
 Ten systems with empty categories+planets but disk-typed records were adjudicated
