@@ -43,6 +43,72 @@
    },
    "image_id": "roxs-42b_keck2014",
    "file": "images/roxs-42b/roxs-42b_keck2014.png"
+  },
+  {
+   "image_id": "roxs-42b_sinfoni-2012-ks",
+   "type": "planet",
+   "facility": "VLT",
+   "instrument": "SINFONI (IFS)",
+   "wavelength_um": 2.2,
+   "wavelength_label": "K band (VLT/SINFONI collapsed cube); companion b",
+   "technique": "ADI",
+   "survey": null,
+   "credit": "Currie et al. 2014, Fig. 1 top-right (SINFONI K, crop)",
+   "hires_url": null,
+   "paper": {
+    "first_author": "Currie",
+    "year": 2014,
+    "title": "Direct Imaging and Spectroscopy of the Young Substellar Companion ROXs 42Bb",
+    "journal": "ApJL 780, L30",
+    "arxiv": "1310.4825",
+    "bibcode": "2014ApJ...780L..30C"
+   },
+   "file": "images/roxs-42b/roxs-42b_sinfoni-2012-ks.png",
+   "epoch": "2012-08-11"
+  },
+  {
+   "image_id": "roxs-42b_nirc2-2005-k",
+   "type": "planet",
+   "facility": "Keck",
+   "instrument": "NIRC2",
+   "wavelength_um": 2.2,
+   "wavelength_label": "K band (Keck/NIRC2, 2005); companion b",
+   "technique": "ADI",
+   "survey": null,
+   "credit": "Currie et al. 2014, Fig. 1 bottom-left (2005 K, crop)",
+   "hires_url": null,
+   "paper": {
+    "first_author": "Currie",
+    "year": 2014,
+    "title": "Direct Imaging and Spectroscopy of the Young Substellar Companion ROXs 42Bb",
+    "journal": "ApJL 780, L30",
+    "arxiv": "1310.4825",
+    "bibcode": "2014ApJ...780L..30C"
+   },
+   "file": "images/roxs-42b/roxs-42b_nirc2-2005-k.png",
+   "epoch": "2005-04-16"
+  },
+  {
+   "image_id": "roxs-42b_ciao-2008-ks",
+   "type": "planet",
+   "facility": "Subaru",
+   "instrument": "CIAO",
+   "wavelength_um": 2.15,
+   "wavelength_label": "Ks band (Subaru/CIAO, 2008); companion b",
+   "technique": "ADI",
+   "survey": null,
+   "credit": "Currie et al. 2014, Fig. 1 bottom-right (2008 Ks, crop)",
+   "hires_url": null,
+   "paper": {
+    "first_author": "Currie",
+    "year": 2014,
+    "title": "Direct Imaging and Spectroscopy of the Young Substellar Companion ROXs 42Bb",
+    "journal": "ApJL 780, L30",
+    "arxiv": "1310.4825",
+    "bibcode": "2014ApJ...780L..30C"
+   },
+   "file": "images/roxs-42b/roxs-42b_ciao-2008-ks.png",
+   "epoch": "2008-07-19"
   }
  ],
  "notes": null,

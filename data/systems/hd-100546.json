@@ -523,6 +523,50 @@
     "title": "Complex Spiral Structure in the HD 100546 Transitional Disk as Revealed by GPI and MagAO"
    },
    "epoch": "2016-01-28"
+  },
+  {
+   "image_id": "hd-100546_magao-halpha-2014",
+   "type": "disk_scattered",
+   "facility": "Magellan-MagAO",
+   "instrument": "VisAO",
+   "wavelength_um": 0.656,
+   "wavelength_label": "H-alpha 656 nm (MagAO/VisAO; disk rim, 2014)",
+   "technique": "other",
+   "survey": null,
+   "credit": "Follette et al. 2017, Fig. top-left (H-alpha 2014, crop)",
+   "hires_url": null,
+   "paper": {
+    "first_author": "Follette",
+    "year": 2017,
+    "title": "Complex Spiral Structure in the HD 100546 Transitional Disk (MagAO H-alpha)",
+    "journal": "AJ 153, 264",
+    "arxiv": "1704.06260",
+    "bibcode": "2017AJ....153..264F"
+   },
+   "file": "images/hd-100546/hd-100546_magao-halpha-2014.png",
+   "epoch": "2014-04-12"
+  },
+  {
+   "image_id": "hd-100546_magao-halpha-2015",
+   "type": "disk_scattered",
+   "facility": "Magellan-MagAO",
+   "instrument": "VisAO",
+   "wavelength_um": 0.656,
+   "wavelength_label": "H-alpha 656 nm (MagAO/VisAO; disk rim, 2015)",
+   "technique": "other",
+   "survey": null,
+   "credit": "Follette et al. 2017, Fig. bottom-left (H-alpha 2015, crop)",
+   "hires_url": null,
+   "paper": {
+    "first_author": "Follette",
+    "year": 2017,
+    "title": "Complex Spiral Structure in the HD 100546 Transitional Disk (MagAO H-alpha)",
+    "journal": "AJ 153, 264",
+    "arxiv": "1704.06260",
+    "bibcode": "2017AJ....153..264F"
+   },
+   "file": "images/hd-100546/hd-100546_magao-halpha-2015.png",
+   "epoch": "2015-05-15"
   }
  ],
  "notes": null,

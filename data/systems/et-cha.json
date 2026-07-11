@@ -58,6 +58,50 @@
    },
    "file": "images/et-cha/et-cha_sphere2020.png",
    "epoch": "2019-12-23"
+  },
+  {
+   "image_id": "et-cha_sphere-2019-direct",
+   "type": "planet",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS",
+   "wavelength_um": 1.65,
+   "wavelength_label": "H band (SPHERE/IRDIS direct); companion B",
+   "technique": "other",
+   "survey": null,
+   "credit": "Ginski et al. 2020, Fig. 1 top (SPHERE direct, crop)",
+   "hires_url": null,
+   "paper": {
+    "first_author": "Ginski",
+    "year": 2020,
+    "title": "First direct detection of a companion to ET Cha",
+    "journal": "A&A 642, A119",
+    "arxiv": "2007.05274",
+    "bibcode": "2020A&A...642A.119G"
+   },
+   "file": "images/et-cha/et-cha_sphere-2019-direct.png",
+   "epoch": "2019-12-23"
+  },
+  {
+   "image_id": "et-cha_naco-2003",
+   "type": "planet",
+   "facility": "VLT-NACO",
+   "instrument": "NACO",
+   "wavelength_um": 1.65,
+   "wavelength_label": "H band (VLT/NACO, 2003 epoch); companion B",
+   "technique": "other",
+   "survey": null,
+   "credit": "Ginski et al. 2020, Fig. 1 bottom (NACO 2003, crop)",
+   "hires_url": null,
+   "paper": {
+    "first_author": "Ginski",
+    "year": 2020,
+    "title": "First direct detection of a companion to ET Cha",
+    "journal": "A&A 642, A119",
+    "arxiv": "2007.05274",
+    "bibcode": "2020A&A...642A.119G"
+   },
+   "file": "images/et-cha/et-cha_naco-2003.png",
+   "epoch": "2003-01-21"
   }
  ],
  "notes": "DESTINYS SPHERE/IRDIS program (Ginski et al. 2020, arXiv:2007.05274) discovered a close (~130 mas) low-mass companion candidate to this old (5-8 Myr) accreting T Tauri star with an unusually compact gas-rich disk; no resolved circumstellar disk signal was detected outside the coronagraph IWA.",

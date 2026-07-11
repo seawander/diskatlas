@@ -408,6 +408,28 @@
     "bibcode": "2020ApJ...898L..38R"
    },
    "epoch": "2019-11-18"
+  },
+  {
+   "image_id": "mwc-758_sphere2014-dec",
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS DPI",
+   "wavelength_um": 1.04,
+   "wavelength_label": "Y band Qphi (SPHERE/IRDIS DPI; Dec 2014 epoch)",
+   "technique": "PDI",
+   "survey": null,
+   "credit": "Benisty et al. 2015, Fig. 2 left (Dec 2014 Qphi, crop)",
+   "hires_url": null,
+   "paper": {
+    "first_author": "Benisty",
+    "year": 2015,
+    "title": "Asymmetric features in the protoplanetary disk MWC 758",
+    "journal": "A&A 578, L6",
+    "arxiv": "1505.05325",
+    "bibcode": "2015A&A...578L...6B"
+   },
+   "file": "images/mwc-758/mwc-758_sphere2014-dec.png",
+   "epoch": "2014-12"
   }
  ],
  "notes": null,

@@ -89,6 +89,50 @@
    },
    "file": "images/mwc-297/mwc-297_sphere2020.png",
    "epoch": "2018"
+  },
+  {
+   "image_id": "mwc-297_sphere-sadi-2015",
+   "type": "planet",
+   "facility": "VLT-SPHERE",
+   "instrument": "IFS (SADI)",
+   "wavelength_um": 1.3,
+   "wavelength_label": "YJH (SPHERE/IFS SADI; companion B, discovery)",
+   "technique": "ADI",
+   "survey": null,
+   "credit": "Ubeira-Gabellini et al. 2020, Fig. top-left (2015 SADI, crop)",
+   "hires_url": null,
+   "paper": {
+    "first_author": "Ubeira-Gabellini",
+    "year": 2020,
+    "title": "A Low-mass Companion Just Outside the Cavity of MWC 297",
+    "journal": "ApJL 890, L8",
+    "arxiv": "2002.01946",
+    "bibcode": "2020ApJ...890L...8U"
+   },
+   "file": "images/mwc-297/mwc-297_sphere-sadi-2015.png",
+   "epoch": "2015-04-29"
+  },
+  {
+   "image_id": "mwc-297_sphere-sadi-2018",
+   "type": "planet",
+   "facility": "VLT-SPHERE",
+   "instrument": "IFS (SADI)",
+   "wavelength_um": 1.3,
+   "wavelength_label": "YJH (SPHERE/IFS SADI; companion B, confirmation)",
+   "technique": "ADI",
+   "survey": null,
+   "credit": "Ubeira-Gabellini et al. 2020, Fig. top-right (2018 SADI, crop)",
+   "hires_url": null,
+   "paper": {
+    "first_author": "Ubeira-Gabellini",
+    "year": 2020,
+    "title": "A Low-mass Companion Just Outside the Cavity of MWC 297",
+    "journal": "ApJL 890, L8",
+    "arxiv": "2002.01946",
+    "bibcode": "2020ApJ...890L...8U"
+   },
+   "file": "images/mwc-297/mwc-297_sphere-sadi-2018.png",
+   "epoch": "2018-07-28"
   }
  ],
  "notes": null,
