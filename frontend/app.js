@@ -817,6 +817,26 @@ if (typeof window !== "undefined") (function () {
   document.getElementById("closebtn").onclick = closeDetail;
   document.getElementById("d_prev").onclick = () => showImg(curImg - 1);
   document.getElementById("d_next").onclick = () => showImg(curImg + 1);
+  /* touch: swipe left/right across the image to change images (in addition to the
+     arrows). #d_imgbox has touch-action:pan-y so vertical scroll still works and
+     the browser doesn't hijack the horizontal swipe. */
+  (function imgSwipe() {
+    const box = document.getElementById("d_imgbox");
+    if (!box) return;
+    let x0 = null, y0 = null;
+    box.addEventListener("touchstart", e => {
+      if (e.touches.length !== 1) { x0 = null; return; }
+      x0 = e.touches[0].clientX; y0 = e.touches[0].clientY;
+    }, { passive: true });
+    box.addEventListener("touchend", e => {
+      if (x0 == null || e.changedTouches.length !== 1) return;
+      const dx = e.changedTouches[0].clientX - x0, dy = e.changedTouches[0].clientY - y0;
+      x0 = null;
+      if (Math.abs(dx) < 45 || Math.abs(dx) < Math.abs(dy) * 1.6) return;  // need a clear horizontal swipe
+      if (!currentSys || sortedImages(currentSys).length < 2) return;
+      showImg(curImg + (dx < 0 ? 1 : -1));   // swipe left → next, swipe right → previous
+    }, { passive: true });
+  })();
 
   function shortFac(f) { return (f || "?").replace("VLT-", "").replace("Gemini-", "").replace("Subaru-", ""); }
 
