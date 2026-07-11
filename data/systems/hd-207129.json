@@ -163,6 +163,27 @@
     "bibcode": "2017MNRAS.470.3606H"
    },
    "epoch": "2012-2015"
+  },
+  {
+   "image_id": "hd-207129_stis-debes19",
+   "type": "disk_scattered",
+   "facility": "HST",
+   "instrument": "STIS",
+   "wavelength_um": 0.58,
+   "wavelength_label": "STIS 50CORON coronagraphy (optical; low-surface-brightness debris ring, disk from Krist et al. 2010)",
+   "technique": "coronagraphy",
+   "survey": null,
+   "file": "images/hd-207129/hd-207129_stis-debes19.png",
+   "credit": "Debes et al. 2019, Fig. 12 (crop)",
+   "paper": {
+    "first_author": "Debes",
+    "year": 2019,
+    "title": "Pushing the limits of the coronagraphic occulters on Hubble Space Telescope/Space Telescope Imaging Spectrograph",
+    "journal": "JATIS 5, 035003",
+    "arxiv": "1905.06838",
+    "bibcode": "2019JATIS...5c5003D"
+   },
+   "epoch": null
   }
  ],
  "notes": "AUTO-CREATED from staging - fill metadata & coords",
