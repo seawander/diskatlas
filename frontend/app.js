@@ -849,7 +849,7 @@ if (typeof window !== "undefined") (function () {
   (function imgGestures() {
     const box = document.getElementById("d_imgbox");
     if (!box) return;
-    let scale = 1, tx = 0, ty = 0, mode = null, sx = 0, sy = 0, lx = 0, ly = 0, pd0 = 0, s0 = 1, lastTap = 0, swiping = false, track = null;
+    let scale = 1, tx = 0, ty = 0, mode = null, sx = 0, sy = 0, lx = 0, ly = 0, pd0 = 0, s0 = 1, lastTap = 0, swiping = false, track = null, swVx = 0, swT = 0, swLastX = 0;
     const img = () => box.querySelector("img");
     const W = () => box.clientWidth || 380;
     function apply() {
@@ -894,7 +894,8 @@ if (typeof window !== "undefined") (function () {
     box.addEventListener("touchstart", e => {
       const im0 = img(); if (im0) im0.style.transition = "";   // cancel any in-flight slide
       if (e.touches.length === 1) {
-        const t = e.touches[0]; sx = lx = t.clientX; sy = ly = t.clientY; swiping = false;
+        const t = e.touches[0]; sx = lx = swLastX = t.clientX; sy = ly = t.clientY; swiping = false;
+        swVx = 0; swT = performance.now();
         mode = scale > 1 ? "pan" : "swipe";
       } else if (e.touches.length === 2) {
         mode = "pinch";
@@ -924,6 +925,9 @@ if (typeof window !== "undefined") (function () {
           e.preventDefault();
           track.style.transition = "";
           track.style.transform = "translateX(" + (-W() + dx) + "px)";
+          const now = performance.now(), dt = now - swT;    // running velocity for flick detection
+          if (dt > 0) swVx = (t.clientX - swLastX) / dt;
+          swLastX = t.clientX; swT = now;
         }
       }
     }, { passive: false });
@@ -938,8 +942,10 @@ if (typeof window !== "undefined") (function () {
       const t = e.changedTouches[0], dx = t.clientX - sx, dy = t.clientY - sy;
       if (mode === "swipe" && swiping && track) {           // resolve the carousel swipe
         const tr = track; track = null;
-        if (Math.abs(dx) > W() * 0.22) {                    // past threshold → commit to the neighbour
-          const dir = dx < 0 ? 1 : -1;                      // swipe left = next, right = previous
+        const flick = Math.abs(swVx) > 0.35 && performance.now() - swT < 120;   // a recent quick flick (px/ms) commits even if short; a paused finger doesn't
+        const commit = Math.abs(dx) > W() * 0.22 || (flick && Math.abs(dx) > 12);
+        if (commit) {                                       // commit to the neighbour
+          const dir = dx < 0 ? 1 : -1;                      // direction from total travel: left = next, right = prev
           slideTrack(tr, dir > 0 ? -2 * W() : 0, () => showImg(curImg + dir));   // settle, then swap to single img
         } else {
           slideTrack(tr, -W(), () => showImg(curImg));      // snap back to the current
