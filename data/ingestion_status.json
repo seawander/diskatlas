@@ -1,6 +1,6 @@
 {
  "_doc": "Per-survey ingestion state. entries/coords/images: done|partial|todo. Update on every ingest.",
- "updated": "2026-07-11: Single-image imaged-planet reaudit (user-directed). Two-step rule - split cited discovery figures (step 1) + find a 2nd detection in another paper (step 2, mandatory if still single). +44 records: HIP 75056 (10 filters x2 epochs), GJ 758, HIP 64892, HD 984, CD-35 2722, XEST 13-010 (Pan-STARRS grizy), LSPM J1446, GU Psc, 2M0219 (step 1); HD 19467 B (+6 JWST/NIRCam +4 SPHERE), HIP 78530 B (LBT L'), DH Tau b (SPHERE+HST), SR 12 c (its missing HST+Spitzer detection), CVSO 30 (step 2). Honest singles: CT Cha b (no follow-up image published). YSES 2b refuted (background star, Kenworthy 2025), FW Tau b disputed - left annotated. 520 systems, 2146 image records.",
+ "updated": "2026-07-11: CT Cha b multi-coverage (user-directed, corrects earlier 'stays single'). +5 detections: Magellan MagAO/VisAO r'/i'/z'/Y_S optical (Wu 2015, 1501.01396, Fig 1 bottom row, 2013-04-06) + JWST/MIRI MRS SCC detection of its carbon-rich CPD (Cugno 2025, 2509.15209 = 2025ApJ...991L..46C, 2022-08-15). CT Cha b now spans NACO NIR + MagAO optical + JWST mid-IR (6 planet images). 520 systems, 2151 image records.",
  "surveys": {
   "DSHARP": {
    "entries": "done",

@@ -389,3 +389,17 @@ embedded candidate protoplanets w/ rich disk coverage, 7 SPHERE disk-survey
 stellar companions, 3 brand-new 2026 KOINTREAU candidates, 2 wide-CPM confirmed
 by CPM+spectroscopy, 2 refuted/disputed); zero unexplained singles. 520 systems,
 2146 image records, 0 errors / 0 warnings.
+
+2026-07-11 (CT Cha b, user-directed - corrects the "stays single" call above). The
+prior step-2 agent declared CT Cha b single after checking only Bonnefoy 2014 +
+Ginski 2024. The maintainer pointed to the fuller literature: +5 detection panels
+added. Wu 2015 (arXiv 1501.01396 = 2015ApJ...801....4W) Fig 1 BOTTOM row = Magellan
+MagAO/VisAO halo-subtracted optical detections of CT Cha B in r' (0.62, faint/
+smoothed), i' (0.77), z' (0.91), Y_S (0.98 um), obs 2013-04-06. Cugno 2025 (arXiv
+2509.15209 = 2025ApJ...991L..46C, ApJL) = JWST/MIRI MRS spectral-cross-correlation
+starlight-removed detection of CT Cha b's carbon-rich circumplanetary disk (13.3-
+15.6 um image, PID 1958, obs 2022-08-15). CT Cha b now has 6 planet images spanning
+NACO NIR (Schmidt 2008) + MagAO optical (Wu 2015) + JWST mid-IR (Cugno 2025).
+LESSON: a "no follow-up image" negative from a narrow 2-3 paper agent check is
+unreliable - run the full ADS abs:+imaging sweep before concluding single. 520
+systems, 2151 image records, 0 errors / 0 warnings.

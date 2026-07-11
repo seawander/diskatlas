@@ -88,6 +88,116 @@
    },
    "file": "images/ct-cha/ct-cha_mrs2025.png",
    "epoch": "2023-02-28"
+  },
+  {
+   "image_id": "ct-cha_visao-r-2013",
+   "type": "planet",
+   "facility": "Magellan-MagAO",
+   "instrument": "VisAO",
+   "wavelength_um": 0.62,
+   "wavelength_label": "r' 0.62 um (halo-subtracted; B faint, smoothed)",
+   "technique": "PSF subtraction",
+   "survey": null,
+   "file": "images/ct-cha/ct-cha_visao-r-2013.png",
+   "credit": "Wu et al. 2015, Fig. 1 (bottom row, r') (crop)",
+   "note": "",
+   "paper": {
+    "first_author": "Wu",
+    "year": 2015,
+    "title": "New Extinction and Mass Estimates from Optical Photometry of the Very Low Mass Brown Dwarf Companion CT Chamaeleontis B with the Magellan AO System",
+    "journal": "ApJ 801, 4",
+    "arxiv": "1501.01396",
+    "bibcode": "2015ApJ...801....4W"
+   },
+   "epoch": "2013-04-06"
+  },
+  {
+   "image_id": "ct-cha_visao-i-2013",
+   "type": "planet",
+   "facility": "Magellan-MagAO",
+   "instrument": "VisAO",
+   "wavelength_um": 0.77,
+   "wavelength_label": "i' 0.77 um (halo-subtracted)",
+   "technique": "PSF subtraction",
+   "survey": null,
+   "file": "images/ct-cha/ct-cha_visao-i-2013.png",
+   "credit": "Wu et al. 2015, Fig. 1 (bottom row, i') (crop)",
+   "note": "",
+   "paper": {
+    "first_author": "Wu",
+    "year": 2015,
+    "title": "New Extinction and Mass Estimates from Optical Photometry of the Very Low Mass Brown Dwarf Companion CT Chamaeleontis B with the Magellan AO System",
+    "journal": "ApJ 801, 4",
+    "arxiv": "1501.01396",
+    "bibcode": "2015ApJ...801....4W"
+   },
+   "epoch": "2013-04-06"
+  },
+  {
+   "image_id": "ct-cha_visao-z-2013",
+   "type": "planet",
+   "facility": "Magellan-MagAO",
+   "instrument": "VisAO",
+   "wavelength_um": 0.91,
+   "wavelength_label": "z' 0.91 um (halo-subtracted)",
+   "technique": "PSF subtraction",
+   "survey": null,
+   "file": "images/ct-cha/ct-cha_visao-z-2013.png",
+   "credit": "Wu et al. 2015, Fig. 1 (bottom row, z') (crop)",
+   "note": "",
+   "paper": {
+    "first_author": "Wu",
+    "year": 2015,
+    "title": "New Extinction and Mass Estimates from Optical Photometry of the Very Low Mass Brown Dwarf Companion CT Chamaeleontis B with the Magellan AO System",
+    "journal": "ApJ 801, 4",
+    "arxiv": "1501.01396",
+    "bibcode": "2015ApJ...801....4W"
+   },
+   "epoch": "2013-04-06"
+  },
+  {
+   "image_id": "ct-cha_visao-ys-2013",
+   "type": "planet",
+   "facility": "Magellan-MagAO",
+   "instrument": "VisAO",
+   "wavelength_um": 0.98,
+   "wavelength_label": "Y_S 0.98 um (halo-subtracted)",
+   "technique": "PSF subtraction",
+   "survey": null,
+   "file": "images/ct-cha/ct-cha_visao-ys-2013.png",
+   "credit": "Wu et al. 2015, Fig. 1 (bottom row, Ys) (crop)",
+   "note": "",
+   "paper": {
+    "first_author": "Wu",
+    "year": 2015,
+    "title": "New Extinction and Mass Estimates from Optical Photometry of the Very Low Mass Brown Dwarf Companion CT Chamaeleontis B with the Magellan AO System",
+    "journal": "ApJ 801, 4",
+    "arxiv": "1501.01396",
+    "bibcode": "2015ApJ...801....4W"
+   },
+   "epoch": "2013-04-06"
+  },
+  {
+   "image_id": "ct-cha_miri-mrs-2022",
+   "type": "planet",
+   "facility": "JWST",
+   "instrument": "MIRI/MRS",
+   "wavelength_um": 14.5,
+   "wavelength_label": "MRS 13.3-15.6 um (SCC starlight-removed detection)",
+   "technique": "spectral cross-correlation",
+   "survey": null,
+   "file": "images/ct-cha/ct-cha_miri-mrs-2022.png",
+   "credit": "Cugno et al. 2025, Fig. 1 (SCC map) (crop)",
+   "note": "",
+   "paper": {
+    "first_author": "Cugno",
+    "year": 2025,
+    "title": "A Carbon-rich Disk Surrounding a Planetary-mass Companion",
+    "journal": "ApJL 991, L46",
+    "arxiv": "2509.15209",
+    "bibcode": "2025ApJ...991L..46C"
+   },
+   "epoch": "2022-08-15"
   }
  ],
  "notes": null,
