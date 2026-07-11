@@ -2463,5 +2463,15 @@
   "status": "ingested",
   "reason": "Long 2023 double-ring -> new system 2mass-j04124068-2438157",
   "date": "2026-07-10"
+ },
+ "0903.0858": {
+  "status": "excluded",
+  "reason": "MWC 778 (Perrin 2009): the edge-on disk is inferred from centrosymmetric polarization vectors, not a cleanly resolved disk structure (fails >=3-resolution-element bar); also no SIMBAD parallax/distance",
+  "date": "2026-07-10"
+ },
+ "1607.02525": {
+  "status": "excluded",
+  "reason": "HD 131399 Ab (Wagner 2016 Science): the imaged point source was shown to be a background star, not a companion (Nielsen 2017); with no disk and no real companion, a standalone entry is out of scope (unlike Fomalhaut b which hangs off a real resolved ring)",
+  "date": "2026-07-10"
  }
 }
