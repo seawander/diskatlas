@@ -1,0 +1,51 @@
+{
+ "id": "2mass-j03370363-3039291",
+ "name": "2MASS J03370363+3039291",
+ "alt_names": [
+  "J0337"
+ ],
+ "simbad": "2MASS J03370363+3039291",
+ "ra_deg": 54.2651371,
+ "dec_deg": 30.6580772,
+ "dist_pc": 297.5,
+ "plx_mas": 3.3612,
+ "mags": {
+  "V": 11.29,
+  "G": 10.963,
+  "J": 9.75,
+  "H": 9.437,
+  "K": 9.137
+ },
+ "sptype": null,
+ "region": "Perseus",
+ "categories": [
+  "protoplanetary"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "image_id": "2mass-j03370363-3039291_nirc2-uyama22",
+   "type": "disk_scattered",
+   "facility": "Keck-NIRC2",
+   "instrument": "NIRC2",
+   "wavelength_um": 2.12,
+   "wavelength_label": "Kp band 2.12 um scattered light (KLIP ADI; large cavity)",
+   "technique": "ADI",
+   "survey": null,
+   "file": "images/2mass-j03370363-3039291/2mass-j03370363-3039291_nirc2-uyama22.png",
+   "credit": "Uyama et al. 2022, Fig. (Kp KLIP, crop)",
+   "note": "scattered-light arcs around a large (~70-100 au) cavity in this Perseus transition disk",
+   "paper": {
+    "first_author": "Uyama",
+    "year": 2022,
+    "title": "A Spatially-resolved Large Cavity of the J0337 Protoplanetary Disk in Perseus",
+    "journal": "AJ 163, 204",
+    "arxiv": "2201.11771",
+    "bibcode": "2022AJ....163..204U"
+   },
+   "epoch": "2016-10-15"
+  }
+ ],
+ "notes": "Perseus (~300 pc) transition disk with a large, spatially resolved cavity imaged in Keck/NIRC2 scattered light.",
+ "last_updated": "2026-07-10"
+}

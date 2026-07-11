@@ -2473,5 +2473,20 @@
   "status": "excluded",
   "reason": "HD 131399 Ab (Wagner 2016 Science): the imaged point source was shown to be a background star, not a companion (Nielsen 2017); with no disk and no real companion, a standalone entry is out of scope (unlike Fomalhaut b which hangs off a real resolved ring)",
   "date": "2026-07-10"
+ },
+ "2201.11771": {
+  "status": "ingested",
+  "reason": "J0337 NIRC2 cavity -> new system 2mass-j03370363-3039291",
+  "date": "2026-07-10"
+ },
+ "2412.05535": {
+  "status": "excluded",
+  "reason": "Long 2025 'First JWST view of 30-Myr disk' (J0446B): JWST/MRS spectroscopy paper (H2/atomic line panels, SED) -- no resolved image, out of scope",
+  "date": "2026-07-10"
+ },
+ "2506.06433": {
+  "status": "excluded",
+  "reason": "Huang 2025 Haro 6-13 grand-design spirals: same ALMA Band 6 as the in-atlas Long 2019 record; spiral structure only emerges via unsharp masking (processed display), subtle in a standalone crop; band-redundant, deferred",
+  "date": "2026-07-10"
  }
 }

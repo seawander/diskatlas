@@ -7246,5 +7246,11 @@
   "source": "tex:ingestion",
   "arxiv": "2303.14586",
   "snippet": "obs section: ALMA Band 6 on UT 2021 August 27 (Return to Operations)"
+ },
+ "2mass-j03370363-3039291_nirc2-uyama22": {
+  "epoch": "2016-10-15",
+  "source": "tex:ingestion",
+  "arxiv": "2201.11771",
+  "snippet": "obs section: UT 2016 October 15, Keck/NIRC2"
  }
 }
