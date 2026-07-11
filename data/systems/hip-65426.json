@@ -234,6 +234,28 @@
    },
    "file": "images/hip-65426/hip-65426_naco2019-mp.png",
    "epoch": "2017-05-19"
+  },
+  {
+   "image_id": "hip-65426_sphere2017-ifs-yj",
+   "type": "planet",
+   "facility": "VLT-SPHERE",
+   "instrument": "IFS",
+   "wavelength_um": 1.0,
+   "wavelength_label": "YJ band (SPHERE/IFS, TLOCI); companion b",
+   "technique": "ADI",
+   "survey": null,
+   "credit": "Chauvin et al. 2017, Fig. 1 left (IFS YJ panel, crop)",
+   "hires_url": null,
+   "paper": {
+    "first_author": "Chauvin",
+    "year": 2017,
+    "title": "Discovery of a warm, dusty giant planet around HIP 65426",
+    "journal": "A&A 605, L9",
+    "arxiv": "1707.01413",
+    "bibcode": "2017A&A...605L...9C"
+   },
+   "file": "images/hip-65426/hip-65426_sphere2017-ifs-yj.png",
+   "epoch": "2017-02-07"
   }
  ],
  "notes": null,

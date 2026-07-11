@@ -43,7 +43,7 @@
    "facility": "Keck-NIRC2",
    "instrument": "NIRC2 Ks",
    "wavelength_um": 2.15,
-   "wavelength_label": "Ks-band (2.15 um)",
+   "wavelength_label": "Ks band (2.15 um; Keck/NIRC2, discovery epoch); companion B",
    "technique": "ADI",
    "survey": "C-BASS",
    "file": "images/hip-17453/hip-17453_cbass.png",
@@ -56,7 +56,74 @@
     "journal": "arXiv e-print",
     "arxiv": "2606.30733",
     "bibcode": "2026arXiv260630733B"
-   }
+   },
+   "epoch": "2013-12-18"
+  },
+  {
+   "image_id": "hip-17453_cbass-ks-2024feb",
+   "type": "planet",
+   "facility": "Keck",
+   "instrument": "NIRC2",
+   "wavelength_um": 2.15,
+   "wavelength_label": "Ks band (2.15 um; Keck/NIRC2); companion B",
+   "technique": "ADI",
+   "survey": null,
+   "credit": "Brinjikji et al. 2026 (C-BASS), Fig. 1 (Ks 2024-02-18 panel, crop)",
+   "hires_url": null,
+   "paper": {
+    "first_author": "Brinjikji",
+    "year": 2026,
+    "title": "The Companions to B and A Stars Snapshot (C-BASS) Survey: I. Discovery of a Young Brown Dwarf Companion to HIP 17453",
+    "journal": "arXiv e-print",
+    "arxiv": "2606.30733",
+    "bibcode": "2026arXiv260630733B"
+   },
+   "file": "images/hip-17453/hip-17453_cbass-ks-2024feb.png",
+   "epoch": "2024-02-18"
+  },
+  {
+   "image_id": "hip-17453_nirc2-ks-2024oct",
+   "type": "planet",
+   "facility": "Keck",
+   "instrument": "NIRC2",
+   "wavelength_um": 2.15,
+   "wavelength_label": "Ks band (2.15 um; Keck/NIRC2); companion B",
+   "technique": "ADI",
+   "survey": null,
+   "credit": "Brinjikji et al. 2026 (C-BASS), Fig. 1 (Ks 2024-10-26 panel, crop)",
+   "hires_url": null,
+   "paper": {
+    "first_author": "Brinjikji",
+    "year": 2026,
+    "title": "The Companions to B and A Stars Snapshot (C-BASS) Survey: I. Discovery of a Young Brown Dwarf Companion to HIP 17453",
+    "journal": "arXiv e-print",
+    "arxiv": "2606.30733",
+    "bibcode": "2026arXiv260630733B"
+   },
+   "file": "images/hip-17453/hip-17453_nirc2-ks-2024oct.png",
+   "epoch": "2024-10-26"
+  },
+  {
+   "image_id": "hip-17453_nirc2-j-2025oct",
+   "type": "planet",
+   "facility": "Keck",
+   "instrument": "NIRC2",
+   "wavelength_um": 1.25,
+   "wavelength_label": "J band (1.25 um; Keck/NIRC2); companion B",
+   "technique": "ADI",
+   "survey": null,
+   "credit": "Brinjikji et al. 2026 (C-BASS), Fig. 1 (J 2025-10-09 panel, crop)",
+   "hires_url": null,
+   "paper": {
+    "first_author": "Brinjikji",
+    "year": 2026,
+    "title": "The Companions to B and A Stars Snapshot (C-BASS) Survey: I. Discovery of a Young Brown Dwarf Companion to HIP 17453",
+    "journal": "arXiv e-print",
+    "arxiv": "2606.30733",
+    "bibcode": "2026arXiv260630733B"
+   },
+   "file": "images/hip-17453/hip-17453_nirc2-j-2025oct.png",
+   "epoch": "2025-10-09"
   }
  ],
  "notes": "HIP 17453 A is a chemically peculiar A0V star at 80.5 pc (Gaia). HIP 17453 B is a co-moving brown-dwarf companion (~53 Mjup, L2+-1) discovered with Keck/NIRC2 over a ~10-year astrometric baseline as part of the C-BASS survey.",

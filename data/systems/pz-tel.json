@@ -37,16 +37,15 @@
  ],
  "images": [
   {
-   "image_id": "pz-tel_nici2010",
+   "image_id": "pz-tel_nici2010-j",
    "type": "planet",
    "facility": "Gemini-NICI",
    "instrument": "NICI",
-   "wavelength_um": 2.2,
-   "wavelength_label": "Ks band coronagraphic imaging (also J, H; + 2.12 um ADI panel)",
+   "wavelength_um": 1.25,
+   "wavelength_label": "J (1.25 um; Gemini/NICI); companion B",
    "technique": "coronagraphy",
-   "survey": "Gemini NICI Planet-Finding Campaign",
-   "file": "images/pz-tel/pz-tel_nici2010.png",
-   "credit": "Biller et al. 2010, Fig. 1 (crop)",
+   "survey": null,
+   "credit": "Biller et al. 2010, Fig. 1 (J panel, crop)",
    "hires_url": null,
    "paper": {
     "first_author": "Biller",
@@ -56,7 +55,74 @@
     "arxiv": "1007.4808",
     "bibcode": "2010ApJ...720L..82B"
    },
-   "epoch": "2009 Apr"
+   "file": "images/pz-tel/pz-tel_nici2010-j.png",
+   "epoch": "2010-05"
+  },
+  {
+   "image_id": "pz-tel_nici2010-h",
+   "type": "planet",
+   "facility": "Gemini-NICI",
+   "instrument": "NICI",
+   "wavelength_um": 1.65,
+   "wavelength_label": "H (1.65 um; Gemini/NICI); companion B",
+   "technique": "coronagraphy",
+   "survey": null,
+   "credit": "Biller et al. 2010, Fig. 1 (H panel, crop)",
+   "hires_url": null,
+   "paper": {
+    "first_author": "Biller",
+    "year": 2010,
+    "title": "The Gemini NICI Planet-Finding Campaign: Discovery of a Close Substellar Companion to the Young Debris Disk Star PZ Tel",
+    "journal": "ApJL 720, L82",
+    "arxiv": "1007.4808",
+    "bibcode": "2010ApJ...720L..82B"
+   },
+   "file": "images/pz-tel/pz-tel_nici2010-h.png",
+   "epoch": "2010-05"
+  },
+  {
+   "image_id": "pz-tel_nici2010-ks",
+   "type": "planet",
+   "facility": "Gemini-NICI",
+   "instrument": "NICI",
+   "wavelength_um": 2.15,
+   "wavelength_label": "Ks (2.15 um; Gemini/NICI); companion B",
+   "technique": "coronagraphy",
+   "survey": null,
+   "credit": "Biller et al. 2010, Fig. 1 (Ks panel, crop)",
+   "hires_url": null,
+   "paper": {
+    "first_author": "Biller",
+    "year": 2010,
+    "title": "The Gemini NICI Planet-Finding Campaign: Discovery of a Close Substellar Companion to the Young Debris Disk Star PZ Tel",
+    "journal": "ApJL 720, L82",
+    "arxiv": "1007.4808",
+    "bibcode": "2010ApJ...720L..82B"
+   },
+   "file": "images/pz-tel/pz-tel_nici2010-ks.png",
+   "epoch": "2010-05"
+  },
+  {
+   "image_id": "pz-tel_nici2010-h2",
+   "type": "planet",
+   "facility": "Gemini-NICI",
+   "instrument": "NICI",
+   "wavelength_um": 2.12,
+   "wavelength_label": "H2 (1-0) narrowband (2.12 um; Gemini/NICI); companion B",
+   "technique": "ADI",
+   "survey": null,
+   "credit": "Biller et al. 2010, Fig. 1 (H2 (1-0) narrowband panel, crop)",
+   "hires_url": null,
+   "paper": {
+    "first_author": "Biller",
+    "year": 2010,
+    "title": "The Gemini NICI Planet-Finding Campaign: Discovery of a Close Substellar Companion to the Young Debris Disk Star PZ Tel",
+    "journal": "ApJL 720, L82",
+    "arxiv": "1007.4808",
+    "bibcode": "2010ApJ...720L..82B"
+   },
+   "file": "images/pz-tel/pz-tel_nici2010-h2.png",
+   "epoch": "2010-05"
   }
  ],
  "notes": null,

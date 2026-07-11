@@ -57,6 +57,28 @@
     "bibcode": "2015ApJ...811..103M"
    },
    "epoch": "2013-2015"
+  },
+  {
+   "image_id": "hr-3549_naco2013",
+   "type": "planet",
+   "facility": "VLT-NACO",
+   "instrument": "NACO",
+   "wavelength_um": 3.8,
+   "wavelength_label": "L' band (VLT/NACO; discovery epoch); companion B",
+   "technique": "ADI",
+   "survey": null,
+   "credit": "Mawet et al. 2015, Fig. 1 left (discovery, crop)",
+   "hires_url": null,
+   "paper": {
+    "first_author": "Mawet",
+    "year": 2015,
+    "title": "Discovery of a low-mass companion around HR3549",
+    "journal": "ApJ 811, 103",
+    "arxiv": "1509.05689",
+    "bibcode": "2015ApJ...811..103M"
+   },
+   "file": "images/hr-3549/hr-3549_naco2013.png",
+   "epoch": "2013-01-13"
   }
  ],
  "notes": null,
