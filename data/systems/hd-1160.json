@@ -61,14 +61,14 @@
   {
    "image_id": "hd-1160_nici2012",
    "type": "planet",
-   "facility": "Gemini-NICI",
-   "instrument": "NICI",
-   "wavelength_um": 1.6,
-   "wavelength_label": "H band (NICI), discovery epoch 2010.8; B and C labeled",
-   "technique": "ADI",
+   "facility": "VLT/Gemini/Keck",
+   "instrument": "NACO / NICI / NIRC2 (multi-epoch)",
+   "wavelength_um": 2.2,
+   "wavelength_label": "Ks/L'/H/K multi-epoch (2002-2011); common-proper-motion confirmation of B & C",
+   "technique": "other",
    "survey": "Gemini NICI Planet-Finding Campaign",
    "file": "images/hd-1160/hd-1160_nici2012.png",
-   "credit": "Nielsen et al. 2012, Fig. 1 (crop)",
+   "credit": "Nielsen et al. 2012, Fig. 1 (full 12-epoch tile: VLT NACO + Gemini NICI + Keck NIRC2)",
    "hires_url": null,
    "paper": {
     "first_author": "Nielsen",
@@ -78,7 +78,29 @@
     "arxiv": "1202.2854",
     "bibcode": "2012ApJ...750...53N"
    },
-   "epoch": "2010"
+   "epoch": "2002-2011"
+  },
+  {
+   "image_id": "hd-1160_isaac2012",
+   "type": "planet",
+   "facility": "VLT-ISAAC",
+   "instrument": "ISAAC (multi-epoch)",
+   "wavelength_um": 3.5,
+   "wavelength_label": "L'/Ks multi-epoch (2002-2011); companion C common-proper-motion (seeing-limited; B not detected)",
+   "technique": "other",
+   "survey": null,
+   "credit": "Nielsen et al. 2012, Fig. 2 (full VLT ISAAC archival tile)",
+   "hires_url": null,
+   "paper": {
+    "first_author": "Nielsen",
+    "year": 2012,
+    "title": "The Gemini NICI Planet-Finding Campaign: Discovery of a Multiple System Orbiting the Young A Star HD 1160",
+    "journal": "ApJ 750, 53",
+    "arxiv": "1202.2854",
+    "bibcode": "2012ApJ...750...53N"
+   },
+   "file": "images/hd-1160/hd-1160_isaac2012.png",
+   "epoch": "2002-2011"
   }
  ],
  "notes": "HD 1160 B's classification is disputed (brown dwarf vs. low-mass star near the stellar boundary); HD 1160 C is a confirmed stellar (M3.5) wide companion.",

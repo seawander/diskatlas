@@ -48,7 +48,7 @@
    "wavelength_label": "JHK broadband (1.1-2.4 um)",
    "technique": "RDI",
    "survey": null,
-   "credit": "Steiger et al. 2021, Fig. 2 (crop)",
+   "credit": "Steiger et al. 2021, Fig. 2 left (SCExAO/CHARIS broadband JHK, crop)",
    "hires_url": null,
    "paper": {
     "first_author": "Steiger",
@@ -59,7 +59,73 @@
     "bibcode": "2021AJ....162...44S"
    },
    "file": "images/hip-109427/hip-109427_scexao2021.png",
-   "epoch": "2020"
+   "epoch": "2020-07-31"
+  },
+  {
+   "image_id": "hip-109427_scexao-mec-yj",
+   "type": "planet",
+   "facility": "Subaru-SCExAO",
+   "instrument": "SCExAO/MEC",
+   "wavelength_um": 1.15,
+   "wavelength_label": "Y+J band (SCExAO/MEC; companion B, total intensity — discovery instrument)",
+   "technique": "coronagraphy",
+   "survey": null,
+   "credit": "Steiger et al. 2021, Fig. 1 left (crop)",
+   "hires_url": null,
+   "paper": {
+    "first_author": "Steiger",
+    "year": 2021,
+    "title": "SCExAO/MEC and CHARIS Discovery of a Low Mass, 6 AU-Separation Companion to HIP 109427 using Stochastic Speckle Discrimination and High-Contrast Spectroscopy",
+    "journal": "AJ",
+    "arxiv": "2103.06898",
+    "bibcode": "2021AJ....162...44S"
+   },
+   "file": "images/hip-109427/hip-109427_scexao-mec-yj.png",
+   "epoch": "2020-10-07"
+  },
+  {
+   "image_id": "hip-109427_charis-h",
+   "type": "planet",
+   "facility": "Subaru-SCExAO",
+   "instrument": "CHARIS IFS",
+   "wavelength_um": 1.65,
+   "wavelength_label": "H band (SCExAO/CHARIS; companion B, no PSF subtraction)",
+   "technique": "other",
+   "survey": null,
+   "credit": "Steiger et al. 2021, Fig. 2 middle (crop)",
+   "hires_url": null,
+   "paper": {
+    "first_author": "Steiger",
+    "year": 2021,
+    "title": "SCExAO/MEC and CHARIS Discovery of a Low Mass, 6 AU-Separation Companion to HIP 109427 using Stochastic Speckle Discrimination and High-Contrast Spectroscopy",
+    "journal": "AJ",
+    "arxiv": "2103.06898",
+    "bibcode": "2021AJ....162...44S"
+   },
+   "file": "images/hip-109427/hip-109427_charis-h.png",
+   "epoch": "2020-10-07"
+  },
+  {
+   "image_id": "hip-109427_nirc2-lp",
+   "type": "planet",
+   "facility": "Keck",
+   "instrument": "NIRC2",
+   "wavelength_um": 3.78,
+   "wavelength_label": "L' band 3.78 um (Keck/NIRC2; companion B, RDI/KLIP)",
+   "technique": "RDI",
+   "survey": null,
+   "credit": "Steiger et al. 2021, Fig. 2 right (crop)",
+   "hires_url": null,
+   "paper": {
+    "first_author": "Steiger",
+    "year": 2021,
+    "title": "SCExAO/MEC and CHARIS Discovery of a Low Mass, 6 AU-Separation Companion to HIP 109427 using Stochastic Speckle Discrimination and High-Contrast Spectroscopy",
+    "journal": "AJ",
+    "arxiv": "2103.06898",
+    "bibcode": "2021AJ....162...44S"
+   },
+   "file": "images/hip-109427/hip-109427_nirc2-lp.png",
+   "epoch": "2020-12-25"
   }
  ],
  "notes": "HIP 109427 (theta Peg) is a nearby A1V lambda Boo star. Companion B was first detected with SCExAO/MEC using Stochastic Speckle Discrimination (SSD; Fig. 1 of the paper) and subsequently confirmed/characterized with SCExAO/CHARIS spectroscopy and Keck/NIRC2 Lp photometry (Fig. 2, used here). Tagged with method imaging per atlas convention; companion is low-mass stellar (M dwarf), not planetary, per the paper's own mass estimate.",
