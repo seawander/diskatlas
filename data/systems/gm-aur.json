@@ -35,6 +35,27 @@
    "epoch": "2017-2018"
   },
   {
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 4",
+   "wavelength_um": 2100,
+   "wavelength_label": "2.1 mm continuum",
+   "technique": "interferometry",
+   "survey": null,
+   "credit": "Huang et al. 2020, Fig. 1 (crop: top-right panel)",
+   "paper": {
+    "first_author": "Huang",
+    "year": 2020,
+    "title": "A Multifrequency ALMA Characterization of Substructures in the GM Aur Protoplanetary Disk",
+    "journal": "ApJ 891, 48",
+    "arxiv": "2001.11040",
+    "bibcode": "2020ApJ...891...48H"
+   },
+   "image_id": "gm-aur_alma2020-band4",
+   "file": "images/gm-aur/gm-aur_alma-band4-2.1mm.png",
+   "epoch": "2017-2018"
+  },
+  {
    "type": "disk_scattered",
    "facility": "VLT-SPHERE",
    "instrument": "IRDIS DPI",
@@ -221,7 +242,70 @@
     "bibcode": "2016ApJ...829...65H"
    },
    "file": "images/gm-aur/gm-aur_acssbc_f140lp.png",
-   "epoch": "2003-2008"
+   "epoch": "2008-08-13"
+  },
+  {
+   "image_id": "gm-aur_acssbc_f165lp",
+   "type": "disk_scattered",
+   "facility": "HST",
+   "instrument": "ACS/SBC",
+   "wavelength_um": 0.165,
+   "wavelength_label": "F165LP (~1650 A, FUV scattered light)",
+   "technique": "RDI",
+   "survey": null,
+   "credit": "Hornbeck et al. 2016, Fig. 4 (crop: top-center panel)",
+   "paper": {
+    "first_author": "Hornbeck",
+    "year": 2016,
+    "title": "Panchromatic Imaging of a Transitional Disk: The Disk of GM Aur in Optical and FUV Scattered Light",
+    "journal": "ApJ",
+    "arxiv": "1607.03520",
+    "bibcode": "2016ApJ...829...65H"
+   },
+   "file": "images/gm-aur/gm-aur_acssbc_f165lp.png",
+   "epoch": "2008-08-13"
+  },
+  {
+   "image_id": "gm-aur_acshrc_f330w",
+   "type": "disk_scattered",
+   "facility": "HST",
+   "instrument": "ACS/HRC",
+   "wavelength_um": 0.338,
+   "wavelength_label": "F330W (~3376 A, near-UV scattered light)",
+   "technique": "RDI",
+   "survey": null,
+   "credit": "Hornbeck et al. 2016, Fig. 4 (crop: top-right panel)",
+   "paper": {
+    "first_author": "Hornbeck",
+    "year": 2016,
+    "title": "Panchromatic Imaging of a Transitional Disk: The Disk of GM Aur in Optical and FUV Scattered Light",
+    "journal": "ApJ",
+    "arxiv": "1607.03520",
+    "bibcode": "2016ApJ...829...65H"
+   },
+   "file": "images/gm-aur/gm-aur_acshrc_f330w.png",
+   "epoch": "2003-12-31"
+  },
+  {
+   "image_id": "gm-aur_wfpc2_f555w",
+   "type": "disk_scattered",
+   "facility": "HST",
+   "instrument": "WFPC2",
+   "wavelength_um": 0.544,
+   "wavelength_label": "F555W (V-band optical scattered light)",
+   "technique": "RDI",
+   "survey": null,
+   "credit": "Hornbeck et al. 2016, Fig. 4 (crop: bottom-left panel)",
+   "paper": {
+    "first_author": "Hornbeck",
+    "year": 2016,
+    "title": "Panchromatic Imaging of a Transitional Disk: The Disk of GM Aur in Optical and FUV Scattered Light",
+    "journal": "ApJ",
+    "arxiv": "1607.03520",
+    "bibcode": "2016ApJ...829...65H"
+   },
+   "file": "images/gm-aur/gm-aur_wfpc2_f555w.png",
+   "epoch": "1995-07-29"
   },
   {
    "type": "disk_mm",

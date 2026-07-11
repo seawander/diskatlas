@@ -140,7 +140,29 @@
     "arxiv": "1003.4318",
     "bibcode": "2010ApJ...714.1746I"
    },
-   "file": "images/ry-tau/ry-tau_carma2010.png"
+   "file": "images/ry-tau/ry-tau_carma2010.png",
+   "epoch": "2007-2009"
+  },
+  {
+   "image_id": "ry-tau_carma2010-2.8mm",
+   "type": "disk_mm",
+   "facility": "CARMA",
+   "instrument": "CARMA",
+   "wavelength_um": 2800,
+   "wavelength_label": "2.8 mm continuum",
+   "technique": "interferometry",
+   "survey": null,
+   "credit": "Isella et al. 2010, Fig. 1 (crop: lower-left panel)",
+   "paper": {
+    "first_author": "Isella",
+    "year": 2010,
+    "title": "Investigating Planet Formation in Circumstellar Disks: CARMA Observations of RY Tau and DG Tau",
+    "journal": "ApJ, 714, 1746",
+    "arxiv": "1003.4318",
+    "bibcode": "2010ApJ...714.1746I"
+   },
+   "file": "images/ry-tau/ry-tau_alma-2.8mm-isella10.png",
+   "epoch": "2008-2009"
   },
   {
    "image_id": "ry-tau_sphere-rdi-xie22",
