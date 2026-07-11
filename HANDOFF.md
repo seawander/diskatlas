@@ -16,7 +16,7 @@ runtime build.
 
 ## Current state (2026-07-10)
 
-- **474 systems · 1581 image records (all with local panels) · validate.py
+- **474 systems · 1612 image records (all with local panels) · validate.py
   0 errors / 0 warnings · all bibcodes ADS-verified · epoch coverage 92.1%**
   (`python3 backend/build.py` is always canonical for stats).
 - Live at **github.com/seawander/diskatlas** + GitHub Pages. Publish = **direct

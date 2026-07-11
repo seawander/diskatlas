@@ -1,7 +1,11 @@
 {
  "id": "hd-48682",
  "name": "HD 48682",
- "alt_names": ["GJ 245", "HIP 32480", "HR 2483"],
+ "alt_names": [
+  "GJ 245",
+  "HIP 32480",
+  "HR 2483"
+ ],
  "simbad": "HD 48682",
  "ra_deg": 101.68473722918,
  "dec_deg": 43.57742456382,
@@ -32,6 +36,27 @@
     "arxiv": "2501.09058",
     "bibcode": "2025A&A...693A.151M"
    }
+  },
+  {
+   "image_id": "hd-48682_scuba2-850um-sons",
+   "type": "disk_mm",
+   "facility": "JCMT",
+   "instrument": "SCUBA-2",
+   "wavelength_um": 850,
+   "wavelength_label": "850 um (JCMT/SCUBA-2, SONS survey; resolved emission)",
+   "technique": "other",
+   "survey": "SONS",
+   "file": "images/hd-48682/hd-48682_scuba2-850um-sons.png",
+   "credit": "Holland et al. 2017 (SONS), Fig. A6a (crop: 850 um S/N image)",
+   "paper": {
+    "first_author": "Holland",
+    "year": 2017,
+    "title": "SONS: The JCMT legacy survey of debris discs in the submillimetre",
+    "journal": "MNRAS 470, 3606",
+    "arxiv": "1706.01218",
+    "bibcode": "2017MNRAS.470.3606H"
+   },
+   "epoch": "2012-2015"
   }
  ],
  "notes": "AUTO-CREATED from staging - fill metadata & coords",

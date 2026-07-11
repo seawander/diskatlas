@@ -28,7 +28,7 @@
    "wavelength_label": "1.3 cm (colors) + 7 mm (contours)",
    "technique": "interferometry",
    "survey": null,
-   "credit": "Carrasco-Gonzalez et al. 2012, Fig. 2b (crop)",
+   "credit": "Carrasco-González et al. 2012, Fig. 2b (crop: 7 mm contours over 1.3 cm)",
    "paper": {
     "first_author": "Carrasco-Gonzalez",
     "year": 2012,
@@ -37,7 +37,71 @@
     "arxiv": "1205.3302",
     "bibcode": "2012ApJ...752L..29C"
    },
-   "file": "images/hh-80-81/hh-80-81_vla2012.png"
+   "file": "images/hh-80-81/hh-80-81_vla2012.png",
+   "epoch": "2006"
+  },
+  {
+   "image_id": "hh-80-81_carrasco2012-860um",
+   "type": "disk_mm",
+   "facility": "VLA/SMA",
+   "instrument": "SMA + VLA",
+   "wavelength_um": 860,
+   "wavelength_label": "860 µm SMA continuum (contours) + 3.6 cm VLA jet (colors); disk + bipolar jet",
+   "technique": "interferometry",
+   "survey": null,
+   "file": "images/hh-80-81/hh-80-81_carrasco2012-860um.png",
+   "credit": "Carrasco-González et al. 2012, Fig. 2a (crop)",
+   "paper": {
+    "first_author": "Carrasco-Gonzalez",
+    "year": 2012,
+    "title": "Resolving the Circumstellar Disk Around the Massive Protostar Driving the HH 80-81 Jet",
+    "journal": "ApJ",
+    "arxiv": "1205.3302",
+    "bibcode": "2012ApJ...752L..29C"
+   },
+   "epoch": "2006"
+  },
+  {
+   "image_id": "hh-80-81_carrasco2012-7mm-dust",
+   "type": "disk_mm",
+   "facility": "VLA/SMA",
+   "instrument": "VLA (Q, 7 mm)",
+   "wavelength_um": 7000,
+   "wavelength_label": "7 mm dust continuum (free-free subtracted, contours) + 1.3 cm VLA (colors); resolved disk",
+   "technique": "interferometry",
+   "survey": null,
+   "file": "images/hh-80-81/hh-80-81_carrasco2012-7mm-dust.png",
+   "credit": "Carrasco-González et al. 2012, Fig. 2c (crop)",
+   "paper": {
+    "first_author": "Carrasco-Gonzalez",
+    "year": 2012,
+    "title": "Resolving the Circumstellar Disk Around the Massive Protostar Driving the HH 80-81 Jet",
+    "journal": "ApJ",
+    "arxiv": "1205.3302",
+    "bibcode": "2012ApJ...752L..29C"
+   },
+   "epoch": "2006"
+  },
+  {
+   "image_id": "hh-80-81_carrasco2012-so",
+   "type": "disk_mm",
+   "facility": "VLA/SMA",
+   "instrument": "VLA + SMA",
+   "wavelength_um": 36000,
+   "wavelength_label": "3.6 cm VLA jet (contours) + SMA SO 1st-moment velocity (colors); disk rotation",
+   "technique": "interferometry",
+   "survey": null,
+   "file": "images/hh-80-81/hh-80-81_carrasco2012-so.png",
+   "credit": "Carrasco-González et al. 2012, Fig. 1a (crop)",
+   "paper": {
+    "first_author": "Carrasco-Gonzalez",
+    "year": 2012,
+    "title": "Resolving the Circumstellar Disk Around the Massive Protostar Driving the HH 80-81 Jet",
+    "journal": "ApJ",
+    "arxiv": "1205.3302",
+    "bibcode": "2012ApJ...752L..29C"
+   },
+   "epoch": "2006"
   }
  ],
  "notes": "Massive protostar (~17 Msun) driving the HH 80-81 jet, one of the most powerful known from a young star. VLA (7mm, 1.3cm, 3.6cm) + SMA (860um) resolve a compact disk-like structure perpendicular to the jet axis (Carrasco-Gonzalez et al. 2012, arXiv:1205.3302). Distance ~1.7 kpc (kinematic).",

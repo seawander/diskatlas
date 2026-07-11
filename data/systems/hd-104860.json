@@ -139,6 +139,27 @@
    },
    "file": "images/hd-104860/hd-104860_herschel-pacs.png",
    "epoch": "2012-03-23"
+  },
+  {
+   "image_id": "hd-104860_scuba2-850um-sons",
+   "type": "disk_mm",
+   "facility": "JCMT",
+   "instrument": "SCUBA-2",
+   "wavelength_um": 850,
+   "wavelength_label": "850 um (JCMT/SCUBA-2, SONS survey; resolved emission)",
+   "technique": "other",
+   "survey": "SONS",
+   "file": "images/hd-104860/hd-104860_scuba2-850um-sons.png",
+   "credit": "Holland et al. 2017 (SONS), Fig. A8a (crop: 850 um S/N image)",
+   "paper": {
+    "first_author": "Holland",
+    "year": 2017,
+    "title": "SONS: The JCMT legacy survey of debris discs in the submillimetre",
+    "journal": "MNRAS 470, 3606",
+    "arxiv": "1706.01218",
+    "bibcode": "2017MNRAS.470.3606H"
+   },
+   "epoch": "2012-2015"
   }
  ],
  "notes": "AUTO-CREATED from staging - fill metadata & coords | ALICE archive has no combined preview for this target (confirmed 2026-07-06) - NICMOS view covered by Ren+2023 record.",
