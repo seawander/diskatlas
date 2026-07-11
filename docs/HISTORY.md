@@ -359,3 +359,33 @@ their abstracts (verified in-browser via the local Chromium). Most of the
 batch-3 data edits + the app.js change were swept into the concurrent
 ingestion session's commit e33f558 by its git add -A (shared-checkout race);
 content is correct and on master.
+
+2026-07-11 (single-image imaged-planet reaudit, user-directed). User rule: a
+confirmed directly-imaged planet is almost never confirmed by ONE image - it
+needs multi-wavelength/multi-epoch, preferably multi-instrument coverage, "or
+the field treats it as a candidate, not a planet." Two-step reaudit of every
+lone-image planet host: STEP 1 = split the cited discovery figure into all its
+panels; STEP 2 (mandatory if still single) = find a second detection in ANOTHER
+published paper via ADS/arXiv. Ingested 44 records this pass (2102->2146), on top
+of the earlier +12 already in 721b934 (beta Pic d, GJ 504 5 filters, HR 8799
+2004, HD 33632 A, HIP 21152). Step-1 splits (+28): HIP 75056 Bb full Y/J/H/K1/K2
+x 2 epochs (Wagner 2020), GJ 758 B two 2009 CPM epochs (Thalmann 2009), HIP 64892
+B (Cheetham 2018), HD 984 B NACO+SINFONI (Meshkat 2015), CD-35 2722 B NICI
+JHK+NIFS (Wahhaj 2011), XEST 13-010 KOINTREAU-2b Pan-STARRS grizy (Walker 2026),
+LSPM J1446 2nd L' epoch (Uyama 2025), GU Psc b Keck H+K (Naud 2014), 2M0219 F2 J
+(Artigau 2015). Step-2 second-paper detections (+16): HD 19467 B gained 6 JWST/NIRCam bands (Greenbaum 2023) + 4
+SPHERE/IRDIS bands (Maire 2020); HIP 78530 B gained LBT/LMIRCam L' (Bailey 2013);
+DH Tau b gained SPHERE-IRDIS H (van Holstein 2021) + HST/WFC3 F656N (Zhou 2014);
+SR 12 c - which held ONLY its ALMA CPD map - gained its missing optical+mid-IR
+detection: HST/WFC3 F656N (Finley 2026, 2606.12862) + Spitzer/IRAC 3.6um
+(Martinez 2022); CVSO 30 c gained a Keck/NIRC2 H panel (Schmidt 2016 step-1).
+Honest negatives (searched, no companion detection image published): CT Cha b
+(Bonnefoy 2014 spectra-only; Ginski 2024 unresolved pol. light) stays single;
+Lachapelle 2015 (HIP 78530) spectroscopy-only. Also surfaced: YSES 2b is now a
+refuted background star (Kenworthy 2025) and FW Tau b is disputed (edge-on disk /
+low-mass star, Caceres 2015 / Wu 2017) - left annotated, not forced. Final scan:
+of 26 remaining lone-planet-image hosts, ALL fall in justified buckets (13 disk-
+embedded candidate protoplanets w/ rich disk coverage, 7 SPHERE disk-survey
+stellar companions, 3 brand-new 2026 KOINTREAU candidates, 2 wide-CPM confirmed
+by CPM+spectroscopy, 2 refuted/disputed); zero unexplained singles. 520 systems,
+2146 image records, 0 errors / 0 warnings.
