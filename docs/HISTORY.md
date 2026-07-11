@@ -342,3 +342,20 @@ al. 2019" -> 2020) with 28 credit strings updated in step, and normalized 4
 first_author formats ("M. Benisty" -> "Benisty"). validate.py now enforces
 all of this permanently: credit-vs-paper author/year consistency and
 paper-year-vs-bibcode-year are ERRORS (ALICE/archive credits exempt).
+
+2026-07-11 (notes citations, user-reported). User flagged that HIP 39017's
+free-text notes asserted the star's age, gamma Dor variability, and HGCA
+acceleration with no references, so they read like unsourced/hallucinated
+claims. Fixed HIP 39017 (each claim now cites Handler 1999 / Henry 2011 /
+Brandt 2021 / Tobin 2024, added as companion-b extra_papers) then swept the
+whole atlas: 64 systems had claim-bearing notes with zero citations. Rewrote
+57 of them to weave inline author+year citations (7 pure "coverage:" editorial
+notes left as-is); 66 of 67 mentions now linkify to real SciX abstracts, the
+lone search-link being 61 Vir's RV-planet ref (Vogt 2010, not a recorded
+paper). Also hardened frontend linkifyCitations: a shared citeSurname() helper
+deaccents+lowercases the last name token and the name character class now
+includes accented letters, so "Huélamo+2026" and "El Morsy+2025" resolve to
+their abstracts (verified in-browser via the local Chromium). Most of the
+batch-3 data edits + the app.js change were swept into the concurrent
+ingestion session's commit e33f558 by its git add -A (shared-checkout race);
+content is correct and on master.
