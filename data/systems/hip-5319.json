@@ -48,7 +48,7 @@
    "wavelength_label": "JHK broadband (1.1-2.4 um); accelerating-star discovery",
    "technique": "RDI",
    "survey": null,
-   "credit": "Swimmer et al. 2022, Fig. 1 (crop)",
+   "credit": "Swimmer et al. 2022, Fig. 1 top-right (SCExAO/CHARIS panel, crop)",
    "paper": {
     "first_author": "Swimmer",
     "year": 2022,
@@ -59,6 +59,72 @@
    },
    "file": "images/hip-5319/hip-5319_scexao2022.png",
    "epoch": "2020-2022"
+  },
+  {
+   "image_id": "hip-5319_scexao-mec",
+   "type": "planet",
+   "facility": "Subaru-SCExAO",
+   "instrument": "SCExAO/MEC",
+   "wavelength_um": 1.1,
+   "wavelength_label": "Y+J (SCExAO/MEC; companion B, no post-processing)",
+   "technique": "other",
+   "survey": null,
+   "credit": "Swimmer et al. 2022, Fig. 1 top-left (crop)",
+   "hires_url": null,
+   "paper": {
+    "first_author": "Swimmer",
+    "year": 2022,
+    "title": "Characterizing the Companion in the HIP 5319 System with SCExAO/CHARIS Spectroscopy and Keck/NIRC2 Imaging",
+    "journal": "AJ 164, 152",
+    "arxiv": "2208.00334",
+    "bibcode": "2022AJ....164..152S"
+   },
+   "file": "images/hip-5319/hip-5319_scexao-mec.png",
+   "epoch": "2020-07-31"
+  },
+  {
+   "image_id": "hip-5319_scexao-vampires",
+   "type": "planet",
+   "facility": "Subaru-SCExAO",
+   "instrument": "SCExAO/VAMPIRES",
+   "wavelength_um": 0.75,
+   "wavelength_label": "visible ~750 nm (SCExAO/VAMPIRES; companion B, ADI-ALOCI)",
+   "technique": "ADI",
+   "survey": null,
+   "credit": "Swimmer et al. 2022, Fig. 1 bottom-left (crop)",
+   "hires_url": null,
+   "paper": {
+    "first_author": "Swimmer",
+    "year": 2022,
+    "title": "Characterizing the Companion in the HIP 5319 System with SCExAO/CHARIS Spectroscopy and Keck/NIRC2 Imaging",
+    "journal": "AJ 164, 152",
+    "arxiv": "2208.00334",
+    "bibcode": "2022AJ....164..152S"
+   },
+   "file": "images/hip-5319/hip-5319_scexao-vampires.png",
+   "epoch": "2021-09-11"
+  },
+  {
+   "image_id": "hip-5319_keck-nirc2-lp",
+   "type": "planet",
+   "facility": "Keck",
+   "instrument": "NIRC2",
+   "wavelength_um": 3.78,
+   "wavelength_label": "L' 3.78 um (Keck/NIRC2; companion B, RDI-KLIP)",
+   "technique": "RDI",
+   "survey": null,
+   "credit": "Swimmer et al. 2022, Fig. 1 bottom-right (crop)",
+   "hires_url": null,
+   "paper": {
+    "first_author": "Swimmer",
+    "year": 2022,
+    "title": "Characterizing the Companion in the HIP 5319 System with SCExAO/CHARIS Spectroscopy and Keck/NIRC2 Imaging",
+    "journal": "AJ 164, 152",
+    "arxiv": "2208.00334",
+    "bibcode": "2022AJ....164..152S"
+   },
+   "file": "images/hip-5319/hip-5319_keck-nirc2-lp.png",
+   "epoch": "2022-01-15"
   }
  ],
  "notes": null,

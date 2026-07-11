@@ -338,16 +338,16 @@
    "epoch": "2004"
   },
   {
-   "image_id": "au-mic_jwst-nircam",
+   "image_id": "au-mic_jwst-nircam-f356w",
    "type": "disk_scattered",
    "facility": "JWST",
    "instrument": "NIRCam",
-   "wavelength_um": 4.44,
-   "wavelength_label": "JWST/NIRCam 3.35+4.44 um (F335M/F444W)",
+   "wavelength_um": 3.56,
+   "wavelength_label": "F356W (3.56 um; JWST/NIRCam MCRDI, edge-on disk)",
    "technique": "coronagraphy",
    "survey": null,
-   "file": "images/au-mic/au-mic_jwst-nircam.png",
-   "credit": "Lawson et al. 2023, Fig. 1 (crop)",
+   "file": "images/au-mic/au-mic_jwst-nircam-f356w.png",
+   "credit": "Lawson et al. 2023, Fig. 1 (F356W panel, crop)",
    "paper": {
     "first_author": "Lawson",
     "year": 2023,
@@ -462,6 +462,28 @@
     "bibcode": "2017MNRAS.470.3606H"
    },
    "epoch": "2012-2015"
+  },
+  {
+   "image_id": "au-mic_jwst-nircam-f444w",
+   "type": "disk_scattered",
+   "facility": "JWST",
+   "instrument": "NIRCam",
+   "wavelength_um": 4.44,
+   "wavelength_label": "F444W (4.44 um; JWST/NIRCam MCRDI, edge-on disk)",
+   "technique": "RDI",
+   "survey": null,
+   "credit": "Lawson et al. 2023, Fig. 1 (F444W panel, crop)",
+   "hires_url": null,
+   "paper": {
+    "first_author": "Lawson",
+    "year": 2023,
+    "title": "JWST/NIRCam Coronagraphy of the Young Planet-hosting Debris Disk AU Microscopii",
+    "journal": "AJ 166, 150",
+    "arxiv": "2308.02486",
+    "bibcode": "2023AJ....166..150L"
+   },
+   "file": "images/au-mic/au-mic_jwst-nircam-f444w.png",
+   "epoch": "2022-10-03"
   }
  ],
  "notes": null,

@@ -33,7 +33,7 @@
    "wavelength_label": "160 um combined image",
    "technique": "imaging",
    "survey": null,
-   "credit": "Kennedy et al. 2012, Fig. 4 (crop: 160um panel)",
+   "credit": "Kennedy et al. 2012, Fig. 4 right (160 um combined panel, crop)",
    "paper": {
     "first_author": "Kennedy",
     "year": 2012,
@@ -44,6 +44,72 @@
    },
    "file": "images/99-herculis/99-herculis_herschel2012.png",
    "epoch": "2010 Apr"
+  },
+  {
+   "image_id": "99-herculis_pacs-70um",
+   "type": "disk_mm",
+   "facility": "Herschel",
+   "instrument": "PACS",
+   "wavelength_um": 70,
+   "wavelength_label": "70 um (PACS; circumbinary debris disc)",
+   "technique": "other",
+   "survey": null,
+   "credit": "Kennedy et al. 2012, Fig. 4 left (70 um panel, crop)",
+   "hires_url": null,
+   "paper": {
+    "first_author": "Kennedy",
+    "year": 2012,
+    "title": "99 Herculis: host to a circumbinary polar-ring debris disc",
+    "journal": "MNRAS 421, 2264",
+    "arxiv": "1201.1911",
+    "bibcode": "2012MNRAS.421.2264K"
+   },
+   "file": "images/99-herculis/99-herculis_pacs-70um.png",
+   "epoch": "2010 Apr"
+  },
+  {
+   "image_id": "99-herculis_pacs-100um",
+   "type": "disk_mm",
+   "facility": "Herschel",
+   "instrument": "PACS",
+   "wavelength_um": 100,
+   "wavelength_label": "100 um (PACS; circumbinary debris disc)",
+   "technique": "other",
+   "survey": null,
+   "credit": "Kennedy et al. 2012, Fig. 4 center (100 um panel, crop)",
+   "hires_url": null,
+   "paper": {
+    "first_author": "Kennedy",
+    "year": 2012,
+    "title": "99 Herculis: host to a circumbinary polar-ring debris disc",
+    "journal": "MNRAS 421, 2264",
+    "arxiv": "1201.1911",
+    "bibcode": "2012MNRAS.421.2264K"
+   },
+   "file": "images/99-herculis/99-herculis_pacs-100um.png",
+   "epoch": "2010 Apr"
+  },
+  {
+   "image_id": "99-herculis_keck-nirc2-lp",
+   "type": "disk_mm",
+   "facility": "Keck",
+   "instrument": "NIRC2",
+   "wavelength_um": 3.8,
+   "wavelength_label": "L' 3.8 um (Keck/NIRC2 AO; 99 Her binary)",
+   "technique": "ADI",
+   "survey": null,
+   "credit": "Kennedy et al. 2012, Fig. 3 (Keck/NIRC2 crop)",
+   "hires_url": null,
+   "paper": {
+    "first_author": "Kennedy",
+    "year": 2012,
+    "title": "99 Herculis: host to a circumbinary polar-ring debris disc",
+    "journal": "MNRAS 421, 2264",
+    "arxiv": "1201.1911",
+    "bibcode": "2012MNRAS.421.2264K"
+   },
+   "file": "images/99-herculis/99-herculis_keck-nirc2-lp.png",
+   "epoch": "2011"
   }
  ],
  "notes": "Eccentric-orbit binary hosting the only known polar-aligned circumbinary debris disk, resolved with Herschel PACS at 70/100/160um (Kennedy et al. 2012, arXiv:1201.1911). Disk position angle misaligned from the binary line of nodes, consistent with a near-polar configuration perpendicular to the binary pericenter direction.",

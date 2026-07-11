@@ -132,6 +132,50 @@
     "bibcode": "2014A&A...562A.111B"
    },
    "epoch": "2012-10-06"
+  },
+  {
+   "image_id": "kappa-and_hiciao-jhk-annot",
+   "type": "planet",
+   "facility": "Subaru-HiCIAO",
+   "instrument": "HiCIAO",
+   "wavelength_um": 1.6,
+   "wavelength_label": "JHK false-color (annotated: companion b + Neptune-orbit scale)",
+   "technique": "ADI",
+   "survey": "SEEDS",
+   "credit": "Carson et al. 2013, Fig. 1b (crop)",
+   "hires_url": null,
+   "paper": {
+    "first_author": "Carson",
+    "year": 2013,
+    "title": "Direct Imaging Discovery of a Super-Jupiter around the late B-type Star kappa And",
+    "journal": "ApJL 763, L32",
+    "arxiv": "1211.3744",
+    "bibcode": "2013ApJ...763L..32C"
+   },
+   "file": "images/kappa-and/kappa-and_hiciao-jhk-annot.png",
+   "epoch": "2012-07"
+  },
+  {
+   "image_id": "kappa-and_hiciao-snr",
+   "type": "planet",
+   "facility": "Subaru-HiCIAO",
+   "instrument": "HiCIAO",
+   "wavelength_um": 1.6,
+   "wavelength_label": "S/N detection map (LOCI/ADI; companion b)",
+   "technique": "ADI",
+   "survey": "SEEDS",
+   "credit": "Carson et al. 2013, Fig. 1c (crop)",
+   "hires_url": null,
+   "paper": {
+    "first_author": "Carson",
+    "year": 2013,
+    "title": "Direct Imaging Discovery of a Super-Jupiter around the late B-type Star kappa And",
+    "journal": "ApJL 763, L32",
+    "arxiv": "1211.3744",
+    "bibcode": "2013ApJ...763L..32C"
+   },
+   "file": "images/kappa-and/kappa-and_hiciao-snr.png",
+   "epoch": "2012-07"
   }
  ],
  "notes": null,

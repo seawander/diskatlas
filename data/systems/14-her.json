@@ -48,6 +48,28 @@
    "image_id": "14-her_jwst2025",
    "file": "images/14-her/14-her_jwst2025.png",
    "epoch": "2024 May 18"
+  },
+  {
+   "image_id": "14-her_nircam-f200w",
+   "type": "planet",
+   "facility": "JWST",
+   "instrument": "NIRCam",
+   "wavelength_um": 2.0,
+   "wavelength_label": "F200W (2.0 um; c below detection limit, field image)",
+   "technique": "coronagraphy",
+   "survey": null,
+   "credit": "Bardalez Gagliuffi et al. 2025, Fig. 1 right (F200W panel, crop)",
+   "hires_url": null,
+   "paper": {
+    "first_author": "Bardalez Gagliuffi",
+    "year": 2025,
+    "title": "JWST Coronagraphic Images of 14 Her c",
+    "journal": "ApJL 988, L18",
+    "arxiv": "2506.09201",
+    "bibcode": "2025ApJ...988L..18B"
+   },
+   "file": "images/14-her/14-her_nircam-f200w.png",
+   "epoch": "2024-05-19"
   }
  ],
  "notes": null,
