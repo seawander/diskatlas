@@ -371,6 +371,28 @@
     "title": "Magellan Adaptive Optics Imaging of PDS 70: Measuring the Mass Accretion Rate of a Young Giant Planet within a Gapped Disk"
    },
    "epoch": "2018 May"
+  },
+  {
+   "image_id": "pds-70_nircam-f187n",
+   "type": "disk_scattered",
+   "facility": "JWST",
+   "instrument": "NIRCam",
+   "wavelength_um": 1.87,
+   "wavelength_label": "F187N (1.87 um; NIRCam)",
+   "technique": "RDI",
+   "survey": null,
+   "credit": "Christiaens et al. 2024, Fig. 1a (roll-subtracted disk, crop)",
+   "hires_url": null,
+   "paper": {
+    "first_author": "Christiaens",
+    "year": 2024,
+    "title": "MINDS: JWST/NIRCam imaging of the protoplanetary disk PDS 70",
+    "journal": "A&A 685, L1",
+    "arxiv": "2403.04855",
+    "bibcode": "2024A&A...685L...1C"
+   },
+   "file": "images/pds-70/pds-70_nircam-f187n.png",
+   "epoch": "2023-03-08"
   }
  ],
  "notes": "Only system with two confirmed planets caught in formation inside the disk cavity.",

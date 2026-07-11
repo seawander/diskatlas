@@ -57,6 +57,28 @@
     "bibcode": "2025ApJ...995L...4E"
    },
    "epoch": "2024-2025"
+  },
+  {
+   "image_id": "hip-71618_nirc2-lp",
+   "type": "planet",
+   "facility": "Keck",
+   "instrument": "NIRC2",
+   "wavelength_um": 3.78,
+   "wavelength_label": "L' (3.78 um; NIRC2)",
+   "technique": "ADI",
+   "survey": null,
+   "credit": "El Morsy et al. 2025 (crop; companion B, NIRC2 Lp)",
+   "hires_url": null,
+   "paper": {
+    "first_author": "El Morsy",
+    "year": 2025,
+    "title": "OASIS Survey: Direct Imaging and Astrometric Discovery of a substellar companion to HIP 71618",
+    "journal": "ApJL 995, L4",
+    "arxiv": "2512.02126",
+    "bibcode": "2025ApJ...995L...4E"
+   },
+   "file": "images/hip-71618/hip-71618_nirc2-lp.png",
+   "epoch": "2024-02-23"
   }
  ],
  "notes": "HIP 71618 B discovered by the OASIS survey combining Hipparcos-Gaia astrometric acceleration with SCExAO/CHARIS (JHK, 2024-2025) and Keck/NIRC2 (Lp) direct imaging; separation ~0.3 arcsec (~11 au). Dynamical mass 60-65 Mjup (prior-dependent); atmospheric fits favor M6-M8, Teff ~2600-2800 K.",

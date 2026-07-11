@@ -68,6 +68,72 @@
    },
    "file": "images/hip-99770/hip-99770_nircam2026.png",
    "epoch": "2025-09-01"
+  },
+  {
+   "image_id": "hip-99770_nircam-f410m",
+   "type": "planet",
+   "facility": "JWST",
+   "instrument": "NIRCam",
+   "wavelength_um": 4.1,
+   "wavelength_label": "F410M (4.1 um; NIRCam)",
+   "technique": "RDI",
+   "survey": null,
+   "credit": "Balmer et al. 2026, Fig. 3 (F410M panel, crop; = HIP 99770 b / 29 Cyg b)",
+   "hires_url": null,
+   "paper": {
+    "first_author": "Balmer",
+    "year": 2026,
+    "title": "Direct Images of CO2 Absorption in the Atmosphere of a Cold Giant Planet (29 Cyg b)",
+    "journal": "ApJL 1001, L26",
+    "arxiv": "2604.09785",
+    "bibcode": "2026ApJ..1001L..26B"
+   },
+   "file": "images/hip-99770/hip-99770_nircam-f410m.png",
+   "epoch": "2025-09-01"
+  },
+  {
+   "image_id": "hip-99770_nircam-f430m",
+   "type": "planet",
+   "facility": "JWST",
+   "instrument": "NIRCam",
+   "wavelength_um": 4.3,
+   "wavelength_label": "F430M (4.3 um; NIRCam)",
+   "technique": "RDI",
+   "survey": null,
+   "credit": "Balmer et al. 2026, Fig. 3 (F430M panel, crop; = HIP 99770 b / 29 Cyg b)",
+   "hires_url": null,
+   "paper": {
+    "first_author": "Balmer",
+    "year": 2026,
+    "title": "Direct Images of CO2 Absorption in the Atmosphere of a Cold Giant Planet (29 Cyg b)",
+    "journal": "ApJL 1001, L26",
+    "arxiv": "2604.09785",
+    "bibcode": "2026ApJ..1001L..26B"
+   },
+   "file": "images/hip-99770/hip-99770_nircam-f430m.png",
+   "epoch": "2025-09-01"
+  },
+  {
+   "image_id": "hip-99770_nircam-f460m",
+   "type": "planet",
+   "facility": "JWST",
+   "instrument": "NIRCam",
+   "wavelength_um": 4.6,
+   "wavelength_label": "F460M (4.6 um; NIRCam)",
+   "technique": "RDI",
+   "survey": null,
+   "credit": "Balmer et al. 2026, Fig. 3 (F460M panel, crop; = HIP 99770 b / 29 Cyg b)",
+   "hires_url": null,
+   "paper": {
+    "first_author": "Balmer",
+    "year": 2026,
+    "title": "Direct Images of CO2 Absorption in the Atmosphere of a Cold Giant Planet (29 Cyg b)",
+    "journal": "ApJL 1001, L26",
+    "arxiv": "2604.09785",
+    "bibcode": "2026ApJ..1001L..26B"
+   },
+   "file": "images/hip-99770/hip-99770_nircam-f460m.png",
+   "epoch": "2025-09-01"
   }
  ],
  "notes": null,

@@ -607,6 +607,182 @@
     "bibcode": "2017MNRAS.470.3606H"
    },
    "epoch": "2012-2015"
+  },
+  {
+   "image_id": "hr-8799_nircam-f182m",
+   "type": "planet",
+   "facility": "JWST",
+   "instrument": "NIRCam",
+   "wavelength_um": 1.82,
+   "wavelength_label": "F182M (1.82 um; NIRCam)",
+   "technique": "RDI",
+   "survey": null,
+   "credit": "Balmer et al. 2025, appendix image library (F182M panel, crop)",
+   "hires_url": null,
+   "paper": {
+    "first_author": "Balmer",
+    "year": 2025,
+    "title": "JWST-TST High Contrast: Living on the Wedge - NIRCam Bar Coronagraphy of HR 8799 and 51 Eri",
+    "journal": "AJ 169, 209",
+    "arxiv": "2503.13608",
+    "bibcode": "2025AJ....169..209B"
+   },
+   "file": "images/hr-8799/hr-8799_nircam-f182m.png",
+   "epoch": "2023-11-05"
+  },
+  {
+   "image_id": "hr-8799_nircam-f200w",
+   "type": "planet",
+   "facility": "JWST",
+   "instrument": "NIRCam",
+   "wavelength_um": 2.0,
+   "wavelength_label": "F200W (2.0 um; NIRCam)",
+   "technique": "RDI",
+   "survey": null,
+   "credit": "Balmer et al. 2025, appendix image library (F200W panel, crop)",
+   "hires_url": null,
+   "paper": {
+    "first_author": "Balmer",
+    "year": 2025,
+    "title": "JWST-TST High Contrast: Living on the Wedge - NIRCam Bar Coronagraphy of HR 8799 and 51 Eri",
+    "journal": "AJ 169, 209",
+    "arxiv": "2503.13608",
+    "bibcode": "2025AJ....169..209B"
+   },
+   "file": "images/hr-8799/hr-8799_nircam-f200w.png",
+   "epoch": "2023-11-05"
+  },
+  {
+   "image_id": "hr-8799_nircam-f210m",
+   "type": "planet",
+   "facility": "JWST",
+   "instrument": "NIRCam",
+   "wavelength_um": 2.1,
+   "wavelength_label": "F210M (2.1 um; NIRCam)",
+   "technique": "RDI",
+   "survey": null,
+   "credit": "Balmer et al. 2025, appendix image library (F210M panel, crop)",
+   "hires_url": null,
+   "paper": {
+    "first_author": "Balmer",
+    "year": 2025,
+    "title": "JWST-TST High Contrast: Living on the Wedge - NIRCam Bar Coronagraphy of HR 8799 and 51 Eri",
+    "journal": "AJ 169, 209",
+    "arxiv": "2503.13608",
+    "bibcode": "2025AJ....169..209B"
+   },
+   "file": "images/hr-8799/hr-8799_nircam-f210m.png",
+   "epoch": "2023-11-05"
+  },
+  {
+   "image_id": "hr-8799_nircam-f250m",
+   "type": "planet",
+   "facility": "JWST",
+   "instrument": "NIRCam",
+   "wavelength_um": 2.5,
+   "wavelength_label": "F250M (2.5 um; NIRCam)",
+   "technique": "RDI",
+   "survey": null,
+   "credit": "Balmer et al. 2025, appendix image library (F250M panel, crop)",
+   "hires_url": null,
+   "paper": {
+    "first_author": "Balmer",
+    "year": 2025,
+    "title": "JWST-TST High Contrast: Living on the Wedge - NIRCam Bar Coronagraphy of HR 8799 and 51 Eri",
+    "journal": "AJ 169, 209",
+    "arxiv": "2503.13608",
+    "bibcode": "2025AJ....169..209B"
+   },
+   "file": "images/hr-8799/hr-8799_nircam-f250m.png",
+   "epoch": "2023-11-05"
+  },
+  {
+   "image_id": "hr-8799_nircam-f300m",
+   "type": "planet",
+   "facility": "JWST",
+   "instrument": "NIRCam",
+   "wavelength_um": 3.0,
+   "wavelength_label": "F300M (3.0 um; NIRCam)",
+   "technique": "RDI",
+   "survey": null,
+   "credit": "Balmer et al. 2025, appendix image library (F300M panel, crop)",
+   "hires_url": null,
+   "paper": {
+    "first_author": "Balmer",
+    "year": 2025,
+    "title": "JWST-TST High Contrast: Living on the Wedge - NIRCam Bar Coronagraphy of HR 8799 and 51 Eri",
+    "journal": "AJ 169, 209",
+    "arxiv": "2503.13608",
+    "bibcode": "2025AJ....169..209B"
+   },
+   "file": "images/hr-8799/hr-8799_nircam-f300m.png",
+   "epoch": "2023-11-05"
+  },
+  {
+   "image_id": "hr-8799_nircam-f335m",
+   "type": "planet",
+   "facility": "JWST",
+   "instrument": "NIRCam",
+   "wavelength_um": 3.35,
+   "wavelength_label": "F335M (3.35 um; NIRCam)",
+   "technique": "RDI",
+   "survey": null,
+   "credit": "Balmer et al. 2025, appendix image library (F335M panel, crop)",
+   "hires_url": null,
+   "paper": {
+    "first_author": "Balmer",
+    "year": 2025,
+    "title": "JWST-TST High Contrast: Living on the Wedge - NIRCam Bar Coronagraphy of HR 8799 and 51 Eri",
+    "journal": "AJ 169, 209",
+    "arxiv": "2503.13608",
+    "bibcode": "2025AJ....169..209B"
+   },
+   "file": "images/hr-8799/hr-8799_nircam-f335m.png",
+   "epoch": "2023-11-05"
+  },
+  {
+   "image_id": "hr-8799_nircam-f430m",
+   "type": "planet",
+   "facility": "JWST",
+   "instrument": "NIRCam",
+   "wavelength_um": 4.3,
+   "wavelength_label": "F430M (4.3 um; NIRCam)",
+   "technique": "RDI",
+   "survey": null,
+   "credit": "Balmer et al. 2025, appendix image library (F430M panel, crop)",
+   "hires_url": null,
+   "paper": {
+    "first_author": "Balmer",
+    "year": 2025,
+    "title": "JWST-TST High Contrast: Living on the Wedge - NIRCam Bar Coronagraphy of HR 8799 and 51 Eri",
+    "journal": "AJ 169, 209",
+    "arxiv": "2503.13608",
+    "bibcode": "2025AJ....169..209B"
+   },
+   "file": "images/hr-8799/hr-8799_nircam-f430m.png",
+   "epoch": "2023-11-05"
+  },
+  {
+   "image_id": "hr-8799_nircam-f460m",
+   "type": "planet",
+   "facility": "JWST",
+   "instrument": "NIRCam",
+   "wavelength_um": 4.6,
+   "wavelength_label": "F460M (4.6 um; NIRCam)",
+   "technique": "RDI",
+   "survey": null,
+   "credit": "Balmer et al. 2025, appendix image library (F460M panel, crop)",
+   "hires_url": null,
+   "paper": {
+    "first_author": "Balmer",
+    "year": 2025,
+    "title": "JWST-TST High Contrast: Living on the Wedge - NIRCam Bar Coronagraphy of HR 8799 and 51 Eri",
+    "journal": "AJ 169, 209",
+    "arxiv": "2503.13608",
+    "bibcode": "2025AJ....169..209B"
+   },
+   "file": "images/hr-8799/hr-8799_nircam-f460m.png",
+   "epoch": "2023-11-05"
   }
  ],
  "notes": null,

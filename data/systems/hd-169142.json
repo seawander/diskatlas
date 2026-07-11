@@ -438,6 +438,28 @@
     "title": "Dynamical Analysis of the HD 169142 Planet-forming Disk: Twelve Years of High-contrast Polarimetry"
    },
    "epoch": "2024-07-29"
+  },
+  {
+   "image_id": "hd-169142_alma-b7-macias19",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 7",
+   "wavelength_um": 890,
+   "wavelength_label": "0.89 mm (Band 7) continuum; resolved multi-ring",
+   "technique": "interferometry",
+   "survey": null,
+   "credit": "Macías et al. 2019, Fig. 1 left (crop)",
+   "hires_url": null,
+   "paper": {
+    "first_author": "Macias",
+    "year": 2019,
+    "title": "Characterization of Ring Substructures in the Protoplanetary Disk of HD 169142 from Multi-Wavelength ALMA Observations",
+    "journal": "ApJ 881, 159",
+    "arxiv": "1907.07277",
+    "bibcode": "2019ApJ...881..159M"
+   },
+   "file": "images/hd-169142/hd-169142_alma-b7-0.89mm-macias19.png",
+   "epoch": "2015"
   }
  ],
  "notes": null,

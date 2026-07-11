@@ -361,6 +361,28 @@
     "bibcode": "2017MNRAS.470.3606H"
    },
    "epoch": "2009-2013"
+  },
+  {
+   "image_id": "twa-7_nircam-f444w",
+   "type": "disk_scattered",
+   "facility": "JWST",
+   "instrument": "NIRCam",
+   "wavelength_um": 4.44,
+   "wavelength_label": "F444W (4.44 um; NIRCam)",
+   "technique": "RDI",
+   "survey": null,
+   "credit": "Crotts et al. 2025 (crop; debris disk at 4.4 um)",
+   "hires_url": null,
+   "paper": {
+    "first_author": "Crotts",
+    "year": 2025,
+    "title": "Follow-up Exploration of the TWA 7 Planet-Disk System with JWST NIRCam",
+    "journal": "ApJL 987, L41",
+    "arxiv": "2506.19932",
+    "bibcode": "2025ApJ...987L..41C"
+   },
+   "file": "images/twa-7/twa-7_nircam-f444w.png",
+   "epoch": "2024-06-15"
   }
  ],
  "notes": null,

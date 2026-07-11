@@ -447,6 +447,28 @@
     "bibcode": "2018A&A...614A..24M"
    },
    "epoch": "2016"
+  },
+  {
+   "image_id": "hd-163296_nircam-f200w",
+   "type": "disk_scattered",
+   "facility": "JWST",
+   "instrument": "NIRCam",
+   "wavelength_um": 2.0,
+   "wavelength_label": "F200W (2.0 um; MASK210R coronagraphy, ADI); disk arc R3",
+   "technique": "ADI",
+   "survey": null,
+   "credit": "Uyama et al. 2025, Fig. 1 (F200W zoom, crop)",
+   "hires_url": null,
+   "paper": {
+    "first_author": "Uyama",
+    "year": 2025,
+    "title": "JWST/NIRCam Coronagraphic Search for Hidden Planets in the HD 163296 Protoplanetary Disk",
+    "journal": "AJ 169, 287",
+    "arxiv": "2503.20132",
+    "bibcode": "2025AJ....169..287U"
+   },
+   "file": "images/hd-163296/hd-163296_nircam-f200w-2025.png",
+   "epoch": "2023-08-15"
   }
  ],
  "notes": null,

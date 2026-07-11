@@ -521,16 +521,16 @@
    "epoch": "2023 Mar 18"
   },
   {
-   "image_id": "beta-pic_jwst-miri",
+   "image_id": "beta-pic_miri-f1550c",
    "type": "disk_mm",
    "facility": "JWST",
    "instrument": "MIRI",
    "wavelength_um": 15.5,
-   "wavelength_label": "JWST/MIRI 15.5+22.75 um thermal ('cat's tail')",
+   "wavelength_label": "F1550C (15.5 um; JWST/MIRI thermal)",
    "technique": "coronagraphy",
    "survey": null,
-   "file": "images/beta-pic/beta-pic_jwst-miri.png",
-   "credit": "Rebollido et al. 2024, Fig. 1 (MIRI; crop)",
+   "file": "images/beta-pic/beta-pic_miri-f1550c.png",
+   "credit": "Rebollido et al. 2024, Fig. 1 (F1550C panel, crop)",
    "paper": {
     "first_author": "Rebollido",
     "year": 2024,
@@ -835,6 +835,28 @@
     "bibcode": "2010A&A...518L.133V"
    },
    "epoch": "2009-2010"
+  },
+  {
+   "image_id": "beta-pic_miri-f2300c",
+   "type": "disk_scattered",
+   "facility": "JWST",
+   "instrument": "MIRI",
+   "wavelength_um": 23.0,
+   "wavelength_label": "F2300C (23 um; JWST/MIRI thermal)",
+   "technique": "coronagraphy",
+   "survey": null,
+   "credit": "Rebollido et al. 2024, Fig. 1 (F2300C panel, crop)",
+   "hires_url": null,
+   "paper": {
+    "first_author": "Rebollido",
+    "year": 2024,
+    "title": "JWST-TST High Contrast: Asymmetries, Dust Populations, and Hints of a Collision in the beta Pictoris Disk",
+    "journal": "AJ 167, 69",
+    "arxiv": "2401.05271",
+    "bibcode": "2024AJ....167...69R"
+   },
+   "file": "images/beta-pic/beta-pic_jwst-miri-f2300c.png",
+   "epoch": "2022-12-13"
   }
  ],
  "notes": "Original 1984 discovery image (Smith & Terrile, Las Campanas coronagraph) predates arXiv; add if desired.",
