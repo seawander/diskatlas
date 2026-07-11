@@ -1,6 +1,6 @@
 {
  "_doc": "Per-survey ingestion state. entries/coords/images: done|partial|todo. Update on every ingest.",
- "updated": "2026-07-10: 467 systems / 1497 records / 0 errors / 83 planet hosts / epoch coverage unchanged. Census adjudication done; details in docs/HISTORY.md.",
+ "updated": "2026-07-10: 467 systems / 1519 records / 0 errors / 83 planet hosts. NEW third discovery axis: backend/author_audit.py (first-author ADS sweep, disk-context filtered) -- first run flagged 301 candidates across 38 prolific authors -> triage queue data/paper_finder/author_audit_2026-07-10.txt (standouts: Kalas 2005 HD 32297 optical discovery astro-ph/0511244, Perrot 2016 HD 141569 rings 1605.00468, Xie 2021 SAO 206462 motion-I 2012.05242, Lagrange 2016 HD 106906 1510.02511, Milli 2015/2017 HR 4796, Boccaletti 2012 HD 32297 / 2013 HD 100546 spirals / 2026 AB Aur, Avenhaus 2014/2017 HD 142527, Matra 2020 Vega ALMA, Wagner 2016 HD 131399Ab discovery). Work through in a directed session; VIEW before ingesting. History: docs/HISTORY.md.",
  "surveys": {
   "DSHARP": {
    "entries": "done",
