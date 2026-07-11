@@ -81,6 +81,50 @@
    },
    "file": "images/hip-21152/hip-21152_nirc2-2022.png",
    "epoch": "2020 Dec 4"
+  },
+  {
+   "image_id": "hip-21152_nirc2-lp-2021",
+   "type": "planet",
+   "facility": "Keck",
+   "instrument": "NIRC2",
+   "wavelength_um": 3.78,
+   "wavelength_label": "L' 3.78 um (Keck/NIRC2 vortex, PSF-subtracted image); companion B",
+   "technique": "ADI",
+   "survey": null,
+   "credit": "Franson et al. 2023, Fig. 2 top-left (NIRC2 L' image, crop)",
+   "hires_url": null,
+   "paper": {
+    "first_author": "Franson",
+    "year": 2023,
+    "title": "Dynamical Mass of the Young Substellar Companion HIP 21152 B",
+    "journal": "AJ 165, 39",
+    "arxiv": "2211.09840",
+    "bibcode": "2023AJ....165...39F"
+   },
+   "file": "images/hip-21152/hip-21152_nirc2-lp-2021.png",
+   "epoch": "2021-12-21"
+  },
+  {
+   "image_id": "hip-21152_charis-2022",
+   "type": "planet",
+   "facility": "Subaru-SCExAO",
+   "instrument": "CHARIS",
+   "wavelength_um": 1.77,
+   "wavelength_label": "JHK 1.15-2.39 um (SCExAO/CHARIS, PSF-subtracted image); companion B",
+   "technique": "ADI",
+   "survey": null,
+   "credit": "Franson et al. 2023, Fig. 2 bottom-left (CHARIS image, crop)",
+   "hires_url": null,
+   "paper": {
+    "first_author": "Franson",
+    "year": 2023,
+    "title": "Dynamical Mass of the Young Substellar Companion HIP 21152 B",
+    "journal": "AJ 165, 39",
+    "arxiv": "2211.09840",
+    "bibcode": "2023AJ....165...39F"
+   },
+   "file": "images/hip-21152/hip-21152_charis-2022.png",
+   "epoch": "2022-02-28"
   }
  ],
  "notes": "Member of the Hyades open cluster; first substellar companion directly imaged around a Hyades main-sequence star.",

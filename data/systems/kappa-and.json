@@ -176,6 +176,28 @@
    },
    "file": "images/kappa-and/kappa-and_ircs-lp.png",
    "epoch": "2012-07"
+  },
+  {
+   "image_id": "kappa-and_nirc2-nb405-2012",
+   "type": "planet",
+   "facility": "Keck",
+   "instrument": "NIRC2",
+   "wavelength_um": 4.05,
+   "wavelength_label": "NB4.05 (Br-alpha, 4.05 um; Keck/NIRC2); companion b",
+   "technique": "ADI",
+   "survey": null,
+   "credit": "Bonnefoy et al. 2014, Fig. (NB4.05 panel, crop)",
+   "hires_url": null,
+   "paper": {
+    "first_author": "Bonnefoy",
+    "year": 2014,
+    "title": "Characterization of the gaseous companion κ Andromedae b: New Keck and LBTI high-contrast observations",
+    "journal": "A&A 562, A111",
+    "arxiv": "1308.3859",
+    "bibcode": "2014A&A...562A.111B"
+   },
+   "file": "images/kappa-and/kappa-and_nirc2-nb405-2012.png",
+   "epoch": "2012-11-03"
   }
  ],
  "notes": null,
