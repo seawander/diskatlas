@@ -21,11 +21,12 @@ FAC_TABLE = {
     "VLT-ISAAC": ["VLT"], "VLT": ["VLT"],
     "VLTI": ["VLTI"], "VLTI-GRAVITY": ["VLTI"],
     "ALMA": ["ALMA"], "SMA": ["SMA"],
-    # Joints (A+B, A/B) are split generically in fac_keys(); no per-combination
-    # entry is needed. This one stays explicit only because its 'PdBI' component
-    # has no atomic entry and must map to the IRAM:Interferometer AAS keyword.
-    "SMA/PdBI/VLA": ["SMA", "IRAM:Interferometer", "VLA"],
-    "NOEMA": ["IRAM:NOEMA"], "IRAM-PdBI": ["IRAM:Interferometer"], "VLA": ["VLA"], "CARMA": ["CARMA"], "BIMA": ["BIMA"],
+    # Joints (A+B, A/B) are split generically in fac_keys() once every component
+    # has an atomic entry — so bare 'PdBI' gets one and no per-combination entry
+    # is needed (a leftover 'OVRO+PdBI' still resolves via the generic splitter).
+    "NOEMA": ["IRAM:NOEMA"], "IRAM-PdBI": ["IRAM:Interferometer"],
+    "PdBI": ["IRAM:Interferometer"],
+    "VLA": ["VLA"], "CARMA": ["CARMA"], "BIMA": ["BIMA"],
     "ATCA": ["ATCA"], "CSO": ["CSO"], "JCMT": ["JCMT"],
     "HST": ["HST"], "JWST": ["JWST"],
     "Herschel": ["Herschel"], "Spitzer": ["Spitzer"], "WISE": ["WISE"],

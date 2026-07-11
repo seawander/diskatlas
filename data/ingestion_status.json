@@ -1,6 +1,6 @@
 {
  "_doc": "Per-survey ingestion state. entries/coords/images: done|partial|todo. Update on every ingest.",
- "updated": "2026-07-11: fresh_papers batch 2 (45-day window): NEW system HH 46 IRS (ALMA Band 6 circumbinary disk, Zhang 2026); GJ 504 +JWST/NIRSpec IFU companion-b detection (Baburaj 2026, new instrument); WRAY 15-1880/rx-j1842 +SPHERE/IRDIS Qphi H (Rigliaco 2026, new PDI band). Skipped Blackman RISTRETTO sim + Roumesy re-display montage (flagged 6 SPHERE gaps for a dedicated sweep). 485 systems, 1818 records, 0 err.",
+ "updated": "2026-07-11: facility-field cleanup (IRAM/interferometer modeling). Split composite raw facility strings into one true facility per band: cq-tau 'SMA/PdBI/VLA' -> SMA(0.87mm)/PdBI(1.3,2.7mm)/VLA(7mm,1.3cm,3.6cm); hd-163296 fixed PdBI-data-mislabeled-as-SMA (1.3,2.8mm -> PdBI); gm-aur IRAM-PdBI -> PdBI. Added atomic 'PdBI'->IRAM:Interferometer in facility_map.py so bare PdBI (and OVRO+PdBI via the generic splitter) resolve. NOEMA/PdBI stay FACILITIES (like ALMA/SMA/VLA), not instruments. 485 systems, 1818 records, 0 err.",
  "surveys": {
   "DSHARP": {
    "entries": "done",
