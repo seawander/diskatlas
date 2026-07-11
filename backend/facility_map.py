@@ -2,8 +2,10 @@
 
 - fac_keys: list of AAS facility keywords (https://journals.aas.org/facility-keywords/,
   Keyword column) where the platform appears there; plain telescope name otherwise.
-  Joint "A + B" observations yield multiple keys (the frontend shows the record under
-  both). VLT and VLTI are distinct keys; the frontend applies the subset rule
+  Joint "A + B" / "A/B" observations are split into their component facilities and
+  yield multiple keys (the frontend shows the record under each), so joint strings
+  never appear as their own facet chip. VLT and VLTI are distinct keys; the frontend
+  applies the subset rule
   (selecting VLT also matches VLTI, not vice versa).
 - instr_key: one canonical instrument family per record (SPHERE not IRDIS/ZIMPOL;
   interferometer/single-dish facilities double as their own "instrument", e.g. ALMA).
@@ -18,20 +20,18 @@ FAC_TABLE = {
     "VLT-SPHERE": ["VLT"], "VLT-NACO": ["VLT"], "VLT-MUSE": ["VLT"],
     "VLT-ISAAC": ["VLT"], "VLT": ["VLT"],
     "VLTI": ["VLTI"], "VLTI-GRAVITY": ["VLTI"],
-    "VLTI-GRAVITY + VLT-SPHERE": ["VLTI", "VLT"],
-    "VLT-SPHERE + ALMA": ["VLT", "ALMA"],
-    "VLT-ERIS/JWST-NIRCam/VLT-SPHERE": ["VLT", "JWST"],
-    "ALMA": ["ALMA"], "ALMA/SMA": ["ALMA", "SMA"], "SMA": ["SMA"],
+    "ALMA": ["ALMA"], "SMA": ["SMA"],
+    # Joints (A+B, A/B) are split generically in fac_keys(); no per-combination
+    # entry is needed. This one stays explicit only because its 'PdBI' component
+    # has no atomic entry and must map to the IRAM:Interferometer AAS keyword.
     "SMA/PdBI/VLA": ["SMA", "IRAM:Interferometer", "VLA"],
     "NOEMA": ["IRAM:NOEMA"], "IRAM-PdBI": ["IRAM:Interferometer"], "VLA": ["VLA"], "CARMA": ["CARMA"], "BIMA": ["BIMA"],
     "ATCA": ["ATCA"], "CSO": ["CSO"], "JCMT": ["JCMT"],
     "HST": ["HST"], "JWST": ["JWST"],
     "Herschel": ["Herschel"], "Spitzer": ["Spitzer"], "WISE": ["WISE"],
-    "TESS": ["TESS"], "TESS+Spitzer": ["TESS", "Spitzer"],
+    "TESS": ["TESS"],
     "Gemini-GPI": ["Gemini:South"], "Gemini-NICI": ["Gemini:South"],
     "Gemini-South": ["Gemini:South"], "Gemini-NIRI": ["Gemini:Gillett"],
-    "Gemini-GMOS/CFHT": ["Gemini:Gillett", "CFHT"],
-    "Gemini-GPI + Magellan-MagAO": ["Gemini:South", "Magellan:Clay"],
     "Subaru": ["Subaru"], "Subaru Telescope": ["Subaru"],
     "Subaru-HiCIAO": ["Subaru"], "Subaru-SCExAO": ["Subaru"],
     "LBT": ["LBT"], "LBTI": ["LBT"],
@@ -84,11 +84,13 @@ def fac_keys(facility, instrument=""):
     il = (instrument or "").lower()
     # Joint/composite datasets count under EACH facility (matches the paper's
     # \facilities list, which enumerates them separately). Explicit FAC_TABLE
-    # entries win; otherwise split on '+' whether or not it is space-padded, so
-    # 'CHARA+VLTI' and 'OVRO+PdBI' split like 'VLTI-GRAVITY + VLT-SPHERE'.
-    if f not in FAC_TABLE and re.search(r"\S\s*\+\s*\S", f):
+    # entries win; otherwise split on the joint separators '+' and '/' whether or
+    # not they are space-padded, so every combination ('CHARA+VLTI', 'ALMA/SMA',
+    # 'VLA/SMA', 'Gemini-GMOS/CFHT', 'VLTI-GRAVITY + VLT-SPHERE', ...) resolves to
+    # its component facilities generically, without a per-combination table entry.
+    if f not in FAC_TABLE and re.search(r"\S\s*[+/]\s*\S", f):
         out = []
-        for part in re.split(r"\s*\+\s*", f):
+        for part in re.split(r"\s*[+/]\s*", f):
             for k in fac_keys(part, instrument):
                 if k not in out:
                     out.append(k)
@@ -101,6 +103,10 @@ def fac_keys(facility, instrument=""):
             keys = ["VLTI"]
         elif fl.startswith("vlt"):
             keys = ["VLT"]
+        elif fl.startswith("jwst"):
+            keys = ["JWST"]
+        elif fl.startswith("hst"):
+            keys = ["HST"]
         elif fl.startswith("subaru"):
             keys = ["Subaru"]
         elif fl.startswith("gemini"):
