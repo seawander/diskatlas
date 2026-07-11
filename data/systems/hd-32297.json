@@ -457,6 +457,28 @@
     "bibcode": "2022A&A...664A.122O"
    },
    "epoch": "2018-05-22"
+  },
+  {
+   "image_id": "hd-32297_kalas05-uh",
+   "type": "disk_scattered",
+   "facility": "UH:2.2m",
+   "instrument": "UH 2.2m coronagraph",
+   "wavelength_um": 0.647,
+   "wavelength_label": "R band (647 nm) optical coronagraphy",
+   "technique": "coronagraphy",
+   "survey": null,
+   "file": "images/hd-32297/hd-32297_kalas05-uh.png",
+   "credit": "Kalas 2005, Fig. 1 (crop)",
+   "note": "first ground-based optical detection of the extended, asymmetric HD 32297 nebulosity (both lobes)",
+   "paper": {
+    "first_author": "Kalas",
+    "year": 2005,
+    "title": "First Optical Images of Circumstellar Dust Surrounding the Debris Disk Candidate HD 32297",
+    "journal": "ApJL 635, L169",
+    "arxiv": "astro-ph/0511244",
+    "bibcode": "2005ApJ...635L.169K"
+   },
+   "epoch": "2005-09-28"
   }
  ],
  "notes": null,

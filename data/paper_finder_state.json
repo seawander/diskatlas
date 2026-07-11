@@ -2438,5 +2438,15 @@
   "status": "excluded",
   "reason": "ARKS XI gas-dust interaction modeling (Olofsson 2026); model figures only, ARKS data figures live in other ARKS papers",
   "date": "2026-07-10"
+ },
+ "2012.05242": {
+  "status": "excluded",
+  "reason": "Xie 2021 SAO 206462 motion-I: same 2015+2016 J-band SPHERE epochs already in atlas via Xie 2024 (hd-135344b_xie2024-j2015/j2016); superseded",
+  "date": "2026-07-10"
+ },
+ "1510.02511": {
+  "status": "excluded",
+  "reason": "Lagrange 2016 HD 106906 SPHERE: H23 band redundant with existing Xie RDI record; figure is a 9-panel reduction-comparison grid, no clean single science image; deferred",
+  "date": "2026-07-10"
  }
 }

@@ -310,6 +310,28 @@
     "title": "Disk Imaging Survey of Chemistry with SMA. II. Southern Sky Protoplanetary Disks"
    },
    "epoch": "2010 May 26"
+  },
+  {
+   "image_id": "hd-142527_avenhaus17-zimpol",
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "ZIMPOL",
+   "wavelength_um": 0.735,
+   "wavelength_label": "VBB (590-881 nm) Q_phi polarized intensity",
+   "technique": "PDI",
+   "survey": null,
+   "file": "images/hd-142527/hd-142527_avenhaus17-zimpol.png",
+   "credit": "Avenhaus et al. 2017, Fig. 1 (Q_phi full field, crop)",
+   "note": "optical ZIMPOL PDI resolving the disk down to ~0.025 arcsec (4 au)",
+   "paper": {
+    "first_author": "Avenhaus",
+    "year": 2017,
+    "title": "Exploring Dust around HD 142527 down to 0.025 arcsec (4 au) Using SPHERE/ZIMPOL",
+    "journal": "AJ 154, 33",
+    "arxiv": "1705.09680",
+    "bibcode": "2017AJ....154...33A"
+   },
+   "epoch": "2015-05-02"
   }
  ],
  "notes": "Extreme azimuthal dust asymmetry; M-dwarf companion inside cavity.",

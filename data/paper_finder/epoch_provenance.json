@@ -7216,5 +7216,23 @@
   "source": "alma:alma-code",
   "arxiv": "2206.07068",
   "snippet": "ALMA TAP: program 2017.1.00201.S executed 2018-05-22"
+ },
+ "hd-141569_perrot16-h2h3": {
+  "epoch": "2015-07-22",
+  "source": "eso:eso-exact",
+  "arxiv": "1605.00468",
+  "snippet": "ESO archive: HD 141569 SPHERE P95 epoch 2015-07-22 (095.C-0298)"
+ },
+ "hd-142527_avenhaus17-zimpol": {
+  "epoch": "2015-05-02",
+  "source": "tex:ingestion",
+  "arxiv": "1705.09680",
+  "snippet": "obs section: night of May 2nd 2015 (SPHERE GTO ZIMPOL)"
+ },
+ "hd-32297_kalas05-uh": {
+  "epoch": "2005-09-28",
+  "source": "tex:ingestion",
+  "arxiv": "astro-ph/0511244",
+  "snippet": "obs section: observed 28 September 2005, UH 2.2m optical coronagraph, R filter"
  }
 }

@@ -311,10 +311,32 @@
     "title": "Unlocking the secrets of the midplane gas and dust distribution in the young hybrid disc HD 141569A"
    },
    "epoch": "2016-05-16"
+  },
+  {
+   "image_id": "hd-141569_perrot16-h2h3",
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS",
+   "wavelength_um": 1.6,
+   "wavelength_label": "H2H3 1.6 um (KLIP); discovery of the concentric broken rings",
+   "technique": "ADI",
+   "survey": null,
+   "file": "images/hd-141569/hd-141569_perrot16-h2h3.png",
+   "credit": "Perrot et al. 2016, Fig. 1a (IRDIS H2H3, crop)",
+   "note": "first resolution of the inner concentric broken-ring system (inner+outer rings, arm, split, finger)",
+   "paper": {
+    "first_author": "Perrot",
+    "year": 2016,
+    "title": "Discovery of concentric broken rings at sub-arcsec separations in the HD 141569A gas-rich, debris disk with VLT/SPHERE",
+    "journal": "A&A 590, L7",
+    "arxiv": "1605.00468",
+    "bibcode": "2016A&A...590L...7P"
+   },
+   "epoch": "2015-07-22"
   }
  ],
  "notes": "Hybrid disk (gas-rich debris / late transition).",
- "last_updated": "2026-07-07",
+ "last_updated": "2026-07-10",
  "plx_mas": 8.9597,
  "mags": {
   "U": 7.22,
