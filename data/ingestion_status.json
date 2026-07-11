@@ -1,6 +1,6 @@
 {
  "_doc": "Per-survey ingestion state. entries/coords/images: done|partial|todo. Update on every ingest.",
- "updated": "2026-07-11: +6 records from agent R (scattered-light/companion discovery): HD 163296 NACO H+Ks PDI (Garufi 2014), HD 135344B NACO H+Ks PDI spirals (Garufi 2013), beta Pic b NACO M' 4.78um first-5um image (Currie 2011), HR 8799 bcd Keck/NIRC2 2005 H-epoch A-LOCI (Currie 2012). Flagged Orion 218-354 silhouette disk as candidate new system. 1749 records, 0 err.",
+ "updated": "2026-07-11: agent S within-atlas fix — split MWC 758's under-split generic JWST/NIRCam record into per-filter F187N + F200W (Wagner 2024), corrected technique coronagraphy->ADI (paper used direct imaging + ADI-KLIP, no coronagraph). Added AU Mic JCMT/SCUBA-2 850um marginally-resolved submm (Matthews 2015). 1751 records, 0 err.",
  "surveys": {
   "DSHARP": {
    "entries": "done",

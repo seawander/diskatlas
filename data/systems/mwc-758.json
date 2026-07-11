@@ -200,27 +200,6 @@
    "epoch": "2015-10-24"
   },
   {
-   "image_id": "mwc-758_jwst2024",
-   "type": "disk_scattered",
-   "facility": "JWST",
-   "instrument": "NIRCam",
-   "wavelength_um": 4,
-   "wavelength_label": "NIRCam (near-IR coronagraphy)",
-   "technique": "coronagraphic direct imaging / high-contrast",
-   "survey": null,
-   "file": "images/mwc-758/mwc-758_jwst2024.png",
-   "credit": "Wagner et al. 2024, Fig. (crop)",
-   "paper": {
-    "first_author": "Wagner",
-    "year": 2024,
-    "title": "JWST/NIRCam Imaging of Young Stellar Objects. I. Constraints on Planets Exterior to The Spiral Disk Around MWC 758",
-    "journal": "The Astronomical Journal",
-    "arxiv": "2401.02830",
-    "bibcode": "2024AJ....167..181W"
-   },
-   "epoch": "2022 Sep 30"
-  },
-  {
    "image_id": "mwc-758_lbti2019-lp",
    "type": "disk_scattered",
    "facility": "LBT",
@@ -430,6 +409,48 @@
    },
    "file": "images/mwc-758/mwc-758_sphere2014-dec.png",
    "epoch": "2014-12"
+  },
+  {
+   "image_id": "mwc-758_jwst-f187n-wagner24",
+   "type": "disk_scattered",
+   "facility": "JWST",
+   "instrument": "NIRCam",
+   "wavelength_um": 1.87,
+   "wavelength_label": "F187N 1.87 um (ADI-KLIP; direct imaging, no coronagraph)",
+   "technique": "ADI",
+   "survey": null,
+   "file": "images/mwc-758/mwc-758_jwst-f187n-wagner24.png",
+   "credit": "Wagner et al. 2024, Fig. 2 (F187N ADI-KLIP, crop)",
+   "paper": {
+    "first_author": "Wagner",
+    "year": 2024,
+    "title": "JWST/NIRCam Imaging of Young Stellar Objects. I. Constraints on Planets Exterior to The Spiral Disk Around MWC 758",
+    "journal": "The Astronomical Journal",
+    "arxiv": "2401.02830",
+    "bibcode": "2024AJ....167..181W"
+   },
+   "epoch": "2022-09-30"
+  },
+  {
+   "image_id": "mwc-758_jwst-f200w-wagner24",
+   "type": "disk_scattered",
+   "facility": "JWST",
+   "instrument": "NIRCam",
+   "wavelength_um": 2.0,
+   "wavelength_label": "F200W 2.0 um (ADI-KLIP; direct imaging, no coronagraph)",
+   "technique": "ADI",
+   "survey": null,
+   "file": "images/mwc-758/mwc-758_jwst-f200w-wagner24.png",
+   "credit": "Wagner et al. 2024, Fig. 2 (F200W ADI-KLIP, crop)",
+   "paper": {
+    "first_author": "Wagner",
+    "year": 2024,
+    "title": "JWST/NIRCam Imaging of Young Stellar Objects. I. Constraints on Planets Exterior to The Spiral Disk Around MWC 758",
+    "journal": "The Astronomical Journal",
+    "arxiv": "2401.02830",
+    "bibcode": "2024AJ....167..181W"
+   },
+   "epoch": "2022-09-30"
   }
  ],
  "notes": null,
