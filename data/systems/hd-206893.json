@@ -106,6 +106,27 @@
    "epoch": "2018"
   },
   {
+   "image_id": "hd-206893_alma2020-b7",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 7",
+   "wavelength_um": 880,
+   "wavelength_label": "0.88 mm continuum (12m+ACA; low-SNR belt detection)",
+   "technique": "interferometry",
+   "survey": null,
+   "file": "images/hd-206893/hd-206893_alma-b7-0.88mm-marino20.png",
+   "credit": "Marino et al. 2020, Fig. 1 (crop: left panel, 12m+ACA)",
+   "paper": {
+    "first_author": "Marino",
+    "year": 2020,
+    "title": "Insights into the planetary dynamics of HD 206893 with ALMA",
+    "journal": "MNRAS 498, 1319",
+    "arxiv": "2010.12582",
+    "bibcode": "2020MNRAS.498.1319M"
+   },
+   "epoch": "2018"
+  },
+  {
    "image_id": "hd-206893_sphere2017",
    "type": "planet",
    "facility": "VLT-SPHERE",

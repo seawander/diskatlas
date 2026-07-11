@@ -100,6 +100,27 @@
    "epoch": "2007 Jan"
   },
   {
+   "type": "disk_scattered",
+   "facility": "Keck II",
+   "instrument": "Keck II AO",
+   "wavelength_um": 1.65,
+   "wavelength_label": "H band (Keck II AO; discovery-confirmation image, reference-star subtracted)",
+   "technique": "RDI",
+   "survey": null,
+   "credit": "Kalas et al. 2007, Fig. 1 right (crop)",
+   "paper": {
+    "first_author": "Kalas",
+    "year": 2007,
+    "title": "Discovery of Extreme Asymmetry in the Debris Disk Surrounding HD 15115",
+    "journal": "ApJL 661, L85",
+    "arxiv": "0704.0645",
+    "bibcode": "2007ApJ...661L..85K"
+   },
+   "image_id": "hd-15115_keck2006",
+   "file": "images/hd-15115/hd-15115_keck-h-kalas07.png",
+   "epoch": "2006"
+  },
+  {
    "type": "disk_mm",
    "facility": "ALMA",
    "instrument": "Band 7/6",
