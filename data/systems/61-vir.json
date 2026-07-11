@@ -1,0 +1,54 @@
+{
+ "id": "61-vir",
+ "name": "61 Vir",
+ "alt_names": [
+  "HD 115617",
+  "GJ 506"
+ ],
+ "simbad": "HD 115617",
+ "ra_deg": 199.6013083,
+ "dec_deg": -18.3111938,
+ "dist_pc": 8.5,
+ "plx_mas": 117.1726,
+ "mags": {
+  "U": 5.71,
+  "B": 5.44,
+  "V": 4.74,
+  "G": 4.533,
+  "J": 3.334,
+  "H": 2.974,
+  "K": 2.956
+ },
+ "sptype": "G6.5V",
+ "region": "Isolated",
+ "categories": [
+  "debris"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "image_id": "61-vir_alma-marino17",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 7",
+   "wavelength_um": 860,
+   "wavelength_label": "0.86 mm continuum (debris belt)",
+   "technique": "interferometry",
+   "survey": null,
+   "file": "images/61-vir/61-vir_alma-marino17.png",
+   "credit": "Marino et al. 2017, Fig. 1 (crop)",
+   "note": "low-S/N but spatially resolved debris belt (spans many beams); extent traced by the overlaid contours; B1/B2/B3 are background sources",
+   "paper": {
+    "first_author": "Marino",
+    "year": 2017,
+    "title": "ALMA observations of the multiplanet system 61 Vir: what lies outside super-Earth systems?",
+    "journal": "MNRAS 469, 3518",
+    "arxiv": "1705.01944",
+    "bibcode": "2017MNRAS.469.3518M"
+   },
+   "epoch": "2015-04-09"
+  }
+ ],
+ "notes": "Nearby Sun-like star hosting three RV super-Earths (b, c, d); the ALMA-resolved debris belt lies outside the planetary system.",
+ "last_updated": "2026-07-10"
+}

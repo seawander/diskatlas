@@ -7234,5 +7234,17 @@
   "source": "tex:ingestion",
   "arxiv": "astro-ph/0511244",
   "snippet": "obs section: observed 28 September 2005, UH 2.2m optical coronagraph, R filter"
+ },
+ "61-vir_alma-marino17": {
+  "epoch": "2015-04-09",
+  "source": "alma:alma-code",
+  "arxiv": "1705.01944",
+  "snippet": "ALMA TAP 2013.1.00359.S executed 2015-04-09"
+ },
+ "2mass-j04124068-2438157_alma-long23": {
+  "epoch": "2021-08-27",
+  "source": "tex:ingestion",
+  "arxiv": "2303.14586",
+  "snippet": "obs section: ALMA Band 6 on UT 2021 August 27 (Return to Operations)"
  }
 }

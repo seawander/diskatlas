@@ -2453,5 +2453,15 @@
   "status": "excluded",
   "reason": "Matra 2020 Vega ALMA: the Vega ALMA/SMA resolved image is already in the atlas via Matra 2025 (vega ALMA/SMA Band 6/7); same facility+author, superseded",
   "date": "2026-07-10"
+ },
+ "1705.01944": {
+  "status": "ingested",
+  "reason": "61 Vir ALMA belt -> new system 61-vir",
+  "date": "2026-07-10"
+ },
+ "2303.14586": {
+  "status": "ingested",
+  "reason": "Long 2023 double-ring -> new system 2mass-j04124068-2438157",
+  "date": "2026-07-10"
  }
 }
