@@ -962,6 +962,48 @@
     "bibcode": "2020AJ....159...71N"
    },
    "epoch": "2018-11-18"
+  },
+  {
+   "image_id": "beta-pic_wfc3-f110w-ballering16",
+   "type": "disk_scattered",
+   "facility": "HST",
+   "instrument": "WFC3",
+   "wavelength_um": 1.16,
+   "wavelength_label": "F110W 1.16 um (WFC3/IR roll-difference; edge-on disk)",
+   "technique": "other",
+   "survey": null,
+   "file": "images/beta-pic/beta-pic_wfc3-f110w-ballering16.png",
+   "credit": "Ballering et al. 2016, Fig. 2 (WFC3 roll-difference, crop)",
+   "paper": {
+    "first_author": "Ballering",
+    "year": 2016,
+    "title": "A Comprehensive Dust Model Applied to the Resolved Beta Pictoris Debris Disk from Optical to Radio Wavelengths",
+    "journal": "ApJ 823, 108",
+    "arxiv": "1605.01731",
+    "bibcode": "2016ApJ...823..108B"
+   },
+   "epoch": "2009"
+  },
+  {
+   "image_id": "beta-pic_mips-24um-ballering16",
+   "type": "disk_mm",
+   "facility": "Spitzer",
+   "instrument": "MIPS",
+   "wavelength_um": 24.0,
+   "wavelength_label": "24 um (Spitzer/MIPS star-subtracted; resolved disk)",
+   "technique": "other",
+   "survey": null,
+   "file": "images/beta-pic/beta-pic_mips-24um-ballering16.png",
+   "credit": "Ballering et al. 2016, Fig. 4 (Peak Subtraction panel, crop)",
+   "paper": {
+    "first_author": "Ballering",
+    "year": 2016,
+    "title": "A Comprehensive Dust Model Applied to the Resolved Beta Pictoris Debris Disk from Optical to Radio Wavelengths",
+    "journal": "ApJ 823, 108",
+    "arxiv": "1605.01731",
+    "bibcode": "2016ApJ...823..108B"
+   },
+   "epoch": "2004-03-20"
   }
  ],
  "notes": "Original 1984 discovery image (Smith & Terrile, Las Campanas coronagraph) predates arXiv; add if desired.",

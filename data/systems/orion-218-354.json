@@ -36,6 +36,27 @@
     "bibcode": "2013ApJ...775L..13F"
    },
    "epoch": "2012-12-06"
+  },
+  {
+   "image_id": "orion-218-354_hst-acs-ricci08",
+   "type": "disk_scattered",
+   "facility": "HST",
+   "instrument": "ACS",
+   "wavelength_um": 0.66,
+   "wavelength_label": "optical broadband (HST/ACS; silhouette + central star)",
+   "technique": "other",
+   "survey": null,
+   "file": "images/orion-218-354/orion-218-354_hst-acs-ricci08.png",
+   "credit": "Ricci et al. 2008 (HST/ACS ONC atlas), as displayed in Follette et al. 2013, Fig. 1 upper-right (crop)",
+   "paper": {
+    "first_author": "Ricci",
+    "year": 2008,
+    "title": "The Hubble Space Telescope/Advanced Camera for Surveys Atlas of Protoplanetary Disks in the Great Orion Nebula",
+    "journal": "AJ 136, 2136",
+    "arxiv": "0808.3336",
+    "bibcode": "2008AJ....136.2136R"
+   },
+   "epoch": "2004-2005"
   }
  ],
  "notes": "Silhouette (absorption) disk in the Orion Nebula seen against the nebular H-alpha background; first circumstellar disk imaged in silhouette from the ground with adaptive optics (Follette et al. 2013, Magellan MagAO/VisAO SDI). Distance = Orion Nebula Cluster (~414 pc). Added 2026-07-11.",
