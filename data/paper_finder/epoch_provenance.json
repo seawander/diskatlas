@@ -7252,5 +7252,23 @@
   "source": "tex:ingestion",
   "arxiv": "2201.11771",
   "snippet": "obs section: UT 2016 October 15, Keck/NIRC2"
+ },
+ "gj-758_hiciao-thalmann09": {
+  "epoch": "2009",
+  "source": "tex:ingestion",
+  "arxiv": "0911.1127",
+  "snippet": "discovery-paper obs epoch"
+ },
+ "hd-984_naco-meshkat15": {
+  "epoch": "2012-07-18",
+  "source": "tex:ingestion",
+  "arxiv": "1507.08291",
+  "snippet": "discovery-paper obs epoch"
+ },
+ "hd-19467_nirc2-crepp14": {
+  "epoch": "2012-01-07",
+  "source": "tex:ingestion",
+  "arxiv": "1311.0280",
+  "snippet": "discovery-paper obs epoch"
  }
 }

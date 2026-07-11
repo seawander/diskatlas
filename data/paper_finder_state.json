@@ -2488,5 +2488,20 @@
   "status": "excluded",
   "reason": "Huang 2025 Haro 6-13 grand-design spirals: same ALMA Band 6 as the in-atlas Long 2019 record; spiral structure only emerges via unsharp masking (processed display), subtle in a standalone crop; band-redundant, deferred",
   "date": "2026-07-10"
+ },
+ "0911.1127": {
+  "status": "ingested",
+  "reason": "imaged companion -> new system gj-758",
+  "date": "2026-07-10"
+ },
+ "1507.08291": {
+  "status": "ingested",
+  "reason": "imaged companion -> new system hd-984",
+  "date": "2026-07-10"
+ },
+ "1311.0280": {
+  "status": "ingested",
+  "reason": "imaged companion -> new system hd-19467",
+  "date": "2026-07-10"
  }
 }

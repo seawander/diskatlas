@@ -1,0 +1,63 @@
+{
+ "id": "gj-758",
+ "name": "GJ 758",
+ "alt_names": [
+  "HD 182488",
+  "HIP 95319"
+ ],
+ "simbad": "GJ 758",
+ "ra_deg": 290.8917215,
+ "dec_deg": 33.2219662,
+ "dist_pc": 15.6,
+ "plx_mas": 64.0703,
+ "mags": {
+  "G": 6.16,
+  "J": 5.37,
+  "H": 4.74,
+  "K": 4.49
+ },
+ "sptype": "K0V",
+ "region": "Isolated",
+ "categories": [],
+ "planets": [
+  {
+   "name": "B",
+   "status": "confirmed",
+   "method": "imaging",
+   "note": "cold (T7-T8) substellar companion at ~1.9\" (~29 au), one of the coldest and faintest companions imaged at the time of discovery",
+   "paper": {
+    "first_author": "Thalmann",
+    "year": 2009,
+    "arxiv": "0911.1127",
+    "bibcode": "2009ApJ...707L.123T",
+    "journal": "ApJL 707, L123"
+   }
+  }
+ ],
+ "images": [
+  {
+   "image_id": "gj-758_hiciao-thalmann09",
+   "type": "planet",
+   "facility": "Subaru-HiCIAO",
+   "instrument": "HiCIAO",
+   "wavelength_um": 1.6,
+   "wavelength_label": "H band (ADI; GJ 758 B discovery, 2009 epochs)",
+   "technique": "ADI",
+   "survey": null,
+   "file": "images/gj-758/gj-758_hiciao-thalmann09.png",
+   "credit": "Thalmann et al. 2009, Fig. 1 (crop)",
+   "note": "dashed arrow = companion B, solid arrow = candidate C",
+   "paper": {
+    "first_author": "Thalmann",
+    "year": 2009,
+    "title": "Discovery of the Coldest Imaged Companion of a Sun-like Star",
+    "journal": "ApJL 707, L123",
+    "arxiv": "0911.1127",
+    "bibcode": "2009ApJ...707L.123T"
+   },
+   "epoch": "2009"
+  }
+ ],
+ "notes": "K0V star hosting GJ 758 B, a cold T-dwarf companion discovered by Subaru/HiCIAO direct imaging (SEEDS).",
+ "last_updated": "2026-07-10"
+}

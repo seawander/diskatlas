@@ -1,0 +1,63 @@
+{
+ "id": "hd-984",
+ "name": "HD 984",
+ "alt_names": [
+  "HIP 1134"
+ ],
+ "simbad": "HD 984",
+ "ra_deg": 3.5427201,
+ "dec_deg": -7.1991146,
+ "dist_pc": 45.7,
+ "plx_mas": 21.877,
+ "mags": {
+  "V": 7.32,
+  "G": 7.21,
+  "J": 6.4,
+  "H": 6.17,
+  "K": 6.07
+ },
+ "sptype": "F7V",
+ "region": "Isolated",
+ "categories": [],
+ "planets": [
+  {
+   "name": "B",
+   "status": "confirmed",
+   "method": "imaging",
+   "note": "low-mass (~M6-L, ~0.07-0.1 Msun) companion at ~0.19\" (~9 au); comoving (Meshkat et al. 2015)",
+   "paper": {
+    "first_author": "Meshkat",
+    "year": 2015,
+    "arxiv": "1507.08291",
+    "bibcode": "2015MNRAS.453.2378M",
+    "journal": "MNRAS 453, 2378"
+   }
+  }
+ ],
+ "images": [
+  {
+   "image_id": "hd-984_naco-meshkat15",
+   "type": "planet",
+   "facility": "VLT-NACO",
+   "instrument": "NACO (APP)",
+   "wavelength_um": 3.8,
+   "wavelength_label": "L' band (APP coronagraphy; HD 984 B at 0.19\")",
+   "technique": "ADI",
+   "survey": null,
+   "file": "images/hd-984/hd-984_naco-meshkat15.png",
+   "credit": "Meshkat et al. 2015, Fig. 1 (NaCo/APP L' panel, crop)",
+   "note": "close (0.19 arcsec) companion within the APP dark hole; subtle at this separation",
+   "paper": {
+    "first_author": "Meshkat",
+    "year": 2015,
+    "title": "Discovery of a low-mass companion to the F7V star HD 984",
+    "journal": "MNRAS 453, 2378",
+    "arxiv": "1507.08291",
+    "bibcode": "2015MNRAS.453.2378M"
+   },
+   "epoch": "2012-07-18"
+  }
+ ],
+ "notes": "F7V star with a low-mass companion HD 984 B imaged with VLT/NACO APP coronagraphy.",
+ "last_updated": "2026-07-10"
+}

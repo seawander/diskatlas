@@ -1,0 +1,63 @@
+{
+ "id": "hd-19467",
+ "name": "HD 19467",
+ "alt_names": [
+  "HIP 14501"
+ ],
+ "simbad": "HD 19467",
+ "ra_deg": 46.827396,
+ "dec_deg": -13.7617828,
+ "dist_pc": 32.0,
+ "plx_mas": 31.2191,
+ "mags": {
+  "V": 7.0,
+  "G": 6.81,
+  "J": 5.8,
+  "H": 5.45,
+  "K": 5.4
+ },
+ "sptype": "G3V",
+ "region": "Isolated",
+ "categories": [],
+ "planets": [
+  {
+   "name": "B",
+   "status": "confirmed",
+   "method": "imaging",
+   "note": "benchmark T-dwarf companion (~50-70 MJup) at ~1.6\" (~51 au); found via a long-term RV trend + Keck/NIRC2 imaging (Crepp et al. 2014); later JWST-imaged",
+   "paper": {
+    "first_author": "Crepp",
+    "year": 2014,
+    "arxiv": "1311.0280",
+    "bibcode": "2014ApJ...781...29C",
+    "journal": "ApJ 781, 29"
+   }
+  }
+ ],
+ "images": [
+  {
+   "image_id": "hd-19467_nirc2-crepp14",
+   "type": "planet",
+   "facility": "Keck-NIRC2",
+   "instrument": "NIRC2",
+   "wavelength_um": 2.12,
+   "wavelength_label": "K' band (ADI; HD 19467 B discovery)",
+   "technique": "ADI",
+   "survey": null,
+   "file": "images/hd-19467/hd-19467_nirc2-crepp14.png",
+   "credit": "Crepp et al. 2014, Fig. 2 (crop)",
+   "note": "T-dwarf companion at ~1.6 arcsec SE (arrow)",
+   "paper": {
+    "first_author": "Crepp",
+    "year": 2014,
+    "title": "The TRENDS High-contrast Imaging Survey. V. Discovery of an Old and Cold Benchmark T-dwarf Orbiting the Nearby G-star HD 19467",
+    "journal": "ApJ 781, 29",
+    "arxiv": "1311.0280",
+    "bibcode": "2014ApJ...781...29C"
+   },
+   "epoch": "2012-01-07"
+  }
+ ],
+ "notes": "Old solar analog G3V star hosting the benchmark T-dwarf companion HD 19467 B (RV-trend-selected, Keck/NIRC2 imaging; later a JWST coronagraphy target).",
+ "last_updated": "2026-07-10"
+}
