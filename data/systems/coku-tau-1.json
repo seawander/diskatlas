@@ -37,7 +37,7 @@
    "epoch": "1997-08-19"
   }
  ],
- "notes": "CoKu Tau/1: T Tauri subarcsecond binary with limb-brightened outflow-cavity walls (HH 156 jet source). Distance from Gaia plx 8.69 mas. Added 2026-07-09 via Padgett 1999 NICMOS split.",
+ "notes": "CoKu Tau/1: a T Tauri subarcsecond binary with limb-brightened outflow-cavity walls, the source of the HH 156 jet, imaged with HST/NICMOS (Padgett+1999). Distance from the Gaia DR3 parallax of 8.69 mas.",
  "last_updated": "2026-07-09",
  "plx_mas": 8.6947,
  "mags": null

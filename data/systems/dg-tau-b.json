@@ -59,7 +59,7 @@
    "epoch": "1996-1998"
   }
  ],
- "notes": "DG Tau B: Class I protostar ~55 arcsec SW of DG Tau, source of the HH 159 bipolar jet. Edge-on disk + asymmetric reflection nebula; ALMA later resolved rings. Added 2026-07-09 via Padgett 1999 NICMOS split (system_audit lead).",
+ "notes": "DG Tau B: a Class I protostar ~55 arcsec SW of DG Tau, source of the HH 159 bipolar jet, with an edge-on disk and asymmetric reflection nebula imaged in HST/NICMOS (Padgett+1999) and mm continuum mapped by BIMA (Looney+2000).",
  "last_updated": "2026-07-09",
  "plx_mas": null,
  "mags": null
