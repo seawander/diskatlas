@@ -288,6 +288,9 @@ td.cell.gap::after { content: "·"; color: rgba(154,167,199,.35); }
   #facets { gap: 8px; }
   #ghlink .ghtext { display: none; }   /* icon-only GitHub badge on phones */
   #legend { max-width: calc(100vw - 70px); }
+  /* bigger touch targets (>= ~44px) for the image nav + close on phones */
+  .nav { width: 44px; height: 68px; font-size: 24px; }
+  #closebtn { font-size: 34px; top: 4px; right: 8px; padding: 4px 10px; }
 }
 
 /* ---- content links: bright + underlined in BOTH themes (colorblind-friendly) ----

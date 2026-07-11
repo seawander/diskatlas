@@ -496,7 +496,7 @@ if (typeof window !== "undefined") (function () {
 
   /* ---------- interactions ---------- */
   let dragging = false, moved = false, lx = 0, ly = 0;
-  canvas.addEventListener("mousedown", e => { dragging = true; moved = false; lx = e.clientX; ly = e.clientY; canvas.classList.add("dragging"); });
+  canvas.addEventListener("mousedown", e => { stopMomentum(); dragging = true; moved = false; lx = e.clientX; ly = e.clientY; canvas.classList.add("dragging"); });
   window.addEventListener("mouseup", () => { dragging = false; canvas.classList.remove("dragging"); });
   window.addEventListener("mousemove", e => {
     if (dragging) {
@@ -551,10 +551,28 @@ if (typeof window !== "undefined") (function () {
      desktop dblclick). Taps still synthesise clicks, so tap-to-open-details
      keeps working; touch-action:none on #sky stops Safari's native gestures. */
   let pinchD = 0, lastTap = 0, lastTapX = 0, lastTapY = 0;
+  /* flick-to-glide momentum after a one-finger pan (deceleration, like map apps) */
+  let momRAF = 0, momVx = 0, momVy = 0, momT = 0;
+  function stopMomentum() { cancelAnimationFrame(momRAF); momRAF = 0; }
+  function startMomentum() {
+    if (Math.hypot(momVx, momVy) < 0.25) return;      // only on a real flick
+    let last = performance.now();
+    (function step(now) {
+      const dt = Math.min(now - last, 40); last = now;
+      view.ra0 = wrapRA(view.ra0 + momVx * dt / view.ppd);
+      view.dec0 += momVy * dt / view.ppd;
+      clampView(); draw();
+      const decay = Math.pow(0.9, dt / 16);
+      momVx *= decay; momVy *= decay;
+      momRAF = Math.hypot(momVx, momVy) > 0.01 ? requestAnimationFrame(step) : 0;
+    })(last);
+  }
   canvas.addEventListener("touchstart", e => {
+    stopMomentum();
     if (e.touches.length === 1) {
       dragging = true; moved = false;
       lx = e.touches[0].clientX; ly = e.touches[0].clientY;
+      momVx = momVy = 0; momT = performance.now();
     } else if (e.touches.length === 2) {
       dragging = false; moved = true;            // pinch, not a tap
       const t0 = e.touches[0], t1 = e.touches[1];
@@ -567,6 +585,8 @@ if (typeof window !== "undefined") (function () {
       const t = e.touches[0];
       const dx = t.clientX - lx, dy = t.clientY - ly; lx = t.clientX; ly = t.clientY;
       if (Math.abs(dx) + Math.abs(dy) > 2) moved = true;
+      const now = performance.now(), dt = now - momT; momT = now;
+      if (dt > 0) { momVx = dx / dt; momVy = dy / dt; }   // px/ms, for momentum
       view.ra0 = wrapRA(view.ra0 + dx / view.ppd);
       view.dec0 += dy / view.ppd;
       clampView(); draw();
@@ -606,6 +626,8 @@ if (typeof window !== "undefined") (function () {
           return;
         }
         lastTap = now; lastTapX = t.clientX; lastTapY = t.clientY;
+      } else if (moved && performance.now() - momT < 60) {
+        startMomentum();                    // released a moving pan → glide (skip if the finger paused)
       }
     }
   }, { passive: false });
@@ -817,24 +839,97 @@ if (typeof window !== "undefined") (function () {
   document.getElementById("closebtn").onclick = closeDetail;
   document.getElementById("d_prev").onclick = () => showImg(curImg - 1);
   document.getElementById("d_next").onclick = () => showImg(curImg + 1);
-  /* touch: swipe left/right across the image to change images (in addition to the
-     arrows). #d_imgbox has touch-action:pan-y so vertical scroll still works and
-     the browser doesn't hijack the horizontal swipe. */
-  (function imgSwipe() {
+  /* touch gestures on the detail image:
+       · pinch (2 fingers) / double-tap → zoom (1×–5×), drag → pan when zoomed
+       · swipe left/right (when not zoomed) → previous/next image
+     #d_imgbox touch-action toggles pan-y (not zoomed: browser scrolls vertically,
+     we own the h-swipe) → none (zoomed: we own both axes). Reset on image change. */
+  let resetImgZoom = null;
+  (function imgGestures() {
     const box = document.getElementById("d_imgbox");
     if (!box) return;
-    let x0 = null, y0 = null;
+    let scale = 1, tx = 0, ty = 0, mode = null, sx = 0, sy = 0, lx = 0, ly = 0, pd0 = 0, s0 = 1, lastTap = 0;
+    const img = () => box.querySelector("img");
+    function apply() {
+      const im = img();
+      if (im) im.style.transform = "translate(" + tx.toFixed(1) + "px," + ty.toFixed(1) + "px) scale(" + scale.toFixed(3) + ")";
+      box.style.touchAction = scale > 1 ? "none" : "pan-y";
+    }
+    function clampPan() {
+      const im = img(); if (!im) return;
+      const ex = Math.max(0, (im.clientWidth * scale - box.clientWidth) / 2);
+      const ey = Math.max(0, (im.clientHeight * scale - box.clientHeight) / 2);
+      tx = Math.max(-ex, Math.min(ex, tx)); ty = Math.max(-ey, Math.min(ey, ty));
+    }
+    resetImgZoom = () => { scale = 1; tx = 0; ty = 0; apply(); };
     box.addEventListener("touchstart", e => {
-      if (e.touches.length !== 1) { x0 = null; return; }
-      x0 = e.touches[0].clientX; y0 = e.touches[0].clientY;
+      if (e.touches.length === 1) {
+        const t = e.touches[0]; sx = lx = t.clientX; sy = ly = t.clientY;
+        mode = scale > 1 ? "pan" : "swipe";
+      } else if (e.touches.length === 2) {
+        mode = "pinch";
+        const a = e.touches[0], b = e.touches[1];
+        pd0 = Math.hypot(b.clientX - a.clientX, b.clientY - a.clientY); s0 = scale;
+      }
     }, { passive: true });
+    box.addEventListener("touchmove", e => {
+      if (mode === "pinch" && e.touches.length === 2) {
+        e.preventDefault();
+        const a = e.touches[0], b = e.touches[1];
+        const d = Math.hypot(b.clientX - a.clientX, b.clientY - a.clientY);
+        if (pd0 > 0) scale = Math.max(1, Math.min(5, s0 * d / pd0));
+        if (scale === 1) { tx = 0; ty = 0; }
+        clampPan(); apply();
+      } else if (mode === "pan" && e.touches.length === 1) {
+        e.preventDefault();
+        const t = e.touches[0];
+        tx += t.clientX - lx; ty += t.clientY - ly; lx = t.clientX; ly = t.clientY;
+        clampPan(); apply();
+      }
+    }, { passive: false });
     box.addEventListener("touchend", e => {
-      if (x0 == null || e.changedTouches.length !== 1) return;
-      const dx = e.changedTouches[0].clientX - x0, dy = e.changedTouches[0].clientY - y0;
-      x0 = null;
-      if (Math.abs(dx) < 45 || Math.abs(dx) < Math.abs(dy) * 1.6) return;  // need a clear horizontal swipe
-      if (!currentSys || sortedImages(currentSys).length < 2) return;
-      showImg(curImg + (dx < 0 ? 1 : -1));   // swipe left → next, swipe right → previous
+      if (e.touches.length >= 1) {                        // a finger is still down
+        if (e.touches.length === 1) {                     // pinch → pan/swipe with the remaining finger
+          const t = e.touches[0]; sx = lx = t.clientX; sy = ly = t.clientY;
+          mode = scale > 1 ? "pan" : "swipe";
+        }
+        return;
+      }
+      const t = e.changedTouches[0], dx = t.clientX - sx, dy = t.clientY - sy;
+      if (Math.abs(dx) < 12 && Math.abs(dy) < 12) {        // a tap (in ANY mode) → maybe double-tap zoom
+        const now = Date.now();
+        if (now - lastTap < 300) {
+          const r = box.getBoundingClientRect();
+          if (scale > 1) { scale = 1; tx = 0; ty = 0; }    // zoomed → reset
+          else { scale = 2.5;                               // zoom in on the tapped point
+            tx = (box.clientWidth / 2 - (t.clientX - r.left)) * scale;
+            ty = (box.clientHeight / 2 - (t.clientY - r.top)) * scale; clampPan(); }
+          apply(); lastTap = 0;
+        } else lastTap = now;
+      } else if (mode === "swipe" && scale === 1 &&
+                 Math.abs(dx) >= 45 && Math.abs(dx) > Math.abs(dy) * 1.6) {
+        if (currentSys && sortedImages(currentSys).length >= 2) showImg(curImg + (dx < 0 ? 1 : -1));
+      }
+      mode = null;
+    }, { passive: true });
+  })();
+  /* swipe DOWN from the panel header (when scrolled to top) to dismiss it */
+  (function panelDismiss() {
+    const detail = document.getElementById("detail");
+    if (!detail) return;
+    let y0 = 0, x0 = 0, armed = false;
+    detail.addEventListener("touchstart", e => {
+      if (e.touches.length !== 1) { armed = false; return; }
+      const t = e.touches[0]; y0 = t.clientY; x0 = t.clientX;
+      const box = document.getElementById("d_imgbox");
+      const imgTop = box ? box.getBoundingClientRect().top : Infinity;
+      armed = detail.scrollTop <= 0 && t.clientY < imgTop;   // grabbing the header, panel at top
+    }, { passive: true });
+    detail.addEventListener("touchend", e => {
+      if (!armed || e.changedTouches.length !== 1) return;
+      armed = false;
+      const t = e.changedTouches[0], dy = t.clientY - y0, dx = t.clientX - x0;
+      if (dy > 80 && dy > Math.abs(dx) * 1.5) closeDetail();
     }, { passive: true });
   })();
 
@@ -887,6 +982,7 @@ if (typeof window !== "undefined") (function () {
       box.innerHTML = '<div class="placeholder"><span class="big">⏳</span>' +
         esc(t("d_pending1")) + "<br>" + esc(t("d_pending2")) + "</div>";
     }
+    if (resetImgZoom) resetImgZoom();   // clear any pinch-zoom from the previous image
     document.querySelectorAll("#d_slider .tick").forEach((el, k) =>
       el.classList.toggle("on", k === curImg));
     const p = im.paper || {};
