@@ -64,10 +64,10 @@
    "facility": "VLA",
    "instrument": "VLA (Ka)",
    "wavelength_um": 9000,
-   "wavelength_label": "8.8 mm continuum cavity (VLA Ka)",
+   "wavelength_label": "8.8 mm continuum (VLA Ka; B disk with central cavity + companion A)",
    "technique": "interferometry",
    "survey": null,
-   "credit": "Ribas et al. 2018 (crop)",
+   "credit": "Ribas et al. 2018, Fig. 1 top (Ka band 8.8 mm; full system)",
    "paper": {
     "first_author": "Ribas",
     "year": 2018,
@@ -76,7 +76,29 @@
     "arxiv": "1808.02493",
     "bibcode": "2018ApJ...865...77R"
    },
-   "file": "images/hd-98800/hd-98800_vla2018.png"
+   "file": "images/hd-98800/hd-98800_vla2018.png",
+   "epoch": "2015 Dec"
+  },
+  {
+   "image_id": "hd-98800_vla2018-cband",
+   "type": "disk_mm",
+   "facility": "VLA",
+   "instrument": "VLA (C)",
+   "wavelength_um": 50000,
+   "wavelength_label": "5 cm (C band, VLA); B disk + companion A",
+   "technique": "interferometry",
+   "survey": null,
+   "credit": "Ribas et al. 2018, Fig. 1 middle (C band 5 cm)",
+   "paper": {
+    "first_author": "Ribas",
+    "year": 2018,
+    "title": "Long-lived protoplanetary disks in multiple systems: the VLA view of HD 98800",
+    "journal": "ApJ 865, 77",
+    "arxiv": "1808.02493",
+    "bibcode": "2018ApJ...865...77R"
+   },
+   "file": "images/hd-98800/hd-98800_vla2018-cband.png",
+   "epoch": "2015 Dec"
   }
  ],
  "notes": "AUTO-CREATED from staging - fill metadata & coords",
