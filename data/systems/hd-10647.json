@@ -101,6 +101,69 @@
    },
    "file": "images/hd-10647/hd-10647_hst2021.png",
    "epoch": "2006-09-02"
+  },
+  {
+   "image_id": "hd-10647_pacs-70um-liseau10",
+   "type": "disk_mm",
+   "facility": "Herschel",
+   "instrument": "PACS",
+   "wavelength_um": 70,
+   "wavelength_label": "70 um (PACS; resolved debris ring, reduced observation)",
+   "technique": "other",
+   "survey": null,
+   "file": "images/hd-10647/hd-10647_pacs-70um-liseau10.png",
+   "credit": "Liseau et al. 2010, Fig. 1 (crop: 70 um observed frame)",
+   "paper": {
+    "first_author": "Liseau",
+    "year": 2010,
+    "title": "Resolving the cold debris disc around a planet-hosting star. PACS photometric imaging observations of q1 Eridani (HD 10647, HR 506)",
+    "journal": "A&A 518, L132",
+    "arxiv": "1005.3137",
+    "bibcode": "2010A&A...518L.132L"
+   },
+   "epoch": "2009-2010"
+  },
+  {
+   "image_id": "hd-10647_pacs-100um-liseau10",
+   "type": "disk_mm",
+   "facility": "Herschel",
+   "instrument": "PACS",
+   "wavelength_um": 100,
+   "wavelength_label": "100 um (PACS; resolved debris ring, reduced observation)",
+   "technique": "other",
+   "survey": null,
+   "file": "images/hd-10647/hd-10647_pacs-100um-liseau10.png",
+   "credit": "Liseau et al. 2010, Fig. 1 (crop: 100 um observed frame)",
+   "paper": {
+    "first_author": "Liseau",
+    "year": 2010,
+    "title": "Resolving the cold debris disc around a planet-hosting star. PACS photometric imaging observations of q1 Eridani (HD 10647, HR 506)",
+    "journal": "A&A 518, L132",
+    "arxiv": "1005.3137",
+    "bibcode": "2010A&A...518L.132L"
+   },
+   "epoch": "2009-2010"
+  },
+  {
+   "image_id": "hd-10647_pacs-160um-liseau10",
+   "type": "disk_mm",
+   "facility": "Herschel",
+   "instrument": "PACS",
+   "wavelength_um": 160,
+   "wavelength_label": "160 um (PACS; resolved debris ring, reduced observation)",
+   "technique": "other",
+   "survey": null,
+   "file": "images/hd-10647/hd-10647_pacs-160um-liseau10.png",
+   "credit": "Liseau et al. 2010, Fig. 1 (crop: 160 um observed frame)",
+   "paper": {
+    "first_author": "Liseau",
+    "year": 2010,
+    "title": "Resolving the cold debris disc around a planet-hosting star. PACS photometric imaging observations of q1 Eridani (HD 10647, HR 506)",
+    "journal": "A&A 518, L132",
+    "arxiv": "1005.3137",
+    "bibcode": "2010A&A...518L.132L"
+   },
+   "epoch": "2009-2010"
   }
  ],
  "notes": null,
