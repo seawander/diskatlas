@@ -77,6 +77,27 @@
    },
    "file": "images/hd-16743/hd-16743_nicmos2023.png",
    "epoch": "2007-07-23"
+  },
+  {
+   "image_id": "hd-16743_nicmos2023-f160w",
+   "type": "disk_scattered",
+   "facility": "HST",
+   "instrument": "NICMOS (NIC2 coronagraph)",
+   "wavelength_um": 1.6,
+   "wavelength_label": "F160W (1.6 um) coronagraphic scattered light",
+   "technique": "coronagraphy",
+   "survey": null,
+   "credit": "Marshall et al. 2023, Fig. 5 (crop: F160W reduced-image panel)",
+   "paper": {
+    "first_author": "Marshall",
+    "year": 2023,
+    "title": "Stirred but not shaken: a multi-wavelength view of HD 16743's debris disc",
+    "journal": "MNRAS 521, 5940-5951",
+    "arxiv": "2303.17128",
+    "bibcode": "2023MNRAS.521.5940M"
+   },
+   "file": "images/hd-16743/hd-16743_nicmos2023-f160w.png",
+   "epoch": "2007-07-23"
   }
  ],
  "notes": "AUTO-CREATED from staging - fill metadata & coords",

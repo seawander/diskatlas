@@ -37,6 +37,27 @@
    },
    "file": "images/gamma-oph/gamma-oph_mri_f2550w.png",
    "epoch": "2024-08-13"
+  },
+  {
+   "image_id": "gamma-oph_mri_f1500w",
+   "type": "disk_mm",
+   "facility": "JWST",
+   "instrument": "MIRI",
+   "wavelength_um": 15.0,
+   "wavelength_label": "15 µm (F1500W, PSF-subtracted)",
+   "technique": "coronagraphy",
+   "survey": null,
+   "credit": "Han et al. 2026, Fig. 1 (crop, bottom-left panel)",
+   "paper": {
+    "first_author": "Han",
+    "year": 2026,
+    "title": "A radially broad collisional cascade in the debris disk of gamma Ophiuchi observed by JWST",
+    "journal": "ApJ 1004, 182",
+    "arxiv": "2601.15285",
+    "bibcode": "2026ApJ..1004..182H"
+   },
+   "file": "images/gamma-oph/gamma-oph_mri_f1500w.png",
+   "epoch": "2024-08-13"
   }
  ],
  "notes": "AUTO-CREATED from staging - fill metadata & coords Added 2026-07-08 (recent-disk discovery).",
