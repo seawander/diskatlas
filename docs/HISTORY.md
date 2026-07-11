@@ -6,6 +6,30 @@ question actually points here. Newest first.
 
 ---
 
+## 2026-07-10 (latest) — caption-based missing-panel audit (panel_audit.py)
+
+Built `backend/panel_audit.py` (user request: "whenever you crop an image it
+should come from the captions of the Figures ... go through the entire archive
+and see if you've missed many panels"). It reads each record's `Fig. N` credit,
+pulls that figure's caption from the local arXiv `.tex`, estimates panel count,
+and flags figures where atlas-held records < caption panels. Added confidence
+tags: `multiband` (≥2 distinct wavelength tokens), `variant` (Uphi/r²/model/
+weighting = display-only), `review` (untokenized band names). Run: 45 multiband,
+82 review, 92 variant (`data/paper_finder/panel_audit_2026-07-10.txt`).
+
+Burned down the multiband tier + spot-checked review, VIEW-verifying each.
+**Recovered 9 genuine panels** (1540→1549 records): GM Aur ALMA Band 4 (Huang20)
++ ACS/SBC F165LP + ACS/HRC F330W + WFPC2 F555W (Hornbeck16, fixed F140LP epoch
+2003-2008→2008-08-13); RY Tau CARMA 2.8 mm (Isella10); gamma Oph MIRI F1500W
+(Han26); HD 16743 NICMOS F160W (Marshall23); Z CMa ALMA Band 6 1.3 mm streamer
+(Dong22); HD 61005 IRDIS ADI K-band (Olofsson16 split-fix). **Rejected ~10 false
+positives** — re-imaged archival data already held from the original (PDS 70 B7
+= Benisty21; AS 205 1.3mm = DSHARP; HL Tau ALMA = Partnership), display variants
+(J1608 coro/nocoro + Qphi/Uphi; 14 Her F444W subtraction stages; 3C273 pre-
+subtraction c/e/g = held d/f/h), marginal/noise detections (HD 206893 0.88mm;
+HD 15115 2006 Keck), and unresolved continuum insets (HD 97048 SIV/NeII).
+Fetch lesson: single `curl` silently caps arXiv e-prints at 2 MiB — use `wget`.
+
 ## 2026-07-10 (later) — census adjudication of category-less systems
 
 Ten systems with empty categories+planets but disk-typed records were adjudicated
