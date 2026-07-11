@@ -2503,5 +2503,10 @@
   "status": "ingested",
   "reason": "imaged companion -> new system hd-19467",
   "date": "2026-07-10"
+ },
+ "1912.02565": {
+  "status": "ingested",
+  "reason": "HD 72946 B SPHERE -> new system hd-72946",
+  "date": "2026-07-10"
  }
 }

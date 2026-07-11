@@ -7276,5 +7276,11 @@
   "source": "tex:ingestion",
   "arxiv": "2201.11771",
   "snippet": "obs: Lp discovery UT 2016 October 15 (vector vortex, 3.776 um)"
+ },
+ "hd-72946_sphere-maire20": {
+  "epoch": "2019-03-21",
+  "source": "tex:ingestion",
+  "arxiv": "1912.02565",
+  "snippet": "obs: observed HD 72946 on 2019 March 21 UT (SPHERE IRDIS)"
  }
 }

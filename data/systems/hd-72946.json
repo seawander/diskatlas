@@ -1,0 +1,64 @@
+{
+ "id": "hd-72946",
+ "name": "HD 72946",
+ "alt_names": [
+  "HIP 42173"
+ ],
+ "simbad": "HD 72946",
+ "ra_deg": 128.9636111,
+ "dec_deg": 6.6227652,
+ "dist_pc": 25.65,
+ "plx_mas": 38.9809,
+ "mags": {
+  "V": 7.08,
+  "G": 7.02,
+  "J": 5.88,
+  "H": 5.61,
+  "K": 5.5
+ },
+ "sptype": "G8V",
+ "region": "Isolated",
+ "categories": [],
+ "planets": [
+  {
+   "name": "B",
+   "status": "confirmed",
+   "method": "imaging",
+   "note": "dusty benchmark brown dwarf (~72 MJup, ~L5) at ~0.24\" (~6.5 au); first found via a long RV baseline (Bouchy et al. 2016), then directly imaged with VLT/SPHERE (Maire et al. 2020)",
+   "paper": {
+    "first_author": "Maire",
+    "year": 2020,
+    "title": "HD 72946 B: A dusty benchmark brown dwarf near the ice line",
+    "journal": "A&A 633, L2",
+    "arxiv": "1912.02565",
+    "bibcode": "2020A&A...633L...2M"
+   }
+  }
+ ],
+ "images": [
+  {
+   "image_id": "hd-72946_sphere-maire20",
+   "type": "planet",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS",
+   "wavelength_um": 1.6,
+   "wavelength_label": "H2+H3 1.6 um contrast image (ADI); HD 72946 B",
+   "technique": "ADI",
+   "survey": null,
+   "file": "images/hd-72946/hd-72946_sphere-maire20.png",
+   "credit": "Maire et al. 2020, Fig. 1a (crop)",
+   "note": "companion B at ~0.24 arcsec NE of the masked star",
+   "paper": {
+    "first_author": "Maire",
+    "year": 2020,
+    "title": "HD 72946 B: A dusty benchmark brown dwarf near the ice line",
+    "journal": "A&A 633, L2",
+    "arxiv": "1912.02565",
+    "bibcode": "2020A&A...633L...2M"
+   },
+   "epoch": "2019-03-21"
+  }
+ ],
+ "notes": "G8V star hosting the dusty benchmark brown dwarf HD 72946 B near the L/T transition, imaged with VLT/SPHERE.",
+ "last_updated": "2026-07-10"
+}
