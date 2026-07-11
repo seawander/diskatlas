@@ -668,6 +668,27 @@
     "bibcode": "2015A&A...577A..57M"
    },
    "epoch": "2009-08-12"
+  },
+  {
+   "image_id": "hr-4796a_naco-lp-milli15",
+   "type": "disk_scattered",
+   "facility": "VLT-NACO",
+   "instrument": "NACO",
+   "wavelength_um": 3.8,
+   "wavelength_label": "L' 3.8 um (ADI/PCA; archival Lagrange 2012 data)",
+   "technique": "ADI",
+   "survey": null,
+   "file": "images/hr-4796a/hr-4796a_naco-lp-milli15.png",
+   "credit": "Milli et al. 2015, Fig. 4 right (PCA re-reduction of Lagrange et al. 2012 NaCo L' data, crop)",
+   "paper": {
+    "first_author": "Milli",
+    "year": 2015,
+    "title": "New constraints on the dust surrounding HR 4796A",
+    "journal": "A&A 577, A57",
+    "arxiv": "1407.2539",
+    "bibcode": "2015A&A...577A..57M"
+   },
+   "epoch": "2010-04-06"
   }
  ],
  "notes": null,
