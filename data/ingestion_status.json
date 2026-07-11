@@ -1,6 +1,6 @@
 {
  "_doc": "Per-survey ingestion state. entries/coords/images: done|partial|todo. Update on every ingest.",
- "updated": "2026-07-11: 114-426 +12 classic HST images (agent Y, chasing Ballering intro refs): McCaughrean 1998 NICMOS F187N/F110W/F160W/POL-2um (1997), Miotello 2012 WFPC2 F336W + ACS F435W/F555W/F658N/F775W/F850LP (2004-2005), Throop 2001 re-displays WFPC2 F656N Halpha 1999 (Bally 2000 data) + NICMOS F187N Paalpha 1998. Now 25 imgs (HST 1997-2005 -> JWST 2022). 477 systems, 1801 records, 0 err.",
+ "updated": "2026-07-11: +6 NEW Orion silhouette/proplyd disk systems from the Ricci 2008 HST/ACS ONC atlas (0808.3336, epoch 2004-2005): 182-413 (HST 10), 132-1832, 294-606, 321-602, 473-245 (flared bipolar), 121-1925 - each ACS F435W + F658N (473-245: F658N + F850LP). Deferred 216-0939 (needs Smith 2005, outside Ricci field); rejected 253-1536 (star+jet). 483 systems, 1813 records, 0 err.",
  "surveys": {
   "DSHARP": {
    "entries": "done",
