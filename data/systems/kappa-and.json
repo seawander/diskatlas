@@ -134,15 +134,15 @@
    "epoch": "2012-10-06"
   },
   {
-   "image_id": "kappa-and_hiciao-jhk-annot",
+   "image_id": "kappa-and_hiciao-snrmap",
    "type": "planet",
    "facility": "Subaru-HiCIAO",
    "instrument": "HiCIAO",
    "wavelength_um": 1.6,
-   "wavelength_label": "JHK false-color (annotated: companion b + Neptune-orbit scale)",
+   "wavelength_label": "S/N detection map (JHK, LOCI/ADI); companion b",
    "technique": "ADI",
    "survey": "SEEDS",
-   "credit": "Carson et al. 2013, Fig. 1b (crop)",
+   "credit": "Carson et al. 2013, Fig. 1 center (S/N map, crop)",
    "hires_url": null,
    "paper": {
     "first_author": "Carson",
@@ -152,19 +152,19 @@
     "arxiv": "1211.3744",
     "bibcode": "2013ApJ...763L..32C"
    },
-   "file": "images/kappa-and/kappa-and_hiciao-jhk-annot.png",
+   "file": "images/kappa-and/kappa-and_hiciao-snrmap.png",
    "epoch": "2012-07"
   },
   {
-   "image_id": "kappa-and_hiciao-snr",
+   "image_id": "kappa-and_ircs-lp",
    "type": "planet",
-   "facility": "Subaru-HiCIAO",
-   "instrument": "HiCIAO",
-   "wavelength_um": 1.6,
-   "wavelength_label": "S/N detection map (LOCI/ADI; companion b)",
+   "facility": "Subaru",
+   "instrument": "IRCS (AO188)",
+   "wavelength_um": 3.8,
+   "wavelength_label": "L' band 3.8 um (Subaru/IRCS + AO188); companion b",
    "technique": "ADI",
    "survey": "SEEDS",
-   "credit": "Carson et al. 2013, Fig. 1c (crop)",
+   "credit": "Carson et al. 2013, Fig. 1 right (IRCS L' panel, crop)",
    "hires_url": null,
    "paper": {
     "first_author": "Carson",
@@ -174,7 +174,7 @@
     "arxiv": "1211.3744",
     "bibcode": "2013ApJ...763L..32C"
    },
-   "file": "images/kappa-and/kappa-and_hiciao-snr.png",
+   "file": "images/kappa-and/kappa-and_ircs-lp.png",
    "epoch": "2012-07"
   }
  ],
