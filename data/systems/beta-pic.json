@@ -772,6 +772,69 @@
     "bibcode": "2023A&A...675A..35S"
    },
    "epoch": "2019-12-15"
+  },
+  {
+   "image_id": "beta-pic_pacs-70um-vandenbussche10",
+   "type": "disk_mm",
+   "facility": "Herschel",
+   "instrument": "PACS",
+   "wavelength_um": 70,
+   "wavelength_label": "70 um (PACS; resolved edge-on disk)",
+   "technique": "other",
+   "survey": null,
+   "file": "images/beta-pic/beta-pic_pacs-70um-vandenbussche10.png",
+   "credit": "Vandenbussche et al. 2010, Fig. 1 (crop: PACS 70 um map)",
+   "paper": {
+    "first_author": "Vandenbussche",
+    "year": 2010,
+    "title": "The beta Pictoris disk imaged by Herschel PACS and SPIRE",
+    "journal": "A&A 518, L133",
+    "arxiv": "1005.3915",
+    "bibcode": "2010A&A...518L.133V"
+   },
+   "epoch": "2009-2010"
+  },
+  {
+   "image_id": "beta-pic_pacs-100um-vandenbussche10",
+   "type": "disk_mm",
+   "facility": "Herschel",
+   "instrument": "PACS",
+   "wavelength_um": 100,
+   "wavelength_label": "100 um (PACS; resolved edge-on disk)",
+   "technique": "other",
+   "survey": null,
+   "file": "images/beta-pic/beta-pic_pacs-100um-vandenbussche10.png",
+   "credit": "Vandenbussche et al. 2010, Fig. 1 (crop: PACS 100 um map)",
+   "paper": {
+    "first_author": "Vandenbussche",
+    "year": 2010,
+    "title": "The beta Pictoris disk imaged by Herschel PACS and SPIRE",
+    "journal": "A&A 518, L133",
+    "arxiv": "1005.3915",
+    "bibcode": "2010A&A...518L.133V"
+   },
+   "epoch": "2009-2010"
+  },
+  {
+   "image_id": "beta-pic_pacs-160um-vandenbussche10",
+   "type": "disk_mm",
+   "facility": "Herschel",
+   "instrument": "PACS",
+   "wavelength_um": 160,
+   "wavelength_label": "160 um (PACS; resolved edge-on disk)",
+   "technique": "other",
+   "survey": null,
+   "file": "images/beta-pic/beta-pic_pacs-160um-vandenbussche10.png",
+   "credit": "Vandenbussche et al. 2010, Fig. 1 (crop: PACS 160 um map)",
+   "paper": {
+    "first_author": "Vandenbussche",
+    "year": 2010,
+    "title": "The beta Pictoris disk imaged by Herschel PACS and SPIRE",
+    "journal": "A&A 518, L133",
+    "arxiv": "1005.3915",
+    "bibcode": "2010A&A...518L.133V"
+   },
+   "epoch": "2009-2010"
   }
  ],
  "notes": "Original 1984 discovery image (Smith & Terrile, Las Campanas coronagraph) predates arXiv; add if desired.",

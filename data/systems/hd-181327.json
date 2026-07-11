@@ -225,6 +225,27 @@
     "bibcode": "2024A&A...683A..22M"
    },
    "epoch": "2017-05-16"
+  },
+  {
+   "image_id": "hd-181327_pacs-70um-lebreton12",
+   "type": "disk_mm",
+   "facility": "Herschel",
+   "instrument": "PACS",
+   "wavelength_um": 70,
+   "wavelength_label": "70 um (PACS; resolved Kuiper belt)",
+   "technique": "other",
+   "survey": null,
+   "file": "images/hd-181327/hd-181327_pacs-70um-lebreton12.png",
+   "credit": "Lebreton et al. 2012, Fig. 8 (crop: HD 181327 70 um panel)",
+   "paper": {
+    "first_author": "Lebreton",
+    "year": 2012,
+    "title": "An icy Kuiper belt around the young solar-type star HD 181327",
+    "journal": "A&A 539, A17",
+    "arxiv": "1112.3398",
+    "bibcode": "2012A&A...539A..17L"
+   },
+   "epoch": "2010-2011"
   }
  ],
  "notes": null,
