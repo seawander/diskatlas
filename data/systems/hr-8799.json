@@ -441,6 +441,48 @@
    "epoch": "2011 Jul 10"
   },
   {
+   "image_id": "hr-8799_pacs-100um-matthews14",
+   "type": "disk_mm",
+   "facility": "Herschel",
+   "instrument": "PACS",
+   "wavelength_um": 100,
+   "wavelength_label": "100 um (PACS; resolved debris disk)",
+   "technique": "other",
+   "survey": null,
+   "file": "images/hr-8799/hr-8799_pacs-100um-matthews14.png",
+   "credit": "Matthews et al. 2014, Fig. 1 (crop: PACS 100 panel)",
+   "paper": {
+    "first_author": "Matthews",
+    "year": 2014,
+    "title": "Resolved Imaging of the HR 8799 Debris Disk with Herschel",
+    "journal": "ApJ 780, 97",
+    "arxiv": "1311.2977",
+    "bibcode": "2014ApJ...780...97M"
+   },
+   "epoch": "2011 Jul 10"
+  },
+  {
+   "image_id": "hr-8799_pacs-160um-matthews14",
+   "type": "disk_mm",
+   "facility": "Herschel",
+   "instrument": "PACS",
+   "wavelength_um": 160,
+   "wavelength_label": "160 um (PACS; resolved debris disk)",
+   "technique": "other",
+   "survey": null,
+   "file": "images/hr-8799/hr-8799_pacs-160um-matthews14.png",
+   "credit": "Matthews et al. 2014, Fig. 1 (crop: PACS 160 panel)",
+   "paper": {
+    "first_author": "Matthews",
+    "year": 2014,
+    "title": "Resolved Imaging of the HR 8799 Debris Disk with Herschel",
+    "journal": "ApJ 780, 97",
+    "arxiv": "1311.2977",
+    "bibcode": "2014ApJ...780...97M"
+   },
+   "epoch": "2011 Jul 10"
+  },
+  {
    "image_id": "hr-8799_nicmos1998",
    "type": "planet",
    "facility": "HST",

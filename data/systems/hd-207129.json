@@ -100,6 +100,48 @@
    },
    "file": "images/hd-207129/hd-207129_herschel2011.png",
    "epoch": "2010"
+  },
+  {
+   "image_id": "hd-207129_pacs-100um-marshall11",
+   "type": "disk_mm",
+   "facility": "Herschel",
+   "instrument": "PACS",
+   "wavelength_um": 100,
+   "wavelength_label": "100 um (PACS; resolved ring, original image)",
+   "technique": "other",
+   "survey": null,
+   "file": "images/hd-207129/hd-207129_pacs-100um-marshall11.png",
+   "credit": "Marshall et al. 2011, Fig. 3 (crop: PACS 100 original image)",
+   "paper": {
+    "first_author": "Marshall",
+    "year": 2011,
+    "title": "A Herschel resolved far-infrared dust ring around HD 207129",
+    "journal": "A&A 529, A117",
+    "arxiv": "1104.3560",
+    "bibcode": "2011A&A...529A.117M"
+   },
+   "epoch": "2010"
+  },
+  {
+   "image_id": "hd-207129_pacs-160um-marshall11",
+   "type": "disk_mm",
+   "facility": "Herschel",
+   "instrument": "PACS",
+   "wavelength_um": 160,
+   "wavelength_label": "160 um (PACS; resolved ring, original image)",
+   "technique": "other",
+   "survey": null,
+   "file": "images/hd-207129/hd-207129_pacs-160um-marshall11.png",
+   "credit": "Marshall et al. 2011, Fig. 3 (crop: PACS 160 original image)",
+   "paper": {
+    "first_author": "Marshall",
+    "year": 2011,
+    "title": "A Herschel resolved far-infrared dust ring around HD 207129",
+    "journal": "A&A 529, A117",
+    "arxiv": "1104.3560",
+    "bibcode": "2011A&A...529A.117M"
+   },
+   "epoch": "2010"
   }
  ],
  "notes": "AUTO-CREATED from staging - fill metadata & coords",

@@ -125,6 +125,27 @@
    "epoch": "2009-2010"
   },
   {
+   "image_id": "vega_pacs-160um-sibthorpe10",
+   "type": "disk_mm",
+   "facility": "Herschel",
+   "instrument": "PACS",
+   "wavelength_um": 160,
+   "wavelength_label": "160 um (PACS; resolved face-on disk, star-subtracted map)",
+   "technique": "other",
+   "survey": null,
+   "file": "images/vega/vega_pacs-160um-sibthorpe10.png",
+   "credit": "Sibthorpe et al. 2010, Fig. 1 (crop: star-subtracted 160 um map)",
+   "paper": {
+    "first_author": "Sibthorpe",
+    "year": 2010,
+    "title": "The Vega Debris Disc: A view from Herschel",
+    "journal": "A&A 518, L130",
+    "arxiv": "1005.3543",
+    "bibcode": "2010A&A...518L.130S"
+   },
+   "epoch": "2009-2010"
+  },
+  {
    "image_id": "vega_mips2005",
    "type": "disk_mm",
    "facility": "Spitzer",
