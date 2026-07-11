@@ -1,6 +1,6 @@
 {
  "_doc": "Per-survey ingestion state. entries/coords/images: done|partial|todo. Update on every ingest.",
- "updated": "2026-07-11: Vioque et al. 2026 (2512.00157) transition-disk gallery ingest. Fig 1 (31 disks, ex-Sun) + Fig A.1 (66 disks) = 97 ALMA continuum panels with predicted-companion overlay. Added Vioque record to 72 already-held disks; created 15 NEW transition-disk systems (Sz 76/84/90/96/98/100/108B/118/123A Lupus, MHO 2/6 + ZZ Tau + IRAS 04125 Taurus, PDS 111 Orion, IRAS 16201 Oph). Deferred 10 abbreviated J-names (unresolved coords). Atlas crossed 500 systems. 500 systems, 1906 records, 0 err.",
+ "updated": "2026-07-11: Vioque 2026 (2512.00157) transition-disk gallery COMPLETE - all 97 panels in (Fig 1 ex-Sun + Fig A.1). 72 held disks +Vioque companion-overlay record; 25 NEW systems created (15 SIMBAD-resolved + 9 J-names recovered by parsing 2MASS coords from the paper + CIDA 1). Notable new: RX J1604.3-2130 (J160421.7) was genuinely missing. Atlas at 510 systems, 1916 records, 0 err.",
  "surveys": {
   "DSHARP": {
    "entries": "done",

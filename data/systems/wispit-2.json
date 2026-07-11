@@ -163,7 +163,7 @@
    "wavelength_label": "H band (BB_H), two epochs 2025-03-21 and 2025-09-24, RDI total-intensity reduction",
    "technique": "RDI",
    "survey": null,
-   "credit": "Lawlor et al. 2026, Fig. 8 (crop: both SPHERE H-band epochs recovering WISPIT 2c)",
+   "credit": "Lawlor et al. 2026, Fig. 8 (SPHERE BB_H 2025-03-21 panel, crop)",
    "paper": {
     "first_author": "Lawlor",
     "year": 2026,
@@ -184,7 +184,7 @@
    "wavelength_label": "BB_H (RDI; WISPIT 2c, 2nd epoch)",
    "technique": "RDI",
    "survey": null,
-   "credit": "(WISPIT 2 paper) Fig. (SPHERE BB_H 2025-09 panel, crop)",
+   "credit": "Lawlor et al. 2026, Fig. 8 (SPHERE BB_H 2025-09-24 panel, crop)",
    "hires_url": null,
    "paper": {
     "first_author": "Lawlor",

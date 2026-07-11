@@ -7,6 +7,7 @@ image files) are informational. Run before build.py.
 import json
 import re
 import sys
+import unicodedata
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -83,6 +84,29 @@ def main():
                     n_file += 1
                     if fp.stat().st_size > 400_000:
                         warns.append(f"{sid}/{iid}: file > 400 KB")
+            # credit line must cite the SAME paper as the paper block
+            # (catches copy-paste mis-attributions and placeholder credits;
+            #  archive-product credits like the ALICE HLSP are exempt)
+            cr = im.get("credit") or ""
+            fa = p.get("first_author") or ""
+            if cr and fa and "HLSP" not in cr and "archive" not in cr.lower():
+                deacc = lambda t: unicodedata.normalize("NFKD", t).encode(
+                    "ascii", "ignore").decode().lower()
+                surname = deacc(fa.split(",")[0].strip())
+                cyears = re.findall(r"(?:19|20)\d{2}", cr)
+                if surname not in deacc(cr):
+                    errors.append(f"{sid}/{iid}: credit does not name paper "
+                                  f"first author '{fa}': '{cr[:60]}'")
+                elif cyears and str(p.get("year") or "") not in cyears:
+                    errors.append(f"{sid}/{iid}: credit year(s) {cyears} != "
+                                  f"paper year {p.get('year')}")
+            # cited year must match the bibcode's publication year
+            bib = p.get("bibcode") or ""
+            m = re.match(r"^(\d{4})", bib)
+            if m and "arXiv" not in bib and p.get("year") and \
+                    int(m.group(1)) != int(p["year"]):
+                errors.append(f"{sid}/{iid}: paper year {p['year']} != "
+                              f"bibcode year {m.group(1)} ({bib})")
 
     print(f"systems: {len(ids)}, image records: {n_img}, with local file: {n_file}")
     for w in warns:

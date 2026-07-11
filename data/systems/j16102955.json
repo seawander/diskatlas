@@ -1,0 +1,50 @@
+{
+ "id": "j16102955",
+ "name": "J16102955",
+ "alt_names": [
+  "2MASS J16102955-3922144"
+ ],
+ "simbad": "2MASS J16102955-3922144",
+ "ra_deg": 254.8125,
+ "dec_deg": -39.406667,
+ "dist_pc": 160.0,
+ "sptype": null,
+ "region": "Lupus",
+ "categories": [
+  "protoplanetary"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "image_id": "j16102955_alma-vioque26",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "continuum",
+   "wavelength_um": 1300,
+   "wavelength_label": "mm dust continuum (transition-disk cavity; cyan = predicted companion location)",
+   "technique": "interferometry",
+   "survey": null,
+   "file": "images/j16102955/j16102955_alma-vioque26.png",
+   "credit": "Vioque et al. 2026, Fig. 1 (ALMA continuum gallery, literature-compiled, crop)",
+   "paper": {
+    "first_author": "Vioque",
+    "year": 2026,
+    "title": "Astrometric view of companions in the inner dust cavities of protoplanetary discs",
+    "journal": "A&A 705, A238",
+    "arxiv": "2512.00157",
+    "bibcode": "2026A&A...705A.238V"
+   },
+   "epoch": null
+  }
+ ],
+ "notes": "Transition disk with an inner dust cavity; ALMA continuum from the Vioque et al. 2026 gallery. Coords parsed from the 2MASS identifier. Added 2026-07-11.",
+ "last_updated": "2026-07-11",
+ "plx_mas": null,
+ "mags": {
+  "V": 16.31,
+  "I": 13.9,
+  "J": 11.946,
+  "H": 11.268,
+  "K": 10.913
+ }
+}

@@ -74,7 +74,7 @@
    "wavelength_label": "Ks band (SPHERE/IRDIS; WISPIT 1b & 1c)",
    "technique": "ADI",
    "survey": null,
-   "credit": "(WISPIT 1 paper) Fig. (SPHERE Ks 2024-11 panel, crop)",
+   "credit": "van Capelleveen et al. 2025, Fig. A.3 (SPHERE Ks median-combined, epoch 2024-11-30, crop)",
    "hires_url": null,
    "paper": {
     "first_author": "van Capelleveen",
@@ -96,7 +96,7 @@
    "wavelength_label": "H band (SPHERE/IRDIS; WISPIT 1b & 1c, 2nd epoch)",
    "technique": "ADI",
    "survey": null,
-   "credit": "(WISPIT 1 paper) Fig. (SPHERE H 2023-12 panel, crop)",
+   "credit": "van Capelleveen et al. 2025, Fig. A.2 (SPHERE H median-combined, epoch 2023-12-03, crop)",
    "hires_url": null,
    "paper": {
     "first_author": "van Capelleveen",
