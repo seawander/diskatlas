@@ -876,9 +876,14 @@ if (typeof window !== "undefined") (function () {
         else s.innerHTML = '<div class="placeholder"><span class="big">⏳</span>' + esc(t("d_pending1")) + "</div>";
         return s;
       };
+      /* the current slide MOVES the live <img> instead of rebuilding it: the finger
+         went down on that node, and destroying the touch target mid-gesture makes
+         iOS/Android stop delivering the rest of the touchmove/touchend stream */
+      const cur = document.createElement("div"); cur.className = "d_slide";
+      while (box.firstChild) cur.appendChild(box.firstChild);
       const tr = document.createElement("div"); tr.className = "d_track";
-      tr.appendChild(slide(at(-1))); tr.appendChild(slide(at(0))); tr.appendChild(slide(at(1)));
-      box.innerHTML = ""; box.appendChild(tr);
+      tr.appendChild(slide(at(-1))); tr.appendChild(cur); tr.appendChild(slide(at(1)));
+      box.appendChild(tr);
       tr.style.transform = "translateX(" + (-W()) + "px)";   // centre the current slide
       return tr;
     }
@@ -963,6 +968,10 @@ if (typeof window !== "undefined") (function () {
           apply(); lastTap = 0;
         } else lastTap = now;
       }
+      swiping = false; mode = null;
+    }, { passive: true });
+    box.addEventListener("touchcancel", () => {           // browser stole the gesture → settle back
+      if (track) { const tr = track; track = null; slideTrack(tr, -W(), () => showImg(curImg)); }
       swiping = false; mode = null;
     }, { passive: true });
   })();
