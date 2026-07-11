@@ -37,17 +37,16 @@
  ],
  "images": [
   {
-   "image_id": "hip-71618_oasis",
+   "image_id": "hip-71618_charis-2024-02-20",
    "type": "planet",
    "facility": "Subaru-SCExAO",
-   "instrument": "CHARIS JHK",
-   "wavelength_um": 1.76,
-   "wavelength_label": "1.15-2.37 um (broadband JHK)",
+   "instrument": "CHARIS",
+   "wavelength_um": 1.65,
+   "wavelength_label": "H/JHK broadband 1.15-2.37 um (wavelength-collapsed; companion B, 2024 Feb 20)",
    "technique": "ADI",
-   "survey": "OASIS",
-   "file": "images/hip-71618/hip-71618_oasis.png",
-   "credit": "El Morsy et al. 2025, Fig. 2 (crop)",
-   "hires_url": null,
+   "survey": null,
+   "file": "images/hip-71618/hip-71618_charis-2024-02-20.png",
+   "credit": "El Morsy et al. 2025, Fig. 2 (2024-02-20 panel, crop)",
    "paper": {
     "first_author": "El Morsy",
     "year": 2025,
@@ -56,29 +55,91 @@
     "arxiv": "2512.02126",
     "bibcode": "2025ApJ...995L...4E"
    },
-   "epoch": "2024-2025"
+   "epoch": "2024-02-20"
   },
   {
-   "image_id": "hip-71618_nirc2-lp",
+   "image_id": "hip-71618_charis-2025-03-14",
+   "type": "planet",
+   "facility": "Subaru-SCExAO",
+   "instrument": "CHARIS",
+   "wavelength_um": 1.65,
+   "wavelength_label": "H/JHK broadband 1.15-2.37 um (wavelength-collapsed; companion B, 2025 Mar 14)",
+   "technique": "ADI",
+   "survey": null,
+   "file": "images/hip-71618/hip-71618_charis-2025-03-14.png",
+   "credit": "El Morsy et al. 2025, Fig. 2 (2025-03-14 panel, crop)",
+   "paper": {
+    "first_author": "El Morsy",
+    "year": 2025,
+    "title": "OASIS Survey Direct Imaging and Astrometric Discovery of HIP 71618 B: A Substellar Companion Suitable for the Roman Coronagraph Technology Demonstration",
+    "journal": "ApJL (in press)",
+    "arxiv": "2512.02126",
+    "bibcode": "2025ApJ...995L...4E"
+   },
+   "epoch": "2025-03-14"
+  },
+  {
+   "image_id": "hip-71618_charis-2025-05-12",
+   "type": "planet",
+   "facility": "Subaru-SCExAO",
+   "instrument": "CHARIS",
+   "wavelength_um": 1.65,
+   "wavelength_label": "H/JHK broadband 1.15-2.37 um (wavelength-collapsed; companion B, 2025 May 12)",
+   "technique": "ADI",
+   "survey": null,
+   "file": "images/hip-71618/hip-71618_charis-2025-05-12.png",
+   "credit": "El Morsy et al. 2025, Fig. 2 (2025-05-12 panel, crop)",
+   "paper": {
+    "first_author": "El Morsy",
+    "year": 2025,
+    "title": "OASIS Survey Direct Imaging and Astrometric Discovery of HIP 71618 B: A Substellar Companion Suitable for the Roman Coronagraph Technology Demonstration",
+    "journal": "ApJL (in press)",
+    "arxiv": "2512.02126",
+    "bibcode": "2025ApJ...995L...4E"
+   },
+   "epoch": "2025-05-12"
+  },
+  {
+   "image_id": "hip-71618_nirc2-2024-02-23",
    "type": "planet",
    "facility": "Keck",
    "instrument": "NIRC2",
    "wavelength_um": 3.78,
-   "wavelength_label": "L' (3.78 um; NIRC2)",
+   "wavelength_label": "L' 3.78 um (companion B, 2024 Feb 23)",
    "technique": "ADI",
    "survey": null,
-   "credit": "El Morsy et al. 2025 (crop; companion B, NIRC2 Lp)",
-   "hires_url": null,
+   "file": "images/hip-71618/hip-71618_nirc2-2024-02-23.png",
+   "credit": "El Morsy et al. 2025, Fig. 2 (2024-02-23 panel, crop)",
    "paper": {
     "first_author": "El Morsy",
     "year": 2025,
-    "title": "OASIS Survey: Direct Imaging and Astrometric Discovery of a substellar companion to HIP 71618",
-    "journal": "ApJL 995, L4",
+    "title": "OASIS Survey Direct Imaging and Astrometric Discovery of HIP 71618 B: A Substellar Companion Suitable for the Roman Coronagraph Technology Demonstration",
+    "journal": "ApJL (in press)",
     "arxiv": "2512.02126",
     "bibcode": "2025ApJ...995L...4E"
    },
-   "file": "images/hip-71618/hip-71618_nirc2-lp.png",
    "epoch": "2024-02-23"
+  },
+  {
+   "image_id": "hip-71618_nirc2-2024-06-17",
+   "type": "planet",
+   "facility": "Keck",
+   "instrument": "NIRC2",
+   "wavelength_um": 3.78,
+   "wavelength_label": "L' 3.78 um (companion B, 2024 Jun 17)",
+   "technique": "ADI",
+   "survey": null,
+   "file": "images/hip-71618/hip-71618_nirc2-2024-06-17.png",
+   "credit": "El Morsy et al. 2025, Fig. 2 (2024-06-17 panel, crop)",
+   "paper": {
+    "first_author": "El Morsy",
+    "year": 2025,
+    "title": "OASIS Survey Direct Imaging and Astrometric Discovery of HIP 71618 B: A Substellar Companion Suitable for the Roman Coronagraph Technology Demonstration",
+    "journal": "ApJL (in press)",
+    "arxiv": "2512.02126",
+    "bibcode": "2025ApJ...995L...4E"
+   },
+   "epoch": "2024-06-17"
   }
  ],
  "notes": "HIP 71618 B was discovered by the OASIS survey, combining a Hipparcos-Gaia astrometric acceleration with SCExAO/CHARIS (JHK, 2024-2025) and Keck/NIRC2 (Lp) direct imaging (El Morsy+2025); separation ~0.3 arcsec (~11 au). Dynamical mass 60-65 Mjup (prior-dependent); atmospheric fits favor M6-M8, Teff ~2600-2800 K.",
