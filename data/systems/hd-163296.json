@@ -182,11 +182,11 @@
    "facility": "VLT-SPHERE",
    "instrument": "IRDIS (DPI)",
    "wavelength_um": 1.6,
-   "wavelength_label": "H band (1.6 um)",
+   "wavelength_label": "H band 1.6 um Q_phi polarized intensity",
    "technique": "polarimetric differential imaging (DPI)",
    "survey": null,
    "file": "images/hd-163296/hd-163296_sphere2018.png",
-   "credit": "Muro-Arena et al. 2018, Fig. 1 (crop)",
+   "credit": "Muro-Arena et al. 2018, Fig. 1 (H-band Q_phi, crop)",
    "paper": {
     "first_author": "Muro-Arena",
     "year": 2018,
@@ -426,6 +426,27 @@
    },
    "file": "images/hd-163296/hd-163296_stis2005.png",
    "epoch": "1998-2000"
+  },
+  {
+   "image_id": "hd-163296_sphere2018-J",
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS (DPI)",
+   "wavelength_um": 1.25,
+   "wavelength_label": "J band 1.25 um Q_phi polarized intensity",
+   "technique": "PDI",
+   "survey": null,
+   "file": "images/hd-163296/hd-163296_sphere2018-J.png",
+   "credit": "Muro-Arena et al. 2018, Fig. 1 (J-band Q_phi, crop)",
+   "paper": {
+    "first_author": "Muro-Arena",
+    "year": 2018,
+    "title": "Dust modeling of the combined ALMA and SPHERE datasets of HD 163296. Is HD 163296 really a Meeus group II disk?",
+    "journal": "Astronomy & Astrophysics",
+    "arxiv": "1802.03328",
+    "bibcode": "2018A&A...614A..24M"
+   },
+   "epoch": "2016"
   }
  ],
  "notes": null,

@@ -7282,5 +7282,29 @@
   "source": "tex:ingestion",
   "arxiv": "1912.02565",
   "snippet": "obs: observed HD 72946 on 2019 March 21 UT (SPHERE IRDIS)"
+ },
+ "hd-34282_alma2026-b4": {
+  "epoch": "2023",
+  "source": "panel-split",
+  "arxiv": "2603.06992",
+  "snippet": "multi-band ALMA Fig.1 panel split (same obs as Band 3)"
+ },
+ "hd-34282_alma2026-b6": {
+  "epoch": "2023",
+  "source": "panel-split",
+  "arxiv": "2603.06992",
+  "snippet": "multi-band ALMA Fig.1 panel split (same obs as Band 3)"
+ },
+ "hd-34282_alma2026-b7": {
+  "epoch": "2023",
+  "source": "panel-split",
+  "arxiv": "2603.06992",
+  "snippet": "multi-band ALMA Fig.1 panel split (same obs as Band 3)"
+ },
+ "hd-163296_sphere2018-J": {
+  "epoch": "2016",
+  "source": "panel-split",
+  "arxiv": "1802.03328",
+  "snippet": "Fig.1 J-band Qphi panel (bottom-left)"
  }
 }

@@ -353,6 +353,48 @@
     "journal": "A&A 445, 331",
     "title": "VLT/NACO adaptive optics imaging of the Herbig Ae star HD 100453"
    }
+  },
+  {
+   "image_id": "hd-100453_sphere2017-Rp",
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "ZIMPOL",
+   "wavelength_um": 0.626,
+   "wavelength_label": "R' band 0.63 um Q_phi (spiral arms)",
+   "technique": "PDI",
+   "survey": null,
+   "file": "images/hd-100453/hd-100453_sphere2017-Rp.png",
+   "credit": "Benisty et al. 2017, Fig. 1 R' Q_phi (crop)",
+   "paper": {
+    "first_author": "Benisty",
+    "year": 2017,
+    "title": "Shadows and spirals in the protoplanetary disk HD 100453",
+    "journal": "A&A 597, A42",
+    "arxiv": "1610.10089",
+    "bibcode": "2017A&A...597A..42B"
+   },
+   "epoch": "2015-2016"
+  },
+  {
+   "image_id": "hd-100453_sphere2017-Ip",
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "ZIMPOL",
+   "wavelength_um": 0.79,
+   "wavelength_label": "I' band 0.79 um Q_phi (spiral arms)",
+   "technique": "PDI",
+   "survey": null,
+   "file": "images/hd-100453/hd-100453_sphere2017-Ip.png",
+   "credit": "Benisty et al. 2017, Fig. 1 I' Q_phi (crop)",
+   "paper": {
+    "first_author": "Benisty",
+    "year": 2017,
+    "title": "Shadows and spirals in the protoplanetary disk HD 100453",
+    "journal": "A&A 597, A42",
+    "arxiv": "1610.10089",
+    "bibcode": "2017A&A...597A..42B"
+   },
+   "epoch": "2015-2016"
   }
  ],
  "notes": null,
