@@ -33,6 +33,18 @@ down). Now:
    `data/paper_finder_state.json`.
 2. **After any batch**: `audit_bibcodes.py --fix --fill`, then `crop_qa.py`
    (act on MULTIPANEL flags). Keep validate at 0/0.
+   - `panel_audit.py` is the caption-based completeness sweep (complements
+     crop_qa's pixel-based one): it reads each record's `Fig. N` credit, pulls
+     that figure's caption from the arXiv `.tex`, estimates panel count, and
+     flags figures where the atlas holds fewer records than the caption
+     describes. Tags each flag `multiband` (≥2 distinct wavelength tokens =
+     process FIRST, real missed images), `variant` (Uphi/r²/model/weighting =
+     display-only, usually skip), or `review` (band names its regex can't
+     tokenize — R'/I', mid-IR filters — genuine misses hide here too). ALWAYS
+     VIEW before ingesting: the 2026-07-10 run's recurring false positives were
+     re-imaged archival data already held from the original paper (PDS 70 B7 =
+     Benisty21; AS 205 1.3mm = DSHARP), display variants, marginal/noise
+     detections, and unresolved continuum insets.
 3. **User-directed requests** ("add paper X, crop figure Y") outrank everything.
 4. On demand: `system_audit.py --systems <ids>` for per-target completeness
    (good for HD/HR/IRAS names; short names like "T Tau" collide in ADS).
