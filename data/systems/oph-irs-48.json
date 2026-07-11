@@ -203,6 +203,27 @@
     "bibcode": "2026A&A...705A.238V"
    },
    "epoch": null
+  },
+  {
+   "image_id": "oph-irs-48_alma-b7-fasano26",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 7",
+   "wavelength_um": 870,
+   "wavelength_label": "0.87 mm continuum (dust-trap crescent; program 2019.1.01059.S)",
+   "technique": "interferometry",
+   "survey": null,
+   "file": "images/oph-irs-48/oph-irs-48_alma-b7-fasano26.png",
+   "credit": "Fasano et al. 2026, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Fasano",
+    "year": 2026,
+    "title": "The circumbinary disc of HD 34700A: II. Analysis of a strong dust asymmetry",
+    "journal": "A&A 709, A174",
+    "arxiv": "2603.25541",
+    "bibcode": "2026A&A...709A.174F"
+   },
+   "epoch": "2021"
   }
  ],
  "notes": "Prototype azimuthal dust trap. SIMBAD name needs verification (Oph IRS 48 = WLY 2-48).",

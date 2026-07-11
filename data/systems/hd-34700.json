@@ -392,6 +392,27 @@
     "bibcode": "2026A&A...705A.238V"
    },
    "epoch": null
+  },
+  {
+   "image_id": "hd-34700_alma-b6-fasano26",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 6",
+   "wavelength_um": 1330,
+   "wavelength_label": "1.33 mm continuum (strong dust asymmetry; program 2022.1.00760.S)",
+   "technique": "interferometry",
+   "survey": null,
+   "file": "images/hd-34700/hd-34700_alma-b6-fasano26.png",
+   "credit": "Fasano et al. 2026, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Fasano",
+    "year": 2026,
+    "title": "The circumbinary disc of HD 34700A: II. Analysis of a strong dust asymmetry",
+    "journal": "A&A 709, A174",
+    "arxiv": "2603.25541",
+    "bibcode": "2026A&A...709A.174F"
+   },
+   "epoch": "2021"
   }
  ],
  "notes": null,
