@@ -7,7 +7,7 @@
  "simbad": "CIDA 1",
  "ra_deg": 63.573373,
  "dec_deg": 28.102682,
- "dist_pc": 140.0,
+ "dist_pc": 134.6,
  "sptype": "M4.5",
  "region": "Taurus",
  "categories": [
@@ -60,6 +60,11 @@
  ],
  "notes": "Transition disk with an inner dust cavity (Taurus M-dwarf); ALMA continuum from the Vioque et al. 2026 gallery. Added 2026-07-11.",
  "last_updated": "2026-07-11",
- "plx_mas": null,
- "mags": null
+ "plx_mas": 7.4283,
+ "mags": {
+  "J": 11.726,
+  "H": 10.584,
+  "K": 9.877,
+  "G": 15.663
+ }
 }
