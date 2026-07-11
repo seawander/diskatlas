@@ -55,6 +55,27 @@
     "arxiv": "2509.13587",
     "bibcode": "2025AJ....170..272U"
    }
+  },
+  {
+   "image_id": "lspm-j1446_nirc2-lp-2024",
+   "type": "planet",
+   "facility": "Keck",
+   "instrument": "NIRC2",
+   "wavelength_um": 3.78,
+   "wavelength_label": "L' 3.8 um (ADI/KLIP; 2nd epoch, ~30% variable)",
+   "technique": "ADI",
+   "survey": null,
+   "file": "images/lspm-j1446/lspm-j1446_nirc2-lp-2024.png",
+   "credit": "Uyama et al. 2025, Fig. (crop)",
+   "paper": {
+    "first_author": "Uyama",
+    "year": 2025,
+    "title": "Direct Imaging Explorations for Companions from the Subaru/IRD Strategic Program II: Discovery of a Brown-dwarf Companion around a Nearby mid-M dwarf LSPM J1446+4633",
+    "journal": "AJ (2025)",
+    "arxiv": "2509.13587",
+    "bibcode": "2025AJ....170..272U"
+   },
+   "epoch": "2024-01"
   }
  ],
  "notes": "Directly-imaged companion host (Uyama+2025).",

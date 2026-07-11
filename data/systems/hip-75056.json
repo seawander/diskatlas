@@ -56,6 +56,195 @@
     "bibcode": "2020ApJ...902L...6W"
    },
    "epoch": "2015"
+  },
+  {
+   "image_id": "hip-75056_ifs-y-2015",
+   "type": "planet",
+   "facility": "VLT-SPHERE",
+   "instrument": "IFS",
+   "wavelength_um": 1.04,
+   "wavelength_label": "Y 1.04 um (IFS, KLIP; 2015)",
+   "technique": "ADI",
+   "survey": null,
+   "file": "images/hip-75056/hip-75056_ifs-y-2015.png",
+   "credit": "Wagner et al. 2020, Fig. (crop)",
+   "paper": {
+    "first_author": "Wagner",
+    "year": 2020,
+    "title": "Direct Imaging Discovery of a Young Brown Dwarf Companion to an A2V Star",
+    "journal": "ApJL 902, L6",
+    "arxiv": "2009.08537",
+    "bibcode": "2020ApJ...902L...6W"
+   },
+   "epoch": "2015-06-19"
+  },
+  {
+   "image_id": "hip-75056_ifs-h-2015",
+   "type": "planet",
+   "facility": "VLT-SPHERE",
+   "instrument": "IFS",
+   "wavelength_um": 1.63,
+   "wavelength_label": "H 1.63 um (IFS, KLIP; 2015)",
+   "technique": "ADI",
+   "survey": null,
+   "file": "images/hip-75056/hip-75056_ifs-h-2015.png",
+   "credit": "Wagner et al. 2020, Fig. (crop)",
+   "paper": {
+    "first_author": "Wagner",
+    "year": 2020,
+    "title": "Direct Imaging Discovery of a Young Brown Dwarf Companion to an A2V Star",
+    "journal": "ApJL 902, L6",
+    "arxiv": "2009.08537",
+    "bibcode": "2020ApJ...902L...6W"
+   },
+   "epoch": "2015-06-19"
+  },
+  {
+   "image_id": "hip-75056_irdis-k1-2015",
+   "type": "planet",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS",
+   "wavelength_um": 2.11,
+   "wavelength_label": "K1 2.11 um (IRDIS, KLIP; 2015)",
+   "technique": "ADI",
+   "survey": null,
+   "file": "images/hip-75056/hip-75056_irdis-k1-2015.png",
+   "credit": "Wagner et al. 2020, Fig. (crop)",
+   "paper": {
+    "first_author": "Wagner",
+    "year": 2020,
+    "title": "Direct Imaging Discovery of a Young Brown Dwarf Companion to an A2V Star",
+    "journal": "ApJL 902, L6",
+    "arxiv": "2009.08537",
+    "bibcode": "2020ApJ...902L...6W"
+   },
+   "epoch": "2015-06-19"
+  },
+  {
+   "image_id": "hip-75056_irdis-k2-2015",
+   "type": "planet",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS",
+   "wavelength_um": 2.25,
+   "wavelength_label": "K2 2.25 um (IRDIS, KLIP; 2015)",
+   "technique": "ADI",
+   "survey": null,
+   "file": "images/hip-75056/hip-75056_irdis-k2-2015.png",
+   "credit": "Wagner et al. 2020, Fig. (crop)",
+   "paper": {
+    "first_author": "Wagner",
+    "year": 2020,
+    "title": "Direct Imaging Discovery of a Young Brown Dwarf Companion to an A2V Star",
+    "journal": "ApJL 902, L6",
+    "arxiv": "2009.08537",
+    "bibcode": "2020ApJ...902L...6W"
+   },
+   "epoch": "2015-06-19"
+  },
+  {
+   "image_id": "hip-75056_ifs-y-2019",
+   "type": "planet",
+   "facility": "VLT-SPHERE",
+   "instrument": "IFS",
+   "wavelength_um": 1.04,
+   "wavelength_label": "Y 1.04 um (IFS, KLIP; 2019)",
+   "technique": "ADI",
+   "survey": null,
+   "file": "images/hip-75056/hip-75056_ifs-y-2019.png",
+   "credit": "Wagner et al. 2020, Fig. (crop)",
+   "paper": {
+    "first_author": "Wagner",
+    "year": 2020,
+    "title": "Direct Imaging Discovery of a Young Brown Dwarf Companion to an A2V Star",
+    "journal": "ApJL 902, L6",
+    "arxiv": "2009.08537",
+    "bibcode": "2020ApJ...902L...6W"
+   },
+   "epoch": "2019-06-29"
+  },
+  {
+   "image_id": "hip-75056_ifs-j-2019",
+   "type": "planet",
+   "facility": "VLT-SPHERE",
+   "instrument": "IFS",
+   "wavelength_um": 1.25,
+   "wavelength_label": "J 1.25 um (IFS, KLIP; 2019)",
+   "technique": "ADI",
+   "survey": null,
+   "file": "images/hip-75056/hip-75056_ifs-j-2019.png",
+   "credit": "Wagner et al. 2020, Fig. (crop)",
+   "paper": {
+    "first_author": "Wagner",
+    "year": 2020,
+    "title": "Direct Imaging Discovery of a Young Brown Dwarf Companion to an A2V Star",
+    "journal": "ApJL 902, L6",
+    "arxiv": "2009.08537",
+    "bibcode": "2020ApJ...902L...6W"
+   },
+   "epoch": "2019-06-29"
+  },
+  {
+   "image_id": "hip-75056_ifs-h-2019",
+   "type": "planet",
+   "facility": "VLT-SPHERE",
+   "instrument": "IFS",
+   "wavelength_um": 1.63,
+   "wavelength_label": "H 1.63 um (IFS, KLIP; 2019)",
+   "technique": "ADI",
+   "survey": null,
+   "file": "images/hip-75056/hip-75056_ifs-h-2019.png",
+   "credit": "Wagner et al. 2020, Fig. (crop)",
+   "paper": {
+    "first_author": "Wagner",
+    "year": 2020,
+    "title": "Direct Imaging Discovery of a Young Brown Dwarf Companion to an A2V Star",
+    "journal": "ApJL 902, L6",
+    "arxiv": "2009.08537",
+    "bibcode": "2020ApJ...902L...6W"
+   },
+   "epoch": "2019-06-29"
+  },
+  {
+   "image_id": "hip-75056_irdis-k1-2019",
+   "type": "planet",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS",
+   "wavelength_um": 2.11,
+   "wavelength_label": "K1 2.11 um (IRDIS, KLIP; 2019)",
+   "technique": "ADI",
+   "survey": null,
+   "file": "images/hip-75056/hip-75056_irdis-k1-2019.png",
+   "credit": "Wagner et al. 2020, Fig. (crop)",
+   "paper": {
+    "first_author": "Wagner",
+    "year": 2020,
+    "title": "Direct Imaging Discovery of a Young Brown Dwarf Companion to an A2V Star",
+    "journal": "ApJL 902, L6",
+    "arxiv": "2009.08537",
+    "bibcode": "2020ApJ...902L...6W"
+   },
+   "epoch": "2019-06-29"
+  },
+  {
+   "image_id": "hip-75056_irdis-k2-2019",
+   "type": "planet",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS",
+   "wavelength_um": 2.25,
+   "wavelength_label": "K2 2.25 um (IRDIS, KLIP; 2019)",
+   "technique": "ADI",
+   "survey": null,
+   "file": "images/hip-75056/hip-75056_irdis-k2-2019.png",
+   "credit": "Wagner et al. 2020, Fig. (crop)",
+   "paper": {
+    "first_author": "Wagner",
+    "year": 2020,
+    "title": "Direct Imaging Discovery of a Young Brown Dwarf Companion to an A2V Star",
+    "journal": "ApJL 902, L6",
+    "arxiv": "2009.08537",
+    "bibcode": "2020ApJ...902L...6W"
+   },
+   "epoch": "2019-06-29"
   }
  ],
  "notes": "HIP 75056 Ab was discovered with VLT/SPHERE (IRDIS K1K2 + IFS YJH) as part of the Scorpion Planet Survey (Wagner+2020); the ~12 Myr old A2V primary lies in Upper Centaurus-Lupus (Sco-Cen). Mass ~20-30 Mjup, consistent with the low-mass end of disk-instability formation. Hierarchical triple with a wide (~650 au) low-mass stellar companion HIP 75056 B.",

@@ -53,6 +53,27 @@
     "bibcode": "2015ApJ...806..254A"
    },
    "epoch": "2013 Nov 5"
+  },
+  {
+   "image_id": "2mass-j0219-3925_f2-j-2014",
+   "type": "planet",
+   "facility": "Gemini-South",
+   "instrument": "Flamingos-2",
+   "wavelength_um": 1.25,
+   "wavelength_label": "J band (F2 seeing-limited; companion ~4\" SW)",
+   "technique": "other",
+   "survey": null,
+   "file": "images/2mass-j0219-3925/2mass-j0219-3925_f2-j-2014.png",
+   "credit": "Artigau et al. 2015, Fig. (crop)",
+   "paper": {
+    "first_author": "Artigau",
+    "year": 2015,
+    "title": "BANYAN. VI. Discovery of a Companion at the Brown Dwarf/Planet-Mass Limit to a Tucana-Horologium M Dwarf",
+    "journal": "ApJ 806, 254",
+    "arxiv": "1505.01747",
+    "bibcode": "2015ApJ...806..254A"
+   },
+   "epoch": "2014-09-04"
   }
  ],
  "notes": null,

@@ -56,6 +56,48 @@
     "bibcode": "2015MNRAS.453.2378M"
    },
    "epoch": "2012-07-18"
+  },
+  {
+   "image_id": "hd-984_naco-lp-2012",
+   "type": "planet",
+   "facility": "VLT-NACO",
+   "instrument": "NACO",
+   "wavelength_um": 3.8,
+   "wavelength_label": "L' 3.8 um (direct/non-coronagraphic imaging)",
+   "technique": "ADI",
+   "survey": null,
+   "file": "images/hd-984/hd-984_naco-lp-2012.png",
+   "credit": "Meshkat et al. 2015, Fig. (crop)",
+   "paper": {
+    "first_author": "Meshkat",
+    "year": 2015,
+    "title": "Discovery of a low-mass companion to the F7V star HD 984",
+    "journal": "MNRAS 453, 2378",
+    "arxiv": "1507.08291",
+    "bibcode": "2015MNRAS.453.2378M"
+   },
+   "epoch": "2012-07-20"
+  },
+  {
+   "image_id": "hd-984_sinfoni-hk-2014",
+   "type": "planet",
+   "facility": "VLT-SINFONI",
+   "instrument": "SINFONI",
+   "wavelength_um": 1.95,
+   "wavelength_label": "H+K collapsed IFS (CADI; CPM confirmation)",
+   "technique": "ADI",
+   "survey": null,
+   "file": "images/hd-984/hd-984_sinfoni-hk-2014.png",
+   "credit": "Meshkat et al. 2015, Fig. (crop)",
+   "paper": {
+    "first_author": "Meshkat",
+    "year": 2015,
+    "title": "Discovery of a low-mass companion to the F7V star HD 984",
+    "journal": "MNRAS 453, 2378",
+    "arxiv": "1507.08291",
+    "bibcode": "2015MNRAS.453.2378M"
+   },
+   "epoch": "2014-09-09"
   }
  ],
  "notes": "F7V star with a low-mass companion HD 984 B imaged in VLT/NACO APP coronagraphy (Meshkat+2015).",

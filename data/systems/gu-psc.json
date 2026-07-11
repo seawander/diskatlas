@@ -45,6 +45,48 @@
     "bibcode": "2014ApJ...787....5N"
    },
    "epoch": "2011-2012"
+  },
+  {
+   "image_id": "gu-psc_nirc2-h-2013",
+   "type": "planet",
+   "facility": "Keck",
+   "instrument": "NIRC2",
+   "wavelength_um": 1.63,
+   "wavelength_label": "H band (LGS AO direct image)",
+   "technique": "other",
+   "survey": null,
+   "file": "images/gu-psc/gu-psc_nirc2-h-2013.png",
+   "credit": "Naud et al. 2014, Fig. (crop)",
+   "paper": {
+    "first_author": "Naud",
+    "year": 2014,
+    "title": "Discovery of a Wide Planetary-mass Companion to the Young M3 Star GU Psc",
+    "journal": "ApJ 787, 5",
+    "arxiv": "1405.2932",
+    "bibcode": "2014ApJ...787....5N"
+   },
+   "epoch": "2013-11-19"
+  },
+  {
+   "image_id": "gu-psc_nirc2-k-2013",
+   "type": "planet",
+   "facility": "Keck",
+   "instrument": "NIRC2",
+   "wavelength_um": 2.12,
+   "wavelength_label": "K band (LGS AO direct image)",
+   "technique": "other",
+   "survey": null,
+   "file": "images/gu-psc/gu-psc_nirc2-k-2013.png",
+   "credit": "Naud et al. 2014, Fig. (crop)",
+   "paper": {
+    "first_author": "Naud",
+    "year": 2014,
+    "title": "Discovery of a Wide Planetary-mass Companion to the Young M3 Star GU Psc",
+    "journal": "ApJ 787, 5",
+    "arxiv": "1405.2932",
+    "bibcode": "2014ApJ...787....5N"
+   },
+   "epoch": "2013-11-19"
   }
  ],
  "notes": null,

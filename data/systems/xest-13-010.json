@@ -53,6 +53,111 @@
     "bibcode": "2026AJ....171...80W"
    },
    "epoch": "2023 Dec"
+  },
+  {
+   "image_id": "xest-13-010_ps1-g",
+   "type": "planet",
+   "facility": "Pan-STARRS1",
+   "instrument": "GPC1",
+   "wavelength_um": 0.481,
+   "wavelength_label": "g band (PS1 stack; companion visible)",
+   "technique": "other",
+   "survey": null,
+   "file": "images/xest-13-010/xest-13-010_ps1-g.png",
+   "credit": "Walker et al. 2026, Fig. (crop)",
+   "paper": {
+    "first_author": "Walker",
+    "year": 2026,
+    "title": "Keck Observations in the INfrared of Taurus and ρ Oph Exoplanets And Ultracool dwarfs (KOINTREAU) I: A Planetary-Mass Companion and a Disk-Obscured Stellar Companion Discovered in Taurus",
+    "journal": "AJ 171, 80",
+    "arxiv": "2512.05191",
+    "bibcode": "2026AJ....171...80W"
+   },
+   "epoch": "2010-2014"
+  },
+  {
+   "image_id": "xest-13-010_ps1-r",
+   "type": "planet",
+   "facility": "Pan-STARRS1",
+   "instrument": "GPC1",
+   "wavelength_um": 0.617,
+   "wavelength_label": "r band (PS1 stack; companion visible)",
+   "technique": "other",
+   "survey": null,
+   "file": "images/xest-13-010/xest-13-010_ps1-r.png",
+   "credit": "Walker et al. 2026, Fig. (crop)",
+   "paper": {
+    "first_author": "Walker",
+    "year": 2026,
+    "title": "Keck Observations in the INfrared of Taurus and ρ Oph Exoplanets And Ultracool dwarfs (KOINTREAU) I: A Planetary-Mass Companion and a Disk-Obscured Stellar Companion Discovered in Taurus",
+    "journal": "AJ 171, 80",
+    "arxiv": "2512.05191",
+    "bibcode": "2026AJ....171...80W"
+   },
+   "epoch": "2010-2014"
+  },
+  {
+   "image_id": "xest-13-010_ps1-i",
+   "type": "planet",
+   "facility": "Pan-STARRS1",
+   "instrument": "GPC1",
+   "wavelength_um": 0.752,
+   "wavelength_label": "i band (PS1 stack; companion visible)",
+   "technique": "other",
+   "survey": null,
+   "file": "images/xest-13-010/xest-13-010_ps1-i.png",
+   "credit": "Walker et al. 2026, Fig. (crop)",
+   "paper": {
+    "first_author": "Walker",
+    "year": 2026,
+    "title": "Keck Observations in the INfrared of Taurus and ρ Oph Exoplanets And Ultracool dwarfs (KOINTREAU) I: A Planetary-Mass Companion and a Disk-Obscured Stellar Companion Discovered in Taurus",
+    "journal": "AJ 171, 80",
+    "arxiv": "2512.05191",
+    "bibcode": "2026AJ....171...80W"
+   },
+   "epoch": "2010-2014"
+  },
+  {
+   "image_id": "xest-13-010_ps1-z",
+   "type": "planet",
+   "facility": "Pan-STARRS1",
+   "instrument": "GPC1",
+   "wavelength_um": 0.866,
+   "wavelength_label": "z band (PS1 stack; companion visible)",
+   "technique": "other",
+   "survey": null,
+   "file": "images/xest-13-010/xest-13-010_ps1-z.png",
+   "credit": "Walker et al. 2026, Fig. (crop)",
+   "paper": {
+    "first_author": "Walker",
+    "year": 2026,
+    "title": "Keck Observations in the INfrared of Taurus and ρ Oph Exoplanets And Ultracool dwarfs (KOINTREAU) I: A Planetary-Mass Companion and a Disk-Obscured Stellar Companion Discovered in Taurus",
+    "journal": "AJ 171, 80",
+    "arxiv": "2512.05191",
+    "bibcode": "2026AJ....171...80W"
+   },
+   "epoch": "2010-2014"
+  },
+  {
+   "image_id": "xest-13-010_ps1-y",
+   "type": "planet",
+   "facility": "Pan-STARRS1",
+   "instrument": "GPC1",
+   "wavelength_um": 0.962,
+   "wavelength_label": "y band (PS1 stack; companion visible)",
+   "technique": "other",
+   "survey": null,
+   "file": "images/xest-13-010/xest-13-010_ps1-y.png",
+   "credit": "Walker et al. 2026, Fig. (crop)",
+   "paper": {
+    "first_author": "Walker",
+    "year": 2026,
+    "title": "Keck Observations in the INfrared of Taurus and ρ Oph Exoplanets And Ultracool dwarfs (KOINTREAU) I: A Planetary-Mass Companion and a Disk-Obscured Stellar Companion Discovered in Taurus",
+    "journal": "AJ 171, 80",
+    "arxiv": "2512.05191",
+    "bibcode": "2026AJ....171...80W"
+   },
+   "epoch": "2010-2014"
   }
  ],
  "notes": "Host is an M3 Taurus member (~3.4 Myr, XEST/XMM-Newton survey source) with a known circumstellar disk (SMA-detected, Akeson et al. 2019). KOINTREAU-2b confirmed bound via common proper motion with Gaia astrometry (log Bayes factor ~25.1); interpreted as a young star obscured by its own edge-on disk rather than a substellar object.",

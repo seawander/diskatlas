@@ -56,6 +56,48 @@
     "bibcode": "2009ApJ...707L.123T"
    },
    "epoch": "2009"
+  },
+  {
+   "image_id": "gj-758_hiciao-2009-05-03",
+   "type": "planet",
+   "facility": "Subaru-HiCIAO",
+   "instrument": "HiCIAO",
+   "wavelength_um": 1.6,
+   "wavelength_label": "H band (ADI S/N map; discovery epoch)",
+   "technique": "ADI",
+   "survey": null,
+   "file": "images/gj-758/gj-758_hiciao-2009-05-03.png",
+   "credit": "Thalmann et al. 2009, Fig. (crop)",
+   "paper": {
+    "first_author": "Thalmann",
+    "year": 2009,
+    "title": "Discovery of the Coldest Imaged Companion of a Sun-like Star",
+    "journal": "ApJL 707, L123",
+    "arxiv": "0911.1127",
+    "bibcode": "2009ApJ...707L.123T"
+   },
+   "epoch": "2009-05-03"
+  },
+  {
+   "image_id": "gj-758_hiciao-2009-08-06",
+   "type": "planet",
+   "facility": "Subaru-HiCIAO",
+   "instrument": "HiCIAO",
+   "wavelength_um": 1.6,
+   "wavelength_label": "H band (ADI S/N map; CPM-confirming epoch)",
+   "technique": "ADI",
+   "survey": null,
+   "file": "images/gj-758/gj-758_hiciao-2009-08-06.png",
+   "credit": "Thalmann et al. 2009, Fig. (crop)",
+   "paper": {
+    "first_author": "Thalmann",
+    "year": 2009,
+    "title": "Discovery of the Coldest Imaged Companion of a Sun-like Star",
+    "journal": "ApJL 707, L123",
+    "arxiv": "0911.1127",
+    "bibcode": "2009ApJ...707L.123T"
+   },
+   "epoch": "2009-08-06"
   }
  ],
  "notes": "K0V star hosting GJ 758 B, a cold T-dwarf companion discovered in Subaru/HiCIAO direct imaging as part of the SEEDS survey (Thalmann+2009).",

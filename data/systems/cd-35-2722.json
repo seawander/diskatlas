@@ -54,6 +54,90 @@
     "bibcode": "2011ApJ...729..139W"
    },
    "epoch": "2009 Jan 16"
+  },
+  {
+   "image_id": "cd-35-2722_nici-j-2009",
+   "type": "planet",
+   "facility": "Gemini-South",
+   "instrument": "NICI",
+   "wavelength_um": 1.25,
+   "wavelength_label": "J band (MKO; NICI coronagraphy)",
+   "technique": "coronagraphy",
+   "survey": null,
+   "file": "images/cd-35-2722/cd-35-2722_nici-j-2009.png",
+   "credit": "Wahhaj et al. 2011, Fig. (crop)",
+   "paper": {
+    "first_author": "Wahhaj",
+    "year": 2011,
+    "title": "The Gemini NICI Planet-Finding Campaign: Discovery of a Substellar L Dwarf Companion to the Nearby Young M Dwarf CD-35 2722",
+    "journal": "ApJ 729, 139",
+    "arxiv": "1101.2893",
+    "bibcode": "2011ApJ...729..139W"
+   },
+   "epoch": "2009-03-09"
+  },
+  {
+   "image_id": "cd-35-2722_nici-h-2009",
+   "type": "planet",
+   "facility": "Gemini-South",
+   "instrument": "NICI",
+   "wavelength_um": 1.65,
+   "wavelength_label": "H band (MKO; NICI coronagraphy)",
+   "technique": "coronagraphy",
+   "survey": null,
+   "file": "images/cd-35-2722/cd-35-2722_nici-h-2009.png",
+   "credit": "Wahhaj et al. 2011, Fig. (crop)",
+   "paper": {
+    "first_author": "Wahhaj",
+    "year": 2011,
+    "title": "The Gemini NICI Planet-Finding Campaign: Discovery of a Substellar L Dwarf Companion to the Nearby Young M Dwarf CD-35 2722",
+    "journal": "ApJ 729, 139",
+    "arxiv": "1101.2893",
+    "bibcode": "2011ApJ...729..139W"
+   },
+   "epoch": "2009-03-09"
+  },
+  {
+   "image_id": "cd-35-2722_nici-ks-2009",
+   "type": "planet",
+   "facility": "Gemini-South",
+   "instrument": "NICI",
+   "wavelength_um": 2.15,
+   "wavelength_label": "Ks band (MKO; NICI coronagraphy)",
+   "technique": "coronagraphy",
+   "survey": null,
+   "file": "images/cd-35-2722/cd-35-2722_nici-ks-2009.png",
+   "credit": "Wahhaj et al. 2011, Fig. (crop)",
+   "paper": {
+    "first_author": "Wahhaj",
+    "year": 2011,
+    "title": "The Gemini NICI Planet-Finding Campaign: Discovery of a Substellar L Dwarf Companion to the Nearby Young M Dwarf CD-35 2722",
+    "journal": "ApJ 729, 139",
+    "arxiv": "1101.2893",
+    "bibcode": "2011ApJ...729..139W"
+   },
+   "epoch": "2009-03-09"
+  },
+  {
+   "image_id": "cd-35-2722_nifs-2010",
+   "type": "planet",
+   "facility": "Gemini-North",
+   "instrument": "NIFS",
+   "wavelength_um": 1.25,
+   "wavelength_label": "J band (NIFS A-B nod image; JHK spectrograph)",
+   "technique": "other",
+   "survey": null,
+   "file": "images/cd-35-2722/cd-35-2722_nifs-2010.png",
+   "credit": "Wahhaj et al. 2011, Fig. (crop)",
+   "paper": {
+    "first_author": "Wahhaj",
+    "year": 2011,
+    "title": "The Gemini NICI Planet-Finding Campaign: Discovery of a Substellar L Dwarf Companion to the Nearby Young M Dwarf CD-35 2722",
+    "journal": "ApJ 729, 139",
+    "arxiv": "1101.2893",
+    "bibcode": "2011ApJ...729..139W"
+   },
+   "epoch": "2010-03-07"
   }
  ],
  "notes": null,

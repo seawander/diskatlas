@@ -48,6 +48,48 @@
    },
    "file": "images/hip-64892/hip-64892_sphere2018.png",
    "epoch": "2016-04-01"
+  },
+  {
+   "image_id": "hip-64892_irdis-h2-2016",
+   "type": "planet",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS",
+   "wavelength_um": 1.593,
+   "wavelength_label": "H2 1.593 um (ADI)",
+   "technique": "ADI",
+   "survey": null,
+   "file": "images/hip-64892/hip-64892_irdis-h2-2016.png",
+   "credit": "Cheetham et al. 2018, Fig. (crop)",
+   "paper": {
+    "first_author": "Cheetham",
+    "year": 2018,
+    "title": "Discovery of a brown dwarf companion to the star HIP 64892",
+    "journal": "A&A 615, A160",
+    "arxiv": "1803.02725",
+    "bibcode": "2018A&A...615A.160C"
+   },
+   "epoch": "2016-04-01"
+  },
+  {
+   "image_id": "hip-64892_naco-lp-2011",
+   "type": "planet",
+   "facility": "VLT-NACO",
+   "instrument": "NACO",
+   "wavelength_um": 3.8,
+   "wavelength_label": "L' 3.8 um (ADI; 2011 archival recovery)",
+   "technique": "ADI",
+   "survey": null,
+   "file": "images/hip-64892/hip-64892_naco-lp-2011.png",
+   "credit": "Cheetham et al. 2018, Fig. (crop)",
+   "paper": {
+    "first_author": "Cheetham",
+    "year": 2018,
+    "title": "Discovery of a brown dwarf companion to the star HIP 64892",
+    "journal": "A&A 615, A160",
+    "arxiv": "1803.02725",
+    "bibcode": "2018A&A...615A.160C"
+   },
+   "epoch": "2011-06-08"
   }
  ],
  "notes": "B9.5V member of the Lower Centaurus Crux subgroup of Sco-Cen, age ~16 Myr. Companion HIP 64892 B was discovered with VLT/SPHERE during the SHINE survey and recovered in archival 2011 VLT/NACO L' sparse-aperture-masking data (Cheetham+2018). No resolved circumstellar disk is detected; the paper models upper limits on an undetected debris disk and explores in-situ disk-instability formation for the companion, but categorizes this as a planet/brown-dwarf-only system.",
