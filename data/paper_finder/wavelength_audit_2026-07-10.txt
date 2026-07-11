@@ -1,4 +1,4 @@
-362 figure×system flags (paper images a wavelength the atlas lacks):
+310 figure×system flags (paper images a wavelength the atlas lacks):
 
 [0704.0645 Fig1 -> hd-15115] missing: 0.23um
      False-color, log scale images of the HD 15115 disk as originally discovered using the ACS/HRC F606W ($\lambda_c$= 591 n
@@ -14,26 +14,14 @@
     Comparison between the ACS Stokes $I$ image (top), the NICMOS 1.1 $\mu$m image (middle), and a promising neutral gas mod
 [0910.5223 Fig17 -> hd-61005] missing: 2mm
     Five snapshots of an initially unperturbed, near edge-on disk subjected to interstellar gas drag from a warm, low-densit
-[1005.5162 Fig1 -> lkca-15] missing: 1.4mm
-    High-contrast imaging of LkCa~15. The scale bars in all panels correspond to 1$\arcsec$ = 140\,AU in projected separatio
 [1008.2793 Fig1 -> hd-207129] missing: F606W
     ACS F606W coronagraphic observations of HD 207129. Each frame is 30\farcs 2 on a side. (TOP) Coronagraphic image from th
 [1008.2793 Fig2 -> hd-207129] missing: F606W
     Experimental results of applying the roll subtraction algorithm to ACS F606W coronagraphic images of HD 82943 taken at t
-[1107.1057 Fig2 -> hd-107146] missing: F606W, F814W
-    Azimuthally medianed (one pixel wide annular zones) surface brightness profiles derived from the {\it HST}/ACS scattered
-[1107.1057 Fig4 -> hd-107146] missing: F606W
-    Projection of the three dimensional ellipsoids of constant $\chi^{2}$ on the $r_{\rm{p}} = \rm{const}$ (left), $s = \rm{
-[1107.1057 Fig5 -> hd-107146] missing: F110W, F606W, F814W
-    Observed (top), modeled (center), and model subtracted images (bottom) in the F606W (left), the F814W (center), and the 
-[1107.1057 Fig7 -> hd-107146] missing: 1.3mm
-    Observed {\it CARMA} 1.3\,mm map (left), modeled image (center), and model subtracted map (right). The contour levels ha
 [1201.0173 Fig4 -> pds-144-n] missing: F555W, F606W
     \footnotesize This figure illustrates the relative proper motion of HH 689d \& 689e. \it Top\rm : The F555W image from A
 [1201.0173 Fig5 -> pds-144-n] missing: F555W
     \footnotesize \it Top\rm : ACS/WFC F555W image of PDS 144. Arrows (not to scale) show the magnitude and direction of pro
-[1203.2619 Fig4 -> hd-15115] missing: 1.1um
-    \textit{Top}: PA of the eastern side of the disk at \ks band as a function of distance from the star. See text for metho
 [1203.2619 Fig7 -> hd-15115] missing: 3um
     \textit{Top}: Rotated model and real \ks band disk images. The model image has an inclination of 87\degrees , scattering
 [1203.2619 Fig9 -> hd-15115] missing: 3um
@@ -42,12 +30,10 @@
     HST/NICMOS F110W image of GJ~581 (North is up, East is left). The star was not placed behind the occulting spot availabl
 [1306.2969 Fig1 -> tw-hya] missing: F171M, F180M, F204M, F222M
     \label{fig:f1} Final, roll combined, PSF-subtracted images of TW Hya in the four medium band filters observed, F171M, F1
-[1306.2969 Fig2 -> tw-hya] missing: 2.22um, F222M
+[1306.2969 Fig2 -> tw-hya] missing: F222M
     \label{fig:f3} Surface brightness profiles of the TW Hya disk at 1.71, 1.80, 2.04, and 2.22 \micron. The 1.80, 2.04, and
 [1306.2969 Fig3 -> tw-hya] missing: F160W, F171M, F222M
     \label{fig:f2} Surface brightness STIS, F160W, F171M, and F222M images where the surface brightness at each pixel is mul
-[1306.2969 Fig4 -> tw-hya] missing: F110W
-    \label{fig:f4} Azimuthal brightness profiles for the STIS and F110W images between 50-130~AU (top) and 130-210~AU (botto
 [1306.2969 Fig5 -> tw-hya] missing: F160W, F171M, F180M, F222M
     \label{fig:f5} Azimuthal brightness profiles for the F160W and F171M images between 50-130~AU (top) and the F180M and F2
 [1311.2977 Fig1 -> hr-8799] missing: 500um
@@ -58,43 +44,27 @@
     CLEANed maps of the 345 GHz continuum emission created by all UV data (a) and 50--600 k$\lambda$ (b). The contours begin
 [1402.1538 Fig4 -> sz-91] missing: 868.96um
     (a) Polarized intensity (PI) image obtained with the Subaru telescope in the $K_s$ band (color) where the 345 GHz contin
-[1411.0671 Fig12 -> oph-irs-48] missing: 440um
-    Contour map of \citet{Geers:2007} 18$\mu$m VLT VISIR data in yellow and \citet{van-der-Marel:2013} 0.44mm continuum ALMA
 [1412.0167 Fig3 -> hd-95086] missing: 70mm, 100mm, 160mm
     {\it Herschel} PACS images of HD 95086. The upper row shows PACS images at (a) 70 \mm, (b) 100 \mm, and (c) 160 \mm, res
 [1412.5063 Fig1 -> irc-10216] missing: 0.9um
     ExPo image of the circumstellar environment of IRC+10216 in polarised intensity (P$_l$) observed at optical wavelengths 
-[1503.06192 Fig4 -> v4046-sgr] missing: 1.3mm
-     Three color composite image comparing SMA 1.3mm continuum emission \citep[blue with yellow contours overlaid;][]{Rosenf
 [1506.03679 Fig8 -> dl-tau] missing: 872.76um
     ALMA SV data of HL Tau in Band 7 (343.5 GHz) with an angular resolution of $0.03''\times0.02''$ ($-176\degr$) in color s
 [1506.03679 Fig8 -> do-tau] missing: 872.76um
     ALMA SV data of HL Tau in Band 7 (343.5 GHz) with an angular resolution of $0.03''\times0.02''$ ($-176\degr$) in color s
-[1508.01003 Fig2 -> oph-irs-48] missing: 440.87um
-    Best fits of the intensity profile given in Equation (1) to the dust continuum for the 680 GHz (left) and 34 GHz (right)
-[1508.01003 Fig3 -> oph-irs-48] missing: 440.87um
-    Comparison of the ALMA and VLA data of Oph IRS 48, imaged with the same synthesized beam of 0$\farcs$46$\times$0$\farcs$
-[1509.06415 Fig1 -> au-mic] missing: 24um, 850um
+[1509.06415 Fig1 -> au-mic] missing: 24um
     Relative sensitivities of {\it Spitzer} MIPS (24 \micron), {\it Herschel} PACS and SCUBA-2 to dust emission at the level
-[1509.06415 Fig2 -> au-mic] missing: 250um, 350um, 450um, 500um, 850um
+[1509.06415 Fig2 -> au-mic] missing: 250um, 350um
     Far-infrared and submillimeter maps of AU Mic from {\it Herschel} and SCUBA-2. North is up and east is to the left. Diff
-[1509.06415 Fig3 -> au-mic] missing: 450um, 850um
-    SCUBA-2 imaging of the AU Mic disk. North is up and east is to the left. Composite image showing the extension of the di
-[1509.06415 Fig6 -> au-mic] missing: 450um, 1.3mm
-    Resolved images of the AU Mic disk at (top to bottom) 70 \micron, 160 \micron, 450 \micron\ and 1300 \micron\ (left colu
 [1510.00412 Fig1 -> rx-j1604-3-2130] missing: 2mm
     {\small $R'$ band (0.626\,$\mu$m) VLT/SPHERE/ZIMPOL images of J1604 (they are not scaled by $r^2$). From left to right: 
 [1510.00412 Fig3 -> rx-j1604-3-2130] missing: 2mm
     {\small Left panel: radial mapping from 0.2-0.6 arcsec of the $PI$ image of J1604 at $R'$ band. The colour scale is line
-[1510.03864 Fig1 -> pg-1307-085] missing: F606W
-    Single-band F606W image taken with WFPC2 aboard the \textit{HST} (left panel) and reconstructed false-colour image of th
 [1602.01219 Fig4 -> hd-141569] missing: 20um
     The different circumstellar dust and gas components of HD 141569A \citep[after ][]{Pericaud2014}: the two outer rings of
-[1603.00481 Fig12 -> hd-135344b] missing: 850um
-    Toomre parameter calculated from the \mbox{ALMA} band~7 (0.85 mm) dust continuum \citep{pinilla2015} with a typical gas-
 [1603.00481 Fig13 -> hd-135344b] missing: 450um
     \mbox{IRDIS} $J$-band $r^2$-scaled $Q_\phi$ image convolved with an elliptical Gaussian kernel ($132 \times 94$~mas) to 
-[1607.03520 Fig4 -> gm-aur] missing: F110W, F160W
+[1607.03520 Fig4 -> gm-aur] missing: F160W
     \it Top Row: \rm\ PSF-subtracted HST imagery observed in the UV with the F140LP (left), F165LP (center), and F330W (righ
 [1612.00333 Fig5 -> hd-206893] missing: F160W
     F160W NICMOS 2007 coronagraphic images, processed with RDI + PCA without injecting a fake companion (left) and after inj
@@ -108,40 +78,30 @@
     Polarimetric differential imaging data of HIP 79977 with the VBB filter (590-880 nm). The original data were $3\times 3$
 [1801.05424 Fig2 -> hd-104860] missing: F160W
     Debris disks detected around \firstD (F110W filter) and \secD (F110W and F160W filters) by re-analyzing archival HST-NIC
-[1801.05850 Fig7 -> hd-95086] missing: 1.3mm
-    Orbital solution of HD\,95086\,b assuming a coplanar configuration with the outer belt inclination ($i_{\rm{disk}}=130\p
 [1803.02847 Fig1 -> iso-oph-54] missing: 2.99792mm
     Our ALMA 345 GHz ({\it left}) and 100 GHz ({\it right}) maps of the GY 91 protoplanetary disk. Two dark lanes are readil
 [1805.09842 Fig2 -> g023-01-00-41] missing: 6.66205mm, 13.6269mm
     Comparison between the disk emission imaged in Fig.\,\ref{mom} (dotted profile) and the radio continuum emission at 22\,
-[1806.08263 Fig3 -> hd-163296] missing: 1.3mm
-    \textit{Left panel}: Annotated NIRC2 image, also shown in Fig. \ref{fig:pca}. The dashed arcs of ellipse indicate scatte
 [1806.09252 Fig2 -> twa-7] missing: 24um
     Relative positions (with respect to 2MASS) in RA and DEC (upper and lower panel, respectively) for TWA\, 7 as a function
 [1807.03499 Fig4 -> fu-ori] missing: 2.2um
     Same as Figure \ref{fig:fuori} but for V1735 Cyg observed at $H$-band (upper, 1.65 \micron) and $K$-band (lower, 2.2 \mi
-[1807.03499 Fig5 -> fu-ori] missing: 1.2um, 2.2um
+[1807.03499 Fig5 -> fu-ori] missing: 2.2um
     Same as Figure \ref{fig:fuori} but for Z CMa observed at $J$- (1.2 \micron, upper), $H$- (1.65 \micron) and $K$- bands (
-[1811.06440 Fig3 -> hd-105] missing: F110W, F160W
+[1811.06440 Fig3 -> hd-105] missing: F110W
     \textit{Left}: \textit{HST}/NICMOS F160W image of HD~105, smoothed by convolution with a model PSF. Significant emission
 [1901.02467 Fig16 -> hd-34700] missing: F110W
     Difference of two HST/NICMOS (filter F110W) images with telescope roll angles changed by 29.9$^circ$. (left panel) We se
 [1902.02153 Fig3 -> hd-101584] missing: F606W
     {\bf Left:} CO(\mbox{2--1}) maximum-intensity image at 0\farcs085 resolution. {\bf Right:} 1.3\,mm continuum image (red 
-[1905.03603 Fig7 -> hr-4796a] missing: 1.6um, 47um, 101um
+[1905.03603 Fig7 -> hr-4796a] missing: 47um, 101um
     Unpolarised SPF (top), polarised fraction (middle), and polarised SPF (bottom) of two models of compact spheres with a r
-[1907.07277 Fig1 -> hd-169142] missing: 890um, 1.3mm
+[1907.07277 Fig1 -> hd-169142] missing: 890um
     Continuum emission of the multi-ring disk of HD 169142 at 0.89 mm, 1.3 mm, and 3 mm (from left to right). The beam size 
-[1910.07605 Fig1 -> cq-tau] missing: 1.3mm
-    (left) Keck/NIRC2 $L^\prime$-band image of CQ Tau overlaid with contours of the ALMA dust continuum image at 1.3 mm at 3
 [1911.09692 Fig2 -> afgl-4176] missing: 4176mm
     Deprojected 1.21\,mm continuum image of AFGL\,4176 mm1-main in greyscale and contours, with the central compact source s
 [1911.09692 Fig7 -> afgl-4176] missing: 4176mm
     1.21\,mm continuum emission of AFGL\,4176 mm1-main in greyscale and contours ($\sigma$ = 23\,$\mu$Jy\,beam$^{-1}$ $ \tim
-[2005.09037 Fig4 -> gg-tau] missing: 900um
-     \textit{Left and center:} SPHERE \textit{PI} image with lines indicating the angle of linear polarization overplotted, 
-[2011.08043 Fig14 -> hd-163296] missing: 1.2mm
-    Composite image of HD 163296 shows two jets detected by MUSE, superimposed to the disk detected by ALMA at 1.2 mm \citep
 [2011.08043 Fig14 -> pds-70] missing: 1.2mm
     Composite image of HD 163296 shows two jets detected by MUSE, superimposed to the disk detected by ALMA at 1.2 mm \citep
 [2012.08127 Fig3 -> cb-26] missing: 2.9mm, 8.1mm
@@ -154,23 +114,15 @@
     Observed and modelled intensity maps at 1.1, 1.3, 2.9, and 8.1\,mm. The modelled maps have smaller pixel sizes than the 
 [2012.08127 Fig14 -> cb-26] missing: 8.1mm
     Intensity distribution cuts along the major and minor axes (see Fig.\,\ref{fig_obs_sim_2d_app}) in observations and simu
-[2103.02665 Fig9 -> oph-163131] missing: 1.3mm
-    Model images for Models A, B, and C as described in Table \ref{table:paramresults}. The top row shows images at 0.8 $\mu
-[2103.02665 Fig11 -> oph-163131] missing: 1.3mm
-    The same as Figure \ref{fig:f814models} but with the fit optimized for the ALMA millimeter continuum image. In this case
 [2103.02665 Fig16 -> oph-163131] missing: 1mm
     The radial scale height dependence of the disk. Results are shown for the the three models presented in Table \ref{table
 [2105.02918 Fig3 -> v892-tau] missing: 8mm
     The continuum image at 8\,mm, with a circular ring centered at the center of stellar mass (grey dashed curve centered at
 [2105.02918 Fig12 -> v892-tau] missing: 8mm, 9.8mm, 9.99308mm
     Continuum images at 8.0\,mm (left) and 9.8\,mm (middle), with three antenna configurations combined; The zoom-in view fo
-[2106.05975 Fig1 -> hd-10647] missing: 1.25mm
-    Non-primary beam corrected \textit{ALMA} images of q$^1$~Eri in Band~7 (0.86\,mm, top) and Band~6 (1.25\,mm, bottom), wi
-[2107.13560 Fig1 -> waoph-6] missing: 1.25mm
-    ALMA 1.25 mm continuum image of WaOph 6 from the ALMA-DSHARP survey \protect\citep{Huang2018III}. The beam size is shown
 [2108.12548 Fig7 -> sz-91] missing: 1mm, 3mm
     Spectral index between 1 and 3 mm as a function of integrated 1 mm flux for Lupus disks (blue filled circles) from \cite
-[2109.02652 Fig6 -> wl-17] missing: 868.96um, 1.28666mm
+[2109.02652 Fig6 -> wl-17] missing: 1.28666mm
     The optical depth for the 100 GHz, 233 GHz, and 345 GHz data calculated with the flared disk model from \citet{dullemond
 [2110.13838 Fig2 -> orion-src-i] missing: 881.74um, 1.36269mm
     Source I continuum emission at 99, 220, and 340 GHz. White contour levels at 99~GHz: 50, 100, 200, 300, 400, 500, 600, 7
@@ -184,17 +136,11 @@
     SiO $v=0$ $J=5-4$ emission at 217.10498 GHz overlaid on 86 GHz continuum. The color image shows the high velocity SiO $v
 [2110.13838 Fig7 -> orion-src-i] missing: 1.38086mm, 3.02821mm, 6.97192mm
     SiO $v=0$ $J=5-4$ emission at 217.10498 GHz overlaid on contours of the 99, 86, and 43 GHz continuum emission. The thick
-[2111.02726 Fig4 -> cq-tau] missing: 1.3mm
-    The comparison of our data (indicated by grey contours) with the results from the literature. Green line is the spiral a
-[2111.07856 Fig4 -> gw-lup] missing: 1.3mm
-    Comparison with ALMA high-resolution images. The continuum maps at 1.3mm are shown and the top, and the intensity-weight
-[2111.07856 Fig4 -> hd-142666] missing: 1.3mm
-    Comparison with ALMA high-resolution images. The continuum maps at 1.3mm are shown and the top, and the intensity-weight
 [2201.05617 Fig1 -> z-cma] missing: 9mm
     {\bf Observations of the Z~CMa system.} The center is at component A (ALMA coordinates RA, Dec $=$ 07\rah03\ram43\ras.15
 [2201.05617 Fig3 -> z-cma] missing: 9mm
     {\bf Subaru $H$-band image (left) and $^{13}$CO moment 0 map (right) overlaid with the 5-$\sigma$ contours in ALMA 1.3 m
-[2203.15218 Fig1 -> 3c-273] missing: 214.137mm, F606W
+[2203.15218 Fig1 -> 3c-273] missing: 214.137mm
     a) HST/WFPC2 F606W image$^1$ of 3C273. The host elliptical is seen as a diffuse structure lopsided to the northeast. The
 [2203.16236 Fig11 -> cw-tau] missing: 3.56mm
      Comparison of the observed 3.56 mm flux density \citep{Ricci+10} and model predictions. The thick and thin errorbars de
@@ -210,82 +156,72 @@
     Detection probability maps as generated by \texttt{Exo-DMC} for the most sensitive NIRCam (F444W, top) and MIRI (F1140C,
 [2208.14990 Fig13 -> hip-65426] missing: F1140C
     As in \fref{fig:two_images}, except for the MIRI F1140C and F1550C filters. Here we show subtractions using the maximum 
-[2211.14329 Fig1 -> hsc-j2236-0032] missing: F150W
-    \textbf{NIRCam images of the field around \targettwo\ and \targetone.} Both JWST filters F356W ({\it left panels}) and F
 [2211.14329 Fig1 -> hsc-j2255-0251] missing: F150W
     \textbf{NIRCam images of the field around \targettwo\ and \targetone.} Both JWST filters F356W ({\it left panels}) and F
-[2211.14329 Fig6 -> hsc-j2236-0032] missing: F150W
-    \textbf{Quasar-subtracted images of \targettwo\ based on 2D decomposition by two independent codes}. The inferred host m
+[2211.14329 Fig1 -> hsc-j2236-0032] missing: F150W
+    \textbf{NIRCam images of the field around \targettwo\ and \targetone.} Both JWST filters F356W ({\it left panels}) and F
 [2211.14329 Fig6 -> hsc-j2255-0251] missing: F150W
     \textbf{Quasar-subtracted images of \targettwo\ based on 2D decomposition by two independent codes}. The inferred host m
-[2211.14329 Fig7 -> hsc-j2236-0032] missing: F150W
-     \textbf{Testing the effect of PSF star mismatch on the inferred presence of a host galaxy.} {\it Top:} The residuals us
+[2211.14329 Fig6 -> hsc-j2236-0032] missing: F150W
+    \textbf{Quasar-subtracted images of \targettwo\ based on 2D decomposition by two independent codes}. The inferred host m
 [2211.14329 Fig7 -> hsc-j2255-0251] missing: F150W
+     \textbf{Testing the effect of PSF star mismatch on the inferred presence of a host galaxy.} {\it Top:} The residuals us
+[2211.14329 Fig7 -> hsc-j2236-0032] missing: F150W
      \textbf{Testing the effect of PSF star mismatch on the inferred presence of a host galaxy.} {\it Top:} The residuals us
 [2302.01949 Fig1 -> iras-04302-2247] missing: 6.8mm, 14mm, 40mm, 66mm
     VLA observations of IRAS04302. The scale bar represents the flux level; its values range between the 1$\sigma$ level (RM
-[2302.01949 Fig2 -> iras-04302-2247] missing: 900um, 2.1mm, 6.8mm
+[2302.01949 Fig2 -> iras-04302-2247] missing: 6.8mm
     Side by side comparison of the ALMA 0.9mm, 2.1mm and VLA 6.8mm and 9.2mm observations, after correction for emission fro
-[2302.01949 Fig3 -> iras-04302-2247] missing: 900um, 2.1mm, 6.8mm
+[2302.01949 Fig3 -> iras-04302-2247] missing: 6.8mm
     Top panel: Major axis profiles of the 0.9mm, 2.1mm, 6.8mm, and 9.2mm observations (Fig.~\ref{fig:ALMA_VLA}), normalized 
 [2302.01949 Fig10 -> iras-04302-2247] missing: 6.8mm
     Resulting 6.8mm and 9.2mm images before (left panels) and after (middle panels) correction for non-disk emission, at the
-[2302.04273 Fig1 -> 49-cet] missing: F160W
-    Transmission of the STIS-50CORON, NIC2-F110W, and NIC2-F160W coronagraphic filters used to image debris disks in this st
-[2302.04273 Fig1 -> au-mic] missing: F160W
-    Transmission of the STIS-50CORON, NIC2-F110W, and NIC2-F160W coronagraphic filters used to image debris disks in this st
-[2302.04273 Fig1 -> beta-pic] missing: F160W
-    Transmission of the STIS-50CORON, NIC2-F110W, and NIC2-F160W coronagraphic filters used to image debris disks in this st
-[2302.04273 Fig1 -> hd-104860] missing: F160W
-    Transmission of the STIS-50CORON, NIC2-F110W, and NIC2-F160W coronagraphic filters used to image debris disks in this st
-[2302.04273 Fig1 -> hd-110058] missing: F160W
-    Transmission of the STIS-50CORON, NIC2-F110W, and NIC2-F160W coronagraphic filters used to image debris disks in this st
-[2302.04273 Fig1 -> hd-131835] missing: F160W
-    Transmission of the STIS-50CORON, NIC2-F110W, and NIC2-F160W coronagraphic filters used to image debris disks in this st
-[2302.04273 Fig1 -> hd-141569] missing: F160W
-    Transmission of the STIS-50CORON, NIC2-F110W, and NIC2-F160W coronagraphic filters used to image debris disks in this st
-[2302.04273 Fig1 -> hd-141943] missing: F160W
-    Transmission of the STIS-50CORON, NIC2-F110W, and NIC2-F160W coronagraphic filters used to image debris disks in this st
-[2302.04273 Fig1 -> hd-15115] missing: F160W
-    Transmission of the STIS-50CORON, NIC2-F110W, and NIC2-F160W coronagraphic filters used to image debris disks in this st
-[2302.04273 Fig1 -> hd-15745] missing: F160W
-    Transmission of the STIS-50CORON, NIC2-F110W, and NIC2-F160W coronagraphic filters used to image debris disks in this st
-[2302.04273 Fig1 -> hd-181327] missing: F160W
+[2302.04273 Fig1 -> hd-35650] missing: F110W
     Transmission of the STIS-50CORON, NIC2-F110W, and NIC2-F160W coronagraphic filters used to image debris disks in this st
 [2302.04273 Fig1 -> hd-191089] missing: F160W
     Transmission of the STIS-50CORON, NIC2-F110W, and NIC2-F160W coronagraphic filters used to image debris disks in this st
-[2302.04273 Fig1 -> hd-192758] missing: F160W
-    Transmission of the STIS-50CORON, NIC2-F110W, and NIC2-F160W coronagraphic filters used to image debris disks in this st
-[2302.04273 Fig1 -> hd-202917] missing: F160W
-    Transmission of the STIS-50CORON, NIC2-F110W, and NIC2-F160W coronagraphic filters used to image debris disks in this st
 [2302.04273 Fig1 -> hd-30447] missing: F160W
     Transmission of the STIS-50CORON, NIC2-F110W, and NIC2-F160W coronagraphic filters used to image debris disks in this st
-[2302.04273 Fig1 -> hd-32297] missing: F160W
+[2302.04273 Fig1 -> hd-181327] missing: F160W
     Transmission of the STIS-50CORON, NIC2-F110W, and NIC2-F160W coronagraphic filters used to image debris disks in this st
-[2302.04273 Fig1 -> hd-35650] missing: F110W
+[2302.04273 Fig1 -> hd-15745] missing: F160W
     Transmission of the STIS-50CORON, NIC2-F110W, and NIC2-F160W coronagraphic filters used to image debris disks in this st
-[2302.04273 Fig1 -> hd-35841] missing: F160W
+[2302.04273 Fig1 -> hd-131835] missing: F160W
     Transmission of the STIS-50CORON, NIC2-F110W, and NIC2-F160W coronagraphic filters used to image debris disks in this st
-[2302.04273 Fig1 -> hd-377] missing: F160W
-    Transmission of the STIS-50CORON, NIC2-F110W, and NIC2-F160W coronagraphic filters used to image debris disks in this st
-[2302.04273 Fig1 -> hd-61005] missing: F160W
+[2302.04273 Fig1 -> hd-110058] missing: F160W
     Transmission of the STIS-50CORON, NIC2-F110W, and NIC2-F160W coronagraphic filters used to image debris disks in this st
 [2302.04273 Fig1 -> hr-4796a] missing: F160W
     Transmission of the STIS-50CORON, NIC2-F110W, and NIC2-F160W coronagraphic filters used to image debris disks in this st
-[2302.04273 Fig1 -> twa-25] missing: F110W
+[2302.04273 Fig1 -> hd-141943] missing: F160W
+    Transmission of the STIS-50CORON, NIC2-F110W, and NIC2-F160W coronagraphic filters used to image debris disks in this st
+[2302.04273 Fig1 -> hd-32297] missing: F160W
+    Transmission of the STIS-50CORON, NIC2-F110W, and NIC2-F160W coronagraphic filters used to image debris disks in this st
+[2302.04273 Fig1 -> hd-35841] missing: F160W
+    Transmission of the STIS-50CORON, NIC2-F110W, and NIC2-F160W coronagraphic filters used to image debris disks in this st
+[2302.04273 Fig1 -> hd-104860] missing: F160W
+    Transmission of the STIS-50CORON, NIC2-F110W, and NIC2-F160W coronagraphic filters used to image debris disks in this st
+[2302.04273 Fig1 -> hd-141569] missing: F160W
+    Transmission of the STIS-50CORON, NIC2-F110W, and NIC2-F160W coronagraphic filters used to image debris disks in this st
+[2302.04273 Fig1 -> hd-202917] missing: F160W
+    Transmission of the STIS-50CORON, NIC2-F110W, and NIC2-F160W coronagraphic filters used to image debris disks in this st
+[2302.04273 Fig1 -> hd-377] missing: F160W
+    Transmission of the STIS-50CORON, NIC2-F110W, and NIC2-F160W coronagraphic filters used to image debris disks in this st
+[2302.04273 Fig1 -> 49-cet] missing: F160W
     Transmission of the STIS-50CORON, NIC2-F110W, and NIC2-F160W coronagraphic filters used to image debris disks in this st
 [2302.04273 Fig1 -> twa-7] missing: F110W
     Transmission of the STIS-50CORON, NIC2-F110W, and NIC2-F160W coronagraphic filters used to image debris disks in this st
-[2302.06332 Fig13 -> af-lep] missing: F160W
-    \label{fig:hst_alice} F160W NICMOS field from 1998 as processed by the ALICE pipeline \citep{Choquet:2014ej,Hagan:2018ij
+[2302.04273 Fig1 -> twa-25] missing: F110W
+    Transmission of the STIS-50CORON, NIC2-F110W, and NIC2-F160W coronagraphic filters used to image debris disks in this st
+[2302.04273 Fig1 -> hd-61005] missing: F160W
+    Transmission of the STIS-50CORON, NIC2-F110W, and NIC2-F160W coronagraphic filters used to image debris disks in this st
+[2302.04273 Fig1 -> hd-15115] missing: F160W
+    Transmission of the STIS-50CORON, NIC2-F110W, and NIC2-F160W coronagraphic filters used to image debris disks in this st
 [2302.06332 Fig15 -> af-lep] missing: F606W
     \label{fig:hst_acs}PSF-subtracted F606W HST/ACS/HRC images with the short-exposure data on the left and the long exposur
 [2305.03789 Fig11 -> fomalhaut] missing: F2300C, F2550W
     The image is displayed in logarithmic scaling between -1.5 and 470 MJy sr$^{-1}$. The intermediate belt and the secondar
 [2305.03789 Fig15 -> fomalhaut] missing: F1550C, F2550W
     The F1550C lines are drawn at 3.16, 10, 31.6, 100, and 316 MJy sr$^{-1}$, while the F2550W lines are drawn at 10, 31.6, 
-[2306.15069 Fig1 -> lkca-15] missing: 1.3mm
-    Color composite image of selected, previously-published LkCa 15 datasets and companion candidate positions. Red shows AL
 [2307.14526 Fig3 -> dg-tau] missing: 870um, 3.1mm
     ALMA images of the Stokes {\it I}, PI, Stokes {\it Q}, and Stokes {\it U} emission at wavelengths of 0.87 mm (Top panel)
 [2307.14526 Fig4 -> dg-tau] missing: 870um, 3.1mm
@@ -310,14 +246,10 @@
     For both rolls of the F356W AU Mic observations: a map showing the vicinity of the star (gold star marker) with each ove
 [2308.02486 Fig14 -> au-mic] missing: F356W
     As Figure \ref{fig:sb_asymmetry}, but for measurements of differing disk models and with color now encoding the filter (
-[2309.06076 Fig1 -> wl-17] missing: 3.07479mm, 3.1mm
-    ALMA Band 3 (3.1 mm; 97.5 GHz) {\rvf continuum image} of the Class I protostellar disk WL 17. Contour levels are $\{$4, 
 [2309.07040 Fig8 -> tau-042021] missing: F770W
     MIRI 7.7\,$\mu$m and NIRCam 4.4\,$\mu$m images of \eod, with moment zero $^{12}$CO contours overplotted in the left pane
 [2309.07040 Fig11 -> tau-042021] missing: F770W
     $^{12}$CO channel map centered at $V - V_{sys} = -0.3$\,km\,s$^{-1}$ (contours at 20 and 50\% of the peak brightness) an
-[2310.16873 Fig16 -> hd-34700] missing: 1.3mm
-     ALMA 1.3\,mm continuum emission contours, including in the same FoV both HD\,34700 A and B (on the right and on the lef
 [2401.02830 Fig1 -> mwc-758] missing: F187N, F200W
     \textit{JWST}/NIRCam image of MWC~758's protoplanetary disk in the F187N+F200W filters. No coronagraph was used, althoug
 [2401.02830 Fig2 -> mwc-758] missing: F187N, F200W
@@ -336,7 +268,7 @@
     Same data as Figure 1 after deconvolution of the off-axis coronagraphic PSFs as described in section \ref{sec:deconv}. T
 [2401.05271 Fig4 -> beta-pic] missing: F2300C
     Complex nebulosity and substructures in the disk, as seen in F2300C. The stretch is adjusted to bring up fainter feature
-[2401.05271 Fig7 -> beta-pic] missing: 12um, 23um, F1550C, F2300C
+[2401.05271 Fig7 -> beta-pic] missing: 23um, F1550C, F2300C
     The MIRI coronagraphy data in F1550C and F2300C (15.5 and 23 \micron) presented with a linear stretch and scaled by the 
 [2401.05271 Fig8 -> beta-pic] missing: F1550C, F2300C
     False color image generated from the F1550C (15.5~\um, cyan) and F2300C (23~\um, red) images. At these wavelengths, the 
@@ -358,19 +290,13 @@
     S/N maps of the F480M images obtained after roll subtraction and after subtraction of the disk and planets using the opt
 [2403.04855 Fig12 -> pds-70] missing: F480M
     5 $\sigma$ contrast limits (left) and mass sensitivity (right) for the F480M observations. We show both PCA-roll and TRA
+[2403.12124 Fig2 -> xz-tau] missing: 1.3mm
+    IRDIS image of Z CMa with the ALMA 1.3 mm continuum from \citet{2022NatAs...6..331D} contours overplotted in white. The 
 [2403.12124 Fig2 -> ex-lup] missing: 1.3mm
-    IRDIS image of Z CMa with the ALMA 1.3 mm continuum from \citet{2022NatAs...6..331D} contours overplotted in white. The 
-[2403.12124 Fig2 -> fu-ori] missing: 1.3mm
-    IRDIS image of Z CMa with the ALMA 1.3 mm continuum from \citet{2022NatAs...6..331D} contours overplotted in white. The 
-[2403.12124 Fig2 -> ny-ori] missing: 1.3mm
-    IRDIS image of Z CMa with the ALMA 1.3 mm continuum from \citet{2022NatAs...6..331D} contours overplotted in white. The 
-[2403.12124 Fig2 -> uz-tau-e] missing: 1.3mm
     IRDIS image of Z CMa with the ALMA 1.3 mm continuum from \citet{2022NatAs...6..331D} contours overplotted in white. The 
 [2403.12124 Fig2 -> v960-mon] missing: 1.3mm
     IRDIS image of Z CMa with the ALMA 1.3 mm continuum from \citet{2022NatAs...6..331D} contours overplotted in white. The 
-[2403.12124 Fig2 -> xz-tau] missing: 1.3mm
-    IRDIS image of Z CMa with the ALMA 1.3 mm continuum from \citet{2022NatAs...6..331D} contours overplotted in white. The 
-[2403.12124 Fig2 -> z-cma] missing: 1.3mm
+[2403.12124 Fig2 -> ny-ori] missing: 1.3mm
     IRDIS image of Z CMa with the ALMA 1.3 mm continuum from \citet{2022NatAs...6..331D} contours overplotted in white. The 
 [2405.00573 Fig2 -> hd-216956c] missing: F444W
     PSF-subtracted final images of Fomalhaut C in F356W (top row) and F444W (bottom row), as well as the MCRDI disk model an
@@ -378,10 +304,6 @@
     Left: Radial $5\sigma$ companion detection limits for model constrained RDI (MCRDI) and synthetic RDI (SRDI) reductions 
 [2406.09528 Fig4 -> af-lep] missing: F200W, F356W
     \emph{Top and Middle:} F200W (left) and F356W (right) imaging of AF Lep. AF Lep b is not robustly recovered (${>}5\sigma
-[2410.00156 Fig7 -> oph-163131] missing: 1.3mm
-    Overlay MIRI 7.7$\mu$m image, using the same colorscale as in Fig.~\ref{fig:miri}, and ALMA 1.3mm dust continuum (green 
-[2410.23636 Fig1 -> vega] missing: 1.34mm
-    The bottom row shows the three MIRI images of the Vega debris system at the same orientation and field of view. Slight a
 [2410.23636 Fig5 -> vega] missing: F2550W
     Azimuthal disk brightness distribution in the ``enhanced" F2550W disk image estimated by two metrics: the left panel as 
 [2410.23636 Fig8 -> vega] missing: F2550W
@@ -396,16 +318,12 @@
     The background subtraction process for the F1550C coronagraphic observations, shown for one of the Vega ({\it top row}) 
 [2410.23636 Fig17 -> vega] missing: F2300C
     The background subtraction process for the F2300C coronagraphic observations, shown for one of the Vega ({\it top row}) 
-[2412.07523 Fig1 -> hh-30] missing: 4.4um, 1.3mm
+[2412.07523 Fig1 -> hh-30] missing: 4.4um
     An RGB color composite image of HST 0.6~\micron~(blue), JWST 2 \micron~ (green), 4.4 \micron~(red), and ALMA 1.3 mm (whi
-[2412.07523 Fig3 -> hh-30] missing: F814W
-    Spiral-like structure seen at three epochs: 1998 and 2008 (HST/WFPC2-PC1/F814W) and 2023 (JWST/NIRCam/F200W). All images
 [2412.07523 Fig8 -> hh-30] missing: 12.8um, F1280W
      The MIRI/F1280W (12.8 \micron) image taken in January 2023 with the jet orientated horizontally with labels in units of
 [2412.07523 Fig9 -> hh-30] missing: F1280W
     (Left) Movement of a jet knot seen in MIRI/F1280W image between two epochs. The contours are the value at $10^{-1.5}$ re
-[2412.07523 Fig12 -> hh-30] missing: 1.3mm
-    Multiwavelength radiative transfer model images with a square root stretch from zero to the peak value. All images are s
 [2503.01599 Fig1 -> eps-ind-a] missing: 15.5um
     \textbf{A point source is detected in JWST/MIRI coronagraphic images of Eps~Ind~A.} The target is observed at 10.65\micr
 [2503.01599 Fig5 -> eps-ind-a] missing: 8um
@@ -414,29 +332,29 @@
     Spitzer IRAC images of Eps~Ind~A. The three columns show the science-ready Eps~Ind~A image from the Spitzer archive (lef
 [2503.01599 Fig8 -> eps-ind-a] missing: 24um, 70um
     Spitzer MIPS 24\micron\ and 70\micron\ images of Eps~Ind~A. Blue and green circles have radii 20'', and are centered on 
-[2503.13608 Fig3 -> 51-eri] missing: F460M
-    Centering NIRCam \texttt{LWB}/narrow coronagraphic images. \textit{Left}: 1st science frame from the \hra observations i
 [2503.13608 Fig3 -> hr-8799] missing: F460M
     Centering NIRCam \texttt{LWB}/narrow coronagraphic images. \textit{Left}: 1st science frame from the \hra observations i
-[2503.13608 Fig4 -> 51-eri] missing: F410M
-    Imaging Summary. \textit{Left:} PSF-subtracted F410M image of \hra, \texttt{pyKLIP} subtraction parameters labeled to th
+[2503.13608 Fig3 -> 51-eri] missing: F460M
+    Centering NIRCam \texttt{LWB}/narrow coronagraphic images. \textit{Left}: 1st science frame from the \hra observations i
 [2503.13608 Fig4 -> hr-8799] missing: F410M
     Imaging Summary. \textit{Left:} PSF-subtracted F410M image of \hra, \texttt{pyKLIP} subtraction parameters labeled to th
-[2503.13608 Fig5 -> 51-eri] missing: F410M
-    JWST/NIRCam F410M $5\,\sigma$ contrast curves for the \texttt{LWB}/narrow coronagraph (solid black line) and the \texttt
+[2503.13608 Fig4 -> 51-eri] missing: F410M
+    Imaging Summary. \textit{Left:} PSF-subtracted F410M image of \hra, \texttt{pyKLIP} subtraction parameters labeled to th
 [2503.13608 Fig5 -> hr-8799] missing: F410M
     JWST/NIRCam F410M $5\,\sigma$ contrast curves for the \texttt{LWB}/narrow coronagraph (solid black line) and the \texttt
-[2503.13608 Fig10 -> 51-eri] missing: F335M, F460M
-    Post starlight subtraction image library by filter, for F460M through F335M
+[2503.13608 Fig5 -> 51-eri] missing: F410M
+    JWST/NIRCam F410M $5\,\sigma$ contrast curves for the \texttt{LWB}/narrow coronagraph (solid black line) and the \texttt
 [2503.13608 Fig10 -> hr-8799] missing: F335M, F460M
     Post starlight subtraction image library by filter, for F460M through F335M
-[2503.13608 Fig11 -> 51-eri] missing: F182M, F200W, F210M, F250M, F300M
-    Post starlight subtraction image library by filter, for F300M, F250M (LW detector) and F210M, F200W, and F182M (SW detec
+[2503.13608 Fig10 -> 51-eri] missing: F335M, F460M
+    Post starlight subtraction image library by filter, for F460M through F335M
 [2503.13608 Fig11 -> hr-8799] missing: F182M, F200W, F210M, F250M, F300M
     Post starlight subtraction image library by filter, for F300M, F250M (LW detector) and F210M, F200W, and F182M (SW detec
-[2503.13608 Fig14 -> 51-eri] missing: F410M
-    Deconvolution of the F410M image of \hra (Fig.\,\ref{fig:imaging_summary}) using \texttt{webbpsf} model PSFs, as describ
+[2503.13608 Fig11 -> 51-eri] missing: F182M, F200W, F210M, F250M, F300M
+    Post starlight subtraction image library by filter, for F300M, F250M (LW detector) and F210M, F200W, and F182M (SW detec
 [2503.13608 Fig14 -> hr-8799] missing: F410M
+    Deconvolution of the F410M image of \hra (Fig.\,\ref{fig:imaging_summary}) using \texttt{webbpsf} model PSFs, as describ
+[2503.13608 Fig14 -> 51-eri] missing: F410M
     Deconvolution of the F410M image of \hra (Fig.\,\ref{fig:imaging_summary}) using \texttt{webbpsf} model PSFs, as describ
 [2503.20132 Fig1 -> hd-163296] missing: F200W
     Top: Post-processed JWST/NIRCam maps in the F410M (left) and F200W (right) filters, obtained with KL=3. Bottom: Zoomed-i
@@ -446,41 +364,37 @@
     RDI post-processed images in the F410M filter (left) and F200W filter (right) after generating synthesized reference PSF
 [2505.02976 Fig11 -> hd-109832] missing: 1.24mm, 1.33mm
     Ansae flux ratio measurements of Sco-Cen debris disk targets as a function of 1.24mm continuum emission from \citet{liem
-[2505.02976 Fig11 -> hd-112810] missing: 1.24mm, 1.33mm
-    Ansae flux ratio measurements of Sco-Cen debris disk targets as a function of 1.24mm continuum emission from \citet{liem
-[2505.02976 Fig11 -> hd-146181] missing: 1.24mm, 1.33mm
-    Ansae flux ratio measurements of Sco-Cen debris disk targets as a function of 1.24mm continuum emission from \citet{liem
 [2505.02976 Fig11 -> hd-98363] missing: 1.24mm, 1.33mm
     Ansae flux ratio measurements of Sco-Cen debris disk targets as a function of 1.24mm continuum emission from \citet{liem
 [2506.09201 Fig1 -> 14-her] missing: F200W
     \textbf{First direct image of 14 Her c}. JWST/NIRCam coronagraphic imaging of the 14~Her system with the \texttt{MASKA33
 [2506.09201 Fig6 -> 14-her] missing: F200W
     \textbf{Contrast curve for the NIRCam observations of 14~Her using the \texttt{335R} coronagraph.} The F444W and F200W $
-[2506.10734 Fig16 -> 2mass-j16085324-3914401] missing: 1.03163mm, 1.03519mm, 1.03663mm, 1.04058mm
-    The image galleries for $\mathrm{{}^{12}CO}$ and other lines. The left columns are $\mathrm{H_2CO}$ J=$\mathrm{3_{03}}$-
-[2506.10734 Fig16 -> sz-66] missing: 1.03163mm, 1.03519mm, 1.03663mm, 1.04058mm
-    The image galleries for $\mathrm{{}^{12}CO}$ and other lines. The left columns are $\mathrm{H_2CO}$ J=$\mathrm{3_{03}}$-
 [2506.10734 Fig16 -> sz-71] missing: 1.03163mm, 1.03519mm, 1.03663mm, 1.04058mm
     The image galleries for $\mathrm{{}^{12}CO}$ and other lines. The left columns are $\mathrm{H_2CO}$ J=$\mathrm{3_{03}}$-
-[2506.10734 Fig16 -> sz-72] missing: 1.03163mm, 1.03519mm, 1.03663mm, 1.04058mm
+[2506.10734 Fig16 -> 2mass-j16085324-3914401] missing: 1.03163mm, 1.03519mm, 1.03663mm, 1.04058mm
     The image galleries for $\mathrm{{}^{12}CO}$ and other lines. The left columns are $\mathrm{H_2CO}$ J=$\mathrm{3_{03}}$-
 [2506.10734 Fig16 -> sz-77] missing: 1.03163mm, 1.03519mm, 1.03663mm, 1.04058mm
     The image galleries for $\mathrm{{}^{12}CO}$ and other lines. The left columns are $\mathrm{H_2CO}$ J=$\mathrm{3_{03}}$-
+[2506.10734 Fig16 -> sz-72] missing: 1.03163mm, 1.03519mm, 1.03663mm, 1.04058mm
+    The image galleries for $\mathrm{{}^{12}CO}$ and other lines. The left columns are $\mathrm{H_2CO}$ J=$\mathrm{3_{03}}$-
 [2506.10734 Fig16 -> sz-95] missing: 1.03163mm, 1.03519mm, 1.03663mm, 1.04058mm
+    The image galleries for $\mathrm{{}^{12}CO}$ and other lines. The left columns are $\mathrm{H_2CO}$ J=$\mathrm{3_{03}}$-
+[2506.10734 Fig16 -> sz-66] missing: 1.03163mm, 1.03519mm, 1.03663mm, 1.04058mm
     The image galleries for $\mathrm{{}^{12}CO}$ and other lines. The left columns are $\mathrm{H_2CO}$ J=$\mathrm{3_{03}}$-
 [2506.10734 Fig16 -> v1094-sco] missing: 1.03163mm, 1.03519mm, 1.03663mm, 1.04058mm
     The image galleries for $\mathrm{{}^{12}CO}$ and other lines. The left columns are $\mathrm{H_2CO}$ J=$\mathrm{3_{03}}$-
-[2506.10734 Fig23 -> 2mass-j16085324-3914401] missing: 1.0519mm
-     The comparisons between the CO isotopologue fluxes and the continuum flux densities from ALMA Band 7 at 285 GHz. The no
-[2506.10734 Fig23 -> sz-66] missing: 1.0519mm
-     The comparisons between the CO isotopologue fluxes and the continuum flux densities from ALMA Band 7 at 285 GHz. The no
 [2506.10734 Fig23 -> sz-71] missing: 1.0519mm
      The comparisons between the CO isotopologue fluxes and the continuum flux densities from ALMA Band 7 at 285 GHz. The no
-[2506.10734 Fig23 -> sz-72] missing: 1.0519mm
+[2506.10734 Fig23 -> 2mass-j16085324-3914401] missing: 1.0519mm
      The comparisons between the CO isotopologue fluxes and the continuum flux densities from ALMA Band 7 at 285 GHz. The no
 [2506.10734 Fig23 -> sz-77] missing: 1.0519mm
      The comparisons between the CO isotopologue fluxes and the continuum flux densities from ALMA Band 7 at 285 GHz. The no
+[2506.10734 Fig23 -> sz-72] missing: 1.0519mm
+     The comparisons between the CO isotopologue fluxes and the continuum flux densities from ALMA Band 7 at 285 GHz. The no
 [2506.10734 Fig23 -> sz-95] missing: 1.0519mm
+     The comparisons between the CO isotopologue fluxes and the continuum flux densities from ALMA Band 7 at 285 GHz. The no
+[2506.10734 Fig23 -> sz-66] missing: 1.0519mm
      The comparisons between the CO isotopologue fluxes and the continuum flux densities from ALMA Band 7 at 285 GHz. The no
 [2506.10734 Fig23 -> v1094-sco] missing: 1.0519mm
      The comparisons between the CO isotopologue fluxes and the continuum flux densities from ALMA Band 7 at 285 GHz. The no
@@ -492,7 +406,7 @@
     \label{fig:candidates} Full FOV of the TWA 7 observation in the F444W filter. Each candidate is circled and labeled with
 [2506.19932 Fig10 -> twa-7] missing: F444W
     \label{fig:c5} Zoom in on the F200W data (left) and the model subtracted residuals in the F200W (right) around the locat
-[2506.19932 Fig11 -> twa-7] missing: 11um, F444W
+[2506.19932 Fig11 -> twa-7] missing: F444W
     \label{fig:miri} \textbf{Left:} F200W observations highlighting the location of Ring 2 with the dashed grey line, as wel
 [2506.19932 Fig15 -> twa-7] missing: F1140C, F444W
     \label{fig:c6_mod} Custom atmospheric models generated with \texttt{PICASO} to fit the JWST NIRCam F444W and MIRI F1140C
@@ -510,8 +424,6 @@
     Blackbody (BB) emission from a circumplanetary ring for a total cross-sectional area equivalent to the half the face-on 
 [2510.11819 Fig2 -> iras-23077-6707] missing: F105W, F125W, F160W, F438W, F606W, F814W
     Image gallery of all HST observations of IRAS23077. The top row shows images taken with the WFC3/UVIS filters F438W, F60
-[2510.11819 Fig5 -> iras-23077-6707] missing: 1.3mm, 1.33241mm
-    Comparison of optical/IR scattered light and dust continuum emission in IRAS23077. The contours show the SMA 1.3\,mm/225
 [2510.20216 Fig1 -> twa-20] missing: F444W
     \label{fig:mcreduc} Final MCRDI data reductions for TWA 20 in the F200W (\textit{left}) and F444W (\textit{right}) filte
 [2510.20216 Fig3 -> twa-20] missing: F444W
@@ -544,24 +456,12 @@
     The 4-5\um color of 29~Cyg~b in context. \textbf{(a)} A deconvolved and smoothed three color composite. Blue is assigned
 [2604.09785 Fig4 -> hip-99770] missing: F210M, F410M, F430M, F460M
     Coronagraphic images of 29~Cyg~b with the JWST/NIRCam \texttt{LWBAR} coronagraph at the narrow offset position in the F2
-[2605.07016 Fig1 -> doar-25] missing: 1.24914mm
-    The H$_2$ and [Ne II] emission detected towards DoAr 25 on top of the ALMA 240 GHz continuum emission (shown in the back
-[2605.07016 Fig2 -> doar-25] missing: 1.24914mm
-    The observed and median subtracted H$_2$ S(3) lime maps towards {WSB 52} on top of the ALMA 240 GHz continuum emission (
-[2605.07016 Fig9 -> doar-25] missing: 1.24914mm
-    The H$_2$ and [Ne II] emission detected towards AS 209 on top of the ALMA 240 GHz continuum emission (shown in the backg
-[2606.23480 Fig8 -> hr-4796a] missing: 0.9um
-    Top: averaged freeform disk model shown in a linear stretch representing a deconvolved image of the disk in a wide $\sim
 [2606.23789 Fig1 -> beta-pic] missing: F290LP
     \textbf{Detection of \planet\ and b.} From left to right: S/N maps generated from the forward model framework (see Secti
 [2606.31746 Fig6 -> cep-a-hw2] missing: 13mm
     Overlay of CH$_3$CN, 1.3\,mm and outflow data. All three panels show in color and contours the CH$_3$CN$(12_3-11_3)$ fir
 [2606.31746 Fig13 -> cep-a-hw2] missing: 13mm
     Overlay of H$_2$O and 1.3\,mm data. The three panels show in color the 0th, 1st and 2nd moments of H$_2$O emission, resp
-[astro-ph/0201415 Fig2 -> gg-tau] missing: F814W
-     PSF-subtracted F814W image of the GG Tau ring, with various features identified. The orientation is the same as in Figu
-[astro-ph/0201415 Fig4 -> gg-tau] missing: F555W
-     Azimuthal profile plot of the GG Tau ring. The values plotted are the mean surface brightness in a 3 by 3 pixel (0\farc
 [astro-ph/0301335 Fig2 -> iras-04302-2247] missing: 1.36mm, 2.74mm
     Comparison of the observed (upper row) and simulated (lower rows) 1.36\,mm and 2.74\,mm maps for $h$(100\,AU)=15\,AU, 20
 [astro-ph/0301335 Fig3 -> iras-04302-2247] missing: 1.36mm
@@ -596,10 +496,8 @@
     Comparisons of the AU Mic disk ACS F606W image with three-dimensional scattering models. The top two images show the obs
 [astro-ph/0410466 Fig11 -> au-mic] missing: F606W
     AU Mic disk ACS F606W observed and model intensity cross-sections perpendicular to the midplane at various radii. The so
-[astro-ph/0504086 Fig2 -> vega] missing: 24um, 24mm
+[astro-ph/0504086 Fig2 -> vega] missing: 24mm
      Vega disk at 24 \um displayed with logarithmic scaling. North is up and east is toward the left. Due to the saturation 
-[astro-ph/0504086 Fig5 -> vega] missing: 160um
-    Vega disk (half) at 160 \um displayed with logarithmic scaling. The right side of the disk is contaminated by the spectr
 [astro-ph/0504086 Fig10 -> vega] missing: 2um, 5.1um
     Radial dependent {\it [24]$-$[70]} distribution for the Vega disk. The observed color is plotted in filled squares. The 
 [astro-ph/0504086 Fig13 -> vega] missing: 850um, 2mm, 18mm, 24mm, 70mm, 160mm
@@ -610,119 +508,117 @@
     Same as Figures \ref{radprof_powersize} and \ref{radprof_powersize_amc}, but using a mixture of amorphous carbon (30\%) 
 [astro-ph/0504086 Fig17 -> vega] missing: 215um, 2mm, 18mm, 24mm, 70mm, 160mm, 215mm, 850mm
     Three component model fit with small (2 \mm) and large (18 \mm) grains in the disk, and very large grain (215 \mm) in th
-[astro-ph/0601488 Fig1 -> hd-139664] missing: 0.23um, F606W
-     False-color, ACS/HRC F606W ($\lambda_c$= 591 nm, $\Delta\lambda$ = 234 nm) images of scattered light from debris disks 
 [astro-ph/0601488 Fig1 -> hd-53143] missing: 0.23um, F606W
      False-color, ACS/HRC F606W ($\lambda_c$= 591 nm, $\Delta\lambda$ = 234 nm) images of scattered light from debris disks 
-[astro-ph/0606213 Fig1 -> hd-181327] missing: F110W
-    Fig. 1 -- The robustness of NICMOS PSF-subtracted coronagraphy in revealing the HD 181327 circumstellar debris ring is i
-[astro-ph/9908301 Fig1 -> dg-tau-b] missing: 60mm
-     DG Tauri maps of the $\lambda$ = 2.7 mm continuum emission. All panels are contoured in steps of (-4 -3 -2 2 3 4 5 6 8 
-[astro-ph/9908301 Fig1 -> dg-tau] missing: 60mm
-     DG Tauri maps of the $\lambda$ = 2.7 mm continuum emission. All panels are contoured in steps of (-4 -3 -2 2 3 4 5 6 8 
-[astro-ph/9908301 Fig1 -> gg-tau] missing: 60mm
+[astro-ph/0601488 Fig1 -> hd-139664] missing: 0.23um, F606W
+     False-color, ACS/HRC F606W ($\lambda_c$= 591 nm, $\Delta\lambda$ = 234 nm) images of scattered light from debris disks 
+[astro-ph/9908301 Fig1 -> l1551-irs-5] missing: 60mm
      DG Tauri maps of the $\lambda$ = 2.7 mm continuum emission. All panels are contoured in steps of (-4 -3 -2 2 3 4 5 6 8 
 [astro-ph/9908301 Fig1 -> gm-aur] missing: 60mm
      DG Tauri maps of the $\lambda$ = 2.7 mm continuum emission. All panels are contoured in steps of (-4 -3 -2 2 3 4 5 6 8 
 [astro-ph/9908301 Fig1 -> hl-tau] missing: 60mm
      DG Tauri maps of the $\lambda$ = 2.7 mm continuum emission. All panels are contoured in steps of (-4 -3 -2 2 3 4 5 6 8 
-[astro-ph/9908301 Fig1 -> l1551-irs-5] missing: 60mm
+[astro-ph/9908301 Fig1 -> dg-tau-b] missing: 60mm
      DG Tauri maps of the $\lambda$ = 2.7 mm continuum emission. All panels are contoured in steps of (-4 -3 -2 2 3 4 5 6 8 
-[astro-ph/9908301 Fig2 -> dg-tau-b] missing: 36mm
-     DG Tauri B maps of the $\lambda$ = 2.7 mm continuum emission. All panels are contoured in steps of (-4 -3 -2 2 3 4 5 6 
-[astro-ph/9908301 Fig2 -> dg-tau] missing: 36mm
-     DG Tauri B maps of the $\lambda$ = 2.7 mm continuum emission. All panels are contoured in steps of (-4 -3 -2 2 3 4 5 6 
-[astro-ph/9908301 Fig2 -> gg-tau] missing: 36mm
+[astro-ph/9908301 Fig1 -> gg-tau] missing: 60mm
+     DG Tauri maps of the $\lambda$ = 2.7 mm continuum emission. All panels are contoured in steps of (-4 -3 -2 2 3 4 5 6 8 
+[astro-ph/9908301 Fig1 -> dg-tau] missing: 60mm
+     DG Tauri maps of the $\lambda$ = 2.7 mm continuum emission. All panels are contoured in steps of (-4 -3 -2 2 3 4 5 6 8 
+[astro-ph/9908301 Fig2 -> l1551-irs-5] missing: 36mm
      DG Tauri B maps of the $\lambda$ = 2.7 mm continuum emission. All panels are contoured in steps of (-4 -3 -2 2 3 4 5 6 
 [astro-ph/9908301 Fig2 -> gm-aur] missing: 36mm
      DG Tauri B maps of the $\lambda$ = 2.7 mm continuum emission. All panels are contoured in steps of (-4 -3 -2 2 3 4 5 6 
 [astro-ph/9908301 Fig2 -> hl-tau] missing: 36mm
      DG Tauri B maps of the $\lambda$ = 2.7 mm continuum emission. All panels are contoured in steps of (-4 -3 -2 2 3 4 5 6 
-[astro-ph/9908301 Fig2 -> l1551-irs-5] missing: 36mm
+[astro-ph/9908301 Fig2 -> dg-tau-b] missing: 36mm
      DG Tauri B maps of the $\lambda$ = 2.7 mm continuum emission. All panels are contoured in steps of (-4 -3 -2 2 3 4 5 6 
-[astro-ph/9908301 Fig3 -> dg-tau-b] missing: 13mm
-     L1551 IRS5 maps of the $\lambda$ = 2.7 mm continuum emission. All panels are contoured in steps of (-4 -3 -2 2 3 4 5 6 
-[astro-ph/9908301 Fig3 -> dg-tau] missing: 13mm
-     L1551 IRS5 maps of the $\lambda$ = 2.7 mm continuum emission. All panels are contoured in steps of (-4 -3 -2 2 3 4 5 6 
-[astro-ph/9908301 Fig3 -> gg-tau] missing: 13mm
+[astro-ph/9908301 Fig2 -> gg-tau] missing: 36mm
+     DG Tauri B maps of the $\lambda$ = 2.7 mm continuum emission. All panels are contoured in steps of (-4 -3 -2 2 3 4 5 6 
+[astro-ph/9908301 Fig2 -> dg-tau] missing: 36mm
+     DG Tauri B maps of the $\lambda$ = 2.7 mm continuum emission. All panels are contoured in steps of (-4 -3 -2 2 3 4 5 6 
+[astro-ph/9908301 Fig3 -> l1551-irs-5] missing: 13mm
      L1551 IRS5 maps of the $\lambda$ = 2.7 mm continuum emission. All panels are contoured in steps of (-4 -3 -2 2 3 4 5 6 
 [astro-ph/9908301 Fig3 -> gm-aur] missing: 13mm
      L1551 IRS5 maps of the $\lambda$ = 2.7 mm continuum emission. All panels are contoured in steps of (-4 -3 -2 2 3 4 5 6 
 [astro-ph/9908301 Fig3 -> hl-tau] missing: 13mm
      L1551 IRS5 maps of the $\lambda$ = 2.7 mm continuum emission. All panels are contoured in steps of (-4 -3 -2 2 3 4 5 6 
-[astro-ph/9908301 Fig3 -> l1551-irs-5] missing: 13mm
+[astro-ph/9908301 Fig3 -> dg-tau-b] missing: 13mm
      L1551 IRS5 maps of the $\lambda$ = 2.7 mm continuum emission. All panels are contoured in steps of (-4 -3 -2 2 3 4 5 6 
-[astro-ph/9908301 Fig4 -> dg-tau-b] missing: 36mm
-     HL Tauri maps of the $\lambda$ = 2.7 mm continuum emission. All panels are contoured in steps of (-4 -3 -2 2 3 4 5 6 8 
-[astro-ph/9908301 Fig4 -> dg-tau] missing: 36mm
-     HL Tauri maps of the $\lambda$ = 2.7 mm continuum emission. All panels are contoured in steps of (-4 -3 -2 2 3 4 5 6 8 
-[astro-ph/9908301 Fig4 -> gg-tau] missing: 36mm
+[astro-ph/9908301 Fig3 -> gg-tau] missing: 13mm
+     L1551 IRS5 maps of the $\lambda$ = 2.7 mm continuum emission. All panels are contoured in steps of (-4 -3 -2 2 3 4 5 6 
+[astro-ph/9908301 Fig3 -> dg-tau] missing: 13mm
+     L1551 IRS5 maps of the $\lambda$ = 2.7 mm continuum emission. All panels are contoured in steps of (-4 -3 -2 2 3 4 5 6 
+[astro-ph/9908301 Fig4 -> l1551-irs-5] missing: 36mm
      HL Tauri maps of the $\lambda$ = 2.7 mm continuum emission. All panels are contoured in steps of (-4 -3 -2 2 3 4 5 6 8 
 [astro-ph/9908301 Fig4 -> gm-aur] missing: 36mm
      HL Tauri maps of the $\lambda$ = 2.7 mm continuum emission. All panels are contoured in steps of (-4 -3 -2 2 3 4 5 6 8 
 [astro-ph/9908301 Fig4 -> hl-tau] missing: 36mm
      HL Tauri maps of the $\lambda$ = 2.7 mm continuum emission. All panels are contoured in steps of (-4 -3 -2 2 3 4 5 6 8 
-[astro-ph/9908301 Fig4 -> l1551-irs-5] missing: 36mm
+[astro-ph/9908301 Fig4 -> dg-tau-b] missing: 36mm
      HL Tauri maps of the $\lambda$ = 2.7 mm continuum emission. All panels are contoured in steps of (-4 -3 -2 2 3 4 5 6 8 
-[astro-ph/9908301 Fig10 -> dg-tau-b] missing: 36mm
-     SVS13 A maps of the $\lambda$ = 2.7 mm continuum emission. All panels are contoured in steps of (-4 -3 -2 2 3 4 5 6 8 1
-[astro-ph/9908301 Fig10 -> dg-tau] missing: 36mm
-     SVS13 A maps of the $\lambda$ = 2.7 mm continuum emission. All panels are contoured in steps of (-4 -3 -2 2 3 4 5 6 8 1
-[astro-ph/9908301 Fig10 -> gg-tau] missing: 36mm
+[astro-ph/9908301 Fig4 -> gg-tau] missing: 36mm
+     HL Tauri maps of the $\lambda$ = 2.7 mm continuum emission. All panels are contoured in steps of (-4 -3 -2 2 3 4 5 6 8 
+[astro-ph/9908301 Fig4 -> dg-tau] missing: 36mm
+     HL Tauri maps of the $\lambda$ = 2.7 mm continuum emission. All panels are contoured in steps of (-4 -3 -2 2 3 4 5 6 8 
+[astro-ph/9908301 Fig10 -> l1551-irs-5] missing: 36mm
      SVS13 A maps of the $\lambda$ = 2.7 mm continuum emission. All panels are contoured in steps of (-4 -3 -2 2 3 4 5 6 8 1
 [astro-ph/9908301 Fig10 -> gm-aur] missing: 36mm
      SVS13 A maps of the $\lambda$ = 2.7 mm continuum emission. All panels are contoured in steps of (-4 -3 -2 2 3 4 5 6 8 1
 [astro-ph/9908301 Fig10 -> hl-tau] missing: 36mm
      SVS13 A maps of the $\lambda$ = 2.7 mm continuum emission. All panels are contoured in steps of (-4 -3 -2 2 3 4 5 6 8 1
-[astro-ph/9908301 Fig10 -> l1551-irs-5] missing: 36mm
+[astro-ph/9908301 Fig10 -> dg-tau-b] missing: 36mm
      SVS13 A maps of the $\lambda$ = 2.7 mm continuum emission. All panels are contoured in steps of (-4 -3 -2 2 3 4 5 6 8 1
-[astro-ph/9908301 Fig12 -> dg-tau-b] missing: 13mm
-     NGC 1333 IRAS4 A maps of the $\lambda$ = 2.7 mm continuum emission. Panel (a) is contoured in steps of (-4 -3 -2 2 3 4 
-[astro-ph/9908301 Fig12 -> dg-tau] missing: 13mm
-     NGC 1333 IRAS4 A maps of the $\lambda$ = 2.7 mm continuum emission. Panel (a) is contoured in steps of (-4 -3 -2 2 3 4 
-[astro-ph/9908301 Fig12 -> gg-tau] missing: 13mm
+[astro-ph/9908301 Fig10 -> gg-tau] missing: 36mm
+     SVS13 A maps of the $\lambda$ = 2.7 mm continuum emission. All panels are contoured in steps of (-4 -3 -2 2 3 4 5 6 8 1
+[astro-ph/9908301 Fig10 -> dg-tau] missing: 36mm
+     SVS13 A maps of the $\lambda$ = 2.7 mm continuum emission. All panels are contoured in steps of (-4 -3 -2 2 3 4 5 6 8 1
+[astro-ph/9908301 Fig12 -> l1551-irs-5] missing: 13mm
      NGC 1333 IRAS4 A maps of the $\lambda$ = 2.7 mm continuum emission. Panel (a) is contoured in steps of (-4 -3 -2 2 3 4 
 [astro-ph/9908301 Fig12 -> gm-aur] missing: 13mm
      NGC 1333 IRAS4 A maps of the $\lambda$ = 2.7 mm continuum emission. Panel (a) is contoured in steps of (-4 -3 -2 2 3 4 
 [astro-ph/9908301 Fig12 -> hl-tau] missing: 13mm
      NGC 1333 IRAS4 A maps of the $\lambda$ = 2.7 mm continuum emission. Panel (a) is contoured in steps of (-4 -3 -2 2 3 4 
-[astro-ph/9908301 Fig12 -> l1551-irs-5] missing: 13mm
+[astro-ph/9908301 Fig12 -> dg-tau-b] missing: 13mm
      NGC 1333 IRAS4 A maps of the $\lambda$ = 2.7 mm continuum emission. Panel (a) is contoured in steps of (-4 -3 -2 2 3 4 
-[astro-ph/9908301 Fig13 -> dg-tau-b] missing: 13mm
-     NGC 1333 IRAS4 B maps of the $\lambda$ = 2.7 mm continuum emission. Panel (a) is contoured in steps of (-4 -3 -2 2 3 4 
-[astro-ph/9908301 Fig13 -> dg-tau] missing: 13mm
-     NGC 1333 IRAS4 B maps of the $\lambda$ = 2.7 mm continuum emission. Panel (a) is contoured in steps of (-4 -3 -2 2 3 4 
-[astro-ph/9908301 Fig13 -> gg-tau] missing: 13mm
+[astro-ph/9908301 Fig12 -> gg-tau] missing: 13mm
+     NGC 1333 IRAS4 A maps of the $\lambda$ = 2.7 mm continuum emission. Panel (a) is contoured in steps of (-4 -3 -2 2 3 4 
+[astro-ph/9908301 Fig12 -> dg-tau] missing: 13mm
+     NGC 1333 IRAS4 A maps of the $\lambda$ = 2.7 mm continuum emission. Panel (a) is contoured in steps of (-4 -3 -2 2 3 4 
+[astro-ph/9908301 Fig13 -> l1551-irs-5] missing: 13mm
      NGC 1333 IRAS4 B maps of the $\lambda$ = 2.7 mm continuum emission. Panel (a) is contoured in steps of (-4 -3 -2 2 3 4 
 [astro-ph/9908301 Fig13 -> gm-aur] missing: 13mm
      NGC 1333 IRAS4 B maps of the $\lambda$ = 2.7 mm continuum emission. Panel (a) is contoured in steps of (-4 -3 -2 2 3 4 
 [astro-ph/9908301 Fig13 -> hl-tau] missing: 13mm
      NGC 1333 IRAS4 B maps of the $\lambda$ = 2.7 mm continuum emission. Panel (a) is contoured in steps of (-4 -3 -2 2 3 4 
-[astro-ph/9908301 Fig13 -> l1551-irs-5] missing: 13mm
+[astro-ph/9908301 Fig13 -> dg-tau-b] missing: 13mm
      NGC 1333 IRAS4 B maps of the $\lambda$ = 2.7 mm continuum emission. Panel (a) is contoured in steps of (-4 -3 -2 2 3 4 
-[astro-ph/9908301 Fig15 -> dg-tau-b] missing: 36mm
-     VLA 1623 maps of the $\lambda$ = 2.7 mm continuum emission. All panels are contoured in steps of (-4 -3 -2 2 3 4 5 6 8 
-[astro-ph/9908301 Fig15 -> dg-tau] missing: 36mm
-     VLA 1623 maps of the $\lambda$ = 2.7 mm continuum emission. All panels are contoured in steps of (-4 -3 -2 2 3 4 5 6 8 
-[astro-ph/9908301 Fig15 -> gg-tau] missing: 36mm
+[astro-ph/9908301 Fig13 -> gg-tau] missing: 13mm
+     NGC 1333 IRAS4 B maps of the $\lambda$ = 2.7 mm continuum emission. Panel (a) is contoured in steps of (-4 -3 -2 2 3 4 
+[astro-ph/9908301 Fig13 -> dg-tau] missing: 13mm
+     NGC 1333 IRAS4 B maps of the $\lambda$ = 2.7 mm continuum emission. Panel (a) is contoured in steps of (-4 -3 -2 2 3 4 
+[astro-ph/9908301 Fig15 -> l1551-irs-5] missing: 36mm
      VLA 1623 maps of the $\lambda$ = 2.7 mm continuum emission. All panels are contoured in steps of (-4 -3 -2 2 3 4 5 6 8 
 [astro-ph/9908301 Fig15 -> gm-aur] missing: 36mm
      VLA 1623 maps of the $\lambda$ = 2.7 mm continuum emission. All panels are contoured in steps of (-4 -3 -2 2 3 4 5 6 8 
 [astro-ph/9908301 Fig15 -> hl-tau] missing: 36mm
      VLA 1623 maps of the $\lambda$ = 2.7 mm continuum emission. All panels are contoured in steps of (-4 -3 -2 2 3 4 5 6 8 
-[astro-ph/9908301 Fig15 -> l1551-irs-5] missing: 36mm
+[astro-ph/9908301 Fig15 -> dg-tau-b] missing: 36mm
      VLA 1623 maps of the $\lambda$ = 2.7 mm continuum emission. All panels are contoured in steps of (-4 -3 -2 2 3 4 5 6 8 
-[astro-ph/9908301 Fig16 -> dg-tau-b] missing: 20mm
-     IRAS 16293-2422 maps of the $\lambda$ = 2.7 mm continuum emission. Panel (a) is contoured in steps of (-4 -3 -2 2 3 4 5
-[astro-ph/9908301 Fig16 -> dg-tau] missing: 20mm
-     IRAS 16293-2422 maps of the $\lambda$ = 2.7 mm continuum emission. Panel (a) is contoured in steps of (-4 -3 -2 2 3 4 5
-[astro-ph/9908301 Fig16 -> gg-tau] missing: 20mm
+[astro-ph/9908301 Fig15 -> gg-tau] missing: 36mm
+     VLA 1623 maps of the $\lambda$ = 2.7 mm continuum emission. All panels are contoured in steps of (-4 -3 -2 2 3 4 5 6 8 
+[astro-ph/9908301 Fig15 -> dg-tau] missing: 36mm
+     VLA 1623 maps of the $\lambda$ = 2.7 mm continuum emission. All panels are contoured in steps of (-4 -3 -2 2 3 4 5 6 8 
+[astro-ph/9908301 Fig16 -> l1551-irs-5] missing: 20mm
      IRAS 16293-2422 maps of the $\lambda$ = 2.7 mm continuum emission. Panel (a) is contoured in steps of (-4 -3 -2 2 3 4 5
 [astro-ph/9908301 Fig16 -> gm-aur] missing: 20mm
      IRAS 16293-2422 maps of the $\lambda$ = 2.7 mm continuum emission. Panel (a) is contoured in steps of (-4 -3 -2 2 3 4 5
 [astro-ph/9908301 Fig16 -> hl-tau] missing: 20mm
      IRAS 16293-2422 maps of the $\lambda$ = 2.7 mm continuum emission. Panel (a) is contoured in steps of (-4 -3 -2 2 3 4 5
-[astro-ph/9908301 Fig16 -> l1551-irs-5] missing: 20mm
+[astro-ph/9908301 Fig16 -> dg-tau-b] missing: 20mm
+     IRAS 16293-2422 maps of the $\lambda$ = 2.7 mm continuum emission. Panel (a) is contoured in steps of (-4 -3 -2 2 3 4 5
+[astro-ph/9908301 Fig16 -> gg-tau] missing: 20mm
+     IRAS 16293-2422 maps of the $\lambda$ = 2.7 mm continuum emission. Panel (a) is contoured in steps of (-4 -3 -2 2 3 4 5
+[astro-ph/9908301 Fig16 -> dg-tau] missing: 20mm
      IRAS 16293-2422 maps of the $\lambda$ = 2.7 mm continuum emission. Panel (a) is contoured in steps of (-4 -3 -2 2 3 4 5
 
 VIEW each before ingesting (models/residuals/reference-PSF panels slip through). Sources: images/_sources/extracted/<arxiv>/

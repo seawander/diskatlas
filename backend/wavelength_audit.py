@@ -111,19 +111,23 @@ def main():
     ap.add_argument("--min-extra", type=int, default=1)
     a = ap.parse_args()
 
-    # (arxiv) -> system -> held wavelengths(um) + filters
-    held = defaultdict(lambda: defaultdict(lambda: {"wl": set(), "filt": set()}))
+    # SYSTEM-WIDE held bands (across ALL papers) — so we only flag a wavelength the
+    # system TRULY lacks, not one it holds from a different paper (that re-display
+    # false-positive class dominated the per-paper version).  Also map arxiv->systems.
+    held_sys = defaultdict(lambda: {"wl": set(), "filt": set()})   # sid -> bands
+    cites = defaultdict(set)                                        # arxiv -> {sid}
     for f in sorted((ROOT / "data" / "systems").glob("*.json")):
         d = json.loads(f.read_text())
         for im in d.get("images", []):
-            ax = (im.get("paper") or {}).get("arxiv")
-            if not ax:
-                continue
             wl = im.get("wavelength_um")
             if wl:
-                held[ax][d["id"]]["wl"].add(float(wl))
+                held_sys[d["id"]]["wl"].add(float(wl))
             lab = im.get("wavelength_label", "") or ""
-            held[ax][d["id"]]["filt"] |= set(FILT_RE.findall(lab))
+            held_sys[d["id"]]["filt"] |= set(FILT_RE.findall(lab))
+            ax = (im.get("paper") or {}).get("arxiv")
+            if ax:
+                cites[ax].add(d["id"])
+    held = {ax: {sid: held_sys[sid] for sid in sids} for ax, sids in cites.items()}
 
     flags = []
     for ax, sysmap in sorted(held.items()):
