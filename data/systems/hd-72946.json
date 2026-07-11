@@ -57,6 +57,27 @@
     "bibcode": "2020A&A...633L...2M"
    },
    "epoch": "2019-03-21"
+  },
+  {
+   "image_id": "hd-72946_sphere-ifs-yj-maire20",
+   "type": "planet",
+   "facility": "VLT-SPHERE",
+   "instrument": "IFS",
+   "wavelength_um": 1.15,
+   "wavelength_label": "YJ 0.95-1.35 um contrast image (ADI; companion B)",
+   "technique": "ADI",
+   "survey": null,
+   "file": "images/hd-72946/hd-72946_sphere-ifs-yj-maire20.png",
+   "credit": "Maire et al. 2020, Fig. 1b (crop)",
+   "paper": {
+    "first_author": "Maire",
+    "year": 2020,
+    "title": "HD 72946 B: A dusty benchmark brown dwarf near the ice line",
+    "journal": "A&A 633, L2",
+    "arxiv": "1912.02565",
+    "bibcode": "2020A&A...633L...2M"
+   },
+   "epoch": "2019-03-21"
   }
  ],
  "notes": "G8V star hosting the dusty benchmark brown dwarf HD 72946 B near the L/T transition, imaged with VLT/SPHERE (Maire+2020).",
