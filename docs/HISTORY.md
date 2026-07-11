@@ -40,6 +40,20 @@ added: HD 15115 Keck-II AO H (Kalas07), HD 206893 0.88mm (Marino20), AS 205
 HL Tau 1.3mm (Carrasco-González16 = Partnership data). 1549→1554 records.
 See auto-memory `cross-paper-redundancy-ok`.
 
+Herschel PACS coverage push (maintainer: "PACS is a very good instrument and we
+didn't cover its images that well"). Baseline was 19 PACS records / 108 debris
+disks, almost all single-band. Added **16 PACS records across 9 systems** (1554→
+1570), VIEW-verifying every band is genuinely resolved and excluding unresolved
+SPIRE/SCUBA blobs + PSF-reference panels: HD 10647 70/100/160 (Liseau10, user-
+directed); multi-band fills eta Crv 100/160, AU Mic 160, HR 8799 100/160,
+HD 207129 100/160, Vega 160; new-target β Pic 70/100/160 (Vandenbussche10),
+HD 181327 70 (Lebreton12), HD 105 70 (Donaldson12, marginal). ~30 lesser no-PACS
+debris disks remain (each in a scattered dedicated paper — no efficient multi-
+target image source: Pawellek14 is modeling-only, DEBRIS/Tuc-Hor survey papers
+yield ~1 resolved target each). "etc observatories" (Spitzer MIPS, SCUBA-2, …)
+is a still-broader follow-on. Verify every arXiv id via ADS first (Liseau =
+1005.3137 confirmed, not memory).
+
 ## 2026-07-10 (later) — census adjudication of category-less systems
 
 Ten systems with empty categories+planets but disk-typed records were adjudicated
