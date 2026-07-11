@@ -626,6 +626,48 @@
     "bibcode": "2017A&A...599A.108M"
    },
    "epoch": "2015-02-02"
+  },
+  {
+   "image_id": "hr-4796a_naco-ks-pdi-milli15",
+   "type": "disk_scattered",
+   "facility": "VLT-NACO",
+   "instrument": "NACO pol",
+   "wavelength_um": 2.15,
+   "wavelength_label": "Ks band 2.15 um (pol. intensity, PDI)",
+   "technique": "PDI",
+   "survey": null,
+   "file": "images/hr-4796a/hr-4796a_naco-ks-pdi-milli15.png",
+   "credit": "Milli et al. 2015, Fig. 4 (NaCo Ks PDI, crop)",
+   "paper": {
+    "first_author": "Milli",
+    "year": 2015,
+    "title": "New constraints on the dust surrounding HR 4796A",
+    "journal": "A&A 577, A57",
+    "arxiv": "1407.2539",
+    "bibcode": "2015A&A...577A..57M"
+   },
+   "epoch": "2013-04-17"
+  },
+  {
+   "image_id": "hr-4796a_nicmos-f222m-milli15",
+   "type": "disk_scattered",
+   "facility": "HST",
+   "instrument": "NICMOS",
+   "wavelength_um": 2.22,
+   "wavelength_label": "F222M 2.22 um (archival, PCA/RDI; first published)",
+   "technique": "RDI",
+   "survey": null,
+   "file": "images/hr-4796a/hr-4796a_nicmos-f222m-milli15.png",
+   "credit": "Milli et al. 2015, Fig. 4 (NICMOS F222M, crop)",
+   "paper": {
+    "first_author": "Milli",
+    "year": 2015,
+    "title": "New constraints on the dust surrounding HR 4796A",
+    "journal": "A&A 577, A57",
+    "arxiv": "1407.2539",
+    "bibcode": "2015A&A...577A..57M"
+   },
+   "epoch": "2009-08-12"
   }
  ],
  "notes": null,

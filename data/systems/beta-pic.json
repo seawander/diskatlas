@@ -920,6 +920,48 @@
     "bibcode": "2011ApJ...736L..33C"
    },
    "epoch": "2008-11-11"
+  },
+  {
+   "image_id": "beta-pic_naco-lp-disk-milli14",
+   "type": "disk_scattered",
+   "facility": "VLT-NACO",
+   "instrument": "NACO",
+   "wavelength_um": 3.8,
+   "wavelength_label": "L' 3.8 um scattered-light disk (cADI; multi-epoch stack)",
+   "technique": "ADI",
+   "survey": null,
+   "file": "images/beta-pic/beta-pic_naco-lp-disk-milli14.png",
+   "credit": "Milli et al. 2014, Fig. 3 (cADI disc, crop)",
+   "paper": {
+    "first_author": "Milli",
+    "year": 2014,
+    "title": "Very deep images of the innermost regions of the beta Pictoris debris disc at L'",
+    "journal": "A&A 566, A91",
+    "arxiv": "1405.2536",
+    "bibcode": "2014A&A...566A..91M"
+   },
+   "epoch": "2009-2013"
+  },
+  {
+   "image_id": "beta-pic_gpi-j-2018-nielsen20",
+   "type": "planet",
+   "facility": "Gemini-GPI",
+   "instrument": "IFS",
+   "wavelength_um": 1.25,
+   "wavelength_label": "J band 1.25 um (planet b; KLIP/ADI, post-conjunction epoch)",
+   "technique": "ADI",
+   "survey": null,
+   "file": "images/beta-pic/beta-pic_gpi-j-2018-nielsen20.png",
+   "credit": "Nielsen et al. 2020, Fig. 1 (GPI J, 2018-11-18, crop)",
+   "paper": {
+    "first_author": "Nielsen",
+    "year": 2020,
+    "title": "The Gemini Planet Imager Exoplanet Survey: Dynamical Mass of the Exoplanet beta Pictoris b",
+    "journal": "AJ 159, 71",
+    "arxiv": "1911.11273",
+    "bibcode": "2020AJ....159...71N"
+   },
+   "epoch": "2018-11-18"
   }
  ],
  "notes": "Original 1984 discovery image (Smith & Terrile, Las Campanas coronagraph) predates arXiv; add if desired.",

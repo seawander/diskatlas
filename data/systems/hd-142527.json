@@ -374,6 +374,69 @@
     "bibcode": "2014ApJ...781...87A"
    },
    "epoch": "2012-07-23"
+  },
+  {
+   "image_id": "hd-142527_alma-b7-cont-ohashi18",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 7",
+   "wavelength_um": 870,
+   "wavelength_label": "0.87 mm continuum (Band 7; horseshoe, robust=-2)",
+   "technique": "interferometry",
+   "survey": null,
+   "file": "images/hd-142527/hd-142527_alma-b7-cont-ohashi18.png",
+   "credit": "Ohashi et al. 2018, Fig. C1 (Stokes I, crop)",
+   "paper": {
+    "first_author": "Ohashi",
+    "year": 2018,
+    "title": "Two Different Grain Size Distributions within the Protoplanetary Disk around HD 142527 Revealed by ALMA",
+    "journal": "ApJ 864, 81",
+    "arxiv": "1807.10776",
+    "bibcode": "2018ApJ...864...81O"
+   },
+   "epoch": "2016-2017"
+  },
+  {
+   "image_id": "hd-142527_alma-b7-polint-ohashi18",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 7",
+   "wavelength_um": 870,
+   "wavelength_label": "0.87 mm polarized intensity (mm-polarimetry + vectors)",
+   "technique": "interferometry",
+   "survey": null,
+   "file": "images/hd-142527/hd-142527_alma-b7-polint-ohashi18.png",
+   "credit": "Ohashi et al. 2018, Fig. 2 (polarized intensity, crop)",
+   "paper": {
+    "first_author": "Ohashi",
+    "year": 2018,
+    "title": "Two Different Grain Size Distributions within the Protoplanetary Disk around HD 142527 Revealed by ALMA",
+    "journal": "ApJ 864, 81",
+    "arxiv": "1807.10776",
+    "bibcode": "2018ApJ...864...81O"
+   },
+   "epoch": "2016-2017"
+  },
+  {
+   "image_id": "hd-142527_alma-co32-ohashi18",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 7",
+   "wavelength_um": 870,
+   "wavelength_label": "CO J=3-2 peak intensity (gas line)",
+   "technique": "interferometry",
+   "survey": null,
+   "file": "images/hd-142527/hd-142527_alma-co32-ohashi18.png",
+   "credit": "Ohashi et al. 2018, Fig. C3 (CO 3-2 peak, crop)",
+   "paper": {
+    "first_author": "Ohashi",
+    "year": 2018,
+    "title": "Two Different Grain Size Distributions within the Protoplanetary Disk around HD 142527 Revealed by ALMA",
+    "journal": "ApJ 864, 81",
+    "arxiv": "1807.10776",
+    "bibcode": "2018ApJ...864...81O"
+   },
+   "epoch": "2016-2017"
   }
  ],
  "notes": "Extreme azimuthal dust asymmetry; M-dwarf companion inside cavity.",

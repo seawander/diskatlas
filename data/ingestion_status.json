@@ -1,6 +1,6 @@
 {
  "_doc": "Per-survey ingestion state. entries/coords/images: done|partial|todo. Update on every ingest.",
- "updated": "2026-07-11: agent S within-atlas fix — split MWC 758's under-split generic JWST/NIRCam record into per-filter F187N + F200W (Wagner 2024), corrected technique coronagraphy->ADI (paper used direct imaging + ADI-KLIP, no coronagraph). Added AU Mic JCMT/SCUBA-2 850um marginally-resolved submm (Matthews 2015). 1751 records, 0 err.",
+ "updated": "2026-07-11: +7 records from agent T (deep-cut discovery): HD 142527 ALMA Band7 continuum + mm-polarized-intensity + CO(3-2) gas map (Ohashi 2018, new mm-pol & gas modalities), HR 4796A NaCo Ks PDI 2013 + NICMOS F222M first-published (Milli 2015), beta Pic NaCo L' scattered-light DISK (Milli 2014) + GPI J-band planet b 2018-11-18 post-conjunction (Nielsen 2020). Deferred HR 4796A NaCo L' (epoch ambiguous). Marino 2015 rejected (models). 1758 records, 0 err.",
  "surveys": {
   "DSHARP": {
    "entries": "done",
