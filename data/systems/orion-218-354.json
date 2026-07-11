@@ -1,0 +1,53 @@
+{
+ "id": "orion-218-354",
+ "name": "Orion 218-354",
+ "alt_names": [
+  "V494 Ori",
+  "[OW94] 218-354"
+ ],
+ "simbad": "[OW94] 218-354",
+ "ra_deg": 83.84086057732,
+ "dec_deg": -5.39830384706,
+ "dist_pc": 414.0,
+ "sptype": null,
+ "region": "Orion Nebula (M42)",
+ "categories": [
+  "protoplanetary"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "image_id": "orion-218-354_magao-halpha-sdi",
+   "type": "disk_scattered",
+   "facility": "Magellan-MagAO",
+   "instrument": "VisAO",
+   "wavelength_um": 0.6566,
+   "wavelength_label": "H-alpha 656.6 nm (SDI difference; silhouette disk)",
+   "technique": "other",
+   "survey": null,
+   "file": "images/orion-218-354/orion-218-354_magao-halpha-sdi.png",
+   "credit": "Follette et al. 2013, Fig. 1 (SDI difference, crop)",
+   "paper": {
+    "first_author": "Follette",
+    "year": 2013,
+    "title": "The First Circumstellar Disk Imaged in Silhouette at Visible Wavelengths with Adaptive Optics",
+    "journal": "ApJ 775, L38",
+    "arxiv": "1308.4147",
+    "bibcode": "2013ApJ...775L..13F"
+   },
+   "epoch": "2012-12-06"
+  }
+ ],
+ "notes": "Silhouette (absorption) disk in the Orion Nebula seen against the nebular H-alpha background; first circumstellar disk imaged in silhouette from the ground with adaptive optics (Follette et al. 2013, Magellan MagAO/VisAO SDI). Distance = Orion Nebula Cluster (~414 pc). Added 2026-07-11.",
+ "last_updated": "2026-07-11",
+ "plx_mas": null,
+ "mags": {
+  "B": 14.524,
+  "V": 13.485,
+  "I": 11.623,
+  "G": 12.66,
+  "J": 10.35,
+  "H": 9.708,
+  "K": 9.382
+ }
+}

@@ -1,6 +1,6 @@
 {
  "_doc": "Per-survey ingestion state. entries/coords/images: done|partial|todo. Update on every ingest.",
- "updated": "2026-07-11: NEW SYSTEM v883-ori (V883 Ori, landmark FUor water snow-line disk, Orion L1641) with 5 resolved ALMA bands: Band 6 1.3mm water snow-line (Cieza 2016 Nature) + Band 6 combined-config (Cieza 2018) + Band 7 0.88mm / Band 4 2.0mm / Band 3 3.1mm (Houge 2024). 475 systems, 1763 records, 0 err.",
+ "updated": "2026-07-11: NEW SYSTEM orion-218-354 (Orion 218-354 / V494 Ori) — first ground-based AO silhouette disk, Magellan MagAO/VisAO H-alpha 656.6nm SDI difference image (Follette 2013, obs 2012-12-06), Orion Nebula ~414pc. Also ran fresh_papers.py (21d): flagged new PDS 70 / beta Pic / BHR 71 / HR 4796A imaging candidates -> agent W in flight. 476 systems, 1765 records, 0 err.",
  "surveys": {
   "DSHARP": {
    "entries": "done",
