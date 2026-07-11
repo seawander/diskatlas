@@ -50,7 +50,7 @@
    "epoch": "2016-04-01"
   }
  ],
- "notes": "B9.5V member of the Lower Centaurus Crux subgroup of Sco-Cen, age ~16 Myr. Companion HIP 64892 B discovered with VLT/SPHERE during the SHINE survey; also recovered in archival 2011 VLT/NACO L' sparse-aperture-masking data. No resolved circumstellar disk is detected; the paper models upper limits on an undetected debris disk (Appendix A) and explores in-situ disk-instability formation for the companion (Appendix B), but categorizes this as a planet/brown-dwarf-only system.",
+ "notes": "B9.5V member of the Lower Centaurus Crux subgroup of Sco-Cen, age ~16 Myr. Companion HIP 64892 B was discovered with VLT/SPHERE during the SHINE survey and recovered in archival 2011 VLT/NACO L' sparse-aperture-masking data (Cheetham+2018). No resolved circumstellar disk is detected; the paper models upper limits on an undetected debris disk and explores in-situ disk-instability formation for the companion, but categorizes this as a planet/brown-dwarf-only system.",
  "last_updated": "2026-07-06",
  "mags": {
   "V": 6.79,

@@ -65,6 +65,27 @@
     "bibcode": "2026A&A...705A.238V"
    },
    "epoch": null
+  },
+  {
+   "image_id": "2mass-j16083070-3828268_alma-kurtovic26",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "continuum",
+   "wavelength_um": 1300,
+   "wavelength_label": "mm dust continuum (ALMA archival substructure gallery)",
+   "technique": "interferometry",
+   "survey": null,
+   "file": "images/2mass-j16083070-3828268/2mass-j16083070-3828268_alma-kurtovic26.png",
+   "credit": "Kurtovic et al. 2026, Fig. 25 (ALMA archival gallery, crop)",
+   "paper": {
+    "first_author": "Kurtovic",
+    "year": 2026,
+    "title": "An archival summary: 15 years of ALMA observations on disks and planet formation",
+    "journal": "arXiv",
+    "arxiv": "2605.30023",
+    "bibcode": "2026arXiv260530023K"
+   },
+   "epoch": null
   }
  ],
  "notes": "Transition disk in Lupus 3 with resolved cavity; VLT/SPHERE IRDIS PDI (H- and J-band) polarized-intensity imaging shows two bright crescents flanking a dark cavity plus a faint 'rear-facing' near side, indicating a moderately inclined disk (Villenave et al. 2019, arXiv:1902.04612, also covers RX J1852.3-3700 = J1852, already in atlas).",

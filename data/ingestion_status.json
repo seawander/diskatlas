@@ -1,6 +1,6 @@
 {
  "_doc": "Per-survey ingestion state. entries/coords/images: done|partial|todo. Update on every ingest.",
- "updated": "2026-07-11: Vioque 2026 (2512.00157) transition-disk gallery COMPLETE - all 97 panels in (Fig 1 ex-Sun + Fig A.1). 72 held disks +Vioque companion-overlay record; 25 NEW systems created (15 SIMBAD-resolved + 9 J-names recovered by parsing 2MASS coords from the paper + CIDA 1). Notable new: RX J1604.3-2130 (J160421.7) was genuinely missing. Atlas at 510 systems, 1916 records, 0 err.",
+ "updated": "2026-07-11: Kurtovic 2026 (2605.30023) ALMA archival gallery COMPLETE - Figs 22-25 (~185 panels). Figs 22-24: 30 held re-display records. Fig 25 (154 rings): 111 more held records + 10 NEW systems (J17110392, Haro 6-37B, J16000236, J11095340, MHO 1, J16100501, Sz 69/73/113, Sz 74 B). Also beta Pic: Apai 2015 Fig 1 two-epoch STIS (1997+2012 log-scaled) + Heap 2000 OG STIS. 520 systems.",
  "surveys": {
   "DSHARP": {
    "entries": "done",

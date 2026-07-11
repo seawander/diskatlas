@@ -35,6 +35,27 @@
     "bibcode": "2026A&A...705A.238V"
    },
    "epoch": null
+  },
+  {
+   "image_id": "j16140792_alma-kurtovic26",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "continuum",
+   "wavelength_um": 1300,
+   "wavelength_label": "mm dust continuum (ALMA archival substructure gallery)",
+   "technique": "interferometry",
+   "survey": null,
+   "file": "images/j16140792/j16140792_alma-kurtovic26.png",
+   "credit": "Kurtovic et al. 2026, Fig. 25 (ALMA archival gallery, crop)",
+   "paper": {
+    "first_author": "Kurtovic",
+    "year": 2026,
+    "title": "An archival summary: 15 years of ALMA observations on disks and planet formation",
+    "journal": "arXiv",
+    "arxiv": "2605.30023",
+    "bibcode": "2026arXiv260530023K"
+   },
+   "epoch": null
   }
  ],
  "notes": "Transition disk with an inner dust cavity; ALMA continuum from the Vioque et al. 2026 gallery. Coords parsed from the 2MASS identifier. Added 2026-07-11.",

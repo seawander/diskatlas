@@ -80,6 +80,27 @@
     "bibcode": "2019MNRAS.482..698C"
    },
    "epoch": "2017-07-13"
+  },
+  {
+   "image_id": "iso-oph-37_alma-kurtovic26",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "continuum",
+   "wavelength_um": 1300,
+   "wavelength_label": "mm dust continuum (ALMA archival substructure gallery)",
+   "technique": "interferometry",
+   "survey": null,
+   "file": "images/iso-oph-37/iso-oph-37_alma-kurtovic26.png",
+   "credit": "Kurtovic et al. 2026, Fig. 25 (ALMA archival gallery, crop)",
+   "paper": {
+    "first_author": "Kurtovic",
+    "year": 2026,
+    "title": "An archival summary: 15 years of ALMA observations on disks and planet formation",
+    "journal": "arXiv",
+    "arxiv": "2605.30023",
+    "bibcode": "2026arXiv260530023K"
+   },
+   "epoch": null
   }
  ],
  "notes": "AUTO-CREATED from staging - fill metadata & coords Added 2026-07-08 (AGE-PRO ALMA, Vioque+2025 resolved). Merged the duplicate 'iso-oph-37' system (ODISEA record) into this one 2026-07-09; GY 21 = [GY92] 21 = ISO-Oph 37 (SIMBAD-verified).",

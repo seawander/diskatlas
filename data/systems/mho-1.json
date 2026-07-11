@@ -1,0 +1,42 @@
+{
+ "id": "mho-1",
+ "name": "MHO 1",
+ "alt_names": [],
+ "simbad": "MHO 1",
+ "ra_deg": 63.609451,
+ "dec_deg": 28.100909,
+ "dist_pc": 140.0,
+ "sptype": null,
+ "region": "Taurus",
+ "categories": [
+  "protoplanetary"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "image_id": "mho-1_alma-kurtovic26",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "continuum",
+   "wavelength_um": 1300,
+   "wavelength_label": "mm dust continuum (ALMA archival substructure gallery)",
+   "technique": "interferometry",
+   "survey": null,
+   "file": "images/mho-1/mho-1_alma-kurtovic26.png",
+   "credit": "Kurtovic et al. 2026, Fig. 25 (ALMA archival gallery, crop)",
+   "paper": {
+    "first_author": "Kurtovic",
+    "year": 2026,
+    "title": "An archival summary: 15 years of ALMA observations on disks and planet formation",
+    "journal": "arXiv",
+    "arxiv": "2605.30023",
+    "bibcode": "2026arXiv260530023K"
+   },
+   "epoch": null
+  }
+ ],
+ "notes": "Structured (ring/substructure) disk; ALMA continuum from the Kurtovic et al. 2026 archival gallery (Fig. 25). Added 2026-07-11.",
+ "last_updated": "2026-07-11",
+ "plx_mas": null,
+ "mags": null
+}

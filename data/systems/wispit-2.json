@@ -196,8 +196,29 @@
    },
    "file": "images/wispit-2/wispit-2_sphere-h-2025sep.png",
    "epoch": "2025-09-24"
+  },
+  {
+   "image_id": "wispit-2_alma-kurtovic26",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "continuum",
+   "wavelength_um": 1300,
+   "wavelength_label": "mm dust continuum (ALMA archival substructure gallery)",
+   "technique": "interferometry",
+   "survey": null,
+   "file": "images/wispit-2/wispit-2_alma-kurtovic26.png",
+   "credit": "Kurtovic et al. 2026, Fig. 25 (ALMA archival gallery, crop)",
+   "paper": {
+    "first_author": "Kurtovic",
+    "year": 2026,
+    "title": "An archival summary: 15 years of ALMA observations on disks and planet formation",
+    "journal": "arXiv",
+    "arxiv": "2605.30023",
+    "bibcode": "2026arXiv260530023K"
+   },
+   "epoch": null
   }
  ],
- "notes": "Second known multi-planet system caught in formation inside its natal disk (PDS 70 analogue).",
+ "notes": "The second known multi-planet system caught in formation inside its natal disk, a PDS 70 analogue (Close+2025; van Capelleveen+2025).",
  "last_updated": "2026-07-06"
 }

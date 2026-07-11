@@ -43,6 +43,27 @@
    },
    "file": "images/so-1274/so-1274_alma2024.png",
    "epoch": "2023 Jul 19"
+  },
+  {
+   "image_id": "so-1274_alma-kurtovic26",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "continuum",
+   "wavelength_um": 1300,
+   "wavelength_label": "mm dust continuum (ALMA archival substructure gallery)",
+   "technique": "interferometry",
+   "survey": null,
+   "file": "images/so-1274/so-1274_alma-kurtovic26.png",
+   "credit": "Kurtovic et al. 2026, Fig. 25 (ALMA archival gallery, crop)",
+   "paper": {
+    "first_author": "Kurtovic",
+    "year": 2026,
+    "title": "An archival summary: 15 years of ALMA observations on disks and planet formation",
+    "journal": "arXiv",
+    "arxiv": "2605.30023",
+    "bibcode": "2026arXiv260530023K"
+   },
+   "epoch": null
   }
  ],
  "notes": "Most striking disk in the Huang et al. 2024 sigma Orionis ALMA survey: five gaps resolved directly in the CLEAN-image radial profile, nearly arranged in a resonant chain (inner three gaps D57/D42/D27 near 3:2:1 period ratio).",

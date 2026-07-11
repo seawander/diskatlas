@@ -58,7 +58,7 @@
    "epoch": "2018-11-29"
   }
  ],
- "notes": "AUTO-CREATED from staging - fill metadata & coords Added 2026-07-08 (post-AGB binary disc).",
+ "notes": "Post-AGB binary whose circumbinary disc was resolved with VLTI/PIONIER interferometry (De Prins+2026) and SPHERE/IRDIS polarimetry (Andrych+2023).",
  "last_updated": "2026-07-08",
  "plx_mas": null,
  "mags": null

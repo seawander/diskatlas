@@ -46,6 +46,27 @@
     "bibcode": "2025ApJ...989....3D"
    },
    "epoch": "2018-2022"
+  },
+  {
+   "image_id": "sz-66_alma-kurtovic26",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "continuum",
+   "wavelength_um": 1300,
+   "wavelength_label": "mm dust continuum (ALMA archival substructure gallery)",
+   "technique": "interferometry",
+   "survey": null,
+   "file": "images/sz-66/sz-66_alma-kurtovic26.png",
+   "credit": "Kurtovic et al. 2026, Fig. 25 (ALMA archival gallery, crop)",
+   "paper": {
+    "first_author": "Kurtovic",
+    "year": 2026,
+    "title": "An archival summary: 15 years of ALMA observations on disks and planet formation",
+    "journal": "arXiv",
+    "arxiv": "2605.30023",
+    "bibcode": "2026arXiv260530023K"
+   },
+   "epoch": null
   }
  ],
  "notes": "AGE-PRO Lupus target (Lupus 8 in Deng et al. 2025). Compact protoplanetary disk; the 1.3 mm continuum is only marginally resolved (~0.35\" / ~54 au beam).",

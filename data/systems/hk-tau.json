@@ -33,9 +33,30 @@
     "bibcode": "2019ApJ...882...49L"
    },
    "epoch": "2017-08-31"
+  },
+  {
+   "image_id": "hk-tau_alma-kurtovic26",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "continuum",
+   "wavelength_um": 1300,
+   "wavelength_label": "mm dust continuum (ALMA archival substructure gallery)",
+   "technique": "interferometry",
+   "survey": null,
+   "file": "images/hk-tau/hk-tau_alma-kurtovic26.png",
+   "credit": "Kurtovic et al. 2026, Fig. 25 (ALMA archival gallery, crop)",
+   "paper": {
+    "first_author": "Kurtovic",
+    "year": 2026,
+    "title": "An archival summary: 15 years of ALMA observations on disks and planet formation",
+    "journal": "arXiv",
+    "arxiv": "2605.30023",
+    "bibcode": "2026arXiv260530023K"
+   },
+   "epoch": null
   }
  ],
- "notes": "Close binary (2.3\"): the edge-on disk of the companion is a separate system, hk-tau-b (split 2026-07-07). This entry = HK Tau A circumprimary disk.",
+ "notes": "Close binary (2.3 arcsec): the edge-on disk of the companion is a separate system, hk-tau-b (split 2026-07-07). This entry is the HK Tau A circumprimary disk, resolved with ALMA Band 6 (Long+2019).",
  "last_updated": "2026-07-07",
  "plx_mas": 7.6247,
  "mags": {

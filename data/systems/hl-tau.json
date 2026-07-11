@@ -221,9 +221,30 @@
     "title": "Unveiling the Circumstellar Envelope and Disk: A Subarcsecond Survey of Circumstellar Structures"
    },
    "epoch": "1996-1998"
+  },
+  {
+   "image_id": "hl-tau_alma-kurtovic26",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "continuum",
+   "wavelength_um": 1300,
+   "wavelength_label": "mm dust continuum (ALMA archival substructure gallery)",
+   "technique": "interferometry",
+   "survey": null,
+   "file": "images/hl-tau/hl-tau_alma-kurtovic26.png",
+   "credit": "Kurtovic et al. 2026, Fig. 25 (ALMA archival gallery, crop)",
+   "paper": {
+    "first_author": "Kurtovic",
+    "year": 2026,
+    "title": "An archival summary: 15 years of ALMA observations on disks and planet formation",
+    "journal": "arXiv",
+    "arxiv": "2605.30023",
+    "bibcode": "2026arXiv260530023K"
+   },
+   "epoch": null
   }
  ],
- "notes": "The first iconic ALMA ring system.",
+ "notes": "The first iconic ALMA ring system (ALMA Partnership+2015).",
  "last_updated": "2026-07-08",
  "mags": {
   "B": 15.89,

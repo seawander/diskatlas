@@ -1130,6 +1130,48 @@
     "bibcode": "2000ApJ...539..435H"
    },
    "epoch": "1997"
+  },
+  {
+   "image_id": "beta-pic_stis-1997-apai15",
+   "type": "disk_scattered",
+   "facility": "HST",
+   "instrument": "STIS",
+   "wavelength_um": 0.58,
+   "wavelength_label": "STIS coronagraphy (log-scaled; 1997 epoch)",
+   "technique": "coronagraphy",
+   "survey": null,
+   "file": "images/beta-pic/beta-pic_stis-1997-apai15.png",
+   "credit": "Apai et al. 2015, Fig. 1 (1997 panel, crop)",
+   "paper": {
+    "first_author": "Apai",
+    "year": 2015,
+    "title": "The Inner Disk Structure, Disk-Planet Interactions, and Temporal Evolution in the Beta Pictoris System: A Two-Epoch HST/STIS Coronagraphic Study",
+    "journal": "ApJ 800, 136",
+    "arxiv": "1501.03181",
+    "bibcode": "2015ApJ...800..136A"
+   },
+   "epoch": "1997"
+  },
+  {
+   "image_id": "beta-pic_stis-2012-apai15",
+   "type": "disk_scattered",
+   "facility": "HST",
+   "instrument": "STIS",
+   "wavelength_um": 0.58,
+   "wavelength_label": "STIS coronagraphy (log-scaled; 2012 epoch)",
+   "technique": "coronagraphy",
+   "survey": null,
+   "file": "images/beta-pic/beta-pic_stis-2012-apai15.png",
+   "credit": "Apai et al. 2015, Fig. 1 (2012 panel, crop)",
+   "paper": {
+    "first_author": "Apai",
+    "year": 2015,
+    "title": "The Inner Disk Structure, Disk-Planet Interactions, and Temporal Evolution in the Beta Pictoris System: A Two-Epoch HST/STIS Coronagraphic Study",
+    "journal": "ApJ 800, 136",
+    "arxiv": "1501.03181",
+    "bibcode": "2015ApJ...800..136A"
+   },
+   "epoch": "2012"
   }
  ],
  "notes": "Original 1984 discovery image (Smith & Terrile, Las Campanas coronagraph) predates arXiv; add if desired.",

@@ -43,6 +43,27 @@
    },
    "file": "images/so-897/so-897_alma2024.png",
    "epoch": "2023 Jul 28"
+  },
+  {
+   "image_id": "so-897_alma-kurtovic26",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "continuum",
+   "wavelength_um": 1300,
+   "wavelength_label": "mm dust continuum (ALMA archival substructure gallery)",
+   "technique": "interferometry",
+   "survey": null,
+   "file": "images/so-897/so-897_alma-kurtovic26.png",
+   "credit": "Kurtovic et al. 2026, Fig. 25 (ALMA archival gallery, crop)",
+   "paper": {
+    "first_author": "Kurtovic",
+    "year": 2026,
+    "title": "An archival summary: 15 years of ALMA observations on disks and planet formation",
+    "journal": "arXiv",
+    "arxiv": "2605.30023",
+    "bibcode": "2026arXiv260530023K"
+   },
+   "epoch": null
   }
  ],
  "notes": "Resolved inner cavity with a strongly asymmetric ring (previously flagged as a transition disk candidate by Hernandez et al. 2007); Huang et al. 2024 ALMA image shows a lopsided double-peaked emission structure across the major axis.",

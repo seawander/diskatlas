@@ -63,6 +63,27 @@
     "bibcode": "2026A&A...705A.238V"
    },
    "epoch": null
+  },
+  {
+   "image_id": "iras-16072-2057_alma-kurtovic26",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "continuum",
+   "wavelength_um": 1300,
+   "wavelength_label": "mm dust continuum (ALMA archival substructure gallery)",
+   "technique": "interferometry",
+   "survey": null,
+   "file": "images/iras-16072-2057/iras-16072-2057_alma-kurtovic26.png",
+   "credit": "Kurtovic et al. 2026, Fig. 25 (ALMA archival gallery, crop)",
+   "paper": {
+    "first_author": "Kurtovic",
+    "year": 2026,
+    "title": "An archival summary: 15 years of ALMA observations on disks and planet formation",
+    "journal": "arXiv",
+    "arxiv": "2605.30023",
+    "bibcode": "2026arXiv260530023K"
+   },
+   "epoch": null
   }
  ],
  "notes": "First-published SPHERE/IRDIS H-band polarimetric image (DESTINYS). Extremely clean detection of a moderately inclined disk with a 25 au inner cavity and clearly resolved back side; the fifth brightest disk of the entire NIR census, visible even in the intensity image on top of the stellar PSF. Disk features: cavity + back side (Garufi et al. 2026, Table A.5/Fig. A.1).",

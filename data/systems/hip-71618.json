@@ -81,6 +81,6 @@
    "epoch": "2024-02-23"
   }
  ],
- "notes": "HIP 71618 B discovered by the OASIS survey combining Hipparcos-Gaia astrometric acceleration with SCExAO/CHARIS (JHK, 2024-2025) and Keck/NIRC2 (Lp) direct imaging; separation ~0.3 arcsec (~11 au). Dynamical mass 60-65 Mjup (prior-dependent); atmospheric fits favor M6-M8, Teff ~2600-2800 K.",
+ "notes": "HIP 71618 B was discovered by the OASIS survey, combining a Hipparcos-Gaia astrometric acceleration with SCExAO/CHARIS (JHK, 2024-2025) and Keck/NIRC2 (Lp) direct imaging (El Morsy+2025); separation ~0.3 arcsec (~11 au). Dynamical mass 60-65 Mjup (prior-dependent); atmospheric fits favor M6-M8, Teff ~2600-2800 K.",
  "last_updated": "2026-07-06"
 }

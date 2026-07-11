@@ -57,7 +57,7 @@
    "epoch": "2016"
   }
  ],
- "notes": "Class I protostar in the rho Ophiuchus (L1688) molecular cloud. ALMA Band 3 (3.1mm) and Band 7 (0.87mm) reveal different disk substructures (off-center hole in Band 7, central symmetric hole in Band 3) and a low mean spectral index (alpha=2.28+/-0.02), suggestive of grain growth and dust segregation on the protostellar-disk scale; disk may be massive and gravitationally unstable, possibly forming a single Jupiter-mass protoplanet via gravitational instability. Distance of 137 pc adopted as the mean distance to the L1688 region.",
+ "notes": "Class I protostar in the rho Ophiuchus (L1688) molecular cloud. ALMA Band 7 (0.87mm; Han+2023) and Band 3 (3.1mm; Gulick+2021) reveal different disk substructures (an off-center hole in Band 7, a central symmetric hole in Band 3) and a low mean spectral index (alpha=2.28+/-0.02), suggestive of grain growth and dust segregation on the protostellar-disk scale; the disk may be massive and gravitationally unstable, possibly forming a single Jupiter-mass protoplanet. Distance of 137 pc adopted as the mean distance to the L1688 region.",
  "last_updated": "2026-07-08",
  "mags": {
   "J": 18.9,

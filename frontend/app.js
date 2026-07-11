@@ -61,13 +61,21 @@ function adsUrl(p) {
 /* Every paper a system records (image, planet discovery, extra_papers), indexed
    by "<first-author surname>|<year>" so an inline citation mention in free-text
    notes can link to that real abstract instead of a blind author search. */
+/* surname key for citation matching: last whitespace-separated token, accents
+   stripped, lowercased — so "Huélamo"/"Huelamo" collide and "van Capelleveen"
+   keys on "capelleveen". Both citeIndex and linkifyCitations use it, so a
+   mention links to the recorded paper regardless of accent spelling. */
+function citeSurname(name) {
+  return String(name).trim().split(/\s+/).pop()
+    .normalize("NFKD").replace(/[̀-ͯ]/g, "").toLowerCase();
+}
 function citeIndex(s) {
   const idx = {};
   const add = p => {
     if (!p || !p.first_author || !p.year) return;
     const url = adsUrl(p) || arxivUrl(p);
     if (!url) return;
-    const surname = String(p.first_author).trim().split(/\s+/).pop().toLowerCase();
+    const surname = citeSurname(p.first_author);
     const key = surname + "|" + p.year;
     if (!idx[key]) idx[key] = url;                 // first paper for a surname/year wins
   };
@@ -82,18 +90,18 @@ function linkifyCitations(escapedText, idx) {
   if (!escapedText) return "";
   idx = idx || {};
   const link = (m, name, year) => {
-    const surname = String(name).trim().split(/\s+/).pop().toLowerCase();
+    const surname = citeSurname(name);
     const href = idx[surname + "|" + year] ||
       "https://scixplorer.org/search?q=" +
       encodeURIComponent('author:"' + name + '" year:' + year) + "&sort=score+desc";
     return '<a href="' + href + '" target="_blank" rel="noopener">' + m + "</a>";
   };
   return escapedText
-    .replace(/\b((?:(?:De|Del|Van|Von|Le|La|Di|Da|Mac|Mc|O')\s+)?[A-Z][A-Za-z'-]+)\+((?:19|20)\d{2}[a-z]?)\b/g,
+    .replace(/\b((?:(?:De|Del|Van|Von|Le|La|Di|Da|Mac|Mc|El|O')\s+)?[A-Z][A-Za-zÀ-ÿ'-]+)\+((?:19|20)\d{2}[a-z]?)\b/g,
              (m, n, y) => link(m, n, y.replace(/[a-z]$/, "")))
-    .replace(/\b((?:(?:De|Del|Van|Von|Le|La|Di|Da|Mac|Mc|O')\s+)?[A-Z][A-Za-z'-]+)(?:\s*(?:&amp;|&)\s*[A-Z][A-Za-z'-]+)?\s+et al\.?,?\s+\(?((?:19|20)\d{2})\)?/g,
+    .replace(/\b((?:(?:De|Del|Van|Von|Le|La|Di|Da|Mac|Mc|El|O')\s+)?[A-Z][A-Za-zÀ-ÿ'-]+)(?:\s*(?:&amp;|&)\s*[A-Z][A-Za-zÀ-ÿ'-]+)?\s+et al\.?,?\s+\(?((?:19|20)\d{2})\)?/g,
              (m, n, y) => link(m, n, y))
-    .replace(/\b([A-Z][A-Za-z'-]+)\s*(?:&amp;|&)\s*[A-Z][A-Za-z'-]+\s+\(?((?:19|20)\d{2})\)?/g,
+    .replace(/\b([A-Z][A-Za-zÀ-ÿ'-]+)\s*(?:&amp;|&)\s*[A-Z][A-Za-zÀ-ÿ'-]+\s+\(?((?:19|20)\d{2})\)?/g,
              (m, n, y) => link(m, n, y));
 }
 
