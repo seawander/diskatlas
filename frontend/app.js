@@ -535,9 +535,10 @@ if (typeof window !== "undefined") (function () {
     draw();
   });
   canvas.addEventListener("click", e => {
-    if (moved) return;
+    if (moved) return;                                 // a pan, not a click
     const s = hitTest(e.clientX, e.clientY);
-    if (s) openDetail(s);
+    if (s) openDetail(s);                              // clicked a target → open it
+    else if (!detail.hidden) closeDetail();            // clicked empty sky → dismiss the open card
   });
   canvas.addEventListener("dblclick", e => {
     const c = unproject(e.clientX, e.clientY, view, W, H);

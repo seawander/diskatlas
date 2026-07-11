@@ -38,16 +38,16 @@
  ],
  "images": [
   {
-   "image_id": "hip-54515_scexao-currie26",
+   "image_id": "hip-54515_charis-2022-12-30",
    "type": "planet",
-   "facility": "Subaru",
-   "instrument": "SCExAO/CHARIS",
+   "facility": "Subaru-SCExAO",
+   "instrument": "CHARIS",
    "wavelength_um": 1.65,
-   "wavelength_label": "H band 1.65 um direct image (5 epochs)",
-   "technique": "coronagraphy",
+   "wavelength_label": "H band 1.65 um (wavelength-collapsed; companion b, 2022 Dec 30)",
+   "technique": "ADI",
    "survey": null,
-   "file": "images/hip-54515/hip-54515_scexao-currie26.png",
-   "credit": "Currie et al. 2026, Fig. 2 (crop)",
+   "file": "images/hip-54515/hip-54515_charis-2022-12-30.png",
+   "credit": "Currie et al. 2026, Fig. 2 (2022 Dec 30 panel, crop)",
    "paper": {
     "first_author": "Currie",
     "year": 2026,
@@ -56,7 +56,91 @@
     "arxiv": "2512.02159",
     "bibcode": "2026AJ....171....5C"
    },
-   "epoch": "2022 Dec 30"
+   "epoch": "2022-12-30"
+  },
+  {
+   "image_id": "hip-54515_charis-2024-02-20",
+   "type": "planet",
+   "facility": "Subaru-SCExAO",
+   "instrument": "CHARIS",
+   "wavelength_um": 1.65,
+   "wavelength_label": "H band 1.65 um (wavelength-collapsed; companion b, 2024 Feb 20)",
+   "technique": "ADI",
+   "survey": null,
+   "file": "images/hip-54515/hip-54515_charis-2024-02-20.png",
+   "credit": "Currie et al. 2026, Fig. 2 (2024 Feb 20 panel, crop)",
+   "paper": {
+    "first_author": "Currie",
+    "year": 2026,
+    "title": "SCExAO/CHARIS and Gaia Direct Imaging and Astrometric Discovery of a Superjovian Planet 3-4 lambda/D from the Accelerating Star HIP 54515",
+    "journal": "AJ (2026)",
+    "arxiv": "2512.02159",
+    "bibcode": "2026AJ....171....5C"
+   },
+   "epoch": "2024-02-20"
+  },
+  {
+   "image_id": "hip-54515_charis-2024-04-27",
+   "type": "planet",
+   "facility": "Subaru-SCExAO",
+   "instrument": "CHARIS",
+   "wavelength_um": 1.65,
+   "wavelength_label": "H band 1.65 um (wavelength-collapsed; companion b, 2024 Apr 27)",
+   "technique": "ADI",
+   "survey": null,
+   "file": "images/hip-54515/hip-54515_charis-2024-04-27.png",
+   "credit": "Currie et al. 2026, Fig. 2 (2024 Apr 27 panel, crop)",
+   "paper": {
+    "first_author": "Currie",
+    "year": 2026,
+    "title": "SCExAO/CHARIS and Gaia Direct Imaging and Astrometric Discovery of a Superjovian Planet 3-4 lambda/D from the Accelerating Star HIP 54515",
+    "journal": "AJ (2026)",
+    "arxiv": "2512.02159",
+    "bibcode": "2026AJ....171....5C"
+   },
+   "epoch": "2024-04-27"
+  },
+  {
+   "image_id": "hip-54515_charis-2025-03-15",
+   "type": "planet",
+   "facility": "Subaru-SCExAO",
+   "instrument": "CHARIS",
+   "wavelength_um": 1.65,
+   "wavelength_label": "H band 1.65 um (wavelength-collapsed; companion b, 2025 Mar 15)",
+   "technique": "ADI",
+   "survey": null,
+   "file": "images/hip-54515/hip-54515_charis-2025-03-15.png",
+   "credit": "Currie et al. 2026, Fig. 2 (2025 Mar 15 panel, crop)",
+   "paper": {
+    "first_author": "Currie",
+    "year": 2026,
+    "title": "SCExAO/CHARIS and Gaia Direct Imaging and Astrometric Discovery of a Superjovian Planet 3-4 lambda/D from the Accelerating Star HIP 54515",
+    "journal": "AJ (2026)",
+    "arxiv": "2512.02159",
+    "bibcode": "2026AJ....171....5C"
+   },
+   "epoch": "2025-03-15"
+  },
+  {
+   "image_id": "hip-54515_charis-2025-05-13",
+   "type": "planet",
+   "facility": "Subaru-SCExAO",
+   "instrument": "CHARIS",
+   "wavelength_um": 1.65,
+   "wavelength_label": "H band 1.65 um (wavelength-collapsed; companion b, 2025 May 13)",
+   "technique": "ADI",
+   "survey": null,
+   "file": "images/hip-54515/hip-54515_charis-2025-05-13.png",
+   "credit": "Currie et al. 2026, Fig. 2 (2025 May 13 panel, crop)",
+   "paper": {
+    "first_author": "Currie",
+    "year": 2026,
+    "title": "SCExAO/CHARIS and Gaia Direct Imaging and Astrometric Discovery of a Superjovian Planet 3-4 lambda/D from the Accelerating Star HIP 54515",
+    "journal": "AJ (2026)",
+    "arxiv": "2512.02159",
+    "bibcode": "2026AJ....171....5C"
+   },
+   "epoch": "2025-05-13"
   }
  ],
  "notes": "Directly-imaged companion host (Currie+2026); coordinates pending SIMBAD resolution.",
