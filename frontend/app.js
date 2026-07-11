@@ -837,8 +837,8 @@ if (typeof window !== "undefined") (function () {
     draw();
   }
   document.getElementById("closebtn").onclick = closeDetail;
-  document.getElementById("d_prev").onclick = () => showImg(curImg - 1);
-  document.getElementById("d_next").onclick = () => showImg(curImg + 1);
+  document.getElementById("d_prev").onclick = () => showImg(curImg - 1, -1);
+  document.getElementById("d_next").onclick = () => showImg(curImg + 1, 1);
   /* touch gestures on the detail image:
        · pinch (2 fingers) / double-tap → zoom (1×–5×), drag → pan when zoomed
        · swipe left/right (when not zoomed) → previous/next image
@@ -848,8 +848,9 @@ if (typeof window !== "undefined") (function () {
   (function imgGestures() {
     const box = document.getElementById("d_imgbox");
     if (!box) return;
-    let scale = 1, tx = 0, ty = 0, mode = null, sx = 0, sy = 0, lx = 0, ly = 0, pd0 = 0, s0 = 1, lastTap = 0;
+    let scale = 1, tx = 0, ty = 0, mode = null, sx = 0, sy = 0, lx = 0, ly = 0, pd0 = 0, s0 = 1, lastTap = 0, swiping = false;
     const img = () => box.querySelector("img");
+    const W = () => box.clientWidth || 380;
     function apply() {
       const im = img();
       if (im) im.style.transform = "translate(" + tx.toFixed(1) + "px," + ty.toFixed(1) + "px) scale(" + scale.toFixed(3) + ")";
@@ -861,10 +862,20 @@ if (typeof window !== "undefined") (function () {
       const ey = Math.max(0, (im.clientHeight * scale - box.clientHeight) / 2);
       tx = Math.max(-ex, Math.min(ex, tx)); ty = Math.max(-ey, Math.min(ey, ty));
     }
-    resetImgZoom = () => { scale = 1; tx = 0; ty = 0; apply(); };
+    function slideX(im, x, done) {          // animate translateX with a CSS transition
+      if (!im) { if (done) done(); return; }
+      im.style.transition = "transform .18s ease";
+      im.style.transform = "translate(" + x + "px,0)";
+      let ran = false;
+      const fin = () => { if (ran) return; ran = true; im.style.transition = ""; if (done) done(); };
+      im.addEventListener("transitionend", fin, { once: true });
+      setTimeout(fin, 240);                 // fallback if transitionend doesn't fire
+    }
+    resetImgZoom = () => { scale = 1; tx = 0; ty = 0; swiping = false; apply(); };
     box.addEventListener("touchstart", e => {
+      const im0 = img(); if (im0) im0.style.transition = "";   // cancel any in-flight slide
       if (e.touches.length === 1) {
-        const t = e.touches[0]; sx = lx = t.clientX; sy = ly = t.clientY;
+        const t = e.touches[0]; sx = lx = t.clientX; sy = ly = t.clientY; swiping = false;
         mode = scale > 1 ? "pan" : "swipe";
       } else if (e.touches.length === 2) {
         mode = "pinch";
@@ -885,6 +896,14 @@ if (typeof window !== "undefined") (function () {
         const t = e.touches[0];
         tx += t.clientX - lx; ty += t.clientY - ly; lx = t.clientX; ly = t.clientY;
         clampPan(); apply();
+      } else if (mode === "swipe" && e.touches.length === 1) {
+        const t = e.touches[0], dx = t.clientX - sx, dy = t.clientY - sy;
+        if (!swiping && Math.abs(dx) > 8 && Math.abs(dx) > Math.abs(dy)) swiping = true;
+        if (swiping) {                        // image tracks the finger
+          e.preventDefault();
+          const im = img();
+          if (im) { im.style.transition = ""; im.style.transform = "translate(" + dx + "px,0)"; }
+        }
       }
     }, { passive: false });
     box.addEventListener("touchend", e => {
@@ -896,21 +915,26 @@ if (typeof window !== "undefined") (function () {
         return;
       }
       const t = e.changedTouches[0], dx = t.clientX - sx, dy = t.clientY - sy;
-      if (Math.abs(dx) < 12 && Math.abs(dy) < 12) {        // a tap (in ANY mode) → maybe double-tap zoom
+      if (mode === "swipe" && swiping) {                    // resolve a follow-the-finger swipe
+        const many = currentSys && sortedImages(currentSys).length >= 2;
+        if (many && Math.abs(dx) > W() * 0.22) {            // past threshold → commit
+          const dir = dx < 0 ? 1 : -1;                      // swipe left = next, right = previous
+          slideX(img(), dir > 0 ? -W() : W(), () => showImg(curImg + dir, dir));  // slide out → swap → slide in
+        } else {
+          slideX(img(), 0);                                 // snap back
+        }
+      } else if (Math.abs(dx) < 12 && Math.abs(dy) < 12) {  // a tap (any mode) → maybe double-tap zoom
         const now = Date.now();
         if (now - lastTap < 300) {
           const r = box.getBoundingClientRect();
-          if (scale > 1) { scale = 1; tx = 0; ty = 0; }    // zoomed → reset
-          else { scale = 2.5;                               // zoom in on the tapped point
+          if (scale > 1) { scale = 1; tx = 0; ty = 0; }     // zoomed → reset
+          else { scale = 2.5;                                // zoom in on the tapped point
             tx = (box.clientWidth / 2 - (t.clientX - r.left)) * scale;
             ty = (box.clientHeight / 2 - (t.clientY - r.top)) * scale; clampPan(); }
           apply(); lastTap = 0;
         } else lastTap = now;
-      } else if (mode === "swipe" && scale === 1 &&
-                 Math.abs(dx) >= 45 && Math.abs(dx) > Math.abs(dy) * 1.6) {
-        if (currentSys && sortedImages(currentSys).length >= 2) showImg(curImg + (dx < 0 ? 1 : -1));
       }
-      mode = null;
+      swiping = false; mode = null;
     }, { passive: true });
   })();
   /* swipe DOWN from the panel header (when scrolled to top) to dismiss it */
@@ -963,7 +987,7 @@ if (typeof window !== "undefined") (function () {
     });
   }
 
-  function showImg(i) {
+  function showImg(i, dir) {
     const s = currentSys; if (!s) return;
     const ims = sortedImages(s);
     if (!ims.length) {
@@ -983,6 +1007,18 @@ if (typeof window !== "undefined") (function () {
         esc(t("d_pending1")) + "<br>" + esc(t("d_pending2")) + "</div>";
     }
     if (resetImgZoom) resetImgZoom();   // clear any pinch-zoom from the previous image
+    if (dir) {                          // slide the new image in from the entering side
+      const im = box.querySelector("img");
+      if (im) {
+        const w = box.clientWidth || 380;
+        im.style.transition = "none";
+        im.style.transform = "translate(" + (dir > 0 ? w : -w) + "px,0)";
+        void im.offsetWidth;            // reflow to lock the start position
+        im.style.transition = "transform .18s ease";
+        im.style.transform = "translate(0px,0)";
+        setTimeout(() => { im.style.transition = ""; }, 240);
+      }
+    }
     document.querySelectorAll("#d_slider .tick").forEach((el, k) =>
       el.classList.toggle("on", k === curImg));
     const p = im.paper || {};
