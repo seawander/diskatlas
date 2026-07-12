@@ -40,7 +40,7 @@
    "epoch": "2016-2017"
   }
  ],
- "notes": "Protostellar disk imaged at 0.87 mm in the VANDAM Orion survey (Sheehan et al. 2020).",
+ "notes": "Class 0 protostellar disk in Orion B (HH 270/271 outflow region), imaged in the VANDAM Orion survey (Sheehan et al. 2020; ALMA 2015.1.00041.S). A legitimate standalone mm source; no YSO SIMBAD entry (only a coincident 2MASS NIR source, J05512257+0255433, at the position).",
  "last_updated": "2026-07-12",
  "plx_mas": null,
  "mags": {}

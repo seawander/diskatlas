@@ -3,9 +3,11 @@
  "name": "S68N",
  "alt_names": [
   "Serpens SMM 9",
-  "SSTc2d J182948.1+011644"
+  "SSTc2d J182948.1+011644",
+  "Serpens Emb 8",
+  "[AHA2018] Serpens S68N"
  ],
- "simbad": null,
+ "simbad": "SH 2-68 N",
  "ra_deg": 277.450375,
  "dec_deg": 1.278694,
  "dist_pc": null,
@@ -40,7 +42,7 @@
    "epoch": "2016-05"
   }
  ],
- "notes": "Protostar imaged at 1.3 mm in the Serpens Main ALMA survey (Aso et al. 2019).",
+ "notes": "Class 0 protostar (Lbol~14 Lsun, Tbol~30 K; Aso et al. 2019 Table 2), the core of the SMM9 condensation; a distinct source from the S68Nb and S68Nc protostars ~30 arcsec to the NE.",
  "last_updated": "2026-07-12",
  "plx_mas": null,
  "mags": {}

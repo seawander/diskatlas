@@ -2,7 +2,7 @@
  "id": "s68nb1",
  "name": "S68Nb1",
  "alt_names": [],
- "simbad": null,
+ "simbad": "[AHA2018] Serpens S68Nb1",
  "ra_deg": 277.456292,
  "dec_deg": 1.286361,
  "dist_pc": null,
@@ -37,7 +37,7 @@
    "epoch": "2016-05"
   }
  ],
- "notes": "Protostar imaged at 1.3 mm in the Serpens Main ALMA survey (Aso et al. 2019).",
+ "notes": "Class 0 protostar (Tbol<60 K) driving its own 12CO outflow; a distinct source from the neighboring Class I S68Nb2 (5.4 arcsec away) and from S68N (Aso et al. 2019 Table 2).",
  "last_updated": "2026-07-12",
  "plx_mas": null,
  "mags": {}

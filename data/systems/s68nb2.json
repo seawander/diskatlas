@@ -2,9 +2,10 @@
  "id": "s68nb2",
  "name": "S68Nb2",
  "alt_names": [
-  "SSTc2d J182949.5+011706"
+  "SSTc2d J182949.5+011706",
+  "[AHA2018] Serpens S68Nb2"
  ],
- "simbad": null,
+ "simbad": "2MASS J18294960+0117058",
  "ra_deg": 277.456667,
  "dec_deg": 1.284917,
  "dist_pc": null,
@@ -39,7 +40,7 @@
    "epoch": "2016-05"
   }
  ],
- "notes": "Protostar imaged at 1.3 mm in the Serpens Main ALMA survey (Aso et al. 2019).",
+ "notes": "Class I protostar (Lbol~1.2 Lsun, Tbol~570 K; Aso et al. 2019 Table 2) with a compact 12CO outflow and SO detection; a neighboring but distinct protostar from the Class 0 S68Nb1.",
  "last_updated": "2026-07-12",
  "plx_mas": null,
  "mags": {}
