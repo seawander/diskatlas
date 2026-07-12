@@ -13,8 +13,14 @@
  *                  so new code and freshly-built data.js are picked up next load.
  *
  * Bump VERSION whenever this file's caching logic changes to force a clean slate.
+ *
+ * Freshness: when the background revalidation of frontend/data.js brings back
+ * a DIFFERENT version than the one just served from cache (the atlas redeploys
+ * several times a day), the SW posts {type:'atlas-updated'} to all open pages;
+ * app.js shows a localized "tap to reload" toast. Comparison uses the ETag /
+ * Last-Modified validators, so it never happens on a first (uncached) load.
  */
-var VERSION = 'diskatlas-v1';
+var VERSION = 'diskatlas-v2';
 var SHELL = VERSION + '-shell';
 var IMGS = VERSION + '-img';
 
@@ -78,10 +84,48 @@ function staleWhileRevalidate(req, cacheName) {
   return caches.open(cacheName).then(function (cache) {
     return cache.match(req).then(function (hit) {
       var net = fetch(req).then(function (res) {
-        if (res && res.ok) cache.put(req, res.clone());
+        if (res && res.ok) {
+          var fresher = hit && isDataJs(req) && validatorChanged(hit, res);
+          var stored = cache.put(req, res.clone());
+          if (fresher) stored.then(notifyClients);   // cache updated first, then toast
+          /* the Pages deploy stamps asset URLs with ?v=<sha> (cache busting):
+             drop entries for the SAME file under an older stamp, so the shell
+             cache holds exactly one copy per asset instead of one per deploy */
+          stored.then(function () { pruneStaleQueries(cache, req); });
+        }
         return res;
       }).catch(function () { return hit; });
       return hit || net;
+    });
+  });
+}
+
+function isDataJs(req) {
+  return new URL(req.url).pathname.indexOf('/frontend/data.js') !== -1;
+}
+
+/* Only claim "changed" when BOTH responses carry the same kind of validator
+   and it differs — a missing header must never produce a false toast. */
+function validatorChanged(oldRes, newRes) {
+  var a = oldRes.headers.get('etag'), b = newRes.headers.get('etag');
+  if (a && b) return a !== b;
+  a = oldRes.headers.get('last-modified'); b = newRes.headers.get('last-modified');
+  if (a && b) return a !== b;
+  return false;
+}
+
+function notifyClients() {
+  self.clients.matchAll({ type: 'window' }).then(function (cs) {
+    cs.forEach(function (c) { c.postMessage({ type: 'atlas-updated' }); });
+  });
+}
+
+function pruneStaleQueries(cache, req) {
+  var url = new URL(req.url);
+  cache.keys().then(function (keys) {
+    keys.forEach(function (k) {
+      var u = new URL(k.url);
+      if (u.pathname === url.pathname && u.search !== url.search) cache.delete(k);
     });
   });
 }

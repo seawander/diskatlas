@@ -356,6 +356,16 @@ table.mtx th.sticky, table.mtx td.sticky {
 #d_notes .lastupd { margin-top: 8px; font-size: 11px; color: var(--dim);
   border-top: 1px dotted var(--line); padding-top: 6px; }
 
+/* service-worker freshness toast ("atlas updated — tap to reload"); slides up
+   from the bottom edge once sw.js reports a fresher data.js in the cache */
+#swtoast { position: fixed; left: 50%; bottom: 18px; transform: translate(-50%, 90px);
+  z-index: 60; background: var(--panel2); color: var(--ink);
+  border: 1px solid var(--accent); border-radius: 999px; padding: 8px 16px;
+  font: inherit; font-size: 13px; cursor: pointer;
+  box-shadow: 0 4px 18px rgba(0,0,0,.35); transition: transform .25s ease; }
+#swtoast.show { transform: translate(-50%, 0); }
+@media (prefers-reduced-motion: reduce) { #swtoast { transition: none; } }
+
 /* ---- RTL (Arabic): mirror table alignment, sticky column, and side panels.
    The canvas sky map is pixel-drawn and direction-neutral, so it is unaffected. */
 [dir="rtl"] table.mtx th, [dir="rtl"] table.mtx td { text-align: right; }

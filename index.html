@@ -23,6 +23,13 @@
 <link rel="apple-touch-icon" href="frontend/apple-touch-icon.png">
 </head>
 <body>
+<noscript>
+  <div style="padding:40px 20px;text-align:center;font-family:system-ui,sans-serif">
+    <strong>diskatlas</strong> is an interactive sky map and needs JavaScript.
+    The data itself is plain JSON at
+    <a href="https://github.com/seawander/diskatlas/tree/master/data/systems">data/systems/</a>.
+  </div>
+</noscript>
 <header id="topbar">
   <img id="logo" src="frontend/logo.svg" alt="" width="30" height="30" style="align-self:center;flex:none">
   <div id="title">
@@ -41,7 +48,7 @@
 </header>
 
 <main>
-  <canvas id="sky"></canvas>
+  <canvas id="sky" role="application" aria-label="all-sky map — drag to pan, wheel or pinch to zoom, click a marker for details"></canvas>
   <div id="matrix" hidden></div>
   <div id="tonight" hidden></div>
   <div id="legend"></div>
@@ -49,15 +56,15 @@
 </main>
 <div id="tooltip" hidden></div>
 
-<aside id="detail" hidden>
+<aside id="detail" hidden role="dialog" aria-labelledby="d_name">
   <div id="d_resize" title="drag to resize" aria-hidden="true"></div>
-  <button id="closebtn" title="close (Esc)">×</button>
+  <button id="closebtn" title="close (Esc)" aria-label="close details">×</button>
   <h2 id="d_name"></h2>
   <div id="d_sub"></div>
   <div id="d_imgwrap">
-    <button class="nav" id="d_prev" title="previous (←)">‹</button>
+    <button class="nav" id="d_prev" title="previous (←)" aria-label="previous image">‹</button>
     <div id="d_imgbox"></div>
-    <button class="nav" id="d_next" title="next (→)">›</button>
+    <button class="nav" id="d_next" title="next (→)" aria-label="next image">›</button>
   </div>
   <div id="d_slider"></div>
   <div id="d_caption"></div>
