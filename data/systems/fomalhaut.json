@@ -326,6 +326,98 @@
    },
    "epoch": "2012-2015",
    "content": "continuum"
+  },
+  {
+   "image_id": "fomalhaut_2512_15861_stis_2012",
+   "type": "disk_scattered",
+   "facility": "HST",
+   "instrument": "STIS",
+   "wavelength_um": 0.6,
+   "wavelength_label": "white light 0.2-1.0 um coronagraphy (2012, re-reduction)",
+   "technique": "coronagraphy + ADI",
+   "survey": null,
+   "content": "continuum",
+   "file": "images/fomalhaut/fomalhaut_2512_15861_stis_2012.png",
+   "credit": "Kalas et al. 2026, Fig. 1A (crop)",
+   "note": "re-reduction of GO-12576 showing Fom cs1 (arrow + inset) inside dust belt",
+   "paper": {
+    "first_author": "Kalas",
+    "year": 2026,
+    "title": "A second planetesimal collision in the Fomalhaut system",
+    "journal": "Science",
+    "arxiv": "2512.15861",
+    "bibcode": "2026Sci...391..371K"
+   },
+   "epoch": "2012"
+  },
+  {
+   "image_id": "fomalhaut_2512_15861_stis_2023",
+   "type": "disk_scattered",
+   "facility": "HST",
+   "instrument": "STIS",
+   "wavelength_um": 0.6,
+   "wavelength_label": "white light 0.2-1.0 um coronagraphy (2023)",
+   "technique": "coronagraphy + ADI",
+   "survey": null,
+   "content": "continuum",
+   "file": "images/fomalhaut/fomalhaut_2512_15861_stis_2023.png",
+   "credit": "Kalas et al. 2026, Fig. 1B (crop)",
+   "note": "new GO-17139 (Sep 2023): appearance of Fom cs2 at belt inner edge NW; cs1 no longer detected",
+   "paper": {
+    "first_author": "Kalas",
+    "year": 2026,
+    "title": "A second planetesimal collision in the Fomalhaut system",
+    "journal": "Science",
+    "arxiv": "2512.15861",
+    "bibcode": "2026Sci...391..371K"
+   },
+   "epoch": "2023-09"
+  },
+  {
+   "image_id": "fomalhaut_2509_02825_b6_c5mosaic",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 6",
+   "wavelength_um": 1340,
+   "wavelength_label": "223 GHz continuum (Cycle 5 long-baseline ansae mosaic)",
+   "technique": "mm interferometry",
+   "survey": null,
+   "content": "continuum",
+   "file": "images/fomalhaut/fomalhaut_2509_02825_b6_c5mosaic.png",
+   "credit": "Chittidi et al. 2025, Fig. 1a (crop)",
+   "note": "new 2017.1.01043.S NW+SE ansae pointings, 0.50x0.39 arcsec beam; star at field edge",
+   "paper": {
+    "first_author": "Chittidi",
+    "year": 2025,
+    "title": "High Resolution ALMA Data of the Fomalhaut Debris Disk Confirms Apsidal Width Variation",
+    "journal": "ApJL",
+    "arxiv": "2509.02825",
+    "bibcode": "2025ApJ...990L..40C"
+   },
+   "epoch": "2018-09"
+  },
+  {
+   "image_id": "fomalhaut_2509_02825_b6_fullmosaic",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 6",
+   "wavelength_um": 1340,
+   "wavelength_label": "223 GHz continuum (C2+C3+C5 7-pointing mosaic)",
+   "technique": "mm interferometry",
+   "survey": null,
+   "content": "continuum",
+   "file": "images/fomalhaut/fomalhaut_2509_02825_b6_fullmosaic.png",
+   "credit": "Chittidi et al. 2025, Fig. 1c (crop)",
+   "note": "PM-aligned combo of 2013.1.00486.S + 2015.1.00966.S + 2017.1.01043.S; full eccentric ring, ansae + apo/peri labeled",
+   "paper": {
+    "first_author": "Chittidi",
+    "year": 2025,
+    "title": "High Resolution ALMA Data of the Fomalhaut Debris Disk Confirms Apsidal Width Variation",
+    "journal": "ApJL",
+    "arxiv": "2509.02825",
+    "bibcode": "2025ApJ...990L..40C"
+   },
+   "epoch": "2015-2018"
   }
  ],
  "notes": null,

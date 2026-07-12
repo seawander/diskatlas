@@ -585,6 +585,33 @@ slash-epochs normalized; gy-263/oph-irs43 allowlisted (true 6.9" pair). 20/21
 new systems SIMBAD-enriched. 542 systems, 2421 records, 0 errors / 0 warnings;
 papers_in_atlas 683. Batch 2 (s4a 118 + s4c 60 crops) lands before the new pin.
 
+2026-07-12 (refuted companion + batch 3). Added HD 131399 as a refuted-companion
+system (the maintainer's directed ask now that refuted companions are in scope):
+HD 131399 Ab, claimed by Wagner et al. 2016 (Science, VLT/SPHERE) as the first
+planet imaged within a hierarchical triple, was shown to be a slow-moving
+background star by Nielsen et al. 2017 (Gemini/GPI common-proper-motion + SPHERE/
+Keck reanalysis). Two image records: Wagner Fig 1E discovery composite (planet b +
+A/B/C) and Nielsen Fig 1 GPI 4-epoch cADI refutation; planets[] status refuted,
+Nielsen as extra_papers (hollow-marker system like yses-2/cvso-30). Correction from
+VIEWing the sources: the 2017 A&A letters (Pecaut - Am-star nature; Lagrange -
+HARPS stellar companion) are STAR characterization, NOT imaging refutations of Ab;
+there is no separate Wagner follow-up. Batch 3: the s4c cross-paper crop images had
+been lost when the prior session's scratchpad (5c2a9753) expired before they were
+applied; regenerated all 69 panels via a re-crop agent using the recovered manifest
+as an exact recipe (ADS-PUB_PDF empty for the 2025-26 preprints -> export.arxiv.org
+mirror; every crop VIEW-verified). Systems touched: PDS 70 (873um full-pol + B3/4/6
+continuum, Liu 2026), PDS 66 (SiS isotopologues, Yoshida 2026), MWC 480 (ALMA B7/6/
+3 + VLA Ka/X, Shi 2026), HD 163296 (Law CS J=2-1..10-9 + C34S/H2CS/H2C34S 11-line
+ladder incl. an SMA record + Izquierdo HCN/C2H CPD candidate), T Tau (Beck
+periastron 4 continuum epochs + 350 GHz extended), HD 131835 (ARKS SPHERE+ALMA
+overlay), IRAS 04166/04169 (Sato B213 pol; Han eDisk XVII mm/cm/line suite),
+Fomalhaut (Kalas STIS cs1/cs2 + Chittidi ALMA ansae/full mosaics), HD 100453 (Booth
+8 COMs incl. first 13CH3OH in a Class II disk), V960 Mon (Weber environment), HD
+100546 (Rampinelli first resolved water vapor). Lesson banked: apply/commit crop
+waves the SAME session; never park unapplied crops across a session boundary. 600
+systems, 2610 image records, 0 errors / 0 warnings; health_check OK; papers_in_atlas
+712. Re-pinned the release for the manuscript.
+
 2026-07-11 (exploration round: 4 parallel agents, STILL-OPEN queue cleared).
 Forward axis first: fresh_papers --days 4 -> 53 submissions, 0 hits (quiet).
 Retrospective round on the queued veins, +121 records +6 systems (2171->2292,

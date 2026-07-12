@@ -553,6 +553,52 @@
     "bibcode": "2025A&A...698A.165A"
    },
    "epoch": "2021-2022"
+  },
+  {
+   "image_id": "pds66_2602_12522_28sis_snmap",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 7",
+   "wavelength_um": 1032,
+   "wavelength_label": "28SiS J=16-15 290.38 GHz (S/N map)",
+   "technique": "mm interferometry",
+   "survey": null,
+   "content": "line",
+   "file": "images/pds-66/pds66_2602_12522_28sis_snmap.png",
+   "credit": "Yoshida et al. 2026, Fig. 1 (crop)",
+   "note": "localized SiS SW of star near mm-disk edge = protoplanet-candidate signpost; 2023.1.00334.S; MP Mus = PDS 66",
+   "paper": {
+    "first_author": "Yoshida",
+    "year": 2026,
+    "title": "A Protoplanet Candidate in the PDS 66 Disk Indicated by Silicon Sulfide Isotopologues",
+    "journal": "ApJL",
+    "arxiv": "2602.12522",
+    "bibcode": "2026ApJ...999L..22Y"
+   },
+   "epoch": "2023-2024"
+  },
+  {
+   "image_id": "pds66_2602_12522_30sis_snmap",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 7",
+   "wavelength_um": 952,
+   "wavelength_label": "30SiS J=18-17 315.06 GHz (S/N map)",
+   "technique": "mm interferometry",
+   "survey": null,
+   "content": "line",
+   "file": "images/pds-66/pds66_2602_12522_30sis_snmap.png",
+   "credit": "Yoshida et al. 2026, Fig. 1 (crop)",
+   "note": "independent 30SiS at same location (2023.1.00525.S), 12 sigma",
+   "paper": {
+    "first_author": "Yoshida",
+    "year": 2026,
+    "title": "A Protoplanet Candidate in the PDS 66 Disk Indicated by Silicon Sulfide Isotopologues",
+    "journal": "ApJL",
+    "arxiv": "2602.12522",
+    "bibcode": "2026ApJ...999L..22Y"
+   },
+   "epoch": "2024-05"
   }
  ],
  "notes": "ALMA 3mm reveals a ring + 2 gaps invisible at shorter wavelengths; a young gas giant is inferred (not imaged) from Gaia astrometry + disk structure (Ribas et al. 2025, arXiv 2507.11612). MP Mus (PDS 66 field neighbour; = CPD-68 1894, K1Ve): a relatively old (~7-17 Myr) but still gas-rich, near-face-on accreting disk. Added 2026-07-09 to complete the Schneider et al. 2014 STIS GO-12228 gallery (item was the one detected disk absent from the atlas).",

@@ -1,0 +1,95 @@
+{
+ "id": "hd-131399",
+ "name": "HD 131399",
+ "alt_names": [
+  "HD 131399A",
+  "HD 131399 Ab",
+  "HIP 72940"
+ ],
+ "simbad": "HD 131399A",
+ "ra_deg": 223.605421,
+ "dec_deg": -34.142789,
+ "dist_pc": 102.6,
+ "plx_mas": 9.748,
+ "sptype": "A1V",
+ "region": "Upper Centaurus-Lupus",
+ "categories": [],
+ "mags": {
+  "V": 7.08
+ },
+ "planets": [
+  {
+   "name": "Ab",
+   "status": "refuted",
+   "method": "imaging",
+   "paper": {
+    "first_author": "Wagner",
+    "year": 2016,
+    "arxiv": "1607.02525",
+    "bibcode": "2016Sci...353..673W",
+    "journal": "Science 353, 673"
+   },
+   "note": "Wagner et al. (2016) claimed HD 131399 Ab as a ~4 Mjup, ~850 K planet on a wide (~82 au) orbit within the hierarchical triple HD 131399ABC - the first planet imaged in such a system. Common-proper-motion tests from new Gemini/GPI epochs plus reanalyzed VLT/SPHERE and Keck data (Nielsen et al. 2017) showed the source is a slow-moving background star, refuting the planet interpretation.",
+   "extra_papers": [
+    {
+     "first_author": "Nielsen",
+     "year": 2017,
+     "title": "Evidence That the Directly Imaged Planet HD 131399 Ab Is a Background Star",
+     "journal": "AJ 154, 218",
+     "arxiv": "1705.06851",
+     "bibcode": "2017AJ....154..218N"
+    }
+   ]
+  }
+ ],
+ "images": [
+  {
+   "image_id": "hd-131399_sphere-k1-2015",
+   "type": "planet",
+   "facility": "VLT",
+   "instrument": "SPHERE (IRDIS/IFS)",
+   "wavelength_um": 2.11,
+   "wavelength_label": "K1 composite (Y/J/H/K1/K2 montage)",
+   "technique": "ADI+SDI high-contrast imaging",
+   "survey": null,
+   "content": "continuum",
+   "file": "images/hd-131399/hd-131399_sphere-k1-2015.png",
+   "credit": "Wagner et al. 2016, Fig. 1E (crop)",
+   "note": "Discovery composite: candidate planet b SW of the coronagraph-masked primary A (crosshair), with the B/C stellar pair at lower right; the claimed 82 au companion later shown to be a background star.",
+   "paper": {
+    "first_author": "Wagner",
+    "year": 2016,
+    "title": "Direct imaging discovery of a Jovian exoplanet within a triple-star system",
+    "journal": "Science 353, 673",
+    "arxiv": "1607.02525",
+    "bibcode": "2016Sci...353..673W"
+   },
+   "epoch": "2015"
+  },
+  {
+   "image_id": "hd-131399_gpi-2017",
+   "type": "planet",
+   "facility": "Gemini South",
+   "instrument": "GPI",
+   "wavelength_um": 1.65,
+   "wavelength_label": "J/H/K1 cADI (2017, 4 epochs)",
+   "technique": "ADI high-contrast imaging",
+   "survey": "GPIES",
+   "content": "continuum",
+   "file": "images/hd-131399/hd-131399_gpi-2017.png",
+   "credit": "Nielsen et al. 2017, Fig. 1 (crop)",
+   "note": "GPI cADI images at four 2017 epochs (J/H/K1); combined with reanalyzed SPHERE+Keck astrometry these show the object does not share the primary's proper motion - it is a stationary background star.",
+   "paper": {
+    "first_author": "Nielsen",
+    "year": 2017,
+    "title": "Evidence That the Directly Imaged Planet HD 131399 Ab Is a Background Star",
+    "journal": "AJ 154, 218",
+    "arxiv": "1705.06851",
+    "bibcode": "2017AJ....154..218N"
+   },
+   "epoch": "2017"
+  }
+ ],
+ "notes": "Young A1V star in Upper Centaurus-Lupus (Sco-Cen), primary of the hierarchical triple HD 131399ABC. Host of the refuted directly-imaged planet candidate Ab, later shown to be a background star. A separate close stellar companion to HD 131399A was independently detected in HARPS radial velocities (Lagrange et al. 2017).",
+ "last_updated": "2026-07-12"
+}

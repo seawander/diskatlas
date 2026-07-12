@@ -198,6 +198,52 @@
     "bibcode": "2025ApJ...992...18P"
    },
    "epoch": "2021-2022"
+  },
+  {
+   "image_id": "iras04166_2601_04091_3mm_pol",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 3",
+   "wavelength_um": 3172,
+   "wavelength_label": "3.2 mm (94.5 GHz) Stokes I + B-vectors",
+   "technique": "mm interferometry (full polarization)",
+   "survey": null,
+   "content": "continuum",
+   "file": "images/iras-04166-2706/iras04166_2601_04091_3mm_pol.png",
+   "credit": "Sato et al. 2026, Fig. 3a (crop)",
+   "note": "K04166 inner envelope ~230 au res with B-field segments; 2019.1.01209.S; outflow arrows",
+   "paper": {
+    "first_author": "Sato",
+    "year": 2026,
+    "title": "Dissecting the dust distribution and polarization around two B213 young stellar objects with ALMA",
+    "journal": "A&A",
+    "arxiv": "2601.04091",
+    "bibcode": "2026A&A...706A.292S"
+   },
+   "epoch": "2019-11-02"
+  },
+  {
+   "image_id": "iras04166_2601_04091_1mmhigh_pol",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 6",
+   "wavelength_um": 1365,
+   "wavelength_label": "1.4 mm (219.55 GHz) Stokes I + B-vectors (36 au res)",
+   "technique": "mm interferometry (full polarization)",
+   "survey": null,
+   "content": "continuum",
+   "file": "images/iras-04166-2706/iras04166_2601_04091_1mmhigh_pol.png",
+   "credit": "Sato et al. 2026, Fig. 3c (crop)",
+   "note": "12-m C43-6 high-res pol of K04166 disk+inner envelope; 2021.1.01420.S",
+   "paper": {
+    "first_author": "Sato",
+    "year": 2026,
+    "title": "Dissecting the dust distribution and polarization around two B213 young stellar objects with ALMA",
+    "journal": "A&A",
+    "arxiv": "2601.04091",
+    "bibcode": "2026A&A...706A.292S"
+   },
+   "epoch": "2022-07-13"
   }
  ],
  "notes": "Class 0 embedded protostar (eDisk)",

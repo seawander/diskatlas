@@ -232,6 +232,29 @@
    "file": "images/hd-131835/hd-131835_sphere-rdi-xie22.png",
    "epoch": "2017-06-25",
    "content": "continuum"
+  },
+  {
+   "image_id": "hd131835_2601_11732_sphere_alma_overlay",
+   "type": "disk_scattered",
+   "facility": "VLT + ALMA",
+   "instrument": "SPHERE/IRDIS + Band 7",
+   "wavelength_um": 1.6,
+   "wavelength_label": "H band 1.6 um scattered light + 890 um continuum contours",
+   "technique": "ADI total intensity + mm interferometry contours",
+   "survey": null,
+   "content": "continuum",
+   "file": "images/hd-131835/hd131835_2601_11732_sphere_alma_overlay.png",
+   "credit": "Jankovic et al. 2026, Fig. 1 (crop)",
+   "note": "Feldt+2017 SPHERE image with new ARKS Band 7 (2022.1.00338.L) 3/5/7-sigma contours; mm 65 au vs scattered 100 au ring",
+   "paper": {
+    "first_author": "Jankovic",
+    "year": 2026,
+    "title": "The ALMA survey to Resolve exoKuiper belt Substructures (ARKS): X. HD 131835",
+    "journal": "A&A",
+    "arxiv": "2601.11732",
+    "bibcode": "2026A&A...705A.204J"
+   },
+   "epoch": "2015-05-14"
   }
  ],
  "notes": null,
