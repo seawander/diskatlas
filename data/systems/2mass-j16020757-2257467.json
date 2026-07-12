@@ -1,7 +1,8 @@
 {
  "id": "2mass-j16020757-2257467",
- "name": "2MASS J16020757-2257467",
+ "name": "J1602-2257",
  "alt_names": [
+  "2MASS J16020757-2257467",
   "[PBB2002] USco J160207.5-225746"
  ],
  "simbad": "2MASS J16020757-2257467",
@@ -45,5 +46,5 @@
   }
  ],
  "notes": "AGE-PRO Upper Scorpius 3. Very small dust and gas disks of similar radii, possibly truncated by a companion; tentative inner gas cavity (Vioque et al. 2025).",
- "last_updated": "2026-07-06"
+ "last_updated": "2026-07-11"
 }

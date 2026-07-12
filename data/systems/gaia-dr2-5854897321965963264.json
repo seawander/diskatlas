@@ -1,7 +1,9 @@
 {
  "id": "gaia-dr2-5854897321965963264",
- "name": "Gaia DR2 5854897321965963264",
- "alt_names": [],
+ "name": "J1216-7103",
+ "alt_names": [
+  "Gaia DR2 5854897321965963264"
+ ],
  "simbad": "Gaia DR2 5854897321965963264",
  "ra_deg": 184.01085222877,
  "dec_deg": -71.05098195776,
@@ -45,5 +47,5 @@
   }
  ],
  "notes": "First-published SPHERE/IRDIS H-band polarimetric image (DESTINYS). Signal clearly visible around the coronagraph out to 0.2\", with fainter signal detected out to 0.6\" (especially to the West), suggesting a relatively inclined disk with P.A. 10-20 deg. Disk features: ring (Garufi et al. 2026, Table A.5/Fig. A.1).",
- "last_updated": "2026-07-06"
+ "last_updated": "2026-07-11"
 }

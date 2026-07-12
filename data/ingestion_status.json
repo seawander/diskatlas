@@ -1,6 +1,6 @@
 {
  "_doc": "Per-survey ingestion state. entries/coords/images: done|partial|todo. Update on every ingest.",
- "updated": "2026-07-11: HD 34282 - added Quiroz et al. 2022 (2111.12708 = 2022ApJ...924L...4Q) Fig 1a ONLY: Keck/NIRC2 vortex L' 3.8um KLIP/ADI reduction (6 KL) of the single-armed disk, obs 2017-02-07. Original-paper reduction of the same data the atlas holds re-reduced by Wallack 2024 (kept both per cross-paper policy). Panels b-f (SPHERE/models/residuals) skipped per user. 522 systems, 2172 records.",
+ "updated": "2026-07-11: Coordinate sweep (CLEAN) + name cleanup (user-directed). Verified all 85 systems with positional (2MASS/WISE/etc.) designations - recomputed coords from each name and SIMBAD cone-searched: NO coordinate errors beyond the 9 gallery ones already fixed (the 3 flagged - 1RXS J1609 + 2 HSCS quasars - have correct precise coords; those catalog names are just coarse). Renamed 31 raw-designation systems to short literature-style JHHMM+/-DDMM monikers (TRUNCATED from the 2MASS designation, matching usage) or common names (j160421-7 -> RX J1604.3-2130 A); full designations preserved in alt_names, simbad kept resolvable. 522 systems, 2172 image records.",
  "surveys": {
   "DSHARP": {
    "entries": "done",

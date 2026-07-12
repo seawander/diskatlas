@@ -481,6 +481,21 @@ simbad ids on the 3 that had bare-J placeholders (j16000236 -> UCAC3 96-205752;
 j16100501 -> 2MASS J16100501-2132318; j17110392 -> 2MASS J17110392-2722551; their
 coords were already correct). 522 systems, 2171 image records, 0 errors / 0 warnings.
 
+2026-07-11 (coordinate sweep + name cleanup, user-directed follow-up). SWEEP: parsed
+every system whose name/simbad/alt encodes a position (85 systems) with a correct
+2MASS/WISE parser and compared to stored coords; only 3 exceeded 5" and all 3 have
+CORRECT stored coords (1RXS J1609 = RX J1609.5-2105 hit 0.16"; two HSCS quasars hit
+0.16") - the flags were just coarse catalog-name precision (ROSAT/HSC). Conclusion:
+the HHMMSSss mis-parse was fully contained to the 9 gallery systems already fixed;
+no other coordinate errors. NAMES: renamed 31 raw-designation systems (long "2MASS
+J..." / bare truncated J-numbers / a Gaia DR2 number) to shorter names - a common
+name where one exists (j160421-7 -> RX J1604.3-2130 A, the famous shadowed disk),
+else a literature-style JHHMM+/-DDMM moniker TRUNCATED from the 2MASS designation
+(e.g. 2MASS J04124068+2438157 -> J0412+2438, matching the "J0412" the papers use;
+first pass mistakenly ROUNDED giving J0413/J1609, corrected to truncation). Full
+designations preserved in alt_names; simbad fields left SIMBAD-resolvable. No name
+collisions. 522 systems, 2172 image records, 0 errors / 0 warnings.
+
 2026-07-11 (HD 34282, user-directed). Added ONLY panel (a) of Fig 1 of Quiroz et al.
 2022 (arXiv 2111.12708 = 2022ApJ...924L...4Q, "Improving Planet Detection with Disk
 Modeling: Keck/NIRC2 Imaging of the HD 34282 Single-armed Protoplanetary Disk"): the

@@ -1,7 +1,9 @@
 {
  "id": "2mass-j19005804-3645048",
- "name": "2MASS J19005804-3645048",
- "alt_names": [],
+ "name": "J1900-3645",
+ "alt_names": [
+  "2MASS J19005804-3645048"
+ ],
  "simbad": "2MASS J19005804-3645048",
  "ra_deg": 285.24184882528,
  "dec_deg": -36.7513569494,
@@ -44,5 +46,5 @@
   }
  ],
  "notes": "SPHERE/IRDIS H-band polarimetric image (DESTINYS survey; shown as 'J1900-3645' in the paper's Corona Australis sky map). A tiny disk (0.2 arcsec) is detected with a P.A. of 90 deg, signal only along the E-W axis indicating a very inclined disk (Garufi et al. 2026).",
- "last_updated": "2026-07-06"
+ "last_updated": "2026-07-11"
 }

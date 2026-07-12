@@ -1,7 +1,9 @@
 {
  "id": "2mass-j16221532-2511349",
- "name": "2MASS J16221532-2511349",
- "alt_names": [],
+ "name": "J1622-2511",
+ "alt_names": [
+  "2MASS J16221532-2511349"
+ ],
  "simbad": "2MASS J16221532-2511349",
  "ra_deg": 245.56389133267,
  "dec_deg": -25.19307459989,
@@ -64,5 +66,5 @@
   }
  ],
  "notes": "AGE-PRO Upper Scorpius 8. Newly identified transition disk with dust ring at 17 au; a localized 5-sigma residual east of the ring is proposed as a possible companion (Vioque et al. 2025).",
- "last_updated": "2026-07-06"
+ "last_updated": "2026-07-11"
 }

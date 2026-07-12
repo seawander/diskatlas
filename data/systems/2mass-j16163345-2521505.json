@@ -1,7 +1,8 @@
 {
  "id": "2mass-j16163345-2521505",
- "name": "2MASS J16163345-2521505",
+ "name": "J1616-2521",
  "alt_names": [
+  "2MASS J16163345-2521505",
   "UCAC4 324-083149"
  ],
  "simbad": "2MASS J16163345-2521505",
@@ -87,5 +88,5 @@
   }
  ],
  "notes": "AGE-PRO Upper Scorpius 6. Newly identified transition disk with dust ring at 35 au and inner gas cavity out to 30-40 au (Vioque et al. 2025).",
- "last_updated": "2026-07-06"
+ "last_updated": "2026-07-11"
 }

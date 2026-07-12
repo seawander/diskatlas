@@ -1,7 +1,8 @@
 {
  "id": "2mass-j16082324-1930009",
- "name": "2MASS J16082324-1930009",
+ "name": "J1608-1930",
  "alt_names": [
+  "2MASS J16082324-1930009",
   "[T64] 3",
   "[PBB2002] USco J160823.2-193001"
  ],
@@ -67,5 +68,5 @@
   }
  ],
  "notes": "AGE-PRO Upper Scorpius 9. Substructured disk with shoulder at 20-40 au and inner gas cavity to 10 au suggesting an unresolved dust cavity (Vioque et al. 2025). Highly inclined extended disk (~80 au) detected in SPHERE H-band scattered light (Garufi et al. 2026).",
- "last_updated": "2026-07-06"
+ "last_updated": "2026-07-11"
 }

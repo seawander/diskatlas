@@ -1,7 +1,9 @@
 {
  "id": "2mass-j16124373-3815031",
- "name": "2MASS J16124373-3815031",
- "alt_names": [],
+ "name": "J1612-3815",
+ "alt_names": [
+  "2MASS J16124373-3815031"
+ ],
  "simbad": "2MASS J16124373-3815031",
  "ra_deg": 243.18229139569,
  "dec_deg": -38.25085433424,
@@ -66,5 +68,5 @@
   }
  ],
  "notes": "AGE-PRO Lupus 3. Smooth disk with no substructure at AGE-PRO resolution (Vioque et al. 2025).",
- "last_updated": "2026-07-06"
+ "last_updated": "2026-07-11"
 }

@@ -1,7 +1,9 @@
 {
  "id": "2mass-j13342461-6517473",
- "name": "2MASS J13342461-6517473",
- "alt_names": [],
+ "name": "J1334-6517",
+ "alt_names": [
+  "2MASS J13342461-6517473"
+ ],
  "simbad": "2MASS J13342461-6517473",
  "ra_deg": 203.60255705771,
  "dec_deg": -65.29647066064,
@@ -45,5 +47,5 @@
   }
  ],
  "notes": "First-published SPHERE/IRDIS H-band polarimetric image (DESTINYS). A disk with P.A. 100 deg is clearly detected around the coronagraph; a tenuous ring at 0.4\" suggests an inclined geometry. Disk features: ring (Garufi et al. 2026, Table A.5/Fig. A.1).",
- "last_updated": "2026-07-06"
+ "last_updated": "2026-07-11"
 }

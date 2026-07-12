@@ -1,7 +1,8 @@
 {
  "id": "2mass-j04124068-2438157",
- "name": "2MASS J04124068+2438157",
+ "name": "J0412+2438",
  "alt_names": [
+  "2MASS J04124068+2438157",
   "J0412"
  ],
  "simbad": "2MASS J04124068+2438157",
@@ -88,5 +89,5 @@
   }
  ],
  "notes": "One of the largest disks known around a very low-mass (~0.2 Msun) star; two well-separated dust rings at ~70 and ~116 au resolved with ALMA (Long+2023).",
- "last_updated": "2026-07-10"
+ "last_updated": "2026-07-11"
 }

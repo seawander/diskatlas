@@ -1,7 +1,8 @@
 {
  "id": "2mass-j16085324-3914401",
- "name": "2MASS J16085324-3914401",
+ "name": "J1608-3914",
  "alt_names": [
+  "2MASS J16085324-3914401",
   "UCAC3 102-194910",
   "Lupus 6"
  ],
@@ -39,7 +40,7 @@
   }
  ],
  "notes": "AUTO-CREATED from staging - fill metadata & coords Added 2026-07-08 (AGE-PRO ALMA, Vioque+2025 resolved).",
- "last_updated": "2026-07-08",
+ "last_updated": "2026-07-11",
  "plx_mas": null,
  "mags": null
 }

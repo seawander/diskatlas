@@ -1,7 +1,8 @@
 {
  "id": "2mass-j03370363-3039291",
- "name": "2MASS J03370363+3039291",
+ "name": "J0337+3039",
  "alt_names": [
+  "2MASS J03370363+3039291",
   "J0337"
  ],
  "simbad": "2MASS J03370363+3039291",
@@ -69,5 +70,5 @@
   }
  ],
  "notes": "Perseus (~300 pc) transition disk with a large, spatially resolved cavity imaged in Keck/NIRC2 scattered light (Uyama+2022).",
- "last_updated": "2026-07-10"
+ "last_updated": "2026-07-11"
 }

@@ -1,7 +1,9 @@
 {
  "id": "2mass-j15575444-2450424",
- "name": "2MASS J15575444-2450424",
- "alt_names": [],
+ "name": "J1557-2450",
+ "alt_names": [
+  "2MASS J15575444-2450424"
+ ],
  "simbad": "2MASS J15575444-2450424",
  "ra_deg": 239.47683741802,
  "dec_deg": -24.84511558661,
@@ -45,5 +47,5 @@
   }
  ],
  "notes": "First-published SPHERE/IRDIS H-band polarimetric image (DESTINYS). Bright, compact signal is detected along the East-West direction, suggesting a very inclined disk seen horizontally (Garufi et al. 2026, Table A.5/Fig. A.1).",
- "last_updated": "2026-07-06"
+ "last_updated": "2026-07-11"
 }

@@ -1,7 +1,8 @@
 {
  "id": "2mass-j16064794-1841437",
- "name": "2MASS J16064794-1841437",
+ "name": "J1606-1841",
  "alt_names": [
+  "2MASS J16064794-1841437",
   "J1606-1841"
  ],
  "simbad": "2MASS J16064794-1841437",
@@ -46,5 +47,5 @@
   }
  ],
  "notes": "First-published SPHERE/IRDIS H-band polarimetric image, from program 0103.C-0470 (PI Benisty). Shows an extended, inclined disk with P.A. of 10 deg; a radial discontinuity is visible at 0.25 arcsec between an inner and an outer disk (Garufi et al. 2026).",
- "last_updated": "2026-07-06"
+ "last_updated": "2026-07-11"
 }
