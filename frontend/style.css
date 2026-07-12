@@ -224,6 +224,9 @@ main { position: fixed; inset: 0; }
 .mk.proto { border-radius: 50%; background: var(--proto); }
 .mk.quasar { background: var(--quasar); }
 .mk.planetonly { width: 9px; height: 9px; background: var(--planetonly); transform: rotate(45deg); }
+/* hollow ◆ = companion-only system whose every claim is refuted (historical record) */
+.mk.planetonly.hollow { width: 7px; height: 7px; background: transparent;
+  border: 1.5px solid var(--planetonly); }
 .mk.debris { width: 0; height: 0; background: none; border-left: 6px solid transparent;
   border-right: 6px solid transparent; border-bottom: 11px solid var(--debris); margin-top: 1px; }
 .mk.evolved { width: 11px; height: 11px; background: var(--evolved);

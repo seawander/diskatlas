@@ -119,6 +119,16 @@ function activePlanets(s) {
 function sysHasImagedPlanet(s) {
   return activePlanets(s).some(p => planetMethod(p) !== "transit");
 }
+/* every companion claim refuted (kept for the historical record) — rendered
+   as a HOLLOW marker so the map doesn't promise an active companion */
+function sysRefutedOnly(s) {
+  return (s.planets || []).length > 0 && activePlanets(s).length === 0;
+}
+/* CSS marker class for a system's type icon (adds the hollow variant) */
+function mkClass(s) {
+  const k = sysColorKey(s);
+  return k === "planetonly" && sysRefutedOnly(s) ? k + " hollow" : k;
+}
 function sysHasImage(s) { return (s.images || []).some(i => i.file); }
 function sysColorKey(s) {
   const c = s.categories || [];
@@ -509,8 +519,13 @@ if (typeof window !== "undefined") (function () {
       const r = 5 * zs;   // uniform size per marker type (image count no longer scales the marker; it only sets fill opacity below)
       const key = sysColorKey(s);
       const col = COL[key];
-      ctx.fillStyle = col; ctx.globalAlpha = nimg ? 0.95 : 0.55;
-      drawShape(key, p.x, p.y, r); ctx.fill(); ctx.globalAlpha = 1;
+      ctx.globalAlpha = nimg ? 0.95 : 0.55;
+      drawShape(key, p.x, p.y, r);
+      if (key === "planetonly" && sysRefutedOnly(s)) {
+        /* hollow ◆: only a refuted companion claim (FW Tau, YSES-2) */
+        ctx.strokeStyle = col; ctx.lineWidth = 1.6; ctx.stroke();
+      } else { ctx.fillStyle = col; ctx.fill(); }
+      ctx.globalAlpha = 1;
       if (sysHasImagedPlanet(s)) {
         starPath(p.x, p.y, r + 4.5);
         ctx.strokeStyle = COL.ink; ctx.lineWidth = 1.3; ctx.stroke();
@@ -1330,6 +1345,7 @@ if (typeof window !== "undefined") (function () {
     let lh = "";
     for (const [k, key] of legendKeys)
       lh += '<span><i class="mk ' + k + '"></i><span data-i18n="' + key + '"></span></span>';
+    lh += '<span><i class="mk planetonly hollow"></i><span data-i18n="leg_refuted"></span></span>';
     lh += '<span><span class="mk-star">★</span><span data-i18n="leg_imaged"></span></span>';
     /* touch devices have no wheel/hover — show the pinch/tap hint instead */
     const touch = typeof window !== "undefined" && window.matchMedia &&
@@ -1472,7 +1488,7 @@ if (typeof window !== "undefined") (function () {
     h += "</tr></thead><tbody>";
     for (const { s, cells } of rows) {
       h += '<tr><td class="sticky nm" data-id="' + s.id + '" title="' + esc(s.name) + '">' + esc(s.name) + "</td>" +
-        '<td class="typecell"><i class="mk ' + sysColorKey(s) + '"></i> ' + esc(t("cat_" + sysColorKey(s))) +
+        '<td class="typecell"><i class="mk ' + mkClass(s) + '"></i> ' + esc(t("cat_" + sysColorKey(s))) +
         (sysHasImagedPlanet(s) ? ' <span class="phost" title="' + esc(t("f_planethost")) + '">★</span>' : "") + "</td>" +
         "<td class='numcol'>" + (s.ra_deg != null ? fmtRA(s.ra_deg) : "–") + "</td>" +
         "<td class='numcol'>" + (s.dec_deg != null ? fmtDec(s.dec_deg) : "–") + "</td>" +
@@ -1617,7 +1633,7 @@ if (typeof window !== "undefined") (function () {
       h += '<tr><td class="sticky nm" data-id="' + r.s.id + '">' + esc(r.s.name) + "</td>" +
         "<td>" + (r.chart ? '<a href="' + r.chart +
           '" target="_blank" rel="noopener">' + esc(t("t_airmass_view")) + "</a>" : "–") + "</td>" +
-        '<td class="typecell"><i class="mk ' + sysColorKey(r.s) + '"></i> ' +
+        '<td class="typecell"><i class="mk ' + mkClass(r.s) + '"></i> ' +
         esc(t("cat_" + sysColorKey(r.s))) +
         (sysHasImagedPlanet(r.s) ? ' <span class="phost" title="' + esc(t("f_planethost")) + '">★</span>' : "") +
         "</td>" +
