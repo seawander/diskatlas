@@ -509,6 +509,15 @@ Ginski et al. 2025 (2506.05892) Fig 2 panel 2: the old crop had bled in panel 1'
 right edge + the bottom ax label; the new crop is the clean single panel. 522
 systems, 2172 image records, 0 errors / 0 warnings.
 
+2026-07-11 (moniker convention clarified - restored). Maintainer clarified the
+JHHMM+/-DDMM convention: J + first-4-digits-of-RA + sign + first-4-digits-of-Dec
+(e.g. J1612-3010, J1612-3815), where the Dec half distinguishes objects sharing an
+RA prefix. So the prior "revert colliding groups to full 2MASS" was an over-
+correction; RESTORED the monikers on all 10: J1608-1930/-3828/-3914,
+J1609-1908/-3925/-3836, J1610-2132/-3922, J1612-3010/-3815. All monikers are unique
+full strings; full 2MASS designations remain in alt_names. 522 systems, 2172 image
+records, 0 errors / 0 warnings.
+
 2026-07-11 (HD 34282, user-directed). Added ONLY panel (a) of Fig 1 of Quiroz et al.
 2022 (arXiv 2111.12708 = 2022ApJ...924L...4Q, "Improving Planet Detection with Disk
 Modeling: Keck/NIRC2 Imaging of the HD 34282 Single-armed Protoplanetary Disk"): the

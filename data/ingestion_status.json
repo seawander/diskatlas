@@ -1,6 +1,6 @@
 {
  "_doc": "Per-survey ingestion state. entries/coords/images: done|partial|todo. Update on every ingest.",
- "updated": "2026-07-11: Short-name collision fix + J1612 recrop (user-directed). Reverted 10 systems whose short JHHMM moniker shared an RA prefix (J1608 x3, J1609 x3, J1610 x2, J1612 x2) back to their full 2MASS names - the bare JHHMM is ambiguous when >1 system shares it; short monikers kept only where the JHHMM prefix is unique (moniker preserved in alt_names). Recropped the 2.2um K-band Qphi panel (Ginski et al. 2025, 2506.05892 Fig 2, panel 2) for 2MASS J16120668-3010270: the old crop bled in panel 1's edge + the bottom axis; new crop is the clean panel. 522 systems, 2172 image records.",
+ "updated": "2026-07-11: Restored JHHMM+/-DDMM monikers on the 10 systems I'd over-reverted. Convention confirmed by maintainer = J + first-4-RA-digits + sign + first-4-Dec-digits (e.g. J1612-3010, J1612-3815); the Dec half disambiguates, so the two J1612 (and J1608/J1609/J1610) systems keep the moniker rather than reverting to full 2MASS. All monikers are unique full strings; full 2MASS kept in alt_names. 522 systems, 2172 image records.",
  "surveys": {
   "DSHARP": {
    "entries": "done",
