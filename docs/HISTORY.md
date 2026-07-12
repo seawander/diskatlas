@@ -562,3 +562,17 @@ ORIGINAL-paper reduction of the same NIRC2 data the atlas already holds re-reduc
 Wallack et al. 2024 (Fig 4) - both kept per cross-paper method-diversity policy.
 Panels (b)-(f) (SPHERE Qphi, contours, best-fit models, residuals) skipped per user
 instruction. hd-34282 12->13 images. 522 systems, 2172 image records, 0 errors.
+
+2026-07-11 (infra: UX + deploy improvements, Fable 5 session). Three
+user-facing improvements to the viewer, verified in a live preview: (1) deep
+links now carry the image index — #s=<id>&i=<n>, written by showImg() as you
+navigate (arrows/swipe/keyboard) and restored at boot, so the exact panel on
+screen is always shareable (hash ownership moved from openDetail to showImg);
+(2) detail images carry a meaningful alt ("name — wavelength label") instead
+of alt=""; (3) an image 404 (stale cached data.js after an id rename, missing
+offline file) now swaps in a translated notice (new d_imgerr key, all 12
+languages) instead of a broken-image icon. Deploy hardening: pages.yml stamps
+every frontend asset URL with the commit SHA at artifact-build time
+(cache-busting; repo copy stays clean for offline file:// use), so a Pages
+visitor can never mix a cached app.js with a fresh data.js inside the 10-min
+HTTP cache window. frontend/README rows added for all of the above.

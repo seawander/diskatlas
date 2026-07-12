@@ -34,7 +34,9 @@ fetch/ES-modules, and keep everything **ES2018-compatible**.
 | SIMBAD link per system; explicit `simbad:null` → coordinate-search fallback | `openDetail()` |
 | Search box (name/`id`/`alt_names`, substring; dropdown lives **inside** `#topbar` so phone keyboards can't cover it; **↑/↓/Enter keyboard nav**) | `searchEl` `input`/`keydown` handlers |
 | Category filters + literature-progress readout collapsed behind an **ⓘ** icon; **GitHub badge** (bottom corner, "contributions welcome", localized, RTL-aware) | filter chips, `#litbar`, `#ghlink` |
-| URL hash deep-links `#s=hd-163296` (read at boot) | `openDetail()` + boot hash parse |
+| URL hash deep-links `#s=hd-163296&i=3` — system **and** image index (`&i` omitted for the first image; the hash tracks arrow/swipe navigation, so the current view is always shareable; read at boot) | `showImg()` (writes) + boot hash parse (restores) |
+| Detail image `alt` = "name — wavelength label"; a 404 (stale cached `data.js` after an id rename, missing offline file) swaps in a translated `d_imgerr` notice instead of a broken-image icon | `showImg()` |
+| Pages deploy stamps asset URLs `?v=<commit sha>` (artifact-only; the repo copy stays clean for offline `file://` use) so cached `app.js` can never mix with fresh `data.js` | `.github/workflows/pages.yml` |
 
 ## Terminology
 

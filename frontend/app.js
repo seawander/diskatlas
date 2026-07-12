@@ -290,6 +290,58 @@ if (typeof window !== "undefined") (function () {
   let visible = new Set(SYS.map(s => s.id));
   let hoverId = null, currentSys = null, curImg = 0, currentView = "sky";
 
+  /* ---- URL-hash deep links ----------------------------------------------
+     #s=<id>&i=<n>&v=matrix|tonight&cat=<off,cats>&ph=1&img=1&b=<bands>
+       &miss=<...>&fac=<facilities>&instr=<instruments>
+     Old links (#s=hl-tau, #s=hl-tau&i=3) keep working. Filter state is applied
+     HERE — before the chips are built below, so they render "on" — while the
+     view/system/image parts are applied at the end of boot (they need
+     setView/goTo/showImg). syncHash() writes the whole state back on every
+     filter/view/detail change, so the URL is always shareable. */
+  let hashSys = null, hashImg = 0;         // detail card currently in the hash
+  const CAT_KEYS = ["proto", "debris", "planetonly", "quasar", "evolved"];
+  const bootHash = (function () {
+    const out = { sys: null, img: 0, view: null };
+    const h = location.hash.replace(/^#/, "");
+    if (!h) return out;
+    for (const part of h.split("&")) {
+      const eq = part.indexOf("="); if (eq < 0) continue;
+      const k = part.slice(0, eq), v = part.slice(eq + 1);
+      const toks = v.split(",").map(decodeURIComponent).filter(Boolean);
+      if (k === "s") out.sys = v;
+      else if (k === "i" && /^\d+$/.test(v)) out.img = +v;
+      else if (k === "v" && (v === "matrix" || v === "tonight")) out.view = v;
+      else if (k === "cat") toks.forEach(c => { if (CAT_KEYS.indexOf(c) >= 0) filters[c] = false; });
+      else if (k === "ph") filters.planethost = v === "1";
+      else if (k === "img") filters.hasimg = v === "1";
+      else if (k === "b") toks.forEach(x => filters.bands.add(x));
+      else if (k === "miss") toks.forEach(x => filters.missing.add(x));
+      else if (k === "fac") toks.forEach(x => filters.facilities.add(x));
+      else if (k === "instr") toks.forEach(x => filters.instruments.add(x));
+    }
+    hashSys = out.sys; hashImg = out.img ? out.img - 1 : 0;
+    return out;
+  })();
+  function syncHash() {
+    if (!history.replaceState) return;
+    const parts = [];
+    if (hashSys) {
+      parts.push("s=" + hashSys);
+      if (hashImg) parts.push("i=" + (hashImg + 1));   // 1-based; omitted for the first image
+    }
+    if (currentView !== "sky") parts.push("v=" + currentView);
+    const off = CAT_KEYS.filter(k => !filters[k]);
+    if (off.length) parts.push("cat=" + off.join(","));
+    if (filters.planethost) parts.push("ph=1");
+    if (filters.hasimg) parts.push("img=1");
+    const setPart = (key, set) => {
+      if (set.size) parts.push(key + "=" + [...set].map(encodeURIComponent).join(","));
+    };
+    setPart("b", filters.bands); setPart("miss", filters.missing);
+    setPart("fac", filters.facilities); setPart("instr", filters.instruments);
+    history.replaceState(null, "", parts.length ? "#" + parts.join("&") : "#");
+  }
+
   /* background stars (seeded, fixed on sky) */
   function mulberry(seed) {
     return function () {
@@ -670,6 +722,7 @@ if (typeof window !== "undefined") (function () {
   }
   function refilter() {
     visible = new Set(filterSystems(SYS, filters, "").map(s => s.id));
+    syncHash();
     draw();
     if (currentView === "matrix") buildMatrix();
     if (currentView === "tonight") computeTonight();
@@ -838,12 +891,11 @@ if (typeof window !== "undefined") (function () {
     detail.style.transition = ""; detail.style.transform = "";   // clear any leftover dismiss drag
     detail.hidden = false;
     if (detail._placeResize) detail._placeResize();   // position the resize handle
-    if (history.replaceState) history.replaceState(null, "", "#s=" + s.id);
     draw();
   }
   function closeDetail() {
     detail.hidden = true; currentSys = null;
-    if (history.replaceState) history.replaceState(null, "", "#");
+    hashSys = null; hashImg = 0; syncHash();
     draw();
   }
   document.getElementById("closebtn").onclick = closeDetail;
@@ -1062,14 +1114,25 @@ if (typeof window !== "undefined") (function () {
         '<div class="placeholder"><span class="big">✴</span>' + esc(t("d_noimg")) + "</div>";
       document.getElementById("d_caption").innerHTML = "";
       document.getElementById("d_prev").disabled = document.getElementById("d_next").disabled = true;
+      hashSys = s.id; hashImg = 0; syncHash();
       return;
     }
     curImg = (i + ims.length) % ims.length;
+    /* deep link: #s=<id>&i=<n> — share/restore the exact image (n omitted for the first) */
+    hashSys = s.id; hashImg = curImg; syncHash();
     const im = ims[curImg];
     const box = document.getElementById("d_imgbox");
     const prevImg = dir ? box.querySelector("img") : null;   // outgoing image, grabbed before the swap
     if (im.file) {
-      box.innerHTML = '<img alt="" decoding="async" src="' + esc(im.file) + '">';
+      box.innerHTML = '<img alt="' +
+        esc(s.name + " — " + (im.wavelength_label || fmtWl(im.wavelength_um))) +
+        '" decoding="async" src="' + esc(im.file) + '">';
+      /* a 404 (stale cached data.js after an id rename, offline copy missing a file)
+         must not leave a broken-image icon — swap in a translated notice */
+      box.querySelector("img").onerror = () => {
+        box.innerHTML = '<div class="placeholder"><span class="big">⚠</span>' +
+          esc(t("d_imgerr")) + "</div>";
+      };
     } else {
       box.innerHTML = '<div class="placeholder"><span class="big">⏳</span>' +
         esc(t("d_pending1")) + "<br>" + esc(t("d_pending2")) + "</div>";
@@ -1284,6 +1347,7 @@ if (typeof window !== "undefined") (function () {
     /* re-clicking the active Coverage/Tonight tab returns to the Sky view */
     if (v !== "sky" && v === currentView) v = "sky";
     currentView = v;
+    syncHash();
     document.querySelectorAll(".vtab").forEach(t => t.classList.toggle("on", t.dataset.v === v));
     canvas.style.display = v === "sky" ? "" : "none";
     if (legendEl) legendEl.style.display = v === "sky" ? "" : "none";
@@ -1622,9 +1686,25 @@ if (typeof window !== "undefined") (function () {
     document.getElementById("statsline").textContent =
       "data.js missing/empty — run backend-data/build.py";
   }
-  const m = location.hash.match(/#s=([a-z0-9-]+)/);
-  if (m) {
-    const s = SYS.find(x => x.id === m[1]);
-    if (s) goTo(s);
+  /* service-worker freshness: sw.js posts {type:'atlas-updated'} when its
+     background revalidation fetched a NEWER data.js than the one this page
+     was served from — offer a one-tap localized reload */
+  if ("serviceWorker" in navigator) {
+    let toasted = false;
+    navigator.serviceWorker.addEventListener("message", (e) => {
+      if (toasted || !e.data || e.data.type !== "atlas-updated") return;
+      toasted = true;
+      const b = document.createElement("button");
+      b.id = "swtoast"; b.type = "button"; b.textContent = t("sw_fresh");
+      b.onclick = () => location.reload();
+      document.body.appendChild(b);
+      setTimeout(() => b.classList.add("show"), 30);
+    });
+  }
+  /* apply the deep-linked view / system / image parsed at the top of boot */
+  if (bootHash.view) setView(bootHash.view);
+  if (bootHash.sys) {
+    const s = SYS.find(x => x.id === bootHash.sys);
+    if (s) { goTo(s); if (bootHash.img) showImg(bootHash.img - 1); }   // restore the deep-linked image
   }
 })();

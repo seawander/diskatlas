@@ -39,6 +39,16 @@ jobs:
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - uses: actions/checkout@v4
+      # Cache busting: stamp the asset URLs with the commit SHA so a Pages
+      # visitor never mixes a cached app.js with a fresh data.js (or vice
+      # versa) inside the 10-min HTTP cache window. Artifact-only — the repo
+      # copy stays unstamped so the offline double-click file:// use is
+      # untouched.
+      - name: Stamp asset URLs with commit SHA
+        run: |
+          v="${GITHUB_SHA::10}"
+          sed -i -E "s|(src=\"frontend/[A-Za-z0-9_.-]+\.js)\"|\1?v=${v}\"|g; s|(href=\"frontend/style\.css)\"|\1?v=${v}\"|g" index.html
+          grep -n "?v=${v}" index.html
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
         with:

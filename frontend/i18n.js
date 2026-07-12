@@ -28,11 +28,12 @@ window.I18N = {
     t_nothing: "Nothing to export — compute first.",
     d_companions: "Companions", d_simbadsrc: "(astrometry & photometry source)",
     d_noimg: "no image records yet",
-    d_pending1: "image not yet cropped locally", d_pending2: "see the paper links below for the published figure",
+    d_pending1: "image not yet cropped locally", d_pending2: "see the paper links below for the published figure", d_imgerr: "image failed to load — try refreshing the page",
     d_pendingnote: "local thumbnail pending — backend-data/README.md explains how to add it",
     d_nolinks: "no links", d_image: "image", d_hires: "hi-res data", d_hirespdf: "PDF (hi-res figs)",
     tag_imaged: "imaged companion(s)", tag_transiting: "transiting planet(s)",
     gh_contrib: "contributions welcome",
+    sw_fresh: "atlas updated — tap to reload",
     col_planet_sub: "images"
   },
   zh: {
@@ -58,11 +59,12 @@ window.I18N = {
     t_nothing: "无可导出内容 — 请先计算。",
     d_companions: "伴星 / 行星", d_simbadsrc: "(天体测量与测光来源)",
     d_noimg: "暂无图像记录",
-    d_pending1: "本地尚未裁剪图像", d_pending2: "请见下方论文链接查看已发表图",
+    d_pending1: "本地尚未裁剪图像", d_pending2: "请见下方论文链接查看已发表图", d_imgerr: "图像加载失败——请尝试刷新页面",
     d_pendingnote: "本地缩略图待补 — 详见 backend-data/README.md",
     d_nolinks: "无链接", d_image: "图像", d_hires: "高清数据", d_hirespdf: "PDF(高清图)",
     tag_imaged: "成像伴体", tag_transiting: "凌星行星",
     gh_contrib: "欢迎贡献",
+    sw_fresh: "图集已更新——点击刷新",
     col_planet_sub: "图像数"
   },
   fr: {
@@ -88,11 +90,12 @@ window.I18N = {
     t_nothing: "Rien à exporter — calculez d'abord.",
     d_companions: "Compagnons", d_simbadsrc: "(source astrométrie & photométrie)",
     d_noimg: "aucune image pour l'instant",
-    d_pending1: "image pas encore recadrée localement", d_pending2: "voir les liens de l'article ci-dessous",
+    d_pending1: "image pas encore recadrée localement", d_pending2: "voir les liens de l'article ci-dessous", d_imgerr: "échec du chargement de l'image — essayez d'actualiser la page",
     d_pendingnote: "vignette locale à venir — voir backend-data/README.md",
     d_nolinks: "aucun lien", d_image: "image", d_hires: "données HD", d_hirespdf: "PDF (figures HD)",
     tag_imaged: "compagnon(s) imagé(s)", tag_transiting: "planète(s) en transit",
     gh_contrib: "contributions bienvenues",
+    sw_fresh: "atlas mis à jour — cliquez pour recharger",
     col_planet_sub: "images"
   },
   es: {
@@ -118,11 +121,12 @@ window.I18N = {
     t_nothing: "Nada que exportar — calcula primero.",
     d_companions: "Compañeros", d_simbadsrc: "(fuente de astrometría y fotometría)",
     d_noimg: "sin registros de imagen aún",
-    d_pending1: "imagen aún no recortada localmente", d_pending2: "ver los enlaces del artículo abajo",
+    d_pending1: "imagen aún no recortada localmente", d_pending2: "ver los enlaces del artículo abajo", d_imgerr: "no se pudo cargar la imagen — intente actualizar la página",
     d_pendingnote: "miniatura local pendiente — ver backend-data/README.md",
     d_nolinks: "sin enlaces", d_image: "imagen", d_hires: "datos alta-res", d_hirespdf: "PDF (figuras alta-res)",
     tag_imaged: "compañero(s) imagenado(s)", tag_transiting: "planeta(s) en tránsito",
     gh_contrib: "contribuciones bienvenidas",
+    sw_fresh: "atlas actualizado — toque para recargar",
     col_planet_sub: "imágenes"
   },
   de: {
@@ -148,11 +152,12 @@ window.I18N = {
     t_nothing: "Nichts zu exportieren — zuerst berechnen.",
     d_companions: "Begleiter", d_simbadsrc: "(Quelle für Astrometrie & Photometrie)",
     d_noimg: "noch keine Bilddatensätze",
-    d_pending1: "Bild lokal noch nicht zugeschnitten", d_pending2: "siehe die Artikel-Links unten für die veröffentlichte Abbildung",
+    d_pending1: "Bild lokal noch nicht zugeschnitten", d_pending2: "siehe die Artikel-Links unten für die veröffentlichte Abbildung", d_imgerr: "Bild konnte nicht geladen werden — Seite neu laden",
     d_pendingnote: "lokales Vorschaubild ausstehend — backend-data/README.md erklärt das Hinzufügen",
     d_nolinks: "keine Links", d_image: "Bild", d_hires: "hochauflösende Daten", d_hirespdf: "PDF (hochaufl. Abb.)",
     tag_imaged: "abgebildete(r) Begleiter", tag_transiting: "Transitplanet(en)",
     gh_contrib: "Beiträge willkommen",
+    sw_fresh: "Atlas aktualisiert — zum Neuladen antippen",
     col_planet_sub: "Bilder"
   },
   it: {
@@ -178,11 +183,12 @@ window.I18N = {
     t_nothing: "Niente da esportare — calcola prima.",
     d_companions: "Compagni", d_simbadsrc: "(fonte di astrometria e fotometria)",
     d_noimg: "ancora nessuna immagine",
-    d_pending1: "immagine non ancora ritagliata localmente", d_pending2: "vedi i link all'articolo qui sotto per la figura pubblicata",
+    d_pending1: "immagine non ancora ritagliata localmente", d_pending2: "vedi i link all'articolo qui sotto per la figura pubblicata", d_imgerr: "impossibile caricare l'immagine — prova ad aggiornare la pagina",
     d_pendingnote: "miniatura locale in arrivo — backend-data/README.md spiega come aggiungerla",
     d_nolinks: "nessun link", d_image: "immagine", d_hires: "dati alta ris.", d_hirespdf: "PDF (figure alta ris.)",
     tag_imaged: "compagno/i ripreso/i", tag_transiting: "pianeta/i in transito",
     gh_contrib: "contributi benvenuti",
+    sw_fresh: "atlante aggiornato — tocca per ricaricare",
     col_planet_sub: "immagini"
   },
   ja: {
@@ -208,11 +214,12 @@ window.I18N = {
     t_nothing: "出力する項目がありません — まず計算してください。",
     d_companions: "伴星・伴天体", d_simbadsrc: "(位置天文・測光の出典)",
     d_noimg: "画像レコードはまだありません",
-    d_pending1: "画像はまだローカルに切り出されていません", d_pending2: "公開図は下記の論文リンクを参照",
+    d_pending1: "画像はまだローカルに切り出されていません", d_pending2: "公開図は下記の論文リンクを参照", d_imgerr: "画像を読み込めませんでした——ページを再読み込みしてください",
     d_pendingnote: "ローカルのサムネイルは準備中 — 追加方法は backend-data/README.md を参照",
     d_nolinks: "リンクなし", d_image: "画像", d_hires: "高解像度データ", d_hirespdf: "PDF (高解像度図)",
     tag_imaged: "撮像伴天体", tag_transiting: "トランジット惑星",
     gh_contrib: "貢献を歓迎します",
+    sw_fresh: "アトラス更新 — タップで再読み込み",
     col_planet_sub: "画像数"
   },
   pt: {
@@ -238,11 +245,12 @@ window.I18N = {
     t_nothing: "Nada a exportar — calcule primeiro.",
     d_companions: "Companheiros", d_simbadsrc: "(fonte de astrometria e fotometria)",
     d_noimg: "ainda sem registros de imagem",
-    d_pending1: "imagem ainda não recortada localmente", d_pending2: "veja os links do artigo abaixo para a figura publicada",
+    d_pending1: "imagem ainda não recortada localmente", d_pending2: "veja os links do artigo abaixo para a figura publicada", d_imgerr: "falha ao carregar a imagem — tente recarregar a página",
     d_pendingnote: "miniatura local pendente — backend-data/README.md explica como adicioná-la",
     d_nolinks: "sem links", d_image: "imagem", d_hires: "dados de alta resolução", d_hirespdf: "PDF (figuras alta res.)",
     tag_imaged: "companheiro(s) imageado(s)", tag_transiting: "planeta(s) em trânsito",
     gh_contrib: "contribuições bem-vindas",
+    sw_fresh: "atlas atualizado — toque para recarregar",
     col_planet_sub: "imagens"
   },
   ru: {
@@ -268,11 +276,12 @@ window.I18N = {
     t_nothing: "Нечего экспортировать — сначала вычислите.",
     d_companions: "Спутники", d_simbadsrc: "(источник астрометрии и фотометрии)",
     d_noimg: "пока нет изображений",
-    d_pending1: "изображение ещё не вырезано локально", d_pending2: "см. ссылки на статью ниже для опубликованного рисунка",
+    d_pending1: "изображение ещё не вырезано локально", d_pending2: "см. ссылки на статью ниже для опубликованного рисунка", d_imgerr: "не удалось загрузить изображение — попробуйте обновить страницу",
     d_pendingnote: "локальная миниатюра готовится — backend-data/README.md поясняет добавление",
     d_nolinks: "нет ссылок", d_image: "изображение", d_hires: "данные высок. разрешения", d_hirespdf: "PDF (рис. выс. разр.)",
     tag_imaged: "снятые компаньоны", tag_transiting: "транзитные планеты",
     gh_contrib: "вклад приветствуется",
+    sw_fresh: "атлас обновлён — нажмите для перезагрузки",
     col_planet_sub: "снимки"
   },
   ar: {
@@ -298,11 +307,12 @@ window.I18N = {
     t_nothing: "لا شيء للتصدير — احسب أولًا.",
     d_companions: "الرفقاء", d_simbadsrc: "(مصدر القياس الفلكي والضوئي)",
     d_noimg: "لا سجلات صور بعد",
-    d_pending1: "الصورة لم تُقتطع محليًا بعد", d_pending2: "انظر روابط الورقة أدناه للشكل المنشور",
+    d_pending1: "الصورة لم تُقتطع محليًا بعد", d_pending2: "انظر روابط الورقة أدناه للشكل المنشور", d_imgerr: "تعذّر تحميل الصورة — حاول تحديث الصفحة",
     d_pendingnote: "الصورة المصغّرة المحلية قيد الإعداد — backend-data/README.md يشرح كيفية إضافتها",
     d_nolinks: "لا روابط", d_image: "صورة", d_hires: "بيانات عالية الدقة", d_hirespdf: "PDF (أشكال عالية الدقة)",
     tag_imaged: "رفقاء مصوَّرون", tag_transiting: "كواكب عابرة",
     gh_contrib: "نرحب بالمساهمات",
+    sw_fresh: "تم تحديث الأطلس — انقر لإعادة التحميل",
     col_planet_sub: "صور"
   },
   ko: {
@@ -328,11 +338,12 @@ window.I18N = {
     t_nothing: "내보낼 항목이 없습니다 — 먼저 계산하세요.",
     d_companions: "동반 천체", d_simbadsrc: "(위치천문 및 측광 출처)",
     d_noimg: "아직 이미지 레코드가 없습니다",
-    d_pending1: "이미지가 아직 로컬로 잘리지 않음", d_pending2: "게재된 그림은 아래 논문 링크 참조",
+    d_pending1: "이미지가 아직 로컬로 잘리지 않음", d_pending2: "게재된 그림은 아래 논문 링크 참조", d_imgerr: "이미지를 불러오지 못했습니다 — 페이지를 새로고침해 보세요",
     d_pendingnote: "로컬 썸네일 준비 중 — 추가 방법은 backend-data/README.md 참조",
     d_nolinks: "링크 없음", d_image: "이미지", d_hires: "고해상도 데이터", d_hirespdf: "PDF (고해상도 그림)",
     tag_imaged: "촬영된 동반 천체", tag_transiting: "통과 행성",
     gh_contrib: "기여를 환영합니다",
+    sw_fresh: "아틀라스 업데이트됨 — 눌러서 새로고침",
     col_planet_sub: "이미지 수"
   },
   hi: {
@@ -358,11 +369,12 @@ window.I18N = {
     t_nothing: "निर्यात के लिए कुछ नहीं — पहले गणना करें।",
     d_companions: "सहचर", d_simbadsrc: "(खगोलमिति एवं प्रकाशमिति स्रोत)",
     d_noimg: "अभी तक कोई छवि अभिलेख नहीं",
-    d_pending1: "छवि अभी स्थानीय रूप से क्रॉप नहीं हुई", d_pending2: "प्रकाशित चित्र हेतु नीचे शोधपत्र लिंक देखें",
+    d_pending1: "छवि अभी स्थानीय रूप से क्रॉप नहीं हुई", d_pending2: "प्रकाशित चित्र हेतु नीचे शोधपत्र लिंक देखें", d_imgerr: "छवि लोड नहीं हो सकी — पृष्ठ को रीफ़्रेश करें",
     d_pendingnote: "स्थानीय थंबनेल लंबित — जोड़ने की विधि backend-data/README.md में",
     d_nolinks: "कोई लिंक नहीं", d_image: "छवि", d_hires: "उच्च-विभेदन डेटा", d_hirespdf: "PDF (उच्च-विभेदन चित्र)",
     tag_imaged: "प्रतिबिंबित सहचर", tag_transiting: "पारगमन ग्रह",
     gh_contrib: "योगदान का स्वागत है",
+    sw_fresh: "एटलस अपडेट हुआ — पुनः लोड हेतु टैप करें",
     col_planet_sub: "छवियाँ"
   }
 };
