@@ -29,7 +29,7 @@
     "bibcode": "2016Sci...353..673W",
     "journal": "Science 353, 673"
    },
-   "note": "Wagner et al. (2016) claimed HD 131399 Ab as a ~4 Mjup, ~850 K planet on a wide (~82 au) orbit within the hierarchical triple HD 131399ABC - the first planet imaged in such a system. Common-proper-motion tests from new Gemini/GPI epochs plus reanalyzed VLT/SPHERE and Keck data (Nielsen et al. 2017) showed the source is a slow-moving background star, refuting the planet interpretation.",
+   "note": "Wagner et al. (2016) claimed HD 131399 Ab as a ~4 Mjup, ~850 K planet on a wide (~82 au) orbit within the hierarchical triple HD 131399ABC - the first planet imaged in such a system. Common-proper-motion tests from new Gemini/GPI epochs plus reanalyzed VLT/SPHERE and Keck data (Nielsen et al. 2017) showed the source is a slow-moving background star, refuting the planet interpretation. Wagner et al. (2022, the Scorpion Planet Survey) independently re-confirmed the background-star nature from the relative position-angle vs. time trend (their Fig. 4).",
    "extra_papers": [
     {
      "first_author": "Nielsen",
@@ -38,6 +38,14 @@
      "journal": "AJ 154, 218",
      "arxiv": "1705.06851",
      "bibcode": "2017AJ....154..218N"
+    },
+    {
+     "first_author": "Wagner",
+     "year": 2022,
+     "title": "The Scorpion Planet Survey: Wide-orbit Giant Planets Around Young A-type Stars",
+     "journal": "AJ 163, 80",
+     "arxiv": "2112.02168",
+     "bibcode": "2022AJ....163...80W"
     }
    ]
   }
