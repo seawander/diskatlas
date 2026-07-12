@@ -1,6 +1,6 @@
 {
  "_doc": "Per-survey ingestion state. entries/coords/images: done|partial|todo. Update on every ingest.",
- "updated": "2026-07-11: Restored JHHMM+/-DDMM monikers on the 10 systems I'd over-reverted. Convention confirmed by maintainer = J + first-4-RA-digits + sign + first-4-Dec-digits (e.g. J1612-3010, J1612-3815); the Dec half disambiguates, so the two J1612 (and J1608/J1609/J1610) systems keep the moniker rather than reverting to full 2MASS. All monikers are unique full strings; full 2MASS kept in alt_names. 522 systems, 2172 image records.",
+ "updated": "2026-07-11: Naming-convention audit (user-directed). Normalized 16 inconsistently-formatted system names to the atlas's dominant conventions: catalog-prefix SPACE (Sz113/69/73/74 B -> Sz 113/69/73/74 B [24 Sz already spaced], MHO2/6 -> MHO 2/6, SVS13A -> SVS 13A), IRS SPACE (BHR71 IRS1/2, GSS30 IRS3, Ced 110 IRS4, Oph IRS43, R CrA IRS5N/7B -> ...IRS N, matching L1551 IRS 5 / Oph IRS 44/48), and 3-letter constellation abbreviations for Bayer names (gamma Ophiuchi -> gamma Oph, pi1 Gruis -> pi1 Gru, matching beta Pic / eta Crv / kappa And). Full old forms kept in alt_names for the Bayer two. Post-audit: no prefix space/no-space splits remain, no double/trailing spaces. 522 systems, 2172 image records.",
  "surveys": {
   "DSHARP": {
    "entries": "done",

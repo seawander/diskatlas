@@ -1,10 +1,11 @@
 {
  "id": "gamma-oph",
- "name": "gamma Ophiuchi",
+ "name": "gamma Oph",
  "alt_names": [
   "gam Oph",
   "HR 6630",
-  "HD 161868"
+  "HD 161868",
+  "gamma Ophiuchi"
  ],
  "simbad": "gam Oph",
  "ra_deg": 266.9731691245113,
@@ -61,7 +62,7 @@
   }
  ],
  "notes": "Circumstellar disk of the A-type star gamma Ophiuchi, resolved with JWST/MIRI (Han+2026).",
- "last_updated": "2026-07-08",
+ "last_updated": "2026-07-11",
  "plx_mas": null,
  "mags": null
 }

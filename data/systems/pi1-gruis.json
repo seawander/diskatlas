@@ -1,9 +1,10 @@
 {
  "id": "pi1-gruis",
- "name": "pi1 Gruis",
+ "name": "pi1 Gru",
  "alt_names": [
   "pi.01 Gru",
-  "HD 212087"
+  "HD 212087",
+  "pi1 Gruis"
  ],
  "simbad": "* pi.01 Gru",
  "ra_deg": 335.6842016237,
@@ -39,7 +40,7 @@
   }
  ],
  "notes": "Evolved (AGB) star pi1 Gruis whose circumstellar disk was resolved with ALMA (Doan+2020).",
- "last_updated": "2026-07-08",
+ "last_updated": "2026-07-11",
  "plx_mas": null,
  "mags": null
 }

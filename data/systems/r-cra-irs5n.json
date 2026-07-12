@@ -1,6 +1,6 @@
 {
  "id": "r-cra-irs5n",
- "name": "R CrA IRS5N",
+ "name": "R CrA IRS 5N",
  "alt_names": [
   "CrA-20"
  ],
@@ -41,5 +41,5 @@
   }
  ],
  "notes": "Class 0 embedded protostar (eDisk)",
- "last_updated": "2026-07-07"
+ "last_updated": "2026-07-11"
 }

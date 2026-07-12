@@ -1,6 +1,6 @@
 {
  "id": "r-cra-irs7b",
- "name": "R CrA IRS7B",
+ "name": "R CrA IRS 7B",
  "alt_names": [
   "SMM 1B"
  ],
@@ -41,5 +41,5 @@
   }
  ],
  "notes": "Class I embedded protostar (eDisk)",
- "last_updated": "2026-07-07"
+ "last_updated": "2026-07-11"
 }

@@ -1,6 +1,6 @@
 {
  "id": "gss30-irs3",
- "name": "GSS30 IRS3",
+ "name": "GSS 30 IRS 3",
  "alt_names": [
   "SMM J162622-24225"
  ],
@@ -41,5 +41,5 @@
   }
  ],
  "notes": "Class 0 embedded protostar (eDisk)",
- "last_updated": "2026-07-07"
+ "last_updated": "2026-07-11"
 }

@@ -1,6 +1,6 @@
 {
  "id": "bhr71-irs2",
- "name": "BHR71 IRS2",
+ "name": "BHR 71 IRS 2",
  "alt_names": [
   "IRAS 11590-6452"
  ],
@@ -41,5 +41,5 @@
   }
  ],
  "notes": "Class 0 embedded protostar (eDisk)",
- "last_updated": "2026-07-06"
+ "last_updated": "2026-07-11"
 }

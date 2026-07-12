@@ -518,6 +518,18 @@ J1609-1908/-3925/-3836, J1610-2132/-3922, J1612-3010/-3815. All monikers are uni
 full strings; full 2MASS designations remain in alt_names. 522 systems, 2172 image
 records, 0 errors / 0 warnings.
 
+2026-07-11 (naming-convention audit, user-directed). Swept all 522 system names for
+format inconsistencies. Normalized 16 to the dominant conventions: catalog-prefix
+SPACE (Sz113/Sz69/Sz73/Sz74 B -> Sz 113 etc. [24 Sz were already spaced]; MHO2/MHO6
+-> MHO 2/6; SVS13A -> SVS 13A); IRS SPACE (BHR71 IRS1/2, GSS30 IRS3, Ced 110 IRS4,
+Oph IRS43, R CrA IRS5N/7B -> "... IRS N", matching the spaced L1551 IRS 5 / Oph IRS
+44 / Oph IRS 48); and 3-letter constellation abbreviations for Bayer names (gamma
+Ophiuchi -> gamma Oph, pi1 Gruis -> pi1 Gru, matching beta Pic / eta Crv / kappa
+And / alpha Cen A) with the full genitive kept in alt_names. Left intentionally:
+ESO Halpha 569/574 keep the Halpha symbol (standard for the emission-line survey
+name, not a Bayer letter). Post-audit no prefix space splits or double/trailing
+spaces remain. 522 systems, 2172 image records, 0 errors / 0 warnings.
+
 2026-07-11 (HD 34282, user-directed). Added ONLY panel (a) of Fig 1 of Quiroz et al.
 2022 (arXiv 2111.12708 = 2022ApJ...924L...4Q, "Improving Planet Detection with Disk
 Modeling: Keck/NIRC2 Imaging of the HD 34282 Single-armed Protoplanetary Disk"): the
