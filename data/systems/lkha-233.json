@@ -1,9 +1,9 @@
 {
  "id": "lkha-233",
- "name": "LK-Halpha 233",
+ "name": "LkHa 233",
  "alt_names": [
-  "LkHa 233",
-  "LkH-alpha 233"
+  "LkH-alpha 233",
+  "LK-Halpha 233"
  ],
  "simbad": "EM* LkHA 233",
  "ra_deg": 338.670767,
@@ -39,7 +39,7 @@
   }
  ],
  "notes": "AUTO-CREATED from staging - fill metadata & coords Added 2026-07-08 (keyword discovery round 2).",
- "last_updated": "2026-07-08",
+ "last_updated": "2026-07-11",
  "plx_mas": null,
  "mags": null
 }
