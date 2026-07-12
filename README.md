@@ -189,7 +189,7 @@ no overlap:**
    (`make_systems.py` only auto-applies coords to seed systems). For HSC/2MASS-designated
    objects, parse RA/Dec straight from the name if SIMBAD misses it.
 3. **Figures** — `python3 backend-data/gen_fetch_script.py` regenerates `backend-data/fetch_sources.sh`,
-   then `cd backend && bash fetch_sources.sh` (this checkout has internet) downloads the
+   then `cd backend-data && bash fetch_sources.sh` (this checkout has internet) downloads the
    arXiv tarballs + `fetch_extra.txt` PDFs into `images/_sources/`. Then `extract_sources.py`.
 4. **Crop panels** — either a manifest (`python3 backend-data/crop_panels.py manifests/<name>.json`)
    or, for one-off / already-existing records, crop directly with Pillow to
