@@ -553,6 +553,34 @@ renames systems). Surfaced backlog: 123 systems still carry AUTO-CREATED
 placeholder notes. Frontend search confirmed to index alt_names (renames stay
 findable). 515 systems, 2171 image records, 0 errors / 0 warnings.
 
+2026-07-11 (exploration round: 4 parallel agents, STILL-OPEN queue cleared).
+Forward axis first: fresh_papers --days 4 -> 53 submissions, 0 hits (quiet).
+Retrospective round on the queued veins, +121 records +6 systems (2171->2292,
+515->521):
+(1) Hom et al. 2024 GPI Paper II (2402.00214 = 2024MNRAS.528.6959H): +10 GPI
+total-intensity pyKLIP records (8 H + 2 K1), per-target epochs 2015-2018 -
+fills the total-intensity axis beside the held Esposito 2020 polarized GPI.
+(2) MAPS line-emission maps (Law 2021 MAPS III, 2109.06210 = 2021ApJS..257....3L):
++35 = 5 disks x 7 tracers (12CO/13CO/C18O 2-1, C2H, HCN 3-2, HCO+ 1-0, CS 2-1)
+moment-0 maps, survey=MAPS - the atlas's first molecular-tracer axis.
+(3) AGE-PRO Oph+USco (Ruiz-Rodriguez 2025 2506.10731 + Agurto-Gangas 2025
+2506.10735 - agent corrected the brief's Trapman guess): +37 (12CO/13CO mom-0
+galleries + 3 missing continuum), 4 NEW systems (ISO-Oph 161, J1605-2023,
+J1611-1918, BV Sco); continuum for the other 17 already held from AGE-PRO I,
+correctly skipped as same-dataset; 1 cloud-mush 13CO dropped after VIEW.
+AGE-PRO now COMPLETE 30/30. Follow-up available: Agurto-Gangas Fig 8 Band 7.
+(4) Pre-ALMA mm classics: +39, 2 NEW systems (WL 18, DoAr 24 E). SMA 880um Oph
+galleries (Andrews 2009 x9 + 2010 x8, 2005-2009, pre-ALMA cavities of SR 21/
+SR 24S/DoAr 44), CARMA 1.3mm (Isella 2009 x11, per-track dates), PdBI landmarks:
+LkCa 15 FIRST cavity image + MWC 480 (Pietu 2006), AB Aur ring + sub-arcsec 13CO
+(Pietu 2005), GG Tau 'ring world' (Guilloteau 1999, obs 1997) and THE FIRST
+GG Tau ring image (Dutrey 1994, obs 1992-93; scanned A&A pages via ADS - the
+atlas's earliest mm epoch). Alias cross-matches coordinate-verified (GSS 39=
+elias-27, VSSG 1=elias-20, WSB 60=iso-oph-196); zero duplicate systems created
+(health_check clean after every batch). Isella Fig 2 GM Aur/TW Hya/HD 163296
+panels skipped (re-published SMA/PdBI data; ingest from originals later).
+521 systems, 2292 image records, 0 errors / 0 warnings.
+
 2026-07-11 (HD 34282, user-directed). Added ONLY panel (a) of Fig 1 of Quiroz et al.
 2022 (arXiv 2111.12708 = 2022ApJ...924L...4Q, "Improving Planet Detection with Disk
 Modeling: Keck/NIRC2 Imaging of the HD 34282 Single-armed Protoplanetary Disk"): the
