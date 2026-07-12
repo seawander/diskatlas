@@ -1,6 +1,6 @@
 {
  "_doc": "Per-survey ingestion state. entries/coords/images: done|partial|todo. Update on every ingest.",
- "updated": "2026-07-11: Coordinate sweep (CLEAN) + name cleanup (user-directed). Verified all 85 systems with positional (2MASS/WISE/etc.) designations - recomputed coords from each name and SIMBAD cone-searched: NO coordinate errors beyond the 9 gallery ones already fixed (the 3 flagged - 1RXS J1609 + 2 HSCS quasars - have correct precise coords; those catalog names are just coarse). Renamed 31 raw-designation systems to short literature-style JHHMM+/-DDMM monikers (TRUNCATED from the 2MASS designation, matching usage) or common names (j160421-7 -> RX J1604.3-2130 A); full designations preserved in alt_names, simbad kept resolvable. 522 systems, 2172 image records.",
+ "updated": "2026-07-11: Short-name collision fix + J1612 recrop (user-directed). Reverted 10 systems whose short JHHMM moniker shared an RA prefix (J1608 x3, J1609 x3, J1610 x2, J1612 x2) back to their full 2MASS names - the bare JHHMM is ambiguous when >1 system shares it; short monikers kept only where the JHHMM prefix is unique (moniker preserved in alt_names). Recropped the 2.2um K-band Qphi panel (Ginski et al. 2025, 2506.05892 Fig 2, panel 2) for 2MASS J16120668-3010270: the old crop bled in panel 1's edge + the bottom axis; new crop is the clean panel. 522 systems, 2172 image records.",
  "surveys": {
   "DSHARP": {
    "entries": "done",

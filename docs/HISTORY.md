@@ -496,6 +496,19 @@ first pass mistakenly ROUNDED giving J0413/J1609, corrected to truncation). Full
 designations preserved in alt_names; simbad fields left SIMBAD-resolvable. No name
 collisions. 522 systems, 2172 image records, 0 errors / 0 warnings.
 
+2026-07-11 (short-name collision fix + J1612 recrop, user follow-up). User clarified
+the short-moniker policy: keep number-based JHHMM monikers, BUT where two+ systems
+share the same JHHMM RA prefix the short form is ambiguous, so don't use it for them.
+Reverted 10 such systems to their full 2MASS names (moniker kept in alt_names):
+J1608 (x3: 2MASS J16082324-1930009, J16083070-3828268, J16085324-3914401), J1609
+(x3: J16090075-1908526, J16090141-3925119, J16092697-3836269), J1610 (x2: J16100501
+-2132318, J16102955-3922144), J1612 (x2: J16120668-3010270, J16124373-3815031).
+Short monikers retained only where the JHHMM prefix is unique. Also recropped the
+2.2um K-band Q_phi panel of 2MASS J16120668-3010270 (sphere-k-qphi record) from
+Ginski et al. 2025 (2506.05892) Fig 2 panel 2: the old crop had bled in panel 1's
+right edge + the bottom ax label; the new crop is the clean single panel. 522
+systems, 2172 image records, 0 errors / 0 warnings.
+
 2026-07-11 (HD 34282, user-directed). Added ONLY panel (a) of Fig 1 of Quiroz et al.
 2022 (arXiv 2111.12708 = 2022ApJ...924L...4Q, "Improving Planet Detection with Disk
 Modeling: Keck/NIRC2 Imaging of the HD 34282 Single-armed Protoplanetary Disk"): the
