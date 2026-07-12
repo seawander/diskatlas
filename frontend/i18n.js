@@ -41,7 +41,7 @@ window.I18N = {
     col_planet_sub: "images"
   },
   zh: {
-    title: "已分辨星周盘与直接成像伴体",
+    title: "星周盘图像与直接成像伴体 · 交互式全天图",
     search_ph: "搜索恒星或文献…(如 HL Tau、Ren 2021)",
     word_systems: "个系统", word_records: "条图像记录", word_local: "张本地图", word_updated: "最近更新",
     tab_sky: "星图", tab_matrix: "覆盖矩阵", tab_tonight: "今夜可观测", fold_filters: "显示 / 隐藏筛选",
