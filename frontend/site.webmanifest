@@ -1,0 +1,17 @@
+{
+  "name": "diskatlas — resolved disks & imaged companions",
+  "short_name": "diskatlas",
+  "description": "Offline all-sky atlas of resolved circumstellar disks, imaged companions, and quasar hosts.",
+  "lang": "en",
+  "start_url": "../index.html",
+  "scope": "../",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#0b1020",
+  "theme_color": "#0b1020",
+  "icons": [
+    { "src": "logo.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" },
+    { "src": "favicon.png", "sizes": "64x64", "type": "image/png" },
+    { "src": "apple-touch-icon.png", "sizes": "180x180", "type": "image/png", "purpose": "maskable" }
+  ]
+}

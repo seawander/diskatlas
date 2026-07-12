@@ -4,6 +4,19 @@
 <meta charset="utf-8">
 <title>diskatlas: resolved circumstellar disks & imaged companions</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="Offline all-sky atlas of resolved circumstellar disks, directly imaged companions, and coronagraphic quasar hosts — an interactive sky map over 520+ systems.">
+<meta name="theme-color" content="#0b1020">
+<link rel="manifest" href="frontend/site.webmanifest">
+<!-- Open Graph / Twitter card -->
+<meta property="og:type" content="website">
+<meta property="og:title" content="diskatlas: resolved circumstellar disks & imaged companions">
+<meta property="og:description" content="Interactive offline all-sky atlas of resolved disks, imaged companions, and quasar hosts.">
+<meta property="og:url" content="https://seawander.github.io/diskatlas/">
+<meta property="og:image" content="https://seawander.github.io/diskatlas/.github/social-preview.png">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="diskatlas: resolved circumstellar disks & imaged companions">
+<meta name="twitter:description" content="Interactive offline all-sky atlas of resolved disks, imaged companions, and quasar hosts.">
+<meta name="twitter:image" content="https://seawander.github.io/diskatlas/.github/social-preview.png">
 <link rel="stylesheet" href="frontend/style.css">
 <link rel="icon" type="image/svg+xml" href="frontend/logo.svg">
 <link rel="icon" type="image/png" sizes="64x64" href="frontend/favicon.png">
@@ -56,5 +69,14 @@
 <script src="frontend/constellations.js"></script>
 <script src="frontend/i18n.js"></script>
 <script src="frontend/app.js"></script>
+<script>
+  /* Register the service worker for instant repeat loads + true offline use.
+     Guarded so file:// (double-click) use is untouched — SWs need http(s). */
+  if ('serviceWorker' in navigator && location.protocol.indexOf('http') === 0) {
+    addEventListener('load', function () {
+      navigator.serviceWorker.register('sw.js').catch(function () {});
+    });
+  }
+</script>
 </body>
 </html>

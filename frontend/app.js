@@ -881,7 +881,7 @@ if (typeof window !== "undefined") (function () {
       const n = ims.length, at = o => ims[(curImg + o + n) % n];
       const slide = im => {
         const s = document.createElement("div"); s.className = "d_slide";
-        if (im.file) { const g = new Image(); g.alt = ""; g.src = im.file; s.appendChild(g); }
+        if (im.file) { const g = new Image(); g.alt = ""; g.decoding = "async"; g.src = im.file; s.appendChild(g); }
         else s.innerHTML = '<div class="placeholder"><span class="big">⏳</span>' + esc(t("d_pending1")) + "</div>";
         return s;
       };
@@ -1069,7 +1069,7 @@ if (typeof window !== "undefined") (function () {
     const box = document.getElementById("d_imgbox");
     const prevImg = dir ? box.querySelector("img") : null;   // outgoing image, grabbed before the swap
     if (im.file) {
-      box.innerHTML = '<img alt="" src="' + esc(im.file) + '">';
+      box.innerHTML = '<img alt="" decoding="async" src="' + esc(im.file) + '">';
     } else {
       box.innerHTML = '<div class="placeholder"><span class="big">⏳</span>' +
         esc(t("d_pending1")) + "<br>" + esc(t("d_pending2")) + "</div>";
