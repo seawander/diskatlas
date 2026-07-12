@@ -463,3 +463,20 @@ HH 914 Ha+[OI] eastward knot, Fig 8). Skipped Fig 5 (NACO archival non-HST + dup
 Fig 7 Ass Cha T 2-16 (marginal FWHM), Fig 10 ESO-Ha 569 (below detection limit),
 Fig 11 ESO-Ha 574 (done separately from Whelan 2014), Fig 1 (field map). 523
 systems, 2171 image records, 0 errors / 0 warnings.
+
+2026-07-11 (J11095340=FM Cha merge + Kurtovic-gallery coordinate audit, user-
+directed). User flagged that gallery system J11095340 = 2MASS J11095340-7634255
+(Kurtovic 2605.30023 Table 2), which SIMBAD resolves to FM Cha - the SAME object as
+ced112-irs4 (= CED 112 IRS 4), just created for the jets task. MERGED j11095340
+(ALMA disk) + ced112-irs4 (Robberto HST HH 914 jet) into a single system fm-cha
+"FM Cha" (3 images; image files git mv'd to images/fm-cha/, old two systems removed).
+Then audited coordinate completeness: 0 systems have null coords, but the 12
+bare-J-number gallery systems revealed a systematic bug - 9 had ra/dec mis-parsed
+from their 2MASS designation (HHMMSSss read as HH MM SSSS -> positions off by
+degrees; a SIMBAD cone-search at the stored coords hit empty sky). Recomputed all 9
+correctly from the 2MASS names and SIMBAD-verified each to <0.2": j04343128,
+j04360131, j05080709, j160421-7, j16070854, j16090141, j16092697, j16102955,
+j16140792. Renamed j16140792 -> V1098 Sco (its real name). Set valid resolvable
+simbad ids on the 3 that had bare-J placeholders (j16000236 -> UCAC3 96-205752;
+j16100501 -> 2MASS J16100501-2132318; j17110392 -> 2MASS J17110392-2722551; their
+coords were already correct). 522 systems, 2171 image records, 0 errors / 0 warnings.

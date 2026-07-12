@@ -1,14 +1,15 @@
 {
- "id": "ced112-irs4",
- "name": "CED 112 IRS 4",
+ "id": "fm-cha",
+ "name": "FM Cha",
  "alt_names": [
+  "CED 112 IRS 4",
+  "2MASS J11095340-7634255",
   "Sz 32",
-  "V* FM Cha",
   "HBC 579",
   "Ass Cha T 1-23",
   "ISO-ChaI 223"
  ],
- "simbad": "NAME CED 112 IRS 4",
+ "simbad": "V* FM Cha",
  "ra_deg": 167.47257877955,
  "dec_deg": -76.57379240031,
  "dist_pc": 192.6,
@@ -20,7 +21,7 @@
  "planets": [],
  "images": [
   {
-   "image_id": "ced112-irs4_wfpc2-f656n-2009",
+   "image_id": "fm-cha_wfpc2-f656n-2009",
    "type": "disk_scattered",
    "facility": "HST",
    "instrument": "WFPC2",
@@ -28,7 +29,7 @@
    "wavelength_label": "F656N Halpha 0.656 um (HH 914 eastward knot)",
    "technique": "emission-line imaging (jet)",
    "survey": null,
-   "file": "images/ced112-irs4/ced112-irs4_wfpc2-f656n-2009.png",
+   "file": "images/fm-cha/fm-cha_wfpc2-f656n-2009.png",
    "credit": "Robberto et al. 2012, Fig. 8 (crop)",
    "note": "",
    "paper": {
@@ -42,7 +43,7 @@
    "epoch": "2009"
   },
   {
-   "image_id": "ced112-irs4_wfpc2-f631n-2009",
+   "image_id": "fm-cha_wfpc2-f631n-2009",
    "type": "disk_scattered",
    "facility": "HST",
    "instrument": "WFPC2",
@@ -50,7 +51,7 @@
    "wavelength_label": "F631N [OI] 0.631 um (HH 914 eastward feature)",
    "technique": "emission-line imaging (jet)",
    "survey": null,
-   "file": "images/ced112-irs4/ced112-irs4_wfpc2-f631n-2009.png",
+   "file": "images/fm-cha/fm-cha_wfpc2-f631n-2009.png",
    "credit": "Robberto et al. 2012, Fig. 8 (crop)",
    "note": "",
    "paper": {
@@ -62,9 +63,30 @@
     "bibcode": "2012AJ....144...83R"
    },
    "epoch": "2009"
+  },
+  {
+   "image_id": "fm-cha_alma-kurtovic26",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "continuum",
+   "wavelength_um": 1300,
+   "wavelength_label": "mm dust continuum (ALMA archival substructure gallery)",
+   "technique": "interferometry",
+   "survey": null,
+   "file": "images/fm-cha/fm-cha_alma-kurtovic26.png",
+   "credit": "Kurtovic et al. 2026, Fig. 25 (ALMA archival gallery, crop)",
+   "paper": {
+    "first_author": "Kurtovic",
+    "year": 2026,
+    "title": "An archival summary: 15 years of ALMA observations on disks and planet formation",
+    "journal": "arXiv",
+    "arxiv": "2605.30023",
+    "bibcode": "2026arXiv260530023K"
+   },
+   "epoch": null
   }
  ],
- "notes": "Young star (= FM Cha) in Chamaeleon I driving the HH 914 flow; HST/WFPC2 Halpha/[OI] resolve an eastward HH knot ~0.30\" (47 au) from the star (Robberto et al. 2012).",
+ "notes": "FM Cha (= CED 112 IRS 4 = 2MASS J11095340-7634255 = Ass Cha T 1-23) in Chamaeleon I: young star driving the HH 914 flow (HST/WFPC2 Halpha+[OI] eastward knot; Robberto et al. 2012) with a resolved ALMA dust disk (Kurtovic et al. 2026 archival gallery).",
  "last_updated": "2026-07-11",
  "plx_mas": 5.1929,
  "mags": {}

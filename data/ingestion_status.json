@@ -1,6 +1,6 @@
 {
  "_doc": "Per-survey ingestion state. entries/coords/images: done|partial|todo. Update on every ingest.",
- "updated": "2026-07-11: Robberto 2012 Cha I HST jet+disk atlas harvested (subagent). +9 HST/WFPC2 emission-line/scattered-light panels (Robberto et al. 2012, 1205.2727 = 2012AJ....144...83R, GO 11983, 2009): CT Cha [OI]+[SII] circumstellar emission, HH 48 F547M edge-on-disk B + [SII] HH flow, WW Cha [SII] shock, + 3 NEW Cha I systems - SX Cha ([SII] jet), Sz 4 (resolved close binary), CED 112 IRS 4 (HH 914 knot, Ha+[OI]). Skipped Ass Cha T 2-16, ESO-Ha 569 (marginal/undetected). All disk_scattered. 523 systems, 2171 image records.",
+ "updated": "2026-07-11: J11095340=FM Cha merge + Kurtovic-gallery coordinate audit (user-directed). Merged duplicate systems j11095340 (ALMA disk) + ced112-irs4 (Robberto HST HH 914 jet) into fm-cha 'FM Cha' (= 2MASS J11095340-7634255 = CED 112 IRS 4 = Ass Cha T 1-23; 3 images). Audited the 12 bare-J-number gallery systems: FOUND 9 with ra/dec mis-parsed from their 2MASS designation (off by degrees - HHMMSSss read as HH MM SSSS); recomputed all 9 from the 2MASS names and SIMBAD-verified each to <0.2\". Made 3 unresolved bare 'simbad' fields valid/resolvable (UCAC3 96-205752, 2MASS J16100501-2132318, 2MASS J17110392-2722551). Renamed j16140792 -> V1098 Sco. 0 systems with null coords. 522 systems, 2171 image records.",
  "surveys": {
   "DSHARP": {
    "entries": "done",

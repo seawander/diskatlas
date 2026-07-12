@@ -5,8 +5,8 @@
   "2MASS J16102955-3922144"
  ],
  "simbad": "2MASS J16102955-3922144",
- "ra_deg": 254.8125,
- "dec_deg": -39.406667,
+ "ra_deg": 242.623125,
+ "dec_deg": -39.370667,
  "dist_pc": 160.0,
  "sptype": null,
  "region": "Lupus",
@@ -37,7 +37,7 @@
    "epoch": null
   }
  ],
- "notes": "Transition disk with an inner dust cavity; ALMA continuum from the Vioque et al. 2026 gallery. Coords parsed from the 2MASS identifier. Added 2026-07-11.",
+ "notes": "Transition disk with an inner dust cavity; ALMA continuum from the Vioque et al. 2026 gallery. Coords parsed from the 2MASS identifier. Added 2026-07-11. [coordinates corrected 2026-07-11 from the 2MASS designation; the Kurtovic-gallery ingest had mis-parsed HHMMSSss.]",
  "last_updated": "2026-07-11",
  "plx_mas": null,
  "mags": {
