@@ -1,0 +1,57 @@
+{
+ "id": "doar-24e",
+ "name": "DoAr 24 E",
+ "alt_names": [
+  "GSS 31",
+  "Elias 22",
+  "HBC 639",
+  "ISO-Oph 36",
+  "WSB 30",
+  "ROXs 10B",
+  "2MASS J16262335-2420597"
+ ],
+ "simbad": "GSS 31",
+ "ra_deg": 246.59736855726,
+ "dec_deg": -24.34988316118,
+ "dist_pc": 139.2,
+ "sptype": "K0e",
+ "region": "Ophiuchus",
+ "categories": [
+  "protoplanetary"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "image_id": "doar-24e_sma880",
+   "type": "disk_mm",
+   "facility": "SMA",
+   "instrument": "SMA",
+   "wavelength_um": 880,
+   "wavelength_label": "880 um continuum (pre-ALMA SMA); E + IRC binary pair",
+   "technique": "interferometry",
+   "survey": null,
+   "file": "images/doar-24e/doar-24e_sma880.png",
+   "credit": "Andrews et al. 2010, Fig. 2 (crop)",
+   "note": "",
+   "paper": {
+    "first_author": "Andrews",
+    "year": 2010,
+    "title": "Protoplanetary Disk Structures in Ophiuchus. II. Extension to Fainter Sources",
+    "journal": "ApJ 723, 1241",
+    "arxiv": "1007.5070",
+    "bibcode": "2010ApJ...723.1241A"
+   },
+   "epoch": "2009"
+  }
+ ],
+ "notes": "Binary in Ophiuchus: the optically visible primary DoAr 24 E and its infrared companion (DoAr 24E IRC) show roughly equal 880 um emission, both imaged in the pre-ALMA SMA survey (Andrews et al. 2010).",
+ "last_updated": "2026-07-11",
+ "plx_mas": 7.1857,
+ "mags": {
+  "V": 14.7,
+  "G": 12.974802,
+  "J": 8.97,
+  "H": 7.5,
+  "K": 6.571
+ }
+}

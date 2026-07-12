@@ -159,6 +159,28 @@
     "bibcode": "2026arXiv260530023K"
    },
    "epoch": null
+  },
+  {
+   "image_id": "uz-tau-e_carma1300",
+   "type": "disk_mm",
+   "facility": "CARMA",
+   "instrument": "CARMA",
+   "wavelength_um": 1300,
+   "wavelength_label": "1.3 mm continuum (pre-ALMA CARMA); UZ Tau W cross-marked",
+   "technique": "interferometry",
+   "survey": null,
+   "file": "images/uz-tau-e/uz-tau-e_carma1300.png",
+   "credit": "Isella et al. 2009, Fig. 1 (crop)",
+   "note": "",
+   "paper": {
+    "first_author": "Isella",
+    "year": 2009,
+    "title": "Structure and Evolution of Pre-main-sequence Circumstellar Disks",
+    "journal": "ApJ 701, 260",
+    "arxiv": "0906.2227",
+    "bibcode": "2009ApJ...701..260I"
+   },
+   "epoch": "2007-10-27"
   }
  ],
  "notes": null,

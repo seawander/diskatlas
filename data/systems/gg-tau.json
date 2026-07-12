@@ -262,6 +262,94 @@
     "bibcode": "2026arXiv260530023K"
    },
    "epoch": null
+  },
+  {
+   "image_id": "gg-tau_pdbi1400-ring99",
+   "type": "disk_mm",
+   "facility": "IRAM-PdBI",
+   "instrument": "IRAM-PdBI",
+   "wavelength_um": 1400,
+   "wavelength_label": "1.4 mm continuum (PdBI; the circumbinary ring resolved)",
+   "technique": "interferometry",
+   "survey": null,
+   "file": "images/gg-tau/gg-tau_pdbi1400-ring99.png",
+   "credit": "Guilloteau et al. 1999, Fig. 1 (crop)",
+   "note": "",
+   "paper": {
+    "first_author": "Guilloteau",
+    "year": 1999,
+    "title": "GG Tauri: the ring world",
+    "journal": "A&A 348, 570",
+    "arxiv": null,
+    "bibcode": "1999A&A...348..570G"
+   },
+   "epoch": "1997"
+  },
+  {
+   "image_id": "gg-tau_pdbi3400-ring99",
+   "type": "disk_mm",
+   "facility": "IRAM-PdBI",
+   "instrument": "IRAM-PdBI",
+   "wavelength_um": 3400,
+   "wavelength_label": "3.4 mm continuum (PdBI)",
+   "technique": "interferometry",
+   "survey": null,
+   "file": "images/gg-tau/gg-tau_pdbi3400-ring99.png",
+   "credit": "Guilloteau et al. 1999, Fig. 1 (crop)",
+   "note": "",
+   "paper": {
+    "first_author": "Guilloteau",
+    "year": 1999,
+    "title": "GG Tauri: the ring world",
+    "journal": "A&A 348, 570",
+    "arxiv": null,
+    "bibcode": "1999A&A...348..570G"
+   },
+   "epoch": "1997"
+  },
+  {
+   "image_id": "gg-tau_pdbi2600-cont94",
+   "type": "disk_mm",
+   "facility": "IRAM-PdBI",
+   "instrument": "IRAM-PdBI",
+   "wavelength_um": 2600,
+   "wavelength_label": "2.6 mm continuum + 13CO channel contours (FIRST GG Tau ring image)",
+   "technique": "interferometry",
+   "survey": null,
+   "file": "images/gg-tau/gg-tau_pdbi2600-cont94.png",
+   "credit": "Dutrey et al. 1994, Fig. 1 (crop)",
+   "note": "",
+   "paper": {
+    "first_author": "Dutrey",
+    "year": 1994,
+    "title": "Images of the GG Tauri rotating ring",
+    "journal": "A&A 286, 149",
+    "arxiv": null,
+    "bibcode": "1994A&A...286..149D"
+   },
+   "epoch": "1992-1993"
+  },
+  {
+   "image_id": "gg-tau_pdbi-13co94",
+   "type": "disk_mm",
+   "facility": "IRAM-PdBI",
+   "instrument": "IRAM-PdBI",
+   "wavelength_um": 2700,
+   "wavelength_label": "13CO 1-0 integrated intensity (PdBI)",
+   "technique": "interferometry",
+   "survey": null,
+   "file": "images/gg-tau/gg-tau_pdbi-13co94.png",
+   "credit": "Dutrey et al. 1994, Fig. 2a (crop)",
+   "note": "",
+   "paper": {
+    "first_author": "Dutrey",
+    "year": 1994,
+    "title": "Images of the GG Tauri rotating ring",
+    "journal": "A&A 286, 149",
+    "arxiv": null,
+    "bibcode": "1994A&A...286..149D"
+   },
+   "epoch": "1992-1993"
   }
  ],
  "notes": null,

@@ -1,0 +1,53 @@
+{
+ "id": "wl-18",
+ "name": "WL 18",
+ "alt_names": [
+  "GY 129",
+  "[GY92] 129",
+  "ISO-Oph 72",
+  "2MASS J16264897-2438252"
+ ],
+ "simbad": "WL 18",
+ "ra_deg": 246.70408736687,
+ "dec_deg": -24.64032016478,
+ "dist_pc": 132.5,
+ "sptype": "M3.5",
+ "region": "Ophiuchus",
+ "categories": [
+  "protoplanetary"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "image_id": "wl-18_sma880",
+   "type": "disk_mm",
+   "facility": "SMA",
+   "instrument": "SMA",
+   "wavelength_um": 880,
+   "wavelength_label": "880 um continuum (pre-ALMA SMA); marginally resolved",
+   "technique": "interferometry",
+   "survey": null,
+   "file": "images/wl-18/wl-18_sma880.png",
+   "credit": "Andrews et al. 2010, Fig. 2 (crop)",
+   "note": "",
+   "paper": {
+    "first_author": "Andrews",
+    "year": 2010,
+    "title": "Protoplanetary Disk Structures in Ophiuchus. II. Extension to Fainter Sources",
+    "journal": "ApJ 723, 1241",
+    "arxiv": "1007.5070",
+    "bibcode": "2010ApJ...723.1241A"
+   },
+   "epoch": "2009"
+  }
+ ],
+ "notes": "Embedded flat-spectrum source in Ophiuchus; faint marginally-resolved 880 um disk (51 mJy) in the pre-ALMA SMA survey (Andrews et al. 2010).",
+ "last_updated": "2026-07-11",
+ "plx_mas": 7.5468,
+ "mags": {
+  "G": 19.445652,
+  "J": 13.5,
+  "H": 11.44,
+  "K": 9.977
+ }
+}

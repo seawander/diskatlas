@@ -77,6 +77,28 @@
     "bibcode": "2026arXiv260530023K"
    },
    "epoch": null
+  },
+  {
+   "image_id": "iso-oph-196_sma880",
+   "type": "disk_mm",
+   "facility": "SMA",
+   "instrument": "SMA",
+   "wavelength_um": 880,
+   "wavelength_label": "880 um continuum (pre-ALMA SMA); WSB 60",
+   "technique": "interferometry",
+   "survey": null,
+   "file": "images/iso-oph-196/iso-oph-196_sma880.png",
+   "credit": "Andrews et al. 2009, Fig. 1 (crop)",
+   "note": "",
+   "paper": {
+    "first_author": "Andrews",
+    "year": 2009,
+    "title": "Protoplanetary Disk Structures in Ophiuchus",
+    "journal": "ApJ 700, 1502",
+    "arxiv": "0906.0730",
+    "bibcode": "2009ApJ...700.1502A"
+   },
+   "epoch": "2008"
   }
  ],
  "notes": "AUTO-CREATED from staging - fill metadata & coords",

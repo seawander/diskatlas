@@ -337,6 +337,50 @@
     "bibcode": "2021ApJS..257....3L"
    },
    "epoch": "2018-2019"
+  },
+  {
+   "image_id": "mwc-480_pdbi1400",
+   "type": "disk_mm",
+   "facility": "IRAM-PdBI",
+   "instrument": "IRAM-PdBI",
+   "wavelength_um": 1400,
+   "wavelength_label": "1.4 mm continuum (pre-ALMA PdBI)",
+   "technique": "interferometry",
+   "survey": null,
+   "file": "images/mwc-480/mwc-480_pdbi1400.png",
+   "credit": "Pietu et al. 2006, Fig. 1 (crop)",
+   "note": "",
+   "paper": {
+    "first_author": "Pietu",
+    "year": 2006,
+    "title": "Resolving the inner dust disks surrounding LkCa 15 and MWC 480 at mm wavelengths",
+    "journal": "A&A 460, L43",
+    "arxiv": "astro-ph/0610200",
+    "bibcode": "2006A&A...460L..43P"
+   },
+   "epoch": "2001-2005"
+  },
+  {
+   "image_id": "mwc-480_pdbi2800",
+   "type": "disk_mm",
+   "facility": "IRAM-PdBI",
+   "instrument": "IRAM-PdBI",
+   "wavelength_um": 2800,
+   "wavelength_label": "2.8 mm continuum (pre-ALMA PdBI)",
+   "technique": "interferometry",
+   "survey": null,
+   "file": "images/mwc-480/mwc-480_pdbi2800.png",
+   "credit": "Pietu et al. 2006, Fig. 1 (crop)",
+   "note": "",
+   "paper": {
+    "first_author": "Pietu",
+    "year": 2006,
+    "title": "Resolving the inner dust disks surrounding LkCa 15 and MWC 480 at mm wavelengths",
+    "journal": "A&A 460, L43",
+    "arxiv": "astro-ph/0610200",
+    "bibcode": "2006A&A...460L..43P"
+   },
+   "epoch": "2001-2005"
   }
  ],
  "notes": null,
