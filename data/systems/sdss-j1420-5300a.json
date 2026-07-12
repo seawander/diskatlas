@@ -1,0 +1,73 @@
+{
+ "id": "sdss-j1420-5300a",
+ "name": "SDSS1420+5300A",
+ "alt_names": [
+  "AEGIS 742"
+ ],
+ "simbad": "[VV2006] J142005.5+530037",
+ "ra_deg": 215.0233,
+ "dec_deg": 53.0102,
+ "dist_pc": 3490.4,
+ "sptype": null,
+ "region": "high-z quasar",
+ "categories": [
+  "quasar"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "image_id": "sdss-j1420-5300a_sdss1420-5300a-f150w-host",
+   "type": "quasar",
+   "facility": "JWST",
+   "instrument": "NIRCam",
+   "wavelength_um": 1.5,
+   "wavelength_label": "F150W host (data - quasar PSF)",
+   "technique": "PSF-subtracted imaging",
+   "survey": null,
+   "content": "continuum",
+   "file": "images/sdss-j1420-5300a/sdss-j1420-5300a_sdss1420-5300a-f150w-host.png",
+   "credit": "Ding et al. 2022, Fig. 3 (crop)",
+   "note": "z=1.646; data-quasar (PSF-subtracted) host; barred spiral",
+   "paper": {
+    "first_author": "Ding",
+    "year": 2022,
+    "title": "Opening the Era of Quasar-host Studies at High Redshift with JWST",
+    "journal": "ApJL 939, L28",
+    "arxiv": "2209.03359",
+    "bibcode": "2022ApJ...939L..28D"
+   },
+   "epoch": "2022-06"
+  },
+  {
+   "image_id": "sdss-j1420-5300a_sdss1420-5300a-f444w-host",
+   "type": "quasar",
+   "facility": "JWST",
+   "instrument": "NIRCam",
+   "wavelength_um": 4.44,
+   "wavelength_label": "F444W host (data - quasar PSF)",
+   "technique": "PSF-subtracted imaging",
+   "survey": null,
+   "content": "continuum",
+   "file": "images/sdss-j1420-5300a/sdss-j1420-5300a_sdss1420-5300a-f444w-host.png",
+   "credit": "Ding et al. 2022, Fig. 3 (crop)",
+   "note": "z=1.646; data-quasar (PSF-subtracted) host; barred spiral",
+   "paper": {
+    "first_author": "Ding",
+    "year": 2022,
+    "title": "Opening the Era of Quasar-host Studies at High Redshift with JWST",
+    "journal": "ApJL 939, L28",
+    "arxiv": "2209.03359",
+    "bibcode": "2022ApJ...939L..28D"
+   },
+   "epoch": "2022-06"
+  }
+ ],
+ "notes": "JWST/NIRCam PSF-subtracted imaging detects the quasar host galaxy (Ding et al. 2022, CEERS).",
+ "last_updated": "2026-07-12",
+ "plx_mas": 0.2865,
+ "mags": {
+  "V": 20.33,
+  "G": 19.779882,
+  "H": 19.787
+ }
+}

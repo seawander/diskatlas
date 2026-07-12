@@ -1,0 +1,50 @@
+{
+ "id": "hops-140",
+ "name": "HOPS-140",
+ "alt_names": [
+  "HOPS 140"
+ ],
+ "simbad": "2MASS J05384628-0701536",
+ "ra_deg": 84.692833,
+ "dec_deg": -7.031556,
+ "dist_pc": null,
+ "sptype": null,
+ "region": "Orion",
+ "categories": [
+  "protoplanetary"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "image_id": "hops-140_alma345",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 7",
+   "wavelength_um": 870,
+   "wavelength_label": "345 GHz (0.87 mm) continuum",
+   "technique": "interferometry",
+   "survey": null,
+   "content": "continuum",
+   "file": "images/hops-140/hops-140_alma345.png",
+   "credit": "Sheehan et al. 2020, Fig. 1 (crop)",
+   "note": "disk with central point src + ring",
+   "paper": {
+    "first_author": "Sheehan",
+    "year": 2020,
+    "title": "The VLA/ALMA Nascent Disk and Multiplicity (VANDAM) Survey of Orion Protostars. III. Substructures in Protostellar Disks",
+    "journal": "ApJ 902, 141",
+    "arxiv": "2010.00606",
+    "bibcode": "2020ApJ...902..141S"
+   },
+   "epoch": "2016-2017"
+  }
+ ],
+ "notes": "Protostellar disk imaged at 0.87 mm in the VANDAM Orion survey (Sheehan et al. 2020).",
+ "last_updated": "2026-07-12",
+ "plx_mas": null,
+ "mags": {
+  "J": 21.04,
+  "H": 16.457,
+  "K": 13.627
+ }
+}

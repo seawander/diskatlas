@@ -4,7 +4,8 @@
  "alt_names": [
   "d216-0939",
   "V2377 Ori",
-  "2MASS J05352157-0509389"
+  "2MASS J05352157-0509389",
+  "HOPS-65"
  ],
  "simbad": "V* V2377 Ori",
  "ra_deg": 83.83989,
@@ -60,6 +61,29 @@
    },
    "epoch": "2018",
    "content": "continuum"
+  },
+  {
+   "image_id": "216-0939_alma345",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 7",
+   "wavelength_um": 870,
+   "wavelength_label": "345 GHz (0.87 mm) continuum",
+   "technique": "interferometry",
+   "survey": null,
+   "content": "continuum",
+   "file": "images/216-0939/216-0939_alma345.png",
+   "credit": "Sheehan et al. 2020, Fig. 1 (crop)",
+   "note": "= HOPS-65; coord match 0.02 arcsec to atlas 216-0939",
+   "paper": {
+    "first_author": "Sheehan",
+    "year": 2020,
+    "title": "The VLA/ALMA Nascent Disk and Multiplicity (VANDAM) Survey of Orion Protostars. III. Substructures in Protostellar Disks",
+    "journal": "ApJ 902, 141",
+    "arxiv": "2010.00606",
+    "bibcode": "2020ApJ...902..141S"
+   },
+   "epoch": "2016-2017"
   }
  ],
  "notes": "One of the largest silhouette/edge-on disks in the Orion Nebula, ~10 arcmin N of the Trapezium (outside the Ricci 2008 ACS Treasury field). HST 3-color shows a bipolar reflection nebula bisected by the edge-on disk lane (Smith et al. 2005); ALMA Band 6 resolves an inclined dust ring with a central cavity (Díaz-Berríos et al. 2024). Distance = ONC (~414 pc). Added 2026-07-11.",

@@ -58,6 +58,52 @@
    },
    "epoch": "2025",
    "content": "continuum"
+  },
+  {
+   "image_id": "cida-1_b7cont",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 7",
+   "wavelength_um": 870,
+   "wavelength_label": "0.87 mm continuum",
+   "technique": "interferometry",
+   "survey": null,
+   "content": "continuum",
+   "file": "images/cida-1/cida-1_b7cont.png",
+   "credit": "Kurtovic et al. 2021, Fig. 1 (crop)",
+   "note": "VLM star; multi-config combined",
+   "paper": {
+    "first_author": "Kurtovic",
+    "year": 2021,
+    "title": "Size and structures of disks around very low mass stars in the Taurus star-forming region",
+    "journal": "A&A 645, A139",
+    "arxiv": "2012.02225",
+    "bibcode": "2021A&A...645A.139K"
+   },
+   "epoch": "2016-2017"
+  },
+  {
+   "image_id": "cida-1_12co",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 7",
+   "wavelength_um": 867,
+   "wavelength_label": "12CO (3-2) moment 0",
+   "technique": "interferometry",
+   "survey": null,
+   "content": "line",
+   "file": "images/cida-1/cida-1_12co.png",
+   "credit": "Kurtovic et al. 2021, Fig. 1 (crop)",
+   "note": "panel labeled 12CO within per-target row",
+   "paper": {
+    "first_author": "Kurtovic",
+    "year": 2021,
+    "title": "Size and structures of disks around very low mass stars in the Taurus star-forming region",
+    "journal": "A&A 645, A139",
+    "arxiv": "2012.02225",
+    "bibcode": "2021A&A...645A.139K"
+   },
+   "epoch": "2016-2017"
   }
  ],
  "notes": "Transition disk with an inner dust cavity (Taurus M-dwarf); ALMA continuum from the Vioque et al. 2026 gallery. Added 2026-07-11.",

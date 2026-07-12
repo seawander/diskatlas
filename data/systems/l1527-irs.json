@@ -107,6 +107,29 @@
     "bibcode": "2020ApJ...901..166V"
    },
    "epoch": "2018-09"
+  },
+  {
+   "image_id": "l1527-irs_alma872um-pol",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 7 full-pol",
+   "wavelength_um": 872,
+   "wavelength_label": "872 um Stokes I + pol vectors",
+   "technique": "interferometric polarimetry",
+   "survey": null,
+   "content": "continuum",
+   "file": "images/l1527-irs/l1527-irs_alma872um-pol.png",
+   "credit": "Harris et al. 2018, Fig. 6 (crop)",
+   "note": "edge-on Class 0 disk",
+   "paper": {
+    "first_author": "Harris",
+    "year": 2018,
+    "title": "ALMA Observations of Polarized 872 um Dust Emission from the Protostellar Systems VLA 1623 and L1527",
+    "journal": "ApJ 861, 91",
+    "arxiv": "1805.08792",
+    "bibcode": "2018ApJ...861...91H"
+   },
+   "epoch": "2016-09-12"
   }
  ],
  "notes": "Class 0 embedded protostar (eDisk)",

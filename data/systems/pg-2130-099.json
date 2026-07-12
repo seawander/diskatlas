@@ -1,0 +1,76 @@
+{
+ "id": "pg-2130-099",
+ "name": "PG 2130+099",
+ "alt_names": [
+  "PG 2130+099",
+  "II Zw 136"
+ ],
+ "simbad": "Mrk 1513",
+ "ra_deg": 323.115901,
+ "dec_deg": 10.138681,
+ "dist_pc": null,
+ "sptype": null,
+ "region": "nearby quasar",
+ "categories": [
+  "quasar"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "image_id": "pg-2130-099_pg-2130-099-co21",
+   "type": "quasar",
+   "facility": "ALMA",
+   "instrument": "Band 6",
+   "wavelength_um": 1300,
+   "wavelength_label": "CO(2-1) integrated intensity",
+   "technique": "interferometry",
+   "survey": null,
+   "content": "line",
+   "file": "images/pg-2130-099/pg-2130-099_pg-2130-099-co21.png",
+   "credit": "Molina et al. 2021, Fig. 3 (crop)",
+   "note": "12m+ACA concatenated; 12m obs date given; panel labeled 'Intensity' (row labeled by target)",
+   "paper": {
+    "first_author": "Molina",
+    "year": 2021,
+    "title": "Compact Molecular Gas Distribution in Quasar Host Galaxies",
+    "journal": "ApJ 908, 231",
+    "arxiv": "2101.00764",
+    "bibcode": "2021ApJ...908..231M"
+   },
+   "epoch": "2019-03-22"
+  },
+  {
+   "image_id": "pg-2130-099_pg-2130-099-hst",
+   "type": "quasar",
+   "facility": "HST",
+   "instrument": "WFPC2",
+   "wavelength_um": 0.555,
+   "wavelength_label": "F555W",
+   "technique": "optical/NIR imaging",
+   "survey": null,
+   "content": "continuum",
+   "file": "images/pg-2130-099/pg-2130-099_pg-2130-099-hst.png",
+   "credit": "Molina et al. 2021, Fig. 3 (crop)",
+   "note": "archival HST host image shown alongside CO in this paper",
+   "paper": {
+    "first_author": "Molina",
+    "year": 2021,
+    "title": "Compact Molecular Gas Distribution in Quasar Host Galaxies",
+    "journal": "ApJ 908, 231",
+    "arxiv": "2101.00764",
+    "bibcode": "2021ApJ...908..231M"
+   },
+   "epoch": null
+  }
+ ],
+ "notes": "Palomar-Green quasar; ALMA CO(2-1) maps the compact molecular gas of the host, shown with archival HST imaging (Molina et al. 2021).",
+ "last_updated": "2026-07-12",
+ "plx_mas": null,
+ "mags": {
+  "V": 14.64,
+  "G": 14.427489,
+  "J": 12.837,
+  "H": 11.748,
+  "K": 10.669
+ }
+}

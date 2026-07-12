@@ -1,0 +1,55 @@
+{
+ "id": "hd-20320",
+ "name": "zeta Eri",
+ "alt_names": [
+  "zeta Eri",
+  "Zibal",
+  "HIP 15197",
+  "HR 984"
+ ],
+ "simbad": "* zet Eri",
+ "ra_deg": 48.95844,
+ "dec_deg": -8.819732,
+ "dist_pc": 36.5,
+ "sptype": "kA4hA9mA9V",
+ "region": "field debris",
+ "categories": [
+  "debris"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "image_id": "hd-20320_zeta-eri-pacs70",
+   "type": "disk_mm",
+   "facility": "Herschel",
+   "instrument": "PACS",
+   "wavelength_um": 70,
+   "wavelength_label": "70 um",
+   "technique": "far-IR imaging",
+   "survey": null,
+   "content": "continuum",
+   "file": "images/hd-20320/hd-20320_zeta-eri-pacs70.png",
+   "credit": "Booth et al. 2013, Fig. 1 (crop)",
+   "note": "kA4hA9mA9V, plx 27.40; marginally-to-well resolved DEBRIS disc",
+   "paper": {
+    "first_author": "Booth",
+    "year": 2013,
+    "title": "Resolved debris discs around A stars in the Herschel DEBRIS survey",
+    "journal": "MNRAS 428, 1263",
+    "arxiv": "1210.0547",
+    "bibcode": "2013MNRAS.428.1263B"
+   },
+   "epoch": "2011-08-24"
+  }
+ ],
+ "notes": "Debris disc resolved at 70/100 um by Herschel/PACS in the DEBRIS survey of A stars (Booth et al. 2013).",
+ "last_updated": "2026-07-12",
+ "plx_mas": 27.395,
+ "mags": {
+  "V": 4.8,
+  "G": 4.733678,
+  "J": 4.4,
+  "H": 4.26,
+  "K": 4.225
+ }
+}

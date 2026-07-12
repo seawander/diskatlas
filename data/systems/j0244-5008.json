@@ -1,0 +1,70 @@
+{
+ "id": "j0244-5008",
+ "name": "J0244-5008",
+ "alt_names": [],
+ "simbad": "QSO J0244-5008",
+ "ra_deg": 41.00425,
+ "dec_deg": -50.14825,
+ "dist_pc": null,
+ "sptype": null,
+ "region": "high-z quasar",
+ "categories": [
+  "quasar"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "image_id": "j0244-5008_cont",
+   "type": "quasar",
+   "facility": "ALMA",
+   "instrument": "Band 6",
+   "wavelength_um": 1210,
+   "wavelength_label": "rest-158um dust continuum (obs ~1.1-1.2 mm)",
+   "technique": "interferometry",
+   "survey": null,
+   "content": "continuum",
+   "file": "images/j0244-5008/j0244-5008_cont.png",
+   "credit": "Wilde et al. 2026, Fig. 3 (crop)",
+   "note": "z=6.72; 2021.1.00934.S; crop from ar5iv render (source rate-limited); host dust continuum",
+   "paper": {
+    "first_author": "Wilde",
+    "year": 2026,
+    "title": "ALMA and JWST Imaging of z > 6 Quasars: No Spatial Position Offset Observed between Quasars and Their Host Galaxies",
+    "journal": "ApJ 996, 8",
+    "arxiv": "2511.03659",
+    "bibcode": "2026ApJ...996....8W"
+   },
+   "epoch": "2021-11-06"
+  },
+  {
+   "image_id": "j0244-5008_cii",
+   "type": "quasar",
+   "facility": "ALMA",
+   "instrument": "Band 6",
+   "wavelength_um": 1210,
+   "wavelength_label": "[CII] 158um integrated line flux",
+   "technique": "interferometry",
+   "survey": null,
+   "content": "line",
+   "file": "images/j0244-5008/j0244-5008_cii.png",
+   "credit": "Wilde et al. 2026, Fig. 4 (crop)",
+   "note": "z=6.72; 2021.1.00934.S; [CII] moment-0 of host",
+   "paper": {
+    "first_author": "Wilde",
+    "year": 2026,
+    "title": "ALMA and JWST Imaging of z > 6 Quasars: No Spatial Position Offset Observed between Quasars and Their Host Galaxies",
+    "journal": "ApJ 996, 8",
+    "arxiv": "2511.03659",
+    "bibcode": "2026ApJ...996....8W"
+   },
+   "epoch": "2021-11-06"
+  }
+ ],
+ "notes": "z>6 quasar; ALMA rest-158um dust continuum and [CII] imaging of the host galaxy (Wilde et al. 2026).",
+ "last_updated": "2026-07-12",
+ "plx_mas": null,
+ "mags": {
+  "J": 20.21,
+  "K": 19.67
+ }
+}

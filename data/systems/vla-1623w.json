@@ -1,0 +1,69 @@
+{
+ "id": "vla-1623w",
+ "name": "VLA 1623W",
+ "alt_names": [
+  "VLA 1623 W"
+ ],
+ "simbad": "ALMA J162625.63-242429.5",
+ "ra_deg": 246.60675,
+ "dec_deg": -24.408028,
+ "dist_pc": null,
+ "sptype": null,
+ "region": "Ophiuchus",
+ "categories": [
+  "protoplanetary"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "image_id": "vla-1623w_vla1623w-alma1-3mm-pol",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 6 full-pol",
+   "wavelength_um": 1300,
+   "wavelength_label": "1.3 mm Stokes I + pol e-vectors",
+   "technique": "interferometric polarimetry",
+   "survey": null,
+   "content": "continuum",
+   "file": "images/vla-1623w/vla-1623w_vla1623w-alma1-3mm-pol.png",
+   "credit": "Sadavoy et al. 2019, Fig. 4 (crop)",
+   "note": "edge-on disk; project 2015.1.01112.S",
+   "paper": {
+    "first_author": "Sadavoy",
+    "year": 2019,
+    "title": "Dust Polarization toward Embedded Protostars in Ophiuchus with ALMA. III. Survey Overview",
+    "journal": "ApJS 245, 2",
+    "arxiv": "1909.02591",
+    "bibcode": "2019ApJS..245....2S"
+   },
+   "epoch": "2017"
+  },
+  {
+   "image_id": "vla-1623w_vla1623w-alma872um-pol",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 7 full-pol",
+   "wavelength_um": 872,
+   "wavelength_label": "872 um Stokes I + pol vectors",
+   "technique": "interferometric polarimetry",
+   "survey": null,
+   "content": "continuum",
+   "file": "images/vla-1623w/vla-1623w_vla1623w-alma872um-pol.png",
+   "credit": "Harris et al. 2018, Fig. 1 (crop)",
+   "note": "edge-on disk",
+   "paper": {
+    "first_author": "Harris",
+    "year": 2018,
+    "title": "ALMA Observations of Polarized 872 um Dust Emission from the Protostellar Systems VLA 1623 and L1527",
+    "journal": "ApJ 861, 91",
+    "arxiv": "1805.08792",
+    "bibcode": "2018ApJ...861...91H"
+   },
+   "epoch": "2016-08-21"
+  }
+ ],
+ "notes": "Embedded protostar imaged in 1.3 mm full-polarization continuum in the ALMA Ophiuchus polarization survey (Sadavoy et al. 2019).",
+ "last_updated": "2026-07-12",
+ "plx_mas": null,
+ "mags": {}
+}

@@ -1,0 +1,54 @@
+{
+ "id": "hd-110411",
+ "name": "rho Vir",
+ "alt_names": [
+  "rho Vir",
+  "HIP 61960",
+  "HR 4828"
+ ],
+ "simbad": "* rho Vir",
+ "ra_deg": 190.471071,
+ "dec_deg": 10.235626,
+ "dist_pc": 38.9,
+ "sptype": "A0Va_lB",
+ "region": "field debris",
+ "categories": [
+  "debris"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "image_id": "hd-110411_rho-vir-pacs70",
+   "type": "disk_mm",
+   "facility": "Herschel",
+   "instrument": "PACS",
+   "wavelength_um": 70,
+   "wavelength_label": "70 um",
+   "technique": "far-IR imaging",
+   "survey": null,
+   "content": "continuum",
+   "file": "images/hd-110411/hd-110411_rho-vir-pacs70.png",
+   "credit": "Booth et al. 2013, Fig. 1 (crop)",
+   "note": "A0Va_lB, plx 25.69; NE background smg noted in paper; marginally-to-well resolved DEBRIS disc",
+   "paper": {
+    "first_author": "Booth",
+    "year": 2013,
+    "title": "Resolved debris discs around A stars in the Herschel DEBRIS survey",
+    "journal": "MNRAS 428, 1263",
+    "arxiv": "1210.0547",
+    "bibcode": "2013MNRAS.428.1263B"
+   },
+   "epoch": "2011-06-10"
+  }
+ ],
+ "notes": "Debris disc resolved at 70/100 um by Herschel/PACS in the DEBRIS survey of A stars (Booth et al. 2013).",
+ "last_updated": "2026-07-12",
+ "plx_mas": 25.6921,
+ "mags": {
+  "V": 4.88,
+  "G": 4.85024,
+  "J": 4.83,
+  "H": 4.761,
+  "K": 4.678
+ }
+}

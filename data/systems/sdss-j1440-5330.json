@@ -1,0 +1,75 @@
+{
+ "id": "sdss-j1440-5330",
+ "name": "SDSS J1440+5330",
+ "alt_names": [
+  "SDSS J144038.09+533015.8"
+ ],
+ "simbad": "Z 273-23",
+ "ra_deg": 220.158734,
+ "dec_deg": 53.504434,
+ "dist_pc": 1772.7,
+ "sptype": null,
+ "region": "obscured quasar",
+ "categories": [
+  "quasar"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "image_id": "sdss-j1440-5330_sdss-j1440-5330-f814w",
+   "type": "quasar",
+   "facility": "HST",
+   "instrument": "WFC3",
+   "wavelength_um": 0.81,
+   "wavelength_label": "F814W",
+   "technique": "optical/NIR imaging",
+   "survey": null,
+   "content": "continuum",
+   "file": "images/sdss-j1440-5330/sdss-j1440-5330_sdss-j1440-5330-f814w.png",
+   "credit": "Zhao et al. 2019, Fig. 4 (crop)",
+   "note": "z=0.038; type 2 quasar; merging system (SDSS inset shows tidal companion); HST GO-12903",
+   "paper": {
+    "first_author": "Zhao",
+    "year": 2019,
+    "title": "The Role of Major Mergers and Nuclear Star Formation in Nearby Obscured Quasars",
+    "journal": "ApJ 877, 52",
+    "arxiv": "1904.06734",
+    "bibcode": "2019ApJ...877...52Z"
+   },
+   "epoch": "2013-11-24"
+  },
+  {
+   "image_id": "sdss-j1440-5330_sdss-j1440-5330-f438w",
+   "type": "quasar",
+   "facility": "HST",
+   "instrument": "WFC3",
+   "wavelength_um": 0.44,
+   "wavelength_label": "F438W",
+   "technique": "optical/NIR imaging",
+   "survey": null,
+   "content": "continuum",
+   "file": "images/sdss-j1440-5330/sdss-j1440-5330_sdss-j1440-5330-f438w.png",
+   "credit": "Zhao et al. 2019, Fig. 4 (crop)",
+   "note": "z=0.038; type 2 quasar; merging system (SDSS inset shows tidal companion); HST GO-12903",
+   "paper": {
+    "first_author": "Zhao",
+    "year": 2019,
+    "title": "The Role of Major Mergers and Nuclear Star Formation in Nearby Obscured Quasars",
+    "journal": "ApJ 877, 52",
+    "arxiv": "1904.06734",
+    "bibcode": "2019ApJ...877...52Z"
+   },
+   "epoch": "2013-11-24"
+  }
+ ],
+ "notes": "Nearby type-2 quasar; HST/WFC3 imaging resolves the host galaxy (Zhao et al. 2019).",
+ "last_updated": "2026-07-12",
+ "plx_mas": 0.5641,
+ "mags": {
+  "V": 15.03,
+  "G": 16.692095,
+  "J": 14.006,
+  "H": 13.27,
+  "K": 12.651
+ }
+}

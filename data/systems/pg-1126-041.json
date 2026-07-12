@@ -1,0 +1,75 @@
+{
+ "id": "pg-1126-041",
+ "name": "PG 1126-041",
+ "alt_names": [
+  "PG 1126-041"
+ ],
+ "simbad": "Mrk 1298",
+ "ra_deg": 172.319704,
+ "dec_deg": -4.402013,
+ "dist_pc": null,
+ "sptype": null,
+ "region": "nearby quasar",
+ "categories": [
+  "quasar"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "image_id": "pg-1126-041_co21",
+   "type": "quasar",
+   "facility": "ALMA",
+   "instrument": "Band 6",
+   "wavelength_um": 1300,
+   "wavelength_label": "CO(2-1) integrated intensity",
+   "technique": "interferometry",
+   "survey": null,
+   "content": "line",
+   "file": "images/pg-1126-041/pg-1126-041_co21.png",
+   "credit": "Molina et al. 2021, Fig. 3 (crop)",
+   "note": "12m+ACA concatenated; 12m obs date given; panel labeled 'Intensity' (row labeled by target)",
+   "paper": {
+    "first_author": "Molina",
+    "year": 2021,
+    "title": "Compact Molecular Gas Distribution in Quasar Host Galaxies",
+    "journal": "ApJ 908, 231",
+    "arxiv": "2101.00764",
+    "bibcode": "2021ApJ...908..231M"
+   },
+   "epoch": "2019-03-14"
+  },
+  {
+   "image_id": "pg-1126-041_hst",
+   "type": "quasar",
+   "facility": "HST",
+   "instrument": "NICMOS",
+   "wavelength_um": 1.6,
+   "wavelength_label": "F160W",
+   "technique": "optical/NIR imaging",
+   "survey": null,
+   "content": "continuum",
+   "file": "images/pg-1126-041/pg-1126-041_hst.png",
+   "credit": "Molina et al. 2021, Fig. 3 (crop)",
+   "note": "archival HST host image shown alongside CO in this paper",
+   "paper": {
+    "first_author": "Molina",
+    "year": 2021,
+    "title": "Compact Molecular Gas Distribution in Quasar Host Galaxies",
+    "journal": "ApJ 908, 231",
+    "arxiv": "2101.00764",
+    "bibcode": "2021ApJ...908..231M"
+   },
+   "epoch": null
+  }
+ ],
+ "notes": "Palomar-Green quasar; ALMA CO(2-1) maps the compact molecular gas of the host, shown with archival HST imaging (Molina et al. 2021).",
+ "last_updated": "2026-07-12",
+ "plx_mas": null,
+ "mags": {
+  "V": 14.61,
+  "G": 14.503866,
+  "J": 12.819,
+  "H": 11.934,
+  "K": 11.045
+ }
+}

@@ -1,0 +1,74 @@
+{
+ "id": "2mass-j04155799",
+ "name": "J04155799+2746175",
+ "alt_names": [
+  "J0415"
+ ],
+ "simbad": "2MASS J04155799+2746175",
+ "ra_deg": 63.991664,
+ "dec_deg": 27.771481,
+ "dist_pc": 133.2,
+ "sptype": "M5.2",
+ "region": "Taurus",
+ "categories": [
+  "protoplanetary"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "image_id": "2mass-j04155799_j0415-b7cont",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 7",
+   "wavelength_um": 870,
+   "wavelength_label": "0.87 mm continuum",
+   "technique": "interferometry",
+   "survey": null,
+   "content": "continuum",
+   "file": "images/2mass-j04155799/2mass-j04155799_j0415-b7cont.png",
+   "credit": "Kurtovic et al. 2021, Fig. 1 (crop)",
+   "note": "M5.2 VLM star; multi-config combined",
+   "paper": {
+    "first_author": "Kurtovic",
+    "year": 2021,
+    "title": "Size and structures of disks around very low mass stars in the Taurus star-forming region",
+    "journal": "A&A 645, A139",
+    "arxiv": "2012.02225",
+    "bibcode": "2021A&A...645A.139K"
+   },
+   "epoch": "2015-2019"
+  },
+  {
+   "image_id": "2mass-j04155799_j0415-12co",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 7",
+   "wavelength_um": 867,
+   "wavelength_label": "12CO (3-2) moment 0",
+   "technique": "interferometry",
+   "survey": null,
+   "content": "line",
+   "file": "images/2mass-j04155799/2mass-j04155799_j0415-12co.png",
+   "credit": "Kurtovic et al. 2021, Fig. 1 (crop)",
+   "note": "panel labeled 12CO within per-target row",
+   "paper": {
+    "first_author": "Kurtovic",
+    "year": 2021,
+    "title": "Size and structures of disks around very low mass stars in the Taurus star-forming region",
+    "journal": "A&A 645, A139",
+    "arxiv": "2012.02225",
+    "bibcode": "2021A&A...645A.139K"
+   },
+   "epoch": "2015-2019"
+  }
+ ],
+ "notes": "Very-low-mass star disk imaged at 0.87 mm continuum and 12CO with ALMA (Kurtovic et al. 2021).",
+ "last_updated": "2026-07-12",
+ "plx_mas": 7.5097,
+ "mags": {
+  "G": 15.669778,
+  "J": 11.745,
+  "H": 10.985,
+  "K": 10.524
+ }
+}

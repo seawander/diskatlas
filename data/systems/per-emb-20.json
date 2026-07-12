@@ -1,0 +1,93 @@
+{
+ "id": "per-emb-20",
+ "name": "Per-emb-20",
+ "alt_names": [
+  "L1455-IRS4",
+  "Per-emb 20"
+ ],
+ "simbad": "NAME LDN 1455 IRS 4",
+ "ra_deg": 51.930125,
+ "dec_deg": 30.208028,
+ "dist_pc": null,
+ "sptype": null,
+ "region": "Perseus",
+ "categories": [
+  "protoplanetary"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "image_id": "per-emb-20_alma1-2mm",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 6",
+   "wavelength_um": 1120,
+   "wavelength_label": "1.2 mm (268 GHz) continuum",
+   "technique": "interferometry",
+   "survey": null,
+   "content": "continuum",
+   "file": "images/per-emb-20/per-emb-20_alma1-2mm.png",
+   "credit": "Hsieh et al. 2019, Fig. 1 (crop)",
+   "note": "project 2017.1.01693.S",
+   "paper": {
+    "first_author": "Hsieh",
+    "year": 2019,
+    "title": "Chronology of Episodic Accretion in Protostars - An ALMA Survey of the CO and H2O Snowlines",
+    "journal": "ApJ 884, 149",
+    "arxiv": "1909.02706",
+    "bibcode": "2019ApJ...884..149H"
+   },
+   "epoch": "2018-09"
+  },
+  {
+   "image_id": "per-emb-20_n2hp",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 3",
+   "wavelength_um": 3220,
+   "wavelength_label": "N2H+ (1-0) integrated intensity",
+   "technique": "interferometry",
+   "survey": null,
+   "content": "line",
+   "file": "images/per-emb-20/per-emb-20_n2hp.png",
+   "credit": "Hsieh et al. 2019, Fig. 2 (crop)",
+   "note": "CO-snowline tracer; green overlay = smoothed HCO+",
+   "paper": {
+    "first_author": "Hsieh",
+    "year": 2019,
+    "title": "Chronology of Episodic Accretion in Protostars - An ALMA Survey of the CO and H2O Snowlines",
+    "journal": "ApJ 884, 149",
+    "arxiv": "1909.02706",
+    "bibcode": "2019ApJ...884..149H"
+   },
+   "epoch": "2018"
+  },
+  {
+   "image_id": "per-emb-20_hcop",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 6",
+   "wavelength_um": 1120,
+   "wavelength_label": "HCO+ (3-2) integrated intensity",
+   "technique": "interferometry",
+   "survey": null,
+   "content": "line",
+   "file": "images/per-emb-20/per-emb-20_hcop.png",
+   "credit": "Hsieh et al. 2019, Fig. 12 (crop)",
+   "note": "H2O-snowline tracer",
+   "paper": {
+    "first_author": "Hsieh",
+    "year": 2019,
+    "title": "Chronology of Episodic Accretion in Protostars - An ALMA Survey of the CO and H2O Snowlines",
+    "journal": "ApJ 884, 149",
+    "arxiv": "1909.02706",
+    "bibcode": "2019ApJ...884..149H"
+   },
+   "epoch": "2018-09"
+  }
+ ],
+ "notes": "Embedded protostar mapped in continuum and snowline tracers (N2H+, HCO+) by ALMA (Hsieh et al. 2019).",
+ "last_updated": "2026-07-12",
+ "plx_mas": null,
+ "mags": {}
+}

@@ -1,0 +1,64 @@
+{
+ "id": "hip-63734",
+ "name": "HIP 63734",
+ "alt_names": [
+  "HD 113414"
+ ],
+ "simbad": "HD 113414",
+ "ra_deg": 195.912541,
+ "dec_deg": -16.336575,
+ "dist_pc": 54.1,
+ "sptype": "F7/8V",
+ "region": "field",
+ "categories": [],
+ "planets": [
+  {
+   "name": "B",
+   "status": "confirmed",
+   "method": "imaging",
+   "note": "Brown-dwarf companion discovered by the COPAINS pilot survey (Bonavita et al. 2022).",
+   "paper": {
+    "first_author": "Bonavita",
+    "year": 2022,
+    "arxiv": "2205.02213",
+    "bibcode": "2022MNRAS.513.5588B",
+    "journal": "MNRAS 513, 5588"
+   }
+  }
+ ],
+ "images": [
+  {
+   "image_id": "hip-63734_sphere-ifs-yj",
+   "type": "planet",
+   "facility": "VLT",
+   "instrument": "SPHERE IFS",
+   "wavelength_um": 1.15,
+   "wavelength_label": "YJ (ASDI-PCA)",
+   "technique": "high-contrast imaging",
+   "survey": null,
+   "content": "continuum",
+   "file": "images/hip-63734/hip-63734_sphere-ifs-yj.png",
+   "credit": "Bonavita et al. 2022, Fig. 3 (crop)",
+   "note": "F7/8V, plx 18.49; faint companion in marked circle",
+   "paper": {
+    "first_author": "Bonavita",
+    "year": 2022,
+    "title": "Results from The COPAINS Pilot Survey: Four new brown dwarfs and a high companion detection rate for accelerating stars",
+    "journal": "MNRAS 513, 5588",
+    "arxiv": "2205.02213",
+    "bibcode": "2022MNRAS.513.5588B"
+   },
+   "epoch": "2020-02-07"
+  }
+ ],
+ "notes": "Accelerating star with a substellar companion imaged by the COPAINS pilot survey (Bonavita et al. 2022).",
+ "last_updated": "2026-07-12",
+ "plx_mas": 18.4893,
+ "mags": {
+  "V": 7.74,
+  "G": 7.612246,
+  "J": 6.752,
+  "H": 6.522,
+  "K": 6.436
+ }
+}

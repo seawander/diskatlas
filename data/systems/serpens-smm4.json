@@ -1,0 +1,47 @@
+{
+ "id": "serpens-smm4",
+ "name": "Serpens SMM4",
+ "alt_names": [
+  "SMM4A",
+  "SMM4B"
+ ],
+ "simbad": "NAME Serpens SMM 4",
+ "ra_deg": 277.486333,
+ "dec_deg": 1.221,
+ "dist_pc": null,
+ "sptype": null,
+ "region": "Serpens",
+ "categories": [
+  "protoplanetary"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "image_id": "serpens-smm4_b6cont",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 6",
+   "wavelength_um": 1300,
+   "wavelength_label": "1.3 mm continuum",
+   "technique": "interferometry",
+   "survey": null,
+   "content": "continuum",
+   "file": "images/serpens-smm4/serpens-smm4_b6cont.png",
+   "credit": "Aso et al. 2019, Fig. 2 (crop)",
+   "note": "panel contains SMM4A + SMM4B (Class 0)",
+   "paper": {
+    "first_author": "Aso",
+    "year": 2019,
+    "title": "Protostellar Evolution in Serpens Main: Possible Origin of Disk-size Diversity",
+    "journal": "ApJ 887, 209",
+    "arxiv": "1910.13665",
+    "bibcode": "2019ApJ...887..209A"
+   },
+   "epoch": "2016-05"
+  }
+ ],
+ "notes": "Protostar imaged at 1.3 mm in the Serpens Main ALMA survey (Aso et al. 2019).",
+ "last_updated": "2026-07-12",
+ "plx_mas": null,
+ "mags": {}
+}

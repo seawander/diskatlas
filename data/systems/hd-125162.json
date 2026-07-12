@@ -1,0 +1,54 @@
+{
+ "id": "hd-125162",
+ "name": "lambda Boo",
+ "alt_names": [
+  "lambda Boo",
+  "HIP 69732",
+  "HR 5351"
+ ],
+ "simbad": "* lam Boo",
+ "ra_deg": 214.09591,
+ "dec_deg": 46.088304,
+ "dist_pc": 30.7,
+ "sptype": "A0Va_lB",
+ "region": "field debris",
+ "categories": [
+  "debris"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "image_id": "hd-125162_lambda-boo-pacs70",
+   "type": "disk_mm",
+   "facility": "Herschel",
+   "instrument": "PACS",
+   "wavelength_um": 70,
+   "wavelength_label": "70 um",
+   "technique": "far-IR imaging",
+   "survey": null,
+   "content": "continuum",
+   "file": "images/hd-125162/hd-125162_lambda-boo-pacs70.png",
+   "credit": "Booth et al. 2013, Fig. 1 (crop)",
+   "note": "A0Va_lB, plx 32.59; marginally-to-well resolved DEBRIS disc",
+   "paper": {
+    "first_author": "Booth",
+    "year": 2013,
+    "title": "Resolved debris discs around A stars in the Herschel DEBRIS survey",
+    "journal": "MNRAS 428, 1263",
+    "arxiv": "1210.0547",
+    "bibcode": "2013MNRAS.428.1263B"
+   },
+   "epoch": "2011-05-29"
+  }
+ ],
+ "notes": "Debris disc resolved at 70/100 um by Herschel/PACS in the DEBRIS survey of A stars (Booth et al. 2013).",
+ "last_updated": "2026-07-12",
+ "plx_mas": 32.5885,
+ "mags": {
+  "V": 4.18,
+  "G": 4.169045,
+  "J": 3.98,
+  "H": 4.03,
+  "K": 3.91
+ }
+}

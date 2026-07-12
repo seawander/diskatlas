@@ -1183,6 +1183,121 @@
     "bibcode": "2011ApJ...729..128C"
    },
    "epoch": "2009-08-15"
+  },
+  {
+   "image_id": "hr-8799_nirc2-lp-2009",
+   "type": "planet",
+   "facility": "Keck II",
+   "instrument": "NIRC2",
+   "wavelength_um": 3.78,
+   "wavelength_label": "L' (SNAP-processed, planets c,d,e)",
+   "technique": "ADI high-contrast imaging",
+   "survey": null,
+   "content": "continuum",
+   "file": "images/hr-8799/hr-8799_nirc2-lp-2009.png",
+   "credit": "Thompson et al. 2023, Fig. 2 (crop)",
+   "note": "3 nights combined; archival; inner-region crop excludes planet b",
+   "paper": {
+    "first_author": "Thompson",
+    "year": 2023,
+    "title": "Deep Orbital Search for Additional Planets in the HR 8799 System",
+    "journal": "AJ 165, 29",
+    "arxiv": "2210.14213",
+    "bibcode": "2023AJ....165...29T"
+   },
+   "epoch": "2009"
+  },
+  {
+   "image_id": "hr-8799_nirc2-lp-2010",
+   "type": "planet",
+   "facility": "Keck II",
+   "instrument": "NIRC2",
+   "wavelength_um": 3.78,
+   "wavelength_label": "L' (SNAP-processed, planets c,d,e)",
+   "technique": "ADI high-contrast imaging",
+   "survey": null,
+   "content": "continuum",
+   "file": "images/hr-8799/hr-8799_nirc2-lp-2010.png",
+   "credit": "Thompson et al. 2023, Fig. 2 (crop)",
+   "note": "corona400 mask; archival; inner-region crop excludes planet b",
+   "paper": {
+    "first_author": "Thompson",
+    "year": 2023,
+    "title": "Deep Orbital Search for Additional Planets in the HR 8799 System",
+    "journal": "AJ 165, 29",
+    "arxiv": "2210.14213",
+    "bibcode": "2023AJ....165...29T"
+   },
+   "epoch": "2010-07-21"
+  },
+  {
+   "image_id": "hr-8799_nirc2-lp-2017",
+   "type": "planet",
+   "facility": "Keck II",
+   "instrument": "NIRC2",
+   "wavelength_um": 3.78,
+   "wavelength_label": "L' (SNAP-processed, planets c,d,e)",
+   "technique": "ADI high-contrast imaging",
+   "survey": null,
+   "content": "continuum",
+   "file": "images/hr-8799/hr-8799_nirc2-lp-2017.png",
+   "credit": "Thompson et al. 2023, Fig. 2 (crop)",
+   "note": "5 nights combined; corona400; inner-region crop excludes planet b",
+   "paper": {
+    "first_author": "Thompson",
+    "year": 2023,
+    "title": "Deep Orbital Search for Additional Planets in the HR 8799 System",
+    "journal": "AJ 165, 29",
+    "arxiv": "2210.14213",
+    "bibcode": "2023AJ....165...29T"
+   },
+   "epoch": "2017-07"
+  },
+  {
+   "image_id": "hr-8799_nirc2-lp-2020",
+   "type": "planet",
+   "facility": "Keck II",
+   "instrument": "NIRC2",
+   "wavelength_um": 3.78,
+   "wavelength_label": "L' (SNAP-processed, planets c,d,e)",
+   "technique": "ADI high-contrast imaging",
+   "survey": null,
+   "content": "continuum",
+   "file": "images/hr-8799/hr-8799_nirc2-lp-2020.png",
+   "credit": "Thompson et al. 2023, Fig. 2 (crop)",
+   "note": "5 nights combined; new campaign; inner-region crop excludes planet b",
+   "paper": {
+    "first_author": "Thompson",
+    "year": 2023,
+    "title": "Deep Orbital Search for Additional Planets in the HR 8799 System",
+    "journal": "AJ 165, 29",
+    "arxiv": "2210.14213",
+    "bibcode": "2023AJ....165...29T"
+   },
+   "epoch": "2020"
+  },
+  {
+   "image_id": "hr-8799_nirc2-lp-2021",
+   "type": "planet",
+   "facility": "Keck II",
+   "instrument": "NIRC2",
+   "wavelength_um": 3.78,
+   "wavelength_label": "L' (SNAP-processed, planets c,d,e)",
+   "technique": "ADI high-contrast imaging",
+   "survey": null,
+   "content": "continuum",
+   "file": "images/hr-8799/hr-8799_nirc2-lp-2021.png",
+   "credit": "Thompson et al. 2023, Fig. 2 (crop)",
+   "note": "4 nights combined; new campaign; inner-region crop excludes planet b",
+   "paper": {
+    "first_author": "Thompson",
+    "year": 2023,
+    "title": "Deep Orbital Search for Additional Planets in the HR 8799 System",
+    "journal": "AJ 165, 29",
+    "arxiv": "2210.14213",
+    "bibcode": "2023AJ....165...29T"
+   },
+   "epoch": "2021-07"
   }
  ],
  "notes": null,

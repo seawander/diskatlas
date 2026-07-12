@@ -82,6 +82,52 @@
    },
    "epoch": "2012-2015",
    "content": "continuum"
+  },
+  {
+   "image_id": "hd-14055_gamma-tri-pacs70",
+   "type": "disk_mm",
+   "facility": "Herschel",
+   "instrument": "PACS",
+   "wavelength_um": 70,
+   "wavelength_label": "70 um",
+   "technique": "far-IR imaging",
+   "survey": null,
+   "content": "continuum",
+   "file": "images/hd-14055/hd-14055_gamma-tri-pacs70.png",
+   "credit": "Booth et al. 2013, Fig. 1 (crop)",
+   "note": "marginally-to-well resolved DEBRIS disc",
+   "paper": {
+    "first_author": "Booth",
+    "year": 2013,
+    "title": "Resolved debris discs around A stars in the Herschel DEBRIS survey",
+    "journal": "MNRAS 428, 1263",
+    "arxiv": "1210.0547",
+    "bibcode": "2013MNRAS.428.1263B"
+   },
+   "epoch": "2012-01-13"
+  },
+  {
+   "image_id": "hd-14055_gamma-tri-pacs100",
+   "type": "disk_mm",
+   "facility": "Herschel",
+   "instrument": "PACS",
+   "wavelength_um": 100,
+   "wavelength_label": "100 um",
+   "technique": "far-IR imaging",
+   "survey": null,
+   "content": "continuum",
+   "file": "images/hd-14055/hd-14055_gamma-tri-pacs100.png",
+   "credit": "Booth et al. 2013, Fig. 1 (crop)",
+   "note": "marginally-to-well resolved DEBRIS disc",
+   "paper": {
+    "first_author": "Booth",
+    "year": 2013,
+    "title": "Resolved debris discs around A stars in the Herschel DEBRIS survey",
+    "journal": "MNRAS 428, 1263",
+    "arxiv": "1210.0547",
+    "bibcode": "2013MNRAS.428.1263B"
+   },
+   "epoch": "2011-07-10"
   }
  ],
  "notes": "AUTO-CREATED from staging - fill metadata & coords",

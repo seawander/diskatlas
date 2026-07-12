@@ -1,0 +1,46 @@
+{
+ "id": "per-emb-4",
+ "name": "Per-emb-4",
+ "alt_names": [
+  "Per-emb 4"
+ ],
+ "simbad": "[EYG2006] Bolo 30",
+ "ra_deg": 52.162917,
+ "dec_deg": 31.100472,
+ "dist_pc": null,
+ "sptype": null,
+ "region": "Perseus",
+ "categories": [
+  "protoplanetary"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "image_id": "per-emb-4_n2hp",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 3",
+   "wavelength_um": 3220,
+   "wavelength_label": "N2H+ (1-0) integrated intensity",
+   "technique": "interferometry",
+   "survey": null,
+   "content": "line",
+   "file": "images/per-emb-4/per-emb-4_n2hp.png",
+   "credit": "Hsieh et al. 2019, Fig. 2 (crop)",
+   "note": "continuum and HCO+ undetected (not cropped); extended N2H+ through source position",
+   "paper": {
+    "first_author": "Hsieh",
+    "year": 2019,
+    "title": "Chronology of Episodic Accretion in Protostars - An ALMA Survey of the CO and H2O Snowlines",
+    "journal": "ApJ 884, 149",
+    "arxiv": "1909.02706",
+    "bibcode": "2019ApJ...884..149H"
+   },
+   "epoch": "2018"
+  }
+ ],
+ "notes": "Embedded protostar mapped in continuum and snowline tracers (N2H+, HCO+) by ALMA (Hsieh et al. 2019).",
+ "last_updated": "2026-07-12",
+ "plx_mas": null,
+ "mags": {}
+}

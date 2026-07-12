@@ -2,7 +2,8 @@
  "id": "ngc1333-iras2a",
  "name": "NGC 1333 IRAS 2A",
  "alt_names": [
-  "IRAS 2A"
+  "IRAS 2A",
+  "Per-emb-27"
  ],
  "simbad": "[JCC87] IRAS 2A",
  "ra_deg": 52.231458,
@@ -37,6 +38,75 @@
     "bibcode": "2016A&A...590A..33P"
    },
    "epoch": "2010"
+  },
+  {
+   "image_id": "ngc1333-iras2a_per-emb-27-alma1-2mm",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 6",
+   "wavelength_um": 1120,
+   "wavelength_label": "1.2 mm (268 GHz) continuum",
+   "technique": "interferometry",
+   "survey": null,
+   "content": "continuum",
+   "file": "images/ngc1333-iras2a/ngc1333-iras2a_per-emb-27-alma1-2mm.png",
+   "credit": "Hsieh et al. 2019, Fig. 1 (crop)",
+   "note": "project 2017.1.01693.S",
+   "paper": {
+    "first_author": "Hsieh",
+    "year": 2019,
+    "title": "Chronology of Episodic Accretion in Protostars - An ALMA Survey of the CO and H2O Snowlines",
+    "journal": "ApJ 884, 149",
+    "arxiv": "1909.02706",
+    "bibcode": "2019ApJ...884..149H"
+   },
+   "epoch": "2018-09"
+  },
+  {
+   "image_id": "ngc1333-iras2a_per-emb-27-n2hp",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 3",
+   "wavelength_um": 3220,
+   "wavelength_label": "N2H+ (1-0) integrated intensity",
+   "technique": "interferometry",
+   "survey": null,
+   "content": "line",
+   "file": "images/ngc1333-iras2a/ngc1333-iras2a_per-emb-27-n2hp.png",
+   "credit": "Hsieh et al. 2019, Fig. 2 (crop)",
+   "note": "CO-snowline tracer; green overlay = smoothed HCO+",
+   "paper": {
+    "first_author": "Hsieh",
+    "year": 2019,
+    "title": "Chronology of Episodic Accretion in Protostars - An ALMA Survey of the CO and H2O Snowlines",
+    "journal": "ApJ 884, 149",
+    "arxiv": "1909.02706",
+    "bibcode": "2019ApJ...884..149H"
+   },
+   "epoch": "2018"
+  },
+  {
+   "image_id": "ngc1333-iras2a_per-emb-27-hcop",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 6",
+   "wavelength_um": 1120,
+   "wavelength_label": "HCO+ (3-2) integrated intensity",
+   "technique": "interferometry",
+   "survey": null,
+   "content": "line",
+   "file": "images/ngc1333-iras2a/ngc1333-iras2a_per-emb-27-hcop.png",
+   "credit": "Hsieh et al. 2019, Fig. 12 (crop)",
+   "note": "H2O-snowline tracer",
+   "paper": {
+    "first_author": "Hsieh",
+    "year": 2019,
+    "title": "Chronology of Episodic Accretion in Protostars - An ALMA Survey of the CO and H2O Snowlines",
+    "journal": "ApJ 884, 149",
+    "arxiv": "1909.02706",
+    "bibcode": "2019ApJ...884..149H"
+   },
+   "epoch": "2018-09"
   }
  ],
  "notes": "Class 0 protostar in NGC 1333; PdBI 1.47 mm continuum resolves a compact disk-like structure (Persson et al. 2016, data from Jorgensen & van Dishoeck 2010).",

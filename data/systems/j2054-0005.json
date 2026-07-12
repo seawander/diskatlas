@@ -1,0 +1,71 @@
+{
+ "id": "j2054-0005",
+ "name": "J2054-0005",
+ "alt_names": [],
+ "simbad": "SDSS J205406.49-000514.5",
+ "ra_deg": 313.527,
+ "dec_deg": -0.087444,
+ "dist_pc": null,
+ "sptype": null,
+ "region": "high-z quasar",
+ "categories": [
+  "quasar"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "image_id": "j2054-0005_cont",
+   "type": "quasar",
+   "facility": "ALMA",
+   "instrument": "Band 6",
+   "wavelength_um": 1110,
+   "wavelength_label": "rest-158um dust continuum (obs ~1.1-1.2 mm)",
+   "technique": "interferometry",
+   "survey": null,
+   "content": "continuum",
+   "file": "images/j2054-0005/j2054-0005_cont.png",
+   "credit": "Wilde et al. 2026, Fig. 3 (crop)",
+   "note": "z=6.04; ALMA 2019.1.00672.S+2018.1.00908.S; crop from ar5iv render (source rate-limited); host dust continuum",
+   "paper": {
+    "first_author": "Wilde",
+    "year": 2026,
+    "title": "ALMA and JWST Imaging of z > 6 Quasars: No Spatial Position Offset Observed between Quasars and Their Host Galaxies",
+    "journal": "ApJ 996, 8",
+    "arxiv": "2511.03659",
+    "bibcode": "2026ApJ...996....8W"
+   },
+   "epoch": "2019-2021"
+  },
+  {
+   "image_id": "j2054-0005_cii",
+   "type": "quasar",
+   "facility": "ALMA",
+   "instrument": "Band 6",
+   "wavelength_um": 1110,
+   "wavelength_label": "[CII] 158um integrated line flux",
+   "technique": "interferometry",
+   "survey": null,
+   "content": "line",
+   "file": "images/j2054-0005/j2054-0005_cii.png",
+   "credit": "Wilde et al. 2026, Fig. 4 (crop)",
+   "note": "z=6.04; ALMA 2019.1.00672.S+2018.1.00908.S; [CII] moment-0 of host",
+   "paper": {
+    "first_author": "Wilde",
+    "year": 2026,
+    "title": "ALMA and JWST Imaging of z > 6 Quasars: No Spatial Position Offset Observed between Quasars and Their Host Galaxies",
+    "journal": "ApJ 996, 8",
+    "arxiv": "2511.03659",
+    "bibcode": "2026ApJ...996....8W"
+   },
+   "epoch": "2019-2021"
+  }
+ ],
+ "notes": "z>6 quasar; ALMA rest-158um dust continuum and [CII] imaging of the host galaxy (Wilde et al. 2026).",
+ "last_updated": "2026-07-12",
+ "plx_mas": null,
+ "mags": {
+  "J": 20.611,
+  "H": 20.224,
+  "K": 20.274
+ }
+}

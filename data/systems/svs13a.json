@@ -3,7 +3,8 @@
  "name": "SVS 13A",
  "alt_names": [
   "SVS 13A",
-  "VLA 4A"
+  "VLA 4A",
+  "Per-emb-44"
  ],
  "simbad": "SVS 13",
  "ra_deg": 52.265833,
@@ -37,6 +38,75 @@
    "file": "images/svs13a/svs13a_alma2025.png",
    "epoch": "2022-08-21",
    "content": "continuum"
+  },
+  {
+   "image_id": "svs13a_alma1-2mm",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 6",
+   "wavelength_um": 1120,
+   "wavelength_label": "1.2 mm (268 GHz) continuum",
+   "technique": "interferometry",
+   "survey": null,
+   "content": "continuum",
+   "file": "images/svs13a/svs13a_alma1-2mm.png",
+   "credit": "Hsieh et al. 2019, Fig. 1 (crop)",
+   "note": "project 2017.1.01693.S",
+   "paper": {
+    "first_author": "Hsieh",
+    "year": 2019,
+    "title": "Chronology of Episodic Accretion in Protostars - An ALMA Survey of the CO and H2O Snowlines",
+    "journal": "ApJ 884, 149",
+    "arxiv": "1909.02706",
+    "bibcode": "2019ApJ...884..149H"
+   },
+   "epoch": "2018-09"
+  },
+  {
+   "image_id": "svs13a_n2hp",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 3",
+   "wavelength_um": 3220,
+   "wavelength_label": "N2H+ (1-0) integrated intensity",
+   "technique": "interferometry",
+   "survey": null,
+   "content": "line",
+   "file": "images/svs13a/svs13a_n2hp.png",
+   "credit": "Hsieh et al. 2019, Fig. 2 (crop)",
+   "note": "CO-snowline tracer; green overlay = smoothed HCO+",
+   "paper": {
+    "first_author": "Hsieh",
+    "year": 2019,
+    "title": "Chronology of Episodic Accretion in Protostars - An ALMA Survey of the CO and H2O Snowlines",
+    "journal": "ApJ 884, 149",
+    "arxiv": "1909.02706",
+    "bibcode": "2019ApJ...884..149H"
+   },
+   "epoch": "2018"
+  },
+  {
+   "image_id": "svs13a_hcop",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 6",
+   "wavelength_um": 1120,
+   "wavelength_label": "HCO+ (3-2) integrated intensity",
+   "technique": "interferometry",
+   "survey": null,
+   "content": "line",
+   "file": "images/svs13a/svs13a_hcop.png",
+   "credit": "Hsieh et al. 2019, Fig. 12 (crop)",
+   "note": "H2O-snowline tracer",
+   "paper": {
+    "first_author": "Hsieh",
+    "year": 2019,
+    "title": "Chronology of Episodic Accretion in Protostars - An ALMA Survey of the CO and H2O Snowlines",
+    "journal": "ApJ 884, 149",
+    "arxiv": "1909.02706",
+    "bibcode": "2019ApJ...884..149H"
+   },
+   "epoch": "2018-09"
   }
  ],
  "notes": "Circumbinary disk system in NGC 1333 (Perseus); the held image is the ALMA full-Stokes 0.87 mm continuum from the ALMA Perseus Polarization Survey (ALPPS), whose data resolve a dust spiral and a sub-Alfvenic infalling streamer traced down to the circumbinary disk (Cortes et al. 2025).",

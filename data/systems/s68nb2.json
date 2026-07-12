@@ -1,0 +1,46 @@
+{
+ "id": "s68nb2",
+ "name": "S68Nb2",
+ "alt_names": [
+  "SSTc2d J182949.5+011706"
+ ],
+ "simbad": null,
+ "ra_deg": 277.456667,
+ "dec_deg": 1.284917,
+ "dist_pc": null,
+ "sptype": null,
+ "region": "Serpens",
+ "categories": [
+  "protoplanetary"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "image_id": "s68nb2_b6cont",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 6",
+   "wavelength_um": 1300,
+   "wavelength_label": "1.3 mm continuum",
+   "technique": "interferometry",
+   "survey": null,
+   "content": "continuum",
+   "file": "images/s68nb2/s68nb2_b6cont.png",
+   "credit": "Aso et al. 2019, Fig. 4 (crop)",
+   "note": "Class I; compact/point-like continuum",
+   "paper": {
+    "first_author": "Aso",
+    "year": 2019,
+    "title": "Protostellar Evolution in Serpens Main: Possible Origin of Disk-size Diversity",
+    "journal": "ApJ 887, 209",
+    "arxiv": "1910.13665",
+    "bibcode": "2019ApJ...887..209A"
+   },
+   "epoch": "2016-05"
+  }
+ ],
+ "notes": "Protostar imaged at 1.3 mm in the Serpens Main ALMA survey (Aso et al. 2019).",
+ "last_updated": "2026-07-12",
+ "plx_mas": null,
+ "mags": {}
+}

@@ -38,6 +38,29 @@
     "bibcode": "2010ApJ...723.1418M"
    },
    "epoch": "2006-03-04"
+  },
+  {
+   "image_id": "hd-71155_30-mon-pacs70",
+   "type": "disk_mm",
+   "facility": "Herschel",
+   "instrument": "PACS",
+   "wavelength_um": 70,
+   "wavelength_label": "70 um",
+   "technique": "far-IR imaging",
+   "survey": null,
+   "content": "continuum",
+   "file": "images/hd-71155/hd-71155_30-mon-pacs70.png",
+   "credit": "Booth et al. 2013, Fig. 1 (crop)",
+   "note": "A0Va, plx 25.34; marginally-to-well resolved DEBRIS disc",
+   "paper": {
+    "first_author": "Booth",
+    "year": 2013,
+    "title": "Resolved debris discs around A stars in the Herschel DEBRIS survey",
+    "journal": "MNRAS 428, 1263",
+    "arxiv": "1210.0547",
+    "bibcode": "2013MNRAS.428.1263B"
+   },
+   "epoch": "2011-05-10"
   }
  ],
  "notes": "A0Va star (30 Mon); Gemini/T-ReCS 10.4 um imaging marginally resolves warm debris emission (r~2 au) (Moerchen et al. 2010).",

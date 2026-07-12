@@ -1,0 +1,69 @@
+{
+ "id": "sdss-j1420-5300b",
+ "name": "SDSS1420+5300B",
+ "alt_names": [],
+ "simbad": "SDSS J142008.62+530004.2",
+ "ra_deg": 215.0359,
+ "dec_deg": 53.0011,
+ "dist_pc": null,
+ "sptype": null,
+ "region": "high-z quasar",
+ "categories": [
+  "quasar"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "image_id": "sdss-j1420-5300b_sdss1420-5300b-f200w-host",
+   "type": "quasar",
+   "facility": "JWST",
+   "instrument": "NIRCam",
+   "wavelength_um": 2.0,
+   "wavelength_label": "F200W host (data - quasar PSF)",
+   "technique": "PSF-subtracted imaging",
+   "survey": null,
+   "content": "continuum",
+   "file": "images/sdss-j1420-5300b/sdss-j1420-5300b_sdss1420-5300b-f200w-host.png",
+   "credit": "Ding et al. 2022, Fig. 2 (crop)",
+   "note": "z=2.588",
+   "paper": {
+    "first_author": "Ding",
+    "year": 2022,
+    "title": "Opening the Era of Quasar-host Studies at High Redshift with JWST",
+    "journal": "ApJL 939, L28",
+    "arxiv": "2209.03359",
+    "bibcode": "2022ApJ...939L..28D"
+   },
+   "epoch": "2022-06"
+  },
+  {
+   "image_id": "sdss-j1420-5300b_sdss1420-5300b-f444w-host",
+   "type": "quasar",
+   "facility": "JWST",
+   "instrument": "NIRCam",
+   "wavelength_um": 4.44,
+   "wavelength_label": "F444W host (data - quasar PSF)",
+   "technique": "PSF-subtracted imaging",
+   "survey": null,
+   "content": "continuum",
+   "file": "images/sdss-j1420-5300b/sdss-j1420-5300b_sdss1420-5300b-f444w-host.png",
+   "credit": "Ding et al. 2022, Fig. 2 (crop)",
+   "note": "z=2.588",
+   "paper": {
+    "first_author": "Ding",
+    "year": 2022,
+    "title": "Opening the Era of Quasar-host Studies at High Redshift with JWST",
+    "journal": "ApJL 939, L28",
+    "arxiv": "2209.03359",
+    "bibcode": "2022ApJ...939L..28D"
+   },
+   "epoch": "2022-06"
+  }
+ ],
+ "notes": "JWST/NIRCam PSF-subtracted imaging detects the quasar host galaxy (Ding et al. 2022, CEERS).",
+ "last_updated": "2026-07-12",
+ "plx_mas": null,
+ "mags": {
+  "H": 21.231
+ }
+}

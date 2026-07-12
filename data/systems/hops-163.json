@@ -1,0 +1,51 @@
+{
+ "id": "hops-163",
+ "name": "HOPS-163",
+ "alt_names": [
+  "HOPS 163"
+ ],
+ "simbad": "Kiso A-0976 293",
+ "ra_deg": 84.322076,
+ "dec_deg": -6.605042,
+ "dist_pc": null,
+ "sptype": "M5.0",
+ "region": "Orion",
+ "categories": [
+  "protoplanetary"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "image_id": "hops-163_alma345",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 7",
+   "wavelength_um": 870,
+   "wavelength_label": "345 GHz (0.87 mm) continuum",
+   "technique": "interferometry",
+   "survey": null,
+   "content": "continuum",
+   "file": "images/hops-163/hops-163_alma345.png",
+   "credit": "Sheehan et al. 2020, Fig. 1 (crop)",
+   "note": "inclined ringed disk; SIMBAD sp M5.0",
+   "paper": {
+    "first_author": "Sheehan",
+    "year": 2020,
+    "title": "The VLA/ALMA Nascent Disk and Multiplicity (VANDAM) Survey of Orion Protostars. III. Substructures in Protostellar Disks",
+    "journal": "ApJ 902, 141",
+    "arxiv": "2010.00606",
+    "bibcode": "2020ApJ...902..141S"
+   },
+   "epoch": "2016-2017"
+  }
+ ],
+ "notes": "Protostellar disk imaged at 0.87 mm in the VANDAM Orion survey (Sheehan et al. 2020).",
+ "last_updated": "2026-07-12",
+ "plx_mas": null,
+ "mags": {
+  "V": 17.587,
+  "J": 13.538,
+  "H": 12.619,
+  "K": 11.916
+ }
+}

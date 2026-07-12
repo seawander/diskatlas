@@ -1,0 +1,46 @@
+{
+ "id": "oph-emb-9",
+ "name": "Oph-emb-9",
+ "alt_names": [
+  "GY 30"
+ ],
+ "simbad": "[GY92] 30",
+ "ra_deg": 246.606205,
+ "dec_deg": -24.383766,
+ "dist_pc": null,
+ "sptype": null,
+ "region": "Ophiuchus",
+ "categories": [
+  "protoplanetary"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "image_id": "oph-emb-9_alma1-3mm-pol",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 6 full-pol",
+   "wavelength_um": 1300,
+   "wavelength_label": "1.3 mm Stokes I + pol e-vectors",
+   "technique": "interferometric polarimetry",
+   "survey": null,
+   "content": "continuum",
+   "file": "images/oph-emb-9/oph-emb-9_alma1-3mm-pol.png",
+   "credit": "Sadavoy et al. 2019, Fig. 4 (crop)",
+   "note": "project 2015.1.01112.S",
+   "paper": {
+    "first_author": "Sadavoy",
+    "year": 2019,
+    "title": "Dust Polarization toward Embedded Protostars in Ophiuchus with ALMA. III. Survey Overview",
+    "journal": "ApJS 245, 2",
+    "arxiv": "1909.02591",
+    "bibcode": "2019ApJS..245....2S"
+   },
+   "epoch": "2017"
+  }
+ ],
+ "notes": "Embedded protostar imaged in 1.3 mm full-polarization continuum in the ALMA Ophiuchus polarization survey (Sadavoy et al. 2019).",
+ "last_updated": "2026-07-12",
+ "plx_mas": null,
+ "mags": {}
+}

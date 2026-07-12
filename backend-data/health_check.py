@@ -35,8 +35,10 @@ ALLOW_PAIRS = {
     frozenset(("sz-65", "sz-66")),          # 6.4" Lupus pair
     frozenset(("gy-263", "oph-irs43")),     # 6.9" pair: GY 263 transition disk
                                             # NW of the IRS 43 binary (eDisk X)
+    frozenset(("s68nb1", "s68nb2")),        # 5.4" pair: distinct Class 0 + Class I
+                                            # protostars in the S68N clump (Aso 2019)
 }
-COARSE = ("1RXS", "HSCS", "RX J", "RXJ")    # ~arcmin-precision catalog names
+COARSE = ("1RXS", "HSCS", "RX J", "RXJ", "JCMTSE")  # + single-dish JCMT ~15" beam    # ~arcmin-precision catalog names
 
 def parse_pos_name(s):
     """JHHMMSSss±DDMMSSs (2MASS-style, centisecond RA / 0.1\" Dec) -> deg."""

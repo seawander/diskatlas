@@ -1,0 +1,74 @@
+{
+ "id": "sdss-j0803-3926",
+ "name": "SDSS J0803+3926",
+ "alt_names": [
+  "SDSS J080337.32+392633.1"
+ ],
+ "simbad": "2MASX J08033733+3926333",
+ "ra_deg": 120.905527,
+ "dec_deg": 39.442535,
+ "dist_pc": null,
+ "sptype": null,
+ "region": "obscured quasar",
+ "categories": [
+  "quasar"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "image_id": "sdss-j0803-3926_sdss-j0803-3926-f105w",
+   "type": "quasar",
+   "facility": "HST",
+   "instrument": "WFC3",
+   "wavelength_um": 1.05,
+   "wavelength_label": "F105W",
+   "technique": "optical/NIR imaging",
+   "survey": null,
+   "content": "continuum",
+   "file": "images/sdss-j0803-3926/sdss-j0803-3926_sdss-j0803-3926-f105w.png",
+   "credit": "Zhao et al. 2019, Fig. 5 (crop)",
+   "note": "z=0.065; type 2 quasar; lenticular host; HST GO-12903",
+   "paper": {
+    "first_author": "Zhao",
+    "year": 2019,
+    "title": "The Role of Major Mergers and Nuclear Star Formation in Nearby Obscured Quasars",
+    "journal": "ApJ 877, 52",
+    "arxiv": "1904.06734",
+    "bibcode": "2019ApJ...877...52Z"
+   },
+   "epoch": "2014-01-12"
+  },
+  {
+   "image_id": "sdss-j0803-3926_sdss-j0803-3926-f438w",
+   "type": "quasar",
+   "facility": "HST",
+   "instrument": "WFC3",
+   "wavelength_um": 0.44,
+   "wavelength_label": "F438W",
+   "technique": "optical/NIR imaging",
+   "survey": null,
+   "content": "continuum",
+   "file": "images/sdss-j0803-3926/sdss-j0803-3926_sdss-j0803-3926-f438w.png",
+   "credit": "Zhao et al. 2019, Fig. 5 (crop)",
+   "note": "z=0.065; type 2 quasar; lenticular host; HST GO-12903",
+   "paper": {
+    "first_author": "Zhao",
+    "year": 2019,
+    "title": "The Role of Major Mergers and Nuclear Star Formation in Nearby Obscured Quasars",
+    "journal": "ApJ 877, 52",
+    "arxiv": "1904.06734",
+    "bibcode": "2019ApJ...877...52Z"
+   },
+   "epoch": "2014-01-12"
+  }
+ ],
+ "notes": "Nearby type-2 quasar; HST/WFC3 imaging resolves the host galaxy (Zhao et al. 2019).",
+ "last_updated": "2026-07-12",
+ "plx_mas": null,
+ "mags": {
+  "V": 17.57,
+  "J": 13.074,
+  "H": 12.368,
+  "K": 12.129
+ }
+}

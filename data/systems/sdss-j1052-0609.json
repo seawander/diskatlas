@@ -1,0 +1,75 @@
+{
+ "id": "sdss-j1052-0609",
+ "name": "SDSS J1052+0609",
+ "alt_names": [
+  "SDSS J105208.19+060915.1"
+ ],
+ "simbad": "2MASX J10520818+0609146",
+ "ra_deg": 163.034149,
+ "dec_deg": 6.154213,
+ "dist_pc": null,
+ "sptype": null,
+ "region": "obscured quasar",
+ "categories": [
+  "quasar"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "image_id": "sdss-j1052-0609_sdss-j1052-0609-f814w",
+   "type": "quasar",
+   "facility": "HST",
+   "instrument": "WFC3",
+   "wavelength_um": 0.81,
+   "wavelength_label": "F814W",
+   "technique": "optical/NIR imaging",
+   "survey": null,
+   "content": "continuum",
+   "file": "images/sdss-j1052-0609/sdss-j1052-0609_sdss-j1052-0609-f814w.png",
+   "credit": "Zhao et al. 2019, Fig. 3 (crop)",
+   "note": "z=0.052; type 2 quasar; barred spiral host; HST GO-12903",
+   "paper": {
+    "first_author": "Zhao",
+    "year": 2019,
+    "title": "The Role of Major Mergers and Nuclear Star Formation in Nearby Obscured Quasars",
+    "journal": "ApJ 877, 52",
+    "arxiv": "1904.06734",
+    "bibcode": "2019ApJ...877...52Z"
+   },
+   "epoch": "2013-02-25"
+  },
+  {
+   "image_id": "sdss-j1052-0609_sdss-j1052-0609-f438w",
+   "type": "quasar",
+   "facility": "HST",
+   "instrument": "WFC3",
+   "wavelength_um": 0.44,
+   "wavelength_label": "F438W",
+   "technique": "optical/NIR imaging",
+   "survey": null,
+   "content": "continuum",
+   "file": "images/sdss-j1052-0609/sdss-j1052-0609_sdss-j1052-0609-f438w.png",
+   "credit": "Zhao et al. 2019, Fig. 3 (crop)",
+   "note": "z=0.052; type 2 quasar; barred spiral host; HST GO-12903",
+   "paper": {
+    "first_author": "Zhao",
+    "year": 2019,
+    "title": "The Role of Major Mergers and Nuclear Star Formation in Nearby Obscured Quasars",
+    "journal": "ApJ 877, 52",
+    "arxiv": "1904.06734",
+    "bibcode": "2019ApJ...877...52Z"
+   },
+   "epoch": "2013-02-25"
+  }
+ ],
+ "notes": "Nearby type-2 quasar; HST/WFC3 imaging resolves the host galaxy (Zhao et al. 2019).",
+ "last_updated": "2026-07-12",
+ "plx_mas": null,
+ "mags": {
+  "V": 17.14,
+  "G": 18.721714,
+  "J": 13.636,
+  "H": 13.054,
+  "K": 12.748
+ }
+}
