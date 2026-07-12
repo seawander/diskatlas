@@ -30,8 +30,8 @@
    "type": "planet",
    "facility": "VLT-NACO",
    "instrument": "NACO",
-   "wavelength_um": 2.2,
-   "wavelength_label": "Ks band; companion discovery",
+   "wavelength_um": 2.18,
+   "wavelength_label": "Ks 2.18 um; companion candidate 2.67\" NW (discovery)",
    "technique": "other",
    "survey": null,
    "credit": "Schmidt et al. 2008, Fig. 1 (crop)",
@@ -45,7 +45,7 @@
    },
    "image_id": "ct-cha_naco2008",
    "file": "images/ct-cha/ct-cha_naco2008.png",
-   "epoch": "2006 Feb 17"
+   "epoch": "2007-03-02"
   },
   {
    "type": "disk_scattered",

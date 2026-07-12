@@ -1,0 +1,50 @@
+name: Deploy to GitHub Pages
+
+# CI-gated deploy of the static site to GitHub Pages.
+#
+# NOTE: this is currently manual (`workflow_dispatch`) because the repo's Pages
+# source is still "Deploy from a branch" (build_type: legacy), under which every
+# push to master auto-deploys and this workflow would only conflict. To make
+# this the live, CI-gated deploy path:
+#   1. Settings -> Pages -> Source: GitHub Actions
+#      (or: gh api -X POST repos/OWNER/REPO/pages -f build_type=workflow)
+#   2. Change the trigger below from `workflow_dispatch` to a push on master.
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  # Re-run the same guards before publishing, so a bad commit never deploys.
+  verify:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+      - run: python3 backend-data/validate.py
+      - run: python3 backend-infra/check_data_sync.py
+      - run: python3 backend-infra/check_images.py
+
+  deploy:
+    needs: verify
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: .
+      - id: deployment
+        uses: actions/deploy-pages@v4

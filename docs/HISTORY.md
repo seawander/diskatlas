@@ -416,3 +416,11 @@ discovery image (FU Ori 180deg-rotation self-subtracted, S 0.5" S) + Pueyo 2012
 Fig 6 right self-calibrated-PSF reprocessing of the same IRCS data. Added FU Ori S
 to planets[] (validate requires a planets entry when planet-typed images exist);
 planet_hosts 87->88. 520 systems, 2155 image records, 0 errors / 0 warnings.
+
+2026-07-11 (CT Cha discovery-crop fix, user-reported). The held Schmidt & al. 2008
+(0809.2812) Fig 1 NACO Ks crop (ct-cha_naco2008) had been zoomed onto the saturated
+CT Cha A blob only, cutting OFF the companion candidate (CT Cha B) 2.67" NW. Re-
+cropped the full published panel from the source EPS - now shows CT Cha A, the
+labelled "companion candidate" (B), the cc2 background object, N/E compass and 1"
+scale bar. Also corrected the record epoch 2006-02-17 -> 2007-03-02 (the caption
+states Fig 1 is the 2007 March 2 image) and set Ks 2.18 um. No count change.

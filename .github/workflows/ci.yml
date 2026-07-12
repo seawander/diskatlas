@@ -1,0 +1,46 @@
+name: CI
+
+# Guards the cross-track contract: data records -> build.py -> frontend/data.js,
+# plus the deployed image + i18n + frontend-logic invariants. Runs for both the
+# data track's and the infra track's commits to master.
+on:
+  push:
+    branches: [master]
+  pull_request:
+    branches: [master]
+
+permissions:
+  contents: read
+
+concurrency:
+  group: ci-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Validate data schema (data/systems/*.json)
+        run: python3 backend-data/validate.py
+
+      - name: frontend/data.js is in sync with data/
+        run: python3 backend-infra/check_data_sync.py
+
+      - name: Deployed images resolve and are in spec
+        run: python3 backend-infra/check_images.py
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Frontend logic tests
+        run: node backend-data/test_frontend_logic.js
+
+      - name: i18n key completeness (12 languages)
+        run: node backend-infra/check_i18n.js
