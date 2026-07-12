@@ -333,7 +333,7 @@
    "technique": "coronagraphy",
    "wavelength_um": 0.58,
    "wavelength_label": "0.58 um (STIS 50CCD 6-roll PSFTSC; face-on gas-rich disk)",
-   "epoch": "2012",
+   "epoch": "2011",
    "image_id": "pds-66_stis-schneider14-m",
    "survey": "STIS-Schneider14",
    "file": "images/pds-66/pds-66_stis-schneider14-m.png",

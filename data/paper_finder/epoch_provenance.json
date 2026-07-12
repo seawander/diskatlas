@@ -1535,10 +1535,9 @@
   "snippet": "1342196038 & 9 May 2010 & PacsPhoto 70/160 (scan 135) & 5478 & $-$\\\\"
  },
  "cy-tau_carma-1.3mm": {
-  "epoch": "2009",
-  "source": "tex:year",
-  "arxiv": "1509.07520",
-  "snippet": "ctx dates same year: 2009 Dec"
+  "epoch": "2007-2011",
+  "source": "tex:table",
+  "snippet": "corrected from '2009': Perez 2015 CARMA 1.3mm log: 2007-Nov-07 .. 2011-Dec-12 (C+B+D+A configs combined)"
  },
  "cy-tau_carma-2.8mm": {
   "epoch": "2009",
@@ -3040,10 +3039,9 @@
   "snippet": "70 ACS obs"
  },
  "au-mic_stis-schneider14": {
-  "epoch": "1998-2013",
-  "source": "mast:mast-range",
-  "arxiv": "1406.7303",
-  "snippet": "60 STIS obs"
+  "epoch": "2010-2011",
+  "source": "archive:MAST",
+  "snippet": "corrected from '1998-2013': GO-12228 visits 2010-08-09 .. 2011-07-17 (Schneider 2014 = the GO-12228 program paper)"
  },
  "au-mic_nicmos-ren2023": {
   "epoch": "2004",
@@ -3777,10 +3775,9 @@
   "snippet": "corrected from '2011-2021': re-reduction of the same GO-12228 2011 data; MAST shows no later STIS visit"
  },
  "hd-61005_stis-schneider14": {
-  "epoch": "2010-2011",
-  "source": "mast:mast-range",
-  "arxiv": "1406.7303",
-  "snippet": "25 STIS obs"
+  "epoch": "2011",
+  "source": "archive:MAST",
+  "snippet": "corrected from '2010-2011': GO-12228 visits 2011-02-17 .. 2011-12-06 (all 2011)"
  },
  "hd-61005_nicmos-ren2023": {
   "epoch": "2005-2006",
@@ -8728,5 +8725,15 @@
   "source": "archive:alma-cone1",
   "arxiv": "2605.30023",
   "snippet": "proposals ['2025.1.01508.S']"
+ },
+ "hr-4796a_nicmos-f222m-milli15": {
+  "epoch": "2005-05-09",
+  "source": "archive:MAST",
+  "snippet": "corrected from '2009-08-12' (a NACO date in the same paper): NICMOS F222M observed once, 2005-05-09, prop 10167"
+ },
+ "pds-66_stis-schneider14-m": {
+  "epoch": "2011",
+  "source": "archive:MAST",
+  "snippet": "corrected from '2012': GO-12228 visits 2011-03-31 + 2011-06-04; no 2012 visit exists (6-roll combine of the 2011 data)"
  }
 }

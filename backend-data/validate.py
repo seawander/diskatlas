@@ -115,6 +115,28 @@ def main():
                     int(m.group(1)) != int(p["year"]):
                 errors.append(f"{sid}/{iid}: paper year {p['year']} != "
                               f"bibcode year {m.group(1)} ({bib})")
+            # epoch sanity: ISO forms only (YYYY[-MM[-DD]] or YYYY-YYYY span),
+            # plausible years, span ordered, and data cannot postdate the paper
+            ep = im.get("epoch")
+            if ep:
+                span = re.fullmatch(r"(\d{4})-(\d{4})", str(ep))
+                single = re.fullmatch(r"(\d{4})(-\d{2}(-\d{2})?)?", str(ep))
+                if span:
+                    y0, y1 = int(span.group(1)), int(span.group(2))
+                elif single:
+                    y0 = y1 = int(single.group(1))
+                else:
+                    errors.append(f"{sid}/{iid}: epoch '{ep}' not ISO "
+                                  f"(YYYY / YYYY-MM / YYYY-MM-DD / YYYY-YYYY)")
+                    y0 = y1 = None
+                if y0 is not None:
+                    if not (1980 <= y0 <= 2027 and 1980 <= y1 <= 2027):
+                        errors.append(f"{sid}/{iid}: epoch '{ep}' out of range")
+                    if y1 < y0:
+                        errors.append(f"{sid}/{iid}: epoch span '{ep}' reversed")
+                    if p.get("year") and y0 > int(p["year"]):
+                        errors.append(f"{sid}/{iid}: epoch '{ep}' begins after "
+                                      f"the paper's year {p['year']}")
 
     print(f"systems: {len(ids)}, image records: {n_img}, with local file: {n_file}")
     for w in warns:

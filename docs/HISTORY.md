@@ -672,3 +672,19 @@ carry the same epoch. Second pass: normalized all 319 prose-form epochs
 ("2019 Feb 3", "2010 Apr", "2015-01 to 2015-02") to ISO policy forms
 (YYYY-MM-DD / new YYYY-MM tier / YYYY), spot-checked, validate 0/0;
 epoch coverage 94.5%.
+
+2026-07-11 (all-systems epoch sweep, follow-up to the TWA 7 catch). Hard
+sanity scan of all 2292 record epochs (year ranges, span order, epoch vs
+publication year, conservative instrument commissioning windows) found ONE
+impossible date: HR 4796A NICMOS F222M "2009-08-12" (NICMOS ended science
+in 2008; the harvest had grabbed the paper's NACO date) -> 2005-05-09 per
+MAST prop 10167. Soft scan (same instrument + wavelength, different papers,
+disagreeing epochs) flagged 42 groups; 37 are genuinely multi-epoch or
+different programs (correct), 4 were wrong and fixed after MAST/tex
+verification: AU Mic Schneider14 STIS "1998-2013" -> 2010-2011, HD 61005
+Schneider14 STIS -> 2011, CY Tau CARMA 1.3mm "2009" -> 2007-2011 (Perez 15
+log spans 2007-2011), PDS 66 Schneider14 6-roll "2012" -> 2011 (no 2012
+visit exists). AGE-PRO per-target spans left as-is (deliberate archival+LP
+combinations). validate.py now enforces epoch sanity permanently: ISO forms
+only, years within 1980-2027, ordered spans, and epoch must not postdate
+the paper (all four negative-tested).
