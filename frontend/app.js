@@ -319,6 +319,9 @@ if (typeof window !== "undefined") (function () {
     COL.constlab = light ? "rgba(50,74,126,.62)" : "rgba(140,160,210,.42)";
     COL.gal = light ? "rgba(60,100,190,.38)" : "rgba(160,190,255,.28)";
     COL.ecl = light ? "rgba(185,115,25,.40)" : "rgba(255,190,120,.20)";
+    /* opaque variants so the on-curve labels stay legible (the lines are faint) */
+    COL.gallab = light ? "rgba(52,92,180,.95)" : "rgba(178,202,255,.9)";
+    COL.ecllab = light ? "rgba(170,105,20,.95)" : "rgba(255,200,140,.9)";
     COL.hover = light ? "#1c2438" : "#fff";
     COL.namelab = light ? "rgba(28,36,56,.92)" : "rgba(232,236,248,.85)";
   };
@@ -439,6 +442,37 @@ if (typeof window !== "undefined") (function () {
     }
     ctx.stroke(); ctx.setLineDash([]);
   }
+  /* write a curve's name (galactic plane / ecliptic) along its own tangent, at
+     the flattest on-screen stretch so the rotated label stays readable. */
+  function labelCurve(pts, color, text) {
+    if (!text) return;
+    ctx.font = fpx(11) + " system-ui";
+    const tw = ctx.measureText(text).width;
+    let best = null, bestScore = Infinity;
+    for (let i = 2; i < pts.length - 2; i++) {
+      const q = project(pts[i].ra, pts[i].dec, view, W, H);
+      /* stay clear of the header (top) and the legend + RA labels (bottom) */
+      if (q.x < 64 || q.x > W - tw - 28 || q.y < topbarH() + 26 || q.y > H - 54) continue;
+      let a = project(pts[i - 2].ra, pts[i - 2].dec, view, W, H);
+      let b = project(pts[i + 2].ra, pts[i + 2].dec, view, W, H);
+      if (Math.abs(b.x - a.x) > W / 2) continue;        // skip the RA-wrap seam
+      if (a.x > b.x) { const s = a; a = b; b = s; }      // left→right so text isn't upside down
+      const slope = Math.abs((b.y - a.y) / ((b.x - a.x) || 1));
+      /* rotated text handles slope, so weight it lightly; prefer a spot a little
+         left of centre and near the vertical middle (away from both edges) */
+      const score = slope * 70 + Math.abs(q.x - W * 0.30) + Math.abs(q.y - H * 0.42) * 0.8;
+      if (score < bestScore) { bestScore = score; best = { q, a, b }; }
+    }
+    if (!best) return;
+    ctx.save();
+    ctx.translate(best.q.x, best.q.y);
+    ctx.rotate(Math.atan2(best.b.y - best.a.y, best.b.x - best.a.x));
+    ctx.fillStyle = color;
+    ctx.font = fpx(11) + " system-ui";
+    ctx.textBaseline = "bottom";
+    ctx.fillText(text, 5, -3);                            // sits just above the line
+    ctx.restore();
+  }
 
   const GAL = []; for (let l = 0; l <= 360; l += 2) GAL.push(galToEq(l, 0));
   const ECL = []; for (let l = 0; l <= 360; l += 2) ECL.push(eclToEq(l));
@@ -537,6 +571,8 @@ if (typeof window !== "undefined") (function () {
     drawCurve(GAL, COL.gal);
     drawCurve(ECL, COL.ecl, [5, 5]);
     drawGrid();
+    labelCurve(GAL, COL.gallab, t("map_galactic"));
+    labelCurve(ECL, COL.ecllab, t("map_ecliptic"));
 
     const zs = Math.min(1.6, 0.9 + view.ppd / 60);
     for (const s of PLOT()) {
