@@ -2,6 +2,10 @@
 
 - fac_keys: list of AAS facility keywords (https://journals.aas.org/facility-keywords/,
   Keyword column) where the platform appears there; plain telescope name otherwise.
+  Two deliberate display-level departures from the paper's \\facilities list: the
+  facet keeps one grouped "VLT" chip where the paper counts per unit telescope
+  (VLT:Antu/Melipal/Yepun), and "OVRO" stays short where the paper spells out the
+  full name (the AAS list has no keyword for the OVRO mm array).
   Joint "A + B" / "A/B" observations are split into their component facilities and
   yield multiple keys (the frontend shows the record under each), so joint strings
   never appear as their own facet chip. VLT and VLTI are distinct keys; the frontend
@@ -43,6 +47,10 @@ FAC_TABLE = {
     "CFHT": ["CFHT"], "AEOS": ["AEOS"], "UH 2.2m": ["UH:2.2m"],
     "Palomar": ["Hale"], "Palomar 5-m Hale Telescope": ["Hale"],
     "Pan-STARRS1": ["PS1"], "VISTA": ["ESO:VISTA"], "CTIO-1.5m": ["CTIO:1.5m"],
+    # ING 4.2m William Herschel Telescope (not the Herschel Space Observatory)
+    "WHT": ["ING:Herschel"],
+    # SAI 2.5m at the Caucasian Mountain Observatory (Sternberg Astronomical Inst.)
+    "CMO-2.5m": ["SAI-2.5m"],
 }
 
 _MM_FACILITY_INSTR = {  # facilities that double as the canonical instrument
@@ -111,7 +119,7 @@ def fac_keys(facility, instrument=""):
         elif fl.startswith("subaru"):
             keys = ["Subaru"]
         elif fl.startswith("gemini"):
-            keys = ["Gemini:South" if any(x in fl + il for x in ("gpi", "nici", "t-recs", "south"))
+            keys = ["Gemini:South" if any(x in fl + il for x in ("gpi", "nici", "t-recs", "south", "gmos-s"))
                     else "Gemini:Gillett"]
         elif fl.startswith("keck"):
             keys = ["Keck:I" if ("lws" in il or "osiris" in il) else "Keck:II"]
