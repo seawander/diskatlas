@@ -8,7 +8,7 @@ window.I18N = {
   en: {
     title: "resolved circumstellar disks & imaged companions",
     search_ph: "Search star… (e.g. HL Tau)",
-    word_systems: "systems", word_records: "image records", word_local: "local images", word_built: "built",
+    word_systems: "systems", word_records: "image records", word_local: "local images", word_updated: "last updated",
     tab_sky: "Sky", tab_matrix: "Coverage matrix", tab_tonight: "Tonight", fold_filters: "show / hide filters",
     cat_proto: "protoplanetary", cat_debris: "debris", cat_planetonly: "companion-only", cat_quasar: "quasar", cat_evolved: "evolved",
     f_planethost: "hosts imaged companion", f_constellations: "constellations",
@@ -43,7 +43,7 @@ window.I18N = {
   zh: {
     title: "已分辨星周盘与直接成像伴体",
     search_ph: "搜索恒星…(如 HL Tau)",
-    word_systems: "个系统", word_records: "条图像记录", word_local: "张本地图", word_built: "构建于",
+    word_systems: "个系统", word_records: "条图像记录", word_local: "张本地图", word_updated: "最近更新",
     tab_sky: "星图", tab_matrix: "覆盖矩阵", tab_tonight: "今夜可观测", fold_filters: "显示 / 隐藏筛选",
     cat_proto: "原行星盘", cat_debris: "碎屑盘", cat_planetonly: "仅伴体", cat_quasar: "类星体宿主", cat_evolved: "演化盘",
     f_planethost: "有成像伴体", f_constellations: "星座连线",
@@ -78,7 +78,7 @@ window.I18N = {
   fr: {
     title: "disques circumstellaires résolus & compagnons imagés",
     search_ph: "Rechercher une étoile… (ex. HL Tau)",
-    word_systems: "systèmes", word_records: "images cataloguées", word_local: "images locales", word_built: "compilé le",
+    word_systems: "systèmes", word_records: "images cataloguées", word_local: "images locales", word_updated: "mis à jour le",
     tab_sky: "Ciel", tab_matrix: "Matrice de couverture", tab_tonight: "Ce soir", fold_filters: "afficher / masquer les filtres",
     cat_proto: "protoplanétaire", cat_debris: "débris", cat_planetonly: "compagnon seul", cat_quasar: "quasar", cat_evolved: "évolué",
     f_planethost: "avec compagnon imagé", f_constellations: "constellations",
@@ -113,7 +113,7 @@ window.I18N = {
   es: {
     title: "discos circunestelares resueltos y compañeros imagenados",
     search_ph: "Buscar estrella… (p. ej. HL Tau)",
-    word_systems: "sistemas", word_records: "registros de imagen", word_local: "imágenes locales", word_built: "compilado",
+    word_systems: "sistemas", word_records: "registros de imagen", word_local: "imágenes locales", word_updated: "actualizado el",
     tab_sky: "Cielo", tab_matrix: "Matriz de cobertura", tab_tonight: "Esta noche", fold_filters: "mostrar / ocultar filtros",
     cat_proto: "protoplanetario", cat_debris: "de escombros", cat_planetonly: "solo compañero", cat_quasar: "cuásar", cat_evolved: "evolucionado",
     f_planethost: "con compañero imagenado", f_constellations: "constelaciones",
@@ -148,7 +148,7 @@ window.I18N = {
   de: {
     title: "aufgelöste zirkumstellare Scheiben & abgebildete Begleiter",
     search_ph: "Stern suchen… (z. B. HL Tau)",
-    word_systems: "Systeme", word_records: "Bilddatensätze", word_local: "lokale Bilder", word_built: "erstellt",
+    word_systems: "Systeme", word_records: "Bilddatensätze", word_local: "lokale Bilder", word_updated: "aktualisiert am",
     tab_sky: "Himmel", tab_matrix: "Abdeckungsmatrix", tab_tonight: "Heute Nacht", fold_filters: "Filter ein-/ausblenden",
     cat_proto: "protoplanetar", cat_debris: "Trümmer", cat_planetonly: "nur Begleiter", cat_quasar: "Quasar", cat_evolved: "entwickelt",
     f_planethost: "mit abgebildetem Begleiter", f_constellations: "Sternbilder",
@@ -183,7 +183,7 @@ window.I18N = {
   it: {
     title: "dischi circumstellari risolti e compagni ripresi",
     search_ph: "Cerca stella… (es. HL Tau)",
-    word_systems: "sistemi", word_records: "immagini catalogate", word_local: "immagini locali", word_built: "compilato",
+    word_systems: "sistemi", word_records: "immagini catalogate", word_local: "immagini locali", word_updated: "aggiornato il",
     tab_sky: "Cielo", tab_matrix: "Matrice di copertura", tab_tonight: "Stanotte", fold_filters: "mostra / nascondi filtri",
     cat_proto: "protoplanetario", cat_debris: "detriti", cat_planetonly: "solo compagno", cat_quasar: "quasar", cat_evolved: "evoluto",
     f_planethost: "con compagno ripreso", f_constellations: "costellazioni",
@@ -218,7 +218,7 @@ window.I18N = {
   ja: {
     title: "分解された星周円盤と直接撮像された伴天体",
     search_ph: "恒星を検索…(例: HL Tau)",
-    word_systems: "系", word_records: "画像レコード", word_local: "ローカル画像", word_built: "生成日",
+    word_systems: "系", word_records: "画像レコード", word_local: "ローカル画像", word_updated: "最終更新",
     tab_sky: "天球", tab_matrix: "カバレッジ行列", tab_tonight: "今夜", fold_filters: "フィルタの表示 / 非表示",
     cat_proto: "原始惑星系", cat_debris: "デブリ", cat_planetonly: "伴天体のみ", cat_quasar: "クェーサー", cat_evolved: "進化した",
     f_planethost: "撮像伴天体あり", f_constellations: "星座線",
@@ -253,7 +253,7 @@ window.I18N = {
   pt: {
     title: "discos circunstelares resolvidos e companheiros imageados",
     search_ph: "Buscar estrela… (ex.: HL Tau)",
-    word_systems: "sistemas", word_records: "registros de imagem", word_local: "imagens locais", word_built: "compilado em",
+    word_systems: "sistemas", word_records: "registros de imagem", word_local: "imagens locais", word_updated: "atualizado em",
     tab_sky: "Céu", tab_matrix: "Matriz de cobertura", tab_tonight: "Esta noite", fold_filters: "mostrar / ocultar filtros",
     cat_proto: "protoplanetário", cat_debris: "detritos", cat_planetonly: "só companheiro", cat_quasar: "quasar", cat_evolved: "evoluído",
     f_planethost: "com companheiro imageado", f_constellations: "constelações",
@@ -288,7 +288,7 @@ window.I18N = {
   ru: {
     title: "разрешённые околозвёздные диски и снятые компаньоны",
     search_ph: "Поиск звезды… (напр. HL Tau)",
-    word_systems: "систем", word_records: "изображений", word_local: "локальных изображений", word_built: "собрано",
+    word_systems: "систем", word_records: "изображений", word_local: "локальных изображений", word_updated: "обновлено",
     tab_sky: "Небо", tab_matrix: "Матрица покрытия", tab_tonight: "Сегодня ночью", fold_filters: "показать / скрыть фильтры",
     cat_proto: "протопланетный", cat_debris: "остаточный", cat_planetonly: "только компаньон", cat_quasar: "квазар", cat_evolved: "эволюционировавший",
     f_planethost: "есть снятый компаньон", f_constellations: "созвездия",
@@ -323,7 +323,7 @@ window.I18N = {
   ar: {
     title: "الأقراص المحيطة بالنجوم المحلولة والرفقاء المصوَّرون",
     search_ph: "ابحث عن نجم… (مثل HL Tau)",
-    word_systems: "أنظمة", word_records: "سجلات صور", word_local: "صور محلية", word_built: "بُني في",
+    word_systems: "أنظمة", word_records: "سجلات صور", word_local: "صور محلية", word_updated: "آخر تحديث",
     tab_sky: "السماء", tab_matrix: "مصفوفة التغطية", tab_tonight: "الليلة", fold_filters: "إظهار / إخفاء المرشّحات",
     cat_proto: "قرص أوّلي", cat_debris: "قرص حطام", cat_planetonly: "رفيق فقط", cat_quasar: "كوازار", cat_evolved: "متطوّر",
     f_planethost: "مع رفيق مصوَّر", f_constellations: "الأبراج",
@@ -358,7 +358,7 @@ window.I18N = {
   ko: {
     title: "분해된 별주위 원반과 촬영된 동반 천체",
     search_ph: "별 검색… (예: HL Tau)",
-    word_systems: "천체계", word_records: "이미지 레코드", word_local: "로컬 이미지", word_built: "생성일",
+    word_systems: "천체계", word_records: "이미지 레코드", word_local: "로컬 이미지", word_updated: "최종 업데이트",
     tab_sky: "하늘", tab_matrix: "커버리지 행렬", tab_tonight: "오늘 밤", fold_filters: "필터 표시 / 숨기기",
     cat_proto: "원시행성계", cat_debris: "잔해 원반", cat_planetonly: "동반 천체만", cat_quasar: "퀘이사", cat_evolved: "진화된",
     f_planethost: "촬영된 동반 천체 있음", f_constellations: "별자리",
@@ -393,7 +393,7 @@ window.I18N = {
   hi: {
     title: "विभेदित परितारकीय डिस्क और प्रतिबिंबित सहचर",
     search_ph: "तारा खोजें… (जैसे HL Tau)",
-    word_systems: "मंडल", word_records: "छवि अभिलेख", word_local: "स्थानीय छवियाँ", word_built: "निर्मित",
+    word_systems: "मंडल", word_records: "छवि अभिलेख", word_local: "स्थानीय छवियाँ", word_updated: "अंतिम अपडेट",
     tab_sky: "आकाश", tab_matrix: "कवरेज मैट्रिक्स", tab_tonight: "आज रात", fold_filters: "फ़िल्टर दिखाएँ / छिपाएँ",
     cat_proto: "पूर्व-ग्रहीय", cat_debris: "मलबा", cat_planetonly: "केवल सहचर", cat_quasar: "क्वासर", cat_evolved: "विकसित",
     f_planethost: "प्रतिबिंबित सहचर सहित", f_constellations: "तारामंडल",

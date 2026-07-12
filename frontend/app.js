@@ -542,10 +542,14 @@ if (typeof window !== "undefined") (function () {
       }
     }
     const st = A.stats || {};
+    /* the "N local images" token is only informative when some records lack a
+       local panel — since 2026-07 every record ships one, so skip the stutter */
+    const localTok = st.with_local_image === st.image_records ? "" :
+      " · " + (st.with_local_image || 0) + " " + t("word_local");
     document.getElementById("statsline").textContent =
       (st.systems || SYS.length) + " " + t("word_systems") + " · " + (st.image_records || "?") +
-      " " + t("word_records") + " · " + (st.with_local_image || 0) + " " + t("word_local") +
-      " · " + t("word_built") + " " + (A.generated || "?").slice(0, 10);
+      " " + t("word_records") + localTok +
+      " · " + t("word_updated") + " " + (A.generated || "?").slice(0, 10);
     /* literature-exploration progress bar (paper-finder ledgers, baked in at build time) */
     if (st.papers_known) {
       let wrap = document.getElementById("litbar");
@@ -565,8 +569,13 @@ if (typeof window !== "undefined") (function () {
       }
       wrap.title = t("lit_title").replace("{k}", st.papers_known)
         .replace("{e}", st.papers_explored).replace("{i}", st.papers_in_atlas);
+      /* exploration is saturated (explored == known) in maintenance mode — the
+         middle number is then redundant, so show "in atlas / known"; the full
+         three-number form returns whenever a fresh-papers digest is pending */
       wrap.querySelector(".litlabel").textContent = t("lit_label") + " " +
-        st.papers_in_atlas + "/" + st.papers_explored + "/" + st.papers_known;
+        st.papers_in_atlas + "/" +
+        (st.papers_explored === st.papers_known ? st.papers_known :
+          st.papers_explored + "/" + st.papers_known);
     }
   }
 
