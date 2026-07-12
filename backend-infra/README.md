@@ -27,14 +27,16 @@ All four run in CI on every push/PR to `master` — see `.github/workflows/ci.ym
 
 ## Deploy
 
-`.github/workflows/pages.yml` builds the repo as a GitHub Pages artifact and
-deploys it, **gated on the CI job passing**. It is currently `workflow_dispatch`
-only (manual) because the repo's Pages source is still "Deploy from a branch"
-(`build_type: legacy`). To make it the live, CI-gated deploy path:
+`.github/workflows/pages.yml` is the **live deploy path** (2026-07-11): the
+repo's Pages source is set to "GitHub Actions" (`build_type: workflow`), and
+every push to `master` re-runs the guards (`validate` + `check_data_sync` +
+`check_images`) and only publishes the site if they pass. `workflow_dispatch`
+is kept so a deploy can also be triggered by hand. `.nojekyll` disables Jekyll
+so dotfiles and `_`-prefixed paths are served verbatim.
 
-1. Repo → Settings → Pages → **Source: GitHub Actions**
-   (or `gh api -X POST repos/OWNER/REPO/pages -f build_type=workflow`).
-2. Change `pages.yml`'s trigger from `workflow_dispatch` to `push` on `master`.
+Note: the Pages artifact (`actions/upload-pages-artifact`, `path: .`) does **not
+publish `.github/`** — put any served asset (e.g. the OG card image) under a
+normal directory like `frontend/`, not `.github/`.
 
 See `backend-infra/data-split-proposal.md` for a cross-track first-paint
 optimization flagged to the data track.
