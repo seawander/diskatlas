@@ -210,7 +210,7 @@
     "arxiv": "1812.05610",
     "bibcode": "2018ApJ...869...75M"
    },
-   "epoch": "2016 Jan 1",
+   "epoch": "2016-01-01",
    "content": "line"
   },
   {
@@ -321,7 +321,7 @@
     "arxiv": "1401.3343",
     "bibcode": "2014ApJ...783...21R"
    },
-   "epoch": "2012 Nov 4",
+   "epoch": "2012-11-04",
    "content": "continuum"
   },
   {
@@ -387,7 +387,7 @@
     "bibcode": "2016A&A...593A..73A"
    },
    "file": "images/hd-32297/hd-32297_hiciao-pdi2014.png",
-   "epoch": "2014 Oct 10",
+   "epoch": "2014-10-10",
    "content": "continuum"
   },
   {
@@ -409,7 +409,7 @@
     "bibcode": "2012ApJ...757...28C"
    },
    "file": "images/hd-32297/hd-32297_nirc2-2012.png",
-   "epoch": "2011 Nov 20",
+   "epoch": "2011-11-20",
    "content": "continuum"
   },
   {

@@ -94,8 +94,13 @@ state no dates AND archives are silent. Method + numbers for the manuscript:
 `paper_Overleaf/notes_epoch_methods.md`. Provenance per record:
 `data/paper_finder/epoch_provenance.json`. Audit: `backend-data/epoch_audit.py`.
 
-- Precision policy: `YYYY-MM-DD` if executions cluster ≤~45 d; `YYYY` if one
-  calendar year; `YYYY-YYYY` if the image combines years.
+- Precision policy: `YYYY-MM-DD` if executions cluster ≤~45 d; `YYYY-MM` when
+  the paper states only the month; `YYYY` if one calendar year; `YYYY-YYYY` if
+  the image combines years. ISO digits ONLY — never "2019 Feb 3" prose forms
+  (319 such strings normalized 2026-07-11; keep the field machine-parseable).
+- Re-reductions of the SAME dataset carry the SAME epoch as the original
+  record — a survey re-analysis paper's own span/publication year is poison
+  (the 2026-07-11 audit fixed 12 such, e.g. "1998-2023" on 2010-2011 data).
 - Tools: `epoch_harvest.py` (tex extraction; BLOCKLIST pins rejected
   candidates), `epoch_archives.py` (MAST/ESO/ALMA/HSA, bounded by paper date),
   `fetch_sources.py` (arXiv source packages).

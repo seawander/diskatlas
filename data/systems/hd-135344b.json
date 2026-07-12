@@ -57,7 +57,7 @@
    },
    "image_id": "hd-135344b_seeds2012",
    "file": "images/hd-135344b/hd-135344b_seeds2012.png",
-   "epoch": "2011 May 20",
+   "epoch": "2011-05-20",
    "content": "continuum"
   },
   {
@@ -123,7 +123,7 @@
     "bibcode": "2016A&A...595A.113S"
    },
    "file": "images/hd-135344b/hd-135344b_stolker2016-r.png",
-   "epoch": "2015 Mar 31",
+   "epoch": "2015-03-31",
    "content": "continuum"
   },
   {
@@ -145,7 +145,7 @@
     "bibcode": "2016A&A...595A.113S"
    },
    "file": "images/hd-135344b/hd-135344b_stolker2016-i.png",
-   "epoch": "2015 Mar 31",
+   "epoch": "2015-03-31",
    "content": "continuum"
   },
   {

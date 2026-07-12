@@ -32,7 +32,7 @@
    },
    "image_id": "hl-tau_alma2015",
    "file": "images/hl-tau/hl-tau_alma2015.png",
-   "epoch": "2014 Oct 14",
+   "epoch": "2014-10-14",
    "content": "continuum"
   },
   {
@@ -54,7 +54,7 @@
     "arxiv": "1503.02649",
     "bibcode": "2015ApJ...808L...3A"
    },
-   "epoch": "2014 Oct 14",
+   "epoch": "2014-10-14",
    "content": "continuum"
   },
   {
@@ -76,7 +76,7 @@
     "arxiv": "1503.02649",
     "bibcode": "2015ApJ...808L...3A"
    },
-   "epoch": "2014 Oct 14",
+   "epoch": "2014-10-14",
    "content": "continuum"
   },
   {
@@ -207,7 +207,7 @@
     "bibcode": "2016ApJ...821L..16C"
    },
    "file": "images/hl-tau/hl-tau_alma-1.3mm-carrasco16.png",
-   "epoch": "2014 Oct 14",
+   "epoch": "2014-10-14",
    "content": "continuum"
   },
   {

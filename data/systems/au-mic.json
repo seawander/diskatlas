@@ -107,7 +107,7 @@
    },
    "image_id": "au-mic_alma2013",
    "file": "images/au-mic/au-mic_alma2013.png",
-   "epoch": "2012 Apr 23",
+   "epoch": "2012-04-23",
    "content": "continuum"
   },
   {
@@ -304,7 +304,7 @@
    },
    "image_id": "au-mic_kalas2004",
    "file": "images/au-mic/au-mic_kalas2004.png",
-   "epoch": "2003 Oct 14",
+   "epoch": "2003-10-14",
    "content": "continuum"
   },
   {
@@ -370,7 +370,7 @@
     "arxiv": "2308.02486",
     "bibcode": "2023AJ....166..150L"
    },
-   "epoch": "2022 Oct 3",
+   "epoch": "2022-10-03",
    "content": "continuum"
   },
   {
@@ -392,7 +392,7 @@
     "bibcode": "2015ApJ...811..100M"
    },
    "file": "images/au-mic/au-mic_herschel2016.png",
-   "epoch": "2010 May 9",
+   "epoch": "2010-05-09",
    "content": "continuum"
   },
   {
@@ -414,7 +414,7 @@
     "arxiv": "1509.06415",
     "bibcode": "2015ApJ...811..100M"
    },
-   "epoch": "2010 May 9",
+   "epoch": "2010-05-09",
    "content": "continuum"
   },
   {

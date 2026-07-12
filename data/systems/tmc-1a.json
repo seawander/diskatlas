@@ -37,7 +37,7 @@
     "arxiv": "2306.15406",
     "bibcode": "2023ApJ...951....8O"
    },
-   "epoch": "2015 Sep 20",
+   "epoch": "2015-09-20",
    "content": "continuum"
   },
   {
@@ -59,7 +59,7 @@
     "bibcode": "2025ApJ...978...60A"
    },
    "file": "images/tmc-1a/tmc-1a_vla_kaband.png",
-   "epoch": "2021 Oct 23",
+   "epoch": "2021-10-23",
    "content": "continuum"
   }
  ],

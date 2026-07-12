@@ -83,7 +83,7 @@
    },
    "image_id": "fomalhaut_alma2017",
    "file": "images/fomalhaut/fomalhaut_alma2017.png",
-   "epoch": "2015 Dec 29",
+   "epoch": "2015-12-29",
    "content": "continuum"
   },
   {
@@ -105,7 +105,7 @@
    },
    "image_id": "fomalhaut_jwst2023",
    "file": "images/fomalhaut/fomalhaut_jwst2023.png",
-   "epoch": "2022 Oct 22",
+   "epoch": "2022-10-22",
    "content": "continuum"
   },
   {
@@ -149,7 +149,7 @@
    },
    "image_id": "fomalhaut_acs2008",
    "file": "images/fomalhaut/fomalhaut_acs2008.png",
-   "epoch": "2004 Oct 25",
+   "epoch": "2004-10-25",
    "content": "continuum"
   },
   {
@@ -171,7 +171,7 @@
     "arxiv": "2305.03789",
     "bibcode": "2023NatAs...7..790G"
    },
-   "epoch": "2022 Oct 22",
+   "epoch": "2022-10-22",
    "content": "continuum"
   },
   {
@@ -193,7 +193,7 @@
     "arxiv": "2305.03789",
     "bibcode": "2023NatAs...7..790G"
    },
-   "epoch": "2022 Oct 22",
+   "epoch": "2022-10-22",
    "content": "continuum"
   },
   {
@@ -215,7 +215,7 @@
     "arxiv": "1305.2222",
     "bibcode": "2013ApJ...775...56K"
    },
-   "epoch": "2010 Sep",
+   "epoch": "2010-09",
    "content": "continuum"
   },
   {
@@ -259,7 +259,7 @@
     "bibcode": "2005ApJ...620L..47M"
    },
    "file": "images/fomalhaut/fomalhaut_sharcii2005.png",
-   "epoch": "2004 Sep 18",
+   "epoch": "2004-09-18",
    "content": "continuum"
   },
   {

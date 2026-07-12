@@ -58,7 +58,7 @@
    },
    "image_id": "hr-4796a_gpi2015",
    "file": "images/hr-4796a/hr-4796a_gpi2015.png",
-   "epoch": "2013 Dec",
+   "epoch": "2013-12",
    "content": "continuum"
   },
   {
@@ -234,7 +234,7 @@
    },
    "image_id": "hr-4796a_keck1998",
    "file": "images/hr-4796a/hr-4796a_keck1998.png",
-   "epoch": "1998 Mar 16",
+   "epoch": "1998-03-16",
    "content": "continuum"
   },
   {
@@ -278,7 +278,7 @@
     "arxiv": "1110.2488",
     "bibcode": "2011ApJ...743L...6T"
    },
-   "epoch": "2011 May 24",
+   "epoch": "2011-05-24",
    "content": "continuum"
   },
   {
@@ -345,7 +345,7 @@
     "arxiv": "2606.23480",
     "bibcode": "2026ApJ..1001..189K"
    },
-   "epoch": "2025 Apr 8",
+   "epoch": "2025-04-08",
    "content": "continuum"
   },
   {
@@ -389,7 +389,7 @@
     "bibcode": "2009ApJ...701..804H"
    },
    "file": "images/hr-4796a/hr-4796a_aeos2009.png",
-   "epoch": "2005 Jan 26",
+   "epoch": "2005-01-26",
    "content": "continuum"
   },
   {
@@ -411,7 +411,7 @@
     "bibcode": "2019A&A...626A..54M"
    },
    "file": "images/hr-4796a/hr-4796a_zimpol2019.png",
-   "epoch": "2016 May 24",
+   "epoch": "2016-05-24",
    "content": "continuum"
   },
   {
@@ -455,7 +455,7 @@
     "bibcode": "2014A&A...567A..34W"
    },
    "file": "images/hr-4796a/hr-4796a_nici2014.png",
-   "epoch": "2012 Apr 6",
+   "epoch": "2012-04-06",
    "content": "continuum"
   },
   {
@@ -477,7 +477,7 @@
     "bibcode": "2011A&A...526A..34M"
    },
    "file": "images/hr-4796a/hr-4796a_gemini-midir2010.png",
-   "epoch": "2004 May",
+   "epoch": "2004-05",
    "content": "continuum"
   },
   {
@@ -499,7 +499,7 @@
     "bibcode": "2014A&A...567A..34W"
    },
    "file": "images/hr-4796a/hr-4796a_nici2014-j.png",
-   "epoch": "2012 Apr 6",
+   "epoch": "2012-04-06",
    "content": "continuum"
   },
   {
@@ -521,7 +521,7 @@
     "bibcode": "2014A&A...567A..34W"
    },
    "file": "images/hr-4796a/hr-4796a_nici2014-ks.png",
-   "epoch": "2012 Apr 6",
+   "epoch": "2012-04-06",
    "content": "continuum"
   },
   {

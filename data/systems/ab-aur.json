@@ -82,7 +82,7 @@
    },
    "image_id": "ab-aur_alma2017",
    "file": "images/ab-aur/ab-aur_alma2017.png",
-   "epoch": "2015 Nov 10",
+   "epoch": "2015-11-10",
    "content": "line"
   },
   {
@@ -104,7 +104,7 @@
    },
    "image_id": "ab-aur_seeds2011",
    "file": "images/ab-aur/ab-aur_seeds2011.png",
-   "epoch": "2009 Oct 31",
+   "epoch": "2009-10-31",
    "content": "continuum"
   },
   {
@@ -126,7 +126,7 @@
    },
    "image_id": "ab-aur_sphere2020",
    "file": "images/ab-aur/ab-aur_sphere2020.png",
-   "epoch": "2019 Dec",
+   "epoch": "2019-12",
    "content": "continuum"
   },
   {
@@ -148,7 +148,7 @@
    },
    "image_id": "ab-aur_scexao2022",
    "file": "images/ab-aur/ab-aur_scexao2022.png",
-   "epoch": "2016 Sep 9",
+   "epoch": "2016-09-09",
    "content": "continuum"
   },
   {
@@ -192,7 +192,7 @@
     "arxiv": "2005.09064",
     "bibcode": "2020A&A...637L...5B"
    },
-   "epoch": "2019 Dec",
+   "epoch": "2019-12",
    "content": "continuum"
   },
   {
@@ -303,7 +303,7 @@
     "bibcode": "2011ApJ...729L..17H"
    },
    "file": "images/ab-aur/ab-aur_seeds2011-closeup.png",
-   "epoch": "2009 Oct 31",
+   "epoch": "2009-10-31",
    "content": "continuum"
   },
   {

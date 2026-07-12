@@ -35,7 +35,7 @@
    },
    "image_id": "su-aur_sphere2021",
    "file": "images/su-aur/su-aur_sphere2021.png",
-   "epoch": "2019 Dec",
+   "epoch": "2019-12",
    "content": "continuum"
   },
   {
@@ -123,7 +123,7 @@
     "bibcode": "2015ApJ...806L..10D"
    },
    "file": "images/su-aur/su-aur_hiciao2015.png",
-   "epoch": "2014 Jan 19",
+   "epoch": "2014-01-19",
    "content": "continuum"
   }
  ],

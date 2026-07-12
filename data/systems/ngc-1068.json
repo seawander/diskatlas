@@ -57,7 +57,7 @@
     "bibcode": "2019A&A...625A.100R"
    },
    "file": "images/ngc-1068/ngc-1068_sphere2019-ks.png",
-   "epoch": "2014 Dec",
+   "epoch": "2014-12",
    "content": "continuum"
   },
   {
@@ -79,7 +79,7 @@
     "bibcode": "2019A&A...625A.100R"
    },
    "file": "images/ngc-1068/ngc-1068_sphere2019-h.png",
-   "epoch": "2014 Dec",
+   "epoch": "2014-12",
    "content": "continuum"
   },
   {
@@ -101,7 +101,7 @@
     "arxiv": "2102.06339",
     "bibcode": "2021A&A...648A..42G"
    },
-   "epoch": "2016 Sep",
+   "epoch": "2016-09",
    "content": "continuum"
   },
   {
@@ -123,7 +123,7 @@
     "arxiv": "1912.01361",
     "bibcode": "2020A&A...634A...1G"
    },
-   "epoch": "2018 Nov 20",
+   "epoch": "2018-11-20",
    "content": "continuum"
   },
   {

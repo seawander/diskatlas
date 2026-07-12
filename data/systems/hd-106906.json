@@ -90,7 +90,7 @@
    },
    "image_id": "hd-106906_mago2014",
    "file": "images/hd-106906/hd-106906_mago2014.png",
-   "epoch": "2013 Apr 7",
+   "epoch": "2013-04-07",
    "content": "continuum"
   },
   {
@@ -178,7 +178,7 @@
     "bibcode": "2025A&A...698A.113R"
    },
    "file": "images/hd-106906/hd-106906_jwst-miri-f1140c.png",
-   "epoch": "2023 May 16",
+   "epoch": "2023-05-16",
    "content": "continuum"
   },
   {
@@ -200,7 +200,7 @@
     "bibcode": "2025A&A...698A.113R"
    },
    "file": "images/hd-106906/hd-106906_jwst-miri-f1550c.png",
-   "epoch": "2023 May 16",
+   "epoch": "2023-05-16",
    "content": "continuum"
   },
   {
@@ -222,7 +222,7 @@
     "arxiv": "1510.02747",
     "bibcode": "2015ApJ...814...32K"
    },
-   "epoch": "2004 Dec 1",
+   "epoch": "2004-12-01",
    "content": "continuum"
   },
   {

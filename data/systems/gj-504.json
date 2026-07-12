@@ -47,7 +47,7 @@
    },
    "image_id": "gj-504_seeds2013",
    "file": "images/gj-504/gj-504_seeds2013.png",
-   "epoch": "2011 Mar 26",
+   "epoch": "2011-03-26",
    "content": "continuum"
   },
   {
@@ -69,7 +69,7 @@
    },
    "image_id": "gj-504_sphere2018",
    "file": "images/gj-504/gj-504_sphere2018.png",
-   "epoch": "2015 May 6",
+   "epoch": "2015-05-06",
    "content": "continuum"
   },
   {
@@ -91,7 +91,7 @@
     "arxiv": "1511.09183",
     "bibcode": "2016ApJ...817..166S"
    },
-   "epoch": "2014 Mar 11",
+   "epoch": "2014-03-11",
    "content": "continuum"
   },
   {

@@ -68,7 +68,7 @@
    },
    "image_id": "wispit-2_magaox2025",
    "file": "images/wispit-2/wispit-2_magaox2025.png",
-   "epoch": "2025 Apr 16",
+   "epoch": "2025-04-16",
    "content": "continuum"
   },
   {
@@ -90,7 +90,7 @@
    },
    "image_id": "wispit-2_sphere2025",
    "file": "images/wispit-2/wispit-2_sphere2025.png",
-   "epoch": "2023 Oct 19",
+   "epoch": "2023-10-19",
    "content": "continuum"
   },
   {
@@ -156,7 +156,7 @@
     "bibcode": "2025ApJ...990L...9C"
    },
    "file": "images/wispit-2/wispit-2_lband2025.png",
-   "epoch": "2025 June 5",
+   "epoch": "2025-06-05",
    "content": "continuum"
   },
   {

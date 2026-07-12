@@ -57,7 +57,7 @@
    },
    "image_id": "hd-202628_stis2012",
    "file": "images/hd-202628/hd-202628_stis2012.png",
-   "epoch": "2011 May 15",
+   "epoch": "2011-05-15",
    "content": "continuum"
   },
   {
@@ -79,7 +79,7 @@
     "bibcode": "2019AJ....158..162F"
    },
    "file": "images/hd-202628/hd-202628_herschel2019.png",
-   "epoch": "2012 Mar 28",
+   "epoch": "2012-03-28",
    "content": "continuum"
   },
   {

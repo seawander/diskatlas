@@ -69,7 +69,7 @@
    },
    "image_id": "af-lep_sphere2023",
    "file": "images/af-lep/af-lep_sphere2023.png",
-   "epoch": "2021 Dec 21",
+   "epoch": "2021-12-21",
    "content": "continuum"
   },
   {
@@ -113,7 +113,7 @@
    },
    "image_id": "af-lep_sphere2023-derosa",
    "file": "images/af-lep/af-lep_sphere2023-derosa.png",
-   "epoch": "2022 Oct 20",
+   "epoch": "2022-10-20",
    "content": "continuum"
   },
   {
@@ -157,7 +157,7 @@
    },
    "image_id": "af-lep_jwst2024",
    "file": "images/af-lep/af-lep_jwst2024.png",
-   "epoch": "2023 Oct",
+   "epoch": "2023-10",
    "content": "continuum"
   },
   {

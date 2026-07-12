@@ -57,7 +57,7 @@
     "bibcode": "2019NatAs...3..278K"
    },
    "file": "images/hd-98800/hd-98800_alma2019.png",
-   "epoch": "2017 Nov 15",
+   "epoch": "2017-11-15",
    "content": "continuum"
   },
   {
@@ -79,7 +79,7 @@
     "bibcode": "2018ApJ...865...77R"
    },
    "file": "images/hd-98800/hd-98800_vla2018.png",
-   "epoch": "2015 Dec",
+   "epoch": "2015-12",
    "content": "continuum"
   },
   {
@@ -101,7 +101,7 @@
     "bibcode": "2018ApJ...865...77R"
    },
    "file": "images/hd-98800/hd-98800_vla2018-cband.png",
-   "epoch": "2015 Dec",
+   "epoch": "2015-12",
    "content": "continuum"
   },
   {

@@ -38,7 +38,7 @@
    },
    "image_id": "vega_jwst2024",
    "file": "images/vega/vega_jwst2024.png",
-   "epoch": "2023 Aug 18",
+   "epoch": "2023-08-18",
    "content": "continuum"
   },
   {
@@ -82,7 +82,7 @@
     "arxiv": "2410.23636",
     "bibcode": "2024ApJ...977..277S"
    },
-   "epoch": "2023 Aug 18",
+   "epoch": "2023-08-18",
    "content": "continuum"
   },
   {
@@ -170,7 +170,7 @@
     "bibcode": "2005ApJ...628..487S"
    },
    "file": "images/vega/vega_mips2005.png",
-   "epoch": "2004 Apr 11",
+   "epoch": "2004-04-11",
    "content": "continuum"
   },
   {

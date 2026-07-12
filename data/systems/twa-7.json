@@ -45,7 +45,7 @@
    },
    "image_id": "twa-7_stis2021",
    "file": "images/twa-7/twa-7_stis2021.png",
-   "epoch": "2019 Feb 3",
+   "epoch": "2019-02-03",
    "content": "continuum"
   },
   {
@@ -198,7 +198,7 @@
     "arxiv": "2105.09949",
     "bibcode": "2021ApJ...914...95R"
    },
-   "epoch": "2017 Mar 20",
+   "epoch": "2017-03-20",
    "content": "continuum"
   },
   {

@@ -100,7 +100,7 @@
    },
    "image_id": "hd-15115_hst2007",
    "file": "images/hd-15115/hd-15115_hst2007.png",
-   "epoch": "2007 Jan",
+   "epoch": "2007-01",
    "content": "continuum"
   },
   {
@@ -232,7 +232,7 @@
     "arxiv": "1905.08258",
     "bibcode": "2019ApJ...877L..32M"
    },
-   "epoch": "2016 Jan 1",
+   "epoch": "2016-01-01",
    "content": "continuum"
   },
   {
@@ -277,7 +277,7 @@
     "arxiv": "1203.2619",
     "bibcode": "2012ApJ...752...57R"
    },
-   "epoch": "2011 Nov 16",
+   "epoch": "2011-11-16",
    "content": "continuum"
   },
   {

@@ -101,7 +101,7 @@
    },
    "image_id": "hd-100546_alma2014",
    "file": "images/hd-100546/hd-100546_alma2014.png",
-   "epoch": "2012 Nov 18",
+   "epoch": "2012-11-18",
    "content": "line"
   },
   {
@@ -256,7 +256,7 @@
     "arxiv": "1906.06305",
     "bibcode": "2020ApJ...889L..24P"
    },
-   "epoch": "2017 Sep",
+   "epoch": "2017-09",
    "content": "continuum"
   },
   {
@@ -365,7 +365,7 @@
    },
    "file": "images/hd-100546/hd-100546_visir2021.png",
    "note": "HD 100546 is 'clearly resolved in all bands' per the paper -- the most robustly resolved disk of the six targets.",
-   "epoch": "2018 Apr",
+   "epoch": "2018-04",
    "content": "continuum"
   },
   {
@@ -387,7 +387,7 @@
     "bibcode": "2025A&A...698A..52M"
    },
    "file": "images/hd-100546/hd-100546_eris2025.png",
-   "epoch": "2023 May 28",
+   "epoch": "2023-05-28",
    "content": "continuum"
   },
   {
@@ -409,7 +409,7 @@
     "bibcode": "2014ApJ...796L..30C"
    },
    "file": "images/hd-100546/hd-100546_nici2014.png",
-   "epoch": "2012 Mar 31",
+   "epoch": "2012-03-31",
    "content": "continuum"
   },
   {
@@ -431,7 +431,7 @@
    },
    "image_id": "hd-100546_gpi-currie2015",
    "file": "images/hd-100546/hd-100546_gpi-currie2015.png",
-   "epoch": "2015 Jan 18",
+   "epoch": "2015-01-18",
    "content": "continuum"
   },
   {

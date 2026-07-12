@@ -56,7 +56,7 @@
    },
    "image_id": "tw-hya_sphere2017",
    "file": "images/tw-hya/tw-hya_sphere2017.png",
-   "epoch": "2015 Feb 3",
+   "epoch": "2015-02-03",
    "content": "continuum"
   },
   {
@@ -320,7 +320,7 @@
     "bibcode": "2025A&A...698A..52M"
    },
    "file": "images/tw-hya/tw-hya_eris2025.png",
-   "epoch": "2023 May 28",
+   "epoch": "2023-05-28",
    "content": "continuum"
   },
   {

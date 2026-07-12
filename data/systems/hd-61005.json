@@ -101,7 +101,7 @@
    },
    "image_id": "hd-61005_sphere2016",
    "file": "images/hd-61005/hd-61005_sphere2016.png",
-   "epoch": "2015 May 1",
+   "epoch": "2015-05-01",
    "content": "continuum"
   },
   {
@@ -232,7 +232,7 @@
     "arxiv": "1812.05610",
     "bibcode": "2018ApJ...869...75M"
    },
-   "epoch": "2013 Dec 4",
+   "epoch": "2013-12-04",
    "content": "continuum"
   },
   {
@@ -321,7 +321,7 @@
     "bibcode": "2009ApJ...707.1098M"
    },
    "file": "images/hd-61005/hd-61005_acs2009.png",
-   "epoch": "2006 Dec 19",
+   "epoch": "2006-12-19",
    "content": "continuum"
   },
   {
@@ -344,7 +344,7 @@
    },
    "file": "images/hd-61005/hd-61005_naco2011.png",
    "note": "CORRECTION vs brief: this paper (arXiv 1011.2496) is VLT/NACO H-band ADI/LOCI imaging, not Gemini/NICI as labeled in the task brief -- verified in the paper text and Fig. 1 caption ('High-contrast NACO H-band images of HD 61005'). VLT-NACO was genuinely absent from hd-61005.json, so added under its correct facility name.",
-   "epoch": "2010 Feb 17",
+   "epoch": "2010-02-17",
    "content": "continuum"
   },
   {

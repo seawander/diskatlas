@@ -55,7 +55,7 @@
    },
    "image_id": "pds-70_alma2021",
    "file": "images/pds-70/pds-70_alma2021.png",
-   "epoch": "2019 Jul 27",
+   "epoch": "2019-07-27",
    "content": "continuum"
   },
   {
@@ -77,7 +77,7 @@
    },
    "image_id": "pds-70_sphere2018",
    "file": "images/pds-70/pds-70_sphere2018.png",
-   "epoch": "2016 Mar 25",
+   "epoch": "2016-03-25",
    "content": "continuum"
   },
   {
@@ -99,7 +99,7 @@
    },
    "image_id": "pds-70_muse2019",
    "file": "images/pds-70/pds-70_muse2019.png",
-   "epoch": "2018 Jun 20",
+   "epoch": "2018-06-20",
    "content": "continuum"
   },
   {
@@ -165,7 +165,7 @@
     "arxiv": "1208.2075",
     "bibcode": "2012ApJ...758L..19H"
    },
-   "epoch": "2012 Feb 28",
+   "epoch": "2012-02-28",
    "content": "continuum"
   },
   {
@@ -187,7 +187,7 @@
     "arxiv": "2004.09597",
     "bibcode": "2020AJ....159..263W"
    },
-   "epoch": "2019 Jun 8",
+   "epoch": "2019-06-08",
    "content": "continuum"
   },
   {
@@ -275,7 +275,7 @@
     "bibcode": "2025A&A...698A..52M"
    },
    "file": "images/pds-70/pds-70_eris2025.png",
-   "epoch": "2023 May 28",
+   "epoch": "2023-05-28",
    "content": "continuum"
   },
   {
@@ -341,7 +341,7 @@
     "bibcode": "2024ApJ...974L..25D",
     "journal": "ApJL 974, L25"
    },
-   "epoch": "2019 Jul 27",
+   "epoch": "2019-07-27",
    "content": "continuum"
   },
   {
@@ -385,7 +385,7 @@
     "journal": "ApJL 863, L8",
     "title": "Magellan Adaptive Optics Imaging of PDS 70: Measuring the Mass Accretion Rate of a Young Giant Planet within a Gapped Disk"
    },
-   "epoch": "2018 May",
+   "epoch": "2018-05",
    "content": "continuum"
   },
   {

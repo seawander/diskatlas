@@ -151,7 +151,7 @@
     "arxiv": "1005.5162",
     "bibcode": "2010ApJ...718L..87T"
    },
-   "epoch": "2009 Dec 26",
+   "epoch": "2009-12-26",
    "content": "continuum"
   },
   {
@@ -218,7 +218,7 @@
     "bibcode": "2025MNRAS.538.2358S"
    },
    "file": "images/lkca-15/lkca-15_alma-band3-2025.png",
-   "epoch": "2023 Jan",
+   "epoch": "2023-01",
    "content": "continuum"
   },
   {
@@ -240,7 +240,7 @@
     "bibcode": "2011ApJ...732...42A"
    },
    "file": "images/lkca-15/lkca-15_sma2011.png",
-   "epoch": "2009 Oct 23",
+   "epoch": "2009-10-23",
    "content": "continuum"
   },
   {
@@ -285,7 +285,7 @@
    },
    "file": "images/lkca-15/lkca-15_magao2022.png",
    "note": "Reproduces the LkCa 15 'b' Halpha excess (classically computed SNR=5.0) at the previously reported Sallum et al. 2015 candidate location; the paper explicitly treats this as a real recovered Halpha signal but flags its planetary nature as ambiguous/debated (could be a compact scattered-light feature). PDS 70 b/c recoveries in this same paper were explicitly called 'marginal' (SNR~3-4) by the authors and were dropped per instructions.",
-   "epoch": "2014 Nov 16",
+   "epoch": "2014-11-16",
    "content": "line"
   },
   {
@@ -350,7 +350,7 @@
     "arxiv": "2503.03336",
     "bibcode": "2025MNRAS.538.2358S"
    },
-   "epoch": "2023 Jan",
+   "epoch": "2023-01",
    "content": "continuum"
   },
   {
@@ -372,7 +372,7 @@
     "arxiv": "2503.03336",
     "bibcode": "2025MNRAS.538.2358S"
    },
-   "epoch": "2023 Jan",
+   "epoch": "2023-01",
    "content": "continuum"
   },
   {

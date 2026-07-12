@@ -43,7 +43,7 @@
     "bibcode": "2012MNRAS.421.2264K"
    },
    "file": "images/99-herculis/99-herculis_herschel2012.png",
-   "epoch": "2010 Apr",
+   "epoch": "2010-04",
    "content": "continuum"
   },
   {
@@ -66,7 +66,7 @@
     "bibcode": "2012MNRAS.421.2264K"
    },
    "file": "images/99-herculis/99-herculis_pacs-70um.png",
-   "epoch": "2010 Apr",
+   "epoch": "2010-04",
    "content": "continuum"
   },
   {
@@ -89,7 +89,7 @@
     "bibcode": "2012MNRAS.421.2264K"
    },
    "file": "images/99-herculis/99-herculis_pacs-100um.png",
-   "epoch": "2010 Apr",
+   "epoch": "2010-04",
    "content": "continuum"
   },
   {

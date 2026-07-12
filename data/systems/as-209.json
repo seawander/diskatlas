@@ -92,7 +92,7 @@
     "arxiv": "1210.5252",
     "bibcode": "2012ApJ...760L..17P"
    },
-   "epoch": "2006 May",
+   "epoch": "2006-05",
    "content": "continuum"
   },
   {
@@ -136,7 +136,7 @@
     "bibcode": "2025A&A...698A..52M"
    },
    "file": "images/as-209/as-209_eris2025.png",
-   "epoch": "2023 May 28",
+   "epoch": "2023-05-28",
    "content": "continuum"
   },
   {
@@ -158,7 +158,7 @@
     "bibcode": "2019ApJ...883...16M"
    },
    "file": "images/as-209/as-209_alma_polarization.png",
-   "epoch": "2018 May 16",
+   "epoch": "2018-05-16",
    "content": "continuum"
   },
   {

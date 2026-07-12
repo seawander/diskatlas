@@ -168,7 +168,7 @@
     "bibcode": "2020AJ....159..118U"
    },
    "file": "images/cq-tau/cq-tau_hiciao2020.png",
-   "epoch": "2015 Dec 31",
+   "epoch": "2015-12-31",
    "content": "continuum"
   },
   {
@@ -190,7 +190,7 @@
     "bibcode": "2011A&A...525A..12B"
    },
    "file": "images/cq-tau/cq-tau_sma-0.87mm2011.png",
-   "epoch": "2008 Jan 24",
+   "epoch": "2008-01-24",
    "content": "continuum"
   },
   {
@@ -212,7 +212,7 @@
     "bibcode": "2011A&A...525A..12B"
    },
    "file": "images/cq-tau/cq-tau_pdbi-1.3mm2011.png",
-   "epoch": "2006 Jan 15",
+   "epoch": "2006-01-15",
    "content": "continuum"
   },
   {
@@ -234,7 +234,7 @@
     "bibcode": "2011A&A...525A..12B"
    },
    "file": "images/cq-tau/cq-tau_pdbi-2.7mm2011.png",
-   "epoch": "2006 Jan 15",
+   "epoch": "2006-01-15",
    "content": "continuum"
   },
   {

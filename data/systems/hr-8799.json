@@ -102,7 +102,7 @@
    },
    "image_id": "hr-8799_alma2016",
    "file": "images/hr-8799/hr-8799_alma2016.png",
-   "epoch": "2015 Jan",
+   "epoch": "2015-01",
    "content": "continuum"
   },
   {
@@ -124,7 +124,7 @@
    },
    "image_id": "hr-8799_keck2008",
    "file": "images/hr-8799/hr-8799_keck2008.png",
-   "epoch": "2004 Jul 14",
+   "epoch": "2004-07-14",
    "content": "continuum"
   },
   {
@@ -190,7 +190,7 @@
     "arxiv": "2512.03128",
     "bibcode": "2025A&A...704A..21E"
    },
-   "epoch": "2016 Oct 13",
+   "epoch": "2016-10-13",
    "content": "continuum"
   },
   {
@@ -212,7 +212,7 @@
    },
    "image_id": "hr-8799_gravity2019",
    "file": "images/hr-8799/hr-8799_gravity2019.png",
-   "epoch": "2018 Aug 28",
+   "epoch": "2018-08-28",
    "content": "continuum"
   },
   {
@@ -256,7 +256,7 @@
     "bibcode": "2024A&A...686A..33B"
    },
    "file": "images/hr-8799/hr-8799_miri2024-f1065c.png",
-   "epoch": "2022 Nov",
+   "epoch": "2022-11",
    "content": "continuum"
   },
   {
@@ -278,7 +278,7 @@
     "bibcode": "2024A&A...686A..33B"
    },
    "file": "images/hr-8799/hr-8799_miri2024-f1140c.png",
-   "epoch": "2022 Nov",
+   "epoch": "2022-11",
    "content": "continuum"
   },
   {
@@ -300,7 +300,7 @@
     "bibcode": "2024A&A...686A..33B"
    },
    "file": "images/hr-8799/hr-8799_miri2024-f1550c.png",
-   "epoch": "2022 Nov",
+   "epoch": "2022-11",
    "content": "continuum"
   },
   {
@@ -322,7 +322,7 @@
     "bibcode": "2024A&A...686A..33B"
    },
    "file": "images/hr-8799/hr-8799_miri2024-f2100w.png",
-   "epoch": "2022 Nov",
+   "epoch": "2022-11",
    "content": "continuum"
   },
   {
@@ -367,7 +367,7 @@
     "arxiv": "1412.6989",
     "bibcode": "2015A&A...576A.133M"
    },
-   "epoch": "2013 Oct",
+   "epoch": "2013-10",
    "content": "continuum"
   },
   {
@@ -389,7 +389,7 @@
     "bibcode": "2022AJ....164..143W"
    },
    "file": "images/hr-8799/hr-8799_charis2022.png",
-   "epoch": "2018 Sep 1",
+   "epoch": "2018-09-01",
    "content": "continuum"
   },
   {
@@ -433,7 +433,7 @@
     "bibcode": "2008Sci...322.1348M"
    },
    "file": "images/hr-8799/hr-8799_niri2008.png",
-   "epoch": "2007 Oct 17",
+   "epoch": "2007-10-17",
    "content": "continuum"
   },
   {
@@ -455,7 +455,7 @@
     "bibcode": "2014ApJ...780...97M"
    },
    "file": "images/hr-8799/hr-8799_herschel2014.png",
-   "epoch": "2011 Jul 10",
+   "epoch": "2011-07-10",
    "content": "continuum"
   },
   {
@@ -477,7 +477,7 @@
     "arxiv": "1311.2977",
     "bibcode": "2014ApJ...780...97M"
    },
-   "epoch": "2011 Jul 10",
+   "epoch": "2011-07-10",
    "content": "continuum"
   },
   {
@@ -499,7 +499,7 @@
     "arxiv": "1311.2977",
     "bibcode": "2014ApJ...780...97M"
    },
-   "epoch": "2011 Jul 10",
+   "epoch": "2011-07-10",
    "content": "continuum"
   },
   {
@@ -587,7 +587,7 @@
     "bibcode": "2011A&A...528A.134B"
    },
    "file": "images/hr-8799/hr-8799_bergfors2011-naco.png",
-   "epoch": "2009 Sep",
+   "epoch": "2009-09",
    "content": "continuum"
   },
   {

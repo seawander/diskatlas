@@ -71,7 +71,7 @@
    },
    "image_id": "mwc-758_alma2018",
    "file": "images/mwc-758/mwc-758_alma2018.png",
-   "epoch": "2017 Nov 12",
+   "epoch": "2017-11-12",
    "content": "continuum"
   },
   {
@@ -159,7 +159,7 @@
     "arxiv": "1212.1466",
     "bibcode": "2013ApJ...762...48G"
    },
-   "epoch": "2012 Mar 11",
+   "epoch": "2012-03-11",
    "content": "continuum"
   },
   {
@@ -226,7 +226,7 @@
     "bibcode": "2019ApJ...882...20W"
    },
    "file": "images/mwc-758/mwc-758_lbti2019-lp.png",
-   "epoch": "2017 Feb",
+   "epoch": "2017-02",
    "content": "continuum"
   },
   {
@@ -248,7 +248,7 @@
     "bibcode": "2019ApJ...882...20W"
    },
    "file": "images/mwc-758/mwc-758_lbti2019-mp.png",
-   "epoch": "2018 Dec",
+   "epoch": "2018-12",
    "content": "continuum"
   },
   {

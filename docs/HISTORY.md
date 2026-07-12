@@ -658,3 +658,17 @@ Tokovinin's only IAUS 240 contribution is p. 306 (tidal dissipation),
 unrelated. Fixed first_author -> "Thomas" on planets B and C in
 data/systems/v1788-ori.json; bibcode kept. validate/build clean;
 export_bibtex.py re-run: 0 verification problems.
+
+2026-07-11 (epoch audit, user-reported TWA 7). User caught TWA 7's second
+STIS record showing the same 2019 dataset as the first but dated "2011-2021"
+— the harvest had folded the 2011 STIS *spectroscopy* visits (prop 11616)
+and the re-reduction survey's span into the epoch. MAST-verified every
+record citing the Ren 2023 "Debris Disk Color" survey (23 targets, queried
+by proposal id: GO-13381/15218/12228/13786 + the beta Pic and HD 141569A
+multi-program combos) plus the Schneider 2014 / Stark 2023 STIS relatives:
+12 corrections, dominated by the publication-year leak ("...-2023" spans on
+2010-2015 data). Rule added to HANDOFF: re-reductions of the same dataset
+carry the same epoch. Second pass: normalized all 319 prose-form epochs
+("2019 Feb 3", "2010 Apr", "2015-01 to 2015-02") to ISO policy forms
+(YYYY-MM-DD / new YYYY-MM tier / YYYY), spot-checked, validate 0/0;
+epoch coverage 94.5%.
