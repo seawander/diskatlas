@@ -725,7 +725,20 @@ if (typeof window !== "undefined") (function () {
   for (const [key, i18nKey, cls] of FDEF) {
     const el = document.createElement("span");
     el.className = "chip " + cls + (filters[key] ? " on" : "");
-    el.dataset.i18n = i18nKey; el.textContent = t(i18nKey);
+    if (key === "planetonly" || key === "planethost") {
+      /* The two companion chips are easy to confuse (a TYPE vs a cross-cutting
+         FILTER), so anchor each to its map symbol — ◆ marker shape vs ★
+         overlay, same glyphs the legend uses — and explain the difference on
+         hover. Glyph + tooltip sit OUTSIDE the translated label (inner
+         data-i18n span), so applyStaticI18n() can't wipe them on a language
+         switch. */
+      el.innerHTML = (key === "planetonly" ? '<i class="mk planetonly"></i>'
+                                           : '<span class="mk-star">★</span>') +
+        '<span data-i18n="' + i18nKey + '"></span>';
+      el.querySelector("[data-i18n]").textContent = t(i18nKey);
+      el.dataset.i18nTitle = key === "planetonly" ? "tip_planetonly" : "tip_planethost";
+      el.title = t(el.dataset.i18nTitle);
+    } else { el.dataset.i18n = i18nKey; el.textContent = t(i18nKey); }
     el.onclick = () => { filters[key] = !filters[key]; el.classList.toggle("on"); refilter(); };
     fbar.appendChild(el);
   }
@@ -1390,9 +1403,14 @@ if (typeof window !== "undefined") (function () {
   }
   function wireCatChips(container) {
     container.querySelectorAll(".catchip").forEach(ch => ch.onclick = () => {
-      /* drive the global header chip so all views + header stay in sync */
+      /* drive the global header chip so all views + header stay in sync
+         (the label key may sit on an inner span when the chip carries a
+         map-symbol glyph — see the FDEF builder) */
       const hdr = [...document.querySelectorAll("#filters .chip")]
-        .find(e => e.dataset.i18n === "cat_" + ch.dataset.cat);
+        .find(e => {
+          const inner = e.querySelector("[data-i18n]");
+          return (e.dataset.i18n || (inner && inner.dataset.i18n)) === "cat_" + ch.dataset.cat;
+        });
       if (hdr) hdr.click();
       else { filters[ch.dataset.cat] = !filters[ch.dataset.cat]; refilter(); }
     });
