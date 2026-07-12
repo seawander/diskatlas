@@ -1,0 +1,46 @@
+{
+ "id": "ngc1333-iras4a",
+ "name": "NGC 1333 IRAS 4A",
+ "alt_names": [
+  "IRAS 4A"
+ ],
+ "simbad": "[JCC87] IRAS 4A",
+ "ra_deg": 52.293708,
+ "dec_deg": 31.225222,
+ "dist_pc": null,
+ "sptype": null,
+ "region": "Perseus",
+ "categories": [
+  "protoplanetary"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "image_id": "ngc1333-iras4a_sma0-9mm",
+   "type": "disk_mm",
+   "facility": "SMA",
+   "instrument": "SMA",
+   "wavelength_um": 895,
+   "wavelength_label": "0.9 mm continuum (1.8 arcsec binary resolved)",
+   "technique": "interferometry",
+   "survey": null,
+   "content": "continuum",
+   "file": "images/ngc1333-iras4a/ngc1333-iras4a_sma0-9mm.png",
+   "credit": "Persson et al. 2016, Fig. 1 (crop)",
+   "note": "APPLY-NOTE: SMA data Lai in prep - verify epoch via SMA archive",
+   "paper": {
+    "first_author": "Persson",
+    "year": 2016,
+    "title": "Inner 100 AU embedded protostars",
+    "journal": "A&A 590, A33",
+    "arxiv": "1603.01061",
+    "bibcode": "2016A&A...590A..33P"
+   },
+   "epoch": "2014"
+  }
+ ],
+ "notes": "Class 0 protostellar binary (1.8\" pair) resolved in SMA 0.9 mm continuum (Persson et al. 2016).",
+ "last_updated": "2026-07-12",
+ "plx_mas": null,
+ "mags": {}
+}

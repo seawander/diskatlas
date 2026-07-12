@@ -1,0 +1,50 @@
+{
+ "id": "ulas-j1120-0641",
+ "name": "ULAS J1120+0641",
+ "alt_names": [
+  "J1120+0641"
+ ],
+ "simbad": "QSO J1120+0641",
+ "ra_deg": 170.006096,
+ "dec_deg": 6.689942,
+ "dist_pc": null,
+ "sptype": null,
+ "region": "high-z quasar",
+ "categories": [
+  "quasar"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "image_id": "ulas-j1120-0641_eiger-j1120-f356w-psfsub",
+   "type": "quasar",
+   "facility": "JWST",
+   "instrument": "NIRCam",
+   "wavelength_um": 3.56,
+   "wavelength_label": "F356W (PSF-subtracted host)",
+   "technique": "PSF subtraction",
+   "survey": null,
+   "content": "continuum",
+   "file": "images/ulas-j1120-0641/ulas-j1120-0641_eiger-j1120-f356w-psfsub.png",
+   "credit": "Yue et al. 2024, Fig. 5 (crop)",
+   "note": "z=7.085 host detected F356W+F200W, 0.5 arcsec offset, possible merger [obs executions 2022-12-16/2023-01-17]",
+   "paper": {
+    "first_author": "Yue",
+    "year": 2024,
+    "title": "EIGER V",
+    "journal": "ApJ 966, 176",
+    "arxiv": "2309.04614",
+    "bibcode": "2024ApJ...966..176Y"
+   },
+   "epoch": "2022-2023"
+  }
+ ],
+ "notes": "z=7.085 quasar (one of the most distant known); JWST/NIRCam PSF subtraction detects the host galaxy, offset ~0.5\" from the nucleus, suggesting a possible ongoing merger (Yue et al. 2024, EIGER V).",
+ "last_updated": "2026-07-12",
+ "plx_mas": null,
+ "mags": {
+  "J": 20.36,
+  "H": 20.156,
+  "K": 19.613
+ }
+}

@@ -1,0 +1,46 @@
+{
+ "id": "ngc1333-iras2a",
+ "name": "NGC 1333 IRAS 2A",
+ "alt_names": [
+  "IRAS 2A"
+ ],
+ "simbad": "[JCC87] IRAS 2A",
+ "ra_deg": 52.231458,
+ "dec_deg": 31.243528,
+ "dist_pc": null,
+ "sptype": null,
+ "region": "Perseus",
+ "categories": [
+  "protoplanetary"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "image_id": "ngc1333-iras2a_pdbi1-5mm",
+   "type": "disk_mm",
+   "facility": "IRAM-PdBI",
+   "instrument": "PdBI",
+   "wavelength_um": 1474,
+   "wavelength_label": "1.47 mm continuum (compact disk-like structure)",
+   "technique": "interferometry",
+   "survey": null,
+   "content": "continuum",
+   "file": "images/ngc1333-iras2a/ngc1333-iras2a_pdbi1-5mm.png",
+   "credit": "Persson et al. 2016, Fig. 1 (crop)",
+   "note": "APPLY-NOTE: archival JvD2010/Persson2012 data - verify epoch from those papers",
+   "paper": {
+    "first_author": "Persson",
+    "year": 2016,
+    "title": "Constraining the physical structure of the inner few 100 AU scales of deeply embedded low-mass protostars",
+    "journal": "A&A 590, A33",
+    "arxiv": "1603.01061",
+    "bibcode": "2016A&A...590A..33P"
+   },
+   "epoch": "2010"
+  }
+ ],
+ "notes": "Class 0 protostar in NGC 1333; PdBI 1.47 mm continuum resolves a compact disk-like structure (Persson et al. 2016, data from Jorgensen & van Dishoeck 2010).",
+ "last_updated": "2026-07-12",
+ "plx_mas": null,
+ "mags": {}
+}

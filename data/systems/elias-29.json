@@ -1,0 +1,52 @@
+{
+ "id": "elias-29",
+ "name": "Elias 29",
+ "alt_names": [
+  "EL29",
+  "WLY 2-43",
+  "Elias 2-29"
+ ],
+ "simbad": "Elia 2-29",
+ "ra_deg": 246.789293,
+ "dec_deg": -24.621881,
+ "dist_pc": null,
+ "sptype": null,
+ "region": "Ophiuchus",
+ "categories": [
+  "protoplanetary"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "image_id": "elias-29_k-polflux",
+   "type": "disk_scattered",
+   "facility": "UKIRT",
+   "instrument": "IRCAM3+IRPOL2 (shift-and-add)",
+   "wavelength_um": 2.2,
+   "wavelength_label": "K polarized flux (extended SW nebulosity + pol disc)",
+   "technique": "imaging polarimetry",
+   "survey": null,
+   "content": "continuum",
+   "file": "images/elias-29/elias-29_k-polflux.png",
+   "credit": "Beckford et al. 2008, Fig. 8(c) (crop)",
+   "note": "first high-res linear polarimetry of EL29",
+   "paper": {
+    "first_author": "Beckford",
+    "year": 2008,
+    "title": "rho Oph NIR polarimetry",
+    "journal": "MNRAS 384, 907",
+    "arxiv": "0802.1863",
+    "bibcode": "2008MNRAS.384..907B"
+   },
+   "epoch": "1999-04-28"
+  }
+ ],
+ "notes": "Luminous Class I protostar in rho Oph; first high-resolution linear polarimetry shows extended SW nebulosity and a polarization disc (Beckford et al. 2008).",
+ "last_updated": "2026-07-12",
+ "plx_mas": null,
+ "mags": {
+  "J": 16.788,
+  "H": 11.049,
+  "K": 7.14
+ }
+}

@@ -134,6 +134,29 @@
    },
    "epoch": "2022",
    "content": "line"
+  },
+  {
+   "image_id": "2mass-j16202863-2442087_usco7-2mass-j16202863-2442087-b7",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 7",
+   "wavelength_um": 1050,
+   "wavelength_label": "1.05 mm continuum (AGE-PRO)",
+   "technique": "interferometry",
+   "survey": "AGE-PRO",
+   "content": "continuum",
+   "file": "images/2mass-j16202863-2442087/2mass-j16202863-2442087_usco7-2mass-j16202863-2442087-b7.png",
+   "credit": "Agurto-Gangas et al. 2025, Fig. 8 (crop)",
+   "note": "",
+   "paper": {
+    "first_author": "Agurto-Gangas",
+    "year": 2025,
+    "title": "The ALMA Survey of Gas Evolution of PROtoplanetary Disks (AGE-PRO). IV. Dust and Gas Disk Properties in the Upper Scorpius Star-forming Region",
+    "journal": "ApJ 989, 4",
+    "arxiv": "2506.10735",
+    "bibcode": "2025ApJ...989....4A"
+   },
+   "epoch": "2022-04"
   }
  ],
  "notes": "AGE-PRO Upper Scorpius 7. Newly identified transition disk with dust ring at 30 au; variable (quiescent data used); strong CO residuals may indicate a companion (Miley et al. 2025; Vioque et al. 2025).",

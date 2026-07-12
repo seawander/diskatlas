@@ -1,0 +1,51 @@
+{
+ "id": "oph-irs-54",
+ "name": "Oph IRS 54",
+ "alt_names": [
+  "WLY 2-54",
+  "YLW 52"
+ ],
+ "simbad": "YLW 52",
+ "ra_deg": 246.965853,
+ "dec_deg": -24.529314,
+ "dist_pc": null,
+ "sptype": null,
+ "region": "Ophiuchus",
+ "categories": [
+  "protoplanetary"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "image_id": "oph-irs-54_oph-irs54-h-polflux",
+   "type": "disk_scattered",
+   "facility": "UKIRT",
+   "instrument": "IRCAM3+IRPOL2",
+   "wavelength_um": 1.6,
+   "wavelength_label": "H polarized flux (cometary nebula)",
+   "technique": "imaging polarimetry",
+   "survey": null,
+   "content": "continuum",
+   "file": "images/oph-irs-54/oph-irs-54_oph-irs54-h-polflux.png",
+   "credit": "Beckford et al. 2008, Fig. 5(c) (crop)",
+   "note": "tail >=1500 au E of core",
+   "paper": {
+    "first_author": "Beckford",
+    "year": 2008,
+    "title": "rho Oph NIR polarimetry",
+    "journal": "MNRAS 384, 907",
+    "arxiv": "0802.1863",
+    "bibcode": "2008MNRAS.384..907B"
+   },
+   "epoch": "1998-06-17"
+  }
+ ],
+ "notes": "Embedded YSO with a cometary reflection nebula extending >=1500 au east of the core in UKIRT H-band imaging polarimetry (Beckford et al. 2008).",
+ "last_updated": "2026-07-12",
+ "plx_mas": null,
+ "mags": {
+  "J": 14.678,
+  "H": 11.189,
+  "K": 8.713
+ }
+}

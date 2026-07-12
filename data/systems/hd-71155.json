@@ -1,0 +1,47 @@
+{
+ "id": "hd-71155",
+ "name": "HD 71155",
+ "alt_names": [
+  "30 Mon",
+  "HR 3314"
+ ],
+ "simbad": "* 30 Mon",
+ "ra_deg": 126.41513,
+ "dec_deg": -3.90643,
+ "dist_pc": null,
+ "sptype": null,
+ "region": "field debris",
+ "categories": [
+  "debris"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "image_id": "hd-71155_10p4um",
+   "type": "disk_mm",
+   "facility": "Gemini-South",
+   "instrument": "T-ReCS",
+   "wavelength_um": 10.4,
+   "wavelength_label": "N 10.4 um (marginally resolved debris)",
+   "technique": "mid-IR imaging",
+   "survey": null,
+   "content": "continuum",
+   "file": "images/hd-71155/hd-71155_10p4um.png",
+   "credit": "Moerchen et al. 2010, Fig. 2 (crop)",
+   "note": "dFWHM=0.10 arcsec (r=1.96 au); category debris",
+   "paper": {
+    "first_author": "Moerchen",
+    "year": 2010,
+    "title": "Thermal debris imaging",
+    "journal": "ApJ 723, 1418",
+    "arxiv": "1011.1410",
+    "bibcode": "2010ApJ...723.1418M"
+   },
+   "epoch": "2006-03-04"
+  }
+ ],
+ "notes": "A0Va star (30 Mon); Gemini/T-ReCS 10.4 um imaging marginally resolves warm debris emission (r~2 au) (Moerchen et al. 2010).",
+ "last_updated": "2026-07-12",
+ "plx_mas": null,
+ "mags": {}
+}

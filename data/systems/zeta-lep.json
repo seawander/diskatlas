@@ -1,0 +1,53 @@
+{
+ "id": "zeta-lep",
+ "name": "zeta Lep",
+ "alt_names": [
+  "HD 38678",
+  "HR 1998"
+ ],
+ "simbad": "* zet Lep",
+ "ra_deg": 86.73892,
+ "dec_deg": -14.82195,
+ "dist_pc": 22.3,
+ "sptype": "A2IV-V(n)",
+ "region": "field debris",
+ "categories": [
+  "debris"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "image_id": "zeta-lep_hd38678-18p3um",
+   "type": "disk_mm",
+   "facility": "Gemini-South",
+   "instrument": "T-ReCS",
+   "wavelength_um": 18.3,
+   "wavelength_label": "Qa 18.3 um (resolved thermal debris emission)",
+   "technique": "mid-IR imaging",
+   "survey": null,
+   "content": "continuum",
+   "file": "images/zeta-lep/zeta-lep_hd38678-18p3um.png",
+   "credit": "Moerchen et al. 2010, Fig. 2 (crop)",
+   "note": "dFWHM=0.28 arcsec (r=3.0 au); category debris",
+   "paper": {
+    "first_author": "Moerchen",
+    "year": 2010,
+    "title": "High Spatial Resolution Imaging of Thermal Emission from Debris Disks",
+    "journal": "ApJ 723, 1418",
+    "arxiv": "1011.1410",
+    "bibcode": "2010ApJ...723.1418M"
+   },
+   "epoch": "2005-02-03"
+  }
+ ],
+ "notes": "A2IV-V star with warm debris; Gemini/T-ReCS 18.3 um imaging marginally resolves the thermal emission (r~3 au) (Moerchen et al. 2010).",
+ "last_updated": "2026-07-12",
+ "plx_mas": 44.794,
+ "mags": {
+  "V": 3.525,
+  "G": 3.541043,
+  "J": 3.39,
+  "H": 3.314,
+  "K": 3.286
+ }
+}

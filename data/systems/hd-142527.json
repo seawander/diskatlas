@@ -523,6 +523,98 @@
    },
    "epoch": null,
    "content": "continuum"
+  },
+  {
+   "image_id": "hd-142527_pol087",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 7",
+   "wavelength_um": 870,
+   "wavelength_label": "0.87 mm Stokes I + polarized intensity + pol fraction (vectors)",
+   "technique": "interferometry (full-Stokes polarimetry)",
+   "survey": null,
+   "content": "continuum",
+   "file": "images/hd-142527/hd-142527_pol087.png",
+   "credit": "Ohashi et al. 2025, Fig. 1 (col 1) (crop)",
+   "note": "2015.1.00425.S; obs 2016 Mar 11 + 2017 May 21",
+   "paper": {
+    "first_author": "Ohashi",
+    "year": 2025,
+    "title": "Observationally derived magnetic field strength and 3D components in the HD 142527 disk",
+    "journal": "Nat. Astron. 9, 526",
+    "arxiv": "2502.06030",
+    "bibcode": "2025NatAs...9..526O"
+   },
+   "epoch": "2016-2017"
+  },
+  {
+   "image_id": "hd-142527_pol13",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 6",
+   "wavelength_um": 1300,
+   "wavelength_label": "1.3 mm Stokes I + polarized intensity + pol fraction (vectors)",
+   "technique": "interferometry (full-Stokes polarimetry)",
+   "survey": null,
+   "content": "continuum",
+   "file": "images/hd-142527/hd-142527_pol13.png",
+   "credit": "Ohashi et al. 2025, Fig. 1 (col 2) (crop)",
+   "note": "2018.1.01172.S",
+   "paper": {
+    "first_author": "Ohashi",
+    "year": 2025,
+    "title": "HD 142527 magnetic field",
+    "journal": "Nat. Astron. 9, 526",
+    "arxiv": "2502.06030",
+    "bibcode": "2025NatAs...9..526O"
+   },
+   "epoch": "2019-04-29"
+  },
+  {
+   "image_id": "hd-142527_pol21",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 4",
+   "wavelength_um": 2100,
+   "wavelength_label": "2.1 mm Stokes I + polarized intensity + pol fraction (vectors)",
+   "technique": "interferometry (full-Stokes polarimetry)",
+   "survey": null,
+   "content": "continuum",
+   "file": "images/hd-142527/hd-142527_pol21.png",
+   "credit": "Ohashi et al. 2025, Fig. 1 (col 3) (crop)",
+   "note": "2017.1.00987.S",
+   "paper": {
+    "first_author": "Ohashi",
+    "year": 2025,
+    "title": "HD 142527 magnetic field",
+    "journal": "Nat. Astron. 9, 526",
+    "arxiv": "2502.06030",
+    "bibcode": "2025NatAs...9..526O"
+   },
+   "epoch": "2018-01-07"
+  },
+  {
+   "image_id": "hd-142527_pol27",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 3",
+   "wavelength_um": 2700,
+   "wavelength_label": "2.7 mm Stokes I + polarized intensity + pol fraction (vectors)",
+   "technique": "interferometry (full-Stokes polarimetry)",
+   "survey": null,
+   "content": "continuum",
+   "file": "images/hd-142527/hd-142527_pol27.png",
+   "credit": "Ohashi et al. 2025, Fig. 1 (col 4) (crop)",
+   "note": "2022.1.00406.S; obs 2023 Mar 26-31",
+   "paper": {
+    "first_author": "Ohashi",
+    "year": 2025,
+    "title": "HD 142527 magnetic field",
+    "journal": "Nat. Astron. 9, 526",
+    "arxiv": "2502.06030",
+    "bibcode": "2025NatAs...9..526O"
+   },
+   "epoch": "2023-03"
   }
  ],
  "notes": "Extreme azimuthal dust asymmetry in the outer disk (Casassus+2013); an M-dwarf companion orbits inside the cavity (Biller+2012).",

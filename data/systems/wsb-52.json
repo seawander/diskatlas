@@ -79,6 +79,29 @@
    },
    "epoch": "2009",
    "content": "continuum"
+  },
+  {
+   "image_id": "wsb-52_12co-bubble",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 6",
+   "wavelength_um": 1300,
+   "wavelength_label": "12CO 2-1 channel (6.00 km/s): expanding bubble + shock boundary hitting disk",
+   "technique": "interferometry",
+   "survey": null,
+   "content": "line",
+   "file": "images/wsb-52/wsb-52_12co-bubble.png",
+   "credit": "Aizawa et al. 2025, Fig. 2 (top left) (crop)",
+   "note": "DSHARP data re-imaged with extended velocity coverage",
+   "paper": {
+    "first_author": "Aizawa",
+    "year": 2025,
+    "title": "Discovery of Jet-Bubble-Disk Interaction: Jet Feedback on a Protoplanetary Disk Via an Expanding Bubble in WSB 52",
+    "journal": "ApJ 989, 41",
+    "arxiv": "2501.10121",
+    "bibcode": "2025ApJ...989...41A"
+   },
+   "epoch": "2017-05-14"
   }
  ],
  "notes": null,

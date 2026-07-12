@@ -553,6 +553,38 @@ renames systems). Surfaced backlog: 123 systems still carry AUTO-CREATED
 placeholder notes. Frontend search confirmed to index alt_names (renames stay
 findable). 515 systems, 2171 image records, 0 errors / 0 warnings.
 
+2026-07-12 (9k-frontier ladder triage + freeze lift, apply batch 1). User challenged
+the papers_explored 964/9,943 ratio; ran the full title->abstract->conclusion
+iff-ladder over ALL 8,986 unexplored frontier papers (6 title/abstract agents +
+13 conclusion agents, ADS-OA-first fetching after arXiv rate limits, ar5iv third
+route). Funnel: 7,117 FAIL_TITLE (79%), 593 FAIL_ABSTRACT, 84 fail-conclusion/
+no-abstract, 165 deferred non-OA classics, 1,027 PASS (confirmed imaging papers;
+488 all-held targets, 539 with new targets; ~95 SIMBAD-confirmed genuinely-new
+names in the coarse pass). All dispositions folded into paper_finder_state
+(485->9,471) -> papers_explored 9,945/9,945 = COMPLETE triage of the harvested
+universe. Stage-4 figure harvest running in waves (4+2 agents so far; manifests
+parked in scratchpad triage9k/parked/). WRITER CONFIRMED the release regeneration
+-> freeze lifted; applied batch 1: fx manifest (14: AGE-PRO USco Band 7 1.05mm
+x10, GM Aur SMA CO 3-2/2-1 Hughes 2009, HD 163296 VLA 7mm + PdBI 12CO Isella
+2007) + s4b (51) + s4d (64). +21 NEW systems: quasar hosts J0148+0600 (z=5.977),
+ULAS J1120+0641 (z=7.085, most distant atlas object), J159-02 (z=6.381) from
+EIGER V (Yue 2024) + 4 Zakamska 2019 HST ERQ/type-2 hosts; embedded protostars
+NGC 1333 IRAS 2A/4A/4B, VLA 1623, TMC-1 (Persson 2016, van 't Hoff 2020);
+rho-Oph YSOs GY 263 (eDisk cavity disk), Oph IRS 54, Elias 29, GSS 30 IRS 1
+(Beckford 2008 UKIRT polarimetry); naked-eye mid-IR debris zeta Lep, HD 71155,
+beta UMa, alpha CrB, alpha Sgr (Moerchen 2010). Cross-paper depth: HR 8799 +13
+epochs/bands (SPHERE commissioning 2014 set, Currie 2011/2014 multi-telescope
+L'/Ks/J, Skemer 2012 LBT first-light H + 3.3um; first 3.3 + 4.05 um records),
+IM Lup 4-epoch spiral-winding series (Yoshida 2025 NatAs), HD 142527 4-band ALMA
+full-Stokes polarimetry (Ohashi 2025 NatAs), HD 163296 CHARA/MIRC-X 4-epoch
+inner-disk reconstructions (Setterholm 2025), PDS 70 12 molecular maps
+(Rampinelli 2024) + 7-epoch SPHERE Qphi series (Ma 2024) + JWST/NIRISS AMI b&c
+(Blakely 2025), Flying Saucer EODS tomography suite (Dutrey/Guilloteau 2025),
+eDisk IRAS 04166+2706 7-panel set. Fixes: oph-irs-44 coords 4.8"->SIMBAD; 7
+slash-epochs normalized; gy-263/oph-irs43 allowlisted (true 6.9" pair). 20/21
+new systems SIMBAD-enriched. 542 systems, 2421 records, 0 errors / 0 warnings;
+papers_in_atlas 683. Batch 2 (s4a 118 + s4c 60 crops) lands before the new pin.
+
 2026-07-11 (exploration round: 4 parallel agents, STILL-OPEN queue cleared).
 Forward axis first: fresh_papers --days 4 -> 53 submissions, 0 hits (quiet).
 Retrospective round on the queued veins, +121 records +6 systems (2171->2292,

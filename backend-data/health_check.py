@@ -33,6 +33,8 @@ ALLOW_PAIRS = {
     frozenset(("hk-tau", "hk-tau-b")),      # 2.3" binary, separate disks
     frozenset(("mho-1", "mho2")),           # ~4" Taurus pair
     frozenset(("sz-65", "sz-66")),          # 6.4" Lupus pair
+    frozenset(("gy-263", "oph-irs43")),     # 6.9" pair: GY 263 transition disk
+                                            # NW of the IRS 43 binary (eDisk X)
 }
 COARSE = ("1RXS", "HSCS", "RX J", "RXJ")    # ~arcmin-precision catalog names
 

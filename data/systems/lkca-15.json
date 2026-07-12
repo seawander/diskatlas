@@ -487,6 +487,52 @@
    },
    "epoch": "2001-2005",
    "content": "continuum"
+  },
+  {
+   "image_id": "lkca-15_cont087mm",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 7",
+   "wavelength_um": 870,
+   "wavelength_label": "0.87 mm continuum (three-ring morphology; robust=0.7)",
+   "technique": "interferometry",
+   "survey": null,
+   "content": "continuum",
+   "file": "images/lkca-15/lkca-15_cont087mm.png",
+   "credit": "Gardner et al. 2025, Fig. 1 (left) (crop)",
+   "note": "Cycle 6 (2019 Jul) + exoALMA (2021-2022) combined; beam 0.049x0.028 arcsec",
+   "paper": {
+    "first_author": "Gardner",
+    "year": 2025,
+    "title": "exoALMA. XI. ALMA Observations and Hydrodynamic Models of LkCa 15",
+    "journal": "ApJL 984, L16",
+    "arxiv": "2504.19868",
+    "bibcode": "2025ApJ...984L..16G"
+   },
+   "epoch": "2019-2022"
+  },
+  {
+   "image_id": "lkca-15_co32",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 7",
+   "wavelength_um": 867,
+   "wavelength_label": "12CO 3-2 peak intensity (brightness temperature; cavity gas)",
+   "technique": "interferometry",
+   "survey": null,
+   "content": "line",
+   "file": "images/lkca-15/lkca-15_co32.png",
+   "credit": "Gardner et al. 2025, Fig. 6 (left) (crop)",
+   "note": "observed panel only; 5-sigma continuum contour marks dust cavity",
+   "paper": {
+    "first_author": "Gardner",
+    "year": 2025,
+    "title": "exoALMA XI LkCa 15",
+    "journal": "ApJL 984, L16",
+    "arxiv": "2504.19868",
+    "bibcode": "2025ApJ...984L..16G"
+   },
+   "epoch": "2019-2022"
   }
  ],
  "notes": null,

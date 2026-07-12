@@ -1,0 +1,51 @@
+{
+ "id": "gss30-irs1",
+ "name": "GSS 30 IRS 1",
+ "alt_names": [
+  "Elia 2-21",
+  "GSS30"
+ ],
+ "simbad": "GSS 30",
+ "ra_deg": 246.58909,
+ "dec_deg": -24.384459,
+ "dist_pc": null,
+ "sptype": null,
+ "region": "Ophiuchus",
+ "categories": [
+  "protoplanetary"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "image_id": "gss30-irs1_k-polflux",
+   "type": "disk_scattered",
+   "facility": "UKIRT",
+   "instrument": "IRCAM3+IRPOL2",
+   "wavelength_um": 2.2,
+   "wavelength_label": "K polarized flux (NE-SW bipolar nebula)",
+   "technique": "imaging polarimetry",
+   "survey": null,
+   "content": "continuum",
+   "file": "images/gss30-irs1/gss30-irs1_k-polflux.png",
+   "credit": "Beckford et al. 2008, Fig. 3(c) (crop)",
+   "note": "NOT atlas gss30-irs3 (13 arcsec away) - new system for IRS1",
+   "paper": {
+    "first_author": "Beckford",
+    "year": 2008,
+    "title": "rho Oph NIR polarimetry",
+    "journal": "MNRAS 384, 907",
+    "arxiv": "0802.1863",
+    "bibcode": "2008MNRAS.384..907B"
+   },
+   "epoch": "1998-2002"
+  }
+ ],
+ "notes": "Class I YSO with a bright NE-SW bipolar reflection nebula in UKIRT K-band imaging polarimetry (Beckford et al. 2008). Distinct from the atlas system GSS 30 IRS 3 (13\" away).",
+ "last_updated": "2026-07-12",
+ "plx_mas": null,
+ "mags": {
+  "J": 14.706,
+  "H": 10.59,
+  "K": 8.835
+ }
+}

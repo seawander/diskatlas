@@ -330,6 +330,98 @@
    },
    "epoch": "2018-2019",
    "content": "line"
+  },
+  {
+   "image_id": "im-lup_2017",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 6",
+   "wavelength_um": 1254,
+   "wavelength_label": "238.984 GHz continuum, 2017 epoch (DSHARP re-imaged; spirals)",
+   "technique": "interferometry",
+   "survey": null,
+   "content": "continuum",
+   "file": "images/im-lup/im-lup_2017.png",
+   "credit": "Yoshida et al. 2025, Fig. 1 (crop)",
+   "note": "all epochs convolved to common 150x101 mas beam; GI spiral winding analysis",
+   "paper": {
+    "first_author": "Yoshida",
+    "year": 2025,
+    "title": "Winding motion of spirals in a gravitationally unstable protoplanetary disk",
+    "journal": "Nat. Astron. 9, 1672",
+    "arxiv": "2509.19761",
+    "bibcode": "2025NatAs...9.1672Y"
+   },
+   "epoch": "2017-10-10"
+  },
+  {
+   "image_id": "im-lup_2019a",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 6",
+   "wavelength_um": 1326,
+   "wavelength_label": "226.053 GHz continuum, 2019a epoch (MAPS re-imaged)",
+   "technique": "interferometry",
+   "survey": null,
+   "content": "continuum",
+   "file": "images/im-lup/im-lup_2019a.png",
+   "credit": "Yoshida et al. 2025, Fig. 1 (crop)",
+   "note": "MAPS 2018.1.01055.L 226 GHz setting",
+   "paper": {
+    "first_author": "Yoshida",
+    "year": 2025,
+    "title": "Winding motion of spirals",
+    "journal": "Nat. Astron. 9, 1672",
+    "arxiv": "2509.19761",
+    "bibcode": "2025NatAs...9.1672Y"
+   },
+   "epoch": "2019-08-13"
+  },
+  {
+   "image_id": "im-lup_2019b",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 6",
+   "wavelength_um": 1166,
+   "wavelength_label": "257.029 GHz continuum, 2019b epoch (MAPS re-imaged)",
+   "technique": "interferometry",
+   "survey": null,
+   "content": "continuum",
+   "file": "images/im-lup/im-lup_2019b.png",
+   "credit": "Yoshida et al. 2025, Fig. 1 (crop)",
+   "note": "MAPS 257 GHz setting",
+   "paper": {
+    "first_author": "Yoshida",
+    "year": 2025,
+    "title": "Winding motion of spirals",
+    "journal": "Nat. Astron. 9, 1672",
+    "arxiv": "2509.19761",
+    "bibcode": "2025NatAs...9.1672Y"
+   },
+   "epoch": "2019-08-20"
+  },
+  {
+   "image_id": "im-lup_2024",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 7",
+   "wavelength_um": 908,
+   "wavelength_label": "330.172 GHz continuum, 2024 epoch (new; spiral winding)",
+   "technique": "interferometry",
+   "survey": null,
+   "content": "continuum",
+   "file": "images/im-lup/im-lup_2024.png",
+   "credit": "Yoshida et al. 2025, Fig. 1 (crop)",
+   "note": "2023.1.00525.S, previously unpublished",
+   "paper": {
+    "first_author": "Yoshida",
+    "year": 2025,
+    "title": "Winding motion of spirals",
+    "journal": "Nat. Astron. 9, 1672",
+    "arxiv": "2509.19761",
+    "bibcode": "2025NatAs...9.1672Y"
+   },
+   "epoch": "2024-03-22"
   }
  ],
  "notes": null,

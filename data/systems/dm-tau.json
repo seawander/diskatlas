@@ -248,6 +248,75 @@
    },
    "epoch": "2007-11-05",
    "content": "continuum"
+  },
+  {
+   "image_id": "dm-tau_hcop43",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 7",
+   "wavelength_um": 840,
+   "wavelength_label": "HCO+ 4-3 moment 0",
+   "technique": "interferometry",
+   "survey": null,
+   "content": "line",
+   "file": "images/dm-tau/dm-tau_hcop43.png",
+   "credit": "Long et al. 2024, Fig. 2 (crop)",
+   "note": "2019.1.00379.S; obs 2019 Oct 17-18",
+   "paper": {
+    "first_author": "Long",
+    "year": 2024,
+    "title": "Exploring the Complex Ionization Environment of the Turbulent DM Tau Disk",
+    "journal": "ApJ 972, 88",
+    "arxiv": "2406.18657",
+    "bibcode": "2024ApJ...972...88L"
+   },
+   "epoch": "2019-10-17"
+  },
+  {
+   "image_id": "dm-tau_h13cop32",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 6",
+   "wavelength_um": 1152,
+   "wavelength_label": "H13CO+ 3-2 moment 0",
+   "technique": "interferometry",
+   "survey": null,
+   "content": "line",
+   "file": "images/dm-tau/dm-tau_h13cop32.png",
+   "credit": "Long et al. 2024, Fig. 2 (crop)",
+   "note": "2019.1.00379.S",
+   "paper": {
+    "first_author": "Long",
+    "year": 2024,
+    "title": "DM Tau ionization",
+    "journal": "ApJ 972, 88",
+    "arxiv": "2406.18657",
+    "bibcode": "2024ApJ...972...88L"
+   },
+   "epoch": "2021-07-07"
+  },
+  {
+   "image_id": "dm-tau_n2hp32",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 7",
+   "wavelength_um": 1073,
+   "wavelength_label": "N2H+ 3-2 moment 0 (ring; midplane ionization tracer)",
+   "technique": "interferometry",
+   "survey": null,
+   "content": "line",
+   "file": "images/dm-tau/dm-tau_n2hp32.png",
+   "credit": "Long et al. 2024, Fig. 2 (crop)",
+   "note": "archival 2015.1.00678.S (Qi et al. 2019); 279.512 GHz",
+   "paper": {
+    "first_author": "Long",
+    "year": 2024,
+    "title": "DM Tau ionization",
+    "journal": "ApJ 972, 88",
+    "arxiv": "2406.18657",
+    "bibcode": "2024ApJ...972...88L"
+   },
+   "epoch": "2016"
   }
  ],
  "notes": null,

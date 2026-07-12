@@ -112,6 +112,29 @@
    },
    "epoch": "2022",
    "content": "line"
+  },
+  {
+   "image_id": "2mass-j16090075-1908526_usco10-2mass-j16090075-1908526-b7",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 7",
+   "wavelength_um": 1050,
+   "wavelength_label": "1.05 mm continuum (AGE-PRO)",
+   "technique": "interferometry",
+   "survey": "AGE-PRO",
+   "content": "continuum",
+   "file": "images/2mass-j16090075-1908526/2mass-j16090075-1908526_usco10-2mass-j16090075-1908526-b7.png",
+   "credit": "Agurto-Gangas et al. 2025, Fig. 8 (crop)",
+   "note": "",
+   "paper": {
+    "first_author": "Agurto-Gangas",
+    "year": 2025,
+    "title": "The ALMA Survey of Gas Evolution of PROtoplanetary Disks (AGE-PRO). IV. Dust and Gas Disk Properties in the Upper Scorpius Star-forming Region",
+    "journal": "ApJ 989, 4",
+    "arxiv": "2506.10735",
+    "bibcode": "2025ApJ...989....4A"
+   },
+   "epoch": "2016-03"
   }
  ],
  "notes": "AGE-PRO Upper Scorpius 10. Substructured disk with shoulder at 20-35 au that resolves into a faint ring at high angular resolution (Vioque et al. 2025).",

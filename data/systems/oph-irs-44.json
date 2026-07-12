@@ -8,8 +8,8 @@
   "IRS 44 B"
  ],
  "simbad": "YLW 16",
- "ra_deg": 246.867,
- "dec_deg": -24.658,
+ "ra_deg": 246.866781,
+ "dec_deg": -24.659307,
  "dist_pc": 139.0,
  "sptype": null,
  "region": "Ophiuchus",
@@ -39,10 +39,33 @@
    "file": "images/oph-irs-44/oph-irs-44_alma2026.png",
    "epoch": "2023",
    "content": "continuum"
+  },
+  {
+   "image_id": "oph-irs-44_oph-irs44-k-polflux",
+   "type": "disk_scattered",
+   "facility": "UKIRT",
+   "instrument": "IRCAM3+IRPOL2",
+   "wavelength_um": 2.2,
+   "wavelength_label": "K polarized flux (bipolar reflection nebula)",
+   "technique": "imaging polarimetry",
+   "survey": null,
+   "content": "continuum",
+   "file": "images/oph-irs-44/oph-irs-44_oph-irs44-k-polflux.png",
+   "credit": "Beckford et al. 2008, Fig. 4(c) (crop)",
+   "note": "APPLY-NOTE: atlas oph-irs-44 coords 4.8 arcsec from SIMBAD YLW 16A - fix coords at apply",
+   "paper": {
+    "first_author": "Beckford",
+    "year": 2008,
+    "title": "Near-infrared imaging polarimetry of young stellar objects in rho Ophiuchi",
+    "journal": "MNRAS 384, 907",
+    "arxiv": "0802.1863",
+    "bibcode": "2008MNRAS.384..907B"
+   },
+   "epoch": "1998-2002"
   }
  ],
  "notes": "Class I protostellar system in Ophiuchus showing binarity, infalling streamers, and accretion shocks at the disk-envelope interface; the held image is the ALMA Band 6 1.3 mm continuum map (Artur de la Villarmois et al. 2026).",
- "last_updated": "2026-07-11",
+ "last_updated": "2026-07-12",
  "plx_mas": null,
  "mags": null
 }

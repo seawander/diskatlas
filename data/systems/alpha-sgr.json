@@ -1,0 +1,53 @@
+{
+ "id": "alpha-sgr",
+ "name": "alpha Sgr",
+ "alt_names": [
+  "HD 181869",
+  "Rukbat"
+ ],
+ "simbad": "* alf Sgr",
+ "ra_deg": 290.97156,
+ "dec_deg": -40.61594,
+ "dist_pc": 55.2,
+ "sptype": "B8V",
+ "region": "field debris",
+ "categories": [
+  "debris"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "image_id": "alpha-sgr_hd181869-10p4um",
+   "type": "disk_mm",
+   "facility": "Gemini-South",
+   "instrument": "T-ReCS",
+   "wavelength_um": 10.4,
+   "wavelength_label": "N 10.4 um (resolved debris)",
+   "technique": "mid-IR imaging",
+   "survey": null,
+   "content": "continuum",
+   "file": "images/alpha-sgr/alpha-sgr_hd181869-10p4um.png",
+   "credit": "Moerchen et al. 2010, Fig. 2 (crop)",
+   "note": "dFWHM=0.16 arcsec (r=4.1 au); bonus target from caption sweep; category debris",
+   "paper": {
+    "first_author": "Moerchen",
+    "year": 2010,
+    "title": "Thermal debris imaging",
+    "journal": "ApJ 723, 1418",
+    "arxiv": "1011.1410",
+    "bibcode": "2010ApJ...723.1418M"
+   },
+   "epoch": "2005-08-20"
+  }
+ ],
+ "notes": "B8V star (Rukbat); Gemini/T-ReCS 10.4 um imaging resolves warm debris emission (r~4 au) (Moerchen et al. 2010).",
+ "last_updated": "2026-07-12",
+ "plx_mas": 18.1088,
+ "mags": {
+  "V": 3.943,
+  "G": 3.95046,
+  "J": 4.17,
+  "H": 4.2,
+  "K": 4.2
+ }
+}

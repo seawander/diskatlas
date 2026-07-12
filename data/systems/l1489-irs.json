@@ -64,6 +64,52 @@
    },
    "epoch": "1997-12-20",
    "content": "continuum"
+  },
+  {
+   "image_id": "l1489-irs_l1489-c17o21",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 6",
+   "wavelength_um": 1334,
+   "wavelength_label": "C17O 2-1 mom0",
+   "technique": "interferometry",
+   "survey": null,
+   "content": "line",
+   "file": "images/l1489-irs/l1489-irs_l1489-c17o21.png",
+   "credit": "van 't Hoff et al. 2020, Fig. 1 (crop)",
+   "note": "",
+   "paper": {
+    "first_author": "van 't Hoff",
+    "year": 2020,
+    "title": "Warm Taurus disks",
+    "journal": "ApJ 901, 166",
+    "arxiv": "2008.08106",
+    "bibcode": "2020ApJ...901..166V"
+   },
+   "epoch": "2018-09"
+  },
+  {
+   "image_id": "l1489-irs_l1489-h2co",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 6",
+   "wavelength_um": 1328,
+   "wavelength_label": "H2CO 3(1,2)-2(1,1) mom0 (~600 au disk)",
+   "technique": "interferometry",
+   "survey": null,
+   "content": "line",
+   "file": "images/l1489-irs/l1489-irs_l1489-h2co.png",
+   "credit": "van 't Hoff et al. 2020, Fig. 1 (crop)",
+   "note": "",
+   "paper": {
+    "first_author": "van 't Hoff",
+    "year": 2020,
+    "title": "Warm Taurus disks",
+    "journal": "ApJ 901, 166",
+    "arxiv": "2008.08106",
+    "bibcode": "2020ApJ...901..166V"
+   },
+   "epoch": "2018-09"
   }
  ],
  "notes": "Class I embedded protostar (eDisk)",

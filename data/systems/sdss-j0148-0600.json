@@ -1,0 +1,74 @@
+{
+ "id": "sdss-j0148-0600",
+ "name": "J0148+0600",
+ "alt_names": [
+  "SDSS J0148+0600",
+  "CFHQS J0148+0600"
+ ],
+ "simbad": "SDSS J014837.63+060020.0",
+ "ra_deg": 27.156829,
+ "dec_deg": 6.005558,
+ "dist_pc": null,
+ "sptype": null,
+ "region": "high-z quasar",
+ "categories": [
+  "quasar"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "image_id": "sdss-j0148-0600_eiger-j0148-f356w-psfsub",
+   "type": "quasar",
+   "facility": "JWST",
+   "instrument": "NIRCam",
+   "wavelength_um": 3.56,
+   "wavelength_label": "F356W (PSF-subtracted host)",
+   "technique": "PSF subtraction",
+   "survey": null,
+   "content": "continuum",
+   "file": "images/sdss-j0148-0600/sdss-j0148-0600_eiger-j0148-f356w-psfsub.png",
+   "credit": "Yue et al. 2024, Fig. 4 (crop)",
+   "note": "z=5.977 host detected in all 3 bands, masked S/N=104; two close companions [obs executions 2022-12-13/2023-01-15]",
+   "paper": {
+    "first_author": "Yue",
+    "year": 2024,
+    "title": "EIGER. V. Characterizing the Host Galaxies of Luminous Quasars at z>~6",
+    "journal": "ApJ 966, 176",
+    "arxiv": "2309.04614",
+    "bibcode": "2024ApJ...966..176Y"
+   },
+   "epoch": "2022-2023"
+  },
+  {
+   "image_id": "sdss-j0148-0600_eiger-j0148-f200w-psfsub",
+   "type": "quasar",
+   "facility": "JWST",
+   "instrument": "NIRCam",
+   "wavelength_um": 1.99,
+   "wavelength_label": "F200W (PSF-subtracted host)",
+   "technique": "PSF subtraction",
+   "survey": null,
+   "content": "continuum",
+   "file": "images/sdss-j0148-0600/sdss-j0148-0600_eiger-j0148-f200w-psfsub.png",
+   "credit": "Yue et al. 2024, Fig. 4 (crop)",
+   "note": "masked S/N=45.8 [obs executions 2022-12-13/2023-01-15]",
+   "paper": {
+    "first_author": "Yue",
+    "year": 2024,
+    "title": "EIGER V",
+    "journal": "ApJ 966, 176",
+    "arxiv": "2309.04614",
+    "bibcode": "2024ApJ...966..176Y"
+   },
+   "epoch": "2022-2023"
+  }
+ ],
+ "notes": "z=5.977 luminous quasar; JWST/NIRCam PSF-subtracted imaging detects the host galaxy in three bands with two close companion galaxies (Yue et al. 2024, EIGER V).",
+ "last_updated": "2026-07-12",
+ "plx_mas": null,
+ "mags": {
+  "J": 19.114,
+  "H": 19.125,
+  "K": 19.022
+ }
+}

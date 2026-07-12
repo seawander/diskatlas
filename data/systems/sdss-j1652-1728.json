@@ -1,0 +1,49 @@
+{
+ "id": "sdss-j1652-1728",
+ "name": "SDSS J1652+1728",
+ "alt_names": [
+  "SDSSJ1652+1728",
+  "WISEA J165202.60+172852.4"
+ ],
+ "simbad": "SDSS J165202.64+172852.3",
+ "ra_deg": 253.011035,
+ "dec_deg": 17.481222,
+ "dist_pc": null,
+ "sptype": null,
+ "region": "obscured quasar",
+ "categories": [
+  "quasar"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "image_id": "sdss-j1652-1728_sdssj1652p1728-f160w-psfsub",
+   "type": "quasar",
+   "facility": "HST",
+   "instrument": "WFC3/IR",
+   "wavelength_um": 1.54,
+   "wavelength_label": "F160W (PSF-subtracted host + tidal tail)",
+   "technique": "PSF subtraction",
+   "survey": null,
+   "content": "continuum",
+   "file": "images/sdss-j1652-1728/sdss-j1652-1728_sdssj1652p1728-f160w-psfsub.png",
+   "credit": "Zakamska et al. 2019, Fig. 4 (crop)",
+   "note": "Brightest ERQ host (z=2.942) with candidate tidal tail; later JWST ERS target",
+   "paper": {
+    "first_author": "Zakamska",
+    "year": 2019,
+    "title": "ERQ hosts",
+    "journal": "MNRAS 489, 497",
+    "arxiv": "1907.10617",
+    "bibcode": "2019MNRAS.489..497Z"
+   },
+   "epoch": "2017-07-14"
+  }
+ ],
+ "notes": "Brightest known extremely red quasar host (z=2.942) with a candidate tidal tail in HST/WFC3 F160W imaging (Zakamska et al. 2019); later a JWST ERS target.",
+ "last_updated": "2026-07-12",
+ "plx_mas": null,
+ "mags": {
+  "G": 20.4267
+ }
+}

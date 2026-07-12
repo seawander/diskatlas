@@ -1,0 +1,47 @@
+{
+ "id": "vla-1623",
+ "name": "VLA 1623",
+ "alt_names": [
+  "VLA 1623A",
+  "VLA 1623-243"
+ ],
+ "simbad": "NAME VLA 1623-243",
+ "ra_deg": 246.61008,
+ "dec_deg": -24.40833,
+ "dist_pc": null,
+ "sptype": null,
+ "region": "Ophiuchus",
+ "categories": [
+  "protoplanetary"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "image_id": "vla-1623_a-alma1-4mm",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 6",
+   "wavelength_um": 1369,
+   "wavelength_label": "1.37 mm continuum (A disk + B companion)",
+   "technique": "interferometry",
+   "survey": null,
+   "content": "continuum",
+   "file": "images/vla-1623/vla-1623_a-alma1-4mm.png",
+   "credit": "Persson et al. 2016, Fig. 1 (crop)",
+   "note": "Murillo 2015 Cycle-2 data; Keplerian ~150 au disk",
+   "paper": {
+    "first_author": "Persson",
+    "year": 2016,
+    "title": "Inner 100 AU embedded protostars",
+    "journal": "A&A 590, A33",
+    "arxiv": "1603.01061",
+    "bibcode": "2016A&A...590A..33P"
+   },
+   "epoch": "2014"
+  }
+ ],
+ "notes": "Prototypical Class 0 protostar (triple system); ALMA 1.37 mm continuum resolves the ~150 au Keplerian disk around component A and companion B (Persson et al. 2016, data from Murillo et al. 2015).",
+ "last_updated": "2026-07-12",
+ "plx_mas": null,
+ "mags": {}
+}

@@ -1,0 +1,53 @@
+{
+ "id": "beta-uma",
+ "name": "beta UMa",
+ "alt_names": [
+  "HD 95418",
+  "Merak"
+ ],
+ "simbad": "* bet UMa",
+ "ra_deg": 165.46033,
+ "dec_deg": 56.38243,
+ "dist_pc": 25.9,
+ "sptype": "A1IVps",
+ "region": "field debris",
+ "categories": [
+  "debris"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "image_id": "beta-uma_hd95418-11p2um",
+   "type": "disk_mm",
+   "facility": "Gemini-North",
+   "instrument": "Michelle",
+   "wavelength_um": 11.2,
+   "wavelength_label": "N' 11.2 um (marginally resolved debris)",
+   "technique": "mid-IR imaging",
+   "survey": null,
+   "content": "continuum",
+   "file": "images/beta-uma/beta-uma_hd95418-11p2um.png",
+   "credit": "Moerchen et al. 2010, Fig. 2 (crop)",
+   "note": "dFWHM=0.09 arcsec (r=1.1 au); category debris",
+   "paper": {
+    "first_author": "Moerchen",
+    "year": 2010,
+    "title": "Thermal debris imaging",
+    "journal": "ApJ 723, 1418",
+    "arxiv": "1011.1410",
+    "bibcode": "2010ApJ...723.1418M"
+   },
+   "epoch": "2006-06-10"
+  }
+ ],
+ "notes": "A1IV star (Merak); Gemini/Michelle 11.2 um imaging marginally resolves warm debris emission (r~1 au) (Moerchen et al. 2010).",
+ "last_updated": "2026-07-12",
+ "plx_mas": 38.6031,
+ "mags": {
+  "V": 2.37,
+  "G": 2.398536,
+  "J": 2.35,
+  "H": 2.359,
+  "K": 2.35
+ }
+}

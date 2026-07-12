@@ -1,0 +1,46 @@
+{
+ "id": "sdss-j0913-2344",
+ "name": "SDSS J0913+2344",
+ "alt_names": [
+  "SDSSJ0913+2344"
+ ],
+ "simbad": "SDSS J091303.90+234435.2",
+ "ra_deg": 138.266277,
+ "dec_deg": 23.74312,
+ "dist_pc": null,
+ "sptype": null,
+ "region": "obscured quasar",
+ "categories": [
+  "quasar"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "image_id": "sdss-j0913-2344_sdssj0913p2344-f140w-psfsub",
+   "type": "quasar",
+   "facility": "HST",
+   "instrument": "WFC3/IR",
+   "wavelength_um": 1.39,
+   "wavelength_label": "F140W (PSF-subtracted host)",
+   "technique": "PSF subtraction",
+   "survey": null,
+   "content": "continuum",
+   "file": "images/sdss-j0913-2344/sdss-j0913-2344_sdssj0913p2344-f140w-psfsub.png",
+   "credit": "Zakamska et al. 2019, Fig. 3 (crop)",
+   "note": "ERQ z=2.436, GO-14608",
+   "paper": {
+    "first_author": "Zakamska",
+    "year": 2019,
+    "title": "Host galaxies of high-redshift extremely red and obscured quasars",
+    "journal": "MNRAS 489, 497",
+    "arxiv": "1907.10617",
+    "bibcode": "2019MNRAS.489..497Z"
+   },
+   "epoch": "2017-04-07"
+  }
+ ],
+ "notes": "Extremely red quasar (ERQ) at z=2.436; HST/WFC3 F140W PSF subtraction detects the luminous host galaxy (Zakamska et al. 2019).",
+ "last_updated": "2026-07-12",
+ "plx_mas": null,
+ "mags": {}
+}

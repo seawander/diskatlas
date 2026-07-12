@@ -348,6 +348,52 @@
    },
    "epoch": "2015-07-22",
    "content": "continuum"
+  },
+  {
+   "image_id": "hd-141569_11p2um",
+   "type": "disk_mm",
+   "facility": "Gemini-North",
+   "instrument": "Michelle",
+   "wavelength_um": 11.2,
+   "wavelength_label": "N' 11.2 um (resolved)",
+   "technique": "mid-IR imaging",
+   "survey": null,
+   "content": "continuum",
+   "file": "images/hd-141569/hd-141569_11p2um.png",
+   "credit": "Moerchen et al. 2010, Fig. 2 (crop)",
+   "note": "new mid-IR instrument for held system; dFWHM=0.22 arcsec",
+   "paper": {
+    "first_author": "Moerchen",
+    "year": 2010,
+    "title": "Thermal debris imaging",
+    "journal": "ApJ 723, 1418",
+    "arxiv": "1011.1410",
+    "bibcode": "2010ApJ...723.1418M"
+   },
+   "epoch": "2006-06-12"
+  },
+  {
+   "image_id": "hd-141569_18p1um",
+   "type": "disk_mm",
+   "facility": "Gemini-North",
+   "instrument": "Michelle",
+   "wavelength_um": 18.1,
+   "wavelength_label": "Qa 18.1 um (clearly extended)",
+   "technique": "mid-IR imaging",
+   "survey": null,
+   "content": "continuum",
+   "file": "images/hd-141569/hd-141569_18p1um.png",
+   "credit": "Moerchen et al. 2010, Fig. 2 (crop)",
+   "note": "dFWHM=0.60 arcsec (r~30 au)",
+   "paper": {
+    "first_author": "Moerchen",
+    "year": 2010,
+    "title": "Thermal debris imaging",
+    "journal": "ApJ 723, 1418",
+    "arxiv": "1011.1410",
+    "bibcode": "2010ApJ...723.1418M"
+   },
+   "epoch": "2006-05-10"
   }
  ],
  "notes": "Hybrid disk (gas-rich debris / late transition); its multi-ring scattered-light structure was first resolved with HST/NICMOS (Weinberger+1999) and later in VLT/SPHERE (Perrot+2016).",

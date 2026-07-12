@@ -547,6 +547,52 @@
    },
    "epoch": "2018-2019",
    "content": "line"
+  },
+  {
+   "image_id": "gm-aur_gmaur-co32-h09",
+   "type": "disk_mm",
+   "facility": "SMA",
+   "instrument": "SMA",
+   "wavelength_um": 867,
+   "wavelength_label": "CO 3-2 moment map (SMA)",
+   "technique": "interferometry",
+   "survey": null,
+   "content": "line",
+   "file": "images/gm-aur/gm-aur_gmaur-co32-h09.png",
+   "credit": "Hughes et al. 2009, Fig. 4 (crop)",
+   "note": "",
+   "paper": {
+    "first_author": "Hughes",
+    "year": 2009,
+    "title": "A Spatially Resolved Inner Hole in the Disk Around GM Aurigae",
+    "journal": "ApJ 698, 131",
+    "arxiv": "0903.4455",
+    "bibcode": "2009ApJ...698..131H"
+   },
+   "epoch": "2005-11"
+  },
+  {
+   "image_id": "gm-aur_gmaur-co21-h09",
+   "type": "disk_mm",
+   "facility": "SMA",
+   "instrument": "SMA",
+   "wavelength_um": 1300.4,
+   "wavelength_label": "CO 2-1 moment map (SMA)",
+   "technique": "interferometry",
+   "survey": null,
+   "content": "line",
+   "file": "images/gm-aur/gm-aur_gmaur-co21-h09.png",
+   "credit": "Hughes et al. 2009, Fig. 4 (crop)",
+   "note": "",
+   "paper": {
+    "first_author": "Hughes",
+    "year": 2009,
+    "title": "A Spatially Resolved Inner Hole in the Disk Around GM Aurigae",
+    "journal": "ApJ 698, 131",
+    "arxiv": "0903.4455",
+    "bibcode": "2009ApJ...698..131H"
+   },
+   "epoch": "2006-2007"
   }
  ],
  "notes": null,

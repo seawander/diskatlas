@@ -1,0 +1,51 @@
+{
+ "id": "pso-j159-02",
+ "name": "J159-02",
+ "alt_names": [
+  "PSO J159.2257-02.5438",
+  "PSO J159-02"
+ ],
+ "simbad": "QSO J1036-0232",
+ "ra_deg": 159.225694,
+ "dec_deg": -2.543932,
+ "dist_pc": null,
+ "sptype": null,
+ "region": "high-z quasar",
+ "categories": [
+  "quasar"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "image_id": "pso-j159-02_eiger-j159-f356w-psfsub",
+   "type": "quasar",
+   "facility": "JWST",
+   "instrument": "NIRCam",
+   "wavelength_um": 3.56,
+   "wavelength_label": "F356W (PSF-subtracted host)",
+   "technique": "PSF subtraction",
+   "survey": null,
+   "content": "continuum",
+   "file": "images/pso-j159-02/pso-j159-02_eiger-j159-f356w-psfsub.png",
+   "credit": "Yue et al. 2024, Fig. 6 (crop)",
+   "note": "z=6.381 host detected; one close companion [obs executions 2023-05-03/2023-06-03]",
+   "paper": {
+    "first_author": "Yue",
+    "year": 2024,
+    "title": "EIGER V",
+    "journal": "ApJ 966, 176",
+    "arxiv": "2309.04614",
+    "bibcode": "2024ApJ...966..176Y"
+   },
+   "epoch": "2023"
+  }
+ ],
+ "notes": "z=6.381 quasar; JWST/NIRCam PSF-subtracted imaging detects the host galaxy and a close companion (Yue et al. 2024, EIGER V).",
+ "last_updated": "2026-07-12",
+ "plx_mas": null,
+ "mags": {
+  "J": 20.091,
+  "H": 19.938,
+  "K": 19.617
+ }
+}

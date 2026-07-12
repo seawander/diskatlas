@@ -1,0 +1,46 @@
+{
+ "id": "sdss-j1122-3415",
+ "name": "SDSS J1122+3415",
+ "alt_names": [
+  "SDSSJ1122+3415"
+ ],
+ "simbad": "SDSS J112230.34+341538.0",
+ "ra_deg": 170.62645,
+ "dec_deg": 34.260561,
+ "dist_pc": null,
+ "sptype": null,
+ "region": "obscured quasar",
+ "categories": [
+  "quasar"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "image_id": "sdss-j1122-3415_sdssj1122p3415-f160w-psfsub",
+   "type": "quasar",
+   "facility": "HST",
+   "instrument": "WFC3/IR",
+   "wavelength_um": 1.54,
+   "wavelength_label": "F160W (PSF-subtracted host)",
+   "technique": "PSF subtraction",
+   "survey": null,
+   "content": "continuum",
+   "file": "images/sdss-j1122-3415/sdss-j1122-3415_sdssj1122p3415-f160w-psfsub.png",
+   "credit": "Zakamska et al. 2019, Fig. 5 (crop)",
+   "note": "Type-2 quasar candidate z=2.398, GO-13014",
+   "paper": {
+    "first_author": "Zakamska",
+    "year": 2019,
+    "title": "ERQ hosts",
+    "journal": "MNRAS 489, 497",
+    "arxiv": "1907.10617",
+    "bibcode": "2019MNRAS.489..497Z"
+   },
+   "epoch": "2013-05-19"
+  }
+ ],
+ "notes": "Type-2 quasar candidate at z=2.398; HST/WFC3 F160W PSF subtraction detects the host galaxy (Zakamska et al. 2019).",
+ "last_updated": "2026-07-12",
+ "plx_mas": null,
+ "mags": {}
+}
