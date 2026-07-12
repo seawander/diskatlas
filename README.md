@@ -2,7 +2,7 @@
 
 # `diskatlas`: all-sky interactive atlas for resolved circumstellar disks and imaged companions
 
-`diskatlas`: 已分辨星周盘与直接成像伴体 · 交互式全天图
+`diskatlas`: 星周盘图像与直接成像伴体 · 交互式全天图
 
 **🌐 Browse it live: <https://seawander.github.io/diskatlas/>** · 
 [Source & data on GitHub](https://github.com/seawander/diskatlas) — or clone and
