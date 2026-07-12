@@ -181,6 +181,28 @@
    },
    "file": "images/hd-146897/hd-146897_scexao-charis2018.png",
    "epoch": "2017 Aug 14"
+  },
+  {
+   "image_id": "hd-146897_gpi-h-i-hom24",
+   "type": "disk_scattered",
+   "facility": "Gemini-GPI",
+   "instrument": "GPI",
+   "wavelength_um": 1.6,
+   "wavelength_label": "H band 1.6 um (total intensity, pyKLIP-ADI)",
+   "technique": "ADI",
+   "survey": null,
+   "file": "images/hd-146897/hd-146897_gpi-h-i-hom24.png",
+   "credit": "Hom et al. 2024, Fig. 5 (crop)",
+   "note": "",
+   "paper": {
+    "first_author": "Hom",
+    "year": 2024,
+    "title": "A uniform analysis of debris discs with the Gemini Planet Imager II",
+    "journal": "MNRAS 528, 6959",
+    "arxiv": "2402.00214",
+    "bibcode": "2024MNRAS.528.6959H"
+   },
+   "epoch": "2018-08-15"
   }
  ],
  "notes": "Merged duplicate system hip-79977 (HIP 79977 == HD 146897) on 2026-07-06.",

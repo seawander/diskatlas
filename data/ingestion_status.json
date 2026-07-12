@@ -1,6 +1,6 @@
 {
  "_doc": "Per-survey ingestion state. entries/coords/images: done|partial|todo. Update on every ingest.",
- "updated": "2026-07-11: DUPLICATE-SYSTEM merge sweep + health_check.py (maintenance efficiency). New backend-data/health_check.py (cross-system integrity: dup-simbad, coord-pair proximity, coord-vs-designation, naming conventions, name collisions) found 7 MORE duplicate systems beyond FM Cha - merged: hd-161868->gamma-oph (gamma Oph; dropped 1 same-paper Han 2026 F2550W dup), sz-71->gw-lup, mp-mus->pds-66 (name MP Mus), cp-72-2713->tyc-9340-437-1 (name CPD-72 2713), so-1274->v606-ori, lup-160708->j16070854, j160421-7->rx-j1604-3-2130 (name RX J1604.3-2130 A). Each merge consolidates one star's split coverage (e.g. RX J1604 7+2 images now one entry). health_check.py wired into HANDOFF quick-start; passes clean. Backlog surfaced: 123 systems with placeholder AUTO-CREATED notes. 515 systems, 2171 image records.",
+ "updated": "2026-07-11: Exploration round agent 1/4 - Hom et al. 2024 GPI Paper II (2402.00214 = 2024MNRAS.528.6959H) INGESTED, clearing the 'STILL OPEN' queue item: +10 GPI total-intensity pyKLIP-ADI records (8 H-band: HD 32297/35841/106906/110058/111520/114082/146897/HR 4796A + 2 K1-band: HD 32297, HR 4796A), per-target epochs 2015-2018, all existing systems (0.0\" coord matches). Complements held GPI polarized (Esposito 2020) per cross-paper policy. Agents 2-4 (AGE-PRO Oph/USco, MAPS lines, pre-ALMA classics) still running. 515 systems, 2181 records.",
  "surveys": {
   "DSHARP": {
    "entries": "done",
