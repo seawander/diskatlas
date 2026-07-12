@@ -553,6 +553,160 @@
     "bibcode": "2026arXiv260530023K"
    },
    "epoch": null
+  },
+  {
+   "image_id": "hd-163296_maps-12co",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 6",
+   "wavelength_um": 1300.4,
+   "wavelength_label": "12CO 2-1 moment-0 (MAPS)",
+   "technique": "interferometry",
+   "survey": "MAPS",
+   "file": "images/hd-163296/hd-163296_maps-12co.png",
+   "credit": "Law et al. 2021, Fig. 3 (crop)",
+   "note": "",
+   "paper": {
+    "first_author": "Law",
+    "year": 2021,
+    "title": "Molecules with ALMA at Planet-forming Scales (MAPS). III. Characteristics of Radial Chemical Substructures",
+    "journal": "ApJS 257, 3",
+    "arxiv": "2109.06210",
+    "bibcode": "2021ApJS..257....3L"
+   },
+   "epoch": "2018-2019"
+  },
+  {
+   "image_id": "hd-163296_maps-13co",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 6",
+   "wavelength_um": 1360.2,
+   "wavelength_label": "13CO 2-1 moment-0 (MAPS)",
+   "technique": "interferometry",
+   "survey": "MAPS",
+   "file": "images/hd-163296/hd-163296_maps-13co.png",
+   "credit": "Law et al. 2021, Fig. 3 (crop)",
+   "note": "",
+   "paper": {
+    "first_author": "Law",
+    "year": 2021,
+    "title": "Molecules with ALMA at Planet-forming Scales (MAPS). III. Characteristics of Radial Chemical Substructures",
+    "journal": "ApJS 257, 3",
+    "arxiv": "2109.06210",
+    "bibcode": "2021ApJS..257....3L"
+   },
+   "epoch": "2018-2019"
+  },
+  {
+   "image_id": "hd-163296_maps-c18o",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 6",
+   "wavelength_um": 1365.4,
+   "wavelength_label": "C18O 2-1 moment-0 (MAPS)",
+   "technique": "interferometry",
+   "survey": "MAPS",
+   "file": "images/hd-163296/hd-163296_maps-c18o.png",
+   "credit": "Law et al. 2021, Fig. 3 (crop)",
+   "note": "",
+   "paper": {
+    "first_author": "Law",
+    "year": 2021,
+    "title": "Molecules with ALMA at Planet-forming Scales (MAPS). III. Characteristics of Radial Chemical Substructures",
+    "journal": "ApJS 257, 3",
+    "arxiv": "2109.06210",
+    "bibcode": "2021ApJS..257....3L"
+   },
+   "epoch": "2018-2019"
+  },
+  {
+   "image_id": "hd-163296_maps-c2h",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 6",
+   "wavelength_um": 1143.7,
+   "wavelength_label": "C2H 3-2 moment-0 (MAPS)",
+   "technique": "interferometry",
+   "survey": "MAPS",
+   "file": "images/hd-163296/hd-163296_maps-c2h.png",
+   "credit": "Law et al. 2021, Fig. 4 (crop)",
+   "note": "",
+   "paper": {
+    "first_author": "Law",
+    "year": 2021,
+    "title": "Molecules with ALMA at Planet-forming Scales (MAPS). III. Characteristics of Radial Chemical Substructures",
+    "journal": "ApJS 257, 3",
+    "arxiv": "2109.06210",
+    "bibcode": "2021ApJS..257....3L"
+   },
+   "epoch": "2018-2019"
+  },
+  {
+   "image_id": "hd-163296_maps-hcop",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 3",
+   "wavelength_um": 3361.3,
+   "wavelength_label": "HCO+ 1-0 moment-0 (MAPS)",
+   "technique": "interferometry",
+   "survey": "MAPS",
+   "file": "images/hd-163296/hd-163296_maps-hcop.png",
+   "credit": "Law et al. 2021, Fig. 5 (crop)",
+   "note": "",
+   "paper": {
+    "first_author": "Law",
+    "year": 2021,
+    "title": "Molecules with ALMA at Planet-forming Scales (MAPS). III. Characteristics of Radial Chemical Substructures",
+    "journal": "ApJS 257, 3",
+    "arxiv": "2109.06210",
+    "bibcode": "2021ApJS..257....3L"
+   },
+   "epoch": "2018-2019"
+  },
+  {
+   "image_id": "hd-163296_maps-cs",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 3",
+   "wavelength_um": 3061.4,
+   "wavelength_label": "CS 2-1 moment-0 (MAPS)",
+   "technique": "interferometry",
+   "survey": "MAPS",
+   "file": "images/hd-163296/hd-163296_maps-cs.png",
+   "credit": "Law et al. 2021, Fig. 5 (crop)",
+   "note": "",
+   "paper": {
+    "first_author": "Law",
+    "year": 2021,
+    "title": "Molecules with ALMA at Planet-forming Scales (MAPS). III. Characteristics of Radial Chemical Substructures",
+    "journal": "ApJS 257, 3",
+    "arxiv": "2109.06210",
+    "bibcode": "2021ApJS..257....3L"
+   },
+   "epoch": "2018-2019"
+  },
+  {
+   "image_id": "hd-163296_maps-hcn",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 6",
+   "wavelength_um": 1127.5,
+   "wavelength_label": "HCN 3-2 moment-0 (MAPS)",
+   "technique": "interferometry",
+   "survey": "MAPS",
+   "file": "images/hd-163296/hd-163296_maps-hcn.png",
+   "credit": "Law et al. 2021, Fig. 6 (crop)",
+   "note": "",
+   "paper": {
+    "first_author": "Law",
+    "year": 2021,
+    "title": "Molecules with ALMA at Planet-forming Scales (MAPS). III. Characteristics of Radial Chemical Substructures",
+    "journal": "ApJS 257, 3",
+    "arxiv": "2109.06210",
+    "bibcode": "2021ApJS..257....3L"
+   },
+   "epoch": "2018-2019"
   }
  ],
  "notes": null,

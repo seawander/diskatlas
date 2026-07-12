@@ -1,6 +1,6 @@
 {
  "_doc": "Per-survey ingestion state. entries/coords/images: done|partial|todo. Update on every ingest.",
- "updated": "2026-07-11: Exploration round agent 1/4 - Hom et al. 2024 GPI Paper II (2402.00214 = 2024MNRAS.528.6959H) INGESTED, clearing the 'STILL OPEN' queue item: +10 GPI total-intensity pyKLIP-ADI records (8 H-band: HD 32297/35841/106906/110058/111520/114082/146897/HR 4796A + 2 K1-band: HD 32297, HR 4796A), per-target epochs 2015-2018, all existing systems (0.0\" coord matches). Complements held GPI polarized (Esposito 2020) per cross-paper policy. Agents 2-4 (AGE-PRO Oph/USco, MAPS lines, pre-ALMA classics) still running. 515 systems, 2181 records.",
+ "updated": "2026-07-11: Exploration round agent 3/4 - MAPS line-emission maps INGESTED (clears 2nd 'STILL OPEN' item). +35 records = 5 disks (IM Lup, GM Aur, AS 209, HD 163296, MWC 480) x 7 tracers (12CO/13CO/C18O 2-1, C2H 3-2, HCN 3-2 [Band 6]; HCO+ 1-0, CS 2-1 [Band 3]) zeroth-moment maps from Law et al. 2021 MAPS III (2109.06210 = 2021ApJS..257....3L), survey=MAPS, epoch 2018-2019. Kept the best-displayed transition per molecule; skipped minor tracers + same-program duplicate galleries (MAPS I Fig 6, appendix per-disk re-arrangements). Still running: AGE-PRO Oph/USco, pre-ALMA classics. 515 systems, 2216 records.",
  "surveys": {
   "DSHARP": {
    "entries": "done",
@@ -223,6 +223,9 @@
    "coords": "todo",
    "images": "todo",
    "notes": "User stopped these agent batches mid-flight on 2026-07-07 (do not relaunch unless asked): instrument-sweep crop chunks 01/08/11 (~35 verified findings from ingest-plan.json remain uncropped, incl. AK Sco SPHERE, alpha Cen A?, ci-tau VLA, hd-98800 ALMA+VLA, mwc-297/mwc-614, WW Cha GRAVITY, PG quasar hosts, kappa And MIRI, hd-92945...: cross-check data/paper_finder-era ingest-plan.json vs data/systems before redoing); Kurtovic+2026 ALMA archival summary (2605.30023 Fig. 25 gallery); Orion proplyds x3 batches (37 targets from circumstellardisks.org/Wikipedia); Herschel-debris hosts x2 batches (20 targets: 61 Vir, tau Cet, kappa CrB, 99 Her, Denebola, beta UMa, alpha CrB, lambda Boo, zeta Lep/T-ReCS, HD 200775...). Also still queued: ~340 paper-finder candidates (data/paper_finder/triage-queue.json), embedded-YSO catalog batch (L1551 IRS 5, V892 Tau, WL 16, Gomez's Hamburger, CoKu Tau 1, FN Tau, CB 26...), stragglers (T Cha, SR 20, V1094 Sco, J1850-3147), csdorg instrument-gap recheck."
+  },
+  "MAPS": {
+   "status": "DONE 2026-07-11: Law 2021 MAPS III moment-0 galleries, 5 disks x 7 major tracers (35 records); minor tracers intentionally skipped"
   }
  },
  "known_missing": [
