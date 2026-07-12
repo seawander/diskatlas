@@ -1,6 +1,6 @@
 {
  "_doc": "Per-survey ingestion state. entries/coords/images: done|partial|todo. Update on every ingest.",
- "updated": "2026-07-11: T Cha NACO/SAM (user-directed). +6 VLT-NACO Sparse Aperture Masking MEM image reconstructions (Cheetham et al. 2015, 1502.05084 = 2015MNRAS.450L...1C, Fig 2): L' 3.8um at 2010-03-14/2011-03-14/2012-03-08/2013-03-25 + Ks 2.18um at 2011-03-15/2013-03-26. Typed disk_scattered - the NW+E signals are DISC scattered-light structures (edge-on forward-scattering), NOT a companion (per user + paper title). 520 systems, 2162 image records.",
+ "updated": "2026-07-11: Robberto 2012 Cha I HST jet+disk atlas harvested (subagent). +9 HST/WFPC2 emission-line/scattered-light panels (Robberto et al. 2012, 1205.2727 = 2012AJ....144...83R, GO 11983, 2009): CT Cha [OI]+[SII] circumstellar emission, HH 48 F547M edge-on-disk B + [SII] HH flow, WW Cha [SII] shock, + 3 NEW Cha I systems - SX Cha ([SII] jet), Sz 4 (resolved close binary), CED 112 IRS 4 (HH 914 knot, Ha+[OI]). Skipped Ass Cha T 2-16, ESO-Ha 569 (marginal/undetected). All disk_scattered. 523 systems, 2171 image records.",
  "surveys": {
   "DSHARP": {
    "entries": "done",

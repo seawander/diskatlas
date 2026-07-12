@@ -198,6 +198,50 @@
     "bibcode": "2025ApJ...991L..46C"
    },
    "epoch": "2022-08-15"
+  },
+  {
+   "image_id": "ct-cha_wfpc2-f631n-2009",
+   "type": "disk_scattered",
+   "facility": "HST",
+   "instrument": "WFPC2",
+   "wavelength_um": 0.631,
+   "wavelength_label": "F631N [OI] 0.631 um (extended circumstellar emission)",
+   "technique": "emission-line imaging",
+   "survey": null,
+   "file": "images/ct-cha/ct-cha_wfpc2-f631n-2009.png",
+   "credit": "Robberto et al. 2012, Fig. 4 (crop)",
+   "note": "",
+   "paper": {
+    "first_author": "Robberto",
+    "year": 2012,
+    "title": "An HST Imaging Survey of Low-mass Stars in the Chamaeleon I Star-forming Region",
+    "journal": "AJ 144, 83",
+    "arxiv": "1205.2727",
+    "bibcode": "2012AJ....144...83R"
+   },
+   "epoch": "2009"
+  },
+  {
+   "image_id": "ct-cha_wfpc2-f673n-2009",
+   "type": "disk_scattered",
+   "facility": "HST",
+   "instrument": "WFPC2",
+   "wavelength_um": 0.673,
+   "wavelength_label": "F673N [SII] 0.673 um (extended circumstellar emission)",
+   "technique": "emission-line imaging",
+   "survey": null,
+   "file": "images/ct-cha/ct-cha_wfpc2-f673n-2009.png",
+   "credit": "Robberto et al. 2012, Fig. 4 (crop)",
+   "note": "",
+   "paper": {
+    "first_author": "Robberto",
+    "year": 2012,
+    "title": "An HST Imaging Survey of Low-mass Stars in the Chamaeleon I Star-forming Region",
+    "journal": "AJ 144, 83",
+    "arxiv": "1205.2727",
+    "bibcode": "2012AJ....144...83R"
+   },
+   "epoch": "2009"
   }
  ],
  "notes": null,

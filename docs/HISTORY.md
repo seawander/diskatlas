@@ -448,3 +448,18 @@ Fig 2). Typed disk_scattered and labelled explicitly as DISC scattered-light
 structure (the paper shows the NW+E "two point source" SAM signals are forward-
 scattering from the highly-inclined disc, NOT the previously-claimed companion;
 user flagged this). t-cha 3->9 images. 520 systems, 2162 image records, 0 errors.
+
+2026-07-11 (Robberto 2012 Cha I HST jet+disk atlas - subagent harvest). Subagent
+processed Figs 2-11 of Robberto et al. 2012 (arXiv 1205.2727 = 2012AJ....144...83R,
+HST/WFPC2 GO 11983, F547M/F631N[OI]/F656N[Ha]/F673N[SII], obs 2009); read every
+caption, VIEW-verified every crop, distinguished real features from CTE trails.
++9 panels (all disk_scattered): CT Cha [OI]+[SII] extended circumstellar emission
+(Fig 4; "C2" label softened - the known background source, not a companion);
+HH 48 F547M edge-on-disk scattered light (B) + [SII] HH flow (A) (Fig 6, existing
+hh-48-ne); WW Cha [SII] extended shock / HH 915 (Fig 9). 3 NEW Cha I systems with
+SIMBAD coords/mags: SX Cha (M1.5+M3 binary, [SII] jet protuberance, Fig 2), Sz 4
+(=Ass Cha T 2-5, M4, resolved 0.15" close binary, Fig 3), CED 112 IRS 4 (=FM Cha,
+HH 914 Ha+[OI] eastward knot, Fig 8). Skipped Fig 5 (NACO archival non-HST + dup),
+Fig 7 Ass Cha T 2-16 (marginal FWHM), Fig 10 ESO-Ha 569 (below detection limit),
+Fig 11 ESO-Ha 574 (done separately from Whelan 2014), Fig 1 (field map). 523
+systems, 2171 image records, 0 errors / 0 warnings.

@@ -1,0 +1,53 @@
+{
+ "id": "sz-4",
+ "name": "Sz 4",
+ "alt_names": [
+  "Ass Cha T 2-5",
+  "[CCE98] 1-5",
+  "2MASS J10574219-7659356"
+ ],
+ "simbad": "Sz 4",
+ "ra_deg": 164.42540716517,
+ "dec_deg": -76.99323369443,
+ "dist_pc": 190.0,
+ "sptype": "M4",
+ "region": "Chamaeleon I",
+ "categories": [
+  "protoplanetary"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "image_id": "sz-4_wfpc2-f673n-2009",
+   "type": "disk_scattered",
+   "facility": "HST",
+   "instrument": "WFPC2",
+   "wavelength_um": 0.673,
+   "wavelength_label": "F673N [SII] 0.673 um (resolved ~0.15\" close binary)",
+   "technique": "imaging",
+   "survey": null,
+   "file": "images/sz-4/sz-4_wfpc2-f673n-2009.png",
+   "credit": "Robberto et al. 2012, Fig. 3 (crop)",
+   "note": "",
+   "paper": {
+    "first_author": "Robberto",
+    "year": 2012,
+    "title": "An HST Imaging Survey of Low-mass Stars in the Chamaeleon I Star-forming Region",
+    "journal": "AJ 144, 83",
+    "arxiv": "1205.2727",
+    "bibcode": "2012AJ....144...83R"
+   },
+   "epoch": "2009"
+  }
+ ],
+ "notes": "M4 classical T Tauri star in Chamaeleon I, resolved by HST/WFPC2 into a ~0.15\" (25 au) close binary; N component dominates in Halpha (strong accretion) (Robberto et al. 2012).",
+ "last_updated": "2026-07-11",
+ "plx_mas": null,
+ "mags": {
+  "V": 14.8,
+  "G": 13.881451,
+  "J": 10.433,
+  "H": 9.563,
+  "K": 9.246
+ }
+}

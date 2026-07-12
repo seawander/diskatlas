@@ -54,6 +54,50 @@
    },
    "file": "images/hh-48-ne/hh-48-ne_acs2023.png",
    "epoch": "2012-03-07"
+  },
+  {
+   "image_id": "hh-48-ne_wfpc2-f547m-2009",
+   "type": "disk_scattered",
+   "facility": "HST",
+   "instrument": "WFPC2",
+   "wavelength_um": 0.547,
+   "wavelength_label": "F547M 0.55 um (HH 48 B edge-on-disk scattered light)",
+   "technique": "imaging",
+   "survey": null,
+   "file": "images/hh-48-ne/hh-48-ne_wfpc2-f547m-2009.png",
+   "credit": "Robberto et al. 2012, Fig. 6 (crop)",
+   "note": "",
+   "paper": {
+    "first_author": "Robberto",
+    "year": 2012,
+    "title": "An HST Imaging Survey of Low-mass Stars in the Chamaeleon I Star-forming Region",
+    "journal": "AJ 144, 83",
+    "arxiv": "1205.2727",
+    "bibcode": "2012AJ....144...83R"
+   },
+   "epoch": "2009"
+  },
+  {
+   "image_id": "hh-48-ne_wfpc2-f673n-2009",
+   "type": "disk_scattered",
+   "facility": "HST",
+   "instrument": "WFPC2",
+   "wavelength_um": 0.673,
+   "wavelength_label": "F673N [SII] 0.673 um (HH 48 A [SII] HH flow)",
+   "technique": "emission-line imaging (jet)",
+   "survey": null,
+   "file": "images/hh-48-ne/hh-48-ne_wfpc2-f673n-2009.png",
+   "credit": "Robberto et al. 2012, Fig. 6 (crop)",
+   "note": "",
+   "paper": {
+    "first_author": "Robberto",
+    "year": 2012,
+    "title": "An HST Imaging Survey of Low-mass Stars in the Chamaeleon I Star-forming Region",
+    "journal": "AJ 144, 83",
+    "arxiv": "1205.2727",
+    "bibcode": "2012AJ....144...83R"
+   },
+   "epoch": "2009"
   }
  ],
  "notes": "AUTO-CREATED from staging - fill metadata & coords",

@@ -1,0 +1,71 @@
+{
+ "id": "ced112-irs4",
+ "name": "CED 112 IRS 4",
+ "alt_names": [
+  "Sz 32",
+  "V* FM Cha",
+  "HBC 579",
+  "Ass Cha T 1-23",
+  "ISO-ChaI 223"
+ ],
+ "simbad": "NAME CED 112 IRS 4",
+ "ra_deg": 167.47257877955,
+ "dec_deg": -76.57379240031,
+ "dist_pc": 192.6,
+ "sptype": "G9IIIe",
+ "region": "Chamaeleon I",
+ "categories": [
+  "protoplanetary"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "image_id": "ced112-irs4_wfpc2-f656n-2009",
+   "type": "disk_scattered",
+   "facility": "HST",
+   "instrument": "WFPC2",
+   "wavelength_um": 0.656,
+   "wavelength_label": "F656N Halpha 0.656 um (HH 914 eastward knot)",
+   "technique": "emission-line imaging (jet)",
+   "survey": null,
+   "file": "images/ced112-irs4/ced112-irs4_wfpc2-f656n-2009.png",
+   "credit": "Robberto et al. 2012, Fig. 8 (crop)",
+   "note": "",
+   "paper": {
+    "first_author": "Robberto",
+    "year": 2012,
+    "title": "An HST Imaging Survey of Low-mass Stars in the Chamaeleon I Star-forming Region",
+    "journal": "AJ 144, 83",
+    "arxiv": "1205.2727",
+    "bibcode": "2012AJ....144...83R"
+   },
+   "epoch": "2009"
+  },
+  {
+   "image_id": "ced112-irs4_wfpc2-f631n-2009",
+   "type": "disk_scattered",
+   "facility": "HST",
+   "instrument": "WFPC2",
+   "wavelength_um": 0.631,
+   "wavelength_label": "F631N [OI] 0.631 um (HH 914 eastward feature)",
+   "technique": "emission-line imaging (jet)",
+   "survey": null,
+   "file": "images/ced112-irs4/ced112-irs4_wfpc2-f631n-2009.png",
+   "credit": "Robberto et al. 2012, Fig. 8 (crop)",
+   "note": "",
+   "paper": {
+    "first_author": "Robberto",
+    "year": 2012,
+    "title": "An HST Imaging Survey of Low-mass Stars in the Chamaeleon I Star-forming Region",
+    "journal": "AJ 144, 83",
+    "arxiv": "1205.2727",
+    "bibcode": "2012AJ....144...83R"
+   },
+   "epoch": "2009"
+  }
+ ],
+ "notes": "Young star (= FM Cha) in Chamaeleon I driving the HH 914 flow; HST/WFPC2 Halpha/[OI] resolve an eastward HH knot ~0.30\" (47 au) from the star (Robberto et al. 2012).",
+ "last_updated": "2026-07-11",
+ "plx_mas": 5.1929,
+ "mags": {}
+}

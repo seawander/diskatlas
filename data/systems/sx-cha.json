@@ -1,0 +1,52 @@
+{
+ "id": "sx-cha",
+ "name": "SX Cha",
+ "alt_names": [
+  "V* SX Cha",
+  "Sz 2",
+  "Ass Cha T 2-3",
+  "HBC 564"
+ ],
+ "simbad": "V* SX Cha",
+ "ra_deg": 163.99917499999998,
+ "dec_deg": -77.4111459,
+ "dist_pc": 190.0,
+ "sptype": "M1.5+M3",
+ "region": "Chamaeleon I",
+ "categories": [
+  "protoplanetary"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "image_id": "sx-cha_wfpc2-f673n-2009",
+   "type": "disk_scattered",
+   "facility": "HST",
+   "instrument": "WFPC2",
+   "wavelength_um": 0.673,
+   "wavelength_label": "F673N [SII] 0.673 um (resolved binary; [SII] jet protuberance)",
+   "technique": "emission-line imaging (jet)",
+   "survey": null,
+   "file": "images/sx-cha/sx-cha_wfpc2-f673n-2009.png",
+   "credit": "Robberto et al. 2012, Fig. 2 (crop)",
+   "note": "",
+   "paper": {
+    "first_author": "Robberto",
+    "year": 2012,
+    "title": "An HST Imaging Survey of Low-mass Stars in the Chamaeleon I Star-forming Region",
+    "journal": "AJ 144, 83",
+    "arxiv": "1205.2727",
+    "bibcode": "2012AJ....144...83R"
+   },
+   "epoch": "2009"
+  }
+ ],
+ "notes": "M-dwarf T Tauri binary (M1.5+M3) in Chamaeleon I (~2.2\"/350 au wide pair). HST/WFPC2 [SII] shows a collimated jet protuberance on the primary's W side (Robberto et al. 2012).",
+ "last_updated": "2026-07-11",
+ "plx_mas": null,
+ "mags": {
+  "V": 14.57,
+  "H": 9.832,
+  "K": 8.685
+ }
+}
