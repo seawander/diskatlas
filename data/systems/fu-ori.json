@@ -11,7 +11,21 @@
  "categories": [
   "protoplanetary"
  ],
- "planets": [],
+ "planets": [
+  {
+   "name": "S",
+   "status": "confirmed",
+   "method": "imaging",
+   "note": "FU Ori S — near-IR companion ~0.5\" (~230 au) south of FU Ori N; a heavily-reddened (A_V~8-12) young star (~late-G/K), possibly the more massive component. Discovered by Wang et al. 2004; AO-imaged by Reipurth & Aspin 2004 (Subaru/IRCS K'); confirmed a physical common-proper-motion binary by Pueyo et al. 2012 (Palomar/P1640 J/H).",
+   "paper": {
+    "first_author": "Reipurth",
+    "year": 2004,
+    "arxiv": null,
+    "bibcode": "2004ApJ...608L..65R",
+    "journal": "ApJL 608, L65"
+   }
+  }
+ ],
  "images": [
   {
    "type": "disk_scattered",
@@ -117,6 +131,94 @@
     "title": "The SPHERE view of three interacting twin disc systems in polarised light"
    },
    "epoch": "2016-2017"
+  },
+  {
+   "image_id": "fu-ori_p1640-j-2009",
+   "type": "planet",
+   "facility": "Palomar",
+   "instrument": "P1640",
+   "wavelength_um": 1.24,
+   "wavelength_label": "J band 1.24 um (reduced; FU Ori S companion, N behind mask)",
+   "technique": "coronagraphy",
+   "survey": null,
+   "file": "images/fu-ori/fu-ori_p1640-j-2009.png",
+   "credit": "Pueyo et al. 2012, Fig. 1 (reduced J; crop)",
+   "note": "",
+   "paper": {
+    "first_author": "Pueyo",
+    "year": 2012,
+    "title": "Constraining Mass Ratio and Extinction in the FU Orionis Binary System with Infrared Interferometry",
+    "journal": "ApJ 757, 57",
+    "arxiv": "1211.6741",
+    "bibcode": "2012ApJ...757...57P"
+   },
+   "epoch": "2009-03-17"
+  },
+  {
+   "image_id": "fu-ori_p1640-h-2009",
+   "type": "planet",
+   "facility": "Palomar",
+   "instrument": "P1640",
+   "wavelength_um": 1.65,
+   "wavelength_label": "H band 1.65 um (reduced; FU Ori S companion detected)",
+   "technique": "coronagraphy",
+   "survey": null,
+   "file": "images/fu-ori/fu-ori_p1640-h-2009.png",
+   "credit": "Pueyo et al. 2012, Fig. 1 (reduced H; crop)",
+   "note": "",
+   "paper": {
+    "first_author": "Pueyo",
+    "year": 2012,
+    "title": "Constraining Mass Ratio and Extinction in the FU Orionis Binary System with Infrared Interferometry",
+    "journal": "ApJ 757, 57",
+    "arxiv": "1211.6741",
+    "bibcode": "2012ApJ...757...57P"
+   },
+   "epoch": "2009-03-17"
+  },
+  {
+   "image_id": "fu-ori_ircs-k-selfcal-2003",
+   "type": "planet",
+   "facility": "Subaru",
+   "instrument": "IRCS",
+   "wavelength_um": 2.12,
+   "wavelength_label": "K' 2.12 um (self-calibrated AO PSF; FU Ori S)",
+   "technique": "PSF subtraction",
+   "survey": null,
+   "file": "images/fu-ori/fu-ori_ircs-k-selfcal-2003.png",
+   "credit": "Pueyo et al. 2012, Fig. 6 right (reprocessing of Reipurth & Aspin 2004 Subaru/IRCS data; crop)",
+   "note": "",
+   "paper": {
+    "first_author": "Pueyo",
+    "year": 2012,
+    "title": "Constraining Mass Ratio and Extinction in the FU Orionis Binary System with Infrared Interferometry",
+    "journal": "ApJ 757, 57",
+    "arxiv": "1211.6741",
+    "bibcode": "2012ApJ...757...57P"
+   },
+   "epoch": "2003-12-15"
+  },
+  {
+   "image_id": "fu-ori_ircs-k-reipurth-2003",
+   "type": "planet",
+   "facility": "Subaru",
+   "instrument": "IRCS",
+   "wavelength_um": 2.12,
+   "wavelength_label": "K' 2.12 um (AO; FU Ori partly self-subtracted, S companion 0.5\" S)",
+   "technique": "PSF subtraction",
+   "survey": null,
+   "file": "images/fu-ori/fu-ori_ircs-k-reipurth-2003.png",
+   "credit": "Reipurth & Aspin 2004, Fig. 1 (crop)",
+   "note": "",
+   "paper": {
+    "first_author": "Reipurth",
+    "year": 2004,
+    "title": "The FU Orionis Binary System and the Formation of Close Binaries",
+    "journal": "ApJL 608, L65",
+    "arxiv": null,
+    "bibcode": "2004ApJ...608L..65R"
+   },
+   "epoch": "2003-12-15"
   }
  ],
  "notes": null,

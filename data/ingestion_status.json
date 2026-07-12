@@ -1,6 +1,6 @@
 {
  "_doc": "Per-survey ingestion state. entries/coords/images: done|partial|todo. Update on every ingest.",
- "updated": "2026-07-11: CT Cha b multi-coverage (user-directed, corrects earlier 'stays single'). +5 detections: Magellan MagAO/VisAO r'/i'/z'/Y_S optical (Wu 2015, 1501.01396, Fig 1 bottom row, 2013-04-06) + JWST/MIRI MRS SCC detection of its carbon-rich CPD (Cugno 2025, 2509.15209 = 2025ApJ...991L..46C, 2022-08-15). CT Cha b now spans NACO NIR + MagAO optical + JWST mid-IR (6 planet images). 520 systems, 2151 image records.",
+ "updated": "2026-07-11: FU Ori binary companion FU Ori S (user-directed). +4 detections of the ~0.5\" (~230 au) infrared companion: Palomar/P1640 reduced J (1.24) + H (1.65 um) coronagraphic images (Pueyo 2012, 1211.6741, Fig 1 bottom, 2009-03-17) + Subaru/IRCS K' 2.12 um AO images (Reipurth & Aspin 2004, 2004ApJ...608L..65R Fig 1 discovery, 2003-12-15; plus Pueyo 2012 Fig 6 self-calibrated reprocessing of the same IRCS data). Added FU Ori S to planets[]. 520 systems, 2155 image records.",
  "surveys": {
   "DSHARP": {
    "entries": "done",

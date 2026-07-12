@@ -403,3 +403,16 @@ NACO NIR (Schmidt 2008) + MagAO optical (Wu 2015) + JWST mid-IR (Cugno 2025).
 LESSON: a "no follow-up image" negative from a narrow 2-3 paper agent check is
 unreliable - run the full ADS abs:+imaging sweep before concluding single. 520
 systems, 2151 image records, 0 errors / 0 warnings.
+
+2026-07-11 (FU Ori binary companion, user-directed). FU Ori held only disk images;
+added the infrared companion FU Ori S (~0.5"/~230 au S of FU Ori N, a reddened
+A_V~8-12 ~late-G/K young star, possibly the more massive component). +4 detection
+panels: Pueyo et al. 2012 (arXiv 1211.6741 = 2012ApJ...757...57P) Fig 1 bottom row =
+Palomar/P1640 damped-LOCI coronagraphic REDUCED J (1.24) + H (1.65 um) images
+(FU Ori N behind the mask, S arrowed), obs 2009-03-17; and Subaru/IRCS AO K' 2.12 um
+of the 2003-12-15 epoch in two reductions kept per cross-paper policy - Reipurth &
+Aspin 2004 (2004ApJ...608L..65R, non-arXiv, pulled via ADS PUB_PDF gateway) Fig 1
+discovery image (FU Ori 180deg-rotation self-subtracted, S 0.5" S) + Pueyo 2012
+Fig 6 right self-calibrated-PSF reprocessing of the same IRCS data. Added FU Ori S
+to planets[] (validate requires a planets entry when planet-typed images exist);
+planet_hosts 87->88. 520 systems, 2155 image records, 0 errors / 0 warnings.
