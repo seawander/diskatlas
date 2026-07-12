@@ -82,27 +82,48 @@ def cmd_alma(args):
     from astroquery.alma import Alma
     recs = missing_records(lambda im: "ALMA" in (im.get("facility") or ""))
     print(f"ALMA records missing epoch: {len(recs)}", file=sys.stderr)
-    # one cone query per system
+    # one cone query per system. The queries are pure I/O wait on the TAP
+    # service, so they run CONCURRENTLY (6 workers is polite to the archive
+    # and turns the ~35-min serial sweep into a few minutes); the matching
+    # logic below stays serial and unchanged.
     by_sys = defaultdict(list)
     for f, i, d, im in recs:
         by_sys[d["id"]].append((f, i, d, im))
-    out = {}
-    for n, (sid, items) in enumerate(sorted(by_sys.items()), 1):
+
+    def fetch_obs(sid_items):
+        sid, items = sid_items
         d = items[0][2]
         ra, dec = d.get("ra_deg"), d.get("dec_deg")
         if ra is None:
+            return sid, None
+        q = (f"SELECT proposal_id, band_list, t_min, t_max, target_name "
+             f"FROM ivoa.obscore WHERE science_observation='T' AND "
+             f"CONTAINS(POINT('ICRS',s_ra,s_dec),CIRCLE('ICRS',{ra},{dec},0.005))=1")
+        for attempt in (1, 2):
+            try:
+                rows = Alma.query_tap(q).to_table()
+                return sid, [(str(r["proposal_id"]), str(r["band_list"]),
+                              float(r["t_min"])) for r in rows]
+            except Exception as e:
+                if attempt == 2:
+                    print(f"  ERR {sid}: {e}", file=sys.stderr)
+                    return sid, None
+                time.sleep(2)
+
+    from concurrent.futures import ThreadPoolExecutor
+    obs_by_sys = {}
+    with ThreadPoolExecutor(max_workers=6) as pool_ex:
+        for n, (sid, obs) in enumerate(
+                pool_ex.map(fetch_obs, sorted(by_sys.items())), 1):
+            obs_by_sys[sid] = obs
+            if n % 15 == 0:
+                print(f"  [fetched {n}/{len(by_sys)}]", file=sys.stderr)
+
+    out = {}
+    for n, (sid, items) in enumerate(sorted(by_sys.items()), 1):
+        obs = obs_by_sys.get(sid)
+        if obs is None:
             continue
-        try:
-            q = (f"SELECT proposal_id, band_list, t_min, t_max, target_name "
-                 f"FROM ivoa.obscore WHERE science_observation='T' AND "
-                 f"CONTAINS(POINT('ICRS',s_ra,s_dec),CIRCLE('ICRS',{ra},{dec},0.005))=1")
-            rows = Alma.query_tap(q).to_table()
-        except Exception as e:
-            print(f"  ERR {sid}: {e}", file=sys.stderr)
-            time.sleep(2)
-            continue
-        obs = [(str(r["proposal_id"]), str(r["band_list"]), float(r["t_min"]))
-               for r in rows]
         for f, i, dd, im in items:
             wl = im.get("wavelength_um") or 0
             want_bands = {b for b, (lo, hi) in BANDS.items() if lo <= wl <= hi}
@@ -137,7 +158,6 @@ def cmd_alma(args):
                     system=sid, instrument=im.get("instrument"), src="alma")
         if n % 15 == 0:
             print(f"  [{n}/{len(by_sys)}] candidates so far: {len(out)}", file=sys.stderr)
-        time.sleep(0.4)
     Path(args.json).write_text(json.dumps(out, indent=1, ensure_ascii=False))
     from collections import Counter
     print(f"ALMA candidates: {len(out)} {Counter(v['tier'] for v in out.values())}")
