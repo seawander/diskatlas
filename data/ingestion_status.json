@@ -1,6 +1,6 @@
 {
  "_doc": "Per-survey ingestion state. entries/coords/images: done|partial|todo. Update on every ingest.",
- "updated": "2026-07-11: Exploration round agent 3/4 - MAPS line-emission maps INGESTED (clears 2nd 'STILL OPEN' item). +35 records = 5 disks (IM Lup, GM Aur, AS 209, HD 163296, MWC 480) x 7 tracers (12CO/13CO/C18O 2-1, C2H 3-2, HCN 3-2 [Band 6]; HCO+ 1-0, CS 2-1 [Band 3]) zeroth-moment maps from Law et al. 2021 MAPS III (2109.06210 = 2021ApJS..257....3L), survey=MAPS, epoch 2018-2019. Kept the best-displayed transition per molecule; skipped minor tracers + same-program duplicate galleries (MAPS I Fig 6, appendix per-disk re-arrangements). Still running: AGE-PRO Oph/USco, pre-ALMA classics. 515 systems, 2216 records.",
+ "updated": "2026-07-11: Bibcode audit fix - v1788-ori (HD 37411) companions B/C: first_author corrected Tokovinin -> Thomas; ADS confirms 2007IAUS..240..250T = Thomas et al., 'Multiplicity of Herbig Ae/Be Stars' (cited by Valegard 2024). export_bibtex.py now reports 0 verification problems.",
  "surveys": {
   "DSHARP": {
    "entries": "done",

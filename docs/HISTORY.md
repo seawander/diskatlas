@@ -576,3 +576,15 @@ every frontend asset URL with the commit SHA at artifact-build time
 (cache-busting; repo copy stays clean for offline file:// use), so a Pages
 visitor can never mix a cached app.js with a fresh data.js inside the 10-min
 HTTP cache window. frontend/README rows added for all of the above.
+
+## 2026-07-11 — bibcode verification fix (v1788-ori)
+
+export_bibtex.py flagged a first-author mismatch on 2007IAUS..240..250T
+(record said "Tokovinin", ADS says "Thomas"). ADS check: that bibcode is
+Thomas et al. 2007, "Multiplicity of Herbig Ae/Be Stars" (IAU Symp. 240,
+p. 250) — the right paper for the HD 37411 (Herbig Ae/Be) triple, and the
+one Valegard et al. 2024 (2024A&A...685A..54V) cites for the companions.
+Tokovinin's only IAUS 240 contribution is p. 306 (tidal dissipation),
+unrelated. Fixed first_author -> "Thomas" on planets B and C in
+data/systems/v1788-ori.json; bibcode kept. validate/build clean;
+export_bibtex.py re-run: 0 verification problems.
