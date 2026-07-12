@@ -13,6 +13,7 @@ Nothing here is loaded by the site at runtime — these are developer/CI tools.
 | `check_data_sync.py` | Fails if `frontend/data.js` is out of sync with `data/systems/*.json` (someone edited a record without re-running `build.py`, or hand-edited `data.js`). Compares only the deterministic, data-derived parts — ignores the `generated` timestamp and the paper-count stats that depend on the gitignored `candidates.json`. Side-effect-free (restores `data.js`). | Python 3, stdlib only |
 | `check_images.py` | Fails if any non-null image `file` referenced by `data.js` is missing on disk or over the ≤640 px hard cap; warns on crops over ~300 KB. Gates the *deployed* image contract (no broken `<img>` on the live site). | Python 3, stdlib only |
 | `check_i18n.js` | Fails if any of the 12 UI languages is missing a key present in `en` (keeps `i18n.js` complete). Reports the missing keys per language. | Node (no deps) |
+| `check_all.sh` | One-shot runner for all of the above + the frontend logic tests — mirrors CI locally (~0.3 s; node steps skipped with a warning if node is absent). Intended as a `.git/hooks/pre-push` hook on the shared checkout so neither track can push a commit CI would reject: `printf '#!/usr/bin/env bash\nexec bash backend-infra/check_all.sh\n' > .git/hooks/pre-push && chmod +x .git/hooks/pre-push` | bash |
 
 ## Running locally
 

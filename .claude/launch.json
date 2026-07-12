@@ -13,13 +13,13 @@
     },
     {
       "name": "atlas",
-      "runtimeExecutable": "python3",
+      "runtimeExecutable": "bash",
       "runtimeArgs": [
-        "-m",
-        "http.server",
-        "8123"
+        "-c",
+        "python3 -m http.server ${PORT:-8123}"
       ],
-      "port": 8123
+      "port": 8123,
+      "autoPort": true
     }
   ]
 }
