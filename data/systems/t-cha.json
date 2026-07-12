@@ -78,6 +78,138 @@
     "bibcode": "2026arXiv260530023K"
    },
    "epoch": null
+  },
+  {
+   "image_id": "t-cha_naco-sam-lp-2010",
+   "type": "disk_scattered",
+   "facility": "VLT-NACO",
+   "instrument": "NACO/SAM",
+   "wavelength_um": 3.8,
+   "wavelength_label": "L' 3.8 um (SAM/MEM reconstruction; disc scattered-light structure, NOT a companion)",
+   "technique": "sparse aperture masking (SAM); maximum-entropy reconstruction",
+   "survey": null,
+   "file": "images/t-cha/t-cha_naco-sam-lp-2010.png",
+   "credit": "Cheetham et al. 2015, Fig. 2 (crop)",
+   "note": "",
+   "paper": {
+    "first_author": "Cheetham",
+    "year": 2015,
+    "title": "Near-IR imaging of T Cha: evidence for scattered-light disc structures at Solar system scales",
+    "journal": "MNRAS 450, L1",
+    "arxiv": "1502.05084",
+    "bibcode": "2015MNRAS.450L...1C"
+   },
+   "epoch": "2010-03-14"
+  },
+  {
+   "image_id": "t-cha_naco-sam-lp-2011",
+   "type": "disk_scattered",
+   "facility": "VLT-NACO",
+   "instrument": "NACO/SAM",
+   "wavelength_um": 3.8,
+   "wavelength_label": "L' 3.8 um (SAM/MEM reconstruction; disc scattered-light structure, NOT a companion)",
+   "technique": "sparse aperture masking (SAM); maximum-entropy reconstruction",
+   "survey": null,
+   "file": "images/t-cha/t-cha_naco-sam-lp-2011.png",
+   "credit": "Cheetham et al. 2015, Fig. 2 (crop)",
+   "note": "",
+   "paper": {
+    "first_author": "Cheetham",
+    "year": 2015,
+    "title": "Near-IR imaging of T Cha: evidence for scattered-light disc structures at Solar system scales",
+    "journal": "MNRAS 450, L1",
+    "arxiv": "1502.05084",
+    "bibcode": "2015MNRAS.450L...1C"
+   },
+   "epoch": "2011-03-14"
+  },
+  {
+   "image_id": "t-cha_naco-sam-lp-2012",
+   "type": "disk_scattered",
+   "facility": "VLT-NACO",
+   "instrument": "NACO/SAM",
+   "wavelength_um": 3.8,
+   "wavelength_label": "L' 3.8 um (SAM/MEM reconstruction; disc scattered-light structure, NOT a companion)",
+   "technique": "sparse aperture masking (SAM); maximum-entropy reconstruction",
+   "survey": null,
+   "file": "images/t-cha/t-cha_naco-sam-lp-2012.png",
+   "credit": "Cheetham et al. 2015, Fig. 2 (crop)",
+   "note": "",
+   "paper": {
+    "first_author": "Cheetham",
+    "year": 2015,
+    "title": "Near-IR imaging of T Cha: evidence for scattered-light disc structures at Solar system scales",
+    "journal": "MNRAS 450, L1",
+    "arxiv": "1502.05084",
+    "bibcode": "2015MNRAS.450L...1C"
+   },
+   "epoch": "2012-03-08"
+  },
+  {
+   "image_id": "t-cha_naco-sam-lp-2013",
+   "type": "disk_scattered",
+   "facility": "VLT-NACO",
+   "instrument": "NACO/SAM",
+   "wavelength_um": 3.8,
+   "wavelength_label": "L' 3.8 um (SAM/MEM reconstruction; disc scattered-light structure, NOT a companion)",
+   "technique": "sparse aperture masking (SAM); maximum-entropy reconstruction",
+   "survey": null,
+   "file": "images/t-cha/t-cha_naco-sam-lp-2013.png",
+   "credit": "Cheetham et al. 2015, Fig. 2 (crop)",
+   "note": "",
+   "paper": {
+    "first_author": "Cheetham",
+    "year": 2015,
+    "title": "Near-IR imaging of T Cha: evidence for scattered-light disc structures at Solar system scales",
+    "journal": "MNRAS 450, L1",
+    "arxiv": "1502.05084",
+    "bibcode": "2015MNRAS.450L...1C"
+   },
+   "epoch": "2013-03-25"
+  },
+  {
+   "image_id": "t-cha_naco-sam-ks-2011",
+   "type": "disk_scattered",
+   "facility": "VLT-NACO",
+   "instrument": "NACO/SAM",
+   "wavelength_um": 2.18,
+   "wavelength_label": "Ks 2.18 um (SAM/MEM reconstruction; disc scattered-light structure, NOT a companion)",
+   "technique": "sparse aperture masking (SAM); maximum-entropy reconstruction",
+   "survey": null,
+   "file": "images/t-cha/t-cha_naco-sam-ks-2011.png",
+   "credit": "Cheetham et al. 2015, Fig. 2 (crop)",
+   "note": "",
+   "paper": {
+    "first_author": "Cheetham",
+    "year": 2015,
+    "title": "Near-IR imaging of T Cha: evidence for scattered-light disc structures at Solar system scales",
+    "journal": "MNRAS 450, L1",
+    "arxiv": "1502.05084",
+    "bibcode": "2015MNRAS.450L...1C"
+   },
+   "epoch": "2011-03-15"
+  },
+  {
+   "image_id": "t-cha_naco-sam-ks-2013",
+   "type": "disk_scattered",
+   "facility": "VLT-NACO",
+   "instrument": "NACO/SAM",
+   "wavelength_um": 2.18,
+   "wavelength_label": "Ks 2.18 um (SAM/MEM reconstruction; disc scattered-light structure, NOT a companion)",
+   "technique": "sparse aperture masking (SAM); maximum-entropy reconstruction",
+   "survey": null,
+   "file": "images/t-cha/t-cha_naco-sam-ks-2013.png",
+   "credit": "Cheetham et al. 2015, Fig. 2 (crop)",
+   "note": "",
+   "paper": {
+    "first_author": "Cheetham",
+    "year": 2015,
+    "title": "Near-IR imaging of T Cha: evidence for scattered-light disc structures at Solar system scales",
+    "journal": "MNRAS 450, L1",
+    "arxiv": "1502.05084",
+    "bibcode": "2015MNRAS.450L...1C"
+   },
+   "epoch": "2013-03-26"
   }
  ],
  "notes": "Transition disk with a large gap (~30 au); highly inclined (~69 deg) with east-west scattered-light asymmetry. A point source at 3.5\" from the star (Pohl et al. 2017) was found NOT to be co-moving, ruling it out as a bound companion; no companion candidate with mass >~8.5 Mjup found between 0.1-0.3\".",

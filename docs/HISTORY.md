@@ -437,3 +437,14 @@ harvest the broader Robberto et al. 2012 (arXiv 1205.2727 = 2012AJ....144...83R,
 F656N[Ha]/F673N[SII], GO 11983) jet+disk atlas, Figs 2-11 (SX Cha, CT Cha, HH 48,
 WW Cha, Ass Cha T 2-16, CED 112 IRS 4, ...) - results pending. 520 systems, 2156
 image records, 0 errors / 0 warnings.
+
+2026-07-11 (T Cha NACO/SAM, user-directed). +6 VLT-NACO Sparse Aperture Masking
+maximum-entropy image reconstructions of T Cha (Cheetham et al. 2015, arXiv
+1502.05084 = 2015MNRAS.450L...1C, "Near-IR imaging of T Cha: evidence for
+scattered-light disc structures at Solar system scales", Fig 2, 2x3 panels): L'
+3.8um at 2010-03-14 / 2011-03-14 / 2012-03-08 / 2013-03-25, and Ks 2.18um at
+2011-03-15 / 2013-03-26 (obs dates from the log table; H-band 2013-03-27 not in
+Fig 2). Typed disk_scattered and labelled explicitly as DISC scattered-light
+structure (the paper shows the NW+E "two point source" SAM signals are forward-
+scattering from the highly-inclined disc, NOT the previously-claimed companion;
+user flagged this). t-cha 3->9 images. 520 systems, 2162 image records, 0 errors.
