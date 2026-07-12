@@ -35,6 +35,11 @@ def main():
             p.pop("_verify", None)
             im["fac_keys"] = fac_keys(im.get("facility"), im.get("instrument"))
             im["instr_key"] = instr_key(im.get("facility"), im.get("instrument"))
+            # never emit a null/empty epoch: a record without a recovered
+            # observation date carries NO epoch key (so key-presence == a real
+            # date, and the recovered-vs-pub-year split can't be inflated)
+            if not (im.get("epoch") or "").strip():
+                im.pop("epoch", None)
         systems.append(s)
 
     if audit_fail:
@@ -49,6 +54,10 @@ def main():
     n_file = sum(1 for s in systems for im in s.get("images", []) if im.get("file"))
     n_planet = sum(1 for s in systems
                    if any(p.get("status") != "refuted" for p in s.get("planets", [])))
+    # recovered observation epochs = records with a NON-EMPTY epoch (a null/empty
+    # epoch is not a recovered date and must not be counted as one)
+    n_epoch = sum(1 for s in systems for im in s.get("images", [])
+                  if (im.get("epoch") or "").strip())
 
     # literature-exploration progress (three ledgers -> one bar in the frontend)
     atlas_ids = set()
@@ -71,6 +80,7 @@ def main():
                    "papers_in_atlas": len(atlas_ids)}
     stats = {"systems": len(systems), "with_coords": n_coord,
              "image_records": n_img, "with_local_image": n_file,
+             "epochs_recovered": n_epoch,
              "planet_hosts": n_planet, **paper_stats}
 
     payload = {"generated": datetime.datetime.now().isoformat(timespec="seconds"),
