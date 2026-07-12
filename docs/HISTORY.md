@@ -688,3 +688,19 @@ visit exists). AGE-PRO per-target spans left as-is (deliberate archival+LP
 combinations). validate.py now enforces epoch sanity permanently: ISO forms
 only, years within 1980-2027, ordered spans, and epoch must not postdate
 the paper (all four negative-tested).
+
+## 2026-07-11 — facility facet keys aligned with AAS keywords
+
+facility_map.py brought in line with the paper's \facilities audit (Overleaf
+ms.tex 1c8ee62 + f007bcc, against the official AAS facility-keyword list):
+WHT -> ING:Herschel (ING 4.2m William Herschel Telescope, not the space
+observatory) and CMO-2.5m -> SAI-2.5m via new FAC_TABLE entries. Bug fix:
+'Gemini-GMOS/CFHT' (GU Psc b discovery, Naud et al. 2014) resolved its Gemini
+half to Gemini:Gillett; the paper's survey used GMOS-S on Gemini SOUTH
+(verified from the arXiv abstract), so the Gemini-South heuristic now also
+keys on 'gmos-s'. Deliberate display-level departures from the paper are now
+documented in the module docstring: the facet keeps one grouped 'VLT' chip
+(paper counts per unit telescope, VLT:Antu/Melipal/Yepun) and 'OVRO' stays
+short (no AAS keyword for the mm array; paper spells it out). Full-dataset
+diff: exactly 3 records changed fac_keys; chips 37 -> 37; validate 0/0;
+build census audits green.
