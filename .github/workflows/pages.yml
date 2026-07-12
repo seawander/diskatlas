@@ -1,15 +1,12 @@
 name: Deploy to GitHub Pages
 
-# CI-gated deploy of the static site to GitHub Pages.
-#
-# NOTE: this is currently manual (`workflow_dispatch`) because the repo's Pages
-# source is still "Deploy from a branch" (build_type: legacy), under which every
-# push to master auto-deploys and this workflow would only conflict. To make
-# this the live, CI-gated deploy path:
-#   1. Settings -> Pages -> Source: GitHub Actions
-#      (or: gh api -X POST repos/OWNER/REPO/pages -f build_type=workflow)
-#   2. Change the trigger below from `workflow_dispatch` to a push on master.
+# CI-gated deploy of the static site to GitHub Pages. This is the live deploy
+# path (repo Pages source = "GitHub Actions", build_type: workflow). Every push
+# to master re-runs the guards in `verify` and only publishes if they pass.
+# `workflow_dispatch` is kept so a deploy can also be triggered manually.
 on:
+  push:
+    branches: [master]
   workflow_dispatch:
 
 permissions:
