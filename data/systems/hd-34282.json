@@ -266,6 +266,28 @@
     "bibcode": "2026arXiv260530023K"
    },
    "epoch": null
+  },
+  {
+   "image_id": "hd-34282_nirc2-adi-quiroz22",
+   "type": "disk_scattered",
+   "facility": "Keck",
+   "instrument": "NIRC2 vortex",
+   "wavelength_um": 3.8,
+   "wavelength_label": "L' 3.8 um (KLIP/ADI reduction, 6 KL; single-armed disk)",
+   "technique": "ADI (KLIP, 6 components)",
+   "survey": null,
+   "file": "images/hd-34282/hd-34282_nirc2-adi-quiroz22.png",
+   "credit": "Quiroz et al. 2022, Fig. 1a (crop)",
+   "note": "",
+   "paper": {
+    "first_author": "Quiroz",
+    "year": 2022,
+    "title": "Improving Planet Detection with Disk Modeling: Keck/NIRC2 Imaging of the HD 34282 Single-armed Protoplanetary Disk",
+    "journal": "ApJL 924, L4",
+    "arxiv": "2111.12708",
+    "bibcode": "2022ApJ...924L...4Q"
+   },
+   "epoch": "2017-02-07"
   }
  ],
  "notes": null,

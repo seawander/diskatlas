@@ -480,3 +480,13 @@ j16140792. Renamed j16140792 -> V1098 Sco (its real name). Set valid resolvable
 simbad ids on the 3 that had bare-J placeholders (j16000236 -> UCAC3 96-205752;
 j16100501 -> 2MASS J16100501-2132318; j17110392 -> 2MASS J17110392-2722551; their
 coords were already correct). 522 systems, 2171 image records, 0 errors / 0 warnings.
+
+2026-07-11 (HD 34282, user-directed). Added ONLY panel (a) of Fig 1 of Quiroz et al.
+2022 (arXiv 2111.12708 = 2022ApJ...924L...4Q, "Improving Planet Detection with Disk
+Modeling: Keck/NIRC2 Imaging of the HD 34282 Single-armed Protoplanetary Disk"): the
+Keck/NIRC2 vortex L' 3.8um KLIP/ADI reduction (6 KL components) of the single-armed
+disk (ring + blob + spiral), obs UT 2017-02-07 (program C328, PI Ruane). This is the
+ORIGINAL-paper reduction of the same NIRC2 data the atlas already holds re-reduced by
+Wallack et al. 2024 (Fig 4) - both kept per cross-paper method-diversity policy.
+Panels (b)-(f) (SPHERE Qphi, contours, best-fit models, residuals) skipped per user
+instruction. hd-34282 12->13 images. 522 systems, 2172 image records, 0 errors.
