@@ -330,7 +330,6 @@ if (typeof window !== "undefined") (function () {
       else if (k === "v" && (v === "matrix" || v === "tonight")) out.view = v;
       else if (k === "cat") toks.forEach(c => { if (CAT_KEYS.indexOf(c) >= 0) filters[c] = false; });
       else if (k === "ph") filters.planethost = v === "1";
-      else if (k === "img") filters.hasimg = v === "1";
       else if (k === "b") toks.forEach(x => filters.bands.add(x));
       else if (k === "cont") toks.forEach(x => filters.content.add(x));
       else if (k === "miss") toks.forEach(x => filters.missing.add(x));
@@ -351,7 +350,6 @@ if (typeof window !== "undefined") (function () {
     const off = CAT_KEYS.filter(k => !filters[k]);
     if (off.length) parts.push("cat=" + off.join(","));
     if (filters.planethost) parts.push("ph=1");
-    if (filters.hasimg) parts.push("img=1");
     const setPart = (key, set) => {
       if (set.size) parts.push(key + "=" + [...set].map(encodeURIComponent).join(","));
     };
@@ -733,26 +731,33 @@ if (typeof window !== "undefined") (function () {
     ["quasar", "cat_quasar", "quasar"],
     ["evolved", "cat_evolved", "evolved"],
     ["planethost", "f_planethost", ""],
-    ["hasimg", "f_hasimg", ""],
+    /* "has local image" chip retired 2026-07-12: every record now carries a
+       local crop (2292/2292), so the filter selected everything; the
+       filterSystems() hasimg logic stays for API/test compatibility */
     ["constellations", "f_constellations", ""]
   ];
   const fbar = document.getElementById("filters");
+  /* Every category chip carries its map symbol (the same .mk icons the legend
+     and matrix use) so header row, legend, and sky markers cross-reference
+     each other; ★ marks the hosts-imaged-companion FILTER, and the two
+     easily-confused companion chips additionally explain themselves on hover.
+     Glyphs + tooltips sit OUTSIDE the translated label (inner data-i18n
+     span), so applyStaticI18n() can't wipe them on a language switch. */
+  const CHIP_GLYPH = {
+    proto: '<i class="mk proto"></i>', debris: '<i class="mk debris"></i>',
+    planetonly: '<i class="mk planetonly"></i>', quasar: '<i class="mk quasar"></i>',
+    evolved: '<i class="mk evolved"></i>', planethost: '<span class="mk-star">★</span>'
+  };
   for (const [key, i18nKey, cls] of FDEF) {
     const el = document.createElement("span");
     el.className = "chip " + cls + (filters[key] ? " on" : "");
-    if (key === "planetonly" || key === "planethost") {
-      /* The two companion chips are easy to confuse (a TYPE vs a cross-cutting
-         FILTER), so anchor each to its map symbol — ◆ marker shape vs ★
-         overlay, same glyphs the legend uses — and explain the difference on
-         hover. Glyph + tooltip sit OUTSIDE the translated label (inner
-         data-i18n span), so applyStaticI18n() can't wipe them on a language
-         switch. */
-      el.innerHTML = (key === "planetonly" ? '<i class="mk planetonly"></i>'
-                                           : '<span class="mk-star">★</span>') +
-        '<span data-i18n="' + i18nKey + '"></span>';
+    if (CHIP_GLYPH[key]) {
+      el.innerHTML = CHIP_GLYPH[key] + '<span data-i18n="' + i18nKey + '"></span>';
       el.querySelector("[data-i18n]").textContent = t(i18nKey);
-      el.dataset.i18nTitle = key === "planetonly" ? "tip_planetonly" : "tip_planethost";
-      el.title = t(el.dataset.i18nTitle);
+      if (key === "planetonly" || key === "planethost") {
+        el.dataset.i18nTitle = key === "planetonly" ? "tip_planetonly" : "tip_planethost";
+        el.title = t(el.dataset.i18nTitle);
+      }
     } else { el.dataset.i18n = i18nKey; el.textContent = t(i18nKey); }
     el.onclick = () => { filters[key] = !filters[key]; el.classList.toggle("on"); refilter(); };
     fbar.appendChild(el);
