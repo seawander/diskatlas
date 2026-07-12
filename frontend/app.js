@@ -165,6 +165,33 @@ function facShort(f) {
 function sysHasMm(s) { return (s.images || []).some(i => i.type === "disk_mm" && wlBand(i.wavelength_um) === "mm"); }
 function sysHasNir(s) { return (s.images || []).some(i => i.type === "disk_scattered"); }
 
+/* every distinct paper a system records (image credits + planet discoveries +
+   extra_papers), so the search box can answer "is paper X already in the
+   atlas, and where?" — memoized on the system object. */
+function sysPapers(s) {
+  if (s.__papers) return s.__papers;
+  const seen = new Set(), out = [];
+  const add = p => {
+    if (!p) return;
+    const k = (p.arxiv || p.bibcode || "") + "|" + (p.first_author || "") + "|" + (p.year || "");
+    if (k === "||" || seen.has(k)) return;
+    seen.add(k); out.push(p);
+  };
+  (s.images || []).forEach(i => add(i.paper));
+  (s.planets || []).forEach(pl => { add(pl.paper); (pl.extra_papers || []).forEach(add); });
+  return (s.__papers = out);
+}
+function paperTokens(p) { return [p.first_author, p.year, p.arxiv, p.bibcode].filter(Boolean).join(" ").toLowerCase(); }
+/* search haystack: system name/id/alt_names PLUS each recorded paper's
+   author/year/arXiv/bibcode (not titles — too noisy). Memoized. */
+function sysHay(s) {
+  if (s.__hay != null) return s.__hay;
+  const parts = [s.name, s.id, ...(s.alt_names || [])].filter(Boolean).map(x => String(x).toLowerCase());
+  return (s.__hay = parts.concat(sysPapers(s).map(paperTokens)).join(" "));
+}
+/* the recorded paper a query matched (for annotating a result row), or null */
+function matchedPaper(s, q) { return sysPapers(s).find(p => paperTokens(p).includes(q)) || null; }
+
 function filterSystems(systems, f, q) {
   q = (q || "").trim().toLowerCase();
   const facSet = f.facilities && f.facilities.size ? f.facilities : null;
@@ -217,10 +244,7 @@ function filterSystems(systems, f, q) {
       if (missSet.has("nir") && sysHasNir(s)) return false;
       if (missSet.has("planet") && sysHasImagedPlanet(s)) return false;
     }
-    if (q) {
-      const hay = [s.name, s.id, ...(s.alt_names || [])].join(" ").toLowerCase();
-      if (!hay.includes(q)) return false;
-    }
+    if (q && !sysHay(s).includes(q)) return false;   // name/id/alt OR a recorded paper's author/year/arXiv/bibcode
     return true;
   });
 }
@@ -791,13 +815,20 @@ if (typeof window !== "undefined") (function () {
     if (!q) { listEl.hidden = true; return; }
     const res = filterSystems(SYS, { proto: 1, debris: 1, planetonly: 1 }, q).slice(0, 30);
     listEl.innerHTML = res.length ? "" : '<div class="nores">no match</div>';
+    const ql = q.toLowerCase();
     for (const s of res) {
       const row = document.createElement("div");
       row.className = "row";
-      row.innerHTML = "<b>" + esc(s.name) + "</b><span class='meta'>" +
-        (s.categories || []).map(c => c[0]).join("+") +
-        ((s.images || []).some(i => i.file) ? " 🖼" : "") +
-        (sysHasPlanet(s) ? " ● pl" : "") + "</span>";
+      /* if the query matched a recorded paper (not the name), show that paper —
+         this is how a user confirms "paper X is already in the atlas, here" */
+      const nameHit = [s.name, s.id, ...(s.alt_names || [])].some(x => String(x).toLowerCase().includes(ql));
+      const pap = nameHit ? null : matchedPaper(s, ql);
+      const meta = pap
+        ? "📄 " + esc((pap.first_author || "?") + " " + (pap.year || ""))
+        : (s.categories || []).map(c => c[0]).join("+") +
+          ((s.images || []).some(i => i.file) ? " 🖼" : "") +
+          (sysHasPlanet(s) ? " ● pl" : "");
+      row.innerHTML = "<b>" + esc(s.name) + "</b><span class='meta'>" + meta + "</span>";
       row.onclick = () => { listEl.hidden = true; searchEl.value = s.name; goTo(s); };
       listEl.appendChild(row);
     }
