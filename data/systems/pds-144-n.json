@@ -34,7 +34,8 @@
     "arxiv": "2604.11247",
     "bibcode": "2026A&A...710A.140M"
    },
-   "epoch": "2023-06-07"
+   "epoch": "2023-06-07",
+   "content": "continuum"
   },
   {
    "image_id": "pds-144-n_nirc22006",
@@ -55,7 +56,8 @@
     "arxiv": "astro-ph/0603667",
     "bibcode": "2006ApJ...645.1272P"
    },
-   "epoch": "2004 Aug"
+   "epoch": "2004 Aug",
+   "content": "continuum"
   },
   {
    "image_id": "pds-144-n_acsstis2011",
@@ -76,7 +78,8 @@
     "bibcode": "2012ApJ...744...54H"
    },
    "file": "images/pds-144-n/pds-144-n_acsstis2011.png",
-   "epoch": "2010-2011"
+   "epoch": "2010-2011",
+   "content": "continuum"
   },
   {
    "image_id": "pds-144-n_nicmos-go11155-1um",
@@ -98,7 +101,8 @@
    },
    "file": "images/pds-144-n/pds-144-n_nicmos-go11155-1um.png",
    "hires_url": "https://www.stsci.edu/~mperrin/pdfs/poster_2009AAS_NICPOL_HAEBES.pdf",
-   "epoch": "2006-03-25"
+   "epoch": "2006-03-25",
+   "content": "continuum"
   },
   {
    "image_id": "pds-144-n_nicmos-go11155-pol2um",
@@ -120,7 +124,8 @@
    },
    "file": "images/pds-144-n/pds-144-n_nicmos-go11155-pol2um.png",
    "hires_url": "https://www.stsci.edu/~mperrin/pdfs/poster_2009AAS_NICPOL_HAEBES.pdf",
-   "epoch": "2006-2008"
+   "epoch": "2006-2008",
+   "content": "continuum"
   }
  ],
  "notes": "Added 2026-07-06 (Martinien+2026 ALMA highly-inclined disk). Coords pending SIMBAD. Coords set from literature (PDS 144 N Herbig Ae); SIMBAD 'PDS 144 N' did not resolve.",

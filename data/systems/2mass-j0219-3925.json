@@ -54,7 +54,8 @@
     "arxiv": "1505.01747",
     "bibcode": "2015ApJ...806..254A"
    },
-   "epoch": "2013 Nov 5"
+   "epoch": "2013 Nov 5",
+   "content": "continuum"
   },
   {
    "image_id": "2mass-j0219-3925_f2-j-2014",
@@ -75,7 +76,8 @@
     "arxiv": "1505.01747",
     "bibcode": "2015ApJ...806..254A"
    },
-   "epoch": "2014-09-04"
+   "epoch": "2014-09-04",
+   "content": "continuum"
   }
  ],
  "notes": null,

@@ -32,7 +32,8 @@
     "arxiv": "1906.10809",
     "bibcode": "2019ApJ...882...49L"
    },
-   "epoch": "2017-08-31"
+   "epoch": "2017-08-31",
+   "content": "continuum"
   },
   {
    "image_id": "hk-tau_alma-kurtovic26",
@@ -53,7 +54,8 @@
     "arxiv": "2605.30023",
     "bibcode": "2026arXiv260530023K"
    },
-   "epoch": null
+   "epoch": "2017-08-31",
+   "content": "continuum"
   }
  ],
  "notes": "Close binary (2.3 arcsec): the edge-on disk of the companion is a separate system, hk-tau-b (split 2026-07-07). This entry is the HK Tau A circumprimary disk, resolved with ALMA Band 6 (Long+2019).",

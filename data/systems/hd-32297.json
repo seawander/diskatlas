@@ -34,7 +34,8 @@
     "arxiv": "2501.09058",
     "bibcode": "2025A&A...693A.151M"
    },
-   "epoch": "2016-2017"
+   "epoch": "2016-2017",
+   "content": "continuum"
   },
   {
    "type": "disk_scattered",
@@ -55,7 +56,8 @@
     "arxiv": "2004.13722",
     "bibcode": "2020AJ....160...24E"
    },
-   "epoch": "2014-12-18"
+   "epoch": "2014-12-18",
+   "content": "continuum"
   },
   {
    "type": "disk_scattered",
@@ -76,7 +78,8 @@
    },
    "image_id": "hd-32297_stis2005",
    "file": "images/hd-32297/hd-32297_stis2005.png",
-   "epoch": "2005-02-24"
+   "epoch": "2005-02-24",
+   "content": "continuum"
   },
   {
    "type": "disk_scattered",
@@ -97,7 +100,8 @@
     "arxiv": "1406.7303",
     "bibcode": "2014AJ....148...59S"
    },
-   "epoch": "2010-2012"
+   "epoch": "2010-2012",
+   "content": "continuum"
   },
   {
    "type": "disk_mm",
@@ -118,7 +122,8 @@
     "arxiv": "2601.11708",
     "bibcode": "2026A&A...705A.195M"
    },
-   "epoch": "2023"
+   "epoch": "2023",
+   "content": "continuum"
   },
   {
    "type": "disk_scattered",
@@ -139,7 +144,8 @@
     "arxiv": "2302.04273",
     "bibcode": "2023A&A...672A.114R"
    },
-   "epoch": "2005-02-24"
+   "epoch": "2005-02-24",
+   "content": "continuum"
   },
   {
    "type": "disk_scattered",
@@ -160,7 +166,8 @@
     "arxiv": "2512.03128",
     "bibcode": "2025A&A...704A..21E"
    },
-   "epoch": "2016-12-16"
+   "epoch": "2016-12-16",
+   "content": "continuum"
   },
   {
    "type": "disk_scattered",
@@ -181,7 +188,8 @@
     "arxiv": "2302.04273",
     "bibcode": "2023A&A...672A.114R"
    },
-   "epoch": "2010-2012"
+   "epoch": "2010-2012",
+   "content": "continuum"
   },
   {
    "image_id": "hd-32297_alma2018",
@@ -202,7 +210,8 @@
     "arxiv": "1812.05610",
     "bibcode": "2018ApJ...869...75M"
    },
-   "epoch": "2016 Jan 1"
+   "epoch": "2016 Jan 1",
+   "content": "line"
   },
   {
    "image_id": "hd-32297_alice-f110w",
@@ -224,7 +233,8 @@
     "bibcode": "2018AJ....155..179H"
    },
    "hires_url": "https://archive.stsci.edu/prepds/alice/",
-   "epoch": "2005-02-24"
+   "epoch": "2005-02-24",
+   "content": "continuum"
   },
   {
    "image_id": "hd-32297_gpi-crotts24-j",
@@ -245,7 +255,8 @@
     "bibcode": "2024ApJ...961..245C"
    },
    "file": "images/hd-32297/hd-32297_gpi-crotts24-j.png",
-   "epoch": "2014-12-18"
+   "epoch": "2014-12-18",
+   "content": "continuum"
   },
   {
    "image_id": "hd-32297_gpi-crotts24-h",
@@ -266,7 +277,8 @@
     "bibcode": "2024ApJ...961..245C"
    },
    "file": "images/hd-32297/hd-32297_gpi-crotts24-h.png",
-   "epoch": "2014-12-18"
+   "epoch": "2014-12-18",
+   "content": "continuum"
   },
   {
    "image_id": "hd-32297_gpi-crotts24-k1",
@@ -287,7 +299,8 @@
     "bibcode": "2024ApJ...961..245C"
    },
    "file": "images/hd-32297/hd-32297_gpi-crotts24-k1.png",
-   "epoch": "2014-12-18"
+   "epoch": "2014-12-18",
+   "content": "continuum"
   },
   {
    "image_id": "hd-32297_lbti2014",
@@ -308,7 +321,8 @@
     "arxiv": "1401.3343",
     "bibcode": "2014ApJ...783...21R"
    },
-   "epoch": "2012 Nov 4"
+   "epoch": "2012 Nov 4",
+   "content": "continuum"
   },
   {
    "image_id": "hd-32297_gpi-hom24",
@@ -329,7 +343,8 @@
     "bibcode": "2024MNRAS.528.6959H"
    },
    "file": "images/hd-32297/hd-32297_gpi-hom24.png",
-   "epoch": "2014-12-18"
+   "epoch": "2014-12-18",
+   "content": "continuum"
   },
   {
    "image_id": "hd-32297_alma-co2019",
@@ -350,7 +365,8 @@
     "bibcode": "2019ApJ...884..108M"
    },
    "file": "images/hd-32297/hd-32297_alma-co2019.png",
-   "epoch": "2017"
+   "epoch": "2017",
+   "content": "line"
   },
   {
    "image_id": "hd-32297_hiciao-pdi2014",
@@ -371,7 +387,8 @@
     "bibcode": "2016A&A...593A..73A"
    },
    "file": "images/hd-32297/hd-32297_hiciao-pdi2014.png",
-   "epoch": "2014 Oct 10"
+   "epoch": "2014 Oct 10",
+   "content": "continuum"
   },
   {
    "image_id": "hd-32297_nirc2-2012",
@@ -392,7 +409,8 @@
     "bibcode": "2012ApJ...757...28C"
    },
    "file": "images/hd-32297/hd-32297_nirc2-2012.png",
-   "epoch": "2011 Nov 20"
+   "epoch": "2011 Nov 20",
+   "content": "continuum"
   },
   {
    "image_id": "hd-32297_carma2008",
@@ -412,7 +430,8 @@
     "arxiv": "0808.3582",
     "bibcode": "2008ApJ...686L..25M"
    },
-   "file": "images/hd-32297/hd-32297_carma2008.png"
+   "file": "images/hd-32297/hd-32297_carma2008.png",
+   "content": "continuum"
   },
   {
    "image_id": "hd-32297_olofsson22-jband",
@@ -434,7 +453,8 @@
     "arxiv": "2206.07068",
     "bibcode": "2022A&A...664A.122O"
    },
-   "epoch": "2016-12-16"
+   "epoch": "2016-12-16",
+   "content": "continuum"
   },
   {
    "image_id": "hd-32297_alma-band8",
@@ -456,7 +476,8 @@
     "arxiv": "2206.07068",
     "bibcode": "2022A&A...664A.122O"
    },
-   "epoch": "2018-05-22"
+   "epoch": "2018-05-22",
+   "content": "continuum"
   },
   {
    "image_id": "hd-32297_kalas05-uh",
@@ -478,7 +499,8 @@
     "arxiv": "astro-ph/0511244",
     "bibcode": "2005ApJ...635L.169K"
    },
-   "epoch": "2005-09-28"
+   "epoch": "2005-09-28",
+   "content": "continuum"
   },
   {
    "image_id": "hd-32297_naco-ks-loci-boccaletti12",
@@ -499,7 +521,8 @@
     "arxiv": "1206.6334",
     "bibcode": "2012A&A...544A..85B"
    },
-   "epoch": "2010-09-25"
+   "epoch": "2010-09-25",
+   "content": "continuum"
   },
   {
    "image_id": "hd-32297_naco-h-loci-boccaletti12",
@@ -520,7 +543,8 @@
     "arxiv": "1206.6334",
     "bibcode": "2012A&A...544A..85B"
    },
-   "epoch": "2010-09-25"
+   "epoch": "2010-09-25",
+   "content": "continuum"
   },
   {
    "image_id": "hd-32297_gpi-h-i-hom24",
@@ -542,7 +566,8 @@
     "arxiv": "2402.00214",
     "bibcode": "2024MNRAS.528.6959H"
    },
-   "epoch": "2016-12-20"
+   "epoch": "2016-12-20",
+   "content": "continuum"
   },
   {
    "image_id": "hd-32297_gpi-k1-i-hom24",
@@ -564,7 +589,8 @@
     "arxiv": "2402.00214",
     "bibcode": "2024MNRAS.528.6959H"
    },
-   "epoch": "2015-11-30"
+   "epoch": "2015-11-30",
+   "content": "continuum"
   }
  ],
  "notes": null,

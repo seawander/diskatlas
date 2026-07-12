@@ -32,7 +32,8 @@
     "arxiv": "2504.18725",
     "bibcode": "2025ApJ...984L...9C"
    },
-   "epoch": "2021-2022"
+   "epoch": "2021-2022",
+   "content": "continuum"
   },
   {
    "type": "disk_scattered",
@@ -53,7 +54,8 @@
     "arxiv": "2403.02149",
     "bibcode": "2024A&A...685A..52G"
    },
-   "epoch": "2017-05-16"
+   "epoch": "2017-05-16",
+   "content": "continuum"
   },
   {
    "image_id": "sy-cha_sphere-ks-qphi",
@@ -74,7 +76,8 @@
     "bibcode": "2023A&A...680A.114R"
    },
    "file": "images/sy-cha/sy-cha_sphere-ks-qphi.png",
-   "epoch": "2021-01-02"
+   "epoch": "2021-01-02",
+   "content": "continuum"
   },
   {
    "image_id": "sy-cha_exoalma-co",
@@ -95,7 +98,8 @@
     "bibcode": "2025ApJ...984L...6T"
    },
    "file": "images/sy-cha/sy-cha_exoalma-co.png",
-   "epoch": "2021-2022"
+   "epoch": "2021-2022",
+   "content": "line"
   },
   {
    "image_id": "sy-cha_alma-vioque26",
@@ -116,7 +120,8 @@
     "arxiv": "2512.00157",
     "bibcode": "2026A&A...705A.238V"
    },
-   "epoch": null
+   "epoch": "2019",
+   "content": "continuum"
   },
   {
    "image_id": "sy-cha_alma-kurtovic26",
@@ -137,7 +142,8 @@
     "arxiv": "2605.30023",
     "bibcode": "2026arXiv260530023K"
    },
-   "epoch": null
+   "epoch": "2019",
+   "content": "continuum"
   }
  ],
  "notes": null,

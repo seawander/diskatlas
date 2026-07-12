@@ -48,7 +48,8 @@
     "arxiv": "1812.04040",
     "bibcode": "2018ApJ...869L..41A"
    },
-   "epoch": "2014-2017"
+   "epoch": "2014-2017",
+   "content": "continuum"
   },
   {
    "type": "disk_scattered",
@@ -69,7 +70,8 @@
     "arxiv": "1803.10882",
     "bibcode": "2018ApJ...863...44A"
    },
-   "epoch": "2016-03-15"
+   "epoch": "2016-03-15",
+   "content": "continuum"
   },
   {
    "image_id": "as-209_sma2012",
@@ -90,7 +92,8 @@
     "arxiv": "1210.5252",
     "bibcode": "2012ApJ...760L..17P"
    },
-   "epoch": "2006 May"
+   "epoch": "2006 May",
+   "content": "continuum"
   },
   {
    "image_id": "as-209_alma-maps2021",
@@ -111,7 +114,8 @@
     "bibcode": "2021ApJS..257....1O"
    },
    "file": "images/as-209/as-209_alma-maps2021.png",
-   "epoch": "2018"
+   "epoch": "2018",
+   "content": "line"
   },
   {
    "image_id": "as-209_eris2025",
@@ -132,7 +136,8 @@
     "bibcode": "2025A&A...698A..52M"
    },
    "file": "images/as-209/as-209_eris2025.png",
-   "epoch": "2023 May 28"
+   "epoch": "2023 May 28",
+   "content": "continuum"
   },
   {
    "image_id": "as-209_alma_polarization",
@@ -153,7 +158,8 @@
     "bibcode": "2019ApJ...883...16M"
    },
    "file": "images/as-209/as-209_alma_polarization.png",
-   "epoch": "2018 May 16"
+   "epoch": "2018 May 16",
+   "content": "continuum"
   },
   {
    "image_id": "as-209_alma-vioque26",
@@ -174,7 +180,8 @@
     "arxiv": "2512.00157",
     "bibcode": "2026A&A...705A.238V"
    },
-   "epoch": null
+   "epoch": "2017-2019",
+   "content": "continuum"
   },
   {
    "image_id": "as-209_alma-kurtovic26",
@@ -195,7 +202,8 @@
     "arxiv": "2605.30023",
     "bibcode": "2026arXiv260530023K"
    },
-   "epoch": null
+   "epoch": "2016-2019",
+   "content": "continuum"
   },
   {
    "image_id": "as-209_maps-12co",
@@ -217,7 +225,8 @@
     "arxiv": "2109.06210",
     "bibcode": "2021ApJS..257....3L"
    },
-   "epoch": "2018-2019"
+   "epoch": "2018-2019",
+   "content": "line"
   },
   {
    "image_id": "as-209_maps-13co",
@@ -239,7 +248,8 @@
     "arxiv": "2109.06210",
     "bibcode": "2021ApJS..257....3L"
    },
-   "epoch": "2018-2019"
+   "epoch": "2018-2019",
+   "content": "line"
   },
   {
    "image_id": "as-209_maps-c18o",
@@ -261,7 +271,8 @@
     "arxiv": "2109.06210",
     "bibcode": "2021ApJS..257....3L"
    },
-   "epoch": "2018-2019"
+   "epoch": "2018-2019",
+   "content": "line"
   },
   {
    "image_id": "as-209_maps-c2h",
@@ -283,7 +294,8 @@
     "arxiv": "2109.06210",
     "bibcode": "2021ApJS..257....3L"
    },
-   "epoch": "2018-2019"
+   "epoch": "2018-2019",
+   "content": "line"
   },
   {
    "image_id": "as-209_maps-hcop",
@@ -305,7 +317,8 @@
     "arxiv": "2109.06210",
     "bibcode": "2021ApJS..257....3L"
    },
-   "epoch": "2018-2019"
+   "epoch": "2018-2019",
+   "content": "line"
   },
   {
    "image_id": "as-209_maps-cs",
@@ -327,7 +340,8 @@
     "arxiv": "2109.06210",
     "bibcode": "2021ApJS..257....3L"
    },
-   "epoch": "2018-2019"
+   "epoch": "2018-2019",
+   "content": "line"
   },
   {
    "image_id": "as-209_maps-hcn",
@@ -349,7 +363,8 @@
     "arxiv": "2109.06210",
     "bibcode": "2021ApJS..257....3L"
    },
-   "epoch": "2018-2019"
+   "epoch": "2018-2019",
+   "content": "line"
   },
   {
    "image_id": "as-209_sma880",
@@ -371,7 +386,8 @@
     "arxiv": "0906.0730",
     "bibcode": "2009ApJ...700.1502A"
    },
-   "epoch": "2006-2007"
+   "epoch": "2006-2007",
+   "content": "continuum"
   }
  ],
  "notes": null,

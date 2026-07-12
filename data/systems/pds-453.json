@@ -37,7 +37,8 @@
     "bibcode": "2024A&A...692A.111M"
    },
    "file": "images/pds-453/pds-453_sphere2018.png",
-   "epoch": "2018-06-22"
+   "epoch": "2018-06-22",
+   "content": "continuum"
   },
   {
    "image_id": "pds-453_nicmos-f110w",
@@ -58,7 +59,8 @@
     "bibcode": "2024A&A...692A.111M"
    },
    "file": "images/pds-453/pds-453_nicmos-f110w.png",
-   "epoch": "2008-05-28"
+   "epoch": "2008-05-28",
+   "content": "continuum"
   },
   {
    "image_id": "pds-453_nicmos-go11155-pol2um",
@@ -80,7 +82,8 @@
    },
    "file": "images/pds-453/pds-453_nicmos-go11155-pol2um.png",
    "hires_url": "https://www.stsci.edu/~mperrin/pdfs/poster_2009AAS_NICPOL_HAEBES.pdf",
-   "epoch": "2008-05-28"
+   "epoch": "2008-05-28",
+   "content": "continuum"
   }
  ],
  "last_updated": "2026-07-08"

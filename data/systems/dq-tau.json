@@ -32,7 +32,8 @@
     "arxiv": "1906.10809",
     "bibcode": "2019ApJ...882...49L"
    },
-   "epoch": "2017-08-18"
+   "epoch": "2017-08-18",
+   "content": "continuum"
   },
   {
    "type": "disk_scattered",
@@ -53,7 +54,8 @@
     "arxiv": "2403.02158",
     "bibcode": "2024A&A...685A..53G"
    },
-   "epoch": "2019-11-24"
+   "epoch": "2019-11-24",
+   "content": "continuum"
   },
   {
    "image_id": "dq-tau_alice-f110w",
@@ -75,7 +77,8 @@
     "bibcode": "2018AJ....155..179H"
    },
    "hires_url": "https://archive.stsci.edu/prepds/alice/",
-   "epoch": "2005-01-04"
+   "epoch": "2005-01-04",
+   "content": "continuum"
   }
  ],
  "notes": null,

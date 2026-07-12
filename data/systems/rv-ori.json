@@ -32,11 +32,12 @@
     "arxiv": "2403.02156",
     "bibcode": "2024A&A...685A..54V"
    },
-   "epoch": "2021-02-06"
+   "epoch": "2021-02-06",
+   "content": "continuum"
   }
  ],
- "notes": "AUTO-CREATED from staging - fill metadata & coords",
- "last_updated": "2026-07-06",
+ "notes": "K5 young star in Orion; the held SPHERE/IRDIS H-band polarized-intensity image from DESTINYS resolves a faint, smooth, highly inclined (i > 55 deg) disk (Valegard et al. 2024).",
+ "last_updated": "2026-07-11",
  "plx_mas": 2.4765,
  "mags": {
   "V": 13.9,

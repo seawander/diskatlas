@@ -34,7 +34,8 @@
    },
    "image_id": "oph-irs-48_alma2013",
    "file": "images/oph-irs-48/oph-irs-48_alma2013.png",
-   "epoch": "2012-06-06"
+   "epoch": "2012-06-06",
+   "content": "continuum"
   },
   {
    "image_id": "oph-irs-48_seeds",
@@ -55,7 +56,8 @@
     "arxiv": "1411.0671",
     "bibcode": "2015ApJ...798..132F"
    },
-   "epoch": "2013 May 19"
+   "epoch": "2013 May 19",
+   "content": "continuum"
   },
   {
    "image_id": "oph-irs-48_sma2012",
@@ -76,7 +78,8 @@
     "bibcode": "2012ApJ...758L..30B"
    },
    "file": "images/oph-irs-48/oph-irs-48_sma2012.png",
-   "epoch": "2011"
+   "epoch": "2011",
+   "content": "continuum"
   },
   {
    "image_id": "oph-irs-48_comics2018",
@@ -97,7 +100,8 @@
     "bibcode": "2018PASJ...70...44H"
    },
    "file": "images/oph-irs-48/oph-irs-48_comics2018.png",
-   "epoch": "2015 Apr 26"
+   "epoch": "2015 Apr 26",
+   "content": "continuum"
   },
   {
    "image_id": "oph-irs-48_naco2017",
@@ -118,7 +122,8 @@
     "bibcode": "2017ApJ...842...77S"
    },
    "file": "images/oph-irs-48/oph-irs-48_naco2017.png",
-   "epoch": "2013"
+   "epoch": "2013",
+   "content": "continuum"
   },
   {
    "image_id": "oph-irs-48_vla2015",
@@ -139,7 +144,8 @@
     "bibcode": "2015ApJ...810L...7V"
    },
    "file": "images/oph-irs-48/oph-irs-48_vla2015.png",
-   "epoch": "2015 Feb"
+   "epoch": "2015 Feb",
+   "content": "continuum"
   },
   {
    "image_id": "oph-irs-48_ohashi20-alma-b7-860um",
@@ -160,7 +166,8 @@
     "arxiv": "2007.15014",
     "bibcode": "2020ApJ...900...81O"
    },
-   "epoch": "2018-08-19"
+   "epoch": "2018-08-19",
+   "content": "continuum"
   },
   {
    "image_id": "oph-irs-48_ohashi20-vla-ka-8800um",
@@ -181,7 +188,8 @@
     "arxiv": "2007.15014",
     "bibcode": "2020ApJ...900...81O"
    },
-   "epoch": "2015-01 to 2015-02"
+   "epoch": "2015-01 to 2015-02",
+   "content": "continuum"
   },
   {
    "image_id": "oph-irs-48_alma-vioque26",
@@ -202,7 +210,8 @@
     "arxiv": "2512.00157",
     "bibcode": "2026A&A...705A.238V"
    },
-   "epoch": null
+   "epoch": null,
+   "content": "continuum"
   },
   {
    "image_id": "oph-irs-48_alma-b7-fasano26",
@@ -223,7 +232,8 @@
     "arxiv": "2603.25541",
     "bibcode": "2026A&A...709A.174F"
    },
-   "epoch": "2021"
+   "epoch": "2021",
+   "content": "continuum"
   },
   {
    "image_id": "oph-irs-48_alma-kurtovic26",
@@ -244,7 +254,8 @@
     "arxiv": "2605.30023",
     "bibcode": "2026arXiv260530023K"
    },
-   "epoch": null
+   "epoch": null,
+   "content": "continuum"
   }
  ],
  "notes": "Prototype azimuthal dust trap. SIMBAD name needs verification (Oph IRS 48 = WLY 2-48).",

@@ -32,11 +32,12 @@
     "arxiv": "1906.10809",
     "bibcode": "2019ApJ...882...49L"
    },
-   "epoch": "2017-08-31"
+   "epoch": "2017-08-31",
+   "content": "continuum"
   }
  ],
- "notes": "AUTO-CREATED from staging - fill metadata & coords",
- "last_updated": "2026-07-06",
+ "notes": "M0.5 T Tauri star in Taurus; the held ALMA Band 6 1.33 mm continuum snapshot shows a compact, smooth dust disk whose radial profile is well described by an exponentially tapered power law (Long et al. 2019).",
+ "last_updated": "2026-07-11",
  "plx_mas": 6.0796,
  "mags": {
   "V": 15.2,

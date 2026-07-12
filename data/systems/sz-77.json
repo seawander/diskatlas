@@ -43,7 +43,8 @@
     "arxiv": "2506.10734",
     "bibcode": "2025ApJ...989....3D"
    },
-   "epoch": "2021-2022"
+   "epoch": "2021-2022",
+   "content": "continuum"
   }
  ],
  "notes": "AGE-PRO Lupus target (Lupus 5 in Deng et al. 2025). Compact protoplanetary disk; the 1.3 mm continuum is only marginally resolved (~0.35\" / ~54 au beam).",

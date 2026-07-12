@@ -63,7 +63,8 @@
    },
    "image_id": "wispit-1_sphere2025",
    "file": "images/wispit-1/wispit-1_sphere2025.png",
-   "epoch": "2022 Nov 19"
+   "epoch": "2022 Nov 19",
+   "content": "continuum"
   },
   {
    "image_id": "wispit-1_sphere-ks-2024",
@@ -85,7 +86,8 @@
     "bibcode": "2025A&A...704A.221V"
    },
    "file": "images/wispit-1/wispit-1_sphere-ks-2024.png",
-   "epoch": "2024-11-30"
+   "epoch": "2024-11-30",
+   "content": "continuum"
   },
   {
    "image_id": "wispit-1_sphere-h-2023",
@@ -107,7 +109,8 @@
     "bibcode": "2025A&A...704A.221V"
    },
    "file": "images/wispit-1/wispit-1_sphere-h-2023.png",
-   "epoch": "2023-12-03"
+   "epoch": "2023-12-03",
+   "content": "continuum"
   }
  ],
  "notes": "K4+M5.5 binary (~16 Myr) with two wide-orbit planetary-mass companions (van Capelleveen+2025).",

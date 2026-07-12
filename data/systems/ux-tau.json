@@ -35,7 +35,8 @@
     "arxiv": "2403.02158",
     "bibcode": "2024A&A...685A..53G"
    },
-   "epoch": "2017-10-05"
+   "epoch": "2017-10-05",
+   "content": "continuum"
   },
   {
    "image_id": "ux-tau_seeds",
@@ -56,7 +57,8 @@
     "arxiv": "1206.1215",
     "bibcode": "2012PASJ...64..124T"
    },
-   "epoch": "2009 Dec 23"
+   "epoch": "2009 Dec 23",
+   "content": "continuum"
   },
   {
    "image_id": "ux-tau_sphere-menard2020-j",
@@ -77,7 +79,8 @@
     "arxiv": "2006.02439",
     "bibcode": "2020A&A...639L...1M"
    },
-   "epoch": "2017 Oct 6"
+   "epoch": "2017 Oct 6",
+   "content": "continuum"
   },
   {
    "image_id": "ux-tau_sphere-rdi-xie22",
@@ -98,7 +101,8 @@
     "bibcode": "2022A&A...666A..32X"
    },
    "file": "images/ux-tau/ux-tau_sphere-rdi-xie22.png",
-   "epoch": "2017-10-06"
+   "epoch": "2017-10-06",
+   "content": "continuum"
   },
   {
    "type": "disk_mm",
@@ -119,7 +123,8 @@
     "arxiv": "2006.02439",
     "bibcode": "2020A&A...639L...1M"
    },
-   "epoch": "2016 Aug 10"
+   "epoch": "2016 Aug 10",
+   "content": "line"
   },
   {
    "image_id": "ux-tau_alma-vioque26",
@@ -140,7 +145,8 @@
     "arxiv": "2512.00157",
     "bibcode": "2026A&A...705A.238V"
    },
-   "epoch": null
+   "epoch": "2021-2022",
+   "content": "continuum"
   },
   {
    "image_id": "ux-tau_alma-kurtovic26",
@@ -161,7 +167,8 @@
     "arxiv": "2605.30023",
     "bibcode": "2026arXiv260530023K"
    },
-   "epoch": null
+   "epoch": "2015-2022",
+   "content": "continuum"
   }
  ],
  "notes": null,

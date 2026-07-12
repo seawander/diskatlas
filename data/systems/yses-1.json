@@ -68,7 +68,8 @@
    },
    "image_id": "yses-1_sphere2020",
    "file": "images/yses-1/yses-1_sphere2020.png",
-   "epoch": "2020 Feb 16"
+   "epoch": "2020 Feb 16",
+   "content": "continuum"
   },
   {
    "type": "planet",
@@ -89,7 +90,8 @@
    },
    "image_id": "yses-1_jwst2025",
    "file": "images/yses-1/yses-1_jwst2025.png",
-   "epoch": "2023-06-19"
+   "epoch": "2023-06-19",
+   "content": "continuum"
   },
   {
    "image_id": "yses-1_sphere-naco2019-h",
@@ -110,7 +112,8 @@
     "bibcode": "2020MNRAS.492..431B"
    },
    "file": "images/yses-1/yses-1_sphere-naco2019-h.png",
-   "epoch": "2017-07-05"
+   "epoch": "2017-07-05",
+   "content": "continuum"
   },
   {
    "image_id": "yses-1_sphere-naco2019-ks",
@@ -131,7 +134,8 @@
     "bibcode": "2020MNRAS.492..431B"
    },
    "file": "images/yses-1/yses-1_sphere-naco2019-ks.png",
-   "epoch": "2019-03-17"
+   "epoch": "2019-03-17",
+   "content": "continuum"
   },
   {
    "image_id": "yses-1_sphere-naco2019-lp",
@@ -152,7 +156,8 @@
     "bibcode": "2020MNRAS.492..431B"
    },
    "file": "images/yses-1/yses-1_sphere-naco2019-lp.png",
-   "epoch": "2019-05-18"
+   "epoch": "2019-05-18",
+   "content": "continuum"
   },
   {
    "image_id": "yses-1_sphere-naco2019-mp",
@@ -173,7 +178,8 @@
     "bibcode": "2020MNRAS.492..431B"
    },
    "file": "images/yses-1/yses-1_sphere-naco2019-mp.png",
-   "epoch": "2019-06-03"
+   "epoch": "2019-06-03",
+   "content": "continuum"
   }
  ],
  "notes": null,

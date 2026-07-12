@@ -32,7 +32,8 @@
     "arxiv": "2403.02158",
     "bibcode": "2024A&A...685A..53G"
    },
-   "epoch": "2021-10-28"
+   "epoch": "2021-10-28",
+   "content": "continuum"
   },
   {
    "image_id": "dg-tau_alma2023",
@@ -53,7 +54,8 @@
     "arxiv": "2307.14526",
     "bibcode": "2023ApJ...954..110O"
    },
-   "epoch": "2015 Nov 1"
+   "epoch": "2015 Nov 1",
+   "content": "continuum"
   },
   {
    "image_id": "dg-tau_sphere-rdi-xie22",
@@ -74,7 +76,8 @@
     "bibcode": "2022A&A...666A..32X"
    },
    "file": "images/dg-tau/dg-tau_sphere-rdi-xie22.png",
-   "epoch": "2019-2021"
+   "epoch": "2019-2021",
+   "content": "continuum"
   },
   {
    "type": "disk_mm",
@@ -95,7 +98,8 @@
     "journal": "ApJ 529, 477",
     "title": "Unveiling the Circumstellar Envelope and Disk: A Subarcsecond Survey of Circumstellar Structures"
    },
-   "epoch": "1996-1998"
+   "epoch": "1996-1998",
+   "content": "continuum"
   },
   {
    "image_id": "dg-tau_alma-kurtovic26",
@@ -116,7 +120,8 @@
     "arxiv": "2605.30023",
     "bibcode": "2026arXiv260530023K"
    },
-   "epoch": null
+   "epoch": "2015-2023",
+   "content": "continuum"
   },
   {
    "image_id": "dg-tau_carma1300",
@@ -138,7 +143,8 @@
     "arxiv": "0906.2227",
     "bibcode": "2009ApJ...701..260I"
    },
-   "epoch": "2007"
+   "epoch": "2007",
+   "content": "continuum"
   }
  ],
  "notes": null,

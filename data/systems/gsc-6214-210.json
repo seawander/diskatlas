@@ -42,7 +42,8 @@
     "bibcode": "2011ApJ...726..113I"
    },
    "image_id": "gsc-6214-210_keck2011",
-   "file": "images/gsc-6214-210/gsc-6214-210_keck2011.png"
+   "file": "images/gsc-6214-210/gsc-6214-210_keck2011.png",
+   "content": "continuum"
   },
   {
    "image_id": "gsc-6214-210_sphere2021",
@@ -63,7 +64,8 @@
     "bibcode": "2021A&A...647A..21V"
    },
    "file": "images/gsc-6214-210/gsc-6214-210_sphere2021.png",
-   "epoch": "2019"
+   "epoch": "2019",
+   "content": "continuum"
   }
  ],
  "notes": null,

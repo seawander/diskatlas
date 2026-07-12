@@ -92,7 +92,8 @@
     "bibcode": "2016A&A...593A..75S"
    },
    "file": "images/cvso-30/cvso-30_naco2016.png",
-   "epoch": "2012 Dec"
+   "epoch": "2012 Dec",
+   "content": "continuum"
   },
   {
    "image_id": "cvso-30_nirc2-h-2010",
@@ -114,7 +115,8 @@
     "arxiv": "1605.05315",
     "bibcode": "2016A&A...593A..75S"
    },
-   "epoch": "2010-09-25"
+   "epoch": "2010-09-25",
+   "content": "continuum"
   }
  ],
  "notes": "Both reported companions are now considered dubious/refuted: c is most likely a background star (Lee & Chiang 2017), and b's transit signal is likely stellar starspot activity rather than a planet (Koen 2020, MNRAS 494, 4349; Koen 2021, A&A 647, L1 -- no arXiv preprints available for these two).",

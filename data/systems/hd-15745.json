@@ -34,7 +34,8 @@
     "arxiv": "1406.7303",
     "bibcode": "2014AJ....148...59S"
    },
-   "epoch": "2011-2012"
+   "epoch": "2011-2012",
+   "content": "continuum"
   },
   {
    "type": "disk_mm",
@@ -55,7 +56,8 @@
     "arxiv": "2501.09058",
     "bibcode": "2025A&A...693A.151M"
    },
-   "epoch": "2018-08-12"
+   "epoch": "2018-08-12",
+   "content": "continuum"
   },
   {
    "type": "disk_scattered",
@@ -76,7 +78,8 @@
     "arxiv": "2302.04273",
     "bibcode": "2023A&A...672A.114R"
    },
-   "epoch": "2004-10-13"
+   "epoch": "2004-10-13",
+   "content": "continuum"
   },
   {
    "type": "disk_scattered",
@@ -97,7 +100,8 @@
     "arxiv": "2302.04273",
     "bibcode": "2023A&A...672A.114R"
    },
-   "epoch": "2011-2012"
+   "epoch": "2011-2012",
+   "content": "continuum"
   },
   {
    "image_id": "hd-15745_alice-f110w",
@@ -119,7 +123,8 @@
     "bibcode": "2018AJ....155..179H"
    },
    "hires_url": "https://archive.stsci.edu/prepds/alice/",
-   "epoch": "2004-10-13"
+   "epoch": "2004-10-13",
+   "content": "continuum"
   },
   {
    "image_id": "hd-15745_acs2007",
@@ -140,7 +145,8 @@
     "arxiv": "0712.0378",
     "bibcode": "2007ApJ...671L.161K"
    },
-   "epoch": "2006 Jul 17"
+   "epoch": "2006 Jul 17",
+   "content": "continuum"
   },
   {
    "image_id": "hd-15745_pacs-160um-sons",
@@ -161,7 +167,8 @@
     "arxiv": "1706.01218",
     "bibcode": "2017MNRAS.470.3606H"
    },
-   "epoch": "2009-2013"
+   "epoch": "2009-2013",
+   "content": "continuum"
   }
  ],
  "notes": null,

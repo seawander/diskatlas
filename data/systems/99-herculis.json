@@ -43,7 +43,8 @@
     "bibcode": "2012MNRAS.421.2264K"
    },
    "file": "images/99-herculis/99-herculis_herschel2012.png",
-   "epoch": "2010 Apr"
+   "epoch": "2010 Apr",
+   "content": "continuum"
   },
   {
    "image_id": "99-herculis_pacs-70um",
@@ -65,7 +66,8 @@
     "bibcode": "2012MNRAS.421.2264K"
    },
    "file": "images/99-herculis/99-herculis_pacs-70um.png",
-   "epoch": "2010 Apr"
+   "epoch": "2010 Apr",
+   "content": "continuum"
   },
   {
    "image_id": "99-herculis_pacs-100um",
@@ -87,7 +89,8 @@
     "bibcode": "2012MNRAS.421.2264K"
    },
    "file": "images/99-herculis/99-herculis_pacs-100um.png",
-   "epoch": "2010 Apr"
+   "epoch": "2010 Apr",
+   "content": "continuum"
   },
   {
    "image_id": "99-herculis_keck-nirc2-lp",
@@ -109,7 +112,8 @@
     "bibcode": "2012MNRAS.421.2264K"
    },
    "file": "images/99-herculis/99-herculis_keck-nirc2-lp.png",
-   "epoch": "2011"
+   "epoch": "2011",
+   "content": "continuum"
   }
  ],
  "notes": "Eccentric-orbit binary hosting the only known polar-aligned circumbinary debris disk, resolved with Herschel PACS at 70/100/160um (Kennedy et al. 2012, arXiv:1201.1911). Disk position angle misaligned from the binary line of nodes, consistent with a near-polar configuration perpendicular to the binary pericenter direction.",

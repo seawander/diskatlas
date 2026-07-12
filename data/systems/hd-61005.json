@@ -35,7 +35,8 @@
     "arxiv": "2501.09058",
     "bibcode": "2025A&A...693A.151M"
    },
-   "epoch": "2013-2016"
+   "epoch": "2013-2016",
+   "content": "continuum"
   },
   {
    "type": "disk_scattered",
@@ -56,7 +57,8 @@
     "arxiv": "2004.13722",
     "bibcode": "2020AJ....160...24E"
    },
-   "epoch": "2014-03-24"
+   "epoch": "2014-03-24",
+   "content": "continuum"
   },
   {
    "type": "disk_scattered",
@@ -77,7 +79,8 @@
     "arxiv": "1406.7303",
     "bibcode": "2014AJ....148...59S"
    },
-   "epoch": "2010-2011"
+   "epoch": "2010-2011",
+   "content": "continuum"
   },
   {
    "type": "disk_scattered",
@@ -98,7 +101,8 @@
    },
    "image_id": "hd-61005_sphere2016",
    "file": "images/hd-61005/hd-61005_sphere2016.png",
-   "epoch": "2015 May 1"
+   "epoch": "2015 May 1",
+   "content": "continuum"
   },
   {
    "type": "disk_scattered",
@@ -119,7 +123,8 @@
    },
    "image_id": "hd-61005_sphere2016-k",
    "file": "images/hd-61005/hd-61005_sphere-adi-k-olofsson16.png",
-   "epoch": "2015"
+   "epoch": "2015",
+   "content": "continuum"
   },
   {
    "type": "disk_mm",
@@ -140,7 +145,8 @@
     "arxiv": "2601.11708",
     "bibcode": "2026A&A...705A.195M"
    },
-   "epoch": "2022-2023"
+   "epoch": "2022-2023",
+   "content": "continuum"
   },
   {
    "type": "disk_scattered",
@@ -161,7 +167,8 @@
     "arxiv": "2302.04273",
     "bibcode": "2023A&A...672A.114R"
    },
-   "epoch": "2005-2006"
+   "epoch": "2005-2006",
+   "content": "continuum"
   },
   {
    "type": "disk_scattered",
@@ -181,7 +188,8 @@
     "journal": "A&A 704, A21",
     "arxiv": "2512.03128",
     "bibcode": "2025A&A...704A..21E"
-   }
+   },
+   "content": "continuum"
   },
   {
    "type": "disk_scattered",
@@ -202,7 +210,8 @@
     "arxiv": "2302.04273",
     "bibcode": "2023A&A...672A.114R"
    },
-   "epoch": "2010-2011"
+   "epoch": "2010-2011",
+   "content": "continuum"
   },
   {
    "image_id": "hd-61005_alma2018",
@@ -223,7 +232,8 @@
     "arxiv": "1812.05610",
     "bibcode": "2018ApJ...869...75M"
    },
-   "epoch": "2013 Dec 4"
+   "epoch": "2013 Dec 4",
+   "content": "continuum"
   },
   {
    "image_id": "hd-61005_alice-f110w",
@@ -245,7 +255,8 @@
     "bibcode": "2018AJ....155..179H"
    },
    "hires_url": "https://archive.stsci.edu/prepds/alice/",
-   "epoch": "2005-2006"
+   "epoch": "2005-2006",
+   "content": "continuum"
   },
   {
    "image_id": "hd-61005_gpi-crotts24",
@@ -266,7 +277,8 @@
     "arxiv": "2311.14599",
     "bibcode": "2024ApJ...961..245C"
    },
-   "epoch": "2014-03-24"
+   "epoch": "2014-03-24",
+   "content": "continuum"
   },
   {
    "image_id": "hd-61005_nicmos-hines07",
@@ -287,7 +299,8 @@
     "arxiv": null,
     "bibcode": "2007ApJ...671L.165H"
    },
-   "epoch": "2005-2006"
+   "epoch": "2005-2006",
+   "content": "continuum"
   },
   {
    "image_id": "hd-61005_acs2009",
@@ -308,7 +321,8 @@
     "bibcode": "2009ApJ...707.1098M"
    },
    "file": "images/hd-61005/hd-61005_acs2009.png",
-   "epoch": "2006 Dec 19"
+   "epoch": "2006 Dec 19",
+   "content": "continuum"
   },
   {
    "image_id": "hd-61005_naco2011",
@@ -330,7 +344,8 @@
    },
    "file": "images/hd-61005/hd-61005_naco2011.png",
    "note": "CORRECTION vs brief: this paper (arXiv 1011.2496) is VLT/NACO H-band ADI/LOCI imaging, not Gemini/NICI as labeled in the task brief -- verified in the paper text and Fig. 1 caption ('High-contrast NACO H-band images of HD 61005'). VLT-NACO was genuinely absent from hd-61005.json, so added under its correct facility name.",
-   "epoch": "2010 Feb 17"
+   "epoch": "2010 Feb 17",
+   "content": "continuum"
   },
   {
    "image_id": "hd-61005_nirc22016",
@@ -350,7 +365,8 @@
     "arxiv": "1605.06161",
     "bibcode": "2016AJ....152...85E"
    },
-   "file": "images/hd-61005/hd-61005_nirc22016.png"
+   "file": "images/hd-61005/hd-61005_nirc22016.png",
+   "content": "continuum"
   },
   {
    "image_id": "hd-61005_scuba2-850um-sons",
@@ -371,7 +387,8 @@
     "arxiv": "1706.01218",
     "bibcode": "2017MNRAS.470.3606H"
    },
-   "epoch": "2012-2015"
+   "epoch": "2012-2015",
+   "content": "continuum"
   }
  ],
  "notes": null,

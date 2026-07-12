@@ -32,7 +32,8 @@
     "arxiv": "2302.04273",
     "bibcode": "2023A&A...672A.114R"
    },
-   "epoch": "2007-2008"
+   "epoch": "2007-2008",
+   "content": "continuum"
   },
   {
    "type": "disk_scattered",
@@ -53,7 +54,8 @@
     "arxiv": "2512.03128",
     "bibcode": "2025A&A...704A..21E"
    },
-   "epoch": "2016-05-14"
+   "epoch": "2016-05-14",
+   "content": "continuum"
   },
   {
    "type": "disk_scattered",
@@ -74,7 +76,8 @@
     "arxiv": "2302.04273",
     "bibcode": "2023A&A...672A.114R"
    },
-   "epoch": "2018-09-01"
+   "epoch": "2018-09-01",
+   "content": "continuum"
   },
   {
    "image_id": "hd-192758_nicmos-choquet18",
@@ -95,7 +98,8 @@
     "arxiv": "1801.05424",
     "bibcode": "2018ApJ...854...53C"
    },
-   "epoch": "2007-2008"
+   "epoch": "2007-2008",
+   "content": "continuum"
   }
  ],
  "notes": "AUTO-CREATED from staging - fill metadata & coords",

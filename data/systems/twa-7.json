@@ -45,7 +45,8 @@
    },
    "image_id": "twa-7_stis2021",
    "file": "images/twa-7/twa-7_stis2021.png",
-   "epoch": "2019 Feb 3"
+   "epoch": "2019 Feb 3",
+   "content": "continuum"
   },
   {
    "type": "planet",
@@ -66,7 +67,8 @@
    },
    "image_id": "twa-7_jwst2025",
    "file": "images/twa-7/twa-7_jwst2025.png",
-   "epoch": "2024-06-21"
+   "epoch": "2024-06-21",
+   "content": "continuum"
   },
   {
    "type": "disk_scattered",
@@ -87,7 +89,8 @@
     "arxiv": "2004.13722",
     "bibcode": "2020AJ....160...24E"
    },
-   "epoch": "2017-2019"
+   "epoch": "2017-2019",
+   "content": "continuum"
   },
   {
    "type": "disk_mm",
@@ -107,7 +110,8 @@
     "journal": "A&A 693, A151",
     "arxiv": "2501.09058",
     "bibcode": "2025A&A...693A.151M"
-   }
+   },
+   "content": "continuum"
   },
   {
    "type": "disk_scattered",
@@ -128,7 +132,8 @@
     "arxiv": "1512.02220",
     "bibcode": "2016ApJ...817L...2C"
    },
-   "epoch": "1998-03-26"
+   "epoch": "1998-03-26",
+   "content": "continuum"
   },
   {
    "type": "disk_scattered",
@@ -149,7 +154,8 @@
     "arxiv": "2302.04273",
     "bibcode": "2023A&A...672A.114R"
    },
-   "epoch": "1998-03-26"
+   "epoch": "1998-03-26",
+   "content": "continuum"
   },
   {
    "type": "disk_scattered",
@@ -170,7 +176,8 @@
     "arxiv": "2105.09949",
     "bibcode": "2021ApJ...914...95R"
    },
-   "epoch": "1998"
+   "epoch": "1998",
+   "content": "continuum"
   },
   {
    "type": "disk_scattered",
@@ -191,7 +198,8 @@
     "arxiv": "2105.09949",
     "bibcode": "2021ApJ...914...95R"
    },
-   "epoch": "2017 Mar 20"
+   "epoch": "2017 Mar 20",
+   "content": "continuum"
   },
   {
    "type": "disk_scattered",
@@ -212,7 +220,8 @@
     "arxiv": "2512.03128",
     "bibcode": "2025A&A...704A..21E"
    },
-   "epoch": "2016-2022"
+   "epoch": "2016-2022",
+   "content": "continuum"
   },
   {
    "type": "disk_scattered",
@@ -233,7 +242,8 @@
     "arxiv": "2302.04273",
     "bibcode": "2023A&A...672A.114R"
    },
-   "epoch": "2011-2021"
+   "epoch": "2011-2021",
+   "content": "continuum"
   },
   {
    "image_id": "twa-7_alice-f165m",
@@ -255,7 +265,8 @@
     "bibcode": "2018AJ....155..179H"
    },
    "hires_url": "https://archive.stsci.edu/prepds/alice/",
-   "epoch": "1998"
+   "epoch": "1998",
+   "content": "continuum"
   },
   {
    "image_id": "twa-7_nircam2025",
@@ -276,7 +287,8 @@
     "bibcode": "2025ApJ...987L..41C"
    },
    "file": "images/twa-7/twa-7_nircam2025.png",
-   "epoch": "2024-06-15"
+   "epoch": "2024-06-15",
+   "content": "continuum"
   },
   {
    "image_id": "twa-7_sphere-hband2018",
@@ -297,7 +309,8 @@
     "bibcode": "2018A&A...617A.109O"
    },
    "file": "images/twa-7/twa-7_sphere-hband2018.png",
-   "epoch": "2016-04-27"
+   "epoch": "2016-04-27",
+   "content": "continuum"
   },
   {
    "image_id": "twa-7_alma2019",
@@ -318,7 +331,8 @@
     "bibcode": "2019MNRAS.486.5552B"
    },
    "file": "images/twa-7/twa-7_alma2019.png",
-   "epoch": "2016"
+   "epoch": "2016",
+   "content": "continuum"
   },
   {
    "image_id": "twa-7_sphere-jband2018",
@@ -339,7 +353,8 @@
     "bibcode": "2018A&A...617A.109O"
    },
    "file": "images/twa-7/twa-7_sphere-jband2018.png",
-   "epoch": "2016-04-27"
+   "epoch": "2016-04-27",
+   "content": "continuum"
   },
   {
    "image_id": "twa-7_pacs-70um-sons",
@@ -360,7 +375,8 @@
     "arxiv": "1706.01218",
     "bibcode": "2017MNRAS.470.3606H"
    },
-   "epoch": "2009-2013"
+   "epoch": "2009-2013",
+   "content": "continuum"
   },
   {
    "image_id": "twa-7_nircam-f444w",
@@ -382,7 +398,8 @@
     "bibcode": "2025ApJ...987L..41C"
    },
    "file": "images/twa-7/twa-7_nircam-f444w.png",
-   "epoch": "2024-06-15"
+   "epoch": "2024-06-15",
+   "content": "continuum"
   }
  ],
  "notes": null,

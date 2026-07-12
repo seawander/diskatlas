@@ -35,7 +35,8 @@
     "arxiv": "2206.05815",
     "bibcode": "2022AJ....164..109R"
    },
-   "epoch": "2018-2019"
+   "epoch": "2018-2019",
+   "content": "continuum"
   },
   {
    "type": "disk_scattered",
@@ -56,7 +57,8 @@
    },
    "image_id": "hd-141569_acs2003",
    "file": "images/hd-141569/hd-141569_acs2003.png",
-   "epoch": "2002-2003"
+   "epoch": "2002-2003",
+   "content": "continuum"
   },
   {
    "type": "disk_scattered",
@@ -77,7 +79,8 @@
     "arxiv": "2004.13722",
     "bibcode": "2020AJ....160...24E"
    },
-   "epoch": "2014-03-21"
+   "epoch": "2014-03-21",
+   "content": "continuum"
   },
   {
    "type": "disk_scattered",
@@ -98,7 +101,8 @@
     "arxiv": "2302.04273",
     "bibcode": "2023A&A...672A.114R"
    },
-   "epoch": "1998-09-27"
+   "epoch": "1998-09-27",
+   "content": "continuum"
   },
   {
    "type": "disk_scattered",
@@ -119,7 +123,8 @@
     "arxiv": "2512.03128",
     "bibcode": "2025A&A...704A..21E"
    },
-   "epoch": "2015-07-22"
+   "epoch": "2015-07-22",
+   "content": "continuum"
   },
   {
    "type": "disk_scattered",
@@ -140,7 +145,8 @@
     "arxiv": "2302.04273",
     "bibcode": "2023A&A...672A.114R"
    },
-   "epoch": "2000-2015"
+   "epoch": "2000-2015",
+   "content": "continuum"
   },
   {
    "type": "disk_scattered",
@@ -161,7 +167,8 @@
    },
    "image_id": "hd-141569_nicmos1999",
    "file": "images/hd-141569/hd-141569_nicmos1999.png",
-   "epoch": "1998-08-17"
+   "epoch": "1998-08-17",
+   "content": "continuum"
   },
   {
    "image_id": "hd-141569_alice-f110w",
@@ -183,7 +190,8 @@
     "bibcode": "2018AJ....155..179H"
    },
    "hires_url": "https://archive.stsci.edu/prepds/alice/",
-   "epoch": "1998-09-27"
+   "epoch": "1998-09-27",
+   "content": "continuum"
   },
   {
    "image_id": "hd-141569_jwst-nircam",
@@ -204,7 +212,8 @@
     "arxiv": null,
     "bibcode": "2025ApJ...994..199M"
    },
-   "epoch": "2023-02-17"
+   "epoch": "2023-02-17",
+   "content": "continuum"
   },
   {
    "image_id": "hd-141569_sphere-rdi-xie22",
@@ -225,7 +234,8 @@
     "bibcode": "2022A&A...666A..32X"
    },
    "file": "images/hd-141569/hd-141569_sphere-rdi-xie22.png",
-   "epoch": "2015-07-22"
+   "epoch": "2015-07-22",
+   "content": "continuum"
   },
   {
    "image_id": "hd-141569_nirc2matryoshka",
@@ -247,7 +257,8 @@
    },
    "file": "images/hd-141569/hd-141569_nirc2matryoshka.png",
    "note": "New facility for this existing system (no prior Keck/NIRC2 or VLT/NaCo record). Paper also includes archival VLT/NaCo L' imaging (Fig. 1 bottom-right) recovering the same inner disk; only the Keck/NIRC2 discovery panel was cropped.",
-   "epoch": "2015 Jun 8"
+   "epoch": "2015 Jun 8",
+   "content": "continuum"
   },
   {
    "image_id": "hd-141569_nici2015",
@@ -268,7 +279,8 @@
     "bibcode": "2015MNRAS.450.4446B"
    },
    "file": "images/hd-141569/hd-141569_nici2015.png",
-   "epoch": "2009-2011"
+   "epoch": "2009-2011",
+   "content": "continuum"
   },
   {
    "type": "disk_mm",
@@ -289,7 +301,8 @@
     "year": 2018,
     "journal": "MNRAS 474, 4500",
     "title": "ALMA and VLA observations of the HD 141569 system"
-   }
+   },
+   "content": "continuum"
   },
   {
    "type": "disk_mm",
@@ -310,7 +323,8 @@
     "journal": "A&A Letters 615, L10",
     "title": "Unlocking the secrets of the midplane gas and dust distribution in the young hybrid disc HD 141569A"
    },
-   "epoch": "2016-05-16"
+   "epoch": "2016-05-16",
+   "content": "line"
   },
   {
    "image_id": "hd-141569_perrot16-h2h3",
@@ -332,7 +346,8 @@
     "arxiv": "1605.00468",
     "bibcode": "2016A&A...590L...7P"
    },
-   "epoch": "2015-07-22"
+   "epoch": "2015-07-22",
+   "content": "continuum"
   }
  ],
  "notes": "Hybrid disk (gas-rich debris / late transition); its multi-ring scattered-light structure was first resolved with HST/NICMOS (Weinberger+1999) and later in VLT/SPHERE (Perrot+2016).",

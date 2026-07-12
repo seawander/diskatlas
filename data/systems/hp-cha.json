@@ -32,7 +32,8 @@
     "arxiv": "2403.02149",
     "bibcode": "2024A&A...685A..52G"
    },
-   "epoch": "2019-2020"
+   "epoch": "2019-2020",
+   "content": "continuum"
   },
   {
    "image_id": "hp-cha_alma-vioque26",
@@ -53,7 +54,8 @@
     "arxiv": "2512.00157",
     "bibcode": "2026A&A...705A.238V"
    },
-   "epoch": null
+   "epoch": "2017",
+   "content": "continuum"
   },
   {
    "image_id": "hp-cha_alma-kurtovic26",
@@ -74,7 +76,8 @@
     "arxiv": "2605.30023",
     "bibcode": "2026arXiv260530023K"
    },
-   "epoch": null
+   "epoch": "2017-2023",
+   "content": "continuum"
   }
  ],
  "notes": "AUTO-CREATED from staging - fill metadata & coords",

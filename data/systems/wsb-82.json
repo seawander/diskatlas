@@ -32,7 +32,8 @@
     "arxiv": "2012.00189",
     "bibcode": "2021MNRAS.501.2934C"
    },
-   "epoch": "2019-06-05"
+   "epoch": "2019-06-05",
+   "content": "continuum"
   },
   {
    "image_id": "wsb-82_alma-vioque26",
@@ -53,7 +54,8 @@
     "arxiv": "2512.00157",
     "bibcode": "2026A&A...705A.238V"
    },
-   "epoch": null
+   "epoch": "2019-06-05",
+   "content": "continuum"
   },
   {
    "image_id": "wsb-82_alma-kurtovic26",
@@ -74,7 +76,8 @@
     "arxiv": "2605.30023",
     "bibcode": "2026arXiv260530023K"
    },
-   "epoch": null
+   "epoch": "2019-06-05",
+   "content": "continuum"
   }
  ],
  "notes": "AUTO-CREATED from staging - fill metadata & coords",

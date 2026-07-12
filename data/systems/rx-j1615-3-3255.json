@@ -34,7 +34,8 @@
     "arxiv": "2504.18725",
     "bibcode": "2025ApJ...984L...9C"
    },
-   "epoch": "2021-2023"
+   "epoch": "2021-2023",
+   "content": "continuum"
   },
   {
    "type": "disk_scattered",
@@ -55,7 +56,8 @@
     "arxiv": "1803.10882",
     "bibcode": "2018ApJ...863...44A"
    },
-   "epoch": "2016-03-15"
+   "epoch": "2016-03-15",
+   "content": "continuum"
   },
   {
    "image_id": "rx-j1615-3-3255_alma2015",
@@ -76,7 +78,8 @@
     "bibcode": "2015A&A...579A.106V"
    },
    "file": "images/rx-j1615-3-3255/rx-j1615-3-3255_alma2015.png",
-   "epoch": "2012-08-14"
+   "epoch": "2012-08-14",
+   "content": "continuum"
   },
   {
    "image_id": "rx-j1615-3-3255_hiciao2017",
@@ -96,7 +99,8 @@
     "arxiv": "1610.00908",
     "bibcode": "2017A&A...597A.132K"
    },
-   "file": "images/rx-j1615-3-3255/rx-j1615-3-3255_hiciao2017.png"
+   "file": "images/rx-j1615-3-3255/rx-j1615-3-3255_hiciao2017.png",
+   "content": "continuum"
   },
   {
    "image_id": "rx-j1615-3-3255_sphere-rdi-xie22",
@@ -117,7 +121,8 @@
     "bibcode": "2022A&A...666A..32X"
    },
    "file": "images/rx-j1615-3-3255/rx-j1615-3-3255_sphere-rdi-xie22.png",
-   "epoch": "2016-03-15"
+   "epoch": "2016-03-15",
+   "content": "continuum"
   },
   {
    "image_id": "rx-j1615-3-3255_exoalma-co",
@@ -138,7 +143,8 @@
     "bibcode": "2025ApJ...984L...6T"
    },
    "file": "images/rx-j1615-3-3255/rx-j1615-3-3255_exoalma-co.png",
-   "epoch": "2021-2023"
+   "epoch": "2021-2023",
+   "content": "line"
   },
   {
    "image_id": "rx-j1615-3-3255_alma-vioque26",
@@ -159,7 +165,8 @@
     "arxiv": "2512.00157",
     "bibcode": "2026A&A...705A.238V"
    },
-   "epoch": null
+   "epoch": "2024-2025",
+   "content": "continuum"
   },
   {
    "image_id": "rx-j1615-3-3255_alma-kurtovic26",
@@ -180,7 +187,8 @@
     "arxiv": "2605.30023",
     "bibcode": "2026arXiv260530023K"
    },
-   "epoch": null
+   "epoch": "2024-2025",
+   "content": "continuum"
   }
  ],
  "notes": null,

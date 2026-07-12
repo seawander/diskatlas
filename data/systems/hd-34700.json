@@ -34,7 +34,8 @@
    },
    "image_id": "hd-34700_gpi2019",
    "file": "images/hd-34700/hd-34700_gpi2019.png",
-   "epoch": "2018 Jan 3"
+   "epoch": "2018 Jan 3",
+   "content": "continuum"
   },
   {
    "type": "disk_scattered",
@@ -55,7 +56,8 @@
     "arxiv": "2206.05815",
     "bibcode": "2022AJ....164..109R"
    },
-   "epoch": "2018-01-03"
+   "epoch": "2018-01-03",
+   "content": "continuum"
   },
   {
    "type": "disk_scattered",
@@ -76,7 +78,8 @@
     "arxiv": "2206.05815",
     "bibcode": "2022AJ....164..109R"
    },
-   "epoch": "2018-01-03"
+   "epoch": "2018-01-03",
+   "content": "continuum"
   },
   {
    "image_id": "hd-34700_scexao2023",
@@ -97,7 +100,8 @@
     "arxiv": "2310.16873",
     "bibcode": "2024A&A...681A..19C"
    },
-   "epoch": "2019 Oct 27"
+   "epoch": "2019 Oct 27",
+   "content": "continuum"
   },
   {
    "image_id": "hd-34700_lbti2024",
@@ -118,7 +122,8 @@
     "arxiv": "2310.16873",
     "bibcode": "2024A&A...681A..19C"
    },
-   "epoch": "2022 Feb 14"
+   "epoch": "2022 Feb 14",
+   "content": "continuum"
   },
   {
    "type": "disk_scattered",
@@ -139,7 +144,8 @@
     "arxiv": "2007.11655",
     "bibcode": "2020ApJ...900..135U"
    },
-   "epoch": "2019 Jan 12"
+   "epoch": "2019 Jan 12",
+   "content": "continuum"
   },
   {
    "type": "disk_scattered",
@@ -160,7 +166,8 @@
     "arxiv": "2007.11655",
     "bibcode": "2020ApJ...900..135U"
    },
-   "epoch": "2019 Jan 12"
+   "epoch": "2019 Jan 12",
+   "content": "continuum"
   },
   {
    "type": "disk_scattered",
@@ -181,7 +188,8 @@
     "arxiv": "2007.11655",
     "bibcode": "2020ApJ...900..135U"
    },
-   "epoch": "2019 Jan 12"
+   "epoch": "2019 Jan 12",
+   "content": "continuum"
   },
   {
    "image_id": "hd-34700_sma2020",
@@ -202,7 +210,8 @@
     "bibcode": "2020ApJ...905..120B"
    },
    "file": "images/hd-34700/hd-34700_sma2020.png",
-   "epoch": "2019 Jan 8"
+   "epoch": "2019 Jan 8",
+   "content": "continuum"
   },
   {
    "type": "disk_scattered",
@@ -223,7 +232,8 @@
     "journal": "MNRAS 533, 2473",
     "title": "Multiband polarimetric imaging of HD 34700 with SCExAO/CHARIS"
    },
-   "epoch": "2019 Dec 16"
+   "epoch": "2019 Dec 16",
+   "content": "continuum"
   },
   {
    "type": "disk_scattered",
@@ -244,7 +254,8 @@
     "journal": "MNRAS 533, 2473",
     "title": "Multiband polarimetric imaging of HD 34700 with SCExAO/CHARIS"
    },
-   "epoch": "2019 Dec 16"
+   "epoch": "2019 Dec 16",
+   "content": "continuum"
   },
   {
    "type": "disk_scattered",
@@ -265,7 +276,8 @@
     "journal": "MNRAS 533, 2473",
     "title": "Multiband polarimetric imaging of HD 34700 with SCExAO/CHARIS"
    },
-   "epoch": "2019 Dec 16"
+   "epoch": "2019 Dec 16",
+   "content": "continuum"
   },
   {
    "type": "disk_scattered",
@@ -286,7 +298,8 @@
     "journal": "A&A 707, A160",
     "title": "The circumbinary disk of HD34700A: I. CO gas kinematics indicate spirals, infall, and vortex motions"
    },
-   "epoch": "2019-10-27"
+   "epoch": "2019-10-27",
+   "content": "continuum"
   },
   {
    "type": "disk_mm",
@@ -307,7 +320,8 @@
     "journal": "A&A 707, A160",
     "title": "The circumbinary disk of HD34700A: I. CO gas kinematics indicate spirals, infall, and vortex motions"
    },
-   "epoch": "2022 Oct 9"
+   "epoch": "2022 Oct 9",
+   "content": "continuum"
   },
   {
    "type": "disk_mm",
@@ -328,7 +342,8 @@
     "journal": "A&A 707, A160",
     "title": "The circumbinary disk of HD34700A: I. CO gas kinematics indicate spirals, infall, and vortex motions"
    },
-   "epoch": "2022 Oct 9"
+   "epoch": "2022 Oct 9",
+   "content": "line"
   },
   {
    "type": "disk_mm",
@@ -349,7 +364,8 @@
     "journal": "A&A 707, A160",
     "title": "The circumbinary disk of HD34700A: I. CO gas kinematics indicate spirals, infall, and vortex motions"
    },
-   "epoch": "2022 Oct 9"
+   "epoch": "2022 Oct 9",
+   "content": "line"
   },
   {
    "type": "disk_mm",
@@ -370,7 +386,8 @@
     "journal": "A&A 707, A160",
     "title": "The circumbinary disk of HD34700A: I. CO gas kinematics indicate spirals, infall, and vortex motions"
    },
-   "epoch": "2022 Oct 9"
+   "epoch": "2022 Oct 9",
+   "content": "line"
   },
   {
    "image_id": "hd-34700_alma-vioque26",
@@ -391,7 +408,8 @@
     "arxiv": "2512.00157",
     "bibcode": "2026A&A...705A.238V"
    },
-   "epoch": null
+   "epoch": "2022-2023",
+   "content": "continuum"
   },
   {
    "image_id": "hd-34700_alma-b6-fasano26",
@@ -412,7 +430,8 @@
     "arxiv": "2603.25541",
     "bibcode": "2026A&A...709A.174F"
    },
-   "epoch": "2021"
+   "epoch": "2021",
+   "content": "continuum"
   },
   {
    "image_id": "hd-34700_alma-kurtovic26",
@@ -433,7 +452,8 @@
     "arxiv": "2605.30023",
     "bibcode": "2026arXiv260530023K"
    },
-   "epoch": null
+   "epoch": "2022-2023",
+   "content": "continuum"
   }
  ],
  "notes": null,

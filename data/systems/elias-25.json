@@ -32,11 +32,12 @@
     "arxiv": "2404.02222",
     "bibcode": "2024A&A...684A..73D"
    },
-   "epoch": "2003-06-18"
+   "epoch": "2003-06-18",
+   "content": "continuum"
   }
  ],
- "notes": "AUTO-CREATED from staging - fill metadata & coords",
- "last_updated": "2026-07-06",
+ "notes": "Young star (B3) in Ophiuchus, observed under its Elias catalog name Elia 2-25; archival VLT/NACO Ks-band polarimetry reprocessed with the PIPPIN pipeline yields a compact polarized-light detection with little resolved structure (de Regt et al. 2024).",
+ "last_updated": "2026-07-11",
  "plx_mas": 6.8239,
  "mags": {
   "V": 16.53,

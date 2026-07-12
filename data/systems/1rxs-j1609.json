@@ -43,7 +43,8 @@
    },
    "image_id": "1rxs-j1609_gemini2010",
    "file": "images/1rxs-j1609/1rxs-j1609_gemini2010.png",
-   "epoch": "2009"
+   "epoch": "2009",
+   "content": "continuum"
   },
   {
    "image_id": "1rxs-j1609_magao2015",
@@ -64,7 +65,8 @@
     "bibcode": "2015ApJ...807L..13W"
    },
    "file": "images/1rxs-j1609/1rxs-j1609_magao2015.png",
-   "epoch": "2013"
+   "epoch": "2013",
+   "content": "continuum"
   }
  ],
  "notes": "Discovery paper (Lafreniere+2008, 0809.1424) cited on the planet entry; its figure set has no clean planet image - 2010 confirmation image shown instead.",

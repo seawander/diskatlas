@@ -36,11 +36,12 @@
     "bibcode": "2019A&A...627A..44B"
    },
    "file": "images/hd-113337/hd-113337_herschel2019.png",
-   "epoch": "2012-03-23"
+   "epoch": "2012-03-23",
+   "content": "continuum"
   }
  ],
- "notes": "AUTO-CREATED from staging - fill metadata & coords Added 2026-07-08 (discovery queue).",
- "last_updated": "2026-07-08",
+ "notes": "F6V star hosting one (possibly two) radial-velocity giant planets and a cold debris disk; the held image is the Herschel/PACS 70 um map that partially resolves the outer disk (Borgniet et al. 2019).",
+ "last_updated": "2026-07-11",
  "plx_mas": null,
  "mags": null
 }

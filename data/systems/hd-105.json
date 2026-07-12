@@ -34,7 +34,8 @@
     "arxiv": "2501.09058",
     "bibcode": "2025A&A...693A.151M"
    },
-   "epoch": "2013-12-01"
+   "epoch": "2013-12-01",
+   "content": "continuum"
   },
   {
    "type": "disk_scattered",
@@ -54,7 +55,8 @@
     "journal": "A&A 704, A21",
     "arxiv": "2512.03128",
     "bibcode": "2025A&A...704A..21E"
-   }
+   },
+   "content": "continuum"
   },
   {
    "image_id": "hd-105_alma2018",
@@ -75,7 +77,8 @@
     "arxiv": "1811.06440",
     "bibcode": "2018ApJ...869...10M"
    },
-   "epoch": "2013-12-01"
+   "epoch": "2013-12-01",
+   "content": "continuum"
   },
   {
    "image_id": "hd-105_alice-f160w",
@@ -97,7 +100,8 @@
     "bibcode": "2018AJ....155..179H"
    },
    "hires_url": "https://archive.stsci.edu/prepds/alice/",
-   "epoch": "1998-11-03"
+   "epoch": "1998-11-03",
+   "content": "continuum"
   },
   {
    "image_id": "hd-105_pacs-70um-donaldson12",
@@ -118,7 +122,8 @@
     "arxiv": "1206.6358",
     "bibcode": "2012ApJ...753..147D"
    },
-   "epoch": "2010-2011"
+   "epoch": "2010-2011",
+   "content": "continuum"
   }
  ],
  "notes": "AUTO-CREATED from staging - fill metadata & coords",

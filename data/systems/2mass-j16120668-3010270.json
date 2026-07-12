@@ -58,7 +58,8 @@
     "arxiv": "2506.10719",
     "bibcode": "2025ApJ...989....1Z"
    },
-   "epoch": "2022"
+   "epoch": "2022",
+   "content": "continuum"
   },
   {
    "image_id": "2mass-j16120668-3010270_destinys",
@@ -79,7 +80,8 @@
     "arxiv": "2506.05892",
     "bibcode": "2025A&A...699A.237G"
    },
-   "epoch": "2023"
+   "epoch": "2023",
+   "content": "continuum"
   },
   {
    "image_id": "2mass-j16120668-3010270_magaox2025",
@@ -101,7 +103,8 @@
    },
    "file": "images/2mass-j16120668-3010270/2mass-j16120668-3010270_magaox2025.png",
    "note": "Candidate status: Halpha protoplanet CANDIDATE at ~0.14 arcsec (SNR 5.3 on Apr 13, 3.7 on Apr 16), coincident in position angle/separation with the ALMA circumplanetary-disk-like feature reported by Sierra et al. 2024. Not yet confirmed. Recorded as type 'planet'; no planets[] entry added to the system JSON by this crop agent (per brief, crop agents do not edit system files) -- recommend the merge step add a 'candidate' planets[] entry citing this paper if desired.",
-   "epoch": "2025 Apr 16"
+   "epoch": "2025 Apr 16",
+   "content": "continuum"
   },
   {
    "image_id": "2mass-j16120668-3010270_sphere-k-qphi",
@@ -123,7 +126,8 @@
     "bibcode": "2025A&A...699A.237G"
    },
    "file": "images/2mass-j16120668-3010270/2mass-j16120668-3010270_sphere-k-qphi.png",
-   "epoch": "2023"
+   "epoch": "2023",
+   "content": "continuum"
   },
   {
    "image_id": "2mass-j16120668-3010270_sphere-h-cadi",
@@ -145,7 +149,8 @@
     "bibcode": "2025A&A...699A.237G"
    },
    "file": "images/2mass-j16120668-3010270/2mass-j16120668-3010270_sphere-h-cadi.png",
-   "epoch": "2023"
+   "epoch": "2023",
+   "content": "continuum"
   },
   {
    "image_id": "2mass-j16120668-3010270_sphere-k-irdi",
@@ -167,7 +172,8 @@
     "bibcode": "2025A&A...699A.237G"
    },
    "file": "images/2mass-j16120668-3010270/2mass-j16120668-3010270_sphere-k-irdi.png",
-   "epoch": "2023"
+   "epoch": "2023",
+   "content": "continuum"
   },
   {
    "image_id": "2mass-j16120668-3010270_alma-vioque26",
@@ -188,7 +194,8 @@
     "arxiv": "2512.00157",
     "bibcode": "2026A&A...705A.238V"
    },
-   "epoch": null
+   "epoch": "2022-2023",
+   "content": "continuum"
   },
   {
    "image_id": "2mass-j16120668-3010270_alma-kurtovic26",
@@ -209,7 +216,8 @@
     "arxiv": "2605.30023",
     "bibcode": "2026arXiv260530023K"
    },
-   "epoch": null
+   "epoch": "2022-2023",
+   "content": "continuum"
   },
   {
    "image_id": "2mass-j16120668-3010270_agepro-12co",
@@ -231,7 +239,8 @@
     "arxiv": "2506.10735",
     "bibcode": "2025ApJ...989....4A"
    },
-   "epoch": "2022"
+   "epoch": "2022",
+   "content": "line"
   },
   {
    "image_id": "2mass-j16120668-3010270_agepro-13co",
@@ -253,7 +262,8 @@
     "arxiv": "2506.10735",
     "bibcode": "2025ApJ...989....4A"
    },
-   "epoch": "2022"
+   "epoch": "2022",
+   "content": "line"
   }
  ],
  "notes": "AGE-PRO Upper Scorpius 1. Transition disk with large inner dust cavity and ring at 78 au; ALMA residuals show a spiral arm and a tentative protoplanet candidate inside the cavity (Sierra et al. 2024; Vioque et al. 2025). SPHERE H-band imaging shows spirals, gap, and outer ring interpreted as evidence of planet-disk interaction (Ginski et al. 2025).",

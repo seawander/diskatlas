@@ -43,7 +43,8 @@
     "arxiv": "2603.01703",
     "bibcode": "2026A&A...709A.269G"
    },
-   "epoch": "2022-02-01"
+   "epoch": "2022-02-01",
+   "content": "continuum"
   }
  ],
  "notes": "First-published SPHERE/IRDIS H-band polarimetric image (DESTINYS). Signal clearly visible around the coronagraph out to 0.2\", with fainter signal detected out to 0.6\" (especially to the West), suggesting a relatively inclined disk with P.A. 10-20 deg. Disk features: ring (Garufi et al. 2026, Table A.5/Fig. A.1).",

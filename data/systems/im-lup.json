@@ -34,7 +34,8 @@
     "arxiv": "1812.04040",
     "bibcode": "2018ApJ...869L..41A"
    },
-   "epoch": "2014-2017"
+   "epoch": "2014-2017",
+   "content": "continuum"
   },
   {
    "type": "disk_scattered",
@@ -55,7 +56,8 @@
     "arxiv": "1803.10882",
     "bibcode": "2018ApJ...863...44A"
    },
-   "epoch": "2016-03-12"
+   "epoch": "2016-03-12",
+   "content": "continuum"
   },
   {
    "type": "disk_scattered",
@@ -76,7 +78,8 @@
     "arxiv": "1803.10882",
     "bibcode": "2018ApJ...863...44A"
    },
-   "epoch": "2016-03-12"
+   "epoch": "2016-03-12",
+   "content": "continuum"
   },
   {
    "image_id": "im-lup_alice-f160w",
@@ -98,7 +101,8 @@
     "bibcode": "2018AJ....155..179H"
    },
    "hires_url": "https://archive.stsci.edu/prepds/alice/",
-   "epoch": "2005-2008"
+   "epoch": "2005-2008",
+   "content": "continuum"
   },
   {
    "image_id": "im-lup_alma-maps2021",
@@ -119,7 +123,8 @@
     "bibcode": "2021ApJS..257....1O"
    },
    "file": "images/im-lup/im-lup_alma-maps2021.png",
-   "epoch": "2018-2019"
+   "epoch": "2018-2019",
+   "content": "line"
   },
   {
    "type": "disk_mm",
@@ -140,7 +145,8 @@
     "journal": "ApJ 734, 98",
     "title": "Disk Imaging Survey of Chemistry with SMA. II. Southern Sky Protoplanetary Disks"
    },
-   "epoch": "2010 May 23"
+   "epoch": "2010 May 23",
+   "content": "continuum"
   },
   {
    "image_id": "im-lup_alma-kurtovic26",
@@ -161,7 +167,8 @@
     "arxiv": "2605.30023",
     "bibcode": "2026arXiv260530023K"
    },
-   "epoch": null
+   "epoch": "2017-2019",
+   "content": "continuum"
   },
   {
    "image_id": "im-lup_maps-12co",
@@ -183,7 +190,8 @@
     "arxiv": "2109.06210",
     "bibcode": "2021ApJS..257....3L"
    },
-   "epoch": "2018-2019"
+   "epoch": "2018-2019",
+   "content": "line"
   },
   {
    "image_id": "im-lup_maps-13co",
@@ -205,7 +213,8 @@
     "arxiv": "2109.06210",
     "bibcode": "2021ApJS..257....3L"
    },
-   "epoch": "2018-2019"
+   "epoch": "2018-2019",
+   "content": "line"
   },
   {
    "image_id": "im-lup_maps-c18o",
@@ -227,7 +236,8 @@
     "arxiv": "2109.06210",
     "bibcode": "2021ApJS..257....3L"
    },
-   "epoch": "2018-2019"
+   "epoch": "2018-2019",
+   "content": "line"
   },
   {
    "image_id": "im-lup_maps-c2h",
@@ -249,7 +259,8 @@
     "arxiv": "2109.06210",
     "bibcode": "2021ApJS..257....3L"
    },
-   "epoch": "2018-2019"
+   "epoch": "2018-2019",
+   "content": "line"
   },
   {
    "image_id": "im-lup_maps-hcop",
@@ -271,7 +282,8 @@
     "arxiv": "2109.06210",
     "bibcode": "2021ApJS..257....3L"
    },
-   "epoch": "2018-2019"
+   "epoch": "2018-2019",
+   "content": "line"
   },
   {
    "image_id": "im-lup_maps-cs",
@@ -293,7 +305,8 @@
     "arxiv": "2109.06210",
     "bibcode": "2021ApJS..257....3L"
    },
-   "epoch": "2018-2019"
+   "epoch": "2018-2019",
+   "content": "line"
   },
   {
    "image_id": "im-lup_maps-hcn",
@@ -315,7 +328,8 @@
     "arxiv": "2109.06210",
     "bibcode": "2021ApJS..257....3L"
    },
-   "epoch": "2018-2019"
+   "epoch": "2018-2019",
+   "content": "line"
   }
  ],
  "notes": null,

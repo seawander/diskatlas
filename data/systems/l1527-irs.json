@@ -37,7 +37,8 @@
     "arxiv": "2306.15406",
     "bibcode": "2023ApJ...951....8O"
    },
-   "epoch": "2021"
+   "epoch": "2021",
+   "content": "continuum"
   },
   {
    "image_id": "l1527-irs_vla-7mm",
@@ -58,7 +59,8 @@
     "bibcode": "2022ApJ...934...95S",
     "journal": "ApJ 934, 95"
    },
-   "epoch": "2021 Jan 7"
+   "epoch": "2021 Jan 7",
+   "content": "continuum"
   }
  ],
  "notes": "Class 0 embedded protostar (eDisk)",

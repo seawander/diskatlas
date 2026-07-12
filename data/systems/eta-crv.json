@@ -36,7 +36,8 @@
     "journal": "A&A 693, A151",
     "arxiv": "2501.09058",
     "bibcode": "2025A&A...693A.151M"
-   }
+   },
+   "content": "continuum"
   },
   {
    "type": "disk_mm",
@@ -57,7 +58,8 @@
    },
    "image_id": "eta-crv_alma2017",
    "file": "images/eta-crv/eta-crv_alma2017.png",
-   "epoch": "2013 Dec 15"
+   "epoch": "2013 Dec 15",
+   "content": "continuum"
   },
   {
    "image_id": "eta-crv_alice-f160w",
@@ -79,7 +81,8 @@
     "bibcode": "2018AJ....155..179H"
    },
    "hires_url": "https://archive.stsci.edu/prepds/alice/",
-   "epoch": "2005-07-10"
+   "epoch": "2005-07-10",
+   "content": "continuum"
   },
   {
    "image_id": "eta-crv_herschel2014",
@@ -100,7 +103,8 @@
     "bibcode": "2014ApJ...784..148D"
    },
    "file": "images/eta-crv/eta-crv_herschel2014.png",
-   "epoch": "2011"
+   "epoch": "2011",
+   "content": "continuum"
   },
   {
    "image_id": "eta-crv_pacs-100um-duchene14",
@@ -121,7 +125,8 @@
     "arxiv": "1402.1184",
     "bibcode": "2014ApJ...784..148D"
    },
-   "epoch": "2011"
+   "epoch": "2011",
+   "content": "continuum"
   },
   {
    "image_id": "eta-crv_pacs-160um-duchene14",
@@ -142,7 +147,8 @@
     "arxiv": "1402.1184",
     "bibcode": "2014ApJ...784..148D"
    },
-   "epoch": "2011"
+   "epoch": "2011",
+   "content": "continuum"
   },
   {
    "image_id": "eta-crv_scuba2-450um-sons",
@@ -163,7 +169,8 @@
     "arxiv": "1706.01218",
     "bibcode": "2017MNRAS.470.3606H"
    },
-   "epoch": "2012-2015"
+   "epoch": "2012-2015",
+   "content": "continuum"
   }
  ],
  "notes": "Eta Corvi's debris ring is resolved at mm and far-IR wavelengths (Marino+2017; Matrà+2025); HST scattered-light imaging (ACS/NICMOS, GO-10244) did not detect it (no resolved scattered-light image, swept 2026-07).",

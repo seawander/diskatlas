@@ -32,7 +32,8 @@
     "arxiv": "1906.10809",
     "bibcode": "2019ApJ...882...49L"
    },
-   "epoch": "2017-08-27"
+   "epoch": "2017-08-27",
+   "content": "continuum"
   },
   {
    "type": "disk_scattered",
@@ -53,7 +54,8 @@
     "arxiv": "2403.02158",
     "bibcode": "2024A&A...685A..53G"
    },
-   "epoch": "2019-12-19"
+   "epoch": "2019-12-19",
+   "content": "continuum"
   }
  ],
  "notes": "AUTO-CREATED from staging - fill metadata & coords",

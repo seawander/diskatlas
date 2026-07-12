@@ -34,11 +34,12 @@
     "arxiv": "2512.03128",
     "bibcode": "2025A&A...704A..21E"
    },
-   "epoch": "2016-12-16"
+   "epoch": "2016-12-16",
+   "content": "continuum"
   }
  ],
- "notes": "AUTO-CREATED from staging - fill metadata & coords",
- "last_updated": "2026-07-06",
+ "notes": "G0V debris disk host whose disk was resolved in scattered light for the first time in the SPHERE debris-disk characterization study; the held image is the IRDIS H-band polarized-intensity detection (Engler et al. 2025).",
+ "last_updated": "2026-07-11",
  "plx_mas": 18.6587,
  "mags": {
   "B": 8.72,

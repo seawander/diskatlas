@@ -56,7 +56,8 @@
     "arxiv": "1509.05689",
     "bibcode": "2015ApJ...811..103M"
    },
-   "epoch": "2013-2015"
+   "epoch": "2013-2015",
+   "content": "continuum"
   },
   {
    "image_id": "hr-3549_naco2013",
@@ -78,7 +79,8 @@
     "bibcode": "2015ApJ...811..103M"
    },
    "file": "images/hr-3549/hr-3549_naco2013.png",
-   "epoch": "2013-01-13"
+   "epoch": "2013-01-13",
+   "content": "continuum"
   }
  ],
  "notes": null,

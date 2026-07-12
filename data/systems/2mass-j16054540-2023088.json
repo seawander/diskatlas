@@ -38,7 +38,8 @@
     "arxiv": "2506.10735",
     "bibcode": "2025ApJ...989....4A"
    },
-   "epoch": "2022"
+   "epoch": "2022",
+   "content": "continuum"
   },
   {
    "image_id": "2mass-j16054540-2023088_agepro-12co",
@@ -60,7 +61,8 @@
     "arxiv": "2506.10735",
     "bibcode": "2025ApJ...989....4A"
    },
-   "epoch": "2022"
+   "epoch": "2022",
+   "content": "line"
   }
  ],
  "notes": "M2e Upper Sco member (AGE-PRO USco 2); compact/unresolved 1.3 mm disk (4.3 mJy) with detected 12CO gas disk (Agurto-Gangas et al. 2025).",

@@ -34,7 +34,8 @@
     "arxiv": "2004.13722",
     "bibcode": "2020AJ....160...24E"
    },
-   "epoch": "2017-08-07"
+   "epoch": "2017-08-07",
+   "content": "continuum"
   },
   {
    "type": "disk_mm",
@@ -55,7 +56,8 @@
     "arxiv": "2501.09058",
     "bibcode": "2025A&A...693A.151M"
    },
-   "epoch": "2018-06-03"
+   "epoch": "2018-06-03",
+   "content": "continuum"
   },
   {
    "type": "disk_scattered",
@@ -76,7 +78,8 @@
     "arxiv": "2512.03128",
     "bibcode": "2025A&A...704A..21E"
    },
-   "epoch": "2016-2017"
+   "epoch": "2016-2017",
+   "content": "continuum"
   },
   {
    "image_id": "hd-114082_gpi-crotts24",
@@ -97,7 +100,8 @@
     "arxiv": "2311.14599",
     "bibcode": "2024ApJ...961..245C"
    },
-   "epoch": "2017-08-07"
+   "epoch": "2017-08-07",
+   "content": "continuum"
   },
   {
    "image_id": "hd-114082_gpi-hom24",
@@ -118,7 +122,8 @@
     "bibcode": "2024MNRAS.528.6959H"
    },
    "file": "images/hd-114082/hd-114082_gpi-hom24.png",
-   "epoch": "2017-08-07"
+   "epoch": "2017-08-07",
+   "content": "continuum"
   },
   {
    "image_id": "hd-114082_gpi-h-i-hom24",
@@ -140,7 +145,8 @@
     "arxiv": "2402.00214",
     "bibcode": "2024MNRAS.528.6959H"
    },
-   "epoch": "2018-01-29"
+   "epoch": "2018-01-29",
+   "content": "continuum"
   }
  ],
  "notes": null,

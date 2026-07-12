@@ -35,10 +35,11 @@
     "bibcode": "2025A&A...699A.120M"
    },
    "file": "images/lkha-233/lkha-233_hstfoc1995.png",
-   "epoch": "1995-06-17"
+   "epoch": "1995-06-17",
+   "content": "continuum"
   }
  ],
- "notes": "AUTO-CREATED from staging - fill metadata & coords Added 2026-07-08 (keyword discovery round 2).",
+ "notes": "Herbig Ae/Be star; the held image is the archival HST/FOC near-UV (4118 A) polarized-flux image from 1995 (post-COSTAR), part of a dataset in which a dark lane bisecting the bipolar outflows suggests an obscuring circumstellar disk or dust torus (Marin 2025).",
  "last_updated": "2026-07-11",
  "plx_mas": null,
  "mags": null

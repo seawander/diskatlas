@@ -35,7 +35,8 @@
     "arxiv": "1812.04040",
     "bibcode": "2018ApJ...869L..41A"
    },
-   "epoch": "2017-05-14"
+   "epoch": "2017-05-14",
+   "content": "continuum"
   },
   {
    "type": "disk_scattered",
@@ -56,7 +57,8 @@
     "arxiv": "1803.10882",
     "bibcode": "2018ApJ...863...44A"
    },
-   "epoch": "2016-2017"
+   "epoch": "2016-2017",
+   "content": "continuum"
   },
   {
    "type": "disk_scattered",
@@ -77,7 +79,8 @@
     "arxiv": "1803.10882",
     "bibcode": "2018ApJ...863...44A"
    },
-   "epoch": "2016-2017"
+   "epoch": "2016-2017",
+   "content": "continuum"
   },
   {
    "image_id": "ru-lup_alma-co2020",
@@ -98,7 +101,8 @@
     "bibcode": "2020ApJ...898..140H"
    },
    "file": "images/ru-lup/ru-lup_alma-co2020.png",
-   "epoch": "2017-2018"
+   "epoch": "2017-2018",
+   "content": "line"
   },
   {
    "image_id": "ru-lup_alma-kurtovic26",
@@ -119,7 +123,8 @@
     "arxiv": "2605.30023",
     "bibcode": "2026arXiv260530023K"
    },
-   "epoch": null
+   "epoch": "2017",
+   "content": "continuum"
   }
  ],
  "notes": null,

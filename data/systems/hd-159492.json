@@ -35,11 +35,12 @@
     "bibcode": "2013ApJ...776..111M"
    },
    "file": "images/hd-159492/hd-159492_herschel-pacs.png",
-   "epoch": "2012-03-01"
+   "epoch": "2012-03-01",
+   "content": "continuum"
   }
  ],
- "notes": "AUTO-CREATED from staging - fill metadata & coords Added 2026-07-08 (archival/keyword exploration).",
- "last_updated": "2026-07-08",
+ "notes": "A-type star whose SED indicates a two-belt (asteroid- plus Kuiper-belt-like) debris architecture; the held Herschel/PACS 100 um image spatially resolves the cold outer belt for the first time (Morales et al. 2013).",
+ "last_updated": "2026-07-11",
  "plx_mas": null,
  "mags": null
 }

@@ -45,7 +45,8 @@
    },
    "image_id": "2m1207_naco2004",
    "file": "images/2m1207/2m1207_naco2004.png",
-   "epoch": "2004 Apr 27"
+   "epoch": "2004 Apr 27",
+   "content": "continuum"
   },
   {
    "image_id": "2m1207_nicmos2006",
@@ -66,7 +67,8 @@
     "arxiv": "astro-ph/0607490",
     "bibcode": "2006ApJ...652..724S"
    },
-   "epoch": "2004-2006"
+   "epoch": "2004-2006",
+   "content": "continuum"
   },
   {
    "image_id": "2m1207_miri2025",
@@ -87,7 +89,8 @@
     "bibcode": "2025A&A...704A...5P"
    },
    "file": "images/2m1207/2m1207_miri2025.png",
-   "epoch": "2023-02-07"
+   "epoch": "2023-02-07",
+   "content": "continuum"
   }
  ],
  "notes": null,

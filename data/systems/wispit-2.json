@@ -68,7 +68,8 @@
    },
    "image_id": "wispit-2_magaox2025",
    "file": "images/wispit-2/wispit-2_magaox2025.png",
-   "epoch": "2025 Apr 16"
+   "epoch": "2025 Apr 16",
+   "content": "continuum"
   },
   {
    "type": "disk_scattered",
@@ -89,7 +90,8 @@
    },
    "image_id": "wispit-2_sphere2025",
    "file": "images/wispit-2/wispit-2_sphere2025.png",
-   "epoch": "2023 Oct 19"
+   "epoch": "2023 Oct 19",
+   "content": "continuum"
   },
   {
    "type": "disk_mm",
@@ -110,7 +112,8 @@
    },
    "image_id": "wispit-2_alma2026",
    "file": "images/wispit-2/wispit-2_alma2026.png",
-   "epoch": "2025-2026"
+   "epoch": "2025-2026",
+   "content": "continuum"
   },
   {
    "type": "planet",
@@ -131,7 +134,8 @@
    },
    "image_id": "wispit-2_gravity2026",
    "file": "images/wispit-2/wispit-2_gravity2026.png",
-   "epoch": "2025-10-04"
+   "epoch": "2025-10-04",
+   "content": "continuum"
   },
   {
    "image_id": "wispit-2_lband2025",
@@ -152,7 +156,8 @@
     "bibcode": "2025ApJ...990L...9C"
    },
    "file": "images/wispit-2/wispit-2_lband2025.png",
-   "epoch": "2025 June 5"
+   "epoch": "2025 June 5",
+   "content": "continuum"
   },
   {
    "image_id": "wispit-2_planetc2026",
@@ -173,7 +178,8 @@
     "bibcode": "2026ApJ..1000L..38L"
    },
    "file": "images/wispit-2/wispit-2_planetc2026.png",
-   "epoch": "2025-03-21"
+   "epoch": "2025-03-21",
+   "content": "continuum"
   },
   {
    "image_id": "wispit-2_sphere-h-2025sep",
@@ -195,7 +201,8 @@
     "bibcode": "2026ApJ..1000L..38L"
    },
    "file": "images/wispit-2/wispit-2_sphere-h-2025sep.png",
-   "epoch": "2025-09-24"
+   "epoch": "2025-09-24",
+   "content": "continuum"
   },
   {
    "image_id": "wispit-2_alma-kurtovic26",
@@ -216,7 +223,8 @@
     "arxiv": "2605.30023",
     "bibcode": "2026arXiv260530023K"
    },
-   "epoch": null
+   "epoch": "2025",
+   "content": "continuum"
   }
  ],
  "notes": "The second known multi-planet system caught in formation inside its natal disk, a PDS 70 analogue (Close+2025; van Capelleveen+2025).",

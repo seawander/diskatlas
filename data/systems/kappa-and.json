@@ -47,7 +47,8 @@
    },
    "image_id": "kappa-and_seeds2013",
    "file": "images/kappa-and/kappa-and_seeds2013.png",
-   "epoch": "2012 Jan 1"
+   "epoch": "2012 Jan 1",
+   "content": "continuum"
   },
   {
    "type": "planet",
@@ -68,7 +69,8 @@
    },
    "image_id": "kappa-and_scexao2018",
    "file": "images/kappa-and/kappa-and_scexao2018.png",
-   "epoch": "2017 Sep 8"
+   "epoch": "2017 Sep 8",
+   "content": "continuum"
   },
   {
    "image_id": "kappa-and_nirc22014-ks",
@@ -89,7 +91,8 @@
     "bibcode": "2014A&A...562A.111B"
    },
    "file": "images/kappa-and/kappa-and_nirc22014-ks.png",
-   "epoch": "2012 Nov 3"
+   "epoch": "2012 Nov 3",
+   "content": "continuum"
   },
   {
    "image_id": "kappa-and_nirc22014-lp",
@@ -110,7 +113,8 @@
     "bibcode": "2014A&A...562A.111B"
    },
    "file": "images/kappa-and/kappa-and_nirc22014-lp.png",
-   "epoch": "2012 Nov 3"
+   "epoch": "2012 Nov 3",
+   "content": "continuum"
   },
   {
    "image_id": "kappa-and_lbti2014",
@@ -131,7 +135,8 @@
     "arxiv": "1308.3859",
     "bibcode": "2014A&A...562A.111B"
    },
-   "epoch": "2012-10-06"
+   "epoch": "2012-10-06",
+   "content": "continuum"
   },
   {
    "image_id": "kappa-and_hiciao-snrmap",
@@ -153,7 +158,8 @@
     "bibcode": "2013ApJ...763L..32C"
    },
    "file": "images/kappa-and/kappa-and_hiciao-snrmap.png",
-   "epoch": "2012-07"
+   "epoch": "2012-07",
+   "content": "continuum"
   },
   {
    "image_id": "kappa-and_ircs-lp",
@@ -175,7 +181,8 @@
     "bibcode": "2013ApJ...763L..32C"
    },
    "file": "images/kappa-and/kappa-and_ircs-lp.png",
-   "epoch": "2012-07"
+   "epoch": "2012-07",
+   "content": "continuum"
   },
   {
    "image_id": "kappa-and_nirc2-nb405-2012",
@@ -197,7 +204,8 @@
     "bibcode": "2014A&A...562A.111B"
    },
    "file": "images/kappa-and/kappa-and_nirc2-nb405-2012.png",
-   "epoch": "2012-11-03"
+   "epoch": "2012-11-03",
+   "content": "continuum"
   }
  ],
  "notes": null,

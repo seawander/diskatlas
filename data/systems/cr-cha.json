@@ -34,7 +34,8 @@
     "arxiv": "2403.02149",
     "bibcode": "2024A&A...685A..52G"
    },
-   "epoch": "2019-01-15"
+   "epoch": "2019-01-15",
+   "content": "continuum"
   },
   {
    "type": "disk_scattered",
@@ -55,7 +56,8 @@
     "arxiv": "2404.02222",
     "bibcode": "2024A&A...684A..73D"
    },
-   "epoch": "2006-04-09"
+   "epoch": "2006-04-09",
+   "content": "continuum"
   },
   {
    "image_id": "cr-cha_alma-kurtovic26",
@@ -76,7 +78,8 @@
     "arxiv": "2605.30023",
     "bibcode": "2026arXiv260530023K"
    },
-   "epoch": null
+   "epoch": "2017-2018",
+   "content": "continuum"
   }
  ],
  "notes": "AUTO-CREATED from staging - fill metadata & coords",

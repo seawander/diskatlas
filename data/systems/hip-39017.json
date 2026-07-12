@@ -85,7 +85,8 @@
     "bibcode": "2024AJ....167..205T"
    },
    "file": "images/hip-39017/hip-39017_charis2024.png",
-   "epoch": "2022-02-21"
+   "epoch": "2022-02-21",
+   "content": "continuum"
   },
   {
    "image_id": "hip-39017_charis-dec2022",
@@ -107,7 +108,8 @@
     "bibcode": "2024AJ....167..205T"
    },
    "file": "images/hip-39017/hip-39017_charis-dec2022.png",
-   "epoch": "2022-12-31"
+   "epoch": "2022-12-31",
+   "content": "continuum"
   },
   {
    "image_id": "hip-39017_nirc2-lp-2022",
@@ -129,7 +131,8 @@
     "bibcode": "2024AJ....167..205T"
    },
    "file": "images/hip-39017/hip-39017_nirc2-lp-2022.png",
-   "epoch": "2022-03-21"
+   "epoch": "2022-03-21",
+   "content": "continuum"
   }
  ],
  "notes": "HIP 39017 (HD 65526) is a γ Doradus-type pulsating variable, reclassified from a suspected eclipsing binary once multiple pulsation frequencies were identified (Handler+1999; Henry+2011). Tobin et al. 2024 adopt a young age of ≲115 Myr from its Gaia colour-magnitude position, which sits almost on top of the imaged-planet hosts HR 8799 and 51 Eri and near the Pleiades sequence. A statistically significant 5.5σ astrometric acceleration in the Hipparcos-Gaia Catalog of Accelerations (HGCA eDR3; Brandt+2021) flagged an unseen companion and motivated the SCExAO/CHARIS imaging search that discovered companion b (Tobin et al. 2024), which they describe as a 'massive planet or low-mass brown dwarf' with an L/T-transition spectrum. Companion b is tagged here with method imaging per atlas convention.",

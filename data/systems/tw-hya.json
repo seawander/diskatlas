@@ -34,7 +34,8 @@
    },
    "image_id": "tw-hya_alma2016",
    "file": "images/tw-hya/tw-hya_alma2016.png",
-   "epoch": "2014-2015"
+   "epoch": "2014-2015",
+   "content": "continuum"
   },
   {
    "type": "disk_scattered",
@@ -55,7 +56,8 @@
    },
    "image_id": "tw-hya_sphere2017",
    "file": "images/tw-hya/tw-hya_sphere2017.png",
-   "epoch": "2015 Feb 3"
+   "epoch": "2015 Feb 3",
+   "content": "continuum"
   },
   {
    "type": "disk_scattered",
@@ -76,7 +78,8 @@
    },
    "image_id": "tw-hya_stis2013",
    "file": "images/tw-hya/tw-hya_stis2013.png",
-   "epoch": "2000-2011"
+   "epoch": "2000-2011",
+   "content": "continuum"
   },
   {
    "type": "disk_mm",
@@ -97,7 +100,8 @@
     "arxiv": "1603.09352",
     "bibcode": "2016ApJ...820L..40A"
    },
-   "epoch": "2014-2015"
+   "epoch": "2014-2015",
+   "content": "continuum"
   },
   {
    "type": "disk_scattered",
@@ -118,7 +122,8 @@
    },
    "image_id": "tw-hya_wfpc2-2000",
    "file": "images/tw-hya/tw-hya_wfpc2-2000.png",
-   "epoch": "1998-12-20"
+   "epoch": "1998-12-20",
+   "content": "continuum"
   },
   {
    "type": "disk_scattered",
@@ -139,7 +144,8 @@
     "arxiv": "2404.02222",
     "bibcode": "2024A&A...684A..73D"
    },
-   "epoch": "2003-02-22"
+   "epoch": "2003-02-22",
+   "content": "continuum"
   },
   {
    "image_id": "tw-hya_seeds",
@@ -159,7 +165,8 @@
     "journal": "ApJL 802, L17",
     "arxiv": "1503.01856",
     "bibcode": "2015ApJ...802L..17A"
-   }
+   },
+   "content": "continuum"
   },
   {
    "type": "disk_scattered",
@@ -180,7 +187,8 @@
     "arxiv": "1701.03152",
     "bibcode": "2017ApJ...835..205D"
    },
-   "epoch": "2016"
+   "epoch": "2016",
+   "content": "continuum"
   },
   {
    "type": "disk_scattered",
@@ -201,7 +209,8 @@
     "arxiv": "2305.03611",
     "bibcode": "2023ApJ...948...36D"
    },
-   "epoch": "2021"
+   "epoch": "2021",
+   "content": "continuum"
   },
   {
    "image_id": "tw-hya_alice-f110w",
@@ -223,7 +232,8 @@
     "bibcode": "2018AJ....155..179H"
    },
    "hires_url": "https://archive.stsci.edu/prepds/alice/",
-   "epoch": "1998-11-25"
+   "epoch": "1998-11-25",
+   "content": "continuum"
   },
   {
    "image_id": "tw-hya_gpi2015",
@@ -244,7 +254,8 @@
     "bibcode": "2015ApJ...815L..26R"
    },
    "file": "images/tw-hya/tw-hya_gpi2015.png",
-   "epoch": "2015"
+   "epoch": "2015",
+   "content": "continuum"
   },
   {
    "image_id": "tw-hya_sma2012",
@@ -265,7 +276,8 @@
     "bibcode": "2012ApJ...744..162A"
    },
    "file": "images/tw-hya/tw-hya_sma2012.png",
-   "epoch": "2008"
+   "epoch": "2008",
+   "content": "continuum"
   },
   {
    "image_id": "tw-hya_sphere-rdi-xie22",
@@ -286,7 +298,8 @@
     "bibcode": "2022A&A...666A..32X"
    },
    "file": "images/tw-hya/tw-hya_sphere-rdi-xie22.png",
-   "epoch": "2020"
+   "epoch": "2020",
+   "content": "continuum"
   },
   {
    "image_id": "tw-hya_eris2025",
@@ -307,7 +320,8 @@
     "bibcode": "2025A&A...698A..52M"
    },
    "file": "images/tw-hya/tw-hya_eris2025.png",
-   "epoch": "2023 May 28"
+   "epoch": "2023 May 28",
+   "content": "continuum"
   },
   {
    "image_id": "tw-hya_nicmos-pol2018",
@@ -328,7 +342,8 @@
     "bibcode": "2018ApJ...860..115P"
    },
    "file": "images/tw-hya/tw-hya_nicmos-pol2018.png",
-   "epoch": "1998-2005"
+   "epoch": "1998-2005",
+   "content": "continuum"
   },
   {
    "image_id": "tw-hya_hst-nicmos-f160w",
@@ -350,7 +365,8 @@
     "bibcode": "2013ApJ...771...45D"
    },
    "file": "images/tw-hya/tw-hya_hst-nicmos-f160w.png",
-   "epoch": "1998"
+   "epoch": "1998",
+   "content": "continuum"
   },
   {
    "image_id": "tw-hya_hst-nicmos-f171m",
@@ -372,7 +388,8 @@
     "bibcode": "2013ApJ...771...45D"
    },
    "file": "images/tw-hya/tw-hya_hst-nicmos-f171m.png",
-   "epoch": "2005-05-09"
+   "epoch": "2005-05-09",
+   "content": "continuum"
   },
   {
    "image_id": "tw-hya_hst-nicmos-f180m",
@@ -394,7 +411,8 @@
     "bibcode": "2013ApJ...771...45D"
    },
    "file": "images/tw-hya/tw-hya_hst-nicmos-f180m.png",
-   "epoch": "2005-05-09"
+   "epoch": "2005-05-09",
+   "content": "continuum"
   },
   {
    "image_id": "tw-hya_hst-nicmos-f204m",
@@ -416,7 +434,8 @@
     "bibcode": "2013ApJ...771...45D"
    },
    "file": "images/tw-hya/tw-hya_hst-nicmos-f204m.png",
-   "epoch": "2005-05-09"
+   "epoch": "2005-05-09",
+   "content": "continuum"
   },
   {
    "image_id": "tw-hya_hst-nicmos-f222m",
@@ -438,7 +457,8 @@
     "bibcode": "2013ApJ...771...45D"
    },
    "file": "images/tw-hya/tw-hya_hst-nicmos-f222m.png",
-   "epoch": "2005-05-09"
+   "epoch": "2005-05-09",
+   "content": "continuum"
   },
   {
    "image_id": "tw-hya_gpi-k1",
@@ -460,7 +480,8 @@
     "bibcode": "2015ApJ...815L..26R"
    },
    "file": "images/tw-hya/tw-hya_gpi-k1.png",
-   "epoch": "2015-04-22"
+   "epoch": "2015-04-22",
+   "content": "continuum"
   },
   {
    "image_id": "tw-hya_alma-vioque26",
@@ -481,7 +502,8 @@
     "arxiv": "2512.00157",
     "bibcode": "2026A&A...705A.238V"
    },
-   "epoch": null
+   "epoch": "2015-12-01",
+   "content": "continuum"
   },
   {
    "image_id": "tw-hya_alma-kurtovic26",
@@ -502,7 +524,8 @@
     "arxiv": "2605.30023",
     "bibcode": "2026arXiv260530023K"
    },
-   "epoch": null
+   "epoch": "2015-12-01",
+   "content": "continuum"
   }
  ],
  "notes": null,

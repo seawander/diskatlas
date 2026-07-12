@@ -56,7 +56,8 @@
     "bibcode": "2010ApJ...720L..82B"
    },
    "file": "images/pz-tel/pz-tel_nici2010-j.png",
-   "epoch": "2010-05"
+   "epoch": "2010-05",
+   "content": "continuum"
   },
   {
    "image_id": "pz-tel_nici2010-h",
@@ -78,7 +79,8 @@
     "bibcode": "2010ApJ...720L..82B"
    },
    "file": "images/pz-tel/pz-tel_nici2010-h.png",
-   "epoch": "2010-05"
+   "epoch": "2010-05",
+   "content": "continuum"
   },
   {
    "image_id": "pz-tel_nici2010-ks",
@@ -100,7 +102,8 @@
     "bibcode": "2010ApJ...720L..82B"
    },
    "file": "images/pz-tel/pz-tel_nici2010-ks.png",
-   "epoch": "2010-05"
+   "epoch": "2010-05",
+   "content": "continuum"
   },
   {
    "image_id": "pz-tel_nici2010-h2",
@@ -122,7 +125,8 @@
     "bibcode": "2010ApJ...720L..82B"
    },
    "file": "images/pz-tel/pz-tel_nici2010-h2.png",
-   "epoch": "2010-05"
+   "epoch": "2010-05",
+   "content": "continuum"
   }
  ],
  "notes": null,

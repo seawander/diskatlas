@@ -46,7 +46,8 @@
    },
    "image_id": "hip-99770_scexao2023",
    "file": "images/hip-99770/hip-99770_scexao2023.png",
-   "epoch": "2021-05-19"
+   "epoch": "2021-05-19",
+   "content": "continuum"
   },
   {
    "image_id": "hip-99770_nircam2026",
@@ -67,7 +68,8 @@
     "bibcode": "2026ApJ..1001L..26B"
    },
    "file": "images/hip-99770/hip-99770_nircam2026.png",
-   "epoch": "2025-09-01"
+   "epoch": "2025-09-01",
+   "content": "continuum"
   },
   {
    "image_id": "hip-99770_nircam-f410m",
@@ -89,7 +91,8 @@
     "bibcode": "2026ApJ..1001L..26B"
    },
    "file": "images/hip-99770/hip-99770_nircam-f410m.png",
-   "epoch": "2025-09-01"
+   "epoch": "2025-09-01",
+   "content": "continuum"
   },
   {
    "image_id": "hip-99770_nircam-f430m",
@@ -111,7 +114,8 @@
     "bibcode": "2026ApJ..1001L..26B"
    },
    "file": "images/hip-99770/hip-99770_nircam-f430m.png",
-   "epoch": "2025-09-01"
+   "epoch": "2025-09-01",
+   "content": "continuum"
   },
   {
    "image_id": "hip-99770_nircam-f460m",
@@ -133,7 +137,8 @@
     "bibcode": "2026ApJ..1001L..26B"
    },
    "file": "images/hip-99770/hip-99770_nircam-f460m.png",
-   "epoch": "2025-09-01"
+   "epoch": "2025-09-01",
+   "content": "continuum"
   },
   {
    "image_id": "hip-99770_charis-oct2021",
@@ -155,7 +160,8 @@
     "bibcode": "2023Sci...380..198C"
    },
    "file": "images/hip-99770/hip-99770_charis-oct2021.png",
-   "epoch": "2021-10-17"
+   "epoch": "2021-10-17",
+   "content": "continuum"
   }
  ],
  "notes": null,

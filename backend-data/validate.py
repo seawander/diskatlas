@@ -67,6 +67,14 @@ def main():
                 errors.append(f"{sid}/{iid}: bad type '{im.get('type')}'")
             if not isinstance(im.get("wavelength_um"), (int, float)):
                 errors.append(f"{sid}/{iid}: wavelength_um must be a number")
+            # content: continuum vs spectral-line data product. Required on
+            # disk_mm (where per-line moment-map records exist); optional on
+            # other types (set where meaningful, e.g. Halpha/[SII] jets).
+            c = im.get("content")
+            if c is not None and c not in ("continuum", "line"):
+                errors.append(f"{sid}/{iid}: bad content '{c}' (continuum|line)")
+            if im.get("type") == "disk_mm" and c is None:
+                errors.append(f"{sid}/{iid}: disk_mm record missing content field")
             p = im.get("paper") or {}
             if not p.get("arxiv") and not p.get("bibcode"):
                 warns.append(f"{sid}/{iid}: paper has neither arxiv nor bibcode")

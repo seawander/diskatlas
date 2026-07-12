@@ -59,7 +59,8 @@
     "bibcode": "2021AJ....162...44S"
    },
    "file": "images/hip-109427/hip-109427_scexao2021.png",
-   "epoch": "2020-07-31"
+   "epoch": "2020-07-31",
+   "content": "continuum"
   },
   {
    "image_id": "hip-109427_scexao-mec-yj",
@@ -81,7 +82,8 @@
     "bibcode": "2021AJ....162...44S"
    },
    "file": "images/hip-109427/hip-109427_scexao-mec-yj.png",
-   "epoch": "2020-10-07"
+   "epoch": "2020-10-07",
+   "content": "continuum"
   },
   {
    "image_id": "hip-109427_charis-h",
@@ -103,7 +105,8 @@
     "bibcode": "2021AJ....162...44S"
    },
    "file": "images/hip-109427/hip-109427_charis-h.png",
-   "epoch": "2020-10-07"
+   "epoch": "2020-10-07",
+   "content": "continuum"
   },
   {
    "image_id": "hip-109427_nirc2-lp",
@@ -125,7 +128,8 @@
     "bibcode": "2021AJ....162...44S"
    },
    "file": "images/hip-109427/hip-109427_nirc2-lp.png",
-   "epoch": "2020-12-25"
+   "epoch": "2020-12-25",
+   "content": "continuum"
   }
  ],
  "notes": "HIP 109427 (theta Peg) is a nearby A1V lambda Boo star. Companion B was first detected with SCExAO/MEC using Stochastic Speckle Discrimination (SSD; Steiger+2021, Fig. 1) and subsequently confirmed and characterized with SCExAO/CHARIS spectroscopy and Keck/NIRC2 Lp photometry (Fig. 2, used here). Tagged with method imaging per atlas convention; the companion is low-mass stellar (M dwarf), not planetary, per the paper's mass estimate.",

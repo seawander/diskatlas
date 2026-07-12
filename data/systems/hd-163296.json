@@ -48,7 +48,8 @@
     "arxiv": "1812.04040",
     "bibcode": "2018ApJ...869L..41A"
    },
-   "epoch": "2014-2017"
+   "epoch": "2014-2017",
+   "content": "continuum"
   },
   {
    "type": "disk_mm",
@@ -69,7 +70,8 @@
     "arxiv": null,
     "bibcode": "2016PhRvL.117y1101I"
    },
-   "epoch": "2012-2016"
+   "epoch": "2012-2016",
+   "content": "continuum"
   },
   {
    "type": "disk_scattered",
@@ -89,7 +91,8 @@
     "journal": "AJ 164, 109",
     "arxiv": "2206.05815",
     "bibcode": "2022AJ....164..109R"
-   }
+   },
+   "content": "continuum"
   },
   {
    "type": "disk_scattered",
@@ -110,7 +113,8 @@
    },
    "image_id": "hd-163296_stis2000",
    "file": "images/hd-163296/hd-163296_stis2000.png",
-   "epoch": "1998-2000"
+   "epoch": "1998-2000",
+   "content": "continuum"
   },
   {
    "type": "disk_scattered",
@@ -131,7 +135,8 @@
     "arxiv": "2404.02222",
     "bibcode": "2024A&A...684A..73D"
    },
-   "epoch": "2012-07-23"
+   "epoch": "2012-07-23",
+   "content": "continuum"
   },
   {
    "image_id": "hd-163296_alice-f110w",
@@ -153,7 +158,8 @@
     "bibcode": "2018AJ....155..179H"
    },
    "hires_url": "https://archive.stsci.edu/prepds/alice/",
-   "epoch": "2004-2005"
+   "epoch": "2004-2005",
+   "content": "continuum"
   },
   {
    "image_id": "hd-163296_scexao-mullin",
@@ -174,7 +180,8 @@
     "arxiv": "2602.20346",
     "bibcode": "2026AJ....171..241M"
    },
-   "epoch": "2022-04-08"
+   "epoch": "2022-04-08",
+   "content": "continuum"
   },
   {
    "image_id": "hd-163296_sphere2018",
@@ -195,7 +202,8 @@
     "arxiv": "1802.03328",
     "bibcode": "2018A&A...614A..24M"
    },
-   "epoch": "2016"
+   "epoch": "2016",
+   "content": "continuum"
   },
   {
    "image_id": "hd-163296_alma-maps2021",
@@ -216,7 +224,8 @@
     "bibcode": "2021ApJS..257....1O"
    },
    "file": "images/hd-163296/hd-163296_alma-maps2021.png",
-   "epoch": "2018-2019"
+   "epoch": "2018-2019",
+   "content": "line"
   },
   {
    "image_id": "hd-163296_nircam2025",
@@ -237,7 +246,8 @@
     "bibcode": "2025AJ....169..287U"
    },
    "file": "images/hd-163296/hd-163296_nircam2025.png",
-   "epoch": "2023-08-15"
+   "epoch": "2023-08-15",
+   "content": "continuum"
   },
   {
    "image_id": "hd-163296_sma-0.87mm2007",
@@ -257,7 +267,8 @@
     "arxiv": "0704.0616",
     "bibcode": "2007A&A...469..213I"
    },
-   "file": "images/hd-163296/hd-163296_sma-0.87mm2007.png"
+   "file": "images/hd-163296/hd-163296_sma-0.87mm2007.png",
+   "content": "continuum"
   },
   {
    "image_id": "hd-163296_pdbi-1.3mm2007",
@@ -278,7 +289,8 @@
     "bibcode": "2007A&A...469..213I"
    },
    "file": "images/hd-163296/hd-163296_pdbi-1.3mm2007.png",
-   "epoch": "2001-2003"
+   "epoch": "2003-2004",
+   "content": "continuum"
   },
   {
    "image_id": "hd-163296_pdbi-2.8mm2007",
@@ -299,7 +311,8 @@
     "bibcode": "2007A&A...469..213I"
    },
    "file": "images/hd-163296/hd-163296_pdbi-2.8mm2007.png",
-   "epoch": "2001-2003"
+   "epoch": "2003-2004",
+   "content": "continuum"
   },
   {
    "image_id": "hd-163296_sphere-ks-qphi",
@@ -320,7 +333,8 @@
     "bibcode": "2023A&A...680A.114R"
    },
    "file": "images/hd-163296/hd-163296_sphere-ks-qphi.png",
-   "epoch": "2021-04-06"
+   "epoch": "2021-04-06",
+   "content": "continuum"
   },
   {
    "image_id": "hd-163296_muse2020",
@@ -341,7 +355,8 @@
     "bibcode": "2020A&A...644A.149X"
    },
    "file": "images/hd-163296/hd-163296_muse2020.png",
-   "epoch": "2019-04-29"
+   "epoch": "2019-04-29",
+   "content": "continuum"
   },
   {
    "image_id": "hd-163296_nirc2vortex2018",
@@ -362,7 +377,8 @@
     "bibcode": "2018MNRAS.479.1505G"
    },
    "file": "images/hd-163296/hd-163296_nirc2vortex2018.png",
-   "epoch": "2017"
+   "epoch": "2017",
+   "content": "continuum"
   },
   {
    "image_id": "hd-163296_eris2025",
@@ -383,7 +399,8 @@
     "bibcode": "2025A&A...698A..52M"
    },
    "file": "images/hd-163296/hd-163296_eris2025.png",
-   "epoch": "2023 May 28"
+   "epoch": "2023 May 28",
+   "content": "continuum"
   },
   {
    "image_id": "hd-163296_hiciao2011",
@@ -404,7 +421,8 @@
     "bibcode": "2019ApJ...875...38R"
    },
    "file": "images/hd-163296/hd-163296_hiciao2011.png",
-   "epoch": "2011"
+   "epoch": "2011",
+   "content": "continuum"
   },
   {
    "image_id": "hd-163296_stis2005",
@@ -425,7 +443,8 @@
     "bibcode": "2005ApJ...630..958G"
    },
    "file": "images/hd-163296/hd-163296_stis2005.png",
-   "epoch": "1998-2000"
+   "epoch": "1998-2000",
+   "content": "continuum"
   },
   {
    "image_id": "hd-163296_sphere2018-J",
@@ -446,7 +465,8 @@
     "arxiv": "1802.03328",
     "bibcode": "2018A&A...614A..24M"
    },
-   "epoch": "2016"
+   "epoch": "2016",
+   "content": "continuum"
   },
   {
    "image_id": "hd-163296_nircam-f200w",
@@ -468,7 +488,8 @@
     "bibcode": "2025AJ....169..287U"
    },
    "file": "images/hd-163296/hd-163296_nircam-f200w-2025.png",
-   "epoch": "2023-08-15"
+   "epoch": "2023-08-15",
+   "content": "continuum"
   },
   {
    "image_id": "hd-163296_naco-h-qphi-garufi14",
@@ -489,7 +510,8 @@
     "arxiv": "1406.7387",
     "bibcode": "2014A&A...568A..40G"
    },
-   "epoch": "2012-07-23"
+   "epoch": "2012-07-23",
+   "content": "continuum"
   },
   {
    "image_id": "hd-163296_naco-ks-qphi-garufi14",
@@ -510,7 +532,8 @@
     "arxiv": "1406.7387",
     "bibcode": "2014A&A...568A..40G"
    },
-   "epoch": "2012-07-23"
+   "epoch": "2012-07-23",
+   "content": "continuum"
   },
   {
    "image_id": "hd-163296_alma-vioque26",
@@ -531,7 +554,8 @@
     "arxiv": "2512.00157",
     "bibcode": "2026A&A...705A.238V"
    },
-   "epoch": null
+   "epoch": "2017-2019",
+   "content": "continuum"
   },
   {
    "image_id": "hd-163296_alma-kurtovic26",
@@ -552,7 +576,8 @@
     "arxiv": "2605.30023",
     "bibcode": "2026arXiv260530023K"
    },
-   "epoch": null
+   "epoch": "2015-2019",
+   "content": "continuum"
   },
   {
    "image_id": "hd-163296_maps-12co",
@@ -574,7 +599,8 @@
     "arxiv": "2109.06210",
     "bibcode": "2021ApJS..257....3L"
    },
-   "epoch": "2018-2019"
+   "epoch": "2018-2019",
+   "content": "line"
   },
   {
    "image_id": "hd-163296_maps-13co",
@@ -596,7 +622,8 @@
     "arxiv": "2109.06210",
     "bibcode": "2021ApJS..257....3L"
    },
-   "epoch": "2018-2019"
+   "epoch": "2018-2019",
+   "content": "line"
   },
   {
    "image_id": "hd-163296_maps-c18o",
@@ -618,7 +645,8 @@
     "arxiv": "2109.06210",
     "bibcode": "2021ApJS..257....3L"
    },
-   "epoch": "2018-2019"
+   "epoch": "2018-2019",
+   "content": "line"
   },
   {
    "image_id": "hd-163296_maps-c2h",
@@ -640,7 +668,8 @@
     "arxiv": "2109.06210",
     "bibcode": "2021ApJS..257....3L"
    },
-   "epoch": "2018-2019"
+   "epoch": "2018-2019",
+   "content": "line"
   },
   {
    "image_id": "hd-163296_maps-hcop",
@@ -662,7 +691,8 @@
     "arxiv": "2109.06210",
     "bibcode": "2021ApJS..257....3L"
    },
-   "epoch": "2018-2019"
+   "epoch": "2018-2019",
+   "content": "line"
   },
   {
    "image_id": "hd-163296_maps-cs",
@@ -684,7 +714,8 @@
     "arxiv": "2109.06210",
     "bibcode": "2021ApJS..257....3L"
    },
-   "epoch": "2018-2019"
+   "epoch": "2018-2019",
+   "content": "line"
   },
   {
    "image_id": "hd-163296_maps-hcn",
@@ -706,7 +737,8 @@
     "arxiv": "2109.06210",
     "bibcode": "2021ApJS..257....3L"
    },
-   "epoch": "2018-2019"
+   "epoch": "2018-2019",
+   "content": "line"
   }
  ],
  "notes": null,

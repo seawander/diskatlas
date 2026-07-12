@@ -38,7 +38,8 @@
     "bibcode": "2022ApJ...924..107W"
    },
    "file": "images/orion-src-i/orion-src-i_alma2021.png",
-   "epoch": "2017-09-24"
+   "epoch": "2017-09-24",
+   "content": "continuum"
   }
  ],
  "notes": "Massive young stellar object in the Orion BN/KL region driving the SiO maser outflow. Multi-frequency (43-340 GHz) JVLA+ALMA imaging resolves an almost edge-on ~100 au disk heated from inside (Chen et al. 2021, arXiv:2110.13838). Distance ~388 pc (Orion Nebula Cluster / Kounkel et al. 2017).",

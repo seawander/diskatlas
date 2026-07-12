@@ -36,7 +36,8 @@
     "bibcode": "2020A&A...633A..13D"
    },
    "file": "images/pi1-gruis/pi1-gruis_alma2020.png",
-   "epoch": "2018-2019"
+   "epoch": "2018-2019",
+   "content": "continuum"
   }
  ],
  "notes": "Evolved (AGB) star pi1 Gruis whose circumstellar disk was resolved with ALMA (Doan+2020).",

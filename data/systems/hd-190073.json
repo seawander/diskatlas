@@ -34,11 +34,12 @@
     "bibcode": "2023ApJ...947...68I"
    },
    "file": "images/hd-190073/hd-190073_chara-vlti-ibrahim2023.png",
-   "epoch": "2019"
+   "epoch": "2019",
+   "content": "continuum"
   }
  ],
- "notes": "AUTO-CREATED from staging - fill metadata & coords Added 2026-07-08 (archival/keyword exploration).",
- "last_updated": "2026-07-08",
+ "notes": "Herbig Be star; the held image is a model-free H-band interferometric image reconstruction (Epoch A, 2019) from CHARA/MIRC-X and MYSTIC data, resolving the inner astronomical unit of its disk (Ibrahim et al. 2023).",
+ "last_updated": "2026-07-11",
  "plx_mas": null,
  "mags": null
 }

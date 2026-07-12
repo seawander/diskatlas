@@ -34,7 +34,8 @@
     "arxiv": "2501.09058",
     "bibcode": "2025A&A...693A.151M"
    },
-   "epoch": "2019-12-17"
+   "epoch": "2019-12-17",
+   "content": "continuum"
   },
   {
    "type": "disk_scattered",
@@ -55,7 +56,8 @@
     "arxiv": "2512.03128",
     "bibcode": "2025A&A...704A..21E"
    },
-   "epoch": "2016"
+   "epoch": "2016",
+   "content": "continuum"
   },
   {
    "image_id": "hd-16743_nicmos2023",
@@ -76,7 +78,8 @@
     "bibcode": "2023MNRAS.521.5940M"
    },
    "file": "images/hd-16743/hd-16743_nicmos2023.png",
-   "epoch": "2007-07-23"
+   "epoch": "2007-07-23",
+   "content": "continuum"
   },
   {
    "image_id": "hd-16743_nicmos2023-f160w",
@@ -97,7 +100,8 @@
     "bibcode": "2023MNRAS.521.5940M"
    },
    "file": "images/hd-16743/hd-16743_nicmos2023-f160w.png",
-   "epoch": "2007-07-23"
+   "epoch": "2007-07-23",
+   "content": "continuum"
   }
  ],
  "notes": "AUTO-CREATED from staging - fill metadata & coords",

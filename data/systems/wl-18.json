@@ -38,7 +38,8 @@
     "arxiv": "1007.5070",
     "bibcode": "2010ApJ...723.1241A"
    },
-   "epoch": "2009"
+   "epoch": "2009",
+   "content": "continuum"
   }
  ],
  "notes": "Embedded flat-spectrum source in Ophiuchus; faint marginally-resolved 880 um disk (51 mJy) in the pre-ALMA SMA survey (Andrews et al. 2010).",

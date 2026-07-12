@@ -32,7 +32,8 @@
     "arxiv": "1812.04040",
     "bibcode": "2018ApJ...869L..41A"
    },
-   "epoch": "2017-05-09"
+   "epoch": "2017-05-09",
+   "content": "continuum"
   },
   {
    "image_id": "waoph-6_sphere2021",
@@ -53,7 +54,8 @@
     "arxiv": "2107.13560",
     "bibcode": "2021A&A...654A..35B"
    },
-   "epoch": "2018 Jun 21"
+   "epoch": "2018 Jun 21",
+   "content": "continuum"
   },
   {
    "image_id": "waoph-6_alma-kurtovic26",
@@ -74,7 +76,8 @@
     "arxiv": "2605.30023",
     "bibcode": "2026arXiv260530023K"
    },
-   "epoch": null
+   "epoch": "2017",
+   "content": "continuum"
   },
   {
    "image_id": "waoph-6_sma880",
@@ -96,7 +99,8 @@
     "arxiv": "0906.0730",
     "bibcode": "2009ApJ...700.1502A"
    },
-   "epoch": "2005-2007"
+   "epoch": "2005-2007",
+   "content": "continuum"
   }
  ],
  "notes": null,

@@ -32,7 +32,8 @@
     "arxiv": "2310.08589",
     "bibcode": "2023A&A...680A.114R"
    },
-   "epoch": "2020-12-08"
+   "epoch": "2020-12-08",
+   "content": "continuum"
   },
   {
    "image_id": "lkha-330_seeds",
@@ -52,7 +53,8 @@
     "journal": "Proc. Japan Acad. Ser. B 92, 45",
     "arxiv": null,
     "bibcode": "2016PJAB...92...45T"
-   }
+   },
+   "content": "continuum"
   },
   {
    "type": "disk_scattered",
@@ -72,7 +74,8 @@
     "journal": "AJ 168, 78",
     "arxiv": "2408.04048",
     "bibcode": "2024AJ....168...78W"
-   }
+   },
+   "content": "continuum"
   },
   {
    "image_id": "lkha-330_alma2022",
@@ -93,7 +96,8 @@
     "arxiv": "2206.09975",
     "bibcode": "2022A&A...665A.128P"
    },
-   "epoch": "2019-07-11"
+   "epoch": "2019-07-11",
+   "content": "continuum"
   },
   {
    "image_id": "lkha-330_sphere-pinilla22",
@@ -114,7 +118,8 @@
     "arxiv": "2206.09975",
     "bibcode": "2022A&A...665A.128P"
    },
-   "epoch": "2017 Oct 5"
+   "epoch": "2017 Oct 5",
+   "content": "continuum"
   },
   {
    "image_id": "lkha-330_sphere-ks-qphi",
@@ -135,7 +140,8 @@
     "bibcode": "2023A&A...680A.114R"
    },
    "file": "images/lkha-330/lkha-330_sphere-ks-qphi.png",
-   "epoch": "2020-12-08"
+   "epoch": "2020-12-08",
+   "content": "continuum"
   },
   {
    "image_id": "lkha-330_alma-vioque26",
@@ -156,7 +162,8 @@
     "arxiv": "2512.00157",
     "bibcode": "2026A&A...705A.238V"
    },
-   "epoch": null
+   "epoch": "2019-2022",
+   "content": "continuum"
   },
   {
    "image_id": "lkha-330_alma-kurtovic26",
@@ -177,7 +184,8 @@
     "arxiv": "2605.30023",
     "bibcode": "2026arXiv260530023K"
    },
-   "epoch": null
+   "epoch": "2019-2022",
+   "content": "continuum"
   }
  ],
  "notes": null,

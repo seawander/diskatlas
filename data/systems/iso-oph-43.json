@@ -42,7 +42,8 @@
     "arxiv": "2506.10719",
     "bibcode": "2025ApJ...989....1Z"
    },
-   "epoch": "2022"
+   "epoch": "2022",
+   "content": "continuum"
   },
   {
    "image_id": "iso-oph-43_agepro-12co",
@@ -64,7 +65,8 @@
     "arxiv": "2506.10731",
     "bibcode": "2025ApJ...989....2R"
    },
-   "epoch": "2022"
+   "epoch": "2022",
+   "content": "line"
   },
   {
    "image_id": "iso-oph-43_agepro-13co",
@@ -86,7 +88,8 @@
     "arxiv": "2506.10731",
     "bibcode": "2025ApJ...989....2R"
    },
-   "epoch": "2022"
+   "epoch": "2022",
+   "content": "line"
   }
  ],
  "notes": "AGE-PRO Ophiuchus 9. Newly identified transition disk with dust cavity and ring at 20-25 au (Vioque et al. 2025). SpT M2.5 per AGE-PRO Table 1. Distance = 139 pc Ophiuchus average adopted by AGE-PRO.",

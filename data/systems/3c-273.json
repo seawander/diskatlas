@@ -45,7 +45,8 @@
     "arxiv": "2402.09505",
     "bibcode": "2024A&A...683L...5R"
    },
-   "epoch": "2022 Jan 8"
+   "epoch": "2022 Jan 8",
+   "content": "continuum"
   },
   {
    "image_id": "3c-273_acs2003",
@@ -66,7 +67,8 @@
     "arxiv": null,
     "bibcode": "2003AJ....125.2964M"
    },
-   "epoch": "2002-2003"
+   "epoch": "2002-2003",
+   "content": "continuum"
   },
   {
    "type": "quasar",
@@ -87,7 +89,8 @@
     "arxiv": "astro-ph/9501018",
     "bibcode": "1995ApJ...450..486B"
    },
-   "epoch": "1994-1995"
+   "epoch": "1994-1995",
+   "content": "continuum"
   },
   {
    "image_id": "3c-273_alma-band3",
@@ -108,7 +111,8 @@
     "bibcode": "2022ApJ...930....3K"
    },
    "file": "images/3c-273/3c-273_alma-band3.png",
-   "epoch": "2018-2019"
+   "epoch": "2018-2019",
+   "content": "continuum"
   },
   {
    "image_id": "3c-273_alma-band6",
@@ -129,7 +133,8 @@
     "bibcode": "2022ApJ...930....3K"
    },
    "file": "images/3c-273/3c-273_alma-band6.png",
-   "epoch": "2018-2019"
+   "epoch": "2018-2019",
+   "content": "continuum"
   },
   {
    "image_id": "3c-273_alma-band7",
@@ -150,7 +155,8 @@
     "bibcode": "2022ApJ...930....3K"
    },
    "file": "images/3c-273/3c-273_alma-band7.png",
-   "epoch": "2018-2019"
+   "epoch": "2018-2019",
+   "content": "continuum"
   }
  ],
  "notes": "First entry of the quasar-host coronagraphy category. The brightest quasar in the sky; its host galaxy was imaged to 0.2 arcsec with HST/STIS RDI (Ren+2024).",

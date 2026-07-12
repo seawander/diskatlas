@@ -35,7 +35,8 @@
     "bibcode": "2022A&A...662A..74G"
    },
    "file": "images/at-pyx/at-pyx_sphere2021.png",
-   "epoch": "2017-05-15"
+   "epoch": "2017-05-15",
+   "content": "continuum"
   },
   {
    "image_id": "at-pyx_alma",
@@ -56,7 +57,8 @@
     "bibcode": "2026A&A...707A.379M"
    },
    "file": "images/at-pyx/at-pyx_alma.png",
-   "epoch": "2022 Aug 31"
+   "epoch": "2022 Aug 31",
+   "content": "continuum"
   },
   {
    "image_id": "at-pyx_sphere2024",
@@ -77,7 +79,8 @@
     "bibcode": "2026A&A...707A.379M"
    },
    "file": "images/at-pyx/at-pyx_sphere2024.png",
-   "epoch": "2024"
+   "epoch": "2024",
+   "content": "continuum"
   },
   {
    "image_id": "at-pyx_alma-vioque26",
@@ -98,7 +101,8 @@
     "arxiv": "2512.00157",
     "bibcode": "2026A&A...705A.238V"
    },
-   "epoch": null
+   "epoch": "2022-08-31",
+   "content": "continuum"
   },
   {
    "image_id": "at-pyx_alma-kurtovic26",
@@ -119,7 +123,8 @@
     "arxiv": "2605.30023",
     "bibcode": "2026arXiv260530023K"
    },
-   "epoch": null
+   "epoch": "2022-08-31",
+   "content": "continuum"
   }
  ],
  "notes": "AUTO-CREATED from staging - fill metadata & coords Added 2026-07-08 (keyword discovery round 2).",

@@ -36,10 +36,11 @@
     "bibcode": "2025ApJ...989....3D"
    },
    "file": "images/2mass-j16085324-3914401/2mass-j16085324-3914401_alma-agepro.png",
-   "epoch": "2019"
+   "epoch": "2019",
+   "content": "continuum"
   }
  ],
- "notes": "AUTO-CREATED from staging - fill metadata & coords Added 2026-07-08 (AGE-PRO ALMA, Vioque+2025 resolved).",
+ "notes": "Young disk-hosting star in Lupus, observed as Lupus 6 in the AGE-PRO ALMA Large Program; the held image is the Band 6 1.3 mm continuum map resolving the dust disk, and the same study reports potential companion(s) around this source (Deng et al. 2025).",
  "last_updated": "2026-07-11",
  "plx_mas": null,
  "mags": null

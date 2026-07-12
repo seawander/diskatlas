@@ -37,7 +37,8 @@
     "arxiv": "2306.15406",
     "bibcode": "2023ApJ...951....8O"
    },
-   "epoch": "2021 May 4"
+   "epoch": "2021 May 4",
+   "content": "continuum"
   },
   {
    "image_id": "bhr71-irs1_jwst-miri-feii-5um",
@@ -58,7 +59,8 @@
     "arxiv": "2604.11904",
     "bibcode": "2026A&A...710A.370T"
    },
-   "epoch": "2023-07-26"
+   "epoch": "2023-07-26",
+   "content": "line"
   },
   {
    "image_id": "bhr71-irs1_jwst-miri-h2-8um",
@@ -79,7 +81,8 @@
     "arxiv": "2604.11904",
     "bibcode": "2026A&A...710A.370T"
    },
-   "epoch": "2023-07-26"
+   "epoch": "2023-07-26",
+   "content": "line"
   },
   {
    "image_id": "bhr71-irs1_jwst-miri-neii-13um",
@@ -100,7 +103,8 @@
     "arxiv": "2604.11904",
     "bibcode": "2026A&A...710A.370T"
    },
-   "epoch": "2023-07-26"
+   "epoch": "2023-07-26",
+   "content": "line"
   },
   {
    "image_id": "bhr71-irs1_jwst-miri-cont-20um",
@@ -121,7 +125,8 @@
     "arxiv": "2604.11904",
     "bibcode": "2026A&A...710A.370T"
    },
-   "epoch": "2023-07-26"
+   "epoch": "2023-07-26",
+   "content": "continuum"
   }
  ],
  "notes": "Class 0 embedded protostar (eDisk)",

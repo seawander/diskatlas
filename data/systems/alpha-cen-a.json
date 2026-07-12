@@ -59,7 +59,8 @@
     "arxiv": "2102.05159",
     "bibcode": "2021NatCo..12..922W"
    },
-   "epoch": "2019 May 23"
+   "epoch": "2019 May 23",
+   "content": "continuum"
   },
   {
    "image_id": "alpha-cen-a_miri2025",
@@ -80,7 +81,8 @@
     "bibcode": "2025ApJ...989L..22B"
    },
    "file": "images/alpha-cen-a/alpha-cen-a_miri2025.png",
-   "epoch": "2024-08"
+   "epoch": "2024-08",
+   "content": "continuum"
   }
  ],
  "notes": "Added 2026-07-06. Nearest Sun-like star; NEAR/VISIR mid-IR habitable-zone imaging. Candidate 'C1' is unconfirmed (possible exozodi/artifact). Coords pending SIMBAD.",

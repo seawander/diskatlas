@@ -57,7 +57,8 @@
     "arxiv": "2606.30733",
     "bibcode": "2026arXiv260630733B"
    },
-   "epoch": "2013-12-18"
+   "epoch": "2013-12-18",
+   "content": "continuum"
   },
   {
    "image_id": "hip-17453_cbass-ks-2024feb",
@@ -79,7 +80,8 @@
     "bibcode": "2026arXiv260630733B"
    },
    "file": "images/hip-17453/hip-17453_cbass-ks-2024feb.png",
-   "epoch": "2024-02-18"
+   "epoch": "2024-02-18",
+   "content": "continuum"
   },
   {
    "image_id": "hip-17453_nirc2-ks-2024oct",
@@ -101,7 +103,8 @@
     "bibcode": "2026arXiv260630733B"
    },
    "file": "images/hip-17453/hip-17453_nirc2-ks-2024oct.png",
-   "epoch": "2024-10-26"
+   "epoch": "2024-10-26",
+   "content": "continuum"
   },
   {
    "image_id": "hip-17453_nirc2-j-2025oct",
@@ -123,7 +126,8 @@
     "bibcode": "2026arXiv260630733B"
    },
    "file": "images/hip-17453/hip-17453_nirc2-j-2025oct.png",
-   "epoch": "2025-10-09"
+   "epoch": "2025-10-09",
+   "content": "continuum"
   }
  ],
  "notes": "HIP 17453 A is a chemically peculiar A0V star at 80.5 pc (Gaia). HIP 17453 B is a co-moving brown-dwarf companion (~53 Mjup, L2+-1) discovered with Keck/NIRC2 over a ~10-year astrometric baseline in the C-BASS survey (Brinjikji+2026).",

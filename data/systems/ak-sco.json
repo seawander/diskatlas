@@ -35,7 +35,8 @@
     "arxiv": "2004.13722",
     "bibcode": "2020AJ....160...24E"
    },
-   "epoch": "2018-08-11"
+   "epoch": "2018-08-11",
+   "content": "continuum"
   },
   {
    "type": "disk_scattered",
@@ -56,7 +57,8 @@
     "arxiv": "2206.05815",
     "bibcode": "2022AJ....164..109R"
    },
-   "epoch": "2018-08-11"
+   "epoch": "2018-08-11",
+   "content": "continuum"
   },
   {
    "type": "disk_scattered",
@@ -77,7 +79,8 @@
     "arxiv": "2404.02222",
     "bibcode": "2024A&A...684A..73D"
    },
-   "epoch": "2015-07-22"
+   "epoch": "2015-07-22",
+   "content": "continuum"
   },
   {
    "image_id": "ak-sco_alma2015",
@@ -98,7 +101,8 @@
     "arxiv": "1505.01850",
     "bibcode": "2015ApJ...806..154C"
    },
-   "epoch": "2014 Apr 10"
+   "epoch": "2014 Apr 10",
+   "content": "line"
   },
   {
    "image_id": "ak-sco_sphere2015",
@@ -119,7 +123,8 @@
     "bibcode": "2016ApJ...816L...1J"
    },
    "file": "images/ak-sco/ak-sco_sphere2015.png",
-   "epoch": "2015 Apr 14"
+   "epoch": "2015 Apr 14",
+   "content": "continuum"
   },
   {
    "image_id": "ak-sco_sphere-rdi-xie22",
@@ -140,7 +145,8 @@
     "bibcode": "2022A&A...666A..32X"
    },
    "file": "images/ak-sco/ak-sco_sphere-rdi-xie22.png",
-   "epoch": "2015-2016"
+   "epoch": "2015-2016",
+   "content": "continuum"
   },
   {
    "image_id": "ak-sco_alma-vioque26",
@@ -161,7 +167,8 @@
     "arxiv": "2512.00157",
     "bibcode": "2026A&A...705A.238V"
    },
-   "epoch": null
+   "epoch": "2021-09-08",
+   "content": "continuum"
   },
   {
    "image_id": "ak-sco_alma-kurtovic26",
@@ -182,7 +189,8 @@
     "arxiv": "2605.30023",
     "bibcode": "2026arXiv260530023K"
    },
-   "epoch": null
+   "epoch": "2021-09-08",
+   "content": "continuum"
   }
  ],
  "notes": null,

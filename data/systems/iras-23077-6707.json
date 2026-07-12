@@ -43,7 +43,8 @@
     "arxiv": "2510.11819",
     "bibcode": "2026ApJ...996...45M"
    },
-   "epoch": "2025-02-08"
+   "epoch": "2025-02-08",
+   "content": "continuum"
   },
   {
    "image_id": "iras-23077-6707_sma",
@@ -64,7 +65,8 @@
     "journal": "ApJL 967, L2",
     "arxiv": "2402.01941",
     "bibcode": "2024ApJ...967L...2M"
-   }
+   },
+   "content": "line"
   },
   {
    "image_id": "iras-23077-6707_noema2025",
@@ -85,7 +87,8 @@
     "bibcode": "2025ApJ...989...69L"
    },
    "file": "images/iras-23077-6707/iras-23077-6707_noema2025.png",
-   "epoch": "2023-2024"
+   "epoch": "2023-2024",
+   "content": "continuum"
   },
   {
    "image_id": "iras-23077-6707_hst-f438w",
@@ -107,7 +110,8 @@
     "bibcode": "2026ApJ...996...45M"
    },
    "file": "images/iras-23077-6707/iras-23077-6707_hst-f438w.png",
-   "epoch": "2025-02-08"
+   "epoch": "2025-02-08",
+   "content": "continuum"
   },
   {
    "image_id": "iras-23077-6707_hst-f606w",
@@ -129,7 +133,8 @@
     "bibcode": "2026ApJ...996...45M"
    },
    "file": "images/iras-23077-6707/iras-23077-6707_hst-f606w.png",
-   "epoch": "2025-02-08"
+   "epoch": "2025-02-08",
+   "content": "continuum"
   },
   {
    "image_id": "iras-23077-6707_hst-f814w",
@@ -151,7 +156,8 @@
     "bibcode": "2026ApJ...996...45M"
    },
    "file": "images/iras-23077-6707/iras-23077-6707_hst-f814w.png",
-   "epoch": "2025-02-08"
+   "epoch": "2025-02-08",
+   "content": "continuum"
   },
   {
    "image_id": "iras-23077-6707_hst-f105w",
@@ -173,7 +179,8 @@
     "bibcode": "2026ApJ...996...45M"
    },
    "file": "images/iras-23077-6707/iras-23077-6707_hst-f105w.png",
-   "epoch": "2025-02-08"
+   "epoch": "2025-02-08",
+   "content": "continuum"
   },
   {
    "image_id": "iras-23077-6707_hst-f125w",
@@ -195,7 +202,8 @@
     "bibcode": "2026ApJ...996...45M"
    },
    "file": "images/iras-23077-6707/iras-23077-6707_hst-f125w.png",
-   "epoch": "2025-02-08"
+   "epoch": "2025-02-08",
+   "content": "continuum"
   },
   {
    "image_id": "iras-23077-6707_hst-f160w",
@@ -217,7 +225,8 @@
     "bibcode": "2026ApJ...996...45M"
    },
    "file": "images/iras-23077-6707/iras-23077-6707_hst-f160w.png",
-   "epoch": "2025-02-08"
+   "epoch": "2025-02-08",
+   "content": "continuum"
   }
  ],
  "notes": "\"Dracula's Chivito\": one of the largest known edge-on protoplanetary disks (~14 arcsec, ~4200 au at an adopted distance of 300 pc), serendipitously discovered in Pan-STARRS imaging by Berghea et al. 2024 (arXiv:2402.01063). No accurate parallax is available due to its extended size; distance of 300 pc is adopted from Gaia extinction mapping and is broadly consistent with membership in the Cepheus star-forming region (150-800 pc). Hidden central star estimated as hot, ~A9/8000 K.",

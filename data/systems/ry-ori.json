@@ -44,11 +44,12 @@
     "arxiv": "2403.02156",
     "bibcode": "2024A&A...685A..54V"
    },
-   "epoch": "2020-02-24"
+   "epoch": "2020-02-24",
+   "content": "continuum"
   }
  ],
- "notes": "AUTO-CREATED from staging - fill metadata & coords",
- "last_updated": "2026-07-10",
+ "notes": "F7 young star in Orion; the held SPHERE/IRDIS H-band total-intensity image from DESTINYS reveals a possible substellar companion (a very low-mass star or high-mass brown dwarf) 137 au from the star, while no disk is detected in polarized light (Valegard et al. 2024).",
+ "last_updated": "2026-07-11",
  "plx_mas": 2.8527,
  "mags": {
   "U": 12.62,

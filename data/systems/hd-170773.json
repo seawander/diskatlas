@@ -35,7 +35,8 @@
     "arxiv": "2501.09058",
     "bibcode": "2025A&A...693A.151M"
    },
-   "epoch": "2018-04-29"
+   "epoch": "2018-04-29",
+   "content": "continuum"
   },
   {
    "type": "disk_mm",
@@ -56,7 +57,8 @@
     "arxiv": "2601.11708",
     "bibcode": "2026A&A...705A.195M"
    },
-   "epoch": "2022-2023"
+   "epoch": "2022-2023",
+   "content": "continuum"
   },
   {
    "image_id": "hd-170773_alice-f110w",
@@ -78,7 +80,8 @@
     "bibcode": "2018AJ....155..179H"
    },
    "hires_url": "https://archive.stsci.edu/prepds/alice/",
-   "epoch": "2006-04-06"
+   "epoch": "2006-04-06",
+   "content": "continuum"
   },
   {
    "image_id": "hd-170773_herschel2015",
@@ -99,7 +102,8 @@
     "bibcode": "2015MNRAS.447..577M"
    },
    "file": "images/hd-170773/hd-170773_herschel2015.png",
-   "epoch": "2012-03-14"
+   "epoch": "2012-03-14",
+   "content": "continuum"
   },
   {
    "image_id": "hd-170773_scuba2016",
@@ -119,7 +123,8 @@
     "arxiv": "1706.01218",
     "bibcode": "2017MNRAS.470.3606H"
    },
-   "file": "images/hd-170773/hd-170773_scuba2016.png"
+   "file": "images/hd-170773/hd-170773_scuba2016.png",
+   "content": "continuum"
   }
  ],
  "notes": "HD 170773's debris disk is resolved at mm and far-IR wavelengths (Matrà+2025; Marino+2026); no resolved scattered-light image as of 2026-07 (swept).",

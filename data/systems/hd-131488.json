@@ -32,7 +32,8 @@
     "arxiv": "2601.11708",
     "bibcode": "2026A&A...705A.195M"
    },
-   "epoch": "2023"
+   "epoch": "2023",
+   "content": "continuum"
   },
   {
    "type": "disk_mm",
@@ -53,7 +54,8 @@
     "arxiv": "2501.09058",
     "bibcode": "2025A&A...693A.151M"
    },
-   "epoch": "2016-2018"
+   "epoch": "2016-2018",
+   "content": "continuum"
   },
   {
    "type": "disk_scattered",
@@ -74,7 +76,8 @@
     "arxiv": "2512.03128",
     "bibcode": "2025A&A...704A..21E"
    },
-   "epoch": "2018-04-08"
+   "epoch": "2018-04-08",
+   "content": "continuum"
   },
   {
    "image_id": "hd-131488_sphere-rdi-xie22",
@@ -95,7 +98,8 @@
     "bibcode": "2022A&A...666A..32X"
    },
    "file": "images/hd-131488/hd-131488_sphere-rdi-xie22.png",
-   "epoch": "2018-04-08"
+   "epoch": "2018-04-08",
+   "content": "continuum"
   }
  ],
  "notes": "AUTO-CREATED from staging - fill metadata & coords",

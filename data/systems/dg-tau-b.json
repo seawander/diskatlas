@@ -35,7 +35,8 @@
     "journal": "AJ 117, 1490",
     "title": "HST/NICMOS Imaging of Disks and Envelopes Around Very Young Stars"
    },
-   "epoch": "1997-12-21"
+   "epoch": "1997-12-21",
+   "content": "continuum"
   },
   {
    "type": "disk_mm",
@@ -56,7 +57,8 @@
     "journal": "ApJ 529, 477",
     "title": "Unveiling the Circumstellar Envelope and Disk: A Subarcsecond Survey of Circumstellar Structures"
    },
-   "epoch": "1996-1998"
+   "epoch": "1996-1998",
+   "content": "continuum"
   }
  ],
  "notes": "DG Tau B: a Class I protostar ~55 arcsec SW of DG Tau, source of the HH 159 bipolar jet, with an edge-on disk and asymmetric reflection nebula imaged in HST/NICMOS (Padgett+1999) and mm continuum mapped by BIMA (Looney+2000).",

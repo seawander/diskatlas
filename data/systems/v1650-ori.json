@@ -32,11 +32,12 @@
     "arxiv": "2403.02156",
     "bibcode": "2024A&A...685A..54V"
    },
-   "epoch": "2020-01-12"
+   "epoch": "2020-01-12",
+   "content": "continuum"
   }
  ],
- "notes": "AUTO-CREATED from staging - fill metadata & coords",
- "last_updated": "2026-07-06",
+ "notes": "F7 young star in Orion; the held SPHERE/IRDIS H-band polarized-intensity image from DESTINYS shows the survey's smallest, marginally detected disk (~55 au radius), and a new stellar companion was also detected at 0.32 arcsec in total intensity (Valegard et al. 2024).",
+ "last_updated": "2026-07-11",
  "plx_mas": 2.8106,
  "mags": {
   "B": 11.02,

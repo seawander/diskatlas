@@ -55,7 +55,8 @@
     "arxiv": "0911.1127",
     "bibcode": "2009ApJ...707L.123T"
    },
-   "epoch": "2009"
+   "epoch": "2009",
+   "content": "continuum"
   },
   {
    "image_id": "gj-758_hiciao-2009-05-03",
@@ -76,7 +77,8 @@
     "arxiv": "0911.1127",
     "bibcode": "2009ApJ...707L.123T"
    },
-   "epoch": "2009-05-03"
+   "epoch": "2009-05-03",
+   "content": "continuum"
   },
   {
    "image_id": "gj-758_hiciao-2009-08-06",
@@ -97,7 +99,8 @@
     "arxiv": "0911.1127",
     "bibcode": "2009ApJ...707L.123T"
    },
-   "epoch": "2009-08-06"
+   "epoch": "2009-08-06",
+   "content": "continuum"
   }
  ],
  "notes": "K0V star hosting GJ 758 B, a cold T-dwarf companion discovered in Subaru/HiCIAO direct imaging as part of the SEEDS survey (Thalmann+2009).",

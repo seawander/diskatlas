@@ -46,7 +46,8 @@
     "arxiv": "2206.05815",
     "bibcode": "2022AJ....164..109R"
    },
-   "epoch": "2018"
+   "epoch": "2018",
+   "content": "continuum"
   },
   {
    "image_id": "mwc-297_lbti2020",
@@ -67,7 +68,8 @@
     "bibcode": "2021AJ....161...28S"
    },
    "file": "images/mwc-297/mwc-297_lbti2020.png",
-   "epoch": "2018 May 31"
+   "epoch": "2018 May 31",
+   "content": "continuum"
   },
   {
    "image_id": "mwc-297_sphere2020",
@@ -88,7 +90,8 @@
     "bibcode": "2020ApJ...890L...8U"
    },
    "file": "images/mwc-297/mwc-297_sphere2020.png",
-   "epoch": "2018"
+   "epoch": "2018",
+   "content": "continuum"
   },
   {
    "image_id": "mwc-297_sphere-sadi-2015",
@@ -110,7 +113,8 @@
     "bibcode": "2020ApJ...890L...8U"
    },
    "file": "images/mwc-297/mwc-297_sphere-sadi-2015.png",
-   "epoch": "2015-04-29"
+   "epoch": "2015-04-29",
+   "content": "continuum"
   },
   {
    "image_id": "mwc-297_sphere-sadi-2018",
@@ -132,7 +136,8 @@
     "bibcode": "2020ApJ...890L...8U"
    },
    "file": "images/mwc-297/mwc-297_sphere-sadi-2018.png",
-   "epoch": "2018-07-28"
+   "epoch": "2018-07-28",
+   "content": "continuum"
   }
  ],
  "notes": null,

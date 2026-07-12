@@ -45,7 +45,8 @@
    },
    "image_id": "ct-cha_naco2008",
    "file": "images/ct-cha/ct-cha_naco2008.png",
-   "epoch": "2007-03-02"
+   "epoch": "2007-03-02",
+   "content": "continuum"
   },
   {
    "type": "disk_scattered",
@@ -66,7 +67,8 @@
     "arxiv": "2403.02149",
     "bibcode": "2024A&A...685A..52G"
    },
-   "epoch": "2017-05-16"
+   "epoch": "2017-05-16",
+   "content": "continuum"
   },
   {
    "image_id": "ct-cha_mrs2025",
@@ -87,7 +89,8 @@
     "bibcode": "2025ApJ...991L..46C"
    },
    "file": "images/ct-cha/ct-cha_mrs2025.png",
-   "epoch": "2023-02-28"
+   "epoch": "2023-02-28",
+   "content": "continuum"
   },
   {
    "image_id": "ct-cha_visao-r-2013",
@@ -109,7 +112,8 @@
     "arxiv": "1501.01396",
     "bibcode": "2015ApJ...801....4W"
    },
-   "epoch": "2013-04-06"
+   "epoch": "2013-04-06",
+   "content": "continuum"
   },
   {
    "image_id": "ct-cha_visao-i-2013",
@@ -131,7 +135,8 @@
     "arxiv": "1501.01396",
     "bibcode": "2015ApJ...801....4W"
    },
-   "epoch": "2013-04-06"
+   "epoch": "2013-04-06",
+   "content": "continuum"
   },
   {
    "image_id": "ct-cha_visao-z-2013",
@@ -153,7 +158,8 @@
     "arxiv": "1501.01396",
     "bibcode": "2015ApJ...801....4W"
    },
-   "epoch": "2013-04-06"
+   "epoch": "2013-04-06",
+   "content": "continuum"
   },
   {
    "image_id": "ct-cha_visao-ys-2013",
@@ -175,7 +181,8 @@
     "arxiv": "1501.01396",
     "bibcode": "2015ApJ...801....4W"
    },
-   "epoch": "2013-04-06"
+   "epoch": "2013-04-06",
+   "content": "continuum"
   },
   {
    "image_id": "ct-cha_miri-mrs-2022",
@@ -197,7 +204,8 @@
     "arxiv": "2509.15209",
     "bibcode": "2025ApJ...991L..46C"
    },
-   "epoch": "2022-08-15"
+   "epoch": "2022-08-15",
+   "content": "continuum"
   },
   {
    "image_id": "ct-cha_wfpc2-f631n-2009",
@@ -219,7 +227,8 @@
     "arxiv": "1205.2727",
     "bibcode": "2012AJ....144...83R"
    },
-   "epoch": "2009"
+   "epoch": "2009",
+   "content": "line"
   },
   {
    "image_id": "ct-cha_wfpc2-f673n-2009",
@@ -241,7 +250,8 @@
     "arxiv": "1205.2727",
     "bibcode": "2012AJ....144...83R"
    },
-   "epoch": "2009"
+   "epoch": "2009",
+   "content": "line"
   }
  ],
  "notes": null,

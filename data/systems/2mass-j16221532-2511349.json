@@ -41,7 +41,8 @@
     "arxiv": "2506.10719",
     "bibcode": "2025ApJ...989....1Z"
    },
-   "epoch": "2022"
+   "epoch": "2022",
+   "content": "continuum"
   },
   {
    "image_id": "2mass-j16221532-2511349_alma-vioque26",
@@ -62,7 +63,8 @@
     "arxiv": "2512.00157",
     "bibcode": "2026A&A...705A.238V"
    },
-   "epoch": null
+   "epoch": "2022",
+   "content": "continuum"
   },
   {
    "image_id": "2mass-j16221532-2511349_agepro-12co",
@@ -84,7 +86,8 @@
     "arxiv": "2506.10735",
     "bibcode": "2025ApJ...989....4A"
    },
-   "epoch": "2022"
+   "epoch": "2022",
+   "content": "line"
   },
   {
    "image_id": "2mass-j16221532-2511349_agepro-13co",
@@ -106,7 +109,8 @@
     "arxiv": "2506.10735",
     "bibcode": "2025ApJ...989....4A"
    },
-   "epoch": "2022"
+   "epoch": "2022",
+   "content": "line"
   }
  ],
  "notes": "AGE-PRO Upper Scorpius 8. Newly identified transition disk with dust ring at 17 au; a localized 5-sigma residual east of the ring is proposed as a possible companion (Vioque et al. 2025).",

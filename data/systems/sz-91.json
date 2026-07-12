@@ -32,7 +32,8 @@
     "arxiv": "2404.02222",
     "bibcode": "2024A&A...684A..73D"
    },
-   "epoch": "2017-03-20"
+   "epoch": "2017-03-20",
+   "content": "continuum"
   },
   {
    "image_id": "sz-91_seeds",
@@ -53,7 +54,8 @@
     "arxiv": "1402.1538",
     "bibcode": "2014ApJ...783...90T"
    },
-   "epoch": "2012 May"
+   "epoch": "2012 May",
+   "content": "continuum"
   },
   {
    "image_id": "sz-91_alma2021",
@@ -74,7 +76,8 @@
     "arxiv": "2108.12548",
     "bibcode": "2021ApJ...923..128M"
    },
-   "epoch": "2018-2019"
+   "epoch": "2018-2019",
+   "content": "continuum"
   },
   {
    "image_id": "sz-91_alma-vioque26",
@@ -95,7 +98,8 @@
     "arxiv": "2512.00157",
     "bibcode": "2026A&A...705A.238V"
    },
-   "epoch": null
+   "epoch": "2016-09-17",
+   "content": "continuum"
   },
   {
    "image_id": "sz-91_alma-kurtovic26",
@@ -116,7 +120,8 @@
     "arxiv": "2605.30023",
     "bibcode": "2026arXiv260530023K"
    },
-   "epoch": null
+   "epoch": "2016-2023",
+   "content": "continuum"
   }
  ],
  "notes": "AUTO-CREATED from staging - fill metadata & coords",

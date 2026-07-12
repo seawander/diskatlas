@@ -35,7 +35,8 @@
     "arxiv": "2601.11708",
     "bibcode": "2026A&A...705A.195M"
    },
-   "epoch": "2022-10-06"
+   "epoch": "2022-10-06",
+   "content": "continuum"
   },
   {
    "type": "disk_mm",
@@ -55,7 +56,8 @@
     "journal": "A&A 693, A151",
     "arxiv": "2501.09058",
     "bibcode": "2025A&A...693A.151M"
-   }
+   },
+   "content": "continuum"
   },
   {
    "image_id": "hd-15257_scuba2-850um-sons",
@@ -76,7 +78,8 @@
     "arxiv": "1706.01218",
     "bibcode": "2017MNRAS.470.3606H"
    },
-   "epoch": "2012-2015"
+   "epoch": "2012-2015",
+   "content": "continuum"
   }
  ],
  "notes": "AUTO-CREATED from staging - fill metadata & coords",

@@ -36,7 +36,8 @@
     "arxiv": "2004.13722",
     "bibcode": "2020AJ....160...24E"
    },
-   "epoch": "2013-12-12"
+   "epoch": "2013-12-12",
+   "content": "continuum"
   },
   {
    "type": "disk_scattered",
@@ -57,7 +58,8 @@
    },
    "image_id": "hr-4796a_gpi2015",
    "file": "images/hr-4796a/hr-4796a_gpi2015.png",
-   "epoch": "2013 Dec"
+   "epoch": "2013 Dec",
+   "content": "continuum"
   },
   {
    "type": "disk_scattered",
@@ -78,7 +80,8 @@
    },
    "image_id": "hr-4796a_nicmos1999",
    "file": "images/hr-4796a/hr-4796a_nicmos1999.png",
-   "epoch": "1998"
+   "epoch": "1998",
+   "content": "continuum"
   },
   {
    "type": "disk_scattered",
@@ -99,7 +102,8 @@
    },
    "image_id": "hr-4796a_stis2018",
    "file": "images/hr-4796a/hr-4796a_stis2018.png",
-   "epoch": "2001-2015"
+   "epoch": "2001-2015",
+   "content": "continuum"
   },
   {
    "type": "disk_mm",
@@ -120,7 +124,8 @@
     "arxiv": "2601.11708",
     "bibcode": "2026A&A...705A.195M"
    },
-   "epoch": "2023"
+   "epoch": "2023",
+   "content": "continuum"
   },
   {
    "type": "disk_mm",
@@ -141,7 +146,8 @@
     "arxiv": "2501.09058",
     "bibcode": "2025A&A...693A.151M"
    },
-   "epoch": "2018-05-29"
+   "epoch": "2018-05-29",
+   "content": "continuum"
   },
   {
    "type": "disk_scattered",
@@ -162,7 +168,8 @@
     "arxiv": "2302.04273",
     "bibcode": "2023A&A...672A.114R"
    },
-   "epoch": "1998-08-16"
+   "epoch": "1998-08-16",
+   "content": "continuum"
   },
   {
    "type": "disk_scattered",
@@ -183,7 +190,8 @@
     "arxiv": "2512.03128",
     "bibcode": "2025A&A...704A..21E"
    },
-   "epoch": "2021-04-08"
+   "epoch": "2021-04-08",
+   "content": "continuum"
   },
   {
    "type": "disk_scattered",
@@ -204,7 +212,8 @@
     "arxiv": "2302.04273",
     "bibcode": "2023A&A...672A.114R"
    },
-   "epoch": "2001-2023"
+   "epoch": "2001-2023",
+   "content": "continuum"
   },
   {
    "type": "disk_mm",
@@ -225,7 +234,8 @@
    },
    "image_id": "hr-4796a_keck1998",
    "file": "images/hr-4796a/hr-4796a_keck1998.png",
-   "epoch": "1998 Mar 16"
+   "epoch": "1998 Mar 16",
+   "content": "continuum"
   },
   {
    "type": "disk_scattered",
@@ -246,7 +256,8 @@
     "arxiv": "2404.02222",
     "bibcode": "2024A&A...684A..73D"
    },
-   "epoch": "2003-03-23"
+   "epoch": "2003-03-23",
+   "content": "continuum"
   },
   {
    "image_id": "hr-4796a_seeds",
@@ -267,7 +278,8 @@
     "arxiv": "1110.2488",
     "bibcode": "2011ApJ...743L...6T"
    },
-   "epoch": "2011 May 24"
+   "epoch": "2011 May 24",
+   "content": "continuum"
   },
   {
    "image_id": "hr-4796a_alma2018",
@@ -288,7 +300,8 @@
     "arxiv": "1801.05429",
     "bibcode": "2018MNRAS.475.4924K"
    },
-   "epoch": "2016-07-24"
+   "epoch": "2016-07-24",
+   "content": "continuum"
   },
   {
    "image_id": "hr-4796a_alice-f171m",
@@ -310,7 +323,8 @@
     "bibcode": "2018AJ....155..179H"
    },
    "hires_url": "https://archive.stsci.edu/prepds/alice/",
-   "epoch": "1998-2005"
+   "epoch": "1998-2005",
+   "content": "continuum"
   },
   {
    "image_id": "hr-4796a_magaox2026",
@@ -331,7 +345,8 @@
     "arxiv": "2606.23480",
     "bibcode": "2026ApJ..1001..189K"
    },
-   "epoch": "2025 Apr 8"
+   "epoch": "2025 Apr 8",
+   "content": "continuum"
   },
   {
    "image_id": "hr-4796a_gpi-hom24",
@@ -352,7 +367,8 @@
     "bibcode": "2024MNRAS.528.6959H"
    },
    "file": "images/hr-4796a/hr-4796a_gpi-hom24.png",
-   "epoch": "2013-12-12"
+   "epoch": "2013-12-12",
+   "content": "continuum"
   },
   {
    "image_id": "hr-4796a_aeos2009",
@@ -373,7 +389,8 @@
     "bibcode": "2009ApJ...701..804H"
    },
    "file": "images/hr-4796a/hr-4796a_aeos2009.png",
-   "epoch": "2005 Jan 26"
+   "epoch": "2005 Jan 26",
+   "content": "continuum"
   },
   {
    "image_id": "hr-4796a_zimpol2019",
@@ -394,7 +411,8 @@
     "bibcode": "2019A&A...626A..54M"
    },
    "file": "images/hr-4796a/hr-4796a_zimpol2019.png",
-   "epoch": "2016 May 24"
+   "epoch": "2016 May 24",
+   "content": "continuum"
   },
   {
    "image_id": "hr-4796a_sphere-rdi-xie22",
@@ -415,7 +433,8 @@
     "bibcode": "2022A&A...666A..32X"
    },
    "file": "images/hr-4796a/hr-4796a_sphere-rdi-xie22.png",
-   "epoch": "2021-04-08"
+   "epoch": "2021-04-08",
+   "content": "continuum"
   },
   {
    "image_id": "hr-4796a_nici2014",
@@ -436,7 +455,8 @@
     "bibcode": "2014A&A...567A..34W"
    },
    "file": "images/hr-4796a/hr-4796a_nici2014.png",
-   "epoch": "2012 Apr 6"
+   "epoch": "2012 Apr 6",
+   "content": "continuum"
   },
   {
    "image_id": "hr-4796a_gemini-midir2010",
@@ -457,7 +477,8 @@
     "bibcode": "2011A&A...526A..34M"
    },
    "file": "images/hr-4796a/hr-4796a_gemini-midir2010.png",
-   "epoch": "2004 May"
+   "epoch": "2004 May",
+   "content": "continuum"
   },
   {
    "image_id": "hr-4796a_nici2014-j",
@@ -478,7 +499,8 @@
     "bibcode": "2014A&A...567A..34W"
    },
    "file": "images/hr-4796a/hr-4796a_nici2014-j.png",
-   "epoch": "2012 Apr 6"
+   "epoch": "2012 Apr 6",
+   "content": "continuum"
   },
   {
    "image_id": "hr-4796a_nici2014-ks",
@@ -499,7 +521,8 @@
     "bibcode": "2014A&A...567A..34W"
    },
    "file": "images/hr-4796a/hr-4796a_nici2014-ks.png",
-   "epoch": "2012 Apr 6"
+   "epoch": "2012 Apr 6",
+   "content": "continuum"
   },
   {
    "type": "disk_scattered",
@@ -520,7 +543,8 @@
     "journal": "ApJ 798, 96",
     "title": "On the Morphology and Chemical Composition of the HR 4796A Debris Disk"
    },
-   "epoch": "2013"
+   "epoch": "2013",
+   "content": "continuum"
   },
   {
    "type": "disk_scattered",
@@ -541,7 +565,8 @@
     "journal": "ApJ 798, 96",
     "title": "On the Morphology and Chemical Composition of the HR 4796A Debris Disk"
    },
-   "epoch": "2013"
+   "epoch": "2013",
+   "content": "continuum"
   },
   {
    "image_id": "hr-4796a_scuba2-850um-sons",
@@ -562,7 +587,8 @@
     "arxiv": "1706.01218",
     "bibcode": "2017MNRAS.470.3606H"
    },
-   "epoch": "2012-2015"
+   "epoch": "2012-2015",
+   "content": "continuum"
   },
   {
    "image_id": "hr-4796a_irdis-h-cadi-milli17",
@@ -583,7 +609,8 @@
     "arxiv": "1701.00750",
     "bibcode": "2017A&A...599A.108M"
    },
-   "epoch": "2015-02-02"
+   "epoch": "2015-02-02",
+   "content": "continuum"
   },
   {
    "image_id": "hr-4796a_irdis-h2h3-cadi-milli17",
@@ -604,7 +631,8 @@
     "arxiv": "1701.00750",
     "bibcode": "2017A&A...599A.108M"
    },
-   "epoch": "2015-02-02"
+   "epoch": "2015-02-02",
+   "content": "continuum"
   },
   {
    "image_id": "hr-4796a_ifs-yj-milli17",
@@ -625,7 +653,8 @@
     "arxiv": "1701.00750",
     "bibcode": "2017A&A...599A.108M"
    },
-   "epoch": "2015-02-02"
+   "epoch": "2015-02-02",
+   "content": "continuum"
   },
   {
    "image_id": "hr-4796a_naco-ks-pdi-milli15",
@@ -646,7 +675,8 @@
     "arxiv": "1407.2539",
     "bibcode": "2015A&A...577A..57M"
    },
-   "epoch": "2013-04-17"
+   "epoch": "2013-04-17",
+   "content": "continuum"
   },
   {
    "image_id": "hr-4796a_nicmos-f222m-milli15",
@@ -667,7 +697,8 @@
     "arxiv": "1407.2539",
     "bibcode": "2015A&A...577A..57M"
    },
-   "epoch": "2009-08-12"
+   "epoch": "2009-08-12",
+   "content": "continuum"
   },
   {
    "image_id": "hr-4796a_naco-lp-milli15",
@@ -688,7 +719,8 @@
     "arxiv": "1407.2539",
     "bibcode": "2015A&A...577A..57M"
    },
-   "epoch": "2010-04-06"
+   "epoch": "2010-04-06",
+   "content": "continuum"
   },
   {
    "image_id": "hr-4796a_gpi-h-i-hom24",
@@ -710,7 +742,8 @@
     "arxiv": "2402.00214",
     "bibcode": "2024MNRAS.528.6959H"
    },
-   "epoch": "2016-03-18"
+   "epoch": "2016-03-18",
+   "content": "continuum"
   },
   {
    "image_id": "hr-4796a_gpi-k1-i-hom24",
@@ -732,7 +765,8 @@
     "arxiv": "2402.00214",
     "bibcode": "2024MNRAS.528.6959H"
    },
-   "epoch": "2015-04-03"
+   "epoch": "2015-04-03",
+   "content": "continuum"
   }
  ],
  "notes": null,

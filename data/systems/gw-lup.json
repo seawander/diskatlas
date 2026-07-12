@@ -35,7 +35,8 @@
     "arxiv": "1812.04040",
     "bibcode": "2018ApJ...869L..41A"
    },
-   "epoch": "2017-05-14"
+   "epoch": "2017-05-14",
+   "content": "continuum"
   },
   {
    "image_id": "gw-lup_sphere2021",
@@ -56,7 +57,8 @@
     "bibcode": "2022A&A...658A.137G"
    },
    "file": "images/gw-lup/gw-lup_sphere2021.png",
-   "epoch": "2018-03-01"
+   "epoch": "2018-03-01",
+   "content": "continuum"
   },
   {
    "image_id": "gw-lup_alma-kurtovic26",
@@ -77,7 +79,8 @@
     "arxiv": "2605.30023",
     "bibcode": "2026arXiv260530023K"
    },
-   "epoch": null
+   "epoch": "2017-2023",
+   "content": "continuum"
   },
   {
    "image_id": "gw-lup_alma-agepro",
@@ -98,7 +101,8 @@
     "bibcode": "2025ApJ...989....3D"
    },
    "file": "images/gw-lup/gw-lup_alma-agepro.png",
-   "epoch": "2021-2022"
+   "epoch": "2021-2022",
+   "content": "continuum"
   }
  ],
  "notes": null,

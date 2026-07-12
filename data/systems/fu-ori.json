@@ -46,7 +46,8 @@
     "arxiv": "2206.05815",
     "bibcode": "2022AJ....164..109R"
    },
-   "epoch": "2018-01-03"
+   "epoch": "2018-01-03",
+   "content": "continuum"
   },
   {
    "image_id": "fu-ori_alma2020",
@@ -67,7 +68,8 @@
     "arxiv": "1911.11282",
     "bibcode": "2020ApJ...889...59P"
    },
-   "epoch": "2016-2017"
+   "epoch": "2016-2017",
+   "content": "continuum"
   },
   {
    "image_id": "fu-ori_hiciao2018",
@@ -88,7 +90,8 @@
     "bibcode": "2018ApJ...864...20T"
    },
    "file": "images/fu-ori/fu-ori_hiciao2018.png",
-   "epoch": "2014 Oct 5"
+   "epoch": "2014 Oct 5",
+   "content": "continuum"
   },
   {
    "image_id": "fu-ori_zurlo2024",
@@ -109,7 +112,8 @@
     "bibcode": "2024A&A...686A.309Z"
    },
    "file": "images/fu-ori/fu-ori_zurlo2024.png",
-   "epoch": "2016-2017"
+   "epoch": "2016-2017",
+   "content": "continuum"
   },
   {
    "type": "disk_scattered",
@@ -130,7 +134,8 @@
     "year": 2023,
     "title": "The SPHERE view of three interacting twin disc systems in polarised light"
    },
-   "epoch": "2016-2017"
+   "epoch": "2016-2017",
+   "content": "continuum"
   },
   {
    "image_id": "fu-ori_p1640-j-2009",
@@ -152,7 +157,8 @@
     "arxiv": "1211.6741",
     "bibcode": "2012ApJ...757...57P"
    },
-   "epoch": "2009-03-17"
+   "epoch": "2009-03-17",
+   "content": "continuum"
   },
   {
    "image_id": "fu-ori_p1640-h-2009",
@@ -174,7 +180,8 @@
     "arxiv": "1211.6741",
     "bibcode": "2012ApJ...757...57P"
    },
-   "epoch": "2009-03-17"
+   "epoch": "2009-03-17",
+   "content": "continuum"
   },
   {
    "image_id": "fu-ori_ircs-k-selfcal-2003",
@@ -196,7 +203,8 @@
     "arxiv": "1211.6741",
     "bibcode": "2012ApJ...757...57P"
    },
-   "epoch": "2003-12-15"
+   "epoch": "2003-12-15",
+   "content": "continuum"
   },
   {
    "image_id": "fu-ori_ircs-k-reipurth-2003",
@@ -218,7 +226,8 @@
     "arxiv": null,
     "bibcode": "2004ApJ...608L..65R"
    },
-   "epoch": "2003-12-15"
+   "epoch": "2003-12-15",
+   "content": "continuum"
   }
  ],
  "notes": null,

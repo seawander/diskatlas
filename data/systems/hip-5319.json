@@ -58,7 +58,8 @@
     "bibcode": "2022AJ....164..152S"
    },
    "file": "images/hip-5319/hip-5319_scexao2022.png",
-   "epoch": "2020-2022"
+   "epoch": "2020-2022",
+   "content": "continuum"
   },
   {
    "image_id": "hip-5319_scexao-mec",
@@ -80,7 +81,8 @@
     "bibcode": "2022AJ....164..152S"
    },
    "file": "images/hip-5319/hip-5319_scexao-mec.png",
-   "epoch": "2020-07-31"
+   "epoch": "2020-07-31",
+   "content": "continuum"
   },
   {
    "image_id": "hip-5319_scexao-vampires",
@@ -102,7 +104,8 @@
     "bibcode": "2022AJ....164..152S"
    },
    "file": "images/hip-5319/hip-5319_scexao-vampires.png",
-   "epoch": "2021-09-11"
+   "epoch": "2021-09-11",
+   "content": "continuum"
   },
   {
    "image_id": "hip-5319_keck-nirc2-lp",
@@ -124,7 +127,8 @@
     "bibcode": "2022AJ....164..152S"
    },
    "file": "images/hip-5319/hip-5319_keck-nirc2-lp.png",
-   "epoch": "2022-01-15"
+   "epoch": "2022-01-15",
+   "content": "continuum"
   }
  ],
  "notes": null,

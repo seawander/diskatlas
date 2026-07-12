@@ -34,7 +34,8 @@
     "journal": "AJ 117, 1490",
     "title": "HST/NICMOS Imaging of Disks and Envelopes Around Very Young Stars"
    },
-   "epoch": "1997-08-19"
+   "epoch": "1997-08-19",
+   "content": "continuum"
   }
  ],
  "notes": "CoKu Tau/1: a T Tauri subarcsecond binary with limb-brightened outflow-cavity walls, the source of the HH 156 jet, imaged with HST/NICMOS (Padgett+1999). Distance from the Gaia DR3 parallax of 8.69 mas.",

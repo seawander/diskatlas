@@ -35,7 +35,8 @@
     "bibcode": "2020A&A...634L..11J"
    },
    "file": "images/afgl-4176/afgl-4176_alma2020.png",
-   "epoch": "2017"
+   "epoch": "2017",
+   "content": "continuum"
   }
  ],
  "notes": "Massive young stellar object whose disc was resolved with ALMA Band 6 (Johnston+2020).",

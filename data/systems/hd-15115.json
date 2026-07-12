@@ -34,7 +34,8 @@
     "arxiv": "2501.09058",
     "bibcode": "2025A&A...693A.151M"
    },
-   "epoch": "2015-2016"
+   "epoch": "2015-2016",
+   "content": "continuum"
   },
   {
    "type": "disk_scattered",
@@ -55,7 +56,8 @@
     "arxiv": "2004.13722",
     "bibcode": "2020AJ....160...24E"
    },
-   "epoch": "2013-12-12"
+   "epoch": "2013-12-12",
+   "content": "continuum"
   },
   {
    "type": "disk_scattered",
@@ -76,7 +78,8 @@
     "arxiv": "1406.7303",
     "bibcode": "2014AJ....148...59S"
    },
-   "epoch": "2010-2011"
+   "epoch": "2010-2011",
+   "content": "continuum"
   },
   {
    "type": "disk_scattered",
@@ -97,7 +100,8 @@
    },
    "image_id": "hd-15115_hst2007",
    "file": "images/hd-15115/hd-15115_hst2007.png",
-   "epoch": "2007 Jan"
+   "epoch": "2007 Jan",
+   "content": "continuum"
   },
   {
    "type": "disk_scattered",
@@ -118,7 +122,8 @@
    },
    "image_id": "hd-15115_keck2006",
    "file": "images/hd-15115/hd-15115_keck-h-kalas07.png",
-   "epoch": "2006"
+   "epoch": "2006",
+   "content": "continuum"
   },
   {
    "type": "disk_mm",
@@ -139,7 +144,8 @@
     "arxiv": "2601.11708",
     "bibcode": "2026A&A...705A.195M"
    },
-   "epoch": "2022-2023"
+   "epoch": "2022-2023",
+   "content": "continuum"
   },
   {
    "type": "disk_scattered",
@@ -160,7 +166,8 @@
     "arxiv": "2302.04273",
     "bibcode": "2023A&A...672A.114R"
    },
-   "epoch": "2006-10-20"
+   "epoch": "2006-10-20",
+   "content": "continuum"
   },
   {
    "type": "disk_scattered",
@@ -181,7 +188,8 @@
     "arxiv": "2512.03128",
     "bibcode": "2025A&A...704A..21E"
    },
-   "epoch": "2015-2016"
+   "epoch": "2015-2016",
+   "content": "continuum"
   },
   {
    "type": "disk_scattered",
@@ -202,7 +210,8 @@
     "arxiv": "2302.04273",
     "bibcode": "2023A&A...672A.114R"
    },
-   "epoch": "2010-2011"
+   "epoch": "2010-2011",
+   "content": "continuum"
   },
   {
    "image_id": "hd-15115_alma2019",
@@ -223,7 +232,8 @@
     "arxiv": "1905.08258",
     "bibcode": "2019ApJ...877L..32M"
    },
-   "epoch": "2016 Jan 1"
+   "epoch": "2016 Jan 1",
+   "content": "continuum"
   },
   {
    "image_id": "hd-15115_alice-f110w",
@@ -245,7 +255,8 @@
     "bibcode": "2018AJ....155..179H"
    },
    "hires_url": "https://archive.stsci.edu/prepds/alice/",
-   "epoch": "2006-10-20"
+   "epoch": "2006-10-20",
+   "content": "continuum"
   },
   {
    "image_id": "hd-15115_lbti2012",
@@ -266,7 +277,8 @@
     "arxiv": "1203.2619",
     "bibcode": "2012ApJ...752...57R"
    },
-   "epoch": "2011 Nov 16"
+   "epoch": "2011 Nov 16",
+   "content": "continuum"
   },
   {
    "image_id": "hd-15115_charis2020-j",
@@ -287,7 +299,8 @@
     "bibcode": "2020AJ....160..163L"
    },
    "file": "images/hd-15115/hd-15115_charis2020-j.png",
-   "epoch": "2017"
+   "epoch": "2017",
+   "content": "continuum"
   },
   {
    "image_id": "hd-15115_charis2020-h",
@@ -308,7 +321,8 @@
     "bibcode": "2020AJ....160..163L"
    },
    "file": "images/hd-15115/hd-15115_charis2020-h.png",
-   "epoch": "2017"
+   "epoch": "2017",
+   "content": "continuum"
   },
   {
    "image_id": "hd-15115_charis2020-k",
@@ -329,7 +343,8 @@
     "bibcode": "2020AJ....160..163L"
    },
    "file": "images/hd-15115/hd-15115_charis2020-k.png",
-   "epoch": "2017"
+   "epoch": "2017",
+   "content": "continuum"
   },
   {
    "image_id": "hd-15115_sphere-rdi-xie22",
@@ -350,7 +365,8 @@
     "bibcode": "2022A&A...666A..32X"
    },
    "file": "images/hd-15115/hd-15115_sphere-rdi-xie22.png",
-   "epoch": "2015-2016"
+   "epoch": "2015-2016",
+   "content": "continuum"
   },
   {
    "image_id": "hd-15115_nici2014",
@@ -371,7 +387,8 @@
     "bibcode": "2014A&A...569A..29M"
    },
    "file": "images/hd-15115/hd-15115_nici2014.png",
-   "epoch": "2009-2011"
+   "epoch": "2009-2011",
+   "content": "continuum"
   },
   {
    "type": "disk_scattered",
@@ -391,7 +408,8 @@
     "bibcode": "2015PASJ...67...20S"
    },
    "image_id": "hd-15115_ircs-sai2014",
-   "file": "images/hd-15115/hd-15115_ircs-sai2014.png"
+   "file": "images/hd-15115/hd-15115_ircs-sai2014.png",
+   "content": "continuum"
   },
   {
    "image_id": "hd-15115_scuba2-850um-sons",
@@ -412,7 +430,8 @@
     "arxiv": "1706.01218",
     "bibcode": "2017MNRAS.470.3606H"
    },
-   "epoch": "2012-2015"
+   "epoch": "2012-2015",
+   "content": "continuum"
   }
  ],
  "notes": null,

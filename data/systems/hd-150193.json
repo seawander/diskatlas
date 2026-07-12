@@ -35,11 +35,12 @@
     "arxiv": null,
     "bibcode": "2003ApJ...590L..49F"
    },
-   "file": "images/hd-150193/hd-150193_ciao-fukagawa2003.png"
+   "file": "images/hd-150193/hd-150193_ciao-fukagawa2003.png",
+   "content": "continuum"
   }
  ],
- "notes": "AUTO-CREATED from staging - fill metadata & coords Added 2026-07-08 (archival/keyword exploration).",
- "last_updated": "2026-07-08",
+ "notes": "Herbig Ae star (~6 Myr) with a T Tauri companion 1.1 arcsec away; the held Subaru/CIAO H-band PSF-subtracted coronagraphic image revealed the circumprimary disk extending from 50 au out to about 190 au, with no circumstellar structure around the companion (Fukagawa et al. 2003).",
+ "last_updated": "2026-07-11",
  "plx_mas": null,
  "mags": null
 }

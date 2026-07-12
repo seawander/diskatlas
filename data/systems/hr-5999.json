@@ -43,7 +43,8 @@
     "bibcode": "2011A&A...531A..84B"
    },
    "file": "images/hr-5999/hr-5999_amber2011.png",
-   "epoch": "2008-2010"
+   "epoch": "2008-2010",
+   "content": "continuum"
   }
  ],
  "notes": "Herbig Ae star in Lupus 3; VLTI/AMBER long-baseline interferometry (H,K) reconstructs a sub-AU near-IR image (MiRA algorithm) revealing a ring-like feature at ~0.65 AU tracing the silicate sublimation front (Benisty et al. 2011, arXiv:1106.4150).",

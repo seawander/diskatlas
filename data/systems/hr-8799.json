@@ -80,7 +80,8 @@
     "arxiv": "2501.09058",
     "bibcode": "2025A&A...693A.151M"
    },
-   "epoch": "2015-01-03"
+   "epoch": "2015-01-03",
+   "content": "continuum"
   },
   {
    "type": "disk_mm",
@@ -101,7 +102,8 @@
    },
    "image_id": "hr-8799_alma2016",
    "file": "images/hr-8799/hr-8799_alma2016.png",
-   "epoch": "2015 Jan"
+   "epoch": "2015 Jan",
+   "content": "continuum"
   },
   {
    "type": "planet",
@@ -122,7 +124,8 @@
    },
    "image_id": "hr-8799_keck2008",
    "file": "images/hr-8799/hr-8799_keck2008.png",
-   "epoch": "2004 Jul 14"
+   "epoch": "2004 Jul 14",
+   "content": "continuum"
   },
   {
    "type": "planet",
@@ -143,7 +146,8 @@
    },
    "image_id": "hr-8799_keck2010",
    "file": "images/hr-8799/hr-8799_keck2010.png",
-   "epoch": "2009-2010"
+   "epoch": "2009-2010",
+   "content": "continuum"
   },
   {
    "type": "disk_mm",
@@ -164,7 +168,8 @@
     "arxiv": "2601.11708",
     "bibcode": "2026A&A...705A.195M"
    },
-   "epoch": "2016-2018"
+   "epoch": "2016-2018",
+   "content": "continuum"
   },
   {
    "type": "disk_scattered",
@@ -185,7 +190,8 @@
     "arxiv": "2512.03128",
     "bibcode": "2025A&A...704A..21E"
    },
-   "epoch": "2016 Oct 13"
+   "epoch": "2016 Oct 13",
+   "content": "continuum"
   },
   {
    "type": "planet",
@@ -206,7 +212,8 @@
    },
    "image_id": "hr-8799_gravity2019",
    "file": "images/hr-8799/hr-8799_gravity2019.png",
-   "epoch": "2018 Aug 28"
+   "epoch": "2018 Aug 28",
+   "content": "continuum"
   },
   {
    "type": "planet",
@@ -227,7 +234,8 @@
    },
    "image_id": "hr-8799_jwst2025",
    "file": "images/hr-8799/hr-8799_jwst2025.png",
-   "epoch": "2022-2025"
+   "epoch": "2022-2025",
+   "content": "continuum"
   },
   {
    "image_id": "hr-8799_miri2024-f1065c",
@@ -248,7 +256,8 @@
     "bibcode": "2024A&A...686A..33B"
    },
    "file": "images/hr-8799/hr-8799_miri2024-f1065c.png",
-   "epoch": "2022 Nov"
+   "epoch": "2022 Nov",
+   "content": "continuum"
   },
   {
    "image_id": "hr-8799_miri2024-f1140c",
@@ -269,7 +278,8 @@
     "bibcode": "2024A&A...686A..33B"
    },
    "file": "images/hr-8799/hr-8799_miri2024-f1140c.png",
-   "epoch": "2022 Nov"
+   "epoch": "2022 Nov",
+   "content": "continuum"
   },
   {
    "image_id": "hr-8799_miri2024-f1550c",
@@ -290,7 +300,8 @@
     "bibcode": "2024A&A...686A..33B"
    },
    "file": "images/hr-8799/hr-8799_miri2024-f1550c.png",
-   "epoch": "2022 Nov"
+   "epoch": "2022 Nov",
+   "content": "continuum"
   },
   {
    "image_id": "hr-8799_miri2024-f2100w",
@@ -311,7 +322,8 @@
     "bibcode": "2024A&A...686A..33B"
    },
    "file": "images/hr-8799/hr-8799_miri2024-f2100w.png",
-   "epoch": "2022 Nov"
+   "epoch": "2022 Nov",
+   "content": "continuum"
   },
   {
    "image_id": "hr-8799_alice-f160w",
@@ -333,7 +345,8 @@
     "bibcode": "2018AJ....155..179H"
    },
    "hires_url": "https://archive.stsci.edu/prepds/alice/",
-   "epoch": "1998-10-30"
+   "epoch": "1998-10-30",
+   "content": "continuum"
   },
   {
    "image_id": "hr-8799_lbti2015",
@@ -354,7 +367,8 @@
     "arxiv": "1412.6989",
     "bibcode": "2015A&A...576A.133M"
    },
-   "epoch": "2013 Oct"
+   "epoch": "2013 Oct",
+   "content": "continuum"
   },
   {
    "image_id": "hr-8799_charis2022",
@@ -375,7 +389,8 @@
     "bibcode": "2022AJ....164..143W"
    },
    "file": "images/hr-8799/hr-8799_charis2022.png",
-   "epoch": "2018 Sep 1"
+   "epoch": "2018 Sep 1",
+   "content": "continuum"
   },
   {
    "image_id": "hr-8799_p1640-2012",
@@ -396,7 +411,8 @@
     "bibcode": "2013ApJ...768...24O"
    },
    "file": "images/hr-8799/hr-8799_p1640-2012.png",
-   "epoch": "2012"
+   "epoch": "2012",
+   "content": "continuum"
   },
   {
    "image_id": "hr-8799_niri2008",
@@ -417,7 +433,8 @@
     "bibcode": "2008Sci...322.1348M"
    },
    "file": "images/hr-8799/hr-8799_niri2008.png",
-   "epoch": "2007 Oct 17"
+   "epoch": "2007 Oct 17",
+   "content": "continuum"
   },
   {
    "image_id": "hr-8799_herschel2014",
@@ -438,7 +455,8 @@
     "bibcode": "2014ApJ...780...97M"
    },
    "file": "images/hr-8799/hr-8799_herschel2014.png",
-   "epoch": "2011 Jul 10"
+   "epoch": "2011 Jul 10",
+   "content": "continuum"
   },
   {
    "image_id": "hr-8799_pacs-100um-matthews14",
@@ -459,7 +477,8 @@
     "arxiv": "1311.2977",
     "bibcode": "2014ApJ...780...97M"
    },
-   "epoch": "2011 Jul 10"
+   "epoch": "2011 Jul 10",
+   "content": "continuum"
   },
   {
    "image_id": "hr-8799_pacs-160um-matthews14",
@@ -480,7 +499,8 @@
     "arxiv": "1311.2977",
     "bibcode": "2014ApJ...780...97M"
    },
-   "epoch": "2011 Jul 10"
+   "epoch": "2011 Jul 10",
+   "content": "continuum"
   },
   {
    "image_id": "hr-8799_nicmos1998",
@@ -501,7 +521,8 @@
     "bibcode": "2009ApJ...694L.148L"
    },
    "file": "images/hr-8799/hr-8799_nicmos1998.png",
-   "epoch": "1998"
+   "epoch": "1998",
+   "content": "continuum"
   },
   {
    "image_id": "hr-8799_nicmos1998-soummer",
@@ -522,7 +543,8 @@
     "bibcode": "2011ApJ...741...55S"
    },
    "file": "images/hr-8799/hr-8799_nicmos1998-soummer.png",
-   "epoch": "1998"
+   "epoch": "1998",
+   "content": "continuum"
   },
   {
    "image_id": "hr-8799_p1640-2015",
@@ -543,7 +565,8 @@
     "bibcode": "2015ApJ...803...31P"
    },
    "file": "images/hr-8799/hr-8799_p1640-2015.png",
-   "epoch": "2012"
+   "epoch": "2012",
+   "content": "continuum"
   },
   {
    "image_id": "hr-8799_bergfors2011-naco",
@@ -564,7 +587,8 @@
     "bibcode": "2011A&A...528A.134B"
    },
    "file": "images/hr-8799/hr-8799_bergfors2011-naco.png",
-   "epoch": "2009 Sep"
+   "epoch": "2009 Sep",
+   "content": "continuum"
   },
   {
    "type": "disk_mm",
@@ -585,7 +609,8 @@
     "journal": "AJ 161, 271",
     "title": "A Detailed Characterization of HR 8799's Debris Disk with ALMA in Band 7"
    },
-   "epoch": "2016-2018"
+   "epoch": "2016-2018",
+   "content": "continuum"
   },
   {
    "image_id": "hr-8799_scuba2-850um-sons",
@@ -606,7 +631,8 @@
     "arxiv": "1706.01218",
     "bibcode": "2017MNRAS.470.3606H"
    },
-   "epoch": "2012-2015"
+   "epoch": "2012-2015",
+   "content": "continuum"
   },
   {
    "image_id": "hr-8799_nircam-f182m",
@@ -628,7 +654,8 @@
     "bibcode": "2025AJ....169..209B"
    },
    "file": "images/hr-8799/hr-8799_nircam-f182m.png",
-   "epoch": "2023-11-05"
+   "epoch": "2023-11-05",
+   "content": "continuum"
   },
   {
    "image_id": "hr-8799_nircam-f200w",
@@ -650,7 +677,8 @@
     "bibcode": "2025AJ....169..209B"
    },
    "file": "images/hr-8799/hr-8799_nircam-f200w.png",
-   "epoch": "2023-11-05"
+   "epoch": "2023-11-05",
+   "content": "continuum"
   },
   {
    "image_id": "hr-8799_nircam-f210m",
@@ -672,7 +700,8 @@
     "bibcode": "2025AJ....169..209B"
    },
    "file": "images/hr-8799/hr-8799_nircam-f210m.png",
-   "epoch": "2023-11-05"
+   "epoch": "2023-11-05",
+   "content": "continuum"
   },
   {
    "image_id": "hr-8799_nircam-f250m",
@@ -694,7 +723,8 @@
     "bibcode": "2025AJ....169..209B"
    },
    "file": "images/hr-8799/hr-8799_nircam-f250m.png",
-   "epoch": "2023-11-05"
+   "epoch": "2023-11-05",
+   "content": "continuum"
   },
   {
    "image_id": "hr-8799_nircam-f300m",
@@ -716,7 +746,8 @@
     "bibcode": "2025AJ....169..209B"
    },
    "file": "images/hr-8799/hr-8799_nircam-f300m.png",
-   "epoch": "2023-11-05"
+   "epoch": "2023-11-05",
+   "content": "continuum"
   },
   {
    "image_id": "hr-8799_nircam-f335m",
@@ -738,7 +769,8 @@
     "bibcode": "2025AJ....169..209B"
    },
    "file": "images/hr-8799/hr-8799_nircam-f335m.png",
-   "epoch": "2023-11-05"
+   "epoch": "2023-11-05",
+   "content": "continuum"
   },
   {
    "image_id": "hr-8799_nircam-f430m",
@@ -760,7 +792,8 @@
     "bibcode": "2025AJ....169..209B"
    },
    "file": "images/hr-8799/hr-8799_nircam-f430m.png",
-   "epoch": "2023-11-05"
+   "epoch": "2023-11-05",
+   "content": "continuum"
   },
   {
    "image_id": "hr-8799_nircam-f460m",
@@ -782,7 +815,8 @@
     "bibcode": "2025AJ....169..209B"
    },
    "file": "images/hr-8799/hr-8799_nircam-f460m.png",
-   "epoch": "2023-11-05"
+   "epoch": "2023-11-05",
+   "content": "continuum"
   },
   {
    "image_id": "hr-8799_nirc2-h-2005-currie12",
@@ -803,7 +837,8 @@
     "arxiv": "1206.0483",
     "bibcode": "2012ApJ...755L..34C"
    },
-   "epoch": "2005-07-15"
+   "epoch": "2005-07-15",
+   "content": "continuum"
   },
   {
    "image_id": "hr-8799_keck-h-2004",
@@ -824,7 +859,8 @@
     "arxiv": "0811.2606",
     "bibcode": "2008Sci...322.1348M"
    },
-   "epoch": "2004-07-14"
+   "epoch": "2004-07-14",
+   "content": "continuum"
   }
  ],
  "notes": null,

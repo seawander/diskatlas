@@ -82,7 +82,8 @@
    },
    "image_id": "ab-aur_alma2017",
    "file": "images/ab-aur/ab-aur_alma2017.png",
-   "epoch": "2015 Nov 10"
+   "epoch": "2015 Nov 10",
+   "content": "line"
   },
   {
    "type": "disk_scattered",
@@ -103,7 +104,8 @@
    },
    "image_id": "ab-aur_seeds2011",
    "file": "images/ab-aur/ab-aur_seeds2011.png",
-   "epoch": "2009 Oct 31"
+   "epoch": "2009 Oct 31",
+   "content": "continuum"
   },
   {
    "type": "disk_scattered",
@@ -124,7 +126,8 @@
    },
    "image_id": "ab-aur_sphere2020",
    "file": "images/ab-aur/ab-aur_sphere2020.png",
-   "epoch": "2019 Dec"
+   "epoch": "2019 Dec",
+   "content": "continuum"
   },
   {
    "type": "planet",
@@ -145,7 +148,8 @@
    },
    "image_id": "ab-aur_scexao2022",
    "file": "images/ab-aur/ab-aur_scexao2022.png",
-   "epoch": "2016 Sep 9"
+   "epoch": "2016 Sep 9",
+   "content": "continuum"
   },
   {
    "type": "disk_scattered",
@@ -166,7 +170,8 @@
     "arxiv": "2403.02158",
     "bibcode": "2024A&A...685A..53G"
    },
-   "epoch": "2019-12-18"
+   "epoch": "2019-12-18",
+   "content": "continuum"
   },
   {
    "type": "disk_scattered",
@@ -187,7 +192,8 @@
     "arxiv": "2005.09064",
     "bibcode": "2020A&A...637L...5B"
    },
-   "epoch": "2019 Dec"
+   "epoch": "2019 Dec",
+   "content": "continuum"
   },
   {
    "type": "disk_scattered",
@@ -208,7 +214,8 @@
    },
    "image_id": "ab-aur_stis1999",
    "file": "images/ab-aur/ab-aur_stis1999.png",
-   "epoch": "1999-01-23"
+   "epoch": "1999-01-23",
+   "content": "continuum"
   },
   {
    "image_id": "ab-aur_alice-f110w",
@@ -230,7 +237,8 @@
     "bibcode": "2018AJ....155..179H"
    },
    "hires_url": "https://archive.stsci.edu/prepds/alice/",
-   "epoch": "2007"
+   "epoch": "2007",
+   "content": "continuum"
   },
   {
    "image_id": "ab-aur_lbti2022-lp",
@@ -251,7 +259,8 @@
     "bibcode": "2022ApJ...926...71J"
    },
    "file": "images/ab-aur/ab-aur_lbti2022-lp.png",
-   "epoch": "2014-02-09"
+   "epoch": "2014-02-09",
+   "content": "continuum"
   },
   {
    "image_id": "ab-aur_lbti2022-ks",
@@ -272,7 +281,8 @@
     "bibcode": "2022ApJ...926...71J"
    },
    "file": "images/ab-aur/ab-aur_lbti2022-ks.png",
-   "epoch": "2015-01-04"
+   "epoch": "2015-01-04",
+   "content": "continuum"
   },
   {
    "image_id": "ab-aur_seeds2011-closeup",
@@ -293,7 +303,8 @@
     "bibcode": "2011ApJ...729L..17H"
    },
    "file": "images/ab-aur/ab-aur_seeds2011-closeup.png",
-   "epoch": "2009 Oct 31"
+   "epoch": "2009 Oct 31",
+   "content": "continuum"
   },
   {
    "image_id": "ab-aur_alma2024",
@@ -314,7 +325,8 @@
     "bibcode": "2024Natur.633...58S"
    },
    "file": "images/ab-aur/ab-aur_alma2024.png",
-   "epoch": "2022"
+   "epoch": "2022",
+   "content": "line"
   },
   {
    "type": "disk_scattered",
@@ -335,7 +347,8 @@
     "arxiv": "2410.11939",
     "bibcode": "2024ApJ...977..172D"
    },
-   "epoch": "2020-10-04"
+   "epoch": "2020-10-04",
+   "content": "continuum"
   },
   {
    "type": "disk_scattered",
@@ -356,7 +369,8 @@
     "arxiv": "2410.11939",
     "bibcode": "2024ApJ...977..172D"
    },
-   "epoch": "2020-10-04"
+   "epoch": "2020-10-04",
+   "content": "continuum"
   },
   {
    "type": "disk_scattered",
@@ -377,7 +391,8 @@
     "arxiv": "2410.11939",
     "bibcode": "2024ApJ...977..172D"
    },
-   "epoch": "2020-10-04"
+   "epoch": "2020-10-04",
+   "content": "continuum"
   },
   {
    "image_id": "ab-aur_muse2025",
@@ -398,7 +413,8 @@
     "bibcode": "2025ApJ...990L..42C"
    },
    "file": "images/ab-aur/ab-aur_muse2025.png",
-   "epoch": "2022"
+   "epoch": "2022",
+   "content": "continuum"
   },
   {
    "image_id": "ab-aur_wfc3-2022",
@@ -419,7 +435,8 @@
     "bibcode": "2022ApJ...934L..13Z"
    },
    "file": "images/ab-aur/ab-aur_wfc3-2022.png",
-   "epoch": "2022"
+   "epoch": "2022",
+   "content": "line"
   },
   {
    "image_id": "ab-aur_stis2005",
@@ -440,7 +457,8 @@
     "bibcode": "2005ApJ...630..958G"
    },
    "file": "images/ab-aur/ab-aur_stis2005.png",
-   "epoch": "1999-2000"
+   "epoch": "1999-2000",
+   "content": "continuum"
   },
   {
    "image_id": "ab-aur_nicmos-go11155-1um",
@@ -461,7 +479,8 @@
     "bibcode": "2009ApJ...707L.132P"
    },
    "file": "images/ab-aur/ab-aur_nicmos-go11155-1um.png",
-   "epoch": "2007"
+   "epoch": "2007",
+   "content": "continuum"
   },
   {
    "image_id": "ab-aur_nicmos-go11155-pol2um",
@@ -482,7 +501,8 @@
     "bibcode": "2009ApJ...707L.132P"
    },
    "file": "images/ab-aur/ab-aur_nicmos-go11155-pol2um.png",
-   "epoch": "2007"
+   "epoch": "2007",
+   "content": "continuum"
   },
   {
    "image_id": "ab-aur_ciao2004",
@@ -502,7 +522,8 @@
     "arxiv": null,
     "bibcode": "2004ApJ...605L..53F"
    },
-   "file": "images/ab-aur/ab-aur_ciao2004.png"
+   "file": "images/ab-aur/ab-aur_ciao2004.png",
+   "content": "continuum"
   },
   {
    "image_id": "ab-aur_alma-vioque26",
@@ -523,7 +544,8 @@
     "arxiv": "2512.00157",
     "bibcode": "2026A&A...705A.238V"
    },
-   "epoch": null
+   "epoch": "2023-09-06",
+   "content": "continuum"
   },
   {
    "image_id": "ab-aur_alma-kurtovic26",
@@ -544,7 +566,8 @@
     "arxiv": "2605.30023",
     "bibcode": "2026arXiv260530023K"
    },
-   "epoch": null
+   "epoch": "2023-09-06",
+   "content": "continuum"
   },
   {
    "image_id": "ab-aur_pdbi1400",
@@ -566,7 +589,8 @@
     "arxiv": "astro-ph/0504023",
     "bibcode": "2005A&A...443..945P"
    },
-   "epoch": "2001-2004"
+   "epoch": "2001-2004",
+   "content": "continuum"
   },
   {
    "image_id": "ab-aur_pdbi2800",
@@ -588,7 +612,8 @@
     "arxiv": "astro-ph/0504023",
     "bibcode": "2005A&A...443..945P"
    },
-   "epoch": "2001-2004"
+   "epoch": "2001-2004",
+   "content": "continuum"
   },
   {
    "image_id": "ab-aur_pdbi-13co21",
@@ -610,7 +635,8 @@
     "arxiv": "astro-ph/0504023",
     "bibcode": "2005A&A...443..945P"
    },
-   "epoch": "2001-2004"
+   "epoch": "2001-2004",
+   "content": "line"
   }
  ],
  "notes": null,

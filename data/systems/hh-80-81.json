@@ -38,7 +38,8 @@
     "bibcode": "2012ApJ...752L..29C"
    },
    "file": "images/hh-80-81/hh-80-81_vla2012.png",
-   "epoch": "2006"
+   "epoch": "2006",
+   "content": "continuum"
   },
   {
    "image_id": "hh-80-81_carrasco2012-860um",
@@ -59,7 +60,8 @@
     "arxiv": "1205.3302",
     "bibcode": "2012ApJ...752L..29C"
    },
-   "epoch": "2006"
+   "epoch": "2006",
+   "content": "continuum"
   },
   {
    "image_id": "hh-80-81_carrasco2012-7mm-dust",
@@ -80,7 +82,8 @@
     "arxiv": "1205.3302",
     "bibcode": "2012ApJ...752L..29C"
    },
-   "epoch": "2006"
+   "epoch": "2006",
+   "content": "continuum"
   },
   {
    "image_id": "hh-80-81_carrasco2012-so",
@@ -101,7 +104,8 @@
     "arxiv": "1205.3302",
     "bibcode": "2012ApJ...752L..29C"
    },
-   "epoch": "2006"
+   "epoch": "2006",
+   "content": "line"
   }
  ],
  "notes": "Massive protostar (~17 Msun) driving the HH 80-81 jet, one of the most powerful known from a young star. VLA (7mm, 1.3cm, 3.6cm) + SMA (860um) resolve a compact disk-like structure perpendicular to the jet axis (Carrasco-Gonzalez et al. 2012, arXiv:1205.3302). Distance ~1.7 kpc (kinematic).",

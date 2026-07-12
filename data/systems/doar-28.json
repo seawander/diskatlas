@@ -42,7 +42,8 @@
     "journal": "A&A, in press",
     "arxiv": "2603.01703",
     "bibcode": "2026A&A...709A.269G"
-   }
+   },
+   "content": "continuum"
   },
   {
    "image_id": "doar-28_hiciao2014",
@@ -63,7 +64,8 @@
     "bibcode": "2015AJ....150...86R"
    },
    "file": "images/doar-28/doar-28_hiciao2014.png",
-   "epoch": "2012-2014"
+   "epoch": "2012-2014",
+   "content": "continuum"
   }
  ],
  "notes": "SPHERE/IRDIS H-band polarimetric image, from program 0103.C-0470 (PI Benisty). Reveals the same inclined disk previously reported in scattered light by Rich et al. (2015) with HiCIAO, but the SPHERE image shows no obvious evidence of extended emission exterior to it (Garufi et al. 2026).",

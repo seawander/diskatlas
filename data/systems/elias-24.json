@@ -32,7 +32,8 @@
     "arxiv": "1812.04040",
     "bibcode": "2018ApJ...869L..41A"
    },
-   "epoch": "2015-2017"
+   "epoch": "2015-2017",
+   "content": "continuum"
   },
   {
    "image_id": "elias-24_eris2025",
@@ -53,7 +54,8 @@
     "bibcode": "2025A&A...698A..52M"
    },
    "file": "images/elias-24/elias-24_eris2025.png",
-   "epoch": "2023 May 28"
+   "epoch": "2023 May 28",
+   "content": "continuum"
   },
   {
    "image_id": "elias-24_band6-cieza17",
@@ -74,7 +76,8 @@
     "arxiv": "1711.06905",
     "bibcode": "2017ApJ...851L..23C"
    },
-   "epoch": "2017-07-13"
+   "epoch": "2017-07-13",
+   "content": "continuum"
   },
   {
    "image_id": "elias-24_alma-kurtovic26",
@@ -95,7 +98,8 @@
     "arxiv": "2605.30023",
     "bibcode": "2026arXiv260530023K"
    },
-   "epoch": null
+   "epoch": "2015-2023",
+   "content": "continuum"
   },
   {
    "image_id": "elias-24_sma880",
@@ -117,7 +121,8 @@
     "arxiv": "1007.5070",
     "bibcode": "2010ApJ...723.1241A"
    },
-   "epoch": "2009"
+   "epoch": "2009",
+   "content": "continuum"
   }
  ],
  "notes": null,

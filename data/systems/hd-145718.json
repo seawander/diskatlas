@@ -34,7 +34,8 @@
     "arxiv": "2206.05815",
     "bibcode": "2022AJ....164..109R"
    },
-   "epoch": "2018-06-08"
+   "epoch": "2018-06-08",
+   "content": "continuum"
   },
   {
    "image_id": "hd-145718_pionier2020",
@@ -55,7 +56,8 @@
     "bibcode": "2020A&A...636A.116K"
    },
    "file": "images/hd-145718/hd-145718_pionier2020.png",
-   "epoch": "2012-2013"
+   "epoch": "2012-2013",
+   "content": "continuum"
   }
  ],
  "notes": null,

@@ -34,7 +34,8 @@
     "arxiv": "2004.13722",
     "bibcode": "2020AJ....160...24E"
    },
-   "epoch": "2016"
+   "epoch": "2016",
+   "content": "continuum"
   },
   {
    "type": "disk_scattered",
@@ -55,7 +56,8 @@
    },
    "image_id": "hd-110058_sphere2023",
    "file": "images/hd-110058/hd-110058_sphere2023.png",
-   "epoch": "2015 Apr 3"
+   "epoch": "2015 Apr 3",
+   "content": "continuum"
   },
   {
    "type": "disk_mm",
@@ -76,7 +78,8 @@
     "arxiv": "2501.09058",
     "bibcode": "2025A&A...693A.151M"
    },
-   "epoch": "2013-2019"
+   "epoch": "2013-2019",
+   "content": "continuum"
   },
   {
    "type": "disk_scattered",
@@ -97,7 +100,8 @@
     "arxiv": "2302.04273",
     "bibcode": "2023A&A...672A.114R"
    },
-   "epoch": "2008-03-01"
+   "epoch": "2008-03-01",
+   "content": "continuum"
   },
   {
    "type": "disk_scattered",
@@ -118,7 +122,8 @@
     "arxiv": "2512.03128",
     "bibcode": "2025A&A...704A..21E"
    },
-   "epoch": "2015-04-04"
+   "epoch": "2015-04-04",
+   "content": "continuum"
   },
   {
    "type": "disk_scattered",
@@ -139,7 +144,8 @@
     "arxiv": "2302.04273",
     "bibcode": "2023A&A...672A.114R"
    },
-   "epoch": "2018-2020"
+   "epoch": "2018-2020",
+   "content": "continuum"
   },
   {
    "image_id": "hd-110058_gpi-crotts24",
@@ -160,7 +166,8 @@
     "arxiv": "2311.14599",
     "bibcode": "2024ApJ...961..245C"
    },
-   "epoch": "2016-03-19"
+   "epoch": "2016-03-19",
+   "content": "continuum"
   },
   {
    "image_id": "hd-110058_gpi-hom24",
@@ -181,7 +188,8 @@
     "bibcode": "2024MNRAS.528.6959H"
    },
    "file": "images/hd-110058/hd-110058_gpi-hom24.png",
-   "epoch": "2016"
+   "epoch": "2016",
+   "content": "continuum"
   },
   {
    "image_id": "hd-110058_sphere-rdi-xie22",
@@ -202,7 +210,8 @@
     "bibcode": "2022A&A...666A..32X"
    },
    "file": "images/hd-110058/hd-110058_sphere-rdi-xie22.png",
-   "epoch": "2015-04-04"
+   "epoch": "2015-04-04",
+   "content": "continuum"
   },
   {
    "image_id": "hd-110058_gpi-h-i-hom24",
@@ -224,7 +233,8 @@
     "arxiv": "2402.00214",
     "bibcode": "2024MNRAS.528.6959H"
    },
-   "epoch": "2016-03-19"
+   "epoch": "2016-03-19",
+   "content": "continuum"
   }
  ],
  "notes": null,

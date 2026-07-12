@@ -34,7 +34,8 @@
     "arxiv": "2004.13722",
     "bibcode": "2020AJ....160...24E"
    },
-   "epoch": "2015-07-03"
+   "epoch": "2015-07-03",
+   "content": "continuum"
   },
   {
    "type": "disk_mm",
@@ -55,7 +56,8 @@
     "arxiv": "2501.09058",
     "bibcode": "2025A&A...693A.151M"
    },
-   "epoch": "2013-11-30"
+   "epoch": "2013-11-30",
+   "content": "continuum"
   },
   {
    "type": "disk_scattered",
@@ -76,7 +78,8 @@
     "arxiv": "2512.03128",
     "bibcode": "2025A&A...704A..21E"
    },
-   "epoch": "2021-07-11"
+   "epoch": "2021-07-11",
+   "content": "continuum"
   },
   {
    "image_id": "hd-115600_gpi-crotts24",
@@ -97,7 +100,8 @@
     "arxiv": "2311.14599",
     "bibcode": "2024ApJ...961..245C"
    },
-   "epoch": "2015-07-03"
+   "epoch": "2015-07-03",
+   "content": "continuum"
   },
   {
    "image_id": "hd-115600_sphere-rdi-xie22",
@@ -118,7 +122,8 @@
     "bibcode": "2022A&A...666A..32X"
    },
    "file": "images/hd-115600/hd-115600_sphere-rdi-xie22.png",
-   "epoch": "2021-07-11"
+   "epoch": "2021-07-11",
+   "content": "continuum"
   },
   {
    "image_id": "hd-115600_dpol24-qphi",
@@ -139,7 +144,8 @@
     "arxiv": "2406.02682",
     "bibcode": "2024A&A...688A..42O"
    },
-   "epoch": "2021-2022"
+   "epoch": "2021-2022",
+   "content": "continuum"
   },
   {
    "image_id": "hd-115600_dpol24-toti",
@@ -161,7 +167,8 @@
     "bibcode": "2024A&A...688A..42O"
    },
    "epoch": "2021-2022",
-   "note": "disk well detected in total intensity per the paper, but the projected minor axis is poorly recovered"
+   "note": "disk well detected in total intensity per the paper, but the projected minor axis is poorly recovered",
+   "content": "continuum"
   }
  ],
  "notes": null,

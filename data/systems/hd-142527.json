@@ -58,7 +58,8 @@
     "arxiv": "2206.05815",
     "bibcode": "2022AJ....164..109R"
    },
-   "epoch": "2014-04-25"
+   "epoch": "2014-04-25",
+   "content": "continuum"
   },
   {
    "type": "disk_mm",
@@ -79,7 +80,8 @@
    },
    "image_id": "hd-142527_alma2013",
    "file": "images/hd-142527/hd-142527_alma2013.png",
-   "epoch": "2012 Jun 2"
+   "epoch": "2012 Jun 2",
+   "content": "continuum"
   },
   {
    "type": "disk_scattered",
@@ -100,7 +102,8 @@
     "arxiv": "2404.02222",
     "bibcode": "2024A&A...684A..73D"
    },
-   "epoch": "2012-07-18"
+   "epoch": "2012-07-18",
+   "content": "continuum"
   },
   {
    "image_id": "hd-142527_seeds",
@@ -120,7 +123,8 @@
     "journal": "Proc. Japan Acad. Ser. B 92, 45",
     "arxiv": null,
     "bibcode": "2016PJAB...92...45T"
-   }
+   },
+   "content": "continuum"
   },
   {
    "type": "disk_scattered",
@@ -141,7 +145,8 @@
     "arxiv": "2112.00123",
     "bibcode": "2022A&A...658A.183B"
    },
-   "epoch": "2017-03-19"
+   "epoch": "2017-03-19",
+   "content": "continuum"
   },
   {
    "image_id": "hd-142527_alice-f110w",
@@ -163,7 +168,8 @@
     "bibcode": "2018AJ....155..179H"
    },
    "hires_url": "https://archive.stsci.edu/prepds/alice/",
-   "epoch": "2008"
+   "epoch": "2008",
+   "content": "continuum"
   },
   {
    "image_id": "hd-142527_gpi-visao2022",
@@ -184,7 +190,8 @@
     "bibcode": "2022AJ....164...29B"
    },
    "file": "images/hd-142527/hd-142527_gpi-visao2022.png",
-   "epoch": "2015-05-15"
+   "epoch": "2015-05-15",
+   "content": "line"
   },
   {
    "image_id": "hd-142527_sphere-irdis-qphi",
@@ -205,7 +212,8 @@
     "bibcode": "2021A&A...648A.110H",
     "journal": "A&A 648, A110"
    },
-   "epoch": "2017-06-01"
+   "epoch": "2017-06-01",
+   "content": "continuum"
   },
   {
    "type": "disk_scattered",
@@ -225,7 +233,8 @@
     "bibcode": "2012A&A...546A..24R"
    },
    "image_id": "hd-142527_naco-lprime-rameau2012",
-   "file": "images/hd-142527/hd-142527_naco-lprime-rameau2012.png"
+   "file": "images/hd-142527/hd-142527_naco-lprime-rameau2012.png",
+   "content": "continuum"
   },
   {
    "image_id": "hd-142527_nicmos-go11155-1um",
@@ -247,7 +256,8 @@
    },
    "file": "images/hd-142527/hd-142527_nicmos-go11155-1um.png",
    "hires_url": "https://www.stsci.edu/~mperrin/pdfs/poster_2009AAS_NICPOL_HAEBES.pdf",
-   "epoch": "2008"
+   "epoch": "2008",
+   "content": "continuum"
   },
   {
    "image_id": "hd-142527_nicmos-go11155-pol2um",
@@ -269,7 +279,8 @@
    },
    "file": "images/hd-142527/hd-142527_nicmos-go11155-pol2um.png",
    "hires_url": "https://www.stsci.edu/~mperrin/pdfs/poster_2009AAS_NICPOL_HAEBES.pdf",
-   "epoch": "2008"
+   "epoch": "2008",
+   "content": "continuum"
   },
   {
    "image_id": "hd-142527_ciao2006",
@@ -289,7 +300,8 @@
     "arxiv": null,
     "bibcode": "2006ApJ...636L.153F"
    },
-   "file": "images/hd-142527/hd-142527_ciao2006.png"
+   "file": "images/hd-142527/hd-142527_ciao2006.png",
+   "content": "continuum"
   },
   {
    "type": "disk_mm",
@@ -310,7 +322,8 @@
     "journal": "ApJ 734, 98",
     "title": "Disk Imaging Survey of Chemistry with SMA. II. Southern Sky Protoplanetary Disks"
    },
-   "epoch": "2010 May 26"
+   "epoch": "2010 May 26",
+   "content": "continuum"
   },
   {
    "image_id": "hd-142527_avenhaus17-zimpol",
@@ -332,7 +345,8 @@
     "arxiv": "1705.09680",
     "bibcode": "2017AJ....154...33A"
    },
-   "epoch": "2015-05-02"
+   "epoch": "2015-05-02",
+   "content": "continuum"
   },
   {
    "image_id": "hd-142527_naco-h-pperp-avenhaus14",
@@ -353,7 +367,8 @@
     "arxiv": "1311.7088",
     "bibcode": "2014ApJ...781...87A"
    },
-   "epoch": "2012-07-23"
+   "epoch": "2012-07-23",
+   "content": "continuum"
   },
   {
    "image_id": "hd-142527_naco-ks-pperp-avenhaus14",
@@ -374,7 +389,8 @@
     "arxiv": "1311.7088",
     "bibcode": "2014ApJ...781...87A"
    },
-   "epoch": "2012-07-23"
+   "epoch": "2012-07-23",
+   "content": "continuum"
   },
   {
    "image_id": "hd-142527_alma-b7-cont-ohashi18",
@@ -395,7 +411,8 @@
     "arxiv": "1807.10776",
     "bibcode": "2018ApJ...864...81O"
    },
-   "epoch": "2016-2017"
+   "epoch": "2016-2017",
+   "content": "continuum"
   },
   {
    "image_id": "hd-142527_alma-b7-polint-ohashi18",
@@ -416,7 +433,8 @@
     "arxiv": "1807.10776",
     "bibcode": "2018ApJ...864...81O"
    },
-   "epoch": "2016-2017"
+   "epoch": "2016-2017",
+   "content": "continuum"
   },
   {
    "image_id": "hd-142527_alma-co32-ohashi18",
@@ -437,7 +455,8 @@
     "arxiv": "1807.10776",
     "bibcode": "2018ApJ...864...81O"
    },
-   "epoch": "2016-2017"
+   "epoch": "2016-2017",
+   "content": "line"
   },
   {
    "image_id": "hd-142527_alma-vioque26",
@@ -458,7 +477,8 @@
     "arxiv": "2512.00157",
     "bibcode": "2026A&A...705A.238V"
    },
-   "epoch": null
+   "epoch": null,
+   "content": "continuum"
   },
   {
    "image_id": "hd-142527_alma-b7-fasano26",
@@ -479,7 +499,8 @@
     "arxiv": "2603.25541",
     "bibcode": "2026A&A...709A.174F"
    },
-   "epoch": "2015"
+   "epoch": "2015",
+   "content": "continuum"
   },
   {
    "image_id": "hd-142527_alma-kurtovic26",
@@ -500,7 +521,8 @@
     "arxiv": "2605.30023",
     "bibcode": "2026arXiv260530023K"
    },
-   "epoch": null
+   "epoch": null,
+   "content": "continuum"
   }
  ],
  "notes": "Extreme azimuthal dust asymmetry in the outer disk (Casassus+2013); an M-dwarf companion orbits inside the cavity (Biller+2012).",

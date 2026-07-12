@@ -56,7 +56,8 @@
     "arxiv": "2512.02159",
     "bibcode": "2026AJ....171....5C"
    },
-   "epoch": "2022-12-30"
+   "epoch": "2022-12-30",
+   "content": "continuum"
   },
   {
    "image_id": "hip-54515_charis-2024-02-20",
@@ -77,7 +78,8 @@
     "arxiv": "2512.02159",
     "bibcode": "2026AJ....171....5C"
    },
-   "epoch": "2024-02-20"
+   "epoch": "2024-02-20",
+   "content": "continuum"
   },
   {
    "image_id": "hip-54515_charis-2024-04-27",
@@ -98,7 +100,8 @@
     "arxiv": "2512.02159",
     "bibcode": "2026AJ....171....5C"
    },
-   "epoch": "2024-04-27"
+   "epoch": "2024-04-27",
+   "content": "continuum"
   },
   {
    "image_id": "hip-54515_charis-2025-03-15",
@@ -119,7 +122,8 @@
     "arxiv": "2512.02159",
     "bibcode": "2026AJ....171....5C"
    },
-   "epoch": "2025-03-15"
+   "epoch": "2025-03-15",
+   "content": "continuum"
   },
   {
    "image_id": "hip-54515_charis-2025-05-13",
@@ -140,7 +144,8 @@
     "arxiv": "2512.02159",
     "bibcode": "2026AJ....171....5C"
    },
-   "epoch": "2025-05-13"
+   "epoch": "2025-05-13",
+   "content": "continuum"
   }
  ],
  "notes": "Directly-imaged companion host (Currie+2026); coordinates pending SIMBAD resolution.",

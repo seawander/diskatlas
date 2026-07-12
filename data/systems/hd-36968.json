@@ -32,11 +32,12 @@
     "arxiv": "2512.03128",
     "bibcode": "2025A&A...704A..21E"
    },
-   "epoch": "2015-2018"
+   "epoch": "2015-2018",
+   "content": "continuum"
   }
  ],
- "notes": "AUTO-CREATED from staging - fill metadata & coords",
- "last_updated": "2026-07-06",
+ "notes": "Young F2V star whose debris disk was imaged for the first time, in both total and polarized scattered light, by the SPHERE debris-disk characterization study; the held image is the IRDIS H-band polarized-intensity detection (Engler et al. 2025).",
+ "last_updated": "2026-07-11",
  "plx_mas": 6.7313,
  "mags": {
   "B": 9.34,

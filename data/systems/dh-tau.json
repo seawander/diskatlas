@@ -45,7 +45,8 @@
    },
    "image_id": "dh-tau_subaru2005",
    "file": "images/dh-tau/dh-tau_subaru2005.png",
-   "epoch": "2004 Jan 8"
+   "epoch": "2004 Jan 8",
+   "content": "continuum"
   },
   {
    "type": "disk_scattered",
@@ -66,7 +67,8 @@
     "arxiv": "2403.02158",
     "bibcode": "2024A&A...685A..53G"
    },
-   "epoch": "2019-10-23"
+   "epoch": "2019-10-23",
+   "content": "continuum"
   },
   {
    "type": "disk_mm",
@@ -87,7 +89,8 @@
     "arxiv": "1906.10809",
     "bibcode": "2019ApJ...882...49L"
    },
-   "epoch": "2017-08-31"
+   "epoch": "2017-08-31",
+   "content": "continuum"
   },
   {
    "image_id": "dh-tau_irdis-h-2019",
@@ -109,7 +112,8 @@
     "arxiv": "2101.04033",
     "bibcode": "2021A&A...647A..21V"
    },
-   "epoch": "2019-10-24"
+   "epoch": "2019-10-24",
+   "content": "continuum"
   },
   {
    "image_id": "dh-tau_wfc3-f656n-2012",
@@ -131,7 +135,8 @@
     "arxiv": "1401.6545",
     "bibcode": "2014ApJ...783L..17Z"
    },
-   "epoch": "2012-01-22"
+   "epoch": "2012-01-22",
+   "content": "line"
   }
  ],
  "notes": null,

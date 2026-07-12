@@ -34,7 +34,8 @@
     "arxiv": "2012.00189",
     "bibcode": "2021MNRAS.501.2934C"
    },
-   "epoch": "2019-06-24"
+   "epoch": "2019-06-24",
+   "content": "continuum"
   },
   {
    "image_id": "rx-j1633-9-2442_sma2012",
@@ -54,7 +55,8 @@
     "arxiv": "1204.5722",
     "bibcode": "2012ApJ...752...75C"
    },
-   "file": "images/rx-j1633-9-2442/rx-j1633-9-2442_sma2012.png"
+   "file": "images/rx-j1633-9-2442/rx-j1633-9-2442_sma2012.png",
+   "content": "continuum"
   },
   {
    "image_id": "rx-j1633-9-2442_alma-vioque26",
@@ -75,7 +77,8 @@
     "arxiv": "2512.00157",
     "bibcode": "2026A&A...705A.238V"
    },
-   "epoch": null
+   "epoch": "2019",
+   "content": "continuum"
   },
   {
    "image_id": "rx-j1633-9-2442_alma-kurtovic26",
@@ -96,7 +99,8 @@
     "arxiv": "2605.30023",
     "bibcode": "2026arXiv260530023K"
    },
-   "epoch": null
+   "epoch": "2019",
+   "content": "continuum"
   }
  ],
  "notes": "AUTO-CREATED from staging - fill metadata & coords",

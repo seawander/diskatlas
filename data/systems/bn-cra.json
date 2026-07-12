@@ -42,7 +42,8 @@
     "arxiv": "2511.01717",
     "bibcode": "2026A&A...706A..16C"
    },
-   "epoch": "2023-04-08"
+   "epoch": "2023-04-08",
+   "content": "continuum"
   }
  ],
  "notes": "Added 2026-07-06 (known_missing triage). Coordinates pending next host SIMBAD run.",

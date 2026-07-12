@@ -32,9 +32,10 @@
     "arxiv": "2403.02156",
     "bibcode": "2024A&A...685A..54V"
    },
-   "epoch": "2020-03-04"
+   "epoch": "2020-02-18",
+   "content": "continuum"
   }
  ],
- "notes": "AUTO-CREATED from staging - fill metadata & coords",
- "last_updated": "2026-07-06"
+ "notes": "G1IV young star in Orion; the held SPHERE/IRDIS H-band polarized-intensity image from DESTINYS shows a faint, smooth disk extending to ~151 au, the largest of the faint disks in that survey (Valegard et al. 2024).",
+ "last_updated": "2026-07-11"
 }

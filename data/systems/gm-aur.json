@@ -32,7 +32,8 @@
    },
    "image_id": "gm-aur_alma2020",
    "file": "images/gm-aur/gm-aur_alma2020.png",
-   "epoch": "2017-2018"
+   "epoch": "2017-2018",
+   "content": "continuum"
   },
   {
    "type": "disk_mm",
@@ -53,7 +54,8 @@
    },
    "image_id": "gm-aur_alma2020-band4",
    "file": "images/gm-aur/gm-aur_alma-band4-2.1mm.png",
-   "epoch": "2017-2018"
+   "epoch": "2017-2018",
+   "content": "continuum"
   },
   {
    "type": "disk_scattered",
@@ -74,7 +76,8 @@
     "arxiv": "2403.02158",
     "bibcode": "2024A&A...685A..53G"
    },
-   "epoch": "2018-01-02"
+   "epoch": "2018-01-02",
+   "content": "continuum"
   },
   {
    "type": "disk_scattered",
@@ -95,7 +98,8 @@
    },
    "image_id": "gm-aur_nicmos2003",
    "file": "images/gm-aur/gm-aur_nicmos2003.png",
-   "epoch": "1998-03-25"
+   "epoch": "1998-03-25",
+   "content": "continuum"
   },
   {
    "image_id": "gm-aur_seeds",
@@ -115,7 +119,8 @@
     "journal": "Proc. Japan Acad. Ser. B 92, 45",
     "arxiv": null,
     "bibcode": "2016PJAB...92...45T"
-   }
+   },
+   "content": "continuum"
   },
   {
    "image_id": "gm-aur_alice-f110w",
@@ -137,7 +142,8 @@
     "bibcode": "2018AJ....155..179H"
    },
    "hires_url": "https://archive.stsci.edu/prepds/alice/",
-   "epoch": "1998-2006"
+   "epoch": "1998-2006",
+   "content": "continuum"
   },
   {
    "image_id": "gm-aur_alma-maps2021",
@@ -158,7 +164,8 @@
     "bibcode": "2021ApJS..257....1O"
    },
    "file": "images/gm-aur/gm-aur_alma-maps2021.png",
-   "epoch": "2018"
+   "epoch": "2018",
+   "content": "line"
   },
   {
    "image_id": "gm-aur_sphere-ks-qphi",
@@ -179,7 +186,8 @@
     "bibcode": "2023A&A...680A.114R"
    },
    "file": "images/gm-aur/gm-aur_sphere-ks-qphi.png",
-   "epoch": "2021-01-20"
+   "epoch": "2021-01-20",
+   "content": "continuum"
   },
   {
    "image_id": "gm-aur_pdbi2009",
@@ -200,7 +208,8 @@
     "bibcode": "2009ApJ...698..131H"
    },
    "file": "images/gm-aur/gm-aur_pdbi2009.png",
-   "epoch": "2006 Jan 15"
+   "epoch": "2006 Jan 15",
+   "content": "continuum"
   },
   {
    "image_id": "gm-aur_sma2009",
@@ -221,7 +230,8 @@
     "bibcode": "2009ApJ...698..131H"
    },
    "file": "images/gm-aur/gm-aur_sma2009.png",
-   "epoch": "2005-2006"
+   "epoch": "2005-11",
+   "content": "continuum"
   },
   {
    "image_id": "gm-aur_acssbc_f140lp",
@@ -242,7 +252,8 @@
     "bibcode": "2016ApJ...829...65H"
    },
    "file": "images/gm-aur/gm-aur_acssbc_f140lp.png",
-   "epoch": "2008-08-13"
+   "epoch": "2008-08-13",
+   "content": "continuum"
   },
   {
    "image_id": "gm-aur_acssbc_f165lp",
@@ -263,7 +274,8 @@
     "bibcode": "2016ApJ...829...65H"
    },
    "file": "images/gm-aur/gm-aur_acssbc_f165lp.png",
-   "epoch": "2008-08-13"
+   "epoch": "2008-08-13",
+   "content": "continuum"
   },
   {
    "image_id": "gm-aur_acshrc_f330w",
@@ -284,7 +296,8 @@
     "bibcode": "2016ApJ...829...65H"
    },
    "file": "images/gm-aur/gm-aur_acshrc_f330w.png",
-   "epoch": "2003-12-31"
+   "epoch": "2003-12-31",
+   "content": "continuum"
   },
   {
    "image_id": "gm-aur_wfpc2_f555w",
@@ -305,7 +318,8 @@
     "bibcode": "2016ApJ...829...65H"
    },
    "file": "images/gm-aur/gm-aur_wfpc2_f555w.png",
-   "epoch": "1995-07-29"
+   "epoch": "1995-07-29",
+   "content": "continuum"
   },
   {
    "type": "disk_mm",
@@ -326,7 +340,8 @@
     "journal": "ApJ 529, 477",
     "title": "Unveiling the Circumstellar Envelope and Disk: A Subarcsecond Survey of Circumstellar Structures"
    },
-   "epoch": "1996-1998"
+   "epoch": "1996-1998",
+   "content": "continuum"
   },
   {
    "image_id": "gm-aur_alma-vioque26",
@@ -347,7 +362,8 @@
     "arxiv": "2512.00157",
     "bibcode": "2026A&A...705A.238V"
    },
-   "epoch": null
+   "epoch": "2017-2019",
+   "content": "continuum"
   },
   {
    "image_id": "gm-aur_alma-kurtovic26",
@@ -368,7 +384,8 @@
     "arxiv": "2605.30023",
     "bibcode": "2026arXiv260530023K"
    },
-   "epoch": null
+   "epoch": "2017-2023",
+   "content": "continuum"
   },
   {
    "image_id": "gm-aur_maps-12co",
@@ -390,7 +407,8 @@
     "arxiv": "2109.06210",
     "bibcode": "2021ApJS..257....3L"
    },
-   "epoch": "2018-2019"
+   "epoch": "2018-2019",
+   "content": "line"
   },
   {
    "image_id": "gm-aur_maps-13co",
@@ -412,7 +430,8 @@
     "arxiv": "2109.06210",
     "bibcode": "2021ApJS..257....3L"
    },
-   "epoch": "2018-2019"
+   "epoch": "2018-2019",
+   "content": "line"
   },
   {
    "image_id": "gm-aur_maps-c18o",
@@ -434,7 +453,8 @@
     "arxiv": "2109.06210",
     "bibcode": "2021ApJS..257....3L"
    },
-   "epoch": "2018-2019"
+   "epoch": "2018-2019",
+   "content": "line"
   },
   {
    "image_id": "gm-aur_maps-c2h",
@@ -456,7 +476,8 @@
     "arxiv": "2109.06210",
     "bibcode": "2021ApJS..257....3L"
    },
-   "epoch": "2018-2019"
+   "epoch": "2018-2019",
+   "content": "line"
   },
   {
    "image_id": "gm-aur_maps-hcop",
@@ -478,7 +499,8 @@
     "arxiv": "2109.06210",
     "bibcode": "2021ApJS..257....3L"
    },
-   "epoch": "2018-2019"
+   "epoch": "2018-2019",
+   "content": "line"
   },
   {
    "image_id": "gm-aur_maps-cs",
@@ -500,7 +522,8 @@
     "arxiv": "2109.06210",
     "bibcode": "2021ApJS..257....3L"
    },
-   "epoch": "2018-2019"
+   "epoch": "2018-2019",
+   "content": "line"
   },
   {
    "image_id": "gm-aur_maps-hcn",
@@ -522,7 +545,8 @@
     "arxiv": "2109.06210",
     "bibcode": "2021ApJS..257....3L"
    },
-   "epoch": "2018-2019"
+   "epoch": "2018-2019",
+   "content": "line"
   }
  ],
  "notes": null,

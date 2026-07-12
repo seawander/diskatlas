@@ -46,7 +46,8 @@
     "arxiv": "1512.02220",
     "bibcode": "2016ApJ...817L...2C"
    },
-   "epoch": "2004-10-28"
+   "epoch": "2004-10-28",
+   "content": "continuum"
   },
   {
    "type": "disk_scattered",
@@ -67,7 +68,8 @@
     "arxiv": "2302.04273",
     "bibcode": "2023A&A...672A.114R"
    },
-   "epoch": "2004-10-28"
+   "epoch": "2004-10-28",
+   "content": "continuum"
   },
   {
    "type": "disk_scattered",
@@ -88,7 +90,8 @@
     "arxiv": "2302.04273",
     "bibcode": "2023A&A...672A.114R"
    },
-   "epoch": "2018-11-15"
+   "epoch": "2018-11-15",
+   "content": "continuum"
   }
  ],
  "notes": null,

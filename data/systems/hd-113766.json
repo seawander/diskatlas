@@ -34,11 +34,12 @@
     "arxiv": "2501.09058",
     "bibcode": "2025A&A...693A.151M"
    },
-   "epoch": "2013-12-14"
+   "epoch": "2013-12-14",
+   "content": "continuum"
   }
  ],
- "notes": "AUTO-CREATED from staging - fill metadata & coords",
- "last_updated": "2026-07-06",
+ "notes": "F3/5V debris disk host; its planetesimal belt was resolved in ~1 mm continuum interferometry as part of the REASONS survey of 74 resolved belts (Matra et al. 2025).",
+ "last_updated": "2026-07-11",
  "plx_mas": 8.16,
  "mags": {
   "J": 6.725,

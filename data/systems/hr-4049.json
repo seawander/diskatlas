@@ -34,7 +34,8 @@
     "arxiv": "2605.13445",
     "bibcode": "2026arXiv260513445D"
    },
-   "file": "images/hr-4049/hr-4049_vlti_pionier.png"
+   "file": "images/hr-4049/hr-4049_vlti_pionier.png",
+   "content": "continuum"
   },
   {
    "image_id": "hr-4049_sphere_irdis",
@@ -55,7 +56,8 @@
     "bibcode": "2023MNRAS.524.4168A"
    },
    "file": "images/hr-4049/hr-4049_sphere_irdis.png",
-   "epoch": "2018-11-29"
+   "epoch": "2018-11-29",
+   "content": "continuum"
   }
  ],
  "notes": "Post-AGB binary whose circumbinary disc was resolved with VLTI/PIONIER interferometry (De Prins+2026) and SPHERE/IRDIS polarimetry (Andrych+2023).",

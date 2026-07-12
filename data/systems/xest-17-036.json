@@ -52,7 +52,8 @@
     "arxiv": "2512.05191",
     "bibcode": "2026AJ....171...80W"
    },
-   "epoch": "2023 Dec"
+   "epoch": "2023 Dec",
+   "content": "continuum"
   }
  ],
  "notes": "Host is an M4 Taurus member (~3.3 Myr, XEST/XMM-Newton survey source). KOINTREAU-1b was confirmed bound via common proper motion with Gaia astrometry (log Bayes factor ~25.7; Walker+2026). The companion's spectral type varies between epochs (M7 SpeX vs L1 GNIRS), possibly indicating clouds or a circumcompanion disk.",

@@ -34,7 +34,8 @@
     "journal": "AJ 117, 1490",
     "title": "HST/NICMOS Imaging of Disks and Envelopes Around Very Young Stars"
    },
-   "epoch": "1997-09-23"
+   "epoch": "1997-09-23",
+   "content": "continuum"
   }
  ],
  "notes": "IRAS 04248+2612: a Class I subarcsecond binary in Taurus with a large bipolar reflection nebula (the HH 31 source), imaged with HST/NICMOS (Padgett+1999).",

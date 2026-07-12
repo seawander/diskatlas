@@ -43,7 +43,8 @@
     "arxiv": "2506.10719",
     "bibcode": "2025ApJ...989....1Z"
    },
-   "epoch": "2018-2022"
+   "epoch": "2018-2022",
+   "content": "continuum"
   },
   {
    "image_id": "sz-65_alma-kurtovic26",
@@ -64,7 +65,8 @@
     "arxiv": "2605.30023",
     "bibcode": "2026arXiv260530023K"
    },
-   "epoch": null
+   "epoch": "2017-2023",
+   "content": "continuum"
   }
  ],
  "notes": "AGE-PRO Lupus 1. Smooth compact disk at AGE-PRO resolution; slightly structured at higher resolution (Miley et al. 2024). Wide binary with Sz 66 (Vioque et al. 2025).",

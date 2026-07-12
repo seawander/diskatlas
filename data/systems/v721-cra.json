@@ -41,7 +41,8 @@
     "arxiv": "2511.01717",
     "bibcode": "2026A&A...706A..16C"
    },
-   "epoch": "2016-2022"
+   "epoch": "2016-2022",
+   "content": "continuum"
   },
   {
    "image_id": "v721-cra_alma-vioque26",
@@ -62,7 +63,8 @@
     "arxiv": "2512.00157",
     "bibcode": "2026A&A...705A.238V"
    },
-   "epoch": null
+   "epoch": "2016-08-16",
+   "content": "continuum"
   },
   {
    "image_id": "v721-cra_alma-kurtovic26",
@@ -83,7 +85,8 @@
     "arxiv": "2605.30023",
     "bibcode": "2026arXiv260530023K"
    },
-   "epoch": null
+   "epoch": "2016-08-16",
+   "content": "continuum"
   }
  ],
  "notes": "Added 2026-07-06 (known_missing triage). Coordinates pending next host SIMBAD run.",

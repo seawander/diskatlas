@@ -36,7 +36,8 @@
     "bibcode": "2018ApJ...857...18S"
    },
    "file": "images/iso-oph-54/iso-oph-54_alma2018.png",
-   "epoch": "2016"
+   "epoch": "2016",
+   "content": "continuum"
   },
   {
    "type": "disk_mm",
@@ -57,7 +58,8 @@
     "arxiv": "2012.00189",
     "bibcode": "2021MNRAS.501.2934C"
    },
-   "epoch": "2019-07-12"
+   "epoch": "2019-07-12",
+   "content": "continuum"
   },
   {
    "image_id": "iso-oph-54_alma-b3-2016",
@@ -79,7 +81,8 @@
     "bibcode": "2018ApJ...857...18S"
    },
    "file": "images/iso-oph-54/iso-oph-54_alma-b3-2016.png",
-   "epoch": "2015-10-31"
+   "epoch": "2015-10-31",
+   "content": "continuum"
   },
   {
    "image_id": "iso-oph-54_odisea-alma-b6-1300um",
@@ -100,7 +103,8 @@
     "arxiv": "1809.08844",
     "bibcode": "2019MNRAS.482..698C"
    },
-   "epoch": "2017-07-13"
+   "epoch": "2017-07-13",
+   "content": "continuum"
   },
   {
    "image_id": "iso-oph-54_alma-kurtovic26",
@@ -121,7 +125,8 @@
     "arxiv": "2605.30023",
     "bibcode": "2026arXiv260530023K"
    },
-   "epoch": null
+   "epoch": "2019-07-12",
+   "content": "continuum"
   }
  ],
  "notes": "GY 91 = [GY92] 91 = ISO-Oph 54 (SIMBAD-verified). Merged the duplicate 'iso-oph-54' system (ODISEA record) into this one 2026-07-09; removed the incorrect 'ISO-Oph 63' alias (that designation is [GY92] 109, a different star).",

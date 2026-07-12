@@ -32,7 +32,8 @@
     "arxiv": "1810.06044",
     "bibcode": "2018ApJ...869...17L"
    },
-   "epoch": "2017-08-27"
+   "epoch": "2017-08-27",
+   "content": "continuum"
   },
   {
    "type": "disk_scattered",
@@ -53,7 +54,8 @@
     "arxiv": "2403.02158",
     "bibcode": "2024A&A...685A..53G"
    },
-   "epoch": "2019-08-15"
+   "epoch": "2019-08-15",
+   "content": "continuum"
   },
   {
    "image_id": "dn-tau_sphere-ks-qphi",
@@ -74,7 +76,8 @@
     "bibcode": "2023A&A...680A.114R"
    },
    "file": "images/dn-tau/dn-tau_sphere-ks-qphi.png",
-   "epoch": "2021-11-24"
+   "epoch": "2021-11-24",
+   "content": "continuum"
   },
   {
    "image_id": "dn-tau_carma1300",
@@ -96,7 +99,8 @@
     "arxiv": "0906.2227",
     "bibcode": "2009ApJ...701..260I"
    },
-   "epoch": "2007-11-05"
+   "epoch": "2007-11-05",
+   "content": "continuum"
   }
  ],
  "notes": null,

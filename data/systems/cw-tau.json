@@ -32,7 +32,8 @@
     "arxiv": "2403.02158",
     "bibcode": "2024A&A...685A..53G"
    },
-   "epoch": "2018-12-22"
+   "epoch": "2018-12-22",
+   "content": "continuum"
   },
   {
    "image_id": "cw-tau_alma2022",
@@ -53,7 +54,8 @@
     "arxiv": "2203.16236",
     "bibcode": "2022ApJ...930...56U"
    },
-   "epoch": "2021"
+   "epoch": "2021",
+   "content": "continuum"
   },
   {
    "image_id": "cw-tau_alma-kurtovic26",
@@ -74,7 +76,8 @@
     "arxiv": "2605.30023",
     "bibcode": "2026arXiv260530023K"
    },
-   "epoch": null
+   "epoch": "2021-2023",
+   "content": "continuum"
   }
  ],
  "notes": null,

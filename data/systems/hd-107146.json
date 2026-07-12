@@ -34,7 +34,8 @@
     "arxiv": "2501.09058",
     "bibcode": "2025A&A...693A.151M"
    },
-   "epoch": "2012-2017"
+   "epoch": "2012-2017",
+   "content": "continuum"
   },
   {
    "type": "disk_mm",
@@ -55,7 +56,8 @@
    },
    "image_id": "hd-107146_alma2015",
    "file": "images/hd-107146/hd-107146_alma2015.png",
-   "epoch": "2012-01-11"
+   "epoch": "2012-01-11",
+   "content": "continuum"
   },
   {
    "type": "disk_scattered",
@@ -76,7 +78,8 @@
     "arxiv": "1406.7303",
     "bibcode": "2014AJ....148...59S"
    },
-   "epoch": "2011"
+   "epoch": "2011",
+   "content": "continuum"
   },
   {
    "type": "disk_mm",
@@ -97,7 +100,8 @@
     "arxiv": "2601.11708",
     "bibcode": "2026A&A...705A.195M"
    },
-   "epoch": "2016-2021"
+   "epoch": "2016-2021",
+   "content": "continuum"
   },
   {
    "type": "disk_scattered",
@@ -118,7 +122,8 @@
     "arxiv": "astro-ph/0411422",
     "bibcode": "2004ApJ...617L.147A"
    },
-   "epoch": "2004-06-05"
+   "epoch": "2004-06-05",
+   "content": "continuum"
   },
   {
    "type": "disk_scattered",
@@ -139,7 +144,8 @@
     "arxiv": "astro-ph/0411422",
     "bibcode": "2004ApJ...617L.147A"
    },
-   "epoch": "2004-07-20"
+   "epoch": "2004-07-20",
+   "content": "continuum"
   },
   {
    "type": "disk_scattered",
@@ -160,7 +166,8 @@
     "arxiv": "1107.1057",
     "bibcode": "2011A&A...533A.132E"
    },
-   "epoch": "2005 Jan 24"
+   "epoch": "2005 Jan 24",
+   "content": "continuum"
   },
   {
    "image_id": "hd-107146_alice-f110w",
@@ -182,7 +189,8 @@
     "bibcode": "2018AJ....155..179H"
    },
    "hires_url": "https://archive.stsci.edu/prepds/alice/",
-   "epoch": "2005-2007"
+   "epoch": "2005-2007",
+   "content": "continuum"
   },
   {
    "image_id": "hd-107146_carma2008",
@@ -203,7 +211,8 @@
     "bibcode": "2009ApJ...690L..65C"
    },
    "file": "images/hd-107146/hd-107146_carma2008.png",
-   "epoch": "2007-2008"
+   "epoch": "2007-2008",
+   "content": "continuum"
   },
   {
    "image_id": "hd-107146_scuba2-850um-sons",
@@ -224,7 +233,8 @@
     "arxiv": "1706.01218",
     "bibcode": "2017MNRAS.470.3606H"
    },
-   "epoch": "2012-2015"
+   "epoch": "2012-2015",
+   "content": "continuum"
   }
  ],
  "notes": null,

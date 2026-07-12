@@ -34,7 +34,8 @@
     "arxiv": "2008.06518",
     "bibcode": "2020A&A...642A.164V"
    },
-   "epoch": "2017"
+   "epoch": "2017",
+   "content": "continuum"
   },
   {
    "type": "disk_mm",
@@ -55,7 +56,8 @@
     "arxiv": "2204.00640",
     "bibcode": "2022ApJ...930...11V"
    },
-   "epoch": "2019 Jun 8"
+   "epoch": "2019 Jun 8",
+   "content": "continuum"
   },
   {
    "type": "disk_mm",
@@ -76,7 +78,8 @@
     "arxiv": "2204.00640",
     "bibcode": "2022ApJ...930...11V"
    },
-   "epoch": "2019 Jun 8"
+   "epoch": "2019 Jun 8",
+   "content": "continuum"
   },
   {
    "image_id": "oph-163131_jwst2024",
@@ -97,7 +100,8 @@
     "arxiv": "2410.00156",
     "bibcode": "2024ApJ...975..235V"
    },
-   "epoch": "2023 Mar 7"
+   "epoch": "2023 Mar 7",
+   "content": "continuum"
   },
   {
    "image_id": "oph-163131_hst2021",
@@ -118,7 +122,8 @@
     "bibcode": "2021AJ....161..238W"
    },
    "file": "images/oph-163131/oph-163131_hst2021.png",
-   "epoch": "2012-03-04"
+   "epoch": "2012-03-04",
+   "content": "continuum"
   },
   {
    "image_id": "oph-163131_keck2021",
@@ -139,7 +144,8 @@
     "bibcode": "2021AJ....161..238W"
    },
    "file": "images/oph-163131/oph-163131_keck2021.png",
-   "epoch": "2019 Apr 25"
+   "epoch": "2019 Apr 25",
+   "content": "continuum"
   }
  ],
  "notes": "AUTO-CREATED from staging - fill metadata & coords",

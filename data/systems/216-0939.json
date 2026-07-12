@@ -36,7 +36,8 @@
     "arxiv": "astro-ph/0410170",
     "bibcode": "2005AJ....129..382S"
    },
-   "epoch": "2002"
+   "epoch": "2002",
+   "content": "continuum"
   },
   {
    "image_id": "216-0939_alma-b6-diaz24",
@@ -57,7 +58,8 @@
     "arxiv": "2405.00615",
     "bibcode": "2024ApJ...969..165D"
    },
-   "epoch": "2018"
+   "epoch": "2018",
+   "content": "continuum"
   }
  ],
  "notes": "One of the largest silhouette/edge-on disks in the Orion Nebula, ~10 arcmin N of the Trapezium (outside the Ricci 2008 ACS Treasury field). HST 3-color shows a bipolar reflection nebula bisected by the edge-on disk lane (Smith et al. 2005); ALMA Band 6 resolves an inclined dust ring with a central cavity (Díaz-Berríos et al. 2024). Distance = ONC (~414 pc). Added 2026-07-11.",

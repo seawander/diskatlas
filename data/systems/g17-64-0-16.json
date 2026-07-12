@@ -36,7 +36,8 @@
     "bibcode": "2019A&A...627L...6M"
    },
    "file": "images/g17-64-0-16/g17-64-0-16_alma2019.png",
-   "epoch": "2017 Oct 4"
+   "epoch": "2017 Oct 4",
+   "content": "continuum"
   }
  ],
  "notes": "Massive young stellar object whose disc was resolved with ALMA long-baseline Band 6 imaging (Maud+2019).",

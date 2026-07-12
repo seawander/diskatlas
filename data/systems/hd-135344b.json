@@ -35,7 +35,8 @@
     "arxiv": "2504.18725",
     "bibcode": "2025ApJ...984L...9C"
    },
-   "epoch": "2022"
+   "epoch": "2022",
+   "content": "continuum"
   },
   {
    "type": "disk_scattered",
@@ -56,7 +57,8 @@
    },
    "image_id": "hd-135344b_seeds2012",
    "file": "images/hd-135344b/hd-135344b_seeds2012.png",
-   "epoch": "2011 May 20"
+   "epoch": "2011 May 20",
+   "content": "continuum"
   },
   {
    "type": "disk_scattered",
@@ -77,7 +79,8 @@
     "arxiv": "2310.08589",
     "bibcode": "2023A&A...680A.114R"
    },
-   "epoch": "2021-06-04"
+   "epoch": "2021-06-04",
+   "content": "continuum"
   },
   {
    "type": "disk_scattered",
@@ -98,7 +101,8 @@
     "arxiv": "2404.02222",
     "bibcode": "2024A&A...684A..73D"
    },
-   "epoch": "2012-07-24"
+   "epoch": "2012-07-24",
+   "content": "continuum"
   },
   {
    "image_id": "hd-135344b_stolker2016-r",
@@ -119,7 +123,8 @@
     "bibcode": "2016A&A...595A.113S"
    },
    "file": "images/hd-135344b/hd-135344b_stolker2016-r.png",
-   "epoch": "2015 Mar 31"
+   "epoch": "2015 Mar 31",
+   "content": "continuum"
   },
   {
    "image_id": "hd-135344b_stolker2016-i",
@@ -140,7 +145,8 @@
     "bibcode": "2016A&A...595A.113S"
    },
    "file": "images/hd-135344b/hd-135344b_stolker2016-i.png",
-   "epoch": "2015 Mar 31"
+   "epoch": "2015 Mar 31",
+   "content": "continuum"
   },
   {
    "image_id": "hd-135344b_stolker2016-y",
@@ -161,7 +167,8 @@
     "bibcode": "2016A&A...595A.113S"
    },
    "file": "images/hd-135344b/hd-135344b_stolker2016-y.png",
-   "epoch": "2015-03-30"
+   "epoch": "2015-03-30",
+   "content": "continuum"
   },
   {
    "image_id": "hd-135344b_stolker2016-j",
@@ -182,7 +189,8 @@
     "bibcode": "2016A&A...595A.113S"
    },
    "file": "images/hd-135344b/hd-135344b_stolker2016-j.png",
-   "epoch": "2015-05-02"
+   "epoch": "2015-05-02",
+   "content": "continuum"
   },
   {
    "image_id": "hd-135344b_alice-f110w",
@@ -204,7 +212,8 @@
     "bibcode": "2018AJ....155..179H"
    },
    "hires_url": "https://archive.stsci.edu/prepds/alice/",
-   "epoch": "2005-03-24"
+   "epoch": "2005-03-24",
+   "content": "continuum"
   },
   {
    "image_id": "hd-135344b_nircam2026",
@@ -225,7 +234,8 @@
     "bibcode": "2026arXiv260610624L"
    },
    "file": "images/hd-135344b/hd-135344b_nircam2026.png",
-   "epoch": "2023-02-16"
+   "epoch": "2023-02-16",
+   "content": "continuum"
   },
   {
    "image_id": "hd-135344b_sphere-ks-qphi",
@@ -246,7 +256,8 @@
     "bibcode": "2023A&A...680A.114R"
    },
    "file": "images/hd-135344b/hd-135344b_sphere-ks-qphi.png",
-   "epoch": "2021-06-04"
+   "epoch": "2021-06-04",
+   "content": "continuum"
   },
   {
    "image_id": "hd-135344b_exoalma-co",
@@ -267,7 +278,8 @@
     "bibcode": "2025ApJ...984L...6T"
    },
    "file": "images/hd-135344b/hd-135344b_exoalma-co.png",
-   "epoch": "2022"
+   "epoch": "2022",
+   "content": "line"
   },
   {
    "image_id": "hd-135344b_stis-grady2005",
@@ -288,7 +300,8 @@
     "bibcode": "2005ApJ...630..958G"
    },
    "file": "images/hd-135344b/hd-135344b_stis-grady2005.png",
-   "epoch": "2001-04-08"
+   "epoch": "2001-04-08",
+   "content": "continuum"
   },
   {
    "image_id": "hd-135344b_xie2024-j2015",
@@ -309,7 +322,8 @@
     "arxiv": "2412.14402",
     "bibcode": "2024Univ...10..465X"
    },
-   "epoch": "2015-05-03"
+   "epoch": "2015-05-03",
+   "content": "continuum"
   },
   {
    "image_id": "hd-135344b_xie2024-j2016",
@@ -330,7 +344,8 @@
     "arxiv": "2412.14402",
     "bibcode": "2024Univ...10..465X"
    },
-   "epoch": "2016-05-04"
+   "epoch": "2016-05-04",
+   "content": "continuum"
   },
   {
    "image_id": "hd-135344b_xie2024-j2022",
@@ -351,7 +366,8 @@
     "arxiv": "2412.14402",
     "bibcode": "2024Univ...10..465X"
    },
-   "epoch": "2022-03-30"
+   "epoch": "2022-03-30",
+   "content": "continuum"
   },
   {
    "image_id": "hd-135344b_naco-h-qphi-garufi13",
@@ -372,7 +388,8 @@
     "arxiv": "1311.4195",
     "bibcode": "2013A&A...560A.105G"
    },
-   "epoch": "2012-07-24"
+   "epoch": "2012-07-24",
+   "content": "continuum"
   },
   {
    "image_id": "hd-135344b_naco-ks-qphi-garufi13",
@@ -393,7 +410,8 @@
     "arxiv": "1311.4195",
     "bibcode": "2013A&A...560A.105G"
    },
-   "epoch": "2012-07-24"
+   "epoch": "2012-07-24",
+   "content": "continuum"
   },
   {
    "image_id": "hd-135344b_alma-vioque26",
@@ -414,7 +432,8 @@
     "arxiv": "2512.00157",
     "bibcode": "2026A&A...705A.238V"
    },
-   "epoch": null
+   "epoch": "2019-2021",
+   "content": "continuum"
   },
   {
    "image_id": "hd-135344b_alma-kurtovic26",
@@ -435,7 +454,8 @@
     "arxiv": "2605.30023",
     "bibcode": "2026arXiv260530023K"
    },
-   "epoch": null
+   "epoch": "2019-2021",
+   "content": "continuum"
   }
  ],
  "notes": "Three-epoch J-band spiral pattern motion (2015/2016/2022) gives dynamical evidence for a spiral-arm-driving, gap-opening protoplanet (Xie et al. 2024).",

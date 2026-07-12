@@ -36,7 +36,8 @@
     "arxiv": "2512.00157",
     "bibcode": "2026A&A...705A.238V"
    },
-   "epoch": null
+   "epoch": null,
+   "content": "continuum"
   },
   {
    "image_id": "j16070854_alma-kurtovic26",
@@ -57,7 +58,8 @@
     "arxiv": "2605.30023",
     "bibcode": "2026arXiv260530023K"
    },
-   "epoch": null
+   "epoch": "2025",
+   "content": "continuum"
   },
   {
    "image_id": "j16070854_alma-martinien",
@@ -78,7 +80,8 @@
     "arxiv": "2604.11247",
     "bibcode": "2026A&A...710A.140M"
    },
-   "epoch": "2023-06-06"
+   "epoch": "2023-06-06",
+   "content": "continuum"
   }
  ],
  "notes": "Transition disk with an inner dust cavity; ALMA continuum from the Vioque et al. 2026 gallery. Coords parsed from the 2MASS identifier. Added 2026-07-11. [coordinates corrected 2026-07-11 from the 2MASS designation; the Kurtovic-gallery ingest had mis-parsed HHMMSSss.] Added 2026-07-06 (Martinien+2026 ALMA highly-inclined disk). Coords pending SIMBAD.",

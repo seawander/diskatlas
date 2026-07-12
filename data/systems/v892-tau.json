@@ -34,7 +34,8 @@
     "bibcode": "2021ApJ...915..131L"
    },
    "file": "images/v892-tau/v892-tau_alma-long2021.png",
-   "epoch": "2011"
+   "epoch": "2011",
+   "content": "continuum"
   },
   {
    "image_id": "v892-tau_alma-vioque26",
@@ -55,7 +56,8 @@
     "arxiv": "2512.00157",
     "bibcode": "2026A&A...705A.238V"
    },
-   "epoch": null
+   "epoch": "2021-2022",
+   "content": "continuum"
   },
   {
    "image_id": "v892-tau_alma-kurtovic26",
@@ -76,7 +78,8 @@
     "arxiv": "2605.30023",
     "bibcode": "2026arXiv260530023K"
    },
-   "epoch": null
+   "epoch": "2015-2022",
+   "content": "continuum"
   }
  ],
  "notes": "AUTO-CREATED from staging - fill metadata & coords Added 2026-07-08 (archival/keyword exploration).",

@@ -32,7 +32,8 @@
    },
    "image_id": "hl-tau_alma2015",
    "file": "images/hl-tau/hl-tau_alma2015.png",
-   "epoch": "2014 Oct 14"
+   "epoch": "2014 Oct 14",
+   "content": "continuum"
   },
   {
    "type": "disk_mm",
@@ -53,7 +54,8 @@
     "arxiv": "1503.02649",
     "bibcode": "2015ApJ...808L...3A"
    },
-   "epoch": "2014 Oct 14"
+   "epoch": "2014 Oct 14",
+   "content": "continuum"
   },
   {
    "type": "disk_mm",
@@ -74,7 +76,8 @@
     "arxiv": "1503.02649",
     "bibcode": "2015ApJ...808L...3A"
    },
-   "epoch": "2014 Oct 14"
+   "epoch": "2014 Oct 14",
+   "content": "continuum"
   },
   {
    "image_id": "hl-tau_nircam2024-f187n",
@@ -95,7 +98,8 @@
     "bibcode": "2024AJ....167..183M"
    },
    "file": "images/hl-tau/hl-tau_nircam2024-f187n.png",
-   "epoch": "2022-09-29"
+   "epoch": "2022-09-29",
+   "content": "continuum"
   },
   {
    "image_id": "hl-tau_nircam2024-f200w",
@@ -116,7 +120,8 @@
     "bibcode": "2024AJ....167..183M"
    },
    "file": "images/hl-tau/hl-tau_nircam2024-f200w.png",
-   "epoch": "2022-2023"
+   "epoch": "2022-2023",
+   "content": "continuum"
   },
   {
    "image_id": "hl-tau_nircam2024-f405n",
@@ -137,7 +142,8 @@
     "bibcode": "2024AJ....167..183M"
    },
    "file": "images/hl-tau/hl-tau_nircam2024-f405n.png",
-   "epoch": "2022-09-29"
+   "epoch": "2022-09-29",
+   "content": "continuum"
   },
   {
    "image_id": "hl-tau_nircam2024-f410m",
@@ -158,7 +164,8 @@
     "bibcode": "2024AJ....167..183M"
    },
    "file": "images/hl-tau/hl-tau_nircam2024-f410m.png",
-   "epoch": "2022-09-29"
+   "epoch": "2022-09-29",
+   "content": "continuum"
   },
   {
    "image_id": "hl-tau_vla2016",
@@ -178,7 +185,8 @@
     "arxiv": "1603.03731",
     "bibcode": "2016ApJ...821L..16C"
    },
-   "file": "images/hl-tau/hl-tau_vla2016.png"
+   "file": "images/hl-tau/hl-tau_vla2016.png",
+   "content": "continuum"
   },
   {
    "image_id": "hl-tau_alma-1.3mm-carrasco16",
@@ -199,7 +207,8 @@
     "bibcode": "2016ApJ...821L..16C"
    },
    "file": "images/hl-tau/hl-tau_alma-1.3mm-carrasco16.png",
-   "epoch": "2014 Oct 14"
+   "epoch": "2014 Oct 14",
+   "content": "continuum"
   },
   {
    "type": "disk_mm",
@@ -220,7 +229,8 @@
     "journal": "ApJ 529, 477",
     "title": "Unveiling the Circumstellar Envelope and Disk: A Subarcsecond Survey of Circumstellar Structures"
    },
-   "epoch": "1996-1998"
+   "epoch": "1996-1998",
+   "content": "continuum"
   },
   {
    "image_id": "hl-tau_alma-kurtovic26",
@@ -241,7 +251,8 @@
     "arxiv": "2605.30023",
     "bibcode": "2026arXiv260530023K"
    },
-   "epoch": null
+   "epoch": null,
+   "content": "continuum"
   }
  ],
  "notes": "The first iconic ALMA ring system (ALMA Partnership+2015).",

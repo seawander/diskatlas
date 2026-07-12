@@ -48,7 +48,8 @@
     "journal": "A&A 693, A151",
     "arxiv": "2501.09058",
     "bibcode": "2025A&A...693A.151M"
-   }
+   },
+   "content": "continuum"
   },
   {
    "image_id": "hd-50571_vapp2021",
@@ -69,7 +70,8 @@
     "bibcode": "2021MNRAS.506.3224S"
    },
    "file": "images/hd-50571/hd-50571_vapp2021.png",
-   "epoch": "2017 Feb 6"
+   "epoch": "2017 Feb 6",
+   "content": "continuum"
   }
  ],
  "notes": "AUTO-CREATED from staging - fill metadata & coords",

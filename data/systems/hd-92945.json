@@ -35,7 +35,8 @@
     "journal": "A&A 693, A151",
     "arxiv": "2501.09058",
     "bibcode": "2025A&A...693A.151M"
-   }
+   },
+   "content": "continuum"
   },
   {
    "type": "disk_scattered",
@@ -56,7 +57,8 @@
     "arxiv": "1406.7303",
     "bibcode": "2014AJ....148...59S"
    },
-   "epoch": "2011 May 6"
+   "epoch": "2011 May 6",
+   "content": "continuum"
   },
   {
    "type": "disk_mm",
@@ -77,7 +79,8 @@
     "arxiv": "2601.11708",
     "bibcode": "2026A&A...705A.195M"
    },
-   "epoch": "2016"
+   "epoch": "2016",
+   "content": "continuum"
   },
   {
    "type": "disk_scattered",
@@ -98,7 +101,8 @@
     "arxiv": "2512.03128",
     "bibcode": "2025A&A...704A..21E"
    },
-   "epoch": "2018 Jan 27"
+   "epoch": "2018 Jan 27",
+   "content": "continuum"
   },
   {
    "image_id": "hd-92945_alma2019",
@@ -119,7 +123,8 @@
     "arxiv": "1901.01406",
     "bibcode": "2019MNRAS.484.1257M"
    },
-   "epoch": "2016 Dec 18"
+   "epoch": "2016 Dec 18",
+   "content": "continuum"
   },
   {
    "image_id": "hd-92945_alice-f110w",
@@ -141,7 +146,8 @@
     "bibcode": "2018AJ....155..179H"
    },
    "hires_url": "https://archive.stsci.edu/prepds/alice/",
-   "epoch": "2005-04-17"
+   "epoch": "2005-04-17",
+   "content": "continuum"
   },
   {
    "image_id": "hd-92945_acs-golimowski11",
@@ -162,7 +168,8 @@
     "arxiv": "1105.0888",
     "bibcode": "2011AJ....142...30G"
    },
-   "epoch": "2004-2005"
+   "epoch": "2004-2005",
+   "content": "continuum"
   },
   {
    "image_id": "hd-92945_jwst-nircam",
@@ -183,7 +190,8 @@
     "arxiv": "2511.07561",
     "bibcode": "2025A&A...704A.176L"
    },
-   "epoch": "2024 May 20"
+   "epoch": "2024 May 20",
+   "content": "continuum"
   },
   {
    "image_id": "hd-92945_pacs-160um-sons",
@@ -204,7 +212,8 @@
     "arxiv": "1706.01218",
     "bibcode": "2017MNRAS.470.3606H"
    },
-   "epoch": "2009-2013"
+   "epoch": "2009-2013",
+   "content": "continuum"
   },
   {
    "image_id": "hd-92945_jwst-nircam-f444w",
@@ -226,7 +235,8 @@
     "bibcode": "2025A&A...704A.176L"
    },
    "file": "images/hd-92945/hd-92945_jwst-nircam-f444w.png",
-   "epoch": "2024-05-20"
+   "epoch": "2024-05-20",
+   "content": "continuum"
   }
  ],
  "notes": null,

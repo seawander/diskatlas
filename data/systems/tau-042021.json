@@ -32,7 +32,8 @@
     "arxiv": "2008.06518",
     "bibcode": "2020A&A...642A.164V"
    },
-   "epoch": "2017-09-27"
+   "epoch": "2017-09-27",
+   "content": "continuum"
   },
   {
    "type": "disk_mm",
@@ -53,7 +54,8 @@
     "arxiv": "2008.06518",
     "bibcode": "2020A&A...642A.164V"
    },
-   "epoch": "2016-10-21"
+   "epoch": "2016-10-21",
+   "content": "continuum"
   },
   {
    "type": "disk_mm",
@@ -74,7 +76,8 @@
     "arxiv": "2008.06518",
     "bibcode": "2020A&A...642A.164V"
    },
-   "epoch": "2016-2017"
+   "epoch": "2016-2017",
+   "content": "continuum"
   },
   {
    "type": "disk_scattered",
@@ -95,7 +98,8 @@
     "arxiv": "2309.07040",
     "bibcode": "2024AJ....167...77D"
    },
-   "epoch": "2023 Jan 23"
+   "epoch": "2023 Jan 23",
+   "content": "continuum"
   },
   {
    "type": "disk_scattered",
@@ -116,7 +120,8 @@
     "arxiv": "2309.07040",
     "bibcode": "2024AJ....167...77D"
    },
-   "epoch": "2023 Jan 23"
+   "epoch": "2023 Jan 23",
+   "content": "continuum"
   }
  ],
  "notes": "AUTO-CREATED from staging - fill metadata & coords",

@@ -34,7 +34,8 @@
     "arxiv": "2302.04273",
     "bibcode": "2023A&A...672A.114R"
    },
-   "epoch": "2006"
+   "epoch": "2006",
+   "content": "continuum"
   },
   {
    "type": "disk_scattered",
@@ -55,7 +56,8 @@
     "arxiv": "2512.03128",
     "bibcode": "2025A&A...704A..21E"
    },
-   "epoch": "2016-05-25"
+   "epoch": "2016-05-25",
+   "content": "continuum"
   },
   {
    "type": "disk_scattered",
@@ -76,7 +78,8 @@
     "arxiv": "2302.04273",
     "bibcode": "2023A&A...672A.114R"
    },
-   "epoch": "2014-07-23"
+   "epoch": "2014-07-23",
+   "content": "continuum"
   },
   {
    "image_id": "hd-141943_alice-f110w",
@@ -98,7 +101,8 @@
     "bibcode": "2018AJ....155..179H"
    },
    "hires_url": "https://archive.stsci.edu/prepds/alice/",
-   "epoch": "2006"
+   "epoch": "2006",
+   "content": "continuum"
   },
   {
    "type": "disk_scattered",
@@ -119,7 +123,8 @@
     "arxiv": "2004.13722",
     "bibcode": "2020AJ....160...24E"
    },
-   "epoch": "2015-04-08"
+   "epoch": "2015-04-08",
+   "content": "continuum"
   },
   {
    "image_id": "nz-lup_sphere2019",
@@ -140,7 +145,8 @@
     "arxiv": "1904.02746",
     "bibcode": "2019A&A...625A..21B"
    },
-   "epoch": "2016 May 31"
+   "epoch": "2016 May 31",
+   "content": "continuum"
   },
   {
    "image_id": "nz-lup_nicmos2014",
@@ -161,7 +167,8 @@
     "bibcode": "2014ApJ...786L..23S"
    },
    "file": "images/nz-lup/nz-lup_nicmos2014.png",
-   "epoch": "2006"
+   "epoch": "2006",
+   "content": "continuum"
   },
   {
    "image_id": "nz-lup_sphere-rdi-xie22",
@@ -182,7 +189,8 @@
     "bibcode": "2022A&A...666A..32X"
    },
    "file": "images/nz-lup/nz-lup_sphere-rdi-xie22.png",
-   "epoch": "2016-05-25"
+   "epoch": "2016-05-25",
+   "content": "continuum"
   }
  ],
  "notes": null,

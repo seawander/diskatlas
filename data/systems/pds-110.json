@@ -34,11 +34,12 @@
     "arxiv": "2403.02156",
     "bibcode": "2024A&A...685A..54V"
    },
-   "epoch": "2020-12-10"
+   "epoch": "2020-12-10",
+   "content": "continuum"
   }
  ],
- "notes": "AUTO-CREATED from staging - fill metadata & coords",
- "last_updated": "2026-07-06",
+ "notes": "Young F6-type star (keF6IVeb) in Orion; the held SPHERE/IRDIS H-band polarized-intensity image from DESTINYS shows a small disk around the coronagraph extending to ~65 au along the major axis, brighter in the southeast (Valegard et al. 2024).",
+ "last_updated": "2026-07-11",
  "plx_mas": 2.8857,
  "mags": {
   "B": 10.97,

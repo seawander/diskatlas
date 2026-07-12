@@ -34,11 +34,12 @@
     "arxiv": "2505.02976",
     "bibcode": "2025AJ....170...46H"
    },
-   "epoch": "2019 Feb 20"
+   "epoch": "2019 Feb 20",
+   "content": "continuum"
   }
  ],
- "notes": "AUTO-CREATED from staging - fill metadata & coords",
- "last_updated": "2026-07-06",
+ "notes": "A2V star in Sco-Cen with a debris disk; the held Gemini/GPI H-band polarized-intensity (Qr) image is a high-S/N detection from the DISCS survey (Hom et al. 2025).",
+ "last_updated": "2026-07-11",
  "plx_mas": 7.288,
  "mags": {
   "B": 8.03,

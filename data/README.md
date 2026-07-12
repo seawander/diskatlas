@@ -77,6 +77,17 @@ Examples: `hd-163296`, `as-209`, `tw-hya`, `beta-pic`, `hr-8799`, `pds-70`, `2m1
       "wavelength_um": 1250,            // number, for the wavelength slider sort. REQUIRED.
       "wavelength_label": "1.25 mm continuum",
       "technique": "interferometry",    // interferometry | PDI | ADI | RDI | coronagraphy | other
+      "content": "continuum",           // continuum | line. REQUIRED on disk_mm records.
+                                        // GRANULARITY RULE (decided 2026-07-11): spectral-line
+                                        // data products (moment-0/integrated-intensity maps,
+                                        // per-molecule ALMA maps, narrow-band Halpha/[SII]
+                                        // emission-line images) enter as ONE RECORD PER LINE,
+                                        // exactly as continuum enters one record per band —
+                                        // lines are physically distinct tracers (different
+                                        // chemistry, layers, radii). Do NOT consolidate a
+                                        // multi-line gallery into one record. `content`
+                                        // separates the two populations so the frontend can
+                                        // facet on it and the paper can count them separately.
       "survey": "DSHARP",               // null for individual papers
       "file": "images/hd-163296/hd-163296_dsharp.png",  // relative to repo root; null = pending
       "credit": "Andrews et al. 2018, Fig. 3 (crop)",   // where the crop came from

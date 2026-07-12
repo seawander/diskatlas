@@ -36,7 +36,8 @@
     "arxiv": "2506.10735",
     "bibcode": "2025ApJ...989....4A"
    },
-   "epoch": "2022"
+   "epoch": "2022",
+   "content": "continuum"
   },
   {
    "image_id": "2mass-j16111742-1918285_agepro-12co",
@@ -58,7 +59,8 @@
     "arxiv": "2506.10735",
     "bibcode": "2025ApJ...989....4A"
    },
-   "epoch": "2022"
+   "epoch": "2022",
+   "content": "line"
   }
  ],
  "notes": "M0.25 Upper Sco member (AGE-PRO USco 4); faintest continuum in the AGE-PRO USco sample (0.4 mJy, unresolved, SNR>=9) but a clearly detected 12CO gas disk (Agurto-Gangas et al. 2025).",

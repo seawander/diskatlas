@@ -44,7 +44,8 @@
     "arxiv": "1405.2932",
     "bibcode": "2014ApJ...787....5N"
    },
-   "epoch": "2011-2012"
+   "epoch": "2011-2012",
+   "content": "continuum"
   },
   {
    "image_id": "gu-psc_nirc2-h-2013",
@@ -65,7 +66,8 @@
     "arxiv": "1405.2932",
     "bibcode": "2014ApJ...787....5N"
    },
-   "epoch": "2013-11-19"
+   "epoch": "2013-11-19",
+   "content": "continuum"
   },
   {
    "image_id": "gu-psc_nirc2-k-2013",
@@ -86,7 +88,8 @@
     "arxiv": "1405.2932",
     "bibcode": "2014ApJ...787....5N"
    },
-   "epoch": "2013-11-19"
+   "epoch": "2013-11-19",
+   "content": "continuum"
   }
  ],
  "notes": null,

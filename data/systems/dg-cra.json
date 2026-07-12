@@ -41,7 +41,8 @@
     "arxiv": "2603.01703",
     "bibcode": "2026A&A...709A.269G"
    },
-   "epoch": "2021-09-04"
+   "epoch": "2021-09-04",
+   "content": "continuum"
   }
  ],
  "notes": "First-published SPHERE/IRDIS H-band polarimetric image (DESTINYS). One of the most prominent DESTINYS detections: a stellar companion is seen 0.22\" S of the primary in the intensity image, and a highly sub-structured disk is detected out to 1\" with several spiral arms extending to 2.5\" in polarized light, including one prominent NE arm connecting to the surrounding environment. Disk features: narrow shadow(s); ambient features: binary interaction + ambient interaction (Garufi et al. 2026, Table A.5/Fig. A.1).",

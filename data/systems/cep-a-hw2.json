@@ -34,11 +34,12 @@
     "arxiv": "2606.31746",
     "bibcode": "2026arXiv260631746B"
    },
-   "file": "images/cep-a-hw2/cep-a-hw2_noema2026.png"
+   "file": "images/cep-a-hw2/cep-a-hw2_noema2026.png",
+   "content": "continuum"
   }
  ],
- "notes": "AUTO-CREATED from staging - fill metadata & coords Added 2026-07-08 (discovery queue).",
- "last_updated": "2026-07-08",
+ "notes": "One of the nearest (~700 pc) high-mass accretion-disk candidates, the protostar HW2 in Cepheus A; the held image is the NOEMA long-baseline (~1700 m) 1.3 mm continuum zoom at <=0.2 arcsec (<=100 au) resolution, shown with 1.3 cm jet contours (Beuther et al. 2026).",
+ "last_updated": "2026-07-11",
  "plx_mas": null,
  "mags": null
 }

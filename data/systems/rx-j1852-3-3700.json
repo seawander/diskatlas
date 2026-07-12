@@ -34,7 +34,8 @@
     "arxiv": "2504.18725",
     "bibcode": "2025ApJ...984L...9C"
    },
-   "epoch": "2022"
+   "epoch": "2022",
+   "content": "continuum"
   },
   {
    "image_id": "rx-j1852-3-3700_alice-f110w",
@@ -56,7 +57,8 @@
     "bibcode": "2018AJ....155..179H"
    },
    "hires_url": "https://archive.stsci.edu/prepds/alice/",
-   "epoch": "2007-05-10"
+   "epoch": "2007-05-10",
+   "content": "continuum"
   },
   {
    "image_id": "rx-j1852-3-3700_sphere2019",
@@ -77,7 +79,8 @@
     "bibcode": "2019A&A...624A...7V"
    },
    "file": "images/rx-j1852-3-3700/rx-j1852-3-3700_sphere2019.png",
-   "epoch": "2017"
+   "epoch": "2017",
+   "content": "continuum"
   },
   {
    "image_id": "rx-j1852-3-3700_exoalma-co",
@@ -98,7 +101,8 @@
     "bibcode": "2025ApJ...984L...6T"
    },
    "file": "images/rx-j1852-3-3700/rx-j1852-3-3700_exoalma-co.png",
-   "epoch": "2022"
+   "epoch": "2022",
+   "content": "line"
   },
   {
    "image_id": "rx-j1852-3-3700_alma-vioque26",
@@ -119,7 +123,8 @@
     "arxiv": "2512.00157",
     "bibcode": "2026A&A...705A.238V"
    },
-   "epoch": null
+   "epoch": "2019",
+   "content": "continuum"
   },
   {
    "image_id": "rx-j1852-3-3700_alma-kurtovic26",
@@ -140,7 +145,8 @@
     "arxiv": "2605.30023",
     "bibcode": "2026arXiv260530023K"
    },
-   "epoch": null
+   "epoch": "2019",
+   "content": "continuum"
   }
  ],
  "notes": null,

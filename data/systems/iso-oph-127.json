@@ -40,7 +40,8 @@
     "arxiv": "2506.10719",
     "bibcode": "2025ApJ...989....1Z"
    },
-   "epoch": "2022"
+   "epoch": "2022",
+   "content": "continuum"
   },
   {
    "image_id": "iso-oph-127_odisea-alma-b6-1300um",
@@ -61,7 +62,8 @@
     "arxiv": "1809.08844",
     "bibcode": "2019MNRAS.482..698C"
    },
-   "epoch": "2017-07-13"
+   "epoch": "2017-07-13",
+   "content": "continuum"
   },
   {
    "image_id": "iso-oph-127_agepro-12co",
@@ -83,7 +85,8 @@
     "arxiv": "2506.10731",
     "bibcode": "2025ApJ...989....2R"
    },
-   "epoch": "2022"
+   "epoch": "2022",
+   "content": "line"
   },
   {
    "image_id": "iso-oph-127_agepro-13co",
@@ -105,7 +108,8 @@
     "arxiv": "2506.10731",
     "bibcode": "2025ApJ...989....2R"
    },
-   "epoch": "2022"
+   "epoch": "2022",
+   "content": "line"
   }
  ],
  "notes": "AGE-PRO Ophiuchus 10. Ringed disk: prominent ring at 30 au plus secondary ring at 55 au (Vioque et al. 2025). SpT M1 per AGE-PRO Table 1. Distance = 139 pc Ophiuchus average adopted by AGE-PRO.",

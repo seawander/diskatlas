@@ -39,7 +39,8 @@
     "arxiv": "2604.11247",
     "bibcode": "2026A&A...710A.140M"
    },
-   "epoch": "2023-06-07"
+   "epoch": "2023-06-07",
+   "content": "continuum"
   },
   {
    "image_id": "flying-saucer_jwst-nirspec",
@@ -60,7 +61,8 @@
     "arxiv": "2512.13503",
     "bibcode": "2026A&A...705L..14D"
    },
-   "epoch": "2024-2025"
+   "epoch": "2024-2025",
+   "content": "continuum"
   },
   {
    "image_id": "flying-saucer_isaac2003",
@@ -81,7 +83,8 @@
     "bibcode": "2003ApJ...586..296G"
    },
    "file": "images/flying-saucer/flying-saucer_isaac2003.png",
-   "epoch": "2001 Aug 15"
+   "epoch": "2001 Aug 15",
+   "content": "continuum"
   }
  ],
  "notes": "Added 2026-07-06 (Martinien+2026 ALMA highly-inclined disk). Coords pending SIMBAD.",

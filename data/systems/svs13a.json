@@ -35,10 +35,11 @@
     "bibcode": "2025ApJ...992L..31C"
    },
    "file": "images/svs13a/svs13a_alma2025.png",
-   "epoch": "2022-08-21"
+   "epoch": "2022-08-21",
+   "content": "continuum"
   }
  ],
- "notes": "AUTO-CREATED from staging - fill metadata & coords Added 2026-07-08 (keyword discovery round 2).",
+ "notes": "Circumbinary disk system in NGC 1333 (Perseus); the held image is the ALMA full-Stokes 0.87 mm continuum from the ALMA Perseus Polarization Survey (ALPPS), whose data resolve a dust spiral and a sub-Alfvenic infalling streamer traced down to the circumbinary disk (Cortes et al. 2025).",
  "last_updated": "2026-07-11",
  "plx_mas": null,
  "mags": null

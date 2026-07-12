@@ -32,7 +32,8 @@
    },
    "image_id": "gg-tau_sphere2020",
    "file": "images/gg-tau/gg-tau_sphere2020.png",
-   "epoch": "2016 Nov 18"
+   "epoch": "2016 Nov 18",
+   "content": "continuum"
   },
   {
    "type": "disk_scattered",
@@ -53,7 +54,8 @@
     "arxiv": "2403.02158",
     "bibcode": "2024A&A...685A..53G"
    },
-   "epoch": "2016-11-18"
+   "epoch": "2016-11-18",
+   "content": "continuum"
   },
   {
    "type": "disk_scattered",
@@ -73,7 +75,8 @@
     "bibcode": "1996ApJ...463..326R"
    },
    "image_id": "gg-tau_cfht1996",
-   "file": "images/gg-tau/gg-tau_cfht1996.png"
+   "file": "images/gg-tau/gg-tau_cfht1996.png",
+   "content": "continuum"
   },
   {
    "image_id": "gg-tau_alma2020",
@@ -94,7 +97,8 @@
     "arxiv": "2001.08147",
     "bibcode": "2020A&A...635A..12P"
    },
-   "epoch": "2013-2016"
+   "epoch": "2013-2016",
+   "content": "continuum"
   },
   {
    "image_id": "gg-tau_wfpc2002",
@@ -115,7 +119,8 @@
     "bibcode": "2002ApJ...570..785K"
    },
    "file": "images/gg-tau/gg-tau_wfpc2002.png",
-   "epoch": "1994-1997"
+   "epoch": "1994-1997",
+   "content": "continuum"
   },
   {
    "image_id": "gg-tau_nicmos2002",
@@ -136,7 +141,8 @@
     "bibcode": "2002ApJ...575..974M"
    },
    "file": "images/gg-tau/gg-tau_nicmos2002.png",
-   "epoch": "1997-10-11"
+   "epoch": "1997-10-11",
+   "content": "continuum"
   },
   {
    "image_id": "gg-tau_acs2005_v",
@@ -157,7 +163,8 @@
     "bibcode": "2005AJ....130.2778K"
    },
    "file": "images/gg-tau/gg-tau_acs2005_v.png",
-   "epoch": "2002-09-12"
+   "epoch": "2002-09-12",
+   "content": "continuum"
   },
   {
    "image_id": "gg-tau_acs2005_i",
@@ -178,7 +185,8 @@
     "bibcode": "2005AJ....130.2778K"
    },
    "file": "images/gg-tau/gg-tau_acs2005_i.png",
-   "epoch": "2002-09-12"
+   "epoch": "2002-09-12",
+   "content": "continuum"
   },
   {
    "image_id": "gg-tau_vla2014",
@@ -198,7 +206,8 @@
     "arxiv": "1404.5652",
     "bibcode": "2014ApJ...787..148A"
    },
-   "file": "images/gg-tau/gg-tau_vla2014.png"
+   "file": "images/gg-tau/gg-tau_vla2014.png",
+   "content": "continuum"
   },
   {
    "type": "disk_mm",
@@ -219,7 +228,8 @@
     "journal": "ApJ 529, 477",
     "title": "Unveiling the Circumstellar Envelope and Disk: A Subarcsecond Survey of Circumstellar Structures"
    },
-   "epoch": "1996-1998"
+   "epoch": "1996-1998",
+   "content": "continuum"
   },
   {
    "image_id": "gg-tau_alma-vioque26",
@@ -240,7 +250,8 @@
     "arxiv": "2512.00157",
     "bibcode": "2026A&A...705A.238V"
    },
-   "epoch": null
+   "epoch": "2018-11-08",
+   "content": "continuum"
   },
   {
    "image_id": "gg-tau_alma-kurtovic26",
@@ -261,7 +272,8 @@
     "arxiv": "2605.30023",
     "bibcode": "2026arXiv260530023K"
    },
-   "epoch": null
+   "epoch": "2018-11-08",
+   "content": "continuum"
   },
   {
    "image_id": "gg-tau_pdbi1400-ring99",
@@ -283,7 +295,8 @@
     "arxiv": null,
     "bibcode": "1999A&A...348..570G"
    },
-   "epoch": "1997"
+   "epoch": "1997",
+   "content": "continuum"
   },
   {
    "image_id": "gg-tau_pdbi3400-ring99",
@@ -305,7 +318,8 @@
     "arxiv": null,
     "bibcode": "1999A&A...348..570G"
    },
-   "epoch": "1997"
+   "epoch": "1997",
+   "content": "continuum"
   },
   {
    "image_id": "gg-tau_pdbi2600-cont94",
@@ -327,7 +341,8 @@
     "arxiv": null,
     "bibcode": "1994A&A...286..149D"
    },
-   "epoch": "1992-1993"
+   "epoch": "1992-1993",
+   "content": "line"
   },
   {
    "image_id": "gg-tau_pdbi-13co94",
@@ -349,7 +364,8 @@
     "arxiv": null,
     "bibcode": "1994A&A...286..149D"
    },
-   "epoch": "1992-1993"
+   "epoch": "1992-1993",
+   "content": "line"
   }
  ],
  "notes": null,

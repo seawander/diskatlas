@@ -34,7 +34,8 @@
     "arxiv": "2004.13722",
     "bibcode": "2020AJ....160...24E"
    },
-   "epoch": "2015-08-29"
+   "epoch": "2015-08-29",
+   "content": "continuum"
   },
   {
    "type": "disk_scattered",
@@ -55,7 +56,8 @@
     "arxiv": "2512.03128",
     "bibcode": "2025A&A...704A..21E"
    },
-   "epoch": "2022"
+   "epoch": "2022",
+   "content": "continuum"
   },
   {
    "image_id": "hd-157587_gpi-crotts24",
@@ -76,7 +78,8 @@
     "arxiv": "2311.14599",
     "bibcode": "2024ApJ...961..245C"
    },
-   "epoch": "2015-08-29"
+   "epoch": "2015-08-29",
+   "content": "continuum"
   },
   {
    "image_id": "hd-157587_dpol24-qphi",
@@ -97,7 +100,8 @@
     "arxiv": "2406.02682",
     "bibcode": "2024A&A...688A..42O"
    },
-   "epoch": "2021-2022"
+   "epoch": "2021-2022",
+   "content": "continuum"
   },
   {
    "image_id": "hd-157587_dpol24-toti",
@@ -118,7 +122,8 @@
     "arxiv": "2406.02682",
     "bibcode": "2024A&A...688A..42O"
    },
-   "epoch": "2021-2022"
+   "epoch": "2021-2022",
+   "content": "continuum"
   }
  ],
  "notes": null,

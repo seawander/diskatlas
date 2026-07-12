@@ -56,7 +56,8 @@
     "arxiv": "2604.03767",
     "bibcode": "2026AJ....171..332U"
    },
-   "epoch": "2021 May 9"
+   "epoch": "2021 May 9",
+   "content": "continuum"
   },
   {
    "image_id": "hip-53005_nirc2-2024",
@@ -77,7 +78,8 @@
     "bibcode": "2026AJ....171..332U"
    },
    "file": "images/hip-53005/hip-53005_nirc2-2024.png",
-   "epoch": "2024 Jan 22"
+   "epoch": "2024 Jan 22",
+   "content": "continuum"
   }
  ],
  "notes": "Directly-imaged companion host (Uyama+2026); coordinates verified via SIMBAD.",

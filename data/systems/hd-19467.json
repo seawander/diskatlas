@@ -55,7 +55,8 @@
     "arxiv": "1311.0280",
     "bibcode": "2014ApJ...781...29C"
    },
-   "epoch": "2012-01-07"
+   "epoch": "2012-01-07",
+   "content": "continuum"
   },
   {
    "image_id": "hd-19467_nircam-f300m",
@@ -77,7 +78,8 @@
     "arxiv": "2301.11455",
     "bibcode": "2023ApJ...945..126G"
    },
-   "epoch": "2022-08-12"
+   "epoch": "2022-08-12",
+   "content": "continuum"
   },
   {
    "image_id": "hd-19467_nircam-f360m",
@@ -99,7 +101,8 @@
     "arxiv": "2301.11455",
     "bibcode": "2023ApJ...945..126G"
    },
-   "epoch": "2022-08-12"
+   "epoch": "2022-08-12",
+   "content": "continuum"
   },
   {
    "image_id": "hd-19467_nircam-f410m",
@@ -121,7 +124,8 @@
     "arxiv": "2301.11455",
     "bibcode": "2023ApJ...945..126G"
    },
-   "epoch": "2022-08-12"
+   "epoch": "2022-08-12",
+   "content": "continuum"
   },
   {
    "image_id": "hd-19467_nircam-f430m",
@@ -143,7 +147,8 @@
     "arxiv": "2301.11455",
     "bibcode": "2023ApJ...945..126G"
    },
-   "epoch": "2022-08-12"
+   "epoch": "2022-08-12",
+   "content": "continuum"
   },
   {
    "image_id": "hd-19467_nircam-f460m",
@@ -165,7 +170,8 @@
     "arxiv": "2301.11455",
     "bibcode": "2023ApJ...945..126G"
    },
-   "epoch": "2022-08-12"
+   "epoch": "2022-08-12",
+   "content": "continuum"
   },
   {
    "image_id": "hd-19467_nircam-f250m",
@@ -187,7 +193,8 @@
     "arxiv": "2301.11455",
     "bibcode": "2023ApJ...945..126G"
    },
-   "epoch": "2022-08-12"
+   "epoch": "2022-08-12",
+   "content": "continuum"
   },
   {
    "image_id": "hd-19467_irdis-k1-2017",
@@ -209,7 +216,8 @@
     "arxiv": "2005.10312",
     "bibcode": "2020A&A...639A..47M"
    },
-   "epoch": "2017-11-04"
+   "epoch": "2017-11-04",
+   "content": "continuum"
   },
   {
    "image_id": "hd-19467_irdis-k2-2017",
@@ -231,7 +239,8 @@
     "arxiv": "2005.10312",
     "bibcode": "2020A&A...639A..47M"
    },
-   "epoch": "2017-11-04"
+   "epoch": "2017-11-04",
+   "content": "continuum"
   },
   {
    "image_id": "hd-19467_irdis-h2-2018",
@@ -253,7 +262,8 @@
     "arxiv": "2005.10312",
     "bibcode": "2020A&A...639A..47M"
    },
-   "epoch": "2018-10-18"
+   "epoch": "2018-10-18",
+   "content": "continuum"
   },
   {
    "image_id": "hd-19467_irdis-h3-2018",
@@ -275,7 +285,8 @@
     "arxiv": "2005.10312",
     "bibcode": "2020A&A...639A..47M"
    },
-   "epoch": "2018-10-18"
+   "epoch": "2018-10-18",
+   "content": "continuum"
   }
  ],
  "notes": "Old solar-analog G3V star hosting the benchmark T-dwarf companion HD 19467 B (RV-trend-selected, discovered in Keck/NIRC2 imaging; Crepp+2014), later also a JWST coronagraphy target.",

@@ -32,7 +32,8 @@
     "arxiv": "2008.06518",
     "bibcode": "2020A&A...642A.164V"
    },
-   "epoch": "2016-11-15"
+   "epoch": "2016-11-15",
+   "content": "continuum"
   },
   {
    "image_id": "hh-48-ne_acs2023",
@@ -53,7 +54,8 @@
     "bibcode": "2023A&A...677A..17S"
    },
    "file": "images/hh-48-ne/hh-48-ne_acs2023.png",
-   "epoch": "2012-03-07"
+   "epoch": "2012-03-07",
+   "content": "continuum"
   },
   {
    "image_id": "hh-48-ne_wfpc2-f547m-2009",
@@ -75,7 +77,8 @@
     "arxiv": "1205.2727",
     "bibcode": "2012AJ....144...83R"
    },
-   "epoch": "2009"
+   "epoch": "2009",
+   "content": "continuum"
   },
   {
    "image_id": "hh-48-ne_wfpc2-f673n-2009",
@@ -97,7 +100,8 @@
     "arxiv": "1205.2727",
     "bibcode": "2012AJ....144...83R"
    },
-   "epoch": "2009"
+   "epoch": "2009",
+   "content": "line"
   }
  ],
  "notes": "AUTO-CREATED from staging - fill metadata & coords",

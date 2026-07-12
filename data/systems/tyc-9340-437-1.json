@@ -35,7 +35,8 @@
     "arxiv": "2601.11708",
     "bibcode": "2026A&A...705A.195M"
    },
-   "epoch": "2022-10-02"
+   "epoch": "2022-10-02",
+   "content": "continuum"
   },
   {
    "type": "disk_mm",
@@ -56,7 +57,8 @@
     "arxiv": "2501.09058",
     "bibcode": "2025A&A...693A.151M"
    },
-   "epoch": "2017-07-25"
+   "epoch": "2017-07-25",
+   "content": "continuum"
   },
   {
    "image_id": "tyc-9340-437-1_alice-f160w",
@@ -78,7 +80,8 @@
     "bibcode": "2018AJ....155..179H"
    },
    "hires_url": "https://archive.stsci.edu/prepds/alice/",
-   "epoch": "2004-09-15"
+   "epoch": "2004-09-15",
+   "content": "continuum"
   },
   {
    "image_id": "tyc-9340-437-1_alma2020",
@@ -99,7 +102,8 @@
     "bibcode": "2020AJ....159..288M"
    },
    "file": "images/tyc-9340-437-1/tyc-9340-437-1_alma2020.png",
-   "epoch": "2017"
+   "epoch": "2017",
+   "content": "continuum"
   }
  ],
  "notes": "AUTO-CREATED from staging - fill metadata & coords 1.33mm ALMA Atacama Compact Array (7-m, ~7.4x5.5 arcsec beam) continuum detection at SNR~5.7 (Moor+2020); the disk is only marginally resolved as an extended blob at this coarse ACA resolution rather than resolved into a ring in the image itself -- the ring geometry (peak radius ~140 au) is inferred from uv-plane visibility modelling, not directly visible in the CLEAN image. Outstandingly large and dust-rich for a 24 Myr-old K7/M0 member of the beta Pic moving group, motivating the 'big sibling of AU Mic' comparison in the paper title.",

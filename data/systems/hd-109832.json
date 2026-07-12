@@ -34,11 +34,12 @@
     "arxiv": "2505.02976",
     "bibcode": "2025AJ....170...46H"
    },
-   "epoch": "2019 May 14"
+   "epoch": "2019 May 14",
+   "content": "continuum"
   }
  ],
- "notes": "AUTO-CREATED from staging - fill metadata & coords",
- "last_updated": "2026-07-06",
+ "notes": "A9V star in Sco-Cen hosting a debris disk detected in scattered light for the first time by the DISCS survey; the held image is the Gemini/GPI H-band polarized-intensity (Qr) detection (Hom et al. 2025).",
+ "last_updated": "2026-07-11",
  "plx_mas": 9.32,
  "mags": {
   "B": 8.43,

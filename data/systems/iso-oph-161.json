@@ -40,7 +40,8 @@
     "arxiv": "2506.10731",
     "bibcode": "2025ApJ...989....2R"
    },
-   "epoch": "2022"
+   "epoch": "2022",
+   "content": "continuum"
   },
   {
    "image_id": "iso-oph-161_agepro-12co",
@@ -62,7 +63,8 @@
     "arxiv": "2506.10731",
     "bibcode": "2025ApJ...989....2R"
    },
-   "epoch": "2022"
+   "epoch": "2022",
+   "content": "line"
   }
  ],
  "notes": "Class I source in Ophiuchus (AGE-PRO Oph 5); compact 1.3 mm disk (7.0 mJy) with possible 12CO accretion-streamer arc (Ruiz-Rodriguez et al. 2025).",

@@ -69,7 +69,8 @@
    },
    "image_id": "af-lep_sphere2023",
    "file": "images/af-lep/af-lep_sphere2023.png",
-   "epoch": "2021 Dec 21"
+   "epoch": "2021 Dec 21",
+   "content": "continuum"
   },
   {
    "type": "planet",
@@ -90,7 +91,8 @@
    },
    "image_id": "af-lep_sphere2023-mesa",
    "file": "images/af-lep/af-lep_sphere2023-mesa.png",
-   "epoch": "2022-12-20"
+   "epoch": "2022-12-20",
+   "content": "continuum"
   },
   {
    "type": "planet",
@@ -111,7 +113,8 @@
    },
    "image_id": "af-lep_sphere2023-derosa",
    "file": "images/af-lep/af-lep_sphere2023-derosa.png",
-   "epoch": "2022 Oct 20"
+   "epoch": "2022 Oct 20",
+   "content": "continuum"
   },
   {
    "type": "planet",
@@ -132,7 +135,8 @@
    },
    "image_id": "af-lep_gravity2024",
    "file": "images/af-lep/af-lep_gravity2024.png",
-   "epoch": "2023-11-24"
+   "epoch": "2023-11-24",
+   "content": "continuum"
   },
   {
    "type": "planet",
@@ -153,7 +157,8 @@
    },
    "image_id": "af-lep_jwst2024",
    "file": "images/af-lep/af-lep_jwst2024.png",
-   "epoch": "2023 Oct"
+   "epoch": "2023 Oct",
+   "content": "continuum"
   },
   {
    "type": "planet",
@@ -174,7 +179,8 @@
    },
    "image_id": "af-lep_naco2011-4s",
    "file": "images/af-lep/af-lep_naco2011-4s.png",
-   "epoch": "2011"
+   "epoch": "2011",
+   "content": "continuum"
   },
   {
    "image_id": "af-lep_alice-f160w",
@@ -196,7 +202,8 @@
     "bibcode": "2018AJ....155..179H"
    },
    "hires_url": "https://archive.stsci.edu/prepds/alice/",
-   "epoch": "1998-11-14"
+   "epoch": "1998-11-14",
+   "content": "continuum"
   }
  ],
  "notes": "Independent discoveries: Mesa+2023 (A&A) and De Rosa+2023.",

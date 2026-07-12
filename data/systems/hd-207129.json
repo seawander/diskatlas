@@ -36,7 +36,8 @@
     "arxiv": "2501.09058",
     "bibcode": "2025A&A...693A.151M"
    },
-   "epoch": "2016-2017"
+   "epoch": "2016-2017",
+   "content": "continuum"
   },
   {
    "image_id": "hd-207129_acs2010",
@@ -57,7 +58,8 @@
     "arxiv": "1008.2793",
     "bibcode": "2010AJ....140.1051K"
    },
-   "epoch": "2006 May 3"
+   "epoch": "2006 May 3",
+   "content": "continuum"
   },
   {
    "image_id": "hd-207129_stis2016",
@@ -78,7 +80,8 @@
     "arxiv": "1606.00039",
     "bibcode": "2016AJ....152...64S"
    },
-   "epoch": "2015 May 26"
+   "epoch": "2015 May 26",
+   "content": "continuum"
   },
   {
    "image_id": "hd-207129_herschel2011",
@@ -99,7 +102,8 @@
     "bibcode": "2011A&A...529A.117M"
    },
    "file": "images/hd-207129/hd-207129_herschel2011.png",
-   "epoch": "2010"
+   "epoch": "2010",
+   "content": "continuum"
   },
   {
    "image_id": "hd-207129_pacs-100um-marshall11",
@@ -120,7 +124,8 @@
     "arxiv": "1104.3560",
     "bibcode": "2011A&A...529A.117M"
    },
-   "epoch": "2010"
+   "epoch": "2010",
+   "content": "continuum"
   },
   {
    "image_id": "hd-207129_pacs-160um-marshall11",
@@ -141,7 +146,8 @@
     "arxiv": "1104.3560",
     "bibcode": "2011A&A...529A.117M"
    },
-   "epoch": "2010"
+   "epoch": "2010",
+   "content": "continuum"
   },
   {
    "image_id": "hd-207129_scuba2-850um-sons",
@@ -162,7 +168,8 @@
     "arxiv": "1706.01218",
     "bibcode": "2017MNRAS.470.3606H"
    },
-   "epoch": "2012-2015"
+   "epoch": "2012-2015",
+   "content": "continuum"
   },
   {
    "image_id": "hd-207129_stis-debes19",
@@ -183,7 +190,8 @@
     "arxiv": "1905.06838",
     "bibcode": "2019JATIS...5c5003D"
    },
-   "epoch": null
+   "epoch": null,
+   "content": "continuum"
   }
  ],
  "notes": "AUTO-CREATED from staging - fill metadata & coords",

@@ -43,7 +43,8 @@
     "bibcode": "2019AJ....157..110E"
    },
    "file": "images/ar-puppis/ar-puppis_zimpol2019.png",
-   "epoch": "2016-04-04"
+   "epoch": "2016-04-04",
+   "content": "continuum"
   }
  ],
  "notes": "RV Tauri post-AGB circumbinary disk resolved with VLT/SPHERE ZIMPOL (V,I) and IRDIS (H); Kluska et al. 2019 (arXiv:1901.04109). Distance poorly constrained (~1-6 kpc per van Leeuwen 2007 / Gaia DR2, hence dist_pc left null); comparable systems (IRAS 08544-4431, L2 Pup) suggest ~350-500 pc may be more likely but is not adopted here without a firmer measurement.",

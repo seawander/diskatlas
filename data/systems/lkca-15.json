@@ -64,7 +64,8 @@
     "arxiv": "2504.18725",
     "bibcode": "2025ApJ...984L...9C"
    },
-   "epoch": "2021-2022"
+   "epoch": "2021-2022",
+   "content": "continuum"
   },
   {
    "type": "disk_scattered",
@@ -84,7 +85,8 @@
     "bibcode": "2014A&A...566A..51T"
    },
    "image_id": "lkca-15_seeds2014",
-   "file": "images/lkca-15/lkca-15_seeds2014.png"
+   "file": "images/lkca-15/lkca-15_seeds2014.png",
+   "content": "continuum"
   },
   {
    "type": "disk_scattered",
@@ -105,7 +107,8 @@
     "arxiv": "2403.02158",
     "bibcode": "2024A&A...685A..53G"
    },
-   "epoch": "2020-12-07"
+   "epoch": "2020-12-07",
+   "content": "continuum"
   },
   {
    "type": "disk_scattered",
@@ -126,7 +129,8 @@
     "arxiv": "2310.08589",
     "bibcode": "2023A&A...680A.114R"
    },
-   "epoch": "2020-11-27"
+   "epoch": "2020-11-27",
+   "content": "continuum"
   },
   {
    "image_id": "lkca-15_seeds",
@@ -147,7 +151,8 @@
     "arxiv": "1005.5162",
     "bibcode": "2010ApJ...718L..87T"
    },
-   "epoch": "2009 Dec 26"
+   "epoch": "2009 Dec 26",
+   "content": "continuum"
   },
   {
    "image_id": "lkca-15_alice-f110w",
@@ -169,7 +174,8 @@
     "bibcode": "2018AJ....155..179H"
    },
    "hires_url": "https://archive.stsci.edu/prepds/alice/",
-   "epoch": "2005-01-29"
+   "epoch": "2005-01-29",
+   "content": "continuum"
   },
   {
    "type": "disk_scattered",
@@ -190,7 +196,8 @@
     "arxiv": "2408.04048",
     "bibcode": "2024AJ....168...78W"
    },
-   "epoch": "2015-10-22"
+   "epoch": "2015-10-22",
+   "content": "continuum"
   },
   {
    "image_id": "lkca-15_alma-band3-2025",
@@ -211,7 +218,8 @@
     "bibcode": "2025MNRAS.538.2358S"
    },
    "file": "images/lkca-15/lkca-15_alma-band3-2025.png",
-   "epoch": "2023 Jan"
+   "epoch": "2023 Jan",
+   "content": "continuum"
   },
   {
    "image_id": "lkca-15_sma2011",
@@ -232,7 +240,8 @@
     "bibcode": "2011ApJ...732...42A"
    },
    "file": "images/lkca-15/lkca-15_sma2011.png",
-   "epoch": "2009 Oct 23"
+   "epoch": "2009 Oct 23",
+   "content": "continuum"
   },
   {
    "image_id": "lkca-15_sphere-ks-qphi",
@@ -253,7 +262,8 @@
     "bibcode": "2023A&A...680A.114R"
    },
    "file": "images/lkca-15/lkca-15_sphere-ks-qphi.png",
-   "epoch": "2020-11-27"
+   "epoch": "2020-11-27",
+   "content": "continuum"
   },
   {
    "image_id": "lkca-15_magao2022",
@@ -275,7 +285,8 @@
    },
    "file": "images/lkca-15/lkca-15_magao2022.png",
    "note": "Reproduces the LkCa 15 'b' Halpha excess (classically computed SNR=5.0) at the previously reported Sallum et al. 2015 candidate location; the paper explicitly treats this as a real recovered Halpha signal but flags its planetary nature as ambiguous/debated (could be a compact scattered-light feature). PDS 70 b/c recoveries in this same paper were explicitly called 'marginal' (SNR~3-4) by the authors and were dropped per instructions.",
-   "epoch": "2014 Nov 16"
+   "epoch": "2014 Nov 16",
+   "content": "line"
   },
   {
    "image_id": "lkca-15_exoalma-co",
@@ -296,7 +307,8 @@
     "bibcode": "2025ApJ...984L...6T"
    },
    "file": "images/lkca-15/lkca-15_exoalma-co.png",
-   "epoch": "2021-2022"
+   "epoch": "2021-2022",
+   "content": "line"
   },
   {
    "image_id": "lkca-15_sallum2023-lbt-nrm",
@@ -316,7 +328,8 @@
     "arxiv": "2306.15069",
     "bibcode": "2023ApJ...953...55S"
    },
-   "file": "images/lkca-15/lkca-15_sallum2023-lbt-nrm.png"
+   "file": "images/lkca-15/lkca-15_sallum2023-lbt-nrm.png",
+   "content": "continuum"
   },
   {
    "image_id": "lkca-15_alma-band6-2025",
@@ -337,7 +350,8 @@
     "arxiv": "2503.03336",
     "bibcode": "2025MNRAS.538.2358S"
    },
-   "epoch": "2023 Jan"
+   "epoch": "2023 Jan",
+   "content": "continuum"
   },
   {
    "image_id": "lkca-15_alma-band7-2025",
@@ -358,7 +372,8 @@
     "arxiv": "2503.03336",
     "bibcode": "2025MNRAS.538.2358S"
    },
-   "epoch": "2023 Jan"
+   "epoch": "2023 Jan",
+   "content": "continuum"
   },
   {
    "image_id": "lkca-15_alma-vioque26",
@@ -379,7 +394,8 @@
     "arxiv": "2512.00157",
     "bibcode": "2026A&A...705A.238V"
    },
-   "epoch": null
+   "epoch": "2018-2019",
+   "content": "continuum"
   },
   {
    "image_id": "lkca-15_alma-kurtovic26",
@@ -400,7 +416,8 @@
     "arxiv": "2605.30023",
     "bibcode": "2026arXiv260530023K"
    },
-   "epoch": null
+   "epoch": "2018-2019",
+   "content": "continuum"
   },
   {
    "image_id": "lkca-15_carma1300",
@@ -422,7 +439,8 @@
     "arxiv": "0906.2227",
     "bibcode": "2009ApJ...701..260I"
    },
-   "epoch": "2007-10-27"
+   "epoch": "2007-10-27",
+   "content": "continuum"
   },
   {
    "image_id": "lkca-15_pdbi1400",
@@ -444,7 +462,8 @@
     "arxiv": "astro-ph/0610200",
     "bibcode": "2006A&A...460L..43P"
    },
-   "epoch": "2001-2005"
+   "epoch": "2001-2005",
+   "content": "continuum"
   },
   {
    "image_id": "lkca-15_pdbi2800",
@@ -466,7 +485,8 @@
     "arxiv": "astro-ph/0610200",
     "bibcode": "2006A&A...460L..43P"
    },
-   "epoch": "2001-2005"
+   "epoch": "2001-2005",
+   "content": "continuum"
   }
  ],
  "notes": null,

@@ -46,7 +46,8 @@
    },
    "image_id": "51-eri_gpi2015",
    "file": "images/51-eri/51-eri_gpi2015.png",
-   "epoch": "2014 Dec 18"
+   "epoch": "2014 Dec 18",
+   "content": "continuum"
   },
   {
    "type": "planet",
@@ -67,7 +68,8 @@
    },
    "image_id": "51-eri_jwst2025",
    "file": "images/51-eri/51-eri_jwst2025.png",
-   "epoch": "2022-2024"
+   "epoch": "2022-2024",
+   "content": "continuum"
   },
   {
    "image_id": "51-eri_sphere2017_y",
@@ -88,7 +90,8 @@
     "bibcode": "2017A&A...603A..57S"
    },
    "file": "images/51-eri/51-eri_sphere2017_y.png",
-   "epoch": "2015-2016"
+   "epoch": "2015-2016",
+   "content": "continuum"
   },
   {
    "image_id": "51-eri_sphere2017_j",
@@ -109,7 +112,8 @@
     "bibcode": "2017A&A...603A..57S"
    },
    "file": "images/51-eri/51-eri_sphere2017_j.png",
-   "epoch": "2015-2016"
+   "epoch": "2015-2016",
+   "content": "continuum"
   },
   {
    "image_id": "51-eri_sphere2017_h",
@@ -130,7 +134,8 @@
     "bibcode": "2017A&A...603A..57S"
    },
    "file": "images/51-eri/51-eri_sphere2017_h.png",
-   "epoch": "2015-2016"
+   "epoch": "2015-2016",
+   "content": "continuum"
   },
   {
    "image_id": "51-eri_sphere2017_k1",
@@ -151,7 +156,8 @@
     "bibcode": "2017A&A...603A..57S"
    },
    "file": "images/51-eri/51-eri_sphere2017_k1.png",
-   "epoch": "2015-2016"
+   "epoch": "2015-2016",
+   "content": "continuum"
   }
  ],
  "notes": null,

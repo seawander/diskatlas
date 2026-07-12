@@ -44,7 +44,8 @@
     "arxiv": "2201.11771",
     "bibcode": "2022AJ....163..204U"
    },
-   "epoch": "2016-10-15"
+   "epoch": "2016-10-15",
+   "content": "continuum"
   },
   {
    "image_id": "2mass-j03370363-3039291_nirc2-kp-uyama22",
@@ -66,7 +67,8 @@
     "arxiv": "2201.11771",
     "bibcode": "2022AJ....163..204U"
    },
-   "epoch": "2021-02-02"
+   "epoch": "2021-02-02",
+   "content": "continuum"
   }
  ],
  "notes": "Perseus (~300 pc) transition disk with a large, spatially resolved cavity imaged in Keck/NIRC2 scattered light (Uyama+2022).",

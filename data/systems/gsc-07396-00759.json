@@ -31,7 +31,8 @@
     "journal": "A&A 693, A151",
     "arxiv": "2501.09058",
     "bibcode": "2025A&A...693A.151M"
-   }
+   },
+   "content": "continuum"
   },
   {
    "type": "disk_scattered",
@@ -52,7 +53,8 @@
     "arxiv": "2512.03128",
     "bibcode": "2025A&A...704A..21E"
    },
-   "epoch": "2018-06-22"
+   "epoch": "2018-06-22",
+   "content": "continuum"
   },
   {
    "image_id": "gsc-07396-00759_sphere-rdi-xie22",
@@ -73,7 +75,8 @@
     "bibcode": "2022A&A...666A..32X"
    },
    "file": "images/gsc-07396-00759/gsc-07396-00759_sphere-rdi-xie22.png",
-   "epoch": "2018-06-22"
+   "epoch": "2018-06-22",
+   "content": "continuum"
   }
  ],
  "notes": null,

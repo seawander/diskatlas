@@ -32,11 +32,12 @@
     "arxiv": "2403.02156",
     "bibcode": "2024A&A...685A..54V"
    },
-   "epoch": "2020-2021"
+   "epoch": "2020-2021",
+   "content": "continuum"
   }
  ],
- "notes": "AUTO-CREATED from staging - fill metadata & coords",
- "last_updated": "2026-07-06",
+ "notes": "F6e young star in Orion; the held SPHERE/IRDIS H-band polarized-intensity image from DESTINYS resolves a faint, smooth circumstellar disk with no visible substructure (Valegard et al. 2024).",
+ "last_updated": "2026-07-11",
  "plx_mas": 2.736,
  "mags": {
   "B": 10.93,

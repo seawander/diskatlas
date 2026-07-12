@@ -34,7 +34,8 @@
     "arxiv": "2004.13722",
     "bibcode": "2020AJ....160...24E"
    },
-   "epoch": "2017-08-09"
+   "epoch": "2017-08-09",
+   "content": "continuum"
   },
   {
    "type": "disk_mm",
@@ -55,7 +56,8 @@
     "arxiv": "2501.09058",
     "bibcode": "2025A&A...693A.151M"
    },
-   "epoch": "2018-05-26"
+   "epoch": "2018-05-26",
+   "content": "continuum"
   },
   {
    "type": "disk_scattered",
@@ -76,7 +78,8 @@
     "arxiv": "2512.03128",
     "bibcode": "2025A&A...704A..21E"
    },
-   "epoch": "2022-05-14"
+   "epoch": "2022-05-14",
+   "content": "continuum"
   },
   {
    "image_id": "hd-129590_alma2020",
@@ -97,7 +100,8 @@
     "arxiv": "2005.05841",
     "bibcode": "2020MNRAS.497.2811K"
    },
-   "epoch": "2018 Aug"
+   "epoch": "2018 Aug",
+   "content": "continuum"
   },
   {
    "image_id": "hd-129590_gpi-crotts24",
@@ -118,7 +122,8 @@
     "arxiv": "2311.14599",
     "bibcode": "2024ApJ...961..245C"
    },
-   "epoch": "2017-08-09"
+   "epoch": "2017-08-09",
+   "content": "continuum"
   },
   {
    "image_id": "hd-129590_sphere-rdi-xie22",
@@ -139,7 +144,8 @@
     "bibcode": "2022A&A...666A..32X"
    },
    "file": "images/hd-129590/hd-129590_sphere-rdi-xie22.png",
-   "epoch": "2022-05-14"
+   "epoch": "2022-05-14",
+   "content": "continuum"
   },
   {
    "image_id": "hd-129590_dikl-klip",
@@ -160,7 +166,8 @@
     "bibcode": "2023A&A...679A..18R"
    },
    "file": "images/hd-129590/hd-129590_dikl-klip.png",
-   "epoch": "2022-05-14"
+   "epoch": "2022-05-14",
+   "content": "continuum"
   },
   {
    "image_id": "hd-129590_dikl-dikl",
@@ -181,7 +188,8 @@
     "bibcode": "2023A&A...679A..18R"
    },
    "file": "images/hd-129590/hd-129590_dikl-dikl.png",
-   "epoch": "2022-05-14"
+   "epoch": "2022-05-14",
+   "content": "continuum"
   },
   {
    "image_id": "hd-129590_olofsson23-disnmf",
@@ -202,7 +210,8 @@
     "arxiv": "2304.06074",
     "bibcode": "2023A&A...674A..84O"
    },
-   "epoch": "2022-05-14"
+   "epoch": "2022-05-14",
+   "content": "continuum"
   },
   {
    "image_id": "hd-129590_olofsson23-pca",
@@ -223,7 +232,8 @@
     "arxiv": "2304.06074",
     "bibcode": "2023A&A...674A..84O"
    },
-   "epoch": "2022-05-14"
+   "epoch": "2022-05-14",
+   "content": "continuum"
   },
   {
    "image_id": "hd-129590_olofsson23-qphi",
@@ -244,7 +254,8 @@
     "arxiv": "2304.06074",
     "bibcode": "2023A&A...674A..84O"
    },
-   "epoch": "2022-05-14"
+   "epoch": "2022-05-14",
+   "content": "continuum"
   },
   {
    "image_id": "hd-129590_dpol24-qphi",
@@ -265,7 +276,8 @@
     "arxiv": "2406.02682",
     "bibcode": "2024A&A...688A..42O"
    },
-   "epoch": "2021-2022"
+   "epoch": "2021-2022",
+   "content": "continuum"
   },
   {
    "image_id": "hd-129590_dpol24-toti",
@@ -286,7 +298,8 @@
     "arxiv": "2406.02682",
     "bibcode": "2024A&A...688A..42O"
    },
-   "epoch": "2021-2022"
+   "epoch": "2021-2022",
+   "content": "continuum"
   }
  ],
  "notes": null,

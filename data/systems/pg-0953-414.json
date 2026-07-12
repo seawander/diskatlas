@@ -44,7 +44,8 @@
     "arxiv": "astro-ph/9409028",
     "bibcode": "1994ApJ...435L..11B"
    },
-   "epoch": "1994-02-03"
+   "epoch": "1994-02-03",
+   "content": "continuum"
   },
   {
    "image_id": "pg-0953-414_acshrc2006",
@@ -65,7 +66,8 @@
     "bibcode": "2009ApJ...697..160B"
    },
    "file": "images/pg-0953-414/pg-0953-414_acshrc2006.png",
-   "epoch": "2006-10-25"
+   "epoch": "2006-10-25",
+   "content": "continuum"
   }
  ],
  "notes": "Luminous radio-quiet PG quasar (V=15.3), part of the classic HST/WFPC2 host-galaxy study of Bahcall, Kirhakos & Schneider 1994 (Paper I): no host detected to strong limits (the 'naked quasar' result); re-analyzed in Bahcall et al. 1995 (Paper II). Added by batch T; redshift from Paper I Table 1. Coordinates pending SIMBAD via coords_todo_batchT.",

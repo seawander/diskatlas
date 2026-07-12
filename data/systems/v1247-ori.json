@@ -34,7 +34,8 @@
    },
    "image_id": "v1247-ori_alma2017",
    "file": "images/v1247-ori/v1247-ori_alma2017.png",
-   "epoch": "2015 Nov 16"
+   "epoch": "2015 Nov 16",
+   "content": "continuum"
   },
   {
    "type": "disk_scattered",
@@ -55,7 +56,8 @@
     "arxiv": "2310.08589",
     "bibcode": "2023A&A...680A.114R"
    },
-   "epoch": "2020-12-20"
+   "epoch": "2020-12-20",
+   "content": "continuum"
   },
   {
    "image_id": "v1247-ori_hiciao2016",
@@ -76,7 +78,8 @@
     "arxiv": "1605.01453",
     "bibcode": "2016PASJ...68...53O"
    },
-   "epoch": "2013 Nov 23"
+   "epoch": "2013 Nov 23",
+   "content": "continuum"
   },
   {
    "image_id": "v1247-ori_sma2019",
@@ -97,7 +100,8 @@
     "bibcode": "2019A&A...621A...7W"
    },
    "file": "images/v1247-ori/v1247-ori_sma2019.png",
-   "epoch": "2012"
+   "epoch": "2012",
+   "content": "line"
   },
   {
    "image_id": "v1247-ori_sphere-ks-qphi",
@@ -118,7 +122,8 @@
     "bibcode": "2023A&A...680A.114R"
    },
    "file": "images/v1247-ori/v1247-ori_sphere-ks-qphi.png",
-   "epoch": "2020-12-20"
+   "epoch": "2020-12-20",
+   "content": "continuum"
   },
   {
    "image_id": "v1247-ori_sphere-h2018",
@@ -139,7 +144,8 @@
     "arxiv": "2310.15430",
     "bibcode": "2024A&A...681L...2R"
    },
-   "epoch": "2018-11-16"
+   "epoch": "2018-11-16",
+   "content": "continuum"
   },
   {
    "image_id": "v1247-ori_sphere-h2023",
@@ -160,7 +166,8 @@
     "arxiv": "2310.15430",
     "bibcode": "2024A&A...681L...2R"
    },
-   "epoch": "2023-09-20"
+   "epoch": "2023-09-20",
+   "content": "continuum"
   },
   {
    "image_id": "v1247-ori_alma-vioque26",
@@ -181,7 +188,8 @@
     "arxiv": "2512.00157",
     "bibcode": "2026A&A...705A.238V"
    },
-   "epoch": null
+   "epoch": null,
+   "content": "continuum"
   },
   {
    "image_id": "v1247-ori_alma-kurtovic26",
@@ -202,7 +210,8 @@
     "arxiv": "2605.30023",
     "bibcode": "2026arXiv260530023K"
    },
-   "epoch": null
+   "epoch": null,
+   "content": "continuum"
   }
  ],
  "notes": "Spiral-arm pattern motion between the 2018 and 2023 SPHERE epochs is consistent with a companion-driven origin (Ren et al. 2024).",

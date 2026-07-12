@@ -57,7 +57,8 @@
     "arxiv": "2403.02149",
     "bibcode": "2024A&A...685A..52G"
    },
-   "epoch": "2017-2019"
+   "epoch": "2017-2019",
+   "content": "continuum"
   },
   {
    "image_id": "cs-cha_magao2022",
@@ -79,7 +80,8 @@
    },
    "file": "images/cs-cha/cs-cha_magao2022.png",
    "note": "New candidate CS Cha 'c' point source, SNR=6.6 (classical) at 68mas/PA76, clearly apparent in Halpha and SDI imagery per the paper -- a genuinely new candidate detection, not a marginal one. Distinct from the known wide CS Cha B companion, which was NOT recovered in this dataset (non-detection, correctly not added).",
-   "epoch": "2015 May 15"
+   "epoch": "2015 May 15",
+   "content": "line"
   },
   {
    "image_id": "cs-cha_sphere-ginski2018",
@@ -100,7 +102,8 @@
     "bibcode": "2018A&A...616A..79G"
    },
    "file": "images/cs-cha/cs-cha_sphere-ginski2018.png",
-   "epoch": "2017-2018"
+   "epoch": "2017-2018",
+   "content": "continuum"
   },
   {
    "image_id": "cs-cha_alma-vioque26",
@@ -121,7 +124,8 @@
     "arxiv": "2512.00157",
     "bibcode": "2026A&A...705A.238V"
    },
-   "epoch": null
+   "epoch": "2023-2024",
+   "content": "continuum"
   },
   {
    "image_id": "cs-cha_alma-kurtovic26",
@@ -142,7 +146,8 @@
     "arxiv": "2605.30023",
     "bibcode": "2026arXiv260530023K"
    },
-   "epoch": null
+   "epoch": "2023-2024",
+   "content": "continuum"
   }
  ],
  "notes": "AUTO-CREATED from staging - fill metadata & coords",

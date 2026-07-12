@@ -44,11 +44,12 @@
     "arxiv": "2403.02156",
     "bibcode": "2024A&A...685A..54V"
    },
-   "epoch": "2020-11-13"
+   "epoch": "2020-11-13",
+   "content": "continuum"
   }
  ],
- "notes": "AUTO-CREATED from staging - fill metadata & coords",
- "last_updated": "2026-07-10",
+ "notes": "K4.5 young star in Orion observed by DESTINYS; the held SPHERE/IRDIS H-band total-intensity image shows a close (~0.1 arcsec) stellar companion whose astrometry required special treatment due to the primary's glare, while no disk is detected in polarized light (Valegard et al. 2024).",
+ "last_updated": "2026-07-11",
  "plx_mas": 2.4699,
  "mags": {
   "U": 13.75,

@@ -34,7 +34,8 @@
     "arxiv": "2004.13722",
     "bibcode": "2020AJ....160...24E"
    },
-   "epoch": "2018-08-12"
+   "epoch": "2018-08-12",
+   "content": "continuum"
   },
   {
    "type": "disk_mm",
@@ -55,7 +56,8 @@
     "arxiv": "2601.11708",
     "bibcode": "2026A&A...705A.195M"
    },
-   "epoch": "2022-2023"
+   "epoch": "2022-2023",
+   "content": "continuum"
   },
   {
    "type": "disk_mm",
@@ -76,7 +78,8 @@
     "arxiv": "2501.09058",
     "bibcode": "2025A&A...693A.151M"
    },
-   "epoch": "2014-02-25"
+   "epoch": "2014-02-25",
+   "content": "continuum"
   },
   {
    "type": "disk_scattered",
@@ -97,7 +100,8 @@
     "arxiv": "2512.03128",
     "bibcode": "2025A&A...704A..21E"
    },
-   "epoch": "2017-06-24"
+   "epoch": "2017-06-24",
+   "content": "continuum"
   }
  ],
  "notes": null,

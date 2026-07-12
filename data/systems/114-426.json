@@ -36,7 +36,8 @@
     "arxiv": "2412.04356",
     "bibcode": "2025ApJ...979..110B"
    },
-   "epoch": "2022"
+   "epoch": "2022",
+   "content": "continuum"
   },
   {
    "image_id": "114-426_nircam-f140m",
@@ -57,7 +58,8 @@
     "arxiv": "2412.04356",
     "bibcode": "2025ApJ...979..110B"
    },
-   "epoch": "2022"
+   "epoch": "2022",
+   "content": "continuum"
   },
   {
    "image_id": "114-426_nircam-f162m",
@@ -78,7 +80,8 @@
     "arxiv": "2412.04356",
     "bibcode": "2025ApJ...979..110B"
    },
-   "epoch": "2022"
+   "epoch": "2022",
+   "content": "continuum"
   },
   {
    "image_id": "114-426_nircam-f182m",
@@ -99,7 +102,8 @@
     "arxiv": "2412.04356",
     "bibcode": "2025ApJ...979..110B"
    },
-   "epoch": "2022"
+   "epoch": "2022",
+   "content": "continuum"
   },
   {
    "image_id": "114-426_nircam-f187n",
@@ -120,7 +124,8 @@
     "arxiv": "2412.04356",
     "bibcode": "2025ApJ...979..110B"
    },
-   "epoch": "2022"
+   "epoch": "2022",
+   "content": "continuum"
   },
   {
    "image_id": "114-426_nircam-f212n",
@@ -141,7 +146,8 @@
     "arxiv": "2412.04356",
     "bibcode": "2025ApJ...979..110B"
    },
-   "epoch": "2022"
+   "epoch": "2022",
+   "content": "continuum"
   },
   {
    "image_id": "114-426_nircam-f277w",
@@ -162,7 +168,8 @@
     "arxiv": "2412.04356",
     "bibcode": "2025ApJ...979..110B"
    },
-   "epoch": "2022"
+   "epoch": "2022",
+   "content": "continuum"
   },
   {
    "image_id": "114-426_nircam-f300m",
@@ -183,7 +190,8 @@
     "arxiv": "2412.04356",
     "bibcode": "2025ApJ...979..110B"
    },
-   "epoch": "2022"
+   "epoch": "2022",
+   "content": "continuum"
   },
   {
    "image_id": "114-426_nircam-f335m",
@@ -204,7 +212,8 @@
     "arxiv": "2412.04356",
     "bibcode": "2025ApJ...979..110B"
    },
-   "epoch": "2022"
+   "epoch": "2022",
+   "content": "continuum"
   },
   {
    "image_id": "114-426_nircam-f360m",
@@ -225,7 +234,8 @@
     "arxiv": "2412.04356",
     "bibcode": "2025ApJ...979..110B"
    },
-   "epoch": "2022"
+   "epoch": "2022",
+   "content": "continuum"
   },
   {
    "image_id": "114-426_nircam-f444w",
@@ -246,7 +256,8 @@
     "arxiv": "2412.04356",
     "bibcode": "2025ApJ...979..110B"
    },
-   "epoch": "2022"
+   "epoch": "2022",
+   "content": "continuum"
   },
   {
    "image_id": "114-426_nircam-f470n",
@@ -267,7 +278,8 @@
     "arxiv": "2412.04356",
     "bibcode": "2025ApJ...979..110B"
    },
-   "epoch": "2022"
+   "epoch": "2022",
+   "content": "continuum"
   },
   {
    "image_id": "114-426_nircam-composite",
@@ -288,7 +300,8 @@
     "arxiv": "2412.04356",
     "bibcode": "2025ApJ...979..110B"
    },
-   "epoch": "2022"
+   "epoch": "2022",
+   "content": "continuum"
   },
   {
    "image_id": "114-426_nicmos-f187n-mcc98",
@@ -309,7 +322,8 @@
     "arxiv": "astro-ph/9710371",
     "bibcode": "1998ApJ...492L.157M"
    },
-   "epoch": "1997-04-19"
+   "epoch": "1997-04-19",
+   "content": "line"
   },
   {
    "image_id": "114-426_nicmos-f110w-mcc98",
@@ -330,7 +344,8 @@
     "arxiv": "astro-ph/9710371",
     "bibcode": "1998ApJ...492L.157M"
    },
-   "epoch": "1997-04-19"
+   "epoch": "1997-04-19",
+   "content": "continuum"
   },
   {
    "image_id": "114-426_nicmos-f160w-mcc98",
@@ -351,7 +366,8 @@
     "arxiv": "astro-ph/9710371",
     "bibcode": "1998ApJ...492L.157M"
    },
-   "epoch": "1997-04-19"
+   "epoch": "1997-04-19",
+   "content": "continuum"
   },
   {
    "image_id": "114-426_nicmos-pol2um-mcc98",
@@ -372,7 +388,8 @@
     "arxiv": "astro-ph/9710371",
     "bibcode": "1998ApJ...492L.157M"
    },
-   "epoch": "1997-04-19"
+   "epoch": "1997-04-19",
+   "content": "continuum"
   },
   {
    "image_id": "114-426_wfpc2-f336w-mio12",
@@ -393,7 +410,8 @@
     "arxiv": "1208.2717",
     "bibcode": "2012ApJ...757...78M"
    },
-   "epoch": "2004-10"
+   "epoch": "2004-10",
+   "content": "continuum"
   },
   {
    "image_id": "114-426_acs-f435w-mio12",
@@ -414,7 +432,8 @@
     "arxiv": "1208.2717",
     "bibcode": "2012ApJ...757...78M"
    },
-   "epoch": "2005-04"
+   "epoch": "2005-04",
+   "content": "continuum"
   },
   {
    "image_id": "114-426_acs-f555w-mio12",
@@ -435,7 +454,8 @@
     "arxiv": "1208.2717",
     "bibcode": "2012ApJ...757...78M"
    },
-   "epoch": "2005-04"
+   "epoch": "2005-04",
+   "content": "continuum"
   },
   {
    "image_id": "114-426_acs-f658n-mio12",
@@ -456,7 +476,8 @@
     "arxiv": "1208.2717",
     "bibcode": "2012ApJ...757...78M"
    },
-   "epoch": "2005-04"
+   "epoch": "2005-04",
+   "content": "line"
   },
   {
    "image_id": "114-426_acs-f775w-mio12",
@@ -477,7 +498,8 @@
     "arxiv": "1208.2717",
     "bibcode": "2012ApJ...757...78M"
    },
-   "epoch": "2005-04"
+   "epoch": "2005-04",
+   "content": "continuum"
   },
   {
    "image_id": "114-426_acs-f850lp-mio12",
@@ -498,7 +520,8 @@
     "arxiv": "1208.2717",
     "bibcode": "2012ApJ...757...78M"
    },
-   "epoch": "2005-04"
+   "epoch": "2005-04",
+   "content": "continuum"
   },
   {
    "image_id": "114-426_wfpc2-f656n-bally00",
@@ -519,7 +542,8 @@
     "arxiv": null,
     "bibcode": "2000AJ....119.2919B"
    },
-   "epoch": "1999-01-11"
+   "epoch": "1999-01-11",
+   "content": "line"
   },
   {
    "image_id": "114-426_nicmos-f187n-throop01",
@@ -540,7 +564,8 @@
     "arxiv": "astro-ph/0104445",
     "bibcode": "2001Sci...292.1686T"
    },
-   "epoch": "1998-02-26"
+   "epoch": "1998-02-26",
+   "content": "line"
   }
  ],
  "notes": "Giant edge-on silhouette disk in the Orion Nebula (~1000 au), seen in absorption against the nebular background with scattered-light lobes. JWST/NIRCam 12-band imaging (Ballering et al. 2024, GTO program 1256) reveals the 3 um water-ice absorption. Distance = Orion Nebula Cluster (~414 pc). Added 2026-07-11.",

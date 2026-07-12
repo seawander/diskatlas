@@ -42,7 +42,8 @@
     "arxiv": "2403.12124",
     "bibcode": "2024A&A...686A.309Z"
    },
-   "epoch": "2017-05-16"
+   "epoch": "2017-05-16",
+   "content": "continuum"
   },
   {
    "image_id": "ex-lup_alma-vioque26",
@@ -63,7 +64,8 @@
     "arxiv": "2512.00157",
     "bibcode": "2026A&A...705A.238V"
    },
-   "epoch": null
+   "epoch": null,
+   "content": "continuum"
   },
   {
    "image_id": "ex-lup_alma-kurtovic26",
@@ -84,7 +86,8 @@
     "arxiv": "2605.30023",
     "bibcode": "2026arXiv260530023K"
    },
-   "epoch": null
+   "epoch": null,
+   "content": "continuum"
   }
  ],
  "notes": "Prototype EXor object. SPHERE/IRDIS polarimetric detection of the close circumstellar environment presented in Zurlo et al. 2024 (Q_phi image; single, faint central light source), following the more detailed treatment in Rigliaco et al. 2020.",

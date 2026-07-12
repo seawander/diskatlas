@@ -44,7 +44,8 @@
     "arxiv": "2403.12124",
     "bibcode": "2024A&A...686A.309Z"
    },
-   "epoch": "2016-12-17"
+   "epoch": "2016-12-17",
+   "content": "continuum"
   },
   {
    "image_id": "z-cma_nirc2-2024",
@@ -65,7 +66,8 @@
     "arxiv": "2403.12124",
     "bibcode": "2024A&A...686A.309Z"
    },
-   "epoch": "2017"
+   "epoch": "2017",
+   "content": "continuum"
   },
   {
    "image_id": "z-cma_flyby2022",
@@ -86,7 +88,8 @@
     "arxiv": "2201.05617",
     "bibcode": "2022NatAs...6..331D"
    },
-   "epoch": "2016-2017"
+   "epoch": "2016-2017",
+   "content": "continuum"
   },
   {
    "image_id": "z-cma_alma-b6-dong22",
@@ -107,7 +110,8 @@
     "arxiv": "2201.05617",
     "bibcode": "2022NatAs...6..331D"
    },
-   "epoch": "2016-2017"
+   "epoch": "2016-2017",
+   "content": "continuum"
   }
  ],
  "notes": "Triple system: FUor-like SE component + Herbig Be (EXor) N component, plus a third point source ~0.7 arcsec NE confirmed comoving via Keck/NIRC2 astrometry (Zurlo et al. 2024). A ~6000 au streamer/outflow to the SW, previously interpreted as a flyby signature (Dong et al. 2022), is argued by Zurlo et al. 2024 to be part of a larger outflow rather than a tidal streamer.",

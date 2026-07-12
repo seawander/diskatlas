@@ -40,7 +40,8 @@
     "arxiv": "1205.2727",
     "bibcode": "2012AJ....144...83R"
    },
-   "epoch": "2009"
+   "epoch": "2009",
+   "content": "line"
   },
   {
    "image_id": "fm-cha_wfpc2-f631n-2009",
@@ -62,7 +63,8 @@
     "arxiv": "1205.2727",
     "bibcode": "2012AJ....144...83R"
    },
-   "epoch": "2009"
+   "epoch": "2009",
+   "content": "line"
   },
   {
    "image_id": "fm-cha_alma-kurtovic26",
@@ -83,7 +85,8 @@
     "arxiv": "2605.30023",
     "bibcode": "2026arXiv260530023K"
    },
-   "epoch": null
+   "epoch": "2023",
+   "content": "continuum"
   }
  ],
  "notes": "FM Cha (= CED 112 IRS 4 = 2MASS J11095340-7634255 = Ass Cha T 1-23) in Chamaeleon I: young star driving the HH 914 flow (HST/WFPC2 Halpha+[OI] eastward knot; Robberto et al. 2012) with a resolved ALMA dust disk (Kurtovic et al. 2026 archival gallery).",

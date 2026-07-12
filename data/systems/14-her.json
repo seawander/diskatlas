@@ -47,7 +47,8 @@
    },
    "image_id": "14-her_jwst2025",
    "file": "images/14-her/14-her_jwst2025.png",
-   "epoch": "2024 May 18"
+   "epoch": "2024 May 18",
+   "content": "continuum"
   },
   {
    "image_id": "14-her_nircam-f200w",
@@ -69,7 +70,8 @@
     "bibcode": "2025ApJ...988L..18B"
    },
    "file": "images/14-her/14-her_nircam-f200w.png",
-   "epoch": "2024-05-19"
+   "epoch": "2024-05-19",
+   "content": "continuum"
   }
  ],
  "notes": null,

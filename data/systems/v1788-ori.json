@@ -79,11 +79,12 @@
     "arxiv": "2403.02156",
     "bibcode": "2024A&A...685A..54V"
    },
-   "epoch": "2020-2021"
+   "epoch": "2020-2021",
+   "content": "continuum"
   }
  ],
- "notes": "AUTO-CREATED from staging - fill metadata & coords",
- "last_updated": "2026-07-10",
+ "notes": "Early-A star (hA3VakA0mA0) in the Orion star-forming region, a previously known triple system; the held SPHERE/IRDIS H-band total-intensity image recovers both known companions at ~0.4-0.6 arcsec, while no disk is detected in polarized light (Valegard et al. 2024).",
+ "last_updated": "2026-07-11",
  "plx_mas": 2.8536,
  "mags": {
   "U": 10.03,

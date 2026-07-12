@@ -53,7 +53,8 @@
     "arxiv": "1505.00806",
     "bibcode": "2015ApJ...804...96G"
    },
-   "file": "images/vhs-j1256-1257/vhs-j1256-1257_vista2015-y.png"
+   "file": "images/vhs-j1256-1257/vhs-j1256-1257_vista2015-y.png",
+   "content": "continuum"
   },
   {
    "image_id": "vhs-j1256-1257_vista2015-j",
@@ -73,7 +74,8 @@
     "arxiv": "1505.00806",
     "bibcode": "2015ApJ...804...96G"
    },
-   "file": "images/vhs-j1256-1257/vhs-j1256-1257_vista2015-j.png"
+   "file": "images/vhs-j1256-1257/vhs-j1256-1257_vista2015-j.png",
+   "content": "continuum"
   },
   {
    "image_id": "vhs-j1256-1257_vista2015-h",
@@ -93,7 +95,8 @@
     "arxiv": "1505.00806",
     "bibcode": "2015ApJ...804...96G"
    },
-   "file": "images/vhs-j1256-1257/vhs-j1256-1257_vista2015-h.png"
+   "file": "images/vhs-j1256-1257/vhs-j1256-1257_vista2015-h.png",
+   "content": "continuum"
   },
   {
    "image_id": "vhs-j1256-1257_vista2015-ks",
@@ -113,7 +116,8 @@
     "arxiv": "1505.00806",
     "bibcode": "2015ApJ...804...96G"
    },
-   "file": "images/vhs-j1256-1257/vhs-j1256-1257_vista2015-ks.png"
+   "file": "images/vhs-j1256-1257/vhs-j1256-1257_vista2015-ks.png",
+   "content": "continuum"
   }
  ],
  "notes": null,

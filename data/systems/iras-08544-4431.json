@@ -35,7 +35,8 @@
     "bibcode": "2024MNRAS.535.1763A"
    },
    "file": "images/iras-08544-4431/iras-08544-4431_sphere_zimpol.png",
-   "epoch": "2018-10-25"
+   "epoch": "2018-10-25",
+   "content": "continuum"
   }
  ],
  "notes": "Post-AGB / evolved binary disc resolved with VLT/SPHERE-ZIMPOL polarimetry (Andrych+2024).",

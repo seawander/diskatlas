@@ -41,7 +41,8 @@
     "arxiv": "2506.10719",
     "bibcode": "2025ApJ...989....1Z"
    },
-   "epoch": "2021-2022"
+   "epoch": "2021-2022",
+   "content": "continuum"
   },
   {
    "image_id": "sz-131_alma-vioque26",
@@ -62,7 +63,8 @@
     "arxiv": "2512.00157",
     "bibcode": "2026A&A...705A.238V"
    },
-   "epoch": null
+   "epoch": "2021-2023",
+   "content": "continuum"
   },
   {
    "image_id": "sz-131_alma-kurtovic26",
@@ -83,7 +85,8 @@
     "arxiv": "2605.30023",
     "bibcode": "2026arXiv260530023K"
    },
-   "epoch": null
+   "epoch": "2021-2023",
+   "content": "continuum"
   }
  ],
  "notes": "AGE-PRO Lupus 7. Smooth disk with no substructure at AGE-PRO resolution (Vioque et al. 2025).",

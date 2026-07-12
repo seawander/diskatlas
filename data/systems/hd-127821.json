@@ -34,7 +34,8 @@
     "journal": "A&A 693, A151",
     "arxiv": "2501.09058",
     "bibcode": "2025A&A...693A.151M"
-   }
+   },
+   "content": "continuum"
   },
   {
    "image_id": "hd-127821_pacs-160um-sons",
@@ -55,7 +56,8 @@
     "arxiv": "1706.01218",
     "bibcode": "2017MNRAS.470.3606H"
    },
-   "epoch": "2009-2013"
+   "epoch": "2009-2013",
+   "content": "continuum"
   },
   {
    "image_id": "hd-127821_scuba2-850um-sons",
@@ -76,7 +78,8 @@
     "arxiv": "1706.01218",
     "bibcode": "2017MNRAS.470.3606H"
    },
-   "epoch": "2012-2015"
+   "epoch": "2012-2015",
+   "content": "continuum"
   }
  ],
  "notes": "AUTO-CREATED from staging - fill metadata & coords",

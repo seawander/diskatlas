@@ -34,7 +34,8 @@
     "arxiv": "2501.09058",
     "bibcode": "2025A&A...693A.151M"
    },
-   "epoch": "2019-11-25"
+   "epoch": "2019-11-25",
+   "content": "continuum"
   },
   {
    "type": "disk_scattered",
@@ -55,7 +56,8 @@
     "arxiv": "2512.03128",
     "bibcode": "2025A&A...704A..21E"
    },
-   "epoch": "2019-11-17"
+   "epoch": "2019-11-17",
+   "content": "continuum"
   },
   {
    "image_id": "hd-36546_scexao2021",
@@ -76,7 +78,8 @@
     "arxiv": "2109.08984",
     "bibcode": "2021AJ....162..293L"
    },
-   "epoch": "2019 Jan 12"
+   "epoch": "2019 Jan 12",
+   "content": "continuum"
   }
  ],
  "notes": "AUTO-CREATED from staging - fill metadata & coords",

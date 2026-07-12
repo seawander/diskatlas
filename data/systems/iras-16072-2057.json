@@ -41,7 +41,8 @@
     "arxiv": "2603.01703",
     "bibcode": "2026A&A...709A.269G"
    },
-   "epoch": "2022-03-30"
+   "epoch": "2022-03-30",
+   "content": "continuum"
   },
   {
    "image_id": "iras-16072-2057_alma-vioque26",
@@ -62,7 +63,8 @@
     "arxiv": "2512.00157",
     "bibcode": "2026A&A...705A.238V"
    },
-   "epoch": null
+   "epoch": "2023",
+   "content": "continuum"
   },
   {
    "image_id": "iras-16072-2057_alma-kurtovic26",
@@ -83,7 +85,8 @@
     "arxiv": "2605.30023",
     "bibcode": "2026arXiv260530023K"
    },
-   "epoch": null
+   "epoch": "2023",
+   "content": "continuum"
   }
  ],
  "notes": "First-published SPHERE/IRDIS H-band polarimetric image (DESTINYS). Extremely clean detection of a moderately inclined disk with a 25 au inner cavity and clearly resolved back side; the fifth brightest disk of the entire NIR census, visible even in the intensity image on top of the stellar PSF. Disk features: cavity + back side (Garufi et al. 2026, Table A.5/Fig. A.1).",

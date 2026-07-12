@@ -57,7 +57,8 @@
     "bibcode": "2020ApJ...904L..25C"
    },
    "file": "images/hd-33632-a/hd-33632-a_scexao2020.png",
-   "epoch": "2020 Aug 31"
+   "epoch": "2020 Aug 31",
+   "content": "continuum"
   },
   {
    "image_id": "hd-33632-a_nirc2-lp-2018",
@@ -78,7 +79,8 @@
     "arxiv": "2011.08855",
     "bibcode": "2020ApJ...904L..25C"
    },
-   "epoch": "2018-11-01"
+   "epoch": "2018-11-01",
+   "content": "continuum"
   },
   {
    "image_id": "hd-33632-a_charis-2018",
@@ -99,7 +101,8 @@
     "arxiv": "2011.08855",
     "bibcode": "2020ApJ...904L..25C"
    },
-   "epoch": "2018-10-18"
+   "epoch": "2018-10-18",
+   "content": "continuum"
   }
  ],
  "notes": "HD 33632 A is a close binary (Aa+Ab components); the imaged substellar companion is HD 33632 Ab, orbiting the primary Aa (Currie+2020), sometimes referred to loosely as HD 33632 B in follow-up literature.",

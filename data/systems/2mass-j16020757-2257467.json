@@ -42,7 +42,8 @@
     "arxiv": "2506.10719",
     "bibcode": "2025ApJ...989....1Z"
    },
-   "epoch": "2022"
+   "epoch": "2022",
+   "content": "continuum"
   },
   {
    "image_id": "2mass-j16020757-2257467_agepro-12co",
@@ -64,7 +65,8 @@
     "arxiv": "2506.10735",
     "bibcode": "2025ApJ...989....4A"
    },
-   "epoch": "2022"
+   "epoch": "2022",
+   "content": "line"
   },
   {
    "image_id": "2mass-j16020757-2257467_agepro-13co",
@@ -86,7 +88,8 @@
     "arxiv": "2506.10735",
     "bibcode": "2025ApJ...989....4A"
    },
-   "epoch": "2022"
+   "epoch": "2022",
+   "content": "line"
   }
  ],
  "notes": "AGE-PRO Upper Scorpius 3. Very small dust and gas disks of similar radii, possibly truncated by a companion; tentative inner gas cavity (Vioque et al. 2025).",

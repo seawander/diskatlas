@@ -32,7 +32,8 @@
     "arxiv": "2504.18725",
     "bibcode": "2025ApJ...984L...9C"
    },
-   "epoch": "2021-2022"
+   "epoch": "2021-2022",
+   "content": "continuum"
   },
   {
    "image_id": "aa-tau_hst2013",
@@ -53,7 +54,8 @@
     "arxiv": null,
     "bibcode": "2013ApJ...762...40C"
    },
-   "epoch": "1999-2011"
+   "epoch": "1999-2011",
+   "content": "continuum"
   },
   {
    "image_id": "aa-tau_alice-f160w",
@@ -75,7 +77,8 @@
     "bibcode": "2018AJ....155..179H"
    },
    "hires_url": "https://archive.stsci.edu/prepds/alice/",
-   "epoch": "2004-11-22"
+   "epoch": "2004-11-22",
+   "content": "continuum"
   },
   {
    "image_id": "aa-tau_exoalma-co",
@@ -96,7 +99,8 @@
     "bibcode": "2025ApJ...984L...6T"
    },
    "file": "images/aa-tau/aa-tau_exoalma-co.png",
-   "epoch": "2021-2022"
+   "epoch": "2021-2022",
+   "content": "line"
   },
   {
    "image_id": "aa-tau_alma-vioque26",
@@ -117,7 +121,8 @@
     "arxiv": "2512.00157",
     "bibcode": "2026A&A...705A.238V"
    },
-   "epoch": null
+   "epoch": "2019",
+   "content": "continuum"
   },
   {
    "image_id": "aa-tau_alma-kurtovic26",
@@ -138,7 +143,8 @@
     "arxiv": "2605.30023",
     "bibcode": "2026arXiv260530023K"
    },
-   "epoch": null
+   "epoch": "2019",
+   "content": "continuum"
   }
  ],
  "notes": "2026-07 sweep: added HST/STIS optical scattered-light record (Cox+2013, no arXiv posting); no published near-IR scattered-light image found",

@@ -33,11 +33,12 @@
     "journal": "A&A 704, A21",
     "arxiv": "2512.03128",
     "bibcode": "2025A&A...704A..21E"
-   }
+   },
+   "content": "continuum"
   }
  ],
- "notes": "AUTO-CREATED from staging - fill metadata & coords",
- "last_updated": "2026-07-06",
+ "notes": "Spectroscopic binary with a K1V(e) primary whose highly inclined circumbinary debris disk was resolved for the first time, in both total and polarized scattered light, by SPHERE; the held image is the IRDIS H-band polarized-intensity view of the belt (Engler et al. 2025).",
+ "last_updated": "2026-07-11",
  "plx_mas": 16.0879,
  "mags": {
   "B": 11.03,

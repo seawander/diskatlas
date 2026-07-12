@@ -32,11 +32,12 @@
     "arxiv": "2403.02156",
     "bibcode": "2024A&A...685A..54V"
    },
-   "epoch": "2021-01-29"
+   "epoch": "2021-01-29",
+   "content": "continuum"
   }
  ],
- "notes": "AUTO-CREATED from staging - fill metadata & coords",
- "last_updated": "2026-07-06",
+ "notes": "A-type young star (A8.9) in Orion; the held SPHERE/IRDIS H-band polarized-intensity image from DESTINYS shows one of the survey's three exceptionally extended disks, with scattered-light asymmetries possibly caused by its wide (several hundred au) outer stellar companion (Valegard et al. 2024).",
+ "last_updated": "2026-07-11",
  "plx_mas": 2.4814,
  "mags": {
   "B": 15.39,

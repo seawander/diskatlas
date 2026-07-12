@@ -35,11 +35,12 @@
     "bibcode": "2020ApJ...889..140Y"
    },
    "file": "images/fs-tau/fs-tau_hiciao-yang2020.png",
-   "epoch": "2011 Dec 26"
+   "epoch": "2011 Dec 26",
+   "content": "continuum"
   }
  ],
- "notes": "AUTO-CREATED from staging - fill metadata & coords Added 2026-07-08 (archival/keyword exploration).",
- "last_updated": "2026-07-08",
+ "notes": "Young (2.8 Myr) T Tauri binary in Taurus; the held Subaru/HiCIAO H-band polarimetric composite of FS Tau A shows arm-like streamer structures (S1/S2) extending to ~240 au, interpreted as signposts of a misaligned circumbinary disk system (Yang et al. 2020).",
+ "last_updated": "2026-07-11",
  "plx_mas": null,
  "mags": null
 }

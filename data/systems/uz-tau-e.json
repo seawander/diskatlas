@@ -32,7 +32,8 @@
     "arxiv": "1810.06044",
     "bibcode": "2018ApJ...869...17L"
    },
-   "epoch": "2017 Aug 31"
+   "epoch": "2017 Aug 31",
+   "content": "continuum"
   },
   {
    "type": "disk_scattered",
@@ -53,7 +54,8 @@
     "arxiv": "2403.02158",
     "bibcode": "2024A&A...685A..53G"
    },
-   "epoch": "2017-10-27"
+   "epoch": "2017-10-27",
+   "content": "continuum"
   },
   {
    "image_id": "uz-tau-e_alice-f110w",
@@ -75,7 +77,8 @@
     "bibcode": "2018AJ....155..179H"
    },
    "hires_url": "https://archive.stsci.edu/prepds/alice/",
-   "epoch": "2004-11-25"
+   "epoch": "2004-11-25",
+   "content": "continuum"
   },
   {
    "image_id": "uz-tau-e_alma2018",
@@ -95,7 +98,8 @@
     "journal": "The Astrophysical Journal",
     "arxiv": "1805.06457",
     "bibcode": "2018ApJ...861...64T"
-   }
+   },
+   "content": "continuum"
   },
   {
    "image_id": "uz-tau-e_zurlo2024",
@@ -116,7 +120,8 @@
     "bibcode": "2024A&A...686A.309Z"
    },
    "file": "images/uz-tau-e/uz-tau-e_zurlo2024.png",
-   "epoch": "2017-10-28"
+   "epoch": "2017-10-28",
+   "content": "continuum"
   },
   {
    "image_id": "uz-tau-e_alma-vioque26",
@@ -137,7 +142,8 @@
     "arxiv": "2512.00157",
     "bibcode": "2026A&A...705A.238V"
    },
-   "epoch": null
+   "epoch": "2017-08-31",
+   "content": "continuum"
   },
   {
    "image_id": "uz-tau-e_alma-kurtovic26",
@@ -158,7 +164,8 @@
     "arxiv": "2605.30023",
     "bibcode": "2026arXiv260530023K"
    },
-   "epoch": null
+   "epoch": "2017-08-31",
+   "content": "continuum"
   },
   {
    "image_id": "uz-tau-e_carma1300",
@@ -180,7 +187,8 @@
     "arxiv": "0906.2227",
     "bibcode": "2009ApJ...701..260I"
    },
-   "epoch": "2007-10-27"
+   "epoch": "2007-10-27",
+   "content": "continuum"
   }
  ],
  "notes": null,

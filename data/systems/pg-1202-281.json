@@ -43,7 +43,8 @@
     "arxiv": "astro-ph/9409028",
     "bibcode": "1994ApJ...435L..11B"
    },
-   "epoch": "1994-02-08"
+   "epoch": "1994-02-08",
+   "content": "continuum"
   }
  ],
  "notes": "GQ Comae; luminous radio-quiet PG quasar (V=15.6) from the Bahcall, Kirhakos & Schneider 1994 HST/WFPC2 study: no host detected to strong limits ('naked quasar' result); bright companion galaxy visible NW in the WFPC2 frame. Added by batch T; redshift from Paper I Table 1. Coordinates pending SIMBAD via coords_todo_batchT.",

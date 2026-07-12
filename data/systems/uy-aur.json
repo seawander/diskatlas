@@ -32,7 +32,8 @@
     "arxiv": "1906.10809",
     "bibcode": "2019ApJ...882...49L"
    },
-   "epoch": "2017-08-31"
+   "epoch": "2017-08-31",
+   "content": "continuum"
   },
   {
    "type": "disk_scattered",
@@ -53,7 +54,8 @@
     "arxiv": "2403.02158",
     "bibcode": "2024A&A...685A..53G"
    },
-   "epoch": "2021-01-21"
+   "epoch": "2021-01-21",
+   "content": "continuum"
   },
   {
    "image_id": "uy-aur_ciao2007",
@@ -74,7 +76,8 @@
     "bibcode": "2007AJ....134..880H"
    },
    "file": "images/uy-aur/uy-aur_ciao2007.png",
-   "epoch": "2002-2005"
+   "epoch": "2002-2005",
+   "content": "continuum"
   }
  ],
  "notes": "AUTO-CREATED from staging - fill metadata & coords",

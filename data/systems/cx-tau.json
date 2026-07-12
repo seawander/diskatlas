@@ -32,7 +32,8 @@
     "arxiv": "2403.02158",
     "bibcode": "2024A&A...685A..53G"
    },
-   "epoch": "2019-10-23"
+   "epoch": "2019-10-23",
+   "content": "continuum"
   },
   {
    "image_id": "cx-tau_alma2019",
@@ -53,7 +54,8 @@
     "arxiv": "1905.09204",
     "bibcode": "2019A&A...626L...2F"
    },
-   "epoch": "2016 Nov 5"
+   "epoch": "2016 Nov 5",
+   "content": "continuum"
   },
   {
    "image_id": "cx-tau_alma-kurtovic26",
@@ -74,7 +76,8 @@
     "arxiv": "2605.30023",
     "bibcode": "2026arXiv260530023K"
    },
-   "epoch": null
+   "epoch": "2016-2017",
+   "content": "continuum"
   }
  ],
  "notes": null,

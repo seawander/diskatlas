@@ -32,7 +32,8 @@
     "arxiv": "2008.06518",
     "bibcode": "2020A&A...642A.164V"
    },
-   "epoch": "2016-2017"
+   "epoch": "2016-2017",
+   "content": "continuum"
   },
   {
    "type": "disk_mm",
@@ -53,7 +54,8 @@
     "arxiv": "2008.06518",
     "bibcode": "2020A&A...642A.164V"
    },
-   "epoch": "2015-07-19"
+   "epoch": "2015-07-19",
+   "content": "continuum"
   },
   {
    "type": "disk_mm",
@@ -74,7 +76,8 @@
     "arxiv": "2008.06518",
     "bibcode": "2020A&A...642A.164V"
    },
-   "epoch": "2016-10-14"
+   "epoch": "2016-10-14",
+   "content": "continuum"
   },
   {
    "image_id": "hh-30_jwst2024",
@@ -95,7 +98,8 @@
     "arxiv": "2412.07523",
     "bibcode": "2025ApJ...980...49T"
    },
-   "epoch": "2023 Jan 23"
+   "epoch": "2023 Jan 23",
+   "content": "continuum"
   },
   {
    "image_id": "hh-30_nicmos2001",
@@ -116,7 +120,8 @@
     "bibcode": "2001ApJ...556..958C"
    },
    "file": "images/hh-30/hh-30_nicmos2001.png",
-   "epoch": "1997-1998"
+   "epoch": "1997-1998",
+   "content": "continuum"
   },
   {
    "image_id": "hh-30_wfpc2-1996",
@@ -137,7 +142,8 @@
     "bibcode": "1996ApJ...473..437B"
    },
    "file": "images/hh-30/hh-30_wfpc2-1996.png",
-   "epoch": "1994-1995"
+   "epoch": "1994-1995",
+   "content": "continuum"
   },
   {
    "image_id": "hh-30_jwst-nircam-f444w",
@@ -159,7 +165,8 @@
     "bibcode": "2025ApJ...980...49T"
    },
    "file": "images/hh-30/hh-30_jwst-nircam-f444w.png",
-   "epoch": "2023-09-07"
+   "epoch": "2023-09-07",
+   "content": "continuum"
   },
   {
    "image_id": "hh-30_jwst-miri-f1280w",
@@ -181,7 +188,8 @@
     "bibcode": "2025ApJ...980...49T"
    },
    "file": "images/hh-30/hh-30_jwst-miri-f1280w.png",
-   "epoch": "2023-09-07"
+   "epoch": "2023-09-07",
+   "content": "continuum"
   }
  ],
  "notes": "AUTO-CREATED from staging - fill metadata & coords",

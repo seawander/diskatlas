@@ -581,6 +581,48 @@ elias-27, VSSG 1=elias-20, WSB 60=iso-oph-196); zero duplicate systems created
 panels skipped (re-published SMA/PdBI data; ingest from originals later).
 521 systems, 2292 image records, 0 errors / 0 warnings.
 
+2026-07-11 (internal review round-2: data reconciliation + release pinning).
+Ingestion HALTED; two in-flight agent manifests parked in scratchpad (14 fx_
+crops: AGE-PRO USco Band 7 x10, GM Aur SMA CO x2, HD 163296 VLA 7mm + PdBI CO).
+TASK 2 (epoch regression, blocking): coverage had fallen 2068/2171 (95.2%) ->
+1939/2292 (84.6%). Root cause: the Kurtovic 2026 (151 rec) and Vioque 2026 (97)
+gallery batches were ingested WITHOUT epochs (epoch-at-ingestion rule violated);
+git history proves the fields were never present - the facet-normalization pass
+stripped nothing. Backfilled 227 records via epoch_archives.py alma (paper-tex
+ALMA project codes -> TAP ivoa.obscore; 215 code-tier + 12 cone-tier; all with
+provenance entries) -> 2166/2292 = 94.5%. ESO mode found 0 (recent SPHERE data
+not yet public in obscore). 126 residue documented (21 uncovered gallery, 11
+REASONS multi-config combos, ~90 pre-existing hard tail). Plus 5 SOURCE-VERIFIED
+epoch corrections on existing records: v2149-ori '2001 Dec'->2020-02-16 (old
+value was the Koehler 2006 astrometric epoch, not the SPHERE obs; Valegard
+Table 1), hd-294260 2020-03-04->2020-02-18 (Table 1), hd-163296 PdBI 1.3+2.8mm
+'2001-2003'->'2003-2004' (Isella 2007: '2003/2004 winter season'; old value was
+the VLA range), gm-aur_sma2009 '2005-2006'->'2005-11' (Hughes 2009: Nov 5+26).
+TASK 3 (granularity): per-LINE records STAND - molecular lines are physically
+distinct tracers (chemistry/layers/radii), consolidating would cram 7 tracers
+into one crop. Added content=continuum|line to ALL 2292 records (2145/147; regex
+classifier incl. narrow-band Halpha/[SII]/Paalpha and jet emission-line images),
+REQUIRED on disk_mm in validate.py, rule documented in data/README.md. Scope
+statement: one record per continuum band per instrument per epoch; one record
+per spectral line for line data products.
+TASK 4 (spot-checks): (a) 114-426 NOT over-split - 12 distinct NIRCam filters
+(water-ice science is per-band) + RGB composite + 4 NICMOS 1997 + NICMOS 1998
+re-display; every record a distinct filter x epoch x instrument. (b) beta Pic
+mm = 9 records; Dent 2014 held; Matra 2017/2019 + Wilner 2011 SMA held only via
+the REASONS re-reduction - originals QUEUED post-release in known_missing.
+(c) facility 37->36 fold = raw 'PdBI' facet merged into IRAM:Interferometer
+(same physical facility, AAS keyword form) - correct; set-diff across builds
+shows no facility lost; canonical count 37.
+ALSO: 52 cited notes applied from the pre-halt agent (placeholder backlog
+123->71; every claim carries an inline citation grounded in the record's own
+paper; agent's paper-target sanity check also surfaced 2 of the epoch errors
+above). RELEASE STATS BLOCK: 521 systems / 2292 image records / epochs 2166
+(94.5%) / categories prot 318 + deb 106 + evo 19 + qso 20 / content 2145
+continuum + 147 line / companion hosts 91 (non-refuted 88; 107 companions) /
+papers_in_atlas 657 builder (664 distinct refs) / papers_explored 964 / papers_
+known 9943 / 37 AAS facility keys / 71 instrument families. This commit = THE
+paper release snapshot; no ingestion until the writer confirms regeneration.
+
 2026-07-11 (HD 34282, user-directed). Added ONLY panel (a) of Fig 1 of Quiroz et al.
 2022 (arXiv 2111.12708 = 2022ApJ...924L...4Q, "Improving Planet Detection with Disk
 Modeling: Keck/NIRC2 Imaging of the HD 34282 Single-armed Protoplanetary Disk"): the

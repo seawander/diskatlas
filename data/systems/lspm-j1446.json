@@ -54,7 +54,8 @@
     "journal": "AJ (2025)",
     "arxiv": "2509.13587",
     "bibcode": "2025AJ....170..272U"
-   }
+   },
+   "content": "continuum"
   },
   {
    "image_id": "lspm-j1446_nirc2-lp-2024",
@@ -75,7 +76,8 @@
     "arxiv": "2509.13587",
     "bibcode": "2025AJ....170..272U"
    },
-   "epoch": "2024-01"
+   "epoch": "2024-01",
+   "content": "continuum"
   }
  ],
  "notes": "Directly-imaged companion host (Uyama+2025).",

@@ -45,7 +45,8 @@
    },
    "image_id": "gq-lup_naco2005",
    "file": "images/gq-lup/gq-lup_naco2005.png",
-   "epoch": "2004 Jun"
+   "epoch": "2004 Jun",
+   "content": "continuum"
   },
   {
    "image_id": "gq-lup_sphere2021",
@@ -66,7 +67,8 @@
     "arxiv": "2101.04033",
     "bibcode": "2021A&A...647A..21V"
    },
-   "epoch": "2018-08-15"
+   "epoch": "2018-08-15",
+   "content": "continuum"
   },
   {
    "image_id": "gq-lup_miri-mrs2024",
@@ -87,7 +89,8 @@
     "bibcode": "2024ApJ...966L..21C"
    },
    "file": "images/gq-lup/gq-lup_miri-mrs2024.png",
-   "epoch": "2023-08-13"
+   "epoch": "2023-08-13",
+   "content": "continuum"
   },
   {
    "image_id": "gq-lup_alma2017",
@@ -108,7 +111,8 @@
     "bibcode": "2017ApJ...835...17M"
    },
    "file": "images/gq-lup/gq-lup_alma2017.png",
-   "epoch": "2015"
+   "epoch": "2015",
+   "content": "continuum"
   }
  ],
  "notes": null,

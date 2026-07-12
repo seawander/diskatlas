@@ -32,7 +32,8 @@
     "arxiv": "1906.10809",
     "bibcode": "2019ApJ...882...49L"
    },
-   "epoch": "2017-08-18"
+   "epoch": "2017-08-18",
+   "content": "continuum"
   },
   {
    "type": "disk_scattered",
@@ -53,7 +54,8 @@
     "arxiv": "2403.02158",
     "bibcode": "2024A&A...685A..53G"
    },
-   "epoch": "2018-11-25"
+   "epoch": "2018-11-25",
+   "content": "continuum"
   },
   {
    "image_id": "dr-tau_alice-f212n",
@@ -75,7 +77,8 @@
     "bibcode": "2018AJ....155..179H"
    },
    "hires_url": "https://archive.stsci.edu/prepds/alice/",
-   "epoch": "1998-09-07"
+   "epoch": "1998-09-07",
+   "content": "continuum"
   },
   {
    "image_id": "dr-tau_noema2023",
@@ -96,7 +99,8 @@
     "bibcode": "2023ApJ...943..107H"
    },
    "file": "images/dr-tau/dr-tau_noema2023.png",
-   "epoch": "2021"
+   "epoch": "2021",
+   "content": "line"
   },
   {
    "image_id": "dr-tau_lbti2022",
@@ -117,7 +121,8 @@
     "bibcode": "2022A&A...658A..63M"
    },
    "file": "images/dr-tau/dr-tau_lbti2022.png",
-   "epoch": "2020-02-02"
+   "epoch": "2020-02-02",
+   "content": "continuum"
   },
   {
    "image_id": "dr-tau_carma1300",
@@ -139,7 +144,8 @@
     "arxiv": "0906.2227",
     "bibcode": "2009ApJ...701..260I"
    },
-   "epoch": "2007"
+   "epoch": "2007",
+   "content": "continuum"
   }
  ],
  "notes": null,

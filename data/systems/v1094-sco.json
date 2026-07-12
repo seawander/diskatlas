@@ -35,7 +35,8 @@
     "bibcode": "2025ApJ...989....3D"
    },
    "file": "images/v1094-sco/v1094-sco_alma-agepro.png",
-   "epoch": "2021-2022"
+   "epoch": "2021-2022",
+   "content": "continuum"
   },
   {
    "image_id": "v1094-sco_alma-kurtovic26",
@@ -56,7 +57,8 @@
     "arxiv": "2605.30023",
     "bibcode": "2026arXiv260530023K"
    },
-   "epoch": null
+   "epoch": "2017-2023",
+   "content": "continuum"
   }
  ],
  "notes": "AUTO-CREATED from staging - fill metadata & coords Added 2026-07-08 (AGE-PRO ALMA, Vioque+2025 resolved).",

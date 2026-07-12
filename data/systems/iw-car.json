@@ -33,7 +33,8 @@
     "arxiv": "2605.13445",
     "bibcode": "2026arXiv260513445D"
    },
-   "file": "images/iw-car/iw-car_vlti_pionier.png"
+   "file": "images/iw-car/iw-car_vlti_pionier.png",
+   "content": "continuum"
   }
  ],
  "notes": "Post-AGB binary whose circumbinary disc was resolved with VLTI/PIONIER interferometry (De Prins+2026).",

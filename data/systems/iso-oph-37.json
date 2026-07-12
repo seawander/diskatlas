@@ -37,7 +37,8 @@
     "bibcode": "2025ApJ...989....2R"
    },
    "file": "images/iso-oph-37/iso-oph-37_alma-agepro.png",
-   "epoch": "2022"
+   "epoch": "2022",
+   "content": "continuum"
   },
   {
    "type": "disk_mm",
@@ -58,7 +59,8 @@
     "arxiv": "2012.00189",
     "bibcode": "2021MNRAS.501.2934C"
    },
-   "epoch": "2019"
+   "epoch": "2019",
+   "content": "continuum"
   },
   {
    "image_id": "iso-oph-37_odisea-alma-b6-1300um",
@@ -79,7 +81,8 @@
     "arxiv": "1809.08844",
     "bibcode": "2019MNRAS.482..698C"
    },
-   "epoch": "2017-07-13"
+   "epoch": "2017-07-13",
+   "content": "continuum"
   },
   {
    "image_id": "iso-oph-37_alma-kurtovic26",
@@ -100,7 +103,8 @@
     "arxiv": "2605.30023",
     "bibcode": "2026arXiv260530023K"
    },
-   "epoch": null
+   "epoch": "2019-2023",
+   "content": "continuum"
   },
   {
    "image_id": "iso-oph-37_agepro-12co",
@@ -122,7 +126,8 @@
     "arxiv": "2506.10731",
     "bibcode": "2025ApJ...989....2R"
    },
-   "epoch": "2022"
+   "epoch": "2022",
+   "content": "line"
   },
   {
    "image_id": "iso-oph-37_agepro-13co",
@@ -144,7 +149,8 @@
     "arxiv": "2506.10731",
     "bibcode": "2025ApJ...989....2R"
    },
-   "epoch": "2022"
+   "epoch": "2022",
+   "content": "line"
   }
  ],
  "notes": "AUTO-CREATED from staging - fill metadata & coords Added 2026-07-08 (AGE-PRO ALMA, Vioque+2025 resolved). Merged the duplicate 'iso-oph-37' system (ODISEA record) into this one 2026-07-09; GY 21 = [GY92] 21 = ISO-Oph 37 (SIMBAD-verified).",

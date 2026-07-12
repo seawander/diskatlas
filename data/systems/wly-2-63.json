@@ -35,7 +35,8 @@
     "arxiv": "2012.00189",
     "bibcode": "2021MNRAS.501.2934C"
    },
-   "epoch": "2019-06-24"
+   "epoch": "2019-06-24",
+   "content": "continuum"
   },
   {
    "image_id": "wly-2-63_alma-agepro",
@@ -56,7 +57,8 @@
     "bibcode": "2025ApJ...989....2R"
    },
    "file": "images/wly-2-63/wly-2-63_alma-agepro.png",
-   "epoch": "2018-2022"
+   "epoch": "2018-2022",
+   "content": "continuum"
   },
   {
    "image_id": "wly-2-63_agepro-12co",
@@ -78,7 +80,8 @@
     "arxiv": "2506.10731",
     "bibcode": "2025ApJ...989....2R"
    },
-   "epoch": "2018-2022"
+   "epoch": "2018-2022",
+   "content": "line"
   },
   {
    "image_id": "wly-2-63_agepro-13co",
@@ -100,7 +103,8 @@
     "arxiv": "2506.10731",
     "bibcode": "2025ApJ...989....2R"
    },
-   "epoch": "2018-2022"
+   "epoch": "2018-2022",
+   "content": "line"
   }
  ],
  "notes": "AUTO-CREATED from staging - fill metadata & coords",

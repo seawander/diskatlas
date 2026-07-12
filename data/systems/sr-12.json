@@ -55,7 +55,8 @@
     "bibcode": "2022ApJ...930L...3W"
    },
    "file": "images/sr-12/sr-12_alma2022.png",
-   "epoch": "2021 Jul 8"
+   "epoch": "2021 Jul 8",
+   "content": "continuum"
   },
   {
    "image_id": "sr-12_wfc3-f656n-2021",
@@ -77,7 +78,8 @@
     "arxiv": "2606.12862",
     "bibcode": "2026arXiv260612862F"
    },
-   "epoch": "2021-02-28"
+   "epoch": "2021-02-28",
+   "content": "line"
   },
   {
    "image_id": "sr-12_irac-36-2004",
@@ -99,7 +101,8 @@
     "arxiv": "2111.03087",
     "bibcode": "2022AJ....163...36M"
    },
-   "epoch": "2004-03-07"
+   "epoch": "2004-03-07",
+   "content": "continuum"
   }
  ],
  "notes": "SR 12 AB is a weak-line T Tauri binary (separation 0.21 arcsec / ~24 au) in the rho Ophiuchi star-forming region. Its wide (980 au) planetary-mass companion SR 12 c was imaged by Kuzuhara et al. 2011; ALMA Band 7 (0.88 mm) imaging by Wu et al. 2022 detected an unresolved (<5 au) circumplanetary dust disk around SR 12 c, the first submillimeter detection of a CPD around a wide planetary-mass companion, with dust mass comparable to the PDS 70 c CPD.",

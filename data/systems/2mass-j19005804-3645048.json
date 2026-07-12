@@ -42,7 +42,8 @@
     "arxiv": "2603.01703",
     "bibcode": "2026A&A...709A.269G"
    },
-   "epoch": "2019-09-28"
+   "epoch": "2019-09-28",
+   "content": "continuum"
   }
  ],
  "notes": "SPHERE/IRDIS H-band polarimetric image (DESTINYS survey; shown as 'J1900-3645' in the paper's Corona Australis sky map). A tiny disk (0.2 arcsec) is detected with a P.A. of 90 deg, signal only along the E-W axis indicating a very inclined disk (Garufi et al. 2026).",

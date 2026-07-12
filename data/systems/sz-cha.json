@@ -32,7 +32,8 @@
     "arxiv": "2310.08589",
     "bibcode": "2023A&A...680A.114R"
    },
-   "epoch": "2020-12-29"
+   "epoch": "2020-12-29",
+   "content": "continuum"
   },
   {
    "type": "disk_scattered",
@@ -52,7 +53,8 @@
     "journal": "A&A 685, A52",
     "arxiv": "2403.02149",
     "bibcode": "2024A&A...685A..52G"
-   }
+   },
+   "content": "continuum"
   },
   {
    "image_id": "sz-cha_sphere-ks-qphi",
@@ -73,7 +75,8 @@
     "bibcode": "2023A&A...680A.114R"
    },
    "file": "images/sz-cha/sz-cha_sphere-ks-qphi.png",
-   "epoch": "2020-12-29"
+   "epoch": "2020-12-29",
+   "content": "continuum"
   },
   {
    "image_id": "sz-cha_sphere-rdi-xie22",
@@ -93,7 +96,8 @@
     "arxiv": "2208.07915",
     "bibcode": "2022A&A...666A..32X"
    },
-   "file": "images/sz-cha/sz-cha_sphere-rdi-xie22.png"
+   "file": "images/sz-cha/sz-cha_sphere-rdi-xie22.png",
+   "content": "continuum"
   },
   {
    "image_id": "sz-cha_alma-vioque26",
@@ -114,7 +118,8 @@
     "arxiv": "2512.00157",
     "bibcode": "2026A&A...705A.238V"
    },
-   "epoch": null
+   "epoch": null,
+   "content": "continuum"
   },
   {
    "image_id": "sz-cha_alma-kurtovic26",
@@ -135,7 +140,8 @@
     "arxiv": "2605.30023",
     "bibcode": "2026arXiv260530023K"
    },
-   "epoch": null
+   "epoch": "2023",
+   "content": "continuum"
   }
  ],
  "notes": null,

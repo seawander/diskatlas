@@ -32,7 +32,8 @@
     "arxiv": "2008.06518",
     "bibcode": "2020A&A...642A.164V"
    },
-   "epoch": "2017-09-27"
+   "epoch": "2017-09-27",
+   "content": "continuum"
   },
   {
    "type": "disk_mm",
@@ -53,7 +54,8 @@
     "arxiv": "2008.06518",
     "bibcode": "2020A&A...642A.164V"
    },
-   "epoch": "2016-2017"
+   "epoch": "2016-2017",
+   "content": "continuum"
   },
   {
    "image_id": "hv-tau-c_naco2010",
@@ -74,7 +76,8 @@
     "bibcode": "2010ApJ...712..112D"
    },
    "file": "images/hv-tau-c/hv-tau-c_naco2010.png",
-   "epoch": "2002"
+   "epoch": "2002",
+   "content": "continuum"
   }
  ],
  "notes": "AUTO-CREATED from staging - fill metadata & coords",

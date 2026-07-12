@@ -42,7 +42,8 @@
     "bibcode": "2014ApJ...780L..30C"
    },
    "image_id": "roxs-42b_keck2014",
-   "file": "images/roxs-42b/roxs-42b_keck2014.png"
+   "file": "images/roxs-42b/roxs-42b_keck2014.png",
+   "content": "continuum"
   },
   {
    "image_id": "roxs-42b_sinfoni-2012-ks",
@@ -64,7 +65,8 @@
     "bibcode": "2014ApJ...780L..30C"
    },
    "file": "images/roxs-42b/roxs-42b_sinfoni-2012-ks.png",
-   "epoch": "2012-08-11"
+   "epoch": "2012-08-11",
+   "content": "continuum"
   },
   {
    "image_id": "roxs-42b_nirc2-2005-k",
@@ -86,7 +88,8 @@
     "bibcode": "2014ApJ...780L..30C"
    },
    "file": "images/roxs-42b/roxs-42b_nirc2-2005-k.png",
-   "epoch": "2005-04-16"
+   "epoch": "2005-04-16",
+   "content": "continuum"
   },
   {
    "image_id": "roxs-42b_ciao-2008-ks",
@@ -108,7 +111,8 @@
     "bibcode": "2014ApJ...780L..30C"
    },
    "file": "images/roxs-42b/roxs-42b_ciao-2008-ks.png",
-   "epoch": "2008-07-19"
+   "epoch": "2008-07-19",
+   "content": "continuum"
   }
  ],
  "notes": null,

@@ -44,11 +44,12 @@
     "arxiv": "2403.02158",
     "bibcode": "2024A&A...685A..53G"
    },
-   "epoch": "2019-12-30"
+   "epoch": "2019-12-30",
+   "content": "continuum"
   }
  ],
- "notes": "AUTO-CREATED from staging - fill metadata & coords",
- "last_updated": "2026-07-10",
+ "notes": "K7 young multiple system in Taurus; the held SPHERE/IRDIS H-band image from the Taurus polarimetric census shows the close companion pair (Bab at 0.17 arcsec), while no significant polarized disk signal is detected (Garufi et al. 2024).",
+ "last_updated": "2026-07-11",
  "plx_mas": 5.4315,
  "mags": {
   "B": 12.1,

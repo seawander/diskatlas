@@ -32,11 +32,12 @@
     "arxiv": "2403.02149",
     "bibcode": "2024A&A...685A..52G"
    },
-   "epoch": "2019-11-27"
+   "epoch": "2019-11-27",
+   "content": "continuum"
   }
  ],
- "notes": "AUTO-CREATED from staging - fill metadata & coords",
- "last_updated": "2026-07-06",
+ "notes": "K8Ve T Tauri star in Chamaeleon I; the held SPHERE/IRDIS H-band polarized-intensity image from the Cha I census detects a faint scattered-light disk (Ginski et al. 2024).",
+ "last_updated": "2026-07-11",
  "plx_mas": 5.4609,
  "mags": {
   "V": 13.4,

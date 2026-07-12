@@ -36,7 +36,8 @@
     "arxiv": "2504.18725",
     "bibcode": "2025ApJ...984L...9C"
    },
-   "epoch": "2021-2022"
+   "epoch": "2021-2022",
+   "content": "continuum"
   },
   {
    "type": "disk_scattered",
@@ -57,7 +58,8 @@
     "arxiv": "1803.10882",
     "bibcode": "2018ApJ...863...44A"
    },
-   "epoch": "2016-03-15"
+   "epoch": "2016-03-15",
+   "content": "continuum"
   },
   {
    "type": "disk_scattered",
@@ -78,7 +80,8 @@
     "arxiv": "2206.05815",
     "bibcode": "2022AJ....164..109R"
    },
-   "epoch": "2016-03-06"
+   "epoch": "2016-03-06",
+   "content": "continuum"
   },
   {
    "type": "disk_scattered",
@@ -99,7 +102,8 @@
     "arxiv": "2310.08589",
     "bibcode": "2023A&A...680A.114R"
    },
-   "epoch": "2021-06-04"
+   "epoch": "2021-06-04",
+   "content": "continuum"
   },
   {
    "type": "disk_scattered",
@@ -120,7 +124,8 @@
     "arxiv": "1406.7303",
     "bibcode": "2014AJ....148...59S"
    },
-   "epoch": "2011"
+   "epoch": "2011",
+   "content": "continuum"
   },
   {
    "type": "disk_scattered",
@@ -141,7 +146,8 @@
     "arxiv": "2404.02222",
     "bibcode": "2024A&A...684A..73D"
    },
-   "epoch": "2004-05-01"
+   "epoch": "2004-05-01",
+   "content": "continuum"
   },
   {
    "image_id": "pds-66_alice-f110w",
@@ -163,7 +169,8 @@
     "bibcode": "2018AJ....155..179H"
    },
    "hires_url": "https://archive.stsci.edu/prepds/alice/",
-   "epoch": "2006-04-13"
+   "epoch": "2006-04-13",
+   "content": "continuum"
   },
   {
    "image_id": "pds-66_sphere-ks-qphi",
@@ -184,7 +191,8 @@
     "bibcode": "2023A&A...680A.114R"
    },
    "file": "images/pds-66/pds-66_sphere-ks-qphi.png",
-   "epoch": "2021-06-04"
+   "epoch": "2021-06-04",
+   "content": "continuum"
   },
   {
    "image_id": "pds-66_alma3mm2025",
@@ -206,7 +214,8 @@
    },
    "file": "images/pds-66/pds-66_alma3mm2025.png",
    "note": "New ALMA Band 3 (3mm) observation of MP Mus (PDS 66), a different band/config from the existing exoALMA Band 7 (0.9mm) record. The 3mm data reveal a ring at 10.5au and gaps at 7.5/15au that are undetected at 0.9/1.3mm, plus hints of an inner cavity (<3au). The paper infers a hidden gas-giant companion (1-3 au) from the disk structure plus a Gaia astrometric proper-motion anomaly and hydrodynamic simulations -- the planet is NOT directly imaged, so per instructions it was NOT added to planets[] with method imaging; recommend adding a system-notes line instead, e.g.: 'Gaia astrometry + ALMA 3mm ring/cavity structure (Ribas et al. 2025) indicate an unseen ~1-3 au gas-giant companion; not directly imaged.'",
-   "epoch": "2023"
+   "epoch": "2023",
+   "content": "continuum"
   },
   {
    "image_id": "pds-66_exoalma-co",
@@ -227,7 +236,8 @@
     "bibcode": "2025ApJ...984L...6T"
    },
    "file": "images/pds-66/pds-66_exoalma-co.png",
-   "epoch": "2021-2022"
+   "epoch": "2021-2022",
+   "content": "line"
   },
   {
    "image_id": "pds-66_gpi_hband",
@@ -247,7 +257,8 @@
     "arxiv": "1601.07248",
     "bibcode": "2016ApJ...818L..15W"
    },
-   "file": "images/pds-66/pds-66_gpi_hband.png"
+   "file": "images/pds-66/pds-66_gpi_hband.png",
+   "content": "continuum"
   },
   {
    "image_id": "pds-66_gpi-k1",
@@ -268,7 +279,8 @@
     "arxiv": "1601.07248",
     "bibcode": "2016ApJ...818L..15W"
    },
-   "epoch": "2014-05-15"
+   "epoch": "2014-05-15",
+   "content": "continuum"
   },
   {
    "image_id": "pds-66_stis",
@@ -289,7 +301,8 @@
     "arxiv": "1601.07248",
     "bibcode": "2016ApJ...818L..15W"
    },
-   "epoch": "2011"
+   "epoch": "2011",
+   "content": "continuum"
   },
   {
    "image_id": "pds-66_alma-vioque26",
@@ -310,7 +323,8 @@
     "arxiv": "2512.00157",
     "bibcode": "2026A&A...705A.238V"
    },
-   "epoch": null
+   "epoch": null,
+   "content": "continuum"
   },
   {
    "type": "disk_scattered",
@@ -331,7 +345,8 @@
     "year": 2014,
     "journal": "AJ 148, 59",
     "title": "Probing for Exoplanets Hiding in Dusty Debris Disks: Disk Imaging, Characterization, and Exploration with HST/STIS Multi-roll Coronagraphy"
-   }
+   },
+   "content": "continuum"
   },
   {
    "image_id": "pds-66_alma-kurtovic26",
@@ -352,7 +367,8 @@
     "arxiv": "2605.30023",
     "bibcode": "2026arXiv260530023K"
    },
-   "epoch": null
+   "epoch": "2017-2018",
+   "content": "continuum"
   }
  ],
  "notes": "ALMA 3mm reveals a ring + 2 gaps invisible at shorter wavelengths; a young gas giant is inferred (not imaged) from Gaia astrometry + disk structure (Ribas et al. 2025, arXiv 2507.11612). MP Mus (PDS 66 field neighbour; = CPD-68 1894, K1Ve): a relatively old (~7-17 Myr) but still gas-rich, near-face-on accreting disk. Added 2026-07-09 to complete the Schneider et al. 2014 STIS GO-12228 gallery (item was the one detected disk absent from the atlas).",

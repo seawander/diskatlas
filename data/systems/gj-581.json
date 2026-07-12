@@ -34,10 +34,11 @@
     "bibcode": "2012A&A...548A..86L"
    },
    "file": "images/gj-581/gj-581_herschel.png",
-   "epoch": "2011 Jul 29"
+   "epoch": "2011 Jul 29",
+   "content": "continuum"
   }
  ],
- "notes": "AUTO-CREATED from staging - fill metadata & coords",
- "last_updated": "2026-07-08",
+ "notes": "M3V multi-planet host whose cold debris disk was spatially resolved with deep Herschel/PACS imaging at 70-160 um in the DEBRIS program, only the second debris disk resolved around an M star after AU Mic (Lestrade et al. 2012).",
+ "last_updated": "2026-07-11",
  "plx_mas": 158.7183
 }

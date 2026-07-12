@@ -42,7 +42,8 @@
     "journal": "A&A, in press",
     "arxiv": "2603.01703",
     "bibcode": "2026A&A...709A.269G"
-   }
+   },
+   "content": "continuum"
   }
  ],
  "notes": "SPHERE/IRDIS H-band polarimetric image (DESTINYS survey). Tenuous signal detected around the coronagraph extending to North and South, too tenuous to characterize the disk geometry (Garufi et al. 2026). Note: this Schwartz-catalog 'Sz 51' is the Chamaeleon PMS star V* BC Cha, not a Lupus source.",

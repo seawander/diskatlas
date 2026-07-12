@@ -32,7 +32,8 @@
     "arxiv": "2206.05815",
     "bibcode": "2022AJ....164..109R"
    },
-   "epoch": "2017-2019"
+   "epoch": "2017-2019",
+   "content": "continuum"
   },
   {
    "image_id": "hd-139614_sphere2020-j",
@@ -53,7 +54,8 @@
     "bibcode": "2020A&A...635A.121M"
    },
    "file": "images/hd-139614/hd-139614_sphere2020-j.png",
-   "epoch": "2016"
+   "epoch": "2016",
+   "content": "continuum"
   },
   {
    "image_id": "hd-139614_sphere2020-h",
@@ -74,7 +76,8 @@
     "bibcode": "2020A&A...635A.121M"
    },
    "file": "images/hd-139614/hd-139614_sphere2020-h.png",
-   "epoch": "2017"
+   "epoch": "2017",
+   "content": "continuum"
   },
   {
    "image_id": "hd-139614_alma2023",
@@ -95,7 +98,8 @@
     "bibcode": "2023A&A...670A.154W"
    },
    "file": "images/hd-139614/hd-139614_alma2023.png",
-   "epoch": "2016-05-13"
+   "epoch": "2016-05-13",
+   "content": "line"
   },
   {
    "image_id": "hd-139614_alma-vioque26",
@@ -116,7 +120,8 @@
     "arxiv": "2512.00157",
     "bibcode": "2026A&A...705A.238V"
    },
-   "epoch": null
+   "epoch": "2023",
+   "content": "continuum"
   },
   {
    "image_id": "hd-139614_alma-kurtovic26",
@@ -137,7 +142,8 @@
     "arxiv": "2605.30023",
     "bibcode": "2026arXiv260530023K"
    },
-   "epoch": null
+   "epoch": "2023",
+   "content": "continuum"
   }
  ],
  "notes": null,

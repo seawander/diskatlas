@@ -34,11 +34,12 @@
     "arxiv": "2403.02149",
     "bibcode": "2024A&A...685A..52G"
    },
-   "epoch": "2016-03-26"
+   "epoch": "2016-03-26",
+   "content": "continuum"
   }
  ],
- "notes": "AUTO-CREATED from staging - fill metadata & coords",
- "last_updated": "2026-07-06",
+ "notes": "G9Ve T Tauri star in Chamaeleon I; the held SPHERE/IRDIS J-band polarized-intensity image from the Cha I census provides the first detailed description of its disk in scattered light (Ginski et al. 2024).",
+ "last_updated": "2026-07-11",
  "plx_mas": 5.2148,
  "mags": {
   "B": 12.02,

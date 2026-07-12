@@ -38,7 +38,8 @@
     "bibcode": "2026ApJ..1004..182H"
    },
    "file": "images/gamma-oph/gamma-oph_mri_f2550w.png",
-   "epoch": "2024-08-13"
+   "epoch": "2024-08-13",
+   "content": "continuum"
   },
   {
    "image_id": "gamma-oph_mri_f1500w",
@@ -59,7 +60,8 @@
     "bibcode": "2026ApJ..1004..182H"
    },
    "file": "images/gamma-oph/gamma-oph_mri_f1500w.png",
-   "epoch": "2024-08-13"
+   "epoch": "2024-08-13",
+   "content": "continuum"
   },
   {
    "type": "disk_mm",
@@ -80,7 +82,8 @@
     "arxiv": "2601.11708",
     "bibcode": "2026A&A...705A.195M"
    },
-   "epoch": "2022-10-01"
+   "epoch": "2022-10-01",
+   "content": "continuum"
   },
   {
    "type": "disk_mm",
@@ -101,7 +104,8 @@
     "arxiv": "2501.09058",
     "bibcode": "2025A&A...693A.151M"
    },
-   "epoch": "2018-05-19"
+   "epoch": "2018-05-19",
+   "content": "continuum"
   },
   {
    "image_id": "gamma-oph_scuba2-850um-sons",
@@ -122,7 +126,8 @@
     "arxiv": "1706.01218",
     "bibcode": "2017MNRAS.470.3606H"
    },
-   "epoch": "2012-2015"
+   "epoch": "2012-2015",
+   "content": "continuum"
   }
  ],
  "notes": "Circumstellar disk of the A-type star gamma Ophiuchi, resolved with JWST/MIRI (Han+2026).",

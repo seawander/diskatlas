@@ -32,7 +32,8 @@
     "arxiv": "1810.06044",
     "bibcode": "2018ApJ...869...17L"
    },
-   "epoch": "2017-08-27"
+   "epoch": "2017-08-27",
+   "content": "continuum"
   },
   {
    "type": "disk_scattered",
@@ -53,7 +54,8 @@
     "arxiv": "2403.02158",
     "bibcode": "2024A&A...685A..53G"
    },
-   "epoch": "2018-12-28"
+   "epoch": "2018-12-28",
+   "content": "continuum"
   },
   {
    "image_id": "dl-tau_alice-f160w",
@@ -75,7 +77,8 @@
     "bibcode": "2018AJ....155..179H"
    },
    "hires_url": "https://archive.stsci.edu/prepds/alice/",
-   "epoch": "2004-09-26"
+   "epoch": "2004-09-26",
+   "content": "continuum"
   },
   {
    "image_id": "dl-tau_carma2015",
@@ -96,7 +99,8 @@
     "bibcode": "2015ApJ...808..102K"
    },
    "file": "images/dl-tau/dl-tau_carma2015.png",
-   "epoch": "2008-2009"
+   "epoch": "2008-2009",
+   "content": "continuum"
   },
   {
    "image_id": "dl-tau_sphere-ks-qphi",
@@ -117,7 +121,8 @@
     "bibcode": "2023A&A...680A.114R"
    },
    "file": "images/dl-tau/dl-tau_sphere-ks-qphi.png",
-   "epoch": "2021-12-04"
+   "epoch": "2021-12-04",
+   "content": "continuum"
   },
   {
    "image_id": "dl-tau_alma-band3-2.9mm",
@@ -139,7 +144,8 @@
     "bibcode": "2020ApJ...898...36L"
    },
    "file": "images/dl-tau/dl-tau_alma-band3-2.9mm.png",
-   "epoch": "2019-07"
+   "epoch": "2019-07",
+   "content": "continuum"
   },
   {
    "image_id": "dl-tau_alma-kurtovic26",
@@ -160,7 +166,8 @@
     "arxiv": "2605.30023",
     "bibcode": "2026arXiv260530023K"
    },
-   "epoch": null
+   "epoch": "2017-2023",
+   "content": "continuum"
   }
  ],
  "notes": null,

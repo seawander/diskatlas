@@ -34,7 +34,8 @@
     "arxiv": "1810.06044",
     "bibcode": "2018ApJ...869...17L"
    },
-   "epoch": "2017 Aug 31"
+   "epoch": "2017 Aug 31",
+   "content": "continuum"
   },
   {
    "image_id": "cida-9_alma2023-b3",
@@ -55,7 +56,8 @@
     "bibcode": "2024ApJ...961...28H"
    },
    "file": "images/cida-9/cida-9_alma2023-b3.png",
-   "epoch": "2021 Jul 9"
+   "epoch": "2021 Jul 9",
+   "content": "continuum"
   },
   {
    "image_id": "cida-9_alma-vioque26",
@@ -76,7 +78,8 @@
     "arxiv": "2512.00157",
     "bibcode": "2026A&A...705A.238V"
    },
-   "epoch": null
+   "epoch": "2017-2022",
+   "content": "continuum"
   },
   {
    "image_id": "cida-9_alma-kurtovic26",
@@ -97,7 +100,8 @@
     "arxiv": "2605.30023",
     "bibcode": "2026arXiv260530023K"
    },
-   "epoch": null
+   "epoch": "2017-2022",
+   "content": "continuum"
   }
  ],
  "notes": "Coords decoded from 2MASS id (Long+2019 Table 1).",

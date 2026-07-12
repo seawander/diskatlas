@@ -46,11 +46,12 @@
     "arxiv": "2002.05723",
     "bibcode": "2020ApJ...891..171Z"
    },
-   "epoch": "2010-2014"
+   "epoch": "2010-2014",
+   "content": "continuum"
   }
  ],
- "notes": "AUTO-CREATED from staging - fill metadata & coords | Coords from the PSO designation (Zhang+2020); apparent G derived from the paper's absolute G=14.681 at 31.51 pc. Companion COCONUTS-1B is a T4 benchmark (mass above the planet threshold; kept as survey benchmark).",
- "last_updated": "2026-07-06",
+ "notes": "Wide co-moving system of a DA white dwarf and the T4 benchmark companion COCONUTS-1B at 40.6 arcsec (1280 au projected) separation, at d = 31.5 pc; the held Pan-STARRS1 y-band image shows both components (Zhang et al. 2020).",
+ "last_updated": "2026-07-11",
  "plx_mas": 31.736,
  "mags": {
   "G": 17.18

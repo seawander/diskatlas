@@ -42,7 +42,8 @@
     "arxiv": "2506.10719",
     "bibcode": "2025ApJ...989....1Z"
    },
-   "epoch": "2022"
+   "epoch": "2022",
+   "content": "continuum"
   },
   {
    "image_id": "2mass-j16090075-1908526_alma-kurtovic26",
@@ -63,7 +64,8 @@
     "arxiv": "2605.30023",
     "bibcode": "2026arXiv260530023K"
    },
-   "epoch": null
+   "epoch": "2018-2022",
+   "content": "continuum"
   },
   {
    "image_id": "2mass-j16090075-1908526_agepro-12co",
@@ -85,7 +87,8 @@
     "arxiv": "2506.10735",
     "bibcode": "2025ApJ...989....4A"
    },
-   "epoch": "2022"
+   "epoch": "2022",
+   "content": "line"
   },
   {
    "image_id": "2mass-j16090075-1908526_agepro-13co",
@@ -107,7 +110,8 @@
     "arxiv": "2506.10735",
     "bibcode": "2025ApJ...989....4A"
    },
-   "epoch": "2022"
+   "epoch": "2022",
+   "content": "line"
   }
  ],
  "notes": "AGE-PRO Upper Scorpius 10. Substructured disk with shoulder at 20-35 au that resolves into a faint ring at high angular resolution (Vioque et al. 2025).",

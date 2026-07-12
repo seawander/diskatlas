@@ -44,7 +44,8 @@
     "journal": "A&A, in press",
     "arxiv": "2603.01703",
     "bibcode": "2026A&A...709A.269G"
-   }
+   },
+   "content": "continuum"
   }
  ],
  "notes": "SPHERE/IRDIS H-band polarimetric image (program 0111.C-0369, PI Vioque). A very inclined disk with a P.A. of 70 deg is visible; a bright companion is detected 1.6 arcsec SW of the star from the intensity image (Garufi et al. 2026). No SIMBAD parallax; dist_pc from the paper's 0.5-arcsec scale bar (83 au).",

@@ -40,7 +40,8 @@
     "arxiv": "2403.12124",
     "bibcode": "2024A&A...686A.309Z"
    },
-   "epoch": "2016-12-17"
+   "epoch": "2016-12-17",
+   "content": "continuum"
   },
   {
    "type": "disk_scattered",
@@ -61,7 +62,8 @@
     "journal": "ApJL 988, L30",
     "title": "VLT/ERIS Observations of the V960 Mon System: A Dust-embedded Substellar Object Formed by Gravitational Instability?"
    },
-   "epoch": "2024-01-01"
+   "epoch": "2024-01-01",
+   "content": "continuum"
   }
  ],
  "notes": "FUor object in outburst since 2014, with a close (0.2 arcsec) stellar companion; SPHERE polarized-light imaging reveals huge spiral arms extending thousands of au (Zurlo et al. 2024). Detailed treatment, including evidence for planetary-mass clumps, presented in Weber et al. 2023b.",

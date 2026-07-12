@@ -55,7 +55,8 @@
     "arxiv": "2009.08537",
     "bibcode": "2020ApJ...902L...6W"
    },
-   "epoch": "2015"
+   "epoch": "2015",
+   "content": "continuum"
   },
   {
    "image_id": "hip-75056_ifs-y-2015",
@@ -76,7 +77,8 @@
     "arxiv": "2009.08537",
     "bibcode": "2020ApJ...902L...6W"
    },
-   "epoch": "2015-06-19"
+   "epoch": "2015-06-19",
+   "content": "continuum"
   },
   {
    "image_id": "hip-75056_ifs-h-2015",
@@ -97,7 +99,8 @@
     "arxiv": "2009.08537",
     "bibcode": "2020ApJ...902L...6W"
    },
-   "epoch": "2015-06-19"
+   "epoch": "2015-06-19",
+   "content": "continuum"
   },
   {
    "image_id": "hip-75056_irdis-k1-2015",
@@ -118,7 +121,8 @@
     "arxiv": "2009.08537",
     "bibcode": "2020ApJ...902L...6W"
    },
-   "epoch": "2015-06-19"
+   "epoch": "2015-06-19",
+   "content": "continuum"
   },
   {
    "image_id": "hip-75056_irdis-k2-2015",
@@ -139,7 +143,8 @@
     "arxiv": "2009.08537",
     "bibcode": "2020ApJ...902L...6W"
    },
-   "epoch": "2015-06-19"
+   "epoch": "2015-06-19",
+   "content": "continuum"
   },
   {
    "image_id": "hip-75056_ifs-y-2019",
@@ -160,7 +165,8 @@
     "arxiv": "2009.08537",
     "bibcode": "2020ApJ...902L...6W"
    },
-   "epoch": "2019-06-29"
+   "epoch": "2019-06-29",
+   "content": "continuum"
   },
   {
    "image_id": "hip-75056_ifs-j-2019",
@@ -181,7 +187,8 @@
     "arxiv": "2009.08537",
     "bibcode": "2020ApJ...902L...6W"
    },
-   "epoch": "2019-06-29"
+   "epoch": "2019-06-29",
+   "content": "continuum"
   },
   {
    "image_id": "hip-75056_ifs-h-2019",
@@ -202,7 +209,8 @@
     "arxiv": "2009.08537",
     "bibcode": "2020ApJ...902L...6W"
    },
-   "epoch": "2019-06-29"
+   "epoch": "2019-06-29",
+   "content": "continuum"
   },
   {
    "image_id": "hip-75056_irdis-k1-2019",
@@ -223,7 +231,8 @@
     "arxiv": "2009.08537",
     "bibcode": "2020ApJ...902L...6W"
    },
-   "epoch": "2019-06-29"
+   "epoch": "2019-06-29",
+   "content": "continuum"
   },
   {
    "image_id": "hip-75056_irdis-k2-2019",
@@ -244,7 +253,8 @@
     "arxiv": "2009.08537",
     "bibcode": "2020ApJ...902L...6W"
    },
-   "epoch": "2019-06-29"
+   "epoch": "2019-06-29",
+   "content": "continuum"
   }
  ],
  "notes": "HIP 75056 Ab was discovered with VLT/SPHERE (IRDIS K1K2 + IFS YJH) as part of the Scorpion Planet Survey (Wagner+2020); the ~12 Myr old A2V primary lies in Upper Centaurus-Lupus (Sco-Cen). Mass ~20-30 Mjup, consistent with the low-mass end of disk-instability formation. Hierarchical triple with a wide (~650 au) low-mass stellar companion HIP 75056 B.",

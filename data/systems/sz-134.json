@@ -42,7 +42,8 @@
     "journal": "A&A, in press",
     "arxiv": "2603.01703",
     "bibcode": "2026A&A...709A.269G"
-   }
+   },
+   "content": "continuum"
   }
  ],
  "notes": "SPHERE/IRDIS H-band polarimetric image (DESTINYS survey). Disk only marginally detected around the coronagraph, similar to Sz 72, likely a deviation from centro-symmetric scattering induced by a very inclined disk (Garufi et al. 2026).",

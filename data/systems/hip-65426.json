@@ -44,7 +44,8 @@
    },
    "image_id": "hip-65426_sphere2017",
    "file": "images/hip-65426/hip-65426_sphere2017.png",
-   "epoch": "2016-2017"
+   "epoch": "2016-2017",
+   "content": "continuum"
   },
   {
    "image_id": "hip-65426_jwst2023-f250m",
@@ -65,7 +66,8 @@
     "bibcode": "2023ApJ...951L..20C"
    },
    "file": "images/hip-65426/hip-65426_jwst2023-f250m.png",
-   "epoch": "2022"
+   "epoch": "2022",
+   "content": "continuum"
   },
   {
    "image_id": "hip-65426_jwst2023-f300m",
@@ -86,7 +88,8 @@
     "bibcode": "2023ApJ...951L..20C"
    },
    "file": "images/hip-65426/hip-65426_jwst2023-f300m.png",
-   "epoch": "2022"
+   "epoch": "2022",
+   "content": "continuum"
   },
   {
    "image_id": "hip-65426_jwst2023-f356w",
@@ -107,7 +110,8 @@
     "bibcode": "2023ApJ...951L..20C"
    },
    "file": "images/hip-65426/hip-65426_jwst2023-f356w.png",
-   "epoch": "2022"
+   "epoch": "2022",
+   "content": "continuum"
   },
   {
    "image_id": "hip-65426_jwst2023-f410m",
@@ -128,7 +132,8 @@
     "bibcode": "2023ApJ...951L..20C"
    },
    "file": "images/hip-65426/hip-65426_jwst2023-f410m.png",
-   "epoch": "2022"
+   "epoch": "2022",
+   "content": "continuum"
   },
   {
    "image_id": "hip-65426_jwst2023-f444w",
@@ -149,7 +154,8 @@
     "bibcode": "2023ApJ...951L..20C"
    },
    "file": "images/hip-65426/hip-65426_jwst2023-f444w.png",
-   "epoch": "2022"
+   "epoch": "2022",
+   "content": "continuum"
   },
   {
    "image_id": "hip-65426_jwst2023-f1550c",
@@ -170,7 +176,8 @@
     "bibcode": "2023ApJ...951L..20C"
    },
    "file": "images/hip-65426/hip-65426_jwst2023-f1550c.png",
-   "epoch": "2022"
+   "epoch": "2022",
+   "content": "continuum"
   },
   {
    "type": "planet",
@@ -191,7 +198,8 @@
     "arxiv": "2208.14990",
     "bibcode": "2023ApJ...951L..20C"
    },
-   "epoch": "2022"
+   "epoch": "2022",
+   "content": "continuum"
   },
   {
    "image_id": "hip-65426_naco2019-lp",
@@ -212,7 +220,8 @@
     "bibcode": "2019A&A...622A..80C"
    },
    "file": "images/hip-65426/hip-65426_naco2019-lp.png",
-   "epoch": "2017-05-18"
+   "epoch": "2017-05-18",
+   "content": "continuum"
   },
   {
    "image_id": "hip-65426_naco2019-mp",
@@ -233,7 +242,8 @@
     "bibcode": "2019A&A...622A..80C"
    },
    "file": "images/hip-65426/hip-65426_naco2019-mp.png",
-   "epoch": "2017-05-19"
+   "epoch": "2017-05-19",
+   "content": "continuum"
   },
   {
    "image_id": "hip-65426_sphere2017-ifs-yj",
@@ -255,7 +265,8 @@
     "bibcode": "2017A&A...605L...9C"
    },
    "file": "images/hip-65426/hip-65426_sphere2017-ifs-yj.png",
-   "epoch": "2017-02-07"
+   "epoch": "2017-02-07",
+   "content": "continuum"
   }
  ],
  "notes": null,

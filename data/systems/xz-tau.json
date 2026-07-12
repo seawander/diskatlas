@@ -32,7 +32,8 @@
     "arxiv": "2403.02158",
     "bibcode": "2024A&A...685A..53G"
    },
-   "epoch": "2017-10-12"
+   "epoch": "2017-10-12",
+   "content": "continuum"
   },
   {
    "image_id": "xz-tau_alma2016",
@@ -53,7 +54,8 @@
     "arxiv": "1606.03118",
     "bibcode": "2016ApJ...825L..10O"
    },
-   "epoch": "2014 Oct 14"
+   "epoch": "2014 Oct 14",
+   "content": "continuum"
   },
   {
    "image_id": "xz-tau_zurlo2024",
@@ -74,7 +76,8 @@
     "bibcode": "2024A&A...686A.309Z"
    },
    "file": "images/xz-tau/xz-tau_zurlo2024.png",
-   "epoch": "2017-10-13"
+   "epoch": "2017-10-13",
+   "content": "continuum"
   }
  ],
  "notes": "AUTO-CREATED from staging - fill metadata & coords",

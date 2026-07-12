@@ -34,7 +34,8 @@
     "arxiv": "2004.13722",
     "bibcode": "2020AJ....160...24E"
    },
-   "epoch": "2015-08-31"
+   "epoch": "2015-08-31",
+   "content": "continuum"
   },
   {
    "type": "disk_mm",
@@ -55,7 +56,8 @@
     "arxiv": "2501.09058",
     "bibcode": "2025A&A...693A.151M"
    },
-   "epoch": "2018"
+   "epoch": "2018",
+   "content": "continuum"
   },
   {
    "type": "disk_scattered",
@@ -76,7 +78,8 @@
     "arxiv": "2302.04273",
     "bibcode": "2023A&A...672A.114R"
    },
-   "epoch": "2006-05-27"
+   "epoch": "2006-05-27",
+   "content": "continuum"
   },
   {
    "type": "disk_scattered",
@@ -97,7 +100,8 @@
     "arxiv": "2512.03128",
     "bibcode": "2025A&A...704A..21E"
    },
-   "epoch": "2018-2022"
+   "epoch": "2018-2022",
+   "content": "continuum"
   },
   {
    "type": "disk_scattered",
@@ -118,7 +122,8 @@
     "arxiv": "2302.04273",
     "bibcode": "2023A&A...672A.114R"
    },
-   "epoch": "2014-07-19"
+   "epoch": "2014-07-19",
+   "content": "continuum"
   },
   {
    "image_id": "hd-191089_alice-f110w",
@@ -140,7 +145,8 @@
     "bibcode": "2018AJ....155..179H"
    },
    "hires_url": "https://archive.stsci.edu/prepds/alice/",
-   "epoch": "2006-05-27"
+   "epoch": "2006-05-27",
+   "content": "continuum"
   },
   {
    "image_id": "hd-191089_gpi-crotts24",
@@ -161,7 +167,8 @@
     "arxiv": "2311.14599",
     "bibcode": "2024ApJ...961..245C"
    },
-   "epoch": "2015-09-01"
+   "epoch": "2015-09-01",
+   "content": "continuum"
   },
   {
    "image_id": "hd-191089_trecs2011",
@@ -182,7 +189,8 @@
     "bibcode": "2011MNRAS.410....2C"
    },
    "file": "images/hd-191089/hd-191089_trecs2011.png",
-   "epoch": "2009"
+   "epoch": "2009",
+   "content": "continuum"
   },
   {
    "type": "disk_scattered",
@@ -203,7 +211,8 @@
     "journal": "ApJ 882, 64",
     "title": "An Exo-Kuiper Belt with an Extended Halo around HD 191089 in Scattered Light"
    },
-   "epoch": "2014"
+   "epoch": "2014",
+   "content": "continuum"
   },
   {
    "type": "disk_scattered",
@@ -224,7 +233,8 @@
     "journal": "ApJ 882, 64",
     "title": "An Exo-Kuiper Belt with an Extended Halo around HD 191089 in Scattered Light"
    },
-   "epoch": "2006 May 27"
+   "epoch": "2006 May 27",
+   "content": "continuum"
   },
   {
    "type": "disk_scattered",
@@ -245,7 +255,8 @@
     "journal": "ApJ 882, 64",
     "title": "An Exo-Kuiper Belt with an Extended Halo around HD 191089 in Scattered Light"
    },
-   "epoch": "2015 Sep 1"
+   "epoch": "2015 Sep 1",
+   "content": "continuum"
   },
   {
    "image_id": "hd-191089_dpol24-qphi",
@@ -266,7 +277,8 @@
     "arxiv": "2406.02682",
     "bibcode": "2024A&A...688A..42O"
    },
-   "epoch": "2021-2022"
+   "epoch": "2021-2022",
+   "content": "continuum"
   },
   {
    "image_id": "hd-191089_scuba2-850um-sons",
@@ -287,7 +299,8 @@
     "arxiv": "1706.01218",
     "bibcode": "2017MNRAS.470.3606H"
    },
-   "epoch": "2012-2015"
+   "epoch": "2012-2015",
+   "content": "continuum"
   }
  ],
  "notes": null,

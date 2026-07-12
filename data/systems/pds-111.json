@@ -34,7 +34,8 @@
     "arxiv": "2512.00157",
     "bibcode": "2026A&A...705A.238V"
    },
-   "epoch": null
+   "epoch": "2022-08-21",
+   "content": "continuum"
   },
   {
    "image_id": "pds-111_alma-kurtovic26",
@@ -55,7 +56,8 @@
     "arxiv": "2605.30023",
     "bibcode": "2026arXiv260530023K"
    },
-   "epoch": null
+   "epoch": "2022-08-21",
+   "content": "continuum"
   }
  ],
  "notes": "Transition disk with an inner dust cavity; ALMA continuum from the Vioque et al. 2026 gallery (literature-compiled). Added 2026-07-11.",

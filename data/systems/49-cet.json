@@ -36,7 +36,8 @@
     "arxiv": "2501.09058",
     "bibcode": "2025A&A...693A.151M"
    },
-   "epoch": "2017-2019"
+   "epoch": "2017-2019",
+   "content": "continuum"
   },
   {
    "type": "disk_mm",
@@ -57,7 +58,8 @@
     "arxiv": "2601.11708",
     "bibcode": "2026A&A...705A.195M"
    },
-   "epoch": "2018-2023"
+   "epoch": "2018-2023",
+   "content": "continuum"
   },
   {
    "type": "disk_scattered",
@@ -78,7 +80,8 @@
     "arxiv": "2302.04273",
     "bibcode": "2023A&A...672A.114R"
    },
-   "epoch": "1998-2004"
+   "epoch": "1998-2004",
+   "content": "continuum"
   },
   {
    "type": "disk_scattered",
@@ -99,7 +102,8 @@
     "arxiv": "2512.03128",
     "bibcode": "2025A&A...704A..21E"
    },
-   "epoch": "2015-2018"
+   "epoch": "2015-2018",
+   "content": "continuum"
   },
   {
    "type": "disk_scattered",
@@ -120,7 +124,8 @@
     "arxiv": "2302.04273",
     "bibcode": "2023A&A...672A.114R"
    },
-   "epoch": "2010-2018"
+   "epoch": "2010-2018",
+   "content": "continuum"
   },
   {
    "image_id": "49-cet_alma2017",
@@ -141,7 +146,8 @@
     "arxiv": "1704.01972",
     "bibcode": "2017ApJ...839...86H"
    },
-   "epoch": "2013 Nov 4"
+   "epoch": "2013 Nov 4",
+   "content": "continuum"
   },
   {
    "image_id": "49-cet_alice-f110w",
@@ -163,7 +169,8 @@
     "bibcode": "2018AJ....155..179H"
    },
    "hires_url": "https://archive.stsci.edu/prepds/alice/",
-   "epoch": "1998-2004"
+   "epoch": "1998-2004",
+   "content": "continuum"
   },
   {
    "image_id": "49-cet_nicmos-choquet2017",
@@ -184,7 +191,8 @@
     "bibcode": "2017ApJ...834L..12C"
    },
    "file": "images/49-cet/49-cet_nicmos-choquet2017.png",
-   "epoch": "1998-2004"
+   "epoch": "1998-2004",
+   "content": "continuum"
   },
   {
    "image_id": "49-cet_sphere-choquet2017",
@@ -205,7 +213,8 @@
     "bibcode": "2017ApJ...834L..12C"
    },
    "file": "images/49-cet/49-cet_sphere-choquet2017.png",
-   "epoch": "2015"
+   "epoch": "2015",
+   "content": "continuum"
   },
   {
    "image_id": "49-cet_alma-co2019",
@@ -226,7 +235,8 @@
     "bibcode": "2019ApJ...884..108M"
    },
    "file": "images/49-cet/49-cet_alma-co2019.png",
-   "epoch": "2017"
+   "epoch": "2017",
+   "content": "line"
   },
   {
    "image_id": "49-cet_scuba2-450um-sons",
@@ -247,7 +257,8 @@
     "arxiv": "1706.01218",
     "bibcode": "2017MNRAS.470.3606H"
    },
-   "epoch": "2012-2015"
+   "epoch": "2012-2015",
+   "content": "continuum"
   }
  ],
  "notes": null,

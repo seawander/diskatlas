@@ -34,7 +34,8 @@
     "bibcode": "2023MNRAS.524.4168A"
    },
    "file": "images/ru-cen/ru-cen_sphere_irdis.png",
-   "epoch": "2019-01-12"
+   "epoch": "2019-01-12",
+   "content": "continuum"
   }
  ],
  "notes": "Post-AGB binary whose circumbinary disc was resolved with SPHERE/IRDIS polarimetry (Andrych+2023).",

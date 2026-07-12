@@ -79,7 +79,8 @@
     "arxiv": "2206.05815",
     "bibcode": "2022AJ....164..109R"
    },
-   "epoch": "2017-02-20"
+   "epoch": "2017-02-20",
+   "content": "continuum"
   },
   {
    "type": "disk_mm",
@@ -100,7 +101,8 @@
    },
    "image_id": "hd-100546_alma2014",
    "file": "images/hd-100546/hd-100546_alma2014.png",
-   "epoch": "2012 Nov 18"
+   "epoch": "2012 Nov 18",
+   "content": "line"
   },
   {
    "type": "disk_scattered",
@@ -121,7 +123,8 @@
    },
    "image_id": "hd-100546_acs2007",
    "file": "images/hd-100546/hd-100546_acs2007.png",
-   "epoch": "2003-03-26"
+   "epoch": "2003-03-26",
+   "content": "continuum"
   },
   {
    "type": "disk_scattered",
@@ -142,7 +145,8 @@
     "arxiv": "2004.13722",
     "bibcode": "2020AJ....160...24E"
    },
-   "epoch": "2013-12-12"
+   "epoch": "2013-12-12",
+   "content": "continuum"
   },
   {
    "type": "disk_scattered",
@@ -163,7 +167,8 @@
     "arxiv": "2310.08589",
     "bibcode": "2023A&A...680A.114R"
    },
-   "epoch": "2020-12-22"
+   "epoch": "2020-12-22",
+   "content": "continuum"
   },
   {
    "type": "disk_scattered",
@@ -184,7 +189,8 @@
    },
    "image_id": "hd-100546_nicmos2001",
    "file": "images/hd-100546/hd-100546_nicmos2001.png",
-   "epoch": "1998-11-09"
+   "epoch": "1998-11-09",
+   "content": "continuum"
   },
   {
    "type": "disk_scattered",
@@ -205,7 +211,8 @@
     "arxiv": "2404.02222",
     "bibcode": "2024A&A...684A..73D"
    },
-   "epoch": "2004-06-14"
+   "epoch": "2004-06-14",
+   "content": "continuum"
   },
   {
    "image_id": "hd-100546_alice-f110w",
@@ -227,7 +234,8 @@
     "bibcode": "2018AJ....155..179H"
    },
    "hires_url": "https://archive.stsci.edu/prepds/alice/",
-   "epoch": "2007-2008"
+   "epoch": "2007-2008",
+   "content": "continuum"
   },
   {
    "image_id": "hd-100546_alma2020",
@@ -248,7 +256,8 @@
     "arxiv": "1906.06305",
     "bibcode": "2020ApJ...889L..24P"
    },
-   "epoch": "2017 Sep"
+   "epoch": "2017 Sep",
+   "content": "continuum"
   },
   {
    "image_id": "hd-100546_sphere-ks-qphi",
@@ -269,7 +278,8 @@
     "bibcode": "2023A&A...680A.114R"
    },
    "file": "images/hd-100546/hd-100546_sphere-ks-qphi.png",
-   "epoch": "2020-12-22"
+   "epoch": "2020-12-22",
+   "content": "continuum"
   },
   {
    "image_id": "hd-100546_sphere-rdi-xie22",
@@ -290,7 +300,8 @@
     "bibcode": "2022A&A...666A..32X"
    },
    "file": "images/hd-100546/hd-100546_sphere-rdi-xie22.png",
-   "epoch": "2016-2019"
+   "epoch": "2016-2019",
+   "content": "continuum"
   },
   {
    "image_id": "hd-100546_mirac2003",
@@ -310,7 +321,8 @@
     "arxiv": "astro-ph/0310564",
     "bibcode": "2003ApJ...598L.111L"
    },
-   "file": "images/hd-100546/hd-100546_mirac2003.png"
+   "file": "images/hd-100546/hd-100546_mirac2003.png",
+   "content": "continuum"
   },
   {
    "image_id": "hd-100546_atca2015",
@@ -330,7 +342,8 @@
     "arxiv": "1506.01147",
     "bibcode": "2015MNRAS.453..414W"
    },
-   "file": "images/hd-100546/hd-100546_atca2015.png"
+   "file": "images/hd-100546/hd-100546_atca2015.png",
+   "content": "continuum"
   },
   {
    "image_id": "hd-100546_visir2021",
@@ -352,7 +365,8 @@
    },
    "file": "images/hd-100546/hd-100546_visir2021.png",
    "note": "HD 100546 is 'clearly resolved in all bands' per the paper -- the most robustly resolved disk of the six targets.",
-   "epoch": "2018 Apr"
+   "epoch": "2018 Apr",
+   "content": "continuum"
   },
   {
    "image_id": "hd-100546_eris2025",
@@ -373,7 +387,8 @@
     "bibcode": "2025A&A...698A..52M"
    },
    "file": "images/hd-100546/hd-100546_eris2025.png",
-   "epoch": "2023 May 28"
+   "epoch": "2023 May 28",
+   "content": "continuum"
   },
   {
    "image_id": "hd-100546_nici2014",
@@ -394,7 +409,8 @@
     "bibcode": "2014ApJ...796L..30C"
    },
    "file": "images/hd-100546/hd-100546_nici2014.png",
-   "epoch": "2012 Mar 31"
+   "epoch": "2012 Mar 31",
+   "content": "continuum"
   },
   {
    "type": "disk_scattered",
@@ -415,7 +431,8 @@
    },
    "image_id": "hd-100546_gpi-currie2015",
    "file": "images/hd-100546/hd-100546_gpi-currie2015.png",
-   "epoch": "2015 Jan 18"
+   "epoch": "2015 Jan 18",
+   "content": "continuum"
   },
   {
    "image_id": "hd-100546_stis-grady2005",
@@ -436,7 +453,8 @@
     "bibcode": "2005ApJ...630..958G"
    },
    "file": "images/hd-100546/hd-100546_stis-grady2005.png",
-   "epoch": "2000-2002"
+   "epoch": "2000-2002",
+   "content": "continuum"
   },
   {
    "image_id": "hd-100546_nicmos-go11155-1um",
@@ -458,7 +476,8 @@
    },
    "file": "images/hd-100546/hd-100546_nicmos-go11155-1um.png",
    "hires_url": "https://www.stsci.edu/~mperrin/pdfs/poster_2009AAS_NICPOL_HAEBES.pdf",
-   "epoch": "2007-2008"
+   "epoch": "2007-2008",
+   "content": "continuum"
   },
   {
    "image_id": "hd-100546_nicmos-go11155-pol2um",
@@ -480,7 +499,8 @@
    },
    "file": "images/hd-100546/hd-100546_nicmos-go11155-pol2um.png",
    "hires_url": "https://www.stsci.edu/~mperrin/pdfs/poster_2009AAS_NICPOL_HAEBES.pdf",
-   "epoch": "1998-2008"
+   "epoch": "1998-2008",
+   "content": "continuum"
   },
   {
    "image_id": "hd-100546_stis-grady2001",
@@ -501,7 +521,8 @@
     "bibcode": "2001AJ....122.3396G"
    },
    "file": "images/hd-100546/hd-100546_stis-grady2001.png",
-   "epoch": "2000-2001"
+   "epoch": "2000-2001",
+   "content": "continuum"
   },
   {
    "type": "disk_scattered",
@@ -522,7 +543,8 @@
     "journal": "AJ 153, 264",
     "title": "Complex Spiral Structure in the HD 100546 Transitional Disk as Revealed by GPI and MagAO"
    },
-   "epoch": "2016-01-28"
+   "epoch": "2016-01-28",
+   "content": "continuum"
   },
   {
    "image_id": "hd-100546_magao-halpha-2014",
@@ -544,7 +566,8 @@
     "bibcode": "2017AJ....153..264F"
    },
    "file": "images/hd-100546/hd-100546_magao-halpha-2014.png",
-   "epoch": "2014-04-12"
+   "epoch": "2014-04-12",
+   "content": "continuum"
   },
   {
    "image_id": "hd-100546_magao-halpha-2015",
@@ -566,7 +589,8 @@
     "bibcode": "2017AJ....153..264F"
    },
    "file": "images/hd-100546/hd-100546_magao-halpha-2015.png",
-   "epoch": "2015-05-15"
+   "epoch": "2015-05-15",
+   "content": "continuum"
   },
   {
    "image_id": "hd-100546_naco-h-pperp-2006",
@@ -587,7 +611,8 @@
     "arxiv": "1405.6120",
     "bibcode": "2014ApJ...790...56A"
    },
-   "epoch": "2006-04-07"
+   "epoch": "2006-04-07",
+   "content": "continuum"
   },
   {
    "image_id": "hd-100546_naco-ks-pperp-2006",
@@ -608,7 +633,8 @@
     "arxiv": "1405.6120",
     "bibcode": "2014ApJ...790...56A"
    },
-   "epoch": "2006-04-07"
+   "epoch": "2006-04-07",
+   "content": "continuum"
   },
   {
    "image_id": "hd-100546_naco-h-pperp-2013",
@@ -629,7 +655,8 @@
     "arxiv": "1405.6120",
     "bibcode": "2014ApJ...790...56A"
    },
-   "epoch": "2013-03-31"
+   "epoch": "2013-03-31",
+   "content": "continuum"
   },
   {
    "image_id": "hd-100546_naco-ks-pperp-2013",
@@ -650,7 +677,8 @@
     "arxiv": "1405.6120",
     "bibcode": "2014ApJ...790...56A"
    },
-   "epoch": "2013-03-31"
+   "epoch": "2013-03-31",
+   "content": "continuum"
   },
   {
    "image_id": "hd-100546_naco-lp-pperp-2013",
@@ -671,7 +699,8 @@
     "arxiv": "1405.6120",
     "bibcode": "2014ApJ...790...56A"
    },
-   "epoch": "2013-03-31"
+   "epoch": "2013-03-31",
+   "content": "continuum"
   },
   {
    "image_id": "hd-100546_nici-ks-loci-boccaletti13",
@@ -692,7 +721,8 @@
     "arxiv": "1310.7092",
     "bibcode": "2013A&A...560A..20B"
    },
-   "epoch": "2010-03-06"
+   "epoch": "2010-03-06",
+   "content": "continuum"
   },
   {
    "image_id": "hd-100546_alma-vioque26",
@@ -713,7 +743,8 @@
     "arxiv": "2512.00157",
     "bibcode": "2026A&A...705A.238V"
    },
-   "epoch": null
+   "epoch": "2016-2019",
+   "content": "continuum"
   },
   {
    "image_id": "hd-100546_alma-kurtovic26",
@@ -734,7 +765,8 @@
     "arxiv": "2605.30023",
     "bibcode": "2026arXiv260530023K"
    },
-   "epoch": null
+   "epoch": "2016-2019",
+   "content": "continuum"
   }
  ],
  "notes": null,

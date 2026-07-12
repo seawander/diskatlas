@@ -46,7 +46,8 @@
     "arxiv": "2501.09058",
     "bibcode": "2025A&A...693A.151M"
    },
-   "epoch": "2015"
+   "epoch": "2015",
+   "content": "continuum"
   },
   {
    "type": "disk_mm",
@@ -67,7 +68,8 @@
    },
    "image_id": "hd-95086_alma2017",
    "file": "images/hd-95086/hd-95086_alma2017.png",
-   "epoch": "2015"
+   "epoch": "2015",
+   "content": "continuum"
   },
   {
    "type": "planet",
@@ -88,7 +90,8 @@
    },
    "image_id": "hd-95086_naco2013",
    "file": "images/hd-95086/hd-95086_naco2013.png",
-   "epoch": "2012 Jan 11"
+   "epoch": "2012 Jan 11",
+   "content": "continuum"
   },
   {
    "type": "disk_mm",
@@ -109,7 +112,8 @@
     "arxiv": "2601.11708",
     "bibcode": "2026A&A...705A.195M"
    },
-   "epoch": "2023-01-08"
+   "epoch": "2023-01-08",
+   "content": "continuum"
   },
   {
    "type": "planet",
@@ -130,7 +134,8 @@
    },
    "image_id": "hd-95086_naco2013b",
    "file": "images/hd-95086/hd-95086_naco2013b.png",
-   "epoch": "2013 Jun"
+   "epoch": "2013 Jun",
+   "content": "continuum"
   },
   {
    "image_id": "hd-95086_sphere2018",
@@ -151,7 +156,8 @@
     "arxiv": "1801.05850",
     "bibcode": "2018A&A...617A..76C"
    },
-   "epoch": "2015-2017"
+   "epoch": "2015-2017",
+   "content": "continuum"
   },
   {
    "image_id": "hd-95086_gpi-hband2014",
@@ -172,7 +178,8 @@
     "arxiv": "1404.4635",
     "bibcode": "2014A&A...565L...4G"
    },
-   "epoch": "2013"
+   "epoch": "2013",
+   "content": "continuum"
   },
   {
    "image_id": "hd-95086_gpi-k1band2014",
@@ -193,7 +200,8 @@
     "arxiv": "1404.4635",
     "bibcode": "2014A&A...565L...4G"
    },
-   "epoch": "2013"
+   "epoch": "2013",
+   "content": "continuum"
   },
   {
    "image_id": "hd-95086_miri2024-f1065c",
@@ -214,7 +222,8 @@
     "bibcode": "2024A&A...690A.316M"
    },
    "file": "images/hd-95086/hd-95086_miri2024-f1065c.png",
-   "epoch": "2023-03-16"
+   "epoch": "2023-03-16",
+   "content": "continuum"
   },
   {
    "image_id": "hd-95086_miri2024-f1140c",
@@ -235,7 +244,8 @@
     "bibcode": "2024A&A...690A.316M"
    },
    "file": "images/hd-95086/hd-95086_miri2024-f1140c.png",
-   "epoch": "2023-03-16"
+   "epoch": "2023-03-16",
+   "content": "continuum"
   },
   {
    "image_id": "hd-95086_miri2024-f2300c",
@@ -256,7 +266,8 @@
     "bibcode": "2024A&A...690A.316M"
    },
    "file": "images/hd-95086/hd-95086_miri2024-f2300c.png",
-   "epoch": "2023-03-16"
+   "epoch": "2023-03-16",
+   "content": "continuum"
   },
   {
    "image_id": "hd-95086_herschel-pacs2015",
@@ -277,7 +288,8 @@
     "bibcode": "2015ApJ...799..146S"
    },
    "file": "images/hd-95086/hd-95086_herschel-pacs2015.png",
-   "epoch": "2011-08-01"
+   "epoch": "2011-08-01",
+   "content": "continuum"
   }
  ],
  "notes": "Debris + imaged planet b (Rameau+2013).",

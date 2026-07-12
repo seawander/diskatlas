@@ -44,7 +44,8 @@
     "arxiv": "2603.01703",
     "bibcode": "2026A&A...709A.269G"
    },
-   "epoch": "2017-06-18"
+   "epoch": "2017-06-18",
+   "content": "continuum"
   },
   {
    "image_id": "sz-111_alma-vioque26",
@@ -65,7 +66,8 @@
     "arxiv": "2512.00157",
     "bibcode": "2026A&A...705A.238V"
    },
-   "epoch": null
+   "epoch": "2019",
+   "content": "continuum"
   },
   {
    "image_id": "sz-111_alma-kurtovic26",
@@ -86,7 +88,8 @@
     "arxiv": "2605.30023",
     "bibcode": "2026arXiv260530023K"
    },
-   "epoch": null
+   "epoch": "2019-2023",
+   "content": "continuum"
   }
  ],
  "notes": "SPHERE/IRDIS H-band polarimetric image, from program 099.C-0891 (PI Benisty). Shows a relatively inclined disk with a P.A. of 45 deg; disk brightness decreases inward of 0.2 arcsec down to the coronagraph, indicating a possible cavity of ~30 au radius (Garufi et al. 2026).",

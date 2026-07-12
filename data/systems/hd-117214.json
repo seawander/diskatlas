@@ -34,7 +34,8 @@
     "arxiv": "2004.13722",
     "bibcode": "2020AJ....160...24E"
    },
-   "epoch": "2018-03-11"
+   "epoch": "2018-03-11",
+   "content": "continuum"
   },
   {
    "type": "disk_mm",
@@ -55,7 +56,8 @@
     "arxiv": "2501.09058",
     "bibcode": "2025A&A...693A.151M"
    },
-   "epoch": "2018-05-27"
+   "epoch": "2018-05-27",
+   "content": "continuum"
   },
   {
    "type": "disk_scattered",
@@ -75,7 +77,8 @@
     "journal": "A&A 704, A21",
     "arxiv": "2512.03128",
     "bibcode": "2025A&A...704A..21E"
-   }
+   },
+   "content": "continuum"
   },
   {
    "image_id": "hd-117214_spherez2020",
@@ -96,7 +99,8 @@
     "arxiv": "1911.04793",
     "bibcode": "2020A&A...635A..19E"
    },
-   "epoch": "2018 Feb 28"
+   "epoch": "2018 Feb 28",
+   "content": "continuum"
   }
  ],
  "notes": null,

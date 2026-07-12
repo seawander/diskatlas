@@ -46,7 +46,8 @@
     "arxiv": "2403.02149",
     "bibcode": "2024A&A...685A..52G"
    },
-   "epoch": "2017-03-12"
+   "epoch": "2017-03-12",
+   "content": "continuum"
   },
   {
    "image_id": "ww-cha_gravity2021",
@@ -67,7 +68,8 @@
     "bibcode": "2021A&A...648A..37G"
    },
    "file": "images/ww-cha/ww-cha_gravity2021.png",
-   "epoch": "2020"
+   "epoch": "2020",
+   "content": "continuum"
   },
   {
    "image_id": "ww-cha_alma2021",
@@ -88,7 +90,8 @@
     "bibcode": "2021ApJ...909..212K"
    },
    "file": "images/ww-cha/ww-cha_alma2021.png",
-   "epoch": "2017-2018"
+   "epoch": "2017-2018",
+   "content": "continuum"
   },
   {
    "image_id": "ww-cha_alma-kurtovic26",
@@ -109,7 +112,8 @@
     "arxiv": "2605.30023",
     "bibcode": "2026arXiv260530023K"
    },
-   "epoch": null
+   "epoch": "2017-2023",
+   "content": "continuum"
   },
   {
    "image_id": "ww-cha_wfpc2-f673n-2009",
@@ -131,7 +135,8 @@
     "arxiv": "1205.2727",
     "bibcode": "2012AJ....144...83R"
    },
-   "epoch": "2009"
+   "epoch": "2009",
+   "content": "line"
   }
  ],
  "notes": "AUTO-CREATED from staging - fill metadata & coords",

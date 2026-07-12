@@ -39,7 +39,8 @@
     "arxiv": "2604.11247",
     "bibcode": "2026A&A...710A.140M"
    },
-   "epoch": "2023-06-07"
+   "epoch": "2023-06-07",
+   "content": "continuum"
   },
   {
    "image_id": "oph-162305_alma-agepro",
@@ -60,7 +61,8 @@
     "bibcode": "2025ApJ...989....2R"
    },
    "file": "images/oph-162305/oph-162305_alma-agepro.png",
-   "epoch": "2022"
+   "epoch": "2022",
+   "content": "continuum"
   },
   {
    "image_id": "oph-162305_agepro-12co",
@@ -82,7 +84,8 @@
     "arxiv": "2506.10731",
     "bibcode": "2025ApJ...989....2R"
    },
-   "epoch": "2022"
+   "epoch": "2022",
+   "content": "line"
   },
   {
    "image_id": "oph-162305_agepro-13co",
@@ -104,7 +107,8 @@
     "arxiv": "2506.10731",
     "bibcode": "2025ApJ...989....2R"
    },
-   "epoch": "2022"
+   "epoch": "2022",
+   "content": "line"
   }
  ],
  "notes": "Added 2026-07-06 (Martinien+2026 ALMA highly-inclined disk). Coords pending SIMBAD.",

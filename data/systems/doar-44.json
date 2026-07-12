@@ -32,7 +32,8 @@
     "arxiv": "1803.10882",
     "bibcode": "2018ApJ...863...44A"
    },
-   "epoch": "2016-03-14"
+   "epoch": "2016-03-14",
+   "content": "continuum"
   },
   {
    "type": "disk_mm",
@@ -53,7 +54,8 @@
     "arxiv": "2012.00189",
     "bibcode": "2021MNRAS.501.2934C"
    },
-   "epoch": "2019"
+   "epoch": "2019",
+   "content": "continuum"
   },
   {
    "type": "disk_scattered",
@@ -74,7 +76,8 @@
     "journal": "MNRAS 477, 5104",
     "title": "An inner warp in the DoAr 44 T Tauri transition disc"
    },
-   "epoch": "2016 Mar 15"
+   "epoch": "2016 Mar 15",
+   "content": "continuum"
   },
   {
    "type": "disk_mm",
@@ -95,7 +98,8 @@
     "journal": "MNRAS 477, 5104",
     "title": "An inner warp in the DoAr 44 T Tauri transition disc"
    },
-   "epoch": "2014 Jul 26"
+   "epoch": "2014 Jul 26",
+   "content": "continuum"
   },
   {
    "image_id": "doar-44_alma-vioque26",
@@ -116,7 +120,8 @@
     "arxiv": "2512.00157",
     "bibcode": "2026A&A...705A.238V"
    },
-   "epoch": null
+   "epoch": "2019-07-11",
+   "content": "continuum"
   },
   {
    "image_id": "doar-44_alma-kurtovic26",
@@ -137,7 +142,8 @@
     "arxiv": "2605.30023",
     "bibcode": "2026arXiv260530023K"
    },
-   "epoch": null
+   "epoch": "2019-07-11",
+   "content": "continuum"
   },
   {
    "image_id": "doar-44_sma880",
@@ -159,7 +165,8 @@
     "arxiv": "0906.0730",
     "bibcode": "2009ApJ...700.1502A"
    },
-   "epoch": "2008"
+   "epoch": "2008",
+   "content": "continuum"
   }
  ],
  "notes": null,

@@ -34,7 +34,8 @@
     "arxiv": "2501.09058",
     "bibcode": "2025A&A...693A.151M"
    },
-   "epoch": "2014-2015"
+   "epoch": "2014-2015",
+   "content": "continuum"
   },
   {
    "type": "disk_scattered",
@@ -55,7 +56,8 @@
    },
    "image_id": "hd-181327_nicmos2006",
    "file": "images/hd-181327/hd-181327_nicmos2006.png",
-   "epoch": "2005-2006"
+   "epoch": "2005-2006",
+   "content": "continuum"
   },
   {
    "type": "disk_scattered",
@@ -76,7 +78,8 @@
     "arxiv": "1406.7303",
     "bibcode": "2014AJ....148...59S"
    },
-   "epoch": "2011"
+   "epoch": "2011",
+   "content": "continuum"
   },
   {
    "type": "disk_scattered",
@@ -97,7 +100,8 @@
     "arxiv": "2302.04273",
     "bibcode": "2023A&A...672A.114R"
    },
-   "epoch": "2005-05-02"
+   "epoch": "2005-05-02",
+   "content": "continuum"
   },
   {
    "type": "disk_scattered",
@@ -118,7 +122,8 @@
     "arxiv": "2512.03128",
     "bibcode": "2025A&A...704A..21E"
    },
-   "epoch": "2017-05-16"
+   "epoch": "2017-05-16",
+   "content": "continuum"
   },
   {
    "type": "disk_scattered",
@@ -139,7 +144,8 @@
     "arxiv": "2302.04273",
     "bibcode": "2023A&A...672A.114R"
    },
-   "epoch": "2011"
+   "epoch": "2011",
+   "content": "continuum"
   },
   {
    "image_id": "hd-181327_alma2016",
@@ -160,7 +166,8 @@
     "arxiv": "1605.05331",
     "bibcode": "2016MNRAS.460.2933M"
    },
-   "epoch": "2014 Mar 10"
+   "epoch": "2014 Mar 10",
+   "content": "continuum"
   },
   {
    "image_id": "hd-181327_alice-f110w",
@@ -182,7 +189,8 @@
     "bibcode": "2018AJ....155..179H"
    },
    "hires_url": "https://archive.stsci.edu/prepds/alice/",
-   "epoch": "2005-05-02"
+   "epoch": "2005-05-02",
+   "content": "continuum"
   },
   {
    "image_id": "hd-181327_jwst-nirspec",
@@ -203,7 +211,8 @@
     "arxiv": "2505.08863",
     "bibcode": "2025Natur.641..608X"
    },
-   "epoch": "2023 Sep 6"
+   "epoch": "2023 Sep 6",
+   "content": "continuum"
   },
   {
    "image_id": "hd-181327_milli2024-qphi",
@@ -224,7 +233,8 @@
     "arxiv": "2312.02000",
     "bibcode": "2024A&A...683A..22M"
    },
-   "epoch": "2017-05-16"
+   "epoch": "2017-05-16",
+   "content": "continuum"
   },
   {
    "image_id": "hd-181327_pacs-70um-lebreton12",
@@ -245,7 +255,8 @@
     "arxiv": "1112.3398",
     "bibcode": "2012A&A...539A..17L"
    },
-   "epoch": "2010-2011"
+   "epoch": "2010-2011",
+   "content": "continuum"
   },
   {
    "image_id": "hd-181327_scuba2-850um-sons",
@@ -266,7 +277,8 @@
     "arxiv": "1706.01218",
     "bibcode": "2017MNRAS.470.3606H"
    },
-   "epoch": "2012-2015"
+   "epoch": "2012-2015",
+   "content": "continuum"
   }
  ],
  "notes": null,

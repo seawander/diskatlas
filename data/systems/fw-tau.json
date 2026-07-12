@@ -62,7 +62,8 @@
     "arxiv": "1311.7664",
     "bibcode": "2014ApJ...781...20K"
    },
-   "epoch": "2008-12-23"
+   "epoch": "2008-12-23",
+   "content": "continuum"
   }
  ],
  "notes": "The companion originally reported as 'FW Tau b' (Kraus et al. 2014) is now referred to as FW Tau C and has been refuted as a planetary-mass object: ALMA dynamical mass measurements (Wu & Sheehan 2017, arXiv:1708.08122) indicate it is a low-mass star (~0.1 Msun) with an inclined accretion disk, not a planet.",

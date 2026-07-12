@@ -35,7 +35,8 @@
     "arxiv": "1906.10809",
     "bibcode": "2019ApJ...882...49L"
    },
-   "epoch": "2017"
+   "epoch": "2017",
+   "content": "continuum"
   },
   {
    "type": "disk_scattered",
@@ -56,7 +57,8 @@
     "arxiv": "2403.02158",
     "bibcode": "2024A&A...685A..53G"
    },
-   "epoch": "2016-11-18"
+   "epoch": "2016-11-18",
+   "content": "continuum"
   },
   {
    "image_id": "t-tau_hiciao2018",
@@ -76,7 +78,8 @@
     "arxiv": "1805.07726",
     "bibcode": "2018ApJ...861..133Y"
    },
-   "file": "images/t-tau/t-tau_hiciao2018.png"
+   "file": "images/t-tau/t-tau_hiciao2018.png",
+   "content": "continuum"
   },
   {
    "image_id": "t-tau_alma-kurtovic26",
@@ -97,7 +100,8 @@
     "arxiv": "2605.30023",
     "bibcode": "2026arXiv260530023K"
    },
-   "epoch": null
+   "epoch": "2017-2021",
+   "content": "continuum"
   }
  ],
  "notes": "AUTO-CREATED from staging - fill metadata & coords",

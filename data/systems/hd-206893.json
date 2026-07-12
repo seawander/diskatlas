@@ -61,7 +61,8 @@
     "arxiv": "2501.09058",
     "bibcode": "2025A&A...693A.151M"
    },
-   "epoch": "2018"
+   "epoch": "2018",
+   "content": "continuum"
   },
   {
    "type": "disk_mm",
@@ -82,7 +83,8 @@
     "arxiv": "2601.11708",
     "bibcode": "2026A&A...705A.195M"
    },
-   "epoch": "2017-2018"
+   "epoch": "2017-2018",
+   "content": "continuum"
   },
   {
    "image_id": "hd-206893_alma2020",
@@ -103,7 +105,8 @@
     "arxiv": "2010.12582",
     "bibcode": "2020MNRAS.498.1319M"
    },
-   "epoch": "2018"
+   "epoch": "2018",
+   "content": "continuum"
   },
   {
    "image_id": "hd-206893_alma2020-b7",
@@ -124,7 +127,8 @@
     "arxiv": "2010.12582",
     "bibcode": "2020MNRAS.498.1319M"
    },
-   "epoch": "2018"
+   "epoch": "2018",
+   "content": "continuum"
   },
   {
    "image_id": "hd-206893_sphere2017",
@@ -145,7 +149,8 @@
     "bibcode": "2017A&A...597L...2M"
    },
    "file": "images/hd-206893/hd-206893_sphere2017.png",
-   "epoch": "2015"
+   "epoch": "2015",
+   "content": "continuum"
   },
   {
    "image_id": "hd-206893_gpi2016",
@@ -166,7 +171,8 @@
     "bibcode": "2021AJ....161....5W"
    },
    "file": "images/hd-206893/hd-206893_gpi2016.png",
-   "epoch": "2016-10-21"
+   "epoch": "2016-10-21",
+   "content": "continuum"
   },
   {
    "image_id": "hd-206893_scuba2-850um-sons",
@@ -187,7 +193,8 @@
     "arxiv": "1706.01218",
     "bibcode": "2017MNRAS.470.3606H"
    },
-   "epoch": "2012-2015"
+   "epoch": "2012-2015",
+   "content": "continuum"
   },
   {
    "image_id": "hd-206893_naco-lp-milli17",
@@ -209,7 +216,8 @@
     "bibcode": "2017A&A...597L...2M"
    },
    "file": "images/hd-206893/hd-206893_naco-lp-milli17.png",
-   "epoch": "2016-08-08"
+   "epoch": "2016-08-08",
+   "content": "continuum"
   }
  ],
  "notes": null,

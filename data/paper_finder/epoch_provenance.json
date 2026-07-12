@@ -7378,5 +7378,1367 @@
   "source": "tex:body",
   "arxiv": "astro-ph/9908301",
   "snippet": "observations were acquired from 1996 May to 1998 March (C, B, A configurations)"
+ },
+ "2mass-j04124068-2438157_alma-vioque26": {
+  "epoch": "2021-08-27",
+  "source": "archive:alma-code",
+  "arxiv": "2512.00157",
+  "snippet": "proposals ['2019.1.00566.S']"
+ },
+ "2mass-j04124068-2438157_alma-kurtovic26": {
+  "epoch": "2021-08-27",
+  "source": "archive:alma-code",
+  "arxiv": "2605.30023",
+  "snippet": "proposals ['2019.1.00566.S']"
+ },
+ "2mass-j16083070-3828268_alma-vioque26": {
+  "epoch": "2019",
+  "source": "archive:alma-code",
+  "arxiv": "2512.00157",
+  "snippet": "proposals ['2018.1.00689.S', '2018.1.01458.S']"
+ },
+ "2mass-j16083070-3828268_alma-kurtovic26": {
+  "epoch": "2019-2023",
+  "source": "archive:alma-code",
+  "arxiv": "2605.30023",
+  "snippet": "proposals ['2018.1.00689.S', '2018.1.01458.S']"
+ },
+ "2mass-j16090075-1908526_alma-kurtovic26": {
+  "epoch": "2018-2022",
+  "source": "archive:alma-code",
+  "arxiv": "2605.30023",
+  "snippet": "proposals ['2017.1.01167.S', '2021.1.00128.L']"
+ },
+ "2mass-j16120668-3010270_alma-vioque26": {
+  "epoch": "2022-2023",
+  "source": "archive:alma-code",
+  "arxiv": "2512.00157",
+  "snippet": "proposals ['2021.1.00128.L', '2022.1.00646.S']"
+ },
+ "2mass-j16120668-3010270_alma-kurtovic26": {
+  "epoch": "2022-2023",
+  "source": "archive:alma-code",
+  "arxiv": "2605.30023",
+  "snippet": "proposals ['2021.1.00128.L', '2022.1.00646.S']"
+ },
+ "2mass-j16124373-3815031_alma-kurtovic26": {
+  "epoch": "2021-2023",
+  "source": "archive:alma-code",
+  "arxiv": "2605.30023",
+  "snippet": "proposals ['2021.1.00128.L', '2022.1.00154.S']"
+ },
+ "2mass-j16163345-2521505_alma-vioque26": {
+  "epoch": "2022",
+  "source": "archive:alma-code",
+  "arxiv": "2512.00157",
+  "snippet": "proposals ['2021.1.00128.L']"
+ },
+ "2mass-j16163345-2521505_alma-kurtovic26": {
+  "epoch": "2022",
+  "source": "archive:alma-code",
+  "arxiv": "2605.30023",
+  "snippet": "proposals ['2021.1.00128.L']"
+ },
+ "2mass-j16202863-2442087_alma-vioque26": {
+  "epoch": "2022",
+  "source": "archive:alma-code",
+  "arxiv": "2512.00157",
+  "snippet": "proposals ['2021.1.00128.L']"
+ },
+ "2mass-j16202863-2442087_alma-kurtovic26": {
+  "epoch": "2022",
+  "source": "archive:alma-code",
+  "arxiv": "2605.30023",
+  "snippet": "proposals ['2021.1.00128.L']"
+ },
+ "2mass-j16221532-2511349_alma-vioque26": {
+  "epoch": "2022",
+  "source": "archive:alma-code",
+  "arxiv": "2512.00157",
+  "snippet": "proposals ['2021.1.00128.L']"
+ },
+ "aa-tau_alma-vioque26": {
+  "epoch": "2019",
+  "source": "archive:alma-code",
+  "arxiv": "2512.00157",
+  "snippet": "proposals ['2018.1.01829.S']"
+ },
+ "aa-tau_alma-kurtovic26": {
+  "epoch": "2019",
+  "source": "archive:alma-code",
+  "arxiv": "2605.30023",
+  "snippet": "proposals ['2018.1.01829.S']"
+ },
+ "ab-aur_alma-vioque26": {
+  "epoch": "2023-09-06",
+  "source": "archive:alma-code",
+  "arxiv": "2512.00157",
+  "snippet": "proposals ['2022.1.00313.S']"
+ },
+ "ab-aur_alma-kurtovic26": {
+  "epoch": "2023-09-06",
+  "source": "archive:alma-code",
+  "arxiv": "2605.30023",
+  "snippet": "proposals ['2022.1.00313.S']"
+ },
+ "ak-sco_alma-vioque26": {
+  "epoch": "2021-09-08",
+  "source": "archive:alma-code",
+  "arxiv": "2512.00157",
+  "snippet": "proposals ['2019.1.01210.S']"
+ },
+ "ak-sco_alma-kurtovic26": {
+  "epoch": "2021-09-08",
+  "source": "archive:alma-code",
+  "arxiv": "2605.30023",
+  "snippet": "proposals ['2019.1.01210.S']"
+ },
+ "as-205_alma-vioque26": {
+  "epoch": "2017",
+  "source": "archive:alma-code",
+  "arxiv": "2512.00157",
+  "snippet": "proposals ['2016.1.00484.L']"
+ },
+ "as-205_alma-kurtovic26": {
+  "epoch": "2017",
+  "source": "archive:alma-code",
+  "arxiv": "2605.30023",
+  "snippet": "proposals ['2016.1.00484.L']"
+ },
+ "as-209_alma-vioque26": {
+  "epoch": "2017-2019",
+  "source": "archive:alma-code",
+  "arxiv": "2512.00157",
+  "snippet": "proposals ['2016.1.00484.L', '2018.1.01055.L']"
+ },
+ "as-209_alma-kurtovic26": {
+  "epoch": "2016-2019",
+  "source": "archive:alma-code",
+  "arxiv": "2605.30023",
+  "snippet": "proposals ['2015.1.00486.S', '2016.1.00484.L']"
+ },
+ "at-pyx_alma-vioque26": {
+  "epoch": "2022-08-31",
+  "source": "archive:alma-code",
+  "arxiv": "2512.00157",
+  "snippet": "proposals ['2021.1.01705.S']"
+ },
+ "at-pyx_alma-kurtovic26": {
+  "epoch": "2022-08-31",
+  "source": "archive:alma-code",
+  "arxiv": "2605.30023",
+  "snippet": "proposals ['2021.1.01705.S']"
+ },
+ "bp-tau_alma-vioque26": {
+  "epoch": "2017-2021",
+  "source": "archive:alma-code",
+  "arxiv": "2512.00157",
+  "snippet": "proposals ['2016.1.01164.S', '2019.1.00607.S']"
+ },
+ "bp-tau_alma-kurtovic26": {
+  "epoch": "2017-2021",
+  "source": "archive:alma-code",
+  "arxiv": "2605.30023",
+  "snippet": "proposals ['2016.1.01164.S', '2019.1.00607.S']"
+ },
+ "ci-tau_alma-kurtovic26": {
+  "epoch": "2017-2023",
+  "source": "archive:alma-code",
+  "arxiv": "2605.30023",
+  "snippet": "proposals ['2016.1.01164.S', '2022.1.00875.L']"
+ },
+ "cida-1_alma-kurtovic26": {
+  "epoch": "2025",
+  "source": "archive:alma-code",
+  "arxiv": "2605.30023",
+  "snippet": "proposals ['2025.1.00324.L']"
+ },
+ "cida-9_alma-vioque26": {
+  "epoch": "2017-2022",
+  "source": "archive:alma-code",
+  "arxiv": "2512.00157",
+  "snippet": "proposals ['2016.1.01164.S', '2021.1.00994.S']"
+ },
+ "cida-9_alma-kurtovic26": {
+  "epoch": "2017-2022",
+  "source": "archive:alma-code",
+  "arxiv": "2605.30023",
+  "snippet": "proposals ['2016.1.01164.S', '2021.1.00994.S']"
+ },
+ "cq-tau_alma-vioque26": {
+  "epoch": "2017-11-20",
+  "source": "archive:alma-code",
+  "arxiv": "2512.00157",
+  "snippet": "proposals ['2017.1.01404.S']"
+ },
+ "cq-tau_alma-kurtovic26": {
+  "epoch": "2015-2017",
+  "source": "archive:alma-code",
+  "arxiv": "2605.30023",
+  "snippet": "proposals ['2013.1.00498.S', '2017.1.01404.S']"
+ },
+ "cr-cha_alma-kurtovic26": {
+  "epoch": "2017-2018",
+  "source": "archive:alma-code",
+  "arxiv": "2605.30023",
+  "snippet": "proposals ['2017.1.00286.S']"
+ },
+ "cs-cha_alma-vioque26": {
+  "epoch": "2023-2024",
+  "source": "archive:alma-cone1",
+  "arxiv": "2512.00157",
+  "snippet": "proposals ['2023.1.01149.S']"
+ },
+ "cs-cha_alma-kurtovic26": {
+  "epoch": "2023-2024",
+  "source": "archive:alma-cone1",
+  "arxiv": "2605.30023",
+  "snippet": "proposals ['2023.1.01149.S']"
+ },
+ "cw-tau_alma-kurtovic26": {
+  "epoch": "2021-2023",
+  "source": "archive:alma-code",
+  "arxiv": "2605.30023",
+  "snippet": "proposals ['2019.1.01108.S', '2022.1.00875.L']"
+ },
+ "cx-tau_alma-kurtovic26": {
+  "epoch": "2016-2017",
+  "source": "archive:alma-code",
+  "arxiv": "2605.30023",
+  "snippet": "proposals ['2016.1.00715.S']"
+ },
+ "dg-tau_alma-kurtovic26": {
+  "epoch": "2015-2023",
+  "source": "archive:alma-code",
+  "arxiv": "2605.30023",
+  "snippet": "proposals ['2015.1.01268.S', '2022.1.00875.L']"
+ },
+ "dl-tau_alma-kurtovic26": {
+  "epoch": "2017-2023",
+  "source": "archive:alma-code",
+  "arxiv": "2605.30023",
+  "snippet": "proposals ['2016.1.01164.S', '2022.1.00875.L']"
+ },
+ "dm-tau_alma-vioque26": {
+  "epoch": "2017-2019",
+  "source": "archive:alma-code",
+  "arxiv": "2512.00157",
+  "snippet": "proposals ['2017.1.01460.S', '2018.1.01755.S']"
+ },
+ "dm-tau_alma-kurtovic26": {
+  "epoch": "2015-2019",
+  "source": "archive:alma-code",
+  "arxiv": "2605.30023",
+  "snippet": "proposals ['2013.1.00498.S', '2017.1.01460.S']"
+ },
+ "doar-25_alma-kurtovic26": {
+  "epoch": "2017",
+  "source": "archive:alma-code",
+  "arxiv": "2605.30023",
+  "snippet": "proposals ['2016.1.00484.L']"
+ },
+ "doar-33_alma-kurtovic26": {
+  "epoch": "2017-2023",
+  "source": "archive:alma-code",
+  "arxiv": "2605.30023",
+  "snippet": "proposals ['2016.1.00484.L', '2022.1.00875.L']"
+ },
+ "doar-44_alma-vioque26": {
+  "epoch": "2019-07-11",
+  "source": "archive:alma-code",
+  "arxiv": "2512.00157",
+  "snippet": "proposals ['2018.1.00028.S']"
+ },
+ "doar-44_alma-kurtovic26": {
+  "epoch": "2019-07-11",
+  "source": "archive:alma-code",
+  "arxiv": "2605.30023",
+  "snippet": "proposals ['2018.1.00028.S']"
+ },
+ "ds-tau_alma-kurtovic26": {
+  "epoch": "2017-2023",
+  "source": "archive:alma-code",
+  "arxiv": "2605.30023",
+  "snippet": "proposals ['2016.1.01164.S', '2022.1.00875.L']"
+ },
+ "elias-20_alma-kurtovic26": {
+  "epoch": "2017-2023",
+  "source": "archive:alma-code",
+  "arxiv": "2605.30023",
+  "snippet": "proposals ['2016.1.00484.L', '2022.1.00875.L']"
+ },
+ "elias-24_alma-kurtovic26": {
+  "epoch": "2015-2023",
+  "source": "archive:alma-code",
+  "arxiv": "2605.30023",
+  "snippet": "proposals ['2013.1.00498.S', '2016.1.00484.L']"
+ },
+ "elias-27_alma-kurtovic26": {
+  "epoch": "2015-2023",
+  "source": "archive:alma-code",
+  "arxiv": "2605.30023",
+  "snippet": "proposals ['2013.1.00498.S', '2016.1.00484.L']"
+ },
+ "fm-cha_alma-kurtovic26": {
+  "epoch": "2023",
+  "source": "archive:alma-code",
+  "arxiv": "2605.30023",
+  "snippet": "proposals ['2022.1.00875.L', '2022.1.01302.S']"
+ },
+ "ft-tau_alma-kurtovic26": {
+  "epoch": "2017-2023",
+  "source": "archive:alma-code",
+  "arxiv": "2605.30023",
+  "snippet": "proposals ['2016.1.01164.S', '2022.1.00875.L']"
+ },
+ "gg-tau_alma-vioque26": {
+  "epoch": "2018-11-08",
+  "source": "archive:alma-code",
+  "arxiv": "2512.00157",
+  "snippet": "proposals ['2018.1.00532.S']"
+ },
+ "gg-tau_alma-kurtovic26": {
+  "epoch": "2018-11-08",
+  "source": "archive:alma-code",
+  "arxiv": "2605.30023",
+  "snippet": "proposals ['2018.1.00532.S']"
+ },
+ "gm-aur_alma-vioque26": {
+  "epoch": "2017-2019",
+  "source": "archive:alma-code",
+  "arxiv": "2512.00157",
+  "snippet": "proposals ['2017.1.01151.S', '2018.1.01055.L']"
+ },
+ "gm-aur_alma-kurtovic26": {
+  "epoch": "2017-2023",
+  "source": "archive:alma-code",
+  "arxiv": "2605.30023",
+  "snippet": "proposals ['2017.1.01151.S', '2018.1.01055.L']"
+ },
+ "go-tau_alma-kurtovic26": {
+  "epoch": "2017-08-27",
+  "source": "archive:alma-code",
+  "arxiv": "2605.30023",
+  "snippet": "proposals ['2016.1.01164.S']"
+ },
+ "gw-lup_alma-kurtovic26": {
+  "epoch": "2017-2023",
+  "source": "archive:alma-code",
+  "arxiv": "2605.30023",
+  "snippet": "proposals ['2016.1.00484.L', '2018.1.01458.S']"
+ },
+ "gw-ori_alma-vioque26": {
+  "epoch": "2021",
+  "source": "archive:alma-code",
+  "arxiv": "2512.00157",
+  "snippet": "proposals ['2021.1.01661.S']"
+ },
+ "gw-ori_alma-kurtovic26": {
+  "epoch": "2017-2021",
+  "source": "archive:alma-code",
+  "arxiv": "2605.30023",
+  "snippet": "proposals ['2017.1.00286.S', '2021.1.01661.S']"
+ },
+ "haro-6-13_alma-kurtovic26": {
+  "epoch": "2017-2023",
+  "source": "archive:alma-code",
+  "arxiv": "2605.30023",
+  "snippet": "proposals ['2016.1.01164.S', '2022.1.01365.S']"
+ },
+ "haro-6-37b_alma-kurtovic26": {
+  "epoch": "2023-06-02",
+  "source": "archive:alma-code",
+  "arxiv": "2605.30023",
+  "snippet": "proposals ['2022.1.01302.S']"
+ },
+ "hd-100453_alma-vioque26": {
+  "epoch": "2017-10-21",
+  "source": "archive:alma-code",
+  "arxiv": "2512.00157",
+  "snippet": "proposals ['2017.1.01678.S']"
+ },
+ "hd-100453_alma-kurtovic26": {
+  "epoch": "2017-10-21",
+  "source": "archive:alma-code",
+  "arxiv": "2605.30023",
+  "snippet": "proposals ['2017.1.01678.S']"
+ },
+ "hd-100546_alma-vioque26": {
+  "epoch": "2016-2019",
+  "source": "archive:alma-code",
+  "arxiv": "2512.00157",
+  "snippet": "proposals ['2016.1.00344.S', '2018.1.01309.S']"
+ },
+ "hd-100546_alma-kurtovic26": {
+  "epoch": "2016-2019",
+  "source": "archive:alma-code",
+  "arxiv": "2605.30023",
+  "snippet": "proposals ['2016.1.00344.S', '2018.1.01309.S']"
+ },
+ "hd-135344b_alma-vioque26": {
+  "epoch": "2019-2021",
+  "source": "archive:alma-code",
+  "arxiv": "2512.00157",
+  "snippet": "proposals ['2018.1.01066.S']"
+ },
+ "hd-135344b_alma-kurtovic26": {
+  "epoch": "2019-2021",
+  "source": "archive:alma-code",
+  "arxiv": "2605.30023",
+  "snippet": "proposals ['2018.1.01066.S']"
+ },
+ "hd-139614_alma-vioque26": {
+  "epoch": "2023",
+  "source": "archive:alma-code",
+  "arxiv": "2512.00157",
+  "snippet": "proposals ['2022.1.01302.S']"
+ },
+ "hd-139614_alma-kurtovic26": {
+  "epoch": "2023",
+  "source": "archive:alma-code",
+  "arxiv": "2605.30023",
+  "snippet": "proposals ['2022.1.01302.S']"
+ },
+ "hd-142666_alma-vioque26": {
+  "epoch": "2017-09-25",
+  "source": "archive:alma-code",
+  "arxiv": "2512.00157",
+  "snippet": "proposals ['2016.1.00484.L']"
+ },
+ "hd-142666_alma-kurtovic26": {
+  "epoch": "2015-2017",
+  "source": "archive:alma-code",
+  "arxiv": "2605.30023",
+  "snippet": "proposals ['2013.1.00498.S', '2016.1.00484.L']"
+ },
+ "hd-143006_alma-vioque26": {
+  "epoch": "2017",
+  "source": "archive:alma-code",
+  "arxiv": "2512.00157",
+  "snippet": "proposals ['2016.1.00484.L']"
+ },
+ "hd-143006_alma-kurtovic26": {
+  "epoch": "2017",
+  "source": "archive:alma-code",
+  "arxiv": "2605.30023",
+  "snippet": "proposals ['2016.1.00484.L']"
+ },
+ "hd-163296_alma-vioque26": {
+  "epoch": "2017-2019",
+  "source": "archive:alma-code",
+  "arxiv": "2512.00157",
+  "snippet": "proposals ['2016.1.00484.L', '2018.1.01055.L']"
+ },
+ "hd-163296_alma-kurtovic26": {
+  "epoch": "2015-2019",
+  "source": "archive:alma-code",
+  "arxiv": "2605.30023",
+  "snippet": "proposals ['2013.1.00601.S', '2016.1.00484.L']"
+ },
+ "hd-169142_alma-vioque26": {
+  "epoch": "2016-2017",
+  "source": "archive:alma-code",
+  "arxiv": "2512.00157",
+  "snippet": "proposals ['2015.1.01301.S', '2016.1.00344.S']"
+ },
+ "hd-169142_alma-kurtovic26": {
+  "epoch": "2016-2017",
+  "source": "archive:alma-code",
+  "arxiv": "2605.30023",
+  "snippet": "proposals ['2015.1.01301.S', '2016.1.00344.S']"
+ },
+ "hd-34282_alma-vioque26": {
+  "epoch": "2017-11-19",
+  "source": "archive:alma-code",
+  "arxiv": "2512.00157",
+  "snippet": "proposals ['2017.1.01578.S']"
+ },
+ "hd-34282_alma-kurtovic26": {
+  "epoch": "2017-11-19",
+  "source": "archive:alma-code",
+  "arxiv": "2605.30023",
+  "snippet": "proposals ['2017.1.01578.S']"
+ },
+ "hd-34700_alma-vioque26": {
+  "epoch": "2022-2023",
+  "source": "archive:alma-code",
+  "arxiv": "2512.00157",
+  "snippet": "proposals ['2021.1.01705.S', '2022.1.00760.S']"
+ },
+ "hd-34700_alma-kurtovic26": {
+  "epoch": "2022-2023",
+  "source": "archive:alma-code",
+  "arxiv": "2605.30023",
+  "snippet": "proposals ['2021.1.01705.S', '2022.1.00760.S']"
+ },
+ "hd-97048_alma-vioque26": {
+  "epoch": "2021",
+  "source": "archive:alma-code",
+  "arxiv": "2512.00157",
+  "snippet": "proposals ['2019.1.01091.S']"
+ },
+ "hd-97048_alma-kurtovic26": {
+  "epoch": "2021",
+  "source": "archive:alma-code",
+  "arxiv": "2605.30023",
+  "snippet": "proposals ['2019.1.01091.S']"
+ },
+ "hd-98800_alma-kurtovic26": {
+  "epoch": "2017-11-15",
+  "source": "archive:alma-code",
+  "arxiv": "2605.30023",
+  "snippet": "proposals ['2017.1.00350.S']"
+ },
+ "hk-tau_alma-kurtovic26": {
+  "epoch": "2017-08-31",
+  "source": "archive:alma-code",
+  "arxiv": "2605.30023",
+  "snippet": "proposals ['2016.1.01164.S']"
+ },
+ "hp-cha_alma-vioque26": {
+  "epoch": "2017",
+  "source": "archive:alma-code",
+  "arxiv": "2512.00157",
+  "snippet": "proposals ['2017.1.01460.S']"
+ },
+ "hp-cha_alma-kurtovic26": {
+  "epoch": "2017-2023",
+  "source": "archive:alma-code",
+  "arxiv": "2605.30023",
+  "snippet": "proposals ['2017.1.01460.S', '2022.1.00875.L']"
+ },
+ "ht-lup_alma-kurtovic26": {
+  "epoch": "2017-2023",
+  "source": "archive:alma-code",
+  "arxiv": "2605.30023",
+  "snippet": "proposals ['2016.1.00484.L', '2017.1.01167.S']"
+ },
+ "im-lup_alma-kurtovic26": {
+  "epoch": "2017-2019",
+  "source": "archive:alma-code",
+  "arxiv": "2605.30023",
+  "snippet": "proposals ['2016.1.00484.L', '2018.1.01055.L']"
+ },
+ "ip-tau_alma-vioque26": {
+  "epoch": "2017-2022",
+  "source": "archive:alma-code",
+  "arxiv": "2512.00157",
+  "snippet": "proposals ['2016.1.01164.S', '2021.1.00994.S']"
+ },
+ "ip-tau_alma-kurtovic26": {
+  "epoch": "2017-2023",
+  "source": "archive:alma-code",
+  "arxiv": "2605.30023",
+  "snippet": "proposals ['2016.1.01164.S', '2021.1.00994.S']"
+ },
+ "iq-tau_alma-kurtovic26": {
+  "epoch": "2017-2023",
+  "source": "archive:alma-code",
+  "arxiv": "2605.30023",
+  "snippet": "proposals ['2016.1.01164.S', '2022.1.00875.L']"
+ },
+ "iras-04125_alma-vioque26": {
+  "epoch": "2023-05-21",
+  "source": "archive:alma-code",
+  "arxiv": "2512.00157",
+  "snippet": "proposals ['2022.1.01302.S']"
+ },
+ "iras-04125_alma-kurtovic26": {
+  "epoch": "2023-05-21",
+  "source": "archive:alma-code",
+  "arxiv": "2605.30023",
+  "snippet": "proposals ['2022.1.01302.S']"
+ },
+ "iras-04158-2805_alma-vioque26": {
+  "epoch": "2023-10-12",
+  "source": "archive:alma-cone1",
+  "arxiv": "2512.00157",
+  "snippet": "proposals ['2023.1.01149.S']"
+ },
+ "iras-04158-2805_alma-kurtovic26": {
+  "epoch": "2023-10-12",
+  "source": "archive:alma-cone1",
+  "arxiv": "2605.30023",
+  "snippet": "proposals ['2023.1.01149.S']"
+ },
+ "iras-16072-2057_alma-vioque26": {
+  "epoch": "2023",
+  "source": "archive:alma-code",
+  "arxiv": "2512.00157",
+  "snippet": "proposals ['2022.1.00646.S']"
+ },
+ "iras-16072-2057_alma-kurtovic26": {
+  "epoch": "2023",
+  "source": "archive:alma-code",
+  "arxiv": "2605.30023",
+  "snippet": "proposals ['2022.1.00646.S']"
+ },
+ "iras-16201_alma-vioque26": {
+  "epoch": "2017-2018",
+  "source": "archive:alma-cone1",
+  "arxiv": "2512.00157",
+  "snippet": "proposals ['2016.1.00545.S']"
+ },
+ "iras-16201_alma-kurtovic26": {
+  "epoch": "2017-2018",
+  "source": "archive:alma-cone1",
+  "arxiv": "2605.30023",
+  "snippet": "proposals ['2016.1.00545.S']"
+ },
+ "iso-oph-17_alma-kurtovic26": {
+  "epoch": "2019-06-19",
+  "source": "archive:alma-code",
+  "arxiv": "2605.30023",
+  "snippet": "proposals ['2018.1.00028.S']"
+ },
+ "iso-oph-196_alma-vioque26": {
+  "epoch": "2019-07-11",
+  "source": "archive:alma-code",
+  "arxiv": "2512.00157",
+  "snippet": "proposals ['2018.1.00028.S']"
+ },
+ "iso-oph-196_alma-kurtovic26": {
+  "epoch": "2019-2023",
+  "source": "archive:alma-code",
+  "arxiv": "2605.30023",
+  "snippet": "proposals ['2018.1.00028.S', '2022.1.00875.L']"
+ },
+ "iso-oph-2_alma-vioque26": {
+  "epoch": "2019-06-12",
+  "source": "archive:alma-code",
+  "arxiv": "2512.00157",
+  "snippet": "proposals ['2018.1.00028.S']"
+ },
+ "iso-oph-2_alma-kurtovic26": {
+  "epoch": "2019-06-12",
+  "source": "archive:alma-code",
+  "arxiv": "2605.30023",
+  "snippet": "proposals ['2018.1.00028.S']"
+ },
+ "iso-oph-37_alma-kurtovic26": {
+  "epoch": "2019-2023",
+  "source": "archive:alma-code",
+  "arxiv": "2605.30023",
+  "snippet": "proposals ['2018.1.00028.S', '2021.1.00128.L']"
+ },
+ "iso-oph-54_alma-kurtovic26": {
+  "epoch": "2019-07-12",
+  "source": "archive:alma-code",
+  "arxiv": "2605.30023",
+  "snippet": "proposals ['2018.1.00028.S']"
+ },
+ "j04343128_alma-vioque26": {
+  "epoch": "2021-09-27",
+  "source": "archive:alma-code",
+  "arxiv": "2512.00157",
+  "snippet": "proposals ['2019.1.00566.S']"
+ },
+ "j04343128_alma-kurtovic26": {
+  "epoch": "2021-09-27",
+  "source": "archive:alma-code",
+  "arxiv": "2605.30023",
+  "snippet": "proposals ['2019.1.00566.S']"
+ },
+ "j04360131_alma-vioque26": {
+  "epoch": "2021-09-27",
+  "source": "archive:alma-code",
+  "arxiv": "2512.00157",
+  "snippet": "proposals ['2019.1.00566.S']"
+ },
+ "j04360131_alma-kurtovic26": {
+  "epoch": "2021-09-27",
+  "source": "archive:alma-code",
+  "arxiv": "2605.30023",
+  "snippet": "proposals ['2019.1.00566.S']"
+ },
+ "j05080709_alma-vioque26": {
+  "epoch": "2021-09-13",
+  "source": "archive:alma-code",
+  "arxiv": "2512.00157",
+  "snippet": "proposals ['2019.1.00566.S']"
+ },
+ "j05080709_alma-kurtovic26": {
+  "epoch": "2021-09-13",
+  "source": "archive:alma-code",
+  "arxiv": "2605.30023",
+  "snippet": "proposals ['2019.1.00566.S']"
+ },
+ "j16000236_alma-kurtovic26": {
+  "epoch": "2019-2025",
+  "source": "archive:alma-code",
+  "arxiv": "2605.30023",
+  "snippet": "proposals ['2018.1.01054.S', '2022.1.00340.S']"
+ },
+ "j16070854_alma-kurtovic26": {
+  "epoch": "2025",
+  "source": "archive:alma-code",
+  "arxiv": "2605.30023",
+  "snippet": "proposals ['2025.1.00324.L']"
+ },
+ "j16090141_alma-vioque26": {
+  "epoch": "2019-2023",
+  "source": "archive:alma-code",
+  "arxiv": "2512.00157",
+  "snippet": "proposals ['2018.1.01054.S', '2022.1.00340.S']"
+ },
+ "j16090141_alma-kurtovic26": {
+  "epoch": "2019-2025",
+  "source": "archive:alma-code",
+  "arxiv": "2605.30023",
+  "snippet": "proposals ['2018.1.01054.S', '2022.1.00340.S']"
+ },
+ "j16092697_alma-vioque26": {
+  "epoch": "2023",
+  "source": "archive:alma-code",
+  "arxiv": "2512.00157",
+  "snippet": "proposals ['2022.1.00154.S', '2022.1.00340.S']"
+ },
+ "j16092697_alma-kurtovic26": {
+  "epoch": "2023",
+  "source": "archive:alma-code",
+  "arxiv": "2605.30023",
+  "snippet": "proposals ['2022.1.00154.S', '2022.1.00340.S']"
+ },
+ "j16100501_alma-kurtovic26": {
+  "epoch": "2019",
+  "source": "archive:alma-code",
+  "arxiv": "2605.30023",
+  "snippet": "proposals ['2018.1.01255.S']"
+ },
+ "j16102955_alma-vioque26": {
+  "epoch": "2017-07-07",
+  "source": "archive:alma-code",
+  "arxiv": "2512.00157",
+  "snippet": "proposals ['2016.1.00715.S']"
+ },
+ "j16140792_alma-vioque26": {
+  "epoch": "2023-2024",
+  "source": "archive:alma-code",
+  "arxiv": "2512.00157",
+  "snippet": "proposals ['2022.1.00646.S']"
+ },
+ "j16140792_alma-kurtovic26": {
+  "epoch": "2023-2024",
+  "source": "archive:alma-code",
+  "arxiv": "2605.30023",
+  "snippet": "proposals ['2022.1.00646.S']"
+ },
+ "j17110392_alma-kurtovic26": {
+  "epoch": "2015-07-23",
+  "source": "archive:alma-code",
+  "arxiv": "2605.30023",
+  "snippet": "proposals ['2013.1.00291.S']"
+ },
+ "lkca-15_alma-vioque26": {
+  "epoch": "2018-2019",
+  "source": "archive:alma-code",
+  "arxiv": "2512.00157",
+  "snippet": "proposals ['2018.1.01255.S']"
+ },
+ "lkca-15_alma-kurtovic26": {
+  "epoch": "2018-2019",
+  "source": "archive:alma-code",
+  "arxiv": "2605.30023",
+  "snippet": "proposals ['2018.1.01255.S']"
+ },
+ "lkha-330_alma-vioque26": {
+  "epoch": "2019-2022",
+  "source": "archive:alma-code",
+  "arxiv": "2512.00157",
+  "snippet": "proposals ['2018.1.01302.S', '2021.1.00994.S']"
+ },
+ "lkha-330_alma-kurtovic26": {
+  "epoch": "2019-2022",
+  "source": "archive:alma-code",
+  "arxiv": "2605.30023",
+  "snippet": "proposals ['2018.1.01302.S', '2021.1.00994.S']"
+ },
+ "mho-1_alma-kurtovic26": {
+  "epoch": "2015-2023",
+  "source": "archive:alma-code",
+  "arxiv": "2605.30023",
+  "snippet": "proposals ['2013.1.00498.S', '2022.1.01302.S']"
+ },
+ "mho2_alma-vioque26": {
+  "epoch": "2023-05-31",
+  "source": "archive:alma-code",
+  "arxiv": "2512.00157",
+  "snippet": "proposals ['2022.1.01302.S']"
+ },
+ "mho2_alma-kurtovic26": {
+  "epoch": "2015-2023",
+  "source": "archive:alma-code",
+  "arxiv": "2605.30023",
+  "snippet": "proposals ['2013.1.00498.S', '2022.1.01302.S']"
+ },
+ "mho6_alma-vioque26": {
+  "epoch": "2021-2022",
+  "source": "archive:alma-code",
+  "arxiv": "2512.00157",
+  "snippet": "proposals ['2021.1.00994.S']"
+ },
+ "mho6_alma-kurtovic26": {
+  "epoch": "2021-2025",
+  "source": "archive:alma-code",
+  "arxiv": "2605.30023",
+  "snippet": "proposals ['2021.1.00994.S', '2025.1.00324.L']"
+ },
+ "mwc-480_alma-kurtovic26": {
+  "epoch": "2017-2019",
+  "source": "archive:alma-code",
+  "arxiv": "2605.30023",
+  "snippet": "proposals ['2016.1.01164.S', '2018.1.01055.L']"
+ },
+ "my-lup_alma-kurtovic26": {
+  "epoch": "2017-2023",
+  "source": "archive:alma-code",
+  "arxiv": "2605.30023",
+  "snippet": "proposals ['2016.1.00484.L', '2022.1.00875.L']"
+ },
+ "pds-111_alma-vioque26": {
+  "epoch": "2022-08-21",
+  "source": "archive:alma-code",
+  "arxiv": "2512.00157",
+  "snippet": "proposals ['2021.1.01705.S']"
+ },
+ "pds-111_alma-kurtovic26": {
+  "epoch": "2022-08-21",
+  "source": "archive:alma-code",
+  "arxiv": "2605.30023",
+  "snippet": "proposals ['2021.1.01705.S']"
+ },
+ "pds-66_alma-kurtovic26": {
+  "epoch": "2017-2018",
+  "source": "archive:alma-code",
+  "arxiv": "2605.30023",
+  "snippet": "proposals ['2017.1.01167.S']"
+ },
+ "ru-lup_alma-kurtovic26": {
+  "epoch": "2017",
+  "source": "archive:alma-code",
+  "arxiv": "2605.30023",
+  "snippet": "proposals ['2016.1.00484.L']"
+ },
+ "rw-aur_alma-vioque26": {
+  "epoch": "2017-08-31",
+  "source": "archive:alma-code",
+  "arxiv": "2512.00157",
+  "snippet": "proposals ['2016.1.01164.S', '2017.1.01631.S']"
+ },
+ "rw-aur_alma-kurtovic26": {
+  "epoch": "2017-08-31",
+  "source": "archive:alma-code",
+  "arxiv": "2605.30023",
+  "snippet": "proposals ['2016.1.01164.S', '2017.1.01631.S']"
+ },
+ "rx-j1604-3-2130_alma-vioque26": {
+  "epoch": "2019-07-30",
+  "source": "archive:alma-code",
+  "arxiv": "2512.00157",
+  "snippet": "proposals ['2018.1.01255.S']"
+ },
+ "rx-j1604-3-2130_alma-kurtovic26": {
+  "epoch": "2019-07-30",
+  "source": "archive:alma-code",
+  "arxiv": "2605.30023",
+  "snippet": "proposals ['2018.1.01255.S']"
+ },
+ "rx-j1615-3-3255_alma-vioque26": {
+  "epoch": "2024-2025",
+  "source": "archive:alma-cone1",
+  "arxiv": "2512.00157",
+  "snippet": "proposals ['2024.1.00624.S']"
+ },
+ "rx-j1615-3-3255_alma-kurtovic26": {
+  "epoch": "2024-2025",
+  "source": "archive:alma-cone1",
+  "arxiv": "2605.30023",
+  "snippet": "proposals ['2024.1.00624.S']"
+ },
+ "rx-j1633-9-2442_alma-vioque26": {
+  "epoch": "2019",
+  "source": "archive:alma-code",
+  "arxiv": "2512.00157",
+  "snippet": "proposals ['2018.1.00028.S', '2018.1.00689.S']"
+ },
+ "rx-j1633-9-2442_alma-kurtovic26": {
+  "epoch": "2019",
+  "source": "archive:alma-code",
+  "arxiv": "2605.30023",
+  "snippet": "proposals ['2018.1.00028.S', '2018.1.00689.S']"
+ },
+ "rx-j1852-3-3700_alma-vioque26": {
+  "epoch": "2019",
+  "source": "archive:alma-code",
+  "arxiv": "2512.00157",
+  "snippet": "proposals ['2018.1.00689.S']"
+ },
+ "rx-j1852-3-3700_alma-kurtovic26": {
+  "epoch": "2019",
+  "source": "archive:alma-code",
+  "arxiv": "2605.30023",
+  "snippet": "proposals ['2018.1.00689.S']"
+ },
+ "ry-lup_alma-vioque26": {
+  "epoch": "2017-2023",
+  "source": "archive:alma-code",
+  "arxiv": "2512.00157",
+  "snippet": "proposals ['2017.1.00449.S', '2022.1.00340.S']"
+ },
+ "ry-lup_alma-kurtovic26": {
+  "epoch": "2017-2023",
+  "source": "archive:alma-code",
+  "arxiv": "2605.30023",
+  "snippet": "proposals ['2017.1.00449.S', '2022.1.00340.S']"
+ },
+ "ry-tau_alma-vioque26": {
+  "epoch": "2017-2018",
+  "source": "archive:alma-code",
+  "arxiv": "2512.00157",
+  "snippet": "proposals ['2016.1.01164.S', '2017.1.01460.S']"
+ },
+ "ry-tau_alma-kurtovic26": {
+  "epoch": "2015-2018",
+  "source": "archive:alma-code",
+  "arxiv": "2605.30023",
+  "snippet": "proposals ['2013.1.00498.S', '2016.1.01164.S']"
+ },
+ "so-1036_alma-kurtovic26": {
+  "epoch": "2023-08-04",
+  "source": "archive:alma-code",
+  "arxiv": "2605.30023",
+  "snippet": "proposals ['2022.1.00728.S']"
+ },
+ "so-1152_alma-kurtovic26": {
+  "epoch": "2023-08-02",
+  "source": "archive:alma-code",
+  "arxiv": "2605.30023",
+  "snippet": "proposals ['2022.1.00728.S']"
+ },
+ "so-1153_alma-kurtovic26": {
+  "epoch": "2023-08-01",
+  "source": "archive:alma-code",
+  "arxiv": "2605.30023",
+  "snippet": "proposals ['2022.1.00728.S']"
+ },
+ "so-662_alma-kurtovic26": {
+  "epoch": "2023-07-26",
+  "source": "archive:alma-code",
+  "arxiv": "2605.30023",
+  "snippet": "proposals ['2022.1.00728.S']"
+ },
+ "so-844_alma-kurtovic26": {
+  "epoch": "2023-07-31",
+  "source": "archive:alma-code",
+  "arxiv": "2605.30023",
+  "snippet": "proposals ['2022.1.00728.S']"
+ },
+ "so-897_alma-kurtovic26": {
+  "epoch": "2023-07-28",
+  "source": "archive:alma-code",
+  "arxiv": "2605.30023",
+  "snippet": "proposals ['2022.1.00728.S']"
+ },
+ "so-984_alma-kurtovic26": {
+  "epoch": "2023-08-06",
+  "source": "archive:alma-code",
+  "arxiv": "2605.30023",
+  "snippet": "proposals ['2022.1.00728.S']"
+ },
+ "sr-21_alma-vioque26": {
+  "epoch": "2019",
+  "source": "archive:alma-code",
+  "arxiv": "2512.00157",
+  "snippet": "proposals ['2018.1.00689.S']"
+ },
+ "sr-21_alma-kurtovic26": {
+  "epoch": "2019",
+  "source": "archive:alma-code",
+  "arxiv": "2605.30023",
+  "snippet": "proposals ['2018.1.00689.S']"
+ },
+ "sr-24s_alma-vioque26": {
+  "epoch": "2019-07-12",
+  "source": "archive:alma-code",
+  "arxiv": "2512.00157",
+  "snippet": "proposals ['2018.1.00028.S']"
+ },
+ "sr-24s_alma-kurtovic26": {
+  "epoch": "2015-2019",
+  "source": "archive:alma-code",
+  "arxiv": "2605.30023",
+  "snippet": "proposals ['2013.1.00498.S', '2018.1.00028.S']"
+ },
+ "sr-4_alma-vioque26": {
+  "epoch": "2017",
+  "source": "archive:alma-code",
+  "arxiv": "2512.00157",
+  "snippet": "proposals ['2016.1.00484.L']"
+ },
+ "sr-4_alma-kurtovic26": {
+  "epoch": "2017-2023",
+  "source": "archive:alma-code",
+  "arxiv": "2605.30023",
+  "snippet": "proposals ['2016.1.00484.L', '2022.1.00875.L']"
+ },
+ "sy-cha_alma-vioque26": {
+  "epoch": "2019",
+  "source": "archive:alma-code",
+  "arxiv": "2512.00157",
+  "snippet": "proposals ['2018.1.00689.S']"
+ },
+ "sy-cha_alma-kurtovic26": {
+  "epoch": "2019",
+  "source": "archive:alma-code",
+  "arxiv": "2605.30023",
+  "snippet": "proposals ['2018.1.00689.S']"
+ },
+ "sz-100_alma-vioque26": {
+  "epoch": "2019-07-19",
+  "source": "archive:alma-code",
+  "arxiv": "2512.00157",
+  "snippet": "proposals ['2018.1.01458.S']"
+ },
+ "sz-100_alma-kurtovic26": {
+  "epoch": "2019-2025",
+  "source": "archive:alma-code",
+  "arxiv": "2605.30023",
+  "snippet": "proposals ['2018.1.01458.S', '2025.1.00324.L']"
+ },
+ "sz-108-b_alma-vioque26": {
+  "epoch": "2023-09-10",
+  "source": "archive:alma-code",
+  "arxiv": "2512.00157",
+  "snippet": "proposals ['2022.1.00154.S']"
+ },
+ "sz-108-b_alma-kurtovic26": {
+  "epoch": "2023-2025",
+  "source": "archive:alma-code",
+  "arxiv": "2605.30023",
+  "snippet": "proposals ['2022.1.00154.S', '2025.1.00324.L']"
+ },
+ "sz-111_alma-vioque26": {
+  "epoch": "2019",
+  "source": "archive:alma-code",
+  "arxiv": "2512.00157",
+  "snippet": "proposals ['2018.1.00689.S']"
+ },
+ "sz-111_alma-kurtovic26": {
+  "epoch": "2019-2023",
+  "source": "archive:alma-code",
+  "arxiv": "2605.30023",
+  "snippet": "proposals ['2018.1.00689.S', '2022.1.00875.L']"
+ },
+ "sz-114_alma-kurtovic26": {
+  "epoch": "2017-2019",
+  "source": "archive:alma-code",
+  "arxiv": "2605.30023",
+  "snippet": "proposals ['2016.1.00484.L', '2018.1.01458.S']"
+ },
+ "sz-118_alma-vioque26": {
+  "epoch": "2023-04-03",
+  "source": "archive:alma-code",
+  "arxiv": "2512.00157",
+  "snippet": "proposals ['2022.1.00340.S']"
+ },
+ "sz-118_alma-kurtovic26": {
+  "epoch": "2023",
+  "source": "archive:alma-code",
+  "arxiv": "2605.30023",
+  "snippet": "proposals ['2022.1.00340.S', '2022.1.00875.L']"
+ },
+ "sz-123-a_alma-vioque26": {
+  "epoch": "2019-07-19",
+  "source": "archive:alma-code",
+  "arxiv": "2512.00157",
+  "snippet": "proposals ['2018.1.01458.S']"
+ },
+ "sz-123-a_alma-kurtovic26": {
+  "epoch": "2019-2023",
+  "source": "archive:alma-code",
+  "arxiv": "2605.30023",
+  "snippet": "proposals ['2018.1.01458.S', '2022.1.00875.L']"
+ },
+ "sz-129_alma-vioque26": {
+  "epoch": "2017-2019",
+  "source": "archive:alma-code",
+  "arxiv": "2512.00157",
+  "snippet": "proposals ['2016.1.00484.L', '2018.1.01054.S']"
+ },
+ "sz-129_alma-kurtovic26": {
+  "epoch": "2017-2023",
+  "source": "archive:alma-code",
+  "arxiv": "2605.30023",
+  "snippet": "proposals ['2016.1.00484.L', '2018.1.01054.S']"
+ },
+ "sz-131_alma-vioque26": {
+  "epoch": "2021-2023",
+  "source": "archive:alma-code",
+  "arxiv": "2512.00157",
+  "snippet": "proposals ['2021.1.00128.L', '2022.1.00154.S']"
+ },
+ "sz-131_alma-kurtovic26": {
+  "epoch": "2021-2023",
+  "source": "archive:alma-code",
+  "arxiv": "2605.30023",
+  "snippet": "proposals ['2021.1.00128.L', '2022.1.00154.S']"
+ },
+ "sz-65_alma-kurtovic26": {
+  "epoch": "2017-2023",
+  "source": "archive:alma-code",
+  "arxiv": "2605.30023",
+  "snippet": "proposals ['2017.1.01167.S', '2018.1.00271.S']"
+ },
+ "sz-66_alma-kurtovic26": {
+  "epoch": "2017-2023",
+  "source": "archive:alma-code",
+  "arxiv": "2605.30023",
+  "snippet": "proposals ['2017.1.01167.S', '2018.1.00271.S']"
+ },
+ "sz-72_alma-vioque26": {
+  "epoch": "2021-2023",
+  "source": "archive:alma-code",
+  "arxiv": "2512.00157",
+  "snippet": "proposals ['2021.1.00128.L', '2022.1.00154.S']"
+ },
+ "sz-72_alma-kurtovic26": {
+  "epoch": "2021-2023",
+  "source": "archive:alma-code",
+  "arxiv": "2605.30023",
+  "snippet": "proposals ['2021.1.00128.L', '2022.1.00154.S']"
+ },
+ "sz-76_alma-vioque26": {
+  "epoch": "2019-2023",
+  "source": "archive:alma-code",
+  "arxiv": "2512.00157",
+  "snippet": "proposals ['2018.1.01054.S', '2022.1.00340.S']"
+ },
+ "sz-76_alma-kurtovic26": {
+  "epoch": "2019-2023",
+  "source": "archive:alma-code",
+  "arxiv": "2605.30023",
+  "snippet": "proposals ['2018.1.01054.S', '2022.1.00340.S']"
+ },
+ "sz-84_alma-vioque26": {
+  "epoch": "2016-09-17",
+  "source": "archive:alma-code",
+  "arxiv": "2512.00157",
+  "snippet": "proposals ['2015.1.01301.S']"
+ },
+ "sz-90_alma-vioque26": {
+  "epoch": "2023",
+  "source": "archive:alma-code",
+  "arxiv": "2512.00157",
+  "snippet": "proposals ['2022.1.00154.S', '2022.1.00340.S']"
+ },
+ "sz-90_alma-kurtovic26": {
+  "epoch": "2023",
+  "source": "archive:alma-code",
+  "arxiv": "2605.30023",
+  "snippet": "proposals ['2022.1.00154.S', '2022.1.00340.S']"
+ },
+ "sz-91_alma-vioque26": {
+  "epoch": "2016-09-17",
+  "source": "archive:alma-code",
+  "arxiv": "2512.00157",
+  "snippet": "proposals ['2015.1.01301.S']"
+ },
+ "sz-91_alma-kurtovic26": {
+  "epoch": "2016-2023",
+  "source": "archive:alma-code",
+  "arxiv": "2605.30023",
+  "snippet": "proposals ['2015.1.01301.S', '2022.1.00875.L']"
+ },
+ "sz-96_alma-vioque26": {
+  "epoch": "2023",
+  "source": "archive:alma-code",
+  "arxiv": "2512.00157",
+  "snippet": "proposals ['2022.1.00154.S', '2022.1.00340.S']"
+ },
+ "sz-96_alma-kurtovic26": {
+  "epoch": "2023",
+  "source": "archive:alma-code",
+  "arxiv": "2605.30023",
+  "snippet": "proposals ['2022.1.00154.S', '2022.1.00340.S']"
+ },
+ "sz-98_alma-vioque26": {
+  "epoch": "2019-07-19",
+  "source": "archive:alma-code",
+  "arxiv": "2512.00157",
+  "snippet": "proposals ['2018.1.01458.S']"
+ },
+ "sz-98_alma-kurtovic26": {
+  "epoch": "2019-2023",
+  "source": "archive:alma-code",
+  "arxiv": "2605.30023",
+  "snippet": "proposals ['2018.1.01458.S', '2022.1.00875.L']"
+ },
+ "sz-cha_alma-kurtovic26": {
+  "epoch": "2023",
+  "source": "archive:alma-code",
+  "arxiv": "2605.30023",
+  "snippet": "proposals ['2022.1.00875.L']"
+ },
+ "sz113_alma-kurtovic26": {
+  "epoch": "2023-2025",
+  "source": "archive:alma-code",
+  "arxiv": "2605.30023",
+  "snippet": "proposals ['2022.1.00154.S', '2022.1.00340.S']"
+ },
+ "sz69_alma-kurtovic26": {
+  "epoch": "2019-07-18",
+  "source": "archive:alma-code",
+  "arxiv": "2605.30023",
+  "snippet": "proposals ['2018.1.01458.S']"
+ },
+ "sz73_alma-kurtovic26": {
+  "epoch": "2019-2023",
+  "source": "archive:alma-code",
+  "arxiv": "2605.30023",
+  "snippet": "proposals ['2018.1.01458.S', '2022.1.00340.S']"
+ },
+ "sz74-b_alma-kurtovic26": {
+  "epoch": "2023-09-09",
+  "source": "archive:alma-code",
+  "arxiv": "2605.30023",
+  "snippet": "proposals ['2022.1.00154.S']"
+ },
+ "t-cha_alma-vioque26": {
+  "epoch": "2017-2018",
+  "source": "archive:alma-cone1",
+  "arxiv": "2512.00157",
+  "snippet": "proposals ['2017.1.01419.S']"
+ },
+ "t-cha_alma-kurtovic26": {
+  "epoch": "2017-2018",
+  "source": "archive:alma-cone1",
+  "arxiv": "2605.30023",
+  "snippet": "proposals ['2017.1.01419.S']"
+ },
+ "t-tau_alma-kurtovic26": {
+  "epoch": "2017-2021",
+  "source": "archive:alma-code",
+  "arxiv": "2605.30023",
+  "snippet": "proposals ['2016.1.01164.S', '2019.1.00703.S']"
+ },
+ "tw-hya_alma-vioque26": {
+  "epoch": "2015-12-01",
+  "source": "archive:alma-code",
+  "arxiv": "2512.00157",
+  "snippet": "proposals ['2015.A.00005.S']"
+ },
+ "tw-hya_alma-kurtovic26": {
+  "epoch": "2015-12-01",
+  "source": "archive:alma-code",
+  "arxiv": "2605.30023",
+  "snippet": "proposals ['2015.A.00005.S']"
+ },
+ "ux-tau_alma-vioque26": {
+  "epoch": "2021-2022",
+  "source": "archive:alma-code",
+  "arxiv": "2512.00157",
+  "snippet": "proposals ['2021.1.00994.S']"
+ },
+ "ux-tau_alma-kurtovic26": {
+  "epoch": "2015-2022",
+  "source": "archive:alma-code",
+  "arxiv": "2605.30023",
+  "snippet": "proposals ['2013.1.00498.S', '2021.1.00994.S']"
+ },
+ "uz-tau-e_alma-vioque26": {
+  "epoch": "2017-08-31",
+  "source": "archive:alma-code",
+  "arxiv": "2512.00157",
+  "snippet": "proposals ['2016.1.01164.S']"
+ },
+ "uz-tau-e_alma-kurtovic26": {
+  "epoch": "2017-08-31",
+  "source": "archive:alma-code",
+  "arxiv": "2605.30023",
+  "snippet": "proposals ['2016.1.01164.S']"
+ },
+ "v1094-sco_alma-kurtovic26": {
+  "epoch": "2017-2023",
+  "source": "archive:alma-code",
+  "arxiv": "2605.30023",
+  "snippet": "proposals ['2017.1.01167.S', '2021.1.00128.L']"
+ },
+ "v4046-sgr_alma-kurtovic26": {
+  "epoch": "2017-2018",
+  "source": "archive:alma-code",
+  "arxiv": "2605.30023",
+  "snippet": "proposals ['2017.1.01167.S']"
+ },
+ "v606-ori_alma-kurtovic26": {
+  "epoch": "2023-07-19",
+  "source": "archive:alma-code",
+  "arxiv": "2605.30023",
+  "snippet": "proposals ['2022.1.00728.S']"
+ },
+ "v721-cra_alma-vioque26": {
+  "epoch": "2016-08-16",
+  "source": "archive:alma-code",
+  "arxiv": "2512.00157",
+  "snippet": "proposals ['2015.1.01301.S']"
+ },
+ "v721-cra_alma-kurtovic26": {
+  "epoch": "2016-08-16",
+  "source": "archive:alma-code",
+  "arxiv": "2605.30023",
+  "snippet": "proposals ['2015.1.01301.S']"
+ },
+ "v892-tau_alma-vioque26": {
+  "epoch": "2021-2022",
+  "source": "archive:alma-code",
+  "arxiv": "2512.00157",
+  "snippet": "proposals ['2021.1.01137.S']"
+ },
+ "v892-tau_alma-kurtovic26": {
+  "epoch": "2015-2022",
+  "source": "archive:alma-code",
+  "arxiv": "2605.30023",
+  "snippet": "proposals ['2013.1.00498.S', '2021.1.01137.S']"
+ },
+ "waoph-6_alma-kurtovic26": {
+  "epoch": "2017",
+  "source": "archive:alma-code",
+  "arxiv": "2605.30023",
+  "snippet": "proposals ['2016.1.00484.L']"
+ },
+ "wispit-2_alma-kurtovic26": {
+  "epoch": "2025",
+  "source": "archive:alma-cone1",
+  "arxiv": "2605.30023",
+  "snippet": "proposals ['2025.1.00433.S']"
+ },
+ "wsb-52_alma-kurtovic26": {
+  "epoch": "2017-2023",
+  "source": "archive:alma-code",
+  "arxiv": "2605.30023",
+  "snippet": "proposals ['2016.1.00484.L', '2022.1.00875.L']"
+ },
+ "wsb-82_alma-vioque26": {
+  "epoch": "2019-06-05",
+  "source": "archive:alma-code",
+  "arxiv": "2512.00157",
+  "snippet": "proposals ['2018.1.00028.S']"
+ },
+ "wsb-82_alma-kurtovic26": {
+  "epoch": "2019-06-05",
+  "source": "archive:alma-code",
+  "arxiv": "2605.30023",
+  "snippet": "proposals ['2018.1.00028.S']"
+ },
+ "ww-cha_alma-kurtovic26": {
+  "epoch": "2017-2023",
+  "source": "archive:alma-code",
+  "arxiv": "2605.30023",
+  "snippet": "proposals ['2017.1.00286.S', '2022.1.01365.S']"
+ },
+ "zz-tau-irs_alma-kurtovic26": {
+  "epoch": "2026-06-17",
+  "source": "archive:alma-cone1",
+  "arxiv": "2605.30023",
+  "snippet": "proposals ['2025.1.01508.S']"
  }
 }

@@ -46,7 +46,8 @@
     "arxiv": "2504.18725",
     "bibcode": "2025ApJ...984L...9C"
    },
-   "epoch": "2021-2022"
+   "epoch": "2021-2022",
+   "content": "continuum"
   },
   {
    "type": "disk_scattered",
@@ -67,7 +68,8 @@
     "arxiv": "2403.02158",
     "bibcode": "2024A&A...685A..53G"
    },
-   "epoch": "2018-10-01"
+   "epoch": "2018-10-01",
+   "content": "continuum"
   },
   {
    "image_id": "dm-tau_alice-f160w",
@@ -89,7 +91,8 @@
     "bibcode": "2018AJ....155..179H"
    },
    "hires_url": "https://archive.stsci.edu/prepds/alice/",
-   "epoch": "2005-2006"
+   "epoch": "2005-2006",
+   "content": "continuum"
   },
   {
    "image_id": "dm-tau_nirc2-sam2016",
@@ -110,7 +113,8 @@
     "bibcode": "2016A&A...595A...9W"
    },
    "file": "images/dm-tau/dm-tau_nirc2-sam2016.png",
-   "epoch": "2012-2014"
+   "epoch": "2012-2014",
+   "content": "continuum"
   },
   {
    "image_id": "dm-tau_sphere-ks-qphi",
@@ -131,7 +135,8 @@
     "bibcode": "2023A&A...680A.114R"
    },
    "file": "images/dm-tau/dm-tau_sphere-ks-qphi.png",
-   "epoch": "2020-12-19"
+   "epoch": "2020-12-19",
+   "content": "continuum"
   },
   {
    "image_id": "dm-tau_exoalma-co",
@@ -152,7 +157,8 @@
     "bibcode": "2025ApJ...984L...6T"
    },
    "file": "images/dm-tau/dm-tau_exoalma-co.png",
-   "epoch": "2021-2022"
+   "epoch": "2021-2022",
+   "content": "line"
   },
   {
    "image_id": "dm-tau_hashimoto2021-band6",
@@ -173,7 +179,8 @@
     "bibcode": "2021ApJ...911....5H"
    },
    "file": "images/dm-tau/dm-tau_hashimoto2021.png",
-   "epoch": "2019"
+   "epoch": "2019",
+   "content": "continuum"
   },
   {
    "image_id": "dm-tau_alma-vioque26",
@@ -194,7 +201,8 @@
     "arxiv": "2512.00157",
     "bibcode": "2026A&A...705A.238V"
    },
-   "epoch": null
+   "epoch": "2017-2019",
+   "content": "continuum"
   },
   {
    "image_id": "dm-tau_alma-kurtovic26",
@@ -215,7 +223,8 @@
     "arxiv": "2605.30023",
     "bibcode": "2026arXiv260530023K"
    },
-   "epoch": null
+   "epoch": "2015-2019",
+   "content": "continuum"
   },
   {
    "image_id": "dm-tau_carma1300",
@@ -237,7 +246,8 @@
     "arxiv": "0906.2227",
     "bibcode": "2009ApJ...701..260I"
    },
-   "epoch": "2007-11-05"
+   "epoch": "2007-11-05",
+   "content": "continuum"
   }
  ],
  "notes": null,

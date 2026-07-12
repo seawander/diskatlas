@@ -61,7 +61,8 @@
     "arxiv": "2501.09058",
     "bibcode": "2025A&A...693A.151M"
    },
-   "epoch": "2015-2018"
+   "epoch": "2015-2018",
+   "content": "continuum"
   },
   {
    "type": "disk_mm",
@@ -82,7 +83,8 @@
    },
    "image_id": "fomalhaut_alma2017",
    "file": "images/fomalhaut/fomalhaut_alma2017.png",
-   "epoch": "2015 Dec 29"
+   "epoch": "2015 Dec 29",
+   "content": "continuum"
   },
   {
    "type": "disk_mm",
@@ -103,7 +105,8 @@
    },
    "image_id": "fomalhaut_jwst2023",
    "file": "images/fomalhaut/fomalhaut_jwst2023.png",
-   "epoch": "2022 Oct 22"
+   "epoch": "2022 Oct 22",
+   "content": "continuum"
   },
   {
    "type": "disk_scattered",
@@ -124,7 +127,8 @@
    },
    "image_id": "fomalhaut_acs2005",
    "file": "images/fomalhaut/fomalhaut_acs2005.png",
-   "epoch": "2004"
+   "epoch": "2004",
+   "content": "continuum"
   },
   {
    "type": "planet",
@@ -145,7 +149,8 @@
    },
    "image_id": "fomalhaut_acs2008",
    "file": "images/fomalhaut/fomalhaut_acs2008.png",
-   "epoch": "2004 Oct 25"
+   "epoch": "2004 Oct 25",
+   "content": "continuum"
   },
   {
    "type": "disk_mm",
@@ -166,7 +171,8 @@
     "arxiv": "2305.03789",
     "bibcode": "2023NatAs...7..790G"
    },
-   "epoch": "2022 Oct 22"
+   "epoch": "2022 Oct 22",
+   "content": "continuum"
   },
   {
    "type": "disk_mm",
@@ -187,7 +193,8 @@
     "arxiv": "2305.03789",
     "bibcode": "2023NatAs...7..790G"
    },
-   "epoch": "2022 Oct 22"
+   "epoch": "2022 Oct 22",
+   "content": "continuum"
   },
   {
    "image_id": "fomalhaut_stis2013",
@@ -208,7 +215,8 @@
     "arxiv": "1305.2222",
     "bibcode": "2013ApJ...775...56K"
    },
-   "epoch": "2010 Sep"
+   "epoch": "2010 Sep",
+   "content": "continuum"
   },
   {
    "image_id": "fomalhaut_herschel2012",
@@ -229,7 +237,8 @@
     "bibcode": "2012A&A...540A.125A"
    },
    "file": "images/fomalhaut/fomalhaut_herschel2012.png",
-   "epoch": "2009-2012"
+   "epoch": "2009-2012",
+   "content": "continuum"
   },
   {
    "image_id": "fomalhaut_sharcii2005",
@@ -250,7 +259,8 @@
     "bibcode": "2005ApJ...620L..47M"
    },
    "file": "images/fomalhaut/fomalhaut_sharcii2005.png",
-   "epoch": "2004 Sep 18"
+   "epoch": "2004 Sep 18",
+   "content": "continuum"
   },
   {
    "image_id": "fomalhaut_spitzer-mips",
@@ -270,7 +280,8 @@
     "arxiv": null,
     "bibcode": "2004ApJS..154..458S"
    },
-   "file": "images/fomalhaut/fomalhaut_spitzer-mips.png"
+   "file": "images/fomalhaut/fomalhaut_spitzer-mips.png",
+   "content": "continuum"
   },
   {
    "image_id": "fomalhaut_scuba2-850um-sons",
@@ -291,7 +302,8 @@
     "arxiv": "1706.01218",
     "bibcode": "2017MNRAS.470.3606H"
    },
-   "epoch": "2012-2015"
+   "epoch": "2012-2015",
+   "content": "continuum"
   },
   {
    "image_id": "fomalhaut_scuba2-450um-sons",
@@ -312,7 +324,8 @@
     "arxiv": "1706.01218",
     "bibcode": "2017MNRAS.470.3606H"
    },
-   "epoch": "2012-2015"
+   "epoch": "2012-2015",
+   "content": "continuum"
   }
  ],
  "notes": null,

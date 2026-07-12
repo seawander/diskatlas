@@ -32,7 +32,8 @@
     "arxiv": "1302.5705",
     "bibcode": "2013ApJ...767...10F"
    },
-   "epoch": "2011 Mar 29"
+   "epoch": "2011 Mar 29",
+   "content": "continuum"
   },
   {
    "image_id": "sr-21_sphere2020",
@@ -53,7 +54,8 @@
     "arxiv": "2003.08189",
     "bibcode": "2020A&A...636L...4M"
    },
-   "epoch": "2018-03-01"
+   "epoch": "2018-03-01",
+   "content": "continuum"
   },
   {
    "type": "disk_mm",
@@ -74,7 +76,8 @@
     "arxiv": "2003.08189",
     "bibcode": "2020A&A...636L...4M"
    },
-   "epoch": "2017-11-09"
+   "epoch": "2017-11-09",
+   "content": "continuum"
   },
   {
    "image_id": "sr-21_nirc22020",
@@ -95,7 +98,8 @@
     "arxiv": "2011.00044",
     "bibcode": "2020AJ....160..283U"
    },
-   "epoch": "2020 May 31"
+   "epoch": "2020 May 31",
+   "content": "continuum"
   },
   {
    "image_id": "sr-21_alma2015",
@@ -116,7 +120,8 @@
     "bibcode": "2015A&A...579A.106V"
    },
    "file": "images/sr-21/sr-21_alma2015.png",
-   "epoch": "2012-07-18"
+   "epoch": "2012-07-18",
+   "content": "continuum"
   },
   {
    "image_id": "sr-21_alma2023",
@@ -137,7 +142,8 @@
     "bibcode": "2023ApJ...948..110Y"
    },
    "file": "images/sr-21/sr-21_alma2023.png",
-   "epoch": "2019"
+   "epoch": "2019",
+   "content": "continuum"
   },
   {
    "image_id": "sr-21_magao2019",
@@ -159,7 +165,8 @@
    },
    "file": "images/sr-21/sr-21_magao2019.png",
    "note": "Magellan/MagAO (VisAO+Clio2 non-redundant masking) is a new facility for sr-21.json (existing record was Keck/NIRC2 PWFS from Uyama et al. 2020, a different instrument/epoch). Cropped the cleanest single-epoch NRM image reconstruction (Fig. 10, June 2017 L') showing the ring/warp; Fig. 1 (raw MagAO Halpha+continuum KLIP frames) was checked first but is a non-detection/SNR-map figure, not a resolved image, so it was not used.",
-   "epoch": "2017 Jun"
+   "epoch": "2017 Jun",
+   "content": "continuum"
   },
   {
    "image_id": "sr-21_alma-vioque26",
@@ -180,7 +187,8 @@
     "arxiv": "2512.00157",
     "bibcode": "2026A&A...705A.238V"
    },
-   "epoch": null
+   "epoch": "2019",
+   "content": "continuum"
   },
   {
    "image_id": "sr-21_alma-kurtovic26",
@@ -201,7 +209,8 @@
     "arxiv": "2605.30023",
     "bibcode": "2026arXiv260530023K"
    },
-   "epoch": null
+   "epoch": "2019",
+   "content": "continuum"
   },
   {
    "image_id": "sr-21_sma880",
@@ -223,7 +232,8 @@
     "arxiv": "0906.0730",
     "bibcode": "2009ApJ...700.1502A"
    },
-   "epoch": "2007-2008"
+   "epoch": "2007-2008",
+   "content": "continuum"
   }
  ],
  "notes": "AUTO-CREATED from staging - fill metadata & coords",

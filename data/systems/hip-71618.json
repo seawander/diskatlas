@@ -55,7 +55,8 @@
     "arxiv": "2512.02126",
     "bibcode": "2025ApJ...995L...4E"
    },
-   "epoch": "2024-02-20"
+   "epoch": "2024-02-20",
+   "content": "continuum"
   },
   {
    "image_id": "hip-71618_charis-2025-03-14",
@@ -76,7 +77,8 @@
     "arxiv": "2512.02126",
     "bibcode": "2025ApJ...995L...4E"
    },
-   "epoch": "2025-03-14"
+   "epoch": "2025-03-14",
+   "content": "continuum"
   },
   {
    "image_id": "hip-71618_charis-2025-05-12",
@@ -97,7 +99,8 @@
     "arxiv": "2512.02126",
     "bibcode": "2025ApJ...995L...4E"
    },
-   "epoch": "2025-05-12"
+   "epoch": "2025-05-12",
+   "content": "continuum"
   },
   {
    "image_id": "hip-71618_nirc2-2024-02-23",
@@ -118,7 +121,8 @@
     "arxiv": "2512.02126",
     "bibcode": "2025ApJ...995L...4E"
    },
-   "epoch": "2024-02-23"
+   "epoch": "2024-02-23",
+   "content": "continuum"
   },
   {
    "image_id": "hip-71618_nirc2-2024-06-17",
@@ -139,7 +143,8 @@
     "arxiv": "2512.02126",
     "bibcode": "2025ApJ...995L...4E"
    },
-   "epoch": "2024-06-17"
+   "epoch": "2024-06-17",
+   "content": "continuum"
   }
  ],
  "notes": "HIP 71618 B was discovered by the OASIS survey, combining a Hipparcos-Gaia astrometric acceleration with SCExAO/CHARIS (JHK, 2024-2025) and Keck/NIRC2 (Lp) direct imaging (El Morsy+2025); separation ~0.3 arcsec (~11 au). Dynamical mass 60-65 Mjup (prior-dependent); atmospheric fits favor M6-M8, Teff ~2600-2800 K.",

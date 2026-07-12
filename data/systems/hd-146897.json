@@ -34,7 +34,8 @@
     "arxiv": "2004.13722",
     "bibcode": "2020AJ....160...24E"
    },
-   "epoch": "2016-03-21"
+   "epoch": "2016-03-21",
+   "content": "continuum"
   },
   {
    "type": "disk_mm",
@@ -55,7 +56,8 @@
     "arxiv": "2501.09058",
     "bibcode": "2025A&A...693A.151M"
    },
-   "epoch": "2014-03-23"
+   "epoch": "2014-03-23",
+   "content": "continuum"
   },
   {
    "type": "disk_scattered",
@@ -75,7 +77,8 @@
     "journal": "A&A 704, A21",
     "arxiv": "2512.03128",
     "bibcode": "2025A&A...704A..21E"
-   }
+   },
+   "content": "continuum"
   },
   {
    "image_id": "hd-146897_gpi-crotts24",
@@ -96,7 +99,8 @@
     "arxiv": "2311.14599",
     "bibcode": "2024ApJ...961..245C"
    },
-   "epoch": "2016-03-21"
+   "epoch": "2016-03-21",
+   "content": "continuum"
   },
   {
    "image_id": "hd-146897_gpi-hom24",
@@ -117,7 +121,8 @@
     "bibcode": "2024MNRAS.528.6959H"
    },
    "file": "images/hd-146897/hd-146897_gpi-hom24.png",
-   "epoch": "2016-03-21"
+   "epoch": "2016-03-21",
+   "content": "continuum"
   },
   {
    "image_id": "hd-146897_seeds",
@@ -138,7 +143,8 @@
     "arxiv": "1301.0625",
     "bibcode": "2013ApJ...763L..29T"
    },
-   "epoch": "2012"
+   "epoch": "2012",
+   "content": "continuum"
   },
   {
    "image_id": "hd-146897_spherez2017",
@@ -159,7 +165,8 @@
     "arxiv": "1709.00417",
     "bibcode": "2017A&A...607A..90E"
    },
-   "epoch": "2015 Apr 24"
+   "epoch": "2015 Apr 24",
+   "content": "continuum"
   },
   {
    "image_id": "hd-146897_scexao-charis2018",
@@ -180,7 +187,8 @@
     "bibcode": "2018AJ....156..279G"
    },
    "file": "images/hd-146897/hd-146897_scexao-charis2018.png",
-   "epoch": "2017 Aug 14"
+   "epoch": "2017 Aug 14",
+   "content": "continuum"
   },
   {
    "image_id": "hd-146897_gpi-h-i-hom24",
@@ -202,7 +210,8 @@
     "arxiv": "2402.00214",
     "bibcode": "2024MNRAS.528.6959H"
    },
-   "epoch": "2018-08-15"
+   "epoch": "2018-08-15",
+   "content": "continuum"
   }
  ],
  "notes": "Merged duplicate system hip-79977 (HIP 79977 == HD 146897) on 2026-07-06.",

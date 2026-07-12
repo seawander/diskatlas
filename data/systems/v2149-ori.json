@@ -54,11 +54,12 @@
     "arxiv": "2403.02156",
     "bibcode": "2024A&A...685A..54V"
    },
-   "epoch": "2001 Dec"
+   "epoch": "2020-02-16",
+   "content": "continuum"
   }
  ],
- "notes": "AUTO-CREATED from staging - fill metadata & coords",
- "last_updated": "2026-07-10",
+ "notes": "G0+F7 known double in the Orion star-forming region; the held SPHERE/IRDIS H-band total-intensity image recovers the stellar companion at a separation measurably larger than the 0.33 arcsec found in December 2001 by Koehler et al. (2006), while no disk is detected in polarized light (Valegard et al. 2024).",
+ "last_updated": "2026-07-11",
  "mags": {
   "U": 13.26,
   "B": 12.141,

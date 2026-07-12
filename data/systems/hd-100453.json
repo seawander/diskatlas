@@ -58,7 +58,8 @@
     "arxiv": "2206.05815",
     "bibcode": "2022AJ....164..109R"
    },
-   "epoch": "2015-04-10"
+   "epoch": "2015-04-10",
+   "content": "continuum"
   },
   {
    "type": "disk_scattered",
@@ -79,7 +80,8 @@
    },
    "image_id": "hd-100453_sphere2017",
    "file": "images/hd-100453/hd-100453_sphere2017.png",
-   "epoch": "2015-2016"
+   "epoch": "2015-2016",
+   "content": "continuum"
   },
   {
    "type": "disk_scattered",
@@ -100,7 +102,8 @@
     "arxiv": "2310.08589",
     "bibcode": "2023A&A...680A.114R"
    },
-   "epoch": "2022-06-09"
+   "epoch": "2022-06-09",
+   "content": "continuum"
   },
   {
    "type": "disk_scattered",
@@ -121,7 +124,8 @@
     "arxiv": "2112.00123",
     "bibcode": "2022A&A...658A.183B"
    },
-   "epoch": "2015-2018"
+   "epoch": "2015-2018",
+   "content": "continuum"
   },
   {
    "image_id": "hd-100453_alma2019",
@@ -142,7 +146,8 @@
     "arxiv": "1902.00720",
     "bibcode": "2019A&A...624A..33V"
    },
-   "epoch": "2016"
+   "epoch": "2016",
+   "content": "continuum"
   },
   {
    "image_id": "hd-100453_sphere-ks-qphi",
@@ -163,7 +168,8 @@
     "bibcode": "2023A&A...680A.114R"
    },
    "file": "images/hd-100453/hd-100453_sphere-ks-qphi.png",
-   "epoch": "2022-06-09"
+   "epoch": "2022-06-09",
+   "content": "continuum"
   },
   {
    "image_id": "hd-100453_sphere-rdi-xie22",
@@ -184,7 +190,8 @@
     "bibcode": "2022A&A...666A..32X"
    },
    "file": "images/hd-100453/hd-100453_sphere-rdi-xie22.png",
-   "epoch": "2015-2018"
+   "epoch": "2015-2018",
+   "content": "continuum"
   },
   {
    "image_id": "hd-100453_magao2022",
@@ -206,7 +213,8 @@
    },
    "file": "images/hd-100453/hd-100453_magao2022.png",
    "note": "HD 100453 B robustly recovered in both Halpha and continuum imagery in all GAPlanetS epochs with clear Halpha excess (active accretion); this is the paper's cleanest, most confident detection besides the already-catalogued HD 142527 B.",
-   "epoch": "2018 May 2"
+   "epoch": "2018 May 2",
+   "content": "line"
   },
   {
    "image_id": "hd-100453_visir2021",
@@ -228,7 +236,8 @@
    },
    "file": "images/hd-100453/hd-100453_visir2021.png",
    "note": "HD 100453 resolved in both PAH1 and NEAR filters per the paper. Note: this system already got a new Magellan-MagAO planet-panel record (hd-100453_magao2022) from the GAPlanetS paper in this same batch -- both records target the same system_id but are distinct image_ids.",
-   "epoch": "2018"
+   "epoch": "2018",
+   "content": "continuum"
   },
   {
    "type": "disk_scattered",
@@ -249,7 +258,8 @@
     "journal": "ApJL 813, L2",
     "title": "Discovery of a Two-armed Spiral Structure in the Gapped Disk around Herbig Ae Star HD 100453"
    },
-   "epoch": "2015 Apr 10"
+   "epoch": "2015 Apr 10",
+   "content": "continuum"
   },
   {
    "type": "disk_scattered",
@@ -270,7 +280,8 @@
     "journal": "ApJL 813, L2",
     "title": "Discovery of a Two-armed Spiral Structure in the Gapped Disk around Herbig Ae Star HD 100453"
    },
-   "epoch": "2015 Apr 10"
+   "epoch": "2015 Apr 10",
+   "content": "continuum"
   },
   {
    "type": "disk_scattered",
@@ -291,7 +302,8 @@
     "journal": "ApJL 813, L2",
     "title": "Discovery of a Two-armed Spiral Structure in the Gapped Disk around Herbig Ae Star HD 100453"
    },
-   "epoch": "2015 Apr 10"
+   "epoch": "2015 Apr 10",
+   "content": "continuum"
   },
   {
    "type": "disk_scattered",
@@ -312,7 +324,8 @@
     "journal": "ApJL 813, L2",
     "title": "Discovery of a Two-armed Spiral Structure in the Gapped Disk around Herbig Ae Star HD 100453"
    },
-   "epoch": "2015 Apr 10"
+   "epoch": "2015 Apr 10",
+   "content": "continuum"
   },
   {
    "type": "disk_scattered",
@@ -333,7 +346,8 @@
     "journal": "ApJL 813, L2",
     "title": "Discovery of a Two-armed Spiral Structure in the Gapped Disk around Herbig Ae Star HD 100453"
    },
-   "epoch": "2015 Apr 10"
+   "epoch": "2015 Apr 10",
+   "content": "continuum"
   },
   {
    "type": "planet",
@@ -354,7 +368,8 @@
     "journal": "A&A 445, 331",
     "title": "VLT/NACO adaptive optics imaging of the Herbig Ae star HD 100453"
    },
-   "epoch": "2003-06-02"
+   "epoch": "2003-06-02",
+   "content": "continuum"
   },
   {
    "image_id": "hd-100453_sphere2017-Rp",
@@ -375,7 +390,8 @@
     "arxiv": "1610.10089",
     "bibcode": "2017A&A...597A..42B"
    },
-   "epoch": "2015-2016"
+   "epoch": "2015-2016",
+   "content": "continuum"
   },
   {
    "image_id": "hd-100453_sphere2017-Ip",
@@ -396,7 +412,8 @@
     "arxiv": "1610.10089",
     "bibcode": "2017A&A...597A..42B"
    },
-   "epoch": "2015-2016"
+   "epoch": "2015-2016",
+   "content": "continuum"
   },
   {
    "image_id": "hd-100453_magao-clio2-lp",
@@ -417,7 +434,8 @@
     "arxiv": "1801.03900",
     "bibcode": "2018ApJ...854..130W"
    },
-   "epoch": "2017-02-17"
+   "epoch": "2017-02-17",
+   "content": "continuum"
   },
   {
    "image_id": "hd-100453_sphere-h23-wagner18",
@@ -438,7 +456,8 @@
     "arxiv": "1801.03900",
     "bibcode": "2018ApJ...854..130W"
    },
-   "epoch": "2016-01-21"
+   "epoch": "2016-01-21",
+   "content": "continuum"
   },
   {
    "image_id": "hd-100453_alma-vioque26",
@@ -459,7 +478,8 @@
     "arxiv": "2512.00157",
     "bibcode": "2026A&A...705A.238V"
    },
-   "epoch": null
+   "epoch": "2017-10-21",
+   "content": "continuum"
   },
   {
    "image_id": "hd-100453_alma-kurtovic26",
@@ -480,7 +500,8 @@
     "arxiv": "2605.30023",
     "bibcode": "2026arXiv260530023K"
    },
-   "epoch": null
+   "epoch": "2017-10-21",
+   "content": "continuum"
   }
  ],
  "notes": null,

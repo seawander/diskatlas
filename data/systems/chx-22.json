@@ -32,11 +32,12 @@
     "arxiv": "2403.02149",
     "bibcode": "2024A&A...685A..52G"
    },
-   "epoch": "2020-02-19"
+   "epoch": "2020-02-19",
+   "content": "continuum"
   }
  ],
- "notes": "AUTO-CREATED from staging - fill metadata & coords",
- "last_updated": "2026-07-06",
+ "notes": "Close visual binary (G8+K7, mass ratio near unity) in Chamaeleon I with a very low disk dust mass (<1 Earth mass); polarized scattered light from circumstellar dust was detected in the SPHERE/IRDIS H-band Cha I census image held here (Ginski et al. 2024).",
+ "last_updated": "2026-07-11",
  "plx_mas": 5.2302,
  "mags": {
   "V": 11.103,

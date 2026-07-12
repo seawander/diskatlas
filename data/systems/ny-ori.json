@@ -42,7 +42,8 @@
     "arxiv": "2403.12124",
     "bibcode": "2024A&A...686A.309Z"
    },
-   "epoch": "2016-12-17"
+   "epoch": "2016-12-17",
+   "content": "continuum"
   }
  ],
  "notes": "EXor object in the Orion Nebula Cloud complex; SPHERE polarimetry reveals a faint, marginally resolved disk (Zurlo et al. 2024). Visually close (5.5 arcsec) to the unrelated star V566 Ori (Parenago 2118). The paper uses the Q_phi image for this target (single, faint central light source) rather than PI.",

@@ -34,7 +34,8 @@
     "arxiv": "2008.06518",
     "bibcode": "2020A&A...642A.164V"
    },
-   "epoch": "2016-11-15"
+   "epoch": "2016-11-15",
+   "content": "continuum"
   },
   {
    "image_id": "eso-halpha-569_acs2012",
@@ -55,7 +56,8 @@
     "bibcode": "2017ApJ...851...56W"
    },
    "file": "images/eso-halpha-569/eso-halpha-569_acs2012.png",
-   "epoch": "2012-03-09"
+   "epoch": "2012-03-09",
+   "content": "continuum"
   },
   {
    "image_id": "eso-halpha-569_acs2012-f606w",
@@ -76,7 +78,8 @@
     "bibcode": "2017ApJ...851...56W"
    },
    "file": "images/eso-halpha-569/eso-halpha-569_acs2012-f606w.png",
-   "epoch": "2012-03-09"
+   "epoch": "2012-03-09",
+   "content": "continuum"
   }
  ],
  "notes": "AUTO-CREATED from staging - fill metadata & coords",

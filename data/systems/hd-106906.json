@@ -47,7 +47,8 @@
     "arxiv": "2004.13722",
     "bibcode": "2020AJ....160...24E"
    },
-   "epoch": "2015"
+   "epoch": "2015",
+   "content": "continuum"
   },
   {
    "type": "disk_scattered",
@@ -67,7 +68,8 @@
     "bibcode": "2015ApJ...814...32K"
    },
    "image_id": "hd-106906_gpi2015",
-   "file": "images/hd-106906/hd-106906_gpi2015.png"
+   "file": "images/hd-106906/hd-106906_gpi2015.png",
+   "content": "continuum"
   },
   {
    "type": "planet",
@@ -88,7 +90,8 @@
    },
    "image_id": "hd-106906_mago2014",
    "file": "images/hd-106906/hd-106906_mago2014.png",
-   "epoch": "2013 Apr 7"
+   "epoch": "2013 Apr 7",
+   "content": "continuum"
   },
   {
    "type": "disk_mm",
@@ -109,7 +112,8 @@
     "arxiv": "2501.09058",
     "bibcode": "2025A&A...693A.151M"
    },
-   "epoch": "2018-06-03"
+   "epoch": "2018-06-03",
+   "content": "continuum"
   },
   {
    "type": "disk_scattered",
@@ -130,7 +134,8 @@
     "arxiv": "2512.03128",
     "bibcode": "2025A&A...704A..21E"
    },
-   "epoch": "2017-2019"
+   "epoch": "2017-2019",
+   "content": "continuum"
   },
   {
    "image_id": "hd-106906_gpi-crotts24",
@@ -151,7 +156,8 @@
     "arxiv": "2311.14599",
     "bibcode": "2024ApJ...961..245C"
    },
-   "epoch": "2015-07-01"
+   "epoch": "2015-07-01",
+   "content": "continuum"
   },
   {
    "image_id": "hd-106906_jwst-miri-f1140c",
@@ -172,7 +178,8 @@
     "bibcode": "2025A&A...698A.113R"
    },
    "file": "images/hd-106906/hd-106906_jwst-miri-f1140c.png",
-   "epoch": "2023 May 16"
+   "epoch": "2023 May 16",
+   "content": "continuum"
   },
   {
    "image_id": "hd-106906_jwst-miri-f1550c",
@@ -193,7 +200,8 @@
     "bibcode": "2025A&A...698A.113R"
    },
    "file": "images/hd-106906/hd-106906_jwst-miri-f1550c.png",
-   "epoch": "2023 May 16"
+   "epoch": "2023 May 16",
+   "content": "continuum"
   },
   {
    "image_id": "hd-106906_acs2015",
@@ -214,7 +222,8 @@
     "arxiv": "1510.02747",
     "bibcode": "2015ApJ...814...32K"
    },
-   "epoch": "2004 Dec 1"
+   "epoch": "2004 Dec 1",
+   "content": "continuum"
   },
   {
    "image_id": "hd-106906_sphere-rdi-xie22",
@@ -235,7 +244,8 @@
     "bibcode": "2022A&A...666A..32X"
    },
    "file": "images/hd-106906/hd-106906_sphere-rdi-xie22.png",
-   "epoch": "2017-2019"
+   "epoch": "2017-2019",
+   "content": "continuum"
   },
   {
    "image_id": "hd-106906_visao2016",
@@ -255,7 +265,8 @@
     "arxiv": "1604.06847",
     "bibcode": "2016ApJ...823...24W"
    },
-   "file": "images/hd-106906/hd-106906_visao2016.png"
+   "file": "images/hd-106906/hd-106906_visao2016.png",
+   "content": "continuum"
   },
   {
    "image_id": "hd-106906_zhou2020-wfc3",
@@ -276,7 +287,8 @@
     "bibcode": "2020AJ....159..140Z"
    },
    "file": "images/hd-106906/hd-106906_zhou2020-wfc3.png",
-   "epoch": "2016-2018"
+   "epoch": "2016-2018",
+   "content": "continuum"
   },
   {
    "image_id": "hd-106906_gpi-h-i-hom24",
@@ -298,7 +310,8 @@
     "arxiv": "2402.00214",
     "bibcode": "2024MNRAS.528.6959H"
    },
-   "epoch": "2015-05-04"
+   "epoch": "2015-05-04",
+   "content": "continuum"
   }
  ],
  "notes": null,

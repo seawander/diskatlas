@@ -34,11 +34,12 @@
     "arxiv": "2512.03128",
     "bibcode": "2025A&A...704A..21E"
    },
-   "epoch": "2015-2019"
+   "epoch": "2015-2019",
+   "content": "continuum"
   }
  ],
- "notes": "AUTO-CREATED from staging - fill metadata & coords",
- "last_updated": "2026-07-06",
+ "notes": "F5V debris disk host, among the 51 disks resolved in the SPHERE debris-disk characterization study; the held image is the IRDIS/IFS H-band total-intensity detection (Engler et al. 2025).",
+ "last_updated": "2026-07-11",
  "plx_mas": 7.7897,
  "mags": {
   "B": 9.39,

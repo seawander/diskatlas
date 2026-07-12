@@ -43,7 +43,8 @@
     "arxiv": "1512.02220",
     "bibcode": "2016ApJ...817L...2C"
    },
-   "epoch": "2005-02-07"
+   "epoch": "2005-02-07",
+   "content": "continuum"
   },
   {
    "type": "disk_scattered",
@@ -64,7 +65,8 @@
     "arxiv": "2302.04273",
     "bibcode": "2023A&A...672A.114R"
    },
-   "epoch": "2005-02-07"
+   "epoch": "2005-02-07",
+   "content": "continuum"
   },
   {
    "type": "disk_scattered",
@@ -84,7 +86,8 @@
     "journal": "A&A 704, A21",
     "arxiv": "2512.03128",
     "bibcode": "2025A&A...704A..21E"
-   }
+   },
+   "content": "continuum"
   },
   {
    "type": "disk_scattered",
@@ -105,7 +108,8 @@
     "arxiv": "2302.04273",
     "bibcode": "2023A&A...672A.114R"
    },
-   "epoch": "2018-06-27"
+   "epoch": "2018-06-27",
+   "content": "continuum"
   },
   {
    "image_id": "twa-25_alice-f160w",
@@ -127,7 +131,8 @@
     "bibcode": "2018AJ....155..179H"
    },
    "hires_url": "https://archive.stsci.edu/prepds/alice/",
-   "epoch": "2005-02-07"
+   "epoch": "2005-02-07",
+   "content": "continuum"
   }
  ],
  "notes": null,

@@ -49,7 +49,8 @@
     "arxiv": "2504.18725",
     "bibcode": "2025ApJ...984L...9C"
    },
-   "epoch": "2021-2022"
+   "epoch": "2021-2022",
+   "content": "continuum"
   },
   {
    "type": "disk_mm",
@@ -70,7 +71,8 @@
    },
    "image_id": "mwc-758_alma2018",
    "file": "images/mwc-758/mwc-758_alma2018.png",
-   "epoch": "2017 Nov 12"
+   "epoch": "2017 Nov 12",
+   "content": "continuum"
   },
   {
    "type": "disk_scattered",
@@ -91,7 +93,8 @@
    },
    "image_id": "mwc-758_sphere2015",
    "file": "images/mwc-758/mwc-758_sphere2015.png",
-   "epoch": "2014-2015"
+   "epoch": "2014-2015",
+   "content": "continuum"
   },
   {
    "type": "disk_scattered",
@@ -112,7 +115,8 @@
     "arxiv": "2403.02158",
     "bibcode": "2024A&A...685A..53G"
    },
-   "epoch": "2020-12-25"
+   "epoch": "2020-12-25",
+   "content": "continuum"
   },
   {
    "type": "disk_scattered",
@@ -133,7 +137,8 @@
     "arxiv": "2310.08589",
     "bibcode": "2023A&A...680A.114R"
    },
-   "epoch": "2020-12-19"
+   "epoch": "2020-12-19",
+   "content": "continuum"
   },
   {
    "image_id": "mwc-758_seeds",
@@ -154,7 +159,8 @@
     "arxiv": "1212.1466",
     "bibcode": "2013ApJ...762...48G"
    },
-   "epoch": "2012 Mar 11"
+   "epoch": "2012 Mar 11",
+   "content": "continuum"
   },
   {
    "image_id": "mwc-758_alice-f110w",
@@ -176,7 +182,8 @@
     "bibcode": "2018AJ....155..179H"
    },
    "hires_url": "https://archive.stsci.edu/prepds/alice/",
-   "epoch": "2005-01-07"
+   "epoch": "2005-01-07",
+   "content": "continuum"
   },
   {
    "type": "disk_scattered",
@@ -197,7 +204,8 @@
     "arxiv": "2408.04048",
     "bibcode": "2024AJ....168...78W"
    },
-   "epoch": "2015-10-24"
+   "epoch": "2015-10-24",
+   "content": "continuum"
   },
   {
    "image_id": "mwc-758_lbti2019-lp",
@@ -218,7 +226,8 @@
     "bibcode": "2019ApJ...882...20W"
    },
    "file": "images/mwc-758/mwc-758_lbti2019-lp.png",
-   "epoch": "2017 Feb"
+   "epoch": "2017 Feb",
+   "content": "continuum"
   },
   {
    "image_id": "mwc-758_lbti2019-mp",
@@ -239,7 +248,8 @@
     "bibcode": "2019ApJ...882...20W"
    },
    "file": "images/mwc-758/mwc-758_lbti2019-mp.png",
-   "epoch": "2018 Dec"
+   "epoch": "2018 Dec",
+   "content": "continuum"
   },
   {
    "image_id": "mwc-758_lbti2023",
@@ -260,7 +270,8 @@
     "arxiv": "2307.04021",
     "bibcode": "2023NatAs...7.1208W"
    },
-   "epoch": "2019"
+   "epoch": "2019",
+   "content": "continuum"
   },
   {
    "image_id": "mwc-758_sphere-ks-qphi",
@@ -281,7 +292,8 @@
     "bibcode": "2023A&A...680A.114R"
    },
    "file": "images/mwc-758/mwc-758_sphere-ks-qphi.png",
-   "epoch": "2020-12-19"
+   "epoch": "2020-12-19",
+   "content": "continuum"
   },
   {
    "image_id": "mwc-758_sphere-rdi-xie22",
@@ -302,7 +314,8 @@
     "bibcode": "2022A&A...666A..32X"
    },
    "file": "images/mwc-758/mwc-758_sphere-rdi-xie22.png",
-   "epoch": "2016"
+   "epoch": "2016",
+   "content": "continuum"
   },
   {
    "image_id": "mwc-758_exoalma-co",
@@ -323,7 +336,8 @@
     "bibcode": "2025ApJ...984L...6T"
    },
    "file": "images/mwc-758/mwc-758_exoalma-co.png",
-   "epoch": "2021-2022"
+   "epoch": "2021-2022",
+   "content": "line"
   },
   {
    "image_id": "mwc-758_nicmos-ren18",
@@ -344,7 +358,8 @@
     "bibcode": "2018ApJ...857L...9R"
    },
    "file": "images/mwc-758/mwc-758_nicmos-ren18.png",
-   "epoch": "2005-01-07"
+   "epoch": "2005-01-07",
+   "content": "continuum"
   },
   {
    "image_id": "mwc-758_ren2020-y2015",
@@ -365,7 +380,8 @@
     "arxiv": "2007.04980",
     "bibcode": "2020ApJ...898L..38R"
    },
-   "epoch": "2015-03-04"
+   "epoch": "2015-03-04",
+   "content": "continuum"
   },
   {
    "image_id": "mwc-758_ren2020-y2019",
@@ -386,7 +402,8 @@
     "arxiv": "2007.04980",
     "bibcode": "2020ApJ...898L..38R"
    },
-   "epoch": "2019-11-18"
+   "epoch": "2019-11-18",
+   "content": "continuum"
   },
   {
    "image_id": "mwc-758_sphere2014-dec",
@@ -408,7 +425,8 @@
     "bibcode": "2015A&A...578L...6B"
    },
    "file": "images/mwc-758/mwc-758_sphere2014-dec.png",
-   "epoch": "2014-12"
+   "epoch": "2014-12",
+   "content": "continuum"
   },
   {
    "image_id": "mwc-758_jwst-f187n-wagner24",
@@ -429,7 +447,8 @@
     "arxiv": "2401.02830",
     "bibcode": "2024AJ....167..181W"
    },
-   "epoch": "2022-09-30"
+   "epoch": "2022-09-30",
+   "content": "continuum"
   },
   {
    "image_id": "mwc-758_jwst-f200w-wagner24",
@@ -450,7 +469,8 @@
     "arxiv": "2401.02830",
     "bibcode": "2024AJ....167..181W"
    },
-   "epoch": "2022-09-30"
+   "epoch": "2022-09-30",
+   "content": "continuum"
   },
   {
    "image_id": "mwc-758_alma-vioque26",
@@ -471,7 +491,8 @@
     "arxiv": "2512.00157",
     "bibcode": "2026A&A...705A.238V"
    },
-   "epoch": null
+   "epoch": null,
+   "content": "continuum"
   },
   {
    "image_id": "mwc-758_alma-kurtovic26",
@@ -492,7 +513,8 @@
     "arxiv": "2605.30023",
     "bibcode": "2026arXiv260530023K"
    },
-   "epoch": null
+   "epoch": null,
+   "content": "continuum"
   }
  ],
  "notes": null,

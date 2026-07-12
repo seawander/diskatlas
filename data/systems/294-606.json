@@ -34,7 +34,8 @@
     "arxiv": "0808.3336",
     "bibcode": "2008AJ....136.2136R"
    },
-   "epoch": "2004-2005"
+   "epoch": "2004-2005",
+   "content": "continuum"
   },
   {
    "image_id": "294-606_acs-f658n-ricci08",
@@ -55,7 +56,8 @@
     "arxiv": "0808.3336",
     "bibcode": "2008AJ....136.2136R"
    },
-   "epoch": "2004-2005"
+   "epoch": "2004-2005",
+   "content": "line"
   }
  ],
  "notes": "Resolved edge-on silhouette/proplyd disk in the Orion Nebula (McCaughrean-O'Dell class), imaged in the HST/ACS ONC Treasury atlas (Ricci et al. 2008). Distance = Orion Nebula Cluster (~414 pc). Added 2026-07-11.",

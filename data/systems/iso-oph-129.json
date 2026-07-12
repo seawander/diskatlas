@@ -41,7 +41,8 @@
     "arxiv": "2506.10719",
     "bibcode": "2025ApJ...989....1Z"
    },
-   "epoch": "2022"
+   "epoch": "2022",
+   "content": "continuum"
   },
   {
    "image_id": "iso-oph-129_agepro-12co",
@@ -63,7 +64,8 @@
     "arxiv": "2506.10731",
     "bibcode": "2025ApJ...989....2R"
    },
-   "epoch": "2022"
+   "epoch": "2022",
+   "content": "line"
   },
   {
    "image_id": "iso-oph-129_agepro-13co",
@@ -85,7 +87,8 @@
     "arxiv": "2506.10731",
     "bibcode": "2025ApJ...989....2R"
    },
-   "epoch": "2022"
+   "epoch": "2022",
+   "content": "line"
   }
  ],
  "notes": "AGE-PRO Ophiuchus 3. Smooth disk at AGE-PRO resolution (Vioque et al. 2025). Distance = 139 pc Ophiuchus average adopted by AGE-PRO.",

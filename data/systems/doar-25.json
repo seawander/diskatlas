@@ -32,7 +32,8 @@
     "arxiv": "1812.04040",
     "bibcode": "2018ApJ...869L..41A"
    },
-   "epoch": "2017-05-14"
+   "epoch": "2017-05-14",
+   "content": "continuum"
   },
   {
    "image_id": "doar-25_alice-f160w",
@@ -54,7 +55,8 @@
     "bibcode": "2018AJ....155..179H"
    },
    "hires_url": "https://archive.stsci.edu/prepds/alice/",
-   "epoch": "2005-2008"
+   "epoch": "2005-2008",
+   "content": "continuum"
   },
   {
    "image_id": "doar-25_sphere2020",
@@ -75,7 +77,8 @@
     "arxiv": "1911.10853",
     "bibcode": "2020A&A...633A..82G"
    },
-   "epoch": "2017 Mar 13"
+   "epoch": "2017 Mar 13",
+   "content": "continuum"
   },
   {
    "image_id": "doar-25_jwst-jdiscs",
@@ -95,7 +98,8 @@
     "arxiv": "2605.07016",
     "bibcode": "2026ApJ..1004..188N"
    },
-   "file": "images/doar-25/doar-25_jwst-jdiscs.png"
+   "file": "images/doar-25/doar-25_jwst-jdiscs.png",
+   "content": "continuum"
   },
   {
    "image_id": "doar-25_alma-kurtovic26",
@@ -116,7 +120,8 @@
     "arxiv": "2605.30023",
     "bibcode": "2026arXiv260530023K"
    },
-   "epoch": null
+   "epoch": "2017",
+   "content": "continuum"
   },
   {
    "image_id": "doar-25_sma880",
@@ -138,7 +143,8 @@
     "arxiv": "0906.0730",
     "bibcode": "2009ApJ...700.1502A"
    },
-   "epoch": "2005-2007"
+   "epoch": "2005-2007",
+   "content": "continuum"
   }
  ],
  "notes": null,

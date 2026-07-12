@@ -36,7 +36,8 @@
    },
    "image_id": "hd-139664_acs2006",
    "file": "images/hd-139664/hd-139664_acs2006.png",
-   "epoch": "2004-2006"
+   "epoch": "2004-2006",
+   "content": "continuum"
   },
   {
    "type": "disk_scattered",
@@ -57,7 +58,8 @@
     "arxiv": "1406.7303",
     "bibcode": "2014AJ....148...59S"
    },
-   "epoch": "2011"
+   "epoch": "2011",
+   "content": "continuum"
   },
   {
    "type": "disk_mm",
@@ -78,7 +80,8 @@
     "arxiv": "2501.09058",
     "bibcode": "2025A&A...693A.151M"
    },
-   "epoch": "2016-05-13"
+   "epoch": "2016-05-13",
+   "content": "continuum"
   },
   {
    "image_id": "hd-139664_alice-f110w",
@@ -100,7 +103,8 @@
     "bibcode": "2018AJ....155..179H"
    },
    "hires_url": "https://archive.stsci.edu/prepds/alice/",
-   "epoch": "2006-2007"
+   "epoch": "2006-2007",
+   "content": "continuum"
   }
  ],
  "notes": null,

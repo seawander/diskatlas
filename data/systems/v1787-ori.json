@@ -67,7 +67,8 @@
     "arxiv": "2403.02156",
     "bibcode": "2024A&A...685A..54V"
    },
-   "epoch": "2021-11-03"
+   "epoch": "2021-11-03",
+   "content": "continuum"
   },
   {
    "image_id": "v1787-ori_naco2020",
@@ -87,7 +88,8 @@
     "arxiv": "2011.10222",
     "bibcode": "2021MNRAS.501.1243A"
    },
-   "file": "images/v1787-ori/v1787-ori_naco2020.png"
+   "file": "images/v1787-ori/v1787-ori_naco2020.png",
+   "content": "continuum"
   }
  ],
  "notes": "AUTO-CREATED from staging - fill metadata & coords",
