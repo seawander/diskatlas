@@ -277,6 +277,7 @@ if (typeof window !== "undefined") (function () {
     document.querySelectorAll("[data-i18n]").forEach(el => { el.textContent = t(el.dataset.i18n); });
     document.querySelectorAll("[data-i18n-ph]").forEach(el => { el.placeholder = t(el.dataset.i18nPh); });
     document.querySelectorAll("[data-i18n-title]").forEach(el => { el.title = t(el.dataset.i18nTitle); });
+    document.querySelectorAll("[data-i18n-aria]").forEach(el => { el.setAttribute("aria-label", t(el.dataset.i18nAria)); });
   }
   function setLang(l) {
     lang = I18N[l] ? l : "en";
@@ -1389,6 +1390,19 @@ if (typeof window !== "undefined") (function () {
       if (code === lang) o.selected = true; langSel.appendChild(o);
     }
     langSel.onchange = () => setLang(langSel.value);
+  }
+  /* logo = "back to start": reload to the clean URL. localStorage keeps
+     language / theme / panel width; the transient view (open card, filters,
+     facets, sky pan/zoom, search, matrix/tonight) resets to the default
+     frontpage on boot — so users don't have to undo what they were viewing. */
+  const logoEl = document.getElementById("logo");
+  if (logoEl) {
+    const goHome = () => {
+      history.replaceState(null, "", location.pathname + location.search);   // drop the hash
+      location.reload();
+    };
+    logoEl.onclick = goHome;
+    logoEl.onkeydown = e => { if (e.key === "Enter" || e.key === " ") { e.preventDefault(); goHome(); } };
   }
   /* legend (built here so it carries symbols + translatable labels) */
   const legendKeys = [["proto", "cat_proto"], ["debris", "cat_debris"], ["evolved", "cat_evolved"], ["planetonly", "leg_planetonly"], ["quasar", "leg_quasar"]];
