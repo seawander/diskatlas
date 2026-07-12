@@ -158,6 +158,98 @@
    "file": "images/51-eri/51-eri_sphere2017_k1.png",
    "epoch": "2015-2016",
    "content": "continuum"
+  },
+  {
+   "image_id": "51-eri_gpi-k1-2016",
+   "type": "planet",
+   "facility": "Gemini South",
+   "instrument": "GPI",
+   "wavelength_um": 2.05,
+   "wavelength_label": "K1 band (2.05 um; LOCI/GPIES)",
+   "technique": "ADI/LOCI high-contrast imaging",
+   "survey": "GPIES",
+   "content": "continuum",
+   "file": "images/51-eri/51-eri_gpi-k1-2016.png",
+   "credit": "Rajan et al. 2017, Fig. 1 (crop)",
+   "note": "51 Eri b (arrow) SW of the masked star; LOCI-reduced GPIES K1 image (higher-SNR of the 2015-11/2016-01 K1 pair).",
+   "paper": {
+    "first_author": "Rajan",
+    "year": 2017,
+    "title": "Characterizing 51 Eri b from 1 to 5 um: A Partly Cloudy Exoplanet",
+    "journal": "AJ 154, 10",
+    "arxiv": "1705.03887",
+    "bibcode": "2017AJ....154...10R"
+   },
+   "epoch": "2016-01-28"
+  },
+  {
+   "image_id": "51-eri_gpi-k2-2015",
+   "type": "planet",
+   "facility": "Gemini South",
+   "instrument": "GPI",
+   "wavelength_um": 2.25,
+   "wavelength_label": "K2 band (2.25 um; LOCI/GPIES)",
+   "technique": "ADI/LOCI high-contrast imaging",
+   "survey": "GPIES",
+   "content": "continuum",
+   "file": "images/51-eri/51-eri_gpi-k2-2015.png",
+   "credit": "Rajan et al. 2017, Fig. 1 (crop)",
+   "note": "51 Eri b (arrow) in the GPI K2 band; LOCI-reduced GPIES image.",
+   "paper": {
+    "first_author": "Rajan",
+    "year": 2017,
+    "title": "Characterizing 51 Eri b from 1 to 5 um: A Partly Cloudy Exoplanet",
+    "journal": "AJ 154, 10",
+    "arxiv": "1705.03887",
+    "bibcode": "2017AJ....154...10R"
+   },
+   "epoch": "2015-12-18"
+  },
+  {
+   "image_id": "51-eri_nirc2-lp-2015",
+   "type": "planet",
+   "facility": "Keck II",
+   "instrument": "NIRC2",
+   "wavelength_um": 3.78,
+   "wavelength_label": "L' band (3.78 um; pyKLIP)",
+   "technique": "ADI high-contrast imaging (pyKLIP)",
+   "survey": null,
+   "content": "continuum",
+   "file": "images/51-eri/51-eri_nirc2-lp-2015.png",
+   "credit": "Rajan et al. 2017, Fig. 1 (crop)",
+   "note": "51 Eri b (arrow) in Keck/NIRC2 L'; pyKLIP-reduced, 2-pixel box-smoothed (program U055N2).",
+   "paper": {
+    "first_author": "Rajan",
+    "year": 2017,
+    "title": "Characterizing 51 Eri b from 1 to 5 um: A Partly Cloudy Exoplanet",
+    "journal": "AJ 154, 10",
+    "arxiv": "1705.03887",
+    "bibcode": "2017AJ....154...10R"
+   },
+   "epoch": "2015-10-27"
+  },
+  {
+   "image_id": "51-eri_nirc2-ms-2016",
+   "type": "planet",
+   "facility": "Keck II",
+   "instrument": "NIRC2",
+   "wavelength_um": 4.67,
+   "wavelength_label": "Ms band (4.67 um; combined, pyKLIP)",
+   "technique": "ADI high-contrast imaging (pyKLIP)",
+   "survey": null,
+   "content": "continuum",
+   "file": "images/51-eri/51-eri_nirc2-ms-2016.png",
+   "credit": "Rajan et al. 2017, Fig. 1 (crop)",
+   "note": "51 Eri b (arrow) in Keck/NIRC2 Ms; pyKLIP-reduced combination of all four 2016 Ms datasets.",
+   "paper": {
+    "first_author": "Rajan",
+    "year": 2017,
+    "title": "Characterizing 51 Eri b from 1 to 5 um: A Partly Cloudy Exoplanet",
+    "journal": "AJ 154, 10",
+    "arxiv": "1705.03887",
+    "bibcode": "2017AJ....154...10R"
+   },
+   "epoch": "2016"
   }
  ],
  "notes": null,
