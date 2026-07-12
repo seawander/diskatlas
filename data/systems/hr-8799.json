@@ -1298,6 +1298,75 @@
     "bibcode": "2023AJ....165...29T"
    },
    "epoch": "2021-07"
+  },
+  {
+   "image_id": "hr-8799_wfc3-f098m",
+   "type": "planet",
+   "facility": "HST",
+   "instrument": "WFC3/IR",
+   "wavelength_um": 0.98,
+   "wavelength_label": "F098M (0.98 um; ALICE/KLIP zones)",
+   "technique": "ADI/KLIP high-contrast imaging",
+   "survey": "ALICE (archival)",
+   "content": "continuum",
+   "file": "images/hr-8799/hr-8799_wfc3-f098m.png",
+   "credit": "Rajan et al. 2015, Fig. 1 (crop)",
+   "note": "HR 8799 b detected (green circle); c upper limit (red). HST/WFC3-IR medium-band, ALICE-pipeline KLIP zones.",
+   "paper": {
+    "first_author": "Rajan",
+    "year": 2015,
+    "title": "Characterizing the Atmospheres of the HR 8799 Planets with HST/WFC3",
+    "journal": "ApJL 809, L33",
+    "arxiv": "1508.02395",
+    "bibcode": "2015ApJ...809L..33R"
+   },
+   "epoch": "2011-2012"
+  },
+  {
+   "image_id": "hr-8799_wfc3-f127m",
+   "type": "planet",
+   "facility": "HST",
+   "instrument": "WFC3/IR",
+   "wavelength_um": 1.27,
+   "wavelength_label": "F127M (1.27 um; ALICE/KLIP zones)",
+   "technique": "ADI/KLIP high-contrast imaging",
+   "survey": "ALICE (archival)",
+   "content": "continuum",
+   "file": "images/hr-8799/hr-8799_wfc3-f127m.png",
+   "credit": "Rajan et al. 2015, Fig. 1 (crop)",
+   "note": "Both HR 8799 b and c detected (green) - c's only WFC3 detection. Medium-band KLIP zones.",
+   "paper": {
+    "first_author": "Rajan",
+    "year": 2015,
+    "title": "Characterizing the Atmospheres of the HR 8799 Planets with HST/WFC3",
+    "journal": "ApJL 809, L33",
+    "arxiv": "1508.02395",
+    "bibcode": "2015ApJ...809L..33R"
+   },
+   "epoch": "2011-2012"
+  },
+  {
+   "image_id": "hr-8799_wfc3-f139m",
+   "type": "planet",
+   "facility": "HST",
+   "instrument": "WFC3/IR",
+   "wavelength_um": 1.39,
+   "wavelength_label": "F139M (1.39 um, water band; ALICE/KLIP zones)",
+   "technique": "ADI/KLIP high-contrast imaging",
+   "survey": "ALICE (archival)",
+   "content": "continuum",
+   "file": "images/hr-8799/hr-8799_wfc3-f139m.png",
+   "credit": "Rajan et al. 2015, Fig. 1 (crop)",
+   "note": "HR 8799 b detected (green); c upper limit (red). Water-absorption-sensitive band inaccessible from the ground.",
+   "paper": {
+    "first_author": "Rajan",
+    "year": 2015,
+    "title": "Characterizing the Atmospheres of the HR 8799 Planets with HST/WFC3",
+    "journal": "ApJL 809, L33",
+    "arxiv": "1508.02395",
+    "bibcode": "2015ApJ...809L..33R"
+   },
+   "epoch": "2011-2012"
   }
  ],
  "notes": null,
