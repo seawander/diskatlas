@@ -176,7 +176,11 @@ function filterSystems(systems, f, q) {
     const key = sysColorKey(s);
     if (key === "proto" && !f.proto) return false;
     if (key === "debris" && !f.debris) return false;
-    if (key === "planetonly" && !f.planetonly) return false;
+    if (key === "planetonly") {
+      /* hollow-◆ systems (every companion claim refuted) have their own
+         toggle; missing key = visible, matching the quasar/evolved pattern */
+      if (sysRefutedOnly(s) ? f.refutedonly === false : !f.planetonly) return false;
+    }
     if (key === "quasar" && f.quasar === false) return false;
     if (key === "evolved" && f.evolved === false) return false;
     if (f.planethost && !sysHasImagedPlanet(s)) return false;
@@ -301,7 +305,7 @@ if (typeof window !== "undefined") (function () {
   const view = { ra0: 90, dec0: 5, ppd: 3, topInset: 0 };   // start loosely on Taurus/Ori side
   let minPPD = 1;
   const filters = { proto: true, debris: true, planetonly: true, quasar: true, evolved: true,
-    planethost: false, hasimg: false, constellations: true,
+    refutedonly: true, planethost: false, hasimg: false, constellations: true,
     facilities: new Set(), instruments: new Set(), bands: new Set(), missing: new Set(),
     content: new Set() };
   let visible = new Set(SYS.map(s => s.id));
@@ -316,7 +320,7 @@ if (typeof window !== "undefined") (function () {
      setView/goTo/showImg). syncHash() writes the whole state back on every
      filter/view/detail change, so the URL is always shareable. */
   let hashSys = null, hashImg = 0;         // detail card currently in the hash
-  const CAT_KEYS = ["proto", "debris", "planetonly", "quasar", "evolved"];
+  const CAT_KEYS = ["proto", "debris", "planetonly", "refutedonly", "quasar", "evolved"];
   const bootHash = (function () {
     const out = { sys: null, img: 0, view: null };
     const h = location.hash.replace(/^#/, "");
@@ -728,6 +732,7 @@ if (typeof window !== "undefined") (function () {
     ["proto", "cat_proto", "proto"],
     ["debris", "cat_debris", "debris"],
     ["planetonly", "cat_planetonly", "planet"],
+    ["refutedonly", "leg_refuted", "planet"],   // hollow-◆ population; shares the legend label
     ["quasar", "cat_quasar", "quasar"],
     ["evolved", "cat_evolved", "evolved"],
     ["planethost", "f_planethost", ""],
@@ -746,7 +751,8 @@ if (typeof window !== "undefined") (function () {
   const CHIP_GLYPH = {
     proto: '<i class="mk proto"></i>', debris: '<i class="mk debris"></i>',
     planetonly: '<i class="mk planetonly"></i>', quasar: '<i class="mk quasar"></i>',
-    evolved: '<i class="mk evolved"></i>', planethost: '<span class="mk-star">★</span>'
+    evolved: '<i class="mk evolved"></i>', refutedonly: '<i class="mk planetonly hollow"></i>',
+    planethost: '<span class="mk-star">★</span>'
   };
   for (const [key, i18nKey, cls] of FDEF) {
     const el = document.createElement("span");
