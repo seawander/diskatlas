@@ -530,6 +530,29 @@ ESO Halpha 569/574 keep the Halpha symbol (standard for the emission-line survey
 name, not a Bayer letter). Post-audit no prefix space splits or double/trailing
 spaces remain. 522 systems, 2172 image records, 0 errors / 0 warnings.
 
+2026-07-11 (duplicate-system merge sweep + health_check.py). Built backend-data/
+health_check.py - permanent cross-system integrity tool encoding every invariant
+this session's bugs taught: (1) duplicate systems via identical simbad ids AND
+coordinate-pair proximity (<8", allowlist for true close pairs hk-tau/hk-tau-b,
+mho-1/mho2, sz-65/sz-66); (2) coord-vs-designation consistency (the 2MASS
+HHMMSSss centisecond parser, 60" allowance for coarse 1RXS/HSCS/RX-J names);
+(3) naming conventions (prefix/IRS spacing, Bayer 3-letter abbrevs, bare-J names,
+moniker completeness, name collisions, whitespace); (4) placeholder-notes backlog
+as a non-fatal warning. First run found SEVEN duplicate systems beyond the earlier
+FM Cha case - the same star ingested twice with coverage split across entries.
+All merged (survivor <- dupe, images git mv'd + ids reprefixed, alt_names unioned):
+gamma-oph <- hd-161868 ("gamma Oph"; also dropped a same-paper duplicate - Han 2026
+MIRI F2550W was held on BOTH entries; fixed bogus HR 6630 alt -> HR 6629);
+gw-lup <- sz-71 ("GW Lup" = Sz 71, AGE-PRO record consolidated); pds-66 <- mp-mus
+("MP Mus", 16 images now together); tyc-9340-437-1 <- cp-72-2713 ("CPD-72 2713");
+v606-ori <- so-1274 ("V606 Ori" = SO 1274); j16070854 <- lup-160708 ("J1607-3914",
+Martinien 2026 edge-on record consolidated); rx-j1604-3-2130 <- j160421-7
+("RX J1604.3-2130 A", 9 images - the famous shadowed disk had been split 7+2).
+health_check.py added to HANDOFF quick-start (run after every batch that adds/
+renames systems). Surfaced backlog: 123 systems still carry AUTO-CREATED
+placeholder notes. Frontend search confirmed to index alt_names (renames stay
+findable). 515 systems, 2171 image records, 0 errors / 0 warnings.
+
 2026-07-11 (HD 34282, user-directed). Added ONLY panel (a) of Fig 1 of Quiroz et al.
 2022 (arXiv 2111.12708 = 2022ApJ...924L...4Q, "Improving Planet Detection with Disk
 Modeling: Keck/NIRC2 Imaging of the HD 34282 Single-armed Protoplanetary Disk"): the

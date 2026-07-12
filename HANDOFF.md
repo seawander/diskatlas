@@ -109,9 +109,14 @@ state no dates AND archives are silent. Method + numbers for the manuscript:
 
 ```bash
 python3 backend-data/validate.py && python3 backend-data/build.py   # 0 errors + stats
+python3 backend-data/health_check.py   # cross-system integrity (dup systems,
+                                       # coord-vs-designation, naming conventions)
 ```
 Then read `data/ingestion_status.json` (`pending_actions`, `known_missing`,
-per-survey `notes`).
+per-survey `notes`). Run `health_check.py` after every batch that ADDS or RENAMES
+systems — it catches duplicate-system ingestion (same star under two names),
+2MASS-designation coordinate mis-parses, and naming-convention drift, all of
+which have bitten before (see docs/HISTORY.md 2026-07-11).
 
 ## Environment
 

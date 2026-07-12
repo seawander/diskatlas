@@ -3,15 +3,16 @@
  "name": "gamma Oph",
  "alt_names": [
   "gam Oph",
-  "HR 6630",
   "HD 161868",
-  "gamma Ophiuchi"
+  "gamma Ophiuchi",
+  "HIP 87108",
+  "HR 6629"
  ],
  "simbad": "gam Oph",
  "ra_deg": 266.9731691245113,
  "dec_deg": 2.7072791218992,
  "dist_pc": 29.7,
- "sptype": null,
+ "sptype": "A1VnkA0mA0",
  "region": "field (nearby A star)",
  "categories": [
   "debris"
@@ -59,10 +60,83 @@
    },
    "file": "images/gamma-oph/gamma-oph_mri_f1500w.png",
    "epoch": "2024-08-13"
+  },
+  {
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 7/6",
+   "wavelength_um": 880,
+   "wavelength_label": "~0.88-1.3 mm continuum",
+   "technique": "interferometry",
+   "image_id": "gamma-oph_arks",
+   "file": "images/gamma-oph/gamma-oph_arks.png",
+   "survey": "ARKS",
+   "credit": "Marino et al. 2026, Fig. 3 (crop)",
+   "paper": {
+    "first_author": "Marino",
+    "year": 2026,
+    "title": "The ALMA survey to Resolve exoKuiper belt Substructures (ARKS) I: Motivation, sample, data reduction, and results overview",
+    "journal": "A&A",
+    "arxiv": "2601.11708",
+    "bibcode": "2026A&A...705A.195M"
+   },
+   "epoch": "2022-10-01"
+  },
+  {
+   "type": "disk_mm",
+   "facility": "ALMA/SMA",
+   "instrument": "Band 6/7",
+   "wavelength_um": 1300,
+   "wavelength_label": "~0.9-1.3 mm continuum",
+   "technique": "interferometry",
+   "image_id": "gamma-oph_reasons",
+   "file": "images/gamma-oph/gamma-oph_reasons.png",
+   "survey": "REASONS",
+   "credit": "Matrà et al. 2025, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Matra",
+    "year": 2025,
+    "title": "REsolved ALMA and SMA Observations of Nearby Stars (REASONS): A population of 74 resolved planetesimal belts at millimetre wavelengths",
+    "journal": "A&A 693, A151",
+    "arxiv": "2501.09058",
+    "bibcode": "2025A&A...693A.151M"
+   },
+   "epoch": "2018-05-19"
+  },
+  {
+   "image_id": "gamma-oph_scuba2-850um-sons",
+   "type": "disk_mm",
+   "facility": "JCMT",
+   "instrument": "SCUBA-2",
+   "wavelength_um": 850,
+   "wavelength_label": "850 um (JCMT/SCUBA-2, SONS survey; resolved emission)",
+   "technique": "other",
+   "survey": "SONS",
+   "file": "images/gamma-oph/gamma-oph_scuba2-850um-sons.png",
+   "credit": "Holland et al. 2017 (SONS), Fig. A11b (crop: 850 um S/N image)",
+   "paper": {
+    "first_author": "Holland",
+    "year": 2017,
+    "title": "SONS: The JCMT legacy survey of debris discs in the submillimetre",
+    "journal": "MNRAS 470, 3606",
+    "arxiv": "1706.01218",
+    "bibcode": "2017MNRAS.470.3606H"
+   },
+   "epoch": "2012-2015"
   }
  ],
  "notes": "Circumstellar disk of the A-type star gamma Ophiuchi, resolved with JWST/MIRI (Han+2026).",
  "last_updated": "2026-07-11",
- "plx_mas": null,
- "mags": null
+ "plx_mas": 33.6174,
+ "mags": {
+  "U": 3.83,
+  "B": 3.8,
+  "V": 3.75,
+  "G": 3.752848,
+  "R": 3.71,
+  "I": 3.71,
+  "J": 3.65,
+  "H": 3.64,
+  "K": 3.65
+ }
 }
