@@ -1,10 +1,14 @@
 {
  "id": "hsc-j1146-0124",
  "name": "HSC J1146+0124",
- "alt_names": [],
- "simbad": null,
- "ra_deg": 176.745375,
- "dec_deg": 1.408083,
+ "alt_names": [
+  "SHELLQs J1146+0124",
+  "HSC J1146+0124",
+  "HSC J114648.42+012420.1"
+ ],
+ "simbad": "[MOK2016b] HSC J114648.42+012420.1",
+ "ra_deg": 176.70175,
+ "dec_deg": 1.405583,
  "dist_pc": null,
  "plx_mas": null,
  "mags": null,
@@ -38,7 +42,7 @@
    "content": "continuum"
   }
  ],
- "notes": "Added 2026-07-06. z=6.27 HSC/SHELLQs quasar; JWST NIRCam host-galaxy decomposition (Ding+2025). Coords from designation.",
- "last_updated": "2026-07-07",
+ "notes": "Added 2026-07-06. z=6.27 HSC/SHELLQs quasar; JWST NIRCam host-galaxy decomposition (Ding+2025). Coordinates corrected 2026-07-11 from Ding et al. 2025 Table 1 (earlier designation-derived position was arcminutes off); resolvable in SIMBAD and NED.",
+ "last_updated": "2026-07-11",
  "redshift": 6.27
 }
