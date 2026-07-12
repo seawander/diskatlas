@@ -4,10 +4,20 @@ name: Deploy to GitHub Pages
 # path (repo Pages source = "GitHub Actions", build_type: workflow). Every push
 # to master re-runs the guards in `verify` and only publishes if they pass.
 # `workflow_dispatch` is kept so a deploy can also be triggered manually.
+#
+# RELEASE PIN (2026-07-11): the public site is pinned to the tagged release
+# snapshot below, NOT to master HEAD — the deployed header counts must match
+# the frozen release while master keeps moving. Pushes to master still run
+# this workflow, but both jobs check out RELEASE_REF, so the deploy is
+# idempotent until the pin changes. To re-pin (e.g. after the next release):
+# update RELEASE_REF here — or delete the two `ref:` lines to track master.
 on:
   push:
     branches: [master]
   workflow_dispatch:
+
+env:
+  RELEASE_REF: release-2026-07-11
 
 permissions:
   contents: read
@@ -24,6 +34,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          ref: ${{ env.RELEASE_REF }}
       - uses: actions/setup-python@v5
         with:
           python-version: '3.x'
@@ -39,14 +51,18 @@ jobs:
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - uses: actions/checkout@v4
+        with:
+          ref: ${{ env.RELEASE_REF }}
       # Cache busting: stamp the asset URLs with the commit SHA so a Pages
       # visitor never mixes a cached app.js with a fresh data.js (or vice
       # versa) inside the 10-min HTTP cache window. Artifact-only — the repo
       # copy stays unstamped so the offline double-click file:// use is
-      # untouched.
-      - name: Stamp asset URLs with commit SHA
+      # untouched. The sha is taken from the CHECKED-OUT tree (the release
+      # tag), not GITHUB_SHA (the master push), so the stamp identifies what
+      # is actually being served.
+      - name: Stamp asset URLs with deployed-tree SHA
         run: |
-          v="${GITHUB_SHA::10}"
+          v="$(git rev-parse --short=10 HEAD)"
           sed -i -E "s|(src=\"frontend/[A-Za-z0-9_.-]+\.js)\"|\1?v=${v}\"|g; s|(href=\"frontend/style\.css)\"|\1?v=${v}\"|g" index.html
           grep -n "?v=${v}" index.html
       - uses: actions/configure-pages@v5
