@@ -161,6 +161,7 @@ function filterSystems(systems, f, q) {
   const instSet = f.instruments && f.instruments.size ? f.instruments : null;
   const bandSet = f.bands && f.bands.size ? f.bands : null;
   const missSet = f.missing && f.missing.size ? f.missing : null;
+  const contSet = f.content && f.content.size ? f.content : null;
   return systems.filter(s => {
     const key = sysColorKey(s);
     if (key === "proto" && !f.proto) return false;
@@ -191,6 +192,11 @@ function filterSystems(systems, f, q) {
       const bs = new Set();
       for (const im of (s.images || [])) { bs.add(wlBand(im.wavelength_um)); if (im.type === "planet") bs.add("planet"); }
       if (![...bandSet].some(x => bs.has(x))) return false;
+    }
+    if (contSet) {
+      /* continuum vs (spectral-)line data products; same ANY-of semantics as bands */
+      const cs = new Set((s.images || []).map(i => i.content).filter(Boolean));
+      if (![...contSet].some(x => cs.has(x))) return false;
     }
     if (missSet) {
       if (missSet.has("mm") && sysHasMm(s)) return false;
@@ -286,7 +292,8 @@ if (typeof window !== "undefined") (function () {
   let minPPD = 1;
   const filters = { proto: true, debris: true, planetonly: true, quasar: true, evolved: true,
     planethost: false, hasimg: false, constellations: true,
-    facilities: new Set(), instruments: new Set(), bands: new Set(), missing: new Set() };
+    facilities: new Set(), instruments: new Set(), bands: new Set(), missing: new Set(),
+    content: new Set() };
   let visible = new Set(SYS.map(s => s.id));
   let hoverId = null, currentSys = null, curImg = 0, currentView = "sky";
 
@@ -315,6 +322,7 @@ if (typeof window !== "undefined") (function () {
       else if (k === "ph") filters.planethost = v === "1";
       else if (k === "img") filters.hasimg = v === "1";
       else if (k === "b") toks.forEach(x => filters.bands.add(x));
+      else if (k === "cont") toks.forEach(x => filters.content.add(x));
       else if (k === "miss") toks.forEach(x => filters.missing.add(x));
       else if (k === "fac") toks.forEach(x => filters.facilities.add(x));
       else if (k === "instr") toks.forEach(x => filters.instruments.add(x));
@@ -337,7 +345,8 @@ if (typeof window !== "undefined") (function () {
     const setPart = (key, set) => {
       if (set.size) parts.push(key + "=" + [...set].map(encodeURIComponent).join(","));
     };
-    setPart("b", filters.bands); setPart("miss", filters.missing);
+    setPart("b", filters.bands); setPart("cont", filters.content);
+    setPart("miss", filters.missing);
     setPart("fac", filters.facilities); setPart("instr", filters.instruments);
     history.replaceState(null, "", parts.length ? "#" + parts.join("&") : "#");
   }
@@ -1261,6 +1270,7 @@ if (typeof window !== "undefined") (function () {
   if (facetsBar) {
     const bandEntries = WL_BANDS.map(b => [b.key, "band_" + b.key, b.label]).concat([["planet", "band_planet", "planet"]]);
     chipGroup(facetsBar, "facet_band", bandEntries, filters.bands);
+    chipGroup(facetsBar, "facet_content", [["continuum", "content_cont", "continuum"], ["line", "content_line", "line"]], filters.content);
     chipGroup(facetsBar, "facet_missing", [["mm", "miss_mm", "mm"], ["nir", "miss_nir", "scat-light"], ["planet", "miss_planet", "imaged planet"]], filters.missing);
     chipGroup(facetsBar, "facet_facility", ALL_FAC.map(f => [f, null, f]), filters.facilities, true);
     chipGroup(facetsBar, "facet_instrument", ALL_INSTR.map(f => [f, null, f]), filters.instruments, true);
@@ -1372,7 +1382,11 @@ if (typeof window !== "undefined") (function () {
   function catChipsHTML() {
     return '<span class="catsel">' + CAT_DEFS.map(([k, ik]) =>
       '<span class="chip sm catchip' + (filters[k] ? " on" : "") + '" data-cat="' + k +
-      '"><i class="mk ' + k + '"></i> ' + esc(t(ik)) + "</span>").join("") + "</span>";
+      '"><i class="mk ' + k + '"></i> ' + esc(t(ik)) + "</span>").join("") + "</span>" +
+      /* content (continuum|line) down-select — the same facet the Sky view has */
+      '<span class="catsel">' + [["continuum", "content_cont"], ["line", "content_line"]].map(([v, ik]) =>
+      '<span class="chip sm contchip' + (filters.content.has(v) ? " on" : "") + '" data-content="' + v +
+      '">' + esc(t(ik)) + "</span>").join("") + "</span>";
   }
   function wireCatChips(container) {
     container.querySelectorAll(".catchip").forEach(ch => ch.onclick = () => {
@@ -1381,6 +1395,14 @@ if (typeof window !== "undefined") (function () {
         .find(e => e.dataset.i18n === "cat_" + ch.dataset.cat);
       if (hdr) hdr.click();
       else { filters[ch.dataset.cat] = !filters[ch.dataset.cat]; refilter(); }
+    });
+    container.querySelectorAll(".contchip").forEach(ch => ch.onclick = () => {
+      const v = ch.dataset.content;
+      filters.content.has(v) ? filters.content.delete(v) : filters.content.add(v);
+      /* keep the Sky-view facet chip in sync (it is built once at boot) */
+      const fc = facetsBar && facetsBar.querySelector('.chip[data-group="facet_content"][data-val="' + v + '"]');
+      if (fc) fc.classList.toggle("on", filters.content.has(v));
+      refilter();
     });
   }
   function fmtDec(d) { return (d >= 0 ? "+" : "\u2212") + Math.abs(d).toFixed(1) + "\u00b0"; }
