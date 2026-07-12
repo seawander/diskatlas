@@ -109,18 +109,23 @@ python3 parse_simbad.py && python3 extract_sources.py \
 host — but SIMBAD/ADS/archive queries still need the working session online, so treat
 internet as a hard prerequisite for contributing.)
 
-## Current contents (2026-07-11 build) / 当前规模
+## Current contents (2026-07-12 build) / 当前规模
 
-**520 systems (incl. quasar hosts, embedded Class 0/I protostars, Orion proplyds and
-evolved-star envelopes) · 2082 image records · all with local panels · 87 imaged-companion
+**599 systems (incl. quasar hosts, embedded Class 0/I protostars, Orion proplyds and
+evolved-star envelopes) · 2539 image records · all with local panels · 91 imaged-companion
 hosts · coordinates for every system (SIMBAD idents coordinate-verified) · 0 validation
-errors / 0 warnings · every paper block carries an ADS-verified bibcode · ~83% of records
+errors / 0 warnings · every paper block carries an ADS-verified bibcode · ~95% of records
 carry the observation epoch (never the publication year), each with machine-readable
-provenance (the rest are recent additions still being back-filled).**
+provenance.**
 `python3 backend-data/build.py` prints the canonical live stats — trust its output over any number
-written in prose. Recent 2026-07-11 additions: the Vioque 2026 transition-disk gallery
-(+15 new systems, crossing 500 systems) and the Kurtovic 2026 154-ring ALMA gallery, a
-notes-citation sweep (58 systems now cite their claims in-line), historical β Pic
+written in prose. Recent 2026-07-12 additions: a large literature-harvest push (a triage
+freeze-lift + "s4a" citation harvest, ~+250 records / ~+80 new systems), the AGE-PRO
+Oph+USco program completed (30/30 disks), MAPS line-emission moment-0 maps (5 disks × 7
+tracers), pre-ALMA mm classics (SMA/PdBI/CARMA/OVRO/BIMA), Hom 2024 GPI Paper II
+total-intensity debris disks, and an all-systems epoch-normalization sweep (ISO dates,
+permanent validate.py epoch checks). Earlier 2026-07-11 additions: the Vioque 2026
+transition-disk gallery (crossing 500 systems) and the Kurtovic 2026 154-ring ALMA gallery,
+a notes-citation sweep (58 systems now cite their claims in-line), historical β Pic
 coronagraphy (Heap 2000 STIS, Apai 2015 two-epoch), plus a deep Orion silhouette/proplyd dive
 (giant disk 114-426 in JWST/NIRCam 12-band, the ground-based-AO silhouette 218-354,
 Ricci 2008 ACS proplyds, McCaughrean 1998 HST classics), V883 Ori (landmark FUor
