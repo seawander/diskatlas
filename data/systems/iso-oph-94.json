@@ -42,6 +42,50 @@
     "bibcode": "2025ApJ...989....1Z"
    },
    "epoch": "2022"
+  },
+  {
+   "image_id": "iso-oph-94_agepro-12co",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 6",
+   "wavelength_um": 1300.4,
+   "wavelength_label": "12CO 2-1 moment-0 (AGE-PRO)",
+   "technique": "interferometry",
+   "survey": "AGE-PRO",
+   "file": "images/iso-oph-94/iso-oph-94_agepro-12co.png",
+   "credit": "Ruiz-Rodriguez et al. 2025, Fig. 4 (crop)",
+   "note": "",
+   "paper": {
+    "first_author": "Ruiz-Rodriguez",
+    "year": 2025,
+    "title": "The ALMA Survey of Gas Evolution of PROtoplanetary Disks (AGE-PRO). II. Dust and Gas Disk Properties in the Ophiuchus Star-forming Region",
+    "journal": "ApJ 989, 2",
+    "arxiv": "2506.10731",
+    "bibcode": "2025ApJ...989....2R"
+   },
+   "epoch": "2022"
+  },
+  {
+   "image_id": "iso-oph-94_agepro-13co",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 6",
+   "wavelength_um": 1360.2,
+   "wavelength_label": "13CO 2-1 moment-0 (AGE-PRO)",
+   "technique": "interferometry",
+   "survey": "AGE-PRO",
+   "file": "images/iso-oph-94/iso-oph-94_agepro-13co.png",
+   "credit": "Ruiz-Rodriguez et al. 2025, Fig. 4 (crop)",
+   "note": "",
+   "paper": {
+    "first_author": "Ruiz-Rodriguez",
+    "year": 2025,
+    "title": "The ALMA Survey of Gas Evolution of PROtoplanetary Disks (AGE-PRO). II. Dust and Gas Disk Properties in the Ophiuchus Star-forming Region",
+    "journal": "ApJ 989, 2",
+    "arxiv": "2506.10731",
+    "bibcode": "2025ApJ...989....2R"
+   },
+   "epoch": "2022"
   }
  ],
  "notes": "AGE-PRO Ophiuchus 2. Structured disk (flat-top profile with shoulder at 60 au; Vioque et al. 2025). Distance = 139 pc Ophiuchus average adopted by AGE-PRO (Grasser et al. 2021).",

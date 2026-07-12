@@ -61,6 +61,50 @@
    },
    "file": "images/oph-162305/oph-162305_alma-agepro.png",
    "epoch": "2022"
+  },
+  {
+   "image_id": "oph-162305_agepro-12co",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 6",
+   "wavelength_um": 1300.4,
+   "wavelength_label": "12CO 2-1 moment-0 (AGE-PRO)",
+   "technique": "interferometry",
+   "survey": "AGE-PRO",
+   "file": "images/oph-162305/oph-162305_agepro-12co.png",
+   "credit": "Ruiz-Rodriguez et al. 2025, Fig. 4 (crop)",
+   "note": "",
+   "paper": {
+    "first_author": "Ruiz-Rodriguez",
+    "year": 2025,
+    "title": "The ALMA Survey of Gas Evolution of PROtoplanetary Disks (AGE-PRO). II. Dust and Gas Disk Properties in the Ophiuchus Star-forming Region",
+    "journal": "ApJ 989, 2",
+    "arxiv": "2506.10731",
+    "bibcode": "2025ApJ...989....2R"
+   },
+   "epoch": "2022"
+  },
+  {
+   "image_id": "oph-162305_agepro-13co",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 6",
+   "wavelength_um": 1360.2,
+   "wavelength_label": "13CO 2-1 moment-0 (AGE-PRO)",
+   "technique": "interferometry",
+   "survey": "AGE-PRO",
+   "file": "images/oph-162305/oph-162305_agepro-13co.png",
+   "credit": "Ruiz-Rodriguez et al. 2025, Fig. 4 (crop)",
+   "note": "",
+   "paper": {
+    "first_author": "Ruiz-Rodriguez",
+    "year": 2025,
+    "title": "The ALMA Survey of Gas Evolution of PROtoplanetary Disks (AGE-PRO). II. Dust and Gas Disk Properties in the Ophiuchus Star-forming Region",
+    "journal": "ApJ 989, 2",
+    "arxiv": "2506.10731",
+    "bibcode": "2025ApJ...989....2R"
+   },
+   "epoch": "2022"
   }
  ],
  "notes": "Added 2026-07-06 (Martinien+2026 ALMA highly-inclined disk). Coords pending SIMBAD.",

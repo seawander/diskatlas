@@ -1,6 +1,6 @@
 {
  "_doc": "Per-survey ingestion state. entries/coords/images: done|partial|todo. Update on every ingest.",
- "updated": "2026-07-11: Bibcode audit fix - v1788-ori (HD 37411) companions B/C: first_author corrected Tokovinin -> Thomas; ADS confirms 2007IAUS..240..250T = Thomas et al., 'Multiplicity of Herbig Ae/Be Stars' (cited by Valegard 2024). export_bibtex.py now reports 0 verification problems.",
+ "updated": "2026-07-11: Exploration round agent 2/4 - AGE-PRO Oph+USco INGESTED; AGE-PRO now complete across all 30 targets. +37 records: 12CO/13CO 2-1 moment-0 gas maps for 9 Oph (Ruiz-Rodriguez 2025, 2506.10731 = 2025ApJ...989....2R, Fig 4) + 10 USco (Agurto-Gangas 2025, 2506.10735 = 2025ApJ...989....4A, Fig 4->5; brief's Trapman guess corrected by agent) + 3 missing continuum panels. 4 NEW systems: ISO-Oph 161 (Class I, AGE-PRO Oph 5), J1605-2023, J1611-1918, BV Sco (USco 2/4/5). Continuum for the other 17 already held from AGE-PRO I (Zhang 2025) - correctly skipped as same-dataset. Dropped 1 cloud-mush 13CO (ISO-Oph 161, VIEW-verified no disk). FOLLOW-UP available: Agurto-Gangas Fig 8 Band 7 0.89mm continuum panels for all 10 USco targets. 519 systems, 2253 records.",
  "surveys": {
   "DSHARP": {
    "entries": "done",
@@ -226,6 +226,9 @@
   },
   "MAPS": {
    "status": "DONE 2026-07-11: Law 2021 MAPS III moment-0 galleries, 5 disks x 7 major tracers (35 records); minor tracers intentionally skipped"
+  },
+  "AGE-PRO": {
+   "status": "COMPLETE 2026-07-11: all 30 targets (10 Lupus + 10 Oph + 10 USco) hold continuum; Oph+USco also hold 12CO/13CO mom-0 gas maps; USco Band 7 (Fig 8) available as follow-up"
   }
  },
  "known_missing": [

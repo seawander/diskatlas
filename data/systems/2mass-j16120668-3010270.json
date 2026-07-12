@@ -210,6 +210,50 @@
     "bibcode": "2026arXiv260530023K"
    },
    "epoch": null
+  },
+  {
+   "image_id": "2mass-j16120668-3010270_agepro-12co",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 6",
+   "wavelength_um": 1300.4,
+   "wavelength_label": "12CO 2-1 moment-0 (AGE-PRO)",
+   "technique": "interferometry",
+   "survey": "AGE-PRO",
+   "file": "images/2mass-j16120668-3010270/2mass-j16120668-3010270_agepro-12co.png",
+   "credit": "Agurto-Gangas et al. 2025, Fig. 5 (crop)",
+   "note": "",
+   "paper": {
+    "first_author": "Agurto-Gangas",
+    "year": 2025,
+    "title": "The ALMA Survey of Gas Evolution of PROtoplanetary Disks (AGE-PRO). IV. Dust and Gas Disk Properties in the Upper Scorpius Star-forming Region",
+    "journal": "ApJ 989, 4",
+    "arxiv": "2506.10735",
+    "bibcode": "2025ApJ...989....4A"
+   },
+   "epoch": "2022"
+  },
+  {
+   "image_id": "2mass-j16120668-3010270_agepro-13co",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 6",
+   "wavelength_um": 1360.2,
+   "wavelength_label": "13CO 2-1 moment-0 (AGE-PRO)",
+   "technique": "interferometry",
+   "survey": "AGE-PRO",
+   "file": "images/2mass-j16120668-3010270/2mass-j16120668-3010270_agepro-13co.png",
+   "credit": "Agurto-Gangas et al. 2025, Fig. 5 (crop)",
+   "note": "",
+   "paper": {
+    "first_author": "Agurto-Gangas",
+    "year": 2025,
+    "title": "The ALMA Survey of Gas Evolution of PROtoplanetary Disks (AGE-PRO). IV. Dust and Gas Disk Properties in the Upper Scorpius Star-forming Region",
+    "journal": "ApJ 989, 4",
+    "arxiv": "2506.10735",
+    "bibcode": "2025ApJ...989....4A"
+   },
+   "epoch": "2022"
   }
  ],
  "notes": "AGE-PRO Upper Scorpius 1. Transition disk with large inner dust cavity and ring at 78 au; ALMA residuals show a spiral arm and a tentative protoplanet candidate inside the cavity (Sierra et al. 2024; Vioque et al. 2025). SPHERE H-band imaging shows spirals, gap, and outer ring interpreted as evidence of planet-disk interaction (Ginski et al. 2025).",
