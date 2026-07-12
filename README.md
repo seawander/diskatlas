@@ -111,8 +111,8 @@ internet as a hard prerequisite for contributing.)
 
 ## Current contents (2026-07-12 build) / 当前规模
 
-**599 systems (incl. quasar hosts, embedded Class 0/I protostars, Orion proplyds and
-evolved-star envelopes) · 2539 image records · all with local panels · 91 imaged-companion
+**600 systems (incl. quasar hosts, embedded Class 0/I protostars, Orion proplyds and
+evolved-star envelopes) · 2622 image records · all with local panels · 91 imaged-companion
 hosts · coordinates for every system (SIMBAD idents coordinate-verified) · 0 validation
 errors / 0 warnings · every paper block carries an ADS-verified bibcode · ~95% of records
 carry the observation epoch (never the publication year), each with machine-readable
