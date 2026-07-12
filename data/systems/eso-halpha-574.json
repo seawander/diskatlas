@@ -35,9 +35,31 @@
     "bibcode": "2020A&A...642A.164V"
    },
    "epoch": "2016-11-15"
+  },
+  {
+   "image_id": "eso-halpha-574_hst-jet-2009",
+   "type": "disk_scattered",
+   "facility": "HST",
+   "instrument": "WFPC2",
+   "wavelength_um": 0.66,
+   "wavelength_label": "HST optical emission-line (jet knots A1-A3; contours)",
+   "technique": "emission-line imaging (jet)",
+   "survey": null,
+   "file": "images/eso-halpha-574/eso-halpha-574_hst-jet-2009.png",
+   "credit": "Whelan et al. 2014, Fig. 1 left (HST/WFPC2 data from Robberto et al. 2012; crop)",
+   "note": "",
+   "paper": {
+    "first_author": "Whelan",
+    "year": 2014,
+    "title": "ESO-Halpha 574 and Par-Lup 3-4 jets: Exploring the spectral, kinematical, and physical properties",
+    "journal": "A&A 565, A80",
+    "arxiv": "1403.3232",
+    "bibcode": "2014A&A...565A..80W"
+   },
+   "epoch": "2009"
   }
  ],
- "notes": "AUTO-CREATED from staging - fill metadata & coords",
+ "notes": "Edge-on classical T Tauri star / protoplanetary disk in Chamaeleon I driving a bipolar jet (HST/WFPC2 knots A1-A3; Whelan et al. 2014, X-Shooter). ALMA Band 7 resolves the edge-on dust disk.",
  "last_updated": "2026-07-07",
  "plx_mas": 6.9172,
  "mags": {

@@ -424,3 +424,16 @@ cropped the full published panel from the source EPS - now shows CT Cha A, the
 labelled "companion candidate" (B), the cc2 background object, N/E compass and 1"
 scale bar. Also corrected the record epoch 2006-02-17 -> 2007-03-02 (the caption
 states Fig 1 is the 2007 March 2 image) and set Ks 2.18 um. No count change.
+
+2026-07-11 (jets in ppds - new coverage axis, user-directed). Started documenting
+protoplanetary-disk JETS/HH flows (typed disk_scattered, matching how the atlas's
+8 existing optical-jet images are already typed - no schema change). ESO Halpha 574
+(edge-on Cha I CTTS, previously only an ALMA Band 7 edge-on disk): added its HST/
+WFPC2 bipolar-jet image (knots A1-A3) cropped from Whelan et al. 2014 (arXiv
+1403.3232 = 2014A&A...565A..80W) Fig 1 left, which re-displays the Robberto 2012
+HST data (early 2009); also rewrote the placeholder notes. Dispatched a subagent to
+harvest the broader Robberto et al. 2012 (arXiv 1205.2727 = 2012AJ....144...83R,
+"HST Imaging Survey of Low-mass Stars in Chamaeleon I", WFPC2 F547M/F631N[OI]/
+F656N[Ha]/F673N[SII], GO 11983) jet+disk atlas, Figs 2-11 (SX Cha, CT Cha, HH 48,
+WW Cha, Ass Cha T 2-16, CED 112 IRS 4, ...) - results pending. 520 systems, 2156
+image records, 0 errors / 0 warnings.

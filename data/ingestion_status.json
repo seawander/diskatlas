@@ -1,6 +1,6 @@
 {
  "_doc": "Per-survey ingestion state. entries/coords/images: done|partial|todo. Update on every ingest.",
- "updated": "2026-07-11: FU Ori binary companion FU Ori S (user-directed). +4 detections of the ~0.5\" (~230 au) infrared companion: Palomar/P1640 reduced J (1.24) + H (1.65 um) coronagraphic images (Pueyo 2012, 1211.6741, Fig 1 bottom, 2009-03-17) + Subaru/IRCS K' 2.12 um AO images (Reipurth & Aspin 2004, 2004ApJ...608L..65R Fig 1 discovery, 2003-12-15; plus Pueyo 2012 Fig 6 self-calibrated reprocessing of the same IRCS data). Added FU Ori S to planets[]. 520 systems, 2155 image records.",
+ "updated": "2026-07-11: Jets in ppds (user-directed, new coverage axis). ESO Ha 574: added HST/WFPC2 bipolar-jet image (knots A1-A3) from Whelan et al. 2014 (1403.3232) Fig 1 left = Robberto 2012 HST data, epoch 2009; filled placeholder notes. Jet/HH images typed disk_scattered per existing precedent. Subagent dispatched to harvest the Robberto et al. 2012 (1205.2727 = 2012AJ....144...83R) Chamaeleon I HST/WFPC2 jet+disk atlas (Figs 2-11: SX Cha, CT Cha, HH 48, WW Cha, T 2-16, ...). 520 systems, 2156 image records.",
  "surveys": {
   "DSHARP": {
    "entries": "done",
