@@ -1,7 +1,9 @@
 # HANDOFF — how to work on diskatlas
 
-Entry point for agents is `CLAUDE.md` (auto-loaded, has the task→doc routing).
-Read THIS file when you need the full working method. Session-by-session
+Entry point for agents is `CLAUDE.md` (auto-loaded, has the task→doc routing);
+on a non-Claude harness read `AGENTS.md` (the vendor-neutral mirror of `CLAUDE.md`).
+Read THIS file when you need the full working method. External contributors and
+the "drive it with your agent" recipe live in `CONTRIBUTING.md`. Session-by-session
 narrative lives in `docs/HISTORY.md` — **grep it, never load it whole**.
 
 ## What this project is

@@ -32,6 +32,8 @@ work (shared-checkout race).
 | Frontend/UI work | `frontend/README.md` |
 | What happened on date X | `grep` (not read!) `docs/HISTORY.md` |
 | What's queued | `data/ingestion_status.json` |
+| Contributing / opening a PR | `CONTRIBUTING.md` (human + agent recipe) |
+| On a non-Claude harness (OpenCode/Cursor/…) | `AGENTS.md` (vendor-neutral mirror of this file) |
 
 **NEVER load into context**: `data/paper_finder/candidates.md` (~330k tokens,
 machine-generated), `frontend/data.js` (generated, ~MB), `data/simbad_raw.txt`,
