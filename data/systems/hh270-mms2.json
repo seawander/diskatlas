@@ -3,9 +3,12 @@
  "name": "HH270 MMS2",
  "alt_names": [
   "HH270mms2",
-  "HH 270 MMS 2"
+  "HH 270 MMS 2",
+  "[TSM2020] HH270mms2",
+  "[DME94] HH 110 IRS 1",
+  "TIC 158944222"
  ],
- "simbad": null,
+ "simbad": "2MASS J05512257+0255433",
  "ra_deg": 87.843996,
  "dec_deg": 2.92855,
  "dist_pc": null,
@@ -40,7 +43,7 @@
    "epoch": "2016-2017"
   }
  ],
- "notes": "Class 0 protostellar disk in Orion B (HH 270/271 outflow region), imaged in the VANDAM Orion survey (Sheehan et al. 2020; ALMA 2015.1.00041.S). A legitimate standalone mm source; no YSO SIMBAD entry (only a coincident 2MASS NIR source, J05512257+0255433, at the position).",
+ "notes": "Class 0 protostellar disk in Orion B (HH 270/271 outflow region), imaged in the VANDAM Orion survey (Sheehan et al. 2020; ALMA 2015.1.00041.S). SIMBAD-resolved as 2MASS J05512257+0255433 (= [TSM2020] HH270mms2 = [DME94] HH 110 IRS 1, the IR source of the HH 110/270 flow).",
  "last_updated": "2026-07-12",
  "plx_mas": null,
  "mags": {}
