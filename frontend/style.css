@@ -187,6 +187,13 @@ main { position: fixed; inset: 0; }
 #d_caption .links a { margin-right: 12px; font-weight: 600; }
 #d_caption .pending { color: var(--err); font-size: 12px; margin-top: 6px; }
 
+/* per-card provenance notice: figures + metadata are agent-compiled, verify via
+   the source links. Persistent (static in #detail), shown on every system. */
+#d_disclaimer { margin: 10px 0 2px; padding: 8px 10px; border: 1px dashed var(--line);
+  border-radius: 8px; background: var(--panel2); color: var(--dim);
+  font-size: 11.5px; line-height: 1.45; }
+#d_disclaimer::before { content: "🤖 "; }
+
 #d_planets { margin-top: 14px; }
 #d_planets .ph { font-weight: 700; font-size: 13px; margin-bottom: 4px; }
 #d_planets .pl { border-left: 3px solid var(--planetonly); padding: 2px 8px;
