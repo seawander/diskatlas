@@ -5,7 +5,7 @@ name: Deploy to GitHub Pages
 # to master re-runs the guards in `verify` and only publishes if they pass.
 # `workflow_dispatch` is kept so a deploy can also be triggered manually.
 #
-# RELEASE PIN (2026-07-12): the public site is pinned to the tagged release
+# RELEASE PIN (2026-07-14): the public site is pinned to the tagged release
 # snapshot below, NOT to master HEAD — the deployed header counts must match
 # the frozen release while master keeps moving. Pushes to master still run
 # this workflow, but both jobs check out RELEASE_REF, so the deploy is
@@ -17,7 +17,7 @@ on:
   workflow_dispatch:
 
 env:
-  RELEASE_REF: release-2026-07-12.3
+  RELEASE_REF: release-2026-07-14
 
 permissions:
   contents: read
