@@ -25,7 +25,7 @@
    "content": "continuum",
    "file": "images/j2002-3013/j2002-3013_cont.png",
    "credit": "Wilde et al. 2026, Fig. 3 (crop)",
-   "note": "z=6.67; 2021.1.00934.S+2019.1.01025.S; crop from ar5iv render (source rate-limited); host dust continuum",
+   "note": "z=6.69; 2021.1.00934.S+2019.1.01025.S; crop from ar5iv render (source rate-limited); host dust continuum",
    "paper": {
     "first_author": "Wilde",
     "year": 2026,
@@ -48,7 +48,7 @@
    "content": "line",
    "file": "images/j2002-3013/j2002-3013_cii.png",
    "credit": "Wilde et al. 2026, Fig. 4 (crop)",
-   "note": "z=6.67; 2021.1.00934.S+2019.1.01025.S; [CII] moment-0 of host",
+   "note": "z=6.69; 2021.1.00934.S+2019.1.01025.S; [CII] moment-0 of host",
    "paper": {
     "first_author": "Wilde",
     "year": 2026,

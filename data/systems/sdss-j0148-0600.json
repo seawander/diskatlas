@@ -28,7 +28,7 @@
    "content": "continuum",
    "file": "images/sdss-j0148-0600/sdss-j0148-0600_eiger-j0148-f356w-psfsub.png",
    "credit": "Yue et al. 2024, Fig. 4 (crop)",
-   "note": "z=5.977 host detected in all 3 bands, masked S/N=104; two close companions [obs executions 2022-12-13/2023-01-15]",
+   "note": "z=5.977 host detected in all 3 bands, masked S/N=106; two close companions [obs executions 2022-12-13/2023-01-15]",
    "paper": {
     "first_author": "Yue",
     "year": 2024,

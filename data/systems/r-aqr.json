@@ -40,7 +40,7 @@
    "content": "continuum"
   }
  ],
- "notes": "R Aqr: nearest symbiotic binary (M7III Mira + accreting white dwarf, P_orb~44 yr) with a precessing jet and an extended H-alpha emission nebula. Distance 386 pc adopted from Gaia (plx 2.59 mas), consistent with the 0.13 arcsec = 50 au scale of Lucas et al. 2024. Added 2026-07-09 via Miles Lucas VAMPIRES instrument paper.",
+ "notes": "R Aqr: nearest symbiotic binary (M7III Mira + accreting white dwarf, P_orb~42 yr) with a precessing jet and an extended H-alpha emission nebula. Distance 386 pc adopted from Gaia (plx 2.59 mas); the accreting white dwarf sits 10-50 mas from the Mira over its orbit (Lucas et al. 2024). Added 2026-07-09 via Miles Lucas VAMPIRES instrument paper.",
  "last_updated": "2026-07-09",
  "plx_mas": 2.5931,
  "mags": null

@@ -34,7 +34,7 @@
    "survey": null,
    "file": "images/2mass-j04124068-2438157/2mass-j04124068-2438157_alma-long23.png",
    "credit": "Long et al. 2023, Fig. 1 (1.3mm @ 120 mas panel, crop)",
-   "note": "large double-ring (inner B70 + outer B116) around a 0.2 Msun Taurus M dwarf",
+   "note": "large double-ring (inner B70 + outer B116) around a ~0.4 Msun Taurus M dwarf",
    "paper": {
     "first_author": "Long",
     "year": 2023,
@@ -91,6 +91,6 @@
    "content": "continuum"
   }
  ],
- "notes": "One of the largest disks known around a very low-mass (~0.2 Msun) star; two well-separated dust rings at ~70 and ~116 au resolved with ALMA (Long+2023).",
+ "notes": "One of the largest disks known around a low-mass (~0.4 Msun) M dwarf; two well-separated dust rings at ~70 and ~116 au resolved with ALMA (Long+2023).",
  "last_updated": "2026-07-11"
 }
