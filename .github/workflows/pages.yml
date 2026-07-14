@@ -17,7 +17,7 @@ on:
   workflow_dispatch:
 
 env:
-  RELEASE_REF: release-2026-07-12.2
+  RELEASE_REF: release-2026-07-12.3
 
 permissions:
   contents: read
