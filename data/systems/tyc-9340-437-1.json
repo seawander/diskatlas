@@ -106,7 +106,7 @@
    "content": "continuum"
   }
  ],
- "notes": "AUTO-CREATED from staging - fill metadata & coords 1.33mm ALMA Atacama Compact Array (7-m, ~7.4x5.5 arcsec beam) continuum detection at SNR~5.7 (Moor+2020); the disk is only marginally resolved as an extended blob at this coarse ACA resolution rather than resolved into a ring in the image itself -- the ring geometry (peak radius ~140 au) is inferred from uv-plane visibility modelling, not directly visible in the CLEAN image. Outstandingly large and dust-rich for a 24 Myr-old K7/M0 member of the beta Pic moving group, motivating the 'big sibling of AU Mic' comparison in the paper title.",
+ "notes": "1.33 mm ALMA Atacama Compact Array (7-m, ~7.4x5.5 arcsec beam) continuum detection at SNR~5.7 (Moor et al. 2020); the disk is only marginally resolved as an extended blob at this coarse ACA resolution rather than resolved into a ring in the image - the ring geometry (peak radius ~140 au) is inferred from uv-plane visibility modelling, not directly visible in the CLEAN image. Outstandingly large and dust-rich for a 24 Myr-old K7/M0 beta Pic moving-group member, motivating the 'big sibling of AU Mic' framing of Moor et al. (2020).",
  "last_updated": "2026-07-11",
  "plx_mas": 27.2315,
  "mags": {

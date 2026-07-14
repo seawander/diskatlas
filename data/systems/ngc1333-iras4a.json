@@ -27,7 +27,7 @@
    "content": "continuum",
    "file": "images/ngc1333-iras4a/ngc1333-iras4a_sma0-9mm.png",
    "credit": "Persson et al. 2016, Fig. 1 (crop)",
-   "note": "APPLY-NOTE: SMA data Lai in prep - verify epoch via SMA archive",
+   "note": "Archival SMA 0.9 mm continuum (Lai et al., in prep.); observation epoch not recovered.",
    "paper": {
     "first_author": "Persson",
     "year": 2016,

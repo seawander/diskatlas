@@ -28,7 +28,7 @@
    "content": "continuum",
    "file": "images/sdss-j1652-1728/sdss-j1652-1728_sdssj1652p1728-f160w-psfsub.png",
    "credit": "Zakamska et al. 2019, Fig. 4 (crop)",
-   "note": "Brightest ERQ host (z=2.942) with candidate tidal tail; later JWST ERS target",
+   "note": "Among the most luminous ERQ hosts (z=2.942); candidate tidal tail; later a JWST ERS target (Zakamska et al. 2019).",
    "paper": {
     "first_author": "Zakamska",
     "year": 2019,
@@ -40,7 +40,7 @@
    "epoch": "2017-07-14"
   }
  ],
- "notes": "Brightest known extremely red quasar host (z=2.942) with a candidate tidal tail in HST/WFC3 F160W imaging (Zakamska et al. 2019); later a JWST ERS target.",
+ "notes": "One of the most luminous extremely red quasars (ERQ, z=2.942); HST/WFC3 F160W PSF-subtracted imaging shows a candidate tidal tail (Zakamska et al. 2019); later a JWST ERS target.",
  "last_updated": "2026-07-12",
  "plx_mas": null,
  "mags": {

@@ -28,7 +28,7 @@
    "content": "continuum",
    "file": "images/ngc1333-iras2a/ngc1333-iras2a_pdbi1-5mm.png",
    "credit": "Persson et al. 2016, Fig. 1 (crop)",
-   "note": "APPLY-NOTE: archival JvD2010/Persson2012 data - verify epoch from those papers",
+   "note": "Archival PdBI 1.5 mm continuum (Jorgensen & van Dishoeck 2010; Persson et al. 2012); observation epoch not recovered from those papers.",
    "paper": {
     "first_author": "Persson",
     "year": 2016,

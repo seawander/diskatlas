@@ -17,7 +17,7 @@
   {
    "name": "c",
    "status": "confirmed",
-   "note": "Coldest imaged exoplanet (~26 K? VERIFY) via JWST/NIRCam",
+   "note": "One of the coldest directly imaged exoplanets: Teff ~275-300 K (Bardalez Gagliuffi et al. 2025 model-grid fit Teff=300+/-30 K), rivaling epsilon Indi Ab and TWA 7 b. Imaged with JWST/NIRCam.",
    "paper": {
     "first_author": "Bardalez Gagliuffi",
     "year": 2025,

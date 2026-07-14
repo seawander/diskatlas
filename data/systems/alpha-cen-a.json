@@ -85,6 +85,6 @@
    "content": "continuum"
   }
  ],
- "notes": "Added 2026-07-06. Nearest Sun-like star; NEAR/VISIR mid-IR habitable-zone imaging. Candidate 'C1' is unconfirmed (possible exozodi/artifact). Coords pending SIMBAD.",
+ "notes": "Nearest Sun-like star (alpha Cen A, G2V, 1.3 pc). VLT/NEAR (VISIR) mid-IR habitable-zone imaging (Wagner et al. 2021); the candidate point source 'C1' is unconfirmed - possibly exozodiacal dust or an instrumental artifact (Wagner et al. 2021).",
  "last_updated": "2026-07-06"
 }
