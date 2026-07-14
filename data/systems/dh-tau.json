@@ -21,7 +21,8 @@
     "year": 2005,
     "arxiv": "astro-ph/0411177",
     "bibcode": "2005ApJ...620..984I",
-    "journal": "ApJ 620, 984"
+    "journal": "ApJ 620, 984",
+    "title": "A Young Brown Dwarf Companion to DH Tauri"
    }
   }
  ],
@@ -107,7 +108,7 @@
    "paper": {
     "first_author": "van Holstein",
     "year": 2021,
-    "title": "A survey of the linear polarization of directly imaged exoplanets and brown dwarf companions with SPHERE-IRDIS",
+    "title": "A survey of the linear polarization of directly imaged exoplanets and brown dwarf companions with SPHERE-IRDIS. First polarimetric detections revealing disks around DH Tau B and GSC 6214-210 B",
     "journal": "A&A 647, A21",
     "arxiv": "2101.04033",
     "bibcode": "2021A&A...647A..21V"

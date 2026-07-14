@@ -24,7 +24,8 @@
     "year": 2025,
     "arxiv": "2503.20132",
     "bibcode": "2025AJ....169..287U",
-    "journal": "AJ 169, 287"
+    "journal": "AJ 169, 287",
+    "title": "JWST/NIRCam Coronagraphic Search for Hidden Planets in the HD 163296 Protoplanetary Disk"
    }
   }
  ],
@@ -240,7 +241,7 @@
    "paper": {
     "first_author": "Uyama",
     "year": 2025,
-    "title": "JWST/NIRCam Coronagraphic Search for Hidden Planets in the HD~163296 Protoplanetary Disk",
+    "title": "JWST/NIRCam Coronagraphic Search for Hidden Planets in the HD 163296 Protoplanetary Disk",
     "journal": "AJ 169, 287",
     "arxiv": "2503.20132",
     "bibcode": "2025AJ....169..287U"
