@@ -101,6 +101,29 @@
    },
    "epoch": "2005-2007",
    "content": "continuum"
+  },
+  {
+   "image_id": "210713560_waoph_6_alma_b6",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 6",
+   "wavelength_um": 1300,
+   "wavelength_label": "1.3 mm continuum (Band 6)",
+   "technique": "interferometry",
+   "survey": null,
+   "content": "continuum",
+   "file": "images/waoph-6/210713560_waoph_6_alma_b6.png",
+   "credit": "Brown-Sevilla et al. 2021, Fig. 1 (crop)",
+   "note": "ALMA-DSHARP Band 6 continuum; spiral/ring disk (held only SPHERE scattered light)",
+   "paper": {
+    "first_author": "Brown-Sevilla",
+    "year": 2021,
+    "title": "A multiwavelength analysis of the spiral arms in the protoplanetary disk around WaOph 6",
+    "journal": "A&A 654, A35",
+    "arxiv": "2107.13560",
+    "bibcode": "2021A&A...654A..35B"
+   },
+   "epoch": "2017"
   }
  ],
  "notes": null,

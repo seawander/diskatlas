@@ -254,6 +254,121 @@
     "bibcode": "2026arXiv260530023K"
    },
    "content": "continuum"
+  },
+  {
+   "image_id": "180402145_oph_irs_48_10_46um",
+   "type": "disk_scattered",
+   "facility": "Subaru",
+   "instrument": "COMICS",
+   "wavelength_um": 10.46,
+   "wavelength_label": "10.46 um (N-band)",
+   "technique": "mid-IR imaging",
+   "survey": null,
+   "content": "continuum",
+   "file": "images/oph-irs-48/180402145_oph_irs_48_10_46um.png",
+   "credit": "Honda et al. 2018, Fig. 2 (crop)",
+   "note": "resolved N-band emission, elongated E-W",
+   "paper": {
+    "first_author": "Honda",
+    "year": 2018,
+    "title": "Mid-infrared Multi-wavelength Imaging of Ophiuchus\\,IRS\\,48\\,Transitional Disk",
+    "journal": "Publications of the Astronomical Society of Japan, 70, 44",
+    "arxiv": "1804.02145",
+    "bibcode": "2018PASJ...70...44H"
+   },
+   "epoch": "2015-04"
+  },
+  {
+   "image_id": "180402145_oph_irs_48_12_4um",
+   "type": "disk_scattered",
+   "facility": "Subaru",
+   "instrument": "COMICS",
+   "wavelength_um": 12.4,
+   "wavelength_label": "12.4 um (N-band)",
+   "technique": "mid-IR imaging",
+   "survey": null,
+   "content": "continuum",
+   "file": "images/oph-irs-48/180402145_oph_irs_48_12_4um.png",
+   "credit": "Honda et al. 2018, Fig. 2 (crop)",
+   "note": "resolved N-band, elongated E-W",
+   "paper": {
+    "first_author": "Honda",
+    "year": 2018,
+    "title": "Mid-infrared Multi-wavelength Imaging of Ophiuchus\\,IRS\\,48\\,Transitional Disk",
+    "journal": "Publications of the Astronomical Society of Japan, 70, 44",
+    "arxiv": "1804.02145",
+    "bibcode": "2018PASJ...70...44H"
+   },
+   "epoch": "2015-04"
+  },
+  {
+   "image_id": "180402145_oph_irs_48_12_81um",
+   "type": "disk_scattered",
+   "facility": "Subaru",
+   "instrument": "COMICS",
+   "wavelength_um": 12.81,
+   "wavelength_label": "12.81 um (N-band)",
+   "technique": "mid-IR imaging",
+   "survey": null,
+   "content": "continuum",
+   "file": "images/oph-irs-48/180402145_oph_irs_48_12_81um.png",
+   "credit": "Honda et al. 2018, Fig. 2 (crop)",
+   "note": "resolved N-band, elongated",
+   "paper": {
+    "first_author": "Honda",
+    "year": 2018,
+    "title": "Mid-infrared Multi-wavelength Imaging of Ophiuchus\\,IRS\\,48\\,Transitional Disk",
+    "journal": "Publications of the Astronomical Society of Japan, 70, 44",
+    "arxiv": "1804.02145",
+    "bibcode": "2018PASJ...70...44H"
+   },
+   "epoch": "2015-04"
+  },
+  {
+   "image_id": "180402145_oph_irs_48_17_7um",
+   "type": "disk_scattered",
+   "facility": "Subaru",
+   "instrument": "COMICS",
+   "wavelength_um": 17.7,
+   "wavelength_label": "17.7 um (Q-band)",
+   "technique": "mid-IR imaging",
+   "survey": null,
+   "content": "continuum",
+   "file": "images/oph-irs-48/180402145_oph_irs_48_17_7um.png",
+   "credit": "Honda et al. 2018, Fig. 2 (crop)",
+   "note": "resolved Q-band, asymmetric double-peak",
+   "paper": {
+    "first_author": "Honda",
+    "year": 2018,
+    "title": "Mid-infrared Multi-wavelength Imaging of Ophiuchus\\,IRS\\,48\\,Transitional Disk",
+    "journal": "Publications of the Astronomical Society of Japan, 70, 44",
+    "arxiv": "1804.02145",
+    "bibcode": "2018PASJ...70...44H"
+   },
+   "epoch": "2015-04"
+  },
+  {
+   "image_id": "180402145_oph_irs_48_24_6um",
+   "type": "disk_scattered",
+   "facility": "Subaru",
+   "instrument": "COMICS",
+   "wavelength_um": 24.6,
+   "wavelength_label": "24.6 um (Q-band)",
+   "technique": "mid-IR imaging",
+   "survey": null,
+   "content": "continuum",
+   "file": "images/oph-irs-48/180402145_oph_irs_48_24_6um.png",
+   "credit": "Honda et al. 2018, Fig. 2 (crop)",
+   "note": "resolved Q-band, clear E/W double peak",
+   "paper": {
+    "first_author": "Honda",
+    "year": 2018,
+    "title": "Mid-infrared Multi-wavelength Imaging of Ophiuchus\\,IRS\\,48\\,Transitional Disk",
+    "journal": "Publications of the Astronomical Society of Japan, 70, 44",
+    "arxiv": "1804.02145",
+    "bibcode": "2018PASJ...70...44H"
+   },
+   "epoch": "2015-04"
   }
  ],
  "notes": "Prototype azimuthal dust trap. SIMBAD name needs verification (Oph IRS 48 = WLY 2-48).",

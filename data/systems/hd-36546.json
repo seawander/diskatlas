@@ -80,6 +80,75 @@
    },
    "epoch": "2019-01-12",
    "content": "continuum"
+  },
+  {
+   "image_id": "210908984_hd_36546_jband",
+   "type": "disk_scattered",
+   "facility": "Subaru",
+   "instrument": "SCExAO/CHARIS",
+   "wavelength_um": 1.25,
+   "wavelength_label": "J band",
+   "technique": "ADI high-contrast imaging",
+   "survey": null,
+   "content": "continuum",
+   "file": "images/hd-36546/210908984_hd_36546_jband.png",
+   "credit": "Lawson et al. 2021, Fig. 1 (crop)",
+   "note": "CHARIS J-band resolved edge-on disk",
+   "paper": {
+    "first_author": "Lawson",
+    "year": 2021,
+    "title": "Multiband Imaging of the HD 36546 Debris Disk: A Refined View from SCExAO/CHARIS",
+    "journal": "AJ",
+    "arxiv": "2109.08984",
+    "bibcode": "2021AJ....162..293L"
+   },
+   "epoch": "2019-01-12"
+  },
+  {
+   "image_id": "210908984_hd_36546_hband",
+   "type": "disk_scattered",
+   "facility": "Subaru",
+   "instrument": "SCExAO/CHARIS",
+   "wavelength_um": 1.63,
+   "wavelength_label": "H band",
+   "technique": "ADI high-contrast imaging",
+   "survey": null,
+   "content": "continuum",
+   "file": "images/hd-36546/210908984_hd_36546_hband.png",
+   "credit": "Lawson et al. 2021, Fig. 1 (crop)",
+   "note": "CHARIS H-band resolved disk",
+   "paper": {
+    "first_author": "Lawson",
+    "year": 2021,
+    "title": "Multiband Imaging of the HD 36546 Debris Disk: A Refined View from SCExAO/CHARIS",
+    "journal": "AJ",
+    "arxiv": "2109.08984",
+    "bibcode": "2021AJ....162..293L"
+   },
+   "epoch": "2019-01-12"
+  },
+  {
+   "image_id": "210908984_hd_36546_kband",
+   "type": "disk_scattered",
+   "facility": "Subaru",
+   "instrument": "SCExAO/CHARIS",
+   "wavelength_um": 2.2,
+   "wavelength_label": "K band",
+   "technique": "ADI high-contrast imaging",
+   "survey": null,
+   "content": "continuum",
+   "file": "images/hd-36546/210908984_hd_36546_kband.png",
+   "credit": "Lawson et al. 2021, Fig. 1 (crop)",
+   "note": "CHARIS K-band resolved disk",
+   "paper": {
+    "first_author": "Lawson",
+    "year": 2021,
+    "title": "Multiband Imaging of the HD 36546 Debris Disk: A Refined View from SCExAO/CHARIS",
+    "journal": "AJ",
+    "arxiv": "2109.08984",
+    "bibcode": "2021AJ....162..293L"
+   },
+   "epoch": "2019-01-12"
   }
  ],
  "notes": "AUTO-CREATED from staging - fill metadata & coords",

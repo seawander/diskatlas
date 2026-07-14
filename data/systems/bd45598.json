@@ -45,6 +45,52 @@
    "file": "images/bd45598/bd45598_charis2024.png",
    "epoch": "2021-10-18",
    "content": "continuum"
+  },
+  {
+   "image_id": "240504521_bd45598_charis_h_2021",
+   "type": "disk_scattered",
+   "facility": "Subaru",
+   "instrument": "SCExAO/CHARIS",
+   "wavelength_um": 1.65,
+   "wavelength_label": "H band (ADI)",
+   "technique": "ADI high-contrast imaging",
+   "survey": null,
+   "content": "continuum",
+   "file": "images/bd45598/240504521_bd45598_charis_h_2021.png",
+   "credit": "Vincent et al. 2024, Fig. 1 (crop)",
+   "note": "CHARIS H-band edge-on debris disk (held only J)",
+   "paper": {
+    "first_author": "Vincent",
+    "year": 2024,
+    "title": "SCExAO/CHARIS Multiwavelength High-contrast Imaging of the BD+45°598 Debris Disk",
+    "journal": "AJ 168, 6",
+    "arxiv": "2405.04521",
+    "bibcode": "2024AJ....168....6V"
+   },
+   "epoch": "2021-10-18"
+  },
+  {
+   "image_id": "240504521_bd45598_charis_k_2021",
+   "type": "disk_scattered",
+   "facility": "Subaru",
+   "instrument": "SCExAO/CHARIS",
+   "wavelength_um": 2.2,
+   "wavelength_label": "K band (ADI)",
+   "technique": "ADI high-contrast imaging",
+   "survey": null,
+   "content": "continuum",
+   "file": "images/bd45598/240504521_bd45598_charis_k_2021.png",
+   "credit": "Vincent et al. 2024, Fig. 1 (crop)",
+   "note": "CHARIS K-band edge-on debris disk",
+   "paper": {
+    "first_author": "Vincent",
+    "year": 2024,
+    "title": "SCExAO/CHARIS Multiwavelength High-contrast Imaging of the BD+45°598 Debris Disk",
+    "journal": "AJ 168, 6",
+    "arxiv": "2405.04521",
+    "bibcode": "2024AJ....168....6V"
+   },
+   "epoch": "2021-10-18"
   }
  ],
  "notes": "Edge-on debris disk discovered with VLT/SPHERE (Rodigas et al. 2021, Discovery of an Edge-on Circumstellar Debris Disk Around BD+45 deg 598); characterized with multiband SCExAO/CHARIS imaging (Farkas et al. 2024, arXiv:2405.04521). Newly identified member of the beta Pic Moving Group.",

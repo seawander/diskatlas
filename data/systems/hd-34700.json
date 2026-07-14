@@ -454,6 +454,75 @@
    },
    "epoch": "2022-2023",
    "content": "continuum"
+  },
+  {
+   "image_id": "240809038_hd_34700_totint_jband",
+   "type": "disk_scattered",
+   "facility": "Subaru",
+   "instrument": "SCExAO/CHARIS",
+   "wavelength_um": 1.25,
+   "wavelength_label": "J band (total intensity)",
+   "technique": "RDI total intensity",
+   "survey": null,
+   "content": "continuum",
+   "file": "images/hd-34700/240809038_hd_34700_totint_jband.png",
+   "credit": "Chen et al. 2024, Fig. 2 (crop)",
+   "note": "total-intensity J-band resolved ring (PCRDI; distinct from held Qphi)",
+   "paper": {
+    "first_author": "Chen",
+    "year": 2024,
+    "title": "Multiband polarimetric imaging of HD 34700 with SCExAO/CHARIS",
+    "journal": "MNRAS 533, 2473",
+    "arxiv": "2408.09038",
+    "bibcode": "2024MNRAS.533.2473C"
+   },
+   "epoch": "2019-01-12"
+  },
+  {
+   "image_id": "240809038_hd_34700_totint_hband",
+   "type": "disk_scattered",
+   "facility": "Subaru",
+   "instrument": "SCExAO/CHARIS",
+   "wavelength_um": 1.63,
+   "wavelength_label": "H band (total intensity)",
+   "technique": "RDI total intensity",
+   "survey": null,
+   "content": "continuum",
+   "file": "images/hd-34700/240809038_hd_34700_totint_hband.png",
+   "credit": "Chen et al. 2024, Fig. 2 (crop)",
+   "note": "total-intensity H-band resolved ring",
+   "paper": {
+    "first_author": "Chen",
+    "year": 2024,
+    "title": "Multiband polarimetric imaging of HD 34700 with SCExAO/CHARIS",
+    "journal": "MNRAS 533, 2473",
+    "arxiv": "2408.09038",
+    "bibcode": "2024MNRAS.533.2473C"
+   },
+   "epoch": "2019-01-12"
+  },
+  {
+   "image_id": "240809038_hd_34700_totint_kband",
+   "type": "disk_scattered",
+   "facility": "Subaru",
+   "instrument": "SCExAO/CHARIS",
+   "wavelength_um": 2.2,
+   "wavelength_label": "K band (total intensity)",
+   "technique": "RDI total intensity",
+   "survey": null,
+   "content": "continuum",
+   "file": "images/hd-34700/240809038_hd_34700_totint_kband.png",
+   "credit": "Chen et al. 2024, Fig. 2 (crop)",
+   "note": "total-intensity K-band resolved ring",
+   "paper": {
+    "first_author": "Chen",
+    "year": 2024,
+    "title": "Multiband polarimetric imaging of HD 34700 with SCExAO/CHARIS",
+    "journal": "MNRAS 533, 2473",
+    "arxiv": "2408.09038",
+    "bibcode": "2024MNRAS.533.2473C"
+   },
+   "epoch": "2019-01-12"
   }
  ],
  "notes": null,

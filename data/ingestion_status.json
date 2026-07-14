@@ -1,6 +1,6 @@
 {
  "_doc": "Per-survey ingestion state. entries/coords/images: done|partial|todo. Update on every ingest.",
- "updated": "2026-07-14: COPAINS Fig 3 completed - all 10 co-moving companions from Bonavita et al. 2022 (2205.02213) now in the atlas. Added 6 new systems (HIP 78549 mid-M, HIP 28474, HIP 112581, HIP 15247, GJ 3346 white-dwarf companion via IRDIS, HIP 71899) with VLT/SPHERE IFS/IRDIS panels + companion entries; refreshed the existing 4 (HIP 21152, HIP 29724, HD 60584, HIP 63734). Per maintainer request, the red detection circles were recolored to light blue for legibility against the grayscale speckle (recolor noted in each record's credit/note). 606 systems.",
+ "updated": "2026-07-14: Completeness pass on under-harvested multi-panel papers. Scanned all 757 atlas papers for survey/multi-epoch/multi-wavelength/multi-instrument titles -> 38 strong single-target candidates -> 5 parallel agents read the local .tex captions, compared to holdings, and cropped 74 genuinely-missing panels across 24 papers. Highlights: HD 135344B +7 (SPHERE YJH/K1/K2 + NACO/ERIS L' + JWST F187N/F405N), HD 142527 B +8 (VisAO Halpha/continuum multi-epoch protoplanet), Mullin Herbig SPHERE +7 (MWC 480/HD 143006/HD 163296), Oph IRS 48 +5 COMICS mid-IR bands, HR 4796A +5 MagAO-X, HD 111520 +6 GPI, LkCa 15 +3 NRM epochs, 1RXS J1609 +3 companion bands, CW Tau ALMA B4/6/8, AS 205 line maps +4. Fixes: iras-08544 V-band epoch, cw-tau band label (was mislabeled all-4-bands), hd-169142 Band 3 epoch. 606 systems / 2702 records.",
  "surveys": {
   "DSHARP": {
    "entries": "done",

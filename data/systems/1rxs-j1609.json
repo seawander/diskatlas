@@ -67,6 +67,75 @@
    "file": "images/1rxs-j1609/1rxs-j1609_magao2015.png",
    "epoch": "2013",
    "content": "continuum"
+  },
+  {
+   "image_id": "100630700_1rxs_j1609_nifs_jband_2009_07_03",
+   "type": "planet",
+   "facility": "Gemini North",
+   "instrument": "NIFS + Altair",
+   "wavelength_um": 1.25,
+   "wavelength_label": "J band ~1.25 um",
+   "technique": "ADI/LOCI PSF subtraction",
+   "survey": null,
+   "content": "continuum",
+   "file": "images/1rxs-j1609/100630700_1rxs_j1609_nifs_jband_2009_07_03.png",
+   "credit": "Lafreniere et al. 2010, Fig. 1 (crop)",
+   "note": "NIFS IFU cube, PSF-subtracted; companion detected",
+   "paper": {
+    "first_author": "Lafreniere",
+    "year": 2010,
+    "title": "The Directly Imaged Planet around the Young Solar Analog 1RXS J160929.1-210524: Confirmation of Common Proper Motion, Temperature, and Mass",
+    "journal": "ApJ 719, 497",
+    "arxiv": "1006.3070",
+    "bibcode": "2010ApJ...719..497L"
+   },
+   "epoch": "2009-07-03"
+  },
+  {
+   "image_id": "100630700_1rxs_j1609_nb305um_2009_05_02",
+   "type": "planet",
+   "facility": "Gemini North",
+   "instrument": "NIRI + Altair",
+   "wavelength_um": 3.05,
+   "wavelength_label": "NB 3.05 um (H2O ice)",
+   "technique": "direct imaging",
+   "survey": null,
+   "content": "continuum",
+   "file": "images/1rxs-j1609/100630700_1rxs_j1609_nb305um_2009_05_02.png",
+   "credit": "Lafreniere et al. 2010, Fig. 5 (crop)",
+   "note": "companion ~5 sigma in the 3.05 um ice filter",
+   "paper": {
+    "first_author": "Lafreniere",
+    "year": 2010,
+    "title": "The Directly Imaged Planet around the Young Solar Analog 1RXS J160929.1-210524: Confirmation of Common Proper Motion, Temperature, and Mass",
+    "journal": "ApJ 719, 497",
+    "arxiv": "1006.3070",
+    "bibcode": "2010ApJ...719..497L"
+   },
+   "epoch": "2009-05-02"
+  },
+  {
+   "image_id": "100630700_1rxs_j1609_adi_kprime_2009_04_06",
+   "type": "planet",
+   "facility": "Gemini North",
+   "instrument": "NIRI + Altair",
+   "wavelength_um": 2.12,
+   "wavelength_label": "K' band 2.12 um (ADI)",
+   "technique": "ADI/LOCI PSF subtraction",
+   "survey": null,
+   "content": "continuum",
+   "file": "images/1rxs-j1609/100630700_1rxs_j1609_adi_kprime_2009_04_06.png",
+   "credit": "Lafreniere et al. 2010, Fig. 8 (crop)",
+   "note": "residual ADI K' image; companion + background stars",
+   "paper": {
+    "first_author": "Lafreniere",
+    "year": 2010,
+    "title": "The Directly Imaged Planet around the Young Solar Analog 1RXS J160929.1-210524: Confirmation of Common Proper Motion, Temperature, and Mass",
+    "journal": "ApJ 719, 497",
+    "arxiv": "1006.3070",
+    "bibcode": "2010ApJ...719..497L"
+   },
+   "epoch": "2009-04-06"
   }
  ],
  "notes": "Discovery paper (Lafreniere+2008, 0809.1424) cited on the planet entry; its figure set has no clean planet image - 2010 confirmation image shown instead.",

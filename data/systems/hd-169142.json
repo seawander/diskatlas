@@ -257,7 +257,7 @@
     "bibcode": "2019ApJ...881..159M"
    },
    "file": "images/hd-169142/hd-169142_macias2019-band3.png",
-   "epoch": "2016",
+   "epoch": "2017",
    "content": "continuum"
   },
   {
@@ -524,6 +524,52 @@
    },
    "epoch": "2016-2017",
    "content": "continuum"
+  },
+  {
+   "image_id": "190707277_hd_169142_band6_1_3mm",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 6",
+   "wavelength_um": 1300,
+   "wavelength_label": "1.3 mm continuum (Band 6)",
+   "technique": "interferometry",
+   "survey": null,
+   "content": "continuum",
+   "file": "images/hd-169142/190707277_hd_169142_band6_1_3mm.png",
+   "credit": "Macias et al. 2019, Fig. 1 (crop)",
+   "note": "resolved multi-ring continuum (held only B7 0.89mm and B3 3.1mm)",
+   "paper": {
+    "first_author": "Macias",
+    "year": 2019,
+    "title": "Characterization of Ring Substructures in the Protoplanetary Disk of HD 169142 from Multi-Wavelength ALMA Observations",
+    "journal": "ApJ 881, 159",
+    "arxiv": "1907.07277",
+    "bibcode": "2019ApJ...881..159M"
+   },
+   "epoch": "2016-09"
+  },
+  {
+   "image_id": "190707277_hd_169142_b6b7comb_1_04mm",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 6+7 combined",
+   "wavelength_um": 1040,
+   "wavelength_label": "1.04 mm combined (289 GHz)",
+   "technique": "interferometry",
+   "survey": null,
+   "content": "continuum",
+   "file": "images/hd-169142/190707277_hd_169142_b6b7comb_1_04mm.png",
+   "credit": "Macias et al. 2019, Fig. 2 (crop)",
+   "note": "combined Band 6+7 image, resolved multi-ring",
+   "paper": {
+    "first_author": "Macias",
+    "year": 2019,
+    "title": "Characterization of Ring Substructures in the Protoplanetary Disk of HD 169142 from Multi-Wavelength ALMA Observations",
+    "journal": "ApJ 881, 159",
+    "arxiv": "1907.07277",
+    "bibcode": "2019ApJ...881..159M"
+   },
+   "epoch": "2016-09"
   }
  ],
  "notes": null,

@@ -1177,6 +1177,121 @@
     "bibcode": "2025ApJ...985...84L"
    },
    "epoch": "2022-06"
+  },
+  {
+   "image_id": "260220346_hd_163296_sphere_k_20210406",
+   "type": "disk_scattered",
+   "facility": "VLT",
+   "instrument": "SPHERE/IRDIS",
+   "wavelength_um": 2.2,
+   "wavelength_label": "K band Qphi",
+   "technique": "polarimetric differential imaging",
+   "survey": null,
+   "content": "continuum",
+   "file": "images/hd-163296/260220346_hd_163296_sphere_k_20210406.png",
+   "credit": "Mullin et al. 2026, Fig. 6 (crop)",
+   "note": "SPHERE K-band Qphi (Ren 2023); spiral/ring (held only SCExAO K)",
+   "paper": {
+    "first_author": "Mullin",
+    "year": 2026,
+    "title": "Time-variable Scattered Light in Herbig Disks Observed with Subaru/SCExAO",
+    "journal": "AJ (2026)",
+    "arxiv": "2602.20346",
+    "bibcode": "2026AJ....171..241M"
+   },
+   "epoch": "2021-04-06"
+  },
+  {
+   "image_id": "260220346_hd_163296_sphere_k_20210909",
+   "type": "disk_scattered",
+   "facility": "VLT",
+   "instrument": "SPHERE/IRDIS",
+   "wavelength_um": 2.2,
+   "wavelength_label": "K band Qphi",
+   "technique": "polarimetric differential imaging",
+   "survey": null,
+   "content": "continuum",
+   "file": "images/hd-163296/260220346_hd_163296_sphere_k_20210909.png",
+   "credit": "Mullin et al. 2026, Fig. 6 (crop)",
+   "note": "SPHERE K-band Qphi; mid epoch",
+   "paper": {
+    "first_author": "Mullin",
+    "year": 2026,
+    "title": "Time-variable Scattered Light in Herbig Disks Observed with Subaru/SCExAO",
+    "journal": "AJ (2026)",
+    "arxiv": "2602.20346",
+    "bibcode": "2026AJ....171..241M"
+   },
+   "epoch": "2021-09-09"
+  },
+  {
+   "image_id": "260220346_hd_163296_sphere_k_20220707",
+   "type": "disk_scattered",
+   "facility": "VLT",
+   "instrument": "SPHERE/IRDIS",
+   "wavelength_um": 2.2,
+   "wavelength_label": "K band Qphi",
+   "technique": "polarimetric differential imaging",
+   "survey": null,
+   "content": "continuum",
+   "file": "images/hd-163296/260220346_hd_163296_sphere_k_20220707.png",
+   "credit": "Mullin et al. 2026, Fig. 6 (crop)",
+   "note": "SPHERE K-band Qphi; late epoch",
+   "paper": {
+    "first_author": "Mullin",
+    "year": 2026,
+    "title": "Time-variable Scattered Light in Herbig Disks Observed with Subaru/SCExAO",
+    "journal": "AJ (2026)",
+    "arxiv": "2602.20346",
+    "bibcode": "2026AJ....171..241M"
+   },
+   "epoch": "2022-07-07"
+  },
+  {
+   "image_id": "181107785_hd_163296_charis_2018_05_22",
+   "type": "disk_scattered",
+   "facility": "Subaru",
+   "instrument": "SCExAO/CHARIS",
+   "wavelength_um": 1.6,
+   "wavelength_label": "JHK broadband (collapsed)",
+   "technique": "ADI+SDI high-contrast imaging",
+   "survey": null,
+   "content": "continuum",
+   "file": "images/hd-163296/181107785_hd_163296_charis_2018_05_22.png",
+   "credit": "Rich et al. 2019, Fig. 3 (crop)",
+   "note": "CHARIS total-intensity, resolved disk crescent (held only 2011 HiCIAO PI)",
+   "paper": {
+    "first_author": "Rich",
+    "year": 2019,
+    "title": "Multi-epoch Direct Imaging and Time-variable Scattered Light Morphology of the HD 163296 Protoplanetary Disk",
+    "journal": "ApJ",
+    "arxiv": "1811.07785",
+    "bibcode": "2019ApJ...875...38R"
+   },
+   "epoch": "2018-05-22"
+  },
+  {
+   "image_id": "181107785_hd_163296_charis_2018_07_01",
+   "type": "disk_scattered",
+   "facility": "Subaru",
+   "instrument": "SCExAO/CHARIS",
+   "wavelength_um": 1.6,
+   "wavelength_label": "JHK broadband (collapsed)",
+   "technique": "ADI+SDI high-contrast imaging",
+   "survey": null,
+   "content": "continuum",
+   "file": "images/hd-163296/181107785_hd_163296_charis_2018_07_01.png",
+   "credit": "Rich et al. 2019, Fig. 3 (crop)",
+   "note": "CHARIS total-intensity, resolved disk crescent (2nd epoch)",
+   "paper": {
+    "first_author": "Rich",
+    "year": 2019,
+    "title": "Multi-epoch Direct Imaging and Time-variable Scattered Light Morphology of the HD 163296 Protoplanetary Disk",
+    "journal": "ApJ",
+    "arxiv": "1811.07785",
+    "bibcode": "2019ApJ...875...38R"
+   },
+   "epoch": "2018-07-01"
   }
  ],
  "notes": null,

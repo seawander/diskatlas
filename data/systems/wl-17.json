@@ -57,6 +57,29 @@
    "file": "images/wl-17/wl-17_alma100ghz2021.png",
    "epoch": "2016",
    "content": "continuum"
+  },
+  {
+   "image_id": "230906076_wl_17_b3_3p1mm",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 3",
+   "wavelength_um": 3100,
+   "wavelength_label": "3.1 mm (Band 3)",
+   "technique": "interferometry",
+   "survey": null,
+   "content": "continuum",
+   "file": "images/wl-17/230906076_wl_17_b3_3p1mm.png",
+   "credit": "Han et al. 2023, Fig. 1 (crop)",
+   "note": "ALMA Band 3 (3.1 mm) continuum; resolved ring + central hole, 0.074x0.060 arcsec beam",
+   "paper": {
+    "first_author": "Han",
+    "year": 2023,
+    "title": "Grain Growth and Dust Segregation Revealed by Multi-wavelength Analysis of the Class I Protostellar Disk WL 17",
+    "journal": "ApJ 956, 9",
+    "arxiv": "2309.06076",
+    "bibcode": "2023ApJ...956....9H"
+   },
+   "epoch": "2019"
   }
  ],
  "notes": "Class I protostar in the rho Ophiuchus (L1688) molecular cloud. ALMA Band 7 (0.87mm; Han+2023) and Band 3 (3.1mm; Gulick+2021) reveal different disk substructures (an off-center hole in Band 7, a central symmetric hole in Band 3) and a low mean spectral index (alpha=2.28+/-0.02), suggestive of grain growth and dust segregation on the protostellar-disk scale; the disk may be massive and gravitationally unstable, possibly forming a single Jupiter-mass protoplanet. Distance of 137 pc adopted as the mean distance to the L1688 region.",

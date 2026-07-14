@@ -189,6 +189,98 @@
    },
    "epoch": "2006-2007",
    "content": "continuum"
+  },
+  {
+   "image_id": "260116202_as_205_alma_b6_co2_1_intint",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 6",
+   "wavelength_um": 1301,
+   "wavelength_label": "CO(2-1) integrated intensity",
+   "technique": "interferometry",
+   "survey": null,
+   "content": "line",
+   "file": "images/as-205/260116202_as_205_alma_b6_co2_1_intint.png",
+   "credit": "Phuong et al. 2026, Fig. 2 (crop)",
+   "note": "resolves AS 205 N & S disks + spirals (DSHARP Band 6)",
+   "paper": {
+    "first_author": "Phuong",
+    "year": 2026,
+    "title": "A multiwavelength ALMA view of gas and dust in binary protoplanetary system AS 205: Evidence of dust asymmetric distribution",
+    "journal": "ApJ",
+    "arxiv": "2601.16202",
+    "bibcode": "2026ApJ...999...76P"
+   },
+   "epoch": "2017"
+  },
+  {
+   "image_id": "260116202_as_205_alma_b7_co3_2_intint",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 7",
+   "wavelength_um": 867,
+   "wavelength_label": "CO(3-2) integrated intensity",
+   "technique": "interferometry",
+   "survey": null,
+   "content": "line",
+   "file": "images/as-205/260116202_as_205_alma_b7_co3_2_intint.png",
+   "credit": "Phuong et al. 2026, Fig. 2 (crop)",
+   "note": "integrated-intensity map",
+   "paper": {
+    "first_author": "Phuong",
+    "year": 2026,
+    "title": "A multiwavelength ALMA view of gas and dust in binary protoplanetary system AS 205: Evidence of dust asymmetric distribution",
+    "journal": "ApJ",
+    "arxiv": "2601.16202",
+    "bibcode": "2026ApJ...999...76P"
+   },
+   "epoch": "2016-06-28"
+  },
+  {
+   "image_id": "260116202_as_205_alma_b7_13co3_2_intint",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 7",
+   "wavelength_um": 907,
+   "wavelength_label": "13CO(3-2) integrated intensity",
+   "technique": "interferometry",
+   "survey": null,
+   "content": "line",
+   "file": "images/as-205/260116202_as_205_alma_b7_13co3_2_intint.png",
+   "credit": "Phuong et al. 2026, Fig. 2 (crop)",
+   "note": "traces the two disks",
+   "paper": {
+    "first_author": "Phuong",
+    "year": 2026,
+    "title": "A multiwavelength ALMA view of gas and dust in binary protoplanetary system AS 205: Evidence of dust asymmetric distribution",
+    "journal": "ApJ",
+    "arxiv": "2601.16202",
+    "bibcode": "2026ApJ...999...76P"
+   },
+   "epoch": "2016-06-28"
+  },
+  {
+   "image_id": "260116202_as_205_alma_b7_c18o3_2_intint",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 7",
+   "wavelength_um": 910,
+   "wavelength_label": "C18O(3-2) integrated intensity",
+   "technique": "interferometry",
+   "survey": null,
+   "content": "line",
+   "file": "images/as-205/260116202_as_205_alma_b7_c18o3_2_intint.png",
+   "credit": "Phuong et al. 2026, Fig. 2 (crop)",
+   "note": "compact N & S disk cores",
+   "paper": {
+    "first_author": "Phuong",
+    "year": 2026,
+    "title": "A multiwavelength ALMA view of gas and dust in binary protoplanetary system AS 205: Evidence of dust asymmetric distribution",
+    "journal": "ApJ",
+    "arxiv": "2601.16202",
+    "bibcode": "2026ApJ...999...76P"
+   },
+   "epoch": "2016-06-28"
   }
  ],
  "notes": null,

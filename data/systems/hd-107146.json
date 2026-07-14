@@ -235,6 +235,52 @@
    },
    "epoch": "2012-2015",
    "content": "continuum"
+  },
+  {
+   "image_id": "11071057_hd_107146_acs_f606w",
+   "type": "disk_scattered",
+   "facility": "HST",
+   "instrument": "ACS/HRC",
+   "wavelength_um": 0.6,
+   "wavelength_label": "F606W (0.6 um) scattered light",
+   "technique": "coronagraphy + PSF subtraction",
+   "survey": null,
+   "content": "continuum",
+   "file": "images/hd-107146/11071057_hd_107146_acs_f606w.png",
+   "credit": "Ertel et al. 2011, Fig. 6 (crop)",
+   "note": "HST/ACS 0.6um PSF-subtracted scattered light of the debris ring (Ardila 2004 data)",
+   "paper": {
+    "first_author": "Ertel",
+    "year": 2011,
+    "title": "Multi-wavelength modeling of the spatially resolved debris disk of HD 107146",
+    "journal": "A&A 533, A132",
+    "arxiv": "1107.1057",
+    "bibcode": "2011A&A...533A.132E"
+   },
+   "epoch": "2004"
+  },
+  {
+   "image_id": "11071057_hd_107146_acs_f814w",
+   "type": "disk_scattered",
+   "facility": "HST",
+   "instrument": "ACS/HRC",
+   "wavelength_um": 0.8,
+   "wavelength_label": "F814W (0.8 um) scattered light",
+   "technique": "coronagraphy + PSF subtraction",
+   "survey": null,
+   "content": "continuum",
+   "file": "images/hd-107146/11071057_hd_107146_acs_f814w.png",
+   "credit": "Ertel et al. 2011, Fig. 6 (crop)",
+   "note": "HST/ACS 0.8um PSF-subtracted scattered light of the debris ring",
+   "paper": {
+    "first_author": "Ertel",
+    "year": 2011,
+    "title": "Multi-wavelength modeling of the spatially resolved debris disk of HD 107146",
+    "journal": "A&A 533, A132",
+    "arxiv": "1107.1057",
+    "bibcode": "2011A&A...533A.132E"
+   },
+   "epoch": "2004"
   }
  ],
  "notes": null,

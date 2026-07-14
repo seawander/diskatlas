@@ -593,6 +593,29 @@
     "bibcode": "2009ApJ...698..131H"
    },
    "epoch": "2006-2007"
+  },
+  {
+   "image_id": "200111040_gm_aur_hcop_j32_intint",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 6",
+   "wavelength_um": 1121,
+   "wavelength_label": "HCO+ J=3-2 integrated intensity",
+   "technique": "interferometry",
+   "survey": null,
+   "content": "line",
+   "file": "images/gm-aur/200111040_gm_aur_hcop_j32_intint.png",
+   "credit": "Huang et al. 2020, Fig. 3 (crop)",
+   "note": "HCO+ J=3-2 moment-0; resolved gas disk (held only B6/B4 continuum)",
+   "paper": {
+    "first_author": "Huang",
+    "year": 2020,
+    "title": "A Multifrequency ALMA Characterization of Substructures in the GM Aur Protoplanetary Disk",
+    "journal": "ApJ 891, 48",
+    "arxiv": "2001.11040",
+    "bibcode": "2020ApJ...891...48H"
+   },
+   "epoch": "2017-2018"
   }
  ],
  "notes": null,

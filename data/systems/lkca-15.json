@@ -533,6 +533,75 @@
     "bibcode": "2025ApJ...984L..16G"
    },
    "epoch": "2019-2022"
+  },
+  {
+   "image_id": "230615069_lkca_15_ks_2015_02",
+   "type": "disk_scattered",
+   "facility": "LBT",
+   "instrument": "LBTI/LMIRCam",
+   "wavelength_um": 2.15,
+   "wavelength_label": "Ks 2.15 um (NRM SQUEEZE recon)",
+   "technique": "non-redundant masking image reconstruction",
+   "survey": null,
+   "content": "continuum",
+   "file": "images/lkca-15/230615069_lkca_15_ks_2015_02.png",
+   "credit": "Sallum et al. 2023, Fig. 3 (crop)",
+   "note": "reconstructed Ks image (2015-02); resolved inner dust structure",
+   "paper": {
+    "first_author": "Sallum",
+    "year": 2023,
+    "title": "Systematic Multi-Epoch Monitoring of LkCa 15: Dynamic Dust Structures on Solar-System Scales",
+    "journal": "ApJ 953, 55",
+    "arxiv": "2306.15069",
+    "bibcode": "2023ApJ...953...55S"
+   },
+   "epoch": "2015-02"
+  },
+  {
+   "image_id": "230615069_lkca_15_lp_2018_11",
+   "type": "disk_scattered",
+   "facility": "Keck",
+   "instrument": "NIRC2",
+   "wavelength_um": 3.8,
+   "wavelength_label": "L' 3.8 um (NRM SQUEEZE recon)",
+   "technique": "non-redundant masking image reconstruction",
+   "survey": null,
+   "content": "continuum",
+   "file": "images/lkca-15/230615069_lkca_15_lp_2018_11.png",
+   "credit": "Sallum et al. 2023, Fig. 3 (crop)",
+   "note": "reconstructed L' (2018-11); resolved arc",
+   "paper": {
+    "first_author": "Sallum",
+    "year": 2023,
+    "title": "Systematic Multi-Epoch Monitoring of LkCa 15: Dynamic Dust Structures on Solar-System Scales",
+    "journal": "ApJ 953, 55",
+    "arxiv": "2306.15069",
+    "bibcode": "2023ApJ...953...55S"
+   },
+   "epoch": "2018-11"
+  },
+  {
+   "image_id": "230615069_lkca_15_lp_2020_01",
+   "type": "disk_scattered",
+   "facility": "Keck",
+   "instrument": "NIRC2",
+   "wavelength_um": 3.8,
+   "wavelength_label": "L' 3.8 um (NRM SQUEEZE recon)",
+   "technique": "non-redundant masking image reconstruction",
+   "survey": null,
+   "content": "continuum",
+   "file": "images/lkca-15/230615069_lkca_15_lp_2020_01.png",
+   "credit": "Sallum et al. 2023, Fig. 3 (crop)",
+   "note": "reconstructed L' (2020-01); dynamic dust feature",
+   "paper": {
+    "first_author": "Sallum",
+    "year": 2023,
+    "title": "Systematic Multi-Epoch Monitoring of LkCa 15: Dynamic Dust Structures on Solar-System Scales",
+    "journal": "ApJ 953, 55",
+    "arxiv": "2306.15069",
+    "bibcode": "2023ApJ...953...55S"
+   },
+   "epoch": "2020-01"
   }
  ],
  "notes": null,

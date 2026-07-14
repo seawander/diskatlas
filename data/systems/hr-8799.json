@@ -1368,6 +1368,29 @@
     "bibcode": "2015ApJ...809L..33R"
    },
    "epoch": "2011-2012"
+  },
+  {
+   "image_id": "220805594_hr_8799_charis_night2_2018_09_02",
+   "type": "planet",
+   "facility": "Subaru",
+   "instrument": "SCExAO/CHARIS",
+   "wavelength_um": 1.6,
+   "wavelength_label": "JHK broadband (ADI+SDI collapse)",
+   "technique": "ADI+SDI high-contrast imaging",
+   "survey": null,
+   "content": "continuum",
+   "file": "images/hr-8799/220805594_hr_8799_charis_night2_2018_09_02.png",
+   "credit": "Wang et al. 2022, Fig. 1 (crop)",
+   "note": "Night-2 full-night collapse showing HR 8799 c,d,e (distinct epoch from held Night-1)",
+   "paper": {
+    "first_author": "Wang",
+    "year": 2022,
+    "title": "Atmospheric Monitoring and Precise Spectroscopy of the HR 8799 Planets with SCExAO/CHARIS",
+    "journal": "AJ 164, 143 (2022)",
+    "arxiv": "2208.05594",
+    "bibcode": "2022AJ....164..143W"
+   },
+   "epoch": "2018-09-02"
   }
  ],
  "notes": null,

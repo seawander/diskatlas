@@ -233,6 +233,52 @@
    },
    "epoch": "2017",
    "content": "continuum"
+  },
+  {
+   "image_id": "260220346_hd_143006_sphere_k_20210630",
+   "type": "disk_scattered",
+   "facility": "VLT",
+   "instrument": "SPHERE/IRDIS",
+   "wavelength_um": 2.2,
+   "wavelength_label": "K band Qphi",
+   "technique": "polarimetric differential imaging",
+   "survey": null,
+   "content": "continuum",
+   "file": "images/hd-143006/260220346_hd_143006_sphere_k_20210630.png",
+   "credit": "Mullin et al. 2026, Fig. 5 (crop)",
+   "note": "SPHERE K-band Qphi (Ren 2023); ringed disk (held only SCExAO K)",
+   "paper": {
+    "first_author": "Mullin",
+    "year": 2026,
+    "title": "Time-variable Scattered Light in Herbig Disks Observed with Subaru/SCExAO",
+    "journal": "AJ (2026)",
+    "arxiv": "2602.20346",
+    "bibcode": "2026AJ....171..241M"
+   },
+   "epoch": "2021-06-30"
+  },
+  {
+   "image_id": "260220346_hd_143006_sphere_k_20210722",
+   "type": "disk_scattered",
+   "facility": "VLT",
+   "instrument": "SPHERE/IRDIS",
+   "wavelength_um": 2.2,
+   "wavelength_label": "K band Qphi",
+   "technique": "polarimetric differential imaging",
+   "survey": null,
+   "content": "continuum",
+   "file": "images/hd-143006/260220346_hd_143006_sphere_k_20210722.png",
+   "credit": "Mullin et al. 2026, Fig. 5 (crop)",
+   "note": "SPHERE K-band Qphi; 2nd epoch",
+   "paper": {
+    "first_author": "Mullin",
+    "year": 2026,
+    "title": "Time-variable Scattered Light in Herbig Disks Observed with Subaru/SCExAO",
+    "journal": "AJ (2026)",
+    "arxiv": "2602.20346",
+    "bibcode": "2026AJ....171..241M"
+   },
+   "epoch": "2021-07-22"
   }
  ],
  "notes": null,

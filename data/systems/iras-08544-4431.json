@@ -35,8 +35,31 @@
     "bibcode": "2024MNRAS.535.1763A"
    },
    "file": "images/iras-08544-4431/iras-08544-4431_sphere_zimpol.png",
-   "epoch": "2018-10-25",
+   "epoch": "2018-04-22",
    "content": "continuum"
+  },
+  {
+   "image_id": "241117057_iras_08544_4431_zimpol_iprime_deconv_qphi",
+   "type": "disk_scattered",
+   "facility": "VLT",
+   "instrument": "SPHERE ZIMPOL",
+   "wavelength_um": 0.817,
+   "wavelength_label": "I' band (817 nm, deconvolved Qphi)",
+   "technique": "polarimetric differential imaging",
+   "survey": null,
+   "content": "continuum",
+   "file": "images/iras-08544-4431/241117057_iras_08544_4431_zimpol_iprime_deconv_qphi.png",
+   "credit": "Andrych et al. 2024, Fig. 7 (crop)",
+   "note": "Deconvolved Qphi of the circumbinary disc in I'-band (simultaneous with the held V-band via ZIMPOL two arms)",
+   "paper": {
+    "first_author": "Andrych",
+    "year": 2024,
+    "title": "Multiwavelength high-resolution polarimetric imaging of second-generation disc around post-AGB binary IRAS 08544-4431 with SPHERE",
+    "journal": "MNRAS",
+    "arxiv": "2411.17057",
+    "bibcode": "2024MNRAS.535.1763A"
+   },
+   "epoch": "2018-04-22"
   }
  ],
  "notes": "Post-AGB / evolved binary disc resolved with VLT/SPHERE-ZIMPOL polarimetry (Andrych+2024).",
