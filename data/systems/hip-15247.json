@@ -1,0 +1,59 @@
+{
+ "id": "hip-15247",
+ "name": "HIP 15247",
+ "alt_names": [],
+ "simbad": "HIP 15247",
+ "ra_deg": 49.16945,
+ "dec_deg": -3.530257,
+ "dist_pc": 49.1,
+ "plx_mas": 20.3667,
+ "sptype": "F6V",
+ "region": "field",
+ "categories": [],
+ "mags": {
+  "V": 7.49
+ },
+ "planets": [
+  {
+   "name": "B",
+   "status": "confirmed",
+   "method": "imaging",
+   "note": "Co-moving companion (also detected by Gaia), SPHERE/IFS field of view, COPAINS pilot survey (Bonavita et al. 2022).",
+   "paper": {
+    "first_author": "Bonavita",
+    "year": 2022,
+    "title": "Results from The COPAINS Pilot Survey: Four new brown dwarfs and a high companion detection rate for accelerating stars",
+    "journal": "MNRAS 513, 5588",
+    "arxiv": "2205.02213",
+    "bibcode": "2022MNRAS.513.5588B"
+   }
+  }
+ ],
+ "images": [
+  {
+   "image_id": "hip-15247_sphere-copains",
+   "type": "planet",
+   "facility": "VLT",
+   "instrument": "SPHERE IFS",
+   "wavelength_um": 1.15,
+   "wavelength_label": "YJ (ASDI-PCA)",
+   "technique": "high-contrast imaging",
+   "survey": "COPAINS",
+   "content": "continuum",
+   "file": "images/hip-15247/hip-15247_sphere-copains.png",
+   "credit": "Bonavita et al. 2022, Fig. 3 (crop; detection circle recolored)",
+   "note": "Co-moving companion in the light-blue circle (recolored from the red circle of the published Fig. 3 for legibility). F6V star.",
+   "paper": {
+    "first_author": "Bonavita",
+    "year": 2022,
+    "title": "Results from The COPAINS Pilot Survey: Four new brown dwarfs and a high companion detection rate for accelerating stars",
+    "journal": "MNRAS 513, 5588",
+    "arxiv": "2205.02213",
+    "bibcode": "2022MNRAS.513.5588B"
+   },
+   "epoch": "2019-10-03"
+  }
+ ],
+ "notes": "F6V star with a co-moving companion imaged by VLT/SPHERE IFS in the COPAINS pilot survey (Bonavita et al. 2022).",
+ "last_updated": "2026-07-14"
+}

@@ -1,0 +1,59 @@
+{
+ "id": "hip-78549",
+ "name": "HIP 78549",
+ "alt_names": [],
+ "simbad": "HIP 78549",
+ "ra_deg": 240.55648,
+ "dec_deg": -22.687559,
+ "dist_pc": 142.6,
+ "plx_mas": 7.0124,
+ "sptype": "B9Vn",
+ "region": "field",
+ "categories": [],
+ "mags": {
+  "V": 7.33
+ },
+ "planets": [
+  {
+   "name": "B",
+   "status": "confirmed",
+   "method": "imaging",
+   "note": "Mid-M dwarf companion, recovered co-moving in the COPAINS pilot survey; within the SPHERE/IFS field of view (Bonavita et al. 2022).",
+   "paper": {
+    "first_author": "Bonavita",
+    "year": 2022,
+    "title": "Results from The COPAINS Pilot Survey: Four new brown dwarfs and a high companion detection rate for accelerating stars",
+    "journal": "MNRAS 513, 5588",
+    "arxiv": "2205.02213",
+    "bibcode": "2022MNRAS.513.5588B"
+   }
+  }
+ ],
+ "images": [
+  {
+   "image_id": "hip-78549_sphere-copains",
+   "type": "planet",
+   "facility": "VLT",
+   "instrument": "SPHERE IFS",
+   "wavelength_um": 1.15,
+   "wavelength_label": "YJ (ASDI-PCA)",
+   "technique": "high-contrast imaging",
+   "survey": "COPAINS",
+   "content": "continuum",
+   "file": "images/hip-78549/hip-78549_sphere-copains.png",
+   "credit": "Bonavita et al. 2022, Fig. 3 (crop; detection circle recolored)",
+   "note": "Co-moving companion in the light-blue circle (recolored from the red circle of the published Fig. 3 for legibility). B9V star; co-moving mid-M dwarf companion imaged.",
+   "paper": {
+    "first_author": "Bonavita",
+    "year": 2022,
+    "title": "Results from The COPAINS Pilot Survey: Four new brown dwarfs and a high companion detection rate for accelerating stars",
+    "journal": "MNRAS 513, 5588",
+    "arxiv": "2205.02213",
+    "bibcode": "2022MNRAS.513.5588B"
+   },
+   "epoch": "2020-03-24"
+  }
+ ],
+ "notes": "B9V star; co-moving mid-M dwarf companion imaged with VLT/SPHERE IFS in the COPAINS pilot survey (Bonavita et al. 2022).",
+ "last_updated": "2026-07-14"
+}

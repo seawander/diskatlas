@@ -1,0 +1,59 @@
+{
+ "id": "gj-3346",
+ "name": "GJ 3346",
+ "alt_names": [],
+ "simbad": "GJ 3346",
+ "ra_deg": 79.998237,
+ "dec_deg": -15.839646,
+ "dist_pc": 23.8,
+ "plx_mas": 42.094,
+ "sptype": "K3.5V",
+ "region": "field",
+ "categories": [],
+ "mags": {
+  "V": 9.46
+ },
+ "planets": [
+  {
+   "name": "B",
+   "status": "confirmed",
+   "method": "imaging",
+   "note": "White dwarf companion at ~3.6 arcsec (Bonavita et al. 2020), recovered with VLT/SPHERE IRDIS in the COPAINS pilot survey (Bonavita et al. 2022).",
+   "paper": {
+    "first_author": "Bonavita",
+    "year": 2022,
+    "title": "Results from The COPAINS Pilot Survey: Four new brown dwarfs and a high companion detection rate for accelerating stars",
+    "journal": "MNRAS 513, 5588",
+    "arxiv": "2205.02213",
+    "bibcode": "2022MNRAS.513.5588B"
+   }
+  }
+ ],
+ "images": [
+  {
+   "image_id": "gj-3346_sphere-copains",
+   "type": "planet",
+   "facility": "VLT",
+   "instrument": "SPHERE IRDIS",
+   "wavelength_um": 1.6,
+   "wavelength_label": "H (IRDIS)",
+   "technique": "high-contrast imaging",
+   "survey": "COPAINS",
+   "content": "continuum",
+   "file": "images/gj-3346/gj-3346_sphere-copains.png",
+   "credit": "Bonavita et al. 2022, Fig. 3 (crop; detection circle recolored)",
+   "note": "Co-moving companion in the light-blue circle (recolored from the red circle of the published Fig. 3 for legibility). K3.5V star (= HIP 24874 / HD 34865).",
+   "paper": {
+    "first_author": "Bonavita",
+    "year": 2022,
+    "title": "Results from The COPAINS Pilot Survey: Four new brown dwarfs and a high companion detection rate for accelerating stars",
+    "journal": "MNRAS 513, 5588",
+    "arxiv": "2205.02213",
+    "bibcode": "2022MNRAS.513.5588B"
+   },
+   "epoch": "2018-01-29"
+  }
+ ],
+ "notes": "K3.5V star (= HIP 24874 / HD 34865) with a white dwarf companion at ~3.6 arcsec (Bonavita et al. 2020; 2022).",
+ "last_updated": "2026-07-14"
+}

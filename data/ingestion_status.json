@@ -1,6 +1,6 @@
 {
  "_doc": "Per-survey ingestion state. entries/coords/images: done|partial|todo. Update on every ingest.",
- "updated": "2026-07-12: +HD 131399 Ab (refuted imaged companion: Wagner 2016 Science discovery composite VLT/SPHERE + Nielsen 2017 Gemini/GPI background-star refutation) modeled as a refuted-companion system. + Apply batch 3: re-cropped the s4c cross-paper manifest lost to a scratchpad expiry (69 panels, all VIEW-verified): PDS 70 873um pol+B3/4/6, MWC 480 mm->cm, HD 163296 CS/H2CS ladder (Law) + HCN/C2H CPD (Izquierdo), T Tau periastron epochs, Fomalhaut cs2 (Kalas)+ALMA mosaics (Chittidi), HD 100453 COMs (Booth), IRAS 04166/04169 pol (Sato)+eDisk XVII (Han), V960 Mon (Weber), HD 100546 first resolved water (Rampinelli). 600 systems, 2610 records, papers_in_atlas 712. Release re-pinned for the manuscript snapshot.",
+ "updated": "2026-07-14: COPAINS Fig 3 completed - all 10 co-moving companions from Bonavita et al. 2022 (2205.02213) now in the atlas. Added 6 new systems (HIP 78549 mid-M, HIP 28474, HIP 112581, HIP 15247, GJ 3346 white-dwarf companion via IRDIS, HIP 71899) with VLT/SPHERE IFS/IRDIS panels + companion entries; refreshed the existing 4 (HIP 21152, HIP 29724, HD 60584, HIP 63734). Per maintainer request, the red detection circles were recolored to light blue for legibility against the grayscale speckle (recolor noted in each record's credit/note). 606 systems.",
  "surveys": {
   "DSHARP": {
    "entries": "done",

@@ -1,0 +1,59 @@
+{
+ "id": "hip-71899",
+ "name": "HIP 71899",
+ "alt_names": [],
+ "simbad": "HIP 71899",
+ "ra_deg": 220.59626,
+ "dec_deg": 21.293085,
+ "dist_pc": 45.6,
+ "plx_mas": 21.9432,
+ "sptype": "F8",
+ "region": "field",
+ "categories": [],
+ "mags": {
+  "V": 7.48
+ },
+ "planets": [
+  {
+   "name": "B",
+   "status": "confirmed",
+   "method": "imaging",
+   "note": "Co-moving companion imaged with VLT/SPHERE IRDIS, COPAINS pilot survey (Bonavita et al. 2022).",
+   "paper": {
+    "first_author": "Bonavita",
+    "year": 2022,
+    "title": "Results from The COPAINS Pilot Survey: Four new brown dwarfs and a high companion detection rate for accelerating stars",
+    "journal": "MNRAS 513, 5588",
+    "arxiv": "2205.02213",
+    "bibcode": "2022MNRAS.513.5588B"
+   }
+  }
+ ],
+ "images": [
+  {
+   "image_id": "hip-71899_sphere-copains",
+   "type": "planet",
+   "facility": "VLT",
+   "instrument": "SPHERE IRDIS",
+   "wavelength_um": 1.6,
+   "wavelength_label": "H (IRDIS)",
+   "technique": "high-contrast imaging",
+   "survey": "COPAINS",
+   "content": "continuum",
+   "file": "images/hip-71899/hip-71899_sphere-copains.png",
+   "credit": "Bonavita et al. 2022, Fig. 3 (crop; detection circle recolored)",
+   "note": "Co-moving companion in the light-blue circle (recolored from the red circle of the published Fig. 3 for legibility). F8 star.",
+   "paper": {
+    "first_author": "Bonavita",
+    "year": 2022,
+    "title": "Results from The COPAINS Pilot Survey: Four new brown dwarfs and a high companion detection rate for accelerating stars",
+    "journal": "MNRAS 513, 5588",
+    "arxiv": "2205.02213",
+    "bibcode": "2022MNRAS.513.5588B"
+   },
+   "epoch": "2019-03-03"
+  }
+ ],
+ "notes": "F8 star with a co-moving companion imaged by VLT/SPHERE IRDIS in the COPAINS pilot survey (Bonavita et al. 2022).",
+ "last_updated": "2026-07-14"
+}
