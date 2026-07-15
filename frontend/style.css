@@ -257,7 +257,7 @@ table.mtx td .mk { vertical-align: middle; }
 #facets .fgroup { display: flex; gap: 5px; align-items: center; flex-wrap: wrap; }
 #facets .flabel { color: var(--dim); font-size: 10.5px; text-transform: uppercase; letter-spacing: .5px; }
 .chip.sm { padding: 2px 8px; font-size: 11px; }
-.chip.sm.reset { border-style: dashed; margin-left: auto; }
+.chip.reset { border-style: dashed; margin-left: auto; }   /* facet clear + category clear */
 
 /* ---- matrix + tonight overlays ----
    flex column so .mscroll (not the overlay) is the vertical scroller:

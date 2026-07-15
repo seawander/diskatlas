@@ -218,6 +218,7 @@ function filterSystems(systems, f, q) {
   const bandSet = f.bands && f.bands.size ? f.bands : null;
   const missSet = f.missing && f.missing.size ? f.missing : null;
   const contSet = f.content && f.content.size ? f.content : null;
+  const survSet = f.surveys && f.surveys.size ? f.surveys : null;
   return systems.filter(s => {
     const key = sysColorKey(s);
     if (key === "proto" && !f.proto) return false;
@@ -262,6 +263,11 @@ function filterSystems(systems, f, q) {
       if (missSet.has("mm") && sysHasMm(s)) return false;
       if (missSet.has("nir") && sysHasNir(s)) return false;
       if (missSet.has("planet") && sysHasImagedPlanet(s)) return false;
+    }
+    if (survSet) {
+      /* observed in ANY of the selected programs (union), exact tag match */
+      const ss = new Set((s.images || []).map(i => i.survey).filter(Boolean));
+      if (![...survSet].some(x => ss.has(x))) return false;
     }
     if (q && !sysHay(s).includes(q) && !matchedSurvey(s, q)) return false;   // name/id/alt/paper substring, OR a survey prefix
     return true;
@@ -354,7 +360,7 @@ if (typeof window !== "undefined") (function () {
   const filters = { proto: true, debris: true, planetonly: true, quasar: true, evolved: true,
     refutedonly: true, planethost: false, hasimg: false, constellations: true,
     facilities: new Set(), instruments: new Set(), bands: new Set(), missing: new Set(),
-    content: new Set() };
+    content: new Set(), surveys: new Set() };
   let visible = new Set(SYS.map(s => s.id));
   let hoverId = null, currentSys = null, curImg = 0, currentView = "sky";
 
@@ -386,6 +392,7 @@ if (typeof window !== "undefined") (function () {
       else if (k === "miss") toks.forEach(x => filters.missing.add(x));
       else if (k === "fac") toks.forEach(x => filters.facilities.add(x));
       else if (k === "instr") toks.forEach(x => filters.instruments.add(x));
+      else if (k === "surv") toks.forEach(x => filters.surveys.add(x));
     }
     hashSys = out.sys; hashImg = out.img ? out.img - 1 : 0;
     return out;
@@ -407,6 +414,7 @@ if (typeof window !== "undefined") (function () {
     setPart("b", filters.bands); setPart("cont", filters.content);
     setPart("miss", filters.missing);
     setPart("fac", filters.facilities); setPart("instr", filters.instruments);
+    setPart("surv", filters.surveys);
     history.replaceState(null, "", parts.length ? "#" + parts.join("&") : "#");
   }
 
@@ -846,6 +854,7 @@ if (typeof window !== "undefined") (function () {
   for (const [key, i18nKey, cls] of FDEF) {
     const el = document.createElement("span");
     el.className = "chip " + cls + (filters[key] ? " on" : "");
+    el.dataset.fkey = key;
     if (CHIP_GLYPH[key]) {
       el.innerHTML = CHIP_GLYPH[key] + '<span data-i18n="' + i18nKey + '"></span>';
       el.querySelector("[data-i18n]").textContent = t(i18nKey);
@@ -857,6 +866,19 @@ if (typeof window !== "undefined") (function () {
     el.onclick = () => { filters[key] = !filters[key]; el.classList.toggle("on"); refilter(); };
     fbar.appendChild(el);
   }
+  /* "clear categories": turn every category chip off -> blank map (constellations
+     stay). Parallels "clear facets"; the two together give a full blank slate. */
+  const catClear = document.createElement("span");
+  catClear.className = "chip reset";
+  catClear.dataset.i18n = "cat_clear"; catClear.textContent = t("cat_clear");
+  catClear.onclick = () => {
+    CAT_KEYS.forEach(k => { filters[k] = false; });
+    fbar.querySelectorAll("[data-fkey]").forEach(el => {
+      if (CAT_KEYS.indexOf(el.dataset.fkey) >= 0) el.classList.remove("on");
+    });
+    refilter();
+  };
+  fbar.appendChild(catClear);
   function refilter() {
     visible = new Set(filterSystems(SYS, filters, "").map(s => s.id));
     syncHash();
@@ -888,7 +910,8 @@ if (typeof window !== "undefined") (function () {
           ((s.images || []).some(i => i.file) ? " 🖼" : "") +
           (sysHasPlanet(s) ? " ● pl" : "");
       row.innerHTML = "<b>" + esc(s.name) + "</b><span class='meta'>" + meta + "</span>";
-      row.onclick = () => { listEl.hidden = true; searchEl.value = s.name; goTo(s); };
+      const prefer = surv ? { survey: surv } : pap ? { paper: pap } : null;   // open on the matched image
+      row.onclick = () => { listEl.hidden = true; searchEl.value = s.name; goTo(s, prefer); };
       listEl.appendChild(row);
     }
     /* anchor right under the search box (front layer over the facet chips) with
@@ -924,12 +947,12 @@ if (typeof window !== "undefined") (function () {
     if (e.target !== searchEl && !listEl.contains(e.target)) listEl.hidden = true;
   });
 
-  function goTo(s) {
+  function goTo(s, prefer) {
     if (s.ra_deg != null) {
       view.ra0 = s.ra_deg; view.dec0 = s.dec_deg;
       view.ppd = Math.max(view.ppd, 40);
     }
-    openDetail(s);
+    openDetail(s, prefer);   // prefer: {survey} | {paper} — open on the matching image
   }
 
   /* ---------- detail panel ---------- */
@@ -940,7 +963,7 @@ if (typeof window !== "undefined") (function () {
       (a.wavelength_um || 0) - (b.wavelength_um || 0));
   }
 
-  function openDetail(s) {
+  function openDetail(s, prefer) {
     currentSys = s; curImg = 0;
     document.getElementById("d_name").textContent = s.name;
     const bits = [];
@@ -1023,16 +1046,28 @@ if (typeof window !== "undefined") (function () {
        finds SPHERE/IRDIS…), facility VLT also counts VLTI records. */
     let first = 0;
     const ims = sortedImages(s);
-    if (filters.instruments && filters.instruments.size) {
+    /* a survey/author SEARCH hit, or an active survey facet, opens on the
+       matching image (highest priority); else instrument > facility facet. */
+    const prefSurvey = (prefer && prefer.survey) ||
+      (filters.surveys && [...filters.surveys].find(v => (s.images || []).some(im => im.survey === v)));
+    let idx = -1;
+    if (prefer && prefer.paper) {
+      const key = paperTokens(prefer.paper);
+      idx = ims.findIndex(im => im.paper && paperTokens(im.paper) === key);
+    } else if (prefSurvey) {
+      idx = ims.findIndex(im => im.survey === prefSurvey);
+    }
+    if (idx >= 0) first = idx;
+    else if (filters.instruments && filters.instruments.size) {
       const sel = [...filters.instruments];
-      const idx = ims.findIndex(im => im.instr_key &&
+      const j = ims.findIndex(im => im.instr_key &&
         sel.some(x => im.instr_key === x || (!x.includes("/") && im.instr_key.startsWith(x + "/"))));
-      if (idx >= 0) first = idx;
+      if (j >= 0) first = j;
     } else if (filters.facilities && filters.facilities.size) {
       const sel = [...filters.facilities];
-      const idx = ims.findIndex(im => sel.some(x => (im.fac_keys || []).indexOf(x) >= 0 ||
+      const j = ims.findIndex(im => sel.some(x => (im.fac_keys || []).indexOf(x) >= 0 ||
         (x === "VLT" && (im.fac_keys || []).indexOf("VLTI") >= 0)));
-      if (idx >= 0) first = idx;
+      if (j >= 0) first = j;
     }
     showImg(first);
     detail.style.transition = ""; detail.style.transform = "";   // clear any leftover dismiss drag
@@ -1355,6 +1390,16 @@ if (typeof window !== "undefined") (function () {
     (INSTR2FAC[i.instr_key] = INSTR2FAC[i.instr_key] || new Set()).add(k);
   }));
   const ALL_INSTR = [...instrSet].sort((a, b) => a.localeCompare(b));
+  /* curated major programs for the SURVEY facet — recognizable named surveys
+     with a single clean tag; the fragmented/internal tags (SPHERE-Ks-RDI,
+     STIS-Ren, the split Taurus-Long*) stay search-only. Only those actually
+     present in the data get a chip; alphabetical (case-insensitive). */
+  const MAJOR_SURVEYS = ["AGE-PRO", "ALICE", "ARKS", "DARTTS-S", "DESTINYS-Orion",
+    "DSHARP", "eDisk", "exoALMA", "Gemini-LIGHTS", "GPIES-debris", "MAPS",
+    "ODISEA", "REASONS", "SEEDS", "SONS", "SPHERE-debris-2025"];
+  const presentSurveys = new Set(SYS.flatMap(s => (s.images || []).map(i => i.survey).filter(Boolean)));
+  const ALL_SURVEYS = MAJOR_SURVEYS.filter(v => presentSurveys.has(v))
+    .sort((a, b) => a.toLowerCase().localeCompare(b.toLowerCase()));
   function chipGroup(parent, titleKey, entries, set, exclusive) {
     const wrap = document.createElement("div"); wrap.className = "fgroup";
     const lbl = document.createElement("span"); lbl.className = "flabel";
@@ -1412,13 +1457,16 @@ if (typeof window !== "undefined") (function () {
     chipGroup(facetsBar, "facet_missing", [["mm", "miss_mm", "mm"], ["nir", "miss_nir", "scat-light"], ["planet", "miss_planet", "imaged planet"]], filters.missing);
     chipGroup(facetsBar, "facet_facility", ALL_FAC.map(f => [f, null, f]), filters.facilities, true);
     chipGroup(facetsBar, "facet_instrument", ALL_INSTR.map(f => [f, null, f]), filters.instruments, true);
+    /* SURVEY: verbatim tags (scientific data, never translated), additive union */
+    if (ALL_SURVEYS.length) chipGroup(facetsBar, "facet_survey", ALL_SURVEYS.map(v => [v, null, v]), filters.surveys);
     const hint = document.createElement("span"); hint.className = "flabel fhint";
     hint.dataset.i18n = "facet_hint"; hint.textContent = t("facet_hint");
     facetsBar.appendChild(hint);
     const reset = document.createElement("span"); reset.className = "chip sm reset";
     reset.dataset.i18n = "facet_clear"; reset.textContent = t("facet_clear");
     reset.onclick = () => {
-      filters.bands.clear(); filters.missing.clear(); filters.facilities.clear(); filters.instruments.clear();
+      filters.bands.clear(); filters.content.clear(); filters.missing.clear();
+      filters.facilities.clear(); filters.instruments.clear(); filters.surveys.clear();
       facetsBar.querySelectorAll(".chip.on").forEach(c => c.classList.remove("on"));
       facetsBar.querySelectorAll(".chip.rel").forEach(c => c.classList.remove("rel")); refilter();
     };

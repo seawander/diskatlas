@@ -64,6 +64,9 @@ ok(L.filterSystems(systems, F, "sons").length === 1 && L.filterSystems(systems, 
 ok(L.filterSystems(systems, F, "reasons")[0].id === "b", "survey REASONS");
 ok(L.filterSystems(systems, F, "taurus")[0].id === "c", "survey token: taurus -> SPHERE-Taurus");
 ok(L.filterSystems(systems, F, "sphere-taurus")[0].id === "c", "survey full hyphenated match");
+/* SURVEY facet (exact tag, union) */
+ok(L.filterSystems(systems, Object.assign({ surveys: new Set(["SONS"]) }, F), "").length === 1, "survey facet: SONS -> a only");
+ok(L.filterSystems(systems, Object.assign({ surveys: new Set(["REASONS", "SPHERE-Taurus"]) }, F), "").length === 2, "survey facet: union");
 ok(L.sysColorKey(systems[2]) === "planetonly", "color key");
 
 process.exit(fails ? 1 : 0);
