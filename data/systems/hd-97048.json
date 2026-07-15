@@ -277,6 +277,94 @@
    },
    "epoch": "2021",
    "content": "continuum"
+  },
+  {
+   "image_id": "hd-97048_hco43-mom0",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 7",
+   "wavelength_um": 840,
+   "wavelength_label": "HCO+(4-3) integrated intensity",
+   "technique": "interferometry",
+   "content": "line",
+   "credit": "Booth et al. 2019, Fig. 2 (crop)",
+   "note": "HCO+ J=4-3 moment 0, Keplerian-masked; resolved disk; program 2013.1.00658.S",
+   "paper": {
+    "first_author": "Booth",
+    "year": 2019,
+    "title": "First detections of H13CO+ and HC15N in the disk around HD 97048. Evidence for a cold gas reservoir in the outer disk",
+    "journal": "A&A",
+    "arxiv": "1907.08060",
+    "bibcode": "2019A&A...629A..75B"
+   },
+   "file": "images/hd-97048/hd-97048_hco43-mom0.png",
+   "epoch": "2015-05-22"
+  },
+  {
+   "image_id": "hd-97048_hco43-mom1",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 7",
+   "wavelength_um": 840,
+   "wavelength_label": "HCO+(4-3) velocity field",
+   "technique": "interferometry",
+   "content": "line",
+   "credit": "Booth et al. 2019, Fig. 2 (crop)",
+   "note": "HCO+ J=4-3 moment 1; Keplerian red/blue rotation",
+   "paper": {
+    "first_author": "Booth",
+    "year": 2019,
+    "title": "First detections of H13CO+ and HC15N in the disk around HD 97048. Evidence for a cold gas reservoir in the outer disk",
+    "journal": "A&A",
+    "arxiv": "1907.08060",
+    "bibcode": "2019A&A...629A..75B"
+   },
+   "file": "images/hd-97048/hd-97048_hco43-mom1.png",
+   "epoch": "2015-05-22"
+  },
+  {
+   "image_id": "hd-97048_12co32-mom0",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 7",
+   "wavelength_um": 853,
+   "wavelength_label": "12CO(3-2) integrated intensity",
+   "technique": "interferometry",
+   "content": "line",
+   "credit": "van der Plas et al. 2017, Fig. 3 (crop)",
+   "note": "12CO J=3-2 moment 0 with continuum contours; program 2013.1.00658.S",
+   "paper": {
+    "first_author": "van der Plas",
+    "year": 2017,
+    "title": "Cavity and other radial substructures in the disk around HD 97048",
+    "journal": "A&A",
+    "arxiv": "1609.02488",
+    "bibcode": "2017A&A...597A..32V"
+   },
+   "file": "images/hd-97048/hd-97048_12co32-mom0.png",
+   "epoch": "2015-05-22"
+  },
+  {
+   "image_id": "hd-97048_12co32-mom1",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 7",
+   "wavelength_um": 853,
+   "wavelength_label": "12CO(3-2) velocity field",
+   "technique": "interferometry",
+   "content": "line",
+   "credit": "van der Plas et al. 2017, Fig. 3 (crop)",
+   "note": "12CO J=3-2 moment 1; rotating disk",
+   "paper": {
+    "first_author": "van der Plas",
+    "year": 2017,
+    "title": "Cavity and other radial substructures in the disk around HD 97048",
+    "journal": "A&A",
+    "arxiv": "1609.02488",
+    "bibcode": "2017A&A...597A..32V"
+   },
+   "file": "images/hd-97048/hd-97048_12co32-mom1.png",
+   "epoch": "2015-05-22"
   }
  ],
  "notes": null,

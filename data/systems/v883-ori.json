@@ -148,6 +148,50 @@
     "bibcode": "2024MNRAS.527.9668H"
    },
    "epoch": "2015-10-27"
+  },
+  {
+   "image_id": "v883-ori_c17o21-mom0",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 6",
+   "wavelength_um": 1335,
+   "wavelength_label": "C17O(2-1) integrated intensity",
+   "technique": "interferometry",
+   "content": "line",
+   "credit": "Lee et al. 2024, Fig. 6 (crop)",
+   "note": "C17O(2-1) moment 0 of V883 Ori Keplerian disk (ASSAY); program 2019.1.00377.S",
+   "paper": {
+    "first_author": "Lee",
+    "year": 2024,
+    "title": "ALMA Spectral Survey of an Eruptive Young Star, V883 Ori (ASSAY). I. What Triggered the Current Episode of Eruption?",
+    "journal": "ApJ",
+    "arxiv": "2403.03436",
+    "bibcode": "2024ApJ...966..119L"
+   },
+   "file": "images/v883-ori/v883-ori_c17o21-mom0.png",
+   "epoch": "2021-05"
+  },
+  {
+   "image_id": "v883-ori_c17o21-mom1",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 6",
+   "wavelength_um": 1335,
+   "wavelength_label": "C17O(2-1) velocity field",
+   "technique": "interferometry",
+   "content": "line",
+   "credit": "Lee et al. 2024, Fig. 6 (crop)",
+   "note": "C17O(2-1) moment 1; Keplerian rotation of V883 Ori disk",
+   "paper": {
+    "first_author": "Lee",
+    "year": 2024,
+    "title": "ALMA Spectral Survey of an Eruptive Young Star, V883 Ori (ASSAY). I. What Triggered the Current Episode of Eruption?",
+    "journal": "ApJ",
+    "arxiv": "2403.03436",
+    "bibcode": "2024ApJ...966..119L"
+   },
+   "file": "images/v883-ori/v883-ori_c17o21-mom1.png",
+   "epoch": "2021-05"
   }
  ],
  "notes": "FU Ori-type outburst disk; site of the first resolved water snow-line (Cieza et al. 2016). Distance adopted = Orion L1641 (~414 pc); Gaia DR3 parallax unreliable during outburst. Added 2026-07-11 (directed new-system addition).",

@@ -38,6 +38,94 @@
     "bibcode": "2019ApJS..245....2S"
    },
    "epoch": "2017"
+  },
+  {
+   "image_id": "oph-irs67_c17o32-mom0",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 7",
+   "wavelength_um": 889,
+   "wavelength_label": "C17O(3-2) integrated intensity",
+   "technique": "interferometry",
+   "content": "line",
+   "credit": "Artur de la Villarmois et al. 2018, Fig. 2 (crop)",
+   "note": "C17O(3-2) moment 0 of Oph-IRS67 circumbinary disk; program 2013.1.00955.S",
+   "paper": {
+    "first_author": "Artur de la Villarmois",
+    "year": 2018,
+    "title": "Chemistry of a newly detected circumbinary disk in Ophiuchus",
+    "journal": "A&A",
+    "arxiv": "1802.09286",
+    "bibcode": "2018A&A...614A..26A"
+   },
+   "file": "images/oph-irs67/oph-irs67_c17o32-mom0.png",
+   "epoch": "2015-05-21"
+  },
+  {
+   "image_id": "oph-irs67_c17o32-mom1",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 7",
+   "wavelength_um": 889,
+   "wavelength_label": "C17O(3-2) velocity field",
+   "technique": "interferometry",
+   "content": "line",
+   "credit": "Artur de la Villarmois et al. 2018, Fig. 2 (crop)",
+   "note": "C17O(3-2) moment 1; circumbinary-disk rotation",
+   "paper": {
+    "first_author": "Artur de la Villarmois",
+    "year": 2018,
+    "title": "Chemistry of a newly detected circumbinary disk in Ophiuchus",
+    "journal": "A&A",
+    "arxiv": "1802.09286",
+    "bibcode": "2018A&A...614A..26A"
+   },
+   "file": "images/oph-irs67/oph-irs67_c17o32-mom1.png",
+   "epoch": "2015-05-21"
+  },
+  {
+   "image_id": "oph-irs67_h13co43-mom0",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 7",
+   "wavelength_um": 864,
+   "wavelength_label": "H13CO+(4-3) integrated intensity",
+   "technique": "interferometry",
+   "content": "line",
+   "credit": "Artur de la Villarmois et al. 2018, Fig. 2 (crop)",
+   "note": "H13CO+(4-3) moment 0 of circumbinary disk",
+   "paper": {
+    "first_author": "Artur de la Villarmois",
+    "year": 2018,
+    "title": "Chemistry of a newly detected circumbinary disk in Ophiuchus",
+    "journal": "A&A",
+    "arxiv": "1802.09286",
+    "bibcode": "2018A&A...614A..26A"
+   },
+   "file": "images/oph-irs67/oph-irs67_h13co43-mom0.png",
+   "epoch": "2015-05-21"
+  },
+  {
+   "image_id": "oph-irs67_h13co43-mom1",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 7",
+   "wavelength_um": 864,
+   "wavelength_label": "H13CO+(4-3) velocity field",
+   "technique": "interferometry",
+   "content": "line",
+   "credit": "Artur de la Villarmois et al. 2018, Fig. 2 (crop)",
+   "note": "H13CO+(4-3) moment 1; rotation of resolved circumbinary disk",
+   "paper": {
+    "first_author": "Artur de la Villarmois",
+    "year": 2018,
+    "title": "Chemistry of a newly detected circumbinary disk in Ophiuchus",
+    "journal": "A&A",
+    "arxiv": "1802.09286",
+    "bibcode": "2018A&A...614A..26A"
+   },
+   "file": "images/oph-irs67/oph-irs67_h13co43-mom1.png",
+   "epoch": "2015-05-21"
   }
  ],
  "notes": "Embedded protostar imaged in 1.3 mm full-polarization continuum in the ALMA Ophiuchus polarization survey (Sadavoy et al. 2019).",

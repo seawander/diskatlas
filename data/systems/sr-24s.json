@@ -190,6 +190,50 @@
    },
    "epoch": "2008-04-13",
    "content": "continuum"
+  },
+  {
+   "image_id": "sr-24s_13co21-mom0",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 6",
+   "wavelength_um": 1300,
+   "wavelength_label": "13CO(2-1) integrated intensity",
+   "technique": "interferometry",
+   "content": "line",
+   "credit": "Pinilla et al. 2017, Fig. 6 (crop)",
+   "note": "13CO(2-1) moment 0 of SR 24S transition disk with continuum contour",
+   "paper": {
+    "first_author": "Pinilla",
+    "year": 2017,
+    "title": "A Multi-wavelength Analysis of Dust and Gas in the SR 24S Transition Disk",
+    "journal": "ApJ",
+    "arxiv": "1703.09227",
+    "bibcode": "2017ApJ...839...99P"
+   },
+   "file": "images/sr-24s/sr-24s_13co21-mom0.png",
+   "epoch": "2015-09-26"
+  },
+  {
+   "image_id": "sr-24s_c18o21-mom0",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 6",
+   "wavelength_um": 1300,
+   "wavelength_label": "C18O(2-1) integrated intensity",
+   "technique": "interferometry",
+   "content": "line",
+   "credit": "Pinilla et al. 2017, Fig. 6 (crop)",
+   "note": "C18O(2-1) moment 0 of SR 24S transition disk",
+   "paper": {
+    "first_author": "Pinilla",
+    "year": 2017,
+    "title": "A Multi-wavelength Analysis of Dust and Gas in the SR 24S Transition Disk",
+    "journal": "ApJ",
+    "arxiv": "1703.09227",
+    "bibcode": "2017ApJ...839...99P"
+   },
+   "file": "images/sr-24s/sr-24s_c18o21-mom0.png",
+   "epoch": "2015-09-26"
   }
  ],
  "notes": "AUTO-CREATED from staging - fill metadata & coords",

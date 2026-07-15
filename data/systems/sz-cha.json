@@ -141,6 +141,28 @@
    },
    "epoch": "2023",
    "content": "continuum"
+  },
+  {
+   "image_id": "sz-cha_12co32-mom1",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 7",
+   "wavelength_um": 870,
+   "wavelength_label": "12CO(3-2) velocity field",
+   "technique": "interferometry",
+   "content": "line",
+   "credit": "Wolfer et al. 2023, Fig. 3 (crop)",
+   "note": "Sz Cha 12CO(3-2) moment 1; resolved rotating transition disk; program 2013.1.01075.S",
+   "paper": {
+    "first_author": "Wolfer",
+    "year": 2023,
+    "title": "Kinematics and brightness temperatures of transition discs",
+    "journal": "A&A 670, A154",
+    "arxiv": "2208.09494",
+    "bibcode": "2023A&A...670A.154W"
+   },
+   "file": "images/sz-cha/sz-cha_12co32-mom1.png",
+   "epoch": "2015-05-21"
   }
  ],
  "notes": null,

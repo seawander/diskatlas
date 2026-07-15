@@ -78,6 +78,28 @@
    },
    "epoch": "2017-2023",
    "content": "continuum"
+  },
+  {
+   "image_id": "my-lup_12co21-mom0",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 6",
+   "wavelength_um": 1300,
+   "wavelength_label": "12CO(2-1) integrated intensity",
+   "technique": "interferometry",
+   "content": "line",
+   "credit": "Ansdell et al. 2018, Fig. B3 (crop)",
+   "note": "Keplerian-masked 12CO(2-1) moment 0; Lupus atlas; program 2015.1.00222.S",
+   "paper": {
+    "first_author": "Ansdell",
+    "year": 2018,
+    "title": "ALMA Survey of Lupus Protoplanetary Disks. II. Gas Disk Radii",
+    "journal": "ApJ",
+    "arxiv": "1803.05923",
+    "bibcode": "2018ApJ...859...21A"
+   },
+   "file": "images/my-lup/my-lup_12co21-mom0.png",
+   "epoch": "2016-07-24"
   }
  ],
  "notes": null,

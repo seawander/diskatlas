@@ -145,6 +145,50 @@
    },
    "epoch": "2015-2017",
    "content": "continuum"
+  },
+  {
+   "image_id": "hd-142666_12co21-mom0",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 6",
+   "wavelength_um": 1300,
+   "wavelength_label": "12CO(2-1) integrated intensity",
+   "technique": "interferometry",
+   "content": "line",
+   "credit": "Stapper et al. 2023, gallery (crop)",
+   "note": "12CO(2-1) moment 0 (DSHARP data)",
+   "paper": {
+    "first_author": "Stapper",
+    "year": 2023,
+    "title": "A dichotomy in group II Herbig disks. ALMA gas disk height measurements show both shadowed large vertically extended disks and compact flat disks",
+    "journal": "A&A",
+    "arxiv": "2211.12532",
+    "bibcode": "2023A&A...669A.158S"
+   },
+   "file": "images/hd-142666/hd-142666_12co21-mom0.png",
+   "epoch": "2017-09-25"
+  },
+  {
+   "image_id": "hd-142666_12co21-mom1",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 6",
+   "wavelength_um": 1300,
+   "wavelength_label": "12CO(2-1) velocity field",
+   "technique": "interferometry",
+   "content": "line",
+   "credit": "Stapper et al. 2023, gallery (crop)",
+   "note": "12CO(2-1) moment 1 velocity field",
+   "paper": {
+    "first_author": "Stapper",
+    "year": 2023,
+    "title": "A dichotomy in group II Herbig disks. ALMA gas disk height measurements show both shadowed large vertically extended disks and compact flat disks",
+    "journal": "A&A",
+    "arxiv": "2211.12532",
+    "bibcode": "2023A&A...669A.158S"
+   },
+   "file": "images/hd-142666/hd-142666_12co21-mom1.png",
+   "epoch": "2017-09-25"
   }
  ],
  "notes": null,

@@ -57,6 +57,50 @@
    },
    "epoch": "2026-06-17",
    "content": "continuum"
+  },
+  {
+   "image_id": "zz-tau-irs_12co32-mom0",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 7",
+   "wavelength_um": 885,
+   "wavelength_label": "12CO(3-2) integrated intensity",
+   "technique": "interferometry",
+   "content": "line",
+   "credit": "Hashimoto et al. 2021, Fig. 2a (crop)",
+   "note": "12CO(3-2) moment 0 of edge-on ZZ Tau IRS disk; program 2016.1.01511.S",
+   "paper": {
+    "first_author": "Hashimoto",
+    "year": 2021,
+    "title": "An Asymmetric Dust Ring around a Very Low Mass Star ZZ Tau IRS",
+    "journal": "AJ",
+    "arxiv": "2103.16731",
+    "bibcode": "2021AJ....161..264H"
+   },
+   "file": "images/zz-tau-irs/zz-tau-irs_12co32-mom0.png",
+   "epoch": "2017-07-06"
+  },
+  {
+   "image_id": "zz-tau-irs_12co32-mom1",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 7",
+   "wavelength_um": 885,
+   "wavelength_label": "12CO(3-2) velocity field",
+   "technique": "interferometry",
+   "content": "line",
+   "credit": "Hashimoto et al. 2021, Fig. 2c (crop)",
+   "note": "12CO(3-2) moment 1; Keplerian rotation (PV-confirmed)",
+   "paper": {
+    "first_author": "Hashimoto",
+    "year": 2021,
+    "title": "An Asymmetric Dust Ring around a Very Low Mass Star ZZ Tau IRS",
+    "journal": "AJ",
+    "arxiv": "2103.16731",
+    "bibcode": "2021AJ....161..264H"
+   },
+   "file": "images/zz-tau-irs/zz-tau-irs_12co32-mom1.png",
+   "epoch": "2017-07-06"
   }
  ],
  "notes": "Distance adopted as 130.7 pc following Hashimoto et al. 2024 (they reject the Gaia DR3 parallax distance of 105.7 pc due to a poor astrometric solution, RUWE=2.49). HST WFC3 image reveals a dark lane (disk midplane) and shadow-driven brightness asymmetries from a misaligned inner disk; outer disk extends to ~300 au.",

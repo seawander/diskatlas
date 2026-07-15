@@ -78,6 +78,28 @@
    },
    "epoch": "2017-2023",
    "content": "continuum"
+  },
+  {
+   "image_id": "hp-cha_12co21-mom1",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 6",
+   "wavelength_um": 1300,
+   "wavelength_label": "12CO(2-1) velocity field",
+   "technique": "interferometry",
+   "content": "line",
+   "credit": "Wolfer et al. 2023, Fig. 7 (crop)",
+   "note": "HP Cha 12CO(2-1) moment 1; resolved disk rotation, central cloud absorption; program 2016.1.00583.S",
+   "paper": {
+    "first_author": "Wolfer",
+    "year": 2023,
+    "title": "Kinematics and brightness temperatures of transition discs",
+    "journal": "A&A 670, A154",
+    "arxiv": "2208.09494",
+    "bibcode": "2023A&A...670A.154W"
+   },
+   "file": "images/hp-cha/hp-cha_12co21-mom1.png",
+   "epoch": "2017-05-08"
   }
  ],
  "notes": "AUTO-CREATED from staging - fill metadata & coords",

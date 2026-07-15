@@ -84,6 +84,50 @@
     "bibcode": "2020ApJ...902..141S"
    },
    "epoch": "2016-2017"
+  },
+  {
+   "image_id": "216-0939_13co21-mom0",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 6",
+   "wavelength_um": 1300,
+   "wavelength_label": "13CO(2-1) integrated intensity",
+   "technique": "interferometry",
+   "content": "line",
+   "credit": "Díaz-Berríos et al. 2024, Fig. 2 (crop)",
+   "note": "13CO(2-1) moment 0 of ONC disk 216-0939; program 2018.1.01190.S",
+   "paper": {
+    "first_author": "Díaz-Berríos",
+    "year": 2024,
+    "title": "Chemistry in Externally FUV-irradiated Disks in the Outskirts of the Orion Nebula",
+    "journal": "ApJ 969, 165",
+    "arxiv": "2405.00615",
+    "bibcode": "2024ApJ...969..165D"
+   },
+   "file": "images/216-0939/216-0939_13co21-mom0.png",
+   "epoch": "2018-08"
+  },
+  {
+   "image_id": "216-0939_c18o21-mom0",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 6",
+   "wavelength_um": 1300,
+   "wavelength_label": "C18O(2-1) integrated intensity",
+   "technique": "interferometry",
+   "content": "line",
+   "credit": "Díaz-Berríos et al. 2024, Fig. 2 (crop)",
+   "note": "C18O(2-1) moment 0; compact resolved disk",
+   "paper": {
+    "first_author": "Díaz-Berríos",
+    "year": 2024,
+    "title": "Chemistry in Externally FUV-irradiated Disks in the Outskirts of the Orion Nebula",
+    "journal": "ApJ 969, 165",
+    "arxiv": "2405.00615",
+    "bibcode": "2024ApJ...969..165D"
+   },
+   "file": "images/216-0939/216-0939_c18o21-mom0.png",
+   "epoch": "2018-08"
   }
  ],
  "notes": "One of the largest silhouette/edge-on disks in the Orion Nebula, ~10 arcmin N of the Trapezium (outside the Ricci 2008 ACS Treasury field). HST 3-color shows a bipolar reflection nebula bisected by the edge-on disk lane (Smith et al. 2005); ALMA Band 6 resolves an inclined dust ring with a central cavity (Díaz-Berríos et al. 2024). Distance = ONC (~414 pc). Added 2026-07-11.",

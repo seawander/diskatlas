@@ -103,6 +103,116 @@
    },
    "epoch": "2017-08-31",
    "content": "continuum"
+  },
+  {
+   "image_id": "rw-aur_12co21-mom0",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 6",
+   "wavelength_um": 1300,
+   "wavelength_label": "12CO(2-1) integrated intensity",
+   "technique": "interferometry",
+   "content": "line",
+   "credit": "Rodriguez et al. 2018, Fig. 2 (crop)",
+   "note": "12CO(2-1) moment 0; RW Aur A/B disks + tidal streams; program 2015.1.01506.S/2016.1.00877.S",
+   "paper": {
+    "first_author": "Rodriguez",
+    "year": 2018,
+    "title": "Multiple Stellar Flybys Sculpting the Circumstellar Architecture in RW Aurigae",
+    "journal": "ApJ",
+    "arxiv": "1804.09190",
+    "bibcode": "2018ApJ...859..150R"
+   },
+   "file": "images/rw-aur/rw-aur_12co21-mom0.png",
+   "epoch": "2016-09-29"
+  },
+  {
+   "image_id": "rw-aur_12co21-mom1",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 6",
+   "wavelength_um": 1300,
+   "wavelength_label": "12CO(2-1) velocity field",
+   "technique": "interferometry",
+   "content": "line",
+   "credit": "Rodriguez et al. 2018, Fig. 2 (crop)",
+   "note": "12CO(2-1) moment 1; RW Aur A systemic ~6 km/s",
+   "paper": {
+    "first_author": "Rodriguez",
+    "year": 2018,
+    "title": "Multiple Stellar Flybys Sculpting the Circumstellar Architecture in RW Aurigae",
+    "journal": "ApJ",
+    "arxiv": "1804.09190",
+    "bibcode": "2018ApJ...859..150R"
+   },
+   "file": "images/rw-aur/rw-aur_12co21-mom1.png",
+   "epoch": "2016-09-29"
+  },
+  {
+   "image_id": "rw-aur_12co32-mom0",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 7",
+   "wavelength_um": 867,
+   "wavelength_label": "12CO(3-2) integrated intensity",
+   "technique": "interferometry",
+   "content": "line",
+   "credit": "Rodriguez et al. 2018, Fig. 3 (crop)",
+   "note": "12CO(3-2) moment 0; Band 7 obs 2016 Jul 23",
+   "paper": {
+    "first_author": "Rodriguez",
+    "year": 2018,
+    "title": "Multiple Stellar Flybys Sculpting the Circumstellar Architecture in RW Aurigae",
+    "journal": "ApJ",
+    "arxiv": "1804.09190",
+    "bibcode": "2018ApJ...859..150R"
+   },
+   "file": "images/rw-aur/rw-aur_12co32-mom0.png",
+   "epoch": "2016-07-23"
+  },
+  {
+   "image_id": "rw-aur_12co32-mom1",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 7",
+   "wavelength_um": 867,
+   "wavelength_label": "12CO(3-2) velocity field",
+   "technique": "interferometry",
+   "content": "line",
+   "credit": "Rodriguez et al. 2018, Fig. 3 (crop)",
+   "note": "12CO(3-2) moment 1 with moment-0 contours",
+   "paper": {
+    "first_author": "Rodriguez",
+    "year": 2018,
+    "title": "Multiple Stellar Flybys Sculpting the Circumstellar Architecture in RW Aurigae",
+    "journal": "ApJ",
+    "arxiv": "1804.09190",
+    "bibcode": "2018ApJ...859..150R"
+   },
+   "file": "images/rw-aur/rw-aur_12co32-mom1.png",
+   "epoch": "2016-07-23"
+  },
+  {
+   "image_id": "rw-aur_13co21-mom0",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 6",
+   "wavelength_um": 1360,
+   "wavelength_label": "13CO(2-1) integrated intensity",
+   "technique": "interferometry",
+   "content": "line",
+   "credit": "Rodriguez et al. 2018, Fig. 4 (crop)",
+   "note": "13CO(2-1) moment 0 zoom on RW Aur A/B disks",
+   "paper": {
+    "first_author": "Rodriguez",
+    "year": 2018,
+    "title": "Multiple Stellar Flybys Sculpting the Circumstellar Architecture in RW Aurigae",
+    "journal": "ApJ",
+    "arxiv": "1804.09190",
+    "bibcode": "2018ApJ...859..150R"
+   },
+   "file": "images/rw-aur/rw-aur_13co21-mom0.png",
+   "epoch": "2016-09-29"
   }
  ],
  "notes": null,

@@ -86,6 +86,72 @@
     "bibcode": "2026arXiv260530023K"
    },
    "content": "continuum"
+  },
+  {
+   "image_id": "ex-lup_12co21-mom0",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 6",
+   "wavelength_um": 1300,
+   "wavelength_label": "12CO(2-1) integrated intensity",
+   "technique": "interferometry",
+   "content": "line",
+   "credit": "Hales et al. 2018, Fig. 2 (crop)",
+   "note": "12CO(2-1) moment 0 of EX Lup disk; obs 2016 Jul 25",
+   "paper": {
+    "first_author": "Hales",
+    "year": 2018,
+    "title": "The Circumstellar Disk and Asymmetric Outflow of the EX Lup Outburst System",
+    "journal": "ApJ",
+    "arxiv": "1804.10340",
+    "bibcode": "2018ApJ...859..111H"
+   },
+   "file": "images/ex-lup/ex-lup_12co21-mom0.png",
+   "epoch": "2016-07-25"
+  },
+  {
+   "image_id": "ex-lup_13co21-mom0",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 6",
+   "wavelength_um": 1300,
+   "wavelength_label": "13CO(2-1) integrated intensity",
+   "technique": "interferometry",
+   "content": "line",
+   "credit": "Hales et al. 2018, Fig. 2 (crop)",
+   "note": "13CO(2-1) moment 0; compact resolved Keplerian disk",
+   "paper": {
+    "first_author": "Hales",
+    "year": 2018,
+    "title": "The Circumstellar Disk and Asymmetric Outflow of the EX Lup Outburst System",
+    "journal": "ApJ",
+    "arxiv": "1804.10340",
+    "bibcode": "2018ApJ...859..111H"
+   },
+   "file": "images/ex-lup/ex-lup_13co21-mom0.png",
+   "epoch": "2016-07-25"
+  },
+  {
+   "image_id": "ex-lup_12co21-mom1",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 6",
+   "wavelength_um": 1300,
+   "wavelength_label": "12CO(2-1) velocity field",
+   "technique": "interferometry",
+   "content": "line",
+   "credit": "Hales et al. 2018, Fig. 3 (crop)",
+   "note": "12CO(2-1) moment 1 velocity field; disk rotation gradient",
+   "paper": {
+    "first_author": "Hales",
+    "year": 2018,
+    "title": "The Circumstellar Disk and Asymmetric Outflow of the EX Lup Outburst System",
+    "journal": "ApJ",
+    "arxiv": "1804.10340",
+    "bibcode": "2018ApJ...859..111H"
+   },
+   "file": "images/ex-lup/ex-lup_12co21-mom1.png",
+   "epoch": "2016-07-25"
   }
  ],
  "notes": "Prototype EXor object. SPHERE/IRDIS polarimetric detection of the close circumstellar environment presented in Zurlo et al. 2024 (Q_phi image; single, faint central light source), following the more detailed treatment in Rigliaco et al. 2020.",

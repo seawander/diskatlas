@@ -80,6 +80,50 @@
    },
    "epoch": "2015-2022",
    "content": "continuum"
+  },
+  {
+   "image_id": "v892-tau_12co21-mom0",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 6",
+   "wavelength_um": 1300,
+   "wavelength_label": "12CO(2-1) integrated intensity",
+   "technique": "interferometry",
+   "content": "line",
+   "credit": "Long et al. 2021, Fig. 3 (crop)",
+   "note": "12CO(2-1) moment 0 of V892 Tau circumbinary disk; program 2013.1.00498.S",
+   "paper": {
+    "first_author": "Long",
+    "year": 2021,
+    "title": "The Architecture of the V892 Tau System: the Binary and its Circumbinary Disk",
+    "journal": "ApJ 915, 131",
+    "arxiv": "2105.02918",
+    "bibcode": "2021ApJ...915..131L"
+   },
+   "file": "images/v892-tau/v892-tau_12co21-mom0.png",
+   "epoch": "2015-09-29"
+  },
+  {
+   "image_id": "v892-tau_12co21-mom1",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 6",
+   "wavelength_um": 1300,
+   "wavelength_label": "12CO(2-1) velocity field",
+   "technique": "interferometry",
+   "content": "line",
+   "credit": "Long et al. 2021, Fig. 3 (crop)",
+   "note": "12CO(2-1) moment 1; Keplerian rotation of circumbinary disk",
+   "paper": {
+    "first_author": "Long",
+    "year": 2021,
+    "title": "The Architecture of the V892 Tau System: the Binary and its Circumbinary Disk",
+    "journal": "ApJ 915, 131",
+    "arxiv": "2105.02918",
+    "bibcode": "2021ApJ...915..131L"
+   },
+   "file": "images/v892-tau/v892-tau_12co21-mom1.png",
+   "epoch": "2015-09-29"
   }
  ],
  "notes": "AUTO-CREATED from staging - fill metadata & coords Added 2026-07-08 (archival/keyword exploration).",

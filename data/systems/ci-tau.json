@@ -123,6 +123,50 @@
    },
    "epoch": "2017-2023",
    "content": "continuum"
+  },
+  {
+   "image_id": "ci-tau_13co32-mom0",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 7",
+   "wavelength_um": 890,
+   "wavelength_label": "13CO(3-2) integrated intensity",
+   "technique": "interferometry",
+   "content": "line",
+   "credit": "Rosotti et al. 2021, Fig. 3 (crop)",
+   "note": "13CO(3-2) moment 0 of CI Tau disk; 12CO foreground-absorbed",
+   "paper": {
+    "first_author": "Rosotti",
+    "year": 2021,
+    "title": "High-resolution observations of molecular emission lines toward the CI Tau proto-planetary disc: planet-carved gaps or shadowing?",
+    "journal": "MNRAS",
+    "arxiv": "2012.07848",
+    "bibcode": "2021MNRAS.501.3427R"
+   },
+   "file": "images/ci-tau/ci-tau_13co32-mom0.png",
+   "epoch": "2017-12-11"
+  },
+  {
+   "image_id": "ci-tau_13co32-mom1",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 7",
+   "wavelength_um": 890,
+   "wavelength_label": "13CO(3-2) velocity field",
+   "technique": "interferometry",
+   "content": "line",
+   "credit": "Rosotti et al. 2021, Fig. 3 (crop)",
+   "note": "13CO(3-2) v0 map; Keplerian rotation of CI Tau disk",
+   "paper": {
+    "first_author": "Rosotti",
+    "year": 2021,
+    "title": "High-resolution observations of molecular emission lines toward the CI Tau proto-planetary disc: planet-carved gaps or shadowing?",
+    "journal": "MNRAS",
+    "arxiv": "2012.07848",
+    "bibcode": "2021MNRAS.501.3427R"
+   },
+   "file": "images/ci-tau/ci-tau_13co32-mom1.png",
+   "epoch": "2017-12-11"
   }
  ],
  "notes": null,
