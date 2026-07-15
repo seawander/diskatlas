@@ -794,3 +794,37 @@ contour maps / PV diagrams exist (HH 212). These, plus a deferred **batch 2 of ~
 systems** that need per-target kinematics-paper searches, are the remaining line-map
 gap. Atlas after batch 1: **606 systems / 2793 image records / 737 papers**,
 0 validate errors, 0 health-check findings.
+
+## 2026-07-14 — SONS survey completion + moment-map batch 2
+
+**SONS (JCMT/SCUBA-2 850 um debris discs, Holland et al. 2017).** The atlas held
+only ~34 SONS targets. Fetched the arXiv e-print (1706.01218) figure set and cropped
+the 850 um S/N image panel from the survey appendix montages (Figs A1-A14) for every
+detected target not yet covered: **+21 records** — 16 new debris systems seeded with
+SIMBAD coordinates (HD 6798, HD 8907, tau Cet, 38 Ari, beta Per, HD 22179, HD 25457,
+GJ 322, sigma Boo, HD 141378, 44 Ser, 37 Her, 39 Her, HD 212695, 39 Peg, plus lambda
+Boo) + SONS records appended to 5 existing systems (HD 13161, HD 15745, HD 35841,
+TWA 7, HD 92945). Two integrity catches during VIEW-verification: the paper's Fig A4b
+caption reads "HD 19536" but the panel itself is labelled **HD 19356 (beta Per)** — the
+panel is ground truth, so the target/coords were set to HD 19356; and the auto-generated
+sid `hd-125162` collided with the pre-existing lambda Boo system (which lacked its HD
+number in any name field, so the matcher missed it) — the original was restored from git
+and the SONS record appended alongside its Herschel/PACS record, with "HD 125162" added
+to its alt_names to prevent a recurrence.
+
+**Moment-map batch 2 (the continuum-survey-only tail).** The 111 protoplanetary/embedded
+disks with ALMA continuum but no line record whose cited papers were pure continuum
+surveys (DSHARP, Long, Vioque TD, Kurtovic, Cieza) were worked by 6 parallel agents,
+each PDF-triaging the cited papers then running a bounded ADS search for a dedicated
+kinematics paper. Yield: **+40 VIEW-verified line records across 20 systems** from 12 new
+source papers (RW Aur multiple-flyby CO, Rodriguez 2018; Oph IRS 67 circumbinary C17O /
+H13CO+, Artur de la Villarmois 2018; EX Lup, Hales 2018; edge-on ZZ Tau IRS, Hashimoto
+2021; V883 Ori ASSAY C17O, Lee 2024; VLA 1623W FAUST C18O, Mercimek 2023; CI Tau 13CO,
+Rosotti 2021; SR 24S, Pinilla 2017; V892 Tau, Long 2021; HD 97048 HCO+/12CO, Booth 2019
+/ van der Plas 2017; HD 142666, Stapper 2023; ONC 216-0939, Diaz-Berrios 2024; HP Cha /
+Sz Cha, Woelfer 2023; and Lupus survey II resolved 12CO galleries, Ansdell 2018). The
+remaining ~91 batch-2 systems are `needs_paper`: their disks are unresolved or gas-faint
+in the survey data, the CO is a formal non-detection, or only outflow/envelope-scale or
+channel-map/PV products exist (no clean resolved-disk moment map). Combined with batch 1,
+the moment-map completeness pass added 125 line records across 71 systems. Atlas after:
+**621 systems / 2854 image records / 749 papers**, 0 validate errors, 0 health findings.

@@ -1,6 +1,6 @@
 {
  "_doc": "Per-survey ingestion state. entries/coords/images: done|partial|todo. Update on every ingest.",
- "updated": "2026-07-14: Moment-map completeness (batch 1). Of ~186 protoplanetary/embedded disks with published ALMA continuum but no spectral-line records, 6 parallel agents PDF-triaged the cited papers (fallback to dedicated eDisk/AGE-PRO/DESTINYS/kinematics papers where the primary was continuum-only), read the observing logs, and cropped published moment-0/1 maps -> +85 VIEW-verified line records across 51 systems (20 new source papers, ADS-verified). 24 systems needs_paper (continuum-only or CO non-detection). 2793 records / 737 papers. Batch 2 (111 systems needing per-target kinematics-paper searches) deferred.",
+ "updated": "2026-07-14: SONS survey completed + moment-map batch 2. (a) Added the Holland 2017 SONS JCMT/SCUBA-2 850 um S/N image for every detected target missing from the atlas (appendix montages A1-A14): 16 new debris systems + 5 records to existing = +21; caught paper caption typo HD 19536 -> HD 19356 (beta Per) via panel VIEW; restored lambda Boo after a sid collision. (b) Moment-map batch 2: 6 agents did per-target kinematics-paper searches for the continuum-survey-only tail -> +40 line records across 20 systems (12 new papers), ~91 systems needs_paper. Atlas: 621 systems / 2854 records / 749 papers, 0 errors/0 warnings.",
  "surveys": {
   "DSHARP": {
    "entries": "done",
