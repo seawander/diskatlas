@@ -763,3 +763,34 @@ documented in the module docstring: the facet keeps one grouped 'VLT' chip
 short (no AAS keyword for the mm array; paper spells it out). Full-dataset
 diff: exactly 3 records changed fac_keys; chips 37 -> 37; validate 0/0;
 build census audits green.
+
+## 2026-07-14 — Moment-map completeness harvest (batch 1)
+
+Protoplanetary/embedded-disk systems that carried ALMA *continuum* records but no
+*spectral-line* (moment-map) records were systematically back-filled. Rationale
+(maintainer): a resolved disk with published ALMA continuum almost always has
+published CO/isotopologue moment maps somewhere in the literature. ~186 candidate
+systems were split across 6 parallel agents; each PDF-triaged the already-cited
+papers first (fast path), and only when the cited paper was continuum-only or
+model-only did it run a single bounded ADS search for the dedicated kinematics
+paper, then cropped the published moment-0 (integrated intensity) and/or moment-1
+(velocity field) panels from the authors' source figures.
+
+Result: **+85 VIEW-verified `disk_mm`/`content:line` records across 51 systems**,
+from **20 new source papers** (ADS-verified titles + bibcodes) plus 14 already-held
+papers reused. Notable fallbacks: the eDisk *overview* (Ohashi 2023, 2306.15406)
+only shows moment maps for its demo source R CrA IRS7B, so the per-target eDisk
+papers were used instead — eDisk V (Sai, Ced110 IRS4), VI (Aso, IRAS 16253-2429),
+IX (Sharma, R CrA IRS5N), XI (Gavino, BHR71 IRS2), XVI (Santamaría-Miranda,
+GSS30 IRS3). AGE-PRO Lupus/Ophiuchus (Deng/Zhang 2025) and DESTINYS (Huang 2022)
+supplied several more. Three agent-reported author attributions were corrected
+against ADS at ingestion (Oph IRS 48 → Bruderer 2014 not van der Marel; R CrA
+IRS5N → Sharma not Sai; BHR71 IRS2 → Gavino not Kido).
+
+**24 systems flagged `needs_paper`** — the cited paper is continuum/scattered-light
+only and the bounded search found no clean resolved-disk moment map, or the CO is a
+formal non-detection (e.g. Elias 2-32 = Oph 4, CIDA 9), or only jet/outflow-scale
+contour maps / PV diagrams exist (HH 212). These, plus a deferred **batch 2 of ~111
+systems** that need per-target kinematics-paper searches, are the remaining line-map
+gap. Atlas after batch 1: **606 systems / 2793 image records / 737 papers**,
+0 validate errors, 0 health-check findings.
