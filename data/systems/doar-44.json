@@ -167,6 +167,50 @@
    },
    "epoch": "2008",
    "content": "continuum"
+  },
+  {
+   "image_id": "doar-44_13co32-mom0",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 7",
+   "wavelength_um": 870,
+   "wavelength_label": "13CO(3-2) integrated intensity",
+   "technique": "interferometry",
+   "credit": "van der Marel et al. 2016, Fig. 1 (crop)",
+   "note": "13CO(3-2) moment 0; resolved gas ring inside dust cavity; obs Jun-Jul 2014",
+   "paper": {
+    "first_author": "van der Marel",
+    "year": 2016,
+    "title": "Resolved gas cavities in transitional disks inferred from CO isotopologs with ALMA",
+    "journal": "A&A",
+    "arxiv": "1511.07149",
+    "bibcode": "2016A&A...585A..58V"
+   },
+   "file": "images/doar-44/doar-44_13co32-mom0.png",
+   "epoch": "2014-06",
+   "content": "line"
+  },
+  {
+   "image_id": "doar-44_13co32-mom1",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 7",
+   "wavelength_um": 870,
+   "wavelength_label": "13CO(3-2) velocity field",
+   "technique": "interferometry",
+   "credit": "van der Marel et al. 2016, Fig. 1 (crop)",
+   "note": "13CO(3-2) moment 1 velocity map showing disk rotation",
+   "paper": {
+    "first_author": "van der Marel",
+    "year": 2016,
+    "title": "Resolved gas cavities in transitional disks inferred from CO isotopologs with ALMA",
+    "journal": "A&A",
+    "arxiv": "1511.07149",
+    "bibcode": "2016A&A...585A..58V"
+   },
+   "file": "images/doar-44/doar-44_13co32-mom1.png",
+   "epoch": "2014-06",
+   "content": "line"
   }
  ],
  "notes": null,

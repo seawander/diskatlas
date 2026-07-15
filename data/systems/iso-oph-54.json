@@ -150,6 +150,50 @@
     "bibcode": "2019ApJS..245....2S"
    },
    "epoch": "2017"
+  },
+  {
+   "image_id": "iso-oph-54_cs65-mom0",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 7",
+   "wavelength_um": 577,
+   "wavelength_label": "CS(6-5) integrated intensity",
+   "technique": "interferometry",
+   "credit": "Jiang et al. 2026, Fig. 6 (crop)",
+   "note": "CS J=6-5 moment 0; CS traces Keplerian rotation of GY 91's disk; ACA+12m, program 2021.1.01588.S",
+   "paper": {
+    "first_author": "Jiang",
+    "year": 2026,
+    "title": "Physical and Chemical Characterization of GY 91's Multi-ringed Protostellar Disk with ALMA",
+    "journal": "arXiv",
+    "arxiv": "2601.18884",
+    "bibcode": "2026arXiv260118884J"
+   },
+   "file": "images/iso-oph-54/iso-oph-54_cs65-mom0.png",
+   "epoch": "2022-06-10",
+   "content": "line"
+  },
+  {
+   "image_id": "iso-oph-54_cs65-mom1",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 7",
+   "wavelength_um": 577,
+   "wavelength_label": "CS(6-5) velocity field",
+   "technique": "interferometry",
+   "credit": "Jiang et al. 2026, Fig. 7 (crop)",
+   "note": "CS J=6-5 moment 1; Keplerian rotation gradient N(blue)-S(red)",
+   "paper": {
+    "first_author": "Jiang",
+    "year": 2026,
+    "title": "Physical and Chemical Characterization of GY 91's Multi-ringed Protostellar Disk with ALMA",
+    "journal": "arXiv",
+    "arxiv": "2601.18884",
+    "bibcode": "2026arXiv260118884J"
+   },
+   "file": "images/iso-oph-54/iso-oph-54_cs65-mom1.png",
+   "epoch": "2022-06-10",
+   "content": "line"
   }
  ],
  "notes": "GY 91 = [GY92] 91 = ISO-Oph 54 (SIMBAD-verified). Merged the duplicate 'iso-oph-54' system (ODISEA record) into this one 2026-07-09; removed the incorrect 'ISO-Oph 63' alias (that designation is [GY92] 109, a different star).",

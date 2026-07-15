@@ -125,6 +125,50 @@
    },
    "epoch": "2022-08-31",
    "content": "continuum"
+  },
+  {
+   "image_id": "at-pyx_12co21-mom0",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 6",
+   "wavelength_um": 1301.0,
+   "wavelength_label": "12CO(2-1) integrated intensity",
+   "technique": "interferometry",
+   "credit": "McLachlan et al. 2026, Fig. 3 (crop)",
+   "note": "12CO(2-1) moment 0",
+   "paper": {
+    "first_author": "McLachlan",
+    "year": 2026,
+    "title": "Young system development in a cometary globule: An investigation into the eccentric disk around AT Pyx in terms of planet-formation and interaction with its surrounding environment",
+    "journal": "A&A (in press)",
+    "arxiv": "2602.19755",
+    "bibcode": "2026A&A...707A.379M"
+   },
+   "file": "images/at-pyx/at-pyx_12co21-mom0.png",
+   "epoch": "2022-08-31",
+   "content": "line"
+  },
+  {
+   "image_id": "at-pyx_12co21-mom1",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 6",
+   "wavelength_um": 1301.0,
+   "wavelength_label": "12CO(2-1) velocity field",
+   "technique": "interferometry",
+   "credit": "McLachlan et al. 2026, Fig. 3 (crop)",
+   "note": "12CO(2-1) moment 1; clear rotation",
+   "paper": {
+    "first_author": "McLachlan",
+    "year": 2026,
+    "title": "Young system development in a cometary globule: An investigation into the eccentric disk around AT Pyx in terms of planet-formation and interaction with its surrounding environment",
+    "journal": "A&A (in press)",
+    "arxiv": "2602.19755",
+    "bibcode": "2026A&A...707A.379M"
+   },
+   "file": "images/at-pyx/at-pyx_12co21-mom1.png",
+   "epoch": "2022-08-31",
+   "content": "line"
   }
  ],
  "notes": "AUTO-CREATED from staging - fill metadata & coords Added 2026-07-08 (keyword discovery round 2).",

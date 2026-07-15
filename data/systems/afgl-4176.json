@@ -37,6 +37,28 @@
    "file": "images/afgl-4176/afgl-4176_alma2020.png",
    "epoch": "2017",
    "content": "continuum"
+  },
+  {
+   "image_id": "afgl-4176_ch3cn1312-mom1",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 6",
+   "wavelength_um": 1210,
+   "wavelength_label": "CH3CN J=13-12 K=3 velocity field",
+   "technique": "interferometry",
+   "credit": "Johnston et al. 2020, Fig. 4 (crop)",
+   "note": "CH3CN(13-12) K=3 mom1 velocity field of near-Keplerian O-star disk mm1-main; obs 2017.1.00700.S (2017-10-03/11-04/11-25)",
+   "paper": {
+    "first_author": "Johnston",
+    "year": 2020,
+    "title": "Spiral arms and instability within the AFGL 4176 mm1 disc",
+    "journal": "A&A 634, L11",
+    "arxiv": "1911.09692",
+    "bibcode": "2020A&A...634L..11J"
+   },
+   "file": "images/afgl-4176/afgl-4176_ch3cn1312-mom1.png",
+   "epoch": "2017-10-03",
+   "content": "line"
   }
  ],
  "notes": "Massive young stellar object whose disc was resolved with ALMA Band 6 (Johnston+2020).",

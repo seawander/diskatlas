@@ -62,6 +62,98 @@
     "bibcode": "2019ApJS..245....2S"
    },
    "epoch": "2017"
+  },
+  {
+   "image_id": "gss30-irs3_12co21-mom0",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 6",
+   "wavelength_um": 1300,
+   "wavelength_label": "12CO(2-1) integrated intensity",
+   "technique": "interferometry",
+   "survey": "eDisk",
+   "credit": "Santamaría-Miranda et al. 2024, Fig. 3 (crop)",
+   "note": "eDisk XVI 12CO(2-1) mom0 (bipolar outflow + disk); obs Sep 2021 (2019.1.00261.L)",
+   "paper": {
+    "first_author": "Santamaría-Miranda",
+    "year": 2024,
+    "title": "Early Planet Formation in Embedded Disks (eDisk): XVI. Asymmetric dust disk driving a multicomponent molecular outflow in the young Class 0 protostar GSS30 IRS3",
+    "journal": "A&A",
+    "arxiv": "2407.20885",
+    "bibcode": "2024A&A...690A..46S"
+   },
+   "file": "images/gss30-irs3/gss30-irs3_12co21-mom0.png",
+   "epoch": "2021-09",
+   "content": "line"
+  },
+  {
+   "image_id": "gss30-irs3_13co21-mom0",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 6",
+   "wavelength_um": 1300,
+   "wavelength_label": "13CO(2-1) integrated intensity",
+   "technique": "interferometry",
+   "survey": "eDisk",
+   "credit": "Santamaría-Miranda et al. 2024, Fig. 3 (crop)",
+   "note": "eDisk XVI 13CO(2-1) mom0",
+   "paper": {
+    "first_author": "Santamaría-Miranda",
+    "year": 2024,
+    "title": "Early Planet Formation in Embedded Disks (eDisk): XVI. Asymmetric dust disk driving a multicomponent molecular outflow in the young Class 0 protostar GSS30 IRS3",
+    "journal": "A&A",
+    "arxiv": "2407.20885",
+    "bibcode": "2024A&A...690A..46S"
+   },
+   "file": "images/gss30-irs3/gss30-irs3_13co21-mom0.png",
+   "epoch": "2021-09",
+   "content": "line"
+  },
+  {
+   "image_id": "gss30-irs3_c18o21-mom0",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 6",
+   "wavelength_um": 1300,
+   "wavelength_label": "C18O(2-1) integrated intensity",
+   "technique": "interferometry",
+   "survey": "eDisk",
+   "credit": "Santamaría-Miranda et al. 2024, Fig. 3 (crop)",
+   "note": "eDisk XVI C18O(2-1) mom0 (resolved disk)",
+   "paper": {
+    "first_author": "Santamaría-Miranda",
+    "year": 2024,
+    "title": "Early Planet Formation in Embedded Disks (eDisk): XVI. Asymmetric dust disk driving a multicomponent molecular outflow in the young Class 0 protostar GSS30 IRS3",
+    "journal": "A&A",
+    "arxiv": "2407.20885",
+    "bibcode": "2024A&A...690A..46S"
+   },
+   "file": "images/gss30-irs3/gss30-irs3_c18o21-mom0.png",
+   "epoch": "2021-09",
+   "content": "line"
+  },
+  {
+   "image_id": "gss30-irs3_c18o21-mom1",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 6",
+   "wavelength_um": 1300,
+   "wavelength_label": "C18O(2-1) velocity field",
+   "technique": "interferometry",
+   "survey": "eDisk",
+   "credit": "Santamaría-Miranda et al. 2024, Fig. 3 (crop)",
+   "note": "C18O(2-1) mom1, Keplerian disk rotation",
+   "paper": {
+    "first_author": "Santamaría-Miranda",
+    "year": 2024,
+    "title": "Early Planet Formation in Embedded Disks (eDisk): XVI. Asymmetric dust disk driving a multicomponent molecular outflow in the young Class 0 protostar GSS30 IRS3",
+    "journal": "A&A",
+    "arxiv": "2407.20885",
+    "bibcode": "2024A&A...690A..46S"
+   },
+   "file": "images/gss30-irs3/gss30-irs3_c18o21-mom1.png",
+   "epoch": "2021-09",
+   "content": "line"
   }
  ],
  "notes": "Class 0 embedded protostar (eDisk)",

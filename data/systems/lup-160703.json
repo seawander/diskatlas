@@ -43,6 +43,28 @@
    },
    "epoch": "2023-06-06",
    "content": "continuum"
+  },
+  {
+   "image_id": "lup-160703_12co32-mom1",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 7",
+   "wavelength_um": 867,
+   "wavelength_label": "12CO(3-2) velocity field",
+   "technique": "interferometry",
+   "credit": "Martinien et al. 2026, Fig. 6 (crop)",
+   "note": "12CO(3-2) moment 1 of grazing-angle disk; red/blue rotation",
+   "paper": {
+    "first_author": "Martinien",
+    "year": 2026,
+    "title": "Observations of highly inclined disks with ALMA. Results from 12CO gas and continuum observations",
+    "journal": "A&A (2026)",
+    "arxiv": "2604.11247",
+    "bibcode": "2026A&A...710A.140M"
+   },
+   "file": "images/lup-160703/lup-160703_12co32-mom1.png",
+   "epoch": "2023-06-06",
+   "content": "line"
   }
  ],
  "notes": "Added 2026-07-06 (Martinien+2026 ALMA highly-inclined disk). Coords pending SIMBAD.",

@@ -62,6 +62,50 @@
     "bibcode": "2008MNRAS.384..907B"
    },
    "epoch": "1998-2002"
+  },
+  {
+   "image_id": "oph-irs-44_co21-mom0",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 6",
+   "wavelength_um": 1300.4,
+   "wavelength_label": "CO(2-1) integrated intensity",
+   "technique": "interferometry",
+   "credit": "Artur de la Villarmois et al. 2026, Fig. 4 (crop)",
+   "note": "CO 2-1 moment 0; compact disk + streamer gas around IRS 44 B",
+   "paper": {
+    "first_author": "Artur de la Villarmois",
+    "year": 2026,
+    "title": "Characterizing the physical and chemical properties of the Class I protostellar system Oph-IRS 44: Binarity, infalling streamers, and accretion shocks",
+    "journal": "A&A",
+    "arxiv": "2601.04108",
+    "bibcode": "2026A&A...706A.256A"
+   },
+   "file": "images/oph-irs-44/oph-irs-44_co21-mom0.png",
+   "epoch": "2023",
+   "content": "line"
+  },
+  {
+   "image_id": "oph-irs-44_co21-mom1",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 6",
+   "wavelength_um": 1300.4,
+   "wavelength_label": "CO(2-1) velocity field",
+   "technique": "interferometry",
+   "credit": "Artur de la Villarmois et al. 2026, Fig. 4 (crop)",
+   "note": "CO 2-1 moment 1; NW/SE velocity gradient (streamers + disk)",
+   "paper": {
+    "first_author": "Artur de la Villarmois",
+    "year": 2026,
+    "title": "Characterizing the physical and chemical properties of the Class I protostellar system Oph-IRS 44: Binarity, infalling streamers, and accretion shocks",
+    "journal": "A&A",
+    "arxiv": "2601.04108",
+    "bibcode": "2026A&A...706A.256A"
+   },
+   "file": "images/oph-irs-44/oph-irs-44_co21-mom1.png",
+   "epoch": "2023",
+   "content": "line"
   }
  ],
  "notes": "Class I protostellar system in Ophiuchus showing binarity, infalling streamers, and accretion shocks at the disk-envelope interface; the held image is the ALMA Band 6 1.3 mm continuum map (Artur de la Villarmois et al. 2026).",

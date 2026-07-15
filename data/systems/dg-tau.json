@@ -145,6 +145,50 @@
    },
    "epoch": "2007",
    "content": "continuum"
+  },
+  {
+   "image_id": "dg-tau_h2co-mom0",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 6",
+   "wavelength_um": 1329,
+   "wavelength_label": "H2CO 3(1,2)-2(1,1) integrated intensity",
+   "technique": "interferometry",
+   "credit": "Podio et al. 2019, Fig. 1 (crop)",
+   "note": "H2CO 225.7 GHz moment 0; resolved rotating gas ring at ~40-70 au",
+   "paper": {
+    "first_author": "Podio",
+    "year": 2019,
+    "title": "Organic molecules in the protoplanetary disk of DG Tauri revealed by ALMA",
+    "journal": "A&A",
+    "arxiv": "1902.02720",
+    "bibcode": "2019A&A...623L...6P"
+   },
+   "file": "images/dg-tau/dg-tau_h2co-mom0.png",
+   "epoch": "2017-08",
+   "content": "line"
+  },
+  {
+   "image_id": "dg-tau_h2co-mom1",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 6",
+   "wavelength_um": 1329,
+   "wavelength_label": "H2CO 3(1,2)-2(1,1) velocity field",
+   "technique": "interferometry",
+   "credit": "Podio et al. 2019, Fig. 1 (crop)",
+   "note": "H2CO moment 1; Keplerian rotation of the ring",
+   "paper": {
+    "first_author": "Podio",
+    "year": 2019,
+    "title": "Organic molecules in the protoplanetary disk of DG Tauri revealed by ALMA",
+    "journal": "A&A",
+    "arxiv": "1902.02720",
+    "bibcode": "2019A&A...623L...6P"
+   },
+   "file": "images/dg-tau/dg-tau_h2co-mom1.png",
+   "epoch": "2017-08",
+   "content": "line"
   }
  ],
  "notes": null,

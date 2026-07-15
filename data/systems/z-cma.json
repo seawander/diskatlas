@@ -112,6 +112,50 @@
    },
    "epoch": "2016-2017",
    "content": "continuum"
+  },
+  {
+   "image_id": "z-cma_12co21-mom0",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 6",
+   "wavelength_um": 1300,
+   "wavelength_label": "12CO(2-1) integrated intensity",
+   "technique": "interferometry",
+   "credit": "Dong et al. 2022, Fig. 2 (crop)",
+   "note": "12CO(2-1) moment 0 (~1125au scale); compact central source (binary continuum contours); program 2016.1.00110.S",
+   "paper": {
+    "first_author": "Dong",
+    "year": 2022,
+    "title": "A likely flyby of binary protostar Z CMa caught in action",
+    "journal": "Nature Astronomy 6, 331",
+    "arxiv": "2201.05617",
+    "bibcode": "2022NatAs...6..331D"
+   },
+   "file": "images/z-cma/z-cma_12co21-mom0.png",
+   "epoch": "2016-10-21",
+   "content": "line"
+  },
+  {
+   "image_id": "z-cma_so-mom0",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 6",
+   "wavelength_um": 1330,
+   "wavelength_label": "SO 6(5)-5(4) integrated intensity",
+   "technique": "interferometry",
+   "credit": "Dong et al. 2022, Fig. 2 (crop)",
+   "note": "SO 6(5)-5(4) moment 0; traces compact central disk + spiral/streamer structure",
+   "paper": {
+    "first_author": "Dong",
+    "year": 2022,
+    "title": "A likely flyby of binary protostar Z CMa caught in action",
+    "journal": "Nature Astronomy 6, 331",
+    "arxiv": "2201.05617",
+    "bibcode": "2022NatAs...6..331D"
+   },
+   "file": "images/z-cma/z-cma_so-mom0.png",
+   "epoch": "2016-10-21",
+   "content": "line"
   }
  ],
  "notes": "Triple system: FUor-like SE component + Herbig Be (EXor) N component, plus a third point source ~0.7 arcsec NE confirmed comoving via Keck/NIRC2 astrometry (Zurlo et al. 2024). A ~6000 au streamer/outflow to the SW, previously interpreted as a flyby signature (Dong et al. 2022), is argued by Zurlo et al. 2024 to be part of a larger outflow rather than a tidal streamer.",

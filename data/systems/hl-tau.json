@@ -252,6 +252,28 @@
     "bibcode": "2026arXiv260530023K"
    },
    "content": "continuum"
+  },
+  {
+   "image_id": "hl-tau_hco32-mom0",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 6",
+   "wavelength_um": 1119.0,
+   "wavelength_label": "HCO+(3-2) integrated intensity",
+   "technique": "interferometry",
+   "credit": "Yen et al. 2019, Fig. 1 (crop)",
+   "note": "HCO+ (3-2) moment 0; disk radius ~0.82 arcsec",
+   "paper": {
+    "first_author": "Yen",
+    "year": 2019,
+    "title": "HL Tau Disk in HCO+ (3-2) and (1-0) with ALMA: Gas Density, Temperature, Gap, and One-arm Spiral",
+    "journal": "ApJ",
+    "arxiv": "1906.05535",
+    "bibcode": "2019ApJ...880...69Y"
+   },
+   "file": "images/hl-tau/hl-tau_hco32-mom0.png",
+   "epoch": "2017-08-22",
+   "content": "line"
   }
  ],
  "notes": "The first iconic ALMA ring system (ALMA Partnership+2015).",

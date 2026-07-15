@@ -228,6 +228,28 @@
    },
    "epoch": "2003-12-15",
    "content": "continuum"
+  },
+  {
+   "image_id": "fu-ori_12co21-mom1",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 6",
+   "wavelength_um": 1300.4,
+   "wavelength_label": "12CO(2-1) velocity field",
+   "technique": "interferometry",
+   "credit": "Hales et al. 2024, Fig. 3 (crop)",
+   "note": "12CO 2-1 moment 1 with moment-0 contours; disk rotation + accretion streamer",
+   "paper": {
+    "first_author": "Hales",
+    "year": 2024,
+    "title": "Discovery of an Accretion Streamer and a Slow Wide-angle Outflow around FU Orionis",
+    "journal": "ApJ",
+    "arxiv": "2405.03033",
+    "bibcode": "2024ApJ...966...96H"
+   },
+   "file": "images/fu-ori/fu-ori_12co21-mom1.png",
+   "epoch": "2018",
+   "content": "line"
   }
  ],
  "notes": null,

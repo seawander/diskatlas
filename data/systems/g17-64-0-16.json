@@ -38,6 +38,50 @@
    "file": "images/g17-64-0-16/g17-64-0-16_alma2019.png",
    "epoch": "2017-10-04",
    "content": "continuum"
+  },
+  {
+   "image_id": "g17-64-0-16_h2o-mom0",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 6",
+   "wavelength_um": 1288.0,
+   "wavelength_label": "H2O (232.7 GHz) integrated intensity",
+   "technique": "interferometry",
+   "credit": "Maud et al. 2019, Fig. 2 (crop)",
+   "note": "H2O line moment 0 of the proto-O-star disc",
+   "paper": {
+    "first_author": "Maud",
+    "year": 2019,
+    "title": "Substructures in the Keplerian disc around the O-type (proto)star G17.64+0.16",
+    "journal": "A&A",
+    "arxiv": "1906.06548",
+    "bibcode": "2019A&A...627L...6M"
+   },
+   "file": "images/g17-64-0-16/g17-64-0-16_h2o-mom0.png",
+   "epoch": "2017-10-04",
+   "content": "line"
+  },
+  {
+   "image_id": "g17-64-0-16_h2o-mom1",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 6",
+   "wavelength_um": 1288.0,
+   "wavelength_label": "H2O (232.7 GHz) velocity field",
+   "technique": "interferometry",
+   "credit": "Maud et al. 2019, Fig. 2 (crop)",
+   "note": "H2O moment 1; Keplerian rotation of the O-star disc",
+   "paper": {
+    "first_author": "Maud",
+    "year": 2019,
+    "title": "Substructures in the Keplerian disc around the O-type (proto)star G17.64+0.16",
+    "journal": "A&A",
+    "arxiv": "1906.06548",
+    "bibcode": "2019A&A...627L...6M"
+   },
+   "file": "images/g17-64-0-16/g17-64-0-16_h2o-mom1.png",
+   "epoch": "2017-10-04",
+   "content": "line"
   }
  ],
  "notes": "Massive young stellar object whose disc was resolved with ALMA long-baseline Band 6 imaging (Maud+2019).",

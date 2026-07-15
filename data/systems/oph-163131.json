@@ -146,6 +146,50 @@
    "file": "images/oph-163131/oph-163131_keck2021.png",
    "epoch": "2019-04-25",
    "content": "continuum"
+  },
+  {
+   "image_id": "oph-163131_12co21-mom0",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 6",
+   "wavelength_um": 1301.0,
+   "wavelength_label": "12CO(2-1) integrated intensity",
+   "technique": "interferometry",
+   "credit": "Villenave et al. 2022, Fig. 3 (crop)",
+   "note": "12CO moment 0 of edge-on disk (continuum-subtracted)",
+   "paper": {
+    "first_author": "Villenave",
+    "year": 2022,
+    "title": "A highly settled disk around Oph 163131",
+    "journal": "ApJ 930, 11",
+    "arxiv": "2204.00640",
+    "bibcode": "2022ApJ...930...11V"
+   },
+   "file": "images/oph-163131/oph-163131_12co21-mom0.png",
+   "epoch": "2019-06-08",
+   "content": "line"
+  },
+  {
+   "image_id": "oph-163131_12co21-mom1",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 6",
+   "wavelength_um": 1301.0,
+   "wavelength_label": "12CO(2-1) velocity field",
+   "technique": "interferometry",
+   "credit": "Villenave et al. 2022, Fig. 3 (crop)",
+   "note": "12CO moment 1; clear rotation",
+   "paper": {
+    "first_author": "Villenave",
+    "year": 2022,
+    "title": "A highly settled disk around Oph 163131",
+    "journal": "ApJ 930, 11",
+    "arxiv": "2204.00640",
+    "bibcode": "2022ApJ...930...11V"
+   },
+   "file": "images/oph-163131/oph-163131_12co21-mom1.png",
+   "epoch": "2019-06-08",
+   "content": "line"
   }
  ],
  "notes": "AUTO-CREATED from staging - fill metadata & coords",

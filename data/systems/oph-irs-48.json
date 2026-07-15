@@ -369,6 +369,28 @@
     "bibcode": "2018PASJ...70...44H"
    },
    "epoch": "2015-04"
+  },
+  {
+   "image_id": "oph-irs-48_12co65-mom0",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 9",
+   "wavelength_um": 434,
+   "wavelength_label": "12CO(6-5) integrated intensity",
+   "technique": "interferometry",
+   "credit": "Bruderer et al. 2014, Fig. 1 (crop)",
+   "note": "12CO J=6-5 integrated intensity; asymmetric transition-disk gas ring",
+   "paper": {
+    "first_author": "Bruderer",
+    "year": 2014,
+    "title": "Gas structure inside dust cavities of transition disks: Ophiuchus IRS 48 observed by ALMA",
+    "journal": "A&A",
+    "arxiv": "1312.2756",
+    "bibcode": "2014A&A...562A..26B"
+   },
+   "file": "images/oph-irs-48/oph-irs-48_12co65-mom0.png",
+   "epoch": "2012-06-06",
+   "content": "line"
   }
  ],
  "notes": "Prototype azimuthal dust trap. SIMBAD name needs verification (Oph IRS 48 = WLY 2-48).",

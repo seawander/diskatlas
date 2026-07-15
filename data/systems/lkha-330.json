@@ -186,6 +186,72 @@
    },
    "epoch": "2019-2022",
    "content": "continuum"
+  },
+  {
+   "image_id": "lkha-330_12co21-mom0",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 6",
+   "wavelength_um": 1300,
+   "wavelength_label": "12CO(2-1) integrated intensity",
+   "technique": "interferometry",
+   "credit": "Pinilla et al. 2022, Fig. B1 (crop)",
+   "note": "12CO(2-1) moment 0; resolved central emission",
+   "paper": {
+    "first_author": "Pinilla",
+    "year": 2022,
+    "title": "Distributions of gas and small and large grains in the LkHα 330 disk trace a young planetary system",
+    "journal": "Astronomy & Astrophysics (A&A 665, A128)",
+    "arxiv": "2206.09975",
+    "bibcode": "2022A&A...665A.128P"
+   },
+   "file": "images/lkha-330/lkha-330_12co21-mom0.png",
+   "epoch": "2019-07-11",
+   "content": "line"
+  },
+  {
+   "image_id": "lkha-330_13co21-mom0",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 6",
+   "wavelength_um": 1300,
+   "wavelength_label": "13CO(2-1) integrated intensity",
+   "technique": "interferometry",
+   "credit": "Pinilla et al. 2022, Fig. B1 (crop)",
+   "note": "13CO(2-1) moment 0; resolved emission around cavity",
+   "paper": {
+    "first_author": "Pinilla",
+    "year": 2022,
+    "title": "Distributions of gas and small and large grains in the LkHα 330 disk trace a young planetary system",
+    "journal": "Astronomy & Astrophysics (A&A 665, A128)",
+    "arxiv": "2206.09975",
+    "bibcode": "2022A&A...665A.128P"
+   },
+   "file": "images/lkha-330/lkha-330_13co21-mom0.png",
+   "epoch": "2019-07-11",
+   "content": "line"
+  },
+  {
+   "image_id": "lkha-330_c18o21-mom0",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 6",
+   "wavelength_um": 1300,
+   "wavelength_label": "C18O(2-1) integrated intensity",
+   "technique": "interferometry",
+   "credit": "Pinilla et al. 2022, Fig. B1 (crop)",
+   "note": "C18O(2-1) moment 0; resolved gas over the transition-disk cavity",
+   "paper": {
+    "first_author": "Pinilla",
+    "year": 2022,
+    "title": "Distributions of gas and small and large grains in the LkHα 330 disk trace a young planetary system",
+    "journal": "Astronomy & Astrophysics (A&A 665, A128)",
+    "arxiv": "2206.09975",
+    "bibcode": "2022A&A...665A.128P"
+   },
+   "file": "images/lkha-330/lkha-330_c18o21-mom0.png",
+   "epoch": "2019-07-11",
+   "content": "line"
   }
  ],
  "notes": null,

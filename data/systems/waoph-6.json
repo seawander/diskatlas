@@ -124,6 +124,28 @@
     "bibcode": "2021A&A...654A..35B"
    },
    "epoch": "2017"
+  },
+  {
+   "image_id": "waoph-6_12co21-mom0",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 6",
+   "wavelength_um": 1300,
+   "wavelength_label": "12CO(2-1) integrated intensity",
+   "technique": "interferometry",
+   "credit": "Law et al. 2022, Fig. 1 (crop)",
+   "note": "CO J=2-1 moment 0 from DSHARP cubes (2016.1.00484.L); WaOph 6 spiral disk",
+   "paper": {
+    "first_author": "Law",
+    "year": 2022,
+    "title": "CO Line Emission Surfaces and Vertical Structure in Midinclination Protoplanetary Disks",
+    "journal": "ApJ",
+    "arxiv": "2205.01776",
+    "bibcode": "2022ApJ...932..114L"
+   },
+   "file": "images/waoph-6/waoph-6_12co21-mom0.png",
+   "epoch": "2017-05-13",
+   "content": "line"
   }
  ],
  "notes": null,

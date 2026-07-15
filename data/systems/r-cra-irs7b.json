@@ -39,6 +39,29 @@
    },
    "epoch": "2021-05-03",
    "content": "continuum"
+  },
+  {
+   "image_id": "r-cra-irs7b_c18o21-mom0",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 6",
+   "wavelength_um": 1365.0,
+   "wavelength_label": "C18O(2-1) moment 0 (contours) + moment 1 (color)",
+   "technique": "interferometry",
+   "survey": "eDisk",
+   "credit": "Ohashi et al. 2023, Fig. 8 (crop)",
+   "note": "eDisk C18O 2-1 mom0+mom1 of IRS7B; two-sided rotation",
+   "paper": {
+    "first_author": "Ohashi",
+    "year": 2023,
+    "title": "Early Planet Formation in Embedded Disks (eDisk). I. Overview and First Results",
+    "journal": "ApJ 951, 8",
+    "arxiv": "2306.15406",
+    "bibcode": "2023ApJ...951....8O"
+   },
+   "file": "images/r-cra-irs7b/r-cra-irs7b_c18o21-mom0.png",
+   "epoch": "2021-05-03",
+   "content": "line"
   }
  ],
  "notes": "Class I embedded protostar (eDisk)",

@@ -39,6 +39,52 @@
    },
    "epoch": "2021-05-04",
    "content": "continuum"
+  },
+  {
+   "image_id": "bhr71-irs2_c18o21-mom0",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 6",
+   "wavelength_um": 1300,
+   "wavelength_label": "C18O(2-1) integrated intensity",
+   "technique": "interferometry",
+   "survey": "eDisk",
+   "credit": "Gavino et al. 2024, Fig. 11 (crop)",
+   "note": "eDisk XI BHR71 IRS2 C18O(2-1) mom0, resolved compact source + envelope; obs 2019.1.00261.L (2021-05 + 2021-10)",
+   "paper": {
+    "first_author": "Gavino",
+    "year": 2024,
+    "title": "Early Planet Formation in Embedded Disks. XI. A High-resolution View Toward the BHR 71 Class 0 Protostellar Wide Binary",
+    "journal": "ApJ",
+    "arxiv": "2407.17249",
+    "bibcode": "2024ApJ...974...21G"
+   },
+   "file": "images/bhr71-irs2/bhr71-irs2_c18o21-mom0.png",
+   "epoch": "2021-05-04",
+   "content": "line"
+  },
+  {
+   "image_id": "bhr71-irs2_c18o21-mom1",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 6",
+   "wavelength_um": 1300,
+   "wavelength_label": "C18O(2-1) velocity field",
+   "technique": "interferometry",
+   "survey": "eDisk",
+   "credit": "Gavino et al. 2024, Fig. 11 (crop)",
+   "note": "eDisk XI BHR71 IRS2 C18O(2-1) mom1, rotating/infalling inner-envelope signature",
+   "paper": {
+    "first_author": "Gavino",
+    "year": 2024,
+    "title": "Early Planet Formation in Embedded Disks. XI. A High-resolution View Toward the BHR 71 Class 0 Protostellar Wide Binary",
+    "journal": "ApJ",
+    "arxiv": "2407.17249",
+    "bibcode": "2024ApJ...974...21G"
+   },
+   "file": "images/bhr71-irs2/bhr71-irs2_c18o21-mom1.png",
+   "epoch": "2021-05-04",
+   "content": "line"
   }
  ],
  "notes": "Class 0 embedded protostar (eDisk)",

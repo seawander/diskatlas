@@ -59,6 +59,75 @@
    },
    "epoch": "2017-2023",
    "content": "continuum"
+  },
+  {
+   "image_id": "v1094-sco_12co21-mom0",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 6",
+   "wavelength_um": 1300,
+   "wavelength_label": "12CO(2-1) integrated intensity",
+   "technique": "interferometry",
+   "survey": "AGE-PRO",
+   "credit": "Deng et al. 2025, Fig. 13 (crop)",
+   "note": "AGE-PRO 12CO(2-1) moment 0 of V1094 Sco (Lupus 10), largest AGE-PRO Lupus gas disk",
+   "paper": {
+    "first_author": "Deng",
+    "year": 2025,
+    "title": "The ALMA Survey of Gas Evolution of PROtoplanetary Disks (AGE-PRO): III. Dust and Gas Disk Properties in the Lupus Star-forming Region",
+    "journal": "ApJ 989, 3",
+    "arxiv": "2506.10734",
+    "bibcode": "2025ApJ...989....3D"
+   },
+   "file": "images/v1094-sco/v1094-sco_12co21-mom0.png",
+   "epoch": "2021-12-01",
+   "content": "line"
+  },
+  {
+   "image_id": "v1094-sco_13co21-mom0",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 6",
+   "wavelength_um": 1300,
+   "wavelength_label": "13CO(2-1) integrated intensity",
+   "technique": "interferometry",
+   "survey": "AGE-PRO",
+   "credit": "Deng et al. 2025, Fig. 13 (crop)",
+   "note": "13CO(2-1) moment 0 of Lupus 10; well-resolved extended gas disk",
+   "paper": {
+    "first_author": "Deng",
+    "year": 2025,
+    "title": "The ALMA Survey of Gas Evolution of PROtoplanetary Disks (AGE-PRO): III. Dust and Gas Disk Properties in the Lupus Star-forming Region",
+    "journal": "ApJ 989, 3",
+    "arxiv": "2506.10734",
+    "bibcode": "2025ApJ...989....3D"
+   },
+   "file": "images/v1094-sco/v1094-sco_13co21-mom0.png",
+   "epoch": "2021-12-01",
+   "content": "line"
+  },
+  {
+   "image_id": "v1094-sco_12co21-mom1",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 6",
+   "wavelength_um": 1300,
+   "wavelength_label": "12CO(2-1) velocity field",
+   "technique": "interferometry",
+   "survey": "AGE-PRO",
+   "credit": "Deng et al. 2025, Fig. 14 (crop)",
+   "note": "12CO(2-1) moment 1 of Lupus 10; rotation gradient E(red)-W(blue)",
+   "paper": {
+    "first_author": "Deng",
+    "year": 2025,
+    "title": "The ALMA Survey of Gas Evolution of PROtoplanetary Disks (AGE-PRO): III. Dust and Gas Disk Properties in the Lupus Star-forming Region",
+    "journal": "ApJ 989, 3",
+    "arxiv": "2506.10734",
+    "bibcode": "2025ApJ...989....3D"
+   },
+   "file": "images/v1094-sco/v1094-sco_12co21-mom1.png",
+   "epoch": "2021-12-01",
+   "content": "line"
   }
  ],
  "notes": "AUTO-CREATED from staging - fill metadata & coords Added 2026-07-08 (AGE-PRO ALMA, Vioque+2025 resolved).",

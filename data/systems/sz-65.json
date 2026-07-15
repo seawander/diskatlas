@@ -67,6 +67,29 @@
    },
    "epoch": "2017-2023",
    "content": "continuum"
+  },
+  {
+   "image_id": "sz-65_12co21-mom0",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 6",
+   "wavelength_um": 1300,
+   "wavelength_label": "12CO(2-1) integrated intensity",
+   "technique": "interferometry",
+   "survey": "AGE-PRO",
+   "credit": "Zhang et al. 2025, Fig. 3 (crop)",
+   "note": "AGE-PRO 12CO(2-1) mom0 gallery, Lupus 1 = Sz 65; 12CO archival 2017.1.00569.S (Aug 2018)",
+   "paper": {
+    "first_author": "Zhang",
+    "year": 2025,
+    "title": "The ALMA Survey of Gas Evolution of PROtoplanetary Disks (AGE-PRO): I. Program Overview and Summary of First Results",
+    "journal": "ApJ (2025)",
+    "arxiv": "2506.10719",
+    "bibcode": "2025ApJ...989....1Z"
+   },
+   "file": "images/sz-65/sz-65_12co21-mom0.png",
+   "epoch": "2018-08",
+   "content": "line"
   }
  ],
  "notes": "AGE-PRO Lupus 1. Smooth compact disk at AGE-PRO resolution; slightly structured at higher resolution (Miley et al. 2024). Wide binary with Sz 66 (Vioque et al. 2025).",

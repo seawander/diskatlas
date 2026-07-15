@@ -526,6 +526,28 @@
    },
    "epoch": "2015-12-01",
    "content": "continuum"
+  },
+  {
+   "image_id": "tw-hya_12co32-mom0",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 7",
+   "wavelength_um": 867,
+   "wavelength_label": "12CO(3-2) integrated intensity",
+   "technique": "interferometry",
+   "credit": "Huang et al. 2018, Fig. 4 (crop)",
+   "note": "12CO J=3-2 integrated intensity at 8 au resolution; full resolved TW Hya gas disk",
+   "paper": {
+    "first_author": "Huang",
+    "year": 2018,
+    "title": "CO and Dust Properties in the TW Hya Disk from High-resolution ALMA Observations",
+    "journal": "ApJ",
+    "arxiv": "1801.03948",
+    "bibcode": "2018ApJ...852..122H"
+   },
+   "file": "images/tw-hya/tw-hya_12co32-mom0.png",
+   "epoch": "2015-11-23",
+   "content": "line"
   }
  ],
  "notes": null,

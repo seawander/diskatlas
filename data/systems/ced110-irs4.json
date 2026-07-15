@@ -42,6 +42,29 @@
    },
    "epoch": "2021-04-24",
    "content": "continuum"
+  },
+  {
+   "image_id": "ced110-irs4_c18o21-mom01",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 6",
+   "wavelength_um": 1330,
+   "wavelength_label": "C18O(2-1) integrated intensity + velocity field",
+   "technique": "interferometry",
+   "survey": "eDisk",
+   "credit": "Sai et al. 2023, eDisk V (crop)",
+   "note": "eDisk V. C18O(2-1) moment 0 (color) + moment 1; velocity gradient (rotation) of Ced110 IRS4A; program 2019.1.00261.L",
+   "paper": {
+    "first_author": "Sai",
+    "year": 2023,
+    "title": "Early Planet Formation in Embedded Disks (eDisk). V. Possible Annular Substructure in a Circumstellar Disk in the Ced110 IRS4 System",
+    "journal": "ApJ",
+    "arxiv": "2307.08952",
+    "bibcode": "2023ApJ...954...67S"
+   },
+   "file": "images/ced110-irs4/ced110-irs4_c18o21-mom01.png",
+   "epoch": "2021-04-24",
+   "content": "line"
   }
  ],
  "notes": "Class 0 embedded protostar (eDisk)",

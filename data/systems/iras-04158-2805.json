@@ -102,6 +102,50 @@
    },
    "epoch": "2023-10-12",
    "content": "continuum"
+  },
+  {
+   "image_id": "iras-04158-2805_12co32-mom0",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 7",
+   "wavelength_um": 867,
+   "wavelength_label": "12CO(3-2) integrated intensity",
+   "technique": "interferometry",
+   "credit": "Ragusa et al. 2021, Fig. 5 (crop)",
+   "note": "12CO J=3-2 moment 0 of the eccentric circumbinary+circumstellar disc",
+   "paper": {
+    "first_author": "Ragusa",
+    "year": 2021,
+    "title": "Circumbinary and circumstellar discs around the eccentric binary IRAS 04158+2805 - a testbed for binary-disc interaction",
+    "journal": "MNRAS",
+    "arxiv": "2107.13566",
+    "bibcode": "2021MNRAS.507.1157R"
+   },
+   "file": "images/iras-04158-2805/iras-04158-2805_12co32-mom0.png",
+   "epoch": "2016-11-24",
+   "content": "line"
+  },
+  {
+   "image_id": "iras-04158-2805_12co32-mom1",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 7",
+   "wavelength_um": 867,
+   "wavelength_label": "12CO(3-2) velocity field",
+   "technique": "interferometry",
+   "credit": "Ragusa et al. 2021, Fig. 5 (crop)",
+   "note": "12CO J=3-2 moment 1; counter-clockwise circumbinary rotation",
+   "paper": {
+    "first_author": "Ragusa",
+    "year": 2021,
+    "title": "Circumbinary and circumstellar discs around the eccentric binary IRAS 04158+2805 - a testbed for binary-disc interaction",
+    "journal": "MNRAS",
+    "arxiv": "2107.13566",
+    "bibcode": "2021MNRAS.507.1157R"
+   },
+   "file": "images/iras-04158-2805/iras-04158-2805_12co32-mom1.png",
+   "epoch": "2016-11-24",
+   "content": "line"
   }
  ],
  "notes": "AUTO-CREATED from staging - fill metadata & coords",

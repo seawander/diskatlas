@@ -113,6 +113,50 @@
    "file": "images/gq-lup/gq-lup_alma2017.png",
    "epoch": "2015",
    "content": "continuum"
+  },
+  {
+   "image_id": "gq-lup_12co32-mom01",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 7",
+   "wavelength_um": 870,
+   "wavelength_label": "12CO(3-2) integrated intensity + velocity field",
+   "technique": "interferometry",
+   "credit": "MacGregor et al. 2017, Fig. 2 (crop)",
+   "note": "12CO(3-2) moment 0 contours + moment 1 color (rotation); obs 14-15 Jun 2015",
+   "paper": {
+    "first_author": "MacGregor",
+    "year": 2017,
+    "title": "ALMA Measurements of Circumstellar Material in the GQ Lup System",
+    "journal": "ApJ 835, 17",
+    "arxiv": "1611.06229",
+    "bibcode": "2017ApJ...835...17M"
+   },
+   "file": "images/gq-lup/gq-lup_12co32-mom01.png",
+   "epoch": "2015-06-14",
+   "content": "line"
+  },
+  {
+   "image_id": "gq-lup_13co32-mom01",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 7",
+   "wavelength_um": 870,
+   "wavelength_label": "13CO(3-2) integrated intensity + velocity field",
+   "technique": "interferometry",
+   "credit": "MacGregor et al. 2017, Fig. 2 (crop)",
+   "note": "13CO(3-2) moment 0 contours + moment 1 color",
+   "paper": {
+    "first_author": "MacGregor",
+    "year": 2017,
+    "title": "ALMA Measurements of Circumstellar Material in the GQ Lup System",
+    "journal": "ApJ 835, 17",
+    "arxiv": "1611.06229",
+    "bibcode": "2017ApJ...835...17M"
+   },
+   "file": "images/gq-lup/gq-lup_13co32-mom01.png",
+   "epoch": "2015-06-14",
+   "content": "line"
   }
  ],
  "notes": null,

@@ -78,6 +78,28 @@
    },
    "epoch": "2016-2017",
    "content": "continuum"
+  },
+  {
+   "image_id": "cx-tau_12co21-mom1",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 6",
+   "wavelength_um": 1300,
+   "wavelength_label": "12CO(2-1) velocity field",
+   "technique": "interferometry",
+   "credit": "Facchini et al. 2019, Fig. 3 (crop)",
+   "note": "12CO(2-1) moment 1 velocity field, Keplerian rotation; obs 2016.1.00715.S (2016-11-05 compact + 2017-09-25 extended)",
+   "paper": {
+    "first_author": "Facchini",
+    "year": 2019,
+    "title": "High gas/dust size ratio indicating efficient radial drift in the mm-faint CX Tau disk",
+    "journal": "A&A 626, L2",
+    "arxiv": "1905.09204",
+    "bibcode": "2019A&A...626L...2F"
+   },
+   "file": "images/cx-tau/cx-tau_12co21-mom1.png",
+   "epoch": "2016-11-05",
+   "content": "line"
   }
  ],
  "notes": null,

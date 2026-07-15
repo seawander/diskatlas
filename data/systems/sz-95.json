@@ -48,6 +48,29 @@
    },
    "epoch": "2021-2022",
    "content": "continuum"
+  },
+  {
+   "image_id": "sz-95_12co21-mom0",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 6",
+   "wavelength_um": 1301.0,
+   "wavelength_label": "12CO(2-1) integrated intensity",
+   "technique": "interferometry",
+   "survey": "AGE-PRO",
+   "credit": "Deng et al. 2025, Fig. 12 (crop)",
+   "note": "AGE-PRO 12CO(2-1) moment 0 (Lupus 9 = Sz 95); compact resolved detection",
+   "paper": {
+    "first_author": "Deng",
+    "year": 2025,
+    "title": "The ALMA Survey of Gas Evolution of PROtoplanetary Disks (AGE-PRO): III. Dust and Gas Disk Properties in the Lupus Star-forming Region",
+    "journal": "ApJ 989, 3",
+    "arxiv": "2506.10734",
+    "bibcode": "2025ApJ...989....3D"
+   },
+   "file": "images/sz-95/sz-95_12co21-mom0.png",
+   "epoch": "2022-03-25",
+   "content": "line"
   }
  ],
  "notes": "AGE-PRO Lupus target (Lupus 9 in Deng et al. 2025). Compact protoplanetary disk; the 1.3 mm continuum is only marginally resolved (~0.35\" / ~54 au beam).",

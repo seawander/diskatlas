@@ -78,6 +78,28 @@
    "file": "images/hv-tau-c/hv-tau-c_naco2010.png",
    "epoch": "2002",
    "content": "continuum"
+  },
+  {
+   "image_id": "hv-tau-c_12co32-mom1",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 7",
+   "wavelength_um": 867,
+   "wavelength_label": "12CO(3-2) velocity field",
+   "technique": "interferometry",
+   "credit": "Martinien et al. 2026, Fig. 6 (crop)",
+   "note": "12CO(3-2) moment 1 of edge-on HV Tau C; red/blue rotation",
+   "paper": {
+    "first_author": "Martinien",
+    "year": 2026,
+    "title": "Observations of highly inclined disks with ALMA. Results from 12CO gas and continuum observations",
+    "journal": "A&A (2026)",
+    "arxiv": "2604.11247",
+    "bibcode": "2026A&A...710A.140M"
+   },
+   "file": "images/hv-tau-c/hv-tau-c_12co32-mom1.png",
+   "epoch": "2016-11-24",
+   "content": "line"
   }
  ],
  "notes": "AUTO-CREATED from staging - fill metadata & coords",

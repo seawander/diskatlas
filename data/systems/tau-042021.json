@@ -122,6 +122,28 @@
    },
    "epoch": "2023-01-23",
    "content": "continuum"
+  },
+  {
+   "image_id": "tau-042021_12co32-mom1",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 7",
+   "wavelength_um": 867,
+   "wavelength_label": "12CO(3-2) velocity field",
+   "technique": "interferometry",
+   "credit": "Martinien et al. 2026, Fig. 6 (crop)",
+   "note": "12CO(3-2) moment 1 of Tau 042021 edge-on disk; X-shape rotation red(top)/blue(bottom); archival 2016.1.00460.S",
+   "paper": {
+    "first_author": "Martinien",
+    "year": 2026,
+    "title": "Observations of highly inclined disks with ALMA. Results from 12CO gas and continuum observations",
+    "journal": "A&A (2026)",
+    "arxiv": "2604.11247",
+    "bibcode": "2026A&A...710A.140M"
+   },
+   "file": "images/tau-042021/tau-042021_12co32-mom1.png",
+   "epoch": "2016-11-24",
+   "content": "line"
   }
  ],
  "notes": "AUTO-CREATED from staging - fill metadata & coords",

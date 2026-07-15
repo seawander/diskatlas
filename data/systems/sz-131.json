@@ -87,6 +87,29 @@
    },
    "epoch": "2021-2023",
    "content": "continuum"
+  },
+  {
+   "image_id": "sz-131_12co21-mom0",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 6",
+   "wavelength_um": 1300.4,
+   "wavelength_label": "12CO(2-1) integrated intensity",
+   "technique": "interferometry",
+   "survey": "AGE-PRO",
+   "credit": "Zhang et al. 2025, Fig. 11 (crop)",
+   "note": "AGE-PRO 12CO(2-1) moment 0 (Lupus 7 = Sz 131); compact resolved gas disk",
+   "paper": {
+    "first_author": "Zhang",
+    "year": 2025,
+    "title": "The ALMA Survey of Gas Evolution of PROtoplanetary Disks (AGE-PRO): I. Program Overview and Summary of First Results",
+    "journal": "ApJ (2025)",
+    "arxiv": "2506.10719",
+    "bibcode": "2025ApJ...989....1Z"
+   },
+   "file": "images/sz-131/sz-131_12co21-mom0.png",
+   "epoch": "2022",
+   "content": "line"
   }
  ],
  "notes": "AGE-PRO Lupus 7. Smooth disk with no substructure at AGE-PRO resolution (Vioque et al. 2025).",

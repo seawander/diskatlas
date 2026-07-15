@@ -101,6 +101,52 @@
    "file": "images/do-tau/do-tau_carma2015.png",
    "epoch": "2007-2009",
    "content": "continuum"
+  },
+  {
+   "image_id": "do-tau_12co21-mom0",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 6",
+   "wavelength_um": 1300,
+   "wavelength_label": "12CO(2-1) integrated intensity",
+   "technique": "interferometry",
+   "survey": "DESTINYS",
+   "credit": "Huang et al. 2022, Fig. 1 (crop)",
+   "note": "12CO(2-1) integrated intensity; resolved disk + spiral/outflow arc ~500au; DESTINYS 2016.1.00627.S",
+   "paper": {
+    "first_author": "Huang",
+    "year": 2022,
+    "title": "Disk Evolution Study through Imaging of Nearby Young Stars (DESTINYS): A Panchromatic View of DO Tau's Complex Kilo-astronomical-unit Environment",
+    "journal": "ApJ",
+    "arxiv": "2204.01758",
+    "bibcode": "2022ApJ...930..171H"
+   },
+   "file": "images/do-tau/do-tau_12co21-mom0.png",
+   "epoch": "2016-12-01",
+   "content": "line"
+  },
+  {
+   "image_id": "do-tau_13co21-mom0",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 6",
+   "wavelength_um": 1300,
+   "wavelength_label": "13CO(2-1) integrated intensity",
+   "technique": "interferometry",
+   "survey": "DESTINYS",
+   "credit": "Huang et al. 2022, Fig. 1 (crop)",
+   "note": "13CO(2-1) integrated intensity; compact resolved disk with inner ring/hole",
+   "paper": {
+    "first_author": "Huang",
+    "year": 2022,
+    "title": "Disk Evolution Study through Imaging of Nearby Young Stars (DESTINYS): A Panchromatic View of DO Tau's Complex Kilo-astronomical-unit Environment",
+    "journal": "ApJ",
+    "arxiv": "2204.01758",
+    "bibcode": "2022ApJ...930..171H"
+   },
+   "file": "images/do-tau/do-tau_13co21-mom0.png",
+   "epoch": "2016-12-01",
+   "content": "line"
   }
  ],
  "notes": null,

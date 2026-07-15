@@ -39,6 +39,52 @@
    },
    "epoch": "2021-05-04",
    "content": "continuum"
+  },
+  {
+   "image_id": "r-cra-irs5n_c18o21-mom0",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 6",
+   "wavelength_um": 1300,
+   "wavelength_label": "C18O(2-1) integrated intensity",
+   "technique": "interferometry",
+   "survey": "eDisk",
+   "credit": "Sharma et al. 2023, Fig. 4 (crop)",
+   "note": "eDisk IX zoomed C18O(2-1) mom0, resolved flattened disk; obs May 2021 (2019.1.00261.L)",
+   "paper": {
+    "first_author": "Sharma",
+    "year": 2023,
+    "title": "Early Planet Formation in Embedded Disks (eDisk). IX. High-resolution ALMA Observations of the Class 0 Protostar R CrA IRS5N and Its Surroundings",
+    "journal": "ApJ",
+    "arxiv": "2309.00443",
+    "bibcode": "2023ApJ...954...69S"
+   },
+   "file": "images/r-cra-irs5n/r-cra-irs5n_c18o21-mom0.png",
+   "epoch": "2021-05",
+   "content": "line"
+  },
+  {
+   "image_id": "r-cra-irs5n_c18o21-mom1",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 6",
+   "wavelength_um": 1300,
+   "wavelength_label": "C18O(2-1) velocity field",
+   "technique": "interferometry",
+   "survey": "eDisk",
+   "credit": "Sharma et al. 2023, Fig. 4 (crop)",
+   "note": "C18O(2-1) mom1, Keplerian disk rotation (M~0.3 Msun)",
+   "paper": {
+    "first_author": "Sharma",
+    "year": 2023,
+    "title": "Early Planet Formation in Embedded Disks (eDisk). IX. High-resolution ALMA Observations of the Class 0 Protostar R CrA IRS5N and Its Surroundings",
+    "journal": "ApJ",
+    "arxiv": "2309.00443",
+    "bibcode": "2023ApJ...954...69S"
+   },
+   "file": "images/r-cra-irs5n/r-cra-irs5n_c18o21-mom1.png",
+   "epoch": "2021-05",
+   "content": "line"
   }
  ],
  "notes": "Class 0 embedded protostar (eDisk)",

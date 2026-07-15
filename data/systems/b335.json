@@ -39,6 +39,28 @@
    },
    "epoch": "2014-09-02",
    "content": "continuum"
+  },
+  {
+   "image_id": "b335_13co21-mom0",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 6",
+   "wavelength_um": 1300,
+   "wavelength_label": "13CO(2-1) integrated intensity",
+   "technique": "interferometry",
+   "credit": "Bjerkeli et al. 2023, Fig. 1 (crop)",
+   "note": "13CO(2-1) mom0 of resolved infalling gas around B335 (disk <10au unresolved); obs 21-29 Oct 2017",
+   "paper": {
+    "first_author": "Bjerkeli",
+    "year": 2023,
+    "title": "Possible episodic infall towards a compact disk in B335",
+    "journal": "A&A",
+    "arxiv": "2306.14531",
+    "bibcode": "2023A&A...677A..62B"
+   },
+   "file": "images/b335/b335_13co21-mom0.png",
+   "epoch": "2017-10-21",
+   "content": "line"
   }
  ],
  "notes": "Class 0 embedded protostar (eDisk)",

@@ -60,6 +60,52 @@
     "bibcode": "2019ApJS..245....2S"
    },
    "epoch": "2017"
+  },
+  {
+   "image_id": "iras-16253-2429_c18o21-mom01",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 6",
+   "wavelength_um": 1365,
+   "wavelength_label": "C18O(2-1) integrated intensity + velocity field",
+   "technique": "interferometry",
+   "survey": "eDisk",
+   "credit": "Aso et al. 2023, eDisk VI (crop)",
+   "note": "eDisk VI. C18O(2-1) moment 0 (contours) + moment 1 (color); rotation along disk major axis, 60au; program 2019.1.00261.L",
+   "paper": {
+    "first_author": "Aso",
+    "year": 2023,
+    "title": "Early Planet Formation in Embedded Disks (eDisk). VI. Kinematic Structures around the Very-low-mass Protostar IRAS 16253-2429",
+    "journal": "ApJ",
+    "arxiv": "2309.01891",
+    "bibcode": "2023ApJ...954..101A"
+   },
+   "file": "images/iras-16253-2429/iras-16253-2429_c18o21-mom01.png",
+   "epoch": "2021-10-05",
+   "content": "line"
+  },
+  {
+   "image_id": "iras-16253-2429_13co21-mom01",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 6",
+   "wavelength_um": 1360,
+   "wavelength_label": "13CO(2-1) integrated intensity + velocity field",
+   "technique": "interferometry",
+   "survey": "eDisk",
+   "credit": "Aso et al. 2023, eDisk VI (crop)",
+   "note": "eDisk VI. 13CO(2-1) moment 0 (contours) + moment 1 (color); rotating disk-scale gas",
+   "paper": {
+    "first_author": "Aso",
+    "year": 2023,
+    "title": "Early Planet Formation in Embedded Disks (eDisk). VI. Kinematic Structures around the Very-low-mass Protostar IRAS 16253-2429",
+    "journal": "ApJ",
+    "arxiv": "2309.01891",
+    "bibcode": "2023ApJ...954..101A"
+   },
+   "file": "images/iras-16253-2429/iras-16253-2429_13co21-mom01.png",
+   "epoch": "2021-10-05",
+   "content": "line"
   }
  ],
  "notes": "Class 0 embedded protostar (eDisk)",

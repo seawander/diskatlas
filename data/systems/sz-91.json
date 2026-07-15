@@ -122,6 +122,50 @@
    },
    "epoch": "2016-2023",
    "content": "continuum"
+  },
+  {
+   "image_id": "sz-91_co32-mom0",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 7",
+   "wavelength_um": 870,
+   "wavelength_label": "CO(3-2) integrated intensity",
+   "technique": "interferometry",
+   "credit": "Tsukagoshi et al. 2019, Fig. 4 (crop)",
+   "note": "CO(3-2) moment 0; gas to ~320au + inside dust cavity; obs 20-21 Jul 2015",
+   "paper": {
+    "first_author": "Tsukagoshi",
+    "year": 2019,
+    "title": "The Flared Gas Structure of the Transitional Disk around Sz 91",
+    "journal": "ApJ",
+    "arxiv": "1811.12036",
+    "bibcode": "2019ApJ...871....5T"
+   },
+   "file": "images/sz-91/sz-91_co32-mom0.png",
+   "epoch": "2015-07-20",
+   "content": "line"
+  },
+  {
+   "image_id": "sz-91_co32-mom1",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 7",
+   "wavelength_um": 870,
+   "wavelength_label": "CO(3-2) velocity field",
+   "technique": "interferometry",
+   "credit": "Tsukagoshi et al. 2019, Fig. 4 (crop)",
+   "note": "CO(3-2) moment 1 velocity gradient (rotation)",
+   "paper": {
+    "first_author": "Tsukagoshi",
+    "year": 2019,
+    "title": "The Flared Gas Structure of the Transitional Disk around Sz 91",
+    "journal": "ApJ",
+    "arxiv": "1811.12036",
+    "bibcode": "2019ApJ...871....5T"
+   },
+   "file": "images/sz-91/sz-91_co32-mom1.png",
+   "epoch": "2015-07-20",
+   "content": "line"
   }
  ],
  "notes": "AUTO-CREATED from staging - fill metadata & coords",

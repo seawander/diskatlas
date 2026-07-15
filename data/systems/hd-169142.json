@@ -570,6 +570,72 @@
     "bibcode": "2019ApJ...881..159M"
    },
    "epoch": "2016-09"
+  },
+  {
+   "image_id": "hd-169142_12co21-mom0",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 6",
+   "wavelength_um": 1300.4,
+   "wavelength_label": "12CO(2-1) integrated intensity",
+   "technique": "interferometry",
+   "credit": "Fedele et al. 2017, Fig. 2 (crop)",
+   "note": "12CO J=2-1 integrated-intensity (moment 0); ring-resolved gas disk",
+   "paper": {
+    "first_author": "Fedele",
+    "year": 2017,
+    "title": "ALMA unveils rings and gaps in the protoplanetary system HD 169142: signatures of two giant protoplanets",
+    "journal": "A&A 600, A72",
+    "arxiv": "1702.02844",
+    "bibcode": "2017A&A...600A..72F"
+   },
+   "file": "images/hd-169142/hd-169142_12co21-mom0.png",
+   "epoch": "2015-08-30",
+   "content": "line"
+  },
+  {
+   "image_id": "hd-169142_13co21-mom0",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 6",
+   "wavelength_um": 1360.2,
+   "wavelength_label": "13CO(2-1) integrated intensity",
+   "technique": "interferometry",
+   "credit": "Fedele et al. 2017, Fig. 2 (crop)",
+   "note": "13CO J=2-1 moment 0; resolves the CO ring",
+   "paper": {
+    "first_author": "Fedele",
+    "year": 2017,
+    "title": "ALMA unveils rings and gaps in the protoplanetary system HD 169142: signatures of two giant protoplanets",
+    "journal": "A&A 600, A72",
+    "arxiv": "1702.02844",
+    "bibcode": "2017A&A...600A..72F"
+   },
+   "file": "images/hd-169142/hd-169142_13co21-mom0.png",
+   "epoch": "2015-08-30",
+   "content": "line"
+  },
+  {
+   "image_id": "hd-169142_c18o21-mom0",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 6",
+   "wavelength_um": 1365.4,
+   "wavelength_label": "C18O(2-1) integrated intensity",
+   "technique": "interferometry",
+   "credit": "Fedele et al. 2017, Fig. 2 (crop)",
+   "note": "C18O J=2-1 moment 0; ring clearly resolved",
+   "paper": {
+    "first_author": "Fedele",
+    "year": 2017,
+    "title": "ALMA unveils rings and gaps in the protoplanetary system HD 169142: signatures of two giant protoplanets",
+    "journal": "A&A 600, A72",
+    "arxiv": "1702.02844",
+    "bibcode": "2017A&A...600A..72F"
+   },
+   "file": "images/hd-169142/hd-169142_c18o21-mom0.png",
+   "epoch": "2015-08-30",
+   "content": "line"
   }
  ],
  "notes": null,

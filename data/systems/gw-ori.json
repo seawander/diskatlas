@@ -125,6 +125,50 @@
    },
    "epoch": "2017-2021",
    "content": "continuum"
+  },
+  {
+   "image_id": "gw-ori_12co21-mom0",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 6",
+   "wavelength_um": 1300.4,
+   "wavelength_label": "12CO(2-1) integrated intensity",
+   "technique": "interferometry",
+   "credit": "Bi et al. 2020, Fig. 4 (crop)",
+   "note": "12CO J=2-1 moment 0; resolved circumtriple gas disk",
+   "paper": {
+    "first_author": "Bi",
+    "year": 2020,
+    "title": "GW Ori: Interactions Between a Triple-star System and its Circumtriple Disk in Action",
+    "journal": "ApJL",
+    "arxiv": "2004.03135",
+    "bibcode": "2020ApJ...895L..18B"
+   },
+   "file": "images/gw-ori/gw-ori_12co21-mom0.png",
+   "epoch": "2017-12-10",
+   "content": "line"
+  },
+  {
+   "image_id": "gw-ori_12co21-mom1",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 6",
+   "wavelength_um": 1300.4,
+   "wavelength_label": "12CO(2-1) velocity field",
+   "technique": "interferometry",
+   "credit": "Bi et al. 2020, Fig. 1b (crop)",
+   "note": "12CO J=2-1 moment 1; misaligned/twisted rotation of the circumtriple disk",
+   "paper": {
+    "first_author": "Bi",
+    "year": 2020,
+    "title": "GW Ori: Interactions Between a Triple-star System and its Circumtriple Disk in Action",
+    "journal": "ApJL",
+    "arxiv": "2004.03135",
+    "bibcode": "2020ApJ...895L..18B"
+   },
+   "file": "images/gw-ori/gw-ori_12co21-mom1.png",
+   "epoch": "2017-12-10",
+   "content": "line"
   }
  ],
  "notes": null,

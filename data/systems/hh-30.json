@@ -190,6 +190,50 @@
    "file": "images/hh-30/hh-30_jwst-miri-f1280w.png",
    "epoch": "2023-09-07",
    "content": "continuum"
+  },
+  {
+   "image_id": "hh-30_13co21-mom0",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 6",
+   "wavelength_um": 1330,
+   "wavelength_label": "13CO(2-1) integrated intensity",
+   "technique": "interferometry",
+   "credit": "Louvet et al. 2018, Fig. 3 (crop)",
+   "note": "13CO(2-1) moment 0 of edge-on rotating disk; obs 19-21 Jul 2015",
+   "paper": {
+    "first_author": "Louvet",
+    "year": 2018,
+    "title": "The HH30 edge-on T Tauri star. A rotating and precessing monopolar outflow scrutinized by ALMA",
+    "journal": "A&A",
+    "arxiv": "1808.03285",
+    "bibcode": "2018A&A...618A.120L"
+   },
+   "file": "images/hh-30/hh-30_13co21-mom0.png",
+   "epoch": "2015-07-19",
+   "content": "line"
+  },
+  {
+   "image_id": "hh-30_13co21-mom1",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 6",
+   "wavelength_um": 1330,
+   "wavelength_label": "13CO(2-1) velocity field",
+   "technique": "interferometry",
+   "credit": "Louvet et al. 2018, Fig. 3 (crop)",
+   "note": "13CO(2-1) moment 1; edge-on disk rotation",
+   "paper": {
+    "first_author": "Louvet",
+    "year": 2018,
+    "title": "The HH30 edge-on T Tauri star. A rotating and precessing monopolar outflow scrutinized by ALMA",
+    "journal": "A&A",
+    "arxiv": "1808.03285",
+    "bibcode": "2018A&A...618A.120L"
+   },
+   "file": "images/hh-30/hh-30_13co21-mom1.png",
+   "epoch": "2015-07-19",
+   "content": "line"
   }
  ],
  "notes": "AUTO-CREATED from staging - fill metadata & coords",

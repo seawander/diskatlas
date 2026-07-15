@@ -36,6 +36,28 @@
    "file": "images/iram-04191-1522/iram-04191-1522_alma_b7.png",
    "epoch": "2017-11-24",
    "content": "continuum"
+  },
+  {
+   "image_id": "iram-04191-1522_c18o21-mom1",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 6",
+   "wavelength_um": 1365,
+   "wavelength_label": "C18O(2-1) velocity field",
+   "technique": "interferometry",
+   "credit": "Huélamo et al. 2026, Fig. diskc18o (crop)",
+   "note": "C18O(2-1) moment 1; velocity gradient E(blue)-W(red) = rotating circumbinary disk around IRAM 04191 E&W; archival 2016.1.01284.S",
+   "paper": {
+    "first_author": "Huélamo",
+    "year": 2026,
+    "title": "IRAM 04191+1522: a compact proto-brown dwarf binary candidate",
+    "journal": "A&A 709, L3",
+    "arxiv": "2603.15274",
+    "bibcode": "2026A&A...709L...3H"
+   },
+   "file": "images/iram-04191-1522/iram-04191-1522_c18o21-mom1.png",
+   "epoch": "2016-10-15",
+   "content": "line"
   }
  ],
  "notes": "Proto-brown-dwarf binary (Class 0/I) in Taurus whose disc was resolved with ALMA Band 7 (Huélamo+2026).",

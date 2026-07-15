@@ -234,6 +234,72 @@
    },
    "epoch": "2007-2008",
    "content": "continuum"
+  },
+  {
+   "image_id": "sr-21_12co21-mom0",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 6",
+   "wavelength_um": 1300,
+   "wavelength_label": "12CO(2-1) integrated intensity",
+   "technique": "interferometry",
+   "credit": "Yang et al. 2023, Fig. 4 (crop)",
+   "note": "12CO(2-1) moment 0 of SR 21; obs 2019 Jun 24 (long) + Aug 24",
+   "paper": {
+    "first_author": "Yang",
+    "year": 2023,
+    "title": "Multiple Rings and Asymmetric Structures in the Disk of SR 21",
+    "journal": "ApJ 948, 110",
+    "arxiv": "2303.05064",
+    "bibcode": "2023ApJ...948..110Y"
+   },
+   "file": "images/sr-21/sr-21_12co21-mom0.png",
+   "epoch": "2019-06-24",
+   "content": "line"
+  },
+  {
+   "image_id": "sr-21_13co21-mom0",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 6",
+   "wavelength_um": 1300,
+   "wavelength_label": "13CO(2-1) integrated intensity",
+   "technique": "interferometry",
+   "credit": "Yang et al. 2023, Fig. 4 (crop)",
+   "note": "13CO(2-1) moment 0 map of SR 21",
+   "paper": {
+    "first_author": "Yang",
+    "year": 2023,
+    "title": "Multiple Rings and Asymmetric Structures in the Disk of SR 21",
+    "journal": "ApJ 948, 110",
+    "arxiv": "2303.05064",
+    "bibcode": "2023ApJ...948..110Y"
+   },
+   "file": "images/sr-21/sr-21_13co21-mom0.png",
+   "epoch": "2019-06-24",
+   "content": "line"
+  },
+  {
+   "image_id": "sr-21_c18o21-mom0",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 6",
+   "wavelength_um": 1300,
+   "wavelength_label": "C18O(2-1) integrated intensity",
+   "technique": "interferometry",
+   "credit": "Yang et al. 2023, Fig. 4 (crop)",
+   "note": "C18O(2-1) moment 0 map of SR 21",
+   "paper": {
+    "first_author": "Yang",
+    "year": 2023,
+    "title": "Multiple Rings and Asymmetric Structures in the Disk of SR 21",
+    "journal": "ApJ 948, 110",
+    "arxiv": "2303.05064",
+    "bibcode": "2023ApJ...948..110Y"
+   },
+   "file": "images/sr-21/sr-21_c18o21-mom0.png",
+   "epoch": "2019-06-24",
+   "content": "line"
   }
  ],
  "notes": "AUTO-CREATED from staging - fill metadata & coords",

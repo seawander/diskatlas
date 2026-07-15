@@ -126,6 +126,28 @@
    },
    "epoch": "2008-04-12",
    "content": "continuum"
+  },
+  {
+   "image_id": "elias-27_cn32-mom0",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 7",
+   "wavelength_um": 881.6,
+   "wavelength_label": "CN N=3-2 integrated intensity",
+   "technique": "interferometry",
+   "credit": "Paneque-Carreño et al. 2022, Fig. 7 (crop)",
+   "note": "CN N=3-2 (~340 GHz) moment 0; resolved N/S-asymmetric ring; programs 2016.1.00606.S/2017.1.00069.S",
+   "paper": {
+    "first_author": "Paneque-Carreño",
+    "year": 2022,
+    "title": "Vertically extended and asymmetric CN emission in the Elias 2-27 protoplanetary disk",
+    "journal": "A&A",
+    "arxiv": "2207.08827",
+    "bibcode": "2022A&A...666A.168P"
+   },
+   "file": "images/elias-27/elias-27_cn32-mom0.png",
+   "epoch": "2017",
+   "content": "line"
   }
  ],
  "notes": "Same star as DSHARP 'Elias 27' — records merge under one system id.",

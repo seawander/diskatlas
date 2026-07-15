@@ -39,6 +39,75 @@
    },
    "epoch": "2021-08-24",
    "content": "continuum"
+  },
+  {
+   "image_id": "iras-16544-1604_13co21-mom0",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 6",
+   "wavelength_um": 1360.2,
+   "wavelength_label": "13CO(2-1) integrated intensity",
+   "technique": "interferometry",
+   "survey": "eDisk",
+   "credit": "Kido et al. 2023, Fig. 5 (crop)",
+   "note": "eDisk VII 13CO 2-1 moment 0; disk + inner-envelope gas",
+   "paper": {
+    "first_author": "Kido",
+    "year": 2023,
+    "title": "Early Planet Formation in Embedded Disks (eDisk). VII. Keplerian Disk, Disk Substructure, and Accretion Streamers in the Class 0 Protostar IRAS 16544-1604 in CB 68",
+    "journal": "ApJ",
+    "arxiv": "2306.15443",
+    "bibcode": "2023ApJ...953..190K"
+   },
+   "file": "images/iras-16544-1604/iras-16544-1604_13co21-mom0.png",
+   "epoch": "2021-10",
+   "content": "line"
+  },
+  {
+   "image_id": "iras-16544-1604_c18o21-mom0",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 6",
+   "wavelength_um": 1365.4,
+   "wavelength_label": "C18O(2-1) integrated intensity",
+   "technique": "interferometry",
+   "survey": "eDisk",
+   "credit": "Kido et al. 2023, Fig. 5 (crop)",
+   "note": "C18O 2-1 moment 0; compact disk-scale integrated intensity",
+   "paper": {
+    "first_author": "Kido",
+    "year": 2023,
+    "title": "Early Planet Formation in Embedded Disks (eDisk). VII. Keplerian Disk, Disk Substructure, and Accretion Streamers in the Class 0 Protostar IRAS 16544-1604 in CB 68",
+    "journal": "ApJ",
+    "arxiv": "2306.15443",
+    "bibcode": "2023ApJ...953..190K"
+   },
+   "file": "images/iras-16544-1604/iras-16544-1604_c18o21-mom0.png",
+   "epoch": "2021-10",
+   "content": "line"
+  },
+  {
+   "image_id": "iras-16544-1604_c18o21-mom1",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 6",
+   "wavelength_um": 1365.4,
+   "wavelength_label": "C18O(2-1) velocity field",
+   "technique": "interferometry",
+   "survey": "eDisk",
+   "credit": "Kido et al. 2023, Fig. 5 (crop)",
+   "note": "C18O 2-1 moment 1; blue/red gradient across the major axis (Keplerian rotation)",
+   "paper": {
+    "first_author": "Kido",
+    "year": 2023,
+    "title": "Early Planet Formation in Embedded Disks (eDisk). VII. Keplerian Disk, Disk Substructure, and Accretion Streamers in the Class 0 Protostar IRAS 16544-1604 in CB 68",
+    "journal": "ApJ",
+    "arxiv": "2306.15443",
+    "bibcode": "2023ApJ...953..190K"
+   },
+   "file": "images/iras-16544-1604/iras-16544-1604_c18o21-mom1.png",
+   "epoch": "2021-10",
+   "content": "line"
   }
  ],
  "notes": "Class 0 embedded protostar (eDisk)",

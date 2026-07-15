@@ -38,6 +38,52 @@
    "file": "images/2mass-j16085324-3914401/2mass-j16085324-3914401_alma-agepro.png",
    "epoch": "2019",
    "content": "continuum"
+  },
+  {
+   "image_id": "2mass-j16085324-3914401_12co21-mom0",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 6",
+   "wavelength_um": 1300,
+   "wavelength_label": "12CO(2-1) integrated intensity",
+   "technique": "interferometry",
+   "survey": "AGE-PRO",
+   "credit": "Deng et al. 2025, Fig. 12 (crop)",
+   "note": "AGE-PRO 12CO(2-1) moment 0 (Lupus 6); resolved compact disk",
+   "paper": {
+    "first_author": "Deng",
+    "year": 2025,
+    "title": "The ALMA Survey of Gas Evolution of PROtoplanetary Disks (AGE-PRO): III. Dust and Gas Disk Properties in the Lupus Star-forming Region",
+    "journal": "ApJ 989, 3",
+    "arxiv": "2506.10734",
+    "bibcode": "2025ApJ...989....3D"
+   },
+   "file": "images/2mass-j16085324-3914401/2mass-j16085324-3914401_12co21-mom0.png",
+   "epoch": "2022-03-25",
+   "content": "line"
+  },
+  {
+   "image_id": "2mass-j16085324-3914401_13co21-mom0",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 6",
+   "wavelength_um": 1300,
+   "wavelength_label": "13CO(2-1) integrated intensity",
+   "technique": "interferometry",
+   "survey": "AGE-PRO",
+   "credit": "Deng et al. 2025, Fig. 12 (crop)",
+   "note": "13CO(2-1) moment 0; resolved disk",
+   "paper": {
+    "first_author": "Deng",
+    "year": 2025,
+    "title": "The ALMA Survey of Gas Evolution of PROtoplanetary Disks (AGE-PRO): III. Dust and Gas Disk Properties in the Lupus Star-forming Region",
+    "journal": "ApJ 989, 3",
+    "arxiv": "2506.10734",
+    "bibcode": "2025ApJ...989....3D"
+   },
+   "file": "images/2mass-j16085324-3914401/2mass-j16085324-3914401_13co21-mom0.png",
+   "epoch": "2022-03-25",
+   "content": "line"
   }
  ],
  "notes": "Young disk-hosting star in Lupus, observed as Lupus 6 in the AGE-PRO ALMA Large Program; the held image is the Band 6 1.3 mm continuum map resolving the dust disk, and the same study reports potential companion(s) around this source (Deng et al. 2025).",
