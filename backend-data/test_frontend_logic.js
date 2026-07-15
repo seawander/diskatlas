@@ -50,17 +50,20 @@ ok(L.adsUrl({ arxiv: "1812.04040" }).includes("arXiv:1812.04040"), "ads arxiv fa
 
 /* filtering */
 const systems = [
-  { id: "a", name: "A", categories: ["protoplanetary"], planets: [], images: [{ file: "x", survey: "DSHARP" }] },
-  { id: "b", name: "B", categories: ["debris"], planets: [{ name: "b" }], images: [{}] },
-  { id: "c", name: "C star", categories: [], planets: [{ name: "b" }], images: [] }
+  { id: "a", name: "A", categories: ["protoplanetary"], planets: [], images: [{ file: "x", survey: "SONS" }] },
+  { id: "b", name: "B", categories: ["debris"], planets: [{ name: "b" }], images: [{ survey: "REASONS" }] },
+  { id: "c", name: "C star", categories: [], planets: [{ name: "b" }], images: [{ survey: "SPHERE-Taurus" }] }
 ];
-ok(L.filterSystems(systems, { proto: 1, debris: 1, planetonly: 1 }, "").length === 3, "filter all");
+const F = { proto: 1, debris: 1, planetonly: 1 };
+ok(L.filterSystems(systems, F, "").length === 3, "filter all");
 ok(L.filterSystems(systems, { proto: 0, debris: 1, planetonly: 1 }, "").length === 2, "filter proto off");
 ok(L.filterSystems(systems, { proto: 1, debris: 1, planetonly: 1, planethost: 1 }, "").length === 2, "planet hosts");
 ok(L.filterSystems(systems, { proto: 1, debris: 1, planetonly: 1, hasimg: 1 }, "").length === 1, "has image");
-ok(L.filterSystems(systems, { proto: 1, debris: 1, planetonly: 1 }, "c st")[0].id === "c", "search");
-ok(L.filterSystems(systems, { proto: 1, debris: 1, planetonly: 1 }, "dsharp")[0].id === "a", "survey search");
-ok(L.filterSystems(systems, { proto: 1, debris: 1, planetonly: 1 }, "shar").length === 1, "survey substring search");
+ok(L.filterSystems(systems, F, "c st")[0].id === "c", "name search");
+ok(L.filterSystems(systems, F, "sons").length === 1 && L.filterSystems(systems, F, "sons")[0].id === "a", "survey SONS (not REASONS)");
+ok(L.filterSystems(systems, F, "reasons")[0].id === "b", "survey REASONS");
+ok(L.filterSystems(systems, F, "taurus")[0].id === "c", "survey token: taurus -> SPHERE-Taurus");
+ok(L.filterSystems(systems, F, "sphere-taurus")[0].id === "c", "survey full hyphenated match");
 ok(L.sysColorKey(systems[2]) === "planetonly", "color key");
 
 process.exit(fails ? 1 : 0);

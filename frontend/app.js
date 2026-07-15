@@ -192,19 +192,24 @@ function sysSurveys(s) {
   return (s.__surveys = out);
 }
 /* search haystack: system name/id/alt_names PLUS each recorded paper's
-   author/year/arXiv/bibcode and each image's survey tag (not titles — too
-   noisy). Memoized. */
+   author/year/arXiv/bibcode (not titles — too noisy). Surveys are matched
+   separately (surveyMatch), NOT folded in here — substring would let "SONS"
+   collide with "REASONS". Memoized. */
 function sysHay(s) {
   if (s.__hay != null) return s.__hay;
   const parts = [s.name, s.id, ...(s.alt_names || [])].filter(Boolean).map(x => String(x).toLowerCase());
-  return (s.__hay = parts
-    .concat(sysPapers(s).map(paperTokens))
-    .concat(sysSurveys(s).map(v => v.toLowerCase()))
-    .join(" "));
+  return (s.__hay = parts.concat(sysPapers(s).map(paperTokens)).join(" "));
+}
+/* survey match: query is a prefix of the whole tag OR of any of its tokens
+   (split on non-alphanumerics). So "sons"→SONS not REASONS, "age-pro"→AGE-PRO,
+   and "taurus"→SPHERE-Taurus / Taurus-Long2019. Case-insensitive. */
+function surveyMatch(v, q) {
+  const lv = v.toLowerCase();
+  return lv.startsWith(q) || lv.split(/[^a-z0-9]+/).some(t => t && t.startsWith(q));
 }
 /* the recorded paper / survey a query matched (for annotating a result row) */
 function matchedPaper(s, q) { return sysPapers(s).find(p => paperTokens(p).includes(q)) || null; }
-function matchedSurvey(s, q) { return sysSurveys(s).find(v => v.toLowerCase().includes(q)) || null; }
+function matchedSurvey(s, q) { return sysSurveys(s).find(v => surveyMatch(v, q)) || null; }
 
 function filterSystems(systems, f, q) {
   q = (q || "").trim().toLowerCase();
@@ -258,7 +263,7 @@ function filterSystems(systems, f, q) {
       if (missSet.has("nir") && sysHasNir(s)) return false;
       if (missSet.has("planet") && sysHasImagedPlanet(s)) return false;
     }
-    if (q && !sysHay(s).includes(q)) return false;   // name/id/alt OR a recorded paper's author/year/arXiv/bibcode
+    if (q && !sysHay(s).includes(q) && !matchedSurvey(s, q)) return false;   // name/id/alt/paper substring, OR a survey prefix
     return true;
   });
 }
