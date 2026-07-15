@@ -50,7 +50,7 @@ ok(L.adsUrl({ arxiv: "1812.04040" }).includes("arXiv:1812.04040"), "ads arxiv fa
 
 /* filtering */
 const systems = [
-  { id: "a", name: "A", categories: ["protoplanetary"], planets: [], images: [{ file: "x" }] },
+  { id: "a", name: "A", categories: ["protoplanetary"], planets: [], images: [{ file: "x", survey: "DSHARP" }] },
   { id: "b", name: "B", categories: ["debris"], planets: [{ name: "b" }], images: [{}] },
   { id: "c", name: "C star", categories: [], planets: [{ name: "b" }], images: [] }
 ];
@@ -59,6 +59,8 @@ ok(L.filterSystems(systems, { proto: 0, debris: 1, planetonly: 1 }, "").length =
 ok(L.filterSystems(systems, { proto: 1, debris: 1, planetonly: 1, planethost: 1 }, "").length === 2, "planet hosts");
 ok(L.filterSystems(systems, { proto: 1, debris: 1, planetonly: 1, hasimg: 1 }, "").length === 1, "has image");
 ok(L.filterSystems(systems, { proto: 1, debris: 1, planetonly: 1 }, "c st")[0].id === "c", "search");
+ok(L.filterSystems(systems, { proto: 1, debris: 1, planetonly: 1 }, "dsharp")[0].id === "a", "survey search");
+ok(L.filterSystems(systems, { proto: 1, debris: 1, planetonly: 1 }, "shar").length === 1, "survey substring search");
 ok(L.sysColorKey(systems[2]) === "planetonly", "color key");
 
 process.exit(fails ? 1 : 0);

@@ -182,15 +182,29 @@ function sysPapers(s) {
   return (s.__papers = out);
 }
 function paperTokens(p) { return [p.first_author, p.year, p.arxiv, p.bibcode].filter(Boolean).join(" ").toLowerCase(); }
+/* distinct survey/program tags across a system's image records (DSHARP, exoALMA,
+   MAPS, AGE-PRO, REASONS, ALICE, the fragmented Taurus tags, …) — scientific
+   data, matched verbatim and never translated. Memoized. */
+function sysSurveys(s) {
+  if (s.__surveys) return s.__surveys;
+  const seen = new Set(), out = [];
+  (s.images || []).forEach(i => { if (i.survey && !seen.has(i.survey)) { seen.add(i.survey); out.push(i.survey); } });
+  return (s.__surveys = out);
+}
 /* search haystack: system name/id/alt_names PLUS each recorded paper's
-   author/year/arXiv/bibcode (not titles — too noisy). Memoized. */
+   author/year/arXiv/bibcode and each image's survey tag (not titles — too
+   noisy). Memoized. */
 function sysHay(s) {
   if (s.__hay != null) return s.__hay;
   const parts = [s.name, s.id, ...(s.alt_names || [])].filter(Boolean).map(x => String(x).toLowerCase());
-  return (s.__hay = parts.concat(sysPapers(s).map(paperTokens)).join(" "));
+  return (s.__hay = parts
+    .concat(sysPapers(s).map(paperTokens))
+    .concat(sysSurveys(s).map(v => v.toLowerCase()))
+    .join(" "));
 }
-/* the recorded paper a query matched (for annotating a result row), or null */
+/* the recorded paper / survey a query matched (for annotating a result row) */
 function matchedPaper(s, q) { return sysPapers(s).find(p => paperTokens(p).includes(q)) || null; }
+function matchedSurvey(s, q) { return sysSurveys(s).find(v => v.toLowerCase().includes(q)) || null; }
 
 function filterSystems(systems, f, q) {
   q = (q || "").trim().toLowerCase();
@@ -859,8 +873,11 @@ if (typeof window !== "undefined") (function () {
       /* if the query matched a recorded paper (not the name), show that paper —
          this is how a user confirms "paper X is already in the atlas, here" */
       const nameHit = [s.name, s.id, ...(s.alt_names || [])].some(x => String(x).toLowerCase().includes(ql));
-      const pap = nameHit ? null : matchedPaper(s, ql);
-      const meta = pap
+      const surv = nameHit ? null : matchedSurvey(s, ql);       // priority: name > survey > paper
+      const pap = (nameHit || surv) ? null : matchedPaper(s, ql);
+      const meta = surv
+        ? "🔭 " + esc(surv)                                     // survey tag, verbatim (not translated)
+        : pap
         ? "📄 " + esc((pap.first_author || "?") + " " + (pap.year || ""))
         : (s.categories || []).map(c => c[0]).join("+") +
           ((s.images || []).some(i => i.file) ? " 🖼" : "") +
