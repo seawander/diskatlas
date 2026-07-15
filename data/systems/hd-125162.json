@@ -2,6 +2,7 @@
  "id": "hd-125162",
  "name": "lambda Boo",
  "alt_names": [
+  "HD 125162",
   "lambda Boo",
   "HIP 69732",
   "HR 5351"
@@ -39,6 +40,29 @@
     "bibcode": "2013MNRAS.428.1263B"
    },
    "epoch": "2011-05-29"
+  },
+  {
+   "image_id": "hd-125162_scuba2-850um-sons",
+   "type": "disk_mm",
+   "facility": "JCMT",
+   "instrument": "SCUBA-2",
+   "wavelength_um": 850,
+   "wavelength_label": "850 um (JCMT/SCUBA-2, SONS survey)",
+   "technique": "other",
+   "survey": "SONS",
+   "content": "continuum",
+   "credit": "Holland et al. 2017 (SONS), Fig. A9b (crop: 850 um S/N image)",
+   "note": "JCMT/SCUBA-2 850 um S/N image from the SONS legacy survey; submm debris-disc detection around lambda Boo.",
+   "paper": {
+    "first_author": "Holland",
+    "year": 2017,
+    "title": "SONS: The JCMT legacy survey of debris discs in the submillimetre",
+    "journal": "MNRAS 470, 3606",
+    "arxiv": "1706.01218",
+    "bibcode": "2017MNRAS.470.3606H"
+   },
+   "file": "images/hd-125162/hd-125162_scuba2-850um-sons.png",
+   "epoch": "2012-2015"
   }
  ],
  "notes": "Debris disc resolved at 70/100 um by Herschel/PACS in the DEBRIS survey of A stars (Booth et al. 2013).",

@@ -1,0 +1,44 @@
+{
+ "id": "hd-141378",
+ "name": "HD 141378",
+ "alt_names": [
+  "30 Ser"
+ ],
+ "simbad": "HD 141378",
+ "ra_deg": 237.23665398594,
+ "dec_deg": -3.8185105382800004,
+ "dist_pc": 53.2,
+ "sptype": "A5IV-V",
+ "region": null,
+ "categories": [
+  "debris"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "image_id": "hd-141378_scuba2-850um-sons",
+   "type": "disk_mm",
+   "facility": "JCMT",
+   "instrument": "SCUBA-2",
+   "wavelength_um": 850,
+   "wavelength_label": "850 um (JCMT/SCUBA-2, SONS survey)",
+   "technique": "other",
+   "survey": "SONS",
+   "content": "continuum",
+   "credit": "Holland et al. 2017 (SONS), Fig. A10a (crop: 850 um S/N image)",
+   "note": "JCMT/SCUBA-2 850 um S/N image from the SONS legacy survey; submm debris-disc detection around HD 141378.",
+   "paper": {
+    "first_author": "Holland",
+    "year": 2017,
+    "title": "SONS: The JCMT legacy survey of debris discs in the submillimetre",
+    "journal": "MNRAS 470, 3606",
+    "arxiv": "1706.01218",
+    "bibcode": "2017MNRAS.470.3606H"
+   },
+   "file": "images/hd-141378/hd-141378_scuba2-850um-sons.png",
+   "epoch": "2012-2015"
+  }
+ ],
+ "notes": "Submm debris-disc detection in the JCMT SONS legacy survey (Holland et al. 2017).",
+ "last_updated": "2026-07-14"
+}

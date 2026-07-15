@@ -1,0 +1,44 @@
+{
+ "id": "gj-322",
+ "name": "GJ 322",
+ "alt_names": [
+  "BD+66 582"
+ ],
+ "simbad": "GJ 322",
+ "ra_deg": 133.00145006196,
+ "dec_deg": 66.13149655138,
+ "dist_pc": 16.5,
+ "sptype": "K5V",
+ "region": null,
+ "categories": [
+  "debris"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "image_id": "gj-322_scuba2-850um-sons",
+   "type": "disk_mm",
+   "facility": "JCMT",
+   "instrument": "SCUBA-2",
+   "wavelength_um": 850,
+   "wavelength_label": "850 um (JCMT/SCUBA-2, SONS survey)",
+   "technique": "other",
+   "survey": "SONS",
+   "content": "continuum",
+   "credit": "Holland et al. 2017 (SONS), Fig. A6c (crop: 850 um S/N image)",
+   "note": "JCMT/SCUBA-2 850 um S/N image from the SONS legacy survey; submm debris-disc detection around GJ 322.",
+   "paper": {
+    "first_author": "Holland",
+    "year": 2017,
+    "title": "SONS: The JCMT legacy survey of debris discs in the submillimetre",
+    "journal": "MNRAS 470, 3606",
+    "arxiv": "1706.01218",
+    "bibcode": "2017MNRAS.470.3606H"
+   },
+   "file": "images/gj-322/gj-322_scuba2-850um-sons.png",
+   "epoch": "2012-2015"
+  }
+ ],
+ "notes": "Submm debris-disc detection in the JCMT SONS legacy survey (Holland et al. 2017).",
+ "last_updated": "2026-07-14"
+}

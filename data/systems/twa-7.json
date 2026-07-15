@@ -400,6 +400,29 @@
    "file": "images/twa-7/twa-7_nircam-f444w.png",
    "epoch": "2024-06-15",
    "content": "continuum"
+  },
+  {
+   "image_id": "twa-7_scuba2-850um-sons",
+   "type": "disk_mm",
+   "facility": "JCMT",
+   "instrument": "SCUBA-2",
+   "wavelength_um": 850,
+   "wavelength_label": "850 um (JCMT/SCUBA-2, SONS survey)",
+   "technique": "other",
+   "survey": "SONS",
+   "content": "continuum",
+   "credit": "Holland et al. 2017 (SONS), Fig. A7b (crop: 850 um S/N image)",
+   "note": "JCMT/SCUBA-2 850 um S/N image from the SONS legacy survey; submm debris-disc detection around TWA 7.",
+   "paper": {
+    "first_author": "Holland",
+    "year": 2017,
+    "title": "SONS: The JCMT legacy survey of debris discs in the submillimetre",
+    "journal": "MNRAS 470, 3606",
+    "arxiv": "1706.01218",
+    "bibcode": "2017MNRAS.470.3606H"
+   },
+   "file": "images/twa-7/twa-7_scuba2-850um-sons.png",
+   "epoch": "2012-2015"
   }
  ],
  "notes": null,
