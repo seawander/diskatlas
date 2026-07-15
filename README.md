@@ -18,7 +18,7 @@ across instruments, wavelengths and epochs, with clickable arXiv / SciX citation
 
 ## What's inside
 
-**606 systems · 2702 image records**, every one a panel cropped from a peer-reviewed
+**621 systems · 2854 image records**, every one a panel cropped from a peer-reviewed
 figure with full citations; coordinates for every system; a companion catalogue with
 per-object status (`confirmed` / `candidate` / `disputed` / `refuted`).
 `python3 backend-data/build.py` prints the exact live counts — trust it over any number in
