@@ -59,6 +59,75 @@
    },
    "file": "images/fs-tau/fs-tau_f814w.png",
    "epoch": "1996-01-25"
+  },
+  {
+   "image_id": "fs-tau_ciao-h",
+   "type": "disk_scattered",
+   "facility": "Subaru",
+   "instrument": "CIAO (coronagraph)",
+   "wavelength_um": 1.6,
+   "wavelength_label": "H",
+   "technique": "coronagraphy",
+   "survey": null,
+   "content": "continuum",
+   "credit": "Hioki et al. 2011, Fig. 1 (crop)",
+   "note": "PSF-subtracted H-band coronagraphic image of the FS Tau circumbinary disk (features 1-4 annotated by authors). Different instrument+epoch than held HiCIAO 2011 pol record.",
+   "paper": {
+    "first_author": "Hioki",
+    "year": 2011,
+    "title": "High-Resolution Optical and Near-Infrared Images of the FS Tauri Circumbinary Disk",
+    "journal": "PASJ",
+    "arxiv": "1103.0155",
+    "bibcode": "2011PASJ...63..543H"
+   },
+   "file": "images/fs-tau/fs-tau_ciao-h.png",
+   "epoch": "2007-12-17"
+  },
+  {
+   "image_id": "fs-tau_hst-acs-f606w",
+   "type": "disk_scattered",
+   "facility": "HST",
+   "instrument": "ACS F606W (polarimetric set)",
+   "wavelength_um": 0.606,
+   "wavelength_label": "F606W",
+   "technique": "imaging (PSF-subtracted Stokes I)",
+   "survey": null,
+   "content": "continuum",
+   "credit": "Hioki et al. 2011, Fig. 2 (crop)",
+   "note": "HST/ACS F606W Stokes I closeup after binary PSF subtraction showing arms/cavities/arc (GO 10178, PI Hines). NOTE: instrument is ACS, not WFPC2 (obs section).",
+   "paper": {
+    "first_author": "Hioki",
+    "year": 2011,
+    "title": "High-Resolution Optical and Near-Infrared Images of the FS Tauri Circumbinary Disk",
+    "journal": "PASJ",
+    "arxiv": "1103.0155",
+    "bibcode": "2011PASJ...63..543H"
+   },
+   "file": "images/fs-tau/fs-tau_hst-acs-f606w.png",
+   "epoch": "2004-08-21"
+  },
+  {
+   "image_id": "fs-tau_alma-co21",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 6, 12CO(2-1)",
+   "wavelength_um": 1300,
+   "wavelength_label": "CO(2-1) mom0",
+   "technique": "interferometric moment map",
+   "survey": null,
+   "content": "line",
+   "credit": "Yang et al. 2020, Fig. 10a (crop)",
+   "note": "SAME PAPER as the held HiCIAO H-pol record but a different facility/band (archival ALMA 2013.1.00105.S): CO(2-1) mom0 (blue+red components) revealing streamers around FS Tau A. One-record-per-band rule permits this.",
+   "paper": {
+    "first_author": "Yang",
+    "year": 2020,
+    "title": "High-resolution Near-infrared Polarimetry and Submillimeter Imaging of FS Tau A: Possible Streamers in Misaligned Circumbinary Disk System",
+    "journal": "ApJ",
+    "arxiv": "1912.11301",
+    "bibcode": "2020ApJ...889..140Y"
+   },
+   "file": "images/fs-tau/fs-tau_alma-co21.png",
+   "epoch": "2015-09-19"
   }
  ],
  "notes": "Young (2.8 Myr) T Tauri binary in Taurus; the held Subaru/HiCIAO H-band polarimetric composite of FS Tau A shows arm-like streamer structures (S1/S2) extending to ~240 au, interpreted as signposts of a misaligned circumbinary disk system (Yang et al. 2020).",

@@ -62,6 +62,52 @@
    },
    "file": "images/elias-29/elias-29_naco-ks-pol.png",
    "epoch": "2004-04-01"
+  },
+  {
+   "image_id": "elias-29_alma-cont1200",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 6",
+   "wavelength_um": 1200,
+   "wavelength_label": "1.2 mm (254.6 GHz)",
+   "technique": "interferometry",
+   "survey": null,
+   "content": "continuum",
+   "credit": "Oya et al. 2019, Fig. 2a (crop)",
+   "note": "1.2mm dust continuum of the Class I disk/envelope; deconvolved size given in paper Table (marginally resolved, beam 0.83x0.49\"). First mm record; held record is UKIRT 2.2um polarimetry.",
+   "paper": {
+    "first_author": "Oya",
+    "year": 2019,
+    "title": "Sulfur-bearing Species Tracing the Disk/Envelope System in the Class I Protostellar Source Elias 29",
+    "journal": "ApJ",
+    "arxiv": "1906.09724",
+    "bibcode": "2019ApJ...881..112O"
+   },
+   "file": "images/elias-29/elias-29_alma-cont1200.png",
+   "epoch": "2015-05-18"
+  },
+  {
+   "image_id": "elias-29_alma-so",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 6",
+   "wavelength_um": 1146,
+   "wavelength_label": "SO 6_7-5_6 (261.8 GHz) mom0",
+   "technique": "interferometric moment map",
+   "survey": null,
+   "content": "line",
+   "credit": "Oya et al. 2019, Fig. 2c (crop)",
+   "note": "SO integrated-intensity map tracing the disk/envelope system; P.A. arrows are the paper's own overlay.",
+   "paper": {
+    "first_author": "Oya",
+    "year": 2019,
+    "title": "Sulfur-bearing Species Tracing the Disk/Envelope System in the Class I Protostellar Source Elias 29",
+    "journal": "ApJ",
+    "arxiv": "1906.09724",
+    "bibcode": "2019ApJ...881..112O"
+   },
+   "file": "images/elias-29/elias-29_alma-so.png",
+   "epoch": "2015-05-18"
   }
  ],
  "notes": "Luminous Class I protostar in rho Oph; first high-resolution linear polarimetry shows extended SW nebulosity and a polarization disc (Beckford et al. 2008).",

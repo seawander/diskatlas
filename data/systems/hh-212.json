@@ -39,6 +39,98 @@
    "file": "images/hh-212/hh-212_alma2021.png",
    "epoch": "2017-11-27",
    "content": "continuum"
+  },
+  {
+   "image_id": "hh-212_alma-band9",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 9",
+   "wavelength_um": 430,
+   "wavelength_label": "0.43 mm",
+   "technique": "interferometry",
+   "survey": null,
+   "content": "continuum",
+   "credit": "Lin et al. 2021, Fig. 1a (crop)",
+   "note": "Band 9 brightness-temperature image of the edge-on disk (proj 2012.1.00122.S). Held record is Band 7 only; Bands 9/6/3 + VLA Ka from this figure are all new bands.",
+   "paper": {
+    "first_author": "Lin",
+    "year": 2021,
+    "title": "Inferring (sub)millimetre dust opacities and temperature structure in edge-on protostellar discs from resolved multiwavelength continuum observations: the case of the HH 212 disc",
+    "journal": "MNRAS",
+    "arxiv": "2008.08627",
+    "bibcode": "2021MNRAS.501.1316L"
+   },
+   "file": "images/hh-212/hh-212_alma-band9.png",
+   "epoch": "2015-07-26"
+  },
+  {
+   "image_id": "hh-212_alma-band6",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 6",
+   "wavelength_um": 1300,
+   "wavelength_label": "1.3 mm",
+   "technique": "interferometry",
+   "survey": null,
+   "content": "continuum",
+   "credit": "Lin et al. 2021, Fig. 1c (crop)",
+   "note": "Band 6 image (2017.1.00172.S) showing dark-lane hamburger structure.",
+   "paper": {
+    "first_author": "Lin",
+    "year": 2021,
+    "title": "Inferring (sub)millimetre dust opacities and temperature structure in edge-on protostellar discs from resolved multiwavelength continuum observations: the case of the HH 212 disc",
+    "journal": "MNRAS",
+    "arxiv": "2008.08627",
+    "bibcode": "2021MNRAS.501.1316L"
+   },
+   "file": "images/hh-212/hh-212_alma-band6.png",
+   "epoch": "2017-10-04"
+  },
+  {
+   "image_id": "hh-212_alma-band3",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 3",
+   "wavelength_um": 2900,
+   "wavelength_label": "2.9 mm",
+   "technique": "interferometry",
+   "survey": null,
+   "content": "continuum",
+   "credit": "Lin et al. 2021, Fig. 1d (crop)",
+   "note": "Band 3 image (2017.1.00172.S).",
+   "paper": {
+    "first_author": "Lin",
+    "year": 2021,
+    "title": "Inferring (sub)millimetre dust opacities and temperature structure in edge-on protostellar discs from resolved multiwavelength continuum observations: the case of the HH 212 disc",
+    "journal": "MNRAS",
+    "arxiv": "2008.08627",
+    "bibcode": "2021MNRAS.501.1316L"
+   },
+   "file": "images/hh-212/hh-212_alma-band3.png",
+   "epoch": "2017-10-05"
+  },
+  {
+   "image_id": "hh-212_vla-ka",
+   "type": "disk_mm",
+   "facility": "VLA",
+   "instrument": "Ka band (A config)",
+   "wavelength_um": 9100,
+   "wavelength_label": "9.1 mm",
+   "technique": "interferometry",
+   "survey": "VANDAM",
+   "content": "continuum",
+   "credit": "Lin et al. 2021, Fig. 1e (crop)",
+   "note": "VLA Ka 9.1mm image from the VANDAM Orion survey data (Tobin 2020), observed 2016-10-22; first cm-regime record for HH 212.",
+   "paper": {
+    "first_author": "Lin",
+    "year": 2021,
+    "title": "Inferring (sub)millimetre dust opacities and temperature structure in edge-on protostellar discs from resolved multiwavelength continuum observations: the case of the HH 212 disc",
+    "journal": "MNRAS",
+    "arxiv": "2008.08627",
+    "bibcode": "2021MNRAS.501.1316L"
+   },
+   "file": "images/hh-212/hh-212_vla-ka.png",
+   "epoch": "2016-10-22"
   }
  ],
  "notes": "Class 0 protostellar disk driving the HH 212 jet; ALMA 878um dust polarization (~0.03 arcsec resolution) resolves a nearly edge-on disk with V-shaped polarization structures and 'arm' features (Lee et al. 2021, arXiv:2102.11481), attributed to dichroic extinction / self-scattering by grains near the disk midplane.",

@@ -37,6 +37,52 @@
    "file": "images/g023-01-00-41/g023-01-00-41_alma2019.png",
    "epoch": "2016-09-05",
    "content": "line"
+  },
+  {
+   "image_id": "g023-01-00-41_alma-b7-cont",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 7 (349 GHz)",
+   "wavelength_um": 860,
+   "wavelength_label": "860 um continuum",
+   "technique": "interferometry",
+   "survey": null,
+   "content": "continuum",
+   "credit": "Sanna et al. 2021, Fig. A.2 (crop)",
+   "note": "860um dust continuum (color+white contours) of the massive accretion disk, with CH3OH mom0 in black contours; new band vs held Band 6 (1.37mm) moment map.",
+   "paper": {
+    "first_author": "Sanna",
+    "year": 2021,
+    "title": "Physical conditions in the warped accretion disk of a massive star. 349 GHz ALMA observations of G023.01‒00.41",
+    "journal": "A&A",
+    "arxiv": "2107.05683",
+    "bibcode": "2021A&A...655A..72S"
+   },
+   "file": "images/g023-01-00-41/g023-01-00-41_alma-b7-cont.png",
+   "epoch": "2017-07-10"
+  },
+  {
+   "image_id": "g023-01-00-41_alma-b7-ch3oh",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 7 (349 GHz)",
+   "wavelength_um": 859,
+   "wavelength_label": "CH3OH 14(1,13)-14(0,14) mom0",
+   "technique": "interferometric moment map",
+   "survey": null,
+   "content": "line",
+   "credit": "Sanna et al. 2021, Fig. 1 (crop)",
+   "note": "CH3OH moment-zero map of the warped disk + apparent spirals; numbered aperture circles are the paper's own pointing overlay.",
+   "paper": {
+    "first_author": "Sanna",
+    "year": 2021,
+    "title": "Physical conditions in the warped accretion disk of a massive star. 349 GHz ALMA observations of G023.01‒00.41",
+    "journal": "A&A",
+    "arxiv": "2107.05683",
+    "bibcode": "2021A&A...655A..72S"
+   },
+   "file": "images/g023-01-00-41/g023-01-00-41_alma-b7-ch3oh.png",
+   "epoch": "2017-07-10"
   }
  ],
  "notes": "G023.01-00.41 = high-mass YSO with a Keplerian disk (Sanna et al. 2019 ALMA). SIMBAD main_id MSX5C G023.0126-00.4177 (mid-IR source); resolved + coordinate-verified 2026-07-09 (was the one unresolvable non-quasar system).",

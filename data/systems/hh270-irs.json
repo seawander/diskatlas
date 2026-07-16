@@ -1,0 +1,44 @@
+{
+ "id": "hh270-irs",
+ "name": "HH 270 IRS",
+ "alt_names": [
+  "IRAS 05489+0256"
+ ],
+ "simbad": "HH 270 IRS",
+ "ra_deg": 87.89541667,
+ "dec_deg": 2.945,
+ "dist_pc": null,
+ "sptype": null,
+ "region": "L1617 (Orion)",
+ "categories": [
+  "protoplanetary"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "image_id": "hh270-irs_jwst-f460m",
+   "type": "disk_scattered",
+   "facility": "JWST",
+   "instrument": "NIRCam F460M",
+   "wavelength_um": 4.6,
+   "wavelength_label": "F460M (H2 0-0 S(9))",
+   "technique": "narrow/medium-band imaging",
+   "survey": null,
+   "content": "line",
+   "credit": "Ortiz Capeles et al. 2026, Fig. 1b (crop)",
+   "note": "Bipolar outflow cavities + deflected HH 270 jet driven by HH 270 IRS (05:51:34.9 +02:56:42). This is NOT hh270-mms2 (which sits 2+ arcmin away at 05:51:22.6): keep separate. Region boxes A-D are the paper's own annotations; paper also has ALMA 12CO/13CO/C18O maps (figs 5-6) for follow-up records.",
+   "paper": {
+    "first_author": "Ortiz Capeles",
+    "year": 2026,
+    "title": "A Study of HH 270 with the James Webb Space Telescope",
+    "journal": "ApJ",
+    "arxiv": "2604.09897",
+    "bibcode": "2026ApJ..1003...65O"
+   },
+   "file": "images/hh270-irs/hh270-irs_jwst-f460m.png",
+   "epoch": "2022-10"
+  }
+ ],
+ "notes": "Class I protostar driving the deflected HH 270/110 jet system; JWST/NIRCam H2 imaging (Ortiz Capeles et al. 2026) resolves the bipolar outflow cavities. Distinct from HH270 MMS2 (~3 arcmin away).",
+ "last_updated": "2026-07-16"
+}

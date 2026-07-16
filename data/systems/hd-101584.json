@@ -36,6 +36,29 @@
    "file": "images/hd-101584/hd-101584_alma_co21.png",
    "epoch": "2014-2016",
    "content": "line"
+  },
+  {
+   "image_id": "hd-101584_pionier-h",
+   "type": "disk_scattered",
+   "facility": "VLTI",
+   "instrument": "PIONIER",
+   "wavelength_um": 1.65,
+   "wavelength_label": "H",
+   "technique": "interferometric image reconstruction",
+   "survey": null,
+   "content": "continuum",
+   "credit": "Kluska et al. 2020, Image-reconstruction figure (crop)",
+   "note": "MiRA image reconstruction of the ~10 mas circumbinary dust ring (star subtracted, marked by cross). Obs 2017-04-10..2017-05-20 (Table log). Used the DATA reconstruction (HD101584_image.pdf), NOT the geometric-model image (imageFINAL).",
+   "paper": {
+    "first_author": "Kluska",
+    "year": 2020,
+    "title": "VLTI/PIONIER reveals the close environment of the evolved system HD 101584",
+    "journal": "A&A",
+    "arxiv": "2008.11555",
+    "bibcode": "2020A&A...642A.152K"
+   },
+   "file": "images/hd-101584/hd-101584_pionier-h.png",
+   "epoch": "2017-04"
   }
  ],
  "notes": "Post-AGB binary whose circumbinary disc was resolved with ALMA Band 6 (Olofsson+2019).",

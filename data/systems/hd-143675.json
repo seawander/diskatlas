@@ -36,6 +36,52 @@
    },
    "epoch": "2018-04-08",
    "content": "continuum"
+  },
+  {
+   "image_id": "hd-143675_gpi-h-qphi",
+   "type": "disk_scattered",
+   "facility": "Gemini-South",
+   "instrument": "GPI",
+   "wavelength_um": 1.65,
+   "wavelength_label": "H (Q_phi)",
+   "technique": "polarimetric differential imaging",
+   "survey": "GPIES",
+   "content": "continuum",
+   "credit": "Hom et al. 2020, Q_phi gallery figure (crop)",
+   "note": "Cross-paper re-reduction of the GPIES pol dataset.",
+   "paper": {
+    "first_author": "Hom",
+    "year": 2020,
+    "title": "First Resolved Scattered-light Images of Four Debris Disks in Scorpius-Centaurus with the Gemini Planet Imager",
+    "journal": "AJ",
+    "arxiv": "1911.09667",
+    "bibcode": "2020AJ....159...31H"
+   },
+   "file": "images/hd-143675/hd-143675_gpi-h-qphi.png",
+   "epoch": "2018-04-08"
+  },
+  {
+   "image_id": "hd-143675_gpi-h-totint",
+   "type": "disk_scattered",
+   "facility": "Gemini-South",
+   "instrument": "GPI",
+   "wavelength_um": 1.65,
+   "wavelength_label": "H (total intensity)",
+   "technique": "ADI (pyKLIP, 5 KL modes)",
+   "survey": "GPIES",
+   "content": "continuum",
+   "credit": "Hom et al. 2020, Total-intensity figure (crop)",
+   "note": "First total-intensity image of the HD 143675 disk (ansae NW/SE) - a genuinely different product from the held polarized-intensity record.",
+   "paper": {
+    "first_author": "Hom",
+    "year": 2020,
+    "title": "First Resolved Scattered-light Images of Four Debris Disks in Scorpius-Centaurus with the Gemini Planet Imager",
+    "journal": "AJ",
+    "arxiv": "1911.09667",
+    "bibcode": "2020AJ....159...31H"
+   },
+   "file": "images/hd-143675/hd-143675_gpi-h-totint.png",
+   "epoch": "2018-04-08"
   }
  ],
  "notes": null,

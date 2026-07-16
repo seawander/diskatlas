@@ -37,6 +37,29 @@
    },
    "file": "images/hd-150193/hd-150193_ciao-fukagawa2003.png",
    "content": "continuum"
+  },
+  {
+   "image_id": "hd-150193_gpi-j-qr",
+   "type": "disk_scattered",
+   "facility": "Gemini-South",
+   "instrument": "GPI",
+   "wavelength_um": 1.24,
+   "wavelength_label": "J (Stokes Q_r)",
+   "technique": "polarimetric differential imaging",
+   "survey": null,
+   "content": "continuum",
+   "credit": "Monnier et al. 2017, Fig. A1 (crop)",
+   "note": "J-band Q_r image (contour-free appendix version): weak tentative scattered-light detection around HD 150193A; SW blob is the companion HD 150193B. Obs 2014 Apr 23+24. New facility+band vs held Subaru CIAO H 2003 record.",
+   "paper": {
+    "first_author": "Monnier",
+    "year": 2017,
+    "title": "Polarized Disk Emission from Herbig Ae/Be Stars Observed Using Gemini Planet Imager: HD 144432, HD 150193, HD 163296, and HD 169142",
+    "journal": "ApJ",
+    "arxiv": "1702.04780",
+    "bibcode": "2017ApJ...838...20M"
+   },
+   "file": "images/hd-150193/hd-150193_gpi-j-qr.png",
+   "epoch": "2014-04"
   }
  ],
  "notes": "Herbig Ae star (~6 Myr) with a T Tauri companion 1.1 arcsec away; the held Subaru/CIAO H-band PSF-subtracted coronagraphic image revealed the circumprimary disk extending from 50 au out to about 190 au, with no circumstellar structure around the companion (Fukagawa et al. 2003).",

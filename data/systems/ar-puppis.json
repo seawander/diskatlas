@@ -45,6 +45,52 @@
    "file": "images/ar-puppis/ar-puppis_zimpol2019.png",
    "epoch": "2016-04-04",
    "content": "continuum"
+  },
+  {
+   "image_id": "ar-puppis_zimpol-v-pi",
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "ZIMPOL",
+   "wavelength_um": 0.554,
+   "wavelength_label": "V (PI)",
+   "technique": "polarimetric differential imaging",
+   "survey": null,
+   "content": "continuum",
+   "credit": "Andrych et al. 2025, AR Pup PI+AoLP figure (crop)",
+   "note": "First polarimetric image of the AR Pup circumbinary disk in V (Ertel 2019, the held record, lacked polarimetry). White AoLP vectors are the paper's own overlay. Epoch from the paper's 'this study = 8th April 2018' comparison figure.",
+   "paper": {
+    "first_author": "Andrych",
+    "year": 2025,
+    "title": "SPHERE/ZIMPOL insights into discs around evolved stars: arcs, asymmetries and dust properties",
+    "journal": "PASA",
+    "arxiv": "2503.23646",
+    "bibcode": "2025PASA...42..125A"
+   },
+   "file": "images/ar-puppis/ar-puppis_zimpol-v-pi.png",
+   "epoch": "2018-04-08"
+  },
+  {
+   "image_id": "ar-puppis_zimpol-i-pi",
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "ZIMPOL",
+   "wavelength_um": 0.817,
+   "wavelength_label": "I' (Cnt820, PI)",
+   "technique": "polarimetric differential imaging",
+   "survey": null,
+   "content": "continuum",
+   "credit": "Andrych et al. 2025, AR Pup PI+AoLP figure (crop)",
+   "note": "I'-band polarized-intensity image with AoLP vectors; new wavelength AND new product vs the held V-band total-intensity record.",
+   "paper": {
+    "first_author": "Andrych",
+    "year": 2025,
+    "title": "SPHERE/ZIMPOL insights into discs around evolved stars: arcs, asymmetries and dust properties",
+    "journal": "PASA",
+    "arxiv": "2503.23646",
+    "bibcode": "2025PASA...42..125A"
+   },
+   "file": "images/ar-puppis/ar-puppis_zimpol-i-pi.png",
+   "epoch": "2018-04-08"
   }
  ],
  "notes": "RV Tauri post-AGB circumbinary disk resolved with VLT/SPHERE ZIMPOL (V,I) and IRDIS (H); Kluska et al. 2019 (arXiv:1901.04109). Distance poorly constrained (~1-6 kpc per van Leeuwen 2007 / Gaia DR2, hence dist_pc left null); comparable systems (IRAS 08544-4431, L2 Pup) suggest ~350-500 pc may be more likely but is not adopted here without a firmer measurement.",

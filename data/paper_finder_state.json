@@ -59974,5 +59974,15 @@
   "status": "ingested",
   "reason": "Zhao 2024 MWC 480 kinematic-planet-signature maps (re-analysis of archival MAPS data): Fig.2 mom0 x3 + Fig.4 v_LOS x3 -> mwc-480.",
   "date": "2026-07-16"
+ },
+ "1994Natur.369..628L": {
+  "status": "deferred",
+  "reason": "Lagage & Pantin 1994 (Nature): first resolved mid-IR image of beta Pic (inner clearing). No arXiv/open source; crop-source rule unmet. Mitigated by Pantin 1997 TIMMI re-observation (ingested 2026-07-16).",
+  "date": "2026-07-16"
+ },
+ "1993Icar..106....2K": {
+  "status": "deferred",
+  "reason": "Koerner 1993 (Icarus): first resolved CO aperture-synthesis imaging of the GM Aur disk. No arXiv/open source; crop-source rule unmet.",
+  "date": "2026-07-16"
  }
 }

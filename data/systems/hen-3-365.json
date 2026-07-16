@@ -36,6 +36,52 @@
    },
    "epoch": "2017-04-06",
    "content": "continuum"
+  },
+  {
+   "image_id": "hen-3-365_amber-h",
+   "type": "disk_scattered",
+   "facility": "VLTI",
+   "instrument": "AMBER",
+   "wavelength_um": 1.65,
+   "wavelength_label": "H",
+   "technique": "interferometric image reconstruction",
+   "survey": null,
+   "content": "continuum",
+   "credit": "Millour et al. 2009, Fig. 3a (crop)",
+   "note": "MIRA aperture-synthesis image of HD 87643: resolved primary envelope (dashed circle) + companion 34 mas NE (arrow). AMBER UT run 2006-02-18 + AT runs 2008-03. First VLTI record for this system.",
+   "paper": {
+    "first_author": "Millour",
+    "year": 2009,
+    "title": "A binary engine fuelling HD 87643's complex circumstellar environment. Determined using AMBER/VLTI imaging",
+    "journal": "A&A",
+    "arxiv": "0908.0227",
+    "bibcode": "2009A&A...507..317M"
+   },
+   "file": "images/hen-3-365/hen-3-365_amber-h.png",
+   "epoch": "2006-2008"
+  },
+  {
+   "image_id": "hen-3-365_amber-k",
+   "type": "disk_scattered",
+   "facility": "VLTI",
+   "instrument": "AMBER",
+   "wavelength_um": 2.2,
+   "wavelength_label": "K",
+   "technique": "interferometric image reconstruction",
+   "survey": null,
+   "content": "continuum",
+   "credit": "Millour et al. 2009, Fig. 3b (crop)",
+   "note": "K-band reconstruction; primary shows resolved extended dusty structure.",
+   "paper": {
+    "first_author": "Millour",
+    "year": 2009,
+    "title": "A binary engine fuelling HD 87643's complex circumstellar environment. Determined using AMBER/VLTI imaging",
+    "journal": "A&A",
+    "arxiv": "0908.0227",
+    "bibcode": "2009A&A...507..317M"
+   },
+   "file": "images/hen-3-365/hen-3-365_amber-k.png",
+   "epoch": "2006-2008"
   }
  ],
  "notes": null,

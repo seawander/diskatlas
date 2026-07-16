@@ -15,7 +15,9 @@
  },
  "sptype": "M5.5",
  "region": "Taurus",
- "categories": [],
+ "categories": [
+  "protoplanetary"
+ ],
  "planets": [
   {
    "name": "C",
@@ -64,6 +66,29 @@
    },
    "epoch": "2008-12-23",
    "content": "continuum"
+  },
+  {
+   "image_id": "fw-tau_alma-co21",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 6, 12CO(2-1)",
+   "wavelength_um": 1300,
+   "wavelength_label": "CO(2-1) mom0 + 1.3mm cont contours",
+   "technique": "interferometric moment map",
+   "survey": null,
+   "content": "line",
+   "credit": "Caceres et al. 2015, Fig. 1 (crop)",
+   "note": "Integrated CO(2-1) (color) with >=5sigma 1.3mm continuum contours at the position of FW Tau C, 2.3\" from the AB pair - the disk around the (sub)stellar tertiary. Complements held Keck K' record. Kraus 2015 (1412.2175) and Wu 2017 (1708.08122) show the same source as contour overlays only.",
+   "paper": {
+    "first_author": "Caceres",
+    "year": 2015,
+    "title": "On the Nature of the Tertiary Companion to FW Tau: ALMA CO Observations and SED Modeling",
+    "journal": "ApJ",
+    "arxiv": "1504.05644",
+    "bibcode": "2015ApJ...806L..22C"
+   },
+   "file": "images/fw-tau/fw-tau_alma-co21.png",
+   "epoch": "2013-12-04"
   }
  ],
  "notes": "The companion originally reported as 'FW Tau b' (Kraus et al. 2014) is now referred to as FW Tau C and has been refuted as a planetary-mass object: ALMA dynamical mass measurements (Wu & Sheehan 2017, arXiv:1708.08122) indicate it is a low-mass star (~0.1 Msun) with an inclined accretion disk, not a planet.",

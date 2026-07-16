@@ -36,6 +36,29 @@
    },
    "epoch": "2018-02-04",
    "content": "continuum"
+  },
+  {
+   "image_id": "hd-111161_gpi-h-qphi",
+   "type": "disk_scattered",
+   "facility": "Gemini-South",
+   "instrument": "GPI",
+   "wavelength_um": 1.65,
+   "wavelength_label": "H (Q_phi)",
+   "technique": "polarimetric differential imaging",
+   "survey": "GPIES",
+   "content": "continuum",
+   "credit": "Hom et al. 2020, Q_phi gallery figure (crop)",
+   "note": "Independent Hom et al. reduction of the GPIES pol data (cross-paper re-reduction, in scope per atlas policy); epoch matches held Esposito 2020 record (same GPIES dataset).",
+   "paper": {
+    "first_author": "Hom",
+    "year": 2020,
+    "title": "First Resolved Scattered-light Images of Four Debris Disks in Scorpius-Centaurus with the Gemini Planet Imager",
+    "journal": "AJ",
+    "arxiv": "1911.09667",
+    "bibcode": "2020AJ....159...31H"
+   },
+   "file": "images/hd-111161/hd-111161_gpi-h-qphi.png",
+   "epoch": "2018-02-04"
   }
  ],
  "notes": null,
