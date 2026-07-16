@@ -854,3 +854,16 @@ typesetting) cannot be met; they join the deferred non-OA classics bucket. Fomal
 already carry modern ALMA + SCUBA-2 SONS imaging, Vega's mm structure is now represented via
 Koerner 2001 + Wilner 2002, and MWC 480 already carries seven MAPS moment-map line records.
 Atlas after: 621 systems / 2857 image records / 752 papers, 0 errors / 0 warnings.
+
+## 2026-07-16 — Zhao 2024 MWC 480 kinematic-signature maps
+
+Ingested Zhao et al. 2024 (RAA 24, 065010): **+6 line records** into `mwc-480` —
+Fig. 2 moment-0 and Fig. 4 fitted line-of-sight velocity maps for 12CO/13CO/C18O (2-1),
+the observational basis of the paper's rotational/radial/vertical flow decomposition
+probing kinematic planet-formation signatures. The data are a re-analysis of archival
+MAPS observations (2018.1.01055.L), so epoch 2018, matching the atlas's existing MAPS
+records (cross-paper re-reductions are in scope by policy). One adjudication: Fig. 2
+panel (b)'s printed sublabel reads "12CO", but the caption, the colorbar scale, and the
+correctly-labelled (b) panels of Figs. 3-4 identify the column as 13CO — recorded as
+13CO with the figure typo noted on the record. Atlas after: 621 systems / 2863 image
+records, 0 errors / 0 warnings.

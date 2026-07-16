@@ -59971,8 +59971,8 @@
   "date": "2026-07-16"
  },
  "2024RAA....24f5010Z": {
-  "status": "deferred",
-  "reason": "Zhao 2024 (RAA) MWC 480 gas-kinematics planet-signature maps; NO arXiv e-print / open author source -> crop-source rule unmet. MWC 480 already carries 7 MAPS moment-map line records (Law/Oberg 2021, 2104.09761).",
+  "status": "ingested",
+  "reason": "Zhao 2024 MWC 480 kinematic-planet-signature maps (re-analysis of archival MAPS data): Fig.2 mom0 x3 + Fig.4 v_LOS x3 -> mwc-480.",
   "date": "2026-07-16"
  }
 }

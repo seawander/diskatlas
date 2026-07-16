@@ -1,6 +1,6 @@
 {
  "_doc": "Per-survey ingestion state. entries/coords/images: done|partial|todo. Update on every ingest.",
- "updated": "2026-07-16: Paper-audit gap fill - classic resolved submm/mm debris-disk discovery images. ADS-verified all 5 flagged papers against source (never memory): eps Eri ring (Greaves 1998, astro-ph/9808224, JCMT/SCUBA 850um, epoch 1997-1998) + Vega OVRO 1.3mm (Koerner 2001, astro-ph/0109424, 1999-2001) + Vega IRAM PdBI 1.3mm (Wilner 2002, astro-ph/0203264, 2001-02-14) INGESTED from authors' astro-ph e-print figures (+3 records). Holland 1998 (Nature, no e-print) and Zhao 2024 (RAA, no e-print) DEFERRED per crop-source rule (paper_finder_state). Atlas: 621 systems / 2857 records / 752 papers, 0 errors/0 warnings.",
+ "updated": "2026-07-16: Zhao 2024 (RAA 24, 065010) MWC 480: Fig.2 mom0 + Fig.4 v_LOS for 12CO/13CO/C18O(2-1) = +6 line records (re-analysis of archival MAPS data, epoch 2018); Fig.2b printed sublabel '12CO' adjudicated as 13CO (figure typo; caption + Figs.3-4 concur). Disposition updated in paper_finder_state. Atlas: 621 systems / 2863 records, 0 errors/0 warnings.",
  "surveys": {
   "DSHARP": {
    "entries": "done",

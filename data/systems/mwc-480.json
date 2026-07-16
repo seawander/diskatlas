@@ -582,6 +582,132 @@
     "bibcode": "2026AJ....171..241M"
    },
    "epoch": "2021-12-10"
+  },
+  {
+   "image_id": "mwc-480_zhao24-12co21-mom0",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 6",
+   "wavelength_um": 1300.4,
+   "wavelength_label": "12CO(2-1) integrated intensity",
+   "technique": "interferometry",
+   "content": "line",
+   "credit": "Zhao et al. 2024, Fig. 2 (crop)",
+   "note": "Moment-0 map from re-analysis of archival MAPS data (2018.1.01055.L), used to probe kinematic planet signatures.",
+   "paper": {
+    "first_author": "Zhao",
+    "year": 2024,
+    "title": "Probing the Kinematic Signatures of Planet Formation in the Gas Disk of MWC 480",
+    "journal": "RAA 24, 065010",
+    "bibcode": "2024RAA....24f5010Z"
+   },
+   "file": "images/mwc-480/mwc-480_zhao24-12co21-mom0.png",
+   "epoch": "2018"
+  },
+  {
+   "image_id": "mwc-480_zhao24-13co21-mom0",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 6",
+   "wavelength_um": 1360.2,
+   "wavelength_label": "13CO(2-1) integrated intensity",
+   "technique": "interferometry",
+   "content": "line",
+   "credit": "Zhao et al. 2024, Fig. 2 (crop)",
+   "note": "Moment-0 map (archival MAPS data). The printed panel sublabel reads '12CO' but the caption, colorbar scale, and the matching panels of Figs. 3-4 identify this column as 13CO (typo in the published figure).",
+   "paper": {
+    "first_author": "Zhao",
+    "year": 2024,
+    "title": "Probing the Kinematic Signatures of Planet Formation in the Gas Disk of MWC 480",
+    "journal": "RAA 24, 065010",
+    "bibcode": "2024RAA....24f5010Z"
+   },
+   "file": "images/mwc-480/mwc-480_zhao24-13co21-mom0.png",
+   "epoch": "2018"
+  },
+  {
+   "image_id": "mwc-480_zhao24-c18o21-mom0",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 6",
+   "wavelength_um": 1365.4,
+   "wavelength_label": "C18O(2-1) integrated intensity",
+   "technique": "interferometry",
+   "content": "line",
+   "credit": "Zhao et al. 2024, Fig. 2 (crop)",
+   "note": "Moment-0 map (archival MAPS data).",
+   "paper": {
+    "first_author": "Zhao",
+    "year": 2024,
+    "title": "Probing the Kinematic Signatures of Planet Formation in the Gas Disk of MWC 480",
+    "journal": "RAA 24, 065010",
+    "bibcode": "2024RAA....24f5010Z"
+   },
+   "file": "images/mwc-480/mwc-480_zhao24-c18o21-mom0.png",
+   "epoch": "2018"
+  },
+  {
+   "image_id": "mwc-480_zhao24-12co21-vlos",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 6",
+   "wavelength_um": 1300.4,
+   "wavelength_label": "12CO(2-1) line-of-sight velocity field",
+   "technique": "interferometry",
+   "content": "line",
+   "credit": "Zhao et al. 2024, Fig. 4 (crop)",
+   "note": "Fitted line-of-sight velocity map; basis of the rotational/radial/vertical flow decomposition probing kinematic planet-formation signatures.",
+   "paper": {
+    "first_author": "Zhao",
+    "year": 2024,
+    "title": "Probing the Kinematic Signatures of Planet Formation in the Gas Disk of MWC 480",
+    "journal": "RAA 24, 065010",
+    "bibcode": "2024RAA....24f5010Z"
+   },
+   "file": "images/mwc-480/mwc-480_zhao24-12co21-vlos.png",
+   "epoch": "2018"
+  },
+  {
+   "image_id": "mwc-480_zhao24-13co21-vlos",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 6",
+   "wavelength_um": 1360.2,
+   "wavelength_label": "13CO(2-1) line-of-sight velocity field",
+   "technique": "interferometry",
+   "content": "line",
+   "credit": "Zhao et al. 2024, Fig. 4 (crop)",
+   "note": "Fitted line-of-sight velocity map (archival MAPS data).",
+   "paper": {
+    "first_author": "Zhao",
+    "year": 2024,
+    "title": "Probing the Kinematic Signatures of Planet Formation in the Gas Disk of MWC 480",
+    "journal": "RAA 24, 065010",
+    "bibcode": "2024RAA....24f5010Z"
+   },
+   "file": "images/mwc-480/mwc-480_zhao24-13co21-vlos.png",
+   "epoch": "2018"
+  },
+  {
+   "image_id": "mwc-480_zhao24-c18o21-vlos",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 6",
+   "wavelength_um": 1365.4,
+   "wavelength_label": "C18O(2-1) line-of-sight velocity field",
+   "technique": "interferometry",
+   "content": "line",
+   "credit": "Zhao et al. 2024, Fig. 4 (crop)",
+   "note": "Fitted line-of-sight velocity map (archival MAPS data).",
+   "paper": {
+    "first_author": "Zhao",
+    "year": 2024,
+    "title": "Probing the Kinematic Signatures of Planet Formation in the Gas Disk of MWC 480",
+    "journal": "RAA 24, 065010",
+    "bibcode": "2024RAA....24f5010Z"
+   },
+   "file": "images/mwc-480/mwc-480_zhao24-c18o21-vlos.png",
+   "epoch": "2018"
   }
  ],
  "notes": null,
