@@ -13028,13 +13028,9 @@
   "reason": "title screen: out of scope (9k-frontier ladder triage)"
  },
  "astro-ph/9808224": {
-  "date": "2026-07-12",
-  "title": "A Dust Ring around epsilon Eridani: Analog to the Young Solar System",
-  "status": "triaged-pass",
-  "reason": "ladder triage passed title+abstract+conclusion; figure-harvest queued/in progress",
-  "targets": [
-   "epsilon Eridani"
-  ]
+  "status": "ingested",
+  "reason": "Greaves 1998 first resolved SCUBA 850um image of the eps Eri debris ring -> hd-22049",
+  "date": "2026-07-16"
  },
  "astro-ph/9809321": {
   "date": "2026-07-12",
@@ -14095,13 +14091,9 @@
   "reason": "title screen: out of scope (9k-frontier ladder triage)"
  },
  "astro-ph/0109424": {
-  "date": "2026-07-12",
-  "title": "Millimeter-Wave Aperture Synthesis Imaging of Vega: Evidence for a Ring Arc at 95 AU",
-  "status": "triaged-pass",
-  "reason": "ladder triage passed title+abstract+conclusion; figure-harvest queued/in progress",
-  "targets": [
-   "Vega"
-  ]
+  "status": "ingested",
+  "reason": "Koerner 2001 OVRO 1.3mm aperture-synthesis image of Vega -> vega",
+  "date": "2026-07-16"
  },
  "astro-ph/0110641": {
   "date": "2026-07-12",
@@ -14842,13 +14834,9 @@
   "reason": "title screen: out of scope (9k-frontier ladder triage)"
  },
  "astro-ph/0203264": {
-  "date": "2026-07-12",
-  "title": "Structure in the Dusty Debris around Vega",
-  "status": "triaged-pass",
-  "reason": "ladder triage passed title+abstract+conclusion; figure-harvest queued/in progress",
-  "targets": [
-   "Vega"
-  ]
+  "status": "ingested",
+  "reason": "Wilner 2002 IRAM PdBI 1.3mm image of Vega debris -> vega",
+  "date": "2026-07-16"
  },
  "astro-ph/0210097": {
   "date": "2026-07-12",
@@ -59976,5 +59964,15 @@
   "targets": [
    "VLA 1623W"
   ]
+ },
+ "1998Natur.392..788H": {
+  "status": "deferred",
+  "reason": "Holland 1998 SCUBA 850um discovery images of Fomalhaut/betaPic/Vega (Nature); NO arXiv e-print or open author source -> crop-source rule (authors' e-print only, not journal typesetting) cannot be met. Vega mm structure now covered via Koerner 2001 + Wilner 2002; Fomalhaut/betaPic already carry modern ALMA + SCUBA-2 SONS.",
+  "date": "2026-07-16"
+ },
+ "2024RAA....24f5010Z": {
+  "status": "deferred",
+  "reason": "Zhao 2024 (RAA) MWC 480 gas-kinematics planet-signature maps; NO arXiv e-print / open author source -> crop-source rule unmet. MWC 480 already carries 7 MAPS moment-map line records (Law/Oberg 2021, 2104.09761).",
+  "date": "2026-07-16"
  }
 }

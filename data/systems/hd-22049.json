@@ -61,6 +61,28 @@
    },
    "epoch": "2012-2015",
    "content": "continuum"
+  },
+  {
+   "image_id": "hd-22049_scuba-850um-greaves98",
+   "type": "disk_mm",
+   "facility": "JCMT",
+   "instrument": "SCUBA",
+   "wavelength_um": 850,
+   "wavelength_label": "850 um (JCMT/SCUBA; first resolved image)",
+   "technique": "other",
+   "content": "continuum",
+   "credit": "Greaves et al. 1998, Fig. 1 (crop)",
+   "note": "First resolved submm image of the epsilon Eridani debris ring; JCMT/SCUBA 850 um jiggle-map, obtained Aug 1997-Feb 1998.",
+   "paper": {
+    "first_author": "Greaves",
+    "year": 1998,
+    "title": "A Dust Ring around epsilon Eridani: Analog to the Young Solar System",
+    "journal": "ApJL",
+    "arxiv": "astro-ph/9808224",
+    "bibcode": "1998ApJ...506L.133G"
+   },
+   "epoch": "1997-1998",
+   "file": "images/hd-22049/hd-22049_scuba-850um-greaves98.png"
   }
  ],
  "notes": "Epsilon Eridani's debris disk is resolved at mm wavelengths (Matrà+2025); scattered-light searches are non-detections -- HST/STIS deepest limits (arXiv 2408.06973) and SPHERE polarimetric monitoring both fail to recover it (swept 2026-07).",

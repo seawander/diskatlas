@@ -828,3 +828,29 @@ in the survey data, the CO is a formal non-detection, or only outflow/envelope-s
 channel-map/PV products exist (no clean resolved-disk moment map). Combined with batch 1,
 the moment-map completeness pass added 125 line records across 71 systems. Atlas after:
 **621 systems / 2854 image records / 749 papers**, 0 validate errors, 0 health findings.
+
+## 2026-07-16 — Classic resolved submm/mm debris-disk discovery images (paper-audit gap fill)
+
+A paper audit flagged that the first-generation resolved submm/mm images of nearby
+debris disks were missing from the atlas. Each candidate was ADS-verified against its
+source (bibcode, authorship, and — decisively — whether an authors' e-print exists),
+never from memory:
+
+- **eps Eri** — Greaves et al. 1998 (ApJL 506, L133; astro-ph/9808224): the discovery
+  JCMT/SCUBA 850 um image of the epsilon Eridani dust ring. Author e-print carries
+  `fig1.eps`; cropped and rotated upright. Obs Aug 1997-Feb 1998 -> epoch 1997-1998.
+- **Vega** — Koerner et al. 2001 (ApJL 560, L181; astro-ph/0109424): first mm-wave
+  aperture-synthesis image (OVRO Millimeter Array, 3", ring arc at ~95 au). Cropped the
+  "1.3 mm Continuum" panel of `f1.eps`. Obs fall 1999-spring 2001 -> epoch 1999-2001.
+- **Vega** — Wilner et al. 2002 (ApJL 569, L115; astro-ph/0203264): IRAM PdBI 1.3 mm
+  image resolving two dust concentrations. Cropped the 3-panel observed strip `f1.eps`
+  (the `f2/f3` model images were excluded). Obs 2001 Feb 14/18, Mar 18/27 -> epoch 2001-02-14.
+
+**Deferred** (recorded in `data/paper_finder_state.json`): Holland et al. 1998 (Nature 392,
+788 — the SCUBA 850 um discovery images of Fomalhaut / beta Pic / Vega) and Zhao et al. 2024
+(RAA 24, 065010 — MWC 480 gas-kinematics planet-signature maps). Neither has an arXiv/open
+author e-print, so the atlas crop-source rule (authors' e-print figures, never journal
+typesetting) cannot be met; they join the deferred non-OA classics bucket. Fomalhaut/beta Pic
+already carry modern ALMA + SCUBA-2 SONS imaging, Vega's mm structure is now represented via
+Koerner 2001 + Wilner 2002, and MWC 480 already carries seven MAPS moment-map line records.
+Atlas after: 621 systems / 2857 image records / 752 papers, 0 errors / 0 warnings.
