@@ -101,6 +101,29 @@
    },
    "epoch": "2009",
    "content": "continuum"
+  },
+  {
+   "image_id": "sr-4_sphere-h-qphi",
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS",
+   "wavelength_um": 1.62,
+   "wavelength_label": "H band 1.6 um (Qphi pol. intensity)",
+   "technique": "PDI",
+   "survey": "DARTTS-S",
+   "content": "continuum",
+   "credit": "Garufi et al. 2020, Fig. 1 (crop)",
+   "note": "EM* SR4; bright component near coronagraph + fainter SW exterior emission to ~0.5\" (~70 au); mm ring spatially matches the bright core. Atlas sr-4 is mm-only",
+   "paper": {
+    "first_author": "Garufi",
+    "year": 2020,
+    "title": "Disks Around T Tauri Stars with SPHERE (DARTTS-S). II. Twenty-one new polarimetric images of young stellar disks",
+    "journal": "A&A",
+    "arxiv": "1911.10853",
+    "bibcode": "2020A&A...633A..82G"
+   },
+   "file": "images/sr-4/sr-4_sphere-h-qphi.png",
+   "epoch": "2017-03-12"
   }
  ],
  "notes": null,

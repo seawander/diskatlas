@@ -412,6 +412,29 @@
     "bibcode": "2014ApJ...787..148A"
    },
    "epoch": "2008-01"
+  },
+  {
+   "image_id": "gg-tau_hiciao-h-pi",
+   "type": "disk_scattered",
+   "facility": "Subaru-HiCIAO",
+   "instrument": "HiCIAO",
+   "wavelength_um": 1.65,
+   "wavelength_label": "H band 1.65 um (polarized intensity, qPDI no mask)",
+   "technique": "PDI",
+   "survey": "SEEDS",
+   "content": "continuum",
+   "credit": "Yang et al. 2017, Fig. 1a (crop)",
+   "note": "Circumbinary ring + inner-region structures around GG Tau Aa/Ab resolved without occulting mask; atlas gg-tau has no Subaru/HiCIAO record",
+   "paper": {
+    "first_author": "Yang",
+    "year": 2017,
+    "title": "Near-infrared Imaging Polarimetry of Inner Region of GG Tau A Disk",
+    "journal": "AJ",
+    "arxiv": "1610.09134",
+    "bibcode": "2017AJ....153....7Y"
+   },
+   "file": "images/gg-tau/gg-tau_hiciao-h-pi.png",
+   "epoch": "2015-01-08"
   }
  ],
  "notes": null,

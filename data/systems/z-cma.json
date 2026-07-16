@@ -156,6 +156,75 @@
    "file": "images/z-cma/z-cma_so-mom0.png",
    "epoch": "2016-10-21",
    "content": "line"
+  },
+  {
+   "image_id": "z-cma_naco-ks-qphi",
+   "type": "disk_scattered",
+   "facility": "VLT-NACO",
+   "instrument": "NACO",
+   "wavelength_um": 2.18,
+   "wavelength_label": "Ks band 2.18 um (Qphi pol. intensity)",
+   "technique": "PDI",
+   "survey": "NACO-PIPPIN",
+   "content": "continuum",
+   "credit": "de Regt et al. 2024, Fig. 6 (crop)",
+   "note": "Dong 2022 ejected streamer visible in Ks Qphi; z-cma holds SPHERE/HiCIAO/Keck records but no NACO record (new instrument)",
+   "paper": {
+    "first_author": "de Regt",
+    "year": 2024,
+    "title": "Polarimetric differential imaging with VLT/NACO. A comprehensive PDI pipeline for NACO data (PIPPIN)",
+    "journal": "A&A",
+    "arxiv": "2404.02222",
+    "bibcode": "2024A&A...684A..73D"
+   },
+   "file": "images/z-cma/z-cma_naco-ks-qphi.png",
+   "epoch": "2015-01-18"
+  },
+  {
+   "image_id": "z-cma_hiciao-j-pi",
+   "type": "disk_scattered",
+   "facility": "Subaru-HiCIAO",
+   "instrument": "HiCIAO",
+   "wavelength_um": 1.25,
+   "wavelength_label": "J band 1.25 um (halo-corrected polarized intensity)",
+   "technique": "PDI",
+   "survey": "SEEDS",
+   "content": "continuum",
+   "credit": "Takami et al. 2018, Fig. 5 (crop)",
+   "note": "SE streamer/tail (feature B) in J band; atlas z-cma holds HiCIAO H (Dong 2022) but no J or K band",
+   "paper": {
+    "first_author": "Takami",
+    "year": 2018,
+    "title": "Near-infrared High-resolution Imaging Polarimetry of FU Ori-type Objects: Toward a Unified Scheme for Low-mass Protostellar Evolution",
+    "journal": "ApJ",
+    "arxiv": "1807.03499",
+    "bibcode": "2018ApJ...864...20T"
+   },
+   "file": "images/z-cma/z-cma_hiciao-j-pi.png",
+   "epoch": "2014-10-06"
+  },
+  {
+   "image_id": "z-cma_hiciao-k-pi",
+   "type": "disk_scattered",
+   "facility": "Subaru-HiCIAO",
+   "instrument": "HiCIAO",
+   "wavelength_um": 2.2,
+   "wavelength_label": "K band 2.2 um (halo-corrected polarized intensity)",
+   "technique": "PDI",
+   "survey": "SEEDS",
+   "content": "continuum",
+   "credit": "Takami et al. 2018, Fig. 5 (crop)",
+   "note": "Same streamer in K band",
+   "paper": {
+    "first_author": "Takami",
+    "year": 2018,
+    "title": "Near-infrared High-resolution Imaging Polarimetry of FU Ori-type Objects: Toward a Unified Scheme for Low-mass Protostellar Evolution",
+    "journal": "ApJ",
+    "arxiv": "1807.03499",
+    "bibcode": "2018ApJ...864...20T"
+   },
+   "file": "images/z-cma/z-cma_hiciao-k-pi.png",
+   "epoch": "2014-10-06"
   }
  ],
  "notes": "Triple system: FUor-like SE component + Herbig Be (EXor) N component, plus a third point source ~0.7 arcsec NE confirmed comoving via Keck/NIRC2 astrometry (Zurlo et al. 2024). A ~6000 au streamer/outflow to the SW, previously interpreted as a flyby signature (Dong et al. 2022), is argued by Zurlo et al. 2024 to be part of a larger outflow rather than a tidal streamer.",

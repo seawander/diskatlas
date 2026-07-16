@@ -1,0 +1,44 @@
+{
+ "id": "v1057-cyg",
+ "name": "V1057 Cyg",
+ "alt_names": [
+  "LkHalpha 190"
+ ],
+ "simbad": "V1057 Cyg",
+ "ra_deg": 314.72388973,
+ "dec_deg": 44.25788576,
+ "dist_pc": null,
+ "sptype": "F7/G3I/IIe",
+ "region": null,
+ "categories": [
+  "protoplanetary"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "image_id": "v1057-cyg_hiciao-h-pi",
+   "type": "disk_scattered",
+   "facility": "Subaru-HiCIAO",
+   "instrument": "HiCIAO",
+   "wavelength_um": 1.65,
+   "wavelength_label": "H band 1.65 um (halo-corrected polarized intensity)",
+   "technique": "PDI",
+   "survey": "SEEDS",
+   "content": "continuum",
+   "credit": "Takami et al. 2018, Fig. 3 (crop)",
+   "note": "FUor; scattered-light envelope with arc B and southern spike A attributed to gravitationally unstable disk / clump ejection trails",
+   "paper": {
+    "first_author": "Takami",
+    "year": 2018,
+    "title": "Near-infrared High-resolution Imaging Polarimetry of FU Ori-type Objects: Toward a Unified Scheme for Low-mass Protostellar Evolution",
+    "journal": "ApJ",
+    "arxiv": "1807.03499",
+    "bibcode": "2018ApJ...864...20T"
+   },
+   "file": "images/v1057-cyg/v1057-cyg_hiciao-h-pi.png",
+   "epoch": "2014-10-05"
+  }
+ ],
+ "notes": "Classical FU Orionis object; scattered-light envelope with arcs resolved by Subaru/HiCIAO polarimetry (SEEDS; Takami et al. 2018).",
+ "last_updated": "2026-07-16"
+}

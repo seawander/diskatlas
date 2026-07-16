@@ -1,0 +1,42 @@
+{
+ "id": "doar-21",
+ "name": "DoAr 21",
+ "alt_names": [],
+ "simbad": "DoAr 21",
+ "ra_deg": 246.51261529,
+ "dec_deg": -24.39338559,
+ "dist_pc": null,
+ "sptype": "K0",
+ "region": null,
+ "categories": [
+  "protoplanetary"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "image_id": "doar-21_sphere-h-qphi",
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS",
+   "wavelength_um": 1.62,
+   "wavelength_label": "H band 1.6 um (Qphi pol. intensity)",
+   "technique": "PDI",
+   "survey": "DARTTS-S",
+   "content": "continuum",
+   "credit": "Garufi et al. 2020, Fig. 1 (crop)",
+   "note": "Marginal disk just outside coronagraph + bright SE filament proceeding counterclockwise to a northern knot; no mm counterpart (Cieza 2019 non-detection) - scattered light only",
+   "paper": {
+    "first_author": "Garufi",
+    "year": 2020,
+    "title": "Disks Around T Tauri Stars with SPHERE (DARTTS-S). II. Twenty-one new polarimetric images of young stellar disks",
+    "journal": "A&A",
+    "arxiv": "1911.10853",
+    "bibcode": "2020A&A...633A..82G"
+   },
+   "file": "images/doar-21/doar-21_sphere-h-qphi.png",
+   "epoch": "2017-03-11"
+  }
+ ],
+ "notes": "Weak-lined T Tauri star in Ophiuchus; scattered-light disk + filament detected in DARTTS-S II (Garufi et al. 2020); no mm counterpart (ODISEA non-detection).",
+ "last_updated": "2026-07-16"
+}

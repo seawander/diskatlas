@@ -39,6 +39,29 @@
     "bibcode": "2008MNRAS.384..907B"
    },
    "epoch": "1999-04-28"
+  },
+  {
+   "image_id": "elias-29_naco-ks-pol",
+   "type": "disk_scattered",
+   "facility": "VLT-NACO",
+   "instrument": "NACO",
+   "wavelength_um": 2.18,
+   "wavelength_label": "Ks band 2.18 um (polarised intensity, rotator-flange extended product)",
+   "technique": "PDI",
+   "survey": "NACO-PIPPIN",
+   "content": "continuum",
+   "credit": "de Regt et al. 2024, Fig. 6 (crop)",
+   "note": "Elia 2-29 Class I; three arcs E/N/NW, N+NW arcs spiral-like (cf. Huelamo 2007); atlas holds only UKIRT IRPOL K pol - NACO is a new instrument",
+   "paper": {
+    "first_author": "de Regt",
+    "year": 2024,
+    "title": "Polarimetric differential imaging with VLT/NACO. A comprehensive PDI pipeline for NACO data (PIPPIN)",
+    "journal": "A&A",
+    "arxiv": "2404.02222",
+    "bibcode": "2024A&A...684A..73D"
+   },
+   "file": "images/elias-29/elias-29_naco-ks-pol.png",
+   "epoch": "2004-04-01"
   }
  ],
  "notes": "Luminous Class I protostar in rho Oph; first high-resolution linear polarimetry shows extended SW nebulosity and a polarization disc (Beckford et al. 2008).",

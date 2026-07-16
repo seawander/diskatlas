@@ -1,0 +1,42 @@
+{
+ "id": "mon-r2-irs3",
+ "name": "Mon R2 IRS 3",
+ "alt_names": [],
+ "simbad": "NAME Mon R2 IRS 3",
+ "ra_deg": 91.94916667,
+ "dec_deg": -6.38194444,
+ "dist_pc": null,
+ "sptype": null,
+ "region": null,
+ "categories": [
+  "protoplanetary"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "image_id": "mon-r2-irs3_naco-ks-iq",
+   "type": "disk_scattered",
+   "facility": "VLT-NACO",
+   "instrument": "NACO",
+   "wavelength_um": 2.18,
+   "wavelength_label": "Ks band 2.18 um (median I_Q, wire-grid; Stokes U not observed)",
+   "technique": "PDI",
+   "survey": "NACO-PIPPIN",
+   "content": "continuum",
+   "credit": "de Regt et al. 2024, Fig. 6 (crop)",
+   "note": "Massive YSO in Mon R2; filamentary scattered-light structure unambiguously detected; image includes unpolarised scattered light (I_Q only)",
+   "paper": {
+    "first_author": "de Regt",
+    "year": 2024,
+    "title": "Polarimetric differential imaging with VLT/NACO. A comprehensive PDI pipeline for NACO data (PIPPIN)",
+    "journal": "A&A",
+    "arxiv": "2404.02222",
+    "bibcode": "2024A&A...684A..73D"
+   },
+   "file": "images/mon-r2-irs3/mon-r2-irs3_naco-ks-iq.png",
+   "epoch": "2006-12-21"
+  }
+ ],
+ "notes": "Massive embedded YSO in Mon R2; filamentary scattered-light structure resolved with VLT/NACO Ks polarimetry (PIPPIN; de Regt et al. 2024).",
+ "last_updated": "2026-07-16"
+}

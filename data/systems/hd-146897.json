@@ -198,7 +198,7 @@
    "wavelength_um": 1.6,
    "wavelength_label": "H band 1.6 um (total intensity, pyKLIP-ADI)",
    "technique": "ADI",
-   "survey": null,
+   "survey": "GPI-Hom2024",
    "file": "images/hd-146897/hd-146897_gpi-h-i-hom24.png",
    "credit": "Hom et al. 2024, Fig. 5 (crop)",
    "note": "",
@@ -212,6 +212,52 @@
    },
    "epoch": "2018-08-15",
    "content": "continuum"
+  },
+  {
+   "image_id": "hd-146897_gpi-j-pol",
+   "type": "disk_scattered",
+   "facility": "Gemini-GPI",
+   "instrument": "GPI",
+   "wavelength_um": 1.24,
+   "wavelength_label": "J band 1.24 um (pol. intensity)",
+   "technique": "PDI",
+   "survey": "GPI-Crotts2024",
+   "content": "continuum",
+   "credit": "Crotts et al. 2024, Fig. 1 (crop)",
+   "note": "HIP 79977 edge-on disk, J pol",
+   "paper": {
+    "first_author": "Crotts",
+    "year": 2024,
+    "title": "A Uniform Analysis of Debris Disks with the Gemini Planet Imager. I. An Empirical Search for Perturbations from Planetary Companions in Polarized Light Images",
+    "journal": "ApJ",
+    "arxiv": "2311.14599",
+    "bibcode": "2024ApJ...961..245C"
+   },
+   "file": "images/hd-146897/hd-146897_gpi-j-pol.png",
+   "epoch": "2016-03-27"
+  },
+  {
+   "image_id": "hd-146897_gpi-k1-pol",
+   "type": "disk_scattered",
+   "facility": "Gemini-GPI",
+   "instrument": "GPI",
+   "wavelength_um": 2.05,
+   "wavelength_label": "K1 band 2.05 um (pol. intensity)",
+   "technique": "PDI",
+   "survey": "GPI-Crotts2024",
+   "content": "continuum",
+   "credit": "Crotts et al. 2024, Fig. 1 (crop)",
+   "note": "K1 pol",
+   "paper": {
+    "first_author": "Crotts",
+    "year": 2024,
+    "title": "A Uniform Analysis of Debris Disks with the Gemini Planet Imager. I. An Empirical Search for Perturbations from Planetary Companions in Polarized Light Images",
+    "journal": "ApJ",
+    "arxiv": "2311.14599",
+    "bibcode": "2024ApJ...961..245C"
+   },
+   "file": "images/hd-146897/hd-146897_gpi-k1-pol.png",
+   "epoch": "2018-07-09"
   }
  ],
  "notes": "Merged duplicate system hip-79977 (HIP 79977 == HD 146897) on 2026-07-06.",

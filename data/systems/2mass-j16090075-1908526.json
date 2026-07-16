@@ -135,6 +135,29 @@
     "bibcode": "2025ApJ...989....4A"
    },
    "epoch": "2016-03"
+  },
+  {
+   "image_id": "2mass-j16090075-1908526_sphere-h-qphi",
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS",
+   "wavelength_um": 1.62,
+   "wavelength_label": "H band 1.6 um (Qphi pol. intensity)",
+   "technique": "PDI",
+   "survey": "DARTTS-S",
+   "content": "continuum",
+   "credit": "Garufi et al. 2020, Fig. 1 (crop)",
+   "note": "J1609-1908; smaller analog of V1094 Sco, detected out to 0.6\" (~85 au); atlas system holds only ALMA/AGE-PRO records",
+   "paper": {
+    "first_author": "Garufi",
+    "year": 2020,
+    "title": "Disks Around T Tauri Stars with SPHERE (DARTTS-S). II. Twenty-one new polarimetric images of young stellar disks",
+    "journal": "A&A",
+    "arxiv": "1911.10853",
+    "bibcode": "2020A&A...633A..82G"
+   },
+   "file": "images/2mass-j16090075-1908526/2mass-j16090075-1908526_sphere-h-qphi.png",
+   "epoch": "2017-03-07"
   }
  ],
  "notes": "AGE-PRO Upper Scorpius 10. Substructured disk with shoulder at 20-35 au that resolves into a faint ring at high angular resolution (Vioque et al. 2025).",

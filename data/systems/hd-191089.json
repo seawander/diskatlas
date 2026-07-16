@@ -301,6 +301,29 @@
    },
    "epoch": "2012-2015",
    "content": "continuum"
+  },
+  {
+   "image_id": "hd-191089_gpi-j-pol",
+   "type": "disk_scattered",
+   "facility": "Gemini-GPI",
+   "instrument": "GPI",
+   "wavelength_um": 1.24,
+   "wavelength_label": "J band 1.24 um (pol. intensity)",
+   "technique": "PDI",
+   "survey": "GPI-Crotts2024",
+   "content": "continuum",
+   "credit": "Crotts et al. 2024, Fig. 1 (crop)",
+   "note": "Ring, J pol (no K1 obs for this target)",
+   "paper": {
+    "first_author": "Crotts",
+    "year": 2024,
+    "title": "A Uniform Analysis of Debris Disks with the Gemini Planet Imager. I. An Empirical Search for Perturbations from Planetary Companions in Polarized Light Images",
+    "journal": "ApJ",
+    "arxiv": "2311.14599",
+    "bibcode": "2024ApJ...961..245C"
+   },
+   "file": "images/hd-191089/hd-191089_gpi-j-pol.png",
+   "epoch": "2017-07-01"
   }
  ],
  "notes": null,

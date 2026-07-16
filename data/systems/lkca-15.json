@@ -602,6 +602,29 @@
     "bibcode": "2023ApJ...953...55S"
    },
    "epoch": "2020-01"
+  },
+  {
+   "image_id": "lkca-15_hiciao-h-pisub",
+   "type": "disk_scattered",
+   "facility": "Subaru-HiCIAO",
+   "instrument": "HiCIAO",
+   "wavelength_um": 1.65,
+   "wavelength_label": "H band 1.65 um (halo-subtracted polarized intensity)",
+   "technique": "PDI",
+   "survey": "SEEDS",
+   "content": "continuum",
+   "credit": "Oh et al. 2016, Fig. 1b (crop)",
+   "note": "Gap at ~48 au + warped misaligned inner disk (PA offset 13 deg); atlas lkca-15 holds HiCIAO only as 2009 ADI (Thalmann 2010), no SEEDS PDI record",
+   "paper": {
+    "first_author": "Oh",
+    "year": 2016,
+    "title": "Near-infrared imaging polarimetry of LkCa 15: A possible warped inner disk†",
+    "journal": "PASJ",
+    "arxiv": "1601.00742",
+    "bibcode": "2016PASJ...68L...3O"
+   },
+   "file": "images/lkca-15/lkca-15_hiciao-h-pisub.png",
+   "epoch": "2013-11-22"
   }
  ],
  "notes": null,

@@ -1,0 +1,44 @@
+{
+ "id": "r-cra",
+ "name": "R CrA",
+ "alt_names": [
+  "R Coronae Australis"
+ ],
+ "simbad": "V* R CrA",
+ "ra_deg": 285.4736518,
+ "dec_deg": -36.95230537,
+ "dist_pc": null,
+ "sptype": "B5IIIpe",
+ "region": null,
+ "categories": [
+  "protoplanetary"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "image_id": "r-cra_naco-h-qphi",
+   "type": "disk_scattered",
+   "facility": "VLT-NACO",
+   "instrument": "NACO",
+   "wavelength_um": 1.66,
+   "wavelength_label": "H band 1.66 um (Qphi pol. intensity)",
+   "technique": "PDI",
+   "survey": "NACO-PIPPIN",
+   "content": "continuum",
+   "credit": "de Regt et al. 2024, Fig. 6 (crop)",
+   "note": "First publication of NACO polarised light detection of R CrA; scattered light NE/SE/SW resembling Mesa 2019 SPHERE total intensity. Atlas has R CrA cloud members (IRS7B etc.) but not R CrA itself",
+   "paper": {
+    "first_author": "de Regt",
+    "year": 2024,
+    "title": "Polarimetric differential imaging with VLT/NACO. A comprehensive PDI pipeline for NACO data (PIPPIN)",
+    "journal": "A&A",
+    "arxiv": "2404.02222",
+    "bibcode": "2024A&A...684A..73D"
+   },
+   "file": "images/r-cra/r-cra_naco-h-qphi.png",
+   "epoch": "2012-07-18"
+  }
+ ],
+ "notes": "Herbig Ae/Be star illuminating the Coronet region; polarised scattered light resolved with VLT/NACO (PIPPIN; de Regt et al. 2024).",
+ "last_updated": "2026-07-16"
+}

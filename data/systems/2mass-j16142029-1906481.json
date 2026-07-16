@@ -1,0 +1,44 @@
+{
+ "id": "2mass-j16142029-1906481",
+ "name": "J1614-1906",
+ "alt_names": [
+  "2MASS J16142029-1906481"
+ ],
+ "simbad": "2MASS J16142029-1906481",
+ "ra_deg": 243.58453317,
+ "dec_deg": -19.11335122,
+ "dist_pc": null,
+ "sptype": "K5e",
+ "region": null,
+ "categories": [
+  "protoplanetary"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "image_id": "2mass-j16142029-1906481_sphere-h-qphi",
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS",
+   "wavelength_um": 1.62,
+   "wavelength_label": "H band 1.6 um (Qphi pol. intensity)",
+   "technique": "PDI",
+   "survey": "DARTTS-S",
+   "content": "continuum",
+   "credit": "Garufi et al. 2020, Fig. 1 (crop)",
+   "note": "J1614-1906; strong signal on western side only, disk geometry interpretation uncertain but counted among the 11 unambiguous detections",
+   "paper": {
+    "first_author": "Garufi",
+    "year": 2020,
+    "title": "Disks Around T Tauri Stars with SPHERE (DARTTS-S). II. Twenty-one new polarimetric images of young stellar disks",
+    "journal": "A&A",
+    "arxiv": "1911.10853",
+    "bibcode": "2020A&A...633A..82G"
+   },
+   "file": "images/2mass-j16142029-1906481/2mass-j16142029-1906481_sphere-h-qphi.png",
+   "epoch": "2017-03-13"
+  }
+ ],
+ "notes": "Upper Sco T Tauri disk detected in scattered light by DARTTS-S II (Garufi et al. 2020).",
+ "last_updated": "2026-07-16"
+}

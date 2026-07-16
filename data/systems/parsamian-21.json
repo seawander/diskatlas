@@ -1,0 +1,42 @@
+{
+ "id": "parsamian-21",
+ "name": "Parsamian 21",
+ "alt_names": [],
+ "simbad": "Parsamian 21",
+ "ra_deg": 292.25364198,
+ "dec_deg": 9.64523951,
+ "dist_pc": null,
+ "sptype": "F5Iabe",
+ "region": null,
+ "categories": [
+  "protoplanetary"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "image_id": "parsamian-21_naco-h-pol",
+   "type": "disk_scattered",
+   "facility": "VLT-NACO",
+   "instrument": "NACO",
+   "wavelength_um": 1.66,
+   "wavelength_label": "H band 1.66 um (polarised intensity, rotator-flange extended product)",
+   "technique": "PDI",
+   "survey": "NACO-PIPPIN",
+   "content": "continuum",
+   "credit": "de Regt et al. 2024, Fig. 6 (crop)",
+   "note": "FUor with asymmetric bipolar outflow nebula along NW-SE; cf. Kospal 2008; embedded YSO inaccessible to SPHERE-class AO",
+   "paper": {
+    "first_author": "de Regt",
+    "year": 2024,
+    "title": "Polarimetric differential imaging with VLT/NACO. A comprehensive PDI pipeline for NACO data (PIPPIN)",
+    "journal": "A&A",
+    "arxiv": "2404.02222",
+    "bibcode": "2024A&A...684A..73D"
+   },
+   "file": "images/parsamian-21/parsamian-21_naco-h-pol.png",
+   "epoch": "2004-06-17"
+  }
+ ],
+ "notes": "FU Orionis object with an asymmetric bipolar polarised nebula resolved with VLT/NACO (PIPPIN; de Regt et al. 2024).",
+ "last_updated": "2026-07-16"
+}

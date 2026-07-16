@@ -1,0 +1,65 @@
+{
+ "id": "v1735-cyg",
+ "name": "V1735 Cyg",
+ "alt_names": [],
+ "simbad": "V* V1735 Cyg",
+ "ra_deg": 326.83609517,
+ "dec_deg": 47.53440485,
+ "dist_pc": null,
+ "sptype": null,
+ "region": null,
+ "categories": [
+  "protoplanetary"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "image_id": "v1735-cyg_hiciao-h-pi",
+   "type": "disk_scattered",
+   "facility": "Subaru-HiCIAO",
+   "instrument": "HiCIAO",
+   "wavelength_um": 1.65,
+   "wavelength_label": "H band 1.65 um (halo-corrected polarized intensity)",
+   "technique": "PDI",
+   "survey": "SEEDS",
+   "content": "continuum",
+   "credit": "Takami et al. 2018, Fig. 4 (crop)",
+   "note": "FUor; bright asymmetric scattered light (features A, B) around outbursting star",
+   "paper": {
+    "first_author": "Takami",
+    "year": 2018,
+    "title": "Near-infrared High-resolution Imaging Polarimetry of FU Ori-type Objects: Toward a Unified Scheme for Low-mass Protostellar Evolution",
+    "journal": "ApJ",
+    "arxiv": "1807.03499",
+    "bibcode": "2018ApJ...864...20T"
+   },
+   "file": "images/v1735-cyg/v1735-cyg_hiciao-h-pi.png",
+   "epoch": "2014-10-06"
+  },
+  {
+   "image_id": "v1735-cyg_hiciao-k-pi",
+   "type": "disk_scattered",
+   "facility": "Subaru-HiCIAO",
+   "instrument": "HiCIAO",
+   "wavelength_um": 2.2,
+   "wavelength_label": "K band 2.2 um (halo-corrected polarized intensity)",
+   "technique": "PDI",
+   "survey": "SEEDS",
+   "content": "continuum",
+   "credit": "Takami et al. 2018, Fig. 4 (crop)",
+   "note": "K-band PI of the same envelope (second band record)",
+   "paper": {
+    "first_author": "Takami",
+    "year": 2018,
+    "title": "Near-infrared High-resolution Imaging Polarimetry of FU Ori-type Objects: Toward a Unified Scheme for Low-mass Protostellar Evolution",
+    "journal": "ApJ",
+    "arxiv": "1807.03499",
+    "bibcode": "2018ApJ...864...20T"
+   },
+   "file": "images/v1735-cyg/v1735-cyg_hiciao-k-pi.png",
+   "epoch": "2014-10-06"
+  }
+ ],
+ "notes": "Classical FU Orionis object; asymmetric polarised scattered light resolved by Subaru/HiCIAO (SEEDS; Takami et al. 2018).",
+ "last_updated": "2026-07-16"
+}

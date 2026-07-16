@@ -128,6 +128,29 @@
    "file": "images/v1094-sco/v1094-sco_12co21-mom1.png",
    "epoch": "2021-12-01",
    "content": "line"
+  },
+  {
+   "image_id": "v1094-sco_sphere-h-qphi",
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS",
+   "wavelength_um": 1.62,
+   "wavelength_label": "H band 1.6 um (Qphi pol. intensity)",
+   "technique": "PDI",
+   "survey": "DARTTS-S",
+   "content": "continuum",
+   "credit": "Garufi et al. 2020, Fig. 1 (crop)",
+   "note": "Second most prominent DARTTS-S II detection: bright inner core to 0.45\" plus shallow exterior emission out to 1.8\" (~270 au); system exists in atlas with ALMA-only records",
+   "paper": {
+    "first_author": "Garufi",
+    "year": 2020,
+    "title": "Disks Around T Tauri Stars with SPHERE (DARTTS-S). II. Twenty-one new polarimetric images of young stellar disks",
+    "journal": "A&A",
+    "arxiv": "1911.10853",
+    "bibcode": "2020A&A...633A..82G"
+   },
+   "file": "images/v1094-sco/v1094-sco_sphere-h-qphi.png",
+   "epoch": "2017-03-12"
   }
  ],
  "notes": "AUTO-CREATED from staging - fill metadata & coords Added 2026-07-08 (AGE-PRO ALMA, Vioque+2025 resolved).",

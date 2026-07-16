@@ -90,6 +90,29 @@
    "file": "images/sz-65/sz-65_12co21-mom0.png",
    "epoch": "2018-08",
    "content": "line"
+  },
+  {
+   "image_id": "sz-65_sphere-h-qphi",
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS",
+   "wavelength_um": 1.62,
+   "wavelength_label": "H band 1.6 um (Qphi pol. intensity)",
+   "technique": "PDI",
+   "survey": "DARTTS-S",
+   "content": "continuum",
+   "credit": "Garufi et al. 2020, Fig. 1 (crop)",
+   "note": "IK Lup panel; mildly inclined disk (i>45 deg, PA 115 deg, ~55 au) with dark lane + half-moon geometry like DoAr 25; atlas sz-65 holds only ALMA records",
+   "paper": {
+    "first_author": "Garufi",
+    "year": 2020,
+    "title": "Disks Around T Tauri Stars with SPHERE (DARTTS-S). II. Twenty-one new polarimetric images of young stellar disks",
+    "journal": "A&A",
+    "arxiv": "1911.10853",
+    "bibcode": "2020A&A...633A..82G"
+   },
+   "file": "images/sz-65/sz-65_sphere-h-qphi.png",
+   "epoch": "2017-03-07"
   }
  ],
  "notes": "AGE-PRO Lupus 1. Smooth compact disk at AGE-PRO resolution; slightly structured at higher resolution (Miley et al. 2024). Wide binary with Sz 66 (Vioque et al. 2025).",

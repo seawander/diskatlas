@@ -61,6 +61,29 @@
     "bibcode": "2019ApJS..245....2S"
    },
    "epoch": "2017"
+  },
+  {
+   "image_id": "gss30-irs1_naco-ks-pol",
+   "type": "disk_scattered",
+   "facility": "VLT-NACO",
+   "instrument": "NACO",
+   "wavelength_um": 2.18,
+   "wavelength_label": "Ks band 2.18 um (polarised intensity, rotator-flange extended product)",
+   "technique": "PDI",
+   "survey": "NACO-PIPPIN",
+   "content": "continuum",
+   "credit": "de Regt et al. 2024, Fig. 6 (crop)",
+   "note": "Elia 2-21 Class I, first publication of NACO pol detection; asymmetric bipolar outflow along NE-SW; also detected in L' (unique NACO capability, see notes)",
+   "paper": {
+    "first_author": "de Regt",
+    "year": 2024,
+    "title": "Polarimetric differential imaging with VLT/NACO. A comprehensive PDI pipeline for NACO data (PIPPIN)",
+    "journal": "A&A",
+    "arxiv": "2404.02222",
+    "bibcode": "2024A&A...684A..73D"
+   },
+   "file": "images/gss30-irs1/gss30-irs1_naco-ks-pol.png",
+   "epoch": "2004-04-02"
   }
  ],
  "notes": "Class I YSO with a bright NE-SW bipolar reflection nebula in UKIRT K-band imaging polarimetry (Beckford et al. 2008). Distinct from the atlas system GSS 30 IRS 3 (13\" away).",

@@ -1,0 +1,42 @@
+{
+ "id": "r-mon",
+ "name": "R Mon",
+ "alt_names": [],
+ "simbad": "V* R Mon",
+ "ra_deg": 99.79147583,
+ "dec_deg": 8.73598319,
+ "dist_pc": null,
+ "sptype": "B8IIIe",
+ "region": null,
+ "categories": [
+  "protoplanetary"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "image_id": "r-mon_naco-ks-pol",
+   "type": "disk_scattered",
+   "facility": "VLT-NACO",
+   "instrument": "NACO",
+   "wavelength_um": 2.18,
+   "wavelength_label": "Ks band 2.18 um (polarised intensity, wire-grid polarimetry)",
+   "technique": "PDI",
+   "survey": "NACO-PIPPIN",
+   "content": "continuum",
+   "credit": "de Regt et al. 2024, Fig. 6 (crop)",
+   "note": "Herbig Be illuminating NGC 2261 (Hubble's Variable Nebula); distinct NE and SW polarised components; cf. Murakawa 2008",
+   "paper": {
+    "first_author": "de Regt",
+    "year": 2024,
+    "title": "Polarimetric differential imaging with VLT/NACO. A comprehensive PDI pipeline for NACO data (PIPPIN)",
+    "journal": "A&A",
+    "arxiv": "2404.02222",
+    "bibcode": "2024A&A...684A..73D"
+   },
+   "file": "images/r-mon/r-mon_naco-ks-pol.png",
+   "epoch": "2006-10-31"
+  }
+ ],
+ "notes": "Herbig Be star illuminating NGC 2261 (Hubble's Variable Nebula); polarised scattered light resolved with VLT/NACO wire-grid polarimetry (PIPPIN; de Regt et al. 2024).",
+ "last_updated": "2026-07-16"
+}
