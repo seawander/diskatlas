@@ -1,6 +1,6 @@
 {
  "_doc": "Per-survey ingestion state. entries/coords/images: done|partial|todo. Update on every ingest.",
- "updated": "2026-07-16: Zhao 2024 (RAA 24, 065010) MWC 480: Fig.2 mom0 + Fig.4 v_LOS for 12CO/13CO/C18O(2-1) = +6 line records (re-analysis of archival MAPS data, epoch 2018); Fig.2b printed sublabel '12CO' adjudicated as 13CO (figure typo; caption + Figs.3-4 concur). Disposition updated in paper_finder_state. Atlas: 621 systems / 2863 records, 0 errors/0 warnings.",
+ "updated": "2026-07-16: last_updated hygiene sweep: the SONS 850um, moment-map 1-2, MWC 480, and classic debris gap-fill batches appended records to existing systems without bumping last_updated; 80 systems reconciled to their ingestion dates (new-system stamps were already correct). Atlas: 621 systems / 2863 records, 0 errors/0 warnings.",
  "surveys": {
   "DSHARP": {
    "entries": "done",

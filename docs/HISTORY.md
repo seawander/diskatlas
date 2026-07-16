@@ -867,3 +867,13 @@ panel (b)'s printed sublabel reads "12CO", but the caption, the colorbar scale, 
 correctly-labelled (b) panels of Figs. 3-4 identify the column as 13CO — recorded as
 13CO with the figure typo noted on the record. Atlas after: 621 systems / 2863 image
 records, 0 errors / 0 warnings.
+
+**2026-07-16 — last_updated stamp reconciliation.** Audit prompted by TWA 7: the
+SONS batch (7a9ea18) added its 850 um record without bumping the system's
+last_updated (still 2026-07-08). Sweep of the five recent batches (SONS,
+moment-map 1-2, MWC 480 Zhao 2024, classic debris gap fill) found the same
+omission on every pre-existing system they touched: 80 of 95 systems stale
+(only the 16 new SONS systems carried correct stamps). All 80 set to their
+batch ingestion dates (2026-07-14 or 2026-07-16); validate 0/0, data.js
+rebuilt. Reminder for future batches: appending to images[] must bump
+last_updated (data/README.md row "New image for existing system").
