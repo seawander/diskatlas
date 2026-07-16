@@ -106,7 +106,7 @@
   }
  ],
  "notes": "Transition disk with an inner dust cavity; ALMA continuum from the Vioque et al. 2026 gallery. Coords parsed from the 2MASS identifier. Added 2026-07-11. [coordinates corrected 2026-07-11 from the 2MASS designation; the Kurtovic-gallery ingest had mis-parsed HHMMSSss.]",
- "last_updated": "2026-07-11",
+ "last_updated": "2026-07-14",
  "plx_mas": 5.8383,
  "mags": {
   "J": 15.22,

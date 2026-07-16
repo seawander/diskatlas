@@ -104,7 +104,7 @@
   }
  ],
  "notes": "Distance adopted as 130.7 pc following Hashimoto et al. 2024 (they reject the Gaia DR3 parallax distance of 105.7 pc due to a poor astrometric solution, RUWE=2.49). HST WFC3 image reveals a dark lane (disk midplane) and shadow-driven brightness asymmetries from a misaligned inner disk; outer disk extends to ~300 au.",
- "last_updated": "2026-07-07",
+ "last_updated": "2026-07-14",
  "mags": {
   "J": 12.842,
   "H": 11.435,
