@@ -435,6 +435,28 @@
    },
    "file": "images/gg-tau/gg-tau_hiciao-h-pi.png",
    "epoch": "2015-01-08"
+  },
+  {
+   "image_id": "gg-tau_nicmos1um",
+   "type": "disk_scattered",
+   "facility": "HST-NICMOS",
+   "instrument": "NIC1",
+   "wavelength_um": 1.0,
+   "wavelength_label": "1.0 um (NIC1 imaging polarimetry, PSF-subtracted total intensity)",
+   "technique": "imaging polarimetry",
+   "survey": null,
+   "content": "continuum",
+   "credit": "Silber et al. 2000, Fig. 1a (crop)",
+   "note": "First NIR imaging polarimetry of the GG Tau circumbinary ring; panel a = 1 um PSF-subtracted image ('Gap?' and 'Kink' annotated by authors); panel c of same figure carries the polarization vectors (strong azimuthal pattern confirming scattering).",
+   "paper": {
+    "first_author": "Silber",
+    "year": 2000,
+    "title": "Near-Infrared Imaging Polarimetry of the GG Tauri Circumbinary Ring",
+    "journal": "ApJ",
+    "bibcode": "2000ApJ...536L..89S"
+   },
+   "file": "images/gg-tau/gg-tau_nicmos1um.png",
+   "epoch": "1998-04-03"
   }
  ],
  "notes": null,

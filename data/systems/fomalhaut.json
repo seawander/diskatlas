@@ -418,6 +418,50 @@
     "bibcode": "2025ApJ...990L..40C"
    },
    "epoch": "2015-2018"
+  },
+  {
+   "image_id": "fomalhaut_450um",
+   "type": "disk_mm",
+   "facility": "JCMT",
+   "instrument": "SCUBA",
+   "wavelength_um": 450,
+   "wavelength_label": "450 um (first short-submm image; nonaxisymmetric inclined ring)",
+   "technique": "submm bolometer jiggle-mapping",
+   "survey": null,
+   "content": "continuum",
+   "credit": "Holland et al. 2003, Fig. 1a (crop)",
+   "note": "First 450 um image of the Fomalhaut ring (7.5 arcsec beam = 50 au); paper does not state exact observing dates - data taken after the late-1999 wideband upgrade, submitted 2002 April, so 2000-2001. Source: IOP OA PDF (no arXiv). Atlas previously had NO discovery-era submm record for Fomalhaut.",
+   "paper": {
+    "first_author": "Holland",
+    "year": 2003,
+    "title": "Submillimeter Observations of an Asymmetric Dust Disk around Fomalhaut",
+    "journal": "ApJ",
+    "bibcode": "2003ApJ...582.1141H"
+   },
+   "file": "images/fomalhaut/fomalhaut_450um.png",
+   "epoch": "2000-2001"
+  },
+  {
+   "image_id": "fomalhaut_850um",
+   "type": "disk_mm",
+   "facility": "JCMT",
+   "instrument": "SCUBA",
+   "wavelength_um": 850,
+   "wavelength_label": "850 um (wideband re-imaging of the Holland 1998 disk)",
+   "technique": "submm bolometer jiggle-mapping",
+   "survey": null,
+   "content": "continuum",
+   "credit": "Holland et al. 2003, Fig. 1b (crop)",
+   "note": "Simultaneous 850 um image (14 arcsec beam); consistent with the paywalled Holland et al. 1998 Nature discovery (deferred below).",
+   "paper": {
+    "first_author": "Holland",
+    "year": 2003,
+    "title": "Submillimeter Observations of an Asymmetric Dust Disk around Fomalhaut",
+    "journal": "ApJ",
+    "bibcode": "2003ApJ...582.1141H"
+   },
+   "file": "images/fomalhaut/fomalhaut_850um.png",
+   "epoch": "2000-2001"
   }
  ],
  "notes": null,

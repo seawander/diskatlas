@@ -394,6 +394,28 @@
     "bibcode": "2010ApJ...723.1418M"
    },
    "epoch": "2006-05-10"
+  },
+  {
+   "image_id": "hd-141569_16um",
+   "type": "disk_scattered",
+   "facility": "HST-NICMOS",
+   "instrument": "NIC2",
+   "wavelength_um": 1.6,
+   "wavelength_label": "1.6 um scattered light (PSF-ratio subtraction; annular disk 160-500 au)",
+   "technique": "PSF subtraction",
+   "survey": null,
+   "content": "continuum",
+   "credit": "Augereau et al. 1999, Fig. 3 left (crop)",
+   "note": "Simultaneous first-imaging companion paper to Weinberger+1999 (held, 1.1 um) at the other NICMOS band; log-scale 1.6 um image with companions B/C and spikes subtracted, inset shows unresolved-component-removed version. Obs 1998 August 17. Crop rotated 90 deg CW from e-print file orientation (N/E arrows in panel).",
+   "paper": {
+    "first_author": "Augereau",
+    "year": 1999,
+    "title": "HST/NICMOS2 observations of the HD 141569 A circumstellar disk",
+    "journal": "A&A",
+    "bibcode": "1999A&A...350L..51A"
+   },
+   "file": "images/hd-141569/hd-141569_16um.png",
+   "epoch": "1998-08-17"
   }
  ],
  "notes": "Hybrid disk (gas-rich debris / late transition); its multi-ring scattered-light structure was first resolved with HST/NICMOS (Weinberger+1999) and later in VLT/SPHERE (Perrot+2016).",

@@ -59,6 +59,28 @@
    },
    "epoch": "2004-2005",
    "content": "line"
+  },
+  {
+   "image_id": "121-1925_silhouette",
+   "type": "disk_scattered",
+   "facility": "HST",
+   "instrument": "WFPC2 (PC)",
+   "wavelength_um": 0.656,
+   "wavelength_label": "[O III]+Halpha+[N II] emission-line composite; compact silhouette (discovery)",
+   "technique": "silhouette imaging",
+   "survey": null,
+   "content": "continuum",
+   "credit": "McCaughrean et al. 1996, Fig. 1 (Plate 78), row 2 left (crop)",
+   "note": "Discovery image; atlas previously held only Ricci 2008 ACS for this system.",
+   "paper": {
+    "first_author": "McCaughrean",
+    "year": 1996,
+    "title": "Direct Imaging of Circumstellar Disks in the Orion Nebula",
+    "journal": "AJ",
+    "bibcode": "1996AJ....111.1977M"
+   },
+   "file": "images/121-1925/121-1925_silhouette.png",
+   "epoch": "1994-1995"
   }
  ],
  "notes": "Resolved edge-on silhouette/proplyd disk in the Orion Nebula (McCaughrean-O'Dell class), imaged in the HST/ACS ONC Treasury atlas (Ricci et al. 2008). Distance = Orion Nebula Cluster (~414 pc). Added 2026-07-11.",

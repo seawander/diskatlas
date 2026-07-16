@@ -37,6 +37,28 @@
    "file": "images/fs-tau/fs-tau_hiciao-yang2020.png",
    "epoch": "2011-12-26",
    "content": "continuum"
+  },
+  {
+   "image_id": "fs-tau_f814w",
+   "type": "disk_scattered",
+   "facility": "HST",
+   "instrument": "WFPC2",
+   "wavelength_um": 0.814,
+   "wavelength_label": "F814W (I band); FS Tau A circumbinary reflection nebulosity + R1 cone",
+   "technique": "direct imaging",
+   "survey": null,
+   "content": "continuum",
+   "credit": "Krist et al. 1998, Fig. 2c (crop)",
+   "note": "Long-exposure I-band image of FS Tau A (short exposure replacing saturated core); earliest resolved image of the FS Tau A nebulosity - atlas held only Yang 2020 H band for this system.",
+   "paper": {
+    "first_author": "Krist",
+    "year": 1998,
+    "title": "Hubble Space Telescope WFPC2 Imaging of FS Tauri and Haro 6-5B",
+    "journal": "ApJ",
+    "bibcode": "1998ApJ...501..841K"
+   },
+   "file": "images/fs-tau/fs-tau_f814w.png",
+   "epoch": "1996-01-25"
   }
  ],
  "notes": "Young (2.8 Myr) T Tauri binary in Taurus; the held Subaru/HiCIAO H-band polarimetric composite of FS Tau A shows arm-like streamer structures (S1/S2) extending to ~240 au, interpreted as signposts of a misaligned circumbinary disk system (Yang et al. 2020).",

@@ -59,6 +59,28 @@
    },
    "epoch": "2004-2005",
    "content": "continuum"
+  },
+  {
+   "image_id": "orion-218-354_silhouette",
+   "type": "disk_scattered",
+   "facility": "HST",
+   "instrument": "WFPC2 (WFC)",
+   "wavelength_um": 0.656,
+   "wavelength_label": "[O III]+Halpha+[N II] emission-line composite; inclined silhouette around bright star (discovery)",
+   "technique": "silhouette imaging",
+   "survey": null,
+   "content": "continuum",
+   "credit": "McCaughrean et al. 1996, Fig. 1 (Plate 78), row 5 left (crop)",
+   "note": "Discovery image of the 218-354 (V494 Ori) silhouette; atlas previously started at Ricci 2008 / Follette 2013.",
+   "paper": {
+    "first_author": "McCaughrean",
+    "year": 1996,
+    "title": "Direct Imaging of Circumstellar Disks in the Orion Nebula",
+    "journal": "AJ",
+    "bibcode": "1996AJ....111.1977M"
+   },
+   "file": "images/orion-218-354/orion-218-354_silhouette.png",
+   "epoch": "1994-1995"
   }
  ],
  "notes": "Silhouette (absorption) disk in the Orion Nebula seen against the nebular H-alpha background; first circumstellar disk imaged in silhouette from the ground with adaptive optics (Follette et al. 2013, Magellan MagAO/VisAO SDI). Distance = Orion Nebula Cluster (~414 pc). Added 2026-07-11.",

@@ -566,6 +566,28 @@
    },
    "epoch": "1998-02-26",
    "content": "line"
+  },
+  {
+   "image_id": "114-426_silhouette",
+   "type": "disk_scattered",
+   "facility": "HST",
+   "instrument": "WFPC2 (WFC)",
+   "wavelength_um": 0.656,
+   "wavelength_label": "[O III]+Halpha+[N II] emission-line composite; giant edge-on silhouette (discovery)",
+   "technique": "silhouette imaging",
+   "survey": null,
+   "content": "continuum",
+   "credit": "McCaughrean et al. 1996, Fig. 1 (Plate 78), row 1 left (crop)",
+   "note": "THE classic direct-silhouette paper; 4.1x4.1 arcsec panel, blue=[O III], green=Halpha, red=[N II]. Survey epoch 1994 Nov - 1995 Mar. Atlas coverage of 114-426 previously began at McCaughrean 1998 (NIR). Source: ADS scan.",
+   "paper": {
+    "first_author": "McCaughrean",
+    "year": 1996,
+    "title": "Direct Imaging of Circumstellar Disks in the Orion Nebula",
+    "journal": "AJ",
+    "bibcode": "1996AJ....111.1977M"
+   },
+   "file": "images/114-426/114-426_silhouette.png",
+   "epoch": "1994-1995"
   }
  ],
  "notes": "Giant edge-on silhouette disk in the Orion Nebula (~1000 au), seen in absorption against the nebular background with scattered-light lobes. JWST/NIRCam 12-band imaging (Ballering et al. 2024, GTO program 1256) reveals the 3 um water-ice absorption. Distance = Orion Nebula Cluster (~390 pc). Added 2026-07-11.",

@@ -813,6 +813,50 @@
     "bibcode": "2026ApJ...996L..17R"
    },
    "epoch": "2024"
+  },
+  {
+   "image_id": "hd-100546_jband",
+   "type": "disk_scattered",
+   "facility": "ESO 3.6m",
+   "instrument": "ADONIS + SHARP II+",
+   "wavelength_um": 1.25,
+   "wavelength_label": "J band 1.25 um (AO coronagraphy; first published resolved image of the disk)",
+   "technique": "AO coronagraphy",
+   "survey": null,
+   "content": "continuum",
+   "credit": "Pantin et al. 2000, Fig. 1 upper-left (crop)",
+   "note": "Abstract: 'first resolved images of the circumstellar dust disk around HD 100546'; predates the held Augereau 2001/Grady 2001 publications. J+Ks obtained nights of 1999 June 23-24, 0.74 arcsec mask.",
+   "paper": {
+    "first_author": "Pantin",
+    "year": 2000,
+    "title": "ADONIS observations of the HD 100546 circumstellar dust disk",
+    "journal": "A&A",
+    "bibcode": "2000A&A...361L...9P"
+   },
+   "file": "images/hd-100546/hd-100546_jband.png",
+   "epoch": "1999-06"
+  },
+  {
+   "image_id": "hd-100546_ksband",
+   "type": "disk_scattered",
+   "facility": "ESO 3.6m",
+   "instrument": "ADONIS + SHARP II+",
+   "wavelength_um": 2.15,
+   "wavelength_label": "Ks band 2.15 um (AO coronagraphy)",
+   "technique": "AO coronagraphy",
+   "survey": null,
+   "content": "continuum",
+   "credit": "Pantin et al. 2000, Fig. 1 lower-left (crop)",
+   "note": "Ks 'Disk' panel of the same figure; 1550 s total. First Ks-band resolved image of this disk.",
+   "paper": {
+    "first_author": "Pantin",
+    "year": 2000,
+    "title": "ADONIS observations of the HD 100546 circumstellar dust disk",
+    "journal": "A&A",
+    "bibcode": "2000A&A...361L...9P"
+   },
+   "file": "images/hd-100546/hd-100546_ksband.png",
+   "epoch": "1999-06"
   }
  ],
  "notes": null,

@@ -1334,6 +1334,28 @@
    },
    "epoch": "2026-03-21",
    "content": "continuum"
+  },
+  {
+   "image_id": "beta-pic_119um",
+   "type": "disk_mm",
+   "facility": "ESO 3.6m",
+   "instrument": "TIMMI",
+   "wavelength_um": 11.9,
+   "wavelength_label": "11.9 um thermal (raw + MSMEM-deconvolved; inner-disk asymmetry)",
+   "technique": "mid-IR imaging + deconvolution",
+   "survey": null,
+   "content": "continuum",
+   "credit": "Pantin et al. 1997, Fig. 1 (crop)",
+   "note": "Earliest openly-accessible resolved mid-IR image of beta Pic (re-observation of the paywalled Lagage & Pantin 1994 Nature result); raw image left, Multi-Scale Maximum Entropy deconvolution right, 0.33 arcsec resolution. Obs ESO 3.6m November 1994, three nights. Source: ADS scan PDF. Atlas mid-IR coverage previously began at Skaf 2023.",
+   "paper": {
+    "first_author": "Pantin",
+    "year": 1997,
+    "title": "Mid-infrared images and models of the beta Pictoris dust disk",
+    "journal": "A&A",
+    "bibcode": "1997A&A...327.1123P"
+   },
+   "file": "images/beta-pic/beta-pic_119um.png",
+   "epoch": "1994-11"
   }
  ],
  "notes": "Original 1984 discovery image (Smith & Terrile, Las Campanas coronagraph) predates arXiv; add if desired.",

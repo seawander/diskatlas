@@ -1,0 +1,63 @@
+{
+ "id": "183-405",
+ "name": "183-405",
+ "alt_names": [],
+ "simbad": "[OW94] 183-405",
+ "ra_deg": 83.82638117,
+ "dec_deg": -5.40134559,
+ "dist_pc": null,
+ "sptype": null,
+ "region": null,
+ "categories": [
+  "protoplanetary"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "image_id": "183-405_silhouette",
+   "type": "disk_scattered",
+   "facility": "HST",
+   "instrument": "WFPC2 (PC)",
+   "wavelength_um": 0.656,
+   "wavelength_label": "[O III]+Halpha+[N II] emission-line composite; near-face-on silhouette",
+   "technique": "silhouette imaging",
+   "survey": null,
+   "content": "continuum",
+   "credit": "McCaughrean et al. 1996, Fig. 1 (Plate 78), row 4 left (crop)",
+   "note": "Best-resolution follow-up image of the FIRST silhouette disk (discovered by O'Dell & Wen 1994, next record).",
+   "paper": {
+    "first_author": "McCaughrean",
+    "year": 1996,
+    "title": "Direct Imaging of Circumstellar Disks in the Orion Nebula",
+    "journal": "AJ",
+    "bibcode": "1996AJ....111.1977M"
+   },
+   "file": "images/183-405/183-405_silhouette.png",
+   "epoch": "1994-1995"
+  },
+  {
+   "image_id": "183-405_pc",
+   "type": "disk_scattered",
+   "facility": "HST",
+   "instrument": "WFPC2 (PC)",
+   "wavelength_um": 0.6,
+   "wavelength_label": "F547M(red)+Halpha/[N II](green)+[O III](blue) composite; the first silhouette disk image",
+   "technique": "silhouette imaging",
+   "survey": null,
+   "content": "continuum",
+   "credit": "O'Dell et al. 1994, Fig. 3d (Plate 7) (crop)",
+   "note": "Historic first image of a circumstellar disk seen purely in silhouette (0.9x1.2 arcsec elliptical dark disk, lower mass limit 0.2 MSun material); WFPC2 Early Release Observations executed 1993 Dec 29 + 1994 Jan 8. Source: ADS scan (no OCR text layer; dates read from p.195 (section 2)).",
+   "paper": {
+    "first_author": "O'Dell",
+    "year": 1994,
+    "title": "Postrefurbishment Mission Hubble Space Telescope Images of the Core of the Orion Nebula: Proplyds, Herbig-Haro Objects, and Measurements of a Circumstellar Disk",
+    "journal": "ApJ",
+    "bibcode": "1994ApJ...436..194O"
+   },
+   "file": "images/183-405/183-405_pc.png",
+   "epoch": "1993-1994"
+  }
+ ],
+ "notes": "The first circumstellar disk imaged in silhouette (O'Dell & Wen 1994); also in the McCaughrean & O'Dell (1996) six-silhouette sample. Distinct from 182-413 (HST 10), 8 arcsec away.",
+ "last_updated": "2026-07-16"
+}

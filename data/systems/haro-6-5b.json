@@ -81,6 +81,50 @@
    },
    "epoch": "1997-10-29",
    "content": "continuum"
+  },
+  {
+   "image_id": "haro-6-5b_f675w",
+   "type": "disk_scattered",
+   "facility": "HST",
+   "instrument": "WFPC2",
+   "wavelength_um": 0.675,
+   "wavelength_label": "F675W (R band); edge-on disk dark lane + jet (first optical HST image)",
+   "technique": "direct imaging",
+   "survey": null,
+   "content": "continuum",
+   "credit": "Krist et al. 1998, Fig. 2a (crop)",
+   "note": "Discovery-era WFPC2 optical imaging of the FS Tau B edge-on disk (atlas coverage previously started at Padgett 1999 NIR). HST Program 6223, obs 1996 January 25. Source: IOP OA published PDF (no arXiv e-print exists).",
+   "paper": {
+    "first_author": "Krist",
+    "year": 1998,
+    "title": "Hubble Space Telescope WFPC2 Imaging of FS Tauri and Haro 6-5B",
+    "journal": "ApJ",
+    "bibcode": "1998ApJ...501..841K"
+   },
+   "file": "images/haro-6-5b/haro-6-5b_f675w.png",
+   "epoch": "1996-01-25"
+  },
+  {
+   "image_id": "haro-6-5b_f814w",
+   "type": "disk_scattered",
+   "facility": "HST",
+   "instrument": "WFPC2",
+   "wavelength_um": 0.814,
+   "wavelength_label": "F814W (I band); edge-on disk + scattered-light lobes",
+   "technique": "direct imaging",
+   "survey": null,
+   "content": "continuum",
+   "credit": "Krist et al. 1998, Fig. 2b (crop)",
+   "note": "PC-chip I-band panel of the same figure; second optical band.",
+   "paper": {
+    "first_author": "Krist",
+    "year": 1998,
+    "title": "Hubble Space Telescope WFPC2 Imaging of FS Tauri and Haro 6-5B",
+    "journal": "ApJ",
+    "bibcode": "1998ApJ...501..841K"
+   },
+   "file": "images/haro-6-5b/haro-6-5b_f814w.png",
+   "epoch": "1996-01-25"
   }
  ],
  "notes": "AUTO-CREATED from staging - fill metadata & coords",

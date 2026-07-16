@@ -882,6 +882,73 @@
     "bibcode": "2026ApJ..1001..189K"
    },
    "epoch": "2024-03-29"
+  },
+  {
+   "image_id": "hr-4796a_18um",
+   "type": "disk_mm",
+   "facility": "CTIO 4m Blanco",
+   "instrument": "OSCIR",
+   "wavelength_um": 18.2,
+   "wavelength_label": "IHW18 18.2 um thermal (disk resolved along major axis)",
+   "technique": "mid-IR imaging",
+   "survey": null,
+   "content": "continuum",
+   "credit": "Jayawardhana et al. 1998, Fig. 1 (crop)",
+   "note": "Companion discovery paper to Koerner+1998 (already held); false-color IHW18 image with A resolved and B position marked. Atlas explicitly cross-references this paper but held no record from it. Obs March 1998.",
+   "paper": {
+    "first_author": "Jayawardhana",
+    "year": 1998,
+    "title": "A Dust Disk Surrounding the Young A Star HR 4796A",
+    "journal": "ApJ",
+    "bibcode": "1998ApJ...503L..79J"
+   },
+   "file": "images/hr-4796a/hr-4796a_18um.png",
+   "epoch": "1998-03"
+  },
+  {
+   "image_id": "hr-4796a_10um",
+   "type": "disk_mm",
+   "facility": "Keck II",
+   "instrument": "OSCIR",
+   "wavelength_um": 10.8,
+   "wavelength_label": "N band 10.8 um (contour map; disk wings resolved, first 10 um resolution)",
+   "technique": "mid-IR imaging",
+   "survey": null,
+   "content": "continuum",
+   "credit": "Telesco et al. 2000, Fig. 1a (crop)",
+   "note": "Keck II OSCIR 1998 May 7-12; crosses mark the 18 um lobes coinciding with the 10 um wings. New instrument+band for this system (atlas 10 um coverage starts at Moerchen 2011 18.3 um).",
+   "paper": {
+    "first_author": "Telesco",
+    "year": 2000,
+    "title": "Deep 10 and 18 Micron Imaging of the HR 4796A Circumstellar Disk: Transient Dust Particles and Tentative Evidence for a Brightness Asymmetry",
+    "journal": "ApJ",
+    "bibcode": "2000ApJ...530..329T"
+   },
+   "file": "images/hr-4796a/hr-4796a_10um.png",
+   "epoch": "1998-05"
+  },
+  {
+   "image_id": "hr-4796a_keck-18um-telesco00",
+   "type": "disk_mm",
+   "facility": "Keck II",
+   "instrument": "OSCIR",
+   "wavelength_um": 18.2,
+   "wavelength_label": "IHW18 18.2 um (unsmoothed image; three-peaked edge-on ridge/lobes)",
+   "technique": "mid-IR imaging",
+   "survey": null,
+   "content": "continuum",
+   "credit": "Telesco et al. 2000, Fig. 1c (crop)",
+   "note": "Panel c = unsmoothed 18.2 um image showing the two lobes 0.8 arcsec (54 au) from the star; Keck re-imaging of the Jayawardhana/Koerner discovery (cross-paper redundancy in scope).",
+   "paper": {
+    "first_author": "Telesco",
+    "year": 2000,
+    "title": "Deep 10 and 18 Micron Imaging of the HR 4796A Circumstellar Disk: Transient Dust Particles and Tentative Evidence for a Brightness Asymmetry",
+    "journal": "ApJ",
+    "arxiv": "astro-ph/9909363",
+    "bibcode": "2000ApJ...530..329T"
+   },
+   "file": "images/hr-4796a/hr-4796a_keck-18um-telesco00.png",
+   "epoch": "1998-05"
   }
  ],
  "notes": null,

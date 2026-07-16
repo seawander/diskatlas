@@ -1,0 +1,41 @@
+{
+ "id": "167-231",
+ "name": "167-231",
+ "alt_names": [],
+ "simbad": "[OW94] 167-231",
+ "ra_deg": 83.81973347,
+ "dec_deg": -5.37534759,
+ "dist_pc": null,
+ "sptype": "M4",
+ "region": null,
+ "categories": [
+  "protoplanetary"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "image_id": "167-231_silhouette",
+   "type": "disk_scattered",
+   "facility": "HST",
+   "instrument": "WFPC2 (WFC)",
+   "wavelength_um": 0.656,
+   "wavelength_label": "[O III]+Halpha+[N II] emission-line composite; compact silhouette (discovery)",
+   "technique": "silhouette imaging",
+   "survey": null,
+   "content": "continuum",
+   "credit": "McCaughrean et al. 1996, Fig. 1 (Plate 78), row 3 left (crop)",
+   "note": "One of the six original Orion dark silhouettes, missing from the atlas as a system.",
+   "paper": {
+    "first_author": "McCaughrean",
+    "year": 1996,
+    "title": "Direct Imaging of Circumstellar Disks in the Orion Nebula",
+    "journal": "AJ",
+    "bibcode": "1996AJ....111.1977M"
+   },
+   "file": "images/167-231/167-231_silhouette.png",
+   "epoch": "1994-1995"
+  }
+ ],
+ "notes": "Orion Nebula direct-silhouette disk, one of the six original McCaughrean & O'Dell (1996) silhouettes.",
+ "last_updated": "2026-07-16"
+}

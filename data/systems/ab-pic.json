@@ -1,0 +1,55 @@
+{
+ "id": "ab-pic",
+ "name": "AB Pic",
+ "alt_names": [
+  "HD 44627",
+  "HIP 30034"
+ ],
+ "simbad": "HD 44627",
+ "ra_deg": 94.80380435,
+ "dec_deg": -58.05431314,
+ "dist_pc": null,
+ "sptype": "K1V(e)",
+ "region": null,
+ "categories": [],
+ "planets": [
+  {
+   "name": "b",
+   "status": "confirmed",
+   "note": "~13-14 MJup companion at the exoplanet/brown-dwarf boundary, 5.5 arcsec (~275 au); one of the first directly imaged planetary-mass companions.",
+   "paper": {
+    "first_author": "Chauvin",
+    "year": 2005,
+    "arxiv": "astro-ph/0504658",
+    "bibcode": "2005A&A...438L..29C",
+    "journal": "A&A 438, L29"
+   }
+  }
+ ],
+ "images": [
+  {
+   "image_id": "ab-pic_ks",
+   "type": "planet",
+   "facility": "VLT",
+   "instrument": "NACO",
+   "wavelength_um": 2.18,
+   "wavelength_label": "Ks band coronagraphic image; AB Pic b at 5.5 arcsec (discovery)",
+   "technique": "coronagraphy",
+   "survey": null,
+   "content": "continuum",
+   "credit": "Chauvin et al. 2005, Fig. 1 (crop)",
+   "note": "Discovery image of the ~13-14 MJup companion at the planet/BD boundary (0.4 arcsec occulting mask, 2003 March 17; CPM confirmed with 2004 March+September epochs). Famous 2005-era imaged companion entirely absent from the atlas.",
+   "paper": {
+    "first_author": "Chauvin",
+    "year": 2005,
+    "title": "A companion to AB Pic at the planet/brown dwarf boundary",
+    "journal": "A&A",
+    "bibcode": "2005A&A...438L..29C"
+   },
+   "file": "images/ab-pic/ab-pic_ks.png",
+   "epoch": "2003-03-17"
+  }
+ ],
+ "notes": "Tucana-Horologium/Carina member (K1V, ~50 pc) hosting AB Pic b, discovered by VLT/NACO coronagraphy (Chauvin et al. 2005).",
+ "last_updated": "2026-07-16"
+}

@@ -548,6 +548,72 @@
    "file": "images/tw-hya/tw-hya_12co32-mom0.png",
    "epoch": "2015-11-23",
    "content": "line"
+  },
+  {
+   "image_id": "tw-hya_f110w",
+   "type": "disk_scattered",
+   "facility": "HST-NICMOS",
+   "instrument": "NIC2 coronagraph",
+   "wavelength_um": 1.1,
+   "wavelength_label": "F110W 1.10 um (coronagraphy, PSF-subtracted roll-combined)",
+   "technique": "coronagraphy",
+   "survey": null,
+   "content": "continuum",
+   "credit": "Weinberger et al. 2002, Fig. 2 left (crop)",
+   "note": "Original NICMOS discovery-era paper for the TW Hya NIR disk; atlas holds only later re-reductions of this dataset (Debes 2013, Hagan 2018). Obs log: F110W on 1998 Aug 16/Nov 25 - F110W visit 1998-11-25.",
+   "paper": {
+    "first_author": "Weinberger",
+    "year": 2002,
+    "title": "Infrared Views of the TW Hydra Disk",
+    "journal": "ApJ",
+    "bibcode": "2002ApJ...566..409W"
+   },
+   "file": "images/tw-hya/tw-hya_f110w.png",
+   "epoch": "1998-11-25"
+  },
+  {
+   "image_id": "tw-hya_f160w",
+   "type": "disk_scattered",
+   "facility": "HST-NICMOS",
+   "instrument": "NIC2 coronagraph",
+   "wavelength_um": 1.59,
+   "wavelength_label": "F160W 1.59 um (coronagraphy, PSF-subtracted roll-combined)",
+   "technique": "coronagraphy",
+   "survey": null,
+   "content": "continuum",
+   "credit": "Weinberger et al. 2002, Fig. 2 right (crop)",
+   "note": "F160W visit 1998-08-16 per the paper's observing-log paragraph (Table 1).",
+   "paper": {
+    "first_author": "Weinberger",
+    "year": 2002,
+    "title": "Infrared Views of the TW Hydra Disk",
+    "journal": "ApJ",
+    "bibcode": "2002ApJ...566..409W"
+   },
+   "file": "images/tw-hya/tw-hya_f160w.png",
+   "epoch": "1998-08-16"
+  },
+  {
+   "image_id": "tw-hya_hband",
+   "type": "disk_scattered",
+   "facility": "IRTF",
+   "instrument": "CoCo + NSFCAM",
+   "wavelength_um": 1.62,
+   "wavelength_label": "H band 1.62 um (cold coronagraph; first ground-based NIR image of the disk)",
+   "technique": "coronagraphy",
+   "survey": null,
+   "content": "continuum",
+   "credit": "Trilling et al. 2001, Fig. 1a (crop)",
+   "note": "Panel (a): final 1620 s PSF-subtracted stack showing the face-on scattered-light halo; first ground-based NIR detection of the TW Hya disk. Obs 7 Apr 2000 UT.",
+   "paper": {
+    "first_author": "Trilling",
+    "year": 2001,
+    "title": "Near-Infrared Coronagraphic Imaging of the Circumstellar Disk around TW Hydrae",
+    "journal": "ApJ",
+    "bibcode": "2001ApJ...552L.151T"
+   },
+   "file": "images/tw-hya/tw-hya_hband.png",
+   "epoch": "2000-04-07"
   }
  ],
  "notes": null,
