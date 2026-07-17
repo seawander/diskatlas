@@ -1,7 +1,7 @@
 {
-  "name": "diskatlas — resolved disks & imaged companions",
+  "name": "diskatlas — circumstellar disk images & imaged companions",
   "short_name": "diskatlas",
-  "description": "Offline all-sky atlas of resolved circumstellar disks, imaged companions, and quasar hosts.",
+  "description": "Offline all-sky atlas of circumstellar disk images, imaged companions, and quasar hosts.",
   "lang": "en",
   "start_url": "../index.html",
   "scope": "../",
