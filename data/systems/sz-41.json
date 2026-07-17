@@ -1,0 +1,42 @@
+{
+ "id": "sz-41",
+ "name": "Sz 41",
+ "alt_names": [],
+ "simbad": "Sz 41",
+ "ra_deg": 168.10165581,
+ "dec_deg": -76.61838372,
+ "dist_pc": null,
+ "sptype": "K7+M2.5",
+ "region": "Chamaeleon I",
+ "categories": [
+  "protoplanetary"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "image_id": "sz-41_sphere-qphi-h",
+   "type": "disk_scattered",
+   "facility": "VLT",
+   "instrument": "SPHERE/IRDIS BB_H pol",
+   "wavelength_um": 1.625,
+   "wavelength_label": "H band Q_phi (scattered-light non-detection; wide binary, very low dust mass)",
+   "technique": "polarimetric differential imaging",
+   "survey": "SPHERE-ChamI",
+   "content": "continuum",
+   "credit": "Ginski et al. 2024, Fig. B.4 (crop)",
+   "note": "Paper designation Sz 41; dust mass <1 M_earth.",
+   "paper": {
+    "first_author": "Ginski",
+    "year": 2024,
+    "title": "The SPHERE view of the Chamaeleon I star-forming region: The full census of planet-forming disks with GTO and DESTINYS programs",
+    "journal": "A&A 685, A52",
+    "arxiv": "2403.02149",
+    "bibcode": "2024A&A...685A..52G"
+   },
+   "file": "images/sz-41/sz-41_sphere-qphi-h.png",
+   "epoch": "2020-02-18"
+  }
+ ],
+ "notes": "SPHERE Cha I scattered-light non-detection with published panel; ~2\" binary, dust mass <1 M_earth, d~192 pc.",
+ "last_updated": "2026-07-16"
+}

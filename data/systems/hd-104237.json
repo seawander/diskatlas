@@ -1,0 +1,44 @@
+{
+ "id": "hd-104237",
+ "name": "HD 104237",
+ "alt_names": [
+  "DX Cha"
+ ],
+ "simbad": "HD 104237",
+ "ra_deg": 180.02119525,
+ "dec_deg": -78.19293492,
+ "dist_pc": null,
+ "sptype": "A4V",
+ "region": null,
+ "categories": [
+  "protoplanetary"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "image_id": "hd-104237_gpi-qphi-j",
+   "type": "disk_scattered",
+   "facility": "Gemini South",
+   "instrument": "GPI J pol",
+   "wavelength_um": 1.24,
+   "wavelength_label": "J band Q_phi (small disk r<21 au; undetermined morphology)",
+   "technique": "polarimetric differential imaging",
+   "survey": "Gemini-LIGHTS",
+   "content": "continuum",
+   "credit": "Rich et al. 2022, Fig. 10 (crop)",
+   "note": "Paper designation HD 104237 (=DX Cha). Panel epoch 20190217; earlier J epochs 2017-04-07, 2018-03-17, 2018-05-20 in appendix set.",
+   "paper": {
+    "first_author": "Rich",
+    "year": 2022,
+    "title": "Gemini-LIGHTS: Herbig Ae/Be and Massive T Tauri Protoplanetary Disks Imaged with Gemini Planet Imager",
+    "journal": "AJ 164, 109",
+    "arxiv": "2206.05815",
+    "bibcode": "2022AJ....164..109R"
+   },
+   "file": "images/hd-104237/hd-104237_gpi-qphi-j.png",
+   "epoch": "2019-02-17"
+  }
+ ],
+ "notes": "Gemini-LIGHTS undetermined (small, r<21 au) disk; = DX Cha, epsilon Cha member, d~107 pc. Well-studied Herbig Ae spectroscopic binary.",
+ "last_updated": "2026-07-16"
+}

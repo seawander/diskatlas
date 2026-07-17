@@ -1,0 +1,42 @@
+{
+ "id": "wray-15-535",
+ "name": "Wray 15-535",
+ "alt_names": [],
+ "simbad": "Wray 15-535",
+ "ra_deg": 153.84155072,
+ "dec_deg": -57.86187184,
+ "dist_pc": null,
+ "sptype": "M3",
+ "region": null,
+ "categories": [
+  "protoplanetary"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "image_id": "wray-15-535_gpi-qphi-j",
+   "type": "disk_scattered",
+   "facility": "Gemini South",
+   "instrument": "GPI J pol",
+   "wavelength_um": 1.24,
+   "wavelength_label": "J band Q_phi (undetermined morphology; very distant ~5 kpc)",
+   "technique": "polarimetric differential imaging",
+   "survey": "Gemini-LIGHTS",
+   "content": "continuum",
+   "credit": "Rich et al. 2022, Fig. 10 (crop)",
+   "note": "Paper designation WRAY 15-535 (SIMBAD main id CD-57 3107). Second J epoch 2019-02-22 in appendix set.",
+   "paper": {
+    "first_author": "Rich",
+    "year": 2022,
+    "title": "Gemini-LIGHTS: Herbig Ae/Be and Massive T Tauri Protoplanetary Disks Imaged with Gemini Planet Imager",
+    "journal": "AJ 164, 109",
+    "arxiv": "2206.05815",
+    "bibcode": "2022AJ....164..109R"
+   },
+   "file": "images/wray-15-535/wray-15-535_gpi-qphi-j.png",
+   "epoch": "2018-03-19"
+  }
+ ],
+ "notes": "Gemini-LIGHTS undetermined-disk target, d~4990 pc (paper). SIMBAD main id CD-57 3107; SIMBAD sp_type M3 conflicts with the survey's Herbig/B[e] classification - flag for care at seeding.",
+ "last_updated": "2026-07-16"
+}

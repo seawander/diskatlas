@@ -1,0 +1,45 @@
+{
+ "id": "v1025-tau",
+ "name": "V1025 Tau",
+ "alt_names": [
+  "CoKu HP Tau G2",
+  "V* V1025 Tau"
+ ],
+ "simbad": "V* V1025 Tau",
+ "ra_deg": 68.9756396,
+ "dec_deg": 22.90372959,
+ "dist_pc": null,
+ "sptype": "G2e",
+ "region": "Taurus",
+ "categories": [
+  "protoplanetary"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "image_id": "v1025-tau_sphere-qphi-h",
+   "type": "disk_scattered",
+   "facility": "VLT",
+   "instrument": "SPHERE/IRDIS BB_H pol",
+   "wavelength_um": 1.625,
+   "wavelength_label": "H band Q_phi (scattered-light non-detection; Class III, near-zero IR excess)",
+   "technique": "polarimetric differential imaging",
+   "survey": "SPHERE-Taurus",
+   "content": "continuum",
+   "credit": "Garufi et al. 2024, Fig. 2 (crop)",
+   "note": "Paper designation V* V1025 Tau (SIMBAD main id CoKu HP Tau G2); 'No QU pattern is visible. It is treated as a non-detection' (App. source notes); program 1104.C-0415(A) DESTINYS.",
+   "paper": {
+    "first_author": "Garufi",
+    "year": 2024,
+    "title": "The SPHERE view of the Taurus star-forming region: The full census of planet-forming disks with GTO and DESTINYS programs",
+    "journal": "A&A 685, A53",
+    "arxiv": "2403.02158",
+    "bibcode": "2024A&A...685A..53G"
+   },
+   "file": "images/v1025-tau/v1025-tau_sphere-qphi-h.png",
+   "epoch": "2019-12-15"
+  }
+ ],
+ "notes": "DESTINYS-Taurus (Garufi+2024) scattered-light non-detection with published Fig. 2 panel; Class III with near-zero IR excess, only ~1 M_earth dust; 21\" from HP Tau. SIMBAD main id CoKu HP Tau G2, L1536, d~167 pc.",
+ "last_updated": "2026-07-16"
+}

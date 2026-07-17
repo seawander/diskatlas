@@ -1,0 +1,46 @@
+{
+ "id": "51-oph",
+ "name": "51 Oph",
+ "alt_names": [
+  "HD 158643",
+  "c Oph",
+  "* c Oph"
+ ],
+ "simbad": "* c Oph",
+ "ra_deg": 262.85397446,
+ "dec_deg": -23.962643,
+ "dist_pc": null,
+ "sptype": "A0V",
+ "region": null,
+ "categories": [
+  "protoplanetary"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "image_id": "51-oph_gpi-qphi-j",
+   "type": "disk_scattered",
+   "facility": "Gemini South",
+   "instrument": "GPI J pol",
+   "wavelength_um": 1.24,
+   "wavelength_label": "J band Q_phi (polarized-light non-detection)",
+   "technique": "polarimetric differential imaging",
+   "survey": "Gemini-LIGHTS",
+   "content": "continuum",
+   "credit": "Rich et al. 2022, App. fig. set (crop)",
+   "note": "Paper designation HD 158643 (=51 Oph, c Oph). Second J epoch 2019-02-23 published on Final_images_8 (same band; not double-cropped).",
+   "paper": {
+    "first_author": "Rich",
+    "year": 2022,
+    "title": "Gemini-LIGHTS: Herbig Ae/Be and Massive T Tauri Protoplanetary Disks Imaged with Gemini Planet Imager",
+    "journal": "AJ 164, 109",
+    "arxiv": "2206.05815",
+    "bibcode": "2022AJ....164..109R"
+   },
+   "file": "images/51-oph/51-oph_gpi-qphi-j.png",
+   "epoch": "2018-06-09"
+  }
+ ],
+ "notes": "Gemini-LIGHTS polarized-light non-detection (two J epochs published); = 51 Oph, compact hot gas+dust disk, d~126 pc.",
+ "last_updated": "2026-07-16"
+}

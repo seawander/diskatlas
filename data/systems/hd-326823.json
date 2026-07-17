@@ -1,0 +1,44 @@
+{
+ "id": "hd-326823",
+ "name": "HD 326823",
+ "alt_names": [
+  "Hen 3-1330"
+ ],
+ "simbad": "HD 326823",
+ "ra_deg": 256.7246022,
+ "dec_deg": -42.6110289,
+ "dist_pc": null,
+ "sptype": "WNpec",
+ "region": null,
+ "categories": [
+  "protoplanetary"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "image_id": "hd-326823_gpi-qphi-j",
+   "type": "disk_scattered",
+   "facility": "Gemini South",
+   "instrument": "GPI J pol",
+   "wavelength_um": 1.24,
+   "wavelength_label": "J band Q_phi (polarized-light non-detection)",
+   "technique": "polarimetric differential imaging",
+   "survey": "Gemini-LIGHTS",
+   "content": "continuum",
+   "credit": "Rich et al. 2022, App. fig. set (crop)",
+   "note": "Paper designation Hen 3-1330 = HD 326823 (coords table). Companion candidate circled NE. SIMBAD types it WNpec (LBV candidate) - unusual sample member, kept per survey.",
+   "paper": {
+    "first_author": "Rich",
+    "year": 2022,
+    "title": "Gemini-LIGHTS: Herbig Ae/Be and Massive T Tauri Protoplanetary Disks Imaged with Gemini Planet Imager",
+    "journal": "AJ 164, 109",
+    "arxiv": "2206.05815",
+    "bibcode": "2022AJ....164..109R"
+   },
+   "file": "images/hd-326823/hd-326823_gpi-qphi-j.png",
+   "epoch": "2019-05-12"
+  }
+ ],
+ "notes": "Gemini-LIGHTS polarized-light non-detection (J panel published); d~1445 pc. SIMBAD types it WNpec (post-main-sequence LBV candidate) - category may warrant 'evolved' at seeding; kept in the survey's Herbig sample.",
+ "last_updated": "2026-07-16"
+}

@@ -37,6 +37,29 @@
     "bibcode": "2020ApJ...902..141S"
    },
    "epoch": "2016-2017"
+  },
+  {
+   "image_id": "hops-157_hst-nir-alma-overlay",
+   "type": "disk_scattered",
+   "facility": "HST",
+   "instrument": "NICMOS",
+   "wavelength_um": 2.05,
+   "wavelength_label": "near-IR (NICMOS; F205W-detected point source, F160W undetected) + ALMA 0.87 mm overlay",
+   "technique": "direct imaging",
+   "survey": null,
+   "content": "continuum",
+   "credit": "Sheehan et al. 2020, Fig. 9 (crop)",
+   "note": "NICMOS field per Kounkel+2016 (F205W=17.173, F160W undetected; NICMOS ran Aug-Sep 2008). Band of the displayed greyscale not stated by Sheehan+2020 (caption says 'NICMOS or WFC3'); F205W most probable given photometry - flag for ingestion note.",
+   "paper": {
+    "first_author": "Sheehan",
+    "year": 2020,
+    "title": "The VLA/ALMA Nascent Disk and Multiplicity (VANDAM) Survey of Orion Protostars. III. Substructures in Protostellar Disks",
+    "journal": "ApJ 902, 141",
+    "arxiv": "2010.00606",
+    "bibcode": "2020ApJ...902..141S"
+   },
+   "file": "images/hops-157/hops-157_hst-nir-alma-overlay.png",
+   "epoch": "2008"
   }
  ],
  "notes": "Protostellar disk imaged at 0.87 mm in the VANDAM Orion survey (Sheehan et al. 2020).",

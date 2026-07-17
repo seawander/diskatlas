@@ -102,6 +102,52 @@
    },
    "epoch": "2017-2022",
    "content": "continuum"
+  },
+  {
+   "image_id": "cida-9_alma-13co21-mom0",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 6",
+   "wavelength_um": 1360,
+   "wavelength_label": "13CO J=2-1 moment-0 (low-S/N / non-detection-level; foreground-absorbed)",
+   "technique": "interferometric line imaging",
+   "survey": null,
+   "content": "line",
+   "credit": "Harsono et al. 2024, Fig. 12 (crop)",
+   "note": "Archival Band 6 line data (program 2016.1.01164.S; observed 2017 Aug-Sep per Manara+2019, 2019A&A...628A..95M; re-imaged per Rota+2022). Moment maps relegated to App. B 'due to the low signal-to-noise'; 2-10 km/s integration, >2 sigma.",
+   "paper": {
+    "first_author": "Harsono",
+    "year": 2024,
+    "title": "Dual-Band Observations of the Asymmetric Ring around CIDA 9A: Dead or Alive?",
+    "journal": "The Astrophysical Journal",
+    "arxiv": "2310.11007",
+    "bibcode": "2024ApJ...961...28H"
+   },
+   "file": "images/cida-9/cida-9_alma-13co21-mom0.png",
+   "epoch": "2017"
+  },
+  {
+   "image_id": "cida-9_alma-c18o21-mom0",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 6",
+   "wavelength_um": 1365,
+   "wavelength_label": "C18O J=2-1 moment-0 (low-S/N / non-detection-level)",
+   "technique": "interferometric line imaging",
+   "survey": null,
+   "content": "line",
+   "credit": "Harsono et al. 2024, Fig. 12 (crop)",
+   "note": "Same archival Band 6 data as the 13CO 2-1 panel; marginal central emission only.",
+   "paper": {
+    "first_author": "Harsono",
+    "year": 2024,
+    "title": "Dual-Band Observations of the Asymmetric Ring around CIDA 9A: Dead or Alive?",
+    "journal": "The Astrophysical Journal",
+    "arxiv": "2310.11007",
+    "bibcode": "2024ApJ...961...28H"
+   },
+   "file": "images/cida-9/cida-9_alma-c18o21-mom0.png",
+   "epoch": "2017"
   }
  ],
  "notes": "Coords decoded from 2MASS id (Long+2019 Table 1).",

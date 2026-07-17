@@ -1,0 +1,42 @@
+{
+ "id": "hd-38087",
+ "name": "HD 38087",
+ "alt_names": [],
+ "simbad": "HD 38087",
+ "ra_deg": 85.7523978,
+ "dec_deg": -2.31260817,
+ "dist_pc": null,
+ "sptype": "B3II",
+ "region": null,
+ "categories": [
+  "protoplanetary"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "image_id": "hd-38087_gpi-qphi-j",
+   "type": "disk_scattered",
+   "facility": "Gemini South",
+   "instrument": "GPI J pol",
+   "wavelength_um": 1.24,
+   "wavelength_label": "J band Q_phi (unresolved/undetermined compact disk)",
+   "technique": "polarimetric differential imaging",
+   "survey": "Gemini-LIGHTS",
+   "content": "continuum",
+   "credit": "Rich et al. 2022, Fig. 10 (crop)",
+   "note": "Paper designation HD 38087. Undetermined category; companion candidate circled in panel.",
+   "paper": {
+    "first_author": "Rich",
+    "year": 2022,
+    "title": "Gemini-LIGHTS: Herbig Ae/Be and Massive T Tauri Protoplanetary Disks Imaged with Gemini Planet Imager",
+    "journal": "AJ 164, 109",
+    "arxiv": "2206.05815",
+    "bibcode": "2022AJ....164..109R"
+   },
+   "file": "images/hd-38087/hd-38087_gpi-qphi-j.png",
+   "epoch": "2018-01-03"
+  }
+ ],
+ "notes": "Gemini-LIGHTS undetermined-disk target; B star in Orion reflection nebulosity, d~377 pc.",
+ "last_updated": "2026-07-16"
+}

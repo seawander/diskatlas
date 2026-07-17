@@ -1,0 +1,44 @@
+{
+ "id": "di-cha",
+ "name": "DI Cha",
+ "alt_names": [
+  "V* DI Cha"
+ ],
+ "simbad": "V* DI Cha",
+ "ra_deg": 166.83636503,
+ "dec_deg": -77.63536336,
+ "dist_pc": null,
+ "sptype": "G2Ve",
+ "region": "Chamaeleon I",
+ "categories": [
+  "protoplanetary"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "image_id": "di-cha_sphere-qphi-h",
+   "type": "disk_scattered",
+   "facility": "VLT",
+   "instrument": "SPHERE/IRDIS BB_H pol",
+   "wavelength_um": 1.625,
+   "wavelength_label": "H band Q_phi (scattered-light non-detection; close binary, likely truncated compact disk)",
+   "technique": "polarimetric differential imaging",
+   "survey": "SPHERE-ChamI",
+   "content": "continuum",
+   "credit": "Ginski et al. 2024, Fig. B.4 (crop)",
+   "note": "Paper designation DI Cha; visual companion marked (red diamond) in panel.",
+   "paper": {
+    "first_author": "Ginski",
+    "year": 2024,
+    "title": "The SPHERE view of the Chamaeleon I star-forming region: The full census of planet-forming disks with GTO and DESTINYS programs",
+    "journal": "A&A 685, A52",
+    "arxiv": "2403.02149",
+    "bibcode": "2024A&A...685A..52G"
+   },
+   "file": "images/di-cha/di-cha_sphere-qphi-h.png",
+   "epoch": "2017-03-21"
+  }
+ ],
+ "notes": "SPHERE Cha I scattered-light non-detection with published panel; close visual binary (quadruple system), d~189 pc.",
+ "last_updated": "2026-07-16"
+}

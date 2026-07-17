@@ -1,0 +1,46 @@
+{
+ "id": "v921-sco",
+ "name": "V921 Sco",
+ "alt_names": [
+  "CD-42 11721",
+  "MWC 865",
+  "V* V921 Sco"
+ ],
+ "simbad": "V* V921 Sco",
+ "ra_deg": 254.77817888,
+ "dec_deg": -42.70233451,
+ "dist_pc": null,
+ "sptype": "B0IVe",
+ "region": null,
+ "categories": [
+  "protoplanetary"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "image_id": "v921-sco_gpi-qphi-h",
+   "type": "disk_scattered",
+   "facility": "Gemini South",
+   "instrument": "GPI H pol",
+   "wavelength_um": 1.65,
+   "wavelength_label": "H band Q_phi (undetermined morphology; large distant disk <300 au)",
+   "technique": "polarimetric differential imaging",
+   "survey": "Gemini-LIGHTS",
+   "content": "continuum",
+   "credit": "Rich et al. 2022, Fig. 10 (crop)",
+   "note": "Paper designation V921 Sco (=CD-42 11721); two point-source candidates circled.",
+   "paper": {
+    "first_author": "Rich",
+    "year": 2022,
+    "title": "Gemini-LIGHTS: Herbig Ae/Be and Massive T Tauri Protoplanetary Disks Imaged with Gemini Planet Imager",
+    "journal": "AJ 164, 109",
+    "arxiv": "2206.05815",
+    "bibcode": "2022AJ....164..109R"
+   },
+   "file": "images/v921-sco/v921-sco_gpi-qphi-h.png",
+   "epoch": "2019-05-13"
+  }
+ ],
+ "notes": "Gemini-LIGHTS undetermined-disk target (large distant disk <300 au); = CD-42 11721 / MWC 865, d~1482 pc.",
+ "last_updated": "2026-07-16"
+}

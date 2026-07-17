@@ -37,6 +37,29 @@
     "bibcode": "2020ApJ...902..141S"
    },
    "epoch": "2016-2017"
+  },
+  {
+   "image_id": "hops-163_hst-nir-alma-overlay",
+   "type": "disk_scattered",
+   "facility": "HST",
+   "instrument": "WFC3/IR F160W",
+   "wavelength_um": 1.6,
+   "wavelength_label": "near-IR F160W (point-source detection; second field star W) + ALMA 0.87 mm overlay",
+   "technique": "direct imaging",
+   "survey": null,
+   "content": "continuum",
+   "credit": "Sheehan et al. 2020, Fig. 9 (crop)",
+   "note": "WFC3 per Kounkel+2016 (F160W=12.841). ALMA ring coincides with the eastern of the two NIR sources.",
+   "paper": {
+    "first_author": "Sheehan",
+    "year": 2020,
+    "title": "The VLA/ALMA Nascent Disk and Multiplicity (VANDAM) Survey of Orion Protostars. III. Substructures in Protostellar Disks",
+    "journal": "ApJ 902, 141",
+    "arxiv": "2010.00606",
+    "bibcode": "2020ApJ...902..141S"
+   },
+   "file": "images/hops-163/hops-163_hst-nir-alma-overlay.png",
+   "epoch": "2009-2010"
   }
  ],
  "notes": "Protostellar disk imaged at 0.87 mm in the VANDAM Orion survey (Sheehan et al. 2020).",

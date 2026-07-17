@@ -36,6 +36,29 @@
    "file": "images/hd-190073/hd-190073_chara-vlti-ibrahim2023.png",
    "epoch": "2019",
    "content": "continuum"
+  },
+  {
+   "image_id": "hd-190073_gpi-qphi-j",
+   "type": "disk_scattered",
+   "facility": "Gemini South",
+   "instrument": "GPI J pol",
+   "wavelength_um": 1.24,
+   "wavelength_label": "J band Q_phi (unresolved/undetermined compact disk)",
+   "technique": "polarimetric differential imaging",
+   "survey": "Gemini-LIGHTS",
+   "content": "continuum",
+   "credit": "Rich et al. 2022, Fig. 10 (crop)",
+   "note": "Paper designation V1295 Aql = HD 190073 (existing sid hd-190073). Panel label epoch 20180817; obs-log table says J 20180816 (1-day discrepancy, panel label adopted). H-band epochs (2018-06-08, 2018-08-16) were non-detections.",
+   "paper": {
+    "first_author": "Rich",
+    "year": 2022,
+    "title": "Gemini-LIGHTS: Herbig Ae/Be and Massive T Tauri Protoplanetary Disks Imaged with Gemini Planet Imager",
+    "journal": "AJ 164, 109",
+    "arxiv": "2206.05815",
+    "bibcode": "2022AJ....164..109R"
+   },
+   "file": "images/hd-190073/hd-190073_gpi-qphi-j.png",
+   "epoch": "2018-08-17"
   }
  ],
  "notes": "Herbig Be star; the held image is a model-free H-band interferometric image reconstruction (Epoch A, 2019) from CHARA/MIRC-X and MYSTIC data, resolving the inner astronomical unit of its disk (Ibrahim et al. 2023).",

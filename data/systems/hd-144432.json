@@ -1,0 +1,42 @@
+{
+ "id": "hd-144432",
+ "name": "HD 144432",
+ "alt_names": [],
+ "simbad": "HD 144432",
+ "ra_deg": 241.74147214,
+ "dec_deg": -27.71937793,
+ "dist_pc": null,
+ "sptype": "A9IVe",
+ "region": null,
+ "categories": [
+  "protoplanetary"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "image_id": "hd-144432_gpi-qphi-h",
+   "type": "disk_scattered",
+   "facility": "Gemini South",
+   "instrument": "GPI H pol",
+   "wavelength_um": 1.65,
+   "wavelength_label": "H band Q_phi (polarized-light non-detection)",
+   "technique": "polarimetric differential imaging",
+   "survey": "Gemini-LIGHTS",
+   "content": "continuum",
+   "credit": "Rich et al. 2022, App. fig. set (crop)",
+   "note": "Panel label epoch 20150708; obs-log table says 20150709 (panel label adopted). Companion HD 144432B/C visible NE (circled). Survey non-detection of the disk.",
+   "paper": {
+    "first_author": "Rich",
+    "year": 2022,
+    "title": "Gemini-LIGHTS: Herbig Ae/Be and Massive T Tauri Protoplanetary Disks Imaged with Gemini Planet Imager",
+    "journal": "AJ 164, 109",
+    "arxiv": "2206.05815",
+    "bibcode": "2022AJ....164..109R"
+   },
+   "file": "images/hd-144432/hd-144432_gpi-qphi-h.png",
+   "epoch": "2015-07-08"
+  }
+ ],
+ "notes": "Gemini-LIGHTS polarized-light non-detection (H panel published); Herbig Ae triple, d~155 pc. Currently only appears in the atlas inside a paper title string in hd-150193.json.",
+ "last_updated": "2026-07-16"
+}

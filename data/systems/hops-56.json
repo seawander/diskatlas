@@ -37,6 +37,29 @@
     "bibcode": "2020ApJ...902..141S"
    },
    "epoch": "2016-2017"
+  },
+  {
+   "image_id": "hops-56_hst-nir-alma-overlay",
+   "type": "disk_scattered",
+   "facility": "HST",
+   "instrument": "NICMOS/WFC3 F160W",
+   "wavelength_um": 1.6,
+   "wavelength_label": "near-IR F160W (HST non-detection, heavy foreground extinction) + ALMA 0.87 mm overlay",
+   "technique": "direct imaging",
+   "survey": null,
+   "content": "continuum",
+   "credit": "Sheehan et al. 2020, Fig. 9 (crop)",
+   "note": "Paper designation HOPS-56B (panel label). 'HOPS-56B and HH270-MMS2 do not appear to be associated with any emission in their corresponding HST images'. Archival GO 11548 (Kounkel+2016, 2016ApJ...821...52K); camera indeterminate for this field (NICMOS 2008-08/09 or WFC3 2009-08/2010-12), hence epoch span. Kounkel table: only IRTF L' photometric detection.",
+   "paper": {
+    "first_author": "Sheehan",
+    "year": 2020,
+    "title": "The VLA/ALMA Nascent Disk and Multiplicity (VANDAM) Survey of Orion Protostars. III. Substructures in Protostellar Disks",
+    "journal": "ApJ 902, 141",
+    "arxiv": "2010.00606",
+    "bibcode": "2020ApJ...902..141S"
+   },
+   "file": "images/hops-56/hops-56_hst-nir-alma-overlay.png",
+   "epoch": "2008-2010"
   }
  ],
  "notes": "Protostellar disk imaged at 0.87 mm in the VANDAM Orion survey (Sheehan et al. 2020).",

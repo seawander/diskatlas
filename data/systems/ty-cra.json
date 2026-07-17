@@ -1,0 +1,44 @@
+{
+ "id": "ty-cra",
+ "name": "TY CrA",
+ "alt_names": [
+  "V* TY CrA"
+ ],
+ "simbad": "V* TY CrA",
+ "ra_deg": 285.42011852,
+ "dec_deg": -36.87606005,
+ "dist_pc": null,
+ "sptype": "B9e",
+ "region": "Corona Australis",
+ "categories": [
+  "protoplanetary"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "image_id": "ty-cra_gpi-qphi-h",
+   "type": "disk_scattered",
+   "facility": "Gemini South",
+   "instrument": "GPI H pol",
+   "wavelength_um": 1.65,
+   "wavelength_label": "H band Q_phi (unresolved/undetermined compact disk)",
+   "technique": "polarimetric differential imaging",
+   "survey": "Gemini-LIGHTS",
+   "content": "continuum",
+   "credit": "Rich et al. 2022, Fig. 10 (crop)",
+   "note": "Paper designation Ty CrA. H 2018-06-08 epoch was formally below the polarized-detection threshold; detected at H 2018-08-17 (second epoch in appendix set).",
+   "paper": {
+    "first_author": "Rich",
+    "year": 2022,
+    "title": "Gemini-LIGHTS: Herbig Ae/Be and Massive T Tauri Protoplanetary Disks Imaged with Gemini Planet Imager",
+    "journal": "AJ 164, 109",
+    "arxiv": "2206.05815",
+    "bibcode": "2022AJ....164..109R"
+   },
+   "file": "images/ty-cra/ty-cra_gpi-qphi-h.png",
+   "epoch": "2018-06-08"
+  }
+ ],
+ "notes": "Gemini-LIGHTS undetermined-disk target; eclipsing multiple B9e system in Corona Australis, d~159 pc. Detected at H 2018-08-17, undetected 2018-06-08.",
+ "last_updated": "2026-07-16"
+}

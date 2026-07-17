@@ -1,0 +1,42 @@
+{
+ "id": "hd-37806",
+ "name": "HD 37806",
+ "alt_names": [],
+ "simbad": "HD 37806",
+ "ra_deg": 85.2595545,
+ "dec_deg": -2.71686993,
+ "dist_pc": null,
+ "sptype": "B9/9.5II/III",
+ "region": null,
+ "categories": [
+  "protoplanetary"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "image_id": "hd-37806_gpi-qphi-j",
+   "type": "disk_scattered",
+   "facility": "Gemini South",
+   "instrument": "GPI J pol",
+   "wavelength_um": 1.24,
+   "wavelength_label": "J band Q_phi (unresolved/undetermined compact disk)",
+   "technique": "polarimetric differential imaging",
+   "survey": "Gemini-LIGHTS",
+   "content": "continuum",
+   "credit": "Rich et al. 2022, Fig. 10 (crop)",
+   "note": "Paper designation HD 37806 (=MWC 120). Polarized signal detected but too compact to classify ('undetermined' category); panel label 'HD 37806 / 20171231 / Qphi / J'.",
+   "paper": {
+    "first_author": "Rich",
+    "year": 2022,
+    "title": "Gemini-LIGHTS: Herbig Ae/Be and Massive T Tauri Protoplanetary Disks Imaged with Gemini Planet Imager",
+    "journal": "AJ 164, 109",
+    "arxiv": "2206.05815",
+    "bibcode": "2022AJ....164..109R"
+   },
+   "file": "images/hd-37806/hd-37806_gpi-qphi-j.png",
+   "epoch": "2017-12-31"
+  }
+ ],
+ "notes": "Gemini-LIGHTS undetermined-disk target (Rich+2022 Fig. 10); Herbig Be, d~402 pc (paper coords table matches SIMBAD <0.1\"). Alt names MWC 120.",
+ "last_updated": "2026-07-16"
+}

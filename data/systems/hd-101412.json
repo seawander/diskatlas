@@ -1,0 +1,42 @@
+{
+ "id": "hd-101412",
+ "name": "HD 101412",
+ "alt_names": [],
+ "simbad": "HD 101412",
+ "ra_deg": 174.93523538,
+ "dec_deg": -60.17436661,
+ "dist_pc": null,
+ "sptype": "A3VaekA0mA0_lB",
+ "region": null,
+ "categories": [
+  "protoplanetary"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "image_id": "hd-101412_gpi-qphi-h",
+   "type": "disk_scattered",
+   "facility": "Gemini South",
+   "instrument": "GPI H pol",
+   "wavelength_um": 1.65,
+   "wavelength_label": "H band Q_phi (polarized-light non-detection)",
+   "technique": "polarimetric differential imaging",
+   "survey": "Gemini-LIGHTS",
+   "content": "continuum",
+   "credit": "Rich et al. 2022, App. fig. set (crop)",
+   "note": "Survey non-detection; two companion candidates circled in panel.",
+   "paper": {
+    "first_author": "Rich",
+    "year": 2022,
+    "title": "Gemini-LIGHTS: Herbig Ae/Be and Massive T Tauri Protoplanetary Disks Imaged with Gemini Planet Imager",
+    "journal": "AJ 164, 109",
+    "arxiv": "2206.05815",
+    "bibcode": "2022AJ....164..109R"
+   },
+   "file": "images/hd-101412/hd-101412_gpi-qphi-h.png",
+   "epoch": "2018-03-19"
+  }
+ ],
+ "notes": "Gemini-LIGHTS polarized-light non-detection; magnetic Herbig Ae, d~412 pc.",
+ "last_updated": "2026-07-16"
+}

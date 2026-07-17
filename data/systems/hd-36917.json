@@ -1,0 +1,67 @@
+{
+ "id": "hd-36917",
+ "name": "HD 36917",
+ "alt_names": [
+  "V372 Ori"
+ ],
+ "simbad": "HD 36917",
+ "ra_deg": 83.69575939,
+ "dec_deg": -5.57071759,
+ "dist_pc": null,
+ "sptype": "B9III/IV",
+ "region": null,
+ "categories": [
+  "protoplanetary"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "image_id": "hd-36917_gpi-qphi-h",
+   "type": "disk_scattered",
+   "facility": "Gemini South",
+   "instrument": "GPI H pol",
+   "wavelength_um": 1.65,
+   "wavelength_label": "H band Q_phi (polarized-light non-detection)",
+   "technique": "polarimetric differential imaging",
+   "survey": "Gemini-LIGHTS",
+   "content": "continuum",
+   "credit": "Rich et al. 2022, App. fig. set (crop)",
+   "note": "Paper designation HD 36917 (=V372 Ori); listed among the 9 survey non-detections (Sect. non-detections).",
+   "paper": {
+    "first_author": "Rich",
+    "year": 2022,
+    "title": "Gemini-LIGHTS: Herbig Ae/Be and Massive T Tauri Protoplanetary Disks Imaged with Gemini Planet Imager",
+    "journal": "AJ 164, 109",
+    "arxiv": "2206.05815",
+    "bibcode": "2022AJ....164..109R"
+   },
+   "file": "images/hd-36917/hd-36917_gpi-qphi-h.png",
+   "epoch": "2019-01-26"
+  },
+  {
+   "image_id": "hd-36917_gpi-qphi-j",
+   "type": "disk_scattered",
+   "facility": "Gemini South",
+   "instrument": "GPI J pol",
+   "wavelength_um": 1.24,
+   "wavelength_label": "J band Q_phi (polarized-light non-detection)",
+   "technique": "polarimetric differential imaging",
+   "survey": "Gemini-LIGHTS",
+   "content": "continuum",
+   "credit": "Rich et al. 2022, App. fig. set (crop)",
+   "note": "Second band of the HD 36917 non-detection.",
+   "paper": {
+    "first_author": "Rich",
+    "year": 2022,
+    "title": "Gemini-LIGHTS: Herbig Ae/Be and Massive T Tauri Protoplanetary Disks Imaged with Gemini Planet Imager",
+    "journal": "AJ 164, 109",
+    "arxiv": "2206.05815",
+    "bibcode": "2022AJ....164..109R"
+   },
+   "file": "images/hd-36917/hd-36917_gpi-qphi-j.png",
+   "epoch": "2017-12-31"
+  }
+ ],
+ "notes": "Gemini-LIGHTS polarized-light non-detection (J+H panels published); = V372 Ori, d~450 pc.",
+ "last_updated": "2026-07-16"
+}

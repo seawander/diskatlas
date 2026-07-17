@@ -66,6 +66,29 @@
    },
    "file": "images/elias-2-32/elias-2-32_odisea-f4.png",
    "epoch": "2017-07"
+  },
+  {
+   "image_id": "elias-2-32_alma-12co21-mom0",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 6",
+   "wavelength_um": 1300,
+   "wavelength_label": "12CO J=2-1 moment-0 (CO non-detection, greyscale; cloud emission only, no Keplerian disk signal)",
+   "technique": "interferometric line imaging",
+   "survey": "AGE-PRO",
+   "content": "line",
+   "credit": "Ruiz-Rodriguez et al. 2025, Fig. 4 (crop)",
+   "note": "Paper designation Oph 4 = Elias 2-32 (2MASS 16272844-2427210, coords table). Greyscale = non-detection convention; 12CO detected around the source traces only the molecular cloud (no Keplerian rotation). Program 2021.1.00128.L, SS1 executions 2022-03-29 to 2022-07-18.",
+   "paper": {
+    "first_author": "Ruiz-Rodriguez",
+    "year": 2025,
+    "title": "The ALMA Survey of Gas Evolution of PROtoplanetary Disks (AGE-PRO). II. Dust and Gas Disk Properties in the Ophiuchus Star-forming Region",
+    "journal": "ApJ 989, 2",
+    "arxiv": "2506.10731",
+    "bibcode": "2025ApJ...989....2R"
+   },
+   "file": "images/elias-2-32/elias-2-32_alma-12co21-mom0.png",
+   "epoch": "2022"
   }
  ],
  "notes": "AGE-PRO Ophiuchus 4. No obvious substructure at AGE-PRO resolution; visibilities hint at underlying structure (Vioque et al. 2025). Distance = 139 pc Ophiuchus average adopted by AGE-PRO.",

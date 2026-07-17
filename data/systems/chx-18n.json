@@ -1,0 +1,42 @@
+{
+ "id": "chx-18n",
+ "name": "CHX 18N",
+ "alt_names": [],
+ "simbad": "CHX 18N",
+ "ra_deg": 167.94307095,
+ "dec_deg": -76.33581912,
+ "dist_pc": null,
+ "sptype": "K5IVe",
+ "region": "Chamaeleon I",
+ "categories": [
+  "protoplanetary"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "image_id": "chx-18n_sphere-qphi-h",
+   "type": "disk_scattered",
+   "facility": "VLT",
+   "instrument": "SPHERE/IRDIS BB_H pol",
+   "wavelength_um": 1.625,
+   "wavelength_label": "H band Q_phi (scattered-light non-detection; faint/self-shadowed or compact disk)",
+   "technique": "polarimetric differential imaging",
+   "survey": "SPHERE-ChamI",
+   "content": "continuum",
+   "credit": "Ginski et al. 2024, Fig. B.4 (crop)",
+   "note": "Paper designation CHX 18 N; single star; 13 M_earth dust disk undetected in polarized light.",
+   "paper": {
+    "first_author": "Ginski",
+    "year": 2024,
+    "title": "The SPHERE view of the Chamaeleon I star-forming region: The full census of planet-forming disks with GTO and DESTINYS programs",
+    "journal": "A&A 685, A52",
+    "arxiv": "2403.02149",
+    "bibcode": "2024A&A...685A..52G"
+   },
+   "file": "images/chx-18n/chx-18n_sphere-qphi-h.png",
+   "epoch": "2020-01-30"
+  }
+ ],
+ "notes": "SPHERE Cha I (Ginski+2024) scattered-light non-detection with published gallery panel (Fig. B.4); single T Tauri star, 13 M_earth dust disk.",
+ "last_updated": "2026-07-16"
+}

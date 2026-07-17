@@ -1,0 +1,65 @@
+{
+ "id": "hd-176386",
+ "name": "HD 176386",
+ "alt_names": [],
+ "simbad": "HD 176386",
+ "ra_deg": 285.41221583,
+ "dec_deg": -36.89071144,
+ "dist_pc": null,
+ "sptype": "B9Vbs",
+ "region": "Corona Australis",
+ "categories": [
+  "protoplanetary"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "image_id": "hd-176386_gpi-qphi-h",
+   "type": "disk_scattered",
+   "facility": "Gemini South",
+   "instrument": "GPI H pol",
+   "wavelength_um": 1.65,
+   "wavelength_label": "H band Q_phi (polarized-light non-detection)",
+   "technique": "polarimetric differential imaging",
+   "survey": "Gemini-LIGHTS",
+   "content": "continuum",
+   "credit": "Rich et al. 2022, App. fig. set (crop)",
+   "note": "Survey non-detection; second H epoch 2018-08-16 also published (same band).",
+   "paper": {
+    "first_author": "Rich",
+    "year": 2022,
+    "title": "Gemini-LIGHTS: Herbig Ae/Be and Massive T Tauri Protoplanetary Disks Imaged with Gemini Planet Imager",
+    "journal": "AJ 164, 109",
+    "arxiv": "2206.05815",
+    "bibcode": "2022AJ....164..109R"
+   },
+   "file": "images/hd-176386/hd-176386_gpi-qphi-h.png",
+   "epoch": "2018-06-07"
+  },
+  {
+   "image_id": "hd-176386_gpi-qphi-j",
+   "type": "disk_scattered",
+   "facility": "Gemini South",
+   "instrument": "GPI J pol",
+   "wavelength_um": 1.24,
+   "wavelength_label": "J band Q_phi (polarized-light non-detection)",
+   "technique": "polarimetric differential imaging",
+   "survey": "Gemini-LIGHTS",
+   "content": "continuum",
+   "credit": "Rich et al. 2022, App. fig. set (crop)",
+   "note": "Panel label epoch 20180816; obs-log table says J 20180817 (panel label adopted).",
+   "paper": {
+    "first_author": "Rich",
+    "year": 2022,
+    "title": "Gemini-LIGHTS: Herbig Ae/Be and Massive T Tauri Protoplanetary Disks Imaged with Gemini Planet Imager",
+    "journal": "AJ 164, 109",
+    "arxiv": "2206.05815",
+    "bibcode": "2022AJ....164..109R"
+   },
+   "file": "images/hd-176386/hd-176386_gpi-qphi-j.png",
+   "epoch": "2018-08-16"
+  }
+ ],
+ "notes": "Gemini-LIGHTS polarized-light non-detection (H+J panels published); CrA member 21\" from TY CrA, d~155 pc.",
+ "last_updated": "2026-07-16"
+}

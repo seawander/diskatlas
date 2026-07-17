@@ -147,6 +147,29 @@
    },
    "epoch": "2017-11-15",
    "content": "continuum"
+  },
+  {
+   "image_id": "hd-98800_gpi-qphi-h",
+   "type": "disk_scattered",
+   "facility": "Gemini South",
+   "instrument": "GPI H pol",
+   "wavelength_um": 1.65,
+   "wavelength_label": "H band Q_phi (unresolved/undetermined compact disk)",
+   "technique": "polarimetric differential imaging",
+   "survey": "Gemini-LIGHTS",
+   "content": "continuum",
+   "credit": "Rich et al. 2022, Fig. 10 (crop)",
+   "note": "Existing system hd-98800; new instrument (GPI pol) vs held records. Companion candidate circled.",
+   "paper": {
+    "first_author": "Rich",
+    "year": 2022,
+    "title": "Gemini-LIGHTS: Herbig Ae/Be and Massive T Tauri Protoplanetary Disks Imaged with Gemini Planet Imager",
+    "journal": "AJ 164, 109",
+    "arxiv": "2206.05815",
+    "bibcode": "2022AJ....164..109R"
+   },
+   "file": "images/hd-98800/hd-98800_gpi-qphi-h.png",
+   "epoch": "2019-01-27"
   }
  ],
  "notes": "AUTO-CREATED from staging - fill metadata & coords",

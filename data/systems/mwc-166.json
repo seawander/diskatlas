@@ -1,0 +1,44 @@
+{
+ "id": "mwc-166",
+ "name": "MWC 166",
+ "alt_names": [
+  "HD 53367"
+ ],
+ "simbad": "HD 53367",
+ "ra_deg": 106.10632907,
+ "dec_deg": -10.45433708,
+ "dist_pc": null,
+ "sptype": "B0IV/Ve",
+ "region": null,
+ "categories": [
+  "protoplanetary"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "image_id": "mwc-166_gpi-qphi-j",
+   "type": "disk_scattered",
+   "facility": "Gemini South",
+   "instrument": "GPI J pol",
+   "wavelength_um": 1.24,
+   "wavelength_label": "J band Q_phi (polarized-light non-detection; near-blank field)",
+   "technique": "polarimetric differential imaging",
+   "survey": "Gemini-LIGHTS",
+   "content": "continuum",
+   "credit": "Rich et al. 2022, App. fig. set (crop)",
+   "note": "Paper designation MWC 166 = HD 53367; B0IV/Ve binary; companion candidate circled.",
+   "paper": {
+    "first_author": "Rich",
+    "year": 2022,
+    "title": "Gemini-LIGHTS: Herbig Ae/Be and Massive T Tauri Protoplanetary Disks Imaged with Gemini Planet Imager",
+    "journal": "AJ 164, 109",
+    "arxiv": "2206.05815",
+    "bibcode": "2022AJ....164..109R"
+   },
+   "file": "images/mwc-166/mwc-166_gpi-qphi-j.png",
+   "epoch": "2017-04-06"
+  }
+ ],
+ "notes": "Gemini-LIGHTS polarized-light non-detection (J panel published); massive Herbig Be binary in CMa OB1, d~1220 pc (paper; Gaia distance uncertain).",
+ "last_updated": "2026-07-16"
+}

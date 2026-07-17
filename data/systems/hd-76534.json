@@ -1,0 +1,67 @@
+{
+ "id": "hd-76534",
+ "name": "HD 76534",
+ "alt_names": [
+  "Hen 3-225"
+ ],
+ "simbad": "HD 76534",
+ "ra_deg": 133.78627802,
+ "dec_deg": -43.46663476,
+ "dist_pc": null,
+ "sptype": "B2Vn",
+ "region": null,
+ "categories": [
+  "protoplanetary"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "image_id": "hd-76534_gpi-qphi-h",
+   "type": "disk_scattered",
+   "facility": "Gemini South",
+   "instrument": "GPI H pol",
+   "wavelength_um": 1.65,
+   "wavelength_label": "H band Q_phi (polarized-light non-detection)",
+   "technique": "polarimetric differential imaging",
+   "survey": "Gemini-LIGHTS",
+   "content": "continuum",
+   "credit": "Rich et al. 2022, App. fig. set (crop)",
+   "note": "Paper designation Hen 3-225 = HD 76534 (coords table). The 'Hen 2-225' spelling in the paper's non-detection list is a typo for Hen 3-225 (verified against the paper's coordinate table: 08550867-4327596).",
+   "paper": {
+    "first_author": "Rich",
+    "year": 2022,
+    "title": "Gemini-LIGHTS: Herbig Ae/Be and Massive T Tauri Protoplanetary Disks Imaged with Gemini Planet Imager",
+    "journal": "AJ 164, 109",
+    "arxiv": "2206.05815",
+    "bibcode": "2022AJ....164..109R"
+   },
+   "file": "images/hd-76534/hd-76534_gpi-qphi-h.png",
+   "epoch": "2019-01-27"
+  },
+  {
+   "image_id": "hd-76534_gpi-qphi-j",
+   "type": "disk_scattered",
+   "facility": "Gemini South",
+   "instrument": "GPI J pol",
+   "wavelength_um": 1.24,
+   "wavelength_label": "J band Q_phi (polarized-light non-detection)",
+   "technique": "polarimetric differential imaging",
+   "survey": "Gemini-LIGHTS",
+   "content": "continuum",
+   "credit": "Rich et al. 2022, App. fig. set (crop)",
+   "note": "Second band of the Hen 3-225 (HD 76534) non-detection.",
+   "paper": {
+    "first_author": "Rich",
+    "year": 2022,
+    "title": "Gemini-LIGHTS: Herbig Ae/Be and Massive T Tauri Protoplanetary Disks Imaged with Gemini Planet Imager",
+    "journal": "AJ 164, 109",
+    "arxiv": "2206.05815",
+    "bibcode": "2022AJ....164..109R"
+   },
+   "file": "images/hd-76534/hd-76534_gpi-qphi-j.png",
+   "epoch": "2019-01-27"
+  }
+ ],
+ "notes": "Gemini-LIGHTS polarized-light non-detection (J+H panels published); Vela Herbig Be, d~885 pc. Paper's 'Hen 2-225' is a typo for Hen 3-225 = HD 76534 (verified via coords table + SIMBAD).",
+ "last_updated": "2026-07-16"
+}

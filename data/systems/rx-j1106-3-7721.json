@@ -1,0 +1,42 @@
+{
+ "id": "rx-j1106-3-7721",
+ "name": "RX J1106.3-7721",
+ "alt_names": [],
+ "simbad": "RX J1106.3-7721",
+ "ra_deg": 166.56394636,
+ "dec_deg": -77.36575566,
+ "dist_pc": null,
+ "sptype": "G5Ve",
+ "region": "Chamaeleon I",
+ "categories": [
+  "protoplanetary"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "image_id": "rx-j1106-3-7721_sphere-qphi-h",
+   "type": "disk_scattered",
+   "facility": "VLT",
+   "instrument": "SPHERE/IRDIS BB_H pol",
+   "wavelength_um": 1.625,
+   "wavelength_label": "H band Q_phi (scattered-light non-detection; no significant IR excess)",
+   "technique": "polarimetric differential imaging",
+   "survey": "SPHERE-ChamI",
+   "content": "continuum",
+   "credit": "Ginski et al. 2024, Fig. B.4 (crop)",
+   "note": "Paper designation RX J1106.3-7721 (SIMBAD main id Ass Cha T 2-21); single star; likely no extended disk.",
+   "paper": {
+    "first_author": "Ginski",
+    "year": 2024,
+    "title": "The SPHERE view of the Chamaeleon I star-forming region: The full census of planet-forming disks with GTO and DESTINYS programs",
+    "journal": "A&A 685, A52",
+    "arxiv": "2403.02149",
+    "bibcode": "2024A&A...685A..52G"
+   },
+   "file": "images/rx-j1106-3-7721/rx-j1106-3-7721_sphere-qphi-h.png",
+   "epoch": "2020-02-24"
+  }
+ ],
+ "notes": "SPHERE Cha I scattered-light non-detection with published panel; single star, no significant mid/far-IR excess (disk-less candidate). SIMBAD main id Ass Cha T 2-21.",
+ "last_updated": "2026-07-16"
+}

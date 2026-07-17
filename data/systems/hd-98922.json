@@ -1,0 +1,42 @@
+{
+ "id": "hd-98922",
+ "name": "HD 98922",
+ "alt_names": [],
+ "simbad": "HD 98922",
+ "ra_deg": 170.63197628,
+ "dec_deg": -53.36984917,
+ "dist_pc": null,
+ "sptype": "B9Ve",
+ "region": null,
+ "categories": [
+  "protoplanetary"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "image_id": "hd-98922_gpi-qphi-j",
+   "type": "disk_scattered",
+   "facility": "Gemini South",
+   "instrument": "GPI J pol",
+   "wavelength_um": 1.24,
+   "wavelength_label": "J band Q_phi (unresolved/undetermined compact disk)",
+   "technique": "polarimetric differential imaging",
+   "survey": "Gemini-LIGHTS",
+   "content": "continuum",
+   "credit": "Rich et al. 2022, Fig. 10 (crop)",
+   "note": "Paper designation HD 98922; undetermined category.",
+   "paper": {
+    "first_author": "Rich",
+    "year": 2022,
+    "title": "Gemini-LIGHTS: Herbig Ae/Be and Massive T Tauri Protoplanetary Disks Imaged with Gemini Planet Imager",
+    "journal": "AJ 164, 109",
+    "arxiv": "2206.05815",
+    "bibcode": "2022AJ....164..109R"
+   },
+   "file": "images/hd-98922/hd-98922_gpi-qphi-j.png",
+   "epoch": "2018-03-21"
+  }
+ ],
+ "notes": "Gemini-LIGHTS undetermined-disk target; Herbig Be, d~651 pc.",
+ "last_updated": "2026-07-16"
+}
