@@ -930,3 +930,21 @@ Follow-up veins left on the table (noted in gap manifests, not applied): Antilen
 absent Class 0 Perseus/Serpens protostars (scope call); Gemini-LIGHTS 13 'undetermined'
 marginal halos; PIPPIN L'-band pol records (HD 100546, GSS 30 IRS1); HOPS VLA 9mm
 electronic-only figure set; Liu 2016 V1515 Cyg (paper II reports non-detection).
+
+2026-07-16 (internal review fix — HR 5999 / HD 145718 cross-contamination). hr-5999.json
+carried an alt_name "HD 145718" (a DIFFERENT Upper Sco star with its own file); the correct
+designation is HD 144668 (SIMBAD: HD 144668 = HIP 79080 = HR 5999 = V856 Sco; Benisty 2011
+itself says "HR 5999 (V856 Sco, HD144668)"). Three records audited against sources:
+(1) hr-5999_gpi-qphi-j / (2) hr-5999_gpi-qphi-h (Davies et al. 2022, arXiv 2201.06472 — a paper
+about HD 145718; Fig. 1 panels are labeled "HD145718 20180607 J" / "20180608 H") were misfiled
+under HR 5999, with a note asserting the false equation "HD 145718 (=HR 5999)"; both records +
+crops MOVED to hd-145718 (kept alongside the held Rich 2022 Gemini-LIGHTS H record per the
+cross-paper-redundancy-wanted policy — same dataset, independent presentation).
+(3) hr-5999_pionier-h-recon (Kluska et al. 2020, arXiv 2004.01594, 15-target PIONIER LP that
+includes BOTH stars): the record metadata was fine for HR 5999 but the crop was the HD145718
+panel of Fig. 2 (in-panel label proved it, and it duplicated hd-145718_pionier2020); re-cropped
+the correct HD144668 panel from the arXiv source figure (Images9.pdf, 330x321 px) and fixed the
+note (HD144668 is centrally peaked + significantly asymmetric/rim-like per the paper, not
+"symmetric class"). hr-5999_amber2011 verified genuine (Benisty 2011 = HR 5999 paper; obs
+Feb 2008 - Jun 2010 → epoch 2008-2010 correct). Net: record count unchanged (2 moved, 1
+re-cropped); validate 0/0.

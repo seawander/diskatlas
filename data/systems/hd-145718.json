@@ -38,6 +38,52 @@
    "content": "continuum"
   },
   {
+   "image_id": "hd-145718_gpi-qphi-j",
+   "type": "disk_scattered",
+   "facility": "Gemini South",
+   "instrument": "GPI J pol",
+   "wavelength_um": 1.24,
+   "wavelength_label": "J band",
+   "technique": "polarimetric differential imaging",
+   "survey": "Gemini-LIGHTS",
+   "content": "continuum",
+   "credit": "Davies et al. 2022, Fig. 1 (crop)",
+   "note": "Q_phi J image of the i~70 deg inclined disc of HD 145718; N-S elongated scattering surface out to ~75 au.",
+   "paper": {
+    "first_author": "Davies",
+    "year": 2022,
+    "title": "Scattering and sublimation: a multiscale view of µm-sized dust in the inclined disc of HD 145718",
+    "journal": "MNRAS",
+    "arxiv": "2201.06472",
+    "bibcode": "2022MNRAS.511.2434D"
+   },
+   "file": "images/hd-145718/hd-145718_gpi-qphi-j.png",
+   "epoch": "2018-06-07"
+  },
+  {
+   "image_id": "hd-145718_gpi-qphi-h",
+   "type": "disk_scattered",
+   "facility": "Gemini South",
+   "instrument": "GPI H pol",
+   "wavelength_um": 1.65,
+   "wavelength_label": "H band",
+   "technique": "polarimetric differential imaging",
+   "survey": "Gemini-LIGHTS",
+   "content": "continuum",
+   "credit": "Davies et al. 2022, Fig. 1 (crop)",
+   "note": "H-band Q_phi image of same inclined disc, aspect ratio h/r~0.22. Same dataset as the held Rich et al. 2022 Gemini-LIGHTS record, independent presentation (cross-paper redundancy wanted).",
+   "paper": {
+    "first_author": "Davies",
+    "year": 2022,
+    "title": "Scattering and sublimation: a multiscale view of µm-sized dust in the inclined disc of HD 145718",
+    "journal": "MNRAS",
+    "arxiv": "2201.06472",
+    "bibcode": "2022MNRAS.511.2434D"
+   },
+   "file": "images/hd-145718/hd-145718_gpi-qphi-h.png",
+   "epoch": "2018-06-08"
+  },
+  {
    "image_id": "hd-145718_pionier2020",
    "type": "disk_scattered",
    "facility": "VLTI",
@@ -61,7 +107,7 @@
   }
  ],
  "notes": null,
- "last_updated": "2026-07-06",
+ "last_updated": "2026-07-16",
  "plx_mas": 6.4628,
  "mags": {
   "B": 9.29,

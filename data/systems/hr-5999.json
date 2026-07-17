@@ -3,7 +3,7 @@
  "name": "HR 5999",
  "alt_names": [
   "V856 Sco",
-  "HD 145718",
+  "HD 144668",
   "HIP 79080"
  ],
  "simbad": "V* V856 Sco",
@@ -47,52 +47,6 @@
    "content": "continuum"
   },
   {
-   "image_id": "hr-5999_gpi-qphi-j",
-   "type": "disk_scattered",
-   "facility": "Gemini South",
-   "instrument": "GPI J pol",
-   "wavelength_um": 1.24,
-   "wavelength_label": "J band",
-   "technique": "polarimetric differential imaging",
-   "survey": "Gemini-LIGHTS",
-   "content": "continuum",
-   "credit": "Davies et al. 2022, Fig. 1 (crop)",
-   "note": "Q_phi J image of the i~70 deg inclined disc of HD 145718 (=HR 5999); N-S elongated scattering surface out to ~75 au. New facility vs held VLTI/AMBER record.",
-   "paper": {
-    "first_author": "Davies",
-    "year": 2022,
-    "title": "Scattering and sublimation: a multiscale view of µm-sized dust in the inclined disc of HD 145718",
-    "journal": "MNRAS",
-    "arxiv": "2201.06472",
-    "bibcode": "2022MNRAS.511.2434D"
-   },
-   "file": "images/hr-5999/hr-5999_gpi-qphi-j.png",
-   "epoch": "2018-06-07"
-  },
-  {
-   "image_id": "hr-5999_gpi-qphi-h",
-   "type": "disk_scattered",
-   "facility": "Gemini South",
-   "instrument": "GPI H pol",
-   "wavelength_um": 1.65,
-   "wavelength_label": "H band",
-   "technique": "polarimetric differential imaging",
-   "survey": "Gemini-LIGHTS",
-   "content": "continuum",
-   "credit": "Davies et al. 2022, Fig. 1 (crop)",
-   "note": "H-band Q_phi image of same inclined disc, aspect ratio h/r~0.22.",
-   "paper": {
-    "first_author": "Davies",
-    "year": 2022,
-    "title": "Scattering and sublimation: a multiscale view of µm-sized dust in the inclined disc of HD 145718",
-    "journal": "MNRAS",
-    "arxiv": "2201.06472",
-    "bibcode": "2022MNRAS.511.2434D"
-   },
-   "file": "images/hr-5999/hr-5999_gpi-qphi-h.png",
-   "epoch": "2018-06-08"
-  },
-  {
    "image_id": "hr-5999_pionier-h-recon",
    "type": "disk_scattered",
    "facility": "VLTI",
@@ -103,7 +57,7 @@
    "survey": null,
    "content": "continuum",
    "credit": "Kluska et al. 2020, Fig. 2 (crop)",
-   "note": "PIONIER H-band reconstructed image of the mas-scale inner disk rim (centrally peaked, symmetric class); star subtracted (cyan star). Data from VLTI Large Program 190.C-0963, 2012 Dec 19 - 2013 Jun 06. Thermal NIR inner-rim emission - type per held VLTI record convention.",
+   "note": "PIONIER H-band reconstructed image of the mas-scale inner disk rim (HD144668 panel; centrally peaked, significant asymmetry, likely rim-like); star subtracted (cyan star). Data from VLTI Large Program 190.C-0963, 2012 Dec 19 - 2013 Jun 06. Thermal NIR inner-rim emission - type per held VLTI record convention.",
    "paper": {
     "first_author": "Kluska",
     "year": 2020,
@@ -117,5 +71,5 @@
   }
  ],
  "notes": "Herbig Ae star in Lupus 3; VLTI/AMBER long-baseline interferometry (H,K) reconstructs a sub-AU near-IR image (MiRA algorithm) revealing a ring-like feature at ~0.65 AU tracing the silicate sublimation front (Benisty et al. 2011, arXiv:1106.4150).",
- "last_updated": "2026-07-08"
+ "last_updated": "2026-07-16"
 }

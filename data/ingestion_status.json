@@ -1,6 +1,6 @@
 {
  "_doc": "Per-survey ingestion state. entries/coords/images: done|partial|todo. Update on every ingest.",
- "updated": "2026-07-16: Gap exploration batch (6 parallel agents, 6 waves): survey-completeness audits (11 scattered-light + 9 mm/embedded), historical-firsts audit, imaged-companion multi-coverage, and 102 old single-image systems -> +204 records / +45 new systems / +51 papers. Headlines: DARTTS-S II & ODISEA I largely missing (8+30 panels, 3+29 new systems); eDisk closed 19/19; discovery-era classics restored (first silhouette disk O'Dell & Wen 1994, AB Pic b, TW Hya/HR 4796A/HD 100546 firsts); Fomalhaut b 5-epoch arc; HD 169142 b 0->5; YSES 2 b refuted (Kenworthy 2025 background star); epoch fixes DoAr 25 + 3 KOINTREAU records. Confirmed complete: DSHARP, MAPS, AGE-PRO, REASONS, Long Taurus, ARKS, EdgeOn-ALMA, Gemini-LIGHTS, GPIES-debris, SPHERE-debris-2025, ChamI/Taurus/Orion DESTINYS censuses. 666 systems / 3067 records / 803 papers, 0 errors / 0 warnings.",
+ "updated": "2026-07-16: internal review fix: HR 5999 / HD 145718 cross-contamination -- hr-5999 alt_names HD 145718 -> HD 144668 (SIMBAD: HD 144668 = HIP 79080 = V856 Sco); two Davies 2022 (2201.06472) GPI Q_phi records (J 2018-06-07, H 2018-06-08) moved to hd-145718; hr-5999 PIONIER crop replaced with the correct HD144668 panel of Kluska 2020 Fig. 2 (was the HD145718 panel). 666 systems / 3067 records / 803 papers, 0 errors / 0 warnings.",
  "surveys": {
   "DSHARP": {
    "entries": "done",
