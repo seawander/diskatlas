@@ -6,17 +6,17 @@ One JSON file per stellar system in `data/systems/<system_id>.json`.
 
 **Optional `epoch` field** (on image records): the **observation** date — the date the data were *taken*, NOT the publication year. Precision is honest per record: `YYYY-MM-DD` / `YYYY Mon DD` when the executions cluster within ~45 days, `YYYY` when they span one calendar year, `YYYY-YYYY` when a published image combines executions across years. Sources, in priority order: (1) the record's own paper — observing-log table rows matched by target alias and instrument (`backend-data/epoch_harvest.py tex` + curated `backend-data/epoch_picks.py`); (2) observatory archives queried by position/instrument/band and bounded by the paper date — ALMA TAP, MAST (HST+JWST), ESO TAP (`backend-data/epoch_archives.py`). Every recovered epoch's origin and evidence snippet is recorded in `data/paper_finder/epoch_provenance.json`; `backend-data/epoch_audit.py` reports coverage. The viewer shows the observation-epoch year as a **bare** year on each detail-card chip (tooltip gives the full date); where the obs epoch is not yet recovered it shows the publication year in **parentheses** instead — so the two are never conflated and duplicate band+instrument labels stay distinguishable.
 
-## Inclusion / resolution criterion
+## Inclusion criterion (scope widened 2026-07-16)
 
-A record earns a place only if it is a **spatially resolved image** or a **direct/interferometric
-companion detection** (or a coronagraphic quasar-host image). Numeric bar for *disk* records: the
-disk structure must span **≥ 3 resolution elements** (synthesized beams, or PSF/diffraction-limit
-FWHMs) along at least one axis in the published image — i.e. resolved structure, not an unresolved
-blob. **Companion records** (`type: "planet"`) are point-source *detections*; they need not be
-spatially resolved, but must be a genuine imaging/interferometric detection (not a transit light
-curve, RV curve, SED, or photometry — those are out of scope). This bar is enforced at ingestion
-by the mandatory VIEW-verify step; there is no stored per-record beam/PSF size, so marginal cases
-are flagged qualitatively in the record `note` rather than auto-rejected.
+A record earns a place if it is a **published sky-image panel of the target** — resolved OR
+unresolved, detection OR imaged non-detection (maintainer decision 2026-07-16; the former
+"≥ 3 resolution elements" bar is retired). The disposition must be stated plainly on the record
+(`wavelength_label` and/or `note`: e.g. "unresolved point source", "1.3 mm continuum
+non-detection"). **Companion records** (`type: "planet"`) must be genuine imaging/interferometric
+detections or published candidate/refuted-candidate panels (not a transit light curve, RV curve,
+SED, or photometry). Still excluded because they are not sky images: contrast curves, radial
+profiles, SEDs, visibility fits, channel-map grids, PV diagrams, model predictions, and
+press-release images. Enforced at ingestion by the mandatory VIEW-verify step.
 
 ## system_id convention
 

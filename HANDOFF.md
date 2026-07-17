@@ -9,8 +9,9 @@ narrative lives in `docs/HISTORY.md` — **grep it, never load it whole**.
 ## What this project is
 
 An offline, double-click `index.html` all-sky atlas of every system with a
-**spatially resolved circumstellar disk** (mm/submm interferometry +
-high-contrast scattered light / thermal-IR), a **directly imaged
+**published image of a circumstellar disk** (mm/submm interferometry +
+high-contrast scattered light / thermal-IR — resolved or unresolved, detection
+or imaged non-detection; scope widened 2026-07-16), a **directly imaged
 exoplanet/companion**, or a **coronagraphically imaged quasar/AGN host**. Every
 image is a low-res crop of a peer-reviewed figure (or official archive preview)
 with clickable **arXiv + SciX** citations. Pure static files — no server, no
