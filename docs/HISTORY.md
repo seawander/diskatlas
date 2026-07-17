@@ -877,3 +877,56 @@ omission on every pre-existing system they touched: 80 of 95 systems stale
 batch ingestion dates (2026-07-14 or 2026-07-16); validate 0/0, data.js
 rebuilt. Reminder for future batches: appending to images[] must bump
 last_updated (data/README.md row "New image for existing system").
+
+## 2026-07-16 — Gap-exploration batch: survey audits, historical firsts, multi-coverage
+
+Six parallel agents worked the three gap classes that recent directed asks had exposed
+(SONS was 40% incomplete; the eps Eri/Vega submm classics were absent; single-image
+planet hosts violated multi-coverage). Net: **+204 image records, +45 new systems,
++51 papers** across six applied waves, each VIEW-verified, ADS-verified, and
+collision-guarded. 634->666 systems, 2863->3067 records (incl. the morning's classics
++ Zhao ingests), 749->803 papers.
+
+**Survey completeness.** The two big misses were DARTTS-S II (Garufi 2020 — only 1 of
+11 detections had ever been ingested; +8 panels, 3 new systems, plus a DoAr 25 epoch
+fix from the observing log) and ODISEA I (Cieza 2019 — 25 of 53 resolved singles plus
+4 resolved-primary multiples absent; 29 new Ophiuchus systems). eDisk closed at 19/19
+(the 2 missing were record gaps: IRAS 04302+2247 via eDisk II, Oph IRS63 via eDisk
+XII). NACO-PIPPIN gained 8 detections (4 new systems: R CrA, Parsamian 21, R Mon,
+Mon R2 IRS 3); GPI-Crotts2024's J/K1 polarimetry was ingested for 10 more disks; SEEDS
+gained 3 missed installments (FUor polarimetry, GG Tau ring, LkCa 15); the DISCS SMA
+chemistry survey continuum was back-filled for 10 targets; DESTINYS gained T CrA,
+S CrA, PDS 111; JOYS gained HH 211-mm + TMC-1/L1527 line maps; the SPHERE-Ks-RDI
+V1094 Sco panel was recovered. Confirmed complete (no action): DSHARP, MAPS, AGE-PRO,
+REASONS, Long Taurus, ARKS 24/24, EdgeOn-ALMA 12/12, Gemini-LIGHTS, GPIES-debris,
+SPHERE-debris-2025, Keck-vortex, INSPIRING, and the DESTINYS ChamI/Taurus/Orion
+censuses (all absents are non-detections).
+
+**Historical firsts.** Restored discovery-era classics from author e-prints and openly
+accessible sources: the first silhouette disk (O'Dell & Wen 1994, 183-405) + the
+McCaughrean & O'Dell 1996 montage (167-231 also new), AB Pic b (Chauvin 2005; new
+companion-host system), TW Hya NICMOS/IRTF firsts, HR 4796A mid-IR firsts
+(Jayawardhana 1998, Telesco 2000), HD 100546 first resolved images (Pantin 2000),
+HD 141569 (Augereau 1999), GG Tau polarimetry (Silber 2000), Haro 6-5B/FS Tau
+(Krist 1998), beta Pic mid-IR (Pantin 1997), Fomalhaut SCUBA 450+850 um (Holland
+2003). Deferred non-OA (ledgered): Lagage & Pantin 1994, Holland 1998, Koerner 1993,
+Thomas 2007. Fourteen classics were confirmed already held.
+
+**Companion multi-coverage & singles.** Fomalhaut b's full 5-epoch arc (2006-2014
+fade-out); LkCa 15 b SAM discovery images + Sallum 2015; HD 169142 b 0->5 records;
+HD 100546 b discovery + first M'/GPI-H; HR 2562 B 4 GPI bands; MWC 758 b added as
+disputed; TWA 7 b NIRCam counterpart. 102 old single-image systems triaged: CB 26
+1->8 records, HH 212 +4 bands, tau Cet ALMA+PACS, HD 8907 first resolved image,
+Serpens S68N JWST+polarization, NGC 1333 IRAS 4A/4B, IRAS 16293 3mm, IRAS 15398
+MIRI x3, IRC +10 216 HST x3, plus new systems HH 270 IRS (epoch chased to 2022-10
+via the companion Raga 2025 paper) and HH 211-mm. Integrity fixes en route: three
+KOINTREAU epochs corrected against NIRC2 observing tables; fw-tau adjudicated
+protoplanetary; **YSES 2 b reclassified refuted** (background star; VLTI/GRAVITY +
+SPHERE astrometry, Kenworthy et al. 2025); BKLT added to coarse-designation prefixes
+in health_check (truncated RA seconds).
+
+Follow-up veins left on the table (noted in gap manifests, not applied): Antilen 2023
+12CO moment maps for the 10 ODISEA high-res disks; JOYS+ H2 outflow maps of ~12
+absent Class 0 Perseus/Serpens protostars (scope call); Gemini-LIGHTS 13 'undetermined'
+marginal halos; PIPPIN L'-band pol records (HD 100546, GSS 30 IRS1); HOPS VLA 9mm
+electronic-only figure set; Liu 2016 V1515 Cyg (paper II reports non-detection).
