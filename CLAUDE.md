@@ -1,7 +1,9 @@
 # diskatlas — agent quick context
 
-Offline all-sky atlas of resolved circumstellar disks, imaged companions, and
-quasar hosts. Static files; `data/systems/*.json` is ground truth,
+Offline all-sky atlas of published images of circumstellar disks (resolved or
+unresolved, detections or imaged non-detections; criterion widened 2026-07-16 —
+canonical text in `data/README.md`), imaged companions, and quasar hosts.
+Static files; `data/systems/*.json` is ground truth,
 `frontend/data.js` is GENERATED (never hand-edit).
 
 ## Two work tracks — split by concern (2026-07-11)

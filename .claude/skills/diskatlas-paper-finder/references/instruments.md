@@ -1,10 +1,11 @@
 # Instrument & facility taxonomy
 
-This is a **map, not a whitelist.** The atlas covers resolved imaging / high-contrast imaging / resolved
-spectroscopy / interferometry of planet-formation targets. Any instrument that produces such data is in
-scope, including ones not listed here and ones commissioned after this file was written. Use this to
-(a) recognize instruments named in a paper, (b) generate instrument-scoped SciX searches, and (c) know
-what *kind* of resolved data to expect (which affects the relevance call).
+This is a **map, not a whitelist.** The atlas covers imaging / high-contrast imaging / spatially resolved
+spectroscopy / interferometry of planet-formation targets — and since 2026-07-16 ANY published sky-image
+panel qualifies (resolved or unresolved, detection or imaged non-detection). Any instrument that produces
+such data is in scope, including ones not listed here and ones commissioned after this file was written.
+Use this to (a) recognize instruments named in a paper, (b) generate instrument-scoped SciX searches, and
+(c) know what *kind* of image data to expect (which affects the relevance call).
 
 When you search SciX by instrument, both the instrument name and the facility name are worth trying, and
 so are common aliases — ADS/SciX metadata is inconsistent about which is recorded. Query hints below give
@@ -24,7 +25,7 @@ the strings that tend to hit.
 | Magellan | MagAO, MagAO-X, VisAO | Visible/NIR extreme AO, Hα for accreting protoplanets | `MagAO-X protoplanet`, `VisAO H-alpha` |
 | Palomar / others | PALM-3000, WIRC-Pol, SDC | AO / polarimetric imaging | `Palomar disk polarimetry` |
 
-Notable data-product cues that mean "resolved image is present": *scattered light image*, *polarimetric
+Notable data-product cues that mean "a sky-image panel is present": *scattered light image*, *polarimetric
 intensity / Qφ / PI*, *ADI / KLIP / reference-star differential imaging*, *contrast curve* + detection,
 *spectral IFS cube*.
 
@@ -37,7 +38,7 @@ intensity / Qφ / PI*, *ADI / KLIP / reference-star differential imaging*, *cont
 | VLT | NEAR (VISIR upgrade), VISIR | Mid-IR imaging / nulling | `NEAR nulling`, `VISIR disk` |
 | Gemini | T-ReCS, Michelle | Mid-IR imaging of resolved disks (esp. earlier debris-disk detections) | `T-ReCS disk`, `Gemini Michelle debris` |
 | Keck / LBT | Nuller, NOMIC | Nulling interferometry (exozodi, inner disks) | `Keck Nuller exozodi`, `NOMIC` |
-| Herschel | PACS, SPIRE | Far-IR thermal (70–500 µm). *Mostly unresolved photometry* — keep only when the disk is spatially **resolved** (nearby/large debris disks) | `Herschel PACS resolved disk` |
+| Herschel | PACS, SPIRE | Far-IR thermal (70–500 µm). Keep any paper that publishes an actual **image panel** of the target (resolved maps of nearby/large debris disks, but also unresolved/marginal maps since 2026-07-16); skip photometry-table-only papers | `Herschel PACS disk image` |
 
 ## Sub-millimeter / millimeter / radio (continuum + molecular line, resolved maps)
 

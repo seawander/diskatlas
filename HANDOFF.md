@@ -17,11 +17,12 @@ image is a low-res crop of a peer-reviewed figure (or official archive preview)
 with clickable **arXiv + SciX** citations. Pure static files — no server, no
 runtime build.
 
-## Current state (2026-07-11)
+## Current state
 
-- **484 systems · 1815 image records (all with local panels) · validate.py
-  0 errors / 0 warnings · all bibcodes ADS-verified · epoch coverage 94.3%**
-  (`python3 backend-data/build.py` is always canonical for stats).
+- Counts move constantly — **run `python3 backend-data/build.py`; its output is
+  the ONLY canonical source for stats.** Never trust (or hand-write) prose
+  numbers here. (For scale as of 2026-07-16: ~750 systems, ~3200 image records,
+  ~96% epoch coverage, 0 validate errors / 0 warnings, bibcodes ADS-verified.)
 - Live at **github.com/seawander/diskatlas** + GitHub Pages. Publish = **direct
   push to `master`** (no PRs, `gh` not installed). Multiple sessions commit
   concurrently — `git fetch` before assuming ahead/behind.
