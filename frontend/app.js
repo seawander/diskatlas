@@ -1413,6 +1413,20 @@ if (typeof window !== "undefined") (function () {
   const presentSurveys = new Set(SYS.flatMap(s => (s.images || []).map(i => i.survey).filter(Boolean)));
   const ALL_SURVEYS = MAJOR_SURVEYS.filter(v => presentSurveys.has(v))
     .sort((a, b) => a.toLowerCase().localeCompare(b.toLowerCase()));
+  /* "clear facets" is a clear ⇄ UNDO toggle: clearing stashes the selection so a
+     second click restores it exactly (facets' default is empty, so unlike the
+     category toggle the useful inverse is the PREVIOUS state, not a default).
+     Any manual facet click invalidates the stash — it's stale the moment the
+     user edits by hand. The label always says what the next click does. */
+  const FACET_SETS = { facet_band: "bands", facet_content: "content", facet_missing: "missing",
+    facet_facility: "facilities", facet_instrument: "instruments", facet_survey: "surveys" };
+  let facetStash = null, facetResetEl = null;
+  function syncFacetClearLabel() {
+    if (!facetResetEl) return;
+    const key = facetStash ? "facet_undo" : "facet_clear";
+    facetResetEl.dataset.i18n = key; facetResetEl.textContent = t(key);
+  }
+  function facetTouched() { if (facetStash) { facetStash = null; syncFacetClearLabel(); } }
   function chipGroup(parent, titleKey, entries, set, exclusive) {
     const wrap = document.createElement("div"); wrap.className = "fgroup";
     const lbl = document.createElement("span"); lbl.className = "flabel";
@@ -1435,6 +1449,7 @@ if (typeof window !== "undefined") (function () {
              ALL of the selected facilities/instruments (e.g. VLT AND ALMA) */
           set.has(val) ? set.delete(val) : set.add(val); c.classList.toggle("on");
         }
+        facetTouched();
         refilter(); updateRelHighlights();
       };
       wrap.appendChild(c);
@@ -1476,13 +1491,29 @@ if (typeof window !== "undefined") (function () {
     hint.dataset.i18n = "facet_hint"; hint.textContent = t("facet_hint");
     facetsBar.appendChild(hint);
     const reset = document.createElement("span"); reset.className = "chip sm reset";
-    reset.dataset.i18n = "facet_clear"; reset.textContent = t("facet_clear");
+    facetResetEl = reset;
     reset.onclick = () => {
-      filters.bands.clear(); filters.content.clear(); filters.missing.clear();
-      filters.facilities.clear(); filters.instruments.clear(); filters.surveys.clear();
-      facetsBar.querySelectorAll(".chip.on").forEach(c => c.classList.remove("on"));
-      facetsBar.querySelectorAll(".chip.rel").forEach(c => c.classList.remove("rel")); refilter();
+      if (facetStash) {
+        /* UNDO: put the stashed selection back, sets and chips alike */
+        for (const g in FACET_SETS) {
+          const set = filters[FACET_SETS[g]];
+          set.clear(); facetStash[FACET_SETS[g]].forEach(v => set.add(v));
+        }
+        facetsBar.querySelectorAll(".chip[data-group]").forEach(c =>
+          c.classList.toggle("on", filters[FACET_SETS[c.dataset.group]].has(c.dataset.val)));
+        facetStash = null;
+      } else {
+        const names = Object.values(FACET_SETS);
+        if (!names.some(n => filters[n].size)) return;   // nothing selected: nothing to clear
+        facetStash = {};
+        names.forEach(n => { facetStash[n] = [...filters[n]]; filters[n].clear(); });
+        facetsBar.querySelectorAll(".chip.on").forEach(c => c.classList.remove("on"));
+        facetsBar.querySelectorAll(".chip.rel").forEach(c => c.classList.remove("rel"));
+      }
+      syncFacetClearLabel();
+      updateRelHighlights(); refilter();
     };
+    syncFacetClearLabel();
     facetsBar.appendChild(reset);
   }
 
