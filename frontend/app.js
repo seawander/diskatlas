@@ -863,21 +863,34 @@ if (typeof window !== "undefined") (function () {
         el.title = t(el.dataset.i18nTitle);
       }
     } else { el.dataset.i18n = i18nKey; el.textContent = t(i18nKey); }
-    el.onclick = () => { filters[key] = !filters[key]; el.classList.toggle("on"); refilter(); };
+    el.onclick = () => {
+      filters[key] = !filters[key]; el.classList.toggle("on");
+      syncCatClearLabel();   // manually clearing the last category flips it to "restore"
+      refilter();
+    };
     fbar.appendChild(el);
   }
-  /* "clear categories": turn every category chip off -> blank map (constellations
-     stay). Parallels "clear facets"; the two together give a full blank slate. */
+  /* Category clear/restore TOGGLE, parallel to "clear facets": first click turns
+     every category chip off (blank map, constellations stay); clicking again puts
+     them back to the boot default (all on). The label always says what the next
+     click does, and re-localises because applyStaticI18n reads dataset.i18n. */
   const catClear = document.createElement("span");
   catClear.className = "chip reset";
-  catClear.dataset.i18n = "cat_clear"; catClear.textContent = t("cat_clear");
+  function syncCatClearLabel() {
+    if (!catClear) return;
+    const key = CAT_KEYS.some(k => filters[k]) ? "cat_clear" : "cat_restore";
+    catClear.dataset.i18n = key; catClear.textContent = t(key);
+  }
   catClear.onclick = () => {
-    CAT_KEYS.forEach(k => { filters[k] = false; });
+    const anyOn = CAT_KEYS.some(k => filters[k]);
+    CAT_KEYS.forEach(k => { filters[k] = !anyOn; });   // any on -> clear all; none on -> restore default
     fbar.querySelectorAll("[data-fkey]").forEach(el => {
-      if (CAT_KEYS.indexOf(el.dataset.fkey) >= 0) el.classList.remove("on");
+      if (CAT_KEYS.indexOf(el.dataset.fkey) >= 0) el.classList.toggle("on", !!filters[el.dataset.fkey]);
     });
+    syncCatClearLabel();
     refilter();
   };
+  syncCatClearLabel();
   fbar.appendChild(catClear);
   function refilter() {
     visible = new Set(filterSystems(SYS, filters, "").map(s => s.id));
