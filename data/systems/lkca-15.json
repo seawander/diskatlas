@@ -625,6 +625,75 @@
    },
    "file": "images/lkca-15/lkca-15_hiciao-h-pisub.png",
    "epoch": "2013-11-22"
+  },
+  {
+   "image_id": "lkca-15_sam-lp-2010nov",
+   "type": "planet",
+   "facility": "Keck",
+   "instrument": "NIRC2 (sparse aperture masking)",
+   "wavelength_um": 3.78,
+   "wavelength_label": "L' 3.8 um (SAM reconstructed image, Nov 2010; discovery of LkCa 15 b)",
+   "technique": "aperture-masking interferometry",
+   "survey": null,
+   "content": "continuum",
+   "credit": "Kraus et al. 2012, Fig. 2 (crop)",
+   "note": "Discovery-paper reconstructed image; panel label 'Nov 2010 L'' burned in, central star = white cross. Same figure also holds Nov 2009 and Aug 2010 L' epochs (not cropped).",
+   "paper": {
+    "first_author": "Kraus",
+    "year": 2012,
+    "title": "LkCa 15: A Young Exoplanet Caught at Formation?",
+    "journal": "ApJ",
+    "arxiv": "1110.3808",
+    "bibcode": "2012ApJ...745....5K"
+   },
+   "file": "images/lkca-15/lkca-15_sam-lp-2010nov.png",
+   "epoch": "2010-11-27"
+  },
+  {
+   "image_id": "lkca-15_sam-kp-2010nov",
+   "type": "planet",
+   "facility": "Keck",
+   "instrument": "NIRC2 (sparse aperture masking)",
+   "wavelength_um": 2.12,
+   "wavelength_label": "K' 2.1 um (SAM reconstructed image, Nov 2010)",
+   "technique": "aperture-masking interferometry",
+   "survey": null,
+   "content": "continuum",
+   "credit": "Kraus et al. 2012, Fig. 2 (crop)",
+   "note": "K'-band panel of the discovery figure; 100 mas scale bar and N/E compass in panel.",
+   "paper": {
+    "first_author": "Kraus",
+    "year": 2012,
+    "title": "LkCa 15: A Young Exoplanet Caught at Formation?",
+    "journal": "ApJ",
+    "arxiv": "1110.3808",
+    "bibcode": "2012ApJ...745....5K"
+   },
+   "file": "images/lkca-15/lkca-15_sam-kp-2010nov.png",
+   "epoch": "2010-11-26"
+  },
+  {
+   "image_id": "lkca-15_halpha-ks-lp-composite",
+   "type": "planet",
+   "facility": "LBT + Magellan",
+   "instrument": "LBTI/LMIRCam NRM + MagAO SDI",
+   "wavelength_um": 2.18,
+   "wavelength_label": "composite Halpha (blue) + Ks (green) + L' (red); b, c, d? labeled",
+   "technique": "non-redundant masking + SDI",
+   "survey": null,
+   "content": "continuum",
+   "credit": "Sallum et al. 2015, Fig. 1b (crop)",
+   "note": "The Nature 'accreting protoplanets' figure: Halpha 2014-11-15 (MagAO), L' 2014-12-15 (LBT), Ks 2015-02-05/07 (LBT). Composite of line+continuum data - maintainer may prefer content=line.",
+   "paper": {
+    "first_author": "Sallum",
+    "year": 2015,
+    "title": "Accreting protoplanets in the LkCa 15 transition disk",
+    "journal": "Nature",
+    "arxiv": "1511.07456",
+    "bibcode": "2015Natur.527..342S"
+   },
+   "file": "images/lkca-15/lkca-15_halpha-ks-lp-composite.png",
+   "epoch": "2014-2015"
   }
  ],
  "notes": null,

@@ -1292,6 +1292,29 @@
     "bibcode": "2019ApJ...875...38R"
    },
    "epoch": "2018-07-01"
+  },
+  {
+   "image_id": "hd-163296_nirc2-lp-vortex",
+   "type": "planet",
+   "facility": "Keck",
+   "instrument": "NIRC2 vortex coronagraph",
+   "wavelength_um": 3.78,
+   "wavelength_label": "L' 3.8 um PCA-ADI; candidate point source 'b' labeled with arrow",
+   "technique": "ADI (PCA)",
+   "survey": null,
+   "content": "continuum",
+   "credit": "Guidi et al. 2018, Fig. 1 (crop)",
+   "note": "Ground-based L' candidate at ~0.5 arcsec (2017 May 30-31 nights); distinct from and earlier than the held JWST F410M candidate (Uyama 2025). Uyama's F200W shows NO counterpart to the F410M source (checked: no crop possible).",
+   "paper": {
+    "first_author": "Guidi",
+    "year": 2018,
+    "title": "High-contrast imaging of HD 163296 with the Keck/NIRC2 L'-band vortex coronograph",
+    "journal": "MNRAS",
+    "arxiv": "1806.08263",
+    "bibcode": "2018MNRAS.479.1505G"
+   },
+   "file": "images/hd-163296/hd-163296_nirc2-lp-vortex.png",
+   "epoch": "2017-05"
   }
  ],
  "notes": null,

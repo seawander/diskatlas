@@ -287,6 +287,29 @@
     "bibcode": "2025ApJ...989....4A"
    },
    "epoch": "2022-04"
+  },
+  {
+   "image_id": "2mass-j16120668-3010270_magaox-apr13",
+   "type": "planet",
+   "facility": "Magellan-MagAO-X",
+   "instrument": "MagAO-X (Halpha SDI)",
+   "wavelength_um": 0.656,
+   "wavelength_label": "H-alpha; second-night detection (SNR 5.3), candidate in dashed circle",
+   "technique": "SDI/ASDI",
+   "survey": null,
+   "content": "line",
+   "credit": "Li et al. 2025, Fig. 1 (crop)",
+   "note": "Independent second-epoch (Apr 13 2025) Halpha detection two nights before the held Apr 16 panel; same figure. A 2024-03-25 Halpha recovery exists but its figure was dropped from this arXiv version (readout-stripe contamination; authors exclude it from analysis).",
+   "paper": {
+    "first_author": "Li",
+    "year": 2025,
+    "title": "Discovery of Hα Emission from a Protoplanet Candidate around the Young Star 2MASS J16120668─3010270 with MagAO-X",
+    "journal": "ApJ",
+    "arxiv": "2508.11155",
+    "bibcode": "2025ApJ...990L..70L"
+   },
+   "file": "images/2mass-j16120668-3010270/2mass-j16120668-3010270_magaox-apr13.png",
+   "epoch": "2025-04-13"
   }
  ],
  "notes": "AGE-PRO Upper Scorpius 1. Transition disk with large inner dust cavity and ring at 78 au; ALMA residuals show a spiral arm and a tentative protoplanet candidate inside the cavity (Sierra et al. 2024; Vioque et al. 2025). SPHERE H-band imaging shows spirals, gap, and outer ring interpreted as evidence of planet-disk interaction (Ginski et al. 2025).",

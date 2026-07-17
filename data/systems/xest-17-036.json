@@ -52,8 +52,77 @@
     "arxiv": "2512.05191",
     "bibcode": "2026AJ....171...80W"
    },
-   "epoch": "2023-12",
+   "epoch": "2021-10-27",
    "content": "continuum"
+  },
+  {
+   "image_id": "xest-17-036_ps1-y",
+   "type": "planet",
+   "facility": "Pan-STARRS1",
+   "instrument": "GPC1, y band",
+   "wavelength_um": 0.96,
+   "wavelength_label": "PS1 y stack; companion (KOINTREAU-1b) = faint dot NE of host (labels 'XEST 17-036'/'PS1 y' in panel)",
+   "technique": "survey imaging",
+   "survey": "KOINTREAU",
+   "content": "continuum",
+   "credit": "Walker et al. 2026, Fig. 3 (crop)",
+   "note": "Same discovery paper as the held NIRC2 record, different facility; PS1 stack epoch is the survey range.",
+   "paper": {
+    "first_author": "Walker",
+    "year": 2026,
+    "title": "Keck Observations in the INfrared of Taurus and ρ Oph Exoplanets And Ultracool Dwarfs (KOINTREAU) I: A Planetary-mass Companion and a Disk-obscured Stellar Companion Discovered in Taurus",
+    "journal": "AJ",
+    "arxiv": "2512.05191",
+    "bibcode": "2026AJ....171...80W"
+   },
+   "file": "images/xest-17-036/xest-17-036_ps1-y.png",
+   "epoch": "2010-2014"
+  },
+  {
+   "image_id": "xest-17-036_irac36-sub",
+   "type": "planet",
+   "facility": "Spitzer",
+   "instrument": "IRAC [3.6] (PSF-subtracted)",
+   "wavelength_um": 3.6,
+   "wavelength_label": "IRAC 3.6 um host-PSF-subtracted residual; companion marked by black arrow",
+   "technique": "PSF fitting/subtraction",
+   "survey": "KOINTREAU",
+   "content": "continuum",
+   "credit": "Walker et al. 2026, Fig. 3 (crop)",
+   "note": "Program 3584, UT 2005 Feb 24-25; companion invisible in catalog image, revealed after PSF subtraction. Band identified by column position per Fig. 3 layout.",
+   "paper": {
+    "first_author": "Walker",
+    "year": 2026,
+    "title": "Keck Observations in the INfrared of Taurus and ρ Oph Exoplanets And Ultracool Dwarfs (KOINTREAU) I: A Planetary-mass Companion and a Disk-obscured Stellar Companion Discovered in Taurus",
+    "journal": "AJ",
+    "arxiv": "2512.05191",
+    "bibcode": "2026AJ....171...80W"
+   },
+   "file": "images/xest-17-036/xest-17-036_irac36-sub.png",
+   "epoch": "2005-02"
+  },
+  {
+   "image_id": "xest-17-036_irac45-sub",
+   "type": "planet",
+   "facility": "Spitzer",
+   "instrument": "IRAC [4.5] (PSF-subtracted)",
+   "wavelength_um": 4.5,
+   "wavelength_label": "IRAC 4.5 um host-PSF-subtracted residual; companion marked by black arrow",
+   "technique": "PSF fitting/subtraction",
+   "survey": "KOINTREAU",
+   "content": "continuum",
+   "credit": "Walker et al. 2026, Fig. 3 (crop)",
+   "note": "[5.8] and [8.0] residual panels also exist (weaker); not cropped.",
+   "paper": {
+    "first_author": "Walker",
+    "year": 2026,
+    "title": "Keck Observations in the INfrared of Taurus and ρ Oph Exoplanets And Ultracool Dwarfs (KOINTREAU) I: A Planetary-mass Companion and a Disk-obscured Stellar Companion Discovered in Taurus",
+    "journal": "AJ",
+    "arxiv": "2512.05191",
+    "bibcode": "2026AJ....171...80W"
+   },
+   "file": "images/xest-17-036/xest-17-036_irac45-sub.png",
+   "epoch": "2005-02"
   }
  ],
  "notes": "Host is an M4 Taurus member (~3.3 Myr, XEST/XMM-Newton survey source). KOINTREAU-1b was confirmed bound via common proper motion with Gaia astrometry (log Bayes factor ~25.7; Walker+2026). The companion's spectral type varies between epochs (M7 SpeX vs L1 GNIRS), possibly indicating clouds or a circumcompanion disk.",

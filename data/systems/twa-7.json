@@ -423,6 +423,29 @@
    },
    "file": "images/twa-7/twa-7_scuba2-850um-sons.png",
    "epoch": "2012-2015"
+  },
+  {
+   "image_id": "twa-7_nircam-f444w-c6",
+   "type": "planet",
+   "facility": "JWST",
+   "instrument": "NIRCam coronagraphy (F444W)",
+   "wavelength_um": 4.44,
+   "wavelength_label": "F444W; C6 = NIRCam counterpart of the MIRI CC#1 planet candidate, MIRI contours overlaid",
+   "technique": "RDI (MCRDI)",
+   "survey": null,
+   "content": "continuum",
+   "credit": "Crotts et al. 2025, Fig. 12 (crop)",
+   "note": "NIRCam follow-up of Lagrange+2025: detects C6 in F444W co-located with MIRI 11-um CC#1 (TWA 7 b candidate); F200W = non-detection (extremely red). New instrument + band for this companion.",
+   "paper": {
+    "first_author": "Crotts",
+    "year": 2025,
+    "title": "Follow-up Exploration of the TWA 7 Planet─Disk System with JWST NIRCam",
+    "journal": "ApJ",
+    "arxiv": "2506.19932",
+    "bibcode": "2025ApJ...987L..41C"
+   },
+   "file": "images/twa-7/twa-7_nircam-f444w-c6.png",
+   "epoch": "2024-06-15"
   }
  ],
  "notes": null,

@@ -72,6 +72,98 @@
    "file": "images/hd-50571/hd-50571_vapp2021.png",
    "epoch": "2017-02-06",
    "content": "continuum"
+  },
+  {
+   "image_id": "hd-50571_gpi-j",
+   "type": "planet",
+   "facility": "Gemini-GPI",
+   "instrument": "GPI IFS (J)",
+   "wavelength_um": 1.24,
+   "wavelength_label": "J band (panel label 'J band - 2016 Feb 28'); HR 2562 B",
+   "technique": "KLIP ADI",
+   "survey": "GPIES",
+   "content": "continuum",
+   "credit": "Konopacky et al. 2016, Fig. 1a (crop)",
+   "note": "Discovery paper of HR 2562 B (=HD 50571 B) is cited in planets[] but only a later LBT vAPP image was held; all four GPI discovery bands now cropped.",
+   "paper": {
+    "first_author": "Konopacky",
+    "year": 2016,
+    "title": "Discovery of a Substellar Companion to the Nearby Debris Disk Host HR 2562",
+    "journal": "ApJ",
+    "arxiv": "1608.06660",
+    "bibcode": "2016ApJ...829L...4K"
+   },
+   "file": "images/hd-50571/hd-50571_gpi-j.png",
+   "epoch": "2016-02-28"
+  },
+  {
+   "image_id": "hd-50571_gpi-h",
+   "type": "planet",
+   "facility": "Gemini-GPI",
+   "instrument": "GPI IFS (H)",
+   "wavelength_um": 1.65,
+   "wavelength_label": "H band ('H band - 2016 Jan 25'); HR 2562 B",
+   "technique": "KLIP ADI",
+   "survey": "GPIES",
+   "content": "continuum",
+   "credit": "Konopacky et al. 2016, Fig. 1b (crop)",
+   "note": "Discovery epoch.",
+   "paper": {
+    "first_author": "Konopacky",
+    "year": 2016,
+    "title": "Discovery of a Substellar Companion to the Nearby Debris Disk Host HR 2562",
+    "journal": "ApJ",
+    "arxiv": "1608.06660",
+    "bibcode": "2016ApJ...829L...4K"
+   },
+   "file": "images/hd-50571/hd-50571_gpi-h.png",
+   "epoch": "2016-01-25"
+  },
+  {
+   "image_id": "hd-50571_gpi-k1",
+   "type": "planet",
+   "facility": "Gemini-GPI",
+   "instrument": "GPI IFS (K1)",
+   "wavelength_um": 2.05,
+   "wavelength_label": "K1 band ('K1 band - 2016 Jan 28'); HR 2562 B",
+   "technique": "KLIP ADI",
+   "survey": "GPIES",
+   "content": "continuum",
+   "credit": "Konopacky et al. 2016, Fig. 1c (crop)",
+   "note": "",
+   "paper": {
+    "first_author": "Konopacky",
+    "year": 2016,
+    "title": "Discovery of a Substellar Companion to the Nearby Debris Disk Host HR 2562",
+    "journal": "ApJ",
+    "arxiv": "1608.06660",
+    "bibcode": "2016ApJ...829L...4K"
+   },
+   "file": "images/hd-50571/hd-50571_gpi-k1.png",
+   "epoch": "2016-01-28"
+  },
+  {
+   "image_id": "hd-50571_gpi-k2",
+   "type": "planet",
+   "facility": "Gemini-GPI",
+   "instrument": "GPI IFS (K2)",
+   "wavelength_um": 2.26,
+   "wavelength_label": "K2 band ('K2 band - 2016 Feb 25'); HR 2562 B with debris-disk inner-edge ellipses",
+   "technique": "KLIP ADI",
+   "survey": "GPIES",
+   "content": "continuum",
+   "credit": "Konopacky et al. 2016, Fig. 1d (crop)",
+   "note": "Dashed ellipses show two possible disk inner-edge solutions (38/75 au).",
+   "paper": {
+    "first_author": "Konopacky",
+    "year": 2016,
+    "title": "Discovery of a Substellar Companion to the Nearby Debris Disk Host HR 2562",
+    "journal": "ApJ",
+    "arxiv": "1608.06660",
+    "bibcode": "2016ApJ...829L...4K"
+   },
+   "file": "images/hd-50571/hd-50571_gpi-k2.png",
+   "epoch": "2016-02-25"
   }
  ],
  "notes": "AUTO-CREATED from staging - fill metadata & coords",

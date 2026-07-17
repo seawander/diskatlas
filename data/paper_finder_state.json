@@ -59984,5 +59984,10 @@
   "status": "deferred",
   "reason": "Koerner 1993 (Icarus): first resolved CO aperture-synthesis imaging of the GM Aur disk. No arXiv/open source; crop-source rule unmet.",
   "date": "2026-07-16"
+ },
+ "2007IAUS..240..250T": {
+  "status": "deferred",
+  "reason": "Thomas 2007 (IAU Symp. 240): AO multiplicity survey cited as the discovery reference for V1788 Ori B/C; may contain discovery AO images. No arXiv/open source found; crop-source rule unmet.",
+  "date": "2026-07-16"
  }
 }

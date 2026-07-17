@@ -46,6 +46,29 @@
    },
    "epoch": "2019-12-30",
    "content": "continuum"
+  },
+  {
+   "image_id": "v807-tau_nirc2-h-2008",
+   "type": "planet",
+   "facility": "Keck",
+   "instrument": "NIRC2 AO",
+   "wavelength_um": 1.63,
+   "wavelength_label": "H band; triple resolved - A, Ba, Bb all labeled ('2008 Dec 17' in panel)",
+   "technique": "AO imaging",
+   "survey": null,
+   "content": "continuum",
+   "credit": "Schaefer et al. 2012, Fig. 1 (crop)",
+   "note": "Resolves the held 'Bab' companion into Ba+Bb; figure holds 9 epochs 2002-2011 (more panels available if multi-epoch desired). Complements the held Garufi 2024 DPI record where Bab is unresolved.",
+   "paper": {
+    "first_author": "Schaefer",
+    "year": 2012,
+    "title": "Orbit and Stellar Properties of the Young Triple V807 Tau",
+    "journal": "ApJ",
+    "arxiv": "1207.7037",
+    "bibcode": "2012ApJ...756..120S"
+   },
+   "file": "images/v807-tau/v807-tau_nirc2-h-2008.png",
+   "epoch": "2008-12-17"
   }
  ],
  "notes": "K7 young multiple system in Taurus; the held SPHERE/IRDIS H-band image from the Taurus polarimetric census shows the close companion pair (Bab at 0.17 arcsec), while no significant polarized disk signal is detected (Garufi et al. 2024).",

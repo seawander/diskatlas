@@ -27,6 +27,18 @@
     "_verify": true,
     "journal": "Nature Astronomy 7, 1208"
    }
+  },
+  {
+   "name": "b",
+   "status": "disputed",
+   "note": "L' point-source candidate at ~0.11 arcsec (Reggiani et al. 2018); later studies attribute the signal to inner-disk emission - disputed.",
+   "paper": {
+    "first_author": "Reggiani",
+    "year": 2018,
+    "arxiv": "1710.11393",
+    "bibcode": "2018A&A...611A..74R",
+    "journal": "A&A 611, A74"
+   }
   }
  ],
  "images": [
@@ -513,6 +525,52 @@
     "bibcode": "2026arXiv260530023K"
    },
    "content": "continuum"
+  },
+  {
+   "image_id": "mwc-758_nirc2-lp-2015",
+   "type": "planet",
+   "facility": "Keck",
+   "instrument": "NIRC2",
+   "wavelength_um": 3.78,
+   "wavelength_label": "L' 3.8 um PCA-ADI; point-like source 'b' labeled (plus spirals S1-S3)",
+   "technique": "ADI (PCA)",
+   "survey": null,
+   "content": "continuum",
+   "credit": "Reggiani et al. 2018, Fig. 1a (crop)",
+   "note": "MWC 758 'b' candidate at ~0.11 arcsec - NOT currently in the system's planets[] list (only c is); recommend adding b as candidate/disputed. Fig 1b holds the 2016-10-24 second epoch (not cropped).",
+   "paper": {
+    "first_author": "Reggiani",
+    "year": 2018,
+    "title": "Discovery of a point-like source and a third spiral arm in the transition disk around the Herbig Ae star MWC 758",
+    "journal": "A&A",
+    "arxiv": "1710.11393",
+    "bibcode": "2018A&A...611A..74R"
+   },
+   "file": "images/mwc-758/mwc-758_nirc2-lp-2015.png",
+   "epoch": "2015-10-24"
+  },
+  {
+   "image_id": "mwc-758_lbt-snr-cc1",
+   "type": "planet",
+   "facility": "LBT",
+   "instrument": "LBTI/LMIRCam",
+   "wavelength_um": 3.7,
+   "wavelength_label": "combined L'+M' S/N map; 'CC1' labeled with arrow (pre-discovery of MWC 758 c)",
+   "technique": "ADI (combined 3-epoch S/N)",
+   "survey": null,
+   "content": "continuum",
+   "credit": "Wagner et al. 2019, Fig. 2 (crop)",
+   "note": "First appearance of the source later confirmed as MWC 758 c by Wagner+2023 (held); epochs 2016-10-15 (L'), 2017-02-11 (L'), 2018-12-25 (M').",
+   "paper": {
+    "first_author": "Wagner",
+    "year": 2019,
+    "title": "Thermal Infrared Imaging of MWC 758 with the Large Binocular Telescope: Planetary-driven Spiral Arms?",
+    "journal": "ApJ",
+    "arxiv": "1907.06655",
+    "bibcode": "2019ApJ...882...20W"
+   },
+   "file": "images/mwc-758/mwc-758_lbt-snr-cc1.png",
+   "epoch": "2016-2018"
   }
  ],
  "notes": null,
