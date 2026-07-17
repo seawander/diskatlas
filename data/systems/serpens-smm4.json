@@ -38,6 +38,29 @@
     "bibcode": "2019ApJ...887..209A"
    },
    "epoch": "2016-05"
+  },
+  {
+   "image_id": "serpens-smm4_12co-outflow",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 6",
+   "wavelength_um": 1300,
+   "wavelength_label": "12CO (2-1)",
+   "technique": "moment 0+1 maps",
+   "survey": null,
+   "content": "line",
+   "credit": "Aso et al. 2018, Fig. 3a (crop)",
+   "note": "12CO 2-1 outflow map of SMM4A/4B (obs 2016 May 19+21, same Cycle-3 program as held Aso 2019 continuum - line product is new). Dedicated SMM4 paper.",
+   "paper": {
+    "first_author": "Aso",
+    "year": 2018,
+    "title": "The Distinct Evolutionary Nature of Two Class 0 Protostars in Serpens Main SMM4",
+    "journal": "ApJ",
+    "arxiv": "1806.10743",
+    "bibcode": "2018ApJ...863...19A"
+   },
+   "file": "images/serpens-smm4/serpens-smm4_12co-outflow.png",
+   "epoch": "2016-05"
   }
  ],
  "notes": "Protostar imaged at 1.3 mm in the Serpens Main ALMA survey (Aso et al. 2019).",

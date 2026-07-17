@@ -58,6 +58,29 @@
    },
    "epoch": "2022-08-21",
    "content": "continuum"
+  },
+  {
+   "image_id": "pds-111_destinys_hband_qphi",
+   "type": "disk_scattered",
+   "facility": "VLT",
+   "instrument": "SPHERE IRDIS DPI",
+   "wavelength_um": 1.65,
+   "wavelength_label": "H band 1.65 um Q_phi (flaring disk, asymmetric substructure)",
+   "technique": "polarimetric differential imaging",
+   "survey": "DESTINYS",
+   "content": "continuum",
+   "credit": "Derkink et al. 2024, Fig. 1 (crop)",
+   "note": "pds-111 system exists but holds only 2 mm-continuum records; this defining DESTINYS scattered-light image (15.9 Myr 'Peter Pan' disk) is missing",
+   "paper": {
+    "first_author": "Derkink",
+    "year": 2024,
+    "title": "Disk Evolution Study Through Imaging of Nearby Young Stars (DESTINYS): PDS 111, an old T Tauri star with a young-looking disk",
+    "journal": "A&A",
+    "arxiv": "2406.04160",
+    "bibcode": "2024A&A...688A.149D"
+   },
+   "file": "images/pds-111/pds-111_destinys_hband_qphi.png",
+   "epoch": "2020-12-30"
   }
  ],
  "notes": "Transition disk with an inner dust cavity; ALMA continuum from the Vioque et al. 2026 gallery (literature-compiled). Added 2026-07-11.",

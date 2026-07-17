@@ -38,6 +38,29 @@
     "bibcode": "2008MNRAS.384..907B"
    },
    "epoch": "1998-06-17"
+  },
+  {
+   "image_id": "oph-irs-54_sinfoni-h2",
+   "type": "disk_scattered",
+   "facility": "VLT",
+   "instrument": "SINFONI K-band IFU",
+   "wavelength_um": 2.122,
+   "wavelength_label": "H2 1-0 S(1) 2.122 um",
+   "technique": "IFU line imaging",
+   "survey": null,
+   "content": "line",
+   "credit": "Garcia Lopez et al. 2013, Fig. 1d (crop)",
+   "note": "Spatially resolved H2 outflow/jet from the VLMS IRS 54 down to 50 au; knots A-E. New facility vs held UKIRT pol imaging. Follow-up multi-epoch SINFONI in Stock 2020 (2009.12281) if a 2nd epoch is wanted.",
+   "paper": {
+    "first_author": "Garcia Lopez",
+    "year": 2013,
+    "title": "Spatially resolved H2 emission from a very low-mass star",
+    "journal": "A&A",
+    "arxiv": "1302.6749",
+    "bibcode": "2013A&A...552L...2G"
+   },
+   "file": "images/oph-irs-54/oph-irs-54_sinfoni-h2.png",
+   "epoch": "2010-06-14"
   }
  ],
  "notes": "Embedded YSO with a cometary reflection nebula extending >=1500 au east of the core in UKIRT H-band imaging polarimetry (Beckford et al. 2008).",

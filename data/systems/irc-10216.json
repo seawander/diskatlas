@@ -36,6 +36,75 @@
    },
    "file": "images/irc-10216/irc-10216_expo2015.png",
    "content": "continuum"
+  },
+  {
+   "image_id": "irc-10216_hst-2016-f606w",
+   "type": "disk_scattered",
+   "facility": "HST",
+   "instrument": "WFC3/UVIS F606W",
+   "wavelength_um": 0.59,
+   "wavelength_label": "F606W (0.59 um)",
+   "technique": "imaging",
+   "survey": null,
+   "content": "continuum",
+   "credit": "Kim et al. 2021, Fig. 1d (crop)",
+   "note": "Inner 3x3 arcsec of the CSE: scattered-light peaks and searchlight features around the carbon star (F814W contours overlaid). New facility vs held WHT ExPo.",
+   "paper": {
+    "first_author": "Kim",
+    "year": 2021,
+    "title": "Multiepoch Optical Images of IRC+10216 Tell about the Central Star and the Adjacent Environment",
+    "journal": "ApJ",
+    "arxiv": "2105.05931",
+    "bibcode": "2021ApJ...914...35K"
+   },
+   "file": "images/irc-10216/irc-10216_hst-2016-f606w.png",
+   "epoch": "2016-05-17"
+  },
+  {
+   "image_id": "irc-10216_hst-2016-f814w",
+   "type": "disk_scattered",
+   "facility": "HST",
+   "instrument": "WFC3/UVIS F814W",
+   "wavelength_um": 0.8,
+   "wavelength_label": "F814W (0.80 um)",
+   "technique": "imaging",
+   "survey": null,
+   "content": "continuum",
+   "credit": "Kim et al. 2021, Fig. 1e (crop)",
+   "note": "F814W panel: compact red peak coincident with p.m.-corrected stellar position.",
+   "paper": {
+    "first_author": "Kim",
+    "year": 2021,
+    "title": "Multiepoch Optical Images of IRC+10216 Tell about the Central Star and the Adjacent Environment",
+    "journal": "ApJ",
+    "arxiv": "2105.05931",
+    "bibcode": "2021ApJ...914...35K"
+   },
+   "file": "images/irc-10216/irc-10216_hst-2016-f814w.png",
+   "epoch": "2016-05-17"
+  },
+  {
+   "image_id": "irc-10216_hst-2016-f098m",
+   "type": "disk_scattered",
+   "facility": "HST",
+   "instrument": "WFC3/IR F098M",
+   "wavelength_um": 0.98,
+   "wavelength_label": "F098M (0.98 um)",
+   "technique": "imaging",
+   "survey": null,
+   "content": "continuum",
+   "credit": "Kim et al. 2021, Fig. 1f (crop)",
+   "note": "WFC3/IR panel of the same epoch (0.13 arcsec pixels).",
+   "paper": {
+    "first_author": "Kim",
+    "year": 2021,
+    "title": "Multiepoch Optical Images of IRC+10216 Tell about the Central Star and the Adjacent Environment",
+    "journal": "ApJ",
+    "arxiv": "2105.05931",
+    "bibcode": "2021ApJ...914...35K"
+   },
+   "file": "images/irc-10216/irc-10216_hst-2016-f098m.png",
+   "epoch": "2016-05-17"
   }
  ],
  "notes": "Evolved carbon star (IRC+10216) whose circumstellar dust shells were resolved with the ExPo imaging polarimeter (Jeffers+2014).",

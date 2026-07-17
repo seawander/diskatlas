@@ -431,6 +431,29 @@
    },
    "epoch": "2015-2017",
    "content": "continuum"
+  },
+  {
+   "image_id": "cq-tau_discs_sma_cont",
+   "type": "disk_mm",
+   "facility": "SMA",
+   "instrument": "SMA 267 GHz",
+   "wavelength_um": 1123,
+   "wavelength_label": "1.1 mm continuum (267 GHz, DISCS)",
+   "technique": "interferometry",
+   "survey": "DISCS",
+   "content": "continuum",
+   "credit": "Oberg et al. 2010, Fig. 3 (crop)",
+   "note": "CQ Tau: DISCS-I Taurus sample; no DISCS-I records held for any of the 6 northern targets; resolved contour maps; CO/HCO+/HCN/CN moment maps in same figure are candidate line records",
+   "paper": {
+    "first_author": "Oberg",
+    "year": 2010,
+    "title": "The Disk Imaging Survey of Chemistry with SMA. I. Taurus Protoplanetary Disk Data",
+    "journal": "ApJ",
+    "arxiv": "1007.1476",
+    "bibcode": "2010ApJ...720..480O"
+   },
+   "file": "images/cq-tau/cq-tau_discs_sma_cont.png",
+   "epoch": "2009-12-15"
   }
  ],
  "notes": null,

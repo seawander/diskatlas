@@ -40,6 +40,75 @@
     "bibcode": "2019ApJ...887..209A"
    },
    "epoch": "2016-05"
+  },
+  {
+   "image_id": "serpens-s68n_nirspec-cont-3p9um",
+   "type": "disk_scattered",
+   "facility": "JWST",
+   "instrument": "NIRSpec IFU (G395H)",
+   "wavelength_um": 3.9,
+   "wavelength_label": "3.8-4.0 um continuum",
+   "technique": "IFU continuum imaging",
+   "survey": null,
+   "content": "continuum",
+   "credit": "Le Gouellec et al. 2025, Fig. 2 (crop)",
+   "note": "NIRSpec IFU 3.8-4.0 um continuum of the S68N core: NC source (=Serpens Emb 8-b, 1.4 arcsec / 600 au from S68N) bright, SC source (=S68N/Emb 8) seen as scattered-light blueshifted cavity. Both fragments lie within the serpens-s68n system; suggest adding alt name 'Serpens Emb 8-b'.",
+   "paper": {
+    "first_author": "Le Gouellec",
+    "year": 2025,
+    "title": "Unveiling Two Deeply Embedded Young Protostars in the S68N Class 0 Protostellar Core with JWST/NIRSpec",
+    "journal": "ApJ",
+    "arxiv": "2410.11095",
+    "bibcode": "2025ApJ...985..225L"
+   },
+   "file": "images/serpens-s68n/serpens-s68n_nirspec-cont-3p9um.png",
+   "epoch": "2023-04-16"
+  },
+  {
+   "image_id": "serpens-s68n_nirspec-h2-jet",
+   "type": "disk_scattered",
+   "facility": "JWST",
+   "instrument": "NIRSpec IFU (G235H)",
+   "wavelength_um": 2.8,
+   "wavelength_label": "H2 1-0 O(3) 2.80 um",
+   "technique": "continuum-subtracted line map",
+   "survey": null,
+   "content": "line",
+   "credit": "Le Gouellec et al. 2025, Fig. 4 (crop)",
+   "note": "H2 1-0 O(3) integrated-intensity map: collimated hot molecular jet from the SC source (S68N) plus H2 patches at NC; white contours = CO ro-vib.",
+   "paper": {
+    "first_author": "Le Gouellec",
+    "year": 2025,
+    "title": "Unveiling Two Deeply Embedded Young Protostars in the S68N Class 0 Protostellar Core with JWST/NIRSpec",
+    "journal": "ApJ",
+    "arxiv": "2410.11095",
+    "bibcode": "2025ApJ...985..225L"
+   },
+   "file": "images/serpens-s68n/serpens-s68n_nirspec-h2-jet.png",
+   "epoch": "2023-04-16"
+  },
+  {
+   "image_id": "serpens-s68n_alma-b7-pol",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 7 full-pol",
+   "wavelength_um": 870,
+   "wavelength_label": "870 um",
+   "technique": "interferometric polarimetry",
+   "survey": null,
+   "content": "continuum",
+   "credit": "Le Gouellec et al. 2019, Fig. 10 (crop)",
+   "note": "870 um dust polarization of Serpens Emb 8 (=S68N); chaotic field morphology. New band vs held Band 6 continuum. ALMA projects 2013.1.00726.S/2015.1.00768.S/2016.1.00710.S taken 2015-06-03/07, 2016-09-12/13, 2017-07-31.",
+   "paper": {
+    "first_author": "Le Gouellec",
+    "year": 2019,
+    "title": "Characterizing Magnetic Field Morphologies in Three Serpens Protostellar Cores with ALMA",
+    "journal": "ApJ",
+    "arxiv": "1909.00046",
+    "bibcode": "2019ApJ...885..106L"
+   },
+   "file": "images/serpens-s68n/serpens-s68n_alma-b7-pol.png",
+   "epoch": "2015-2017"
   }
  ],
  "notes": "Class 0 protostar (Lbol~14 Lsun, Tbol~30 K; Aso et al. 2019 Table 2), the core of the SMM9 condensation; a distinct source from the S68Nb and S68Nc protostars ~30 arcsec to the NE.",

@@ -37,6 +37,29 @@
     "bibcode": "2019ApJ...887..209A"
    },
    "epoch": "2016-05"
+  },
+  {
+   "image_id": "s68nc1_alma-b7-pol",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 7 full-pol",
+   "wavelength_um": 870,
+   "wavelength_label": "870 um",
+   "technique": "interferometric polarimetry",
+   "survey": null,
+   "content": "continuum",
+   "credit": "Le Gouellec et al. 2019, Fig. 3 (crop)",
+   "note": "Serpens Emb 8(N) at 18:29:48.73 +01:16:55.6 matches s68nc1 coordinates exactly (Aso 2019 S68Nc1); paper footnote loosely calls it 'S68Nb' - coordinates are ground truth. Polarization along outflow cavity walls, p up to 36%.",
+   "paper": {
+    "first_author": "Le Gouellec",
+    "year": 2019,
+    "title": "Characterizing Magnetic Field Morphologies in Three Serpens Protostellar Cores with ALMA",
+    "journal": "ApJ",
+    "arxiv": "1909.00046",
+    "bibcode": "2019ApJ...885..106L"
+   },
+   "file": "images/s68nc1/s68nc1_alma-b7-pol.png",
+   "epoch": "2015-2017"
   }
  ],
  "notes": "Class 0 protostar (Tbol<40 K) driving its own 12CO outflow; a distinct core in the S68N region (Aso et al. 2019 Table 2).",

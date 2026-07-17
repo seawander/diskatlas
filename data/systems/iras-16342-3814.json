@@ -36,6 +36,29 @@
    "file": "images/iras-16342-3814/iras-16342-3814_alma_13co.png",
    "epoch": "2015-06-13",
    "content": "line"
+  },
+  {
+   "image_id": "iras-16342-3814_sinfoni-h2",
+   "type": "disk_scattered",
+   "facility": "VLT",
+   "instrument": "SINFONI K-band IFU",
+   "wavelength_um": 2.122,
+   "wavelength_label": "H2 1-0 S(1) 2.122 um",
+   "technique": "IFU line imaging",
+   "survey": null,
+   "content": "line",
+   "credit": "Gledhill et al. 2012, Fig. 4 (crop)",
+   "note": "Shocked H2 emission in both bipolar lobes of the water-fountain PPN, offset from the scattered continuum (contours). New facility vs held ALMA; type disk_scattered chosen for NIR lobe emission - adjust if evolved-star convention differs.",
+   "paper": {
+    "first_author": "Gledhill",
+    "year": 2012,
+    "title": "A fast bipolar H2 outflow from IRAS 16342-3814: an old star reliving its youth",
+    "journal": "MNRAS",
+    "arxiv": "1112.0877",
+    "bibcode": "2012MNRAS.421..346G"
+   },
+   "file": "images/iras-16342-3814/iras-16342-3814_sinfoni-h2.png",
+   "epoch": "2005-06-29"
   }
  ],
  "notes": "Post-AGB / evolved circumstellar disk resolved with ALMA Band 7 (Sahai+2017).",

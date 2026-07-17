@@ -208,6 +208,29 @@
    },
    "epoch": "2017-2018",
    "content": "continuum"
+  },
+  {
+   "image_id": "v4046-sgr_discs_sma_cont",
+   "type": "disk_mm",
+   "facility": "SMA",
+   "instrument": "SMA 267 GHz",
+   "wavelength_um": 1123,
+   "wavelength_label": "1.1 mm continuum (267 GHz, DISCS)",
+   "technique": "interferometry",
+   "survey": "DISCS",
+   "content": "continuum",
+   "credit": "Oberg et al. 2011, Fig. 3 (crop)",
+   "note": "V4046 Sgr: DISCS-II southern-sky sample (tracks 2009-06-23, 2009-09-09, 2010-08-04); atlas holds the identical DISCS SMA product only for IM Lup and HD 142527 - same-survey record gap; CO/HCO+/HCN/CN moment maps in same figure are candidate line records",
+   "paper": {
+    "first_author": "Oberg",
+    "year": 2011,
+    "title": "Disk Imaging Survey of Chemistry with SMA. II. Southern Sky Protoplanetary Disk Data and Full Sample Statistics",
+    "journal": "ApJ",
+    "arxiv": "1104.1236",
+    "bibcode": "2011ApJ...734...98O"
+   },
+   "file": "images/v4046-sgr/v4046-sgr_discs_sma_cont.png",
+   "epoch": "2009-2010"
   }
  ],
  "notes": null,

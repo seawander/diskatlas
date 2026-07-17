@@ -37,6 +37,29 @@
     "bibcode": "2019ApJ...887..209A"
    },
    "epoch": "2016-05"
+  },
+  {
+   "image_id": "serpens-smm11_12co-jet",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 6",
+   "wavelength_um": 1300,
+   "wavelength_label": "12CO (2-1)",
+   "technique": "moment 0+1 maps",
+   "survey": null,
+   "content": "line",
+   "credit": "Aso et al. 2017, Fig. 1b (crop)",
+   "note": "Collimated 12CO bipolar jet of the extremely young (Tbol=26 K) protostar SMM11; discovery paper of the source. Line product new vs held continuum.",
+   "paper": {
+    "first_author": "Aso",
+    "year": 2017,
+    "title": "ALMA Observations of SMM11 Reveal an Extremely Young Protostar in Serpens Main Cluster",
+    "journal": "ApJ",
+    "arxiv": "1710.10787",
+    "bibcode": "2017ApJ...850L...2A"
+   },
+   "file": "images/serpens-smm11/serpens-smm11_12co-jet.png",
+   "epoch": "2016-05"
   }
  ],
  "notes": "Protostar imaged at 1.3 mm in the Serpens Main ALMA survey (Aso et al. 2019).",

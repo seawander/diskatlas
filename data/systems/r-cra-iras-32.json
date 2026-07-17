@@ -39,6 +39,29 @@
    },
    "epoch": "2021-05-04",
    "content": "continuum"
+  },
+  {
+   "image_id": "r-cra-iras-32_12co-mom",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 6 (SB+LB)",
+   "wavelength_um": 1300,
+   "wavelength_label": "12CO (2-1)",
+   "technique": "moment 0+1 maps",
+   "survey": "eDisk",
+   "content": "line",
+   "credit": "Encalada et al. 2024, Fig. 4, panel A (crop)",
+   "note": "Dedicated eDisk XIII paper: newly resolved 207-au Class 0 protobinary; 12CO outflow around aligned circumstellar disks + circumbinary structure. SB obs 2021-05-04/15, LB 2021-08/10. Line product new vs held overview continuum.",
+   "paper": {
+    "first_author": "Encalada",
+    "year": 2024,
+    "title": "Early Planet Formation in Embedded Disks (eDisk). XIII. Aligned Disks with Nonsettled Dust around the Newly Resolved Class 0 Protobinary R CrA IRAS 32",
+    "journal": "ApJ",
+    "arxiv": "2403.14143",
+    "bibcode": "2024ApJ...966...32E"
+   },
+   "file": "images/r-cra-iras-32/r-cra-iras-32_12co-mom.png",
+   "epoch": "2021"
   }
  ],
  "notes": "Class 0 embedded protostar (eDisk)",

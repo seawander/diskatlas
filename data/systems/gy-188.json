@@ -1,0 +1,44 @@
+{
+ "id": "gy-188",
+ "name": "GY 188",
+ "alt_names": [
+  "[GY92] 188"
+ ],
+ "simbad": "[GY92] 188",
+ "ra_deg": 246.76253,
+ "dec_deg": -24.437416,
+ "dist_pc": null,
+ "sptype": "M3",
+ "region": "Ophiuchus",
+ "categories": [
+  "protoplanetary"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "image_id": "gy-188_odisea_b6cont",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 6",
+   "wavelength_um": 1300,
+   "wavelength_label": "1.3 mm continuum (ODISEA, 0.2 arcsec/28 au)",
+   "technique": "interferometry",
+   "survey": "ODISEA",
+   "content": "continuum",
+   "credit": "Cieza et al. 2019, Fig. 3 (crop)",
+   "note": "ODISEA C4 063, F=21.7 mJy; panel from the 53-disk resolved-singles gallery; marginally-to-clearly resolved at 0.2 arcsec (obj 3, 26 edge-on; obj 33/44/70/72 clearly extended)",
+   "paper": {
+    "first_author": "Cieza",
+    "year": 2019,
+    "title": "The Ophiuchus DIsc Survey Employing ALMA (ODISEA) - I: project description and continuum images at 28 au resolution",
+    "journal": "MNRAS",
+    "arxiv": "1809.08844",
+    "bibcode": "2019MNRAS.482..698C"
+   },
+   "file": "images/gy-188/gy-188_odisea_b6cont.png",
+   "epoch": "2017-07"
+  }
+ ],
+ "notes": "ODISEA C4 object 063: resolved 1.3 mm disk (deconvolved size in Cieza 2019 Table 3), F1.3mm=21.7 mJy; in Fig. 3 resolved-singles gallery but absent from atlas (coord+name cross-match)",
+ "last_updated": "2026-07-16"
+}

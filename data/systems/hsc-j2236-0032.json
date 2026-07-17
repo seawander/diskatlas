@@ -38,6 +38,29 @@
    },
    "epoch": "2022-11-05",
    "content": "continuum"
+  },
+  {
+   "image_id": "hsc-j2236-0032_nircam-f150w-host",
+   "type": "quasar",
+   "facility": "JWST",
+   "instrument": "NIRCam F150W",
+   "wavelength_um": 1.5,
+   "wavelength_label": "F150W (1.50 um)",
+   "technique": "PSF subtraction",
+   "survey": null,
+   "content": "continuum",
+   "credit": "Ding et al. 2023, Fig. 2 (crop)",
+   "note": "Host galaxy of z=6.4 quasar J2236+0032 detected in F150W after quasar PSF subtraction (m_F150W=25.12, host fraction 10.2%), elongated NE-SW like F356W. Same visit as held F356W record; paper text says observed 2022 Nov 6 (held record says 11-05 - reconcile at ingestion).",
+   "paper": {
+    "first_author": "Ding",
+    "year": 2023,
+    "title": "Detection of stellar light from quasar host galaxies at redshifts above 6",
+    "journal": "Nature",
+    "arxiv": "2211.14329",
+    "bibcode": "2023Natur.621...51D"
+   },
+   "file": "images/hsc-j2236-0032/hsc-j2236-0032_nircam-f150w-host.png",
+   "epoch": "2022-11-06"
   }
  ],
  "notes": "SHELLQs quasar; one of the first two z>6 quasar hosts with detected starlight (JWST/NIRCam 2D decomposition; host stellar mass ~1.3e11 Msun). Added by batch S (quasar expansion from Ren et al. 2024 intro citations). Coordinates derived from the HSC IAU designation J223644.58+003256.9; SIMBAD refinement pending via coords_todo_batchS. Batch T verified against Ding+2023 Extended Data Table 1: RA 22:36:44.58 Dec +00:32:56.90 and z=6.40 match exactly (NIRSpec [OIII] systemic z=6.4039+-0.0009); host detected in both F356W and F150W.",

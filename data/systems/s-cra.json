@@ -1,0 +1,42 @@
+{
+ "id": "s-cra",
+ "name": "S CrA",
+ "alt_names": [],
+ "simbad": "V* S CrA",
+ "ra_deg": 285.2858212,
+ "dec_deg": -36.9555264,
+ "dist_pc": null,
+ "sptype": "G0Ve+K0Ve",
+ "region": "Corona Australis",
+ "categories": [
+  "protoplanetary"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "image_id": "s-cra_destinys_hband_pi",
+   "type": "disk_scattered",
+   "facility": "VLT",
+   "instrument": "SPHERE IRDIS",
+   "wavelength_um": 1.63,
+   "wavelength_label": "H band 1.6 um polarized intensity (binary disks + streamer)",
+   "technique": "polarimetric differential imaging",
+   "survey": "DESTINYS",
+   "content": "continuum",
+   "credit": "Zhang et al. 2023, Fig. 3 (crop)",
+   "note": "circumprimary disk + circumsecondary disk connected by streamer; the filtered PI panel (bottom row) highlights ring (red dotted) and spiral (orange dashed) features; CHX 22 and HP Cha from same paper already held via SPHERE-ChamI",
+   "paper": {
+    "first_author": "Zhang",
+    "year": 2023,
+    "title": "Disk Evolution Study Through Imaging of Nearby Young Stars (DESTINYS): Diverse outcomes of binary-disk interactions",
+    "journal": "A&A",
+    "arxiv": "2302.12824",
+    "bibcode": "2023A&A...672A.145Z"
+   },
+   "file": "images/s-cra/s-cra_destinys_hband_pi.png",
+   "epoch": "2021-09-08"
+  }
+ ],
+ "notes": "Classical T Tauri binary in CrA; DESTINYS SPHERE H-band resolves circumprimary disk with tentative rings/spirals, truncated circumsecondary disk and connecting streamer (Zhang et al. 2023); absent from atlas",
+ "last_updated": "2026-07-16"
+}

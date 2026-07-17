@@ -44,6 +44,75 @@
    },
    "epoch": "2021-05-06",
    "content": "continuum"
+  },
+  {
+   "image_id": "iras-15398-3359_miri-f560w",
+   "type": "disk_scattered",
+   "facility": "JWST",
+   "instrument": "MIRI imager F560W",
+   "wavelength_um": 5.6,
+   "wavelength_label": "F560W (5.6 um)",
+   "technique": "imaging",
+   "survey": "CORINOS",
+   "content": "continuum",
+   "credit": "Yang et al. 2022, Fig. 9 (crop)",
+   "note": "SW (blueshifted) outflow lobe with four shell-like structures (dotted annotations); red x = submm continuum peak. First JWST imaging of this eDisk target.",
+   "paper": {
+    "first_author": "Yang",
+    "year": 2022,
+    "title": "CORINOS. I. JWST/MIRI Spectroscopy and Imaging of a Class 0 Protostar IRAS 15398─3359",
+    "journal": "ApJ",
+    "arxiv": "2208.10673",
+    "bibcode": "2022ApJ...941L..13Y"
+   },
+   "file": "images/iras-15398-3359/iras-15398-3359_miri-f560w.png",
+   "epoch": "2022-07-20"
+  },
+  {
+   "image_id": "iras-15398-3359_miri-f770w",
+   "type": "disk_scattered",
+   "facility": "JWST",
+   "instrument": "MIRI imager F770W",
+   "wavelength_um": 7.7,
+   "wavelength_label": "F770W (7.7 um)",
+   "technique": "imaging",
+   "survey": "CORINOS",
+   "content": "continuum",
+   "credit": "Yang et al. 2022, Fig. 9 (crop)",
+   "note": "Same outflow lobe, clean panel without annotations.",
+   "paper": {
+    "first_author": "Yang",
+    "year": 2022,
+    "title": "CORINOS. I. JWST/MIRI Spectroscopy and Imaging of a Class 0 Protostar IRAS 15398─3359",
+    "journal": "ApJ",
+    "arxiv": "2208.10673",
+    "bibcode": "2022ApJ...941L..13Y"
+   },
+   "file": "images/iras-15398-3359/iras-15398-3359_miri-f770w.png",
+   "epoch": "2022-07-20"
+  },
+  {
+   "image_id": "iras-15398-3359_miri-f1000w",
+   "type": "disk_scattered",
+   "facility": "JWST",
+   "instrument": "MIRI imager F1000W",
+   "wavelength_um": 10.0,
+   "wavelength_label": "F1000W (10 um)",
+   "technique": "imaging",
+   "survey": "CORINOS",
+   "content": "continuum",
+   "credit": "Yang et al. 2022, Fig. 9 (crop)",
+   "note": "Third MIRI filter of the outflow cavity.",
+   "paper": {
+    "first_author": "Yang",
+    "year": 2022,
+    "title": "CORINOS. I. JWST/MIRI Spectroscopy and Imaging of a Class 0 Protostar IRAS 15398─3359",
+    "journal": "ApJ",
+    "arxiv": "2208.10673",
+    "bibcode": "2022ApJ...941L..13Y"
+   },
+   "file": "images/iras-15398-3359/iras-15398-3359_miri-f1000w.png",
+   "epoch": "2022-07-20"
   }
  ],
  "notes": "Class 0 embedded protostar (eDisk)",

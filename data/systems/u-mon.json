@@ -36,6 +36,52 @@
    "file": "images/u-mon/u-mon_sphere_irdis.png",
    "epoch": "2019-01-03",
    "content": "continuum"
+  },
+  {
+   "image_id": "u-mon_zimpol-v-pol",
+   "type": "disk_scattered",
+   "facility": "VLT",
+   "instrument": "SPHERE/ZIMPOL V",
+   "wavelength_um": 0.554,
+   "wavelength_label": "V band (0.554 um)",
+   "technique": "polarimetric differential imaging",
+   "survey": null,
+   "content": "continuum",
+   "credit": "Andrych et al. 2025, Fig. 2 (crop)",
+   "note": "Resolved polarized intensity of the post-AGB circumbinary disc in V; complements held IRDIS H record (new instrument+band).",
+   "paper": {
+    "first_author": "Andrych",
+    "year": 2025,
+    "title": "SPHERE/ZIMPOL insights into discs around evolved stars: arcs, asymmetries and dust properties",
+    "journal": "PASA",
+    "arxiv": "2503.23646",
+    "bibcode": "2025PASA...42..125A"
+   },
+   "file": "images/u-mon/u-mon_zimpol-v-pol.png",
+   "epoch": "2018-12-29"
+  },
+  {
+   "image_id": "u-mon_zimpol-i-pol",
+   "type": "disk_scattered",
+   "facility": "VLT",
+   "instrument": "SPHERE/ZIMPOL Cnt820",
+   "wavelength_um": 0.82,
+   "wavelength_label": "I' (Cnt820, 0.82 um)",
+   "technique": "polarimetric differential imaging",
+   "survey": null,
+   "content": "continuum",
+   "credit": "Andrych et al. 2025, Fig. 2 (crop)",
+   "note": "I'-band polarized intensity, double-lobed morphology across inner disc.",
+   "paper": {
+    "first_author": "Andrych",
+    "year": 2025,
+    "title": "SPHERE/ZIMPOL insights into discs around evolved stars: arcs, asymmetries and dust properties",
+    "journal": "PASA",
+    "arxiv": "2503.23646",
+    "bibcode": "2025PASA...42..125A"
+   },
+   "file": "images/u-mon/u-mon_zimpol-i-pol.png",
+   "epoch": "2018-12-29"
   }
  ],
  "notes": "Post-AGB binary whose circumbinary disc was resolved with SPHERE/IRDIS polarimetry (Andrych+2023).",

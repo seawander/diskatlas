@@ -38,6 +38,29 @@
    "file": "images/pi1-gruis/pi1-gruis_alma2020.png",
    "epoch": "2018-2019",
    "content": "continuum"
+  },
+  {
+   "image_id": "pi1-gruis_zimpol-dolp-2019",
+   "type": "disk_scattered",
+   "facility": "VLT",
+   "instrument": "SPHERE/ZIMPOL CntHa",
+   "wavelength_um": 0.6446,
+   "wavelength_label": "CntHalpha (0.645 um) DoLP",
+   "technique": "imaging polarimetry",
+   "survey": "ATOMIUM",
+   "content": "continuum",
+   "credit": "Montarges et al. 2025, SPHERE DoLP figure (crop)",
+   "note": "Degree of linear polarization: dusty spiral-like tail trailing the accreting close companion (white ALMA continuum contours mark companion). New facility/technique vs held ALMA CO record.",
+   "paper": {
+    "first_author": "Montarges",
+    "year": 2025,
+    "title": "An accreting dwarf star orbiting the S-type giant star π1 Gru",
+    "journal": "A&A",
+    "arxiv": "2504.16845",
+    "bibcode": "2025A&A...699A..22M"
+   },
+   "file": "images/pi1-gruis/pi1-gruis_zimpol-dolp-2019.png",
+   "epoch": "2019-07-08"
   }
  ],
  "notes": "Evolved (AGB) star pi1 Gruis whose circumstellar disk was resolved with ALMA (Doan+2020).",

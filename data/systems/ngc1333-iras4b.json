@@ -37,6 +37,29 @@
     "bibcode": "2016A&A...590A..33P"
    },
    "epoch": "2011-02-02"
+  },
+  {
+   "image_id": "ngc1333-iras4b_sma-c18o",
+   "type": "disk_mm",
+   "facility": "SMA",
+   "instrument": "SMA (subcompact+compact+extended)",
+   "wavelength_um": 1365,
+   "wavelength_label": "C18O (2-1)",
+   "technique": "moment 0+1 maps",
+   "survey": null,
+   "content": "line",
+   "credit": "Yen et al. 2013, Fig. 1 (crop)",
+   "note": "C18O 2-1 mom0 contours + mom1 color of the IRAS 4B envelope (4B' in NE); combined SMA configs 2006 Jan 17 + 2012 Jan 7 + PROSAC compact archive. New facility+line vs held PdBI continuum.",
+   "paper": {
+    "first_author": "Yen",
+    "year": 2013,
+    "title": "Unveiling the Evolutionary Sequence from Infalling Envelopes to Keplerian Disks around Low-mass Protostars",
+    "journal": "ApJ",
+    "arxiv": "1305.6877",
+    "bibcode": "2013ApJ...772...22Y"
+   },
+   "file": "images/ngc1333-iras4b/ngc1333-iras4b_sma-c18o.png",
+   "epoch": "2006-2012"
   }
  ],
  "notes": "Class 0 protostar in NGC 1333; PdBI 1.47 mm continuum detects the compact envelope/disk (Persson et al. 2016).",

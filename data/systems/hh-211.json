@@ -1,0 +1,42 @@
+{
+ "id": "hh-211",
+ "name": "HH 211-mm",
+ "alt_names": [],
+ "simbad": "NAME HH 211-mm",
+ "ra_deg": 55.98673333,
+ "dec_deg": 32.01390556,
+ "dist_pc": null,
+ "sptype": null,
+ "region": "Perseus (IC 348)",
+ "categories": [
+  "protoplanetary"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "image_id": "hh-211_joys_miri_tricolor",
+   "type": "disk_scattered",
+   "facility": "JWST",
+   "instrument": "MIRI-MRS",
+   "wavelength_um": 17.03,
+   "wavelength_label": "H2 0-0 S(1) 17um / S(7) 5.5um / [FeII] 26um tricolor jet map",
+   "technique": "IFU spectral imaging",
+   "survey": "JOYS",
+   "content": "line",
+   "credit": "Caratti o Garatti et al. 2024, Fig. 3 (crop)",
+   "note": "blue-shifted jet with knots 1R-4 and bow shocks BS1-4; 25.3-25.9um continuum contours mark dust in jet; obs 2023-01-25/26 PID 1257 (PI Ray)",
+   "paper": {
+    "first_author": "Caratti o Garatti",
+    "year": 2024,
+    "title": "JWST Observations of Young protoStars (JOYS): HH211: Textbook case of a protostellar jet and outflow",
+    "journal": "A&A",
+    "arxiv": "2409.16061",
+    "bibcode": "2024A&A...691A.134C"
+   },
+   "file": "images/hh-211/hh-211_joys_miri_tricolor.png",
+   "epoch": "2023-01-25"
+  }
+ ],
+ "notes": "Textbook Class 0 protostellar jet in Perseus (IC 348 region); JOYS-adjacent GTO PID 1257 MIRI-MRS maps resolve the jet knots, bow shocks and dust in jet (Caratti o Garatti et al. 2024); ppd jets/HH flows are in atlas scope; absent from atlas",
+ "last_updated": "2026-07-16"
+}

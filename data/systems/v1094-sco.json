@@ -151,6 +151,29 @@
    },
    "file": "images/v1094-sco/v1094-sco_sphere-h-qphi.png",
    "epoch": "2017-03-12"
+  },
+  {
+   "image_id": "v1094-sco_ksrdi_qphi",
+   "type": "disk_scattered",
+   "facility": "VLT",
+   "instrument": "SPHERE IRDIS (star-hopping)",
+   "wavelength_um": 2.18,
+   "wavelength_label": "Ks band 2.2 um Q_phi polarized light",
+   "technique": "polarimetric differential imaging (RDI star-hopping)",
+   "survey": "SPHERE-Ks-RDI",
+   "content": "continuum",
+   "credit": "Ren et al. 2023, Fig. 1 (crop)",
+   "note": "V1094 Sco (Lupus): detected inclined disk, panel y of the 29-target Ks Qphi gallery; system exists in atlas but lacks any Ks-RDI record; 28 of 29 targets now covered - the last, SR 20, is 'approaching non-detection' (notes only)",
+   "paper": {
+    "first_author": "Ren",
+    "year": 2023,
+    "title": "Protoplanetary disks in Ks-band total intensity and polarized light",
+    "journal": "A&A",
+    "arxiv": "2310.08589",
+    "bibcode": "2023A&A...680A.114R"
+   },
+   "file": "images/v1094-sco/v1094-sco_ksrdi_qphi.png",
+   "epoch": "2021-09-10"
   }
  ],
  "notes": "AUTO-CREATED from staging - fill metadata & coords Added 2026-07-08 (AGE-PRO ALMA, Vioque+2025 resolved).",

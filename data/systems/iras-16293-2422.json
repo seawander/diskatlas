@@ -38,6 +38,29 @@
     "bibcode": "2019ApJS..245....2S"
    },
    "epoch": "2017"
+  },
+  {
+   "image_id": "iras-16293-2422_alma-3mm-A",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 3",
+   "wavelength_um": 3000,
+   "wavelength_label": "3 mm (100 GHz)",
+   "technique": "interferometry",
+   "survey": null,
+   "content": "continuum",
+   "credit": "Maureira et al. 2022, Fig. 1 (crop)",
+   "note": "ALMA 3 mm continuum of the A1+A2 binary and circumbinary material at 7 au resolution (2017.1.01247.S, obs 2017 Oct 8+12); dust hot spots resolved. New band vs held Band 6 pol.",
+   "paper": {
+    "first_author": "Maureira",
+    "year": 2022,
+    "title": "Dust Hot Spots at 10 au Scales around the Class 0 Binary IRAS 16293-2422 A: A Departure from the Passive Irradiation Model",
+    "journal": "ApJ",
+    "arxiv": "2212.08436",
+    "bibcode": "2022ApJ...941L..23M"
+   },
+   "file": "images/iras-16293-2422/iras-16293-2422_alma-3mm-A.png",
+   "epoch": "2017-10"
   }
  ],
  "notes": "Embedded protostar imaged in 1.3 mm full-polarization continuum in the ALMA Ophiuchus polarization survey (Sadavoy et al. 2019).",

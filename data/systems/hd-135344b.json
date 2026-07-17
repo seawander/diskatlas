@@ -755,6 +755,29 @@
     "bibcode": "2021MNRAS.507.3789C"
    },
    "epoch": "2019-07-13"
+  },
+  {
+   "image_id": "hd-135344b_discs_sma_cont",
+   "type": "disk_mm",
+   "facility": "SMA",
+   "instrument": "SMA 267 GHz",
+   "wavelength_um": 1123,
+   "wavelength_label": "1.1 mm continuum (267 GHz, DISCS)",
+   "technique": "interferometry",
+   "survey": "DISCS",
+   "content": "continuum",
+   "credit": "Oberg et al. 2011, Fig. 3 (crop)",
+   "note": "SAO 206462: DISCS-II southern-sky sample ; atlas holds the identical DISCS SMA product only for IM Lup and HD 142527 - same-survey record gap; CO/HCO+/HCN/CN moment maps in same figure are candidate line records",
+   "paper": {
+    "first_author": "Oberg",
+    "year": 2011,
+    "title": "Disk Imaging Survey of Chemistry with SMA. II. Southern Sky Protoplanetary Disk Data and Full Sample Statistics",
+    "journal": "ApJ",
+    "arxiv": "1104.1236",
+    "bibcode": "2011ApJ...734...98O"
+   },
+   "file": "images/hd-135344b/hd-135344b_discs_sma_cont.png",
+   "epoch": "2010-05-18"
   }
  ],
  "notes": "Three-epoch J-band spiral pattern motion (2015/2016/2022) gives dynamical evidence for a spiral-arm-driving, gap-opening protoplanet (Xie et al. 2024).",

@@ -37,6 +37,29 @@
    },
    "epoch": "2018-11-20",
    "content": "continuum"
+  },
+  {
+   "image_id": "mwc-789_gpi-qphi-h",
+   "type": "disk_scattered",
+   "facility": "Gemini South",
+   "instrument": "GPI H pol",
+   "wavelength_um": 1.65,
+   "wavelength_label": "H band",
+   "technique": "polarimetric differential imaging",
+   "survey": "Gemini-LIGHTS",
+   "content": "continuum",
+   "credit": "Laws et al. 2020, Q_phi figure (crop)",
+   "note": "Discovery-paper reduction of the 2018-11-20 GPI dataset (same data as held Rich 2022 record - cross-paper re-reduction, OK per policy): irregular arc + companion candidate (dashed circle) around MWC 789.",
+   "paper": {
+    "first_author": "Laws",
+    "year": 2020,
+    "title": "Irregular Dust Features around Intermediate-mass Young Stars with GPI: Signs of Youth or Misaligned Disks?",
+    "journal": "ApJ",
+    "arxiv": "1911.04214",
+    "bibcode": "2020ApJ...888....7L"
+   },
+   "file": "images/mwc-789/mwc-789_gpi-qphi-h.png",
+   "epoch": "2018-11-20"
   }
  ],
  "notes": null,

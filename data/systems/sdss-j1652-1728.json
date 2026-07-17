@@ -38,6 +38,29 @@
     "bibcode": "2019MNRAS.489..497Z"
    },
    "epoch": "2017-07-14"
+  },
+  {
+   "image_id": "sdss-j1652-1728_nirspec-oiii",
+   "type": "quasar",
+   "facility": "JWST",
+   "instrument": "NIRSpec IFU (G235H)",
+   "wavelength_um": 1.98,
+   "wavelength_label": "[O III] 5007 (z=2.949, obs 1.98 um)",
+   "technique": "IFU emission-line map",
+   "survey": "Q3D",
+   "content": "line",
+   "credit": "Vayner et al. 2023, [O III] 5007 maps figure (crop)",
+   "note": "Line-integrated [O III] flux map of the ERQ J1652: ionized nebula across ~30 kpc incl. outflow, companions, tidal-tail gas. Obs 2022-07-15/16 (ERS Q3D). First-results companion paper Wylezalek 2022 (2210.10074) uses an ESA/Webb composite (not croppable per press-image rule).",
+   "paper": {
+    "first_author": "Vayner",
+    "year": 2023,
+    "title": "First Results from the JWST Early Release Science Program Q3D: Ionization Cone, Clumpy Star Formation, and Shocks in a z = 3 Extremely Red Quasar Host",
+    "journal": "ApJ",
+    "arxiv": "2303.06970",
+    "bibcode": "2023ApJ...955...92V"
+   },
+   "file": "images/sdss-j1652-1728/sdss-j1652-1728_nirspec-oiii.png",
+   "epoch": "2022-07-15"
   }
  ],
  "notes": "One of the most luminous extremely red quasars (ERQ, z=2.942); HST/WFC3 F160W PSF-subtracted imaging shows a candidate tidal tail (Zakamska et al. 2019); later a JWST ERS target.",

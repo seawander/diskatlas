@@ -37,6 +37,29 @@
     "bibcode": "2016A&A...590A..33P"
    },
    "epoch": "2014"
+  },
+  {
+   "image_id": "ngc1333-iras4a_vla-8mm-stokesI",
+   "type": "disk_mm",
+   "facility": "VLA",
+   "instrument": "Ka-band B-array",
+   "wavelength_um": 8100,
+   "wavelength_label": "8.1 mm",
+   "technique": "interferometry",
+   "survey": "VANDAM",
+   "content": "continuum",
+   "credit": "Cox et al. 2015, Fig. 1 (crop)",
+   "note": "VLA 8.1 mm Stokes I of IRAS 4A1+4A2, 0.25 arcsec beam; both protostars resolved. New facility/band vs held SMA 895 um. Paper also gives 8mm/1cm polarization maps (Fig. 2).",
+   "paper": {
+    "first_author": "Cox",
+    "year": 2015,
+    "title": "High-resolution 8 mm and 1 cm Polarization of IRAS 4A from the VLA Nascent Disk and Multiplicity (VANDAM) Survey",
+    "journal": "ApJ",
+    "arxiv": "1511.00685",
+    "bibcode": "2015ApJ...814L..28C"
+   },
+   "file": "images/ngc1333-iras4a/ngc1333-iras4a_vla-8mm-stokesI.png",
+   "epoch": "2013-10-21"
   }
  ],
  "notes": "Class 0 protostellar binary (1.8\" pair) resolved in SMA 0.9 mm continuum (Persson et al. 2016).",

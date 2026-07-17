@@ -130,6 +130,29 @@
     "bibcode": "2018ApJ...861...91H"
    },
    "epoch": "2016-09-12"
+  },
+  {
+   "image_id": "l1527-irs_joys_h2s4",
+   "type": "disk_scattered",
+   "facility": "JWST",
+   "instrument": "MIRI-MRS",
+   "wavelength_um": 8.03,
+   "wavelength_label": "H2 0-0 S(4) 8.03 um integrated intensity (bipolar outflow cavities)",
+   "technique": "IFU spectral imaging",
+   "survey": "JOYS",
+   "content": "line",
+   "credit": "Devaraj et al. 2026, Fig. 3 (crop)",
+   "note": "l1527-irs holds no JWST records at all (not even the famous NIRCam butterfly); this JOYS MRS H2 map matches the product class of the held BHR71-IRS1 JOYS records; Fig. 4 [NeII]/[FeII] atomic jet maps and the Fig. 1 MIRI 3-color broadband image (PIDs 1798/2729) are candidate additional records",
+   "paper": {
+    "first_author": "Devaraj",
+    "year": 2026,
+    "title": "JOYS: JWST MIRI/MRS spectra of the inner 500 au region of the L1527 IRS bipolar outflow",
+    "journal": "A&A",
+    "arxiv": "2601.17820",
+    "bibcode": "2026A&A...708A..29D"
+   },
+   "file": "images/l1527-irs/l1527-irs_joys_h2s4.png",
+   "epoch": "2023-03-04"
   }
  ],
  "notes": "Class 0 embedded protostar (eDisk)",

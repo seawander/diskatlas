@@ -1,0 +1,42 @@
+{
+ "id": "t-cra",
+ "name": "T CrA",
+ "alt_names": [],
+ "simbad": "V* T CrA",
+ "ra_deg": 285.4949042,
+ "dec_deg": -36.9638714,
+ "dist_pc": null,
+ "sptype": "F5?",
+ "region": "Corona Australis",
+ "categories": [
+  "protoplanetary"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "image_id": "t-cra_destinys_hband_qphi",
+   "type": "disk_scattered",
+   "facility": "VLT",
+   "instrument": "SPHERE IRDIS DPI",
+   "wavelength_um": 1.63,
+   "wavelength_label": "H band 1.6 um polarized light (disk + dark lane)",
+   "technique": "polarimetric differential imaging",
+   "survey": "DESTINYS",
+   "content": "continuum",
+   "credit": "Rigliaco et al. 2023, Fig. 1 (crop)",
+   "note": "zoom of innermost 2 arcsec: disk seen close to edge-on with shielded midplane dark lane; middle panel of same figure holds 12.5 arcsec FOV with extended emission features 1/2 + tail (candidate second record)",
+   "paper": {
+    "first_author": "Rigliaco",
+    "year": 2023,
+    "title": "Disk Evolution Study Through Imaging of Nearby Young Stars (DESTINYS): Characterization of the young star T CrA and its circumstellar environment",
+    "journal": "A&A",
+    "arxiv": "2301.01486",
+    "bibcode": "2023A&A...671A..82R"
+   },
+   "file": "images/t-cra/t-cra_destinys_hband_qphi.png",
+   "epoch": "2021-06-06"
+  }
+ ],
+ "notes": "Herbig star in Coronet/CrA; DESTINYS SPHERE H-band DPI resolves the disk with dark lane plus extended emission features and tail (Rigliaco et al. 2023); no atlas system exists (name+coord grep negative)",
+ "last_updated": "2026-07-16"
+}

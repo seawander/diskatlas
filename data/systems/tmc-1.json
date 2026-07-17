@@ -84,6 +84,29 @@
     "bibcode": "2020ApJ...901..166V"
    },
    "epoch": "2018-09"
+  },
+  {
+   "image_id": "tmc-1_joys_h2s7",
+   "type": "disk_scattered",
+   "facility": "JWST",
+   "instrument": "MIRI-MRS",
+   "wavelength_um": 5.51,
+   "wavelength_label": "H2 0-0 S(7) 5.51 um integrated intensity (TMC1-E wind + TMC1-W jet)",
+   "technique": "IFU spectral imaging",
+   "survey": "JOYS",
+   "content": "line",
+   "credit": "Tychoniec et al. 2024, Fig. 1 (crop)",
+   "note": "tmc-1 system exists (eDisk-era ALMA records) but holds no JOYS/JWST records; Fig. 1 also holds 5.4um continuum and [FeII] 5.34um panels as candidate additional records",
+   "paper": {
+    "first_author": "Tychoniec",
+    "year": 2024,
+    "title": "JWST Observations of Young protoStars (JOYS). Linked accretion and ejection in a Class I protobinary system",
+    "journal": "A&A",
+    "arxiv": "2402.04343",
+    "bibcode": "2024A&A...687A..36T"
+   },
+   "file": "images/tmc-1/tmc-1_joys_h2s7.png",
+   "epoch": "2023-03-04"
   }
  ],
  "notes": "Class I binary (E+W components) in Taurus; ALMA 1.3 mm continuum and C17O/H2CO maps show warm embedded disks around both components (van 't Hoff et al. 2020).",
