@@ -8,17 +8,18 @@
 [Source & data on GitHub](https://github.com/seawander/diskatlas) — or clone and
 double-click `index.html` for the fully offline version.
 
-An offline-capable, interactive all-sky atlas of every system with a **resolved circumstellar
-disk** (mm/submm/cm interferometry, high-contrast scattered light / thermal IR, and resolved
-far-IR single-dish imaging), a **directly imaged planet or substellar companion**, or a
-**coronagraphically imaged quasar host**. Click any object on the sky map to browse its images
-across instruments, wavelengths and epochs, with clickable arXiv / SciX citations for every image.
+An offline-capable, interactive all-sky atlas of every system with a **published image of a
+circumstellar disk** (mm/submm/cm interferometry, high-contrast scattered light / thermal IR,
+far-IR single-dish — resolved or unresolved, detections or imaged non-detections), a
+**directly imaged planet or substellar companion**, or a **coronagraphically imaged quasar
+host**. Click any object on the sky map to browse its images across instruments, wavelengths
+and epochs, with clickable arXiv / SciX citations for every image.
 
 **双击根目录的 `index.html` 即可离线使用。**  Double-click `index.html` — no server, no internet needed.
 
 ## What's inside
 
-**621 systems · 2854 image records**, every one a panel cropped from a peer-reviewed
+**747 systems · 3172 image records**, every one a panel cropped from a peer-reviewed
 figure with full citations; coordinates for every system; a companion catalogue with
 per-object status (`confirmed` / `candidate` / `disputed` / `refuted`).
 `python3 backend-data/build.py` prints the exact live counts — trust it over any number in
@@ -61,22 +62,29 @@ doc your task needs; `HANDOFF.md` is the complete handbook.
 
 ## Scope / 收录标准
 
-- **Disks**: spatially resolved (≥ a few beams / PSFs) circumstellar disks — protoplanetary
-  (incl. transition, edge-on, eruptive-star and Class 0/I embedded) and debris — imaged by
-  mm/submm/cm interferometers (ALMA, SMA, PdBI/NOEMA, VLA, CARMA, OVRO, BIMA, ATCA), in
-  scattered light / thermal IR by high-contrast instruments (HST, JWST, GPI, SPHERE, Subaru
-  HiCIAO/SCExAO, NACO, MagAO(-X), LBTI, …), by VLTI interferometric reconstruction, and in
-  the resolved far-IR (Herschel/Spitzer/JCMT/CSO). Orion proplyd silhouettes included.
-- **Companions**: directly imaged planets and brown-dwarf companions (status
-  `confirmed`/`candidate`/`disputed`/`refuted` tracked per companion; a few borderline or
-  later-refuted objects are kept for the historical record and flagged).
+**Scope widened 2026-07-16**: the atlas is a comprehensive compendium of **published images
+of circumstellar disks (resolved or unresolved, detections or imaged non-detections),
+directly imaged companions (including candidates and refuted candidates), and
+coronagraphically imaged quasar hosts**. The former "≥ a few resolution elements" bar is
+retired. Canonical criterion: `data/README.md` → *Inclusion criterion*.
+
+- **Disks**: any published sky-image panel of a circumstellar disk — protoplanetary (incl.
+  transition, edge-on, eruptive-star and Class 0/I embedded), debris, and Orion proplyd
+  silhouettes — from mm/submm/cm interferometers (ALMA, SMA, PdBI/NOEMA, VLA, CARMA, OVRO,
+  BIMA, ATCA), scattered light / thermal IR (HST, JWST, GPI, SPHERE, Subaru HiCIAO/SCExAO,
+  NACO, MagAO(-X), LBTI, …), VLTI reconstruction, and far-IR/submm single-dish
+  (Herschel/Spitzer/JCMT/CSO). **Unresolved point sources and imaged non-detections are in
+  scope**; the disposition is stated plainly on the record (e.g. "unresolved point source",
+  "1.3 mm continuum non-detection").
+- **Companions**: directly imaged planets and brown-dwarf companions, including published
+  candidate and refuted-candidate panels (status `confirmed`/`candidate`/`disputed`/
+  `refuted` tracked per companion). Must be genuine imaging/interferometric panels — not a
+  transit light curve, RV curve, SED, or photometry point.
 - **Quasar hosts**: coronagraphic / PSF-subtracted host-galaxy imaging (`redshift` instead
   of `dist_pc`).
-- Resolved **far-IR/submm single-dish** images (Herschel PACS/SPIRE, Spitzer MIPS, JCMT,
-  CSO) are in scope; marginally resolved single-beam detections and unresolved excesses
-  remain **excluded**.
-- Press-release composites are **not** used; every image is cropped from a peer-reviewed
-  figure and linked to its paper (arXiv + SciX).
+- **Excluded** (not sky images): contrast curves, radial profiles, SEDs, visibility fits,
+  channel-map grids, PV diagrams, model predictions, and press-release images. Every image
+  is cropped from a peer-reviewed figure and linked to its paper (arXiv + SciX).
 
 ## License / 许可
 

@@ -36,9 +36,11 @@ checklist.
 
 ```text
 You are working in a clone of "diskatlas" — a mature, offline, double-click-index.html
-all-sky atlas of resolved circumstellar disks (protoplanetary, debris, edge-on, embedded,
-eruptive, proplyds, far-IR-resolved), directly imaged planets/BD companions, and
-coronagraphic quasar hosts. `python3 backend-data/build.py` prints the live statistics.
+all-sky atlas of PUBLISHED IMAGES of circumstellar disks (protoplanetary, debris, edge-on,
+embedded, eruptive, proplyds, far-IR; resolved OR unresolved, detections OR imaged
+non-detections — scope widened 2026-07-16), directly imaged planets/BD companions
+(incl. candidates and refuted candidates), and coronagraphic quasar hosts.
+`python3 backend-data/build.py` prints the live statistics.
 
 FIRST, orient yourself (token discipline — do NOT read everything): read AGENTS.md (or
 CLAUDE.md) for the rules + task→doc routing, then read ONLY the one doc your task needs
@@ -124,11 +126,21 @@ python3 parse_simbad.py && python3 extract_sources.py \
 
 ## Scope (what belongs in the atlas)
 
-See the [Scope section in the README](README.md#scope--收录标准). In short: **spatially
-resolved** disks (≥ a few beams/PSFs) — protoplanetary and debris — plus directly imaged
-planets/brown-dwarf companions and coronagraphic quasar hosts. Marginally-resolved
-single-beam detections, unresolved excesses, and press-release composites are **excluded**;
-every image is a panel cropped from a peer-reviewed figure and linked to its paper.
+**Canonical criterion: [`data/README.md`](data/README.md) → *Inclusion criterion*** (scope
+widened 2026-07-16); the [Scope section in the README](README.md#scope--收录标准) is the
+short version.
+
+In short: a record earns a place if it is a **published sky-image panel of the target** —
+**resolved or unresolved, detection or imaged non-detection** (the former "≥ a few
+resolution elements" bar is retired). State the disposition plainly on the record
+(`wavelength_label` and/or `note`, e.g. "unresolved point source", "1.3 mm continuum
+non-detection"). Companion records must be genuine imaging/interferometric panels —
+including published candidate and refuted-candidate panels — not a transit light curve, RV
+curve, SED, or photometry.
+
+**Excluded** because they are not sky images: contrast curves, radial profiles, SEDs,
+visibility fits, channel-map grids, PV diagrams, model predictions, and press-release
+images. Every image is a panel cropped from a peer-reviewed figure and linked to its paper.
 
 ## Licensing your contribution
 

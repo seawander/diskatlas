@@ -7,10 +7,19 @@ more detail); the complete handbook is `HANDOFF.md`. Human contributors: see
 
 ## What this repo is
 
-An offline, static, double-click-`index.html` all-sky atlas of resolved circumstellar
-disks, directly imaged companions, and coronagraphically imaged quasar hosts. Ground
-truth is `data/systems/*.json`; **`frontend/data.js` is GENERATED** by
+An offline, static, double-click-`index.html` all-sky atlas of **published images** of
+circumstellar disks, directly imaged companions, and coronagraphically imaged quasar hosts.
+Ground truth is `data/systems/*.json`; **`frontend/data.js` is GENERATED** by
 `backend-data/build.py`. `python3 backend-data/build.py` prints the live statistics.
+
+**Inclusion criterion (scope widened 2026-07-16)** — canonical text in `data/README.md`:
+a record earns a place if it is a **published sky-image panel of the target**, *resolved or
+unresolved, detection or imaged non-detection* (the old "≥ a few resolution elements" bar is
+retired); state the disposition plainly on the record (e.g. "unresolved point source",
+"1.3 mm continuum non-detection"). Companion records must be genuine imaging/interferometric
+panels, incl. published candidate/refuted-candidate panels. **Not in scope** (not sky
+images): contrast curves, radial profiles, SEDs, visibility fits, channel-map grids, PV
+diagrams, model predictions, press-release images.
 
 ## Orient yourself first (token discipline — do NOT read everything)
 
