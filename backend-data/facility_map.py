@@ -29,7 +29,10 @@ FAC_TABLE = {
     # has an atomic entry — so bare 'PdBI' gets one and no per-combination entry
     # is needed (a leftover 'OVRO+PdBI' still resolves via the generic splitter).
     "NOEMA": ["IRAM:NOEMA"], "IRAM-PdBI": ["IRAM:Interferometer"],
-    "PdBI": ["IRAM:Interferometer"],
+    "PdBI": ["IRAM:Interferometer"], "IRAM PdBI": ["IRAM:Interferometer"],
+    # bare "IRAM" is a PdBI dataset (Vega 1.3mm; instrument field says Plateau de
+    # Bure) — split into IRAM:30m only if a 30m single-dish map ever lands
+    "IRAM": ["IRAM:Interferometer"],
     "VLA": ["VLA"], "CARMA": ["CARMA"], "BIMA": ["BIMA"],
     "ATCA": ["ATCA"], "CSO": ["CSO"], "JCMT": ["JCMT"],
     "HST": ["HST"], "JWST": ["JWST"],
@@ -47,6 +50,7 @@ FAC_TABLE = {
     "CFHT": ["CFHT"], "AEOS": ["AEOS"], "UH 2.2m": ["UH:2.2m"],
     "Palomar": ["Hale"], "Palomar 5-m Hale Telescope": ["Hale"],
     "Pan-STARRS1": ["PS1"], "VISTA": ["ESO:VISTA"], "CTIO-1.5m": ["CTIO:1.5m"],
+    "CTIO 4m Blanco": ["CTIO:4m"], "ESO 3.6m": ["ESO:3.6m"], "IRTF": ["IRTF"],
     # ING 4.2m William Herschel Telescope (not the Herschel Space Observatory)
     "WHT": ["ING:Herschel"],
     # SAI 2.5m at the Caucasian Mountain Observatory (Sternberg Astronomical Inst.)
@@ -71,6 +75,7 @@ INSTR_RULES = [  # (substring-of-lowercased(facility+instrument), canonical fami
     ("wfpc2", "WFPC2"), ("foc", "FOC"),
     ("naco", "NACO"), ("conica", "NACO"), ("muse", "MUSE"), ("visir", "VISIR"),
     ("near", "VISIR"), ("eris", "ERIS"), ("isaac", "ISAAC"), ("sofi", "SofI"),
+    ("sinfoni", "SINFONI"),
     # SCExAO platform instruments (Miles Lucas 2026-07-09): report as SCExAO/<sub>,
     # matching the SPHERE/<sub> convention. VAMPIRES before the plain-scexao fallback.
     ("hiciao", "HiCIAO"), ("vampires", "SCExAO/VAMPIRES"), ("charis", "SCExAO/CHARIS"),
@@ -85,6 +90,9 @@ INSTR_RULES = [  # (substring-of-lowercased(facility+instrument), canonical fami
     ("gpc", "GPC1"), ("pan-starrs", "GPC1"), ("vista", "VIRCAM"),
     ("wfcam", "WFCAM"),
     ("lyot", "Lyot"), ("mirlin", "MIRLIN"), ("mirac", "MIRAC"),
+    ("irac", "IRAC"),  # must stay below "mirac" (substring)
+    ("adonis", "ADONIS"),  # ESO 3.6m AO; camera suffixes (SHARP II+) fold in
+    ("nsfcam", "NSFCAM"),  # IRTF camera; CoCo coronagraph prefix folds in
 ]
 
 
