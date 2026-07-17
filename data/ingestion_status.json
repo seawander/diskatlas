@@ -1,6 +1,6 @@
 {
  "_doc": "Per-survey ingestion state. entries/coords/images: done|partial|todo. Update on every ingest.",
- "updated": "2026-07-16: internal review fix: HR 5999 / HD 145718 cross-contamination -- hr-5999 alt_names HD 145718 -> HD 144668 (SIMBAD: HD 144668 = HIP 79080 = V856 Sco); two Davies 2022 (2201.06472) GPI Q_phi records (J 2018-06-07, H 2018-06-08) moved to hd-145718; hr-5999 PIONIER crop replaced with the correct HD144668 panel of Kluska 2020 Fig. 2 (was the HD145718 panel). 666 systems / 3067 records / 803 papers, 0 errors / 0 warnings.",
+ "updated": "2026-07-16 (later): SCOPE CHANGE executed - any published image panel now qualifies (resolved/unresolved, detection/non-detection; docs updated in HANDOFF + data/README). ODISEA I fully mirrored: Fig 3 53/53 + Fig 4 55/55 + Fig 5 12/12 = 120 panels (+63 records, 55 new systems; 4 tighter binary recrops; table-first matching per maintainer). Non-detection backfill: Gemini-LIGHTS 13 undetermined + 9 non-det panels, SPHERE-ChamI 7 non-det, DESTINYS-Taurus V1025 Tau, CIDA 9 low-S/N moment maps, Elias 2-32 CO non-det, HOPS HST panels (+41 records, 26 new systems). Verified no non-det panels published: DESTINYS-Orion, Keck-vortex, SPHERE-debris-2025. HR 5999 Gemini-LIGHTS panel parked pending the HD 145718 misfiling fix (separate session). Atlas: 747 systems / 3171 records / 803 papers, 0 errors / 0 warnings.",
  "surveys": {
   "DSHARP": {
    "entries": "done",

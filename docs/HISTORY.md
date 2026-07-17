@@ -948,3 +948,36 @@ note (HD144668 is centrally peaked + significantly asymmetric/rim-like per the p
 "symmetric class"). hr-5999_amber2011 verified genuine (Benisty 2011 = HR 5999 paper; obs
 Feb 2008 - Jun 2010 → epoch 2008-2010 correct). Net: record count unchanged (2 moved, 1
 re-cropped); validate 0/0.
+
+## 2026-07-16 — Scope change executed: all published images; ODISEA fully mirrored
+
+Maintainer decision: the inclusion criterion is now "any published sky-image panel of
+the target" — resolved or unresolved, detection or imaged non-detection; the old
+">= 3 resolution elements" bar is retired (canonical text: data/README.md; HANDOFF.md
+project description updated; non-image products — contrast curves, profiles, SEDs,
+visibility fits, channel grids, PV diagrams, model predictions, press images — remain
+out). The atlas scope phrase becomes "circumstellar disks, directly imaged companions,
+and quasar hosts".
+
+**ODISEA I (Cieza 2019) fully mirrored** under the new scope: Fig. 3 53/53 resolved
+singles, Fig. 4 55/55 unresolved point sources (51 new Ophiuchus systems + record gaps
+on Elias 2-32, ISO-Oph 161, Oph IRS 54, Oph 162305), Fig. 5 12/12 multiples (4 new:
+WL 2, YLW 10B, SR 9 = V2129 Oph, DoAr 43; 4 found under other names by table-first
+matching: ISO-Oph 2, DoAr 24E = GSS 31, the YLW 12A triple, SR 13; 4 tighter binary
+re-crops). Every panel matched via the paper's tables (object number -> Table 1 SSTc2d
+designation -> Table 3 ALMA coords/flux -> SIMBAD cone, <=1.3"), per the maintainer's
+"read their tables" instruction; anonymous 2MASS targets follow the "Oph HHMMSS"
+naming precedent.
+
+**Unresolved/non-detection backfill** of panels earlier audits skipped: Gemini-LIGHTS
+all 13 "undetermined" + all 9 non-detection panels (17 new Herbig systems; "Hen 2-225"
+adjudicated a typo for Hen 3-225 = HD 76534 via the coordinate table); SPHERE Cha I
+all 7 non-detections (new systems, tagged SPHERE-ChamI); DESTINYS-Taurus V1025 Tau;
+CIDA 9 low-S/N 13CO/C18O moment maps; Elias 2-32 greyscale CO non-detection; the five
+HOPS HST near-IR panels (incl. imaged non-detections). Checked and confirmed to publish
+NO non-detection panels (nothing to crop): DESTINYS-Orion, the Keck vortex L' survey,
+SPHERE-debris-2025. The HR 5999 Gemini-LIGHTS panel is parked in images/_sources/parked/
+until the concurrent HD 145718-misfiled-records fix (separate session) lands.
+
+Atlas after the scope batch: **747 systems / 3171 image records / 803 papers**,
+0 validate errors, 0 health findings.
