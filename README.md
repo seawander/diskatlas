@@ -1,6 +1,6 @@
 <p align="center"><img src="frontend/logo.svg" alt="diskatlas logo" width="128"></p>
 
-# `diskatlas`: all-sky interactive atlas for resolved circumstellar disks and imaged companions
+# `diskatlas`: all-sky interactive atlas of circumstellar disk images and imaged companions
 
 `diskatlas`: 星周盘图像与直接成像伴体 · 交互式全天图
 
