@@ -1,0 +1,42 @@
+{
+ "id": "wl-2",
+ "name": "WL 2",
+ "alt_names": [],
+ "simbad": "WL 2",
+ "ra_deg": 246.702026,
+ "dec_deg": -24.477474,
+ "dist_pc": null,
+ "sptype": "M0",
+ "region": "Ophiuchus",
+ "categories": [
+  "protoplanetary"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "image_id": "wl-2_odisea-f5",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 6",
+   "wavelength_um": 1300,
+   "wavelength_label": "1.3 mm continuum (ODISEA binary panel)",
+   "technique": "interferometry",
+   "survey": "ODISEA",
+   "content": "continuum",
+   "credit": "Cieza et al. 2019, Fig. 5 (crop)",
+   "note": "ODISEA object 053 (SSTc2d J162648.5-242839 = WL 2) A+B: resolved elongated primary disc (52.54 mJy) at centre; faint unresolved companion disc B (2.32 mJy) circled ~4.3 arcsec N-NW (Table 3 positions; Table 1 lists sep 4.35 arcsec).",
+   "paper": {
+    "first_author": "Cieza",
+    "year": 2019,
+    "title": "The Ophiuchus DIsc Survey Employing ALMA (ODISEA) - I: project description and continuum images at 28 au resolution",
+    "journal": "MNRAS",
+    "arxiv": "1809.08844",
+    "bibcode": "2019MNRAS.482..698C"
+   },
+   "file": "images/wl-2/wl-2_odisea-f5.png",
+   "epoch": "2017-07"
+  }
+ ],
+ "notes": "ODISEA object 053: 1.3 mm discs detected around both components of a ~4.3 arcsec binary (Cieza et al. 2019 Fig. 5, Tables 1/3); embedded L1688 YSO (= GY 128, ISO-Oph 70, BBRCG 7) absent from data/systems/ (coordinate cross-match found nothing within 15 arcsec).",
+ "last_updated": "2026-07-16"
+}

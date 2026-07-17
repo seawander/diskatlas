@@ -1,0 +1,44 @@
+{
+ "id": "gy-213",
+ "name": "GY 213",
+ "alt_names": [
+  "[GY92] 213"
+ ],
+ "simbad": "[GY92] 213",
+ "ra_deg": 246.788972,
+ "dec_deg": -24.672897,
+ "dist_pc": null,
+ "sptype": "M4",
+ "region": "Ophiuchus",
+ "categories": [
+  "protoplanetary"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "image_id": "gy-213_odisea-f4",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 6",
+   "wavelength_um": 1300,
+   "wavelength_label": "1.3 mm continuum — unresolved point source (1.3 mm)",
+   "technique": "interferometry",
+   "survey": "ODISEA",
+   "content": "continuum",
+   "credit": "Cieza et al. 2019, Fig. 4 (crop)",
+   "note": "ODISEA C4 object 071 = SSTc2d J162709.3-244022 (Table 1) = [GY92] 213 (SIMBAD 0.22\"); F1.3mm=9.50 mJy (Table 3), unresolved at ~0.2\"",
+   "paper": {
+    "first_author": "Cieza",
+    "year": 2019,
+    "title": "The Ophiuchus DIsc Survey Employing ALMA (ODISEA) - I: project description and continuum images at 28 au resolution",
+    "journal": "MNRAS",
+    "arxiv": "1809.08844",
+    "bibcode": "2019MNRAS.482..698C"
+   },
+   "file": "images/gy-213/gy-213_odisea-f4.png",
+   "epoch": "2017-07"
+  }
+ ],
+ "notes": "ODISEA C4 object 071 (SSTc2d J162709.3-244022): 1.3 mm disc detection (9.50 mJy, Table 3, Fig. 4); no atlas match; SpT M4 per paper Table 1",
+ "last_updated": "2026-07-16"
+}

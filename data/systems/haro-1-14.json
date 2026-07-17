@@ -1,0 +1,42 @@
+{
+ "id": "haro-1-14",
+ "name": "Haro 1-14",
+ "alt_names": [],
+ "simbad": "Haro 1-14",
+ "ra_deg": 247.77150981,
+ "dec_deg": -24.07786316,
+ "dist_pc": null,
+ "sptype": null,
+ "region": "Ophiuchus",
+ "categories": [
+  "protoplanetary"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "image_id": "haro-1-14_odisea-f4",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 6",
+   "wavelength_um": 1300,
+   "wavelength_label": "1.3 mm continuum (unresolved point source)",
+   "technique": "interferometry",
+   "survey": "ODISEA",
+   "content": "continuum",
+   "credit": "Cieza et al. 2019, Fig. 4 (crop)",
+   "note": "ODISEA_C4_122 = SSTc2d J163105.2-240440 = Haro 1-14 (SIMBAD match 0.2 arcsec); 1.43 mJy at 1.3 mm, unresolved (Table 3); panel includes the survey beam ellipse (0.28x0.19 arcsec)",
+   "paper": {
+    "first_author": "Cieza",
+    "year": 2019,
+    "title": "The Ophiuchus DIsc Survey Employing ALMA (ODISEA) - I: project description and continuum images at 28 au resolution",
+    "journal": "MNRAS",
+    "arxiv": "1809.08844",
+    "bibcode": "2019MNRAS.482..698C"
+   },
+   "file": "images/haro-1-14/haro-1-14_odisea-f4.png",
+   "epoch": "2017-07"
+  }
+ ],
+ "notes": "ODISEA_C4_122, 1.43 mJy unresolved 1.3 mm detection (Fig. 4 / Table 3); L1689 region",
+ "last_updated": "2026-07-16"
+}

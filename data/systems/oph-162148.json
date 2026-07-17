@@ -1,0 +1,44 @@
+{
+ "id": "oph-162148",
+ "name": "Oph 162148",
+ "alt_names": [
+  "2MASS J16214848-2340273"
+ ],
+ "simbad": "2MASS J16214848-2340273",
+ "ra_deg": 245.45201107,
+ "dec_deg": -23.67424834,
+ "dist_pc": null,
+ "sptype": "M5.5",
+ "region": "Ophiuchus",
+ "categories": [
+  "protoplanetary"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "image_id": "oph-162148_odisea-f4",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 6",
+   "wavelength_um": 1300,
+   "wavelength_label": "1.3 mm continuum — unresolved point source (1.3 mm)",
+   "technique": "interferometry",
+   "survey": "ODISEA",
+   "content": "continuum",
+   "credit": "Cieza et al. 2019, Fig. 4 (crop)",
+   "note": "ODISEA C4 object 004 = SSTc2d J162148.5-234027 (Table 1); F1.3mm=3.25 mJy (Table 3), unresolved at ~0.2\"",
+   "paper": {
+    "first_author": "Cieza",
+    "year": 2019,
+    "title": "The Ophiuchus DIsc Survey Employing ALMA (ODISEA) - I: project description and continuum images at 28 au resolution",
+    "journal": "MNRAS",
+    "arxiv": "1809.08844",
+    "bibcode": "2019MNRAS.482..698C"
+   },
+   "file": "images/oph-162148/oph-162148_odisea-f4.png",
+   "epoch": "2017-07"
+  }
+ ],
+ "notes": "ODISEA C4 object 004 (SSTc2d J162148.5-234027): 1.3 mm disc detection (3.25 mJy, Table 3, Fig. 4); no atlas match; SpT from SIMBAD",
+ "last_updated": "2026-07-16"
+}

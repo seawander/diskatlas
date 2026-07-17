@@ -1,0 +1,42 @@
+{
+ "id": "wl-19",
+ "name": "WL 19",
+ "alt_names": [],
+ "simbad": "WL 19",
+ "ra_deg": 246.798809,
+ "dec_deg": -24.642239,
+ "dist_pc": null,
+ "sptype": "K6",
+ "region": "Ophiuchus",
+ "categories": [
+  "protoplanetary"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "image_id": "wl-19_odisea-f4",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 6",
+   "wavelength_um": 1300,
+   "wavelength_label": "1.3 mm continuum — faint unresolved point source (1.3 mm)",
+   "technique": "interferometry",
+   "survey": "ODISEA",
+   "content": "continuum",
+   "credit": "Cieza et al. 2019, Fig. 4 (crop)",
+   "note": "ODISEA C4 object 073 = SSTc2d J162711.7-243832 (Table 1) = WL 19 (SIMBAD 0.22\"); F1.3mm=1.74 mJy (Table 3), faint unresolved detection at ~0.2\"",
+   "paper": {
+    "first_author": "Cieza",
+    "year": 2019,
+    "title": "The Ophiuchus DIsc Survey Employing ALMA (ODISEA) - I: project description and continuum images at 28 au resolution",
+    "journal": "MNRAS",
+    "arxiv": "1809.08844",
+    "bibcode": "2019MNRAS.482..698C"
+   },
+   "file": "images/wl-19/wl-19_odisea-f4.png",
+   "epoch": "2017-07"
+  }
+ ],
+ "notes": "ODISEA C4 object 073 (SSTc2d J162711.7-243832): faint 1.3 mm disc detection (1.74 mJy, Table 3, Fig. 4); no atlas match; SpT K6 per paper Table 1",
+ "last_updated": "2026-07-16"
+}

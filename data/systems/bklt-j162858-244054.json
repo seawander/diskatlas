@@ -1,0 +1,42 @@
+{
+ "id": "bklt-j162858-244054",
+ "name": "BKLT J162858-244054",
+ "alt_names": [],
+ "simbad": "BKLT J162858-244054",
+ "ra_deg": 247.24112,
+ "dec_deg": -24.681921,
+ "dist_pc": null,
+ "sptype": null,
+ "region": "Ophiuchus",
+ "categories": [
+  "protoplanetary"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "image_id": "bklt-j162858-244054_odisea-f4",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 6",
+   "wavelength_um": 1300,
+   "wavelength_label": "1.3 mm continuum (unresolved point source)",
+   "technique": "interferometry",
+   "survey": "ODISEA",
+   "content": "continuum",
+   "credit": "Cieza et al. 2019, Fig. 4 (crop)",
+   "note": "ODISEA_C4_119 = SSTc2d J162857.9-244055 = BKLT J162858-244054 (SIMBAD match 0.2 arcsec); 2.97 mJy at 1.3 mm, unresolved (Table 3)",
+   "paper": {
+    "first_author": "Cieza",
+    "year": 2019,
+    "title": "The Ophiuchus DIsc Survey Employing ALMA (ODISEA) - I: project description and continuum images at 28 au resolution",
+    "journal": "MNRAS",
+    "arxiv": "1809.08844",
+    "bibcode": "2019MNRAS.482..698C"
+   },
+   "file": "images/bklt-j162858-244054/bklt-j162858-244054_odisea-f4.png",
+   "epoch": "2017-07"
+  }
+ ],
+ "notes": "ODISEA_C4_119, 2.97 mJy unresolved 1.3 mm detection (Fig. 4 / Table 3)",
+ "last_updated": "2026-07-16"
+}
