@@ -59989,5 +59989,50 @@
   "status": "deferred",
   "reason": "Thomas 2007 (IAU Symp. 240): AO multiplicity survey cited as the discovery reference for V1788 Ori B/C; may contain discovery AO images. No arXiv/open source found; crop-source rule unmet.",
   "date": "2026-07-16"
+ },
+ "2605.29846": {
+  "status": "ingested",
+  "reason": "Temmink 2026 (A&A) HD 142527 chemistry: Fig.2 mom0 gallery (13CO/C18O/C17Ox2/CN/C2H/H2CO/CSx2) + Fig.3 C17O velocity -> 10 line records (system previously held 1 line record).",
+  "date": "2026-07-21"
+ },
+ "2607.13133": {
+  "status": "ingested",
+  "reason": "Zhou 2026 beta Pic b NIRCam variability (Program 4758, 2025-03-21): Fig.4 F210M+F410M planet images (F410M shows b AND new planet d) -> 2 planet records.",
+  "date": "2026-07-21"
+ },
+ "2607.17160": {
+  "status": "ingested",
+  "reason": "Fernandez-Lopez 2026 MagMaR VIII GGD 27-MM1: H2CO 300.84 GHz mom8/mom1 + mom0+B-fields -> 3 line records on hh-80-81 (first ALMA records).",
+  "date": "2026-07-21"
+ },
+ "2607.15923": {
+  "status": "ingested",
+  "reason": "Pezzotta 2026 dynamical masses: re-imaged continuum + 6 mom0 maps -> 4 records each on hd-97048 (12CO2-1/13CO3-2/C18O2-1) and waoph-6 (12CO2-1 rereduction/12CO3-2/13CO3-2).",
+  "date": "2026-07-21"
+ },
+ "2607.17648": {
+  "status": "excluded",
+  "reason": "Fukuhara 2026 HD 142527 VSI/shadow modeling; Fig.14 'images' are asinh-stretch/gradient re-displays of held SPHERE Qphi data used as model input - no new/re-reduced sky image.",
+  "date": "2026-07-21"
+ },
+ "2606.14844": {
+  "status": "excluded",
+  "reason": "Blackman RISTRETTO PDS 70 Halpha: SIMULATED observations + detection limits only (model predictions out of scope).",
+  "date": "2026-07-21"
+ },
+ "2606.10888": {
+  "status": "excluded",
+  "reason": "Potapov HDO ice in 132-1832: JWST/NIRSpec spectroscopy only, no sky-image panel.",
+  "date": "2026-07-21"
+ },
+ "2607.15521": {
+  "status": "excluded",
+  "reason": "Barber L-T dwarf silicate clouds: spectral atlas + CMD plots, no sky-image panel.",
+  "date": "2026-07-21"
+ },
+ "2607.13545": {
+  "status": "excluded",
+  "reason": "Bernardi SaNDi-SHoP II: spectrophotometry/orbits of imaged companions - figures are CMD/spectra/corner/contrast only, no image panels (companion images live in Paper I; follow up whether SaNDi-SHoP I is dispositioned).",
+  "date": "2026-07-21"
  }
 }

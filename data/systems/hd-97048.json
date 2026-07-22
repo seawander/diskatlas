@@ -365,6 +365,98 @@
    },
    "file": "images/hd-97048/hd-97048_12co32-mom1.png",
    "epoch": "2015-05-22"
+  },
+  {
+   "image_id": "hd-97048_cont089mm-pez26",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 7",
+   "wavelength_um": 890,
+   "wavelength_label": "0.89 mm continuum",
+   "technique": "interferometry",
+   "survey": null,
+   "content": "continuum",
+   "credit": "Pezzotta et al. 2026, Fig. 1 (crop)",
+   "note": "Re-imaged archival continuum (2016.1.00826.S); rings and gaps of the HD 97048 disk.",
+   "paper": {
+    "first_author": "Pezzotta",
+    "year": 2026,
+    "title": "Extending dynamical mass measurements: probing GI as a possible origin of mm-dust spirals",
+    "journal": "arXiv e-prints",
+    "arxiv": "2607.15923",
+    "bibcode": "2026arXiv260715923P"
+   },
+   "file": "images/hd-97048/hd-97048_cont089mm-pez26.png",
+   "epoch": "2016-2017"
+  },
+  {
+   "image_id": "hd-97048_12co21-mom0",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 6",
+   "wavelength_um": 1300,
+   "wavelength_label": "12CO(2-1) integrated intensity",
+   "technique": "interferometry",
+   "survey": null,
+   "content": "line",
+   "credit": "Pezzotta et al. 2026, Fig. 4 (crop)",
+   "note": "Integrated flux map (2015.1.00192.S); cloud-absorption regions marked by arrows.",
+   "paper": {
+    "first_author": "Pezzotta",
+    "year": 2026,
+    "title": "Extending dynamical mass measurements: probing GI as a possible origin of mm-dust spirals",
+    "journal": "arXiv e-prints",
+    "arxiv": "2607.15923",
+    "bibcode": "2026arXiv260715923P"
+   },
+   "file": "images/hd-97048/hd-97048_12co21-mom0.png",
+   "epoch": "2016"
+  },
+  {
+   "image_id": "hd-97048_13co32-mom0",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 7",
+   "wavelength_um": 907,
+   "wavelength_label": "13CO(3-2) integrated intensity",
+   "technique": "interferometry",
+   "survey": null,
+   "content": "line",
+   "credit": "Pezzotta et al. 2026, Fig. 4 (crop)",
+   "note": "Integrated flux map (2016.1.00826.S) used for the dynamical-mass rotation curve.",
+   "paper": {
+    "first_author": "Pezzotta",
+    "year": 2026,
+    "title": "Extending dynamical mass measurements: probing GI as a possible origin of mm-dust spirals",
+    "journal": "arXiv e-prints",
+    "arxiv": "2607.15923",
+    "bibcode": "2026arXiv260715923P"
+   },
+   "file": "images/hd-97048/hd-97048_13co32-mom0.png",
+   "epoch": "2016-2017"
+  },
+  {
+   "image_id": "hd-97048_c18o21-mom0",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 6",
+   "wavelength_um": 1365,
+   "wavelength_label": "C18O(2-1) integrated intensity",
+   "technique": "interferometry",
+   "survey": null,
+   "content": "line",
+   "credit": "Pezzotta et al. 2026, Fig. 4 (crop)",
+   "note": "Integrated flux map (2015.1.00192.S).",
+   "paper": {
+    "first_author": "Pezzotta",
+    "year": 2026,
+    "title": "Extending dynamical mass measurements: probing GI as a possible origin of mm-dust spirals",
+    "journal": "arXiv e-prints",
+    "arxiv": "2607.15923",
+    "bibcode": "2026arXiv260715923P"
+   },
+   "file": "images/hd-97048/hd-97048_c18o21-mom0.png",
+   "epoch": "2016"
   }
  ],
  "notes": null,

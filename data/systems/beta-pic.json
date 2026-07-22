@@ -1356,6 +1356,52 @@
    },
    "file": "images/beta-pic/beta-pic_119um.png",
    "epoch": "1994-11"
+  },
+  {
+   "image_id": "beta-pic_nircam-f210m-zhou26",
+   "type": "planet",
+   "facility": "JWST",
+   "instrument": "NIRCam F210M coronagraphy",
+   "wavelength_um": 2.09,
+   "wavelength_label": "F210M 2.1 um; beta Pic b (spaceKLIP PSF subtraction)",
+   "technique": "coronagraphy",
+   "survey": null,
+   "content": "continuum",
+   "credit": "Zhou et al. 2026, Fig. 4 (crop)",
+   "note": "Variability-monitoring campaign (JWST Program 4758), obs 2025 March 21-22; S/N 61 detection of b.",
+   "paper": {
+    "first_author": "Zhou",
+    "year": 2026,
+    "title": "Photometric Variability and Rotation of Beta Pictoris b from JWST NIRCam Coronagraphic Imaging",
+    "journal": "arXiv e-prints",
+    "arxiv": "2607.13133",
+    "bibcode": "2026arXiv260713133Z"
+   },
+   "file": "images/beta-pic/beta-pic_nircam-f210m-zhou26.png",
+   "epoch": "2025-03-21"
+  },
+  {
+   "image_id": "beta-pic_nircam-f410m-zhou26",
+   "type": "planet",
+   "facility": "JWST",
+   "instrument": "NIRCam F410M coronagraphy",
+   "wavelength_um": 4.08,
+   "wavelength_label": "F410M 4.1 um; beta Pic b + d (spaceKLIP PSF subtraction)",
+   "technique": "coronagraphy",
+   "survey": null,
+   "content": "continuum",
+   "credit": "Zhou et al. 2026, Fig. 4 (crop)",
+   "note": "F410M panel shows both beta Pic b and the newly discovered beta Pic d (labels in panel); Program 4758, obs 2025 March 21-22.",
+   "paper": {
+    "first_author": "Zhou",
+    "year": 2026,
+    "title": "Photometric Variability and Rotation of Beta Pictoris b from JWST NIRCam Coronagraphic Imaging",
+    "journal": "arXiv e-prints",
+    "arxiv": "2607.13133",
+    "bibcode": "2026arXiv260713133Z"
+   },
+   "file": "images/beta-pic/beta-pic_nircam-f410m-zhou26.png",
+   "epoch": "2025-03-21"
   }
  ],
  "notes": "Original 1984 discovery image (Smith & Terrile, Las Campanas coronagraph) predates arXiv; add if desired.",

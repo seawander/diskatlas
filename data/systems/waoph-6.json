@@ -146,6 +146,98 @@
    "file": "images/waoph-6/waoph-6_12co21-mom0.png",
    "epoch": "2017-05-13",
    "content": "line"
+  },
+  {
+   "image_id": "waoph-6_cont125mm-pez26",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 6",
+   "wavelength_um": 1250,
+   "wavelength_label": "1.25 mm continuum (log stretch)",
+   "technique": "interferometry",
+   "survey": null,
+   "content": "continuum",
+   "credit": "Pezzotta et al. 2026, Fig. 1 (crop)",
+   "note": "Re-imaged DSHARP continuum (2016.1.00484.L) showing the spiral-and-ring dust structure.",
+   "paper": {
+    "first_author": "Pezzotta",
+    "year": 2026,
+    "title": "Extending dynamical mass measurements: probing GI as a possible origin of mm-dust spirals",
+    "journal": "arXiv e-prints",
+    "arxiv": "2607.15923",
+    "bibcode": "2026arXiv260715923P"
+   },
+   "file": "images/waoph-6/waoph-6_cont125mm-pez26.png",
+   "epoch": "2017"
+  },
+  {
+   "image_id": "waoph-6_12co21-mom0-pez26",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 6",
+   "wavelength_um": 1300,
+   "wavelength_label": "12CO(2-1) integrated intensity",
+   "technique": "interferometry",
+   "survey": null,
+   "content": "line",
+   "credit": "Pezzotta et al. 2026, Fig. 4 (crop)",
+   "note": "Re-reduction of the DSHARP CO cube (2016.1.00484.L); cloud-absorption regions marked (cross-paper re-reduction alongside the held Law 2022 map).",
+   "paper": {
+    "first_author": "Pezzotta",
+    "year": 2026,
+    "title": "Extending dynamical mass measurements: probing GI as a possible origin of mm-dust spirals",
+    "journal": "arXiv e-prints",
+    "arxiv": "2607.15923",
+    "bibcode": "2026arXiv260715923P"
+   },
+   "file": "images/waoph-6/waoph-6_12co21-mom0-pez26.png",
+   "epoch": "2017"
+  },
+  {
+   "image_id": "waoph-6_12co32-mom0",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 7",
+   "wavelength_um": 867,
+   "wavelength_label": "12CO(3-2) integrated intensity",
+   "technique": "interferometry",
+   "survey": null,
+   "content": "line",
+   "credit": "Pezzotta et al. 2026, Fig. 4 (crop)",
+   "note": "Integrated flux map (2015.1.00168.S, obs 2016 June 28); absorption regions marked.",
+   "paper": {
+    "first_author": "Pezzotta",
+    "year": 2026,
+    "title": "Extending dynamical mass measurements: probing GI as a possible origin of mm-dust spirals",
+    "journal": "arXiv e-prints",
+    "arxiv": "2607.15923",
+    "bibcode": "2026arXiv260715923P"
+   },
+   "file": "images/waoph-6/waoph-6_12co32-mom0.png",
+   "epoch": "2016-06-28"
+  },
+  {
+   "image_id": "waoph-6_13co32-mom0",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 7",
+   "wavelength_um": 907,
+   "wavelength_label": "13CO(3-2) integrated intensity",
+   "technique": "interferometry",
+   "survey": null,
+   "content": "line",
+   "credit": "Pezzotta et al. 2026, Fig. 4 (crop)",
+   "note": "Integrated flux map (2015.1.00168.S, obs 2016 June 28).",
+   "paper": {
+    "first_author": "Pezzotta",
+    "year": 2026,
+    "title": "Extending dynamical mass measurements: probing GI as a possible origin of mm-dust spirals",
+    "journal": "arXiv e-prints",
+    "arxiv": "2607.15923",
+    "bibcode": "2026arXiv260715923P"
+   },
+   "file": "images/waoph-6/waoph-6_13co32-mom0.png",
+   "epoch": "2016-06-28"
   }
  ],
  "notes": null,

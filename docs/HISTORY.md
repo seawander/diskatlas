@@ -981,3 +981,23 @@ until the concurrent HD 145718-misfiled-records fix (separate session) lands.
 
 Atlas after the scope batch: **747 systems / 3171 image records / 803 papers**,
 0 validate errors, 0 health findings.
+
+## 2026-07-21 — Weekly fresh_papers digest (first under the widened criterion)
+
+7-day sweep: 283 astro-ph.EP/SR submissions, 9 hits, all VIEW-triaged. Ingested 4
+(+23 records): **Temmink et al. 2026** (A&A 711, A137) HD 142527 chemistry — the Fig. 2
+integrated-intensity gallery (13CO/C18O 2-1, C17O 1-0 & 3-2, CN & C2H stacks, H2CO,
+CS 3-2 & 7-6) + the C17O rotational-velocity map, epochs 2015-2025 multi-program
+combine (system previously held a single line record); **Zhou et al. 2026** beta Pic b
+JWST/NIRCam variability campaign (Program 4758, obs 2025-03-21) — F210M + F410M planet
+images, the F410M panel also showing the newly discovered beta Pic d; **Fernandez-Lopez
+et al. 2026** (MagMaR VIII) GGD 27-MM1 — H2CO 300.84 GHz peak-intensity/velocity/mom0+
+B-field maps, the FIRST ALMA records on hh-80-81 (epochs via ALMA TAP: 2015.1.00480.S
+= 2015-12..2016-09); **Pezzotta et al. 2026** dynamical masses — re-imaged continuum +
+six integrated-flux maps for HD 97048 (12CO 2-1, 13CO 3-2, C18O 2-1) and WaOph 6
+(12CO 2-1 re-reduction, 12CO 3-2, 13CO 3-2), per-line epochs from ALMA TAP project
+queries (2015.1.00192.S=2016, 2016.1.00826.S=2016-2017, 2015.1.00168.S=2016-06-28,
+DSHARP=2017). Excluded 5 with reasons in paper_finder_state (RISTRETTO simulated Halpha,
+NIRSpec ice spectroscopy, Fukuhara shadow-modeling re-displays, L-T spectral atlas,
+SaNDi-SHoP II spectrophotometry — its companion images are in Paper I, follow up).
+Atlas: 747 systems / 3195 image records / 807 papers, 0 errors / 0 warnings.
