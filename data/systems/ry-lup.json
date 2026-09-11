@@ -88,8 +88,184 @@
    },
    "epoch": "2017-2023",
    "content": "continuum"
+  },
+  {
+   "image_id": "ry-lup_jwst-miri_cont-h2s1",
+   "type": "disk_mm",
+   "facility": "JWST",
+   "instrument": "MIRI MRS",
+   "wavelength_um": 17.035,
+   "wavelength_label": "~17.04 um continuum (near H2 S(1)",
+   "technique": "other",
+   "survey": null,
+   "file": "images/ry-lup/ry-lup_jwst-miri_cont-h2s1.png",
+   "credit": "Bajaj et al. 2026, Fig. 13 (crop)",
+   "paper": {
+    "first_author": "Bajaj",
+    "year": 2026,
+    "title": "JWST/MIRI Reveals the Evolution from Molecular to Atomic Disk Winds",
+    "journal": "AJ 172, 161",
+    "arxiv": "2607.21733",
+    "bibcode": "2026AJ....172..161B"
+   },
+   "epoch": "2023-08-13",
+   "content": "continuum"
+  },
+  {
+   "image_id": "ry-lup_jwst-miri_cont-h2s3",
+   "type": "disk_mm",
+   "facility": "JWST",
+   "instrument": "MIRI MRS",
+   "wavelength_um": 9.665,
+   "wavelength_label": "~9.66 um continuum (near H2 S(3)",
+   "technique": "other",
+   "survey": null,
+   "file": "images/ry-lup/ry-lup_jwst-miri_cont-h2s3.png",
+   "credit": "Bajaj et al. 2026, Fig. 13 (crop)",
+   "paper": {
+    "first_author": "Bajaj",
+    "year": 2026,
+    "title": "JWST/MIRI Reveals the Evolution from Molecular to Atomic Disk Winds",
+    "journal": "AJ 172, 161",
+    "arxiv": "2607.21733",
+    "bibcode": "2026AJ....172..161B"
+   },
+   "epoch": "2023-08-13",
+   "content": "continuum"
+  },
+  {
+   "image_id": "ry-lup_jwst-miri_cont-h2s5",
+   "type": "disk_mm",
+   "facility": "JWST",
+   "instrument": "MIRI MRS",
+   "wavelength_um": 6.909,
+   "wavelength_label": "~6.91 um continuum (near H2 S(5)",
+   "technique": "other",
+   "survey": null,
+   "file": "images/ry-lup/ry-lup_jwst-miri_cont-h2s5.png",
+   "credit": "Bajaj et al. 2026, Fig. 13 (crop)",
+   "paper": {
+    "first_author": "Bajaj",
+    "year": 2026,
+    "title": "JWST/MIRI Reveals the Evolution from Molecular to Atomic Disk Winds",
+    "journal": "AJ 172, 161",
+    "arxiv": "2607.21733",
+    "bibcode": "2026AJ....172..161B"
+   },
+   "epoch": "2023-08-13",
+   "content": "continuum"
+  },
+  {
+   "image_id": "ry-lup_jwst-miri_cont-neii",
+   "type": "disk_mm",
+   "facility": "JWST",
+   "instrument": "MIRI MRS",
+   "wavelength_um": 12.814,
+   "wavelength_label": "~12.81 um continuum (near [Ne II)",
+   "technique": "other",
+   "survey": null,
+   "file": "images/ry-lup/ry-lup_jwst-miri_cont-neii.png",
+   "credit": "Bajaj et al. 2026, Fig. 13 (crop)",
+   "paper": {
+    "first_author": "Bajaj",
+    "year": 2026,
+    "title": "JWST/MIRI Reveals the Evolution from Molecular to Atomic Disk Winds",
+    "journal": "AJ 172, 161",
+    "arxiv": "2607.21733",
+    "bibcode": "2026AJ....172..161B"
+   },
+   "epoch": "2023-08-13",
+   "content": "continuum"
+  },
+  {
+   "image_id": "ry-lup_jwst-miri_h2s1",
+   "type": "disk_mm",
+   "facility": "JWST",
+   "instrument": "MIRI MRS",
+   "wavelength_um": 17.035,
+   "wavelength_label": "H2 S(1) 17.03 um (MIRI MRS, continuum-subtracted)",
+   "technique": "other",
+   "survey": null,
+   "file": "images/ry-lup/ry-lup_jwst-miri_h2s1.png",
+   "credit": "Bajaj et al. 2026, Fig. 13 (crop)",
+   "paper": {
+    "first_author": "Bajaj",
+    "year": 2026,
+    "title": "JWST/MIRI Reveals the Evolution from Molecular to Atomic Disk Winds",
+    "journal": "AJ 172, 161",
+    "arxiv": "2607.21733",
+    "bibcode": "2026AJ....172..161B"
+   },
+   "epoch": "2023-08-13",
+   "content": "line"
+  },
+  {
+   "image_id": "ry-lup_jwst-miri_h2s3",
+   "type": "disk_mm",
+   "facility": "JWST",
+   "instrument": "MIRI MRS",
+   "wavelength_um": 9.665,
+   "wavelength_label": "H2 S(3) 9.66 um (MIRI MRS, continuum-subtracted)",
+   "technique": "other",
+   "survey": null,
+   "file": "images/ry-lup/ry-lup_jwst-miri_h2s3.png",
+   "credit": "Bajaj et al. 2026, Fig. 13 (crop)",
+   "paper": {
+    "first_author": "Bajaj",
+    "year": 2026,
+    "title": "JWST/MIRI Reveals the Evolution from Molecular to Atomic Disk Winds",
+    "journal": "AJ 172, 161",
+    "arxiv": "2607.21733",
+    "bibcode": "2026AJ....172..161B"
+   },
+   "epoch": "2023-08-13",
+   "content": "line"
+  },
+  {
+   "image_id": "ry-lup_jwst-miri_h2s5",
+   "type": "disk_mm",
+   "facility": "JWST",
+   "instrument": "MIRI MRS",
+   "wavelength_um": 6.909,
+   "wavelength_label": "H2 S(5) 6.91 um (MIRI MRS, continuum-subtracted)",
+   "technique": "other",
+   "survey": null,
+   "file": "images/ry-lup/ry-lup_jwst-miri_h2s5.png",
+   "credit": "Bajaj et al. 2026, Fig. 13 (crop)",
+   "paper": {
+    "first_author": "Bajaj",
+    "year": 2026,
+    "title": "JWST/MIRI Reveals the Evolution from Molecular to Atomic Disk Winds",
+    "journal": "AJ 172, 161",
+    "arxiv": "2607.21733",
+    "bibcode": "2026AJ....172..161B"
+   },
+   "epoch": "2023-08-13",
+   "content": "line"
+  },
+  {
+   "image_id": "ry-lup_jwst-miri_neii",
+   "type": "disk_mm",
+   "facility": "JWST",
+   "instrument": "MIRI MRS",
+   "wavelength_um": 12.814,
+   "wavelength_label": "[Ne II] 12.81 um (MIRI MRS, continuum-subtracted)",
+   "technique": "other",
+   "survey": null,
+   "file": "images/ry-lup/ry-lup_jwst-miri_neii.png",
+   "credit": "Bajaj et al. 2026, Fig. 13 (crop)",
+   "paper": {
+    "first_author": "Bajaj",
+    "year": 2026,
+    "title": "JWST/MIRI Reveals the Evolution from Molecular to Atomic Disk Winds",
+    "journal": "AJ 172, 161",
+    "arxiv": "2607.21733",
+    "bibcode": "2026AJ....172..161B"
+   },
+   "epoch": "2023-08-13",
+   "content": "line"
   }
  ],
  "notes": "First scattered-light detection of the RY Lup transition disk (VLT/SPHERE IRDIS+IFS). The disk appears as a dominating double-arch structure extending to 0.53 arcsec (80 au) in radius, seen at high inclination (PA ~107 deg), with faint spiral-like features in the SE possibly due to planet-disk interaction (Langlois et al. 2018).",
- "last_updated": "2026-07-06"
+ "last_updated": "2026-09-11"
 }
