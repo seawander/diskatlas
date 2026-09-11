@@ -614,10 +614,77 @@
    },
    "file": "images/tw-hya/tw-hya_hband.png",
    "epoch": "2000-04-07"
+  },
+  {
+   "image_id": "tw-hya_f200w-lin26",
+   "type": "disk_scattered",
+   "facility": "JWST",
+   "instrument": "NIRCam/F200W",
+   "wavelength_um": 2.0,
+   "wavelength_label": "F200W 2.00 um (HPFRDI scattered light; nearly face-on disk)",
+   "technique": "RDI",
+   "survey": null,
+   "content": "continuum",
+   "credit": "Lin et al. 2026, Fig. 1 (crop)",
+   "file": "images/tw-hya/tw-hya_f200w-lin26.png",
+   "epoch": "2024-02-14",
+   "paper": {
+    "first_author": "Lin",
+    "year": 2026,
+    "title": "JWST/NIRCam Imaging of Young Stellar Objects. IV. Detailed Imaging of the Protoplanetary Disk around TW Hya",
+    "journal": "AJ 172, 179",
+    "arxiv": "2607.23992",
+    "bibcode": "2026AJ....172..179L"
+   }
+  },
+  {
+   "image_id": "tw-hya_f356w-lin26",
+   "type": "disk_scattered",
+   "facility": "JWST",
+   "instrument": "NIRCam/F356W",
+   "wavelength_um": 3.56,
+   "wavelength_label": "F356W 3.56 um (HPFRDI scattered light; small reference library, noisier)",
+   "technique": "RDI",
+   "survey": null,
+   "content": "continuum",
+   "credit": "Lin et al. 2026, Fig. 12 (crop)",
+   "file": "images/tw-hya/tw-hya_f356w-lin26.png",
+   "epoch": "2024-02-14",
+   "note": "Appendix filter; processed for completeness, but the small HPFRDI reference library yields more residual noise/artifacts than the primary F200W and F444W reductions.",
+   "paper": {
+    "first_author": "Lin",
+    "year": 2026,
+    "title": "JWST/NIRCam Imaging of Young Stellar Objects. IV. Detailed Imaging of the Protoplanetary Disk around TW Hya",
+    "journal": "AJ 172, 179",
+    "arxiv": "2607.23992",
+    "bibcode": "2026AJ....172..179L"
+   }
+  },
+  {
+   "image_id": "tw-hya_f444w-lin26",
+   "type": "disk_scattered",
+   "facility": "JWST",
+   "instrument": "NIRCam/F444W",
+   "wavelength_um": 4.44,
+   "wavelength_label": "F444W 4.44 um (HPFRDI scattered light; nearly face-on disk)",
+   "technique": "RDI",
+   "survey": null,
+   "content": "continuum",
+   "credit": "Lin et al. 2026, Fig. 1 (crop)",
+   "file": "images/tw-hya/tw-hya_f444w-lin26.png",
+   "epoch": "2024-02-14",
+   "paper": {
+    "first_author": "Lin",
+    "year": 2026,
+    "title": "JWST/NIRCam Imaging of Young Stellar Objects. IV. Detailed Imaging of the Protoplanetary Disk around TW Hya",
+    "journal": "AJ 172, 179",
+    "arxiv": "2607.23992",
+    "bibcode": "2026AJ....172..179L"
+   }
   }
  ],
  "notes": null,
- "last_updated": "2026-07-14",
+ "last_updated": "2026-09-11",
  "plx_mas": 16.6289,
  "mags": {
   "B": 11.94,

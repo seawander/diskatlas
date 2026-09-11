@@ -133,8 +133,74 @@
    "hires_url": "https://archive.stsci.edu/prepds/alice/",
    "epoch": "2005-02-07",
    "content": "continuum"
+  },
+  {
+   "image_id": "twa-25_f200w-crotts26",
+   "type": "disk_scattered",
+   "facility": "JWST",
+   "instrument": "NIRCam",
+   "wavelength_um": 2.0,
+   "wavelength_label": "F200W 2.00 um (MCRDI final reduction)",
+   "technique": "RDI (MCRDI)",
+   "survey": null,
+   "file": "images/twa-25/twa-25_f200w-crotts26.png",
+   "credit": "Crotts et al. 2026, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Crotts",
+    "year": 2026,
+    "title": "JWST NIRCam Reveals the Largest Known M dwarf Debris Disk Around TWA 10 and New Scattered-light Observations of the TWA 25 Debris Disk",
+    "journal": "ApJ 1008, 22",
+    "arxiv": "2607.22426",
+    "bibcode": "2026ApJ..1008...22C"
+   },
+   "epoch": "2024-06-16",
+   "content": "continuum"
+  },
+  {
+   "image_id": "twa-25_f444w-crotts26",
+   "type": "disk_scattered",
+   "facility": "JWST",
+   "instrument": "NIRCam",
+   "wavelength_um": 4.44,
+   "wavelength_label": "F444W 4.44 um (MCRDI final reduction)",
+   "technique": "RDI (MCRDI)",
+   "survey": null,
+   "file": "images/twa-25/twa-25_f444w-crotts26.png",
+   "credit": "Crotts et al. 2026, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Crotts",
+    "year": 2026,
+    "title": "JWST NIRCam Reveals the Largest Known M dwarf Debris Disk Around TWA 10 and New Scattered-light Observations of the TWA 25 Debris Disk",
+    "journal": "ApJ 1008, 22",
+    "arxiv": "2607.22426",
+    "bibcode": "2026ApJ..1008...22C"
+   },
+   "epoch": "2024-06-16",
+   "content": "continuum"
+  },
+  {
+   "image_id": "twa-25_f200w-deconv-crotts26",
+   "type": "disk_scattered",
+   "facility": "JWST",
+   "instrument": "NIRCam",
+   "wavelength_um": 2.0,
+   "wavelength_label": "F200W 2.00 um (MCRDI, deconvolved with instrumental PSF; major axis horizontal)",
+   "technique": "RDI (MCRDI, deconvolved)",
+   "survey": null,
+   "file": "images/twa-25/twa-25_f200w-deconv-crotts26.png",
+   "credit": "Crotts et al. 2026, Fig. 7 (crop)",
+   "paper": {
+    "first_author": "Crotts",
+    "year": 2026,
+    "title": "JWST NIRCam Reveals the Largest Known M dwarf Debris Disk Around TWA 10 and New Scattered-light Observations of the TWA 25 Debris Disk",
+    "journal": "ApJ 1008, 22",
+    "arxiv": "2607.22426",
+    "bibcode": "2026ApJ..1008...22C"
+   },
+   "epoch": "2024-06-16",
+   "content": "continuum"
   }
  ],
  "notes": null,
- "last_updated": "2026-07-06"
+ "last_updated": "2026-09-11"
 }
