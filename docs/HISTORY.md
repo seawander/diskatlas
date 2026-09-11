@@ -1139,3 +1139,18 @@ maps, contrast curve and orbit fits, no sky-image panel; **Portilla-Revelo 2026*
 DQ Tau — X-ray/IR spectra + thermochemical models only.
 `audit_bibcodes --fix --fill` changed nothing (one pre-existing ARXIV_UNRESOLVED: 2606.08607).
 Atlas: 961 systems / 4246 image records / 833 papers, 0 errors / 0 warnings (epochs 96.7%).
+
+## 2026-09-11 (5) — HR 8799 candidate fifth planet (user-directed)
+
+Reversed the weekly digest's exclusion of **Nguyen et al. 2026** (arXiv:2609.10507)
+*A Candidate Innermost Fifth Planet In the HR 8799 System Revealed By JWST NIRISS
+Aperture Masking Interferometry*. Figure 1 is a three-panel ΔlnL map; the maintainer
+directed that its **central panel** be used — the residual log-likelihood after
+subtracting the joint b/c/d/e model, in which candidate **f** is the significant peak.
+Added `hr-8799_nguyen26-f` (type planet, JWST/NIRISS-AMI, F380M 3.80 µm, epoch
+2023-08-03 = GTO 1200 observation, credit "Nguyen et al. 2026, Fig. 1 (central panel,
+crop)", flagged in `note` as a detection-significance map rather than an intensity
+image) and candidate planet **f** to `hr-8799.planets[]` (status candidate, method
+interferometry). The exclusion rationale (no conventional sky-image panel) was correct
+on its own terms; the user opted to include the significance map as the candidate's
+panel. Atlas: 961 systems / 4247 records / 834 papers, 0 errors / 0 warnings.

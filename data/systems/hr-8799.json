@@ -59,6 +59,20 @@
     "journal": "Nature 468, 1080",
     "title": "Images of a fourth planet orbiting HR 8799"
    }
+  },
+  {
+   "name": "f",
+   "status": "candidate",
+   "method": "interferometry",
+   "note": "Candidate innermost fifth planet from JWST/NIRISS AMI F380M: ~150 mas (~7 au), contrast ~2e-4; evidence tentative.",
+   "paper": {
+    "first_author": "Nguyen",
+    "year": 2026,
+    "title": "A Candidate Innermost Fifth Planet In the HR 8799 System Revealed By JWST NIRISS Aperture Masking Interferometry",
+    "journal": null,
+    "arxiv": "2609.10507",
+    "bibcode": "2026arXiv260910507N"
+   }
   }
  ],
  "images": [
@@ -1391,10 +1405,33 @@
     "bibcode": "2022AJ....164..143W"
    },
    "epoch": "2018-09-02"
+  },
+  {
+   "image_id": "hr-8799_nguyen26-f",
+   "type": "planet",
+   "facility": "JWST",
+   "instrument": "NIRISS/AMI",
+   "wavelength_um": 3.8,
+   "wavelength_label": "F380M (3.80 um) delta-log-likelihood map; residual after subtracting b/c/d/e, showing candidate f",
+   "technique": "interferometry",
+   "survey": null,
+   "file": "images/hr-8799/hr-8799_nguyen26-f.png",
+   "credit": "Nguyen et al. 2026, Fig. 1 (central panel, crop)",
+   "paper": {
+    "first_author": "Nguyen",
+    "year": 2026,
+    "title": "A Candidate Innermost Fifth Planet In the HR 8799 System Revealed By JWST NIRISS Aperture Masking Interferometry",
+    "journal": null,
+    "arxiv": "2609.10507",
+    "bibcode": "2026arXiv260910507N"
+   },
+   "epoch": "2023-08-03",
+   "content": "continuum",
+   "note": "Delta-log-likelihood detection-significance map for candidate planet f (not a conventional intensity image)."
   }
  ],
  "notes": null,
- "last_updated": "2026-07-08",
+ "last_updated": "2026-09-11",
  "plx_mas": 24.462,
  "mags": {
   "B": 6.21,

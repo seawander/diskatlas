@@ -60372,10 +60372,10 @@
   "title": ""
  },
  "2609.10507": {
-  "status": "excluded",
-  "reason": "JWST/AMI candidate 5th HR 8799 planet: delta-log-likelihood detection maps, contrast curve and orbit fits only; no sky-image panel.",
+  "status": "ingested",
+  "reason": "User-directed 2026-09-11: central panel of Fig. 1 added as candidate planet f for HR 8799.",
   "date": "2026-09-11",
-  "title": ""
+  "title": "Nguyen 2026 HR 8799 candidate fifth planet (JWST/NIRISS AMI)"
  },
  "2609.06863": {
   "status": "excluded",

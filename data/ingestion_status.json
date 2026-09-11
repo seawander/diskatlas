@@ -1,6 +1,6 @@
 {
  "_doc": "Per-survey ingestion state. entries/coords/images: done|partial|todo. Update on every ingest.",
- "updated": "2026-09-11 (4): WEEKLY fresh_papers digest (14 days, 475 submissions, 8 hits) processed: 6 ingested (+264 records, +185 systems) and 2 excluded. Serpens ALMA 1.3 mm disk survey (Tong 2026) dominates (+193 records/185 systems); plus IRAS 4B NOEMA COM maps (29), L1551 IRS 5 ALMA COM maps (26), J1612-3010 ALMA B6/B7 (8), CY Tau/DoAr 25 multiwavelength (6), PR Ori B (2, new system = ESO-HA 1481). Excluded HR 8799 AMI candidate (detection maps only) and DQ Tau (spectra/theory). Deduped survey systems against existing s68nb1/b2, s68nc1, serpens-smm4; 5 genuine close pairs added to health_check ALLOW_PAIRS. Atlas: 961 systems / 4246 records / 833 papers, 0 errors / 0 warnings (epochs 96.7%).",
+ "updated": "2026-09-11 (5): user-directed - HR 8799 candidate fifth planet. Added planet f (status candidate, JWST/NIRISS AMI F380M, obs 2023-08-03, ~150 mas / ~7 au) and its Fig. 1 central-panel delta-log-likelihood map (Nguyen 2026, arXiv:2609.10507). This reverses the earlier weekly-digest exclusion of the same paper. Atlas: 961 systems / 4247 records / 834 papers, 0 errors.",
  "surveys": {
   "DSHARP": {
    "entries": "done",
