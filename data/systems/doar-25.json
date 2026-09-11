@@ -343,6 +343,72 @@
    },
    "epoch": "2023-08-16",
    "content": "line"
+  },
+  {
+   "image_id": "doar-25_alma-b6-1.25mm",
+   "file": "images/doar-25/doar-25_alma-b6-1.25mm.png",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 6",
+   "wavelength_um": 1250.0,
+   "wavelength_label": "1.25 mm (Band 6)",
+   "technique": "mm continuum interferometry",
+   "content": "continuum",
+   "epoch": null,
+   "credit": "Topalidou et al. 2026, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Topalidou",
+    "year": 2026,
+    "title": "Drift-dominated dust evolution. A multiwavelength analysis of dust rings in CY Tau and DoAr25",
+    "journal": "arXiv:2609.02599",
+    "arxiv": "2609.02599",
+    "bibcode": "2026arXiv260902599T"
+   },
+   "note": "Band 6 (1.25 mm) panel; ALMA data are from the DSHARP survey (Andrews et al. 2018, program 2016.1.00484.L) re-imaged here; no observation date given in this paper (epoch null, flagged)."
+  },
+  {
+   "image_id": "doar-25_alma-b4-2.24mm",
+   "file": "images/doar-25/doar-25_alma-b4-2.24mm.png",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 4",
+   "wavelength_um": 2240.0,
+   "wavelength_label": "2.24 mm (Band 4)",
+   "technique": "mm continuum interferometry",
+   "content": "continuum",
+   "epoch": "2023-08-06",
+   "credit": "Topalidou et al. 2026, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Topalidou",
+    "year": 2026,
+    "title": "Drift-dominated dust evolution. A multiwavelength analysis of dust rings in CY Tau and DoAr25",
+    "journal": "arXiv:2609.02599",
+    "arxiv": "2609.02599",
+    "bibcode": "2026arXiv260902599T"
+   },
+   "note": "Band 4 (2.24 mm) panel; new ALMA program 2022.1.01284.S, concatenation of short-baseline EB 2023-05-30 and long-baseline EB 2023-08-06; epoch set to the higher-resolution EB."
+  },
+  {
+   "image_id": "doar-25_vla-8.8mm",
+   "file": "images/doar-25/doar-25_vla-8.8mm.png",
+   "type": "disk_mm",
+   "facility": "VLA",
+   "instrument": "VLA Ka band",
+   "wavelength_um": 8800.0,
+   "wavelength_label": "8.8 mm (Ka band)",
+   "technique": "cm interferometry",
+   "content": "continuum",
+   "epoch": null,
+   "credit": "Topalidou et al. 2026, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Topalidou",
+    "year": 2026,
+    "title": "Drift-dominated dust evolution. A multiwavelength analysis of dust rings in CY Tau and DoAr25",
+    "journal": "arXiv:2609.02599",
+    "arxiv": "2609.02599",
+    "bibcode": "2026arXiv260902599T"
+   },
+   "note": "VLA (8.8 mm, Ka band) panel; archival VLA data from Perez et al. 2015; no observation date given in this paper (epoch null, flagged)."
   }
  ],
  "notes": null,

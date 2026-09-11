@@ -37,6 +37,14 @@ ALLOW_PAIRS = {
                                             # NW of the IRS 43 binary (eDisk X)
     frozenset(("s68nb1", "s68nb2")),        # 5.4" pair: distinct Class 0 + Class I
                                             # protostars in the S68N clump (Aso 2019)
+    # Serpens ALMA 1.3 mm survey (Tong et al. 2026): distinct close targets, each
+    # a separate panel in the Fig. 1 gallery; SIMBAD resolves the two members to
+    # different main IDs (verified 2026-09-11), so not the same star twice.
+    frozenset(("2mass-j18295760+0113004", "2mass-j18295766+0113045")),
+    frozenset(("2mass-j18295785+0112514", "2mass-j18295789+0112462")),  # EC 95 pair
+    frozenset(("2mass-j18314416-0216182", "sstgbs-j1831442-021621")),
+    frozenset(("serpens-s68nc2", "serpens-s68nc3")),                   # S68Nc3/c4
+    frozenset(("sstgbs-j1830055-020107", "sstysv-j183005.33-020111.8")),
 }
 COARSE = ("1RXS", "HSCS", "RX J", "RXJ", "JCMTSE", "BKLT")  # + single-dish JCMT ~15" beam; BKLT truncates RA seconds (up to ~15" off)    # ~arcmin-precision catalog names
 

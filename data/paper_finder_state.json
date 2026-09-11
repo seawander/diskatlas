@@ -60334,5 +60334,53 @@
   "reason": "User-directed ingestion 2026-09-11.",
   "date": "2026-09-11",
   "title": "Law 2026 Gomez's Hamburger ALMA"
+ },
+ "2609.02599": {
+  "status": "ingested",
+  "reason": "Ingested 2026-09-11 (weekly digest): ALMA B6/B4 + VLA 8.8mm continuum images of DoAr 25 and CY Tau (+6).",
+  "date": "2026-09-11",
+  "title": ""
+ },
+ "2609.09722": {
+  "status": "ingested",
+  "reason": "Ingested 2026-09-11 (weekly digest): ALMA non-CO continuum + ZTF r-band outburst image of PR Ori B (+2; new system pr-ori-b = ESO-HA 1481).",
+  "date": "2026-09-11",
+  "title": ""
+ },
+ "2609.06295": {
+  "status": "ingested",
+  "reason": "Ingested 2026-09-11 (weekly digest): NOEMA 2mm continuum + 27 stacked/single-transition moment-0 COM maps of NGC 1333 IRAS 4B/4B' (+29).",
+  "date": "2026-09-11",
+  "title": ""
+ },
+ "2609.07991": {
+  "status": "ingested",
+  "reason": "Ingested 2026-09-11 (weekly digest): ALMA moment-0 maps of 25 COM transitions + CH3OH peak map toward L1551 IRS 5 Source N (+26).",
+  "date": "2026-09-11",
+  "title": ""
+ },
+ "2609.05366": {
+  "status": "ingested",
+  "reason": "Ingested 2026-09-11 (weekly digest): ALMA Band 7 continuum/12CO/13CO moment-0 + Band 6 re-display for J1612-3010 (2MASS J16120668-3010270) (+8).",
+  "date": "2026-09-11",
+  "title": ""
+ },
+ "2609.03759": {
+  "status": "ingested",
+  "reason": "Ingested 2026-09-11 (weekly digest): Serpens ALMA 1.3 mm disk survey - 193 observed continuum panels (+193 records, 185 new systems; deduped vs existing s68nb1/b2, s68nc1, serpens-smm4).",
+  "date": "2026-09-11",
+  "title": ""
+ },
+ "2609.10507": {
+  "status": "excluded",
+  "reason": "JWST/AMI candidate 5th HR 8799 planet: delta-log-likelihood detection maps, contrast curve and orbit fits only; no sky-image panel.",
+  "date": "2026-09-11",
+  "title": ""
+ },
+ "2609.06863": {
+  "status": "excluded",
+  "reason": "DQ Tau X-ray/IR spectra + thermochemical model figures; no observed sky-image panel.",
+  "date": "2026-09-11",
+  "title": ""
  }
 }

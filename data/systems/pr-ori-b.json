@@ -1,0 +1,71 @@
+{
+ "id": "pr-ori-b",
+ "name": "PR Ori B",
+ "alt_names": [
+  "AT 2021ckv"
+ ],
+ "simbad": "ESO-HA 1481",
+ "ra_deg": 84.10333,
+ "dec_deg": -6.29194,
+ "dist_pc": null,
+ "sptype": "K7",
+ "region": "Orion",
+ "categories": [
+  "protoplanetary"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "image_id": "pr-ori-b_alma-noco",
+   "file": "images/pr-ori-b/pr-ori-b_alma-noco.png",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 6",
+   "wavelength_um": 1300.0,
+   "wavelength_label": "1.3 mm (Band 6) non-CO continuum",
+   "technique": "mm continuum interferometry",
+   "content": "continuum",
+   "epoch": "2024-08-01",
+   "credit": "Contreras Peña et al. 2026, Fig. 6 (crop)",
+   "paper": {
+    "first_author": "Contreras Peña",
+    "year": 2026,
+    "title": "The FU Ori outburst of PR Ori B",
+    "journal": "arXiv e-prints, arXiv:2609.09722",
+    "arxiv": "2609.09722",
+    "bibcode": "2026arXiv260909722C"
+   },
+   "note": "Cleaned non-CO continuum image: spectral windows centred on the 12CO line near 230.538 GHz were excluded and the remaining continuum windows averaged. The orange star marks the phase center (PR Ori A); the continuum peak (green) sits at the expected offset of PR Ori B. Synthesized beam 0.36x0.28 arcsec (PA 85.6 deg); continuum rms 4.04e-2 mJy/beam. Observed 2024 August 1 (project 2023.1.00561.S)."
+  },
+  {
+   "image_id": "pr-ori-b_ztf-r-2026-03",
+   "file": "images/pr-ori-b/pr-ori-b_ztf-r-2026-03.png",
+   "type": "disk_scattered",
+   "facility": "ZTF",
+   "instrument": "ZTF Camera (Palomar 48-inch)",
+   "wavelength_um": 0.623,
+   "wavelength_label": "r band (0.623 um)",
+   "technique": "imaging",
+   "content": "continuum",
+   "epoch": null,
+   "credit": "Contreras Peña et al. 2026, Fig. 8 (top row, 03-2026 panel, crop)",
+   "paper": {
+    "first_author": "Contreras Peña",
+    "year": 2026,
+    "title": "The FU Ori outburst of PR Ori B",
+    "journal": "arXiv e-prints, arXiv:2609.09722",
+    "arxiv": "2609.09722",
+    "bibcode": "2026arXiv260909722C"
+   },
+   "note": "Representative late/peak outburst stage of the r-band ZTF monitoring series: PR Ori A (green) and the outbursting PR Ori B (red) with the reflection nebula ('RNe', blue aperture) still apparent. Image is from ZTF r-band (Palomar 48-inch / Samuel Oschin), obtained via the IRSA image query service, from a series spanning 09-2018, 03-2020, 09-2020, 10-2023, 10-2025 and 03-2026; only this one panel is ingested."
+  }
+ ],
+ "notes": "In corporated from ingest of arXiv:2609.09722; coordinates/metadata from the source.",
+ "last_updated": "2026-09-11",
+ "plx_mas": 2.575,
+ "mags": {
+  "J": 11.16,
+  "H": 10.25,
+  "K": 9.85
+ }
+}

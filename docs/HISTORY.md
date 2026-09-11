@@ -1108,3 +1108,34 @@ PDS 70c/SR 12c theory/model paper; **Qi 2026** (2608.30140) HD 163296 beam-avera
 column-density inversion + radial profiles only. `audit_bibcodes --fix --fill` changed
 nothing (one pre-existing ARXIV_UNRESOLVED: 2606.08607).
 Atlas: 776 systems / 3982 image records / 827 papers, 0 errors / 0 warnings.
+
+## 2026-09-11 (4) — Weekly fresh_papers digest (14-day window)
+
+Ran `fresh_papers.py --days 14` (475 astro-ph.EP/SR submissions, 8 hits: 6 target + 2
+keyword). All 8 reviewed; 6 ingested, 2 excluded. +264 image records, +185 systems.
+
+- **Tong et al. 2026** (2609.03759) *Disk survey in the Serpens star-forming region*:
+  the dominant batch, 193 observed ALMA Band 6 1.3 mm continuum panels from the Fig. 1
+  detection gallery + Fig. 6/16 transition-disk candidates + Fig. 12 appendix (+193;
+  185 new systems, `region` Serpens). Survey-system dedup during merge caught several
+  re-discoveries: the manifest's `serpens-s68nb1`/`serpens-s68nc1`/`2mass-j18294960+0117058`
+  were remapped to the existing `s68nb1`/`s68nc1`/`s68nb2`, and `serpens-smm4a/b` to
+  `serpens-smm4`; 7 malformed `2mass-jJ…` ids and 4 intra-manifest literature-vs-2MASS
+  duplicates were also repaired before merge. Five genuine close pairs (SIMBAD-confirmed
+  distinct objects, e.g. the EC 95 pair and S68Nc3/c4) added to `health_check.ALLOW_PAIRS`.
+- **Sarver et al. 2026** (2609.06295) NGC 1333 IRAS 4B (NOEMA, not ALMA): 2 mm continuum
+  for 4B + 4B' and 27 stacked/single-transition moment-0 COM maps (+29).
+- **Kang et al. 2026** (2609.07991) L1551 IRS 5: ALMA moment-0 maps of 25 COM transitions
+  toward Source N + a CH3OH peak-intensity map (+26).
+- **Sierra et al. 2026** (2609.05366) J1612-3010: ALMA Band 7 continuum + 12CO/13CO
+  moment-0/peak maps, Band 7 central continuum and a Band 6 re-display (Sierra 2024) (+8).
+- **Topalidou et al. 2026** (2609.02599) CY Tau + DoAr 25: ALMA Band 6/4 and VLA 8.8 mm
+  continuum images (+6).
+- **Contreras Pena et al. 2026** (2609.09722) PR Ori B: ALMA non-CO continuum and a ZTF
+  r-band outburst image (+2; new system `pr-ori-b` = ESO-HA 1481).
+
+Excluded: **Nguyen 2026** (2609.10507) HR 8799 AMI candidate — Δ-log-likelihood detection
+maps, contrast curve and orbit fits, no sky-image panel; **Portilla-Revelo 2026** (2609.06863)
+DQ Tau — X-ray/IR spectra + thermochemical models only.
+`audit_bibcodes --fix --fill` changed nothing (one pre-existing ARXIV_UNRESOLVED: 2606.08607).
+Atlas: 961 systems / 4246 image records / 833 papers, 0 errors / 0 warnings (epochs 96.7%).
