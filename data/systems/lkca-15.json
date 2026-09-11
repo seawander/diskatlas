@@ -915,6 +915,72 @@
    },
    "epoch": "2023-10-14",
    "content": "line"
+  },
+  {
+   "image_id": "lkca-15_qian26-band7",
+   "file": "images/lkca-15/lkca-15_qian26-band7.png",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 7",
+   "wavelength_um": 880,
+   "wavelength_label": "Band 7 continuum (69 au ring)",
+   "technique": "mm continuum interferometry",
+   "content": "continuum",
+   "epoch": null,
+   "credit": "Qian et al. 2026, Fig. 3 (left column, Band 7 image panel, crop)",
+   "paper": {
+    "first_author": "Qian",
+    "year": 2026,
+    "title": "Geometry of dust rings in protoplanetary disks: the case of LkCa 15",
+    "journal": "arXiv",
+    "arxiv": "2608.06457",
+    "bibcode": "2026arXiv260806457Q"
+   },
+   "note": "left-column image panel of Fig. 3 (fig:phiobs); archival images from Sierra et al. 2025; Band 6/7 originally Long et al. 2022; all convolved to a common circular 60 mas FWHM beam; evidence for a 69 au dust ring; observation date not stated in paper | epoch_flag: null: ALMA obs date not stated in paper (archival Sierra et al. 2025; Long et al. 2022); ocr_confidence: 69.0"
+  },
+  {
+   "image_id": "lkca-15_qian26-band6",
+   "file": "images/lkca-15/lkca-15_qian26-band6.png",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 6",
+   "wavelength_um": 1340,
+   "wavelength_label": "Band 6 continuum (69 au ring)",
+   "technique": "mm continuum interferometry",
+   "content": "continuum",
+   "epoch": null,
+   "credit": "Qian et al. 2026, Fig. 3 (left column, Band 6 image panel, crop)",
+   "paper": {
+    "first_author": "Qian",
+    "year": 2026,
+    "title": "Geometry of dust rings in protoplanetary disks: the case of LkCa 15",
+    "journal": "arXiv",
+    "arxiv": "2608.06457",
+    "bibcode": "2026arXiv260806457Q"
+   },
+   "note": "left-column image panel of Fig. 3 (fig:phiobs); archival images from Sierra et al. 2025; Band 6/7 originally Long et al. 2022; all convolved to a common circular 60 mas FWHM beam; evidence for a 69 au dust ring; observation date not stated in paper | epoch_flag: null: ALMA obs date not stated in paper (archival Sierra et al. 2025; Long et al. 2022); ocr_confidence: 89.8"
+  },
+  {
+   "image_id": "lkca-15_qian26-band3",
+   "file": "images/lkca-15/lkca-15_qian26-band3.png",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 3",
+   "wavelength_um": 3080,
+   "wavelength_label": "Band 3 continuum (69 au ring)",
+   "technique": "mm continuum interferometry",
+   "content": "continuum",
+   "epoch": "2023",
+   "credit": "Qian et al. 2026, Fig. 3 (left column, Band 3 image panel, crop)",
+   "paper": {
+    "first_author": "Qian",
+    "year": 2026,
+    "title": "Geometry of dust rings in protoplanetary disks: the case of LkCa 15",
+    "journal": "arXiv",
+    "arxiv": "2608.06457",
+    "bibcode": "2026arXiv260806457Q"
+   },
+   "note": "left-column image panel of Fig. 3 (fig:phiobs); archival images from Sierra et al. 2025; all convolved to a common circular 60 mas FWHM beam; evidence for a 69 au dust ring; observation date not stated in paper | epoch_flag: null: ALMA obs date not stated in paper (archival Sierra et al. 2025; Long et al. 2022); ocr_confidence: 69.6"
   }
  ],
  "notes": null,

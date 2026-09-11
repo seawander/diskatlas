@@ -1,0 +1,156 @@
+{
+ "id": "tyc-8047-232-1",
+ "name": "TYC 8047-232-1",
+ "alt_names": [],
+ "simbad": "TYC 8047-232-1",
+ "ra_deg": 28.06094,
+ "dec_deg": -52.325885,
+ "dist_pc": 86.6,
+ "sptype": "K2V(e)",
+ "region": "field",
+ "categories": [],
+ "planets": [
+  {
+   "name": "B",
+   "status": "confirmed",
+   "method": "imaging",
+   "note": "Wide brown-dwarf companion; re-analyzed here with star-hopping ADI for a close satellite.",
+   "paper": {
+    "first_author": "Lazzoni",
+    "year": 2026,
+    "title": "SaNDi-SHoP: Searching for Satellites'N'Disks with a Star-Hopping Program: I. Analysis of the close surroundings of direct imaging companions",
+    "journal": "A&A 712, A189",
+    "arxiv": "2603.24796",
+    "bibcode": "2026A&A...712A.189L"
+   }
+  },
+  {
+   "name": "Bb",
+   "status": "candidate",
+   "method": "imaging",
+   "note": "Candidate satellite around TYC 8047-232-1 B (~85 mas, 3-6 Mjup; recurrent excess at S/N 2.7-4.6 across four SPHERE epochs).",
+   "paper": {
+    "first_author": "Lazzoni",
+    "year": 2026,
+    "title": "SaNDi-SHoP: Searching for Satellites'N'Disks with a Star-Hopping Program: I. Analysis of the close surroundings of direct imaging companions",
+    "journal": "A&A 712, A189",
+    "arxiv": "2603.24796",
+    "bibcode": "2026A&A...712A.189L"
+   }
+  }
+ ],
+ "images": [
+  {
+   "image_id": "tyc-8047-232-1_sphere-irdis-mosaic2024",
+   "file": "images/tyc-8047-232-1/tyc-8047-232-1_sphere-irdis-mosaic2024.png",
+   "type": "planet",
+   "facility": "VLT",
+   "instrument": "SPHERE/IRDIS",
+   "wavelength_um": 1.593,
+   "wavelength_label": "H2 band 1.593 um; full-FOV ADI image of TYC 8047-232-1 B + residual zoom",
+   "technique": "ADI",
+   "content": "continuum",
+   "epoch": "2024-08-27",
+   "credit": "Lazzoni et al. 2026, Fig. 4 (crop)",
+   "paper": {
+    "first_author": "Lazzoni",
+    "year": 2026,
+    "title": "SaNDi-SHoP: Searching for Satellites'N'Disks with a Star-Hopping Program: I. Analysis of the close surroundings of direct imaging companions",
+    "journal": "A&A 712, A189",
+    "arxiv": "2603.24796",
+    "bibcode": "2026A&A...712A.189L"
+   },
+   "note": "Final ADI-processed image; large panel full FOV, inset 30x30 px zoom on the brown-dwarf companion and residual excess; pink Hill-radius annulus. NEW system (not in data/systems)"
+  },
+  {
+   "image_id": "tyc-8047-232-1_sphere-irdis-bb2023h2",
+   "file": "images/tyc-8047-232-1/tyc-8047-232-1_sphere-irdis-bb2023h2.png",
+   "type": "planet",
+   "facility": "VLT",
+   "instrument": "SPHERE/IRDIS",
+   "wavelength_um": 1.593,
+   "wavelength_label": "H2 band 1.593 um; TYC 8047-232-1 B residual (candidate Bb marked)",
+   "technique": "ADI",
+   "content": "continuum",
+   "epoch": "2023-10-01",
+   "credit": "Lazzoni et al. 2026, Fig. 12 (crop)",
+   "paper": {
+    "first_author": "Lazzoni",
+    "year": 2026,
+    "title": "SaNDi-SHoP: Searching for Satellites'N'Disks with a Star-Hopping Program: I. Analysis of the close surroundings of direct imaging companions",
+    "journal": "A&A 712, A189",
+    "arxiv": "2603.24796",
+    "bibcode": "2026A&A...712A.189L"
+   },
+   "note": "PSF-subtracted residual (rightmost 'Residuals' panel, Fig. 12 top-left). White circle marks recurrent excess = satellite candidate TYC 8047-232-1 Bb (~85 mas, 3-6 MJup); S/N 3.7 H2"
+  },
+  {
+   "image_id": "tyc-8047-232-1_sphere-irdis-bb2023h3",
+   "file": "images/tyc-8047-232-1/tyc-8047-232-1_sphere-irdis-bb2023h3.png",
+   "type": "planet",
+   "facility": "VLT",
+   "instrument": "SPHERE/IRDIS",
+   "wavelength_um": 1.667,
+   "wavelength_label": "H3 band 1.667 um; TYC 8047-232-1 B residual (candidate Bb marked)",
+   "technique": "ADI",
+   "content": "continuum",
+   "epoch": "2023-10-01",
+   "credit": "Lazzoni et al. 2026, Fig. 12 (crop)",
+   "paper": {
+    "first_author": "Lazzoni",
+    "year": 2026,
+    "title": "SaNDi-SHoP: Searching for Satellites'N'Disks with a Star-Hopping Program: I. Analysis of the close surroundings of direct imaging companions",
+    "journal": "A&A 712, A189",
+    "arxiv": "2603.24796",
+    "bibcode": "2026A&A...712A.189L"
+   },
+   "note": "PSF-subtracted residual (rightmost 'Residuals' panel, Fig. 12 top-right). White circle marks recurrent excess = satellite candidate TYC 8047-232-1 Bb; S/N 2.7 H3"
+  },
+  {
+   "image_id": "tyc-8047-232-1_sphere-irdis-bb2024h2",
+   "file": "images/tyc-8047-232-1/tyc-8047-232-1_sphere-irdis-bb2024h2.png",
+   "type": "planet",
+   "facility": "VLT",
+   "instrument": "SPHERE/IRDIS",
+   "wavelength_um": 1.593,
+   "wavelength_label": "H2 band 1.593 um; TYC 8047-232-1 B residual (candidate Bb marked)",
+   "technique": "ADI",
+   "content": "continuum",
+   "epoch": "2024-08-27",
+   "credit": "Lazzoni et al. 2026, Fig. 12 (crop)",
+   "paper": {
+    "first_author": "Lazzoni",
+    "year": 2026,
+    "title": "SaNDi-SHoP: Searching for Satellites'N'Disks with a Star-Hopping Program: I. Analysis of the close surroundings of direct imaging companions",
+    "journal": "A&A 712, A189",
+    "arxiv": "2603.24796",
+    "bibcode": "2026A&A...712A.189L"
+   },
+   "note": "PSF-subtracted residual (rightmost 'Residuals' panel, Fig. 12 bottom-left). White circle marks recurrent excess = satellite candidate TYC 8047-232-1 Bb; S/N 4.6 H2"
+  },
+  {
+   "image_id": "tyc-8047-232-1_sphere-irdis-bb2024h3",
+   "file": "images/tyc-8047-232-1/tyc-8047-232-1_sphere-irdis-bb2024h3.png",
+   "type": "planet",
+   "facility": "VLT",
+   "instrument": "SPHERE/IRDIS",
+   "wavelength_um": 1.667,
+   "wavelength_label": "H3 band 1.667 um; TYC 8047-232-1 B residual (candidate Bb marked)",
+   "technique": "ADI",
+   "content": "continuum",
+   "epoch": "2024-08-27",
+   "credit": "Lazzoni et al. 2026, Fig. 12 (crop)",
+   "paper": {
+    "first_author": "Lazzoni",
+    "year": 2026,
+    "title": "SaNDi-SHoP: Searching for Satellites'N'Disks with a Star-Hopping Program: I. Analysis of the close surroundings of direct imaging companions",
+    "journal": "A&A 712, A189",
+    "arxiv": "2603.24796",
+    "bibcode": "2026A&A...712A.189L"
+   },
+   "note": "PSF-subtracted residual (rightmost 'Residuals' panel, Fig. 12 bottom-right). White circle marks recurrent excess = satellite candidate TYC 8047-232-1 Bb; S/N 3.3 H3"
+  }
+ ],
+ "notes": "Young (K2V(e)) star hosting the directly imaged brown-dwarf companion TYC 8047-232-1 B; SaNDi-SHoP star-hopping ADI search for a satellite (candidate Bb). Coordinates/parallax from Gaia DR3 via SIMBAD.",
+ "last_updated": "2026-09-11"
+}

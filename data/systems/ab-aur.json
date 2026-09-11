@@ -791,6 +791,94 @@
     "arxiv": "2607.18683",
     "bibcode": "2026arXiv260718683J"
    }
+  },
+  {
+   "image_id": "ab-aur_nirc2pol-lp-totalint",
+   "file": "images/ab-aur/ab-aur_nirc2pol-lp-totalint.png",
+   "type": "disk_scattered",
+   "facility": "Keck",
+   "instrument": "NIRC2-Pol",
+   "wavelength_um": 3.8,
+   "wavelength_label": "L' band 3.8 um total intensity",
+   "technique": "imaging polarimetry (total intensity)",
+   "content": "continuum",
+   "epoch": "2025-12-07",
+   "credit": "Lewis et al. 2026, Fig. 4 (top-left total-intensity crop)",
+   "paper": {
+    "first_author": "Lewis",
+    "year": 2026,
+    "title": "NIRC2-Pol: First Light of Near-Infrared Polarimetry on Keck II",
+    "journal": "arXiv e-prints",
+    "arxiv": "2608.24661",
+    "bibcode": "2026arXiv260824661L"
+   },
+   "note": "Total intensity from the polarimetric double sums; no PSF subtraction. Saturated core masked."
+  },
+  {
+   "image_id": "ab-aur_nirc2pol-lp-pi",
+   "file": "images/ab-aur/ab-aur_nirc2pol-lp-pi.png",
+   "type": "disk_scattered",
+   "facility": "Keck",
+   "instrument": "NIRC2-Pol",
+   "wavelength_um": 3.8,
+   "wavelength_label": "L' band 3.8 um polarized intensity (Q_phi and U_phi added in quadrature)",
+   "technique": "imaging polarimetry (PDI)",
+   "content": "continuum",
+   "epoch": "2025-12-07",
+   "credit": "Lewis et al. 2026, Fig. 4 (top-right polarized-intensity crop)",
+   "paper": {
+    "first_author": "Lewis",
+    "year": 2026,
+    "title": "NIRC2-Pol: First Light of Near-Infrared Polarimetry on Keck II",
+    "journal": "arXiv e-prints",
+    "arxiv": "2608.24661",
+    "bibcode": "2026arXiv260824661L"
+   },
+   "note": "Polarized intensity; N/E compass and 50 AU scale bar retained in crop."
+  },
+  {
+   "image_id": "ab-aur_nirc2pol-lp-qphi",
+   "file": "images/ab-aur/ab-aur_nirc2pol-lp-qphi.png",
+   "type": "disk_scattered",
+   "facility": "Keck",
+   "instrument": "NIRC2-Pol",
+   "wavelength_um": 3.8,
+   "wavelength_label": "L' band 3.8 um Stokes Q_phi",
+   "technique": "imaging polarimetry (PDI)",
+   "content": "continuum",
+   "epoch": "2025-12-07",
+   "credit": "Lewis et al. 2026, Fig. 5 (left Q_phi crop)",
+   "paper": {
+    "first_author": "Lewis",
+    "year": 2026,
+    "title": "NIRC2-Pol: First Light of Near-Infrared Polarimetry on Keck II",
+    "journal": "arXiv e-prints",
+    "arxiv": "2608.24661",
+    "bibcode": "2026arXiv260824661L"
+   },
+   "note": "Spiral arms S1 and S2 annotated; circle marks the candidate protoplanet position from Currie et al. 2025."
+  },
+  {
+   "image_id": "ab-aur_nirc2pol-lp-adi",
+   "file": "images/ab-aur/ab-aur_nirc2pol-lp-adi.png",
+   "type": "disk_scattered",
+   "facility": "Keck",
+   "instrument": "NIRC2-Pol",
+   "wavelength_um": 3.8,
+   "wavelength_label": "L' band 3.8 um total-intensity ADI reduction",
+   "technique": "angular differential imaging (ADI)",
+   "content": "continuum",
+   "epoch": "2025-12-07",
+   "credit": "Lewis et al. 2026, Fig. 5 (middle ADI crop)",
+   "paper": {
+    "first_author": "Lewis",
+    "year": 2026,
+    "title": "NIRC2-Pol: First Light of Near-Infrared Polarimetry on Keck II",
+    "journal": "arXiv e-prints",
+    "arxiv": "2608.24661",
+    "bibcode": "2026arXiv260824661L"
+   },
+   "note": "Total intensity processed with PCA ADI (5 components); middle panel of Fig. 5. Right-hand LBT comparison panel excluded."
   }
  ],
  "notes": null,

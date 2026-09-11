@@ -8735,5 +8735,119 @@
   "epoch": "2011",
   "source": "archive:MAST",
   "snippet": "corrected from '2012': GO-12228 visits 2011-03-31 + 2011-06-04; no 2012 visit exists (6-roll combine of the 2011 data)"
+ },
+ "hd-163296_alma-b9-doi26": {
+  "epoch": "2024",
+  "source": "alma:alma-code",
+  "arxiv": "2607.22169",
+  "snippet": "proposals ['2023.1.00578.S']"
+ },
+ "hd-163296_alma-b7-doi26": {
+  "epoch": "2016-2017",
+  "source": "alma:alma-code",
+  "arxiv": "2607.22169",
+  "snippet": "proposals ['2015.1.00616.S', '2016.1.01086.S']"
+ },
+ "hd-163296_alma-b6-doi26": {
+  "epoch": "2014-2017",
+  "source": "alma:alma-code",
+  "arxiv": "2607.22169",
+  "snippet": "proposals ['2013.1.00366.S', '2013.1.00601.S']"
+ },
+ "hd-163296_alma-b4-doi26": {
+  "epoch": "2017-2018",
+  "source": "alma:alma-code",
+  "arxiv": "2607.22169",
+  "snippet": "proposals ['2017.1.01682.S']"
+ },
+ "hd-163296_alma-b3-doi26": {
+  "epoch": "2016-2018",
+  "source": "alma:alma-code",
+  "arxiv": "2607.22169",
+  "snippet": "proposals ['2015.1.00725.S', '2016.1.01086.S']"
+ },
+ "l1527-irs_13co21-vth26": {
+  "epoch": "2014-2024",
+  "source": "alma:alma-code",
+  "arxiv": "2608.09627",
+  "snippet": "proposals ['2012.1.00193.S', '2012.1.00647.S']"
+ },
+ "l1527-irs_c17o21-vth26": {
+  "epoch": "2014-2024",
+  "source": "alma:alma-code",
+  "arxiv": "2608.09627",
+  "snippet": "proposals ['2012.1.00193.S', '2012.1.00647.S']"
+ },
+ "l1527-irs_hcop43-vth26": {
+  "epoch": "2014-2025",
+  "source": "alma:alma-code",
+  "arxiv": "2608.09627",
+  "snippet": "proposals ['2012.1.00346.S', '2013.1.00858.S']"
+ },
+ "l1527-irs_hcn43-vth26": {
+  "epoch": "2014-2025",
+  "source": "alma:alma-code",
+  "arxiv": "2608.09627",
+  "snippet": "proposals ['2012.1.00346.S', '2013.1.00858.S']"
+ },
+ "l1527-irs_so76-vth26": {
+  "epoch": "2014-2024",
+  "source": "alma:alma-code",
+  "arxiv": "2608.09627",
+  "snippet": "proposals ['2012.1.00193.S', '2012.1.00647.S']"
+ },
+ "l1527-irs_so2-vth26": {
+  "epoch": "2014-2024",
+  "source": "alma:alma-code",
+  "arxiv": "2608.09627",
+  "snippet": "proposals ['2012.1.00193.S', '2012.1.00647.S']"
+ },
+ "l1527-irs_34so56-vth26": {
+  "epoch": "2014-2024",
+  "source": "alma:alma-code",
+  "arxiv": "2608.09627",
+  "snippet": "proposals ['2012.1.00193.S', '2012.1.00647.S']"
+ },
+ "l1527-irs_ch3oh-vth26": {
+  "epoch": "2014-2025",
+  "source": "alma:alma-code",
+  "arxiv": "2608.09627",
+  "snippet": "proposals ['2012.1.00346.S', '2013.1.00858.S']"
+ },
+ "l1527-irs_hdco-vth26": {
+  "epoch": "2014-2024",
+  "source": "alma:alma-code",
+  "arxiv": "2608.09627",
+  "snippet": "proposals ['2012.1.00193.S', '2012.1.00647.S']"
+ },
+ "l1527-irs_c18o21-vth26": {
+  "epoch": "2014-2024",
+  "source": "alma:alma-code",
+  "arxiv": "2608.09627",
+  "snippet": "proposals ['2012.1.00193.S', '2012.1.00647.S']"
+ },
+ "l1527-irs_h13cop32-vth26": {
+  "epoch": "2014-2024",
+  "source": "alma:alma-code",
+  "arxiv": "2608.09627",
+  "snippet": "proposals ['2012.1.00193.S', '2012.1.00647.S']"
+ },
+ "l1527-irs_dcop32-vth26": {
+  "epoch": "2014-2024",
+  "source": "alma:alma-code",
+  "arxiv": "2608.09627",
+  "snippet": "proposals ['2012.1.00193.S', '2012.1.00647.S']"
+ },
+ "l1527-irs_h2co303-vth26": {
+  "epoch": "2014-2024",
+  "source": "alma:alma-code",
+  "arxiv": "2608.09627",
+  "snippet": "proposals ['2012.1.00193.S', '2012.1.00647.S']"
+ },
+ "lkca-15_qian26-band3": {
+  "epoch": "2023",
+  "source": "alma:alma-cone1",
+  "arxiv": "2608.06457",
+  "snippet": "proposals ['2022.1.01216.S']"
  }
 }

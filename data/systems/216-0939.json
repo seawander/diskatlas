@@ -128,6 +128,28 @@
    },
    "file": "images/216-0939/216-0939_c18o21-mom0.png",
    "epoch": "2018-08"
+  },
+  {
+   "image_id": "216-0939_hst-halpha-martin26",
+   "file": "images/216-0939/216-0939_hst-halpha-martin26.png",
+   "type": "disk_scattered",
+   "facility": "HST",
+   "instrument": "ACS/HRC (F658N)",
+   "wavelength_um": 0.658,
+   "wavelength_label": "H-alpha F658N; edge-on silhouette disk (re-display of Smith et al. 2005)",
+   "technique": "direct imaging (silhouette)",
+   "content": "line",
+   "epoch": "2002",
+   "credit": "Martin et al. 2026, Fig. 3 left (crop); HST image from Smith et al. 2005",
+   "paper": {
+    "first_author": "Martin",
+    "year": 2026,
+    "title": "Spatial distribution of water ice in the protoplanetary silhouette disk d216-0939",
+    "journal": "arXiv e-prints",
+    "arxiv": "2608.04803",
+    "bibcode": "2026arXiv260804803M"
+   },
+   "note": "Re-display of the archival HST/ACS F658N H-alpha silhouette observation (Smith et al. 2005, epoch 2002) used here for MCRT model comparison."
   }
  ],
  "notes": "One of the largest silhouette/edge-on disks in the Orion Nebula, ~10 arcmin N of the Trapezium (outside the Ricci 2008 ACS Treasury field). HST 3-color shows a bipolar reflection nebula bisected by the edge-on disk lane (Smith et al. 2005); ALMA Band 6 resolves an inclined dust ring with a central cavity (Díaz-Berríos et al. 2024). Distance = ONC (~414 pc). Added 2026-07-11.",

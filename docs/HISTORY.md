@@ -1068,3 +1068,43 @@ each (parallel), then merged and gated together. +31 records / +1 system.
 All records VIEW-verified; peak-intensity/model/residual/channel-map/profile panels
 excluded per scope. `audit_bibcodes --fix --fill` found nothing to change.
 Atlas: 775 systems / 3923 image records / 818 papers, 0 errors / 0 warnings.
+
+## 2026-09-11 (3) — Weekly maintenance: deferred-queue closed
+
+Finished the weekly-maintenance residue from the 2026-09-03 `fresh_papers` digest:
+the 13 hits still marked `deferred` in `paper_finder_state.json` were figure-reviewed
+(sources already extracted from the interrupted batch). Nine ingested, four excluded.
++59 image records, +1 system. Every crop VIEW-verified by the orchestrator against
+the source figures (Lazzoni ADI mosaics carry on-panel target labels; L1527/HD 163296/
+HV Tau C band and filter labels confirmed; AB Aur NIRC2-Pol Qphi shows the S1/S2 spirals).
+
+- **Hodapp et al. 2026** (2602.12060, ApJ 1008, 64) B335 outflow: NIRCam RGB + F356W
+  cutout, Spitzer/IRAC ch2 2004-vs-2016 difference (epoch `2004-2016`), NIRSpec H2 map (+4).
+- **Lazzoni et al. 2026** (2603.24796, A&A 712, A189) SaNDi-SHoP I: SPHERE/IRDIS ADI
+  images of CT Cha, DH Tau, GQ Lup and TYC 8047-232-1 (multi-epoch; CT Cha b
+  circum-companion disk) (+13; **new system `tyc-8047-232-1`**, Gaia DR3 coords/plx,
+  companion B + candidate satellite Bb in `planets[]`).
+- **van 't Hoff et al. 2026** (2608.09627) L1527 IRS chemical inventory: 13 disk-scale
+  molecule peak-intensity maps (13CO/C17O/C18O/HCO+/H13CO+/DCO+/HCN/SO/SO2/34SO/CH3OH/
+  H2CO/HDCO) + JWST/NIRCam 4.4 um (+14). Epochs are combined ALMA-program ranges
+  (`YYYY-YYYY`) recovered from the paper's 40-project compilation.
+- **Qian et al. 2026** (2608.06457) LkCa 15: ALMA Band 7/6/3 continuum of the 69 au ring (+3).
+- **Yamaguchi et al. 2026** (2605.11486, ApJ 1006, 232) V1094 Sco: Band 6 continuum
+  (PRIISM + restored CLEAN), 12CO/13CO moment-0, SPHERE H Qphi re-display (+5).
+- **Pathak et al. 2026** (2607.25770) HV Tau C: ALMA 887 um continuum, NIRCam
+  F115W/F200W/F300M/F460M + MIRI F770W, MIRI H2 S(1)/S(3)/S(7) line maps (+9).
+- **Doi et al. 2026** (2607.22169) HD 163296: Bands 9/7/6/4/3 continuum + SPHERE Ks
+  Qphi re-display (+6; ALMA epochs via archive codes).
+- **Lewis et al. 2026** (2608.24661) NIRC2-Pol first light: AB Aur Lp total intensity,
+  polarized intensity, Qphi (S1/S2), ADI reduction (+4).
+- **Martin et al. 2026** (2608.04803) d216-0939: HST/ACS F658N H-alpha silhouette
+  re-display (Smith et al. 2005, epoch 2002) used for MCRT model comparison (+1;
+  kept per the cross-paper-redundancy rule).
+
+Excluded: **Ching 2026** (2604.12597) IRAS 4A CO J=2-1 polarization is presented only as a
+4-panel velocity-channel grid (channel-map grids out of scope); **Gresko 2026** (2608.10094)
+SMA HNC — spectra/teardrop/rotational diagrams, no map; **Mosqueira 2026** (2608.10409)
+PDS 70c/SR 12c theory/model paper; **Qi 2026** (2608.30140) HD 163296 beam-averaged CO
+column-density inversion + radial profiles only. `audit_bibcodes --fix --fill` changed
+nothing (one pre-existing ARXIV_UNRESOLVED: 2606.08607).
+Atlas: 776 systems / 3982 image records / 827 papers, 0 errors / 0 warnings.

@@ -355,6 +355,28 @@
    },
    "epoch": "2023-2025",
    "content": "line"
+  },
+  {
+   "image_id": "gq-lup_sphere-irdis-mosaic2025",
+   "file": "images/gq-lup/gq-lup_sphere-irdis-mosaic2025.png",
+   "type": "planet",
+   "facility": "VLT",
+   "instrument": "SPHERE/IRDIS",
+   "wavelength_um": 1.593,
+   "wavelength_label": "H2 band 1.593 um; full-FOV ADI image of GQ Lup B + residual zoom",
+   "technique": "ADI",
+   "content": "continuum",
+   "epoch": "2025-04-13",
+   "credit": "Lazzoni et al. 2026, Fig. 4 (crop)",
+   "paper": {
+    "first_author": "Lazzoni",
+    "year": 2026,
+    "title": "SaNDi-SHoP: Searching for Satellites'N'Disks with a Star-Hopping Program: I. Analysis of the close surroundings of direct imaging companions",
+    "journal": "A&A 712, A189",
+    "arxiv": "2603.24796",
+    "bibcode": "2026A&A...712A.189L"
+   },
+   "note": "Final ADI-processed image; large panel full FOV, inset 30x30 px zoom on subtracted companion and residuals; two bkg sources marked green"
   }
  ],
  "notes": null,

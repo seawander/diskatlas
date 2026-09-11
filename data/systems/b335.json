@@ -61,8 +61,96 @@
    "file": "images/b335/b335_13co21-mom0.png",
    "epoch": "2017-10-21",
    "content": "line"
+  },
+  {
+   "image_id": "b335_nircam-rgb",
+   "file": "images/b335/b335_nircam-rgb.png",
+   "type": "disk_scattered",
+   "facility": "JWST",
+   "instrument": "NIRCam",
+   "wavelength_um": 2.0,
+   "wavelength_label": "F277W+F150W+F090W RGB composite (0.90/1.50/2.77 um)",
+   "technique": "narrow/medium-band imaging",
+   "content": "continuum",
+   "epoch": "2023-04-25",
+   "credit": "Hodapp et al. 2026, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Hodapp",
+    "year": 2026,
+    "title": "The Outflow of the B335 Protostar. II. After the Outburst",
+    "journal": "ApJ 1008, 64",
+    "arxiv": "2602.12060",
+    "bibcode": "2026ApJ..1008...64H"
+   },
+   "note": "outflow cavity scattered light (coreshine + central bipolar reflection nebula)"
+  },
+  {
+   "image_id": "b335_nircam-f356w",
+   "file": "images/b335/b335_nircam-f356w.png",
+   "type": "disk_scattered",
+   "facility": "JWST",
+   "instrument": "NIRCam",
+   "wavelength_um": 3.56,
+   "wavelength_label": "F356W (3.56 um) with A_V extinction contours",
+   "technique": "narrow/medium-band imaging",
+   "content": "continuum",
+   "epoch": "2023-04-25",
+   "credit": "Hodapp et al. 2026, Fig. 3 (crop)",
+   "paper": {
+    "first_author": "Hodapp",
+    "year": 2026,
+    "title": "The Outflow of the B335 Protostar. II. After the Outburst",
+    "journal": "ApJ 1008, 64",
+    "arxiv": "2602.12060",
+    "bibcode": "2026ApJ..1008...64H"
+   },
+   "note": "top-left panel of Fig. 3; F356W image cutout with smoothed (sigma=15 px) extinction/column-density contours"
+  },
+  {
+   "image_id": "b335_spitzer-ch2-diff",
+   "file": "images/b335/b335_spitzer-ch2-diff.png",
+   "type": "disk_scattered",
+   "facility": "Spitzer",
+   "instrument": "IRAC",
+   "wavelength_um": 4.5,
+   "wavelength_label": "IRAC channel 2 (4.5 um)",
+   "technique": "difference imaging",
+   "content": "continuum",
+   "epoch": "2004-2016",
+   "credit": "Hodapp et al. 2026, Fig. 5 (crop)",
+   "paper": {
+    "first_author": "Hodapp",
+    "year": 2026,
+    "title": "The Outflow of the B335 Protostar. II. After the Outburst",
+    "journal": "ApJ 1008, 64",
+    "arxiv": "2602.12060",
+    "bibcode": "2026ApJ..1008...64H"
+   },
+   "note": "difference image 2004 vs 2016 (black=2004, white=2016); moving shock fronts of the B335 outflow"
+  },
+  {
+   "image_id": "b335_nirspec-h2",
+   "file": "images/b335/b335_nirspec-h2.png",
+   "type": "disk_scattered",
+   "facility": "JWST",
+   "instrument": "NIRSpec",
+   "wavelength_um": 5.053,
+   "wavelength_label": "H2 emission map",
+   "technique": "integral field spectroscopy",
+   "content": "line",
+   "epoch": "2022-09-16",
+   "credit": "Hodapp et al. 2026, Fig. 16 (crop)",
+   "paper": {
+    "first_author": "Hodapp",
+    "year": 2026,
+    "title": "The Outflow of the B335 Protostar. II. After the Outburst",
+    "journal": "ApJ 1008, 64",
+    "arxiv": "2602.12060",
+    "bibcode": "2026ApJ..1008...64H"
+   },
+   "note": "top-left panel of Fig. 16; flux image of shock-excited H2 emission corrected for CO gas emission; H2 (0,0) S(8) 5.053 um line"
   }
  ],
  "notes": "Class 0 embedded protostar (eDisk)",
- "last_updated": "2026-07-14"
+ "last_updated": "2026-09-11"
 }

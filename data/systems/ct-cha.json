@@ -252,10 +252,76 @@
    },
    "epoch": "2009",
    "content": "line"
+  },
+  {
+   "image_id": "ct-cha_sphere-irdis-mosaic2025",
+   "file": "images/ct-cha/ct-cha_sphere-irdis-mosaic2025.png",
+   "type": "planet",
+   "facility": "VLT",
+   "instrument": "SPHERE/IRDIS",
+   "wavelength_um": 1.593,
+   "wavelength_label": "H2 band 1.593 um; full-FOV ADI image of CT Cha b + residual zoom",
+   "technique": "ADI",
+   "content": "continuum",
+   "epoch": "2025-01-26",
+   "credit": "Lazzoni et al. 2026, Fig. 4 (crop)",
+   "paper": {
+    "first_author": "Lazzoni",
+    "year": 2026,
+    "title": "SaNDi-SHoP: Searching for Satellites'N'Disks with a Star-Hopping Program: I. Analysis of the close surroundings of direct imaging companions",
+    "journal": "A&A 712, A189",
+    "arxiv": "2603.24796",
+    "bibcode": "2026A&A...712A.189L"
+   },
+   "note": "Final ADI-processed image; large panel full FOV, inset 30x30 px zoom on subtracted companion and residuals; bkg source marked green; pink Hill-radius annulus"
+  },
+  {
+   "image_id": "ct-cha_sphere-irdis-cpd2025",
+   "file": "images/ct-cha/ct-cha_sphere-irdis-cpd2025.png",
+   "type": "planet",
+   "facility": "VLT",
+   "instrument": "SPHERE/IRDIS",
+   "wavelength_um": 1.593,
+   "wavelength_label": "H2 band 1.593 um; CT Cha b + circum-companion disk (first-iteration residual)",
+   "technique": "ADI",
+   "content": "continuum",
+   "epoch": "2025-01-26",
+   "credit": "Lazzoni et al. 2026, Fig. 9 (crop)",
+   "paper": {
+    "first_author": "Lazzoni",
+    "year": 2026,
+    "title": "SaNDi-SHoP: Searching for Satellites'N'Disks with a Star-Hopping Program: I. Analysis of the close surroundings of direct imaging companions",
+    "journal": "A&A 712, A189",
+    "arxiv": "2603.24796",
+    "bibcode": "2026A&A...712A.189L"
+   },
+   "note": "circum-companion disk: extended scattered-light/continuum excess around CT Cha b after subtracting the companion PSF (first-iteration residual). Left 'Scientific Image' sub-panel of Fig. 9 top row; modeled disk a=15.4 au, i=41 deg"
+  },
+  {
+   "image_id": "ct-cha_sphere-irdis-cpd2017",
+   "file": "images/ct-cha/ct-cha_sphere-irdis-cpd2017.png",
+   "type": "planet",
+   "facility": "VLT",
+   "instrument": "SPHERE/IRDIS",
+   "wavelength_um": 1.593,
+   "wavelength_label": "H2 band 1.593 um; CT Cha b + circum-companion disk (archival first-iteration residual)",
+   "technique": "ADI",
+   "content": "continuum",
+   "epoch": "2017-03-19",
+   "credit": "Lazzoni et al. 2026, Fig. 9 (crop)",
+   "paper": {
+    "first_author": "Lazzoni",
+    "year": 2026,
+    "title": "SaNDi-SHoP: Searching for Satellites'N'Disks with a Star-Hopping Program: I. Analysis of the close surroundings of direct imaging companions",
+    "journal": "A&A 712, A189",
+    "arxiv": "2603.24796",
+    "bibcode": "2026A&A...712A.189L"
+   },
+   "note": "circum-companion disk: archival 2017 epoch first-iteration residual after CT Cha b PSF subtraction, showing extended excess oriented similarly to the 2025 epoch. Left 'Scientific Image' sub-panel of Fig. 9 bottom row"
   }
  ],
  "notes": null,
- "last_updated": "2026-07-07",
+ "last_updated": "2026-09-11",
  "plx_mas": 5.2645,
  "mags": {
   "B": 13.44,

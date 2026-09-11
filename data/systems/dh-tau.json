@@ -138,10 +138,98 @@
    },
    "epoch": "2012-01-22",
    "content": "line"
+  },
+  {
+   "image_id": "dh-tau_sphere-irdis-mosaic2024",
+   "file": "images/dh-tau/dh-tau_sphere-irdis-mosaic2024.png",
+   "type": "planet",
+   "facility": "VLT",
+   "instrument": "SPHERE/IRDIS",
+   "wavelength_um": 1.593,
+   "wavelength_label": "H2 band 1.593 um; full-FOV ADI image of DH Tau b + residual zoom",
+   "technique": "ADI",
+   "content": "continuum",
+   "epoch": "2024-10-06",
+   "credit": "Lazzoni et al. 2026, Fig. 4 (crop)",
+   "paper": {
+    "first_author": "Lazzoni",
+    "year": 2026,
+    "title": "SaNDi-SHoP: Searching for Satellites'N'Disks with a Star-Hopping Program: I. Analysis of the close surroundings of direct imaging companions",
+    "journal": "A&A 712, A189",
+    "arxiv": "2603.24796",
+    "bibcode": "2026A&A...712A.189L"
+   },
+   "note": "Final ADI-processed image; large panel full FOV, inset 30x30 px zoom; bkg source marked green; pink Hill-radius annulus. Mosaic epoch not stated in Fig. 4 caption; assigned first survey epoch 2024-10-06 (inset shows no candidate circle, consistent with the 2024 non-detection)"
+  },
+  {
+   "image_id": "dh-tau_sphere-irdis-res2018",
+   "file": "images/dh-tau/dh-tau_sphere-irdis-res2018.png",
+   "type": "planet",
+   "facility": "VLT",
+   "instrument": "SPHERE/IRDIS",
+   "wavelength_um": 1.593,
+   "wavelength_label": "H2 band 1.593 um; DH Tau b residual (candidate DH Tau bb marked)",
+   "technique": "ADI",
+   "content": "continuum",
+   "epoch": "2018-12-16",
+   "credit": "Lazzoni et al. 2026, Fig. 10 (crop)",
+   "paper": {
+    "first_author": "Lazzoni",
+    "year": 2026,
+    "title": "SaNDi-SHoP: Searching for Satellites'N'Disks with a Star-Hopping Program: I. Analysis of the close surroundings of direct imaging companions",
+    "journal": "A&A 712, A189",
+    "arxiv": "2603.24796",
+    "bibcode": "2026A&A...712A.189L"
+   },
+   "note": "PSF-subtracted residual (rightmost 'Residuals' panel of Fig. 10 top row). White circle marks the marginal point-like satellite candidate DH Tau bb (contrast 3.22e-5 H2)"
+  },
+  {
+   "image_id": "dh-tau_sphere-irdis-res2024",
+   "file": "images/dh-tau/dh-tau_sphere-irdis-res2024.png",
+   "type": "planet",
+   "facility": "VLT",
+   "instrument": "SPHERE/IRDIS",
+   "wavelength_um": 1.593,
+   "wavelength_label": "H2 band 1.593 um; DH Tau b residual (no candidate detected)",
+   "technique": "ADI",
+   "content": "continuum",
+   "epoch": "2024-10-06",
+   "credit": "Lazzoni et al. 2026, Fig. 10 (crop)",
+   "paper": {
+    "first_author": "Lazzoni",
+    "year": 2026,
+    "title": "SaNDi-SHoP: Searching for Satellites'N'Disks with a Star-Hopping Program: I. Analysis of the close surroundings of direct imaging companions",
+    "journal": "A&A 712, A189",
+    "arxiv": "2603.24796",
+    "bibcode": "2026A&A...712A.189L"
+   },
+   "note": "PSF-subtracted residual (rightmost 'Residuals' panel of Fig. 10 middle row); no clear excess/candidate detected in this epoch"
+  },
+  {
+   "image_id": "dh-tau_sphere-irdis-res2025",
+   "file": "images/dh-tau/dh-tau_sphere-irdis-res2025.png",
+   "type": "planet",
+   "facility": "VLT",
+   "instrument": "SPHERE/IRDIS",
+   "wavelength_um": 1.593,
+   "wavelength_label": "H2 band 1.593 um; DH Tau b residual (candidate DH Tau bb marked)",
+   "technique": "ADI",
+   "content": "continuum",
+   "epoch": "2025-01-02",
+   "credit": "Lazzoni et al. 2026, Fig. 10 (crop)",
+   "paper": {
+    "first_author": "Lazzoni",
+    "year": 2026,
+    "title": "SaNDi-SHoP: Searching for Satellites'N'Disks with a Star-Hopping Program: I. Analysis of the close surroundings of direct imaging companions",
+    "journal": "A&A 712, A189",
+    "arxiv": "2603.24796",
+    "bibcode": "2026A&A...712A.189L"
+   },
+   "note": "PSF-subtracted residual (rightmost 'Residuals' panel of Fig. 10 bottom row). White circle marks the marginal satellite candidate DH Tau bb (~1 MJup; S/N 2.3 H2)"
   }
  ],
  "notes": null,
- "last_updated": "2026-07-07",
+ "last_updated": "2026-09-11",
  "plx_mas": 7.4936,
  "mags": {
   "U": 15.14,

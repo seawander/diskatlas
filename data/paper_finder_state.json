@@ -60228,74 +60228,74 @@
   "title": "IRAM 04191 kinematics"
  },
  "2608.30140": {
-  "status": "deferred",
-  "reason": "HD 163296 CO snowline - possibly spatially resolved ALMA map.",
+  "status": "excluded",
+  "reason": "Beam-averaged CO column-density inversion and radial profiles only; no observed 13C18O moment-0 sky-image map.",
   "date": "2026-09-11",
   "title": "HD 163296 CO snowline"
  },
  "2603.24796": {
-  "status": "deferred",
-  "reason": "SaNDi-SHoP I direct-imaging companions - possible companion panels.",
+  "status": "ingested",
+  "reason": "Ingested 2026-09-11 (deferred-queue pickup): VLT/SPHERE/IRDIS ADI companion images for CT Cha, DH Tau, GQ Lup, TYC 8047-232-1 (+13; new system tyc-8047-232-1).",
   "date": "2026-09-11",
   "title": "SaNDi-SHoP I direct-imaging companions"
  },
  "2602.12060": {
-  "status": "deferred",
-  "reason": "B335 outflow II - possible imaging panels.",
+  "status": "ingested",
+  "reason": "Ingested 2026-09-11 (deferred-queue pickup): JWST/NIRCam B335 outflow RGB+F356W, Spitzer IRAC ch2 difference, NIRSpec H2 map (+4).",
   "date": "2026-09-11",
   "title": "B335 outflow II"
  },
  "2604.12597": {
-  "status": "deferred",
-  "reason": "Protostellar outflow toroidal magnetic fields - possible polarization maps.",
+  "status": "excluded",
+  "reason": "Polarization maps only presented as a 4-panel CO J=2-1 velocity-channel grid; channel-map grids are out of scope.",
   "date": "2026-09-11",
   "title": "Protostellar outflow toroidal magnetic fields"
  },
  "2608.10094": {
-  "status": "deferred",
-  "reason": "SMA HNC transition disks - possible moment maps.",
+  "status": "excluded",
+  "reason": "SMA HNC chemistry: spectra, teardrop/PV-like plots and rotational diagrams only, no moment-0/moment-1 sky-image map.",
   "date": "2026-09-11",
   "title": "SMA HNC transition disks"
  },
  "2608.10409": {
-  "status": "deferred",
-  "reason": "PDS 70 c / SR 12 c constraints - possible panels.",
+  "status": "excluded",
+  "reason": "Theory/model paper (radial architecture, SED, temperature and Hill-radius scalings); no observed sky-image panel.",
   "date": "2026-09-11",
   "title": "PDS 70 c / SR 12 c constraints"
  },
  "2608.09627": {
-  "status": "deferred",
-  "reason": "L1527 IRS chemical inventory - possible moment maps.",
+  "status": "ingested",
+  "reason": "Ingested 2026-09-11 (deferred-queue pickup): ALMA disk-scale molecule peak-intensity maps (13CO, C17O, C18O, HCO+, H13CO+, DCO+, HCN, SO, SO2, 34SO, CH3OH, H2CO, HDCO) + JWST NIRCam 4.4um (+14).",
   "date": "2026-09-11",
   "title": "L1527 IRS chemical inventory"
  },
  "2608.06457": {
-  "status": "deferred",
-  "reason": "LkCa 15 dust ring geometry - possible imaging.",
+  "status": "ingested",
+  "reason": "Ingested 2026-09-11 (deferred-queue pickup): ALMA Band 7/6/3 continuum images of the LkCa 15 69 au ring (+3).",
   "date": "2026-09-11",
   "title": "LkCa 15 dust ring geometry"
  },
  "2608.04803": {
-  "status": "deferred",
-  "reason": "d216-0939 water-ice silhouette - possible imaging.",
+  "status": "ingested",
+  "reason": "Ingested 2026-09-11 (deferred-queue pickup): HST/ACS F658N H-alpha silhouette re-display (Smith et al. 2005) used for MCRT model comparison (+1).",
   "date": "2026-09-11",
   "title": "d216-0939 water-ice silhouette"
  },
  "2605.11486": {
-  "status": "deferred",
-  "reason": "V1094 Sco ring-gap hybrid origin - possible imaging.",
+  "status": "ingested",
+  "reason": "Ingested 2026-09-11 (deferred-queue pickup): ALMA Band 6 continuum (PRIISM + restored CLEAN), 12CO/13CO moment-0, VLT/SPHERE H Qphi re-display (+5).",
   "date": "2026-09-11",
   "title": "V1094 Sco ring-gap hybrid origin"
  },
  "2607.25770": {
-  "status": "deferred",
-  "reason": "HV Tau C MIRI H2 (dedicated Pathak paper) - possible panels; survey version already ingested via 2607.21733.",
+  "status": "ingested",
+  "reason": "Ingested 2026-09-11 (deferred-queue pickup): ALMA 887um continuum, JWST NIRCam F115W/F200W/F300M/F460M + MIRI F770W, MIRI H2 S(1)/S(3)/S(7) line maps (+9).",
   "date": "2026-09-11",
   "title": "HV Tau C MIRI H2 (dedicated Pathak paper)"
  },
  "2607.22169": {
-  "status": "deferred",
-  "reason": "HD 163296 multi-wavelength ALMA - possible continuum maps.",
+  "status": "ingested",
+  "reason": "Ingested 2026-09-11 (deferred-queue pickup): ALMA Bands 9/7/6/4/3 continuum + VLT/SPHERE Ks Qphi re-display (+6).",
   "date": "2026-09-11",
   "title": "HD 163296 multi-wavelength ALMA"
  },
@@ -60306,8 +60306,8 @@
   "title": "Jiang 2026 AB Aur NOEMA molecular maps"
  },
  "2608.24661": {
-  "status": "deferred",
-  "reason": "NIRC2-Pol first light - possible polarimetry panels.",
+  "status": "ingested",
+  "reason": "Ingested 2026-09-11 (deferred-queue pickup): Keck/NIRC2-Pol Lp total intensity + polarized intensity + Qphi + ADI of AB Aur (+4).",
   "date": "2026-09-11",
   "title": "NIRC2-Pol first light"
  },
