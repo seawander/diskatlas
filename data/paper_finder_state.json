@@ -60034,5 +60034,281 @@
   "status": "excluded",
   "reason": "Bernardi SaNDi-SHoP II: spectrophotometry/orbits of imaged companions - figures are CMD/spectra/corner/contrast only, no image panels (companion images live in Paper I; follow up whether SaNDi-SHoP I is dispositioned).",
   "date": "2026-07-21"
+ },
+ "2608.27437": {
+  "status": "ingested",
+  "reason": "Ingested 2026-09-11 during interrupted-batch pickup.",
+  "date": "2026-09-11",
+  "title": "Gáspár 2026 JWST/NIRCam GTO 2780 debris galleries (HD 10647/32297/61005/107146/181327)"
+ },
+ "2607.23992": {
+  "status": "ingested",
+  "reason": "Ingested 2026-09-11 during interrupted-batch pickup.",
+  "date": "2026-09-11",
+  "title": "Lin 2026 JWST/NIRCam TW Hya HPFRDI"
+ },
+ "2607.22426": {
+  "status": "ingested",
+  "reason": "Ingested 2026-09-11 during interrupted-batch pickup.",
+  "date": "2026-09-11",
+  "title": "Crotts 2026 JWST/NIRCam TWA 10 / TWA 25 debris"
+ },
+ "2607.12005": {
+  "status": "ingested",
+  "reason": "Ingested 2026-09-11 during interrupted-batch pickup.",
+  "date": "2026-09-11",
+  "title": "Yamato 2026 ALMA Band 1 CH3OH V883 Ori"
+ },
+ "2608.02410": {
+  "status": "ingested",
+  "reason": "Ingested 2026-09-11 during interrupted-batch pickup.",
+  "date": "2026-09-11",
+  "title": "Aymard Badolo 2026 SPHERE/ZIMPOL AGB polarimetry catalogue"
+ },
+ "2607.21733": {
+  "status": "ingested",
+  "reason": "Ingested 2026-09-11 during interrupted-batch pickup.",
+  "date": "2026-09-11",
+  "title": "Bajaj 2026 JWST/MIRI disk-wind survey (72 disks)"
+ },
+ "2608.29254": {
+  "status": "excluded",
+  "reason": "chemistry, no imaging panels.",
+  "date": "2026-09-11",
+  "title": "P chemistry in discs"
+ },
+ "2607.27186": {
+  "status": "excluded",
+  "reason": "no imaging panel.",
+  "date": "2026-09-11",
+  "title": "AU Mic planet/debris model"
+ },
+ "2606.21529": {
+  "status": "excluded",
+  "reason": "Out of scope for the image atlas.",
+  "date": "2026-09-11",
+  "title": "H2O ice optical constants radiative-transfer models."
+ },
+ "2501.01387": {
+  "status": "excluded",
+  "reason": "Out of scope for the image atlas.",
+  "date": "2026-09-11",
+  "title": "HD 181327 planet-triggered asymmetry model."
+ },
+ "2608.23208": {
+  "status": "excluded",
+  "reason": "spectroscopy.",
+  "date": "2026-09-11",
+  "title": "PDS 70 sublimating exocomets"
+ },
+ "2512.13814": {
+  "status": "excluded",
+  "reason": "channel maps (out of scope).",
+  "date": "2026-09-11",
+  "title": "HD 100546 multiline gas kinematics"
+ },
+ "2607.12618": {
+  "status": "excluded",
+  "reason": "model.",
+  "date": "2026-09-11",
+  "title": "HD 169142 auto-diff GP retrieval"
+ },
+ "2608.19364": {
+  "status": "excluded",
+  "reason": "visibility fits.",
+  "date": "2026-09-11",
+  "title": "eDisk XXIV visibility analysis"
+ },
+ "2608.17008": {
+  "status": "excluded",
+  "reason": "not disk targets.",
+  "date": "2026-09-11",
+  "title": "SCExAO/CHARIS Roman PSF reference stars"
+ },
+ "2608.17133": {
+  "status": "excluded",
+  "reason": "no source panels.",
+  "date": "2026-09-11",
+  "title": "Roman Coronagraph polarimetric-mode planning"
+ },
+ "2608.15912": {
+  "status": "excluded",
+  "reason": "Out of scope for the image atlas.",
+  "date": "2026-09-11",
+  "title": "AF Lep / eps Indi spectroscopic characterization."
+ },
+ "2608.10092": {
+  "status": "excluded",
+  "reason": "no source panels.",
+  "date": "2026-09-11",
+  "title": "Roman Coronagraph technology overview"
+ },
+ "2608.10068": {
+  "status": "excluded",
+  "reason": "spectroscopy.",
+  "date": "2026-09-11",
+  "title": "AF Lep b sulfur atmosphere"
+ },
+ "2608.01505": {
+  "status": "excluded",
+  "reason": "spectroscopy.",
+  "date": "2026-09-11",
+  "title": "Orion Source I TiO"
+ },
+ "2607.28924": {
+  "status": "excluded",
+  "reason": "spectroscopy.",
+  "date": "2026-09-11",
+  "title": "SR 12 c Halpha RV"
+ },
+ "2606.23478": {
+  "status": "excluded",
+  "reason": "methods paper.",
+  "date": "2026-09-11",
+  "title": "Freeform forward-modeling pipeline"
+ },
+ "2607.26803": {
+  "status": "excluded",
+  "reason": "RV.",
+  "date": "2026-09-11",
+  "title": "RY Lup RV ESPRESSO"
+ },
+ "2607.22405": {
+  "status": "excluded",
+  "reason": "no imaging panel.",
+  "date": "2026-09-11",
+  "title": "WISPIT 2 host spectroscopy"
+ },
+ "2510.05601": {
+  "status": "excluded",
+  "reason": "channel maps (out of scope).",
+  "date": "2026-09-11",
+  "title": "AB Aur infall kinematics"
+ },
+ "2606.23794": {
+  "status": "excluded",
+  "reason": "spectra.",
+  "date": "2026-09-11",
+  "title": "MINDS HK Tau gas/ice chemistry"
+ },
+ "2607.20649": {
+  "status": "excluded",
+  "reason": "Out of scope for the image atlas.",
+  "date": "2026-09-11",
+  "title": "WISPIT 2 optical spectroscopy."
+ },
+ "2606.19455": {
+  "status": "excluded",
+  "reason": "spectra.",
+  "date": "2026-09-11",
+  "title": "X-Shooter accretion Upper Sco"
+ },
+ "2608.16818": {
+  "status": "excluded",
+  "reason": "Out of scope for the image atlas.",
+  "date": "2026-09-11",
+  "title": "Eta Carinae historical light curve."
+ },
+ "2607.26182": {
+  "status": "excluded",
+  "reason": "Out of scope for the image atlas.",
+  "date": "2026-09-11",
+  "title": "JWST weather PCA atmospheric variability."
+ },
+ "2607.09407": {
+  "status": "excluded",
+  "reason": "spectroscopy.",
+  "date": "2026-09-11",
+  "title": "JEDIce Oph 163131 H2 spectra"
+ },
+ "2608.17593": {
+  "status": "excluded",
+  "reason": "channel maps (out of scope).",
+  "date": "2026-09-11",
+  "title": "IRAM 04191 kinematics"
+ },
+ "2608.30140": {
+  "status": "deferred",
+  "reason": "HD 163296 CO snowline - possibly spatially resolved ALMA map.",
+  "date": "2026-09-11",
+  "title": "HD 163296 CO snowline"
+ },
+ "2603.24796": {
+  "status": "deferred",
+  "reason": "SaNDi-SHoP I direct-imaging companions - possible companion panels.",
+  "date": "2026-09-11",
+  "title": "SaNDi-SHoP I direct-imaging companions"
+ },
+ "2602.12060": {
+  "status": "deferred",
+  "reason": "B335 outflow II - possible imaging panels.",
+  "date": "2026-09-11",
+  "title": "B335 outflow II"
+ },
+ "2604.12597": {
+  "status": "deferred",
+  "reason": "Protostellar outflow toroidal magnetic fields - possible polarization maps.",
+  "date": "2026-09-11",
+  "title": "Protostellar outflow toroidal magnetic fields"
+ },
+ "2608.10094": {
+  "status": "deferred",
+  "reason": "SMA HNC transition disks - possible moment maps.",
+  "date": "2026-09-11",
+  "title": "SMA HNC transition disks"
+ },
+ "2608.10409": {
+  "status": "deferred",
+  "reason": "PDS 70 c / SR 12 c constraints - possible panels.",
+  "date": "2026-09-11",
+  "title": "PDS 70 c / SR 12 c constraints"
+ },
+ "2608.09627": {
+  "status": "deferred",
+  "reason": "L1527 IRS chemical inventory - possible moment maps.",
+  "date": "2026-09-11",
+  "title": "L1527 IRS chemical inventory"
+ },
+ "2608.06457": {
+  "status": "deferred",
+  "reason": "LkCa 15 dust ring geometry - possible imaging.",
+  "date": "2026-09-11",
+  "title": "LkCa 15 dust ring geometry"
+ },
+ "2608.04803": {
+  "status": "deferred",
+  "reason": "d216-0939 water-ice silhouette - possible imaging.",
+  "date": "2026-09-11",
+  "title": "d216-0939 water-ice silhouette"
+ },
+ "2605.11486": {
+  "status": "deferred",
+  "reason": "V1094 Sco ring-gap hybrid origin - possible imaging.",
+  "date": "2026-09-11",
+  "title": "V1094 Sco ring-gap hybrid origin"
+ },
+ "2607.25770": {
+  "status": "deferred",
+  "reason": "HV Tau C MIRI H2 (dedicated Pathak paper) - possible panels; survey version already ingested via 2607.21733.",
+  "date": "2026-09-11",
+  "title": "HV Tau C MIRI H2 (dedicated Pathak paper)"
+ },
+ "2607.22169": {
+  "status": "deferred",
+  "reason": "HD 163296 multi-wavelength ALMA - possible continuum maps.",
+  "date": "2026-09-11",
+  "title": "HD 163296 multi-wavelength ALMA"
+ },
+ "2607.18683": {
+  "status": "deferred",
+  "reason": "AB Aur azimuthal molecular variations - possible moment maps.",
+  "date": "2026-09-11",
+  "title": "AB Aur azimuthal molecular variations"
+ },
+ "2608.24661": {
+  "status": "deferred",
+  "reason": "NIRC2-Pol first light - possible polarimetry panels.",
+  "date": "2026-09-11",
+  "title": "NIRC2-Pol first light"
  }
 }

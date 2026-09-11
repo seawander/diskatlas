@@ -1001,3 +1001,39 @@ DSHARP=2017). Excluded 5 with reasons in paper_finder_state (RISTRETTO simulated
 NIRSpec ice spectroscopy, Fukuhara shadow-modeling re-displays, L-T spectral atlas,
 SaNDi-SHoP II spectrophotometry — its companion images are in Paper I, follow up).
 Atlas: 747 systems / 3195 image records / 807 papers, 0 errors / 0 warnings.
+
+## 2026-09-11 — Pickup of the interrupted 2026-09-03/04 fresh-papers batch
+
+The 2026-09-03 fresh_papers digest (1550 scanned, 46 hits) and the crop work it
+triggered were never ingested or logged; the working tree held **698 un-referenced
+crop files** across ~90 target dirs with no records. Resumed and completed as six
+waves, each VIEW-verified (parallel agents for the survey-sized batch), staged,
+and committed separately:
+
+- **Gáspár et al. 2026** (arXiv:2608.27437) JWST/NIRCam GTO 2780 debris galleries —
+  HD 10647 / HD 107146 / HD 181327 / HD 32297 / HD 61005, six NIRCam filters + a
+  color composite each, MIRI F2100W for HD 10647/107146 (+37).
+- **Bajaj et al. 2026** (arXiv:2607.21733, AJ 172, 161) JWST/MIRI MRS disk-wind
+  survey — the dominant batch: 72 inclined Class II disks × one record per H2
+  S(1)/S(3)/S(5)/S(7) and [Ne II] line map plus each nearby continuum slice
+  (**+629**), from the Fig. 13 multi-page gallery (Fig. 5 wind-line maps, Fig. 4
+  FTTau/SYCha S(3)). 9 targets matched by coordinate to existing systems (Flying
+  Saucer, ISO-Oph 37/43/94/127/129/165, Sz 98, WLY 2-63) and their crops relocated;
+  12 genuinely new systems created. Epochs recovered from MAST JWST/MIRI-IFU
+  executions per target (the paper itself only cites the parent program papers).
+- **Lin et al. 2026** (2607.23992, AJ 172, 179) TW Hya NIRCam HPFRDI (+3);
+  **Crotts et al. 2026** (2607.22426, ApJ 1008, 22) TWA 10 + TWA 25 NIRCam (+7,
+  new system twa-10 = V1252 Cen); **Yamato et al. 2026** (2607.12005, ApJ 1008,
+  106) V883 Ori ALMA Band 1 CH3OH lines + 40 GHz continuum (+5); **Aymard Badolo
+  et al. 2026** (2608.02410) SPHERE/ZIMPOL DoLP maps of the 16 clearly resolved
+  AGB envelopes (+16, 14 new `evolved` systems).
+
+All 629 Bajaj crops were VIEW-verified by three agents against the source
+galleries; the sweep caught and fixed 5 real defects — gk-tau/iq-tau H2 S(5) and
+nearby-continuum slices had been cropped as colorbar strips (re-cropped from the
+Fig. 13 panels), and 2mass-j16202863-2442087's S(7) panel was a byte-identical
+copy of J16221532's (the S(7) figure holds 53 panels, not 54; record + file
+removed). The 46 digest hits were dispositioned in `paper_finder_state.json`
+(6 ingested, 26 excluded, 14 deferred for figure review). `audit_bibcodes --fix
+--fill` repaired 30 stale/hallucinated bibcodes repo-wide; README stats refreshed.
+Atlas: 774 systems / 3892 image records / 813 papers, 0 errors / 0 warnings.

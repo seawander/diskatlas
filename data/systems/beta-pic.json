@@ -64,7 +64,7 @@
     "title": "Direct Imaging Discovery of Giant Exoplanet β Pictoris d: A Decade-Long Game of Hide-and-Seek",
     "journal": "arXiv e-print",
     "arxiv": "2606.23801",
-    "bibcode": "2026arXiv260623801S"
+    "bibcode": "2026ApJ..1006L..10S"
    },
    "extra_papers": [
     {
@@ -74,7 +74,7 @@
      "title": "Discovery of an Exterior Third Planet Orbiting $β$ Pictoris",
      "journal": "arXiv e-print",
      "arxiv": "2606.23789",
-     "bibcode": "2026arXiv260623789G"
+     "bibcode": "2026ApJ..1006L..11G"
     }
    ]
   }
@@ -646,7 +646,7 @@
     "title": "Direct Imaging Discovery of Giant Exoplanet β Pictoris d: A Decade-Long Game of Hide-and-Seek",
     "journal": "arXiv e-print",
     "arxiv": "2606.23801",
-    "bibcode": "2026arXiv260623801S"
+    "bibcode": "2026ApJ..1006L..10S"
    },
    "epoch": "2025-12-03",
    "content": "continuum"
@@ -668,7 +668,7 @@
     "title": "Direct Imaging Discovery of Giant Exoplanet β Pictoris d: A Decade-Long Game of Hide-and-Seek",
     "journal": "arXiv e-print",
     "arxiv": "2606.23801",
-    "bibcode": "2026arXiv260623801S"
+    "bibcode": "2026ApJ..1006L..10S"
    },
    "epoch": "2025-03-22",
    "content": "continuum"
@@ -690,7 +690,7 @@
     "title": "Direct Imaging Discovery of Giant Exoplanet β Pictoris d: A Decade-Long Game of Hide-and-Seek",
     "journal": "arXiv e-print",
     "arxiv": "2606.23801",
-    "bibcode": "2026arXiv260623801S"
+    "bibcode": "2026ApJ..1006L..10S"
    },
    "epoch": "2023-03-18",
    "content": "continuum"
@@ -712,7 +712,7 @@
     "title": "Direct Imaging Discovery of Giant Exoplanet β Pictoris d: A Decade-Long Game of Hide-and-Seek",
     "journal": "arXiv e-print",
     "arxiv": "2606.23801",
-    "bibcode": "2026arXiv260623801S"
+    "bibcode": "2026ApJ..1006L..10S"
    },
    "epoch": "2020-02-08",
    "content": "continuum"
@@ -734,7 +734,7 @@
     "title": "Direct Imaging Discovery of Giant Exoplanet β Pictoris d: A Decade-Long Game of Hide-and-Seek",
     "journal": "arXiv e-print",
     "arxiv": "2606.23801",
-    "bibcode": "2026arXiv260623801S"
+    "bibcode": "2026ApJ..1006L..10S"
    },
    "epoch": "2019-03-11",
    "content": "continuum"
@@ -755,7 +755,7 @@
     "title": "Discovery of an Exterior Third Planet Orbiting $β$ Pictoris",
     "journal": "arXiv e-print",
     "arxiv": "2606.23789",
-    "bibcode": "2026arXiv260623789G"
+    "bibcode": "2026ApJ..1006L..11G"
    },
    "file": "images/beta-pic/beta-pic_planetd-jwst2026.png",
    "epoch": "2022-2024",
@@ -1286,7 +1286,7 @@
     "title": "Discovery of an Exterior Third Planet Orbiting $β$ Pictoris",
     "journal": "arXiv",
     "arxiv": "2606.23789",
-    "bibcode": "2026arXiv260623789G"
+    "bibcode": "2026ApJ..1006L..11G"
    },
    "epoch": "2026-03-29",
    "content": "continuum"
@@ -1308,7 +1308,7 @@
     "title": "Discovery of an Exterior Third Planet Orbiting $β$ Pictoris",
     "journal": "arXiv",
     "arxiv": "2606.23789",
-    "bibcode": "2026arXiv260623789G"
+    "bibcode": "2026ApJ..1006L..11G"
    },
    "epoch": "2025-11-29",
    "content": "continuum"
@@ -1330,7 +1330,7 @@
     "title": "Discovery of an Exterior Third Planet Orbiting $β$ Pictoris",
     "journal": "arXiv",
     "arxiv": "2606.23789",
-    "bibcode": "2026arXiv260623789G"
+    "bibcode": "2026ApJ..1006L..11G"
    },
    "epoch": "2026-03-21",
    "content": "continuum"
@@ -1375,7 +1375,7 @@
     "title": "Photometric Variability and Rotation of Beta Pictoris b from JWST NIRCam Coronagraphic Imaging",
     "journal": "arXiv e-prints",
     "arxiv": "2607.13133",
-    "bibcode": "2026arXiv260713133Z"
+    "bibcode": "2026AJ....172..152Z"
    },
    "file": "images/beta-pic/beta-pic_nircam-f210m-zhou26.png",
    "epoch": "2025-03-21"
@@ -1398,7 +1398,7 @@
     "title": "Photometric Variability and Rotation of Beta Pictoris b from JWST NIRCam Coronagraphic Imaging",
     "journal": "arXiv e-prints",
     "arxiv": "2607.13133",
-    "bibcode": "2026arXiv260713133Z"
+    "bibcode": "2026AJ....172..152Z"
    },
    "file": "images/beta-pic/beta-pic_nircam-f410m-zhou26.png",
    "epoch": "2025-03-21"
