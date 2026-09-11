@@ -1,0 +1,42 @@
+{
+ "id": "r-hya",
+ "name": "R Hya",
+ "alt_names": [],
+ "simbad": "V* R Hya",
+ "ra_deg": 202.42825066103,
+ "dec_deg": -23.28131989694,
+ "dist_pc": 148.5,
+ "plx_mas": 6.7355,
+ "sptype": "M6-9e",
+ "region": null,
+ "categories": [
+  "evolved"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "image_id": "r-hya_zimpol-dolp-cntha",
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "ZIMPOL",
+   "wavelength_um": 0.6449,
+   "wavelength_label": "CntHa (0.645 um; degree of linear polarization)",
+   "technique": "PDI",
+   "survey": null,
+   "file": "images/r-hya/r-hya_zimpol-dolp-cntha.png",
+   "credit": "Aymard Badolo et al. 2026, Fig. 2 (crop)",
+   "paper": {
+    "first_author": "Aymard Badolo",
+    "year": 2026,
+    "title": "A catalogue of high angular resolution and contrast polarimetric maps of 45 nearby AGB stars with SPHERE/ZIMPOL",
+    "journal": null,
+    "arxiv": "2608.02410",
+    "bibcode": "2026arXiv260802410A"
+   },
+   "epoch": "2019-07-27",
+   "content": "continuum"
+  }
+ ],
+ "notes": "AGB star; SPHERE/ZIMPOL polarimetric imaging of the circumstellar envelope (Aymard Badolo et al. 2026, arXiv:2608.02410).",
+ "last_updated": "2026-09-11"
+}
