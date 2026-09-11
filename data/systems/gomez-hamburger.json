@@ -1,0 +1,199 @@
+{
+ "id": "gomez-hamburger",
+ "name": "Gomez's Hamburger",
+ "alt_names": [
+  "IRAS 18059-3211",
+  "GoHam"
+ ],
+ "simbad": "IRAS 18059-3211",
+ "ra_deg": 272.305824,
+ "dec_deg": -32.180565,
+ "dist_pc": 139.0,
+ "plx_mas": null,
+ "sptype": "A0III:",
+ "region": null,
+ "categories": [
+  "protoplanetary"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "image_id": "gomez-hamburger_law26-cont09mm",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 7",
+   "wavelength_um": 900,
+   "wavelength_label": "0.9 mm continuum (Band 7, 333 GHz)",
+   "technique": "interferometry",
+   "content": "continuum",
+   "survey": null,
+   "file": "images/gomez-hamburger/gomez-hamburger_law26-cont09mm.png",
+   "credit": "Law et al. 2026, Fig. 1 (0.9 mm continuum, crop)",
+   "paper": {
+    "first_author": "Law",
+    "year": 2026,
+    "title": "The ALMA View of the Edge-on Gomez's Hamburger System: A Highly-Dynamic, Asymmetric Protoplanetary Disk Reveals the Earliest Phases of Giant Planet Formation",
+    "journal": null,
+    "arxiv": "2609.09290",
+    "bibcode": "2026arXiv260909290L"
+   },
+   "epoch": "2022-2024"
+  },
+  {
+   "image_id": "gomez-hamburger_law26-12co32-mom0",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 7",
+   "wavelength_um": 867,
+   "wavelength_label": "12CO J=3-2 (345.796 GHz) integrated intensity",
+   "technique": "interferometry",
+   "content": "line",
+   "survey": null,
+   "file": "images/gomez-hamburger/gomez-hamburger_law26-12co32-mom0.png",
+   "credit": "Law et al. 2026, Fig. 1 (12CO J=3-2 zeroth moment, crop)",
+   "paper": {
+    "first_author": "Law",
+    "year": 2026,
+    "title": "The ALMA View of the Edge-on Gomez's Hamburger System: A Highly-Dynamic, Asymmetric Protoplanetary Disk Reveals the Earliest Phases of Giant Planet Formation",
+    "journal": null,
+    "arxiv": "2609.09290",
+    "bibcode": "2026arXiv260909290L"
+   },
+   "epoch": "2022-2024"
+  },
+  {
+   "image_id": "gomez-hamburger_law26-13co32-mom0",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 7",
+   "wavelength_um": 907,
+   "wavelength_label": "13CO J=3-2 (330.588 GHz) integrated intensity",
+   "technique": "interferometry",
+   "content": "line",
+   "survey": null,
+   "file": "images/gomez-hamburger/gomez-hamburger_law26-13co32-mom0.png",
+   "credit": "Law et al. 2026, Fig. 1 (13CO J=3-2 zeroth moment, crop)",
+   "paper": {
+    "first_author": "Law",
+    "year": 2026,
+    "title": "The ALMA View of the Edge-on Gomez's Hamburger System: A Highly-Dynamic, Asymmetric Protoplanetary Disk Reveals the Earliest Phases of Giant Planet Formation",
+    "journal": null,
+    "arxiv": "2609.09290",
+    "bibcode": "2026arXiv260909290L"
+   },
+   "epoch": "2022-2024"
+  },
+  {
+   "image_id": "gomez-hamburger_law26-cs76-mom0",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 7",
+   "wavelength_um": 874,
+   "wavelength_label": "CS J=7-6 (342.883 GHz) integrated intensity",
+   "technique": "interferometry",
+   "content": "line",
+   "survey": null,
+   "file": "images/gomez-hamburger/gomez-hamburger_law26-cs76-mom0.png",
+   "credit": "Law et al. 2026, Fig. 1 (CS J=7-6 zeroth moment, crop)",
+   "paper": {
+    "first_author": "Law",
+    "year": 2026,
+    "title": "The ALMA View of the Edge-on Gomez's Hamburger System: A Highly-Dynamic, Asymmetric Protoplanetary Disk Reveals the Earliest Phases of Giant Planet Formation",
+    "journal": null,
+    "arxiv": "2609.09290",
+    "bibcode": "2026arXiv260909290L"
+   },
+   "epoch": "2022-2024"
+  },
+  {
+   "image_id": "gomez-hamburger_law26-so-mom1",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 7",
+   "wavelength_um": 871,
+   "wavelength_label": "SO J_N=8_8-7_7 (344.311 GHz) velocity field",
+   "technique": "interferometry",
+   "content": "line",
+   "survey": null,
+   "file": "images/gomez-hamburger/gomez-hamburger_law26-so-mom1.png",
+   "credit": "Law et al. 2026, Fig. 7 (SO J_N=8_8-7_7 rotation, crop)",
+   "paper": {
+    "first_author": "Law",
+    "year": 2026,
+    "title": "The ALMA View of the Edge-on Gomez's Hamburger System: A Highly-Dynamic, Asymmetric Protoplanetary Disk Reveals the Earliest Phases of Giant Planet Formation",
+    "journal": null,
+    "arxiv": "2609.09290",
+    "bibcode": "2026arXiv260909290L"
+   },
+   "epoch": "2022-2024"
+  },
+  {
+   "image_id": "gomez-hamburger_law26-12co32-mom1",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 7",
+   "wavelength_um": 867,
+   "wavelength_label": "12CO J=3-2 (345.796 GHz) velocity field",
+   "technique": "interferometry",
+   "content": "line",
+   "survey": null,
+   "file": "images/gomez-hamburger/gomez-hamburger_law26-12co32-mom1.png",
+   "credit": "Law et al. 2026, Fig. 14 (12CO J=3-2 rotation, crop)",
+   "paper": {
+    "first_author": "Law",
+    "year": 2026,
+    "title": "The ALMA View of the Edge-on Gomez's Hamburger System: A Highly-Dynamic, Asymmetric Protoplanetary Disk Reveals the Earliest Phases of Giant Planet Formation",
+    "journal": null,
+    "arxiv": "2609.09290",
+    "bibcode": "2026arXiv260909290L"
+   },
+   "epoch": "2022-2024"
+  },
+  {
+   "image_id": "gomez-hamburger_law26-13co32-mom1",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 7",
+   "wavelength_um": 907,
+   "wavelength_label": "13CO J=3-2 (330.588 GHz) velocity field",
+   "technique": "interferometry",
+   "content": "line",
+   "survey": null,
+   "file": "images/gomez-hamburger/gomez-hamburger_law26-13co32-mom1.png",
+   "credit": "Law et al. 2026, Fig. 14 (13CO J=3-2 rotation, crop)",
+   "paper": {
+    "first_author": "Law",
+    "year": 2026,
+    "title": "The ALMA View of the Edge-on Gomez's Hamburger System: A Highly-Dynamic, Asymmetric Protoplanetary Disk Reveals the Earliest Phases of Giant Planet Formation",
+    "journal": null,
+    "arxiv": "2609.09290",
+    "bibcode": "2026arXiv260909290L"
+   },
+   "epoch": "2022-2024"
+  },
+  {
+   "image_id": "gomez-hamburger_law26-cs76-mom1",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 7",
+   "wavelength_um": 874,
+   "wavelength_label": "CS J=7-6 (342.883 GHz) velocity field",
+   "technique": "interferometry",
+   "content": "line",
+   "survey": null,
+   "file": "images/gomez-hamburger/gomez-hamburger_law26-cs76-mom1.png",
+   "credit": "Law et al. 2026, Fig. 14 (CS J=7-6 rotation, crop)",
+   "paper": {
+    "first_author": "Law",
+    "year": 2026,
+    "title": "The ALMA View of the Edge-on Gomez's Hamburger System: A Highly-Dynamic, Asymmetric Protoplanetary Disk Reveals the Earliest Phases of Giant Planet Formation",
+    "journal": null,
+    "arxiv": "2609.09290",
+    "bibcode": "2026arXiv260909290L"
+   },
+   "epoch": "2022-2024"
+  }
+ ],
+ "notes": "Edge-on protoplanetary disk (Gomez's Hamburger / IRAS 18059-3211).",
+ "last_updated": "2026-09-11"
+}

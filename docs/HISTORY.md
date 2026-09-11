@@ -1037,3 +1037,34 @@ removed). The 46 digest hits were dispositioned in `paper_finder_state.json`
 (6 ingested, 26 excluded, 14 deferred for figure review). `audit_bibcodes --fix
 --fill` repaired 30 stale/hallucinated bibcodes repo-wide; README stats refreshed.
 Atlas: 774 systems / 3892 image records / 813 papers, 0 errors / 0 warnings.
+
+## 2026-09-11 (2) — User-directed manual batch: 5 papers, 31 records
+
+Five arXiv links supplied by the maintainer, ingested with one crop/ingest agent
+each (parallel), then merged and gated together. +31 records / +1 system.
+
+- **Jiang et al. 2026** (arXiv:2607.18683) *Azimuthal molecular variations in the
+  AB Aur planet-forming disk* — NOEMA 266 GHz programme W24BR. Continuum + one
+  moment-0 map per detected line: CS 5-4, SO 7_6-6_5, stacked C2H, HCN 3-2,
+  HCO+ 3-2, H13CO+ 3-2 (7). Peak-intensity (Fnu), dV/v0 galleries and channel
+  maps excluded; epoch 2024-2025 (executions 2024-12-27 + 2025-02).
+- **Benisty et al. 2026** (2609.04946) *Mapping the WISPIT 2 planet-hosting cavity
+  at sub-Hill-radius scales* — ALMA program 2024.A.00064.S. Fig. 1 (0.88 mm
+  continuum at 19×13 mas, 12CO(3-2) peak-intensity, H-band SPHERE) + the med-res
+  0.88 mm cavity zoom + a 12CO moment-1 map (5). The reproduced H-band panel
+  inherits the 2023-10-19 epoch of the same dataset's existing record.
+- **Galloway-Sprietsma et al. 2026** (2608.06268, AJ 172, 138) *A streamer driving
+  misalignment in the GW Ori circumtriple disk* — PDF-only source; panels
+  recovered by rasterizing the compiled PDF. 1.3 mm continuum + 12CO/13CO/C18O(2-1)
+  moment-0 and moment-1 (7); combined epochs 2017-2023 (7 m continuum 2023-01-23).
+- **van der Marel et al. 2026** (2609.05230) *Planetary gas gaps and kinematic
+  signatures around WISPIT 2* — ALMA 2025.1.00433.S. 1.3 mm continuum + 12CO/13CO
+  moment-0 + 12CO moment-1 (4). Cross-paper redundancy with Benisty wanted.
+- **Law et al. 2026** (2609.09290) *The ALMA view of Gomez's Hamburger* — new
+  system **`gomez-hamburger`** (IRAS 18059-3211, adopted d=139 pc, category
+  protoplanetary). 0.9 mm continuum + 12CO/13CO J=3-2 & CS 7-6 moment-0 + moment-1
+  + an SO moment-1 field (8); combined epochs 2022-2024 (2022.1.00269.S).
+
+All records VIEW-verified; peak-intensity/model/residual/channel-map/profile panels
+excluded per scope. `audit_bibcodes --fix --fill` found nothing to change.
+Atlas: 775 systems / 3923 image records / 818 papers, 0 errors / 0 warnings.

@@ -60300,15 +60300,39 @@
   "title": "HD 163296 multi-wavelength ALMA"
  },
  "2607.18683": {
-  "status": "deferred",
-  "reason": "AB Aur azimuthal molecular variations - possible moment maps.",
+  "status": "ingested",
+  "reason": "User-directed ingestion 2026-09-11.",
   "date": "2026-09-11",
-  "title": "AB Aur azimuthal molecular variations"
+  "title": "Jiang 2026 AB Aur NOEMA molecular maps"
  },
  "2608.24661": {
   "status": "deferred",
   "reason": "NIRC2-Pol first light - possible polarimetry panels.",
   "date": "2026-09-11",
   "title": "NIRC2-Pol first light"
+ },
+ "2609.04946": {
+  "status": "ingested",
+  "reason": "User-directed ingestion 2026-09-11.",
+  "date": "2026-09-11",
+  "title": "Benisty 2026 WISPIT 2 sub-Hill-radius cavity ALMA"
+ },
+ "2608.06268": {
+  "status": "ingested",
+  "reason": "User-directed ingestion 2026-09-11.",
+  "date": "2026-09-11",
+  "title": "Galloway-Sprietsma 2026 GW Ori streamer/misalignment ALMA"
+ },
+ "2609.05230": {
+  "status": "ingested",
+  "reason": "User-directed ingestion 2026-09-11.",
+  "date": "2026-09-11",
+  "title": "van der Marel 2026 WISPIT 2 gas gaps/kinematics ALMA"
+ },
+ "2609.09290": {
+  "status": "ingested",
+  "reason": "User-directed ingestion 2026-09-11.",
+  "date": "2026-09-11",
+  "title": "Law 2026 Gomez's Hamburger ALMA"
  }
 }
