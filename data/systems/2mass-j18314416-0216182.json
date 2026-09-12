@@ -33,7 +33,8 @@
     "arxiv": "2609.03759",
     "bibcode": "2026arXiv260903759T"
    },
-   "note": "1.3-mm dust-continuum detection from the higher-resolution ALMA survey (Cycle 7, program 2019.1.00218.S; mean beam 0.24\"x0.21\"). Epoch from Table 1 (three EBs, May-Jun 2021)."
+   "note": "1.3-mm dust-continuum detection from the higher-resolution ALMA survey (Cycle 7, program 2019.1.00218.S; mean beam 0.24\"x0.21\"). Epoch from Table 1 (three EBs, May-Jun 2021).",
+   "survey": "Serpens-ALMA"
   }
  ],
  "notes": "Serpens ALMA 1.3 mm disk survey (Tong et al. 2026, arXiv:2609.03759); coordinates from the survey catalogue.",

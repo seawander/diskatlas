@@ -80,7 +80,7 @@
    "technique": "interferometry",
    "image_id": "dh-tau_taurus-long2019",
    "file": "images/dh-tau/dh-tau_taurus-long2019.png",
-   "survey": "Taurus-Long2019",
+   "survey": "Taurus-Long",
    "credit": "Long et al. 2019, Fig. 3 (crop)",
    "paper": {
     "first_author": "Long",

@@ -21,7 +21,7 @@
    "wavelength_um": 1330,
    "wavelength_label": "1.33 mm continuum",
    "image_id": "hq-tau_taurus-long2019",
-   "survey": "Taurus-Long2019",
+   "survey": "Taurus-Long",
    "file": "images/hq-tau/hq-tau_taurus-long2019.png",
    "credit": "Long et al. 2019, Fig. 3 (crop)",
    "paper": {

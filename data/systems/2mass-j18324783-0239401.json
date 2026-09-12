@@ -33,7 +33,8 @@
     "arxiv": "2609.03759",
     "bibcode": "2026arXiv260903759T"
    },
-   "note": "Transition-disk candidate; observed 1.3-mm dust-continuum panel cropped from the left (Observation) column of the observation/model/residual comparison. ALMA Cycle 7 program 2019.1.00218.S."
+   "note": "Transition-disk candidate; observed 1.3-mm dust-continuum panel cropped from the left (Observation) column of the observation/model/residual comparison. ALMA Cycle 7 program 2019.1.00218.S.",
+   "survey": "Serpens-ALMA"
   }
  ],
  "notes": "Serpens ALMA 1.3 mm disk survey (Tong et al. 2026, arXiv:2609.03759); coordinates from the survey catalogue.",

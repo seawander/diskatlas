@@ -25,7 +25,7 @@
    "technique": "interferometry",
    "image_id": "haro-6-13_taurus-long2019",
    "file": "images/haro-6-13/haro-6-13_taurus-long2019.png",
-   "survey": "Taurus-Long2019",
+   "survey": "Taurus-Long",
    "credit": "Long et al. 2019, Fig. 3 (crop)",
    "paper": {
     "first_author": "Long",

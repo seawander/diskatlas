@@ -33,7 +33,8 @@
     "arxiv": "2609.03759",
     "bibcode": "2026arXiv260903759T"
    },
-   "note": "Previously known millimeter source (not part of the primary survey sample) detected at 1.3 mm in the higher-resolution ALMA data. ALMA Cycle 7 program 2019.1.00218.S."
+   "note": "Previously known millimeter source (not part of the primary survey sample) detected at 1.3 mm in the higher-resolution ALMA data. ALMA Cycle 7 program 2019.1.00218.S.",
+   "survey": "Serpens-ALMA"
   },
   {
    "image_id": "2mass-j18295252+0036113_alma-b6-1.3mm-fjd2019-3",
@@ -55,7 +56,8 @@
     "arxiv": "2609.03759",
     "bibcode": "2026arXiv260903759T"
    },
-   "note": "Previously known millimeter source (not part of the primary survey sample) detected at 1.3 mm in the higher-resolution ALMA data. ALMA Cycle 7 program 2019.1.00218.S. | component: fjd2019-3"
+   "note": "Previously known millimeter source (not part of the primary survey sample) detected at 1.3 mm in the higher-resolution ALMA data. ALMA Cycle 7 program 2019.1.00218.S. | component: fjd2019-3",
+   "survey": "Serpens-ALMA"
   }
  ],
  "notes": "Serpens ALMA 1.3 mm disk survey (Tong et al. 2026, arXiv:2609.03759); coordinates from the survey catalogue.",
