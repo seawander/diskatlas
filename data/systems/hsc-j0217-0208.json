@@ -42,7 +42,7 @@
    "type": "quasar",
    "facility": "ALMA",
    "instrument": "ALMA Band 6/7/8 (line + continuum)",
-   "wavelength_um": 88,
+   "wavelength_um": 634,
    "wavelength_label": "[OIII] 88um / [CII] 158um emission (rest-UV/Lya background)",
    "technique": "interferometry",
    "survey": null,
