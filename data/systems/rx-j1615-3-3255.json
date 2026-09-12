@@ -189,10 +189,32 @@
    },
    "epoch": "2024-2025",
    "content": "continuum"
+  },
+  {
+   "image_id": "rx-j1615-3-3255_co65-mom0-2015",
+   "file": "images/rx-j1615-3-3255/rx-j1615-3-3255_co65-mom0-2015.png",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 9 (12CO J=6-5)",
+   "wavelength_um": 434,
+   "wavelength_label": "12CO J=6-5 integrated intensity (moment-0)",
+   "technique": "interferometric line imaging",
+   "content": "line",
+   "epoch": "2012-08-14",
+   "credit": "van der Marel et al. 2015, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "van der Marel",
+    "year": 2015,
+    "title": "Gas density drops inside dust cavities of transitional disks around young stars observed with ALMA",
+    "journal": "A&A 579, A106",
+    "arxiv": "1504.03927",
+    "bibcode": "2015A&A...579A.106V"
+   },
+   "note": "ALMA Cycle 0 program 2011.0.00724.S; zero-moment 12CO J=6-5 (691.473 GHz) map. Same dataset as the atlas 690 GHz continuum record rx-j1615-3-3255_alma2015."
   }
  ],
  "notes": null,
- "last_updated": "2026-07-07",
+ "last_updated": "2026-09-12",
  "plx_mas": 6.4274,
  "mags": {
   "U": 13.88,

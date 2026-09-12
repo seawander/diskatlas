@@ -90,8 +90,30 @@
    },
    "epoch": "2019-2023",
    "content": "continuum"
+  },
+  {
+   "image_id": "2mass-j16083070-3828268_sphere2019-J",
+   "file": "images/2mass-j16083070-3828268/2mass-j16083070-3828268_sphere2019-J.png",
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS (DPI)",
+   "wavelength_um": 1.245,
+   "wavelength_label": "J band polarized intensity (PI)",
+   "technique": "PDI",
+   "content": "continuum",
+   "epoch": "2017-07-23",
+   "credit": "Villenave et al. 2019, Fig. 1 (crop: PI J-band panel)",
+   "paper": {
+    "first_author": "Villenave",
+    "year": 2019,
+    "title": "Spatial segregation of dust grains in transition disks. SPHERE observations of 2MASS J16083070-3828268 and RXJ1852.3-3700",
+    "journal": "A&A 624, A7",
+    "arxiv": "1902.04612",
+    "bibcode": "2019A&A...624A...7V"
+   },
+   "note": "Bottom row of Fig. 1: J-band non-coronagraphic polarized intensity (PI). H-band PI is held separately as 2mass-j16083070-3828268_sphere2019. Q_phi/U_phi panels are display variants of the same product and were not added."
   }
  ],
  "notes": "Transition disk in Lupus 3 with resolved cavity; VLT/SPHERE IRDIS PDI (H- and J-band) polarized-intensity imaging shows two bright crescents flanking a dark cavity plus a faint 'rear-facing' near side, indicating a moderately inclined disk (Villenave et al. 2019, arXiv:1902.04612, also covers RX J1852.3-3700 = J1852, already in atlas).",
- "last_updated": "2026-07-11"
+ "last_updated": "2026-09-12"
 }

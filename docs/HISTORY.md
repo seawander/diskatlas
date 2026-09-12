@@ -1197,3 +1197,26 @@ Graves HARP, Herczeg SCUBA-2, Lee CARMA LASA, Fiorellino Herschel census),
 Kushwahaa 2023 (no 2-D line maps), Zou 2025 (target not in atlas), and the
 Herschel/Spitzer/JWST-ice/VLT/Keck spectroscopy papers. Net: +19 records, 961
 systems / 4394 records / 842 papers, 0 errors / 0 warnings.
+
+## 2026-09-11 (8) — Completeness pass: caption-vs-held-panel gaps
+
+Ran the three completeness axes to close the "did we miss any images?" question:
+1. **Panel gaps in already-cited papers** (`panel_audit.py`, 245 flags: 46 multiband,
+   93 review, 106 variant). All 46 multiband flags adjudicated by four crop agents (VIEW the
+   source figure, separate observed sky images from model/residual/profile/PSF panels). **19
+   genuine missing panels ingested across 12 systems**, e.g. WL 17 Band 6 (233 GHz) + Band 7
+   (345 GHz), SR 21 Band 3, CIDA 9 Band 6, HL Tau 1.3 mm, RX J1615-3255 12CO(6-5), AB Aur
+   LBTI L'/Ks ADI, AF Lep F444W Jan-2024 epoch + F200W/F356W non-detections + Keck/NIRC2 L',
+   J1608 SPHERE J-band PI, AT Pyx NACO L'/SPHERE K, Z CMa JVLA Ka, HH 48 NE CO(3-2), 3C 273
+   HST F606W + VLA. Everything else was confirmed a false positive (caption mentions
+   model/residual/profile/PSF/variant panels that are not records).
+2. **Missing papers for landmark systems** (`system_audit.py`, 49 famous systems). Of 105
+   title-matched candidate papers, 92 were already dispositioned and 6 already cited; only 3
+   genuinely-uncited imaging-likely candidates remain (2 non-image interferometry/spectroscopy,
+   1 re-display) — famous systems are effectively paper-complete.
+3. **Survey samples** (`survey_recall.py`): 0 gaps (DSHARP/exoALMA/MAPS/eDisk/AGE-PRO/
+   DARTTS-S/GPIES/REASONS all complete).
+Net `panel_audit` false-positive classes documented for the next run: model+residual+profile
+columns, PSF images, same-band weighting/Q_phi/U_phi variants, and multi-panel captions counted
+per sub-panel. `audit_bibcodes --fix --fill` repaired 1 bibcode + 55 journal strings.
+Atlas: 961 systems / 4413 image records / 842 papers, 0 errors / 0 warnings.

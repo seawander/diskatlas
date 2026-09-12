@@ -19,7 +19,7 @@ and epochs, with clickable arXiv / SciX citations for every image.
 
 ## What's inside
 
-**961 systems · 4394 image records**, every one a panel cropped from a peer-reviewed
+**961 systems · 4413 image records**, every one a panel cropped from a peer-reviewed
 figure with full citations; coordinates for every system; a companion catalogue with
 per-object status (`confirmed` / `candidate` / `disputed` / `refuted`).
 `python3 backend-data/build.py` prints the exact live counts — trust it over any number in

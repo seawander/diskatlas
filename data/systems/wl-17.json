@@ -80,10 +80,54 @@
     "bibcode": "2023ApJ...956....9H"
    },
    "epoch": "2019"
+  },
+  {
+   "image_id": "wl-17_alma345ghz2021",
+   "file": "images/wl-17/wl-17_alma345ghz2021.png",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 7",
+   "wavelength_um": 869,
+   "wavelength_label": "345 GHz (0.87 mm) continuum",
+   "technique": "interferometric imaging",
+   "content": "continuum",
+   "epoch": "2016-05-19",
+   "credit": "Gulick et al. 2021, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Gulick",
+    "year": 2021,
+    "title": "Detection of Substructures in Young Transition Disk WL 17",
+    "journal": "ApJ 922, 150",
+    "arxiv": "2109.02652",
+    "bibcode": "2021ApJ...922..150G"
+   },
+   "note": "Briggs robust=0.5. Re-displays archival ALMA Band 7 data (project 2015.1.00761.S) also held in the atlas as wl-17_alma2023 (Han et al. 2023); second track observed 2016-09-10."
+  },
+  {
+   "image_id": "wl-17_alma233ghz2021",
+   "file": "images/wl-17/wl-17_alma233ghz2021.png",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 6",
+   "wavelength_um": 1287,
+   "wavelength_label": "233 GHz (1.3 mm) continuum",
+   "technique": "interferometric imaging (Stokes I)",
+   "content": "continuum",
+   "epoch": "2017-05-20",
+   "credit": "Gulick et al. 2021, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Gulick",
+    "year": 2021,
+    "title": "Detection of Substructures in Young Transition Disk WL 17",
+    "journal": "ApJ 922, 150",
+    "arxiv": "2109.02652",
+    "bibcode": "2021ApJ...922..150G"
+   },
+   "note": "Briggs robust=0.5 Stokes I from the ALMA full-polarization survey (project 2015.1.01112.S); additional tracks 2017-07-11 and 2017-07-14."
   }
  ],
  "notes": "Class I protostar in the rho Ophiuchus (L1688) molecular cloud. ALMA Band 7 (0.87mm; Han+2023) and Band 3 (3.1mm; Gulick+2021) reveal different disk substructures (an off-center hole in Band 7, a central symmetric hole in Band 3) and a low mean spectral index (alpha=2.28+/-0.02), suggestive of grain growth and dust segregation on the protostellar-disk scale; the disk may be massive and gravitationally unstable, possibly forming a single Jupiter-mass protoplanet. Distance of 137 pc adopted as the mean distance to the L1688 region.",
- "last_updated": "2026-07-08",
+ "last_updated": "2026-09-12",
  "mags": {
   "J": 18.9,
   "H": 14.296,

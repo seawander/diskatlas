@@ -902,6 +902,50 @@
    },
    "epoch": "2019-12-10",
    "note": "AB Aur 0.88 mm ALMA continuum. Paper Table C.1 lists 343.51 GHz (Band 7) but pairs it with project 2015.1.00889.S, which is Band 6; the frequency matches Band 7 project 2019.1.00063.S, used here for the epoch (ALMA archive obscore t_min). The paper gives only project IDs, no observing dates."
+  },
+  {
+   "image_id": "ab-aur_lbti2022-lp-adi",
+   "file": "images/ab-aur/ab-aur_lbti2022-lp-adi.png",
+   "type": "disk_scattered",
+   "facility": "LBT",
+   "instrument": "LBTI/LMIRCam",
+   "wavelength_um": 3.7,
+   "wavelength_label": "L' (3.7 um), ADI reduction",
+   "technique": "ADI (angular differential imaging)",
+   "content": "continuum",
+   "epoch": "2014-02-09",
+   "credit": "Jorquera et al. 2022, Fig. 1b (crop)",
+   "paper": {
+    "first_author": "Jorquera",
+    "year": 2022,
+    "title": "Large Binocular Telescope Search for Companions and Substructures in the (Pre)transitional Disk of AB Aurigae",
+    "journal": "ApJ 926, 71",
+    "arxiv": "2201.08867",
+    "bibcode": "2022ApJ...926...71J"
+   },
+   "note": "ADI reduction averaged over dataset 1 (2014-02-09) and dataset 2 (2014-02-13); epoch recorded as the first night."
+  },
+  {
+   "image_id": "ab-aur_lbti2022-ks-adi",
+   "file": "images/ab-aur/ab-aur_lbti2022-ks-adi.png",
+   "type": "disk_scattered",
+   "facility": "LBT",
+   "instrument": "LBTI/LMIRCam",
+   "wavelength_um": 2.16,
+   "wavelength_label": "Ks (2.16 um), ADI reduction",
+   "technique": "ADI (angular differential imaging)",
+   "content": "continuum",
+   "epoch": "2015-01-04",
+   "credit": "Jorquera et al. 2022, Fig. 1d (crop)",
+   "paper": {
+    "first_author": "Jorquera",
+    "year": 2022,
+    "title": "Large Binocular Telescope Search for Companions and Substructures in the (Pre)transitional Disk of AB Aurigae",
+    "journal": "ApJ 926, 71",
+    "arxiv": "2201.08867",
+    "bibcode": "2022ApJ...926...71J"
+   },
+   "note": null
   }
  ],
  "notes": null,

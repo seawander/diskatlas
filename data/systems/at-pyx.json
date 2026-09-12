@@ -169,10 +169,54 @@
    "file": "images/at-pyx/at-pyx_12co21-mom1.png",
    "epoch": "2022-08-31",
    "content": "line"
+  },
+  {
+   "image_id": "at-pyx_naco2022-lp",
+   "file": "images/at-pyx/at-pyx_naco2022-lp.png",
+   "type": "disk_scattered",
+   "facility": "VLT-NACO",
+   "instrument": "NACO",
+   "wavelength_um": 3.8,
+   "wavelength_label": "L' band (3.8 um), ADI reduction",
+   "technique": "ADI (angular differential imaging)",
+   "content": "continuum",
+   "epoch": "2019-01-19",
+   "credit": "Ginski et al. 2022, Fig. 2 (NACO L-band panel, crop)",
+   "paper": {
+    "first_author": "Ginski",
+    "year": 2022,
+    "title": "An extended scattered light disk around AT Pyx. Possible planet formation in a cometary globule",
+    "journal": "A&A 662, A74",
+    "arxiv": "2111.11077",
+    "bibcode": "2022A&A...662A..74G"
+   },
+   "note": null
+  },
+  {
+   "image_id": "at-pyx_sphere2022-k",
+   "file": "images/at-pyx/at-pyx_sphere2022-k.png",
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "SPHERE/IRDIS",
+   "wavelength_um": 2.16,
+   "wavelength_label": "K band (2.16 um), ADI reduction",
+   "technique": "ADI (angular differential imaging)",
+   "content": "continuum",
+   "epoch": "2018-04-18",
+   "credit": "Ginski et al. 2022, Fig. 2 (SPHERE K-band panel, crop)",
+   "paper": {
+    "first_author": "Ginski",
+    "year": 2022,
+    "title": "An extended scattered light disk around AT Pyx. Possible planet formation in a cometary globule",
+    "journal": "A&A 662, A74",
+    "arxiv": "2111.11077",
+    "bibcode": "2022A&A...662A..74G"
+   },
+   "note": null
   }
  ],
  "notes": "AUTO-CREATED from staging - fill metadata & coords Added 2026-07-08 (keyword discovery round 2).",
- "last_updated": "2026-07-14",
+ "last_updated": "2026-09-12",
  "plx_mas": null,
  "mags": null
 }

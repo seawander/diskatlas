@@ -1547,6 +1547,15 @@
    ]
   },
   {
+   "system": "cida-9",
+   "image_id": "cida-9_alma2023-b6",
+   "file": "images/cida-9/cida-9_alma2023-b6.png",
+   "ar": 1.17,
+   "flags": [
+    "GUTTER_EDGE:L(white)"
+   ]
+  },
+  {
    "system": "coconuts-1",
    "image_id": "coconuts-1_discovery2020",
    "file": "images/coconuts-1/coconuts-1_discovery2020.png",
@@ -3411,6 +3420,15 @@
    ]
   },
   {
+   "system": "hh-48-ne",
+   "image_id": "hh-48-ne_co32-mom0",
+   "file": "images/hh-48-ne/hh-48-ne_co32-mom0.png",
+   "ar": 1.24,
+   "flags": [
+    "GUTTER_EDGE:R(white)"
+   ]
+  },
+  {
    "system": "hh270-mms2",
    "image_id": "hh270-mms2_alma345",
    "file": "images/hh270-mms2/hh270-mms2_alma345.png",
@@ -3500,6 +3518,15 @@
    "ar": 1.13,
    "flags": [
     "GUTTER_EDGE:L(white)"
+   ]
+  },
+  {
+   "system": "hl-tau",
+   "image_id": "hl-tau_alma2015-b6",
+   "file": "images/hl-tau/hl-tau_alma2015-b6.png",
+   "ar": 1.01,
+   "flags": [
+    "GUTTER_EDGE:T(white)"
    ]
   },
   {
@@ -4288,6 +4315,51 @@
    ]
   },
   {
+   "system": "ngc1333-iras2a",
+   "image_id": "ngc1333-iras2a_anderl16-ch3oh",
+   "file": "images/ngc1333-iras2a/ngc1333-iras2a_anderl16-ch3oh.png",
+   "ar": 0.91,
+   "flags": [
+    "GUTTER_EDGE:T(white)"
+   ]
+  },
+  {
+   "system": "ngc1333-iras4a",
+   "image_id": "ngc1333-iras4a_calypso13mm",
+   "file": "images/ngc1333-iras4a/ngc1333-iras4a_calypso13mm.png",
+   "ar": 0.99,
+   "flags": [
+    "GUTTER_EDGE:B(white)"
+   ]
+  },
+  {
+   "system": "ngc1333-iras4a",
+   "image_id": "ngc1333-iras4a_calypso3mm",
+   "file": "images/ngc1333-iras4a/ngc1333-iras4a_calypso3mm.png",
+   "ar": 1.0,
+   "flags": [
+    "GUTTER_EDGE:T(white)"
+   ]
+  },
+  {
+   "system": "ngc1333-iras4a",
+   "image_id": "ngc1333-iras4a_anderl16-c18o21",
+   "file": "images/ngc1333-iras4a/ngc1333-iras4a_anderl16-c18o21.png",
+   "ar": 0.93,
+   "flags": [
+    "GUTTER_EDGE:B(black)"
+   ]
+  },
+  {
+   "system": "ngc1333-iras4a",
+   "image_id": "ngc1333-iras4a_anderl16-ch3oh",
+   "file": "images/ngc1333-iras4a/ngc1333-iras4a_anderl16-ch3oh.png",
+   "ar": 0.97,
+   "flags": [
+    "GUTTER_EDGE:T(white)"
+   ]
+  },
+  {
    "system": "ngc1333-iras4b",
    "image_id": "ngc1333-iras4b_noema-so2",
    "file": "images/ngc1333-iras4b/ngc1333-iras4b_noema-so2.png",
@@ -4364,6 +4436,15 @@
    "image_id": "ngc1333-iras4b_noema-thcooh",
    "file": "images/ngc1333-iras4b/ngc1333-iras4b_noema-thcooh.png",
    "ar": 1.24,
+   "flags": [
+    "GUTTER_EDGE:R(white)"
+   ]
+  },
+  {
+   "system": "ngc1333-iras4b",
+   "image_id": "ngc1333-iras4b_calypso3mm",
+   "file": "images/ngc1333-iras4b/ngc1333-iras4b_calypso3mm.png",
+   "ar": 1.0,
    "flags": [
     "GUTTER_EDGE:R(white)"
    ]
@@ -5018,6 +5099,15 @@
    "ar": 1.0,
    "flags": [
     "GUTTER_EDGE:R(white)"
+   ]
+  },
+  {
+   "system": "serpens-s68n",
+   "image_id": "serpens-s68n_calypso3mm",
+   "file": "images/serpens-s68n/serpens-s68n_calypso3mm.png",
+   "ar": 1.0,
+   "flags": [
+    "GUTTER_EDGE:T(black)"
    ]
   },
   {
@@ -5691,7 +5781,7 @@
    ]
   }
  ],
- "n_ok": 3617,
- "n_total": 4246,
+ "n_ok": 3774,
+ "n_total": 4413,
  "missing": []
 }

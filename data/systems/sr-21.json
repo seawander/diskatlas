@@ -300,8 +300,30 @@
    "file": "images/sr-21/sr-21_c18o21-mom0.png",
    "epoch": "2019-06-24",
    "content": "line"
+  },
+  {
+   "image_id": "sr-21_alma2023-b3",
+   "file": "images/sr-21/sr-21_alma2023-b3.png",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 3",
+   "wavelength_um": 2750.0,
+   "wavelength_label": "Band 3 (2.7 mm) continuum",
+   "technique": "interferometry",
+   "content": "continuum",
+   "epoch": "2017-11-09",
+   "credit": "Yang et al. 2023, Fig. 1b (crop)",
+   "paper": {
+    "first_author": "Yang",
+    "year": "2023",
+    "title": "Multiple Rings and Asymmetric Structures in the Disk of SR 21",
+    "journal": "ApJ 948, 110",
+    "arxiv": "2303.05064",
+    "bibcode": "2023ApJ...948..110Y"
+   },
+   "note": "ALMA Band 3 (107.01-110.67 GHz, ~2.7-2.8 mm) continuum image of SR 21 with 2-sigma contours (right panel of Fig. 1). The paper states this is the same image as Muro-Arena et al. 2020 (project 2017.1.00884.S); recorded here as a re-display for this paper. Clumps labelled I-V, North/South/Inner Arcs."
   }
  ],
  "notes": "AUTO-CREATED from staging - fill metadata & coords",
- "last_updated": "2026-07-14"
+ "last_updated": "2026-09-12"
 }

@@ -300,10 +300,32 @@
    },
    "epoch": "2023-03-23",
    "content": "line"
+  },
+  {
+   "image_id": "hh-48-ne_co32-mom0",
+   "file": "images/hh-48-ne/hh-48-ne_co32-mom0.png",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 7",
+   "wavelength_um": 866.9,
+   "wavelength_label": "CO J=3-2 (345.8 GHz, 0.867 mm) integrated intensity",
+   "technique": "interferometric moment map",
+   "content": "line",
+   "epoch": "2016-11-15",
+   "credit": "Sturm et al. 2023, Fig. 1 (right panel, crop)",
+   "paper": {
+    "first_author": "Sturm",
+    "year": "2023",
+    "title": "The edge-on protoplanetary disk HH 48 NE. I. Modeling the geometry and stellar parameters",
+    "journal": "A&A 677, A17",
+    "arxiv": "2305.02338",
+    "bibcode": "2023A&A...677A..17S"
+   },
+   "note": "CO J=3-2 zeroth-moment (integrated-intensity) map of the HH 48 system, with 0.89 mm Band 7 continuum contours (red). Right panel of Fig. 1; Sturm et al. re-calibrated/re-imaged the archival data originally published by Villenave et al. 2020. The 0.89 mm continuum image itself is already held as hh-48-ne_edgeon-alma2020."
   }
  ],
  "notes": "AUTO-CREATED from staging - fill metadata & coords",
- "last_updated": "2026-09-11",
+ "last_updated": "2026-09-12",
  "plx_mas": 5.3986,
  "mags": {
   "V": 17.89,

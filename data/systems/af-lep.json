@@ -204,10 +204,98 @@
    "hires_url": "https://archive.stsci.edu/prepds/alice/",
    "epoch": "1998-11-14",
    "content": "continuum"
+  },
+  {
+   "image_id": "af-lep_jwst2024-jan",
+   "file": "images/af-lep/af-lep_jwst2024-jan.png",
+   "type": "planet",
+   "facility": "JWST",
+   "instrument": "NIRCam",
+   "wavelength_um": 4.44,
+   "wavelength_label": "F444W (4.44 um) coronagraphic detection; January 2024 epoch",
+   "technique": "coronagraphy (KLIP PSF subtraction)",
+   "content": "continuum",
+   "epoch": "2024-01-12",
+   "credit": "Franson et al. 2024, Fig. 1 (crop: F444W Jan 2024)",
+   "paper": {
+    "first_author": "Franson",
+    "year": 2024,
+    "title": "JWST/NIRCam 4-5 um Imaging of the Giant Planet AF Lep b",
+    "journal": "ApJL 974, L11",
+    "arxiv": "2406.09528",
+    "bibcode": "2024ApJ...974L..11F"
+   },
+   "note": "Top-right panel of Fig. 1: second-epoch F444W detection of AF Lep b (S/N 8.7). The October 2023 F444W epoch is held separately as af-lep_jwst2024."
+  },
+  {
+   "image_id": "af-lep_jwst2024-f200w",
+   "file": "images/af-lep/af-lep_jwst2024-f200w.png",
+   "type": "planet",
+   "facility": "JWST",
+   "instrument": "NIRCam",
+   "wavelength_um": 2.0,
+   "wavelength_label": "F200W (2.0 um) coronagraphic non-detection; October 2023 epoch",
+   "technique": "coronagraphy (KLIP PSF subtraction)",
+   "content": "continuum",
+   "epoch": "2023-10-12",
+   "credit": "Franson et al. 2024, Fig. 5 (crop)",
+   "paper": {
+    "first_author": "Franson",
+    "year": 2024,
+    "title": "JWST/NIRCam 4-5 um Imaging of the Giant Planet AF Lep b",
+    "journal": "ApJL 974, L11",
+    "arxiv": "2406.09528",
+    "bibcode": "2024ApJ...974L..11F"
+   },
+   "note": "Appendix Fig. 5 (all_imaging.pdf), top-left panel. AF Lep b not recovered (>5 sigma); white circle marks predicted position. In the flagged Fig. 1, F200W appears only as a contrast curve (out of scope); this is the corresponding observed image."
+  },
+  {
+   "image_id": "af-lep_jwst2024-f356w",
+   "file": "images/af-lep/af-lep_jwst2024-f356w.png",
+   "type": "planet",
+   "facility": "JWST",
+   "instrument": "NIRCam",
+   "wavelength_um": 3.56,
+   "wavelength_label": "F356W (3.56 um) coronagraphic non-detection; October 2023 epoch",
+   "technique": "coronagraphy (KLIP PSF subtraction)",
+   "content": "continuum",
+   "epoch": "2023-10-12",
+   "credit": "Franson et al. 2024, Fig. 5 (crop)",
+   "paper": {
+    "first_author": "Franson",
+    "year": 2024,
+    "title": "JWST/NIRCam 4-5 um Imaging of the Giant Planet AF Lep b",
+    "journal": "ApJL 974, L11",
+    "arxiv": "2406.09528",
+    "bibcode": "2024ApJ...974L..11F"
+   },
+   "note": "Appendix Fig. 5 (all_imaging.pdf), top-right panel. F356W not recovered (>5 sigma; 3.7 sigma speckle at the predicted position). In the flagged Fig. 1, F356W appears only as a contrast curve (out of scope); this is the corresponding observed image."
+  },
+  {
+   "image_id": "af-lep_keck-nirc2-lp",
+   "file": "images/af-lep/af-lep_keck-nirc2-lp.png",
+   "type": "planet",
+   "facility": "Keck",
+   "instrument": "NIRC2",
+   "wavelength_um": 3.8,
+   "wavelength_label": "L-prime (3.8 um) direct detection",
+   "technique": "ADI",
+   "content": "continuum",
+   "epoch": "2024-01-30",
+   "credit": "Franson et al. 2024, Fig. 5 (crop)",
+   "paper": {
+    "first_author": "Franson",
+    "year": 2024,
+    "title": "JWST/NIRCam 4-5 um Imaging of the Giant Planet AF Lep b",
+    "journal": "ApJL 974, L11",
+    "arxiv": "2406.09528",
+    "bibcode": "2024ApJ...974L..11F"
+   },
+   "note": "Appendix Fig. 5 (all_imaging.pdf), bottom-right panel. New Keck/NIRC2 L' imaging; AF Lep b recovered at 6.6 sigma. New instrument/band for the af-lep record set (all previous are JWST/NIRCam)."
   }
  ],
  "notes": "Independent discoveries: Mesa+2023 (A&A) and De Rosa+2023.",
- "last_updated": "2026-07-10",
+ "last_updated": "2026-09-12",
  "plx_mas": 37.2539,
  "mags": {
   "B": 6.832,

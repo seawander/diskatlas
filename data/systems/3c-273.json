@@ -157,9 +157,53 @@
    "file": "images/3c-273/3c-273_alma-band7.png",
    "epoch": "2018-2019",
    "content": "continuum"
+  },
+  {
+   "image_id": "3c-273_hst-wfpc2-f606w",
+   "file": "images/3c-273/3c-273_hst-wfpc2-f606w.png",
+   "type": "quasar",
+   "facility": "HST",
+   "instrument": "WFPC2",
+   "wavelength_um": 0.606,
+   "wavelength_label": "F606W (0.606 um) optical; QSO host + jet",
+   "technique": "optical imaging",
+   "content": "continuum",
+   "epoch": null,
+   "credit": "Komugi et al. 2022, Fig. 1a (crop)",
+   "paper": {
+    "first_author": "Komugi",
+    "year": 2022,
+    "title": "Detection of Extended Millimeter Emission in the Host Galaxy of 3C 273 and Its Implications for QSO Feedback via High Dynamic Range ALMA Imaging",
+    "journal": "ApJ 930, 3",
+    "arxiv": "2203.15218",
+    "bibcode": "2022ApJ...930....3K"
+   },
+   "note": "Panel a of Fig. 1: HST/WFPC2 F606W image obtained from the Hubble Legacy Archive. The paper gives no observation date (epoch null+flagged). Different instrument (WFPC2) from the atlas F606W records from ACS (3c-273_acs2003) and STIS (3c-273_stis2024)."
+  },
+  {
+   "image_id": "3c-273_vla-1.4ghz",
+   "file": "images/3c-273/3c-273_vla-1.4ghz.png",
+   "type": "quasar",
+   "facility": "VLA",
+   "instrument": "VLA",
+   "wavelength_um": 214000.0,
+   "wavelength_label": "1.4 GHz (21.4 cm) radio continuum; jet + radio lobe",
+   "technique": "radio interferometry",
+   "content": "continuum",
+   "epoch": null,
+   "credit": "Komugi et al. 2022, Fig. 1b (crop)",
+   "paper": {
+    "first_author": "Komugi",
+    "year": 2022,
+    "title": "Detection of Extended Millimeter Emission in the Host Galaxy of 3C 273 and Its Implications for QSO Feedback via High Dynamic Range ALMA Imaging",
+    "journal": "ApJ 930, 3",
+    "arxiv": "2203.15218",
+    "bibcode": "2022ApJ...930....3K"
+   },
+   "note": "Panel b of Fig. 1 RE-DISPLAYS the VLA 1.4 GHz image of 3C 273 from Perley & Meisenheimer (2017, A&A 601, A35); cited here to this paper per the crop rules. Original observation date not given, epoch null+flagged. First radio-band record for 3C 273 in the atlas."
   }
  ],
  "notes": "First entry of the quasar-host coronagraphy category. The brightest quasar in the sky; its host galaxy was imaged to 0.2 arcsec with HST/STIS RDI (Ren+2024).",
- "last_updated": "2026-07-08",
+ "last_updated": "2026-09-12",
  "redshift": 0.158
 }
