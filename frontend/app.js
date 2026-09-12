@@ -448,7 +448,10 @@ if (typeof window !== "undefined") (function () {
   }
 
   function clampView() {
-    view.ppd = Math.min(Math.max(view.ppd, minPPD), 1200);
+    /* max zoom deep enough to separate the densest clusters (e.g. Serpens):
+       12000 ppd ⇒ 1" ≈ 3.3 px, so systems ≥8" apart (health_check's duplicate
+       threshold) clear the 16-px markers. */
+    view.ppd = Math.min(Math.max(view.ppd, minPPD), 12000);
     const half = (H - (view.topInset || 0)) / 2 / view.ppd;   // half of the visible height, in degrees
     // keep the Dec axis within [-90, +90] (no scrolling past the poles)
     view.dec0 = half >= 90 ? 0 : Math.min(90 - half, Math.max(-90 + half, view.dec0));
