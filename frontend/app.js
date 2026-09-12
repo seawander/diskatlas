@@ -1437,10 +1437,10 @@ if (typeof window !== "undefined") (function () {
      with a single clean tag; the fragmented/internal tags (SPHERE-Ks-RDI,
      STIS-Ren) stay search-only. Only those actually present in the data get
      a chip; alphabetical (case-insensitive). */
-  const MAJOR_SURVEYS = ["AGE-PRO", "ALICE", "ARKS", "DARTTS-S", "DESTINYS-Orion",
-    "DSHARP", "eDisk", "exoALMA", "Gemini-LIGHTS", "GPIES-debris", "MAPS",
-    "ODISEA", "REASONS", "SEEDS", "Serpens-ALMA", "SONS", "SPHERE-debris-2025",
-    "Taurus-Long"];
+  const MAJOR_SURVEYS = ["AGE-PRO", "ALICE", "ARKS", "CALYPSO", "DARTTS-S",
+    "DESTINYS-Orion", "DSHARP", "eDisk", "exoALMA", "Gemini-LIGHTS",
+    "GPIES-debris", "JOYS", "MAPS", "ODISEA", "REASONS", "SEEDS",
+    "Serpens-ALMA", "SONS", "SPHERE-debris-2025", "Taurus-Long"];
   const presentSurveys = new Set(SYS.flatMap(s => (s.images || []).map(i => i.survey).filter(Boolean)));
   const ALL_SURVEYS = MAJOR_SURVEYS.filter(v => presentSurveys.has(v))
     .sort((a, b) => a.toLowerCase().localeCompare(b.toLowerCase()));
