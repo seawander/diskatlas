@@ -364,6 +364,32 @@ if (typeof window !== "undefined") (function () {
   let visible = new Set(SYS.map(s => s.id));
   let hoverId = null, currentSys = null, curImg = 0, currentView = "sky";
 
+  /* ---- filter-fold UI state ---------------------------------------------
+     `toggleEl` is the always-visible Filters button; it is assigned later (the
+     header exists by then), so updateToggleLabel() no-ops until it is set.
+     `facetsCollapsed` is declared with the view switcher further down. */
+  let toggleEl = null;
+  const groupFoldAppliers = [];        // per-group overflow folds, re-run on clear/undo
+  const FOLD_THRESHOLD = 8;            // groups larger than this start folded
+  const isPhone = () => !!(window.matchMedia && window.matchMedia("(max-width: 640px)").matches);
+  const isSmallScreen = () => !!(window.matchMedia &&
+    (window.matchMedia("(pointer: coarse)").matches || window.matchMedia("(max-width: 1100px)").matches));
+  function activeFacetCount() {
+    return ["facilities", "instruments", "bands", "missing", "content", "surveys"]
+      .reduce((n, k) => n + filters[k].size, 0);
+  }
+  function updateToggleLabel() {
+    if (!toggleEl) return;
+    const txt = toggleEl.querySelector(".ft_text");
+    if (txt) txt.textContent = t("btn_filters");
+    const badge = toggleEl.querySelector(".ft_badge");
+    const n = activeFacetCount();
+    if (badge) { badge.hidden = n === 0; badge.textContent = String(n); }
+    const chev = toggleEl.querySelector(".foldchev");
+    if (chev) chev.textContent = facetsCollapsed ? "▸" : "▾";
+    toggleEl.setAttribute("aria-expanded", String(!facetsCollapsed));
+  }
+
   /* ---- URL-hash deep links ----------------------------------------------
      #s=<id>&i=<n>&v=matrix|tonight&cat=<off,cats>&ph=1&img=1&b=<bands>
        &miss=<...>&fac=<facilities>&instr=<instruments>
@@ -899,6 +925,7 @@ if (typeof window !== "undefined") (function () {
     visible = new Set(filterSystems(SYS, filters, "").map(s => s.id));
     syncHash();
     draw();
+    updateToggleLabel();
     if (currentView === "matrix") buildMatrix();
     if (currentView === "tonight") computeTonight();
   }
@@ -1435,7 +1462,11 @@ if (typeof window !== "undefined") (function () {
     const wrap = document.createElement("div"); wrap.className = "fgroup";
     const lbl = document.createElement("span"); lbl.className = "flabel";
     lbl.dataset.i18n = titleKey; lbl.textContent = t(titleKey); wrap.appendChild(lbl);
-    for (const [val, key, literal] of entries) {
+    const overflow = entries.length > FOLD_THRESHOLD;
+    let folded = overflow;
+    let toggle = null;
+    const chips = [];
+    const makeChip = ([val, key, literal]) => {
       const c = document.createElement("span");
       c.className = "chip sm" + (set.has(val) ? " on" : "");
       c.dataset.val = val; c.dataset.group = titleKey;
@@ -1454,10 +1485,27 @@ if (typeof window !== "undefined") (function () {
           set.has(val) ? set.delete(val) : set.add(val); c.classList.toggle("on");
         }
         facetTouched();
+        applyFold();
         refilter(); updateRelHighlights();
       };
-      wrap.appendChild(c);
+      return c;
+    };
+    /* groups with too many chips start folded to a ▸N summary (band/content/missing
+       and the categories stay open); active chips always remain visible so the
+       current selection is never hidden */
+    if (overflow) {
+      toggle = document.createElement("span");
+      toggle.className = "chip sm foldtoggle"; toggle.title = t("fold_filters");
+      wrap.appendChild(toggle);
     }
+    for (const e of entries) { const c = makeChip(e); chips.push([e[0], c]); wrap.appendChild(c); }
+    function applyFold() {
+      if (!overflow) return;
+      chips.forEach(([val, c]) => { c.style.display = (!folded || set.has(val)) ? "" : "none"; });
+      toggle.textContent = (folded ? "▸ " : "▾ ") + entries.length;
+      toggle.classList.toggle("on", folded && chips.some(([val]) => set.has(val)));
+    }
+    if (overflow) { groupFoldAppliers.push(applyFold); applyFold(); }
     parent.appendChild(wrap);
   }
   /* When facilities are selected, brighten the instruments they host (and vice
@@ -1515,6 +1563,7 @@ if (typeof window !== "undefined") (function () {
         facetsBar.querySelectorAll(".chip.rel").forEach(c => c.classList.remove("rel"));
       }
       syncFacetClearLabel();
+      groupFoldAppliers.forEach(f => f());
       updateRelHighlights(); refilter();
     };
     syncFacetClearLabel();
@@ -1530,10 +1579,7 @@ if (typeof window !== "undefined") (function () {
   if (tabsEl) for (const [v, ico, key] of VIEWS) {
     const tb = document.createElement("button");
     tb.className = "vtab" + (v === "sky" ? " on" : ""); tb.dataset.v = v;
-    tb.innerHTML = '<span class="ico">' + ico + '</span> <span data-i18n="' + key + '"></span>' +
-      /* disclosure chevron on Sky: signals that clicking it folds the filter rows */
-      (v === "sky" ? ' <span class="foldchev" aria-hidden="true">▾</span>' : '');
-    if (v === "sky") tb.dataset.i18nTitle = "fold_filters";
+    tb.innerHTML = '<span class="ico">' + ico + '</span> <span data-i18n="' + key + '"></span>';
     tb.onclick = () => setView(v); tabsEl.appendChild(tb);
   }
   /* language selector */
@@ -1572,36 +1618,44 @@ if (typeof window !== "undefined") (function () {
     lh += '<span class="hint" data-i18n="' + (touch ? "leg_hint_touch" : "leg_hint") + '"></span>';
     legendEl.innerHTML = lh;
   }
-  /* phones start with the facet rows collapsed so the sky map isn't buried under
-     dozens of facility/instrument chips (same 640px breakpoint as the CSS);
-     tapping the Sky tab expands them as usual */
-  let facetsCollapsed = !!(window.matchMedia && window.matchMedia("(max-width: 640px)").matches);
-  /* BAND / MISSING / FACILITY / INSTRUMENT rows: Sky-tab only, and collapsible by
-     clicking the Sky tab again (bigger map). Category chips stay everywhere. */
+  /* Filter block visibility. Default folded on small/touch screens (or per the
+     user's last choice, persisted in localStorage); the always-visible Filters
+     button (top-right, by the view tabs) toggles it. Phones get a bottom sheet
+     over the map; tablet/desktop fold the block inline. */
+  let facetsCollapsed = (function () {
+    try {
+      const v = localStorage.getItem("atlas_facets");
+      if (v === "open") return false;
+      if (v === "closed") return true;
+    } catch (e) {}
+    return isSmallScreen();
+  })();
   function updateFacetVisibility() {
     const show = currentView === "sky" && !facetsCollapsed;
-    /* hide the whole facets row (incl. its border-top separator), not just the
-       chips inside, so no empty strip is left under the header */
-    if (facetsBar) facetsBar.style.display = show ? "" : "none";
-    ["facet_band", "facet_missing", "facet_facility", "facet_instrument"].forEach(k => {
-      const lbl = facetsBar && facetsBar.querySelector('.flabel[data-i18n="' + k + '"]');
-      if (lbl && lbl.closest(".fgroup")) lbl.closest(".fgroup").style.display = show ? "" : "none";
-    });
-    const hint = facetsBar && facetsBar.querySelector(".fhint");
-    if (hint) hint.style.display = show ? "" : "none";
-    const reset = facetsBar && facetsBar.querySelector(".chip.reset");
-    if (reset) reset.style.display = show ? "" : "none";
-    /* Sky-tab chevron: ▾ when the filters are open, ▸ when folded (hidden when
-       not on the Sky view; visibility keeps the tab width stable) */
-    const chev = tabsEl && tabsEl.querySelector('.vtab[data-v="sky"] .foldchev');
-    if (chev) {
-      chev.style.visibility = currentView === "sky" ? "visible" : "hidden";
-      chev.textContent = facetsCollapsed ? "▸" : "▾";
+    if (facetsBar) {
+      /* hide the whole facets block (incl. its border-top separator) when folded */
+      facetsBar.style.display = show ? "" : "none";
+      facetsBar.classList.toggle("sheet", show && isPhone());
+    }
+    if (toggleEl) {
+      toggleEl.style.display = currentView === "sky" ? "" : "none";
+      toggleEl.setAttribute("aria-expanded", String(!facetsCollapsed));
     }
   }
-  updateFacetVisibility();   /* apply the initial (mobile-collapsed) state at boot */
+  updateFacetVisibility();   /* apply the initial (possibly collapsed) state at boot */
+  /* the always-visible Filters button: fold/unfold the facet rows */
+  toggleEl = document.getElementById("filterstoggle");
+  if (toggleEl) {
+    toggleEl.onclick = () => {
+      facetsCollapsed = !facetsCollapsed;
+      try { localStorage.setItem("atlas_facets", facetsCollapsed ? "closed" : "open"); } catch (e) {}
+      updateFacetVisibility();
+      updateToggleLabel();
+      resize();                  /* inline fold changes the header height; sheet does not */
+    };
+    updateToggleLabel();
+  }
   function setView(v) {
-    if (v === "sky" && currentView === "sky") facetsCollapsed = !facetsCollapsed;
     /* re-clicking the active Coverage/Tonight tab returns to the Sky view */
     if (v !== "sky" && v === currentView) v = "sky";
     currentView = v;

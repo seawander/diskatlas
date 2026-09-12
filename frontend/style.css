@@ -258,6 +258,12 @@ table.mtx td .mk { vertical-align: middle; }
 #facets .flabel { color: var(--dim); font-size: 10.5px; text-transform: uppercase; letter-spacing: .5px; }
 .chip.sm { padding: 2px 8px; font-size: 11px; }
 .chip.reset { border-style: dashed; margin-left: auto; }   /* facet clear + category clear */
+.chip.foldtoggle { font-variant-numeric: tabular-nums; color: var(--accent); border-color: var(--accent); }
+/* the always-visible Filters button (top-right, beside the view tabs) */
+#filterstoggle { display: inline-flex; align-items: center; gap: 2px; }
+#filterstoggle .ft_badge { background: var(--accent); color: #071022; border-radius: 999px;
+  font-size: 10px; font-weight: 700; padding: 0 5px; line-height: 15px; margin-left: 4px; }
+#filterstoggle[hidden] { display: none; }
 
 /* ---- matrix + tonight overlays ----
    flex column so .mscroll (not the overlay) is the vertical scroller:
@@ -306,6 +312,15 @@ td.cell.gap::after { content: "·"; color: rgba(154,167,199,.35); }
   #search { width: 150px; font-size: 16px; }  /* >=16px stops iOS focus auto-zoom */
   #detail { width: 100vw; }
   #facets { gap: 8px; }
+  /* phones: the filter block becomes a bottom sheet over the map, so the map is
+     never pushed down. The Filters button stays in the header above it. */
+  #facets.sheet {
+    position: fixed; left: 0; right: 0; bottom: 0; top: auto; z-index: 30;
+    margin: 0; padding: 10px 14px calc(14px + env(safe-area-inset-bottom, 0px));
+    max-height: 72vh; overflow: auto;
+    background: var(--panel); border-top: 1px solid var(--line);
+    border-radius: 16px 16px 0 0; box-shadow: 0 -14px 34px rgba(0, 0, 0, .55);
+  }
   #ghlink .ghtext { display: none; }   /* icon-only GitHub badge on phones */
   #legend { max-width: calc(100vw - 70px); }
   /* bigger touch targets (>= ~44px) for the image nav + close on phones */
