@@ -152,6 +152,52 @@
    },
    "epoch": "2011-11-13",
    "note": "SerpM-S68Nb. Podio+2021 Table 1 position (18:29:48.707 +01:16:55.53) matches atlas s68nc1 (Aso+2019 S68Nc1) to 0.2 arcsec; S68Nb/S68Nc naming is inverted between Williams (2000) and Maury+2019. CO and SiO detected; SO imaged non-detection. Epoch from Maury et al. 2019 (A&A 621, A76) Table 7 observing log for the same CALYPSO tracks; Podio+2021 itself only gives the survey span Sep 2010 - Mar 2013."
+  },
+  {
+   "image_id": "s68nc1_francis19-b6-1.3mm",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 6",
+   "wavelength_um": 1300.0,
+   "wavelength_label": "1.3 mm (Band 6)",
+   "technique": "interferometry",
+   "content": "continuum",
+   "survey": null,
+   "file": "images/s68nc1/s68nc1_francis19-b6-1.3mm.png",
+   "credit": "Francis et al. 2019, Fig. 3 (crop)",
+   "paper": {
+    "first_author": "Francis",
+    "year": 2019,
+    "title": "Identifying Variability in Deeply Embedded Protostars with ALMA and CARMA",
+    "journal": "ApJ 871, 149",
+    "arxiv": "1902.00588",
+    "bibcode": "2019ApJ...871..149F"
+   },
+   "epoch": "2016-07-21",
+   "note": "Ser-emb 8N sub-field (2016 ALMA 1.3 mm). Panel shows Francis source ID 13, matching s68nc1 ([FJD2019] 13) to <3\". Epoch from the paper's ALMA observing setup (21 July 2016)."
+  },
+  {
+   "image_id": "s68nc1_legouellec19-cont",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 7 full-pol",
+   "wavelength_um": 870,
+   "wavelength_label": "870 um continuum",
+   "technique": "interferometry",
+   "survey": null,
+   "content": "continuum",
+   "file": "images/s68nc1/s68nc1_legouellec19-cont.png",
+   "credit": "Le Gouellec et al. 2019, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Le Gouellec",
+    "year": 2019,
+    "title": "Characterizing Magnetic Field Morphologies in Three Serpens Protostellar Cores with ALMA",
+    "journal": "ApJ 885, 106",
+    "arxiv": "1909.00046",
+    "bibcode": "2019ApJ...885..106L"
+   },
+   "epoch": "2015-2017",
+   "note": "Thermal dust continuum (Stokes I) with B-field segments (rotated 90 deg from polarization) overlaid; Serpens Emb 8(N) = atlas S68Nc1. Case-2 panel (datasets A+C, beam 0.26x0.22\"), 870 um. Epoch = datasets A (2015 Jun 3 & 7) and C (2017 Jul 31), per paper observing log. NOTE: task metadata specified Band 6 / 1.3 mm, but the paper's continuum+polarization data are 870 um Band 7; the 1.3 mm Band 6 data are CO/13CS/C18O/DCO line products only."
   }
  ],
  "notes": "Class 0 protostar (Tbol<40 K) driving its own 12CO outflow; a distinct core in the S68N region (Aso et al. 2019 Table 2).",

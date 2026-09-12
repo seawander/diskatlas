@@ -287,6 +287,52 @@
    },
    "epoch": "2012-02-04",
    "note": "IRAS4A field (A1 + A2). CO/SO/SiO all detected. Epoch from Maury et al. 2019 (A&A 621, A76) Table 7 observing log for the same CALYPSO tracks; Podio+2021 itself only gives the survey span Sep 2010 - Mar 2013."
+  },
+  {
+   "image_id": "ngc1333-iras4a_anderl16-c18o21",
+   "type": "disk_mm",
+   "facility": "IRAM-PdBI",
+   "instrument": "219 GHz (1.37 mm)",
+   "wavelength_um": 1365.4,
+   "wavelength_label": "C18O (2-1) integrated intensity (1.37 mm)",
+   "technique": "interferometry",
+   "content": "line",
+   "survey": "CALYPSO",
+   "file": "images/ngc1333-iras4a/ngc1333-iras4a_anderl16-c18o21.png",
+   "credit": "Anderl et al. 2016, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Anderl",
+    "year": 2016,
+    "title": "Probing the CO and methanol snow lines in young protostars. Results from the CALYPSO IRAM-PdBI survey",
+    "journal": "A&A 591, A3",
+    "arxiv": "1604.05121",
+    "bibcode": "2016A&A...591A...3A"
+   },
+   "epoch": "2010-2011",
+   "note": "IRAS4A (primary IRAS4A2). C18O (2-1) integrated-intensity contours (integrated over +/-3 km/s about v_LSR=+7.2 km/s) drawn over the N2H+ (1-0) integrated-intensity colour background. The small inset in this panel is the compact CH3OH (5_1-4_2) emission, staged as a separate record. Observed with the IRAM Plateau de Bure Interferometer (A and C configurations) between November 2010 and November 2011 (Sect. 2); the paper gives only this survey span, not per-source dates, so epoch is the span."
+  },
+  {
+   "image_id": "ngc1333-iras4a_anderl16-ch3oh",
+   "type": "disk_mm",
+   "facility": "IRAM-PdBI",
+   "instrument": "217 GHz (1.38 mm)",
+   "wavelength_um": 1381.9,
+   "wavelength_label": "CH3OH (5_1-4_2) integrated intensity (1.38 mm)",
+   "technique": "interferometry",
+   "content": "line",
+   "survey": "CALYPSO",
+   "file": "images/ngc1333-iras4a/ngc1333-iras4a_anderl16-ch3oh.png",
+   "credit": "Anderl et al. 2016, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Anderl",
+    "year": 2016,
+    "title": "Probing the CO and methanol snow lines in young protostars. Results from the CALYPSO IRAM-PdBI survey",
+    "journal": "A&A 591, A3",
+    "arxiv": "1604.05121",
+    "bibcode": "2016A&A...591A...3A"
+   },
+   "epoch": "2010-2011",
+   "note": "IRAS4A (primary IRAS4A2). Compact CH3OH (5_1-4_2) integrated-intensity inset of the Fig. 1 panel (central 2 arcsec; colour background and contours). Observed with the IRAM Plateau de Bure Interferometer (A and C configurations) between November 2010 and November 2011 (Sect. 2); the paper gives only this survey span, not per-source dates, so epoch is the span."
   }
  ],
  "notes": "Class 0 protostellar binary (1.8\" pair) resolved in SMA 0.9 mm continuum (Persson et al. 2016).",

@@ -36587,10 +36587,10 @@
   "reason": "title screen: out of scope (9k-frontier ladder triage)"
  },
  "2505.08002": {
-  "date": "2026-07-12",
-  "title": "JWST Observations of Young protoStars (JOYS). Overview of program and early results",
   "status": "excluded",
-  "reason": "title screen: out of scope (9k-frontier ladder triage)"
+  "reason": "JOYS program overview - no per-target sky-image panels.",
+  "date": "2026-09-11",
+  "title": ""
  },
  "2512.07573": {
   "date": "2026-07-12",
@@ -50600,10 +50600,10 @@
   "reason": "title screen: out of scope (9k-frontier ladder triage)"
  },
  "1909.00046": {
-  "date": "2026-07-12",
-  "title": "Characterizing Magnetic Field Morphologies in Three Serpens Protostellar Cores with ALMA",
-  "status": "excluded",
-  "reason": "title screen: out of scope (9k-frontier ladder triage)"
+  "status": "ingested",
+  "reason": "Serpens/Tong complementary batch 2026-09-11.",
+  "date": "2026-09-11",
+  "title": "Le Gouellec 2019 Serpens B-field ALMA continuum"
  },
  "15e215a83470950b781437bff33fd4d1e37dbd67": {
   "date": "2026-07-12",
@@ -52892,10 +52892,10 @@
   "reason": "title screen: out of scope (9k-frontier ladder triage)"
  },
  "2010.02186": {
-  "date": "2026-07-12",
-  "title": "On the Accuracy of the ALMA Flux Calibration in the Time Domain and across Spectral Windows",
   "status": "excluded",
-  "reason": "title screen: out of scope (9k-frontier ladder triage)"
+  "reason": "ALMA flux-calibration study; no per-target disk image panel.",
+  "date": "2026-09-11",
+  "title": ""
  },
  "ebda42df666f45ed0f2ac00eeff417046cde3ce3": {
   "date": "2026-07-12",
@@ -56384,10 +56384,10 @@
   "reason": "title screen: out of scope (9k-frontier ladder triage)"
  },
  "2102.02225": {
-  "date": "2026-07-12",
-  "title": "Water in star-forming regions: physics and chemistry from clouds to disks as probed by Herschel spectroscopy",
   "status": "excluded",
-  "reason": "title screen: out of scope (9k-frontier ladder triage)"
+  "reason": "WISH water spectra; no sky images.",
+  "date": "2026-09-11",
+  "title": ""
  },
  "6fe5f4660cd4b9c3e592ff10613d6d0a0119d1f9": {
   "date": "2026-07-12",
@@ -60397,5 +60397,89 @@
   "reason": "User-directed complementary-observation batch 2026-09-11 (Serpens/Tong context).",
   "date": "2026-09-11",
   "title": "Francis 2026 JOYS+ JWST/MIRI H2 winds"
+ },
+ "1902.00588": {
+  "status": "ingested",
+  "reason": "Serpens/Tong complementary batch 2026-09-11.",
+  "date": "2026-09-11",
+  "title": "Francis 2019 ALMA/CARMA variability (Tong targets)"
+ },
+ "1604.05121": {
+  "status": "ingested",
+  "reason": "Serpens/Tong complementary batch 2026-09-11.",
+  "date": "2026-09-11",
+  "title": "Anderl 2016 CALYPSO CO/CH3OH line maps"
+ },
+ "0801.2595": {
+  "status": "ingested",
+  "reason": "Serpens/Tong complementary batch 2026-09-11.",
+  "date": "2026-09-11",
+  "title": "Di Francesco 2008 SCUBA 850um debris-disk gallery"
+ },
+ "2302.09452": {
+  "status": "excluded",
+  "reason": "No 2-D line maps (only continuum pipeline maps + spectra); not a qualifying panel.",
+  "date": "2026-09-11",
+  "title": ""
+ },
+ "2511.04504": {
+  "status": "excluded",
+  "reason": "Target SDC335/IRAS 16272-4837 not in atlas and not a Tong target; no relevant panels.",
+  "date": "2026-09-11",
+  "title": ""
+ },
+ "2011.06731": {
+  "status": "excluded",
+  "reason": "Wide-field/polarization-diagnostic survey; no per-target sky-image gallery.",
+  "date": "2026-09-11",
+  "title": ""
+ },
+ "1902.10180": {
+  "status": "excluded",
+  "reason": "SCOPE survey description + catalogue/histograms; no per-target panels.",
+  "date": "2026-09-11",
+  "title": ""
+ },
+ "1006.0891": {
+  "status": "excluded",
+  "reason": "Wide-field HARP spectral-line survey; no per-target sky-image gallery.",
+  "date": "2026-09-11",
+  "title": ""
+ },
+ "1709.02052": {
+  "status": "excluded",
+  "reason": "Wide-field SCUBA-2 region co-adds (per-region, not per-target).",
+  "date": "2026-09-11",
+  "title": ""
+ },
+ "1410.3514": {
+  "status": "excluded",
+  "reason": "Wide-field CARMA LASA mosaic/moment maps; no per-target gallery.",
+  "date": "2026-09-11",
+  "title": ""
+ },
+ "2010.15241": {
+  "status": "excluded",
+  "reason": "Herschel Gould Belt census: wide-field column-density maps + catalogue.",
+  "date": "2026-09-11",
+  "title": ""
+ },
+ "2410.01636": {
+  "status": "excluded",
+  "reason": "JOYS overview of gaseous molecular emission - spectra, no sky images.",
+  "date": "2026-09-11",
+  "title": ""
+ },
+ "1006.1130": {
+  "status": "excluded",
+  "reason": "Spitzer PAH spectra; no sky images.",
+  "date": "2026-09-11",
+  "title": ""
+ },
+ "1104.0948": {
+  "status": "excluded",
+  "reason": "Spitzer mid-IR molecular spectra; no sky images.",
+  "date": "2026-09-11",
+  "title": ""
  }
 }

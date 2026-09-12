@@ -577,10 +577,33 @@
    },
    "file": "images/fomalhaut/fomalhaut_stis-2014.png",
    "epoch": "2014-09"
+  },
+  {
+   "image_id": "fomalhaut_scuba-850um-difrancesco08",
+   "file": "images/fomalhaut/fomalhaut_scuba-850um-difrancesco08.png",
+   "type": "disk_mm",
+   "facility": "JCMT",
+   "instrument": "SCUBA",
+   "wavelength_um": 850,
+   "wavelength_label": "850 um continuum (SCUBA Legacy re-reduction)",
+   "technique": "other",
+   "content": "continuum",
+   "survey": "SCUBA Legacy",
+   "credit": "Di Francesco et al. 2008, Fig. 6a (crop)",
+   "paper": {
+    "first_author": "Di Francesco",
+    "year": 2008,
+    "title": "The SCUBA Legacy Catalogues: Submillimeter-Continuum Objects Detected by SCUBA",
+    "journal": "ApJS 175, 277",
+    "arxiv": "0801.2595",
+    "bibcode": "2008ApJS..175..277D"
+   },
+   "note": "SCUBA archive span; the paper gives no per-target observing dates.",
+   "epoch": "1997-2004"
   }
  ],
  "notes": null,
- "last_updated": "2026-07-09",
+ "last_updated": "2026-09-12",
  "plx_mas": 129.81,
  "mags": {
   "U": 1.31,

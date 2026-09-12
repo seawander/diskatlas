@@ -1180,3 +1180,20 @@ to `protoplanetary`). Deliberately **not** ingested: Plunkett et al. 2018
 (1804.02405) Serpens South wide-field ALMA/IRAC maps — the paper has no per-target
 gallery, so cropping target-centred patches would violate the crop convention.
 Atlas: 961 systems / 4375 image records / 841 papers, 0 errors / 0 warnings.
+
+## 2026-09-11 (7) — Serpens/Tong complementary batch: all facilities
+
+Second pass over the targeted-paper worklist, covering every facility. In scope
+and ingested (+19): **Di Francesco et al. 2008** (0801.2595) SCUBA 850 µm
+debris-disk gallery — Fomalhaut, β Pic, AU Mic, Vega, ε Eri, η Crv (Fig. 6,
+per-target panels; epoch set to the SCUBA archive span 1997–2004); **Le Gouellec
+et al. 2019** (1909.00046) ALMA 870 µm continuum + B-field for S68N and S68Nc1
+(the polarized-intensity products already existed; added the missing continuum);
+**Francis et al. 2019** (1902.00588) ALMA/CARMA deep-embedded protostar
+variability for Ser-emb 2/2S and Ser-emb 8N; **Anderl et al. 2016** (1604.05121)
+CALYPSO C¹⁸O(2-1)/CH₃OH line maps. Excluded (with reasons in
+paper_finder_state): the wide-field/spectral surveys (Yen BISTRO, Eden SCOPE,
+Graves HARP, Herczeg SCUBA-2, Lee CARMA LASA, Fiorellino Herschel census),
+Kushwahaa 2023 (no 2-D line maps), Zou 2025 (target not in atlas), and the
+Herschel/Spitzer/JWST-ice/VLT/Keck spectroscopy papers. Net: +19 records, 961
+systems / 4394 records / 842 papers, 0 errors / 0 warnings.

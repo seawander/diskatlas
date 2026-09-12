@@ -336,6 +336,29 @@
    },
    "epoch": "2011-11-13",
    "note": "SerpM-S68N. CO, SO and SiO all detected (companion S68Nb marked in the panel). Epoch from Maury et al. 2019 (A&A 621, A76) Table 7 observing log for the same CALYPSO tracks; Podio+2021 itself only gives the survey span Sep 2010 - Mar 2013."
+  },
+  {
+   "image_id": "serpens-s68n_legouellec19-cont",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 7 full-pol",
+   "wavelength_um": 870,
+   "wavelength_label": "870 um continuum",
+   "technique": "interferometry",
+   "survey": null,
+   "content": "continuum",
+   "file": "images/serpens-s68n/serpens-s68n_legouellec19-cont.png",
+   "credit": "Le Gouellec et al. 2019, Fig. 8 (crop)",
+   "paper": {
+    "first_author": "Le Gouellec",
+    "year": 2019,
+    "title": "Characterizing Magnetic Field Morphologies in Three Serpens Protostellar Cores with ALMA",
+    "journal": "ApJ 885, 106",
+    "arxiv": "1909.00046",
+    "bibcode": "2019ApJ...885..106L"
+   },
+   "epoch": "2015-2017",
+   "note": "Thermal dust continuum (Stokes I) with B-field segments (rotated 90 deg from polarization) overlaid; Serpens Emb 8 = atlas S68N. Case-2 panel (datasets A+C, beam 0.20x0.16\"), 870 um. Epoch = datasets A (2015 Jun 3 & 7) and C (2017 Jul 31), per paper observing log. NOTE: task metadata specified Band 6 / 1.3 mm, but the paper's continuum+polarization data are 870 um Band 7; the 1.3 mm Band 6 data are CO/13CS/C18O/DCO line products only."
   }
  ],
  "notes": "Class 0 protostar (Lbol~14 Lsun, Tbol~30 K; Aso et al. 2019 Table 2), the core of the SMM9 condensation; a distinct source from the S68Nb and S68Nc protostars ~30 arcsec to the NE.",

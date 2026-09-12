@@ -173,6 +173,29 @@
    },
    "epoch": "2011-01-29",
    "note": "IRAM04191. Matched to atlas system IRAM 04191+1522 by name; note the Podio+2021 pointing (04:21:56.9 +15:29:46) is ~62 arcsec from the atlas system coordinate - verify. CO detected; SO and SiO are imaged non-detections (continuum only). Epoch from Maury et al. 2019 (A&A 621, A76) Table 7 observing log for the same CALYPSO tracks; Podio+2021 itself only gives the survey span Sep 2010 - Mar 2013."
+  },
+  {
+   "image_id": "iram-04191-1522_anderl16-c18o21",
+   "type": "disk_mm",
+   "facility": "IRAM-PdBI",
+   "instrument": "219 GHz (1.37 mm)",
+   "wavelength_um": 1365.4,
+   "wavelength_label": "C18O (2-1) integrated intensity (1.37 mm)",
+   "technique": "interferometry",
+   "content": "line",
+   "survey": "CALYPSO",
+   "file": "images/iram-04191-1522/iram-04191-1522_anderl16-c18o21.png",
+   "credit": "Anderl et al. 2016, Fig. A1 (crop)",
+   "paper": {
+    "first_author": "Anderl",
+    "year": 2016,
+    "title": "Probing the CO and methanol snow lines in young protostars. Results from the CALYPSO IRAM-PdBI survey",
+    "journal": "A&A 591, A3",
+    "arxiv": "1604.05121",
+    "bibcode": "2016A&A...591A...3A"
+   },
+   "epoch": "2010-2011",
+   "note": "IRAM 04191 (morphology class 4 representative of the full CALYPSO sample; weak compact C18O inside a large N2H+ ring). C18O (2-1) integrated-intensity contours (integrated over +/-3 km/s about v_LSR) drawn over the N2H+ (1-0) integrated-intensity colour background; no methanol inset. Observed with the IRAM Plateau de Bure Interferometer (A and C configurations) between November 2010 and November 2011 (Sect. 2); the paper gives only this survey span, not per-source dates, so epoch is the span."
   }
  ],
  "notes": "Proto-brown-dwarf binary (Class 0/I) in Taurus whose disc was resolved with ALMA Band 7 (Huélamo+2026).",

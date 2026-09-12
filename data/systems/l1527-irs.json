@@ -688,6 +688,29 @@
    },
    "epoch": "2013-02-16",
    "note": "L1527. CO detected (outflow); SO compact emission (disk/envelope origin); SiO imaged non-detection. Epoch from Maury et al. 2019 (A&A 621, A76) Table 7 observing log for the same CALYPSO tracks; Podio+2021 itself only gives the survey span Sep 2010 - Mar 2013."
+  },
+  {
+   "image_id": "l1527-irs_anderl16-c18o21",
+   "type": "disk_mm",
+   "facility": "IRAM-PdBI",
+   "instrument": "219 GHz (1.37 mm)",
+   "wavelength_um": 1365.4,
+   "wavelength_label": "C18O (2-1) integrated intensity (1.37 mm)",
+   "technique": "interferometry",
+   "content": "line",
+   "survey": "CALYPSO",
+   "file": "images/l1527-irs/l1527-irs_anderl16-c18o21.png",
+   "credit": "Anderl et al. 2016, Fig. A1 (crop)",
+   "paper": {
+    "first_author": "Anderl",
+    "year": 2016,
+    "title": "Probing the CO and methanol snow lines in young protostars. Results from the CALYPSO IRAM-PdBI survey",
+    "journal": "A&A 591, A3",
+    "arxiv": "1604.05121",
+    "bibcode": "2016A&A...591A...3A"
+   },
+   "epoch": "2010-2011",
+   "note": "L1527 (morphology class 2 representative of the full CALYPSO sample). C18O (2-1) integrated-intensity contours (integrated over +/-3 km/s about v_LSR) drawn over the N2H+ (1-0) integrated-intensity colour background; no methanol inset in this panel. Observed with the IRAM Plateau de Bure Interferometer (A and C configurations) between November 2010 and November 2011 (Sect. 2); the paper gives only this survey span, not per-source dates, so epoch is the span."
   }
  ],
  "notes": "Class 0 embedded protostar (eDisk)",
