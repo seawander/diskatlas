@@ -1496,6 +1496,7 @@ if (typeof window !== "undefined") (function () {
     if (overflow) {
       toggle = document.createElement("span");
       toggle.className = "chip sm foldtoggle"; toggle.title = t("fold_filters");
+      toggle.onclick = () => { folded = !folded; applyFold(); };
       wrap.appendChild(toggle);
     }
     for (const e of entries) { const c = makeChip(e); chips.push([e[0], c]); wrap.appendChild(c); }
