@@ -1433,6 +1433,23 @@ if (typeof window !== "undefined") (function () {
     (INSTR2FAC[i.instr_key] = INSTR2FAC[i.instr_key] || new Set()).add(k);
   }));
   const ALL_INSTR = [...instrSet].sort((a, b) => a.localeCompare(b));
+  /* survey <-> facility/instrument relation: which facilities/instruments a named
+     survey's records used (and vice versa), so selecting a survey lights up its
+     enabling facilities/instruments, and selecting one lights the surveys that
+     used it. Unlike FAC2INSTR this keeps every fac_key (a survey's joint A+B
+     composites are still that survey's data, not an accidental pairing). */
+  const SURV2FAC = {}, SURV2INSTR = {}, FAC2SURV = {}, INSTR2SURV = {};
+  SYS.forEach(s => (s.images || []).forEach(i => {
+    if (!i.survey) return;
+    (i.fac_keys || []).forEach(f => {
+      (SURV2FAC[i.survey] = SURV2FAC[i.survey] || new Set()).add(f);
+      (FAC2SURV[f] = FAC2SURV[f] || new Set()).add(i.survey);
+    });
+    if (i.instr_key) {
+      (SURV2INSTR[i.survey] = SURV2INSTR[i.survey] || new Set()).add(i.instr_key);
+      (INSTR2SURV[i.instr_key] = INSTR2SURV[i.instr_key] || new Set()).add(i.survey);
+    }
+  }));
   /* curated major programs for the SURVEY facet — recognizable named surveys
      with a single clean tag; the fragmented/internal tags (SPHERE-Ks-RDI,
      STIS-Ren) stay search-only. Only those actually present in the data get
@@ -1502,7 +1519,7 @@ if (typeof window !== "undefined") (function () {
     for (const e of entries) { const c = makeChip(e); chips.push([e[0], c]); wrap.appendChild(c); }
     function applyFold() {
       if (!overflow) return;
-      chips.forEach(([val, c]) => { c.style.display = (!folded || set.has(val)) ? "" : "none"; });
+      chips.forEach(([val, c]) => { c.style.display = (!folded || set.has(val) || c.classList.contains("rel")) ? "" : "none"; });
       toggle.textContent = (folded ? "▸ " : "▾ ") + entries.length;
       toggle.classList.toggle("on", folded && chips.some(([val]) => set.has(val)));
     }
@@ -1512,24 +1529,42 @@ if (typeof window !== "undefined") (function () {
   /* When facilities are selected, brighten the instruments they host (and vice
      versa) so users can see which instrument lives on which telescope. */
   function updateRelHighlights() {
-    const relInstr = new Set(), relFac = new Set();
+    const relInstr = new Set(), relFac = new Set(), relSurv = new Set();
     for (const f of filters.facilities) {
       (FAC2INSTR[f] || []).forEach(i => relInstr.add(i));
-      if (f === "VLT") (FAC2INSTR["VLTI"] || []).forEach(i => relInstr.add(i));
+      (FAC2SURV[f] || []).forEach(sv => relSurv.add(sv));
+      if (f === "VLT") {
+        (FAC2INSTR["VLTI"] || []).forEach(i => relInstr.add(i));
+        (FAC2SURV["VLTI"] || []).forEach(sv => relSurv.add(sv));
+      }
     }
     for (const i of filters.instruments) {
       (INSTR2FAC[i] || []).forEach(f => relFac.add(f));
+      (INSTR2SURV[i] || []).forEach(sv => relSurv.add(sv));
       /* a selected PARENT instrument (e.g. "SPHERE") also lights up its own
          sub-instruments (SPHERE/IRDIS, .../ZIMPOL, .../IFS) in the instrument
-         row, and relates to their facilities (VLT) too */
+         row, and relates to their facilities (VLT) and surveys too */
       if (!i.includes("/")) ALL_INSTR.forEach(k => {
-        if (k.startsWith(i + "/")) { relInstr.add(k); (INSTR2FAC[k] || []).forEach(f => relFac.add(f)); }
+        if (k.startsWith(i + "/")) {
+          relInstr.add(k);
+          (INSTR2FAC[k] || []).forEach(f => relFac.add(f));
+          (INSTR2SURV[k] || []).forEach(sv => relSurv.add(sv));
+        }
       });
+    }
+    /* a selected survey lights the facilities/instruments that enabled it */
+    for (const sv of filters.surveys) {
+      (SURV2FAC[sv] || []).forEach(f => relFac.add(f));
+      (SURV2INSTR[sv] || []).forEach(i => relInstr.add(i));
     }
     facetsBar.querySelectorAll('.chip[data-group="facet_instrument"]').forEach(c =>
       c.classList.toggle("rel", relInstr.has(c.dataset.val) && !c.classList.contains("on")));
     facetsBar.querySelectorAll('.chip[data-group="facet_facility"]').forEach(c =>
       c.classList.toggle("rel", relFac.has(c.dataset.val) && !c.classList.contains("on")));
+    facetsBar.querySelectorAll('.chip[data-group="facet_survey"]').forEach(c =>
+      c.classList.toggle("rel", relSurv.has(c.dataset.val) && !c.classList.contains("on")));
+    /* related chips stay visible even inside a folded (small-screen) group */
+    groupFoldAppliers.forEach(f => f());
   }
   if (facetsBar) {
     const bandEntries = WL_BANDS.map(b => [b.key, "band_" + b.key, b.label]).concat([["planet", "band_planet", "planet"]]);
