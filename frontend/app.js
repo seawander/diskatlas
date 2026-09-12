@@ -1462,7 +1462,7 @@ if (typeof window !== "undefined") (function () {
     const wrap = document.createElement("div"); wrap.className = "fgroup";
     const lbl = document.createElement("span"); lbl.className = "flabel";
     lbl.dataset.i18n = titleKey; lbl.textContent = t(titleKey); wrap.appendChild(lbl);
-    const overflow = entries.length > FOLD_THRESHOLD;
+    const overflow = entries.length > FOLD_THRESHOLD && isSmallScreen();
     let folded = overflow;
     let toggle = null;
     const chips = [];
@@ -1490,9 +1490,9 @@ if (typeof window !== "undefined") (function () {
       };
       return c;
     };
-    /* groups with too many chips start folded to a ▸N summary (band/content/missing
-       and the categories stay open); active chips always remain visible so the
-       current selection is never hidden */
+    /* on small screens (<~11 in) groups with too many chips start folded to a ▸N
+       dropdown summary; on large screens every chip shows so readers click less.
+       Active chips always remain visible so the selection is never hidden. */
     if (overflow) {
       toggle = document.createElement("span");
       toggle.className = "chip sm foldtoggle"; toggle.title = t("fold_filters");
