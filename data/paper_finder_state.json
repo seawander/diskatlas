@@ -58910,13 +58910,10 @@
   "reason": "abstract screen: no resolved in-scope imaging [thermochemical gap modeling]"
  },
  "2106.14409": {
-  "date": "2026-07-12",
-  "title": "Massive Compact Disks around FU Orionis–type Young Eruptive Stars Revealed by ALMA",
-  "status": "triaged-pass",
-  "reason": "ladder triage passed title+abstract+conclusion; figure-harvest queued/in progress",
-  "targets": [
-   "10 FUors"
-  ]
+  "status": "ingested",
+  "reason": "User-directed complementary-observation batch 2026-09-11 (Serpens/Tong context).",
+  "date": "2026-09-11",
+  "title": "Kóspál 2021 FU Orionis-type ALMA disks"
  },
  "2106.11924": {
   "date": "2026-07-12",
@@ -59499,10 +59496,10 @@
   ]
  },
  "2112.03297": {
-  "date": "2026-07-12",
-  "title": "The mass and size of Herbig disks as seen by ALMA",
-  "status": "excluded",
-  "reason": "abstract screen: no resolved in-scope imaging [archival mass-size demographics]"
+  "status": "ingested",
+  "reason": "User-directed complementary-observation batch 2026-09-11 (Serpens/Tong context).",
+  "date": "2026-09-11",
+  "title": "Stapper 2022 Herbig disks ALMA"
  },
  "2103.14048": {
   "date": "2026-07-12",
@@ -60382,5 +60379,23 @@
   "reason": "DQ Tau X-ray/IR spectra + thermochemical model figures; no observed sky-image panel.",
   "date": "2026-09-11",
   "title": ""
+ },
+ "1810.11221": {
+  "status": "ingested",
+  "reason": "User-directed complementary-observation batch 2026-09-11 (Serpens/Tong context).",
+  "date": "2026-09-11",
+  "title": "Maury 2019 CALYPSO IRAM-PdBI Class 0 disks"
+ },
+ "2012.15379": {
+  "status": "ingested",
+  "reason": "User-directed complementary-observation batch 2026-09-11 (Serpens/Tong context).",
+  "date": "2026-09-11",
+  "title": "Podio 2021 CALYPSO IRAM-PdBI jets"
+ },
+ "2604.13773": {
+  "status": "ingested",
+  "reason": "User-directed complementary-observation batch 2026-09-11 (Serpens/Tong context).",
+  "date": "2026-09-11",
+  "title": "Francis 2026 JOYS+ JWST/MIRI H2 winds"
  }
 }

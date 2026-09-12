@@ -127,8 +127,120 @@
    },
    "epoch": "2023-07-26",
    "content": "continuum"
+  },
+  {
+   "image_id": "bhr71-irs1_joysplus-co-mom0",
+   "type": "disk_mm",
+   "technique": "other",
+   "survey": "JOYS+",
+   "paper": {
+    "first_author": "Francis",
+    "year": 2026,
+    "title": "JOYS+: A JWST/MIRI survey of the evolution of H2 winds and jets from low-mass protostars",
+    "journal": null,
+    "arxiv": "2604.13773",
+    "bibcode": "2026A&A...711A.258F"
+   },
+   "epoch": "2023-07-26",
+   "file": "images/bhr71-irs1/bhr71-irs1_joysplus-co-mom0.png",
+   "credit": "Francis et al. 2026, Fig. 2 (crop)",
+   "facility": "ALMA",
+   "instrument": "Band 6",
+   "wavelength_um": 1300,
+   "wavelength_label": "CO (2-1) integrated intensity (moment-0)",
+   "content": "line",
+   "note": "Archival ALMA CO map re-reduced for this work (Table 2)."
+  },
+  {
+   "image_id": "bhr71-irs1_joysplus-h2-mom0",
+   "type": "disk_mm",
+   "technique": "other",
+   "survey": "JOYS+",
+   "paper": {
+    "first_author": "Francis",
+    "year": 2026,
+    "title": "JOYS+: A JWST/MIRI survey of the evolution of H2 winds and jets from low-mass protostars",
+    "journal": null,
+    "arxiv": "2604.13773",
+    "bibcode": "2026A&A...711A.258F"
+   },
+   "epoch": "2023-07-26",
+   "file": "images/bhr71-irs1/bhr71-irs1_joysplus-h2-mom0.png",
+   "credit": "Francis et al. 2026, Fig. 2 (crop)",
+   "facility": "JWST",
+   "instrument": "MIRI MRS",
+   "wavelength_um": 17.03,
+   "wavelength_label": "H2 S(1) 17.03 um integrated intensity (moment-0)",
+   "content": "line"
+  },
+  {
+   "image_id": "bhr71-irs1_joysplus-h2s7-mom0",
+   "type": "disk_mm",
+   "technique": "other",
+   "survey": "JOYS+",
+   "paper": {
+    "first_author": "Francis",
+    "year": 2026,
+    "title": "JOYS+: A JWST/MIRI survey of the evolution of H2 winds and jets from low-mass protostars",
+    "journal": null,
+    "arxiv": "2604.13773",
+    "bibcode": "2026A&A...711A.258F"
+   },
+   "epoch": "2023-07-26",
+   "file": "images/bhr71-irs1/bhr71-irs1_joysplus-h2s7-mom0.png",
+   "credit": "Francis et al. 2026, Fig. 2 (crop)",
+   "facility": "JWST",
+   "instrument": "MIRI MRS",
+   "wavelength_um": 5.51,
+   "wavelength_label": "H2 S(7) 5.51 um integrated intensity (moment-0)",
+   "content": "line"
+  },
+  {
+   "image_id": "bhr71-irs1_joysplus-co-mom1",
+   "type": "disk_mm",
+   "technique": "other",
+   "survey": "JOYS+",
+   "paper": {
+    "first_author": "Francis",
+    "year": 2026,
+    "title": "JOYS+: A JWST/MIRI survey of the evolution of H2 winds and jets from low-mass protostars",
+    "journal": null,
+    "arxiv": "2604.13773",
+    "bibcode": "2026A&A...711A.258F"
+   },
+   "epoch": "2023-07-26",
+   "file": "images/bhr71-irs1/bhr71-irs1_joysplus-co-mom1.png",
+   "credit": "Francis et al. 2026, Fig. 4 (crop)",
+   "facility": "ALMA",
+   "instrument": "Band 6",
+   "wavelength_um": 1300,
+   "wavelength_label": "CO (2-1) velocity field (moment-1)",
+   "content": "line",
+   "note": "Archival ALMA CO map re-reduced for this work (Table 2)."
+  },
+  {
+   "image_id": "bhr71-irs1_joysplus-h2-mom1",
+   "type": "disk_mm",
+   "technique": "other",
+   "survey": "JOYS+",
+   "paper": {
+    "first_author": "Francis",
+    "year": 2026,
+    "title": "JOYS+: A JWST/MIRI survey of the evolution of H2 winds and jets from low-mass protostars",
+    "journal": null,
+    "arxiv": "2604.13773",
+    "bibcode": "2026A&A...711A.258F"
+   },
+   "epoch": "2023-07-26",
+   "file": "images/bhr71-irs1/bhr71-irs1_joysplus-h2-mom1.png",
+   "credit": "Francis et al. 2026, Fig. 4 (crop)",
+   "facility": "JWST",
+   "instrument": "MIRI MRS",
+   "wavelength_um": 17.03,
+   "wavelength_label": "H2 S(1) 17.03 um velocity centroid (moment-1)",
+   "content": "line"
   }
  ],
  "notes": "Class 0 embedded protostar (eDisk)",
- "last_updated": "2026-07-11"
+ "last_updated": "2026-09-12"
 }

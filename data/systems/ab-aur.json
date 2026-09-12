@@ -879,10 +879,33 @@
     "bibcode": "2026arXiv260824661L"
    },
    "note": "Total intensity processed with PCA ADI (5 components); middle panel of Fig. 5. Right-hand LBT comparison panel excluded."
+  },
+  {
+   "image_id": "ab-aur_stapper22-b7",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 7",
+   "wavelength_um": 880,
+   "wavelength_label": "0.88 mm (Band 7)",
+   "technique": "interferometry",
+   "content": "continuum",
+   "survey": null,
+   "file": "images/ab-aur/ab-aur_stapper22-b7.png",
+   "credit": "Stapper et al. 2022, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Stapper",
+    "year": 2022,
+    "title": "The mass and size of Herbig disks as seen by ALMA",
+    "journal": "A&A 658, A112",
+    "arxiv": "2112.03297",
+    "bibcode": "2022A&A...658A.112S"
+   },
+   "epoch": "2019-12-10",
+   "note": "AB Aur 0.88 mm ALMA continuum. Paper Table C.1 lists 343.51 GHz (Band 7) but pairs it with project 2015.1.00889.S, which is Band 6; the frequency matches Band 7 project 2019.1.00063.S, used here for the epoch (ALMA archive obscore t_min). The paper gives only project IDs, no observing dates."
   }
  ],
  "notes": null,
- "last_updated": "2026-09-11",
+ "last_updated": "2026-09-12",
  "plx_mas": 6.4127,
  "mags": {
   "U": 7.2,

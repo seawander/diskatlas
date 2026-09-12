@@ -778,10 +778,33 @@
    },
    "file": "images/hd-135344b/hd-135344b_discs_sma_cont.png",
    "epoch": "2010-05-18"
+  },
+  {
+   "image_id": "hd-135344b_stapper22-b7",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 7",
+   "wavelength_um": 880,
+   "wavelength_label": "0.88 mm (Band 7)",
+   "technique": "interferometry",
+   "content": "continuum",
+   "survey": null,
+   "file": "images/hd-135344b/hd-135344b_stapper22-b7.png",
+   "credit": "Stapper et al. 2022, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Stapper",
+    "year": 2022,
+    "title": "The mass and size of Herbig disks as seen by ALMA",
+    "journal": "A&A 658, A112",
+    "arxiv": "2112.03297",
+    "bibcode": "2022A&A...658A.112S"
+   },
+   "epoch": "2014-07-21",
+   "note": "HD 135344B 0.88 mm ALMA continuum (project 2012.1.00870.S); epoch from ALMA archive obscore t_min (paper lists only project IDs)."
   }
  ],
  "notes": "Three-epoch J-band spiral pattern motion (2015/2016/2022) gives dynamical evidence for a spiral-arm-driving, gap-opening protoplanet (Xie et al. 2024).",
- "last_updated": "2026-07-10",
+ "last_updated": "2026-09-12",
  "plx_mas": 7.4074,
  "mags": {
   "B": 9.21,

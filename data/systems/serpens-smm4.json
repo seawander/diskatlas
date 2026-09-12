@@ -107,10 +107,125 @@
    },
    "note": "Previously known millimeter source (not part of the primary survey sample) detected at 1.3 mm in the higher-resolution ALMA data. ALMA Cycle 7 program 2019.1.00218.S. | component: serpens-smm4b",
    "survey": "Serpens-ALMA"
+  },
+  {
+   "image_id": "serpens-smm4_calypso13mm",
+   "type": "disk_mm",
+   "facility": "IRAM-PdBI",
+   "instrument": "231 GHz (1.3 mm)",
+   "wavelength_um": 1300,
+   "wavelength_label": "1.3 mm continuum (231 GHz)",
+   "technique": "interferometry",
+   "content": "continuum",
+   "survey": "CALYPSO",
+   "file": "images/serpens-smm4/serpens-smm4_calypso13mm.png",
+   "credit": "Maury et al. 2019, Fig. 18 (crop)",
+   "paper": {
+    "first_author": "Maury",
+    "year": 2019,
+    "title": "Characterizing young protostellar disks with the CALYPSO IRAM-PdBI survey: large Class 0 disks are rare",
+    "journal": "A&A 621, A76",
+    "arxiv": "1810.11221",
+    "bibcode": "2019A&A...621A..76M"
+   },
+   "epoch": "2011-2012",
+   "note": "CALYPSO IRAM-PdBI 1.3/3.3 mm dust continuum map of SerpM-SMM4 (SMM4a/SMM4b). SerpM-SMM4 primary protostar SMM4a (field also shows SMM4b). Combined 231+219 GHz (S1+S2) map, robust weighting (beam 0.74x0.33 in, sigma=1.5 mJy/beam). 231 GHz obs 2011 Mar 25; 219 GHz obs 2012 Feb 04,21,25."
+  },
+  {
+   "image_id": "serpens-smm4_calypso3mm",
+   "type": "disk_mm",
+   "facility": "IRAM-PdBI",
+   "instrument": "94 GHz (3.3 mm)",
+   "wavelength_um": 3000,
+   "wavelength_label": "3.3 mm continuum (94 GHz)",
+   "technique": "interferometry",
+   "content": "continuum",
+   "survey": "CALYPSO",
+   "file": "images/serpens-smm4/serpens-smm4_calypso3mm.png",
+   "credit": "Maury et al. 2019, Fig. 18 (crop)",
+   "paper": {
+    "first_author": "Maury",
+    "year": 2019,
+    "title": "Characterizing young protostellar disks with the CALYPSO IRAM-PdBI survey: large Class 0 disks are rare",
+    "journal": "A&A 621, A76",
+    "arxiv": "1810.11221",
+    "bibcode": "2019A&A...621A..76M"
+   },
+   "epoch": "2012-02-12",
+   "note": "CALYPSO IRAM-PdBI 1.3/3.3 mm dust continuum map of SerpM-SMM4 (SMM4a/SMM4b). SerpM-SMM4 primary protostar SMM4a (panel also shows SMM4b). 94 GHz (S3) map, robust weighting (beam 1.73x0.85 in, sigma=0.25 mJy/beam), obs 2012 Feb 12."
+  },
+  {
+   "image_id": "serpens-smm4_calypso-co21",
+   "type": "disk_mm",
+   "facility": "IRAM-PdBI",
+   "instrument": "231 GHz (1.3 mm)",
+   "wavelength_um": 1300.4,
+   "wavelength_label": "CO 2-1 integrated intensity (moment-0)",
+   "technique": "interferometry",
+   "content": "line",
+   "survey": "CALYPSO",
+   "file": "images/serpens-smm4/serpens-smm4_calypso-co21.png",
+   "credit": "Podio et al. 2021, Fig. 2 (crop)",
+   "paper": {
+    "first_author": "Podio",
+    "year": 2021,
+    "title": "The CALYPSO IRAM-PdBI survey of jets from Class 0 protostars: Exploring whether jets are ubiquitous in young stars",
+    "journal": "A&A 648, A45",
+    "arxiv": "2012.15379",
+    "bibcode": "2021A&A...648A..45P"
+   },
+   "epoch": "2011-03-25",
+   "note": "SerpM-SMM4 field (SMM4a + SMM4b). CO/SO/SiO all detected (jet driven by SMM4b). Epoch from Maury et al. 2019 (A&A 621, A76) Table 7 observing log for the same CALYPSO tracks; Podio+2021 itself only gives the survey span Sep 2010 - Mar 2013."
+  },
+  {
+   "image_id": "serpens-smm4_calypso-so",
+   "type": "disk_mm",
+   "facility": "IRAM-PdBI",
+   "instrument": "219 GHz (1.4 mm)",
+   "wavelength_um": 1363.0,
+   "wavelength_label": "SO 5_6-4_5 integrated intensity (moment-0)",
+   "technique": "interferometry",
+   "content": "line",
+   "survey": "CALYPSO",
+   "file": "images/serpens-smm4/serpens-smm4_calypso-so.png",
+   "credit": "Podio et al. 2021, Fig. 2 (crop)",
+   "paper": {
+    "first_author": "Podio",
+    "year": 2021,
+    "title": "The CALYPSO IRAM-PdBI survey of jets from Class 0 protostars: Exploring whether jets are ubiquitous in young stars",
+    "journal": "A&A 648, A45",
+    "arxiv": "2012.15379",
+    "bibcode": "2021A&A...648A..45P"
+   },
+   "epoch": "2012-02-04",
+   "note": "SerpM-SMM4 field (SMM4a + SMM4b). CO/SO/SiO all detected (jet driven by SMM4b). Epoch from Maury et al. 2019 (A&A 621, A76) Table 7 observing log for the same CALYPSO tracks; Podio+2021 itself only gives the survey span Sep 2010 - Mar 2013."
+  },
+  {
+   "image_id": "serpens-smm4_calypso-sio",
+   "type": "disk_mm",
+   "facility": "IRAM-PdBI",
+   "instrument": "219 GHz (1.4 mm)",
+   "wavelength_um": 1380.9,
+   "wavelength_label": "SiO 5-4 integrated intensity (moment-0)",
+   "technique": "interferometry",
+   "content": "line",
+   "survey": "CALYPSO",
+   "file": "images/serpens-smm4/serpens-smm4_calypso-sio.png",
+   "credit": "Podio et al. 2021, Fig. 2 (crop)",
+   "paper": {
+    "first_author": "Podio",
+    "year": 2021,
+    "title": "The CALYPSO IRAM-PdBI survey of jets from Class 0 protostars: Exploring whether jets are ubiquitous in young stars",
+    "journal": "A&A 648, A45",
+    "arxiv": "2012.15379",
+    "bibcode": "2021A&A...648A..45P"
+   },
+   "epoch": "2012-02-04",
+   "note": "SerpM-SMM4 field (SMM4a + SMM4b). CO/SO/SiO all detected (jet driven by SMM4b). Epoch from Maury et al. 2019 (A&A 621, A76) Table 7 observing log for the same CALYPSO tracks; Podio+2021 itself only gives the survey span Sep 2010 - Mar 2013."
   }
  ],
  "notes": "Protostar imaged at 1.3 mm in the Serpens Main ALMA survey (Aso et al. 2019).",
- "last_updated": "2026-09-11",
+ "last_updated": "2026-09-12",
  "plx_mas": null,
  "mags": {}
 }

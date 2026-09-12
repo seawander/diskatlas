@@ -35,8 +35,31 @@
    },
    "note": "1.3-mm dust-continuum detection from the higher-resolution ALMA survey (Cycle 7, program 2019.1.00218.S; mean beam 0.24\"x0.21\"). Epoch from Table 1 (three EBs, May-Jun 2021).",
    "survey": "Serpens-ALMA"
+  },
+  {
+   "image_id": "2mass-j18284786+0008397_stapper22-b6",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 6",
+   "wavelength_um": 1300,
+   "wavelength_label": "1.3 mm (Band 6)",
+   "technique": "interferometry",
+   "content": "continuum",
+   "survey": null,
+   "file": "images/2mass-j18284786+0008397/2mass-j18284786+0008397_stapper22-b6.png",
+   "credit": "Stapper et al. 2022, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Stapper",
+    "year": 2022,
+    "title": "The mass and size of Herbig disks as seen by ALMA",
+    "journal": "A&A 658, A112",
+    "arxiv": "2112.03297",
+    "bibcode": "2022A&A...658A.112S"
+   },
+   "epoch": "2019-12-30",
+   "note": "VV Ser 1.3 mm ALMA continuum (project 2019.1.00218.S); epoch from ALMA archive obscore t_min (paper lists only project IDs)."
   }
  ],
  "notes": "Serpens ALMA 1.3 mm disk survey (Tong et al. 2026, arXiv:2609.03759); coordinates from the survey catalogue.",
- "last_updated": "2026-09-11"
+ "last_updated": "2026-09-12"
 }

@@ -210,10 +210,33 @@
     "bibcode": "2026arXiv260530023K"
    },
    "content": "continuum"
+  },
+  {
+   "image_id": "v1247-ori_stapper22-b7",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 7",
+   "wavelength_um": 880,
+   "wavelength_label": "0.88 mm (Band 7)",
+   "technique": "interferometry",
+   "content": "continuum",
+   "survey": null,
+   "file": "images/v1247-ori/v1247-ori_stapper22-b7.png",
+   "credit": "Stapper et al. 2022, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Stapper",
+    "year": 2022,
+    "title": "The mass and size of Herbig disks as seen by ALMA",
+    "journal": "A&A 658, A112",
+    "arxiv": "2112.03297",
+    "bibcode": "2022A&A...658A.112S"
+   },
+   "epoch": "2017-12-03",
+   "note": "HD 290764 0.88 mm ALMA continuum (project 2017.1.01607.S); epoch from ALMA archive obscore t_min (paper lists only project IDs)."
   }
  ],
  "notes": "Spiral-arm pattern motion between the 2018 and 2023 SPHERE epochs is consistent with a companion-driven origin (Ren et al. 2024).",
- "last_updated": "2026-07-10",
+ "last_updated": "2026-09-12",
  "plx_mas": 2.4919,
  "mags": {
   "B": 10.18,

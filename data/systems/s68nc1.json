@@ -83,10 +83,79 @@
    },
    "note": "Previously known millimeter source (not part of the primary survey sample) detected at 1.3 mm in the higher-resolution ALMA data. ALMA Cycle 7 program 2019.1.00218.S. | component: serpens-s68nc1",
    "survey": "Serpens-ALMA"
+  },
+  {
+   "image_id": "s68nc1_calypso-co21",
+   "type": "disk_mm",
+   "facility": "IRAM-PdBI",
+   "instrument": "231 GHz (1.3 mm)",
+   "wavelength_um": 1300.4,
+   "wavelength_label": "CO 2-1 integrated intensity (moment-0)",
+   "technique": "interferometry",
+   "content": "line",
+   "survey": "CALYPSO",
+   "file": "images/s68nc1/s68nc1_calypso-co21.png",
+   "credit": "Podio et al. 2021, Fig. 2 (crop)",
+   "paper": {
+    "first_author": "Podio",
+    "year": 2021,
+    "title": "The CALYPSO IRAM-PdBI survey of jets from Class 0 protostars: Exploring whether jets are ubiquitous in young stars",
+    "journal": "A&A 648, A45",
+    "arxiv": "2012.15379",
+    "bibcode": "2021A&A...648A..45P"
+   },
+   "epoch": "2011-02-08",
+   "note": "SerpM-S68Nb. Podio+2021 Table 1 position (18:29:48.707 +01:16:55.53) matches atlas s68nc1 (Aso+2019 S68Nc1) to 0.2 arcsec; S68Nb/S68Nc naming is inverted between Williams (2000) and Maury+2019. CO and SiO detected; SO imaged non-detection. Epoch from Maury et al. 2019 (A&A 621, A76) Table 7 observing log for the same CALYPSO tracks; Podio+2021 itself only gives the survey span Sep 2010 - Mar 2013."
+  },
+  {
+   "image_id": "s68nc1_calypso-so",
+   "type": "disk_mm",
+   "facility": "IRAM-PdBI",
+   "instrument": "219 GHz (1.4 mm)",
+   "wavelength_um": 1363.0,
+   "wavelength_label": "SO 5_6-4_5 integrated intensity (moment-0)",
+   "technique": "interferometry",
+   "content": "line",
+   "survey": "CALYPSO",
+   "file": "images/s68nc1/s68nc1_calypso-so.png",
+   "credit": "Podio et al. 2021, Fig. 2 (crop)",
+   "paper": {
+    "first_author": "Podio",
+    "year": 2021,
+    "title": "The CALYPSO IRAM-PdBI survey of jets from Class 0 protostars: Exploring whether jets are ubiquitous in young stars",
+    "journal": "A&A 648, A45",
+    "arxiv": "2012.15379",
+    "bibcode": "2021A&A...648A..45P"
+   },
+   "epoch": "2011-11-13",
+   "note": "SerpM-S68Nb. Podio+2021 Table 1 position (18:29:48.707 +01:16:55.53) matches atlas s68nc1 (Aso+2019 S68Nc1) to 0.2 arcsec; S68Nb/S68Nc naming is inverted between Williams (2000) and Maury+2019. CO and SiO detected; SO imaged non-detection. Epoch from Maury et al. 2019 (A&A 621, A76) Table 7 observing log for the same CALYPSO tracks; Podio+2021 itself only gives the survey span Sep 2010 - Mar 2013."
+  },
+  {
+   "image_id": "s68nc1_calypso-sio",
+   "type": "disk_mm",
+   "facility": "IRAM-PdBI",
+   "instrument": "219 GHz (1.4 mm)",
+   "wavelength_um": 1380.9,
+   "wavelength_label": "SiO 5-4 integrated intensity (moment-0)",
+   "technique": "interferometry",
+   "content": "line",
+   "survey": "CALYPSO",
+   "file": "images/s68nc1/s68nc1_calypso-sio.png",
+   "credit": "Podio et al. 2021, Fig. 2 (crop)",
+   "paper": {
+    "first_author": "Podio",
+    "year": 2021,
+    "title": "The CALYPSO IRAM-PdBI survey of jets from Class 0 protostars: Exploring whether jets are ubiquitous in young stars",
+    "journal": "A&A 648, A45",
+    "arxiv": "2012.15379",
+    "bibcode": "2021A&A...648A..45P"
+   },
+   "epoch": "2011-11-13",
+   "note": "SerpM-S68Nb. Podio+2021 Table 1 position (18:29:48.707 +01:16:55.53) matches atlas s68nc1 (Aso+2019 S68Nc1) to 0.2 arcsec; S68Nb/S68Nc naming is inverted between Williams (2000) and Maury+2019. CO and SiO detected; SO imaged non-detection. Epoch from Maury et al. 2019 (A&A 621, A76) Table 7 observing log for the same CALYPSO tracks; Podio+2021 itself only gives the survey span Sep 2010 - Mar 2013."
   }
  ],
  "notes": "Class 0 protostar (Tbol<40 K) driving its own 12CO outflow; a distinct core in the S68N region (Aso et al. 2019 Table 2).",
- "last_updated": "2026-09-11",
+ "last_updated": "2026-09-12",
  "plx_mas": null,
  "mags": {}
 }

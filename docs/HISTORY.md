@@ -1154,3 +1154,29 @@ image) and candidate planet **f** to `hr-8799.planets[]` (status candidate, meth
 interferometry). The exclusion rationale (no conventional sky-image panel) was correct
 on its own terms; the user opted to include the significance map as the candidate's
 panel. Atlas: 961 systems / 4247 records / 834 papers, 0 errors / 0 warnings.
+
+## 2026-09-11 (6) — Serpens/Tong complementary-observation batch
+
+Follow-up to the Tong et al. (2026) Serpens ingestion: checked what other
+observations/papers exist for the 188 Tong targets. Method: SIMBAD per-object
+references for all 188 (`has_ref`→`ref`), kept only "targeted" papers (referenced
+by ≤8 of the 188; regional surveys excluded), and classified facilities from
+titles with word-boundary rules. Worklist saved to
+`data/paper_finder/tong_serpens_complementary_worklist.md`. Key finding: 184/188
+targets held only the Tong record in the atlas despite extensive prior coverage —
+**14** have a targeted prior ALMA paper (only 4 already in the atlas), plus JWST
+(5, mainly JOYS/JOYS+), X-ray (17), JCMT/SCUBA (9), CARMA (7), Herschel (6),
+CALYPSO PdBI (2), and more.
+
+Ingested five sky-image papers (parallel agents, VIEW-verified): **Kóspál et al.
+2021** (arXiv:2106.14409) FU Ori-type ALMA continuum (+3); **Stapper et al. 2022**
+(2112.03297) Herbig disk ALMA Band 6/7 continuum (+29); **Maury et al. 2019**
+(1810.11221) CALYPSO IRAM-PdBI 1.3/3.3 mm continuum (+14); **Podio et al. 2021**
+(2012.15379) CALYPSO CO/SO/SiO integrated maps (+27); **Francis et al. 2026**
+(2604.13773) JOYS+ JWST/MIRI H₂ + CO moment-0/1 maps (+55). Total **+128 records**;
+14 are Tong-system records, the remainder complementary records for other atlas
+systems appearing in the same figures (converted `v1787-ori` from a placeholder
+to `protoplanetary`). Deliberately **not** ingested: Plunkett et al. 2018
+(1804.02405) Serpens South wide-field ALMA/IRAC maps — the paper has no per-target
+gallery, so cropping target-centred patches would violate the crop convention.
+Atlas: 961 systems / 4375 image records / 841 papers, 0 errors / 0 warnings.

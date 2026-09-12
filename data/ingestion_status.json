@@ -1,6 +1,6 @@
 {
  "_doc": "Per-survey ingestion state. entries/coords/images: done|partial|todo. Update on every ingest.",
- "updated": "2026-09-11 (5): user-directed - HR 8799 candidate fifth planet. Added planet f (status candidate, JWST/NIRISS AMI F380M, obs 2023-08-03, ~150 mas / ~7 au) and its Fig. 1 central-panel delta-log-likelihood map (Nguyen 2026, arXiv:2609.10507). This reverses the earlier weekly-digest exclusion of the same paper. Atlas: 961 systems / 4247 records / 834 papers, 0 errors.",
+ "updated": "2026-09-11 (6): Serpens/Tong complementary-observation ingestion. Built a per-target worklist (data/paper_finder/tong_serpens_complementary_worklist.md) from SIMBAD refs of the 188 Tong systems, then ingested 5 sky-image papers among the same/other facilities: Kóspál 2021 FU Ori ALMA (+3), Stapper 2022 Herbig ALMA (+29), Maury 2019 CALYPSO PdBI (+14), Podio 2021 CALYPSO line maps (+27), Francis 2026 JOYS+ JWST/MIRI H2+CO maps (+55) = +128 records. 14 are Tong-system records; the rest are complementary records for other atlas systems in the same papers. Plunkett 2018 wide-field Serpens South maps were NOT split into per-target crops (no author gallery; convention). Atlas: 961 systems / 4375 records / 841 papers, 0 errors.",
  "surveys": {
   "DSHARP": {
    "entries": "done",
