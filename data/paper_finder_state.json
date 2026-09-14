@@ -60493,5 +60493,11 @@
   "reason": "Dyn-Atmo survey: JWST/NIRSpec IFU high-contrast imaging spectroscopy of HD 13724 B. Figures are spectra, point-cloud slices and retrieval/model fits; the direct-imaging (SPHERE) paper is in prep, so no published sky-image panel.",
   "date": "2026-09-14",
   "title": "The Dyn-Atmo Survey: High-contrast Imaging Spectroscopy of the Substellar Companion HD 13724 B with the JWST NIRSpec IFU"
+ },
+ "2609.13123": {
+  "status": "ingested",
+  "reason": "Cugno et al. 2026 JWST/MIRI F1140C (11.3 um) coronagraphic imaging of 5 disks: final-residual images ingested (+5; HD163296/J1615/J1842 extended disk emission; SYCha/LkCa15 imaged non-detections).",
+  "date": "2026-09-14",
+  "title": "JWST/MIRI Imaging Search for Kinematically Detected Protoplanetary Candidates"
  }
 }

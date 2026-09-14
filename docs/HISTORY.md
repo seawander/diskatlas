@@ -1234,3 +1234,15 @@ Atlas: 961 systems / 4413 image records / 842 papers, 0 errors / 0 warnings.
   ingest yet; flagged for a future digest when that paper appears.
 No records added; dispositions written to `paper_finder_state.json`.
 Atlas: 961 systems / 4413 image records / 842 papers, 0 errors / 0 warnings.
+
+## 2026-09-14 (2) — User-flagged: Cugno et al. MIRI imaging search
+
+Ingested **2609.13123** (Cugno, Benisty, Teague et al.), *JWST/MIRI Imaging Search for
+Kinematically Detected Protoplanetary Candidates*: MIRI F1140C (11.3 um) MASK1140
+coronagraphic imaging of five disks (HD 163296 GO 2153; J1615, J1842, SY Cha, LkCa 15
+GO 3254). One final-residual image record per target from the residual gallery (Fig. 2):
+extended 11.3 um disk emission is detected in HD 163296, J1615 and J1842, while SY Cha and
+LkCa 15 are imaged non-detections; no point-source companion is detected in any system.
+This is a distinct dataset from the existing MIRI-MRS line maps (Bajaj 2026) on these
+targets. Epochs recovered from MAST CAOM. Disposition stated on each record.
+Atlas: 961 systems / 4418 image records / 843 papers, 0 errors / 0 warnings.

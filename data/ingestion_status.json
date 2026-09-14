@@ -1,6 +1,6 @@
 {
  "_doc": "Per-survey ingestion state. entries/coords/images: done|partial|todo. Update on every ingest.",
- "updated": "2026-09-14: WEEKLY fresh_papers digest (7 days, 156 submissions, 2 hits) - both excluded. Dyn-Atmo survey pair: 2609.11828 GJ 758 B JWST/NIRSpec IFU template-matching spectroscopy (CCF detection maps + model posteriors) and 2609.11827 HD 13724 B high-contrast imaging spectroscopy (spectra + point-cloud slices); no direct sky-image panels. No records added. Atlas: 961 systems / 4413 records / 842 papers, 0 errors.",
+ "updated": "2026-09-14 (2): user-flagged paper 2609.13123 (Cugno et al., JWST/MIRI F1140C 11.3um coronagraphic imaging of HD163296, J1615, J1842, SY Cha, LkCa 15) ingested - 5 final-residual records; extended 11.3um disk detected in HD163296/J1615/J1842, imaged non-detections for SYCha/LkCa15; no companion detected in any. Epochs from MAST CAOM (GO 2153/3254). Atlas: 961 systems / 4418 records / 843 papers, 0 errors.",
  "surveys": {
   "DSHARP": {
    "entries": "done",

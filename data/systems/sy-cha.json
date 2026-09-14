@@ -342,10 +342,32 @@
    },
    "epoch": "2022-08-08",
    "content": "line"
+  },
+  {
+   "image_id": "sy-cha_miri-f1140c-final-res",
+   "file": "images/sy-cha/sy-cha_miri-f1140c-final-res.png",
+   "type": "disk_mm",
+   "facility": "JWST",
+   "instrument": "MIRI F1140C",
+   "wavelength_um": 11.3,
+   "wavelength_label": "F1140C (11.3 um) coronagraphic; no companion/disk emission detected (imaged non-detection)",
+   "technique": "coronagraphy + reference PSF subtraction (RDI)",
+   "content": "continuum",
+   "epoch": "2024-08-07",
+   "credit": "Cugno et al. 2026, Fig. 2 (crop)",
+   "paper": {
+    "first_author": "Cugno",
+    "year": 2026,
+    "title": "JWST/MIRI Imaging Search for Kinematically Detected Protoplanetary Candidates",
+    "journal": "arXiv e-prints",
+    "arxiv": "2609.13123",
+    "bibcode": "2026arXiv260913123C"
+   },
+   "note": "Imaged non-detection: no point-source companion and no extended 11.3 um disk emission; residuals are dominated by speckle noise. Final-residual panel of the MIRI F1140C coronagraphic residual gallery after inner-disk model subtraction and PCA PSF subtraction; JWST/MIRI Program GO 3254."
   }
  ],
  "notes": null,
- "last_updated": "2026-09-11",
+ "last_updated": "2026-09-14",
  "plx_mas": 5.533,
  "mags": {
   "G": 12.537558,
