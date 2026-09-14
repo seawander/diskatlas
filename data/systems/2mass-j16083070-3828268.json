@@ -112,8 +112,30 @@
     "bibcode": "2019A&A...624A...7V"
    },
    "note": "Bottom row of Fig. 1: J-band non-coronagraphic polarized intensity (PI). H-band PI is held separately as 2mass-j16083070-3828268_sphere2019. Q_phi/U_phi panels are display variants of the same product and were not added."
+  },
+  {
+   "image_id": "2mass-j16083070-3828268_ispy-naco-lp",
+   "type": "disk_scattered",
+   "facility": "VLT-NACO",
+   "instrument": "NACO",
+   "wavelength_um": 3.8,
+   "wavelength_label": "L' (3.8 um) ADI disk image",
+   "technique": "ADI",
+   "survey": "ISPY",
+   "content": "continuum",
+   "file": "images/2mass-j16083070-3828268/2mass-j16083070-3828268_ispy-naco-lp.png",
+   "credit": "Cugno et al. 2023, Fig. 5 (crop)",
+   "paper": {
+    "first_author": "Cugno",
+    "year": 2023,
+    "title": "ISPY: NACO Imaging Survey for Planets around Young stars. The demographics of forming planets embedded in protoplanetary disks",
+    "journal": "A&A 669, A145",
+    "arxiv": "2211.15434",
+    "bibcode": "2023A&A...669A.145C"
+   },
+   "epoch": "2018-06-06"
   }
  ],
  "notes": "Transition disk in Lupus 3 with resolved cavity; VLT/SPHERE IRDIS PDI (H- and J-band) polarized-intensity imaging shows two bright crescents flanking a dark cavity plus a faint 'rear-facing' near side, indicating a moderately inclined disk (Villenave et al. 2019, arXiv:1902.04612, also covers RX J1852.3-3700 = J1852, already in atlas).",
- "last_updated": "2026-09-12"
+ "last_updated": "2026-09-14"
 }

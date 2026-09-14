@@ -324,10 +324,32 @@
    },
    "epoch": "2016-04-28",
    "note": "HD 34282 1.3 mm ALMA continuum (project 2015.1.00192.S); epoch from ALMA archive obscore t_min (paper lists only project IDs)."
+  },
+  {
+   "image_id": "hd-34282_ispy-naco-lp",
+   "type": "disk_scattered",
+   "facility": "VLT-NACO",
+   "instrument": "NACO",
+   "wavelength_um": 3.8,
+   "wavelength_label": "L' (3.8 um) ADI disk image",
+   "technique": "ADI",
+   "survey": "ISPY",
+   "content": "continuum",
+   "file": "images/hd-34282/hd-34282_ispy-naco-lp.png",
+   "credit": "Cugno et al. 2023, Fig. 5 (crop)",
+   "paper": {
+    "first_author": "Cugno",
+    "year": 2023,
+    "title": "ISPY: NACO Imaging Survey for Planets around Young stars. The demographics of forming planets embedded in protoplanetary disks",
+    "journal": "A&A 669, A145",
+    "arxiv": "2211.15434",
+    "bibcode": "2023A&A...669A.145C"
+   },
+   "epoch": "2016-11-07"
   }
  ],
  "notes": null,
- "last_updated": "2026-09-12",
+ "last_updated": "2026-09-14",
  "plx_mas": 3.2403,
  "mags": {
   "U": 10.19,

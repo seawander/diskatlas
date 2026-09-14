@@ -1291,10 +1291,33 @@
    },
    "epoch": "2022-08-01",
    "content": "line"
+  },
+  {
+   "image_id": "pds-70_ispy-naco-lp",
+   "type": "disk_scattered",
+   "facility": "VLT-NACO",
+   "instrument": "NACO",
+   "wavelength_um": 3.8,
+   "wavelength_label": "L' (3.8 um) ADI disk image",
+   "technique": "ADI",
+   "survey": "ISPY",
+   "content": "continuum",
+   "file": "images/pds-70/pds-70_ispy-naco-lp.png",
+   "credit": "Cugno et al. 2023, Fig. 5 (crop)",
+   "paper": {
+    "first_author": "Cugno",
+    "year": 2023,
+    "title": "ISPY: NACO Imaging Survey for Planets around Young stars. The demographics of forming planets embedded in protoplanetary disks",
+    "journal": "A&A 669, A145",
+    "arxiv": "2211.15434",
+    "bibcode": "2023A&A...669A.145C"
+   },
+   "epoch": "2016-06-01",
+   "note": "L' image shows the two known forming protoplanets PDS 70 b and c as bright point sources within the disk cavity (also a background star to the north)."
   }
  ],
  "notes": "The only system with two confirmed planets caught in formation inside its disk cavity (Keppler+2018; Haffert+2019).",
- "last_updated": "2026-09-11",
+ "last_updated": "2026-09-14",
  "plx_mas": 8.8975,
  "mags": {
   "B": 13.42,

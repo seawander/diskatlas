@@ -1,0 +1,42 @@
+{
+ "id": "hd-58647",
+ "name": "HD 58647",
+ "alt_names": [],
+ "simbad": "HD 58647",
+ "ra_deg": 111.48374396,
+ "dec_deg": -14.17876351,
+ "dist_pc": 304.6,
+ "plx_mas": 3.2831,
+ "sptype": "B9IV",
+ "region": null,
+ "categories": [
+  "protoplanetary"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "image_id": "hd-58647_ispy-naco-lp",
+   "type": "disk_scattered",
+   "facility": "VLT-NACO",
+   "instrument": "NACO",
+   "wavelength_um": 3.8,
+   "wavelength_label": "L' (3.8 um) ADI disk image",
+   "technique": "ADI",
+   "survey": "ISPY",
+   "content": "continuum",
+   "file": "images/hd-58647/hd-58647_ispy-naco-lp.png",
+   "credit": "Cugno et al. 2023, Fig. 5 (crop)",
+   "paper": {
+    "first_author": "Cugno",
+    "year": 2023,
+    "title": "ISPY: NACO Imaging Survey for Planets around Young stars. The demographics of forming planets embedded in protoplanetary disks",
+    "journal": "A&A 669, A145",
+    "arxiv": "2211.15434",
+    "bibcode": "2023A&A...669A.145C"
+   },
+   "epoch": "2018-06-04"
+  }
+ ],
+ "notes": "Herbig Ae/Be star with a resolved L' disk image (ISPY, Cugno et al. 2023).",
+ "last_updated": "2026-09-14"
+}

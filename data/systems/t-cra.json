@@ -35,8 +35,30 @@
    },
    "file": "images/t-cra/t-cra_destinys_hband_qphi.png",
    "epoch": "2021-06-06"
+  },
+  {
+   "image_id": "t-cra_ispy-naco-lp",
+   "type": "disk_scattered",
+   "facility": "VLT-NACO",
+   "instrument": "NACO",
+   "wavelength_um": 3.8,
+   "wavelength_label": "L' (3.8 um) ADI disk image",
+   "technique": "ADI",
+   "survey": "ISPY",
+   "content": "continuum",
+   "file": "images/t-cra/t-cra_ispy-naco-lp.png",
+   "credit": "Cugno et al. 2023, Fig. 5 (crop)",
+   "paper": {
+    "first_author": "Cugno",
+    "year": 2023,
+    "title": "ISPY: NACO Imaging Survey for Planets around Young stars. The demographics of forming planets embedded in protoplanetary disks",
+    "journal": "A&A 669, A145",
+    "arxiv": "2211.15434",
+    "bibcode": "2023A&A...669A.145C"
+   },
+   "epoch": "2017-05-15"
   }
  ],
  "notes": "Herbig star in Coronet/CrA; DESTINYS SPHERE H-band DPI resolves the disk with dark lane plus extended emission features and tail (Rigliaco et al. 2023); no atlas system exists (name+coord grep negative)",
- "last_updated": "2026-07-16"
+ "last_updated": "2026-09-14"
 }

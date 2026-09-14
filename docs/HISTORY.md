@@ -1246,3 +1246,19 @@ LkCa 15 are imaged non-detections; no point-source companion is detected in any 
 This is a distinct dataset from the existing MIRI-MRS line maps (Bajaj 2026) on these
 targets. Epochs recovered from MAST CAOM. Disposition stated on each record.
 Atlas: 961 systems / 4418 image records / 843 papers, 0 errors / 0 warnings.
+
+## 2026-09-14 — ISPY NaCo L' survey re-ingested (exclusion reversed)
+
+A 2026-07-12 **abstract-screen exclusion** of **Cugno et al. 2023** (arXiv:2211.15434,
+A&A 669, A145) — *"ISPY: NACO Imaging Survey for Planets around Young stars"* — was
+wrong: the screen saw only occurrence-rate/detection-limit language and missed the
+figure. The paper's **Fig. 5 (`Disk_collection.pdf`)** is a 17-panel NaCo L′ gallery
+of detected protoplanetary disks, squarely in scope. Ingested all 17 as
+`disk_scattered` / ADI records (credit "Cugno et al. 2023, Fig. 5 (crop)"; epochs
+from the paper's Appendix observing table): V892 Tau, HD 34282, MWC 758 (HD 36112),
+CQ Tau (HD 36910), **HD 58647** (new), **HD 72106** (new), HD 100453, HD 100546,
+PDS 70, HD 141569, HD 142527, MY Lup, TYC 7851-810-1 (2mass-j16083070-3828268),
+AK Sco (HD 152404), HD 163296, T CrA, MWC 614 (HD 179218). The PCA-ADI
+`Residuals_1/2/3` figures stay out of scope (residual maps). Two new systems created
+(HD 58647 B9IV, HD 72106 A0IV). Atlas: 963 systems / 4435 records / 844 papers,
+0 errors / 0 warnings.

@@ -38555,10 +38555,10 @@
   "reason": "title screen: out of scope (9k-frontier ladder triage)"
  },
  "2211.15434": {
-  "date": "2026-07-12",
-  "title": "ISPY: NACO Imaging Survey for Planets around Young stars. The demographics of forming planets embedded in protoplanetary",
-  "status": "excluded",
-  "reason": "abstract screen: no resolved in-scope imaging [occurrence rates, detection limits only]"
+  "status": "ingested",
+  "reason": "Re-ingested 2026-09-14: earlier abstract-screen exclusion was wrong - the paper has an in-scope NaCo L' disk gallery (Fig. 5, Disk_collection.pdf).",
+  "date": "2026-09-14",
+  "title": "ISPY: NACO Imaging Survey for Planets around Young stars"
  },
  "2205.09138": {
   "date": "2026-07-12",

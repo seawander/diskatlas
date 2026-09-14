@@ -1690,6 +1690,28 @@
     "bibcode": "2026arXiv260913123C"
    },
    "note": "Extended 11.3 um disk emission detected out to the CO outer radius (~5 arcsec); no point-source companion detected. Final-residual panel of the MIRI F1140C coronagraphic residual gallery (inner-disk model subtracted); JWST/MIRI Program GO 2153 (two visits with identical roll angle)."
+  },
+  {
+   "image_id": "hd-163296_ispy-naco-lp",
+   "type": "disk_scattered",
+   "facility": "VLT-NACO",
+   "instrument": "NACO",
+   "wavelength_um": 3.8,
+   "wavelength_label": "L' (3.8 um) ADI disk image",
+   "technique": "ADI",
+   "survey": "ISPY",
+   "content": "continuum",
+   "file": "images/hd-163296/hd-163296_ispy-naco-lp.png",
+   "credit": "Cugno et al. 2023, Fig. 5 (crop)",
+   "paper": {
+    "first_author": "Cugno",
+    "year": 2023,
+    "title": "ISPY: NACO Imaging Survey for Planets around Young stars. The demographics of forming planets embedded in protoplanetary disks",
+    "journal": "A&A 669, A145",
+    "arxiv": "2211.15434",
+    "bibcode": "2023A&A...669A.145C"
+   },
+   "epoch": "2019-07-13"
   }
  ],
  "notes": null,

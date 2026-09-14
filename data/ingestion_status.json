@@ -1,6 +1,6 @@
 {
  "_doc": "Per-survey ingestion state. entries/coords/images: done|partial|todo. Update on every ingest.",
- "updated": "2026-09-14 (2): user-flagged paper 2609.13123 (Cugno et al., JWST/MIRI F1140C 11.3um coronagraphic imaging of HD163296, J1615, J1842, SY Cha, LkCa 15) ingested - 5 final-residual records; extended 11.3um disk detected in HD163296/J1615/J1842, imaged non-detections for SYCha/LkCa15; no companion detected in any. Epochs from MAST CAOM (GO 2153/3254). Atlas: 961 systems / 4418 records / 843 papers, 0 errors.",
+ "updated": "2026-09-14: Re-ingested the ISPY NaCo L' survey (Cugno 2023, arXiv:2211.15434) - the 2026-07-12 abstract-screen exclusion was wrong; the paper publishes Fig. 5 'Disk_collection.pdf', a 17-panel NaCo L' gallery of detected protoplanetary disks. Ingested all 17 (2 new systems: HD 58647, HD 72106). PCA-ADI residual figures (Residuals_1/2/3) remain out of scope. Atlas: 963 systems / 4435 records / 844 papers, 0 errors.",
  "surveys": {
   "DSHARP": {
    "entries": "done",

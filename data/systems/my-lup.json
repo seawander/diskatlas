@@ -276,10 +276,32 @@
    },
    "epoch": "2023-08-13",
    "content": "line"
+  },
+  {
+   "image_id": "my-lup_ispy-naco-lp",
+   "type": "disk_scattered",
+   "facility": "VLT-NACO",
+   "instrument": "NACO",
+   "wavelength_um": 3.8,
+   "wavelength_label": "L' (3.8 um) ADI disk image",
+   "technique": "ADI",
+   "survey": "ISPY",
+   "content": "continuum",
+   "file": "images/my-lup/my-lup_ispy-naco-lp.png",
+   "credit": "Cugno et al. 2023, Fig. 5 (crop)",
+   "paper": {
+    "first_author": "Cugno",
+    "year": 2023,
+    "title": "ISPY: NACO Imaging Survey for Planets around Young stars. The demographics of forming planets embedded in protoplanetary disks",
+    "journal": "A&A 669, A145",
+    "arxiv": "2211.15434",
+    "bibcode": "2023A&A...669A.145C"
+   },
+   "epoch": "2018-06-04"
   }
  ],
  "notes": null,
- "last_updated": "2026-09-11",
+ "last_updated": "2026-09-14",
  "plx_mas": 6.363,
  "mags": {
   "B": 12.64,
