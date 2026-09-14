@@ -1456,7 +1456,7 @@ if (typeof window !== "undefined") (function () {
      a chip; alphabetical (case-insensitive). */
   const MAJOR_SURVEYS = ["AGE-PRO", "ALICE", "ARKS", "CALYPSO", "DARTTS-S",
     "DESTINYS-Orion", "DSHARP", "eDisk", "exoALMA", "Gemini-LIGHTS",
-    "GPIES-debris", "JOYS", "MAPS", "ODISEA", "REASONS", "SEEDS",
+    "GPIES-debris", "ISPY", "JOYS", "MAPS", "ODISEA", "REASONS", "SEEDS",
     "Serpens-ALMA", "SONS", "SPHERE-debris-2025", "Taurus-Long"];
   const presentSurveys = new Set(SYS.flatMap(s => (s.images || []).map(i => i.survey).filter(Boolean)));
   const ALL_SURVEYS = MAJOR_SURVEYS.filter(v => presentSurveys.has(v))
