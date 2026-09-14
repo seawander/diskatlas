@@ -1,6 +1,6 @@
 {
  "_doc": "Per-survey ingestion state. entries/coords/images: done|partial|todo. Update on every ingest.",
- "updated": "2026-09-11 (8): completeness pass - panel_audit caption-gaps resolved. Ran panel_audit (245 flags: 46 multiband / 93 review / 106 variant) and adjudicated all 46 multiband flags with 4 crop agents: 19 genuine missing panels ingested across 12 systems (WL 17 Band 6+7, SR 21 Band 3, CIDA 9 Band 6, HL Tau 1.3mm, RX J1615 12CO 6-5, AB Aur LBTI L'/Ks, AF Lep F444W Jan-2024 + F200W/F356W non-detections + Keck L', J1608 J-band PI, AT Pyx NACO L'/SPHERE K, Z CMa JVLA Ka, HH 48 NE CO 3-2, 3C 273 HST+VLA); the rest confirmed false positives. system_audit over 49 landmark systems (title-filtered): paper-complete. survey_recall: 0 survey gaps. Atlas: 961 systems / 4413 records / 842 papers, 0 errors.",
+ "updated": "2026-09-14: WEEKLY fresh_papers digest (7 days, 156 submissions, 2 hits) - both excluded. Dyn-Atmo survey pair: 2609.11828 GJ 758 B JWST/NIRSpec IFU template-matching spectroscopy (CCF detection maps + model posteriors) and 2609.11827 HD 13724 B high-contrast imaging spectroscopy (spectra + point-cloud slices); no direct sky-image panels. No records added. Atlas: 961 systems / 4413 records / 842 papers, 0 errors.",
  "surveys": {
   "DSHARP": {
    "entries": "done",

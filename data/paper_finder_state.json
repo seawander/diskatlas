@@ -60481,5 +60481,17 @@
   "reason": "Spitzer mid-IR molecular spectra; no sky images.",
   "date": "2026-09-11",
   "title": ""
+ },
+ "2609.11828": {
+  "status": "excluded",
+  "reason": "Dyn-Atmo survey: JWST/NIRSpec IFU template-matching spectroscopy of GJ 758 B. Figures are CCF/log-flux detection maps, atmospheric-model posteriors and mass-sensitivity curves; no direct sky-image panel.",
+  "date": "2026-09-14",
+  "title": "The Dyn-Atmo Survey: JWST/NIRSpec IFU spectroscopy of the dynamical-mass benchmark GJ 758 B"
+ },
+ "2609.11827": {
+  "status": "excluded",
+  "reason": "Dyn-Atmo survey: JWST/NIRSpec IFU high-contrast imaging spectroscopy of HD 13724 B. Figures are spectra, point-cloud slices and retrieval/model fits; the direct-imaging (SPHERE) paper is in prep, so no published sky-image panel.",
+  "date": "2026-09-14",
+  "title": "The Dyn-Atmo Survey: High-contrast Imaging Spectroscopy of the Substellar Companion HD 13724 B with the JWST NIRSpec IFU"
  }
 }

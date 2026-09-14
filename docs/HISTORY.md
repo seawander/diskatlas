@@ -1220,3 +1220,17 @@ Net `panel_audit` false-positive classes documented for the next run: model+resi
 columns, PSF images, same-band weighting/Q_phi/U_phi variants, and multi-panel captions counted
 per sub-panel. `audit_bibcodes --fix --fill` repaired 1 bibcode + 55 journal strings.
 Atlas: 961 systems / 4413 image records / 842 papers, 0 errors / 0 warnings.
+
+## 2026-09-14 — Weekly fresh_papers digest
+
+`fresh_papers.py --days 7` (156 astro-ph.EP/SR submissions) returned 2 hits, both from the
+**Dyn-Atmo Survey** and both excluded on VIEW:
+- **2609.11828** (Madurowicz et al.) GJ 758 B JWST/NIRSpec IFU template-matching
+  spectroscopy: the "detection" figure is a CCF σ map + log-flux map, plus atmospheric-model
+  posteriors and mass-sensitivity curves; no direct sky-image panel.
+- **2609.11827** (Hoch et al.) HD 13724 B high-contrast imaging spectroscopy: spectra,
+  point-cloud slices and retrieval/model fits. HD 13724 B is absent from the atlas, but its
+  direct-imaging (SPHERE) paper is in prep, so there is no published sky-image panel to
+  ingest yet; flagged for a future digest when that paper appears.
+No records added; dispositions written to `paper_finder_state.json`.
+Atlas: 961 systems / 4413 image records / 842 papers, 0 errors / 0 warnings.
