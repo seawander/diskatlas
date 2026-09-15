@@ -6,7 +6,7 @@ window.I18N_LANGS = [["en", "English"], ["zh", "中文"], ["fr", "Français"], [
 window.I18N_RTL = ["ar"];
 window.I18N = {
   en: {
-    title: "circumstellar disk images & imaged companions",
+    title: "circumstellar disk and companion images",
     search_ph: "Search star or paper… (e.g. HL Tau, Ren 2021)",
     logo_home: "Back to start",
     map_galactic: "galactic plane",
@@ -50,7 +50,7 @@ window.I18N = {
     col_planet_sub: "images"
   },
   zh: {
-    title: "星周盘图像与直接成像伴体 · 交互式全天图",
+    title: "星周盘与伴体图像 · 交互式全天图",
     search_ph: "搜索恒星或文献…(如 HL Tau、Ren 2021)",
     logo_home: "返回首页",
     map_galactic: "银道面",
@@ -94,7 +94,7 @@ window.I18N = {
     col_planet_sub: "图像数"
   },
   fr: {
-    title: "images de disques circumstellaires & compagnons imagés",
+    title: "images de disques circumstellaires et de compagnons",
     search_ph: "Rechercher une étoile ou un article… (ex. HL Tau, Ren 2021)",
     logo_home: "Retour à l'accueil",
     map_galactic: "plan galactique",
@@ -138,7 +138,7 @@ window.I18N = {
     col_planet_sub: "images"
   },
   es: {
-    title: "imágenes de discos circunestelares y compañeros imagenados",
+    title: "imágenes de discos circunestelares y compañeros",
     search_ph: "Buscar estrella o artículo… (p. ej. HL Tau, Ren 2021)",
     logo_home: "Volver al inicio",
     map_galactic: "plano galáctico",
@@ -182,7 +182,7 @@ window.I18N = {
     col_planet_sub: "imágenes"
   },
   de: {
-    title: "Aufnahmen zirkumstellarer Scheiben & abgebildete Begleiter",
+    title: "Aufnahmen zirkumstellarer Scheiben und Begleiter",
     search_ph: "Stern oder Paper suchen… (z. B. HL Tau, Ren 2021)",
     logo_home: "Zur Startseite",
     map_galactic: "galaktische Ebene",
@@ -226,7 +226,7 @@ window.I18N = {
     col_planet_sub: "Bilder"
   },
   it: {
-    title: "immagini di dischi circumstellari e compagni ripresi",
+    title: "immagini di dischi circumstellari e compagni",
     search_ph: "Cerca stella o articolo… (es. HL Tau, Ren 2021)",
     logo_home: "Torna all'inizio",
     map_galactic: "piano galattico",
@@ -270,7 +270,7 @@ window.I18N = {
     col_planet_sub: "immagini"
   },
   ja: {
-    title: "星周円盤の画像と直接撮像された伴天体",
+    title: "星周円盤と伴天体の画像",
     search_ph: "恒星または論文を検索…(例: HL Tau, Ren 2021)",
     logo_home: "最初に戻る",
     map_galactic: "銀河面",
@@ -314,7 +314,7 @@ window.I18N = {
     col_planet_sub: "画像数"
   },
   pt: {
-    title: "imagens de discos circunstelares e companheiros imageados",
+    title: "imagens de discos circunstelares e companheiros",
     search_ph: "Buscar estrela ou artigo… (ex.: HL Tau, Ren 2021)",
     logo_home: "Voltar ao início",
     map_galactic: "plano galáctico",
@@ -358,7 +358,7 @@ window.I18N = {
     col_planet_sub: "imagens"
   },
   ru: {
-    title: "изображения околозвёздных дисков и снятые компаньоны",
+    title: "изображения околозвёздных дисков и компаньонов",
     search_ph: "Поиск звезды или статьи… (напр. HL Tau, Ren 2021)",
     logo_home: "На главную",
     map_galactic: "галактическая плоскость",
@@ -402,7 +402,7 @@ window.I18N = {
     col_planet_sub: "снимки"
   },
   ar: {
-    title: "صور الأقراص المحيطة بالنجوم والرفقاء المصوَّرون",
+    title: "صور الأقراص المحيطة بالنجوم والرفقاء",
     search_ph: "ابحث عن نجم أو ورقة بحثية… (مثل HL Tau، Ren 2021)",
     logo_home: "العودة إلى البداية",
     map_galactic: "مستوى المجرة",
@@ -446,7 +446,7 @@ window.I18N = {
     col_planet_sub: "صور"
   },
   ko: {
-    title: "별주위 원반 이미지와 촬영된 동반 천체",
+    title: "별주위 원반과 동반 천체 이미지",
     search_ph: "별 또는 논문 검색… (예: HL Tau, Ren 2021)",
     logo_home: "처음으로",
     map_galactic: "은하면",
@@ -490,7 +490,7 @@ window.I18N = {
     col_planet_sub: "이미지 수"
   },
   hi: {
-    title: "परितारकीय डिस्क की छवियाँ और प्रतिबिंबित सहचर",
+    title: "परितारकीय डिस्क और सहचर की छवियाँ",
     search_ph: "तारा या शोध-पत्र खोजें… (जैसे HL Tau, Ren 2021)",
     logo_home: "शुरुआत पर लौटें",
     map_galactic: "आकाशगंगा तल",

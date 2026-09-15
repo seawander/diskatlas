@@ -1,8 +1,8 @@
 <p align="center"><img src="frontend/logo.svg" alt="diskatlas logo" width="128"></p>
 
-# `diskatlas`: all-sky interactive atlas of circumstellar disk images and imaged companions
+# `diskatlas`: all-sky interactive atlas of circumstellar disk and companion images
 
-`diskatlas`: 星周盘图像与直接成像伴体 · 交互式全天图
+`diskatlas`: 星周盘与伴体图像 · 交互式全天图
 
 **🌐 Browse it live: <https://seawander.github.io/diskatlas/>** · 
 [Source & data on GitHub](https://github.com/seawander/diskatlas) — or clone and
