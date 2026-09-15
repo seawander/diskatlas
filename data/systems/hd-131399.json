@@ -75,17 +75,17 @@
    "epoch": "2015"
   },
   {
-   "image_id": "hd-131399_gpi-2017",
+   "image_id": "hd-131399_gpi-2017-j",
    "type": "planet",
    "facility": "Gemini South",
    "instrument": "GPI",
-   "wavelength_um": 1.65,
-   "wavelength_label": "J/H/K1 cADI (2017, 4 epochs)",
+   "wavelength_um": 1.24,
+   "wavelength_label": "J band (2017-02-16) cADI; background star marked by arrow",
    "technique": "ADI high-contrast imaging",
    "survey": "GPIES",
    "content": "continuum",
-   "file": "images/hd-131399/hd-131399_gpi-2017.png",
-   "credit": "Nielsen et al. 2017, Fig. 1 (crop)",
+   "file": "images/hd-131399/hd-131399_gpi-2017-j.png",
+   "credit": "Nielsen et al. 2017, Fig. 1 (J panel, crop)",
    "note": "GPI cADI images at four 2017 epochs (J/H/K1); combined with reanalyzed SPHERE+Keck astrometry these show the object does not share the primary's proper motion - it is a stationary background star.",
    "paper": {
     "first_author": "Nielsen",
@@ -95,9 +95,78 @@
     "arxiv": "1705.06851",
     "bibcode": "2017AJ....154..218N"
    },
-   "epoch": "2017"
+   "epoch": "2017-02-16"
+  },
+  {
+   "image_id": "hd-131399_gpi-2017-h-feb15",
+   "type": "planet",
+   "facility": "Gemini South",
+   "instrument": "GPI",
+   "wavelength_um": 1.65,
+   "wavelength_label": "H band (2017-02-15) cADI; background star marked by arrow",
+   "technique": "ADI high-contrast imaging",
+   "survey": "GPIES",
+   "content": "continuum",
+   "file": "images/hd-131399/hd-131399_gpi-2017-h-feb15.png",
+   "credit": "Nielsen et al. 2017, Fig. 1 (H panel, 2017-02-15, crop)",
+   "note": "GPI cADI images at four 2017 epochs (J/H/K1); combined with reanalyzed SPHERE+Keck astrometry these show the object does not share the primary's proper motion - it is a stationary background star.",
+   "paper": {
+    "first_author": "Nielsen",
+    "year": 2017,
+    "title": "Evidence That the Directly Imaged Planet HD 131399 Ab Is a Background Star",
+    "journal": "AJ 154, 218",
+    "arxiv": "1705.06851",
+    "bibcode": "2017AJ....154..218N"
+   },
+   "epoch": "2017-02-15"
+  },
+  {
+   "image_id": "hd-131399_gpi-2017-h-apr20",
+   "type": "planet",
+   "facility": "Gemini South",
+   "instrument": "GPI",
+   "wavelength_um": 1.65,
+   "wavelength_label": "H band (2017-04-20) cADI; background star marked by arrow",
+   "technique": "ADI high-contrast imaging",
+   "survey": "GPIES",
+   "content": "continuum",
+   "file": "images/hd-131399/hd-131399_gpi-2017-h-apr20.png",
+   "credit": "Nielsen et al. 2017, Fig. 1 (H panel, 2017-04-20, crop)",
+   "note": "GPI cADI images at four 2017 epochs (J/H/K1); combined with reanalyzed SPHERE+Keck astrometry these show the object does not share the primary's proper motion - it is a stationary background star.",
+   "paper": {
+    "first_author": "Nielsen",
+    "year": 2017,
+    "title": "Evidence That the Directly Imaged Planet HD 131399 Ab Is a Background Star",
+    "journal": "AJ 154, 218",
+    "arxiv": "1705.06851",
+    "bibcode": "2017AJ....154..218N"
+   },
+   "epoch": "2017-04-20"
+  },
+  {
+   "image_id": "hd-131399_gpi-2017-k1",
+   "type": "planet",
+   "facility": "Gemini South",
+   "instrument": "GPI",
+   "wavelength_um": 2.05,
+   "wavelength_label": "K1 band (2017-02-14) cADI; background star marked by arrow",
+   "technique": "ADI high-contrast imaging",
+   "survey": "GPIES",
+   "content": "continuum",
+   "file": "images/hd-131399/hd-131399_gpi-2017-k1.png",
+   "credit": "Nielsen et al. 2017, Fig. 1 (K1 panel, crop)",
+   "note": "GPI cADI images at four 2017 epochs (J/H/K1); combined with reanalyzed SPHERE+Keck astrometry these show the object does not share the primary's proper motion - it is a stationary background star.",
+   "paper": {
+    "first_author": "Nielsen",
+    "year": 2017,
+    "title": "Evidence That the Directly Imaged Planet HD 131399 Ab Is a Background Star",
+    "journal": "AJ 154, 218",
+    "arxiv": "1705.06851",
+    "bibcode": "2017AJ....154..218N"
+   },
+   "epoch": "2017-02-14"
   }
  ],
  "notes": "Young A1V star in Upper Centaurus-Lupus (Sco-Cen), primary of the hierarchical triple HD 131399ABC. Host of the refuted directly-imaged planet candidate Ab, later shown to be a background star. A separate close stellar companion to HD 131399A was independently detected in HARPS radial velocities (Lagrange et al. 2017).",
- "last_updated": "2026-07-12"
+ "last_updated": "2026-09-15"
 }

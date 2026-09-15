@@ -287,8 +287,52 @@
    },
    "epoch": "2018-10-18",
    "content": "continuum"
+  },
+  {
+   "type": "planet",
+   "facility": "VLT-NACO",
+   "instrument": "NACO",
+   "wavelength_um": 3.8,
+   "wavelength_label": "L' (3.8 um) ADI; companion at lower-right",
+   "technique": "ADI",
+   "survey": null,
+   "credit": "Maire et al. 2020, Fig. 3 (L' panel, crop)",
+   "paper": {
+    "first_author": "Maire",
+    "year": 2020,
+    "title": "Orbital and spectral characterization of the benchmark T-type brown dwarf HD 19467 B",
+    "journal": "A&A 639, A47",
+    "arxiv": "2005.10312",
+    "bibcode": "2020A&A...639A..47M"
+   },
+   "image_id": "hd-19467_naco-lp",
+   "file": "images/hd-19467/hd-19467_naco-lp.png",
+   "epoch": "2017-10-06",
+   "content": "continuum"
+  },
+  {
+   "type": "planet",
+   "facility": "VLT-NACO",
+   "instrument": "NACO",
+   "wavelength_um": 4.7,
+   "wavelength_label": "M' (4.7 um) ADI; companion in deep methane absorption",
+   "technique": "ADI",
+   "survey": null,
+   "credit": "Maire et al. 2020, Fig. 3 (M' panel, crop)",
+   "paper": {
+    "first_author": "Maire",
+    "year": 2020,
+    "title": "Orbital and spectral characterization of the benchmark T-type brown dwarf HD 19467 B",
+    "journal": "A&A 639, A47",
+    "arxiv": "2005.10312",
+    "bibcode": "2020A&A...639A..47M"
+   },
+   "image_id": "hd-19467_naco-mp",
+   "file": "images/hd-19467/hd-19467_naco-mp.png",
+   "epoch": "2015-12-20",
+   "content": "continuum"
   }
  ],
  "notes": "Old solar-analog G3V star hosting the benchmark T-dwarf companion HD 19467 B (RV-trend-selected, discovered in Keck/NIRC2 imaging; Crepp+2014), later also a JWST coronagraphy target.",
- "last_updated": "2026-07-10"
+ "last_updated": "2026-09-15"
 }
