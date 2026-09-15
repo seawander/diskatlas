@@ -294,29 +294,6 @@
    "note": "Appendix Fig. 5 (all_imaging.pdf), bottom-right panel. New Keck/NIRC2 L' imaging; AF Lep b recovered at 6.6 sigma. New instrument/band for the af-lep record set (all previous are JWST/NIRCam)."
   },
   {
-   "image_id": "af-lep_sphere2023-mesa-irdis",
-   "type": "planet",
-   "facility": "VLT-SPHERE",
-   "instrument": "IRDIS",
-   "wavelength_um": 2.18,
-   "wavelength_label": "K1/K2 (K12, 2.11/2.25 um) S/N map",
-   "technique": "ADI",
-   "content": "continuum",
-   "survey": null,
-   "file": "images/af-lep/af-lep_sphere2023-mesa-irdis.png",
-   "credit": "Mesa et al. 2023, Fig. 1 (IRDIS K1/K2 panel, 2022-12-20, crop)",
-   "paper": {
-    "first_author": "Mesa",
-    "year": 2023,
-    "title": "AF Lep b: The lowest-mass planet detected by coupling astrometric and direct imaging data",
-    "journal": "A&A 672, A93",
-    "arxiv": "2302.06213",
-    "bibcode": "2023A&A...672A..93M"
-   },
-   "epoch": "2022-12-20",
-   "note": "SPHERE IRDIS K12 (K1=2.110, K2=2.251 um) final S/N map for the 2022-12-20 epoch; AF Lep b is the companion NE of the star (S/N 16.1 in this epoch). The IRDIS K1/K2 channels are recorded in one combined K12 image, as displayed in the figure (the source figure shows a single IRDIS S/N panel per epoch). The 2022-10-16 IRDIS panel of the same figure is not separately staged (task selected one record per band)."
-  },
-  {
    "image_id": "af-lep_sphere2023-derosa-ifs-y",
    "type": "planet",
    "facility": "VLT-SPHERE",

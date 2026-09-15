@@ -314,28 +314,6 @@
    }
   },
   {
-   "image_id": "hd-95086_sphere-ifs-h-2018",
-   "type": "planet",
-   "facility": "VLT-SPHERE",
-   "instrument": "IFS",
-   "wavelength_um": 1.6,
-   "wavelength_label": "H band 1.6 um (spectral PCA of combined IFS-YH epochs; HD 95086 b S/N ~5)",
-   "technique": "ADI",
-   "content": "continuum",
-   "survey": null,
-   "file": "images/hd-95086/hd-95086_sphere-ifs-h-2018.png",
-   "credit": "Chauvin 2018, Fig. 1 (IFS H panel, crop)",
-   "epoch": "2015-2016",
-   "paper": {
-    "first_author": "Chauvin",
-    "year": 2018,
-    "title": "Investigating the young Solar System analog HD 95086: A combined HARPS and SPHERE exploration",
-    "journal": "A&A 617, A76",
-    "arxiv": "1801.05850",
-    "bibcode": "2018A&A...617A..76C"
-   }
-  },
-  {
    "image_id": "hd-95086_sphere-irdis-k2-2018",
    "type": "planet",
    "facility": "VLT-SPHERE",

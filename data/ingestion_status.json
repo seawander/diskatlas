@@ -1,6 +1,6 @@
 {
  "_doc": "Per-survey ingestion state. entries/coords/images: done|partial|todo. Update on every ingest.",
- "updated": "2026-09-15 (3): Band-audit wave 3 (final) - +25 panels. New systems: 7 FU Orionis-type ALMA disks from Kospal 2021 (ar-6a, bran-76, haro-5a-irs, oo-ser, v346-nor, v899-mon, v900-mon; SIMBAD coords). Plus remaining existing-system gaps: GJ 581 PACS 100/160 + SPIRE 250 + NICMOS F110W; HH 48 NE Band 6; HD 141943 IFS YJ; HSC J2255 F150W; PDS 453 2um PI; MWC 614 NIRC2 SAM H; HD 95086 IFS J + IRDIS K1; MWC 758 L' 2016 epoch; XEST IRAC [3.6]/[4.5]/[5.8]/[8.0] residuals. Excluded (no per-target panels): ZIMPOL AGB alternate filters (2608.02410). Atlas: 970 systems / 4666 records / 845 papers, 0 errors.",
+ "updated": "2026-09-15 (4): Pruned 9 marginal derived-product records added by the band-audit waves - detection-significance/SNR maps (af-lep IRDIS K12 S/N; HD 169142 z' PCA S/N; HD 95086 IFS-H; GQ Lup MRS 1A/2A/2B/2C) and contour-only panels (HV Tau C NIRC2 Ms; HV Tau C PdBI 1.3mm). Kept imaged non-detections and PSF-subtracted/ADI/KLIP detection images (both in scope). Atlas: 970 systems / 4657 records / 845 papers, 0 errors.",
  "surveys": {
   "DSHARP": {
    "entries": "done",
