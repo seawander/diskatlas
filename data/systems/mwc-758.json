@@ -31,14 +31,37 @@
   {
    "name": "b",
    "status": "disputed",
-   "note": "L' point-source candidate at ~0.11 arcsec (Reggiani et al. 2018); later studies attribute the signal to inner-disk emission - disputed.",
+   "note": "L' point-source candidate at ~0.11\" (Reggiani et al. 2018); follow-up imaging does not recover it and attributes the signal to unresolved inner-disk emission / instrumental residuals (Wagner et al. 2019, LBT thermal-IR; Boccaletti et al. 2021, SPHERE H/K; Wagner et al. 2024, JWST/NIRCam) - disputed.",
    "paper": {
     "first_author": "Reggiani",
     "year": 2018,
     "arxiv": "1710.11393",
     "bibcode": "2018A&A...611A..74R",
     "journal": "A&A 611, A74"
-   }
+   },
+   "extra_papers": [
+    {
+     "label": "non-detection (LBT thermal-IR)",
+     "first_author": "Wagner",
+     "year": 2019,
+     "arxiv": "1907.06655",
+     "bibcode": "2019ApJ...882...20W"
+    },
+    {
+     "label": "SPHERE H/K non-confirmation of the L-band point sources",
+     "first_author": "Boccaletti",
+     "year": 2021,
+     "arxiv": "2107.07850",
+     "bibcode": "2021A&A...652L...8B"
+    },
+    {
+     "label": "JWST/NIRCam non-detection of companions",
+     "first_author": "Wagner",
+     "year": 2024,
+     "arxiv": "2401.02830",
+     "bibcode": "2024AJ....167..181W"
+    }
+   ]
   }
  ],
  "images": [
