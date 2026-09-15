@@ -146,10 +146,76 @@
    },
    "epoch": "2007",
    "content": "continuum"
+  },
+  {
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS",
+   "wavelength_um": 1.625,
+   "wavelength_label": "H band (IRDIS DPI, 1.625 um); Q_phi polarized intensity",
+   "technique": "PDI",
+   "content": "continuum",
+   "survey": null,
+   "image_id": "dr-tau_irdis-h-qphi",
+   "file": "images/dr-tau/dr-tau_irdis-h-qphi.png",
+   "credit": "Mesa et al. 2022, Fig. 1 (H-band Q_phi panel, crop)",
+   "paper": {
+    "first_author": "Mesa",
+    "year": 2022,
+    "title": "Signs of late infall and possible planet formation around DR Tau",
+    "journal": "A&A 658, A63",
+    "arxiv": "2111.01702",
+    "bibcode": "2022A&A...658A..63M"
+   },
+   "epoch": "2018-11-26"
+  },
+  {
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "IFS",
+   "wavelength_um": 1.3,
+   "wavelength_label": "IFS YJH (0.95-1.65 um); total intensity (ASDI-PCA)",
+   "technique": "ADI",
+   "content": "continuum",
+   "survey": null,
+   "image_id": "dr-tau_ifs-yjh",
+   "file": "images/dr-tau/dr-tau_ifs-yjh.png",
+   "credit": "Mesa et al. 2022, Fig. 2 (IFS YJH panel, crop)",
+   "paper": {
+    "first_author": "Mesa",
+    "year": 2022,
+    "title": "Signs of late infall and possible planet formation around DR Tau",
+    "journal": "A&A 658, A63",
+    "arxiv": "2111.01702",
+    "bibcode": "2022A&A...658A..63M"
+   },
+   "epoch": "2019-11-28"
+  },
+  {
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS",
+   "wavelength_um": 2.18,
+   "wavelength_label": "K12 (K1 2.11 + K2 2.25 um); total intensity (PCA)",
+   "technique": "ADI",
+   "content": "continuum",
+   "survey": null,
+   "image_id": "dr-tau_irdis-k12",
+   "file": "images/dr-tau/dr-tau_irdis-k12.png",
+   "credit": "Mesa et al. 2022, Fig. 2 (IRDIS K12 panel, crop)",
+   "paper": {
+    "first_author": "Mesa",
+    "year": 2022,
+    "title": "Signs of late infall and possible planet formation around DR Tau",
+    "journal": "A&A 658, A63",
+    "arxiv": "2111.01702",
+    "bibcode": "2022A&A...658A..63M"
+   },
+   "epoch": "2019-11-28"
   }
  ],
  "notes": null,
- "last_updated": "2026-07-07",
+ "last_updated": "2026-09-15",
  "plx_mas": 5.1823,
  "mags": {
   "U": 12.03,

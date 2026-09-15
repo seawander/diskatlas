@@ -727,6 +727,28 @@
    },
    "epoch": "2019-11-14",
    "content": "continuum"
+  },
+  {
+   "image_id": "mwc-758_visir-near",
+   "type": "disk_mm",
+   "facility": "VLT-VISIR",
+   "instrument": "VISIR",
+   "wavelength_um": 11.25,
+   "wavelength_label": "NEAR 11.25 um (mid-IR)",
+   "technique": "other",
+   "content": "continuum",
+   "survey": null,
+   "file": "images/mwc-758/mwc-758_visir-near.png",
+   "credit": "Petit dit de la Roche 2021, Fig. 2 (NEAR panel, crop)",
+   "paper": {
+    "first_author": "Petit dit de la Roche",
+    "year": 2021,
+    "title": "New mid-infrared imaging constraints on companions and protoplanetary disks around six young stars",
+    "journal": "A&A",
+    "arxiv": "2102.12506",
+    "bibcode": "2021A&A...648A..92P"
+   },
+   "epoch": "2019-12-18"
   }
  ],
  "notes": null,

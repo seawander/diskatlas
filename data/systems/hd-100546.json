@@ -1017,10 +1017,98 @@
     "bibcode": "2023A&A...669A.145C"
    },
    "epoch": "2017-03-15"
+  },
+  {
+   "image_id": "hd-100546_visir-pah1",
+   "type": "disk_mm",
+   "facility": "VLT-VISIR",
+   "instrument": "VISIR",
+   "wavelength_um": 8.58,
+   "wavelength_label": "PAH1 8.58 um (mid-IR)",
+   "technique": "other",
+   "content": "continuum",
+   "survey": null,
+   "file": "images/hd-100546/hd-100546_visir-pah1.png",
+   "credit": "Petit dit de la Roche 2021, Fig. 1 (PAH1 data panel, crop)",
+   "paper": {
+    "first_author": "Petit dit de la Roche",
+    "year": 2021,
+    "title": "New mid-infrared imaging constraints on companions and protoplanetary disks around six young stars",
+    "journal": "A&A",
+    "arxiv": "2102.12506",
+    "bibcode": "2021A&A...648A..92P"
+   },
+   "epoch": "2019-12-11"
+  },
+  {
+   "image_id": "hd-100546_visir-ar3",
+   "type": "disk_mm",
+   "facility": "VLT-VISIR",
+   "instrument": "VISIR",
+   "wavelength_um": 8.98,
+   "wavelength_label": "ARIII 8.98 um (mid-IR)",
+   "technique": "other",
+   "content": "continuum",
+   "survey": null,
+   "file": "images/hd-100546/hd-100546_visir-ar3.png",
+   "credit": "Petit dit de la Roche 2021, Fig. 1 (ARIII data panel, crop)",
+   "paper": {
+    "first_author": "Petit dit de la Roche",
+    "year": 2021,
+    "title": "New mid-infrared imaging constraints on companions and protoplanetary disks around six young stars",
+    "journal": "A&A",
+    "arxiv": "2102.12506",
+    "bibcode": "2021A&A...648A..92P"
+   },
+   "epoch": "2019-12-11"
+  },
+  {
+   "image_id": "hd-100546_visir-pah2",
+   "type": "disk_mm",
+   "facility": "VLT-VISIR",
+   "instrument": "VISIR",
+   "wavelength_um": 11.24,
+   "wavelength_label": "PAH2 11.24 um (mid-IR)",
+   "technique": "other",
+   "content": "continuum",
+   "survey": null,
+   "file": "images/hd-100546/hd-100546_visir-pah2.png",
+   "credit": "Petit dit de la Roche 2021, Fig. 1 (PAH2 data panel, crop)",
+   "paper": {
+    "first_author": "Petit dit de la Roche",
+    "year": 2021,
+    "title": "New mid-infrared imaging constraints on companions and protoplanetary disks around six young stars",
+    "journal": "A&A",
+    "arxiv": "2102.12506",
+    "bibcode": "2021A&A...648A..92P"
+   },
+   "epoch": "2019-12-11"
+  },
+  {
+   "image_id": "hd-100546_visir-pah2_2",
+   "type": "disk_mm",
+   "facility": "VLT-VISIR",
+   "instrument": "VISIR",
+   "wavelength_um": 11.68,
+   "wavelength_label": "PAH2_2 11.68 um (mid-IR)",
+   "technique": "other",
+   "content": "continuum",
+   "survey": null,
+   "file": "images/hd-100546/hd-100546_visir-pah2_2.png",
+   "credit": "Petit dit de la Roche 2021, Fig. 1 (PAH2_2 data panel, crop)",
+   "paper": {
+    "first_author": "Petit dit de la Roche",
+    "year": 2021,
+    "title": "New mid-infrared imaging constraints on companions and protoplanetary disks around six young stars",
+    "journal": "A&A",
+    "arxiv": "2102.12506",
+    "bibcode": "2021A&A...648A..92P"
+   },
+   "epoch": "2019-12-12"
   }
  ],
  "notes": null,
- "last_updated": "2026-09-14",
+ "last_updated": "2026-09-15",
  "plx_mas": 9.2494,
  "mags": {
   "B": 6.71,

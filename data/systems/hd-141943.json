@@ -191,10 +191,32 @@
    "file": "images/nz-lup/nz-lup_sphere-rdi-xie22.png",
    "epoch": "2016-05-25",
    "content": "continuum"
+  },
+  {
+   "image_id": "hd-141943_nicmos-f160w-ren2023",
+   "type": "disk_scattered",
+   "facility": "HST",
+   "instrument": "NICMOS F160W",
+   "wavelength_um": 1.6,
+   "wavelength_label": "F160W 1.60 um (scattered light)",
+   "technique": "RDI",
+   "content": "continuum",
+   "survey": null,
+   "file": "images/hd-141943/hd-141943_nicmos-f160w-ren2023.png",
+   "credit": "Ren et al. 2023, Fig. 4 (HD 141943 panel, crop)",
+   "paper": {
+    "first_author": "Ren",
+    "year": 2023,
+    "title": "Debris Disk Color with the Hubble Space Telescope",
+    "journal": "A&A 672, A114",
+    "arxiv": "2302.04273",
+    "bibcode": "2023A&A...672A.114R"
+   },
+   "epoch": "2005-03-18"
   }
  ],
  "notes": null,
- "last_updated": "2026-07-08",
+ "last_updated": "2026-09-15",
  "plx_mas": 16.6271,
  "mags": {
   "B": 8.48,

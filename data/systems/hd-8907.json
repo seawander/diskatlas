@@ -58,8 +58,30 @@
    },
    "file": "images/hd-8907/hd-8907_sma-1300.png",
    "epoch": "2012"
+  },
+  {
+   "image_id": "hd-8907_scuba2-450um-sons",
+   "type": "disk_mm",
+   "facility": "JCMT",
+   "instrument": "SCUBA-2",
+   "wavelength_um": 450,
+   "wavelength_label": "450 um (SCUBA-2, SONS survey)",
+   "technique": "other",
+   "survey": "SONS",
+   "content": "continuum",
+   "file": "images/hd-8907/hd-8907_scuba2-450um-sons.png",
+   "credit": "Holland et al. 2017 (SONS), Fig. 7 (crop: 450 um)",
+   "paper": {
+    "first_author": "Holland",
+    "year": 2017,
+    "title": "SONS: The JCMT legacy survey of debris discs in the submillimetre",
+    "journal": "MNRAS 470, 3606",
+    "arxiv": "1706.01218",
+    "bibcode": "2017MNRAS.470.3606H"
+   },
+   "epoch": "2012-2015"
   }
  ],
  "notes": "Submm debris-disc detection in the JCMT SONS legacy survey (Holland et al. 2017).",
- "last_updated": "2026-07-14"
+ "last_updated": "2026-09-15"
 }

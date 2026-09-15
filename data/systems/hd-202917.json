@@ -103,10 +103,32 @@
    "hires_url": "https://archive.stsci.edu/prepds/alice/",
    "epoch": "2006-06-22",
    "content": "continuum"
+  },
+  {
+   "image_id": "hd-202917_nicmos-f160w-ren2023",
+   "type": "disk_scattered",
+   "facility": "HST",
+   "instrument": "NICMOS F160W",
+   "wavelength_um": 1.6,
+   "wavelength_label": "F160W 1.60 um (scattered light)",
+   "technique": "RDI",
+   "content": "continuum",
+   "survey": null,
+   "file": "images/hd-202917/hd-202917_nicmos-f160w-ren2023.png",
+   "credit": "Ren et al. 2023, Fig. 4 (HD 202917 panel, crop)",
+   "paper": {
+    "first_author": "Ren",
+    "year": 2023,
+    "title": "Debris Disk Color with the Hubble Space Telescope",
+    "journal": "A&A 672, A114",
+    "arxiv": "2302.04273",
+    "bibcode": "2023A&A...672A.114R"
+   },
+   "epoch": "1998-05-03"
   }
  ],
  "notes": "AUTO-CREATED from staging - fill metadata & coords",
- "last_updated": "2026-07-06",
+ "last_updated": "2026-09-15",
  "plx_mas": 21.4093,
  "mags": {
   "B": 9.32,

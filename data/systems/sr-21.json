@@ -322,8 +322,31 @@
     "bibcode": "2023ApJ...948..110Y"
    },
    "note": "ALMA Band 3 (107.01-110.67 GHz, ~2.7-2.8 mm) continuum image of SR 21 with 2-sigma contours (right panel of Fig. 1). The paper states this is the same image as Muro-Arena et al. 2020 (project 2017.1.00884.S); recorded here as a re-display for this paper. Clumps labelled I-V, North/South/Inner Arcs."
+  },
+  {
+   "image_id": "sr-21_12co65-mom0",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 9 (12CO J=6-5)",
+   "wavelength_um": 433.6,
+   "wavelength_label": "12CO J=6-5 integrated intensity (moment-0)",
+   "technique": "interferometry",
+   "content": "line",
+   "survey": null,
+   "file": "images/sr-21/sr-21_12co65-mom0.png",
+   "credit": "van der Marel et al. 2015, Fig. 1 (SR21 panel, crop)",
+   "paper": {
+    "first_author": "van der Marel",
+    "year": 2015,
+    "title": "Gas density drops inside dust cavities of transitional disks around young stars observed with ALMA",
+    "journal": "A&A 579, A106 (2015)",
+    "arxiv": "1504.03927",
+    "bibcode": "2015A&A...579A.106V"
+   },
+   "epoch": "2012-07-18",
+   "note": "ALMA Cycle 0 program 2011.0.00724.S; zero-moment 12CO J=6-5 (691.473 GHz) map, cropped from the center panel of Fig. 1. Same epoch/dataset as the atlas Band 9 continuum record sr-21_alma2015."
   }
  ],
  "notes": "AUTO-CREATED from staging - fill metadata & coords",
- "last_updated": "2026-09-12"
+ "last_updated": "2026-09-15"
 }

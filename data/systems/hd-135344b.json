@@ -801,10 +801,78 @@
    },
    "epoch": "2014-07-21",
    "note": "HD 135344B 0.88 mm ALMA continuum (project 2012.1.00870.S); epoch from ALMA archive obscore t_min (paper lists only project IDs)."
+  },
+  {
+   "image_id": "hd-135344b_alma-b9-cont",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 9",
+   "wavelength_um": 440,
+   "wavelength_label": "690 GHz (440 um) continuum",
+   "technique": "interferometry",
+   "content": "continuum",
+   "survey": null,
+   "file": "images/hd-135344b/hd-135344b_alma-b9-cont.png",
+   "credit": "van der Marel et al. 2015, Fig. 1 (HD135344B panel, crop)",
+   "paper": {
+    "first_author": "van der Marel",
+    "year": 2015,
+    "title": "Gas density drops inside dust cavities of transitional disks around young stars observed with ALMA",
+    "journal": "A&A 579, A106 (2015)",
+    "arxiv": "1504.03927",
+    "bibcode": "2015A&A...579A.106V"
+   },
+   "epoch": "2012-06-05",
+   "note": "ALMA Cycle 0 program 2011.0.00724.S; Band 9 (690 GHz, 440 um) continuum image, cropped from the left panel of Fig. 1 (ring with azimuthal asymmetry)."
+  },
+  {
+   "image_id": "hd-135344b_12co65-mom0",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 9 (12CO J=6-5)",
+   "wavelength_um": 433.6,
+   "wavelength_label": "12CO J=6-5 integrated intensity (moment-0)",
+   "technique": "interferometry",
+   "content": "line",
+   "survey": null,
+   "file": "images/hd-135344b/hd-135344b_12co65-mom0.png",
+   "credit": "van der Marel et al. 2015, Fig. 1 (HD135344B panel, crop)",
+   "paper": {
+    "first_author": "van der Marel",
+    "year": 2015,
+    "title": "Gas density drops inside dust cavities of transitional disks around young stars observed with ALMA",
+    "journal": "A&A 579, A106 (2015)",
+    "arxiv": "1504.03927",
+    "bibcode": "2015A&A...579A.106V"
+   },
+   "epoch": "2012-06-05",
+   "note": "ALMA Cycle 0 program 2011.0.00724.S; zero-moment 12CO J=6-5 (691.473 GHz) map, cropped from the center panel of Fig. 1."
+  },
+  {
+   "type": "disk_scattered",
+   "facility": "JWST",
+   "instrument": "NIRCam",
+   "wavelength_um": 2.0,
+   "wavelength_label": "F200W (2.0 um); protoplanetary disk",
+   "technique": "ADI",
+   "content": "continuum",
+   "survey": null,
+   "image_id": "hd-135344b_nircam-f200w",
+   "file": "images/hd-135344b/hd-135344b_nircam-f200w.png",
+   "credit": "Latour et al. 2026, Fig. 1 (F200W panel, crop)",
+   "paper": {
+    "first_author": "Latour",
+    "year": 2026,
+    "title": "Multi-epoch scattered-light analysis of HD 135344B: new evidence for a spiral-driving protoplanet",
+    "journal": "Astronomy & Astrophysics (submitted/in press)",
+    "arxiv": "2606.10624",
+    "bibcode": "2026A&A...711A.292L"
+   },
+   "epoch": "2023-02-16"
   }
  ],
  "notes": "Three-epoch J-band spiral pattern motion (2015/2016/2022) gives dynamical evidence for a spiral-arm-driving, gap-opening protoplanet (Xie et al. 2024).",
- "last_updated": "2026-09-12",
+ "last_updated": "2026-09-15",
  "plx_mas": 7.4074,
  "mags": {
   "B": 9.21,

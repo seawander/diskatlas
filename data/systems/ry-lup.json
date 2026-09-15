@@ -264,8 +264,52 @@
    },
    "epoch": "2023-08-13",
    "content": "line"
+  },
+  {
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS",
+   "wavelength_um": 1.63,
+   "wavelength_label": "H2+H3 DBI (1.59/1.67 um); total intensity (cADI)",
+   "technique": "ADI",
+   "content": "continuum",
+   "survey": null,
+   "image_id": "ry-lup_irdis-h23",
+   "file": "images/ry-lup/ry-lup_irdis-h23.png",
+   "credit": "Langlois et al. 2018, Fig. 1 (IRDIS H2+H3 cADI panel, crop)",
+   "paper": {
+    "first_author": "Langlois",
+    "year": 2018,
+    "title": "First scattered light detection of a nearly edge-on transition disk around the T Tauri star RY Lup",
+    "journal": "A&A 614, A88",
+    "arxiv": "1802.03995",
+    "bibcode": "2018A&A...614A..88L"
+   },
+   "epoch": "2016-04-16"
+  },
+  {
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "IFS",
+   "wavelength_um": 1.15,
+   "wavelength_label": "IFS YJ (0.95-1.35 um); total intensity (cADI)",
+   "technique": "ADI",
+   "content": "continuum",
+   "survey": null,
+   "image_id": "ry-lup_ifs-yj",
+   "file": "images/ry-lup/ry-lup_ifs-yj.png",
+   "credit": "Langlois et al. 2018, Fig. 1 (IFS YJ cADI panel, crop)",
+   "paper": {
+    "first_author": "Langlois",
+    "year": 2018,
+    "title": "First scattered light detection of a nearly edge-on transition disk around the T Tauri star RY Lup",
+    "journal": "A&A 614, A88",
+    "arxiv": "1802.03995",
+    "bibcode": "2018A&A...614A..88L"
+   },
+   "epoch": "2016-04-16"
   }
  ],
  "notes": "First scattered-light detection of the RY Lup transition disk (VLT/SPHERE IRDIS+IFS). The disk appears as a dominating double-arch structure extending to 0.53 arcsec (80 au) in radius, seen at high inclination (PA ~107 deg), with faint spiral-like features in the SE possibly due to planet-disk interaction (Langlois et al. 2018).",
- "last_updated": "2026-09-11"
+ "last_updated": "2026-09-15"
 }

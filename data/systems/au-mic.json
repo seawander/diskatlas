@@ -550,10 +550,32 @@
    },
    "note": "SCUBA archive span; the paper gives no per-target observing dates.",
    "epoch": "1997-2004"
+  },
+  {
+   "image_id": "au-mic_nicmos-f160w-ren2023",
+   "type": "disk_scattered",
+   "facility": "HST",
+   "instrument": "NICMOS F160W",
+   "wavelength_um": 1.6,
+   "wavelength_label": "F160W 1.60 um (scattered light)",
+   "technique": "RDI",
+   "content": "continuum",
+   "survey": null,
+   "file": "images/au-mic/au-mic_nicmos-f160w-ren2023.png",
+   "credit": "Ren et al. 2023, Fig. 4 (AU Mic panel, crop)",
+   "paper": {
+    "first_author": "Ren",
+    "year": 2023,
+    "title": "Debris Disk Color with the Hubble Space Telescope",
+    "journal": "A&A 672, A114",
+    "arxiv": "2302.04273",
+    "bibcode": "2023A&A...672A.114R"
+   },
+   "epoch": "2004"
   }
  ],
  "notes": null,
- "last_updated": "2026-09-12",
+ "last_updated": "2026-09-15",
  "plx_mas": 102.9432,
  "mags": {
   "B": 10.05,

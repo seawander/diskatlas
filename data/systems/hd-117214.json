@@ -101,10 +101,54 @@
    },
    "epoch": "2018-02-28",
    "content": "continuum"
+  },
+  {
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS",
+   "wavelength_um": 2.11,
+   "wavelength_label": "K1 band (2.11 um); total intensity (cADI)",
+   "technique": "ADI",
+   "content": "continuum",
+   "survey": null,
+   "image_id": "hd-117214_irdis-k1",
+   "file": "images/hd-117214/hd-117214_irdis-k1.png",
+   "credit": "Engler et al. 2020, Fig. 2 (IRDIS K1 total-intensity panel, crop)",
+   "paper": {
+    "first_author": "Engler",
+    "year": 2020,
+    "title": "HD 117214 debris disk: scattered-light images and constraints on the presence of planets",
+    "journal": "A&A",
+    "arxiv": "1911.04793",
+    "bibcode": "2020A&A...635A..19E"
+   },
+   "epoch": "2018-02-28"
+  },
+  {
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "IFS",
+   "wavelength_um": 1.315,
+   "wavelength_label": "IFS Y-H (0.97-1.66 um); spectrally combined total intensity",
+   "technique": "ADI",
+   "content": "continuum",
+   "survey": null,
+   "image_id": "hd-117214_ifs-yh",
+   "file": "images/hd-117214/hd-117214_ifs-yh.png",
+   "credit": "Engler et al. 2020, Fig. 2 (IFS Y-H panel, crop)",
+   "paper": {
+    "first_author": "Engler",
+    "year": 2020,
+    "title": "HD 117214 debris disk: scattered-light images and constraints on the presence of planets",
+    "journal": "A&A",
+    "arxiv": "1911.04793",
+    "bibcode": "2020A&A...635A..19E"
+   },
+   "epoch": "2018-02-28"
   }
  ],
  "notes": null,
- "last_updated": "2026-07-07",
+ "last_updated": "2026-09-15",
  "plx_mas": 9.3151,
  "mags": {
   "B": 8.55,

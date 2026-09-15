@@ -234,10 +234,56 @@
    },
    "file": "images/sr-24s/sr-24s_c18o21-mom0.png",
    "epoch": "2015-09-26"
+  },
+  {
+   "image_id": "sr-24s_alma-b9-cont",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 9",
+   "wavelength_um": 440,
+   "wavelength_label": "690 GHz (440 um) continuum",
+   "technique": "interferometry",
+   "content": "continuum",
+   "survey": null,
+   "file": "images/sr-24s/sr-24s_alma-b9-cont.png",
+   "credit": "van der Marel et al. 2015, Fig. 1 (SR24S panel, crop)",
+   "paper": {
+    "first_author": "van der Marel",
+    "year": 2015,
+    "title": "Gas density drops inside dust cavities of transitional disks around young stars observed with ALMA",
+    "journal": "A&A 579, A106 (2015)",
+    "arxiv": "1504.03927",
+    "bibcode": "2015A&A...579A.106V"
+   },
+   "epoch": "2012-2013",
+   "note": "ALMA Cycle 0 program 2011.0.00724.S; Band 9 (690 GHz, 440 um) continuum image, cropped from the left panel of Fig. 1 (inclined disk, cavity just resolved). Epoch = paper's stated Cycle 0 observing window (June 2012 - January 2013): this SR24S Band 9 dataset is absent from the ALMA TAP obscore, so no exact execution date is recoverable."
+  },
+  {
+   "image_id": "sr-24s_12co65-mom0",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 9 (12CO J=6-5)",
+   "wavelength_um": 433.6,
+   "wavelength_label": "12CO J=6-5 integrated intensity (moment-0)",
+   "technique": "interferometry",
+   "content": "line",
+   "survey": null,
+   "file": "images/sr-24s/sr-24s_12co65-mom0.png",
+   "credit": "van der Marel et al. 2015, Fig. 1 (SR24S panel, crop)",
+   "paper": {
+    "first_author": "van der Marel",
+    "year": 2015,
+    "title": "Gas density drops inside dust cavities of transitional disks around young stars observed with ALMA",
+    "journal": "A&A 579, A106 (2015)",
+    "arxiv": "1504.03927",
+    "bibcode": "2015A&A...579A.106V"
+   },
+   "epoch": "2012-2013",
+   "note": "ALMA Cycle 0 program 2011.0.00724.S; zero-moment 12CO J=6-5 (691.473 GHz) map, cropped from the center panel of Fig. 1. Confused by large-scale extended emission outside the field of view. Epoch = paper's stated Cycle 0 observing window (June 2012 - January 2013): this dataset is absent from the ALMA TAP obscore, so no exact execution date is recoverable."
   }
  ],
  "notes": "AUTO-CREATED from staging - fill metadata & coords",
- "last_updated": "2026-07-14",
+ "last_updated": "2026-09-15",
  "plx_mas": 9.9589,
  "mags": {
   "G": 14.564755,

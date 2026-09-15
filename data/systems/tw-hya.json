@@ -681,10 +681,120 @@
     "arxiv": "2607.23992",
     "bibcode": "2026AJ....172..179L"
    }
+  },
+  {
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "ZIMPOL",
+   "wavelength_um": 0.626,
+   "wavelength_label": "R band (ZIMPOL PDI, 0.626 um); Q_phi",
+   "technique": "PDI",
+   "content": "continuum",
+   "survey": null,
+   "image_id": "tw-hya_zimpol-r",
+   "file": "images/tw-hya/tw-hya_zimpol-r.png",
+   "credit": "van Boekel et al. 2017, Fig. 2 (R-band Q_phi panel, crop)",
+   "paper": {
+    "first_author": "van Boekel",
+    "year": 2017,
+    "title": "Three radial gaps in the disk of TW Hydrae imaged with SPHERE",
+    "journal": "ApJ 837, 132",
+    "arxiv": "1610.08939",
+    "bibcode": "2017ApJ...837..132V"
+   },
+   "epoch": "2015-03-31"
+  },
+  {
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "ZIMPOL",
+   "wavelength_um": 0.79,
+   "wavelength_label": "I band (ZIMPOL PDI, 0.790 um); Q_phi",
+   "technique": "PDI",
+   "content": "continuum",
+   "survey": null,
+   "image_id": "tw-hya_zimpol-i",
+   "file": "images/tw-hya/tw-hya_zimpol-i.png",
+   "credit": "van Boekel et al. 2017, Fig. 2 (I-band Q_phi panel, crop)",
+   "paper": {
+    "first_author": "van Boekel",
+    "year": 2017,
+    "title": "Three radial gaps in the disk of TW Hydrae imaged with SPHERE",
+    "journal": "ApJ 837, 132",
+    "arxiv": "1610.08939",
+    "bibcode": "2017ApJ...837..132V"
+   },
+   "epoch": "2015-03-31"
+  },
+  {
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS",
+   "wavelength_um": 1.2575,
+   "wavelength_label": "J band (IRDIS PDI, 1.2575 um); Q_phi",
+   "technique": "PDI",
+   "content": "continuum",
+   "survey": null,
+   "image_id": "tw-hya_irdis-j",
+   "file": "images/tw-hya/tw-hya_irdis-j.png",
+   "credit": "van Boekel et al. 2017, Fig. 2 (J-band Q_phi panel, crop)",
+   "paper": {
+    "first_author": "van Boekel",
+    "year": 2017,
+    "title": "Three radial gaps in the disk of TW Hydrae imaged with SPHERE",
+    "journal": "ApJ 837, 132",
+    "arxiv": "1610.08939",
+    "bibcode": "2017ApJ...837..132V"
+   },
+   "epoch": "2015-05-07"
+  },
+  {
+   "image_id": "tw-hya_visir-pah1",
+   "type": "disk_mm",
+   "facility": "VLT-VISIR",
+   "instrument": "VISIR",
+   "wavelength_um": 8.58,
+   "wavelength_label": "PAH1 8.58 um (mid-IR)",
+   "technique": "other",
+   "content": "continuum",
+   "survey": null,
+   "file": "images/tw-hya/tw-hya_visir-pah1.png",
+   "credit": "Petit dit de la Roche 2021, Fig. 2 (PAH1 panel, crop)",
+   "paper": {
+    "first_author": "Petit dit de la Roche",
+    "year": 2021,
+    "title": "New mid-infrared imaging constraints on companions and protoplanetary disks around six young stars",
+    "journal": "A&A",
+    "arxiv": "2102.12506",
+    "bibcode": "2021A&A...648A..92P"
+   },
+   "epoch": "2019-12-13"
+  },
+  {
+   "image_id": "tw-hya_visir-near",
+   "type": "disk_mm",
+   "facility": "VLT-VISIR",
+   "instrument": "VISIR",
+   "wavelength_um": 11.25,
+   "wavelength_label": "NEAR 11.25 um (mid-IR)",
+   "technique": "other",
+   "content": "continuum",
+   "survey": null,
+   "file": "images/tw-hya/tw-hya_visir-near.png",
+   "credit": "Petit dit de la Roche 2021, Fig. 2 (NEAR panel, crop)",
+   "paper": {
+    "first_author": "Petit dit de la Roche",
+    "year": 2021,
+    "title": "New mid-infrared imaging constraints on companions and protoplanetary disks around six young stars",
+    "journal": "A&A",
+    "arxiv": "2102.12506",
+    "bibcode": "2021A&A...648A..92P"
+   },
+   "epoch": "2019-12-16"
   }
  ],
  "notes": null,
- "last_updated": "2026-09-11",
+ "last_updated": "2026-09-15",
  "plx_mas": 16.6289,
  "mags": {
   "B": 11.94,

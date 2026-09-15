@@ -1428,10 +1428,32 @@
    "epoch": "2023-08-03",
    "content": "continuum",
    "note": "Delta-log-likelihood detection-significance map for candidate planet f (not a conventional intensity image)."
+  },
+  {
+   "image_id": "hr-8799_scuba2-450um-sons",
+   "type": "disk_mm",
+   "facility": "JCMT",
+   "instrument": "SCUBA-2",
+   "wavelength_um": 450,
+   "wavelength_label": "450 um (SCUBA-2, SONS survey)",
+   "technique": "other",
+   "survey": "SONS",
+   "content": "continuum",
+   "file": "images/hr-8799/hr-8799_scuba2-450um-sons.png",
+   "credit": "Holland et al. 2017 (SONS), Fig. 26 (crop: 450 um)",
+   "paper": {
+    "first_author": "Holland",
+    "year": 2017,
+    "title": "SONS: The JCMT legacy survey of debris discs in the submillimetre",
+    "journal": "MNRAS 470, 3606",
+    "arxiv": "1706.01218",
+    "bibcode": "2017MNRAS.470.3606H"
+   },
+   "epoch": "2012-2015"
   }
  ],
  "notes": null,
- "last_updated": "2026-09-11",
+ "last_updated": "2026-09-15",
  "plx_mas": 24.462,
  "mags": {
   "B": 6.21,

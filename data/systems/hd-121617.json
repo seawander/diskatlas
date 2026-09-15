@@ -145,10 +145,54 @@
    },
    "epoch": "2022-2023",
    "content": "continuum"
+  },
+  {
+   "image_id": "hd-121617_arks-12co32-mom0",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 7",
+   "wavelength_um": 866.0,
+   "wavelength_label": "12CO J=3-2 integrated intensity (moment-0)",
+   "technique": "interferometry",
+   "content": "line",
+   "survey": "ARKS",
+   "file": "images/hd-121617/hd-121617_arks-12co32-mom0.png",
+   "credit": "Marino et al. 2026, Fig. 4 (HD 121617 panel, crop)",
+   "paper": {
+    "first_author": "Marino",
+    "year": 2026,
+    "title": "The ALMA survey to Resolve exoKuiper belt Substructures (ARKS) I: Motivation, sample, data reduction, and results overview",
+    "journal": "A&A",
+    "arxiv": "2601.11708",
+    "bibcode": "2026A&A...705A.195M"
+   },
+   "epoch": "2022-2023"
+  },
+  {
+   "image_id": "hd-121617_arks-13co32-mom0",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 7",
+   "wavelength_um": 866.9,
+   "wavelength_label": "13CO J=3-2 integrated intensity (moment-0)",
+   "technique": "interferometry",
+   "content": "line",
+   "survey": "ARKS",
+   "file": "images/hd-121617/hd-121617_arks-13co32-mom0.png",
+   "credit": "Marino et al. 2026, Fig. 4 (HD 121617 panel, crop)",
+   "paper": {
+    "first_author": "Marino",
+    "year": 2026,
+    "title": "The ALMA survey to Resolve exoKuiper belt Substructures (ARKS) I: Motivation, sample, data reduction, and results overview",
+    "journal": "A&A",
+    "arxiv": "2601.11708",
+    "bibcode": "2026A&A...705A.195M"
+   },
+   "epoch": "2022-2023"
   }
  ],
  "notes": null,
- "last_updated": "2026-07-10",
+ "last_updated": "2026-09-15",
  "plx_mas": 8.4825,
  "mags": {
   "B": 7.36,

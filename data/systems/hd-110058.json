@@ -281,10 +281,120 @@
    },
    "file": "images/hd-110058/hd-110058_gpi-k1-pol.png",
    "epoch": "2017-04-20"
+  },
+  {
+   "image_id": "hd-110058_nicmos-f160w-ren2023",
+   "type": "disk_scattered",
+   "facility": "HST",
+   "instrument": "NICMOS F160W",
+   "wavelength_um": 1.6,
+   "wavelength_label": "F160W 1.60 um (scattered light)",
+   "technique": "RDI",
+   "content": "continuum",
+   "survey": null,
+   "file": "images/hd-110058/hd-110058_nicmos-f160w-ren2023.png",
+   "credit": "Ren et al. 2023, Fig. 4 (HD 110058 panel, crop)",
+   "paper": {
+    "first_author": "Ren",
+    "year": 2023,
+    "title": "Debris Disk Color with the Hubble Space Telescope",
+    "journal": "A&A 672, A114",
+    "arxiv": "2302.04273",
+    "bibcode": "2023A&A...672A.114R"
+   },
+   "epoch": "2008-03-01"
+  },
+  {
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "IFS",
+   "wavelength_um": 1.03,
+   "wavelength_label": "Y band (IFS, 0.95-1.11 um); warped edge-on disk (ADI-PCA)",
+   "technique": "ADI",
+   "content": "continuum",
+   "survey": null,
+   "image_id": "hd-110058_ifs-y",
+   "file": "images/hd-110058/hd-110058_ifs-y.png",
+   "credit": "Stasevic et al. 2023, Fig. 1 (IFS Y panel, crop)",
+   "paper": {
+    "first_author": "Stasevic",
+    "year": 2023,
+    "title": "An inner warp discovered in the disk around HD 110058 using VLT/SPHERE and HST/STIS",
+    "journal": "A&A 678, A8",
+    "arxiv": "2308.05613",
+    "bibcode": "2023A&A...678A...8S"
+   },
+   "epoch": "2015-04-03"
+  },
+  {
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "IFS",
+   "wavelength_um": 1.245,
+   "wavelength_label": "J band (IFS, 1.14-1.35 um); warped edge-on disk (ADI-PCA)",
+   "technique": "ADI",
+   "content": "continuum",
+   "survey": null,
+   "image_id": "hd-110058_ifs-j",
+   "file": "images/hd-110058/hd-110058_ifs-j.png",
+   "credit": "Stasevic et al. 2023, Fig. 1 (IFS J panel, crop)",
+   "paper": {
+    "first_author": "Stasevic",
+    "year": 2023,
+    "title": "An inner warp discovered in the disk around HD 110058 using VLT/SPHERE and HST/STIS",
+    "journal": "A&A 678, A8",
+    "arxiv": "2308.05613",
+    "bibcode": "2023A&A...678A...8S"
+   },
+   "epoch": "2015-04-03"
+  },
+  {
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "IFS",
+   "wavelength_um": 1.525,
+   "wavelength_label": "H band (IFS, 1.40-1.65 um); warped edge-on disk (ADI-PCA)",
+   "technique": "ADI",
+   "content": "continuum",
+   "survey": null,
+   "image_id": "hd-110058_ifs-h",
+   "file": "images/hd-110058/hd-110058_ifs-h.png",
+   "credit": "Stasevic et al. 2023, Fig. 1 (IFS H panel, crop)",
+   "paper": {
+    "first_author": "Stasevic",
+    "year": 2023,
+    "title": "An inner warp discovered in the disk around HD 110058 using VLT/SPHERE and HST/STIS",
+    "journal": "A&A 678, A8",
+    "arxiv": "2308.05613",
+    "bibcode": "2023A&A...678A...8S"
+   },
+   "epoch": "2015-04-03"
+  },
+  {
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS",
+   "wavelength_um": 2.175,
+   "wavelength_label": "K12 (K1 2.10 + K2 2.25 um); warped edge-on disk (ADI-PCA)",
+   "technique": "ADI",
+   "content": "continuum",
+   "survey": null,
+   "image_id": "hd-110058_irdis-k12",
+   "file": "images/hd-110058/hd-110058_irdis-k12.png",
+   "credit": "Stasevic et al. 2023, Fig. 1 (IRDIS K12 panel, crop)",
+   "paper": {
+    "first_author": "Stasevic",
+    "year": 2023,
+    "title": "An inner warp discovered in the disk around HD 110058 using VLT/SPHERE and HST/STIS",
+    "journal": "A&A 678, A8",
+    "arxiv": "2308.05613",
+    "bibcode": "2023A&A...678A...8S"
+   },
+   "epoch": "2015-04-03"
   }
  ],
  "notes": null,
- "last_updated": "2026-07-07",
+ "last_updated": "2026-09-15",
  "plx_mas": 7.6878,
  "mags": {
   "B": 8.12,

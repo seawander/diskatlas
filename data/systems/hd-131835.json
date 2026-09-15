@@ -255,10 +255,76 @@
     "bibcode": "2026A&A...705A.204J"
    },
    "epoch": "2015-05-14"
+  },
+  {
+   "image_id": "hd-131835_arks-12co32-mom0",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 7",
+   "wavelength_um": 866.0,
+   "wavelength_label": "12CO J=3-2 integrated intensity (moment-0)",
+   "technique": "interferometry",
+   "content": "line",
+   "survey": "ARKS",
+   "file": "images/hd-131835/hd-131835_arks-12co32-mom0.png",
+   "credit": "Marino et al. 2026, Fig. 4 (HD 131835 panel, crop)",
+   "paper": {
+    "first_author": "Marino",
+    "year": 2026,
+    "title": "The ALMA survey to Resolve exoKuiper belt Substructures (ARKS) I: Motivation, sample, data reduction, and results overview",
+    "journal": "A&A",
+    "arxiv": "2601.11708",
+    "bibcode": "2026A&A...705A.195M"
+   },
+   "epoch": "2022-2023"
+  },
+  {
+   "image_id": "hd-131835_arks-13co32-mom0",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 7",
+   "wavelength_um": 866.9,
+   "wavelength_label": "13CO J=3-2 integrated intensity (moment-0)",
+   "technique": "interferometry",
+   "content": "line",
+   "survey": "ARKS",
+   "file": "images/hd-131835/hd-131835_arks-13co32-mom0.png",
+   "credit": "Marino et al. 2026, Fig. 4 (HD 131835 panel, crop)",
+   "paper": {
+    "first_author": "Marino",
+    "year": 2026,
+    "title": "The ALMA survey to Resolve exoKuiper belt Substructures (ARKS) I: Motivation, sample, data reduction, and results overview",
+    "journal": "A&A",
+    "arxiv": "2601.11708",
+    "bibcode": "2026A&A...705A.195M"
+   },
+   "epoch": "2022-2023"
+  },
+  {
+   "image_id": "hd-131835_nicmos-f160w-ren2023",
+   "type": "disk_scattered",
+   "facility": "HST",
+   "instrument": "NICMOS F160W",
+   "wavelength_um": 1.6,
+   "wavelength_label": "F160W 1.60 um (scattered light)",
+   "technique": "RDI",
+   "content": "continuum",
+   "survey": null,
+   "file": "images/hd-131835/hd-131835_nicmos-f160w-ren2023.png",
+   "credit": "Ren et al. 2023, Fig. 4 (HD 131835 panel, crop)",
+   "paper": {
+    "first_author": "Ren",
+    "year": 2023,
+    "title": "Debris Disk Color with the Hubble Space Telescope",
+    "journal": "A&A 672, A114",
+    "arxiv": "2302.04273",
+    "bibcode": "2023A&A...672A.114R"
+   },
+   "epoch": "2008-03-08"
   }
  ],
  "notes": null,
- "last_updated": "2026-07-08",
+ "last_updated": "2026-09-15",
  "plx_mas": 7.7078,
  "mags": {
   "B": 8.05,

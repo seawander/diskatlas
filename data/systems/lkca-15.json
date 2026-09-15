@@ -1003,10 +1003,56 @@
     "bibcode": "2026arXiv260913123C"
    },
    "note": "Imaged non-detection: no point-source companion and no extended 11.3 um disk emission; residuals are dominated by speckle noise. Final-residual panel of the MIRI F1140C coronagraphic residual gallery after inner-disk model subtraction and PCA PSF subtraction; JWST/MIRI Program GO 3254."
+  },
+  {
+   "image_id": "lkca-15_alma-b9-cont",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 9",
+   "wavelength_um": 440,
+   "wavelength_label": "690 GHz (440 um) continuum",
+   "technique": "interferometry",
+   "content": "continuum",
+   "survey": null,
+   "file": "images/lkca-15/lkca-15_alma-b9-cont.png",
+   "credit": "van der Marel et al. 2015, Fig. 1 (LkCa15 panel, crop)",
+   "paper": {
+    "first_author": "van der Marel",
+    "year": 2015,
+    "title": "Gas density drops inside dust cavities of transitional disks around young stars observed with ALMA",
+    "journal": "A&A 579, A106 (2015)",
+    "arxiv": "1504.03927",
+    "bibcode": "2015A&A...579A.106V"
+   },
+   "epoch": "2012-08-28",
+   "note": "ALMA Cycle 0 program 2011.0.00724.S; Band 9 (690 GHz, 440 um) continuum image, cropped from the left panel of Fig. 1 (optically thick ring, tilted disk)."
+  },
+  {
+   "image_id": "lkca-15_12co65-mom0",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 9 (12CO J=6-5)",
+   "wavelength_um": 433.6,
+   "wavelength_label": "12CO J=6-5 integrated intensity (moment-0)",
+   "technique": "interferometry",
+   "content": "line",
+   "survey": null,
+   "file": "images/lkca-15/lkca-15_12co65-mom0.png",
+   "credit": "van der Marel et al. 2015, Fig. 1 (LkCa15 panel, crop)",
+   "paper": {
+    "first_author": "van der Marel",
+    "year": 2015,
+    "title": "Gas density drops inside dust cavities of transitional disks around young stars observed with ALMA",
+    "journal": "A&A 579, A106 (2015)",
+    "arxiv": "1504.03927",
+    "bibcode": "2015A&A...579A.106V"
+   },
+   "epoch": "2012-08-28",
+   "note": "ALMA Cycle 0 program 2011.0.00724.S; zero-moment 12CO J=6-5 (691.473 GHz) map, cropped from the center panel of Fig. 1."
   }
  ],
  "notes": null,
- "last_updated": "2026-09-14",
+ "last_updated": "2026-09-15",
  "plx_mas": 6.3619,
  "mags": {
   "B": 13.01,

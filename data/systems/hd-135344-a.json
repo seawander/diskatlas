@@ -19,7 +19,9 @@
  },
  "sptype": "A0V",
  "region": "Sco-Cen",
- "categories": [],
+ "categories": [
+  "protoplanetary"
+ ],
  "planets": [
   {
    "name": "Ab",
@@ -78,8 +80,74 @@
    },
    "epoch": "2023-07-01",
    "content": "continuum"
+  },
+  {
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS",
+   "wavelength_um": 2.11,
+   "wavelength_label": "K1 band (2.11 um); planet detection map (2022-05-03)",
+   "technique": "ADI",
+   "content": "continuum",
+   "survey": null,
+   "image_id": "hd-135344-a_irdis-k1",
+   "file": "images/hd-135344-a/hd-135344-a_irdis-k1.png",
+   "credit": "Stolker et al. 2025, Fig. 1 (IRDIS K1 panel, crop)",
+   "paper": {
+    "first_author": "Stolker",
+    "year": 2025,
+    "title": "Direct imaging discovery of a young giant planet orbiting on Solar System scales",
+    "journal": "A&A (2025)",
+    "arxiv": "2507.06206",
+    "bibcode": "2025A&A...700A..21S"
+   },
+   "epoch": "2022-05-03"
+  },
+  {
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "IFS",
+   "wavelength_um": 1.42,
+   "wavelength_label": "IFS YJ (1.42 um); planet detection map (2021-07-16)",
+   "technique": "ADI",
+   "content": "continuum",
+   "survey": null,
+   "image_id": "hd-135344-a_ifs-yj",
+   "file": "images/hd-135344-a/hd-135344-a_ifs-yj.png",
+   "credit": "Stolker et al. 2025, Fig. 1 (IFS YJ panel, crop)",
+   "paper": {
+    "first_author": "Stolker",
+    "year": 2025,
+    "title": "Direct imaging discovery of a young giant planet orbiting on Solar System scales",
+    "journal": "A&A (2025)",
+    "arxiv": "2507.06206",
+    "bibcode": "2025A&A...700A..21S"
+   },
+   "epoch": "2021-07-16"
+  },
+  {
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "IFS",
+   "wavelength_um": 1.61,
+   "wavelength_label": "IFS YJH (1.61 um); planet detection map (2022-05-03)",
+   "technique": "ADI",
+   "content": "continuum",
+   "survey": null,
+   "image_id": "hd-135344-a_ifs-yjh",
+   "file": "images/hd-135344-a/hd-135344-a_ifs-yjh.png",
+   "credit": "Stolker et al. 2025, Fig. 1 (IFS YJH panel, crop)",
+   "paper": {
+    "first_author": "Stolker",
+    "year": 2025,
+    "title": "Direct imaging discovery of a young giant planet orbiting on Solar System scales",
+    "journal": "A&A (2025)",
+    "arxiv": "2507.06206",
+    "bibcode": "2025A&A...700A..21S"
+   },
+   "epoch": "2022-05-03"
   }
  ],
  "notes": "Visual binary with HD 135344B (SAO 206462); the imaged planet orbits the disk-depleted A0 primary (Stolker+2025).",
- "last_updated": "2026-07-06"
+ "last_updated": "2026-09-15"
 }

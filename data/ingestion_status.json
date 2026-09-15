@@ -1,6 +1,6 @@
 {
  "_doc": "Per-survey ingestion state. entries/coords/images: done|partial|todo. Update on every ingest.",
- "updated": "2026-09-14: Re-ingested the ISPY NaCo L' survey (Cugno 2023, arXiv:2211.15434) - the 2026-07-12 abstract-screen exclusion was wrong; the paper publishes Fig. 5 'Disk_collection.pdf', a 17-panel NaCo L' gallery of detected protoplanetary disks. Ingested all 17 (2 new systems: HD 58647, HD 72106). PCA-ADI residual figures (Residuals_1/2/3) remain out of scope. Atlas: 963 systems / 4435 records / 844 papers, 0 errors.",
+ "updated": "2026-09-15: Band-completeness audit (all 224 atlas papers with an observing table) + wave-1 ingestion. Found ~90 papers where prior agents had cropped only ONE band of a multi-band figure. Wave 1 ingested +70 panels: Ren 2023 NICMOS F160W gallery (10 systems); Holland 2017 SONS SCUBA-2 450um (7); Marino 2026 ARKS 12CO/13CO(3-2) moment-0 (5 systems); 1504.03927 Band 9 + 12CO(6-5) (4); VISIR PAH1/ARIII/PAH2/NEAR mid-IR (6); Duchene 2024 Tau042021 JWST+HST+ALMA bands (8); SPHERE multiband splits across 8 papers (18). hd-142666 existing record corrected H->J; hd-135344-a category set. Atlas: 963 systems / 4515 records / 845 papers, 0 errors. More audit waves pending.",
  "surveys": {
   "DSHARP": {
    "entries": "done",

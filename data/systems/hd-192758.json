@@ -100,10 +100,32 @@
    },
    "epoch": "2007-2008",
    "content": "continuum"
+  },
+  {
+   "image_id": "hd-192758_nicmos-f160w-ren2023",
+   "type": "disk_scattered",
+   "facility": "HST",
+   "instrument": "NICMOS F160W",
+   "wavelength_um": 1.6,
+   "wavelength_label": "F160W 1.60 um (scattered light)",
+   "technique": "RDI",
+   "content": "continuum",
+   "survey": null,
+   "file": "images/hd-192758/hd-192758_nicmos-f160w-ren2023.png",
+   "credit": "Ren et al. 2023, Fig. 4 (HD 192758 panel, crop)",
+   "paper": {
+    "first_author": "Ren",
+    "year": 2023,
+    "title": "Debris Disk Color with the Hubble Space Telescope",
+    "journal": "A&A 672, A114",
+    "arxiv": "2302.04273",
+    "bibcode": "2023A&A...672A.114R"
+   },
+   "epoch": "2007-2008"
   }
  ],
  "notes": "AUTO-CREATED from staging - fill metadata & coords",
- "last_updated": "2026-07-06",
+ "last_updated": "2026-09-15",
  "plx_mas": 15.0368,
  "mags": {
   "B": 7.34,

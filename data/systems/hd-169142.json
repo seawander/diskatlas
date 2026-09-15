@@ -774,10 +774,32 @@
    },
    "epoch": "2016-09-17",
    "note": "HD 169142 1.3 mm ALMA continuum (project 2015.1.01301.S); epoch from ALMA archive obscore t_min (paper lists only project IDs)."
+  },
+  {
+   "image_id": "hd-169142_visir-pah1",
+   "type": "disk_mm",
+   "facility": "VLT-VISIR",
+   "instrument": "VISIR",
+   "wavelength_um": 8.58,
+   "wavelength_label": "PAH1 8.58 um (mid-IR)",
+   "technique": "other",
+   "content": "continuum",
+   "survey": null,
+   "file": "images/hd-169142/hd-169142_visir-pah1.png",
+   "credit": "Petit dit de la Roche 2021, Fig. 2 (PAH1 panel, crop)",
+   "paper": {
+    "first_author": "Petit dit de la Roche",
+    "year": 2021,
+    "title": "New mid-infrared imaging constraints on companions and protoplanetary disks around six young stars",
+    "journal": "A&A",
+    "arxiv": "2102.12506",
+    "bibcode": "2021A&A...648A..92P"
+   },
+   "epoch": "2019-09-13"
   }
  ],
  "notes": null,
- "last_updated": "2026-09-12",
+ "last_updated": "2026-09-15",
  "plx_mas": 8.7053,
  "mags": {
   "B": 8.42,

@@ -1262,3 +1262,20 @@ AK Sco (HD 152404), HD 163296, T CrA, MWC 614 (HD 179218). The PCA-ADI
 `Residuals_1/2/3` figures stay out of scope (residual maps). Two new systems created
 (HD 58647 B9IV, HD 72106 A0IV). Atlas: 963 systems / 4435 records / 844 papers,
 0 errors / 0 warnings.
+
+## 2026-09-15 — Band-completeness audit + wave-1 ingestion
+
+Root cause of the user-caught misses (HD 19467 Lp/Mp, MWC 758 bottom row): prior
+agents routinely cropped only ONE band of multi-band figures. Ran a systematic
+audit of every atlas paper that has an observing table (224 papers): each agent
+read the observing log/Observations section, extracted the imaged bands, and
+compared to the records citing that paper. ~90 papers flagged with genuinely
+missing imaged bands. Wave 1 ingested +70 panels: Ren et al. 2023 NICMOS F160W
+gallery (10 systems, 2302.04273); Holland 2017 SONS SCUBA-2 450 µm (7, 1706.01218);
+Marino 2026 ARKS 12CO/13CO(3-2) moment-0 (5 systems); Band 9 + 12CO(6-5)
+(1504.03927, 4); VISIR PAH1/ARIII/PAH2/PAH2_2/NEAR mid-IR (2102.12506, 6 systems);
+Duchêne 2024 Tau 042021 JWST/HST/ALMA bands (2309.07040, 8); SPHERE multiband
+splits across 8 papers (18). Fixed the HD 142666 held record (mislabelled H → J
+1.245 µm) and set HD 135344 A's category. Atlas: 963 systems / 4515 records /
+845 papers, 0 errors. Additional audit waves pending (NICMOS/SCUBA done; many
+SPHERE/ALMA/JWST single-system splits remain).
