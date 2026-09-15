@@ -264,28 +264,6 @@
    "content": "continuum"
   },
   {
-   "image_id": "mwc-758_lbti2023",
-   "type": "planet",
-   "facility": "LBT",
-   "instrument": "LBTI/LMIRCam",
-   "wavelength_um": 3.7,
-   "wavelength_label": "L' (3.7 um) imaging; plus LBTI/ALES 3-4 um IFS spectrum",
-   "technique": "Thermal-IR high-contrast direct imaging / ADI, plus ALES IFS",
-   "survey": null,
-   "file": "images/mwc-758/mwc-758_lbti2023.png",
-   "credit": "Wagner et al. 2023, Fig. 1 (crop)",
-   "paper": {
-    "first_author": "Wagner",
-    "year": 2023,
-    "title": "Direct images and spectroscopy of a giant protoplanet driving spiral arms in MWC 758",
-    "journal": "Nature Astronomy",
-    "arxiv": "2307.04021",
-    "bibcode": "2023NatAs...7.1208W"
-   },
-   "epoch": "2019",
-   "content": "continuum"
-  },
-  {
    "image_id": "mwc-758_sphere-ks-qphi",
    "type": "disk_scattered",
    "facility": "VLT-SPHERE",
@@ -616,10 +594,120 @@
     "bibcode": "2023A&A...669A.145C"
    },
    "epoch": "2019-01-16"
+  },
+  {
+   "image_id": "mwc-758_lbti2023-lp",
+   "type": "planet",
+   "facility": "LBT",
+   "instrument": "LBTI/LMIRCam",
+   "wavelength_um": 3.77,
+   "wavelength_label": "L' 3.4-4.14 um; extended-structure (disk) processing",
+   "technique": "Thermal-IR high-contrast direct imaging / ADI, plus ALES IFS",
+   "survey": null,
+   "file": "images/mwc-758/mwc-758_lbti2023-lp.png",
+   "credit": "Wagner et al. 2023, Fig. 1 (L' panel a, extended-structure reduction, crop)",
+   "paper": {
+    "first_author": "Wagner",
+    "year": 2023,
+    "title": "Direct images and spectroscopy of a giant protoplanet driving spiral arms in MWC 758",
+    "journal": "Nature Astronomy",
+    "arxiv": "2307.04021",
+    "bibcode": "2023NatAs...7.1208W"
+   },
+   "epoch": "2019-11-14",
+   "content": "continuum"
+  },
+  {
+   "image_id": "mwc-758_lbti2023-lp-ps",
+   "type": "planet",
+   "facility": "LBT",
+   "instrument": "LBTI/LMIRCam",
+   "wavelength_um": 3.77,
+   "wavelength_label": "L' 3.4-4.14 um; point-source (ASDI-KLIP) processing",
+   "technique": "Thermal-IR high-contrast direct imaging / ADI, plus ALES IFS",
+   "survey": null,
+   "file": "images/mwc-758/mwc-758_lbti2023-lp-ps.png",
+   "credit": "Wagner et al. 2023, Fig. 1 (L' panel b, point-source reduction, crop)",
+   "paper": {
+    "first_author": "Wagner",
+    "year": 2023,
+    "title": "Direct images and spectroscopy of a giant protoplanet driving spiral arms in MWC 758",
+    "journal": "Nature Astronomy",
+    "arxiv": "2307.04021",
+    "bibcode": "2023NatAs...7.1208W"
+   },
+   "epoch": "2019-11-14",
+   "content": "continuum"
+  },
+  {
+   "image_id": "mwc-758_lbti2023-3.4-3.8um",
+   "type": "planet",
+   "facility": "LBT",
+   "instrument": "LBTI/LMIRCam",
+   "wavelength_um": 3.6,
+   "wavelength_label": "3.4-3.8 um (ALES channel)",
+   "technique": "Thermal-IR high-contrast direct imaging / ADI, plus ALES IFS",
+   "survey": null,
+   "file": "images/mwc-758/mwc-758_lbti2023-3.4-3.8um.png",
+   "credit": "Wagner et al. 2023, Fig. 1 (3.4-3.8 um panel d, crop)",
+   "paper": {
+    "first_author": "Wagner",
+    "year": 2023,
+    "title": "Direct images and spectroscopy of a giant protoplanet driving spiral arms in MWC 758",
+    "journal": "Nature Astronomy",
+    "arxiv": "2307.04021",
+    "bibcode": "2023NatAs...7.1208W"
+   },
+   "epoch": "2019-11-14",
+   "content": "continuum"
+  },
+  {
+   "image_id": "mwc-758_lbti2023-3.8-3.97um",
+   "type": "planet",
+   "facility": "LBT",
+   "instrument": "LBTI/LMIRCam",
+   "wavelength_um": 3.885,
+   "wavelength_label": "3.8-3.97 um (ALES channel)",
+   "technique": "Thermal-IR high-contrast direct imaging / ADI, plus ALES IFS",
+   "survey": null,
+   "file": "images/mwc-758/mwc-758_lbti2023-3.8-3.97um.png",
+   "credit": "Wagner et al. 2023, Fig. 1 (3.8-3.97 um panel e, crop)",
+   "paper": {
+    "first_author": "Wagner",
+    "year": 2023,
+    "title": "Direct images and spectroscopy of a giant protoplanet driving spiral arms in MWC 758",
+    "journal": "Nature Astronomy",
+    "arxiv": "2307.04021",
+    "bibcode": "2023NatAs...7.1208W"
+   },
+   "epoch": "2019-11-14",
+   "content": "continuum"
+  },
+  {
+   "image_id": "mwc-758_lbti2023-3.97-4.14um",
+   "type": "planet",
+   "facility": "LBT",
+   "instrument": "LBTI/LMIRCam",
+   "wavelength_um": 4.055,
+   "wavelength_label": "3.97-4.14 um (ALES channel)",
+   "technique": "Thermal-IR high-contrast direct imaging / ADI, plus ALES IFS",
+   "survey": null,
+   "file": "images/mwc-758/mwc-758_lbti2023-3.97-4.14um.png",
+   "credit": "Wagner et al. 2023, Fig. 1 (3.97-4.14 um panel f, crop)",
+   "paper": {
+    "first_author": "Wagner",
+    "year": 2023,
+    "title": "Direct images and spectroscopy of a giant protoplanet driving spiral arms in MWC 758",
+    "journal": "Nature Astronomy",
+    "arxiv": "2307.04021",
+    "bibcode": "2023NatAs...7.1208W"
+   },
+   "epoch": "2019-11-14",
+   "content": "continuum"
   }
  ],
  "notes": null,
- "last_updated": "2026-09-14",
+ "last_updated": "2026-09-15",
  "plx_mas": 6.4157,
  "mags": {
   "B": 8.57,
