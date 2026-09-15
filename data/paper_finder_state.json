@@ -60499,5 +60499,191 @@
   "reason": "Cugno et al. 2026 JWST/MIRI F1140C (11.3 um) coronagraphic imaging of 5 disks: final-residual images ingested (+5; HD163296/J1615/J1842 extended disk emission; SYCha/LkCa15 imaged non-detections).",
   "date": "2026-09-14",
   "title": "JWST/MIRI Imaging Search for Kinematically Detected Protoplanetary Candidates"
+ },
+ "2000MNRAS.319..154B": {
+  "status": "excluded",
+  "reason": "Single-dish submm survey; no arXiv source figure available for a panel crop.",
+  "date": "2026-09-14",
+  "title": "A submillimetre survey for protostellar accretion discs using the JCMT-CSO interferometer"
+ },
+ "astro-ph/0307097": {
+  "status": "excluded",
+  "reason": "VLT 3-5um/CRIRES/ISAAC spectroscopy; no imaging panel.",
+  "date": "2026-09-14",
+  "title": "A 3-5 μ m VLT spectroscopic survey of embedded young low mass stars I.   Structure of the CO ice"
+ },
+ "astro-ph/0508551": {
+  "status": "excluded",
+  "reason": "VLT 3-5um/CRIRES/ISAAC spectroscopy; no imaging panel.",
+  "date": "2026-09-14",
+  "title": "A 3-5 μm VLT spectroscopic survey of embedded young low mass stars II. Solid OCN<SUP>-</SUP>"
+ },
+ "1209.3966": {
+  "status": "excluded",
+  "reason": "Herschel PACS/HIFI/WISH spectroscopy or contour-only spectral line-map grids; no qualifying sky-image panel.",
+  "date": "2026-09-14",
+  "title": "The complete far-infrared and submillimeter spectrum of the Class 0 protostar Serpens SMM1 obtained with Herschel. Characterizing UV-irradiated shocks heating a"
+ },
+ "1301.5322": {
+  "status": "excluded",
+  "reason": "Herschel PACS/HIFI/WISH spectroscopy or contour-only spectral line-map grids; no qualifying sky-image panel.",
+  "date": "2026-09-14",
+  "title": "High-pressure, low-abundance water in bipolar outflows. Results from a Herschel-WISH survey"
+ },
+ "1212.5033": {
+  "status": "excluded",
+  "reason": "Herschel PACS/HIFI/WISH spectroscopy or contour-only spectral line-map grids; no qualifying sky-image panel.",
+  "date": "2026-09-14",
+  "title": "OH far-infrared emission from low- and intermediate-mass protostars surveyed with Herschel-PACS"
+ },
+ "1301.4821": {
+  "status": "excluded",
+  "reason": "Herschel PACS/HIFI/WISH spectroscopy or contour-only spectral line-map grids; no qualifying sky-image panel.",
+  "date": "2026-09-14",
+  "title": "Water in star-forming regions with Herschel (WISH). III. Far-infrared cooling lines in low-mass young stellar objects"
+ },
+ "1301.4658": {
+  "status": "excluded",
+  "reason": "Herschel PACS/HIFI/WISH spectroscopy or contour-only spectral line-map grids; no qualifying sky-image panel.",
+  "date": "2026-09-14",
+  "title": "Herschel-HIFI observations of high-J CO and isotopologues in star-forming regions: from low to high mass"
+ },
+ "1306.3981": {
+  "status": "excluded",
+  "reason": "Herschel PACS/HIFI/WISH spectroscopy or contour-only spectral line-map grids; no qualifying sky-image panel.",
+  "date": "2026-09-14",
+  "title": "High-J CO survey of low-mass protostars observed with Herschel-HIFI"
+ },
+ "1307.1710": {
+  "status": "excluded",
+  "reason": "Herschel PACS/HIFI/WISH spectroscopy or contour-only spectral line-map grids; no qualifying sky-image panel.",
+  "date": "2026-09-14",
+  "title": "Observational evidence for dissociative shocks in the inner 100 AU of low-mass protostars using Herschel-HIFI"
+ },
+ "1307.2726": {
+  "status": "excluded",
+  "reason": "Herschel PACS/HIFI/WISH spectroscopy or contour-only spectral line-map grids; no qualifying sky-image panel.",
+  "date": "2026-09-14",
+  "title": "Dust, ice and gas in time (DIGIT): Herschel and Spitzer spectro-imaging of SMM3 and SMM4 in Serpens"
+ },
+ "1304.4961": {
+  "status": "excluded",
+  "reason": "VLT 3-5um/CRIRES/ISAAC spectroscopy; no imaging panel.",
+  "date": "2026-09-14",
+  "title": "VLT-CRIRES Survey of Rovibrational CO Emission from Protoplanetary Disks"
+ },
+ "1304.7389": {
+  "status": "excluded",
+  "reason": "Herschel PACS/HIFI/WISH spectroscopy or contour-only spectral line-map grids; no qualifying sky-image panel.",
+  "date": "2026-09-14",
+  "title": "Embedded Protostars in the Dust, Ice, and Gas In Time (DIGIT) Herschel Key Program: Continuum SEDs, and an Inventory of Characteristic Far-infrared Lines from P"
+ },
+ "1311.7657": {
+  "status": "excluded",
+  "reason": "Herschel PACS/HIFI/WISH spectroscopy or contour-only spectral line-map grids; no qualifying sky-image panel.",
+  "date": "2026-09-14",
+  "title": "Warm gas towards young stellar objects in Corona Australis. Herschel/PACS observations from the DIGIT key programme"
+ },
+ "1409.4658": {
+  "status": "excluded",
+  "reason": "Herschel PACS/HIFI/WISH spectroscopy or contour-only spectral line-map grids; no qualifying sky-image panel.",
+  "date": "2026-09-14",
+  "title": "Shockingly low water abundances in Herschel/PACS observations of low-mass protostars in Perseus"
+ },
+ "1409.5704": {
+  "status": "excluded",
+  "reason": "Herschel PACS/HIFI/WISH spectroscopy or contour-only spectral line-map grids; no qualifying sky-image panel.",
+  "date": "2026-09-14",
+  "title": "Water in star-forming regions with Herschel (WISH). V. The physical conditions in low-mass protostellar outflows revealed by multi-transition water observations"
+ },
+ "1509.06216": {
+  "status": "excluded",
+  "reason": "Herschel PACS/HIFI/WISH spectroscopy or contour-only spectral line-map grids; no qualifying sky-image panel.",
+  "date": "2026-09-14",
+  "title": "A network of filaments detected by Herschel in the Serpens core. A laboratory to test simulations of low-mass star formation"
+ },
+ "1503.01225": {
+  "status": "excluded",
+  "reason": "Herschel PACS/HIFI/WISH spectroscopy or contour-only spectral line-map grids; no qualifying sky-image panel.",
+  "date": "2026-09-14",
+  "title": "The Warm CO Gas along the UV-heated Outflow Cavity Walls: A Possible Interpretation for the Herschel/PACS CO Spectra of Embedded YSOs"
+ },
+ "1511.03944": {
+  "status": "excluded",
+  "reason": "Herschel PACS/HIFI/WISH spectroscopy or contour-only spectral line-map grids; no qualifying sky-image panel.",
+  "date": "2026-09-14",
+  "title": "Molecule survival in magnetized protostellar disk winds. II. Predicted H<SUB>2</SUB>O line profiles versus Herschel/HIFI observations"
+ },
+ "1511.04141": {
+  "status": "excluded",
+  "reason": "VLT 3-5um/CRIRES/ISAAC spectroscopy; no imaging panel.",
+  "date": "2026-09-14",
+  "title": "VLT/ISAAC infrared spectroscopy of embedded high-mass YSOs in the Large Magellanic Cloud: Methanol and the 3.47 μm band"
+ },
+ "1601.05028": {
+  "status": "excluded",
+  "reason": "Herschel PACS/HIFI/WISH spectroscopy or contour-only spectral line-map grids; no qualifying sky-image panel.",
+  "date": "2026-09-14",
+  "title": "The CDF Archive: Herschel PACS and SPIRE Spectroscopic Data Pipeline and Products for Protostars and Young Stellar Objects"
+ },
+ "1701.04647": {
+  "status": "excluded",
+  "reason": "Herschel PACS/HIFI/WISH spectroscopy or contour-only spectral line-map grids; no qualifying sky-image panel.",
+  "date": "2026-09-14",
+  "title": "Outflows, infall and evolution of a sample of embedded low-mass protostars. The William Herschel Line Legacy (WILL) survey"
+ },
+ "1705.10269": {
+  "status": "excluded",
+  "reason": "Herschel PACS/HIFI/WISH spectroscopy or contour-only spectral line-map grids; no qualifying sky-image panel.",
+  "date": "2026-09-14",
+  "title": "Origin of warm and hot gas emission from low-mass protostars: Herschel-HIFI observations of CO J = 16-15. I. Line profiles, physical conditions, and H<SUB>2</SU"
+ },
+ "1804.02405": {
+  "status": "excluded",
+  "reason": "Wide-field Serpens South map, no per-target gallery (crop convention); not ingested.",
+  "date": "2026-09-14",
+  "title": "Distribution of Serpens South protostars revealed with ALMA"
+ },
+ "1802.03379": {
+  "status": "excluded",
+  "reason": "Herschel PACS/HIFI/WISH spectroscopy or contour-only spectral line-map grids; no qualifying sky-image panel.",
+  "date": "2026-09-14",
+  "title": "The Herschel-PACS Legacy of Low-mass Protostars: The Properties of Warm and Hot Gas Components and Their Origin in Far-UV Illuminated Shocks"
+ },
+ "2022MNRAS.511.2453P": {
+  "status": "excluded",
+  "reason": "Wide-field Serpens South map, no per-target gallery (crop convention); not ingested.",
+  "date": "2026-09-14",
+  "title": "Taxonomy of protoplanetary discs observed with ALMA"
+ },
+ "2409.17237": {
+  "status": "excluded",
+  "reason": "JWST ice spectroscopy / NIRSpec catalogue; no 2-D sky-image panel.",
+  "date": "2026-09-14",
+  "title": "JOYS+ study of solid-state <SUP>12</SUP>C/<SUP>13</SUP>C isotope ratios in protostellar envelopes: Observations of CO and CO<SUB>2</SUB> ice with the James Webb"
+ },
+ "2412.05650": {
+  "status": "excluded",
+  "reason": "JWST ice spectroscopy / NIRSpec catalogue; no 2-D sky-image panel.",
+  "date": "2026-09-14",
+  "title": "Externally irradiated young stars in NGC 3603: A JWST NIRSpec catalogue of pre-main-sequence stars in a massive star formation region"
+ },
+ "2601.03705": {
+  "status": "excluded",
+  "reason": "JWST ice spectroscopy / NIRSpec catalogue; no 2-D sky-image panel.",
+  "date": "2026-09-14",
+  "title": "Identification of solid N<SUB>2</SUB>O in interstellar ices using open JWST data"
+ },
+ "2604.25915": {
+  "status": "excluded",
+  "reason": "JWST ice spectroscopy / NIRSpec catalogue; no 2-D sky-image panel.",
+  "date": "2026-09-14",
+  "title": "JOYS+: Analyses of OCN<SUP>-</SUP>, N<SUB>2</SUB>O, NO, and complex cyanides in ices: Thermal processing results in a modest increase of OCN<SUP>−</SUP> ice"
+ },
+ "2606.25500": {
+  "status": "excluded",
+  "reason": "JWST ice spectroscopy / NIRSpec catalogue; no 2-D sky-image panel.",
+  "date": "2026-09-14",
+  "title": "Probing the Ubiquity of Complex Ices in Protostars with JWST: The First Systematic Quantification of Weak Ice Bands between 6.8 and 7.9 μm"
  }
 }
