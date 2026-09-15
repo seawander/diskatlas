@@ -749,6 +749,28 @@
     "bibcode": "2021A&A...648A..92P"
    },
    "epoch": "2019-12-18"
+  },
+  {
+   "image_id": "mwc-758_nirc2-lp-2016",
+   "type": "planet",
+   "facility": "Keck",
+   "instrument": "NIRC2",
+   "wavelength_um": 3.8,
+   "wavelength_label": "L' 3.8 um PCA-ADI (2016 epoch; point-like source b + spirals S1-S3)",
+   "technique": "ADI",
+   "content": "continuum",
+   "survey": null,
+   "file": "images/mwc-758/mwc-758_nirc2-lp-2016.png",
+   "credit": "Reggiani et al. 2018, Fig. 1 (2016 epoch PCA-ADI panel, crop)",
+   "paper": {
+    "first_author": "Reggiani",
+    "year": 2018,
+    "title": "Discovery of a point-like source and a third spiral arm in the transition disk around the Herbig Ae star MWC 758",
+    "journal": "A&A",
+    "arxiv": "1710.11393",
+    "bibcode": "2018A&A...611A..74R"
+   },
+   "epoch": "2016-10-24"
   }
  ],
  "notes": null,

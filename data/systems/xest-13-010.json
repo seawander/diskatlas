@@ -164,8 +164,96 @@
    },
    "epoch": "2010-2014",
    "content": "continuum"
+  },
+  {
+   "image_id": "xest-13-010_irac36-sub",
+   "type": "planet",
+   "facility": "Spitzer",
+   "instrument": "IRAC [3.6] (PSF-subtracted)",
+   "wavelength_um": 3.6,
+   "wavelength_label": "IRAC 3.6 um host-PSF-subtracted residual; companion KOINTREAU-2b marked by black arrow",
+   "technique": "PSF fitting/subtraction",
+   "content": "continuum",
+   "survey": "KOINTREAU",
+   "file": "images/xest-13-010/xest-13-010_irac36-sub.png",
+   "credit": "Walker et al. 2026, Fig. 3 (crop)",
+   "paper": {
+    "first_author": "Walker",
+    "year": 2026,
+    "title": "Keck Observations in the INfrared of Taurus and ρ Oph Exoplanets And Ultracool dwarfs (KOINTREAU) I: A Planetary-Mass Companion and a Disk-Obscured Stellar Companion Discovered in Taurus",
+    "journal": "AJ 171, 80",
+    "arxiv": "2512.05191",
+    "bibcode": "2026AJ....171...80W"
+   },
+   "epoch": "2005-02"
+  },
+  {
+   "image_id": "xest-13-010_irac45-sub",
+   "type": "planet",
+   "facility": "Spitzer",
+   "instrument": "IRAC [4.5] (PSF-subtracted)",
+   "wavelength_um": 4.5,
+   "wavelength_label": "IRAC 4.5 um host-PSF-subtracted residual; companion KOINTREAU-2b marked by black arrow",
+   "technique": "PSF fitting/subtraction",
+   "content": "continuum",
+   "survey": "KOINTREAU",
+   "file": "images/xest-13-010/xest-13-010_irac45-sub.png",
+   "credit": "Walker et al. 2026, Fig. 3 (crop)",
+   "paper": {
+    "first_author": "Walker",
+    "year": 2026,
+    "title": "Keck Observations in the INfrared of Taurus and ρ Oph Exoplanets And Ultracool dwarfs (KOINTREAU) I: A Planetary-Mass Companion and a Disk-Obscured Stellar Companion Discovered in Taurus",
+    "journal": "AJ 171, 80",
+    "arxiv": "2512.05191",
+    "bibcode": "2026AJ....171...80W"
+   },
+   "epoch": "2005-02"
+  },
+  {
+   "image_id": "xest-13-010_irac58-sub",
+   "type": "planet",
+   "facility": "Spitzer",
+   "instrument": "IRAC [5.8] (PSF-subtracted)",
+   "wavelength_um": 5.8,
+   "wavelength_label": "IRAC 5.8 um host-PSF-subtracted residual; companion KOINTREAU-2b marked by black arrow",
+   "technique": "PSF fitting/subtraction",
+   "content": "continuum",
+   "survey": "KOINTREAU",
+   "file": "images/xest-13-010/xest-13-010_irac58-sub.png",
+   "credit": "Walker et al. 2026, Fig. 3 (crop)",
+   "paper": {
+    "first_author": "Walker",
+    "year": 2026,
+    "title": "Keck Observations in the INfrared of Taurus and ρ Oph Exoplanets And Ultracool dwarfs (KOINTREAU) I: A Planetary-Mass Companion and a Disk-Obscured Stellar Companion Discovered in Taurus",
+    "journal": "AJ 171, 80",
+    "arxiv": "2512.05191",
+    "bibcode": "2026AJ....171...80W"
+   },
+   "epoch": "2005-02"
+  },
+  {
+   "image_id": "xest-13-010_irac80-sub",
+   "type": "planet",
+   "facility": "Spitzer",
+   "instrument": "IRAC [8.0] (PSF-subtracted)",
+   "wavelength_um": 8.0,
+   "wavelength_label": "IRAC 8.0 um host-PSF-subtracted residual; companion KOINTREAU-2b marked by black arrow (companion only constrained as an upper limit in this band)",
+   "technique": "PSF fitting/subtraction",
+   "content": "continuum",
+   "survey": "KOINTREAU",
+   "file": "images/xest-13-010/xest-13-010_irac80-sub.png",
+   "credit": "Walker et al. 2026, Fig. 3 (crop)",
+   "paper": {
+    "first_author": "Walker",
+    "year": 2026,
+    "title": "Keck Observations in the INfrared of Taurus and ρ Oph Exoplanets And Ultracool dwarfs (KOINTREAU) I: A Planetary-Mass Companion and a Disk-Obscured Stellar Companion Discovered in Taurus",
+    "journal": "AJ 171, 80",
+    "arxiv": "2512.05191",
+    "bibcode": "2026AJ....171...80W"
+   },
+   "epoch": "2005-02"
   }
  ],
  "notes": "Host is an M3 Taurus member (~3.4 Myr, XEST/XMM-Newton survey source) with a known circumstellar disk (SMA-detected, Akeson et al. 2019). KOINTREAU-2b confirmed bound via common proper motion with Gaia astrometry (log Bayes factor ~25.1); interpreted as a young star obscured by its own edge-on disk rather than a substellar object.",
- "last_updated": "2026-07-06"
+ "last_updated": "2026-09-15"
 }

@@ -1295,3 +1295,17 @@ CQ Tau; DG Tau (B7/B3); CB 26; IRAM 04191 (VLA K/Ka/Q + 1.3 mm); Fomalhaut
 VISIR SIV/NeII, GQ Lup MRS channels; Sz 91 CS(3-2); HD 95086 (Ks, IFS H, K2);
 beta Pic M'; HD 61005 Band 6. Corrected the COPAINS IRDIS records (mislabelled
 H → K12). Atlas: 963 systems / 4641 records / 845 papers, 0 errors.
+
+## 2026-09-15 (3) — Band-audit wave 3 (final)
+
+Final wave of the band-completeness ingestion: +25 panels. Created **7 new
+systems** for the FU Orionis-type ALMA disks in Kóspál et al. 2021 (2106.14409)
+that had no atlas entry — ar-6a (AR 6, one combined panel), bran-76 (V646 Pup),
+haro-5a-irs (IRAS 05329-0505), oo-ser (IRAS 18272+0114), v346-nor (IRAS
+16289-4449), v899-mon, v900-mon (SIMBAD coords). Filled remaining existing-system
+gaps: GJ 581 (PACS 100/160, SPIRE 250, NICMOS F110W); HH 48 NE Band 6; HD 141943
+IFS YJ; HSC J2255-0251 F150W; PDS 453 2 µm PI; MWC 614 NIRC2 SAM H; HD 95086 IFS
+J + IRDIS K1; MWC 758 L′ 2016 epoch; XEST 13-010/17-036 IRAC [3.6]/[4.5]/[5.8]/
+[8.0] residuals. Excluded with reason: the ZIMPOL AGB catalogue (2608.02410)
+publishes only one representative filter per star (no additional panels).
+Atlas: 970 systems / 4666 records / 845 papers, 0 errors.

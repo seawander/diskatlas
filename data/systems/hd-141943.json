@@ -213,6 +213,28 @@
     "bibcode": "2023A&A...672A.114R"
    },
    "epoch": "2005-03-18"
+  },
+  {
+   "image_id": "hd-141943_sphere-ifs-yj",
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "IFS",
+   "wavelength_um": 1.15,
+   "wavelength_label": "YJ 0.95-1.35 um (KLIP total intensity)",
+   "technique": "ADI",
+   "content": "continuum",
+   "survey": null,
+   "file": "images/hd-141943/hd-141943_sphere-ifs-yj.png",
+   "credit": "Boccaletti et al. 2019, Fig. 2 (IFS YJ band panel, crop)",
+   "paper": {
+    "first_author": "Boccaletti",
+    "year": 2019,
+    "title": "Two cold belts in the debris disk around the G-type star NZ Lup",
+    "journal": "Astronomy & Astrophysics",
+    "arxiv": "1904.02746",
+    "bibcode": "2019A&A...625A..21B"
+   },
+   "epoch": "2017-04-30"
   }
  ],
  "notes": null,

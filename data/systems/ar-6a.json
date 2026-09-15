@@ -1,0 +1,55 @@
+{
+ "id": "ar-6a",
+ "name": "AR 6A/6B",
+ "alt_names": [
+  "AR 6",
+  "AR 6A",
+  "AR 6B",
+  "V912 Mon",
+  "Cl* NGC 2264 AR 6"
+ ],
+ "simbad": "V912 Mon",
+ "ra_deg": 100.24709114,
+ "dec_deg": 9.59788608,
+ "dist_pc": 719,
+ "plx_mas": 1.1081,
+ "mags": {
+  "G": 18.861395,
+  "I": 16.5,
+  "J": 11.776,
+  "H": 9.317,
+  "K": 7.771
+ },
+ "sptype": "GIII",
+ "region": "NGC 2264",
+ "categories": [
+  "protoplanetary"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "image_id": "ar-6a_alma-kospal21",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 6",
+   "wavelength_um": 1330,
+   "wavelength_label": "1.33 mm continuum",
+   "technique": "interferometry",
+   "content": "continuum",
+   "survey": null,
+   "file": "images/ar-6a/ar-6a_alma-kospal21.png",
+   "credit": "Kóspál et al. 2021, Fig. 1 (AR6 panel, crop)",
+   "paper": {
+    "first_author": "Kóspál",
+    "year": 2021,
+    "title": "Massive Compact Disks around FU Orionis-type Young Eruptive Stars Revealed by ALMA",
+    "journal": "ApJS 256, 30",
+    "arxiv": "2106.14409",
+    "bibcode": "2021ApJS..256...30K"
+   },
+   "epoch": "2016-2017"
+  }
+ ],
+ "notes": "FUor-like multiple system in NGC 2264; ALMA 1.33 mm continuum resolves components AR 6A (= V912 Mon / Cl* NGC 2264 AR 6), AR 6B, and AR 6C. Distance from Maíz-Apellániz et al. 2019 (719 pc); the Gaia parallax (~1.1 mas) gives a larger distance.",
+ "last_updated": "2026-09-15"
+}

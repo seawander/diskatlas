@@ -36,9 +36,98 @@
    "file": "images/gj-581/gj-581_herschel.png",
    "epoch": "2011-07-29",
    "content": "continuum"
+  },
+  {
+   "image_id": "gj-581_pacs-100",
+   "type": "disk_mm",
+   "facility": "Herschel",
+   "instrument": "PACS",
+   "wavelength_um": 100,
+   "wavelength_label": "100 um (PACS; photosphere-subtracted)",
+   "technique": "other",
+   "content": "continuum",
+   "survey": null,
+   "file": "images/gj-581/gj-581_pacs-100.png",
+   "credit": "Lestrade et al. 2012, Fig. 1 (100 um photosphere-subtracted PACS panel, crop)",
+   "paper": {
+    "first_author": "Lestrade",
+    "year": 2012,
+    "title": "A DEBRIS Disk Around The Planet Hosting M-star GJ 581 Spatially Resolved with Herschel",
+    "journal": "A&A 548, A86",
+    "arxiv": "1211.4898",
+    "bibcode": "2012A&A...548A..86L"
+   },
+   "epoch": "2011-07-29"
+  },
+  {
+   "image_id": "gj-581_pacs-160",
+   "type": "disk_mm",
+   "facility": "Herschel",
+   "instrument": "PACS",
+   "wavelength_um": 160,
+   "wavelength_label": "160 um (PACS; photosphere-subtracted)",
+   "technique": "other",
+   "content": "continuum",
+   "survey": null,
+   "file": "images/gj-581/gj-581_pacs-160.png",
+   "credit": "Lestrade et al. 2012, Fig. 1 (160 um photosphere-subtracted PACS panel, crop)",
+   "paper": {
+    "first_author": "Lestrade",
+    "year": 2012,
+    "title": "A DEBRIS Disk Around The Planet Hosting M-star GJ 581 Spatially Resolved with Herschel",
+    "journal": "A&A 548, A86",
+    "arxiv": "1211.4898",
+    "bibcode": "2012A&A...548A..86L"
+   },
+   "epoch": "2011-07-29"
+  },
+  {
+   "image_id": "gj-581_spire-250",
+   "type": "disk_mm",
+   "facility": "Herschel",
+   "instrument": "SPIRE",
+   "wavelength_um": 250,
+   "wavelength_label": "250 um (SPIRE)",
+   "technique": "other",
+   "content": "continuum",
+   "survey": null,
+   "file": "images/gj-581/gj-581_spire-250.png",
+   "credit": "Lestrade et al. 2012, Fig. 3 (250 um SPIRE panel, crop)",
+   "paper": {
+    "first_author": "Lestrade",
+    "year": 2012,
+    "title": "A DEBRIS Disk Around The Planet Hosting M-star GJ 581 Spatially Resolved with Herschel",
+    "journal": "A&A 548, A86",
+    "arxiv": "1211.4898",
+    "bibcode": "2012A&A...548A..86L"
+   },
+   "epoch": "2011-01-30"
+  },
+  {
+   "image_id": "gj-581_nicmos-f110w",
+   "type": "disk_scattered",
+   "facility": "HST",
+   "instrument": "NICMOS",
+   "wavelength_um": 1.1,
+   "wavelength_label": "F110W 1.1 um (PSF-subtracted; scattered-light non-detection)",
+   "technique": "RDI",
+   "content": "continuum",
+   "survey": null,
+   "file": "images/gj-581/gj-581_nicmos-f110w.png",
+   "credit": "Lestrade et al. 2012, Fig. 8 (HST/NICMOS F110W panel, crop)",
+   "paper": {
+    "first_author": "Lestrade",
+    "year": 2012,
+    "title": "A DEBRIS Disk Around The Planet Hosting M-star GJ 581 Spatially Resolved with Herschel",
+    "journal": "A&A 548, A86",
+    "arxiv": "1211.4898",
+    "bibcode": "2012A&A...548A..86L"
+   },
+   "epoch": "1998-05-06",
+   "note": "NIC2 image, no occulting spot; PSF subtracted with GJ 250B. No scattered light detected above 18.7 mag/arcsec^2."
   }
  ],
  "notes": "M3V multi-planet host whose cold debris disk was spatially resolved with deep Herschel/PACS imaging at 70-160 um in the DEBRIS program, only the second debris disk resolved around an M star after AU Mic (Lestrade et al. 2012).",
- "last_updated": "2026-07-11",
+ "last_updated": "2026-09-15",
  "plx_mas": 158.7183
 }

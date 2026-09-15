@@ -1,0 +1,52 @@
+{
+ "id": "v346-nor",
+ "name": "V346 Nor",
+ "alt_names": [
+  "IRAS 16289-4449",
+  "HBC 646",
+  "NAME HH 57 IRS"
+ ],
+ "simbad": "IRAS 16289-4449",
+ "ra_deg": 248.134136,
+ "dec_deg": -44.925182,
+ "dist_pc": 700,
+ "plx_mas": null,
+ "mags": {
+  "R": 15.95,
+  "J": 10.178,
+  "H": 8.599,
+  "K": 7.176
+ },
+ "sptype": null,
+ "region": null,
+ "categories": [
+  "protoplanetary"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "image_id": "v346-nor_alma-kospal21",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 6",
+   "wavelength_um": 1330,
+   "wavelength_label": "1.33 mm continuum",
+   "technique": "interferometry",
+   "content": "continuum",
+   "survey": null,
+   "file": "images/v346-nor/v346-nor_alma-kospal21.png",
+   "credit": "Kóspál et al. 2021, Fig. 1 (V346 Nor panel, crop)",
+   "paper": {
+    "first_author": "Kóspál",
+    "year": 2021,
+    "title": "Massive Compact Disks around FU Orionis-type Young Eruptive Stars Revealed by ALMA",
+    "journal": "ApJS 256, 30",
+    "arxiv": "2106.14409",
+    "bibcode": "2021ApJS..256...30K"
+   },
+   "epoch": "2017-2018"
+  }
+ ],
+ "notes": "FUor (IRAS 16289-4449) with a massive compact disk; ALMA 1.33 mm continuum also shows faint extended emission tracing the outflow-cavity walls. Distance from Graham 1985 (700 pc).",
+ "last_updated": "2026-09-15"
+}

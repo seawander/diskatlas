@@ -84,7 +84,30 @@
    "hires_url": "https://www.stsci.edu/~mperrin/pdfs/poster_2009AAS_NICPOL_HAEBES.pdf",
    "epoch": "2008-05-28",
    "content": "continuum"
+  },
+  {
+   "image_id": "pds-453_nicmos-pol2um-martinien24",
+   "type": "disk_scattered",
+   "facility": "HST",
+   "instrument": "NICMOS (NIC2 coronagraphy)",
+   "wavelength_um": 2.0,
+   "wavelength_label": "2.0 um polarized intensity (POL*L)",
+   "technique": "PDI",
+   "content": "continuum",
+   "survey": null,
+   "file": "images/pds-453/pds-453_nicmos-pol2um-martinien24.png",
+   "credit": "Martinien et al. 2024, Fig. A.1 (NICMOS 2.0 um polarized intensity panel, crop)",
+   "paper": {
+    "first_author": "Martinien",
+    "year": 2024,
+    "title": "The grazing angle icy protoplanetary disk PDS 453",
+    "journal": "A&A 692, A111",
+    "arxiv": "2411.04741",
+    "bibcode": "2024A&A...692A.111M"
+   },
+   "epoch": "2008-05-28",
+   "note": "Cross-paper re-reduction of HST GO-11155 (data also cropped as 2 um PI from Perrin et al. 2009); distinct reduction published by Martinien et al. 2024. arXiv version numbers this figure Fig. 10; A&A published version labels it Fig. A.1."
   }
  ],
- "last_updated": "2026-07-08"
+ "last_updated": "2026-09-15"
 }

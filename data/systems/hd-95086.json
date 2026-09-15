@@ -356,6 +356,50 @@
     "arxiv": "1801.05850",
     "bibcode": "2018A&A...617A..76C"
    }
+  },
+  {
+   "image_id": "hd-95086_sphere-ifs-j-2018",
+   "type": "planet",
+   "facility": "VLT-SPHERE",
+   "instrument": "IFS",
+   "wavelength_um": 1.04,
+   "wavelength_label": "IFS J 0.97-1.12 um (spectral PCA total intensity; marginal planet b)",
+   "technique": "ADI",
+   "content": "continuum",
+   "survey": null,
+   "file": "images/hd-95086/hd-95086_sphere-ifs-j-2018.png",
+   "credit": "Chauvin et al. 2018, Fig. 1 (IFS J-band panel, crop)",
+   "paper": {
+    "first_author": "Chauvin",
+    "year": 2018,
+    "title": "Investigating the young Solar System analog HD 95086: A combined HARPS and SPHERE exploration",
+    "journal": "A&A 617, A76",
+    "arxiv": "1801.05850",
+    "bibcode": "2018A&A...617A..76C"
+   },
+   "epoch": "2015-2016"
+  },
+  {
+   "image_id": "hd-95086_sphere-irdis-k1-2018",
+   "type": "planet",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS",
+   "wavelength_um": 2.11,
+   "wavelength_label": "IRDIS K1 2.11 um (ADI; planet b + candidates)",
+   "technique": "ADI",
+   "content": "continuum",
+   "survey": null,
+   "file": "images/hd-95086/hd-95086_sphere-irdis-k1-2018.png",
+   "credit": "Chauvin et al. 2018, Fig. 2 (IRDIS K1 panel, crop)",
+   "paper": {
+    "first_author": "Chauvin",
+    "year": 2018,
+    "title": "Investigating the young Solar System analog HD 95086: A combined HARPS and SPHERE exploration",
+    "journal": "A&A 617, A76",
+    "arxiv": "1801.05850",
+    "bibcode": "2018A&A...617A..76C"
+   },
+   "epoch": "2016-05-31"
   }
  ],
  "notes": "Debris + imaged planet b (Rameau+2013).",

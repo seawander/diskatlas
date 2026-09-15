@@ -1,0 +1,48 @@
+{
+ "id": "oo-ser",
+ "name": "OO Ser",
+ "alt_names": [
+  "IRAS 18272+0114",
+  "V* OO Ser"
+ ],
+ "simbad": "IRAS 18272+0114",
+ "ra_deg": 277.454709,
+ "dec_deg": 1.272402,
+ "dist_pc": 438,
+ "plx_mas": null,
+ "mags": {
+  "K": 14.925
+ },
+ "sptype": null,
+ "region": "Serpens",
+ "categories": [
+  "protoplanetary"
+ ],
+ "planets": [],
+ "images": [
+  {
+   "image_id": "oo-ser_alma-kospal21",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 6",
+   "wavelength_um": 1330,
+   "wavelength_label": "1.33 mm continuum",
+   "technique": "interferometry",
+   "content": "continuum",
+   "survey": null,
+   "file": "images/oo-ser/oo-ser_alma-kospal21.png",
+   "credit": "Kóspál et al. 2021, Fig. 1 (OO Ser panel, crop)",
+   "paper": {
+    "first_author": "Kóspál",
+    "year": 2021,
+    "title": "Massive Compact Disks around FU Orionis-type Young Eruptive Stars Revealed by ALMA",
+    "journal": "ApJS 256, 30",
+    "arxiv": "2106.14409",
+    "bibcode": "2021ApJS..256...30K"
+   },
+   "epoch": "2017-2018"
+  }
+ ],
+ "notes": "FUor (IRAS 18272+0114) in Serpens; ALMA 1.33 mm continuum detection of one of the least massive disks in the sample. Distance from Herczeg et al. 2019 (438 pc).",
+ "last_updated": "2026-09-15"
+}

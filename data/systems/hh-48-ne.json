@@ -322,10 +322,33 @@
     "bibcode": "2023A&A...677A..17S"
    },
    "note": "CO J=3-2 zeroth-moment (integrated-intensity) map of the HH 48 system, with 0.89 mm Band 7 continuum contours (red). Right panel of Fig. 1; Sturm et al. re-calibrated/re-imaged the archival data originally published by Villenave et al. 2020. The 0.89 mm continuum image itself is already held as hh-48-ne_edgeon-alma2020."
+  },
+  {
+   "image_id": "hh-48-ne_alma-b6",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 6",
+   "wavelength_um": 1300,
+   "wavelength_label": "1.3 mm continuum (ALMA Band 6)",
+   "technique": "interferometry",
+   "content": "continuum",
+   "survey": null,
+   "file": "images/hh-48-ne/hh-48-ne_alma-b6.png",
+   "credit": "Sturm et al. 2023, Fig. 5 (ALMA Band 6 1.3 mm continuum data map, crop)",
+   "paper": {
+    "first_author": "Sturm",
+    "year": 2023,
+    "title": "The edge-on protoplanetary disk HH 48 NE I. Modeling the geometry and stellar parameters",
+    "journal": "A&A 677, A17",
+    "arxiv": "2305.02338",
+    "bibcode": "2023A&A...677A..17S"
+   },
+   "epoch": "2021-09-19",
+   "note": "Standalone ALMA Band 6 (2019.1.01792.S) continuum data panel; in Fig. 1 the same 1.3 mm image appears only as white contours overlaid on the HST 0.8 um scattered-light panel already held as hh-48-ne_acs2023."
   }
  ],
  "notes": "AUTO-CREATED from staging - fill metadata & coords",
- "last_updated": "2026-09-12",
+ "last_updated": "2026-09-15",
  "plx_mas": 5.3986,
  "mags": {
   "V": 17.89,

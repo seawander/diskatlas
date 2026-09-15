@@ -81,10 +81,33 @@
     "bibcode": "2023A&A...669A.145C"
    },
    "epoch": "2016-05-02"
+  },
+  {
+   "image_id": "mwc-614_nirc2-sam-h",
+   "type": "disk_scattered",
+   "facility": "Keck",
+   "instrument": "NIRC2 SAM",
+   "wavelength_um": 1.65,
+   "wavelength_label": "H band 1.63 um (SAM image reconstruction)",
+   "technique": "interferometry",
+   "content": "continuum",
+   "survey": null,
+   "file": "images/mwc-614/mwc-614_nirc2-sam-h.png",
+   "credit": "Kluska et al. 2018, Fig. 10 (NIRC2 SAM H-band image reconstruction, crop)",
+   "paper": {
+    "first_author": "Kluska",
+    "year": 2018,
+    "title": "A Multi-instrument and Multi-wavelength High Angular Resolution Study of MWC 614: Quantum Heated Particles Inside the Disk Cavity",
+    "journal": "ApJ 855, 44",
+    "arxiv": "1803.02419",
+    "bibcode": "2018ApJ...855...44K"
+   },
+   "epoch": "2013-11-16",
+   "note": "Aperture-masking (SAM) image reconstruction of the SAM dataset, bottom panel of Fig. 10; the surrounding panels in that figure are parametric best-fit model images and are not ingested."
   }
  ],
  "notes": null,
- "last_updated": "2026-09-14",
+ "last_updated": "2026-09-15",
  "plx_mas": 3.8448,
  "mags": {
   "U": 7.55,
