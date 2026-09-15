@@ -62,8 +62,30 @@
    "file": "images/yses-2/yses-2_sphere2021.png",
    "epoch": "2018-04-30",
    "content": "continuum"
+  },
+  {
+   "image_id": "yses-2_sphere-ks2021",
+   "type": "planet",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS",
+   "wavelength_um": 2.18,
+   "wavelength_label": "Ks band 2.2 um (2020 epoch)",
+   "technique": "ADI",
+   "content": "continuum",
+   "survey": null,
+   "file": "images/yses-2/yses-2_sphere-ks2021.png",
+   "credit": "Bohn 2021, Fig. 2 (Ks panel, crop)",
+   "paper": {
+    "first_author": "Bohn",
+    "year": 2021,
+    "title": "Discovery of a directly imaged planet to the young solar analog YSES 2",
+    "journal": "A&A 648, A73",
+    "arxiv": "2104.08285",
+    "bibcode": "2021A&A...648A..73B"
+   },
+   "epoch": "2020-12-08"
   }
  ],
  "notes": "Coords decoded from 2MASS id (Bohn+2021). YSES 2b was shown to be a BACKGROUND STAR by differential astrometry (Kenworthy et al. 2025, arXiv 2509.09504); planet status refuted. Discovery image kept for the historical record.",
- "last_updated": "2026-07-09"
+ "last_updated": "2026-09-15"
 }

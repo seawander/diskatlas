@@ -316,10 +316,79 @@
    },
    "epoch": "2015-06-05",
    "content": "continuum"
+  },
+  {
+   "image_id": "gj-504_sphere-j2",
+   "type": "planet",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS",
+   "wavelength_um": 1.19,
+   "wavelength_label": "J2 1.190 um (DBI; 3-sigma upper limit)",
+   "technique": "ADI",
+   "content": "continuum",
+   "survey": null,
+   "file": "images/gj-504/gj-504_sphere-j2.png",
+   "credit": "Bonnefoy et al. 2018, Fig. 1 (J2 panel, crop)",
+   "epoch": "2015-06-07",
+   "note": "GJ 504 b not detected in J2; 3-sigma upper limit from artificial-planet injection.",
+   "paper": {
+    "first_author": "Bonnefoy",
+    "year": 2018,
+    "title": "The GJ 504 system revisited. Combining interferometric, radial velocity, and high contrast imaging data",
+    "journal": "A&A 618, A63",
+    "arxiv": "1807.00657",
+    "bibcode": "2018A&A...618A..63B"
+   }
+  },
+  {
+   "image_id": "gj-504_sphere-h3",
+   "type": "planet",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS",
+   "wavelength_um": 1.667,
+   "wavelength_label": "H3 1.667 um (DBI; tentative re-detection)",
+   "technique": "ADI",
+   "content": "continuum",
+   "survey": null,
+   "file": "images/gj-504/gj-504_sphere-h3.png",
+   "credit": "Bonnefoy et al. 2018, Fig. 1 (H3 panel, crop)",
+   "epoch": "2016-03-29",
+   "note": "GJ 504 b tentatively re-detected in H3 (March 2016 data); treated as an upper limit in the paper.",
+   "paper": {
+    "first_author": "Bonnefoy",
+    "year": 2018,
+    "title": "The GJ 504 system revisited. Combining interferometric, radial velocity, and high contrast imaging data",
+    "journal": "A&A 618, A63",
+    "arxiv": "1807.00657",
+    "bibcode": "2018A&A...618A..63B"
+   }
+  },
+  {
+   "image_id": "gj-504_sphere-k2",
+   "type": "planet",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS",
+   "wavelength_um": 2.251,
+   "wavelength_label": "K2 2.251 um (DBI; 3-sigma upper limit)",
+   "technique": "ADI",
+   "content": "continuum",
+   "survey": null,
+   "file": "images/gj-504/gj-504_sphere-k2.png",
+   "credit": "Bonnefoy et al. 2018, Fig. 1 (K2 panel, crop)",
+   "epoch": "2015-06-05",
+   "note": "GJ 504 b not detected in K2; 3-sigma upper limit from artificial-planet injection.",
+   "paper": {
+    "first_author": "Bonnefoy",
+    "year": 2018,
+    "title": "The GJ 504 system revisited. Combining interferometric, radial velocity, and high contrast imaging data",
+    "journal": "A&A 618, A63",
+    "arxiv": "1807.00657",
+    "bibcode": "2018A&A...618A..63B"
+   }
   }
  ],
  "notes": null,
- "last_updated": "2026-07-07",
+ "last_updated": "2026-09-15",
  "plx_mas": 56.8577,
  "mags": {
   "B": 5.81,

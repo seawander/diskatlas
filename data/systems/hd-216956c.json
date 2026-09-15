@@ -80,10 +80,56 @@
    },
    "file": "images/hd-216956c/hd-216956c_alma2021.png",
    "content": "continuum"
+  },
+  {
+   "image_id": "hd-216956c_stis-2014",
+   "type": "disk_scattered",
+   "facility": "HST",
+   "instrument": "STIS",
+   "wavelength_um": 0.586,
+   "wavelength_label": "optical (STIS clear aperture, lambda_c=0.586 um); scattered-light non-detection",
+   "technique": "coronagraphy",
+   "content": "continuum",
+   "survey": null,
+   "file": "images/hd-216956c/hd-216956c_stis-2014.png",
+   "credit": "Cronin-Coltsmann et al. 2021, Fig. 8 (HST/STIS Nov 2014 panel, crop)",
+   "paper": {
+    "first_author": "Cronin-Coltsmann",
+    "year": 2021,
+    "title": "ALMA imaging of the M-dwarf Fomalhaut C's debris disc",
+    "journal": "MNRAS 504, 4497",
+    "arxiv": "2104.13396",
+    "bibcode": "2021MNRAS.504.4497C"
+   },
+   "epoch": "2014-11-12",
+   "note": "HST/STIS BAR5 coronagraphic image (HST-GO-13725), 2014-11-12 epoch. The disc is NOT detected (3 sigma surface-brightness limit 3.39 uJy/arcsec^2 at 3 arcsec). White contours are the ALMA best-fit torus model; the compact source SW of the star is a background object, not the disc. Imaged non-detection."
+  },
+  {
+   "image_id": "hd-216956c_irdis-h-2015",
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS",
+   "wavelength_um": 1.625,
+   "wavelength_label": "H band (1.625 um, BB_H); scattered-light non-detection",
+   "technique": "RDI",
+   "content": "continuum",
+   "survey": null,
+   "file": "images/hd-216956c/hd-216956c_irdis-h-2015.png",
+   "credit": "Cronin-Coltsmann et al. 2021, Fig. 9 (SPHERE/IRDIS H panel, crop)",
+   "paper": {
+    "first_author": "Cronin-Coltsmann",
+    "year": 2021,
+    "title": "ALMA imaging of the M-dwarf Fomalhaut C's debris disc",
+    "journal": "MNRAS 504, 4497",
+    "arxiv": "2104.13396",
+    "bibcode": "2021MNRAS.504.4497C"
+   },
+   "epoch": "2015-2016",
+   "note": "VLT/SPHERE IRDIS broad-band H (1.625 um, SHARDDS survey) final reduced image, combining two epochs (2015-10-11 and 2016-06-03). The disc is NOT detected (3 sigma surface-brightness limit 173 uJy/arcsec^2 at 3.4 arcsec); the four-fold signal is residual diffraction from the telescope spiders. Imaged non-detection."
   }
  ],
  "notes": "AUTO-CREATED from staging - fill metadata & coords",
- "last_updated": "2026-07-07",
+ "last_updated": "2026-09-15",
  "plx_mas": 130.2707,
  "mags": {
   "B": 14.301,

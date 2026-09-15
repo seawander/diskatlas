@@ -219,8 +219,53 @@
    "wavelength_um": 17.03,
    "wavelength_label": "H2 S(1) 17.03 um velocity centroid (moment-1)",
    "content": "line"
+  },
+  {
+   "image_id": "tmc-1a_vla_qband",
+   "type": "disk_mm",
+   "facility": "VLA",
+   "instrument": "Q band",
+   "wavelength_um": 7000,
+   "wavelength_label": "7 mm continuum (VLA Q band)",
+   "technique": "interferometry",
+   "content": "continuum",
+   "survey": null,
+   "file": "images/tmc-1a/tmc-1a_vla_qband.png",
+   "credit": "Aso et al. 2025, Fig. 3 (VLA Q band 7 mm panel, crop)",
+   "paper": {
+    "first_author": "Aso",
+    "year": 2025,
+    "title": "Grain Size in the Class I Protostellar System TMC-1A Constrained with ALMA and VLA Observations",
+    "journal": "ApJ",
+    "arxiv": "2411.13044",
+    "bibcode": "2025ApJ...978...60A"
+   },
+   "epoch": "2021-2022"
+  },
+  {
+   "image_id": "tmc-1a_alma_b7",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 7",
+   "wavelength_um": 900,
+   "wavelength_label": "0.9 mm continuum",
+   "technique": "interferometry",
+   "content": "continuum",
+   "survey": null,
+   "file": "images/tmc-1a/tmc-1a_alma_b7.png",
+   "credit": "Aso et al. 2025, Fig. 4 (ALMA Band 7 0.9 mm panel, crop)",
+   "paper": {
+    "first_author": "Aso",
+    "year": 2025,
+    "title": "Grain Size in the Class I Protostellar System TMC-1A Constrained with ALMA and VLA Observations",
+    "journal": "ApJ",
+    "arxiv": "2411.13044",
+    "bibcode": "2025ApJ...978...60A"
+   },
+   "epoch": "2016-07-26",
+   "note": "Archival ALMA Band 7 (project 2015.1.01549.S); epoch from the paper's observing log."
   }
  ],
  "notes": "Class I embedded protostar (eDisk)",
- "last_updated": "2026-09-12"
+ "last_updated": "2026-09-15"
 }

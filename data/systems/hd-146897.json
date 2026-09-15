@@ -258,10 +258,32 @@
    },
    "file": "images/hd-146897/hd-146897_gpi-k1-pol.png",
    "epoch": "2018-07-09"
+  },
+  {
+   "image_id": "hd-146897_spherez2017-i",
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "SPHERE/ZIMPOL",
+   "wavelength_um": 0.79,
+   "wavelength_label": "I band 0.79 um (ADI total intensity; VBB+I-band composite)",
+   "technique": "ADI",
+   "content": "continuum",
+   "survey": null,
+   "file": "images/hd-146897/hd-146897_spherez2017-i.png",
+   "credit": "Engler et al. 2017, Fig. 2 (I-band/VBB ADI panel, crop)",
+   "paper": {
+    "first_author": "Engler",
+    "year": 2017,
+    "title": "The HIP 79977 debris disk in polarized light",
+    "journal": "A&A 607, A90 (2017)",
+    "arxiv": "1709.00417",
+    "bibcode": "2017A&A...607A..90E"
+   },
+   "epoch": "2014-08-15"
   }
  ],
  "notes": "Merged duplicate system hip-79977 (HIP 79977 == HD 146897) on 2026-07-06.",
- "last_updated": "2026-07-07",
+ "last_updated": "2026-09-15",
  "plx_mas": 7.5651,
  "mags": {
   "B": 9.58,

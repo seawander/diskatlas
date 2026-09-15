@@ -796,6 +796,52 @@
     "bibcode": "2021A&A...648A..92P"
    },
    "epoch": "2019-09-13"
+  },
+  {
+   "image_id": "hd-169142_magao-39um",
+   "type": "disk_scattered",
+   "facility": "Magellan-MagAO",
+   "instrument": "MagAO/Clio2",
+   "wavelength_um": 3.9,
+   "wavelength_label": "3.9 um (PSF-subtracted; L' point-like feature not retrieved)",
+   "technique": "ADI",
+   "content": "continuum",
+   "survey": null,
+   "file": "images/hd-169142/hd-169142_magao-39um.png",
+   "credit": "Biller et al. 2014, Fig. 1 (MagAO 3.9 um panel, crop)",
+   "paper": {
+    "first_author": "Biller",
+    "year": 2014,
+    "title": "An Enigmatic Point-like Feature within the HD 169142 Transitional Disk",
+    "journal": "ApJ",
+    "arxiv": "1408.0794",
+    "bibcode": "2014ApJ...792L..22B"
+   },
+   "epoch": "2014-04-15",
+   "note": "Right panel of Fig. 1: 2014-04-15 MagAO/Clio2 3.9 um PSF-subtracted image. Shallow non-detection of the candidate L' feature (dark core is saturation/non-linearity)."
+  },
+  {
+   "image_id": "hd-169142_magao-z",
+   "type": "disk_scattered",
+   "facility": "Magellan-MagAO",
+   "instrument": "MagAO/VisAO",
+   "wavelength_um": 0.88,
+   "wavelength_label": "z' band 0.88 um (PCA S/N map; non-detection)",
+   "technique": "ADI/PCA (S/N map)",
+   "content": "continuum",
+   "survey": null,
+   "file": "images/hd-169142/hd-169142_magao-z.png",
+   "credit": "Biller et al. 2014, Fig. 2 (z'-band S/N panel, crop)",
+   "paper": {
+    "first_author": "Biller",
+    "year": 2014,
+    "title": "An Enigmatic Point-like Feature within the HD 169142 Transitional Disk",
+    "journal": "ApJ",
+    "arxiv": "1408.0794",
+    "bibcode": "2014ApJ...792L..22B"
+   },
+   "epoch": "2014-04-15",
+   "note": "Bottom-right panel of Fig. 2: 2014-04-15 MagAO/VisAO z' PCA reduction displayed as a signal-to-noise map (non-detection of the L' candidate; circle marks the candidate position)."
   }
  ],
  "notes": null,

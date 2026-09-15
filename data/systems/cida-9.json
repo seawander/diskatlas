@@ -170,8 +170,96 @@
     "bibcode": "2024ApJ...961...28H"
    },
    "note": "ALMA Band 6 (1.3 mm, 233 GHz) continuum image of CIDA 9A, deconvolved with a 0.09-arcsec uv taper and restored with a 0.135-arcsec beam (right panel of Fig. 1). Blue contours are 30/40/50 x sigma of this image. This is a re-display of combined published Band 6 data; the same band is already present in the atlas as cida-9_taurus-long2018 (Long et al. 2018)."
+  },
+  {
+   "image_id": "cida-9_alma-13co10-mom0",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 3 (13CO J=1-0)",
+   "wavelength_um": 2720.6,
+   "wavelength_label": "13CO J=1-0 integrated intensity (moment-0)",
+   "technique": "interferometry",
+   "content": "line",
+   "survey": null,
+   "file": "images/cida-9/cida-9_alma-13co10-mom0.png",
+   "credit": "Harsono et al. 2024, Fig. 12 (13CO J=1-0 panel, crop)",
+   "paper": {
+    "first_author": "Harsono",
+    "year": 2024,
+    "title": "Dual-Band Observations of the Asymmetric Ring around CIDA 9A: Dead or Alive?",
+    "journal": "The Astrophysical Journal",
+    "arxiv": "2310.11007",
+    "bibcode": "2024ApJ...961...28H"
+   },
+   "epoch": "2021-07-09"
+  },
+  {
+   "image_id": "cida-9_alma-c18o10-mom0",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 3 (C18O J=1-0)",
+   "wavelength_um": 2730.9,
+   "wavelength_label": "C18O J=1-0 integrated intensity (moment-0)",
+   "technique": "interferometry",
+   "content": "line",
+   "survey": null,
+   "file": "images/cida-9/cida-9_alma-c18o10-mom0.png",
+   "credit": "Harsono et al. 2024, Fig. 12 (C18O J=1-0 panel, crop)",
+   "paper": {
+    "first_author": "Harsono",
+    "year": 2024,
+    "title": "Dual-Band Observations of the Asymmetric Ring around CIDA 9A: Dead or Alive?",
+    "journal": "The Astrophysical Journal",
+    "arxiv": "2310.11007",
+    "bibcode": "2024ApJ...961...28H"
+   },
+   "epoch": "2021-07-09"
+  },
+  {
+   "image_id": "cida-9_alma-cs21-mom0",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 3 (CS J=2-1)",
+   "wavelength_um": 3059.6,
+   "wavelength_label": "CS J=2-1 integrated intensity (moment-0)",
+   "technique": "interferometry",
+   "content": "line",
+   "survey": null,
+   "file": "images/cida-9/cida-9_alma-cs21-mom0.png",
+   "credit": "Harsono et al. 2024, Fig. 12 (CS J=2-1 panel, crop)",
+   "paper": {
+    "first_author": "Harsono",
+    "year": 2024,
+    "title": "Dual-Band Observations of the Asymmetric Ring around CIDA 9A: Dead or Alive?",
+    "journal": "The Astrophysical Journal",
+    "arxiv": "2310.11007",
+    "bibcode": "2024ApJ...961...28H"
+   },
+   "epoch": "2021-07-09"
+  },
+  {
+   "image_id": "cida-9_alma-so2-mom0",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 3 (SO2)",
+   "wavelength_um": 3068.0,
+   "wavelength_label": "SO2 7(3,5)-8(2,6) integrated intensity (moment-0)",
+   "technique": "interferometry",
+   "content": "line",
+   "survey": null,
+   "file": "images/cida-9/cida-9_alma-so2-mom0.png",
+   "credit": "Harsono et al. 2024, Fig. 12 (SO2 7(3,5)-8(2,6) panel, crop)",
+   "paper": {
+    "first_author": "Harsono",
+    "year": 2024,
+    "title": "Dual-Band Observations of the Asymmetric Ring around CIDA 9A: Dead or Alive?",
+    "journal": "The Astrophysical Journal",
+    "arxiv": "2310.11007",
+    "bibcode": "2024ApJ...961...28H"
+   },
+   "epoch": "2021-07-09"
   }
  ],
  "notes": "Coords decoded from 2MASS id (Long+2019 Table 1).",
- "last_updated": "2026-09-12"
+ "last_updated": "2026-09-15"
 }

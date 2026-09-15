@@ -753,6 +753,29 @@
     "bibcode": "2021A&A...648A..92P"
    },
    "epoch": "2019-12-12"
+  },
+  {
+   "image_id": "hd-100453_alma-12co32-mom-bohn22",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 7",
+   "wavelength_um": 866.96,
+   "wavelength_label": "12CO J=3-2 velocity field (quadratic moment map)",
+   "technique": "interferometry",
+   "content": "line",
+   "survey": null,
+   "file": "images/hd-100453/hd-100453_alma-12co32-mom-bohn22.png",
+   "credit": "Bohn et al. 2022, Fig. C.1 (HD 100453 12CO 3-2 moment map, crop)",
+   "paper": {
+    "first_author": "Bohn",
+    "year": 2022,
+    "title": "Probing inner and outer disk misalignments in transition disks: constraints from VLTI/GRAVITY and ALMA observations",
+    "journal": "A&A 658, A183",
+    "arxiv": "2112.00123",
+    "bibcode": "2022A&A...658A.183B"
+   },
+   "epoch": "2017-11-24",
+   "note": "Program 2017.1.01424.S; paper gives no ALMA dates, epoch from the ALMA archive."
   }
  ],
  "notes": null,

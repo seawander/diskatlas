@@ -233,10 +233,55 @@
    },
    "epoch": "2017-12-03",
    "note": "HD 290764 0.88 mm ALMA continuum (project 2017.1.01607.S); epoch from ALMA archive obscore t_min (paper lists only project IDs)."
+  },
+  {
+   "image_id": "v1247-ori_sma-880",
+   "type": "disk_mm",
+   "facility": "SMA",
+   "instrument": "SMA",
+   "wavelength_um": 880,
+   "wavelength_label": "880 um continuum",
+   "technique": "interferometry",
+   "content": "continuum",
+   "survey": null,
+   "file": "images/v1247-ori/v1247-ori_sma-880.png",
+   "credit": "Willson et al. 2019, Fig. 9 (880 um continuum panel, crop)",
+   "paper": {
+    "first_author": "Willson",
+    "year": 2019,
+    "title": "Imaging the disc rim and a moving close-in companion candidate in the pre-transitional disc of V1247 Orionis",
+    "journal": "A&A 621, A7",
+    "arxiv": "1811.06880",
+    "bibcode": "2019A&A...621A...7W"
+   },
+   "epoch": "2012"
+  },
+  {
+   "image_id": "v1247-ori_zimpol-ha",
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "ZIMPOL",
+   "wavelength_um": 0.656,
+   "wavelength_label": "Halpha 656.6 nm + continuum 644.9 nm intensity (no coronagraph); elongated disc structure",
+   "technique": "SDI",
+   "content": "line",
+   "survey": null,
+   "file": "images/v1247-ori/v1247-ori_zimpol-ha.png",
+   "credit": "Willson et al. 2019, Fig. 7 (ZIMPOL Halpha+continuum panel, crop)",
+   "paper": {
+    "first_author": "Willson",
+    "year": 2019,
+    "title": "Imaging the disc rim and a moving close-in companion candidate in the pre-transitional disc of V1247 Orionis",
+    "journal": "A&A 621, A7",
+    "arxiv": "1811.06880",
+    "bibcode": "2019A&A...621A...7W"
+   },
+   "epoch": "2014-12-09",
+   "note": "ZIMPOL B_Ha + CntHa SDI; no companion detected (the ~110 mas feature is a ghost). Panel = non-coronagraphic intensity showing the elongated disc structure."
   }
  ],
  "notes": "Spiral-arm pattern motion between the 2018 and 2023 SPHERE epochs is consistent with a companion-driven origin (Ren et al. 2024).",
- "last_updated": "2026-09-12",
+ "last_updated": "2026-09-15",
  "plx_mas": 2.4919,
  "mags": {
   "B": 10.18,

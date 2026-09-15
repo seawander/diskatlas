@@ -1734,6 +1734,50 @@
     "bibcode": "2021A&A...648A..92P"
    },
    "epoch": "2019-09-14"
+  },
+  {
+   "image_id": "hd-163296_hd163296-13co10-mom0-i07",
+   "type": "disk_mm",
+   "facility": "IRAM-PdBI",
+   "instrument": "PdBI",
+   "wavelength_um": 2720.6,
+   "wavelength_label": "13CO J=1-0 integrated intensity",
+   "technique": "interferometry",
+   "content": "line",
+   "survey": null,
+   "file": "images/hd-163296/hd-163296_hd163296-13co10-mom0-i07.png",
+   "credit": "Isella et al. 2007, Fig. 3 (13CO 1-0 integrated-intensity panel, crop)",
+   "paper": {
+    "first_author": "Isella",
+    "year": 2007,
+    "title": "Millimeter imaging of HD 163296: probing the disk structure and kinematics",
+    "journal": "A&A 469, 213",
+    "arxiv": "0704.0616",
+    "bibcode": "2007A&A...469..213I"
+   },
+   "epoch": "2003-2004"
+  },
+  {
+   "image_id": "hd-163296_hd163296-12co32-mom0-i07",
+   "type": "disk_mm",
+   "facility": "SMA",
+   "instrument": "SMA",
+   "wavelength_um": 866.9,
+   "wavelength_label": "12CO J=3-2 integrated intensity",
+   "technique": "interferometry",
+   "content": "line",
+   "survey": null,
+   "file": "images/hd-163296/hd-163296_hd163296-12co32-mom0-i07.png",
+   "credit": "Isella et al. 2007, Fig. 4 (12CO 3-2 integrated-intensity panel, crop)",
+   "paper": {
+    "first_author": "Isella",
+    "year": 2007,
+    "title": "Millimeter imaging of HD 163296: probing the disk structure and kinematics",
+    "journal": "A&A 469, 213",
+    "arxiv": "0704.0616",
+    "bibcode": "2007A&A...469..213I"
+   },
+   "epoch": "2005-08-23"
   }
  ],
  "notes": null,

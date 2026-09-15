@@ -432,10 +432,56 @@
    },
    "epoch": "2023-02-20",
    "content": "line"
+  },
+  {
+   "image_id": "hh-30_jwst-miri-f770w",
+   "type": "disk_scattered",
+   "facility": "JWST",
+   "instrument": "MIRI",
+   "wavelength_um": 7.7,
+   "wavelength_label": "F770W (7.7 um; MIRI)",
+   "technique": "mid-IR imaging",
+   "content": "continuum",
+   "survey": null,
+   "file": "images/hh-30/hh-30_jwst-miri-f770w.png",
+   "credit": "Tazaki et al. 2025, Fig. 4 (F770W panel, crop)",
+   "paper": {
+    "first_author": "Tazaki",
+    "year": 2025,
+    "title": "JWST Imaging of Edge-on Protoplanetary Disks. IV. Mid-infrared Dust Scattering in the HH 30 disk",
+    "journal": "ApJ 980, 49",
+    "arxiv": "2412.07523",
+    "bibcode": "2025ApJ...980...49T"
+   },
+   "epoch": "2023-09-07",
+   "note": "Bottom-row first panel of the Fig. 4 multiwavelength gallery (7.7 um JWST/MIRI), same 2023-09-07 dataset as the F444W/F1280W records. The diagonal cruciform artifact noted by the authors is visible."
+  },
+  {
+   "image_id": "hh-30_jwst-miri-f2100w",
+   "type": "disk_scattered",
+   "facility": "JWST",
+   "instrument": "MIRI",
+   "wavelength_um": 21.0,
+   "wavelength_label": "F2100W (21 um; MIRI)",
+   "technique": "mid-IR imaging",
+   "content": "continuum",
+   "survey": null,
+   "file": "images/hh-30/hh-30_jwst-miri-f2100w.png",
+   "credit": "Tazaki et al. 2025, Fig. 4 (F2100W panel, crop)",
+   "paper": {
+    "first_author": "Tazaki",
+    "year": 2025,
+    "title": "JWST Imaging of Edge-on Protoplanetary Disks. IV. Mid-infrared Dust Scattering in the HH 30 disk",
+    "journal": "ApJ 980, 49",
+    "arxiv": "2412.07523",
+    "bibcode": "2025ApJ...980...49T"
+   },
+   "epoch": "2023-09-07",
+   "note": "Bottom-row third panel of the Fig. 4 multiwavelength gallery (21 um JWST/MIRI), same 2023-09-07 dataset as the F444W/F1280W records."
   }
  ],
  "notes": "AUTO-CREATED from staging - fill metadata & coords",
- "last_updated": "2026-09-11",
+ "last_updated": "2026-09-15",
  "mags": {
   "G": 20.353983,
   "J": 15.176,

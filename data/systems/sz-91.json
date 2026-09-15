@@ -166,10 +166,33 @@
    "file": "images/sz-91/sz-91_co32-mom1.png",
    "epoch": "2015-07-20",
    "content": "line"
+  },
+  {
+   "image_id": "sz-91_cs32-line",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 4 (CS J=3-2)",
+   "wavelength_um": 2040,
+   "wavelength_label": "CS J=3-2 (146.97 GHz) line emission (3 km/s CLEAN image)",
+   "technique": "interferometry",
+   "content": "line",
+   "survey": null,
+   "file": "images/sz-91/sz-91_cs32-line.png",
+   "credit": "Mauco et al. 2021, Fig. 12 (CS J=3-2 3 km/s CLEAN panel, crop)",
+   "paper": {
+    "first_author": "Mauco",
+    "year": 2021,
+    "title": "Characterization of the dust content in the ring around Sz 91: indications for planetesimal formation?",
+    "journal": "ApJ",
+    "arxiv": "2108.12548",
+    "bibcode": "2021ApJ...923..128M"
+   },
+   "epoch": "2018-2019",
+   "note": "Continuum-subtracted CLEAN image of the CS v=0 J=3-2 line (146.969 GHz) at 3 km/s; the line is detected over ~3-5 km/s with a peak of 2.11 mJy/beam (6.5 sigma). Same ALMA Band 4 dataset (project 2018.1.01020.S; 2018 short-baseline + 2019 long-baseline) as the 2.1 mm continuum record."
   }
  ],
  "notes": "AUTO-CREATED from staging - fill metadata & coords",
- "last_updated": "2026-07-14",
+ "last_updated": "2026-09-15",
  "plx_mas": 6.2738,
  "mags": {
   "B": 16.25,

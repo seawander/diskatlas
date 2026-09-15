@@ -345,6 +345,29 @@
    },
    "epoch": "2012-07-18",
    "note": "ALMA Cycle 0 program 2011.0.00724.S; zero-moment 12CO J=6-5 (691.473 GHz) map, cropped from the center panel of Fig. 1. Same epoch/dataset as the atlas Band 9 continuum record sr-21_alma2015."
+  },
+  {
+   "image_id": "sr-21_sphere2020-j",
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS",
+   "wavelength_um": 1.245,
+   "wavelength_label": "J band 1.245 um (Qphi; no coronagraph, neutral-density filter)",
+   "technique": "PDI",
+   "content": "continuum",
+   "survey": null,
+   "file": "images/sr-21/sr-21_sphere2020-j.png",
+   "credit": "Muro-Arena et al. 2020, Fig. 1 (J-band no-coronagraph panel, crop)",
+   "paper": {
+    "first_author": "Muro-Arena",
+    "year": 2020,
+    "title": "Spirals inside the millimeter cavity of transition disk SR 21",
+    "journal": "A&A 636, L4",
+    "arxiv": "2003.08189",
+    "bibcode": "2020A&A...636L...4M"
+   },
+   "epoch": "2018-03-01",
+   "note": "Second panel of Fig. 1: J-band polarized intensity (Qphi) without coronagraph. Same SPHERE run as the H-band record sr-21_sphere2020 (2018-03-01)."
   }
  ],
  "notes": "AUTO-CREATED from staging - fill metadata & coords",

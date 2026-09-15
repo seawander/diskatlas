@@ -290,10 +290,76 @@
    "file": "images/hd-95086/hd-95086_herschel-pacs2015.png",
    "epoch": "2011-08-01",
    "content": "continuum"
+  },
+  {
+   "image_id": "hd-95086_naco-ks-2013",
+   "type": "planet",
+   "facility": "VLT-NACO",
+   "instrument": "NACO",
+   "wavelength_um": 2.18,
+   "wavelength_label": "Ks 2.18 um (sADI; non-detection of HD 95086 b in 2013)",
+   "technique": "ADI",
+   "content": "continuum",
+   "survey": null,
+   "file": "images/hd-95086/hd-95086_naco-ks-2013.png",
+   "credit": "Rameau 2013, Fig. 3 (Ks panel, crop)",
+   "epoch": "2013-02-14",
+   "paper": {
+    "first_author": "Rameau",
+    "year": 2013,
+    "title": "Discovery of a probable 4-5 Jupiter-mass exoplanet to HD 95086 by direct-imaging",
+    "journal": "ApJL 772, L15",
+    "arxiv": "1305.7428",
+    "bibcode": "2013ApJ...772L..15R"
+   }
+  },
+  {
+   "image_id": "hd-95086_sphere-ifs-h-2018",
+   "type": "planet",
+   "facility": "VLT-SPHERE",
+   "instrument": "IFS",
+   "wavelength_um": 1.6,
+   "wavelength_label": "H band 1.6 um (spectral PCA of combined IFS-YH epochs; HD 95086 b S/N ~5)",
+   "technique": "ADI",
+   "content": "continuum",
+   "survey": null,
+   "file": "images/hd-95086/hd-95086_sphere-ifs-h-2018.png",
+   "credit": "Chauvin 2018, Fig. 1 (IFS H panel, crop)",
+   "epoch": "2015-2016",
+   "paper": {
+    "first_author": "Chauvin",
+    "year": 2018,
+    "title": "Investigating the young Solar System analog HD 95086: A combined HARPS and SPHERE exploration",
+    "journal": "A&A 617, A76",
+    "arxiv": "1801.05850",
+    "bibcode": "2018A&A...617A..76C"
+   }
+  },
+  {
+   "image_id": "hd-95086_sphere-irdis-k2-2018",
+   "type": "planet",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS",
+   "wavelength_um": 2.25,
+   "wavelength_label": "K2 band 2.25 um (IRDIS DBI; HD 95086 b, 31 May 2016 epoch)",
+   "technique": "ADI",
+   "content": "continuum",
+   "survey": null,
+   "file": "images/hd-95086/hd-95086_sphere-irdis-k2-2018.png",
+   "credit": "Chauvin 2018, Fig. 2 (IRDIS K2 panel, crop)",
+   "epoch": "2016-05-31",
+   "paper": {
+    "first_author": "Chauvin",
+    "year": 2018,
+    "title": "Investigating the young Solar System analog HD 95086: A combined HARPS and SPHERE exploration",
+    "journal": "A&A 617, A76",
+    "arxiv": "1801.05850",
+    "bibcode": "2018A&A...617A..76C"
+   }
   }
  ],
  "notes": "Debris + imaged planet b (Rameau+2013).",
- "last_updated": "2026-07-08",
+ "last_updated": "2026-09-15",
  "plx_mas": 11.5659,
  "mags": {
   "B": 7.6,

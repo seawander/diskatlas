@@ -1105,6 +1105,72 @@
     "bibcode": "2021A&A...648A..92P"
    },
    "epoch": "2019-12-12"
+  },
+  {
+   "image_id": "hd-100546_gpi-h-toti",
+   "type": "disk_scattered",
+   "facility": "Gemini-GPI",
+   "instrument": "GPI IFS (H)",
+   "wavelength_um": 1.65,
+   "wavelength_label": "H band 1.6 um (total intensity, RDI; log stretch)",
+   "technique": "RDI",
+   "content": "continuum",
+   "survey": null,
+   "file": "images/hd-100546/hd-100546_gpi-h-toti.png",
+   "credit": "Follette et al. 2017, Fig. 2 (GPI H-band RDI panel, crop)",
+   "paper": {
+    "first_author": "Follette",
+    "year": 2017,
+    "title": "Complex Spiral Structure in the HD 100546 Transitional Disk as Revealed by GPI and MagAO",
+    "journal": "AJ 153, 264",
+    "arxiv": "1704.06260",
+    "bibcode": "2017AJ....153..264F"
+   },
+   "epoch": "2016-02-27"
+  },
+  {
+   "image_id": "hd-100546_gpi-y-pol",
+   "type": "disk_scattered",
+   "facility": "Gemini-GPI",
+   "instrument": "GPI IFS pol",
+   "wavelength_um": 1.05,
+   "wavelength_label": "Y band 1.05 um (pol. intensity, Q_phi)",
+   "technique": "PDI",
+   "content": "continuum",
+   "survey": null,
+   "file": "images/hd-100546/hd-100546_gpi-y-pol.png",
+   "credit": "Follette et al. 2017, Fig. 1 (GPI Y-pol Q_phi panel, crop)",
+   "paper": {
+    "first_author": "Follette",
+    "year": 2017,
+    "title": "Complex Spiral Structure in the HD 100546 Transitional Disk as Revealed by GPI and MagAO",
+    "journal": "AJ 153, 264",
+    "arxiv": "1704.06260",
+    "bibcode": "2017AJ....153..264F"
+   },
+   "epoch": "2016-01-28"
+  },
+  {
+   "image_id": "hd-100546_naco-ks-2013",
+   "type": "planet",
+   "facility": "VLT-NACO",
+   "instrument": "NACO/APP",
+   "wavelength_um": 2.124,
+   "wavelength_label": "Ks 2.12 um; HD 100546 b non-detection (3-sigma upper limit)",
+   "technique": "ADI",
+   "content": "continuum",
+   "survey": null,
+   "file": "images/hd-100546/hd-100546_naco-ks-2013.png",
+   "credit": "Quanz et al. 2015, Fig. 2 (Ks panel, crop)",
+   "paper": {
+    "first_author": "Quanz",
+    "year": 2015,
+    "title": "Confirmation and Characterization of the Protoplanet HD 100546 b—Direct Evidence for Gas Giant Planet Formation at 50 AU",
+    "journal": "ApJ",
+    "arxiv": "1412.5173",
+    "bibcode": "2015ApJ...807...64Q"
+   },
+   "epoch": "2013-04"
   }
  ],
  "notes": null,

@@ -1279,3 +1279,19 @@ splits across 8 papers (18). Fixed the HD 142666 held record (mislabelled H → 
 1.245 µm) and set HD 135344 A's category. Atlas: 963 systems / 4515 records /
 845 papers, 0 errors. Additional audit waves pending (NICMOS/SCUBA done; many
 SPHERE/ALMA/JWST single-system splits remain).
+
+## 2026-09-15 (2) — Band-audit wave 2
+
+Wave 2 of the band-completeness ingestion: +126 panels across ~50 papers in 9
+batches, filling the single-system multi-band gaps the audit found. Representative
+adds: T Cha (ZIMPOL VBB, IRDIS H2H3, IFS YJ); CS Cha (ZIMPOL R/I, SPHERE J,
+NACO Ks, WFPC2 F814W); HD 142527 (ZIMPOL VBB, ALMA CO moments); WISPIT 2 Ks;
+AF Lep (IRDIS K12 + IFS Y/Z/H); HD 34700 (ZIMPOL B_Ha + IFS + IRDIS K + Band 6);
+GJ 504 (J2/H3/K2); HD 206893 (GPI J/H/K2, NICMOS F160W, PACS 70 µm); HD 135344A/B;
+TW Hya (ZIMPOL R/I, IRDIS J); RY Lup; DR Tau; HD 117214; HIP 64892; GG Tau
+(13CO/C18O/12CO(3-2) + 12CO(6-5)); CIDA 9 CO isotopologues; AS 205 HCO+/HCN(4-3);
+CQ Tau; DG Tau (B7/B3); CB 26; IRAM 04191 (VLA K/Ka/Q + 1.3 mm); Fomalhaut
+(STIS null, ACS F814W/F435W); HR 4796A (g', NICI CH4, Clio/VisAO Ls/Ice/Ks/z'/i');
+VISIR SIV/NeII, GQ Lup MRS channels; Sz 91 CS(3-2); HD 95086 (Ks, IFS H, K2);
+beta Pic M'; HD 61005 Band 6. Corrected the COPAINS IRDIS records (mislabelled
+H → K12). Atlas: 963 systems / 4641 records / 845 papers, 0 errors.

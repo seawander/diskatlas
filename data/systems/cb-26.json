@@ -198,10 +198,54 @@
    },
    "file": "images/cb-26/cb-26_pdbi-co21.png",
    "epoch": "2005-2009"
+  },
+  {
+   "image_id": "cb-26_carma29mm2021",
+   "type": "disk_mm",
+   "facility": "CARMA",
+   "instrument": "CARMA",
+   "wavelength_um": 2900,
+   "wavelength_label": "2.9 mm continuum (CARMA)",
+   "technique": "interferometry",
+   "content": "continuum",
+   "survey": null,
+   "file": "images/cb-26/cb-26_carma29mm2021.png",
+   "credit": "Zhang 2021, Fig. 3 (CARMA 2.9 mm observation panel, crop)",
+   "paper": {
+    "first_author": "Zhang",
+    "year": 2021,
+    "title": "Pebbles in an Embedded Protostellar Disk: The Case of CB26",
+    "journal": "A&A",
+    "arxiv": "2012.08127",
+    "bibcode": "2021A&A...646A..18Z"
+   },
+   "epoch": "2013-11-30"
+  },
+  {
+   "image_id": "cb-26_vla81mm2021",
+   "type": "disk_mm",
+   "facility": "VLA",
+   "instrument": "VLA (Ka band)",
+   "wavelength_um": 8100,
+   "wavelength_label": "8.1 mm continuum (VLA Ka band)",
+   "technique": "interferometry",
+   "content": "continuum",
+   "survey": null,
+   "file": "images/cb-26/cb-26_vla81mm2021.png",
+   "credit": "Zhang 2021, Fig. 3 (VLA 8.1 mm observation panel, crop)",
+   "paper": {
+    "first_author": "Zhang",
+    "year": 2021,
+    "title": "Pebbles in an Embedded Protostellar Disk: The Case of CB26",
+    "journal": "A&A",
+    "arxiv": "2012.08127",
+    "bibcode": "2021A&A...646A..18Z"
+   },
+   "epoch": "2015-02-11"
   }
  ],
  "notes": "Edge-on protostellar disk around a ~1 Myr, ~0.55 Msun low-mass protostar embedded in the Bok globule CB 26 (Taurus-Auriga); the held image is the combined interferometric 1.3 mm continuum map used to study grain growth in the protostellar phase (Zhang et al. 2021).",
- "last_updated": "2026-07-11",
+ "last_updated": "2026-09-15",
  "plx_mas": null,
  "mags": null
 }

@@ -304,10 +304,54 @@
    },
    "file": "images/as-205/as-205_discs_sma_cont.png",
    "epoch": "2010-06-25"
+  },
+  {
+   "image_id": "260116202_as_205_alma_b7_hcop_4_3_intint",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 7 (HCO+ 4-3)",
+   "wavelength_um": 840,
+   "wavelength_label": "HCO+ 4-3 integrated intensity (moment-0)",
+   "technique": "interferometry",
+   "content": "line",
+   "survey": null,
+   "file": "images/as-205/260116202_as_205_alma_b7_hcop_4_3_intint.png",
+   "credit": "Phuong et al. 2026, Fig. 9 (HCO+ 4-3 integrated intensity, crop)",
+   "paper": {
+    "first_author": "Phuong",
+    "year": 2026,
+    "title": "A multiwavelength ALMA view of gas and dust in binary protoplanetary system AS 205: Evidence of dust asymmetric distribution",
+    "journal": "ApJ",
+    "arxiv": "2601.16202",
+    "bibcode": "2026ApJ...999...76P"
+   },
+   "epoch": "2016-06-28"
+  },
+  {
+   "image_id": "260116202_as_205_alma_b7_hcn_4_3_intint",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 7 (HCN 4-3)",
+   "wavelength_um": 846,
+   "wavelength_label": "HCN 4-3 integrated intensity (moment-0)",
+   "technique": "interferometry",
+   "content": "line",
+   "survey": null,
+   "file": "images/as-205/260116202_as_205_alma_b7_hcn_4_3_intint.png",
+   "credit": "Phuong et al. 2026, Fig. 9 (HCN 4-3 integrated intensity, crop)",
+   "paper": {
+    "first_author": "Phuong",
+    "year": 2026,
+    "title": "A multiwavelength ALMA view of gas and dust in binary protoplanetary system AS 205: Evidence of dust asymmetric distribution",
+    "journal": "ApJ",
+    "arxiv": "2601.16202",
+    "bibcode": "2026ApJ...999...76P"
+   },
+   "epoch": "2016-06-28"
   }
  ],
  "notes": null,
- "last_updated": "2026-07-07",
+ "last_updated": "2026-09-15",
  "mags": {
   "B": 13.98,
   "V": 12.63,

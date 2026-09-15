@@ -189,10 +189,56 @@
    "file": "images/dg-tau/dg-tau_h2co-mom1.png",
    "epoch": "2017-08",
    "content": "line"
+  },
+  {
+   "image_id": "dg-tau_alma087_2023",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 7",
+   "wavelength_um": 870,
+   "wavelength_label": "0.87 mm continuum (Band 7)",
+   "technique": "interferometry",
+   "content": "continuum",
+   "survey": null,
+   "file": "images/dg-tau/dg-tau_alma087_2023.png",
+   "credit": "Ohashi 2023, Fig. 3 (0.87 mm Band 7 Stokes I panel, crop)",
+   "paper": {
+    "first_author": "Ohashi",
+    "year": 2023,
+    "title": "Dust enrichment and grain growth in a smooth disk around the DG Tau protostar revealed by ALMA triple bands frequency observations",
+    "journal": "ApJ",
+    "arxiv": "2307.14526",
+    "bibcode": "2023ApJ...954..110O"
+   },
+   "epoch": "2017-07-11",
+   "note": "ALMA archival 2015.1.00840.S (Bacciotti+2018); B7 observation 2017-07-11"
+  },
+  {
+   "image_id": "dg-tau_alma31_2023",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 3",
+   "wavelength_um": 3100,
+   "wavelength_label": "3.1 mm continuum (Band 3)",
+   "technique": "interferometry",
+   "content": "continuum",
+   "survey": null,
+   "file": "images/dg-tau/dg-tau_alma31_2023.png",
+   "credit": "Ohashi 2023, Fig. 3 (3.1 mm Band 3 Stokes I panel, crop)",
+   "paper": {
+    "first_author": "Ohashi",
+    "year": 2023,
+    "title": "Dust enrichment and grain growth in a smooth disk around the DG Tau protostar revealed by ALMA triple bands frequency observations",
+    "journal": "ApJ",
+    "arxiv": "2307.14526",
+    "bibcode": "2023ApJ...954..110O"
+   },
+   "epoch": "2017-11-29",
+   "note": "ALMA archival 2017.1.00470.S (Harrison+2019); B3 observation 2017-11-29"
   }
  ],
  "notes": null,
- "last_updated": "2026-07-14",
+ "last_updated": "2026-09-15",
  "plx_mas": 7.9836,
  "mags": {
   "U": 13.57,

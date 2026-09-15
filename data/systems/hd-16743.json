@@ -125,10 +125,32 @@
     "bibcode": "2023MNRAS.521.5940M"
    },
    "epoch": "2021"
+  },
+  {
+   "image_id": "hd-16743_sphere-h-marshall23",
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS",
+   "wavelength_um": 1.625,
+   "wavelength_label": "H band 1.625 um (radial ADI scattered light; ALMA ellipse overlaid)",
+   "technique": "ADI",
+   "content": "continuum",
+   "survey": null,
+   "file": "images/hd-16743/hd-16743_sphere-h-marshall23.png",
+   "credit": "Marshall et al. 2023, Fig. 4 (SPHERE H-band ADI image, crop)",
+   "paper": {
+    "first_author": "Marshall",
+    "year": 2023,
+    "title": "Stirred but not shaken: a multi-wavelength view of HD 16743's debris disc",
+    "journal": "MNRAS 521, 5940-5951",
+    "arxiv": "2303.17128",
+    "bibcode": "2023MNRAS.521.5940M"
+   },
+   "epoch": "2015-10-03"
   }
  ],
  "notes": "AUTO-CREATED from staging - fill metadata & coords",
- "last_updated": "2026-07-06",
+ "last_updated": "2026-09-15",
  "plx_mas": 17.2992,
  "mags": {
   "B": 7.13,

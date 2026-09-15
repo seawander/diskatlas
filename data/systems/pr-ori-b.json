@@ -58,10 +58,33 @@
     "bibcode": "2026arXiv260909722C"
    },
    "note": "Representative late/peak outburst stage of the r-band ZTF monitoring series: PR Ori A (green) and the outbursting PR Ori B (red) with the reflection nebula ('RNe', blue aperture) still apparent. Image is from ZTF r-band (Palomar 48-inch / Samuel Oschin), obtained via the IRSA image query service, from a series spanning 09-2018, 03-2020, 09-2020, 10-2023, 10-2025 and 03-2026; only this one panel is ingested."
+  },
+  {
+   "image_id": "pr-ori-b_12co21-mom1",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 6 (12CO J=2-1)",
+   "wavelength_um": 1300.4,
+   "wavelength_label": "12CO J=2-1 velocity field (moment-1)",
+   "technique": "interferometry",
+   "content": "line",
+   "survey": null,
+   "file": "images/pr-ori-b/pr-ori-b_12co21-mom1.png",
+   "credit": "Contreras Peña et al. 2026, Fig. 7 (12CO J=2-1 moment-1 map, crop)",
+   "paper": {
+    "first_author": "Contreras Peña",
+    "year": 2026,
+    "title": "The FU Ori outburst of PR Ori B",
+    "journal": "arXiv e-prints, arXiv:2609.09722",
+    "arxiv": "2609.09722",
+    "bibcode": "2026arXiv260909722C"
+   },
+   "epoch": "2024-08-01",
+   "note": "Intensity-weighted velocity (moment-1) map of the 12CO J=2-1 emission (230.538 GHz), constructed from emission above 4 sigma over -10 to +10 km/s relative to v_sys=4.6 km/s; the black line marks the PV cut. Same ALMA dataset (project 2023.1.00561.S, observed 2024 August 1) as the non-CO continuum record."
   }
  ],
  "notes": "In corporated from ingest of arXiv:2609.09722; coordinates/metadata from the source.",
- "last_updated": "2026-09-11",
+ "last_updated": "2026-09-15",
  "plx_mas": 2.575,
  "mags": {
   "J": 11.16,

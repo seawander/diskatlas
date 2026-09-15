@@ -1447,6 +1447,29 @@
     "bibcode": "2023A&A...672A.114R"
    },
    "epoch": "1998-09-16"
+  },
+  {
+   "image_id": "beta-pic_magao-clio2015-m",
+   "type": "planet",
+   "facility": "Magellan-MagAO",
+   "instrument": "Clio2",
+   "wavelength_um": 4.8,
+   "wavelength_label": "M' band (4.8 um; filter 4.69 um); beta Pic b residual",
+   "technique": "ADI",
+   "content": "continuum",
+   "survey": null,
+   "file": "images/beta-pic/beta-pic_magao-clio2015-m.png",
+   "credit": "Morzinski et al. 2015, Fig. 1 (M' residual panel, crop)",
+   "paper": {
+    "first_author": "Morzinski",
+    "year": 2015,
+    "title": "Magellan Adaptive Optics first-light observations of the exoplanet beta Pic b",
+    "journal": "ApJ 815, 108",
+    "arxiv": "1511.02894",
+    "bibcode": "2015ApJ...815..108M"
+   },
+   "epoch": "2012-12-04",
+   "note": "MagAO/Clio2 M' (4.69 um central wavelength) final PSF-subtracted residual panel (right column of Fig. 1) revealing beta Pic b at the lower-right; observed UT 2012 December 4. This is the M' counterpart of the atlas [3.3] record beta-pic_magao-clio2015."
   }
  ],
  "notes": "Original 1984 discovery image (Smith & Terrile, Las Campanas coronagraph) predates arXiv; add if desired.",

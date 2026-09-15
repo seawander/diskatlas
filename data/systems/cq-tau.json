@@ -499,10 +499,55 @@
     "bibcode": "2023A&A...669A.145C"
    },
    "epoch": "2018-11-27"
+  },
+  {
+   "image_id": "cq-tau_alma-12co21-mom-bohn22",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 6",
+   "wavelength_um": 1300.0,
+   "wavelength_label": "12CO J=2-1 velocity field (quadratic moment map)",
+   "technique": "interferometry",
+   "content": "line",
+   "survey": null,
+   "file": "images/cq-tau/cq-tau_alma-12co21-mom-bohn22.png",
+   "credit": "Bohn et al. 2022, Fig. C.1 (CQ Tau 12CO 2-1 moment map, crop)",
+   "paper": {
+    "first_author": "Bohn",
+    "year": 2022,
+    "title": "Probing inner and outer disk misalignments in transition disks: constraints from VLTI/GRAVITY and ALMA observations",
+    "journal": "A&A 658, A183",
+    "arxiv": "2112.00123",
+    "bibcode": "2022A&A...658A.183B"
+   },
+   "epoch": "2015-08-30",
+   "note": "Program 2013.1.00498.S; paper gives no ALMA dates, epoch from the ALMA archive."
+  },
+  {
+   "image_id": "cq-tau_nirc2-lp2020",
+   "type": "disk_scattered",
+   "facility": "Keck",
+   "instrument": "NIRC2",
+   "wavelength_um": 3.8,
+   "wavelength_label": "L' 3.8 um (NIRC2 ADI; ALMA contours overlaid)",
+   "technique": "ADI",
+   "content": "continuum",
+   "survey": null,
+   "file": "images/cq-tau/cq-tau_nirc2-lp2020.png",
+   "credit": "Uyama 2020, Fig. 1 (NIRC2 L' panel, crop)",
+   "paper": {
+    "first_author": "Uyama",
+    "year": 2020,
+    "title": "Near-Infrared Imaging of a Spiral in the CQ Tau Disk",
+    "journal": "The Astronomical Journal",
+    "arxiv": "1910.07605",
+    "bibcode": "2020AJ....159..118U"
+   },
+   "epoch": "2018-12-24"
   }
  ],
  "notes": null,
- "last_updated": "2026-09-14",
+ "last_updated": "2026-09-15",
  "plx_mas": 6.6946,
  "mags": {
   "U": 11.29,

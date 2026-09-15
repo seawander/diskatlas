@@ -869,6 +869,28 @@
     "bibcode": "2026A&A...711A.292L"
    },
    "epoch": "2023-02-16"
+  },
+  {
+   "image_id": "hd-135344b_nicmos-f160w",
+   "type": "disk_scattered",
+   "facility": "HST",
+   "instrument": "NICMOS2",
+   "wavelength_um": 1.6,
+   "wavelength_label": "F160W 1.6 um (HD 135344B field; close binary companions, no disk detected)",
+   "technique": "coronagraphy",
+   "content": "continuum",
+   "survey": null,
+   "file": "images/hd-135344b/hd-135344b_nicmos-f160w.png",
+   "credit": "Augereau et al. 2001, Fig. 10 (F160W panel, crop)",
+   "paper": {
+    "first_author": "Augereau",
+    "year": 2001,
+    "title": "HST/NICMOS2 coronagraphic observations of the circumstellar environment of three old PMS stars: HD 100546, SAO 206462 and MWC 480",
+    "journal": "A&A 365, 78",
+    "arxiv": "astro-ph/0009496",
+    "bibcode": "2001A&A...365...78A"
+   },
+   "epoch": "1998-08-22"
   }
  ],
  "notes": "Three-epoch J-band spiral pattern motion (2015/2016/2022) gives dynamical evidence for a spiral-arm-driving, gap-opening protoplanet (Xie et al. 2024).",

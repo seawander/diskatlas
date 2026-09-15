@@ -1072,10 +1072,55 @@
     "bibcode": "2023A&A...669A.145C"
    },
    "epoch": "2017-05-17"
+  },
+  {
+   "image_id": "hd-142527_zimpol-vbb-qphi-hunziker21",
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "ZIMPOL",
+   "wavelength_um": 0.735,
+   "wavelength_label": "VBB 735 nm (Q_phi polarized intensity; R+I)",
+   "technique": "PDI",
+   "content": "continuum",
+   "survey": null,
+   "file": "images/hd-142527/hd-142527_zimpol-vbb-qphi-hunziker21.png",
+   "credit": "Hunziker et al. 2021, Fig. 2 (ZIMPOL VBB Q_phi panel, crop)",
+   "paper": {
+    "first_author": "Hunziker",
+    "year": 2021,
+    "title": "HD142527: Quantitative disk polarimetry with SPHERE",
+    "arxiv": "2103.08462",
+    "bibcode": "2021A&A...648A.110H",
+    "journal": "A&A 648, A110"
+   },
+   "epoch": "2015-05-02"
+  },
+  {
+   "image_id": "hd-142527_alma-12co32-mom-bohn22",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 7",
+   "wavelength_um": 866.96,
+   "wavelength_label": "12CO J=3-2 velocity field (quadratic moment map)",
+   "technique": "interferometry",
+   "content": "line",
+   "survey": null,
+   "file": "images/hd-142527/hd-142527_alma-12co32-mom-bohn22.png",
+   "credit": "Bohn et al. 2022, Fig. C.1 (HD 142527 12CO 3-2 moment map, crop)",
+   "paper": {
+    "first_author": "Bohn",
+    "year": 2022,
+    "title": "Probing inner and outer disk misalignments in transition disks: constraints from VLTI/GRAVITY and ALMA observations",
+    "journal": "A&A 658, A183",
+    "arxiv": "2112.00123",
+    "bibcode": "2022A&A...658A.183B"
+   },
+   "epoch": "2012-06-02",
+   "note": "Program 2011.0.00465.S; paper gives no ALMA dates, epoch from the ALMA archive (target executions 2012-06-02/03)."
   }
  ],
  "notes": "Extreme azimuthal dust asymmetry in the outer disk (Casassus+2013); an M-dwarf companion orbits inside the cavity (Biller+2012).",
- "last_updated": "2026-09-14",
+ "last_updated": "2026-09-15",
  "plx_mas": 6.2791,
  "mags": {
   "B": 9.04,

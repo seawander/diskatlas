@@ -270,8 +270,30 @@
     "bibcode": "2022NatAs...6..331D"
    },
    "note": "JVLA Ka-band (29-37 GHz, ~33 GHz) continuum image of the Z CMa system (right panel of Fig. 1). Detects binary components A and B with a jet-like structure from B, plus source C; component D is not recovered. Beam 0\"10 x 0\"07."
+  },
+  {
+   "image_id": "z-cma_hiciao-h-pi",
+   "type": "disk_scattered",
+   "facility": "Subaru-HiCIAO",
+   "instrument": "HiCIAO",
+   "wavelength_um": 1.65,
+   "wavelength_label": "H band 1.65 um (halo-corrected polarized intensity)",
+   "technique": "PDI",
+   "content": "continuum",
+   "survey": null,
+   "file": "images/z-cma/z-cma_hiciao-h-pi.png",
+   "credit": "Takami et al. 2018, Fig. 5 (Z CMa H-band PI panel, crop)",
+   "paper": {
+    "first_author": "Takami",
+    "year": 2018,
+    "title": "Near-infrared High-resolution Imaging Polarimetry of FU Ori-type Objects: Toward a Unified Scheme for Low-mass Protostellar Evolution",
+    "journal": "ApJ",
+    "arxiv": "1807.03499",
+    "bibcode": "2018ApJ...864...20T"
+   },
+   "epoch": "2014-10-06"
   }
  ],
  "notes": "Triple system: FUor-like SE component + Herbig Be (EXor) N component, plus a third point source ~0.7 arcsec NE confirmed comoving via Keck/NIRC2 astrometry (Zurlo et al. 2024). A ~6000 au streamer/outflow to the SW, previously interpreted as a flyby signature (Dong et al. 2022), is argued by Zurlo et al. 2024 to be part of a larger outflow rather than a tidal streamer.",
- "last_updated": "2026-09-12"
+ "last_updated": "2026-09-15"
 }

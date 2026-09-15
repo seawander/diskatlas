@@ -34,14 +34,14 @@
    "image_id": "hip-71899_sphere-copains",
    "type": "planet",
    "facility": "VLT",
-   "instrument": "SPHERE IRDIS",
-   "wavelength_um": 1.6,
-   "wavelength_label": "H (IRDIS)",
-   "technique": "high-contrast imaging",
+   "instrument": "SPHERE/IRDIS",
+   "wavelength_um": 2.18,
+   "wavelength_label": "K12 (K1 2.11 + K2 2.25 um) IRDIS dual-band; candidate companion",
+   "technique": "ADI (TLOCI)",
    "survey": "COPAINS",
    "content": "continuum",
    "file": "images/hip-71899/hip-71899_sphere-copains.png",
-   "credit": "Bonavita et al. 2022, Fig. 3 (crop; detection circle recolored)",
+   "credit": "Bonavita et al. 2022, Fig. 3 (IRDIS K1/K2 panel, crop)",
    "note": "Co-moving companion in the light-blue circle (recolored from the red circle of the published Fig. 3 for legibility). F8 star.",
    "paper": {
     "first_author": "Bonavita",
@@ -55,5 +55,5 @@
   }
  ],
  "notes": "F8 star with a co-moving companion imaged by VLT/SPHERE IRDIS in the COPAINS pilot survey (Bonavita et al. 2022).",
- "last_updated": "2026-07-14"
+ "last_updated": "2026-09-15"
 }

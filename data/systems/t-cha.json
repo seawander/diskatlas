@@ -395,10 +395,76 @@
    },
    "epoch": "2022-2025",
    "content": "line"
+  },
+  {
+   "image_id": "t-cha_zimpol-vbb-qphi",
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "ZIMPOL",
+   "wavelength_um": 0.735,
+   "wavelength_label": "VBB 735 nm (Q_phi polarized intensity)",
+   "technique": "PDI",
+   "content": "continuum",
+   "survey": null,
+   "file": "images/t-cha/t-cha_zimpol-vbb-qphi.png",
+   "credit": "Pohl et al. 2017, Fig. 1 (ZIMPOL VBB Q_phi panel, crop)",
+   "paper": {
+    "first_author": "Pohl",
+    "year": 2017,
+    "title": "New constraints on the disk characteristics and companion candidates around T Cha with VLT/SPHERE",
+    "journal": "A&A 605, A34",
+    "arxiv": "1705.03477",
+    "bibcode": "2017A&A...605A..34P"
+   },
+   "epoch": "2016-03-31"
+  },
+  {
+   "image_id": "t-cha_irdis-h2h3-pca",
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS",
+   "wavelength_um": 1.6,
+   "wavelength_label": "H2H3 1.59/1.67 um (ADI total intensity, SpeCal-PCA reduction)",
+   "technique": "ADI",
+   "content": "continuum",
+   "survey": null,
+   "file": "images/t-cha/t-cha_irdis-h2h3-pca.png",
+   "credit": "Pohl et al. 2017, Fig. 3 (IRDIS H2H3 ADI PCA-reduction panel, crop)",
+   "paper": {
+    "first_author": "Pohl",
+    "year": 2017,
+    "title": "New constraints on the disk characteristics and companion candidates around T Cha with VLT/SPHERE",
+    "journal": "A&A 605, A34",
+    "arxiv": "1705.03477",
+    "bibcode": "2017A&A...605A..34P"
+   },
+   "epoch": "2015-05-30"
+  },
+  {
+   "image_id": "t-cha_ifs-yj",
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "IFS",
+   "wavelength_um": 1.15,
+   "wavelength_label": "YJ 0.95-1.35 um (PCA+SDI total intensity, median)",
+   "technique": "ADI",
+   "content": "continuum",
+   "survey": null,
+   "file": "images/t-cha/t-cha_ifs-yj.png",
+   "credit": "Pohl et al. 2017, Fig. 4 (IFS YJ panel, crop)",
+   "paper": {
+    "first_author": "Pohl",
+    "year": 2017,
+    "title": "New constraints on the disk characteristics and companion candidates around T Cha with VLT/SPHERE",
+    "journal": "A&A 605, A34",
+    "arxiv": "1705.03477",
+    "bibcode": "2017A&A...605A..34P"
+   },
+   "epoch": "2015-05-30"
   }
  ],
  "notes": "Transition disk with a large gap (~30 au); highly inclined (~69 deg) with east-west scattered-light asymmetry. A point source at 3.5\" from the star (Pohl et al. 2017) was found NOT to be co-moving, ruling it out as a bound companion; no companion candidate with mass >~8.5 Mjup found between 0.1-0.3\".",
- "last_updated": "2026-09-11",
+ "last_updated": "2026-09-15",
  "mags": {
   "B": 10.0,
   "V": 11.86,

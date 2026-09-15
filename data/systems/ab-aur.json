@@ -946,10 +946,98 @@
     "bibcode": "2022ApJ...926...71J"
    },
    "note": null
+  },
+  {
+   "image_id": "ab-aur_sphere2020-k1k2",
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS",
+   "wavelength_um": 2.18,
+   "wavelength_label": "K12 (K1 2.11 + K2 2.25 um); total intensity (ADI, Jan 2020 second epoch)",
+   "technique": "ADI",
+   "content": "continuum",
+   "survey": null,
+   "file": "images/ab-aur/ab-aur_sphere2020-k1k2.png",
+   "credit": "Boccaletti et al. 2020, Fig. A.1c (IRDIS K1K2 panel, crop)",
+   "paper": {
+    "first_author": "Boccaletti",
+    "year": 2020,
+    "title": "Possible evidence of ongoing planet formation in AB Aurigae",
+    "journal": "A&A 637, L5",
+    "arxiv": "2005.09064",
+    "bibcode": "2020A&A...637L...5B"
+   },
+   "epoch": "2020-01-17"
+  },
+  {
+   "image_id": "ab-aur_alma2024-mom0",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 6 (13CO)",
+   "wavelength_um": 1360,
+   "wavelength_label": "13CO 2-1 moment-0 (integrated intensity) map",
+   "technique": "interferometry",
+   "content": "line",
+   "survey": null,
+   "file": "images/ab-aur/ab-aur_alma2024-mom0.png",
+   "credit": "Speedie et al. 2024, Extended Data Fig. 1a (13CO moment-0, crop)",
+   "paper": {
+    "first_author": "Speedie",
+    "year": 2024,
+    "title": "Gravitational instability in a planet-forming disk",
+    "journal": "Nature (2024)",
+    "arxiv": "2409.02196",
+    "bibcode": "2024Natur.633...58S"
+   },
+   "epoch": "2022"
+  },
+  {
+   "image_id": "ab-aur_alma2024-mom2",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 6 (13CO)",
+   "wavelength_um": 1360,
+   "wavelength_label": "13CO 2-1 moment-2 (line width) map",
+   "technique": "interferometry",
+   "content": "line",
+   "survey": null,
+   "file": "images/ab-aur/ab-aur_alma2024-mom2.png",
+   "credit": "Speedie et al. 2024, Extended Data Fig. 1c (13CO moment-2, crop)",
+   "paper": {
+    "first_author": "Speedie",
+    "year": 2024,
+    "title": "Gravitational instability in a planet-forming disk",
+    "journal": "Nature (2024)",
+    "arxiv": "2409.02196",
+    "bibcode": "2024Natur.633...58S"
+   },
+   "epoch": "2022"
+  },
+  {
+   "image_id": "ab-aur_alma2024-c18o-mom1",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 6 (C18O)",
+   "wavelength_um": 1365,
+   "wavelength_label": "C18O 2-1 intensity-weighted mean velocity (moment-1) map",
+   "technique": "interferometry",
+   "content": "line",
+   "survey": null,
+   "file": "images/ab-aur/ab-aur_alma2024-c18o-mom1.png",
+   "credit": "Speedie et al. 2024, Extended Data Fig. 4f (C18O moment-1, crop)",
+   "paper": {
+    "first_author": "Speedie",
+    "year": 2024,
+    "title": "Gravitational instability in a planet-forming disk",
+    "journal": "Nature (2024)",
+    "arxiv": "2409.02196",
+    "bibcode": "2024Natur.633...58S"
+   },
+   "epoch": "2022"
   }
  ],
  "notes": null,
- "last_updated": "2026-09-12",
+ "last_updated": "2026-09-15",
  "plx_mas": 6.4127,
  "mags": {
   "U": 7.2,

@@ -446,10 +446,32 @@
    },
    "file": "images/twa-7/twa-7_nircam-f444w-c6.png",
    "epoch": "2024-06-15"
+  },
+  {
+   "image_id": "twa-7_naco-lp-2018",
+   "type": "disk_scattered",
+   "facility": "VLT-NACO",
+   "instrument": "NACO (AGPM)",
+   "wavelength_um": 3.8,
+   "wavelength_label": "L' 3.8 um (ADI; non-detection of the disk)",
+   "technique": "ADI",
+   "content": "continuum",
+   "survey": null,
+   "file": "images/twa-7/twa-7_naco-lp-2018.png",
+   "credit": "Olofsson 2018, Fig. A.3 (NACO L' panel, crop)",
+   "epoch": "2017-01-14",
+   "paper": {
+    "first_author": "Olofsson",
+    "year": 2018,
+    "title": "Resolving faint structures in the debris disk around TWA7",
+    "journal": "A&A 617, A109",
+    "arxiv": "1804.01929",
+    "bibcode": "2018A&A...617A.109O"
+   }
   }
  ],
  "notes": null,
- "last_updated": "2026-07-14",
+ "last_updated": "2026-09-15",
  "plx_mas": 29.3277,
  "mags": {
   "B": 12.21,

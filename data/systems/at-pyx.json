@@ -213,10 +213,32 @@
     "bibcode": "2022A&A...662A..74G"
    },
    "note": null
+  },
+  {
+   "image_id": "at-pyx_sphere2021-ifs",
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "IFS",
+   "wavelength_um": 1.3,
+   "wavelength_label": "YJH 0.95-1.65 um (IFS total intensity, ADI)",
+   "technique": "ADI",
+   "content": "continuum",
+   "survey": null,
+   "file": "images/at-pyx/at-pyx_sphere2021-ifs.png",
+   "credit": "Ginski et al. 2022, Fig. 3 (SPHERE/IFS panel, crop)",
+   "epoch": "2018-04-18",
+   "paper": {
+    "first_author": "Ginski",
+    "year": 2022,
+    "title": "An extended scattered light disk around AT Pyx: Possible planet formation in a cometary globule",
+    "journal": "A&A",
+    "arxiv": "2111.11077",
+    "bibcode": "2022A&A...662A..74G"
+   }
   }
  ],
  "notes": "AUTO-CREATED from staging - fill metadata & coords Added 2026-07-08 (keyword discovery round 2).",
- "last_updated": "2026-09-12",
+ "last_updated": "2026-09-15",
  "plx_mas": null,
  "mags": null
 }

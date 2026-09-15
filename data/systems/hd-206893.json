@@ -219,10 +219,120 @@
    "file": "images/hd-206893/hd-206893_naco-lp-milli17.png",
    "epoch": "2016-08-08",
    "content": "continuum"
+  },
+  {
+   "image_id": "hd-206893_nicmos-f160w-2017",
+   "type": "planet",
+   "facility": "HST",
+   "instrument": "NICMOS",
+   "wavelength_um": 1.6,
+   "wavelength_label": "F160W 1.60 um (RDI+PCA; non-detection of the companion at the predicted 2007 background position)",
+   "technique": "RDI",
+   "content": "continuum",
+   "survey": null,
+   "file": "images/hd-206893/hd-206893_nicmos-f160w-2017.png",
+   "credit": "Milli 2017, Fig. A.1 (F160W NICMOS panel, crop)",
+   "epoch": "2007-06-12",
+   "paper": {
+    "first_author": "Milli",
+    "year": 2017,
+    "title": "Discovery of a low-mass companion inside the debris ring surrounding the F5V star HD 206893",
+    "journal": "A&A 597, L2 (2017)",
+    "arxiv": "1612.00333",
+    "bibcode": "2017A&A...597L...2M"
+   }
+  },
+  {
+   "image_id": "hd-206893_pacs-70um-2017",
+   "type": "disk_mm",
+   "facility": "Herschel",
+   "instrument": "PACS",
+   "wavelength_um": 70,
+   "wavelength_label": "70 um (PACS; marginally resolved debris disk, 50-200 au)",
+   "technique": "other",
+   "content": "continuum",
+   "survey": null,
+   "file": "images/hd-206893/hd-206893_pacs-70um-2017.png",
+   "credit": "Milli 2017, Fig. B.1 (PACS 70 um panel, crop)",
+   "epoch": "2013-04-23",
+   "paper": {
+    "first_author": "Milli",
+    "year": 2017,
+    "title": "Discovery of a low-mass companion inside the debris ring surrounding the F5V star HD 206893",
+    "journal": "A&A 597, L2 (2017)",
+    "arxiv": "1612.00333",
+    "bibcode": "2017A&A...597L...2M"
+   }
+  },
+  {
+   "image_id": "hd-206893_gpi-j-2021",
+   "type": "planet",
+   "facility": "Gemini-GPI",
+   "instrument": "GPI IFS",
+   "wavelength_um": 1.25,
+   "wavelength_label": "J band 1.25 um (LOCI; HD 206893 B, 2018 epoch)",
+   "technique": "ADI",
+   "content": "continuum",
+   "survey": null,
+   "file": "images/hd-206893/hd-206893_gpi-j-2021.png",
+   "credit": "Ward-Duong 2021, Fig. 4 (GPI J panel, crop)",
+   "epoch": "2018-09-24",
+   "paper": {
+    "first_author": "Ward-Duong",
+    "year": 2021,
+    "title": "Gemini Planet Imager Spectroscopy of the Dusty Substellar Companion HD 206893 B",
+    "journal": "ApJ",
+    "arxiv": "2010.10546",
+    "bibcode": "2021AJ....161....5W"
+   }
+  },
+  {
+   "image_id": "hd-206893_gpi-h-2021",
+   "type": "planet",
+   "facility": "Gemini-GPI",
+   "instrument": "GPI IFS",
+   "wavelength_um": 1.65,
+   "wavelength_label": "H band 1.65 um (LOCI; HD 206893 B, 2016 epoch)",
+   "technique": "ADI",
+   "content": "continuum",
+   "survey": null,
+   "file": "images/hd-206893/hd-206893_gpi-h-2021.png",
+   "credit": "Ward-Duong 2021, Fig. 4 (GPI H panel, crop)",
+   "epoch": "2016-09-22",
+   "paper": {
+    "first_author": "Ward-Duong",
+    "year": 2021,
+    "title": "Gemini Planet Imager Spectroscopy of the Dusty Substellar Companion HD 206893 B",
+    "journal": "ApJ",
+    "arxiv": "2010.10546",
+    "bibcode": "2021AJ....161....5W"
+   }
+  },
+  {
+   "image_id": "hd-206893_gpi-k2-2021",
+   "type": "planet",
+   "facility": "Gemini-GPI",
+   "instrument": "GPI IFS",
+   "wavelength_um": 2.25,
+   "wavelength_label": "K2 band 2.25 um (LOCI; HD 206893 B, 2017 epoch)",
+   "technique": "ADI",
+   "content": "continuum",
+   "survey": null,
+   "file": "images/hd-206893/hd-206893_gpi-k2-2021.png",
+   "credit": "Ward-Duong 2021, Fig. 4 (GPI K2 panel, crop)",
+   "epoch": "2017-11-09",
+   "paper": {
+    "first_author": "Ward-Duong",
+    "year": 2021,
+    "title": "Gemini Planet Imager Spectroscopy of the Dusty Substellar Companion HD 206893 B",
+    "journal": "ApJ",
+    "arxiv": "2010.10546",
+    "bibcode": "2021AJ....161....5W"
+   }
   }
  ],
  "notes": null,
- "last_updated": "2026-07-07",
+ "last_updated": "2026-09-15",
  "plx_mas": 24.5275,
  "mags": {
   "B": 7.11,

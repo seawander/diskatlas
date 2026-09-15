@@ -457,10 +457,98 @@
    },
    "file": "images/gg-tau/gg-tau_nicmos1um.png",
    "epoch": "1998-04-03"
+  },
+  {
+   "image_id": "gg-tau_alma-12co65-mom0",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 9 (12CO J=6-5)",
+   "wavelength_um": 433.6,
+   "wavelength_label": "12CO J=6-5 integrated intensity (moment-0)",
+   "technique": "interferometry",
+   "content": "line",
+   "survey": null,
+   "file": "images/gg-tau/gg-tau_alma-12co65-mom0.png",
+   "credit": "Phuong et al. 2020, Fig. 10 (12CO 6-5 integrated-intensity panel, crop)",
+   "paper": {
+    "first_author": "Phuong",
+    "year": 2020,
+    "title": "GG Tau A: gas properties and dynamics from the cavity to the outer disk",
+    "journal": "A&A",
+    "arxiv": "2001.08147",
+    "bibcode": "2020A&A...635A..12P"
+   },
+   "epoch": "2012-08-13"
+  },
+  {
+   "image_id": "gg-tau_alma-13co32-mom0",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 7 (13CO J=3-2)",
+   "wavelength_um": 906.8,
+   "wavelength_label": "13CO J=3-2 integrated intensity (moment-0)",
+   "technique": "interferometry",
+   "content": "line",
+   "survey": null,
+   "file": "images/gg-tau/gg-tau_alma-13co32-mom0.png",
+   "credit": "Phuong et al. 2020, Fig. 2 (13CO 3-2 integrated-intensity panel, crop)",
+   "paper": {
+    "first_author": "Phuong",
+    "year": 2020,
+    "title": "GG Tau A: gas properties and dynamics from the cavity to the outer disk",
+    "journal": "A&A",
+    "arxiv": "2001.08147",
+    "bibcode": "2020A&A...635A..12P"
+   },
+   "epoch": "2013-2016"
+  },
+  {
+   "image_id": "gg-tau_alma-c18o32-mom0",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 7 (C18O J=3-2)",
+   "wavelength_um": 910.3,
+   "wavelength_label": "C18O J=3-2 integrated intensity (moment-0)",
+   "technique": "interferometry",
+   "content": "line",
+   "survey": null,
+   "file": "images/gg-tau/gg-tau_alma-c18o32-mom0.png",
+   "credit": "Phuong et al. 2020, Fig. 2 (C18O 3-2 integrated-intensity panel, crop)",
+   "paper": {
+    "first_author": "Phuong",
+    "year": 2020,
+    "title": "GG Tau A: gas properties and dynamics from the cavity to the outer disk",
+    "journal": "A&A",
+    "arxiv": "2001.08147",
+    "bibcode": "2020A&A...635A..12P"
+   },
+   "epoch": "2016-09-25"
+  },
+  {
+   "image_id": "gg-tau_alma-12co32-mom0",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 7 (12CO J=3-2)",
+   "wavelength_um": 866.9,
+   "wavelength_label": "12CO J=3-2 integrated intensity (moment-0)",
+   "technique": "interferometry",
+   "content": "line",
+   "survey": null,
+   "file": "images/gg-tau/gg-tau_alma-12co32-mom0.png",
+   "credit": "Phuong et al. 2020, Fig. 10 (12CO 3-2 integrated-intensity panel, crop)",
+   "paper": {
+    "first_author": "Phuong",
+    "year": 2020,
+    "title": "GG Tau A: gas properties and dynamics from the cavity to the outer disk",
+    "journal": "A&A",
+    "arxiv": "2001.08147",
+    "bibcode": "2020A&A...635A..12P"
+   },
+   "epoch": "2013-11-18"
   }
  ],
  "notes": null,
- "last_updated": "2026-07-09",
+ "last_updated": "2026-09-15",
  "plx_mas": 8.5914,
  "mags": {
   "U": 14.84,

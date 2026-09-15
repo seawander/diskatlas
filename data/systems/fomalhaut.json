@@ -600,10 +600,77 @@
    },
    "note": "SCUBA archive span; the paper gives no per-target observing dates.",
    "epoch": "1997-2004"
+  },
+  {
+   "image_id": "fomalhaut_stis2021-null",
+   "type": "disk_scattered",
+   "facility": "HST",
+   "instrument": "STIS",
+   "wavelength_um": 0.6,
+   "wavelength_label": "optical broadband (STIS); RDI imaged non-detection",
+   "technique": "RDI",
+   "content": "continuum",
+   "survey": null,
+   "file": "images/fomalhaut/fomalhaut_stis2021-null.png",
+   "credit": "Gaspar et al. 2023, Fig. S8 (STIS RDI null panel, crop)",
+   "paper": {
+    "first_author": "Gaspar",
+    "year": 2023,
+    "title": "Spatially resolved imaging of the inner Fomalhaut disk using JWST/MIRI",
+    "journal": "Nature Astronomy 7, 790",
+    "arxiv": "2305.03789",
+    "bibcode": "2023NatAs...7..790G"
+   },
+   "epoch": "2021-08-20",
+   "note": "HST Cycle 27 GO 15905; no scattered-light detection out to ~300 (contrast limited). Fig. S8 also shows an ADI reduction of the same null dataset."
+  },
+  {
+   "image_id": "fomalhaut_acs-f814w-2006",
+   "type": "planet",
+   "facility": "HST",
+   "instrument": "ACS/HRC",
+   "wavelength_um": 0.814,
+   "wavelength_label": "F814W; Fomalhaut b 2006 cutout (detected)",
+   "technique": "coronagraphy",
+   "content": "continuum",
+   "survey": null,
+   "file": "images/fomalhaut/fomalhaut_acs-f814w-2006.png",
+   "credit": "Gaspar et al. 2020, Fig. 1 (2006/ACS/F814W panel, crop)",
+   "paper": {
+    "first_author": "Gaspar",
+    "year": 2020,
+    "title": "New HST data and modeling reveal a massive planetesimal collision around Fomalhaut",
+    "journal": "PNAS",
+    "arxiv": "2004.08736",
+    "bibcode": "2020PNAS..117.9712G"
+   },
+   "epoch": "2006-07"
+  },
+  {
+   "image_id": "fomalhaut_acs-f435w-2006",
+   "type": "planet",
+   "facility": "HST",
+   "instrument": "ACS/HRC",
+   "wavelength_um": 0.435,
+   "wavelength_label": "F435W; Fomalhaut b 2006 cutout (non-detection/upper limit)",
+   "technique": "coronagraphy",
+   "content": "continuum",
+   "survey": null,
+   "file": "images/fomalhaut/fomalhaut_acs-f435w-2006.png",
+   "credit": "Gaspar et al. 2020, Fig. 1 (2006/ACS/F435W panel, crop)",
+   "paper": {
+    "first_author": "Gaspar",
+    "year": 2020,
+    "title": "New HST data and modeling reveal a massive planetesimal collision around Fomalhaut",
+    "journal": "PNAS",
+    "arxiv": "2004.08736",
+    "bibcode": "2020PNAS..117.9712G"
+   },
+   "epoch": "2006-07"
   }
  ],
  "notes": null,
- "last_updated": "2026-09-12",
+ "last_updated": "2026-09-15",
  "plx_mas": 129.81,
  "mags": {
   "U": 1.31,

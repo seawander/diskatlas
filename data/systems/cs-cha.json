@@ -148,10 +148,122 @@
    },
    "epoch": "2023-2024",
    "content": "continuum"
+  },
+  {
+   "image_id": "cs-cha_zimpol-rprim-qphi",
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "ZIMPOL",
+   "wavelength_um": 0.626,
+   "wavelength_label": "R_PRIM 626 nm (Q_phi polarized intensity)",
+   "technique": "PDI",
+   "content": "continuum",
+   "survey": null,
+   "file": "images/cs-cha/cs-cha_zimpol-rprim-qphi.png",
+   "credit": "Ginski et al. 2024, Fig. 7 (ZIMPOL R_PRIM Q_phi panel, crop)",
+   "paper": {
+    "first_author": "Ginski",
+    "year": 2024,
+    "title": "The SPHERE view of the Chamaeleon I star-forming region: The full census of planet-forming disks with GTO and DESTINYS programs",
+    "journal": "A&A 685, A52",
+    "arxiv": "2403.02149",
+    "bibcode": "2024A&A...685A..52G"
+   },
+   "epoch": "2018-12-23",
+   "note": "ZIMPOL R_PRIM/I_PRIM data collected on 2018-12-23 and 2019-01-20 (Table 2); combined image."
+  },
+  {
+   "image_id": "cs-cha_zimpol-iprim-qphi",
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "ZIMPOL",
+   "wavelength_um": 0.79,
+   "wavelength_label": "I_PRIM 790 nm (Q_phi polarized intensity)",
+   "technique": "PDI",
+   "content": "continuum",
+   "survey": null,
+   "file": "images/cs-cha/cs-cha_zimpol-iprim-qphi.png",
+   "credit": "Ginski et al. 2024, Fig. 7 (ZIMPOL I_PRIM Q_phi panel, crop)",
+   "paper": {
+    "first_author": "Ginski",
+    "year": 2024,
+    "title": "The SPHERE view of the Chamaeleon I star-forming region: The full census of planet-forming disks with GTO and DESTINYS programs",
+    "journal": "A&A 685, A52",
+    "arxiv": "2403.02149",
+    "bibcode": "2024A&A...685A..52G"
+   },
+   "epoch": "2018-12-23",
+   "note": "ZIMPOL I_PRIM/R_PRIM data collected on 2018-12-23 and 2019-01-20 (Table 2); combined image."
+  },
+  {
+   "image_id": "cs-cha_sphere-j-qphi-ginski18",
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS",
+   "wavelength_um": 1.25,
+   "wavelength_label": "J band 1.25 um (Q_phi polarized intensity)",
+   "technique": "PDI",
+   "content": "continuum",
+   "survey": null,
+   "file": "images/cs-cha/cs-cha_sphere-j-qphi-ginski18.png",
+   "credit": "Ginski et al. 2018, Fig. 1 (SPHERE J-band Q_phi panel, crop)",
+   "paper": {
+    "first_author": "Ginski",
+    "year": 2018,
+    "title": "First direct detection of a polarized companion outside of a resolved circumbinary disk around CS Cha",
+    "journal": "A&A 616, A79",
+    "arxiv": "1805.02261",
+    "bibcode": "2018A&A...616A..79G"
+   },
+   "epoch": "2017-02-17"
+  },
+  {
+   "image_id": "cs-cha_naco-ks-ginski18",
+   "type": "disk_scattered",
+   "facility": "VLT-NACO",
+   "instrument": "NACO",
+   "wavelength_um": 2.18,
+   "wavelength_label": "Ks band 2.18 um (total intensity; companion candidate marked)",
+   "technique": "imaging",
+   "content": "continuum",
+   "survey": null,
+   "file": "images/cs-cha/cs-cha_naco-ks-ginski18.png",
+   "credit": "Ginski et al. 2018, Fig. 2 (archival NACO Ks-band panel, crop)",
+   "paper": {
+    "first_author": "Ginski",
+    "year": 2018,
+    "title": "First direct detection of a polarized companion outside of a resolved circumbinary disk around CS Cha",
+    "journal": "A&A 616, A79",
+    "arxiv": "1805.02261",
+    "bibcode": "2018A&A...616A..79G"
+   },
+   "epoch": "2006-02-17"
+  },
+  {
+   "image_id": "cs-cha_wfpc2-f814w-ginski18",
+   "type": "disk_scattered",
+   "facility": "HST",
+   "instrument": "WFPC2",
+   "wavelength_um": 0.814,
+   "wavelength_label": "F814W 0.814 um (total intensity; companion candidate marked)",
+   "technique": "RDI",
+   "content": "continuum",
+   "survey": null,
+   "file": "images/cs-cha/cs-cha_wfpc2-f814w-ginski18.png",
+   "credit": "Ginski et al. 2018, Fig. 2 (archival WFPC2 F814W panel, crop)",
+   "paper": {
+    "first_author": "Ginski",
+    "year": 2018,
+    "title": "First direct detection of a polarized companion outside of a resolved circumbinary disk around CS Cha",
+    "journal": "A&A 616, A79",
+    "arxiv": "1805.02261",
+    "bibcode": "2018A&A...616A..79G"
+   },
+   "epoch": "1998-02-18"
   }
  ],
  "notes": "AUTO-CREATED from staging - fill metadata & coords",
- "last_updated": "2026-07-07",
+ "last_updated": "2026-09-15",
  "plx_mas": 5.9251,
  "mags": {
   "B": 12.88,

@@ -377,10 +377,98 @@
     "bibcode": "2026A&A...712A.189L"
    },
    "note": "Final ADI-processed image; large panel full FOV, inset 30x30 px zoom on subtracted companion and residuals; two bkg sources marked green"
+  },
+  {
+   "image_id": "gq-lup_miri-mrs1a2024",
+   "type": "planet",
+   "facility": "JWST",
+   "instrument": "MIRI MRS",
+   "wavelength_um": 5.32,
+   "wavelength_label": "MRS band 1A (4.90-5.74 um)",
+   "technique": "RDI",
+   "content": "continuum",
+   "survey": null,
+   "file": "images/gq-lup/gq-lup_miri-mrs1a2024.png",
+   "credit": "Cugno 2024, Fig. 1 (MRS 1A panel, crop)",
+   "paper": {
+    "first_author": "Cugno",
+    "year": 2024,
+    "title": "Mid-Infrared Spectrum of the Disk around the Forming Companion GQ Lup B Revealed by JWST/MIRI",
+    "journal": "ApJL",
+    "arxiv": "2404.07086",
+    "bibcode": "2024ApJ...966L..21C"
+   },
+   "epoch": "2023-08-13"
+  },
+  {
+   "image_id": "gq-lup_miri-mrs2a2024",
+   "type": "planet",
+   "facility": "JWST",
+   "instrument": "MIRI MRS",
+   "wavelength_um": 8.14,
+   "wavelength_label": "MRS band 2A (7.51-8.77 um)",
+   "technique": "RDI",
+   "content": "continuum",
+   "survey": null,
+   "file": "images/gq-lup/gq-lup_miri-mrs2a2024.png",
+   "credit": "Cugno 2024, Fig. 1 (MRS 2A panel, crop)",
+   "paper": {
+    "first_author": "Cugno",
+    "year": 2024,
+    "title": "Mid-Infrared Spectrum of the Disk around the Forming Companion GQ Lup B Revealed by JWST/MIRI",
+    "journal": "ApJL",
+    "arxiv": "2404.07086",
+    "bibcode": "2024ApJ...966L..21C"
+   },
+   "epoch": "2023-08-13"
+  },
+  {
+   "image_id": "gq-lup_miri-mrs2b2024",
+   "type": "planet",
+   "facility": "JWST",
+   "instrument": "MIRI MRS",
+   "wavelength_um": 9.4,
+   "wavelength_label": "MRS band 2B (8.67-10.13 um)",
+   "technique": "RDI",
+   "content": "continuum",
+   "survey": null,
+   "file": "images/gq-lup/gq-lup_miri-mrs2b2024.png",
+   "credit": "Cugno 2024, Fig. 1 (MRS 2B panel, crop)",
+   "paper": {
+    "first_author": "Cugno",
+    "year": 2024,
+    "title": "Mid-Infrared Spectrum of the Disk around the Forming Companion GQ Lup B Revealed by JWST/MIRI",
+    "journal": "ApJL",
+    "arxiv": "2404.07086",
+    "bibcode": "2024ApJ...966L..21C"
+   },
+   "epoch": "2023-08-13"
+  },
+  {
+   "image_id": "gq-lup_miri-mrs2c2024",
+   "type": "planet",
+   "facility": "JWST",
+   "instrument": "MIRI MRS",
+   "wavelength_um": 10.85,
+   "wavelength_label": "MRS band 2C (10.01-11.69 um)",
+   "technique": "RDI",
+   "content": "continuum",
+   "survey": null,
+   "file": "images/gq-lup/gq-lup_miri-mrs2c2024.png",
+   "credit": "Cugno 2024, Fig. 1 (MRS 2C panel, crop)",
+   "paper": {
+    "first_author": "Cugno",
+    "year": 2024,
+    "title": "Mid-Infrared Spectrum of the Disk around the Forming Companion GQ Lup B Revealed by JWST/MIRI",
+    "journal": "ApJL",
+    "arxiv": "2404.07086",
+    "bibcode": "2024ApJ...966L..21C"
+   },
+   "epoch": "2023-08-13"
   }
  ],
  "notes": null,
- "last_updated": "2026-09-11",
+ "last_updated": "2026-09-15",
  "plx_mas": 6.4893,
  "mags": {
   "U": 12.19,

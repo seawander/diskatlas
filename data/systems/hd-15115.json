@@ -432,10 +432,32 @@
    },
    "epoch": "2012-2015",
    "content": "continuum"
+  },
+  {
+   "image_id": "hd-15115_nici-ks-2014",
+   "type": "disk_scattered",
+   "facility": "Gemini-NICI",
+   "instrument": "NICI",
+   "wavelength_um": 2.15,
+   "wavelength_label": "Ks 2.15 um (KLIP; disk, 2011 Nov 07)",
+   "technique": "ADI",
+   "content": "continuum",
+   "survey": null,
+   "file": "images/hd-15115/hd-15115_nici-ks-2014.png",
+   "credit": "Mazoyer 2014, Fig. 1 (Ks KLIP panel, crop)",
+   "epoch": "2011-11-07",
+   "paper": {
+    "first_author": "Mazoyer",
+    "year": 2014,
+    "title": "Is the HD 15115 inner disk really asymmetrical?",
+    "journal": "A&A 569, A29",
+    "arxiv": "1409.0710",
+    "bibcode": "2014A&A...569A..29M"
+   }
   }
  ],
  "notes": null,
- "last_updated": "2026-07-08",
+ "last_updated": "2026-09-15",
  "plx_mas": 20.5026,
  "mags": {
   "B": 7.15,

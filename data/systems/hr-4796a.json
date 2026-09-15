@@ -993,6 +993,182 @@
     "bibcode": "2017MNRAS.470.3606H"
    },
    "epoch": "2012-2015"
+  },
+  {
+   "image_id": "260623480_hr_4796a_adi_g_band_2025_04_08",
+   "type": "disk_scattered",
+   "facility": "Magellan",
+   "instrument": "MagAO-X",
+   "wavelength_um": 0.527,
+   "wavelength_label": "g' (527 nm, KLIP-ADI)",
+   "technique": "ADI coronagraphy",
+   "content": "continuum",
+   "survey": null,
+   "file": "images/hr-4796a/260623480_hr_4796a_adi_g_band_2025_04_08.png",
+   "credit": "Kueny et al. 2026, Fig. 3 (g' KLIP-ADI panel, crop)",
+   "paper": {
+    "first_author": "Kueny",
+    "year": 2026,
+    "title": "A Multiband Study of the HR 4796A Disk in the Optical Using MagAO-X",
+    "journal": "ApJ 1001, 189",
+    "arxiv": "2606.23480",
+    "bibcode": "2026ApJ..1001..189K"
+   },
+   "epoch": "2025-04-08"
+  },
+  {
+   "image_id": "hr-4796a_nici2014-ch4s",
+   "type": "disk_scattered",
+   "facility": "Gemini-South",
+   "instrument": "NICI",
+   "wavelength_um": 1.578,
+   "wavelength_label": "CH4S 1.578 um (narrow-band)",
+   "technique": "ADI",
+   "content": "continuum",
+   "survey": null,
+   "file": "images/hr-4796a/hr-4796a_nici2014-ch4s.png",
+   "credit": "Wahhaj et al. 2014, Fig. 1 (CH4S panel, crop)",
+   "paper": {
+    "first_author": "Wahhaj",
+    "year": 2014,
+    "title": "The Gemini NICI Planet-Finding Campaign: The Offset Ring of HR 4796 A",
+    "journal": "A&A 567, A34 (2014)",
+    "arxiv": "1404.6525",
+    "bibcode": "2014A&A...567A..34W"
+   },
+   "epoch": "2009-01-14"
+  },
+  {
+   "image_id": "hr-4796a_nici2014-ch4l",
+   "type": "disk_scattered",
+   "facility": "Gemini-South",
+   "instrument": "NICI",
+   "wavelength_um": 1.652,
+   "wavelength_label": "CH4L 1.652 um (narrow-band)",
+   "technique": "ADI",
+   "content": "continuum",
+   "survey": null,
+   "file": "images/hr-4796a/hr-4796a_nici2014-ch4l.png",
+   "credit": "Wahhaj et al. 2014, Fig. 1 (CH4L panel, crop)",
+   "paper": {
+    "first_author": "Wahhaj",
+    "year": 2014,
+    "title": "The Gemini NICI Planet-Finding Campaign: The Offset Ring of HR 4796 A",
+    "journal": "A&A 567, A34 (2014)",
+    "arxiv": "1404.6525",
+    "bibcode": "2014A&A...567A..34W"
+   },
+   "epoch": "2009-01-14"
+  },
+  {
+   "image_id": "hr-4796a_clio-rodigas2015-ls",
+   "type": "disk_scattered",
+   "facility": "Magellan-MagAO",
+   "instrument": "Clio-2",
+   "wavelength_um": 3.3,
+   "wavelength_label": "Ls 3.3 um (ADI; debris ring)",
+   "technique": "ADI",
+   "content": "continuum",
+   "survey": null,
+   "file": "images/hr-4796a/hr-4796a_clio-rodigas2015-ls.png",
+   "credit": "Rodigas et al. 2015, Fig. 1b (Ls 3.3 panel, crop)",
+   "paper": {
+    "arxiv": "1410.7753",
+    "bibcode": "2015ApJ...798...96R",
+    "first_author": "Rodigas",
+    "year": 2015,
+    "journal": "ApJ 798, 96",
+    "title": "On the Morphology and Chemical Composition of the HR 4796A Debris Disk"
+   },
+   "epoch": "2013-04-08"
+  },
+  {
+   "image_id": "hr-4796a_clio-rodigas2015-ice",
+   "type": "disk_scattered",
+   "facility": "Magellan-MagAO",
+   "instrument": "Clio-2",
+   "wavelength_um": 3.1,
+   "wavelength_label": "Ice 3.1 um (ADI; debris ring)",
+   "technique": "ADI",
+   "content": "continuum",
+   "survey": null,
+   "file": "images/hr-4796a/hr-4796a_clio-rodigas2015-ice.png",
+   "credit": "Rodigas et al. 2015, Fig. 1c (Ice 3.1 panel, crop)",
+   "paper": {
+    "arxiv": "1410.7753",
+    "bibcode": "2015ApJ...798...96R",
+    "first_author": "Rodigas",
+    "year": 2015,
+    "journal": "ApJ 798, 96",
+    "title": "On the Morphology and Chemical Composition of the HR 4796A Debris Disk"
+   },
+   "epoch": "2013-04-09"
+  },
+  {
+   "image_id": "hr-4796a_clio-rodigas2015-ks",
+   "type": "disk_scattered",
+   "facility": "Magellan-MagAO",
+   "instrument": "Clio-2",
+   "wavelength_um": 2.15,
+   "wavelength_label": "Ks 2.15 um (ADI; debris ring)",
+   "technique": "ADI",
+   "content": "continuum",
+   "survey": null,
+   "file": "images/hr-4796a/hr-4796a_clio-rodigas2015-ks.png",
+   "credit": "Rodigas et al. 2015, Fig. 1d (Ks 2.15 panel, crop)",
+   "paper": {
+    "arxiv": "1410.7753",
+    "bibcode": "2015ApJ...798...96R",
+    "first_author": "Rodigas",
+    "year": 2015,
+    "journal": "ApJ 798, 96",
+    "title": "On the Morphology and Chemical Composition of the HR 4796A Debris Disk"
+   },
+   "epoch": "2014-04-10"
+  },
+  {
+   "image_id": "hr-4796a_visao-rodigas2015-z",
+   "type": "disk_scattered",
+   "facility": "Magellan-MagAO",
+   "instrument": "VisAO",
+   "wavelength_um": 0.91,
+   "wavelength_label": "z' 0.91 um (ADI; debris ring)",
+   "technique": "ADI",
+   "content": "continuum",
+   "survey": null,
+   "file": "images/hr-4796a/hr-4796a_visao-rodigas2015-z.png",
+   "credit": "Rodigas et al. 2015, Fig. 1f (z' 0.91 panel, crop)",
+   "paper": {
+    "arxiv": "1410.7753",
+    "bibcode": "2015ApJ...798...96R",
+    "first_author": "Rodigas",
+    "year": 2015,
+    "journal": "ApJ 798, 96",
+    "title": "On the Morphology and Chemical Composition of the HR 4796A Debris Disk"
+   },
+   "epoch": "2013-04-07"
+  },
+  {
+   "image_id": "hr-4796a_visao-rodigas2015-i",
+   "type": "disk_scattered",
+   "facility": "Magellan-MagAO",
+   "instrument": "VisAO",
+   "wavelength_um": 0.77,
+   "wavelength_label": "i' 0.77 um (ADI; debris ring)",
+   "technique": "ADI",
+   "content": "continuum",
+   "survey": null,
+   "file": "images/hr-4796a/hr-4796a_visao-rodigas2015-i.png",
+   "credit": "Rodigas et al. 2015, Fig. 1g (i' 0.77 panel, crop)",
+   "paper": {
+    "arxiv": "1410.7753",
+    "bibcode": "2015ApJ...798...96R",
+    "first_author": "Rodigas",
+    "year": 2015,
+    "journal": "ApJ 798, 96",
+    "title": "On the Morphology and Chemical Composition of the HR 4796A Debris Disk"
+   },
+   "epoch": "2013-04-09"
   }
  ],
  "notes": null,

@@ -60,10 +60,54 @@
    "file": "images/hd-105211/hd-105211_herschel-pacs70.png",
    "epoch": "2013-01-28",
    "content": "continuum"
+  },
+  {
+   "image_id": "hd-105211_herschel-pacs100",
+   "type": "disk_mm",
+   "facility": "Herschel",
+   "instrument": "PACS",
+   "wavelength_um": 100,
+   "wavelength_label": "100 um (Lucy-Richardson deconvolved)",
+   "technique": "other",
+   "content": "continuum",
+   "survey": null,
+   "file": "images/hd-105211/hd-105211_herschel-pacs100.png",
+   "credit": "Hengst et al. 2017, Fig. 2 (PACS 100 um deconvolution panel, crop)",
+   "paper": {
+    "first_author": "Hengst",
+    "year": 2017,
+    "title": "A Herschel resolved debris disc around HD 105211",
+    "journal": "MNRAS 468, 4725",
+    "arxiv": "1703.09348",
+    "bibcode": "2017MNRAS.468.4725H"
+   },
+   "epoch": "2013-01-28"
+  },
+  {
+   "image_id": "hd-105211_herschel-pacs160",
+   "type": "disk_mm",
+   "facility": "Herschel",
+   "instrument": "PACS",
+   "wavelength_um": 160,
+   "wavelength_label": "160 um (Lucy-Richardson deconvolved)",
+   "technique": "other",
+   "content": "continuum",
+   "survey": null,
+   "file": "images/hd-105211/hd-105211_herschel-pacs160.png",
+   "credit": "Hengst et al. 2017, Fig. 2 (PACS 160 um deconvolution panel, crop)",
+   "paper": {
+    "first_author": "Hengst",
+    "year": 2017,
+    "title": "A Herschel resolved debris disc around HD 105211",
+    "journal": "MNRAS 468, 4725",
+    "arxiv": "1703.09348",
+    "bibcode": "2017MNRAS.468.4725H"
+   },
+   "epoch": "2013-01-28"
   }
  ],
  "notes": "AUTO-CREATED from staging - fill metadata & coords",
- "last_updated": "2026-07-08",
+ "last_updated": "2026-09-15",
  "plx_mas": 50.7919,
  "mags": {
   "B": 4.47,

@@ -483,6 +483,28 @@
     "bibcode": "2023A&A...672A.114R"
    },
    "epoch": "1998-08-17"
+  },
+  {
+   "image_id": "hd-141569_nici-ch4s",
+   "type": "disk_scattered",
+   "facility": "Gemini-NICI",
+   "instrument": "NICI",
+   "wavelength_um": 1.578,
+   "wavelength_label": "CH4S 1.578 um (ADI); disk scattered light",
+   "technique": "ADI",
+   "content": "continuum",
+   "survey": null,
+   "file": "images/hd-141569/hd-141569_nici-ch4s.png",
+   "credit": "Biller et al. 2015, Fig. 1 (CH4S 1.58 um ADI panel, crop)",
+   "paper": {
+    "first_author": "Biller",
+    "year": 2015,
+    "title": "The Gemini NICI Planet-Finding Campaign: Asymmetries in the HD 141569 disk",
+    "journal": "MNRAS 450, 4446",
+    "arxiv": "1504.05224",
+    "bibcode": "2015MNRAS.450.4446B"
+   },
+   "epoch": "2011-05-03"
   }
  ],
  "notes": "Hybrid disk (gas-rich debris / late transition); its multi-ring scattered-light structure was first resolved with HST/NICMOS (Weinberger+1999) and later in VLT/SPHERE (Perrot+2016).",

@@ -147,10 +147,33 @@
    },
    "epoch": "2019",
    "content": "continuum"
+  },
+  {
+   "image_id": "rx-j1852-3-3700_alma-b3-3mm",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 3",
+   "wavelength_um": 3000,
+   "wavelength_label": "Band 3 ~3 mm continuum",
+   "technique": "interferometry",
+   "content": "continuum",
+   "survey": null,
+   "file": "images/rx-j1852-3-3700/rx-j1852-3-3700_alma-b3-3mm.png",
+   "credit": "Villenave et al. 2019, Fig. 8 (ALMA Band 3 panel, crop)",
+   "paper": {
+    "first_author": "Villenave",
+    "year": 2019,
+    "title": "Spatial segregation of dust grains in transition disks. SPHERE observations of 2MASS J16083070-3828268 and RXJ1852.3-3700",
+    "journal": "A&A 624, A7 (2019)",
+    "arxiv": "1902.04612",
+    "bibcode": "2019A&A...624A...7V"
+   },
+   "epoch": "2016-09-22",
+   "note": "Archival ALMA Band 3 (~3 mm; four continuum windows 91.5-103.5 GHz, project 2015.1.01083.S, PI Morino) observed 2016-09-22. Left panel of Fig. 8 (observed image); middle panel is the model and the right panel radial cuts were not used."
   }
  ],
  "notes": null,
- "last_updated": "2026-07-07",
+ "last_updated": "2026-09-15",
  "plx_mas": 6.7986,
  "mags": {
   "B": 12.7,

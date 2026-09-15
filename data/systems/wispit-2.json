@@ -433,8 +433,30 @@
     "arxiv": "2609.05230",
     "bibcode": "2026arXiv260905230V"
    }
+  },
+  {
+   "image_id": "wispit-2_sphere-ks-qphi",
+   "type": "disk_scattered",
+   "facility": "VLT-SPHERE",
+   "instrument": "IRDIS",
+   "wavelength_um": 2.18,
+   "wavelength_label": "Ks band 2.18 um (Q_phi polarized intensity)",
+   "technique": "PDI",
+   "content": "continuum",
+   "survey": null,
+   "file": "images/wispit-2/wispit-2_sphere-ks-qphi.png",
+   "credit": "van Capelleveen et al. 2025, Fig. 3 (Ks PDI Q_phi panel, crop)",
+   "paper": {
+    "first_author": "van Capelleveen",
+    "year": 2025,
+    "title": "WIde Separation Planets In Time (WISPIT): A gap-clearing planet in a multi-ringed disk around the young solar-type star WISPIT 2",
+    "journal": "ApJL (2025)",
+    "arxiv": "2508.19053",
+    "bibcode": "2025ApJ...990L...8V"
+   },
+   "epoch": "2025-04-26"
   }
  ],
  "notes": "The second known multi-planet system caught in formation inside its natal disk, a PDS 70 analogue (Close+2025; van Capelleveen+2025).",
- "last_updated": "2026-09-11"
+ "last_updated": "2026-09-15"
 }

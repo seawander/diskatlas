@@ -486,8 +486,31 @@
     "bibcode": "2026arXiv260905366S"
    },
    "note": "Extended Band 7 (0.87 mm) field of the J16120 disc, showing also a resolved background sub-millimetre source at ~4.4\" (~582 au). Contours at the 7 sigma level. Epoch = Jan-Jul 2024 campaign (2023.1.01100.S), exact dates not tabulated (flagged)."
+  },
+  {
+   "image_id": "2mass-j16120668-3010270_magaox-cont-2025",
+   "type": "planet",
+   "facility": "Magellan-MagAO-X",
+   "instrument": "MagAO-X (continuum, ASDI)",
+   "wavelength_um": 0.668,
+   "wavelength_label": "continuum 0.668 um (ASDI reference band)",
+   "technique": "SDI/ASDI",
+   "content": "continuum",
+   "survey": null,
+   "file": "images/2mass-j16120668-3010270/2mass-j16120668-3010270_magaox-cont-2025.png",
+   "credit": "Li et al. 2025, Fig. 1 (Apr 16 2025 continuum panel, crop)",
+   "paper": {
+    "first_author": "Li",
+    "year": 2025,
+    "title": "Discovery of H-alpha Emission from a Protoplanet Candidate Around the Young Star 2MASS J16120668-3010270 with MagAO-X",
+    "journal": "ApJL 990, L70",
+    "arxiv": "2508.11155",
+    "bibcode": "2025ApJ...990L..70L"
+   },
+   "epoch": "2025-04-16",
+   "note": "MagAO-X 0.668 um continuum image for the 2025-04-16 epoch, used as the ASDI reference band for the H-alpha detection; the protoplanet candidate (dashed circle) is not detected in continuum. Same figure and epoch as the H-alpha record 2mass-j16120668-3010270_magaox2025."
   }
  ],
  "notes": "AGE-PRO Upper Scorpius 1. Transition disk with large inner dust cavity and ring at 78 au; ALMA residuals show a spiral arm and a tentative protoplanet candidate inside the cavity (Sierra et al. 2024; Vioque et al. 2025). SPHERE H-band imaging shows spirals, gap, and outer ring interpreted as evidence of planet-disk interaction (Ginski et al. 2025).",
- "last_updated": "2026-09-11"
+ "last_updated": "2026-09-15"
 }
