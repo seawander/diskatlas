@@ -27,12 +27,22 @@
    },
    "extra_papers": [
     {
+     "label": "refuted as disc-obscured M-type star",
      "first_author": "Haffert",
      "year": 2020,
      "title": "CS Cha B: A disc-obscured M-type star mimicking a polarised planetary companion",
      "journal": "A&A 640, L12",
      "arxiv": "2007.07831",
      "bibcode": "2020A&A...640L..12H"
+    },
+    {
+     "label": "unrelated CS Cha c candidate (not recovered)",
+     "first_author": "Follette",
+     "year": 2023,
+     "title": "The Giant Accreting Protoplanet Survey (GAPlanetS) - Results from a Six Year Campaign to Image Accreting Protoplanets",
+     "journal": "AJ 165, 225",
+     "arxiv": "2211.02109",
+     "bibcode": "2023AJ....165..225F"
     }
    ]
   }

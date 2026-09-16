@@ -28,7 +28,18 @@
     "arxiv": "1611.06231",
     "bibcode": "2016A&A...596A..92K",
     "journal": "A&A 596, A92"
-   }
+   },
+   "extra_papers": [
+    {
+     "label": "near-IR companion (SPHERE/ZIMPOL)",
+     "first_author": "Kervella",
+     "year": 2015,
+     "title": "The dust disk and companion of the nearby AGB star L2 Puppis. SPHERE/ZIMPOL polarimetric imaging at 1.65 um",
+     "journal": "A&A 578, A77",
+     "arxiv": "1511.04448",
+     "bibcode": "2015A&A...578A..77K"
+    }
+   ]
   }
  ],
  "images": [

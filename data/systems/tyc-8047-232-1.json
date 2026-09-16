@@ -36,7 +36,16 @@
     "journal": "A&A 712, A189",
     "arxiv": "2603.24796",
     "bibcode": "2026A&A...712A.189L"
-   }
+   },
+   "extra_papers": [
+    {
+     "label": "follow-up astrometry/orbit of host companion B (SaNDi-SHoP II)",
+     "first_author": "Bernardi",
+     "year": 2026,
+     "arxiv": "2607.13545",
+     "bibcode": "2026A&A...712A.190B"
+    }
+   ]
   }
  ],
  "images": [

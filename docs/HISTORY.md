@@ -1309,3 +1309,14 @@ J + IRDIS K1; MWC 758 L′ 2016 epoch; XEST 13-010/17-036 IRAC [3.6]/[4.5]/[5.8]
 [8.0] residuals. Excluded with reason: the ZIMPOL AGB catalogue (2608.02410)
 publishes only one representative filter per star (no additional panels).
 Atlas: 970 systems / 4666 records / 845 papers, 0 errors.
+
+## 2026-09-15 (5) — Companion-disposition citation audit
+
+Audited all 30 systems with candidate / disputed / refuted / dust-cloud
+companions (planets[]) for the MWC 758 b pattern: a disposition stated without
+citations. Checked every note's cited studies against the planet's
+`extra_papers`. Filled the genuine gaps with ADS-verified arXiv + bibcode:
+CS Cha B (Follette 2023), L2 Pup B (Kervella 2015), MWC 758 c (Wagner 2024),
+alpha Cen A C1 (Beichman 2025), TYC 8047-232-1 Bb (Bernardi 2026), and added a
+label to CS Cha B's Haffert 2020 entry. All other planets already cited their
+studies (or the study is the planet's own `paper`). validate 0/0.

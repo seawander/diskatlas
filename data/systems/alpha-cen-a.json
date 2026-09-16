@@ -36,7 +36,16 @@
     "journal": "Nature Communications 12, 922",
     "arxiv": "2102.05159",
     "bibcode": "2021NatCo..12..922W"
-   }
+   },
+   "extra_papers": [
+    {
+     "label": "possible JWST/MIRI counterpart of C1 (S1)",
+     "first_author": "Beichman",
+     "year": 2025,
+     "arxiv": "2508.03814",
+     "bibcode": "2025ApJ...989L..22B"
+    }
+   ]
   }
  ],
  "images": [
