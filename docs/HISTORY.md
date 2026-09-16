@@ -1326,4 +1326,6 @@ studies (or the study is the planet's own `paper`). validate 0/0.
 The 2M1207 MIRI record (Patapis et al. 2025, Fig. 2) was a single crop of the
 imaging row's 4 panels. Split into one record per panel: F1000W science +
 F1000W PSF-subtracted residual (companion 2M1207 b, S/N 21) and F1500W science +
-F1500W residual (S/N 44). validate 0/0.
+F1500W residual (S/N 44). Also added the six distinct-wavelength MIRI/MRS
+residual frames from the same figure (1A 4.90-5.74, 1B 5.66-6.63, 1C 6.53-7.65,
+2A 7.51-8.77, 2B 8.67-10.13, 2C 10.01-11.70 um; 2C is an upper limit). validate 0/0.

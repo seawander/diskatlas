@@ -157,6 +157,138 @@
    "file": "images/2m1207/2m1207_miri-f1500w-resid.png",
    "epoch": "2023-02-07",
    "content": "continuum"
+  },
+  {
+   "image_id": "2m1207_miri-mrs1a",
+   "type": "planet",
+   "facility": "JWST",
+   "instrument": "MIRI MRS",
+   "wavelength_um": 5.32,
+   "wavelength_label": "MRS 1A 4.90-5.74 um PSF-subtracted residual (2M1207 b, S/N 15.7)",
+   "technique": "other",
+   "survey": null,
+   "credit": "Patapis et al. 2025, Fig. 2 (1A 4.90-5.74 um residual, crop)",
+   "paper": {
+    "first_author": "Patapis",
+    "year": 2025,
+    "title": "JWST/MIRI observations of the young TWA 27 system: hydrocarbon disk chemistry, silicate clouds, evidence for a CPD",
+    "journal": "A&A 704, A5",
+    "arxiv": "2507.08961",
+    "bibcode": "2025A&A...704A...5P"
+   },
+   "file": "images/2m1207/2m1207_miri-mrs1a.png",
+   "epoch": "2023-02-07",
+   "content": "continuum"
+  },
+  {
+   "image_id": "2m1207_miri-mrs1b",
+   "type": "planet",
+   "facility": "JWST",
+   "instrument": "MIRI MRS",
+   "wavelength_um": 6.15,
+   "wavelength_label": "MRS 1B 5.66-6.63 um PSF-subtracted residual (2M1207 b, S/N 12.1)",
+   "technique": "other",
+   "survey": null,
+   "credit": "Patapis et al. 2025, Fig. 2 (1B 5.66-6.63 um residual, crop)",
+   "paper": {
+    "first_author": "Patapis",
+    "year": 2025,
+    "title": "JWST/MIRI observations of the young TWA 27 system: hydrocarbon disk chemistry, silicate clouds, evidence for a CPD",
+    "journal": "A&A 704, A5",
+    "arxiv": "2507.08961",
+    "bibcode": "2025A&A...704A...5P"
+   },
+   "file": "images/2m1207/2m1207_miri-mrs1b.png",
+   "epoch": "2023-02-07",
+   "content": "continuum"
+  },
+  {
+   "image_id": "2m1207_miri-mrs1c",
+   "type": "planet",
+   "facility": "JWST",
+   "instrument": "MIRI MRS",
+   "wavelength_um": 7.09,
+   "wavelength_label": "MRS 1C 6.53-7.65 um PSF-subtracted residual (2M1207 b, S/N 18.8)",
+   "technique": "other",
+   "survey": null,
+   "credit": "Patapis et al. 2025, Fig. 2 (1C 6.53-7.65 um residual, crop)",
+   "paper": {
+    "first_author": "Patapis",
+    "year": 2025,
+    "title": "JWST/MIRI observations of the young TWA 27 system: hydrocarbon disk chemistry, silicate clouds, evidence for a CPD",
+    "journal": "A&A 704, A5",
+    "arxiv": "2507.08961",
+    "bibcode": "2025A&A...704A...5P"
+   },
+   "file": "images/2m1207/2m1207_miri-mrs1c.png",
+   "epoch": "2023-02-07",
+   "content": "continuum"
+  },
+  {
+   "image_id": "2m1207_miri-mrs2a",
+   "type": "planet",
+   "facility": "JWST",
+   "instrument": "MIRI MRS",
+   "wavelength_um": 8.14,
+   "wavelength_label": "MRS 2A 7.51-8.77 um PSF-subtracted residual (2M1207 b, S/N 8.8)",
+   "technique": "other",
+   "survey": null,
+   "credit": "Patapis et al. 2025, Fig. 2 (2A 7.51-8.77 um residual, crop)",
+   "paper": {
+    "first_author": "Patapis",
+    "year": 2025,
+    "title": "JWST/MIRI observations of the young TWA 27 system: hydrocarbon disk chemistry, silicate clouds, evidence for a CPD",
+    "journal": "A&A 704, A5",
+    "arxiv": "2507.08961",
+    "bibcode": "2025A&A...704A...5P"
+   },
+   "file": "images/2m1207/2m1207_miri-mrs2a.png",
+   "epoch": "2023-02-07",
+   "content": "continuum"
+  },
+  {
+   "image_id": "2m1207_miri-mrs2b",
+   "type": "planet",
+   "facility": "JWST",
+   "instrument": "MIRI MRS",
+   "wavelength_um": 9.4,
+   "wavelength_label": "MRS 2B 8.67-10.13 um PSF-subtracted residual (2M1207 b, S/N 6.3)",
+   "technique": "other",
+   "survey": null,
+   "credit": "Patapis et al. 2025, Fig. 2 (2B 8.67-10.13 um residual, crop)",
+   "paper": {
+    "first_author": "Patapis",
+    "year": 2025,
+    "title": "JWST/MIRI observations of the young TWA 27 system: hydrocarbon disk chemistry, silicate clouds, evidence for a CPD",
+    "journal": "A&A 704, A5",
+    "arxiv": "2507.08961",
+    "bibcode": "2025A&A...704A...5P"
+   },
+   "file": "images/2m1207/2m1207_miri-mrs2b.png",
+   "epoch": "2023-02-07",
+   "content": "continuum"
+  },
+  {
+   "image_id": "2m1207_miri-mrs2c",
+   "type": "planet",
+   "facility": "JWST",
+   "instrument": "MIRI MRS",
+   "wavelength_um": 10.86,
+   "wavelength_label": "MRS 2C 10.01-11.70 um PSF-subtracted residual (2M1207 b, upper limit)",
+   "technique": "other",
+   "survey": null,
+   "credit": "Patapis et al. 2025, Fig. 2 (2C 10.01-11.70 um residual, crop)",
+   "paper": {
+    "first_author": "Patapis",
+    "year": 2025,
+    "title": "JWST/MIRI observations of the young TWA 27 system: hydrocarbon disk chemistry, silicate clouds, evidence for a CPD",
+    "journal": "A&A 704, A5",
+    "arxiv": "2507.08961",
+    "bibcode": "2025A&A...704A...5P"
+   },
+   "file": "images/2m1207/2m1207_miri-mrs2c.png",
+   "epoch": "2023-02-07",
+   "content": "continuum"
   }
  ],
  "notes": null,
