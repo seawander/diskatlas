@@ -172,28 +172,6 @@
    "content": "continuum"
   },
   {
-   "image_id": "hd-92945_jwst-nircam",
-   "type": "disk_scattered",
-   "facility": "JWST",
-   "instrument": "NIRCam",
-   "wavelength_um": 2.0,
-   "wavelength_label": "JWST/NIRCam F200W+F444W coronagraphy; asymmetric disk with ~80 au gap",
-   "technique": "coronagraphy",
-   "survey": null,
-   "file": "images/hd-92945/hd-92945_jwst-nircam.png",
-   "credit": "Lazzoni et al. 2025, Fig. 1 (crop)",
-   "paper": {
-    "first_author": "Lazzoni",
-    "year": 2025,
-    "title": "JWST/NIRCam observations of HD 92945 debris disk: An asymmetric disk with a gap",
-    "journal": "A&A (2025, accepted)",
-    "arxiv": "2511.07561",
-    "bibcode": "2025A&A...704A.176L"
-   },
-   "epoch": "2024-05-20",
-   "content": "continuum"
-  },
-  {
    "image_id": "hd-92945_pacs-160um-sons",
    "type": "disk_mm",
    "facility": "Herschel",
@@ -260,10 +238,32 @@
    },
    "file": "images/hd-92945/hd-92945_scuba2-850um-sons.png",
    "epoch": "2012-2015"
+  },
+  {
+   "image_id": "hd-92945_jwst-nircam-f200w",
+   "type": "disk_scattered",
+   "facility": "JWST",
+   "instrument": "NIRCam",
+   "wavelength_um": 2.0,
+   "wavelength_label": "F200W (2.0 um; JWST/NIRCam RDI vs HD 92921); asymmetric disk with ~80 au gap",
+   "technique": "RDI",
+   "survey": null,
+   "file": "images/hd-92945/hd-92945_jwst-nircam-f200w.png",
+   "credit": "Lazzoni et al. 2025, Fig. 1 right (F200W, crop)",
+   "paper": {
+    "first_author": "Lazzoni",
+    "year": 2025,
+    "title": "JWST/NIRCam observations of HD 92945 debris disk: An asymmetric disk with a gap",
+    "journal": "A&A (2025, accepted)",
+    "arxiv": "2511.07561",
+    "bibcode": "2025A&A...704A.176L"
+   },
+   "epoch": "2024-05-20",
+   "content": "continuum"
   }
  ],
  "notes": null,
- "last_updated": "2026-07-14",
+ "last_updated": "2026-10-01",
  "plx_mas": 46.4931,
  "mags": {
   "U": 9.144,

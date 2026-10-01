@@ -71,28 +71,6 @@
    "content": "continuum"
   },
   {
-   "image_id": "gq-lup_miri-mrs2024",
-   "type": "planet",
-   "facility": "JWST",
-   "instrument": "MIRI MRS",
-   "wavelength_um": 6.1,
-   "wavelength_label": "5.66-7.65 micron (MRS bands 1B/1C)",
-   "technique": "RDI",
-   "survey": null,
-   "credit": "Cugno et al. 2024, Fig. 1 (crop)",
-   "paper": {
-    "first_author": "Cugno",
-    "year": 2024,
-    "title": "Mid-Infrared Spectrum of the Disk around the Forming Companion GQ Lup B Revealed by JWST/MIRI",
-    "journal": "ApJL",
-    "arxiv": "2404.07086",
-    "bibcode": "2024ApJ...966L..21C"
-   },
-   "file": "images/gq-lup/gq-lup_miri-mrs2024.png",
-   "epoch": "2023-08-13",
-   "content": "continuum"
-  },
-  {
    "image_id": "gq-lup_alma2017",
    "type": "disk_mm",
    "facility": "ALMA",
@@ -377,10 +355,142 @@
     "bibcode": "2026A&A...712A.189L"
    },
    "note": "Final ADI-processed image; large panel full FOV, inset 30x30 px zoom on subtracted companion and residuals; two bkg sources marked green"
+  },
+  {
+   "image_id": "gq-lup_miri-mrs1a",
+   "type": "planet",
+   "facility": "JWST",
+   "instrument": "MIRI MRS",
+   "wavelength_um": 5.32,
+   "wavelength_label": "MRS band 1A 4.90-5.74 um PSF-subtracted residual (GQ Lup b, S/N 19.8)",
+   "technique": "RDI",
+   "survey": null,
+   "credit": "Cugno et al. 2024, Fig. 1 (1A residual, crop)",
+   "paper": {
+    "first_author": "Cugno",
+    "year": 2024,
+    "title": "Mid-Infrared Spectrum of the Disk around the Forming Companion GQ Lup B Revealed by JWST/MIRI",
+    "journal": "ApJL",
+    "arxiv": "2404.07086",
+    "bibcode": "2024ApJ...966L..21C"
+   },
+   "file": "images/gq-lup/gq-lup_miri-mrs1a.png",
+   "epoch": "2023-08-13",
+   "content": "continuum"
+  },
+  {
+   "image_id": "gq-lup_miri-mrs1b",
+   "type": "planet",
+   "facility": "JWST",
+   "instrument": "MIRI MRS",
+   "wavelength_um": 6.15,
+   "wavelength_label": "MRS band 1B 5.66-6.63 um PSF-subtracted residual (GQ Lup b, S/N 28.5)",
+   "technique": "RDI",
+   "survey": null,
+   "credit": "Cugno et al. 2024, Fig. 1 (1B residual, crop)",
+   "paper": {
+    "first_author": "Cugno",
+    "year": 2024,
+    "title": "Mid-Infrared Spectrum of the Disk around the Forming Companion GQ Lup B Revealed by JWST/MIRI",
+    "journal": "ApJL",
+    "arxiv": "2404.07086",
+    "bibcode": "2024ApJ...966L..21C"
+   },
+   "file": "images/gq-lup/gq-lup_miri-mrs1b.png",
+   "epoch": "2023-08-13",
+   "content": "continuum"
+  },
+  {
+   "image_id": "gq-lup_miri-mrs1c",
+   "type": "planet",
+   "facility": "JWST",
+   "instrument": "MIRI MRS",
+   "wavelength_um": 7.09,
+   "wavelength_label": "MRS band 1C 6.53-7.65 um PSF-subtracted residual (GQ Lup b, S/N 18.4)",
+   "technique": "RDI",
+   "survey": null,
+   "credit": "Cugno et al. 2024, Fig. 1 (1C residual, crop)",
+   "paper": {
+    "first_author": "Cugno",
+    "year": 2024,
+    "title": "Mid-Infrared Spectrum of the Disk around the Forming Companion GQ Lup B Revealed by JWST/MIRI",
+    "journal": "ApJL",
+    "arxiv": "2404.07086",
+    "bibcode": "2024ApJ...966L..21C"
+   },
+   "file": "images/gq-lup/gq-lup_miri-mrs1c.png",
+   "epoch": "2023-08-13",
+   "content": "continuum"
+  },
+  {
+   "image_id": "gq-lup_miri-mrs2a",
+   "type": "planet",
+   "facility": "JWST",
+   "instrument": "MIRI MRS",
+   "wavelength_um": 8.14,
+   "wavelength_label": "MRS band 2A 7.51-8.77 um PSF-subtracted residual (GQ Lup b, S/N 14.3)",
+   "technique": "RDI",
+   "survey": null,
+   "credit": "Cugno et al. 2024, Fig. 1 (2A residual, crop)",
+   "paper": {
+    "first_author": "Cugno",
+    "year": 2024,
+    "title": "Mid-Infrared Spectrum of the Disk around the Forming Companion GQ Lup B Revealed by JWST/MIRI",
+    "journal": "ApJL",
+    "arxiv": "2404.07086",
+    "bibcode": "2024ApJ...966L..21C"
+   },
+   "file": "images/gq-lup/gq-lup_miri-mrs2a.png",
+   "epoch": "2023-08-13",
+   "content": "continuum"
+  },
+  {
+   "image_id": "gq-lup_miri-mrs2b",
+   "type": "planet",
+   "facility": "JWST",
+   "instrument": "MIRI MRS",
+   "wavelength_um": 9.4,
+   "wavelength_label": "MRS band 2B 8.67-10.13 um PSF-subtracted residual (GQ Lup b, S/N 26.3)",
+   "technique": "RDI",
+   "survey": null,
+   "credit": "Cugno et al. 2024, Fig. 1 (2B residual, crop)",
+   "paper": {
+    "first_author": "Cugno",
+    "year": 2024,
+    "title": "Mid-Infrared Spectrum of the Disk around the Forming Companion GQ Lup B Revealed by JWST/MIRI",
+    "journal": "ApJL",
+    "arxiv": "2404.07086",
+    "bibcode": "2024ApJ...966L..21C"
+   },
+   "file": "images/gq-lup/gq-lup_miri-mrs2b.png",
+   "epoch": "2023-08-13",
+   "content": "continuum"
+  },
+  {
+   "image_id": "gq-lup_miri-mrs2c",
+   "type": "planet",
+   "facility": "JWST",
+   "instrument": "MIRI MRS",
+   "wavelength_um": 10.86,
+   "wavelength_label": "MRS band 2C 10.01-11.69 um PSF-subtracted residual (GQ Lup b, S/N 18.7)",
+   "technique": "RDI",
+   "survey": null,
+   "credit": "Cugno et al. 2024, Fig. 1 (2C residual, crop)",
+   "paper": {
+    "first_author": "Cugno",
+    "year": 2024,
+    "title": "Mid-Infrared Spectrum of the Disk around the Forming Companion GQ Lup B Revealed by JWST/MIRI",
+    "journal": "ApJL",
+    "arxiv": "2404.07086",
+    "bibcode": "2024ApJ...966L..21C"
+   },
+   "file": "images/gq-lup/gq-lup_miri-mrs2c.png",
+   "epoch": "2023-08-13",
+   "content": "continuum"
   }
  ],
  "notes": null,
- "last_updated": "2026-09-15",
+ "last_updated": "2026-10-01",
  "plx_mas": 6.4893,
  "mags": {
   "U": 12.19,

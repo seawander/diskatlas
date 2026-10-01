@@ -740,28 +740,6 @@
    "content": "continuum"
   },
   {
-   "image_id": "beta-pic_planetd-jwst2026",
-   "type": "planet",
-   "facility": "JWST",
-   "instrument": "NIRSpec IFU + MIRI MRS",
-   "wavelength_um": 4.6,
-   "wavelength_label": "S/N maps: NIRSpec G395H NRS1 (2.86-4.10um), NRS2 (4.08-5.28um), MIRI MRS ch1B (5.66-6.63um); independent confirmation of planet d",
-   "technique": "other",
-   "survey": null,
-   "credit": "Gibbs et al. 2026, Fig. 1 (crop: 3-panel S/N map, NIRSpec NRS1/NRS2 + MIRI MRS 1B)",
-   "paper": {
-    "first_author": "Gibbs",
-    "year": 2026,
-    "title": "Discovery of an Exterior Third Planet Orbiting $β$ Pictoris",
-    "journal": "arXiv e-print",
-    "arxiv": "2606.23789",
-    "bibcode": "2026ApJ..1006L..11G"
-   },
-   "file": "images/beta-pic/beta-pic_planetd-jwst2026.png",
-   "epoch": "2022-2024",
-   "content": "continuum"
-  },
-  {
    "image_id": "beta-pic_magao-clio2015",
    "type": "planet",
    "facility": "Magellan-MagAO",

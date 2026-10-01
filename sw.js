@@ -24,7 +24,7 @@ var VERSION = 'diskatlas-v2';
 /* SHELL carries a dated suffix so a freshly-built frontend/data.js is picked up
  * immediately after a data release (bump the date when content changes); IMGS is
  * left on VERSION so the immutable image cache is preserved across data bumps. */
-var SHELL = VERSION + '-shell-20260915';
+var SHELL = VERSION + '-shell-20261001';
 var IMGS = VERSION + '-img';
 
 var SHELL_ASSETS = [

@@ -123,28 +123,6 @@
    "content": "continuum"
   },
   {
-   "image_id": "gg-tau_nicmos2002",
-   "type": "disk_scattered",
-   "facility": "HST",
-   "instrument": "NICMOS",
-   "wavelength_um": 1.1,
-   "wavelength_label": "near-IR (scattered light, F110W/F160W/F205W)",
-   "technique": "ADI",
-   "survey": null,
-   "credit": "McCabe et al. 2002, Fig. 1 (crop)",
-   "paper": {
-    "first_author": "McCabe",
-    "year": 2002,
-    "title": "NICMOS Images of the GG Tau Circumbinary Disk",
-    "journal": "ApJ 575, 974",
-    "arxiv": "astro-ph/0204465",
-    "bibcode": "2002ApJ...575..974M"
-   },
-   "file": "images/gg-tau/gg-tau_nicmos2002.png",
-   "epoch": "1997-10-11",
-   "content": "continuum"
-  },
-  {
    "image_id": "gg-tau_acs2005_v",
    "type": "disk_scattered",
    "facility": "HST",
@@ -545,10 +523,76 @@
     "bibcode": "2020A&A...635A..12P"
    },
    "epoch": "2013-11-18"
+  },
+  {
+   "image_id": "gg-tau_nicmos2002-f110w",
+   "type": "disk_scattered",
+   "facility": "HST",
+   "instrument": "NICMOS NIC1",
+   "wavelength_um": 1.1,
+   "wavelength_label": "F110W 1.1 um (NICMOS; circumbinary ring after binary PSF subtraction)",
+   "technique": "PSF subtraction",
+   "survey": null,
+   "credit": "McCabe et al. 2002, Fig. 1 (F110W panel, crop)",
+   "paper": {
+    "first_author": "McCabe",
+    "year": 2002,
+    "title": "NICMOS Images of the GG Tau Circumbinary Disk",
+    "journal": "ApJ 575, 974",
+    "arxiv": "astro-ph/0204465",
+    "bibcode": "2002ApJ...575..974M"
+   },
+   "file": "images/gg-tau/gg-tau_nicmos2002-f110w.png",
+   "epoch": "1997-10-10",
+   "content": "continuum"
+  },
+  {
+   "image_id": "gg-tau_nicmos2002-f160w",
+   "type": "disk_scattered",
+   "facility": "HST",
+   "instrument": "NICMOS NIC1",
+   "wavelength_um": 1.6,
+   "wavelength_label": "F160W 1.6 um (NICMOS; circumbinary ring after binary PSF subtraction)",
+   "technique": "PSF subtraction",
+   "survey": null,
+   "credit": "McCabe et al. 2002, Fig. 1 (F160W panel, crop)",
+   "paper": {
+    "first_author": "McCabe",
+    "year": 2002,
+    "title": "NICMOS Images of the GG Tau Circumbinary Disk",
+    "journal": "ApJ 575, 974",
+    "arxiv": "astro-ph/0204465",
+    "bibcode": "2002ApJ...575..974M"
+   },
+   "file": "images/gg-tau/gg-tau_nicmos2002-f160w.png",
+   "epoch": "1997-10-10",
+   "content": "continuum"
+  },
+  {
+   "image_id": "gg-tau_nicmos2002-f205w",
+   "type": "disk_scattered",
+   "facility": "HST",
+   "instrument": "NICMOS NIC2",
+   "wavelength_um": 2.05,
+   "wavelength_label": "F205W 2.05 um (NICMOS/NIC2, out of focus; circumbinary ring after binary PSF subtraction)",
+   "technique": "PSF subtraction",
+   "survey": null,
+   "credit": "McCabe et al. 2002, Fig. 1 (F205W panel, crop)",
+   "paper": {
+    "first_author": "McCabe",
+    "year": 2002,
+    "title": "NICMOS Images of the GG Tau Circumbinary Disk",
+    "journal": "ApJ 575, 974",
+    "arxiv": "astro-ph/0204465",
+    "bibcode": "2002ApJ...575..974M"
+   },
+   "file": "images/gg-tau/gg-tau_nicmos2002-f205w.png",
+   "epoch": "1997-10-10",
+   "content": "continuum"
   }
  ],
  "notes": null,
- "last_updated": "2026-09-15",
+ "last_updated": "2026-10-01",
  "plx_mas": 8.5914,
  "mags": {
   "U": 14.84,

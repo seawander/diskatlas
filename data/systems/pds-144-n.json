@@ -60,28 +60,6 @@
    "content": "continuum"
   },
   {
-   "image_id": "pds-144-n_acsstis2011",
-   "type": "disk_scattered",
-   "facility": "HST",
-   "instrument": "ACS/STIS",
-   "wavelength_um": 0.6,
-   "wavelength_label": "visible scattered light (ACS+STIS, edge-on)",
-   "technique": "coronagraphy",
-   "survey": null,
-   "credit": "Hornbeck et al. 2012 (crop)",
-   "paper": {
-    "first_author": "Hornbeck",
-    "year": 2012,
-    "title": "PDS 144: The First Confirmed Herbig Ae - Herbig Ae Wide Binary",
-    "journal": "ApJ 744, 54",
-    "arxiv": "1201.0173",
-    "bibcode": "2012ApJ...744...54H"
-   },
-   "file": "images/pds-144-n/pds-144-n_acsstis2011.png",
-   "epoch": "2010-2011",
-   "content": "continuum"
-  },
-  {
    "image_id": "pds-144-n_nicmos-go11155-1um",
    "type": "disk_scattered",
    "facility": "HST",
@@ -148,8 +126,96 @@
    "file": "images/pds-144-n/pds-144-n_12co32-mom1.png",
    "epoch": "2023-06-07",
    "content": "line"
+  },
+  {
+   "image_id": "pds-144-n_acs-f555w",
+   "type": "disk_scattered",
+   "facility": "HST",
+   "instrument": "ACS/WFC",
+   "wavelength_um": 0.53,
+   "wavelength_label": "ACS/WFC F555W 0.53 um optical image (MJD 53836)",
+   "technique": "imaging",
+   "survey": null,
+   "credit": "Hornbeck et al. 2012, Fig. 3 (F555W stamp, crop)",
+   "paper": {
+    "first_author": "Hornbeck",
+    "year": 2012,
+    "title": "PDS 144: The First Confirmed Herbig Ae - Herbig Ae Wide Binary",
+    "journal": "ApJ 744, 54",
+    "arxiv": "1201.0173",
+    "bibcode": "2012ApJ...744...54H"
+   },
+   "file": "images/pds-144-n/pds-144-n_acs-f555w.png",
+   "epoch": "2006-04-11",
+   "content": "continuum"
+  },
+  {
+   "image_id": "pds-144-n_acs-f606w",
+   "type": "disk_scattered",
+   "facility": "HST",
+   "instrument": "ACS/WFC",
+   "wavelength_um": 0.59,
+   "wavelength_label": "ACS/WFC F606W 0.59 um optical image (MJD 55258)",
+   "technique": "imaging",
+   "survey": null,
+   "credit": "Hornbeck et al. 2012, Fig. 3 (F606W stamp, crop)",
+   "paper": {
+    "first_author": "Hornbeck",
+    "year": 2012,
+    "title": "PDS 144: The First Confirmed Herbig Ae - Herbig Ae Wide Binary",
+    "journal": "ApJ 744, 54",
+    "arxiv": "1201.0173",
+    "bibcode": "2012ApJ...744...54H"
+   },
+   "file": "images/pds-144-n/pds-144-n_acs-f606w.png",
+   "epoch": "2010-03-03",
+   "content": "continuum"
+  },
+  {
+   "image_id": "pds-144-n_stis-oiii-mjd55281",
+   "type": "disk_scattered",
+   "facility": "HST",
+   "instrument": "STIS",
+   "wavelength_um": 0.5007,
+   "wavelength_label": "STIS [O III] 0.5007 um nebular emission image (MJD 55281)",
+   "technique": "imaging",
+   "survey": null,
+   "credit": "Hornbeck et al. 2012, Fig. 3 (STIS [O III] stamp, MJD 55281, crop)",
+   "paper": {
+    "first_author": "Hornbeck",
+    "year": 2012,
+    "title": "PDS 144: The First Confirmed Herbig Ae - Herbig Ae Wide Binary",
+    "journal": "ApJ 744, 54",
+    "arxiv": "1201.0173",
+    "bibcode": "2012ApJ...744...54H"
+   },
+   "file": "images/pds-144-n/pds-144-n_stis-oiii-mjd55281.png",
+   "epoch": "2010-03-26",
+   "content": "continuum"
+  },
+  {
+   "image_id": "pds-144-n_stis-oiii-mjd55661",
+   "type": "disk_scattered",
+   "facility": "HST",
+   "instrument": "STIS",
+   "wavelength_um": 0.5007,
+   "wavelength_label": "STIS [O III] 0.5007 um nebular emission image (MJD 55661)",
+   "technique": "imaging",
+   "survey": null,
+   "credit": "Hornbeck et al. 2012, Fig. 3 (STIS [O III] stamp, MJD 55661, crop)",
+   "paper": {
+    "first_author": "Hornbeck",
+    "year": 2012,
+    "title": "PDS 144: The First Confirmed Herbig Ae - Herbig Ae Wide Binary",
+    "journal": "ApJ 744, 54",
+    "arxiv": "1201.0173",
+    "bibcode": "2012ApJ...744...54H"
+   },
+   "file": "images/pds-144-n/pds-144-n_stis-oiii-mjd55661.png",
+   "epoch": "2011-04-10",
+   "content": "continuum"
   }
  ],
  "notes": "Added 2026-07-06 (Martinien+2026 ALMA highly-inclined disk). Coords pending SIMBAD. Coords set from literature (PDS 144 N Herbig Ae); SIMBAD 'PDS 144 N' did not resolve.",
- "last_updated": "2026-07-14"
+ "last_updated": "2026-10-01"
 }

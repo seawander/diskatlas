@@ -1373,3 +1373,30 @@ Maintainer ruling on arXiv:2507.08961 Fig. 2: the bottom row is a 1x4 strip
 PNGs; the PSF-subtracted residual panels (S/N 21 and S/N 44) remain, as do the six
 MRS channel residuals. Atlas: 970 systems / 4674 image records / 849 papers,
 0 errors / 0 warnings.
+
+## 2026-10-01 — Aspect-ratio audit: multi-wavelength strips split
+
+Audited every deployed crop whose aspect ratio exceeded 1.6:1 (202 records),
+flagging the 53 with internal white gutters (candidate multi-panel strips) and
+having every one of them visually inspected. 48 were legitimately elongated
+(1-D channel maps, spectra, radial profiles, edge-on strips). Five records
+actually spanned more than one wavelength and were fixed:
+
+- **GQ Lup** (Cugno+2024 Fig. 1, 2x4 MRS grid): one record covering bands
+  1B+1C -> **six** records, one per distinct MRS band (1A 4.90-5.74, 1B
+  5.66-6.63, 1C 6.53-7.65, 2A 7.51-8.77, 2B 8.67-10.13, 2C 10.01-11.69 um),
+  PSF-subtracted residuals with their printed S/Ns.
+- **GG Tau** (McCabe+2002 Fig. 1, 1x3): F110W+F160W+F205W -> three NICMOS
+  records (NIC1/NIC2 noted; epoch corrected to 1997-10-10, the date printed in
+  the paper's Observations section).
+- **PDS 144 N** (Hornbeck+2012 Fig. 3, 1x4): ACS F555W + ACS F606W + two STIS
+  [O III] epochs -> four records with MJDs converted to dates.
+- **HD 92945** (Lazzoni+2025 Fig. 1): merged F200W+F444W strip -> F200W-only
+  record (F444W already had its own record); crop re-cut panel-only and
+  requantized.
+- **beta Pic** (Gibbs+2026 Fig. 1): the merged 3-panel strip was a leftover
+  duplicate of the three existing per-panel records -> record and file removed.
+
+Same-band multi-panel groups (HR 8799 b/c pairs, GRAVITY delta-theta shadow
+pairs, Stokes triplets, KL=3/5, multiple ALMA tapers) were left as-is: they are
+one band with several reductions, not band mixing. validate 0/0.
