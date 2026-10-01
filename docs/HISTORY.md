@@ -1330,7 +1330,7 @@ F1500W residual (S/N 44). Also added the six distinct-wavelength MIRI/MRS
 residual frames from the same figure (1A 4.90-5.74, 1B 5.66-6.63, 1C 6.53-7.65,
 2A 7.51-8.77, 2B 8.67-10.13, 2C 10.01-11.70 um; 2C is an upper limit). validate 0/0.
 
-## 2026-10-01 — Weekly digest (7 hits: 2 ingested / 5 excluded)
+## 2026-10-01 — Weekly digest (7 hits: 3 ingested / 4 excluded)
 
 Ran `fresh_papers.py --days 7` over 313 astro-ph.EP/SR submissions (2026-09-24 → 10-01).
 
@@ -1354,3 +1354,12 @@ all CMDs/plots), 2609.35966 (SIFARI methods paper: synthetic benchmarks plus CLE
 reconstructions of PDS 70 and WISPIT 2 Band 6 data already in the atlas).
 
 Atlas after this batch: 970 systems / 4673 image records / 848 papers, 0 errors / 0 warnings.
+
+**Also ingested (same digest): 2609.30111** — Avsar et al., *Deep HST/STIS Coronagraphic Imaging
+of the beta Pictoris Debris Disk: On the Scattered Light Component of the Cat's Tail*. Six epochs
+(2012-2025, GO-12551/16174/16788/17456/17741) median-combined into one deep PSF-subtracted STIS
+image that detects the disk out to ~500 au for the first time with STIS (SNR > 100 between 50 and
+200 au), plus the Cat's Tail scattered-light component and the co-add SNR map. +3 records. The
+paper publishes no standalone single-epoch panels, so the new 2024/2025 epochs enter through the
+co-added records and nothing duplicates the existing per-epoch Avsar 2024 entries.
+Atlas: 970 systems / 4676 image records / 849 papers, 0 errors / 0 warnings.

@@ -1470,10 +1470,76 @@
    },
    "epoch": "2012-12-04",
    "note": "MagAO/Clio2 M' (4.69 um central wavelength) final PSF-subtracted residual panel (right column of Fig. 1) revealing beta Pic b at the lower-right; observed UT 2012 December 4. This is the M' counterpart of the atlas [3.3] record beta-pic_magao-clio2015."
+  },
+  {
+   "image_id": "beta-pic_stis-2012-2025-coadd-avsar26",
+   "file": "images/beta-pic/beta-pic_stis-2012-2025-coadd-avsar26.png",
+   "type": "disk_scattered",
+   "facility": "HST",
+   "instrument": "STIS",
+   "wavelength_um": 0.58,
+   "wavelength_label": "STIS coronagraphy (optical clear; 2012+2021+2023+2024+2025 epochs co-added); deep co-added disk image, first detection of the disk out to 500 au",
+   "technique": "coronagraphy + PSF subtraction",
+   "content": "continuum",
+   "epoch": "2012-2025",
+   "credit": "Avsar et al. 2026, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Avsar",
+    "year": 2026,
+    "title": "Deep HST/STIS Coronagraphic Imaging of the beta Pictoris Debris Disk: On the Scattered Light Component of the Cat's Tail",
+    "journal": "arXiv e-prints",
+    "arxiv": "2609.30111",
+    "bibcode": "2026arXiv260930111A"
+   },
+   "note": "Median-combined PSF-subtracted HST/STIS 50CORON image of the beta Pic disk from six epochs spanning 2012-2025 (max summed exposure ~10^4 s), logarithmic stretch; the disk is detected to a projected separation of ~500 au for the first time with STIS (SNR>100 between 50 and 200 au). S1 (background star at ~400 au) is circled; the white arrow marks the low-SNR feature below the NE midplane that may be the scattered light component of the MIRI extended secondary disk."
+  },
+  {
+   "image_id": "beta-pic_stis-cats-tail-avsar26",
+   "file": "images/beta-pic/beta-pic_stis-cats-tail-avsar26.png",
+   "type": "disk_scattered",
+   "facility": "HST",
+   "instrument": "STIS",
+   "wavelength_um": 0.58,
+   "wavelength_label": "STIS coronagraphy (optical clear; 2012+2021+2023+2024+2025 epochs co-added); halo-subtracted, unsharp-masked, Gaussian-smoothed image revealing the Cat's Tail scattered-light component",
+   "technique": "coronagraphy + PSF subtraction",
+   "content": "continuum",
+   "epoch": "2012-2025",
+   "credit": "Avsar et al. 2026, Fig. 2 left (crop)",
+   "paper": {
+    "first_author": "Avsar",
+    "year": 2026,
+    "title": "Deep HST/STIS Coronagraphic Imaging of the beta Pictoris Debris Disk: On the Scattered Light Component of the Cat's Tail",
+    "journal": "arXiv e-prints",
+    "arxiv": "2609.30111",
+    "bibcode": "2026arXiv260930111A"
+   },
+   "note": "Zoomed STIS image (125-320 au projected separation, 20-110 au above the midplane) of the Cat's Tail substructure discovered with JWST/MIRI F1550C, after NE-halo subtraction, unsharp masking and Gaussian smoothing (sigma=3); first detection of the visible/near-infrared scattered light component of the Cat's Tail at SNR ~5-10, matching the MIRI morphology to ~230 au. Panel is the STIS half of the left/right comparison with MIRI."
+  },
+  {
+   "image_id": "beta-pic_stis-coadd-snr-avsar26",
+   "file": "images/beta-pic/beta-pic_stis-coadd-snr-avsar26.png",
+   "type": "disk_scattered",
+   "facility": "HST",
+   "instrument": "STIS",
+   "wavelength_um": 0.58,
+   "wavelength_label": "STIS coronagraphy (optical clear; 2012+2021+2023+2024+2025 epochs co-added); SNR map of the deep combined image",
+   "technique": "coronagraphy + PSF subtraction",
+   "content": "continuum",
+   "epoch": "2012-2025",
+   "credit": "Avsar et al. 2026, Fig. A1 right (crop)",
+   "paper": {
+    "first_author": "Avsar",
+    "year": 2026,
+    "title": "Deep HST/STIS Coronagraphic Imaging of the beta Pictoris Debris Disk: On the Scattered Light Component of the Cat's Tail",
+    "journal": "arXiv e-prints",
+    "arxiv": "2609.30111",
+    "bibcode": "2026arXiv260930111A"
+   },
+   "note": "SNR map (log scale, 1 to >100) of the median-combined 2012-2025 STIS image of the beta Pic disk; SNR exceeds 100 between 50 and 200 au projected separation, peaks above 400 near 100 au, and stays above ~10 in the outer disk where the disk is traced to ~500 au. Right panel of Fig. A1 (the companion left panel is the number-of-images-per-pixel map)."
   }
  ],
  "notes": "Original 1984 discovery image (Smith & Terrile, Las Campanas coronagraph) predates arXiv; add if desired.",
- "last_updated": "2026-09-15",
+ "last_updated": "2026-10-01",
  "plx_mas": 50.9307,
  "mags": {
   "U": 4.13,
