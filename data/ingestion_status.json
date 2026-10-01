@@ -1,6 +1,6 @@
 {
  "_doc": "Per-survey ingestion state. entries/coords/images: done|partial|todo. Update on every ingest.",
- "updated": "2026-10-01 weekly digest (7 hits: 3 ingested / 4 excluded). Ingested 2609.34523 (Tsukagoshi et al., TW Hya ALMA Band 6 ~1 au continuum + 13CO moment-8, +5), 2609.16324 (Hillenbrand et al., RNAAS: Keck/MOSFIRE K-band FU Ori N/S images, +2) and 2609.30111 (Avsar et al., beta Pic deep HST/STIS six-epoch co-add + Cat's Tail, +3). Excluded 2609.31080 (AKARI spectroscopy), 2609.31362 (red-supergiant envelopes, not disks), 2609.30551 (unresolved AGB photometry), 2609.35966 (SIFARI methods benchmarks on already-cited Band 6 data). Atlas 970 systems / 4676 records / 849 papers, 0 errors / 0 warnings.",
+ "updated": "2026-10-01 weekly digest (7 hits: 3 ingested / 4 excluded). Ingested 2609.34523 (Tsukagoshi et al., TW Hya ALMA Band 6 ~1 au continuum + 13CO moment-8, +5), 2609.16324 (Hillenbrand et al., RNAAS: Keck/MOSFIRE K-band FU Ori N/S images, +2) and 2609.30111 (Avsar et al., beta Pic deep HST/STIS six-epoch co-add + Cat's Tail, +3). Excluded 2609.31080 (AKARI spectroscopy), 2609.31362 (red-supergiant envelopes, not disks), 2609.30551 (unresolved AGB photometry), 2609.35966 (SIFARI methods benchmarks on already-cited Band 6 data). Atlas 970 systems / 4676 records / 849 papers, Then trimmed the 2M1207/Patapis 2025 Fig. 2 bottom row per maintainer ruling: kept only the 2nd and 4th panels (F1000W and F1500W PSF-subtracted residuals), dropped the two science frames. 0 errors / 0 warnings.",
  "surveys": {
   "DSHARP": {
    "entries": "done",

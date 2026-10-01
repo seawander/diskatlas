@@ -1363,3 +1363,13 @@ image that detects the disk out to ~500 au for the first time with STIS (SNR > 1
 paper publishes no standalone single-epoch panels, so the new 2024/2025 epochs enter through the
 co-added records and nothing duplicates the existing per-epoch Avsar 2024 entries.
 Atlas: 970 systems / 4676 image records / 849 papers, 0 errors / 0 warnings.
+
+## 2026-10-01 — 2M1207 (Patapis 2025) Fig. 2 bottom row trimmed to the residual panels
+
+Maintainer ruling on arXiv:2507.08961 Fig. 2: the bottom row is a 1x4 strip
+(F1000W science | F1000W residual | F1500W science | F1500W residual), and only the
+**2nd and 4th** panels are kept. The two science-frame records
+(`2m1207_miri-f1000w`, `2m1207_miri-f1500w`) were therefore removed together with their
+PNGs; the PSF-subtracted residual panels (S/N 21 and S/N 44) remain, as do the six
+MRS channel residuals. Atlas: 970 systems / 4674 image records / 849 papers,
+0 errors / 0 warnings.
