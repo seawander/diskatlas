@@ -791,10 +791,120 @@
     "bibcode": "2021A&A...648A..92P"
    },
    "epoch": "2019-12-16"
+  },
+  {
+   "image_id": "tw-hya_alma-tsukagoshi26-lb2021",
+   "file": "images/tw-hya/tw-hya_alma-tsukagoshi26-lb2021.png",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 6",
+   "wavelength_um": 1300,
+   "wavelength_label": "1.3 mm dust continuum (~0.2\" / 1 au resolution; full disk, 2021 long-baseline C-10 data only, extended emission spatially filtered)",
+   "technique": "interferometry",
+   "content": "continuum",
+   "epoch": "2021",
+   "credit": "Tsukagoshi et al. 2026, Fig. 1 left (crop)",
+   "paper": {
+    "first_author": "Tsukagoshi",
+    "year": 2026,
+    "title": "Resolved Structure and Orbital Motion of a Localized 1 au-scale Dust Accumulation in the Protoplanetary Disk around TW Hya",
+    "journal": "PASJ (accepted)",
+    "arxiv": "2609.34523",
+    "bibcode": "2026arXiv260934523T"
+   },
+   "note": "Band 6 (1.3 mm) continuum of the full TW Hya disk reconstructed from the 2021 long-baseline (C-10, project 2018.1.01173.S) data only, beam 22.0x19.9 mas (~1.3x1.2 au at 60 pc), rms 5.3 uJy/beam; the compact inner disk (r<1 au), the innermost gap, the 25 au gap and the ring/gap structure are resolved, while ~32% of the flux density is spatially filtered out (371 mJy recovered vs 544 mJy in the combined map). The beam circle is drawn at the bottom-left corner of the panel."
+  },
+  {
+   "image_id": "tw-hya_alma-tsukagoshi26-combined",
+   "file": "images/tw-hya/tw-hya_alma-tsukagoshi26-combined.png",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 6",
+   "wavelength_um": 1300,
+   "wavelength_label": "1.3 mm dust continuum (~0.2\" resolution; full disk, 2021 long baselines + archival 2017 short baselines concatenated)",
+   "technique": "interferometry",
+   "content": "continuum",
+   "epoch": "2017-2021",
+   "credit": "Tsukagoshi et al. 2026, Fig. 1 right (crop)",
+   "paper": {
+    "first_author": "Tsukagoshi",
+    "year": 2026,
+    "title": "Resolved Structure and Orbital Motion of a Localized 1 au-scale Dust Accumulation in the Protoplanetary Disk around TW Hya",
+    "journal": "PASJ (accepted)",
+    "arxiv": "2609.34523",
+    "bibcode": "2026arXiv260934523T"
+   },
+   "note": "Same Band 6 (1.3 mm) 1 au-resolution continuum map after concatenating the 2021 C-10 long-baseline data with archival short-baseline Band 6 data (project 2016.1.00842.S, Cycle 4, C40-7, observed 2017), which restores the smooth extended disk emission; beam 21.5x19.7 mas, rms 5.8 uJy/beam, total flux density 544 mJy. Epoch spans two observing epochs (2017 archival short baselines + 2021 long baselines)."
+  },
+  {
+   "image_id": "tw-hya_alma-tsukagoshi26-blob",
+   "file": "images/tw-hya/tw-hya_alma-tsukagoshi26-blob.png",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 6",
+   "wavelength_um": 1300,
+   "wavelength_label": "1.3 mm dust continuum (~0.2\" / 1 au resolution; zoom on the 52 au dust blob, 2021 map with 2017 contours overlaid)",
+   "technique": "interferometry",
+   "content": "continuum",
+   "epoch": "2017-2021",
+   "credit": "Tsukagoshi et al. 2026, Fig. 3 (crop)",
+   "paper": {
+    "first_author": "Tsukagoshi",
+    "year": 2026,
+    "title": "Resolved Structure and Orbital Motion of a Localized 1 au-scale Dust Accumulation in the Protoplanetary Disk around TW Hya",
+    "journal": "PASJ (accepted)",
+    "arxiv": "2609.34523",
+    "bibcode": "2026arXiv260934523T"
+   },
+   "note": "Close-up of the compact dust blob at ~52 au in the south-east of the TW Hya disk: color scale is the 2021 long-baseline continuum map (double-peaked, two components separated by ~0.028\" = 1.7 au), white contours are the archival 2017 C40-7 map (Tsukagoshi et al. 2019, 5-sigma steps, 1 sigma = 9.1 uJy/beam). The offset between the two epochs (44 +/- 12 mas to the south-east, 2.7 +/- 0.7 au) measures the blob's proper motion, 3.3 +/- 0.9 km/s, consistent with local Keplerian rotation. Filled circle at lower left = 1.3 mm beam. Epoch spans both epochs since both are displayed."
+  },
+  {
+   "image_id": "tw-hya_alma-tsukagoshi26-priism17",
+   "file": "images/tw-hya/tw-hya_alma-tsukagoshi26-priism17.png",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 6",
+   "wavelength_um": 1300,
+   "wavelength_label": "1.3 mm dust continuum (~0.2\" / 1 au resolution; zoom on the 52 au blob in the 2017 archival data, PRIISM reconstruction, with 2021 contours overlaid)",
+   "technique": "interferometry",
+   "content": "continuum",
+   "epoch": "2017-2021",
+   "credit": "Tsukagoshi et al. 2026, Fig. 6 (crop)",
+   "paper": {
+    "first_author": "Tsukagoshi",
+    "year": 2026,
+    "title": "Resolved Structure and Orbital Motion of a Localized 1 au-scale Dust Accumulation in the Protoplanetary Disk around TW Hya",
+    "journal": "PASJ (accepted)",
+    "arxiv": "2609.34523",
+    "bibcode": "2026arXiv260934523T"
+   },
+   "note": "Higher-resolution PRIISM (sparse-modeling) reconstruction of the residual 2017 archival C40-7 continuum visibilities (project 2016.1.00842.S) after subtracting the axisymmetric disk; color map, white contours = original 2017 CLEAN image, green contours = the 2021 map rotated by 2.93 deg to match the 2017 position angle (9, 10, 11 sigma). The independent 2017 dataset also resolves the 52 au blob into two peaks, validating the double-peaked morphology as real rather than an imaging artifact. Filled circle at lower left = 2017 CLEAN beam. Epoch spans both epochs since both are displayed."
+  },
+  {
+   "image_id": "tw-hya_13co-tsukagoshi26",
+   "file": "images/tw-hya/tw-hya_13co-tsukagoshi26.png",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 6",
+   "wavelength_um": 1300,
+   "wavelength_label": "13CO J=2-1 peak-intensity (moment 8) map at ~0.13\" resolution, with Band 6 1.3 mm continuum contours overlaid; combined 2021 long + archival short baselines",
+   "technique": "interferometry",
+   "content": "line",
+   "epoch": "2017-2021",
+   "credit": "Tsukagoshi et al. 2026, Fig. 5 left (crop)",
+   "paper": {
+    "first_author": "Tsukagoshi",
+    "year": 2026,
+    "title": "Resolved Structure and Orbital Motion of a Localized 1 au-scale Dust Accumulation in the Protoplanetary Disk around TW Hya",
+    "journal": "PASJ (accepted)",
+    "arxiv": "2609.34523",
+    "bibcode": "2026arXiv260934523T"
+   },
+   "note": "Peak-intensity (moment 8) map of 13CO J=2-1 emission over the full TW Hya gas disk, made from the combined short- and long-baseline data; color = 13CO peak intensity, gray contours = 10 and 50 sigma of the Band 6 1.3 mm continuum map from the longest baselines only (1 sigma = 5.3 uJy/beam). Extended gas with no compact counterpart at the 52 au dust blob. Yellow ellipse = 13CO beam (0.13\"x0.12\"), gray ellipse inside = continuum beam. Epoch spans both epochs (archival short baselines 2016-2017 + 2021 long baselines) since both datasets are combined in this map."
   }
  ],
  "notes": null,
- "last_updated": "2026-09-15",
+ "last_updated": "2026-10-01",
  "plx_mas": 16.6289,
  "mags": {
   "B": 11.94,

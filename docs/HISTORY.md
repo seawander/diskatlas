@@ -1329,3 +1329,28 @@ F1000W PSF-subtracted residual (companion 2M1207 b, S/N 21) and F1500W science +
 F1500W residual (S/N 44). Also added the six distinct-wavelength MIRI/MRS
 residual frames from the same figure (1A 4.90-5.74, 1B 5.66-6.63, 1C 6.53-7.65,
 2A 7.51-8.77, 2B 8.67-10.13, 2C 10.01-11.70 um; 2C is an upper limit). validate 0/0.
+
+## 2026-10-01 — Weekly digest (7 hits: 2 ingested / 5 excluded)
+
+Ran `fresh_papers.py --days 7` over 313 astro-ph.EP/SR submissions (2026-09-24 → 10-01).
+
+**Ingested**
+- **2609.34523** — Tsukagoshi et al., *Resolved Structure and Orbital Motion of a Localized
+  1 au-scale Dust Accumulation in the Protoplanetary Disk around TW Hya* (accepted, PASJ).
+  ALMA Band 6 (~1.3 mm) at ~0.2" (~1 au): the 2021 long-baseline full disk, the map combined
+  with archival short baselines, the 52 au dust blob resolved double-peaked with 2017 contours
+  (proper motion over four years), a PRIISM reconstruction of the 2017 archival zoom, and a
+  13CO J=2-1 peak-intensity (moment 8) map. +5 records; epochs 2021 / 2017-2021 taken from the
+  paper's observing log and cross-checked in the ALMA archive. Distinct from the existing
+  2014-2015 Band 7 and 2015 Band 6 records. Radial profile, R-Azimuth polar map and channel maps
+  rejected.
+- **2609.16324** — Hillenbrand et al., *The Post-outburst Spectrum of L1415-IRS* (RNAAS 10, 266).
+  Spectroscopy paper, but Fig. 1 top-right publishes Keck-I/MOSFIRE K-band sky images of FU Ori N
+  and S (2022-11-11, 0.7" seeing, both unresolved). +2 records; spectra/light curve rejected.
+
+**Excluded** — 2609.31080 (AKARI spectroscopy, no sky images), 2609.31362 (ALMA molecular
+envelopes of 28 red supergiants — envelopes, not disks), 2609.30551 (unresolved AGB populations,
+all CMDs/plots), 2609.35966 (SIFARI methods paper: synthetic benchmarks plus CLEAN-vs-network
+reconstructions of PDS 70 and WISPIT 2 Band 6 data already in the atlas).
+
+Atlas after this batch: 970 systems / 4673 image records / 848 papers, 0 errors / 0 warnings.

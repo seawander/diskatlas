@@ -60685,5 +60685,41 @@
   "reason": "JWST ice spectroscopy / NIRSpec catalogue; no 2-D sky-image panel.",
   "date": "2026-09-14",
   "title": "Probing the Ubiquity of Complex Ices in Protostars with JWST: The First Systematic Quantification of Weak Ice Bands between 6.8 and 7.9 μm"
+ },
+ "2609.34523": {
+  "status": "ingested",
+  "date": "2026-10-01",
+  "title": "Resolved Structure and Orbital Motion of a Localized 1 au-scale Dust Accumulation in the Protoplanetary Disk around TW Hya",
+  "reason": "Tsukagoshi et al. 2026 ALMA Band 6 (1.3 mm) ~1 au continuum of TW Hya: 5 records (2021 long-baseline full disk, combined long+short baselines, 52 au blob zoom with 2017 contours, PRIISM reconstruction of the 2017 archival zoom, 13CO J=2-1 moment-8 map). Epochs 2021 / 2017-2021 from project 2018.1.01173.S + archival 2016.1.00842.S."
+ },
+ "2609.16324": {
+  "status": "ingested",
+  "date": "2026-10-01",
+  "title": "The Post-outburst Spectrum of L1415-IRS",
+  "reason": "Hillenbrand et al. 2026 (RNAAS 10, 266): mainly spectroscopy, but Fig. 1 top-right holds Keck-I/MOSFIRE K-band sky images of FU Ori N and S (2022-11-11, 0.7\" seeing, unresolved) - 2 records. Spectra/lightcurve panels excluded."
+ },
+ "2609.31080": {
+  "status": "excluded",
+  "date": "2026-10-01",
+  "title": "AKARI near-infrared spectroscopy of circumstellar hydrocarbon dust associated with young stellar objects",
+  "reason": "Pure AKARI 2.6-4.4 um spectroscopy of 10 YSOs (incl. HD 97048, Elias 1); all floats are spectral fits / 1D offset cuts - no 2D sky-image panels."
+ },
+ "2609.31362": {
+  "status": "excluded",
+  "date": "2026-10-01",
+  "title": "The Molecular Circumstellar Environments of Red Supergiants in Galactic Open Clusters",
+  "reason": "ALMA CO/SiO/continuum of 28 red supergiants in RSGC1/RSGC2 - circumstellar molecular envelopes, not disks/companions/quasar hosts (out of scope); figures are moment-0 maps of ~1\" wind shells, radial profiles and SED/model fits."
+ },
+ "2609.30551": {
+  "status": "excluded",
+  "date": "2026-10-01",
+  "title": "Breaking the AGB Color Degeneracy with Variability and H2O",
+  "reason": "Unresolved AGB populations (LMC/M101) with SPHEREx spectroscopy + JWST/NIRCam photometry; all 23 floats are CMDs, color-color diagrams, histograms, 1D spectra or flowcharts - no sky image of any target."
+ },
+ "2609.35966": {
+  "status": "excluded",
+  "date": "2026-10-01",
+  "title": "SIFARI: Self-Supervised Interferometric Fitting for Astronomical Radio Imaging",
+  "reason": "Methods/benchmark paper. Synthetic-model figures plus side-by-side CLEAN vs SIFARI reconstructions of real PDS 70 (Fig. 6) and WISPIT 2 (Fig. 7) Band 6 data whose datasets are already in the atlas (Rampinelli 2024, Liu 2026, van der Marel 2026); no new observation, panels are method-comparison grids with SNR maps."
  }
 }

@@ -1,6 +1,6 @@
 {
  "_doc": "Per-survey ingestion state. entries/coords/images: done|partial|todo. Update on every ingest.",
- "updated": "2026-09-15 (4): Pruned 9 marginal derived-product records added by the band-audit waves - detection-significance/SNR maps (af-lep IRDIS K12 S/N; HD 169142 z' PCA S/N; HD 95086 IFS-H; GQ Lup MRS 1A/2A/2B/2C) and contour-only panels (HV Tau C NIRC2 Ms; HV Tau C PdBI 1.3mm). Kept imaged non-detections and PSF-subtracted/ADI/KLIP detection images (both in scope). Atlas: 970 systems / 4657 records / 845 papers, 0 errors.",
+ "updated": "2026-10-01 weekly digest (7 hits: 2 ingested / 5 excluded). Ingested 2609.34523 (Tsukagoshi et al., TW Hya ALMA Band 6 ~1 au continuum + 13CO moment-8, +5) and 2609.16324 (Hillenbrand et al., RNAAS: Keck/MOSFIRE K-band FU Ori N/S images, +2). Excluded 2609.31080 (AKARI spectroscopy), 2609.31362 (RSG envelopes), 2609.30551 (AGB photometry), 2609.35966 (SIFARI methods benchmarks). 2609.30111 (Avsar beta Pic STIS) in progress. 0 errors / 0 warnings.",
  "surveys": {
   "DSHARP": {
    "entries": "done",

@@ -250,10 +250,54 @@
    "file": "images/fu-ori/fu-ori_12co21-mom1.png",
    "epoch": "2018",
    "content": "line"
+  },
+  {
+   "image_id": "fu-ori_mosfire-k-2022-n",
+   "file": "images/fu-ori/fu-ori_mosfire-k-2022-n.png",
+   "type": "planet",
+   "facility": "Keck",
+   "instrument": "MOSFIRE",
+   "wavelength_um": 2.2,
+   "wavelength_label": "K band 2.2 um (MOSFIRE; FU Ori N, unresolved PSF)",
+   "technique": "near-IR imaging",
+   "content": "continuum",
+   "epoch": "2022-11-11",
+   "credit": "Hillenbrand et al. 2026, Fig. 1 (top right, crop)",
+   "paper": {
+    "first_author": "Hillenbrand",
+    "year": 2026,
+    "title": "The Post-outburst Spectrum of L1415-IRS",
+    "journal": "RNAAS, 10, 266",
+    "arxiv": "2609.16324",
+    "bibcode": "2026RNAAS..10..266H"
+   },
+   "note": "Keck-I/MOSFIRE K-band (1.95-2.4 um) sky image of the FU Ori N component (L1415-IRS = IRAS 04376+5413), A-B-B-A dithered, 480 s total integration, 0.7\" seeing; each component is unresolved at this resolution. First spectroscopy of this deeply embedded source; the N component is the fainter of the pair."
+  },
+  {
+   "image_id": "fu-ori_mosfire-k-2022-s",
+   "file": "images/fu-ori/fu-ori_mosfire-k-2022-s.png",
+   "type": "planet",
+   "facility": "Keck",
+   "instrument": "MOSFIRE",
+   "wavelength_um": 2.2,
+   "wavelength_label": "K band 2.2 um (MOSFIRE; FU Ori S, unresolved PSF)",
+   "technique": "near-IR imaging",
+   "content": "continuum",
+   "epoch": "2022-11-11",
+   "credit": "Hillenbrand et al. 2026, Fig. 1 (top right, crop)",
+   "paper": {
+    "first_author": "Hillenbrand",
+    "year": 2026,
+    "title": "The Post-outburst Spectrum of L1415-IRS",
+    "journal": "RNAAS, 10, 266",
+    "arxiv": "2609.16324",
+    "bibcode": "2026RNAAS..10..266H"
+   },
+   "note": "Keck-I/MOSFIRE K-band (1.95-2.4 um) sky image of the FU Ori S component (L1415-IRS = IRAS 04376+5413), A-B-B-A dithered, 480 s total integration, 0.7\" seeing; each component is unresolved at this resolution. First spectroscopy of this deeply embedded source; the S component is the fainter of the pair."
   }
  ],
  "notes": null,
- "last_updated": "2026-07-14",
+ "last_updated": "2026-10-01",
  "plx_mas": 2.4538,
  "mags": {
   "B": 10.72,
