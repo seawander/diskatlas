@@ -61,10 +61,32 @@
    },
    "file": "images/oph-irs37/oph-irs37_odisea-f5.png",
    "epoch": "2017-07"
+  },
+  {
+   "image_id": "oph-irs37_sma300",
+   "file": "images/oph-irs37/oph-irs37_sma300.png",
+   "type": "disk_mm",
+   "facility": "SMA",
+   "instrument": "SMA",
+   "wavelength_um": 1000,
+   "wavelength_label": "1.0 mm continuum (SMA 286-298 GHz high LSB; 8\"-wide square continuum image centred on the disk peak, 3-sigma-stepped white contours)",
+   "technique": "interferometry",
+   "content": "continuum",
+   "epoch": "2022-2023",
+   "credit": "Chung et al. 2026, Fig. 6 (Appendix A, crop)",
+   "paper": {
+    "first_author": "Chung",
+    "year": 2026,
+    "title": "The 200-300 GHz Survey for 18 Class II Disks in the Ophiuchus Star-Forming Complex",
+    "journal": "arXiv e-prints",
+    "arxiv": "2610.02619",
+    "bibcode": "2026arXiv261002619C"
+   },
+   "note": "IRS 37 (YLW 12A; J16271757-2428562, 139 pc, M4): the faintest target here - compact, barely resolved (essentially unresolved at ~1\"), peak roughly 19 mJy; F_294GHz = 18.7 +/- 2.1 mJy (Table 4); R_95% disk = 0.099\" (quoted from Dasgupta et al. 2025 in Table 1). The 1.92\" companion was not detected in the SMA observations and IRS 37 was fitted as an isolated source with overlapping primary beams against IRS 41. Image covers the 8\"-wide square field centred on the source peak, contours from 3 sigma in 3-sigma steps, hatched ellipse = synthesized beam. The 286-298 GHz data come from the SMA 270 GHz tracks 270GHz-2a (2022-05-23, EXT config) and 270GHz-1 (2023-08-29, COM config), concatenated to a 0.8\"-1.2\" FWHM beam; the paper does not state per-target track assignments."
   }
  ],
  "notes": "Embedded protostar imaged in 1.3 mm full-polarization continuum in the ALMA Ophiuchus polarization survey (Sadavoy et al. 2019).",
- "last_updated": "2026-07-12",
+ "last_updated": "2026-10-06",
  "plx_mas": null,
  "mags": {
   "J": 19.78,

@@ -1,7 +1,10 @@
 {
  "id": "sr-21",
  "name": "SR 21",
- "alt_names": [],
+ "alt_names": [
+  "YLW 8",
+  "Elias 2-30"
+ ],
  "simbad": "EM* SR 21",
  "ra_deg": 246.7927917,
  "dec_deg": -24.3201944,
@@ -368,8 +371,30 @@
    },
    "epoch": "2018-03-01",
    "note": "Second panel of Fig. 1: J-band polarized intensity (Qphi) without coronagraph. Same SPHERE run as the H-band record sr-21_sphere2020 (2018-03-01)."
+  },
+  {
+   "image_id": "sr-21_sma300",
+   "file": "images/sr-21/sr-21_sma300.png",
+   "type": "disk_mm",
+   "facility": "SMA",
+   "instrument": "SMA",
+   "wavelength_um": 1000,
+   "wavelength_label": "1.0 mm continuum (SMA 286-298 GHz high LSB; single compact peak, binary system - companion not detected)",
+   "technique": "interferometry",
+   "content": "continuum",
+   "epoch": "2022-2023",
+   "credit": "Chung et al. 2026, Fig. 6 (crop)",
+   "paper": {
+    "first_author": "Chung",
+    "year": 2026,
+    "title": "The 200-300 GHz Survey for 18 Class II Disks in the Ophiuchus Star-Forming Complex",
+    "journal": "arXiv e-prints",
+    "arxiv": "2610.02619",
+    "bibcode": "2026arXiv261002619C"
+   },
+   "note": "8''-wide square continuum cutout (286-294 GHz; SMA 302 GHz LO beam ~1.0'' FWHM). The image shows ONE centrally peaked, round, slightly extended source with a small central contour depression, peak ~174 mJy beam^-1 on the 0-196 mJy beam^-1 colour scale, visibility-fit F_294 GHz = 234.8 +/- 14.3 mJy (Table 5), i.e. R_95% = 0.59'' (~80 au at 136 pc; Table 1, quoted from Dasgupta et al. 2025), only marginally resolved at 1''. BINARY CAVEAT: YLW 8 (= SR 21 = Elias 2-30) is a G1 binary with a 6.4'' separation (Table 1, col. 8, from Ciezza et al. 2019); Sec. 3.4.3 states the SMA observations did NOT detect the companions of YLW 8 (nor of DoAr 16 or IRS 51), so this single peak traces the primary disk only and the 6.4'' companion position falls inside the 8'' field without a counterpart. YLW 8 is the only source in the survey with alpha_200-300 > 3, attributed to its large inner cavity (Yang et al. 2023). The 286-298 GHz data come from the SMA 270 GHz tracks 270GHz-2a (2022-05-23, EXT) and 270GHz-1 (2023-08-29, COM); YLW 8 was a self-calibration target but the paper does not assign tracks to individual targets."
   }
  ],
  "notes": "AUTO-CREATED from staging - fill metadata & coords",
- "last_updated": "2026-09-15"
+ "last_updated": "2026-10-06"
 }

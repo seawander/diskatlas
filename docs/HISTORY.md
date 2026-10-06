@@ -1400,3 +1400,21 @@ actually spanned more than one wavelength and were fixed:
 Same-band multi-panel groups (HR 8799 b/c pairs, GRAVITY delta-theta shadow
 pairs, Stokes triplets, KL=3/5, multiple ALMA tapers) were left as-is: they are
 one band with several reductions, not band mixing. validate 0/0.
+
+## 2026-10-06 — Weekly digest (1 hit, ingested): Chung et al. SMA Ophiuchus survey
+
+`fresh_papers.py --days 7` over 104 astro-ph.EP/SR submissions (2026-09-29 → 10-06) returned a
+single hit: **2610.02619** (Chung, Chia-Ying et al.), *The 200-300 GHz Survey for 18 Class II
+Disks in the Ophiuchus Star-Forming Complex* (SMA). Fig. 6 (Appendix A) publishes one
+8"-square, self-calibrated 286-294 GHz continuum image per target — 17 panels, all in scope.
++17 records (1.0 mm, `epoch` 2022-2023 = SMA 270 GHz tracks 270GHz-2a 2022-05-23 EXT and
+270GHz-1 2023-08-29 COM; the paper states no per-target track assignment). SEDs, spectral-index
+and radius scatter plots, and the dust-mass lower limits were rejected.
+
+Identity work mattered more than the cropping: only **DoAr 16 (= Haro 1-4)** was new. The other
+16 targets were already in the atlas under different names, confirmed by 0.0-0.3" positional
+matches against Table 1/2: AS 206 = SR 4, GSS 26 = ISO-Oph 17, VSSG 1 = Elias 20,
+WSB 31 = Elias 24, GSS 39 = Elias 27, YLW 8 = SR 21, IRS 41 = ISO-Oph 129, IRS 51 = YLW 45,
+WSB 60 = ISO-Oph 196, HBC 266 = SR 13. Those aliases were added to the systems, and every crop
+was re-keyed onto the correct system (`haro-1-4` created for DoAr 16, SIMBAD "Haro 1-4", K4e).
+Atlas: 971 systems / 4700 image records / 850 papers, 0 errors / 0 warnings.

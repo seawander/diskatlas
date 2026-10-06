@@ -1,0 +1,44 @@
+{
+ "id": "haro-1-4",
+ "name": "Haro 1-4",
+ "alt_names": [
+  "DoAr 16",
+  "J16251052-2319145"
+ ],
+ "simbad": "Haro 1-4",
+ "ra_deg": 246.2937839,
+ "dec_deg": -23.3207745,
+ "dist_pc": 135.0,
+ "sptype": "K4e",
+ "region": "Ophiuchus",
+ "categories": [
+  "protoplanetary"
+ ],
+ "notes": "DoAr 16 = Haro 1-4 (SIMBAD 'Haro 1-4', K4e; binary, 0.72 arcsec separation); 135 pc (Chung et al. 2026 Table 2); SMA 1 mm disk detected in the 200-300 GHz Ophiuchus survey",
+ "images": [
+  {
+   "image_id": "haro-1-4_sma300",
+   "file": "images/haro-1-4/haro-1-4_sma300.png",
+   "type": "disk_mm",
+   "facility": "SMA",
+   "instrument": "SMA",
+   "wavelength_um": 1000,
+   "wavelength_label": "1.0 mm continuum (SMA 286-298 GHz high LSB; 8\"-wide square continuum image centred on the disk peak, 3-sigma-stepped white contours)",
+   "technique": "interferometry",
+   "content": "continuum",
+   "epoch": "2022-2023",
+   "credit": "Chung et al. 2026, Fig. 6 (Appendix A, crop)",
+   "paper": {
+    "first_author": "Chung",
+    "year": 2026,
+    "title": "The 200-300 GHz Survey for 18 Class II Disks in the Ophiuchus Star-Forming Complex",
+    "journal": "arXiv e-prints",
+    "arxiv": "2610.02619",
+    "bibcode": "2026arXiv261002619C"
+   },
+   "note": "DoAr 16 (Haro 1-4; J16251052-2319145, 135 pc, K4, 0.72\" binary): compact to marginally resolved, essentially point-like at ~1\" resolution; F_294GHz = 37.4 +/- 2.4 mJy (Table 4); R_95% disk = 0.15\" (quoted from Dasgupta et al. 2025 in Table 1). The 0.72\" companion was not detected in the SMA observations and DoAr 16 was fitted as an isolated source. Image covers the 8\"-wide square field centred on the source peak, contours from 3 sigma in 3-sigma steps, hatched ellipse = synthesized beam. The 286-298 GHz data come from the SMA 270 GHz tracks 270GHz-2a (2022-05-23, EXT config) and 270GHz-1 (2023-08-29, COM config), concatenated to a 0.8\"-1.2\" FWHM beam; the paper does not state per-target track assignments."
+  }
+ ],
+ "planets": [],
+ "last_updated": "2026-10-06"
+}

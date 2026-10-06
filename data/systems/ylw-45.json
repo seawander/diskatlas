@@ -1,7 +1,9 @@
 {
  "id": "ylw-45",
  "name": "YLW 45",
- "alt_names": [],
+ "alt_names": [
+  "IRS 51"
+ ],
  "simbad": "YLW 45",
  "ra_deg": 246.915951,
  "dec_deg": -24.720852,
@@ -35,8 +37,30 @@
    },
    "file": "images/ylw-45/ylw-45_odisea_b6cont_binary.png",
    "epoch": "2017-07"
+  },
+  {
+   "image_id": "ylw-45_sma300",
+   "file": "images/ylw-45/ylw-45_sma300.png",
+   "type": "disk_mm",
+   "facility": "SMA",
+   "instrument": "SMA",
+   "wavelength_um": 1000,
+   "wavelength_label": "1.0 mm continuum (SMA 286-298 GHz high LSB; compact 1.0 mm disk emission from the gain-phase self-calibrated 286-294 GHz mfs image)",
+   "technique": "interferometry",
+   "content": "continuum",
+   "epoch": "2022-2023",
+   "credit": "Chung et al. 2026, Fig. 6 (crop)",
+   "paper": {
+    "first_author": "Chung",
+    "year": 2026,
+    "title": "The 200-300 GHz Survey for 18 Class II Disks in the Ophiuchus Star-Forming Complex",
+    "journal": "arXiv e-prints",
+    "arxiv": "2610.02619",
+    "bibcode": "2026arXiv261002619C"
+   },
+   "note": "Panel from the multi-source 286-294 GHz gallery (8''-wide square field of view centred on the emission peak). Bright, near-circular compact peak that is only marginally resolved at the ~1.0-1.2'' SMA beam scale. F(294 GHz) = 129.3 +/- 9.7 mJy, F(278 GHz) = 129.9 +/- 13.1 mJy (visibility-domain fits, Table 4). Table 1: R_95% = 0.17'' (~24 au at 139 pc), K6, group 2; the table lists a 1.65'' separation while marking multiplicity as single, and the paper states explicitly that the SMA observations did not detect the companion of IRS 51, so only the primary is imaged here. The 286-298 GHz high LSB data come from the SMA 270 GHz tracks 270 GHz-2a (2022-05-23, EXT) and 270 GHz-1 (2023-08-29, COM); the paper does not state which track contributes to which target."
   }
  ],
  "notes": "ODISEA C4 multiple system with resolved disk(s) in Fig. 5; 105A: resolved primary disk 191x136 mas, F=76.3 mJy; +unresolved companion B; absent from atlas",
- "last_updated": "2026-07-16"
+ "last_updated": "2026-10-06"
 }

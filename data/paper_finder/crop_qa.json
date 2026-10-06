@@ -84,15 +84,6 @@
   },
   {
    "system": "2m1207",
-   "image_id": "2m1207_miri-f1500w",
-   "file": "images/2m1207/2m1207_miri-f1500w.png",
-   "ar": 0.96,
-   "flags": [
-    "GUTTER_EDGE:L(white)"
-   ]
-  },
-  {
-   "system": "2m1207",
    "image_id": "2m1207_miri-mrs1b",
    "file": "images/2m1207/2m1207_miri-mrs1b.png",
    "ar": 0.96,
@@ -2047,15 +2038,6 @@
   },
   {
    "system": "gq-lup",
-   "image_id": "gq-lup_miri-mrs2024",
-   "file": "images/gq-lup/gq-lup_miri-mrs2024.png",
-   "ar": 2.03,
-   "flags": [
-    "GUTTER_EDGE:B(black)"
-   ]
-  },
-  {
-   "system": "gq-lup",
    "image_id": "gq-lup_jwst-miri_h2s7",
    "file": "images/gq-lup/gq-lup_jwst-miri_h2s7.png",
    "ar": 1.0,
@@ -3419,6 +3401,15 @@
    "image_id": "hd-71155_10p4um",
    "file": "images/hd-71155/hd-71155_10p4um.png",
    "ar": 1.02,
+   "flags": [
+    "GUTTER_EDGE:R(black)"
+   ]
+  },
+  {
+   "system": "hd-92945",
+   "image_id": "hd-92945_jwst-nircam-f200w",
+   "file": "images/hd-92945/hd-92945_jwst-nircam-f200w.png",
+   "ar": 1.06,
    "flags": [
     "GUTTER_EDGE:R(black)"
    ]
@@ -5919,7 +5910,7 @@
    ]
   }
  ],
- "n_ok": 4022,
- "n_total": 4676,
+ "n_ok": 4047,
+ "n_total": 4700,
  "missing": []
 }

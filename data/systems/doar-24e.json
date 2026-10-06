@@ -66,10 +66,32 @@
    },
    "file": "images/doar-24e/doar-24e_odisea-f5.png",
    "epoch": "2017-07"
+  },
+  {
+   "image_id": "doar-24e_sma300",
+   "file": "images/doar-24e/doar-24e_sma300.png",
+   "type": "disk_mm",
+   "facility": "SMA",
+   "instrument": "SMA",
+   "wavelength_um": 1000,
+   "wavelength_label": "1.0 mm continuum (SMA 286-298 GHz high LSB; two compact binary peaks, DoAr 24Ea and DoAr 24Eb)",
+   "technique": "interferometry",
+   "content": "continuum",
+   "epoch": "2022-2023",
+   "credit": "Chung et al. 2026, Fig. 6 (crop)",
+   "paper": {
+    "first_author": "Chung",
+    "year": 2026,
+    "title": "The 200-300 GHz Survey for 18 Class II Disks in the Ophiuchus Star-Forming Complex",
+    "journal": "arXiv e-prints",
+    "arxiv": "2610.02619",
+    "bibcode": "2026arXiv261002619C"
+   },
+   "note": "8''-wide square continuum cutout (286-294 GHz, mfs image of the 286-298 GHz high-sideband data of the 302 GHz IF; SMA 302 GHz LO synthesized beam ~1.0'' FWHM, Sec. 3.3). Shows the 2.06''-separated G6 binary DoAr 24E as two distinct compact peaks: the brighter DoAr 24Ea (upper right, peak ~36 mJy beam^-1 read off the 0-43 mJy beam^-1 colour scale) and fainter DoAr 24Eb (lower left); both are unresolved point-like blobs at this resolution (Table 1 gives R_95% = 0.098'' for Ea and 0.024'' for Eb, i.e. below the SMA beam, and Sec. 3.4.1 states both were fitted as point sources). Visibility-fit flux densities at 294 GHz: Ea 36.6 +/- 4.9 mJy, Eb 24.8 +/- 4.9 mJy (Table 5). At <=230 GHz the two components are confused on their 2.06'' separation. The 286-298 GHz data come from the SMA 270 GHz tracks 270GHz-2a (2022-05-23, EXT) and 270GHz-1 (2023-08-29, COM); the paper does not state which track covered which target."
   }
  ],
  "notes": "Binary in Ophiuchus: the optically visible primary DoAr 24 E and its infrared companion (DoAr 24E IRC) show roughly equal 880 um emission, both imaged in the pre-ALMA SMA survey (Andrews et al. 2010).",
- "last_updated": "2026-07-11",
+ "last_updated": "2026-10-06",
  "plx_mas": 7.1857,
  "mags": {
   "V": 14.7,

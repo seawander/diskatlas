@@ -60727,5 +60727,11 @@
   "date": "2026-10-01",
   "title": "Deep HST/STIS Coronagraphic Imaging of the beta Pictoris Debris Disk: On the Scattered Light Component of the Cat's Tail",
   "reason": "Avsar et al. 2026 deep HST/STIS coronagraphy of beta Pic, six epochs 2012-2025 combined: +3 records (deep co-added disk image, first STIS detection out to 500 au; Cat's Tail scattered-light component; co-add SNR map). No single-epoch panels in the paper, so the 2024/2025 epochs are represented via the co-adds; per-epoch 2012/2021/2023 records already in the atlas (Avsar 2024)."
+ },
+ "2610.02619": {
+  "status": "ingested",
+  "date": "2026-10-06",
+  "title": "The 200-300 GHz Survey for 18 Class II Disks in the Ophiuchus Star-Forming Complex",
+  "reason": "Chung et al. 2026 SMA 200-300 GHz survey of 18 Ophiuchus Class II disks: 17 per-source 286-294 GHz continuum image panels ingested (+17; only DoAr 16 = Haro 1-4 was new to the atlas, the other 16 targets already existed under other names - aliases added). SEDs, spectral-index and radius scatter plots excluded."
  }
 }

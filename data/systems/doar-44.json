@@ -211,10 +211,32 @@
    "file": "images/doar-44/doar-44_13co32-mom1.png",
    "epoch": "2014-06",
    "content": "line"
+  },
+  {
+   "image_id": "doar-44_sma300",
+   "file": "images/doar-44/doar-44_sma300.png",
+   "type": "disk_mm",
+   "facility": "SMA",
+   "instrument": "SMA",
+   "wavelength_um": 1000,
+   "wavelength_label": "1.0 mm continuum (SMA 286-298 GHz high LSB; compact, marginally resolved single peak)",
+   "technique": "interferometry",
+   "content": "continuum",
+   "epoch": "2022-2023",
+   "credit": "Chung et al. 2026, Fig. 6 (crop)",
+   "paper": {
+    "first_author": "Chung",
+    "year": 2026,
+    "title": "The 200-300 GHz Survey for 18 Class II Disks in the Ophiuchus Star-Forming Complex",
+    "journal": "arXiv e-prints",
+    "arxiv": "2610.02619",
+    "bibcode": "2026arXiv261002619C"
+   },
+   "note": "8''-wide square continuum cutout (286-294 GHz; SMA 302 GHz LO beam ~1.0'' FWHM). DoAr 44 is a single compact source, only marginally larger than the beam (Table 1 R_95% = 0.47'' at 146 pc), peak ~116 mJy beam^-1 on the 0-137 mJy beam^-1 colour scale, visibility-fit F_294 GHz = 158.6 +/- 10.8 mJy (Table 5). Two marginal 3-sigma noise contours lie near the source (NW and SE). The 286-298 GHz data come from the SMA 270 GHz tracks 270GHz-2a (2022-05-23, EXT) and 270GHz-1 (2023-08-29, COM); DoAr 44 was a self-calibration target but the paper does not assign tracks to individual targets."
   }
  ],
  "notes": null,
- "last_updated": "2026-07-14",
+ "last_updated": "2026-10-06",
  "plx_mas": 6.8343,
  "mags": {
   "B": 14.02,

@@ -35,8 +35,30 @@
    },
    "file": "images/ylw-47/ylw-47_odisea_b6cont.png",
    "epoch": "2017-07"
+  },
+  {
+   "image_id": "ylw-47_sma300",
+   "file": "images/ylw-47/ylw-47_sma300.png",
+   "type": "disk_mm",
+   "facility": "SMA",
+   "instrument": "SMA",
+   "wavelength_um": 1000,
+   "wavelength_label": "1.0 mm continuum (SMA 286-298 GHz high LSB; compact 1.0 mm disk emission from the gain-phase self-calibrated 286-294 GHz mfs image)",
+   "technique": "interferometry",
+   "content": "continuum",
+   "epoch": "2022-2023",
+   "credit": "Chung et al. 2026, Fig. 6 (crop)",
+   "paper": {
+    "first_author": "Chung",
+    "year": 2026,
+    "title": "The 200-300 GHz Survey for 18 Class II Disks in the Ophiuchus Star-Forming Complex",
+    "journal": "arXiv e-prints",
+    "arxiv": "2610.02619",
+    "bibcode": "2026arXiv261002619C"
+   },
+   "note": "Panel from the multi-source 286-294 GHz gallery (8''-wide square field of view centred on the emission peak). Compact, only marginally resolved peak at the ~1.0-1.2'' SMA beam scale. F(294 GHz) = 57.1 +/- 3.6 mJy, F(278 GHz) = 43.5 +/- 4.1 mJy (visibility-domain fits, Table 4). Table 1: R_95% = 0.13'' (~18 au at 140 pc), K5.5, single, group 3. This is a second, independent observation: the existing ylw-47 record in the atlas is the ALMA ODISEA Band 6 1.3 mm continuum image (Cieza et al. 2019, image_id ylw-47_odisea_b6cont, epoch 2017-07), so this SMA record is added alongside it and does not duplicate it. The 286-298 GHz high LSB data come from the SMA 270 GHz tracks 270 GHz-2a (2022-05-23, EXT) and 270 GHz-1 (2023-08-29, COM); the paper does not state which track contributes to which target."
   }
  ],
  "notes": "ODISEA C4 object 100: resolved 1.3 mm disk (deconvolved size in Cieza 2019 Table 3), F1.3mm=25.4 mJy; in Fig. 3 resolved-singles gallery but absent from atlas (coord+name cross-match)",
- "last_updated": "2026-07-16"
+ "last_updated": "2026-10-06"
 }

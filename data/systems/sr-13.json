@@ -2,7 +2,8 @@
  "id": "sr-13",
  "name": "SR 13",
  "alt_names": [
-  "EM* SR 13"
+  "EM* SR 13",
+  "HBC 266"
  ],
  "simbad": "EM* SR 13",
  "ra_deg": 247.18865340347,
@@ -91,8 +92,30 @@
    },
    "file": "images/sr-13/sr-13_odisea-f5.png",
    "epoch": "2017-07"
+  },
+  {
+   "image_id": "sr-13_sma300",
+   "file": "images/sr-13/sr-13_sma300.png",
+   "type": "disk_mm",
+   "facility": "SMA",
+   "instrument": "SMA",
+   "wavelength_um": 1000,
+   "wavelength_label": "1.0 mm continuum (SMA 286-298 GHz high LSB; 8\"-wide square continuum image centred on the disk peak, 3-sigma-stepped white contours)",
+   "technique": "interferometry",
+   "content": "continuum",
+   "epoch": "2022-2023",
+   "credit": "Chung et al. 2026, Fig. 6 (Appendix A, crop)",
+   "paper": {
+    "first_author": "Chung",
+    "year": 2026,
+    "title": "The 200-300 GHz Survey for 18 Class II Disks in the Ophiuchus Star-Forming Complex",
+    "journal": "arXiv e-prints",
+    "arxiv": "2610.02619",
+    "bibcode": "2026arXiv261002619C"
+   },
+   "note": "HBC 266 (J16284527-2428190, 82 pc, M3.75, 0.43\" binary): compact, marginally resolved round emission; the 0.43\" binary components cannot be separated in the SMA data and the system was fitted as a single source; F_294GHz = 113.5 +/- 9.0 mJy (Table 4); R_95% disk = 0.39\" (quoted from Shoshi et al. 2025 in Table 1). Image covers the 8\"-wide square field centred on the source peak, contours from 3 sigma in 3-sigma steps, hatched ellipse = synthesized beam. The 286-298 GHz data come from the SMA 270 GHz tracks 270GHz-2a (2022-05-23, EXT config) and 270GHz-1 (2023-08-29, COM config), concatenated to a 0.8\"-1.2\" FWHM beam; the paper does not state per-target track assignments."
   }
  ],
  "notes": "First-published SPHERE/IRDIS H-band polarimetric image (SPHERE GTO, program 1100.C-0481, PI Beuzit). Reveals a stellar companion at 0.24 arcsec (28 au) and a faint, compact polarimetric emission centered on the primary star, plus an extended feature beyond the companion's projected separation (Garufi et al. 2026).",
- "last_updated": "2026-07-06"
+ "last_updated": "2026-10-06"
 }
