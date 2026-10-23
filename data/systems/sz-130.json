@@ -1,0 +1,41 @@
+{
+ "id": "sz-130",
+ "name": "Sz 130",
+ "alt_names": [],
+ "simbad": "Sz 130",
+ "ra_deg": 240.1293228,
+ "dec_deg": -41.7269413,
+ "dist_pc": 157.9,
+ "sptype": "M1.5",
+ "region": "Lupus",
+ "categories": [
+  "protoplanetary"
+ ],
+ "notes": "Compact Class II disk with a faint outer ring; ALMA Band 7 0.87 mm (Curone et al. 2026)",
+ "images": [
+  {
+   "image_id": "sz-130_alma-band7-curone26",
+   "file": "images/sz-130/sz-130_alma-band7-curone26.png",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 7",
+   "wavelength_um": 870,
+   "wavelength_label": "0.87 mm continuum (343.5 GHz; robust 0.5; compact inner disk plus faint 18 au outer ring)",
+   "technique": "interferometry",
+   "content": "continuum",
+   "epoch": "2025-07-22",
+   "credit": "Curone et al. 2026, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Curone",
+    "year": 2026,
+    "title": "Probing Planet Formation within 10 au: Dust Substructures in Extremely Compact Protoplanetary Disks",
+    "journal": "arXiv e-prints",
+    "arxiv": "2610.20393",
+    "bibcode": "2026arXiv261020393C"
+   },
+   "note": "Panel label inside figure: Sz 130. Inner component R68 = 1.68 au (0.0107\") - smallest disk in the sample; with the faint outer ring R68 = 19.47 au (0.1233\"). The inner emission component is smooth (no substructure within 10 au), but a faint outer gap/ring pair is detected (D8 at 8.1 au / B18 at 18.0 au; ring carries 3.0 mJy = 56% of the total flux), only visible in the saturated robust-2.0 image. Beam 22x14 mas = 3.5x2.2 au, PA_b = 65 deg; F_nu = 5.33 +/- 0.48 mJy; rms 35 uJy/beam. EB 22 Jul 2025."
+  }
+ ],
+ "planets": [],
+ "last_updated": "2026-10-23"
+}

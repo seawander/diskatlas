@@ -513,8 +513,146 @@
    },
    "epoch": "2023-08-28",
    "content": "line"
+  },
+  {
+   "image_id": "flying-saucer_jwst-nircam-f115w-ma26",
+   "file": "images/flying-saucer/flying-saucer_jwst-nircam-f115w-ma26.png",
+   "type": "disk_scattered",
+   "facility": "JWST",
+   "instrument": "NIRCam F115W",
+   "wavelength_um": 1.15,
+   "wavelength_label": "1.15 um F115W broadband; edge-on disk, two reflection nebulae + dark lane",
+   "technique": "imaging",
+   "survey": null,
+   "content": "continuum",
+   "epoch": "2024-04-09",
+   "credit": "Ma et al. 2026, Fig. 2 (JWST top row, 1.1 um panel; crop)",
+   "paper": {
+    "first_author": "Ma",
+    "year": 2026,
+    "title": "JWST Imaging of Edge-on Protoplanetary Disks. V. Flux Ratio Reversal and Disk-edge Structure in the Flying Saucer",
+    "journal": "arXiv e-prints",
+    "arxiv": "2610.17136",
+    "bibcode": "2026arXiv261017136M"
+   },
+   "note": "Two reflection nebulae split by the dark lane, bottom nebula brighter (top/bottom flux ratio 0.37); weak silhouette absorption against the rho Ophiuchi background; scattered stellar light dominates. Same 2024 epoch is used with archival HST/NICMOS to measure proper motion and nebular variability."
+  },
+  {
+   "image_id": "flying-saucer_jwst-nircam-f200w-ma26",
+   "file": "images/flying-saucer/flying-saucer_jwst-nircam-f200w-ma26.png",
+   "type": "disk_scattered",
+   "facility": "JWST",
+   "instrument": "NIRCam F200W",
+   "wavelength_um": 2.0,
+   "wavelength_label": "2.0 um F200W broadband; edge-on disk, nebulae + bright lining at the outer edge",
+   "technique": "imaging",
+   "survey": null,
+   "content": "continuum",
+   "epoch": "2024-04-09",
+   "credit": "Ma et al. 2026, Fig. 2 (JWST top row, 2.0 um panel; crop)",
+   "paper": {
+    "first_author": "Ma",
+    "year": 2026,
+    "title": "JWST Imaging of Edge-on Protoplanetary Disks. V. Flux Ratio Reversal and Disk-edge Structure in the Flying Saucer",
+    "journal": "arXiv e-prints",
+    "arxiv": "2610.17136",
+    "bibcode": "2026arXiv261017136M"
+   },
+   "note": "Top/bottom flux ratio 0.67 (bottom still brighter); first appearance of the bright curved lining along both outer radial edges, interpreted as forward scattering by grains near the tau~1 layer; gallery panel shows the 6 arcsec field."
+  },
+  {
+   "image_id": "flying-saucer_jwst-nircam-f300m-ma26",
+   "file": "images/flying-saucer/flying-saucer_jwst-nircam-f300m-ma26.png",
+   "type": "disk_scattered",
+   "facility": "JWST",
+   "instrument": "NIRCam F300M",
+   "wavelength_um": 3.0,
+   "wavelength_label": "3.0 um F300M broadband; edge-on disk, flux-ratio reversal and strong lining",
+   "technique": "imaging",
+   "survey": null,
+   "content": "continuum",
+   "epoch": "2024-04-09",
+   "credit": "Ma et al. 2026, Fig. 2 (JWST top row, 3.0 um panel; crop)",
+   "paper": {
+    "first_author": "Ma",
+    "year": 2026,
+    "title": "JWST Imaging of Edge-on Protoplanetary Disks. V. Flux Ratio Reversal and Disk-edge Structure in the Flying Saucer",
+    "journal": "arXiv e-prints",
+    "arxiv": "2610.17136",
+    "bibcode": "2026arXiv261017136M"
+   },
+   "note": "Flux ratio crosses unity here (1.12): the top nebula becomes the brighter one; strongest lining feature, curving along both outer edges and connecting the two nebulae across the midplane. Filter is F300M (Table 1; the running text misprints F300W)."
+  },
+  {
+   "image_id": "flying-saucer_jwst-nircam-f460m-ma26",
+   "file": "images/flying-saucer/flying-saucer_jwst-nircam-f460m-ma26.png",
+   "type": "disk_scattered",
+   "facility": "JWST",
+   "instrument": "NIRCam F460M",
+   "wavelength_um": 4.6,
+   "wavelength_label": "4.6 um F460M broadband; edge-on disk, top nebula brightest",
+   "technique": "imaging",
+   "survey": null,
+   "content": "continuum",
+   "epoch": "2024-04-09",
+   "credit": "Ma et al. 2026, Fig. 2 (JWST top row, 4.6 um panel; crop)",
+   "paper": {
+    "first_author": "Ma",
+    "year": 2026,
+    "title": "JWST Imaging of Edge-on Protoplanetary Disks. V. Flux Ratio Reversal and Disk-edge Structure in the Flying Saucer",
+    "journal": "arXiv e-prints",
+    "arxiv": "2610.17136",
+    "bibcode": "2026arXiv261017136M"
+   },
+   "note": "Flux-ratio maximum in the JWST bands (1.78), top nebula clearly brighter; mixed regime of scattered starlight plus scattered thermal emission from the warm inner disk; still resolved into two nebulae with a dark lane."
+  },
+  {
+   "image_id": "flying-saucer_jwst-miri-f770w-ma26",
+   "file": "images/flying-saucer/flying-saucer_jwst-miri-f770w-ma26.png",
+   "type": "disk_scattered",
+   "facility": "JWST",
+   "instrument": "MIRI F770W",
+   "wavelength_um": 7.7,
+   "wavelength_label": "7.7 um F770W broadband; edge-on disk silhouette against PAH emission",
+   "technique": "imaging",
+   "survey": null,
+   "content": "continuum",
+   "epoch": "2024-04-09",
+   "credit": "Ma et al. 2026, Fig. 2 (JWST top row, 7.7 um panel; crop)",
+   "paper": {
+    "first_author": "Ma",
+    "year": 2026,
+    "title": "JWST Imaging of Edge-on Protoplanetary Disks. V. Flux Ratio Reversal and Disk-edge Structure in the Flying Saucer",
+    "journal": "arXiv e-prints",
+    "arxiv": "2610.17136",
+    "bibcode": "2026arXiv261017136M"
+   },
+   "note": "Disk still resolved into two nebulae, flux ratio 1.28 (top brighter); deep absorption silhouette seen against the PAH-emitting rho Ophiuchi nebula; 0.11 arcsec MIRI pixels make this the coarsest of the resolved broadband panels."
+  },
+  {
+   "image_id": "flying-saucer_jwst-miri-f2100w-ma26",
+   "file": "images/flying-saucer/flying-saucer_jwst-miri-f2100w-ma26.png",
+   "type": "disk_mm",
+   "facility": "JWST",
+   "instrument": "MIRI F2100W",
+   "wavelength_um": 21.0,
+   "wavelength_label": "21 um F2100W broadband; unresolved compact disk emission",
+   "technique": "imaging",
+   "survey": null,
+   "content": "continuum",
+   "epoch": "2024-04-09",
+   "credit": "Ma et al. 2026, Fig. 2 (JWST top row, 21.0 um panel; crop)",
+   "paper": {
+    "first_author": "Ma",
+    "year": 2026,
+    "title": "JWST Imaging of Edge-on Protoplanetary Disks. V. Flux Ratio Reversal and Disk-edge Structure in the Flying Saucer",
+    "journal": "arXiv e-prints",
+    "arxiv": "2610.17136",
+    "bibcode": "2026arXiv261017136M"
+   },
+   "note": "PSF-limited: no dark lane and no two-nebula morphology at 21 um, only a compact emission source; a two-PSF fit still separates the two nebular components, which are about equally bright (flux ratio 0.93); dominated by thermal emission from the outer disk."
   }
  ],
  "notes": "Added 2026-07-06 (Martinien+2026 ALMA highly-inclined disk). Coords pending SIMBAD.",
- "last_updated": "2026-09-11"
+ "last_updated": "2026-10-23"
 }

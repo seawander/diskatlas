@@ -41,8 +41,30 @@
    },
    "epoch": "2022-05-14",
    "content": "continuum"
+  },
+  {
+   "image_id": "ho-lup-a_alma-band7-curone26",
+   "file": "images/ho-lup-a/ho-lup-a_alma-band7-curone26.png",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 7",
+   "wavelength_um": 870,
+   "wavelength_label": "0.87 mm continuum (343.5 GHz; robust 0.5; inner gap/ring plateau)",
+   "technique": "interferometry",
+   "content": "continuum",
+   "epoch": "2025-07-29",
+   "credit": "Curone et al. 2026, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Curone",
+    "year": 2026,
+    "title": "Probing Planet Formation within 10 au: Dust Substructures in Extremely Compact Protoplanetary Disks",
+    "journal": "arXiv e-prints",
+    "arxiv": "2610.20393",
+    "bibcode": "2026arXiv261020393C"
+   },
+   "note": "Panel label inside figure: Sz 88A. R68 = 3.05 au (0.0194\"). Substructure detected in the visibilities/frank profile (plateau-like, not visible by eye in the CLEAN image): gap D3 at 2.6 au and ring B4 at 3.7 au. Beam 19x13 mas = 3.0x2.0 au, PA_b = 90 deg; F_nu = 8.06 +/- 0.44 mJy; rms 47 uJy/beam. EBs 29 Jul and 04 Aug 2025; epoch = first EB."
   }
  ],
  "notes": "SPHERE/IRDIS H-band polarimetric image (DESTINYS survey). Only a marginal polarimetric detection at P.A. of 45 deg (classified as a 'faint disk' in the paper's Table A.4, not 'ambient'); a bright companion is visible at 1.54 arcsec outside the field of view shown (Garufi et al. 2026).",
- "last_updated": "2026-07-06"
+ "last_updated": "2026-10-23"
 }

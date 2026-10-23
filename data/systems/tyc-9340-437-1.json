@@ -104,10 +104,56 @@
    "file": "images/tyc-9340-437-1/tyc-9340-437-1_alma2020.png",
    "epoch": "2017",
    "content": "continuum"
+  },
+  {
+   "image_id": "tyc-9340-437-1_nircam-f444w",
+   "file": "images/tyc-9340-437-1/tyc-9340-437-1_nircam-f444w.png",
+   "type": "disk_scattered",
+   "facility": "JWST",
+   "instrument": "NIRCam F444W",
+   "wavelength_um": 4.44,
+   "wavelength_label": "F444W (4.44 um) scattered light; nearly face-on disk, r0 ~ 39 AU",
+   "technique": "coronagraphy + PSF subtraction",
+   "survey": null,
+   "content": "continuum",
+   "epoch": "2024-07-23",
+   "credit": "Zhang et al. 2026, Fig. 1 (F444W data panel, crop)",
+   "paper": {
+    "first_author": "Zhang",
+    "year": 2026,
+    "title": "A Misaligned Debris Disk relative to the Host Star CPD-72 2713 from JWST/NIRCam Imaging",
+    "journal": "ApJ",
+    "arxiv": "2610.20700",
+    "bibcode": "2026arXiv261020700Z"
+   },
+   "note": "Left 'Data' panel of Fig. 1: Winnie MCRDI PSF-subtracted NIRCam F444W image (MASK335R), north up, east left, linear surface-brightness scale in MJy/sr (the row colourbar sits outside this panel and is shared with the model/residual panels). The background galaxy at dRA ~ +1.3 arcsec, dDec ~ -3.0 arcsec is marked in the panel; the forward-model fit gives r0 = 39.1 (+4.6/-2.6) AU, i = 19.6 deg, PA = 163.4 deg."
+  },
+  {
+   "image_id": "tyc-9340-437-1_nircam-f210m",
+   "file": "images/tyc-9340-437-1/tyc-9340-437-1_nircam-f210m.png",
+   "type": "disk_scattered",
+   "facility": "JWST",
+   "instrument": "NIRCam F210M",
+   "wavelength_um": 2.1,
+   "wavelength_label": "F210M (2.1 um) scattered light; nearly face-on disk, r0 ~ 55 AU",
+   "technique": "coronagraphy + PSF subtraction",
+   "survey": null,
+   "content": "continuum",
+   "epoch": "2024-07-23",
+   "credit": "Zhang et al. 2026, Fig. 1 (F210M data panel, crop)",
+   "paper": {
+    "first_author": "Zhang",
+    "year": 2026,
+    "title": "A Misaligned Debris Disk relative to the Host Star CPD-72 2713 from JWST/NIRCam Imaging",
+    "journal": "ApJ",
+    "arxiv": "2610.20700",
+    "bibcode": "2026arXiv261020700Z"
+   },
+   "note": "Left 'Data' panel of Fig. 1: Winnie MCRDI PSF-subtracted NIRCam F210M image (MASK335R), north up, east left, linear surface-brightness scale in MJy/sr (row colourbar outside the panel). Model fit: r0 = 55.4 (+3.0/-3.2) AU, i = 19.2 deg, PA = 164.7 deg; extended emission and an asymmetric NE/SW excess remain in the residuals."
   }
  ],
  "notes": "1.33 mm ALMA Atacama Compact Array (7-m, ~7.4x5.5 arcsec beam) continuum detection at SNR~5.7 (Moor et al. 2020); the disk is only marginally resolved as an extended blob at this coarse ACA resolution rather than resolved into a ring in the image - the ring geometry (peak radius ~140 au) is inferred from uv-plane visibility modelling, not directly visible in the CLEAN image. Outstandingly large and dust-rich for a 24 Myr-old K7/M0 beta Pic moving-group member, motivating the 'big sibling of AU Mic' framing of Moor et al. (2020).",
- "last_updated": "2026-07-11",
+ "last_updated": "2026-10-23",
  "plx_mas": 27.2315,
  "mags": {
   "B": 11.718,

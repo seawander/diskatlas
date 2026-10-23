@@ -58,10 +58,56 @@
    },
    "epoch": "2019-2023",
    "content": "continuum"
+  },
+  {
+   "image_id": "sz-76_alma-band7-cont",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 7",
+   "wavelength_um": 870,
+   "wavelength_label": "0.87 mm continuum (compact central disk + faint ~45 au outer ring)",
+   "technique": "interferometry",
+   "survey": null,
+   "file": "images/sz-76/sz-76_alma-band7-cont.png",
+   "credit": "Ricciardi et al. 2026, Fig. 1 top panel (crop)",
+   "paper": {
+    "first_author": "Ricciardi",
+    "year": 2026,
+    "title": "A faint dust ring beyond the compact disk of Sz 76",
+    "journal": "A&A (submitted)",
+    "arxiv": "2610.09881",
+    "bibcode": "2026arXiv261009881R"
+   },
+   "epoch": "2025-05-31",
+   "content": "continuum",
+   "note": "ALMA Band 7 (0.87 mm) continuum at ~0.05\" (project 2023.1.01276.S, observed 2025 May 31). Shows the bright compact disk plus the newly detected faint outer dust ring at ~45 au; beam (lower left) and 10 au scale bar in panel. Cropped from Fig. 1 (top), not the archival-contour overlay version."
+  },
+  {
+   "image_id": "sz-76_alma-band7-co-mom1",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 7 (12CO J=3-2)",
+   "wavelength_um": 867,
+   "wavelength_label": "12CO J=3-2 intensity-weighted velocity (moment 1)",
+   "technique": "interferometry",
+   "survey": null,
+   "file": "images/sz-76/sz-76_alma-band7-co-mom1.png",
+   "credit": "Ricciardi et al. 2026, Fig. 1 bottom panel (crop)",
+   "paper": {
+    "first_author": "Ricciardi",
+    "year": 2026,
+    "title": "A faint dust ring beyond the compact disk of Sz 76",
+    "journal": "A&A (submitted)",
+    "arxiv": "2610.09881",
+    "bibcode": "2026arXiv261009881R"
+   },
+   "epoch": "2025-05-31",
+   "content": "line",
+   "note": "12CO J=3-2 intensity-weighted velocity (moment 1) map, Vsys = 3.9 km/s, same ALMA Band 7 data set (2023.1.01276.S). Black contours are the 2, 5 and 15 sigma continuum contours; beam and continuum-contour key are inside the panel."
   }
  ],
  "notes": "Transition disk with an inner dust cavity; ALMA continuum from the Vioque et al. 2026 gallery (literature-compiled). Added 2026-07-11.",
- "last_updated": "2026-07-11",
+ "last_updated": "2026-10-23",
  "plx_mas": null,
  "mags": {
   "G": 13.871,

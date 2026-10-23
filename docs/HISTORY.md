@@ -1418,3 +1418,37 @@ WSB 31 = Elias 24, GSS 39 = Elias 27, YLW 8 = SR 21, IRS 41 = ISO-Oph 129, IRS 5
 WSB 60 = ISO-Oph 196, HBC 266 = SR 13. Those aliases were added to the systems, and every crop
 was re-keyed onto the correct system (`haro-1-4` created for DoAr 16, SIMBAD "Haro 1-4", K4e).
 Atlas: 971 systems / 4700 image records / 850 papers, 0 errors / 0 warnings.
+
+## 2026-10-23 — Weekly digest (17-day catch-up: 19 papers, 9 ingested / 10 excluded)
+
+`fresh_papers.py --days 17` over 643 astro-ph.EP/SR submissions (2026-10-06 → 10-23), covering the
+gap since the last update. **+41 records, +8 systems.**
+
+**Ingested**
+- **2610.20393** Curone et al. — ALMA Band 7 (0.87 mm) at 2 au of 11 extremely compact Lupus disks.
+  Fig. 1 gallery + Fig. 11 Sz 81 A+B wide field (+11). New systems: Sz 81 (= THA 15-10, A+B binary),
+  Sz 97 (= THA 15-24), Sz 104 (= THA 15-30), Sz 112, Sz 130, J1600-4153 and J1613-3736; Sz 73 and
+  Sz 77 already existed; Sz 88A = HO Lup A (alias confirmed by 0.1" position).
+- **2610.17136** Ma et al. — JWST NIRCam/MIRI broadband imaging of the Flying Saucer, one record per
+  filter: F115W, F200W, F300M, F460M, F770W, F2100W (+6; the paper's text misprints F300M/F460M).
+- **2610.10701** Alarcón et al. — EK Cha b: ALMA 1.3 mm continuum + CO J=2-1 moment-0, HST/ACS
+  F814W/F606W, VLT NACO H/Ks and MUSE Hα/Hβ (+8; new system `ek-cha`, candidate logged in `planets[]`
+  as status "candidate"; only F814W is a detection, all other bands are stated as non-detections).
+- **2610.22503** Rampinelli et al. — ALMA Band 5 methanol maps of HD 100546 (+3) and continuum +
+  water + methanol maps of IRS 48 (= `oph-irs-48`, +5). The HD 100546 continuum and water maps were
+  skipped as duplicates of the same dataset already ingested from 2512.06439. IRS 48 epochs left null:
+  the quoted project (2023.1.01431.S) contains no IRS 48 rows and the paper gives no date.
+- **2610.20700** Zhang et al. — JWST/NIRCam F210M + F444W scattered light of the CPD-72 2713 debris
+  disk (= TYC 9340-437-1) (+2).
+- **2610.09881** Ricciardi et al. — Sz 76 Band 7 continuum + 12CO J=3-2 moment-1 (+2).
+- **2610.18821** Diop et al. — DM Tau N2H+ J=3-2 and DCO+ J=4-3 moment-0 maps (+2; new 2018 dataset,
+  distinct from the existing 2016 N2H+ record).
+- **2610.20735** Plunkett et al. — combined four-project ALMA Band 7 image of HH 212 (+1).
+- **2610.22456** Greaves et al. — PEBBLeS e-MERLIN 4.4 cm (6.8 GHz) image of HL Tau (+1).
+
+**Excluded** — 2610.25987 (Sco-Cen kinematic age), 2610.25435 (RHD simulations), 2610.07463
+(COMPASS spectra), 2610.09537 (Mira SED fitting), 2610.21629 (GRAVITY+ astrometry/SED; its only image
+is archival SPHERE already in the atlas), 2610.21957 (review), 2610.22048 (polarization white paper),
+2610.18134 (AGB star EP Aqr), 2610.12632 (neural-operator models), 2610.03974 (photosphere models).
+
+Atlas: 979 systems / 4741 image records / 859 papers, 0 errors / 0 warnings.

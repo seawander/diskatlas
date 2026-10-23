@@ -296,10 +296,33 @@
     "bibcode": "2015ApJ...808L...3A"
    },
    "note": "Panel b of Fig. 2: 1.3 mm (Band 6) continuum. The atlas already holds panel a (2.9 mm B3), panel c (0.87 mm B7) and panel e (1.0 mm B6+B7 combined); this completes the continuum bands shown."
+  },
+  {
+   "image_id": "hl-tau_emerlin-4.4cm",
+   "file": "images/hl-tau/hl-tau_emerlin-4.4cm.png",
+   "type": "disk_mm",
+   "facility": "e-MERLIN",
+   "instrument": "e-MERLIN",
+   "wavelength_um": 44000,
+   "wavelength_label": "4.4 cm (6.8 GHz) continuum; cm emission from the HL Tau disk",
+   "technique": "interferometry",
+   "survey": "PEBBLeS",
+   "content": "continuum",
+   "epoch": "2024",
+   "credit": "Greaves et al. 2026, Fig. 2 left (crop)",
+   "paper": {
+    "first_author": "Greaves",
+    "year": 2026,
+    "title": "Pathfinder results for populations of planet-forming discs with SKA",
+    "journal": "Advancing Astrophysics with the SKA II (AASKAII)",
+    "arxiv": "2610.22456",
+    "bibcode": "2026arXiv261022456G"
+   },
+   "note": "e-MERLIN PEBBLeS 6.8 GHz (4.4 cm) continuum image of HL Tau, sensitivity-weighted (beam 204x78 mas, rms 5.5 uJy/beam); black contours at 3, 5, 7 sigma; the white outline is the disc fitted in the uv-plane. Colour scale in uJy/beam (trimmed); flux density is dominated by the compact disc. Epoch year from the survey campaign (no per-target date in the paper)."
   }
  ],
  "notes": "The first iconic ALMA ring system (ALMA Partnership+2015).",
- "last_updated": "2026-09-12",
+ "last_updated": "2026-10-23",
  "mags": {
   "B": 15.89,
   "V": 14.49,

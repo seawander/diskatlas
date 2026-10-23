@@ -60733,5 +60733,119 @@
   "date": "2026-10-06",
   "title": "The 200-300 GHz Survey for 18 Class II Disks in the Ophiuchus Star-Forming Complex",
   "reason": "Chung et al. 2026 SMA 200-300 GHz survey of 18 Ophiuchus Class II disks: 17 per-source 286-294 GHz continuum image panels ingested (+17; only DoAr 16 = Haro 1-4 was new to the atlas, the other 16 targets already existed under other names - aliases added). SEDs, spectral-index and radius scatter plots excluded."
+ },
+ "2610.20393": {
+  "status": "ingested",
+  "date": "2026-10-23",
+  "title": "Probing Planet Formation within 10 au: Dust Substructures in Extremely Compact Protoplanetary Disks",
+  "reason": "Curone et al. 2026 ALMA Band 7 0.87 mm 2 au survey of 11 compact Lupus disks: Fig. 1 gallery + Fig. 11 Sz 81 wide field ingested (+11 records on 10 systems; new systems sz-81, sz-97, sz-104, sz-112, sz-130, 2mass-j16002612-4153553, 2mass-j16134410-3736462). Profiles, model fits, robust-2.0 duplicates excluded."
+ },
+ "2610.20700": {
+  "status": "ingested",
+  "date": "2026-10-23",
+  "title": "A Misaligned Debris Disk relative to the Host Star CPD-72 2713 from JWST/NIRCam Imaging",
+  "reason": "Zhang et al. 2026 JWST/NIRCam F210M and F444W scattered-light images of the CPD-72 2713 debris disk (= TYC 9340-437-1); first scattered-light detection, face-on disk (+2)."
+ },
+ "2610.17136": {
+  "status": "ingested",
+  "date": "2026-10-23",
+  "title": "JWST Imaging of Edge-on Protoplanetary Disks. V. Flux Ratio Reversal and Disk-edge Structure in the Flying Saucer",
+  "reason": "Ma et al. 2026 JWST NIRCam/MIRI broadband imaging of the Flying Saucer: one record per filter, F115W/F200W/F300M/F460M/F770W/F2100W (+6)."
+ },
+ "2610.10701": {
+  "status": "ingested",
+  "date": "2026-10-23",
+  "title": "EK Cha b: multi-tracer detection of a protoplanet candidate in a gas-rich environment",
+  "reason": "Alarcon et al. 2026: ALMA 1.3 mm continuum + CO J=2-1 moment-0, HST/ACS F814W/F606W, VLT NACO H/Ks and MUSE H-alpha/H-beta panels of EK Cha and the candidate EK Cha b (+8; new system ek-cha, candidate recorded in planets[])."
+ },
+ "2610.09881": {
+  "status": "ingested",
+  "date": "2026-10-23",
+  "title": "A faint dust ring beyond the compact disk of Sz 76",
+  "reason": "Ricciardi et al. 2026 ALMA Band 7 0.87 mm continuum + 12CO J=3-2 moment-1 maps of Sz 76 (+2)."
+ },
+ "2610.18821": {
+  "status": "ingested",
+  "date": "2026-10-23",
+  "title": "Peering into the Midplane of the DM Tau Disk using N2H+ and DCO+",
+  "reason": "Diop et al. 2026 ALMA N2H+ J=3-2 and DCO+ J=4-3 moment-0 maps of DM Tau (+2; distinct 2018 dataset from the existing N2H+ record)."
+ },
+ "2610.20735": {
+  "status": "ingested",
+  "date": "2026-10-23",
+  "title": "A Search for Dust in the Outflow of the HH212 Class 0 Protostellar System",
+  "reason": "Plunkett et al. 2026 combined four-project ALMA Band 7 0.87 mm continuum image of the HH 212 disk + outflow (+1; note states the outflow context)."
+ },
+ "2610.22456": {
+  "status": "ingested",
+  "date": "2026-10-23",
+  "title": "Pathfinder results for populations of planet-forming discs with SKA",
+  "reason": "Greaves et al. 2026 PEBBLeS e-MERLIN 4.4 cm (6.8 GHz) image of HL Tau (+1); simulations excluded."
+ },
+ "2610.22503": {
+  "status": "ingested",
+  "date": "2026-10-23",
+  "title": "An ALMA view on molecular complexity: water, methanol, and methyl formate in the HD 100546 and IRS 48 disks",
+  "reason": "Rampinelli et al. 2026 Band 5 methanol line maps (+3 for HD 100546) and IRS 48 continuum + water + methanol maps (+5; new 1.7 mm and line coverage for oph-irs-48). HD 100546 continuum and water maps skipped as duplicates of 2512.06439."
+ },
+ "2610.25987": {
+  "status": "excluded",
+  "date": "2026-10-23",
+  "title": "Kinematic structure and age of a Scorpius--Centaurus subcomponent: implications for PDS 70 planetary system",
+  "reason": "Kinematic age of the Sco-Cen subcomponent from 405 stellar radial velocities - no sky-image panel of PDS 70."
+ },
+ "2610.25435": {
+  "status": "excluded",
+  "date": "2026-10-23",
+  "title": "Dynamical response of a protoplanetary disk to an FU Ori-type outburst",
+  "reason": "Radiation-hydrodynamical simulations (HURAKAN) - model predictions, no observations."
+ },
+ "2610.07463": {
+  "status": "excluded",
+  "date": "2026-10-23",
+  "title": "Complex Organic Molecules in Protostars with ALMA Spectral Surveys (COMPASS) III",
+  "reason": "ALMA spectral survey of methanol isotopologues in BHR71-IRS1 - spectra/column-density analysis, no sky-image panels."
+ },
+ "2610.09537": {
+  "status": "excluded",
+  "date": "2026-10-23",
+  "title": "Light curve spectral energy distribution fitting of 13 carbon-rich Mira variables stars in the Small Magellanic Cloud",
+  "reason": "Time-resolved SED fitting of Mira variables - no sky images of disks/companions."
+ },
+ "2610.21629": {
+  "status": "excluded",
+  "date": "2026-10-23",
+  "title": "A first look at the protoplanet WISPIT 2 b with VLTI/GRAVITY+",
+  "reason": "GRAVITY+ interferometric astrometry, visibilities and SED/orbit fits; the only image panel is an archival SPHERE IRDIS H-band reduction already covered by the atlas (wispit-2_sphere-h-2025sep / Benisty 2026)."
+ },
+ "2610.21957": {
+  "status": "excluded",
+  "date": "2026-10-23",
+  "title": "Planetary system architectures in the final stages of planet formation",
+  "reason": "Review of resolved debris-belt imaging; reproduces previously published images, no new observation."
+ },
+ "2610.22048": {
+  "status": "excluded",
+  "date": "2026-10-23",
+  "title": "Multi-wavelength Polarization as a Probe of Planet Formation",
+  "reason": "Instrument/science white paper on ALMA polarization - no sky-image panels."
+ },
+ "2610.18134": {
+  "status": "excluded",
+  "date": "2026-10-23",
+  "title": "MATISSE unveils a dusty disc in the interior of EP Aquarii",
+  "reason": "AGB star EP Aqr circumstellar dust - not a protoplanetary/debris disk, companion or quasar host."
+ },
+ "2610.12632": {
+  "status": "excluded",
+  "date": "2026-10-23",
+  "title": "The Fast & Fourier: Using neural operators to speed up radiative modeling of protoplanetary disks",
+  "reason": "Fourier Neural Operator surrogate for RADMC-3D - model predictions, no observations."
+ },
+ "2610.03974": {
+  "status": "excluded",
+  "date": "2026-10-23",
+  "title": "The Nearest, Brightest Debris Disk Host Stars: Updated Photosphere Models and Dust Properties",
+  "reason": "Photosphere/SED modelling of bright debris-disk hosts - no sky-image panels."
  }
 }

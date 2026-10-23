@@ -1,0 +1,68 @@
+{
+ "id": "sz-81",
+ "name": "Sz 81",
+ "alt_names": [
+  "Sz 81A",
+  "Sz 81B",
+  "THA 15-10",
+  "2MASS J15555030-3801329"
+ ],
+ "simbad": "THA 15-10",
+ "ra_deg": 238.9595412,
+ "dec_deg": -38.0259748,
+ "dist_pc": 156.8,
+ "sptype": "M5.1",
+ "region": "Lupus",
+ "categories": [
+  "protoplanetary"
+ ],
+ "notes": "Sz 81 A+B binary (0.26 arcsec, ~41 au); SMA/ALMA 0.87 mm compact disk (Curone et al. 2026)",
+ "images": [
+  {
+   "image_id": "sz-81_alma-band7-curone26",
+   "file": "images/sz-81/sz-81_alma-band7-curone26.png",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 7",
+   "wavelength_um": 870,
+   "wavelength_label": "0.87 mm continuum (343.5 GHz; robust 0.5; Sz 81A, smooth but possible shallow inner cavity)",
+   "technique": "interferometry",
+   "content": "continuum",
+   "epoch": "2025-07-21",
+   "credit": "Curone et al. 2026, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Curone",
+    "year": 2026,
+    "title": "Probing Planet Formation within 10 au: Dust Substructures in Extremely Compact Protoplanetary Disks",
+    "journal": "arXiv e-prints",
+    "arxiv": "2610.20393",
+    "bibcode": "2026arXiv261020393C"
+   },
+   "note": "Panel label inside figure: Sz 81A (the companion Sz 81B lies 1.93\" = 304 au away, outside this panel; see the separate wide-field record). R68(Sz 81A) = 5.29 au (0.0337\"). No substructure visible in the CLEAN image, but the real visibilities fall below zero at ~4 Mlambda and the frank profile has a flat central component, possibly a shallow/unresolved inner cavity - classified as a hint. Beam 20x16 mas = 3.1x2.5 au, PA_b = 62 deg; Sz 81A F_nu = 8.72 +/- 0.35 mJy; rms 41 uJy/beam. EB 21 Jul 2025 (Sz 81 A and B in the same primary beam)."
+  },
+  {
+   "image_id": "sz-81_alma-band7-curone26-ab",
+   "file": "images/sz-81/sz-81_alma-band7-curone26-ab.png",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 7",
+   "wavelength_um": 870,
+   "wavelength_label": "0.87 mm continuum (343.5 GHz; robust 2.0; wide field with Sz 81 A and Sz 81 B)",
+   "technique": "interferometry",
+   "content": "continuum",
+   "epoch": "2025-07-21",
+   "credit": "Curone et al. 2026, Fig. 11 (crop)",
+   "paper": {
+    "first_author": "Curone",
+    "year": 2026,
+    "title": "Probing Planet Formation within 10 au: Dust Substructures in Extremely Compact Protoplanetary Disks",
+    "journal": "arXiv e-prints",
+    "arxiv": "2610.20393",
+    "bibcode": "2026arXiv261020393C"
+   },
+   "note": "Wide-field view of the Sz 81 binary: both components in one panel (labelled 'Sz 81 A' and 'Sz 81 B' inside the figure). Projected separation 1.93\" = 304 au at 157.2 pc; PA of B relative to A = 19.5 deg (N through E), marked with a dashed line in the panel. Robust 2.0 image; the compact A and B disks are unresolved point-like sources here (R68 = 5.29 au for A, 4.50 au for B); F_nu = 8.72 +/- 0.35 mJy (A) and 3.72 +/- 0.64 mJy (B). Beam 20x16 mas, rms 41 uJy/beam. EB 21 Jul 2025. Colourbar of the original figure sits outside the panel and was trimmed."
+  }
+ ],
+ "planets": [],
+ "last_updated": "2026-10-23"
+}

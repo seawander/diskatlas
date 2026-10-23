@@ -340,10 +340,56 @@
    },
    "file": "images/dm-tau/dm-tau_discs_sma_cont.png",
    "epoch": "2009-12-08"
+  },
+  {
+   "image_id": "dm-tau_n2hp32-diop26",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 7",
+   "wavelength_um": 1073,
+   "wavelength_label": "N2H+ J=3-2 moment 0 (ring at ~100 au + extended outer emission)",
+   "technique": "interferometry",
+   "survey": null,
+   "content": "line",
+   "file": "images/dm-tau/dm-tau_n2hp32-diop26.png",
+   "credit": "Diop et al. 2026, Fig. 2 left panel (crop)",
+   "epoch": "2018",
+   "note": "0.3\" (43 au) ALMA N2H+ J=3-2 (279.511 GHz) moment-0 map, project 2018.1.01119.S (PI K. Flaherty), observed 2018 Oct 25, Nov 4 and Nov 5. Distinct from the existing dm-tau_n2hp32 (Long et al. 2024) record, which re-imaged the lower-resolution archival 2015.1.00678.S data (Qi et al. 2019, epoch 2016): different project, ~3x finer beam, and it resolves the secondary outer shelf at ~310 au. Panel labels, 100 au scale bar and beam are inside the crop.",
+   "paper": {
+    "first_author": "Diop",
+    "year": 2026,
+    "title": "Peering into the Midplane of the DM Tau Disk using N2H+ and DCO+",
+    "journal": "arXiv",
+    "arxiv": "2610.18821",
+    "bibcode": "2026arXiv261018821D"
+   }
+  },
+  {
+   "image_id": "dm-tau_dcop43-diop26",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 7",
+   "wavelength_um": 1041,
+   "wavelength_label": "DCO+ J=4-3 moment 0 (centrally peaked + extended emission)",
+   "technique": "interferometry",
+   "survey": null,
+   "content": "line",
+   "file": "images/dm-tau/dm-tau_dcop43-diop26.png",
+   "credit": "Diop et al. 2026, Fig. 2 right panel (crop)",
+   "epoch": "2018",
+   "note": "DCO+ J=4-3 (288.143 GHz) moment-0 map from the same 2018.1.01119.S data set (2018 Oct 25, Nov 4, Nov 5), 0.3\" beam. Included because the paper does show a genuine moment-0 map (Fig. 2, right), not only channel maps/profiles: centrally peaked emission with a depression near 120 au and extended emission to ~400 au. First DCO+ record for DM Tau.",
+   "paper": {
+    "first_author": "Diop",
+    "year": 2026,
+    "title": "Peering into the Midplane of the DM Tau Disk using N2H+ and DCO+",
+    "journal": "arXiv",
+    "arxiv": "2610.18821",
+    "bibcode": "2026arXiv261018821D"
+   }
   }
  ],
  "notes": null,
- "last_updated": "2026-07-10",
+ "last_updated": "2026-10-23",
  "plx_mas": 6.9421,
  "mags": {
   "U": 14.3,

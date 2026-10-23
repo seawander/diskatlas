@@ -1,0 +1,43 @@
+{
+ "id": "2mass-j16134410-3736462",
+ "name": "J1613-3736",
+ "alt_names": [
+  "2MASS J16134410-3736462"
+ ],
+ "simbad": "2MASS J16134410-3736462",
+ "ra_deg": 243.43375,
+ "dec_deg": -37.6128333,
+ "dist_pc": 157.1,
+ "sptype": "M5",
+ "region": "Lupus",
+ "categories": [
+  "protoplanetary"
+ ],
+ "notes": "Extremely compact Class II disk; ALMA Band 7 0.87 mm (Curone et al. 2026)",
+ "images": [
+  {
+   "image_id": "2mass-j16134410-3736462_alma-band7-curone26",
+   "file": "images/2mass-j16134410-3736462/2mass-j16134410-3736462_alma-band7-curone26.png",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 7",
+   "wavelength_um": 870,
+   "wavelength_label": "0.87 mm continuum (343.5 GHz; robust 0.5; compact, hint of a 3-4 au plateau)",
+   "technique": "interferometry",
+   "content": "continuum",
+   "epoch": "2025-07-23",
+   "credit": "Curone et al. 2026, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Curone",
+    "year": 2026,
+    "title": "Probing Planet Formation within 10 au: Dust Substructures in Extremely Compact Protoplanetary Disks",
+    "journal": "arXiv e-prints",
+    "arxiv": "2610.20393",
+    "bibcode": "2026arXiv261020393C"
+   },
+   "note": "Panel label inside figure: J16134410. R68 = 4.54 au (0.0289\"). No resolved gap/ring in the image; visibility curvature is fitted by frank as a plateau-like feature at 3-4 au, but it is not robust against the geometric-parameter Monte Carlo, so it is classified only as a hint. Low-SNR extended emission around the central peak. Beam 20x13 mas = 3.1x2.0 au, PA_b = 74 deg; F_nu = 1.83 +/- 0.20 mJy; rms 20 uJy/beam. EBs 23 Jul and 29 Jul 2025 (1 h on-source); epoch = first EB."
+  }
+ ],
+ "planets": [],
+ "last_updated": "2026-10-23"
+}

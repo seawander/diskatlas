@@ -56,10 +56,32 @@
    },
    "file": "images/sz73/sz73_12co21-mom0.png",
    "epoch": "2016-07-24"
+  },
+  {
+   "image_id": "sz73_alma-band7-curone26",
+   "file": "images/sz73/sz73_alma-band7-curone26.png",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 7",
+   "wavelength_um": 870,
+   "wavelength_label": "0.87 mm continuum (343.5 GHz; robust 0.5; inner gap/ring plus faint outer rings)",
+   "technique": "interferometry",
+   "content": "continuum",
+   "epoch": "2025-07-21",
+   "credit": "Curone et al. 2026, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Curone",
+    "year": 2026,
+    "title": "Probing Planet Formation within 10 au: Dust Substructures in Extremely Compact Protoplanetary Disks",
+    "journal": "arXiv e-prints",
+    "arxiv": "2610.20393",
+    "bibcode": "2026arXiv261020393C"
+   },
+   "note": "Panel label inside figure: Sz 73. R68 = 5.71 au (0.0365\"); including the faint outer rings R68 = 28.6 au (0.183\"). Substructure detected: inner plateau-type gap/ring pair D4 at 3.5 au and B6 at 5.5 au (from the frank profile, not visible by eye in the CLEAN image), plus faint outer gap/ring pairs B33 (33 au) and B47 (47 au) - outer rings contribute 8.6 mJy, 40% of the total flux. Brightest disk in the sample. Beam 18x14 mas = 2.8x2.2 au, PA_b = 26 deg; F_nu = 21.43 +/- 1.49 mJy; rms 36 uJy/beam. EB 21 Jul 2025."
   }
  ],
  "notes": "Structured (ring/substructure) disk; ALMA continuum from the Kurtovic et al. 2026 archival gallery (Fig. 25). Added 2026-07-11.",
- "last_updated": "2026-07-14",
+ "last_updated": "2026-10-23",
  "plx_mas": 6.3362,
  "mags": {
   "J": 10.739,

@@ -2,7 +2,8 @@
  "id": "oph-irs-48",
  "name": "Oph IRS 48",
  "alt_names": [
-  "WLY 2-48"
+  "WLY 2-48",
+  "IRS 48"
  ],
  "simbad": "WLY 2-48",
  "ra_deg": 246.90496101407,
@@ -460,10 +461,120 @@
    },
    "epoch": "2015-04-26",
    "note": "Subaru/COMICS 8.8 um image of Oph IRS 48 (left/IRS48 column of Fig. 2). PSF columns were not cropped."
+  },
+  {
+   "image_id": "oph-irs-48_b5-1700um-cont",
+   "file": "images/oph-irs-48/oph-irs-48_b5-1700um-cont.png",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 5",
+   "wavelength_um": 1700,
+   "wavelength_label": "1.7 mm continuum",
+   "technique": "interferometry",
+   "content": "continuum",
+   "epoch": null,
+   "credit": "Rampinelli et al. 2026, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Rampinelli",
+    "year": 2026,
+    "title": "An ALMA view on molecular complexity: water, methanol, and methyl formate in the HD 100546 and IRS 48 disks",
+    "journal": "arXiv e-prints",
+    "arxiv": "2610.22503",
+    "bibcode": "2026arXiv261022503R"
+   },
+   "note": "1.7 mm (Band 5) dust continuum, 28 mJy total; RMS 20.4 uJy/beam, peak S/N 614. Compact eccentric dust crescent (dust trap) at ~60 au; white contour marks the crescent and is repeated on the line maps. First Band 5 continuum image for this disk in the atlas. Epoch: not stated in the paper; the quoted ALMA project (2023.1.01431.S) contains no IRS 48 rows, so the date is left blank rather than guessed."
+  },
+  {
+   "image_id": "oph-irs-48_h2o-183ghz-mom0",
+   "file": "images/oph-irs-48/oph-irs-48_h2o-183ghz-mom0.png",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 5",
+   "wavelength_um": 1635,
+   "wavelength_label": "H2O 3(1,3)-2(2,0) 183.31 GHz integrated intensity (moment 0); non-detection",
+   "technique": "interferometry",
+   "content": "line",
+   "epoch": null,
+   "credit": "Rampinelli et al. 2026, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Rampinelli",
+    "year": 2026,
+    "title": "An ALMA view on molecular complexity: water, methanol, and methyl formate in the HD 100546 and IRS 48 disks",
+    "journal": "arXiv e-prints",
+    "arxiv": "2610.22503",
+    "bibcode": "2026arXiv261022503R"
+   },
+   "note": "H2O 3(1,3)-2(2,0) (183.31 GHz) moment-0 map: non-detection in IRS 48 (RMS 5 mJy/beam, natural weighting, 1.2 km/s channels; 3 sigma integrated-flux limit 41 mJy km/s). No 3 sigma contours appear; the white contour is the dust crescent from the continuum. Image-plane and uv-plane stacking also gave no detection. Published imaged non-detection. Epoch: not stated in the paper; the quoted ALMA project (2023.1.01431.S) contains no IRS 48 rows, so the date is left blank rather than guessed."
+  },
+  {
+   "image_id": "oph-irs-48_ch3oh-171ghz-mom0",
+   "file": "images/oph-irs-48/oph-irs-48_ch3oh-171ghz-mom0.png",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 5",
+   "wavelength_um": 1751.3,
+   "wavelength_label": "CH3OH 11(1,10)-11(0,11) E 171.18 GHz integrated intensity (moment 0); detection",
+   "technique": "interferometry",
+   "content": "line",
+   "epoch": null,
+   "credit": "Rampinelli et al. 2026, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Rampinelli",
+    "year": 2026,
+    "title": "An ALMA view on molecular complexity: water, methanol, and methyl formate in the HD 100546 and IRS 48 disks",
+    "journal": "arXiv e-prints",
+    "arxiv": "2610.22503",
+    "bibcode": "2026arXiv261022503R"
+   },
+   "note": "CH3OH 11(1,10)-11(0,11) E (Eu = 174 K) moment-0 map; detected at the mm-crescent of IRS 48 (peak S/N 9.5, integrated flux 13 +/- 1 mJy beam^-1 km/s from the brightest pixel). Emission is compact and coincident with the dust crescent (white contour); pink contours 3, 4, 5 sigma. Traces sublimated methanol ice at the dust trap. Epoch: not stated in the paper; the quoted ALMA project (2023.1.01431.S) contains no IRS 48 rows, so the date is left blank rather than guessed."
+  },
+  {
+   "image_id": "oph-irs-48_ch3oh-172ghz-mom0",
+   "file": "images/oph-irs-48/oph-irs-48_ch3oh-172ghz-mom0.png",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 5",
+   "wavelength_um": 1738.5,
+   "wavelength_label": "CH3OH 7(0,7)-6(1,5) E 172.45 GHz integrated intensity (moment 0); detection",
+   "technique": "interferometry",
+   "content": "line",
+   "epoch": null,
+   "credit": "Rampinelli et al. 2026, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Rampinelli",
+    "year": 2026,
+    "title": "An ALMA view on molecular complexity: water, methanol, and methyl formate in the HD 100546 and IRS 48 disks",
+    "journal": "arXiv e-prints",
+    "arxiv": "2610.22503",
+    "bibcode": "2026arXiv261022503R"
+   },
+   "note": "CH3OH 7(0,7)-6(1,5) E (Eu = 78 K) moment-0 map; detected at the IRS 48 mm-crescent (peak S/N 7.7, integrated flux 11 +/- 2 mJy beam^-1 km/s). Lowest-excitation of the three Band 5 methanol lines shown; white contour = dust crescent, pink contours 3, 4, 5 sigma. Epoch: not stated in the paper; the quoted ALMA project (2023.1.01431.S) contains no IRS 48 rows, so the date is left blank rather than guessed."
+  },
+  {
+   "image_id": "oph-irs-48_ch3oh-173ghz-mom0",
+   "file": "images/oph-irs-48/oph-irs-48_ch3oh-173ghz-mom0.png",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 5",
+   "wavelength_um": 1727.5,
+   "wavelength_label": "CH3OH 12(1,11)-12(0,12) E 173.54 GHz integrated intensity (moment 0); detection",
+   "technique": "interferometry",
+   "content": "line",
+   "epoch": null,
+   "credit": "Rampinelli et al. 2026, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Rampinelli",
+    "year": 2026,
+    "title": "An ALMA view on molecular complexity: water, methanol, and methyl formate in the HD 100546 and IRS 48 disks",
+    "journal": "arXiv e-prints",
+    "arxiv": "2610.22503",
+    "bibcode": "2026arXiv261022503R"
+   },
+   "note": "CH3OH 12(1,11)-12(0,12) E (Eu = 202 K) moment-0 map; detected at the IRS 48 mm-crescent (peak S/N 5.1, integrated flux 8 +/- 2 mJy beam^-1 km/s). Highest-excitation Band 5 methanol line shown; white contour = dust crescent, pink contours 3, 4, 5 sigma. Epoch: not stated in the paper; the quoted ALMA project (2023.1.01431.S) contains no IRS 48 rows, so the date is left blank rather than guessed."
   }
  ],
  "notes": "Prototype azimuthal dust trap. SIMBAD name needs verification (Oph IRS 48 = WLY 2-48).",
- "last_updated": "2026-09-15",
+ "last_updated": "2026-10-23",
  "plx_mas": 7.3357,
  "mags": {
   "G": 16.293634,

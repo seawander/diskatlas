@@ -1,0 +1,43 @@
+{
+ "id": "2mass-j16002612-4153553",
+ "name": "J1600-4153",
+ "alt_names": [
+  "2MASS J16002612-4153553"
+ ],
+ "simbad": "2MASS J16002612-4153553",
+ "ra_deg": 240.1088333,
+ "dec_deg": -41.8986944,
+ "dist_pc": 161.5,
+ "sptype": "M5.5",
+ "region": "Lupus",
+ "categories": [
+  "protoplanetary"
+ ],
+ "notes": "Extremely compact Class II disk; ALMA Band 7 0.87 mm (Curone et al. 2026)",
+ "images": [
+  {
+   "image_id": "2mass-j16002612-4153553_alma-band7-curone26",
+   "file": "images/2mass-j16002612-4153553/2mass-j16002612-4153553_alma-band7-curone26.png",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 7",
+   "wavelength_um": 870,
+   "wavelength_label": "0.87 mm continuum (343.5 GHz; robust 0.5; very compact, no substructure resolved)",
+   "technique": "interferometry",
+   "content": "continuum",
+   "epoch": "2025-08-05",
+   "credit": "Curone et al. 2026, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Curone",
+    "year": 2026,
+    "title": "Probing Planet Formation within 10 au: Dust Substructures in Extremely Compact Protoplanetary Disks",
+    "journal": "arXiv e-prints",
+    "arxiv": "2610.20393",
+    "bibcode": "2026arXiv261020393C"
+   },
+   "note": "Panel label inside figure: J16002612. R68 = 2.50 au (0.0155\"). Smooth: no gap, ring or cavity detected within 10 au (one of the three most compact disks, R68 < 3 au). Beam 17x14 mas = 2.7x2.3 au, PA_b = 44 deg; F_nu = 1.51 +/- 0.13 mJy (robust 2.0); rms 15 uJy/beam. Observed in two EBs: 05 Aug (EB0-3) and 06 Aug 2025 (EB4-5); 2 h on-source. Epoch = first EB."
+  }
+ ],
+ "planets": [],
+ "last_updated": "2026-10-23"
+}

@@ -1,0 +1,43 @@
+{
+ "id": "sz-104",
+ "name": "Sz 104",
+ "alt_names": [
+  "THA 15-30"
+ ],
+ "simbad": "THA 15-30",
+ "ra_deg": 242.1283926,
+ "dec_deg": -39.0968994,
+ "dist_pc": 158.2,
+ "sptype": "M5",
+ "region": "Lupus",
+ "categories": [
+  "protoplanetary"
+ ],
+ "notes": "Extremely compact Class II disk, R68 ~4 au; ALMA Band 7 0.87 mm (Curone et al. 2026)",
+ "images": [
+  {
+   "image_id": "sz-104_alma-band7-curone26",
+   "file": "images/sz-104/sz-104_alma-band7-curone26.png",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 7",
+   "wavelength_um": 870,
+   "wavelength_label": "0.87 mm continuum (343.5 GHz; robust 0.5; very compact, no substructure resolved)",
+   "technique": "interferometry",
+   "content": "continuum",
+   "epoch": "2025-07-29",
+   "credit": "Curone et al. 2026, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Curone",
+    "year": 2026,
+    "title": "Probing Planet Formation within 10 au: Dust Substructures in Extremely Compact Protoplanetary Disks",
+    "journal": "arXiv e-prints",
+    "arxiv": "2610.20393",
+    "bibcode": "2026arXiv261020393C"
+   },
+   "note": "Panel label inside figure: Sz 104. R68 = 2.82 au (0.0179\"). Smooth: no gap, ring or cavity detected within 10 au (R68 < 3 au). Beam 19x13 mas = 3.0x2.1 au, PA_b = 90 deg; F_nu = 3.02 +/- 0.32 mJy; rms 47 uJy/beam. EBs 29 Jul and 04 Aug 2025; epoch = first EB."
+  }
+ ],
+ "planets": [],
+ "last_updated": "2026-10-23"
+}

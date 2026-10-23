@@ -1740,6 +1740,15 @@
    ]
   },
   {
+   "system": "ek-cha",
+   "image_id": "ek-cha_alma-co21-mom0",
+   "file": "images/ek-cha/ek-cha_alma-co21-mom0.png",
+   "ar": 0.99,
+   "flags": [
+    "GUTTER_EDGE:R(black)"
+   ]
+  },
+  {
    "system": "elias-2-32",
    "image_id": "elias-2-32_agepro",
    "file": "images/elias-2-32/elias-2-32_agepro.png",
@@ -5910,7 +5919,7 @@
    ]
   }
  ],
- "n_ok": 4047,
- "n_total": 4700,
+ "n_ok": 4087,
+ "n_total": 4741,
  "missing": []
 }

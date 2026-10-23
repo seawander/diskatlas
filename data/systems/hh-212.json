@@ -131,8 +131,31 @@
    },
    "file": "images/hh-212/hh-212_vla-ka.png",
    "epoch": "2016-10-22"
+  },
+  {
+   "image_id": "hh-212_alma-band7-combined",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 7",
+   "wavelength_um": 870,
+   "wavelength_label": "0.87 mm continuum (four-project combined; disk + extended outflow dust)",
+   "technique": "interferometry",
+   "survey": null,
+   "content": "continuum",
+   "file": "images/hh-212/hh-212_alma-band7-combined.png",
+   "credit": "Plunkett et al. 2026, Fig. 1 (crop)",
+   "epoch": "2015-2017",
+   "note": "Combined 345 GHz (Band 7) continuum image built from four ALMA projects (2012.1.00122.S, 2015.1.00024.S, 2016.1.01475.S, 2017.1.00044.S; observed 2015 Aug 29 - 2017 Nov 27), sigma = 0.030 mJy/beam. Shows the edge-on disk PLUS extended dust emission south/south-west along the red-shifted outflow cavity; the paper's topic is that outflow dust (contours: 3 sigma dashed grey, 5 sigma white, 10/20/50 sigma pink). Distinct product from the existing single-project Band 7 878 um record (Lee et al. 2021).",
+   "paper": {
+    "first_author": "Plunkett",
+    "year": 2026,
+    "title": "A Search for Dust in the Outflow of the HH212 Class 0 Protostellar System",
+    "journal": "arXiv",
+    "arxiv": "2610.20735",
+    "bibcode": "2026arXiv261020735P"
+   }
   }
  ],
  "notes": "Class 0 protostellar disk driving the HH 212 jet; ALMA 878um dust polarization (~0.03 arcsec resolution) resolves a nearly edge-on disk with V-shaped polarization structures and 'arm' features (Lee et al. 2021, arXiv:2102.11481), attributed to dichroic extinction / self-scattering by grains near the disk midplane.",
- "last_updated": "2026-07-08"
+ "last_updated": "2026-10-23"
 }

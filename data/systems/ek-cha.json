@@ -1,0 +1,221 @@
+{
+ "id": "ek-cha",
+ "name": "EK Cha",
+ "alt_names": [
+  "V* EK Cha",
+  "RECX 5"
+ ],
+ "simbad": "V* EK Cha",
+ "ra_deg": 130.6129031,
+ "dec_deg": -78.9633084,
+ "dist_pc": 98.5,
+ "sptype": "M4.5",
+ "region": "Chamaeleon",
+ "categories": [
+  "protoplanetary"
+ ],
+ "notes": "EK Cha b protoplanet candidate: ALMA 1.3 mm continuum source 0.35 arcsec SW of the star, CO J=2-1 counterpart, HST/ACS photometry (Alarcon et al. 2026); ~8.8 Myr",
+ "images": [
+  {
+   "image_id": "ek-cha_alma-band6-1.3mm",
+   "file": "images/ek-cha/ek-cha_alma-band6-1.3mm.png",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 6",
+   "wavelength_um": 1300,
+   "wavelength_label": "1.3 mm continuum; unresolved disk + EK Cha b CPD candidate 0.46\" SW (5.1 sigma)",
+   "technique": "interferometry",
+   "survey": null,
+   "content": "continuum",
+   "epoch": "2017-2018",
+   "credit": "Alarcon et al. 2026, Fig. 1 (top panel, crop)",
+   "paper": {
+    "first_author": "Alarcon",
+    "year": 2026,
+    "title": "EK Cha b: multi-tracer detection of a protoplanet candidate in a gas-rich environment",
+    "journal": "arXiv e-prints",
+    "arxiv": "2610.10701",
+    "bibcode": "2026arXiv261010701A"
+   },
+   "note": "ALMA Band 6 continuum (277 +/- 54 uJy, rms 32.6 uJy/beam) of EK Cha: the stellar disk is unresolved at the centre and a detached unresolved source, EK Cha b, is detected 461 +/- 42 mas (46 au) to the SW at PA 200 deg, significance 5.1 sigma. Both sources are labelled in the panel; the synthesised beam is shown at bottom left. The SW source is the candidate circumplanetary-disk detection (0.46 arcsec, 46 au); it is unresolved, so it is a point-like source, not resolved circumstellar structure."
+  },
+  {
+   "image_id": "ek-cha_alma-co21-mom0",
+   "file": "images/ek-cha/ek-cha_alma-co21-mom0.png",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 6",
+   "wavelength_um": 1300,
+   "wavelength_label": "12CO J=2-1 integrated intensity; candidate 0.46\" SW at 5.3 sigma",
+   "technique": "interferometry",
+   "survey": null,
+   "content": "line",
+   "epoch": "2017-2018",
+   "credit": "Alarcon et al. 2026, Fig. 1 (bottom panel, crop)",
+   "paper": {
+    "first_author": "Alarcon",
+    "year": 2026,
+    "title": "EK Cha b: multi-tracer detection of a protoplanet candidate in a gas-rich environment",
+    "journal": "arXiv e-prints",
+    "arxiv": "2610.10701",
+    "bibcode": "2026arXiv261010701A"
+   },
+   "note": "Velocity-integrated CO J=2-1 map with 1.3 mm continuum contours. The gas disk is extended, and compact CO emission is recovered at EK Cha b's position (5.3 sigma) inside the white box; the inset shows the CO velocity centroid there, with a gradient consistent with a Keplerian circumplanetary disk. Same Band 6 dataset as the continuum record."
+  },
+  {
+   "image_id": "ek-cha_hst-acs-f814w",
+   "file": "images/ek-cha/ek-cha_hst-acs-f814w.png",
+   "type": "planet",
+   "facility": "HST",
+   "instrument": "ACS F814W",
+   "wavelength_um": 0.814,
+   "wavelength_label": "F814W 0.814 um; EK Cha b detected 0.45\" SW (star + candidate)",
+   "technique": "direct imaging",
+   "survey": null,
+   "content": "continuum",
+   "epoch": "2017-08-29",
+   "credit": "Alarcon et al. 2026, Fig. 1 (middle panel, crop)",
+   "paper": {
+    "first_author": "Alarcon",
+    "year": 2026,
+    "title": "EK Cha b: multi-tracer detection of a protoplanet candidate in a gas-rich environment",
+    "journal": "arXiv e-prints",
+    "arxiv": "2610.10701",
+    "bibcode": "2026arXiv261010701A"
+   },
+   "note": "HST/ACS F814W (0.82 um) image of EK Cha with the 1.3 mm ALMA contours overlaid. The star dominates the centre (PSF FWHM ~84 mas) and EK Cha b is detected at 451 mas, PA 190 deg (2.94 +/- 0.01 x 1e-18 erg/s/cm2/A, about 300 sigma in a 3-pixel aperture) as a faint compact feature inside the SW contour (the star's PSF halo dominates the frame). Candidate separation in the two tracers agrees within 80 mas (1.7 sigma)."
+  },
+  {
+   "image_id": "ek-cha_hst-acs-f606w",
+   "file": "images/ek-cha/ek-cha_hst-acs-f606w.png",
+   "type": "disk_scattered",
+   "facility": "HST",
+   "instrument": "ACS F606W",
+   "wavelength_um": 0.606,
+   "wavelength_label": "F606W 0.606 um; star only, candidate undetected (3 sigma)",
+   "technique": "direct imaging",
+   "survey": null,
+   "content": "continuum",
+   "epoch": "2017-08-29",
+   "credit": "Alarcon et al. 2026, Fig. A.1 (crop)",
+   "paper": {
+    "first_author": "Alarcon",
+    "year": 2026,
+    "title": "EK Cha b: multi-tracer detection of a protoplanet candidate in a gas-rich environment",
+    "journal": "arXiv e-prints",
+    "arxiv": "2610.10701",
+    "bibcode": "2026arXiv261010701A"
+   },
+   "note": "HST/ACS F606W image with ALMA 1.3 mm contours: only EK Cha's PSF is seen at the centre and there is no counterpart at the candidate position (3 sigma upper limit 1.05e-19 erg/s/cm2/A), giving F606W - F814W > 5.82. This is an imaged non-detection of the candidate, not a detection."
+  },
+  {
+   "image_id": "ek-cha_naco-h",
+   "file": "images/ek-cha/ek-cha_naco-h.png",
+   "type": "disk_scattered",
+   "facility": "VLT-NACO",
+   "instrument": "NACO H",
+   "wavelength_um": 1.65,
+   "wavelength_label": "H band 1.65 um; high-contrast residual after PSF subtraction, no candidate",
+   "technique": "PSF subtraction",
+   "survey": null,
+   "content": "continuum",
+   "epoch": "2003-01-17",
+   "credit": "Alarcon et al. 2026, Fig. A.3 (left panel, crop)",
+   "paper": {
+    "first_author": "Alarcon",
+    "year": 2026,
+    "title": "EK Cha b: multi-tracer detection of a protoplanet candidate in a gas-rich environment",
+    "journal": "arXiv e-prints",
+    "arxiv": "2610.10701",
+    "bibcode": "2026arXiv261010701A"
+   },
+   "note": "VLT/NACO H-band residual of EK Cha after high-contrast (ADI/PCA) PSF subtraction, same archival data discussed by Brandeker et al. (2006). No point source is present at EK Cha b's separation: 5 sigma upper limit 9.3e-17 erg/s/cm2/A. This is an imaged non-detection."
+  },
+  {
+   "image_id": "ek-cha_naco-ks",
+   "file": "images/ek-cha/ek-cha_naco-ks.png",
+   "type": "disk_scattered",
+   "facility": "VLT-NACO",
+   "instrument": "NACO Ks",
+   "wavelength_um": 2.2,
+   "wavelength_label": "Ks 2.2 um; high-contrast residual after PSF subtraction, no candidate",
+   "technique": "PSF subtraction",
+   "survey": null,
+   "content": "continuum",
+   "epoch": "2013-03-15",
+   "credit": "Alarcon et al. 2026, Fig. A.3 (right panel, crop)",
+   "paper": {
+    "first_author": "Alarcon",
+    "year": 2026,
+    "title": "EK Cha b: multi-tracer detection of a protoplanet candidate in a gas-rich environment",
+    "journal": "arXiv e-prints",
+    "arxiv": "2610.10701",
+    "bibcode": "2026arXiv261010701A"
+   },
+   "note": "VLT/NACO Ks residual of EK Cha after annular-PCA ADI subtraction (3 PCA components; 56 min on source). No point source at EK Cha b's position; 5 sigma upper limit 1.34e-16 erg/s/cm2/A. Imaged non-detection."
+  },
+  {
+   "image_id": "ek-cha_muse-halpha",
+   "file": "images/ek-cha/ek-cha_muse-halpha.png",
+   "type": "disk_scattered",
+   "facility": "VLT-MUSE",
+   "instrument": "MUSE H-alpha",
+   "wavelength_um": 0.656,
+   "wavelength_label": "H-alpha 0.6563 um; KLIP residual, candidate undetected (1 sigma)",
+   "technique": "PSF subtraction",
+   "survey": null,
+   "content": "line",
+   "epoch": "2022-01-08",
+   "credit": "Alarcon et al. 2026, Fig. A.4 (left panel, crop)",
+   "paper": {
+    "first_author": "Alarcon",
+    "year": 2026,
+    "title": "EK Cha b: multi-tracer detection of a protoplanet candidate in a gas-rich environment",
+    "journal": "arXiv e-prints",
+    "arxiv": "2610.10701",
+    "bibcode": "2026arXiv261010701A"
+   },
+   "note": "MUSE-NFM H-alpha line residual (S/N) after KLIP subtraction of the continuum; emission at EK Cha b's separation is recovered only at the ~1 sigma level, i.e. no detection. 5 sigma contrast Delta mag ~ 7.7 and 3 sigma line-flux upper limit 2.5e-9 Lsun at 461 mas. Imaged non-detection."
+  },
+  {
+   "image_id": "ek-cha_muse-hbeta",
+   "file": "images/ek-cha/ek-cha_muse-hbeta.png",
+   "type": "disk_scattered",
+   "facility": "VLT-MUSE",
+   "instrument": "MUSE H-beta",
+   "wavelength_um": 0.486,
+   "wavelength_label": "H-beta 0.4861 um; KLIP residual, candidate undetected (1 sigma)",
+   "technique": "PSF subtraction",
+   "survey": null,
+   "content": "line",
+   "epoch": "2022-01-08",
+   "credit": "Alarcon et al. 2026, Fig. A.4 (right panel, crop)",
+   "paper": {
+    "first_author": "Alarcon",
+    "year": 2026,
+    "title": "EK Cha b: multi-tracer detection of a protoplanet candidate in a gas-rich environment",
+    "journal": "arXiv e-prints",
+    "arxiv": "2610.10701",
+    "bibcode": "2026arXiv261010701A"
+   },
+   "note": "MUSE-NFM H-beta line residual after KLIP subtraction; no significant emission at EK Cha b's position (~1 sigma). 3 sigma line-flux upper limit 5.4e-9 Lsun. Separate panel/line from H-alpha, same epoch. Imaged non-detection."
+  }
+ ],
+ "planets": [
+  {
+   "name": "b",
+   "status": "candidate",
+   "method": "imaging",
+   "note": "Candidate protoplanet ~0.35-0.46 arcsec SW (~50-65 au) of EK Cha: 5.1 sigma ALMA 1.3 mm continuum point source, 5.3 sigma CO J=2-1 counterpart, and a 0.82 um HST/ACS detection; other bands give non-detections/upper limits (2026)",
+   "paper": {
+    "first_author": "Alarcon",
+    "year": 2026,
+    "title": "EK Cha b: multi-tracer detection of a protoplanet candidate in a gas-rich environment",
+    "journal": "arXiv e-prints",
+    "arxiv": "2610.10701",
+    "bibcode": "2026arXiv261010701A"
+   }
+  }
+ ],
+ "last_updated": "2026-10-23"
+}

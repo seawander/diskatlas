@@ -1,0 +1,41 @@
+{
+ "id": "sz-112",
+ "name": "Sz 112",
+ "alt_names": [],
+ "simbad": "Sz 112",
+ "ra_deg": 242.2313705,
+ "dec_deg": -39.0427614,
+ "dist_pc": 157.7,
+ "sptype": "M6",
+ "region": "Lupus",
+ "categories": [
+  "protoplanetary"
+ ],
+ "notes": "Extremely compact Class II disk; ALMA Band 7 0.87 mm (Curone et al. 2026)",
+ "images": [
+  {
+   "image_id": "sz-112_alma-band7-curone26",
+   "file": "images/sz-112/sz-112_alma-band7-curone26.png",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 7",
+   "wavelength_um": 870,
+   "wavelength_label": "0.87 mm continuum (343.5 GHz; robust 0.5; resolved inner cavity and ring)",
+   "technique": "interferometry",
+   "content": "continuum",
+   "epoch": "2025-07-29",
+   "credit": "Curone et al. 2026, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Curone",
+    "year": 2026,
+    "title": "Probing Planet Formation within 10 au: Dust Substructures in Extremely Compact Protoplanetary Disks",
+    "journal": "arXiv e-prints",
+    "arxiv": "2610.20393",
+    "bibcode": "2026arXiv261020393C"
+   },
+   "note": "Panel label inside figure: Sz 112. R68 = 3.77 au (0.0239\"). Clearest substructure in the sample: inner cavity resolved both in the image plane and in the frank model - cavity/inner ring edge at 1.6 au, ring peak B3 at 2.6 au (width 2.0 au). A cavity had been predicted from SED modelling (van der Marel et al. 2016) but was unresolved at ~5 au resolution before. Beam 19x13 mas = 3.0x2.1 au, PA_b = 89 deg; F_nu = 3.78 +/- 0.28 mJy; rms 47 uJy/beam. EBs 29 Jul and 04 Aug 2025; epoch = first EB."
+  }
+ ],
+ "planets": [],
+ "last_updated": "2026-10-23"
+}

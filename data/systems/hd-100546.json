@@ -1171,10 +1171,76 @@
     "bibcode": "2015ApJ...807...64Q"
    },
    "epoch": "2013-04"
+  },
+  {
+   "image_id": "hd-100546_ch3oh-171ghz-mom0",
+   "file": "images/hd-100546/hd-100546_ch3oh-171ghz-mom0.png",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 5",
+   "wavelength_um": 1751.3,
+   "wavelength_label": "CH3OH 11(1,10)-11(0,11) E 171.18 GHz integrated intensity (moment 0); detection",
+   "technique": "interferometry",
+   "content": "line",
+   "epoch": "2024-06-30",
+   "credit": "Rampinelli et al. 2026, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Rampinelli",
+    "year": 2026,
+    "title": "An ALMA view on molecular complexity: water, methanol, and methyl formate in the HD 100546 and IRS 48 disks",
+    "journal": "arXiv e-prints",
+    "arxiv": "2610.22503",
+    "bibcode": "2026arXiv261022503R"
+   },
+   "note": "CH3OH 11(1,10)-11(0,11) E (Eu = 174 K) moment-0 map; detected in HD 100546 (peak S/N 5.2 in the Keplerian-corrected spectrum, integrated flux 12 +/- 7 mJy beam^-1 km/s within r = 110 au). Pink contours are 3, 4, 5 sigma; white ellipse is the beam. Traces warm (~100 K) gas-phase methanol released near the dust-cavity wall."
+  },
+  {
+   "image_id": "hd-100546_ch3oh-172ghz-mom0",
+   "file": "images/hd-100546/hd-100546_ch3oh-172ghz-mom0.png",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 5",
+   "wavelength_um": 1738.5,
+   "wavelength_label": "CH3OH 7(0,7)-6(1,5) E 172.45 GHz integrated intensity (moment 0); non-detection",
+   "technique": "interferometry",
+   "content": "line",
+   "epoch": "2024-06-30",
+   "credit": "Rampinelli et al. 2026, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Rampinelli",
+    "year": 2026,
+    "title": "An ALMA view on molecular complexity: water, methanol, and methyl formate in the HD 100546 and IRS 48 disks",
+    "journal": "arXiv e-prints",
+    "arxiv": "2610.22503",
+    "bibcode": "2026arXiv261022503R"
+   },
+   "note": "CH3OH 7(0,7)-6(1,5) E (Eu = 78 K) moment-0 map: non-detection in HD 100546 (3 sigma upper limit of 4.4 mJy beam^-1 km/s within r = 110 au). The map shows only a compact 3 sigma contour near the disk centre and no coherent emission. White ellipse = beam."
+  },
+  {
+   "image_id": "hd-100546_ch3oh-173ghz-mom0",
+   "file": "images/hd-100546/hd-100546_ch3oh-173ghz-mom0.png",
+   "type": "disk_mm",
+   "facility": "ALMA",
+   "instrument": "Band 5",
+   "wavelength_um": 1727.5,
+   "wavelength_label": "CH3OH 12(1,11)-12(0,12) E 173.54 GHz integrated intensity (moment 0); marginal detection",
+   "technique": "interferometry",
+   "content": "line",
+   "epoch": "2024-06-30",
+   "credit": "Rampinelli et al. 2026, Fig. 1 (crop)",
+   "paper": {
+    "first_author": "Rampinelli",
+    "year": 2026,
+    "title": "An ALMA view on molecular complexity: water, methanol, and methyl formate in the HD 100546 and IRS 48 disks",
+    "journal": "arXiv e-prints",
+    "arxiv": "2610.22503",
+    "bibcode": "2026arXiv261022503R"
+   },
+   "note": "CH3OH 12(1,11)-12(0,12) E (Eu = 202 K) moment-0 map; marginal detection in HD 100546 (peak S/N 3.3 in the Keplerian-corrected spectrum, integrated flux 17 +/- 7 mJy beam^-1 km/s within r = 110 au). The line is too faint to stand out in the raw moment-0 map and is confirmed only with rotation-corrected extraction. Pink contours 3, 4, 5 sigma; white ellipse = beam."
   }
  ],
  "notes": null,
- "last_updated": "2026-09-15",
+ "last_updated": "2026-10-23",
  "plx_mas": 9.2494,
  "mags": {
   "B": 6.71,
